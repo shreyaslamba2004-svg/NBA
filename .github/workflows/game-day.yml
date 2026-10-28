@@ -1,32 +1,23 @@
-# Times are UTC. Sydney = UTC+10/+11, US Eastern = UTC-4/-5.
-#  - 13:00 UTC  morning snapshot (~11pm-midnight Sydney, ~9am ET): grade last night, refresh data,
-#               project the slate, log DraftKings lines + full prop menu (free)
-#  - every 10 min 14:00-05:50 UTC, and every 5 min when a game tips within 2 hours: game-day
-#               loop. Checks injuries/lineups and the free DraftKings props (ESPN) on every run and
-#               re-projects when either changed, so early games (US weekend afternoons, Europe/Mexico
-#               games, ~3-7am Sydney) are covered as well as the usual ~10am-2pm Sydney slate.
-#               ~40 min before each tip it buys that game's AU-book props (The Odds API: 1 credit
-#               per game) + AU game lines once a day. Free on a public repo (Actions minutes are
-#               unlimited); nothing is committed when nothing changed.
-# GitHub's scheduler can start jobs several minutes late, so the pre-tip window is 40 min wide.
+# Game-day projections. GitHub's cron trigger never fired for this repo, so this workflow runs as
+# a relay: one job runs nbamodel/loop.py for ~5.4 hours (snapshot each morning from 13:00 UTC,
+# live checks every 10 min, every 5 min within 2 hours of a tip, Monday retrain kick-off), then
+# starts the next job before it ends. keepalive.yml restarts the relay if it ever stops.
+# To start it by hand: Actions > game-day > Run workflow (command: loop).
+# One-off commands also work: snapshot or live.
+# Free on a public repo (Actions minutes are unlimited); nothing is committed when nothing changed.
 name: game-day
 
 on:
-  schedule:
-    - cron: "0 13 * * *"
-    - cron: "*/10 14-23 * * *"
-    - cron: "*/10 0-5 * * *"
-    - cron: "5-55/10 14-23 * * *"
-    - cron: "5-55/10 0-5 * * *"
   workflow_dispatch:
     inputs:
       command:
-        description: "snapshot or live"
-        default: "live"
+        description: "loop (normal), snapshot or live"
+        default: "loop"
 
 permissions:
   contents: write
   issues: write
+  actions: write
 
 concurrency:
   group: nba-projections
@@ -35,7 +26,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -56,25 +47,26 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           ODDS_REGIONS: ${{ vars.ODDS_REGIONS || 'au' }}
           PROP_MARKETS: ${{ vars.PROP_MARKETS || 'player_points' }}
-        run: |
-          CMD="${{ github.event.inputs.command }}"
-          if [ -z "$CMD" ]; then
-            case "${{ github.event.schedule }}" in
-              "0 13 * * *") CMD=snapshot ;;
-              5-55/10*) CMD="live --near-tip-only" ;;
-              *) CMD=live ;;
-            esac
-          fi
-          python -m nbamodel.cli $CMD
-      - name: Commit logs
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "nba-model-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -f TODAY.md logs output data/processed/current_season_* data/processed/espn_crosswalk.json || true
-          if ! git diff --cached --quiet; then
-            git commit -m "projections $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push
+          CMD="${{ github.event.inputs.command || 'loop' }}"
+          if [ "$CMD" = "loop" ]; then
+            python -m nbamodel.loop
+          else
+            python -m nbamodel.cli $CMD
+            git add -f TODAY.md logs output data/processed/current_season_* data/processed/espn_crosswalk.json || true
+            if ! git diff --cached --quiet; then
+              git commit -m "projections $(date -u +%Y-%m-%dT%H:%MZ)"
+              git pull --rebase origin "${GITHUB_REF_NAME}" && git push
+            fi
           fi
+      - name: Hand over to the next run
+        if: always() && (github.event.inputs.command || 'loop') == 'loop'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run game-day.yml --ref "${GITHUB_REF_NAME}" -f command=loop
       - name: Open an issue if runs are failing (once)
         if: failure()
         env:

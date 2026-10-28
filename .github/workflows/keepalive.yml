@@ -1,0 +1,23 @@
+# Restarts the game-day relay if it has stopped (e.g. a run was cancelled). Runs hourly when
+# GitHub's scheduler works; it can also be run by hand.
+name: keepalive
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          n=$(gh run list -R "$REPO" --workflow game-day.yml --json status --jq '[.[] | select(.status=="in_progress" or .status=="queued" or .status=="pending" or .status=="waiting")] | length')
+          echo "game-day runs active: $n"
+          if [ "$n" = "0" ]; then gh workflow run game-day.yml -R "$REPO" -f command=loop; fi

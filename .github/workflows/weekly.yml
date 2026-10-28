@@ -14,7 +14,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: nba-projections
+  group: nba-weekly
   cancel-in-progress: false
 
 jobs:
