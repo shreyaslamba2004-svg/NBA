@@ -1,15 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIA @ ATL,Klay Thompson 3pm under 2.5 + Onyeka Okongwu 6+ pts,2,0.7397,0.4887,2.05,2.15,2.12,0.0354,0.998,2.10-2.50
-MIA @ ATL,Klay Thompson 3pm under 2.5 + Bam Adebayo 1+ 3pm,2,0.6554,0.44,2.27,2.39,2.35,0.0334,1.002,2.10-2.50
-MIA @ ATL,Klay Thompson 3pm under 2.5 + CJ McCollum 12+ pts,2,0.6774,0.4511,2.22,2.33,2.29,0.0321,0.998,2.10-2.50
+MIA @ ATL,Klay Thompson 3pm under 2.5 + Onyeka Okongwu 6+ pts,2,0.7397,0.4892,2.04,2.15,2.12,0.035,0.998,2.10-2.50
+MIA @ ATL,Klay Thompson 3pm under 2.5 + Bam Adebayo 1+ 3pm,2,0.6554,0.4395,2.28,2.39,2.35,0.0339,1.002,2.10-2.50
+MIA @ ATL,Klay Thompson 3pm under 2.5 + Bam Adebayo 6+ reb,2,0.7118,0.4771,2.1,2.2,2.16,0.0314,1.0,2.10-2.50
+MIA @ ATL,Klay Thompson 3pm under 2.5 + CJ McCollum 10+ pts,2,0.7368,0.4946,2.02,2.12,2.08,0.031,1.0,1.85-2.10
 MIA @ ATL,Klay Thompson 3pm under 2.5 + CJ McCollum 1+ 3pm,2,0.742,0.5014,1.99,2.09,2.05,0.0292,1.0,1.85-2.10
 MIA @ ATL,Klay Thompson 3pm under 2.5 + Onyeka Okongwu 10+ pra,2,0.7862,0.5298,1.89,1.98,1.94,0.0286,0.999,1.85-2.10
-MIA @ ATL,Klay Thompson 3pm under 2.5 + Bam Adebayo 20+ pra,2,0.7354,0.4982,2.01,2.11,2.06,0.0245,0.997,1.85-2.10
-MIA @ ATL,Luguentz Dort 3pm under 1.5 + Onyeka Okongwu 10+ pra,2,0.6902,0.5281,1.89,1.99,1.83,-0.0329,1.0,1.65-1.85
-MIA @ ATL,CJ McCollum 12+ pts + Bam Adebayo 1+ 3pm,2,0.6643,0.5919,1.69,1.77,1.54,-0.09,1.001,1.50-1.65
-MIA @ ATL,Onyeka Okongwu 6+ pts + CJ McCollum 12+ pts + Bam Adebayo 1+ 3pm,3,0.6033,0.5014,1.99,2.09,1.74,-0.1263,1.004,1.65-1.85
-MIA @ ATL,Onyeka Okongwu 6+ pts + CJ McCollum 12+ pts + Bam Adebayo 6+ reb,3,0.6562,0.5455,1.83,1.92,1.6,-0.1271,1.003,1.50-1.65
-MIA @ ATL,Onyeka Okongwu 6+ pts + Bam Adebayo 1+ 3pm + CJ McCollum 1+ 3pm,3,0.6604,0.5568,1.8,1.89,1.56,-0.1294,1.005,1.50-1.65
+MIA @ ATL,Luguentz Dort 3pm under 1.5 + Onyeka Okongwu 10+ pra,2,0.6902,0.5374,1.86,1.95,1.79,-0.0404,1.0,1.65-1.85
+MIA @ ATL,CJ McCollum 12+ pts + Bam Adebayo 1+ 3pm,2,0.6643,0.593,1.69,1.77,1.53,-0.0905,1.001,1.50-1.65
+MIA @ ATL,Onyeka Okongwu 6+ pts + CJ McCollum 12+ pts + Bam Adebayo 1+ 3pm,3,0.6033,0.5029,1.99,2.09,1.74,-0.1272,1.004,1.65-1.85
+MIA @ ATL,Onyeka Okongwu 6+ pts + CJ McCollum 12+ pts + Bam Adebayo 6+ reb,3,0.6562,0.5469,1.83,1.92,1.59,-0.1279,1.003,1.50-1.65
+MIA @ ATL,Onyeka Okongwu 6+ pts + Bam Adebayo 1+ 3pm + CJ McCollum 10+ pts,3,0.6549,0.5487,1.82,1.91,1.59,-0.1289,1.004,1.50-1.65
 WAS @ CLE,Trae Young pa under 30.5 + CLE win,2,0.6263,0.435,2.3,2.41,2.45,0.0674,1.025,2.10-2.50
 WAS @ CLE,Trae Young pra under 33.5 + CLE win,2,0.6317,0.4413,2.27,2.38,2.41,0.0647,1.025,2.10-2.50
 WAS @ CLE,Trae Young pts under 20.5 + CLE win,2,0.6111,0.426,2.35,2.46,2.5,0.0642,1.024,2.10-2.50
@@ -55,13 +55,12 @@ ORL @ TOR,Wendell Carter Jr. 8+ pts + Desmond Bane 15+ pts,2,0.6828,0.5777,1.73,
 ORL @ TOR,Wendell Carter Jr. 8+ pts + RJ Barrett 4+ reb,2,0.6782,0.5765,1.73,1.82,1.61,-0.0725,1.003,1.50-1.65
 ORL @ TOR,Desmond Bane 15+ pts + RJ Barrett 4+ reb,2,0.659,0.5765,1.73,1.82,1.6,-0.0791,1.006,1.50-1.65
 ORL @ TOR,Scottie Barnes 3pm under 1.5 + Franz Wagner 4+ reb + Wendell Carter Jr. 4+ reb,3,0.6492,0.4878,2.05,2.15,1.85,-0.0987,0.996,1.65-1.85
-NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 3+ reb,2,0.6116,0.4688,2.13,2.24,2.06,-0.0322,1.001,1.85-2.10
-NYK @ CHI,Karl-Anthony Towns pr under 34.5 + OG Anunoby 3+ reb,2,0.6076,0.4692,2.13,2.24,2.06,-0.0352,1.001,1.85-2.10
-NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 8+ pts,2,0.6395,0.4921,2.03,2.13,1.96,-0.036,0.998,1.85-2.10
-NYK @ CHI,Karl-Anthony Towns pa under 24.5 + OG Anunoby 3+ reb,2,0.5756,0.4482,2.23,2.34,2.14,-0.0387,1.001,2.10-2.50
-NYK @ CHI,Karl-Anthony Towns pra under 38.5 + Matas Buzelis 3+ reb,2,0.5824,0.4519,2.21,2.32,2.12,-0.0416,0.995,2.10-2.50
-NYK @ CHI,Karl-Anthony Towns pr under 34.5 + Matas Buzelis 3+ reb,2,0.5783,0.4522,2.21,2.32,2.11,-0.0448,0.995,2.10-2.50
-NYK @ CHI,Josh Hart pr under 20.5 + Karl-Anthony Towns 5+ reb,2,0.6341,0.515,1.94,2.04,1.83,-0.0576,1.0,1.65-1.85
+NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 3+ reb,2,0.6116,0.4631,2.16,2.27,2.1,-0.027,1.001,2.10-2.50
+NYK @ CHI,Karl-Anthony Towns pra under 38.5 + Matas Buzelis 6+ pts,2,0.6331,0.4837,2.07,2.17,2.0,-0.0313,0.999,1.85-2.10
+NYK @ CHI,Karl-Anthony Towns pr under 34.5 + OG Anunoby 3+ reb,2,0.6076,0.4649,2.15,2.26,2.08,-0.0313,1.001,1.85-2.10
+NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 15+ pra,2,0.6196,0.4743,2.11,2.21,2.04,-0.0343,0.997,1.85-2.10
+NYK @ CHI,Karl-Anthony Towns pra under 38.5 + Landry Shamet 1+ 3pm,2,0.5494,0.4245,2.36,2.47,2.27,-0.0355,0.999,2.10-2.50
+NYK @ CHI,Karl-Anthony Towns pra under 38.5 + Matas Buzelis 3+ reb,2,0.5824,0.4463,2.24,2.35,2.16,-0.0363,0.995,2.10-2.50
 HOU @ MIL,Myles Turner 3pm under 1.5 + Reed Sheppard 8+ pts,2,0.5754,0.4028,2.48,2.61,2.49,0.0026,1.0,2.10-2.50
 HOU @ MIL,Myles Turner 3pm under 1.5 + Kevin Durant 3+ ast,2,0.5814,0.4083,2.45,2.57,2.46,0.0023,1.001,2.10-2.50
 HOU @ MIL,Tyler Herro 3pm under 2.5 + Reed Sheppard 6+ pts,2,0.5962,0.4286,2.33,2.45,2.31,-0.0094,0.999,2.10-2.50
@@ -113,15 +112,15 @@ OKC @ DAL,Shai Gilgeous-Alexander 6+ ast + Max Christie 6+ pts,2,0.6894,0.5173,1
 OKC @ DAL,Max Christie 6+ pts + P.J. Washington 10+ pts + Isaiah Hartenstein 6+ reb,3,0.7114,0.5694,1.76,1.84,1.57,-0.108,1.011,1.50-1.65
 OKC @ DAL,Max Christie 6+ pts + P.J. Washington 10+ pts + Isaiah Hartenstein 6+ pts,3,0.6858,0.5495,1.82,1.91,1.62,-0.1086,1.01,1.50-1.65
 OKC @ DAL,Max Christie 6+ pts + P.J. Washington 5+ reb + Isaiah Hartenstein 6+ reb,3,0.7322,0.5826,1.72,1.8,1.53,-0.1113,1.005,1.50-1.65
-LAL @ LAC,Brook Lopez 12+ pts + Derrick Jones Jr. 8+ pts,2,0.5673,0.4225,2.37,2.49,2.32,-0.018,1.007,2.10-2.50
-LAL @ LAC,LAC win + Brook Lopez 8+ pts,2,0.5941,0.3981,2.51,2.64,2.46,-0.0226,1.016,2.10-2.50
-LAL @ LAC,Brook Lopez 12+ pts + Darius Garland 18+ pts,2,0.541,0.4146,2.41,2.53,2.35,-0.0268,1.008,2.10-2.50
-LAL @ LAC,Brook Lopez 4+ reb + Derrick Jones Jr. 8+ pts,2,0.632,0.4947,2.02,2.12,1.93,-0.0434,1.002,1.85-2.10
-LAL @ LAC,Brook Lopez 4+ reb + Walker Kessler 8+ reb,2,0.6098,0.4857,2.06,2.16,1.96,-0.0487,1.003,1.85-2.10
-LAL @ LAC,Brook Lopez 4+ reb + Darius Garland 18+ pts,2,0.6035,0.4861,2.06,2.16,1.95,-0.0509,1.004,1.85-2.10
-LAL @ LAC,Brook Lopez 1+ 3pm + Austin Reaves 3+ reb,2,0.6609,0.5765,1.73,1.82,1.59,-0.0837,1.0,1.50-1.65
-LAL @ LAC,Austin Reaves 3+ reb + Darius Garland 18+ pts,2,0.671,0.5896,1.7,1.78,1.55,-0.0838,1.003,1.50-1.65
-LAL @ LAC,Brook Lopez 1+ 3pm + Darius Garland 18+ pts,2,0.672,0.587,1.7,1.79,1.56,-0.0845,1.0,1.50-1.65
-LAL @ LAC,Derrick Jones Jr. 8+ pts + Brook Lopez 6+ pts + Walker Kessler 8+ reb,3,0.6798,0.5303,1.89,1.98,1.69,-0.1055,1.004,1.65-1.85
-LAL @ LAC,Derrick Jones Jr. 8+ pts + Brook Lopez 6+ pts + Darius Garland 18+ pts,3,0.6736,0.5315,1.88,1.98,1.68,-0.1064,1.007,1.65-1.85
-LAL @ LAC,Derrick Jones Jr. 8+ pts + Brook Lopez 6+ pts + Austin Reaves 3+ reb,3,0.6592,0.5194,1.93,2.02,1.71,-0.1099,1.003,1.65-1.85
+LAL @ LAC,LAC win + Brook Lopez 8+ pts,2,0.5941,0.3982,2.51,2.64,2.45,-0.0228,1.016,2.10-2.50
+LAL @ LAC,LAC win + Darius Garland 18+ pts,2,0.5717,0.4034,2.48,2.6,2.4,-0.0303,1.028,2.10-2.50
+LAL @ LAC,Brook Lopez 12+ pts + Darius Garland 18+ pts,2,0.541,0.4188,2.39,2.51,2.31,-0.031,1.008,2.10-2.50
+LAL @ LAC,Brook Lopez 4+ reb + Walker Kessler 8+ reb,2,0.6098,0.4878,2.05,2.15,1.95,-0.0503,1.003,1.85-2.10
+LAL @ LAC,Brook Lopez 4+ reb + Derrick Jones Jr. 3+ reb,2,0.6209,0.4971,2.01,2.11,1.91,-0.0514,1.002,1.85-2.10
+LAL @ LAC,Brook Lopez 4+ reb + Darius Garland 18+ pts,2,0.6035,0.4874,2.05,2.15,1.95,-0.052,1.004,1.85-2.10
+LAL @ LAC,Brook Lopez 1+ 3pm + Walker Kessler 8+ reb,2,0.6803,0.5882,1.7,1.79,1.56,-0.0809,1.0,1.50-1.65
+LAL @ LAC,Brook Lopez 1+ 3pm + Derrick Jones Jr. 3+ reb,2,0.6924,0.5991,1.67,1.75,1.53,-0.0824,0.999,1.50-1.65
+LAL @ LAC,Brook Lopez 1+ 3pm + Darius Garland 18+ pts,2,0.672,0.5865,1.7,1.79,1.56,-0.0843,1.0,1.50-1.65
+LAL @ LAC,Walker Kessler 8+ reb + Derrick Jones Jr. 3+ reb + Darius Garland 18+ pts,3,0.5894,0.4796,2.09,2.19,1.84,-0.1183,1.005,1.65-1.85
+LAL @ LAC,Derrick Jones Jr. 3+ reb + Darius Garland 18+ pts + Walker Kessler 7+ reb,3,0.626,0.5174,1.93,2.03,1.69,-0.1233,1.005,1.65-1.85
+LAL @ LAC,Brook Lopez 1+ 3pm + Darius Garland 18+ pts + Walker Kessler 7+ reb,3,0.5985,0.4937,2.03,2.13,1.78,-0.1237,1.004,1.65-1.85
