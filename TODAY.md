@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 07:53 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 07:55 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -66,11 +66,13 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 5.5 | HOU @ MIL | draftkings | 3.69 | 2.25 | 44.5% | 25.3% | 30.1% | +11.2% | +64.2% | 1.0% |
 | Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.87 | 1.21 | 82.7% | 50.0% | 58.2% | +8.8% | +54.7% | 2.0% |
-| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.17 | 2.15 | 46.5% | 29.5% | 33.7% | +6.9% | +47.4% | 0.8% |
+| Jake LaRavia PTS under 8.5 | LAL @ LAC | draftkings | 2.00 | 1.34 | 74.5% | 46.7% | 53.7% | +7.3% | +49.0% | 1.8% |
 | Trae Young PA under 30.5 | WAS @ CLE | draftkings | 1.91 | 1.30 | 77.2% | 48.9% | 56.0% | +6.9% | +47.4% | 1.9% |
+| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.17 | 2.15 | 46.5% | 29.5% | 33.7% | +6.9% | +47.4% | 0.8% |
 | Trae Young PTS under 20.5 | WAS @ CLE | draftkings | 1.94 | 1.33 | 75.4% | 48.1% | 54.9% | +6.7% | +46.6% | 1.8% |
 | Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.88 | 1.28 | 77.8% | 49.8% | 56.8% | +6.6% | +46.1% | 1.9% |
 | Daniss Jenkins REB over 3.5 | CHA @ DET | draftkings | 3.04 | 2.10 | 47.7% | 30.7% | 35.0% | +6.3% | +45.0% | 0.8% |
+| Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.23 | 2.25 | 44.4% | 28.9% | 32.8% | +5.9% | +43.4% | 0.7% |
 | Trae Young PR under 23.5 | WAS @ CLE | draftkings | 1.88 | 1.31 | 76.0% | 49.6% | 56.2% | +5.9% | +43.4% | 1.7% |
 | Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.05 | 1.44 | 69.7% | 45.6% | 51.6% | +5.8% | +42.8% | 1.4% |
 | Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.69 | 1.19 | 84.0% | 55.2% | 62.4% | +5.7% | +42.4% | 2.0% |
@@ -1193,18 +1195,18 @@ Out: Bradley Beal (LAC), Rui Hachimura (LAC), Brandon Ingram (LAC), Max Strus (L
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.12 | 2.25 | 44.4% | 29.9% | 33.6% | +4.7% | +38.5% | 0.6% |
-| Walker Kessler REB over 13.5 | LAL @ LAC | draftkings | 3.98 | 2.95 | 33.9% | 23.5% | 26.1% | +3.9% | +35.1% | 0.3% |
-| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.41 | 2.59 | 38.5% | 27.4% | 30.2% | +2.9% | +31.4% | 0.3% |
+| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.58 | 2.59 | 38.5% | 26.1% | 29.2% | +4.6% | +38.0% | 0.4% |
+| Brook Lopez PTS over 14.5 | LAL @ LAC | draftkings | 2.92 | 2.13 | 46.9% | 32.0% | 35.7% | +4.3% | +37.0% | 0.6% |
+| Walker Kessler REB over 12.5 | LAL @ LAC | draftkings | 3.11 | 2.35 | 42.6% | 30.0% | 33.2% | +3.2% | +32.5% | 0.4% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Brook Lopez 1+ 3pm **+** Austin Reaves 3+ reb | 57.3% | 1.75 | 1.83 | 1.60 | -8.2% |
-| Brook Lopez 4+ reb **+** Austin Reaves 1+ 3pm | 54.8% | 1.82 | 1.91 | 1.71 | -6.1% |
-| Brook Lopez 12+ pts **+** Austin Reaves 1+ 3pm | 46.1% | 2.17 | 2.28 | 2.09 | -3.4% |
-| Brook Lopez 12+ pts **+** Derrick Jones Jr. 8+ pts | 42.3% | 2.37 | 2.48 | 2.32 | -1.8% |
+| Brook Lopez 1+ 3pm **+** Austin Reaves 3+ reb | 57.6% | 1.73 | 1.82 | 1.59 | -8.4% |
+| Derrick Jones Jr. 8+ pts **+** Brook Lopez 6+ pts **+** Walker Kessler 8+ reb | 53.0% | 1.89 | 1.98 | 1.69 | -10.5% |
+| Brook Lopez 4+ reb **+** Derrick Jones Jr. 8+ pts | 49.5% | 2.02 | 2.12 | 1.93 | -4.3% |
+| Brook Lopez 12+ pts **+** Derrick Jones Jr. 8+ pts | 42.2% | 2.37 | 2.49 | 2.32 | -1.8% |
 
 <details><summary>LAL players (confirmed only)</summary>
 
