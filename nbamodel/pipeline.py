@@ -13,7 +13,7 @@ import pandas as pd
 from .dataset import DATA, build, load_history
 from .models import SIM_STATS, predict_team, Bundle, predict_minutes, predict_rates
 from . import rotation, edges as E
-from . import scenarios as SC, sgm
+from . import bookie, scenarios as SC, sgm
 from .simulate import expected_minutes, simulate_game, summarize_game, summarize_players
 from .sources import espn, live
 from .sources.live import SourceUnavailable, norm_name
@@ -263,13 +263,17 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
                 offers.append(E.offers_from_props(pp))
         if offers:
             allo = pd.concat(offers, ignore_index=True)
+            allo["offered"] = bookie.offered(allo, base_gp).values
             ev = E.evaluate(exp_sim, gr.home, allo, labels=names)
+            key = ["market", "selection", "line", "player_id"]
+            ok = allo.groupby(key, dropna=False)["offered"].max().reset_index()
+            ev = ev.merge(ok, on=key, how="left")
             ev.insert(1, "matchup", matchup)
             ev = _depends_on(ev, sims, exact, names, gr.home)
             edges.append(ev)
             # same-game multis only from players certain to play (questionable legs could void)
             certain_ids = base_gp.loc[(base_gp["avail_prob"] >= 0.99) & (base_gp["rotation_prob"] >= 0.95), "player_id"]
-            certain = allo[allo["player_id"].isna() | allo["player_id"].isin(certain_ids)]
+            certain = allo[(allo["player_id"].isna() | allo["player_id"].isin(certain_ids)) & allo["offered"]]
             mk_p = ev[["market", "selection", "line", "player_id", "market_novig_prob"]].drop_duplicates(
                 ["market", "selection", "line", "player_id"])
             certain = certain.merge(mk_p, on=["market", "selection", "line", "player_id"], how="left")

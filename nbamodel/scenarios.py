@@ -64,9 +64,6 @@ def switch_in(Pg: pd.DataFrame, Gg: pd.DataFrame, r: dict) -> tuple[pd.DataFrame
         Pg.loc[mates, "mates_min"] += m
     if "mates_usage" in Pg:
         Pg.loc[mates, "mates_usage"] += m * float(np.nan_to_num(r.get("usage_r_s", 0.0)))
-    for c, rate in (("mates_pts", "pts_r_s"), ("mates_fg3m", "fg3m_r_s")):
-        if c in Pg:
-            Pg.loc[mates, c] += m * float(np.nan_to_num(r.get(rate, 0.0)))
     if "vac_min_same_pos" in Pg and r.get("pos") in ("G", "F", "C"):
         Pg.loc[own & (Pg["pos"] == r["pos"]), "vac_min_same_pos"] -= m
     if "vac_min_share" in Pg:

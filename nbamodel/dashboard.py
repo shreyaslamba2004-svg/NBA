@@ -86,6 +86,8 @@ def best_bets(edges: pd.DataFrame) -> tuple[str, str, str]:
     if edges.empty:
         return "_No market prices were available for this run._", "", ""
     e = edges.copy()
+    if "offered" in e:  # only what the bookie lists (bookie_markets.json)
+        e = e[e["offered"].astype(str).str.lower() != "false"]
     e["check_news"] = e["check_news"].astype(str).str.lower() == "true"
     dep = e.get("depends_on", pd.Series("", index=e.index)).fillna("").astype(str)
     e["depends_on"] = dep
@@ -142,6 +144,8 @@ def _game_extras(gid, ed: pd.DataFrame, sg: pd.DataFrame, matchup: str) -> str:
             e = e[e["depends_on"].fillna("").astype(str) == ""]
         if "check_news" in e:
             e = e[e["check_news"].astype(str).str.lower() != "true"]
+        if "offered" in e:
+            e = e[e["offered"].astype(str).str.lower() != "false"]
         e = e.sort_values("ev_blend", ascending=False).drop_duplicates(["player", "market", "selection", "line"])
         if len(e):
             out.append("**Best player props**\n\n" + _bets_table(e.head(TOP_PROPS_GAME)))
