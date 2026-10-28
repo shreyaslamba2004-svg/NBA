@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 08:18 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 08:23 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -14,7 +14,7 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| PHI win **+** Jaylen Brown 12+ pts | PHI @ IND | 61.3% | 1.63 | 1.71 | 1.55 | -5.3% |
+| PHI win **+** Tyrese Maxey 3+ ast | PHI @ IND | 60.6% | 1.65 | 1.73 | 1.55 | -5.9% |
 | CLE win **+** AJ Dybantsa 3+ reb | WAS @ CLE | 58.9% | 1.70 | 1.78 | 1.60 | -5.9% |
 | Wendell Carter Jr. 8+ pts **+** Desmond Bane 15+ pts | ORL @ TOR | 57.8% | 1.73 | 1.82 | 1.62 | -6.4% |
 
@@ -22,9 +22,9 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Shai Gilgeous-Alexander 6+ ast **+** Isaiah Hartenstein 6+ pts | OKC @ DAL | 53.1% | 1.88 | 1.98 | 1.84 | -2.6% |
 | Kevin Durant 10+ ra **+** Reed Sheppard 1+ 3pm | HOU @ MIL | 52.3% | 1.91 | 2.01 | 1.83 | -4.0% |
 | Luguentz Dort 3pm under 1.5 **+** Onyeka Okongwu 10+ pra | MIA @ ATL | 53.7% | 1.86 | 1.95 | 1.79 | -4.0% |
+| Kevin Durant 4+ ast **+** Ryan Rollins 8+ pts | HOU @ MIL | 51.9% | 1.93 | 2.02 | 1.84 | -4.5% |
 
 **Price 1.85-2.10**
 
@@ -50,13 +50,11 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Aday Mara REB over 7.5 | OKC @ DAL | draftkings | 3.63 | Ajay Mitchell | 63.5% | 44.0% | +18.9% |
-| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 3.15 | Ajay Mitchell | 60.8% | 49.0% | +12.7% |
-| Aday Mara REB over 6.5 | OKC @ DAL | draftkings | 2.59 | Ajay Mitchell | 74.4% | 55.6% | +12.3% |
-| Shai Gilgeous-Alexander AST over 6.5 | OKC @ DAL | draftkings | 2.19 | Ajay Mitchell | 72.1% | 61.4% | +6.6% |
-| Aday Mara REB over 5.5 | OKC @ DAL | draftkings | 1.93 | Ajay Mitchell | 83.5% | 67.3% | +6.5% |
-| Isaiah Hartenstein AST over 4.5 | OKC @ DAL | draftkings | 3.27 | Ajay Mitchell | 54.4% | 34.1% | +5.2% |
-| Isaiah Hartenstein REB over 12.5 | OKC @ DAL | draftkings | 3.38 | Ajay Mitchell | 49.2% | 36.6% | +5.1% |
+| Aday Mara REB over 7.5 | OKC @ DAL | draftkings | 3.56 | Ajay Mitchell | 63.5% | 44.0% | +18.0% |
+| Aday Mara REB over 6.5 | OKC @ DAL | draftkings | 2.56 | Ajay Mitchell | 74.4% | 55.6% | +11.8% |
+| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 2.75 | Ajay Mitchell | 60.8% | 49.0% | +7.3% |
+| Aday Mara REB over 5.5 | OKC @ DAL | draftkings | 1.91 | Ajay Mitchell | 83.5% | 67.3% | +6.2% |
+| Ace Bailey 3PM over 2.5 | SAS @ UTA | draftkings | 3.87 | Lauri Markkanen | 47.8% | 33.6% | +5.4% |
 
 ## Check news first
 
@@ -88,7 +86,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | MIA @ ATL | Thu 29 Oct 10:00 | 117.6–122.0 | MIA 38% | 2.66 / 1.60 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o242.5 44% |
-| WAS @ CLE | Thu 29 Oct 10:00 | 110.6–122.5 | WAS 20% | 5.00 / 1.25 | CLE -11.5 | 232.5 | CLE -10.5 covers 54%; o240.5 34% |
+| WAS @ CLE | Thu 29 Oct 10:00 | 110.6–122.5 | WAS 20% | 5.00 / 1.25 | CLE -11.5 | 232.5 | CLE -9.5 covers 57%; o240.5 34% |
 | CHA @ DET | Thu 29 Oct 10:00 | 107.9–109.6 | CHA 45% | 2.23 / 1.81 | DET -2.5 | 217.5 | DET -7.5 covers 34%; o212.5 60% |
 | PHI @ IND | Thu 29 Oct 10:00 | 118.0–112.7 | PHI 64% | 1.55 / 2.80 | IND +5.5 | 230.5 | IND +7.5 covers 56%; o234.5 42% |
 | ORL @ TOR | Thu 29 Oct 10:30 | 108.2–113.9 | ORL 34% | 2.94 / 1.52 | TOR -5.5 | 221.5 | TOR -4.5 covers 54%; o223.5 47% |
@@ -108,8 +106,8 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Giannis Antetokounmpo RA under 17.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.8% | 49.9% | 53.4% | +0.2% | +19.8% | 0.1% |
-| Davion Mitchell PTS under 12.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.6% | 49.6% | 53.1% | +0.1% | +20.0% | 0.0% |
 | Bobby Portis 3PM under 1.5 | MIA @ ATL | draftkings | 2.02 | 1.68 | 59.4% | 46.3% | 49.5% | +0.1% | +20.0% | 0.0% |
+| Davion Mitchell PTS under 12.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.6% | 49.6% | 53.1% | +0.1% | +20.0% | 0.0% |
 
 **Best multis (one per price band)**
 
@@ -309,16 +307,16 @@ Out: Johnny Furphy (IND), T.J. McConnell (IND), Ben Sheppard (IND), Ivica Zubac 
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Anfernee Simons 3PM under 1.5 | PHI @ IND | draftkings | 2.02 | 1.65 | 60.6% | 46.3% | 49.8% | +0.7% | +22.4% | 0.2% |
+| Anfernee Simons 3PM under 1.5 | PHI @ IND | draftkings | 2.01 | 1.65 | 60.6% | 46.5% | 50.0% | +0.5% | +21.7% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| PHI win **+** Jaylen Brown 12+ pts | 61.3% | 1.63 | 1.71 | 1.55 | -5.3% |
-| PHI win **+** Joel Embiid 3+ ast | 54.3% | 1.84 | 1.93 | 1.75 | -5.1% |
+| PHI win **+** Tyrese Maxey 3+ ast | 60.6% | 1.65 | 1.73 | 1.55 | -5.9% |
+| PHI win **+** Joel Embiid 3+ ast | 54.4% | 1.84 | 1.93 | 1.74 | -5.2% |
 | Tyrese Maxey pts under 24.5 **+** LeBron James 3+ reb | 48.3% | 2.07 | 2.17 | 1.98 | -4.2% |
-| Tyrese Maxey pts under 24.5 **+** Pascal Siakam 1+ 3pm | 41.8% | 2.39 | 2.51 | 2.31 | -3.5% |
+| Tyrese Maxey pts under 24.5 **+** Pascal Siakam 1+ 3pm | 41.7% | 2.40 | 2.52 | 2.32 | -3.4% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -692,7 +690,7 @@ Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Jimmy Butler III (GSW), Mose
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Gui Santos 3pm under 1.5 **+** LaMelo Ball 3+ ast | 58.4% | 1.71 | 1.80 | 1.60 | -6.7% |
+| Gui Santos 3pm under 1.5 **+** LaMelo Ball 3+ ast | 58.3% | 1.71 | 1.80 | 1.60 | -6.7% |
 | MIN win **+** LaMelo Ball 2+ 3pm | 51.0% | 1.96 | 2.06 | 1.85 | -5.8% |
 | Stephen Curry pts under 24.5 **+** Jaden McDaniels 8+ pts | 47.6% | 2.10 | 2.20 | 2.07 | -1.6% |
 | Stephen Curry pts under 24.5 **+** Jaden McDaniels 3+ reb | 44.7% | 2.24 | 2.35 | 2.21 | -1.1% |
@@ -903,20 +901,14 @@ Out: Yves Missi (NOP), Alpha Diallo (DEN), Julian Strawther (DEN)
 ### SAS @ UTA
 Out: Trey Alexander (UTA), Blake Hinson (UTA), Jaren Jackson Jr. (UTA), Jusuf Nurkic (UTA), Tobias Harris (SAS)
 
-**Best player props**
-
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Stephon Castle RA under 11.5 | SAS @ UTA | draftkings | 2.03 | 1.70 | 58.7% | 46.2% | 49.3% | +0.1% | +19.1% | 0.0% |
-
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Ace Bailey 10+ pts **+** Keyonte George 15+ pts | 58.5% | 1.71 | 1.79 | 1.59 | -7.2% |
-| Stephon Castle 3pm under 2.5 **+** Keyonte George 4+ ast | 52.3% | 1.91 | 2.01 | 1.82 | -4.6% |
-| Ace Bailey 2+ ast **+** SAS win | 50.5% | 1.98 | 2.08 | 1.94 | -1.9% |
-| Ace Bailey 8+ ra **+** Keyonte George 15+ pts | 41.4% | 2.42 | 2.54 | 2.40 | -0.8% |
+| SAS win **+** Ace Bailey 15+ pra **+** Julian Champagnie 6+ pts | 55.9% | 1.79 | 1.88 | 1.62 | -9.2% |
+| Stephon Castle 3pm under 2.5 **+** Keyonte George 4+ ast | 52.5% | 1.91 | 2.00 | 1.82 | -4.7% |
+| Ace Bailey 2+ ast **+** SAS win | 50.4% | 1.98 | 2.08 | 1.94 | -2.0% |
+| Ace Bailey 8+ ra **+** Keyonte George 25+ pra | 41.9% | 2.38 | 2.50 | 2.38 | -0.4% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -1048,10 +1040,10 @@ Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Ca
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Max Christie 6+ pts **+** P.J. Washington 10+ pts **+** Isaiah Hartenstein 6+ reb | 56.9% | 1.76 | 1.84 | 1.57 | -10.8% |
-| Shai Gilgeous-Alexander 6+ ast **+** Isaiah Hartenstein 6+ pts | 53.1% | 1.88 | 1.98 | 1.84 | -2.6% |
-| Shai Gilgeous-Alexander 11+ ra **+** Isaiah Hartenstein 6+ pts | 47.2% | 2.12 | 2.22 | 2.07 | -2.1% |
-| Isaiah Hartenstein 14+ ra **+** Shai Gilgeous-Alexander 5+ ast | 40.6% | 2.46 | 2.58 | 2.49 | +1.2% |
+| Max Christie 6+ pts **+** P.J. Washington 10+ pts **+** Isaiah Hartenstein 6+ reb | 57.1% | 1.75 | 1.84 | 1.56 | -10.9% |
+| Max Christie 6+ pts **+** P.J. Washington 10+ pts **+** Isaiah Hartenstein 6+ reb **+** Shai Gilgeous-Alexander 4+ ast | 49.6% | 2.01 | 2.12 | 1.72 | -14.6% |
+| Shai Gilgeous-Alexander 11+ ra **+** Isaiah Hartenstein 6+ pts | 49.1% | 2.04 | 2.14 | 1.96 | -3.6% |
+| Shai Gilgeous-Alexander 7+ ast **+** Isaiah Hartenstein 7+ reb | 43.0% | 2.32 | 2.44 | 2.31 | -0.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|

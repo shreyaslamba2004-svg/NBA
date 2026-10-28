@@ -15,7 +15,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909881,ATL,1642854,Asa Newell,,,1.0,,,
 401909881,ATL,1630168,Onyeka Okongwu,,,1.0,,,
 401909881,ATL,905105571,Henri Veesaar,Out,Injury/Illness-RightACLTear,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
-401909881,ATL,1630598,Aaron Wiggins,Available,Injury/Illness-LeftKneeContusion,1.0,Wiggins (knee) is probable for Wednesday against Miami.,,
+401909881,ATL,1630598,Aaron Wiggins,Available,Injury/Illness-LeftKneeContusion,1.0,,,
 401909881,ATL,1630592,Jalen Wilson,Questionable,GLeague-Two-Way,0.55,,,
 401909881,MIA,1628389,Bam Adebayo,,,1.0,,,
 401909881,MIA,203507,Giannis Antetokounmpo,,,1.0,,,
