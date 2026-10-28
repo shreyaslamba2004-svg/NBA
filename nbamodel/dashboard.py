@@ -20,7 +20,9 @@ MIN_EV = 0.05          # best-bets threshold
 MAX_STAKE_PCT = 2.0    # cap on quarter-Kelly stake, % of bankroll
 TOP_BETS = 25
 MAX_ODDS = 4.0         # best bets only up to this decimal price
-TOP_SGMS = 10
+TOP_SGMS_BAND = 3      # slate-wide best multis per price band
+TOP_SGMS_GAME = 4      # per game
+TOP_PROPS_GAME = 3     # best single props per game
 STATS = [("pts", "PTS"), ("reb", "REB"), ("ast", "AST"), ("fg3m", "3PM"), ("stl", "STL"), ("blk", "BLK"),
          ("tov", "TOV"), ("pra", "PRA")]
 
@@ -105,20 +107,51 @@ def best_bets(edges: pd.DataFrame) -> tuple[str, str, str]:
     return main, wait, (_bets_table(flagged) if len(flagged) else "")
 
 
+def _sgm_rows(s: pd.DataFrame, game: bool = True) -> str:
+    rows = [[str(r["legs"]).replace(" + ", " **+** ")] + ([r["matchup"]] if game else []) +
+            [_f(r["model_prob"], 1, pct=True), _f(r["fair_odds"]), _f(r["min_price_worth_taking"]),
+             _f(r["multiplied_leg_prices"]), _f(r["ev_at_multiplied_prices"], 1, pct=True, sign=True)]
+            for _, r in s.iterrows()]
+    return _table(["Legs"] + (["Game"] if game else []) + ["Chance", "Fair", "Take at ≥", "Legs multiplied",
+                                                           "EV if multiplied"], rows)
+
+
 def sgm_md(sg: pd.DataFrame) -> str:
+    """Best multis across the slate, by price band."""
     if sg.empty:
         return "_No same-game multis priced for this run._"
     s = sg.sort_values("ev_at_multiplied_prices", ascending=False)
-    # one per leg combination: drop variants that only move a line by a point
-    s = s[~s["legs"].str.replace(r"[-+]?\d+(\.\d+)?", "#", regex=True).duplicated()].head(TOP_SGMS)
-    rows = [[str(r["legs"]).replace(" + ", " **+** "), r["matchup"], _f(r["model_prob"], 1, pct=True),
-             _f(r["fair_odds"]), _f(r["min_price_worth_taking"]), _f(r["multiplied_leg_prices"]),
-             _f(r["ev_at_multiplied_prices"], 1, pct=True, sign=True), _f(r["correlation_lift"])]
-            for _, r in s.iterrows()]
-    return (_table(["Legs", "Game", "Chance", "Fair", "Take at ≥", "Legs multiplied", "EV if multiplied", "Corr ×"],
-                   rows) +
-            "\n\nBookies price multis with their own correlation model, so compare their quoted price with "
-            "**Take at ≥**.")
+    if "band" not in s:
+        s = s.assign(band="all")
+    out = []
+    for band, x in s.groupby("band", sort=True):
+        out.append(f"**Price {band}**\n\n" + _sgm_rows(x.head(TOP_SGMS_BAND)))
+    return ("\n\n".join(out) + "\n\nBookies price multis with their own correlation model, so compare their "
+            "quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative "
+            "EV here means the legs multiplied fall short of it. \"10+ pts\" means 10 or more. Each game's section below has its own "
+            "best multis.")
+
+
+def _game_extras(gid, ed: pd.DataFrame, sg: pd.DataFrame, matchup: str) -> str:
+    """Best single props and multis for one game."""
+    out = []
+    if len(ed):
+        e = ed[(ed["game_id"] == gid) & ed["market"].astype(str).str.startswith("prop_") &
+               (ed["price_decimal"] <= MAX_ODDS) & (ed["ev_blend"] > 0)]
+        if "depends_on" in e:
+            e = e[e["depends_on"].fillna("").astype(str) == ""]
+        if "check_news" in e:
+            e = e[e["check_news"].astype(str).str.lower() != "true"]
+        e = e.sort_values("ev_blend", ascending=False).drop_duplicates(["player", "market", "selection", "line"])
+        if len(e):
+            out.append("**Best player props**\n\n" + _bets_table(e.head(TOP_PROPS_GAME)))
+    if len(sg):
+        x = sg[sg["matchup"] == matchup].sort_values("ev_at_multiplied_prices", ascending=False)
+        if "band" in x:  # best one per price band
+            x = x.groupby("band").head(1).sort_values("multiplied_leg_prices")
+        if len(x):
+            out.append("**Best multis (one per price band)**\n\n" + _sgm_rows(x.head(TOP_SGMS_GAME), game=False))
+    return "\n\n".join(out)
 
 
 def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = False) -> str:
@@ -148,7 +181,8 @@ def _line_cells(r) -> list:
 LINE_HEAD = ["Score", "Away win", "Fair H2H a/h", "Fair line", "Fair total", "vs market"]
 
 
-def games_md(g: pd.DataFrame, ps: pd.DataFrame) -> str:
+def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None,
+             sg: pd.DataFrame | None = None) -> str:
     if g.empty:
         return "_No games._"
     if "scenario" not in g:
@@ -165,6 +199,10 @@ def games_md(g: pd.DataFrame, ps: pd.DataFrame) -> str:
         out.append(f"\n### {a} @ {h}")
         if pd.notna(r.get("out")) and r.get("out"):
             out.append(f"Out: {r['out']}\n")
+        extras = _game_extras(gid, ed if ed is not None else pd.DataFrame(),
+                              sg if sg is not None else pd.DataFrame(), f"{a} @ {h}")
+        if extras:
+            out.append(extras + "\n")
         alts = gg[gg["scenario"] != "base"]
         if len(alts):
             lr = [["Confirmed players only"] + _line_cells(r)]
@@ -215,7 +253,7 @@ def build(day: date) -> Path | None:
              "DraftKings prices refresh every 10 minutes (5 near tip). Australian books are priced about 40 "
              "minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, "
              "so check Sportsbet's line and price, and use the Fair column as your minimum odds.", bets,
-             "## Top same-game multis (price ≤ 2.5)", sgm_md(sg)]
+             "## Best same-game multis by price (1.50 to 2.50)", sgm_md(sg)]
     if waiting:
         parts += ["## Wait for news",
                   "These look good but hinge on a questionable player. The model's chance is shown both ways; the EV "
@@ -231,7 +269,7 @@ def build(day: date) -> Path | None:
               "Confirmed-player tables assume every questionable player sits, so a maybe never dilutes anyone "
               "else's numbers. Starters and stars who are questionable get full \"if he plays\" tables for both "
               "teams. Once a status is confirmed the next run drops the alternatives.",
-              games_md(g, ps),
+              games_md(g, ps, ed, sg),
               "---\n_Model projections, not advice. Edges are against the best price found at run time. "
               f"Full data: `output/{day.isoformat()}/`._"]
     md = "\n\n".join(parts) + "\n"

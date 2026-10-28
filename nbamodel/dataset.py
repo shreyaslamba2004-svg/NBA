@@ -35,6 +35,9 @@ PLAYER_CONTEXT = {"shooting_luck": ["fg3_pct_s", "fg3_pct_l", "ts_s", "ts_l", "f
                   "award_pressure": ["award_pressure"],
                   # minutes left by absent teammates who play the same position
                   "pos_absence": ["vac_min_same_pos"],
+                  "mates_scoring": ["mates_pts", "mates_fg3m"],
+                  "ot_adjust": ["min_s_reg", "min_l_reg"],
+                  "vs_opponent": ["vs_opp_min"] + [f"vs_opp_{s}" for s in ("pts", "reb", "ast", "fg3m")],
                   # representative history: form that skips comeback/blowout games and restarts by season/team
                   "rep_history": REP_MIN + [f"{s}_r_{k}" for s in REP_RATE_STATS for k in ("stint", "season")]}
 DISABLED: set[str] = set()  # names of groups to leave out of the models
@@ -95,6 +98,11 @@ def add_rep_history(pf: pd.DataFrame, games: pd.DataFrame) -> None:
     pf["min_s_rep"] = _ewm(m_rep, pid, SHORT_HL)
     pf["min_l_rep"] = _ewm(m_rep, pid, LONG_HL)
     pf["min_season_s"] = _ewm(m_rep, [pid, pf["season"]], 4)
+    # overtime: minutes rescaled to a 48-minute game (the simulation adds overtime itself)
+    periods = g["periods"].reindex(pf["game_id"]).fillna(4).clip(lower=4).values
+    m_reg = pf["min"] * 48 / (48 + 5 * (periods - 4))
+    pf["min_s_reg"] = _ewm(m_reg, pid, SHORT_HL)
+    pf["min_l_reg"] = _ewm(m_reg, pid, LONG_HL)
     pf["min_stint_s"] = _ewm(m_rep, [pid, stint], 4)
     pf["min_stint"] = pf.groupby([pid, stint])["min"].transform(lambda x: x.shift(1).expanding().mean())
     pf["usage"] = pf["fga"] + 0.44 * pf["fta"] + pf["tov"]
@@ -103,6 +111,24 @@ def add_rep_history(pf: pd.DataFrame, games: pd.DataFrame) -> None:
         for s in REP_RATE_STATS:
             cs = pf.groupby(keys)[s].shift(1).groupby(keys).cumsum()
             pf[f"{s}_r_{name}"] = (cs / cm).where(cm >= 30)
+
+
+VS_OPP_STATS = ["pts", "reb", "ast", "fg3m"]
+VS_OPP_PRIOR_MIN = 72  # shrinkage: his history vs this team counts as much as ~2 games at his usual rate
+
+
+def add_vs_opponent(P: pd.DataFrame) -> None:
+    """Player vs this specific opponent (in place): his past production against them relative to his
+    usual rate, shrunk hard toward 1 because he only meets each team a few times a year."""
+    keys = [P["player_id"], P["opp"]]
+    mins = P.groupby(keys)["min"].shift(1).groupby(keys).cumsum().fillna(0)
+    P["vs_opp_min"] = mins
+    for s in VS_OPP_STATS:
+        r = P[f"{s}_r_l"].clip(lower=0.005)
+        got = P.groupby(keys)[s].shift(1).groupby(keys).cumsum().fillna(0)
+        exp = P.groupby(keys)["min"].shift(1).mul(r).groupby(keys).cumsum().fillna(0)
+        prior = VS_OPP_PRIOR_MIN * r
+        P[f"vs_opp_{s}"] = (got + prior) / (exp + prior)
 
 
 def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = None,
@@ -179,12 +205,17 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     stint = (pf["team"] != prev_team).groupby(pf["player_id"]).cumsum()
     pf["gp_team"] = pf.groupby([pf["player_id"], stint]).cumcount()
     present = pf[(pf["min"].fillna(0) > 0) | (pf["is_target"] & (pf.get("play_prob", 1) >= 0.5))]
-    tot = present.assign(mu=present["min_s"].fillna(0),
-                         uu=present["min_s"].fillna(0) * present["usage_r_s"].fillna(0)
-                         ).groupby(["game_id", "team"])[["mu", "uu"]].sum()
+    ms = present["min_s"].fillna(0)
+    tot = present.assign(mu=ms, uu=ms * present["usage_r_s"].fillna(0), pp=ms * present["pts_r_s"].fillna(0),
+                         p3=ms * present["fg3m_r_s"].fillna(0)
+                         ).groupby(["game_id", "team"])[["mu", "uu", "pp", "p3"]].sum()
     key = pd.MultiIndex.from_frame(pf[["game_id", "team"]])
-    pf["mates_min"] = tot["mu"].reindex(key).values - pf["min_s"].fillna(0).values
-    pf["mates_usage"] = tot["uu"].reindex(key).values - (pf["min_s"].fillna(0) * pf["usage_r_s"].fillna(0)).values
+    own_m = pf["min_s"].fillna(0)
+    pf["mates_min"] = tot["mu"].reindex(key).values - own_m.values
+    pf["mates_usage"] = tot["uu"].reindex(key).values - (own_m * pf["usage_r_s"].fillna(0)).values
+    # how well the available teammates score (an assist needs a teammate to make the shot)
+    pf["mates_pts"] = tot["pp"].reindex(key).values - (own_m * pf["pts_r_s"].fillna(0)).values
+    pf["mates_fg3m"] = tot["p3"].reindex(key).values - (own_m * pf["fg3m_r_s"].fillna(0)).values
     # --- comeback from long absences: days since last game (uncapped) and games since return
     pf["days_out"] = (pf["game_date"] - pf.groupby("player_id")["game_date"].shift(1)).dt.days.fillna(0)
     same_season = pf["season"] == pf.groupby("player_id")["season"].shift(1)
@@ -208,6 +239,7 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     sched = ["rest_days", "b2b", "g_last4d", "g_last6d", "g_last7d"]  # player's own versions take precedence
     P = pf.merge(ctx[[c for c in keep if c not in sched]], on=["game_id", "team"], how="inner")
     P["net_diff"] = P["net_l"] - P["opp_net_l"]
+    add_vs_opponent(P)
     P["arch"] = assign_archetypes(P, MODELS / "archetypes.pkl")
     P = P.merge(archetype_defense(P), on=["game_id", "opp", "arch"], how="left")
     # listed position (G/F/C); players never listed get their player type's most common position
@@ -261,7 +293,7 @@ def min_feats() -> list[str]:
                                                                        "rotation_depth", "rest_habits",
                                                                        "motivation")})
     rep = (REP_MIN + ["usage_r_stint", "usage_r_season"]) if "rep_history" not in DISABLED else []
-    rep += _ctx_feats({"pos_absence": PLAYER_CONTEXT["pos_absence"]})
+    rep += _ctx_feats({"pos_absence": PLAYER_CONTEXT["pos_absence"], "ot_adjust": PLAYER_CONTEXT["ot_adjust"]})
     return (PLAYER_MIN_FEATS + ctx + _ctx_feats({"award_pressure": PLAYER_CONTEXT["award_pressure"]}) + rep +
             (["starter_today"] if "late_news" not in DISABLED else []))
 
@@ -276,6 +308,10 @@ def rate_feats(stat: str) -> list[str]:
         f.append(f"opp_allow_{stat}_pp_l")
     f += _ctx_feats({k: v for k, v in CONTEXT_GROUPS.items() if k in ("travel", "schedule_load", "motivation")})
     f += _ctx_feats({"pos_absence": PLAYER_CONTEXT["pos_absence"]})
+    if stat in ("pts", "reb", "ast", "fg3m") and "vs_opponent" not in DISABLED:
+        f += ["vs_opp_min", f"vs_opp_{stat}"]
+    if stat in ("ast", "pts", "fg3m", "fga", "fg3a", "tov"):
+        f += _ctx_feats({"mates_scoring": PLAYER_CONTEXT["mates_scoring"]})
     if "rep_history" not in DISABLED:
         f += ["min_s_rep", "min_season_s", "min_stint_s", "usage_r_stint", "usage_r_season"]
         f += [f"{stat}_r_stint", f"{stat}_r_season"] if stat in REP_RATE_STATS else []

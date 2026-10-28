@@ -22,8 +22,14 @@ from .odds import american_to_decimal
 
 MIN_LEG_PROB = 0.30
 MAX_LEG_ODDS = 4.0  # long-shot milestone tails aren't validated yet
-MAX_PRICE = 2.5     # whole multi at most this price (legs multiplied, as a stand-in for the bookie's quote)
-MAX_LEGS_SEARCH = 22
+MIN_PRICE = 1.5     # whole multi priced between these (legs multiplied, a stand-in for the bookie's quote)
+MAX_PRICE = 2.5
+BANDS = [(1.50, 1.65), (1.65, 1.85), (1.85, 2.10), (2.10, 2.50)]
+PER_BAND = 3        # kept per game and price band
+MAX_LEGS_SEARCH = 16  # best-value legs searched
+SAFE_LEGS = 10        # plus this many high-probability legs (e.g. 10+ points) close to fair price
+SAFE_PROB, SAFE_MIN_EV = 0.75, -0.06
+MIN_SHOWN_EV = -0.15  # at multiplied leg prices
 MIN_EDGE = 0.05  # "min price worth taking" = fair odds x (1 + MIN_EDGE)
 
 
@@ -57,9 +63,11 @@ def _conflict(a: dict, b: dict) -> bool:
 
 
 def suggest(sim: dict, home: str, away: str, offers: pd.DataFrame, labels: dict,
-            max_legs: int = 4, top: int = 15) -> pd.DataFrame:
+            max_legs: int = 4) -> pd.DataFrame:
     """Rank 2..max_legs leg combos by edge of the model's joint probability over the price
-    you'd get if the bookie simply multiplied its single-leg prices (best offered price per leg)."""
+    you'd get if the bookie simply multiplied its single-leg prices (best offered price per leg).
+    Keeps the best PER_BAND in each price band. The leg pool mixes the best-value legs with
+    near-fair "safe" legs (milestones like 10+ points) so low-priced multis can be built too."""
     if offers is None or offers.empty:
         return pd.DataFrame()
     o = offers.dropna(subset=["price"]).copy()
@@ -80,8 +88,10 @@ def suggest(sim: dict, home: str, away: str, offers: pd.DataFrame, labels: dict,
         legs.append({"market": r.market, "selection": r.selection, "line": r.line, "player_id": r.player_id,
                      "dec": r.dec, "p": p, "pb": pb, "mask": m, "ev": pb * r.dec - 1,
                      "label": _label(r.market, r.selection, r.line, labels.get(r.player_id))})
-    # keep the most promising legs to bound the search
-    legs = sorted(legs, key=lambda x: x["ev"], reverse=True)[:MAX_LEGS_SEARCH]
+    # keep the most promising legs to bound the search, plus the best "safe" legs
+    legs = sorted(legs, key=lambda x: x["ev"], reverse=True)
+    safe = [l for l in legs[MAX_LEGS_SEARCH:] if l["pb"] >= SAFE_PROB and l["ev"] >= SAFE_MIN_EV][:SAFE_LEGS]
+    legs = legs[:MAX_LEGS_SEARCH] + safe
     packed = [np.packbits(l["mask"]) for l in legs]
     n = len(legs[0]["mask"]) if legs else 0
     rows = []
@@ -98,7 +108,7 @@ def suggest(sim: dict, home: str, away: str, offers: pd.DataFrame, labels: dict,
             # blended joint: keep the sim's correlation, scale each leg to its blended probability
             joint = min(1.0, joint_model * float(np.prod([legs[i]["pb"] / legs[i]["p"] for i in combo])))
             naive_price = float(np.prod([legs[i]["dec"] for i in combo]))
-            if naive_price > MAX_PRICE:
+            if not MIN_PRICE <= naive_price <= MAX_PRICE:
                 continue
             indep = float(np.prod([legs[i]["p"] for i in combo]))
             rows.append({"legs": " + ".join(legs[i]["label"] for i in combo), "n_legs": k,
@@ -110,8 +120,15 @@ def suggest(sim: dict, home: str, away: str, offers: pd.DataFrame, labels: dict,
     if not rows:
         return pd.DataFrame()
     df = pd.DataFrame(rows)
-    df = df[df["ev_at_multiplied_prices"] > 0]
-    df = df.sort_values("ev_at_multiplied_prices", ascending=False).groupby("n_legs").head(top)
+    # near-fair multis are kept too: the sheet shows the minimum price worth taking, which is what to
+    # compare with the bookie's quote (their SGM price is not simply the legs multiplied)
+    df = df[df["ev_at_multiplied_prices"] >= MIN_SHOWN_EV].copy()
+    df["band"] = pd.cut(df["multiplied_leg_prices"], [b[0] for b in BANDS] + [BANDS[-1][1]],
+                        labels=[f"{lo:.2f}-{hi:.2f}" for lo, hi in BANDS], include_lowest=True).astype(str)
+    df = df.sort_values("ev_at_multiplied_prices", ascending=False)
+    # one per leg combination: drop variants that only move a line
+    df = df[~df["legs"].str.replace(r"[-+]?\d+(\.\d+)?", "#", regex=True).duplicated()]
+    df = df.groupby("band").head(PER_BAND)
     return df.round({"model_only_prob": 4, "model_prob": 4, "fair_odds": 2, "min_price_worth_taking": 2, "multiplied_leg_prices": 2,
                      "ev_at_multiplied_prices": 4, "correlation_lift": 3}).reset_index(drop=True)
 
@@ -123,7 +140,10 @@ def _label(market, selection, line, player) -> str:
         return f"{selection} {float(line):+g}"
     if market == "total":
         return f"game {selection} {line}"
-    return f"{player} {market[5:]} {selection} {line}"
+    stat = market[5:].replace("fg3m", "3pm")
+    if selection == "over" and float(line) % 1 == 0.5:
+        return f"{player} {int(float(line) + 0.5)}+ {stat}"
+    return f"{player} {stat} {selection} {line}"
 
 
 LEG_RE = re.compile(r"^(?P<who>.+?)\s+(?P<what>pts|reb|ast|fg3m|stl|blk|tov|pra|pr|pa|ra|stocks|win|ml|"

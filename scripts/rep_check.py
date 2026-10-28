@@ -36,6 +36,8 @@ def project(P, G) -> pd.DataFrame:
     out["comeback"] = t["games_since_return"] < 10
     out["early"] = t["gp_season"] < 10
     out["pos_gap"] = t["vac_min_same_pos"] >= 20 if "vac_min_same_pos" in t else False
+    out["passer"] = t["ast_r_l"] >= 0.15  # 5+ assists per 36 minutes
+    out["met_before"] = t["vs_opp_min"] >= 60 if "vs_opp_min" in t else False
     return out
 
 
@@ -61,7 +63,9 @@ def main(group: str = "rep_history", off: tuple = ()):
     for name, m in (("all players", slice(None)), ("traded (<15 games with new team)", before["traded"]),
                     ("back from long absence (<10 games)", before["comeback"]),
                     ("first 10 games of the season", before["early"]),
-                    ("same-position teammate out (20+ min)", before["pos_gap"])):
+                    ("same-position teammate out (20+ min)", before["pos_gap"]),
+                    ("playmakers (5+ ast per 36)", before["passer"]),
+                    ("60+ past minutes vs this opponent", before["met_before"])):
         for lab, o in (("before", before), ("after", after)):
             rows.append({"group": name, "model": lab, **scores(o.loc[m])})
     res = pd.DataFrame(rows)
