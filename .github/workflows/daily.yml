@@ -20,6 +20,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: nba-projections
@@ -36,6 +37,14 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Restore latest weekly model
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            models/bundle.pkl
+            models/rotation_iso.pkl
+          key: model-none
+          restore-keys: model-
       - name: Run
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
@@ -55,4 +64,12 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "projections $(date -u +%Y-%m-%dT%H:%MZ)"
             git pull --rebase origin "${GITHUB_REF_NAME}" && git push
+          fi
+      - name: Open an issue if runs are failing (once)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(gh issue list --state open --search 'Daily run failing in:title' --json number --jq '.[].number')" ]; then
+            gh issue create --title "Daily run failing" --body "First failure: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           fi

@@ -1,0 +1,71 @@
+name: weekly-retrain
+
+# Mondays 14:00 UTC (~1am Tuesday Sydney, after the US Sunday games are final).
+# Grades the logs, refits the model/market blend, retrains with a safety check, and opens an
+# issue if anything needs attention. The retrained model goes into the Actions cache (too big to
+# commit every week); the daily workflow restores the newest one.
+on:
+  schedule:
+    - cron: "0 14 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: nba-projections
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Restore latest model
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            models/bundle.pkl
+            models/rotation_iso.pkl
+          key: model-none
+          restore-keys: model-
+      - name: Grade, refit, retrain
+        run: python scripts/weekly.py
+      - name: Save model
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            models/bundle.pkl
+            models/rotation_iso.pkl
+          key: model-${{ github.run_id }}
+      - name: Commit report and blend weights
+        run: |
+          git config user.name "nba-model-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f output/monitor.md models/blend.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "weekly report $(date -u +%Y-%m-%d)"
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push
+          fi
+      - name: Open an issue for alerts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s output/alerts.txt ]; then
+            gh issue create --title "Model alert $(date -u +%Y-%m-%d)" \
+              --body "$(cat output/alerts.txt)
+
+          Full report: output/monitor.md"
+          fi
+      - name: Open an issue if the job failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Weekly retrain failed $(date -u +%Y-%m-%d)" --body "See ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
