@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 05:09 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 05:55 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -8,22 +8,41 @@ DraftKings prices refresh every 10 minutes (5 near tip). Australian books are pr
 
 _No bets clear the edge threshold right now._
 
-## Top same-game multis (price ≤ 2.5)
+## Best same-game multis by price (1.50 to 2.50)
 
-| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied | Corr × |
-|---|--:|--:|--:|--:|--:|--:|--:|
-| Brandon Miller pa under 27.5 **+** DET win | CHA @ DET | 41.8% | 2.39 | 2.51 | 2.49 | +4.2% | 1.07 |
-| Brandon Miller pra under 32.5 **+** DET win | CHA @ DET | 41.7% | 2.40 | 2.52 | 2.48 | +3.7% | 1.06 |
-| Naz Reid pra under 29.5 **+** DET win | CHA @ DET | 41.3% | 2.42 | 2.54 | 2.48 | +2.2% | 1.05 |
-| Isaiah Hartenstein pr over 19.5 **+** Shai Gilgeous-Alexander ast over 4.5 | OKC @ DAL | 42.7% | 2.34 | 2.46 | 2.39 | +2.1% | 1.01 |
-| Shai Gilgeous-Alexander ast over 5.5 **+** Isaiah Hartenstein ast over 2.5 | OKC @ DAL | 41.3% | 2.42 | 2.54 | 2.46 | +1.5% | 1.01 |
-| Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pa over 9.5 | OKC @ DAL | 42.4% | 2.36 | 2.48 | 2.38 | +0.8% | 1.01 |
-| Shai Gilgeous-Alexander ast over 5.5 **+** Isaiah Hartenstein pa over 9.5 | OKC @ DAL | 47.8% | 2.09 | 2.20 | 2.10 | +0.4% | 1.01 |
-| Shai Gilgeous-Alexander ast over 5.5 **+** Isaiah Hartenstein pts over 7.5 | OKC @ DAL | 44.0% | 2.27 | 2.39 | 2.28 | +0.4% | 1.01 |
-| Shai Gilgeous-Alexander ast over 5.5 **+** OKC win | OKC @ DAL | 42.1% | 2.37 | 2.49 | 2.38 | +0.3% | 1.02 |
-| Moussa Diabate pr under 18.5 **+** DET win | CHA @ DET | 40.6% | 2.46 | 2.58 | 2.47 | +0.3% | 1.04 |
+**Price 1.50-1.65**
 
-Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**.
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| Isaiah Hartenstein 10+ pa **+** Max Christie 6+ pts | OKC @ DAL | 62.0% | 1.61 | 1.69 | 1.53 | -5.0% |
+| Klay Thompson reb under 2.5 **+** Davion Mitchell 5+ pr | MIA @ ATL | 59.4% | 1.68 | 1.77 | 1.60 | -5.2% |
+| Klay Thompson reb under 2.5 **+** Onyeka Okongwu 10+ pra | MIA @ ATL | 58.8% | 1.70 | 1.79 | 1.61 | -5.3% |
+
+**Price 1.65-1.85**
+
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| Isaiah Hartenstein 10+ pa **+** Shai Gilgeous-Alexander 5+ ast | OKC @ DAL | 56.9% | 1.76 | 1.85 | 1.71 | -2.9% |
+| Ace Bailey 2+ ast **+** Keyonte George 15+ pr | SAS @ UTA | 52.9% | 1.89 | 1.98 | 1.83 | -3.2% |
+| Shai Gilgeous-Alexander 6+ ast **+** P.J. Washington 15+ pra | OKC @ DAL | 54.9% | 1.82 | 1.91 | 1.76 | -3.3% |
+
+**Price 1.85-2.10**
+
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| Klay Thompson 3pm under 2.5 **+** Onyeka Okongwu 10+ pra | MIA @ ATL | 52.4% | 1.91 | 2.00 | 1.99 | +4.0% |
+| Klay Thompson 3pm under 2.5 **+** Davion Mitchell 5+ pr | MIA @ ATL | 52.9% | 1.89 | 1.99 | 1.97 | +4.0% |
+| Trae Young pra under 32.5 **+** Sam Merrill 5+ pr | WAS @ CLE | 48.6% | 2.06 | 2.16 | 2.07 | +0.7% |
+
+**Price 2.10-2.50**
+
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| Trae Young pra under 32.5 **+** CLE win | WAS @ CLE | 43.0% | 2.32 | 2.44 | 2.48 | +6.6% |
+| Trae Young pa under 30.5 **+** CLE win | WAS @ CLE | 44.8% | 2.23 | 2.34 | 2.36 | +5.5% |
+| Trae Young pts under 20.5 **+** CLE win | WAS @ CLE | 43.9% | 2.28 | 2.39 | 2.39 | +5.1% |
+
+Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
 ## Wait for news
 
@@ -31,23 +50,23 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Aday Mara REB over 7.5 | OKC @ DAL | draftkings | 3.57 | Ajay Mitchell | 64.0% | 44.0% | +16.9% |
-| Ajay Mitchell AST over 5.5 | OKC @ DAL | draftkings | 3.83 | Ajay Mitchell | void | 45.5% | +14.1% |
+| Aday Mara REB over 7.5 | OKC @ DAL | draftkings | 3.56 | Ajay Mitchell | 63.5% | 44.0% | +18.0% |
+| Ajay Mitchell AST over 5.5 | OKC @ DAL | draftkings | 3.82 | Ajay Mitchell | void | 45.1% | +13.9% |
 | IND to win | PHI @ IND | draftkings | 3.25 | Tyrese Haliburton | 35.7% | 40.2% | +12.8% |
-| Aday Mara REB over 6.5 | OKC @ DAL | draftkings | 2.59 | Ajay Mitchell | 74.4% | 55.4% | +11.5% |
-| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 3.05 | Ajay Mitchell | 61.5% | 49.1% | +11.1% |
-| Isaiah Hartenstein PR over 24.5 | OKC @ DAL | draftkings | 3.43 | Ajay Mitchell | 54.4% | 39.1% | +10.3% |
-| Isaiah Hartenstein AST over 4.5 | OKC @ DAL | draftkings | 3.56 | Ajay Mitchell | 54.4% | 34.5% | +8.3% |
-| Isaiah Hartenstein REB over 12.5 | OKC @ DAL | draftkings | 3.45 | Ajay Mitchell | 49.0% | 36.5% | +7.0% |
-| Ajay Mitchell AST over 4.5 | OKC @ DAL | draftkings | 2.40 | Ajay Mitchell | void | 60.8% | +6.9% |
-| Aday Mara REB over 5.5 | OKC @ DAL | draftkings | 1.96 | Ajay Mitchell | 83.5% | 67.1% | +6.5% |
+| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 3.14 | Ajay Mitchell | 60.8% | 49.0% | +12.5% |
+| Aday Mara REB over 6.5 | OKC @ DAL | draftkings | 2.56 | Ajay Mitchell | 74.4% | 55.6% | +11.8% |
+| Kyrie Irving REB over 5.5 | OKC @ DAL | draftkings | 3.88 | Kyrie Irving | void | 47.0% | +11.3% |
+| Isaiah Hartenstein PR over 24.5 | OKC @ DAL | draftkings | 3.42 | Ajay Mitchell | 54.5% | 39.2% | +9.3% |
+| Isaiah Hartenstein AST over 4.5 | OKC @ DAL | draftkings | 3.52 | Ajay Mitchell | 54.4% | 34.1% | +7.9% |
+| Aday Mara REB over 5.5 | OKC @ DAL | draftkings | 1.93 | Ajay Mitchell | 83.5% | 67.3% | +6.5% |
+| Kyrie Irving REB over 4.5 | OKC @ DAL | draftkings | 2.49 | Kyrie Irving | void | 62.6% | +6.5% |
+| Ajay Mitchell AST over 4.5 | OKC @ DAL | draftkings | 2.40 | Ajay Mitchell | void | 60.3% | +6.4% |
+| Shai Gilgeous-Alexander AST over 6.5 | OKC @ DAL | draftkings | 2.16 | Ajay Mitchell | 72.1% | 61.4% | +6.2% |
 | Ace Bailey PA over 19.5 | SAS @ UTA | draftkings | 3.37 | Lauri Markkanen | 58.3% | 37.8% | +6.2% |
+| Isaiah Hartenstein PA over 14.5 | OKC @ DAL | draftkings | 2.40 | Ajay Mitchell | 68.8% | 51.8% | +6.0% |
 | Lauri Markkanen PTS over 24.5 | SAS @ UTA | draftkings | 3.70 | Lauri Markkanen | void | 40.8% | +5.9% |
 | Ace Bailey PR over 24.5 | SAS @ UTA | draftkings | 3.68 | Lauri Markkanen | 53.9% | 33.5% | +5.5% |
-| Isaiah Hartenstein PA over 14.5 | OKC @ DAL | draftkings | 2.36 | Ajay Mitchell | 68.7% | 52.3% | +5.5% |
-| Shai Gilgeous-Alexander AST over 6.5 | OKC @ DAL | draftkings | 2.14 | Ajay Mitchell | 72.3% | 61.6% | +5.3% |
-| Karl-Anthony Towns PRA under 39.5 | NYK @ CHI | draftkings | 1.85 | Jose Alvarado | 72.4% | 76.9% | +5.3% |
-| Karl-Anthony Towns PA under 25.5 | NYK @ CHI | draftkings | 1.93 | Jose Alvarado | 69.1% | 73.3% | +5.0% |
+| Isaiah Hartenstein REB over 12.5 | OKC @ DAL | draftkings | 3.40 | Ajay Mitchell | 49.2% | 36.6% | +5.3% |
 
 ## Check news first
 
@@ -55,20 +74,21 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Clint Capela PR under 13.5 | HOU @ MIL | draftkings | 1.98 | 1.18 | 84.6% | 47.2% | 56.5% | +12.0% | +67.6% | 2.0% |
-| Saddiq Bey PR over 19.5 | DEN @ NOP | draftkings | 3.49 | 2.18 | 45.8% | 26.8% | 31.5% | +10.1% | +60.0% | 1.0% |
+| Kevin Durant AST over 5.5 | HOU @ MIL | draftkings | 3.69 | 2.25 | 44.5% | 25.3% | 30.1% | +11.2% | +64.2% | 1.0% |
 | Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.91 | 1.21 | 82.7% | 48.9% | 57.4% | +9.6% | +57.9% | 2.0% |
+| Clint Capela PR under 14.5 | HOU @ MIL | draftkings | 1.78 | 1.14 | 88.0% | 52.6% | 61.5% | +9.2% | +56.3% | 2.0% |
 | Clint Capela PTS under 6.5 | HOU @ MIL | draftkings | 1.86 | 1.21 | 82.5% | 50.2% | 58.3% | +8.5% | +53.6% | 2.0% |
-| Saddiq Bey PRA over 19.5 | DEN @ NOP | draftkings | 2.71 | 1.78 | 56.1% | 34.5% | 39.9% | +8.1% | +52.1% | 1.2% |
-| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.24 | 2.15 | 46.5% | 28.8% | 33.3% | +7.8% | +50.6% | 0.9% |
-| Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.30 | 1.54 | 64.8% | 40.6% | 46.7% | +7.3% | +49.0% | 1.4% |
-| Trae Young PA under 30.5 | WAS @ CLE | draftkings | 1.92 | 1.30 | 77.2% | 48.7% | 55.9% | +7.1% | +48.0% | 1.9% |
-| Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.87 | 1.28 | 77.8% | 50.0% | 57.0% | +6.5% | +45.5% | 1.9% |
-| Kobe Sanders PR under 15.5 | LAL @ LAC | draftkings | 1.97 | 1.36 | 73.8% | 47.4% | 54.0% | +6.4% | +45.4% | 1.7% |
-| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.72 | 1.19 | 84.0% | 54.2% | 61.7% | +6.3% | +44.9% | 2.0% |
-| Trae Young PTS under 20.5 | WAS @ CLE | draftkings | 1.90 | 1.33 | 75.4% | 49.2% | 55.7% | +5.9% | +43.3% | 1.7% |
-| Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.04 | 1.44 | 69.7% | 45.8% | 51.8% | +5.6% | +42.1% | 1.4% |
-| Trae Young PR under 23.5 | WAS @ CLE | draftkings | 1.86 | 1.31 | 76.0% | 50.2% | 56.7% | +5.5% | +41.6% | 1.6% |
+| Daniss Jenkins REB over 3.5 | CHA @ DET | draftkings | 3.13 | 2.10 | 47.7% | 29.9% | 34.3% | +7.4% | +49.3% | 0.9% |
+| Saddiq Bey PRA over 19.5 | DEN @ NOP | draftkings | 2.62 | 1.78 | 56.1% | 35.7% | 40.8% | +6.9% | +47.0% | 1.1% |
+| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.13 | 2.15 | 46.5% | 29.9% | 34.0% | +6.5% | +45.5% | 0.8% |
+| Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.24 | 1.54 | 64.8% | 41.7% | 47.5% | +6.4% | +45.1% | 1.3% |
+| Trae Young PRA under 32.5 | WAS @ CLE | draftkings | 1.93 | 1.34 | 74.8% | 48.3% | 54.9% | +6.3% | +44.7% | 1.7% |
+| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.69 | 1.19 | 84.0% | 55.2% | 62.4% | +5.7% | +42.4% | 2.0% |
+| Trae Young PA under 30.5 | WAS @ CLE | draftkings | 1.84 | 1.30 | 77.2% | 50.8% | 57.4% | +5.6% | +42.1% | 1.7% |
+| Trae Young PTS under 20.5 | WAS @ CLE | draftkings | 1.87 | 1.33 | 75.4% | 50.0% | 56.3% | +5.3% | +41.0% | 1.5% |
+| Daniss Jenkins PR over 14.5 | CHA @ DET | draftkings | 2.82 | 2.00 | 50.0% | 33.1% | 37.4% | +5.3% | +41.0% | 0.7% |
+| Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.01 | 1.44 | 69.7% | 46.5% | 52.3% | +5.1% | +40.0% | 1.3% |
+| Trae Young PR under 22.5 | WAS @ CLE | draftkings | 1.93 | 1.38 | 72.3% | 48.3% | 54.3% | +5.1% | +39.9% | 1.4% |
 
 ## Projections
 
@@ -80,19 +100,34 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | MIA @ ATL | Thu 29 Oct 10:00 | 117.6–122.0 | MIA 38% | 2.63 / 1.61 | ATL -4.5 | 239.5 | ATL -1.5 covers 59%; o241.5 46% |
 | WAS @ CLE | Thu 29 Oct 10:00 | 110.6–122.5 | WAS 20% | 5.00 / 1.25 | CLE -11.5 | 232.5 | CLE -10.5 covers 54%; o239.5 36% |
-| CHA @ DET | Thu 29 Oct 10:00 | 107.9–109.6 | CHA 45% | 2.23 / 1.81 | DET -2.5 | 217.5 | DET -7.5 covers 34%; o213.5 58% |
+| CHA @ DET | Thu 29 Oct 10:00 | 107.9–109.6 | CHA 45% | 2.23 / 1.81 | DET -2.5 | 217.5 | DET -7.5 covers 34%; o212.5 60% |
 | PHI @ IND | Thu 29 Oct 10:00 | 118.0–112.7 | PHI 64% | 1.55 / 2.80 | IND +5.5 | 230.5 | IND +7.5 covers 56%; o234.5 42% |
 | ORL @ TOR | Thu 29 Oct 10:30 | 108.2–113.9 | ORL 34% | 2.94 / 1.52 | TOR -5.5 | 221.5 | TOR -4.5 covers 54%; o223.5 47% |
 | NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
 | HOU @ MIL | Thu 29 Oct 11:00 | 114.8–110.6 | HOU 62% | 1.62 / 2.61 | MIL +4.5 | 225.5 | MIL +8.5 covers 62%; o226.5 47% |
 | GSW @ MIN | Thu 29 Oct 11:00 | 110.8–115.2 | GSW 37% | 2.67 / 1.60 | MIN -4.5 | 225.5 | MIN -3.5 covers 53%; o227.5 46% |
-| DEN @ NOP | Thu 29 Oct 11:00 | 122.0–119.5 | DEN 57% | 1.76 / 2.31 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o240.5 52% |
+| DEN @ NOP | Thu 29 Oct 11:00 | 122.0–119.5 | DEN 57% | 1.76 / 2.31 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o241.5 50% |
 | SAS @ UTA | Thu 29 Oct 12:00 | 124.4–113.2 | SAS 78% | 1.27 / 4.64 | UTA +11.5 | 237.5 | UTA +13.5 covers 56%; o233.5 59% |
 | OKC @ DAL | Thu 29 Oct 12:30 | 117.0–108.0 | OKC 74% | 1.36 / 3.79 | DAL +9.5 | 224.5 | DAL +5.5 covers 40%; o227.5 44% |
 | LAL @ LAC | Thu 29 Oct 13:30 | 112.1–114.9 | LAL 42% | 2.37 / 1.73 | LAC -3.5 | 226.5 | LAC +4.5 covers 69%; o229.5 44% |
 
 ### MIA @ ATL
 Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
+
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Giannis Antetokounmpo RA under 17.5 | MIA @ ATL | draftkings | 1.91 | 1.58 | 63.4% | 49.1% | 52.6% | +0.5% | +20.9% | 0.1% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Klay Thompson reb under 2.5 **+** Davion Mitchell 5+ pr | 59.4% | 1.68 | 1.77 | 1.60 | -5.2% |
+| Klay Thompson reb under 2.5 **+** Onyeka Okongwu 6+ pts | 54.3% | 1.84 | 1.93 | 1.75 | -4.9% |
+| Klay Thompson 3pm under 2.5 **+** Onyeka Okongwu 10+ pra | 52.4% | 1.91 | 2.00 | 1.99 | +4.0% |
+| Klay Thompson 3pm under 2.5 **+** CJ McCollum 15+ pr | 43.3% | 2.31 | 2.42 | 2.41 | +4.4% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -154,6 +189,23 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 ### WAS @ CLE
 Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS)
 
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Evan Mobley BLK over 2.5 | WAS @ CLE | draftkings | 3.90 | 3.16 | 31.6% | 24.0% | 25.9% | +0.9% | +23.4% | 0.1% |
+| Alex Sarr PR under 16.5 | WAS @ CLE | draftkings | 1.93 | 1.60 | 62.4% | 48.3% | 51.8% | +0.3% | +20.7% | 0.1% |
+| Alex Sarr PRA under 18.5 | WAS @ CLE | draftkings | 1.93 | 1.60 | 62.5% | 48.5% | 52.0% | +0.2% | +20.4% | 0.1% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| CLE win **+** Evan Mobley 1+ blk | 60.1% | 1.66 | 1.75 | 1.56 | -6.1% |
+| Trae Young ra under 12.5 **+** Donovan Mitchell 15+ pr | 52.6% | 1.90 | 2.00 | 1.81 | -4.9% |
+| Trae Young pra under 32.5 **+** AJ Dybantsa 10+ pra | 48.6% | 2.06 | 2.16 | 2.07 | +0.7% |
+| Trae Young pra under 32.5 **+** CLE win | 43.0% | 2.32 | 2.44 | 2.48 | +6.6% |
+
 <details><summary>WAS players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
@@ -201,6 +253,23 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS)
 ### CHA @ DET
 Out: Jalen Duren (DET), Isaiah Joe (DET), Kon Knueppel (CHA), Coby White (CHA), Grant Williams (CHA)
 
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Daniss Jenkins PTS over 11.5 | CHA @ DET | draftkings | 2.82 | 2.20 | 45.4% | 33.1% | 36.2% | +2.1% | +28.1% | 0.3% |
+| Daniss Jenkins PTS over 9.5 | CHA @ DET | draftkings | 2.01 | 1.65 | 60.6% | 46.5% | 50.0% | +0.5% | +21.7% | 0.1% |
+| Sion James PTS over 5.5 | CHA @ DET | draftkings | 2.04 | 1.70 | 58.9% | 45.9% | 49.2% | +0.3% | +20.2% | 0.1% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Daniss Jenkins 6+ pts **+** Sion James 5+ pr **+** Cade Cunningham 3+ reb | 54.7% | 1.83 | 1.92 | 1.64 | -10.5% |
+| Naz Reid reb under 8.5 **+** Daniss Jenkins 5+ pr | 52.8% | 1.89 | 1.99 | 1.81 | -4.3% |
+| Dennis Schroder ast under 5.5 **+** Daniss Jenkins 5+ pr | 50.7% | 1.97 | 2.07 | 1.94 | -1.8% |
+| Dennis Schroder ast under 5.5 **+** Sion James 5+ pr | 46.4% | 2.16 | 2.26 | 2.15 | -0.2% |
+
 <details><summary>CHA players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
@@ -246,6 +315,22 @@ Out: Jalen Duren (DET), Isaiah Joe (DET), Kon Knueppel (CHA), Coby White (CHA), 
 
 ### PHI @ IND
 Out: Johnny Furphy (IND), T.J. McConnell (IND), Ben Sheppard (IND), Ivica Zubac (IND), Dominick Barlow (PHI), Ariel Hukporti (PHI)
+
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| VJ Edgecombe AST over 3.5 | PHI @ IND | draftkings | 3.05 | 2.39 | 41.8% | 30.6% | 33.4% | +2.0% | +27.5% | 0.2% |
+| Anfernee Simons 3PM under 1.5 | PHI @ IND | draftkings | 1.99 | 1.65 | 60.6% | 47.0% | 50.4% | +0.2% | +20.5% | 0.1% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| PHI win **+** Jaylen Brown 15+ pa | 58.5% | 1.71 | 1.80 | 1.61 | -5.8% |
+| PHI win **+** Pascal Siakam 5+ reb | 53.5% | 1.87 | 1.96 | 1.73 | -7.2% |
+| Tyrese Maxey pts under 24.5 **+** LeBron James 3+ reb | 47.4% | 2.11 | 2.22 | 2.04 | -3.5% |
+| Tyrese Maxey pts under 24.5 **+** Pascal Siakam 1+ 3pm | 41.4% | 2.41 | 2.54 | 2.34 | -3.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -367,6 +452,23 @@ Out: Johnny Furphy (IND), T.J. McConnell (IND), Ben Sheppard (IND), Ivica Zubac 
 ### ORL @ TOR
 Out: Kawhi Leonard (TOR), Malachi Smith (TOR), Paolo Banchero (ORL), Jonathan Isaac (ORL), Noah Penda (ORL), Jalen Suggs (ORL)
 
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Scottie Barnes AST over 7.5 | ORL @ TOR | draftkings | 3.63 | 2.95 | 33.9% | 25.8% | 27.8% | +0.9% | +23.2% | 0.1% |
+| Immanuel Quickley PRA under 27.5 | ORL @ TOR | draftkings | 1.87 | 1.55 | 64.5% | 50.0% | 53.6% | +0.2% | +20.5% | 0.1% |
+| Immanuel Quickley RA under 9.5 | ORL @ TOR | draftkings | 1.95 | 1.63 | 61.5% | 47.9% | 51.3% | +0.1% | +20.0% | 0.0% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Wendell Carter Jr. 10+ pa **+** RJ Barrett 4+ reb | 59.0% | 1.69 | 1.78 | 1.56 | -8.0% |
+| Jamal Shead reb under 2.5 **+** Wendell Carter Jr. 15+ pra | 53.8% | 1.86 | 1.95 | 1.77 | -4.7% |
+| Tristan da Silva 3pm under 2.5 **+** Wendell Carter Jr. 15+ pra | 48.5% | 2.06 | 2.17 | 2.07 | +0.3% |
+| Tristan da Silva 3pm under 2.5 **+** RJ Barrett 4+ reb | 44.3% | 2.26 | 2.37 | 2.24 | -0.6% |
+
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
 | Confirmed players only | 108.2–113.9 | ORL 34% | 2.94 / 1.52 | TOR -5.5 | 221.5 | TOR -4.5 covers 54%; o223.5 47% |
@@ -451,19 +553,34 @@ Out: Kawhi Leonard (TOR), Malachi Smith (TOR), Paolo Banchero (ORL), Jonathan Is
 
 
 ### NYK @ CHI
-Out: Nic Claxton (CHI)
+Out: Nic Claxton (CHI), Jose Alvarado (NYK)
+
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jalen Brunson STL over 1.5 | NYK @ CHI | draftkings | 3.71 | 2.76 | 36.2% | 25.2% | 28.0% | +3.7% | +34.4% | 0.3% |
+| Caleb Wilson BLK over 1.5 | NYK @ CHI | draftkings | 3.22 | 2.65 | 37.8% | 29.0% | 31.2% | +0.5% | +21.6% | 0.1% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Tre Jones 10+ pra **+** Josh Hart 1+ 3pm | 58.6% | 1.71 | 1.79 | 1.53 | -10.2% |
+| Jalen Smith reb under 7.5 **+** Tre Jones 5+ pr | 51.6% | 1.94 | 2.03 | 1.83 | -5.3% |
+| Karl-Anthony Towns pra under 39.5 **+** Tre Jones 5+ pr | 48.7% | 2.05 | 2.15 | 2.02 | -1.8% |
+| Karl-Anthony Towns pts under 21.5 **+** Tre Jones 5+ pr | 46.3% | 2.16 | 2.27 | 2.12 | -1.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
 | Confirmed players only | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
-| Expected (weighted by chance each plays) | 119.7–110.9 | NYK 73% | 1.37 / 3.73 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 46% |
+| Expected (weighted by chance each plays) | 119.4–111.0 | NYK 72% | 1.38 / 3.61 | CHI +8.5 | 230.5 | CHI +6.5 covers 44%; o232.5 45% |
 
 **Questionable players: chance to play, and their projection if they do**
 
 | Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Tobe Awaka (CHI) | Questionable | 55% | 11.7 | 3.2 | 3.4 | 0.6 | 0.0 | 0.4 | 0.6 | 0.7 | 7.3 | small |
-| Jose Alvarado (NYK) | Day-To-Day | 70% | 10.1 | 4.0 | 1.5 | 1.9 | 0.4 | 0.7 | 0.1 | 0.7 | 7.4 | small |
 | Patrick Williams (CHI) | Questionable | 55% | 10.9 | 3.6 | 1.6 | 0.7 | 0.4 | 0.3 | 0.2 | 0.6 | 6.0 | small |
 
 <details><summary>NYK players (confirmed only)</summary>
@@ -514,6 +631,23 @@ Out: Nic Claxton (CHI)
 ### HOU @ MIL
 Out: Steven Adams (HOU), Alperen Sengun (HOU), Marcus Smart (HOU)
 
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Kevin Durant REB over 7.5 | HOU @ MIL | draftkings | 3.64 | 2.85 | 35.0% | 25.7% | 28.0% | +2.0% | +27.6% | 0.2% |
+| Fred VanVleet REB over 3.5 | HOU @ MIL | draftkings | 2.47 | 1.95 | 51.4% | 37.8% | 41.2% | +1.8% | +26.9% | 0.3% |
+| Reed Sheppard PA over 19.5 | HOU @ MIL | draftkings | 2.83 | 2.26 | 44.3% | 33.0% | 35.9% | +1.5% | +25.4% | 0.2% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Reed Sheppard 8+ pts **+** Kevin Durant 4+ reb **+** Jabari Smith Jr. 15+ pra | 56.5% | 1.77 | 1.86 | 1.56 | -12.1% |
+| Kevin Durant 4+ ast **+** Reed Sheppard 10+ pa | 53.3% | 1.88 | 1.97 | 1.81 | -3.4% |
+| Myles Turner 3pm under 1.5 **+** Reed Sheppard 1+ 3pm | 46.8% | 2.14 | 2.24 | 2.09 | -1.9% |
+| Myles Turner 3pm under 1.5 **+** Kevin Durant 3+ ast | 40.8% | 2.45 | 2.57 | 2.46 | +0.2% |
+
 <details><summary>HOU players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
@@ -561,6 +695,22 @@ Out: Steven Adams (HOU), Alperen Sengun (HOU), Marcus Smart (HOU)
 
 ### GSW @ MIN
 Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW)
+
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| LaMelo Ball PR under 27.5 | GSW @ MIN | draftkings | 1.89 | 1.56 | 63.9% | 49.4% | 53.0% | +0.3% | +21.0% | 0.1% |
+| LaMelo Ball PRA under 35.5 | GSW @ MIN | draftkings | 1.85 | 1.54 | 64.8% | 50.6% | 54.1% | +0.0% | +19.8% | 0.0% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Gui Santos 3pm under 1.5 **+** Rudy Gobert 5+ pa | 58.3% | 1.71 | 1.80 | 1.61 | -6.3% |
+| Gui Santos ra under 7.5 **+** Rudy Gobert 5+ pa | 51.4% | 1.95 | 2.04 | 1.84 | -5.6% |
+| Stephen Curry pts under 24.5 **+** Jaden McDaniels 8+ pts | 47.6% | 2.10 | 2.20 | 2.07 | -1.6% |
+| Stephen Curry pts under 24.5 **+** Jaden McDaniels 3+ reb | 44.7% | 2.24 | 2.35 | 2.21 | -1.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -658,11 +808,27 @@ Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Jimmy Butler III (GSW), Mose
 ### DEN @ NOP
 Out: Yves Missi (NOP), Alpha Diallo (DEN), Julian Strawther (DEN)
 
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Saddiq Bey REB over 5.5 | DEN @ NOP | draftkings | 3.74 | 2.87 | 34.8% | 25.0% | 27.4% | +2.6% | +30.1% | 0.2% |
+| DeMar DeRozan AST over 3.5 | DEN @ NOP | draftkings | 2.78 | 2.21 | 45.3% | 33.6% | 36.5% | +1.6% | +26.0% | 0.2% |
+| Saddiq Bey REB over 4.5 | DEN @ NOP | draftkings | 2.48 | 2.03 | 49.3% | 37.7% | 40.6% | +0.7% | +22.2% | 0.1% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Derik Queen ast under 3.5 **+** Nikola Jokic 30+ pra | 54.8% | 1.82 | 1.92 | 1.71 | -6.2% |
+| Aaron Gordon pts under 15.5 **+** Nikola Jokic 25+ pra | 46.5% | 2.15 | 2.26 | 2.05 | -4.8% |
+| Aaron Gordon pts under 15.5 **+** Nikola Jokic 8+ reb | 43.0% | 2.32 | 2.44 | 2.21 | -5.0% |
+
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 122.0–119.5 | DEN 57% | 1.76 / 2.31 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o240.5 52% |
-| Expected (weighted by chance each plays) | 121.9–119.4 | DEN 57% | 1.76 / 2.32 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o240.5 51% |
-| if Cameron Johnson plays | 122.2–118.9 | DEN 59% | 1.70 / 2.44 | NOP +3.5 | 240.5 | NOP +4.5 covers 53%; o240.5 51% |
+| Confirmed players only | 122.0–119.5 | DEN 57% | 1.76 / 2.31 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o241.5 50% |
+| Expected (weighted by chance each plays) | 121.9–119.4 | DEN 57% | 1.76 / 2.32 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o241.5 49% |
+| if Cameron Johnson plays | 122.2–118.9 | DEN 59% | 1.70 / 2.44 | NOP +3.5 | 240.5 | NOP +4.5 covers 53%; o241.5 49% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -751,6 +917,23 @@ Out: Yves Missi (NOP), Alpha Diallo (DEN), Julian Strawther (DEN)
 
 ### SAS @ UTA
 Out: Trey Alexander (UTA), Blake Hinson (UTA), Jaren Jackson Jr. (UTA), Jusuf Nurkic (UTA), Tobias Harris (SAS)
+
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Victor Wembanyama BLK over 3.5 | SAS @ UTA | draftkings | 2.48 | 2.05 | 48.8% | 37.7% | 40.5% | +0.4% | +21.1% | 0.1% |
+| Stephon Castle PR under 23.5 | SAS @ UTA | draftkings | 1.90 | 1.58 | 63.1% | 49.2% | 52.7% | +0.1% | +20.0% | 0.0% |
+| Stephon Castle RA under 12.5 | SAS @ UTA | draftkings | 1.77 | 1.49 | 67.3% | 52.9% | 56.5% | +0.0% | +19.1% | 0.0% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| SAS win **+** Ace Bailey 4+ reb **+** Devin Vassell 6+ pts | 56.5% | 1.77 | 1.86 | 1.60 | -9.7% |
+| Ace Bailey 2+ ast **+** Keyonte George 15+ pr | 52.9% | 1.89 | 1.98 | 1.83 | -3.2% |
+| Ace Bailey 8+ ra **+** Keyonte George 15+ pr | 47.1% | 2.12 | 2.23 | 2.08 | -1.8% |
+| Ace Bailey 8+ ra **+** SAS win | 44.3% | 2.26 | 2.37 | 2.24 | -0.9% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -876,14 +1059,22 @@ Out: Trey Alexander (UTA), Blake Hinson (UTA), Jaren Jackson Jr. (UTA), Jusuf Nu
 
 
 ### OKC @ DAL
-Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Caruso (OKC), Chet Holmgren (OKC), Cason Wallace (OKC), Jalen Williams (OKC)
+Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Caruso (OKC), Chet Holmgren (OKC), Cason Wallace (OKC), Jalen Williams (OKC)
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Isaiah Hartenstein 10+ pa **+** Max Christie 6+ pts | 62.0% | 1.61 | 1.69 | 1.53 | -5.0% |
+| Isaiah Hartenstein 10+ pa **+** Shai Gilgeous-Alexander 5+ ast | 56.9% | 1.76 | 1.85 | 1.71 | -2.9% |
+| Shai Gilgeous-Alexander 6+ ast **+** Isaiah Hartenstein 15+ pr | 49.3% | 2.03 | 2.13 | 2.03 | -0.2% |
+| Isaiah Hartenstein 20+ pr **+** Shai Gilgeous-Alexander 5+ ast | 42.3% | 2.36 | 2.48 | 2.41 | +1.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
 | Confirmed players only | 117.0–108.0 | OKC 74% | 1.36 / 3.79 | DAL +9.5 | 224.5 | DAL +5.5 covers 40%; o227.5 44% |
-| Expected (weighted by chance each plays) | 117.1–109.3 | OKC 70% | 1.42 / 3.38 | DAL +7.5 | 226.5 | DAL +5.5 covers 44%; o227.5 47% |
+| Expected (weighted by chance each plays) | 117.1–109.1 | OKC 71% | 1.41 / 3.46 | DAL +8.5 | 226.5 | DAL +5.5 covers 43%; o227.5 47% |
 | if Naji Marshall plays | 116.5–108.7 | OKC 71% | 1.41 / 3.42 | DAL +7.5 | 225.5 | DAL +5.5 covers 43%; o227.5 45% |
-| if Santi Aldama plays | 117.0–108.0 | OKC 74% | 1.36 / 3.79 | DAL +9.5 | 224.5 | DAL +5.5 covers 40%; o227.5 44% |
 | if Kyrie Irving plays | 116.7–109.5 | OKC 69% | 1.44 / 3.27 | DAL +7.5 | 226.5 | DAL +5.5 covers 45%; o227.5 47% |
 | if Ajay Mitchell plays | 117.5–108.3 | OKC 74% | 1.35 / 3.86 | DAL +9.5 | 225.5 | DAL +5.5 covers 39%; o227.5 46% |
 
@@ -891,25 +1082,25 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Caruso (OKC), Chet Hol
 
 | Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Naji Marshall (DAL) | Questionable | 55% | 33.2 | 18.2 | 5.2 | 5.3 | 1.2 | 1.2 | 0.2 | 2.9 | 28.8 | full tables below |
-| Santi Aldama (DAL) | Doubtful | 20% | 23.3 | 11.4 | 5.5 | 2.4 | 1.2 | 0.7 | 0.5 | 1.4 | 19.3 | full tables below |
-| Kyrie Irving (DAL) | Questionable | 55% | 37.1 | 23.2 | 5.3 | 4.9 | 3.1 | 1.3 | 0.5 | 2.9 | 33.4 | full tables below |
-| Ajay Mitchell (OKC) | Questionable | 55% | 32.8 | 21.1 | 4.3 | 5.5 | 1.4 | 1.8 | 0.4 | 2.2 | 30.9 | full tables below |
+| Caleb Martin (DAL) | Questionable | 55% | 15.5 | 5.0 | 2.6 | 1.2 | 0.4 | 0.5 | 0.3 | 0.9 | 8.9 | small |
+| Naji Marshall (DAL) | Doubtful | 20% | 34.3 | 18.7 | 5.4 | 5.5 | 1.3 | 1.2 | 0.2 | 2.9 | 29.6 | full tables below |
+| Kyrie Irving (DAL) | Questionable | 55% | 38.3 | 23.8 | 5.5 | 5.0 | 3.2 | 1.3 | 0.5 | 3.0 | 34.4 | full tables below |
+| Ajay Mitchell (OKC) | Questionable | 55% | 32.8 | 21.2 | 4.3 | 5.5 | 1.3 | 1.8 | 0.5 | 2.1 | 31.0 | full tables below |
 
 <details><summary>OKC players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Shai Gilgeous-Alexander | 99% | 39.5 | 39.5 | 5.1 | 8.8 | 2.1 | 1.8 | 1.1 | 3.7 | 53.3 |
+| Shai Gilgeous-Alexander | 99% | 39.4 | 39.2 | 5.0 | 8.8 | 2.1 | 1.8 | 1.2 | 3.7 | 53.0 |
 | Jared McCain | 99% | 35.4 | 21.2 | 4.0 | 3.1 | 3.3 | 1.0 | 0.2 | 2.1 | 28.3 |
-| Isaiah Hartenstein | 99% | 31.4 | 13.5 | 12.8 | 5.0 | 0.0 | 1.2 | 0.9 | 2.5 | 31.4 |
-| Bennett Stirtz | 89% | 30.8 | 10.6 | 5.1 | 2.4 | 1.7 | 1.0 | 0.2 | 1.6 | 18.1 |
-| Aday Mara | 89% | 29.6 | 10.4 | 9.1 | 1.9 | 0.0 | 0.7 | 2.0 | 1.9 | 21.4 |
+| Isaiah Hartenstein | 99% | 31.4 | 13.6 | 12.8 | 5.0 | 0.0 | 1.2 | 1.0 | 2.5 | 31.5 |
+| Bennett Stirtz | 89% | 30.9 | 10.6 | 5.1 | 2.5 | 1.8 | 1.0 | 0.2 | 1.6 | 18.1 |
+| Aday Mara | 89% | 29.5 | 10.3 | 9.1 | 1.9 | 0.0 | 0.7 | 2.0 | 1.9 | 21.4 |
 | Josh Dix | 57% | 29.3 | 1.2 | 4.8 | 1.8 | 0.1 | 1.2 | 0.4 | 1.4 | 7.9 |
-| Jaylin Williams | 99% | 27.5 | 10.1 | 7.7 | 3.4 | 1.8 | 0.8 | 0.7 | 1.3 | 21.3 |
-| Kenrich Williams | 86% | 26.6 | 11.0 | 6.2 | 2.3 | 1.6 | 1.0 | 0.2 | 1.2 | 19.5 |
-| Brooks Barnhizer | 77% | 14.5 | 4.0 | 3.2 | 1.1 | 0.3 | 0.5 | 0.2 | 0.6 | 8.2 |
-| Micah Peavy | 40% | 9.2 | 3.8 | 1.7 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.3 |
+| Jaylin Williams | 99% | 27.5 | 10.2 | 7.8 | 3.5 | 1.8 | 0.7 | 0.7 | 1.2 | 21.4 |
+| Kenrich Williams | 86% | 26.6 | 11.1 | 6.2 | 2.3 | 1.6 | 1.0 | 0.2 | 1.2 | 19.6 |
+| Brooks Barnhizer | 77% | 14.5 | 4.0 | 3.1 | 1.1 | 0.3 | 0.5 | 0.2 | 0.6 | 8.2 |
+| Micah Peavy | 40% | 9.2 | 3.7 | 1.7 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.2 |
 
 </details>
 
@@ -917,19 +1108,17 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Caruso (OKC), Chet Hol
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| P.J. Washington | 99% | 40.3 | 18.9 | 8.9 | 2.4 | 2.2 | 1.2 | 1.1 | 2.8 | 30.3 |
-| Cooper Flagg | 99% | 38.7 | 26.5 | 7.8 | 7.4 | 1.5 | 1.5 | 1.1 | 4.0 | 41.7 |
-| Max Christie | 99% | 35.9 | 14.7 | 4.3 | 2.6 | 2.7 | 0.9 | 0.4 | 2.0 | 21.6 |
-| Zaccharie Risacher | 65% | 34.6 | 11.6 | 6.0 | 1.9 | 1.7 | 1.2 | 1.3 | 1.8 | 19.5 |
-| Daniel Gafford | 99% | 28.0 | 11.7 | 9.1 | 2.0 | 0.0 | 0.8 | 1.5 | 1.7 | 22.8 |
-| Marcus Sasser | 77% | 22.7 | 8.9 | 2.0 | 3.1 | 1.5 | 0.8 | 0.2 | 1.4 | 14.0 |
-| Morez Johnson Jr. | 99% | 19.2 | 8.3 | 2.7 | 2.0 | 0.6 | 0.5 | 0.2 | 1.4 | 13.0 |
-| Walter Clayton Jr. | 49% | 18.4 | 6.4 | 3.0 | 4.0 | 0.8 | 0.6 | 0.3 | 1.1 | 13.3 |
-| Caleb Martin | 50% | 15.4 | 5.0 | 2.6 | 1.2 | 0.4 | 0.5 | 0.3 | 0.9 | 8.8 |
-| Moussa Cisse | 85% | 14.6 | 4.9 | 5.6 | 0.5 | 0.0 | 0.5 | 1.0 | 0.9 | 11.1 |
-| Jett Howard | 49% | 11.8 | 4.7 | 1.3 | 0.8 | 0.6 | 0.3 | 0.2 | 0.5 | 6.8 |
-| Tarik Biberovic | 8% | 9.1 | 3.9 | 1.7 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.4 |
-| Tobi Lawal | 55% | 8.7 | 3.3 | 1.2 | 0.8 | 0.3 | 0.3 | 0.1 | 0.3 | 5.3 |
+| P.J. Washington | 99% | 41.6 | 19.4 | 9.3 | 2.5 | 2.3 | 1.3 | 1.1 | 2.9 | 31.2 |
+| Cooper Flagg | 99% | 40.0 | 27.1 | 8.1 | 7.6 | 1.6 | 1.6 | 1.1 | 4.1 | 42.8 |
+| Max Christie | 99% | 37.2 | 15.1 | 4.4 | 2.8 | 2.8 | 0.9 | 0.5 | 2.1 | 22.3 |
+| Zaccharie Risacher | 65% | 35.8 | 11.9 | 6.2 | 2.0 | 1.8 | 1.2 | 1.4 | 1.8 | 20.1 |
+| Daniel Gafford | 99% | 29.1 | 12.1 | 9.4 | 2.0 | 0.0 | 0.9 | 1.5 | 1.8 | 23.6 |
+| Marcus Sasser | 77% | 23.5 | 9.1 | 2.1 | 3.2 | 1.6 | 0.8 | 0.2 | 1.5 | 14.4 |
+| Morez Johnson Jr. | 99% | 19.8 | 8.5 | 2.7 | 2.1 | 0.6 | 0.5 | 0.2 | 1.4 | 13.3 |
+| Walter Clayton Jr. | 49% | 19.0 | 6.5 | 3.1 | 4.1 | 0.8 | 0.6 | 0.3 | 1.2 | 13.7 |
+| Moussa Cisse | 85% | 15.2 | 5.1 | 5.8 | 0.5 | 0.0 | 0.5 | 1.0 | 0.9 | 11.4 |
+| Jett Howard | 49% | 12.1 | 4.8 | 1.4 | 0.8 | 0.6 | 0.3 | 0.2 | 0.6 | 7.0 |
+| Tobi Lawal | 55% | 9.0 | 3.4 | 1.3 | 0.8 | 0.3 | 0.3 | 0.1 | 0.4 | 5.5 |
 
 </details>
 
@@ -937,61 +1126,28 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Caruso (OKC), Chet Hol
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| P.J. Washington (DAL) | 99% | 36.9 | 16.6 | 8.1 | 2.1 | 2.0 | 1.2 | 1.0 | 2.2 | 26.8 |
-| Cooper Flagg (DAL) | 99% | 35.7 | 22.3 | 7.3 | 6.2 | 1.4 | 1.4 | 1.0 | 3.3 | 35.8 |
-| Naji Marshall (DAL) | 100% | 33.2 | 18.2 | 5.2 | 5.3 | 1.2 | 1.2 | 0.2 | 2.9 | 28.8 |
-| Max Christie (DAL) | 99% | 32.0 | 12.3 | 3.7 | 2.1 | 2.2 | 0.8 | 0.4 | 1.7 | 18.1 |
-| Zaccharie Risacher (DAL) | 65% | 31.1 | 10.6 | 5.5 | 1.8 | 1.4 | 1.1 | 1.5 | 1.5 | 18.0 |
-| Daniel Gafford (DAL) | 99% | 24.4 | 9.9 | 7.9 | 1.5 | 0.0 | 0.8 | 1.4 | 1.4 | 19.3 |
-| Marcus Sasser (DAL) | 77% | 18.9 | 7.4 | 1.6 | 2.4 | 1.2 | 0.7 | 0.1 | 1.2 | 11.4 |
-| Walter Clayton Jr. (DAL) | 49% | 16.0 | 5.8 | 2.7 | 3.4 | 0.7 | 0.5 | 0.3 | 1.0 | 11.9 |
-| Morez Johnson Jr. (DAL) | 99% | 15.1 | 6.5 | 2.1 | 1.5 | 0.4 | 0.4 | 0.1 | 1.1 | 10.0 |
-| Caleb Martin (DAL) | 50% | 12.3 | 3.9 | 2.0 | 1.0 | 0.3 | 0.4 | 0.3 | 0.7 | 6.9 |
-| Moussa Cisse (DAL) | 85% | 10.7 | 3.6 | 4.1 | 0.3 | 0.0 | 0.3 | 0.7 | 0.7 | 8.0 |
-| Tarik Biberovic (DAL) | 8% | 8.8 | 3.7 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 6.1 |
-| Jett Howard (DAL) | 49% | 8.1 | 3.2 | 0.9 | 0.5 | 0.3 | 0.2 | 0.1 | 0.3 | 4.6 |
-| Tobi Lawal (DAL) | 55% | 6.8 | 3.1 | 0.9 | 0.7 | 0.2 | 0.3 | 0.1 | 0.3 | 4.8 |
-| Shai Gilgeous-Alexander (OKC) | 99% | 39.6 | 39.3 | 5.1 | 8.8 | 2.1 | 1.8 | 1.2 | 3.7 | 53.2 |
-| Jared McCain (OKC) | 99% | 35.4 | 21.0 | 4.0 | 3.1 | 3.3 | 1.0 | 0.2 | 2.1 | 28.0 |
-| Isaiah Hartenstein (OKC) | 99% | 31.4 | 13.5 | 12.8 | 5.1 | 0.0 | 1.2 | 1.0 | 2.5 | 31.4 |
+| P.J. Washington (DAL) | 99% | 37.9 | 16.9 | 8.4 | 2.2 | 2.1 | 1.2 | 1.0 | 2.3 | 27.4 |
+| Cooper Flagg (DAL) | 99% | 36.7 | 22.6 | 7.5 | 6.4 | 1.4 | 1.5 | 1.1 | 3.4 | 36.5 |
+| Naji Marshall (DAL) | 100% | 34.3 | 18.7 | 5.4 | 5.5 | 1.3 | 1.2 | 0.2 | 2.9 | 29.6 |
+| Max Christie (DAL) | 99% | 32.9 | 12.6 | 3.8 | 2.2 | 2.3 | 0.9 | 0.4 | 1.8 | 18.6 |
+| Zaccharie Risacher (DAL) | 65% | 32.0 | 10.8 | 5.6 | 1.9 | 1.4 | 1.1 | 1.5 | 1.6 | 18.3 |
+| Daniel Gafford (DAL) | 99% | 25.0 | 10.1 | 8.1 | 1.6 | 0.0 | 0.8 | 1.4 | 1.4 | 19.7 |
+| Marcus Sasser (DAL) | 77% | 19.4 | 7.5 | 1.7 | 2.4 | 1.2 | 0.7 | 0.1 | 1.2 | 11.7 |
+| Walter Clayton Jr. (DAL) | 49% | 16.3 | 5.9 | 2.7 | 3.5 | 0.7 | 0.5 | 0.3 | 1.0 | 12.1 |
+| Morez Johnson Jr. (DAL) | 99% | 15.5 | 6.6 | 2.1 | 1.5 | 0.4 | 0.4 | 0.2 | 1.1 | 10.3 |
+| Moussa Cisse (DAL) | 85% | 10.9 | 3.6 | 4.2 | 0.3 | 0.0 | 0.4 | 0.7 | 0.7 | 8.1 |
+| Jett Howard (DAL) | 49% | 8.3 | 3.2 | 1.0 | 0.6 | 0.3 | 0.2 | 0.1 | 0.4 | 4.7 |
+| Tobi Lawal (DAL) | 55% | 6.9 | 3.1 | 1.0 | 0.7 | 0.2 | 0.3 | 0.1 | 0.4 | 4.8 |
+| Shai Gilgeous-Alexander (OKC) | 99% | 39.6 | 39.3 | 5.1 | 8.8 | 2.1 | 1.8 | 1.1 | 3.7 | 53.1 |
+| Jared McCain (OKC) | 99% | 35.4 | 21.1 | 4.0 | 3.0 | 3.4 | 1.0 | 0.2 | 2.1 | 28.2 |
+| Isaiah Hartenstein (OKC) | 99% | 31.4 | 13.5 | 12.8 | 5.1 | 0.0 | 1.2 | 0.9 | 2.5 | 31.4 |
 | Bennett Stirtz (OKC) | 89% | 30.8 | 10.5 | 5.1 | 2.4 | 1.7 | 1.0 | 0.2 | 1.6 | 18.0 |
-| Aday Mara (OKC) | 89% | 29.7 | 10.4 | 9.1 | 1.9 | 0.0 | 0.8 | 2.0 | 1.9 | 21.4 |
+| Aday Mara (OKC) | 89% | 29.7 | 10.4 | 9.1 | 1.9 | 0.0 | 0.7 | 2.0 | 1.9 | 21.5 |
 | Josh Dix (OKC) | 57% | 29.3 | 1.2 | 4.8 | 1.8 | 0.1 | 1.2 | 0.4 | 1.4 | 7.9 |
-| Jaylin Williams (OKC) | 99% | 27.5 | 10.1 | 7.8 | 3.4 | 1.8 | 0.7 | 0.7 | 1.3 | 21.4 |
-| Kenrich Williams (OKC) | 86% | 26.6 | 11.0 | 6.2 | 2.3 | 1.5 | 1.0 | 0.2 | 1.2 | 19.5 |
-| Brooks Barnhizer (OKC) | 77% | 14.5 | 4.0 | 3.2 | 1.1 | 0.3 | 0.5 | 0.2 | 0.6 | 8.2 |
-| Micah Peavy (OKC) | 40% | 9.2 | 3.7 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.1 |
-
-</details>
-
-<details><summary>if Santi Aldama plays: both teams</summary>
-
-| Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| P.J. Washington (DAL) | 99% | 36.6 | 17.0 | 8.1 | 2.2 | 2.0 | 1.1 | 0.9 | 2.6 | 27.3 |
-| Cooper Flagg (DAL) | 99% | 35.0 | 23.7 | 7.1 | 6.7 | 1.4 | 1.4 | 0.9 | 3.6 | 37.5 |
-| Max Christie (DAL) | 99% | 32.4 | 13.1 | 3.8 | 2.4 | 2.4 | 0.8 | 0.4 | 1.8 | 19.3 |
-| Zaccharie Risacher (DAL) | 65% | 31.5 | 10.5 | 5.5 | 1.7 | 1.5 | 1.1 | 1.2 | 1.6 | 17.7 |
-| Daniel Gafford (DAL) | 99% | 25.2 | 10.5 | 8.2 | 1.8 | 0.0 | 0.8 | 1.3 | 1.5 | 20.4 |
-| Santi Aldama (DAL) | 100% | 23.3 | 11.4 | 5.5 | 2.4 | 1.2 | 0.7 | 0.5 | 1.4 | 19.3 |
-| Marcus Sasser (DAL) | 77% | 20.5 | 8.0 | 1.8 | 2.8 | 1.3 | 0.7 | 0.2 | 1.3 | 12.6 |
-| Morez Johnson Jr. (DAL) | 99% | 17.3 | 7.3 | 2.4 | 1.8 | 0.5 | 0.5 | 0.1 | 1.2 | 11.6 |
-| Walter Clayton Jr. (DAL) | 49% | 16.7 | 5.7 | 2.8 | 3.6 | 0.7 | 0.5 | 0.3 | 1.0 | 12.1 |
-| Caleb Martin (DAL) | 50% | 14.1 | 4.5 | 2.4 | 1.1 | 0.4 | 0.5 | 0.3 | 0.8 | 8.0 |
-| Moussa Cisse (DAL) | 85% | 13.4 | 4.5 | 5.2 | 0.4 | 0.0 | 0.4 | 0.9 | 0.8 | 10.1 |
-| Jett Howard (DAL) | 49% | 10.7 | 4.3 | 1.2 | 0.7 | 0.5 | 0.2 | 0.2 | 0.5 | 6.2 |
-| Tarik Biberovic (DAL) | 8% | 8.7 | 3.7 | 1.6 | 0.8 | 0.2 | 0.2 | 0.2 | 0.4 | 6.1 |
-| Tobi Lawal (DAL) | 55% | 8.1 | 3.0 | 1.1 | 0.7 | 0.2 | 0.3 | 0.1 | 0.3 | 4.9 |
-| Shai Gilgeous-Alexander (OKC) | 99% | 39.5 | 39.3 | 5.1 | 8.8 | 2.1 | 1.8 | 1.1 | 3.7 | 53.2 |
-| Jared McCain (OKC) | 99% | 35.5 | 21.2 | 4.0 | 3.1 | 3.3 | 1.1 | 0.2 | 2.2 | 28.3 |
-| Isaiah Hartenstein (OKC) | 99% | 31.3 | 13.6 | 12.8 | 5.1 | 0.0 | 1.2 | 0.9 | 2.5 | 31.4 |
-| Bennett Stirtz (OKC) | 89% | 30.8 | 10.5 | 5.1 | 2.4 | 1.7 | 1.0 | 0.2 | 1.6 | 18.1 |
-| Aday Mara (OKC) | 89% | 29.7 | 10.4 | 9.2 | 1.9 | 0.0 | 0.7 | 2.0 | 1.8 | 21.5 |
-| Josh Dix (OKC) | 57% | 29.4 | 1.2 | 4.9 | 1.8 | 0.1 | 1.2 | 0.4 | 1.4 | 7.9 |
-| Jaylin Williams (OKC) | 99% | 27.5 | 10.2 | 7.8 | 3.5 | 1.8 | 0.7 | 0.7 | 1.2 | 21.4 |
-| Kenrich Williams (OKC) | 86% | 26.5 | 11.0 | 6.2 | 2.3 | 1.6 | 1.0 | 0.2 | 1.2 | 19.4 |
+| Jaylin Williams (OKC) | 99% | 27.5 | 10.1 | 7.8 | 3.5 | 1.8 | 0.7 | 0.7 | 1.3 | 21.4 |
+| Kenrich Williams (OKC) | 86% | 26.7 | 11.1 | 6.2 | 2.3 | 1.6 | 1.0 | 0.2 | 1.2 | 19.6 |
 | Brooks Barnhizer (OKC) | 77% | 14.5 | 4.0 | 3.1 | 1.1 | 0.3 | 0.5 | 0.2 | 0.6 | 8.2 |
-| Micah Peavy (OKC) | 40% | 9.2 | 3.7 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.2 |
+| Micah Peavy (OKC) | 40% | 9.2 | 3.7 | 1.7 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.2 |
 
 </details>
 
@@ -999,29 +1155,27 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Caruso (OKC), Chet Hol
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| P.J. Washington (DAL) | 99% | 40.3 | 18.9 | 9.0 | 2.4 | 2.2 | 1.2 | 1.1 | 2.8 | 30.3 |
-| Cooper Flagg (DAL) | 99% | 38.6 | 26.6 | 7.8 | 7.4 | 1.5 | 1.5 | 1.1 | 4.0 | 41.8 |
-| Max Christie (DAL) | 99% | 36.0 | 14.7 | 4.3 | 2.6 | 2.7 | 0.9 | 0.4 | 2.0 | 21.6 |
-| Zaccharie Risacher (DAL) | 65% | 34.6 | 11.7 | 6.0 | 1.9 | 1.7 | 1.2 | 1.3 | 1.8 | 19.6 |
-| Daniel Gafford (DAL) | 99% | 28.0 | 11.8 | 9.1 | 2.0 | 0.0 | 0.8 | 1.5 | 1.7 | 22.9 |
-| Marcus Sasser (DAL) | 77% | 22.7 | 9.0 | 2.0 | 3.1 | 1.5 | 0.8 | 0.2 | 1.4 | 14.1 |
-| Morez Johnson Jr. (DAL) | 99% | 19.2 | 8.3 | 2.6 | 2.0 | 0.6 | 0.5 | 0.2 | 1.3 | 13.0 |
-| Walter Clayton Jr. (DAL) | 49% | 18.2 | 6.4 | 3.0 | 3.9 | 0.8 | 0.6 | 0.3 | 1.1 | 13.3 |
-| Caleb Martin (DAL) | 50% | 15.4 | 5.0 | 2.6 | 1.2 | 0.4 | 0.5 | 0.3 | 0.9 | 8.8 |
-| Moussa Cisse (DAL) | 85% | 14.7 | 5.0 | 5.6 | 0.5 | 0.0 | 0.5 | 1.0 | 0.9 | 11.1 |
-| Jett Howard (DAL) | 49% | 11.7 | 4.7 | 1.4 | 0.8 | 0.6 | 0.3 | 0.1 | 0.5 | 6.8 |
-| Tarik Biberovic (DAL) | 8% | 9.3 | 4.0 | 1.6 | 0.9 | 0.2 | 0.3 | 0.2 | 0.5 | 6.5 |
-| Tobi Lawal (DAL) | 55% | 8.8 | 3.3 | 1.3 | 0.8 | 0.3 | 0.3 | 0.1 | 0.3 | 5.4 |
-| Shai Gilgeous-Alexander (OKC) | 99% | 36.8 | 34.2 | 4.5 | 7.7 | 1.9 | 1.7 | 1.0 | 3.2 | 46.4 |
-| Ajay Mitchell (OKC) | 100% | 32.8 | 21.1 | 4.3 | 5.5 | 1.4 | 1.8 | 0.4 | 2.2 | 30.9 |
-| Jared McCain (OKC) | 99% | 31.4 | 17.7 | 3.5 | 2.3 | 2.8 | 1.0 | 0.2 | 1.7 | 23.5 |
-| Isaiah Hartenstein (OKC) | 99% | 28.6 | 11.7 | 11.4 | 3.9 | 0.0 | 1.1 | 0.9 | 1.9 | 27.0 |
-| Josh Dix (OKC) | 57% | 26.3 | 1.3 | 4.3 | 1.6 | 0.1 | 1.1 | 0.3 | 1.2 | 7.3 |
-| Jaylin Williams (OKC) | 99% | 24.2 | 8.2 | 7.0 | 2.7 | 1.4 | 0.7 | 0.7 | 1.0 | 17.9 |
-| Aday Mara (OKC) | 89% | 23.5 | 7.8 | 7.3 | 1.5 | 0.0 | 0.6 | 1.6 | 1.4 | 16.6 |
-| Kenrich Williams (OKC) | 86% | 23.1 | 8.9 | 5.6 | 1.7 | 1.2 | 0.9 | 0.2 | 0.9 | 16.2 |
+| P.J. Washington (DAL) | 99% | 41.6 | 19.4 | 9.3 | 2.5 | 2.3 | 1.3 | 1.1 | 2.9 | 31.2 |
+| Cooper Flagg (DAL) | 99% | 40.0 | 27.2 | 8.1 | 7.7 | 1.6 | 1.6 | 1.1 | 4.1 | 42.9 |
+| Max Christie (DAL) | 99% | 37.2 | 15.0 | 4.4 | 2.8 | 2.8 | 0.9 | 0.5 | 2.1 | 22.2 |
+| Zaccharie Risacher (DAL) | 65% | 35.8 | 12.0 | 6.2 | 2.0 | 1.8 | 1.2 | 1.4 | 1.8 | 20.1 |
+| Daniel Gafford (DAL) | 99% | 29.1 | 12.2 | 9.4 | 2.0 | 0.0 | 0.9 | 1.6 | 1.8 | 23.6 |
+| Marcus Sasser (DAL) | 77% | 23.5 | 9.2 | 2.1 | 3.2 | 1.6 | 0.8 | 0.2 | 1.5 | 14.4 |
+| Morez Johnson Jr. (DAL) | 99% | 19.8 | 8.5 | 2.7 | 2.1 | 0.6 | 0.5 | 0.2 | 1.4 | 13.3 |
+| Walter Clayton Jr. (DAL) | 49% | 19.0 | 6.5 | 3.1 | 4.1 | 0.8 | 0.6 | 0.3 | 1.2 | 13.7 |
+| Moussa Cisse (DAL) | 85% | 15.2 | 5.1 | 5.8 | 0.5 | 0.0 | 0.5 | 1.0 | 0.9 | 11.4 |
+| Jett Howard (DAL) | 49% | 12.1 | 4.8 | 1.4 | 0.8 | 0.6 | 0.3 | 0.2 | 0.5 | 7.0 |
+| Tobi Lawal (DAL) | 55% | 9.0 | 3.4 | 1.3 | 0.8 | 0.3 | 0.3 | 0.1 | 0.4 | 5.5 |
+| Shai Gilgeous-Alexander (OKC) | 99% | 36.8 | 34.2 | 4.5 | 7.8 | 1.9 | 1.7 | 1.0 | 3.3 | 46.4 |
+| Ajay Mitchell (OKC) | 100% | 32.8 | 21.2 | 4.3 | 5.5 | 1.3 | 1.8 | 0.5 | 2.1 | 31.0 |
+| Jared McCain (OKC) | 99% | 31.4 | 17.6 | 3.5 | 2.3 | 2.8 | 1.0 | 0.2 | 1.7 | 23.3 |
+| Isaiah Hartenstein (OKC) | 99% | 28.6 | 11.7 | 11.4 | 3.8 | 0.0 | 1.1 | 0.9 | 1.9 | 26.9 |
+| Josh Dix (OKC) | 57% | 26.3 | 1.3 | 4.4 | 1.6 | 0.1 | 1.1 | 0.3 | 1.2 | 7.3 |
+| Jaylin Williams (OKC) | 99% | 24.2 | 8.3 | 6.9 | 2.7 | 1.4 | 0.6 | 0.7 | 1.0 | 18.0 |
+| Aday Mara (OKC) | 89% | 23.4 | 7.8 | 7.3 | 1.4 | 0.0 | 0.6 | 1.6 | 1.4 | 16.6 |
+| Kenrich Williams (OKC) | 86% | 23.2 | 9.0 | 5.6 | 1.7 | 1.2 | 0.9 | 0.2 | 0.9 | 16.3 |
 | Bennett Stirtz (OKC) | 89% | 22.7 | 7.0 | 3.7 | 1.6 | 1.0 | 0.8 | 0.1 | 1.1 | 12.3 |
-| Brooks Barnhizer (OKC) | 77% | 11.6 | 3.0 | 2.6 | 0.7 | 0.2 | 0.4 | 0.2 | 0.4 | 6.3 |
+| Brooks Barnhizer (OKC) | 77% | 11.8 | 3.0 | 2.6 | 0.8 | 0.2 | 0.4 | 0.2 | 0.4 | 6.4 |
 | Micah Peavy (OKC) | 40% | 8.8 | 3.6 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 6.0 |
 
 </details>
@@ -1030,36 +1184,51 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Alex Caruso (OKC), Chet Hol
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kyrie Irving (DAL) | 100% | 37.1 | 23.2 | 5.3 | 4.9 | 3.1 | 1.3 | 0.5 | 2.9 | 33.4 |
-| P.J. Washington (DAL) | 99% | 36.3 | 16.3 | 8.2 | 2.1 | 1.9 | 1.1 | 1.0 | 2.2 | 26.5 |
-| Cooper Flagg (DAL) | 99% | 35.6 | 21.5 | 7.5 | 6.2 | 1.3 | 1.4 | 1.0 | 3.3 | 35.1 |
-| Max Christie (DAL) | 99% | 31.2 | 11.4 | 3.7 | 2.0 | 2.1 | 0.8 | 0.4 | 1.5 | 17.2 |
-| Zaccharie Risacher (DAL) | 65% | 31.0 | 10.3 | 5.5 | 1.9 | 1.5 | 1.1 | 1.3 | 1.5 | 17.7 |
-| Daniel Gafford (DAL) | 99% | 25.2 | 9.9 | 8.1 | 1.6 | 0.0 | 0.8 | 1.4 | 1.4 | 19.6 |
-| Marcus Sasser (DAL) | 77% | 17.2 | 6.4 | 1.5 | 2.1 | 1.0 | 0.6 | 0.1 | 1.0 | 10.0 |
-| Morez Johnson Jr. (DAL) | 99% | 15.6 | 6.4 | 2.2 | 1.5 | 0.4 | 0.4 | 0.1 | 1.0 | 10.0 |
-| Walter Clayton Jr. (DAL) | 49% | 13.6 | 4.7 | 2.3 | 2.9 | 0.5 | 0.4 | 0.2 | 0.8 | 9.9 |
-| Caleb Martin (DAL) | 50% | 12.3 | 3.7 | 2.1 | 1.0 | 0.3 | 0.4 | 0.3 | 0.7 | 6.8 |
-| Moussa Cisse (DAL) | 85% | 9.6 | 3.1 | 3.8 | 0.3 | 0.0 | 0.3 | 0.6 | 0.6 | 7.1 |
-| Tarik Biberovic (DAL) | 8% | 8.7 | 3.5 | 1.6 | 0.7 | 0.2 | 0.3 | 0.1 | 0.4 | 5.8 |
-| Jett Howard (DAL) | 49% | 7.2 | 2.8 | 0.8 | 0.5 | 0.3 | 0.2 | 0.1 | 0.3 | 4.2 |
-| Tobi Lawal (DAL) | 55% | 6.8 | 3.2 | 1.0 | 0.7 | 0.2 | 0.3 | 0.1 | 0.3 | 4.9 |
-| Shai Gilgeous-Alexander (OKC) | 99% | 39.5 | 39.3 | 5.1 | 8.8 | 2.1 | 1.8 | 1.1 | 3.7 | 53.2 |
-| Jared McCain (OKC) | 99% | 35.4 | 21.1 | 4.0 | 3.0 | 3.3 | 1.1 | 0.2 | 2.1 | 28.1 |
-| Isaiah Hartenstein (OKC) | 99% | 31.4 | 13.6 | 12.9 | 5.0 | 0.0 | 1.2 | 0.9 | 2.5 | 31.5 |
-| Bennett Stirtz (OKC) | 89% | 30.8 | 10.5 | 5.1 | 2.4 | 1.7 | 1.0 | 0.2 | 1.6 | 18.0 |
-| Aday Mara (OKC) | 89% | 29.6 | 10.3 | 9.1 | 1.9 | 0.0 | 0.7 | 2.0 | 1.9 | 21.4 |
-| Josh Dix (OKC) | 57% | 29.3 | 1.2 | 4.8 | 1.8 | 0.1 | 1.2 | 0.4 | 1.4 | 7.9 |
-| Jaylin Williams (OKC) | 99% | 27.6 | 10.1 | 7.8 | 3.5 | 1.8 | 0.7 | 0.7 | 1.3 | 21.4 |
-| Kenrich Williams (OKC) | 86% | 26.6 | 11.0 | 6.2 | 2.3 | 1.6 | 1.0 | 0.2 | 1.2 | 19.6 |
-| Brooks Barnhizer (OKC) | 77% | 14.6 | 4.0 | 3.1 | 1.1 | 0.3 | 0.5 | 0.2 | 0.6 | 8.2 |
-| Micah Peavy (OKC) | 40% | 9.2 | 3.7 | 1.7 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.2 |
+| Kyrie Irving (DAL) | 100% | 38.3 | 23.8 | 5.5 | 5.0 | 3.2 | 1.3 | 0.5 | 3.0 | 34.4 |
+| P.J. Washington (DAL) | 99% | 37.3 | 16.5 | 8.4 | 2.2 | 2.0 | 1.1 | 1.0 | 2.2 | 27.1 |
+| Cooper Flagg (DAL) | 99% | 36.6 | 21.9 | 7.6 | 6.4 | 1.3 | 1.4 | 1.1 | 3.4 | 35.9 |
+| Max Christie (DAL) | 99% | 32.1 | 11.6 | 3.8 | 2.1 | 2.2 | 0.8 | 0.4 | 1.5 | 17.6 |
+| Zaccharie Risacher (DAL) | 65% | 31.8 | 10.4 | 5.7 | 1.9 | 1.5 | 1.1 | 1.3 | 1.6 | 18.1 |
+| Daniel Gafford (DAL) | 99% | 25.9 | 10.1 | 8.3 | 1.6 | 0.0 | 0.8 | 1.4 | 1.4 | 20.0 |
+| Marcus Sasser (DAL) | 77% | 17.7 | 6.5 | 1.6 | 2.1 | 1.0 | 0.6 | 0.1 | 1.0 | 10.2 |
+| Morez Johnson Jr. (DAL) | 99% | 16.0 | 6.5 | 2.2 | 1.5 | 0.5 | 0.4 | 0.1 | 1.1 | 10.3 |
+| Walter Clayton Jr. (DAL) | 49% | 14.0 | 4.8 | 2.4 | 3.0 | 0.5 | 0.5 | 0.2 | 0.8 | 10.3 |
+| Moussa Cisse (DAL) | 85% | 9.8 | 3.1 | 3.8 | 0.3 | 0.0 | 0.3 | 0.7 | 0.6 | 7.3 |
+| Jett Howard (DAL) | 49% | 7.4 | 2.9 | 0.9 | 0.5 | 0.3 | 0.2 | 0.1 | 0.3 | 4.3 |
+| Tobi Lawal (DAL) | 55% | 6.9 | 3.2 | 1.0 | 0.7 | 0.2 | 0.3 | 0.1 | 0.3 | 4.9 |
+| Shai Gilgeous-Alexander (OKC) | 99% | 39.5 | 39.5 | 5.1 | 8.8 | 2.1 | 1.8 | 1.2 | 3.7 | 53.4 |
+| Jared McCain (OKC) | 99% | 35.4 | 21.1 | 4.0 | 3.1 | 3.3 | 1.0 | 0.2 | 2.1 | 28.1 |
+| Isaiah Hartenstein (OKC) | 99% | 31.4 | 13.5 | 12.8 | 5.0 | 0.0 | 1.2 | 0.9 | 2.5 | 31.4 |
+| Bennett Stirtz (OKC) | 89% | 30.8 | 10.6 | 5.1 | 2.4 | 1.7 | 1.0 | 0.2 | 1.6 | 18.1 |
+| Aday Mara (OKC) | 89% | 29.6 | 10.4 | 9.1 | 1.9 | 0.0 | 0.7 | 2.0 | 1.9 | 21.4 |
+| Josh Dix (OKC) | 57% | 29.3 | 1.2 | 4.8 | 1.8 | 0.1 | 1.2 | 0.4 | 1.4 | 7.8 |
+| Jaylin Williams (OKC) | 99% | 27.6 | 10.2 | 7.8 | 3.5 | 1.8 | 0.7 | 0.7 | 1.3 | 21.4 |
+| Kenrich Williams (OKC) | 86% | 26.6 | 11.0 | 6.2 | 2.3 | 1.6 | 0.9 | 0.2 | 1.2 | 19.5 |
+| Brooks Barnhizer (OKC) | 77% | 14.5 | 4.0 | 3.2 | 1.1 | 0.3 | 0.5 | 0.2 | 0.6 | 8.2 |
+| Micah Peavy (OKC) | 40% | 9.2 | 3.7 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.2 |
 
 </details>
 
 
 ### LAL @ LAC
 Out: Bradley Beal (LAC), Rui Hachimura (LAC), Brandon Ingram (LAC), Max Strus (LAC)
+
+**Best player props**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Brook Lopez PTS over 14.5 | LAL @ LAC | draftkings | 2.84 | 2.11 | 47.4% | 32.9% | 36.5% | +3.8% | +34.7% | 0.5% |
+| Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 2.96 | 2.28 | 43.8% | 31.6% | 34.6% | +2.5% | +29.5% | 0.3% |
+| Darius Garland PR over 34.5 | LAL @ LAC | draftkings | 3.93 | 3.13 | 31.9% | 23.8% | 25.8% | +1.5% | +25.5% | 0.1% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Kris Dunn 6+ pts **+** Brook Lopez 1+ 3pm | 59.8% | 1.67 | 1.76 | 1.54 | -8.2% |
+| Kris Dunn 6+ pts **+** Derrick Jones Jr. 10+ pa **+** Darius Garland 18+ pts | 49.4% | 2.03 | 2.13 | 1.79 | -11.6% |
+| Austin Reaves pts under 22.5 **+** Derrick Jones Jr. 10+ pra | 48.7% | 2.05 | 2.16 | 2.03 | -1.3% |
+| Austin Reaves pts under 22.5 **+** Brook Lopez 8+ pts | 41.3% | 2.42 | 2.54 | 2.44 | +1.0% |
 
 <details><summary>LAL players (confirmed only)</summary>
 
