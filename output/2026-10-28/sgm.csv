@@ -35,30 +35,30 @@ CHA @ DET,Daniss Jenkins 9+ pts + Brandon Miller 1+ 3pm,2,0.6263,0.516,1.94,2.03
 CHA @ DET,Duncan Robinson 8+ pts + Cade Cunningham 1+ 3pm + Brandon Miller 3+ reb,3,0.6072,0.5322,1.88,1.97,1.62,-0.1398,1.007,1.50-1.65
 CHA @ DET,Duncan Robinson 8+ pts + Cade Cunningham 1+ 3pm + Dennis Schroder 8+ pts,3,0.6332,0.5539,1.81,1.9,1.55,-0.1398,1.006,1.50-1.65
 CHA @ DET,Duncan Robinson 8+ pts + Cade Cunningham 1+ 3pm + Naz Reid 10+ pts,3,0.6497,0.568,1.76,1.85,1.51,-0.141,1.005,1.50-1.65
-PHI @ IND,Pascal Siakam 7+ reb + PHI win,2,0.3945,0.4012,2.49,2.62,2.43,-0.0259,1.007,2.10-2.50
-PHI @ IND,Pascal Siakam 12+ ra + Aaron Nesmith 6+ pts,2,0.5296,0.4184,2.39,2.51,2.29,-0.0417,1.005,2.10-2.50
-PHI @ IND,PHI win + Pascal Siakam 6+ reb,2,0.4641,0.4882,2.05,2.15,1.96,-0.0452,1.003,1.85-2.10
-PHI @ IND,PHI win + Joel Embiid 3+ ast,2,0.4924,0.5452,1.83,1.93,1.75,-0.0454,1.022,1.65-1.85
-PHI @ IND,Tyrese Maxey pts under 23.5 + Pascal Siakam 3+ ast,2,0.5078,0.4031,2.48,2.6,2.36,-0.0468,1.002,2.10-2.50
-PHI @ IND,Pascal Siakam 7+ reb + Aaron Nesmith 6+ pts,2,0.5908,0.4843,2.06,2.17,1.95,-0.0577,1.001,1.85-2.10
-PHI @ IND,Kelly Oubre Jr. pts under 11.5 + Aaron Nesmith 6+ pts,2,0.5696,0.4552,2.2,2.31,2.07,-0.0585,0.993,1.85-2.10
-PHI @ IND,PHI win + Kelly Oubre Jr. 3+ reb,2,0.4796,0.5275,1.9,1.99,1.78,-0.0626,1.001,1.65-1.85
-PHI @ IND,PHI win + Tyrese Maxey 1+ 3pm,2,0.5473,0.6162,1.62,1.7,1.52,-0.0637,1.008,1.50-1.65
+PHI @ IND,Jarace Walker 5+ reb + PHI win,2,0.3898,0.395,2.53,2.66,2.45,-0.0321,1.001,2.10-2.50
+PHI @ IND,Jarace Walker 15+ pr + Aaron Nesmith 8+ pts,2,0.4872,0.3933,2.54,2.67,2.45,-0.0361,1.008,2.10-2.50
+PHI @ IND,Tyrese Maxey pts under 23.5 + Jarace Walker 6+ pts,2,0.5166,0.398,2.51,2.64,2.41,-0.0404,0.997,2.10-2.50
+PHI @ IND,PHI win + Joel Embiid 3+ ast,2,0.4924,0.5444,1.84,1.93,1.75,-0.0449,1.022,1.65-1.85
+PHI @ IND,Tyrese Maxey pa under 29.5 + Aaron Nesmith 6+ pts,2,0.5706,0.456,2.19,2.3,2.07,-0.0568,0.995,1.85-2.10
+PHI @ IND,Tyrese Maxey pra under 33.5 + Aaron Nesmith 6+ pts,2,0.5716,0.461,2.17,2.28,2.04,-0.0604,0.995,1.85-2.10
+PHI @ IND,PHI win + Kelly Oubre Jr. 3+ reb,2,0.4796,0.5246,1.91,2.0,1.79,-0.0608,1.001,1.65-1.85
+PHI @ IND,Jarace Walker 5+ reb + Pascal Siakam 5+ reb,2,0.5588,0.4609,2.17,2.28,2.03,-0.0631,0.999,1.85-2.10
+PHI @ IND,PHI win + Pascal Siakam 5+ reb,2,0.5191,0.5697,1.76,1.84,1.64,-0.0635,0.999,1.50-1.65
+PHI @ IND,PHI win + Jarace Walker 6+ pts,2,0.4914,0.5291,1.89,1.98,1.75,-0.0717,0.984,1.65-1.85
 PHI @ IND,PHI win + Aaron Nesmith 6+ pts,2,0.5378,0.5844,1.71,1.8,1.59,-0.0719,0.987,1.50-1.65
-PHI @ IND,PHI win + Pascal Siakam 3+ ast,2,0.483,0.5292,1.89,1.98,1.75,-0.0733,0.988,1.65-1.85
-PHI @ IND,PHI win + Aaron Nesmith 1+ 3pm,2,0.5114,0.565,1.77,1.86,1.64,-0.0743,0.99,1.50-1.65
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 5+ reb,2,0.7024,0.5054,1.98,2.08,1.96,-0.0091,0.999,1.85-2.10
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 8+ pts,2,0.6453,0.4596,2.18,2.28,2.15,-0.0104,0.994,2.10-2.50
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + RJ Barrett 4+ reb,2,0.6388,0.4667,2.14,2.25,2.11,-0.0137,1.0,2.10-2.50
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Franz Wagner 4+ reb,2,0.7046,0.5131,1.95,2.05,1.92,-0.0138,0.999,1.85-2.10
-ORL @ TOR,Jakob Poeltl pr under 15.5 + Wendell Carter Jr. 6+ pts,2,0.6008,0.4465,2.24,2.35,2.19,-0.022,1.0,2.10-2.50
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Desmond Bane 10+ pts,2,0.7402,0.5516,1.81,1.9,1.77,-0.0232,0.997,1.65-1.85
-ORL @ TOR,Jakob Poeltl pr under 15.5 + Desmond Bane 10+ pts,2,0.6116,0.4677,2.14,2.24,2.06,-0.0349,0.997,1.85-2.10
-ORL @ TOR,Scottie Barnes 3pm under 1.5 + Wendell Carter Jr. 5+ reb,2,0.6714,0.5346,1.87,1.96,1.77,-0.0538,0.997,1.65-1.85
-ORL @ TOR,Scottie Barnes 3pm under 1.5 + Franz Wagner 4+ reb,2,0.6744,0.5434,1.84,1.93,1.74,-0.0571,0.998,1.65-1.85
-ORL @ TOR,Scottie Barnes 3pm under 1.5 + Desmond Bane 10+ pts,2,0.7104,0.5858,1.71,1.79,1.6,-0.0635,1.0,1.50-1.65
-ORL @ TOR,Wendell Carter Jr. 8+ pts + RJ Barrett 4+ reb,2,0.6654,0.5707,1.75,1.84,1.62,-0.0753,1.003,1.50-1.65
-ORL @ TOR,Wendell Carter Jr. 8+ pts + Franz Wagner 4+ reb + Desmond Bane 12+ pts,3,0.6522,0.5341,1.87,1.97,1.65,-0.1202,1.005,1.50-1.65
+PHI @ IND,PHI win + Aaron Nesmith 1+ 3pm,2,0.5114,0.5659,1.77,1.86,1.63,-0.0748,0.99,1.50-1.65
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Scottie Barnes 3pm under 1.5,2,0.5978,0.4088,2.45,2.57,2.47,0.009,0.999,2.10-2.50
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 5+ reb,2,0.7024,0.5155,1.94,2.04,1.91,-0.0178,0.999,1.85-2.10
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Franz Wagner 4+ reb,2,0.7046,0.5206,1.92,2.02,1.88,-0.0207,0.999,1.85-2.10
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + RJ Barrett 4+ reb,2,0.6388,0.4771,2.1,2.2,2.05,-0.0232,1.0,1.85-2.10
+ORL @ TOR,Jakob Poeltl pr under 15.5 + Wendell Carter Jr. 5+ reb,2,0.5796,0.4297,2.33,2.44,2.27,-0.0234,0.998,2.10-2.50
+ORL @ TOR,Jakob Poeltl pr under 15.5 + Franz Wagner 4+ reb,2,0.5824,0.4346,2.3,2.42,2.24,-0.0249,0.999,2.10-2.50
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Desmond Bane 10+ pts,2,0.7402,0.5573,1.79,1.88,1.74,-0.0284,0.997,1.65-1.85
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Franz Wagner 20+ pra,2,0.7552,0.5738,1.74,1.83,1.69,-0.0313,0.998,1.65-1.85
+ORL @ TOR,Scottie Barnes 3pm under 1.5 + Wendell Carter Jr. 5+ reb,2,0.6714,0.5379,1.86,1.95,1.75,-0.0561,0.997,1.65-1.85
+ORL @ TOR,Scottie Barnes 3pm under 1.5 + Franz Wagner 20+ pra,2,0.7243,0.6007,1.66,1.75,1.55,-0.066,0.999,1.50-1.65
+ORL @ TOR,Wendell Carter Jr. 5+ reb + RJ Barrett 4+ reb + Desmond Bane 12+ pts,3,0.639,0.532,1.88,1.97,1.64,-0.1263,1.004,1.50-1.65
+ORL @ TOR,Wendell Carter Jr. 5+ reb + RJ Barrett 4+ reb + Franz Wagner 3+ reb,3,0.6849,0.5687,1.76,1.85,1.53,-0.1285,1.001,1.50-1.65
 NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 3+ reb,2,0.6116,0.4624,2.16,2.27,2.11,-0.0264,1.001,2.10-2.50
 NYK @ CHI,Karl-Anthony Towns pr under 34.5 + OG Anunoby 3+ reb,2,0.6076,0.4629,2.16,2.27,2.1,-0.0295,1.001,1.85-2.10
 NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 8+ pts,2,0.6395,0.4858,2.06,2.16,2.0,-0.0305,0.998,1.85-2.10
@@ -77,18 +77,18 @@ HOU @ MIL,Kevin Durant 4+ ast + Reed Sheppard 1+ 3pm,2,0.713,0.5677,1.76,1.85,1.
 HOU @ MIL,Kevin Durant 4+ reb + Jabari Smith Jr. 20+ pra + Reed Sheppard 1+ 3pm,3,0.6562,0.5518,1.81,1.9,1.57,-0.1342,0.999,1.50-1.65
 HOU @ MIL,Jabari Smith Jr. 20+ pra + Ryan Rollins 8+ pts + Kevin Durant 3+ reb,3,0.6558,0.5601,1.79,1.87,1.54,-0.1356,1.003,1.50-1.65
 HOU @ MIL,Jabari Smith Jr. 20+ pra + Ryan Rollins 8+ pts + Reed Sheppard 1+ 3pm,3,0.6617,0.5646,1.77,1.86,1.53,-0.1361,1.002,1.50-1.65
-GSW @ MIN,Stephen Curry pts under 23.5 + Jaden McDaniels 3+ reb,2,0.5854,0.4393,2.28,2.39,2.22,-0.026,0.999,2.10-2.50
-GSW @ MIN,Stephen Curry pts under 23.5 + Rudy Gobert 6+ pts,2,0.5716,0.4289,2.33,2.45,2.27,-0.0276,0.997,2.10-2.50
-GSW @ MIN,Stephen Curry pts under 23.5 + Rudy Gobert 15+ pra,2,0.6126,0.46,2.17,2.28,2.11,-0.0277,0.998,2.10-2.50
-GSW @ MIN,Stephen Curry pa under 28.5 + Jaden McDaniels 3+ reb,2,0.6133,0.4643,2.15,2.26,2.09,-0.0289,1.0,1.85-2.10
-GSW @ MIN,Stephen Curry pa under 28.5 + Rudy Gobert 15+ pra,2,0.6418,0.4861,2.06,2.16,1.99,-0.0306,0.999,1.85-2.10
-GSW @ MIN,Stephen Curry pa under 28.5 + LaMelo Ball 2+ 3pm,2,0.6076,0.4615,2.17,2.28,2.1,-0.0314,0.999,1.85-2.10
-GSW @ MIN,De'Anthony Melton 3pm under 1.5 + LaMelo Ball 3+ ast,2,0.6652,0.5332,1.88,1.97,1.78,-0.0507,1.001,1.65-1.85
-GSW @ MIN,Gui Santos 3pm under 1.5 + Rudy Gobert 15+ pra,2,0.6864,0.5592,1.79,1.88,1.68,-0.0594,1.0,1.65-1.85
-GSW @ MIN,Gui Santos 3pm under 1.5 + Rudy Gobert 6+ pts,2,0.6404,0.5213,1.92,2.01,1.8,-0.0594,1.0,1.65-1.85
-GSW @ MIN,Gui Santos 3pm under 1.5 + LaMelo Ball 3+ ast,2,0.6996,0.5817,1.72,1.81,1.61,-0.0659,1.0,1.50-1.65
-GSW @ MIN,Gui Santos 3pm under 1.5 + Rudy Gobert 6+ reb,2,0.6977,0.5818,1.72,1.8,1.6,-0.0682,0.999,1.50-1.65
-GSW @ MIN,Rudy Gobert 6+ pts + Jaden McDaniels 3+ reb + LaMelo Ball 2+ 3pm,3,0.6822,0.5722,1.75,1.83,1.52,-0.128,1.005,1.50-1.65
+GSW @ MIN,Gui Santos 3pm under 1.5 + MIN win,2,0.4779,0.394,2.54,2.66,2.47,-0.025,1.02,2.10-2.50
+GSW @ MIN,Stephen Curry pa under 28.5 + Jaden McDaniels 3+ reb,2,0.6133,0.4643,2.15,2.26,2.09,-0.0291,1.0,1.85-2.10
+GSW @ MIN,Stephen Curry pra under 31.5 + Jaden McDaniels 3+ reb,2,0.5962,0.4516,2.21,2.33,2.15,-0.0294,1.0,2.10-2.50
+GSW @ MIN,Stephen Curry pa under 28.5 + Rudy Gobert 15+ pra,2,0.6418,0.4879,2.05,2.15,1.98,-0.0321,0.999,1.85-2.10
+GSW @ MIN,Stephen Curry pra under 31.5 + Rudy Gobert 15+ pra,2,0.6238,0.4745,2.11,2.21,2.04,-0.0324,0.999,1.85-2.10
+GSW @ MIN,Stephen Curry pra under 31.5 + Rudy Gobert 6+ pts,2,0.5814,0.4411,2.27,2.38,2.19,-0.0329,0.997,2.10-2.50
+GSW @ MIN,De'Anthony Melton 3pm under 1.5 + LaMelo Ball 3+ ast,2,0.6652,0.5331,1.88,1.97,1.78,-0.0506,1.001,1.65-1.85
+GSW @ MIN,De'Anthony Melton 3pm under 1.5 + Rudy Gobert 6+ reb,2,0.6623,0.5317,1.88,1.97,1.78,-0.0542,0.998,1.65-1.85
+GSW @ MIN,MIN win + LaMelo Ball 2+ 3pm,2,0.5681,0.5108,1.96,2.06,1.84,-0.0601,1.016,1.65-1.85
+GSW @ MIN,Gui Santos 3pm under 1.5 + LaMelo Ball 3+ ast,2,0.6996,0.5883,1.7,1.78,1.58,-0.07,1.0,1.50-1.65
+GSW @ MIN,Gui Santos 3pm under 1.5 + Rudy Gobert 6+ reb,2,0.6977,0.5877,1.7,1.79,1.58,-0.072,0.999,1.50-1.65
+GSW @ MIN,Gui Santos 3pm under 1.5 + LaMelo Ball 3+ ast + Rudy Gobert 6+ reb,3,0.6617,0.5374,1.86,1.95,1.64,-0.1211,0.999,1.50-1.65
 DEN @ NOP,Dejounte Murray pts under 17.5 + Nikola Jokic 30+ pra,2,0.6042,0.4725,2.12,2.22,2.03,-0.043,1.001,1.85-2.10
 DEN @ NOP,DEN win + Nikola Jokic 7+ ast,2,0.5014,0.5071,1.97,2.07,1.88,-0.0446,1.023,1.85-2.10
 DEN @ NOP,Dejounte Murray pts under 17.5 + Nikola Jokic 9+ reb,2,0.5486,0.429,2.33,2.45,2.22,-0.0465,0.997,2.10-2.50
@@ -99,7 +99,7 @@ DEN @ NOP,Dejounte Murray pts under 17.5 + Nikola Jokic 7+ ast,2,0.5412,0.4277,2
 DEN @ NOP,DEN win + Nikola Jokic 8+ reb,2,0.5216,0.5243,1.91,2.0,1.78,-0.0671,0.997,1.65-1.85
 SAS @ UTA,Ace Bailey 8+ ra + Keyonte George 25+ pra,2,0.5534,0.4194,2.38,2.5,2.38,-0.0035,1.025,2.10-2.50
 SAS @ UTA,Ace Bailey 8+ ra + SAS win,2,0.5085,0.4471,2.24,2.35,2.21,-0.0099,0.993,2.10-2.50
-SAS @ UTA,Ace Bailey 22+ pra + Keyonte George 25+ pra,2,0.54,0.4285,2.33,2.45,2.31,-0.011,1.033,2.10-2.50
+SAS @ UTA,Ace Bailey 22+ pra + Keyonte George 25+ pra,2,0.54,0.4262,2.35,2.46,2.32,-0.0125,1.033,2.10-2.50
 SAS @ UTA,Ace Bailey 2+ ast + SAS win,2,0.5601,0.5043,1.98,2.08,1.94,-0.0198,0.99,1.85-2.10
 SAS @ UTA,Ace Bailey 2+ ast + Keyonte George 25+ pra,2,0.6046,0.4692,2.13,2.24,2.09,-0.0214,1.014,1.85-2.10
 SAS @ UTA,Ace Bailey 2+ ast + Julian Champagnie 6+ pts,2,0.6345,0.484,2.07,2.17,2.01,-0.0265,1.003,1.85-2.10
