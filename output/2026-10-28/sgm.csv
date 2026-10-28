@@ -31,30 +31,30 @@ CHA @ DET,Daniss Jenkins 3+ reb + Cade Cunningham 3+ reb,2,0.5774,0.4543,2.2,2.3
 CHA @ DET,Naz Reid ra under 10.5 + Brandon Miller 1+ 3pm,2,0.6281,0.5153,1.94,2.04,1.83,-0.0591,1.0,1.65-1.85
 CHA @ DET,Duncan Robinson 3pm under 3.5 + Dennis Schroder 6+ pts,2,0.6615,0.5412,1.85,1.94,1.73,-0.0617,0.998,1.65-1.85
 CHA @ DET,Duncan Robinson 3pm under 3.5 + Brandon Miller 1+ 3pm,2,0.6742,0.5569,1.8,1.89,1.68,-0.0647,0.998,1.65-1.85
-PHI @ IND,Tyrese Maxey pts under 24.5 + Pascal Siakam 1+ 3pm,2,0.5411,0.414,2.42,2.54,2.34,-0.0302,1.002,2.10-2.50
-PHI @ IND,Tyrese Maxey pts under 24.5 + Pascal Siakam 5+ reb,2,0.5621,0.434,2.3,2.42,2.22,-0.0358,1.0,2.10-2.50
-PHI @ IND,Tyrese Maxey pts under 24.5 + LeBron James 3+ reb,2,0.6176,0.4764,2.1,2.2,2.02,-0.0364,0.999,1.85-2.10
-PHI @ IND,Tyrese Maxey pr under 28.5 + Pascal Siakam 1+ 3pm,2,0.5402,0.4197,2.38,2.5,2.29,-0.0374,1.002,2.10-2.50
-PHI @ IND,Tyrese Maxey pts under 24.5 + LeBron James 3+ ast,2,0.6121,0.479,2.09,2.19,2.0,-0.0433,0.996,1.85-2.10
-PHI @ IND,Tyrese Maxey pr under 28.5 + LeBron James 3+ reb,2,0.6166,0.483,2.07,2.17,1.98,-0.0436,0.998,1.85-2.10
-PHI @ IND,PHI win + Joel Embiid 3+ ast,2,0.4786,0.5406,1.85,1.94,1.76,-0.0492,1.018,1.65-1.85
-PHI @ IND,PHI win + Tyrese Maxey 3+ ast,2,0.5226,0.6083,1.64,1.73,1.55,-0.0597,1.017,1.50-1.65
-PHI @ IND,PHI win + Tyrese Maxey 1+ 3pm,2,0.5336,0.6164,1.62,1.7,1.52,-0.0656,1.008,1.50-1.65
-PHI @ IND,PHI win + Pascal Siakam 4+ reb,2,0.5426,0.6207,1.61,1.69,1.5,-0.0672,1.003,1.50-1.65
-PHI @ IND,PHI win + Pascal Siakam 1+ 3pm,2,0.4748,0.539,1.86,1.95,1.72,-0.073,0.994,1.65-1.85
-PHI @ IND,Jaylen Brown reb under 6.5 + LeBron James 3+ reb,2,0.5864,0.502,1.99,2.09,1.84,-0.0753,1.002,1.65-1.85
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 15+ pra,2,0.6971,0.4811,2.08,2.18,2.09,0.0058,0.996,1.85-2.10
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 8+ pts,2,0.6344,0.4366,2.29,2.41,2.3,0.003,0.992,2.10-2.50
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 5+ reb,2,0.6916,0.4837,2.07,2.17,2.07,0.0028,0.998,1.85-2.10
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Franz Wagner 4+ reb,2,0.6886,0.4869,2.05,2.16,2.05,-0.0033,0.996,1.85-2.10
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + RJ Barrett 4+ reb,2,0.6182,0.4413,2.27,2.38,2.26,-0.0043,0.999,2.10-2.50
-ORL @ TOR,Wendell Carter Jr. 20+ pr + Desmond Bane 15+ pts,2,0.5061,0.3953,2.53,2.66,2.49,-0.0151,1.027,2.10-2.50
-ORL @ TOR,Wendell Carter Jr. 20+ pra + Franz Wagner 4+ reb,2,0.6596,0.5297,1.89,1.98,1.79,-0.0492,1.006,1.65-1.85
-ORL @ TOR,Scottie Barnes 3pm under 1.5 + Wendell Carter Jr. 5+ reb,2,0.6839,0.5398,1.85,1.94,1.76,-0.0494,0.999,1.65-1.85
-ORL @ TOR,Wendell Carter Jr. 8+ pts + Desmond Bane 15+ pts,2,0.6828,0.5728,1.75,1.83,1.64,-0.0615,1.01,1.50-1.65
-ORL @ TOR,Wendell Carter Jr. 8+ pts + RJ Barrett 4+ reb,2,0.6782,0.57,1.75,1.84,1.63,-0.0686,1.003,1.50-1.65
-ORL @ TOR,Desmond Bane 15+ pts + RJ Barrett 4+ reb,2,0.659,0.5734,1.74,1.83,1.61,-0.0774,1.006,1.50-1.65
-ORL @ TOR,Scottie Barnes 3pm under 1.5 + Franz Wagner 4+ reb + Wendell Carter Jr. 10+ pra,3,0.6712,0.5033,1.99,2.09,1.79,-0.0967,0.998,1.65-1.85
+PHI @ IND,Tyrese Maxey pts under 24.5 + Pascal Siakam 1+ 3pm,2,0.5411,0.4184,2.39,2.51,2.31,-0.035,1.002,2.10-2.50
+PHI @ IND,Tyrese Maxey pr under 28.5 + Pascal Siakam 1+ 3pm,2,0.5402,0.4192,2.39,2.5,2.3,-0.0371,1.002,2.10-2.50
+PHI @ IND,Tyrese Maxey pra under 33.5 + Pascal Siakam 1+ 3pm,2,0.5216,0.4065,2.46,2.58,2.37,-0.0377,1.003,2.10-2.50
+PHI @ IND,Tyrese Maxey pts under 24.5 + LeBron James 3+ reb,2,0.6176,0.4828,2.07,2.17,1.98,-0.042,0.999,1.85-2.10
+PHI @ IND,Tyrese Maxey pr under 28.5 + LeBron James 3+ reb,2,0.6166,0.4838,2.07,2.17,1.98,-0.0441,0.998,1.85-2.10
+PHI @ IND,Tyrese Maxey pra under 33.5 + LeBron James 3+ reb,2,0.5945,0.4684,2.13,2.24,2.04,-0.0461,0.998,1.85-2.10
+PHI @ IND,PHI win + Joel Embiid 3+ ast,2,0.4786,0.5427,1.84,1.93,1.75,-0.0506,1.018,1.65-1.85
+PHI @ IND,PHI win + Jaylen Brown 12+ pts,2,0.5268,0.6129,1.63,1.71,1.55,-0.0527,1.024,1.50-1.65
+PHI @ IND,PHI win + Tyrese Maxey 1+ 3pm,2,0.5336,0.6174,1.62,1.7,1.51,-0.066,1.008,1.50-1.65
+PHI @ IND,PHI win + Pascal Siakam 5+ reb,2,0.4989,0.5742,1.74,1.83,1.62,-0.0692,1.003,1.50-1.65
+PHI @ IND,PHI win + Pascal Siakam 1+ 3pm,2,0.4748,0.5383,1.86,1.95,1.72,-0.0727,0.994,1.65-1.85
+PHI @ IND,Jaylen Brown reb under 6.5 + LeBron James 3+ reb,2,0.5864,0.5028,1.99,2.09,1.84,-0.0757,1.002,1.65-1.85
+ORL @ TOR,Jakob Poeltl pr under 15.5 + Wendell Carter Jr. 6+ reb,2,0.5486,0.3998,2.5,2.63,2.46,-0.0174,0.998,2.10-2.50
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 6+ reb,2,0.635,0.4619,2.16,2.27,2.12,-0.0184,0.996,2.10-2.50
+ORL @ TOR,Jakob Poeltl pr under 15.5 + Wendell Carter Jr. 8+ pts,2,0.5491,0.4004,2.5,2.62,2.45,-0.0195,0.996,2.10-2.50
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 15+ pra,2,0.6971,0.5099,1.96,2.06,1.92,-0.0204,0.996,1.85-2.10
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Franz Wagner 4+ reb,2,0.6886,0.5127,1.95,2.05,1.9,-0.0269,0.996,1.85-2.10
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + RJ Barrett 4+ reb,2,0.6182,0.4653,2.15,2.26,2.09,-0.0283,0.999,1.85-2.10
+ORL @ TOR,Scottie Barnes 3pm under 1.5 + Wendell Carter Jr. 15+ pra,2,0.691,0.5433,1.84,1.93,1.75,-0.0476,0.999,1.65-1.85
+ORL @ TOR,Scottie Barnes 3pm under 1.5 + Franz Wagner 4+ reb,2,0.6819,0.5457,1.83,1.92,1.73,-0.0548,0.998,1.65-1.85
+ORL @ TOR,Wendell Carter Jr. 8+ pts + Desmond Bane 15+ pts,2,0.6828,0.5777,1.73,1.82,1.62,-0.0644,1.01,1.50-1.65
+ORL @ TOR,Wendell Carter Jr. 8+ pts + RJ Barrett 4+ reb,2,0.6782,0.5765,1.73,1.82,1.61,-0.0725,1.003,1.50-1.65
+ORL @ TOR,Desmond Bane 15+ pts + RJ Barrett 4+ reb,2,0.659,0.5765,1.73,1.82,1.6,-0.0791,1.006,1.50-1.65
+ORL @ TOR,Scottie Barnes 3pm under 1.5 + Franz Wagner 4+ reb + Wendell Carter Jr. 4+ reb,3,0.6492,0.4878,2.05,2.15,1.85,-0.0987,0.996,1.65-1.85
 NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 3+ reb,2,0.6116,0.4688,2.13,2.24,2.06,-0.0322,1.001,1.85-2.10
 NYK @ CHI,Karl-Anthony Towns pr under 34.5 + OG Anunoby 3+ reb,2,0.6076,0.4692,2.13,2.24,2.06,-0.0352,1.001,1.85-2.10
 NYK @ CHI,Karl-Anthony Towns pra under 38.5 + OG Anunoby 8+ pts,2,0.6395,0.4921,2.03,2.13,1.96,-0.036,0.998,1.85-2.10
