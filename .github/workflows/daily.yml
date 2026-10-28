@@ -1,16 +1,17 @@
-name: nba-projections
-
 # Times are UTC. Sydney = UTC+10/+11, US Eastern = UTC-4/-5.
-#  - 15:00 UTC  morning snapshot (~1-2am Sydney): grade last night, refresh data, project the
-#               slate, log DraftKings lines + full prop menu (free)
-#  - every 15 min 21:00-05:45 UTC (~8am-4:45pm Sydney): game-day loop. Re-projects whenever
-#               injury/lineup status changes and, ~40 min before each tip, logs props for that
-#               game (AU books via The Odds API: 1 credit per game) + AU game lines once a day.
+#  - 13:00 UTC  morning snapshot (~11pm-midnight Sydney, ~9am ET): grade last night, refresh data,
+#               project the slate, log DraftKings lines + full prop menu (free)
+#  - every 15 min 14:00-05:45 UTC: game-day loop. It reads that day's actual tip times and does
+#               nothing until 2 hours before the first tip, so early games (US weekend/holiday
+#               afternoons, Europe/Mexico games, ~3-7am Sydney) are covered as well as the usual
+#               ~10am-2pm Sydney slate. Re-projects whenever injury/lineup status changes and, ~40 min
+#               before each tip, buys that game's AU-book props (The Odds API: 1 credit per game)
+#               + AU game lines once a day. Free on a public repo (Actions minutes are unlimited).
 # GitHub's scheduler can start jobs several minutes late, so the pre-tip window is 40 min wide.
 on:
   schedule:
-    - cron: "0 15 * * *"
-    - cron: "*/15 21-23 * * *"
+    - cron: "0 13 * * *"
+    - cron: "*/15 14-23 * * *"
     - cron: "*/15 0-5 * * *"
   workflow_dispatch:
     inputs:
@@ -53,7 +54,7 @@ jobs:
         run: |
           CMD="${{ github.event.inputs.command }}"
           if [ -z "$CMD" ]; then
-            if [ "$(date -u +%H)" = "15" ]; then CMD=snapshot; else CMD=live; fi
+            if [ "${{ github.event.schedule }}" = "0 13 * * *" ]; then CMD=snapshot; else CMD=live; fi
           fi
           python -m nbamodel.cli $CMD
       - name: Commit logs
