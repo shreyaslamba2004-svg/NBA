@@ -21,6 +21,7 @@ import pandas as pd
 from .odds import american_to_decimal, american_to_prob, edge, kelly, prob_to_decimal
 
 CHECK_GAP = 0.15
+EXCHANGE_COMMISSION = 0.05  # Betfair AU base rate on net winnings
 BLEND_W_GAME = 0.35   # weight on the model vs no-vig market for sides/totals (to be refit in backtests)
 BLEND_W_PROPS = 0.25  # props: model spread vs book spread not yet validated (refit from logged results)
 ONE_SIDED_MARGIN = 1.07  # typical overround on milestone / alt props without an opposite side
@@ -48,6 +49,12 @@ def offers_from_odds_api(game_id: int, books: pd.DataFrame) -> pd.DataFrame:
     d = books.assign(game_id=game_id, market=books["market"].map(mk),
                      selection=books["side"].astype(str).str.lower().where(books["market"] == "totals", books["side"]),
                      player_id=None, paired=True)
+    d = d.dropna(subset=["market"]).astype({"price": float})  # dropna: e.g. Betfair's h2h_lay
+    # exchange prices are before commission: compare what you'd actually be paid
+    ex = d["book"].astype(str).str.contains("betfair")
+    if ex.any():
+        dec = 1 + (american_to_decimal(d.loc[ex, "price"].astype(float)) - 1) * (1 - EXCHANGE_COMMISSION)
+        d.loc[ex, "price"] = np.where(dec >= 2, (dec - 1) * 100, -100 / (dec - 1))
     d.loc[d["market"] == "moneyline", "line"] = None
     return d[["game_id", "book", "market", "selection", "line", "price", "player_id", "paired"]]
 

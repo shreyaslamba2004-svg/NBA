@@ -339,7 +339,37 @@ def write_outputs(day: date, res: dict, tag: str = "") -> Path:
     return d
 
 
-def run(day: date, refresh: bool = True, with_props: bool = True) -> dict:
+def latest_props(slate: pd.DataFrame) -> pd.DataFrame | None:
+    """Most recent logged props per game and source (free ESPN DraftKings + any AU books bought)."""
+    p = ROOT / "logs" / "market" / "props.csv"
+    if not p.exists():
+        return None
+    d = pd.read_csv(p)
+    d = d[d["game_id"].isin(slate["game_id"])]
+    if d.empty:
+        return None
+    last = d.groupby(["game_id", "source"])["snapshot_utc"].transform("max")
+    return d[d["snapshot_utc"] == last].reset_index(drop=True)
+
+
+def finish(day: date, res: dict, sp: pd.DataFrame, slate: pd.DataFrame) -> Path:
+    """Write the CSVs, run state and the readable sheet (TODAY.md)."""
+    tips = slate.set_index("game_id")["tip_utc"]
+    if len(res["games"]) and "tip_sydney" not in res["games"]:
+        res["games"].insert(2, "tip_sydney", res["games"]["game_id"].map(
+            lambda g: pd.Timestamp(tips[g]).tz_convert("Australia/Sydney").strftime("%a %d %b %H:%M")))
+    res["availability"] = sp
+    path = write_outputs(day, res)
+    (path / "state.json").write_text(json.dumps({"availability_hash": availability_hash(sp),
+                                                 "generated": pd.Timestamp.now(tz="UTC").isoformat()}))
+    from .dashboard import build as build_page
+    build_page(day)
+    print("wrote", path)
+    return path
+
+
+def run(day: date, refresh: bool = True, with_props: bool = True, props: pd.DataFrame | None = None) -> dict:
+    """Project the slate. Props: pass already-fetched ones, or with_props fetches every source."""
     if refresh:
         refresh_current_season(day)
     b = Bundle.load()
@@ -351,18 +381,9 @@ def run(day: date, refresh: bool = True, with_props: bool = True) -> dict:
     pg, _ = load_history()
     sp, _ = availability(slate, day, pg)
     market = market_lines(slate)
-    props = props_market(slate, pg) if with_props else None
+    if props is None and with_props:
+        props = props_market(slate, pg)
     res = project(day, slate.drop(columns=["tip_utc"]), sp, b, market=market, props=props,
                   book_lines=latest_book_lines(slate))
-    tips = slate.set_index("game_id")["tip_utc"]
-    if len(res["games"]):
-        res["games"].insert(2, "tip_sydney", res["games"]["game_id"].map(
-            lambda g: pd.Timestamp(tips[g]).tz_convert("Australia/Sydney").strftime("%a %d %b %H:%M")))
-    res["availability"] = sp
-    path = write_outputs(day, res)
-    (path / "state.json").write_text(json.dumps({"availability_hash": availability_hash(sp),
-                                                 "generated": pd.Timestamp.now(tz="UTC").isoformat()}))
-    print("wrote", path)
-    from .dashboard import build as build_page
-    build_page(day)
+    finish(day, res, sp, slate)
     return res

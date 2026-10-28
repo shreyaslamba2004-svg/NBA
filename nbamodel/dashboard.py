@@ -95,7 +95,9 @@ def best_bets(edges: pd.DataFrame) -> tuple[str, str]:
 def sgm_md(sg: pd.DataFrame) -> str:
     if sg.empty:
         return "_No same-game multis priced for this run._"
-    s = sg.sort_values("ev_at_multiplied_prices", ascending=False).head(TOP_SGMS)
+    s = sg.sort_values("ev_at_multiplied_prices", ascending=False)
+    # one per leg combination: drop variants that only move a line by a point
+    s = s[~s["legs"].str.replace(r"[-+]?\d+(\.\d+)?", "#", regex=True).duplicated()].head(TOP_SGMS)
     rows = [[str(r["legs"]).replace(" + ", " **+** "), r["matchup"], _f(r["model_prob"], 1, pct=True),
              _f(r["fair_odds"]), _f(r["min_price_worth_taking"]), _f(r["multiplied_leg_prices"]),
              _f(r["ev_at_multiplied_prices"], 1, pct=True, sign=True), _f(r["correlation_lift"])]

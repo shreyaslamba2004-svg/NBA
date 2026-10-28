@@ -78,17 +78,20 @@ def cmd_snapshot(a):
         market_log.log_results(day - timedelta(days=1))
     except Exception as e:  # grading must never block projections
         print("results logging failed:", e)
-    res = pipeline.run(day, refresh=not a.no_refresh, with_props=False)
-    if not res:
-        return
     slate = espn.scoreboard(day)
     slate = slate[slate["status"] == "STATUS_SCHEDULED"]
+    if slate.empty:
+        print("no upcoming games on", day)
+        return
+    # log prices first so the projection (and TODAY.md) is measured against them
     market_log.log_game_lines(slate, snap)
     market_log.log_book_lines(snap)
     if not a.no_props:
         # morning: free DraftKings props only; AU-book props are bought per game by `live`
         market_log.log_props(slate, snap, use_odds_api=a.kind == "pretip")
-    market_log.log_projections(day, res, f"{snap}|{a.kind}")
+    res = pipeline.run(day, refresh=not a.no_refresh, with_props=False, props=pipeline.latest_props(slate))
+    if res:
+        market_log.log_projections(day, res, f"{snap}|{a.kind}")
 
 
 SYDNEY = "Australia/Sydney"
@@ -130,9 +133,8 @@ def cmd_live(a):
     sp, _ = pipeline.availability(slate, day, pg)
     h = pipeline.availability_hash(sp)
     entering = up[(up["mins_to_tip"] <= PRETIP_MIN) & ~up["game_id"].isin(state["pretip_done"])]
-    props = None
     if len(entering):  # buy prices first so this run's edges use them
-        props = market_log.log_props(entering, snap, use_odds_api=True)
+        market_log.log_props(entering, snap, use_odds_api=True)
         if not state["book_lines"]:
             market_log.log_book_lines(snap)
             state["book_lines"] = True
@@ -140,10 +142,9 @@ def cmd_live(a):
     if h != state["hash"] or len(entering):
         print("re-projecting:", "availability changed" if h != state["hash"] else "pre-tip window")
         res = pipeline.project(day, slate.drop(columns=["tip_utc"]), sp, Bundle.load(),
-                               market=pipeline.market_lines(slate), props=props,
+                               market=pipeline.market_lines(slate), props=pipeline.latest_props(slate),
                                book_lines=pipeline.latest_book_lines(slate))
-        res["availability"] = sp
-        pipeline.write_outputs(day, res)
+        pipeline.finish(day, res, sp, slate)
         market_log.log_projections(day, res, f"{snap}|live")
         state["hash"] = h
     market_log.log_game_lines(slate, snap)
