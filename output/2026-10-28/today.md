@@ -1,8 +1,10 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 03:23 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 04:15 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
+
+DraftKings prices refresh every 10 minutes (5 near tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price, and use the Fair column as your minimum odds.
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
@@ -12,16 +14,16 @@ Updated **Thu 29 Oct, 03:23 AM** Sydney time. Decimal odds. Stakes are quarter-K
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied | Corr × |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Trae Young pra under 33.5 **+** CLE win | WAS @ CLE | 43.5% | 2.30 | 2.42 | 2.44 | +6.2% | 1.02 |
-| Trae Young pa under 31.5 **+** CLE win | WAS @ CLE | 45.3% | 2.21 | 2.32 | 2.33 | +5.5% | 1.02 |
-| Trae Young ra under 12.5 **+** CLE win | WAS @ CLE | 42.4% | 2.36 | 2.47 | 2.45 | +4.2% | 1.02 |
-| Trae Young pts under 20.5 **+** CLE win | WAS @ CLE | 42.7% | 2.34 | 2.46 | 2.43 | +4.0% | 1.02 |
-| Trae Young pr under 23.5 **+** CLE win | WAS @ CLE | 43.5% | 2.30 | 2.41 | 2.38 | +3.6% | 1.02 |
-| Trae Young ast under 10.5 **+** CLE win | WAS @ CLE | 46.9% | 2.13 | 2.24 | 2.20 | +3.2% | 1.01 |
-| Trae Young fg3m under 2.5 **+** CLE win | WAS @ CLE | 42.2% | 2.37 | 2.49 | 2.44 | +3.1% | 1.01 |
-| Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pa over 9.5 | OKC @ DAL | 41.2% | 2.43 | 2.55 | 2.45 | +1.1% | 1.02 |
-| Luka Doncic pts under 32.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 42.4% | 2.36 | 2.48 | 2.38 | +0.6% | 1.00 |
-| Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pr over 14.5 | OKC @ DAL | 42.7% | 2.34 | 2.46 | 2.35 | +0.5% | 1.01 |
+| Naz Reid pra under 29.5 **+** DET win | CHA @ DET | 42.4% | 2.36 | 2.47 | 2.48 | +5.1% | 1.05 |
+| Naz Reid pts under 18.5 **+** DET win | CHA @ DET | 41.6% | 2.41 | 2.53 | 2.49 | +3.6% | 1.05 |
+| Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pa over 9.5 | OKC @ DAL | 41.7% | 2.40 | 2.52 | 2.42 | +0.9% | 1.02 |
+| Luka Doncic pts under 32.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 42.2% | 2.37 | 2.49 | 2.38 | +0.7% | 1.00 |
+| Moussa Diabate pr under 18.5 **+** DET win | CHA @ DET | 40.8% | 2.45 | 2.58 | 2.47 | +0.5% | 1.04 |
+| Luka Doncic pa under 40.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 41.7% | 2.40 | 2.52 | 2.41 | +0.4% | 1.00 |
+| Isaiah Hartenstein pr over 19.5 **+** Shai Gilgeous-Alexander ast over 4.5 | OKC @ DAL | 40.9% | 2.44 | 2.57 | 2.45 | +0.3% | 1.01 |
+| Luka Doncic pr under 40.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 43.5% | 2.30 | 2.41 | 2.31 | +0.3% | 1.00 |
+| Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pr over 14.5 | OKC @ DAL | 43.3% | 2.31 | 2.43 | 2.31 | +0.1% | 1.01 |
+| Luka Doncic pra under 48.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 42.9% | 2.33 | 2.45 | 2.33 | +0.1% | 1.00 |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**.
 
@@ -31,23 +33,21 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 3.03 | Ajay Mitchell | 65.6% | 47.7% | +12.3% |
-| Aday Mara REB over 8.5 | OKC @ DAL | draftkings | 3.68 | Ajay Mitchell | 55.9% | 35.6% | +11.7% |
-| Lauri Markkanen PTS over 24.5 | SAS @ UTA | draftkings | 3.65 | Lauri Markkanen | void | 48.0% | +10.8% |
-| Ajay Mitchell AST over 5.5 | OKC @ DAL | draftkings | 3.85 | Ajay Mitchell | void | 40.7% | +9.5% |
-| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.77 | Marcus Smart | 86.0% | 90.5% | +9.2% |
-| Andrew Nembhard PRA over 29.5 | PHI @ IND | draftkings | 3.28 | Andrew Nembhard | void | 58.5% | +9.0% |
-| Ace Bailey PA over 19.5 | SAS @ UTA | draftkings | 3.63 | Lauri Markkanen | 59.4% | 34.3% | +8.5% |
-| Lauri Markkanen PA over 24.5 | SAS @ UTA | draftkings | 2.74 | Lauri Markkanen | void | 58.7% | +7.5% |
-| Andrew Nembhard AST over 8.5 | PHI @ IND | draftkings | 2.92 | Andrew Nembhard | void | 57.3% | +7.3% |
-| Aday Mara REB over 7.5 | OKC @ DAL | draftkings | 2.67 | Ajay Mitchell | 66.4% | 46.5% | +7.2% |
+| Aday Mara REB over 7.5 | OKC @ DAL | draftkings | 3.32 | Ajay Mitchell | 66.4% | 46.5% | +16.3% |
+| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 3.05 | Ajay Mitchell | 65.6% | 47.7% | +12.6% |
+| Lauri Markkanen PTS over 24.5 | SAS @ UTA | draftkings | 3.68 | Lauri Markkanen | void | 48.0% | +11.1% |
+| Aday Mara REB over 6.5 | OKC @ DAL | draftkings | 2.42 | Ajay Mitchell | 76.3% | 57.8% | +10.2% |
+| Ajay Mitchell AST over 5.5 | OKC @ DAL | draftkings | 3.83 | Ajay Mitchell | void | 40.7% | +9.3% |
+| Ace Bailey PA over 19.5 | SAS @ UTA | draftkings | 3.66 | Lauri Markkanen | 59.4% | 34.3% | +8.8% |
+| Andrew Nembhard PRA over 29.5 | PHI @ IND | draftkings | 3.23 | Andrew Nembhard | void | 58.5% | +8.5% |
+| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.73 | Marcus Smart | 86.0% | 90.5% | +8.4% |
+| Andrew Nembhard AST over 8.5 | PHI @ IND | draftkings | 2.90 | Andrew Nembhard | void | 57.3% | +7.1% |
+| Shai Gilgeous-Alexander AST over 6.5 | OKC @ DAL | draftkings | 2.14 | Ajay Mitchell | 75.8% | 60.1% | +6.9% |
 | Isaiah Hartenstein PR over 24.5 | OKC @ DAL | draftkings | 3.66 | Ajay Mitchell | 46.1% | 34.5% | +6.9% |
-| Ace Bailey PR over 24.5 | SAS @ UTA | draftkings | 3.93 | Lauri Markkanen | 54.6% | 29.6% | +6.8% |
-| Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.91 | AJ Dybantsa | 70.1% | 81.2% | +6.6% |
-| Shai Gilgeous-Alexander AST over 6.5 | OKC @ DAL | draftkings | 2.12 | Ajay Mitchell | 75.8% | 60.1% | +6.2% |
-| Ace Bailey PTS over 17.5 | SAS @ UTA | draftkings | 3.78 | Lauri Markkanen | 54.1% | 30.2% | +6.1% |
-| Trae Young PA under 31.5 | WAS @ CLE | draftkings | 1.82 | AJ Dybantsa | 73.0% | 83.0% | +5.9% |
-| Tyrese Haliburton REB over 5.5 | PHI @ IND | draftkings | 3.75 | Tyrese Haliburton | void | 40.7% | +5.1% |
+| Ace Bailey PTS over 17.5 | SAS @ UTA | draftkings | 3.83 | Lauri Markkanen | 54.1% | 30.2% | +6.6% |
+| Aday Mara PR over 19.5 | OKC @ DAL | draftkings | 3.78 | Ajay Mitchell | 52.8% | 26.0% | +6.0% |
+| Tyrese Haliburton REB over 5.5 | PHI @ IND | draftkings | 3.82 | Tyrese Haliburton | void | 40.7% | +5.8% |
+| Aday Mara REB over 5.5 | OKC @ DAL | draftkings | 1.83 | Ajay Mitchell | 84.9% | 69.3% | +5.2% |
 
 ## Check news first
 
@@ -55,20 +55,28 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Clint Capela PR under 14.5 | HOU @ MIL | draftkings | 1.87 | 1.09 | 91.8% | 50.0% | 60.5% | +13.0% | +71.7% | 2.0% |
-| Clint Capela PTS under 7.5 | HOU @ MIL | draftkings | 1.81 | 1.09 | 91.3% | 51.5% | 61.5% | +11.5% | +65.6% | 2.0% |
+| Clint Capela PTS under 6.5 | HOU @ MIL | draftkings | 1.98 | 1.16 | 86.3% | 47.2% | 57.0% | +12.8% | +70.8% | 2.0% |
+| Clint Capela PR under 14.5 | HOU @ MIL | draftkings | 1.84 | 1.09 | 91.8% | 50.8% | 61.0% | +12.3% | +69.0% | 2.0% |
 | Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.91 | 1.19 | 84.0% | 48.9% | 57.7% | +10.2% | +60.3% | 2.0% |
-| Aaron Wiggins 3PM under 1.5 | MIA @ ATL | draftkings | 2.33 | 1.56 | 64.2% | 40.1% | 46.1% | +7.5% | +49.6% | 1.4% |
-| Aaron Wiggins PTS under 12.5 | MIA @ ATL | draftkings | 1.95 | 1.31 | 76.4% | 47.9% | 55.0% | +7.4% | +49.2% | 1.9% |
-| Aaron Wiggins PA under 14.5 | MIA @ ATL | draftkings | 1.91 | 1.29 | 77.2% | 49.0% | 56.0% | +7.0% | +47.4% | 1.9% |
+| Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.91 | 1.24 | 80.7% | 48.9% | 56.9% | +8.6% | +54.0% | 2.0% |
+| Aaron Wiggins 3PM under 1.5 | MIA @ ATL | draftkings | 2.35 | 1.56 | 64.2% | 39.8% | 45.9% | +7.8% | +50.9% | 1.5% |
+| Trae Young PA under 31.5 | WAS @ CLE | draftkings | 1.82 | 1.21 | 82.5% | 51.4% | 59.1% | +7.6% | +50.1% | 2.0% |
+| Aaron Wiggins PTS under 12.5 | MIA @ ATL | draftkings | 1.94 | 1.31 | 76.4% | 48.1% | 55.2% | +7.2% | +48.5% | 1.9% |
+| Trae Young RA under 12.5 | WAS @ CLE | draftkings | 1.92 | 1.30 | 76.8% | 48.9% | 55.9% | +7.1% | +47.2% | 1.9% |
+| Aaron Wiggins PA under 14.5 | MIA @ ATL | draftkings | 1.90 | 1.29 | 77.2% | 49.3% | 56.3% | +7.0% | +46.8% | 1.9% |
 | Kobe Sanders PR under 15.5 | LAL @ LAC | draftkings | 1.97 | 1.35 | 74.3% | 47.4% | 54.1% | +6.7% | +46.5% | 1.7% |
+| Paul Reed REB under 8.5 | CHA @ DET | draftkings | 2.02 | 1.40 | 71.6% | 46.3% | 52.6% | +6.3% | +44.7% | 1.5% |
+| Trae Young PTS under 20.5 | WAS @ CLE | draftkings | 1.90 | 1.32 | 75.7% | 49.2% | 55.8% | +6.1% | +43.9% | 1.7% |
 | Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.30 | 1.60 | 62.6% | 40.6% | 46.1% | +6.1% | +43.9% | 1.2% |
-| Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.07 | 1.45 | 68.8% | 45.1% | 51.1% | +5.7% | +42.4% | 1.3% |
-| Aaron Wiggins PR under 16.5 | MIA @ ATL | draftkings | 1.80 | 1.27 | 78.9% | 51.9% | 58.7% | +5.6% | +42.0% | 1.8% |
-| Paul Reed REB under 9.5 | CHA @ DET | draftkings | 1.71 | 1.22 | 82.3% | 54.5% | 61.5% | +5.4% | +41.0% | 1.9% |
-| Dennis Schroder RA under 8.5 | CHA @ DET | draftkings | 1.99 | 1.42 | 70.6% | 47.1% | 52.9% | +5.4% | +40.5% | 1.4% |
-| Kobe Sanders PTS under 12.5 | LAL @ LAC | draftkings | 1.91 | 1.36 | 73.7% | 48.9% | 55.1% | +5.3% | +40.7% | 1.5% |
+| Trae Young PR under 23.5 | WAS @ CLE | draftkings | 1.86 | 1.30 | 77.2% | 50.2% | 56.9% | +6.0% | +43.7% | 1.8% |
+| DeMar DeRozan AST over 3.5 | DEN @ NOP | draftkings | 2.56 | 1.79 | 55.8% | 36.5% | 41.3% | +5.8% | +42.9% | 0.9% |
+| Trae Young AST under 10.5 | WAS @ CLE | draftkings | 1.72 | 1.21 | 82.6% | 54.4% | 61.4% | +5.6% | +42.1% | 1.9% |
+| Kobe Sanders PTS under 12.5 | LAL @ LAC | draftkings | 1.92 | 1.36 | 73.7% | 48.7% | 55.0% | +5.4% | +41.3% | 1.5% |
+| Trae Young 3PM under 2.5 | WAS @ CLE | draftkings | 1.91 | 1.35 | 74.0% | 48.9% | 55.2% | +5.4% | +41.3% | 1.5% |
+| Aaron Wiggins PR under 16.5 | MIA @ ATL | draftkings | 1.79 | 1.27 | 78.9% | 52.3% | 58.9% | +5.3% | +41.0% | 1.7% |
+| Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.04 | 1.45 | 68.8% | 45.8% | 51.6% | +5.2% | +40.3% | 1.2% |
 | Tyler Herro PR under 25.5 | HOU @ MIL | draftkings | 1.93 | 1.38 | 72.2% | 48.3% | 54.3% | +5.0% | +39.8% | 1.4% |
+| Dennis Schroder RA under 8.5 | CHA @ DET | draftkings | 1.96 | 1.41 | 70.9% | 47.8% | 53.5% | +5.0% | +39.1% | 1.3% |
 
 ## Projections
 
@@ -78,7 +86,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| MIA @ ATL | Thu 29 Oct 10:00 | 117.7–122.6 | MIA 37% | 2.73 / 1.58 | ATL -4.5 | 240.5 | ATL -2.5 covers 57%; o241.5 47% |
+| MIA @ ATL | Thu 29 Oct 10:00 | 117.7–122.6 | MIA 37% | 2.73 / 1.58 | ATL -4.5 | 240.5 | ATL -1.5 covers 60%; o241.5 47% |
 | WAS @ CLE | Thu 29 Oct 10:00 | 110.7–123.4 | WAS 18% | 5.45 / 1.22 | CLE -12.5 | 233.5 | CLE -10.5 covers 56%; o239.5 38% |
 | CHA @ DET | Thu 29 Oct 10:00 | 107.6–110.0 | CHA 43% | 2.32 / 1.76 | DET -2.5 | 217.5 | DET -7.5 covers 36%; o213.5 59% |
 | PHI @ IND | Thu 29 Oct 10:00 | 117.8–113.2 | PHI 63% | 1.60 / 2.67 | IND +4.5 | 230.5 | IND +5.5 covers 53%; o236.5 38% |
@@ -96,8 +104,8 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 117.7–122.6 | MIA 37% | 2.73 / 1.58 | ATL -4.5 | 240.5 | ATL -2.5 covers 57%; o241.5 47% |
-| Expected (weighted by chance each plays) | 118.2–122.9 | MIA 35% | 2.82 / 1.55 | ATL -4.5 | 240.5 | ATL -2.5 covers 58%; o241.5 47% |
+| Confirmed players only | 117.7–122.6 | MIA 37% | 2.73 / 1.58 | ATL -4.5 | 240.5 | ATL -1.5 covers 60%; o241.5 47% |
+| Expected (weighted by chance each plays) | 118.2–122.9 | MIA 35% | 2.82 / 1.55 | ATL -4.5 | 240.5 | ATL -1.5 covers 61%; o241.5 47% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -154,36 +162,25 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 ### WAS @ CLE
 Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS)
 
-| Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
-|---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.7–123.4 | WAS 18% | 5.45 / 1.22 | CLE -12.5 | 233.5 | CLE -10.5 covers 56%; o239.5 38% |
-| Expected (weighted by chance each plays) | 110.8–123.5 | WAS 18% | 5.41 / 1.23 | CLE -12.5 | 233.5 | CLE -10.5 covers 56%; o239.5 38% |
-| if AJ Dybantsa plays | 110.7–123.4 | WAS 18% | 5.45 / 1.22 | CLE -12.5 | 233.5 | CLE -10.5 covers 56%; o239.5 38% |
-
-**Questionable players: chance to play, and their projection if they do**
-
-| Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| AJ Dybantsa (WAS) | Questionable | 55% | 28.5 | 12.0 | 5.2 | 2.6 | 1.1 | 0.9 | 0.6 | 1.4 | 19.7 | full tables below |
-
 <details><summary>WAS players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Anthony Davis | 99% | 33.7 | 21.3 | 11.1 | 2.9 | 0.8 | 1.2 | 1.5 | 2.2 | 35.3 |
-| Trae Young | 99% | 33.1 | 18.2 | 2.7 | 8.5 | 2.0 | 1.1 | 0.1 | 3.7 | 29.4 |
-| Kyshawn George | 99% | 29.3 | 14.2 | 4.8 | 3.3 | 1.5 | 1.1 | 0.8 | 2.7 | 22.4 |
-| Bilal Coulibaly | 99% | 27.4 | 10.8 | 4.2 | 2.1 | 1.0 | 1.2 | 0.6 | 1.5 | 17.0 |
-| Alex Sarr | 95% | 26.1 | 11.9 | 6.7 | 2.1 | 0.9 | 0.8 | 1.4 | 1.4 | 20.7 |
-| Bub Carrington | 99% | 22.8 | 8.0 | 2.4 | 3.4 | 1.3 | 0.6 | 0.2 | 1.7 | 13.8 |
-| Tre Johnson | 81% | 22.3 | 8.4 | 2.3 | 1.3 | 1.1 | 0.7 | 0.2 | 1.2 | 12.0 |
-| Deandre Ayton | 99% | 15.7 | 5.7 | 5.2 | 0.6 | 0.0 | 0.4 | 0.5 | 0.8 | 11.5 |
-| Khris Middleton | 87% | 15.0 | 5.4 | 2.3 | 1.3 | 0.5 | 0.6 | 0.1 | 1.0 | 9.1 |
-| Will Riley | 93% | 11.0 | 5.0 | 1.4 | 0.9 | 0.4 | 0.4 | 0.1 | 0.7 | 7.3 |
-| Anthony Gill | 64% | 9.8 | 3.0 | 1.6 | 0.6 | 0.1 | 0.3 | 0.2 | 0.4 | 5.2 |
-| Reece Beekman | 27% | 7.9 | 1.7 | 0.9 | 0.3 | 0.0 | 0.2 | 0.2 | 0.3 | 2.9 |
-| Felix Okpara | 42% | 7.4 | 4.3 | 1.1 | 0.3 | 0.0 | 0.3 | 0.2 | 0.5 | 5.8 |
-| Tre Mann | 52% | 6.6 | 3.0 | 0.9 | 0.7 | 0.2 | 0.3 | 0.1 | 0.4 | 4.6 |
+| Anthony Davis | 99% | 29.8 | 19.1 | 9.8 | 2.5 | 0.7 | 1.1 | 1.3 | 1.9 | 31.4 |
+| Trae Young | 99% | 29.3 | 16.2 | 2.4 | 7.5 | 1.8 | 0.9 | 0.1 | 3.3 | 26.1 |
+| AJ Dybantsa | 97% | 28.5 | 11.9 | 5.2 | 2.6 | 1.1 | 0.8 | 0.6 | 1.4 | 19.7 |
+| Kyshawn George | 99% | 25.8 | 12.6 | 4.3 | 2.9 | 1.4 | 1.0 | 0.7 | 2.4 | 19.8 |
+| Bilal Coulibaly | 99% | 24.2 | 9.6 | 3.7 | 1.9 | 0.8 | 1.1 | 0.6 | 1.3 | 15.2 |
+| Alex Sarr | 95% | 23.0 | 10.7 | 5.9 | 1.9 | 0.8 | 0.7 | 1.2 | 1.3 | 18.4 |
+| Bub Carrington | 99% | 20.1 | 7.2 | 2.1 | 3.0 | 1.1 | 0.6 | 0.2 | 1.5 | 12.4 |
+| Tre Johnson | 81% | 19.8 | 7.5 | 2.0 | 1.1 | 0.9 | 0.6 | 0.2 | 1.1 | 10.6 |
+| Deandre Ayton | 99% | 13.9 | 5.1 | 4.7 | 0.5 | 0.0 | 0.3 | 0.5 | 0.7 | 10.3 |
+| Khris Middleton | 87% | 13.4 | 4.9 | 2.1 | 1.2 | 0.5 | 0.5 | 0.1 | 0.9 | 8.2 |
+| Will Riley | 93% | 9.5 | 4.4 | 1.2 | 0.8 | 0.3 | 0.4 | 0.1 | 0.6 | 6.3 |
+| Anthony Gill | 64% | 8.9 | 2.8 | 1.4 | 0.5 | 0.1 | 0.3 | 0.2 | 0.4 | 4.7 |
+| Reece Beekman | 27% | 7.3 | 1.6 | 0.8 | 0.3 | 0.0 | 0.2 | 0.2 | 0.3 | 2.6 |
+| Felix Okpara | 42% | 7.0 | 4.2 | 1.1 | 0.3 | 0.0 | 0.2 | 0.2 | 0.4 | 5.6 |
+| Tre Mann | 52% | 6.3 | 3.0 | 0.8 | 0.7 | 0.2 | 0.3 | 0.1 | 0.4 | 4.5 |
 
 </details>
 
@@ -208,74 +205,27 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS)
 
 </details>
 
-<details><summary>if AJ Dybantsa plays: both teams</summary>
-
-| Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| James Harden (CLE) | 99% | 34.1 | 18.8 | 5.0 | 6.6 | 2.6 | 1.5 | 0.5 | 3.4 | 30.4 |
-| Donovan Mitchell (CLE) | 99% | 33.8 | 24.7 | 5.2 | 4.3 | 2.8 | 1.6 | 0.4 | 2.6 | 34.2 |
-| Evan Mobley (CLE) | 99% | 33.1 | 17.1 | 10.3 | 3.8 | 1.2 | 1.0 | 1.9 | 2.0 | 31.2 |
-| Peyton Watson (CLE) | 99% | 30.5 | 13.6 | 5.1 | 2.4 | 1.4 | 1.1 | 1.3 | 2.0 | 21.1 |
-| Jarrett Allen (CLE) | 99% | 28.8 | 14.7 | 9.4 | 1.6 | 0.0 | 1.2 | 1.4 | 1.5 | 25.7 |
-| Sam Merrill (CLE) | 99% | 23.7 | 9.8 | 2.4 | 2.2 | 1.9 | 0.8 | 0.1 | 0.7 | 14.4 |
-| Jaylon Tyson (CLE) | 95% | 19.2 | 9.1 | 3.9 | 2.3 | 1.2 | 0.6 | 0.2 | 1.1 | 15.3 |
-| Meleek Thomas (CLE) | 52% | 17.5 | 8.4 | 2.1 | 1.2 | 1.2 | 0.8 | 0.2 | 1.4 | 11.7 |
-| Mario Hezonja (CLE) | 84% | 16.5 | 6.3 | 3.5 | 1.3 | 0.7 | 0.7 | 0.3 | 0.9 | 11.1 |
-| Thomas Bryant (CLE) | 52% | 8.6 | 4.4 | 2.6 | 0.5 | 0.4 | 0.2 | 0.3 | 0.4 | 7.5 |
-| Craig Porter Jr. (CLE) | 56% | 8.5 | 2.1 | 1.7 | 1.7 | 0.1 | 0.5 | 0.2 | 0.6 | 5.5 |
-| Tyrese Proctor (CLE) | 49% | 8.1 | 3.8 | 1.1 | 1.4 | 0.4 | 0.5 | 0.1 | 0.6 | 6.4 |
-| Riley Minix (CLE) | 41% | 5.8 | 2.2 | 0.8 | 0.5 | 0.2 | 0.2 | 0.1 | 0.3 | 3.5 |
-| Tristan Enaruna (CLE) | 42% | 5.6 | 1.8 | 0.9 | 0.4 | 0.1 | 0.2 | 0.1 | 0.3 | 3.2 |
-| Anthony Davis (WAS) | 99% | 29.7 | 19.0 | 9.7 | 2.5 | 0.7 | 1.1 | 1.3 | 1.9 | 31.2 |
-| Trae Young (WAS) | 99% | 29.2 | 16.1 | 2.3 | 7.5 | 1.8 | 0.9 | 0.1 | 3.3 | 25.9 |
-| AJ Dybantsa (WAS) | 100% | 28.5 | 12.0 | 5.2 | 2.6 | 1.1 | 0.9 | 0.6 | 1.4 | 19.7 |
-| Kyshawn George (WAS) | 99% | 25.7 | 12.6 | 4.3 | 2.9 | 1.3 | 1.0 | 0.7 | 2.4 | 19.7 |
-| Bilal Coulibaly (WAS) | 99% | 24.1 | 9.6 | 3.7 | 1.9 | 0.8 | 1.1 | 0.6 | 1.3 | 15.1 |
-| Alex Sarr (WAS) | 95% | 22.9 | 10.6 | 5.8 | 1.9 | 0.8 | 0.7 | 1.2 | 1.3 | 18.3 |
-| Bub Carrington (WAS) | 99% | 20.1 | 7.2 | 2.1 | 3.0 | 1.1 | 0.6 | 0.2 | 1.5 | 12.3 |
-| Tre Johnson (WAS) | 81% | 19.7 | 7.6 | 2.0 | 1.1 | 1.0 | 0.6 | 0.2 | 1.1 | 10.7 |
-| Deandre Ayton (WAS) | 99% | 13.9 | 5.1 | 4.7 | 0.5 | 0.0 | 0.3 | 0.5 | 0.7 | 10.3 |
-| Khris Middleton (WAS) | 87% | 13.3 | 4.9 | 2.1 | 1.2 | 0.4 | 0.5 | 0.1 | 0.9 | 8.2 |
-| Will Riley (WAS) | 93% | 9.5 | 4.4 | 1.2 | 0.8 | 0.3 | 0.4 | 0.1 | 0.6 | 6.3 |
-| Anthony Gill (WAS) | 64% | 8.9 | 2.8 | 1.4 | 0.5 | 0.1 | 0.3 | 0.2 | 0.4 | 4.7 |
-| Reece Beekman (WAS) | 27% | 7.3 | 1.6 | 0.8 | 0.3 | 0.0 | 0.2 | 0.2 | 0.3 | 2.6 |
-| Felix Okpara (WAS) | 42% | 7.0 | 4.2 | 1.1 | 0.3 | 0.0 | 0.2 | 0.2 | 0.4 | 5.5 |
-| Tre Mann (WAS) | 52% | 6.3 | 3.0 | 0.8 | 0.7 | 0.2 | 0.3 | 0.1 | 0.4 | 4.5 |
-
-</details>
-
 
 ### CHA @ DET
-Out: Jalen Duren (DET), Kon Knueppel (CHA), Coby White (CHA), Grant Williams (CHA)
-
-| Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
-|---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 107.6–110.0 | CHA 43% | 2.32 / 1.76 | DET -2.5 | 217.5 | DET -7.5 covers 36%; o213.5 59% |
-| Expected (weighted by chance each plays) | 107.8–110.3 | CHA 43% | 2.34 / 1.74 | DET -2.5 | 217.5 | DET -7.5 covers 36%; o213.5 59% |
-
-**Questionable players: chance to play, and their projection if they do**
-
-| Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Isaiah Joe (DET) | Day-To-Day | 70% | 11.5 | 5.3 | 1.4 | 0.8 | 0.7 | 0.4 | 0.1 | 0.4 | 7.4 | small |
+Out: Jalen Duren (DET), Isaiah Joe (DET), Kon Knueppel (CHA), Coby White (CHA), Grant Williams (CHA)
 
 <details><summary>CHA players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Brandon Miller | 99% | 32.3 | 23.5 | 4.8 | 2.9 | 3.0 | 1.1 | 0.7 | 3.0 | 31.1 |
-| Naz Reid | 99% | 30.5 | 16.2 | 6.9 | 2.1 | 2.1 | 0.9 | 1.1 | 2.4 | 25.2 |
-| Dennis Schroder | 99% | 29.5 | 12.8 | 2.9 | 4.1 | 1.2 | 0.9 | 0.2 | 2.4 | 19.8 |
+| Brandon Miller | 99% | 32.3 | 23.6 | 4.8 | 2.9 | 3.0 | 1.1 | 0.7 | 3.0 | 31.3 |
+| Naz Reid | 99% | 30.4 | 16.2 | 6.9 | 2.1 | 2.1 | 0.9 | 1.1 | 2.4 | 25.2 |
+| Dennis Schroder | 99% | 29.5 | 12.8 | 2.9 | 4.2 | 1.2 | 0.9 | 0.2 | 2.4 | 19.8 |
 | Moussa Diabate | 99% | 28.7 | 8.7 | 8.3 | 2.1 | 0.1 | 1.1 | 1.1 | 1.5 | 19.1 |
-| Grayson Allen | 92% | 27.1 | 15.5 | 2.7 | 2.8 | 2.4 | 1.0 | 0.3 | 2.0 | 21.0 |
+| Grayson Allen | 92% | 27.0 | 15.5 | 2.8 | 2.8 | 2.4 | 1.0 | 0.3 | 2.0 | 21.1 |
 | Sion James | 99% | 24.4 | 7.1 | 3.5 | 2.2 | 1.1 | 0.8 | 0.2 | 1.0 | 12.8 |
-| Ryan Kalkbrenner | 99% | 17.8 | 6.0 | 4.3 | 0.9 | 0.0 | 0.4 | 1.3 | 0.9 | 11.1 |
-| Tidjane Salaun | 81% | 17.0 | 6.1 | 3.8 | 0.8 | 0.7 | 0.5 | 0.2 | 0.8 | 10.6 |
-| Royce O'Neale | 99% | 14.3 | 4.5 | 2.4 | 1.0 | 0.7 | 0.5 | 0.3 | 0.6 | 7.9 |
-| Christian Anderson | 92% | 12.3 | 4.5 | 1.7 | 1.2 | 0.5 | 0.5 | 0.2 | 0.9 | 7.5 |
-| Hannes Steinbach | 42% | 9.9 | 4.3 | 2.7 | 0.3 | 0.0 | 0.2 | 0.2 | 0.6 | 7.2 |
+| Ryan Kalkbrenner | 99% | 17.9 | 5.9 | 4.3 | 0.9 | 0.0 | 0.4 | 1.3 | 0.9 | 11.1 |
+| Tidjane Salaun | 81% | 17.0 | 6.1 | 3.8 | 0.8 | 0.7 | 0.5 | 0.2 | 0.8 | 10.7 |
+| Royce O'Neale | 99% | 14.4 | 4.5 | 2.4 | 1.0 | 0.7 | 0.5 | 0.3 | 0.6 | 8.0 |
+| Christian Anderson | 92% | 12.4 | 4.5 | 1.8 | 1.2 | 0.5 | 0.5 | 0.2 | 0.9 | 7.5 |
+| Hannes Steinbach | 42% | 9.9 | 4.3 | 2.6 | 0.3 | 0.0 | 0.2 | 0.2 | 0.6 | 7.2 |
 | PJ Hall | 61% | 8.7 | 3.2 | 2.6 | 0.5 | 0.1 | 0.2 | 0.5 | 0.7 | 6.3 |
-| Liam McNeeley | 68% | 8.3 | 3.2 | 1.5 | 0.5 | 0.2 | 0.2 | 0.1 | 0.5 | 5.2 |
+| Liam McNeeley | 68% | 8.3 | 3.2 | 1.6 | 0.5 | 0.2 | 0.2 | 0.1 | 0.4 | 5.2 |
 
 </details>
 
@@ -283,22 +233,21 @@ Out: Jalen Duren (DET), Kon Knueppel (CHA), Coby White (CHA), Grant Williams (CH
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Cade Cunningham | 99% | 35.7 | 24.1 | 5.4 | 8.4 | 2.1 | 1.3 | 0.8 | 4.2 | 37.9 |
-| Duncan Robinson | 99% | 30.9 | 14.2 | 2.6 | 2.3 | 2.6 | 0.8 | 0.2 | 1.1 | 19.2 |
-| John Collins | 99% | 28.9 | 13.6 | 6.3 | 1.2 | 1.4 | 0.8 | 0.8 | 1.5 | 21.1 |
-| Ausar Thompson | 99% | 28.1 | 9.3 | 6.5 | 3.5 | 0.2 | 2.0 | 1.1 | 1.8 | 19.3 |
-| Daniss Jenkins | 99% | 26.3 | 11.2 | 3.4 | 4.1 | 1.2 | 0.9 | 0.3 | 1.7 | 18.8 |
-| Paul Reed | 87% | 23.1 | 13.2 | 6.8 | 1.8 | 0.5 | 1.1 | 1.3 | 1.6 | 21.7 |
-| Kevin Huerter | 84% | 19.9 | 7.7 | 2.8 | 2.1 | 1.0 | 0.8 | 0.3 | 0.8 | 12.6 |
-| Javonte Green | 84% | 17.7 | 6.3 | 2.8 | 0.7 | 1.0 | 1.0 | 0.4 | 0.5 | 9.8 |
-| Ronald Holland II | 92% | 15.2 | 5.9 | 3.2 | 1.1 | 0.5 | 0.7 | 0.4 | 0.8 | 10.2 |
-| Taurean Prince | 81% | 13.4 | 5.0 | 1.7 | 0.9 | 0.8 | 0.4 | 0.1 | 0.5 | 7.7 |
-| Ugonna Onyenso | 40% | 8.8 | 3.6 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 6.0 |
-| Tolu Smith | 53% | 7.3 | 2.8 | 2.2 | 0.5 | 0.0 | 0.2 | 0.3 | 0.5 | 5.5 |
-| Elijah Harkless | 27% | 7.2 | 1.3 | 0.7 | 0.2 | 0.0 | 0.1 | 0.2 | 0.3 | 2.3 |
-| Isaac Jones | 25% | 6.7 | 1.3 | 1.1 | 0.9 | 0.0 | 0.1 | 0.3 | 0.3 | 3.2 |
-| Ebuka Okorie | 61% | 6.6 | 2.0 | 0.8 | 0.9 | 0.0 | 0.2 | 0.2 | 0.5 | 3.7 |
-| Chaz Lanier | 44% | 6.1 | 2.4 | 0.6 | 0.4 | 0.2 | 0.2 | 0.0 | 0.2 | 3.4 |
+| Cade Cunningham | 99% | 36.6 | 24.5 | 5.5 | 8.6 | 2.2 | 1.3 | 0.8 | 4.3 | 38.7 |
+| Duncan Robinson | 99% | 31.6 | 14.5 | 2.6 | 2.4 | 2.7 | 0.8 | 0.2 | 1.1 | 19.5 |
+| John Collins | 99% | 29.6 | 13.8 | 6.5 | 1.2 | 1.4 | 0.9 | 0.9 | 1.5 | 21.5 |
+| Ausar Thompson | 93% | 28.5 | 9.3 | 6.6 | 3.6 | 0.2 | 2.0 | 1.1 | 1.8 | 19.6 |
+| Daniss Jenkins | 99% | 26.9 | 11.5 | 3.5 | 4.2 | 1.3 | 0.9 | 0.3 | 1.8 | 19.2 |
+| Paul Reed | 87% | 23.6 | 13.4 | 6.9 | 1.9 | 0.5 | 1.1 | 1.4 | 1.6 | 22.1 |
+| Kevin Huerter | 84% | 20.4 | 7.9 | 2.8 | 2.1 | 1.1 | 0.8 | 0.3 | 0.8 | 12.8 |
+| Javonte Green | 84% | 18.2 | 6.5 | 2.9 | 0.7 | 1.0 | 1.1 | 0.4 | 0.6 | 10.1 |
+| Ronald Holland II | 92% | 15.6 | 6.0 | 3.2 | 1.1 | 0.5 | 0.7 | 0.4 | 0.8 | 10.3 |
+| Taurean Prince | 81% | 13.7 | 5.2 | 1.7 | 0.9 | 0.8 | 0.4 | 0.1 | 0.6 | 7.8 |
+| Elijah Harkless | 27% | 7.4 | 1.4 | 0.8 | 0.2 | 0.0 | 0.1 | 0.2 | 0.2 | 2.4 |
+| Tolu Smith | 53% | 7.4 | 2.9 | 2.2 | 0.5 | 0.0 | 0.2 | 0.3 | 0.5 | 5.6 |
+| Isaac Jones | 25% | 6.9 | 1.3 | 1.1 | 0.9 | 0.0 | 0.1 | 0.3 | 0.3 | 3.3 |
+| Ebuka Okorie | 61% | 6.7 | 2.0 | 0.7 | 1.0 | 0.0 | 0.2 | 0.1 | 0.6 | 3.7 |
+| Chaz Lanier | 44% | 6.2 | 2.4 | 0.6 | 0.4 | 0.2 | 0.1 | 0.1 | 0.1 | 3.4 |
 
 </details>
 

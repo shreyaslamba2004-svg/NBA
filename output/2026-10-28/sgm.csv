@@ -1,17 +1,12 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift
-WAS @ CLE,Trae Young pra under 33.5 + CLE win,2,0.6328,0.4347,2.3,2.42,2.44,0.0624,1.021
-WAS @ CLE,Trae Young pa under 31.5 + CLE win,2,0.6507,0.4528,2.21,2.32,2.33,0.0548,1.02
-WAS @ CLE,Trae Young ra under 12.5 + CLE win,2,0.5957,0.4245,2.36,2.47,2.45,0.042,1.017
-WAS @ CLE,Trae Young pts under 20.5 + CLE win,2,0.5926,0.4272,2.34,2.46,2.43,0.0395,1.023
-WAS @ CLE,Trae Young pr under 23.5 + CLE win,2,0.6016,0.4348,2.3,2.41,2.38,0.0364,1.021
-WAS @ CLE,Trae Young ast under 10.5 + CLE win,2,0.65,0.4687,2.13,2.24,2.2,0.0316,1.015
-WAS @ CLE,Trae Young fg3m under 2.5 + CLE win,2,0.5852,0.4217,2.37,2.49,2.44,0.0306,1.014
-OKC @ DAL,Shai Gilgeous-Alexander ra over 10.5 + Isaiah Hartenstein pa over 9.5,2,0.5796,0.4122,2.43,2.55,2.45,0.011,1.017
-OKC @ DAL,Shai Gilgeous-Alexander ra over 10.5 + Isaiah Hartenstein pr over 14.5,2,0.6012,0.427,2.34,2.46,2.35,0.0048,1.01
-OKC @ DAL,Shai Gilgeous-Alexander ast over 5.5 + OKC win,2,0.546,0.4252,2.35,2.47,2.36,0.0026,1.018
-OKC @ DAL,Isaiah Hartenstein pr over 19.5 + Shai Gilgeous-Alexander ast over 4.5,2,0.5663,0.4064,2.46,2.58,2.46,0.0019,1.013
-OKC @ DAL,Shai Gilgeous-Alexander ast over 5.5 + Isaiah Hartenstein pts over 7.5,2,0.5957,0.4308,2.32,2.44,2.33,0.0018,1.015
-LAL @ LAC,Luka Doncic pts under 32.5 + Brook Lopez pts over 7.5,2,0.6086,0.4235,2.36,2.48,2.38,0.0058,1.0
-LAL @ LAC,Luka Doncic pa under 40.5 + Brook Lopez pts over 7.5,2,0.6004,0.4185,2.39,2.51,2.4,0.0029,0.998
-LAL @ LAC,Luka Doncic pr under 40.5 + Brook Lopez pts over 7.5,2,0.624,0.4361,2.29,2.41,2.3,0.0019,0.998
-LAL @ LAC,Luka Doncic pra under 48.5 + Brook Lopez pts over 7.5,2,0.6142,0.4301,2.32,2.44,2.33,0.0001,0.998
+CHA @ DET,Naz Reid pra under 29.5 + DET win,2,0.4284,0.4244,2.36,2.47,2.48,0.0505,1.048
+CHA @ DET,Naz Reid pts under 18.5 + DET win,2,0.4032,0.4157,2.41,2.53,2.49,0.0365,1.053
+CHA @ DET,Moussa Diabate pr under 18.5 + DET win,2,0.3764,0.4076,2.45,2.58,2.47,0.0055,1.043
+OKC @ DAL,Shai Gilgeous-Alexander ra over 10.5 + Isaiah Hartenstein pa over 9.5,2,0.5796,0.4169,2.4,2.52,2.42,0.0085,1.017
+OKC @ DAL,Isaiah Hartenstein pr over 19.5 + Shai Gilgeous-Alexander ast over 4.5,2,0.5663,0.409,2.44,2.57,2.45,0.0032,1.013
+OKC @ DAL,Shai Gilgeous-Alexander ra over 10.5 + Isaiah Hartenstein pr over 14.5,2,0.6012,0.4329,2.31,2.43,2.31,0.0014,1.01
+OKC @ DAL,Shai Gilgeous-Alexander ast over 5.5 + OKC win,2,0.546,0.4245,2.36,2.47,2.36,0.001,1.018
+LAL @ LAC,Luka Doncic pts under 32.5 + Brook Lopez pts over 7.5,2,0.6086,0.4224,2.37,2.49,2.38,0.0069,1.0
+LAL @ LAC,Luka Doncic pa under 40.5 + Brook Lopez pts over 7.5,2,0.6004,0.4174,2.4,2.52,2.41,0.004,0.998
+LAL @ LAC,Luka Doncic pr under 40.5 + Brook Lopez pts over 7.5,2,0.624,0.4349,2.3,2.41,2.31,0.003,0.998
+LAL @ LAC,Luka Doncic pra under 48.5 + Brook Lopez pts over 7.5,2,0.6142,0.429,2.33,2.45,2.33,0.0012,0.998
