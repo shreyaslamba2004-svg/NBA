@@ -7,6 +7,7 @@ Usage: rep_check.py [group] [groups to keep off in both runs...]  (default group
 """
 from __future__ import annotations
 
+import os
 import sys
 from pathlib import Path
 
@@ -18,13 +19,18 @@ sys.path.insert(0, str(ROOT))
 import nbamodel.dataset as D  # noqa: E402
 from nbamodel.models import predict_minutes, predict_rates, train  # noqa: E402
 from scripts.ablation import THRU, TEST  # noqa: E402
+
+THRU = os.environ.get("REP_THRU", THRU)  # e.g. 2024-25 for features that only exist in recent seasons
 from scripts.train_backtest import team_normalise  # noqa: E402
 
 STATS = ["pts", "reb", "ast", "fg3m"]
 
 
+LAST = {}
+
+
 def project(P, G) -> pd.DataFrame:
-    b = train(P, G, THRU, None)
+    b = LAST["bundle"] = train(P, G, THRU, None)
     t = P[(P["season"] == TEST) & (P["min"] > 0) & (P["gp"] >= 3)].copy()
     t["pmin_raw"] = predict_minutes(b, t)
     t["pmin"] = team_normalise(t, "pmin_raw")
