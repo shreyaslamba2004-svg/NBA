@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 08:43 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 08:48 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -14,9 +14,9 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| PHI win **+** Jaylen Brown 12+ pts | PHI @ IND | 61.3% | 1.63 | 1.71 | 1.55 | -5.3% |
+| PHI win **+** Jaylen Brown 12+ pts | PHI @ IND | 61.2% | 1.63 | 1.72 | 1.55 | -5.4% |
 | CLE win **+** AJ Dybantsa 3+ reb | WAS @ CLE | 59.2% | 1.69 | 1.77 | 1.59 | -6.0% |
-| Gui Santos 3pm under 1.5 **+** Jaden McDaniels 8+ pts | GSW @ MIN | 57.0% | 1.76 | 1.84 | 1.64 | -6.5% |
+| PHI win **+** Tyrese Maxey 3+ ast | PHI @ IND | 60.7% | 1.65 | 1.73 | 1.55 | -6.1% |
 
 **Price 1.65-1.85**
 
@@ -88,7 +88,7 @@ Game lines below assume every questionable player sits; each game's section show
 | MIA @ ATL | Thu 29 Oct 10:00 | 117.6–122.0 | MIA 38% | 2.66 / 1.60 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o242.5 44% |
 | WAS @ CLE | Thu 29 Oct 10:00 | 110.6–122.5 | WAS 20% | 5.00 / 1.25 | CLE -11.5 | 232.5 | CLE -9.5 covers 57%; o240.5 34% |
 | CHA @ DET | Thu 29 Oct 10:00 | 107.9–109.6 | CHA 45% | 2.23 / 1.81 | DET -2.5 | 217.5 | DET -7.5 covers 34%; o212.5 60% |
-| PHI @ IND | Thu 29 Oct 10:00 | 118.0–112.7 | PHI 64% | 1.55 / 2.80 | IND +5.5 | 230.5 | IND +7.5 covers 56%; o234.5 42% |
+| PHI @ IND | Thu 29 Oct 10:00 | 118.1–112.9 | PHI 64% | 1.56 / 2.79 | IND +5.5 | 230.5 | IND +7.5 covers 57%; o234.5 42% |
 | ORL @ TOR | Thu 29 Oct 10:30 | 108.2–113.9 | ORL 34% | 2.94 / 1.52 | TOR -5.5 | 221.5 | TOR -4.5 covers 54%; o223.5 47% |
 | NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +7.5 covers 46%; o232.5 45% |
 | HOU @ MIL | Thu 29 Oct 11:00 | 114.8–110.6 | HOU 62% | 1.62 / 2.61 | MIL +4.5 | 225.5 | MIL +8.5 covers 62%; o226.5 47% |
@@ -107,7 +107,6 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Giannis Antetokounmpo RA under 17.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.8% | 49.9% | 53.4% | +0.2% | +19.8% | 0.1% |
 | Bobby Portis 3PM under 1.5 | MIA @ ATL | draftkings | 2.02 | 1.68 | 59.4% | 46.3% | 49.5% | +0.1% | +20.0% | 0.0% |
-| Davion Mitchell PTS under 12.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.6% | 49.6% | 53.1% | +0.1% | +20.0% | 0.0% |
 
 **Best multis (one per price band)**
 
@@ -246,8 +245,8 @@ Out: Jalen Duren (DET), Isaiah Joe (DET), Kon Knueppel (CHA), Coby White (CHA), 
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Naz Reid REB under 7.5 | CHA @ DET | draftkings | 2.04 | 1.66 | 60.1% | 45.8% | 49.4% | +0.7% | +22.6% | 0.2% |
 | John Collins PR under 21.5 | CHA @ DET | draftkings | 1.93 | 1.60 | 62.6% | 48.5% | 52.0% | +0.2% | +20.5% | 0.1% |
-| Naz Reid REB under 7.5 | CHA @ DET | draftkings | 2.00 | 1.66 | 60.1% | 46.7% | 50.1% | +0.1% | +20.2% | 0.0% |
 
 **Best multis (one per price band)**
 
@@ -307,48 +306,48 @@ Out: Johnny Furphy (IND), T.J. McConnell (IND), Ben Sheppard (IND), Ivica Zubac 
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Anfernee Simons 3PM under 1.5 | PHI @ IND | draftkings | 2.04 | 1.65 | 60.6% | 45.8% | 49.5% | +1.0% | +23.6% | 0.2% |
+| Anfernee Simons 3PM under 1.5 | PHI @ IND | draftkings | 2.04 | 1.66 | 60.4% | 45.8% | 49.5% | +0.9% | +23.2% | 0.2% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| PHI win **+** Jaylen Brown 12+ pts | 61.3% | 1.63 | 1.71 | 1.55 | -5.3% |
-| PHI win **+** Joel Embiid 3+ ast | 54.2% | 1.84 | 1.94 | 1.75 | -5.0% |
-| Tyrese Maxey pts under 24.5 **+** LeBron James 3+ reb | 48.2% | 2.08 | 2.18 | 1.99 | -4.1% |
-| PHI win **+** Kelly Oubre Jr. pr under 15.5 | 39.4% | 2.54 | 2.67 | 2.50 | -1.6% |
+| PHI win **+** Jaylen Brown 12+ pts | 61.2% | 1.63 | 1.72 | 1.55 | -5.4% |
+| PHI win **+** Joel Embiid 3+ ast | 54.4% | 1.84 | 1.93 | 1.75 | -4.8% |
+| Tyrese Maxey pts under 24.5 **+** LeBron James 3+ reb | 48.0% | 2.08 | 2.19 | 1.99 | -4.5% |
+| PHI win **+** Kelly Oubre Jr. pr under 15.5 | 39.6% | 2.53 | 2.65 | 2.50 | -1.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 118.0–112.7 | PHI 64% | 1.55 / 2.80 | IND +5.5 | 230.5 | IND +7.5 covers 56%; o234.5 42% |
-| Expected (weighted by chance each plays) | 117.2–114.2 | PHI 59% | 1.70 / 2.43 | IND +3.5 | 231.5 | IND +7.5 covers 62%; o234.5 44% |
-| if Tyrese Haliburton plays | 117.5–114.0 | PHI 60% | 1.67 / 2.49 | IND +3.5 | 231.5 | IND +7.5 covers 61%; o234.5 43% |
-| if Andrew Nembhard plays | 117.7–114.1 | PHI 60% | 1.66 / 2.51 | IND +3.5 | 231.5 | IND +7.5 covers 60%; o234.5 44% |
+| Confirmed players only | 118.1–112.9 | PHI 64% | 1.56 / 2.79 | IND +5.5 | 230.5 | IND +7.5 covers 57%; o234.5 42% |
+| Expected (weighted by chance each plays) | 117.3–114.3 | PHI 59% | 1.71 / 2.41 | IND +3.5 | 231.5 | IND +7.5 covers 62%; o234.5 44% |
+| if Tyrese Haliburton plays | 117.5–114.4 | PHI 58% | 1.71 / 2.41 | IND +3.5 | 231.5 | IND +7.5 covers 62%; o234.5 44% |
+| if Aaron Nesmith plays | 117.7–114.1 | PHI 60% | 1.66 / 2.51 | IND +3.5 | 231.5 | IND +7.5 covers 60%; o234.5 44% |
 
 **Questionable players: chance to play, and their projection if they do**
 
 | Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyrese Haliburton (IND) | Questionable | 55% | 38.7 | 20.7 | 5.3 | 10.8 | 3.2 | 1.6 | 0.8 | 2.7 | 36.8 | full tables below |
-| Andrew Nembhard (IND) | Questionable | 55% | 37.4 | 17.8 | 3.5 | 9.1 | 2.0 | 1.2 | 0.2 | 2.8 | 30.4 | full tables below |
+| Tyrese Haliburton (IND) | Questionable | 55% | 38.1 | 21.0 | 5.3 | 9.8 | 3.1 | 1.4 | 0.8 | 2.6 | 36.1 | full tables below |
+| Aaron Nesmith (IND) | Questionable | 55% | 29.7 | 14.2 | 4.1 | 2.0 | 2.1 | 0.7 | 0.6 | 1.5 | 20.3 | full tables below |
 
 <details><summary>PHI players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyrese Maxey | 99% | 34.5 | 21.9 | 3.8 | 5.4 | 2.4 | 1.6 | 0.5 | 2.1 | 31.1 |
-| Jaylen Brown | 99% | 33.5 | 21.1 | 5.8 | 4.3 | 1.7 | 1.3 | 0.5 | 3.1 | 31.2 |
-| LeBron James | 99% | 31.3 | 17.1 | 6.5 | 6.5 | 1.3 | 1.4 | 0.5 | 2.8 | 30.1 |
-| Joel Embiid | 99% | 31.1 | 23.7 | 8.3 | 4.7 | 1.4 | 0.9 | 1.1 | 2.8 | 36.7 |
-| VJ Edgecombe | 85% | 28.6 | 10.8 | 5.4 | 3.3 | 1.4 | 1.2 | 0.4 | 1.2 | 19.6 |
-| Dean Wade | 89% | 24.8 | 4.6 | 4.1 | 1.2 | 0.8 | 0.9 | 0.4 | 0.6 | 9.9 |
-| Kentavious Caldwell-Pope | 99% | 22.2 | 6.9 | 2.5 | 1.8 | 0.8 | 1.0 | 0.3 | 0.8 | 11.2 |
-| Anfernee Simons | 94% | 20.2 | 8.2 | 2.1 | 1.7 | 1.4 | 0.5 | 0.2 | 1.0 | 12.0 |
-| Adem Bona | 94% | 11.8 | 3.2 | 3.3 | 0.5 | 0.0 | 0.3 | 0.7 | 0.6 | 7.0 |
+| Tyrese Maxey | 99% | 34.5 | 21.9 | 3.8 | 5.4 | 2.5 | 1.6 | 0.5 | 2.1 | 31.1 |
+| Jaylen Brown | 99% | 33.6 | 21.1 | 5.8 | 4.3 | 1.7 | 1.3 | 0.5 | 3.1 | 31.3 |
+| LeBron James | 99% | 31.4 | 17.3 | 6.5 | 6.5 | 1.3 | 1.4 | 0.5 | 2.8 | 30.3 |
+| Joel Embiid | 99% | 31.2 | 23.7 | 8.3 | 4.7 | 1.4 | 0.9 | 1.1 | 2.8 | 36.7 |
+| VJ Edgecombe | 85% | 28.6 | 10.9 | 5.4 | 3.3 | 1.4 | 1.2 | 0.4 | 1.2 | 19.6 |
+| Dean Wade | 89% | 24.7 | 4.6 | 4.1 | 1.2 | 0.7 | 0.9 | 0.4 | 0.5 | 9.9 |
+| Kentavious Caldwell-Pope | 99% | 22.1 | 6.9 | 2.5 | 1.8 | 0.8 | 1.0 | 0.3 | 0.8 | 11.2 |
+| Anfernee Simons | 94% | 20.2 | 8.2 | 2.1 | 1.7 | 1.4 | 0.5 | 0.2 | 1.0 | 11.9 |
+| Adem Bona | 94% | 11.7 | 3.2 | 3.3 | 0.5 | 0.0 | 0.3 | 0.7 | 0.6 | 7.1 |
 | Labaron Philon Jr. | 61% | 7.6 | 2.3 | 0.9 | 0.6 | 0.2 | 0.2 | 0.1 | 0.3 | 3.8 |
-| Rayan Rupert | 57% | 6.9 | 2.2 | 1.3 | 0.5 | 0.1 | 0.4 | 0.1 | 0.4 | 4.0 |
-| Justin Edwards | 61% | 6.4 | 2.6 | 0.8 | 0.4 | 0.2 | 0.3 | 0.1 | 0.2 | 3.9 |
-| Caleb Love | 42% | 6.1 | 0.4 | 0.2 | 0.3 | 0.0 | 0.2 | 0.2 | 0.3 | 1.0 |
+| Rayan Rupert | 57% | 6.8 | 2.1 | 1.3 | 0.5 | 0.1 | 0.4 | 0.1 | 0.4 | 3.9 |
+| Justin Edwards | 61% | 6.5 | 2.6 | 0.9 | 0.5 | 0.2 | 0.3 | 0.1 | 0.3 | 4.0 |
+| Caleb Love | 42% | 6.2 | 0.5 | 0.2 | 0.3 | 0.0 | 0.1 | 0.2 | 0.3 | 1.0 |
 
 </details>
 
@@ -356,49 +355,17 @@ Out: Johnny Furphy (IND), T.J. McConnell (IND), Ben Sheppard (IND), Ivica Zubac 
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Pascal Siakam | 99% | 40.0 | 27.5 | 9.1 | 5.8 | 2.0 | 1.2 | 0.5 | 3.3 | 42.4 |
-| Kelly Oubre Jr. | 99% | 32.3 | 12.3 | 5.3 | 2.1 | 1.3 | 1.1 | 0.6 | 1.4 | 19.7 |
-| Aaron Nesmith | 93% | 31.9 | 14.9 | 4.4 | 2.3 | 2.2 | 0.7 | 0.6 | 1.7 | 21.7 |
-| Jarace Walker | 95% | 30.1 | 13.2 | 7.0 | 3.6 | 1.8 | 1.0 | 0.6 | 2.4 | 23.8 |
-| Quenton Jackson | 95% | 28.9 | 12.2 | 3.7 | 4.8 | 1.1 | 1.1 | 0.3 | 1.7 | 20.7 |
-| Obi Toppin | 93% | 27.0 | 15.1 | 6.4 | 2.8 | 2.1 | 0.7 | 0.4 | 1.6 | 24.3 |
-| Jay Huff | 91% | 23.9 | 10.1 | 4.8 | 1.9 | 1.4 | 0.5 | 2.0 | 1.1 | 16.7 |
-| Kobe Brown | 69% | 19.0 | 6.5 | 3.6 | 1.6 | 0.7 | 0.5 | 0.3 | 1.1 | 11.7 |
-| Larry Nance Jr. | 51% | 16.0 | 4.7 | 3.5 | 1.0 | 0.5 | 0.7 | 0.3 | 0.7 | 9.2 |
-| Jalen Slawson | 79% | 14.4 | 4.3 | 3.0 | 1.4 | 0.4 | 0.7 | 0.6 | 0.8 | 8.6 |
-| Braden Smith | 37% | 9.6 | 3.8 | 1.7 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.3 |
-
-</details>
-
-<details><summary>if Andrew Nembhard plays: both teams</summary>
-
-| Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Andrew Nembhard (IND) | 100% | 37.4 | 17.8 | 3.5 | 9.1 | 2.0 | 1.2 | 0.2 | 2.8 | 30.4 |
-| Pascal Siakam (IND) | 99% | 35.6 | 25.1 | 7.9 | 4.7 | 1.8 | 1.0 | 0.5 | 2.7 | 37.6 |
-| Kelly Oubre Jr. (IND) | 99% | 28.0 | 10.2 | 4.5 | 1.7 | 1.1 | 0.9 | 0.5 | 1.2 | 16.4 |
-| Aaron Nesmith (IND) | 93% | 26.7 | 12.4 | 3.6 | 1.8 | 1.9 | 0.6 | 0.5 | 1.3 | 17.8 |
-| Jarace Walker (IND) | 95% | 26.3 | 11.1 | 6.0 | 2.8 | 1.5 | 0.8 | 0.5 | 1.9 | 19.9 |
-| Obi Toppin (IND) | 93% | 24.2 | 13.8 | 5.6 | 2.4 | 1.9 | 0.7 | 0.4 | 1.4 | 21.8 |
-| Quenton Jackson (IND) | 95% | 24.1 | 10.2 | 3.0 | 3.7 | 0.9 | 0.9 | 0.2 | 1.3 | 16.9 |
-| Jay Huff (IND) | 91% | 20.9 | 8.9 | 4.1 | 1.6 | 1.2 | 0.5 | 1.7 | 0.9 | 14.6 |
-| Larry Nance Jr. (IND) | 51% | 12.5 | 3.7 | 2.7 | 0.8 | 0.3 | 0.5 | 0.3 | 0.5 | 7.2 |
-| Kobe Brown (IND) | 69% | 11.6 | 4.0 | 2.2 | 0.9 | 0.4 | 0.3 | 0.2 | 0.7 | 7.1 |
-| Jalen Slawson (IND) | 79% | 11.2 | 3.4 | 2.3 | 1.1 | 0.3 | 0.6 | 0.5 | 0.6 | 6.8 |
-| Braden Smith (IND) | 37% | 9.1 | 3.6 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.0 |
-| Tyrese Maxey (PHI) | 99% | 34.5 | 21.8 | 3.8 | 5.5 | 2.4 | 1.6 | 0.5 | 2.1 | 31.1 |
-| Jaylen Brown (PHI) | 99% | 33.5 | 21.0 | 5.8 | 4.3 | 1.7 | 1.3 | 0.5 | 3.1 | 31.1 |
-| LeBron James (PHI) | 99% | 31.4 | 17.2 | 6.5 | 6.5 | 1.3 | 1.5 | 0.5 | 2.8 | 30.2 |
-| Joel Embiid (PHI) | 99% | 31.2 | 23.6 | 8.3 | 4.7 | 1.4 | 0.9 | 1.1 | 2.8 | 36.6 |
-| VJ Edgecombe (PHI) | 85% | 28.7 | 10.8 | 5.5 | 3.3 | 1.4 | 1.2 | 0.4 | 1.2 | 19.6 |
-| Dean Wade (PHI) | 89% | 24.8 | 4.5 | 4.2 | 1.2 | 0.7 | 0.9 | 0.4 | 0.6 | 9.9 |
-| Kentavious Caldwell-Pope (PHI) | 99% | 22.2 | 6.9 | 2.5 | 1.8 | 0.8 | 1.0 | 0.3 | 0.8 | 11.2 |
-| Anfernee Simons (PHI) | 94% | 20.3 | 8.1 | 2.1 | 1.7 | 1.4 | 0.5 | 0.2 | 1.0 | 12.0 |
-| Adem Bona (PHI) | 94% | 11.7 | 3.3 | 3.3 | 0.5 | 0.0 | 0.3 | 0.7 | 0.6 | 7.1 |
-| Labaron Philon Jr. (PHI) | 61% | 7.7 | 2.3 | 0.9 | 0.6 | 0.2 | 0.2 | 0.1 | 0.3 | 3.8 |
-| Rayan Rupert (PHI) | 57% | 6.9 | 2.2 | 1.3 | 0.5 | 0.1 | 0.4 | 0.1 | 0.4 | 4.0 |
-| Justin Edwards (PHI) | 61% | 6.4 | 2.6 | 0.8 | 0.4 | 0.2 | 0.3 | 0.1 | 0.2 | 3.8 |
-| Caleb Love (PHI) | 42% | 6.2 | 0.5 | 0.2 | 0.3 | 0.0 | 0.1 | 0.2 | 0.2 | 1.0 |
+| Pascal Siakam | 99% | 39.6 | 27.4 | 9.0 | 5.4 | 1.9 | 1.1 | 0.5 | 3.3 | 41.9 |
+| Andrew Nembhard | 85% | 37.6 | 17.7 | 3.7 | 9.6 | 2.0 | 1.2 | 0.2 | 2.9 | 31.0 |
+| Kelly Oubre Jr. | 99% | 31.6 | 12.0 | 5.1 | 2.0 | 1.3 | 1.1 | 0.6 | 1.4 | 19.1 |
+| Jarace Walker | 95% | 29.6 | 12.7 | 6.9 | 3.4 | 1.7 | 1.0 | 0.6 | 2.3 | 22.9 |
+| Quenton Jackson | 95% | 28.1 | 11.8 | 3.5 | 4.5 | 1.1 | 1.1 | 0.2 | 1.6 | 19.9 |
+| Obi Toppin | 93% | 26.6 | 15.1 | 6.3 | 2.7 | 2.1 | 0.7 | 0.4 | 1.6 | 24.1 |
+| Jay Huff | 91% | 23.2 | 9.9 | 4.6 | 1.8 | 1.3 | 0.5 | 1.9 | 1.0 | 16.3 |
+| Kobe Brown | 74% | 18.4 | 6.3 | 3.5 | 1.5 | 0.7 | 0.5 | 0.3 | 1.0 | 11.2 |
+| Larry Nance Jr. | 51% | 15.3 | 4.4 | 3.4 | 0.9 | 0.4 | 0.6 | 0.3 | 0.6 | 8.7 |
+| Jalen Slawson | 85% | 14.2 | 4.2 | 2.9 | 1.3 | 0.4 | 0.7 | 0.6 | 0.8 | 8.4 |
+| Braden Smith | 40% | 9.6 | 3.8 | 1.7 | 0.9 | 0.2 | 0.3 | 0.2 | 0.5 | 6.4 |
 
 </details>
 
@@ -406,31 +373,63 @@ Out: Johnny Furphy (IND), T.J. McConnell (IND), Ben Sheppard (IND), Ivica Zubac 
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyrese Haliburton (IND) | 100% | 38.7 | 20.7 | 5.3 | 10.8 | 3.2 | 1.6 | 0.8 | 2.7 | 36.8 |
-| Pascal Siakam (IND) | 99% | 36.0 | 24.4 | 8.0 | 4.7 | 1.8 | 1.0 | 0.5 | 2.8 | 37.1 |
-| Kelly Oubre Jr. (IND) | 99% | 27.8 | 9.9 | 4.5 | 1.7 | 1.0 | 0.9 | 0.5 | 1.2 | 16.1 |
-| Aaron Nesmith (IND) | 93% | 26.3 | 11.9 | 3.6 | 1.7 | 1.8 | 0.6 | 0.5 | 1.3 | 17.1 |
-| Jarace Walker (IND) | 95% | 26.1 | 10.7 | 5.9 | 2.8 | 1.5 | 0.8 | 0.5 | 1.9 | 19.4 |
-| Quenton Jackson (IND) | 95% | 23.9 | 9.8 | 3.0 | 3.7 | 0.9 | 0.9 | 0.2 | 1.3 | 16.5 |
-| Obi Toppin (IND) | 93% | 23.9 | 13.4 | 5.6 | 2.3 | 1.9 | 0.6 | 0.4 | 1.4 | 21.3 |
-| Jay Huff (IND) | 91% | 20.8 | 8.7 | 4.1 | 1.6 | 1.1 | 0.5 | 1.7 | 0.9 | 14.3 |
-| Larry Nance Jr. (IND) | 51% | 12.3 | 3.6 | 2.6 | 0.8 | 0.3 | 0.5 | 0.2 | 0.5 | 7.0 |
-| Kobe Brown (IND) | 69% | 11.4 | 3.7 | 2.1 | 0.9 | 0.3 | 0.3 | 0.2 | 0.7 | 6.7 |
-| Jalen Slawson (IND) | 79% | 11.1 | 3.3 | 2.3 | 1.1 | 0.2 | 0.6 | 0.5 | 0.6 | 6.7 |
-| Braden Smith (IND) | 37% | 9.2 | 3.6 | 1.7 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.1 |
-| Tyrese Maxey (PHI) | 99% | 34.5 | 21.7 | 3.8 | 5.4 | 2.4 | 1.6 | 0.5 | 2.1 | 30.9 |
-| Jaylen Brown (PHI) | 99% | 33.5 | 20.8 | 5.8 | 4.3 | 1.7 | 1.3 | 0.5 | 3.1 | 31.0 |
-| LeBron James (PHI) | 99% | 31.3 | 17.1 | 6.5 | 6.5 | 1.3 | 1.4 | 0.5 | 2.8 | 30.1 |
-| Joel Embiid (PHI) | 99% | 31.1 | 23.7 | 8.3 | 4.7 | 1.4 | 0.9 | 1.1 | 2.8 | 36.7 |
-| VJ Edgecombe (PHI) | 85% | 28.7 | 10.9 | 5.4 | 3.4 | 1.4 | 1.2 | 0.4 | 1.2 | 19.7 |
-| Dean Wade (PHI) | 89% | 24.8 | 4.5 | 4.1 | 1.2 | 0.7 | 0.9 | 0.4 | 0.6 | 9.9 |
-| Kentavious Caldwell-Pope (PHI) | 99% | 22.1 | 6.9 | 2.5 | 1.8 | 0.8 | 1.0 | 0.3 | 0.8 | 11.1 |
-| Anfernee Simons (PHI) | 94% | 20.2 | 8.1 | 2.1 | 1.7 | 1.4 | 0.5 | 0.2 | 1.0 | 12.0 |
-| Adem Bona (PHI) | 94% | 11.8 | 3.2 | 3.3 | 0.5 | 0.0 | 0.3 | 0.7 | 0.6 | 7.1 |
-| Labaron Philon Jr. (PHI) | 61% | 7.7 | 2.3 | 0.9 | 0.6 | 0.2 | 0.2 | 0.1 | 0.3 | 3.8 |
+| Tyrese Haliburton (IND) | 100% | 38.1 | 21.0 | 5.3 | 9.8 | 3.1 | 1.4 | 0.8 | 2.6 | 36.1 |
+| Pascal Siakam (IND) | 99% | 34.9 | 24.0 | 7.8 | 4.1 | 1.8 | 1.0 | 0.5 | 2.7 | 35.9 |
+| Andrew Nembhard (IND) | 85% | 33.2 | 15.2 | 3.2 | 7.5 | 1.8 | 1.1 | 0.2 | 2.4 | 25.9 |
+| Kelly Oubre Jr. (IND) | 99% | 27.2 | 9.3 | 4.4 | 1.6 | 1.0 | 0.9 | 0.5 | 1.1 | 15.3 |
+| Jarace Walker (IND) | 95% | 25.6 | 10.7 | 5.7 | 2.5 | 1.5 | 0.8 | 0.5 | 1.8 | 19.0 |
+| Obi Toppin (IND) | 93% | 23.4 | 12.8 | 5.5 | 2.1 | 1.9 | 0.6 | 0.4 | 1.2 | 20.4 |
+| Quenton Jackson (IND) | 95% | 23.3 | 9.5 | 2.9 | 3.5 | 0.9 | 0.9 | 0.2 | 1.2 | 15.8 |
+| Jay Huff (IND) | 91% | 20.4 | 8.5 | 4.0 | 1.5 | 1.1 | 0.5 | 1.6 | 0.8 | 14.1 |
+| Larry Nance Jr. (IND) | 51% | 11.8 | 3.5 | 2.6 | 0.8 | 0.3 | 0.5 | 0.2 | 0.5 | 6.8 |
+| Kobe Brown (IND) | 74% | 11.1 | 3.8 | 2.1 | 0.8 | 0.3 | 0.3 | 0.2 | 0.7 | 6.7 |
+| Jalen Slawson (IND) | 85% | 10.6 | 3.2 | 2.2 | 1.0 | 0.2 | 0.6 | 0.5 | 0.6 | 6.5 |
+| Braden Smith (IND) | 40% | 9.0 | 3.5 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 6.0 |
+| Tyrese Maxey (PHI) | 99% | 34.5 | 21.9 | 3.8 | 5.4 | 2.4 | 1.6 | 0.5 | 2.1 | 31.1 |
+| Jaylen Brown (PHI) | 99% | 33.6 | 21.0 | 5.8 | 4.3 | 1.7 | 1.3 | 0.5 | 3.1 | 31.2 |
+| Joel Embiid (PHI) | 99% | 31.3 | 23.7 | 8.3 | 4.7 | 1.4 | 0.9 | 1.1 | 2.8 | 36.8 |
+| LeBron James (PHI) | 99% | 31.3 | 17.1 | 6.4 | 6.5 | 1.3 | 1.5 | 0.5 | 2.8 | 30.0 |
+| VJ Edgecombe (PHI) | 85% | 28.5 | 10.7 | 5.4 | 3.3 | 1.4 | 1.2 | 0.4 | 1.2 | 19.5 |
+| Dean Wade (PHI) | 89% | 24.8 | 4.6 | 4.1 | 1.2 | 0.8 | 0.9 | 0.4 | 0.6 | 9.9 |
+| Kentavious Caldwell-Pope (PHI) | 99% | 22.2 | 6.9 | 2.5 | 1.8 | 0.8 | 1.0 | 0.3 | 0.8 | 11.1 |
+| Anfernee Simons (PHI) | 94% | 20.2 | 8.1 | 2.1 | 1.7 | 1.4 | 0.5 | 0.2 | 1.0 | 11.9 |
+| Adem Bona (PHI) | 94% | 11.8 | 3.2 | 3.3 | 0.5 | 0.0 | 0.3 | 0.7 | 0.6 | 7.0 |
+| Labaron Philon Jr. (PHI) | 61% | 7.6 | 2.2 | 0.9 | 0.6 | 0.2 | 0.2 | 0.1 | 0.3 | 3.8 |
+| Rayan Rupert (PHI) | 57% | 6.8 | 2.2 | 1.3 | 0.5 | 0.1 | 0.4 | 0.1 | 0.4 | 3.9 |
+| Justin Edwards (PHI) | 61% | 6.4 | 2.6 | 0.8 | 0.5 | 0.2 | 0.3 | 0.1 | 0.3 | 3.9 |
+| Caleb Love (PHI) | 42% | 6.1 | 0.4 | 0.2 | 0.3 | 0.0 | 0.1 | 0.2 | 0.2 | 1.0 |
+
+</details>
+
+<details><summary>if Aaron Nesmith plays: both teams</summary>
+
+| Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Pascal Siakam (IND) | 99% | 36.0 | 25.3 | 8.0 | 4.7 | 1.8 | 1.0 | 0.5 | 2.8 | 38.0 |
+| Andrew Nembhard (IND) | 85% | 34.0 | 15.8 | 3.2 | 8.3 | 1.9 | 1.0 | 0.2 | 2.5 | 27.4 |
+| Aaron Nesmith (IND) | 100% | 29.7 | 14.2 | 4.1 | 2.0 | 2.1 | 0.7 | 0.6 | 1.5 | 20.3 |
+| Kelly Oubre Jr. (IND) | 99% | 28.3 | 10.3 | 4.6 | 1.7 | 1.1 | 0.9 | 0.5 | 1.2 | 16.7 |
+| Jarace Walker (IND) | 95% | 26.6 | 11.2 | 6.0 | 2.9 | 1.6 | 0.8 | 0.5 | 1.9 | 20.1 |
+| Obi Toppin (IND) | 93% | 24.5 | 14.0 | 5.7 | 2.4 | 1.9 | 0.7 | 0.4 | 1.4 | 22.1 |
+| Quenton Jackson (IND) | 95% | 24.4 | 10.3 | 3.1 | 3.8 | 0.9 | 0.9 | 0.2 | 1.3 | 17.1 |
+| Jay Huff (IND) | 91% | 21.2 | 9.0 | 4.2 | 1.6 | 1.2 | 0.5 | 1.7 | 0.9 | 14.8 |
+| Larry Nance Jr. (IND) | 51% | 12.7 | 3.7 | 2.8 | 0.8 | 0.3 | 0.5 | 0.2 | 0.5 | 7.3 |
+| Kobe Brown (IND) | 74% | 11.8 | 4.0 | 2.2 | 0.9 | 0.4 | 0.3 | 0.2 | 0.7 | 7.2 |
+| Jalen Slawson (IND) | 85% | 11.4 | 3.5 | 2.3 | 1.1 | 0.3 | 0.6 | 0.5 | 0.6 | 6.9 |
+| Braden Smith (IND) | 40% | 9.2 | 3.6 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.1 |
+| Tyrese Maxey (PHI) | 99% | 34.6 | 21.8 | 3.8 | 5.4 | 2.4 | 1.6 | 0.5 | 2.1 | 31.1 |
+| Jaylen Brown (PHI) | 99% | 33.5 | 21.0 | 5.8 | 4.3 | 1.7 | 1.3 | 0.5 | 3.1 | 31.1 |
+| LeBron James (PHI) | 99% | 31.3 | 17.1 | 6.4 | 6.5 | 1.3 | 1.5 | 0.5 | 2.8 | 30.0 |
+| Joel Embiid (PHI) | 99% | 31.2 | 23.6 | 8.3 | 4.7 | 1.4 | 0.9 | 1.1 | 2.8 | 36.6 |
+| VJ Edgecombe (PHI) | 85% | 28.7 | 10.8 | 5.4 | 3.4 | 1.4 | 1.2 | 0.4 | 1.2 | 19.6 |
+| Dean Wade (PHI) | 89% | 24.8 | 4.6 | 4.1 | 1.2 | 0.7 | 0.9 | 0.5 | 0.5 | 9.9 |
+| Kentavious Caldwell-Pope (PHI) | 99% | 22.2 | 6.9 | 2.5 | 1.8 | 0.8 | 1.0 | 0.3 | 0.8 | 11.2 |
+| Anfernee Simons (PHI) | 94% | 20.2 | 8.2 | 2.1 | 1.7 | 1.4 | 0.5 | 0.2 | 1.0 | 12.0 |
+| Adem Bona (PHI) | 94% | 11.8 | 3.3 | 3.3 | 0.5 | 0.0 | 0.3 | 0.7 | 0.6 | 7.1 |
+| Labaron Philon Jr. (PHI) | 61% | 7.6 | 2.2 | 0.9 | 0.6 | 0.2 | 0.2 | 0.1 | 0.3 | 3.8 |
 | Rayan Rupert (PHI) | 57% | 6.8 | 2.1 | 1.3 | 0.5 | 0.1 | 0.4 | 0.1 | 0.4 | 3.9 |
-| Justin Edwards (PHI) | 61% | 6.5 | 2.6 | 0.9 | 0.5 | 0.2 | 0.3 | 0.1 | 0.3 | 3.9 |
-| Caleb Love (PHI) | 42% | 6.2 | 0.5 | 0.2 | 0.3 | 0.0 | 0.1 | 0.2 | 0.2 | 1.0 |
+| Justin Edwards (PHI) | 61% | 6.5 | 2.6 | 0.9 | 0.4 | 0.2 | 0.3 | 0.1 | 0.2 | 3.9 |
+| Caleb Love (PHI) | 42% | 6.1 | 0.5 | 0.2 | 0.3 | 0.0 | 0.1 | 0.2 | 0.3 | 1.0 |
 
 </details>
 
