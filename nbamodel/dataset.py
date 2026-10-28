@@ -50,6 +50,23 @@ ABS_FEATS = ["vac_min", "vac_usage", "vac_value", "vac_pts", "vac_ast", "vac_reb
              "n_absent", "avail_value", "roster_value"]
 
 
+def read_store(name: str) -> pd.DataFrame | None:
+    """This season's appended tables (current_season_*). Kept as plain CSV, not parquet, because
+    they're committed after every update and git stores appended text as small deltas."""
+    csv, pq = DATA / f"{name}.csv", DATA / f"{name}.parquet"
+    if csv.exists():
+        d = pd.read_csv(csv, low_memory=False)
+        if "game_date" in d:
+            d["game_date"] = pd.to_datetime(d["game_date"])
+        return d
+    return pd.read_parquet(pq) if pq.exists() else None
+
+
+def write_store(name: str, df: pd.DataFrame) -> None:
+    df.to_csv(DATA / f"{name}.csv", index=False)
+    (DATA / f"{name}.parquet").unlink(missing_ok=True)
+
+
 def load_history() -> tuple[pd.DataFrame, pd.DataFrame]:
     pg = pd.read_parquet(DATA / "player_games.parquet")
     g = pd.read_parquet(DATA / "games.parquet")
@@ -60,12 +77,11 @@ def load_history() -> tuple[pd.DataFrame, pd.DataFrame]:
         d["min"], d["starter"] = 0.0, 0
         d = d[~d.set_index(["game_id", "player_id"]).index.isin(pg.set_index(["game_id", "player_id"]).index)]
         pg = pd.concat([pg, d], ignore_index=True)
-    extra = DATA / "current_season_player_games.parquet"  # appended by the live updater
-    if extra.exists():
-        pg = pd.concat([pg, pd.read_parquet(extra)], ignore_index=True).drop_duplicates(
-            ["game_id", "player_id"], keep="last")
-        g = pd.concat([g, pd.read_parquet(DATA / "current_season_games.parquet")],
-                      ignore_index=True).drop_duplicates("game_id", keep="last")
+    extra = read_store("current_season_player_games")  # appended by the live updater
+    if extra is not None:
+        pg = pd.concat([pg, extra], ignore_index=True).drop_duplicates(["game_id", "player_id"], keep="last")
+        g = pd.concat([g, read_store("current_season_games")], ignore_index=True).drop_duplicates(
+            "game_id", keep="last")
     return pg, g
 
 

@@ -159,7 +159,12 @@ def report(today: date | None = None) -> tuple[str, list[str], dict]:
 def staleness_alerts(today: date | None = None) -> list[str]:
     today = today or date.today()
     out = []
-    if today.month in (7, 8, 9):  # off-season
+    try:  # off-season, All-Star break: no games in the last 3 days means nothing should be logged
+        from .sources import espn
+        played = sum(len(espn.scoreboard(today - timedelta(days=k))) for k in (1, 2, 3))
+    except Exception:
+        played = 0 if today.month in (7, 8, 9) else 1
+    if not played:
         return out
     recent = sorted((LOGS / "projections").glob("*_games.csv"))
     if recent:

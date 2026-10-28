@@ -48,9 +48,22 @@ def probe_check(P: pd.DataFrame, G: pd.DataFrame, season: str) -> tuple[dict, li
     return m, bad
 
 
+OFFSEASON_DAYS = 10  # no completed games for this long (off-season, long breaks): nothing to retrain on
+
+
 def main():
     alerts = monitor.run(date.today())
+    # weekly heartbeat commit: GitHub switches off schedules in repos with no activity for 60 days
+    (ROOT / "output" / "heartbeat.txt").write_text(f"weekly job ran {date.today().isoformat()}\n")
     pg, g = load_history()
+    last_game = pd.to_datetime(g.dropna(subset=["home_pts"])["game_date"]).max()
+    if (pd.Timestamp(date.today()) - last_game).days > OFFSEASON_DAYS:
+        msg = f"No games since {last_game.date()}: off-season or a break, model left as is."
+        with open(ROOT / "output" / "monitor.md", "a") as f:
+            f.write(f"\n## Weekly retrain\n\n{msg}\n")
+        (ROOT / "output" / "alerts.txt").write_text("")
+        print(msg)
+        return
     P, G = build(pg, g)
     season = P["season"].max()
     m, bad = probe_check(P, G, season)

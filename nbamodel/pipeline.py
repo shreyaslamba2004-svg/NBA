@@ -10,7 +10,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from .dataset import DATA, build, load_history
+from .dataset import DATA, build, load_history, read_store, write_store
 from .models import SIM_STATS, predict_team, Bundle, predict_minutes, predict_rates
 from . import rotation, edges as E
 from . import bookie, scenarios as SC, sgm
@@ -56,14 +56,14 @@ def refresh_current_season(day: date) -> None:
     gm = pd.concat(Gm, ignore_index=True)
     ln = pd.concat([x for x in L if len(x)], ignore_index=True) if any(len(x) for x in L) else pd.DataFrame()
     b["team_id"] = None
-    for f, new in (("current_season_player_games.parquet", b), ("current_season_games.parquet", gm),
-                   ("current_season_lines.parquet", ln)):
-        p = DATA / f
-        if p.exists() and len(new):
-            new = pd.concat([pd.read_parquet(p), new], ignore_index=True)
+    for f, new in (("current_season_player_games", b), ("current_season_games", gm),
+                   ("current_season_lines", ln)):
+        old = read_store(f)
+        if old is not None and len(new):
+            new = pd.concat([old, new], ignore_index=True)
         if len(new):
             key = ["game_id", "player_id"] if "player_id" in new else ["game_id"]
-            new.drop_duplicates(key, keep="last").to_parquet(p, index=False)
+            write_store(f, new.drop_duplicates(key, keep="last"))
 
 
 # ------------------------------------------------------------------ availability
@@ -150,7 +150,7 @@ def rookie_prior(pick: int | None) -> tuple[float, float]:
 
 
 def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
-            history_from: str = "2023-24", market: pd.DataFrame | None = None,
+            history_from: str | None = None, market: pd.DataFrame | None = None,
             props: pd.DataFrame | None = None, book_lines: pd.DataFrame | None = None) -> dict:
     """Project every game under who-plays scenarios (see scenarios.py).
 
@@ -160,6 +160,7 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
     expected  all in/out combinations blended by probability: used to price bets
     """
     pg, g = load_history()
+    history_from = history_from or season_label(day.replace(year=day.year - 3))  # last 3 seasons + this one
     pg, g = pg[pg["season"] >= history_from], g[g["season"] >= history_from]
     slate = slate.assign(season=season_label(day))
     sp = sp.copy()
