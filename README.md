@@ -102,9 +102,10 @@ Outputs in `output/<date>/`:
 
 ## Scheduled logging (GitHub Actions)
 
-`.github/workflows/daily.yml` runs a morning snapshot at 15:00 UTC and then every 15 minutes
-from 21:00 to 05:45 UTC (about 8am to 4:45pm Sydney). It re-projects when injury or lineup news
-changes, and buys AU prop prices for each game about 40 minutes before tip. Each run:
+`.github/workflows/game-day.yml` runs a morning snapshot at 13:00 UTC, then checks every 10 minutes
+from 14:00 to 05:50 UTC (every 5 minutes within 2 hours of a tip). It re-projects when injury or
+lineup news or a DraftKings prop price changes, and buys AU prop prices for each game about 40
+minutes before tip. `weekly.yml` grades the logs and retrains on Mondays. Each run:
 1. grades yesterday: final scores and player lines go to `logs/results/`
 2. pulls new box scores and refreshes the current season
 3. projects today's slate

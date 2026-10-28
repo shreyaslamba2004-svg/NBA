@@ -9,6 +9,8 @@
 #               per game) + AU game lines once a day. Free on a public repo (Actions minutes are
 #               unlimited); nothing is committed when nothing changed.
 # GitHub's scheduler can start jobs several minutes late, so the pre-tip window is 40 min wide.
+name: game-day
+
 on:
   schedule:
     - cron: "0 13 * * *"
