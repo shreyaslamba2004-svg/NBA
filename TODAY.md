@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 08:38 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 08:43 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -68,11 +68,11 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Trae Young PR under 23.5 | WAS @ CLE | draftkings | 1.92 | 1.31 | 76.0% | 48.7% | 55.6% | +6.6% | +45.8% | 1.8% |
 | Daniss Jenkins REB over 3.5 | CHA @ DET | draftkings | 3.04 | 2.10 | 47.7% | 30.7% | 35.0% | +6.3% | +45.0% | 0.8% |
 | Trae Young PA under 31.5 | WAS @ CLE | draftkings | 1.81 | 1.25 | 80.1% | 51.7% | 58.8% | +6.3% | +44.7% | 1.9% |
+| Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.25 | 2.25 | 44.4% | 28.8% | 32.7% | +6.2% | +44.3% | 0.7% |
 | Trae Young PTS under 21.5 | WAS @ CLE | draftkings | 1.82 | 1.27 | 78.9% | 51.4% | 58.2% | +6.0% | +43.5% | 1.8% |
 | Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.69 | 1.19 | 84.0% | 55.2% | 62.4% | +5.7% | +42.4% | 2.0% |
 | Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.17 | 1.53 | 65.5% | 43.1% | 48.7% | +5.7% | +42.2% | 1.2% |
 | Jake LaRavia PTS under 8.5 | LAL @ LAC | draftkings | 1.90 | 1.34 | 74.5% | 49.2% | 55.5% | +5.5% | +41.6% | 1.5% |
-| Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.19 | 2.25 | 44.4% | 29.3% | 33.1% | +5.5% | +41.6% | 0.6% |
 | Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.03 | 1.44 | 69.4% | 46.0% | 51.9% | +5.3% | +40.9% | 1.3% |
 | Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.01 | 2.15 | 46.5% | 31.1% | 34.9% | +5.1% | +39.9% | 0.6% |
 | Jake LaRavia PR under 12.5 | LAL @ LAC | draftkings | 1.93 | 1.38 | 72.3% | 48.3% | 54.3% | +5.1% | +39.9% | 1.4% |
@@ -106,8 +106,8 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Giannis Antetokounmpo RA under 17.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.8% | 49.9% | 53.4% | +0.2% | +19.8% | 0.1% |
-| Davion Mitchell PTS under 12.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.6% | 49.6% | 53.1% | +0.1% | +20.0% | 0.0% |
 | Bobby Portis 3PM under 1.5 | MIA @ ATL | draftkings | 2.02 | 1.68 | 59.4% | 46.3% | 49.5% | +0.1% | +20.0% | 0.0% |
+| Davion Mitchell PTS under 12.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.6% | 49.6% | 53.1% | +0.1% | +20.0% | 0.0% |
 
 **Best multis (one per price band)**
 
@@ -1190,7 +1190,7 @@ Out: Bradley Beal (LAC), Rui Hachimura (LAC), Brandon Ingram (LAC), Max Strus (L
 | Derrick Jones Jr. 8+ pts **+** Brook Lopez 1+ 3pm | 60.0% | 1.67 | 1.75 | 1.54 | -7.9% |
 | Derrick Jones Jr. 8+ pts **+** Brook Lopez 6+ pts **+** Walker Kessler 8+ reb | 53.7% | 1.86 | 1.96 | 1.66 | -10.9% |
 | Quentin Grimes reb under 4.5 **+** Brook Lopez 8+ pts | 46.3% | 2.16 | 2.27 | 2.07 | -4.3% |
-| LAC win **+** Brook Lopez 8+ pts | 39.8% | 2.51 | 2.64 | 2.45 | -2.3% |
+| Quentin Grimes pr under 16.5 **+** Brook Lopez 8+ pts | 40.1% | 2.49 | 2.62 | 2.47 | -1.0% |
 
 <details><summary>LAL players (confirmed only)</summary>
 
