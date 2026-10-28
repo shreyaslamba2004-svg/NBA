@@ -20,7 +20,7 @@ from scripts.train_backtest import team_normalise  # noqa: E402
 
 THRU, TEST = "2023-24", "2025-26"
 FACTORS = ["travel", "schedule_load", "rotation_depth", "rest_habits", "motivation", "referees",
-           "shooting_luck", "award_pressure", "late_news", "rep_history"]
+           "shooting_luck", "award_pressure", "late_news", "rep_history", "pos_absence", "ot_adjust"]
 STATS = ["pts", "reb", "ast", "fg3m"]
 
 
@@ -43,24 +43,35 @@ def evaluate(P, G) -> dict:
     return out
 
 
+CACHE = ROOT / "output" / "ablation_rows.jsonl"  # finished variants, so an interrupted run resumes
+
+
 def main():
+    import json
     P = pd.read_parquet(D.DATA / "P.parquet")
     G = pd.read_parquet(D.DATA / "G.parquet")
+    done = {}
+    if CACHE.exists():
+        for line in CACHE.read_text().splitlines():
+            r = json.loads(line)
+            done[r["variant"]] = r
+    variants = [("all factors (current)", set(), "both")] + \
+               [(f"without {f}", {f}, "both") for f in FACTORS] + \
+               [(f"defense vs {'player type' if dg == 'arch' else 'position'} only", set(), dg) for dg in ("arch", "pos")]
     rows = []
-    base = evaluate(P, G)
-    rows.append({"variant": "all factors (current)", **base})
-    print(rows[-1], flush=True)
-    for f in FACTORS:
-        D.DISABLED.clear()
-        D.DISABLED.add(f)
-        rows.append({"variant": f"without {f}", **evaluate(P, G)})
+    for name, off, dg in variants:
+        if name not in done:
+            D.DISABLED.clear()
+            D.DISABLED.update(off)
+            D.DEFENSE_GROUPS = dg
+            done[name] = {"variant": name, **{k: float(v) for k, v in evaluate(P, G).items()}}
+            with open(CACHE, "a") as fh:
+                fh.write(json.dumps(done[name]) + "\n")
+        rows.append(done[name])
         print(rows[-1], flush=True)
     D.DISABLED.clear()
-    for dg in ("arch", "pos"):
-        D.DEFENSE_GROUPS = dg
-        rows.append({"variant": f"defense vs {'player type' if dg == 'arch' else 'position'} only", **evaluate(P, G)})
-        print(rows[-1], flush=True)
     D.DEFENSE_GROUPS = "both"
+    base = rows[0]
     res = pd.DataFrame(rows).set_index("variant")
     # verdict: does removing the factor hurt (keep) or help/no change (drop)?
     player_cols = ["min MAE"] + [f"{s} MAE" for s in STATS]

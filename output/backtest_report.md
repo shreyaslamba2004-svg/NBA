@@ -5,10 +5,10 @@
 | stat | model MAE | baseline MAE (recent avg) | improvement |
 |---|---|---|---|
 | minutes | 4.36 | 5.13 | 15.0% |
-| pts | 4.35 | 4.59 | 5.2% |
+| pts | 4.34 | 4.59 | 5.3% |
 | reb | 1.81 | 1.89 | 4.1% |
 | ast | 1.30 | 1.34 | 2.9% |
-| fg3m | 0.87 | 0.88 | 1.3% |
+| fg3m | 0.87 | 0.88 | 1.4% |
 | stl | 0.71 | 0.72 | 1.0% |
 | blk | 0.51 | 0.50 | -1.2% |
 | tov | 0.87 | 0.89 | 2.6% |
@@ -21,7 +21,7 @@ Calibrated noise: margin sd 14.07, total sd 18.37
 |---|---|---|---|
 | Margin MAE | 11.30 | 10.94 | 10.60 |
 | Total MAE | 14.99 | 15.53 | 14.93 |
-| Total MAE (bottom-up from players) | 15.44 | | |
+| Total MAE (bottom-up from players) | 15.35 | | |
 
 Win probability log-loss: model 0.5896 (all), model 0.6221 vs no-vig closing moneyline 0.6167 (same 505 games). Brier: model 0.2166 vs market 0.2140.
 

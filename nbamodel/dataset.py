@@ -39,10 +39,13 @@ PLAYER_CONTEXT = {"shooting_luck": ["fg3_pct_s", "fg3_pct_l", "ts_s", "ts_l", "f
                   # representative history: form that skips comeback/blowout games and restarts by season/team
                   "rep_history": REP_MIN + [f"{s}_r_{k}" for s in REP_RATE_STATS for k in ("stint", "season")]}
 DISABLED: set[str] = set()  # names of groups to leave out of the models
+# switched off after the keep/drop test (output/ablation.md): removing them made held-out
+# projections no worse (award_pressure) or better (shooting_luck: hot/cold streaks don't carry)
+RETIRED = {"shooting_luck", "award_pressure"}
 
 
 def _ctx_feats(groups: dict) -> list[str]:
-    return [f for k, v in groups.items() if k not in DISABLED for f in v]
+    return [f for k, v in groups.items() if k not in DISABLED and k not in RETIRED for f in v]
 
 
 TEAM_FEATS = BASE_TEAM_FEATS + [f for v in CONTEXT_GROUPS.values() for f in v]

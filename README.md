@@ -128,3 +128,26 @@ adds AU bookmaker prices (Sportsbet, PointsBet, Ladbrokes, Neds, Unibet and othe
 - See `output/backtest_report.md` for the current walk-forward results. On 2025-26 the pure model
   does not beat closing lines on sides (margin MAE 10.93 vs 10.60, ATS 47-50%). Player minutes and
   stat projections beat simple baselines. Treat edges as leads to check, not certainties.
+
+## What was tested, and what stayed
+
+Every idea is retrained and scored on a season the model hasn't seen (2025-26) and kept only if
+it helps. Reports are in `output/` (`ablation.md`, `*_check.md`).
+
+| Idea | Result | Status |
+|---|---|---|
+| Travel and altitude, rest habits, standings motivation | removing each made projections worse | kept |
+| Schedule load, rotation depth, referee crews | small mixed effects, help game totals | kept |
+| Defense vs position and vs player type | each alone is worse than both | kept |
+| Representative history (skip comeback and blowout games, restart by season and team) | traded players about 1% better | kept |
+| Position-aware absences | minutes slightly better | kept |
+| Overtime-adjusted minutes history | small gain in every group | kept |
+| Confirmed starters from late news | can't be tested on box scores; useful live | kept |
+| Shooting luck (hot and cold streaks) | removing it improved points | dropped |
+| Award-eligibility games pressure | no effect | dropped |
+| Teammates' scoring quality for assists | no gain | dropped |
+| Player history vs a specific opponent | no gain (small samples) | dropped |
+| Shot quality from play-by-play shot zones | no gain | dropped |
+| Ensembles (3 averaged models) | +0.1% on player stats for a 3x larger model | dropped |
+| Line movement | no historical opening lines; live logs plus the weekly closing-line check track it | waiting for data |
+| Lineup on/off | team scores already on target across absence sizes | not pursued |
