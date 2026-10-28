@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 08:13 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 08:18 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -66,7 +66,6 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 5.5 | HOU @ MIL | draftkings | 3.69 | 2.25 | 44.5% | 25.3% | 30.1% | +11.2% | +64.2% | 1.0% |
 | Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.87 | 1.21 | 82.3% | 50.0% | 58.1% | +8.6% | +53.9% | 2.0% |
-| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.19 | 2.15 | 46.5% | 29.3% | 33.6% | +7.2% | +48.3% | 0.8% |
 | Trae Young PA under 30.5 | WAS @ CLE | draftkings | 1.91 | 1.30 | 77.2% | 48.9% | 56.0% | +6.9% | +47.4% | 1.9% |
 | Trae Young PTS under 20.5 | WAS @ CLE | draftkings | 1.94 | 1.33 | 75.4% | 48.1% | 54.9% | +6.7% | +46.6% | 1.8% |
 | Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.88 | 1.28 | 77.8% | 49.8% | 56.8% | +6.6% | +46.1% | 1.9% |
@@ -76,6 +75,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.69 | 1.19 | 84.0% | 55.2% | 62.4% | +5.7% | +42.4% | 2.0% |
 | Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.17 | 1.53 | 65.5% | 43.1% | 48.7% | +5.7% | +42.2% | 1.2% |
 | Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.19 | 2.25 | 44.4% | 29.3% | 33.1% | +5.5% | +41.6% | 0.6% |
+| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.03 | 2.15 | 46.5% | 30.8% | 34.8% | +5.3% | +40.9% | 0.7% |
 | Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.03 | 1.44 | 69.4% | 46.0% | 51.9% | +5.3% | +40.9% | 1.3% |
 | Jake LaRavia 3PM under 1.5 | LAL @ LAC | draftkings | 1.61 | 1.15 | 87.0% | 58.1% | 65.3% | +5.1% | +40.0% | 2.0% |
 
@@ -87,12 +87,12 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| MIA @ ATL | Thu 29 Oct 10:00 | 117.6–122.0 | MIA 38% | 2.66 / 1.60 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o241.5 46% |
+| MIA @ ATL | Thu 29 Oct 10:00 | 117.6–122.0 | MIA 38% | 2.66 / 1.60 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o242.5 44% |
 | WAS @ CLE | Thu 29 Oct 10:00 | 110.6–122.5 | WAS 20% | 5.00 / 1.25 | CLE -11.5 | 232.5 | CLE -10.5 covers 54%; o240.5 34% |
 | CHA @ DET | Thu 29 Oct 10:00 | 107.9–109.6 | CHA 45% | 2.23 / 1.81 | DET -2.5 | 217.5 | DET -7.5 covers 34%; o212.5 60% |
 | PHI @ IND | Thu 29 Oct 10:00 | 118.0–112.7 | PHI 64% | 1.55 / 2.80 | IND +5.5 | 230.5 | IND +7.5 covers 56%; o234.5 42% |
 | ORL @ TOR | Thu 29 Oct 10:30 | 108.2–113.9 | ORL 34% | 2.94 / 1.52 | TOR -5.5 | 221.5 | TOR -4.5 covers 54%; o223.5 47% |
-| NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +7.5 covers 46%; o232.5 45% |
+| NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
 | HOU @ MIL | Thu 29 Oct 11:00 | 114.8–110.6 | HOU 62% | 1.62 / 2.61 | MIL +4.5 | 225.5 | MIL +8.5 covers 62%; o226.5 47% |
 | GSW @ MIN | Thu 29 Oct 11:00 | 110.8–115.2 | GSW 37% | 2.67 / 1.60 | MIN -4.5 | 225.5 | MIN -3.5 covers 53%; o227.5 46% |
 | DEN @ NOP | Thu 29 Oct 11:00 | 122.0–119.5 | DEN 57% | 1.76 / 2.31 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o240.5 52% |
@@ -122,8 +122,8 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 117.6–122.0 | MIA 38% | 2.66 / 1.60 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o241.5 46% |
-| Expected (weighted by chance each plays) | 118.0–122.2 | MIA 37% | 2.69 / 1.59 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o241.5 46% |
+| Confirmed players only | 117.6–122.0 | MIA 38% | 2.66 / 1.60 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o242.5 44% |
+| Expected (weighted by chance each plays) | 118.0–122.2 | MIA 37% | 2.69 / 1.59 | ATL -4.5 | 239.5 | ATL -2.5 covers 56%; o242.5 44% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -256,7 +256,7 @@ Out: Jalen Duren (DET), Isaiah Joe (DET), Kon Knueppel (CHA), Coby White (CHA), 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Naz Reid ra under 10.5 **+** Brandon Miller 1+ 3pm | 51.5% | 1.94 | 2.04 | 1.83 | -5.9% |
-| Dennis Schroder ast under 5.5 **+** Cade Cunningham 3+ reb | 46.8% | 2.14 | 2.24 | 2.09 | -2.3% |
+| Dennis Schroder ast under 5.5 **+** Naz Reid 8+ pts | 49.2% | 2.03 | 2.13 | 1.99 | -2.2% |
 | Dennis Schroder ast under 5.5 **+** Cade Cunningham 1+ 3pm | 45.9% | 2.18 | 2.29 | 2.13 | -2.0% |
 
 <details><summary>CHA players (confirmed only)</summary>
@@ -558,8 +558,8 @@ Out: Nic Claxton (CHI), Jose Alvarado (NYK)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +7.5 covers 46%; o232.5 45% |
-| Expected (weighted by chance each plays) | 119.4–111.0 | NYK 72% | 1.38 / 3.61 | CHI +8.5 | 230.5 | CHI +7.5 covers 47%; o232.5 45% |
+| Confirmed players only | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
+| Expected (weighted by chance each plays) | 119.4–111.0 | NYK 72% | 1.38 / 3.61 | CHI +8.5 | 230.5 | CHI +6.5 covers 44%; o232.5 45% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -797,17 +797,17 @@ Out: Yves Missi (NOP), Alpha Diallo (DEN), Julian Strawther (DEN)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Saddiq Bey REB over 5.5 | DEN @ NOP | draftkings | 3.75 | 2.87 | 34.8% | 24.9% | 27.4% | +2.7% | +30.5% | 0.2% |
+| Saddiq Bey REB over 5.5 | DEN @ NOP | draftkings | 3.82 | 2.87 | 34.8% | 24.5% | 27.1% | +3.3% | +32.9% | 0.3% |
 | DeMar DeRozan AST over 3.5 | DEN @ NOP | draftkings | 2.75 | 2.21 | 45.3% | 34.0% | 36.8% | +1.3% | +24.7% | 0.2% |
-| Saddiq Bey REB over 4.5 | DEN @ NOP | draftkings | 2.45 | 2.03 | 49.3% | 38.1% | 40.9% | +0.3% | +20.8% | 0.1% |
+| Saddiq Bey REB over 4.5 | DEN @ NOP | draftkings | 2.46 | 2.03 | 49.3% | 38.0% | 40.8% | +0.4% | +21.2% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| DEN win **+** Nikola Jokic 7+ reb | 54.9% | 1.82 | 1.91 | 1.70 | -6.8% |
-| DEN win **+** Nikola Jokic 7+ ast | 50.9% | 1.97 | 2.06 | 1.88 | -4.6% |
-| DeMar DeRozan 3+ ast **+** Nikola Jokic 10+ reb | 42.2% | 2.37 | 2.49 | 2.25 | -5.2% |
+| DEN win **+** Nikola Jokic 35+ pra | 52.0% | 1.92 | 2.02 | 1.83 | -4.8% |
+| DEN win **+** Nikola Jokic 7+ ast | 50.7% | 1.97 | 2.07 | 1.88 | -4.5% |
+| Aaron Gordon 3pm under 1.5 **+** Nikola Jokic 30+ pra | 42.0% | 2.38 | 2.50 | 2.26 | -5.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
