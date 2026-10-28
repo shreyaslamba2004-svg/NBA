@@ -1,0 +1,176 @@
+"""Daily betting sheet as Markdown, rebuilt after every run.
+
+Reads output/<date>/*.csv and writes TODAY.md at the repo root (plus output/<date>/today.md as
+an archive). GitHub renders it as tables on the web and in its mobile app. No API keys: only
+the CSVs the pipeline already writes.
+"""
+from __future__ import annotations
+
+import json
+from datetime import date
+from pathlib import Path
+
+import pandas as pd
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "output"
+TODAY = ROOT / "TODAY.md"
+
+MIN_EV = 0.05          # best-bets threshold
+MAX_STAKE_PCT = 2.0    # cap on quarter-Kelly stake, % of bankroll
+TOP_BETS = 25
+MAX_ODDS = 4.0         # best bets only up to this decimal price
+TOP_SGMS = 10
+STATS = [("pts", "PTS"), ("reb", "REB"), ("ast", "AST"), ("fg3m", "3PM"), ("stl", "STL"), ("blk", "BLK"),
+         ("tov", "TOV"), ("pra", "PRA")]
+
+
+def _c(x) -> str:
+    """Table-safe cell text."""
+    return "" if x is None or (isinstance(x, float) and pd.isna(x)) else str(x).replace("|", "/")
+
+
+def _f(x, nd=2, pct=False, sign=False) -> str:
+    if x is None or pd.isna(x):
+        return "–"
+    v = float(x) * (100 if pct else 1)
+    s = f"{v:+.{nd}f}" if sign else f"{v:.{nd}f}"
+    return s + ("%" if pct else "")
+
+
+def _table(head: list[str], rows: list[list[str]]) -> str:
+    out = ["| " + " | ".join(head) + " |", "|" + "|".join(["---"] + ["--:"] * (len(head) - 1)) + "|"]
+    out += ["| " + " | ".join(_c(x) for x in r) + " |" for r in rows]
+    return "\n".join(out)
+
+
+def _read(d: Path, name: str) -> pd.DataFrame:
+    p = d / f"{name}.csv"
+    try:
+        return pd.read_csv(p) if p.exists() else pd.DataFrame()
+    except pd.errors.EmptyDataError:
+        return pd.DataFrame()
+
+
+def _bet_label(r) -> str:
+    m, sel, line = r["market"], str(r["selection"]), r["line"]
+    if m == "moneyline":
+        return f"{sel} to win"
+    if m == "spread":
+        return f"{sel} {float(line):+g}"
+    if m == "total":
+        return f"Total {sel} {line}"
+    if m == "team_total":
+        return f"{sel} {line}"
+    stat = m.replace("prop_", "").upper().replace("FG3M", "3PM")
+    return f"{r.get('player', '')} {stat} {sel} {line}"
+
+
+def _stake(k) -> str:
+    return "–" if pd.isna(k) else f"{min(MAX_STAKE_PCT, max(0.0, 100 * float(k))):.1f}%"
+
+
+def _bets_table(df: pd.DataFrame) -> str:
+    rows = [[_bet_label(r), r["matchup"], r["book"], _f(r["price_decimal"]), _f(r["fair_decimal"]),
+             _f(r["model_prob"], 1, pct=True), _f(r["market_novig_prob"], 1, pct=True),
+             _f(r["blend_prob"], 1, pct=True), _f(r["ev_blend"], 1, pct=True, sign=True),
+             _f(r["ev"], 1, pct=True, sign=True), _stake(r["kelly_25"])] for _, r in df.iterrows()]
+    return _table(["Bet", "Game", "Book", "Odds", "Fair (model)", "Model", "No-vig mkt", "Blend", "EV", "EV model only",
+                   "Stake"], rows)
+
+
+def best_bets(edges: pd.DataFrame) -> tuple[str, str]:
+    if edges.empty:
+        return "_No market prices were available for this run._", ""
+    e = edges.copy()
+    e["check_news"] = e["check_news"].astype(str).str.lower() == "true"
+    # long shots excluded until the stat-distribution tails are validated in backtests
+    good = e[(e["ev_blend"] >= MIN_EV) & (e["price_decimal"] <= MAX_ODDS)].sort_values("ev_blend", ascending=False)
+    good = good.drop_duplicates(["matchup", "market", "selection", "line", "player"])  # best price per bet
+    clean, flagged = good[~good["check_news"]].head(TOP_BETS), good[good["check_news"]].head(TOP_BETS)
+    main = _bets_table(clean) if len(clean) else "_No bets clear the edge threshold right now._"
+    return main, (_bets_table(flagged) if len(flagged) else "")
+
+
+def sgm_md(sg: pd.DataFrame) -> str:
+    if sg.empty:
+        return "_No same-game multis priced for this run._"
+    s = sg.sort_values("ev_at_multiplied_prices", ascending=False).head(TOP_SGMS)
+    rows = [[str(r["legs"]).replace(" + ", " **+** "), r["matchup"], _f(r["model_prob"], 1, pct=True),
+             _f(r["fair_odds"]), _f(r["min_price_worth_taking"]), _f(r["multiplied_leg_prices"]),
+             _f(r["ev_at_multiplied_prices"], 1, pct=True, sign=True), _f(r["correlation_lift"])]
+            for _, r in s.iterrows()]
+    return (_table(["Legs", "Game", "Chance", "Fair", "Take at ≥", "Legs multiplied", "EV if multiplied", "Corr ×"],
+                   rows) +
+            "\n\nBookies price multis with their own correlation model, so compare their quoted price with "
+            "**Take at ≥**.")
+
+
+def _player_table(ps: pd.DataFrame, team: str) -> str:
+    t = ps[(ps["team"] == team) & (ps["play_prob"] > 0)].sort_values("proj_min", ascending=False)
+    rows = []
+    for _, r in t.iterrows():
+        name = r["player"]
+        if r["play_prob"] < 0.99:
+            name += f" ({_c(r.get('status'))} {int(round(100 * r['play_prob']))}%)"
+        rows.append([name, _f(r["proj_min"], 1)] + [_f(r.get(f"proj_{s}"), 1) for s, _ in STATS])
+    return _table(["Player", "Min"] + [lab for _, lab in STATS], rows)
+
+
+def games_md(g: pd.DataFrame, ps: pd.DataFrame) -> str:
+    if g.empty:
+        return "_No games._"
+    rows = []
+    for _, r in g.iterrows():
+        h, a = r["home"], r["away"]
+        mkt = []
+        if pd.notna(r.get("market_spread_home")):
+            mkt.append(f"{h} {float(r['market_spread_home']):+g} covers {_f(r.get('p_home_cover'), 0, pct=True)}")
+        if pd.notna(r.get("market_total")):
+            mkt.append(f"o{r['market_total']:g} {_f(r.get('p_over'), 0, pct=True)}")
+        rows.append([f"{a} @ {h}", r.get("tip_sydney", ""), f"{_f(r['proj_away_pts'], 1)}–{_f(r['proj_home_pts'], 1)}",
+                     f"{a} {_f(r['away_win_prob'], 0, pct=True)}", f"{_f(r['fair_dec_away'])} / {_f(r['fair_dec_home'])}",
+                     f"{h} {float(r['fair_spread_home']):+g}", r["fair_total"], "; ".join(mkt)])
+    out = [_table(["Game", "Tip (Syd)", "Score", "Away win", "Fair H2H a/h", "Fair line", "Fair total",
+                   "vs market"], rows)]
+    for _, r in g.iterrows():
+        a, h = r["away"], r["home"]
+        out.append(f"\n### {a} @ {h}")
+        if pd.notna(r.get("out")) and r.get("out"):
+            out.append(f"Out: {r['out']}\n")
+        if len(ps):
+            gp = ps[ps["game_id"] == r["game_id"]]
+            for t in (a, h):
+                out.append(f"<details><summary>{t} players</summary>\n\n{_player_table(gp, t)}\n\n</details>\n")
+    return "\n".join(out)
+
+
+def build(day: date) -> Path | None:
+    d = OUT / day.isoformat()
+    if not d.exists():
+        return None
+    g, ps, ed, sg = (_read(d, n) for n in ("games", "players", "edges", "sgm"))
+    gen = "n/a"
+    st = d / "state.json"
+    if st.exists():
+        ts = json.loads(st.read_text()).get("generated")
+        if ts:
+            gen = pd.Timestamp(ts).tz_convert("Australia/Sydney").strftime("%a %d %b, %I:%M %p")
+    bets, flagged = best_bets(ed)
+    parts = [f"# NBA model · {day.strftime('%a %d %b %Y')} (US date)",
+             f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
+             f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
+             "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.",
+             f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})", bets,
+             "## Top same-game multis", sgm_md(sg)]
+    if flagged:
+        parts += ["## Check news first",
+                  "The model and the no-vig market disagree by more than 15 points on these. That's usually late "
+                  "team news the model hasn't seen yet, so confirm before betting.", flagged]
+    parts += ["## Projections", games_md(g, ps),
+              "---\n_Model projections, not advice. Edges are against the best price found at run time. "
+              f"Full data: `output/{day.isoformat()}/`._"]
+    md = "\n\n".join(parts) + "\n"
+    (d / "today.md").write_text(md)
+    TODAY.write_text(md)
+    return TODAY

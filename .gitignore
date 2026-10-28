@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/processed/P.parquet
+data/processed/G.parquet
+models/bundle_backtest.pkl

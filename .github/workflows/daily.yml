@@ -1,0 +1,58 @@
+name: nba-projections
+
+# Times are UTC. Sydney = UTC+10/+11, US Eastern = UTC-4/-5.
+#  - 15:00 UTC  morning snapshot (~1-2am Sydney): grade last night, refresh data, project the
+#               slate, log DraftKings lines + full prop menu (free)
+#  - every 15 min 21:00-05:45 UTC (~8am-4:45pm Sydney): game-day loop. Re-projects whenever
+#               injury/lineup status changes and, ~40 min before each tip, logs props for that
+#               game (AU books via The Odds API: 1 credit per game) + AU game lines once a day.
+# GitHub's scheduler can start jobs several minutes late, so the pre-tip window is 40 min wide.
+on:
+  schedule:
+    - cron: "0 15 * * *"
+    - cron: "*/15 21-23 * * *"
+    - cron: "*/15 0-5 * * *"
+  workflow_dispatch:
+    inputs:
+      command:
+        description: "snapshot or live"
+        default: "live"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nba-projections
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDS_REGIONS: ${{ vars.ODDS_REGIONS || 'au' }}
+          PROP_MARKETS: ${{ vars.PROP_MARKETS || 'player_points' }}
+        run: |
+          CMD="${{ github.event.inputs.command }}"
+          if [ -z "$CMD" ]; then
+            if [ "$(date -u +%H)" = "15" ]; then CMD=snapshot; else CMD=live; fi
+          fi
+          python -m nbamodel.cli $CMD
+      - name: Commit logs
+        run: |
+          git config user.name "nba-model-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f TODAY.md logs output data/processed/current_season_*.parquet data/processed/espn_crosswalk.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "projections $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push
+          fi
