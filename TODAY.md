@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 08:28 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 08:33 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -73,8 +73,8 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.17 | 1.53 | 65.5% | 43.1% | 48.7% | +5.7% | +42.2% | 1.2% |
 | Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.19 | 2.25 | 44.4% | 29.3% | 33.1% | +5.5% | +41.6% | 0.6% |
 | Jake LaRavia PTS under 8.5 | LAL @ LAC | draftkings | 1.90 | 1.34 | 74.5% | 49.2% | 55.5% | +5.5% | +41.6% | 1.5% |
-| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.03 | 2.15 | 46.5% | 30.8% | 34.8% | +5.3% | +40.9% | 0.7% |
 | Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.03 | 1.44 | 69.4% | 46.0% | 51.9% | +5.3% | +40.9% | 1.3% |
+| Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.01 | 2.15 | 46.5% | 31.1% | 34.9% | +5.1% | +39.9% | 0.6% |
 | Jake LaRavia PR under 12.5 | LAL @ LAC | draftkings | 1.93 | 1.38 | 72.3% | 48.3% | 54.3% | +5.1% | +39.9% | 1.4% |
 
 ## Projections
@@ -90,7 +90,7 @@ Game lines below assume every questionable player sits; each game's section show
 | CHA @ DET | Thu 29 Oct 10:00 | 107.9–109.6 | CHA 45% | 2.23 / 1.81 | DET -2.5 | 217.5 | DET -7.5 covers 34%; o212.5 60% |
 | PHI @ IND | Thu 29 Oct 10:00 | 118.0–112.7 | PHI 64% | 1.55 / 2.80 | IND +5.5 | 230.5 | IND +7.5 covers 56%; o234.5 42% |
 | ORL @ TOR | Thu 29 Oct 10:30 | 108.2–113.9 | ORL 34% | 2.94 / 1.52 | TOR -5.5 | 221.5 | TOR -4.5 covers 54%; o223.5 47% |
-| NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
+| NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +7.5 covers 46%; o232.5 45% |
 | HOU @ MIL | Thu 29 Oct 11:00 | 114.8–110.6 | HOU 62% | 1.62 / 2.61 | MIL +4.5 | 225.5 | MIL +8.5 covers 62%; o226.5 47% |
 | GSW @ MIN | Thu 29 Oct 11:00 | 110.8–115.2 | GSW 37% | 2.67 / 1.60 | MIN -4.5 | 225.5 | MIN -3.5 covers 53%; o227.5 46% |
 | DEN @ NOP | Thu 29 Oct 11:00 | 122.0–119.5 | DEN 57% | 1.76 / 2.31 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o240.5 52% |
@@ -558,8 +558,8 @@ Out: Nic Claxton (CHI), Jose Alvarado (NYK)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
-| Expected (weighted by chance each plays) | 119.4–111.0 | NYK 72% | 1.38 / 3.61 | CHI +8.5 | 230.5 | CHI +6.5 covers 44%; o232.5 45% |
+| Confirmed players only | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +7.5 covers 46%; o232.5 45% |
+| Expected (weighted by chance each plays) | 119.4–111.0 | NYK 72% | 1.38 / 3.61 | CHI +8.5 | 230.5 | CHI +7.5 covers 47%; o232.5 45% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -806,8 +806,8 @@ Out: Yves Missi (NOP), Alpha Diallo (DEN), Julian Strawther (DEN)
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | DEN win **+** Nikola Jokic 35+ pra | 52.0% | 1.92 | 2.02 | 1.83 | -4.8% |
-| DEN win **+** Nikola Jokic 7+ ast | 50.7% | 1.97 | 2.07 | 1.88 | -4.5% |
-| Aaron Gordon 3pm under 1.5 **+** Nikola Jokic 30+ pra | 42.0% | 2.38 | 2.50 | 2.26 | -5.0% |
+| Dejounte Murray pts under 17.5 **+** Nikola Jokic 30+ pra | 47.2% | 2.12 | 2.22 | 2.03 | -4.3% |
+| Dejounte Murray pts under 17.5 **+** Nikola Jokic 9+ reb | 42.9% | 2.33 | 2.45 | 2.22 | -4.7% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
