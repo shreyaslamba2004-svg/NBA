@@ -43,6 +43,7 @@ class Bundle:
     blowout: dict = field(default_factory=dict)
     use_blowout: bool = False  # off: did not improve held-out prop probabilities (output/blowout_backtest.md)
     trained_through: str = ""
+    rate_base_fill: dict = field(default_factory=dict)  # set = rate models predict a multiplier
 
     def save(self, path: Path | None = None):
         path = path or MODELS / "bundle.pkl"
@@ -80,17 +81,33 @@ def fit_minutes(P: pd.DataFrame, half_life: float | None = None) -> lgb.LGBMRegr
     return m
 
 
-def fit_rates(P: pd.DataFrame, half_life: float | None = None) -> dict:
+def rate_base(P: pd.DataFrame, stat: str, fill: float | None = None) -> pd.Series:
+    """Player's own recent per-minute rate: the starting point the rate model adjusts."""
+    rs, rl = P[f"{stat}_r_s"], P[f"{stat}_r_l"]
+    base = 0.6 * rs.fillna(rl) + 0.4 * rl.fillna(rs)
+    if fill is not None:
+        base = base.fillna(fill)
+    return base.clip(lower=0.005)
+
+
+def fit_rates(P: pd.DataFrame, half_life: float | None = None) -> tuple[dict, dict]:
+    """Per-minute rate models, fit as a multiplier on the player's own recent rate.
+
+    Predicting the rate directly made the trees shrink the best players toward average (top-1%
+    passers ~3.5% low, shooters ~11% low on held-out games); predicting the adjustment instead
+    halves that and slightly lowers overall error (see README)."""
     d = _played(P)
     d = d[d["min"] >= 4]
-    w = d["min"].values * season_weight(d["season"], half_life)
-    out = {}
+    out, fill = {}, {}
     for s in SIM_STATS:
         f = rate_feats(s)
+        fill[s] = float((d[s].sum() / d["min"].sum()))
+        base = rate_base(d, s, fill[s])
+        w = d["min"].values * base.values * season_weight(d["season"], half_life)
         m = lgb.LGBMRegressor(objective="regression", **LGB_PARAMS)
-        m.fit(d[f], d[s] / d["min"], sample_weight=w)
+        m.fit(d[f], (d[s] / d["min"]) / base, sample_weight=w)
         out[s] = m
-    return out
+    return out, fill
 
 
 def fit_team(G: pd.DataFrame, half_life: float | None = None) -> tuple[lgb.LGBMRegressor, lgb.LGBMRegressor]:
@@ -141,6 +158,9 @@ def predict_team(b: Bundle, G: pd.DataFrame) -> tuple[np.ndarray, np.ndarray]:
 
 def predict_rates(b: Bundle, P: pd.DataFrame) -> pd.DataFrame:
     feats = lambda s: b.rate_features.get(s) or rate_feats(s)  # noqa: E731
+    if getattr(b, "rate_base_fill", None):  # ratio models: multiplier on the player's own recent rate
+        return pd.DataFrame({s: np.clip(m.predict(P[feats(s)]), 0, None) * rate_base(P, s, b.rate_base_fill[s]).values
+                             for s, m in b.rates.items()}, index=P.index)
     return pd.DataFrame({s: np.clip(m.predict(P[feats(s)]), 0, None) for s, m in b.rates.items()},
                         index=P.index)
 
@@ -178,7 +198,7 @@ def train(P: pd.DataFrame, G: pd.DataFrame, through_season: str, calib_season: s
     tr_p, tr_g = P[sel_p], G[sel_g]
     b = Bundle(trained_through=through_season)
     b.minutes = fit_minutes(tr_p, half_life)
-    b.rates = fit_rates(tr_p, half_life)
+    b.rates, b.rate_base_fill = fit_rates(tr_p, half_life)
     b.rate_features = {s: rate_feats(s) for s in SIM_STATS}
     b.min_features, b.game_features = min_feats(), game_feats()
     b.margin, b.total = fit_team(tr_g, half_life)
