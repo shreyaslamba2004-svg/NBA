@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 03:20 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 03:23 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -12,16 +12,16 @@ Updated **Thu 29 Oct, 03:20 AM** Sydney time. Decimal odds. Stakes are quarter-K
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied | Corr × |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pa over 9.5 | OKC @ DAL | 40.7% | 2.46 | 2.58 | 2.49 | +1.6% | 1.02 |
-| Shai Gilgeous-Alexander ast over 5.5 **+** OKC win | OKC @ DAL | 43.0% | 2.33 | 2.44 | 2.35 | +1.1% | 1.02 |
+| Trae Young pra under 33.5 **+** CLE win | WAS @ CLE | 43.5% | 2.30 | 2.42 | 2.44 | +6.2% | 1.02 |
+| Trae Young pa under 31.5 **+** CLE win | WAS @ CLE | 45.3% | 2.21 | 2.32 | 2.33 | +5.5% | 1.02 |
+| Trae Young ra under 12.5 **+** CLE win | WAS @ CLE | 42.4% | 2.36 | 2.47 | 2.45 | +4.2% | 1.02 |
+| Trae Young pts under 20.5 **+** CLE win | WAS @ CLE | 42.7% | 2.34 | 2.46 | 2.43 | +4.0% | 1.02 |
+| Trae Young pr under 23.5 **+** CLE win | WAS @ CLE | 43.5% | 2.30 | 2.41 | 2.38 | +3.6% | 1.02 |
+| Trae Young ast under 10.5 **+** CLE win | WAS @ CLE | 46.9% | 2.13 | 2.24 | 2.20 | +3.2% | 1.01 |
+| Trae Young fg3m under 2.5 **+** CLE win | WAS @ CLE | 42.2% | 2.37 | 2.49 | 2.44 | +3.1% | 1.01 |
+| Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pa over 9.5 | OKC @ DAL | 41.2% | 2.43 | 2.55 | 2.45 | +1.1% | 1.02 |
 | Luka Doncic pts under 32.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 42.4% | 2.36 | 2.48 | 2.38 | +0.6% | 1.00 |
-| Shai Gilgeous-Alexander ast over 5.5 **+** Isaiah Hartenstein ast over 2.5 | OKC @ DAL | 40.6% | 2.46 | 2.59 | 2.48 | +0.5% | 1.02 |
 | Shai Gilgeous-Alexander ra over 10.5 **+** Isaiah Hartenstein pr over 14.5 | OKC @ DAL | 42.7% | 2.34 | 2.46 | 2.35 | +0.5% | 1.01 |
-| Luka Doncic pa under 40.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 41.9% | 2.39 | 2.51 | 2.40 | +0.3% | 1.00 |
-| Luka Doncic pr under 40.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 43.6% | 2.29 | 2.41 | 2.30 | +0.2% | 1.00 |
-| Shai Gilgeous-Alexander ast over 5.5 **+** Isaiah Hartenstein pa over 9.5 | OKC @ DAL | 46.9% | 2.13 | 2.24 | 2.14 | +0.1% | 1.01 |
-| Isaiah Hartenstein pr over 19.5 **+** Shai Gilgeous-Alexander ast over 4.5 | OKC @ DAL | 40.8% | 2.45 | 2.57 | 2.45 | +0.0% | 1.01 |
-| Luka Doncic pra under 48.5 **+** Brook Lopez pts over 7.5 | LAL @ LAC | 43.0% | 2.32 | 2.44 | 2.33 | +0.0% | 1.00 |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**.
 
@@ -31,12 +31,12 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 2.99 | Ajay Mitchell | 65.6% | 47.7% | +11.8% |
+| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 3.03 | Ajay Mitchell | 65.6% | 47.7% | +12.3% |
 | Aday Mara REB over 8.5 | OKC @ DAL | draftkings | 3.68 | Ajay Mitchell | 55.9% | 35.6% | +11.7% |
 | Lauri Markkanen PTS over 24.5 | SAS @ UTA | draftkings | 3.65 | Lauri Markkanen | void | 48.0% | +10.8% |
-| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.83 | Marcus Smart | 86.0% | 90.5% | +10.5% |
+| Ajay Mitchell AST over 5.5 | OKC @ DAL | draftkings | 3.85 | Ajay Mitchell | void | 40.7% | +9.5% |
+| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.77 | Marcus Smart | 86.0% | 90.5% | +9.2% |
 | Andrew Nembhard PRA over 29.5 | PHI @ IND | draftkings | 3.28 | Andrew Nembhard | void | 58.5% | +9.0% |
-| Ajay Mitchell AST over 5.5 | OKC @ DAL | draftkings | 3.80 | Ajay Mitchell | void | 40.7% | +9.0% |
 | Ace Bailey PA over 19.5 | SAS @ UTA | draftkings | 3.63 | Lauri Markkanen | 59.4% | 34.3% | +8.5% |
 | Lauri Markkanen PA over 24.5 | SAS @ UTA | draftkings | 2.74 | Lauri Markkanen | void | 58.7% | +7.5% |
 | Andrew Nembhard AST over 8.5 | PHI @ IND | draftkings | 2.92 | Andrew Nembhard | void | 57.3% | +7.3% |
@@ -44,10 +44,9 @@ These look good but hinge on a questionable player. The model's chance is shown 
 | Isaiah Hartenstein PR over 24.5 | OKC @ DAL | draftkings | 3.66 | Ajay Mitchell | 46.1% | 34.5% | +6.9% |
 | Ace Bailey PR over 24.5 | SAS @ UTA | draftkings | 3.93 | Lauri Markkanen | 54.6% | 29.6% | +6.8% |
 | Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.91 | AJ Dybantsa | 70.1% | 81.2% | +6.6% |
+| Shai Gilgeous-Alexander AST over 6.5 | OKC @ DAL | draftkings | 2.12 | Ajay Mitchell | 75.8% | 60.1% | +6.2% |
 | Ace Bailey PTS over 17.5 | SAS @ UTA | draftkings | 3.78 | Lauri Markkanen | 54.1% | 30.2% | +6.1% |
 | Trae Young PA under 31.5 | WAS @ CLE | draftkings | 1.82 | AJ Dybantsa | 73.0% | 83.0% | +5.9% |
-| Shai Gilgeous-Alexander AST over 6.5 | OKC @ DAL | draftkings | 2.10 | Ajay Mitchell | 75.8% | 60.1% | +5.6% |
-| Trae Young RA under 12.5 | WAS @ CLE | draftkings | 1.94 | AJ Dybantsa | 65.7% | 77.2% | +5.3% |
 | Tyrese Haliburton REB over 5.5 | PHI @ IND | draftkings | 3.75 | Tyrese Haliburton | void | 40.7% | +5.1% |
 
 ## Check news first
@@ -56,21 +55,20 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Clint Capela PR under 14.5 | HOU @ MIL | draftkings | 1.94 | 1.09 | 91.8% | 48.1% | 59.0% | +14.7% | +78.5% | 2.0% |
-| Clint Capela PTS under 7.5 | HOU @ MIL | draftkings | 1.84 | 1.09 | 91.3% | 50.8% | 60.9% | +12.1% | +68.1% | 2.0% |
+| Clint Capela PR under 14.5 | HOU @ MIL | draftkings | 1.87 | 1.09 | 91.8% | 50.0% | 60.5% | +13.0% | +71.7% | 2.0% |
+| Clint Capela PTS under 7.5 | HOU @ MIL | draftkings | 1.81 | 1.09 | 91.3% | 51.5% | 61.5% | +11.5% | +65.6% | 2.0% |
 | Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.91 | 1.19 | 84.0% | 48.9% | 57.7% | +10.2% | +60.3% | 2.0% |
 | Aaron Wiggins 3PM under 1.5 | MIA @ ATL | draftkings | 2.33 | 1.56 | 64.2% | 40.1% | 46.1% | +7.5% | +49.6% | 1.4% |
 | Aaron Wiggins PTS under 12.5 | MIA @ ATL | draftkings | 1.95 | 1.31 | 76.4% | 47.9% | 55.0% | +7.4% | +49.2% | 1.9% |
 | Aaron Wiggins PA under 14.5 | MIA @ ATL | draftkings | 1.91 | 1.29 | 77.2% | 49.0% | 56.0% | +7.0% | +47.4% | 1.9% |
 | Kobe Sanders PR under 15.5 | LAL @ LAC | draftkings | 1.97 | 1.35 | 74.3% | 47.4% | 54.1% | +6.7% | +46.5% | 1.7% |
 | Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.30 | 1.60 | 62.6% | 40.6% | 46.1% | +6.1% | +43.9% | 1.2% |
-| Jabari Smith Jr. AST over 2.5 | HOU @ MIL | draftkings | 3.14 | 2.19 | 45.7% | 29.8% | 33.8% | +6.0% | +43.6% | 0.7% |
 | Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.07 | 1.45 | 68.8% | 45.1% | 51.1% | +5.7% | +42.4% | 1.3% |
 | Aaron Wiggins PR under 16.5 | MIA @ ATL | draftkings | 1.80 | 1.27 | 78.9% | 51.9% | 58.7% | +5.6% | +42.0% | 1.8% |
-| Paul Reed REB under 9.5 | CHA @ DET | draftkings | 1.72 | 1.22 | 82.3% | 54.4% | 61.3% | +5.5% | +41.5% | 1.9% |
-| Tyler Herro PR under 25.5 | HOU @ MIL | draftkings | 1.95 | 1.38 | 72.2% | 47.9% | 54.0% | +5.4% | +41.1% | 1.4% |
+| Paul Reed REB under 9.5 | CHA @ DET | draftkings | 1.71 | 1.22 | 82.3% | 54.5% | 61.5% | +5.4% | +41.0% | 1.9% |
 | Dennis Schroder RA under 8.5 | CHA @ DET | draftkings | 1.99 | 1.42 | 70.6% | 47.1% | 52.9% | +5.4% | +40.5% | 1.4% |
 | Kobe Sanders PTS under 12.5 | LAL @ LAC | draftkings | 1.91 | 1.36 | 73.7% | 48.9% | 55.1% | +5.3% | +40.7% | 1.5% |
+| Tyler Herro PR under 25.5 | HOU @ MIL | draftkings | 1.93 | 1.38 | 72.2% | 48.3% | 54.3% | +5.0% | +39.8% | 1.4% |
 
 ## Projections
 
