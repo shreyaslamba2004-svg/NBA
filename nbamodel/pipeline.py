@@ -403,6 +403,15 @@ def props_market(slate: pd.DataFrame, pg: pd.DataFrame | None = None,
     return pd.concat(frames, ignore_index=True) if frames else None
 
 
+def props_hash(props: pd.DataFrame | None) -> str:
+    """Fingerprint of a prop menu's lines and prices (detects when DraftKings moves anything)."""
+    if props is None or props.empty:
+        return ""
+    cols = [c for c in ("game_id", "player_id", "stat", "market", "side", "line", "price") if c in props]
+    rows = props[cols].astype(str).agg("|".join, axis=1).sort_values()
+    return hashlib.sha1("\n".join(rows).encode()).hexdigest()
+
+
 def live_key_available() -> bool:
     import os
     return bool(os.environ.get("ODDS_API_KEY"))
@@ -440,6 +449,8 @@ def write_outputs(day: date, res: dict, tag: str = "") -> Path:
     d = OUT / day.isoformat()
     d.mkdir(parents=True, exist_ok=True)
     for k, v in res.items():
+        if k == "edges" and "ev_blend" in v:  # the sheet only lists value; the full menu is in logs/
+            v = v[v["ev_blend"] > 0]
         v.to_csv(d / f"{k}{tag}.csv", index=False)
     return d
 

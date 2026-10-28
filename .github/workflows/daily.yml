@@ -1,18 +1,21 @@
 # Times are UTC. Sydney = UTC+10/+11, US Eastern = UTC-4/-5.
 #  - 13:00 UTC  morning snapshot (~11pm-midnight Sydney, ~9am ET): grade last night, refresh data,
 #               project the slate, log DraftKings lines + full prop menu (free)
-#  - every 15 min 14:00-05:45 UTC: game-day loop. It reads that day's actual tip times and does
-#               nothing until 2 hours before the first tip, so early games (US weekend/holiday
-#               afternoons, Europe/Mexico games, ~3-7am Sydney) are covered as well as the usual
-#               ~10am-2pm Sydney slate. Re-projects whenever injury/lineup status changes and, ~40 min
-#               before each tip, buys that game's AU-book props (The Odds API: 1 credit per game)
-#               + AU game lines once a day. Free on a public repo (Actions minutes are unlimited).
+#  - every 10 min 14:00-05:50 UTC, and every 5 min when a game tips within 2 hours: game-day
+#               loop. Checks injuries/lineups and the free DraftKings props (ESPN) on every run and
+#               re-projects when either changed, so early games (US weekend afternoons, Europe/Mexico
+#               games, ~3-7am Sydney) are covered as well as the usual ~10am-2pm Sydney slate.
+#               ~40 min before each tip it buys that game's AU-book props (The Odds API: 1 credit
+#               per game) + AU game lines once a day. Free on a public repo (Actions minutes are
+#               unlimited); nothing is committed when nothing changed.
 # GitHub's scheduler can start jobs several minutes late, so the pre-tip window is 40 min wide.
 on:
   schedule:
     - cron: "0 13 * * *"
-    - cron: "*/15 14-23 * * *"
-    - cron: "*/15 0-5 * * *"
+    - cron: "*/10 14-23 * * *"
+    - cron: "*/10 0-5 * * *"
+    - cron: "5-55/10 14-23 * * *"
+    - cron: "5-55/10 0-5 * * *"
   workflow_dispatch:
     inputs:
       command:
@@ -54,7 +57,11 @@ jobs:
         run: |
           CMD="${{ github.event.inputs.command }}"
           if [ -z "$CMD" ]; then
-            if [ "${{ github.event.schedule }}" = "0 13 * * *" ]; then CMD=snapshot; else CMD=live; fi
+            case "${{ github.event.schedule }}" in
+              "0 13 * * *") CMD=snapshot ;;
+              5-55/10*) CMD="live --near-tip-only" ;;
+              *) CMD=live ;;
+            esac
           fi
           python -m nbamodel.cli $CMD
       - name: Commit logs

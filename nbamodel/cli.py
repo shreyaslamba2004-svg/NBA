@@ -2,7 +2,7 @@
 
   python -m nbamodel.cli run   [--date YYYY-MM-DD] [--no-props]
   python -m nbamodel.cli snapshot --kind open|pretip   (scheduled: logs lines, props, projections)
-  python -m nbamodel.cli live      (scheduled every 15 min on game days; see cmd_live)
+  python -m nbamodel.cli live      (scheduled every 10 min, 5 min near tips; see cmd_live)
   python -m nbamodel.cli sgm --game LAL --legs "..." --price 4.2   (value-check a quoted multi)
   python -m nbamodel.cli watch [--date YYYY-MM-DD] [--every 10]
       Re-checks rosters + injury reports every N minutes and re-projects the slate whenever
@@ -100,11 +100,12 @@ LOOKAHEAD_MIN = 120
 
 
 def cmd_live(a):
-    """Game-day loop step (run every 15 min by the scheduler, from ~2h before the first tip).
+    """Game-day loop step: every 10 min all game day, every 5 min within 2h of a tip (scheduler).
 
     Each call (all free except where noted):
-      - re-checks injury reports + rosters; re-projects the slate if anyone's status changed
-      - logs DraftKings game lines from ESPN
+      - re-checks injury reports + rosters, and fetches DraftKings props from ESPN; re-projects
+        the slate (and TODAY.md) if anyone's status or any DraftKings prop price changed
+      - logs DraftKings game lines from ESPN (from ~2h before the first tip)
       - for each game entering its pre-tip window (~40 min before tip), once per game:
           ESPN DraftKings props for that game, AU-book props from The Odds API (1 credit per
           prop market), and, once per day, every AU book's game lines (3 credits)
@@ -122,16 +123,20 @@ def cmd_live(a):
         print("all games started")
         return
     up["mins_to_tip"] = (pd.to_datetime(up["tip_utc"], utc=True) - now).dt.total_seconds() / 60
-    if up["mins_to_tip"].min() > LOOKAHEAD_MIN:
-        print(f"first tip in {up['mins_to_tip'].min():.0f} min; nothing to do yet")
+    if getattr(a, "near_tip_only", False) and up["mins_to_tip"].min() > LOOKAHEAD_MIN:
+        print(f"next tip in {up['mins_to_tip'].min():.0f} min; the 10-minute run covers this")
         return
     state_p = market_log.LOGS / "state" / f"{day.isoformat()}.json"
-    state = json.loads(state_p.read_text()) if state_p.exists() else {"pretip_done": [], "hash": "",
-                                                                         "book_lines": False}
+    state = {"pretip_done": [], "hash": "", "book_lines": False, "dk_hash": ""}
+    if state_p.exists():
+        state.update(json.loads(state_p.read_text()))
     slate = up[["game_id", "game_date", "home", "away", "tip_utc"]]
     pg, _ = pipeline.load_history()
     sp, _ = pipeline.availability(slate, day, pg)
     h = pipeline.availability_hash(sp)
+    # free DraftKings props (via ESPN) every run, so value shows up early; AU books are bought pre-tip
+    dk = pipeline.props_market(slate, pg, use_odds_api=False)
+    dk_hash = pipeline.props_hash(dk)
     entering = up[(up["mins_to_tip"] <= PRETIP_MIN) & ~up["game_id"].isin(state["pretip_done"])]
     if len(entering):  # buy prices first so this run's edges use them
         market_log.log_props(entering, snap, use_odds_api=True)
@@ -139,15 +144,23 @@ def cmd_live(a):
             market_log.log_book_lines(snap)
             state["book_lines"] = True
         state["pretip_done"] += [int(g) for g in entering["game_id"]]
-    if h != state["hash"] or len(entering):
-        print("re-projecting:", "availability changed" if h != state["hash"] else "pre-tip window")
+    news = h != state["hash"] or len(entering)
+    if news or dk_hash != state["dk_hash"]:
+        print("re-projecting:", "availability changed" if h != state["hash"] else
+              "pre-tip window" if len(entering) else "DraftKings props moved")
+        props = pipeline.latest_props(slate)
+        if dk is not None:  # this run's DraftKings prices replace the last logged ones
+            keep = props[props["source"] != "espn"] if props is not None else None
+            props = pd.concat([keep, dk.assign(snapshot_utc=snap)], ignore_index=True)
         res = pipeline.project(day, slate.drop(columns=["tip_utc"]), sp, Bundle.load(),
-                               market=pipeline.market_lines(slate), props=pipeline.latest_props(slate),
+                               market=pipeline.market_lines(slate), props=props,
                                book_lines=pipeline.latest_book_lines(slate))
         pipeline.finish(day, res, sp, slate)
-        market_log.log_projections(day, res, f"{snap}|live")
-        state["hash"] = h
-    market_log.log_game_lines(slate, snap)
+        if news:  # the graded log keeps news-driven runs only (keeps the repo small)
+            market_log.log_projections(day, res, f"{snap}|live")
+        state["hash"], state["dk_hash"] = h, dk_hash
+    if up["mins_to_tip"].min() <= LOOKAHEAD_MIN:
+        market_log.log_game_lines(slate, snap)
     state_p.parent.mkdir(parents=True, exist_ok=True)
     state_p.write_text(json.dumps(state))
     tips = ", ".join(f"{r.away}@{r.home} {pd.Timestamp(r.tip_utc).tz_convert(SYDNEY):%H:%M}"
@@ -191,6 +204,9 @@ def main():
             p.add_argument("--game", required=True, help="either team's code, e.g. LAL")
             p.add_argument("--legs", required=True, help='e.g. "LeBron James pts over 24.5; LAL win"')
             p.add_argument("--price", type=float, required=True, help="bookie's decimal price")
+        if name == "live":
+            p.add_argument("--near-tip-only", action="store_true",
+                           help="skip unless a game tips within 2 hours (the in-between 5-minute runs)")
         if name == "watch":
             p.add_argument("--every", type=int, default=10, help="minutes between injury checks")
         p.set_defaults(fn=fn)

@@ -33,7 +33,8 @@ def _contrib(r) -> dict:
     return {"vac_min": -m, "vac_usage": -m * f("usage_r_s"), "vac_value": -m * f("value_r"),
             "vac_pts": -m * f("pts_r_s"), "vac_ast": -m * f("ast_r_s"), "vac_reb": -m * f("reb_r_s"),
             "vac_starters": -f("starter_s"), "n_absent": -1.0, "n_star_absent": -float(m >= 28),
-            "avail_value": m * f("value_r")}
+            "avail_value": m * f("value_r"),
+            **({f"vac_min_{r['pos']}": -m} if r.get("pos") in ("G", "F", "C") else {})}
 
 
 def counted_absent(r) -> bool:
@@ -63,6 +64,8 @@ def switch_in(Pg: pd.DataFrame, Gg: pd.DataFrame, r: dict) -> tuple[pd.DataFrame
         Pg.loc[mates, "mates_min"] += m
     if "mates_usage" in Pg:
         Pg.loc[mates, "mates_usage"] += m * float(np.nan_to_num(r.get("usage_r_s", 0.0)))
+    if "vac_min_same_pos" in Pg and r.get("pos") in ("G", "F", "C"):
+        Pg.loc[own & (Pg["pos"] == r["pos"]), "vac_min_same_pos"] -= m
     if "vac_min_share" in Pg:
         Pg["vac_min_share"] = Pg["vac_min"] / 240
     for f in ("avail_value", "vac_value", "roster_value"):

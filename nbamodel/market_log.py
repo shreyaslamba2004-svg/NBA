@@ -15,7 +15,6 @@ from __future__ import annotations
 from datetime import date
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 
 from .sources import espn, live
@@ -41,14 +40,19 @@ def _append(path: Path, df: pd.DataFrame) -> None:
 def _read_log(path: Path) -> pd.DataFrame:
     """Read a log even if an older version appended rows with extra columns under an old header."""
     import csv
+    import io
     with path.open() as f:
         rows = list(csv.reader(f))
     head, body = rows[0], rows[1:]
     width = max(len(r) for r in body) if body else len(head)
     if width > len(head):
         head = head + [f"_extra{i}" for i in range(width - len(head))]
-    return pd.DataFrame([r + [""] * (width - len(r)) for r in body], columns=head).replace("", np.nan).apply(
-        pd.to_numeric, errors="ignore")
+    buf = io.StringIO()
+    w = csv.writer(buf)
+    w.writerow(head)
+    w.writerows(r + [""] * (width - len(r)) for r in body)
+    buf.seek(0)
+    return pd.read_csv(buf, low_memory=False)  # same type inference as a normal read
 
 
 def log_game_lines(slate: pd.DataFrame, snapshot: str) -> pd.DataFrame:

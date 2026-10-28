@@ -8,8 +8,8 @@ import pandas as pd
 
 from .context import (add_depth, add_rest_habits, add_standings, add_travel, award_games_pressure,
                       referee_factors)
-from .features import (ARCH_STATS, PROP_STATS, RATE_STATS, archetype_defense, assign_archetypes,
-                       player_features, roster_absences, team_features, team_game_table)
+from .features import (ARCH_STATS, LONG_HL, PROP_STATS, RATE_STATS, SHORT_HL, _ewm, archetype_defense,
+                       assign_archetypes, player_features, roster_absences, team_features, team_game_table)
 
 DATA = Path(__file__).resolve().parents[1] / "data" / "processed"
 MODELS = Path(__file__).resolve().parents[1] / "models"
@@ -29,8 +29,14 @@ CONTEXT_GROUPS = {
                    "seed_locked"],
 }
 GAME_CONTEXT = {"referees": ["crew_fouls", "crew_fta", "crew_pts"]}
+REP_MIN = ["min_s_rep", "min_l_rep", "min_season_s", "min_stint_s", "min_stint"]
+REP_RATE_STATS = ["pts", "reb", "ast", "fg3m", "stl", "blk", "tov", "fga", "fta", "fg3a", "usage"]
 PLAYER_CONTEXT = {"shooting_luck": ["fg3_pct_s", "fg3_pct_l", "ts_s", "ts_l", "fg3_luck", "ts_luck"],
-                  "award_pressure": ["award_pressure"]}
+                  "award_pressure": ["award_pressure"],
+                  # minutes left by absent teammates who play the same position
+                  "pos_absence": ["vac_min_same_pos"],
+                  # representative history: form that skips comeback/blowout games and restarts by season/team
+                  "rep_history": REP_MIN + [f"{s}_r_{k}" for s in REP_RATE_STATS for k in ("stint", "season")]}
 DISABLED: set[str] = set()  # names of groups to leave out of the models
 
 
@@ -60,6 +66,43 @@ def load_history() -> tuple[pd.DataFrame, pd.DataFrame]:
         g = pd.concat([g, pd.read_parquet(DATA / "current_season_games.parquet")],
                       ignore_index=True).drop_duplicates("game_id", keep="last")
     return pg, g
+
+
+REP_RETURN_GAMES = 5   # first games back from a long absence (often on a minutes limit)
+REP_BLOWOUT = 25       # final margin at/above which starters sit and benches play
+
+
+def add_rep_history(pf: pd.DataFrame, games: pd.DataFrame) -> None:
+    """Representative-history features (in place).
+
+    Minutes form that ignores the first games back from a long absence and blowouts; and minutes and
+    per-minute rates that restart each season and with each new team, so a traded player or a changed
+    role shows up after a few games instead of being averaged with the old one.
+    """
+    pid = pf["player_id"]
+    stint = (pf["team"] != pf.groupby("player_id")["team"].shift(1)).groupby(pid).cumsum()
+    g = games.set_index("game_id")
+    margin = (g["home_pts"] - g["away_pts"]).abs().reindex(pf["game_id"]).values
+    # a comeback is a long absence within a season, or a full season+ away (not just the off-season)
+    days_out = (pf["game_date"] - pf.groupby("player_id")["game_date"].shift(1)).dt.days
+    same_season = pf["season"] == pf.groupby("player_id")["season"].shift(1)
+    opened = pf["season"].map(games.groupby("season")["game_date"].min())
+    late_start = ~same_season & ((pf["game_date"] - opened).dt.days >= 21)  # missed the start of a season
+    back = (((pf["games_missed"] >= 10) | (days_out >= 30)) & same_season) | late_start | (days_out >= 400)
+    since = pf.groupby([pid, back.astype(int).groupby(pid).cumsum()]).cumcount()
+    rep = ~(back.groupby(pid).cumsum().gt(0) & (since < REP_RETURN_GAMES)) & ~(margin >= REP_BLOWOUT)
+    m_rep = pf["min"].where(rep)
+    pf["min_s_rep"] = _ewm(m_rep, pid, SHORT_HL)
+    pf["min_l_rep"] = _ewm(m_rep, pid, LONG_HL)
+    pf["min_season_s"] = _ewm(m_rep, [pid, pf["season"]], 4)
+    pf["min_stint_s"] = _ewm(m_rep, [pid, stint], 4)
+    pf["min_stint"] = pf.groupby([pid, stint])["min"].transform(lambda x: x.shift(1).expanding().mean())
+    pf["usage"] = pf["fga"] + 0.44 * pf["fta"] + pf["tov"]
+    for name, keys in (("stint", [pid, stint]), ("season", [pid, pf["season"]])):
+        cm = pf.groupby(keys)["min"].shift(1).groupby(keys).cumsum()
+        for s in REP_RATE_STATS:
+            cs = pf.groupby(keys)[s].shift(1).groupby(keys).cumsum()
+            pf[f"{s}_r_{name}"] = (cs / cm).where(cm >= 30)
 
 
 def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = None,
@@ -115,7 +158,9 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     if slate is not None and len(slate):
         tmask = pg_for_abs["is_target"]
         pg_for_abs.loc[tmask, "min"] = np.where(pg_for_abs.loc[tmask, "play_prob"] >= 0.5, 1.0, 0.0)
-    ab = roster_absences(pg_for_abs, pf, tf, pit_out=pit_out)
+    posf = DATA / "positions.parquet"
+    pos_map = pd.read_parquet(posf).set_index("player_id")["pos"].to_dict() if posf.exists() else {}
+    ab = roster_absences(pg_for_abs, pf, tf, pit_out=pit_out, pos=pos_map)
     tf = tf.merge(ab[["game_id", "team", "n_star_absent"]], on=["game_id", "team"], how="left")
     tf = add_standings(add_rest_habits(add_depth(add_travel(tf), hist_pg)))
 
@@ -149,6 +194,7 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     pf["games_since_return"] = np.where(ret_id > 0, pf.groupby([pf["player_id"], ret_id]).cumcount(), 99)
     pf["games_since_return"] = pf["games_since_return"].clip(upper=99)
     pf["last_absence_len"] = pf["games_missed"].where(long_abs).groupby(pf["player_id"]).ffill().fillna(0)
+    add_rep_history(pf, games)
 
     own = tf[["game_id", "team", "opp", "is_home"] + TEAM_FEATS +
              [c for c in tf.columns if c.startswith("allow_") and c.endswith("_l")]]
@@ -171,6 +217,9 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     P["pos"] = P["pos"].fillna(P["arch"].map(arch_pos))
     P = P.merge(archetype_defense(P, group="pos", prefix="opp_pos_"), on=["game_id", "opp", "pos"], how="left")
     P["pos_code"] = P["pos"].map({"G": 0, "F": 1, "C": 2})
+    P["vac_min_same_pos"] = 0.0
+    for k in ("G", "F", "C"):
+        P.loc[P["pos"] == k, "vac_min_same_pos"] = P.loc[P["pos"] == k, f"vac_min_{k}"]
     P["exp_pace"] = (P["pace_l"] + P["opp_pace_l"]) / 2
     P["vac_min_share"] = P["vac_min"] / 240
     P["award_pressure"] = award_games_pressure(P)
@@ -211,7 +260,9 @@ def min_feats() -> list[str]:
     ctx = _ctx_feats({k: v for k, v in CONTEXT_GROUPS.items() if k in ("travel", "schedule_load",
                                                                        "rotation_depth", "rest_habits",
                                                                        "motivation")})
-    return (PLAYER_MIN_FEATS + ctx + _ctx_feats({"award_pressure": PLAYER_CONTEXT["award_pressure"]}) +
+    rep = (REP_MIN + ["usage_r_stint", "usage_r_season"]) if "rep_history" not in DISABLED else []
+    rep += _ctx_feats({"pos_absence": PLAYER_CONTEXT["pos_absence"]})
+    return (PLAYER_MIN_FEATS + ctx + _ctx_feats({"award_pressure": PLAYER_CONTEXT["award_pressure"]}) + rep +
             (["starter_today"] if "late_news" not in DISABLED else []))
 
 
@@ -224,6 +275,10 @@ def rate_feats(stat: str) -> list[str]:
     if stat in ("reb", "ast", "fg3m", "stl", "blk", "tov", "pts"):
         f.append(f"opp_allow_{stat}_pp_l")
     f += _ctx_feats({k: v for k, v in CONTEXT_GROUPS.items() if k in ("travel", "schedule_load", "motivation")})
+    f += _ctx_feats({"pos_absence": PLAYER_CONTEXT["pos_absence"]})
+    if "rep_history" not in DISABLED:
+        f += ["min_s_rep", "min_season_s", "min_stint_s", "usage_r_stint", "usage_r_season"]
+        f += [f"{stat}_r_stint", f"{stat}_r_season"] if stat in REP_RATE_STATS else []
     if stat in ("pts", "fg3m", "fga", "fta"):
         f += _ctx_feats({"shooting_luck": PLAYER_CONTEXT["shooting_luck"]})
     if stat in ("pts", "fta", "pf"):

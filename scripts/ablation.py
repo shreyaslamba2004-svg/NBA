@@ -20,7 +20,7 @@ from scripts.train_backtest import team_normalise  # noqa: E402
 
 THRU, TEST = "2023-24", "2025-26"
 FACTORS = ["travel", "schedule_load", "rotation_depth", "rest_habits", "motivation", "referees",
-           "shooting_luck", "award_pressure", "late_news"]
+           "shooting_luck", "award_pressure", "late_news", "rep_history"]
 STATS = ["pts", "reb", "ast", "fg3m"]
 
 

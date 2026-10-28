@@ -211,7 +211,10 @@ def build(day: date) -> Path | None:
              f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
              "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.",
-             f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})", bets,
+             f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})",
+             "DraftKings prices refresh every 10 minutes (5 near tip). Australian books are priced about 40 "
+             "minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, "
+             "so check Sportsbet's line and price, and use the Fair column as your minimum odds.", bets,
              "## Top same-game multis (price ≤ 2.5)", sgm_md(sg)]
     if waiting:
         parts += ["## Wait for news",

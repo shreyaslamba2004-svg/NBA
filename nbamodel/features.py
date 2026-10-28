@@ -129,13 +129,15 @@ def player_features(pg: pd.DataFrame) -> pd.DataFrame:
 
 
 def roster_absences(pg: pd.DataFrame, pf: pd.DataFrame, tg: pd.DataFrame, lookback: int = 10,
-                    pit_out: dict | None = None) -> pd.DataFrame:
+                    pit_out: dict | None = None, pos: dict | None = None) -> pd.DataFrame:
     """For each team-game: which recent rotation players did not play, and what they leave behind.
 
     'Rostered' = played for the team in any of its previous `lookback` games and has not since
     appeared for another team. Absent = rostered but not in this game's box. Their pre-game
-    projections (minutes/usage/value EWMAs) are summed as vacated resources.
+    projections (minutes/usage/value EWMAs) are summed as vacated resources, in total and by
+    listed position (pos: player_id -> G/F/C) so a missing guard's minutes can go to guards first.
     """
+    pos = pos or {}
     played = pg[pg["min"] > 0][["game_id", "team", "player_id"]]
     feats = pf.set_index(["game_id", "player_id"])
     last_state = pf.sort_values(["game_date", "game_id"]).groupby("player_id")
@@ -166,7 +168,8 @@ def roster_absences(pg: pd.DataFrame, pf: pd.DataFrame, tg: pd.DataFrame, lookba
             here = (roster - pit_out[(gid, team)]) | (here - roster)
         absent = roster - here
         vac = {"vac_min": 0.0, "vac_usage": 0.0, "vac_value": 0.0, "vac_pts": 0.0, "vac_ast": 0.0,
-               "vac_reb": 0.0, "vac_starters": 0.0, "n_absent": len(absent), "n_star_absent": 0}
+               "vac_reb": 0.0, "vac_starters": 0.0, "n_absent": len(absent), "n_star_absent": 0,
+               "vac_min_G": 0.0, "vac_min_F": 0.0, "vac_min_C": 0.0}
         for p in absent:
             s = player_snap.get(p)
             if not s:
@@ -180,6 +183,8 @@ def roster_absences(pg: pd.DataFrame, pf: pd.DataFrame, tg: pd.DataFrame, lookba
             vac["vac_reb"] += m * np.nan_to_num(s["reb_r_s"])
             vac["vac_starters"] += np.nan_to_num(s["starter_s"])
             vac["n_star_absent"] += int(m >= 28)
+            if pos.get(p) in ("G", "F", "C"):
+                vac[f"vac_min_{pos[p]}"] += m
         avail_value = sum(np.nan_to_num(player_snap[p]["value_r"]) * np.nan_to_num(player_snap[p]["min_s"])
                           for p in here if p in player_snap)
         rows.append({"game_id": gid, "team": team, **vac, "avail_value": avail_value,
