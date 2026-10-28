@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 02:25 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 02:31 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -8,24 +8,23 @@ Updated **Thu 29 Oct, 02:25 AM** Sydney time. Decimal odds. Stakes are quarter-K
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | MIL to win | HOU @ MIL | draftkings | 3.75 | 2.48 | 40.2% | 25.6% | 30.7% | +15.2% | +50.9% | 1.4% |
 | CHA to win | CHA @ DET | draftkings | 3.35 | 2.34 | 42.6% | 28.6% | 33.6% | +12.4% | +42.9% | 1.3% |
-| Ace Bailey PR over 24.5 | SAS @ UTA | draftkings | 3.96 | 2.63 | 38.1% | 23.6% | 27.2% | +7.8% | +50.8% | 0.7% |
-| Ace Bailey PTS over 17.5 | SAS @ UTA | draftkings | 3.78 | 2.63 | 38.0% | 24.7% | 28.0% | +6.0% | +43.6% | 0.5% |
+| CHA +7.5 | CHA @ DET | draftkings | 1.95 | 1.57 | 63.8% | 48.9% | 54.1% | +5.7% | +24.5% | 1.5% |
 | IND to win | PHI @ IND | draftkings | 2.64 | 2.16 | 46.4% | 36.3% | 39.8% | +5.2% | +22.4% | 0.8% |
 
 ## Top same-game multis
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied | Corr × |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Ace Bailey pr over 24.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pr over 29.5 | SAS @ UTA | 4.3% | 23.42 | 24.59 | 41.94 | +79.1% | 1.60 |
-| Ace Bailey pa over 19.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pr over 29.5 | SAS @ UTA | 4.6% | 21.78 | 22.87 | 38.76 | +78.0% | 1.57 |
-| Ace Bailey pts over 17.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pr over 29.5 | SAS @ UTA | 4.4% | 22.65 | 23.78 | 40.03 | +76.8% | 1.61 |
-| Ace Bailey pr over 24.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pts over 24.5 | SAS @ UTA | 4.5% | 22.47 | 23.60 | 39.03 | +73.7% | 1.56 |
-| Ace Bailey pr over 24.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pra over 34.5 | SAS @ UTA | 5.0% | 19.84 | 20.83 | 34.33 | +73.0% | 1.56 |
-| Ace Bailey pa over 19.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pts over 24.5 | SAS @ UTA | 4.8% | 20.89 | 21.93 | 36.08 | +72.7% | 1.53 |
-| Ace Bailey pts over 17.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pts over 24.5 | SAS @ UTA | 4.6% | 21.66 | 22.74 | 37.26 | +72.0% | 1.57 |
-| Wendell Carter Jr. reb over 9.5 **+** Tristan da Silva reb over 5.5 **+** Desmond Bane pts over 24.5 **+** Franz Wagner reb over 8.5 | ORL @ TOR | 1.1% | 94.07 | 98.78 | 161.32 | +71.5% | 1.55 |
-| Ace Bailey pa over 19.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pra over 34.5 | SAS @ UTA | 5.4% | 18.54 | 19.47 | 31.73 | +71.1% | 1.53 |
-| Ace Bailey pts over 17.5 **+** UTA +13.5 **+** game over 233.5 **+** Keyonte George pra over 34.5 | SAS @ UTA | 5.2% | 19.36 | 20.33 | 32.77 | +69.2% | 1.56 |
+| LAC win **+** game under 229.5 | LAL @ LAC | 23.0% | 4.36 | 4.57 | 5.04 | +15.7% | 1.00 |
+| MIL win **+** game over 225.5 | HOU @ MIL | 16.1% | 6.22 | 6.53 | 7.16 | +15.2% | 1.01 |
+| CHA win **+** game over 213.5 | CHA @ DET | 18.1% | 5.52 | 5.79 | 6.26 | +13.6% | 1.00 |
+| LAC +4.5 **+** game under 229.5 | LAL @ LAC | 29.1% | 3.44 | 3.61 | 3.73 | +8.4% | 0.99 |
+| IND win **+** game under 236.5 | PHI @ IND | 21.3% | 4.70 | 4.93 | 5.08 | +8.2% | 1.00 |
+| CHA +7.5 **+** game over 213.5 | CHA @ DET | 29.4% | 3.40 | 3.57 | 3.65 | +7.4% | 1.01 |
+| LAC win **+** game over 229.5 | LAL @ LAC | 21.1% | 4.74 | 4.98 | 5.04 | +6.2% | 1.00 |
+| game under 236.5 **+** IND +5.5 | PHI @ IND | 28.8% | 3.48 | 3.65 | 3.65 | +4.8% | 0.99 |
+| game under 239.5 **+** CLE -10.5 | WAS @ CLE | 28.7% | 3.49 | 3.66 | 3.65 | +4.7% | 1.01 |
+| MIL win **+** game under 225.5 | HOU @ MIL | 14.6% | 6.84 | 7.19 | 7.16 | +4.6% | 0.99 |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**.
 
@@ -35,42 +34,19 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| AJ Dybantsa AST under 1.5 | WAS @ CLE | draftkings | 2.41 | 1.18 | 84.9% | 38.8% | 50.3% | +21.2% | +104.6% | 2.0% |
-| AJ Dybantsa PA under 13.5 | WAS @ CLE | draftkings | 1.93 | 1.01 | 99.2% | 48.3% | 61.0% | +18.1% | +92.0% | 2.0% |
-| AJ Dybantsa RA under 6.5 | WAS @ CLE | draftkings | 1.94 | 1.02 | 97.7% | 48.2% | 60.6% | +17.7% | +89.8% | 2.0% |
-| AJ Dybantsa PTS under 11.5 | WAS @ CLE | draftkings | 1.91 | 1.01 | 99.0% | 48.9% | 61.5% | +17.3% | +89.0% | 2.0% |
-| AJ Dybantsa PRA under 18.5 | WAS @ CLE | draftkings | 1.88 | 1.00 | 99.6% | 49.6% | 62.1% | +17.0% | +87.7% | 2.0% |
 | LAC to win | LAL @ LAC | draftkings | 2.64 | 1.71 | 58.4% | 36.3% | 44.0% | +16.3% | +54.2% | 2.0% |
-| AJ Dybantsa REB under 4.5 | WAS @ CLE | draftkings | 1.89 | 1.03 | 96.9% | 49.4% | 61.3% | +16.0% | +83.5% | 2.0% |
-| AJ Dybantsa PR under 16.5 | WAS @ CLE | draftkings | 1.84 | 1.00 | 99.6% | 50.8% | 63.0% | +15.9% | +83.2% | 2.0% |
-| Clint Capela PR under 14.5 | HOU @ MIL | draftkings | 1.94 | 1.11 | 89.8% | 48.1% | 58.5% | +13.7% | +74.6% | 2.0% |
-| Shai Gilgeous-Alexander AST over 7.5 | OKC @ DAL | draftkings | 2.95 | 1.78 | 56.2% | 31.7% | 37.8% | +11.5% | +65.7% | 1.5% |
-| Isaiah Hartenstein PR over 24.5 | OKC @ DAL | draftkings | 3.54 | 2.16 | 46.4% | 26.4% | 31.4% | +11.1% | +64.1% | 1.1% |
-| Clint Capela PTS under 7.5 | HOU @ MIL | draftkings | 1.84 | 1.12 | 89.2% | 50.8% | 60.4% | +11.1% | +64.2% | 2.0% |
-| Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.91 | 1.18 | 84.4% | 48.9% | 57.8% | +10.4% | +61.2% | 2.0% |
-| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.83 | 1.14 | 87.4% | 51.2% | 60.2% | +10.0% | +59.6% | 2.0% |
 | LAC +4.5 | LAL @ LAC | draftkings | 1.95 | 1.43 | 70.1% | 48.9% | 56.3% | +10.0% | +36.8% | 2.0% |
-| Ace Bailey PA over 19.5 | SAS @ UTA | draftkings | 3.66 | 2.34 | 42.7% | 25.5% | 29.8% | +9.2% | +56.3% | 0.9% |
-| Jabari Smith Jr. AST over 2.5 | HOU @ MIL | draftkings | 3.15 | 2.05 | 48.8% | 29.7% | 34.4% | +8.5% | +53.6% | 1.0% |
-| Aaron Wiggins 3PM under 1.5 | MIA @ ATL | draftkings | 2.30 | 1.51 | 66.2% | 40.6% | 47.0% | +8.2% | +52.3% | 1.6% |
-| Isaiah Hartenstein REB over 12.5 | OKC @ DAL | draftkings | 3.59 | 2.36 | 42.4% | 26.0% | 30.1% | +8.1% | +52.1% | 0.8% |
-| Paul Reed REB under 8.5 | CHA @ DET | draftkings | 2.04 | 1.35 | 73.9% | 45.8% | 52.8% | +7.8% | +50.8% | 1.9% |
-| Aaron Wiggins PTS under 12.5 | MIA @ ATL | draftkings | 1.93 | 1.31 | 76.3% | 48.3% | 55.3% | +7.0% | +47.5% | 1.9% |
-| AJ Dybantsa 3PM under 1.5 | WAS @ CLE | draftkings | 1.49 | 1.01 | 98.8% | 62.8% | 71.8% | +6.9% | +47.0% | 2.0% |
-| Wendell Carter Jr. REB over 9.5 | ORL @ TOR | draftkings | 3.30 | 2.25 | 44.5% | 28.3% | 32.4% | +6.8% | +47.0% | 0.7% |
-| Aaron Wiggins PA under 14.5 | MIA @ ATL | draftkings | 1.88 | 1.31 | 76.2% | 49.6% | 56.3% | +6.0% | +43.7% | 1.7% |
-| Kobe Sanders PR under 16.5 | LAL @ LAC | draftkings | 1.81 | 1.26 | 79.1% | 51.5% | 58.4% | +5.9% | +43.4% | 1.8% |
 
 ## Projections
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| MIA @ ATL | Thu 29 Oct 10:00 | 117.3–123.6 | MIA 33% | 3.03 / 1.49 | ATL -6.5 | 240.5 | ATL -1.5 covers 64%; o241.5 48% |
+| MIA @ ATL | Thu 29 Oct 10:00 | 117.3–123.6 | MIA 33% | 3.03 / 1.49 | ATL -6.5 | 240.5 | ATL -2.5 covers 62%; o241.5 48% |
 | WAS @ CLE | Thu 29 Oct 10:00 | 110.7–123.4 | WAS 18% | 5.45 / 1.22 | CLE -12.5 | 233.5 | CLE -10.5 covers 56%; o239.5 38% |
-| CHA @ DET | Thu 29 Oct 10:00 | 107.8–110.4 | CHA 43% | 2.34 / 1.74 | DET -2.5 | 218.5 | DET -7.5 covers 36%; o215.5 55% |
+| CHA @ DET | Thu 29 Oct 10:00 | 107.8–110.4 | CHA 43% | 2.34 / 1.74 | DET -2.5 | 218.5 | DET -7.5 covers 36%; o213.5 60% |
 | PHI @ IND | Thu 29 Oct 10:00 | 116.5–115.3 | PHI 54% | 1.86 / 2.16 | IND +1.5 | 231.5 | IND +5.5 covers 61%; o236.5 40% |
 | ORL @ TOR | Thu 29 Oct 10:30 | 108.9–114.8 | ORL 34% | 2.98 / 1.50 | TOR -6.5 | 223.5 | TOR -4.5 covers 55%; o222.5 52% |
-| NYK @ CHI | Thu 29 Oct 11:00 | 120.1–110.8 | NYK 75% | 1.34 / 3.98 | CHI +9.5 | 230.5 | CHI +6.5 covers 42%; o231.5 48% |
+| NYK @ CHI | Thu 29 Oct 11:00 | 120.1–110.8 | NYK 75% | 1.34 / 3.98 | CHI +9.5 | 230.5 | CHI +6.5 covers 42%; o232.5 46% |
 | HOU @ MIL | Thu 29 Oct 11:00 | 115.8–112.4 | HOU 60% | 1.67 / 2.48 | MIL +3.5 | 228.5 | MIL +8.5 covers 63%; o225.5 55% |
 | GSW @ MIN | Thu 29 Oct 11:00 | 111.7–117.1 | GSW 35% | 2.85 / 1.54 | MIN -5.5 | 228.5 | MIN -4.5 covers 53%; o227.5 52% |
 | DEN @ NOP | Thu 29 Oct 11:00 | 122.3–119.6 | DEN 57% | 1.74 / 2.35 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o240.5 52% |
