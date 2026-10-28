@@ -1,37 +1,37 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 MIA @ ATL,Klay Thompson 3pm under 2.5 + Onyeka Okongwu 6+ pts,2,0.7457,0.4987,2.01,2.11,2.06,0.0276,0.997,1.85-2.10
 MIA @ ATL,Klay Thompson 3pm under 2.5 + Bam Adebayo 6+ reb,2,0.7147,0.4854,2.06,2.16,2.11,0.0251,1.0,2.10-2.50
-MIA @ ATL,Klay Thompson 3pm under 2.5 + CJ McCollum 12+ pts,2,0.6762,0.4601,2.17,2.28,2.23,0.0239,1.0,2.10-2.50
+MIA @ ATL,Klay Thompson 3pm under 2.5 + CJ McCollum 12+ pts,2,0.6762,0.4592,2.18,2.29,2.23,0.0247,1.0,2.10-2.50
 MIA @ ATL,Klay Thompson 3pm under 2.5 + Onyeka Okongwu 10+ pra,2,0.7935,0.539,1.86,1.95,1.9,0.0238,0.999,1.85-2.10
-MIA @ ATL,Klay Thompson 3pm under 2.5 + CJ McCollum 1+ 3pm,2,0.7433,0.5098,1.96,2.06,2.0,0.0207,0.999,1.85-2.10
+MIA @ ATL,Klay Thompson 3pm under 2.5 + Bobby Portis 6+ pts,2,0.7151,0.4901,2.04,2.14,2.09,0.0231,1.001,1.85-2.10
 MIA @ ATL,Tim Hardaway Jr. 3pm under 1.5 + Onyeka Okongwu 6+ pts,2,0.6285,0.4409,2.27,2.38,2.28,0.0049,0.999,2.10-2.50
-MIA @ ATL,Giannis Antetokounmpo reb under 11.5 + Bam Adebayo 4+ reb,2,0.6226,0.5108,1.96,2.06,1.84,-0.0609,1.0,1.65-1.85
 MIA @ ATL,Klay Thompson pts under 9.5 + Onyeka Okongwu 10+ pra,2,0.625,0.514,1.95,2.04,1.82,-0.0635,0.999,1.65-1.85
-MIA @ ATL,Onyeka Okongwu 6+ pts + Bam Adebayo 6+ reb + CJ McCollum 12+ pts,3,0.6513,0.5472,1.83,1.92,1.59,-0.1304,1.003,1.50-1.65
-MIA @ ATL,Bam Adebayo 6+ reb + CJ McCollum 12+ pts + Onyeka Okongwu 15+ pra,3,0.5997,0.5165,1.94,2.03,1.68,-0.1333,1.008,1.65-1.85
-MIA @ ATL,Onyeka Okongwu 6+ pts + CJ McCollum 12+ pts + Davion Mitchell 6+ pts,3,0.6599,0.5601,1.79,1.87,1.55,-0.1338,1.003,1.50-1.65
-MIA @ ATL,CJ McCollum 12+ pts + Bam Adebayo 5+ reb + Onyeka Okongwu 15+ pra,3,0.6396,0.5538,1.81,1.9,1.56,-0.1363,1.007,1.50-1.65
+MIA @ ATL,Giannis Antetokounmpo ast under 6.5 + Onyeka Okongwu 10+ pra,2,0.6111,0.5106,1.96,2.06,1.82,-0.0697,0.999,1.65-1.85
+MIA @ ATL,Giannis Antetokounmpo ast under 6.5 + CJ McCollum 8+ pts,2,0.601,0.504,1.98,2.08,1.84,-0.0716,0.998,1.65-1.85
+MIA @ ATL,Onyeka Okongwu 6+ pts + CJ McCollum 12+ pts + Bam Adebayo 6+ reb,3,0.6513,0.546,1.83,1.92,1.59,-0.1297,1.003,1.50-1.65
+MIA @ ATL,Bam Adebayo 6+ reb + CJ McCollum 10+ pts + Onyeka Okongwu 15+ pra,3,0.6541,0.5623,1.78,1.87,1.54,-0.1355,1.005,1.50-1.65
+MIA @ ATL,Onyeka Okongwu 6+ pts + CJ McCollum 12+ pts + Bobby Portis 6+ pts,3,0.6481,0.5483,1.82,1.91,1.58,-0.1362,0.998,1.50-1.65
 WAS @ CLE,Trae Young pa under 30.5 + CLE win,2,0.6263,0.4359,2.29,2.41,2.45,0.07,1.025,2.10-2.50
 WAS @ CLE,Trae Young pra under 33.5 + CLE win,2,0.6317,0.4447,2.25,2.36,2.39,0.0642,1.025,2.10-2.50
 WAS @ CLE,Trae Young pts under 20.5 + CLE win,2,0.6111,0.4295,2.33,2.44,2.48,0.0636,1.024,2.10-2.50
 WAS @ CLE,Trae Young pa under 30.5 + James Harden 1+ 3pm,2,0.6924,0.4891,2.04,2.15,2.06,0.0077,1.0,1.85-2.10
 WAS @ CLE,Trae Young pa under 30.5 + Donovan Mitchell 1+ 3pm,2,0.7106,0.5034,1.99,2.09,2.0,0.0072,1.0,1.85-2.10
-WAS @ CLE,Trae Young pa under 30.5 + Jarrett Allen 4+ reb,2,0.717,0.5087,1.97,2.06,1.98,0.0058,0.999,1.85-2.10
+WAS @ CLE,Trae Young pa under 30.5 + Donovan Mitchell 20+ pra,2,0.7178,0.5081,1.97,2.07,1.98,0.0057,0.999,1.85-2.10
 WAS @ CLE,Trae Young ra under 12.5 + Donovan Mitchell 1+ 3pm,2,0.6355,0.5133,1.95,2.05,1.85,-0.0523,1.0,1.65-1.85
 WAS @ CLE,Trae Young ra under 12.5 + Donovan Mitchell 20+ pra,2,0.6427,0.5188,1.93,2.02,1.83,-0.0526,0.999,1.65-1.85
-WAS @ CLE,Trae Young ra under 12.5 + Jarrett Allen 4+ reb,2,0.6404,0.5181,1.93,2.03,1.82,-0.0548,0.997,1.65-1.85
 WAS @ CLE,CLE win + AJ Dybantsa 3+ reb,2,0.6722,0.6009,1.66,1.75,1.56,-0.0632,1.001,1.50-1.65
+WAS @ CLE,CLE win + AJ Dybantsa 3+ reb + Donovan Mitchell 3+ reb,3,0.5972,0.5034,1.99,2.09,1.78,-0.1062,1.001,1.65-1.85
 WAS @ CLE,CLE win + AJ Dybantsa 3+ reb + Donovan Mitchell 20+ pra,3,0.6362,0.5525,1.81,1.9,1.61,-0.1109,1.007,1.50-1.65
 WAS @ CLE,CLE win + AJ Dybantsa 3+ reb + Donovan Mitchell 1+ 3pm,3,0.6272,0.5451,1.83,1.93,1.63,-0.1133,1.004,1.50-1.65
 CHA @ DET,Daniss Jenkins 12+ pr + Cade Cunningham 3+ reb,2,0.6047,0.4589,2.18,2.29,2.13,-0.0213,1.005,2.10-2.50
-CHA @ DET,Daniss Jenkins 12+ pr + Dennis Schroder 6+ pts,2,0.6357,0.4822,2.07,2.18,2.02,-0.0238,1.003,1.85-2.10
 CHA @ DET,Daniss Jenkins 12+ pr + Cade Cunningham 1+ 3pm,2,0.59,0.4479,2.23,2.34,2.18,-0.0252,1.001,2.10-2.50
-CHA @ DET,Dennis Schroder ast under 5.5 + Cade Cunningham 1+ 3pm,2,0.6158,0.4663,2.14,2.25,2.08,-0.0285,0.999,1.85-2.10
-CHA @ DET,Dennis Schroder ast under 5.5 + Cade Cunningham 3+ reb,2,0.6273,0.4748,2.11,2.21,2.04,-0.0306,0.997,1.85-2.10
+CHA @ DET,Daniss Jenkins 12+ pr + Brandon Miller 1+ 3pm,2,0.6464,0.4972,2.01,2.11,1.95,-0.0307,1.0,1.85-2.10
+CHA @ DET,Daniss Jenkins 12+ pr + Duncan Robinson 1+ 3pm,2,0.6427,0.4957,2.02,2.12,1.95,-0.0316,1.0,1.85-2.10
 CHA @ DET,Daniss Jenkins 3+ reb + Cade Cunningham 3+ reb,2,0.5774,0.4471,2.24,2.35,2.16,-0.034,1.003,2.10-2.50
-CHA @ DET,Naz Reid reb under 8.5 + Dennis Schroder 6+ pts,2,0.6528,0.5163,1.94,2.03,1.84,-0.0488,0.997,1.65-1.85
-CHA @ DET,Naz Reid reb under 8.5 + Brandon Miller 1+ 3pm,2,0.6669,0.5355,1.87,1.96,1.77,-0.0516,1.0,1.65-1.85
-CHA @ DET,Naz Reid reb under 8.5 + Duncan Robinson 1+ 3pm,2,0.6632,0.5332,1.88,1.97,1.78,-0.0519,1.0,1.65-1.85
+CHA @ DET,Dennis Schroder ast under 5.5 + Cade Cunningham 1+ 3pm,2,0.6158,0.4754,2.1,2.21,2.03,-0.0371,0.999,1.85-2.10
+CHA @ DET,Dennis Schroder ast under 5.5 + Duncan Robinson 1+ 3pm,2,0.6716,0.5266,1.9,1.99,1.82,-0.0424,0.999,1.65-1.85
+CHA @ DET,Dennis Schroder ast under 5.5 + Brandon Miller 1+ 3pm,2,0.6747,0.5277,1.9,1.99,1.81,-0.0424,0.998,1.65-1.85
+CHA @ DET,Naz Reid reb under 8.5 + Brandon Miller 1+ 3pm,2,0.6669,0.5348,1.87,1.96,1.77,-0.0511,1.0,1.65-1.85
 PHI @ IND,Tyrese Maxey pts under 24.5 + Pascal Siakam 1+ 3pm,2,0.5411,0.4141,2.41,2.54,2.34,-0.0303,1.002,2.10-2.50
 PHI @ IND,Tyrese Maxey pts under 24.5 + LeBron James 3+ reb,2,0.6176,0.4738,2.11,2.22,2.04,-0.0347,0.999,1.85-2.10
 PHI @ IND,Tyrese Maxey pts under 24.5 + Pascal Siakam 5+ reb,2,0.5621,0.4333,2.31,2.42,2.23,-0.0352,1.0,2.10-2.50
@@ -39,11 +39,11 @@ PHI @ IND,Tyrese Maxey pr under 28.5 + Pascal Siakam 1+ 3pm,2,0.5402,0.4198,2.38
 PHI @ IND,Tyrese Maxey pr under 28.5 + LeBron James 3+ reb,2,0.6166,0.4804,2.08,2.19,1.99,-0.0418,0.998,1.85-2.10
 PHI @ IND,Tyrese Maxey pts under 24.5 + LeBron James 3+ ast,2,0.6121,0.479,2.09,2.19,2.0,-0.0433,0.996,1.85-2.10
 PHI @ IND,PHI win + LeBron James 3+ ast,2,0.5493,0.5964,1.68,1.76,1.56,-0.0681,1.011,1.50-1.65
+PHI @ IND,Kelly Oubre Jr. pts under 11.5 + LeBron James 3+ ast,2,0.6046,0.5056,1.98,2.08,1.84,-0.0682,0.999,1.65-1.85
 PHI @ IND,PHI win + Tyrese Maxey 1+ 3pm,2,0.5336,0.5777,1.73,1.82,1.61,-0.0697,1.008,1.50-1.65
 PHI @ IND,PHI win + Pascal Siakam 5+ reb,2,0.4989,0.5336,1.87,1.97,1.74,-0.0706,1.003,1.65-1.85
 PHI @ IND,PHI win + LeBron James 3+ reb,2,0.5465,0.5818,1.72,1.8,1.59,-0.0728,0.999,1.50-1.65
 PHI @ IND,PHI win + Pascal Siakam 1+ 3pm,2,0.4748,0.5041,1.98,2.08,1.83,-0.0765,0.994,1.65-1.85
-PHI @ IND,Jaylen Brown reb under 6.5 + LeBron James 3+ ast,2,0.5818,0.5054,1.98,2.08,1.82,-0.0807,1.001,1.65-1.85
 ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 5+ reb,2,0.6916,0.4845,2.06,2.17,2.07,0.0023,0.998,1.85-2.10
 ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 6+ pts,2,0.7059,0.4944,2.02,2.12,2.03,0.0012,0.997,1.85-2.10
 ORL @ TOR,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 15+ pra,2,0.6971,0.4871,2.05,2.16,2.06,0.0012,0.996,1.85-2.10
@@ -56,15 +56,12 @@ ORL @ TOR,Desmond Bane 15+ pts + RJ Barrett 4+ reb,2,0.659,0.5744,1.74,1.83,1.61
 ORL @ TOR,Wendell Carter Jr. 15+ pra + Franz Wagner 4+ reb + Desmond Bane 15+ pts,3,0.6782,0.536,1.87,1.96,1.68,-0.1009,1.014,1.65-1.85
 ORL @ TOR,Wendell Carter Jr. 15+ pra + RJ Barrett 4+ reb + Desmond Bane 12+ pts,3,0.6766,0.543,1.84,1.93,1.64,-0.1119,1.007,1.50-1.65
 ORL @ TOR,Wendell Carter Jr. 6+ pts + RJ Barrett 4+ reb + Desmond Bane 12+ pts,3,0.6836,0.5498,1.82,1.91,1.61,-0.1139,1.006,1.50-1.65
-NYK @ CHI,Karl-Anthony Towns pra under 39.5 + Matas Buzelis 6+ pts,2,0.6596,0.4943,2.02,2.12,1.98,-0.0233,0.999,1.85-2.10
-NYK @ CHI,Karl-Anthony Towns pts under 21.5 + OG Anunoby 3+ reb,2,0.6044,0.4594,2.18,2.29,2.12,-0.0246,1.003,2.10-2.50
-NYK @ CHI,Karl-Anthony Towns pra under 39.5 + OG Anunoby 8+ pts,2,0.6665,0.5012,2.0,2.09,1.94,-0.0253,0.998,1.85-2.10
-NYK @ CHI,Karl-Anthony Towns pra under 39.5 + OG Anunoby 3+ reb,2,0.637,0.4825,2.07,2.18,2.02,-0.0261,1.0,1.85-2.10
-NYK @ CHI,Karl-Anthony Towns pra under 39.5 + Matas Buzelis 3+ reb,2,0.6076,0.4603,2.17,2.28,2.11,-0.0298,0.996,2.10-2.50
-NYK @ CHI,Karl-Anthony Towns pa under 25.5 + Matas Buzelis 3+ reb,2,0.5816,0.4431,2.26,2.37,2.19,-0.0308,0.998,2.10-2.50
-NYK @ CHI,Jalen Smith reb under 7.5 + Karl-Anthony Towns 5+ reb,2,0.6656,0.5445,1.84,1.93,1.72,-0.0611,0.999,1.65-1.85
-NYK @ CHI,Jalen Smith reb under 7.5 + Karl-Anthony Towns 20+ pra,2,0.6404,0.5273,1.9,1.99,1.78,-0.0625,1.0,1.65-1.85
-NYK @ CHI,Jalen Smith reb under 7.5 + Matas Buzelis 6+ pts,2,0.6336,0.5209,1.92,2.02,1.8,-0.0641,0.998,1.65-1.85
+NYK @ CHI,Karl-Anthony Towns pra under 39.5 + OG Anunoby 8+ pts,2,0.6665,0.5047,1.98,2.08,1.92,-0.0289,0.998,1.85-2.10
+NYK @ CHI,Karl-Anthony Towns pts under 21.5 + OG Anunoby 3+ reb,2,0.6044,0.465,2.15,2.26,2.09,-0.0301,1.003,1.85-2.10
+NYK @ CHI,Karl-Anthony Towns pra under 39.5 + OG Anunoby 3+ reb,2,0.637,0.4874,2.05,2.15,1.99,-0.0309,1.0,1.85-2.10
+NYK @ CHI,Karl-Anthony Towns pa under 25.5 + Matas Buzelis 3+ reb,2,0.5816,0.4488,2.23,2.34,2.15,-0.0365,0.998,2.10-2.50
+NYK @ CHI,Karl-Anthony Towns pts under 21.5 + Matas Buzelis 3+ reb,2,0.5748,0.4429,2.26,2.37,2.17,-0.037,0.997,2.10-2.50
+NYK @ CHI,Josh Giddey ast under 7.5 + Matas Buzelis 3+ reb,2,0.5387,0.438,2.28,2.4,2.16,-0.0518,1.005,2.10-2.50
 HOU @ MIL,Myles Turner 3pm under 1.5 + Kevin Durant 3+ ast,2,0.5814,0.4083,2.45,2.57,2.46,0.0023,1.001,2.10-2.50
 HOU @ MIL,Myles Turner 3pm under 1.5 + Reed Sheppard 8+ pts,2,0.5754,0.4063,2.46,2.58,2.46,-0.0008,1.0,2.10-2.50
 HOU @ MIL,Myles Turner pr under 15.5 + Kevin Durant 3+ ast,2,0.583,0.42,2.38,2.5,2.36,-0.0109,1.0,2.10-2.50
@@ -120,14 +117,14 @@ OKC @ DAL,OKC win + P.J. Washington 15+ pra,2,0.6612,0.5746,1.74,1.83,1.62,-0.06
 OKC @ DAL,OKC win + P.J. Washington 8+ pts,2,0.6458,0.5639,1.77,1.86,1.65,-0.0718,0.993,1.50-1.65
 OKC @ DAL,Max Christie 6+ pts + Isaiah Hartenstein 6+ reb + P.J. Washington 10+ pts,3,0.7114,0.5687,1.76,1.85,1.57,-0.1075,1.011,1.50-1.65
 LAL @ LAC,Austin Reaves pts under 22.5 + Brook Lopez 8+ pts,2,0.6034,0.4135,2.42,2.54,2.44,0.0101,0.998,2.10-2.50
-LAL @ LAC,Austin Reaves pa under 28.5 + Brook Lopez 8+ pts,2,0.6098,0.4211,2.37,2.49,2.39,0.0062,0.998,2.10-2.50
+LAL @ LAC,Austin Reaves pa under 29.5 + Brook Lopez 8+ pts,2,0.6398,0.4414,2.27,2.38,2.28,0.006,0.997,2.10-2.50
 LAL @ LAC,Austin Reaves pr under 26.5 + Brook Lopez 8+ pts,2,0.5942,0.4128,2.42,2.54,2.43,0.0039,0.999,2.10-2.50
-LAL @ LAC,Austin Reaves pts under 22.5 + Darius Garland 1+ 3pm,2,0.6579,0.489,2.05,2.15,2.01,-0.0191,0.999,1.85-2.10
-LAL @ LAC,Austin Reaves pa under 28.5 + Darius Garland 1+ 3pm,2,0.6656,0.4987,2.01,2.11,1.96,-0.0215,1.0,1.85-2.10
-LAL @ LAC,Austin Reaves pr under 26.5 + Darius Garland 1+ 3pm,2,0.6479,0.4883,2.05,2.15,2.0,-0.0248,1.0,1.85-2.10
-LAL @ LAC,Kris Dunn 6+ pts + Brook Lopez 1+ 3pm,2,0.6871,0.5975,1.67,1.76,1.54,-0.0822,1.001,1.50-1.65
-LAL @ LAC,Brook Lopez 1+ 3pm + Darius Garland 18+ pts,2,0.6728,0.5968,1.68,1.76,1.53,-0.0887,1.001,1.50-1.65
-LAL @ LAC,Brook Lopez 1+ 3pm + Darius Garland 2+ 3pm,2,0.6724,0.6002,1.67,1.75,1.52,-0.0904,1.001,1.50-1.65
-LAL @ LAC,Kris Dunn 6+ pts + Brook Lopez 1+ 3pm + Derrick Jones Jr. 3+ reb,3,0.586,0.4835,2.07,2.17,1.81,-0.1228,1.005,1.65-1.85
-LAL @ LAC,Kris Dunn 6+ pts + Derrick Jones Jr. 3+ reb + Darius Garland 18+ pts,3,0.5938,0.4996,2.0,2.1,1.75,-0.125,1.01,1.65-1.85
-LAL @ LAC,Kris Dunn 6+ pts + Derrick Jones Jr. 3+ reb + Darius Garland 2+ 3pm,3,0.592,0.5012,2.0,2.09,1.74,-0.1289,1.007,1.65-1.85
+LAL @ LAC,Derrick Jones Jr. 15+ pra + Kris Dunn 6+ pts,2,0.6834,0.5914,1.69,1.78,1.56,-0.0779,1.004,1.50-1.65
+LAL @ LAC,Derrick Jones Jr. 15+ pra + Brook Lopez 1+ 3pm,2,0.6609,0.5717,1.75,1.84,1.61,-0.0813,1.0,1.50-1.65
+LAL @ LAC,Brook Lopez 1+ 3pm + Kris Dunn 6+ pts,2,0.6871,0.5979,1.67,1.76,1.53,-0.0824,1.001,1.50-1.65
+LAL @ LAC,Brook Lopez 4+ reb + Kris Dunn 6+ pts + Derrick Jones Jr. 10+ pra,3,0.593,0.4627,2.16,2.27,1.93,-0.1056,1.003,1.85-2.10
+LAL @ LAC,Derrick Jones Jr. 15+ pra + Kris Dunn 6+ pts + Darius Garland 18+ pts,3,0.5696,0.4699,2.13,2.23,1.89,-0.1135,1.016,1.85-2.10
+LAL @ LAC,Derrick Jones Jr. 15+ pra + Brook Lopez 1+ 3pm + Kris Dunn 6+ pts,3,0.5584,0.4506,2.22,2.33,1.96,-0.1163,1.004,1.85-2.10
+LAL @ LAC,Brook Lopez 1+ 3pm + Kris Dunn 6+ pts + Derrick Jones Jr. 3+ reb,3,0.586,0.4838,2.07,2.17,1.81,-0.123,1.005,1.65-1.85
+LAL @ LAC,Kris Dunn 6+ pts + Derrick Jones Jr. 3+ reb + Darius Garland 18+ pts,3,0.5938,0.5011,2.0,2.1,1.74,-0.1261,1.01,1.65-1.85
+LAL @ LAC,Brook Lopez 1+ 3pm + Kris Dunn 6+ pts + Darius Garland 2+ 3pm,3,0.5664,0.4717,2.12,2.23,1.85,-0.1277,1.003,1.65-1.85

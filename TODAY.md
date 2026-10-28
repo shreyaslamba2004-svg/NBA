@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 06:15 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 06:24 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -32,7 +32,7 @@ _No bets clear the edge threshold right now._
 |---|--:|--:|--:|--:|--:|--:|
 | Klay Thompson 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | MIA @ ATL | 49.9% | 2.01 | 2.11 | 2.06 | +2.8% |
 | Klay Thompson 3pm under 2.5 **+** Onyeka Okongwu 10+ pra | MIA @ ATL | 53.9% | 1.86 | 1.95 | 1.90 | +2.4% |
-| Klay Thompson 3pm under 2.5 **+** CJ McCollum 1+ 3pm | MIA @ ATL | 51.0% | 1.96 | 2.06 | 2.00 | +2.1% |
+| Klay Thompson 3pm under 2.5 **+** Bobby Portis 6+ pts | MIA @ ATL | 49.0% | 2.04 | 2.14 | 2.09 | +2.3% |
 
 **Price 2.10-2.50**
 
@@ -86,11 +86,11 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | MIA @ ATL | Thu 29 Oct 10:00 | 117.6–122.0 | MIA 38% | 2.63 / 1.61 | ATL -4.5 | 239.5 | ATL -1.5 covers 59%; o241.5 46% |
-| WAS @ CLE | Thu 29 Oct 10:00 | 110.6–122.5 | WAS 20% | 5.00 / 1.25 | CLE -11.5 | 232.5 | CLE -10.5 covers 54%; o239.5 36% |
+| WAS @ CLE | Thu 29 Oct 10:00 | 110.6–122.5 | WAS 20% | 5.00 / 1.25 | CLE -11.5 | 232.5 | CLE -10.5 covers 54%; o240.5 34% |
 | CHA @ DET | Thu 29 Oct 10:00 | 107.9–109.6 | CHA 45% | 2.23 / 1.81 | DET -2.5 | 217.5 | DET -7.5 covers 34%; o212.5 60% |
 | PHI @ IND | Thu 29 Oct 10:00 | 118.0–112.7 | PHI 64% | 1.55 / 2.80 | IND +5.5 | 230.5 | IND +7.5 covers 56%; o234.5 42% |
 | ORL @ TOR | Thu 29 Oct 10:30 | 108.2–113.9 | ORL 34% | 2.94 / 1.52 | TOR -5.5 | 221.5 | TOR -4.5 covers 54%; o223.5 47% |
-| NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
+| NYK @ CHI | Thu 29 Oct 11:00 | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +7.5 covers 46%; o232.5 45% |
 | HOU @ MIL | Thu 29 Oct 11:00 | 114.8–110.6 | HOU 62% | 1.62 / 2.61 | MIL +4.5 | 225.5 | MIL +8.5 covers 62%; o226.5 47% |
 | GSW @ MIN | Thu 29 Oct 11:00 | 110.8–115.2 | GSW 37% | 2.67 / 1.60 | MIN -4.5 | 225.5 | MIN -3.5 covers 53%; o227.5 46% |
 | DEN @ NOP | Thu 29 Oct 11:00 | 122.0–119.5 | DEN 57% | 1.76 / 2.31 | NOP +2.5 | 241.5 | NOP +4.5 covers 55%; o241.5 50% |
@@ -105,8 +105,8 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Onyeka Okongwu 6+ pts **+** Bam Adebayo 6+ reb **+** CJ McCollum 12+ pts | 54.7% | 1.83 | 1.92 | 1.59 | -13.0% |
-| Giannis Antetokounmpo reb under 11.5 **+** Bam Adebayo 4+ reb | 51.1% | 1.96 | 2.06 | 1.84 | -6.1% |
+| Onyeka Okongwu 6+ pts **+** CJ McCollum 12+ pts **+** Bam Adebayo 6+ reb | 54.6% | 1.83 | 1.92 | 1.59 | -13.0% |
+| Klay Thompson pts under 9.5 **+** Onyeka Okongwu 10+ pra | 51.4% | 1.95 | 2.04 | 1.82 | -6.3% |
 | Klay Thompson 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | 49.9% | 2.01 | 2.11 | 2.06 | +2.8% |
 | Klay Thompson 3pm under 2.5 **+** Bam Adebayo 6+ reb | 48.5% | 2.06 | 2.16 | 2.11 | +2.5% |
 
@@ -174,6 +174,7 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Anthony Davis PTS under 21.5 | WAS @ CLE | draftkings | 1.86 | 1.54 | 64.9% | 50.2% | 53.9% | +0.3% | +20.8% | 0.1% |
 | Alex Sarr PR under 16.5 | WAS @ CLE | draftkings | 1.93 | 1.60 | 62.4% | 48.3% | 51.8% | +0.3% | +20.7% | 0.1% |
 | Jaylon Tyson PR under 14.5 | WAS @ CLE | draftkings | 1.82 | 1.52 | 65.9% | 51.4% | 55.0% | +0.1% | +19.9% | 0.0% |
 
@@ -237,15 +238,14 @@ Out: Jalen Duren (DET), Isaiah Joe (DET), Kon Knueppel (CHA), Coby White (CHA), 
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Sion James PTS over 5.5 | CHA @ DET | draftkings | 2.03 | 1.70 | 58.9% | 46.4% | 49.5% | +0.5% | +19.6% | 0.1% |
-| Naz Reid PRA under 28.5 | CHA @ DET | draftkings | 1.94 | 1.62 | 61.7% | 48.1% | 51.5% | +0.1% | +19.9% | 0.0% |
+| Sion James PTS over 5.5 | CHA @ DET | draftkings | 2.03 | 1.70 | 58.9% | 46.2% | 49.3% | +0.2% | +19.6% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Naz Reid reb under 8.5 **+** Dennis Schroder 6+ pts | 51.6% | 1.94 | 2.03 | 1.84 | -4.9% |
-| Daniss Jenkins 12+ pr **+** Dennis Schroder 6+ pts | 48.2% | 2.07 | 2.18 | 2.02 | -2.4% |
+| Dennis Schroder ast under 5.5 **+** Duncan Robinson 1+ 3pm | 52.7% | 1.90 | 1.99 | 1.82 | -4.2% |
+| Daniss Jenkins 12+ pr **+** Brandon Miller 1+ 3pm | 49.7% | 2.01 | 2.11 | 1.95 | -3.1% |
 | Daniss Jenkins 12+ pr **+** Cade Cunningham 3+ reb | 45.9% | 2.18 | 2.29 | 2.13 | -2.1% |
 
 <details><summary>CHA players (confirmed only)</summary>
@@ -305,7 +305,7 @@ Out: Johnny Furphy (IND), T.J. McConnell (IND), Ben Sheppard (IND), Ivica Zubac 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | PHI win **+** LeBron James 3+ ast | 59.6% | 1.68 | 1.76 | 1.56 | -6.8% |
-| PHI win **+** Pascal Siakam 5+ reb | 53.4% | 1.87 | 1.97 | 1.74 | -7.1% |
+| Kelly Oubre Jr. pts under 11.5 **+** LeBron James 3+ ast | 50.6% | 1.98 | 2.08 | 1.84 | -6.8% |
 | Tyrese Maxey pts under 24.5 **+** LeBron James 3+ reb | 47.4% | 2.11 | 2.22 | 2.04 | -3.5% |
 | Tyrese Maxey pts under 24.5 **+** Pascal Siakam 1+ 3pm | 41.4% | 2.41 | 2.54 | 2.34 | -3.0% |
 
@@ -535,20 +535,20 @@ Out: Nic Claxton (CHI), Jose Alvarado (NYK)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Josh Hart PRA under 24.5 | NYK @ CHI | draftkings | 1.91 | 1.59 | 63.0% | 48.9% | 52.5% | +0.1% | +20.2% | 0.0% |
+| Jalen Smith REB under 6.5 | NYK @ CHI | draftkings | 2.06 | 1.69 | 59.2% | 45.4% | 48.8% | +0.6% | +21.9% | 0.1% |
+| Norman Powell PR under 21.5 | NYK @ CHI | draftkings | 1.88 | 1.56 | 63.9% | 49.6% | 53.2% | +0.2% | +20.5% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Jalen Smith reb under 7.5 **+** Karl-Anthony Towns 5+ reb | 54.4% | 1.84 | 1.93 | 1.72 | -6.1% |
-| Karl-Anthony Towns pra under 39.5 **+** Matas Buzelis 6+ pts | 49.4% | 2.02 | 2.12 | 1.98 | -2.3% |
-| Karl-Anthony Towns pts under 21.5 **+** OG Anunoby 3+ reb | 45.9% | 2.18 | 2.29 | 2.12 | -2.5% |
+| Karl-Anthony Towns pra under 39.5 **+** OG Anunoby 8+ pts | 50.5% | 1.98 | 2.08 | 1.92 | -2.9% |
+| Karl-Anthony Towns pa under 25.5 **+** Matas Buzelis 3+ reb | 44.9% | 2.23 | 2.34 | 2.15 | -3.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +6.5 covers 43%; o232.5 45% |
-| Expected (weighted by chance each plays) | 119.4–111.0 | NYK 72% | 1.38 / 3.61 | CHI +8.5 | 230.5 | CHI +6.5 covers 44%; o232.5 45% |
+| Confirmed players only | 119.6–110.8 | NYK 74% | 1.36 / 3.79 | CHI +8.5 | 230.5 | CHI +7.5 covers 46%; o232.5 45% |
+| Expected (weighted by chance each plays) | 119.4–111.0 | NYK 72% | 1.38 / 3.61 | CHI +8.5 | 230.5 | CHI +7.5 covers 47%; o232.5 45% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -896,8 +896,9 @@ Out: Trey Alexander (UTA), Blake Hinson (UTA), Jaren Jackson Jr. (UTA), Jusuf Nu
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Stephon Castle PRA under 30.5 | SAS @ UTA | draftkings | 1.87 | 1.55 | 64.6% | 50.0% | 53.6% | +0.3% | +20.8% | 0.1% |
 | Stephon Castle PR under 23.5 | SAS @ UTA | draftkings | 1.90 | 1.58 | 63.1% | 49.2% | 52.7% | +0.1% | +20.0% | 0.0% |
-| Stephon Castle RA under 12.5 | SAS @ UTA | draftkings | 1.77 | 1.49 | 67.3% | 52.9% | 56.5% | +0.0% | +19.1% | 0.0% |
+| Stephon Castle RA under 11.5 | SAS @ UTA | draftkings | 2.03 | 1.70 | 58.7% | 46.2% | 49.3% | +0.1% | +19.1% | 0.0% |
 
 **Best multis (one per price band)**
 
@@ -1192,15 +1193,15 @@ Out: Bradley Beal (LAC), Rui Hachimura (LAC), Brandon Ingram (LAC), Max Strus (L
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Brook Lopez PTS over 14.5 | LAL @ LAC | draftkings | 2.84 | 2.11 | 47.4% | 32.9% | 36.5% | +3.8% | +34.7% | 0.5% |
 | Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 2.96 | 2.28 | 43.8% | 31.6% | 34.6% | +2.5% | +29.5% | 0.3% |
-| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.23 | 2.60 | 38.5% | 28.9% | 31.3% | +1.2% | +24.3% | 0.1% |
+| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.19 | 2.60 | 38.5% | 29.3% | 31.6% | +0.8% | +22.7% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Kris Dunn 6+ pts **+** Brook Lopez 1+ 3pm | 59.8% | 1.67 | 1.76 | 1.54 | -8.2% |
-| Kris Dunn 6+ pts **+** Brook Lopez 1+ 3pm **+** Derrick Jones Jr. 3+ reb | 48.4% | 2.07 | 2.17 | 1.81 | -12.3% |
-| Austin Reaves pts under 22.5 **+** Darius Garland 1+ 3pm | 48.9% | 2.05 | 2.15 | 2.01 | -1.9% |
+| Derrick Jones Jr. 15+ pra **+** Kris Dunn 6+ pts | 59.1% | 1.69 | 1.78 | 1.56 | -7.8% |
+| Brook Lopez 1+ 3pm **+** Kris Dunn 6+ pts **+** Derrick Jones Jr. 3+ reb | 48.4% | 2.07 | 2.17 | 1.81 | -12.3% |
+| Brook Lopez 4+ reb **+** Kris Dunn 6+ pts **+** Derrick Jones Jr. 10+ pra | 46.3% | 2.16 | 2.27 | 1.93 | -10.6% |
 | Austin Reaves pts under 22.5 **+** Brook Lopez 8+ pts | 41.3% | 2.42 | 2.54 | 2.44 | +1.0% |
 
 <details><summary>LAL players (confirmed only)</summary>
