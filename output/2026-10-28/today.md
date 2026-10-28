@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 08:23 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 08:28 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -15,7 +15,7 @@ _No bets clear the edge threshold right now._
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | PHI win **+** Tyrese Maxey 3+ ast | PHI @ IND | 60.6% | 1.65 | 1.73 | 1.55 | -5.9% |
-| CLE win **+** AJ Dybantsa 3+ reb | WAS @ CLE | 58.9% | 1.70 | 1.78 | 1.60 | -5.9% |
+| CLE win **+** AJ Dybantsa 3+ reb | WAS @ CLE | 59.2% | 1.69 | 1.77 | 1.59 | -6.0% |
 | Wendell Carter Jr. 8+ pts **+** Desmond Bane 15+ pts | ORL @ TOR | 57.8% | 1.73 | 1.82 | 1.62 | -6.4% |
 
 **Price 1.65-1.85**
@@ -38,9 +38,9 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Trae Young pa under 30.5 **+** CLE win | WAS @ CLE | 43.5% | 2.30 | 2.41 | 2.45 | +6.7% |
-| Trae Young pra under 33.5 **+** CLE win | WAS @ CLE | 44.1% | 2.27 | 2.38 | 2.41 | +6.5% |
-| Trae Young pts under 20.5 **+** CLE win | WAS @ CLE | 42.6% | 2.35 | 2.46 | 2.50 | +6.4% |
+| Trae Young pra under 33.5 **+** CLE win | WAS @ CLE | 43.6% | 2.29 | 2.41 | 2.45 | +7.1% |
+| Trae Young pr under 23.5 **+** CLE win | WAS @ CLE | 43.1% | 2.32 | 2.44 | 2.46 | +6.2% |
+| Trae Young pa under 31.5 **+** CLE win | WAS @ CLE | 45.6% | 2.19 | 2.30 | 2.32 | +6.0% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -64,18 +64,18 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 5.5 | HOU @ MIL | draftkings | 3.69 | 2.25 | 44.5% | 25.3% | 30.1% | +11.2% | +64.2% | 1.0% |
 | Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.87 | 1.21 | 82.3% | 50.0% | 58.1% | +8.6% | +53.9% | 2.0% |
-| Trae Young PA under 30.5 | WAS @ CLE | draftkings | 1.91 | 1.30 | 77.2% | 48.9% | 56.0% | +6.9% | +47.4% | 1.9% |
-| Trae Young PTS under 20.5 | WAS @ CLE | draftkings | 1.94 | 1.33 | 75.4% | 48.1% | 54.9% | +6.7% | +46.6% | 1.8% |
-| Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.88 | 1.28 | 77.8% | 49.8% | 56.8% | +6.6% | +46.1% | 1.9% |
+| Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.91 | 1.28 | 77.8% | 48.9% | 56.2% | +7.2% | +48.6% | 2.0% |
+| Trae Young PR under 23.5 | WAS @ CLE | draftkings | 1.92 | 1.31 | 76.0% | 48.7% | 55.6% | +6.6% | +45.8% | 1.8% |
 | Daniss Jenkins REB over 3.5 | CHA @ DET | draftkings | 3.04 | 2.10 | 47.7% | 30.7% | 35.0% | +6.3% | +45.0% | 0.8% |
-| Trae Young PR under 23.5 | WAS @ CLE | draftkings | 1.88 | 1.31 | 76.0% | 49.6% | 56.2% | +5.9% | +43.4% | 1.7% |
-| Jake LaRavia PTS under 9.5 | LAL @ LAC | draftkings | 1.76 | 1.23 | 81.2% | 53.0% | 60.0% | +5.9% | +43.1% | 1.9% |
+| Trae Young PA under 31.5 | WAS @ CLE | draftkings | 1.81 | 1.25 | 80.1% | 51.7% | 58.8% | +6.3% | +44.7% | 1.9% |
+| Trae Young PTS under 21.5 | WAS @ CLE | draftkings | 1.82 | 1.27 | 78.9% | 51.4% | 58.2% | +6.0% | +43.5% | 1.8% |
 | Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.69 | 1.19 | 84.0% | 55.2% | 62.4% | +5.7% | +42.4% | 2.0% |
 | Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.17 | 1.53 | 65.5% | 43.1% | 48.7% | +5.7% | +42.2% | 1.2% |
 | Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.19 | 2.25 | 44.4% | 29.3% | 33.1% | +5.5% | +41.6% | 0.6% |
+| Jake LaRavia PTS under 8.5 | LAL @ LAC | draftkings | 1.90 | 1.34 | 74.5% | 49.2% | 55.5% | +5.5% | +41.6% | 1.5% |
 | Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.03 | 2.15 | 46.5% | 30.8% | 34.8% | +5.3% | +40.9% | 0.7% |
 | Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.03 | 1.44 | 69.4% | 46.0% | 51.9% | +5.3% | +40.9% | 1.3% |
-| Jake LaRavia 3PM under 1.5 | LAL @ LAC | draftkings | 1.61 | 1.15 | 87.0% | 58.1% | 65.3% | +5.1% | +40.0% | 2.0% |
+| Jake LaRavia PR under 12.5 | LAL @ LAC | draftkings | 1.93 | 1.38 | 72.3% | 48.3% | 54.3% | +5.1% | +39.9% | 1.4% |
 
 ## Projections
 
@@ -106,8 +106,8 @@ Out: Mouhamed Gueye (ATL), Simone Fontecchio (MIA)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Giannis Antetokounmpo RA under 17.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.8% | 49.9% | 53.4% | +0.2% | +19.8% | 0.1% |
-| Bobby Portis 3PM under 1.5 | MIA @ ATL | draftkings | 2.02 | 1.68 | 59.4% | 46.3% | 49.5% | +0.1% | +20.0% | 0.0% |
 | Davion Mitchell PTS under 12.5 | MIA @ ATL | draftkings | 1.88 | 1.57 | 63.6% | 49.6% | 53.1% | +0.1% | +20.0% | 0.0% |
+| Bobby Portis 3PM under 1.5 | MIA @ ATL | draftkings | 2.02 | 1.68 | 59.4% | 46.3% | 49.5% | +0.1% | +20.0% | 0.0% |
 
 **Best multis (one per price band)**
 
@@ -182,18 +182,18 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Donovan Mitchell REB over 6.5 | WAS @ CLE | draftkings | 3.73 | 2.99 | 33.4% | 25.1% | 27.1% | +1.2% | +24.6% | 0.1% |
-| AJ Dybantsa REB over 5.5 | WAS @ CLE | draftkings | 2.84 | 2.32 | 43.1% | 32.9% | 35.4% | +0.7% | +22.3% | 0.1% |
-| AJ Dybantsa AST over 2.5 | WAS @ CLE | draftkings | 2.52 | 2.07 | 48.4% | 37.1% | 39.9% | +0.6% | +21.9% | 0.1% |
+| Donovan Mitchell REB over 6.5 | WAS @ CLE | draftkings | 3.76 | 2.99 | 33.4% | 24.9% | 27.0% | +1.5% | +25.6% | 0.1% |
+| AJ Dybantsa AST over 2.5 | WAS @ CLE | draftkings | 2.55 | 2.07 | 48.4% | 36.6% | 39.6% | +0.9% | +23.4% | 0.1% |
+| AJ Dybantsa REB over 5.5 | WAS @ CLE | draftkings | 2.82 | 2.32 | 43.1% | 33.1% | 35.6% | +0.5% | +21.5% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| CLE win **+** AJ Dybantsa 3+ reb | 58.9% | 1.70 | 1.78 | 1.60 | -5.9% |
-| Trae Young ra under 12.5 **+** James Harden 1+ 3pm | 50.9% | 1.96 | 2.06 | 1.85 | -6.0% |
-| Trae Young pa under 30.5 **+** James Harden 1+ 3pm | 49.1% | 2.04 | 2.14 | 2.05 | +0.6% |
-| Trae Young pa under 30.5 **+** CLE win | 43.5% | 2.30 | 2.41 | 2.45 | +6.7% |
+| CLE win **+** AJ Dybantsa 3+ reb | 59.2% | 1.69 | 1.77 | 1.59 | -6.0% |
+| Trae Young ra under 12.5 **+** Donovan Mitchell 1+ 3pm | 52.3% | 1.91 | 2.01 | 1.80 | -5.9% |
+| Trae Young pa under 31.5 **+** Donovan Mitchell 3+ reb | 48.5% | 2.06 | 2.16 | 2.08 | +1.1% |
+| Trae Young pra under 33.5 **+** CLE win | 43.6% | 2.29 | 2.41 | 2.45 | +7.1% |
 
 <details><summary>WAS players (confirmed only)</summary>
 
@@ -545,14 +545,16 @@ Out: Nic Claxton (CHI), Jose Alvarado (NYK)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Josh Hart PTS under 11.5 | NYK @ CHI | draftkings | 2.01 | 1.64 | 61.1% | 46.5% | 50.2% | +0.8% | +22.9% | 0.2% |
 | Jalen Smith REB under 6.5 | NYK @ CHI | draftkings | 2.06 | 1.69 | 59.2% | 45.4% | 48.8% | +0.6% | +21.9% | 0.1% |
+| Jalen Smith PR under 17.5 | NYK @ CHI | draftkings | 1.96 | 1.63 | 61.2% | 47.6% | 51.0% | +0.1% | +20.0% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Karl-Anthony Towns pra under 38.5 **+** Matas Buzelis 6+ pts | 48.4% | 2.07 | 2.17 | 2.00 | -3.1% |
-| Karl-Anthony Towns pra under 38.5 **+** OG Anunoby 3+ reb | 46.3% | 2.16 | 2.27 | 2.10 | -2.7% |
+| Karl-Anthony Towns pr under 34.5 **+** OG Anunoby 3+ reb | 46.3% | 2.16 | 2.27 | 2.10 | -2.9% |
+| Karl-Anthony Towns pra under 38.5 **+** OG Anunoby 3+ reb | 46.2% | 2.16 | 2.27 | 2.11 | -2.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -1192,17 +1194,17 @@ Out: Bradley Beal (LAC), Rui Hachimura (LAC), Brandon Ingram (LAC), Max Strus (L
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.56 | 2.59 | 38.5% | 26.2% | 29.3% | +4.4% | +37.2% | 0.4% |
-| Brook Lopez PTS over 14.5 | LAL @ LAC | draftkings | 2.87 | 2.13 | 46.9% | 32.6% | 36.2% | +3.8% | +34.7% | 0.5% |
-| Walker Kessler REB over 13.5 | LAL @ LAC | draftkings | 3.93 | 2.95 | 33.9% | 23.8% | 26.3% | +3.4% | +33.4% | 0.3% |
+| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.61 | 2.59 | 38.5% | 25.9% | 29.0% | +4.9% | +39.1% | 0.5% |
+| Brook Lopez PTS over 14.5 | LAL @ LAC | draftkings | 2.90 | 2.13 | 46.9% | 32.2% | 35.9% | +4.1% | +36.1% | 0.5% |
+| Walker Kessler REB over 13.5 | LAL @ LAC | draftkings | 3.98 | 2.95 | 33.9% | 23.5% | 26.1% | +3.9% | +35.1% | 0.3% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Brook Lopez 1+ 3pm **+** Walker Kessler 8+ reb | 58.8% | 1.70 | 1.79 | 1.56 | -8.1% |
-| Walker Kessler 8+ reb **+** Derrick Jones Jr. 3+ reb **+** Darius Garland 18+ pts | 48.0% | 2.09 | 2.19 | 1.84 | -11.8% |
-| Brook Lopez 4+ reb **+** Walker Kessler 8+ reb | 48.8% | 2.05 | 2.15 | 1.95 | -5.0% |
+| Derrick Jones Jr. 8+ pts **+** Brook Lopez 1+ 3pm | 60.0% | 1.67 | 1.75 | 1.54 | -7.9% |
+| Derrick Jones Jr. 8+ pts **+** Brook Lopez 6+ pts **+** Walker Kessler 8+ reb | 53.7% | 1.86 | 1.96 | 1.66 | -10.9% |
+| Quentin Grimes reb under 4.5 **+** Brook Lopez 8+ pts | 46.3% | 2.16 | 2.27 | 2.07 | -4.3% |
 | LAC win **+** Brook Lopez 8+ pts | 39.8% | 2.51 | 2.64 | 2.45 | -2.3% |
 
 <details><summary>LAL players (confirmed only)</summary>
