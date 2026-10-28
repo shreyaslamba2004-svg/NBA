@@ -331,3 +331,14 @@ def _main_ladders(df: pd.DataFrame) -> pd.DataFrame:
 def _implied(american: pd.Series) -> pd.Series:
     a = american.astype(float)
     return pd.Series(np.where(a < 0, -a / (100 - a), 100 / (a + 100)), index=american.index)
+
+
+def draft_pick(espn_id: int) -> int | None:
+    """Overall draft pick (1-60), or None if undrafted / unknown."""
+    try:
+        d = _get(f"{CORE}/athletes/{int(espn_id)}", params={"lang": "en", "region": "us"}).get("draft") or {}
+    except SourceUnavailable:
+        return None
+    if not d.get("selection"):
+        return None
+    return int(d["selection"]) + (30 * (int(d.get("round", 1)) - 1) if d["selection"] <= 30 and d.get("round", 1) > 1 else 0)

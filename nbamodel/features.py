@@ -128,7 +128,8 @@ def player_features(pg: pd.DataFrame) -> pd.DataFrame:
     return p
 
 
-def roster_absences(pg: pd.DataFrame, pf: pd.DataFrame, tg: pd.DataFrame, lookback: int = 10) -> pd.DataFrame:
+def roster_absences(pg: pd.DataFrame, pf: pd.DataFrame, tg: pd.DataFrame, lookback: int = 10,
+                    pit_out: dict | None = None) -> pd.DataFrame:
     """For each team-game: which recent rotation players did not play, and what they leave behind.
 
     'Rostered' = played for the team in any of its previous `lookback` games and has not since
@@ -160,6 +161,9 @@ def roster_absences(pg: pd.DataFrame, pf: pd.DataFrame, tg: pd.DataFrame, lookba
         roster = set().union(*hist) if hist else set()
         roster = {p for p in roster if player_last_team.get(p) == team}
         here = in_game.get((gid, team), set())
+        actual_here = here
+        if pit_out is not None and (gid, team) in pit_out:
+            here = (roster - pit_out[(gid, team)]) | (here - roster)
         absent = roster - here
         vac = {"vac_min": 0.0, "vac_usage": 0.0, "vac_value": 0.0, "vac_pts": 0.0, "vac_ast": 0.0,
                "vac_reb": 0.0, "vac_starters": 0.0, "n_absent": len(absent), "n_star_absent": 0}
@@ -180,7 +184,7 @@ def roster_absences(pg: pd.DataFrame, pf: pd.DataFrame, tg: pd.DataFrame, lookba
                           for p in here if p in player_snap)
         rows.append({"game_id": gid, "team": team, **vac, "avail_value": avail_value,
                      "roster_value": avail_value + vac["vac_value"]})
-        team_hist.setdefault(team, []).append(here)
+        team_hist.setdefault(team, []).append(actual_here)
         # update snapshots after the game
         if gid in snap_by_game:
             sg = snap_by_game[gid]

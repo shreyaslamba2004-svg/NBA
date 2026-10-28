@@ -81,14 +81,22 @@ Outputs in `output/<date>/`:
 
 ### How bets are chosen
 
-- **Blend:** the backtest shows closing lines beat the pure model on sides and totals, so bet decisions use
-  a blend of model and no-vig market probability (`BLEND_W_GAME` 0.35, `BLEND_W_PROPS` 0.25 in
-  `nbamodel/edges.py`). The pure model's probability and EV are still shown. The weights are provisional
-  and get refit once the logs hold enough graded results.
+- **Blend:** bet decisions use a blend of model and no-vig market probability. Weights are fitted, not
+  guessed: `scripts/pit_backtest.py` fits them on 2024-25 and tests on 2025-26 with availability taken
+  from the pre-game injury report. For sides, totals and moneylines the fitted model weight is **0**:
+  the closing market already contains everything the model knows. Game-line "best bets" are therefore
+  pure line shopping (a book's price beating the all-book no-vig consensus). Props use 0.25 until the
+  logs hold enough graded props to fit it (`nbamodel/monitor.py` refits weekly). Results:
+  `output/pit_backtest.md`.
 - **Best bets:** blended EV of at least 5%, at odds of 4.0 or shorter, with a quarter-Kelly stake capped at
   2% of bankroll.
 - **Check news first:** the model and the market disagree by more than 15 points. That usually means news
   the model hasn't seen, such as a player returning from injury with no NBA history.
+- **Questionable players:** every game is projected with all questionable players sitting (the tables
+  for confirmed players), plus "if he plays" versions in which teammates, the opponent and the game line
+  all adjust. Bets are priced on the probability-weighted mix; bets that hinge on a questionable player
+  go to "Wait for news". Once his status is confirmed, the next run collapses the game to one projection.
+- **Same-game multis:** capped at a combined price of 2.5.
 - **Chance to play:** healthy players are scaled by a calibrated chance the coach uses them
   (`nbamodel/rotation.py`). Without it the deep bench soaks up starters' minutes.
 

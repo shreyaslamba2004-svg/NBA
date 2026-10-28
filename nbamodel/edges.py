@@ -15,6 +15,9 @@ For each offer we report
 """
 from __future__ import annotations
 
+import json
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 
@@ -88,6 +91,22 @@ def _model_prob(sim: dict, home: str, market: str, selection, line, player_id) -
     return float("nan")
 
 
+def blend_weights() -> dict:
+    """Model weight per market: fitted in models/blend.json (point-in-time backtest for game lines,
+    logged results once there are enough), else the defaults above."""
+    w = {"game": BLEND_W_GAME, "props": BLEND_W_PROPS}
+    p = Path(__file__).resolve().parents[1] / "models" / "blend.json"
+    if p.exists():
+        js = json.loads(p.read_text())
+        w.update(js.get("game", {}))  # moneyline / spread / total
+        logged = js.get("logged", {})
+        if "props" in logged:
+            w["props"] = logged["props"]
+        if "game_logged" in logged:
+            w.update({k: logged["game_logged"] for k in ("moneyline", "spread", "total")})
+    return w
+
+
 def _s(x: pd.Series) -> pd.Series:
     """String key that keeps missing values as text (pandas' str dtype would turn the whole key NaN)."""
     return x.astype(object).map(str)
@@ -114,7 +133,8 @@ def evaluate(sim: dict, home: str, offers: pd.DataFrame, labels: dict | None = N
     o["ev"] = edge(o["model_prob"], o["price"].astype(float))
     # The backtest shows closing lines beat the pure model on game markets, so bet decisions use a
     # blend that leans on the no-vig market. The pure model stays in model_prob / ev.
-    w = np.where(o["market"].str.startswith("prop_"), BLEND_W_PROPS, BLEND_W_GAME)
+    bw = blend_weights()
+    w = o["market"].map(lambda m: bw["props"] if m.startswith("prop_") else bw.get(m, bw["game"])).astype(float).values
     mk = o["market_novig_prob"].astype(float)
     o["blend_prob"] = np.where(mk.notna(), w * o["model_prob"] + (1 - w) * mk, o["model_prob"])
     o["ev_blend"] = edge(o["blend_prob"], o["price"].astype(float))

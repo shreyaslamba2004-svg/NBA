@@ -13,7 +13,7 @@ import pandas as pd
 from .dataset import DATA, build, load_history
 from .models import SIM_STATS, predict_team, Bundle, predict_minutes, predict_rates
 from . import rotation, edges as E
-from . import sgm
+from . import scenarios as SC, sgm
 from .simulate import expected_minutes, simulate_game, summarize_game, summarize_players
 from .sources import espn, live
 from .sources.live import SourceUnavailable, norm_name
@@ -137,67 +137,119 @@ def availability_hash(sp: pd.DataFrame) -> str:
 
 # ------------------------------------------------------------------ projection
 
+def rookie_prior(pick: int | None) -> tuple[float, float]:
+    """(minutes if he plays, chance the coach plays him) for a player with no NBA games.
+    Hand-set from typical early-career usage by draft slot; replaced by his own numbers after
+    a few games."""
+    if pick is None:
+        return 8.0, 0.35
+    for top, mins, rot in ((3, 30.0, 0.97), (10, 24.0, 0.9), (20, 16.0, 0.75), (30, 12.0, 0.6)):
+        if pick <= top:
+            return mins, rot
+    return 8.0, 0.4
+
+
 def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
             history_from: str = "2023-24", market: pd.DataFrame | None = None,
             props: pd.DataFrame | None = None, book_lines: pd.DataFrame | None = None) -> dict:
+    """Project every game under who-plays scenarios (see scenarios.py).
+
+    base      every maybe player OUT: what the sheet shows for confirmed players
+    if X      maybe player X IN (others out): his projection, and for impactful players the
+              whole game re-projected
+    expected  all in/out combinations blended by probability: used to price bets
+    """
     pg, g = load_history()
     pg, g = pg[pg["season"] >= history_from], g[g["season"] >= history_from]
     slate = slate.assign(season=season_label(day))
-    P, G = build(pg, g, slate, sp)
+    sp = sp.copy()
+    # a maybe stops being a maybe once he's confirmed: ruled out (play_prob 0), cleared, or
+    # reported as starting -> the game collapses to one projection on the next run
+    sp["maybe"] = sp["status"].map(SC.is_maybe) & (sp["play_prob"] > 0) & (sp["starting"] != 1)
+    P, G = build(pg, g, slate, sp.assign(play_prob=np.where(sp["maybe"], 0.0, sp["play_prob"])))
     tP = P[P["is_target"] & P["game_id"].isin(slate["game_id"])].copy()
     tG = G[G["game_id"].isin(slate["game_id"])].copy()
-    late = ["status", "reason", "note", "min_cap", "starting"]
-    tP = tP.drop(columns=[c for c in late if c in tP.columns]).merge(sp[["game_id", "player_id"] + late],
-                  on=["game_id", "player_id"], how="left")
+    late = ["status", "reason", "note", "min_cap", "starting", "maybe"]
+    tP = tP.drop(columns=[c for c in late + ["play_prob"] if c in tP.columns]).merge(
+        sp[["game_id", "player_id", "play_prob"] + late], on=["game_id", "player_id"], how="left")
+    tP["maybe"] = tP["maybe"].fillna(False).astype(bool)
+    tP["avail_prob"] = tP["play_prob"].fillna(0.0)
     tP["starter_today"] = tP["starting"]  # confirmed starters from late news, when known
-    # no history at all (rookie / two-way): conservative prior so they don't vanish
-    tP["pmin_raw"] = np.where(tP["gp"] > 0, predict_minutes(b, tP), 6.0)
-    rates = predict_rates(b, tP)
-    for s in SIM_STATS:
-        prior = {"pts": .42, "reb": .18, "ast": .09, "fg3m": .04, "stl": .03, "blk": .02, "tov": .05,
-                 "fga": .36, "fta": .10}[s]
-        tP[f"rate_{s}"] = np.where(tP["gp"] > 0, rates[s], prior)
-    # healthy isn't the same as playing: scale by the chance the coach uses him (see rotation.py)
-    tP["avail_prob"] = tP["play_prob"]
+    # healthy isn't the same as playing: the chance the coach uses him (see rotation.py)
     tP["rotation_prob"] = rotation.prob(rotation.current_signal(pg, tP["player_id"].tolist()).values)
+    # no NBA games yet (rookies, injured before debut): prior from draft slot
+    tP["rookie_min"] = np.nan
+    for i in tP.index[tP["gp"].fillna(0) == 0]:
+        pid = int(tP.at[i, "player_id"])
+        pick = espn.draft_pick(pid - espn.SYNTH) if pid >= espn.SYNTH else None
+        tP.at[i, "rookie_min"], tP.at[i, "rotation_prob"] = rookie_prior(pick)
     tP.loc[tP["starting"] == 1, "rotation_prob"] = 1.0
-    tP["play_prob"] = tP["avail_prob"] * tP["rotation_prob"]
-    tP["pmin"] = 0.0
-    for (gid, team), idx in tP.groupby(["game_id", "team"]).groups.items():
-        tP.loc[idx, "pmin"] = expected_minutes(tP.loc[idx], b)
-    tG["mu_margin"], tG["mu_total"] = predict_team(b, tG)
 
     games_out, players_out, edges, sgms, sim_inputs = [], [], [], [], []
     for gr in tG.itertuples(index=False):
-        game = {"game_id": gr.game_id, "home": gr.home, "away": gr.away,
-                "mu_margin": gr.mu_margin, "mu_total": gr.mu_total}
+        Pg0, Gg0 = tP[tP["game_id"] == gr.game_id], tG[tG["game_id"] == gr.game_id]
+        matchup = f"{gr.away} @ {gr.home}"
         mk = None
         if market is not None and len(market):
             m = market[market["game_id"] == gr.game_id]
             if len(m):
                 mk = m.iloc[0]
-                game["market_spread_home"] = mk.get("spread_home")
-                game["market_total"] = mk.get("total")
-        gp = tP[(tP["game_id"] == gr.game_id) & (tP["play_prob"] > 0)].copy()
-        # reconcile player points with the team model
-        mu_h, mu_a = (gr.mu_total + gr.mu_margin) / 2, (gr.mu_total - gr.mu_margin) / 2
-        for team, mu in ((gr.home, mu_h), (gr.away, mu_a)):
-            t = gp["team"] == team
-            bu = (gp.loc[t, "rate_pts"] * gp.loc[t, "pmin"] * gp.loc[t, "play_prob"]).sum()
-            if bu > 0:
-                f = mu / bu
-                gp.loc[t, "rate_pts"] *= f
-                gp.loc[t, "rate_fga"] *= f ** 0.5
-        sim = simulate_game(game, gp, b, seed=int(gr.game_id) % 2**31)
-        gs = summarize_game(sim, game)
-        gs.update({"game_id": gr.game_id, "date": day.isoformat()})
-        ps = summarize_players(sim)
-        ps.insert(0, "game_id", gr.game_id)
-        ps.insert(1, "matchup", f"{gr.away} @ {gr.home}")
-        ps = ps.merge(gp[["player_id", "reason"]], on="player_id", how="left")
-        out_players = tP[(tP["game_id"] == gr.game_id) & (tP["avail_prob"] == 0)]
-        gs["out"] = ", ".join(f"{r.player_name} ({r.team})" for r in out_players.itertuples()
-                              if r.min_s == r.min_s and r.min_s > 8)
+        maybes = Pg0[Pg0["maybe"] & (Pg0["avail_prob"] > 0)]
+        cmb = SC.combos(maybes) if len(maybes) else [(frozenset(), 1.0)]
+        exact = set().union(*[c for c, _ in cmb])
+        seed = int(gr.game_id) % 2**31  # same random numbers in every scenario: differences are real
+        sims = {}
+        for S, _ in cmb:
+            Pg, Gg = Pg0, Gg0
+            for pid in S:
+                Pg, Gg = SC.switch_in(Pg, Gg, Pg0[Pg0["player_id"] == pid].iloc[0].to_dict())
+            Pg = Pg.copy()
+            Pg["play_prob"] = Pg["avail_prob"] * Pg["rotation_prob"]
+            ex = Pg["player_id"].isin(exact)
+            Pg.loc[ex, "play_prob"] = np.where(Pg.loc[ex, "player_id"].isin(S), 1.0, 0.0)  # scenario: he plays
+            gp, mu_m, mu_t = _prepare(Pg, Gg, b)
+            game = {"game_id": gr.game_id, "home": gr.home, "away": gr.away, "mu_margin": mu_m, "mu_total": mu_t}
+            if mk is not None:
+                game["market_spread_home"], game["market_total"] = mk.get("spread_home"), mk.get("total")
+            sims[S] = (simulate_game(game, gp, b, seed=seed), gp, game)
+        base_sim, base_gp, base_game = sims[frozenset()]
+        exp_sim = SC.mixture([(sims[S][0], w) for S, w in cmb], len(base_sim["margin"])) if len(cmb) > 1 else base_sim
+        names = dict(zip(Pg0["player_id"], Pg0["player_name"]))
+        out_players = Pg0[Pg0["avail_prob"] == 0]
+        out_txt = ", ".join(f"{r.player_name} ({r.team})" for r in out_players.itertuples()
+                            if r.min_s == r.min_s and r.min_s > 8)
+
+        def game_row(sim, game, scen, label):
+            gs = summarize_game(sim, game)
+            gs.update({"game_id": gr.game_id, "date": day.isoformat(), "out": out_txt,
+                       "scenario": scen, "scenario_label": label})
+            return gs
+
+        def player_rows(sim, gp, scen, label, only=None):
+            ps = summarize_players(sim)
+            if only is not None:
+                ps = ps[ps["player_id"].isin(only)]
+            ps.insert(0, "game_id", gr.game_id)
+            ps.insert(1, "matchup", matchup)
+            ps["scenario"], ps["scenario_label"] = scen, label
+            return ps.merge(gp[["player_id", "reason", "avail_prob", "rotation_prob"]], on="player_id", how="left")
+
+        maybe_names = ", ".join(names[p] for p in exact)
+        games_out.append(game_row(base_sim, base_game, "base", f"without {maybe_names}" if exact else "all confirmed"))
+        players_out.append(player_rows(base_sim, base_gp, "base", "base"))
+        if len(cmb) > 1:
+            games_out.append(game_row(exp_sim, base_game, "expected", "blended by each maybe's chance to play"))
+        for pid in exact:
+            sim, gp, game = sims[frozenset([pid])]
+            r = gp[gp["player_id"] == pid]
+            impact = bool(len(r) and float(r["pmin"].iloc[0]) >= SC.IMPACT_MIN)
+            scen, label = f"in:{pid}", f"if {names[pid]} plays"
+            g_row = game_row(sim, game, scen, label)
+            g_row["impact"] = impact
+            games_out.append(g_row)
+            players_out.append(player_rows(sim, gp, scen, label, None if impact else [pid]).assign(
+                maybe_player=pid, impact=impact, maybe_avail=float(Pg0.loc[Pg0["player_id"] == pid, "avail_prob"].iloc[0])))
+
         offers = []
         if mk is not None:
             offers.append(E.offers_from_espn_lines(gr.game_id, gr.home, gr.away, mk.to_dict()))
@@ -209,26 +261,24 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
             pp = props[props["game_id"] == gr.game_id]
             if len(pp):
                 offers.append(E.offers_from_props(pp))
-        labels = dict(zip(ps["player_id"], ps["player"]))
         if offers:
             allo = pd.concat(offers, ignore_index=True)
-            ev = E.evaluate(sim, gr.home, allo, labels=labels)
-            ev.insert(1, "matchup", f"{gr.away} @ {gr.home}")
+            ev = E.evaluate(exp_sim, gr.home, allo, labels=names)
+            ev.insert(1, "matchup", matchup)
+            ev = _depends_on(ev, sims, exact, names, gr.home)
             edges.append(ev)
             # same-game multis only from players certain to play (questionable legs could void)
-            certain = allo[allo["player_id"].isna() | allo["player_id"].isin(
-                gp.loc[(gp["avail_prob"] >= 0.99) & (gp["rotation_prob"] >= 0.95), "player_id"])]
+            certain_ids = base_gp.loc[(base_gp["avail_prob"] >= 0.99) & (base_gp["rotation_prob"] >= 0.95), "player_id"]
+            certain = allo[allo["player_id"].isna() | allo["player_id"].isin(certain_ids)]
             mk_p = ev[["market", "selection", "line", "player_id", "market_novig_prob"]].drop_duplicates(
                 ["market", "selection", "line", "player_id"])
             certain = certain.merge(mk_p, on=["market", "selection", "line", "player_id"], how="left")
-            sg = sgm.suggest(sim, gr.home, gr.away, certain, labels)
+            sg = sgm.suggest(exp_sim, gr.home, gr.away, certain, names)
             if len(sg):
-                sg.insert(0, "matchup", f"{gr.away} @ {gr.home}")
+                sg.insert(0, "matchup", matchup)
                 sgms.append(sg)
-        sim_inputs.append(gp.assign(game_mu_margin=gr.mu_margin, game_mu_total=gr.mu_total,
-                                    game_home=gr.home, game_away=gr.away))
-        games_out.append(gs)
-        players_out.append(ps)
+        sim_inputs.append(base_gp.assign(game_mu_margin=base_game["mu_margin"], game_mu_total=base_game["mu_total"],
+                                         game_home=gr.home, game_away=gr.away))
     games_df = pd.DataFrame(games_out)
     players_df = pd.concat(players_out, ignore_index=True) if players_out else pd.DataFrame()
     edges_df = pd.concat(edges, ignore_index=True) if edges else pd.DataFrame()
@@ -239,6 +289,61 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
     return {"games": games_df, "players": players_df, "edges": edges_df,
             "sgm": pd.concat(sgms, ignore_index=True) if sgms else pd.DataFrame(),
             "sim_inputs": pd.concat(sim_inputs, ignore_index=True)[keep] if sim_inputs else pd.DataFrame()}
+
+
+RATE_PRIOR = {"pts": .42, "reb": .18, "ast": .09, "fg3m": .04, "stl": .03, "blk": .02, "tov": .05,
+              "fga": .36, "fta": .10}
+
+
+def _prepare(Pg: pd.DataFrame, Gg: pd.DataFrame, b: Bundle) -> tuple[pd.DataFrame, float, float]:
+    """Minutes, per-minute rates and team score for one game's scenario."""
+    Pg = Pg.copy()
+    has = Pg["gp"].fillna(0) > 0
+    Pg["pmin_raw"] = np.where(has, predict_minutes(b, Pg), Pg["rookie_min"])
+    rates = predict_rates(b, Pg)
+    for s in SIM_STATS:
+        Pg[f"rate_{s}"] = np.where(has, rates[s], RATE_PRIOR[s])
+    mu_m, mu_t = predict_team(b, Gg)
+    mu_m, mu_t = float(np.asarray(mu_m)[0]), float(np.asarray(mu_t)[0])
+    Pg["pmin"] = 0.0
+    for _, idx in Pg.groupby("team").groups.items():
+        Pg.loc[idx, "pmin"] = expected_minutes(Pg.loc[idx], b)
+    gp = Pg[Pg["play_prob"] > 0].copy()
+    home = Gg["home"].iloc[0]
+    for team in gp["team"].unique():
+        mu = (mu_t + mu_m) / 2 if team == home else (mu_t - mu_m) / 2
+        t = gp["team"] == team
+        bu = (gp.loc[t, "rate_pts"] * gp.loc[t, "pmin"] * gp.loc[t, "play_prob"]).sum()
+        if bu > 0:  # reconcile player points with the team model
+            f = mu / bu
+            gp.loc[t, "rate_pts"] *= f
+            gp.loc[t, "rate_fga"] *= f ** 0.5
+    return gp, mu_m, mu_t
+
+
+def _depends_on(ev: pd.DataFrame, sims: dict, exact: set, names: dict, home: str) -> pd.DataFrame:
+    """For each offer: the maybe player whose status moves its probability most, both ways."""
+    ev = ev.copy()
+    ev["depends_on"], ev["p_if_out"], ev["p_if_in"] = "", np.nan, np.nan
+    if not exact or ev.empty:
+        return ev
+    base = sims[frozenset()][0]
+    rows = list(ev.itertuples(index=False))
+    p_out = np.array([E._model_prob(base, home, r.market, r.selection, r.line, r.player_id) for r in rows], float)
+    best_gap = np.zeros(len(rows))
+    for pid in exact:
+        sim = sims[frozenset([pid])][0]
+        p_in = np.array([E._model_prob(sim, home, r.market, r.selection, r.line, r.player_id) for r in rows], float)
+        own = ev["player_id"].values == pid
+        gap = np.where(own, 1.0, np.abs(np.nan_to_num(p_in) - np.nan_to_num(p_out)))
+        upd = gap > np.maximum(best_gap, 0.04)
+        ev.loc[upd, "depends_on"] = names[pid]
+        ev.loc[upd, "p_if_out"] = np.where(own[upd], 0.0, p_out[upd])
+        ev.loc[upd, "p_if_in"] = p_in[upd]
+        best_gap = np.where(upd, gap, best_gap)
+    for c in ("p_if_out", "p_if_in"):
+        ev[c] = ev[c].round(4)
+    return ev
 
 
 def market_lines(slate: pd.DataFrame) -> pd.DataFrame:

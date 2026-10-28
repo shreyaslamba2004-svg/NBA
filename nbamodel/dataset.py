@@ -63,7 +63,7 @@ def load_history() -> tuple[pd.DataFrame, pd.DataFrame]:
 
 
 def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = None,
-          slate_players: pd.DataFrame | None = None) -> tuple[pd.DataFrame, pd.DataFrame]:
+          slate_players: pd.DataFrame | None = None, pit_out: dict | None = None) -> tuple[pd.DataFrame, pd.DataFrame]:
     """Return (player_frame, game_frame).
 
     slate: upcoming games (game_id, game_date, season, home, away)
@@ -115,7 +115,7 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     if slate is not None and len(slate):
         tmask = pg_for_abs["is_target"]
         pg_for_abs.loc[tmask, "min"] = np.where(pg_for_abs.loc[tmask, "play_prob"] >= 0.5, 1.0, 0.0)
-    ab = roster_absences(pg_for_abs, pf, tf)
+    ab = roster_absences(pg_for_abs, pf, tf, pit_out=pit_out)
     tf = tf.merge(ab[["game_id", "team", "n_star_absent"]], on=["game_id", "team"], how="left")
     tf = add_standings(add_rest_habits(add_depth(add_travel(tf), hist_pg)))
 

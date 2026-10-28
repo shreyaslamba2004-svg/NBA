@@ -79,17 +79,30 @@ def _bets_table(df: pd.DataFrame) -> str:
                    "Stake"], rows)
 
 
-def best_bets(edges: pd.DataFrame) -> tuple[str, str]:
+def best_bets(edges: pd.DataFrame) -> tuple[str, str, str]:
+    """(best bets, wait-for-news, check-news) tables."""
     if edges.empty:
-        return "_No market prices were available for this run._", ""
+        return "_No market prices were available for this run._", "", ""
     e = edges.copy()
     e["check_news"] = e["check_news"].astype(str).str.lower() == "true"
+    dep = e.get("depends_on", pd.Series("", index=e.index)).fillna("").astype(str)
+    e["depends_on"] = dep
     # long shots excluded until the stat-distribution tails are validated in backtests
     good = e[(e["ev_blend"] >= MIN_EV) & (e["price_decimal"] <= MAX_ODDS)].sort_values("ev_blend", ascending=False)
     good = good.drop_duplicates(["matchup", "market", "selection", "line", "player"])  # best price per bet
-    clean, flagged = good[~good["check_news"]].head(TOP_BETS), good[good["check_news"]].head(TOP_BETS)
+    waiting = good[good["depends_on"] != ""].head(TOP_BETS)
+    rest = good[good["depends_on"] == ""]
+    clean, flagged = rest[~rest["check_news"]].head(TOP_BETS), rest[rest["check_news"]].head(TOP_BETS)
     main = _bets_table(clean) if len(clean) else "_No bets clear the edge threshold right now._"
-    return main, (_bets_table(flagged) if len(flagged) else "")
+    wait = ""
+    if len(waiting):
+        rows = [[_bet_label(r), r["matchup"], r["book"], _f(r["price_decimal"]), r["depends_on"],
+                 "void" if r["depends_on"] == r.get("player") else _f(r["p_if_out"], 1, pct=True),
+                 _f(r["p_if_in"], 1, pct=True),
+                 _f(r["ev_blend"], 1, pct=True, sign=True)] for _, r in waiting.iterrows()]
+        wait = _table(["Bet", "Game", "Book", "Odds", "Wait for news on", "Model if he sits", "Model if he plays",
+                       "EV now (blended odds he plays)"], rows)
+    return main, wait, (_bets_table(flagged) if len(flagged) else "")
 
 
 def sgm_md(sg: pd.DataFrame) -> str:
@@ -108,42 +121,77 @@ def sgm_md(sg: pd.DataFrame) -> str:
             "**Take at ≥**.")
 
 
-def _player_table(ps: pd.DataFrame, team: str) -> str:
-    t = ps[(ps["team"] == team) & (ps["play_prob"] > 0)].sort_values("proj_min", ascending=False)
+def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = False) -> str:
+    t = ps if team is None else ps[ps["team"] == team]
+    t = t[t["play_prob"] > 0].sort_values(["team", "proj_min"] if show_team else "proj_min",
+                                          ascending=[True, False] if show_team else False)
     rows = []
     for _, r in t.iterrows():
-        name = r["player"]
-        if r["play_prob"] < 0.99:
-            name += f" ({_c(r.get('status'))} {int(round(100 * r['play_prob']))}%)"
-        rows.append([name, _f(r["proj_min"], 1)] + [_f(r.get(f"proj_{s}"), 1) for s, _ in STATS])
-    return _table(["Player", "Min"] + [lab for _, lab in STATS], rows)
+        name = r["player"] + (f" ({r['team']})" if show_team else "")
+        rows.append([name, f"{int(round(100 * r['play_prob']))}%", _f(r["proj_min"], 1)] +
+                    [_f(r.get(f"proj_{s}"), 1) for s, _ in STATS])
+    return _table(["Player", "Plays", "Min"] + [lab for _, lab in STATS], rows)
+
+
+def _line_cells(r) -> list:
+    h, a = r["home"], r["away"]
+    mkt = []
+    if pd.notna(r.get("market_spread_home")):
+        mkt.append(f"{h} {float(r['market_spread_home']):+g} covers {_f(r.get('p_home_cover'), 0, pct=True)}")
+    if pd.notna(r.get("market_total")):
+        mkt.append(f"o{r['market_total']:g} {_f(r.get('p_over'), 0, pct=True)}")
+    return [f"{_f(r['proj_away_pts'], 1)}–{_f(r['proj_home_pts'], 1)}", f"{a} {_f(r['away_win_prob'], 0, pct=True)}",
+            f"{_f(r['fair_dec_away'])} / {_f(r['fair_dec_home'])}", f"{h} {float(r['fair_spread_home']):+g}",
+            r["fair_total"], "; ".join(mkt)]
+
+
+LINE_HEAD = ["Score", "Away win", "Fair H2H a/h", "Fair line", "Fair total", "vs market"]
 
 
 def games_md(g: pd.DataFrame, ps: pd.DataFrame) -> str:
     if g.empty:
         return "_No games._"
-    rows = []
-    for _, r in g.iterrows():
-        h, a = r["home"], r["away"]
-        mkt = []
-        if pd.notna(r.get("market_spread_home")):
-            mkt.append(f"{h} {float(r['market_spread_home']):+g} covers {_f(r.get('p_home_cover'), 0, pct=True)}")
-        if pd.notna(r.get("market_total")):
-            mkt.append(f"o{r['market_total']:g} {_f(r.get('p_over'), 0, pct=True)}")
-        rows.append([f"{a} @ {h}", r.get("tip_sydney", ""), f"{_f(r['proj_away_pts'], 1)}–{_f(r['proj_home_pts'], 1)}",
-                     f"{a} {_f(r['away_win_prob'], 0, pct=True)}", f"{_f(r['fair_dec_away'])} / {_f(r['fair_dec_home'])}",
-                     f"{h} {float(r['fair_spread_home']):+g}", r["fair_total"], "; ".join(mkt)])
-    out = [_table(["Game", "Tip (Syd)", "Score", "Away win", "Fair H2H a/h", "Fair line", "Fair total",
-                   "vs market"], rows)]
-    for _, r in g.iterrows():
-        a, h = r["away"], r["home"]
+    if "scenario" not in g:
+        g = g.assign(scenario="base", scenario_label="all confirmed")
+    if len(ps) and "scenario" not in ps:
+        ps = ps.assign(scenario="base")
+    base = g[g["scenario"] == "base"]
+    rows = [[f"{r['away']} @ {r['home']}", r.get("tip_sydney", "")] + _line_cells(r) for _, r in base.iterrows()]
+    out = ["Game lines below assume every questionable player sits; each game's section shows what changes if they play.\n",
+           _table(["Game", "Tip (Syd)"] + LINE_HEAD, rows)]
+    for _, r in base.iterrows():
+        a, h, gid = r["away"], r["home"], r["game_id"]
+        gg, gp = g[g["game_id"] == gid], (ps[ps["game_id"] == gid] if len(ps) else ps)
         out.append(f"\n### {a} @ {h}")
         if pd.notna(r.get("out")) and r.get("out"):
             out.append(f"Out: {r['out']}\n")
-        if len(ps):
-            gp = ps[ps["game_id"] == r["game_id"]]
+        alts = gg[gg["scenario"] != "base"]
+        if len(alts):
+            lr = [["Confirmed players only"] + _line_cells(r)]
+            for _, x in alts.iterrows():
+                lab = x["scenario_label"] if x["scenario"] != "expected" else "Expected (weighted by chance each plays)"
+                if x["scenario"].startswith("in:") and not bool(x.get("impact", False)):
+                    continue
+                lr.append([lab] + _line_cells(x))
+            out.append(_table(["Scenario"] + LINE_HEAD, lr) + "\n")
+        if len(gp):
+            maybe_rows = gp[gp["scenario"].str.startswith("in:") & (gp["player_id"] == gp.get("maybe_player"))]
+            if len(maybe_rows):
+                mr = []
+                for _, m in maybe_rows.iterrows():
+                    mr.append([f"{m['player']} ({m['team']})", _c(m.get("status")),
+                               f"{int(round(100 * float(m['maybe_avail'])))}%", _f(m["proj_min"], 1)] +
+                              [_f(m.get(f"proj_{s}"), 1) for s, _ in STATS] +
+                              ["full tables below" if bool(m.get("impact")) else "small"])
+                out.append("**Questionable players: chance to play, and their projection if they do**\n\n" +
+                           _table(["Player", "Status", "Chance", "Min"] + [lab for _, lab in STATS] + ["Effect on others"], mr)
+                           + "\n")
+            b = gp[gp["scenario"] == "base"]
             for t in (a, h):
-                out.append(f"<details><summary>{t} players</summary>\n\n{_player_table(gp, t)}\n\n</details>\n")
+                out.append(f"<details><summary>{t} players (confirmed only)</summary>\n\n{_player_table(b, t)}\n\n</details>\n")
+            for scen, x in gp[gp["scenario"].str.startswith("in:") & gp.get("impact", False).astype(bool)].groupby("scenario"):
+                lab = x["scenario_label"].iloc[0]
+                out.append(f"<details><summary>{lab}: both teams</summary>\n\n{_player_table(x, show_team=True)}\n\n</details>\n")
     return "\n".join(out)
 
 
@@ -158,18 +206,29 @@ def build(day: date) -> Path | None:
         ts = json.loads(st.read_text()).get("generated")
         if ts:
             gen = pd.Timestamp(ts).tz_convert("Australia/Sydney").strftime("%a %d %b, %I:%M %p")
-    bets, flagged = best_bets(ed)
+    bets, waiting, flagged = best_bets(ed)
     parts = [f"# NBA model · {day.strftime('%a %d %b %Y')} (US date)",
              f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
              "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.",
              f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})", bets,
-             "## Top same-game multis", sgm_md(sg)]
+             "## Top same-game multis (price ≤ 2.5)", sgm_md(sg)]
+    if waiting:
+        parts += ["## Wait for news",
+                  "These look good but hinge on a questionable player. The model's chance is shown both ways; the EV "
+                  "column weights them by how likely he is to play. Re-check once his status is confirmed (the sheet "
+                  "updates itself).", waiting]
     if flagged:
         parts += ["## Check news first",
                   "The model and the no-vig market disagree by more than 15 points on these. That's usually late "
                   "team news the model hasn't seen yet, so confirm before betting.", flagged]
-    parts += ["## Projections", games_md(g, ps),
+    parts += ["## Projections",
+              "**Plays** = chance he gets on court tonight (how often the coach uses him, and injury status). "
+              "**Min and stats are his averages in games he plays**, so a bench player can show 40% and 12 min. "
+              "Confirmed-player tables assume every questionable player sits, so a maybe never dilutes anyone "
+              "else's numbers. Starters and stars who are questionable get full \"if he plays\" tables for both "
+              "teams. Once a status is confirmed the next run drops the alternatives.",
+              games_md(g, ps),
               "---\n_Model projections, not advice. Edges are against the best price found at run time. "
               f"Full data: `output/{day.isoformat()}/`._"]
     md = "\n\n".join(parts) + "\n"
