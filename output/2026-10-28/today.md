@@ -1,6 +1,6 @@
 # NBA model · Wed 28 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 08:53 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 08:58 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -40,7 +40,7 @@ _No bets clear the edge threshold right now._
 |---|--:|--:|--:|--:|--:|--:|
 | Trae Young pra under 33.5 **+** CLE win | WAS @ CLE | 43.6% | 2.29 | 2.41 | 2.45 | +7.1% |
 | Trae Young pr under 23.5 **+** CLE win | WAS @ CLE | 43.1% | 2.32 | 2.44 | 2.46 | +6.2% |
-| Trae Young pa under 31.5 **+** CLE win | WAS @ CLE | 45.6% | 2.19 | 2.30 | 2.32 | +6.0% |
+| Trae Young pa under 31.5 **+** CLE win | WAS @ CLE | 45.7% | 2.19 | 2.30 | 2.32 | +6.1% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -62,20 +62,18 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kevin Durant AST over 5.5 | HOU @ MIL | draftkings | 3.69 | 2.25 | 44.5% | 25.3% | 30.1% | +11.2% | +64.2% | 1.0% |
+| Kevin Durant AST over 5.5 | HOU @ MIL | draftkings | 3.63 | 2.25 | 44.5% | 25.8% | 30.4% | +10.5% | +61.6% | 1.0% |
 | Klay Thompson 3PM under 2.5 | MIA @ ATL | draftkings | 1.87 | 1.21 | 82.3% | 50.0% | 58.1% | +8.6% | +53.9% | 2.0% |
 | Trae Young PRA under 33.5 | WAS @ CLE | draftkings | 1.91 | 1.28 | 77.8% | 48.9% | 56.2% | +7.2% | +48.6% | 2.0% |
 | Trae Young PR under 23.5 | WAS @ CLE | draftkings | 1.92 | 1.31 | 76.0% | 48.7% | 55.6% | +6.6% | +45.8% | 1.8% |
+| Trae Young PA under 31.5 | WAS @ CLE | draftkings | 1.81 | 1.25 | 80.1% | 51.8% | 58.9% | +6.4% | +44.7% | 2.0% |
 | Daniss Jenkins REB over 3.5 | CHA @ DET | draftkings | 3.04 | 2.10 | 47.7% | 30.7% | 35.0% | +6.3% | +45.0% | 0.8% |
-| Trae Young PA under 31.5 | WAS @ CLE | draftkings | 1.81 | 1.25 | 80.1% | 51.7% | 58.8% | +6.3% | +44.7% | 1.9% |
-| Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.25 | 2.25 | 44.4% | 28.8% | 32.7% | +6.2% | +44.3% | 0.7% |
+| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.72 | 1.19 | 84.0% | 54.4% | 61.8% | +6.2% | +44.5% | 2.0% |
 | Trae Young PTS under 21.5 | WAS @ CLE | draftkings | 1.82 | 1.27 | 78.9% | 51.4% | 58.2% | +6.0% | +43.5% | 1.8% |
-| Clint Capela REB under 7.5 | HOU @ MIL | draftkings | 1.69 | 1.19 | 84.0% | 55.2% | 62.4% | +5.7% | +42.4% | 2.0% |
 | Kobe Sanders 3PM under 1.5 | LAL @ LAC | draftkings | 2.17 | 1.53 | 65.5% | 43.1% | 48.7% | +5.7% | +42.2% | 1.2% |
 | Jake LaRavia PTS under 8.5 | LAL @ LAC | draftkings | 1.90 | 1.34 | 74.5% | 49.2% | 55.5% | +5.5% | +41.6% | 1.5% |
 | Tim Hardaway Jr. 3PM under 1.5 | MIA @ ATL | draftkings | 2.03 | 1.44 | 69.4% | 46.0% | 51.9% | +5.3% | +40.9% | 1.3% |
 | Saddiq Bey PTS over 14.5 | DEN @ NOP | draftkings | 3.01 | 2.15 | 46.5% | 31.1% | 34.9% | +5.1% | +39.9% | 0.6% |
-| Jake LaRavia PR under 12.5 | LAL @ LAC | draftkings | 1.93 | 1.38 | 72.3% | 48.3% | 54.3% | +5.1% | +39.9% | 1.4% |
 
 ## Projections
 
@@ -191,7 +189,7 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS)
 |---|--:|--:|--:|--:|--:|
 | CLE win **+** AJ Dybantsa 3+ reb | 59.2% | 1.69 | 1.77 | 1.59 | -6.0% |
 | Trae Young ra under 12.5 **+** Donovan Mitchell 1+ 3pm | 52.3% | 1.91 | 2.01 | 1.80 | -5.9% |
-| Trae Young pa under 31.5 **+** Donovan Mitchell 3+ reb | 48.5% | 2.06 | 2.16 | 2.08 | +1.1% |
+| Trae Young pa under 31.5 **+** Donovan Mitchell 3+ reb | 48.6% | 2.06 | 2.16 | 2.08 | +1.3% |
 | Trae Young pra under 33.5 **+** CLE win | 43.6% | 2.29 | 2.41 | 2.45 | +7.1% |
 
 <details><summary>WAS players (confirmed only)</summary>
@@ -617,18 +615,18 @@ Out: Steven Adams (HOU), Alperen Sengun (HOU), Marcus Smart (HOU)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Fred VanVleet REB over 3.5 | HOU @ MIL | draftkings | 2.47 | 1.95 | 51.4% | 37.8% | 41.2% | +1.8% | +26.9% | 0.3% |
+| Reed Sheppard AST over 5.5 | HOU @ MIL | draftkings | 3.95 | 3.05 | 32.8% | 23.7% | 25.9% | +2.5% | +29.6% | 0.2% |
 | Kevin Durant REB over 7.5 | HOU @ MIL | draftkings | 3.60 | 2.85 | 35.0% | 26.0% | 28.2% | +1.6% | +26.2% | 0.2% |
-| Reed Sheppard PTS over 14.5 | HOU @ MIL | draftkings | 2.65 | 2.17 | 46.0% | 35.3% | 38.0% | +0.6% | +22.0% | 0.1% |
+| Fred VanVleet REB over 3.5 | HOU @ MIL | draftkings | 2.42 | 1.95 | 51.4% | 38.6% | 41.8% | +1.2% | +24.4% | 0.2% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Jabari Smith Jr. 20+ pra **+** Ryan Rollins 8+ pts **+** Reed Sheppard 1+ 3pm | 56.2% | 1.78 | 1.87 | 1.54 | -13.4% |
+| Kevin Durant 4+ reb **+** Jabari Smith Jr. 20+ pra **+** Reed Sheppard 1+ 3pm | 55.2% | 1.81 | 1.90 | 1.57 | -13.4% |
 | Kevin Durant 10+ ra **+** Reed Sheppard 1+ 3pm | 52.3% | 1.91 | 2.01 | 1.83 | -4.0% |
 | Myles Turner 3pm under 1.5 **+** Reed Sheppard 1+ 3pm | 46.9% | 2.13 | 2.24 | 2.09 | -2.0% |
-| Myles Turner 3pm under 1.5 **+** Reed Sheppard 8+ pts | 40.3% | 2.48 | 2.61 | 2.49 | +0.3% |
+| Myles Turner 3pm under 1.5 **+** Kevin Durant 3+ ast | 40.7% | 2.46 | 2.58 | 2.47 | +0.4% |
 
 <details><summary>HOU players (confirmed only)</summary>
 
@@ -1191,18 +1189,18 @@ Out: Bradley Beal (LAC), Rui Hachimura (LAC), Brandon Ingram (LAC), Max Strus (L
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.61 | 2.59 | 38.5% | 25.9% | 29.0% | +4.9% | +39.1% | 0.5% |
-| Brook Lopez PTS over 14.5 | LAL @ LAC | draftkings | 2.90 | 2.13 | 46.9% | 32.2% | 35.9% | +4.1% | +36.1% | 0.5% |
-| Walker Kessler REB over 13.5 | LAL @ LAC | draftkings | 3.98 | 2.95 | 33.9% | 23.5% | 26.1% | +3.9% | +35.1% | 0.3% |
+| Brook Lopez REB over 5.5 | LAL @ LAC | draftkings | 3.12 | 2.25 | 44.4% | 29.9% | 33.6% | +4.7% | +38.5% | 0.6% |
+| Walker Kessler REB over 12.5 | LAL @ LAC | draftkings | 3.16 | 2.35 | 42.6% | 29.6% | 32.8% | +3.8% | +34.6% | 0.4% |
+| Darius Garland PTS over 29.5 | LAL @ LAC | draftkings | 3.37 | 2.59 | 38.5% | 27.7% | 30.4% | +2.6% | +29.9% | 0.3% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Derrick Jones Jr. 8+ pts **+** Brook Lopez 1+ 3pm | 60.0% | 1.67 | 1.75 | 1.54 | -7.9% |
-| Derrick Jones Jr. 8+ pts **+** Brook Lopez 6+ pts **+** Walker Kessler 8+ reb | 53.7% | 1.86 | 1.96 | 1.66 | -10.9% |
-| Quentin Grimes reb under 4.5 **+** Brook Lopez 8+ pts | 46.3% | 2.16 | 2.27 | 2.07 | -4.3% |
-| Quentin Grimes pr under 16.5 **+** Brook Lopez 8+ pts | 40.1% | 2.49 | 2.62 | 2.47 | -1.0% |
+| Derrick Jones Jr. 3+ reb **+** Walker Kessler 7+ reb **+** Kris Dunn 3+ ast | 53.5% | 1.87 | 1.96 | 1.63 | -13.0% |
+| Brook Lopez 4+ reb **+** Kris Dunn 3+ ast | 51.0% | 1.96 | 2.06 | 1.84 | -6.4% |
+| Brook Lopez 16+ pr **+** Austin Reaves 1+ 3pm | 47.4% | 2.11 | 2.21 | 2.08 | -1.3% |
+| Brook Lopez 16+ pr **+** Walker Kessler 8+ reb | 41.5% | 2.41 | 2.53 | 2.42 | +0.4% |
 
 <details><summary>LAL players (confirmed only)</summary>
 
