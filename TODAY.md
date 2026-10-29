@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 03:22 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 03:32 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -14,23 +14,33 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Onyeka Okongwu 2+ reb **+** Peyton Watson 6+ pts | CLE @ ATL | 63.5% | 1.58 | 1.65 | 1.58 | +0.4% |
+| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | CLE @ ATL | 58.8% | 1.70 | 1.78 | 1.53 | -9.8% |
+| Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** Donovan Mitchell 3+ reb | CLE @ ATL | 52.4% | 1.91 | 2.00 | 1.64 | -14.2% |
+| Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** Evan Mobley 5+ reb | CLE @ ATL | 56.0% | 1.79 | 1.88 | 1.53 | -14.5% |
+
+**Price 1.65-1.85**
+
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| POR win **+** Donovan Clingan 6+ pts | MEM @ POR | 55.1% | 1.81 | 1.90 | 1.68 | -7.1% |
+| Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** James Harden 3+ reb | CLE @ ATL | 50.1% | 1.99 | 2.09 | 1.71 | -14.3% |
+| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb **+** Evan Mobley 5+ reb | CLE @ ATL | 51.6% | 1.94 | 2.03 | 1.66 | -14.4% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson pts under 22.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 48.1% | 2.08 | 2.18 | 2.01 | -3.4% |
-| James Harden pa under 25.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 49.2% | 2.03 | 2.13 | 1.91 | -6.0% |
-| James Harden pra under 29.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 46.8% | 2.14 | 2.24 | 2.00 | -6.4% |
+| Jalen Johnson pra under 39.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 50.2% | 1.99 | 2.09 | 1.95 | -2.2% |
+| Jalen Johnson pra under 39.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 48.5% | 2.06 | 2.16 | 2.01 | -2.6% |
+| Jalen Johnson pr under 32.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 47.5% | 2.11 | 2.21 | 2.05 | -2.6% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Evan Mobley 3+ reb **+** Peyton Watson 6+ pts | CLE @ ATL | 53.2% | 1.88 | 1.97 | 2.11 | +12.3% |
-| Jalen Johnson reb under 9.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 45.6% | 2.19 | 2.30 | 2.11 | -3.8% |
-| POR win **+** game over 232.5 | MEM @ POR | 37.9% | 2.64 | 2.77 | 2.46 | -6.7% |
+| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 42.7% | 2.34 | 2.46 | 2.38 | +1.4% |
+| Cedric Coward 3pm under 1.5 **+** POR win | MEM @ POR | 41.4% | 2.41 | 2.53 | 2.44 | +1.0% |
+| Damian Lillard pts under 20.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 42.4% | 2.36 | 2.47 | 2.34 | -0.9% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -40,10 +50,9 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Onyeka Okongwu REB over 2.5 | CLE @ ATL | draftkings | 2.41 | 1.08 | 92.6% | 38.8% | 52.2% | +25.9% | +123.1% | 2.0% |
-| Peyton Watson REB over 1.5 | CLE @ ATL | draftkings | 2.18 | 1.08 | 92.7% | 42.9% | 55.3% | +20.6% | +102.0% | 2.0% |
-| Evan Mobley REB over 2.5 | CLE @ ATL | draftkings | 1.99 | 1.02 | 98.5% | 47.0% | 59.9% | +19.1% | +96.0% | 2.0% |
-| Onyeka Okongwu REB over 1.5 | CLE @ ATL | draftkings | 1.49 | 1.02 | 97.6% | 62.6% | 71.4% | +6.5% | +45.7% | 2.0% |
+| Cedric Coward PTS under 13.5 | MEM @ POR | draftkings | 1.94 | 1.27 | 78.6% | 48.1% | 55.7% | +8.3% | +52.8% | 2.0% |
+| Damian Lillard PTS under 20.5 | MEM @ POR | draftkings | 1.91 | 1.33 | 75.2% | 48.9% | 55.5% | +6.0% | +43.6% | 1.7% |
+| Ty Jerome PTS under 23.5 | MEM @ POR | draftkings | 1.87 | 1.34 | 74.5% | 50.4% | 56.5% | +5.5% | +39.4% | 1.6% |
 
 ## Projections
 
@@ -54,7 +63,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CLE @ ATL | Fri 30 Oct 11:00 | 114.9–115.4 | CLE 48% | 2.08 / 1.93 | ATL -1.5 | 230.5 | ATL -1.5 covers 49%; o239.5 31% |
-| SAC @ NOP | Fri 30 Oct 11:00 | 116.0–124.5 | SAC 27% | 3.65 / 1.38 | NOP -8.5 | 240.5 | NOP -5.5 covers 59%; o238.5 54% |
+| SAC @ NOP | Fri 30 Oct 11:00 | 116.0–124.5 | SAC 27% | 3.65 / 1.38 | NOP -8.5 | 240.5 | NOP -5.5 covers 59%; o237.5 56% |
 | MEM @ POR | Fri 30 Oct 13:00 | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o233.5 42% |
 
 ### CLE @ ATL
@@ -64,15 +73,16 @@ Out: Mouhamed Gueye (ATL)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| James Harden PA under 25.5 | CLE @ ATL | draftkings | 1.80 | 1.50 | 66.6% | 52.0% | 55.7% | +0.2% | +19.8% | 0.1% |
+| Evan Mobley AST under 3.5 | CLE @ ATL | draftkings | 2.17 | 1.73 | 57.9% | 43.1% | 46.8% | +1.5% | +25.6% | 0.3% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Onyeka Okongwu 2+ reb **+** Peyton Watson 6+ pts | 63.5% | 1.58 | 1.65 | 1.58 | +0.4% |
-| Jalen Johnson pts under 22.5 **+** Peyton Watson 6+ pts | 48.1% | 2.08 | 2.18 | 2.01 | -3.4% |
-| Evan Mobley 3+ reb **+** Peyton Watson 6+ pts | 53.2% | 1.88 | 1.97 | 2.11 | +12.3% |
+| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 58.8% | 1.70 | 1.78 | 1.53 | -9.8% |
+| Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** James Harden 3+ reb | 50.1% | 1.99 | 2.09 | 1.71 | -14.3% |
+| Jalen Johnson pra under 39.5 **+** Evan Mobley 4+ reb | 50.2% | 1.99 | 2.09 | 1.95 | -2.2% |
+| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 46.3% | 2.16 | 2.27 | 2.11 | -2.2% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
@@ -124,8 +134,8 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 116.0–124.5 | SAC 27% | 3.65 / 1.38 | NOP -8.5 | 240.5 | NOP -5.5 covers 59%; o238.5 54% |
-| Expected (weighted by chance each plays) | 115.8–125.6 | SAC 24% | 4.10 / 1.32 | NOP -9.5 | 241.5 | NOP -5.5 covers 62%; o238.5 56% |
+| Confirmed players only | 116.0–124.5 | SAC 27% | 3.65 / 1.38 | NOP -8.5 | 240.5 | NOP -5.5 covers 59%; o237.5 56% |
+| Expected (weighted by chance each plays) | 115.8–125.6 | SAC 24% | 4.10 / 1.32 | NOP -9.5 | 241.5 | NOP -5.5 covers 62%; o237.5 58% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -183,7 +193,9 @@ Out: Shaedon Sharpe (POR)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| POR win **+** game over 232.5 | 37.9% | 2.64 | 2.77 | 2.46 | -6.7% |
+| POR win **+** Donovan Clingan 6+ pts | 55.1% | 1.81 | 1.90 | 1.68 | -7.1% |
+| Damian Lillard 3pm under 3.5 **+** Donovan Clingan 6+ pts | 49.0% | 2.04 | 2.14 | 1.95 | -4.7% |
+| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | 42.7% | 2.34 | 2.46 | 2.38 | +1.4% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
