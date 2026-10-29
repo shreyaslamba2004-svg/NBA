@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 08:21 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 08:31 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -23,24 +23,24 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | NOP win **+** Precious Achiuwa 10+ pra | SAC @ NOP | 60.7% | 1.65 | 1.73 | 1.53 | -6.9% |
-| NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.7% | 1.65 | 1.73 | 1.53 | -7.0% |
-| NOP win **+** Domantas Sabonis 7+ reb | SAC @ NOP | 60.3% | 1.66 | 1.74 | 1.54 | -7.0% |
+| NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.6% | 1.65 | 1.73 | 1.54 | -6.9% |
+| NOP win **+** Domantas Sabonis 8+ reb | SAC @ NOP | 58.5% | 1.71 | 1.79 | 1.59 | -6.9% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| NOP win **+** Trey Murphy III 2+ 3pm | SAC @ NOP | 51.3% | 1.95 | 2.05 | 1.85 | -5.1% |
-| NOP win **+** Jeremiah Fears 8+ pts | SAC @ NOP | 53.2% | 1.88 | 1.97 | 1.78 | -5.2% |
+| NOP win **+** Jeremiah Fears 8+ pts | SAC @ NOP | 53.1% | 1.88 | 1.98 | 1.79 | -5.1% |
 | Jeremiah Fears 3+ reb **+** Precious Achiuwa 6+ pts | SAC @ NOP | 51.4% | 1.94 | 2.04 | 1.84 | -5.3% |
+| NOP win **+** Precious Achiuwa 6+ pts | SAC @ NOP | 55.8% | 1.79 | 1.88 | 1.69 | -5.9% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | SAC @ NOP | 47.6% | 2.10 | 2.20 | 2.06 | -1.7% |
+| Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | SAC @ NOP | 47.6% | 2.10 | 2.21 | 2.07 | -1.7% |
+| Precious Achiuwa 20+ pra **+** Domantas Sabonis 8+ reb | SAC @ NOP | 48.4% | 2.06 | 2.17 | 2.02 | -2.0% |
 | Jrue Holiday 4+ ast **+** Toumani Camara 6+ pts | MEM @ POR | 49.8% | 2.01 | 2.11 | 1.97 | -2.1% |
-| Precious Achiuwa 20+ pra **+** Domantas Sabonis 8+ reb | SAC @ NOP | 48.5% | 2.06 | 2.16 | 2.02 | -2.1% |
 
 **Price 2.10-2.50**
 
@@ -59,8 +59,8 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 4.00 | 2.29 | 43.6% | 23.4% | 28.4% | +13.7% | +74.4% | 1.1% |
-| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.85 | 2.41 | 41.5% | 24.3% | 28.6% | +10.1% | +59.8% | 0.9% |
-| Precious Achiuwa PRA over 24.5 | SAC @ NOP | draftkings | 3.41 | 2.27 | 44.1% | 27.4% | 31.6% | +7.7% | +50.4% | 0.8% |
+| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.88 | 2.41 | 41.5% | 24.1% | 28.4% | +10.4% | +61.1% | 0.9% |
+| Precious Achiuwa PRA over 24.5 | SAC @ NOP | draftkings | 3.43 | 2.27 | 44.1% | 27.3% | 31.5% | +7.9% | +51.3% | 0.8% |
 | Jrue Holiday AST over 4.5 | MEM @ POR | draftkings | 2.48 | 1.70 | 58.9% | 37.7% | 43.0% | +6.6% | +46.2% | 1.1% |
 | Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.74 | 1.93 | 51.8% | 34.1% | 38.5% | +5.6% | +41.9% | 0.8% |
 
@@ -84,15 +84,16 @@ Out: Mouhamed Gueye (ATL)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jalen Johnson PR under 31.5 | CLE @ ATL | draftkings | 1.90 | 1.58 | 63.3% | 49.2% | 52.7% | +0.2% | +20.4% | 0.1% |
+| Jalen Johnson PA under 29.5 | CLE @ ATL | draftkings | 1.91 | 1.59 | 62.7% | 48.9% | 52.4% | +0.0% | +19.8% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Onyeka Okongwu 6+ pts **+** Donovan Mitchell 1+ 3pm **+** Nickeil Alexander-Walker 2+ 3pm | 57.8% | 1.73 | 1.82 | 1.50 | -13.2% |
-| Luguentz Dort reb under 3.5 **+** Donovan Mitchell 20+ pra | 53.6% | 1.87 | 1.96 | 1.74 | -6.8% |
-| Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.2% | 2.12 | 2.22 | 2.03 | -4.4% |
-| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 44.9% | 2.23 | 2.34 | 2.14 | -3.9% |
+| Donovan Mitchell 3+ reb **+** Onyeka Okongwu 8+ pts | 60.0% | 1.67 | 1.75 | 1.52 | -8.5% |
+| Luguentz Dort reb under 3.5 **+** Onyeka Okongwu 6+ pts | 50.9% | 1.96 | 2.06 | 1.84 | -6.3% |
+| Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.1% | 2.12 | 2.23 | 2.03 | -4.3% |
+| ATL win **+** Onyeka Okongwu 8+ pts | 39.4% | 2.54 | 2.66 | 2.44 | -3.7% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -192,9 +193,9 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | NOP win **+** Precious Achiuwa 10+ pra | 60.7% | 1.65 | 1.73 | 1.53 | -6.9% |
-| NOP win **+** Trey Murphy III 2+ 3pm | 51.3% | 1.95 | 2.05 | 1.85 | -5.1% |
-| Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | 47.6% | 2.10 | 2.20 | 2.06 | -1.7% |
-| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 40.4% | 2.47 | 2.60 | 2.47 | -0.2% |
+| NOP win **+** Jeremiah Fears 8+ pts | 53.1% | 1.88 | 1.98 | 1.79 | -5.1% |
+| Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | 47.6% | 2.10 | 2.21 | 2.07 | -1.7% |
+| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 40.4% | 2.48 | 2.60 | 2.48 | +0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
