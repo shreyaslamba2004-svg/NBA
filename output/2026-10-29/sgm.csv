@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CLE @ ATL,Jalen Johnson pr under 31.5 + Peyton Watson 6+ pts,2,0.6504,0.4807,2.08,2.18,2.05,-0.0164,1.0,1.85-2.10
+CLE @ ATL,Jalen Johnson pr under 31.5 + Peyton Watson 6+ pts,2,0.6504,0.4804,2.08,2.19,2.05,-0.0163,1.0,1.85-2.10
+CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 1+ 3pm,2,0.6408,0.4717,2.12,2.23,2.08,-0.0171,0.998,1.85-2.10
 CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 20+ pra,2,0.6476,0.4772,2.1,2.2,2.06,-0.0172,0.998,1.85-2.10
-CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 3+ reb,2,0.5926,0.4365,2.29,2.41,2.25,-0.0177,0.998,2.10-2.50
-CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 1+ 3pm,2,0.6408,0.4733,2.11,2.22,2.07,-0.0184,0.998,1.85-2.10
-CLE @ ATL,Jalen Johnson pr under 31.5 + James Harden 3+ reb,2,0.5646,0.4155,2.41,2.53,2.36,-0.0184,0.997,2.10-2.50
-CLE @ ATL,Jalen Johnson pr under 31.5 + James Harden 10+ pts,2,0.6184,0.4583,2.18,2.29,2.14,-0.0193,0.998,2.10-2.50
-CLE @ ATL,Nickeil Alexander-Walker reb under 3.5 + Peyton Watson 6+ pts,2,0.6471,0.5294,1.89,1.98,1.78,-0.06,1.0,1.65-1.85
+CLE @ ATL,Jalen Johnson pr under 31.5 + James Harden 3+ reb,2,0.5646,0.4146,2.41,2.53,2.37,-0.0175,0.997,2.10-2.50
+CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 3+ reb,2,0.5926,0.4377,2.28,2.4,2.24,-0.0187,0.998,2.10-2.50
+CLE @ ATL,Jalen Johnson pr under 31.5 + James Harden 10+ pts,2,0.6184,0.4607,2.17,2.28,2.12,-0.0212,0.998,2.10-2.50
+CLE @ ATL,Nickeil Alexander-Walker reb under 3.5 + Donovan Mitchell 1+ 3pm,2,0.6384,0.5201,1.92,2.02,1.81,-0.0596,0.999,1.65-1.85
+CLE @ ATL,Nickeil Alexander-Walker reb under 3.5 + Peyton Watson 6+ pts,2,0.6471,0.5291,1.89,1.98,1.78,-0.0598,1.0,1.65-1.85
 CLE @ ATL,Nickeil Alexander-Walker reb under 3.5 + Donovan Mitchell 20+ pra,2,0.6446,0.5258,1.9,2.0,1.79,-0.0604,0.999,1.65-1.85
-CLE @ ATL,Nickeil Alexander-Walker reb under 3.5 + Donovan Mitchell 1+ 3pm,2,0.6384,0.5219,1.92,2.01,1.8,-0.0607,0.999,1.65-1.85
-CLE @ ATL,Peyton Watson 8+ pts + Donovan Mitchell 25+ pra + James Harden 12+ pts,3,0.596,0.5264,1.9,1.99,1.64,-0.1391,1.011,1.50-1.65
-CLE @ ATL,Donovan Mitchell 3+ reb + Peyton Watson 8+ pts + James Harden 12+ pts,3,0.6042,0.5314,1.88,1.98,1.62,-0.14,1.008,1.50-1.65
-CLE @ ATL,Donovan Mitchell 3+ reb + Evan Mobley 20+ pra + James Harden 12+ pts,3,0.6212,0.5465,1.83,1.92,1.57,-0.1412,1.007,1.50-1.65
+CLE @ ATL,James Harden 3+ reb + Donovan Mitchell 1+ 3pm + Peyton Watson 8+ pts,3,0.6505,0.5654,1.77,1.86,1.52,-0.1398,1.004,1.50-1.65
+CLE @ ATL,Donovan Mitchell 25+ pra + Peyton Watson 8+ pts + James Harden 12+ pts,3,0.596,0.5286,1.89,1.99,1.63,-0.1404,1.011,1.50-1.65
+CLE @ ATL,James Harden 3+ reb + Donovan Mitchell 3+ reb + Peyton Watson 8+ pts,3,0.6008,0.5239,1.91,2.0,1.64,-0.1425,1.002,1.50-1.65
 SAC @ NOP,Precious Achiuwa 11+ pts + Trey Murphy III 2+ 3pm,2,0.538,0.4086,2.45,2.57,2.38,-0.0278,1.003,2.10-2.50
 SAC @ NOP,Domantas Sabonis ast under 6.5 + Precious Achiuwa 8+ pts,2,0.5354,0.3973,2.52,2.64,2.44,-0.03,0.994,2.10-2.50
 SAC @ NOP,Precious Achiuwa 11+ pts + Domantas Sabonis 25+ pra,2,0.601,0.4673,2.14,2.25,2.07,-0.0309,1.008,1.85-2.10
@@ -28,8 +28,8 @@ MEM @ POR,Ty Jerome pts under 24.5 + Toumani Camara 6+ pts,2,0.6699,0.4811,2.08,
 MEM @ POR,Ty Jerome pts under 24.5 + Jrue Holiday 1+ 3pm,2,0.6697,0.4793,2.09,2.19,2.08,-0.0031,0.999,1.85-2.10
 MEM @ POR,Cedric Coward pr under 19.5 + Jrue Holiday 1+ 3pm,2,0.6593,0.4759,2.1,2.21,2.09,-0.0064,1.0,1.85-2.10
 MEM @ POR,Deni Avdija 5+ reb + Donovan Clingan 6+ pts,2,0.6486,0.5931,1.69,1.77,1.53,-0.0956,1.004,1.50-1.65
-MEM @ POR,Jrue Holiday 15+ pra + Deni Avdija 4+ ast + Toumani Camara 6+ pts,3,0.6357,0.5155,1.94,2.04,1.72,-0.1138,1.009,1.65-1.85
 MEM @ POR,Jrue Holiday 15+ pra + Deni Avdija 5+ reb + Toumani Camara 6+ pts,3,0.6197,0.5046,1.98,2.08,1.75,-0.1157,1.008,1.65-1.85
-MEM @ POR,Deni Avdija 4+ ast + Jrue Holiday 1+ 3pm + Toumani Camara 6+ pts,3,0.6375,0.5451,1.83,1.93,1.59,-0.1337,1.005,1.50-1.65
+MEM @ POR,Jrue Holiday 15+ pra + Deni Avdija 4+ ast + Donovan Clingan 6+ pts,3,0.5829,0.4829,2.07,2.17,1.82,-0.1213,1.008,1.65-1.85
 MEM @ POR,Deni Avdija 5+ reb + Jrue Holiday 1+ 3pm + Toumani Camara 6+ pts,3,0.6217,0.5338,1.87,1.97,1.62,-0.1352,1.005,1.50-1.65
 MEM @ POR,Deni Avdija 5+ reb + Jrue Holiday 1+ 3pm + Donovan Clingan 6+ pts,3,0.5723,0.4974,2.01,2.11,1.74,-0.1362,1.008,1.65-1.85
+MEM @ POR,Jrue Holiday 1+ 3pm + Deni Avdija 4+ ast + Toumani Camara 6+ pts,3,0.6375,0.5502,1.82,1.91,1.57,-0.1367,1.005,1.50-1.65

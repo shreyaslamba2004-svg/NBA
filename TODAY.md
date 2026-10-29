@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 12:21 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 12:36 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -22,15 +22,15 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 |---|--:|--:|--:|--:|--:|--:|
 | NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.2% | 1.66 | 1.74 | 1.54 | -7.3% |
 | Deni Avdija 5+ reb **+** Donovan Clingan 6+ pts | MEM @ POR | 59.3% | 1.69 | 1.77 | 1.53 | -9.6% |
-| Deni Avdija 4+ ast **+** Jrue Holiday 1+ 3pm **+** Toumani Camara 6+ pts | MEM @ POR | 54.5% | 1.83 | 1.93 | 1.59 | -13.4% |
+| Deni Avdija 5+ reb **+** Jrue Holiday 1+ 3pm **+** Toumani Camara 6+ pts | MEM @ POR | 53.4% | 1.87 | 1.97 | 1.62 | -13.5% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | NOP win **+** Jeremiah Fears 8+ pts | SAC @ NOP | 51.0% | 1.96 | 2.06 | 1.85 | -5.7% |
+| Nickeil Alexander-Walker reb under 3.5 **+** Donovan Mitchell 1+ 3pm | CLE @ ATL | 52.0% | 1.92 | 2.02 | 1.81 | -6.0% |
 | Nickeil Alexander-Walker reb under 3.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 52.9% | 1.89 | 1.98 | 1.78 | -6.0% |
-| Nickeil Alexander-Walker reb under 3.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 52.6% | 1.90 | 2.00 | 1.79 | -6.0% |
 
 **Price 1.85-2.10**
 
@@ -88,10 +88,10 @@ Out: Mouhamed Gueye (ATL)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Peyton Watson 8+ pts **+** Donovan Mitchell 25+ pra **+** James Harden 12+ pts | 52.6% | 1.90 | 1.99 | 1.64 | -13.9% |
-| Nickeil Alexander-Walker reb under 3.5 **+** Peyton Watson 6+ pts | 52.9% | 1.89 | 1.98 | 1.78 | -6.0% |
-| Jalen Johnson pr under 31.5 **+** Peyton Watson 6+ pts | 48.1% | 2.08 | 2.18 | 2.05 | -1.6% |
-| Jalen Johnson pr under 31.5 **+** Donovan Mitchell 3+ reb | 43.6% | 2.29 | 2.41 | 2.25 | -1.8% |
+| James Harden 3+ reb **+** Donovan Mitchell 1+ 3pm **+** Peyton Watson 8+ pts | 56.5% | 1.77 | 1.86 | 1.52 | -14.0% |
+| Nickeil Alexander-Walker reb under 3.5 **+** Donovan Mitchell 1+ 3pm | 52.0% | 1.92 | 2.02 | 1.81 | -6.0% |
+| Jalen Johnson pr under 31.5 **+** Peyton Watson 6+ pts | 48.0% | 2.08 | 2.19 | 2.05 | -1.6% |
+| Jalen Johnson pr under 31.5 **+** James Harden 3+ reb | 41.5% | 2.41 | 2.53 | 2.37 | -1.8% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
@@ -218,13 +218,14 @@ Out: Shaedon Sharpe (POR)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Ty Jerome AST under 5.5 | MEM @ POR | draftkings | 2.11 | 1.72 | 58.3% | 44.3% | 47.8% | +0.8% | +23.0% | 0.2% |
+| Ja Morant AST over 6.5 | MEM @ POR | draftkings | 2.10 | 1.78 | 56.3% | 44.8% | 47.7% | +0.2% | +18.3% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Deni Avdija 5+ reb **+** Donovan Clingan 6+ pts | 59.3% | 1.69 | 1.77 | 1.53 | -9.6% |
-| Jrue Holiday 15+ pra **+** Deni Avdija 4+ ast **+** Toumani Camara 6+ pts | 51.5% | 1.94 | 2.04 | 1.72 | -11.4% |
+| Jrue Holiday 15+ pra **+** Deni Avdija 5+ reb **+** Toumani Camara 6+ pts | 50.5% | 1.98 | 2.08 | 1.75 | -11.6% |
 | Ty Jerome pts under 24.5 **+** Toumani Camara 6+ pts | 48.1% | 2.08 | 2.18 | 2.07 | -0.3% |
 | Ty Jerome pra under 33.5 **+** Jrue Holiday 3+ ast | 41.8% | 2.40 | 2.52 | 2.47 | +3.1% |
 
