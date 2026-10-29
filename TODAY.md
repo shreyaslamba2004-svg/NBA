@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 09:06 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 09:16 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -30,9 +30,9 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| NOP win **+** Jeremiah Fears 8+ pts | SAC @ NOP | 53.1% | 1.88 | 1.98 | 1.79 | -5.1% |
-| Jeremiah Fears 3+ reb **+** Precious Achiuwa 6+ pts | SAC @ NOP | 51.4% | 1.94 | 2.04 | 1.84 | -5.3% |
+| Jeremiah Fears 3+ reb **+** Precious Achiuwa 6+ pts | SAC @ NOP | 51.5% | 1.94 | 2.04 | 1.84 | -5.2% |
 | NOP win **+** Precious Achiuwa 6+ pts | SAC @ NOP | 55.8% | 1.79 | 1.88 | 1.69 | -5.9% |
+| Jeremiah Fears 3+ reb **+** Domantas Sabonis 20+ pra | SAC @ NOP | 55.6% | 1.80 | 1.89 | 1.68 | -6.6% |
 
 **Price 1.85-2.10**
 
@@ -40,7 +40,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 |---|--:|--:|--:|--:|--:|--:|
 | Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | SAC @ NOP | 47.6% | 2.10 | 2.21 | 2.07 | -1.7% |
 | Ty Jerome pts under 24.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.2% | 2.12 | 2.23 | 2.08 | -1.9% |
-| Precious Achiuwa 20+ pra **+** Domantas Sabonis 8+ reb | SAC @ NOP | 48.4% | 2.06 | 2.17 | 2.02 | -2.0% |
+| Ty Jerome pa under 30.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.2% | 2.12 | 2.22 | 2.07 | -2.1% |
 
 **Price 2.10-2.50**
 
@@ -83,17 +83,16 @@ Out: Mouhamed Gueye (ATL)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson PA under 29.5 | CLE @ ATL | draftkings | 1.94 | 1.59 | 62.8% | 48.1% | 51.8% | +0.6% | +22.0% | 0.2% |
-| Jalen Johnson PTS under 22.5 | CLE @ ATL | draftkings | 1.85 | 1.54 | 64.8% | 50.4% | 54.0% | +0.1% | +20.1% | 0.0% |
+| Jalen Johnson PA under 29.5 | CLE @ ATL | draftkings | 1.93 | 1.59 | 62.8% | 48.5% | 52.1% | +0.3% | +20.9% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Nickeil Alexander-Walker 2+ 3pm **+** Jalen Johnson 1+ 3pm | 58.9% | 1.70 | 1.78 | 1.54 | -9.4% |
-| Luguentz Dort reb under 3.5 **+** Onyeka Okongwu 6+ pts | 51.3% | 1.95 | 2.05 | 1.82 | -6.6% |
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 12+ pts | 46.9% | 2.13 | 2.24 | 2.08 | -2.5% |
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 3+ reb | 41.2% | 2.43 | 2.55 | 2.37 | -2.3% |
+| Donovan Mitchell 3+ reb **+** Onyeka Okongwu 8+ pts | 60.3% | 1.66 | 1.74 | 1.51 | -8.9% |
+| Luguentz Dort 3pm under 1.5 **+** Onyeka Okongwu 6+ pts | 51.4% | 1.95 | 2.04 | 1.82 | -6.7% |
+| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 12+ pts | 47.3% | 2.11 | 2.22 | 2.05 | -2.8% |
+| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 3+ reb | 41.6% | 2.40 | 2.52 | 2.33 | -2.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -193,7 +192,7 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | NOP win **+** Precious Achiuwa 10+ pra | 60.7% | 1.65 | 1.73 | 1.53 | -6.9% |
-| NOP win **+** Jeremiah Fears 8+ pts | 53.1% | 1.88 | 1.98 | 1.79 | -5.1% |
+| Jeremiah Fears 3+ reb **+** Precious Achiuwa 6+ pts | 51.5% | 1.94 | 2.04 | 1.84 | -5.2% |
 | Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | 47.6% | 2.10 | 2.21 | 2.07 | -1.7% |
 | Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 40.4% | 2.48 | 2.60 | 2.48 | +0.0% |
 
