@@ -264,11 +264,18 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
                 offers.append(E.offers_from_props(pp))
         if offers:
             allo = pd.concat(offers, ignore_index=True)
+            for c in ("player_id", "line"):  # book feeds disagree on dtypes (None vs NaN ids)
+                allo[c] = pd.to_numeric(allo[c], errors="coerce")
             allo["offered"] = bookie.offered(allo, base_gp).values
             ev = E.evaluate(exp_sim, gr.home, allo, labels=names)
             key = ["market", "selection", "line", "player_id"]
-            ok = allo.groupby(key, dropna=False)["offered"].max().reset_index()
+            ok = allo.groupby(key, dropna=False)[["offered", "paired"]].max().reset_index()
+            ok = ok.rename(columns={"paired": "main_line"})  # a book prices both sides: not an alt line
+            for d in (ev, ok):
+                d["player_id"] = pd.to_numeric(d["player_id"], errors="coerce")
+                d["line"] = pd.to_numeric(d["line"], errors="coerce")
             ev = ev.merge(ok, on=key, how="left")
+            ev["offered"] = ev["offered"].fillna(True).astype(bool)
             ev.insert(1, "matchup", matchup)
             ev = _depends_on(ev, sims, exact, names, gr.home)
             edges.append(ev)

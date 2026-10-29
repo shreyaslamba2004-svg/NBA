@@ -146,9 +146,11 @@ def _game_extras(gid, ed: pd.DataFrame, sg: pd.DataFrame, matchup: str) -> str:
             e = e[e["check_news"].astype(str).str.lower() != "true"]
         if "offered" in e:
             e = e[e["offered"].astype(str).str.lower() != "false"]
+        if "main_line" in e:  # each player's actual line, not alt/milestone lines
+            e = e[e["main_line"].astype(str).str.lower() == "true"]
         e = e.sort_values("ev_blend", ascending=False).drop_duplicates(["player", "market", "selection", "line"])
         if len(e):
-            out.append("**Best player props**\n\n" + _bets_table(e.head(TOP_PROPS_GAME)))
+            out.append("**Best player props (main lines)**\n\n" + _bets_table(e.head(TOP_PROPS_GAME)))
     if len(sg):
         x = sg[sg["matchup"] == matchup].sort_values("ev_at_multiplied_prices", ascending=False)
         if "band" in x:  # best one per price band
@@ -231,7 +233,7 @@ def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None,
             b = gp[gp["scenario"] == "base"]
             for t in (a, h):
                 out.append(f"<details><summary>{t} players (confirmed only)</summary>\n\n{_player_table(b, t)}\n\n</details>\n")
-            for scen, x in gp[gp["scenario"].str.startswith("in:") & gp.get("impact", False).astype(bool)].groupby("scenario"):
+            for scen, x in gp[gp["scenario"].str.startswith("in:") & gp.get("impact", pd.Series(False, index=gp.index)).fillna(False).astype(bool)].groupby("scenario"):
                 lab = x["scenario_label"].iloc[0]
                 out.append(f"<details><summary>{lab}: both teams</summary>\n\n{_player_table(x, show_team=True)}\n\n</details>\n")
     return "\n".join(out)

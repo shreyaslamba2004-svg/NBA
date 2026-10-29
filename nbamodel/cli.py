@@ -144,6 +144,8 @@ def cmd_live(a):
             market_log.log_book_lines(snap)
             state["book_lines"] = True
         state["pretip_done"] += [int(g) for g in entering["game_id"]]
+        state_p.parent.mkdir(parents=True, exist_ok=True)
+        state_p.write_text(json.dumps(state))  # saved now: a later failure must not re-buy these props
     news = h != state["hash"] or len(entering)
     if news or dk_hash != state["dk_hash"]:
         print("re-projecting:", "availability changed" if h != state["hash"] else
