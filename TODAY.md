@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 10:50 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 10:56 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -40,7 +40,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 |---|--:|--:|--:|--:|--:|--:|
 | Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 49.9% | 2.00 | 2.10 | 2.06 | +2.6% |
 | Jrue Holiday 8+ ra **+** Ja Morant 4+ ast | MEM @ POR | 47.5% | 2.10 | 2.21 | 2.09 | -0.7% |
-| Jalen Johnson pts under 22.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 48.2% | 2.08 | 2.18 | 2.03 | -2.0% |
+| Ty Jerome pts under 24.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.2% | 2.12 | 2.22 | 2.08 | -2.0% |
 
 **Price 2.10-2.50**
 
@@ -203,7 +203,7 @@ Out: Shaedon Sharpe (POR)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Damian Lillard 3PM under 2.5 | MEM @ POR | draftkings | 2.24 | 1.81 | 55.2% | 41.7% | 45.1% | +1.0% | +23.6% | 0.2% |
-| Cameron Boozer PRA under 28.5 | MEM @ POR | draftkings | 1.86 | 1.54 | 64.9% | 50.2% | 53.9% | +0.3% | +20.9% | 0.1% |
+| Cameron Boozer PR under 23.5 | MEM @ POR | draftkings | 1.95 | 1.62 | 61.9% | 47.9% | 51.4% | +0.3% | +20.8% | 0.1% |
 | Isaiah Stewart REB under 3.5 | MEM @ POR | draftkings | 1.80 | 1.50 | 66.7% | 51.9% | 55.6% | +0.1% | +20.0% | 0.0% |
 
 **Best multis (one per price band)**
