@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 04:02 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 04:12 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -23,24 +23,24 @@ _No bets clear the edge threshold right now._
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 52.2% | 1.91 | 2.01 | 1.84 | -3.6% |
-| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | MEM @ POR | 53.9% | 1.85 | 1.95 | 1.75 | -5.7% |
-| NOP win **+** Trey Murphy III 3+ reb | SAC @ NOP | 52.0% | 1.92 | 2.02 | 1.78 | -7.3% |
+| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | MEM @ POR | 54.1% | 1.85 | 1.94 | 1.74 | -5.8% |
+| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ ast | MEM @ POR | 52.3% | 1.91 | 2.01 | 1.79 | -6.1% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Cedric Coward pts under 13.5 **+** Deni Avdija 3+ reb | MEM @ POR | 51.0% | 1.96 | 2.06 | 1.98 | +0.7% |
-| Ty Jerome pa under 30.5 **+** Deni Avdija 3+ reb | MEM @ POR | 49.8% | 2.01 | 2.11 | 2.01 | +0.0% |
-| Ty Jerome pr under 27.5 **+** Deni Avdija 3+ reb | MEM @ POR | 49.7% | 2.01 | 2.11 | 2.00 | -0.5% |
+| Cedric Coward pts under 13.5 **+** Deni Avdija 3+ reb | MEM @ POR | 51.1% | 1.96 | 2.06 | 1.97 | +0.6% |
+| Ty Jerome pr under 27.5 **+** Deni Avdija 3+ reb | MEM @ POR | 49.8% | 2.01 | 2.11 | 1.99 | -0.6% |
+| Ty Jerome pa under 30.5 **+** Deni Avdija 3+ reb | MEM @ POR | 50.7% | 1.97 | 2.07 | 1.95 | -0.9% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 43.3% | 2.31 | 2.42 | 2.32 | +0.5% |
-| Ty Jerome pa under 30.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 42.3% | 2.36 | 2.48 | 2.36 | -0.1% |
-| Ty Jerome pra under 34.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 43.6% | 2.30 | 2.41 | 2.28 | -0.6% |
+| Cedric Coward pts under 13.5 **+** Ja Morant 4+ ast | MEM @ POR | 46.9% | 2.13 | 2.24 | 2.15 | +1.0% |
+| Cedric Coward pts under 13.5 **+** Deni Avdija 4+ ast | MEM @ POR | 44.5% | 2.25 | 2.36 | 2.26 | +0.7% |
+| Cedric Coward pts under 13.5 **+** Damian Lillard 3+ ast | MEM @ POR | 45.6% | 2.19 | 2.30 | 2.21 | +0.7% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -50,12 +50,11 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Ty Jerome PA under 30.5 | MEM @ POR | draftkings | 1.93 | 1.29 | 77.5% | 48.5% | 55.8% | +7.4% | +49.3% | 2.0% |
 | Cedric Coward PTS under 13.5 | MEM @ POR | draftkings | 1.89 | 1.27 | 78.6% | 49.4% | 56.7% | +7.3% | +48.9% | 2.0% |
-| Ty Jerome PRA under 34.5 | MEM @ POR | draftkings | 1.86 | 1.27 | 78.9% | 50.2% | 57.4% | +6.8% | +46.8% | 2.0% |
 | Ty Jerome PR under 27.5 | MEM @ POR | draftkings | 1.92 | 1.31 | 76.4% | 48.7% | 55.6% | +6.7% | +46.5% | 1.8% |
+| Ty Jerome PA under 30.5 | MEM @ POR | draftkings | 1.88 | 1.29 | 77.5% | 49.8% | 56.7% | +6.5% | +45.6% | 1.8% |
+| Ty Jerome PRA under 34.5 | MEM @ POR | draftkings | 1.83 | 1.27 | 78.9% | 51.2% | 58.1% | +6.1% | +44.0% | 1.8% |
 | Ty Jerome PTS under 24.5 | MEM @ POR | draftkings | 1.85 | 1.29 | 77.6% | 50.6% | 57.4% | +5.9% | +43.4% | 1.8% |
-| Cameron Boozer PA under 19.5 | MEM @ POR | draftkings | 1.96 | 1.39 | 72.1% | 47.6% | 53.8% | +5.5% | +41.4% | 1.4% |
 
 ## Projections
 
@@ -208,13 +207,19 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 ### MEM @ POR
 Out: Shaedon Sharpe (POR)
 
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Deni Avdija PTS under 22.5 | MEM @ POR | draftkings | 1.93 | 1.59 | 63.1% | 48.5% | 52.2% | +0.5% | +21.5% | 0.1% |
+
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | 53.9% | 1.85 | 1.95 | 1.75 | -5.7% |
-| Cedric Coward pts under 13.5 **+** Deni Avdija 3+ reb | 51.0% | 1.96 | 2.06 | 1.98 | +0.7% |
-| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | 43.3% | 2.31 | 2.42 | 2.32 | +0.5% |
+| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | 54.1% | 1.85 | 1.94 | 1.74 | -5.8% |
+| Cedric Coward pts under 13.5 **+** Deni Avdija 3+ reb | 51.1% | 1.96 | 2.06 | 1.97 | +0.6% |
+| Cedric Coward pts under 13.5 **+** Ja Morant 4+ ast | 46.9% | 2.13 | 2.24 | 2.15 | +1.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
