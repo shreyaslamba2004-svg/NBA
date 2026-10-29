@@ -1,10 +1,14 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 09:16 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 09:20 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
-All automatic checks passed (team minutes, player minutes vs recent games, team points vs market, player points vs DraftKings).
+1 flag(s). These numbers are unusual: there may be a good reason (injuries, a new role), but check them before betting on the players or games listed.
+
+| Game | Check | Detail |
+|---|---|---|
+| SAC @ NOP | player points | Zion Williamson projected 24.5 pts vs DraftKings line 19.5 |
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -12,9 +16,10 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jeremiah Fears REB over 4.5 | SAC @ NOP | draftkings | 3.94 | 2.60 | 38.4% | 23.7% | 27.4% | +7.9% | +51.4% | 0.7% |
 | Damian Lillard AST over 5.5 | MEM @ POR | draftkings | 3.82 | 2.63 | 38.0% | 24.5% | 27.9% | +6.4% | +45.2% | 0.6% |
+| Derik Queen REB over 9.5 | SAC @ NOP | draftkings | 3.45 | 2.40 | 41.6% | 27.1% | 30.7% | +6.0% | +43.7% | 0.6% |
 | Ja Morant AST over 7.5 | MEM @ POR | draftkings | 3.26 | 2.31 | 43.3% | 28.7% | 32.3% | +5.4% | +41.1% | 0.6% |
-| Darius Acuff Jr. REB over 4.5 | SAC @ NOP | draftkings | 3.97 | 2.82 | 35.5% | 23.5% | 26.5% | +5.3% | +40.8% | 0.4% |
 
 ## Best same-game multis by price (1.50 to 2.50)
 
@@ -22,33 +27,33 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| NOP win **+** Precious Achiuwa 10+ pra | SAC @ NOP | 60.7% | 1.65 | 1.73 | 1.53 | -6.9% |
-| NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.6% | 1.65 | 1.73 | 1.54 | -6.9% |
-| NOP win **+** Domantas Sabonis 8+ reb | SAC @ NOP | 58.5% | 1.71 | 1.79 | 1.59 | -6.9% |
+| Derik Queen 8+ pts **+** Trey Murphy III 20+ pra | SAC @ NOP | 61.5% | 1.63 | 1.71 | 1.55 | -4.9% |
+| Derik Queen 8+ pts **+** Trey Murphy III 2+ 3pm | SAC @ NOP | 59.6% | 1.68 | 1.76 | 1.59 | -5.2% |
+| Derik Queen 8+ pts **+** Bennedict Mathurin 6+ pts | SAC @ NOP | 59.9% | 1.67 | 1.75 | 1.57 | -5.8% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jeremiah Fears 3+ reb **+** Precious Achiuwa 6+ pts | SAC @ NOP | 51.5% | 1.94 | 2.04 | 1.84 | -5.2% |
-| NOP win **+** Precious Achiuwa 6+ pts | SAC @ NOP | 55.8% | 1.79 | 1.88 | 1.69 | -5.9% |
-| Jeremiah Fears 3+ reb **+** Domantas Sabonis 20+ pra | SAC @ NOP | 55.6% | 1.80 | 1.89 | 1.68 | -6.6% |
+| Jeremiah Fears 15+ pra **+** Derik Queen 8+ pts **+** Precious Achiuwa 6+ pts | SAC @ NOP | 51.0% | 1.96 | 2.06 | 1.84 | -6.0% |
+| Jeremiah Fears 15+ pra **+** Trey Murphy III 20+ pra **+** Precious Achiuwa 6+ pts | SAC @ NOP | 52.1% | 1.92 | 2.01 | 1.80 | -6.1% |
+| Luguentz Dort 3pm under 1.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 51.4% | 1.95 | 2.04 | 1.82 | -6.7% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | SAC @ NOP | 47.6% | 2.10 | 2.21 | 2.07 | -1.7% |
-| Ty Jerome pts under 24.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.2% | 2.12 | 2.23 | 2.08 | -1.9% |
-| Ty Jerome pa under 30.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.2% | 2.12 | 2.22 | 2.07 | -2.1% |
+| Jeremiah Fears 6+ ra **+** Trey Murphy III 20+ pra | SAC @ NOP | 48.9% | 2.05 | 2.15 | 2.05 | +0.4% |
+| Jeremiah Fears 6+ ra **+** Precious Achiuwa 6+ pts | SAC @ NOP | 52.1% | 1.92 | 2.01 | 1.92 | -0.0% |
+| Jeremiah Fears 6+ ra **+** Bennedict Mathurin 6+ pts | SAC @ NOP | 47.8% | 2.09 | 2.20 | 2.09 | -0.2% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jrue Holiday 8+ ra **+** Damian Lillard 3+ ast | MEM @ POR | 43.3% | 2.31 | 2.43 | 2.35 | +1.6% |
-| Jrue Holiday 8+ ra **+** Scoot Henderson 6+ pts | MEM @ POR | 43.0% | 2.33 | 2.44 | 2.35 | +0.8% |
-| Ty Jerome pr under 27.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.7% | 2.40 | 2.52 | 2.41 | +0.5% |
+| Jeremiah Fears 20+ pra **+** Zion Williamson 15+ pts | SAC @ NOP | 42.5% | 2.35 | 2.47 | 2.44 | +3.8% |
+| Jeremiah Fears 20+ pra **+** Derik Queen 8+ pts | SAC @ NOP | 43.2% | 2.31 | 2.43 | 2.40 | +3.8% |
+| Jeremiah Fears 20+ pra **+** Trey Murphy III 20+ pra | SAC @ NOP | 44.1% | 2.27 | 2.38 | 2.35 | +3.5% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -58,11 +63,15 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jeremiah Fears PRA over 24.5 | SAC @ NOP | draftkings | 3.59 | 1.90 | 52.6% | 26.0% | 32.7% | +17.3% | +88.9% | 1.7% |
 | Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.99 | 2.29 | 43.6% | 23.4% | 28.5% | +13.6% | +74.0% | 1.1% |
-| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.88 | 2.41 | 41.5% | 24.1% | 28.4% | +10.4% | +61.1% | 0.9% |
-| Precious Achiuwa PRA over 24.5 | SAC @ NOP | draftkings | 3.43 | 2.27 | 44.1% | 27.3% | 31.5% | +7.9% | +51.3% | 0.8% |
+| Zion Williamson PTS over 24.5 | SAC @ NOP | draftkings | 3.63 | 2.23 | 44.9% | 25.8% | 30.5% | +10.8% | +63.0% | 1.0% |
+| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.88 | 2.40 | 41.7% | 24.1% | 28.5% | +10.5% | +61.7% | 0.9% |
 | Jrue Holiday AST over 4.5 | MEM @ POR | draftkings | 2.49 | 1.70 | 58.9% | 37.5% | 42.9% | +6.8% | +46.8% | 1.1% |
+| Jeremiah Fears AST over 3.5 | SAC @ NOP | draftkings | 2.56 | 1.75 | 57.3% | 36.5% | 41.7% | +6.8% | +46.7% | 1.1% |
+| Jeremiah Fears PRA over 19.5 | SAC @ NOP | draftkings | 1.91 | 1.33 | 75.3% | 48.9% | 55.5% | +6.0% | +43.7% | 1.7% |
 | Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.74 | 1.93 | 51.8% | 34.1% | 38.5% | +5.6% | +41.9% | 0.8% |
+| Jeremiah Fears PA over 16.5 | SAC @ NOP | draftkings | 1.95 | 1.38 | 72.3% | 47.9% | 54.0% | +5.4% | +41.1% | 1.4% |
 
 ## Projections
 
@@ -73,7 +82,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CLE @ ATL | Fri 30 Oct 11:00 | 116.1–116.9 | CLE 48% | 2.10 / 1.91 | ATL -1.5 | 232.5 | ATL -1.5 covers 49%; o237.5 40% |
-| SAC @ NOP | Fri 30 Oct 11:00 | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -6.5 covers 52%; o235.5 56% |
+| SAC @ NOP | Fri 30 Oct 11:00 | 116.0–121.2 | SAC 36% | 2.80 / 1.56 | NOP -5.5 | 237.5 | NOP -5.5 covers 49%; o234.5 56% |
 | MEM @ POR | Fri 30 Oct 13:00 | 111.0–119.3 | MEM 28% | 3.61 / 1.38 | POR -8.5 | 230.5 | POR -7.5 covers 53%; o232.5 45% |
 
 ### CLE @ ATL
@@ -185,46 +194,41 @@ Out: Mouhamed Gueye (ATL)
 
 
 ### SAC @ NOP
-Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC)
+Out: Yves Missi (NOP), Dejounte Murray (NOP), Jordan Poole (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC)
+
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jeremiah Fears 3PM over 1.5 | SAC @ NOP | draftkings | 2.54 | 2.04 | 48.9% | 36.9% | 39.9% | +1.3% | +24.3% | 0.2% |
+| Trey Murphy III AST over 3.5 | SAC @ NOP | draftkings | 2.28 | 1.84 | 54.3% | 41.0% | 44.3% | +1.0% | +23.7% | 0.2% |
+| Zion Williamson RA over 8.5 | SAC @ NOP | draftkings | 1.96 | 1.61 | 62.0% | 47.8% | 51.3% | +0.7% | +21.5% | 0.2% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| NOP win **+** Precious Achiuwa 10+ pra | 60.7% | 1.65 | 1.73 | 1.53 | -6.9% |
-| Jeremiah Fears 3+ reb **+** Precious Achiuwa 6+ pts | 51.5% | 1.94 | 2.04 | 1.84 | -5.2% |
-| Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | 47.6% | 2.10 | 2.21 | 2.07 | -1.7% |
-| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 40.4% | 2.48 | 2.60 | 2.48 | +0.0% |
-
-| Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
-|---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -6.5 covers 52%; o235.5 56% |
-| Expected (weighted by chance each plays) | 115.6–123.2 | SAC 29% | 3.39 / 1.42 | NOP -7.5 | 238.5 | NOP -6.5 covers 53%; o235.5 57% |
-
-**Questionable players: chance to play, and their projection if they do**
-
-| Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jordan Poole (NOP) | Doubtful | 20% | 15.2 | 7.5 | 1.6 | 2.0 | 1.1 | 0.6 | 0.3 | 0.9 | 11.1 | small |
-| Jaron Pierre Jr. (NOP) | Questionable | 55% | 8.7 | 3.5 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 5.9 | small |
-| Malik Dia (NOP) | Questionable | 55% | 8.6 | 3.5 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 5.9 | small |
+| Derik Queen 8+ pts **+** Trey Murphy III 20+ pra | 61.5% | 1.63 | 1.71 | 1.55 | -4.9% |
+| Jeremiah Fears 15+ pra **+** Derik Queen 8+ pts **+** Precious Achiuwa 6+ pts | 51.0% | 1.96 | 2.06 | 1.84 | -6.0% |
+| Jeremiah Fears 6+ ra **+** Trey Murphy III 20+ pra | 48.9% | 2.05 | 2.15 | 2.05 | +0.4% |
+| Jeremiah Fears 20+ pra **+** Zion Williamson 15+ pts | 42.5% | 2.35 | 2.47 | 2.44 | +3.8% |
 
 <details><summary>SAC players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Darius Acuff Jr. | 93% | 34.8 | 20.9 | 3.9 | 4.7 | 2.1 | 1.1 | 0.4 | 2.8 | 29.4 |
+| Darius Acuff Jr. | 93% | 34.8 | 20.9 | 3.9 | 4.7 | 2.1 | 1.1 | 0.4 | 2.8 | 29.5 |
 | Domantas Sabonis | 98% | 34.5 | 18.8 | 14.4 | 5.9 | 0.4 | 1.0 | 0.4 | 2.6 | 39.1 |
 | Zach LaVine | 98% | 34.4 | 21.9 | 3.5 | 2.9 | 2.8 | 0.9 | 0.3 | 2.3 | 28.4 |
-| Precious Achiuwa | 98% | 29.8 | 14.0 | 8.3 | 1.7 | 0.4 | 1.1 | 1.0 | 1.3 | 24.0 |
-| De'Andre Hunter | 98% | 27.7 | 11.8 | 5.2 | 1.5 | 1.7 | 0.7 | 0.2 | 1.2 | 18.5 |
+| Precious Achiuwa | 98% | 29.7 | 14.0 | 8.2 | 1.7 | 0.4 | 1.1 | 1.0 | 1.3 | 23.9 |
+| De'Andre Hunter | 98% | 27.8 | 11.8 | 5.2 | 1.6 | 1.6 | 0.7 | 0.2 | 1.2 | 18.5 |
 | Daeqwon Plowden | 98% | 18.2 | 5.9 | 2.1 | 0.9 | 0.9 | 0.5 | 0.2 | 0.6 | 8.9 |
 | Jonathan Mogbo | 64% | 16.0 | 5.6 | 2.9 | 0.9 | 0.5 | 0.5 | 0.3 | 0.7 | 9.4 |
-| Malik Monk | 96% | 15.7 | 8.2 | 1.6 | 2.8 | 1.0 | 0.5 | 0.3 | 1.1 | 12.5 |
-| Emanuel Sharp | 93% | 15.5 | 5.0 | 1.0 | 1.0 | 0.6 | 0.5 | 0.2 | 0.6 | 7.0 |
-| Nique Clifford | 72% | 12.4 | 4.8 | 1.9 | 1.2 | 0.4 | 0.5 | 0.2 | 0.9 | 8.0 |
-| Leaky Black | 52% | 11.1 | 3.0 | 2.1 | 0.8 | 0.2 | 0.5 | 0.4 | 0.4 | 6.0 |
-| Alex Karaban | 58% | 9.3 | 2.5 | 1.8 | 0.6 | 0.0 | 0.3 | 0.3 | 0.5 | 4.9 |
+| Malik Monk | 96% | 15.6 | 8.1 | 1.6 | 2.7 | 1.0 | 0.5 | 0.3 | 1.1 | 12.4 |
+| Emanuel Sharp | 93% | 15.4 | 4.9 | 1.0 | 1.0 | 0.6 | 0.5 | 0.2 | 0.6 | 7.0 |
+| Nique Clifford | 72% | 12.5 | 4.9 | 1.9 | 1.2 | 0.4 | 0.5 | 0.2 | 0.9 | 8.0 |
+| Leaky Black | 52% | 11.4 | 3.1 | 2.2 | 0.8 | 0.3 | 0.5 | 0.4 | 0.4 | 6.1 |
+| Alex Karaban | 58% | 9.3 | 2.5 | 1.8 | 0.6 | 0.0 | 0.3 | 0.3 | 0.5 | 5.0 |
 
 </details>
 
@@ -232,20 +236,19 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Trey Murphy III | 98% | 34.4 | 18.8 | 5.2 | 3.4 | 3.1 | 1.4 | 0.5 | 1.6 | 27.4 |
-| Dejounte Murray | 98% | 32.5 | 19.0 | 5.9 | 6.9 | 1.7 | 1.9 | 0.4 | 3.0 | 31.8 |
-| Zion Williamson | 96% | 32.3 | 21.4 | 5.6 | 3.3 | 0.2 | 1.2 | 0.7 | 2.1 | 30.4 |
-| Saddiq Bey | 96% | 28.6 | 16.0 | 4.7 | 2.2 | 2.1 | 0.9 | 0.2 | 1.0 | 22.9 |
-| Jeremiah Fears | 98% | 26.5 | 14.8 | 3.7 | 3.4 | 1.4 | 1.2 | 0.4 | 2.1 | 21.8 |
-| Derik Queen | 98% | 26.3 | 12.7 | 8.2 | 3.0 | 0.3 | 1.1 | 1.0 | 2.2 | 23.9 |
-| Herbert Jones | 96% | 19.7 | 6.0 | 2.3 | 1.6 | 0.8 | 1.1 | 0.4 | 0.7 | 9.9 |
-| Bennedict Mathurin | 98% | 18.3 | 8.8 | 3.4 | 1.6 | 0.6 | 0.5 | 0.2 | 1.2 | 13.8 |
-| Karlo Matkovic | 86% | 15.5 | 5.8 | 3.9 | 0.9 | 0.5 | 0.5 | 1.0 | 0.6 | 10.6 |
-| DeAndre Jordan | 58% | 15.0 | 4.2 | 6.0 | 0.8 | 0.0 | 0.4 | 0.7 | 0.7 | 11.1 |
-| AJ Johnson | 8% | 12.6 | 5.3 | 2.2 | 1.1 | 0.4 | 0.3 | 0.3 | 0.7 | 8.6 |
-| Trendon Watford | 26% | 10.3 | 3.9 | 1.9 | 1.2 | 0.1 | 0.3 | 0.3 | 0.7 | 7.0 |
-| Bryce McGowens | 52% | 9.8 | 3.4 | 1.2 | 0.7 | 0.2 | 0.4 | 0.1 | 0.3 | 5.2 |
-| Julian Reese | 28% | 8.5 | 3.5 | 1.5 | 0.8 | 0.2 | 0.2 | 0.2 | 0.4 | 5.8 |
+| Trey Murphy III | 98% | 35.4 | 20.8 | 5.6 | 4.0 | 3.4 | 1.4 | 0.5 | 1.9 | 30.4 |
+| Zion Williamson | 96% | 33.6 | 24.5 | 6.0 | 3.8 | 0.2 | 1.3 | 0.7 | 2.4 | 34.4 |
+| Saddiq Bey | 96% | 30.5 | 18.1 | 5.0 | 2.7 | 2.4 | 0.9 | 0.2 | 1.2 | 25.8 |
+| Jeremiah Fears | 98% | 29.7 | 17.8 | 4.1 | 4.2 | 1.6 | 1.3 | 0.4 | 2.5 | 26.0 |
+| Derik Queen | 98% | 28.7 | 14.4 | 9.0 | 3.6 | 0.4 | 1.2 | 1.1 | 2.5 | 27.1 |
+| Herbert Jones | 96% | 23.8 | 7.2 | 2.8 | 2.0 | 1.0 | 1.4 | 0.4 | 1.0 | 12.0 |
+| Bennedict Mathurin | 98% | 21.6 | 11.1 | 3.9 | 2.1 | 0.8 | 0.6 | 0.2 | 1.5 | 17.2 |
+| Karlo Matkovic | 86% | 18.5 | 6.9 | 4.6 | 1.1 | 0.6 | 0.6 | 1.1 | 0.7 | 12.5 |
+| DeAndre Jordan | 58% | 18.1 | 5.0 | 7.3 | 1.0 | 0.0 | 0.4 | 0.9 | 0.9 | 13.2 |
+| Trendon Watford | 26% | 13.5 | 5.3 | 2.5 | 1.7 | 0.1 | 0.4 | 0.4 | 1.0 | 9.6 |
+| Bryce McGowens | 52% | 12.9 | 4.5 | 1.5 | 0.9 | 0.4 | 0.5 | 0.2 | 0.5 | 7.0 |
+| AJ Johnson | 8% | 12.3 | 5.1 | 2.2 | 1.1 | 0.4 | 0.4 | 0.2 | 0.6 | 8.3 |
+| Julian Reese | 30% | 8.6 | 3.6 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 5.9 |
 
 </details>
 
