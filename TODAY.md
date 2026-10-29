@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 06:02 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 06:12 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -85,10 +85,10 @@ Out: Mouhamed Gueye (ATL)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 58.7% | 1.71 | 1.79 | 1.54 | -9.7% |
+| James Harden 3+ reb **+** Jalen Johnson 1+ 3pm | 59.1% | 1.69 | 1.78 | 1.53 | -9.9% |
 | Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | 54.4% | 1.84 | 1.93 | 1.75 | -4.8% |
 | Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.3% | 2.11 | 2.22 | 2.09 | -1.3% |
-| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 45.0% | 2.22 | 2.33 | 2.20 | -1.0% |
+| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 44.8% | 2.23 | 2.34 | 2.21 | -0.9% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
