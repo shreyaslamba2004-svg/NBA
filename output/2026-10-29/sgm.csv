@@ -3,25 +3,25 @@ CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 1+ 3pm,2,0.6477,0.4775
 CLE @ ATL,Jalen Johnson pra under 39.5 + Evan Mobley 15+ pra,2,0.6786,0.5068,1.97,2.07,1.93,-0.0207,1.0,1.85-2.10
 CLE @ ATL,Jalen Johnson pra under 39.5 + Onyeka Okongwu 6+ pts,2,0.623,0.461,2.17,2.28,2.12,-0.0209,0.997,2.10-2.50
 CLE @ ATL,Jalen Johnson pra under 39.5 + Evan Mobley 4+ reb,2,0.6698,0.5021,1.99,2.09,1.95,-0.0225,1.0,1.85-2.10
-CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 3+ reb,2,0.5981,0.445,2.25,2.36,2.19,-0.024,0.996,2.10-2.50
-CLE @ ATL,Jalen Johnson pra under 39.5 + James Harden 3+ reb,2,0.5704,0.4244,2.36,2.47,2.29,-0.0279,0.992,2.10-2.50
+CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 3+ reb,2,0.5981,0.447,2.24,2.35,2.18,-0.0256,0.996,2.10-2.50
+CLE @ ATL,Jalen Johnson pra under 39.5 + James Harden 3+ reb,2,0.5704,0.4247,2.35,2.47,2.29,-0.028,0.992,2.10-2.50
 CLE @ ATL,Jalen Johnson ra under 17.5 + Evan Mobley 15+ pra,2,0.6807,0.5322,1.88,1.97,1.81,-0.0388,1.0,1.65-1.85
 CLE @ ATL,Jalen Johnson ra under 17.5 + Evan Mobley 4+ reb,2,0.6719,0.5272,1.9,1.99,1.82,-0.0406,1.0,1.65-1.85
-CLE @ ATL,Peyton Watson 3pm under 1.5 + Evan Mobley 15+ pra,2,0.6105,0.5163,1.94,2.03,1.79,-0.0736,0.999,1.65-1.85
-CLE @ ATL,Onyeka Okongwu 6+ pts + Donovan Mitchell 3+ reb + James Harden 3+ reb,3,0.6212,0.5438,1.84,1.93,1.57,-0.1445,1.001,1.50-1.65
-CLE @ ATL,Onyeka Okongwu 6+ pts + Donovan Mitchell 3+ reb + Evan Mobley 6+ reb,3,0.6345,0.5634,1.77,1.86,1.51,-0.1475,1.003,1.50-1.65
-CLE @ ATL,Donovan Mitchell 3+ reb + James Harden 3+ reb + Evan Mobley 5+ reb,3,0.6346,0.5621,1.78,1.87,1.52,-0.1482,1.001,1.50-1.65
-SAC @ NOP,Domantas Sabonis ast under 6.5 + Trey Murphy III 2+ 3pm,2,0.5674,0.4257,2.35,2.47,2.28,-0.0297,0.997,2.10-2.50
-SAC @ NOP,Domantas Sabonis ast under 6.5 + Trey Murphy III 3+ reb,2,0.5723,0.4524,2.21,2.32,2.12,-0.0431,1.002,2.10-2.50
-SAC @ NOP,Zach LaVine pa under 26.5 + Trey Murphy III 2+ 3pm,2,0.5464,0.4209,2.38,2.49,2.27,-0.0439,0.994,2.10-2.50
-SAC @ NOP,NOP win + Trey Murphy III 2+ 3pm,2,0.6322,0.4963,2.01,2.12,1.92,-0.0476,1.01,1.85-2.10
-SAC @ NOP,Zach LaVine pa under 26.5 + Domantas Sabonis 8+ reb,2,0.6168,0.4865,2.06,2.16,1.96,-0.0487,0.998,1.85-2.10
-SAC @ NOP,Zach LaVine pa under 26.5 + Domantas Sabonis 8+ pts,2,0.6291,0.4964,2.01,2.12,1.91,-0.0499,0.997,1.85-2.10
-SAC @ NOP,NOP win + Domantas Sabonis 7+ reb,2,0.7254,0.5836,1.71,1.8,1.6,-0.0652,1.0,1.50-1.65
+CLE @ ATL,Donovan Mitchell ast under 5.5 + Evan Mobley 15+ pra,2,0.716,0.5652,1.77,1.86,1.69,-0.046,0.999,1.65-1.85
+CLE @ ATL,Onyeka Okongwu 6+ pts + James Harden 3+ reb + Donovan Mitchell 3+ reb,3,0.6212,0.5466,1.83,1.92,1.56,-0.146,1.001,1.50-1.65
+CLE @ ATL,Onyeka Okongwu 6+ pts + Donovan Mitchell 3+ reb + Evan Mobley 6+ reb,3,0.6345,0.566,1.77,1.86,1.5,-0.1489,1.003,1.50-1.65
+CLE @ ATL,Donovan Mitchell 1+ 3pm + James Harden 3+ reb + Evan Mobley 6+ reb,3,0.629,0.5566,1.8,1.89,1.53,-0.149,1.0,1.50-1.65
+SAC @ NOP,Domantas Sabonis ast under 6.5 + Trey Murphy III 2+ 3pm,2,0.5674,0.4255,2.35,2.47,2.28,-0.0295,0.997,2.10-2.50
+SAC @ NOP,Zach LaVine pa under 26.5 + Trey Murphy III 2+ 3pm,2,0.5464,0.4198,2.38,2.5,2.28,-0.0427,0.994,2.10-2.50
+SAC @ NOP,Domantas Sabonis ast under 6.5 + Trey Murphy III 3+ reb,2,0.5723,0.4522,2.21,2.32,2.12,-0.043,1.002,2.10-2.50
+SAC @ NOP,Zach LaVine pa under 26.5 + Domantas Sabonis 7+ reb,2,0.6355,0.4993,2.0,2.1,1.91,-0.0469,0.998,1.85-2.10
+SAC @ NOP,NOP win + Trey Murphy III 2+ 3pm,2,0.6322,0.4961,2.02,2.12,1.92,-0.0475,1.01,1.85-2.10
+SAC @ NOP,Zach LaVine pa under 26.5 + Domantas Sabonis 8+ pts,2,0.6291,0.4952,2.02,2.12,1.92,-0.0489,0.997,1.85-2.10
+SAC @ NOP,NOP win + Domantas Sabonis 7+ reb,2,0.7254,0.5821,1.72,1.8,1.61,-0.0644,1.0,1.50-1.65
 SAC @ NOP,NOP win + Domantas Sabonis 8+ pts,2,0.7151,0.575,1.74,1.83,1.62,-0.0701,0.995,1.50-1.65
-SAC @ NOP,NOP win + Trey Murphy III 3+ reb,2,0.6292,0.5205,1.92,2.02,1.78,-0.0732,1.002,1.65-1.85
-SAC @ NOP,Trey Murphy III pa under 22.5 + Domantas Sabonis 6+ reb,2,0.587,0.5,2.0,2.1,1.85,-0.0769,0.999,1.65-1.85
-SAC @ NOP,NOP win + Domantas Sabonis 7+ reb + Trey Murphy III 1+ 3pm,3,0.6936,0.5326,1.88,1.97,1.67,-0.1099,1.003,1.65-1.85
+SAC @ NOP,NOP win + Trey Murphy III 3+ reb,2,0.6292,0.5203,1.92,2.02,1.78,-0.073,1.002,1.65-1.85
+SAC @ NOP,NOP win + Domantas Sabonis 7+ reb + Trey Murphy III 1+ 3pm,3,0.6936,0.5319,1.88,1.97,1.67,-0.1095,1.003,1.65-1.85
+SAC @ NOP,NOP win + Domantas Sabonis 8+ pts + Trey Murphy III 1+ 3pm,3,0.6838,0.5254,1.9,2.0,1.68,-0.1149,0.998,1.65-1.85
 MEM @ POR,Damian Lillard pts under 20.5 + Jrue Holiday 3+ ast,2,0.6345,0.4266,2.34,2.46,2.4,0.0233,1.0,2.10-2.50
 MEM @ POR,Cedric Coward pts under 13.5 + Jrue Holiday 3+ ast,2,0.6619,0.448,2.23,2.34,2.27,0.0185,0.999,2.10-2.50
 MEM @ POR,Ty Jerome pa under 29.5 + Jrue Holiday 3+ ast,2,0.6143,0.4153,2.41,2.53,2.45,0.0182,0.998,2.10-2.50
