@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 10:35 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 10:45 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -12,7 +12,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kingston Flemings PTS under 8.5 | CLE @ ATL | tab | 2.00 | 1.59 | 63.0% | 50.6% | 53.8% | +7.5% | +26.1% | 1.9% |
+| Kingston Flemings PTS under 8.5 | CLE @ ATL | tab | 2.00 | 1.59 | 63.0% | 51.3% | 54.2% | +8.5% | +26.1% | 2.0% |
 | Damian Lillard AST over 5.5 | MEM @ POR | draftkings | 3.91 | 2.63 | 38.0% | 23.9% | 27.4% | +7.2% | +48.6% | 0.6% |
 | Ja Morant AST over 7.5 | MEM @ POR | draftkings | 3.29 | 2.31 | 43.3% | 28.4% | 32.1% | +5.7% | +42.4% | 0.6% |
 
@@ -30,25 +30,25 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Derik Queen 8+ pts **+** Trey Murphy III 2+ 3pm **+** Precious Achiuwa 6+ pts | SAC @ NOP | 51.4% | 1.94 | 2.04 | 1.78 | -8.6% |
-| Derik Queen 8+ pts **+** Trey Murphy III 2+ 3pm **+** Domantas Sabonis 25+ pra | SAC @ NOP | 52.0% | 1.92 | 2.02 | 1.74 | -9.4% |
-| Derik Queen 8+ pts **+** Trey Murphy III 2+ 3pm **+** Zion Williamson 3+ reb | SAC @ NOP | 51.6% | 1.94 | 2.03 | 1.75 | -9.5% |
+| Trey Murphy III 2+ 3pm **+** Precious Achiuwa 6+ pts **+** Zion Williamson 4+ reb | SAC @ NOP | 50.5% | 1.98 | 2.08 | 1.79 | -9.6% |
+| Derik Queen 8+ pts **+** Precious Achiuwa 6+ pts **+** Zion Williamson 4+ reb | SAC @ NOP | 51.3% | 1.95 | 2.05 | 1.76 | -9.8% |
+| Derik Queen 8+ pts **+** Domantas Sabonis 25+ pra **+** Zion Williamson 4+ reb | SAC @ NOP | 52.0% | 1.92 | 2.02 | 1.72 | -10.5% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 49.4% | 2.02 | 2.12 | 2.06 | +1.7% |
+| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 49.9% | 2.00 | 2.10 | 2.06 | +2.6% |
 | Jrue Holiday 8+ ra **+** Ja Morant 4+ ast | MEM @ POR | 47.5% | 2.10 | 2.21 | 2.09 | -0.7% |
-| Derik Queen 23+ pra **+** Domantas Sabonis 25+ pra | SAC @ NOP | 47.0% | 2.13 | 2.24 | 2.10 | -1.6% |
+| Jalen Johnson pts under 22.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 48.2% | 2.08 | 2.18 | 2.03 | -2.0% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 48.0% | 2.08 | 2.19 | 2.14 | +2.6% |
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 3+ reb | CLE @ ATL | 42.6% | 2.35 | 2.47 | 2.41 | +2.5% |
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 12+ pts | CLE @ ATL | 48.5% | 2.06 | 2.16 | 2.11 | +2.5% |
+| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 48.5% | 2.06 | 2.16 | 2.13 | +3.4% |
+| Kingston Flemings pts under 8.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 46.6% | 2.15 | 2.25 | 2.22 | +3.2% |
+| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 1+ 3pm | CLE @ ATL | 48.1% | 2.08 | 2.18 | 2.14 | +3.0% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -58,10 +58,8 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Derik Queen REB over 9.5 | SAC @ NOP | draftkings | 3.59 | 2.40 | 41.6% | 26.0% | 29.9% | +7.5% | +49.5% | 0.7% |
-| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.58 | 2.40 | 41.7% | 26.1% | 30.0% | +7.4% | +49.2% | 0.7% |
+| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.53 | 2.40 | 41.7% | 26.5% | 30.3% | +6.9% | +47.1% | 0.7% |
 | Jrue Holiday AST over 4.5 | MEM @ POR | draftkings | 2.45 | 1.70 | 58.9% | 38.1% | 43.3% | +6.2% | +44.4% | 1.1% |
-| Derik Queen PR over 19.5 | SAC @ NOP | draftkings | 2.00 | 1.53 | 65.6% | 48.5% | 52.8% | +5.6% | +31.1% | 1.4% |
 | Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.73 | 1.93 | 51.8% | 34.2% | 38.6% | +5.4% | +41.4% | 0.8% |
 
 ## Projections
@@ -83,7 +81,7 @@ Out: RayJ Dennis (ATL), Keshon Gilbert (ATL), Mouhamed Gueye (ATL), Jalen Wilson
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kingston Flemings PTS under 8.5 | CLE @ ATL | tab | 2.00 | 1.59 | 63.0% | 50.6% | 53.8% | +7.5% | +26.1% | 1.9% |
+| Kingston Flemings PTS under 8.5 | CLE @ ATL | tab | 2.00 | 1.59 | 63.0% | 51.3% | 54.2% | +8.5% | +26.1% | 2.0% |
 | Jalen Johnson PTS under 22.5 | CLE @ ATL | unibet | 1.91 | 1.59 | 63.0% | 51.1% | 54.1% | +3.2% | +20.3% | 0.9% |
 | Sam Merrill PTS under 8.5 | CLE @ ATL | tab | 1.95 | 1.73 | 57.7% | 51.0% | 52.7% | +2.9% | +12.7% | 0.8% |
 
@@ -91,9 +89,10 @@ Out: RayJ Dennis (ATL), Keshon Gilbert (ATL), Mouhamed Gueye (ATL), Jalen Wilson
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Donovan Mitchell 3+ reb **+** Onyeka Okongwu 8+ pts | 60.7% | 1.65 | 1.73 | 1.52 | -7.8% |
-| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | 49.4% | 2.02 | 2.12 | 2.06 | +1.7% |
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 20+ pra | 48.0% | 2.08 | 2.19 | 2.14 | +2.6% |
+| Onyeka Okongwu 8+ pts **+** Jalen Johnson 1+ 3pm | 58.0% | 1.72 | 1.81 | 1.57 | -9.2% |
+| Onyeka Okongwu 8+ pts **+** Donovan Mitchell 3+ reb **+** Jalen Johnson 1+ 3pm | 47.5% | 2.11 | 2.21 | 1.84 | -12.7% |
+| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | 49.9% | 2.00 | 2.10 | 2.06 | +2.6% |
+| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 20+ pra | 48.5% | 2.06 | 2.16 | 2.13 | +3.4% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
@@ -143,18 +142,18 @@ Out: Yves Missi (NOP), Dejounte Murray (NOP), Jordan Poole (NOP), Dylan Cardwell
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Derik Queen PTS over 11.5 | SAC @ NOP | sportsbet | 1.92 | 1.58 | 63.1% | 49.6% | 53.0% | +1.6% | +21.1% | 0.4% |
+| Derik Queen PTS over 11.5 | SAC @ NOP | sportsbet | 1.92 | 1.58 | 63.1% | 50.2% | 53.4% | +2.4% | +21.1% | 0.7% |
+| Derik Queen REB over 7.5 | SAC @ NOP | draftkings | 1.92 | 1.60 | 62.6% | 48.9% | 52.3% | +0.3% | +20.1% | 0.1% |
 | De'Andre Hunter PTS under 12.5 | SAC @ NOP | tab | 1.85 | 1.65 | 60.5% | 52.1% | 54.2% | +0.2% | +11.8% | 0.1% |
-| Derik Queen RA over 10.5 | SAC @ NOP | draftkings | 1.81 | 1.51 | 66.1% | 51.8% | 55.4% | +0.1% | +19.4% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Derik Queen 8+ pts **+** Precious Achiuwa 6+ pts **+** Trey Murphy III 20+ pra | 55.0% | 1.82 | 1.91 | 1.65 | -9.4% |
-| Derik Queen 8+ pts **+** Trey Murphy III 2+ 3pm **+** Precious Achiuwa 6+ pts | 51.4% | 1.94 | 2.04 | 1.78 | -8.6% |
-| Derik Queen 23+ pra **+** Domantas Sabonis 25+ pra | 47.0% | 2.13 | 2.24 | 2.10 | -1.6% |
-| Precious Achiuwa 11+ pts **+** Derik Queen 8+ pts | 42.4% | 2.36 | 2.48 | 2.40 | +1.7% |
+| Derik Queen 8+ pts **+** Zion Williamson 4+ reb **+** Domantas Sabonis 20+ pra | 55.0% | 1.82 | 1.91 | 1.62 | -10.8% |
+| Trey Murphy III 2+ 3pm **+** Precious Achiuwa 6+ pts **+** Zion Williamson 4+ reb | 50.5% | 1.98 | 2.08 | 1.79 | -9.6% |
+| Derik Queen 23+ pra **+** Domantas Sabonis 25+ pra | 48.4% | 2.06 | 2.17 | 2.00 | -3.2% |
+| Precious Achiuwa 11+ pts **+** Derik Queen 8+ pts | 42.6% | 2.35 | 2.46 | 2.38 | +1.3% |
 
 <details><summary>SAC players (confirmed only)</summary>
 
