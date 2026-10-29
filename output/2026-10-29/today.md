@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 04:12 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 04:22 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -22,9 +22,9 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 52.2% | 1.91 | 2.01 | 1.84 | -3.6% |
+| Jalen Johnson ra under 17.5 **+** Evan Mobley 15+ pra | CLE @ ATL | 53.2% | 1.88 | 1.97 | 1.81 | -3.9% |
+| Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 52.7% | 1.90 | 1.99 | 1.82 | -4.1% |
 | Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | MEM @ POR | 54.1% | 1.85 | 1.94 | 1.74 | -5.8% |
-| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ ast | MEM @ POR | 52.3% | 1.91 | 2.01 | 1.79 | -6.1% |
 
 **Price 1.85-2.10**
 
@@ -82,8 +82,8 @@ Out: Mouhamed Gueye (ATL)
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 58.8% | 1.70 | 1.78 | 1.53 | -9.8% |
-| Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | 52.2% | 1.91 | 2.01 | 1.84 | -3.6% |
-| Jalen Johnson pra under 39.5 **+** Evan Mobley 4+ reb | 50.2% | 1.99 | 2.09 | 1.95 | -2.2% |
+| Jalen Johnson ra under 17.5 **+** Evan Mobley 15+ pra | 53.2% | 1.88 | 1.97 | 1.81 | -3.9% |
+| Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.8% | 2.09 | 2.20 | 2.06 | -1.8% |
 | Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 46.3% | 2.16 | 2.27 | 2.11 | -2.2% |
 
 <details><summary>CLE players (confirmed only)</summary>
