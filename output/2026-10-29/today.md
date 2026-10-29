@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 05:12 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 05:22 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -16,23 +16,23 @@ _No bets clear the edge threshold right now._
 |---|--:|--:|--:|--:|--:|--:|
 | NOP win **+** Domantas Sabonis 8+ pts | SAC @ NOP | 57.1% | 1.75 | 1.84 | 1.63 | -6.8% |
 | Jrue Holiday 3+ ast **+** Deni Avdija 4+ ast | MEM @ POR | 60.6% | 1.65 | 1.73 | 1.51 | -8.7% |
-| Jrue Holiday 3+ ast **+** Toumani Camara 6+ pts **+** Ja Morant 4+ ast | MEM @ POR | 54.0% | 1.85 | 1.94 | 1.59 | -13.9% |
+| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | CLE @ ATL | 59.1% | 1.69 | 1.78 | 1.52 | -10.0% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 52.6% | 1.90 | 2.00 | 1.82 | -4.0% |
-| Jalen Johnson ra under 17.5 **+** Onyeka Okongwu 3+ reb | CLE @ ATL | 51.6% | 1.94 | 2.04 | 1.85 | -4.6% |
-| Donovan Mitchell ast under 5.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 55.9% | 1.79 | 1.88 | 1.71 | -4.7% |
+| Donovan Mitchell ast under 5.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 56.0% | 1.79 | 1.88 | 1.70 | -4.7% |
+| Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | CLE @ ATL | 54.6% | 1.83 | 1.92 | 1.74 | -4.9% |
+| Donovan Mitchell ast under 5.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 54.2% | 1.84 | 1.94 | 1.75 | -5.0% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Ty Jerome pa under 30.5 **+** Toumani Camara 6+ pts | MEM @ POR | 47.6% | 2.10 | 2.20 | 2.09 | -0.6% |
-| Cedric Coward pts under 13.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 49.6% | 2.02 | 2.12 | 2.00 | -0.7% |
 | Cedric Coward pts under 13.5 **+** Toumani Camara 6+ pts | MEM @ POR | 49.0% | 2.04 | 2.14 | 2.03 | -0.7% |
+| Cedric Coward pts under 13.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 49.6% | 2.02 | 2.12 | 2.00 | -0.7% |
 
 **Price 2.10-2.50**
 
@@ -79,16 +79,16 @@ Out: Mouhamed Gueye (ATL)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Evan Mobley AST under 3.5 | CLE @ ATL | draftkings | 2.09 | 1.73 | 57.9% | 44.7% | 48.0% | +0.3% | +20.9% | 0.1% |
+| Evan Mobley AST under 3.5 | CLE @ ATL | draftkings | 2.14 | 1.73 | 57.9% | 43.7% | 47.2% | +1.1% | +23.8% | 0.2% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Onyeka Okongwu 6+ pts **+** James Harden 3+ reb **+** Donovan Mitchell 3+ reb | 54.5% | 1.84 | 1.93 | 1.57 | -14.5% |
-| Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | 52.6% | 1.90 | 2.00 | 1.82 | -4.0% |
-| Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.8% | 2.09 | 2.20 | 2.06 | -1.8% |
-| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 46.1% | 2.17 | 2.28 | 2.12 | -2.1% |
+| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 59.1% | 1.69 | 1.78 | 1.52 | -10.0% |
+| Donovan Mitchell ast under 5.5 **+** Evan Mobley 4+ reb | 56.0% | 1.79 | 1.88 | 1.70 | -4.7% |
+| Jalen Johnson ra under 17.5 **+** Donovan Mitchell 1+ 3pm | 47.4% | 2.11 | 2.21 | 2.09 | -0.8% |
+| Jalen Johnson ra under 17.5 **+** Onyeka Okongwu 6+ pts | 45.1% | 2.21 | 2.33 | 2.20 | -0.5% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
