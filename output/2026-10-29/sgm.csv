@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CLE @ ATL,ATL win + Onyeka Okongwu 8+ pts,2,0.4192,0.3942,2.54,2.66,2.44,-0.0366,1.031,2.10-2.50
-CLE @ ATL,CLE win + Donovan Mitchell 15+ pts,2,0.4466,0.4246,2.36,2.47,2.26,-0.0419,1.021,2.10-2.50
-CLE @ ATL,Jalen Johnson pra under 39.5 + Onyeka Okongwu 6+ pts,2,0.5886,0.4538,2.2,2.31,2.11,-0.043,0.994,2.10-2.50
-CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 1+ 3pm,2,0.6017,0.4715,2.12,2.23,2.03,-0.0435,1.0,1.85-2.10
-CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 20+ pra,2,0.6103,0.4769,2.1,2.2,2.0,-0.0443,0.998,1.85-2.10
-CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 12+ pts,2,0.6158,0.4815,2.08,2.18,1.98,-0.0448,0.998,1.85-2.10
-CLE @ ATL,Luguentz Dort reb under 3.5 + Onyeka Okongwu 6+ pts,2,0.621,0.5092,1.96,2.06,1.84,-0.0635,0.998,1.65-1.85
-CLE @ ATL,Luguentz Dort reb under 3.5 + Donovan Mitchell 20+ pra,2,0.6427,0.5342,1.87,1.97,1.75,-0.0665,1.0,1.65-1.85
-CLE @ ATL,Luguentz Dort reb under 3.5 + Donovan Mitchell 1+ 3pm,2,0.6318,0.5266,1.9,1.99,1.77,-0.0685,0.999,1.65-1.85
-CLE @ ATL,Donovan Mitchell 3+ reb + Onyeka Okongwu 8+ pts,2,0.6852,0.6002,1.67,1.75,1.52,-0.085,1.0,1.50-1.65
-CLE @ ATL,Onyeka Okongwu 8+ pts + Nickeil Alexander-Walker 2+ 3pm,2,0.6535,0.5854,1.71,1.79,1.55,-0.091,1.002,1.50-1.65
-CLE @ ATL,Onyeka Okongwu 8+ pts + Donovan Mitchell 15+ pts + Nickeil Alexander-Walker 10+ pts,3,0.6438,0.5521,1.81,1.9,1.57,-0.1306,1.01,1.50-1.65
+CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 3+ reb,2,0.5537,0.419,2.39,2.51,2.31,-0.0307,0.999,2.10-2.50
+CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 12+ pts,2,0.6199,0.4753,2.1,2.21,2.04,-0.0307,1.004,1.85-2.10
+CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 20+ pra,2,0.6134,0.4706,2.13,2.23,2.06,-0.0316,1.003,1.85-2.10
+CLE @ ATL,ATL win + Onyeka Okongwu 8+ pts,2,0.4159,0.3955,2.53,2.65,2.44,-0.034,1.037,2.10-2.50
+CLE @ ATL,Kingston Flemings pts under 8.5 + Nickeil Alexander-Walker 2+ 3pm,2,0.529,0.4054,2.47,2.59,2.38,-0.0358,0.998,2.10-2.50
+CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 1+ 3pm,2,0.6021,0.4639,2.16,2.26,2.08,-0.0368,0.999,1.85-2.10
+CLE @ ATL,Kingston Flemings 3+ ast + Donovan Mitchell 20+ pra,2,0.6528,0.5228,1.91,2.01,1.82,-0.0507,1.002,1.65-1.85
+CLE @ ATL,Kingston Flemings 3+ ast + Donovan Mitchell 12+ pts,2,0.6588,0.5274,1.9,1.99,1.8,-0.0511,1.001,1.65-1.85
+CLE @ ATL,Kingston Flemings 3+ ast + Donovan Mitchell 1+ 3pm,2,0.6417,0.5161,1.94,2.03,1.83,-0.0545,0.999,1.65-1.85
+CLE @ ATL,Nickeil Alexander-Walker 2+ 3pm + Onyeka Okongwu 8+ pts,2,0.6526,0.5846,1.71,1.8,1.56,-0.0873,1.006,1.50-1.65
+CLE @ ATL,Donovan Mitchell 3+ reb + Onyeka Okongwu 8+ pts,2,0.6793,0.6008,1.66,1.75,1.52,-0.0874,1.001,1.50-1.65
+CLE @ ATL,Donovan Mitchell 3+ reb + Nickeil Alexander-Walker 2+ 3pm + Onyeka Okongwu 3+ reb,3,0.6582,0.5546,1.8,1.89,1.57,-0.1301,1.004,1.50-1.65
 SAC @ NOP,Precious Achiuwa 11+ pts + Trey Murphy III 2+ 3pm,2,0.5662,0.4037,2.48,2.6,2.48,0.0003,1.002,2.10-2.50
 SAC @ NOP,Precious Achiuwa 11+ pts + Domantas Sabonis 25+ pra,2,0.6376,0.4605,2.17,2.28,2.17,-0.0016,1.005,2.10-2.50
 SAC @ NOP,Precious Achiuwa 11+ pts + Jeremiah Fears 8+ pts,2,0.5858,0.4183,2.39,2.51,2.38,-0.0025,1.0,2.10-2.50

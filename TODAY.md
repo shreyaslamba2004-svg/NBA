@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 08:36 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 08:46 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -30,9 +30,9 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
+| Kingston Flemings 3+ ast **+** Donovan Mitchell 20+ pra | CLE @ ATL | 52.3% | 1.91 | 2.01 | 1.82 | -5.1% |
+| Kingston Flemings 3+ ast **+** Donovan Mitchell 12+ pts | CLE @ ATL | 52.7% | 1.90 | 1.99 | 1.80 | -5.1% |
 | NOP win **+** Jeremiah Fears 8+ pts | SAC @ NOP | 53.1% | 1.88 | 1.98 | 1.79 | -5.1% |
-| Jeremiah Fears 3+ reb **+** Precious Achiuwa 6+ pts | SAC @ NOP | 51.4% | 1.94 | 2.04 | 1.84 | -5.3% |
-| NOP win **+** Precious Achiuwa 6+ pts | SAC @ NOP | 55.8% | 1.79 | 1.88 | 1.69 | -5.9% |
 
 **Price 1.85-2.10**
 
@@ -72,7 +72,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| CLE @ ATL | Fri 30 Oct 11:00 | 116.2–117.0 | CLE 47% | 2.11 / 1.90 | ATL -1.5 | 233.5 | ATL -1.5 covers 49%; o237.5 40% |
+| CLE @ ATL | Fri 30 Oct 11:00 | 116.1–116.9 | CLE 48% | 2.10 / 1.91 | ATL -1.5 | 232.5 | ATL -1.5 covers 49%; o237.5 40% |
 | SAC @ NOP | Fri 30 Oct 11:00 | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -6.5 covers 52%; o235.5 56% |
 | MEM @ POR | Fri 30 Oct 13:00 | 111.0–119.3 | MEM 28% | 3.61 / 1.38 | POR -8.5 | 230.5 | POR -7.5 covers 53%; o233.5 43% |
 
@@ -83,30 +83,30 @@ Out: Mouhamed Gueye (ATL)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson PR under 31.5 | CLE @ ATL | draftkings | 1.90 | 1.58 | 63.3% | 49.2% | 52.7% | +0.2% | +20.4% | 0.1% |
-| Jalen Johnson PA under 29.5 | CLE @ ATL | draftkings | 1.91 | 1.59 | 62.7% | 48.9% | 52.4% | +0.0% | +19.8% | 0.0% |
+| Jalen Johnson PTS under 22.5 | CLE @ ATL | draftkings | 1.85 | 1.54 | 64.8% | 50.4% | 54.0% | +0.1% | +20.1% | 0.0% |
+| Kingston Flemings PR under 11.5 | CLE @ ATL | draftkings | 1.98 | 1.65 | 60.6% | 47.2% | 50.5% | +0.1% | +20.0% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Donovan Mitchell 3+ reb **+** Onyeka Okongwu 8+ pts | 60.0% | 1.67 | 1.75 | 1.52 | -8.5% |
-| Luguentz Dort reb under 3.5 **+** Onyeka Okongwu 6+ pts | 50.9% | 1.96 | 2.06 | 1.84 | -6.3% |
-| Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.1% | 2.12 | 2.23 | 2.03 | -4.3% |
-| ATL win **+** Onyeka Okongwu 8+ pts | 39.4% | 2.54 | 2.66 | 2.44 | -3.7% |
+| Nickeil Alexander-Walker 2+ 3pm **+** Onyeka Okongwu 8+ pts | 58.5% | 1.71 | 1.80 | 1.56 | -8.7% |
+| Kingston Flemings 3+ ast **+** Donovan Mitchell 20+ pra | 52.3% | 1.91 | 2.01 | 1.82 | -5.1% |
+| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 12+ pts | 47.5% | 2.10 | 2.21 | 2.04 | -3.1% |
+| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 3+ reb | 41.9% | 2.39 | 2.51 | 2.31 | -3.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 116.2–117.0 | CLE 47% | 2.11 / 1.90 | ATL -1.5 | 233.5 | ATL -1.5 covers 49%; o237.5 40% |
-| Expected (weighted by chance each plays) | 116.8–116.8 | CLE 49% | 2.02 / 1.98 | ATL +0.5 | 233.5 | ATL -1.5 covers 48%; o237.5 42% |
-| if Jaylon Tyson plays | 116.6–117.6 | CLE 47% | 2.14 / 1.88 | ATL -1.5 | 234.5 | ATL -1.5 covers 50%; o237.5 43% |
+| Confirmed players only | 116.1–116.9 | CLE 48% | 2.10 / 1.91 | ATL -1.5 | 232.5 | ATL -1.5 covers 49%; o237.5 40% |
+| Expected (weighted by chance each plays) | 116.8–116.7 | CLE 50% | 2.02 / 1.98 | ATL +0.5 | 233.5 | ATL -1.5 covers 47%; o237.5 42% |
+| if Jaylon Tyson plays | 116.7–117.5 | CLE 47% | 2.12 / 1.89 | ATL -1.5 | 234.5 | ATL -1.5 covers 50%; o237.5 43% |
 
 **Questionable players: chance to play, and their projection if they do**
 
 | Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Wilson (ATL) | Questionable | 55% | 11.5 | 4.5 | 1.8 | 0.8 | 0.4 | 0.3 | 0.1 | 0.5 | 7.2 | small |
-| Keshon Gilbert (ATL) | Questionable | 55% | 8.2 | 2.3 | 1.0 | 1.0 | 0.1 | 0.3 | 0.3 | 0.6 | 4.3 | small |
+| Jalen Wilson (ATL) | Questionable | 55% | 11.2 | 4.5 | 1.8 | 0.8 | 0.4 | 0.3 | 0.1 | 0.5 | 7.1 | small |
+| Keshon Gilbert (ATL) | Questionable | 55% | 8.2 | 2.3 | 1.0 | 1.1 | 0.1 | 0.3 | 0.3 | 0.6 | 4.4 | small |
 | Jaylon Tyson (CLE) | Questionable | 55% | 21.1 | 8.4 | 3.7 | 1.9 | 1.0 | 0.6 | 0.3 | 1.2 | 14.0 | full tables below |
 | Meleek Thomas (CLE) | Questionable | 55% | 19.8 | 8.1 | 2.8 | 1.0 | 0.9 | 0.7 | 0.1 | 1.2 | 11.9 | small |
 
@@ -114,18 +114,18 @@ Out: Mouhamed Gueye (ATL)
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| James Harden | 98% | 36.4 | 19.6 | 4.6 | 6.3 | 2.4 | 1.4 | 0.6 | 3.8 | 30.5 |
-| Donovan Mitchell | 98% | 36.3 | 27.1 | 5.2 | 4.8 | 2.9 | 1.5 | 0.3 | 3.0 | 37.1 |
-| Evan Mobley | 98% | 35.1 | 18.9 | 9.2 | 3.4 | 1.4 | 1.0 | 1.7 | 2.1 | 31.6 |
-| Peyton Watson | 98% | 33.0 | 15.8 | 4.8 | 2.2 | 1.5 | 1.1 | 1.1 | 2.3 | 22.9 |
-| Jarrett Allen | 98% | 29.9 | 14.1 | 8.9 | 1.6 | 0.1 | 1.0 | 1.5 | 1.4 | 24.6 |
+| James Harden | 98% | 36.4 | 19.5 | 4.6 | 6.3 | 2.4 | 1.4 | 0.6 | 3.8 | 30.4 |
+| Donovan Mitchell | 98% | 36.3 | 27.2 | 5.1 | 4.8 | 3.0 | 1.5 | 0.4 | 3.0 | 37.1 |
+| Evan Mobley | 98% | 35.1 | 19.0 | 9.2 | 3.4 | 1.4 | 1.0 | 1.7 | 2.1 | 31.6 |
+| Peyton Watson | 98% | 33.0 | 15.8 | 4.8 | 2.2 | 1.5 | 1.0 | 1.1 | 2.3 | 22.8 |
+| Jarrett Allen | 98% | 29.9 | 14.1 | 9.0 | 1.6 | 0.1 | 1.0 | 1.4 | 1.4 | 24.6 |
 | Sam Merrill | 98% | 25.9 | 9.3 | 2.4 | 1.8 | 1.7 | 0.7 | 0.1 | 0.8 | 13.5 |
-| Mario Hezonja | 93% | 18.2 | 6.9 | 3.5 | 1.0 | 0.7 | 0.6 | 0.3 | 0.9 | 11.5 |
-| Craig Porter Jr. | 52% | 12.7 | 3.3 | 2.3 | 1.9 | 0.2 | 0.6 | 0.4 | 0.9 | 7.5 |
-| Tyrese Proctor | 64% | 12.2 | 5.4 | 1.6 | 1.5 | 0.6 | 0.6 | 0.1 | 0.9 | 8.4 |
-| Thomas Bryant | 30% | 12.1 | 5.5 | 3.3 | 0.6 | 0.5 | 0.3 | 0.4 | 0.5 | 9.3 |
-| Riley Minix | 23% | 10.0 | 4.0 | 1.2 | 0.6 | 0.4 | 0.3 | 0.2 | 0.5 | 5.8 |
-| Tristan Enaruna | 23% | 8.6 | 2.9 | 1.4 | 0.5 | 0.2 | 0.4 | 0.1 | 0.4 | 4.9 |
+| Mario Hezonja | 93% | 18.1 | 6.9 | 3.5 | 1.0 | 0.7 | 0.5 | 0.3 | 0.9 | 11.5 |
+| Craig Porter Jr. | 52% | 12.8 | 3.3 | 2.3 | 1.9 | 0.2 | 0.6 | 0.4 | 0.9 | 7.5 |
+| Tyrese Proctor | 64% | 12.3 | 5.4 | 1.6 | 1.5 | 0.6 | 0.6 | 0.1 | 0.9 | 8.5 |
+| Thomas Bryant | 30% | 12.0 | 5.5 | 3.3 | 0.6 | 0.5 | 0.3 | 0.4 | 0.5 | 9.3 |
+| Riley Minix | 23% | 10.2 | 4.1 | 1.2 | 0.6 | 0.4 | 0.3 | 0.2 | 0.5 | 5.9 |
+| Tristan Enaruna | 23% | 8.7 | 2.9 | 1.5 | 0.5 | 0.2 | 0.4 | 0.1 | 0.4 | 4.9 |
 
 </details>
 
@@ -133,20 +133,20 @@ Out: Mouhamed Gueye (ATL)
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson | 98% | 35.2 | 20.6 | 9.0 | 7.2 | 1.6 | 1.2 | 0.5 | 3.0 | 36.8 |
-| Nickeil Alexander-Walker | 98% | 32.6 | 18.9 | 3.0 | 3.1 | 3.1 | 1.2 | 0.5 | 2.1 | 25.0 |
-| Onyeka Okongwu | 98% | 30.4 | 12.7 | 6.8 | 2.7 | 1.5 | 1.1 | 0.9 | 1.3 | 22.1 |
-| Dyson Daniels | 98% | 30.3 | 11.2 | 6.0 | 4.8 | 0.6 | 2.2 | 0.3 | 1.5 | 21.9 |
-| CJ McCollum | 98% | 28.1 | 17.0 | 2.6 | 2.9 | 2.2 | 0.9 | 0.5 | 1.8 | 22.5 |
-| Aaron Wiggins | 91% | 25.9 | 11.2 | 3.2 | 1.7 | 1.6 | 1.0 | 0.3 | 1.0 | 16.1 |
-| Luguentz Dort | 98% | 23.1 | 8.0 | 2.8 | 1.4 | 1.2 | 0.8 | 0.2 | 0.7 | 12.2 |
-| Kingston Flemings | 96% | 21.7 | 7.9 | 3.3 | 3.9 | 0.7 | 0.7 | 0.3 | 1.6 | 15.1 |
-| Jock Landale | 98% | 18.1 | 7.7 | 4.3 | 1.6 | 0.7 | 0.5 | 0.5 | 0.8 | 13.6 |
-| Corey Kispert | 52% | 9.7 | 4.8 | 1.3 | 0.8 | 0.6 | 0.2 | 0.1 | 0.4 | 6.8 |
-| Asa Newell | 52% | 8.4 | 3.5 | 1.6 | 0.5 | 0.2 | 0.3 | 0.2 | 0.4 | 5.6 |
-| RayJ Dennis | 34% | 8.3 | 2.9 | 1.1 | 1.2 | 0.3 | 0.3 | 0.1 | 0.5 | 5.2 |
-| Dorian Finney-Smith | 52% | 7.4 | 2.1 | 1.1 | 0.4 | 0.1 | 0.2 | 0.1 | 0.3 | 3.7 |
-| Zuby Ejiofor | 28% | 6.1 | 2.5 | 1.1 | 0.5 | 0.2 | 0.2 | 0.1 | 0.3 | 4.0 |
+| Jalen Johnson | 98% | 35.2 | 20.8 | 9.0 | 7.3 | 1.6 | 1.2 | 0.5 | 3.0 | 37.0 |
+| Nickeil Alexander-Walker | 98% | 32.7 | 18.9 | 3.0 | 3.2 | 3.1 | 1.2 | 0.5 | 2.1 | 25.1 |
+| Dyson Daniels | 98% | 30.2 | 11.1 | 6.0 | 4.7 | 0.6 | 2.2 | 0.3 | 1.5 | 21.8 |
+| Onyeka Okongwu | 98% | 30.1 | 12.5 | 6.7 | 2.7 | 1.5 | 1.1 | 0.9 | 1.3 | 21.9 |
+| CJ McCollum | 98% | 28.2 | 16.9 | 2.6 | 2.9 | 2.2 | 0.9 | 0.5 | 1.8 | 22.5 |
+| Aaron Wiggins | 91% | 26.0 | 11.3 | 3.2 | 1.7 | 1.7 | 1.0 | 0.3 | 1.0 | 16.2 |
+| Luguentz Dort | 98% | 22.8 | 7.8 | 2.8 | 1.4 | 1.2 | 0.8 | 0.2 | 0.7 | 12.0 |
+| Kingston Flemings | 96% | 21.3 | 7.7 | 3.2 | 3.9 | 0.7 | 0.6 | 0.3 | 1.6 | 14.8 |
+| Jock Landale | 98% | 18.0 | 7.6 | 4.3 | 1.5 | 0.6 | 0.5 | 0.5 | 0.8 | 13.4 |
+| Corey Kispert | 52% | 9.1 | 4.5 | 1.2 | 0.7 | 0.5 | 0.2 | 0.1 | 0.4 | 6.4 |
+| RayJ Dennis | 34% | 8.3 | 3.0 | 1.1 | 1.1 | 0.3 | 0.3 | 0.1 | 0.5 | 5.2 |
+| Asa Newell | 52% | 7.9 | 3.3 | 1.6 | 0.4 | 0.2 | 0.3 | 0.2 | 0.4 | 5.3 |
+| Dorian Finney-Smith | 52% | 7.2 | 2.0 | 1.1 | 0.4 | 0.1 | 0.2 | 0.1 | 0.2 | 3.6 |
+| Zuby Ejiofor | 52% | 6.0 | 2.4 | 1.0 | 0.5 | 0.2 | 0.2 | 0.1 | 0.3 | 3.9 |
 
 </details>
 
@@ -154,33 +154,33 @@ Out: Mouhamed Gueye (ATL)
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson (ATL) | 98% | 35.2 | 20.6 | 9.0 | 7.2 | 1.6 | 1.2 | 0.5 | 3.0 | 36.8 |
-| Nickeil Alexander-Walker (ATL) | 98% | 32.5 | 19.0 | 3.0 | 3.1 | 3.1 | 1.2 | 0.5 | 2.1 | 25.1 |
-| Dyson Daniels (ATL) | 98% | 30.4 | 11.4 | 6.0 | 4.8 | 0.6 | 2.2 | 0.3 | 1.5 | 22.1 |
-| Onyeka Okongwu (ATL) | 98% | 30.4 | 12.6 | 6.8 | 2.6 | 1.5 | 1.1 | 0.9 | 1.3 | 22.0 |
-| CJ McCollum (ATL) | 98% | 28.2 | 17.0 | 2.6 | 2.9 | 2.2 | 0.9 | 0.5 | 1.8 | 22.5 |
+| Jalen Johnson (ATL) | 98% | 35.2 | 20.8 | 9.0 | 7.2 | 1.6 | 1.2 | 0.5 | 3.0 | 37.0 |
+| Nickeil Alexander-Walker (ATL) | 98% | 32.6 | 18.9 | 3.0 | 3.1 | 3.1 | 1.2 | 0.5 | 2.1 | 25.0 |
+| Dyson Daniels (ATL) | 98% | 30.3 | 11.2 | 5.9 | 4.7 | 0.6 | 2.2 | 0.3 | 1.6 | 21.8 |
+| Onyeka Okongwu (ATL) | 98% | 30.2 | 12.6 | 6.7 | 2.7 | 1.5 | 1.1 | 0.9 | 1.3 | 21.9 |
+| CJ McCollum (ATL) | 98% | 28.4 | 16.9 | 2.7 | 3.0 | 2.2 | 0.9 | 0.5 | 1.8 | 22.6 |
 | Aaron Wiggins (ATL) | 91% | 25.9 | 11.3 | 3.2 | 1.7 | 1.7 | 1.0 | 0.3 | 1.0 | 16.2 |
-| Luguentz Dort (ATL) | 98% | 23.0 | 8.0 | 2.8 | 1.4 | 1.2 | 0.8 | 0.2 | 0.7 | 12.1 |
-| Kingston Flemings (ATL) | 96% | 21.5 | 7.8 | 3.3 | 3.9 | 0.7 | 0.6 | 0.3 | 1.6 | 15.0 |
-| Jock Landale (ATL) | 98% | 18.2 | 7.7 | 4.3 | 1.6 | 0.7 | 0.5 | 0.5 | 0.8 | 13.6 |
-| Corey Kispert (ATL) | 52% | 9.6 | 4.8 | 1.3 | 0.8 | 0.6 | 0.2 | 0.1 | 0.4 | 6.8 |
+| Luguentz Dort (ATL) | 98% | 22.8 | 7.9 | 2.8 | 1.4 | 1.2 | 0.8 | 0.2 | 0.7 | 12.0 |
+| Kingston Flemings (ATL) | 96% | 21.2 | 7.7 | 3.2 | 3.9 | 0.7 | 0.6 | 0.3 | 1.6 | 14.8 |
+| Jock Landale (ATL) | 98% | 18.1 | 7.7 | 4.3 | 1.5 | 0.6 | 0.5 | 0.5 | 0.8 | 13.6 |
+| Corey Kispert (ATL) | 52% | 9.0 | 4.5 | 1.2 | 0.7 | 0.5 | 0.2 | 0.1 | 0.3 | 6.4 |
 | RayJ Dennis (ATL) | 34% | 8.4 | 3.0 | 1.1 | 1.1 | 0.3 | 0.3 | 0.1 | 0.5 | 5.2 |
-| Asa Newell (ATL) | 52% | 8.3 | 3.4 | 1.7 | 0.5 | 0.2 | 0.3 | 0.2 | 0.4 | 5.6 |
-| Dorian Finney-Smith (ATL) | 52% | 7.4 | 2.1 | 1.1 | 0.5 | 0.1 | 0.2 | 0.1 | 0.3 | 3.7 |
-| Zuby Ejiofor (ATL) | 28% | 6.0 | 2.5 | 1.1 | 0.5 | 0.2 | 0.2 | 0.1 | 0.3 | 4.0 |
-| Donovan Mitchell (CLE) | 98% | 35.2 | 26.5 | 5.1 | 4.4 | 2.8 | 1.4 | 0.3 | 3.0 | 35.9 |
-| James Harden (CLE) | 98% | 34.9 | 18.3 | 4.5 | 6.0 | 2.3 | 1.3 | 0.5 | 3.7 | 28.9 |
-| Evan Mobley (CLE) | 98% | 33.8 | 18.1 | 8.9 | 3.3 | 1.3 | 1.0 | 1.6 | 2.0 | 30.3 |
-| Peyton Watson (CLE) | 98% | 31.0 | 14.4 | 4.6 | 2.0 | 1.4 | 1.0 | 1.1 | 2.2 | 21.1 |
-| Jarrett Allen (CLE) | 98% | 28.5 | 13.4 | 8.5 | 1.5 | 0.1 | 1.0 | 1.4 | 1.3 | 23.4 |
-| Sam Merrill (CLE) | 98% | 23.2 | 8.1 | 2.1 | 1.6 | 1.4 | 0.7 | 0.1 | 0.7 | 11.7 |
+| Asa Newell (ATL) | 52% | 7.9 | 3.3 | 1.6 | 0.4 | 0.2 | 0.3 | 0.2 | 0.3 | 5.3 |
+| Dorian Finney-Smith (ATL) | 52% | 7.2 | 2.1 | 1.1 | 0.4 | 0.1 | 0.2 | 0.1 | 0.3 | 3.6 |
+| Zuby Ejiofor (ATL) | 52% | 6.1 | 2.5 | 1.1 | 0.5 | 0.2 | 0.2 | 0.1 | 0.3 | 4.1 |
+| Donovan Mitchell (CLE) | 98% | 35.2 | 26.5 | 5.1 | 4.4 | 2.8 | 1.4 | 0.3 | 3.0 | 36.0 |
+| James Harden (CLE) | 98% | 35.0 | 18.4 | 4.5 | 6.0 | 2.3 | 1.3 | 0.5 | 3.7 | 28.9 |
+| Evan Mobley (CLE) | 98% | 33.7 | 18.0 | 8.9 | 3.2 | 1.3 | 1.0 | 1.6 | 2.0 | 30.2 |
+| Peyton Watson (CLE) | 98% | 31.1 | 14.4 | 4.6 | 2.0 | 1.4 | 1.0 | 1.1 | 2.2 | 21.1 |
+| Jarrett Allen (CLE) | 98% | 28.6 | 13.4 | 8.5 | 1.5 | 0.1 | 1.0 | 1.4 | 1.3 | 23.4 |
+| Sam Merrill (CLE) | 98% | 23.1 | 8.0 | 2.1 | 1.6 | 1.4 | 0.7 | 0.1 | 0.6 | 11.6 |
 | Jaylon Tyson (CLE) | 100% | 21.1 | 8.4 | 3.7 | 1.9 | 1.0 | 0.6 | 0.3 | 1.2 | 14.0 |
-| Mario Hezonja (CLE) | 93% | 15.9 | 5.9 | 3.2 | 0.9 | 0.6 | 0.5 | 0.2 | 0.8 | 10.0 |
-| Craig Porter Jr. (CLE) | 52% | 9.8 | 2.7 | 1.8 | 1.4 | 0.1 | 0.5 | 0.3 | 0.7 | 5.9 |
-| Tyrese Proctor (CLE) | 64% | 9.6 | 4.5 | 1.2 | 1.3 | 0.5 | 0.5 | 0.1 | 0.7 | 7.0 |
-| Thomas Bryant (CLE) | 30% | 9.1 | 4.2 | 2.5 | 0.4 | 0.3 | 0.2 | 0.3 | 0.4 | 7.1 |
+| Mario Hezonja (CLE) | 93% | 16.0 | 6.0 | 3.2 | 0.9 | 0.6 | 0.5 | 0.2 | 0.8 | 10.1 |
+| Craig Porter Jr. (CLE) | 52% | 9.8 | 2.7 | 1.8 | 1.5 | 0.1 | 0.5 | 0.3 | 0.7 | 6.0 |
+| Tyrese Proctor (CLE) | 64% | 9.6 | 4.5 | 1.2 | 1.2 | 0.5 | 0.5 | 0.1 | 0.7 | 7.0 |
+| Thomas Bryant (CLE) | 30% | 9.0 | 4.2 | 2.5 | 0.4 | 0.3 | 0.2 | 0.3 | 0.4 | 7.1 |
 | Riley Minix (CLE) | 23% | 7.1 | 2.8 | 0.9 | 0.4 | 0.2 | 0.2 | 0.1 | 0.3 | 4.1 |
-| Tristan Enaruna (CLE) | 23% | 6.2 | 2.1 | 1.1 | 0.4 | 0.1 | 0.3 | 0.1 | 0.3 | 3.6 |
+| Tristan Enaruna (CLE) | 23% | 6.2 | 2.2 | 1.0 | 0.4 | 0.1 | 0.3 | 0.1 | 0.3 | 3.6 |
 
 </details>
 
