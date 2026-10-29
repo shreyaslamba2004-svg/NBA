@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 05:45 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 06:01 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -10,10 +10,7 @@ All automatic checks passed (team minutes, player minutes vs recent games, team 
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price, and use the Fair column as your minimum odds.
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Robert Williams III REB over 8.5 | MEM @ POR | draftkings | 3.50 | 2.48 | 40.4% | 26.7% | 30.1% | +5.4% | +41.4% | 0.5% |
-| Damian Lillard AST over 5.5 | MEM @ POR | draftkings | 3.50 | 2.50 | 39.9% | 26.7% | 30.0% | +5.0% | +39.8% | 0.5% |
+_No bets clear the edge threshold right now._
 
 ## Best same-game multis by price (1.50 to 2.50)
 
@@ -23,7 +20,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 |---|--:|--:|--:|--:|--:|--:|
 | NOP win **+** Domantas Sabonis 8+ reb | SAC @ NOP | 58.4% | 1.71 | 1.80 | 1.59 | -6.9% |
 | NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.6% | 1.65 | 1.73 | 1.54 | -6.9% |
-| Nickeil Alexander-Walker 2+ 3pm **+** Jalen Johnson 1+ 3pm | CLE @ ATL | 59.5% | 1.68 | 1.76 | 1.51 | -9.9% |
+| Deni Avdija 5+ reb **+** Toumani Camara 3+ reb | MEM @ POR | 59.5% | 1.68 | 1.77 | 1.56 | -7.5% |
 
 **Price 1.65-1.85**
 
@@ -38,16 +35,16 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Precious Achiuwa 11+ pts **+** Domantas Sabonis 8+ reb | SAC @ NOP | 47.9% | 2.09 | 2.19 | 2.05 | -1.7% |
-| Jerami Grant 3pm under 1.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 46.4% | 2.16 | 2.26 | 2.09 | -3.1% |
-| Jrue Holiday 4+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 47.5% | 2.11 | 2.21 | 2.04 | -3.2% |
+| Jrue Holiday 4+ ast **+** Donovan Clingan 6+ pts | MEM @ POR | 48.1% | 2.08 | 2.18 | 2.02 | -2.7% |
+| Jrue Holiday 4+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 47.8% | 2.09 | 2.20 | 2.03 | -2.8% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Cedric Coward pts under 12.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 40.6% | 2.46 | 2.59 | 2.50 | +1.3% |
-| Ty Jerome pts under 24.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.5% | 2.35 | 2.47 | 2.37 | +0.8% |
-| Ty Jerome pra under 33.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.4% | 2.41 | 2.54 | 2.43 | +0.6% |
+| Jrue Holiday 8+ ra **+** Donovan Clingan 6+ pts | MEM @ POR | 44.8% | 2.23 | 2.34 | 2.26 | +1.2% |
+| Cedric Coward pr under 19.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.0% | 2.38 | 2.50 | 2.41 | +1.2% |
+| Ty Jerome pr under 27.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.3% | 2.42 | 2.54 | 2.45 | +1.0% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -65,8 +62,10 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.84 | 2.38 | 42.0% | 24.3% | 28.8% | +10.4% | +61.4% | 0.9% |
+| Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.85 | 2.29 | 43.6% | 24.3% | 29.1% | +12.1% | +67.9% | 1.1% |
 | Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.66 | 2.41 | 41.5% | 25.5% | 29.5% | +8.1% | +51.9% | 0.8% |
+| Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.85 | 1.93 | 51.8% | 32.8% | 37.5% | +7.0% | +47.6% | 0.9% |
+| Jrue Holiday AST over 4.5 | MEM @ POR | draftkings | 2.42 | 1.70 | 58.9% | 38.6% | 43.7% | +5.8% | +42.6% | 1.0% |
 
 ## Projections
 
@@ -78,7 +77,7 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CLE @ ATL | Fri 30 Oct 11:00 | 116.2–117.0 | CLE 47% | 2.11 / 1.90 | ATL -1.5 | 233.5 | ATL -1.5 covers 49%; o237.5 40% |
 | SAC @ NOP | Fri 30 Oct 11:00 | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -5.5 covers 55%; o235.5 56% |
-| MEM @ POR | Fri 30 Oct 13:00 | 110.2–119.5 | MEM 25% | 3.93 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o232.5 44% |
+| MEM @ POR | Fri 30 Oct 13:00 | 111.0–119.3 | MEM 28% | 3.61 / 1.38 | POR -8.5 | 230.5 | POR -7.5 covers 53%; o232.5 45% |
 
 ### CLE @ ATL
 Out: Mouhamed Gueye (ATL)
@@ -87,9 +86,9 @@ Out: Mouhamed Gueye (ATL)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Nickeil Alexander-Walker 2+ 3pm **+** Jalen Johnson 1+ 3pm | 59.5% | 1.68 | 1.76 | 1.51 | -9.9% |
-| Luguentz Dort reb under 3.5 **+** Donovan Mitchell 20+ pra | 53.1% | 1.88 | 1.98 | 1.76 | -6.4% |
-| Jalen Johnson pr under 31.5 **+** Donovan Mitchell 1+ 3pm | 45.8% | 2.19 | 2.29 | 2.10 | -4.1% |
+| Nickeil Alexander-Walker 2+ 3pm **+** Jalen Johnson 1+ 3pm | 59.7% | 1.68 | 1.76 | 1.51 | -10.0% |
+| Luguentz Dort reb under 3.5 **+** Donovan Mitchell 20+ pra | 52.9% | 1.89 | 1.99 | 1.77 | -6.3% |
+| Jalen Johnson pr under 31.5 **+** Donovan Mitchell 1+ 3pm | 45.8% | 2.18 | 2.29 | 2.09 | -4.2% |
 | Jalen Johnson pr under 31.5 **+** Onyeka Okongwu 6+ pts | 43.5% | 2.30 | 2.42 | 2.22 | -3.7% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
@@ -262,54 +261,55 @@ Out: Shaedon Sharpe (POR)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Damian Lillard 3PM under 2.5 | MEM @ POR | draftkings | 2.22 | 1.76 | 56.7% | 42.1% | 45.8% | +1.6% | +25.9% | 0.3% |
-| Damian Lillard AST over 4.5 | MEM @ POR | draftkings | 2.21 | 1.80 | 55.5% | 42.4% | 45.7% | +0.9% | +22.6% | 0.2% |
-| Jrue Holiday PRA over 20.5 | MEM @ POR | draftkings | 1.94 | 1.60 | 62.3% | 48.3% | 51.8% | +0.7% | +21.1% | 0.2% |
+| Damian Lillard 3PM under 2.5 | MEM @ POR | draftkings | 2.22 | 1.81 | 55.2% | 42.1% | 45.4% | +0.7% | +22.5% | 0.1% |
+| Cameron Boozer PRA under 28.5 | MEM @ POR | draftkings | 1.86 | 1.54 | 64.9% | 50.2% | 53.9% | +0.3% | +20.9% | 0.1% |
+| Cameron Boozer PR under 24.5 | MEM @ POR | draftkings | 1.82 | 1.51 | 66.3% | 51.4% | 55.1% | +0.3% | +20.7% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm **+** Deni Avdija 4+ reb | 57.2% | 1.75 | 1.84 | 1.53 | -12.2% |
-| Damian Lillard 3+ ast **+** Deni Avdija 4+ ast **+** Donovan Clingan 6+ pts | 49.9% | 2.00 | 2.10 | 1.77 | -11.6% |
-| Jerami Grant 3pm under 1.5 **+** Jrue Holiday 3+ ast | 46.4% | 2.16 | 2.26 | 2.09 | -3.1% |
-| Cedric Coward pts under 12.5 **+** Jrue Holiday 3+ ast | 40.6% | 2.46 | 2.59 | 2.50 | +1.3% |
+| Deni Avdija 5+ reb **+** Toumani Camara 3+ reb | 59.5% | 1.68 | 1.77 | 1.56 | -7.5% |
+| Deni Avdija 5+ reb **+** Donovan Clingan 6+ pts **+** Jrue Holiday 1+ 3pm | 52.4% | 1.91 | 2.00 | 1.70 | -11.1% |
+| Jrue Holiday 4+ ast **+** Donovan Clingan 6+ pts | 48.1% | 2.08 | 2.18 | 2.02 | -2.7% |
+| Jrue Holiday 8+ ra **+** Donovan Clingan 6+ pts | 44.8% | 2.23 | 2.34 | 2.26 | +1.2% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.2–119.5 | MEM 25% | 3.93 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o232.5 44% |
-| Expected (weighted by chance each plays) | 110.2–119.9 | MEM 24% | 4.19 / 1.31 | POR -9.5 | 230.5 | POR -7.5 covers 56%; o232.5 45% |
+| Confirmed players only | 111.0–119.3 | MEM 28% | 3.61 / 1.38 | POR -8.5 | 230.5 | POR -7.5 covers 53%; o232.5 45% |
+| Expected (weighted by chance each plays) | 110.5–119.8 | MEM 25% | 4.04 / 1.33 | POR -9.5 | 230.5 | POR -7.5 covers 55%; o232.5 45% |
 
 **Questionable players: chance to play, and their projection if they do**
 
 | Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Robert Williams III (POR) | Doubtful | 20% | 18.5 | 7.8 | 8.1 | 1.1 | 0.2 | 0.6 | 1.5 | 1.0 | 17.0 | small |
 | John Tonje (POR) | Questionable | 55% | 8.6 | 3.5 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 5.9 | small |
-| Jayson Kent (POR) | Questionable | 55% | 5.6 | 2.2 | 1.0 | 0.4 | 0.2 | 0.3 | 0.1 | 0.4 | 3.5 | small |
-| Chris Youngblood (POR) | Questionable | 55% | 5.5 | 2.3 | 0.9 | 0.4 | 0.2 | 0.2 | 0.1 | 0.3 | 3.6 | small |
+| Jayson Kent (POR) | Questionable | 55% | 6.6 | 2.4 | 1.1 | 0.5 | 0.2 | 0.3 | 0.1 | 0.4 | 4.0 | small |
+| Chris Youngblood (POR) | Questionable | 55% | 6.8 | 2.6 | 1.1 | 0.5 | 0.3 | 0.2 | 0.1 | 0.4 | 4.2 | small |
 
 <details><summary>MEM players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Cameron Boozer | 93% | 30.8 | 13.3 | 8.5 | 4.1 | 1.3 | 1.0 | 0.7 | 2.2 | 25.9 |
-| Ty Jerome | 98% | 27.9 | 20.5 | 3.2 | 5.6 | 2.1 | 1.1 | 0.3 | 2.5 | 29.3 |
-| Cedric Coward | 98% | 26.2 | 10.6 | 5.9 | 2.4 | 1.2 | 0.9 | 0.5 | 1.8 | 18.9 |
-| Jaylen Wells | 98% | 25.3 | 9.9 | 2.9 | 1.4 | 1.3 | 1.0 | 0.1 | 1.1 | 14.2 |
-| Jerami Grant | 98% | 22.1 | 9.5 | 2.4 | 1.5 | 1.0 | 0.8 | 0.7 | 1.5 | 13.4 |
-| Zach Edey | 98% | 20.7 | 8.3 | 7.7 | 1.1 | 0.1 | 0.6 | 1.4 | 1.6 | 17.1 |
-| Cam Spencer | 96% | 16.6 | 6.6 | 1.9 | 3.5 | 0.8 | 0.7 | 0.1 | 0.9 | 11.9 |
-| Scotty Pippen Jr. | 97% | 15.3 | 7.2 | 2.1 | 2.8 | 0.6 | 1.2 | 0.3 | 1.5 | 12.1 |
+| Cameron Boozer | 93% | 30.8 | 13.4 | 8.6 | 4.1 | 1.3 | 1.0 | 0.7 | 2.2 | 26.0 |
+| Ty Jerome | 98% | 28.0 | 20.8 | 3.2 | 5.7 | 2.1 | 1.2 | 0.3 | 2.5 | 29.6 |
+| Cedric Coward | 98% | 26.2 | 10.6 | 6.0 | 2.4 | 1.2 | 0.9 | 0.5 | 1.8 | 19.0 |
+| Jaylen Wells | 98% | 25.3 | 10.0 | 2.9 | 1.4 | 1.3 | 1.0 | 0.1 | 1.1 | 14.3 |
+| Jerami Grant | 98% | 22.2 | 9.6 | 2.4 | 1.5 | 1.0 | 0.8 | 0.7 | 1.5 | 13.5 |
+| Zach Edey | 98% | 20.7 | 8.3 | 7.8 | 1.1 | 0.1 | 0.6 | 1.4 | 1.6 | 17.2 |
+| Cam Spencer | 96% | 16.6 | 6.6 | 1.9 | 3.5 | 0.8 | 0.7 | 0.1 | 0.9 | 12.0 |
+| Scotty Pippen Jr. | 97% | 15.4 | 7.2 | 2.1 | 2.8 | 0.6 | 1.2 | 0.3 | 1.5 | 12.1 |
 | GG Jackson | 96% | 14.3 | 7.5 | 2.8 | 0.9 | 0.6 | 0.5 | 0.6 | 1.2 | 11.2 |
-| Isaiah Stewart | 98% | 13.4 | 5.1 | 2.9 | 0.6 | 0.3 | 0.3 | 0.8 | 0.7 | 8.6 |
-| Karim Lopez | 23% | 12.5 | 5.3 | 2.2 | 1.1 | 0.4 | 0.4 | 0.2 | 0.6 | 8.7 |
-| Quinten Post | 88% | 11.9 | 3.9 | 2.2 | 0.6 | 0.3 | 0.3 | 0.3 | 0.7 | 6.7 |
-| Olivier-Maxence Prosper | 30% | 11.7 | 6.1 | 2.3 | 0.6 | 0.5 | 0.6 | 0.2 | 0.7 | 9.0 |
-| Javon Small | 35% | 9.7 | 4.1 | 1.5 | 1.4 | 0.4 | 0.5 | 0.1 | 0.8 | 7.0 |
-| Carson Cooper | 35% | 8.6 | 3.7 | 1.6 | 0.8 | 0.2 | 0.2 | 0.2 | 0.4 | 6.0 |
-| Kris Murray | 48% | 8.5 | 2.0 | 1.4 | 0.7 | 0.1 | 0.4 | 0.2 | 0.4 | 4.1 |
+| Isaiah Stewart | 98% | 13.3 | 5.0 | 2.9 | 0.6 | 0.3 | 0.3 | 0.8 | 0.7 | 8.6 |
+| Karim Lopez | 23% | 12.4 | 5.4 | 2.2 | 1.1 | 0.4 | 0.4 | 0.2 | 0.6 | 8.7 |
+| Quinten Post | 88% | 11.9 | 3.9 | 2.2 | 0.6 | 0.3 | 0.3 | 0.3 | 0.6 | 6.6 |
+| Olivier-Maxence Prosper | 30% | 11.9 | 6.2 | 2.4 | 0.6 | 0.5 | 0.6 | 0.2 | 0.7 | 9.2 |
+| Javon Small | 35% | 9.7 | 4.2 | 1.5 | 1.4 | 0.4 | 0.5 | 0.1 | 0.8 | 7.1 |
+| Carson Cooper | 35% | 8.6 | 3.7 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 6.0 |
+| Kris Murray | 48% | 8.4 | 2.0 | 1.4 | 0.6 | 0.1 | 0.4 | 0.2 | 0.4 | 4.0 |
 | Jahmai Mashack | 38% | 8.3 | 2.6 | 1.1 | 0.9 | 0.1 | 0.5 | 0.2 | 0.7 | 4.7 |
-| Taylor Hendricks | 52% | 7.3 | 2.8 | 1.4 | 0.3 | 0.2 | 0.5 | 0.2 | 0.3 | 4.6 |
+| Taylor Hendricks | 52% | 7.5 | 2.9 | 1.5 | 0.3 | 0.2 | 0.5 | 0.2 | 0.4 | 4.7 |
 
 </details>
 
@@ -317,19 +317,18 @@ Out: Shaedon Sharpe (POR)
 
 | Player | Plays | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Deni Avdija | 97% | 33.5 | 23.4 | 7.7 | 6.5 | 1.8 | 0.9 | 0.7 | 3.7 | 37.6 |
-| Damian Lillard | 98% | 31.0 | 17.1 | 4.5 | 5.1 | 2.5 | 1.2 | 0.2 | 2.3 | 26.8 |
-| Jrue Holiday | 98% | 29.1 | 14.1 | 4.8 | 5.2 | 2.2 | 1.1 | 0.2 | 2.2 | 24.0 |
-| Ja Morant | 98% | 28.9 | 18.1 | 3.8 | 7.2 | 1.4 | 1.2 | 0.3 | 2.9 | 29.1 |
-| Toumani Camara | 98% | 28.8 | 12.1 | 4.5 | 1.9 | 2.0 | 1.2 | 0.4 | 1.3 | 18.4 |
-| Donovan Clingan | 98% | 23.9 | 10.5 | 10.6 | 1.9 | 1.1 | 0.6 | 1.9 | 1.2 | 23.0 |
-| Sidy Cissoko | 93% | 19.7 | 5.7 | 2.8 | 1.7 | 0.6 | 1.0 | 0.4 | 1.0 | 10.3 |
-| Scoot Henderson | 98% | 19.3 | 9.7 | 2.0 | 2.6 | 1.2 | 0.9 | 0.2 | 1.8 | 14.3 |
-| Robert Williams III | 98% | 18.4 | 7.7 | 8.0 | 1.1 | 0.2 | 0.6 | 1.5 | 1.0 | 16.9 |
-| Micah Potter | 52% | 11.6 | 5.1 | 3.4 | 0.7 | 0.5 | 0.3 | 0.2 | 0.7 | 9.2 |
-| Vit Krejci | 96% | 9.1 | 3.5 | 1.3 | 0.8 | 0.4 | 0.4 | 0.1 | 0.3 | 5.7 |
-| Branden Carlson | 16% | 8.6 | 3.6 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.4 | 6.0 |
-| Yang Hansen | 52% | 6.1 | 2.2 | 1.6 | 0.4 | 0.1 | 0.1 | 0.2 | 0.6 | 4.2 |
+| Deni Avdija | 97% | 34.3 | 23.8 | 7.9 | 6.3 | 1.9 | 0.9 | 0.7 | 3.8 | 38.0 |
+| Damian Lillard | 98% | 31.9 | 18.4 | 4.4 | 5.0 | 2.5 | 1.2 | 0.3 | 2.3 | 27.8 |
+| Jrue Holiday | 98% | 30.7 | 15.4 | 5.0 | 5.3 | 2.4 | 1.2 | 0.3 | 2.4 | 25.7 |
+| Ja Morant | 98% | 30.1 | 19.1 | 3.8 | 7.2 | 1.4 | 1.3 | 0.3 | 2.9 | 30.1 |
+| Toumani Camara | 98% | 29.8 | 11.9 | 4.7 | 1.9 | 2.0 | 1.2 | 0.5 | 1.3 | 18.5 |
+| Donovan Clingan | 98% | 26.2 | 11.2 | 11.5 | 2.0 | 1.1 | 0.7 | 2.1 | 1.3 | 24.7 |
+| Sidy Cissoko | 93% | 22.7 | 6.2 | 3.3 | 1.9 | 0.7 | 1.1 | 0.4 | 1.1 | 11.4 |
+| Scoot Henderson | 98% | 22.3 | 10.8 | 2.3 | 2.8 | 1.4 | 1.0 | 0.2 | 2.0 | 15.9 |
+| Micah Potter | 52% | 14.4 | 6.0 | 4.0 | 0.9 | 0.6 | 0.4 | 0.3 | 0.8 | 10.9 |
+| Vit Krejci | 96% | 11.9 | 4.1 | 1.7 | 1.0 | 0.6 | 0.5 | 0.2 | 0.4 | 6.8 |
+| Branden Carlson | 16% | 8.8 | 3.7 | 1.6 | 0.8 | 0.2 | 0.3 | 0.2 | 0.5 | 6.1 |
+| Yang Hansen | 52% | 8.1 | 2.7 | 2.0 | 0.5 | 0.1 | 0.2 | 0.3 | 0.8 | 5.3 |
 
 </details>
 
