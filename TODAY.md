@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 06:12 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 06:32 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -23,22 +23,22 @@ _No bets clear the edge threshold right now._
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | CLE @ ATL | 54.4% | 1.84 | 1.93 | 1.75 | -4.8% |
+| Donovan Mitchell ast under 5.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 56.2% | 1.78 | 1.87 | 1.69 | -4.8% |
 | Donovan Mitchell ast under 5.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 54.2% | 1.84 | 1.94 | 1.75 | -5.0% |
-| Donovan Mitchell ast under 5.5 **+** Evan Mobley 5+ reb | CLE @ ATL | 53.8% | 1.86 | 1.95 | 1.77 | -5.1% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Ty Jerome pa under 30.5 **+** Toumani Camara 6+ pts | MEM @ POR | 47.6% | 2.10 | 2.20 | 2.09 | -0.6% |
-| Cedric Coward pts under 13.5 **+** Toumani Camara 6+ pts | MEM @ POR | 49.0% | 2.04 | 2.14 | 2.03 | -0.7% |
-| Cedric Coward pts under 13.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 49.6% | 2.02 | 2.12 | 2.00 | -0.7% |
+| Cedric Coward pts under 13.5 **+** Toumani Camara 6+ pts | MEM @ POR | 48.8% | 2.05 | 2.15 | 2.04 | -0.5% |
+| Cedric Coward pts under 13.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 49.4% | 2.02 | 2.12 | 2.01 | -0.5% |
+| Ty Jerome pa under 30.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.9% | 2.09 | 2.19 | 2.07 | -0.7% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Damian Lillard pts under 20.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.3% | 2.36 | 2.48 | 2.43 | +2.8% |
+| Damian Lillard pts under 20.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.8% | 2.34 | 2.45 | 2.39 | +2.2% |
 | Ty Jerome pra under 33.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.3% | 2.37 | 2.48 | 2.41 | +1.8% |
 | Cedric Coward pts under 13.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 45.1% | 2.22 | 2.33 | 2.25 | +1.6% |
 
@@ -52,9 +52,9 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.70 | 2.38 | 41.9% | 25.3% | 29.4% | +8.9% | +55.2% | 0.8% |
 | Ty Jerome PRA under 33.5 | MEM @ POR | draftkings | 1.92 | 1.31 | 76.2% | 48.7% | 55.6% | +6.6% | +46.2% | 1.8% |
-| Damian Lillard PTS under 20.5 | MEM @ POR | draftkings | 1.93 | 1.33 | 75.2% | 48.3% | 55.0% | +6.5% | +45.6% | 1.7% |
 | Ty Jerome PTS under 23.5 | MEM @ POR | draftkings | 1.93 | 1.34 | 74.5% | 48.5% | 55.0% | +6.0% | +43.6% | 1.6% |
 | Ty Jerome PA under 30.5 | MEM @ POR | draftkings | 1.85 | 1.29 | 77.5% | 50.6% | 57.3% | +5.9% | +43.3% | 1.7% |
+| Damian Lillard PTS under 20.5 | MEM @ POR | draftkings | 1.90 | 1.33 | 75.2% | 49.2% | 55.7% | +5.9% | +43.0% | 1.6% |
 | Cameron Boozer PA under 19.5 | MEM @ POR | draftkings | 1.96 | 1.39 | 72.1% | 47.6% | 53.8% | +5.5% | +41.4% | 1.4% |
 | Ty Jerome PR under 27.5 | MEM @ POR | draftkings | 1.85 | 1.31 | 76.4% | 50.6% | 57.0% | +5.4% | +41.1% | 1.6% |
 | Cedric Coward PTS under 13.5 | MEM @ POR | draftkings | 1.79 | 1.27 | 78.6% | 52.1% | 58.7% | +5.4% | +41.1% | 1.7% |
@@ -85,10 +85,10 @@ Out: Mouhamed Gueye (ATL)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| James Harden 3+ reb **+** Jalen Johnson 1+ 3pm | 59.1% | 1.69 | 1.78 | 1.53 | -9.9% |
+| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 59.3% | 1.69 | 1.77 | 1.52 | -10.1% |
 | Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | 54.4% | 1.84 | 1.93 | 1.75 | -4.8% |
-| Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.3% | 2.11 | 2.22 | 2.09 | -1.3% |
-| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 44.8% | 2.23 | 2.34 | 2.21 | -0.9% |
+| Jalen Johnson pra under 40.5 **+** Onyeka Okongwu 6+ pts | 47.3% | 2.11 | 2.22 | 2.08 | -1.6% |
+| Jalen Johnson ra under 17.5 **+** Onyeka Okongwu 6+ pts | 45.6% | 2.19 | 2.30 | 2.16 | -1.3% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
@@ -216,9 +216,9 @@ Out: Shaedon Sharpe (POR)
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Jrue Holiday 3+ ast **+** Deni Avdija 4+ ast | 60.6% | 1.65 | 1.73 | 1.51 | -8.7% |
-| Jrue Holiday 3+ ast **+** Toumani Camara 6+ pts **+** Damian Lillard 3+ ast | 52.0% | 1.92 | 2.02 | 1.66 | -13.7% |
-| Ty Jerome pa under 30.5 **+** Toumani Camara 6+ pts | 47.6% | 2.10 | 2.20 | 2.09 | -0.6% |
-| Damian Lillard pts under 20.5 **+** Jrue Holiday 3+ ast | 42.3% | 2.36 | 2.48 | 2.43 | +2.8% |
+| Jrue Holiday 3+ ast **+** Toumani Camara 6+ pts **+** Damian Lillard 3+ ast | 51.7% | 1.93 | 2.03 | 1.67 | -13.5% |
+| Cedric Coward pts under 13.5 **+** Toumani Camara 6+ pts | 48.8% | 2.05 | 2.15 | 2.04 | -0.5% |
+| Damian Lillard pts under 20.5 **+** Jrue Holiday 3+ ast | 42.8% | 2.34 | 2.45 | 2.39 | +2.2% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
