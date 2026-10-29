@@ -1,30 +1,31 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CLE @ ATL,ATL win + Onyeka Okongwu 8+ pts,2,0.4159,0.3962,2.52,2.65,2.44,-0.0346,1.037,2.10-2.50
-CLE @ ATL,CLE win + Donovan Mitchell 18+ pts,2,0.4082,0.3894,2.57,2.7,2.48,-0.0352,1.04,2.10-2.50
-CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 3+ reb,2,0.5375,0.4128,2.42,2.54,2.32,-0.0407,0.995,2.10-2.50
-CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 12+ pts,2,0.6199,0.4901,2.04,2.14,1.95,-0.0438,1.004,1.85-2.10
-CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 20+ pra,2,0.6134,0.485,2.06,2.16,1.97,-0.0445,1.003,1.85-2.10
-CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 12+ pts,2,0.5991,0.4658,2.15,2.25,2.05,-0.0446,0.996,1.85-2.10
-CLE @ ATL,Luguentz Dort 3pm under 1.5 + Donovan Mitchell 12+ pts,2,0.6485,0.523,1.91,2.01,1.81,-0.0549,1.0,1.65-1.85
-CLE @ ATL,Luguentz Dort 3pm under 1.5 + Donovan Mitchell 20+ pra,2,0.6421,0.5179,1.93,2.03,1.82,-0.0553,1.0,1.65-1.85
-CLE @ ATL,Luguentz Dort reb under 3.5 + Donovan Mitchell 12+ pts,2,0.6523,0.5252,1.9,2.0,1.8,-0.0565,0.998,1.65-1.85
-CLE @ ATL,Donovan Mitchell 3+ reb + Jalen Johnson 1+ 3pm,2,0.6841,0.6078,1.65,1.73,1.5,-0.0874,1.003,1.50-1.65
-CLE @ ATL,Donovan Mitchell 3+ reb + Onyeka Okongwu 8+ pts,2,0.6793,0.6018,1.66,1.74,1.52,-0.0879,1.001,1.50-1.65
-CLE @ ATL,Onyeka Okongwu 8+ pts + Jalen Johnson 1+ 3pm,2,0.6382,0.5769,1.73,1.82,1.58,-0.0901,1.006,1.50-1.65
-SAC @ NOP,Derik Queen 23+ pra + Precious Achiuwa 8+ pts,2,0.5792,0.4073,2.46,2.58,2.48,0.0107,1.005,2.10-2.50
-SAC @ NOP,Derik Queen 19+ pr + Precious Achiuwa 8+ pts,2,0.6063,0.4265,2.34,2.46,2.35,0.0036,1.004,2.10-2.50
-SAC @ NOP,Precious Achiuwa 11+ pts + Derik Queen 8+ pts,2,0.5903,0.4215,2.37,2.49,2.36,-0.0038,1.004,2.10-2.50
+CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 3+ reb,2,0.5305,0.4288,2.33,2.45,2.4,0.0302,0.999,2.10-2.50
+CLE @ ATL,Kingston Flemings pts under 8.5 + Onyeka Okongwu 6+ pts,2,0.5708,0.4629,2.16,2.27,2.22,0.0299,1.0,2.10-2.50
+CLE @ ATL,Kingston Flemings pts under 8.5 + Donovan Mitchell 12+ pts,2,0.5921,0.4834,2.07,2.17,2.12,0.0251,0.998,2.10-2.50
+CLE @ ATL,Sam Merrill pts under 8.5 + Donovan Mitchell 20+ pra,2,0.5523,0.4734,2.11,2.22,2.09,-0.0106,0.996,1.85-2.10
+CLE @ ATL,Sam Merrill pts under 8.5 + Donovan Mitchell 12+ pts,2,0.5563,0.477,2.1,2.2,2.07,-0.0126,0.994,1.85-2.10
+CLE @ ATL,Sam Merrill pts under 8.5 + Donovan Mitchell 1+ 3pm,2,0.5462,0.4734,2.11,2.22,2.08,-0.0157,0.995,1.85-2.10
+CLE @ ATL,Luguentz Dort 3pm under 1.5 + Donovan Mitchell 20+ pra,2,0.6383,0.5168,1.94,2.03,1.82,-0.0573,0.999,1.65-1.85
+CLE @ ATL,Luguentz Dort reb under 3.5 + Donovan Mitchell 20+ pra,2,0.6426,0.5196,1.92,2.02,1.81,-0.0576,0.998,1.65-1.85
+CLE @ ATL,Luguentz Dort 3pm under 1.5 + Donovan Mitchell 12+ pts,2,0.6438,0.5214,1.92,2.01,1.81,-0.0578,0.999,1.65-1.85
+CLE @ ATL,Onyeka Okongwu 8+ pts + Donovan Mitchell 3+ reb,2,0.6884,0.6037,1.66,1.74,1.52,-0.085,1.001,1.50-1.65
+CLE @ ATL,Donovan Mitchell 3+ reb + Jalen Johnson 1+ 3pm,2,0.6771,0.606,1.65,1.73,1.5,-0.0901,1.002,1.50-1.65
+CLE @ ATL,Onyeka Okongwu 8+ pts + Jalen Johnson 1+ 3pm,2,0.6446,0.5767,1.73,1.82,1.58,-0.0904,1.002,1.50-1.65
+SAC @ NOP,Precious Achiuwa 11+ pts + Derik Queen 8+ pts,2,0.5903,0.4216,2.37,2.49,2.4,0.0135,1.004,2.10-2.50
+SAC @ NOP,Precious Achiuwa 11+ pts + Derik Queen 5+ reb,2,0.6088,0.4422,2.26,2.37,2.28,0.0081,1.005,2.10-2.50
+SAC @ NOP,Precious Achiuwa 11+ pts + Trey Murphy III 2+ 3pm,2,0.5789,0.4176,2.39,2.51,2.41,0.005,0.999,2.10-2.50
+SAC @ NOP,Precious Achiuwa 11+ pts + Domantas Sabonis 8+ reb,2,0.6384,0.479,2.09,2.19,2.07,-0.0074,1.001,1.85-2.10
+SAC @ NOP,Derik Queen 19+ pr + Precious Achiuwa 6+ pts,2,0.6626,0.4868,2.05,2.16,2.02,-0.0155,1.002,1.85-2.10
 SAC @ NOP,Derik Queen 23+ pra + Domantas Sabonis 25+ pra,2,0.6271,0.472,2.12,2.22,2.08,-0.0167,1.004,1.85-2.10
-SAC @ NOP,Precious Achiuwa 11+ pts + Domantas Sabonis 25+ pra,2,0.6323,0.4716,2.12,2.23,2.08,-0.0176,1.006,1.85-2.10
-SAC @ NOP,Derik Queen 23+ pra + Domantas Sabonis 8+ reb,2,0.6353,0.4811,2.08,2.18,2.04,-0.02,1.003,1.85-2.10
 SAC @ NOP,Trey Murphy III 3+ 3pm + Domantas Sabonis 20+ pra,2,0.6604,0.5246,1.91,2.0,1.81,-0.0483,1.0,1.65-1.85
-SAC @ NOP,Trey Murphy III 2+ 3pm + Derik Queen 5+ reb + Precious Achiuwa 6+ pts + Domantas Sabonis 8+ reb,4,0.6815,0.4755,2.1,2.21,1.82,-0.1323,1.001,1.65-1.85
+SAC @ NOP,Derik Queen 8+ pts + Trey Murphy III 2+ 3pm + Precious Achiuwa 6+ pts,3,0.7019,0.5135,1.95,2.04,1.78,-0.0856,1.002,1.65-1.85
+SAC @ NOP,Derik Queen 8+ pts + Trey Murphy III 2+ 3pm + Domantas Sabonis 25+ pra,3,0.6943,0.5207,1.92,2.02,1.74,-0.0944,1.001,1.65-1.85
 MEM @ POR,Jrue Holiday 8+ ra + Damian Lillard 3+ ast,2,0.6273,0.4329,2.31,2.43,2.35,0.0164,1.005,2.10-2.50
 MEM @ POR,Jrue Holiday 8+ ra + Scoot Henderson 6+ pts,2,0.6037,0.43,2.33,2.44,2.35,0.0084,1.009,2.10-2.50
 MEM @ POR,Ty Jerome pr under 27.5 + Jrue Holiday 3+ ast,2,0.5963,0.4173,2.4,2.52,2.41,0.0046,1.003,2.10-2.50
+MEM @ POR,Damian Lillard pts under 21.5 + Jrue Holiday 1+ 3pm,2,0.6564,0.4763,2.1,2.2,2.07,-0.013,0.998,1.85-2.10
+MEM @ POR,Damian Lillard pts under 21.5 + Ja Morant 4+ ast,2,0.6454,0.4712,2.12,2.23,2.08,-0.0182,0.995,1.85-2.10
 MEM @ POR,Ty Jerome pts under 24.5 + Jrue Holiday 1+ 3pm,2,0.6381,0.4717,2.12,2.23,2.08,-0.0187,1.001,1.85-2.10
-MEM @ POR,Ty Jerome pa under 30.5 + Jrue Holiday 1+ 3pm,2,0.6345,0.4723,2.12,2.22,2.07,-0.0213,1.001,1.85-2.10
-MEM @ POR,Jrue Holiday 4+ ast + Deni Avdija 5+ reb,2,0.6308,0.4766,2.1,2.2,2.05,-0.0229,1.001,1.85-2.10
 MEM @ POR,Damian Lillard 3+ ast + Deni Avdija 4+ ast,2,0.7162,0.6084,1.64,1.73,1.53,-0.0717,1.003,1.50-1.65
 MEM @ POR,Damian Lillard 3+ ast + Toumani Camara 3+ reb,2,0.6861,0.5823,1.72,1.8,1.59,-0.0743,1.0,1.50-1.65
 MEM @ POR,Damian Lillard 3+ ast + Deni Avdija 5+ reb,2,0.7198,0.6122,1.63,1.72,1.51,-0.0754,1.0,1.50-1.65
