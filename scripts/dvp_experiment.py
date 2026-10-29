@@ -23,7 +23,8 @@ def main():
     rows = []
     for mode in ("none", "pos", "arch", "both"):
         ds.DEFENSE_GROUPS = mode
-        b = Bundle(rates=fit_rates(tr), rate_features={s: ds.rate_feats(s) for s in STATS + ["fga", "fta"]})
+        rates, fill = fit_rates(tr)
+        b = Bundle(rates=rates, rate_base_fill=fill, rate_features={s: ds.rate_feats(s) for s in STATS + ["fga", "fta"]})
         r = predict_rates(b, te)
         row = {"opponent features": {"none": "team-level only", "pos": "+ defense vs position (G/F/C)",
                                      "arch": "+ defense vs player type", "both": "+ both"}[mode]}

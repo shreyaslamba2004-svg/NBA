@@ -137,6 +137,25 @@ def availability_hash(sp: pd.DataFrame) -> str:
 
 # ------------------------------------------------------------------ projection
 
+def _expected_mates(tP: pd.DataFrame) -> pd.DataFrame:
+    """Teammates' claim on minutes and shots, counting each teammate by his chance to play.
+
+    In training these count the players who got on court. Live, build() counted every healthy
+    roster player, deep bench included, so rotations looked crowded and every projection sagged
+    (live-like backtest, 2025-26: minutes bias -0.96 and MAE 4.63 that way; weighting by chance to
+    play: bias +0.24, MAE 4.51)."""
+    tP = tP.copy()
+    here = (tP["avail_prob"] >= 0.5) & ~tP["maybe"]
+    w = np.where(here, tP["rotation_prob"].fillna(0), 0.0)
+    ms, us = tP["min_s"].fillna(0).values, tP["usage_r_s"].fillna(0).values
+    key = [tP["game_id"], tP["team"]]
+    mu = pd.Series(w * ms, index=tP.index).groupby(key).transform("sum")
+    uu = pd.Series(w * ms * us, index=tP.index).groupby(key).transform("sum")
+    tP["mates_min"] = mu - w * ms
+    tP["mates_usage"] = uu - w * ms * us
+    return tP
+
+
 def rookie_prior(pick: int | None) -> tuple[float, float]:
     """(minutes if he plays, chance the coach plays him) for a player with no NBA games.
     Hand-set from typical early-career usage by draft slot; replaced by his own numbers after
@@ -190,6 +209,7 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
             rot = min(rot, tP.at[i, "rotation_prob"])
         tP.at[i, "rookie_min"], tP.at[i, "rotation_prob"] = mins, rot
     tP.loc[tP["starting"] == 1, "rotation_prob"] = 1.0
+    tP = _expected_mates(tP)
 
     games_out, players_out, edges, sgms, sim_inputs = [], [], [], [], []
     for gr in tG.itertuples(index=False):
