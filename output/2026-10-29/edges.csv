@@ -1,117 +1,114 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,1800.0,19.0,0.1218,8.21,0.0492,0.0492,0.0726,,1.3145,0.0673,0.2796,0.0039,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,1040.0,11.4,0.1974,5.07,0.082,0.082,0.1154,,1.2505,0.1108,0.2636,0.0063,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,10.5,draftkings,1160.0,12.6,0.1601,6.24,0.0742,0.0742,0.086,,1.0177,0.0957,0.2054,0.0044,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,9.5,draftkings,2800.0,29.0,0.0694,14.41,0.0322,0.0322,0.0372,,1.0127,0.0415,0.2041,0.0018,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,6.5,draftkings,565.0,6.65,0.302,3.31,0.1405,0.1405,0.1615,,1.0085,0.1809,0.2031,0.009,True,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,11.5,draftkings,1840.0,19.4,0.1027,9.74,0.0482,0.0482,0.0545,,0.9924,0.0618,0.199,0.0027,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,13.5,draftkings,2000.0,21.0,0.0946,10.57,0.0445,0.0445,0.0501,,0.986,0.057,0.1974,0.0025,False,False,False,Robert Williams III,0.0,0.0987
-401909895,MEM @ POR,prop_reb,over,Jrue Holiday,201950.0,7.5,draftkings,1280.0,13.8,0.1415,7.07,0.0677,0.0677,0.0737,,0.9523,0.0862,0.189,0.0037,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,14.5,draftkings,2800.0,29.0,0.0658,15.2,0.0322,0.0322,0.0336,,0.9082,0.0406,0.178,0.0016,False,False,False,Robert Williams III,0.0,0.0702
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,12.5,draftkings,1420.0,15.2,0.1248,8.01,0.0615,0.0615,0.0634,,0.8976,0.0773,0.1753,0.0031,False,False,False,Robert Williams III,0.0,0.139
-401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,12.5,draftkings,2800.0,29.0,0.0654,15.29,0.0322,0.0322,0.0332,,0.8967,0.0405,0.1751,0.0016,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,11.5,draftkings,970.0,10.7,0.1769,5.65,0.0873,0.0873,0.0895,,0.8926,0.1097,0.1741,0.0045,False,False,False,Robert Williams III,0.0,0.1894
-401909895,MEM @ POR,prop_reb,over,Jrue Holiday,201950.0,6.5,draftkings,700.0,8.0,0.2355,4.25,0.1168,0.1168,0.1187,,0.8843,0.1465,0.172,0.0061,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,1720.0,18.2,0.1218,8.21,0.0514,0.0514,0.0705,,1.217,0.069,0.2552,0.0037,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,960.0,10.6,0.1974,5.07,0.0882,0.0882,0.1092,,1.0925,0.1155,0.2241,0.0058,False,True,False,,,
+401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,13.5,draftkings,1960.0,20.6,0.0946,10.57,0.0454,0.0454,0.0492,,0.9482,0.0577,0.188,0.0024,False,False,False,Robert Williams III,0.0,0.0987
+401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,9.5,draftkings,2700.0,28.0,0.0694,14.41,0.0334,0.0334,0.036,,0.9433,0.0424,0.1868,0.0017,False,True,False,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,24.5,draftkings,2700.0,28.0,0.0669,14.95,0.0334,0.0334,0.0335,,0.8728,0.0418,0.1691,0.0016,False,True,False,,,
+401909894,SAC @ NOP,prop_pa,over,Precious Achiuwa,1630173.0,24.5,draftkings,1700.0,18.0,0.1032,9.69,0.0519,0.0519,0.0513,,0.858,0.0647,0.1654,0.0024,False,False,False,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,19.5,draftkings,930.0,10.3,0.1802,5.55,0.0907,0.0907,0.0895,,0.8561,0.1131,0.165,0.0044,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Jrue Holiday,201950.0,8.5,draftkings,2100.0,22.0,0.0834,11.99,0.0425,0.0425,0.0409,,0.8354,0.0527,0.1598,0.0019,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,6.5,draftkings,513.0,6.13,0.302,3.31,0.1525,0.1525,0.1496,,0.8514,0.1899,0.1638,0.008,False,True,False,,,
+401909894,SAC @ NOP,prop_pa,over,Precious Achiuwa,1630173.0,19.5,draftkings,599.0,6.99,0.2563,3.9,0.1337,0.1337,0.1226,,0.7917,0.1644,0.1488,0.0062,False,False,False,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,17.5,draftkings,581.0,6.81,0.26,3.85,0.1372,0.1372,0.1227,,0.7703,0.1679,0.1435,0.0062,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,9.5,draftkings,670.0,7.7,0.2293,4.36,0.1214,0.1214,0.1079,,0.7654,0.1483,0.1423,0.0053,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,10.5,draftkings,620.0,7.2,0.2399,4.17,0.1298,0.1298,0.1101,,0.7275,0.1573,0.1328,0.0054,False,False,False,Robert Williams III,0.0,0.2538
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,5.5,draftkings,285.0,3.85,0.436,2.29,0.2427,0.2427,0.1933,,0.6787,0.2911,0.1206,0.0106,True,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Jrue Holiday,201950.0,5.5,draftkings,364.0,4.64,0.3601,2.78,0.2014,0.2014,0.1586,,0.6707,0.2411,0.1186,0.0081,True,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1700.0,18.0,0.0925,10.81,0.0519,0.0519,0.0406,,0.6653,0.0621,0.1172,0.0017,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,930.0,10.3,0.157,6.37,0.0907,0.0907,0.0663,,0.6175,0.1073,0.1053,0.0028,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,9.5,draftkings,403.0,5.03,0.314,3.18,0.1858,0.1858,0.1282,,0.5793,0.2178,0.0958,0.0059,False,False,False,Robert Williams III,0.0,0.3315
+401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,1020.0,11.2,0.157,6.37,0.0834,0.0834,0.0736,,0.7588,0.1018,0.1406,0.0034,False,True,False,,,
+401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,11.5,draftkings,890.0,9.9,0.1769,5.65,0.0944,0.0944,0.0825,,0.7511,0.115,0.1387,0.0039,False,False,False,Robert Williams III,0.0,0.1894
+401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,12.5,draftkings,1300.0,14.0,0.1248,8.01,0.0668,0.0668,0.0581,,0.7478,0.0813,0.1379,0.0027,False,False,False,Robert Williams III,0.0,0.139
+401909894,SAC @ NOP,prop_fg3m,over,Domantas Sabonis,1627734.0,0.5,draftkings,455.0,5.55,0.3116,3.21,0.1684,0.1695,0.1422,,0.7295,0.205,0.1378,0.0076,False,False,True,,,
+401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1780.0,18.8,0.0925,10.81,0.0497,0.0497,0.0428,,0.7393,0.0604,0.1358,0.0019,False,True,False,,,
+401909894,SAC @ NOP,prop_fg3m,over,Domantas Sabonis,1627734.0,0.5,draftkings,448.0,5.48,0.3116,3.21,0.1705,0.1695,0.1422,,0.7077,0.205,0.1234,0.0069,False,False,True,,,
+401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,10.5,draftkings,592.0,6.92,0.2399,4.17,0.1351,0.1351,0.1049,,0.6603,0.1613,0.116,0.0049,False,False,False,Robert Williams III,0.0,0.2538
+401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,14.5,draftkings,2400.0,25.0,0.0658,15.2,0.0374,0.0374,0.0284,,0.645,0.0445,0.1122,0.0012,False,False,False,Robert Williams III,0.0,0.0702
+401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,11.5,draftkings,1500.0,16.0,0.1027,9.74,0.0584,0.0584,0.0443,,0.6432,0.0695,0.1117,0.0019,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,6.5,draftkings,546.0,6.46,0.253,3.95,0.1447,0.1447,0.1083,,0.6343,0.1717,0.1095,0.005,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,10.5,draftkings,900.0,10.0,0.1601,6.24,0.0935,0.0935,0.0667,,0.6013,0.1101,0.1013,0.0028,False,True,False,,,
+401909894,SAC @ NOP,prop_pra,over,Precious Achiuwa,1630173.0,34.5,draftkings,1360.0,14.6,0.1093,9.15,0.064,0.064,0.0453,,0.5961,0.0753,0.1,0.0018,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,5.5,draftkings,261.0,3.61,0.436,2.29,0.2589,0.2589,0.1771,,0.574,0.3032,0.0944,0.009,True,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,12.5,draftkings,2300.0,24.0,0.0654,15.29,0.0389,0.0389,0.0265,,0.5697,0.0456,0.0934,0.001,False,True,False,,,
 401909894,SAC @ NOP,prop_pr,over,Precious Achiuwa,1630173.0,29.5,draftkings,790.0,8.9,0.175,5.71,0.105,0.105,0.07,,0.5573,0.1225,0.0903,0.0029,False,False,False,,,
+401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2900.0,30.0,0.0515,19.41,0.0312,0.0312,0.0204,,0.5458,0.0362,0.0874,0.0008,False,True,False,,,
+401909894,SAC @ NOP,prop_pra,over,Precious Achiuwa,1630173.0,29.5,draftkings,566.0,6.66,0.2316,4.32,0.1403,0.1403,0.0912,,0.5422,0.1631,0.0865,0.0038,False,True,False,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,14.5,draftkings,266.0,3.66,0.4151,2.41,0.2553,0.2553,0.1597,,0.5193,0.2953,0.0808,0.0076,True,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,8.5,draftkings,372.0,4.72,0.321,3.11,0.198,0.198,0.123,,0.5153,0.2288,0.0798,0.0054,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,6.5,draftkings,486.0,5.86,0.253,3.95,0.1595,0.1595,0.0935,,0.4825,0.1829,0.0716,0.0037,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Jrue Holiday,201950.0,4.5,draftkings,185.0,2.85,0.518,1.93,0.3279,0.3279,0.19,,0.4762,0.3754,0.07,0.0095,True,True,False,,,
+401909895,MEM @ POR,prop_pr,over,Robert Williams III,1629057.0,24.5,draftkings,1220.0,13.2,0.1121,8.92,0.0708,0.0708,0.0413,,0.4795,0.0811,0.0708,0.0015,False,False,False,Robert Williams III,0.0,0.1145
+401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,9.5,draftkings,371.0,4.71,0.314,3.18,0.1984,0.1984,0.1156,,0.4789,0.2273,0.0707,0.0048,False,False,False,Robert Williams III,0.0,0.3315
 401909894,SAC @ NOP,prop_pr,over,Precious Achiuwa,1630173.0,34.5,draftkings,1820.0,19.2,0.0764,13.09,0.0487,0.0487,0.0277,,0.4672,0.0556,0.0677,0.0009,False,False,False,,,
-401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2700.0,28.0,0.0515,19.41,0.0334,0.0334,0.0181,,0.4428,0.0379,0.0616,0.0006,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,9.5,draftkings,538.0,6.38,0.2293,4.36,0.1465,0.1465,0.0828,,0.4627,0.1672,0.0666,0.0031,False,True,False,,,
+401909895,MEM @ POR,prop_pr,over,Robert Williams III,1629057.0,19.5,draftkings,429.0,5.29,0.2722,3.67,0.1767,0.1767,0.0955,,0.44,0.2006,0.0609,0.0036,False,False,False,Robert Williams III,0.0,0.2775
 401909893,CLE @ ATL,prop_fg3m,under,Sam Merrill,1630241.0,1.5,draftkings,137.0,2.37,0.6029,1.66,0.3943,0.3943,0.2086,,0.4289,0.4465,0.0582,0.0106,True,True,True,Meleek Thomas,0.4992,0.5999
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,4.5,draftkings,142.0,2.42,0.5894,1.7,0.3862,0.3862,0.2032,,0.4264,0.437,0.0575,0.0101,True,True,False,,,
 401909894,SAC @ NOP,prop_reb,over,Darius Acuff Jr.,905142620.0,5.5,draftkings,574.0,6.74,0.2108,4.74,0.1387,0.1387,0.0722,,0.421,0.1567,0.0562,0.0024,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,10.5,draftkings,1480.0,15.8,0.0896,11.16,0.0592,0.0592,0.0304,,0.4155,0.0668,0.0548,0.0009,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,8.5,draftkings,259.0,3.59,0.3933,2.54,0.2603,0.2603,0.133,,0.4119,0.2936,0.0539,0.0052,False,False,False,Robert Williams III,0.0,0.4193
+401909894,SAC @ NOP,prop_pa,over,Precious Achiuwa,1630173.0,14.5,draftkings,170.0,2.7,0.5263,1.9,0.3461,0.3461,0.1802,,0.4211,0.3912,0.0562,0.0083,True,False,False,,,
+401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,5.5,draftkings,272.0,3.72,0.38,2.63,0.2512,0.2512,0.1288,,0.4137,0.2834,0.0544,0.005,False,True,False,,,
 401909894,SAC @ NOP,prop_ast,over,Dejounte Murray,1627749.0,11.5,draftkings,1740.0,18.4,0.0759,13.17,0.0508,0.0508,0.0251,,0.397,0.0571,0.0502,0.0007,False,True,False,,,
+401909895,MEM @ POR,prop_pra,under,Cedric Coward,1642907.0,22.5,draftkings,-108.0,1.93,0.7225,1.38,0.4853,0.4853,0.2372,,0.3915,0.5446,0.0488,0.0132,True,False,True,,,
 401909894,SAC @ NOP,prop_ast,over,Dejounte Murray,1627749.0,10.5,draftkings,1060.0,11.6,0.12,8.34,0.0806,0.0806,0.0394,,0.3916,0.0904,0.0488,0.0012,False,True,False,,,
-401909895,MEM @ POR,prop_ra,over,Jrue Holiday,201950.0,7.5,draftkings,-116.0,1.86,0.7415,1.35,0.5031,0.5031,0.2384,6.76,0.3807,0.5627,0.0477,0.0138,True,True,True,,,
+401909894,SAC @ NOP,prop_fg3m,over,Domantas Sabonis,1627734.0,1.5,draftkings,2500.0,26.0,0.0534,18.72,0.0359,0.0359,0.0175,,0.3886,0.0403,0.0481,0.0005,False,False,False,,,
 401909894,SAC @ NOP,prop_pr,over,Precious Achiuwa,1630173.0,24.5,draftkings,290.0,3.9,0.3552,2.82,0.2396,0.2396,0.1155,,0.3852,0.2685,0.0472,0.0041,False,False,False,,,
+401909895,MEM @ POR,prop_pa,under,Cedric Coward,1642907.0,15.5,draftkings,-105.0,1.95,0.7089,1.41,0.4787,0.4787,0.2302,,0.384,0.5362,0.0469,0.0123,True,False,True,,,
 401909894,SAC @ NOP,prop_pra,over,Jeremiah Fears,1642847.0,29.5,draftkings,820.0,9.2,0.1496,6.68,0.1016,0.1016,0.048,,0.3766,0.1136,0.0451,0.0014,False,False,False,Jordan Poole,0.1653,0.1159
+401909895,MEM @ POR,prop_pr,under,Cedric Coward,1642907.0,19.5,draftkings,-108.0,1.93,0.712,1.4,0.4853,0.4853,0.2268,,0.3713,0.542,0.0438,0.0118,True,True,True,,,
 401909895,MEM @ POR,prop_pts,under,Cedric Coward,1642907.0,12.5,draftkings,-103.0,1.97,0.6939,1.44,0.4742,0.4742,0.2197,,0.3675,0.5291,0.0428,0.011,True,True,True,,,
-401909895,MEM @ POR,prop_pra,under,Cedric Coward,1642907.0,22.5,draftkings,-113.0,1.88,0.7225,1.38,0.4958,0.4958,0.2267,,0.3619,0.5525,0.0414,0.0117,True,False,True,,,
-401909895,MEM @ POR,prop_pa,under,Cedric Coward,1642907.0,15.5,draftkings,-109.0,1.92,0.7089,1.41,0.4874,0.4874,0.2215,,0.3593,0.5428,0.0408,0.0111,True,False,True,,,
+401909894,SAC @ NOP,prop_pra,over,Precious Achiuwa,1630173.0,24.5,draftkings,210.0,3.1,0.441,2.27,0.3015,0.3015,0.1396,,0.3672,0.3364,0.0427,0.0051,False,True,False,,,
 401909894,SAC @ NOP,prop_reb,over,Darius Acuff Jr.,905142620.0,6.5,draftkings,1120.0,12.2,0.1114,8.97,0.0766,0.0766,0.0348,,0.3594,0.0853,0.0408,0.0009,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,9.5,draftkings,850.0,9.5,0.143,6.99,0.0984,0.0984,0.0446,,0.3583,0.1095,0.0405,0.0012,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,7.5,draftkings,212.0,3.12,0.4327,2.31,0.2995,0.2995,0.1332,,0.3501,0.3328,0.0385,0.0045,False,True,False,,,
+401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,4.5,draftkings,130.0,2.3,0.5894,1.7,0.4063,0.4063,0.1831,,0.3557,0.4521,0.0398,0.0077,True,True,False,,,
 401909894,SAC @ NOP,prop_pra,over,Dejounte Murray,1627749.0,44.5,draftkings,1320.0,14.2,0.0949,10.53,0.0658,0.0658,0.0291,,0.3482,0.0731,0.038,0.0007,False,True,False,,,
-401909895,MEM @ POR,prop_pr,under,Cedric Coward,1642907.0,19.5,draftkings,-112.0,1.89,0.712,1.4,0.4937,0.4937,0.2183,,0.3478,0.5483,0.0379,0.0106,True,True,True,,,
 401909894,SAC @ NOP,prop_reb,over,Darius Acuff Jr.,905142620.0,4.5,draftkings,279.0,3.79,0.3547,2.82,0.2466,0.2466,0.1081,,0.3443,0.2736,0.037,0.0033,False,True,False,,,
-401909895,MEM @ POR,prop_pts,under,Cameron Boozer,905041935.0,15.5,draftkings,-105.0,1.95,0.6822,1.47,0.4787,0.4787,0.2036,,0.332,0.5296,0.0339,0.0089,True,True,True,,,
-401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,5.5,draftkings,250.0,3.5,0.38,2.63,0.267,0.267,0.113,,0.3301,0.2953,0.0335,0.0033,False,True,False,,,
-401909895,MEM @ POR,prop_pra,under,Ty Jerome,1629660.0,33.5,draftkings,-107.0,1.93,0.6858,1.46,0.4831,0.4831,0.2027,,0.3267,0.5338,0.0326,0.0087,True,True,True,,,
+401909895,MEM @ POR,prop_pts,under,Damian Lillard,203081.0,21.5,draftkings,-120.0,1.83,0.7291,1.37,0.5098,0.5098,0.2193,,0.3367,0.5646,0.0351,0.0105,True,True,True,Robert Williams III,0.6958,0.7485
+401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,8.5,draftkings,313.0,4.13,0.321,3.11,0.2263,0.2263,0.0947,,0.3259,0.25,0.0324,0.0026,False,True,False,,,
 401909895,MEM @ POR,prop_pr,under,Ty Jerome,1629660.0,27.5,draftkings,-108.0,1.93,0.6882,1.45,0.4853,0.4853,0.203,,0.3255,0.536,0.0323,0.0087,True,True,True,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,11.5,draftkings,115.0,2.15,0.6152,1.63,0.4347,0.4347,0.1805,,0.3227,0.4798,0.0316,0.0069,True,True,False,,,
-401909895,MEM @ POR,prop_pts,under,Ty Jerome,1629660.0,24.5,draftkings,-115.0,1.87,0.7068,1.41,0.4999,0.4999,0.2069,,0.3214,0.5516,0.0313,0.009,True,True,True,,,
+401909895,MEM @ POR,prop_pra,under,Ty Jerome,1629660.0,33.5,draftkings,-108.0,1.93,0.6858,1.46,0.4853,0.4853,0.2005,,0.3207,0.5354,0.0311,0.0084,True,True,True,,,
+401909895,MEM @ POR,prop_pr,under,Damian Lillard,203081.0,25.5,draftkings,-112.0,1.89,0.6972,1.43,0.4937,0.4937,0.2035,,0.3198,0.5446,0.0309,0.0086,True,True,True,Robert Williams III,0.6668,0.715
 401909894,SAC @ NOP,prop_ast,over,Dejounte Murray,1627749.0,9.5,draftkings,610.0,7.1,0.1856,5.39,0.1316,0.1316,0.054,,0.3176,0.1451,0.0303,0.0012,False,True,False,,,
-401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,8.5,draftkings,494.0,5.94,0.2213,4.52,0.1573,0.1573,0.064,,0.3147,0.1733,0.0296,0.0015,False,True,False,,,
-401909895,MEM @ POR,prop_pts,under,Damian Lillard,203081.0,20.5,draftkings,-111.0,1.9,0.6894,1.45,0.4917,0.4917,0.1978,,0.3105,0.5411,0.0286,0.0079,True,True,True,Robert Williams III,0.6544,0.7111
-401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,11.5,draftkings,2300.0,24.0,0.0545,18.34,0.0389,0.0389,0.0156,,0.3086,0.0428,0.0281,0.0003,False,True,False,,,
-401909895,MEM @ POR,prop_pa,under,Ty Jerome,1629660.0,30.5,draftkings,-116.0,1.86,0.7025,1.42,0.5019,0.5019,0.2006,,0.308,0.552,0.0279,0.0081,True,True,True,,,
-401909894,SAC @ NOP,prop_blk,under,Precious Achiuwa,1630173.0,1.5,draftkings,-129.0,1.78,0.7361,1.36,0.5265,0.5265,0.2097,,0.3068,0.5789,0.0276,0.0089,True,False,True,,,
-401909895,MEM @ POR,prop_reb,over,Jrue Holiday,201950.0,3.5,draftkings,-112.0,1.89,0.6834,1.46,0.4937,0.4958,0.1876,,0.2936,0.5427,0.0272,0.0076,True,True,True,,,
+401909894,SAC @ NOP,prop_pa,over,Precious Achiuwa,1630173.0,12.5,draftkings,-101.0,1.99,0.657,1.52,0.4696,0.4696,0.1873,,0.3074,0.5165,0.0278,0.007,True,False,True,,,
+401909894,SAC @ NOP,prop_pa,over,Precious Achiuwa,1630173.0,12.5,draftkings,-101.0,1.99,0.657,1.52,0.4696,0.4696,0.1873,,0.3074,0.5165,0.0278,0.007,True,False,True,,,
+401909895,MEM @ POR,prop_pts,under,Cameron Boozer,905041935.0,15.5,draftkings,-110.0,1.91,0.6822,1.47,0.4895,0.4895,0.1927,,0.3025,0.5377,0.0266,0.0073,True,True,True,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,10.5,draftkings,-112.0,1.89,0.6835,1.46,0.4937,0.4948,0.1887,,0.2937,0.5419,0.0258,0.0072,True,True,True,,,
-401909895,MEM @ POR,prop_pra,over,Jrue Holiday,201950.0,20.5,draftkings,-107.0,1.93,0.6667,1.5,0.4831,0.4831,0.1836,,0.2898,0.529,0.0234,0.0063,True,True,True,Robert Williams III,0.7075,0.644
-401909895,MEM @ POR,prop_pra,over,Jrue Holiday,201950.0,20.5,draftkings,-107.0,1.93,0.6667,1.5,0.4831,0.4831,0.1836,,0.2898,0.529,0.0234,0.0063,True,True,True,Robert Williams III,0.7075,0.644
+401909895,MEM @ POR,prop_pts,under,Ty Jerome,1629660.0,24.5,draftkings,-120.0,1.83,0.7068,1.41,0.5098,0.5098,0.197,,0.2958,0.559,0.0249,0.0075,True,True,True,,,
+401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,10.5,draftkings,1340.0,14.4,0.0896,11.16,0.0649,0.0649,0.0247,,0.2901,0.0711,0.0235,0.0004,False,True,False,,,
+401909895,MEM @ POR,prop_pa,under,Ty Jerome,1629660.0,30.5,draftkings,-120.0,1.83,0.7025,1.42,0.5098,0.5098,0.1927,,0.2878,0.5579,0.0229,0.0069,True,True,True,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,10.5,draftkings,-113.0,1.88,0.6835,1.46,0.4958,0.4948,0.1887,,0.2883,0.5419,0.0215,0.0061,True,True,True,,,
-401909895,MEM @ POR,prop_pa,under,Cameron Boozer,905041935.0,20.5,draftkings,-123.0,1.81,0.7051,1.42,0.5155,0.5155,0.1896,,0.2784,0.5629,0.0205,0.0063,True,True,True,,,
+401909895,MEM @ POR,prop_pa,under,Cameron Boozer,905041935.0,19.5,draftkings,-106.0,1.94,0.6575,1.52,0.4809,0.4809,0.1766,,0.2777,0.525,0.0204,0.0054,True,True,True,,,
 401909895,MEM @ POR,prop_fg3m,under,Cameron Boozer,905041935.0,1.5,draftkings,105.0,2.05,0.6212,1.61,0.4559,0.4559,0.1653,,0.2735,0.4972,0.0193,0.0046,True,True,True,,,
-401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,7.5,draftkings,161.0,2.61,0.4876,2.05,0.3581,0.3581,0.1295,,0.2727,0.3905,0.0191,0.003,False,False,False,Robert Williams III,0.0,0.514
+401909894,SAC @ NOP,prop_stocks,under,Precious Achiuwa,1630173.0,2.5,draftkings,-102.0,1.98,0.6424,1.56,0.4718,0.4718,0.1705,7.02,0.2721,0.5145,0.0189,0.0048,True,False,True,,,
 401909894,SAC @ NOP,prop_pa,over,Jeremiah Fears,1642847.0,24.5,draftkings,670.0,7.7,0.1652,6.05,0.1214,0.1214,0.0438,,0.2718,0.1323,0.0189,0.0007,False,False,False,Jordan Poole,0.182,0.1317
-401909895,MEM @ POR,prop_reb,over,Jrue Holiday,201950.0,3.5,draftkings,-114.0,1.88,0.6834,1.46,0.4979,0.4958,0.1876,,0.2828,0.5427,0.0187,0.0053,True,True,True,,,
-401909895,MEM @ POR,prop_reb,over,Deni Avdija,1630166.0,10.5,draftkings,544.0,6.44,0.1966,5.09,0.1451,0.1451,0.0515,,0.2663,0.158,0.0175,0.0008,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Deni Avdija,1630166.0,11.5,draftkings,860.0,9.6,0.1301,7.68,0.0974,0.0974,0.0328,,0.2494,0.1056,0.0133,0.0004,False,True,False,,,
+401909894,SAC @ NOP,prop_blk,under,Precious Achiuwa,1630173.0,1.5,draftkings,-140.0,1.71,0.7361,1.36,0.5452,0.5452,0.191,,0.262,0.5929,0.0164,0.0057,True,False,True,,,
+401909895,MEM @ POR,prop_reb,over,Robert Williams III,1629057.0,8.5,draftkings,220.0,3.2,0.3933,2.54,0.2921,0.2921,0.1012,,0.2585,0.3174,0.0156,0.0018,False,False,False,Robert Williams III,0.0,0.4193
+401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,9.5,draftkings,780.0,8.8,0.143,6.99,0.1062,0.1062,0.0368,,0.2582,0.1154,0.0155,0.0005,False,True,False,,,
+401909895,MEM @ POR,prop_fg3m,under,Damian Lillard,203081.0,2.5,draftkings,128.0,2.28,0.5516,1.81,0.4099,0.4099,0.1417,,0.2577,0.4453,0.0153,0.003,False,True,True,,,
+401909895,MEM @ POR,prop_pa,under,Damian Lillard,203081.0,25.5,draftkings,-117.0,1.85,0.6751,1.48,0.5039,0.5039,0.1712,,0.2522,0.5467,0.014,0.0041,True,True,True,Robert Williams III,0.6394,0.6884
 401909894,SAC @ NOP,prop_pra,over,Dejounte Murray,1627749.0,39.5,draftkings,559.0,6.59,0.189,5.29,0.1418,0.1418,0.0472,,0.2456,0.1536,0.0123,0.0006,False,True,False,,,
 401909894,SAC @ NOP,prop_pra,over,Jeremiah Fears,1642847.0,24.5,draftkings,306.0,4.06,0.3065,3.26,0.2302,0.2302,0.0763,,0.2443,0.2493,0.012,0.001,False,False,False,Jordan Poole,0.3364,0.2554
 401909893,CLE @ ATL,prop_ast,under,James Harden,201935.0,6.5,draftkings,114.0,2.14,0.5809,1.72,0.4367,0.4367,0.1442,,0.2431,0.4728,0.0117,0.0026,False,True,True,Jaylon Tyson,0.564,0.6069
 401909894,SAC @ NOP,prop_ast,over,Jeremiah Fears,1642847.0,5.5,draftkings,750.0,8.5,0.1461,6.84,0.11,0.11,0.0362,,0.2422,0.119,0.0115,0.0004,False,True,False,,,
+401909895,MEM @ POR,prop_pra,under,Damian Lillard,203081.0,29.5,draftkings,-108.0,1.93,0.6448,1.55,0.4853,0.4853,0.1595,,0.2418,0.5251,0.0114,0.0031,True,True,True,Robert Williams III,0.6137,0.6584
 401909894,SAC @ NOP,prop_reb,over,Darius Acuff Jr.,905142620.0,3.5,draftkings,132.0,2.32,0.5352,1.87,0.4028,0.4028,0.1323,,0.2416,0.4359,0.0113,0.0021,False,True,False,,,
 401909894,SAC @ NOP,prop_pr,over,Jeremiah Fears,1642847.0,24.5,draftkings,610.0,7.1,0.1743,5.74,0.1316,0.1316,0.0427,,0.2378,0.1423,0.0104,0.0004,False,False,False,Jordan Poole,0.1915,0.1371
-401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,7.5,draftkings,281.0,3.81,0.3246,3.08,0.2453,0.2453,0.0793,,0.2368,0.2651,0.0101,0.0009,False,True,False,,,
-401909895,MEM @ POR,prop_pr,under,Damian Lillard,203081.0,24.5,draftkings,-114.0,1.88,0.6586,1.52,0.4979,0.4979,0.1607,,0.2363,0.538,0.01,0.0029,True,True,True,Robert Williams III,0.6243,0.6764
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,3.5,draftkings,-150.0,1.67,0.7369,1.36,0.5607,0.5622,0.1746,,0.2281,0.6059,0.0098,0.0037,True,True,True,,,
+401909895,MEM @ POR,prop_ast,over,Damian Lillard,203081.0,4.5,draftkings,129.0,2.29,0.5376,1.86,0.4081,0.4081,0.1295,,0.2312,0.4405,0.0087,0.0017,False,True,False,,,
 401909893,CLE @ ATL,prop_pr,under,Jalen Johnson,1630552.0,31.5,draftkings,-106.0,1.94,0.6335,1.58,0.4809,0.4809,0.1526,,0.231,0.519,0.0087,0.0023,True,True,True,,,
+401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,8.5,draftkings,456.0,5.56,0.2213,4.52,0.1681,0.1681,0.0532,,0.2306,0.1814,0.0086,0.0005,False,True,False,,,
 401909894,SAC @ NOP,prop_pr,over,Precious Achiuwa,1630173.0,19.5,draftkings,102.0,2.02,0.6076,1.65,0.4627,0.4627,0.1449,,0.2274,0.4989,0.0078,0.0019,False,False,False,,,
-401909895,MEM @ POR,prop_pa,under,Damian Lillard,203081.0,24.5,draftkings,-107.0,1.93,0.6344,1.58,0.4831,0.4831,0.1514,,0.2274,0.5209,0.0078,0.0021,True,True,True,Robert Williams III,0.6009,0.6487
 401909894,SAC @ NOP,prop_reb,over,Jeremiah Fears,1642847.0,5.5,draftkings,585.0,6.85,0.1792,5.58,0.1364,0.1364,0.0427,,0.2273,0.1471,0.0077,0.0003,False,True,False,,,
-401909895,MEM @ POR,prop_reb,over,Damian Lillard,203081.0,6.5,draftkings,583.0,6.83,0.1794,5.57,0.1368,0.1368,0.0426,,0.2253,0.1475,0.0073,0.0003,False,True,False,,,
-401909895,MEM @ POR,prop_fg3m,under,Damian Lillard,203081.0,2.5,draftkings,122.0,2.22,0.5516,1.81,0.421,0.421,0.1306,,0.2246,0.4536,0.0071,0.0014,False,True,True,,,
+401909894,SAC @ NOP,prop_pra,over,Precious Achiuwa,1630173.0,20.5,draftkings,-109.0,1.92,0.6394,1.56,0.4874,0.4874,0.152,,0.226,0.5254,0.0074,0.002,True,True,True,,,
+401909894,SAC @ NOP,prop_pra,over,Precious Achiuwa,1630173.0,20.5,draftkings,-109.0,1.92,0.6394,1.56,0.4874,0.4874,0.152,,0.226,0.5254,0.0074,0.002,True,True,True,,,
+401909894,SAC @ NOP,prop_ast,under,De'Andre Hunter,1629631.0,1.5,draftkings,123.0,2.23,0.5487,1.82,0.4191,0.4191,0.1296,,0.2235,0.4515,0.0068,0.0014,False,False,True,,,
 401909894,SAC @ NOP,prop_pts,over,Precious Achiuwa,1630173.0,9.5,draftkings,-159.0,1.63,0.7505,1.33,0.5737,0.5737,0.1768,,0.2225,0.6179,0.0066,0.0026,True,True,False,,,
 401909893,CLE @ ATL,prop_pts,over,Donovan Mitchell,1628378.0,39.5,draftkings,1100.0,12.0,0.1019,9.82,0.0779,0.0779,0.024,,0.2226,0.0839,0.0066,0.0001,False,True,False,,,
 401909895,MEM @ POR,prop_pr,under,Jaylen Wells,1642377.0,14.5,draftkings,-116.0,1.86,0.6556,1.53,0.5019,0.5019,0.1537,,0.2208,0.5403,0.0061,0.0018,True,True,True,,,
-401909895,MEM @ POR,prop_pa,over,Ja Morant,1629630.0,39.5,draftkings,1340.0,14.4,0.0847,11.8,0.0649,0.0649,0.0198,,0.2199,0.0699,0.0059,0.0001,False,False,False,,,
 401909894,SAC @ NOP,prop_pa,over,Zion Williamson,1629627.0,39.5,draftkings,1840.0,19.4,0.0629,15.91,0.0482,0.0482,0.0147,,0.2196,0.0518,0.0058,0.0001,False,False,False,,,
-401909895,MEM @ POR,prop_reb,over,Deni Avdija,1630166.0,9.5,draftkings,336.0,4.36,0.2795,3.58,0.2144,0.2144,0.0651,,0.2186,0.2306,0.0056,0.0004,False,True,False,,,
 401909894,SAC @ NOP,prop_pr,over,Precious Achiuwa,1630173.0,18.5,draftkings,-120.0,1.83,0.6587,1.52,0.5098,0.5117,0.147,,0.2076,0.5484,0.0055,0.0016,False,True,True,,,
 401909894,SAC @ NOP,prop_ast,over,Dejounte Murray,1627749.0,8.5,draftkings,346.0,4.46,0.2731,3.66,0.2095,0.2095,0.0635,,0.218,0.2254,0.0054,0.0004,False,True,False,,,
 401909893,CLE @ ATL,prop_pra,under,Jalen Johnson,1630552.0,39.5,draftkings,-114.0,1.88,0.6486,1.54,0.4979,0.4979,0.1508,,0.2176,0.5356,0.0053,0.0015,True,True,True,,,
-401909895,MEM @ POR,prop_ast,over,Jrue Holiday,201950.0,3.5,draftkings,-152.0,1.66,0.7369,1.36,0.5637,0.5622,0.1746,,0.2217,0.6059,0.0045,0.0017,True,True,True,,,
-401909895,MEM @ POR,prop_pr,over,Jrue Holiday,201950.0,16.5,draftkings,-103.0,1.97,0.6142,1.63,0.4742,0.4742,0.14,,0.2105,0.5092,0.0036,0.0009,False,True,True,Robert Williams III,0.6645,0.5924
-401909895,MEM @ POR,prop_pr,over,Jrue Holiday,201950.0,16.5,draftkings,-103.0,1.97,0.6142,1.63,0.4742,0.4742,0.14,,0.2105,0.5092,0.0036,0.0009,False,True,True,Robert Williams III,0.6645,0.5924
+401909895,MEM @ POR,prop_ra,over,Jrue Holiday,201950.0,8.5,draftkings,-114.0,1.88,0.6448,1.55,0.499,0.499,0.1459,6.76,0.2105,0.5354,0.0051,0.0015,False,True,True,,,
 401909894,SAC @ NOP,prop_pra,over,Jeremiah Fears,1642847.0,34.5,draftkings,1840.0,19.4,0.0624,16.02,0.0482,0.0482,0.0142,,0.2106,0.0517,0.0036,0.0,False,False,False,,,
-401909895,MEM @ POR,prop_pra,under,Cameron Boozer,905041935.0,28.5,draftkings,-116.0,1.86,0.6494,1.54,0.5019,0.5019,0.1475,,0.2093,0.5388,0.0033,0.0009,False,True,True,,,
+401909895,MEM @ POR,prop_fg3m,under,Jerami Grant,203924.0,1.5,draftkings,-147.0,1.68,0.7195,1.39,0.5562,0.5562,0.1633,,0.209,0.597,0.0032,0.0012,True,True,True,,,
+401909895,MEM @ POR,prop_ra,under,Cedric Coward,1642907.0,9.5,draftkings,-116.0,1.86,0.6487,1.54,0.502,0.502,0.1467,6.97,0.2079,0.5387,0.0031,0.0009,False,False,True,,,
 401909895,MEM @ POR,prop_pts,under,Jaylen Wells,1642377.0,11.5,draftkings,-125.0,1.8,0.671,1.49,0.5192,0.5192,0.1518,,0.2078,0.5572,0.0029,0.0009,True,True,True,,,
 401909895,MEM @ POR,prop_pr,under,Cameron Boozer,905041935.0,24.5,draftkings,-122.0,1.82,0.6635,1.51,0.5136,0.5136,0.1499,,0.2074,0.5511,0.0028,0.0008,False,True,True,,,
-401909895,MEM @ POR,prop_ast,over,Ja Morant,1629630.0,6.5,draftkings,117.0,2.17,0.5535,1.81,0.4307,0.4317,0.1218,,0.2011,0.4621,0.0028,0.0006,False,True,True,,,
 401909894,SAC @ NOP,prop_reb,over,Jeremiah Fears,1642847.0,4.5,draftkings,287.0,3.87,0.3119,3.21,0.2415,0.2415,0.0704,,0.2069,0.2591,0.0027,0.0002,False,True,False,,,
-401909895,MEM @ POR,prop_pa,over,Jrue Holiday,201950.0,16.5,draftkings,-112.0,1.89,0.6373,1.57,0.4937,0.4937,0.1436,,0.2064,0.5296,0.0025,0.0007,False,True,True,Robert Williams III,0.6802,0.616
-401909895,MEM @ POR,prop_pa,over,Jrue Holiday,201950.0,16.5,draftkings,-112.0,1.89,0.6373,1.57,0.4937,0.4937,0.1436,,0.2064,0.5296,0.0025,0.0007,False,True,True,Robert Williams III,0.6802,0.616
 401909894,SAC @ NOP,prop_ast,over,Precious Achiuwa,1630173.0,2.5,draftkings,379.0,4.79,0.2518,3.97,0.1951,0.1951,0.0566,,0.2059,0.2093,0.0024,0.0002,False,False,False,,,
 401909894,SAC @ NOP,prop_pa,under,Darius Acuff Jr.,905142620.0,28.5,draftkings,-123.0,1.81,0.6647,1.5,0.5155,0.5155,0.1492,,0.205,0.5528,0.0022,0.0007,False,True,True,,,
-401909894,SAC @ NOP,prop_pts,over,Dejounte Murray,1627749.0,29.5,draftkings,1200.0,13.0,0.0925,10.81,0.0719,0.0719,0.0206,,0.2023,0.077,0.0015,0.0,False,True,False,,,
 401909895,MEM @ POR,prop_fg3m,under,Ty Jerome,1629660.0,2.5,draftkings,-121.0,1.83,0.6582,1.52,0.5117,0.5117,0.1465,,0.2021,0.5483,0.0015,0.0004,False,True,True,,,
+401909894,SAC @ NOP,prop_pts,over,Dejounte Murray,1627749.0,29.5,draftkings,1200.0,13.0,0.0925,10.81,0.0719,0.0719,0.0206,,0.2023,0.077,0.0015,0.0,False,True,False,,,
 401909893,CLE @ ATL,prop_pts,over,Donovan Mitchell,1628378.0,44.5,draftkings,2200.0,23.0,0.0522,19.14,0.0406,0.0406,0.0116,,0.2017,0.0435,0.0014,0.0,False,True,False,,,
 401909894,SAC @ NOP,prop_pa,over,Jeremiah Fears,1642847.0,29.5,draftkings,1720.0,18.2,0.066,15.14,0.0514,0.0514,0.0147,,0.202,0.055,0.0014,0.0,False,False,False,,,
-401909895,MEM @ POR,prop_ra,under,Cedric Coward,1642907.0,9.5,draftkings,-120.0,1.83,0.6487,1.54,0.5112,0.5112,0.1375,6.7,0.1893,0.5456,0.0002,0.0001,False,False,True,,,
+401909895,MEM @ POR,prop_ast,over,Deni Avdija,1630166.0,11.5,draftkings,2100.0,22.0,0.0545,18.34,0.0425,0.0425,0.012,,0.1995,0.0455,0.0008,0.0,False,True,False,,,
+401909895,MEM @ POR,prop_ra,under,Donovan Clingan,1642270.0,14.5,draftkings,-115.0,1.87,0.6373,1.57,0.501,0.501,0.1363,6.76,0.1915,0.5351,0.0004,0.0001,False,True,True,Robert Williams III,0.6115,0.6923
+401909894,SAC @ NOP,prop_pra,over,Precious Achiuwa,1630173.0,19.5,draftkings,-135.0,1.74,0.6874,1.45,0.5369,0.5369,0.1505,,0.1965,0.5745,0.0001,0.0,True,True,False,,,
