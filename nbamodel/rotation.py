@@ -18,6 +18,9 @@ PATH = Path(__file__).resolve().parents[1] / "models" / "rotation_iso.pkl"
 HALF_LIFE = 5
 
 
+SEASON_HL, SEASON_W = 3, 2.0  # this season's games take over from the career signal as they accrue
+
+
 def _signal(played: pd.Series, n_prior: pd.Series) -> np.ndarray:
     # blend with a weak prior so a player with 1-2 games isn't treated as certain
     k, prior = 2.0, 0.6
@@ -25,23 +28,39 @@ def _signal(played: pd.Series, n_prior: pd.Series) -> np.ndarray:
     return ((played.fillna(prior) * n + k * prior) / (n + k)).values
 
 
+def _signals(d: pd.DataFrame) -> np.ndarray:
+    """Pre-game signal per row of d (sorted by player, date; `played` NaN on rows still to come).
+    Career EWM of "got minutes", then this season's EWM (shorter memory) weighted in as the season's
+    games accrue: four straight coach's-decision DNPs to open a season now count for a lot more than
+    last season's minutes (tested on 2025-26: logloss .2526 -> .2503, first 15 games .2929 -> .2850)."""
+    ewm = d.groupby("player_id")["played"].transform(lambda s: s.shift().ewm(halflife=HALF_LIFE).mean())
+    base = _signal(ewm, d.groupby("player_id").cumcount())
+    g = d.groupby(["player_id", "season"])["played"]
+    es = g.transform(lambda s: s.shift().ewm(halflife=SEASON_HL).mean()).fillna(0).values
+    ns = g.cumcount().values
+    return np.where(ns > 0, (es * ns + base * SEASON_W) / (ns + SEASON_W), base)
+
+
 def history_signal(pg: pd.DataFrame) -> pd.DataFrame:
     """Per (game_id, player_id): the pre-game signal (for fitting) and played flag."""
     d = pg.sort_values(["player_id", "game_date"])[["game_id", "player_id", "season", "min"]].copy()
     d["played"] = (d["min"].fillna(0) > 0).astype(float)
-    d["ewm"] = d.groupby("player_id")["played"].transform(lambda s: s.shift().ewm(halflife=HALF_LIFE).mean())
-    d["n_prior"] = d.groupby("player_id").cumcount()
-    d["signal"] = _signal(d["ewm"], d["n_prior"])
+    d["signal"] = _signals(d)
     return d
 
 
-def current_signal(pg: pd.DataFrame, player_ids) -> pd.Series:
-    """Signal for the next game, from each player's full history."""
+def current_signal(pg: pd.DataFrame, player_ids, season: str | None = None) -> pd.Series:
+    """Signal for each player's next game (in `season`, default the latest in pg), from his full history."""
     d = pg[pg["player_id"].isin(player_ids)].sort_values(["player_id", "game_date"])
-    played = (d["min"].fillna(0) > 0).astype(float)
-    ewm = played.groupby(d["player_id"]).apply(lambda s: s.ewm(halflife=HALF_LIFE).mean().iloc[-1])
-    n = d.groupby("player_id").size()
-    sig = pd.Series(_signal(ewm, n.reindex(ewm.index)), index=ewm.index)
+    d = d[["player_id", "season", "game_date", "min"]].copy()
+    d["played"] = (d["min"].fillna(0) > 0).astype(float)
+    season = season or (pg["season"].max() if len(pg) else None)
+    nxt = pd.DataFrame({"player_id": d["player_id"].unique(), "season": season, "played": np.nan})
+    d = pd.concat([d, nxt], ignore_index=True)  # the game to predict goes last for each player
+    d["_o"] = np.arange(len(d))
+    d = d.sort_values(["player_id", "_o"])
+    d["signal"] = _signals(d)
+    sig = d.groupby("player_id")["signal"].last()
     return sig.reindex(player_ids).fillna(0.6)  # no history: rookies, new signings
 
 

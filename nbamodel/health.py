@@ -112,6 +112,14 @@ def grade_day(d: str, pg: pd.DataFrame) -> dict | None:
         row[f"{s}_base"] = (m[f"b_{s}"] - m[s]).abs().mean()
         row[f"{s}_bias"] = (m[f"proj_{s}"] - m[s]).mean()
     row.update(_grade_sgms(d, r, tips))
+    f = ROOT / "output" / d / "sanity.csv"  # the day's last sanity checks (nbamodel/sanity.py)
+    if f.exists():
+        try:
+            fl = pd.read_csv(f)
+        except pd.errors.EmptyDataError:
+            fl = pd.DataFrame(columns=["check"])
+        row["flags"] = len(fl)
+        row["flag_kinds"] = ", ".join(f"{k} {v}" for k, v in fl["check"].value_counts().items()) or "none"
     return row
 
 
@@ -259,7 +267,11 @@ def build(today: date | None = None) -> str:
                             "minutes miss (model / last-10)": [f"{a:.2f} / {b:.2f}" for a, b in zip(d["min_mae"], d["min_base"])],
                             "points miss (model / last-10)": [f"{a:.2f} / {b:.2f}" for a, b in zip(d["pts_mae"], d["pts_base"])],
                             "points lean": d["pts_bias"].round(2)})
-        md += ["## Day by day (last 30)", tab.to_markdown(index=False)]
+        if "flags" in d:
+            tab["sanity flags"] = [("" if pd.isna(n) else f"{int(n)} ({k})") for n, k in zip(d["flags"], d.get("flag_kinds", ""))]
+        md += ["## Day by day (last 30)",
+               "Sanity flags are the automatic checks on the day's last projections (see TODAY.md): a rising "
+               "count means something in the inputs is going wrong.", tab.to_markdown(index=False)]
     text = "\n\n".join(md) + "\n"
     PAGE.write_text(text)
     return text

@@ -239,6 +239,17 @@ def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None,
     return "\n".join(out)
 
 
+def sanity_md(d: Path) -> str:
+    from .sanity import section
+    f = d / "sanity.csv"
+    if not f.exists():
+        return "_Checks not run yet for this slate._"
+    try:
+        return section(pd.read_csv(f))
+    except pd.errors.EmptyDataError:
+        return section(None)
+
+
 def build(day: date) -> Path | None:
     d = OUT / day.isoformat()
     if not d.exists():
@@ -256,8 +267,9 @@ def build(day: date) -> Path | None:
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
              "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. "
              "Is the model getting better or worse? See [HEALTH.md](HEALTH.md).",
+             "## Sanity checks", sanity_md(d),
              f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})",
-             "DraftKings prices refresh every 10 minutes (5 near tip). Australian books are priced about 40 "
+             "DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 "
              "minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, "
              "so check Sportsbet's line and price, and use the Fair column as your minimum odds.", bets,
              "## Best same-game multis by price (1.50 to 2.50)", sgm_md(sg)]

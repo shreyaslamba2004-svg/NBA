@@ -52,17 +52,19 @@ def _scale_minutes(pmin: np.ndarray, target: float, cap=46.0, per=1.0) -> np.nda
 
 
 def expected_minutes(players: pd.DataFrame, b: Bundle) -> np.ndarray:
-    """Normalise model minutes so a team's expected minutes sum to 240 + expected OT."""
-    target = 240 + 25 * 0.06
+    """Minutes if he plays: the model's own minutes, capped by any reported restriction.
+
+    No longer forced to sum to 240 per team. Live the rotation isn't known, so the sum depends on
+    how many fringe players are counted and how likely each is to play: forcing 240 pushed stars to
+    40+ when a team was short (DAL/OKC) and squeezed starters when the deep bench was overrated (MEM).
+    The minutes model already sees who is out. In a live-like backtest (whole active roster, chance
+    to play from rotation.py, 2025-26) minutes MAE was 4.37 without the fill vs 4.52 with today's
+    headroom fill and 4.60 with the old proportional one (scratch study, output/minutes_fill_check.md).
+    """
     w = players["play_prob"].values
     raw = players["pmin_raw"].values
-    # scale only over expected participants; questionable players count at their play_prob
     caps = players["min_cap"].fillna(46.0).values if "min_cap" in players else 46.0
-    with np.errstate(divide="ignore"):
-        per = np.where(w > 0, 1 / np.maximum(w, 1e-9), 1.0)
-    scaled = _scale_minutes(raw * w, target, np.minimum(caps, 46.0) * np.maximum(w, 1e-9), per)
-    with np.errstate(invalid="ignore", divide="ignore"):
-        return np.where(w > 0, scaled / w, 0.0)
+    return np.where(w > 0, np.minimum(raw, np.minimum(caps, 46.0)), 0.0)
 
 
 def simulate_game(game: dict, players: pd.DataFrame, b: Bundle, n: int = N_SIMS, seed: int = 0) -> dict:
@@ -104,9 +106,7 @@ def simulate_game(game: dict, players: pd.DataFrame, b: Bundle, n: int = N_SIMS,
             curve = np.array([b.blowout.get(int(r), [1.0] * (len(BLOWOUT_EDGES) - 1)) for r in role])
             mins *= curve[:, mb].T * (ot == 0)[:, None] + (ot > 0)[:, None]
         target = 240 + 25 * ot
-        fw = _fill_weights(mins)  # regulation: spare minutes go mostly to players with room left
-        mins += ((240 - mins.sum(1)) / np.maximum(fw.sum(1), 1e-9))[:, None] * fw
-        mins = np.clip(mins, 0, None) * (target / 240)[:, None]  # overtime: whoever is playing most
+        mins = mins * (target / 240)[:, None]  # overtime: extra minutes to whoever is playing
         mins = np.clip(mins, 0, 53)
         f_team = (sim_team / mu_team)[:, None]
         f_pace = (total / game["mu_total"])[:, None]

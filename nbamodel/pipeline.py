@@ -177,13 +177,18 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
     tP["avail_prob"] = tP["play_prob"].fillna(0.0)
     tP["starter_today"] = tP["starting"]  # confirmed starters from late news, when known
     # healthy isn't the same as playing: the chance the coach uses him (see rotation.py)
-    tP["rotation_prob"] = rotation.prob(rotation.current_signal(pg, tP["player_id"].tolist()).values)
+    tP["rotation_prob"] = rotation.prob(rotation.current_signal(pg, tP["player_id"].tolist(),
+                                                                season_label(day)).values)
     # no NBA games yet (rookies, injured before debut): prior from draft slot
     tP["rookie_min"] = np.nan
+    seen = set(pg["player_id"])
     for i in tP.index[tP["gp"].fillna(0) == 0]:
         pid = int(tP.at[i, "player_id"])
         pick = espn.draft_pick(pid - espn.SYNTH) if pid >= espn.SYNTH else None
-        tP.at[i, "rookie_min"], tP.at[i, "rotation_prob"] = rookie_prior(pick)
+        mins, rot = rookie_prior(pick)
+        if pid in seen:  # already on a box score as a coach's-decision DNP: that counts too
+            rot = min(rot, tP.at[i, "rotation_prob"])
+        tP.at[i, "rookie_min"], tP.at[i, "rotation_prob"] = mins, rot
     tP.loc[tP["starting"] == 1, "rotation_prob"] = 1.0
 
     games_out, players_out, edges, sgms, sim_inputs = [], [], [], [], []
@@ -303,6 +308,7 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
             "sim_inputs": pd.concat(sim_inputs, ignore_index=True)[keep] if sim_inputs else pd.DataFrame()}
 
 
+RECONCILE = 0.5  # live-like backtest, points MAE: full 4.470, half 4.447, none 4.454
 RATE_PRIOR = {"pts": .42, "reb": .18, "ast": .09, "fg3m": .04, "stl": .03, "blk": .02, "tov": .05,
               "fga": .36, "fta": .10}
 
@@ -326,8 +332,8 @@ def _prepare(Pg: pd.DataFrame, Gg: pd.DataFrame, b: Bundle) -> tuple[pd.DataFram
         mu = (mu_t + mu_m) / 2 if team == home else (mu_t - mu_m) / 2
         t = gp["team"] == team
         bu = (gp.loc[t, "rate_pts"] * gp.loc[t, "pmin"] * gp.loc[t, "play_prob"]).sum()
-        if bu > 0:  # reconcile player points with the team model
-            f = mu / bu
+        if bu > 0:  # reconcile player points with the team model, half way: the player side
+            f = (mu / bu) ** RECONCILE  # is already near the team total, a full pull overcorrects
             gp.loc[t, "rate_pts"] *= f
             gp.loc[t, "rate_fga"] *= f ** 0.5
     return gp, mu_m, mu_t
@@ -487,6 +493,11 @@ def finish(day: date, res: dict, sp: pd.DataFrame, slate: pd.DataFrame) -> Path:
         res["games"].insert(2, "tip_sydney", res["games"]["game_id"].map(
             lambda g: pd.Timestamp(tips[g]).tz_convert("Australia/Sydney").strftime("%a %d %b %H:%M")))
     res["availability"] = sp
+    try:  # automatic checks on every run; flags go to TODAY.md and HEALTH.md
+        from . import sanity
+        res["sanity"] = sanity.check(res, load_history()[0])
+    except Exception as e:  # a check must never stop the sheet
+        print("sanity checks failed:", e)
     path = write_outputs(day, res)
     (path / "state.json").write_text(json.dumps({"availability_hash": availability_hash(sp),
                                                  "generated": pd.Timestamp.now(tz="UTC").isoformat()}))
