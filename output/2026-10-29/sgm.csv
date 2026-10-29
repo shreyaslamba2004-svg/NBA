@@ -1,0 +1,2 @@
+matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+MEM @ POR,POR win + game over 232.5,2,0.3432,0.3789,2.64,2.77,2.46,-0.0671,1.009,2.10-2.50
