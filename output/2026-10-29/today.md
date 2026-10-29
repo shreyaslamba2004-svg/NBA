@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 04:06 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 04:21 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -18,25 +18,25 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.6% | 1.65 | 1.73 | 1.54 | -6.9% |
+| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 3+ reb | CLE @ ATL | 59.7% | 1.67 | 1.76 | 1.64 | -1.8% |
+| NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.4% | 1.66 | 1.74 | 1.54 | -6.8% |
 | Deni Avdija 5+ reb **+** Donovan Clingan 6+ pts | MEM @ POR | 60.6% | 1.65 | 1.73 | 1.53 | -7.5% |
-| Deni Avdija 5+ reb **+** Damian Lillard 3+ ast | MEM @ POR | 61.2% | 1.63 | 1.71 | 1.51 | -7.6% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jerami Grant 3pm under 1.5 **+** Ja Morant 4+ ast | MEM @ POR | 51.3% | 1.95 | 2.05 | 1.85 | -5.2% |
-| NOP win **+** Jeremiah Fears 8+ pts | SAC @ NOP | 53.2% | 1.88 | 1.98 | 1.78 | -5.2% |
-| NOP win **+** Precious Achiuwa 6+ pts | SAC @ NOP | 56.1% | 1.78 | 1.87 | 1.67 | -6.1% |
+| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 55.8% | 1.79 | 1.88 | 1.78 | -0.7% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 12+ pts | CLE @ ATL | 59.3% | 1.69 | 1.77 | 1.66 | -1.5% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 58.8% | 1.70 | 1.79 | 1.67 | -1.6% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Damian Lillard pts under 20.5 **+** Deni Avdija 3+ ast | MEM @ POR | 48.6% | 2.06 | 2.16 | 2.04 | -0.8% |
-| Cedric Coward pr under 19.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 46.6% | 2.15 | 2.25 | 2.10 | -2.3% |
-| Ty Jerome pra under 34.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.2% | 2.12 | 2.22 | 2.06 | -2.4% |
+| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | CLE @ ATL | 50.3% | 1.99 | 2.09 | 1.96 | -1.5% |
+| Sam Merrill 3pm under 2.5 **+** Nickeil Alexander-Walker 2+ 3pm | CLE @ ATL | 51.2% | 1.95 | 2.05 | 1.92 | -1.9% |
 
 **Price 2.10-2.50**
 
@@ -55,7 +55,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.86 | 2.38 | 42.0% | 24.2% | 28.7% | +10.7% | +62.2% | 0.9% |
-| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.69 | 2.41 | 41.5% | 25.3% | 29.4% | +8.4% | +53.2% | 0.8% |
+| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.66 | 2.41 | 41.5% | 25.5% | 29.5% | +8.1% | +51.9% | 0.8% |
 | Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.94 | 2.07 | 48.3% | 31.8% | 35.9% | +5.6% | +42.1% | 0.7% |
 
 ## Projections
@@ -67,7 +67,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CLE @ ATL | Fri 30 Oct 11:00 | 116.2–117.0 | CLE 47% | 2.11 / 1.90 | ATL -1.5 | 233.5 | ATL -1.5 covers 49%; o237.5 40% |
-| SAC @ NOP | Fri 30 Oct 11:00 | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -5.5 covers 55%; o236.5 54% |
+| SAC @ NOP | Fri 30 Oct 11:00 | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -5.5 covers 55%; o235.5 56% |
 | MEM @ POR | Fri 30 Oct 13:00 | 110.2–119.5 | MEM 25% | 3.93 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o232.5 44% |
 
 ### CLE @ ATL
@@ -77,17 +77,17 @@ Out: Mouhamed Gueye (ATL)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson PTS under 22.5 | CLE @ ATL | draftkings | 1.85 | 1.54 | 65.1% | 50.6% | 54.2% | +0.2% | +20.3% | 0.1% |
-| Jalen Johnson PA under 30.5 | CLE @ ATL | draftkings | 1.80 | 1.50 | 66.5% | 51.9% | 55.6% | +0.0% | +19.8% | 0.0% |
+| Jalen Johnson PA under 29.5 | CLE @ ATL | draftkings | 1.93 | 1.59 | 62.7% | 48.5% | 52.1% | +0.3% | +20.9% | 0.1% |
+| Evan Mobley AST under 3.5 | CLE @ ATL | draftkings | 2.10 | 1.74 | 57.5% | 44.5% | 47.8% | +0.3% | +20.8% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Onyeka Okongwu 8+ pts **+** Donovan Mitchell 25+ pra | 60.5% | 1.65 | 1.73 | 1.50 | -9.1% |
-| Nickeil Alexander-Walker reb under 3.5 **+** Donovan Mitchell 20+ pra | 51.3% | 1.95 | 2.05 | 1.82 | -6.8% |
-| Jalen Johnson pra under 40.5 **+** Onyeka Okongwu 6+ pts | 47.0% | 2.13 | 2.24 | 2.06 | -3.3% |
-| ATL win **+** Onyeka Okongwu 8+ pts | 39.4% | 2.54 | 2.66 | 2.45 | -3.7% |
+| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 3+ reb | 59.7% | 1.67 | 1.76 | 1.64 | -1.8% |
+| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | 55.8% | 1.79 | 1.88 | 1.78 | -0.7% |
+| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | 50.3% | 1.99 | 2.09 | 1.96 | -1.5% |
+| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 44.6% | 2.24 | 2.36 | 2.16 | -3.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -186,22 +186,22 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Darius Acuff Jr. PA under 27.5 | SAC @ NOP | draftkings | 1.94 | 1.59 | 62.8% | 48.1% | 51.8% | +0.6% | +22.1% | 0.2% |
 | Precious Achiuwa PR over 18.5 | SAC @ NOP | draftkings | 1.83 | 1.52 | 65.9% | 51.0% | 54.7% | +0.3% | +20.8% | 0.1% |
+| Darius Acuff Jr. PA under 28.5 | SAC @ NOP | draftkings | 1.81 | 1.50 | 66.5% | 51.5% | 55.3% | +0.2% | +20.5% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| NOP win **+** Domantas Sabonis 20+ pra | 60.6% | 1.65 | 1.73 | 1.54 | -6.9% |
+| NOP win **+** Domantas Sabonis 20+ pra | 60.4% | 1.66 | 1.74 | 1.54 | -6.8% |
 | NOP win **+** Jeremiah Fears 8+ pts | 53.2% | 1.88 | 1.98 | 1.78 | -5.2% |
-| Precious Achiuwa 19+ pr **+** Domantas Sabonis 25+ pra | 47.6% | 2.10 | 2.21 | 2.03 | -3.6% |
-| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 40.9% | 2.44 | 2.56 | 2.43 | -0.5% |
+| Precious Achiuwa 19+ pr **+** Domantas Sabonis 25+ pra | 47.4% | 2.11 | 2.22 | 2.04 | -3.5% |
+| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 41.3% | 2.42 | 2.54 | 2.39 | -1.3% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -5.5 covers 55%; o236.5 54% |
-| Expected (weighted by chance each plays) | 115.6–123.2 | SAC 29% | 3.39 / 1.42 | NOP -7.5 | 238.5 | NOP -5.5 covers 56%; o236.5 55% |
+| Confirmed players only | 115.6–122.8 | SAC 30% | 3.30 / 1.43 | NOP -7.5 | 238.5 | NOP -5.5 covers 55%; o235.5 56% |
+| Expected (weighted by chance each plays) | 115.6–123.2 | SAC 29% | 3.39 / 1.42 | NOP -7.5 | 238.5 | NOP -5.5 covers 56%; o235.5 57% |
 
 **Questionable players: chance to play, and their projection if they do**
 
