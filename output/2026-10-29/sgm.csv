@@ -26,12 +26,12 @@ SAC @ NOP,NOP win + Domantas Sabonis 8+ reb,2,0.6636,0.5853,1.71,1.79,1.59,-0.06
 MEM @ POR,Jrue Holiday 8+ ra + Damian Lillard 3+ ast,2,0.6273,0.435,2.3,2.41,2.33,0.0146,1.005,2.10-2.50
 MEM @ POR,Ty Jerome pr under 27.5 + Jrue Holiday 3+ ast,2,0.5963,0.412,2.43,2.55,2.45,0.0106,1.003,2.10-2.50
 MEM @ POR,Ty Jerome pra under 33.5 + Jrue Holiday 3+ ast,2,0.5935,0.4098,2.44,2.56,2.46,0.0097,1.002,2.10-2.50
-MEM @ POR,Jrue Holiday 4+ ast + Toumani Camara 6+ pts,2,0.6631,0.498,2.01,2.11,1.97,-0.0208,1.001,1.85-2.10
 MEM @ POR,Jrue Holiday 4+ ast + Deni Avdija 5+ reb,2,0.6308,0.4756,2.1,2.21,2.06,-0.0222,1.001,1.85-2.10
 MEM @ POR,Jrue Holiday 4+ ast + Deni Avdija 4+ ast,2,0.623,0.4702,2.13,2.23,2.07,-0.0263,0.997,1.85-2.10
+MEM @ POR,Jrue Holiday 4+ ast + Ja Morant 4+ ast,2,0.6549,0.4978,2.01,2.11,1.95,-0.0268,0.999,1.85-2.10
 MEM @ POR,Damian Lillard 3+ ast + Deni Avdija 4+ ast,2,0.7162,0.6113,1.64,1.72,1.52,-0.0734,1.003,1.50-1.65
 MEM @ POR,Damian Lillard 3+ ast + Toumani Camara 3+ reb,2,0.6861,0.5819,1.72,1.8,1.59,-0.0741,1.0,1.50-1.65
 MEM @ POR,Damian Lillard 3+ ast + Deni Avdija 5+ reb,2,0.7198,0.6138,1.63,1.71,1.5,-0.0764,1.0,1.50-1.65
-MEM @ POR,Damian Lillard 3+ ast + Toumani Camara 6+ pts + Deni Avdija 4+ ast,3,0.6455,0.51,1.96,2.06,1.75,-0.1079,1.006,1.65-1.85
 MEM @ POR,Damian Lillard 3+ ast + Deni Avdija 4+ ast + Ja Morant 4+ ast,3,0.6406,0.5123,1.95,2.05,1.74,-0.1093,1.009,1.65-1.85
-MEM @ POR,Damian Lillard 3+ ast + Toumani Camara 6+ pts + Ja Morant 4+ ast,3,0.6773,0.539,1.86,1.95,1.65,-0.1101,1.006,1.65-1.85
+MEM @ POR,Damian Lillard 3+ ast + Deni Avdija 5+ reb + Ja Morant 4+ ast,3,0.6432,0.5139,1.95,2.04,1.73,-0.1129,1.004,1.65-1.85
+MEM @ POR,Damian Lillard 3+ ast + Toumani Camara 3+ reb + Jrue Holiday 1+ 3pm,3,0.6188,0.4905,2.04,2.14,1.81,-0.1141,1.0,1.65-1.85

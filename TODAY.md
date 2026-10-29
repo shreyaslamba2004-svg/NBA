@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 08:31 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 08:36 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -40,7 +40,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 |---|--:|--:|--:|--:|--:|--:|
 | Precious Achiuwa 20+ pra **+** Domantas Sabonis 25+ pra | SAC @ NOP | 47.6% | 2.10 | 2.21 | 2.07 | -1.7% |
 | Precious Achiuwa 20+ pra **+** Domantas Sabonis 8+ reb | SAC @ NOP | 48.4% | 2.06 | 2.17 | 2.02 | -2.0% |
-| Jrue Holiday 4+ ast **+** Toumani Camara 6+ pts | MEM @ POR | 49.8% | 2.01 | 2.11 | 1.97 | -2.1% |
+| Jrue Holiday 4+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 47.6% | 2.10 | 2.21 | 2.06 | -2.2% |
 
 **Price 2.10-2.50**
 
@@ -267,8 +267,8 @@ Out: Shaedon Sharpe (POR)
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Damian Lillard 3+ ast **+** Deni Avdija 4+ ast | 61.1% | 1.64 | 1.72 | 1.52 | -7.3% |
-| Damian Lillard 3+ ast **+** Toumani Camara 6+ pts **+** Deni Avdija 4+ ast | 51.0% | 1.96 | 2.06 | 1.75 | -10.8% |
-| Jrue Holiday 4+ ast **+** Toumani Camara 6+ pts | 49.8% | 2.01 | 2.11 | 1.97 | -2.1% |
+| Damian Lillard 3+ ast **+** Deni Avdija 4+ ast **+** Ja Morant 4+ ast | 51.2% | 1.95 | 2.05 | 1.74 | -10.9% |
+| Jrue Holiday 4+ ast **+** Deni Avdija 5+ reb | 47.6% | 2.10 | 2.21 | 2.06 | -2.2% |
 | Jrue Holiday 8+ ra **+** Damian Lillard 3+ ast | 43.5% | 2.30 | 2.41 | 2.33 | +1.5% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
