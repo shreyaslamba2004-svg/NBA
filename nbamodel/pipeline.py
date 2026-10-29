@@ -110,22 +110,47 @@ def availability(slate: pd.DataFrame, day: date, pg: pd.DataFrame) -> tuple[pd.D
 LINEUP_WINDOW_MIN = 75  # ESPN posts starters / inactives roughly 30 minutes before tip
 
 
+def _lineup(r, nba_ids: dict, cw) -> tuple[pd.DataFrame, str]:
+    """Posted starters / ruled-out players for one game: the NBA's own pre-game box first (lists
+    ACTIVE / INACTIVE and starters before tip), ESPN's box as the fallback. Empty if neither has it."""
+    gid = nba_ids.get((r.home, r.away))
+    if gid is not None:
+        b = live.pregame_actives(gid)
+        if b is not None and len(b) and b["starter"].sum() >= 10:
+            return pd.DataFrame({"player_id": b["player_id"], "team": b["team"], "starter": b["starter"] == 1,
+                                 "out": b["status"].astype(str).str.upper() == "INACTIVE"}), "nba"
+    lu = espn.pregame_lineup(r.game_id)
+    if lu.empty or lu["team"].nunique() != 2 or not (lu.groupby("team")["starter"].sum() == 5).all():
+        return pd.DataFrame(), ""
+    lu["player_id"] = [cw.lookup(e, n, t) for e, n, t in zip(lu["espn_id"], lu["player_name"], lu["team"])]
+    return lu, "espn"
+
+
 def _apply_lineups(sp: pd.DataFrame, slate: pd.DataFrame, cw) -> pd.DataFrame:
     """Once a game's starting lineups are posted: starters are certain to play (and start), and
-    players ruled out in the pre-game box are out. Coach's decisions aren't known before tip, so
-    the rest keep their chance-to-play estimates."""
+    players ruled out are out. Coach's decisions aren't known before tip, so the rest keep their
+    chance-to-play estimates. Each attempt is logged to output/lineups_log.csv."""
     if "tip_utc" not in slate:
         return sp
     now = pd.Timestamp.now(tz="UTC")
-    sp = sp.copy()
-    for r in slate.itertuples(index=False):
+    near = [r for r in slate.itertuples(index=False)
+            if -5 <= (pd.Timestamp(r.tip_utc) - now).total_seconds() / 60 <= LINEUP_WINDOW_MIN]
+    if not near:
+        return sp
+    try:
+        sch = live.schedule(pd.Timestamp(near[0].game_date).date())
+        nba_ids = {(h, a): int(g) for g, h, a in zip(sch["game_id"], sch["home"], sch["away"]) if int(g) < 10**8}
+    except Exception as e:  # NBA site unreachable: ESPN only
+        print("NBA schedule unavailable:", e)
+        nba_ids = {}
+    sp, log = sp.copy(), []
+    for r in near:
+        lu, src = _lineup(r, nba_ids, cw)
         mins = (pd.Timestamp(r.tip_utc) - now).total_seconds() / 60
-        if mins > LINEUP_WINDOW_MIN or mins < -5:
+        log.append({"checked_utc": now.strftime("%Y-%m-%dT%H:%MZ"), "game": f"{r.away}@{r.home}",
+                    "mins_to_tip": round(mins), "nba_id_found": (r.home, r.away) in nba_ids, "source": src or "none"})
+        if lu.empty:
             continue
-        lu = espn.pregame_lineup(r.game_id)
-        if lu.empty or not (lu.groupby("team")["starter"].sum() == 5).all() or lu["team"].nunique() != 2:
-            continue
-        lu["player_id"] = [cw.lookup(e, n, t) for e, n, t in zip(lu["espn_id"], lu["player_name"], lu["team"])]
         g = sp["game_id"] == r.game_id
         start = g & sp["player_id"].isin(lu.loc[lu["starter"], "player_id"])
         sp.loc[start, ["starting", "play_prob"]] = [1, 1.0]
@@ -133,7 +158,9 @@ def _apply_lineups(sp: pd.DataFrame, slate: pd.DataFrame, cw) -> pd.DataFrame:
         out = g & sp["player_id"].isin(lu.loc[lu["out"], "player_id"])
         sp.loc[out, ["play_prob", "starting"]] = [0.0, 0]
         sp.loc[out, "status"] = "Out"
-        print(f"lineups posted for {r.away}@{r.home}: {int(start.sum())} starters, {int(out.sum())} inactive")
+        print(f"lineups posted for {r.away}@{r.home} ({src}): {int(start.sum())} starters, {int(out.sum())} out")
+    f = OUT / "lineups_log.csv"
+    pd.DataFrame(log).to_csv(f, mode="a", header=not f.exists(), index=False)
     return sp
 
 
