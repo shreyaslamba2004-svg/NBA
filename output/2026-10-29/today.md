@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 12:07 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 12:21 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -12,7 +12,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.54 | 2.44 | 40.9% | 26.4% | 30.0% | +6.3% | +44.9% | 0.6% |
+| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.49 | 2.44 | 40.9% | 26.8% | 30.3% | +5.8% | +42.8% | 0.6% |
 
 ## Best same-game multis by price (1.50 to 2.50)
 
@@ -20,23 +20,23 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| NOP win **+** Domantas Sabonis 8+ reb | SAC @ NOP | 57.9% | 1.73 | 1.81 | 1.60 | -7.3% |
 | NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.2% | 1.66 | 1.74 | 1.54 | -7.3% |
-| Deni Avdija 4+ ast **+** Toumani Camara 6+ pts **+** Jrue Holiday 1+ 3pm | MEM @ POR | 54.3% | 1.84 | 1.93 | 1.60 | -13.2% |
+| Deni Avdija 5+ reb **+** Donovan Clingan 6+ pts | MEM @ POR | 59.3% | 1.69 | 1.77 | 1.53 | -9.6% |
+| Deni Avdija 4+ ast **+** Jrue Holiday 1+ 3pm **+** Toumani Camara 6+ pts | MEM @ POR | 54.5% | 1.83 | 1.93 | 1.59 | -13.4% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | NOP win **+** Jeremiah Fears 8+ pts | SAC @ NOP | 51.0% | 1.96 | 2.06 | 1.85 | -5.7% |
-| Nickeil Alexander-Walker reb under 3.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 52.9% | 1.89 | 1.99 | 1.78 | -6.0% |
-| Nickeil Alexander-Walker reb under 3.5 **+** Donovan Mitchell 1+ 3pm | CLE @ ATL | 52.1% | 1.92 | 2.01 | 1.80 | -6.0% |
+| Nickeil Alexander-Walker reb under 3.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 52.9% | 1.89 | 1.98 | 1.78 | -6.0% |
+| Nickeil Alexander-Walker reb under 3.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 52.6% | 1.90 | 2.00 | 1.79 | -6.0% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Ty Jerome pts under 24.5 **+** Toumani Camara 6+ pts | MEM @ POR | 47.9% | 2.09 | 2.19 | 2.08 | -0.1% |
+| Ty Jerome pts under 24.5 **+** Toumani Camara 6+ pts | MEM @ POR | 48.1% | 2.08 | 2.18 | 2.07 | -0.3% |
 | Ty Jerome pts under 24.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.9% | 2.09 | 2.19 | 2.08 | -0.3% |
 | Cedric Coward pr under 19.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.6% | 2.10 | 2.21 | 2.09 | -0.6% |
 
@@ -88,10 +88,10 @@ Out: Mouhamed Gueye (ATL)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| James Harden 12+ pts **+** Peyton Watson 8+ pts **+** Donovan Mitchell 25+ pra | 52.6% | 1.90 | 2.00 | 1.64 | -13.9% |
-| Nickeil Alexander-Walker reb under 3.5 **+** Peyton Watson 6+ pts | 52.9% | 1.89 | 1.99 | 1.78 | -6.0% |
-| Jalen Johnson pr under 31.5 **+** Peyton Watson 6+ pts | 48.2% | 2.08 | 2.18 | 2.04 | -1.8% |
-| Jalen Johnson pr under 31.5 **+** Donovan Mitchell 3+ reb | 43.8% | 2.28 | 2.40 | 2.24 | -1.9% |
+| Peyton Watson 8+ pts **+** Donovan Mitchell 25+ pra **+** James Harden 12+ pts | 52.6% | 1.90 | 1.99 | 1.64 | -13.9% |
+| Nickeil Alexander-Walker reb under 3.5 **+** Peyton Watson 6+ pts | 52.9% | 1.89 | 1.98 | 1.78 | -6.0% |
+| Jalen Johnson pr under 31.5 **+** Peyton Watson 6+ pts | 48.1% | 2.08 | 2.18 | 2.05 | -1.6% |
+| Jalen Johnson pr under 31.5 **+** Donovan Mitchell 3+ reb | 43.6% | 2.29 | 2.41 | 2.25 | -1.8% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
@@ -145,17 +145,16 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Dejounte Murray 3PM over 1.5 | SAC @ NOP | draftkings | 2.35 | 1.95 | 51.3% | 39.9% | 42.7% | +0.4% | +20.5% | 0.1% |
 | Darius Acuff Jr. PTS under 22.5 | SAC @ NOP | draftkings | 1.89 | 1.57 | 63.5% | 49.4% | 52.9% | +0.1% | +20.2% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| NOP win **+** Domantas Sabonis 8+ reb | 57.9% | 1.73 | 1.81 | 1.60 | -7.3% |
+| NOP win **+** Domantas Sabonis 20+ pra | 60.2% | 1.66 | 1.74 | 1.54 | -7.3% |
 | NOP win **+** Jeremiah Fears 8+ pts | 51.0% | 1.96 | 2.06 | 1.85 | -5.7% |
-| Precious Achiuwa 11+ pts **+** Domantas Sabonis 25+ pra | 46.6% | 2.14 | 2.25 | 2.08 | -3.0% |
-| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 40.8% | 2.45 | 2.58 | 2.39 | -2.7% |
+| Precious Achiuwa 11+ pts **+** Domantas Sabonis 25+ pra | 46.7% | 2.14 | 2.25 | 2.07 | -3.1% |
+| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 40.9% | 2.45 | 2.57 | 2.38 | -2.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -224,9 +223,9 @@ Out: Shaedon Sharpe (POR)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Deni Avdija 4+ ast **+** Toumani Camara 6+ pts **+** Jrue Holiday 1+ 3pm | 54.3% | 1.84 | 1.93 | 1.60 | -13.2% |
-| Jrue Holiday 15+ pra **+** Deni Avdija 4+ ast **+** Toumani Camara 6+ pts | 51.4% | 1.95 | 2.04 | 1.73 | -11.3% |
-| Ty Jerome pts under 24.5 **+** Toumani Camara 6+ pts | 47.9% | 2.09 | 2.19 | 2.08 | -0.1% |
+| Deni Avdija 5+ reb **+** Donovan Clingan 6+ pts | 59.3% | 1.69 | 1.77 | 1.53 | -9.6% |
+| Jrue Holiday 15+ pra **+** Deni Avdija 4+ ast **+** Toumani Camara 6+ pts | 51.5% | 1.94 | 2.04 | 1.72 | -11.4% |
+| Ty Jerome pts under 24.5 **+** Toumani Camara 6+ pts | 48.1% | 2.08 | 2.18 | 2.07 | -0.3% |
 | Ty Jerome pra under 33.5 **+** Jrue Holiday 3+ ast | 41.8% | 2.40 | 2.52 | 2.47 | +3.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
