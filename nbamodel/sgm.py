@@ -53,6 +53,18 @@ def leg_mask(sim: dict, home: str, away: str, market: str, selection: str, line,
     return None
 
 
+def played_mask(sim: dict, player_id=None) -> np.ndarray:
+    """Simulations where the leg's player got on court (all of them for game legs). A player who
+    doesn't play voids his leg at the bookie, so multis are priced given every leg player plays."""
+    n = len(sim["margin"])
+    if player_id is None or pd.isna(player_id):
+        return np.ones(n, dtype=bool)
+    for p in sim["players"]:
+        if p["player_id"] == player_id:
+            return p["draws"]["min"] > 0
+    return np.ones(n, dtype=bool)
+
+
 def _conflict(a: dict, b: dict) -> bool:
     if a.get("player_id") is not None and pd.notna(a.get("player_id")) and a.get("player_id") == b.get("player_id"):
         return True  # one leg per player: stacked stats of one player are near-duplicates books price as such
@@ -78,7 +90,10 @@ def suggest(sim: dict, home: str, away: str, offers: pd.DataFrame, labels: dict,
         m = leg_mask(sim, home, away, r.market, r.selection, r.line, r.player_id)
         if m is None:
             continue
-        p = m.mean()
+        pl = played_mask(sim, r.player_id if r.market.startswith("prop_") else None)
+        if not pl.any():
+            continue
+        p = m.sum() / pl.sum()  # given he plays
         if p < MIN_LEG_PROB or r.dec > min(MAX_LEG_ODDS, MAX_PRICE / 1.2):
             continue
         # lean on the no-vig market the same way single bets do; correlation still comes from the sim
@@ -86,23 +101,27 @@ def suggest(sim: dict, home: str, away: str, offers: pd.DataFrame, labels: dict,
         w = bw["props"] if r.market.startswith("prop_") else bw.get(r.market, bw["game"])
         pb = w * p + (1 - w) * mk if pd.notna(mk) else p
         legs.append({"market": r.market, "selection": r.selection, "line": r.line, "player_id": r.player_id,
-                     "dec": r.dec, "p": p, "pb": pb, "mask": m, "ev": pb * r.dec - 1,
+                     "dec": r.dec, "p": p, "pb": pb, "mask": m, "pl": pl, "ev": pb * r.dec - 1,
                      "label": _label(r.market, r.selection, r.line, labels.get(r.player_id))})
     # keep the most promising legs to bound the search, plus the best "safe" legs
     legs = sorted(legs, key=lambda x: x["ev"], reverse=True)
     safe = [l for l in legs[MAX_LEGS_SEARCH:] if l["pb"] >= SAFE_PROB and l["ev"] >= SAFE_MIN_EV][:SAFE_LEGS]
     legs = legs[:MAX_LEGS_SEARCH] + safe
     packed = [np.packbits(l["mask"]) for l in legs]
+    packed_pl = [np.packbits(l["pl"]) for l in legs]
     n = len(legs[0]["mask"]) if legs else 0
     rows = []
     for k in range(2, max_legs + 1):
         for combo in itertools.combinations(range(len(legs)), k):
             if any(_conflict(legs[i], legs[j]) for i, j in itertools.combinations(combo, 2)):
                 continue
-            acc = packed[combo[0]]
+            acc, accp = packed[combo[0]], packed_pl[combo[0]]
             for i in combo[1:]:
-                acc = acc & packed[i]
-            joint_model = np.unpackbits(acc)[:n].mean()
+                acc, accp = acc & packed[i], accp & packed_pl[i]
+            n_pl = np.unpackbits(accp)[:n].sum()
+            if n_pl == 0:
+                continue
+            joint_model = np.unpackbits(acc)[:n].sum() / n_pl  # given every leg player plays
             if joint_model <= 0:
                 continue
             # blended joint: keep the sim's correlation, scale each leg to its blended probability
@@ -153,7 +172,7 @@ LEG_RE = re.compile(r"^(?P<who>.+?)\s+(?P<what>pts|reb|ast|fg3m|stl|blk|tov|pra|
 def check(sim: dict, home: str, away: str, legs_text: str, price: float, labels: dict) -> dict:
     """Evaluate a quoted SGM, e.g. 'LeBron James pts over 24.5; LAL win; game total over 228.5'."""
     names = {v.lower(): k for k, v in labels.items()}
-    masks, parsed = [], []
+    masks, played, parsed = [], [], []
     for leg in [x.strip() for x in legs_text.split(";") if x.strip()]:
         m = LEG_RE.match(leg)
         if not m:
@@ -171,9 +190,12 @@ def check(sim: dict, home: str, away: str, legs_text: str, price: float, labels:
             if pid is None:
                 raise ValueError(f"unknown player: {who}")
             mask = leg_mask(sim, home, away, f"prop_{what}", side, float(line), pid)
+        pl = played_mask(sim, pid if what not in ("win", "ml", "spread", "total") else None)
         masks.append(mask)
-        parsed.append((leg, float(mask.mean())))
-    joint = float(np.logical_and.reduce(masks).mean())
+        played.append(pl)
+        parsed.append((leg, float(mask.sum() / max(pl.sum(), 1))))
+    all_pl = np.logical_and.reduce(played)
+    joint = float(np.logical_and.reduce(masks).sum() / max(all_pl.sum(), 1))  # given every leg player plays
     return {"legs": parsed, "model_prob": joint, "fair_odds": 1 / joint if joint else float("inf"),
             "quoted_price": price, "ev": joint * price - 1,
             "verdict": "value" if joint * price - 1 >= MIN_EDGE else "no value"}

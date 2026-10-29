@@ -342,3 +342,24 @@ def draft_pick(espn_id: int) -> int | None:
     if not d.get("selection"):
         return None
     return int(d["selection"]) + (30 * (int(d.get("round", 1)) - 1) if d["selection"] <= 30 and d.get("round", 1) > 1 else 0)
+
+
+def pregame_lineup(game_id: int) -> pd.DataFrame:
+    """Starters, and players ruled out with a reason (injury, illness, personal), once ESPN posts
+    the pre-game box (around 30 minutes before tip). Empty until then. ESPN's own "active" flag
+    means on court right now, so it isn't used. Columns: espn_id, player_name, team, starter, out."""
+    try:
+        js = summary(game_id)
+    except Exception:
+        return pd.DataFrame()
+    rows = []
+    for tb in js.get("boxscore", {}).get("players", []) or []:
+        team = canonical_team(tb["team"]["abbreviation"])
+        for st in tb.get("statistics", [])[:1]:
+            for a in st.get("athletes", []):
+                ath = a.get("athlete", {})
+                rows.append({"espn_id": int(ath.get("id", 0)), "player_name": ath.get("displayName", ""),
+                             "team": team, "starter": bool(a.get("starter")),
+                             "out": bool(a.get("didNotPlay")) and str(a.get("reason", "")).upper() != "COACH'S DECISION"})
+    return pd.DataFrame(rows)
+

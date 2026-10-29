@@ -14,6 +14,7 @@ import argparse
 import json
 import time
 from datetime import date, datetime, timezone
+from pathlib import Path
 
 import pandas as pd
 
@@ -104,6 +105,17 @@ PRETIP_MIN = 40   # a game enters its pre-tip window this many minutes before ti
 LOOKAHEAD_MIN = 120
 
 
+def model_hash() -> str:
+    """Fingerprint of the projection code and trained models, so a fix or retrain rewrites the sheet."""
+    import hashlib
+    root = Path(__file__).resolve().parent
+    h = hashlib.sha1()
+    for f in sorted([*root.rglob("*.py"), *(root.parent / "models").glob("*")]):
+        if f.is_file():
+            h.update(f.name.encode() + f.read_bytes())
+    return h.hexdigest()
+
+
 def cmd_live(a):
     """Game-day loop step: run on a timer by nbamodel/loop.py (5 min within 3h of a tip).
 
@@ -132,7 +144,7 @@ def cmd_live(a):
         print(f"next tip in {up['mins_to_tip'].min():.0f} min; the slower timer covers this")
         return
     state_p = market_log.LOGS / "state" / f"{day.isoformat()}.json"
-    state = {"pretip_done": [], "hash": "", "book_lines": False, "dk_hash": ""}
+    state = {"pretip_done": [], "hash": "", "book_lines": False, "dk_hash": "", "model_hash": ""}
     if state_p.exists():
         state.update(json.loads(state_p.read_text()))
     slate = up[["game_id", "game_date", "home", "away", "tip_utc"]]
@@ -151,10 +163,12 @@ def cmd_live(a):
         state["pretip_done"] += [int(g) for g in entering["game_id"]]
         state_p.parent.mkdir(parents=True, exist_ok=True)
         state_p.write_text(json.dumps(state))  # saved now: a later failure must not re-buy these props
-    news = h != state["hash"] or len(entering)
+    mh = model_hash()
+    news = h != state["hash"] or len(entering) or mh != state["model_hash"]
     if news or dk_hash != state["dk_hash"]:
         print("re-projecting:", "availability changed" if h != state["hash"] else
-              "pre-tip window" if len(entering) else "DraftKings props moved")
+              "pre-tip window" if len(entering) else "model or code changed" if mh != state["model_hash"]
+              else "DraftKings props moved")
         props = pipeline.latest_props(slate)
         if dk is not None:  # this run's DraftKings prices replace the last logged ones
             keep = props[props["source"] != "espn"] if props is not None else None
@@ -165,7 +179,7 @@ def cmd_live(a):
         pipeline.finish(day, res, sp, slate)
         if news:  # the graded log keeps news-driven runs only (keeps the repo small)
             market_log.log_projections(day, res, f"{snap}|live")
-        state["hash"], state["dk_hash"] = h, dk_hash
+        state["hash"], state["dk_hash"], state["model_hash"] = h, dk_hash, mh
     if up["mins_to_tip"].min() <= LOOKAHEAD_MIN:
         market_log.log_game_lines(slate, snap)
     state_p.parent.mkdir(parents=True, exist_ok=True)

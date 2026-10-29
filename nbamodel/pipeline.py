@@ -101,9 +101,40 @@ def availability(slate: pd.DataFrame, day: date, pg: pd.DataFrame) -> tuple[pd.D
                              "reason": st["reason"].iloc[0] if len(st) else "", "play_prob": prob,
                              "note": note, "min_cap": minutes_cap(note),
                              "starting": starting_flag(note)})
-    cw.save()
     sp = pd.DataFrame(rows).drop_duplicates(["game_id", "player_id"])
+    sp = _apply_lineups(sp, slate, cw)
+    cw.save()
     return sp, inj
+
+
+LINEUP_WINDOW_MIN = 75  # ESPN posts starters / inactives roughly 30 minutes before tip
+
+
+def _apply_lineups(sp: pd.DataFrame, slate: pd.DataFrame, cw) -> pd.DataFrame:
+    """Once a game's starting lineups are posted: starters are certain to play (and start), and
+    players ruled out in the pre-game box are out. Coach's decisions aren't known before tip, so
+    the rest keep their chance-to-play estimates."""
+    if "tip_utc" not in slate:
+        return sp
+    now = pd.Timestamp.now(tz="UTC")
+    sp = sp.copy()
+    for r in slate.itertuples(index=False):
+        mins = (pd.Timestamp(r.tip_utc) - now).total_seconds() / 60
+        if mins > LINEUP_WINDOW_MIN or mins < -5:
+            continue
+        lu = espn.pregame_lineup(r.game_id)
+        if lu.empty or not (lu.groupby("team")["starter"].sum() == 5).all() or lu["team"].nunique() != 2:
+            continue
+        lu["player_id"] = [cw.lookup(e, n, t) for e, n, t in zip(lu["espn_id"], lu["player_name"], lu["team"])]
+        g = sp["game_id"] == r.game_id
+        start = g & sp["player_id"].isin(lu.loc[lu["starter"], "player_id"])
+        sp.loc[start, ["starting", "play_prob"]] = [1, 1.0]
+        sp.loc[start, "status"] = "Starting"
+        out = g & sp["player_id"].isin(lu.loc[lu["out"], "player_id"])
+        sp.loc[out, ["play_prob", "starting"]] = [0.0, 0]
+        sp.loc[out, "status"] = "Out"
+        print(f"lineups posted for {r.away}@{r.home}: {int(start.sum())} starters, {int(out.sum())} inactive")
+    return sp
 
 
 RESTRICT = re.compile(r"minutes? (restriction|limit|cap)|limited minutes|on a (strict )?minutes|limited to|"
