@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CLE @ ATL,Sam Merrill 3pm under 2.5 + Onyeka Okongwu 6+ pts,2,0.777,0.5565,1.8,1.89,1.79,-0.0062,0.999,1.65-1.85
-CLE @ ATL,Sam Merrill 3pm under 2.5 + Jalen Johnson 1+ 3pm,2,0.6854,0.5001,2.0,2.1,1.97,-0.0125,1.0,1.85-2.10
-CLE @ ATL,Sam Merrill 3pm under 2.5 + Donovan Mitchell 12+ pts,2,0.8098,0.5918,1.69,1.77,1.67,-0.0142,0.998,1.65-1.85
-CLE @ ATL,Sam Merrill 3pm under 2.5 + Donovan Mitchell 3+ reb,2,0.7257,0.5318,1.88,1.97,1.85,-0.0144,0.999,1.85-2.10
-CLE @ ATL,Sam Merrill 3pm under 2.5 + Donovan Mitchell 20+ pra,2,0.802,0.5867,1.7,1.79,1.68,-0.0149,0.998,1.65-1.85
-CLE @ ATL,Sam Merrill 3pm under 2.5 + Nickeil Alexander-Walker 2+ 3pm,2,0.6908,0.5084,1.97,2.07,1.94,-0.0163,0.999,1.85-2.10
-CLE @ ATL,Sam Merrill 3pm under 2.5 + Evan Mobley 4+ reb,2,0.8167,0.6056,1.65,1.73,1.62,-0.0171,1.001,1.50-1.65
-CLE @ ATL,Jalen Johnson pra under 39.5 + Onyeka Okongwu 6+ pts,2,0.5886,0.4461,2.24,2.35,2.16,-0.0363,0.994,2.10-2.50
-CLE @ ATL,Jalen Johnson pa under 29.5 + Onyeka Okongwu 6+ pts,2,0.5693,0.4389,2.28,2.39,2.18,-0.0436,0.994,2.10-2.50
-CLE @ ATL,ATL win + Onyeka Okongwu 6+ pts,2,0.4694,0.4365,2.29,2.41,2.19,-0.0461,1.017,2.10-2.50
+CLE @ ATL,Sam Merrill 3pm under 2.5 + Onyeka Okongwu 6+ pts,2,0.777,0.5585,1.79,1.88,1.78,-0.0082,0.999,1.65-1.85
+CLE @ ATL,Sam Merrill 3pm under 2.5 + Jalen Johnson 1+ 3pm,2,0.6854,0.5036,1.99,2.08,1.95,-0.0158,1.0,1.85-2.10
+CLE @ ATL,Sam Merrill 3pm under 2.5 + Donovan Mitchell 3+ reb,2,0.7257,0.5329,1.88,1.97,1.85,-0.0158,0.999,1.65-1.85
+CLE @ ATL,Sam Merrill 3pm under 2.5 + Donovan Mitchell 12+ pts,2,0.8098,0.5965,1.68,1.76,1.65,-0.0177,0.998,1.50-1.65
+CLE @ ATL,Sam Merrill 3pm under 2.5 + Donovan Mitchell 20+ pra,2,0.802,0.5908,1.69,1.78,1.66,-0.0181,0.998,1.65-1.85
+CLE @ ATL,Sam Merrill 3pm under 2.5 + Nickeil Alexander-Walker 2+ 3pm,2,0.6908,0.512,1.95,2.05,1.92,-0.0195,0.999,1.85-2.10
+CLE @ ATL,Jalen Johnson pra under 39.5 + Onyeka Okongwu 6+ pts,2,0.5886,0.4498,2.22,2.33,2.13,-0.0399,0.994,2.10-2.50
+CLE @ ATL,Jalen Johnson pr under 31.5 + Onyeka Okongwu 6+ pts,2,0.5743,0.441,2.27,2.38,2.17,-0.0428,0.994,2.10-2.50
+CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 20+ pra,2,0.6103,0.4781,2.09,2.2,2.0,-0.0451,0.998,1.85-2.10
+CLE @ ATL,Jalen Johnson pts under 21.5 + Onyeka Okongwu 6+ pts,2,0.5539,0.4346,2.3,2.42,2.19,-0.0483,0.997,2.10-2.50
 CLE @ ATL,Jalen Johnson 1+ 3pm + Nickeil Alexander-Walker 2+ 3pm,2,0.6526,0.5893,1.7,1.78,1.53,-0.0958,0.999,1.50-1.65
-CLE @ ATL,Onyeka Okongwu 6+ pts + Jalen Johnson 1+ 3pm + Donovan Mitchell 20+ pra,3,0.6922,0.5771,1.73,1.82,1.51,-0.1305,1.0,1.50-1.65
+CLE @ ATL,Onyeka Okongwu 6+ pts + Donovan Mitchell 3+ reb + Nickeil Alexander-Walker 2+ 3pm,3,0.6323,0.5282,1.89,1.99,1.65,-0.1292,1.002,1.50-1.65
 SAC @ NOP,Precious Achiuwa 11+ pts + Domantas Sabonis 25+ pra,2,0.6376,0.4703,2.13,2.23,2.1,-0.0141,1.005,1.85-2.10
 SAC @ NOP,Precious Achiuwa 11+ pts + Trey Murphy III 2+ 3pm,2,0.5662,0.4148,2.41,2.53,2.38,-0.0145,1.002,2.10-2.50
 SAC @ NOP,Precious Achiuwa 11+ pts + Jeremiah Fears 8+ pts,2,0.5858,0.4268,2.34,2.46,2.31,-0.0146,1.0,2.10-2.50

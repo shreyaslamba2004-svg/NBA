@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 04:51 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 05:06 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -20,7 +20,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Sam Merrill 3pm under 2.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 60.6% | 1.65 | 1.73 | 1.62 | -1.7% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 12+ pts | CLE @ ATL | 59.7% | 1.68 | 1.76 | 1.65 | -1.8% |
 | NOP win **+** Domantas Sabonis 8+ reb | SAC @ NOP | 58.3% | 1.72 | 1.80 | 1.60 | -6.8% |
 | NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.6% | 1.65 | 1.73 | 1.54 | -6.9% |
 
@@ -28,17 +28,17 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 55.6% | 1.80 | 1.89 | 1.79 | -0.6% |
-| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 12+ pts | CLE @ ATL | 59.2% | 1.69 | 1.77 | 1.67 | -1.4% |
-| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 58.7% | 1.70 | 1.79 | 1.68 | -1.5% |
+| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 55.9% | 1.79 | 1.88 | 1.78 | -0.8% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 3+ reb | CLE @ ATL | 53.3% | 1.88 | 1.97 | 1.85 | -1.6% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 59.1% | 1.69 | 1.78 | 1.66 | -1.8% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Damian Lillard pts under 20.5 **+** Deni Avdija 3+ ast | MEM @ POR | 48.5% | 2.06 | 2.16 | 2.04 | -0.8% |
-| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | CLE @ ATL | 50.0% | 2.00 | 2.10 | 1.97 | -1.2% |
 | Jrue Holiday 8+ ra **+** Ja Morant 4+ ast | MEM @ POR | 47.2% | 2.12 | 2.23 | 2.09 | -1.3% |
+| Precious Achiuwa 11+ pts **+** Domantas Sabonis 25+ pra | SAC @ NOP | 47.0% | 2.13 | 2.23 | 2.10 | -1.4% |
 
 **Price 2.10-2.50**
 
@@ -78,16 +78,16 @@ Out: Mouhamed Gueye (ATL)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson PA under 29.5 | CLE @ ATL | draftkings | 1.93 | 1.59 | 62.7% | 48.5% | 52.1% | +0.3% | +20.9% | 0.1% |
+| Jalen Johnson PR under 31.5 | CLE @ ATL | draftkings | 1.91 | 1.58 | 63.3% | 48.9% | 52.5% | +0.3% | +20.9% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Sam Merrill 3pm under 2.5 **+** Evan Mobley 4+ reb | 60.6% | 1.65 | 1.73 | 1.62 | -1.7% |
-| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | 55.6% | 1.80 | 1.89 | 1.79 | -0.6% |
-| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | 50.0% | 2.00 | 2.10 | 1.97 | -1.2% |
-| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 44.6% | 2.24 | 2.35 | 2.16 | -3.6% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 12+ pts | 59.7% | 1.68 | 1.76 | 1.65 | -1.8% |
+| Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | 55.9% | 1.79 | 1.88 | 1.78 | -0.8% |
+| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | 50.4% | 1.99 | 2.08 | 1.95 | -1.6% |
+| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 45.0% | 2.22 | 2.33 | 2.13 | -4.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -261,7 +261,7 @@ Out: Shaedon Sharpe (POR)
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Damian Lillard 3PM under 2.5 | MEM @ POR | draftkings | 2.22 | 1.76 | 56.7% | 42.1% | 45.8% | +1.6% | +25.9% | 0.3% |
 | Damian Lillard AST over 4.5 | MEM @ POR | draftkings | 2.20 | 1.80 | 55.5% | 42.5% | 45.7% | +0.6% | +22.1% | 0.1% |
-| Jrue Holiday PRA over 20.5 | MEM @ POR | draftkings | 1.93 | 1.60 | 62.3% | 48.7% | 52.1% | +0.4% | +20.1% | 0.1% |
+| Jrue Holiday PRA over 20.5 | MEM @ POR | draftkings | 1.93 | 1.60 | 62.3% | 48.6% | 52.1% | +0.3% | +20.1% | 0.1% |
 
 **Best multis (one per price band)**
 
