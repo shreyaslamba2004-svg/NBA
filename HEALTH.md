@@ -21,6 +21,8 @@ Live should sit near the backtest line. Well below it for weeks means the model 
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
+Every bet that showed in TODAY.md's main best-bets table at any point in the day, graded at the first price it showed at (the sheet changes through the day, so this is more than the final pre-tip list).
+
 | window       |   bets |   won |   profit (units) |   ROI % |   avg CLV % |   beat closing % |
 |:-------------|-------:|------:|-----------------:|--------:|------------:|-----------------:|
 | Last 7 days  |     19 |     9 |             1.95 |    10.3 |        -2.5 |             15.8 |

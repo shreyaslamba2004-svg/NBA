@@ -203,6 +203,9 @@ def build(today: date | None = None) -> str:
               "worse on new games than it did in testing (overfitting or something broke).")
     # bets
     md.append("## Best bets (EV ≥ 5%, odds ≤ 4)")
+    md.append("Every bet that showed in TODAY.md's main best-bets table at any point in the day, graded at the "
+              "first price it showed at (the sheet changes through the day, so this is more than the final "
+              "pre-tip list).")
     try:
         g = monitor.graded_offers()
         bb = g.dropna(subset=["taken_price"]) if len(g) else g
