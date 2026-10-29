@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 07:11 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 07:41 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -22,9 +22,9 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | CLE @ ATL | 54.4% | 1.84 | 1.93 | 1.75 | -4.8% |
-| Donovan Mitchell ast under 5.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 56.2% | 1.78 | 1.87 | 1.69 | -4.8% |
+| Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | CLE @ ATL | 54.4% | 1.84 | 1.93 | 1.75 | -4.9% |
 | Donovan Mitchell ast under 5.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 54.2% | 1.84 | 1.94 | 1.75 | -5.0% |
+| Donovan Mitchell ast under 5.5 **+** Evan Mobley 5+ reb | CLE @ ATL | 53.8% | 1.86 | 1.95 | 1.76 | -5.1% |
 
 **Price 1.85-2.10**
 
@@ -85,10 +85,10 @@ Out: Mouhamed Gueye (ATL)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 59.3% | 1.69 | 1.77 | 1.52 | -10.1% |
-| Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | 54.4% | 1.84 | 1.93 | 1.75 | -4.8% |
-| Jalen Johnson pra under 40.5 **+** Onyeka Okongwu 6+ pts | 47.3% | 2.11 | 2.22 | 2.08 | -1.6% |
-| Jalen Johnson ra under 17.5 **+** Onyeka Okongwu 6+ pts | 45.6% | 2.19 | 2.30 | 2.16 | -1.3% |
+| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 58.9% | 1.70 | 1.78 | 1.53 | -9.8% |
+| Donovan Mitchell ast under 5.5 **+** Onyeka Okongwu 3+ reb | 54.4% | 1.84 | 1.93 | 1.75 | -4.9% |
+| Jalen Johnson pra under 39.5 **+** Donovan Mitchell 1+ 3pm | 47.2% | 2.12 | 2.22 | 2.09 | -1.2% |
+| Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 45.0% | 2.22 | 2.34 | 2.20 | -1.0% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
