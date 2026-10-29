@@ -95,7 +95,8 @@ REP_BLOWOUT = 25       # final margin at/above which starters sit and benches pl
 def add_rep_history(pf: pd.DataFrame, games: pd.DataFrame) -> None:
     """Representative-history features (in place).
 
-    Minutes form that ignores the first games back from a long absence and blowouts; and minutes and
+    Minutes form that ignores the first games back from a long absence (once they're over) and
+    blowouts; while still in that window, form since the return instead; and minutes and
     per-minute rates that restart each season and with each new team, so a traded player or a changed
     role shows up after a few games instead of being averaged with the old one.
     """
@@ -121,6 +122,13 @@ def add_rep_history(pf: pd.DataFrame, games: pd.DataFrame) -> None:
     pf["min_s_reg"] = _ewm(m_reg, pid, SHORT_HL)
     pf["min_l_reg"] = _ewm(m_reg, pid, LONG_HL)
     pf["min_stint_s"] = _ewm(m_rep, [pid, stint], 4)
+    # while a player is still ramping up after a comeback, his games since returning are the best
+    # guide to tonight (minutes limits): use those instead of his pre-injury level
+    block = back.astype(int).groupby(pid).cumsum()
+    ramping = block.gt(0) & (since <= REP_RETURN_GAMES)
+    ramp = _ewm(pf["min"].where(block.gt(0)), [pid, block], 2)
+    for c in ("min_s_rep", "min_season_s", "min_stint_s"):
+        pf.loc[ramping, c] = ramp[ramping]
     pf["min_stint"] = pf.groupby([pid, stint])["min"].transform(lambda x: x.shift(1).expanding().mean())
     pf["usage"] = pf["fga"] + 0.44 * pf["fta"] + pf["tov"]
     for name, keys in (("stint", [pid, stint]), ("season", [pid, pf["season"]])):

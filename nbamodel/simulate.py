@@ -24,19 +24,30 @@ PACE_ELAST = {"reb": 0.6, "stl": 0.5, "blk": 0.5, "tov": 0.5}
 OT_MEAN, OT_SD = 10.5, 3.5
 
 
-def _scale_minutes(pmin: np.ndarray, target: float, cap=46.0) -> np.ndarray:
-    """Scale minutes to the team target; `cap` may be per player (e.g. minutes restrictions)."""
+FILL_CEIL = 40.0  # minutes beyond which a player has little room left to absorb a teammate's
+
+
+def _fill_weights(m: np.ndarray, per=1.0) -> np.ndarray:
+    """Who absorbs a shortfall (or gives back an excess): in proportion to minutes x room left.
+    Proportional scaling handed most of a depleted team's spare minutes to its stars (40+ minute
+    projections); in practice the bench takes more of them. `per` turns expected minutes into
+    minutes-if-he-plays for the room calculation."""
+    return m * np.clip(FILL_CEIL - m * per, 0.5, None)
+
+
+def _scale_minutes(pmin: np.ndarray, target: float, cap=46.0, per=1.0) -> np.ndarray:
+    """Fill (or trim) minutes to the team target; `cap` may be per player (e.g. minutes restrictions)."""
     m = pmin.astype(float).copy()
     cap = np.broadcast_to(np.asarray(cap, dtype=float), m.shape)
     m = np.minimum(m, cap)
     for _ in range(10):
-        free = m < cap
-        s = m.sum()
-        if s <= 0 or abs(s - target) < 0.05:
+        gap = target - m.sum()
+        if m.sum() <= 0 or abs(gap) < 0.05:
             break
-        excess = target - m[~free].sum()
-        m[free] *= excess / max(m[free].sum(), 1e-9)
-        m = np.minimum(m, cap)
+        w = np.where(m < cap, _fill_weights(m, per), 0.0)
+        if w.sum() <= 0:
+            break
+        m = np.clip(m + gap * w / w.sum(), 0, cap)
     return m
 
 
@@ -47,7 +58,9 @@ def expected_minutes(players: pd.DataFrame, b: Bundle) -> np.ndarray:
     raw = players["pmin_raw"].values
     # scale only over expected participants; questionable players count at their play_prob
     caps = players["min_cap"].fillna(46.0).values if "min_cap" in players else 46.0
-    scaled = _scale_minutes(raw * w, target, np.minimum(caps, 46.0) * np.maximum(w, 1e-9))
+    with np.errstate(divide="ignore"):
+        per = np.where(w > 0, 1 / np.maximum(w, 1e-9), 1.0)
+    scaled = _scale_minutes(raw * w, target, np.minimum(caps, 46.0) * np.maximum(w, 1e-9), per)
     with np.errstate(invalid="ignore", divide="ignore"):
         return np.where(w > 0, scaled / w, 0.0)
 
@@ -91,7 +104,9 @@ def simulate_game(game: dict, players: pd.DataFrame, b: Bundle, n: int = N_SIMS,
             curve = np.array([b.blowout.get(int(r), [1.0] * (len(BLOWOUT_EDGES) - 1)) for r in role])
             mins *= curve[:, mb].T * (ot == 0)[:, None] + (ot > 0)[:, None]
         target = 240 + 25 * ot
-        mins *= (target / np.maximum(mins.sum(1), 1))[:, None]
+        fw = _fill_weights(mins)  # regulation: spare minutes go mostly to players with room left
+        mins += ((240 - mins.sum(1)) / np.maximum(fw.sum(1), 1e-9))[:, None] * fw
+        mins = np.clip(mins, 0, None) * (target / 240)[:, None]  # overtime: whoever is playing most
         mins = np.clip(mins, 0, 53)
         f_team = (sim_team / mu_team)[:, None]
         f_pace = (total / game["mu_total"])[:, None]
