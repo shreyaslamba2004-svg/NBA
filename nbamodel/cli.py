@@ -2,7 +2,7 @@
 
   python -m nbamodel.cli run   [--date YYYY-MM-DD] [--no-props]
   python -m nbamodel.cli snapshot --kind open|pretip   (scheduled: logs lines, props, projections)
-  python -m nbamodel.cli live      (scheduled every 10 min, 5 min near tips; see cmd_live)
+  python -m nbamodel.cli live      (scheduled by nbamodel/loop.py; 5 min near tips)
   python -m nbamodel.cli sgm --game LAL --legs "..." --price 4.2   (value-check a quoted multi)
   python -m nbamodel.cli watch [--date YYYY-MM-DD] [--every 10]
       Re-checks rosters + injury reports every N minutes and re-projects the slate whenever
@@ -100,7 +100,7 @@ LOOKAHEAD_MIN = 120
 
 
 def cmd_live(a):
-    """Game-day loop step: every 10 min all game day, every 5 min within 2h of a tip (scheduler).
+    """Game-day loop step: run on a timer by nbamodel/loop.py (5 min within 3h of a tip).
 
     Each call (all free except where noted):
       - re-checks injury reports + rosters, and fetches DraftKings props from ESPN; re-projects
@@ -124,7 +124,7 @@ def cmd_live(a):
         return
     up["mins_to_tip"] = (pd.to_datetime(up["tip_utc"], utc=True) - now).dt.total_seconds() / 60
     if getattr(a, "near_tip_only", False) and up["mins_to_tip"].min() > LOOKAHEAD_MIN:
-        print(f"next tip in {up['mins_to_tip'].min():.0f} min; the 10-minute run covers this")
+        print(f"next tip in {up['mins_to_tip'].min():.0f} min; the slower timer covers this")
         return
     state_p = market_log.LOGS / "state" / f"{day.isoformat()}.json"
     state = {"pretip_done": [], "hash": "", "book_lines": False, "dk_hash": ""}

@@ -105,7 +105,8 @@ Outputs in `output/<date>/`:
 `.github/workflows/game-day.yml` runs as a relay (GitHub's cron trigger never fired for this repo):
 each job runs `nbamodel/loop.py` for about 5.4 hours and then starts the next one, and
 `keepalive.yml` restarts it if it stops. The loop runs the morning snapshot from 13:00 UTC, then
-checks every 10 minutes (every 5 within 2 hours of a tip). It re-projects when injury or
+checks every 30 minutes from the end of a slate until midnight Sydney, every 15 minutes
+from midnight until 3 hours before the next tip, and every 5 minutes from then until tip. It re-projects when injury or
 lineup news or a DraftKings prop price changes, and buys AU prop prices for each game about 40
 minutes before tip. `weekly.yml` grades the logs and retrains on Mondays. Each run:
 1. grades yesterday: final scores and player lines go to `logs/results/`

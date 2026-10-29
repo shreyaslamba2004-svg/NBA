@@ -4,7 +4,9 @@ GitHub's cron trigger never fired for this repo (only manual runs started), so i
 relying on it, one job runs for ~5.4 hours and, as its last step, starts the next job
 (.github/workflows/game-day.yml). Inside the job, on a timer:
   - the morning snapshot once per US date, from 13:00 UTC (python -m nbamodel.cli snapshot)
-  - the live check every 10 minutes, every 5 within 2 hours of a tip (python -m nbamodel.cli live)
+  - the live check (python -m nbamodel.cli live; free sources only, re-projects when anything moved):
+    every 30 min from the end of a slate until midnight Sydney, every 15 min from midnight until
+    3 hours before the next tip, every 5 min from then until the last tip
   - Mondays from 14:00 UTC, starts the weekly retrain workflow
   - commits and pushes whatever changed after each step
 State (what's been done today) lives in logs/state/loop.json so the next job carries on.
@@ -21,7 +23,16 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 STATE = ROOT / "logs" / "state" / "loop.json"
 RUN_HOURS = 5.4
-NEAR_TIP_MIN, FAST, SLOW = 120, 300, 600  # seconds between live checks
+NEAR_TIP_MIN = 180  # within this many minutes of a tip, check every 5 minutes
+FAST, OVERNIGHT, EVENING = 300, 900, 1800  # seconds between live checks
+
+
+def check_every(mins_to_tip: float, now: pd.Timestamp) -> int:
+    """5 min near a tip; otherwise 15 min after midnight Sydney (slate morning), 30 min from
+    noon (games over) until midnight."""
+    if mins_to_tip <= NEAR_TIP_MIN:
+        return FAST
+    return OVERNIGHT if now.tz_convert("Australia/Sydney").hour < 12 else EVENING
 
 
 def sh(cmd: str) -> int:
@@ -85,7 +96,7 @@ def main() -> None:
                 commit(f"loop state {now:%Y-%m-%dT%H:%MZ}")
         sh("python -m nbamodel.cli live")
         commit(f"projections {pd.Timestamp.now(tz='UTC'):%Y-%m-%dT%H:%MZ}")
-        wait = FAST if mins_to_next_tip(day) <= NEAR_TIP_MIN else SLOW
+        wait = check_every(mins_to_next_tip(day), pd.Timestamp.now(tz="UTC"))
         time.sleep(max(30.0, min(wait - (time.time() - start), end - time.time())))
 
 

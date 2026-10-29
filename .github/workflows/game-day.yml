@@ -1,6 +1,7 @@
 # Game-day projections. GitHub's cron trigger never fired for this repo, so this workflow runs as
 # a relay: one job runs nbamodel/loop.py for ~5.4 hours (snapshot each morning from 13:00 UTC,
-# live checks every 10 min, every 5 min within 2 hours of a tip, Monday retrain kick-off), then
+# live checks every 30 min until midnight Sydney, 15 min overnight, 5 min from 3 hours before a tip,
+# Monday retrain kick-off), then
 # starts the next job before it ends. keepalive.yml restarts the relay if it ever stops.
 # To start it by hand: Actions > game-day > Run workflow (command: loop).
 # One-off commands also work: snapshot or live.
