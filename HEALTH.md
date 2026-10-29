@@ -43,6 +43,8 @@ If "won" keeps landing near "expected", the multi probabilities are honest. Prof
 
 ## Day by day (last 30)
 
+Sanity flags are the automatic checks on the day's last projections (see TODAY.md): a rising count means something in the inputs is going wrong.
+
 | date       |   games |   players | minutes miss (model / last-10)   | points miss (model / last-10)   |   points lean |
 |:-----------|--------:|----------:|:---------------------------------|:--------------------------------|--------------:|
 | 2026-10-28 |      12 |       164 | 4.99 / 5.61                      | 5.21 / 5.43                     |          1.23 |
