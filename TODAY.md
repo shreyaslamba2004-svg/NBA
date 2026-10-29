@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 03:42 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 03:52 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -22,9 +22,9 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
+| Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 52.2% | 1.91 | 2.01 | 1.84 | -3.6% |
 | Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | MEM @ POR | 52.9% | 1.89 | 1.99 | 1.80 | -4.9% |
-| Jerami Grant 3pm under 1.5 **+** Deni Avdija 3+ reb | MEM @ POR | 55.4% | 1.81 | 1.90 | 1.68 | -6.8% |
-| Toumani Camara 3pm under 2.5 **+** Deni Avdija 3+ reb | MEM @ POR | 52.6% | 1.90 | 1.99 | 1.77 | -6.9% |
+| NOP win **+** Domantas Sabonis 8+ reb | SAC @ NOP | 56.5% | 1.77 | 1.86 | 1.66 | -6.5% |
 
 **Price 1.85-2.10**
 
@@ -80,7 +80,7 @@ Out: Mouhamed Gueye (ATL)
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | 58.8% | 1.70 | 1.78 | 1.53 | -9.8% |
-| Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** James Harden 3+ reb | 50.1% | 1.99 | 2.09 | 1.71 | -14.3% |
+| Jalen Johnson ra under 17.5 **+** Evan Mobley 4+ reb | 52.2% | 1.91 | 2.01 | 1.84 | -3.6% |
 | Jalen Johnson pra under 39.5 **+** Evan Mobley 4+ reb | 50.2% | 1.99 | 2.09 | 1.95 | -2.2% |
 | Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 46.3% | 2.16 | 2.27 | 2.11 | -2.2% |
 
@@ -131,6 +131,22 @@ Out: Mouhamed Gueye (ATL)
 
 ### SAC @ NOP
 Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC)
+
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Darius Acuff Jr. PA under 27.5 | SAC @ NOP | draftkings | 1.83 | 1.51 | 66.1% | 51.2% | 54.9% | +0.3% | +20.8% | 0.1% |
+| Darius Acuff Jr. PTS under 22.5 | SAC @ NOP | draftkings | 1.82 | 1.51 | 66.1% | 51.4% | 55.0% | +0.2% | +20.3% | 0.1% |
+| Zach LaVine PTS under 22.5 | SAC @ NOP | draftkings | 1.92 | 1.60 | 62.6% | 48.7% | 52.2% | +0.1% | +20.0% | 0.0% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| NOP win **+** Domantas Sabonis 8+ reb | 56.5% | 1.77 | 1.86 | 1.66 | -6.5% |
+| Zach LaVine pa under 26.5 **+** Domantas Sabonis 8+ reb | 47.4% | 2.11 | 2.21 | 2.03 | -3.8% |
+| Zach LaVine pa under 26.5 **+** Trey Murphy III 2+ 3pm | 41.0% | 2.44 | 2.56 | 2.36 | -3.3% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
