@@ -94,6 +94,7 @@ def main() -> None:
                 st["weekly"] = str(now.date())
                 save(st)
                 commit(f"loop state {now:%Y-%m-%dT%H:%MZ}")
+        sh("git pull -q --rebase --autostash -X theirs origin main")  # pick up code / model fixes right away
         sh("python -m nbamodel.cli live")
         commit(f"projections {pd.Timestamp.now(tz='UTC'):%Y-%m-%dT%H:%MZ}")
         wait = check_every(mins_to_next_tip(day), pd.Timestamp.now(tz="UTC"))
