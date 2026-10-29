@@ -254,7 +254,8 @@ def build(day: date) -> Path | None:
     parts = [f"# NBA model · {day.strftime('%a %d %b %Y')} (US date)",
              f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
-             "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.",
+             "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. "
+             "Is the model getting better or worse? See [HEALTH.md](HEALTH.md).",
              f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})",
              "DraftKings prices refresh every 10 minutes (5 near tip). Australian books are priced about 40 "
              "minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, "

@@ -64,12 +64,12 @@ def graded_offers() -> pd.DataFrame:
     line = last["line"].astype(float)
     y = pd.Series(np.nan, index=last.index)
     ml = last["market"] == "moneyline"
-    y[ml] = np.where(sel[ml] == last["home"][ml], margin[ml] > 0, margin[ml] < 0)
+    y[ml] = np.where(sel[ml] == last["home"][ml], margin[ml] > 0, margin[ml] < 0).astype(float)
     sp = last["market"] == "spread"
     m_sel = np.where(sel == last["home"], margin, -margin)
-    y[sp] = np.where((m_sel + line)[sp] == 0, np.nan, (m_sel + line)[sp] > 0)
+    y[sp] = np.where((m_sel + line)[sp] == 0, np.nan, ((m_sel + line)[sp] > 0).astype(float))
     tt = last["market"] == "total"
-    y[tt] = np.where(total[tt] == line[tt], np.nan, np.where(sel[tt] == "over", total[tt] > line[tt], total[tt] < line[tt]))
+    y[tt] = np.where(total[tt] == line[tt], np.nan, np.where(sel[tt] == "over", total[tt] > line[tt], total[tt] < line[tt]).astype(float))
     pr = last["market"].str.startswith("prop_")
     if pr.any():
         long = res.copy()
@@ -77,7 +77,7 @@ def graded_offers() -> pd.DataFrame:
         stat = p["market"].str[5:]
         x = np.array([r[s] if s in r and pd.notna(r[s]) else np.nan for r, s in zip(p.to_dict("records"), stat)])
         lp = p["line"].astype(float).values
-        yy = np.where(np.isnan(x) | (x == lp), np.nan, np.where(p["selection"] == "over", x > lp, x < lp))
+        yy = np.where(np.isnan(x) | (x == lp), np.nan, np.where(p["selection"] == "over", x > lp, x < lp).astype(float))
         y[pr] = yy  # a player who didn't play stays ungraded (voided at most books)
     last["won"] = y
     last["kind"] = np.where(pr, "props", "game lines")

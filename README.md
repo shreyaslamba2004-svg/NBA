@@ -108,7 +108,10 @@ each job runs `nbamodel/loop.py` for about 5.4 hours and then starts the next on
 checks every 30 minutes from the end of a slate until midnight Sydney, every 15 minutes
 from midnight until 3 hours before the next tip, and every 5 minutes from then until tip. It re-projects when injury or
 lineup news or a DraftKings prop price changes, and buys AU prop prices for each game about 40
-minutes before tip. `weekly.yml` grades the logs and retrains on Mondays. Each run:
+minutes before tip. `weekly.yml` grades the logs and retrains on Mondays.
+`HEALTH.md` is rebuilt each night by the grading run: live accuracy against a last-10-game baseline (7 days,
+30 days, season, and the backtest for reference), best-bet ROI and closing-line value, multis, and a
+better / same / worse verdict (`nbamodel/health.py`). Each run:
 1. grades yesterday: final scores and player lines go to `logs/results/`
 2. pulls new box scores and refreshes the current season
 3. projects today's slate

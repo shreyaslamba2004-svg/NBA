@@ -78,6 +78,11 @@ def cmd_snapshot(a):
         market_log.log_results(day - timedelta(days=1))
     except Exception as e:  # grading must never block projections
         print("results logging failed:", e)
+    try:
+        from . import health
+        health.build()
+    except Exception as e:
+        print("health page failed:", e)
     slate = espn.scoreboard(day)
     slate = slate[slate["status"] == "STATUS_SCHEDULED"]
     if slate.empty:
