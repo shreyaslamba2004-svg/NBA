@@ -5,6 +5,7 @@ CLE @ ATL,Jalen Johnson ra under 17.5 + Donovan Mitchell 1+ 3pm,2,0.6582,0.5014,
 CLE @ ATL,Jalen Johnson pts under 21.5 + Donovan Mitchell 1+ 3pm,2,0.5752,0.4453,2.25,2.36,2.16,-0.038,0.998,2.10-2.50
 CLE @ ATL,Nickeil Alexander-Walker reb under 3.5 + Donovan Mitchell 1+ 3pm,2,0.6276,0.5147,1.94,2.04,1.82,-0.0617,0.998,1.65-1.85
 CLE @ ATL,Evan Mobley ra under 12.5 + Donovan Mitchell 1+ 3pm,2,0.53,0.4441,2.25,2.36,2.11,-0.0628,1.003,2.10-2.50
+CLE @ ATL,Peyton Watson pts under 13.5 + Donovan Mitchell 1+ 3pm,2,0.5234,0.4333,2.31,2.42,2.16,-0.0639,1.0,2.10-2.50
 SAC @ NOP,Domantas Sabonis ast under 6.5 + Trey Murphy III 2+ 3pm,2,0.5863,0.4131,2.42,2.54,2.43,0.0027,1.0,2.10-2.50
 SAC @ NOP,Domantas Sabonis ast under 6.5 + Precious Achiuwa 6+ pts,2,0.6536,0.4659,2.15,2.25,2.14,-0.0036,0.998,2.10-2.50
 SAC @ NOP,Domantas Sabonis ast under 6.5 + Jeremiah Fears 8+ pts,2,0.5698,0.4133,2.42,2.54,2.4,-0.0081,0.999,2.10-2.50
@@ -17,14 +18,11 @@ SAC @ NOP,De'Andre Hunter reb under 5.5 + Domantas Sabonis 6+ reb,2,0.6378,0.541
 SAC @ NOP,NOP win + Domantas Sabonis 6+ reb,2,0.7124,0.5898,1.7,1.78,1.57,-0.075,1.0,1.50-1.65
 SAC @ NOP,NOP win + Domantas Sabonis 20+ pra,2,0.7046,0.5813,1.72,1.81,1.59,-0.0775,0.996,1.50-1.65
 SAC @ NOP,NOP win + Domantas Sabonis 8+ pts,2,0.6918,0.5726,1.75,1.83,1.6,-0.0813,0.993,1.50-1.65
-MEM @ POR,Ty Jerome pr under 27.5 + Jrue Holiday 3+ ast,2,0.6295,0.422,2.37,2.49,2.43,0.0238,0.998,2.10-2.50
-MEM @ POR,Ty Jerome pa under 30.5 + Jrue Holiday 3+ ast,2,0.6401,0.4292,2.33,2.45,2.38,0.0237,0.998,2.10-2.50
+MEM @ POR,Ty Jerome pra under 33.5 + Jrue Holiday 3+ ast,2,0.6298,0.4206,2.38,2.5,2.44,0.025,0.997,2.10-2.50
 MEM @ POR,Cedric Coward pts under 12.5 + Jrue Holiday 3+ ast,2,0.6059,0.4099,2.44,2.56,2.49,0.0223,1.001,2.10-2.50
-MEM @ POR,Ty Jerome pra under 34.5 + Toumani Camara 6+ pts,2,0.6839,0.4836,2.07,2.17,2.07,0.0032,0.998,1.85-2.10
-MEM @ POR,Ty Jerome pra under 34.5 + Jrue Holiday 1+ 3pm,2,0.6764,0.4795,2.09,2.19,2.09,0.0028,0.999,1.85-2.10
-MEM @ POR,Ty Jerome pa under 30.5 + Deni Avdija 3+ reb,2,0.7079,0.5103,1.96,2.06,1.96,-0.001,1.0,1.85-2.10
-MEM @ POR,Ty Jerome 3pm under 2.5 + Deni Avdija 3+ reb,2,0.6469,0.5259,1.9,2.0,1.8,-0.0552,1.001,1.65-1.85
-MEM @ POR,Ty Jerome 3pm under 2.5 + Deni Avdija 3+ ast,2,0.6284,0.5116,1.95,2.05,1.85,-0.0561,1.0,1.65-1.85
+MEM @ POR,Ty Jerome pa under 30.5 + Jrue Holiday 3+ ast,2,0.6401,0.4327,2.31,2.43,2.36,0.0195,0.998,2.10-2.50
+MEM @ POR,Ty Jerome pra under 33.5 + Deni Avdija 3+ reb,2,0.6973,0.5011,2.0,2.1,2.0,0.0008,1.0,1.85-2.10
+MEM @ POR,Ty Jerome pts under 24.5 + Toumani Camara 6+ pts,2,0.6737,0.4805,2.08,2.19,2.08,-0.0015,0.998,1.85-2.10
+MEM @ POR,Ty Jerome pts under 24.5 + Jrue Holiday 1+ 3pm,2,0.6661,0.4763,2.1,2.2,2.1,-0.0021,0.998,1.85-2.10
+MEM @ POR,Ty Jerome 3pm under 2.5 + Deni Avdija 3+ reb,2,0.6469,0.5264,1.9,1.99,1.79,-0.0556,1.001,1.65-1.85
 MEM @ POR,Jrue Holiday 3+ ast + Toumani Camara 6+ pts + Ja Morant 4+ ast,3,0.6268,0.5341,1.87,1.97,1.62,-0.1333,1.004,1.50-1.65
-MEM @ POR,Jrue Holiday 3+ ast + Toumani Camara 6+ pts + Deni Avdija 3+ ast,3,0.6602,0.5652,1.77,1.86,1.53,-0.1368,1.001,1.50-1.65
-MEM @ POR,Jrue Holiday 3+ ast + Ja Morant 4+ ast + Deni Avdija 3+ ast,3,0.6395,0.5604,1.78,1.87,1.53,-0.1428,1.003,1.50-1.65

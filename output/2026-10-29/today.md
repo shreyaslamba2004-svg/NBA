@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 10:11 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Thu 29 Oct, 10:41 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -30,25 +30,25 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Ty Jerome 3pm under 2.5 **+** Deni Avdija 3+ reb | MEM @ POR | 52.6% | 1.90 | 2.00 | 1.80 | -5.5% |
-| Ty Jerome 3pm under 2.5 **+** Deni Avdija 3+ ast | MEM @ POR | 51.2% | 1.95 | 2.05 | 1.85 | -5.6% |
+| Ty Jerome 3pm under 2.5 **+** Deni Avdija 3+ reb | MEM @ POR | 52.6% | 1.90 | 1.99 | 1.79 | -5.6% |
 | Nickeil Alexander-Walker reb under 3.5 **+** Donovan Mitchell 1+ 3pm | CLE @ ATL | 51.5% | 1.94 | 2.04 | 1.82 | -6.2% |
+| NOP win **+** Trey Murphy III 10+ pts | SAC @ NOP | 55.5% | 1.80 | 1.89 | 1.69 | -6.3% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Ty Jerome pra under 34.5 **+** Toumani Camara 6+ pts | MEM @ POR | 48.4% | 2.07 | 2.17 | 2.07 | +0.3% |
-| Ty Jerome pra under 34.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.9% | 2.09 | 2.19 | 2.09 | +0.3% |
-| Ty Jerome pa under 30.5 **+** Deni Avdija 3+ reb | MEM @ POR | 51.0% | 1.96 | 2.06 | 1.96 | -0.1% |
+| Ty Jerome pra under 33.5 **+** Deni Avdija 3+ reb | MEM @ POR | 50.1% | 2.00 | 2.10 | 2.00 | +0.1% |
+| Ty Jerome pts under 24.5 **+** Toumani Camara 6+ pts | MEM @ POR | 48.0% | 2.08 | 2.19 | 2.08 | -0.1% |
+| Ty Jerome pts under 24.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 47.6% | 2.10 | 2.20 | 2.10 | -0.2% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Ty Jerome pr under 27.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.2% | 2.37 | 2.49 | 2.43 | +2.4% |
-| Ty Jerome pa under 30.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.9% | 2.33 | 2.45 | 2.38 | +2.4% |
+| Ty Jerome pra under 33.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.1% | 2.38 | 2.50 | 2.44 | +2.5% |
 | Cedric Coward pts under 12.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.0% | 2.44 | 2.56 | 2.49 | +2.2% |
+| Ty Jerome pa under 30.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 43.3% | 2.31 | 2.43 | 2.36 | +1.9% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -59,14 +59,14 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.68 | 2.36 | 42.4% | 25.4% | 29.7% | +9.1% | +56.2% | 0.9% |
-| Ty Jerome PR under 27.5 | MEM @ POR | draftkings | 1.92 | 1.29 | 77.3% | 48.7% | 55.9% | +7.1% | +48.2% | 1.9% |
-| Ty Jerome PA under 30.5 | MEM @ POR | draftkings | 1.88 | 1.27 | 78.6% | 49.6% | 56.8% | +7.1% | +48.1% | 2.0% |
-| Ty Jerome PTS under 24.5 | MEM @ POR | draftkings | 1.86 | 1.27 | 78.7% | 50.2% | 57.3% | +6.7% | +46.6% | 1.9% |
-| Ty Jerome PRA under 34.5 | MEM @ POR | draftkings | 1.83 | 1.25 | 79.9% | 51.0% | 58.2% | +6.7% | +46.5% | 2.0% |
+| Ty Jerome PRA under 33.5 | MEM @ POR | draftkings | 1.93 | 1.29 | 77.4% | 48.5% | 55.7% | +7.3% | +49.0% | 2.0% |
 | Cedric Coward PTS under 12.5 | MEM @ POR | draftkings | 1.97 | 1.35 | 74.2% | 47.4% | 54.1% | +6.7% | +46.3% | 1.7% |
+| Ty Jerome PA under 30.5 | MEM @ POR | draftkings | 1.86 | 1.27 | 78.6% | 50.2% | 57.3% | +6.7% | +46.3% | 1.9% |
+| Ty Jerome PR under 27.5 | MEM @ POR | draftkings | 1.88 | 1.29 | 77.3% | 49.6% | 56.5% | +6.5% | +45.7% | 1.8% |
+| Cameron Boozer PTS under 15.5 | MEM @ POR | draftkings | 1.98 | 1.37 | 73.0% | 47.2% | 53.6% | +6.2% | +44.6% | 1.6% |
+| Ty Jerome PTS under 24.5 | MEM @ POR | draftkings | 1.83 | 1.27 | 78.7% | 51.0% | 57.9% | +6.2% | +44.3% | 1.8% |
 | Domantas Sabonis AST under 6.5 | SAC @ NOP | draftkings | 1.90 | 1.34 | 74.6% | 49.2% | 55.5% | +5.5% | +41.8% | 1.5% |
 | Cedric Coward PR under 19.5 | MEM @ POR | draftkings | 1.83 | 1.31 | 76.3% | 51.0% | 57.3% | +5.1% | +40.0% | 1.5% |
-| Cameron Boozer PTS under 16.5 | MEM @ POR | draftkings | 1.79 | 1.28 | 77.8% | 52.1% | 58.5% | +5.0% | +39.6% | 1.6% |
 
 ## Projections
 
@@ -78,7 +78,7 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CLE @ ATL | Fri 30 Oct 11:00 | 114.9–115.4 | CLE 48% | 2.08 / 1.93 | ATL -1.5 | 230.5 | ATL -1.5 covers 49%; o237.5 35% |
 | SAC @ NOP | Fri 30 Oct 11:00 | 116.0–124.5 | SAC 27% | 3.65 / 1.38 | NOP -8.5 | 240.5 | NOP -5.5 covers 59%; o236.5 58% |
-| MEM @ POR | Fri 30 Oct 13:00 | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o234.5 40% |
+| MEM @ POR | Fri 30 Oct 13:00 | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o233.5 42% |
 
 ### CLE @ ATL
 Out: Mouhamed Gueye (ATL)
@@ -223,22 +223,23 @@ Out: Shaedon Sharpe (POR)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jrue Holiday REB over 3.5 | MEM @ POR | draftkings | 1.99 | 1.65 | 60.7% | 47.3% | 50.6% | +0.8% | +20.8% | 0.2% |
-| Jrue Holiday PRA over 20.5 | MEM @ POR | draftkings | 1.96 | 1.62 | 61.6% | 47.8% | 51.2% | +0.5% | +20.8% | 0.1% |
+| Ty Jerome AST under 5.5 | MEM @ POR | draftkings | 2.07 | 1.67 | 59.9% | 45.1% | 48.8% | +1.1% | +24.0% | 0.3% |
+| Jrue Holiday REB over 3.5 | MEM @ POR | draftkings | 1.99 | 1.65 | 60.7% | 47.2% | 50.6% | +0.6% | +20.8% | 0.2% |
+| Jrue Holiday PRA over 20.5 | MEM @ POR | draftkings | 1.97 | 1.62 | 61.6% | 47.5% | 51.0% | +0.6% | +21.4% | 0.2% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Jrue Holiday 3+ ast **+** Toumani Camara 6+ pts **+** Ja Morant 4+ ast | 53.4% | 1.87 | 1.97 | 1.62 | -13.3% |
-| Ty Jerome 3pm under 2.5 **+** Deni Avdija 3+ reb | 52.6% | 1.90 | 2.00 | 1.80 | -5.5% |
-| Ty Jerome pra under 34.5 **+** Toumani Camara 6+ pts | 48.4% | 2.07 | 2.17 | 2.07 | +0.3% |
-| Ty Jerome pr under 27.5 **+** Jrue Holiday 3+ ast | 42.2% | 2.37 | 2.49 | 2.43 | +2.4% |
+| Ty Jerome 3pm under 2.5 **+** Deni Avdija 3+ reb | 52.6% | 1.90 | 1.99 | 1.79 | -5.6% |
+| Ty Jerome pra under 33.5 **+** Deni Avdija 3+ reb | 50.1% | 2.00 | 2.10 | 2.00 | +0.1% |
+| Ty Jerome pra under 33.5 **+** Jrue Holiday 3+ ast | 42.1% | 2.38 | 2.50 | 2.44 | +2.5% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o234.5 40% |
-| Expected (weighted by chance each plays) | 110.2–120.0 | MEM 24% | 4.21 / 1.31 | POR -9.5 | 230.5 | POR -7.5 covers 56%; o234.5 40% |
+| Confirmed players only | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o233.5 42% |
+| Expected (weighted by chance each plays) | 110.2–120.0 | MEM 24% | 4.21 / 1.31 | POR -9.5 | 230.5 | POR -7.5 covers 56%; o233.5 42% |
 
 **Questionable players: chance to play, and their projection if they do**
 
