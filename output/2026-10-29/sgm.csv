@@ -1,14 +1,30 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAC @ NOP,Domantas Sabonis ast under 6.5 + Precious Achiuwa 6+ pts,2,0.6536,0.4586,2.18,2.29,2.19,0.0041,0.998,2.10-2.50
-SAC @ NOP,Domantas Sabonis ast under 6.5 + Trey Murphy III 2+ 3pm,2,0.5863,0.4153,2.41,2.53,2.41,0.0026,1.0,2.10-2.50
-SAC @ NOP,Domantas Sabonis ast under 6.5 + Jeremiah Fears 8+ pts,2,0.5698,0.411,2.43,2.55,2.42,-0.004,0.999,2.10-2.50
-SAC @ NOP,Domantas Sabonis ast under 6.5 + Precious Achiuwa 10+ pra,2,0.6862,0.4958,2.02,2.12,2.01,-0.0053,0.998,1.85-2.10
-SAC @ NOP,Domantas Sabonis ra under 20.5 + Precious Achiuwa 10+ pra,2,0.627,0.4755,2.1,2.21,2.04,-0.0279,0.997,1.85-2.10
-SAC @ NOP,NOP win + Trey Murphy III 2+ 3pm,2,0.6194,0.5018,1.99,2.09,1.89,-0.052,1.017,1.85-2.10
-SAC @ NOP,NOP win + Domantas Sabonis 6+ reb,2,0.7124,0.5894,1.7,1.78,1.57,-0.0747,1.0,1.50-1.65
-SAC @ NOP,NOP win + Precious Achiuwa 10+ pra,2,0.711,0.5875,1.7,1.79,1.57,-0.0777,0.996,1.50-1.65
-SAC @ NOP,NOP win + Domantas Sabonis 8+ pts,2,0.6918,0.5693,1.76,1.84,1.62,-0.0795,0.993,1.50-1.65
-SAC @ NOP,NOP win + Domantas Sabonis 6+ reb + Jeremiah Fears 6+ pts,3,0.6313,0.5078,1.97,2.07,1.73,-0.1214,1.006,1.65-1.85
-SAC @ NOP,NOP win + Precious Achiuwa 6+ pts + Domantas Sabonis 6+ reb,3,0.6357,0.495,2.02,2.12,1.77,-0.1246,0.991,1.65-1.85
-SAC @ NOP,NOP win + Precious Achiuwa 10+ pra + Jeremiah Fears 6+ pts,3,0.6288,0.5052,1.98,2.08,1.73,-0.1259,1.001,1.65-1.85
-MEM @ POR,POR win + game over 232.5,2,0.3432,0.3789,2.64,2.77,2.46,-0.0671,1.009,2.10-2.50
+CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 1+ 3pm,2,0.6462,0.4827,2.07,2.18,2.03,-0.0199,0.999,1.85-2.10
+CLE @ ATL,Jalen Johnson pra under 39.5 + Donovan Mitchell 12+ pts,2,0.6579,0.4951,2.02,2.12,1.97,-0.0234,0.998,1.85-2.10
+CLE @ ATL,Jalen Johnson pr under 31.5 + Donovan Mitchell 1+ 3pm,2,0.6166,0.467,2.14,2.25,2.08,-0.0274,0.998,1.85-2.10
+CLE @ ATL,Jalen Johnson pts under 21.5 + Donovan Mitchell 1+ 3pm,2,0.5752,0.4511,2.22,2.33,2.12,-0.0433,0.998,2.10-2.50
+CLE @ ATL,Evan Mobley ra under 12.5 + Donovan Mitchell 1+ 3pm,2,0.53,0.4455,2.24,2.36,2.1,-0.0638,1.003,2.10-2.50
+CLE @ ATL,Jalen Johnson ast under 7.5 + Donovan Mitchell 12+ pts,2,0.6103,0.5072,1.97,2.07,1.84,-0.0657,0.999,1.65-1.85
+SAC @ NOP,Domantas Sabonis ast under 6.5 + Trey Murphy III 2+ 3pm,2,0.5863,0.4084,2.45,2.57,2.47,0.0087,1.0,2.10-2.50
+SAC @ NOP,Domantas Sabonis ast under 6.5 + Precious Achiuwa 6+ pts,2,0.6536,0.4609,2.17,2.28,2.17,0.0023,0.998,2.10-2.50
+SAC @ NOP,Domantas Sabonis ast under 6.5 + Jeremiah Fears 8+ pts,2,0.5698,0.4069,2.46,2.58,2.46,-0.0005,0.999,2.10-2.50
+SAC @ NOP,Zach LaVine pa under 26.5 + Precious Achiuwa 6+ pts,2,0.6008,0.4677,2.14,2.24,2.04,-0.0441,0.997,1.85-2.10
+SAC @ NOP,NOP win + Trey Murphy III 2+ 3pm,2,0.6194,0.4934,2.03,2.13,1.93,-0.0462,1.017,1.85-2.10
+SAC @ NOP,Zach LaVine pra under 29.5 + Jeremiah Fears 6+ pts,2,0.5746,0.4547,2.2,2.31,2.1,-0.0467,0.999,1.85-2.10
+SAC @ NOP,De'Andre Hunter reb under 5.5 + Precious Achiuwa 6+ pts,2,0.6076,0.5042,1.98,2.08,1.85,-0.0694,0.996,1.65-1.85
+SAC @ NOP,De'Andre Hunter reb under 5.5 + Domantas Sabonis 20+ pra,2,0.6338,0.5338,1.87,1.97,1.74,-0.0713,1.0,1.65-1.85
+SAC @ NOP,NOP win + Domantas Sabonis 6+ reb,2,0.7124,0.5879,1.7,1.79,1.58,-0.0739,1.0,1.50-1.65
+SAC @ NOP,De'Andre Hunter reb under 5.5 + Domantas Sabonis 6+ reb,2,0.6378,0.5417,1.85,1.94,1.71,-0.0747,0.999,1.65-1.85
+SAC @ NOP,NOP win + Domantas Sabonis 20+ pra,2,0.7046,0.5767,1.73,1.82,1.6,-0.0748,0.996,1.50-1.65
+SAC @ NOP,NOP win + Domantas Sabonis 8+ pts,2,0.6918,0.5702,1.75,1.84,1.61,-0.0799,0.993,1.50-1.65
+MEM @ POR,Ty Jerome pr under 27.5 + Jrue Holiday 3+ ast,2,0.6295,0.4248,2.35,2.47,2.4,0.0212,0.998,2.10-2.50
+MEM @ POR,Ty Jerome pa under 30.5 + Jrue Holiday 3+ ast,2,0.6401,0.4321,2.31,2.43,2.36,0.0211,0.998,2.10-2.50
+MEM @ POR,Ty Jerome pts under 24.5 + Jrue Holiday 3+ ast,2,0.6417,0.4361,2.29,2.41,2.33,0.0181,0.999,2.10-2.50
+MEM @ POR,Ty Jerome pra under 34.5 + Jrue Holiday 1+ 3pm,2,0.6764,0.4789,2.09,2.19,2.1,0.0033,0.999,1.85-2.10
+MEM @ POR,Ty Jerome pra under 34.5 + Toumani Camara 6+ pts,2,0.6839,0.4836,2.07,2.17,2.07,0.0032,0.998,1.85-2.10
+MEM @ POR,Cedric Coward pts under 12.5 + Deni Avdija 3+ reb,2,0.6681,0.4791,2.09,2.19,2.09,0.0015,1.0,1.85-2.10
+MEM @ POR,Ty Jerome 3pm under 2.5 + Deni Avdija 3+ reb,2,0.6469,0.5253,1.9,2.0,1.8,-0.0549,1.001,1.65-1.85
+MEM @ POR,Ty Jerome 3pm under 2.5 + Deni Avdija 3+ ast,2,0.6284,0.5116,1.95,2.05,1.85,-0.0561,1.0,1.65-1.85
+MEM @ POR,Jrue Holiday 3+ ast + Toumani Camara 6+ pts + Ja Morant 4+ ast,3,0.6268,0.5383,1.86,1.95,1.61,-0.1358,1.004,1.50-1.65
+MEM @ POR,Jrue Holiday 3+ ast + Toumani Camara 6+ pts + Deni Avdija 3+ ast,3,0.6602,0.5689,1.76,1.85,1.51,-0.139,1.001,1.50-1.65
+MEM @ POR,Jrue Holiday 3+ ast + Ja Morant 4+ ast + Deni Avdija 3+ ast,3,0.6395,0.5648,1.77,1.86,1.51,-0.1453,1.003,1.50-1.65
