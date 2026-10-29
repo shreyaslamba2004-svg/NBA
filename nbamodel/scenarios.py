@@ -16,6 +16,7 @@ import itertools
 
 import numpy as np
 import pandas as pd
+from .dataset import mates_basis
 
 MAYBE = {"questionable", "doubtful", "day-to-day", "game time decision", "gtd"}
 MAX_EXACT = 4          # maybes per game handled as explicit in/out combinations
@@ -60,10 +61,11 @@ def switch_in(Pg: pd.DataFrame, Gg: pd.DataFrame, r: dict) -> tuple[pd.DataFrame
             Gg[f"{side}_{c}"] += v
     mates = own & (Pg["player_id"] != r["player_id"])
     m = float(np.nan_to_num(r.get("min_s", 0.0)))
+    mb = float(mates_basis(pd.DataFrame([r])).iloc[0]) if {"min_season_s", "season_gp"} <= set(r) else m
     if "mates_min" in Pg:
-        Pg.loc[mates, "mates_min"] += m
+        Pg.loc[mates, "mates_min"] += mb
     if "mates_usage" in Pg:
-        Pg.loc[mates, "mates_usage"] += m * float(np.nan_to_num(r.get("usage_r_s", 0.0)))
+        Pg.loc[mates, "mates_usage"] += mb * float(np.nan_to_num(r.get("usage_r_s", 0.0)))
     if "vac_min_same_pos" in Pg and r.get("pos") in ("G", "F", "C"):
         Pg.loc[own & (Pg["pos"] == r["pos"]), "vac_min_same_pos"] -= m
     if "vac_min_share" in Pg:

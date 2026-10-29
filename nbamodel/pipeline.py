@@ -10,7 +10,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from .dataset import DATA, build, load_history, read_store, write_store
+from .dataset import DATA, build, load_history, mates_basis, read_store, write_store
 from .models import SIM_STATS, predict_team, Bundle, predict_minutes, predict_rates
 from . import rotation, edges as E
 from . import bookie, scenarios as SC, sgm
@@ -147,7 +147,7 @@ def _expected_mates(tP: pd.DataFrame) -> pd.DataFrame:
     tP = tP.copy()
     here = (tP["avail_prob"] >= 0.5) & ~tP["maybe"]
     w = np.where(here, tP["rotation_prob"].fillna(0), 0.0)
-    ms, us = tP["min_s"].fillna(0).values, tP["usage_r_s"].fillna(0).values
+    ms, us = mates_basis(tP).values, tP["usage_r_s"].fillna(0).values
     key = [tP["game_id"], tP["team"]]
     mu = pd.Series(w * ms, index=tP.index).groupby(key).transform("sum")
     uu = pd.Series(w * ms * us, index=tP.index).groupby(key).transform("sum")

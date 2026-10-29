@@ -92,6 +92,14 @@ REP_RETURN_GAMES = 5   # first games back from a long absence (often on a minute
 REP_BLOWOUT = 25       # final margin at/above which starters sit and benches play
 
 
+def mates_basis(d: pd.DataFrame) -> pd.Series:
+    """A teammate's current claim on minutes: this season's form once his team has played 3 games,
+    else his longer form. Last season's roles overstated how crowded a reshuffled roster is
+    (live-like backtest, 2025-26: minutes MAE 4.514 -> 4.505, first 10 games 4.474 -> 4.437)."""
+    season = d["min_season_s"].fillna(d["min_s"])
+    return pd.Series(np.where(d["season_gp"].fillna(0) >= 3, season, d["min_s"]), index=d.index).fillna(0)
+
+
 def add_rep_history(pf: pd.DataFrame, games: pd.DataFrame) -> None:
     """Representative-history features (in place).
 
@@ -211,13 +219,6 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     # shots the other available players already claim (low = room for a bigger role)
     stint = (pf["team"] != prev_team).groupby(pf["player_id"]).cumsum()
     pf["gp_team"] = pf.groupby([pf["player_id"], stint]).cumcount()
-    present = pf[(pf["min"].fillna(0) > 0) | (pf["is_target"] & (pf.get("play_prob", 1) >= 0.5))]
-    tot = present.assign(mu=present["min_s"].fillna(0),
-                         uu=present["min_s"].fillna(0) * present["usage_r_s"].fillna(0)
-                         ).groupby(["game_id", "team"])[["mu", "uu"]].sum()
-    key = pd.MultiIndex.from_frame(pf[["game_id", "team"]])
-    pf["mates_min"] = tot["mu"].reindex(key).values - pf["min_s"].fillna(0).values
-    pf["mates_usage"] = tot["uu"].reindex(key).values - (pf["min_s"].fillna(0) * pf["usage_r_s"].fillna(0)).values
     # --- comeback from long absences: days since last game (uncapped) and games since return
     pf["days_out"] = (pf["game_date"] - pf.groupby("player_id")["game_date"].shift(1)).dt.days.fillna(0)
     same_season = pf["season"] == pf.groupby("player_id")["season"].shift(1)
@@ -241,6 +242,14 @@ def build(pg: pd.DataFrame, games: pd.DataFrame, slate: pd.DataFrame | None = No
     sched = ["rest_days", "b2b", "g_last4d", "g_last6d", "g_last7d"]  # player's own versions take precedence
     P = pf.merge(ctx[[c for c in keep if c not in sched]], on=["game_id", "team"], how="inner")
     P["net_diff"] = P["net_l"] - P["opp_net_l"]
+    # teammates' claim on minutes and shots (live, pipeline._expected_mates re-weights by chance to play)
+    present = P[(P["min"].fillna(0) > 0) | (P["is_target"] & (P.get("play_prob", 1) >= 0.5))]
+    b_ = mates_basis(present)
+    tot = present.assign(mu=b_, uu=b_ * present["usage_r_s"].fillna(0)).groupby(["game_id", "team"])[["mu", "uu"]].sum()
+    key = pd.MultiIndex.from_frame(P[["game_id", "team"]])
+    own = mates_basis(P)
+    P["mates_min"] = tot["mu"].reindex(key).values - own.values
+    P["mates_usage"] = tot["uu"].reindex(key).values - (own * P["usage_r_s"].fillna(0)).values
     P["arch"] = assign_archetypes(P, MODELS / "archetypes.pkl")
     P = P.merge(archetype_defense(P), on=["game_id", "opp", "arch"], how="left")
     # listed position (G/F/C); players never listed get their player type's most common position
