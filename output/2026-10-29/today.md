@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 04:36 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 04:51 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -10,7 +10,9 @@ All automatic checks passed (team minutes, player minutes vs recent games, team 
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price, and use the Fair column as your minimum odds.
 
-_No bets clear the edge threshold right now._
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Robert Williams III REB over 8.5 | MEM @ POR | draftkings | 3.57 | 2.48 | 40.4% | 26.2% | 29.7% | +6.2% | +44.2% | 0.6% |
 
 ## Best same-game multis by price (1.50 to 2.50)
 
@@ -18,33 +20,33 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.4% | 1.66 | 1.74 | 1.54 | -6.8% |
-| Damian Lillard 3+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 61.3% | 1.63 | 1.71 | 1.51 | -7.6% |
-| Damian Lillard 3+ ast **+** Donovan Clingan 6+ pts | MEM @ POR | 61.4% | 1.63 | 1.71 | 1.50 | -7.8% |
+| Sam Merrill 3pm under 2.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 60.6% | 1.65 | 1.73 | 1.62 | -1.7% |
+| NOP win **+** Domantas Sabonis 8+ reb | SAC @ NOP | 58.3% | 1.72 | 1.80 | 1.60 | -6.8% |
+| NOP win **+** Domantas Sabonis 20+ pra | SAC @ NOP | 60.6% | 1.65 | 1.73 | 1.54 | -6.9% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 55.6% | 1.80 | 1.89 | 1.79 | -0.6% |
-| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 12+ pts | CLE @ ATL | 59.2% | 1.69 | 1.77 | 1.66 | -1.5% |
-| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 58.6% | 1.71 | 1.79 | 1.68 | -1.5% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 12+ pts | CLE @ ATL | 59.2% | 1.69 | 1.77 | 1.67 | -1.4% |
+| Sam Merrill 3pm under 2.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 58.7% | 1.70 | 1.79 | 1.68 | -1.5% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | CLE @ ATL | 50.3% | 1.99 | 2.09 | 1.96 | -1.5% |
-| Sam Merrill 3pm under 2.5 **+** Nickeil Alexander-Walker 2+ 3pm | CLE @ ATL | 50.8% | 1.97 | 2.07 | 1.94 | -1.6% |
-| Cedric Coward pr under 19.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 46.6% | 2.15 | 2.25 | 2.10 | -2.3% |
+| Damian Lillard pts under 20.5 **+** Deni Avdija 3+ ast | MEM @ POR | 48.5% | 2.06 | 2.16 | 2.04 | -0.8% |
+| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | CLE @ ATL | 50.0% | 2.00 | 2.10 | 1.97 | -1.2% |
+| Jrue Holiday 8+ ra **+** Ja Morant 4+ ast | MEM @ POR | 47.2% | 2.12 | 2.23 | 2.09 | -1.3% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Ty Jerome pr under 27.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.1% | 2.44 | 2.56 | 2.47 | +1.4% |
-| Damian Lillard pts under 20.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.7% | 2.40 | 2.52 | 2.43 | +1.2% |
-| Ty Jerome pa under 30.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 42.1% | 2.37 | 2.49 | 2.39 | +0.9% |
+| Cedric Coward pts under 12.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 40.5% | 2.47 | 2.59 | 2.50 | +1.3% |
+| Damian Lillard pts under 20.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.8% | 2.39 | 2.51 | 2.42 | +1.1% |
+| Ty Jerome pra under 33.5 **+** Jrue Holiday 3+ ast | MEM @ POR | 41.4% | 2.42 | 2.54 | 2.43 | +0.6% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -54,9 +56,8 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.92 | 2.38 | 42.0% | 23.8% | 28.4% | +11.3% | +64.7% | 1.0% |
-| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.66 | 2.41 | 41.5% | 25.5% | 29.5% | +8.1% | +51.9% | 0.8% |
-| Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.91 | 2.07 | 48.3% | 32.1% | 36.2% | +5.3% | +40.7% | 0.7% |
+| Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.90 | 2.38 | 42.0% | 24.0% | 28.5% | +11.1% | +63.9% | 0.9% |
+| Precious Achiuwa PTS over 14.5 | SAC @ NOP | draftkings | 3.61 | 2.41 | 41.5% | 25.9% | 29.8% | +7.6% | +49.9% | 0.7% |
 
 ## Projections
 
@@ -78,15 +79,14 @@ Out: Mouhamed Gueye (ATL)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jalen Johnson PA under 29.5 | CLE @ ATL | draftkings | 1.93 | 1.59 | 62.7% | 48.5% | 52.1% | +0.3% | +20.9% | 0.1% |
-| Evan Mobley AST under 3.5 | CLE @ ATL | draftkings | 2.10 | 1.74 | 57.5% | 44.5% | 47.8% | +0.3% | +20.8% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Jalen Johnson 1+ 3pm **+** Nickeil Alexander-Walker 2+ 3pm | 59.3% | 1.69 | 1.77 | 1.52 | -9.8% |
+| Sam Merrill 3pm under 2.5 **+** Evan Mobley 4+ reb | 60.6% | 1.65 | 1.73 | 1.62 | -1.7% |
 | Sam Merrill 3pm under 2.5 **+** Onyeka Okongwu 6+ pts | 55.6% | 1.80 | 1.89 | 1.79 | -0.6% |
-| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | 50.3% | 1.99 | 2.09 | 1.96 | -1.5% |
+| Sam Merrill 3pm under 2.5 **+** Jalen Johnson 1+ 3pm | 50.0% | 2.00 | 2.10 | 1.97 | -1.2% |
 | Jalen Johnson pra under 39.5 **+** Onyeka Okongwu 6+ pts | 44.6% | 2.24 | 2.35 | 2.16 | -3.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
@@ -186,17 +186,17 @@ Out: Yves Missi (NOP), Dylan Cardwell (SAC), Keegan Murray (SAC), Maxime Raynaud
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Precious Achiuwa PR over 18.5 | SAC @ NOP | draftkings | 1.83 | 1.52 | 65.9% | 51.0% | 54.7% | +0.3% | +20.8% | 0.1% |
-| Darius Acuff Jr. PA under 28.5 | SAC @ NOP | draftkings | 1.81 | 1.50 | 66.5% | 51.5% | 55.3% | +0.2% | +20.5% | 0.1% |
+| Precious Achiuwa PR over 18.5 | SAC @ NOP | draftkings | 1.83 | 1.52 | 65.9% | 51.4% | 55.0% | +0.9% | +20.8% | 0.3% |
+| Darius Acuff Jr. PA under 28.5 | SAC @ NOP | draftkings | 1.81 | 1.50 | 66.5% | 51.7% | 55.4% | +0.1% | +20.1% | 0.0% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| NOP win **+** Domantas Sabonis 20+ pra | 60.4% | 1.66 | 1.74 | 1.54 | -6.8% |
-| NOP win **+** Jeremiah Fears 8+ pts | 53.2% | 1.88 | 1.98 | 1.78 | -5.2% |
-| Precious Achiuwa 19+ pr **+** Domantas Sabonis 25+ pra | 47.4% | 2.11 | 2.22 | 2.04 | -3.5% |
-| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 41.3% | 2.42 | 2.54 | 2.39 | -1.3% |
+| NOP win **+** Domantas Sabonis 8+ reb | 58.3% | 1.72 | 1.80 | 1.60 | -6.8% |
+| NOP win **+** Jeremiah Fears 8+ pts | 53.0% | 1.89 | 1.98 | 1.79 | -5.1% |
+| Precious Achiuwa 11+ pts **+** Domantas Sabonis 25+ pra | 47.0% | 2.13 | 2.23 | 2.10 | -1.4% |
+| Precious Achiuwa 11+ pts **+** Trey Murphy III 2+ 3pm | 41.5% | 2.41 | 2.53 | 2.38 | -1.5% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -260,17 +260,17 @@ Out: Shaedon Sharpe (POR)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Damian Lillard 3PM under 2.5 | MEM @ POR | draftkings | 2.22 | 1.76 | 56.7% | 42.1% | 45.8% | +1.6% | +25.9% | 0.3% |
-| Damian Lillard AST over 4.5 | MEM @ POR | draftkings | 2.22 | 1.80 | 55.5% | 42.3% | 45.6% | +1.2% | +23.2% | 0.2% |
-| Jrue Holiday PRA over 20.5 | MEM @ POR | draftkings | 1.96 | 1.60 | 62.3% | 47.6% | 51.3% | +0.7% | +22.3% | 0.2% |
+| Damian Lillard AST over 4.5 | MEM @ POR | draftkings | 2.20 | 1.80 | 55.5% | 42.5% | 45.7% | +0.6% | +22.1% | 0.1% |
+| Jrue Holiday PRA over 20.5 | MEM @ POR | draftkings | 1.93 | 1.60 | 62.3% | 48.7% | 52.1% | +0.4% | +20.1% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Damian Lillard 3+ ast **+** Deni Avdija 5+ reb | 61.3% | 1.63 | 1.71 | 1.51 | -7.6% |
-| Damian Lillard 3+ ast **+** Deni Avdija 4+ ast **+** Donovan Clingan 6+ pts | 49.4% | 2.03 | 2.13 | 1.80 | -11.2% |
-| Cedric Coward pr under 19.5 **+** Jrue Holiday 1+ 3pm | 46.6% | 2.15 | 2.25 | 2.10 | -2.3% |
-| Ty Jerome pr under 27.5 **+** Jrue Holiday 3+ ast | 41.1% | 2.44 | 2.56 | 2.47 | +1.4% |
+| Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm **+** Deni Avdija 4+ ast | 53.4% | 1.87 | 1.96 | 1.65 | -11.9% |
+| Deni Avdija 5+ reb **+** Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm | 51.9% | 1.93 | 2.02 | 1.70 | -11.8% |
+| Damian Lillard pts under 20.5 **+** Deni Avdija 3+ ast | 48.5% | 2.06 | 2.16 | 2.04 | -0.8% |
+| Cedric Coward pts under 12.5 **+** Jrue Holiday 3+ ast | 40.5% | 2.47 | 2.59 | 2.50 | +1.3% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
