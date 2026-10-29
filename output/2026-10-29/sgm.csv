@@ -11,9 +11,13 @@ CLE @ ATL,Jalen Johnson 1+ 3pm + Onyeka Okongwu 6+ pts + James Harden 3+ reb,3,0
 CLE @ ATL,Jalen Johnson 1+ 3pm + James Harden 3+ reb + Evan Mobley 5+ reb,3,0.5877,0.5163,1.94,2.03,1.66,-0.1438,1.003,1.65-1.85
 CLE @ ATL,Jalen Johnson 1+ 3pm + Donovan Mitchell 3+ reb + James Harden 3+ reb,3,0.5514,0.4817,2.08,2.18,1.78,-0.1445,1.001,1.65-1.85
 CLE @ ATL,Jalen Johnson 1+ 3pm + Onyeka Okongwu 6+ pts + Evan Mobley 5+ reb,3,0.6375,0.5596,1.79,1.88,1.53,-0.1449,1.002,1.50-1.65
-MEM @ POR,Cedric Coward pts under 13.5 + Donovan Clingan 6+ pts,2,0.6115,0.4266,2.34,2.46,2.38,0.0142,0.997,2.10-2.50
-MEM @ POR,Cedric Coward 3pm under 1.5 + POR win,2,0.5559,0.4144,2.41,2.53,2.44,0.0098,1.017,2.10-2.50
-MEM @ POR,Damian Lillard pts under 20.5 + Donovan Clingan 6+ pts,2,0.5842,0.4243,2.36,2.47,2.34,-0.0092,0.995,2.10-2.50
-MEM @ POR,Damian Lillard 3pm under 3.5 + Donovan Clingan 6+ pts,2,0.6185,0.4896,2.04,2.14,1.95,-0.0468,0.998,1.85-2.10
-MEM @ POR,Ty Jerome 3pm under 2.5 + Donovan Clingan 6+ pts,2,0.5471,0.4604,2.17,2.28,2.02,-0.0688,1.001,1.85-2.10
-MEM @ POR,POR win + Donovan Clingan 6+ pts,2,0.6049,0.5512,1.81,1.9,1.68,-0.0714,1.012,1.65-1.85
+MEM @ POR,Cedric Coward pts under 13.5 + Deni Avdija 3+ reb,2,0.723,0.5039,1.98,2.08,2.01,0.0128,0.997,1.85-2.10
+MEM @ POR,Cedric Coward pts under 13.5 + Donovan Clingan 6+ pts,2,0.6115,0.4288,2.33,2.45,2.36,0.0114,0.997,2.10-2.50
+MEM @ POR,Cedric Coward 3pm under 1.5 + POR win,2,0.5559,0.4218,2.37,2.49,2.38,0.0019,1.017,2.10-2.50
+MEM @ POR,Damian Lillard pts under 20.5 + POR win,2,0.5589,0.4006,2.5,2.62,2.47,-0.0103,0.979,2.10-2.50
+MEM @ POR,Ty Jerome pts under 23.5 + Deni Avdija 3+ reb,2,0.6708,0.4973,2.01,2.11,1.98,-0.0177,0.998,1.85-2.10
+MEM @ POR,Damian Lillard pts under 20.5 + Deni Avdija 4+ reb,2,0.6445,0.4858,2.06,2.16,2.02,-0.0198,1.004,1.85-2.10
+MEM @ POR,Cedric Coward 3pm under 1.5 + Deni Avdija 3+ reb,2,0.6639,0.5286,1.89,1.99,1.8,-0.0488,0.999,1.65-1.85
+MEM @ POR,Jerami Grant 3pm under 1.5 + Deni Avdija 3+ reb,2,0.6579,0.5536,1.81,1.9,1.68,-0.0679,0.999,1.65-1.85
+MEM @ POR,Toumani Camara 3pm under 2.5 + Deni Avdija 3+ reb,2,0.6277,0.5265,1.9,1.99,1.77,-0.069,1.0,1.65-1.85
+MEM @ POR,POR win + Deni Avdija 4+ reb,2,0.6524,0.5917,1.69,1.77,1.55,-0.0831,0.998,1.50-1.65

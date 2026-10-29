@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Thu 29 Oct, 03:32 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
+Updated **Thu 29 Oct, 03:42 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside.
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
@@ -14,33 +14,33 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
+| POR win **+** Deni Avdija 4+ reb | MEM @ POR | 59.2% | 1.69 | 1.77 | 1.55 | -8.3% |
 | Jalen Johnson 1+ 3pm **+** James Harden 3+ reb | CLE @ ATL | 58.8% | 1.70 | 1.78 | 1.53 | -9.8% |
 | Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** Donovan Mitchell 3+ reb | CLE @ ATL | 52.4% | 1.91 | 2.00 | 1.64 | -14.2% |
-| Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** Evan Mobley 5+ reb | CLE @ ATL | 56.0% | 1.79 | 1.88 | 1.53 | -14.5% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| POR win **+** Donovan Clingan 6+ pts | MEM @ POR | 55.1% | 1.81 | 1.90 | 1.68 | -7.1% |
-| Jalen Johnson 1+ 3pm **+** Onyeka Okongwu 6+ pts **+** James Harden 3+ reb | CLE @ ATL | 50.1% | 1.99 | 2.09 | 1.71 | -14.3% |
-| Jalen Johnson 1+ 3pm **+** James Harden 3+ reb **+** Evan Mobley 5+ reb | CLE @ ATL | 51.6% | 1.94 | 2.03 | 1.66 | -14.4% |
+| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | MEM @ POR | 52.9% | 1.89 | 1.99 | 1.80 | -4.9% |
+| Jerami Grant 3pm under 1.5 **+** Deni Avdija 3+ reb | MEM @ POR | 55.4% | 1.81 | 1.90 | 1.68 | -6.8% |
+| Toumani Camara 3pm under 2.5 **+** Deni Avdija 3+ reb | MEM @ POR | 52.6% | 1.90 | 1.99 | 1.77 | -6.9% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson pra under 39.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 50.2% | 1.99 | 2.09 | 1.95 | -2.2% |
-| Jalen Johnson pra under 39.5 **+** Peyton Watson 6+ pts | CLE @ ATL | 48.5% | 2.06 | 2.16 | 2.01 | -2.6% |
-| Jalen Johnson pr under 32.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 47.5% | 2.11 | 2.21 | 2.05 | -2.6% |
+| Cedric Coward pts under 13.5 **+** Deni Avdija 3+ reb | MEM @ POR | 50.4% | 1.98 | 2.08 | 2.01 | +1.3% |
+| Ty Jerome pts under 23.5 **+** Deni Avdija 3+ reb | MEM @ POR | 49.7% | 2.01 | 2.11 | 1.98 | -1.8% |
+| Damian Lillard pts under 20.5 **+** Deni Avdija 4+ reb | MEM @ POR | 48.6% | 2.06 | 2.16 | 2.02 | -2.0% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 42.7% | 2.34 | 2.46 | 2.38 | +1.4% |
-| Cedric Coward 3pm under 1.5 **+** POR win | MEM @ POR | 41.4% | 2.41 | 2.53 | 2.44 | +1.0% |
-| Damian Lillard pts under 20.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 42.4% | 2.36 | 2.47 | 2.34 | -0.9% |
+| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | MEM @ POR | 42.9% | 2.33 | 2.45 | 2.36 | +1.1% |
+| Cedric Coward 3pm under 1.5 **+** POR win | MEM @ POR | 42.2% | 2.37 | 2.49 | 2.38 | +0.2% |
+| Damian Lillard pts under 20.5 **+** POR win | MEM @ POR | 40.1% | 2.50 | 2.62 | 2.47 | -1.0% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -50,9 +50,9 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Cedric Coward PTS under 13.5 | MEM @ POR | draftkings | 1.94 | 1.27 | 78.6% | 48.1% | 55.7% | +8.3% | +52.8% | 2.0% |
-| Damian Lillard PTS under 20.5 | MEM @ POR | draftkings | 1.91 | 1.33 | 75.2% | 48.9% | 55.5% | +6.0% | +43.6% | 1.7% |
-| Ty Jerome PTS under 23.5 | MEM @ POR | draftkings | 1.87 | 1.34 | 74.5% | 50.4% | 56.5% | +5.5% | +39.4% | 1.6% |
+| Cedric Coward PTS under 13.5 | MEM @ POR | draftkings | 1.93 | 1.27 | 78.6% | 48.5% | 56.1% | +8.0% | +51.5% | 2.0% |
+| Cameron Boozer 3PM under 1.5 | MEM @ POR | draftkings | 2.16 | 1.51 | 66.4% | 43.3% | 49.0% | +5.9% | +43.4% | 1.3% |
+| Ty Jerome PTS under 23.5 | MEM @ POR | draftkings | 1.89 | 1.34 | 74.5% | 49.4% | 55.7% | +5.4% | +41.1% | 1.5% |
 
 ## Projections
 
@@ -64,7 +64,7 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CLE @ ATL | Fri 30 Oct 11:00 | 114.9–115.4 | CLE 48% | 2.08 / 1.93 | ATL -1.5 | 230.5 | ATL -1.5 covers 49%; o239.5 31% |
 | SAC @ NOP | Fri 30 Oct 11:00 | 116.0–124.5 | SAC 27% | 3.65 / 1.38 | NOP -8.5 | 240.5 | NOP -5.5 covers 59%; o237.5 56% |
-| MEM @ POR | Fri 30 Oct 13:00 | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o233.5 42% |
+| MEM @ POR | Fri 30 Oct 13:00 | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o234.5 40% |
 
 ### CLE @ ATL
 Out: Mouhamed Gueye (ATL)
@@ -193,14 +193,15 @@ Out: Shaedon Sharpe (POR)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| POR win **+** Donovan Clingan 6+ pts | 55.1% | 1.81 | 1.90 | 1.68 | -7.1% |
-| Damian Lillard 3pm under 3.5 **+** Donovan Clingan 6+ pts | 49.0% | 2.04 | 2.14 | 1.95 | -4.7% |
-| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | 42.7% | 2.34 | 2.46 | 2.38 | +1.4% |
+| POR win **+** Deni Avdija 4+ reb | 59.2% | 1.69 | 1.77 | 1.55 | -8.3% |
+| Cedric Coward 3pm under 1.5 **+** Deni Avdija 3+ reb | 52.9% | 1.89 | 1.99 | 1.80 | -4.9% |
+| Cedric Coward pts under 13.5 **+** Deni Avdija 3+ reb | 50.4% | 1.98 | 2.08 | 2.01 | +1.3% |
+| Cedric Coward pts under 13.5 **+** Donovan Clingan 6+ pts | 42.9% | 2.33 | 2.45 | 2.36 | +1.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o233.5 42% |
-| Expected (weighted by chance each plays) | 110.2–120.0 | MEM 24% | 4.21 / 1.31 | POR -9.5 | 230.5 | POR -7.5 covers 56%; o233.5 42% |
+| Confirmed players only | 110.2–119.5 | MEM 25% | 3.95 / 1.34 | POR -9.5 | 229.5 | POR -7.5 covers 55%; o234.5 40% |
+| Expected (weighted by chance each plays) | 110.2–120.0 | MEM 24% | 4.21 / 1.31 | POR -9.5 | 230.5 | POR -7.5 covers 56%; o234.5 40% |
 
 **Questionable players: chance to play, and their projection if they do**
 
