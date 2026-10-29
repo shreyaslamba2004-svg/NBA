@@ -196,16 +196,27 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
     tP["avail_prob"] = tP["play_prob"].fillna(0.0)
     tP["starter_today"] = tP["starting"]  # confirmed starters from late news, when known
     # healthy isn't the same as playing: the chance the coach uses him (see rotation.py)
-    tP["rotation_prob"] = rotation.prob(rotation.current_signal(pg, tP["player_id"].tolist(),
-                                                                season_label(day)).values)
+    # not on a single box score this season (not even a coach's-decision DNP) and not on the injury
+    # report: a two-way or end-of-bench player who hasn't dressed. Those team games count as games he
+    # didn't play (28 Oct: 9 such players at ~60% to play, none played; the two who did were on the
+    # injury report, i.e. returning from injury, and are left alone)
+    season = season_label(day)
+    cur = pg[pg["season"] == season]
+    team_games = cur.groupby("team")["game_id"].nunique()
+    seen = set(cur["player_id"])
+    off_report = tP["status"].isna() | (tP["status"].astype(str) == "Active")
+    unseen = {int(r.player_id): int(team_games.get(r.team, 0)) for r in tP[off_report].itertuples()
+              if r.player_id not in seen and team_games.get(r.team, 0) >= 2}
+    tP["rotation_prob"] = rotation.prob(rotation.current_signal(pg, tP["player_id"].tolist(), season,
+                                                                unseen).values)
     # no NBA games yet (rookies, injured before debut): prior from draft slot
     tP["rookie_min"] = np.nan
-    seen = set(pg["player_id"])
+    seen_any = set(pg["player_id"])
     for i in tP.index[tP["gp"].fillna(0) == 0]:
         pid = int(tP.at[i, "player_id"])
         pick = espn.draft_pick(pid - espn.SYNTH) if pid >= espn.SYNTH else None
         mins, rot = rookie_prior(pick)
-        if pid in seen:  # already on a box score as a coach's-decision DNP: that counts too
+        if pid in seen_any or pid in unseen:  # coach's-decision DNPs or undressed games count too
             rot = min(rot, tP.at[i, "rotation_prob"])
         tP.at[i, "rookie_min"], tP.at[i, "rotation_prob"] = mins, rot
     tP.loc[tP["starting"] == 1, "rotation_prob"] = 1.0

@@ -49,12 +49,18 @@ def history_signal(pg: pd.DataFrame) -> pd.DataFrame:
     return d
 
 
-def current_signal(pg: pd.DataFrame, player_ids, season: str | None = None) -> pd.Series:
-    """Signal for each player's next game (in `season`, default the latest in pg), from his full history."""
+def current_signal(pg: pd.DataFrame, player_ids, season: str | None = None,
+                   unseen: dict | None = None) -> pd.Series:
+    """Signal for each player's next game (in `season`, default the latest in pg), from his full history.
+    unseen: {player_id: n} team games this season he wasn't on the box score at all (not dressed),
+    counted as games he didn't play."""
     d = pg[pg["player_id"].isin(player_ids)].sort_values(["player_id", "game_date"])
     d = d[["player_id", "season", "game_date", "min"]].copy()
     d["played"] = (d["min"].fillna(0) > 0).astype(float)
     season = season or (pg["season"].max() if len(pg) else None)
+    if unseen:
+        extra = [(p, season, 0.0) for p, n in unseen.items() for _ in range(int(n))]
+        d = pd.concat([d, pd.DataFrame(extra, columns=["player_id", "season", "played"])], ignore_index=True)
     nxt = pd.DataFrame({"player_id": d["player_id"].unique(), "season": season, "played": np.nan})
     d = pd.concat([d, nxt], ignore_index=True)  # the game to predict goes last for each player
     d["_o"] = np.arange(len(d))
