@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 12:15 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 12:18 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -417,14 +417,20 @@ Out: Egor Demin (BKN), Grant Nelson (BKN), Ben Saraf (BKN), Jalen Duren (DET)
 ### NYK @ PHI
 Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| OG Anunoby REB over 5.5 | NYK @ PHI | draftkings | 2.12 | 1.77 | 56.5% | 44.1% | 47.2% | +0.0% | +19.7% | 0.0% |
+
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Josh Hart 6+ pts **+** OG Anunoby 3+ reb **+** Landry Shamet 1+ 3pm | 55.1% | 1.82 | 1.91 | 1.61 | -11.3% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 8+ reb | 51.6% | 1.94 | 2.03 | 1.82 | -6.0% |
-| OG Anunoby 5+ reb **+** Josh Hart 6+ pts | 50.2% | 1.99 | 2.09 | 1.89 | -5.1% |
-| Joel Embiid reb under 9.5 **+** OG Anunoby 4+ reb | 40.4% | 2.47 | 2.60 | 2.38 | -3.6% |
+| Landry Shamet 1+ 3pm **+** Karl-Anthony Towns 1+ 3pm | 59.7% | 1.68 | 1.76 | 1.53 | -8.9% |
+| Tyrese Maxey reb under 4.5 **+** Karl-Anthony Towns 7+ reb | 51.2% | 1.95 | 2.05 | 1.84 | -6.0% |
+| OG Anunoby 5+ reb **+** Landry Shamet 1+ 3pm | 49.4% | 2.03 | 2.13 | 1.91 | -5.5% |
+| Jalen Brunson 3+ reb **+** OG Anunoby 4+ reb | 42.1% | 2.37 | 2.49 | 2.28 | -3.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -444,7 +450,7 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jalen Brunson | 98% | 36.1 | 26.3 | 27.5 · – | 3.4 | 6.2 | 2.4 | 0.9 | 0.2 | 2.8 | 35.9 |
 | OG Anunoby | 98% | 34.8 | 18.4 | 16.5 · – | 6.2 | 2.0 | 2.3 | 1.4 | 0.9 | 1.7 | 26.6 |
-| Josh Hart | 98% | 33.6 | 11.1 | 9.5 · – | 8.2 | 4.2 | 1.5 | 1.4 | 0.3 | 1.9 | 23.5 |
+| Josh Hart | 98% | 33.6 | 11.1 | 10.5 · – | 8.2 | 4.2 | 1.5 | 1.4 | 0.3 | 1.9 | 23.5 |
 | Karl-Anthony Towns | 98% | 31.9 | 19.4 | 19.5 · – | 12.8 | 3.9 | 1.6 | 0.9 | 0.8 | 2.9 | 36.1 |
 | Mikal Bridges | 98% | 29.4 | 10.4 | 10.5 · – | 3.0 | 2.5 | 1.2 | 0.9 | 0.5 | 1.0 | 15.9 |
 | Landry Shamet | 98% | 26.6 | 9.3 | 8.5 · – | 2.2 | 1.6 | 1.7 | 0.6 | 0.2 | 0.9 | 13.0 |
@@ -486,7 +492,7 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jalen Brunson (NYK) | 98% | 36.1 | 26.3 | 27.5 · – | 3.4 | 6.2 | 2.4 | 0.9 | 0.2 | 2.8 | 35.9 |
 | OG Anunoby (NYK) | 98% | 34.7 | 18.2 | 16.5 · – | 6.2 | 2.0 | 2.3 | 1.4 | 0.8 | 1.7 | 26.4 |
-| Josh Hart (NYK) | 98% | 33.7 | 11.1 | 9.5 · – | 8.2 | 4.3 | 1.5 | 1.4 | 0.3 | 1.9 | 23.6 |
+| Josh Hart (NYK) | 98% | 33.7 | 11.1 | 10.5 · – | 8.2 | 4.3 | 1.5 | 1.4 | 0.3 | 1.9 | 23.6 |
 | Karl-Anthony Towns (NYK) | 98% | 31.9 | 19.5 | 19.5 · – | 12.8 | 3.9 | 1.6 | 0.9 | 0.8 | 2.9 | 36.2 |
 | Mikal Bridges (NYK) | 98% | 29.4 | 10.3 | 10.5 · – | 3.1 | 2.5 | 1.2 | 0.9 | 0.5 | 1.0 | 15.9 |
 | Landry Shamet (NYK) | 98% | 26.6 | 9.2 | 8.5 · – | 2.2 | 1.6 | 1.7 | 0.6 | 0.2 | 0.8 | 13.0 |
