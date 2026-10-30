@@ -3,12 +3,14 @@ CHI @ BOS,Norman Powell pts under 19.5 + BOS win,2,0.5356,0.4837,2.07,2.17,2.21,
 CHI @ BOS,Norman Powell 3pm under 2.5 + BOS win,2,0.5258,0.4444,2.25,2.36,2.35,0.0458,1.02,2.10-2.50
 CHI @ BOS,Norman Powell pr under 23.5 + BOS win,2,0.5592,0.4875,2.05,2.15,2.14,0.0412,1.03,2.10-2.50
 CHI @ BOS,Norman Powell pa under 22.5 + BOS win,2,0.5626,0.4951,2.02,2.12,2.09,0.0369,1.031,1.85-2.10
+CHI @ BOS,Norman Powell pts under 19.5 + Sam Hauser 5+ pr,2,0.6304,0.4875,2.05,2.15,2.05,0.0007,0.999,1.85-2.10
 CHI @ BOS,Norman Powell pts under 19.5 + Mitchell Robinson 4+ reb,2,0.6066,0.4755,2.1,2.21,2.09,-0.0048,0.998,1.85-2.10
-CHI @ BOS,Norman Powell pts under 19.5 + Jayson Tatum 1+ 3pm,2,0.6286,0.4985,2.01,2.11,1.99,-0.0063,1.001,1.85-2.10
 CHI @ BOS,BOS win + Jayson Tatum 6+ reb + Neemias Queta 4+ reb,3,0.5476,0.542,1.85,1.94,1.65,-0.1051,1.001,1.65-1.85
 CHI @ BOS,BOS win + Neemias Queta 4+ reb + Jayson Tatum 2+ 3pm,3,0.5263,0.5416,1.85,1.94,1.65,-0.1072,1.013,1.50-1.65
-CHI @ BOS,Jayson Tatum 6+ reb + Neemias Queta 4+ reb + Matas Buzelis 10+ pr,3,0.6444,0.5565,1.8,1.89,1.55,-0.139,1.003,1.50-1.65
+CHI @ BOS,Jayson Tatum 6+ reb + Sam Hauser 5+ pr + Neemias Queta 4+ reb,3,0.6675,0.5657,1.77,1.86,1.53,-0.1325,1.003,1.50-1.65
 CHI @ BOS,Jayson Tatum 6+ reb + Neemias Queta 4+ reb + Jalen Smith 5+ pa,3,0.6543,0.565,1.77,1.86,1.52,-0.1399,1.001,1.50-1.65
+CHI @ BOS,BOS win + Jayson Tatum 6+ reb + Sam Hauser 5+ pr + Neemias Queta 4+ reb,4,0.5234,0.4888,2.05,2.15,1.75,-0.1436,1.005,1.65-1.85
+CHI @ BOS,BOS win + Sam Hauser 5+ pr + Neemias Queta 4+ reb + Jayson Tatum 2+ 3pm,4,0.5034,0.4888,2.05,2.15,1.75,-0.1451,1.017,1.65-1.85
 DET @ BKN,Nolan Traore pts under 9.5 + Julius Randle 4+ reb,2,0.5963,0.4265,2.34,2.46,2.39,0.0201,1.001,2.10-2.50
 DET @ BKN,Nolan Traore pts under 9.5 + Paul Reed 15+ pr,2,0.6107,0.4465,2.24,2.35,2.27,0.0126,1.002,2.10-2.50
 DET @ BKN,John Collins pts under 14.5 + Julius Randle 4+ reb,2,0.6208,0.4559,2.19,2.3,2.22,0.0112,0.998,2.10-2.50
@@ -57,18 +59,18 @@ IND @ MIA,Davion Mitchell 10+ pr + Pascal Siakam 25+ pr,2,0.7305,0.607,1.65,1.73
 IND @ MIA,Jarace Walker 15+ pra + Davion Mitchell 10+ pr + Aaron Nesmith 10+ pr,3,0.7124,0.5325,1.88,1.97,1.7,-0.0936,1.001,1.65-1.85
 IND @ MIA,Jarace Walker 15+ pra + Davion Mitchell 10+ pr + Pelle Larsson 10+ pa,3,0.6556,0.4911,2.04,2.14,1.85,-0.0937,1.001,1.65-1.85
 IND @ MIA,Aaron Nesmith 15+ pra + Pascal Siakam 25+ pr + Pelle Larsson 10+ pa,3,0.6407,0.4928,2.03,2.13,1.83,-0.0965,1.008,1.65-1.85
-HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 4+ reb,2,0.6747,0.4523,2.21,2.32,2.27,0.0286,1.002,2.10-2.50
-HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 15+ pra,2,0.7051,0.482,2.07,2.18,2.12,0.022,1.003,2.10-2.50
-HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 10+ pa,2,0.6965,0.4835,2.07,2.17,2.11,0.0181,1.004,2.10-2.50
-HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.7254,0.4991,2.0,2.1,2.03,0.0154,1.001,1.85-2.10
-HOU @ DAL,Kevin Durant 10+ ra + Amen Thompson 4+ reb,2,0.69,0.4871,2.05,2.16,2.07,0.0086,1.001,1.85-2.10
-HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.7565,0.5307,1.88,1.98,1.9,0.0067,1.0,1.85-2.10
-HOU @ DAL,HOU win + Kevin Durant 20+ pr,2,0.5592,0.5869,1.7,1.79,1.67,-0.0228,1.013,1.65-1.85
-HOU @ DAL,HOU win + Jabari Smith Jr. 15+ pra,2,0.5761,0.6009,1.66,1.75,1.62,-0.0271,1.006,1.50-1.65
-HOU @ DAL,HOU win + Jabari Smith Jr. 10+ pa,2,0.5707,0.6044,1.65,1.74,1.61,-0.0281,1.011,1.50-1.65
-HOU @ DAL,HOU win + Kevin Durant 1+ 3pm,2,0.5395,0.5646,1.77,1.86,1.72,-0.0288,1.006,1.65-1.85
-HOU @ DAL,HOU win + Fred VanVleet 1+ 3pm,2,0.5588,0.5907,1.69,1.78,1.64,-0.0315,1.007,1.50-1.65
-HOU @ DAL,Jabari Smith Jr. 6+ reb + Kevin Durant 20+ pr,2,0.6785,0.528,1.89,1.99,1.82,-0.0365,1.004,1.65-1.85
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 4+ reb,2,0.6747,0.453,2.21,2.32,2.27,0.028,1.002,2.10-2.50
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 15+ pra,2,0.7051,0.4809,2.08,2.18,2.13,0.0229,1.003,2.10-2.50
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 10+ pa,2,0.6965,0.4821,2.07,2.18,2.11,0.0191,1.004,2.10-2.50
+HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.7254,0.4998,2.0,2.1,2.03,0.0148,1.001,1.85-2.10
+HOU @ DAL,Kevin Durant 10+ ra + Amen Thompson 4+ reb,2,0.69,0.4866,2.06,2.16,2.07,0.009,1.001,1.85-2.10
+HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.7565,0.5294,1.89,1.98,1.9,0.0076,1.0,1.85-2.10
+HOU @ DAL,HOU win + Kevin Durant 4+ reb,2,0.5172,0.5292,1.89,1.98,1.84,-0.0249,1.002,1.65-1.85
+HOU @ DAL,HOU win + Jabari Smith Jr. 15+ pra,2,0.5761,0.5994,1.67,1.75,1.62,-0.0263,1.006,1.50-1.65
+HOU @ DAL,HOU win + Jabari Smith Jr. 10+ pa,2,0.5707,0.6027,1.66,1.74,1.61,-0.0272,1.011,1.50-1.65
+HOU @ DAL,HOU win + Kevin Durant 1+ 3pm,2,0.5395,0.5667,1.76,1.85,1.71,-0.0302,1.006,1.65-1.85
+HOU @ DAL,HOU win + Fred VanVleet 1+ 3pm,2,0.5588,0.5887,1.7,1.78,1.65,-0.0303,1.007,1.50-1.65
+HOU @ DAL,Jabari Smith Jr. 6+ reb + Fred VanVleet 1+ 3pm,2,0.68,0.5307,1.88,1.98,1.81,-0.0397,1.0,1.65-1.85
 LAC @ MIN,Rudy Gobert pts under 10.5 + Isaiah Jackson 5+ pa,2,0.5344,0.4589,2.18,2.29,2.1,-0.0348,1.001,2.10-2.50
 LAC @ MIN,Rudy Gobert pts under 10.5 + Kris Dunn 5+ pa,2,0.5873,0.5031,1.99,2.09,1.92,-0.0365,0.999,1.85-2.10
 LAC @ MIN,Rudy Gobert pts under 10.5 + Darius Garland 1+ 3pm,2,0.5701,0.4872,2.05,2.16,1.98,-0.0368,0.997,1.85-2.10
@@ -90,15 +92,15 @@ LAL @ GSW,Sandro Mamukelashvili 4+ reb + Quentin Grimes 10+ pra,2,0.6217,0.5097,
 LAL @ GSW,Luka Doncic 3+ 3pm + Quentin Grimes 10+ pra + Sandro Mamukelashvili 5+ pa,3,0.6346,0.5427,1.84,1.93,1.6,-0.1337,1.005,1.50-1.65
 LAL @ GSW,Yaxel Lendeborg 4+ reb + Luka Doncic 3+ 3pm + Quentin Grimes 10+ pra,3,0.6381,0.541,1.85,1.94,1.6,-0.1364,0.999,1.50-1.65
 LAL @ GSW,Luka Doncic 3+ 3pm + Sandro Mamukelashvili 5+ pa + Al Horford 5+ pr,3,0.6411,0.5531,1.81,1.9,1.56,-0.1364,1.005,1.50-1.65
-DEN @ PHX,Khaman Maluach pr under 16.5 + Dillon Brooks 15+ pr,2,0.6614,0.4419,2.26,2.38,2.31,0.0206,0.993,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 16.5 + Nikola Jokic 25+ pra,2,0.7821,0.536,1.87,1.96,1.9,0.0183,1.0,1.85-2.10
-DEN @ PHX,Khaman Maluach pr under 16.5 + Nikola Jokic 6+ ast,2,0.7237,0.4975,2.01,2.11,2.04,0.0173,1.0,1.85-2.10
-DEN @ PHX,Khaman Maluach pr under 16.5 + Dillon Brooks 15+ pra,2,0.7074,0.4808,2.08,2.18,2.12,0.0168,0.995,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 16.5 + Jamal Murray 2+ 3pm,2,0.6624,0.4554,2.2,2.31,2.23,0.0156,0.998,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 16.5 + Nikola Jokic 6+ reb,2,0.7697,0.5325,1.88,1.97,1.91,0.0149,1.0,1.85-2.10
-DEN @ PHX,Khaman Maluach reb under 8.5 + Nikola Jokic 25+ pra,2,0.7829,0.5653,1.77,1.86,1.75,-0.0084,0.999,1.65-1.85
+DEN @ PHX,Khaman Maluach pr under 16.5 + Dillon Brooks 10+ pr,2,0.768,0.5169,1.93,2.03,1.99,0.0267,0.999,1.85-2.10
+DEN @ PHX,Khaman Maluach pr under 16.5 + Nikola Jokic 25+ pra,2,0.7821,0.5287,1.89,1.99,1.94,0.0256,1.0,1.85-2.10
+DEN @ PHX,Khaman Maluach pr under 16.5 + Nikola Jokic 6+ ast,2,0.7237,0.4907,2.04,2.14,2.09,0.0247,1.0,1.85-2.10
+DEN @ PHX,Khaman Maluach pr under 16.5 + Dillon Brooks 15+ pra,2,0.7074,0.4746,2.11,2.21,2.16,0.0239,0.995,2.10-2.50
+DEN @ PHX,Khaman Maluach pr under 16.5 + Jamal Murray 2+ 3pm,2,0.6624,0.4497,2.22,2.34,2.27,0.0226,0.998,2.10-2.50
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + Jalen Green 3pm under 2.5,2,0.5598,0.4006,2.5,2.62,2.49,-0.0018,1.007,2.10-2.50
+DEN @ PHX,Khaman Maluach reb under 8.5 + Nikola Jokic 25+ pra,2,0.7829,0.5649,1.77,1.86,1.76,-0.0081,0.999,1.65-1.85
 DEN @ PHX,Khaman Maluach reb under 8.5 + Nikola Jokic 6+ reb,2,0.7716,0.5624,1.78,1.87,1.76,-0.0103,1.001,1.65-1.85
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7609,0.5773,1.73,1.82,1.68,-0.0313,0.999,1.65-1.85
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + Nikola Jokic 25+ pra,2,0.7738,0.5904,1.69,1.78,1.64,-0.0341,0.999,1.50-1.65
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + Nikola Jokic 6+ reb,2,0.7622,0.587,1.7,1.79,1.64,-0.0365,1.0,1.50-1.65
-DEN @ PHX,Khaman Maluach blk under 1.5 + Nikola Jokic 25+ pra,2,0.7013,0.5737,1.74,1.83,1.64,-0.0615,0.999,1.50-1.65
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7609,0.5749,1.74,1.83,1.69,-0.0295,0.999,1.65-1.85
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + Nikola Jokic 25+ pra,2,0.7738,0.5873,1.7,1.79,1.65,-0.0319,0.999,1.50-1.65
+DEN @ PHX,Jalen Green 3pm under 2.5 + Nikola Jokic 25+ pra,2,0.6959,0.5778,1.73,1.82,1.61,-0.0675,0.999,1.50-1.65
+DEN @ PHX,Jalen Green 3pm under 2.5 + Nikola Jokic 6+ reb,2,0.6849,0.5744,1.74,1.83,1.62,-0.0708,0.999,1.50-1.65

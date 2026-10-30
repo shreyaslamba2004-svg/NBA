@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 10:24 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 10:29 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -21,31 +21,31 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kevin Durant PR over 49.5 (50+) | HOU @ DAL | draftkings | 24.00 | 18.15 | 9.64 | 10.4% | 3.9% | 5.5% | +32.3% | +148.9% | 0.4% |
 | Pascal Siakam PTS over 44.5 (45+) | IND @ MIA | draftkings | 30.00 | 22.99 | 12.42 | 8.1% | 3.1% | 4.3% | +30.5% | +141.5% | 0.3% |
-| Kevin Durant PR over 44.5 (45+) | HOU @ DAL | draftkings | 13.00 | 10.13 | 5.58 | 17.9% | 7.2% | 9.9% | +28.3% | +132.8% | 0.6% |
 | Pascal Siakam PTS over 39.5 (40+) | IND @ MIA | draftkings | 15.40 | 12.15 | 6.79 | 14.7% | 6.1% | 8.2% | +26.8% | +126.6% | 0.5% |
 | Pascal Siakam PR over 49.5 (50+) | IND @ MIA | draftkings | 16.00 | 12.95 | 7.49 | 13.4% | 5.8% | 7.7% | +23.5% | +113.7% | 0.4% |
 | Pascal Siakam PR over 54.5 (55+) | IND @ MIA | draftkings | 27.00 | 22.12 | 12.98 | 7.7% | 3.5% | 4.5% | +22.1% | +108.0% | 0.2% |
-| Kevin Durant PR over 39.5 (40+) | HOU @ DAL | draftkings | 6.41 | 5.46 | 3.38 | 29.6% | 14.6% | 18.3% | +17.5% | +89.6% | 0.8% |
 | Pascal Siakam PTS over 34.5 (35+) | IND @ MIA | draftkings | 7.20 | 6.29 | 4.05 | 24.7% | 13.0% | 15.9% | +14.5% | +77.7% | 0.6% |
 | Mitchell Robinson REB over 13.5 (14+) | CHI @ BOS | draftkings | 14.20 | 12.42 | 8.02 | 12.5% | 6.6% | 8.1% | +14.4% | +77.1% | 0.3% |
 | Pascal Siakam PR over 44.5 (45+) | IND @ MIA | draftkings | 7.90 | 6.96 | 4.55 | 22.0% | 11.8% | 14.4% | +13.5% | +73.7% | 0.5% |
 | Jabari Smith Jr. REB over 11.5 (12+) | HOU @ DAL | draftkings | 16.20 | 14.29 | 9.34 | 10.7% | 5.8% | 7.0% | +13.5% | +73.5% | 0.2% |
+| Amen Thompson STL over 3.5 (4+) | HOU @ DAL | draftkings | 13.00 | 11.61 | 7.76 | 12.9% | 7.2% | 8.6% | +12.0% | +67.5% | 0.2% |
 | Daniss Jenkins AST over 7.5 (8+) | DET @ BKN | draftkings | 13.20 | 11.79 | 7.88 | 12.7% | 7.1% | 8.5% | +12.0% | +67.5% | 0.2% |
 | Jarace Walker PA over 24.5 (25+) | IND @ MIA | draftkings | 13.60 | 12.17 | 8.14 | 12.3% | 6.9% | 8.2% | +11.8% | +67.0% | 0.2% |
-| Amen Thompson AST over 9.5 (10+) | HOU @ DAL | draftkings | 17.80 | 15.95 | 10.71 | 9.3% | 5.2% | 6.3% | +11.6% | +66.2% | 0.2% |
+| Jabari Smith Jr. REB over 9.5 (10+) | HOU @ DAL | draftkings | 6.72 | 6.03 | 4.06 | 24.6% | 13.9% | 16.6% | +11.5% | +65.5% | 0.5% |
 | Pascal Siakam AST over 7.5 (8+) | IND @ MIA | draftkings | 9.90 | 8.90 | 6.02 | 16.6% | 9.4% | 11.2% | +11.2% | +64.6% | 0.3% |
-| Jabari Smith Jr. REB over 9.5 (10+) | HOU @ DAL | draftkings | 6.64 | 5.98 | 4.06 | 24.6% | 14.1% | 16.7% | +11.0% | +63.5% | 0.5% |
+| Amen Thompson AST over 9.5 (10+) | HOU @ DAL | draftkings | 17.40 | 15.72 | 10.71 | 9.3% | 5.4% | 6.4% | +10.7% | +62.5% | 0.2% |
 | Mitchell Robinson REB over 15.5 (16+) | CHI @ BOS | draftkings | 26.00 | 23.53 | 16.06 | 6.2% | 3.6% | 4.2% | +10.6% | +61.9% | 0.1% |
 | Aaron Nesmith PTS over 24.5 (25+) | IND @ MIA | draftkings | 9.90 | 8.98 | 6.16 | 16.2% | 9.4% | 11.1% | +10.2% | +60.6% | 0.3% |
-| Amen Thompson STL over 3.5 (4+) | HOU @ DAL | draftkings | 12.40 | 11.27 | 7.76 | 12.9% | 7.5% | 8.9% | +10.1% | +59.8% | 0.2% |
-| Amen Thompson AST over 7.5 (8+) | HOU @ DAL | draftkings | 6.37 | 5.80 | 4.02 | 24.9% | 14.7% | 17.2% | +9.7% | +58.6% | 0.4% |
-| Jarace Walker PA over 19.5 (20+) | IND @ MIA | draftkings | 5.35 | 4.88 | 3.39 | 29.5% | 17.5% | 20.5% | +9.6% | +58.0% | 0.5% |
+| Zaccharie Risacher REB over 7.5 (8+) | HOU @ DAL | draftkings | 8.80 | 8.03 | 5.56 | 18.0% | 10.6% | 12.5% | +9.7% | +58.4% | 0.3% |
 | Aaron Nesmith PTS over 29.5 (30+) | IND @ MIA | draftkings | 23.00 | 20.96 | 14.55 | 6.9% | 4.1% | 4.8% | +9.6% | +58.0% | 0.1% |
+| Jarace Walker PA over 19.5 (20+) | IND @ MIA | draftkings | 5.35 | 4.88 | 3.39 | 29.5% | 17.5% | 20.5% | +9.6% | +58.0% | 0.5% |
 | Mitchell Robinson REB over 11.5 (12+) | CHI @ BOS | draftkings | 6.81 | 6.22 | 4.31 | 23.2% | 13.7% | 16.1% | +9.6% | +58.0% | 0.4% |
 | Aaron Nesmith PRA over 34.5 (35+) | IND @ MIA | draftkings | 14.40 | 13.18 | 9.18 | 10.9% | 6.5% | 7.6% | +9.3% | +56.8% | 0.2% |
-| Zaccharie Risacher REB over 7.5 (8+) | HOU @ DAL | draftkings | 8.70 | 7.96 | 5.56 | 18.0% | 10.7% | 12.6% | +9.2% | +56.6% | 0.3% |
+| Jarace Walker PRA over 29.5 (30+) | IND @ MIA | draftkings | 7.90 | 7.24 | 5.05 | 19.8% | 11.8% | 13.8% | +9.2% | +56.4% | 0.3% |
+| Amen Thompson AST over 7.5 (8+) | HOU @ DAL | draftkings | 6.19 | 5.70 | 4.02 | 24.9% | 15.1% | 17.5% | +8.6% | +54.1% | 0.4% |
+| Amen Thompson STL over 2.5 (3+) | HOU @ DAL | draftkings | 5.40 | 4.99 | 3.54 | 28.2% | 17.3% | 20.0% | +8.2% | +52.5% | 0.5% |
+| Jarace Walker PRA over 34.5 (35+) | IND @ MIA | draftkings | 17.40 | 16.08 | 11.43 | 8.8% | 5.4% | 6.2% | +8.2% | +52.2% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -55,29 +55,29 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 8.5 (9+) | HOU @ DAL | draftkings | 22.00 | 14.81 | 7.01 | 14.3% | 4.2% | 6.8% | +48.6% | +213.9% | 0.6% |
 | Jay Huff AST over 4.5 (5+) | IND @ MIA | draftkings | 25.00 | 21.79 | 14.01 | 7.1% | 3.7% | 4.6% | +14.7% | +78.5% | 0.1% |
-| Jabari Smith Jr. REB over 10.5 (11+) | HOU @ DAL | draftkings | 10.20 | 9.05 | 5.98 | 16.7% | 9.2% | 11.1% | +12.7% | +70.6% | 0.4% |
+| Jabari Smith Jr. REB over 10.5 (11+) | HOU @ DAL | draftkings | 10.30 | 9.10 | 5.98 | 16.7% | 9.1% | 11.0% | +13.2% | +72.3% | 0.4% |
 | Mitchell Robinson REB over 14.5 (15+) | CHI @ BOS | draftkings | 19.40 | 17.24 | 11.43 | 8.8% | 4.8% | 5.8% | +12.5% | +69.8% | 0.2% |
 | Pascal Siakam AST over 8.5 (9+) | IND @ MIA | draftkings | 17.20 | 15.29 | 10.13 | 9.9% | 5.4% | 6.5% | +12.5% | +69.8% | 0.2% |
 | Mitchell Robinson REB over 12.5 (13+) | CHI @ BOS | draftkings | 9.80 | 8.73 | 5.81 | 17.2% | 9.5% | 11.5% | +12.3% | +68.7% | 0.4% |
-| Amen Thompson AST over 8.5 (9+) | HOU @ DAL | draftkings | 10.80 | 9.62 | 6.41 | 15.6% | 8.6% | 10.4% | +12.2% | +68.5% | 0.3% |
-| Zaccharie Risacher REB over 8.5 (9+) | HOU @ DAL | draftkings | 14.80 | 13.37 | 9.10 | 11.0% | 6.3% | 7.5% | +10.8% | +62.7% | 0.2% |
+| Amen Thompson AST over 8.5 (9+) | HOU @ DAL | draftkings | 10.60 | 9.51 | 6.41 | 15.6% | 8.8% | 10.5% | +11.4% | +65.3% | 0.3% |
 | Daniss Jenkins AST over 6.5 (7+) | DET @ BKN | draftkings | 7.60 | 6.90 | 4.74 | 21.1% | 12.3% | 14.5% | +10.2% | +60.4% | 0.4% |
-| Jabari Smith Jr. REB over 8.5 (9+) | HOU @ DAL | draftkings | 4.39 | 4.05 | 2.86 | 34.9% | 21.3% | 24.7% | +8.4% | +53.2% | 0.6% |
+| Zaccharie Risacher REB over 8.5 (9+) | HOU @ DAL | draftkings | 14.40 | 13.12 | 9.10 | 11.0% | 6.5% | 7.6% | +9.7% | +58.3% | 0.2% |
+| Jabari Smith Jr. REB over 8.5 (9+) | HOU @ DAL | draftkings | 4.48 | 4.10 | 2.86 | 34.9% | 20.9% | 24.4% | +9.2% | +56.4% | 0.7% |
 | Bam Adebayo REB over 14.5 (15+) | IND @ MIA | draftkings | 9.50 | 8.80 | 6.28 | 15.9% | 9.8% | 11.4% | +7.9% | +51.2% | 0.2% |
 | Jabari Smith Jr. REB over 12.5 (13+) | HOU @ DAL | draftkings | 23.00 | 21.32 | 15.22 | 6.6% | 4.1% | 4.7% | +7.9% | +51.1% | 0.1% |
 | Daniss Jenkins AST over 8.5 (9+) | DET @ BKN | draftkings | 20.40 | 18.90 | 13.50 | 7.4% | 4.6% | 5.3% | +7.9% | +51.1% | 0.1% |
+| Kevin Durant REB over 8.5 (9+) | HOU @ DAL | draftkings | 6.65 | 6.17 | 4.42 | 22.6% | 14.1% | 16.2% | +7.7% | +50.4% | 0.3% |
 | Pascal Siakam AST over 6.5 (7+) | IND @ MIA | draftkings | 5.69 | 5.29 | 3.79 | 26.4% | 16.4% | 18.9% | +7.7% | +50.3% | 0.4% |
-| Zaccharie Risacher REB over 6.5 (7+) | HOU @ DAL | draftkings | 5.25 | 4.91 | 3.56 | 28.1% | 17.8% | 20.4% | +7.0% | +47.4% | 0.4% |
 | Bam Adebayo REB over 16.5 (17+) | IND @ MIA | draftkings | 19.20 | 17.95 | 13.03 | 7.7% | 4.9% | 5.6% | +6.9% | +47.3% | 0.1% |
 | Mitchell Robinson REB over 10.5 (11+) | CHI @ BOS | draftkings | 4.81 | 4.50 | 3.28 | 30.5% | 19.4% | 22.2% | +6.8% | +46.8% | 0.4% |
-| Kevin Durant REB over 8.5 (9+) | HOU @ DAL | draftkings | 6.48 | 6.07 | 4.42 | 22.6% | 14.4% | 16.5% | +6.7% | +46.6% | 0.3% |
 | Fred VanVleet REB over 6.5 (7+) | HOU @ DAL | draftkings | 11.80 | 11.06 | 8.06 | 12.4% | 7.9% | 9.0% | +6.7% | +46.4% | 0.2% |
 | Julius Randle REB over 10.5 (11+) | DET @ BKN | draftkings | 9.70 | 9.10 | 6.64 | 15.1% | 9.6% | 11.0% | +6.6% | +46.1% | 0.2% |
 | Scottie Barnes AST over 10.5 (11+) | ORL @ TOR | draftkings | 13.40 | 12.58 | 9.18 | 10.9% | 7.0% | 8.0% | +6.6% | +45.9% | 0.1% |
 | Leonard Miller PTS under 8.5 | CHI @ BOS | pointsbetau | 2.05 | 1.93 | 1.65 | 60.7% | 49.0% | 51.9% | +6.4% | +24.5% | 1.5% |
-| Kevin Durant REB over 10.5 (11+) | HOU @ DAL | draftkings | 16.40 | 15.43 | 11.34 | 8.8% | 5.7% | 6.5% | +6.2% | +44.6% | 0.1% |
+| Zaccharie Risacher REB over 6.5 (7+) | HOU @ DAL | draftkings | 5.12 | 4.83 | 3.56 | 28.1% | 18.2% | 20.7% | +6.0% | +43.8% | 0.4% |
 | Sandro Mamukelashvili REB over 8.5 (9+) | LAL @ GSW | draftkings | 11.00 | 10.37 | 7.66 | 13.1% | 8.5% | 9.6% | +6.0% | +43.6% | 0.1% |
-| Amen Thompson AST over 10.5 (11+) | HOU @ DAL | draftkings | 27.00 | 25.51 | 18.94 | 5.3% | 3.5% | 3.9% | +5.7% | +42.5% | 0.1% |
+| Kevin Durant REB over 10.5 (11+) | HOU @ DAL | draftkings | 16.20 | 15.31 | 11.34 | 8.8% | 5.8% | 6.5% | +5.8% | +42.8% | 0.1% |
+| Duncan Robinson AST over 4.5 (5+) | DET @ BKN | draftkings | 9.40 | 8.90 | 6.62 | 15.1% | 9.9% | 11.2% | +5.6% | +42.1% | 0.2% |
 
 ## Wait for news
 
@@ -85,7 +85,7 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Khaman Maluach PR under 16.5 | DEN @ PHX | draftkings | 1.84 | Oso Ighodaro | 77.0% | 81.1% | +6.6% |
+| Khaman Maluach PR under 16.5 | DEN @ PHX | draftkings | 1.88 | Oso Ighodaro | 77.0% | 81.1% | +7.3% |
 
 ## Check news first
 
@@ -93,11 +93,10 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kevin Durant PR over 34.5 (35+) | HOU @ DAL | draftkings | 3.31 | 3.08 | 2.22 | 45.0% | 28.2% | 32.4% | +7.3% | +49.0% | 0.8% |
 | Kevin Durant RA over 9.5 (10+) | HOU @ DAL | draftkings | 1.97 | 1.85 | 1.36 | 73.3% | 47.5% | 53.9% | +6.3% | +44.5% | 1.6% |
 | Mikel Brown Jr. 3PM under 1.5 | DET @ BKN | draftkings | 2.25 | 2.13 | 1.57 | 63.6% | 41.5% | 47.0% | +5.9% | +43.0% | 1.2% |
+| Jabari Smith Jr. REB over 7.5 (8+) | HOU @ DAL | draftkings | 3.04 | 2.87 | 2.13 | 47.0% | 30.7% | 34.8% | +5.8% | +42.8% | 0.7% |
 | Nolan Traore PTS under 9.5 | DET @ BKN | pointsbetau | 2.05 | 1.94 | 1.51 | 66.0% | 46.8% | 51.6% | +5.7% | +35.4% | 1.4% |
-| Jabari Smith Jr. REB over 7.5 (8+) | HOU @ DAL | draftkings | 3.02 | 2.86 | 2.13 | 47.0% | 30.9% | 34.9% | +5.5% | +41.8% | 0.7% |
 | John Collins PTS under 14.5 | DET @ BKN | tab | 1.90 | 1.81 | 1.45 | 68.9% | 50.7% | 55.3% | +5.1% | +31.0% | 1.4% |
 | Mikel Brown Jr. PTS under 11.5 | DET @ BKN | unibet | 1.89 | 1.80 | 1.45 | 68.8% | 51.1% | 55.5% | +5.1% | +30.1% | 1.4% |
 | Norman Powell PTS under 19.5 | CHI @ BOS | unibet | 1.93 | 1.84 | 1.51 | 66.2% | 50.3% | 54.3% | +5.0% | +28.1% | 1.4% |
@@ -137,7 +136,6 @@ Out: Devin Carter (BOS), Nic Claxton (CHI), Dailyn Swain (CHI)
 | Derrick White PA under 20.5 | CHI @ BOS | draftkings | 1.97 | 1.96 | 1.62 | 61.7% | 47.4% | 51.0% | +0.5% | +21.5% | 0.1% |
 | Jordan Walsh PTS over 4.5 (5+) | CHI @ BOS | sportsbet | 1.74 | 1.73 | 1.47 | 68.0% | 54.2% | 57.7% | +0.4% | +18.5% | 0.1% |
 | Payton Pritchard PTS under 16.5 | CHI @ BOS | tab | 1.85 | 1.84 | 1.54 | 64.7% | 50.7% | 54.2% | +0.2% | +19.6% | 0.1% |
-| Mitchell Robinson PR over 13.5 (14+) | CHI @ BOS | draftkings | 1.93 | 1.92 | 1.61 | 62.2% | 48.6% | 52.0% | +0.2% | +19.7% | 0.1% |
 | Jayson Tatum PTS under 28.5 | CHI @ BOS | draftkings | 1.91 | 1.91 | 1.63 | 61.4% | 49.5% | 52.4% | +0.1% | +17.1% | 0.0% |
 
 <details><summary>CHI players (confirmed only)</summary>
@@ -427,16 +425,16 @@ Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Naji Marshall PTS over 11.5 (12+) | HOU @ DAL | unibet | 2.00 | 1.93 | 1.71 | 58.5% | 49.5% | 51.7% | +3.5% | +16.9% | 0.9% |
-| Cooper Flagg PTS under 24.5 | HOU @ DAL | pointsbetau | 1.83 | 1.79 | 1.49 | 67.0% | 52.2% | 55.9% | +2.4% | +22.8% | 0.7% |
+| Naji Marshall PTS over 11.5 (12+) | HOU @ DAL | unibet | 2.00 | 1.93 | 1.71 | 58.5% | 49.4% | 51.7% | +3.4% | +16.9% | 0.9% |
 | Amen Thompson STL over 1.5 (2+) | HOU @ DAL | draftkings | 2.40 | 2.35 | 1.88 | 53.2% | 39.1% | 42.6% | +2.3% | +27.8% | 0.4% |
-| Cooper Flagg PTS under 23.5 | HOU @ DAL | sportsbet | 1.96 | 1.92 | 1.58 | 63.2% | 48.4% | 52.1% | +2.2% | +23.9% | 0.6% |
-| Amen Thompson PTS over 18.5 (19+) | HOU @ DAL | draftkings | 1.97 | 1.94 | 1.79 | 55.8% | 50.0% | 51.4% | +1.4% | +9.9% | 0.4% |
 | Kevin Durant PTS over 23.5 (24+) | HOU @ DAL | pointsbetau | 1.90 | 1.88 | 1.60 | 62.4% | 50.0% | 53.1% | +0.9% | +18.6% | 0.3% |
 | Fred VanVleet REB over 3.5 (4+) | HOU @ DAL | draftkings | 2.22 | 2.20 | 1.83 | 54.7% | 42.3% | 45.4% | +0.8% | +21.4% | 0.2% |
 | Zaccharie Risacher REB over 4.5 (5+) | HOU @ DAL | draftkings | 2.16 | 2.15 | 1.78 | 56.0% | 43.4% | 46.5% | +0.5% | +21.0% | 0.1% |
+| Fred VanVleet STL over 1.5 (2+) | HOU @ DAL | draftkings | 2.52 | 2.51 | 2.10 | 47.5% | 37.3% | 39.9% | +0.4% | +19.8% | 0.1% |
+| Cooper Flagg PA under 29.5 | HOU @ DAL | draftkings | 1.88 | 1.87 | 1.55 | 64.5% | 49.8% | 53.5% | +0.4% | +21.1% | 0.1% |
+| Jabari Smith Jr. PRA over 24.5 (25+) | HOU @ DAL | draftkings | 1.93 | 1.92 | 1.60 | 62.5% | 48.6% | 52.1% | +0.4% | +20.4% | 0.1% |
 | Tari Eason PTS over 13.5 (14+) | HOU @ DAL | sportsbet | 2.08 | 2.07 | 2.18 | 45.9% | 48.9% | 48.2% | +0.2% | -4.5% | 0.1% |
-| Fred VanVleet PRA over 22.5 (23+) | HOU @ DAL | draftkings | 1.97 | 1.97 | 1.64 | 60.9% | 47.4% | 50.8% | +0.1% | +20.0% | 0.0% |
+| Cooper Flagg PRA under 36.5 | HOU @ DAL | draftkings | 1.82 | 1.82 | 1.51 | 66.1% | 51.4% | 55.0% | +0.2% | +20.3% | 0.1% |
 
 <details><summary>HOU players (confirmed only)</summary>
 
@@ -462,7 +460,7 @@ Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | P.J. Washington | 98% | 31.2<br><sub>31,33,36,41,27</sub> | 13.5<br><sub>10,20,12,20,18</sub> | 13.5 · 13.5 | 6.5<br><sub>4,13,4,9,9</sub> | 6.5 | 1.6<br><sub>2,0,2,2,0</sub> |  | 1.5<br><sub>2,2,0,4,2</sub> | 1.5 | 1.0 | 1.0 | 1.7 | 21.6 |
-| Cooper Flagg | 98% | 30.9<br><sub>33,17,-,40,33</sub> | 21.6<br><sub>32,14,-,29,26</sub> | 23.5 · 23.5 | 6.1<br><sub>5,5,-,6,5</sub> | 6.5 | 5.3<br><sub>2,6,-,11,8</sub> | 5.5 | 1.2<br><sub>1,2,-,2,2</sub> | 1.5 | 1.4 | 1.0 | 2.5 | 33.0 |
+| Cooper Flagg | 98% | 30.9<br><sub>33,17,-,40,33</sub> | 21.6<br><sub>32,14,-,29,26</sub> | 24.5 · 23.5 | 6.1<br><sub>5,5,-,6,5</sub> | 6.5 | 5.3<br><sub>2,6,-,11,8</sub> | 5.5 | 1.2<br><sub>1,2,-,2,2</sub> | 1.5 | 1.4 | 1.0 | 2.5 | 33.0 |
 | Kyrie Irving | 98% | 30.8<br><sub>24,25,-,33,27</sub> | 20.3<br><sub>15,24,-,18,15</sub> | 18.5 · 19.5 | 3.8<br><sub>4,1,-,6,2</sub> | 3.5 | 3.8<br><sub>2,3,-,6,4</sub> | 3.5 | 2.2<br><sub>1,5,-,2,3</sub> | 2.5 | 1.2 | 0.5 | 2.1 | 27.9 |
 | Zaccharie Risacher | 88% | 27.6<br><sub>27,32,32,30,29</sub> | 9.0<br><sub>4,11,11,6,13</sub> | 8.5 · 8.5 | 5.2<br><sub>6,6,4,8,6</sub> | 4.5 | 1.5<br><sub>2,1,2,1,1</sub> |  | 0.9<br><sub>0,1,1,1,2</sub> |  | 1.1 | 1.3 | 1.2 | 15.7 |
 | Naji Marshall | 98% | 26.1<br><sub>29,33,21,-,-</sub> | 13.7<br><sub>16,15,10,-,-</sub> | 11.5 · 11.5 | 3.8<br><sub>2,4,4,-,-</sub> | 3.5 | 3.6<br><sub>6,6,5,-,-</sub> | 3.5 | 0.9<br><sub>2,0,1,-,-</sub> | 0.5 | 1.2 | 0.1 | 1.8 | 21.1 |
@@ -666,7 +664,7 @@ Out: Drew Timme (PHX), Mark Williams (PHX), Julian Strawther (DEN)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jamal Murray | 98% | 37.6<br><sub>37,43,36,38</sub> | 24.0<br><sub>6,42,19,23</sub> | 23.5 · – | 4.4<br><sub>10,3,6,1</sub> | 4.5 | 6.1<br><sub>3,6,8,6</sub> | 6.5 | 3.3<br><sub>0,8,3,5</sub> | 2.5 | 1.1 | 0.5 | 2.6 | 34.5 |
+| Jamal Murray | 98% | 37.6<br><sub>37,43,36,38</sub> | 24.0<br><sub>6,42,19,23</sub> | 22.5 · – | 4.4<br><sub>10,3,6,1</sub> | 4.5 | 6.1<br><sub>3,6,8,6</sub> | 6.5 | 3.3<br><sub>0,8,3,5</sub> | 2.5 | 1.1 | 0.5 | 2.6 | 34.5 |
 | Nikola Jokic | 98% | 37.0<br><sub>35,44,35,34</sub> | 25.7<br><sub>13,35,19,21</sub> | 25.5 · – | 12.8<br><sub>7,15,7,13</sub> | 12.5 | 10.1<br><sub>5,10,11,10</sub> | 9.5 | 1.6<br><sub>1,3,1,0</sub> | 1.5 | 1.6 | 1.0 | 4.0 | 48.6 |
 | Christian Braun | 98% | 34.7<br><sub>33,40,34,36</sub> | 12.3<br><sub>7,15,9,15</sub> | 11.5 · – | 4.7<br><sub>6,8,4,0</sub> | 4.5 | 2.5<br><sub>1,2,2,4</sub> |  | 1.2<br><sub>1,0,1,3</sub> | 1.5 | 1.1 | 0.4 | 1.3 | 19.5 |
 | Aaron Gordon | 98% | 31.3<br><sub>29,37,25,31</sub> | 14.2<br><sub>20,7,7,15</sub> | 14.5 · – | 6.1<br><sub>6,5,4,11</sub> | 5.5 | 2.7<br><sub>1,4,2,3</sub> | 2.5 | 1.5<br><sub>3,1,0,2</sub> | 1.5 | 0.8 | 0.3 | 1.5 | 23.1 |
@@ -686,13 +684,13 @@ Out: Drew Timme (PHX), Mark Williams (PHX), Julian Strawther (DEN)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Devin Booker | 98% | 34.0<br><sub>29,36,34</sub> | 23.2<br><sub>23,43,3</sub> | 23.5 · – | 4.1<br><sub>4,7,2</sub> | 3.5 | 6.0<br><sub>2,7,7</sub> | 5.5 | 1.8<br><sub>0,2,0</sub> | 1.5 | 0.9 | 0.3 | 2.8 | 33.3 |
+| Devin Booker | 98% | 34.0<br><sub>29,36,34</sub> | 23.2<br><sub>23,43,3</sub> | 23.5 · – | 4.1<br><sub>4,7,2</sub> | 4.5 | 6.0<br><sub>2,7,7</sub> | 5.5 | 1.8<br><sub>0,2,0</sub> | 1.5 | 0.9 | 0.3 | 2.8 | 33.3 |
 | Dillon Brooks | 98% | 32.3<br><sub>27,34,33</sub> | 19.1<br><sub>10,15,19</sub> | 16.5 · – | 4.4<br><sub>4,2,5</sub> | 3.5 | 2.2<br><sub>0,5,5</sub> |  | 2.2<br><sub>1,1,3</sub> | 1.5 | 1.0 | 0.2 | 1.4 | 25.8 |
 | Miles Bridges | 98% | 30.9<br><sub>29,33,32</sub> | 15.3<br><sub>8,16,17</sub> | 15.5 · – | 6.2<br><sub>4,7,8</sub> | 5.5 | 2.8<br><sub>0,3,4</sub> | 2.5 | 1.6<br><sub>0,2,2</sub> | 1.5 | 0.8 | 0.4 | 1.2 | 24.4 |
 | Jalen Green | 96% | 29.5<br><sub>25,26,31</sub> | 16.0<br><sub>10,12,20</sub> | 15.5 · – | 4.2<br><sub>2,2,4</sub> | 3.5 | 3.1<br><sub>3,1,4</sub> | 3.5 | 2.0<br><sub>2,1,1</sub> | 2.5 | 1.0 | 0.3 | 1.9 | 23.4 |
-| Collin Gillespie | 98% | 24.9<br><sub>21,28,23</sub> | 9.5<br><sub>0,11,9</sub> | 8.5 · – | 3.5<br><sub>1,4,1</sub> | 3.5 | 3.8<br><sub>2,9,2</sub> | 3.5 | 1.7<br><sub>0,2,3</sub> | 2.5 | 1.1 | 0.2 | 1.2 | 16.8 |
+| Collin Gillespie | 98% | 24.9<br><sub>21,28,23</sub> | 9.5<br><sub>0,11,9</sub> | 9.5 · – | 3.5<br><sub>1,4,1</sub> | 3.5 | 3.8<br><sub>2,9,2</sub> | 3.5 | 1.7<br><sub>0,2,3</sub> | 2.5 | 1.1 | 0.2 | 1.2 | 16.8 |
 | Khaman Maluach | 96% | 20.4<br><sub>17,28,26</sub> | 6.3<br><sub>2,9,12</sub> | 8.5 · – | 6.3<br><sub>6,9,7</sub> | 8.5 | 0.7<br><sub>1,3,1</sub> |  | 0.3<br><sub>0,1,0</sub> |  | 0.4 | 1.1 | 1.1 | 13.4 |
-| Jordan Goodwin | 98% | 18.0<br><sub>22,20,17</sub> | 6.8<br><sub>3,9,12</sub> | 6.5 · – | 3.8<br><sub>4,2,4</sub> | 4.5 | 1.6<br><sub>0,4,2</sub> | 1.5 | 1.0<br><sub>1,1,4</sub> | 1.5 | 1.1 | 0.2 | 0.7 | 12.2 |
+| Jordan Goodwin | 98% | 18.0<br><sub>22,20,17</sub> | 6.8<br><sub>3,9,12</sub> | 6.5 · – | 3.8<br><sub>4,2,4</sub> | 3.5 | 1.6<br><sub>0,4,2</sub> | 1.5 | 1.0<br><sub>1,1,4</sub> | 1.5 | 1.1 | 0.2 | 0.7 | 12.2 |
 | Luke Kennard | 97% | 17.4<br><sub>-,18,16</sub> | 6.5<br><sub>-,11,9</sub> |  | 2.2<br><sub>-,4,1</sub> |  | 1.6<br><sub>-,1,2</sub> |  | 0.8<br><sub>-,3,3</sub> |  | 0.6 | 0.1 | 0.6 | 10.3 |
 | Ryan Dunn | 93% | 14.3<br><sub>14,13,14</sub> | 4.5<br><sub>3,5,6</sub> |  | 3.2<br><sub>2,5,2</sub> |  | 0.9<br><sub>0,0,1</sub> |  | 0.4<br><sub>0,1,1</sub> |  | 0.6 | 0.3 | 0.4 | 8.7 |
 | Pat Spencer | 64% | 8.5<br><sub>7,-,-</sub> | 2.9<br><sub>3,-,-</sub> |  | 1.1<br><sub>3,-,-</sub> |  | 1.4<br><sub>1,-,-</sub> |  | 0.2<br><sub>1,-,-</sub> |  | 0.4 | 0.1 | 0.6 | 5.4 |
