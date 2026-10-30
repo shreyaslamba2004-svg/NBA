@@ -1,8 +1,8 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,5.5,draftkings,1180.0,12.8,0.1264,7.91,0.073,0.073,0.0534,,0.6176,0.0864,0.1053,0.0022,False,True,False,,,
 401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,4.5,draftkings,583.0,6.83,0.2368,4.22,0.1368,0.1368,0.1,,0.6175,0.1618,0.1053,0.0045,False,True,False,Jaylen Brown,0.2633,0.2124
-401909278,CHI @ BOS,moneyline,CHI,,,,ladbrokes_au,675.0,7.75,0.187,5.35,0.1233,0.1417,0.0453,4.65,0.4495,0.1417,0.0985,0.0036,False,True,True,,,
+401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,5.5,draftkings,1180.0,12.8,0.1264,7.91,0.073,0.073,0.0534,,0.6176,0.0864,0.1053,0.0022,False,True,False,,,
 401909278,CHI @ BOS,moneyline,CHI,,,,neds,675.0,7.75,0.187,5.35,0.1233,0.1417,0.0453,4.65,0.4495,0.1417,0.0985,0.0036,False,True,True,,,
+401909278,CHI @ BOS,moneyline,CHI,,,,ladbrokes_au,675.0,7.75,0.187,5.35,0.1233,0.1417,0.0453,4.65,0.4495,0.1417,0.0985,0.0036,False,True,True,,,
 401909277,CHA @ WAS,prop_ra,under,AJ Dybantsa,905142718.0,6.5,draftkings,110.0,2.1,0.7114,1.41,0.4466,0.4466,0.2649,6.64,0.494,0.5128,0.0768,0.0175,True,False,True,,,
 401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,6.5,draftkings,1080.0,11.8,0.1268,7.89,0.0792,0.0792,0.0476,,0.496,0.0911,0.0749,0.0017,False,True,False,,,
 401909277,CHA @ WAS,prop_reb,under,AJ Dybantsa,905142718.0,4.5,draftkings,-101.0,1.99,0.749,1.34,0.4696,0.4696,0.2794,,0.4906,0.5395,0.0736,0.0186,True,False,True,,,
@@ -23,7 +23,9 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,6.5,draftkings,352.0,4.52,0.2945,3.4,0.2068,0.2068,0.0877,,0.331,0.2287,0.0337,0.0024,False,True,False,Jaylen Brown,0.329,0.2615
 401909280,NYK @ PHI,prop_reb,over,Jalen Brunson,1628973.0,5.5,draftkings,840.0,9.4,0.1409,7.1,0.0994,0.0994,0.0414,,0.3241,0.1098,0.032,0.001,False,True,False,,,
 401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,6.5,draftkings,2100.0,22.0,0.0599,16.68,0.0425,0.0425,0.0175,,0.3186,0.0468,0.0306,0.0004,False,True,False,,,
+401909278,CHI @ BOS,prop_fg3m,under,Norman Powell,1626181.0,2.5,draftkings,102.0,2.02,0.6503,1.54,0.4627,0.4627,0.1876,,0.3136,0.5096,0.0293,0.0072,True,True,True,Jalen Smith,0.5661,0.6576
 401909283,HOU @ DAL,moneyline,DAL,,,,sportsbet,181.0,2.81,0.3678,2.72,0.342,0.3653,0.0025,4.04,0.0334,0.3653,0.0264,0.0036,False,True,True,Alperen Sengun,0.3942,0.3402
+401909278,CHI @ BOS,prop_fg3m,under,Jalen Smith,1630188.0,1.5,draftkings,121.0,2.21,0.5881,1.7,0.4229,0.4229,0.1653,,0.2998,0.4642,0.0259,0.0053,True,False,True,Jalen Smith,0.0,0.578
 401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,7.5,draftkings,1800.0,19.0,0.0682,14.67,0.0492,0.0492,0.019,,0.2955,0.0539,0.0248,0.0003,False,False,False,Jaylen Brown,0.0,0.0698
 401909277,CHA @ WAS,prop_fg3m,under,Sion James,1642883.0,1.5,draftkings,-162.0,1.62,0.7986,1.25,0.5779,0.5779,0.2207,,0.2915,0.633,0.0238,0.0096,True,True,True,Dennis Schroder,0.7661,0.8349
 401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,9.5,draftkings,970.0,10.7,0.1203,8.31,0.0873,0.0873,0.033,,0.2874,0.0956,0.0228,0.0006,False,True,False,,,
@@ -47,11 +49,12 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909284,LAC @ MIN,moneyline,LAC,,,,sportsbet,237.0,3.37,0.4734,2.11,0.2845,0.2982,0.1752,4.29,0.5955,0.2982,0.0049,0.0005,True,True,True,,,
 401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,3.5,draftkings,123.0,2.23,0.5443,1.84,0.4191,0.4191,0.1252,,0.2137,0.4504,0.0044,0.0009,False,True,True,,,
 401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,3.5,draftkings,123.0,2.23,0.5443,1.84,0.4191,0.4191,0.1252,,0.2137,0.4504,0.0044,0.0009,False,True,True,,,
-401909278,CHI @ BOS,prop_fg3m,under,Payton Pritchard,1630202.0,2.5,draftkings,105.0,2.05,0.5906,1.69,0.4559,0.4559,0.1347,,0.2107,0.4896,0.0036,0.0009,False,True,True,,,
+401909278,CHI @ BOS,prop_fg3m,under,Leonard Miller,1631159.0,1.5,draftkings,-194.0,1.52,0.7983,1.25,0.6167,0.6167,0.1816,,0.2097,0.6621,0.0034,0.0016,True,True,True,Jalen Smith,0.7521,0.8192
 401909282,IND @ MIA,moneyline,IND,,,,ladbrokes_au,230.0,3.3,0.2576,3.88,0.2873,0.3039,-0.0463,5.49,-0.1499,0.3039,0.003,0.0003,False,True,True,,,
 401909282,IND @ MIA,moneyline,IND,,,,neds,230.0,3.3,0.2576,3.88,0.2873,0.3039,-0.0463,5.49,-0.1499,0.3039,0.003,0.0003,False,True,True,,,
 401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,5.5,draftkings,113.0,2.13,0.5635,1.77,0.4388,0.4398,0.1237,,0.2002,0.4707,0.0026,0.0006,False,True,True,,,
+401909278,CHI @ BOS,prop_fg3m,under,Payton Pritchard,1630202.0,2.5,draftkings,104.0,2.04,0.5906,1.69,0.4581,0.4581,0.1324,,0.2048,0.4912,0.0021,0.0005,False,True,True,,,
 401909279,DET @ BKN,moneyline,BKN,,,,neds,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
-401909279,DET @ BKN,moneyline,BKN,,,,ladbrokes_au,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
 401909279,DET @ BKN,moneyline,BKN,,,,draftkings,230.0,3.3,0.2009,4.98,0.2905,0.3032,-0.1024,4.33,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
 401909279,DET @ BKN,moneyline,BKN,,,,betr_au,230.0,3.3,0.2009,4.98,0.2903,0.3032,-0.1024,4.4,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
+401909279,DET @ BKN,moneyline,BKN,,,,ladbrokes_au,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
