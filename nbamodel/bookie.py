@@ -44,6 +44,8 @@ def offered(offers: pd.DataFrame, gp: pd.DataFrame) -> pd.Series:
         rule = mk.get(stat)
         main = bool(getattr(r, "paired", True))
         # an alt over X.5 is the same bet as the bookie's (X+1)+ milestone; there are no alt unders
-        alt_ok = rule and rule.get("milestones", True) and str(getattr(r, "selection", "over")) == "over"
+        step = rule.get("milestone_step", 1) if rule else 1  # combos come in 10+, 15+, ...
+        alt_ok = (rule and rule.get("milestones", True) and str(getattr(r, "selection", "over")) == "over"
+                  and (float(r.line) + 0.5) % step == 0)
         ok.append(bool(rule) and r.player_id in exp.get(stat, set()) and (main or bool(alt_ok)))
     return pd.Series(ok, index=offers.index)
