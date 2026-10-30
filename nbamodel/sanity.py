@@ -4,6 +4,7 @@ Per game (confirmed-player projections):
   team minutes   a team's expected minutes far from a normal game (the model no longer forces 240,
                  so a big gap means the roster or play chances look wrong)
   player minutes a regular projected well above anything he's played lately, or well below his usual
+                 (his last 10 games this season for his current team)
   team points    projected team score far from what the betting market implies
   player points  projected points far from DraftKings' main line
 Writes output/<date>/sanity.csv; TODAY.md lists the flags and HEALTH.md counts them per day.
@@ -36,15 +37,16 @@ def check(res: dict, pg: pd.DataFrame) -> pd.DataFrame:
     for (gid, team), v in tm.items():
         if not TEAM_MIN[0] <= v <= TEAM_MIN[1]:
             flag(gid, "team minutes", f"{team} players add up to {v:.0f} expected minutes (normal is about 240)")
-    # player minutes vs his last 10 games
-    hist = pg.sort_values("game_date")
-    hist = hist[hist["min"].fillna(0) > 0].groupby("player_id").tail(10)
-    rec = hist.groupby("player_id")["min"].agg(["max", "mean", "size"])
+    # player minutes vs his last 10 games this season for his current team (last season's playoff
+    # minutes or an old team's role aren't a fair comparison, e.g. a player traded into a smaller role)
+    hist = pg[(pg["min"].fillna(0) > 0) & (pg["season"] == pg["season"].max())].sort_values("game_date")
+    hist = hist.merge(p[["player_id", "team"]].drop_duplicates("player_id"), on=["player_id", "team"])
+    rec = hist.groupby("player_id").tail(10).groupby("player_id")["min"].agg(["max", "mean", "size"])
     p = p.join(rec, on="player_id")
     hi = p[(p["size"] >= 3) & (p["proj_min"] >= 28) & (p["proj_min"] > p["max"] + ABOVE_MAX)]
     for r in hi.itertuples():
         flag(r.game_id, "player minutes", f"{r.player} projected {r.proj_min:.0f} min; most in his last 10 games is {r.max:.0f}")
-    lo = p[(p["size"] >= 5) & (p["mean"] >= 24) & (p["play_prob"] >= 0.9) & (p["proj_min"] < p["mean"] - BELOW_AVG)]
+    lo = p[(p["size"] >= 4) & (p["mean"] >= 24) & (p["play_prob"] >= 0.9) & (p["proj_min"] < p["mean"] - BELOW_AVG)]
     for r in lo.itertuples():
         flag(r.game_id, "player minutes", f"{r.player} projected {r.proj_min:.0f} min; he's averaged {r.mean:.0f} in his last 10")
     # team points vs market
