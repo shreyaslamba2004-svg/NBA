@@ -21,37 +21,25 @@ _No bets clear the edge threshold right now._
 
 Same rules as best bets, kept apart because the model's tails (big nights, rare outcomes) aren't proven yet. Expect long losing runs even if the edge is real.
 
-| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|--:|
-| Klay Thompson 3pm under 2.5 **+** Pelle Larsson 10+ pra | IND @ MIA | 59.4% | 1.68 | 1.77 | 1.64 | -2.5% |
-| Leonard Miller 3pm under 1.5 **+** Josh Giddey 3+ reb | CHI @ BOS | 59.2% | 1.69 | 1.78 | 1.61 | -4.9% |
-| Leonard Miller 3pm under 1.5 **+** Neemias Queta 3+ reb | CHI @ BOS | 57.7% | 1.73 | 1.82 | 1.64 | -5.1% |
-
-**Price 1.65-1.85**
-
-| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|--:|
-| Khaman Maluach pts under 8.5 **+** Nikola Jokic 25+ pra | DEN @ PHX | 54.5% | 1.83 | 1.93 | 1.82 | -0.7% |
-| Khaman Maluach pts under 8.5 **+** Dillon Brooks 10+ pra | DEN @ PHX | 54.6% | 1.83 | 1.92 | 1.81 | -1.0% |
-| Leonard Miller 3pm under 1.5 **+** BOS win | CHI @ BOS | 57.5% | 1.74 | 1.83 | 1.72 | -1.2% |
-
-**Price 1.85-2.10**
-
-| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|--:|
-| Khaman Maluach pr under 16.5 **+** Nikola Jokic 25+ pra | DEN @ PHX | 54.2% | 1.84 | 1.94 | 1.86 | +1.1% |
-| Norman Powell pra under 25.5 **+** BOS win | CHI @ BOS | 48.4% | 2.07 | 2.17 | 2.09 | +1.0% |
-| Khaman Maluach pr under 16.5 **+** Dillon Brooks 15+ pra | DEN @ PHX | 48.6% | 2.06 | 2.16 | 2.08 | +0.9% |
-
-**Price 2.10-2.50**
-
-| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|--:|
-| Norman Powell 3pm under 2.5 **+** BOS win | CHI @ BOS | 44.3% | 2.26 | 2.37 | 2.33 | +3.2% |
-| Walker Kessler pra under 26.5 **+** Sandro Mamukelashvili 3+ reb | LAL @ GSW | 41.9% | 2.39 | 2.50 | 2.44 | +2.2% |
-| Walker Kessler pts under 14.5 **+** Sandro Mamukelashvili 3+ reb | LAL @ GSW | 43.2% | 2.31 | 2.43 | 2.36 | +2.1% |
-
-Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Pascal Siakam PTS over 39.5 | IND @ MIA | draftkings | 16.40 | 8.27 | 12.1% | 5.7% | 7.3% | +19.7% | +98.2% | 0.3% |
+| Pascal Siakam PTS over 44.5 | IND @ MIA | draftkings | 31.00 | 15.67 | 6.4% | 3.0% | 3.9% | +19.6% | +97.9% | 0.2% |
+| Davion Mitchell REB over 4.5 | IND @ MIA | draftkings | 10.80 | 6.07 | 16.5% | 8.6% | 10.6% | +14.6% | +78.0% | 0.4% |
+| Zaccharie Risacher REB over 8.5 | HOU @ DAL | draftkings | 14.20 | 8.34 | 12.0% | 6.6% | 7.9% | +12.7% | +70.3% | 0.2% |
+| Zaccharie Risacher REB over 7.5 | HOU @ DAL | draftkings | 8.60 | 5.18 | 19.3% | 10.9% | 13.0% | +11.6% | +66.2% | 0.4% |
+| Davion Mitchell REB over 5.5 | IND @ MIA | draftkings | 21.00 | 12.65 | 7.9% | 4.5% | 5.3% | +11.6% | +66.0% | 0.1% |
+| Pascal Siakam PTS over 34.5 | IND @ MIA | draftkings | 7.70 | 4.67 | 21.4% | 12.1% | 14.4% | +11.3% | +64.7% | 0.4% |
+| Zaccharie Risacher REB over 9.5 | HOU @ DAL | draftkings | 23.00 | 14.06 | 7.1% | 4.1% | 4.8% | +11.0% | +63.5% | 0.1% |
+| Davion Mitchell REB over 3.5 | IND @ MIA | draftkings | 5.17 | 3.16 | 31.6% | 18.1% | 21.5% | +11.0% | +63.5% | 0.7% |
+| VJ Edgecombe AST over 5.5 | NYK @ PHI | draftkings | 13.40 | 8.49 | 11.8% | 7.0% | 8.2% | +9.5% | +57.8% | 0.2% |
+| Duncan Robinson AST over 4.5 | DET @ BKN | draftkings | 10.70 | 6.87 | 14.5% | 8.7% | 10.2% | +9.0% | +55.7% | 0.2% |
+| Brandon Miller PTS over 49.5 | CHA @ WAS | draftkings | 30.00 | 19.29 | 5.2% | 3.1% | 3.6% | +9.0% | +55.5% | 0.1% |
+| Duncan Robinson AST over 5.5 | DET @ BKN | draftkings | 21.00 | 14.35 | 7.0% | 4.5% | 5.1% | +6.7% | +46.4% | 0.1% |
+| Duncan Robinson AST over 3.5 | DET @ BKN | draftkings | 5.11 | 3.53 | 28.3% | 18.3% | 20.8% | +6.2% | +44.6% | 0.4% |
+| CHI to win | CHI @ BOS | ladbrokes_au | 7.75 | 5.35 | 18.7% | 13.7% | 13.7% | +6.1% | +45.0% | 0.2% |
+| Jayson Tatum REB over 13.5 | CHI @ BOS | draftkings | 12.00 | 8.47 | 11.8% | 7.8% | 8.8% | +5.5% | +41.7% | 0.1% |
+| Mitchell Robinson REB over 13.5 | CHI @ BOS | draftkings | 18.40 | 13.12 | 7.6% | 5.1% | 5.7% | +5.1% | +40.2% | 0.1% |
 
 ## Wait for news
 
@@ -104,15 +92,6 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Naz Reid 3PM under 2.5 | CHA @ WAS | draftkings | 1.95 | 1.59 | 62.8% | 47.9% | 51.6% | +0.7% | +22.6% | 0.2% |
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Kyshawn George 1+ 3pm **+** Moussa Diabate 6+ pts **+** Trae Young 1+ 3pm | 54.9% | 1.82 | 1.91 | 1.56 | -14.4% |
-| Sion James 3pm under 1.5 **+** Grayson Allen 1+ 3pm | 57.8% | 1.73 | 1.82 | 1.67 | -3.4% |
-| Sion James 3pm under 1.5 **+** Kyshawn George 1+ 3pm | 50.5% | 1.98 | 2.08 | 1.93 | -2.5% |
-| Sion James 3pm under 1.5 **+** Grayson Allen 12+ pts | 44.0% | 2.27 | 2.39 | 2.26 | -0.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -247,15 +226,7 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 | Derrick White PRA under 25.5 | CHI @ BOS | draftkings | 1.92 | 1.57 | 63.6% | 48.7% | 52.5% | +0.6% | +22.0% | 0.2% |
 | Payton Pritchard 3PM under 2.5 | CHI @ BOS | draftkings | 2.05 | 1.69 | 59.1% | 45.6% | 49.0% | +0.4% | +21.1% | 0.1% |
 | Payton Pritchard PTS under 16.5 | CHI @ BOS | draftkings | 1.91 | 1.58 | 63.2% | 48.9% | 52.5% | +0.2% | +20.6% | 0.1% |
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Leonard Miller 3pm under 1.5 **+** Josh Giddey 3+ reb | 59.2% | 1.69 | 1.78 | 1.61 | -4.9% |
-| Leonard Miller 3pm under 1.5 **+** BOS win | 57.5% | 1.74 | 1.83 | 1.72 | -1.2% |
-| Norman Powell pra under 25.5 **+** BOS win | 48.4% | 2.07 | 2.17 | 2.09 | +1.0% |
-| Norman Powell 3pm under 2.5 **+** BOS win | 44.3% | 2.26 | 2.37 | 2.33 | +3.2% |
+| Derrick White PR under 20.5 | CHI @ BOS | draftkings | 1.82 | 1.52 | 65.9% | 51.4% | 55.0% | +0.1% | +19.9% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -355,15 +326,6 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 ### DET @ BKN
 Out: Egor Demin (BKN), Grant Nelson (BKN), Ben Saraf (BKN), Jalen Duren (DET)
 
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Duncan Robinson 2+ ast **+** Ausar Thompson 3+ reb | 57.7% | 1.73 | 1.82 | 1.61 | -7.0% |
-| John Collins reb under 7.5 **+** Julius Randle 10+ pts | 53.1% | 1.88 | 1.98 | 1.79 | -5.0% |
-| John Collins pr under 21.5 **+** Julius Randle 10+ pts | 48.0% | 2.08 | 2.19 | 2.09 | +0.2% |
-| John Collins pr under 21.5 **+** Julius Randle 4+ reb | 45.9% | 2.18 | 2.29 | 2.21 | +1.5% |
-
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
 | Confirmed players only | 115.6–103.1 | DET 81% | 1.23 / 5.28 | BKN +12.5 | 218.5 | BKN +8.5 covers 39%; o222.5 42% |
@@ -460,15 +422,6 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | OG Anunoby REB over 5.5 | NYK @ PHI | draftkings | 2.14 | 1.77 | 56.5% | 43.9% | 47.0% | +0.6% | +20.9% | 0.1% |
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Karl-Anthony Towns 9+ reb **+** Josh Hart 1+ 3pm | 59.8% | 1.67 | 1.76 | 1.53 | -8.6% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 8+ reb | 51.3% | 1.95 | 2.05 | 1.84 | -5.8% |
-| OG Anunoby 5+ reb **+** Landry Shamet 1+ 3pm | 49.2% | 2.03 | 2.13 | 1.92 | -5.3% |
-| Karl-Anthony Towns 16+ ra **+** OG Anunoby 4+ reb | 38.3% | 2.61 | 2.74 | 2.48 | -5.2% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -571,15 +524,6 @@ Out: Kawhi Leonard (TOR), Malachi Smith (TOR), Paolo Banchero (ORL), Jonathan Is
 | Franz Wagner RA under 12.5 | ORL @ TOR | draftkings | 1.89 | 1.55 | 64.4% | 49.4% | 53.1% | +0.6% | +21.8% | 0.2% |
 | Desmond Bane 3PM under 2.5 | ORL @ TOR | draftkings | 2.12 | 1.74 | 57.5% | 44.1% | 47.4% | +0.5% | +21.8% | 0.1% |
 
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Scottie Barnes 3pm under 1.5 **+** Tristan da Silva 6+ pts | 57.5% | 1.74 | 1.83 | 1.62 | -6.9% |
-| Tristan da Silva 3pm under 2.5 **+** Immanuel Quickley 1+ 3pm | 53.6% | 1.87 | 1.96 | 1.81 | -3.1% |
-| Tristan da Silva 3pm under 2.5 **+** RJ Barrett 1+ 3pm | 49.1% | 2.04 | 2.14 | 1.98 | -2.7% |
-| Tristan da Silva 3pm under 2.5 **+** Scottie Barnes 3pm under 1.5 | 41.2% | 2.42 | 2.55 | 2.40 | -1.0% |
-
 <details><summary>ORL players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
@@ -628,15 +572,6 @@ Out: Johnny Furphy (IND), Tyrese Haliburton (IND), T.J. McConnell (IND), Ben She
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Giannis Antetokounmpo PTS under 31.5 | IND @ MIA | draftkings | 1.93 | 1.62 | 61.9% | 48.3% | 51.7% | +0.0% | +19.8% | 0.0% |
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Klay Thompson 3pm under 2.5 **+** Pelle Larsson 10+ pra | 59.4% | 1.68 | 1.77 | 1.64 | -2.5% |
-| Klay Thompson 3pm under 2.5 **+** Bam Adebayo 7+ reb | 53.3% | 1.87 | 1.97 | 1.82 | -2.6% |
-| Klay Thompson 3pm under 2.5 **+** MIA win | 47.5% | 2.11 | 2.21 | 2.09 | -0.6% |
-| Giannis Antetokounmpo pts under 31.5 **+** Kelly Oubre Jr. 3+ reb | 39.4% | 2.54 | 2.66 | 2.44 | -3.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -694,15 +629,6 @@ Out: Johnny Furphy (IND), Tyrese Haliburton (IND), T.J. McConnell (IND), Ben She
 
 ### HOU @ DAL
 Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven Adams (HOU), Reed Sheppard (HOU)
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| HOU win **+** P.J. Washington 6+ pts | 59.4% | 1.68 | 1.77 | 1.57 | -6.6% |
-| HOU win **+** Fred VanVleet 8+ pts | 53.3% | 1.88 | 1.97 | 1.84 | -2.1% |
-| Kevin Durant 4+ ast **+** Tari Eason 4+ reb | 48.3% | 2.07 | 2.18 | 2.02 | -2.4% |
-| Kevin Durant 4+ ast **+** HOU win | 41.9% | 2.39 | 2.51 | 2.42 | +1.2% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -870,15 +796,7 @@ Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Bradley Beal (LAC), Brandon 
 | Jaden McDaniels 3PM under 1.5 | LAC @ MIN | draftkings | 2.07 | 1.70 | 58.7% | 45.1% | 48.5% | +0.5% | +21.5% | 0.1% |
 | LaMelo Ball PA under 27.5 | LAC @ MIN | draftkings | 1.94 | 1.61 | 61.9% | 48.1% | 51.5% | +0.2% | +20.4% | 0.1% |
 | LaMelo Ball 3PM under 3.5 | LAC @ MIN | draftkings | 1.87 | 1.56 | 64.2% | 50.0% | 53.5% | +0.1% | +20.0% | 0.0% |
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Jaden McDaniels 4+ reb **+** Jonathan Kuminga 4+ reb | 58.9% | 1.70 | 1.78 | 1.53 | -10.0% |
-| Darius Garland ast under 7.5 **+** LaMelo Ball 15+ pra | 52.4% | 1.91 | 2.00 | 1.80 | -5.8% |
-| LaMelo Ball ra under 12.5 **+** Jaden McDaniels 3+ reb | 49.6% | 2.02 | 2.12 | 1.97 | -2.1% |
-| MIN -7.5 **+** Terrence Shannon Jr. 8+ pts | 43.3% | 2.31 | 2.43 | 2.25 | -2.8% |
+| LaMelo Ball REB under 4.5 | LAC @ MIN | draftkings | 1.79 | 1.50 | 66.7% | 52.1% | 55.8% | +0.0% | +19.7% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -973,15 +891,6 @@ Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Bradley Beal (LAC), Brandon 
 
 ### LAL @ GSW
 Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW)
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Matisse Thybulle 3pm under 1.5 **+** Yaxel Lendeborg 4+ reb | 57.0% | 1.75 | 1.84 | 1.64 | -6.2% |
-| Sandro Mamukelashvili 4+ reb **+** Yaxel Lendeborg 5+ reb | 50.9% | 1.97 | 2.06 | 1.85 | -6.0% |
-| Walker Kessler pts under 14.5 **+** Yaxel Lendeborg 10+ pts | 51.7% | 1.93 | 2.03 | 1.94 | +0.1% |
-| Walker Kessler pra under 26.5 **+** Sandro Mamukelashvili 3+ reb | 41.9% | 2.39 | 2.50 | 2.44 | +2.2% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -1120,15 +1029,6 @@ Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW)
 
 ### DEN @ PHX
 Out: Drew Timme (PHX), Mark Williams (PHX), Julian Strawther (DEN)
-
-**Best multis (one per price band)**
-
-| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
-|---|--:|--:|--:|--:|--:|
-| Jalen Green 3pm under 2.5 **+** Nikola Jokic 25+ pra | 57.8% | 1.73 | 1.82 | 1.61 | -6.9% |
-| Khaman Maluach pts under 8.5 **+** Nikola Jokic 25+ pra | 54.5% | 1.83 | 1.93 | 1.82 | -0.7% |
-| Khaman Maluach pr under 16.5 **+** Nikola Jokic 25+ pra | 54.2% | 1.84 | 1.94 | 1.86 | +1.1% |
-| Khaman Maluach reb under 7.5 **+** Dillon Brooks 15+ pra | 42.9% | 2.33 | 2.45 | 2.37 | +1.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|

@@ -235,8 +235,8 @@ def build(today: date | None = None) -> str:
                   "for months.")
     else:
         md.append("_No graded best bets yet._")
-    md.append("## Best player props per game (top 3 main lines)")
-    md.append("The \"Best player props\" box in each game's section of TODAY.md: up to 3 main-line props per game "
+    md.append("## Best player props per game (main lines)")
+    md.append("The \"Best player props\" box in each game's section of TODAY.md: every main-line prop "
               "with positive EV, no news flag and offered at Sportsbet, as listed on the last update before tip, "
               "graded at the price shown then. These include edges under 5%, so expect a thinner margin than "
               "best bets.")
@@ -252,7 +252,6 @@ def build(today: date | None = None) -> str:
             main[keep] = "true"
         pp = pp[(main == "true") & (pp["ev_blend"] > 0) & (pp["price_decimal"] <= monitor.BEST_MAX_ODDS)]
         pp = sheet(pp, "price_decimal")
-        pp = pp.sort_values("ev_blend", ascending=False).groupby("game_id").head(3)
     md.append(record(pp, "price_decimal", clv=False) + "\n\n" + bet_list(pp, "Every graded game prop")
               if len(pp) else "_No graded game props yet._")
     # daily detail

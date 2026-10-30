@@ -20,7 +20,6 @@ MIN_EV = 0.05          # best-bets threshold
 MAX_STAKE_PCT = 2.0    # cap on quarter-Kelly stake, % of bankroll
 TOP_BETS = 25
 MAX_ODDS = 4.0         # best bets only up to this decimal price
-TOP_PROPS_GAME = 3     # best single props per game
 STATS = [("pts", "PTS"), ("reb", "REB"), ("ast", "AST"), ("fg3m", "3PM"), ("stl", "STL"), ("blk", "BLK"),
          ("tov", "TOV"), ("pra", "PRA")]
 
@@ -124,7 +123,7 @@ def _game_extras(gid, ed: pd.DataFrame) -> str:
             e = e[e["main_line"].astype(str).str.lower() == "true"]
         e = e.sort_values("ev_blend", ascending=False).drop_duplicates(["player", "market", "selection", "line"])
         if len(e):
-            out.append("**Best player props (main lines)**\n\n" + _bets_table(e.head(TOP_PROPS_GAME)))
+            out.append("**Best player props (main lines)**\n\n" + _bets_table(e))
     return "\n\n".join(out)
 
 

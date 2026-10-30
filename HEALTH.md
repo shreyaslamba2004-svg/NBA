@@ -124,17 +124,17 @@ TODAY.md's long-shot table, graded the same way: the final pre-tip list at the p
 
 CLV (closing-line value) compares the price taken with the final no-vig market price before tip. Positive CLV over a few hundred bets is the earliest reliable sign of a real edge; ROI swings for months.
 
-## Best player props per game (top 3 main lines)
+## Best player props per game (main lines)
 
-The "Best player props" box in each game's section of TODAY.md: up to 3 main-line props per game with positive EV, no news flag and offered at Sportsbet, as listed on the last update before tip, graded at the price shown then. These include edges under 5%, so expect a thinner margin than best bets.
+The "Best player props" box in each game's section of TODAY.md: every main-line prop with positive EV, no news flag and offered at Sportsbet, as listed on the last update before tip, graded at the price shown then. These include edges under 5%, so expect a thinner margin than best bets.
 
 | window       |   bets |   won |   profit (units) |   ROI % |
 |:-------------|-------:|------:|-----------------:|--------:|
-| Last 7 days  |     15 |     5 |            -5.42 |   -36.1 |
-| Last 30 days |     15 |     5 |            -5.42 |   -36.1 |
-| Season       |     15 |     5 |            -5.42 |   -36.1 |
+| Last 7 days  |     27 |    10 |            -7.62 |   -28.2 |
+| Last 30 days |     27 |    10 |            -7.62 |   -28.2 |
+| Season       |     27 |    10 |            -7.62 |   -28.2 |
 
-<details><summary>Every graded game prop (15)</summary>
+<details><summary>Every graded game prop (27)</summary>
 
 | date (US)   | bet                              | game      | book       |   odds | EV    | sheet stake   | result   |   units (1 flat) |
 |:------------|:---------------------------------|:----------|:-----------|-------:|:------|:--------------|:---------|-----------------:|
@@ -145,11 +145,23 @@ The "Best player props" box in each game's section of TODAY.md: up to 3 main-lin
 | 2026-10-29  | Ty Jerome PTS under 23.5         | MEM @ POR | tab        |   1.95 | +2.6% | 0.7%          | won      |             0.95 |
 | 2026-10-29  | Jrue Holiday PTS over 12.5       | MEM @ POR | tab        |   1.95 | +2.5% | 0.7%          | lost     |            -1    |
 | 2026-10-29  | Derik Queen PTS over 11.5        | SAC @ NOP | sportsbet  |   1.92 | +2.4% | 0.7%          | lost     |            -1    |
+| 2026-10-29  | Ty Jerome PTS under 24.5         | MEM @ POR | betright   |   1.86 | +2.0% | 0.6%          | won      |             0.86 |
+| 2026-10-29  | Aaron Wiggins PTS under 11.5     | CLE @ ATL | draftkings |   1.99 | +1.7% | 0.4%          | lost     |            -1    |
+| 2026-10-29  | Scoot Henderson PTS over 8.5     | MEM @ POR | tab        |   1.9  | +0.9% | 0.2%          | won      |             0.9  |
+| 2026-10-29  | Zach Edey PTS under 8.5          | MEM @ POR | draftkings |   1.9  | +0.9% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Dyson Daniels PTS under 11.5     | CLE @ ATL | tab        |   1.87 | +0.7% | 0.2%          | won      |             0.87 |
+| 2026-10-29  | Damian Lillard RA over 8.5       | MEM @ POR | draftkings |   2.1  | +0.6% | 0.1%          | lost     |            -1    |
+| 2026-10-29  | Donovan Mitchell PTS over 24.5   | CLE @ ATL | sportsbet  |   2.02 | +0.4% | 0.1%          | lost     |            -1    |
 | 2026-10-29  | Derik Queen REB over 7.5         | SAC @ NOP | draftkings |   1.92 | +0.3% | 0.1%          | lost     |            -1    |
+| 2026-10-29  | Cedric Coward PA under 15.5      | MEM @ POR | draftkings |   1.88 | +0.2% | 0.1%          | lost     |            -1    |
 | 2026-10-29  | Darius Acuff Jr. PA under 28.5   | SAC @ NOP | draftkings |   1.81 | +0.2% | 0.1%          | lost     |            -1    |
+| 2026-10-29  | De'Andre Hunter PTS under 12.5   | SAC @ NOP | tab        |   1.85 | +0.2% | 0.1%          | lost     |            -1    |
+| 2026-10-29  | Damian Lillard 3PM under 2.5     | MEM @ POR | draftkings |   2.28 | +0.2% | 0.0%          | won      |             1.28 |
+| 2026-10-29  | Zion Williamson PTS over 21.5    | SAC @ NOP | draftkings |   1.89 | +0.1% | 0.0%          | won      |             0.89 |
+| 2026-10-29  | Darius Acuff Jr. PTS under 22.5  | SAC @ NOP | draftkings |   1.86 | +0.0% | 0.0%          | lost     |            -1    |
+| 2026-10-28  | Kevin Durant RA over 10.5        | HOU @ MIL | draftkings |   1.97 | +0.9% | 0.2%          | lost     |            -1    |
 | 2026-10-28  | Karl-Anthony Towns RA under 16.5 | NYK @ CHI | draftkings |   1.94 | +0.5% | 0.1%          | lost     |            -1    |
 | 2026-10-28  | Kel'el Ware PR under 17.5        | HOU @ MIL | draftkings |   1.86 | +0.4% | 0.1%          | won      |             0.86 |
-| 2026-10-28  | Daniss Jenkins RA over 6.5       | CHA @ DET | draftkings |   1.96 | +0.3% | 0.1%          | lost     |            -1    |
 | 2026-10-28  | Dejounte Murray PTS under 17.5   | DEN @ NOP | draftkings |   1.86 | +0.2% | 0.1%          | won      |             0.86 |
 | 2026-10-28  | Wendell Carter Jr. PTS over 10.5 | ORL @ TOR | draftkings |   1.84 | +0.1% | 0.0%          | lost     |            -1    |
 | 2026-10-28  | Aaron Gordon 3PM under 1.5       | DEN @ NOP | draftkings |   2.08 | +0.1% | 0.0%          | lost     |            -1    |
