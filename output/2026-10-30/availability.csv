@@ -70,7 +70,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909278,CHI,905095151,Caleb Wilson,,,1.0,,,
 401909279,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.,,
 401909279,BKN,905101761,Mikel Brown Jr.,,,1.0,,,
-401909279,BKN,1641730,Noah Clowney,Day-To-Day,,0.7,,,
+401909279,BKN,1641730,Noah Clowney,Day-To-Day,"Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports.",0.7,"Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports.",,
 401909279,BKN,1642856,Egor Demin,Out,Injury/Illness-RightBoneBruise,0.0,"The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",,
 401909279,BKN,1631165,Keon Ellis,,,1.0,,,
 401909279,BKN,904870564,Joshua Jefferson,Out,GLeague-OnAssignment,0.0,,,
