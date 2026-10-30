@@ -160,6 +160,16 @@ def _game_extras(gid, ed: pd.DataFrame, sg: pd.DataFrame, matchup: str) -> str:
     return "\n\n".join(out)
 
 
+LINES: dict = {}  # (player_id, book) -> main points line, set by build()
+
+
+def _pts_lines(pid) -> str:
+    dk, sb = LINES.get((pid, "draftkings")), LINES.get((pid, "sportsbet"))
+    if dk is None and sb is None:
+        return ""
+    return f"{'–' if dk is None else f'{dk:g}'} · {'–' if sb is None else f'{sb:g}'}"
+
+
 def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = False) -> str:
     t = ps if team is None else ps[ps["team"] == team]
     t = t[t["play_prob"] > 0].sort_values(["team", "proj_min"] if show_team else "proj_min",
@@ -167,9 +177,12 @@ def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = F
     rows = []
     for _, r in t.iterrows():
         name = r["player"] + (f" ({r['team']})" if show_team else "")
-        rows.append([name, f"{int(round(100 * r['play_prob']))}%", _f(r["proj_min"], 1)] +
-                    [_f(r.get(f"proj_{s}"), 1) for s, _ in STATS])
-    return _table(["Player", "Plays", "Min"] + [lab for _, lab in STATS], rows)
+        cells = [_f(r.get(f"proj_{s}"), 1) for s, _ in STATS]
+        cells.insert(1, _pts_lines(r["player_id"]))  # bookies' points lines next to the projection
+        rows.append([name, f"{int(round(100 * r['play_prob']))}%", _f(r["proj_min"], 1)] + cells)
+    heads = [lab for _, lab in STATS]
+    heads.insert(1, "Pts line DK · SB")
+    return _table(["Player", "Plays", "Min"] + heads, rows)
 
 
 def _line_cells(r) -> list:
@@ -255,6 +268,11 @@ def build(day: date) -> Path | None:
     if not d.exists():
         return None
     g, ps, ed, sg = (_read(d, n) for n in ("games", "players", "edges", "sgm"))
+    ln = _read(d, "lines")
+    LINES.clear()
+    if ln is not None and len(ln):
+        ln = ln[ln["market"] == "prop_pts"]
+        LINES.update({(r.player_id, r.book): float(r.line) for r in ln.itertuples()})
     gen = "n/a"
     st = d / "state.json"
     if st.exists():

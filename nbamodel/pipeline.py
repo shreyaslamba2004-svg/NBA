@@ -556,6 +556,13 @@ def latest_book_lines(slate: pd.DataFrame) -> pd.DataFrame | None:
 def write_outputs(day: date, res: dict, tag: str = "") -> Path:
     d = OUT / day.isoformat()
     d.mkdir(parents=True, exist_ok=True)
+    ed = res.get("edges")
+    if ed is not None and len(ed) and "main_line" in ed:  # each book's main line per player, for the sheet
+        m = ed[ed["market"].astype(str).str.startswith("prop_") & (ed["main_line"].astype(str).str.lower() == "true")
+               & ed["book"].isin(["draftkings", "sportsbet"])].copy()
+        m["even"] = (m["book_novig_prob"].astype(float) - 0.5).abs()
+        m = m.sort_values("even").drop_duplicates(["game_id", "player_id", "market", "book"])
+        m[["game_id", "player_id", "market", "book", "line"]].to_csv(d / "lines.csv", index=False)
     for k, v in res.items():
         if k == "edges" and "ev_blend" in v:  # the sheet only lists value; the full menu is in logs/
             v = v[v["ev_blend"] > 0]
