@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 11:01 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 11:06 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -44,17 +44,17 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 49.9% | 2.00 | 2.10 | 2.06 | +2.6% |
+| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | CLE @ ATL | 50.0% | 2.00 | 2.10 | 2.05 | +2.6% |
+| Kingston Flemings pts under 8.5 **+** Nickeil Alexander-Walker 1+ 3pm | CLE @ ATL | 49.8% | 2.01 | 2.11 | 2.05 | +2.3% |
 | Saddiq Bey 17+ pr **+** Domantas Sabonis 25+ pra | SAC @ NOP | 48.9% | 2.05 | 2.15 | 2.07 | +1.0% |
-| Jrue Holiday 8+ ra **+** Ja Morant 4+ ast | MEM @ POR | 47.5% | 2.10 | 2.21 | 2.09 | -0.7% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Saddiq Bey 13+ pts **+** Derik Queen 8+ pts | SAC @ NOP | 43.7% | 2.29 | 2.40 | 2.37 | +3.7% |
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 20+ pra | CLE @ ATL | 48.5% | 2.06 | 2.17 | 2.14 | +3.5% |
-| Kingston Flemings pts under 8.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 46.6% | 2.15 | 2.25 | 2.22 | +3.2% |
+| Kingston Flemings pts under 8.5 **+** Onyeka Okongwu 6+ pts | CLE @ ATL | 46.6% | 2.15 | 2.25 | 2.22 | +3.3% |
+| Saddiq Bey 13+ pts **+** Trey Murphy III 2+ 3pm | SAC @ NOP | 42.7% | 2.34 | 2.46 | 2.42 | +3.2% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -97,10 +97,10 @@ Out: RayJ Dennis (ATL), Keshon Gilbert (ATL), Mouhamed Gueye (ATL), Jalen Wilson
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Onyeka Okongwu 8+ pts **+** Jalen Johnson 1+ 3pm | 58.0% | 1.72 | 1.81 | 1.57 | -9.2% |
-| Onyeka Okongwu 8+ pts **+** Donovan Mitchell 3+ reb **+** Jalen Johnson 1+ 3pm | 47.5% | 2.11 | 2.21 | 1.84 | -12.7% |
-| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | 49.9% | 2.00 | 2.10 | 2.06 | +2.6% |
-| Kingston Flemings pts under 8.5 **+** Donovan Mitchell 20+ pra | 48.5% | 2.06 | 2.17 | 2.14 | +3.5% |
+| Onyeka Okongwu 8+ pts **+** Jalen Johnson 1+ 3pm | 58.3% | 1.72 | 1.80 | 1.56 | -9.3% |
+| Donovan Mitchell 3+ reb **+** Onyeka Okongwu 8+ pts **+** Jalen Johnson 1+ 3pm | 47.7% | 2.10 | 2.20 | 1.83 | -12.8% |
+| Kingston Flemings pts under 8.5 **+** Evan Mobley 4+ reb | 50.0% | 2.00 | 2.10 | 2.05 | +2.6% |
+| Kingston Flemings pts under 8.5 **+** Onyeka Okongwu 6+ pts | 46.6% | 2.15 | 2.25 | 2.22 | +3.3% |
 
 <details><summary>CLE players (confirmed only)</summary>
 
