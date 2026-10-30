@@ -41,7 +41,7 @@ def sh(cmd: str) -> int:
 
 
 def commit(msg: str) -> None:
-    sh("git add -f TODAY.md HEALTH.md logs output data/processed/current_season_* data/processed/espn_crosswalk.json")
+    sh("git add -f TODAY.md HEALTH.md history logs output data/processed/current_season_* data/processed/espn_crosswalk.json")
     if sh("git diff --cached --quiet") == 0:
         return
     sh(f'git commit -q -m "{msg}"')

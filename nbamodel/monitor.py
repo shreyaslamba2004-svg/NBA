@@ -31,7 +31,8 @@ BEST_EV, BEST_MAX_ODDS = 0.05, 4.0
 
 
 def _read_all(pattern: str) -> pd.DataFrame:
-    fs = sorted((LOGS / pattern.split("/")[0]).glob(pattern.split("/")[1]))
+    folder, pat = LOGS / pattern.split("/")[0], pattern.split("/")[1]
+    fs = sorted([*folder.glob(pat), *folder.glob(pat + ".gz")], key=lambda f: f.name)
     return pd.concat([pd.read_csv(f).assign(_file=f.name) for f in fs], ignore_index=True) if fs else pd.DataFrame()
 
 
@@ -166,7 +167,8 @@ def staleness_alerts(today: date | None = None) -> list[str]:
         played = 0 if today.month in (7, 8, 9) else 1
     if not played:
         return out
-    recent = sorted((LOGS / "projections").glob("*_games.csv"))
+    recent = sorted([*(LOGS / "projections").glob("*_games.csv"), *(LOGS / "projections").glob("*_games.csv.gz")],
+                    key=lambda f: f.name)
     if recent:
         last = date.fromisoformat(recent[-1].name[:10])
         if (today - last).days > 3:

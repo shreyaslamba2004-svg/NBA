@@ -111,7 +111,9 @@ lineup news or a DraftKings prop price changes, and buys AU prop prices for each
 minutes before tip. `weekly.yml` grades the logs and retrains on Mondays.
 `HEALTH.md` is rebuilt each night by the grading run: live accuracy against a last-10-game baseline (7 days,
 30 days, season, and the backtest for reference), best-bet ROI and closing-line value, multis, and a
-better / same / worse verdict (`nbamodel/health.py`). Each run:
+better / same / worse verdict (`nbamodel/health.py`). The same run writes `history/<date>.md`: each past
+day's final pre-tip projections next to the box score (index: `history/README.md`), and gzips logs more than
+a day old. Each run:
 1. grades yesterday: final scores and player lines go to `logs/results/`
 2. pulls new box scores and refreshes the current season
 3. projects today's slate

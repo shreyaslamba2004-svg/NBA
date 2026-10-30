@@ -87,8 +87,9 @@ def _grade_sgms(d: str, r: pd.DataFrame, tips: dict) -> dict:
 
 
 def grade_day(d: str, pg: pd.DataFrame) -> dict | None:
-    pf = LOGS / "projections" / f"{d}_players.csv"
-    if not pf.exists() or not (LOGS / "results" / f"{d}.csv").exists():
+    from .market_log import log_file
+    pf = log_file(LOGS / "projections" / f"{d}_players.csv")
+    if pf is None or not (LOGS / "results" / f"{d}.csv").exists():
         return None
     r = _results(d)
     tips = _tips(d)

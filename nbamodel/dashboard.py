@@ -266,7 +266,7 @@ def build(day: date) -> Path | None:
              f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
              "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. "
-             "Is the model getting better or worse? See [HEALTH.md](HEALTH.md).",
+             "Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).",
              "## Sanity checks", sanity_md(d),
              f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})",
              "DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 "

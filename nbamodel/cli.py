@@ -84,6 +84,15 @@ def cmd_snapshot(a):
         health.build()
     except Exception as e:
         print("health page failed:", e)
+    try:
+        from . import history
+        history.build()  # each graded day's page is written once
+    except Exception as e:
+        print("history pages failed:", e)
+    try:
+        market_log.compact()
+    except Exception as e:
+        print("log compaction failed:", e)
     slate = espn.scoreboard(day)
     slate = slate[slate["status"] == "STATUS_SCHEDULED"]
     if slate.empty:

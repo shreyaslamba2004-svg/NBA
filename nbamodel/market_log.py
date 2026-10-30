@@ -4,10 +4,12 @@ Game lines (moneyline, spread, total) and the full DraftKings player-prop menu (
 current prices) come from ESPN's public feeds: free, no key. If ODDS_API_KEY is set, other
 books' prop prices from The Odds API are logged too (free tier: 500 credits/month).
 
-Files (CSV, one row per observation, never overwritten):
-  logs/market/game_lines.csv     snapshot_utc, game_id, matchup, book, spreads/totals/MLs
-  logs/market/props.csv          snapshot_utc, game_id, player, stat, side, line, price, book
-  logs/projections/<date>_games.csv / _players.csv   model output at the same snapshot
+Files (CSV, one row per observation, never overwritten; one file per game day so none grows
+past GitHub's 100 MB file limit, and days more than one day old are gzipped by the nightly run):
+  logs/market/game_lines/<date>.csv   snapshot_utc, game_id, matchup, book, spreads/totals/MLs
+  logs/market/props/<date>.csv        snapshot_utc, game_id, player, stat, side, line, price, book
+  logs/market/book_lines/<date>.csv   every AU book's game lines (Odds API)
+  logs/projections/<date>_games.csv / _players.csv / _edges.csv   model output at each snapshot
   logs/results/<date>.csv        final scores + player box lines, joined later for grading
 """
 from __future__ import annotations
@@ -35,6 +37,30 @@ def _append(path: Path, df: pd.DataFrame) -> None:
             pd.concat([old, df], ignore_index=True).to_csv(path, index=False)
             return
     df.to_csv(path, mode="a", header=not path.exists(), index=False)
+
+
+def log_file(path: Path) -> Path | None:
+    """A day's log, plain or already gzipped by compact(); None if neither exists."""
+    gz = path.with_name(path.name + ".gz")
+    return path if path.exists() else gz if gz.exists() else None
+
+
+def recent_logs(folder: Path, n: int = 2) -> list[Path]:
+    """The last n dated logs in a folder (plain or gzipped)."""
+    fs = sorted(list(folder.glob("*.csv")) + list(folder.glob("*.csv.gz")), key=lambda f: f.name[:10])
+    return fs[-n:]
+
+
+def compact(keep_days: int = 2) -> None:
+    """Gzip dated logs older than keep_days (they're no longer appended to). About 8x smaller."""
+    import gzip
+    import shutil
+    cutoff = (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=keep_days)).strftime("%Y-%m-%d")
+    for f in [*(LOGS / "projections").glob("*.csv"), *(LOGS / "market").glob("*/*.csv")]:
+        if f.name[:10] < cutoff and f.name[:4].isdigit():
+            with f.open("rb") as src, gzip.open(f.with_name(f.name + ".gz"), "wb") as dst:
+                shutil.copyfileobj(src, dst)
+            f.unlink()
 
 
 def _read_log(path: Path) -> pd.DataFrame:
@@ -66,7 +92,8 @@ def log_game_lines(slate: pd.DataFrame, snapshot: str) -> pd.DataFrame:
             rows.append({"snapshot_utc": snapshot, "game_id": r.game_id, "date": str(r.game_date)[:10],
                          "matchup": f"{r.away} @ {r.home}", **ln})
     df = pd.DataFrame(rows)
-    _append(LOGS / "market" / "game_lines.csv", df)
+    for d, part in df.groupby("date") if len(df) else []:
+        _append(LOGS / "market" / "game_lines" / f"{d}.csv", part)
     return df
 
 
@@ -77,7 +104,7 @@ def log_props(slate: pd.DataFrame, snapshot: str, use_odds_api: bool = True) -> 
     if df is None or df.empty:
         return pd.DataFrame()
     df = df.assign(snapshot_utc=snapshot, date=str(slate["game_date"].iloc[0])[:10])
-    _append(LOGS / "market" / "props.csv", df)
+    _append(LOGS / "market" / "props" / f"{str(slate['game_date'].iloc[0])[:10]}.csv", df)
     return df
 
 
@@ -90,7 +117,7 @@ def log_book_lines(snapshot: str) -> pd.DataFrame:
         print("book lines skipped:", e)
         return pd.DataFrame()
     df = df.assign(snapshot_utc=snapshot)
-    _append(LOGS / "market" / "book_lines.csv", df)
+    _append(LOGS / "market" / "book_lines" / f"{snapshot[:10]}.csv", df)
     return df
 
 

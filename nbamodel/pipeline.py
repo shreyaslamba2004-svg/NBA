@@ -541,10 +541,11 @@ def _espn_names(cw, ids) -> dict:
 
 def latest_book_lines(slate: pd.DataFrame) -> pd.DataFrame | None:
     """Most recent logged Odds API game lines for today's matchups (AU books by default)."""
-    p = ROOT / "logs" / "market" / "book_lines.csv"
-    if not p.exists():
+    from .market_log import recent_logs
+    fs = recent_logs(ROOT / "logs" / "market" / "book_lines")
+    if not fs:
         return None
-    d = pd.read_csv(p)
+    d = pd.concat([pd.read_csv(f) for f in fs], ignore_index=True)
     d = d.merge(slate[["home", "away"]], on=["home", "away"])
     if d.empty:
         return None
@@ -564,10 +565,11 @@ def write_outputs(day: date, res: dict, tag: str = "") -> Path:
 
 def latest_props(slate: pd.DataFrame) -> pd.DataFrame | None:
     """Most recent logged props per game and source (free ESPN DraftKings + any AU books bought)."""
-    p = ROOT / "logs" / "market" / "props.csv"
-    if not p.exists():
+    from .market_log import recent_logs
+    fs = recent_logs(ROOT / "logs" / "market" / "props")
+    if not fs:
         return None
-    d = pd.read_csv(p)
+    d = pd.concat([pd.read_csv(f, low_memory=False) for f in fs], ignore_index=True)
     d = d[d["game_id"].isin(slate["game_id"])]
     if d.empty:
         return None
