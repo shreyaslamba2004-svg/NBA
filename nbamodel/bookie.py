@@ -3,7 +3,8 @@
 Bookies don't list every player for every stat: Sportsbet has points for most of the rotation but
 assists, PRA and the two-stat combos only for the main players, and the combos only at one line.
 No free feed says exactly who is listed, so each stat allows the top N players in the game by
-projected output, and stats without a milestone ladder allow only the main over/under line.
+projected output, and stats without a milestone ladder allow only the main over/under line. An over X.5 alt line is
+the same bet as a (X+1)+ milestone, so it counts wherever the stat has a ladder; alt unders never do.
 """
 from __future__ import annotations
 
@@ -41,6 +42,8 @@ def offered(offers: pd.DataFrame, gp: pd.DataFrame) -> pd.Series:
             continue
         stat = r.market[5:]
         rule = mk.get(stat)
-        ok.append(bool(rule) and r.player_id in exp.get(stat, set()) and
-                  (rule.get("milestones", True) or bool(getattr(r, "paired", True))))
+        main = bool(getattr(r, "paired", True))
+        # an alt over X.5 is the same bet as the bookie's (X+1)+ milestone; there are no alt unders
+        alt_ok = rule and rule.get("milestones", True) and str(getattr(r, "selection", "over")) == "over"
+        ok.append(bool(rule) and r.player_id in exp.get(stat, set()) and (main or bool(alt_ok)))
     return pd.Series(ok, index=offers.index)

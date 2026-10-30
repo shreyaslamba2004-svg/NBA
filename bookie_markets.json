@@ -1,15 +1,43 @@
 {
   "book": "Sportsbet",
-  "about": "Which player props your bookie offers. Bets, multis and per-game props only use these. Edit to suit: remove a stat to stop suggesting it, change players_per_game, or set milestones to false when the bookie only has one line per player (no 10+, 15+ ladder). Checked 2026-10-28 on ATL v MIA via The Odds API; Sportsbet adds players closer to tip.",
+  "about": "Which player props your bookie offers. Bets, multis and per-game props only use these. Edit to suit: remove a stat to stop suggesting it, change players_per_game, or set milestones to false when the bookie only has one line per player (no 10+, 15+ ladder). An over X.5 alt line counts as offered when milestones is true, since it's the same bet as Sportsbet's (X+1)+ market; alt-line unders never count. Blocks added 2026-10-30 (user saw Anthony Davis 2+ blocks). Checked 2026-10-28 on ATL v MIA via The Odds API; Sportsbet adds players closer to tip.",
   "only_offered": true,
   "markets": {
-    "pts":  {"players_per_game": 16, "milestones": true},
-    "reb":  {"players_per_game": 14, "milestones": true},
-    "ast":  {"players_per_game": 7,  "milestones": true},
-    "fg3m": {"players_per_game": 14, "milestones": true},
-    "pra":  {"players_per_game": 7,  "milestones": true},
-    "pr":   {"players_per_game": 14, "milestones": false},
-    "pa":   {"players_per_game": 7,  "milestones": false},
-    "ra":   {"players_per_game": 7,  "milestones": false}
+    "pts": {
+      "players_per_game": 16,
+      "milestones": true
+    },
+    "reb": {
+      "players_per_game": 14,
+      "milestones": true
+    },
+    "ast": {
+      "players_per_game": 7,
+      "milestones": true
+    },
+    "fg3m": {
+      "players_per_game": 14,
+      "milestones": true
+    },
+    "pra": {
+      "players_per_game": 7,
+      "milestones": true
+    },
+    "pr": {
+      "players_per_game": 14,
+      "milestones": false
+    },
+    "pa": {
+      "players_per_game": 7,
+      "milestones": false
+    },
+    "ra": {
+      "players_per_game": 7,
+      "milestones": false
+    },
+    "blk": {
+      "players_per_game": 8,
+      "milestones": true
+    }
   }
 }

@@ -62,7 +62,8 @@ def _bet_label(r) -> str:
     if m == "team_total":
         return f"{sel} {line}"
     stat = m.replace("prop_", "").upper().replace("FG3M", "3PM")
-    return f"{r.get('player', '')} {stat} {sel} {line}"
+    plus = f" ({float(line) + 0.5:g}+)" if sel == "over" and float(line) % 1 == 0.5 else ""  # Sportsbet's milestone name
+    return f"{r.get('player', '')} {stat} {sel} {line}{plus}"
 
 
 def _stake(k) -> str:
