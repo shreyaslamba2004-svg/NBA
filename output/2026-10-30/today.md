@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 04:10 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 04:25 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -23,23 +23,29 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Pascal Siakam PTS over 39.5 | IND @ MIA | draftkings | 16.40 | 8.27 | 12.1% | 5.7% | 7.3% | +19.7% | +98.2% | 0.3% |
-| Pascal Siakam PTS over 44.5 | IND @ MIA | draftkings | 31.00 | 15.67 | 6.4% | 3.0% | 3.9% | +19.6% | +97.9% | 0.2% |
-| Davion Mitchell REB over 4.5 | IND @ MIA | draftkings | 10.80 | 6.07 | 16.5% | 8.6% | 10.6% | +14.6% | +78.0% | 0.4% |
-| Zaccharie Risacher REB over 8.5 | HOU @ DAL | draftkings | 14.20 | 8.34 | 12.0% | 6.6% | 7.9% | +12.7% | +70.3% | 0.2% |
-| Zaccharie Risacher REB over 7.5 | HOU @ DAL | draftkings | 8.60 | 5.18 | 19.3% | 10.9% | 13.0% | +11.6% | +66.2% | 0.4% |
-| Davion Mitchell REB over 5.5 | IND @ MIA | draftkings | 21.00 | 12.65 | 7.9% | 4.5% | 5.3% | +11.6% | +66.0% | 0.1% |
-| Pascal Siakam PTS over 34.5 | IND @ MIA | draftkings | 7.70 | 4.67 | 21.4% | 12.1% | 14.4% | +11.3% | +64.7% | 0.4% |
-| Zaccharie Risacher REB over 9.5 | HOU @ DAL | draftkings | 23.00 | 14.06 | 7.1% | 4.1% | 4.8% | +11.0% | +63.5% | 0.1% |
-| Davion Mitchell REB over 3.5 | IND @ MIA | draftkings | 5.17 | 3.16 | 31.6% | 18.1% | 21.5% | +11.0% | +63.5% | 0.7% |
-| VJ Edgecombe AST over 5.5 | NYK @ PHI | draftkings | 13.40 | 8.49 | 11.8% | 7.0% | 8.2% | +9.5% | +57.8% | 0.2% |
-| Duncan Robinson AST over 4.5 | DET @ BKN | draftkings | 10.70 | 6.87 | 14.5% | 8.7% | 10.2% | +9.0% | +55.7% | 0.2% |
-| Brandon Miller PTS over 49.5 | CHA @ WAS | draftkings | 30.00 | 19.29 | 5.2% | 3.1% | 3.6% | +9.0% | +55.5% | 0.1% |
-| Duncan Robinson AST over 5.5 | DET @ BKN | draftkings | 21.00 | 14.35 | 7.0% | 4.5% | 5.1% | +6.7% | +46.4% | 0.1% |
-| Duncan Robinson AST over 3.5 | DET @ BKN | draftkings | 5.11 | 3.53 | 28.3% | 18.3% | 20.8% | +6.2% | +44.6% | 0.4% |
-| CHI to win | CHI @ BOS | ladbrokes_au | 7.75 | 5.35 | 18.7% | 13.7% | 13.7% | +6.1% | +45.0% | 0.2% |
-| Jayson Tatum REB over 13.5 | CHI @ BOS | draftkings | 12.00 | 8.47 | 11.8% | 7.8% | 8.8% | +5.5% | +41.7% | 0.1% |
-| Mitchell Robinson REB over 13.5 | CHI @ BOS | draftkings | 18.40 | 13.12 | 7.6% | 5.1% | 5.7% | +5.1% | +40.2% | 0.1% |
+| Pascal Siakam PTS over 39.5 (40+) | IND @ MIA | draftkings | 16.40 | 8.27 | 12.1% | 5.7% | 7.3% | +19.7% | +98.2% | 0.3% |
+| Pascal Siakam PTS over 44.5 (45+) | IND @ MIA | draftkings | 31.00 | 15.67 | 6.4% | 3.0% | 3.9% | +19.6% | +97.9% | 0.2% |
+| Grayson Allen STL over 2.5 (3+) | CHA @ WAS | draftkings | 13.00 | 6.83 | 14.6% | 7.2% | 9.0% | +17.7% | +90.5% | 0.4% |
+| Davion Mitchell REB over 4.5 (5+) | IND @ MIA | draftkings | 10.80 | 6.07 | 16.5% | 8.6% | 10.6% | +14.6% | +78.0% | 0.4% |
+| Zaccharie Risacher REB over 8.5 (9+) | HOU @ DAL | draftkings | 14.20 | 8.34 | 12.0% | 6.6% | 7.9% | +12.7% | +70.3% | 0.2% |
+| Zaccharie Risacher REB over 7.5 (8+) | HOU @ DAL | draftkings | 8.60 | 5.18 | 19.3% | 10.9% | 13.0% | +11.6% | +66.2% | 0.4% |
+| Davion Mitchell REB over 5.5 (6+) | IND @ MIA | draftkings | 21.00 | 12.65 | 7.9% | 4.5% | 5.3% | +11.6% | +66.0% | 0.1% |
+| Pascal Siakam PTS over 34.5 (35+) | IND @ MIA | draftkings | 7.70 | 4.67 | 21.4% | 12.1% | 14.4% | +11.3% | +64.7% | 0.4% |
+| Zaccharie Risacher REB over 9.5 (10+) | HOU @ DAL | draftkings | 23.00 | 14.06 | 7.1% | 4.1% | 4.8% | +11.0% | +63.5% | 0.1% |
+| Davion Mitchell REB over 3.5 (4+) | IND @ MIA | draftkings | 5.17 | 3.16 | 31.6% | 18.1% | 21.5% | +11.0% | +63.5% | 0.7% |
+| Grayson Allen STL over 1.5 (2+) | CHA @ WAS | draftkings | 4.54 | 2.85 | 35.1% | 20.6% | 24.2% | +9.9% | +59.4% | 0.7% |
+| VJ Edgecombe AST over 5.5 (6+) | NYK @ PHI | draftkings | 13.40 | 8.49 | 11.8% | 7.0% | 8.2% | +9.5% | +57.8% | 0.2% |
+| Duncan Robinson AST over 4.5 (5+) | DET @ BKN | draftkings | 10.70 | 6.87 | 14.5% | 8.7% | 10.2% | +9.0% | +55.7% | 0.2% |
+| Brandon Miller PTS over 49.5 (50+) | CHA @ WAS | draftkings | 30.00 | 19.29 | 5.2% | 3.1% | 3.6% | +9.0% | +55.5% | 0.1% |
+| Anthony Davis BLK over 2.5 (3+) | CHA @ WAS | draftkings | 6.63 | 4.28 | 23.4% | 14.1% | 16.4% | +8.8% | +55.0% | 0.4% |
+| Amen Thompson STL over 3.5 (4+) | HOU @ DAL | draftkings | 12.20 | 8.25 | 12.1% | 7.7% | 8.8% | +7.1% | +47.9% | 0.2% |
+| Duncan Robinson AST over 5.5 (6+) | DET @ BKN | draftkings | 21.00 | 14.35 | 7.0% | 4.5% | 5.1% | +6.7% | +46.4% | 0.1% |
+| Duncan Robinson AST over 3.5 (4+) | DET @ BKN | draftkings | 5.11 | 3.53 | 28.3% | 18.3% | 20.8% | +6.2% | +44.6% | 0.4% |
+| CHI to win | CHI @ BOS | neds | 7.75 | 5.35 | 18.7% | 13.7% | 13.7% | +6.1% | +45.0% | 0.2% |
+| Anthony Davis BLK over 3.5 (4+) | CHA @ WAS | draftkings | 15.40 | 10.78 | 9.3% | 6.1% | 6.9% | +5.8% | +42.9% | 0.1% |
+| Ausar Thompson STL over 3.5 (4+) | DET @ BKN | draftkings | 8.60 | 6.07 | 16.5% | 10.9% | 12.3% | +5.5% | +41.8% | 0.2% |
+| Jayson Tatum REB over 14.5 (15+) | CHI @ BOS | draftkings | 17.60 | 12.56 | 8.0% | 5.3% | 6.0% | +5.1% | +40.2% | 0.1% |
+| Amen Thompson STL over 2.5 (3+) | HOU @ DAL | draftkings | 5.14 | 3.68 | 27.2% | 18.2% | 20.4% | +5.1% | +39.8% | 0.3% |
 
 ## Wait for news
 
@@ -47,7 +53,7 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Kevin Durant AST over 5.5 | HOU @ DAL | draftkings | 3.66 | Alperen Sengun | 53.3% | 42.1% | +10.3% |
+| Kevin Durant AST over 5.5 (6+) | HOU @ DAL | draftkings | 3.66 | Alperen Sengun | 53.3% | 42.1% | +10.3% |
 | Khaman Maluach REB under 7.5 | DEN @ PHX | draftkings | 2.06 | Oso Ighodaro | 67.7% | 74.2% | +6.4% |
 | Mikel Brown Jr. 3PM under 1.5 | DET @ BKN | draftkings | 2.32 | Drake Powell | 55.7% | 62.0% | +6.2% |
 | Khaman Maluach PR under 16.5 | DEN @ PHX | draftkings | 1.81 | Oso Ighodaro | 77.0% | 81.1% | +5.8% |
@@ -62,7 +68,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | John Collins PR under 21.5 | DET @ BKN | draftkings | 1.96 | 1.35 | 74.0% | 47.6% | 54.2% | +6.4% | +45.1% | 1.7% |
 | Walker Kessler PTS under 14.5 | LAL @ GSW | draftkings | 1.83 | 1.29 | 77.4% | 51.2% | 57.7% | +5.4% | +41.3% | 1.6% |
-| Davion Mitchell REB over 2.5 | IND @ MIA | draftkings | 2.67 | 1.89 | 52.8% | 35.0% | 39.5% | +5.3% | +41.0% | 0.8% |
+| Davion Mitchell REB over 2.5 (3+) | IND @ MIA | draftkings | 2.67 | 1.89 | 52.8% | 35.0% | 39.5% | +5.3% | +41.0% | 0.8% |
 | John Collins PTS under 14.5 | DET @ BKN | draftkings | 1.93 | 1.37 | 72.9% | 48.5% | 54.6% | +5.2% | +40.4% | 1.4% |
 
 ## Projections
@@ -74,7 +80,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CHA @ WAS | Sat 31 Oct 10:00 | 118.1–111.8 | CHA 67% | 1.49 / 3.05 | WAS +6.5 | 229.5 | WAS +1.5 covers 36%; o218.5 73% |
-| CHI @ BOS | Sat 31 Oct 10:30 | 109.0–123.5 | CHI 15% | 6.52 / 1.18 | BOS -14.5 | 232.5 | BOS -15.5 covers 48%; o234.5 45% |
+| CHI @ BOS | Sat 31 Oct 10:30 | 109.0–123.5 | CHI 15% | 6.52 / 1.18 | BOS -14.5 | 232.5 | BOS -14.5 covers 51%; o235.5 43% |
 | DET @ BKN | Sat 31 Oct 10:30 | 115.6–103.1 | DET 81% | 1.23 / 5.28 | BKN +12.5 | 218.5 | BKN +8.5 covers 39%; o222.5 42% |
 | NYK @ PHI | Sat 31 Oct 10:30 | 115.2–108.6 | NYK 68% | 1.48 / 3.08 | PHI +6.5 | 223.5 | PHI +1.5 covers 35%; o226.5 44% |
 | ORL @ TOR | Sat 31 Oct 10:30 | 108.2–117.0 | ORL 27% | 3.72 / 1.37 | TOR -8.5 | 225.5 | TOR -5.5 covers 59%; o227.5 45% |
@@ -91,6 +97,7 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Anthony Davis BLK over 1.5 (2+) | CHA @ WAS | draftkings | 2.78 | 2.06 | 48.5% | 33.9% | 37.6% | +4.5% | +34.9% | 0.6% |
 | Naz Reid 3PM under 2.5 | CHA @ WAS | draftkings | 1.95 | 1.59 | 62.8% | 47.9% | 51.6% | +0.7% | +22.6% | 0.2% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
@@ -226,13 +233,12 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 | Derrick White PRA under 25.5 | CHI @ BOS | draftkings | 1.92 | 1.57 | 63.6% | 48.7% | 52.5% | +0.6% | +22.0% | 0.2% |
 | Payton Pritchard 3PM under 2.5 | CHI @ BOS | draftkings | 2.05 | 1.69 | 59.1% | 45.6% | 49.0% | +0.4% | +21.1% | 0.1% |
 | Payton Pritchard PTS under 16.5 | CHI @ BOS | draftkings | 1.91 | 1.58 | 63.2% | 48.9% | 52.5% | +0.2% | +20.6% | 0.1% |
-| Derrick White PR under 20.5 | CHI @ BOS | draftkings | 1.82 | 1.52 | 65.9% | 51.4% | 55.0% | +0.1% | +19.9% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 109.0–123.5 | CHI 15% | 6.52 / 1.18 | BOS -14.5 | 232.5 | BOS -15.5 covers 48%; o234.5 45% |
-| Expected (weighted by chance each plays) | 109.6–122.6 | CHI 19% | 5.35 / 1.23 | BOS -13.5 | 232.5 | BOS -15.5 covers 43%; o234.5 45% |
-| if Jalen Smith plays | 108.9–123.2 | CHI 16% | 6.39 / 1.19 | BOS -14.5 | 231.5 | BOS -15.5 covers 47%; o234.5 45% |
+| Confirmed players only | 109.0–123.5 | CHI 15% | 6.52 / 1.18 | BOS -14.5 | 232.5 | BOS -14.5 covers 51%; o235.5 43% |
+| Expected (weighted by chance each plays) | 109.6–122.6 | CHI 19% | 5.35 / 1.23 | BOS -13.5 | 232.5 | BOS -14.5 covers 46%; o235.5 43% |
+| if Jalen Smith plays | 108.9–123.2 | CHI 16% | 6.39 / 1.19 | BOS -14.5 | 231.5 | BOS -14.5 covers 50%; o235.5 43% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -248,7 +254,7 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Caleb Wilson | 96% | 35.9<br><sub>32,33,38,32,38</sub> | 18.9<br><sub>16,21,30,17,20</sub> | 17.5 · – | 7.0<br><sub>4,6,14,5,6</sub> | 6.5 | 2.4<br><sub>0,1,3,3,4</sub> | 2.5 | 1.9<br><sub>1,2,1,1,3</sub> | 1.5 | 1.0 | 1.1 | 2.8 | 28.3 |
 | Norman Powell | 97% | 32.5<br><sub>22,33,33,24,37</sub> | 19.1<br><sub>15,25,18,20,30</sub> | 19.5 · – | 3.3<br><sub>5,4,2,1,2</sub> | 3.5 | 2.4<br><sub>1,1,3,2,2</sub> | 1.5 | 2.4<br><sub>2,2,3,4,4</sub> | 2.5 | 1.2 | 0.2 | 2.3 | 24.8 |
-| Matas Buzelis | 98% | 30.8<br><sub>25,17,35,22,33</sub> | 15.1<br><sub>17,7,21,11,17</sub> | 13.5 · – | 5.8<br><sub>6,5,5,1,5</sub> | 5.5 | 2.0<br><sub>0,3,2,2,3</sub> |  | 1.9<br><sub>0,0,2,2,3</sub> | 1.5 | 0.6 | 1.1 | 2.3 | 22.9 |
+| Matas Buzelis | 98% | 30.8<br><sub>25,17,35,22,33</sub> | 15.1<br><sub>17,7,21,11,17</sub> | 13.5 · – | 5.8<br><sub>6,5,5,1,5</sub> | 4.5 | 2.0<br><sub>0,3,2,2,3</sub> |  | 1.9<br><sub>0,0,2,2,3</sub> | 1.5 | 0.6 | 1.1 | 2.3 | 22.9 |
 | Josh Giddey | 98% | 30.5<br><sub>24,25,30,24,31</sub> | 12.2<br><sub>2,6,9,11,10</sub> | 10.5 · – | 7.2<br><sub>7,4,8,1,8</sub> | 6.5 | 7.6<br><sub>6,9,10,4,11</sub> | 7.5 | 1.5<br><sub>0,0,1,1,1</sub> | 1.5 | 0.9 | 0.5 | 2.6 | 26.9 |
 | Leonard Miller | 98% | 21.5<br><sub>26,24,21,14,17</sub> | 9.0<br><sub>4,19,7,9,10</sub> | 9.5 · – | 5.0<br><sub>6,3,4,9,0</sub> | 4.5 | 1.1<br><sub>1,2,0,0,1</sub> |  | 1.0<br><sub>0,2,1,1,1</sub> | 1.5 | 0.5 | 0.4 | 0.9 | 15.1 |
 | Tre Jones | 98% | 21.0<br><sub>13,24,18,15,18</sub> | 10.8<br><sub>13,11,10,8,11</sub> | 8.5 · – | 2.8<br><sub>3,3,2,1,4</sub> | 2.5 | 3.6<br><sub>0,8,3,0,3</sub> | 3.5 | 0.5<br><sub>0,0,1,0,1</sub> |  | 0.8 | 0.1 | 1.0 | 17.1 |
@@ -307,7 +313,7 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 | Amari Williams (BOS) | 16% | 5.5 | 1.7 |  | 1.8 |  | 0.4 |  | 0.0 |  | 0.2 | 0.4 | 0.4 | 3.9 |
 | Caleb Wilson (CHI) | 96% | 34.3<br><sub>32,33,38,32,38</sub> | 18.4<br><sub>16,21,30,17,20</sub> | 17.5 · – | 6.4<br><sub>4,6,14,5,6</sub> | 6.5 | 2.2<br><sub>0,1,3,3,4</sub> | 2.5 | 1.7<br><sub>1,2,1,1,3</sub> | 1.5 | 1.0 | 1.1 | 2.7 | 27.1 |
 | Norman Powell (CHI) | 97% | 30.1<br><sub>22,33,33,24,37</sub> | 17.7<br><sub>15,25,18,20,30</sub> | 19.5 · – | 3.1<br><sub>5,4,2,1,2</sub> | 3.5 | 2.1<br><sub>1,1,3,2,2</sub> | 1.5 | 2.1<br><sub>2,2,3,4,4</sub> | 2.5 | 1.1 | 0.2 | 2.2 | 23.0 |
-| Matas Buzelis (CHI) | 98% | 28.4<br><sub>25,17,35,22,33</sub> | 14.1<br><sub>17,7,21,11,17</sub> | 13.5 · – | 5.3<br><sub>6,5,5,1,5</sub> | 5.5 | 1.8<br><sub>0,3,2,2,3</sub> |  | 1.7<br><sub>0,0,2,2,3</sub> | 1.5 | 0.6 | 0.9 | 2.1 | 21.3 |
+| Matas Buzelis (CHI) | 98% | 28.4<br><sub>25,17,35,22,33</sub> | 14.1<br><sub>17,7,21,11,17</sub> | 13.5 · – | 5.3<br><sub>6,5,5,1,5</sub> | 4.5 | 1.8<br><sub>0,3,2,2,3</sub> |  | 1.7<br><sub>0,0,2,2,3</sub> | 1.5 | 0.6 | 0.9 | 2.1 | 21.3 |
 | Josh Giddey (CHI) | 98% | 28.2<br><sub>24,25,30,24,31</sub> | 11.2<br><sub>2,6,9,11,10</sub> | 10.5 · – | 6.4<br><sub>7,4,8,1,8</sub> | 6.5 | 7.0<br><sub>6,9,10,4,11</sub> | 7.5 | 1.3<br><sub>0,0,1,1,1</sub> | 1.5 | 0.8 | 0.5 | 2.4 | 24.5 |
 | Jalen Smith (CHI) | 100% | 23.9<br><sub>19,24,24,20,30</sub> | 10.7<br><sub>15,14,14,7,17</sub> | 10.5 · – | 6.9<br><sub>8,13,3,6,11</sub> | 7.5 | 1.3<br><sub>1,1,1,1,5</sub> |  | 1.4<br><sub>0,2,2,2,3</sub> | 1.5 | 0.5 | 0.7 | 0.9 | 19.0 |
 | Tre Jones (CHI) | 98% | 18.3<br><sub>13,24,18,15,18</sub> | 9.6<br><sub>13,11,10,8,11</sub> | 8.5 · – | 2.3<br><sub>3,3,2,1,4</sub> | 2.5 | 3.0<br><sub>0,8,3,0,3</sub> | 3.5 | 0.4<br><sub>0,0,1,0,1</sub> |  | 0.6 | 0.1 | 0.9 | 14.9 |
@@ -325,6 +331,12 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 
 ### DET @ BKN
 Out: Egor Demin (BKN), Grant Nelson (BKN), Ben Saraf (BKN), Jalen Duren (DET)
+
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Paul Reed STL over 1.5 (2+) | DET @ BKN | draftkings | 2.76 | 2.35 | 42.5% | 34.2% | 36.3% | +0.2% | +17.3% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -421,7 +433,7 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| OG Anunoby REB over 5.5 | NYK @ PHI | draftkings | 2.14 | 1.77 | 56.5% | 43.9% | 47.0% | +0.6% | +20.9% | 0.1% |
+| OG Anunoby REB over 5.5 (6+) | NYK @ PHI | draftkings | 2.14 | 1.77 | 56.5% | 43.9% | 47.0% | +0.6% | +20.9% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -629,6 +641,12 @@ Out: Johnny Furphy (IND), Tyrese Haliburton (IND), T.J. McConnell (IND), Ben She
 
 ### HOU @ DAL
 Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven Adams (HOU), Reed Sheppard (HOU)
+
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Amen Thompson STL over 1.5 (2+) | HOU @ DAL | draftkings | 2.31 | 1.91 | 52.4% | 40.6% | 43.5% | +0.5% | +21.0% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
