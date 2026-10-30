@@ -173,6 +173,38 @@ def _book_lines(pid, stat) -> str:
     return f"{'–' if dk is None else f'{dk:g}'} · {'–' if sb is None else f'{sb:g}'}"
 
 
+LAST5: dict = {}  # (player_id, stat) -> "31,33,29,-,40", oldest to newest, set by build()
+LAST5_STATS = ("min", "pts", "reb", "ast", "fg3m")
+
+
+def _last5(day: date) -> dict:
+    """Each player's last 5 team games before `day`; "-" where he didn't play."""
+    from .pipeline import load_history
+    pg, _ = load_history()
+    pg = pg[pg["game_date"] < pd.Timestamp(day)]
+    pg = pg[pg["season"] == pg["season"].max()]
+    cur = pg.sort_values("game_date").drop_duplicates("player_id", keep="last")[["player_id", "team"]]
+    games = (pg.drop_duplicates(["team", "game_id"]).sort_values("game_date")
+             .groupby("team")["game_id"].apply(lambda x: list(x)[-5:]).to_dict())
+    rows = pg.set_index(["player_id", "game_id"])
+    out = {}
+    for pid, team in cur.itertuples(index=False):
+        mine = rows.loc[pid] if pid in rows.index.get_level_values(0) else None
+        for s in LAST5_STATS:
+            vals = []
+            for gid in games.get(team, []):
+                v = mine[s].get(gid) if mine is not None and gid in mine.index else None
+                played = v is not None and pd.notna(v) and pd.notna(mine["min"].get(gid)) and mine["min"].get(gid) > 0
+                vals.append(f"{float(v):.0f}" if played else "-")
+            out[(pid, s)] = ",".join(vals)
+    return out
+
+
+def _with5(proj: str, pid, s) -> str:
+    l5 = LAST5.get((pid, s))
+    return f"{proj}<br><sub>{l5}</sub>" if l5 else proj
+
+
 def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = False) -> str:
     t = ps if team is None else ps[ps["team"] == team]
     t = t[t["play_prob"] > 0].sort_values(["team", "proj_min"] if show_team else "proj_min",
@@ -182,10 +214,12 @@ def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = F
         name = r["player"] + (f" ({r['team']})" if show_team else "")
         cells = []
         for s, _ in STATS:  # bookies' main line right after each projection that has one
-            cells.append(_f(r.get(f"proj_{s}"), 1))
+            v = _f(r.get(f"proj_{s}"), 1)
+            cells.append(_with5(v, r["player_id"], s) if s in LAST5_STATS else v)
             if s in LINE_STATS:
                 cells.append(_book_lines(r["player_id"], s))
-        rows.append([name, f"{int(round(100 * r['play_prob']))}%", _f(r["proj_min"], 1)] + cells)
+        rows.append([name, f"{int(round(100 * r['play_prob']))}%",
+                     _with5(_f(r["proj_min"], 1), r["player_id"], "min")] + cells)
     heads = []
     for s, lab in STATS:
         heads.append(lab)
@@ -219,7 +253,9 @@ def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None,
         ps = ps.assign(scenario="base")
     base = g[g["scenario"] == "base"]
     rows = [[f"{r['away']} @ {r['home']}", r.get("tip_sydney", "")] + _line_cells(r) for _, r in base.iterrows()]
-    out = ["Game lines below assume every questionable player sits; each game's section shows what changes if they play.\n",
+    out = ["Game lines below assume every questionable player sits; each game's section shows what changes if they play. "
+           "In the player tables, the small numbers under Min, PTS, REB, AST and 3PM are the last 5 games, "
+           "oldest to newest (- = didn't play).\n",
            _table(["Game", "Tip (Syd)"] + LINE_HEAD, rows)]
     for _, r in base.iterrows():
         a, h, gid = r["away"], r["home"], r["game_id"]
@@ -281,6 +317,11 @@ def build(day: date) -> Path | None:
     LINES.clear()
     if ln is not None and len(ln):
         LINES.update({(r.player_id, r.market[5:], r.book): float(r.line) for r in ln.itertuples()})
+    LAST5.clear()
+    try:
+        LAST5.update(_last5(day))
+    except Exception as e:  # never let the sheet fail over the small print
+        print(f"last-5 games skipped: {e}")
     gen = "n/a"
     st = d / "state.json"
     if st.exists():
