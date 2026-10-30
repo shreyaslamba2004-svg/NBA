@@ -192,19 +192,24 @@ def build(today: date | None = None) -> str:
                      staked=stake(x),
                      profit=np.where(x["won"] == 1, x[price_col] - 1, -1.0),
                      clv=x["market_novig_prob"] * x[price_col] - 1)
-        rows = []
-        for label, dd in (("Last 7 days", 7), ("Last 30 days", 30), ("Season", 400)):
+        rows, seen = [], None
+        for label, dd in (("Last 7 days", 7), ("Last 30 days", 30), ("Whole season", 400)):
             w = x[x["day"] > pd.Timestamp(today) - pd.Timedelta(days=dd)]
-            if len(w):
-                r = {"window": label, "bets": len(w), "won": int(w["won"].sum()),
+            if len(w) and len(w) != seen:  # a longer window with the same bets would just repeat the row
+                seen = len(w)
+                r = {"period": label, "bets": len(w), "won": int(w["won"].sum()),
                      "profit (units)": round(float(w["profit"].sum()), 2),
-                     "ROI %": round(100 * float(w["profit"].mean()), 1),
+                     "ROI % (flat)": round(100 * float(w["profit"].mean()), 1),
                      "staked (% bankroll)": round(float(w["staked"].sum()), 1),
-                     "profit at sheet stakes (% bankroll)": round(float((w["staked"] * w["profit"]).sum()), 2)}
+                     "profit at sheet stakes (% bankroll)": round(float((w["staked"] * w["profit"]).sum()), 2),
+                     "ROI % (sheet stakes)": round(100 * float((w["staked"] * w["profit"]).sum())
+                                                   / max(float(w["staked"].sum()), 1e-9), 1)}
                 if clv:
                     r.update({"avg CLV %": round(100 * float(w["clv"].mean()), 1),
                               "beat closing %": round(100 * float((w["clv"] > 0).mean()), 1)})
                 rows.append(r)
+        if len(rows) == 1:
+            rows[0]["period"] = f"Since {x['day'].min():%d %b}"
         return pd.DataFrame(rows).to_markdown(index=False)
 
     def bet_list(x, title):  # every graded bet, newest first, so the totals can be checked by hand
@@ -222,7 +227,9 @@ def build(today: date | None = None) -> str:
 
     md.append("Each table shows two ways of counting: units at a flat 1-unit stake on every bet (so results "
               "compare cleanly), and profit at the sheet's suggested stake, the quarter-Kelly % of bankroll capped "
-              "at 2% that TODAY.md shows on every bet.")
+              "at 2% that TODAY.md shows on every bet. ROI (sheet stakes) is that profit divided by the total staked. "
+              "Rows are the last 7 days, last 30 days and whole season; a longer period only gets its own row once "
+              "it holds more bets than the shorter one.")
     fin = top(sheet(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS)],
                     "price_decimal")) if len(g) else g
     md.append(record(fin, "price_decimal", clv=False) + "\n\n" + bet_list(fin, "Every final-list bet")

@@ -23,13 +23,11 @@ Live should sit near the backtest line. Well below it for weeks means the model 
 
 **Main record: the final list.** The bets still in TODAY.md's best-bets table on the last update before each game's tip (after lineups and injury news), graded at the price shown then.
 
-Each table shows two ways of counting: units at a flat 1-unit stake on every bet (so results compare cleanly), and profit at the sheet's suggested stake, the quarter-Kelly % of bankroll capped at 2% that TODAY.md shows on every bet.
+Each table shows two ways of counting: units at a flat 1-unit stake on every bet (so results compare cleanly), and profit at the sheet's suggested stake, the quarter-Kelly % of bankroll capped at 2% that TODAY.md shows on every bet. ROI (sheet stakes) is that profit divided by the total staked. Rows are the last 7 days, last 30 days and whole season; a longer period only gets its own row once it holds more bets than the shorter one.
 
-| window       |   bets |   won |   profit (units) |   ROI % |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |
-|:-------------|-------:|------:|-----------------:|--------:|----------------------:|--------------------------------------:|
-| Last 7 days  |      7 |     4 |             3.95 |    56.4 |                   6.2 |                                  4.35 |
-| Last 30 days |      7 |     4 |             3.95 |    56.4 |                   6.2 |                                  4.35 |
-| Season       |      7 |     4 |             3.95 |    56.4 |                   6.2 |                                  4.35 |
+| period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
+|:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
+| Since 28 Oct |      7 |     4 |             3.95 |           56.4 |                   6.2 |                                  4.35 |                     70 |
 
 <details><summary>Every final-list bet (7)</summary>
 
@@ -49,11 +47,9 @@ Each table shows two ways of counting: units at a flat 1-unit stake on every bet
 
 TODAY.md's long-shot table, graded the same way: the final pre-tip list at the price shown then, 1 unit flat. Expect long losing runs; judge it over hundreds of bets.
 
-| window       |   bets |   won |   profit (units) |   ROI % |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |
-|:-------------|-------:|------:|-----------------:|--------:|----------------------:|--------------------------------------:|
-| Last 7 days  |     50 |     2 |           -34.04 |   -68.1 |                  19.1 |                                -11.97 |
-| Last 30 days |     50 |     2 |           -34.04 |   -68.1 |                  19.1 |                                -11.97 |
-| Season       |     50 |     2 |           -34.04 |   -68.1 |                  19.1 |                                -11.97 |
+| period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
+|:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
+| Since 28 Oct |     50 |     2 |           -34.04 |          -68.1 |                  19.1 |                                -11.97 |                  -62.7 |
 
 <details><summary>Every long shot (50)</summary>
 
@@ -116,11 +112,9 @@ TODAY.md's long-shot table, graded the same way: the final pre-tip list at the p
 
 **Any time in the day.** Every bet that showed in the table at any point, graded at the first price it showed at. Bets that dropped off before tip (news, price moves) count here.
 
-| window       |   bets |   won |   profit (units) |   ROI % |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   avg CLV % |   beat closing % |
-|:-------------|-------:|------:|-----------------:|--------:|----------------------:|--------------------------------------:|------------:|-----------------:|
-| Last 7 days  |     36 |    20 |            14.17 |    39.4 |                   9.5 |                                  4.19 |         2.7 |               25 |
-| Last 30 days |     36 |    20 |            14.17 |    39.4 |                   9.5 |                                  4.19 |         2.7 |               25 |
-| Season       |     36 |    20 |            14.17 |    39.4 |                   9.5 |                                  4.19 |         2.7 |               25 |
+| period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |   avg CLV % |   beat closing % |
+|:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|------------:|-----------------:|
+| Since 28 Oct |     36 |    20 |            14.17 |           39.4 |                   9.5 |                                  4.19 |                   44.2 |         2.7 |               25 |
 
 CLV (closing-line value) compares the price taken with the final no-vig market price before tip. Positive CLV over a few hundred bets is the earliest reliable sign of a real edge; ROI swings for months.
 
@@ -128,11 +122,9 @@ CLV (closing-line value) compares the price taken with the final no-vig market p
 
 The "Best player props" box in each game's section of TODAY.md: every main-line prop with positive EV, no news flag and offered at Sportsbet, as listed on the last update before tip, graded at the price shown then. These include edges under 5%, so expect a thinner margin than best bets.
 
-| window       |   bets |   won |   profit (units) |   ROI % |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |
-|:-------------|-------:|------:|-----------------:|--------:|----------------------:|--------------------------------------:|
-| Last 7 days  |     27 |    10 |            -7.62 |   -28.2 |                   9.7 |                                 -0.23 |
-| Last 30 days |     27 |    10 |            -7.62 |   -28.2 |                   9.7 |                                 -0.23 |
-| Season       |     27 |    10 |            -7.62 |   -28.2 |                   9.7 |                                 -0.23 |
+| period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
+|:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
+| Since 28 Oct |     27 |    10 |            -7.62 |          -28.2 |                   9.4 |                                  0.06 |                    0.7 |
 
 <details><summary>Every graded game prop (27)</summary>
 
@@ -159,12 +151,12 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-10-29  | Damian Lillard 3PM under 2.5           | MEM @ POR | draftkings |   2.28 | +0.2% | 0.0%          | won      |             1.28 |                           0.05 |
 | 2026-10-29  | Zion Williamson PTS over 21.5 (22+)    | SAC @ NOP | draftkings |   1.89 | +0.1% | 0.0%          | won      |             0.89 |                           0.03 |
 | 2026-10-29  | Darius Acuff Jr. PTS under 22.5        | SAC @ NOP | draftkings |   1.86 | +0.0% | 0.0%          | lost     |            -1    |                          -0.01 |
-| 2026-10-28  | Kevin Durant RA over 10.5 (11+)        | HOU @ MIL | draftkings |   1.97 | +0.9% | 0.2%          | lost     |            -1    |                          -0.24 |
-| 2026-10-28  | Karl-Anthony Towns RA under 16.5       | NYK @ CHI | draftkings |   1.94 | +0.5% | 0.1%          | lost     |            -1    |                          -0.12 |
 | 2026-10-28  | Kel'el Ware PR under 17.5              | HOU @ MIL | draftkings |   1.86 | +0.4% | 0.1%          | won      |             0.86 |                           0.09 |
 | 2026-10-28  | Dejounte Murray PTS under 17.5         | DEN @ NOP | draftkings |   1.86 | +0.2% | 0.1%          | won      |             0.86 |                           0.06 |
+| 2026-10-28  | Davion Mitchell PA under 19.5          | MIA @ ATL | draftkings |   1.85 | +0.2% | 0.1%          | lost     |            -1    |                          -0.06 |
 | 2026-10-28  | Wendell Carter Jr. PTS over 10.5 (11+) | ORL @ TOR | draftkings |   1.84 | +0.1% | 0.0%          | lost     |            -1    |                          -0.04 |
 | 2026-10-28  | Aaron Gordon 3PM under 1.5             | DEN @ NOP | draftkings |   2.08 | +0.1% | 0.0%          | lost     |            -1    |                          -0.02 |
+| 2026-10-28  | Stephon Castle RA under 12.5           | SAS @ UTA | draftkings |   1.77 | +0.0% | 0.0%          | lost     |            -1    |                          -0.01 |
 
 </details>
 
