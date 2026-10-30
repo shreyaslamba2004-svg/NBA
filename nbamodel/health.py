@@ -257,6 +257,25 @@ def build(today: date | None = None) -> str:
                   "for months.")
     else:
         md.append("_No graded best bets yet._")
+    md.append("## Best player props per game (top 3 main lines)")
+    md.append("The \"Best player props\" box in each game's section of TODAY.md: up to 3 main-line props per game "
+              "with positive EV, no news flag and offered at Sportsbet, as listed on the last update before tip, "
+              "graded at the price shown then. These include edges under 5%, so expect a thinner margin than "
+              "best bets.")
+    pp = pd.DataFrame()
+    if len(g):
+        pp = g[g["market"].astype(str).str.startswith("prop_")].copy()
+        main = pp["main_line"].astype(str).str.lower() if "main_line" in pp else pd.Series("nan", index=pp.index)
+        old = ~main.isin(["true", "false"])  # logs before main_line existed: the line priced closest to even
+        if old.any():
+            o = pp[old].assign(even=(pp.loc[old, "book_novig_prob"].astype(float) - 0.5).abs())
+            keep = o.sort_values("even").drop_duplicates(["game_id", "player", "market", "book"]).index
+            main[old] = "false"
+            main[keep] = "true"
+        pp = pp[(main == "true") & (pp["ev_blend"] > 0) & (pp["price_decimal"] <= monitor.BEST_MAX_ODDS)]
+        pp = sheet(pp, "price_decimal")
+        pp = pp.sort_values("ev_blend", ascending=False).groupby("game_id").head(3)
+    md.append(record(pp, "price_decimal", clv=False) if len(pp) else "_No graded game props yet._")
     # multis
     md.append("## Multis (top 3 per price band)")
     if "sgm_n" in df and df["sgm_n"].fillna(0).sum() > 0:

@@ -39,6 +39,16 @@ Live should sit near the backtest line. Well below it for weeks means the model 
 
 CLV (closing-line value) compares the price taken with the final no-vig market price before tip. Positive CLV over a few hundred bets is the earliest reliable sign of a real edge; ROI swings for months.
 
+## Best player props per game (top 3 main lines)
+
+The "Best player props" box in each game's section of TODAY.md: up to 3 main-line props per game with positive EV, no news flag and offered at Sportsbet, as listed on the last update before tip, graded at the price shown then. These include edges under 5%, so expect a thinner margin than best bets.
+
+| window       |   bets |   won |   profit (units) |   ROI % |
+|:-------------|-------:|------:|-----------------:|--------:|
+| Last 7 days  |     15 |     5 |            -5.42 |   -36.1 |
+| Last 30 days |     15 |     5 |            -5.42 |   -36.1 |
+| Season       |     15 |     5 |            -5.42 |   -36.1 |
+
 ## Multis (top 3 per price band)
 
 | window       |   multis |   won |   model expected to win |   profit (units, at multiplied leg prices) |
