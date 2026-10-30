@@ -71,11 +71,12 @@ def _stake(k) -> str:
 
 
 def _bets_table(df: pd.DataFrame) -> str:
-    rows = [[_bet_label(r), r["matchup"], r["book"], _f(r["price_decimal"]), _f(r["fair_decimal"]),
+    rows = [[_bet_label(r), r["matchup"], r["book"], _f(r["price_decimal"]),
+             _f(1 / float(r["blend_prob"]) if float(r["blend_prob"] or 0) > 0 else None), _f(r["fair_decimal"]),
              _f(r["model_prob"], 1, pct=True), _f(r["market_novig_prob"], 1, pct=True),
              _f(r["blend_prob"], 1, pct=True), _f(r["ev_blend"], 1, pct=True, sign=True),
              _f(r["ev"], 1, pct=True, sign=True), _stake(r["kelly_25"])] for _, r in df.iterrows()]
-    return _table(["Bet", "Game", "Book", "Odds", "Fair (model)", "Model", "No-vig mkt", "Blend", "EV", "EV model only",
+    return _table(["Bet", "Game", "Book", "Odds", "Min odds", "Fair (model)", "Model", "No-vig mkt", "Blend", "EV", "EV model only",
                    "Stake"], rows)
 
 
@@ -308,7 +309,8 @@ def build(day: date) -> Path | None:
              f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})",
              "DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 "
              "minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, "
-             "so check Sportsbet's line and price, and use the Fair column as your minimum odds.", bets,
+             "so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it "
+             "is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.", bets,
              f"## Long shots (EV ≥ {MIN_EV:.0%}, odds above {MAX_ODDS:g})",
              "Same rules as best bets, kept apart because the model's tails (big nights, rare outcomes) aren't "
              "proven yet. Expect long losing runs even if the edge is real.", longs,

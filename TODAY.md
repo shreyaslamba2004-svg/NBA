@@ -13,7 +13,7 @@ Updated **Sat 31 Oct, 05:10 AM** Sydney time. Decimal odds. Stakes are quarter-K
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
-DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price, and use the Fair column as your minimum odds.
+DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
 _No bets clear the edge threshold right now._
 
@@ -21,38 +21,38 @@ _No bets clear the edge threshold right now._
 
 Same rules as best bets, kept apart because the model's tails (big nights, rare outcomes) aren't proven yet. Expect long losing runs even if the edge is real.
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Pascal Siakam PTS over 39.5 (40+) | IND @ MIA | draftkings | 16.80 | 8.27 | 12.1% | 5.6% | 7.2% | +20.9% | +103.1% | 0.3% |
-| Grayson Allen STL over 2.5 (3+) | CHA @ WAS | draftkings | 13.40 | 6.83 | 14.6% | 7.0% | 8.9% | +19.2% | +96.3% | 0.4% |
-| Pascal Siakam PTS over 34.5 (35+) | IND @ MIA | draftkings | 7.90 | 4.67 | 21.4% | 11.8% | 14.2% | +12.3% | +69.0% | 0.4% |
-| Grayson Allen STL over 1.5 (2+) | CHA @ WAS | draftkings | 4.59 | 2.85 | 35.1% | 20.4% | 24.1% | +10.4% | +61.2% | 0.7% |
-| Zaccharie Risacher REB over 7.5 (8+) | HOU @ DAL | draftkings | 8.30 | 5.18 | 19.3% | 11.3% | 13.3% | +10.2% | +60.4% | 0.4% |
-| Moussa Diabate AST over 5.5 (6+) | CHA @ WAS | draftkings | 23.00 | 14.46 | 6.9% | 4.1% | 4.8% | +9.9% | +59.1% | 0.1% |
-| VJ Edgecombe AST over 5.5 (6+) | NYK @ PHI | draftkings | 13.40 | 8.49 | 11.8% | 7.0% | 8.2% | +9.5% | +57.8% | 0.2% |
-| Zaccharie Risacher REB over 9.5 (10+) | HOU @ DAL | draftkings | 22.00 | 14.06 | 7.1% | 4.2% | 5.0% | +9.2% | +56.4% | 0.1% |
-| Anthony Davis BLK over 2.5 (3+) | CHA @ WAS | draftkings | 6.54 | 4.28 | 23.4% | 14.3% | 16.6% | +8.3% | +52.9% | 0.4% |
-| Brandon Miller PTS over 49.5 (50+) | CHA @ WAS | draftkings | 29.00 | 19.29 | 5.2% | 3.2% | 3.7% | +7.7% | +50.4% | 0.1% |
-| Amen Thompson STL over 3.5 (4+) | HOU @ DAL | draftkings | 12.20 | 8.25 | 12.1% | 7.7% | 8.8% | +7.1% | +47.9% | 0.2% |
-| Jayson Tatum REB over 13.5 (14+) | CHI @ BOS | draftkings | 12.40 | 8.47 | 11.8% | 7.5% | 8.6% | +6.7% | +46.4% | 0.1% |
-| Duncan Robinson AST over 5.5 (6+) | DET @ BKN | draftkings | 21.00 | 14.35 | 7.0% | 4.5% | 5.1% | +6.7% | +46.4% | 0.1% |
-| Anthony Davis BLK over 3.5 (4+) | CHA @ WAS | draftkings | 15.60 | 10.78 | 9.3% | 6.0% | 6.8% | +6.3% | +44.8% | 0.1% |
-| Duncan Robinson AST over 3.5 (4+) | DET @ BKN | draftkings | 5.11 | 3.53 | 28.3% | 18.3% | 20.8% | +6.2% | +44.6% | 0.4% |
-| CHI to win | CHI @ BOS | neds | 7.75 | 5.35 | 18.7% | 13.7% | 13.7% | +6.1% | +45.0% | 0.2% |
-| Ausar Thompson STL over 3.5 (4+) | DET @ BKN | draftkings | 8.60 | 6.07 | 16.5% | 10.9% | 12.3% | +5.5% | +41.8% | 0.2% |
-| Amen Thompson STL over 2.5 (3+) | HOU @ DAL | draftkings | 5.15 | 3.68 | 27.2% | 18.1% | 20.4% | +5.1% | +40.1% | 0.3% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Pascal Siakam PTS over 39.5 (40+) | IND @ MIA | draftkings | 16.80 | 13.91 | 8.27 | 12.1% | 5.6% | 7.2% | +20.9% | +103.1% | 0.3% |
+| Grayson Allen STL over 2.5 (3+) | CHA @ WAS | draftkings | 13.40 | 11.25 | 6.83 | 14.6% | 7.0% | 8.9% | +19.2% | +96.3% | 0.4% |
+| Pascal Siakam PTS over 34.5 (35+) | IND @ MIA | draftkings | 7.90 | 7.03 | 4.67 | 21.4% | 11.8% | 14.2% | +12.3% | +69.0% | 0.4% |
+| Grayson Allen STL over 1.5 (2+) | CHA @ WAS | draftkings | 4.59 | 4.16 | 2.85 | 35.1% | 20.4% | 24.1% | +10.4% | +61.2% | 0.7% |
+| Zaccharie Risacher REB over 7.5 (8+) | HOU @ DAL | draftkings | 8.30 | 7.53 | 5.18 | 19.3% | 11.3% | 13.3% | +10.2% | +60.4% | 0.4% |
+| Moussa Diabate AST over 5.5 (6+) | CHA @ WAS | draftkings | 23.00 | 20.92 | 14.46 | 6.9% | 4.1% | 4.8% | +9.9% | +59.1% | 0.1% |
+| VJ Edgecombe AST over 5.5 (6+) | NYK @ PHI | draftkings | 13.40 | 12.24 | 8.49 | 11.8% | 7.0% | 8.2% | +9.5% | +57.8% | 0.2% |
+| Zaccharie Risacher REB over 9.5 (10+) | HOU @ DAL | draftkings | 22.00 | 20.16 | 14.06 | 7.1% | 4.2% | 5.0% | +9.2% | +56.4% | 0.1% |
+| Anthony Davis BLK over 2.5 (3+) | CHA @ WAS | draftkings | 6.54 | 6.04 | 4.28 | 23.4% | 14.3% | 16.6% | +8.3% | +52.9% | 0.4% |
+| Brandon Miller PTS over 49.5 (50+) | CHA @ WAS | draftkings | 29.00 | 26.95 | 19.29 | 5.2% | 3.2% | 3.7% | +7.7% | +50.4% | 0.1% |
+| Amen Thompson STL over 3.5 (4+) | HOU @ DAL | draftkings | 12.20 | 11.39 | 8.25 | 12.1% | 7.7% | 8.8% | +7.1% | +47.9% | 0.2% |
+| Jayson Tatum REB over 13.5 (14+) | CHI @ BOS | draftkings | 12.40 | 11.61 | 8.47 | 11.8% | 7.5% | 8.6% | +6.7% | +46.4% | 0.1% |
+| Duncan Robinson AST over 5.5 (6+) | DET @ BKN | draftkings | 21.00 | 19.69 | 14.35 | 7.0% | 4.5% | 5.1% | +6.7% | +46.4% | 0.1% |
+| Anthony Davis BLK over 3.5 (4+) | CHA @ WAS | draftkings | 15.60 | 14.68 | 10.78 | 9.3% | 6.0% | 6.8% | +6.3% | +44.8% | 0.1% |
+| Duncan Robinson AST over 3.5 (4+) | DET @ BKN | draftkings | 5.11 | 4.81 | 3.53 | 28.3% | 18.3% | 20.8% | +6.2% | +44.6% | 0.4% |
+| CHI to win | CHI @ BOS | neds | 7.75 | 7.30 | 5.35 | 18.7% | 13.7% | 13.7% | +6.1% | +45.0% | 0.2% |
+| Ausar Thompson STL over 3.5 (4+) | DET @ BKN | draftkings | 8.60 | 8.15 | 6.07 | 16.5% | 10.9% | 12.3% | +5.5% | +41.8% | 0.2% |
+| Amen Thompson STL over 2.5 (3+) | HOU @ DAL | draftkings | 5.15 | 4.90 | 3.68 | 27.2% | 18.1% | 20.4% | +5.1% | +40.1% | 0.3% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
 Bets that pass the same rules but that Sportsbet doesn't list as far as we know (e.g. odd-number assist milestones like 7+, alt-line unders, turnovers). Ladbrokes, TAB and others sometimes do. Not graded in HEALTH.md.
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Zaccharie Risacher REB over 8.5 (9+) | HOU @ DAL | draftkings | 14.20 | 8.34 | 12.0% | 6.6% | 7.9% | +12.7% | +70.3% | 0.2% |
-| Duncan Robinson AST over 4.5 (5+) | DET @ BKN | draftkings | 10.70 | 6.87 | 14.5% | 8.7% | 10.2% | +9.0% | +55.7% | 0.2% |
-| Jayson Tatum REB over 14.5 (15+) | CHI @ BOS | draftkings | 18.00 | 12.56 | 8.0% | 5.2% | 5.9% | +5.9% | +43.4% | 0.1% |
-| Grayson Allen REB over 6.5 (7+) | CHA @ WAS | draftkings | 16.60 | 11.63 | 8.6% | 5.6% | 6.4% | +5.8% | +42.7% | 0.1% |
-| Jayson Tatum REB over 12.5 (13+) | CHI @ BOS | draftkings | 8.30 | 5.84 | 17.1% | 11.3% | 12.7% | +5.7% | +42.2% | 0.2% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Zaccharie Risacher REB over 8.5 (9+) | HOU @ DAL | draftkings | 14.20 | 12.61 | 8.34 | 12.0% | 6.6% | 7.9% | +12.7% | +70.3% | 0.2% |
+| Duncan Robinson AST over 4.5 (5+) | DET @ BKN | draftkings | 10.70 | 9.81 | 6.87 | 14.5% | 8.7% | 10.2% | +9.0% | +55.7% | 0.2% |
+| Jayson Tatum REB over 14.5 (15+) | CHI @ BOS | draftkings | 18.00 | 16.98 | 12.56 | 8.0% | 5.2% | 5.9% | +5.9% | +43.4% | 0.1% |
+| Grayson Allen REB over 6.5 (7+) | CHA @ WAS | draftkings | 16.60 | 15.70 | 11.63 | 8.6% | 5.6% | 6.4% | +5.8% | +42.7% | 0.1% |
+| Jayson Tatum REB over 12.5 (13+) | CHI @ BOS | draftkings | 8.30 | 7.86 | 5.84 | 17.1% | 11.3% | 12.7% | +5.7% | +42.2% | 0.2% |
 
 ## Wait for news
 
@@ -71,12 +71,12 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 The model and the no-vig market disagree by more than 15 points on these. That's usually late team news the model hasn't seen yet, so confirm before betting.
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| John Collins PR under 21.5 | DET @ BKN | draftkings | 1.96 | 1.35 | 74.0% | 47.6% | 54.2% | +6.4% | +45.1% | 1.7% |
-| John Collins PRA under 23.5 | DET @ BKN | draftkings | 1.86 | 1.31 | 76.2% | 50.2% | 56.7% | +5.6% | +41.9% | 1.6% |
-| Walker Kessler PTS under 14.5 | LAL @ GSW | draftkings | 1.83 | 1.29 | 77.4% | 51.0% | 57.6% | +5.6% | +41.9% | 1.7% |
-| John Collins PTS under 14.5 | DET @ BKN | draftkings | 1.93 | 1.37 | 72.9% | 48.5% | 54.6% | +5.2% | +40.4% | 1.4% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| John Collins PR under 21.5 | DET @ BKN | draftkings | 1.96 | 1.84 | 1.35 | 74.0% | 47.6% | 54.2% | +6.4% | +45.1% | 1.7% |
+| John Collins PRA under 23.5 | DET @ BKN | draftkings | 1.86 | 1.76 | 1.31 | 76.2% | 50.2% | 56.7% | +5.6% | +41.9% | 1.6% |
+| Walker Kessler PTS under 14.5 | LAL @ GSW | draftkings | 1.83 | 1.74 | 1.29 | 77.4% | 51.0% | 57.6% | +5.6% | +41.9% | 1.7% |
+| John Collins PTS under 14.5 | DET @ BKN | draftkings | 1.93 | 1.83 | 1.37 | 72.9% | 48.5% | 54.6% | +5.2% | +40.4% | 1.4% |
 
 ## Projections
 
@@ -102,10 +102,10 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Anthony Davis BLK over 1.5 (2+) | CHA @ WAS | draftkings | 2.73 | 2.06 | 48.5% | 34.3% | 37.9% | +3.3% | +32.5% | 0.5% |
-| Naz Reid 3PM under 2.5 | CHA @ WAS | draftkings | 1.95 | 1.59 | 62.8% | 47.9% | 51.6% | +0.7% | +22.6% | 0.2% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Anthony Davis BLK over 1.5 (2+) | CHA @ WAS | draftkings | 2.73 | 2.64 | 2.06 | 48.5% | 34.3% | 37.9% | +3.3% | +32.5% | 0.5% |
+| Naz Reid 3PM under 2.5 | CHA @ WAS | draftkings | 1.95 | 1.94 | 1.59 | 62.8% | 47.9% | 51.6% | +0.7% | +22.6% | 0.2% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -235,10 +235,10 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Payton Pritchard 3PM under 2.5 | CHI @ BOS | draftkings | 2.05 | 1.69 | 59.1% | 45.6% | 49.0% | +0.4% | +21.1% | 0.1% |
-| Payton Pritchard PTS under 16.5 | CHI @ BOS | draftkings | 1.91 | 1.58 | 63.2% | 48.9% | 52.5% | +0.2% | +20.6% | 0.1% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Payton Pritchard 3PM under 2.5 | CHI @ BOS | draftkings | 2.05 | 2.04 | 1.69 | 59.1% | 45.6% | 49.0% | +0.4% | +21.1% | 0.1% |
+| Payton Pritchard PTS under 16.5 | CHI @ BOS | draftkings | 1.91 | 1.90 | 1.58 | 63.2% | 48.9% | 52.5% | +0.2% | +20.6% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -340,9 +340,9 @@ Out: Egor Demin (BKN), Grant Nelson (BKN), Ben Saraf (BKN), Jalen Duren (DET)
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Paul Reed STL over 1.5 (2+) | DET @ BKN | draftkings | 2.76 | 2.35 | 42.5% | 34.2% | 36.3% | +0.2% | +17.3% | 0.0% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Paul Reed STL over 1.5 (2+) | DET @ BKN | draftkings | 2.76 | 2.75 | 2.35 | 42.5% | 34.2% | 36.3% | +0.2% | +17.3% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -437,9 +437,9 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| OG Anunoby REB over 5.5 (6+) | NYK @ PHI | draftkings | 2.14 | 1.77 | 56.5% | 43.9% | 47.0% | +0.6% | +20.9% | 0.1% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| OG Anunoby REB over 5.5 (6+) | NYK @ PHI | draftkings | 2.14 | 2.13 | 1.77 | 56.5% | 43.9% | 47.0% | +0.6% | +20.9% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -537,10 +537,10 @@ Out: Kawhi Leonard (TOR), Malachi Smith (TOR), Paolo Banchero (ORL), Jonathan Is
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Franz Wagner RA under 12.5 | ORL @ TOR | draftkings | 1.89 | 1.55 | 64.4% | 49.4% | 53.1% | +0.6% | +21.8% | 0.2% |
-| Desmond Bane 3PM under 2.5 | ORL @ TOR | draftkings | 2.12 | 1.74 | 57.5% | 44.1% | 47.4% | +0.5% | +21.8% | 0.1% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Franz Wagner RA under 12.5 | ORL @ TOR | draftkings | 1.89 | 1.88 | 1.55 | 64.4% | 49.4% | 53.1% | +0.6% | +21.8% | 0.2% |
+| Desmond Bane 3PM under 2.5 | ORL @ TOR | draftkings | 2.12 | 2.11 | 1.74 | 57.5% | 44.1% | 47.4% | +0.5% | +21.8% | 0.1% |
 
 <details><summary>ORL players (confirmed only)</summary>
 
@@ -587,9 +587,9 @@ Out: Johnny Furphy (IND), Tyrese Haliburton (IND), T.J. McConnell (IND), Ben She
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Giannis Antetokounmpo PTS under 31.5 | IND @ MIA | draftkings | 1.93 | 1.62 | 61.9% | 48.3% | 51.7% | +0.0% | +19.8% | 0.0% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Giannis Antetokounmpo PTS under 31.5 | IND @ MIA | draftkings | 1.93 | 1.93 | 1.62 | 61.9% | 48.3% | 51.7% | +0.0% | +19.8% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -650,9 +650,9 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven Adams (HOU), Reed Sh
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Amen Thompson STL over 1.5 (2+) | HOU @ DAL | draftkings | 2.31 | 1.91 | 52.4% | 40.6% | 43.5% | +0.5% | +21.0% | 0.1% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Amen Thompson STL over 1.5 (2+) | HOU @ DAL | draftkings | 2.31 | 2.30 | 1.91 | 52.4% | 40.6% | 43.5% | +0.5% | +21.0% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -815,11 +815,11 @@ Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Bradley Beal (LAC), Brandon 
 
 **Best player props (main lines)**
 
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jaden McDaniels 3PM under 1.5 | LAC @ MIN | draftkings | 2.07 | 1.70 | 58.7% | 45.1% | 48.5% | +0.5% | +21.5% | 0.1% |
-| LaMelo Ball 3PM under 3.5 | LAC @ MIN | draftkings | 1.87 | 1.56 | 64.2% | 50.0% | 53.5% | +0.1% | +20.0% | 0.0% |
-| LaMelo Ball PA under 28.5 | LAC @ MIN | draftkings | 1.83 | 1.52 | 65.6% | 51.2% | 54.8% | +0.1% | +19.9% | 0.0% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jaden McDaniels 3PM under 1.5 | LAC @ MIN | draftkings | 2.07 | 2.06 | 1.70 | 58.7% | 45.1% | 48.5% | +0.5% | +21.5% | 0.1% |
+| LaMelo Ball 3PM under 3.5 | LAC @ MIN | draftkings | 1.87 | 1.87 | 1.56 | 64.2% | 50.0% | 53.5% | +0.1% | +20.0% | 0.0% |
+| LaMelo Ball PA under 28.5 | LAC @ MIN | draftkings | 1.83 | 1.83 | 1.52 | 65.6% | 51.2% | 54.8% | +0.1% | +19.9% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
