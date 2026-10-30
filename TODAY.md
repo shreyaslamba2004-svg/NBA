@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 03:10 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 03:25 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -26,15 +26,15 @@ _No bets clear the edge threshold right now._
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Klay Thompson 3pm under 2.5 **+** Giannis Antetokounmpo 6+ reb | IND @ MIA | 60.0% | 1.67 | 1.75 | 1.62 | -2.9% |
-| Leonard Miller 3pm under 1.5 **+** Matas Buzelis 6+ pts | CHI @ BOS | 59.6% | 1.68 | 1.76 | 1.59 | -5.0% |
-| HOU win **+** Fred VanVleet 1+ 3pm | HOU @ DAL | 58.8% | 1.70 | 1.79 | 1.61 | -5.4% |
+| Leonard Miller 3pm under 1.5 **+** Matas Buzelis 6+ pts | CHI @ BOS | 59.3% | 1.69 | 1.77 | 1.61 | -4.8% |
+| HOU win **+** Fred VanVleet 1+ 3pm | HOU @ DAL | 58.7% | 1.70 | 1.79 | 1.61 | -5.4% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Khaman Maluach pts under 8.5 **+** Nikola Jokic 25+ pra | DEN @ PHX | 54.9% | 1.82 | 1.91 | 1.82 | -0.0% |
-| Leonard Miller 3pm under 1.5 **+** BOS win | CHI @ BOS | 58.1% | 1.72 | 1.81 | 1.70 | -1.1% |
+| Leonard Miller 3pm under 1.5 **+** BOS win | CHI @ BOS | 57.8% | 1.73 | 1.82 | 1.72 | -0.9% |
 | Collin Gillespie 3pm under 2.5 **+** Nikola Jokic 25+ pra | DEN @ PHX | 58.2% | 1.72 | 1.80 | 1.69 | -1.8% |
 
 **Price 1.85-2.10**
@@ -43,7 +43,7 @@ _No bets clear the edge threshold right now._
 |---|--:|--:|--:|--:|--:|--:|
 | Khaman Maluach pr under 16.5 **+** Nikola Jokic 25+ pra | DEN @ PHX | 54.7% | 1.83 | 1.92 | 1.87 | +2.2% |
 | Khaman Maluach pr under 16.5 **+** Nikola Jokic 7+ reb | DEN @ PHX | 52.8% | 1.89 | 1.99 | 1.93 | +2.0% |
-| Khaman Maluach pr under 16.5 **+** Dillon Brooks 15+ pra | DEN @ PHX | 49.1% | 2.04 | 2.14 | 2.08 | +1.9% |
+| Norman Powell pa under 22.5 **+** BOS win | CHI @ BOS | 49.4% | 2.02 | 2.13 | 2.06 | +2.0% |
 
 **Price 2.10-2.50**
 
@@ -65,7 +65,6 @@ These look good but hinge on a questionable player. The model's chance is shown 
 | Mikel Brown Jr. 3PM under 1.5 | DET @ BKN | draftkings | 2.32 | Noah Clowney | 64.1% | 71.6% | +10.2% |
 | Khaman Maluach REB under 7.5 | DEN @ PHX | draftkings | 2.06 | Oso Ighodaro | 68.1% | 77.2% | +8.4% |
 | Khaman Maluach PR under 16.5 | DEN @ PHX | draftkings | 1.81 | Oso Ighodaro | 76.2% | 83.7% | +6.9% |
-| Tari Eason REB over 7.5 | HOU @ DAL | draftkings | 3.90 | Alperen Sengun | 47.9% | 32.1% | +6.4% |
 | Kevin Durant AST over 4.5 | HOU @ DAL | draftkings | 2.36 | Alperen Sengun | 68.5% | 58.0% | +6.1% |
 | Walker Kessler PRA under 26.5 | LAL @ GSW | draftkings | 1.88 | Ziaire Williams | 72.8% | 77.3% | +5.9% |
 | Walker Kessler PR under 24.5 | LAL @ GSW | draftkings | 1.89 | Ziaire Williams | 71.6% | 76.1% | +5.6% |
@@ -91,7 +90,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CHA @ WAS | Sat 31 Oct 10:00 | 118.1–111.8 | CHA 67% | 1.49 / 3.05 | WAS +6.5 | 229.5 | WAS +1.5 covers 36%; o218.5 73% |
-| CHI @ BOS | Sat 31 Oct 10:30 | 109.0–123.4 | CHI 15% | 6.51 / 1.18 | BOS -14.5 | 232.5 | BOS -15.5 covers 47%; o234.5 45% |
+| CHI @ BOS | Sat 31 Oct 10:30 | 109.0–123.4 | CHI 15% | 6.51 / 1.18 | BOS -14.5 | 232.5 | BOS -14.5 covers 51%; o234.5 45% |
 | DET @ BKN | Sat 31 Oct 10:30 | 115.4–104.1 | DET 79% | 1.27 / 4.75 | BKN +11.5 | 219.5 | BKN +8.5 covers 42%; o222.5 43% |
 | NYK @ PHI | Sat 31 Oct 10:30 | 115.2–108.6 | NYK 68% | 1.48 / 3.08 | PHI +6.5 | 223.5 | PHI +1.5 covers 35%; o226.5 44% |
 | ORL @ TOR | Sat 31 Oct 10:30 | 107.9–117.5 | ORL 25% | 3.98 / 1.34 | TOR -9.5 | 225.5 | TOR -5.5 covers 61%; o227.5 45% |
@@ -108,7 +107,7 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Kyshawn George 1+ 3pm **+** Trae Young 1+ 3pm **+** Grayson Allen 2+ 3pm | 52.8% | 1.89 | 1.99 | 1.61 | -15.0% |
+| Kyshawn George 1+ 3pm **+** Moussa Diabate 6+ pts **+** Trae Young 1+ 3pm | 54.9% | 1.82 | 1.91 | 1.55 | -14.8% |
 | Sion James 3pm under 1.5 **+** Trae Young 1+ 3pm | 55.6% | 1.80 | 1.89 | 1.74 | -3.1% |
 | Sion James 3pm under 1.5 **+** Grayson Allen 10+ pts | 50.1% | 1.99 | 2.09 | 1.97 | -1.2% |
 | Ryan Kalkbrenner 5+ pts **+** Grayson Allen 10+ pts | 41.0% | 2.44 | 2.56 | 2.37 | -2.7% |
@@ -133,7 +132,7 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Brandon Miller | 98% | 34.6 | 30.3 | 27.5 · – | 5.9 | 3.6 | 3.6 | 1.3 | 0.7 | 3.1 | 39.8 |
 | Grayson Allen | 96% | 31.6 | 19.9 | 14.5 · – | 3.7 | 4.5 | 3.0 | 1.3 | 0.3 | 2.3 | 28.2 |
-| Moussa Diabate | 98% | 30.6 | 10.2 | 8.5 · – | 10.7 | 2.8 | 0.0 | 1.3 | 1.1 | 1.7 | 23.7 |
+| Moussa Diabate | 98% | 30.6 | 10.2 | 9.5 · – | 10.7 | 2.8 | 0.0 | 1.3 | 1.1 | 1.7 | 23.7 |
 | Naz Reid | 98% | 27.2 | 18.6 | 18.5 · – | 7.6 | 2.4 | 2.2 | 0.8 | 0.8 | 2.2 | 28.6 |
 | Sion James | 98% | 26.7 | 6.8 | 5.5 · – | 4.0 | 3.1 | 0.9 | 1.0 | 0.3 | 1.1 | 13.9 |
 | Royce O'Neale | 98% | 24.1 | 8.1 |  | 4.3 | 1.6 | 1.5 | 1.0 | 0.5 | 0.9 | 14.0 |
@@ -174,7 +173,7 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 | Brandon Miller (CHA) | 98% | 31.9 | 27.3 | 27.5 · – | 5.3 | 3.1 | 3.4 | 1.2 | 0.7 | 2.8 | 35.6 |
 | Dennis Schroder (CHA) | 100% | 31.4 | 14.6 | 14.5 · – | 3.5 | 5.4 | 1.1 | 1.1 | 0.2 | 2.6 | 23.5 |
 | Grayson Allen (CHA) | 96% | 28.3 | 16.7 | 14.5 · – | 3.4 | 3.5 | 2.8 | 1.2 | 0.3 | 1.9 | 23.6 |
-| Moussa Diabate (CHA) | 98% | 28.2 | 9.6 | 8.5 · – | 9.7 | 2.5 | 0.0 | 1.1 | 1.1 | 1.4 | 21.8 |
+| Moussa Diabate (CHA) | 98% | 28.2 | 9.6 | 9.5 · – | 9.7 | 2.5 | 0.0 | 1.1 | 1.1 | 1.4 | 21.8 |
 | Naz Reid (CHA) | 98% | 24.7 | 15.8 | 18.5 · – | 7.1 | 2.1 | 2.1 | 0.8 | 0.8 | 2.0 | 25.1 |
 | Sion James (CHA) | 98% | 23.3 | 6.0 | 5.5 · – | 3.6 | 2.6 | 0.8 | 0.9 | 0.2 | 0.8 | 12.1 |
 | Royce O'Neale (CHA) | 98% | 20.3 | 6.6 |  | 3.5 | 1.3 | 1.2 | 0.9 | 0.4 | 0.7 | 11.4 |
@@ -207,7 +206,7 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Brandon Miller (CHA) | 98% | 34.6 | 30.3 | 27.5 · – | 5.9 | 3.6 | 3.6 | 1.3 | 0.7 | 3.1 | 39.8 |
 | Grayson Allen (CHA) | 96% | 31.5 | 19.9 | 14.5 · – | 3.7 | 4.5 | 3.0 | 1.3 | 0.3 | 2.3 | 28.1 |
-| Moussa Diabate (CHA) | 98% | 30.5 | 10.2 | 8.5 · – | 10.6 | 2.8 | 0.0 | 1.3 | 1.1 | 1.7 | 23.7 |
+| Moussa Diabate (CHA) | 98% | 30.5 | 10.2 | 9.5 · – | 10.6 | 2.8 | 0.0 | 1.3 | 1.1 | 1.7 | 23.7 |
 | Naz Reid (CHA) | 98% | 27.1 | 18.7 | 18.5 · – | 7.6 | 2.4 | 2.2 | 0.8 | 0.8 | 2.2 | 28.7 |
 | Sion James (CHA) | 98% | 26.6 | 6.8 | 5.5 · – | 4.0 | 3.0 | 0.9 | 1.0 | 0.3 | 1.1 | 13.9 |
 | Royce O'Neale (CHA) | 98% | 24.1 | 8.1 |  | 4.3 | 1.6 | 1.5 | 1.0 | 0.5 | 0.9 | 14.0 |
@@ -243,24 +242,24 @@ Out: Devin Carter (BOS), Nic Claxton (CHI)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Payton Pritchard 3PM under 2.5 | CHI @ BOS | draftkings | 2.04 | 1.69 | 59.2% | 45.8% | 49.2% | +0.3% | +20.7% | 0.1% |
+| Payton Pritchard 3PM under 2.5 | CHI @ BOS | draftkings | 2.05 | 1.69 | 59.2% | 45.6% | 49.0% | +0.4% | +21.3% | 0.1% |
 | Derrick White PR under 20.5 | CHI @ BOS | draftkings | 1.82 | 1.51 | 66.2% | 51.4% | 55.1% | +0.2% | +20.5% | 0.1% |
-| Payton Pritchard PTS under 16.5 | CHI @ BOS | draftkings | 1.90 | 1.59 | 63.0% | 49.2% | 52.6% | +0.1% | +19.9% | 0.0% |
+| Payton Pritchard PTS under 16.5 | CHI @ BOS | draftkings | 1.91 | 1.59 | 63.0% | 48.9% | 52.5% | +0.2% | +20.4% | 0.1% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Leonard Miller 3pm under 1.5 **+** Matas Buzelis 6+ pts | 59.6% | 1.68 | 1.76 | 1.59 | -5.0% |
-| Leonard Miller 3pm under 1.5 **+** BOS win | 58.1% | 1.72 | 1.81 | 1.70 | -1.1% |
-| Norman Powell pr under 23.5 **+** BOS win | 49.1% | 2.03 | 2.14 | 2.07 | +1.8% |
-| Norman Powell pts under 19.5 **+** BOS win | 46.8% | 2.14 | 2.24 | 2.19 | +2.4% |
+| Leonard Miller 3pm under 1.5 **+** Matas Buzelis 6+ pts | 59.3% | 1.69 | 1.77 | 1.61 | -4.8% |
+| Leonard Miller 3pm under 1.5 **+** BOS win | 57.8% | 1.73 | 1.82 | 1.72 | -0.9% |
+| Norman Powell pa under 22.5 **+** BOS win | 49.4% | 2.02 | 2.13 | 2.06 | +2.0% |
+| Norman Powell pts under 19.5 **+** BOS win | 46.5% | 2.15 | 2.26 | 2.21 | +2.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 109.0–123.4 | CHI 15% | 6.51 / 1.18 | BOS -14.5 | 232.5 | BOS -15.5 covers 47%; o234.5 45% |
-| Expected (weighted by chance each plays) | 109.7–122.0 | CHI 20% | 4.95 / 1.25 | BOS -12.5 | 231.5 | BOS -15.5 covers 41%; o234.5 44% |
-| if Jalen Smith plays | 110.0–121.6 | CHI 21% | 4.81 / 1.26 | BOS -11.5 | 231.5 | BOS -15.5 covers 39%; o234.5 44% |
+| Confirmed players only | 109.0–123.4 | CHI 15% | 6.51 / 1.18 | BOS -14.5 | 232.5 | BOS -14.5 covers 51%; o234.5 45% |
+| Expected (weighted by chance each plays) | 109.7–122.0 | CHI 20% | 4.95 / 1.25 | BOS -12.5 | 231.5 | BOS -14.5 covers 44%; o234.5 44% |
+| if Jalen Smith plays | 110.0–121.6 | CHI 21% | 4.81 / 1.26 | BOS -11.5 | 231.5 | BOS -14.5 covers 42%; o234.5 44% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -480,10 +479,10 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Landry Shamet 1+ 3pm **+** Karl-Anthony Towns 1+ 3pm | 59.7% | 1.67 | 1.76 | 1.53 | -8.9% |
+| Landry Shamet 1+ 3pm **+** Karl-Anthony Towns 1+ 3pm | 60.1% | 1.66 | 1.75 | 1.51 | -9.1% |
 | OG Anunoby 5+ reb **+** Karl-Anthony Towns 8+ reb | 51.3% | 1.95 | 2.05 | 1.84 | -5.8% |
-| OG Anunoby 5+ reb **+** Landry Shamet 1+ 3pm | 48.9% | 2.04 | 2.15 | 1.94 | -5.0% |
-| Tyrese Maxey pr under 27.5 **+** OG Anunoby 4+ reb | 38.6% | 2.59 | 2.72 | 2.49 | -4.2% |
+| OG Anunoby 5+ reb **+** Landry Shamet 1+ 3pm | 49.2% | 2.03 | 2.13 | 1.92 | -5.2% |
+| Tyrese Maxey pts under 23.5 **+** OG Anunoby 4+ reb | 39.0% | 2.56 | 2.69 | 2.44 | -4.7% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -579,14 +578,20 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 ### ORL @ TOR
 Out: Kawhi Leonard (TOR), Paolo Banchero (ORL), Jonathan Isaac (ORL), Noah Penda (ORL), Jalen Suggs (ORL)
 
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Anthony Black AST under 3.5 | ORL @ TOR | draftkings | 2.21 | 1.80 | 55.4% | 42.3% | 45.6% | +0.7% | +22.5% | 0.1% |
+
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Wendell Carter Jr. 6+ pts **+** Tristan da Silva 8+ pts **+** Immanuel Quickley 1+ 3pm | 56.9% | 1.76 | 1.84 | 1.51 | -13.7% |
-| Tristan da Silva 3pm under 2.5 **+** Scottie Barnes 3+ ast | 54.1% | 1.85 | 1.94 | 1.81 | -1.9% |
-| Tristan da Silva 3pm under 2.5 **+** Immanuel Quickley 1+ 3pm | 51.9% | 1.93 | 2.02 | 1.90 | -1.5% |
-| Tristan da Silva 3pm under 2.5 **+** RJ Barrett 4+ reb | 46.1% | 2.17 | 2.28 | 2.15 | -0.8% |
+| Tristan da Silva 8+ pts **+** Desmond Bane 10+ pts **+** RJ Barrett 1+ 3pm | 55.6% | 1.80 | 1.89 | 1.54 | -14.4% |
+| Immanuel Quickley ast under 6.5 **+** Desmond Bane 10+ pts | 51.7% | 1.93 | 2.03 | 1.82 | -6.0% |
+| Tristan da Silva 3pm under 2.5 **+** Immanuel Quickley 1+ 3pm | 51.2% | 1.95 | 2.05 | 1.94 | -0.9% |
+| Tristan da Silva 3pm under 2.5 **+** RJ Barrett 4+ reb | 45.5% | 2.20 | 2.31 | 2.20 | -0.1% |
 
 <details><summary>ORL players (confirmed only)</summary>
 
@@ -594,7 +599,7 @@ Out: Kawhi Leonard (TOR), Paolo Banchero (ORL), Jonathan Isaac (ORL), Noah Penda
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Desmond Bane | 98% | 34.6 | 19.7 | 19.5 · – | 4.4 | 3.8 | 2.4 | 1.3 | 0.4 | 2.8 | 28.0 |
 | Franz Wagner | 98% | 33.7 | 22.5 | 22.5 · – | 6.0 | 5.3 | 1.4 | 1.2 | 0.4 | 3.2 | 33.7 |
-| Wendell Carter Jr. | 98% | 31.8 | 11.3 | 11.5 · – | 7.6 | 2.3 | 0.9 | 0.8 | 0.8 | 1.7 | 21.2 |
+| Wendell Carter Jr. | 98% | 31.8 | 11.3 | 10.5 · – | 7.6 | 2.3 | 0.9 | 0.8 | 0.8 | 1.7 | 21.2 |
 | Tristan da Silva | 98% | 30.6 | 12.6 | 11.5 · – | 4.3 | 2.1 | 1.7 | 0.9 | 0.4 | 1.4 | 19.0 |
 | Anthony Black | 97% | 29.8 | 14.3 | 13.5 · – | 3.6 | 3.5 | 1.5 | 1.5 | 0.7 | 2.3 | 21.4 |
 | Jevon Carter | 58% | 18.7 | 6.1 |  | 1.8 | 1.8 | 1.0 | 0.8 | 0.2 | 0.8 | 9.8 |
@@ -778,9 +783,9 @@ Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven 
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| HOU win **+** Fred VanVleet 1+ 3pm | 58.8% | 1.70 | 1.79 | 1.61 | -5.4% |
+| HOU win **+** Fred VanVleet 1+ 3pm | 58.7% | 1.70 | 1.79 | 1.61 | -5.4% |
 | HOU win **+** Kevin Durant 3+ ast | 52.8% | 1.89 | 1.99 | 1.85 | -2.3% |
-| Kevin Durant 4+ ast **+** Tari Eason 4+ reb | 48.0% | 2.08 | 2.19 | 2.07 | -0.8% |
+| Kevin Durant 4+ ast **+** Tari Eason 4+ reb | 48.8% | 2.05 | 2.15 | 2.02 | -1.4% |
 | Kevin Durant 4+ ast **+** HOU win | 42.1% | 2.38 | 2.50 | 2.42 | +1.7% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
@@ -823,7 +828,7 @@ Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven 
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | P.J. Washington | 98% | 33.8 | 15.4 | 12.5 · – | 7.1 | 1.8 | 1.6 | 1.0 | 1.0 | 1.9 | 24.3 |
 | Cooper Flagg | 98% | 32.7 | 23.7 | 23.5 · – | 6.2 | 5.9 | 1.2 | 1.4 | 1.0 | 2.8 | 35.9 |
-| Kyrie Irving | 98% | 31.5 | 20.9 | 18.5 · – | 3.9 | 4.0 | 2.4 | 1.2 | 0.5 | 2.2 | 28.8 |
+| Kyrie Irving | 98% | 31.5 | 20.9 | 19.5 · – | 3.9 | 4.0 | 2.4 | 1.2 | 0.5 | 2.2 | 28.8 |
 | Zaccharie Risacher | 88% | 30.3 | 9.8 |  | 5.5 | 1.6 | 1.0 | 1.2 | 1.4 | 1.3 | 16.8 |
 | Max Christie | 98% | 27.8 | 11.2 | 8.5 · – | 3.1 | 1.9 | 1.8 | 0.7 | 0.4 | 1.3 | 16.1 |
 | Daniel Gafford | 98% | 24.7 | 9.4 | 7.5 · – | 7.5 | 1.6 | 0.1 | 0.9 | 1.6 | 1.2 | 18.5 |
@@ -843,7 +848,7 @@ Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven 
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | P.J. Washington (DAL) | 98% | 31.1 | 13.5 | 12.5 · – | 6.5 | 1.6 | 1.5 | 1.0 | 1.0 | 1.7 | 21.6 |
 | Cooper Flagg (DAL) | 98% | 30.9 | 21.8 | 23.5 · – | 6.1 | 5.3 | 1.2 | 1.4 | 1.0 | 2.5 | 33.2 |
-| Kyrie Irving (DAL) | 98% | 30.8 | 20.2 | 18.5 · – | 3.8 | 3.9 | 2.2 | 1.2 | 0.5 | 2.1 | 27.8 |
+| Kyrie Irving (DAL) | 98% | 30.8 | 20.2 | 19.5 · – | 3.8 | 3.9 | 2.2 | 1.2 | 0.5 | 2.1 | 27.8 |
 | Zaccharie Risacher (DAL) | 88% | 27.5 | 9.0 |  | 5.1 | 1.5 | 0.9 | 1.1 | 1.3 | 1.2 | 15.6 |
 | Naji Marshall (DAL) | 100% | 26.0 | 13.7 | 11.5 · – | 3.8 | 3.6 | 0.8 | 1.2 | 0.1 | 1.8 | 21.1 |
 | Max Christie (DAL) | 98% | 25.9 | 9.8 | 8.5 · – | 2.8 | 1.7 | 1.5 | 0.7 | 0.3 | 1.2 | 14.4 |
@@ -877,7 +882,7 @@ Out: Santi Aldama (DAL), Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven 
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | P.J. Washington (DAL) | 98% | 33.8 | 15.3 | 12.5 · – | 7.1 | 1.7 | 1.6 | 1.0 | 1.0 | 1.9 | 24.2 |
 | Cooper Flagg (DAL) | 98% | 32.7 | 23.7 | 23.5 · – | 6.3 | 6.0 | 1.2 | 1.4 | 1.0 | 2.8 | 35.9 |
-| Kyrie Irving (DAL) | 98% | 31.5 | 20.9 | 18.5 · – | 3.9 | 4.0 | 2.4 | 1.2 | 0.5 | 2.2 | 28.8 |
+| Kyrie Irving (DAL) | 98% | 31.5 | 20.9 | 19.5 · – | 3.9 | 4.0 | 2.4 | 1.2 | 0.5 | 2.2 | 28.8 |
 | Zaccharie Risacher (DAL) | 88% | 30.4 | 9.8 |  | 5.5 | 1.6 | 1.0 | 1.2 | 1.4 | 1.3 | 17.0 |
 | Max Christie (DAL) | 98% | 27.8 | 11.2 | 8.5 · – | 3.0 | 1.9 | 1.8 | 0.7 | 0.4 | 1.3 | 16.1 |
 | Daniel Gafford (DAL) | 98% | 24.7 | 9.4 | 7.5 · – | 7.6 | 1.6 | 0.1 | 0.8 | 1.6 | 1.2 | 18.6 |
