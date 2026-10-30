@@ -1,5 +1,5 @@
-game_id,matchup,check,detail
-401909277,CHA @ WAS,team points,"CHA projected 118, market implies 110"
-401909277,CHA @ WAS,player points,Grayson Allen projected 19.9 pts vs DraftKings line 14.5
-401909282,IND @ MIA,player points,Pascal Siakam projected 30.0 pts vs DraftKings line 23.5
-401909282,IND @ MIA,player points,Kelly Oubre Jr. projected 15.9 pts vs DraftKings line 10.5
+game_id,matchup,check,detail,why
+401909277,CHA @ WAS,team points,"CHA projected 118, market implies 110","42% of tonight's minutes go to players new to CHA since last season, and the team ratings still lean on last season; CHA have played 5 games this season; CHA out: Knueppel, Williams | 39% of tonight's minutes go to players new to WAS since last season, and the team ratings still lean on last season; WAS have played 5 games this season; WAS out: Champagnie, Vukcevic, Watkins"
+401909277,CHA @ WAS,player points,Grayson Allen projected 19.9 pts vs DraftKings line 14.5,"minutes 32 vs 28 this season; new team (was PHX last season); scoring 0.63/min vs 0.54 this season, 0.57 last season; teammates out: Knueppel, Williams (~51 min a game)"
+401909282,IND @ MIA,player points,Pascal Siakam projected 30.0 pts vs DraftKings line 23.5,"minutes 34 vs 32 this season; scoring 0.87/min vs 0.75 this season, 0.72 last season; teammates out: Furphy, Haliburton, McConnell, Sheppard (~102 min a game)"
+401909282,IND @ MIA,player points,Kelly Oubre Jr. projected 15.9 pts vs DraftKings line 10.5,"minutes 31 vs 24 this season; new team (was PHI last season); scoring 0.52/min vs 0.37 this season, 0.45 last season; teammates out: Furphy, Haliburton, McConnell, Sheppard (~102 min a game)"
