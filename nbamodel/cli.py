@@ -119,7 +119,7 @@ def model_hash() -> str:
     import hashlib
     root = Path(__file__).resolve().parent
     h = hashlib.sha1()
-    for f in sorted([*root.rglob("*.py"), *(root.parent / "models").glob("*")]):
+    for f in sorted([*root.rglob("*.py"), *(root.parent / "models").glob("*"), root.parent / "bookie_markets.json"]):
         if f.is_file():
             h.update(f.name.encode() + f.read_bytes())
     return h.hexdigest()
