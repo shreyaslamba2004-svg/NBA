@@ -23,7 +23,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909895,MEM,203924,Jerami Grant,Active,,1.0,,,
 401909895,MEM,1641707,Taylor Hendricks,Active,,1.0,,,
 401909895,MEM,1641713,GG Jackson,Active,,1.0,,,
-401909895,MEM,1629660,Ty Jerome,Questionable,Injury/Illness-BackTightness,0.55,Jerome is questionable for Thursday's game against the Trail Blazers due to back tightness.,,
+401909895,MEM,1629660,Ty Jerome,Available,Injury/Illness-BackTightness,1.0,,,
 401909895,MEM,905231919,Karim Lopez,Active,,1.0,,,
 401909895,MEM,1642942,Jahmai Mashack,Out,GLeague-Two-Way,0.0,,,
 401909895,MEM,1631200,Kris Murray,Active,,1.0,,,
