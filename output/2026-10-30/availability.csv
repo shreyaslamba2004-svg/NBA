@@ -4,33 +4,33 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909277,WAS,1642267,Bub Carrington,,,1.0,,,
 401909277,WAS,1630551,Justin Champagnie,Out,Injury/Illness-RightFootSurgery,0.0,"Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",,
 401909277,WAS,1641731,Bilal Coulibaly,,,1.0,,,
-401909277,WAS,203076,Anthony Davis,Starting,,1.0,,,1.0
-401909277,WAS,905142718,AJ Dybantsa,Starting,,1.0,,,1.0
-401909277,WAS,1642273,Kyshawn George,Starting,,1.0,,,1.0
+401909277,WAS,203076,Anthony Davis,,,1.0,,,
+401909277,WAS,905142718,AJ Dybantsa,,,1.0,,,
+401909277,WAS,1642273,Kyshawn George,,,1.0,,,
 401909277,WAS,1630264,Anthony Gill,,,1.0,,,
 401909277,WAS,905238230,Tre Johnson,Available,,1.0,,,
 401909277,WAS,1630544,Tre Mann,,,1.0,,,
 401909277,WAS,203114,Khris Middleton,,,1.0,,,
 401909277,WAS,905105841,Felix Okpara,Out,GLeague-Two-Way,0.0,,,
 401909277,WAS,1642860,Will Riley,,,1.0,,,
-401909277,WAS,1642259,Alex Sarr,Starting,,1.0,,,1.0
+401909277,WAS,1642259,Alex Sarr,,,1.0,,,
 401909277,WAS,1641774,Tristan Vukcevic,Out,Injury/Illness-LeftHipImpingement,0.0,The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks.,,
 401909277,WAS,1642364,Jamir Watkins,Out,,0.0,The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.,,
-401909277,WAS,1629027,Trae Young,Starting,,1.0,,,1.0
+401909277,WAS,1629027,Trae Young,,,1.0,,,
 401909277,CHA,1628960,Grayson Allen,,,1.0,,,
 401909277,CHA,905060701,Christian Anderson,,,1.0,,,
 401909277,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,Boswell (knee) is out for Wednesday's season opener against the Nets.,,
-401909277,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
+401909277,CHA,1631217,Moussa Diabate,,,1.0,,,
 401909277,CHA,1641790,PJ Hall,,,1.0,,,
-401909277,CHA,1642883,Sion James,Starting,,1.0,,,1.0
+401909277,CHA,1642883,Sion James,,,1.0,,,
 401909277,CHA,1641750,Ryan Kalkbrenner,,,1.0,,,
 401909277,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remains out for Friday's contest against the Wizards.,,
 401909277,CHA,1642862,Liam McNeeley,,,1.0,,,
-401909277,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
+401909277,CHA,1641706,Brandon Miller,,,1.0,,,
 401909277,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909277,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
+401909277,CHA,1629675,Naz Reid,,,1.0,,,
 401909277,CHA,1642275,Tidjane Salaun,,,1.0,,,
-401909277,CHA,203471,Dennis Schroder,Starting,,1.0,,,1.0
+401909277,CHA,203471,Dennis Schroder,Available,,1.0,,,
 401909277,CHA,905281370,Hannes Steinbach,,,1.0,,,
 401909277,CHA,1629632,Coby White,Out,Injury/Illness-LeftCalfStrain,0.0,"Head coach Charles Lee said Monday that White (calf) remains without a timeline for a return, though Lee added that he'll have a better idea of where things stand following the Hornets' two-game road trip, Rod Boone of The Charlotte Observer reports.",,
 401909277,CHA,1629684,Grant Williams,Out,Injury/Illness-RightHamstringStrain,0.0,"Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road trip, Rod Boone reports.",,
@@ -38,56 +38,56 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909278,BOS,905142621,Chris Cenac Jr.,,,1.0,,,
 401909278,BOS,201144,Mike Conley,,,1.0,,,
 401909278,BOS,1630568,Luka Garza,,,1.0,,,
-401909278,BOS,202331,Paul George,,,1.0,,,
+401909278,BOS,202331,Paul George,Starting,,1.0,,,1.0
 401909278,BOS,1642864,Hugo Gonzalez,,,1.0,,,
 401909278,BOS,1631199,Ron Harper Jr.,,,1.0,,,
 401909278,BOS,1630573,Sam Hauser,,,1.0,,,
 401909278,BOS,905106283,Dillon Mitchell,,,1.0,,,
 401909278,BOS,1630202,Payton Pritchard,,,1.0,,,
 401909278,BOS,1629674,Neemias Queta,,,1.0,,,
-401909278,BOS,1629011,Mitchell Robinson,,,1.0,,,
+401909278,BOS,1629011,Mitchell Robinson,Starting,,1.0,,,1.0
 401909278,BOS,1631248,Baylor Scheierman,,,1.0,,,
-401909278,BOS,1628369,Jayson Tatum,,,1.0,,,
-401909278,BOS,1641775,Jordan Walsh,,,1.0,,,
-401909278,BOS,1628401,Derrick White,,,1.0,,,
+401909278,BOS,1628369,Jayson Tatum,Starting,,1.0,,,1.0
+401909278,BOS,1641775,Jordan Walsh,Starting,,1.0,,,1.0
+401909278,BOS,1628401,Derrick White,Starting,,1.0,,,1.0
 401909278,BOS,1642873,Amari Williams,,,1.0,,,
 401909278,CHI,905105555,Tobe Awaka,Available,-,1.0,,,
-401909278,CHI,1641824,Matas Buzelis,,,1.0,,,
+401909278,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
 401909278,CHI,1629651,Nic Claxton,Out,Injury/Illness-LeftHamstringStrain,0.0,"Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports.",,
 401909278,CHI,1628380,Zach Collins,,,1.0,,,
 401909278,CHI,1642855,Noa Essengue,,,1.0,,,
-401909278,CHI,1630581,Josh Giddey,,,1.0,,,
+401909278,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
 401909278,CHI,1641722,Jordan Hawkins,,,1.0,,,
 401909278,CHI,1627741,Buddy Hield,,,1.0,,,
 401909278,CHI,1630200,Tre Jones,,,1.0,,,
 401909278,CHI,1631159,Leonard Miller,,,1.0,,,
 401909278,CHI,1630171,Isaac Okoro,,,1.0,,,
-401909278,CHI,1626181,Norman Powell,,,1.0,,,
+401909278,CHI,1626181,Norman Powell,Starting,,1.0,,,1.0
 401909278,CHI,904898010,Jaylin Sellers,,,1.0,,,
-401909278,CHI,1630188,Jalen Smith,Available,-,1.0,,,
+401909278,CHI,1630188,Jalen Smith,Starting,-,1.0,,,1.0
 401909278,CHI,904848625,Dailyn Swain,Out,Injury/Illness-RightLowBack,0.0,Swain (back) has been ruled out for Friday's game against Boston.,,
 401909278,CHI,1630172,Patrick Williams,Available,-,1.0,,,
-401909278,CHI,905095151,Caleb Wilson,,,1.0,,,
+401909278,CHI,905095151,Caleb Wilson,Starting,,1.0,,,1.0
 401909279,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.,,
 401909279,BKN,905101761,Mikel Brown Jr.,,,1.0,,,
 401909279,BKN,1641730,Noah Clowney,Available,Injury/Illness-Illness,1.0,,,
 401909279,BKN,1642856,Egor Demin,Out,Injury/Illness-RightBoneBruise,0.0,"The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",,
 401909279,BKN,1631165,Keon Ellis,,,1.0,,,
 401909279,BKN,904870564,Joshua Jefferson,Out,GLeague-OnAssignment,0.0,,,
-401909279,BKN,905174655,Chaney Johnson,,,1.0,,,
+401909279,BKN,905174655,Chaney Johnson,Starting,,1.0,,,1.0
 401909279,BKN,1629611,Terance Mann,,,1.0,,,
 401909279,BKN,1631169,Josh Minott,,,1.0,,,
 401909279,BKN,1641761,Grant Nelson,Out,GLeague-Two-Way,0.0,,,
-401909279,BKN,1629008,Michael Porter Jr.,,,1.0,,,
+401909279,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
 401909279,BKN,1642962,Drake Powell,Available,GLeague-OnAssignment,1.0,,,
-401909279,BKN,203944,Julius Randle,,,1.0,,,
+401909279,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
 401909279,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909279,BKN,1630549,Day'Ron Sharpe,,,1.0,,,
-401909279,BKN,1642849,Nolan Traore,,,1.0,,,
+401909279,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
+401909279,BKN,1642849,Nolan Traore,Starting,,1.0,,,1.0
 401909279,BKN,1629021,Moritz Wagner,,,1.0,,,
 401909279,BKN,1642874,Danny Wolf,,,1.0,,,
-401909279,DET,1628381,John Collins,,,1.0,,,
-401909279,DET,1630595,Cade Cunningham,,,1.0,,,
+401909279,DET,1628381,John Collins,Starting,,1.0,,,1.0
+401909279,DET,1630595,Cade Cunningham,Starting,,1.0,,,1.0
 401909279,DET,1631105,Jalen Duren,Out,Injury/Illness-RightHamstringStrain,0.0,"Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",,
 401909279,DET,1629750,Javonte Green,,,1.0,,,
 401909279,DET,904397449,Elijah Harkless,Available,GLeague-Two-Way,1.0,,,
@@ -100,43 +100,43 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909279,DET,905258459,Ebuka Okorie,,,1.0,,,
 401909279,DET,905037878,Ugonna Onyenso,Out,GLeague-Two-Way,0.0,,,
 401909279,DET,1627752,Taurean Prince,,,1.0,,,
-401909279,DET,1630194,Paul Reed,,,1.0,,,
-401909279,DET,1629130,Duncan Robinson,,,1.0,,,
+401909279,DET,1630194,Paul Reed,Starting,,1.0,,,1.0
+401909279,DET,1629130,Duncan Robinson,Starting,,1.0,,,1.0
 401909279,DET,1642449,Tolu Smith,,,1.0,,,
-401909279,DET,1641709,Ausar Thompson,,,1.0,,,
+401909279,DET,1641709,Ausar Thompson,Starting,,1.0,,,1.0
 401909280,PHI,1631230,Dominick Barlow,Out,,0.0,"Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports.",,
 401909280,PHI,1641737,Adem Bona,,,1.0,,,
 401909280,PHI,1627759,Jaylen Brown,Out,Injury/Illness-LeftPatellar,0.0,Brown (knee) is out for Friday's game against the Knicks.,,
 401909280,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909280,PHI,1642845,VJ Edgecombe,,,1.0,,,
+401909280,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
 401909280,PHI,1642348,Justin Edwards,,,1.0,,,
-401909280,PHI,203954,Joel Embiid,,,1.0,,,
+401909280,PHI,203954,Joel Embiid,Starting,,1.0,,,1.0
 401909280,PHI,1629605,Tacko Fall,Out,Injury/Illness-LeftQuadricepsStrain,0.0,Fall (quadriceps) is out for Wednesday's game in Indiana.,,
 401909280,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401909280,PHI,2544,LeBron James,,,1.0,,,
+401909280,PHI,2544,LeBron James,Starting,,1.0,,,1.0
 401909280,PHI,904433144,Caleb Love,,,1.0,,,
-401909280,PHI,1630178,Tyrese Maxey,,,1.0,,,
+401909280,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
 401909280,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909280,PHI,1641712,Rayan Rupert,,,1.0,,,
 401909280,PHI,1629014,Anfernee Simons,,,1.0,,,
-401909280,PHI,1629731,Dean Wade,,,1.0,,,
+401909280,PHI,1629731,Dean Wade,Starting,,1.0,,,1.0
 401909280,PHI,1631133,Jabari Walker,Out,,0.0,Walker (knee) has been ruled out for Friday's game versus New York.,,
 401909280,NYK,904683730,Jaden Akins,,,1.0,,,
 401909280,NYK,1630631,Jose Alvarado,Out,Injury/Illness-LeftAnkleSprain,0.0,Alvarado (ankle) has been ruled out for Friday's game against Philadelphia.,,
-401909280,NYK,1628384,OG Anunoby,,,1.0,,,
-401909280,NYK,1628969,Mikal Bridges,,,1.0,,,
-401909280,NYK,1628973,Jalen Brunson,,,1.0,,,
+401909280,NYK,1628384,OG Anunoby,Starting,,1.0,,,1.0
+401909280,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
+401909280,NYK,1628973,Jalen Brunson,Starting,,1.0,,,1.0
 401909280,NYK,203903,Jordan Clarkson,,,1.0,,,
 401909280,NYK,1642359,Pacome Dadiet,,,1.0,,,
 401909280,NYK,1642885,Mohamed Diawara,,,1.0,,,
 401909280,NYK,203083,Andre Drummond,,,1.0,,,
-401909280,NYK,1628404,Josh Hart,,,1.0,,,
+401909280,NYK,1628404,Josh Hart,Starting,,1.0,,,1.0
 401909280,NYK,1642261,Dalton Knecht,,,1.0,,,
 401909280,NYK,1642278,Tyler Kolek,,,1.0,,,
 401909280,NYK,1630540,Miles McBride,,,1.0,,,
 401909280,NYK,904838721,Tyler Nickel,,,1.0,,,
 401909280,NYK,1629013,Landry Shamet,,,1.0,,,
-401909280,NYK,1626157,Karl-Anthony Towns,Available,Injury/Illness-LeftWristSprain,1.0,,,
+401909280,NYK,1626157,Karl-Anthony Towns,Starting,Injury/Illness-LeftWristSprain,1.0,,,1.0
 401909280,NYK,1630164,James Wiseman,,,1.0,,,
 401909281,TOR,203937,Kyle Anderson,,,1.0,,,
 401909281,TOR,1630567,Scottie Barnes,Starting,,1.0,,,1.0
