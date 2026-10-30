@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 10:49 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 10:54 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -21,28 +21,28 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Clint Capela REB over 13.5 (14+) | HOU @ DAL | draftkings | 16.40 | 11.52 | 5.67 | 17.6% | 5.7% | 8.7% | +42.4% | +189.1% | 0.7% |
 | Clint Capela REB over 15.5 (16+) | HOU @ DAL | draftkings | 29.00 | 21.32 | 11.00 | 9.1% | 3.2% | 4.7% | +36.0% | +163.8% | 0.3% |
 | Quenton Jackson PA over 19.5 (20+) | IND @ MIA | draftkings | 12.20 | 9.51 | 5.25 | 19.1% | 7.7% | 10.5% | +28.2% | +132.5% | 0.6% |
-| Pascal Siakam PTS over 44.5 (45+) | IND @ MIA | draftkings | 29.00 | 23.15 | 13.17 | 7.6% | 3.2% | 4.3% | +25.2% | +120.3% | 0.2% |
-| Pascal Siakam PTS over 39.5 (40+) | IND @ MIA | draftkings | 14.80 | 12.05 | 7.02 | 14.2% | 6.3% | 8.3% | +22.8% | +110.9% | 0.4% |
+| Quenton Jackson AST over 7.5 (8+) | IND @ MIA | draftkings | 17.60 | 14.12 | 8.07 | 12.4% | 5.3% | 7.1% | +24.6% | +118.2% | 0.4% |
 | Kevin Durant PTS over 39.5 (40+) | HOU @ DAL | draftkings | 16.80 | 13.70 | 7.99 | 12.5% | 5.6% | 7.3% | +22.7% | +110.3% | 0.4% |
+| Pascal Siakam PTS over 44.5 (45+) | IND @ MIA | draftkings | 27.00 | 22.27 | 13.17 | 7.6% | 3.5% | 4.5% | +21.4% | +105.1% | 0.2% |
 | Kevin Durant PR over 49.5 (50+) | HOU @ DAL | draftkings | 22.00 | 18.28 | 10.93 | 9.2% | 4.2% | 5.5% | +20.4% | +101.3% | 0.2% |
+| Pascal Siakam PA over 44.5 (45+) | IND @ MIA | draftkings | 13.00 | 10.89 | 6.61 | 15.1% | 7.2% | 9.2% | +19.3% | +96.8% | 0.4% |
+| Pascal Siakam PA over 49.5 (50+) | IND @ MIA | draftkings | 23.00 | 19.53 | 12.06 | 8.3% | 4.1% | 5.1% | +17.8% | +90.7% | 0.2% |
 | Kevin Durant PR over 44.5 (45+) | HOU @ DAL | draftkings | 11.80 | 10.02 | 6.19 | 16.2% | 7.9% | 10.0% | +17.7% | +90.6% | 0.4% |
+| Pascal Siakam PTS over 39.5 (40+) | IND @ MIA | draftkings | 13.20 | 11.27 | 7.02 | 14.2% | 7.1% | 8.9% | +17.1% | +88.1% | 0.4% |
 | Quenton Jackson PR over 19.5 (20+) | IND @ MIA | draftkings | 13.60 | 11.92 | 7.72 | 13.0% | 6.9% | 8.4% | +14.1% | +76.1% | 0.3% |
 | Quenton Jackson PA over 24.5 (25+) | IND @ MIA | draftkings | 26.00 | 22.94 | 15.03 | 6.7% | 3.6% | 4.4% | +13.3% | +73.0% | 0.1% |
+| Pascal Siakam AST over 7.5 (8+) | IND @ MIA | draftkings | 11.20 | 10.03 | 6.74 | 14.8% | 8.3% | 10.0% | +11.7% | +66.3% | 0.3% |
 | Jabari Smith Jr. REB over 9.5 (10+) | HOU @ DAL | draftkings | 6.90 | 6.21 | 4.20 | 23.8% | 13.5% | 16.1% | +11.1% | +64.2% | 0.5% |
-| Pascal Siakam PTS over 34.5 (35+) | IND @ MIA | draftkings | 6.68 | 6.01 | 4.07 | 24.5% | 14.0% | 16.6% | +11.1% | +64.0% | 0.5% |
+| Pascal Siakam PA over 39.5 (40+) | IND @ MIA | draftkings | 6.49 | 5.84 | 3.96 | 25.2% | 14.4% | 17.1% | +11.1% | +63.9% | 0.5% |
 | Kevin Durant PTS over 34.5 (35+) | HOU @ DAL | draftkings | 7.30 | 6.59 | 4.49 | 22.3% | 12.8% | 15.2% | +10.7% | +62.5% | 0.4% |
-| Bam Adebayo REB over 15.5 (16+) | IND @ MIA | draftkings | 14.00 | 12.71 | 8.73 | 11.5% | 6.7% | 7.9% | +10.2% | +60.4% | 0.2% |
+| Quenton Jackson PRA over 29.5 (30+) | IND @ MIA | draftkings | 27.00 | 24.57 | 16.94 | 5.9% | 3.5% | 4.1% | +9.9% | +59.4% | 0.1% |
+| Bam Adebayo REB over 15.5 (16+) | IND @ MIA | draftkings | 13.80 | 12.59 | 8.73 | 11.5% | 6.8% | 7.9% | +9.6% | +58.1% | 0.2% |
 | Jabari Smith Jr. REB over 11.5 (12+) | HOU @ DAL | draftkings | 15.80 | 14.41 | 10.00 | 10.0% | 5.9% | 6.9% | +9.6% | +58.1% | 0.2% |
 | Kevin Durant PR over 39.5 (40+) | HOU @ DAL | draftkings | 5.63 | 5.18 | 3.64 | 27.4% | 16.6% | 19.3% | +8.7% | +54.5% | 0.5% |
 | Zaccharie Risacher REB over 7.5 (8+) | HOU @ DAL | draftkings | 8.60 | 7.94 | 5.63 | 17.8% | 10.9% | 12.6% | +8.3% | +52.6% | 0.3% |
-| Bam Adebayo REB over 13.5 (14+) | IND @ MIA | draftkings | 6.78 | 6.28 | 4.47 | 22.4% | 13.8% | 15.9% | +8.0% | +51.6% | 0.4% |
-| Pascal Siakam AST over 7.5 (8+) | IND @ MIA | draftkings | 10.20 | 9.45 | 6.74 | 14.8% | 9.2% | 10.6% | +8.0% | +51.4% | 0.2% |
+| Pascal Siakam PTS over 34.5 (35+) | IND @ MIA | draftkings | 6.21 | 5.74 | 4.07 | 24.5% | 15.0% | 17.4% | +8.2% | +52.4% | 0.4% |
+| Andrew Nembhard AST over 15.5 (16+) | IND @ MIA | draftkings | 19.80 | 18.32 | 13.02 | 7.7% | 4.7% | 5.5% | +8.1% | +52.1% | 0.1% |
 | Amen Thompson STL over 3.5 (4+) | HOU @ DAL | draftkings | 12.00 | 11.12 | 7.95 | 12.6% | 7.8% | 9.0% | +7.8% | +51.0% | 0.2% |
-| Kevin Durant REB over 9.5 (10+) | HOU @ DAL | draftkings | 9.90 | 9.23 | 6.66 | 15.0% | 9.4% | 10.8% | +7.3% | +48.7% | 0.2% |
-| Tari Eason REB over 11.5 (12+) | HOU @ DAL | draftkings | 15.00 | 14.04 | 10.21 | 9.8% | 6.2% | 7.1% | +6.8% | +46.9% | 0.1% |
-| Zaccharie Risacher REB over 9.5 (10+) | HOU @ DAL | draftkings | 23.00 | 21.55 | 15.68 | 6.4% | 4.1% | 4.6% | +6.8% | +46.7% | 0.1% |
-| Clint Capela PR over 24.5 (25+) | HOU @ DAL | draftkings | 10.30 | 9.68 | 7.10 | 14.1% | 9.1% | 10.3% | +6.4% | +45.1% | 0.2% |
-| Fred VanVleet REB over 5.5 (6+) | HOU @ DAL | draftkings | 6.52 | 6.15 | 4.53 | 22.1% | 14.3% | 16.3% | +6.1% | +43.9% | 0.3% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -52,23 +52,28 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 8.5 (9+) | HOU @ DAL | draftkings | 23.00 | 15.13 | 7.02 | 14.2% | 4.1% | 6.6% | +51.9% | +227.4% | 0.6% |
 | Clint Capela REB over 14.5 (15+) | HOU @ DAL | draftkings | 22.00 | 15.65 | 7.81 | 12.8% | 4.2% | 6.4% | +40.5% | +181.7% | 0.5% |
+| Quenton Jackson AST over 6.5 (7+) | IND @ MIA | draftkings | 10.80 | 8.64 | 4.92 | 20.3% | 8.6% | 11.6% | +25.0% | +119.5% | 0.6% |
+| Quenton Jackson AST over 8.5 (9+) | IND @ MIA | draftkings | 27.00 | 22.42 | 13.41 | 7.5% | 3.5% | 4.5% | +20.4% | +101.3% | 0.2% |
 | Jay Huff AST over 4.5 (5+) | IND @ MIA | draftkings | 27.00 | 23.36 | 14.83 | 6.7% | 3.5% | 4.3% | +15.6% | +82.1% | 0.1% |
 | Jabari Smith Jr. REB over 10.5 (11+) | HOU @ DAL | draftkings | 10.50 | 9.39 | 6.29 | 15.9% | 8.9% | 10.7% | +11.8% | +66.9% | 0.3% |
+| Pascal Siakam AST over 8.5 (9+) | IND @ MIA | draftkings | 19.00 | 17.21 | 11.79 | 8.5% | 4.9% | 5.8% | +10.4% | +61.1% | 0.1% |
 | Zaccharie Risacher REB over 8.5 (9+) | HOU @ DAL | draftkings | 14.40 | 13.07 | 8.98 | 11.1% | 6.5% | 7.6% | +10.2% | +60.3% | 0.2% |
-| Bam Adebayo REB over 14.5 (15+) | IND @ MIA | draftkings | 9.80 | 8.91 | 6.15 | 16.3% | 9.5% | 11.2% | +9.9% | +59.4% | 0.3% |
-| Bam Adebayo REB over 16.5 (17+) | IND @ MIA | draftkings | 19.60 | 18.05 | 12.73 | 7.9% | 4.8% | 5.5% | +8.6% | +54.0% | 0.1% |
-| Pascal Siakam AST over 8.5 (9+) | IND @ MIA | draftkings | 17.80 | 16.50 | 11.79 | 8.5% | 5.2% | 6.1% | +7.8% | +50.9% | 0.1% |
+| Bam Adebayo REB over 14.5 (15+) | IND @ MIA | draftkings | 9.70 | 8.86 | 6.15 | 16.3% | 9.6% | 11.3% | +9.5% | +57.7% | 0.3% |
+| Bam Adebayo REB over 16.5 (17+) | IND @ MIA | draftkings | 19.40 | 17.92 | 12.73 | 7.9% | 4.8% | 5.6% | +8.2% | +52.4% | 0.1% |
+| Pascal Siakam AST over 6.5 (7+) | IND @ MIA | draftkings | 6.29 | 5.82 | 4.14 | 24.1% | 14.9% | 17.2% | +8.1% | +51.8% | 0.4% |
 | Jabari Smith Jr. REB over 8.5 (9+) | HOU @ DAL | draftkings | 4.50 | 4.18 | 2.98 | 33.5% | 20.8% | 23.9% | +7.8% | +50.8% | 0.6% |
 | Kevin Durant REB over 10.5 (11+) | HOU @ DAL | draftkings | 16.40 | 15.31 | 11.09 | 9.0% | 5.7% | 6.5% | +7.1% | +47.9% | 0.1% |
 | Tari Eason REB over 10.5 (11+) | HOU @ DAL | draftkings | 9.70 | 9.06 | 6.56 | 15.2% | 9.6% | 11.0% | +7.1% | +47.9% | 0.2% |
+| Andrew Nembhard AST over 14.5 (15+) | IND @ MIA | draftkings | 13.20 | 12.35 | 8.96 | 11.2% | 7.1% | 8.1% | +6.9% | +47.3% | 0.1% |
 | Fred VanVleet REB over 6.5 (7+) | HOU @ DAL | draftkings | 11.80 | 11.05 | 8.05 | 12.4% | 7.9% | 9.0% | +6.8% | +46.7% | 0.2% |
 | Zaccharie Risacher REB over 6.5 (7+) | HOU @ DAL | draftkings | 5.28 | 4.95 | 3.60 | 27.8% | 17.7% | 20.2% | +6.7% | +46.6% | 0.4% |
+| Bam Adebayo REB over 12.5 (13+) | IND @ MIA | draftkings | 4.85 | 4.56 | 3.34 | 29.9% | 19.3% | 21.9% | +6.3% | +45.0% | 0.4% |
 | Kevin Durant REB over 8.5 (9+) | HOU @ DAL | draftkings | 6.24 | 5.91 | 4.40 | 22.8% | 15.0% | 16.9% | +5.6% | +42.0% | 0.3% |
-| Pascal Siakam AST over 6.5 (7+) | IND @ MIA | draftkings | 5.88 | 5.57 | 4.14 | 24.1% | 15.9% | 17.9% | +5.6% | +41.9% | 0.3% |
-| Bam Adebayo REB over 12.5 (13+) | IND @ MIA | draftkings | 4.73 | 4.49 | 3.34 | 29.9% | 19.8% | 22.3% | +5.5% | +41.4% | 0.4% |
+| Jarace Walker AST over 4.5 (5+) | IND @ MIA | draftkings | 6.17 | 5.84 | 4.35 | 23.0% | 15.2% | 17.1% | +5.6% | +41.9% | 0.3% |
 | Sandro Mamukelashvili REB over 8.5 (9+) | LAL @ GSW | draftkings | 11.00 | 10.43 | 7.78 | 12.9% | 8.5% | 9.6% | +5.5% | +41.4% | 0.1% |
 | Nikola Jokic AST over 16.5 (17+) | DEN @ PHX | draftkings | 19.60 | 18.59 | 13.87 | 7.2% | 4.8% | 5.4% | +5.4% | +41.3% | 0.1% |
 | Sandro Mamukelashvili REB over 6.5 (7+) | LAL @ GSW | draftkings | 4.48 | 4.26 | 3.20 | 31.3% | 20.9% | 23.5% | +5.1% | +40.1% | 0.4% |
+| Andrew Nembhard AST over 16.5 (17+) | IND @ MIA | draftkings | 27.00 | 25.71 | 19.32 | 5.2% | 3.5% | 3.9% | +5.0% | +39.7% | 0.1% |
 
 ## Wait for news
 
@@ -87,6 +92,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Clint Capela REB over 9.5 (10+) | HOU @ DAL | draftkings | 3.78 | 3.23 | 2.01 | 49.7% | 24.7% | 31.0% | +17.1% | +87.8% | 1.5% |
 | Clint Capela REB over 7.5 (8+) | HOU @ DAL | draftkings | 2.09 | 1.97 | 1.45 | 69.1% | 44.7% | 50.8% | +6.2% | +44.5% | 1.4% |
 | Kevin Durant RA over 9.5 (10+) | HOU @ DAL | draftkings | 1.95 | 1.84 | 1.36 | 73.3% | 48.0% | 54.3% | +6.0% | +43.1% | 1.6% |
+| Quenton Jackson AST over 3.5 (4+) | IND @ MIA | draftkings | 2.29 | 2.17 | 1.62 | 61.9% | 40.8% | 46.1% | +5.5% | +41.7% | 1.1% |
 | Quenton Jackson PA over 9.5 (10+) | IND @ MIA | draftkings | 1.83 | 1.74 | 1.31 | 76.6% | 51.0% | 57.4% | +5.2% | +40.5% | 1.6% |
 | Quenton Jackson PR over 9.5 (10+) | IND @ MIA | draftkings | 2.02 | 1.92 | 1.44 | 69.4% | 46.3% | 52.0% | +5.1% | +40.2% | 1.3% |
 
@@ -113,24 +119,25 @@ Out: Johnny Furphy (IND), Tyrese Haliburton (IND), T.J. McConnell (IND), Ben She
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jarace Walker PTS over 10.5 (11+) | IND @ MIA | pointsbetau | 2.00 | 1.91 | 1.71 | 58.5% | 50.4% | 52.4% | +4.8% | +16.9% | 1.2% |
 | Pascal Siakam PTS over 23.5 (24+) | IND @ MIA | pointsbetau | 1.95 | 1.88 | 1.61 | 61.9% | 50.4% | 53.3% | +4.0% | +20.9% | 1.1% |
-| Andrew Nembhard PTS over 17.5 (18+) | IND @ MIA | unibet | 2.00 | 1.97 | 1.78 | 56.0% | 49.1% | 50.8% | +1.7% | +12.1% | 0.4% |
+| Andrew Nembhard PTS over 17.5 (18+) | IND @ MIA | unibet | 2.00 | 1.96 | 1.78 | 56.0% | 49.4% | 51.1% | +2.2% | +12.1% | 0.5% |
+| Bam Adebayo STL over 1.5 (2+) | IND @ MIA | draftkings | 2.78 | 2.74 | 2.25 | 44.5% | 33.8% | 36.5% | +1.4% | +23.8% | 0.2% |
 | Giannis Antetokounmpo PTS under 31.5 | IND @ MIA | sportsbet | 1.90 | 1.88 | 1.66 | 60.3% | 50.9% | 53.3% | +1.3% | +14.6% | 0.4% |
-| Bam Adebayo STL over 1.5 (2+) | IND @ MIA | draftkings | 2.76 | 2.73 | 2.25 | 44.5% | 33.9% | 36.6% | +0.9% | +22.9% | 0.1% |
 | Giannis Antetokounmpo PTS under 30.5 | IND @ MIA | pointsbetau | 2.00 | 1.99 | 1.76 | 57.0% | 48.1% | 50.3% | +0.6% | +13.9% | 0.1% |
+| Bam Adebayo REB over 9.5 (10+) | IND @ MIA | draftkings | 2.01 | 2.01 | 1.69 | 59.2% | 46.7% | 49.9% | +0.2% | +19.1% | 0.1% |
 | Kelly Oubre Jr. REB over 4.5 (5+) | IND @ MIA | draftkings | 2.09 | 2.09 | 1.76 | 56.8% | 44.9% | 47.9% | +0.1% | +18.7% | 0.0% |
 
 <details><summary>IND players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Andrew Nembhard | 100% | 35.1<br><sub>34,32,30,-,35</sub> | 19.6<br><sub>18,16,14,-,18</sub> | 18.5 · 16.5 | 3.7<br><sub>2,2,1,-,3</sub> | 3.5 | 9.8<br><sub>9,5,3,-,14</sub> | 9.5 | 2.1<br><sub>0,1,4,-,1</sub> | 1.5 | 1.1 | 0.2 | 3.2 | 33.1 |
-| Pascal Siakam | 100% | 35.0<br><sub>35,29,26,37,34</sub> | 27.9<br><sub>30,23,21,20,26</sub> | 24.5 · 23.5 | 8.0<br><sub>8,3,7,13,11</sub> | 7.5 | 4.9<br><sub>1,3,6,6,3</sub> | 4.5 | 1.9<br><sub>1,3,3,1,0</sub> | 1.5 | 1.2 | 0.4 | 3.1 | 40.8 |
+| Andrew Nembhard | 100% | 35.1<br><sub>34,32,30,-,35</sub> | 19.6<br><sub>18,16,14,-,18</sub> | 17.5 · 16.5 | 3.7<br><sub>2,2,1,-,3</sub> | 2.5 | 9.8<br><sub>9,5,3,-,14</sub> | 8.5 | 2.1<br><sub>0,1,4,-,1</sub> | 1.5 | 1.1 | 0.2 | 3.2 | 33.1 |
+| Pascal Siakam | 100% | 35.0<br><sub>35,29,26,37,34</sub> | 27.9<br><sub>30,23,21,20,26</sub> | 24.5 · 23.5 | 8.0<br><sub>8,3,7,13,11</sub> | 7.5 | 4.9<br><sub>1,3,6,6,3</sub> | 3.5 | 1.9<br><sub>1,3,3,1,0</sub> | 1.5 | 1.2 | 0.4 | 3.1 | 40.8 |
 | Kelly Oubre Jr. | 100% | 30.5<br><sub>28,20,20,23,30</sub> | 13.5<br><sub>4,3,14,9,15</sub> | 12.5 · 11.5 | 5.2<br><sub>2,2,2,3,3</sub> | 4.5 | 2.0<br><sub>3,2,2,1,1</sub> |  | 1.3<br><sub>0,1,1,1,1</sub> | 1.5 | 1.2 | 0.5 | 1.4 | 20.7 |
-| Aaron Nesmith | 100% | 29.2<br><sub>-,20,19,21,27</sub> | 16.4<br><sub>-,9,13,13,18</sub> | 13.5 · 13.5 | 4.1<br><sub>-,4,1,0,2</sub> | 3.5 | 2.1<br><sub>-,1,2,1,1</sub> |  | 2.3<br><sub>-,1,2,3,3</sub> | 1.5 | 0.8 | 0.5 | 1.7 | 22.6 |
+| Aaron Nesmith | 100% | 29.2<br><sub>-,20,19,21,27</sub> | 16.4<br><sub>-,9,13,13,18</sub> | 14.5 · 13.5 | 4.1<br><sub>-,4,1,0,2</sub> | 3.5 | 2.1<br><sub>-,1,2,1,1</sub> |  | 2.3<br><sub>-,1,2,3,3</sub> | 1.5 | 0.8 | 0.5 | 1.7 | 22.6 |
 | Jarace Walker | 96% | 27.3<br><sub>19,17,19,29,22</sub> | 12.5<br><sub>3,2,6,10,7</sub> | 10.5 · 10.5 | 6.4<br><sub>6,1,7,8,8</sub> | 5.5 | 3.2<br><sub>2,1,1,2,1</sub> |  | 1.6<br><sub>1,0,0,2,1</sub> | 1.5 | 0.9 | 0.4 | 2.0 | 22.1 |
 | Jay Huff | 100% | 23.5<br><sub>-,5,21,23,16</sub> | 9.5<br><sub>-,0,14,6,3</sub> | 8.5 · 8.5 | 4.7<br><sub>-,2,2,6,6</sub> | 4.5 | 2.0<br><sub>-,0,3,1,2</sub> |  | 1.3<br><sub>-,0,2,0,1</sub> | 1.5 | 0.5 | 1.5 | 1.0 | 16.1 |
 | Quenton Jackson | 97% | 23.0<br><sub>16,17,18,27,14</sub> | 9.8<br><sub>6,8,5,4,2</sub> |  | 3.1<br><sub>4,1,1,2,2</sub> |  | 4.5<br><sub>1,3,2,4,6</sub> |  | 0.8<br><sub>0,1,0,0,0</sub> |  | 0.9 | 0.2 | 1.4 | 17.4 |
-| Larry Nance Jr. | 88% | 20.7<br><sub>5,1,22,19,23</sub> | 6.0<br><sub>0,0,6,2,5</sub> | 6.5 · 6.5 | 4.5<br><sub>0,0,6,3,5</sub> |  | 1.3<br><sub>0,0,1,1,0</sub> |  | 0.7<br><sub>0,0,1,0,1</sub> |  | 1.0 | 0.4 | 0.7 | 11.8 |
+| Larry Nance Jr. | 88% | 20.7<br><sub>5,1,22,19,23</sub> | 6.0<br><sub>0,0,6,2,5</sub> | 6.5 · 6.5 | 4.5<br><sub>0,0,6,3,5</sub> | 4.5 | 1.3<br><sub>0,0,1,1,0</sub> |  | 0.7<br><sub>0,0,1,0,1</sub> |  | 1.0 | 0.4 | 0.7 | 11.8 |
 | Jalen Slawson | 88% | 14.6<br><sub>-,16,8,3,12</sub> | 4.2<br><sub>-,4,1,2,2</sub> |  | 3.0<br><sub>-,5,2,1,1</sub> |  | 1.5<br><sub>-,2,0,0,1</sub> |  | 0.3<br><sub>-,0,0,0,0</sub> |  | 0.7 | 0.6 | 0.7 | 8.7 |
 | Kobe Brown | 48% | 14.2<br><sub>-,1,-,-,-</sub> | 5.5<br><sub>-,0,-,-,-</sub> |  | 2.9<br><sub>-,0,-,-,-</sub> |  | 1.2<br><sub>-,0,-,-,-</sub> |  | 0.6<br><sub>-,0,-,-,-</sub> |  | 0.3 | 0.2 | 0.8 | 9.6 |
 | Braden Smith | 58% | 12.7<br><sub>-,-,-,-,5</sub> | 0.5<br><sub>-,-,-,-,0</sub> |  | 0.4<br><sub>-,-,-,-,0</sub> |  | 1.1<br><sub>-,-,-,-,1</sub> |  | 0.0<br><sub>-,-,-,-,0</sub> |  | 0.5 | 0.3 | 0.6 | 2.1 |
