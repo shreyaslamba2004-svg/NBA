@@ -20,8 +20,6 @@ MIN_EV = 0.05          # best-bets threshold
 MAX_STAKE_PCT = 2.0    # cap on quarter-Kelly stake, % of bankroll
 TOP_BETS = 25
 MAX_ODDS = 4.0         # best bets only up to this decimal price
-TOP_SGMS_BAND = 3      # slate-wide best multis per price band
-TOP_SGMS_GAME = 4      # per game
 TOP_PROPS_GAME = 3     # best single props per game
 STATS = [("pts", "PTS"), ("reb", "REB"), ("ast", "AST"), ("fg3m", "3PM"), ("stl", "STL"), ("blk", "BLK"),
          ("tov", "TOV"), ("pra", "PRA")]
@@ -81,8 +79,8 @@ def _bets_table(df: pd.DataFrame) -> str:
                    "Stake"], rows)
 
 
-def best_bets(edges: pd.DataFrame) -> tuple[str, str, str]:
-    """(best bets, wait-for-news, check-news) tables."""
+def best_bets(edges: pd.DataFrame, longshots: bool = False) -> tuple[str, str, str]:
+    """(best bets, wait-for-news, check-news) tables; longshots=True does the same for odds above MAX_ODDS."""
     if edges.empty:
         return "_No market prices were available for this run._", "", ""
     e = edges.copy()
@@ -92,7 +90,8 @@ def best_bets(edges: pd.DataFrame) -> tuple[str, str, str]:
     dep = e.get("depends_on", pd.Series("", index=e.index)).fillna("").astype(str)
     e["depends_on"] = dep
     # long shots excluded until the stat-distribution tails are validated in backtests
-    good = e[(e["ev_blend"] >= MIN_EV) & (e["price_decimal"] <= MAX_ODDS)].sort_values("ev_blend", ascending=False)
+    in_band = e["price_decimal"] > MAX_ODDS if longshots else e["price_decimal"] <= MAX_ODDS
+    good = e[(e["ev_blend"] >= MIN_EV) & in_band].sort_values("ev_blend", ascending=False)
     good = good.drop_duplicates(["matchup", "market", "selection", "line", "player"])  # best price per bet
     waiting = good[good["depends_on"] != ""].head(TOP_BETS)
     rest = good[good["depends_on"] == ""]
@@ -109,33 +108,8 @@ def best_bets(edges: pd.DataFrame) -> tuple[str, str, str]:
     return main, wait, (_bets_table(flagged) if len(flagged) else "")
 
 
-def _sgm_rows(s: pd.DataFrame, game: bool = True) -> str:
-    rows = [[str(r["legs"]).replace(" + ", " **+** ")] + ([r["matchup"]] if game else []) +
-            [_f(r["model_prob"], 1, pct=True), _f(r["fair_odds"]), _f(r["min_price_worth_taking"]),
-             _f(r["multiplied_leg_prices"]), _f(r["ev_at_multiplied_prices"], 1, pct=True, sign=True)]
-            for _, r in s.iterrows()]
-    return _table(["Legs"] + (["Game"] if game else []) + ["Chance", "Fair", "Take at ≥", "Legs multiplied",
-                                                           "EV if multiplied"], rows)
-
-
-def sgm_md(sg: pd.DataFrame) -> str:
-    """Best multis across the slate, by price band."""
-    if sg.empty:
-        return "_No same-game multis priced for this run._"
-    s = sg.sort_values("ev_at_multiplied_prices", ascending=False)
-    if "band" not in s:
-        s = s.assign(band="all")
-    out = []
-    for band, x in s.groupby("band", sort=True):
-        out.append(f"**Price {band}**\n\n" + _sgm_rows(x.head(TOP_SGMS_BAND)))
-    return ("\n\n".join(out) + "\n\nBookies price multis with their own correlation model, so compare their "
-            "quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative "
-            "EV here means the legs multiplied fall short of it. \"10+ pts\" means 10 or more. Each game's section below has its own "
-            "best multis.")
-
-
-def _game_extras(gid, ed: pd.DataFrame, sg: pd.DataFrame, matchup: str) -> str:
-    """Best single props and multis for one game."""
+def _game_extras(gid, ed: pd.DataFrame) -> str:
+    """Best single props for one game."""
     out = []
     if len(ed):
         e = ed[(ed["game_id"] == gid) & ed["market"].astype(str).str.startswith("prop_") &
@@ -151,12 +125,6 @@ def _game_extras(gid, ed: pd.DataFrame, sg: pd.DataFrame, matchup: str) -> str:
         e = e.sort_values("ev_blend", ascending=False).drop_duplicates(["player", "market", "selection", "line"])
         if len(e):
             out.append("**Best player props (main lines)**\n\n" + _bets_table(e.head(TOP_PROPS_GAME)))
-    if len(sg):
-        x = sg[sg["matchup"] == matchup].sort_values("ev_at_multiplied_prices", ascending=False)
-        if "band" in x:  # best one per price band
-            x = x.groupby("band").head(1).sort_values("multiplied_leg_prices")
-        if len(x):
-            out.append("**Best multis (one per price band)**\n\n" + _sgm_rows(x.head(TOP_SGMS_GAME), game=False))
     return "\n\n".join(out)
 
 
@@ -243,8 +211,7 @@ def _line_cells(r) -> list:
 LINE_HEAD = ["Score", "Away win", "Fair H2H a/h", "Fair line", "Fair total", "vs market"]
 
 
-def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None,
-             sg: pd.DataFrame | None = None) -> str:
+def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None) -> str:
     if g.empty:
         return "_No games._"
     if "scenario" not in g:
@@ -263,8 +230,7 @@ def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None,
         out.append(f"\n### {a} @ {h}")
         if pd.notna(r.get("out")) and r.get("out"):
             out.append(f"Out: {r['out']}\n")
-        extras = _game_extras(gid, ed if ed is not None else pd.DataFrame(),
-                              sg if sg is not None else pd.DataFrame(), f"{a} @ {h}")
+        extras = _game_extras(gid, ed if ed is not None else pd.DataFrame())
         if extras:
             out.append(extras + "\n")
         alts = gg[gg["scenario"] != "base"]
@@ -312,7 +278,7 @@ def build(day: date) -> Path | None:
     d = OUT / day.isoformat()
     if not d.exists():
         return None
-    g, ps, ed, sg = (_read(d, n) for n in ("games", "players", "edges", "sgm"))
+    g, ps, ed = (_read(d, n) for n in ("games", "players", "edges"))
     ln = _read(d, "lines")
     LINES.clear()
     if ln is not None and len(ln):
@@ -329,6 +295,7 @@ def build(day: date) -> Path | None:
         if ts:
             gen = pd.Timestamp(ts).tz_convert("Australia/Sydney").strftime("%a %d %b, %I:%M %p")
     bets, waiting, flagged = best_bets(ed)
+    longs = best_bets(ed, longshots=True)[0].replace("_No bets clear", "_No long shots clear")
     parts = [f"# NBA model · {day.strftime('%a %d %b %Y')} (US date)",
              f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
@@ -339,7 +306,9 @@ def build(day: date) -> Path | None:
              "DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 "
              "minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, "
              "so check Sportsbet's line and price, and use the Fair column as your minimum odds.", bets,
-             "## Best same-game multis by price (1.50 to 2.50)", sgm_md(sg)]
+             f"## Long shots (EV ≥ {MIN_EV:.0%}, odds above {MAX_ODDS:g})",
+             "Same rules as best bets, kept apart because the model's tails (big nights, rare outcomes) aren't "
+             "proven yet. Expect long losing runs even if the edge is real.", longs]
     if waiting:
         parts += ["## Wait for news",
                   "These look good but hinge on a questionable player. The model's chance is shown both ways; the EV "
@@ -355,7 +324,7 @@ def build(day: date) -> Path | None:
               "Confirmed-player tables assume every questionable player sits, so a maybe never dilutes anyone "
               "else's numbers. Starters and stars who are questionable get full \"if he plays\" tables for both "
               "teams. Once a status is confirmed the next run drops the alternatives.",
-              games_md(g, ps, ed, sg),
+              games_md(g, ps, ed),
               "---\n_Model projections, not advice. Edges are against the best price found at run time. "
               f"Full data: `output/{day.isoformat()}/`._"]
     md = "\n\n".join(parts) + "\n"

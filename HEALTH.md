@@ -45,7 +45,76 @@ Units assume a flat 1-unit stake on every bet so results compare cleanly; the sh
 
 </details>
 
-**Any time in the day (secondary).** Every bet that showed in the table at any point, graded at the first price it showed at. Bets that dropped off before tip (news, price moves) count here.
+## Long shots (EV ≥ 5%, odds above 4)
+
+TODAY.md's long-shot table, graded the same way: the final pre-tip list at the price shown then, 1 unit flat. Expect long losing runs; judge it over hundreds of bets.
+
+| window       |   bets |   won |   profit (units) |   ROI % |
+|:-------------|-------:|------:|-----------------:|--------:|
+| Last 7 days  |     50 |     2 |           -34.04 |   -68.1 |
+| Last 30 days |     50 |     2 |           -34.04 |   -68.1 |
+| Season       |     50 |     2 |           -34.04 |   -68.1 |
+
+<details><summary>Every long shot (50)</summary>
+
+| date (US)   | bet                              | game      | book       |   odds | EV     | sheet stake   | result   |   units (1 flat) |
+|:------------|:---------------------------------|:----------|:-----------|-------:|:-------|:--------------|:---------|-----------------:|
+| 2026-10-29  | Zion Williamson PTS over 34.5    | SAC @ NOP | draftkings |  19.6  | +44.5% | 0.6%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday AST over 8.5        | MEM @ POR | draftkings |  20.8  | +32.1% | 0.4%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday AST over 7.5        | MEM @ POR | draftkings |  12.2  | +29.3% | 0.7%          | lost     |            -1    |
+| 2026-10-29  | Ja Morant AST over 11.5          | MEM @ POR | draftkings |  20.8  | +25.2% | 0.3%          | lost     |            -1    |
+| 2026-10-29  | Ja Morant AST over 10.5          | MEM @ POR | draftkings |  13.4  | +23.2% | 0.5%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday AST over 9.5        | MEM @ POR | draftkings |  30    | +22.1% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Damian Lillard AST over 8.5      | MEM @ POR | draftkings |  21    | +19.0% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday REB over 7.5        | MEM @ POR | draftkings |  12.8  | +18.1% | 0.4%          | lost     |            -1    |
+| 2026-10-29  | Ja Morant AST over 12.5          | MEM @ POR | draftkings |  29    | +17.6% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Ja Morant AST over 9.5           | MEM @ POR | draftkings |   8.2  | +17.0% | 0.6%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday PRA over 39.5       | MEM @ POR | draftkings |  27    | +16.4% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday REB over 6.5        | MEM @ POR | draftkings |   7.5  | +16.3% | 0.6%          | lost     |            -1    |
+| 2026-10-29  | Damian Lillard AST over 7.5      | MEM @ POR | draftkings |  11.8  | +16.2% | 0.4%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday PRA over 34.5       | MEM @ POR | draftkings |  16.4  | +16.0% | 0.3%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday REB over 8.5        | MEM @ POR | draftkings |  21    | +16.0% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Jrue Holiday PRA over 29.5       | MEM @ POR | draftkings |   7.4  | +14.4% | 0.6%          | lost     |            -1    |
+| 2026-10-29  | Precious Achiuwa PTS over 19.5   | SAC @ NOP | draftkings |   9.6  | +13.6% | 0.4%          | won      |             8.6  |
+| 2026-10-29  | Derik Queen PTS over 24.5        | SAC @ NOP | draftkings |  22    | +13.2% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Derik Queen REB over 13.5        | SAC @ NOP | draftkings |  14.6  | +12.5% | 0.2%          | lost     |            -1    |
+| 2026-10-29  | Derik Queen REB over 12.5        | SAC @ NOP | draftkings |   9.7  | +11.9% | 0.3%          | lost     |            -1    |
+| 2026-10-29  | Damian Lillard AST over 6.5      | MEM @ POR | draftkings |   6.69 | +11.7% | 0.5%          | lost     |            -1    |
+| 2026-10-29  | Precious Achiuwa PTS over 17.5   | SAC @ NOP | draftkings |   6.36 | +11.4% | 0.5%          | won      |             5.36 |
+| 2026-10-29  | Ja Morant AST over 8.5           | MEM @ POR | draftkings |   5.04 | +10.5% | 0.7%          | lost     |            -1    |
+| 2026-10-29  | Trey Murphy III PRA over 44.5    | SAC @ NOP | draftkings |  19.2  | +10.2% | 0.1%          | lost     |            -1    |
+| 2026-10-29  | Derik Queen PTS over 19.5        | SAC @ NOP | draftkings |   7.9  | +9.9%  | 0.4%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PRA over 54.5     | LAL @ LAC | draftkings |  22    | +32.8% | 0.4%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PTS over 39.5     | LAL @ LAC | draftkings |  16.6  | +30.0% | 0.5%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PRA over 49.5     | LAL @ LAC | draftkings |  12    | +27.5% | 0.6%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PTS over 44.5     | LAL @ LAC | draftkings |  29    | +27.4% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Pascal Siakam PRA over 54.5      | PHI @ IND | draftkings |  24    | +27.1% | 0.3%          | lost     |            -1    |
+| 2026-10-28  | Kevin Durant AST over 8.5        | HOU @ MIL | draftkings |  18.4  | +25.1% | 0.4%          | lost     |            -1    |
+| 2026-10-28  | Pascal Siakam PRA over 49.5      | PHI @ IND | draftkings |  13.6  | +23.9% | 0.5%          | lost     |            -1    |
+| 2026-10-28  | Kevin Durant AST over 7.5        | HOU @ MIL | draftkings |  10.9  | +23.8% | 0.6%          | lost     |            -1    |
+| 2026-10-28  | Saddiq Bey PTS over 24.5         | DEN @ NOP | draftkings |  18.6  | +22.9% | 0.3%          | lost     |            -1    |
+| 2026-10-28  | Brook Lopez PTS over 24.5        | LAL @ LAC | draftkings |  24    | +20.6% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Kevin Durant AST over 9.5        | HOU @ MIL | draftkings |  29    | +20.4% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PTS over 34.5     | LAL @ LAC | draftkings |   7.7  | +17.2% | 0.6%          | lost     |            -1    |
+| 2026-10-28  | Saddiq Bey PTS over 19.5         | DEN @ NOP | draftkings |   7.3  | +17.0% | 0.7%          | lost     |            -1    |
+| 2026-10-28  | Saddiq Bey PR over 29.5          | DEN @ NOP | draftkings |  17.8  | +17.0% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Saddiq Bey PR over 24.5          | DEN @ NOP | draftkings |   7.9  | +16.6% | 0.6%          | lost     |            -1    |
+| 2026-10-28  | Pascal Siakam PRA over 44.5      | PHI @ IND | draftkings |   6.82 | +14.0% | 0.6%          | lost     |            -1    |
+| 2026-10-28  | Jarace Walker REB over 9.5       | PHI @ IND | draftkings |  13    | +13.9% | 0.3%          | lost     |            -1    |
+| 2026-10-28  | Daniss Jenkins REB over 5.5      | CHA @ DET | draftkings |   9.9  | +13.7% | 0.4%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PRA over 44.5     | LAL @ LAC | draftkings |   5.84 | +13.5% | 0.7%          | lost     |            -1    |
+| 2026-10-28  | Isaiah Hartenstein REB over 18.5 | OKC @ DAL | draftkings |  21    | +12.5% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Jarace Walker REB over 8.5       | PHI @ IND | draftkings |   8.3  | +12.1% | 0.4%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PR over 44.5      | LAL @ LAC | draftkings |  15    | +12.0% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Daniss Jenkins REB over 6.5      | CHA @ DET | draftkings |  17.6  | +11.9% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Jarace Walker REB over 10.5      | PHI @ IND | draftkings |  19.8  | +11.8% | 0.2%          | lost     |            -1    |
+| 2026-10-28  | Keyonte George AST over 12.5     | SAS @ UTA | draftkings |  23    | +11.8% | 0.1%          | lost     |            -1    |
+
+</details>
+
+## Best bets: any time in the day (secondary)
+
+**Any time in the day.** Every bet that showed in the table at any point, graded at the first price it showed at. Bets that dropped off before tip (news, price moves) count here.
 
 | window       |   bets |   won |   profit (units) |   ROI % |   avg CLV % |   beat closing % |
 |:-------------|-------:|------:|-----------------:|--------:|------------:|-----------------:|
@@ -86,16 +155,6 @@ The "Best player props" box in each game's section of TODAY.md: up to 3 main-lin
 | 2026-10-28  | Aaron Gordon 3PM under 1.5       | DEN @ NOP | draftkings |   2.08 | +0.1% | 0.0%          | lost     |            -1    |
 
 </details>
-
-## Multis (top 3 per price band)
-
-| window       |   multis |   won |   model expected to win |   profit (units, at multiplied leg prices) |
-|:-------------|---------:|------:|------------------------:|-------------------------------------------:|
-| Last 7 days  |       22 |     6 |                    11.1 |                                      -9.79 |
-| Last 30 days |       22 |     6 |                    11.1 |                                      -9.79 |
-| Season       |       22 |     6 |                    11.1 |                                      -9.79 |
-
-If "won" keeps landing near "expected", the multi probabilities are honest. Profit uses the legs' prices multiplied together; the bookie's actual SGM price is usually lower.
 
 ## Day by day (last 30)
 

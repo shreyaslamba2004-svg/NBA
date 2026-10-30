@@ -3,8 +3,8 @@
 For each graded US date it takes the last projection logged before each tip (players the model
 had at 90%+ to play) and compares minutes and points with what happened, next to a simple
 baseline: each player's average over his last 10 games. Daily rows are kept in
-logs/health_daily.csv so each night only adds the new date. Bets and multis are graded from the
-same logs (bets via monitor.graded_offers, multis from output/<date>/sgm.csv).
+logs/health_daily.csv so each night only adds the new date. Bets are graded from the
+same logs via monitor.graded_offers.
 """
 from __future__ import annotations
 
@@ -23,10 +23,6 @@ DAILY = LOGS / "health_daily.csv"
 PAGE = ROOT / "HEALTH.md"
 MIN_DAYS = 5  # fewer graded dates than this in the window: too early for a verdict
 SAME_BAND = 2.0  # percentage points of "better than baseline" that still count as no change
-SGM_STAT = {"pts": "pts", "reb": "reb", "ast": "ast", "3pm": "fg3m", "pra": "pra", "pr": "pr", "pa": "pa",
-            "ra": "ra", "stl": "stl", "blk": "blk"}
-
-
 def _results(d: str) -> pd.DataFrame:
     r = pd.read_csv(LOGS / "results" / f"{d}.csv")
     for c, parts in monitor.COMBOS.items():
@@ -40,50 +36,6 @@ def _tips(d: str) -> dict:
     from .sources import espn
     sb = espn.scoreboard(date.fromisoformat(d))
     return dict(zip(sb["game_id"], pd.to_datetime(sb["tip_utc"], utc=True)))
-
-
-def _grade_sgms(d: str, r: pd.DataFrame, tips: dict) -> dict:
-    f = ROOT / "output" / d / "sgm.csv"
-    if not f.exists():
-        return {}
-    s = pd.read_csv(f)
-    if s.empty:
-        return {}
-    games = r.drop_duplicates("game_id")
-    gid = {f"{g.away} @ {g.home}": g.game_id for g in games.itertuples()}
-
-    def leg(text, mu):
-        a = re.match(r"(.+) (\w+) (over|under) ([\d.]+)$", text)
-        b = re.match(r"(.+) (\d+)\+ (\w+)$", text)
-        w = re.match(r"(\w+) win$", text)
-        g = games[games["game_id"] == gid.get(mu)]
-        if g.empty:
-            return np.nan
-        if w:
-            g = g.iloc[0]
-            return float(w.group(1) == (g.home if g.home_pts > g.away_pts else g.away))
-        if a:
-            name, st, side, line = a.groups()
-        elif b:
-            name, line, st = b.groups()
-            line, side = float(line) - 0.5, "over"
-        else:
-            return np.nan
-        x = r[(r["game_id"] == gid.get(mu)) & (r["k"] == norm_name(name))]
-        if x.empty or st not in SGM_STAT:
-            return np.nan  # didn't play: void
-        v = x.iloc[0][SGM_STAT[st]]
-        return np.nan if v == float(line) else float((v > float(line)) == (side == "over"))
-
-    won = []
-    for x in s.itertuples():
-        legs = [leg(t, x.matchup) for t in str(x.legs).split(" + ")]
-        won.append(np.nan if any(pd.isna(legs)) else float(all(legs)))
-    s["won"] = won
-    shown = s.sort_values("ev_at_multiplied_prices", ascending=False).groupby("band").head(3).dropna(subset=["won"])
-    return {"sgm_n": len(shown), "sgm_won": shown["won"].sum(),
-            "sgm_profit": float(np.where(shown["won"] == 1, shown["multiplied_leg_prices"] - 1, -1.0).sum()),
-            "sgm_exp": shown["model_prob"].sum()}
 
 
 def grade_day(d: str, pg: pd.DataFrame) -> dict | None:
@@ -112,7 +64,6 @@ def grade_day(d: str, pg: pd.DataFrame) -> dict | None:
         row[f"{s}_mae"] = (m[f"proj_{s}"] - m[s]).abs().mean()
         row[f"{s}_base"] = (m[f"b_{s}"] - m[s]).abs().mean()
         row[f"{s}_bias"] = (m[f"proj_{s}"] - m[s]).mean()
-    row.update(_grade_sgms(d, r, tips))
     f = ROOT / "output" / d / "sanity.csv"  # the day's last sanity checks (nbamodel/sanity.py)
     if f.exists():
         try:
@@ -227,6 +178,11 @@ def build(today: date | None = None) -> str:
         return (x.sort_values(price_col, ascending=False)
                 .drop_duplicates(["game_id", "market", "selection", "player", "line"]))
 
+    def top(x):  # TODAY.md lists at most TOP_BETS per table
+        from .dashboard import TOP_BETS
+        return (x.assign(_d=x["_file"].astype(str).str[:10]).sort_values("ev_blend", ascending=False)
+                .groupby("_d").head(TOP_BETS))
+
     def record(x, price_col, clv=True):
         x = x.assign(day=pd.to_datetime(x["snap"].str[:10]),
                      profit=np.where(x["won"] == 1, x[price_col] - 1, -1.0),
@@ -257,11 +213,19 @@ def build(today: date | None = None) -> str:
 
     md.append("Units assume a flat 1-unit stake on every bet so results compare cleanly; the sheet's suggested "
               "stake (quarter-Kelly, capped) is shown per bet in the lists.")
-    fin = sheet(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS)],
-                "price_decimal") if len(g) else g
+    fin = top(sheet(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS)],
+                    "price_decimal")) if len(g) else g
     md.append(record(fin, "price_decimal", clv=False) + "\n\n" + bet_list(fin, "Every final-list bet")
               if len(fin) else "_No graded final-list bets yet._")
-    md.append("**Any time in the day (secondary).** Every bet that showed in the table at any point, graded at "
+    md.append(f"## Long shots (EV ≥ 5%, odds above {monitor.BEST_MAX_ODDS:g})")
+    md.append("TODAY.md's long-shot table, graded the same way: the final pre-tip list at the price shown then, "
+              "1 unit flat. Expect long losing runs; judge it over hundreds of bets.")
+    lng = top(sheet(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] > monitor.BEST_MAX_ODDS)],
+                    "price_decimal")) if len(g) else g
+    md.append(record(lng, "price_decimal", clv=False) + "\n\n" + bet_list(lng, "Every long shot")
+              if len(lng) else "_No graded long shots yet._")
+    md.append("## Best bets: any time in the day (secondary)")
+    md.append("**Any time in the day.** Every bet that showed in the table at any point, graded at "
               "the first price it showed at. Bets that dropped off before tip (news, price moves) count here.")
     anyt = sheet(g.dropna(subset=["taken_price"]), "taken_price") if len(g) else g
     if len(anyt):
@@ -291,21 +255,6 @@ def build(today: date | None = None) -> str:
         pp = pp.sort_values("ev_blend", ascending=False).groupby("game_id").head(3)
     md.append(record(pp, "price_decimal", clv=False) + "\n\n" + bet_list(pp, "Every graded game prop")
               if len(pp) else "_No graded game props yet._")
-    # multis
-    md.append("## Multis (top 3 per price band)")
-    if "sgm_n" in df and df["sgm_n"].fillna(0).sum() > 0:
-        rows = []
-        for label, dd in (("Last 7 days", 7), ("Last 30 days", 30), ("Season", 400)):
-            x = _window(df, dd, today).fillna({"sgm_n": 0})
-            if x["sgm_n"].sum():
-                rows.append({"window": label, "multis": int(x["sgm_n"].sum()), "won": int(x["sgm_won"].sum()),
-                             "model expected to win": round(float(x["sgm_exp"].sum()), 1),
-                             "profit (units, at multiplied leg prices)": round(float(x["sgm_profit"].sum()), 2)})
-        md.append(pd.DataFrame(rows).to_markdown(index=False))
-        md.append("If \"won\" keeps landing near \"expected\", the multi probabilities are honest. Profit uses "
-                  "the legs' prices multiplied together; the bookie's actual SGM price is usually lower.")
-    else:
-        md.append("_No graded multis yet._")
     # daily detail
     if len(df):
         d = df.sort_values("date", ascending=False).head(30)
