@@ -607,6 +607,13 @@ def finish(day: date, res: dict, sp: pd.DataFrame, slate: pd.DataFrame) -> Path:
                                                  "generated": pd.Timestamp.now(tz="UTC").isoformat()}))
     from .dashboard import build as build_page
     build_page(day)
+    try:
+        from .notify import alert
+        n = alert(day, path)
+        if n:
+            print(f"alerted {n} new best bet(s)")
+    except Exception as e:  # alerts must never stop the sheet
+        print("alerts failed:", e)
     print("wrote", path)
     return path
 

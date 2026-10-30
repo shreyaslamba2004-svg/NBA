@@ -46,6 +46,7 @@ jobs:
       - name: Run
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           ODDS_REGIONS: ${{ vars.ODDS_REGIONS || 'au' }}
           PROP_MARKETS: ${{ vars.PROP_MARKETS || 'player_points' }}
           GH_TOKEN: ${{ github.token }}
