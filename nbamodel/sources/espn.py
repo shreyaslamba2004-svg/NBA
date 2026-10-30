@@ -346,8 +346,9 @@ def draft_pick(espn_id: int) -> int | None:
 
 def pregame_lineup(game_id: int) -> pd.DataFrame:
     """Starters, and players ruled out with a reason (injury, illness, personal), once ESPN posts
-    the pre-game box (around 30 minutes before tip). Empty until then. ESPN's own "active" flag
-    means on court right now, so it isn't used. Columns: espn_id, player_name, team, starter, out."""
+    them. Tries the game box first, then the event roster in ESPN's core API (which can carry the
+    starters before the box fills in). ESPN's own "active" flag means on court right now, so it
+    isn't used. Empty until posted. Columns: espn_id, player_name, team, starter, out."""
     try:
         js = summary(game_id)
     except Exception:
@@ -361,5 +362,19 @@ def pregame_lineup(game_id: int) -> pd.DataFrame:
                 rows.append({"espn_id": int(ath.get("id", 0)), "player_name": ath.get("displayName", ""),
                              "team": team, "starter": bool(a.get("starter")),
                              "out": bool(a.get("didNotPlay")) and str(a.get("reason", "")).upper() != "COACH'S DECISION"})
+    if rows:
+        return pd.DataFrame(rows)
+    teams = {str(c["team"]["id"]): canonical_team(c["team"]["abbreviation"])
+             for c in js.get("header", {}).get("competitions", [{}])[0].get("competitors", [])}
+    for tid, team in teams.items():
+        try:
+            r = _get(f"{CORE}/events/{game_id}/competitions/{game_id}/competitors/{tid}/roster")
+        except Exception:
+            return pd.DataFrame()
+        for e in r.get("entries", []):
+            if e.get("starter") is None:
+                continue  # not posted yet
+            rows.append({"espn_id": int(e.get("playerId", 0)), "player_name": e.get("displayName", ""),
+                         "team": team, "starter": bool(e.get("starter")),
+                         "out": bool(e.get("didNotPlay")) and str(e.get("reason", "")).upper() != "COACH'S DECISION"})
     return pd.DataFrame(rows)
-
