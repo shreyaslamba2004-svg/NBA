@@ -160,11 +160,14 @@ def _game_extras(gid, ed: pd.DataFrame, sg: pd.DataFrame, matchup: str) -> str:
     return "\n\n".join(out)
 
 
-LINES: dict = {}  # (player_id, book) -> main points line, set by build()
+LINES: dict = {}  # (player_id, stat, book) -> main line, set by build()
+LINE_STATS = {"pts": "DK · SB", "reb": "DK", "ast": "DK", "fg3m": "DK"}  # Sportsbet is only bought for points
 
 
-def _pts_lines(pid) -> str:
-    dk, sb = LINES.get((pid, "draftkings")), LINES.get((pid, "sportsbet"))
+def _book_lines(pid, stat) -> str:
+    dk, sb = LINES.get((pid, stat, "draftkings")), LINES.get((pid, stat, "sportsbet"))
+    if stat != "pts":
+        return "" if dk is None else f"{dk:g}"
     if dk is None and sb is None:
         return ""
     return f"{'–' if dk is None else f'{dk:g}'} · {'–' if sb is None else f'{sb:g}'}"
@@ -177,11 +180,17 @@ def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = F
     rows = []
     for _, r in t.iterrows():
         name = r["player"] + (f" ({r['team']})" if show_team else "")
-        cells = [_f(r.get(f"proj_{s}"), 1) for s, _ in STATS]
-        cells.insert(1, _pts_lines(r["player_id"]))  # bookies' points lines next to the projection
+        cells = []
+        for s, _ in STATS:  # bookies' main line right after each projection that has one
+            cells.append(_f(r.get(f"proj_{s}"), 1))
+            if s in LINE_STATS:
+                cells.append(_book_lines(r["player_id"], s))
         rows.append([name, f"{int(round(100 * r['play_prob']))}%", _f(r["proj_min"], 1)] + cells)
-    heads = [lab for _, lab in STATS]
-    heads.insert(1, "Pts line DK · SB")
+    heads = []
+    for s, lab in STATS:
+        heads.append(lab)
+        if s in LINE_STATS:
+            heads.append(f"{lab} line {LINE_STATS[s]}")
     return _table(["Player", "Plays", "Min"] + heads, rows)
 
 
@@ -271,8 +280,7 @@ def build(day: date) -> Path | None:
     ln = _read(d, "lines")
     LINES.clear()
     if ln is not None and len(ln):
-        ln = ln[ln["market"] == "prop_pts"]
-        LINES.update({(r.player_id, r.book): float(r.line) for r in ln.itertuples()})
+        LINES.update({(r.player_id, r.market[5:], r.book): float(r.line) for r in ln.itertuples()})
     gen = "n/a"
     st = d / "state.json"
     if st.exists():
