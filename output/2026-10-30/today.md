@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 05:50 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 06:20 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -24,8 +24,8 @@ _No bets clear the edge threshold right now._
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
 | Leonard Miller 3pm under 1.5 **+** Paul George 1+ 3pm | CHI @ BOS | 60.9% | 1.64 | 1.72 | 1.55 | -5.4% |
+| MIN win **+** LaMelo Ball 2+ 3pm | LAC @ MIN | 57.7% | 1.73 | 1.82 | 1.64 | -5.6% |
 | BOS win **+** Josh Giddey 1+ 3pm | CHI @ BOS | 59.8% | 1.67 | 1.76 | 1.55 | -7.1% |
-| DET win **+** Cade Cunningham 1+ 3pm | DET @ BKN | 59.6% | 1.68 | 1.76 | 1.55 | -7.4% |
 
 **Price 1.65-1.85**
 
@@ -49,7 +49,7 @@ _No bets clear the edge threshold right now._
 |---|--:|--:|--:|--:|--:|--:|
 | Norman Powell 3pm under 2.5 **+** BOS win | CHI @ BOS | 44.7% | 2.24 | 2.35 | 2.28 | +1.9% |
 | Michael Porter Jr. 3pm under 3.5 **+** DET win | DET @ BKN | 43.5% | 2.30 | 2.41 | 2.27 | -1.2% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 3+ ast | NYK @ PHI | 39.3% | 2.54 | 2.67 | 2.47 | -2.8% |
+| Leonard Miller 3pm under 1.5 **+** Paul George 3pm under 3.5 | CHI @ BOS | 40.6% | 2.46 | 2.59 | 2.39 | -3.0% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -400,17 +400,17 @@ Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Karl-Anthony Towns AST over 3.5 | NYK @ PHI | draftkings | 2.23 | 1.84 | 54.4% | 41.9% | 45.0% | +0.4% | +21.4% | 0.1% |
-| OG Anunoby REB over 5.5 | NYK @ PHI | draftkings | 2.13 | 1.77 | 56.4% | 44.0% | 47.1% | +0.3% | +20.0% | 0.1% |
+| Karl-Anthony Towns AST over 3.5 | NYK @ PHI | draftkings | 2.26 | 1.84 | 54.4% | 41.6% | 44.8% | +1.3% | +23.0% | 0.3% |
+| OG Anunoby REB over 5.5 | NYK @ PHI | draftkings | 2.15 | 1.77 | 56.4% | 43.8% | 46.9% | +0.9% | +21.1% | 0.2% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
 | Karl-Anthony Towns 9+ reb **+** Mikal Bridges 6+ pts | 60.9% | 1.64 | 1.72 | 1.51 | -8.2% |
-| Karl-Anthony Towns 3+ ast **+** Tyrese Maxey 3+ ast | 51.7% | 1.94 | 2.03 | 1.82 | -5.9% |
-| Karl-Anthony Towns 3+ ast **+** OG Anunoby 4+ reb | 48.1% | 2.08 | 2.18 | 1.99 | -4.4% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 3+ ast | 39.3% | 2.54 | 2.67 | 2.47 | -2.8% |
+| Karl-Anthony Towns 3+ ast **+** Tyrese Maxey 3+ ast | 51.3% | 1.95 | 2.05 | 1.84 | -5.7% |
+| Karl-Anthony Towns 3+ ast **+** OG Anunoby 4+ reb | 47.4% | 2.11 | 2.21 | 2.03 | -3.9% |
+| Jalen Brunson 3+ reb **+** OG Anunoby 4+ reb | 41.0% | 2.44 | 2.56 | 2.36 | -3.4% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -610,10 +610,10 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven Adams (HOU), Reed Sh
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Fred VanVleet 2+ 3pm **+** Jabari Smith Jr. 1+ 3pm | 56.7% | 1.76 | 1.85 | 1.59 | -9.9% |
-| Kevin Durant 2+ 3pm **+** Jabari Smith Jr. 1+ 3pm | 51.9% | 1.93 | 2.02 | 1.74 | -9.4% |
-| game over 227.5 **+** Fred VanVleet 1+ 3pm | 44.1% | 2.27 | 2.38 | 2.08 | -8.1% |
-| HOU win **+** Fred VanVleet 2+ 3pm | 42.7% | 2.34 | 2.46 | 2.24 | -4.5% |
+| Fred VanVleet 2+ 3pm **+** Jabari Smith Jr. 1+ 3pm | 56.8% | 1.76 | 1.85 | 1.58 | -10.0% |
+| HOU win **+** Jabari Smith Jr. 1+ 3pm | 55.5% | 1.80 | 1.89 | 1.67 | -7.5% |
+| Kyrie Irving 3pm under 2.5 **+** Fred VanVleet 1+ 3pm | 44.8% | 2.23 | 2.34 | 2.08 | -6.6% |
+| HOU win **+** Cooper Flagg 3pm under 1.5 | 39.6% | 2.53 | 2.65 | 2.41 | -4.6% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -773,6 +773,15 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Steven Adams (HOU), Reed Sh
 
 ### LAC @ MIN
 Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Bradley Beal (LAC), Brandon Ingram (LAC), Max Strus (LAC)
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| MIN win **+** LaMelo Ball 2+ 3pm | 57.7% | 1.73 | 1.82 | 1.64 | -5.6% |
+| MIN win **+** Ayo Dosunmu 1+ 3pm | 55.0% | 1.82 | 1.91 | 1.72 | -5.5% |
+| MIN win **+** Ayo Dosunmu 1+ 3pm **+** LaMelo Ball 2+ 3pm | 45.5% | 2.20 | 2.31 | 1.99 | -9.4% |
+| MIN win **+** Jaden McDaniels 2+ 3pm | 37.7% | 2.65 | 2.78 | 2.48 | -6.5% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
