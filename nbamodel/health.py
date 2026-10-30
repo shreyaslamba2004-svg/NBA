@@ -212,35 +212,46 @@ def build(today: date | None = None) -> str:
               "worse on new games than it did in testing (overfitting or something broke).")
     # bets
     md.append("## Best bets (EV ≥ 5%, odds ≤ 4)")
-    md.append("Every bet that showed in TODAY.md's main best-bets table at any point in the day, graded at the "
-              "first price it showed at (the sheet changes through the day, so this is more than the final "
-              "pre-tip list).")
+    md.append("**Main record: the final list.** The bets still in TODAY.md's best-bets table on the last update "
+              "before each game's tip (after lineups and injury news), graded at the price shown then.")
     try:
         g = monitor.graded_offers()
-        bb = g.dropna(subset=["taken_price"]) if len(g) else g
-        if len(bb):  # what the sheet's main table lists: no news flags, offered, one row per bet (best price)
-            bb = bb[(bb["check_news"].astype(str).str.lower() != "true")
-                    & (bb["depends_on"].fillna("").astype(str) == "")
-                    & (bb["offered"].astype(str).str.lower() != "false")]
-            bb = (bb.sort_values("taken_price", ascending=False)
-                  .drop_duplicates(["game_id", "market", "selection", "player", "line"]))
     except Exception as e:  # never let grading of bets block the page
         print("bet grading failed:", e)
-        bb = pd.DataFrame()
-    if len(bb):
-        bb = bb.assign(day=pd.to_datetime(bb["snap"].str[:10]),
-                       profit=np.where(bb["won"] == 1, bb["taken_price"] - 1, -1.0),
-                       clv=bb["market_novig_prob"] * bb["taken_price"] - 1)
+        g = pd.DataFrame()
+
+    def sheet(x, price_col):  # what the sheet's main table lists: no news flags, offered, one row per bet (best price)
+        x = x[(x["check_news"].astype(str).str.lower() != "true")
+              & (x["depends_on"].fillna("").astype(str) == "")
+              & (x["offered"].astype(str).str.lower() != "false")]
+        return (x.sort_values(price_col, ascending=False)
+                .drop_duplicates(["game_id", "market", "selection", "player", "line"]))
+
+    def record(x, price_col, clv=True):
+        x = x.assign(day=pd.to_datetime(x["snap"].str[:10]),
+                     profit=np.where(x["won"] == 1, x[price_col] - 1, -1.0),
+                     clv=x["market_novig_prob"] * x[price_col] - 1)
         rows = []
         for label, dd in (("Last 7 days", 7), ("Last 30 days", 30), ("Season", 400)):
-            x = bb[bb["day"] > pd.Timestamp(today) - pd.Timedelta(days=dd)]
-            if len(x):
-                rows.append({"window": label, "bets": len(x), "won": int(x["won"].sum()),
-                             "profit (units)": round(float(x["profit"].sum()), 2),
-                             "ROI %": round(100 * float(x["profit"].mean()), 1),
-                             "avg CLV %": round(100 * float(x["clv"].mean()), 1),
-                             "beat closing %": round(100 * float((x["clv"] > 0).mean()), 1)})
-        md.append(pd.DataFrame(rows).to_markdown(index=False))
+            w = x[x["day"] > pd.Timestamp(today) - pd.Timedelta(days=dd)]
+            if len(w):
+                r = {"window": label, "bets": len(w), "won": int(w["won"].sum()),
+                     "profit (units)": round(float(w["profit"].sum()), 2),
+                     "ROI %": round(100 * float(w["profit"].mean()), 1)}
+                if clv:
+                    r.update({"avg CLV %": round(100 * float(w["clv"].mean()), 1),
+                              "beat closing %": round(100 * float((w["clv"] > 0).mean()), 1)})
+                rows.append(r)
+        return pd.DataFrame(rows).to_markdown(index=False)
+
+    fin = sheet(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS)],
+                "price_decimal") if len(g) else g
+    md.append(record(fin, "price_decimal", clv=False) if len(fin) else "_No graded final-list bets yet._")
+    md.append("**Any time in the day (secondary).** Every bet that showed in the table at any point, graded at "
+              "the first price it showed at. Bets that dropped off before tip (news, price moves) count here.")
+    anyt = sheet(g.dropna(subset=["taken_price"]), "taken_price") if len(g) else g
+    if len(anyt):
+        md.append(record(anyt, "taken_price"))
         md.append("CLV (closing-line value) compares the price taken with the final no-vig market price before tip. "
                   "Positive CLV over a few hundred bets is the earliest reliable sign of a real edge; ROI swings "
                   "for months.")

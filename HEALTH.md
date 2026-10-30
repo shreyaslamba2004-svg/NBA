@@ -21,7 +21,15 @@ Live should sit near the backtest line. Well below it for weeks means the model 
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
 
-Every bet that showed in TODAY.md's main best-bets table at any point in the day, graded at the first price it showed at (the sheet changes through the day, so this is more than the final pre-tip list).
+**Main record: the final list.** The bets still in TODAY.md's best-bets table on the last update before each game's tip (after lineups and injury news), graded at the price shown then.
+
+| window       |   bets |   won |   profit (units) |   ROI % |
+|:-------------|-------:|------:|-----------------:|--------:|
+| Last 7 days  |      7 |     4 |             3.95 |    56.4 |
+| Last 30 days |      7 |     4 |             3.95 |    56.4 |
+| Season       |      7 |     4 |             3.95 |    56.4 |
+
+**Any time in the day (secondary).** Every bet that showed in the table at any point, graded at the first price it showed at. Bets that dropped off before tip (news, price moves) count here.
 
 | window       |   bets |   won |   profit (units) |   ROI % |   avg CLV % |   beat closing % |
 |:-------------|-------:|------:|-----------------:|--------:|------------:|-----------------:|
