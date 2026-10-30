@@ -1,0 +1,13 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401909278,CHI @ BOS,moneyline,CHI,,,,ladbrokes_au,675.0,7.75,0.187,5.35,0.1233,0.1417,0.0453,4.65,0.4495,0.1417,0.0985,0.0036,False,True,True,,,
+401909278,CHI @ BOS,moneyline,CHI,,,,neds,675.0,7.75,0.187,5.35,0.1233,0.1417,0.0453,4.65,0.4495,0.1417,0.0985,0.0036,False,True,True,,,
+401909283,HOU @ DAL,moneyline,DAL,,,,sportsbet,181.0,2.81,0.3678,2.72,0.342,0.3653,0.0025,4.04,0.0334,0.3653,0.0264,0.0036,False,True,True,Alperen Sengun,0.3942,0.3402
+401909283,HOU @ DAL,moneyline,DAL,,,,draftkings,180.0,2.8,0.3678,2.72,0.3425,0.3653,0.0025,4.27,0.0297,0.3653,0.0227,0.0032,False,True,True,Alperen Sengun,0.3942,0.3402
+401909282,IND @ MIA,moneyline,IND,,,,sportsbet,235.0,3.35,0.2576,3.88,0.2872,0.3039,-0.0463,3.94,-0.137,0.3039,0.0182,0.0019,False,True,True,,,
+401909284,LAC @ MIN,moneyline,LAC,,,,sportsbet,237.0,3.37,0.4734,2.11,0.2845,0.2982,0.1752,4.29,0.5955,0.2982,0.0049,0.0005,True,True,True,,,
+401909282,IND @ MIA,moneyline,IND,,,,neds,230.0,3.3,0.2576,3.88,0.2873,0.3039,-0.0463,5.49,-0.1499,0.3039,0.003,0.0003,False,True,True,,,
+401909282,IND @ MIA,moneyline,IND,,,,ladbrokes_au,230.0,3.3,0.2576,3.88,0.2873,0.3039,-0.0463,5.49,-0.1499,0.3039,0.003,0.0003,False,True,True,,,
+401909279,DET @ BKN,moneyline,BKN,,,,draftkings,230.0,3.3,0.2009,4.98,0.2905,0.3032,-0.1024,4.33,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
+401909279,DET @ BKN,moneyline,BKN,,,,neds,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
+401909279,DET @ BKN,moneyline,BKN,,,,betr_au,230.0,3.3,0.2009,4.98,0.2903,0.3032,-0.1024,4.4,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
+401909279,DET @ BKN,moneyline,BKN,,,,ladbrokes_au,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
