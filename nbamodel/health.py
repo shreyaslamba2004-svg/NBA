@@ -244,9 +244,23 @@ def build(today: date | None = None) -> str:
                 rows.append(r)
         return pd.DataFrame(rows).to_markdown(index=False)
 
+    def bet_list(x, title):  # every graded bet, newest first, so the totals can be checked by hand
+        from .dashboard import _bet_label, _stake
+        x = x.assign(date=x["_file"].astype(str).str[:10]).sort_values(["date", "ev_blend"], ascending=[False, False])
+        rows = [{"date (US)": r["date"], "bet": _bet_label(r), "game": r["matchup"], "book": r["book"],
+                 "odds": round(float(r["price_decimal"]), 2), "EV": f"{100 * float(r['ev_blend']):+.1f}%",
+                 "sheet stake": _stake(r["kelly_25"]), "result": "won" if r["won"] == 1 else "lost",
+                 "units (1 flat)": round(float(r["price_decimal"]) - 1 if r["won"] == 1 else -1.0, 2)}
+                for _, r in x.head(100).iterrows()]
+        return (f"<details><summary>{title} ({len(x)})</summary>\n\n"
+                + pd.DataFrame(rows).to_markdown(index=False) + "\n\n</details>")
+
+    md.append("Units assume a flat 1-unit stake on every bet so results compare cleanly; the sheet's suggested "
+              "stake (quarter-Kelly, capped) is shown per bet in the lists.")
     fin = sheet(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS)],
                 "price_decimal") if len(g) else g
-    md.append(record(fin, "price_decimal", clv=False) if len(fin) else "_No graded final-list bets yet._")
+    md.append(record(fin, "price_decimal", clv=False) + "\n\n" + bet_list(fin, "Every final-list bet")
+              if len(fin) else "_No graded final-list bets yet._")
     md.append("**Any time in the day (secondary).** Every bet that showed in the table at any point, graded at "
               "the first price it showed at. Bets that dropped off before tip (news, price moves) count here.")
     anyt = sheet(g.dropna(subset=["taken_price"]), "taken_price") if len(g) else g
@@ -275,7 +289,8 @@ def build(today: date | None = None) -> str:
         pp = pp[(main == "true") & (pp["ev_blend"] > 0) & (pp["price_decimal"] <= monitor.BEST_MAX_ODDS)]
         pp = sheet(pp, "price_decimal")
         pp = pp.sort_values("ev_blend", ascending=False).groupby("game_id").head(3)
-    md.append(record(pp, "price_decimal", clv=False) if len(pp) else "_No graded game props yet._")
+    md.append(record(pp, "price_decimal", clv=False) + "\n\n" + bet_list(pp, "Every graded game prop")
+              if len(pp) else "_No graded game props yet._")
     # multis
     md.append("## Multis (top 3 per price band)")
     if "sgm_n" in df and df["sgm_n"].fillna(0).sum() > 0:

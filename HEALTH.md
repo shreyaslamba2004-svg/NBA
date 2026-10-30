@@ -23,11 +23,27 @@ Live should sit near the backtest line. Well below it for weeks means the model 
 
 **Main record: the final list.** The bets still in TODAY.md's best-bets table on the last update before each game's tip (after lineups and injury news), graded at the price shown then.
 
+Units assume a flat 1-unit stake on every bet so results compare cleanly; the sheet's suggested stake (quarter-Kelly, capped) is shown per bet in the lists.
+
 | window       |   bets |   won |   profit (units) |   ROI % |
 |:-------------|-------:|------:|-----------------:|--------:|
 | Last 7 days  |      7 |     4 |             3.95 |    56.4 |
 | Last 30 days |      7 |     4 |             3.95 |    56.4 |
 | Season       |      7 |     4 |             3.95 |    56.4 |
+
+<details><summary>Every final-list bet (7)</summary>
+
+| date (US)   | bet                             | game      | book       |   odds | EV    | sheet stake   | result   |   units (1 flat) |
+|:------------|:--------------------------------|:----------|:-----------|-------:|:------|:--------------|:---------|-----------------:|
+| 2026-10-29  | Kingston Flemings PTS under 8.5 | CLE @ ATL | tab        |   2    | +8.5% | 2.0%          | won      |             1    |
+| 2026-10-29  | Damian Lillard AST over 5.5     | MEM @ POR | draftkings |   3.87 | +6.4% | 0.6%          | lost     |            -1    |
+| 2026-10-29  | Ja Morant AST over 7.5          | MEM @ POR | draftkings |   3.25 | +5.4% | 0.6%          | lost     |            -1    |
+| 2026-10-28  | Darius Garland PTS over 29.5    | LAL @ LAC | draftkings |   3.67 | +5.8% | 0.5%          | lost     |            -1    |
+| 2026-10-28  | Jarace Walker REB over 6.5      | PHI @ IND | draftkings |   3.43 | +5.8% | 0.6%          | won      |             2.43 |
+| 2026-10-28  | IND +5.5                        | PHI @ IND | unibet     |   1.95 | +5.4% | 1.4%          | won      |             0.95 |
+| 2026-10-28  | Pascal Siakam PRA over 39.5     | PHI @ IND | draftkings |   3.57 | +5.0% | 0.5%          | won      |             2.57 |
+
+</details>
 
 **Any time in the day (secondary).** Every bet that showed in the table at any point, graded at the first price it showed at. Bets that dropped off before tip (news, price moves) count here.
 
@@ -48,6 +64,28 @@ The "Best player props" box in each game's section of TODAY.md: up to 3 main-lin
 | Last 7 days  |     15 |     5 |            -5.42 |   -36.1 |
 | Last 30 days |     15 |     5 |            -5.42 |   -36.1 |
 | Season       |     15 |     5 |            -5.42 |   -36.1 |
+
+<details><summary>Every graded game prop (15)</summary>
+
+| date (US)   | bet                              | game      | book       |   odds | EV    | sheet stake   | result   |   units (1 flat) |
+|:------------|:---------------------------------|:----------|:-----------|-------:|:------|:--------------|:---------|-----------------:|
+| 2026-10-29  | Kingston Flemings PTS under 8.5  | CLE @ ATL | tab        |   2    | +8.5% | 2.0%          | won      |             1    |
+| 2026-10-29  | Cedric Coward PTS under 12.5     | MEM @ POR | draftkings |   1.94 | +4.4% | 1.1%          | lost     |            -1    |
+| 2026-10-29  | Jalen Johnson PTS under 22.5     | CLE @ ATL | unibet     |   1.91 | +3.2% | 0.9%          | won      |             0.91 |
+| 2026-10-29  | Sam Merrill PTS under 8.5        | CLE @ ATL | tab        |   1.95 | +2.9% | 0.8%          | lost     |            -1    |
+| 2026-10-29  | Ty Jerome PTS under 23.5         | MEM @ POR | tab        |   1.95 | +2.6% | 0.7%          | won      |             0.95 |
+| 2026-10-29  | Jrue Holiday PTS over 12.5       | MEM @ POR | tab        |   1.95 | +2.5% | 0.7%          | lost     |            -1    |
+| 2026-10-29  | Derik Queen PTS over 11.5        | SAC @ NOP | sportsbet  |   1.92 | +2.4% | 0.7%          | lost     |            -1    |
+| 2026-10-29  | Derik Queen REB over 7.5         | SAC @ NOP | draftkings |   1.92 | +0.3% | 0.1%          | lost     |            -1    |
+| 2026-10-29  | Darius Acuff Jr. PA under 28.5   | SAC @ NOP | draftkings |   1.81 | +0.2% | 0.1%          | lost     |            -1    |
+| 2026-10-28  | Karl-Anthony Towns RA under 16.5 | NYK @ CHI | draftkings |   1.94 | +0.5% | 0.1%          | lost     |            -1    |
+| 2026-10-28  | Kel'el Ware PR under 17.5        | HOU @ MIL | draftkings |   1.86 | +0.4% | 0.1%          | won      |             0.86 |
+| 2026-10-28  | Daniss Jenkins RA over 6.5       | CHA @ DET | draftkings |   1.96 | +0.3% | 0.1%          | lost     |            -1    |
+| 2026-10-28  | Dejounte Murray PTS under 17.5   | DEN @ NOP | draftkings |   1.86 | +0.2% | 0.1%          | won      |             0.86 |
+| 2026-10-28  | Wendell Carter Jr. PTS over 10.5 | ORL @ TOR | draftkings |   1.84 | +0.1% | 0.0%          | lost     |            -1    |
+| 2026-10-28  | Aaron Gordon 3PM under 1.5       | DEN @ NOP | draftkings |   2.08 | +0.1% | 0.0%          | lost     |            -1    |
+
+</details>
 
 ## Multis (top 3 per price band)
 
