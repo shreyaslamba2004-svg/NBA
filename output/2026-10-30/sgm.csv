@@ -33,18 +33,18 @@ DET @ BKN,Cade Cunningham ast under 9.5 + Paul Reed 4+ reb,2,0.6101,0.5062,1.98,
 DET @ BKN,Julius Randle 4+ reb + Ausar Thompson 1+ stl + Michael Porter Jr. 4+ reb,3,0.677,0.5626,1.78,1.87,1.56,-0.1243,1.006,1.50-1.65
 DET @ BKN,Julius Randle 4+ reb + Ausar Thompson 1+ stl + Cade Cunningham 1+ 3pm,3,0.6795,0.559,1.79,1.88,1.56,-0.1263,1.0,1.50-1.65
 DET @ BKN,Julius Randle 4+ reb + Ausar Thompson 1+ stl + Paul Reed 15+ pr,3,0.6865,0.573,1.75,1.83,1.52,-0.1301,1.0,1.50-1.65
-NYK @ PHI,Kentavious Caldwell-Pope 3pm under 1.5 + OG Anunoby 4+ reb,2,0.5895,0.4579,2.18,2.29,2.1,-0.0386,1.004,1.85-2.10
-NYK @ PHI,Anfernee Simons 3pm under 2.5 + OG Anunoby 4+ reb,2,0.5725,0.4416,2.26,2.38,2.17,-0.041,0.998,2.10-2.50
-NYK @ PHI,OG Anunoby 6+ reb + Landry Shamet 5+ pra,2,0.5454,0.4318,2.32,2.43,2.21,-0.0478,0.998,2.10-2.50
-NYK @ PHI,Anfernee Simons 3pm under 2.5 + Josh Hart 1+ 3pm,2,0.559,0.4508,2.22,2.33,2.11,-0.0505,1.005,2.10-2.50
-NYK @ PHI,Anfernee Simons 3pm under 2.5 + Landry Shamet 5+ pra,2,0.6669,0.5308,1.88,1.98,1.79,-0.0518,0.999,1.65-1.85
-NYK @ PHI,Joel Embiid 4+ ast + OG Anunoby 4+ reb,2,0.5752,0.4638,2.16,2.26,2.04,-0.0525,1.004,1.85-2.10
-NYK @ PHI,Kentavious Caldwell-Pope 3pm under 1.5 + Landry Shamet 5+ pra,2,0.6835,0.5479,1.83,1.92,1.73,-0.0538,1.0,1.65-1.85
-NYK @ PHI,Kentavious Caldwell-Pope 3pm under 1.5 + Josh Hart 1+ 3pm,2,0.5711,0.4638,2.16,2.26,2.04,-0.0556,1.003,1.85-2.10
-NYK @ PHI,Anfernee Simons 3pm under 2.5 + OG Anunoby 15+ pra,2,0.645,0.5188,1.93,2.02,1.82,-0.0564,0.998,1.65-1.85
-NYK @ PHI,OG Anunoby 4+ reb + Josh Hart 1+ 3pm,2,0.6722,0.5737,1.74,1.83,1.61,-0.0756,1.001,1.50-1.65
-NYK @ PHI,OG Anunoby 4+ reb + Josh Hart 4+ reb + Landry Shamet 1+ 3pm,3,0.6674,0.547,1.83,1.92,1.61,-0.1219,1.003,1.50-1.65
-NYK @ PHI,OG Anunoby 4+ reb + Landry Shamet 1+ 3pm + Joel Embiid 4+ reb,3,0.6748,0.5582,1.79,1.88,1.57,-0.1255,1.002,1.50-1.65
+NYK @ PHI,Josh Hart blk under 0.5 + OG Anunoby 4+ reb,2,0.6123,0.4313,2.32,2.43,2.31,-0.0028,0.998,2.10-2.50
+NYK @ PHI,Josh Hart blk under 0.5 + Landry Shamet 5+ pa,2,0.6823,0.4853,2.06,2.16,2.05,-0.0034,1.0,1.85-2.10
+NYK @ PHI,Josh Hart blk under 0.5 + Landry Shamet 5+ pr,2,0.6923,0.4929,2.03,2.13,2.02,-0.0055,0.999,1.85-2.10
+NYK @ PHI,Josh Hart blk under 0.5 + Kentavious Caldwell-Pope 5+ pr,2,0.6783,0.4941,2.02,2.13,2.0,-0.0119,1.001,1.85-2.10
+NYK @ PHI,Josh Hart blk under 0.5 + Landry Shamet 5+ pa + Kentavious Caldwell-Pope 5+ pr,3,0.628,0.4173,2.4,2.52,2.29,-0.0446,1.002,2.10-2.50
+NYK @ PHI,Josh Hart blk under 0.5 + Landry Shamet 5+ pa + OG Anunoby 15+ pra,3,0.6418,0.4304,2.32,2.44,2.21,-0.047,1.003,2.10-2.50
+NYK @ PHI,Kentavious Caldwell-Pope 3pm under 1.5 + Landry Shamet 5+ pa,2,0.6527,0.5298,1.89,1.98,1.78,-0.0583,1.0,1.65-1.85
+NYK @ PHI,Kentavious Caldwell-Pope 3pm under 1.5 + Landry Shamet 5+ pr,2,0.6622,0.538,1.86,1.95,1.75,-0.0604,0.999,1.65-1.85
+NYK @ PHI,Joel Embiid 4+ ast + Landry Shamet 5+ pa,2,0.6379,0.5241,1.91,2.0,1.79,-0.061,1.002,1.65-1.85
+NYK @ PHI,Kentavious Caldwell-Pope 3pm under 1.5 + Josh Hart 4+ reb,2,0.6651,0.5627,1.78,1.87,1.65,-0.0718,1.001,1.50-1.65
+NYK @ PHI,Kentavious Caldwell-Pope 3pm under 1.5 + OG Anunoby 10+ pa,2,0.666,0.5663,1.77,1.85,1.63,-0.0745,1.0,1.50-1.65
+NYK @ PHI,Joel Embiid 4+ ast + Kentavious Caldwell-Pope 5+ pra,2,0.6627,0.5683,1.76,1.85,1.63,-0.0751,1.003,1.50-1.65
 ORL @ TOR,Tristan da Silva 3pm under 2.5 + Scottie Barnes 3pm under 1.5,2,0.5755,0.4093,2.44,2.57,2.43,-0.0067,0.999,2.10-2.50
 ORL @ TOR,Franz Wagner ast under 6.5 + Scottie Barnes 3pm under 1.5,2,0.5264,0.3929,2.55,2.67,2.49,-0.0216,1.005,2.10-2.50
 ORL @ TOR,Tristan da Silva 3pm under 2.5 + RJ Barrett 4+ reb,2,0.6501,0.4854,2.06,2.16,2.01,-0.0258,0.997,1.85-2.10
@@ -57,18 +57,18 @@ ORL @ TOR,Franz Wagner ra under 12.5 + RJ Barrett 4+ reb,2,0.544,0.427,2.34,2.46
 ORL @ TOR,Scottie Barnes 3pm under 1.5 + Jamal Shead 5+ pr,2,0.668,0.5745,1.74,1.83,1.6,-0.0793,0.999,1.50-1.65
 ORL @ TOR,Scottie Barnes 3pm under 1.5 + Desmond Bane 10+ pts,2,0.6905,0.5953,1.68,1.76,1.55,-0.0794,1.0,1.50-1.65
 ORL @ TOR,Scottie Barnes 3pm under 1.5 + Wendell Carter Jr. 10+ pr,2,0.7034,0.6024,1.66,1.74,1.53,-0.08,0.997,1.50-1.65
-IND @ MIA,Bam Adebayo 32+ pra + MIA win,2,0.4662,0.4071,2.46,2.58,2.44,-0.0056,1.033,2.10-2.50
-IND @ MIA,MIA win + Davion Mitchell 14+ pr,2,0.478,0.4125,2.42,2.55,2.4,-0.0108,1.03,2.10-2.50
+IND @ MIA,MIA win + Bam Adebayo 32+ pra,2,0.4662,0.4055,2.47,2.59,2.44,-0.0097,1.033,2.10-2.50
 IND @ MIA,Tim Hardaway Jr. 3pm under 1.5 + Pascal Siakam 1+ 3pm,2,0.5462,0.4052,2.47,2.59,2.4,-0.0255,0.998,2.10-2.50
+IND @ MIA,Tim Hardaway Jr. 3pm under 1.5 + Davion Mitchell 10+ pr,2,0.5574,0.4133,2.42,2.54,2.35,-0.0274,0.995,2.10-2.50
 IND @ MIA,Tim Hardaway Jr. 3pm under 1.5 + Pelle Larsson 10+ pra,2,0.6217,0.4766,2.1,2.2,2.02,-0.0365,0.998,1.85-2.10
-IND @ MIA,Tim Hardaway Jr. 3pm under 1.5 + Giannis Antetokounmpo 6+ reb,2,0.6243,0.4867,2.05,2.16,1.97,-0.041,1.0,1.85-2.10
-IND @ MIA,Tim Hardaway Jr. 3pm under 1.5 + Bam Adebayo 6+ reb,2,0.596,0.4656,2.15,2.26,2.06,-0.0417,1.0,1.85-2.10
+IND @ MIA,MIA win + Davion Mitchell 10+ pr,2,0.6564,0.5844,1.71,1.8,1.64,-0.0404,1.012,1.50-1.65
+IND @ MIA,Tim Hardaway Jr. 3pm under 1.5 + Giannis Antetokounmpo 6+ reb,2,0.6243,0.4863,2.06,2.16,1.97,-0.0407,1.0,1.85-2.10
+IND @ MIA,Tim Hardaway Jr. 3pm under 1.5 + Bam Adebayo 6+ reb,2,0.596,0.4644,2.15,2.26,2.07,-0.0408,1.0,1.85-2.10
 IND @ MIA,MIA win + Pelle Larsson 10+ pa,2,0.6647,0.6068,1.65,1.73,1.57,-0.0485,1.012,1.50-1.65
 IND @ MIA,MIA win + Pelle Larsson 10+ pr,2,0.6664,0.606,1.65,1.73,1.57,-0.0515,1.008,1.50-1.65
 IND @ MIA,MIA win + Pascal Siakam 1+ 3pm,2,0.6312,0.5622,1.78,1.87,1.68,-0.0564,0.995,1.65-1.85
-IND @ MIA,MIA win + Giannis Antetokounmpo 8+ reb,2,0.6612,0.621,1.61,1.69,1.51,-0.0653,1.005,1.50-1.65
-IND @ MIA,MIA win + Pelle Larsson 10+ pa + Bam Adebayo 15+ pa,3,0.5979,0.5213,1.92,2.01,1.76,-0.0805,1.031,1.65-1.85
-IND @ MIA,MIA win + Pelle Larsson 10+ pr + Bam Adebayo 15+ pa,3,0.5985,0.5199,1.92,2.02,1.76,-0.0847,1.024,1.65-1.85
+IND @ MIA,MIA win + Davion Mitchell 10+ pr + Bam Adebayo 15+ pa,3,0.5887,0.5006,2.0,2.1,1.85,-0.0753,1.027,1.65-1.85
+IND @ MIA,MIA win + Davion Mitchell 10+ pr + Pelle Larsson 10+ pra,3,0.6323,0.5289,1.89,1.99,1.74,-0.0804,1.015,1.65-1.85
 HOU @ DAL,Kevin Durant 4+ ast + HOU win,2,0.4754,0.4212,2.37,2.49,2.42,0.0183,1.021,2.10-2.50
 HOU @ DAL,Kevin Durant 4+ ast + Fred VanVleet 10+ pts,2,0.5781,0.4112,2.43,2.55,2.44,0.0032,1.006,2.10-2.50
 HOU @ DAL,HOU win + Fred VanVleet 10+ pts,2,0.4881,0.4565,2.19,2.3,2.18,-0.0051,1.025,2.10-2.50
@@ -90,17 +90,17 @@ LAC @ MIN,LaMelo Ball pra under 33.5 + Kris Dunn 5+ pa,2,0.6492,0.5019,1.99,2.09
 LAC @ MIN,Darius Garland ast under 7.5 + Kris Dunn 5+ pa,2,0.6568,0.5268,1.9,1.99,1.8,-0.0515,0.999,1.65-1.85
 LAC @ MIN,Darius Garland ra under 10.5 + LaMelo Ball 10+ pts,2,0.6344,0.5172,1.93,2.03,1.83,-0.0546,1.0,1.65-1.85
 LAC @ MIN,Darius Garland ra under 10.5 + Kris Dunn 5+ pa,2,0.664,0.5421,1.84,1.94,1.74,-0.0563,0.999,1.65-1.85
-LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 1+ 3pm,2,0.6375,0.4669,2.14,2.25,2.13,-0.0043,1.008,2.10-2.50
-LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 4+ reb,2,0.7148,0.5155,1.94,2.04,1.93,-0.0063,1.0,1.85-2.10
-LAL @ GSW,Walker Kessler pts under 14.5 + Luka Doncic 1+ stl,2,0.6295,0.4605,2.17,2.28,2.15,-0.0112,1.001,2.10-2.50
-LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 10+ pts,2,0.7123,0.5192,1.93,2.02,1.9,-0.0113,0.999,1.85-2.10
-LAL @ GSW,Walker Kessler pts under 14.5 + Sandro Mamukelashvili 5+ pa,2,0.7054,0.5139,1.95,2.04,1.92,-0.0115,0.999,1.85-2.10
-LAL @ GSW,Walker Kessler pts under 14.5 + Quentin Grimes 10+ pra,2,0.6434,0.4673,2.14,2.25,2.11,-0.014,0.995,2.10-2.50
-LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 4+ reb,2,0.6656,0.5477,1.83,1.92,1.71,-0.0632,1.0,1.65-1.85
+LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 4+ reb,2,0.7148,0.5143,1.94,2.04,1.93,-0.0054,1.0,1.85-2.10
+LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 1+ 3pm,2,0.6375,0.4689,2.13,2.24,2.12,-0.0058,1.008,2.10-2.50
+LAL @ GSW,Walker Kessler pts under 14.5 + Luka Doncic 1+ stl,2,0.6295,0.459,2.18,2.29,2.16,-0.0101,1.001,2.10-2.50
+LAL @ GSW,Walker Kessler pra under 26.5 + Yaxel Lendeborg 4+ reb,2,0.6836,0.495,2.02,2.12,2.0,-0.0102,0.999,1.85-2.10
+LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 10+ pts,2,0.7123,0.5181,1.93,2.03,1.91,-0.0104,0.999,1.85-2.10
+LAL @ GSW,Walker Kessler pra under 26.5 + Yaxel Lendeborg 1+ 3pm,2,0.608,0.4501,2.22,2.33,2.19,-0.0131,1.004,2.10-2.50
+LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 4+ reb,2,0.6656,0.5464,1.83,1.92,1.72,-0.0623,1.0,1.65-1.85
 LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Al Horford 5+ pr,2,0.6101,0.5082,1.97,2.07,1.84,-0.0646,1.003,1.65-1.85
-LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 10+ pts,2,0.6642,0.5523,1.81,1.9,1.69,-0.0666,1.0,1.65-1.85
-LAL @ GSW,Quentin Grimes 10+ pra + Sandro Mamukelashvili 5+ pa + Luka Doncic 3+ 3pm,3,0.6346,0.5477,1.83,1.92,1.58,-0.1367,1.005,1.50-1.65
-LAL @ GSW,Yaxel Lendeborg 4+ reb + Luka Doncic 3+ 3pm + Al Horford 5+ pr,3,0.6462,0.5552,1.8,1.89,1.55,-0.1381,1.002,1.50-1.65
+LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 10+ pts,2,0.6642,0.5511,1.81,1.91,1.7,-0.0658,1.0,1.65-1.85
+LAL @ GSW,Yaxel Lendeborg 4+ reb + Luka Doncic 3+ 3pm + Al Horford 5+ pr,3,0.6462,0.5539,1.81,1.9,1.56,-0.1374,1.002,1.50-1.65
+LAL @ GSW,Sandro Mamukelashvili 5+ pa + Luka Doncic 3+ 3pm + Quentin Grimes 10+ pra,3,0.6346,0.5502,1.82,1.91,1.57,-0.1381,1.005,1.50-1.65
 LAL @ GSW,Sandro Mamukelashvili 5+ pa + Luka Doncic 3+ 3pm + Al Horford 5+ pr,3,0.6411,0.5563,1.8,1.89,1.55,-0.1382,1.005,1.50-1.65
 DEN @ PHX,Khaman Maluach pr under 16.5 + Dillon Brooks 15+ pr,2,0.6614,0.4419,2.26,2.38,2.31,0.0206,0.993,2.10-2.50
 DEN @ PHX,Khaman Maluach pr under 16.5 + Nikola Jokic 25+ pra,2,0.7821,0.536,1.87,1.96,1.9,0.0183,1.0,1.85-2.10
