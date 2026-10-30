@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHA @ WAS,Naz Reid pts under 17.5 + Kyshawn George 1+ 3pm,2,0.5478,0.422,2.37,2.49,2.41,0.0185,1.007,2.10-2.50
-CHA @ WAS,Naz Reid pts under 17.5 + Kyshawn George 10+ pa,2,0.5892,0.4519,2.21,2.32,2.24,0.0102,0.997,2.10-2.50
-CHA @ WAS,Naz Reid pts under 17.5 + Grayson Allen 10+ pts,2,0.5358,0.4081,2.45,2.57,2.47,0.0087,0.993,2.10-2.50
-CHA @ WAS,Naz Reid pts under 17.5 + Alex Sarr 5+ pa,2,0.6179,0.4839,2.07,2.17,2.07,0.0024,0.997,1.85-2.10
-CHA @ WAS,Naz Reid pts under 17.5 + Moussa Diabate 10+ pr,2,0.6082,0.4827,2.07,2.18,2.07,-0.0025,0.997,1.85-2.10
-CHA @ WAS,Trae Young pts under 19.5 + Alex Sarr 5+ pa,2,0.5498,0.4751,2.11,2.21,2.07,-0.016,1.0,1.85-2.10
-CHA @ WAS,Sion James 3pm under 1.5 + Grayson Allen 10+ pts,2,0.6967,0.5332,1.88,1.97,1.81,-0.0374,0.998,1.65-1.85
-CHA @ WAS,Sion James 3pm under 1.5 + Kyshawn George 10+ pa,2,0.7638,0.5886,1.7,1.78,1.63,-0.0391,0.998,1.50-1.65
-CHA @ WAS,Sion James 3pm under 1.5 + Kyshawn George 1+ 3pm,2,0.7038,0.5447,1.84,1.93,1.76,-0.0398,0.999,1.65-1.85
-CHA @ WAS,Sion James 3pm under 1.5 + Alex Sarr 5+ pa,2,0.8026,0.6315,1.58,1.66,1.51,-0.0445,1.0,1.50-1.65
-CHA @ WAS,Sion James 3pm under 1.5 + Moussa Diabate 10+ pr,2,0.7886,0.6287,1.59,1.67,1.51,-0.0509,0.998,1.50-1.65
-CHA @ WAS,Dennis Schroder 3pm under 1.5 + Kyshawn George 10+ pa,2,0.6627,0.5312,1.88,1.98,1.78,-0.055,0.998,1.65-1.85
 CHI @ BOS,Norman Powell pts under 19.5 + BOS win,2,0.5356,0.4837,2.07,2.17,2.21,0.0691,1.032,2.10-2.50
 CHI @ BOS,Norman Powell 3pm under 2.5 + BOS win,2,0.5258,0.4444,2.25,2.36,2.35,0.0458,1.02,2.10-2.50
 CHI @ BOS,Norman Powell pr under 23.5 + BOS win,2,0.5592,0.4875,2.05,2.15,2.14,0.0412,1.03,2.10-2.50
@@ -70,18 +58,18 @@ IND @ MIA,Jarace Walker 10+ pa + Pelle Larsson 10+ pr,2,0.7577,0.6022,1.66,1.74,
 IND @ MIA,Jarace Walker 10+ pa + Pascal Siakam 1+ 3pm,2,0.7218,0.5745,1.74,1.83,1.65,-0.0508,1.0,1.65-1.85
 IND @ MIA,Jarace Walker 15+ pra + Pascal Siakam 1+ 3pm,2,0.7251,0.5788,1.73,1.81,1.64,-0.0523,1.0,1.50-1.65
 IND @ MIA,Jarace Walker 10+ pa + Aaron Nesmith 1+ 3pm,2,0.7811,0.6303,1.59,1.67,1.5,-0.0525,1.004,1.50-1.65
-HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 20+ pra,2,0.6623,0.4314,2.32,2.43,2.42,0.0453,1.006,2.10-2.50
-HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.7223,0.4794,2.09,2.19,2.16,0.0341,1.002,2.10-2.50
-HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.7502,0.5119,1.95,2.05,2.01,0.0268,1.005,1.85-2.10
-HOU @ DAL,Kevin Durant 9+ ra + Jabari Smith Jr. 20+ pra,2,0.6825,0.4617,2.17,2.27,2.22,0.0246,1.005,2.10-2.50
-HOU @ DAL,Kevin Durant 4+ ast + Tari Eason 4+ reb,2,0.7059,0.487,2.05,2.16,2.09,0.0192,1.002,1.85-2.10
-HOU @ DAL,Kevin Durant 4+ ast + Fred VanVleet 1+ 3pm,2,0.7275,0.4983,2.01,2.11,2.04,0.0188,0.999,1.85-2.10
-HOU @ DAL,Kevin Durant 9+ ra + Jabari Smith Jr. 10+ pa,2,0.7731,0.5478,1.83,1.92,1.84,0.0065,1.004,1.65-1.85
-HOU @ DAL,Kevin Durant 9+ ra + P.J. Washington 10+ pr,2,0.7762,0.5607,1.78,1.87,1.78,-0.0028,1.002,1.65-1.85
-HOU @ DAL,HOU win + Jabari Smith Jr. 4+ reb,2,0.5439,0.5633,1.78,1.86,1.73,-0.0256,1.003,1.65-1.85
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 4+ reb,2,0.6667,0.4506,2.22,2.33,2.27,0.0246,1.002,2.10-2.50
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 15+ pra,2,0.7008,0.4817,2.08,2.18,2.12,0.0212,1.005,2.10-2.50
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 10+ pa,2,0.6929,0.4828,2.07,2.17,2.11,0.0168,1.005,2.10-2.50
+HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.7223,0.4987,2.01,2.11,2.03,0.0147,1.002,1.85-2.10
+HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.7581,0.5323,1.88,1.97,1.9,0.0097,1.003,1.85-2.10
+HOU @ DAL,Kevin Durant 10+ ra + Tari Eason 10+ pr,2,0.6997,0.4932,2.03,2.13,2.05,0.0095,1.002,1.85-2.10
+HOU @ DAL,Kevin Durant 4+ ast + Tari Eason 10+ pr,2,0.7581,0.5459,1.83,1.92,1.83,-0.0003,1.002,1.65-1.85
+HOU @ DAL,HOU win + Kevin Durant 20+ pr,2,0.552,0.5855,1.71,1.79,1.67,-0.0251,1.013,1.65-1.85
 HOU @ DAL,HOU win + Jabari Smith Jr. 10+ pa,2,0.5685,0.6055,1.65,1.73,1.61,-0.0263,1.013,1.50-1.65
+HOU @ DAL,HOU win + Jabari Smith Jr. 15+ pra,2,0.5725,0.6014,1.66,1.75,1.62,-0.0263,1.008,1.50-1.65
+HOU @ DAL,HOU win + Kevin Durant 1+ 3pm,2,0.531,0.562,1.78,1.87,1.72,-0.0333,1.003,1.65-1.85
 HOU @ DAL,HOU win + Fred VanVleet 1+ 3pm,2,0.5504,0.5883,1.7,1.78,1.64,-0.0355,1.005,1.50-1.65
-HOU @ DAL,HOU win + P.J. Washington 10+ pr,2,0.5618,0.6099,1.64,1.72,1.56,-0.0504,0.995,1.50-1.65
 LAC @ MIN,LaMelo Ball ra under 11.5 + Darius Garland 1+ 3pm,2,0.5971,0.4571,2.19,2.3,2.12,-0.0303,0.999,2.10-2.50
 LAC @ MIN,LaMelo Ball ra under 11.5 + Kris Dunn 5+ pa,2,0.6145,0.4709,2.12,2.23,2.06,-0.0305,0.999,1.85-2.10
 LAC @ MIN,LaMelo Ball ra under 11.5 + Isaiah Jackson 5+ pa,2,0.5566,0.4276,2.34,2.46,2.26,-0.0331,0.997,2.10-2.50
