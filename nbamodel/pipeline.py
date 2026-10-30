@@ -13,7 +13,7 @@ import pandas as pd
 from .dataset import DATA, build, load_history, mates_basis, read_store, write_store
 from .models import SIM_STATS, predict_team, Bundle, predict_minutes, predict_rates
 from . import rotation, edges as E
-from . import bookie, scenarios as SC, sgm
+from . import bookie, ladder, scenarios as SC, sgm
 from .simulate import expected_minutes, simulate_game, summarize_game, summarize_players
 from .sources import espn, live
 from .sources.live import SourceUnavailable, norm_name
@@ -280,7 +280,7 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
     tP.loc[tP["starting"] == 1, "rotation_prob"] = 1.0
     tP = _expected_mates(tP)
 
-    games_out, players_out, edges, sgms, sim_inputs = [], [], [], [], []
+    games_out, players_out, edges, sgms, sim_inputs, ladders = [], [], [], [], [], []
     for gr in tG.itertuples(index=False):
         Pg0, Gg0 = tP[tP["game_id"] == gr.game_id], tG[tG["game_id"] == gr.game_id]
         matchup = f"{gr.away} @ {gr.home}"
@@ -356,6 +356,7 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
             pp = props[props["game_id"] == gr.game_id]
             if len(pp):
                 offers.append(E.offers_from_props(pp))
+        ev = None
         if offers:
             allo = pd.concat(offers, ignore_index=True)
             for c in ("player_id", "line"):  # book feeds disagree on dtypes (None vs NaN ids)
@@ -383,6 +384,10 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
             if len(sg):
                 sg.insert(0, "matchup", matchup)
                 sgms.append(sg)
+        try:  # price-shopping ladder (LADDERS.md); never block the run over it
+            ladders.append(ladder.build(exp_sim, ev, base_gp, gr.game_id, f"{gr.away} @ {gr.home}"))
+        except Exception as e:
+            print(f"ladder skipped for {gr.away} @ {gr.home}: {e}")
         sim_inputs.append(base_gp.assign(game_mu_margin=base_game["mu_margin"], game_mu_total=base_game["mu_total"],
                                          game_home=gr.home, game_away=gr.away))
     games_df = pd.DataFrame(games_out)
@@ -394,6 +399,7 @@ def project(day: date, slate: pd.DataFrame, sp: pd.DataFrame, b: Bundle,
             "game_mu_total", "game_home", "game_away"] + [f"rate_{s}" for s in SIM_STATS]
     return {"games": games_df, "players": players_df, "edges": edges_df,
             "sgm": pd.concat(sgms, ignore_index=True) if sgms else pd.DataFrame(),
+            "ladder": pd.concat(ladders, ignore_index=True) if ladders else pd.DataFrame(),
             "sim_inputs": pd.concat(sim_inputs, ignore_index=True)[keep] if sim_inputs else pd.DataFrame()}
 
 

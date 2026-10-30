@@ -277,6 +277,41 @@ def sanity_md(d: Path) -> str:
         return section(None)
 
 
+LADDERS = ROOT / "LADDERS.md"
+LADDER_LAB = {"pts": "PTS", "reb": "REB", "ast": "AST", "fg3m": "3PM", "stl": "STL", "blk": "BLK", "pra": "PRA",
+              "pr": "PR", "pa": "PA", "ra": "RA"}
+
+
+def ladders_md(lad: pd.DataFrame | None, gen: str, day: date) -> str:
+    """Every nearby line per player and stat: blended chance and break-even (min) odds both ways."""
+    out = [f"# Line ladders · {day.strftime('%a %d %b %Y')} (US date)",
+           f"Updated **{gen}** Sydney time. Back to [TODAY.md](TODAY.md).",
+           "For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended "
+           "chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the "
+           "break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: "
+           "*book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for "
+           "a player are left out. Use the "
+           "[bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake."]
+    if lad is None or lad.empty:
+        out.append("_No ladders for this slate yet._")
+        return "\n\n".join(out) + "\n"
+    lad = lad[lad["market_source"] != "model only"]  # no market to blend with: not reliable enough to shop on
+    pct = lambda p: f"{100 * p:.0f}%"  # noqa: E731
+    odds = lambda p: f"{1 / p:.2f}" if p > 0.005 else "–"  # noqa: E731
+    for mu, g in lad.groupby("matchup", sort=False):
+        out.append(f"## {mu}")
+        for (team, pl), x in g.groupby(["team", "player"], sort=False):
+            rows = []
+            for r in x.itertuples():
+                pb = float(r.p_over_blend)
+                rows.append([LADDER_LAB.get(r.stat, r.stat), f"{r.line:g}" + (" ★" if r.main else ""),
+                             pct(pb), odds(pb), pct(1 - pb), odds(1 - pb), r.market_source])
+            out.append(f"<details><summary>{pl} ({team})</summary>\n\n" +
+                       _table(["Stat", "Line", "Over", "Min odds over", "Under", "Min odds under", "Market"], rows) +
+                       "\n\n</details>")
+    return "\n\n".join(out) + "\n"
+
+
 def build(day: date) -> Path | None:
     d = OUT / day.isoformat()
     if not d.exists():
@@ -304,7 +339,7 @@ def build(day: date) -> Path | None:
              f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
              "(the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. "
-             "Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).",
+             "Lines a point or two off DraftKings': [LADDERS.md](LADDERS.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).",
              "## Sanity checks", sanity_md(d),
              f"## Best bets (EV ≥ {MIN_EV:.0%}, odds ≤ {MAX_ODDS:g})",
              "DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 "
@@ -336,6 +371,10 @@ def build(day: date) -> Path | None:
               games_md(g, ps, ed),
               "---\n_Model projections, not advice. Edges are against the best price found at run time. "
               f"Full data: `output/{day.isoformat()}/`._"]
+    try:
+        LADDERS.write_text(ladders_md(_read(d, "ladder"), gen, day))
+    except Exception as e:  # never let the ladder page block the sheet
+        print("ladders skipped:", e)
     md = "\n\n".join(parts) + "\n"
     (d / "today.md").write_text(md)
     TODAY.write_text(md)
