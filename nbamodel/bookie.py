@@ -33,7 +33,8 @@ def offered(offers: pd.DataFrame, gp: pd.DataFrame) -> pd.Series:
     for stat in mk:
         parts = COMBOS.get(stat, [stat])
         if all(f"rate_{p}" in gp for p in parts):
-            v = sum(gp[f"rate_{p}"] for p in parts) * gp["pmin"] * gp.get("play_prob", 1.0)
+            # rank by output if he plays: a questionable star is still listed by the bookie
+            v = sum(gp[f"rate_{p}"] for p in parts) * gp["pmin"] * gp.get("rotation_prob", gp.get("play_prob", 1.0))
             exp[stat] = set(gp.loc[v.sort_values(ascending=False).index[:mk[stat]["players_per_game"]], "player_id"])
     ok = []
     for r in offers.itertuples():
