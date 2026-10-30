@@ -4,33 +4,33 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909277,WAS,1642267,Bub Carrington,,,1.0,,,
 401909277,WAS,1630551,Justin Champagnie,Out,Injury/Illness-RightFootSurgery,0.0,"Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",,
 401909277,WAS,1641731,Bilal Coulibaly,,,1.0,,,
-401909277,WAS,203076,Anthony Davis,,,1.0,,,
-401909277,WAS,905142718,AJ Dybantsa,,,1.0,,,
-401909277,WAS,1642273,Kyshawn George,,,1.0,,,
+401909277,WAS,203076,Anthony Davis,Starting,,1.0,,,1.0
+401909277,WAS,905142718,AJ Dybantsa,Starting,,1.0,,,1.0
+401909277,WAS,1642273,Kyshawn George,Starting,,1.0,,,1.0
 401909277,WAS,1630264,Anthony Gill,,,1.0,,,
 401909277,WAS,905238230,Tre Johnson,Available,,1.0,,,
 401909277,WAS,1630544,Tre Mann,,,1.0,,,
 401909277,WAS,203114,Khris Middleton,,,1.0,,,
 401909277,WAS,905105841,Felix Okpara,Out,GLeague-Two-Way,0.0,,,
 401909277,WAS,1642860,Will Riley,,,1.0,,,
-401909277,WAS,1642259,Alex Sarr,,,1.0,,,
+401909277,WAS,1642259,Alex Sarr,Starting,,1.0,,,1.0
 401909277,WAS,1641774,Tristan Vukcevic,Out,Injury/Illness-LeftHipImpingement,0.0,The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks.,,
 401909277,WAS,1642364,Jamir Watkins,Out,,0.0,The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.,,
-401909277,WAS,1629027,Trae Young,,,1.0,,,
+401909277,WAS,1629027,Trae Young,Starting,,1.0,,,1.0
 401909277,CHA,1628960,Grayson Allen,,,1.0,,,
 401909277,CHA,905060701,Christian Anderson,,,1.0,,,
 401909277,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,Boswell (knee) is out for Wednesday's season opener against the Nets.,,
-401909277,CHA,1631217,Moussa Diabate,,,1.0,,,
+401909277,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
 401909277,CHA,1641790,PJ Hall,,,1.0,,,
-401909277,CHA,1642883,Sion James,,,1.0,,,
+401909277,CHA,1642883,Sion James,Starting,,1.0,,,1.0
 401909277,CHA,1641750,Ryan Kalkbrenner,,,1.0,,,
 401909277,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remains out for Friday's contest against the Wizards.,,
 401909277,CHA,1642862,Liam McNeeley,,,1.0,,,
-401909277,CHA,1641706,Brandon Miller,,,1.0,,,
+401909277,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
 401909277,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909277,CHA,1629675,Naz Reid,,,1.0,,,
+401909277,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
 401909277,CHA,1642275,Tidjane Salaun,,,1.0,,,
-401909277,CHA,203471,Dennis Schroder,Probable,,0.93,,,
+401909277,CHA,203471,Dennis Schroder,Starting,,1.0,,,1.0
 401909277,CHA,905281370,Hannes Steinbach,,,1.0,,,
 401909277,CHA,1629632,Coby White,Out,Injury/Illness-LeftCalfStrain,0.0,"Head coach Charles Lee said Monday that White (calf) remains without a timeline for a return, though Lee added that he'll have a better idea of where things stand following the Hornets' two-game road trip, Rod Boone of The Charlotte Observer reports.",,
 401909277,CHA,1629684,Grant Williams,Out,Injury/Illness-RightHamstringStrain,0.0,"Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road trip, Rod Boone reports.",,
