@@ -79,18 +79,20 @@ def _bets_table(df: pd.DataFrame) -> str:
                    "Stake"], rows)
 
 
-def best_bets(edges: pd.DataFrame, longshots: bool = False) -> tuple[str, str, str]:
-    """(best bets, wait-for-news, check-news) tables; longshots=True does the same for odds above MAX_ODDS."""
+def best_bets(edges: pd.DataFrame, longshots: bool | None = False, offered: bool = True) -> tuple[str, str, str]:
+    """(best bets, wait-for-news, check-news) tables; longshots=True does the same for odds above MAX_ODDS
+    (None: any odds), offered=False for bets the bookie doesn't list."""
     if edges.empty:
         return "_No market prices were available for this run._", "", ""
     e = edges.copy()
     if "offered" in e:  # only what the bookie lists (bookie_markets.json)
-        e = e[e["offered"].astype(str).str.lower() != "false"]
+        e = e[(e["offered"].astype(str).str.lower() != "false") == offered]
     e["check_news"] = e["check_news"].astype(str).str.lower() == "true"
     dep = e.get("depends_on", pd.Series("", index=e.index)).fillna("").astype(str)
     e["depends_on"] = dep
     # long shots excluded until the stat-distribution tails are validated in backtests
-    in_band = e["price_decimal"] > MAX_ODDS if longshots else e["price_decimal"] <= MAX_ODDS
+    in_band = (e["price_decimal"] > 0 if longshots is None else
+               e["price_decimal"] > MAX_ODDS if longshots else e["price_decimal"] <= MAX_ODDS)
     good = e[(e["ev_blend"] >= MIN_EV) & in_band].sort_values("ev_blend", ascending=False)
     good = good.drop_duplicates(["matchup", "market", "selection", "line", "player"])  # best price per bet
     waiting = good[good["depends_on"] != ""].head(TOP_BETS)
@@ -296,6 +298,7 @@ def build(day: date) -> Path | None:
             gen = pd.Timestamp(ts).tz_convert("Australia/Sydney").strftime("%a %d %b, %I:%M %p")
     bets, waiting, flagged = best_bets(ed)
     longs = best_bets(ed, longshots=True)[0].replace("_No bets clear", "_No long shots clear")
+    elsewhere = best_bets(ed, longshots=None, offered=False)[0].replace("_No bets clear", "_Nothing clears")
     parts = [f"# NBA model · {day.strftime('%a %d %b %Y')} (US date)",
              f"Updated **{gen}** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, "
              f"capped at {MAX_STAKE_PCT:g}%. **EV and stake use the Blend** of model and no-vig market "
@@ -308,7 +311,11 @@ def build(day: date) -> Path | None:
              "so check Sportsbet's line and price, and use the Fair column as your minimum odds.", bets,
              f"## Long shots (EV ≥ {MIN_EV:.0%}, odds above {MAX_ODDS:g})",
              "Same rules as best bets, kept apart because the model's tails (big nights, rare outcomes) aren't "
-             "proven yet. Expect long losing runs even if the edge is real.", longs]
+             "proven yet. Expect long losing runs even if the edge is real.", longs,
+             f"## Not on Sportsbet: check other books (EV ≥ {MIN_EV:.0%}, any odds)",
+             "Bets that pass the same rules but that Sportsbet doesn't list as far as we know (e.g. odd-number "
+             "assist milestones like 7+, alt-line unders, turnovers). Ladbrokes, TAB and others "
+             "sometimes do. Not graded in HEALTH.md.", elsewhere]
     if waiting:
         parts += ["## Wait for news",
                   "These look good but hinge on a questionable player. The model's chance is shown both ways; the EV "

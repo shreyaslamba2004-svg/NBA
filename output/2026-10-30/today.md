@@ -47,6 +47,14 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Jayson Tatum REB over 14.5 (15+) | CHI @ BOS | draftkings | 17.60 | 12.56 | 8.0% | 5.3% | 6.0% | +5.1% | +40.2% | 0.1% |
 | Amen Thompson STL over 2.5 (3+) | HOU @ DAL | draftkings | 5.14 | 3.68 | 27.2% | 18.2% | 20.4% | +5.1% | +39.8% | 0.3% |
 
+## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
+
+Bets that pass the same rules but that Sportsbet doesn't list as far as we know (e.g. odd-number assist milestones like 7+, alt-line unders, turnovers). Ladbrokes, TAB and others sometimes do. Not graded in HEALTH.md.
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Moussa Diabate AST over 5.5 (6+) | CHA @ WAS | draftkings | 22.00 | 14.46 | 6.9% | 4.2% | 4.9% | +8.1% | +52.1% | 0.1% |
+
 ## Wait for news
 
 These look good but hinge on a questionable player. The model's chance is shown both ways; the EV column weights them by how likely he is to play. Re-check once his status is confirmed (the sheet updates itself).
