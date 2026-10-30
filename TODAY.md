@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 04:20 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 04:50 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -23,31 +23,33 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Tyrese Maxey 3+ ast **+** Karl-Anthony Towns 1+ 3pm | NYK @ PHI | 60.7% | 1.65 | 1.73 | 1.51 | -8.6% |
+| Karl-Anthony Towns 1+ 3pm **+** Mikal Bridges 6+ pts | NYK @ PHI | 60.0% | 1.67 | 1.75 | 1.51 | -9.4% |
+| Karl-Anthony Towns 20+ pra **+** Tyrese Maxey 3+ ast **+** Mikal Bridges 6+ pts | NYK @ PHI | 57.9% | 1.73 | 1.81 | 1.51 | -12.4% |
+| Tyrese Maxey 3+ ast **+** OG Anunoby 15+ pra **+** Mikal Bridges 6+ pts | NYK @ PHI | 57.3% | 1.74 | 1.83 | 1.53 | -12.4% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 53.4% | 1.87 | 1.97 | 1.80 | -4.1% |
-| Joel Embiid 3+ ast **+** Karl-Anthony Towns 1+ 3pm | NYK @ PHI | 52.3% | 1.91 | 2.01 | 1.82 | -4.8% |
-| Joel Embiid reb under 9.5 **+** Karl-Anthony Towns 6+ reb | NYK @ PHI | 51.1% | 1.96 | 2.05 | 1.84 | -5.7% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 55.3% | 1.81 | 1.90 | 1.71 | -5.6% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 6+ reb | NYK @ PHI | 56.6% | 1.77 | 1.85 | 1.65 | -6.3% |
+| Mikal Bridges 3pm under 1.5 **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 51.1% | 1.96 | 2.05 | 1.83 | -6.6% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Karl-Anthony Towns 3+ ast **+** OG Anunoby 4+ reb | NYK @ PHI | 46.9% | 2.13 | 2.24 | 2.06 | -3.4% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 9+ reb | NYK @ PHI | 46.1% | 2.17 | 2.28 | 2.08 | -4.0% |
-| OG Anunoby 7+ ra **+** Karl-Anthony Towns 25+ pra | NYK @ PHI | 45.9% | 2.18 | 2.29 | 2.09 | -4.0% |
+| NYK win **+** OG Anunoby 15+ pra | NYK @ PHI | 46.6% | 2.15 | 2.26 | 2.06 | -4.0% |
+| Joel Embiid reb under 9.5 **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 49.0% | 2.04 | 2.14 | 1.94 | -4.8% |
+| Joel Embiid reb under 9.5 **+** OG Anunoby 15+ pra | NYK @ PHI | 48.5% | 2.06 | 2.16 | 1.96 | -4.9% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Joel Embiid 4+ ast **+** OG Anunoby 3+ reb | NYK @ PHI | 43.7% | 2.29 | 2.40 | 2.30 | +0.5% |
-| Joel Embiid 4+ ast **+** Tyrese Maxey 3+ ast | NYK @ PHI | 41.5% | 2.41 | 2.53 | 2.41 | +0.1% |
-| Joel Embiid 4+ ast **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 45.6% | 2.19 | 2.30 | 2.19 | -0.1% |
+| Joel Embiid reb under 9.5 **+** OG Anunoby 4+ reb | NYK @ PHI | 41.7% | 2.40 | 2.52 | 2.31 | -3.5% |
+| NYK win **+** Karl-Anthony Towns 25+ pra | NYK @ PHI | 43.1% | 2.32 | 2.44 | 2.23 | -3.7% |
+| NYK win **+** Mikal Bridges 6+ pts | NYK @ PHI | 42.4% | 2.36 | 2.48 | 2.27 | -3.8% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -57,7 +59,7 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| Joel Embiid AST over 4.5 | NYK @ PHI | draftkings | 3.15 | Jaylen Brown | 52.9% | 47.5% | +9.7% |
+| VJ Edgecombe AST over 3.5 | NYK @ PHI | draftkings | 3.55 | Jaylen Brown | 43.9% | 37.0% | +5.8% |
 
 ## Projections
 
@@ -376,20 +378,14 @@ Out: Egor Demin (BKN), Grant Nelson (BKN), Ben Saraf (BKN), Jalen Duren (DET)
 ### NYK @ PHI
 Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 
-**Best player props (main lines)**
-
-| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Karl-Anthony Towns AST over 3.5 | NYK @ PHI | draftkings | 2.26 | 1.84 | 54.4% | 41.4% | 44.7% | +1.0% | +23.0% | 0.2% |
-
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Tyrese Maxey 3+ ast **+** Karl-Anthony Towns 1+ 3pm | 60.7% | 1.65 | 1.73 | 1.51 | -8.6% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | 53.4% | 1.87 | 1.97 | 1.80 | -4.1% |
-| Karl-Anthony Towns 3+ ast **+** OG Anunoby 4+ reb | 46.9% | 2.13 | 2.24 | 2.06 | -3.4% |
-| Joel Embiid 4+ ast **+** OG Anunoby 3+ reb | 43.7% | 2.29 | 2.40 | 2.30 | +0.5% |
+| Karl-Anthony Towns 1+ 3pm **+** Mikal Bridges 6+ pts | 60.0% | 1.67 | 1.75 | 1.51 | -9.4% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | 55.3% | 1.81 | 1.90 | 1.71 | -5.6% |
+| NYK win **+** OG Anunoby 15+ pra | 46.6% | 2.15 | 2.26 | 2.06 | -4.0% |
+| Joel Embiid reb under 9.5 **+** OG Anunoby 4+ reb | 41.7% | 2.40 | 2.52 | 2.31 | -3.5% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
