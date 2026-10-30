@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 04:50 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 05:20 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -23,33 +23,33 @@ _No bets clear the edge threshold right now._
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Karl-Anthony Towns 1+ 3pm **+** Mikal Bridges 6+ pts | NYK @ PHI | 60.0% | 1.67 | 1.75 | 1.51 | -9.4% |
-| Karl-Anthony Towns 20+ pra **+** Tyrese Maxey 3+ ast **+** Mikal Bridges 6+ pts | NYK @ PHI | 57.9% | 1.73 | 1.81 | 1.51 | -12.4% |
-| Tyrese Maxey 3+ ast **+** OG Anunoby 15+ pra **+** Mikal Bridges 6+ pts | NYK @ PHI | 57.3% | 1.74 | 1.83 | 1.53 | -12.4% |
+| Karl-Anthony Towns 9+ reb **+** Mikal Bridges 6+ pts | NYK @ PHI | 60.9% | 1.64 | 1.72 | 1.51 | -8.2% |
+| Paul George 3pm under 3.5 **+** Jayson Tatum 1+ 3pm | CHI @ BOS | 56.1% | 1.78 | 1.87 | 1.62 | -9.1% |
+| Karl-Anthony Towns 20+ pra **+** Tyrese Maxey 3+ ast **+** Mikal Bridges 6+ pts | NYK @ PHI | 57.4% | 1.74 | 1.83 | 1.53 | -12.1% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 55.3% | 1.81 | 1.90 | 1.71 | -5.6% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 6+ reb | NYK @ PHI | 56.6% | 1.77 | 1.85 | 1.65 | -6.3% |
-| Mikal Bridges 3pm under 1.5 **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 51.1% | 1.96 | 2.05 | 1.83 | -6.6% |
+| Sion James 3pm under 1.5 **+** Trae Young 1+ 3pm | CHA @ WAS | 55.4% | 1.81 | 1.90 | 1.75 | -3.3% |
+| Sion James 3pm under 1.5 **+** Grayson Allen 1+ 3pm | CHA @ WAS | 58.0% | 1.72 | 1.81 | 1.66 | -3.4% |
+| Sion James 3pm under 1.5 **+** Trae Young 10+ pts | CHA @ WAS | 56.3% | 1.78 | 1.87 | 1.72 | -3.4% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| NYK win **+** OG Anunoby 15+ pra | NYK @ PHI | 46.6% | 2.15 | 2.26 | 2.06 | -4.0% |
-| Joel Embiid reb under 9.5 **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 49.0% | 2.04 | 2.14 | 1.94 | -4.8% |
-| Joel Embiid reb under 9.5 **+** OG Anunoby 15+ pra | NYK @ PHI | 48.5% | 2.06 | 2.16 | 1.96 | -4.9% |
+| Sion James 3pm under 1.5 **+** Kyshawn George 1+ 3pm | CHA @ WAS | 51.3% | 1.95 | 2.05 | 1.89 | -3.0% |
+| Sion James 3pm under 1.5 **+** Kyshawn George 3+ reb | CHA @ WAS | 50.1% | 1.99 | 2.09 | 1.93 | -3.3% |
+| Karl-Anthony Towns 3+ ast **+** OG Anunoby 4+ reb | NYK @ PHI | 48.1% | 2.08 | 2.18 | 1.99 | -4.4% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Joel Embiid reb under 9.5 **+** OG Anunoby 4+ reb | NYK @ PHI | 41.7% | 2.40 | 2.52 | 2.31 | -3.5% |
-| NYK win **+** Karl-Anthony Towns 25+ pra | NYK @ PHI | 43.1% | 2.32 | 2.44 | 2.23 | -3.7% |
-| NYK win **+** Mikal Bridges 6+ pts | NYK @ PHI | 42.4% | 2.36 | 2.48 | 2.27 | -3.8% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 3+ ast | NYK @ PHI | 39.3% | 2.54 | 2.67 | 2.47 | -2.8% |
+| NYK win **+** Karl-Anthony Towns 25+ pra | NYK @ PHI | 42.8% | 2.34 | 2.45 | 2.26 | -3.4% |
+| NYK win **+** Mikal Bridges 6+ pts | NYK @ PHI | 42.0% | 2.38 | 2.50 | 2.30 | -3.5% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -59,7 +59,7 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| VJ Edgecombe AST over 3.5 | NYK @ PHI | draftkings | 3.55 | Jaylen Brown | 43.9% | 37.0% | +5.8% |
+| VJ Edgecombe AST over 3.5 | NYK @ PHI | draftkings | 3.59 | Jaylen Brown | 43.9% | 37.0% | +6.2% |
 
 ## Projections
 
@@ -87,9 +87,9 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Anthony Davis reb under 10.5 **+** Trae Young 10+ pts | 49.0% | 2.04 | 2.14 | 1.83 | -10.3% |
-| CHA win **+** Anthony Davis 5+ reb | 45.0% | 2.22 | 2.33 | 2.07 | -6.8% |
-| CHA win **+** Trae Young 10+ pts | 43.1% | 2.32 | 2.44 | 2.14 | -7.7% |
+| Sion James 3pm under 1.5 **+** Trae Young 1+ 3pm | 55.4% | 1.81 | 1.90 | 1.75 | -3.3% |
+| Sion James 3pm under 1.5 **+** Kyshawn George 1+ 3pm | 51.3% | 1.95 | 2.05 | 1.89 | -3.0% |
+| CHA win **+** Grayson Allen 2+ 3pm | 38.3% | 2.61 | 2.74 | 2.46 | -5.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -217,11 +217,20 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Kon K
 ### CHI @ BOS
 Out: Devin Carter (BOS), Nic Claxton (CHI)
 
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Payton Pritchard 3PM under 2.5 | CHI @ BOS | draftkings | 2.05 | 1.69 | 59.1% | 45.6% | 49.0% | +0.4% | +21.1% | 0.1% |
+
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| BOS win **+** game under 234.5 | 43.5% | 2.30 | 2.42 | 2.16 | -6.2% |
+| Paul George 3pm under 3.5 **+** Jayson Tatum 1+ 3pm | 56.1% | 1.78 | 1.87 | 1.62 | -9.1% |
+| BOS win **+** Paul George 3pm under 3.5 | 51.8% | 1.93 | 2.03 | 1.78 | -7.6% |
+| Derrick White 3pm under 2.5 **+** BOS win | 45.1% | 2.22 | 2.33 | 2.07 | -6.5% |
+| Payton Pritchard 3pm under 2.5 **+** BOS win | 41.3% | 2.42 | 2.54 | 2.32 | -4.3% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -378,14 +387,21 @@ Out: Egor Demin (BKN), Grant Nelson (BKN), Ben Saraf (BKN), Jalen Duren (DET)
 ### NYK @ PHI
 Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
 
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Karl-Anthony Towns AST over 3.5 | NYK @ PHI | draftkings | 2.23 | 1.84 | 54.4% | 41.9% | 45.0% | +0.4% | +21.4% | 0.1% |
+| OG Anunoby REB over 5.5 | NYK @ PHI | draftkings | 2.13 | 1.77 | 56.4% | 44.0% | 47.1% | +0.3% | +20.0% | 0.1% |
+
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Karl-Anthony Towns 1+ 3pm **+** Mikal Bridges 6+ pts | 60.0% | 1.67 | 1.75 | 1.51 | -9.4% |
-| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | 55.3% | 1.81 | 1.90 | 1.71 | -5.6% |
-| NYK win **+** OG Anunoby 15+ pra | 46.6% | 2.15 | 2.26 | 2.06 | -4.0% |
-| Joel Embiid reb under 9.5 **+** OG Anunoby 4+ reb | 41.7% | 2.40 | 2.52 | 2.31 | -3.5% |
+| Karl-Anthony Towns 9+ reb **+** Mikal Bridges 6+ pts | 60.9% | 1.64 | 1.72 | 1.51 | -8.2% |
+| Karl-Anthony Towns 3+ ast **+** Tyrese Maxey 3+ ast | 51.7% | 1.94 | 2.03 | 1.82 | -5.9% |
+| Karl-Anthony Towns 3+ ast **+** OG Anunoby 4+ reb | 48.1% | 2.08 | 2.18 | 1.99 | -4.4% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 3+ ast | 39.3% | 2.54 | 2.67 | 2.47 | -2.8% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|

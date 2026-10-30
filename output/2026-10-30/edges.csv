@@ -1,48 +1,57 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,6.5,draftkings,1340.0,14.4,0.1268,7.89,0.0649,0.0649,0.0619,,0.8256,0.0804,0.1573,0.0029,False,True,False,,,
-401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,5.5,draftkings,660.0,7.6,0.2277,4.39,0.123,0.123,0.1048,,0.7309,0.1492,0.1337,0.0051,False,True,False,,,
-401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,5.5,draftkings,1220.0,13.2,0.1264,7.91,0.0708,0.0708,0.0556,,0.6682,0.0847,0.118,0.0024,False,True,False,,,
-401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,4.5,draftkings,574.0,6.74,0.2368,4.22,0.1387,0.1387,0.0982,,0.5962,0.1632,0.1,0.0044,False,True,False,Jaylen Brown,0.2633,0.2124
+401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,5.5,draftkings,1180.0,12.8,0.1264,7.91,0.073,0.073,0.0534,,0.6176,0.0864,0.1053,0.0022,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,4.5,draftkings,583.0,6.83,0.2368,4.22,0.1368,0.1368,0.1,,0.6175,0.1618,0.1053,0.0045,False,True,False,Jaylen Brown,0.2633,0.2124
 401909278,CHI @ BOS,moneyline,CHI,,,,ladbrokes_au,675.0,7.75,0.187,5.35,0.1233,0.1417,0.0453,4.65,0.4495,0.1417,0.0985,0.0036,False,True,True,,,
 401909278,CHI @ BOS,moneyline,CHI,,,,neds,675.0,7.75,0.187,5.35,0.1233,0.1417,0.0453,4.65,0.4495,0.1417,0.0985,0.0036,False,True,True,,,
-401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,7.5,draftkings,2300.0,24.0,0.0656,15.24,0.0389,0.0389,0.0267,,0.5747,0.0456,0.0946,0.001,False,True,False,,,
-401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,4.5,draftkings,323.0,4.23,0.3675,2.72,0.2209,0.2209,0.1466,,0.5545,0.2576,0.0896,0.0069,False,True,False,,,
-401909277,CHA @ WAS,prop_ra,under,AJ Dybantsa,905142718.0,6.5,draftkings,106.0,2.06,0.7114,1.41,0.4542,0.4542,0.2572,6.88,0.4656,0.5185,0.0681,0.0161,True,False,True,,,
-401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,7.5,draftkings,670.0,7.7,0.1877,5.33,0.1214,0.1214,0.0663,,0.4452,0.138,0.0622,0.0023,False,True,False,Jaylen Brown,0.216,0.1614
-401909277,CHA @ WAS,prop_reb,under,AJ Dybantsa,905142718.0,4.5,draftkings,-110.0,1.91,0.749,1.34,0.4895,0.4895,0.2594,,0.4299,0.5544,0.0584,0.0161,True,False,True,,,
-401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,3.5,draftkings,255.0,3.55,0.4028,2.48,0.2633,0.2633,0.1396,,0.43,0.2982,0.0584,0.0057,False,True,False,Jaylen Brown,0.4386,0.3699
-401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,8.5,draftkings,1160.0,12.6,0.1135,8.81,0.0742,0.0742,0.0393,,0.4295,0.084,0.0583,0.0013,False,True,False,,,
-401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,6.5,draftkings,990.0,10.9,0.1275,7.85,0.0857,0.0857,0.0417,,0.3893,0.0962,0.0482,0.0012,False,False,False,Jaylen Brown,0.0,0.1305
-401909277,CHA @ WAS,prop_pr,under,AJ Dybantsa,905142718.0,19.5,draftkings,-105.0,1.95,0.7107,1.41,0.4787,0.4787,0.232,,0.3875,0.5367,0.0478,0.0126,True,True,True,,,
-401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,6.5,draftkings,2200.0,23.0,0.0599,16.68,0.0406,0.0406,0.0193,,0.3785,0.0455,0.0456,0.0005,False,True,False,,,
+401909277,CHA @ WAS,prop_ra,under,AJ Dybantsa,905142718.0,6.5,draftkings,110.0,2.1,0.7114,1.41,0.4466,0.4466,0.2649,6.64,0.494,0.5128,0.0768,0.0175,True,False,True,,,
+401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,6.5,draftkings,1080.0,11.8,0.1268,7.89,0.0792,0.0792,0.0476,,0.496,0.0911,0.0749,0.0017,False,True,False,,,
+401909277,CHA @ WAS,prop_reb,under,AJ Dybantsa,905142718.0,4.5,draftkings,-101.0,1.99,0.749,1.34,0.4696,0.4696,0.2794,,0.4906,0.5395,0.0736,0.0186,True,False,True,,,
+401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,5.5,draftkings,549.0,6.49,0.2277,4.39,0.144,0.144,0.0837,,0.4781,0.1649,0.0705,0.0032,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,8.5,draftkings,1180.0,12.8,0.1135,8.81,0.073,0.073,0.0404,,0.4522,0.0831,0.064,0.0014,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,3.5,draftkings,259.0,3.59,0.4028,2.48,0.2603,0.2603,0.1425,,0.4462,0.296,0.0625,0.006,False,True,False,Jaylen Brown,0.4386,0.3699
+401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,7.5,draftkings,660.0,7.6,0.1877,5.33,0.123,0.123,0.0647,,0.4265,0.1392,0.0575,0.0022,False,True,False,Jaylen Brown,0.216,0.1614
+401909280,NYK @ PHI,prop_reb,over,Jalen Brunson,1628973.0,4.5,draftkings,418.0,5.18,0.2642,3.79,0.1804,0.1804,0.0837,,0.3684,0.2014,0.043,0.0026,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,6.5,draftkings,970.0,10.7,0.1275,7.85,0.0873,0.0873,0.0401,,0.3638,0.0974,0.0419,0.0011,False,False,False,Jaylen Brown,0.0,0.1305
 401909277,CHA @ WAS,prop_pra,under,AJ Dybantsa,905142718.0,22.5,draftkings,-120.0,1.83,0.7433,1.35,0.5098,0.5098,0.2335,,0.3627,0.5682,0.0416,0.0125,True,False,True,,,
-401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,3.5,draftkings,149.0,2.49,0.5443,1.84,0.3753,0.3753,0.1689,,0.3552,0.4176,0.0397,0.0067,True,True,False,,,
-401909277,CHA @ WAS,prop_fg3m,under,Tre Johnson,905238230.0,1.5,draftkings,-123.0,1.81,0.7391,1.35,0.5162,0.5162,0.2229,6.85,0.3401,0.5719,0.0369,0.0114,True,False,True,Tre Johnson,0.0,0.7417
-401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,7.5,draftkings,1860.0,19.6,0.0682,14.67,0.0477,0.0477,0.0205,,0.3364,0.0528,0.035,0.0005,False,False,False,Jaylen Brown,0.0,0.0698
-401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,6.5,draftkings,351.0,4.51,0.2945,3.4,0.2072,0.2072,0.0872,,0.328,0.229,0.0329,0.0023,False,True,False,Jaylen Brown,0.329,0.2615
-401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,5.5,draftkings,491.0,5.91,0.2221,4.5,0.1581,0.1581,0.064,,0.3126,0.1741,0.0291,0.0015,False,False,False,Jaylen Brown,0.0,0.2284
-401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,8.5,draftkings,576.0,6.76,0.1939,5.16,0.1383,0.1383,0.0556,,0.3107,0.1522,0.0286,0.0012,False,True,False,,,
-401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,9.5,draftkings,1940.0,20.4,0.0639,15.64,0.0458,0.0458,0.0181,,0.3044,0.0503,0.027,0.0003,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,4.5,draftkings,269.0,3.69,0.3675,2.72,0.2533,0.2533,0.1142,,0.3561,0.2818,0.04,0.0037,False,True,False,,,
+401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,8.5,draftkings,598.0,6.98,0.1939,5.16,0.1339,0.1339,0.06,,0.3534,0.1489,0.0393,0.0016,False,True,False,,,
+401909277,CHA @ WAS,prop_pr,under,AJ Dybantsa,905142718.0,20.5,draftkings,-126.0,1.79,0.7527,1.33,0.521,0.521,0.2317,,0.3501,0.579,0.0385,0.0121,True,True,True,,,
+401909277,CHA @ WAS,prop_fg3m,under,Tre Johnson,905238230.0,1.5,draftkings,-122.0,1.82,0.7391,1.35,0.5142,0.5142,0.225,6.88,0.345,0.5704,0.038,0.0116,True,False,True,Tre Johnson,0.0,0.7417
+401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,9.5,draftkings,2000.0,21.0,0.0639,15.64,0.0445,0.0445,0.0194,,0.3427,0.0494,0.0366,0.0005,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,7.5,draftkings,1940.0,20.4,0.0656,15.24,0.0458,0.0458,0.0198,,0.3385,0.0508,0.0355,0.0005,False,True,False,,,
+401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,7.5,draftkings,351.0,4.51,0.2958,3.38,0.2072,0.2072,0.0886,,0.3341,0.2294,0.0345,0.0025,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,6.5,draftkings,352.0,4.52,0.2945,3.4,0.2068,0.2068,0.0877,,0.331,0.2287,0.0337,0.0024,False,True,False,Jaylen Brown,0.329,0.2615
+401909280,NYK @ PHI,prop_reb,over,Jalen Brunson,1628973.0,5.5,draftkings,840.0,9.4,0.1409,7.1,0.0994,0.0994,0.0414,,0.3241,0.1098,0.032,0.001,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,6.5,draftkings,2100.0,22.0,0.0599,16.68,0.0425,0.0425,0.0175,,0.3186,0.0468,0.0306,0.0004,False,True,False,,,
 401909283,HOU @ DAL,moneyline,DAL,,,,sportsbet,181.0,2.81,0.3678,2.72,0.342,0.3653,0.0025,4.04,0.0334,0.3653,0.0264,0.0036,False,True,True,Alperen Sengun,0.3942,0.3402
-401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,9.5,draftkings,980.0,10.8,0.1203,8.31,0.0865,0.0865,0.0338,,0.2995,0.095,0.0258,0.0007,False,True,False,,,
-401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,7.5,draftkings,336.0,4.36,0.2958,3.38,0.2144,0.2144,0.0815,,0.2897,0.2347,0.0234,0.0017,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,7.5,draftkings,1800.0,19.0,0.0682,14.67,0.0492,0.0492,0.019,,0.2955,0.0539,0.0248,0.0003,False,False,False,Jaylen Brown,0.0,0.0698
+401909277,CHA @ WAS,prop_fg3m,under,Sion James,1642883.0,1.5,draftkings,-162.0,1.62,0.7986,1.25,0.5779,0.5779,0.2207,,0.2915,0.633,0.0238,0.0096,True,True,True,Dennis Schroder,0.7661,0.8349
+401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,9.5,draftkings,970.0,10.7,0.1203,8.31,0.0873,0.0873,0.033,,0.2874,0.0956,0.0228,0.0006,False,True,False,,,
 401909283,HOU @ DAL,moneyline,DAL,,,,draftkings,180.0,2.8,0.3678,2.72,0.3425,0.3653,0.0025,4.27,0.0297,0.3653,0.0227,0.0032,False,True,True,Alperen Sengun,0.3942,0.3402
+401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,5.5,draftkings,479.0,5.79,0.2221,4.5,0.1614,0.1614,0.0607,,0.2859,0.1766,0.0224,0.0012,False,False,False,Jaylen Brown,0.0,0.2284
 401909277,CHA @ WAS,prop_pa,under,AJ Dybantsa,905142718.0,17.5,draftkings,-116.0,1.86,0.689,1.45,0.5019,0.5019,0.1871,,0.283,0.5487,0.0217,0.0063,True,False,True,,,
+401909280,NYK @ PHI,prop_reb,over,Karl-Anthony Towns,1626157.0,18.5,draftkings,1020.0,11.2,0.1135,8.81,0.0834,0.0834,0.0301,,0.2717,0.091,0.0188,0.0005,False,True,False,,,
 401909282,IND @ MIA,moneyline,IND,,,,sportsbet,235.0,3.35,0.2576,3.88,0.2872,0.3039,-0.0463,3.94,-0.137,0.3039,0.0182,0.0019,False,True,True,,,
+401909280,NYK @ PHI,prop_reb,over,Jalen Brunson,1628973.0,3.5,draftkings,191.0,2.91,0.4343,2.3,0.3212,0.3212,0.1132,,0.2639,0.3495,0.0169,0.0022,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,2.5,draftkings,106.0,2.06,0.6094,1.64,0.4537,0.4548,0.1546,,0.2553,0.4934,0.0165,0.0039,True,True,True,Jaylen Brown,0.6422,0.58
+401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,6.5,draftkings,199.0,2.99,0.4207,2.38,0.3126,0.3126,0.1082,,0.258,0.3396,0.0154,0.0019,False,True,False,,,
 401909277,CHA @ WAS,prop_pts,under,AJ Dybantsa,905142718.0,15.5,draftkings,-124.0,1.81,0.6956,1.44,0.5174,0.5174,0.1783,,0.2566,0.5619,0.0151,0.0047,True,True,True,,,
-401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,2.5,draftkings,106.0,2.06,0.6094,1.64,0.4537,0.4537,0.1557,,0.2553,0.4926,0.0148,0.0035,True,True,True,Jaylen Brown,0.6422,0.58
-401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,2.5,draftkings,106.0,2.06,0.6094,1.64,0.4537,0.4537,0.1557,,0.2553,0.4926,0.0148,0.0035,True,True,True,Jaylen Brown,0.6422,0.58
-401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,4.5,draftkings,238.0,3.38,0.3714,2.69,0.2765,0.2765,0.0949,,0.2552,0.3002,0.0147,0.0015,False,False,False,Jaylen Brown,0.0,0.3748
-401909280,NYK @ PHI,prop_reb,over,Jalen Brunson,1628973.0,4.5,draftkings,374.0,4.74,0.2642,3.79,0.1972,0.1972,0.067,,0.2522,0.2139,0.014,0.0009,False,True,False,,,
-401909277,CHA @ WAS,prop_pts,under,Tre Johnson,905238230.0,8.5,draftkings,-101.0,1.99,0.6147,1.63,0.474,0.474,0.1407,6.0,0.2234,0.5092,0.0134,0.0034,False,False,True,Tre Johnson,0.0,0.6071
+401909277,CHA @ WAS,prop_pts,under,Tre Johnson,905238230.0,9.5,draftkings,-130.0,1.77,0.6936,1.44,0.5331,0.5331,0.1605,6.03,0.2271,0.5732,0.0141,0.0046,True,False,True,Tre Johnson,0.0,0.684
+401909280,NYK @ PHI,prop_reb,over,Karl-Anthony Towns,1626157.0,17.5,draftkings,710.0,8.1,0.1541,6.49,0.1154,0.1154,0.0387,,0.2483,0.1251,0.013,0.0005,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Jaylen Brown,1627759.0,4.5,draftkings,236.0,3.36,0.3714,2.69,0.2781,0.2781,0.0932,,0.2478,0.3015,0.0129,0.0014,False,False,False,Jaylen Brown,0.0,0.3748
 401909277,CHA @ WAS,prop_fg3m,under,AJ Dybantsa,905142718.0,1.5,draftkings,-160.0,1.62,0.7666,1.3,0.5751,0.5751,0.1915,,0.2458,0.623,0.0124,0.005,True,True,True,,,
-401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,6.5,draftkings,192.0,2.92,0.4207,2.38,0.3201,0.3201,0.1007,,0.2285,0.3452,0.0081,0.001,False,True,False,,,
-401909280,NYK @ PHI,prop_reb,over,Jalen Brunson,1628973.0,5.5,draftkings,770.0,8.7,0.1409,7.1,0.1074,0.1074,0.0334,,0.2255,0.1158,0.0073,0.0002,False,True,False,,,
-401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,5.5,draftkings,184.0,2.84,0.4313,2.32,0.3291,0.3291,0.1022,,0.2249,0.3546,0.0072,0.001,False,True,False,Jaylen Brown,0.4739,0.3942
+401909280,NYK @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,2.5,draftkings,105.0,2.05,0.6094,1.64,0.4559,0.4548,0.1546,,0.2492,0.4934,0.0115,0.0027,True,True,True,Jaylen Brown,0.6422,0.58
+401909280,NYK @ PHI,prop_reb,over,Jalen Brunson,1628973.0,6.5,draftkings,1660.0,17.6,0.0703,14.22,0.0531,0.0531,0.0172,,0.2374,0.0574,0.0103,0.0002,False,True,False,,,
+401909280,NYK @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,5.5,draftkings,185.0,2.85,0.4313,2.32,0.3279,0.3279,0.1034,,0.2293,0.3538,0.0082,0.0011,False,True,False,Jaylen Brown,0.4739,0.3942
+401909280,NYK @ PHI,prop_reb,over,Karl-Anthony Towns,1626157.0,19.5,draftkings,1380.0,14.8,0.0824,12.13,0.0631,0.0631,0.0193,,0.2198,0.068,0.0059,0.0001,False,True,False,,,
 401909284,LAC @ MIN,moneyline,LAC,,,,sportsbet,237.0,3.37,0.4734,2.11,0.2845,0.2982,0.1752,4.29,0.5955,0.2982,0.0049,0.0005,True,True,True,,,
+401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,3.5,draftkings,123.0,2.23,0.5443,1.84,0.4191,0.4191,0.1252,,0.2137,0.4504,0.0044,0.0009,False,True,True,,,
+401909280,NYK @ PHI,prop_ast,over,Karl-Anthony Towns,1626157.0,3.5,draftkings,123.0,2.23,0.5443,1.84,0.4191,0.4191,0.1252,,0.2137,0.4504,0.0044,0.0009,False,True,True,,,
+401909278,CHI @ BOS,prop_fg3m,under,Payton Pritchard,1630202.0,2.5,draftkings,105.0,2.05,0.5906,1.69,0.4559,0.4559,0.1347,,0.2107,0.4896,0.0036,0.0009,False,True,True,,,
 401909282,IND @ MIA,moneyline,IND,,,,ladbrokes_au,230.0,3.3,0.2576,3.88,0.2873,0.3039,-0.0463,5.49,-0.1499,0.3039,0.003,0.0003,False,True,True,,,
 401909282,IND @ MIA,moneyline,IND,,,,neds,230.0,3.3,0.2576,3.88,0.2873,0.3039,-0.0463,5.49,-0.1499,0.3039,0.003,0.0003,False,True,True,,,
-401909279,DET @ BKN,moneyline,BKN,,,,ladbrokes_au,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
+401909280,NYK @ PHI,prop_reb,over,OG Anunoby,1628384.0,5.5,draftkings,113.0,2.13,0.5635,1.77,0.4388,0.4398,0.1237,,0.2002,0.4707,0.0026,0.0006,False,True,True,,,
 401909279,DET @ BKN,moneyline,BKN,,,,neds,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
-401909279,DET @ BKN,moneyline,BKN,,,,betr_au,230.0,3.3,0.2009,4.98,0.2903,0.3032,-0.1024,4.4,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
+401909279,DET @ BKN,moneyline,BKN,,,,ladbrokes_au,230.0,3.3,0.2009,4.98,0.2873,0.3032,-0.1024,5.49,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
 401909279,DET @ BKN,moneyline,BKN,,,,draftkings,230.0,3.3,0.2009,4.98,0.2905,0.3032,-0.1024,4.33,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
+401909279,DET @ BKN,moneyline,BKN,,,,betr_au,230.0,3.3,0.2009,4.98,0.2903,0.3032,-0.1024,4.4,-0.3371,0.3032,0.0007,0.0001,False,True,True,,,
