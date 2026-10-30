@@ -1,54 +1,54 @@
 {
   "book": "Sportsbet",
-  "about": "Which player props your bookie offers. Bets, multis and per-game props only use these. Edit to suit: remove a stat to stop suggesting it, change players_per_game, or set milestones to false when the bookie only has one line per player (no 10+, 15+ ladder). An over X.5 alt line counts as offered when milestones is true, since it's the same bet as Sportsbet's (X+1)+ market; alt-line unders never count. Blocks added 2026-10-30 (user saw Anthony Davis 2+ blocks). Checked 2026-10-28 on ATL v MIA via The Odds API; Sportsbet adds players closer to tip. 2026-10-30 (user): Sportsbet has points, rebounds, assists, threes, blocks and steals as lines and milestones; PRA/PR/PA/RA as lines and 5-step milestones (10+, 15+...), so an alt over counts only when line+0.5 is a multiple of milestone_step. 2026-10-30 (user): role players are listed too (e.g. Diabate 2+, 4+, 6+ assists), so players_per_game is 30 (no cut); assist milestones are even only (4+, 6+, 8+...), so milestone_step 2. Bets outside these rules still show in TODAY.md under 'Not on Sportsbet' since other AU books may list them. 2026-10-30 (user): points milestones in 5s, rebounds and assists even, blocks and steals every number; threes unconfirmed (every number).",
+  "about": "Which player props your bookie offers. Bets, multis and per-game props only use these. Edit to suit: remove a stat to stop suggesting it, change players_per_game, or set milestones to false when the bookie only has one line per player (no 10+, 15+ ladder). An over X.5 alt line counts as offered when milestones is true, since it's the same bet as Sportsbet's (X+1)+ market; alt-line unders never count. Blocks added 2026-10-30 (user saw Anthony Davis 2+ blocks). Checked 2026-10-28 on ATL v MIA via The Odds API; Sportsbet adds players closer to tip. 2026-10-30 (user): Sportsbet has points, rebounds, assists, threes, blocks and steals as lines and milestones; PRA/PR/PA/RA as lines and 5-step milestones (10+, 15+...), so an alt over counts only when line+0.5 is a multiple of milestone_step. 2026-10-30 (user): role players are listed too (e.g. Diabate 2+, 4+, 6+ assists), so players_per_game is 30 (no cut); assist milestones are even only (4+, 6+, 8+...), so milestone_step 2. Bets outside these rules still show in TODAY.md under 'Not on Sportsbet' since other AU books may list them. 2026-10-30 (user): points milestones in 5s, rebounds and assists even, blocks and steals every number; threes unconfirmed (every number). 2026-10-30 (user): threes milestones every number; over/under lines exist in every market but usually only for each team's top 5-6 players (lines_per_team 6); milestones for everyone.",
   "only_offered": true,
   "markets": {
     "pts": {
-      "players_per_game": 30,
       "milestones": true,
-      "milestone_step": 5
+      "milestone_step": 5,
+      "lines_per_team": 6
     },
     "reb": {
-      "players_per_game": 30,
       "milestones": true,
-      "milestone_step": 2
+      "milestone_step": 2,
+      "lines_per_team": 6
     },
     "ast": {
-      "players_per_game": 30,
       "milestones": true,
-      "milestone_step": 2
+      "milestone_step": 2,
+      "lines_per_team": 6
     },
     "fg3m": {
-      "players_per_game": 30,
-      "milestones": true
+      "milestones": true,
+      "lines_per_team": 6
     },
     "pra": {
-      "players_per_game": 30,
       "milestones": true,
-      "milestone_step": 5
+      "milestone_step": 5,
+      "lines_per_team": 6
     },
     "pr": {
-      "players_per_game": 30,
       "milestones": true,
-      "milestone_step": 5
+      "milestone_step": 5,
+      "lines_per_team": 6
     },
     "pa": {
-      "players_per_game": 30,
       "milestones": true,
-      "milestone_step": 5
+      "milestone_step": 5,
+      "lines_per_team": 6
     },
     "ra": {
-      "players_per_game": 30,
       "milestones": true,
-      "milestone_step": 5
+      "milestone_step": 5,
+      "lines_per_team": 6
     },
     "blk": {
-      "players_per_game": 30,
-      "milestones": true
+      "milestones": true,
+      "lines_per_team": 6
     },
     "stl": {
-      "players_per_game": 30,
-      "milestones": true
+      "milestones": true,
+      "lines_per_team": 6
     }
   }
 }
