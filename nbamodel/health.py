@@ -183,8 +183,13 @@ def build(today: date | None = None) -> str:
         return (x.assign(_d=x["_file"].astype(str).str[:10]).sort_values("ev_blend", ascending=False)
                 .groupby("_d").head(TOP_BETS))
 
+    def stake(x):  # the sheet's suggested stake, % of bankroll (quarter-Kelly, capped)
+        from .dashboard import MAX_STAKE_PCT
+        return (100 * x["kelly_25"].astype(float)).clip(0, MAX_STAKE_PCT).fillna(0)
+
     def record(x, price_col, clv=True):
         x = x.assign(day=pd.to_datetime(x["snap"].str[:10]),
+                     staked=stake(x),
                      profit=np.where(x["won"] == 1, x[price_col] - 1, -1.0),
                      clv=x["market_novig_prob"] * x[price_col] - 1)
         rows = []
@@ -193,7 +198,9 @@ def build(today: date | None = None) -> str:
             if len(w):
                 r = {"window": label, "bets": len(w), "won": int(w["won"].sum()),
                      "profit (units)": round(float(w["profit"].sum()), 2),
-                     "ROI %": round(100 * float(w["profit"].mean()), 1)}
+                     "ROI %": round(100 * float(w["profit"].mean()), 1),
+                     "staked (% bankroll)": round(float(w["staked"].sum()), 1),
+                     "profit at sheet stakes (% bankroll)": round(float((w["staked"] * w["profit"]).sum()), 2)}
                 if clv:
                     r.update({"avg CLV %": round(100 * float(w["clv"].mean()), 1),
                               "beat closing %": round(100 * float((w["clv"] > 0).mean()), 1)})
@@ -201,18 +208,21 @@ def build(today: date | None = None) -> str:
         return pd.DataFrame(rows).to_markdown(index=False)
 
     def bet_list(x, title):  # every graded bet, newest first, so the totals can be checked by hand
-        from .dashboard import _bet_label, _stake
+        from .dashboard import MAX_STAKE_PCT, _bet_label, _stake
         x = x.assign(date=x["_file"].astype(str).str[:10]).sort_values(["date", "ev_blend"], ascending=[False, False])
         rows = [{"date (US)": r["date"], "bet": _bet_label(r), "game": r["matchup"], "book": r["book"],
                  "odds": round(float(r["price_decimal"]), 2), "EV": f"{100 * float(r['ev_blend']):+.1f}%",
                  "sheet stake": _stake(r["kelly_25"]), "result": "won" if r["won"] == 1 else "lost",
-                 "units (1 flat)": round(float(r["price_decimal"]) - 1 if r["won"] == 1 else -1.0, 2)}
+                 "units (1 flat)": round(float(r["price_decimal"]) - 1 if r["won"] == 1 else -1.0, 2),
+                 "profit at stake (% bankroll)": round(min(MAX_STAKE_PCT, max(0.0, 100 * float(r["kelly_25"] or 0)))
+                                                       * (float(r["price_decimal"]) - 1 if r["won"] == 1 else -1.0), 2)}
                 for _, r in x.head(100).iterrows()]
         return (f"<details><summary>{title} ({len(x)})</summary>\n\n"
                 + pd.DataFrame(rows).to_markdown(index=False) + "\n\n</details>")
 
-    md.append("Units assume a flat 1-unit stake on every bet so results compare cleanly; the sheet's suggested "
-              "stake (quarter-Kelly, capped) is shown per bet in the lists.")
+    md.append("Each table shows two ways of counting: units at a flat 1-unit stake on every bet (so results "
+              "compare cleanly), and profit at the sheet's suggested stake, the quarter-Kelly % of bankroll capped "
+              "at 2% that TODAY.md shows on every bet.")
     fin = top(sheet(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS)],
                     "price_decimal")) if len(g) else g
     md.append(record(fin, "price_decimal", clv=False) + "\n\n" + bet_list(fin, "Every final-list bet")
