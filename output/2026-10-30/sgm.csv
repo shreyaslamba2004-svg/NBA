@@ -4,24 +4,23 @@ CHI @ BOS,Norman Powell 3pm under 2.5 + BOS win,2,0.5258,0.4444,2.25,2.36,2.35,0
 CHI @ BOS,Norman Powell pr under 23.5 + BOS win,2,0.5592,0.4875,2.05,2.15,2.14,0.0412,1.03,2.10-2.50
 CHI @ BOS,Norman Powell pa under 22.5 + BOS win,2,0.5626,0.4951,2.02,2.12,2.09,0.0369,1.031,1.85-2.10
 CHI @ BOS,Norman Powell pts under 19.5 + Mitchell Robinson 4+ reb,2,0.6066,0.4755,2.1,2.21,2.09,-0.0048,0.998,1.85-2.10
-CHI @ BOS,Norman Powell pts under 19.5 + Jayson Tatum 1+ 3pm,2,0.6286,0.4997,2.0,2.1,1.99,-0.0071,1.001,1.85-2.10
+CHI @ BOS,Norman Powell pts under 19.5 + Jayson Tatum 1+ 3pm,2,0.6286,0.4985,2.01,2.11,1.99,-0.0063,1.001,1.85-2.10
 CHI @ BOS,BOS win + Jayson Tatum 6+ reb + Neemias Queta 4+ reb,3,0.5476,0.542,1.85,1.94,1.65,-0.1051,1.001,1.65-1.85
+CHI @ BOS,BOS win + Neemias Queta 4+ reb + Jayson Tatum 2+ 3pm,3,0.5263,0.5416,1.85,1.94,1.65,-0.1072,1.013,1.50-1.65
 CHI @ BOS,Jayson Tatum 6+ reb + Neemias Queta 4+ reb + Matas Buzelis 10+ pr,3,0.6444,0.5565,1.8,1.89,1.55,-0.139,1.003,1.50-1.65
 CHI @ BOS,Jayson Tatum 6+ reb + Neemias Queta 4+ reb + Jalen Smith 5+ pa,3,0.6543,0.565,1.77,1.86,1.52,-0.1399,1.001,1.50-1.65
-CHI @ BOS,Jayson Tatum 6+ reb + Mitchell Robinson 4+ reb + Neemias Queta 4+ reb,3,0.6403,0.55,1.82,1.91,1.56,-0.1399,1.0,1.50-1.65
-CHI @ BOS,BOS win + Jayson Tatum 6+ reb + Neemias Queta 4+ reb + Paul George 15+ pra,4,0.5207,0.5036,1.99,2.09,1.69,-0.1496,1.01,1.65-1.85
-DET @ BKN,Nolan Traore pts under 9.5 + Julius Randle 4+ reb,2,0.5963,0.4312,2.32,2.43,2.36,0.0159,1.001,2.10-2.50
-DET @ BKN,Nolan Traore pts under 9.5 + Paul Reed 15+ pr,2,0.6107,0.4506,2.22,2.33,2.24,0.0093,1.002,2.10-2.50
-DET @ BKN,John Collins pts under 14.5 + Julius Randle 4+ reb,2,0.6208,0.461,2.17,2.28,2.18,0.007,0.998,2.10-2.50
-DET @ BKN,John Collins pts under 14.5 + Paul Reed 15+ pr,2,0.6343,0.4805,2.08,2.19,2.08,-0.002,0.997,1.85-2.10
-DET @ BKN,John Collins pts under 14.5 + Paul Reed 4+ reb,2,0.657,0.5068,1.97,2.07,1.96,-0.0065,0.999,1.85-2.10
-DET @ BKN,John Collins pts under 14.5 + Duncan Robinson 1+ 3pm,2,0.6526,0.5086,1.97,2.06,1.95,-0.0091,1.0,1.85-2.10
-DET @ BKN,Michael Porter Jr. 3pm under 3.5 + Paul Reed 15+ pr,2,0.6859,0.5417,1.85,1.94,1.76,-0.0472,1.0,1.65-1.85
-DET @ BKN,Michael Porter Jr. 3pm under 3.5 + Paul Reed 4+ reb,2,0.7098,0.5708,1.75,1.84,1.66,-0.0525,1.0,1.65-1.85
-DET @ BKN,Michael Porter Jr. 3pm under 3.5 + Cade Cunningham 1+ 3pm,2,0.6488,0.5238,1.91,2.0,1.81,-0.0539,1.0,1.65-1.85
-DET @ BKN,Michael Porter Jr. 3pm under 3.5 + Duncan Robinson 1+ 3pm,2,0.7036,0.5717,1.75,1.84,1.65,-0.0566,1.0,1.50-1.65
-DET @ BKN,Julius Randle 4+ reb + Daniss Jenkins 10+ pa + Paul Reed 15+ pr,3,0.7079,0.5749,1.74,1.83,1.53,-0.119,1.003,1.50-1.65
-DET @ BKN,Daniss Jenkins 10+ pa + Paul Reed 15+ pr + Ausar Thompson 1+ stl,3,0.6618,0.5502,1.82,1.91,1.59,-0.1249,1.005,1.50-1.65
+DET @ BKN,Nolan Traore pts under 9.5 + Julius Randle 4+ reb,2,0.5963,0.4265,2.34,2.46,2.39,0.0201,1.001,2.10-2.50
+DET @ BKN,Nolan Traore pts under 9.5 + Paul Reed 15+ pr,2,0.6107,0.4465,2.24,2.35,2.27,0.0126,1.002,2.10-2.50
+DET @ BKN,John Collins pts under 14.5 + Julius Randle 4+ reb,2,0.6208,0.4559,2.19,2.3,2.22,0.0112,0.998,2.10-2.50
+DET @ BKN,John Collins pts under 14.5 + Paul Reed 4+ reb,2,0.657,0.5047,1.98,2.08,1.97,-0.0051,0.999,1.85-2.10
+DET @ BKN,John Collins pts under 14.5 + Duncan Robinson 1+ 3pm,2,0.6526,0.5083,1.97,2.07,1.95,-0.009,1.0,1.85-2.10
+DET @ BKN,Nolan Traore pa under 14.5 + Julius Randle 4+ reb,2,0.648,0.4743,2.11,2.21,2.07,-0.0177,0.999,1.85-2.10
+DET @ BKN,Nolan Traore pa under 14.5 + Paul Reed 4+ reb,2,0.6859,0.5251,1.9,2.0,1.84,-0.0334,0.999,1.65-1.85
+DET @ BKN,Nolan Traore pa under 14.5 + Duncan Robinson 1+ 3pm,2,0.6807,0.5284,1.89,1.99,1.82,-0.0379,0.999,1.65-1.85
+DET @ BKN,Michael Porter Jr. 3pm under 3.5 + Paul Reed 15+ pr,2,0.6859,0.5332,1.88,1.97,1.8,-0.0414,1.0,1.65-1.85
+DET @ BKN,Daniss Jenkins 10+ pa + Paul Reed 1+ stl,2,0.6681,0.5952,1.68,1.76,1.53,-0.0878,1.003,1.50-1.65
+DET @ BKN,Ausar Thompson 1+ stl + Paul Reed 1+ stl,2,0.661,0.5955,1.68,1.76,1.52,-0.0953,0.999,1.50-1.65
+DET @ BKN,Julius Randle 4+ reb + Daniss Jenkins 10+ pa + Paul Reed 15+ pr,3,0.7079,0.5667,1.76,1.85,1.56,-0.1144,1.003,1.50-1.65
 NYK @ PHI,Dean Wade 3pm under 1.5 + Anfernee Simons 3pm under 2.5,2,0.6203,0.4326,2.31,2.43,2.33,0.0059,1.005,2.10-2.50
 NYK @ PHI,Dean Wade 3pm under 1.5 + Josh Hart blk under 0.5,2,0.6221,0.4285,2.33,2.45,2.35,0.0059,1.0,2.10-2.50
 NYK @ PHI,Anfernee Simons pts under 11.5 + Landry Shamet 5+ pa,2,0.5985,0.4622,2.16,2.27,2.14,-0.0088,0.997,2.10-2.50
@@ -37,48 +36,48 @@ NYK @ PHI,Dean Wade 3pm under 1.5 + VJ Edgecombe 10+ pr,2,0.7968,0.6183,1.62,1.7
 ORL @ TOR,Jase Richardson 8+ pts + Jakob Poeltl 4+ reb,2,0.5158,0.4186,2.39,2.51,2.38,-0.0037,1.006,2.10-2.50
 ORL @ TOR,Jase Richardson 8+ pts + RJ Barrett 4+ reb,2,0.5312,0.4329,2.31,2.43,2.3,-0.0063,1.005,2.10-2.50
 ORL @ TOR,Jase Richardson 8+ pts + Anthony Black 10+ pts,2,0.506,0.4171,2.4,2.52,2.38,-0.0073,1.008,2.10-2.50
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Jase Richardson 5+ pr,2,0.7428,0.5327,1.88,1.97,1.86,-0.0082,0.999,1.85-2.10
+ORL @ TOR,Tristan da Silva 3pm under 2.5 + Jase Richardson 5+ pr,2,0.7428,0.5343,1.87,1.97,1.85,-0.0094,0.999,1.85-2.10
 ORL @ TOR,Tristan da Silva 3pm under 2.5 + Jase Richardson 5+ pa,2,0.7347,0.53,1.89,1.98,1.86,-0.0121,0.997,1.85-2.10
 ORL @ TOR,Jase Richardson 8+ pts + Immanuel Quickley 1+ 3pm,2,0.5728,0.4727,2.12,2.22,2.08,-0.0161,0.999,1.85-2.10
 ORL @ TOR,Tristan da Silva 3pm under 2.5 + Immanuel Quickley 1+ 3pm,2,0.7188,0.5394,1.85,1.95,1.81,-0.0232,1.0,1.65-1.85
-ORL @ TOR,Tristan da Silva 3pm under 2.5 + Ja'Kobe Walter 10+ pra,2,0.7154,0.5431,1.84,1.93,1.79,-0.0276,1.0,1.65-1.85
-ORL @ TOR,Franz Wagner ast under 6.5 + Ja'Kobe Walter 10+ pra,2,0.62,0.5103,1.96,2.06,1.84,-0.0624,0.999,1.65-1.85
+ORL @ TOR,Jase Richardson 1+ 3pm + Jamal Shead 5+ pr,2,0.6198,0.5172,1.93,2.03,1.81,-0.0629,1.001,1.65-1.85
+ORL @ TOR,Jase Richardson 1+ 3pm + Immanuel Quickley 1+ 3pm,2,0.6423,0.5347,1.87,1.96,1.75,-0.0632,1.0,1.65-1.85
 ORL @ TOR,Jakob Poeltl 4+ reb + Anthony Black 10+ pts,2,0.655,0.5925,1.69,1.77,1.53,-0.095,1.001,1.50-1.65
-ORL @ TOR,Jase Richardson 5+ pr + Jakob Poeltl 4+ reb + RJ Barrett 4+ reb,3,0.652,0.5347,1.87,1.96,1.64,-0.1248,1.0,1.50-1.65
 ORL @ TOR,Jase Richardson 5+ pa + Jakob Poeltl 4+ reb + RJ Barrett 4+ reb,3,0.6467,0.5335,1.87,1.97,1.64,-0.1258,1.001,1.50-1.65
+ORL @ TOR,Jase Richardson 5+ pr + Jakob Poeltl 4+ reb + RJ Barrett 4+ reb,3,0.652,0.5364,1.86,1.96,1.63,-0.1258,1.0,1.50-1.65
 IND @ MIA,Jarace Walker 17+ pr + Aaron Nesmith 10+ pts,2,0.5559,0.4042,2.47,2.6,2.49,0.0046,1.008,2.10-2.50
-IND @ MIA,Jarace Walker 20+ pra + Pelle Larsson 10+ pr,2,0.5666,0.4079,2.45,2.57,2.44,-0.0059,1.002,2.10-2.50
-IND @ MIA,Jarace Walker 20+ pra + Aaron Nesmith 1+ 3pm,2,0.5845,0.4272,2.34,2.46,2.32,-0.0087,1.005,2.10-2.50
+IND @ MIA,Jarace Walker 20+ pra + Pelle Larsson 10+ pr,2,0.5666,0.4049,2.47,2.59,2.46,-0.0032,1.002,2.10-2.50
+IND @ MIA,Jarace Walker 17+ pr + Davion Mitchell 10+ pr,2,0.5556,0.4037,2.48,2.6,2.47,-0.004,0.999,2.10-2.50
 IND @ MIA,Jarace Walker 17+ pr + Kelly Oubre Jr. 10+ pra,2,0.6197,0.4695,2.13,2.24,2.1,-0.0155,1.003,1.85-2.10
-IND @ MIA,Jarace Walker 10+ pa + Pascal Siakam 4+ ast,2,0.6204,0.466,2.15,2.25,2.09,-0.0249,1.005,1.85-2.10
-IND @ MIA,Jarace Walker 15+ pra + Pascal Siakam 4+ ast,2,0.6233,0.4694,2.13,2.24,2.07,-0.0264,1.004,1.85-2.10
-IND @ MIA,Jarace Walker 10+ pa + Aaron Nesmith 10+ pts,2,0.7415,0.5749,1.74,1.83,1.67,-0.0372,1.005,1.65-1.85
+IND @ MIA,Jarace Walker 11+ pts + Kelly Oubre Jr. 10+ pra,2,0.6107,0.4649,2.15,2.26,2.09,-0.0298,1.002,1.85-2.10
+IND @ MIA,Jarace Walker 10+ pa + Aaron Nesmith 10+ pts,2,0.7415,0.5769,1.73,1.82,1.67,-0.0385,1.005,1.65-1.85
 IND @ MIA,Jarace Walker 15+ pra + Aaron Nesmith 10+ pts,2,0.7442,0.5785,1.73,1.81,1.66,-0.0397,1.003,1.65-1.85
-IND @ MIA,Jarace Walker 10+ pa + Pelle Larsson 10+ pr,2,0.7577,0.6022,1.66,1.74,1.58,-0.0492,1.001,1.50-1.65
-IND @ MIA,Jarace Walker 10+ pa + Pascal Siakam 1+ 3pm,2,0.7218,0.5745,1.74,1.83,1.65,-0.0508,1.0,1.65-1.85
-IND @ MIA,Jarace Walker 15+ pra + Pascal Siakam 1+ 3pm,2,0.7251,0.5788,1.73,1.81,1.64,-0.0523,1.0,1.50-1.65
-IND @ MIA,Jarace Walker 10+ pa + Aaron Nesmith 1+ 3pm,2,0.7811,0.6303,1.59,1.67,1.5,-0.0525,1.004,1.50-1.65
-HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 4+ reb,2,0.6667,0.4506,2.22,2.33,2.27,0.0246,1.002,2.10-2.50
-HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 15+ pra,2,0.7008,0.4817,2.08,2.18,2.12,0.0212,1.005,2.10-2.50
-HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 10+ pa,2,0.6929,0.4828,2.07,2.17,2.11,0.0168,1.005,2.10-2.50
-HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.7223,0.4987,2.01,2.11,2.03,0.0147,1.002,1.85-2.10
-HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.7581,0.5323,1.88,1.97,1.9,0.0097,1.003,1.85-2.10
-HOU @ DAL,Kevin Durant 10+ ra + Tari Eason 10+ pr,2,0.6997,0.4932,2.03,2.13,2.05,0.0095,1.002,1.85-2.10
-HOU @ DAL,Kevin Durant 4+ ast + Tari Eason 10+ pr,2,0.7581,0.5459,1.83,1.92,1.83,-0.0003,1.002,1.65-1.85
-HOU @ DAL,HOU win + Kevin Durant 20+ pr,2,0.552,0.5855,1.71,1.79,1.67,-0.0251,1.013,1.65-1.85
-HOU @ DAL,HOU win + Jabari Smith Jr. 10+ pa,2,0.5685,0.6055,1.65,1.73,1.61,-0.0263,1.013,1.50-1.65
-HOU @ DAL,HOU win + Jabari Smith Jr. 15+ pra,2,0.5725,0.6014,1.66,1.75,1.62,-0.0263,1.008,1.50-1.65
-HOU @ DAL,HOU win + Kevin Durant 1+ 3pm,2,0.531,0.562,1.78,1.87,1.72,-0.0333,1.003,1.65-1.85
-HOU @ DAL,HOU win + Fred VanVleet 1+ 3pm,2,0.5504,0.5883,1.7,1.78,1.64,-0.0355,1.005,1.50-1.65
-LAC @ MIN,LaMelo Ball ra under 11.5 + Darius Garland 1+ 3pm,2,0.5971,0.4571,2.19,2.3,2.12,-0.0303,0.999,2.10-2.50
-LAC @ MIN,LaMelo Ball ra under 11.5 + Kris Dunn 5+ pa,2,0.6145,0.4709,2.12,2.23,2.06,-0.0305,0.999,1.85-2.10
-LAC @ MIN,LaMelo Ball ra under 11.5 + Isaiah Jackson 5+ pa,2,0.5566,0.4276,2.34,2.46,2.26,-0.0331,0.997,2.10-2.50
-LAC @ MIN,LaMelo Ball ra under 11.5 + Ayo Dosunmu 10+ pr,2,0.6057,0.4672,2.14,2.25,2.07,-0.0341,0.998,1.85-2.10
-LAC @ MIN,LaMelo Ball ra under 11.5 + Derrick Jones Jr. 10+ pr,2,0.5229,0.4026,2.48,2.61,2.39,-0.0364,0.995,2.10-2.50
+IND @ MIA,Jarace Walker 15+ pra + Davion Mitchell 10+ pr,2,0.7478,0.5809,1.72,1.81,1.65,-0.0429,1.0,1.50-1.65
+IND @ MIA,Jarace Walker 10+ pa + Davion Mitchell 10+ pr,2,0.7435,0.5781,1.73,1.82,1.65,-0.0437,0.999,1.65-1.85
+IND @ MIA,Aaron Nesmith 15+ pts + Jarace Walker 10+ pra,2,0.5826,0.4653,2.15,2.26,2.06,-0.0438,1.002,1.85-2.10
+IND @ MIA,Jarace Walker 10+ pa + Pelle Larsson 10+ pr,2,0.7577,0.6,1.67,1.75,1.59,-0.0479,1.001,1.50-1.65
+IND @ MIA,Jarace Walker 15+ pra + Pascal Siakam 25+ pr,2,0.7314,0.5828,1.72,1.8,1.63,-0.0487,1.003,1.50-1.65
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 4+ reb,2,0.6747,0.4523,2.21,2.32,2.27,0.0286,1.002,2.10-2.50
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 15+ pra,2,0.7051,0.482,2.07,2.18,2.12,0.022,1.003,2.10-2.50
+HOU @ DAL,Kevin Durant 10+ ra + Jabari Smith Jr. 10+ pa,2,0.6965,0.4835,2.07,2.17,2.11,0.0181,1.004,2.10-2.50
+HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.7254,0.4991,2.0,2.1,2.03,0.0154,1.001,1.85-2.10
+HOU @ DAL,Kevin Durant 10+ ra + Amen Thompson 4+ reb,2,0.69,0.4871,2.05,2.16,2.07,0.0086,1.001,1.85-2.10
+HOU @ DAL,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.7565,0.5307,1.88,1.98,1.9,0.0067,1.0,1.85-2.10
+HOU @ DAL,HOU win + Kevin Durant 20+ pr,2,0.5592,0.5869,1.7,1.79,1.67,-0.0228,1.013,1.65-1.85
+HOU @ DAL,HOU win + Jabari Smith Jr. 15+ pra,2,0.5761,0.6009,1.66,1.75,1.62,-0.0271,1.006,1.50-1.65
+HOU @ DAL,HOU win + Jabari Smith Jr. 10+ pa,2,0.5707,0.6044,1.65,1.74,1.61,-0.0281,1.011,1.50-1.65
+HOU @ DAL,HOU win + Kevin Durant 1+ 3pm,2,0.5395,0.5646,1.77,1.86,1.72,-0.0288,1.006,1.65-1.85
+HOU @ DAL,HOU win + Fred VanVleet 1+ 3pm,2,0.5588,0.5907,1.69,1.78,1.64,-0.0315,1.007,1.50-1.65
+HOU @ DAL,Jabari Smith Jr. 6+ reb + Kevin Durant 20+ pr,2,0.6785,0.528,1.89,1.99,1.82,-0.0365,1.004,1.65-1.85
+LAC @ MIN,LaMelo Ball ra under 11.5 + Darius Garland 1+ 3pm,2,0.5971,0.4639,2.16,2.26,2.07,-0.0378,0.999,1.85-2.10
+LAC @ MIN,LaMelo Ball ra under 11.5 + Kris Dunn 5+ pa,2,0.6145,0.4785,2.09,2.19,2.01,-0.0385,0.999,1.85-2.10
+LAC @ MIN,LaMelo Ball ra under 11.5 + Isaiah Jackson 5+ pa,2,0.5566,0.4345,2.3,2.42,2.21,-0.0411,0.997,2.10-2.50
 LAC @ MIN,LaMelo Ball pra under 33.5 + Kris Dunn 5+ pa,2,0.6513,0.5104,1.96,2.06,1.88,-0.0414,1.0,1.85-2.10
+LAC @ MIN,LaMelo Ball ra under 11.5 + Derrick Jones Jr. 10+ pr,2,0.5229,0.4082,2.45,2.57,2.34,-0.0435,0.995,2.10-2.50
+LAC @ MIN,LaMelo Ball ra under 11.5 + Jonathan Kuminga 4+ reb,2,0.5105,0.3998,2.5,2.63,2.39,-0.0442,0.995,2.10-2.50
 LAC @ MIN,Darius Garland ast under 7.5 + Kris Dunn 5+ pa,2,0.6503,0.5246,1.91,2.0,1.8,-0.0555,0.998,1.65-1.85
 LAC @ MIN,LaMelo Ball ast under 7.5 + Kris Dunn 5+ pa,2,0.6337,0.5137,1.95,2.04,1.84,-0.0562,0.999,1.65-1.85
-LAC @ MIN,Darius Garland ast under 7.5 + Ayo Dosunmu 10+ pr,2,0.6428,0.5219,1.92,2.01,1.81,-0.0565,0.999,1.65-1.85
+LAC @ MIN,Darius Garland ra under 10.5 + Kris Dunn 5+ pa,2,0.6616,0.5353,1.87,1.96,1.76,-0.0572,0.997,1.65-1.85
 LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 1+ 3pm,2,0.6375,0.4634,2.16,2.27,2.16,0.0002,1.008,2.10-2.50
 LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 4+ reb,2,0.7148,0.509,1.96,2.06,1.96,-0.0,1.0,1.85-2.10
 LAL @ GSW,Walker Kessler pts under 14.5 + Luka Doncic 1+ stl,2,0.6295,0.4541,2.2,2.31,2.19,-0.0044,1.001,2.10-2.50

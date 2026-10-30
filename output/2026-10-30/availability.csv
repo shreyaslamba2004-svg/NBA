@@ -198,7 +198,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909283,HOU,1641763,Julian Phillips,Out,GLeague-Two-Way,0.0,,,
 401909283,HOU,1630578,Alperen Sengun,Out,Injury/Illness-LowBackSoreness,0.0,"Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",,
 401909283,HOU,1642263,Reed Sheppard,Out,Injury/Illness-LowBackSoreness,0.0,"Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",,
-401909283,HOU,203935,Marcus Smart,Questionable,Injury/Illness-LeftForearmStrain,0.55,"Smart (forearm) is expected to play in Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",,
+401909283,HOU,203935,Marcus Smart,Available,Injury/Illness-LeftForearmStrain,1.0,,,
 401909283,HOU,1631095,Jabari Smith Jr.,,,1.0,,,
 401909283,HOU,1630256,Jae'Sean Tate,,,1.0,,,
 401909283,HOU,1641708,Amen Thompson,,,1.0,,,
