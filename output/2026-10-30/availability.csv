@@ -172,14 +172,14 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909282,IND,1627826,Ivica Zubac,Out,Injury/Illness-LeftAnkleSprain,0.0,Zubac (ankle) is out for Friday's game against the Heat.,,
 401909283,DAL,1630583,Santi Aldama,Out,Injury/Illness-RightKneeSurgery,0.0,Aldama (knee) is listed as out for Friday's game against the Rockets.,,
 401909283,DAL,905148538,Tarik Biberovic,Out,Injury/Illness-RightHeelBursitis,0.0,Biberovic (heel) is out for Friday's game against the Rockets.,,
-401909283,DAL,1631108,Max Christie,,,1.0,,,
+401909283,DAL,1631108,Max Christie,Starting,,1.0,,,1.0
 401909283,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909283,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909283,DAL,905279129,Sergio de Larrea,Out,"Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",0.0,"Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports.",,
-401909283,DAL,1642843,Cooper Flagg,,,1.0,,,
-401909283,DAL,1629655,Daniel Gafford,,,1.0,,,
+401909283,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
+401909283,DAL,1629655,Daniel Gafford,Starting,,1.0,,,1.0
 401909283,DAL,1641724,Jett Howard,,,1.0,,,
-401909283,DAL,202681,Kyrie Irving,,,1.0,,,
+401909283,DAL,202681,Kyrie Irving,Starting,,1.0,,,1.0
 401909283,DAL,1642358,Morez Johnson Jr.,,,1.0,,,
 401909283,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909283,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) has been ruled out for Friday's game against the Pacers.,,
@@ -187,24 +187,24 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909283,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
 401909283,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909283,DAL,1631204,Marcus Sasser,,,1.0,,,
-401909283,DAL,1629023,P.J. Washington,,,1.0,,,
+401909283,DAL,1629023,P.J. Washington,Starting,,1.0,,,1.0
 401909283,HOU,203500,Steven Adams,Out,Injury/Illness-RightSoleusStrain,0.0,"Head coach Ime Udoka said Monday that Adams could be out ""a week or two"" due to his right soleus strain, Lachard Binkley of SI.com reports.",,
 401909283,HOU,203992,Bogdan Bogdanovic,,,1.0,,,
-401909283,HOU,203991,Clint Capela,,,1.0,,,
+401909283,HOU,203991,Clint Capela,Starting,,1.0,,,1.0
 401909283,HOU,904683860,Quadir Copeland,Out,GLeague-Two-Way,0.0,,,
 401909283,HOU,1642384,Isaiah Crawford,,,1.0,,,
-401909283,HOU,201142,Kevin Durant,,,1.0,,,
+401909283,HOU,201142,Kevin Durant,Starting,,1.0,,,1.0
 401909283,HOU,1631106,Tari Eason,,,1.0,,,
 401909283,HOU,1641763,Julian Phillips,Out,GLeague-Two-Way,0.0,,,
-401909283,HOU,1630578,Alperen Sengun,Out,Injury/Illness-LowBackSoreness,0.0,"Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",,
-401909283,HOU,1642263,Reed Sheppard,Out,Injury/Illness-LowBackSoreness,0.0,"Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",,
+401909283,HOU,1630578,Alperen Sengun,Out,Injury/Illness-LowBackSoreness,0.0,"Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports.",,0.0
+401909283,HOU,1642263,Reed Sheppard,Out,Injury/Illness-LowBackSoreness,0.0,"Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com.",,0.0
 401909283,HOU,203935,Marcus Smart,Available,Injury/Illness-LeftForearmStrain,1.0,,,
-401909283,HOU,1631095,Jabari Smith Jr.,,,1.0,,,
+401909283,HOU,1631095,Jabari Smith Jr.,Starting,,1.0,,,1.0
 401909283,HOU,1630256,Jae'Sean Tate,,,1.0,,,
-401909283,HOU,1641708,Amen Thompson,,,1.0,,,
+401909283,HOU,1641708,Amen Thompson,Starting,,1.0,,,1.0
 401909283,HOU,905105837,Bruce Thornton,,,1.0,,,
 401909283,HOU,1631131,Oscar Tshiebwe,,,1.0,,,
-401909283,HOU,1627832,Fred VanVleet,,,1.0,,,
+401909283,HOU,1627832,Fred VanVleet,Starting,,1.0,,,1.0
 401909284,MIN,1630163,LaMelo Ball,,,1.0,,,
 401909284,MIN,1642866,Joan Beringer,,,1.0,,,
 401909284,MIN,1641740,Jaylen Clark,,,1.0,,,
