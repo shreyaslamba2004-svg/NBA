@@ -1,6 +1,6 @@
 # NBA model · Thu 29 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 12:50 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 12:55 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -12,8 +12,8 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Damian Lillard AST over 5.5 | MEM @ POR | draftkings | 3.87 | 2.66 | 37.6% | 24.1% | 27.5% | +6.4% | +45.4% | 0.6% |
-| Ja Morant AST over 7.5 | MEM @ POR | draftkings | 3.25 | 2.30 | 43.4% | 28.8% | 32.4% | +5.4% | +41.1% | 0.6% |
+| Damian Lillard AST over 5.5 | MEM @ POR | draftkings | 3.89 | 2.66 | 37.6% | 24.0% | 27.4% | +6.6% | +46.2% | 0.6% |
+| Cedric Coward PTS under 12.5 | MEM @ POR | draftkings | 1.98 | 1.56 | 64.0% | 50.3% | 53.7% | +6.3% | +26.8% | 1.6% |
 
 ## Best same-game multis by price (1.50 to 2.50)
 
@@ -21,33 +21,33 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Damian Lillard 3+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 61.1% | 1.64 | 1.72 | 1.52 | -7.4% |
+| Damian Lillard 3+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 61.0% | 1.64 | 1.72 | 1.52 | -7.3% |
 | Damian Lillard 3+ ast **+** Deni Avdija 4+ ast | MEM @ POR | 60.4% | 1.66 | 1.74 | 1.53 | -7.4% |
-| Deni Avdija 5+ reb **+** Toumani Camara 3+ reb | MEM @ POR | 60.7% | 1.65 | 1.73 | 1.52 | -7.6% |
+| Damian Lillard 3+ ast **+** Toumani Camara 3+ reb | MEM @ POR | 58.2% | 1.72 | 1.80 | 1.59 | -7.5% |
 
 **Price 1.65-1.85**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Scoot Henderson 6+ pts **+** Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm | MEM @ POR | 49.9% | 2.00 | 2.10 | 1.80 | -10.3% |
-| Scoot Henderson 6+ pts **+** Damian Lillard 3+ ast **+** Ja Morant 4+ ast | MEM @ POR | 49.7% | 2.01 | 2.11 | 1.80 | -10.7% |
+| Scoot Henderson 6+ pts **+** Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm | MEM @ POR | 49.5% | 2.02 | 2.12 | 1.82 | -10.1% |
+| Scoot Henderson 6+ pts **+** Damian Lillard 3+ ast **+** Ja Morant 4+ ast | MEM @ POR | 49.1% | 2.04 | 2.14 | 1.82 | -10.4% |
 | Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm **+** Deni Avdija 4+ ast | MEM @ POR | 51.1% | 1.96 | 2.05 | 1.75 | -10.8% |
 
 **Price 1.85-2.10**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| Jrue Holiday 8+ ra **+** Ja Morant 4+ ast | MEM @ POR | 48.0% | 2.08 | 2.19 | 2.07 | -0.4% |
-| Jrue Holiday 4+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 47.5% | 2.10 | 2.21 | 2.05 | -2.3% |
-| Jrue Holiday 4+ reb **+** Ja Morant 4+ ast | MEM @ POR | 47.3% | 2.11 | 2.22 | 2.06 | -2.7% |
+| Jrue Holiday 4+ ast **+** Deni Avdija 5+ reb | MEM @ POR | 47.5% | 2.10 | 2.21 | 2.05 | -2.5% |
+| Jrue Holiday 4+ ast **+** Ja Morant 4+ ast | MEM @ POR | 49.9% | 2.00 | 2.10 | 1.95 | -2.9% |
+| Jrue Holiday 4+ ast **+** Deni Avdija 4+ ast | MEM @ POR | 46.9% | 2.13 | 2.24 | 2.07 | -3.0% |
 
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
+| Cedric Coward pts under 13.5 **+** Damian Lillard 3+ ast | MEM @ POR | 42.1% | 2.38 | 2.49 | 2.47 | +4.0% |
 | Cedric Coward pts under 13.5 **+** Jrue Holiday 1+ 3pm | MEM @ POR | 46.5% | 2.15 | 2.26 | 2.23 | +3.9% |
-| Cedric Coward pts under 13.5 **+** Damian Lillard 3+ ast | MEM @ POR | 42.2% | 2.37 | 2.49 | 2.46 | +3.9% |
-| Cedric Coward pts under 13.5 **+** Scoot Henderson 6+ pts | MEM @ POR | 42.0% | 2.38 | 2.50 | 2.47 | +3.6% |
+| Cedric Coward pts under 13.5 **+** Scoot Henderson 6+ pts | MEM @ POR | 41.8% | 2.39 | 2.51 | 2.48 | +3.8% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -57,10 +57,13 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jrue Holiday AST over 5.5 | MEM @ POR | draftkings | 3.93 | 2.32 | 43.1% | 23.8% | 28.6% | +12.4% | +69.4% | 1.1% |
 | Cedric Coward PTS under 13.5 | MEM @ POR | sportsbet | 1.96 | 1.42 | 70.2% | 50.0% | 55.1% | +8.0% | +37.8% | 2.0% |
 | Cameron Boozer PTS under 17.5 | MEM @ POR | tab | 1.90 | 1.34 | 74.4% | 50.7% | 56.6% | +7.7% | +41.4% | 2.0% |
-| Jrue Holiday AST over 4.5 | MEM @ POR | draftkings | 2.50 | 1.71 | 58.4% | 37.4% | 42.6% | +6.6% | +46.0% | 1.1% |
-| Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.67 | 1.89 | 52.8% | 35.0% | 39.5% | +5.4% | +41.1% | 0.8% |
+| Ja Morant AST over 7.5 | MEM @ POR | draftkings | 3.36 | 2.30 | 43.4% | 27.8% | 31.7% | +6.6% | +45.9% | 0.7% |
+| Jrue Holiday AST over 4.5 | MEM @ POR | draftkings | 2.47 | 1.71 | 58.4% | 37.8% | 43.0% | +6.2% | +44.2% | 1.1% |
+| Cameron Boozer PTS under 16.5 | MEM @ POR | unibet | 1.92 | 1.44 | 69.6% | 50.0% | 54.9% | +5.3% | +33.4% | 1.4% |
+| Jrue Holiday REB over 4.5 | MEM @ POR | draftkings | 2.66 | 1.89 | 52.8% | 35.1% | 39.6% | +5.2% | +40.5% | 0.8% |
 
 ## Projections
 
@@ -79,18 +82,18 @@ Out: Shaedon Sharpe (POR), Robert Williams III (POR), Jahmai Mashack (MEM), Javo
 
 | Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Cedric Coward PTS under 12.5 | MEM @ POR | draftkings | 1.94 | 1.56 | 64.0% | 50.3% | 53.7% | +4.4% | +24.4% | 1.1% |
-| Ty Jerome PTS under 23.5 | MEM @ POR | tab | 1.95 | 1.61 | 62.1% | 49.4% | 52.6% | +2.6% | +21.3% | 0.7% |
+| Cedric Coward PTS under 12.5 | MEM @ POR | draftkings | 1.98 | 1.56 | 64.0% | 50.3% | 53.7% | +6.3% | +26.8% | 1.6% |
+| Ty Jerome PTS under 23.5 | MEM @ POR | tab | 1.95 | 1.61 | 62.1% | 49.3% | 52.5% | +2.5% | +21.3% | 0.7% |
 | Jrue Holiday PTS over 12.5 | MEM @ POR | tab | 1.95 | 1.59 | 63.0% | 49.0% | 52.5% | +2.5% | +23.0% | 0.7% |
 
 **Best multis (one per price band)**
 
 | Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|
-| Damian Lillard 3+ ast **+** Deni Avdija 5+ reb | 61.1% | 1.64 | 1.72 | 1.52 | -7.4% |
-| Scoot Henderson 6+ pts **+** Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm | 49.9% | 2.00 | 2.10 | 1.80 | -10.3% |
-| Jrue Holiday 8+ ra **+** Ja Morant 4+ ast | 48.0% | 2.08 | 2.19 | 2.07 | -0.4% |
-| Cedric Coward pts under 13.5 **+** Jrue Holiday 1+ 3pm | 46.5% | 2.15 | 2.26 | 2.23 | +3.9% |
+| Damian Lillard 3+ ast **+** Deni Avdija 5+ reb | 61.0% | 1.64 | 1.72 | 1.52 | -7.3% |
+| Scoot Henderson 6+ pts **+** Damian Lillard 3+ ast **+** Jrue Holiday 1+ 3pm | 49.5% | 2.02 | 2.12 | 1.82 | -10.1% |
+| Jrue Holiday 4+ ast **+** Deni Avdija 5+ reb | 47.5% | 2.10 | 2.21 | 2.05 | -2.5% |
+| Cedric Coward pts under 13.5 **+** Damian Lillard 3+ ast | 42.1% | 2.38 | 2.49 | 2.47 | +4.0% |
 
 <details><summary>MEM players (confirmed only)</summary>
 
