@@ -139,8 +139,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909280,NYK,1626157,Karl-Anthony Towns,Available,Injury/Illness-LeftWristSprain,1.0,,,
 401909280,NYK,1630164,James Wiseman,,,1.0,,,
 401909281,TOR,203937,Kyle Anderson,,,1.0,,,
-401909281,TOR,1630567,Scottie Barnes,,,1.0,,,
-401909281,TOR,1629628,RJ Barrett,,,1.0,,,
+401909281,TOR,1630567,Scottie Barnes,Starting,,1.0,,,1.0
+401909281,TOR,1629628,RJ Barrett,Starting,,1.0,,,1.0
 401909281,TOR,1642419,Jamison Battle,,,1.0,,,
 401909281,TOR,904432586,Nate Bittle,Out,,0.0,"Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",,
 401909281,TOR,904432737,Jaden Bradley,,,1.0,,,
@@ -149,28 +149,28 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909281,TOR,202695,Kawhi Leonard,Out,,0.0,"Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",,
 401909281,TOR,1642918,Alijah Martin,,,1.0,,,
 401909281,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
-401909281,TOR,1627751,Jakob Poeltl,,,1.0,,,
-401909281,TOR,1630193,Immanuel Quickley,,,1.0,,,
+401909281,TOR,1627751,Jakob Poeltl,Starting,,1.0,,,1.0
+401909281,TOR,1630193,Immanuel Quickley,Starting,,1.0,,,1.0
 401909281,TOR,1642347,Jamal Shead,,,1.0,,,
 401909281,TOR,1641869,Malachi Smith,Out,GLeague-Two-Way,0.0,,,
-401909281,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
+401909281,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
 401909281,ORL,1631094,Paolo Banchero,Out,,0.0,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",,
-401909281,ORL,1630217,Desmond Bane,,,1.0,,,
+401909281,ORL,1630217,Desmond Bane,Starting,,1.0,,,1.0
 401909281,ORL,1629048,Goga Bitadze,,,1.0,,,
-401909281,ORL,1641710,Anthony Black,,,1.0,,,
+401909281,ORL,1641710,Anthony Black,Starting,,1.0,,,1.0
 401909281,ORL,1631288,Jamal Cain,,,1.0,,,
 401909281,ORL,1628975,Jevon Carter,,,1.0,,,
-401909281,ORL,1628976,Wendell Carter Jr.,,,1.0,,,
+401909281,ORL,1628976,Wendell Carter Jr.,Starting,,1.0,,,1.0
 401909281,ORL,1630658,Colin Castleton,,,1.0,,,
 401909281,ORL,1641783,Tristan da Silva,,,1.0,,,
 401909281,ORL,1628371,Jonathan Isaac,Out,,0.0,Isaac (knee) is out for Friday's game in Toronto.,,
 401909281,ORL,1631457,Alex Morales,,,1.0,,,
 401909281,ORL,905107251,Izaiyah Nelson,Out,,0.0,"Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",,
 401909281,ORL,1642869,Noah Penda,Out,,0.0,"Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports.",,
-401909281,ORL,1642859,Jase Richardson,,,1.0,,,
+401909281,ORL,1642859,Jase Richardson,Starting,,1.0,,,1.0
 401909281,ORL,1630591,Jalen Suggs,Out,,0.0,"Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",,
 401909281,ORL,202696,Nikola Vucevic,,,1.0,,,
-401909281,ORL,1630532,Franz Wagner,,,1.0,,,
+401909281,ORL,1630532,Franz Wagner,Starting,,1.0,,,1.0
 401909282,MIA,1628389,Bam Adebayo,Active,,1.0,,,
 401909282,MIA,203507,Giannis Antetokounmpo,Active,,1.0,,,
 401909282,MIA,905107157,Ryan Conwell,Active,,1.0,,,
@@ -195,14 +195,14 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909282,IND,1631245,Quenton Jackson,,,1.0,,,
 401909282,IND,204456,T.J. McConnell,Out,Injury/Illness-RightHamstringStrain,0.0,"McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com.",,
 401909282,IND,1626204,Larry Nance Jr.,,,1.0,,,
-401909282,IND,1629614,Andrew Nembhard,Available,,1.0,Nembhard (neck) is listed as probable for Friday's game against Miami.,,
-401909282,IND,1630174,Aaron Nesmith,Available,Injury/Illness-LeftHamstringStrain,1.0,Nesmith (hamstring) is probable for Friday's game against the Heat.,,
+401909282,IND,1629614,Andrew Nembhard,Available,,1.0,,,
+401909282,IND,1630174,Aaron Nesmith,Available,Injury/Illness-LeftHamstringStrain,1.0,,,
 401909282,IND,1626162,Kelly Oubre Jr.,,,1.0,,,
 401909282,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
 401909282,IND,1627783,Pascal Siakam,,,1.0,,,
 401909282,IND,1641771,Jalen Slawson,,,1.0,,,
 401909282,IND,905105854,Braden Smith,,,1.0,,,
-401909282,IND,1630167,Obi Toppin,Out,Injury/Illness-LowBackSoreness,0.0,Toppin (back) is questionable for Friday's game against the Heat.,,
+401909282,IND,1630167,Obi Toppin,Out,Injury/Illness-LowBackSoreness,0.0,Toppin (back) has been ruled out for Friday's game against Miami.,,
 401909282,IND,1641716,Jarace Walker,,,1.0,,,
 401909282,IND,1627826,Ivica Zubac,Out,Injury/Illness-LeftAnkleSprain,0.0,Zubac (ankle) is out for Friday's game against the Heat.,,
 401909283,DAL,1630583,Santi Aldama,Out,Injury/Illness-RightKneeSurgery,0.0,Aldama (knee) is listed as out for Friday's game against the Rockets.,,
