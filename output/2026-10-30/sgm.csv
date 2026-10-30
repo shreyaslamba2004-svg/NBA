@@ -1,14 +1,20 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+CHA @ WAS,CHA win + Anthony Davis 5+ reb,2,0.6656,0.4499,2.22,2.33,2.07,-0.0679,1.0,1.85-2.10
+CHA @ WAS,CHA win + Trae Young 10+ pts,2,0.6412,0.4306,2.32,2.44,2.14,-0.0766,0.988,2.10-2.50
+CHA @ WAS,Deandre Ayton pts under 5.5 + Anthony Davis 5+ reb,2,0.5317,0.4682,2.14,2.24,1.97,-0.0791,0.999,1.85-2.10
+CHA @ WAS,Anthony Davis pr under 31.5 + Trae Young 10+ pts,2,0.5293,0.4473,2.24,2.35,2.05,-0.0812,0.99,1.85-2.10
+CHA @ WAS,Anthony Davis reb under 10.5 + Trae Young 10+ pts,2,0.5385,0.4897,2.04,2.14,1.83,-0.1033,0.994,1.65-1.85
+CHA @ WAS,CHA win + Trae Young 10+ pts + Anthony Davis 5+ reb,3,0.6046,0.3962,2.52,2.65,2.2,-0.1284,0.99,2.10-2.50
+CHA @ WAS,Kyshawn George 14+ pts + Trae Young 10+ pts + Anthony Davis 5+ reb,3,0.4629,0.4076,2.45,2.58,2.12,-0.1375,1.009,2.10-2.50
 CHI @ BOS,BOS win + game under 234.5,2,0.455,0.4347,2.3,2.42,2.16,-0.0623,1.013,2.10-2.50
 CHI @ BOS,BOS win + game over 235.5,2,0.3422,0.4145,2.41,2.53,2.21,-0.0856,0.987,2.10-2.50
-NYK @ PHI,OG Anunoby 5+ reb + Karl-Anthony Towns 3+ ast,2,0.5202,0.3994,2.5,2.63,2.42,-0.0336,1.004,2.10-2.50
-NYK @ PHI,OG Anunoby 5+ reb + Joel Embiid 3+ ast,2,0.5897,0.4509,2.22,2.33,2.14,-0.0338,1.003,2.10-2.50
-NYK @ PHI,NYK win + Karl-Anthony Towns 25+ pra,2,0.5735,0.43,2.33,2.44,2.24,-0.0358,1.014,2.10-2.50
-NYK @ PHI,NYK win + OG Anunoby 15+ pra,2,0.6195,0.4631,2.16,2.27,2.08,-0.0382,1.01,1.85-2.10
-NYK @ PHI,Joel Embiid 4+ ast + OG Anunoby 3+ reb,2,0.6227,0.4893,2.04,2.15,1.96,-0.0405,1.001,1.85-2.10
-NYK @ PHI,Joel Embiid 4+ ast + Tyrese Maxey 3+ ast,2,0.5851,0.4634,2.16,2.27,2.06,-0.0437,1.001,1.85-2.10
-NYK @ PHI,OG Anunoby 5+ reb + Karl-Anthony Towns 20+ pra,2,0.6797,0.5423,1.84,1.94,1.75,-0.0486,1.003,1.65-1.85
-NYK @ PHI,OG Anunoby 5+ reb + Josh Hart 15+ pra,2,0.6474,0.5205,1.92,2.02,1.82,-0.0547,1.0,1.65-1.85
-NYK @ PHI,Karl-Anthony Towns 3+ ast + OG Anunoby 3+ reb,2,0.6765,0.5596,1.79,1.88,1.67,-0.0635,1.002,1.65-1.85
-NYK @ PHI,Karl-Anthony Towns 3+ ast + OG Anunoby 15+ pra,2,0.6834,0.5733,1.74,1.83,1.62,-0.0696,1.001,1.50-1.65
-NYK @ PHI,Karl-Anthony Towns 9+ reb + OG Anunoby 15+ pra + Josh Hart 15+ pra,3,0.7073,0.5795,1.73,1.81,1.51,-0.1224,1.003,1.50-1.65
+NYK @ PHI,Joel Embiid 4+ ast + OG Anunoby 3+ reb,2,0.6227,0.4441,2.25,2.36,2.25,-0.003,1.001,2.10-2.50
+NYK @ PHI,Joel Embiid 4+ ast + Tyrese Maxey 3+ ast,2,0.5851,0.4202,2.38,2.5,2.37,-0.006,1.001,2.10-2.50
+NYK @ PHI,Joel Embiid 4+ ast + Karl-Anthony Towns 9+ reb,2,0.5556,0.3995,2.5,2.63,2.49,-0.0066,1.001,2.10-2.50
+NYK @ PHI,Karl-Anthony Towns 3+ ast + OG Anunoby 4+ reb,2,0.6116,0.4711,2.12,2.23,2.05,-0.0364,1.003,1.85-2.10
+NYK @ PHI,OG Anunoby 7+ ra + Karl-Anthony Towns 25+ pra,2,0.5831,0.459,2.18,2.29,2.09,-0.0404,1.006,1.85-2.10
+NYK @ PHI,OG Anunoby 7+ ra + Tyrese Maxey 3+ ast,2,0.5849,0.4571,2.19,2.3,2.1,-0.042,1.001,1.85-2.10
+NYK @ PHI,OG Anunoby 5+ reb + Karl-Anthony Towns 20+ pra,2,0.6797,0.5382,1.86,1.95,1.78,-0.0443,1.003,1.65-1.85
+NYK @ PHI,Joel Embiid 3+ ast + Karl-Anthony Towns 1+ 3pm,2,0.6613,0.5246,1.91,2.0,1.81,-0.0493,1.0,1.65-1.85
+NYK @ PHI,Joel Embiid reb under 9.5 + Karl-Anthony Towns 6+ reb,2,0.6292,0.5115,1.96,2.05,1.84,-0.0572,1.001,1.65-1.85
+NYK @ PHI,Tyrese Maxey 3+ ast + Karl-Anthony Towns 1+ 3pm,2,0.6941,0.6068,1.65,1.73,1.51,-0.0853,0.999,1.50-1.65
