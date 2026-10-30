@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Fri 30 Oct, 03:16 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
+Updated **Fri 30 Oct, 03:46 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Is the model getting better or worse? See [HEALTH.md](HEALTH.md).
 
 ## Sanity checks
 
@@ -19,12 +19,36 @@ _No bets clear the edge threshold right now._
 
 ## Best same-game multis by price (1.50 to 2.50)
 
+**Price 1.50-1.65**
+
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| Karl-Anthony Towns 3+ ast **+** OG Anunoby 15+ pra | NYK @ PHI | 57.3% | 1.74 | 1.83 | 1.62 | -7.0% |
+| Karl-Anthony Towns 9+ reb **+** OG Anunoby 15+ pra **+** Josh Hart 15+ pra | NYK @ PHI | 58.0% | 1.73 | 1.81 | 1.51 | -12.2% |
+
+**Price 1.65-1.85**
+
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | NYK @ PHI | 54.2% | 1.84 | 1.94 | 1.75 | -4.9% |
+| OG Anunoby 5+ reb **+** Josh Hart 15+ pra | NYK @ PHI | 52.0% | 1.92 | 2.02 | 1.82 | -5.5% |
+| Karl-Anthony Towns 3+ ast **+** OG Anunoby 3+ reb | NYK @ PHI | 56.0% | 1.79 | 1.88 | 1.67 | -6.3% |
+
+**Price 1.85-2.10**
+
+| Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|--:|
+| NYK win **+** OG Anunoby 15+ pra | NYK @ PHI | 46.3% | 2.16 | 2.27 | 2.08 | -3.8% |
+| Joel Embiid 4+ ast **+** OG Anunoby 3+ reb | NYK @ PHI | 48.9% | 2.04 | 2.15 | 1.96 | -4.0% |
+| Joel Embiid 4+ ast **+** Tyrese Maxey 3+ ast | NYK @ PHI | 46.3% | 2.16 | 2.27 | 2.06 | -4.4% |
+
 **Price 2.10-2.50**
 
 | Legs | Game | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
 |---|--:|--:|--:|--:|--:|--:|
-| BOS win **+** game under 234.5 | CHI @ BOS | 43.5% | 2.30 | 2.42 | 2.16 | -6.2% |
-| BOS win **+** game over 235.5 | CHI @ BOS | 41.4% | 2.41 | 2.53 | 2.21 | -8.6% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 3+ ast | NYK @ PHI | 39.9% | 2.50 | 2.63 | 2.42 | -3.4% |
+| OG Anunoby 5+ reb **+** Joel Embiid 3+ ast | NYK @ PHI | 45.1% | 2.22 | 2.33 | 2.14 | -3.4% |
+| NYK win **+** Karl-Anthony Towns 25+ pra | NYK @ PHI | 43.0% | 2.33 | 2.44 | 2.24 | -3.6% |
 
 Bookies price multis with their own correlation model, so compare their quoted price with **Take at ≥**: a multi is only value at that price or better, and a negative EV here means the legs multiplied fall short of it. "10+ pts" means 10 or more. Each game's section below has its own best multis.
 
@@ -336,6 +360,21 @@ Out: Egor Demin (BKN), Grant Nelson (BKN), Ben Saraf (BKN), Jalen Duren (DET)
 
 ### NYK @ PHI
 Out: Dominick Barlow (PHI), Ariel Hukporti (PHI), Jose Alvarado (NYK)
+
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| OG Anunoby REB over 5.5 | NYK @ PHI | draftkings | 2.18 | 1.77 | 56.4% | 43.0% | 46.3% | +1.0% | +22.8% | 0.2% |
+
+**Best multis (one per price band)**
+
+| Legs | Chance | Fair | Take at ≥ | Legs multiplied | EV if multiplied |
+|---|--:|--:|--:|--:|--:|
+| Karl-Anthony Towns 3+ ast **+** OG Anunoby 15+ pra | 57.3% | 1.74 | 1.83 | 1.62 | -7.0% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 20+ pra | 54.2% | 1.84 | 1.94 | 1.75 | -4.9% |
+| NYK win **+** OG Anunoby 15+ pra | 46.3% | 2.16 | 2.27 | 2.08 | -3.8% |
+| OG Anunoby 5+ reb **+** Karl-Anthony Towns 3+ ast | 39.9% | 2.50 | 2.63 | 2.42 | -3.4% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|

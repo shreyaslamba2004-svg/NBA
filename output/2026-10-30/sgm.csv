@@ -1,3 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 CHI @ BOS,BOS win + game under 234.5,2,0.455,0.4347,2.3,2.42,2.16,-0.0623,1.013,2.10-2.50
 CHI @ BOS,BOS win + game over 235.5,2,0.3422,0.4145,2.41,2.53,2.21,-0.0856,0.987,2.10-2.50
+NYK @ PHI,OG Anunoby 5+ reb + Karl-Anthony Towns 3+ ast,2,0.5202,0.3994,2.5,2.63,2.42,-0.0336,1.004,2.10-2.50
+NYK @ PHI,OG Anunoby 5+ reb + Joel Embiid 3+ ast,2,0.5897,0.4509,2.22,2.33,2.14,-0.0338,1.003,2.10-2.50
+NYK @ PHI,NYK win + Karl-Anthony Towns 25+ pra,2,0.5735,0.43,2.33,2.44,2.24,-0.0358,1.014,2.10-2.50
+NYK @ PHI,NYK win + OG Anunoby 15+ pra,2,0.6195,0.4631,2.16,2.27,2.08,-0.0382,1.01,1.85-2.10
+NYK @ PHI,Joel Embiid 4+ ast + OG Anunoby 3+ reb,2,0.6227,0.4893,2.04,2.15,1.96,-0.0405,1.001,1.85-2.10
+NYK @ PHI,Joel Embiid 4+ ast + Tyrese Maxey 3+ ast,2,0.5851,0.4634,2.16,2.27,2.06,-0.0437,1.001,1.85-2.10
+NYK @ PHI,OG Anunoby 5+ reb + Karl-Anthony Towns 20+ pra,2,0.6797,0.5423,1.84,1.94,1.75,-0.0486,1.003,1.65-1.85
+NYK @ PHI,OG Anunoby 5+ reb + Josh Hart 15+ pra,2,0.6474,0.5205,1.92,2.02,1.82,-0.0547,1.0,1.65-1.85
+NYK @ PHI,Karl-Anthony Towns 3+ ast + OG Anunoby 3+ reb,2,0.6765,0.5596,1.79,1.88,1.67,-0.0635,1.002,1.65-1.85
+NYK @ PHI,Karl-Anthony Towns 3+ ast + OG Anunoby 15+ pra,2,0.6834,0.5733,1.74,1.83,1.62,-0.0696,1.001,1.50-1.65
+NYK @ PHI,Karl-Anthony Towns 9+ reb + OG Anunoby 15+ pra + Josh Hart 15+ pra,3,0.7073,0.5795,1.73,1.81,1.51,-0.1224,1.003,1.50-1.65
