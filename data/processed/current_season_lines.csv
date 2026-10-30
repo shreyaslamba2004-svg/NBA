@@ -90,3 +90,6 @@ game_id,game_date,home,away,book,spread_home,total,over_price,under_price,ml_hom
 401909890,2026-10-28,UTA,SAS,Draft Kings,13.5,232.5,-110.0,-110.0,525,-750,-108.0,-112.0,12.5,234.5,"Tony Brothers, John Conley, John Butler"
 401909891,2026-10-28,DAL,OKC,Draft Kings,4.5,227.5,-110.0,-110.0,160,-192,-105.0,-115.0,5.5,230.5,"James Williams, Marat Kogut, Brandon Adair"
 401909892,2026-10-28,LAC,LAL,Draft Kings,-1.5,224.5,-110.0,-110.0,-112,-108,-102.0,-118.0,5.5,228.5,"Tre Maddox, Karl Lane, Brent Haskill"
+401909893,2026-10-29,ATL,CLE,DraftKings,-1.5,237.5,-112.0,-108.0,-118,-102,-105.0,-115.0,-1.5,239.5,"Jacyn Goble, Justin Van Duyne, Matt Kallio"
+401909894,2026-10-29,NOP,SAC,DraftKings,-6.5,234.5,-112.0,-108.0,-238,195,-108.0,-112.0,-5.5,237.5,"Josh Tiven, Gediminas Petraitis, Chelisa Painter"
+401909895,2026-10-29,POR,MEM,DraftKings,-7.5,233.5,-108.0,-112.0,-285,230,-110.0,-110.0,-7.5,232.5,"Kevin Cutler, Tyler Ford, Catherine Chang"
