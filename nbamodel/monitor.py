@@ -54,7 +54,11 @@ def graded_offers() -> pd.DataFrame:
     e["snap"] = e["snapshot_utc"].str.split("|").str[0]
     key = ["game_id", "market", "selection", "player", "line", "book"]
     e = e.sort_values("snap")
-    first_best = (e[(e["ev_blend"] >= BEST_EV) & (e["price_decimal"] <= BEST_MAX_ODDS)]
+    on_sheet = ((e["ev_blend"] >= BEST_EV) & (e["price_decimal"] <= BEST_MAX_ODDS)  # in TODAY.md's best bets then
+                & (e["check_news"].astype(str).str.lower() != "true")
+                & (e.get("depends_on", pd.Series("", index=e.index)).fillna("").astype(str) == "")
+                & (e.get("offered", pd.Series(True, index=e.index)).astype(str).str.lower() != "false"))
+    first_best = (e[on_sheet]
                   .drop_duplicates(key, keep="first")[key + ["price_decimal", "snap"]]
                   .rename(columns={"price_decimal": "taken_price", "snap": "taken_snap"}))
     last = e.drop_duplicates(key, keep="last").merge(first_best, on=key, how="left")

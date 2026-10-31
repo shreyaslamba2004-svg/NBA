@@ -212,15 +212,15 @@ def build(today: date | None = None) -> str:
             rows[0]["period"] = f"Since {x['day'].min():%d %b}"
         return pd.DataFrame(rows).to_markdown(index=False)
 
-    def bet_list(x, title):  # every graded bet, newest first, so the totals can be checked by hand
+    def bet_list(x, title, price_col="price_decimal"):  # every graded bet, newest first, to check totals by hand
         from .dashboard import MAX_STAKE_PCT, _bet_label, _stake
         x = x.assign(date=x["_file"].astype(str).str[:10]).sort_values(["date", "ev_blend"], ascending=[False, False])
         rows = [{"date (US)": r["date"], "bet": _bet_label(r), "game": r["matchup"], "book": r["book"],
-                 "odds": round(float(r["price_decimal"]), 2), "EV": f"{100 * float(r['ev_blend']):+.1f}%",
+                 "odds": round(float(r[price_col]), 2), "EV": f"{100 * float(r['ev_blend']):+.1f}%",
                  "sheet stake": _stake(r["kelly_25"]), "result": "won" if r["won"] == 1 else "lost",
-                 "units (1 flat)": round(float(r["price_decimal"]) - 1 if r["won"] == 1 else -1.0, 2),
+                 "units (1 flat)": round(float(r[price_col]) - 1 if r["won"] == 1 else -1.0, 2),
                  "profit at stake (% bankroll)": round(min(MAX_STAKE_PCT, max(0.0, 100 * float(r["kelly_25"] or 0)))
-                                                       * (float(r["price_decimal"]) - 1 if r["won"] == 1 else -1.0), 2)}
+                                                       * (float(r[price_col]) - 1 if r["won"] == 1 else -1.0), 2)}
                 for _, r in x.head(100).iterrows()]
         return (f"<details><summary>{title} ({len(x)})</summary>\n\n"
                 + pd.DataFrame(rows).to_markdown(index=False) + "\n\n</details>")
@@ -244,9 +244,11 @@ def build(today: date | None = None) -> str:
     md.append("## Best bets: any time in the day (secondary)")
     md.append("**Any time in the day.** Every bet that showed in the table at any point, graded at "
               "the first price it showed at. Bets that dropped off before tip (news, price moves) count here.")
-    anyt = sheet(g.dropna(subset=["taken_price"]), "taken_price") if len(g) else g
+    anyt = (g.dropna(subset=["taken_price"]).sort_values("taken_price", ascending=False)  # flags checked when shown
+            .drop_duplicates(["game_id", "market", "selection", "player", "line"])) if len(g) else g
     if len(anyt):
-        md.append(record(anyt, "taken_price"))
+        md.append(record(anyt, "taken_price") + "\n\n" +
+                  bet_list(anyt, "Every bet that showed at any time (odds = first price shown)", "taken_price"))
         md.append("CLV (closing-line value) compares the price taken with the final no-vig market price before tip. "
                   "Positive CLV over a few hundred bets is the earliest reliable sign of a real edge; ROI swings "
                   "for months.")
