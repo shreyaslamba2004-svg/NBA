@@ -191,7 +191,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
-| Since 28 Oct |    114 |    42 |           -31.39 |          -27.5 |                  39.3 |                                  -5.2 |                  -13.2 |
+| Since 28 Oct |    114 |    42 |           -31.39 |          -27.5 |                  39.1 |                                 -4.93 |                  -12.6 |
 
 <details><summary>Every graded game prop (114)</summary>
 
@@ -235,7 +235,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-10-30  | Darius Garland PTS under 22.5              | LAC @ MIN | pointsbetau |   2    | +1.1% | 0.3%          | lost     |            -1    |                          -0.27 |
 | 2026-10-30  | Jaden McDaniels PTS under 17.5             | LAC @ MIN | draftkings  |   1.95 | +1.0% | 0.3%          | lost     |            -1    |                          -0.27 |
 | 2026-10-30  | Rui Hachimura PTS under 14.5               | LAC @ MIN | draftkings  |   1.95 | +1.0% | 0.3%          | won      |             0.95 |                           0.25 |
-| 2026-10-30  | Kevin Durant PTS over 23.5 (24+)           | HOU @ DAL | pointsbetau |   1.9  | +0.9% | 0.3%          | won      |             0.9  |                           0.23 |
+| 2026-10-30  | Kevin Durant PTS over 23.5 (24+)           | HOU @ DAL | sportsbet   |   1.9  | +0.9% | 0.3%          | won      |             0.9  |                           0.23 |
 | 2026-10-30  | Tari Eason STL over 1.5 (2+)               | HOU @ DAL | draftkings  |   2.58 | +0.9% | 0.1%          | lost     |            -1    |                          -0.15 |
 | 2026-10-30  | Brandon Miller PTS under 27.5              | CHA @ WAS | unibet      |   1.94 | +0.9% | 0.2%          | won      |             0.94 |                           0.23 |
 | 2026-10-30  | Josh Hart PTS under 10.5                   | NYK @ PHI | tab         |   2    | +0.9% | 0.2%          | won      |             1    |                           0.22 |
@@ -293,8 +293,8 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-10-29  | Derik Queen PTS over 11.5 (12+)            | SAC @ NOP | sportsbet   |   1.92 | +2.4% | 0.7%          | lost     |            -1    |                          -0.67 |
 | 2026-10-29  | Ty Jerome PTS under 24.5                   | MEM @ POR | betright    |   1.86 | +2.0% | 0.6%          | won      |             0.86 |                           0.51 |
 | 2026-10-29  | Aaron Wiggins PTS under 11.5               | CLE @ ATL | draftkings  |   1.99 | +1.7% | 0.4%          | lost     |            -1    |                          -0.44 |
-| 2026-10-29  | Scoot Henderson PTS over 8.5 (9+)          | MEM @ POR | tab         |   1.9  | +0.9% | 0.2%          | won      |             0.9  |                           0.22 |
 | 2026-10-29  | Zach Edey PTS under 8.5                    | MEM @ POR | draftkings  |   1.9  | +0.9% | 0.2%          | lost     |            -1    |                          -0.25 |
+| 2026-10-29  | Scoot Henderson PTS over 8.5 (9+)          | MEM @ POR | tab         |   1.9  | +0.9% | 0.2%          | won      |             0.9  |                           0.22 |
 | 2026-10-29  | Dyson Daniels PTS under 11.5               | CLE @ ATL | tab         |   1.87 | +0.7% | 0.2%          | won      |             0.87 |                           0.18 |
 | 2026-10-29  | Damian Lillard RA over 8.5 (9+)            | MEM @ POR | draftkings  |   2.1  | +0.6% | 0.1%          | lost     |            -1    |                          -0.13 |
 
