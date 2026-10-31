@@ -79,6 +79,11 @@ def mins_to_next_tip(day) -> float:
 
 def main() -> None:
     end = time.time() + RUN_HOURS * 3600
+    try:  # one-time "alerts connected" push the first time the NTFY_TOPIC secret is seen
+        from .notify import ping_once
+        ping_once()
+    except Exception as e:
+        print("alert ping failed:", e)
     while time.time() < end:
         start = time.time()
         now = pd.Timestamp.now(tz="UTC")

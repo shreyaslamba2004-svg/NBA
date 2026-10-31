@@ -61,3 +61,16 @@ def alert(day: date, out_dir: Path) -> int:
         return 0
     seen_f.write_text(json.dumps(sorted(seen | set(keys))))
     return len(lines)
+
+
+def ping_once() -> bool:
+    """Push one confirmation the first time a run sees NTFY_TOPIC (marker: logs/ntfy_connected)."""
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    marker = Path(__file__).resolve().parents[1] / "logs" / "ntfy_connected"
+    if not topic or marker.exists():
+        print("NTFY_TOPIC", "set" if topic else "not set")
+        return False
+    requests.post(f"https://ntfy.sh/{topic}", timeout=15, data=b"The GitHub loop can reach your phone. "
+                  b"New best bets will arrive here.", headers={"Title": "NBA alerts connected", "Tags": "white_check_mark"})
+    marker.write_text(date.today().isoformat() + "\n")
+    return True
