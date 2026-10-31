@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 12:24 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 12:29 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -47,7 +47,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Khaman Maluach PR under 15.5 | DEN @ PHX | draftkings | 1.94 | 1.81 | 1.30 | 77.1% | 48.1% | 55.4% | +7.6% | +49.9% | 2.0% |
 | Khaman Maluach REB under 7.5 | DEN @ PHX | draftkings | 2.01 | 1.87 | 1.34 | 74.6% | 46.5% | 53.5% | +7.6% | +49.9% | 1.9% |
 | Walker Kessler PTS under 13.5 | LAL @ GSW | sportsbet | 2.02 | 1.89 | 1.42 | 70.3% | 47.3% | 53.0% | +7.1% | +41.9% | 1.8% |
-| Walker Kessler PTS under 14.5 | LAL @ GSW | neds | 1.83 | 1.72 | 1.32 | 76.0% | 52.1% | 58.1% | +6.5% | +39.3% | 1.9% |
+| Walker Kessler PTS under 14.5 | LAL @ GSW | ladbrokes_au | 1.83 | 1.72 | 1.32 | 76.0% | 52.1% | 58.1% | +6.5% | +39.3% | 1.9% |
 | DeMar DeRozan AST over 3.5 (4+) | DEN @ PHX | draftkings | 3.10 | 2.93 | 2.17 | 46.1% | 30.1% | 34.1% | +5.8% | +43.0% | 0.7% |
 
 ## Projections
@@ -68,9 +68,9 @@ Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW), Ziaire
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Austin Reaves PTS under 22.5 | LAL @ GSW | sportsbet | 2.00 | 1.95 | 1.66 | 60.2% | 48.1% | 51.2% | +2.4% | +20.5% | 0.6% |
-| De'Anthony Melton PTS over 9.5 (10+) | LAL @ GSW | draftkings | 2.18 | 2.14 | 2.58 | 38.8% | 49.3% | 46.7% | +1.7% | -15.4% | 0.4% |
-| Austin Reaves PTS under 23.5 | LAL @ GSW | pointsbetau | 1.87 | 1.84 | 1.56 | 64.2% | 51.1% | 54.4% | +1.7% | +20.1% | 0.5% |
+| De'Anthony Melton PTS over 9.5 (10+) | LAL @ GSW | draftkings | 2.19 | 2.14 | 2.58 | 38.8% | 49.3% | 46.7% | +2.2% | -15.0% | 0.5% |
+| Austin Reaves PTS under 23.5 | LAL @ GSW | pointsbetau | 1.87 | 1.84 | 1.56 | 64.2% | 51.0% | 54.4% | +1.6% | +20.1% | 0.5% |
+| Austin Reaves PTS under 22.5 | LAL @ GSW | sportsbet | 2.00 | 1.97 | 1.66 | 60.2% | 47.6% | 50.8% | +1.6% | +20.5% | 0.4% |
 | Stephen Curry PTS under 24.5 | LAL @ GSW | sportsbet | 1.96 | 1.94 | 1.69 | 59.3% | 49.1% | 51.6% | +1.3% | +16.4% | 0.3% |
 | Brandin Podziemski PTS under 15.5 | LAL @ GSW | tab | 1.87 | 1.85 | 1.66 | 60.3% | 51.9% | 54.0% | +1.0% | +12.7% | 0.3% |
 | Stephen Curry PTS under 25.5 | LAL @ GSW | tab | 1.85 | 1.83 | 1.58 | 63.2% | 51.7% | 54.6% | +0.8% | +16.7% | 0.2% |
@@ -81,8 +81,8 @@ Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW), Ziaire
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Luka Doncic | 98% | 36.5<br><sub>30,37,38,37,-</sub> | 34.2<br><sub>28,23,52,41,-</sub> | 33.5 · 34.5 | 7.1<br><sub>8,6,8,5,-</sub> | 7.5 | 8.1<br><sub>7,7,10,9,-</sub> | 7.5 | 4.5<br><sub>5,2,8,6,-</sub> | 4.5 | 1.9 | 0.5 | 4.9 | 49.4 |
-| Austin Reaves | 98% | 35.6<br><sub>32,38,36,39,31</sub> | 21.4<br><sub>23,28,29,26,16</sub> | 23.5 · 22.5 | 4.1<br><sub>4,2,1,4,6</sub> | 4.5 | 5.5<br><sub>6,9,4,7,1</sub> | 5.5 | 2.3<br><sub>1,3,4,4,1</sub> | 2.5 | 1.1 | 0.5 | 3.5 | 31.1 |
+| Luka Doncic | 98% | 36.5<br><sub>30,37,38,37,-</sub> | 34.2<br><sub>28,23,52,41,-</sub> | 34.5 · 34.5 | 7.1<br><sub>8,6,8,5,-</sub> | 7.5 | 8.1<br><sub>7,7,10,9,-</sub> | 7.5 | 4.5<br><sub>5,2,8,6,-</sub> | 4.5 | 1.9 | 0.5 | 4.9 | 49.4 |
+| Austin Reaves | 98% | 35.6<br><sub>32,38,36,39,31</sub> | 21.4<br><sub>23,28,29,26,16</sub> | 22.5 · 22.5 | 4.1<br><sub>4,2,1,4,6</sub> | 4.5 | 5.5<br><sub>6,9,4,7,1</sub> | 5.5 | 2.3<br><sub>1,3,4,4,1</sub> | 2.5 | 1.1 | 0.5 | 3.5 | 31.1 |
 | Walker Kessler | 98% | 29.7<br><sub>30,35,28,33,26</sub> | 11.2<br><sub>26,22,2,13,11</sub> | 13.5 · 13.5 | 9.9<br><sub>9,8,7,8,9</sub> | 9.5 | 1.5<br><sub>1,3,0,0,1</sub> |  | 0.3<br><sub>0,0,0,0,0</sub> |  | 0.9 | 1.9 | 1.6 | 22.6 |
 | Quentin Grimes | 98% | 27.0<br><sub>27,31,20,19,38</sub> | 10.0<br><sub>10,13,3,2,23</sub> | 9.5 · 9.5 | 3.2<br><sub>2,8,1,4,3</sub> | 3.5 | 2.5<br><sub>4,4,1,0,5</sub> | 2.5 | 1.1<br><sub>0,3,0,0,0</sub> | 1.5 | 1.0 | 0.3 | 1.2 | 15.6 |
 | Sandro Mamukelashvili | 98% | 24.8<br><sub>22,24,21,24,30</sub> | 9.7<br><sub>5,7,9,17,13</sub> | 9.5 · 9.5 | 5.4<br><sub>4,5,3,4,8</sub> | 4.5 | 1.8<br><sub>2,2,0,2,3</sub> |  | 1.2<br><sub>0,1,1,3,0</sub> | 1.5 | 0.9 | 0.5 | 1.0 | 16.9 |
