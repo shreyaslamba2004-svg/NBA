@@ -57,7 +57,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909897,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
 401909897,PHI,1642845,VJ Edgecombe,,,1.0,,,
 401909897,PHI,1642348,Justin Edwards,,,1.0,,,
-401909897,PHI,203954,Joel Embiid,,,1.0,,,
+401909897,PHI,203954,Joel Embiid,Day-To-Day,,0.7,,,
 401909897,PHI,1629605,Tacko Fall,Out,Fall (quadriceps) is out for Wednesday's game in Indiana.,0.0,Fall (quadriceps) is out for Wednesday's game in Indiana.,,
 401909897,PHI,1630574,Ariel Hukporti,Out,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
 401909897,PHI,2544,LeBron James,,,1.0,,,
