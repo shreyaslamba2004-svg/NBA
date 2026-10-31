@@ -1,6 +1,6 @@
 # NBA model · Sat 31 Oct 2026 (US date)
 
-Updated **Sun 01 Nov, 06:28 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 01 Nov, 06:33 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -15,7 +15,9 @@ Updated **Sun 01 Nov, 06:28 AM** Sydney time. Decimal odds. Stakes are quarter-K
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
-_No bets clear the edge threshold right now._
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Shai Gilgeous-Alexander AST over 7.5 (8+) | OKC @ HOU | draftkings | 3.78 | 3.60 | 2.70 | 37.0% | 24.7% | 27.8% | +5.1% | +40.0% | 0.5% |
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
@@ -24,30 +26,30 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 7.5 (8+) | OKC @ HOU | draftkings | 19.60 | 12.90 | 5.99 | 16.7% | 4.8% | 7.8% | +51.9% | +227.3% | 0.7% |
-| Tari Eason REB over 11.5 (12+) | OKC @ HOU | draftkings | 23.00 | 17.21 | 9.06 | 11.0% | 4.1% | 5.8% | +33.5% | +153.8% | 0.4% |
-| Kevin Durant REB over 9.5 (10+) | OKC @ HOU | draftkings | 14.20 | 11.81 | 7.08 | 14.1% | 6.6% | 8.5% | +20.2% | +100.6% | 0.4% |
+| Tari Eason REB over 11.5 (12+) | OKC @ HOU | draftkings | 24.00 | 17.61 | 9.06 | 11.0% | 3.9% | 5.7% | +36.3% | +164.8% | 0.4% |
+| Kevin Durant REB over 9.5 (10+) | OKC @ HOU | draftkings | 14.40 | 11.90 | 7.08 | 14.1% | 6.5% | 8.4% | +20.9% | +103.4% | 0.4% |
 | Kevin Durant PTS over 39.5 (40+) | OKC @ HOU | draftkings | 19.80 | 16.56 | 10.01 | 10.0% | 4.7% | 6.0% | +19.5% | +97.8% | 0.3% |
 | Shai Gilgeous-Alexander PTS over 49.5 (50+) | OKC @ HOU | draftkings | 28.00 | 23.47 | 14.23 | 7.0% | 3.3% | 4.3% | +19.3% | +96.8% | 0.2% |
-| Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ HOU | draftkings | 11.20 | 9.42 | 5.73 | 17.4% | 8.3% | 10.6% | +18.9% | +95.4% | 0.5% |
-| Jabari Smith Jr. REB over 9.5 (10+) | OKC @ HOU | draftkings | 8.40 | 7.13 | 4.40 | 22.7% | 11.1% | 14.0% | +17.8% | +90.7% | 0.6% |
-| Jabari Smith Jr. REB over 11.5 (12+) | OKC @ HOU | draftkings | 20.00 | 17.04 | 10.55 | 9.5% | 4.7% | 5.9% | +17.5% | +89.6% | 0.2% |
-| Amen Thompson AST over 7.5 (8+) | OKC @ HOU | draftkings | 7.90 | 6.78 | 4.26 | 23.5% | 11.8% | 14.7% | +16.4% | +85.4% | 0.6% |
+| Jabari Smith Jr. REB over 9.5 (10+) | OKC @ HOU | draftkings | 8.60 | 7.23 | 4.40 | 22.7% | 10.9% | 13.8% | +18.9% | +95.3% | 0.6% |
+| Jabari Smith Jr. REB over 11.5 (12+) | OKC @ HOU | draftkings | 20.40 | 17.21 | 10.55 | 9.5% | 4.6% | 5.8% | +18.4% | +93.4% | 0.2% |
+| Amen Thompson AST over 7.5 (8+) | OKC @ HOU | draftkings | 8.00 | 6.84 | 4.26 | 23.5% | 11.7% | 14.6% | +17.0% | +87.8% | 0.6% |
+| Shai Gilgeous-Alexander PRA over 59.5 (60+) | OKC @ HOU | draftkings | 20.00 | 17.24 | 10.88 | 9.2% | 4.7% | 5.8% | +16.0% | +83.8% | 0.2% |
 | Amen Thompson AST over 9.5 (10+) | OKC @ HOU | draftkings | 21.00 | 18.15 | 11.53 | 8.7% | 4.5% | 5.5% | +15.6% | +82.1% | 0.2% |
-| Shai Gilgeous-Alexander PRA over 59.5 (60+) | OKC @ HOU | draftkings | 19.80 | 17.12 | 10.88 | 9.2% | 4.7% | 5.8% | +15.6% | +82.0% | 0.2% |
+| Shai Gilgeous-Alexander PTS over 44.5 (45+) | OKC @ HOU | draftkings | 15.00 | 13.00 | 8.28 | 12.1% | 6.2% | 7.7% | +15.4% | +81.0% | 0.3% |
 | Jabari Smith Jr. PRA over 34.5 (35+) | OKC @ HOU | draftkings | 9.90 | 8.63 | 5.54 | 18.1% | 9.4% | 11.6% | +14.8% | +78.7% | 0.4% |
-| Shai Gilgeous-Alexander AST over 11.5 (12+) | OKC @ HOU | draftkings | 27.00 | 23.53 | 15.13 | 6.6% | 3.5% | 4.2% | +14.7% | +78.5% | 0.1% |
-| Shai Gilgeous-Alexander PTS over 44.5 (45+) | OKC @ HOU | draftkings | 14.40 | 12.67 | 8.28 | 12.1% | 6.5% | 7.9% | +13.6% | +73.8% | 0.2% |
-| Amen Thompson PTS over 29.5 (30+) | OKC @ HOU | draftkings | 19.00 | 16.81 | 11.04 | 9.1% | 4.9% | 5.9% | +13.1% | +72.2% | 0.2% |
-| Amen Thompson PRA over 44.5 (45+) | OKC @ HOU | draftkings | 17.80 | 15.75 | 10.38 | 9.6% | 5.2% | 6.3% | +13.0% | +71.5% | 0.2% |
-| Amen Thompson PRA over 39.5 (40+) | OKC @ HOU | draftkings | 8.60 | 7.66 | 5.10 | 19.6% | 10.9% | 13.1% | +12.3% | +68.8% | 0.4% |
+| Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ HOU | draftkings | 9.90 | 8.74 | 5.73 | 17.4% | 9.4% | 11.4% | +13.3% | +72.8% | 0.4% |
 | Jabari Smith Jr. PRA over 39.5 (40+) | OKC @ HOU | draftkings | 21.00 | 18.73 | 12.48 | 8.0% | 4.5% | 5.3% | +12.2% | +68.3% | 0.1% |
-| MIN to win | MIN @ SAS | ladbrokes_au | 6.25 | 5.61 | 4.01 | 25.0% | 17.8% | 17.8% | +11.3% | +56.0% | 0.5% |
+| Aday Mara REB over 9.5 (10+) | OKC @ HOU | draftkings | 12.00 | 10.76 | 7.25 | 13.8% | 7.8% | 9.3% | +11.5% | +65.4% | 0.3% |
+| MIN to win | MIN @ SAS | neds | 6.25 | 5.61 | 4.01 | 25.0% | 17.8% | 17.8% | +11.3% | +56.0% | 0.5% |
 | Dylan Harper REB over 9.5 (10+) | MIN @ SAS | draftkings | 16.00 | 14.39 | 9.72 | 10.3% | 5.8% | 7.0% | +11.3% | +64.7% | 0.2% |
 | Kevin Durant PTS over 34.5 (35+) | OKC @ HOU | draftkings | 9.00 | 8.10 | 5.50 | 18.2% | 10.4% | 12.3% | +11.0% | +63.8% | 0.3% |
-| Aday Mara REB over 9.5 (10+) | OKC @ HOU | draftkings | 11.60 | 10.54 | 7.25 | 13.8% | 8.1% | 9.5% | +10.1% | +59.9% | 0.2% |
 | Jabari Smith Jr. PRA over 29.5 (30+) | OKC @ HOU | draftkings | 4.57 | 4.15 | 2.86 | 34.9% | 20.4% | 24.1% | +10.0% | +59.7% | 0.7% |
 | Kingston Flemings AST over 7.5 (8+) | ATL @ NOP | draftkings | 20.00 | 18.18 | 12.53 | 8.0% | 4.7% | 5.5% | +10.0% | +59.6% | 0.1% |
+| Shai Gilgeous-Alexander AST over 11.5 (12+) | OKC @ HOU | draftkings | 24.00 | 21.88 | 15.13 | 6.6% | 3.9% | 4.6% | +9.8% | +58.6% | 0.1% |
 | Donovan Mitchell PTS over 39.5 (40+) | CLE @ MIL | draftkings | 13.20 | 12.06 | 8.40 | 11.9% | 7.1% | 8.3% | +9.4% | +57.2% | 0.2% |
+| Precious Achiuwa PA over 24.5 (25+) | SAC @ MEM | draftkings | 9.80 | 8.98 | 6.28 | 15.9% | 9.5% | 11.1% | +9.1% | +56.0% | 0.3% |
+| Donovan Mitchell PTS over 44.5 (45+) | CLE @ MIL | draftkings | 25.00 | 22.99 | 16.12 | 6.2% | 3.7% | 4.3% | +8.9% | +55.0% | 0.1% |
+| Shai Gilgeous-Alexander PRA over 54.5 (55+) | OKC @ HOU | draftkings | 10.50 | 9.70 | 6.87 | 14.5% | 8.9% | 10.3% | +8.3% | +52.8% | 0.2% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -56,23 +58,25 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 8.5 (9+) | OKC @ HOU | draftkings | 30.00 | 20.96 | 10.28 | 9.7% | 3.1% | 4.8% | +43.1% | +191.9% | 0.4% |
-| Tari Eason REB over 10.5 (11+) | OKC @ HOU | draftkings | 16.20 | 11.74 | 5.96 | 16.8% | 5.8% | 8.5% | +38.0% | +171.6% | 0.6% |
-| Shai Gilgeous-Alexander AST over 10.5 (11+) | OKC @ HOU | draftkings | 18.60 | 15.41 | 9.19 | 10.9% | 5.0% | 6.5% | +20.7% | +102.5% | 0.3% |
-| Jabari Smith Jr. REB over 10.5 (11+) | OKC @ HOU | draftkings | 13.20 | 11.04 | 6.66 | 15.0% | 7.1% | 9.1% | +19.6% | +98.1% | 0.4% |
-| Amen Thompson AST over 8.5 (9+) | OKC @ HOU | draftkings | 13.60 | 11.42 | 6.93 | 14.4% | 6.9% | 8.8% | +19.1% | +96.2% | 0.4% |
+| Tari Eason REB over 10.5 (11+) | OKC @ HOU | draftkings | 16.40 | 11.81 | 5.96 | 16.8% | 5.7% | 8.5% | +38.8% | +175.0% | 0.6% |
+| Jabari Smith Jr. REB over 10.5 (11+) | OKC @ HOU | draftkings | 13.60 | 11.22 | 6.66 | 15.0% | 6.9% | 8.9% | +21.1% | +104.1% | 0.4% |
 | Kevin Durant REB over 8.5 (9+) | OKC @ HOU | draftkings | 8.70 | 7.34 | 4.49 | 22.3% | 10.7% | 13.6% | +18.6% | +93.8% | 0.6% |
+| Amen Thompson AST over 8.5 (9+) | OKC @ HOU | draftkings | 13.20 | 11.21 | 6.93 | 14.4% | 7.1% | 8.9% | +17.7% | +90.5% | 0.4% |
 | Kevin Durant REB over 10.5 (11+) | OKC @ HOU | draftkings | 22.00 | 18.90 | 11.91 | 8.4% | 4.2% | 5.3% | +16.3% | +84.7% | 0.2% |
-| Shai Gilgeous-Alexander AST over 8.5 (9+) | OKC @ HOU | draftkings | 6.70 | 5.91 | 3.87 | 25.9% | 14.0% | 16.9% | +13.4% | +73.3% | 0.6% |
+| Shai Gilgeous-Alexander AST over 10.5 (11+) | OKC @ HOU | draftkings | 15.80 | 13.97 | 9.19 | 10.9% | 5.9% | 7.2% | +13.1% | +72.0% | 0.2% |
+| Jabari Smith Jr. REB over 12.5 (13+) | OKC @ HOU | draftkings | 29.00 | 25.84 | 17.17 | 5.8% | 3.2% | 3.9% | +12.3% | +68.9% | 0.1% |
 | Kingston Flemings AST over 6.5 (7+) | ATL @ NOP | draftkings | 11.80 | 10.59 | 7.13 | 14.0% | 7.9% | 9.4% | +11.4% | +65.4% | 0.3% |
-| Jabari Smith Jr. REB over 12.5 (13+) | OKC @ HOU | draftkings | 28.00 | 25.25 | 17.17 | 5.8% | 3.3% | 4.0% | +10.8% | +63.0% | 0.1% |
+| Amen Thompson AST over 6.5 (7+) | OKC @ HOU | draftkings | 4.63 | 4.18 | 2.85 | 35.1% | 20.2% | 23.9% | +10.7% | +62.5% | 0.7% |
+| Aday Mara REB over 10.5 (11+) | OKC @ HOU | draftkings | 18.00 | 16.34 | 11.22 | 8.9% | 5.2% | 6.1% | +10.2% | +60.4% | 0.1% |
 | Aday Mara REB over 8.5 (9+) | OKC @ HOU | draftkings | 7.60 | 6.92 | 4.78 | 20.9% | 12.3% | 14.4% | +9.8% | +59.0% | 0.4% |
-| Aday Mara REB over 10.5 (11+) | OKC @ HOU | draftkings | 17.20 | 15.87 | 11.22 | 8.9% | 5.4% | 6.3% | +8.4% | +53.3% | 0.1% |
+| Shai Gilgeous-Alexander AST over 8.5 (9+) | OKC @ HOU | draftkings | 6.09 | 5.56 | 3.87 | 25.9% | 15.3% | 18.0% | +9.5% | +57.5% | 0.5% |
 | Moussa Diabate AST over 4.5 (5+) | PHI @ CHA | draftkings | 14.80 | 13.77 | 9.92 | 10.1% | 6.3% | 7.3% | +7.4% | +49.2% | 0.1% |
 | Cameron Boozer REB over 14.5 (15+) | SAC @ MEM | draftkings | 13.00 | 12.20 | 8.89 | 11.2% | 7.2% | 8.2% | +6.6% | +46.2% | 0.1% |
 | Alperen Sengun REB over 14.5 (15+) | OKC @ HOU | draftkings | 12.20 | 11.45 | 8.39 | 11.9% | 7.7% | 8.7% | +6.5% | +45.4% | 0.1% |
 | De'Andre Hunter REB over 8.5 (9+) | SAC @ MEM | draftkings | 10.40 | 9.85 | 7.32 | 13.7% | 9.0% | 10.2% | +5.6% | +42.0% | 0.1% |
 | Dylan Harper REB over 10.5 (11+) | MIN @ SAS | draftkings | 24.00 | 22.78 | 17.03 | 5.9% | 3.9% | 4.4% | +5.3% | +40.9% | 0.1% |
 | Trey Murphy III REB over 8.5 (9+) | ATL @ NOP | draftkings | 11.20 | 10.65 | 7.98 | 12.5% | 8.3% | 9.4% | +5.2% | +40.3% | 0.1% |
+| Alperen Sengun REB over 12.5 (13+) | OKC @ HOU | draftkings | 6.01 | 5.72 | 4.29 | 23.3% | 15.6% | 17.5% | +5.1% | +40.2% | 0.3% |
 | Devin Vassell REB over 8.5 (9+) | MIN @ SAS | draftkings | 18.20 | 17.33 | 13.01 | 7.7% | 5.1% | 5.8% | +5.1% | +39.9% | 0.1% |
 
 ## Wait for news
@@ -90,12 +94,12 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jabari Smith Jr. REB over 7.5 (8+) | OKC @ HOU | draftkings | 3.52 | 3.22 | 2.24 | 44.6% | 26.6% | 31.1% | +9.3% | +57.0% | 0.9% |
+| Jabari Smith Jr. REB over 7.5 (8+) | OKC @ HOU | draftkings | 3.57 | 3.25 | 2.24 | 44.6% | 26.2% | 30.8% | +9.9% | +59.2% | 1.0% |
 | AJ Green 3PM under 1.5 | CLE @ MIL | draftkings | 2.33 | 2.14 | 1.51 | 66.2% | 40.1% | 46.6% | +8.7% | +54.3% | 1.6% |
 | Kevin Durant AST over 3.5 (4+) | OKC @ HOU | draftkings | 2.06 | 1.91 | 1.37 | 72.9% | 45.5% | 52.3% | +7.8% | +50.1% | 1.8% |
 | Kevin Durant RA over 8.5 (9+) | OKC @ HOU | draftkings | 1.93 | 1.80 | 1.29 | 77.6% | 48.4% | 55.7% | +7.7% | +50.1% | 2.0% |
-| Tari Eason REB over 5.5 (6+) | OKC @ HOU | draftkings | 2.05 | 1.93 | 1.42 | 70.5% | 45.6% | 51.8% | +6.2% | +44.6% | 1.5% |
-| Amen Thompson AST over 5.5 (6+) | OKC @ HOU | draftkings | 2.91 | 2.74 | 2.02 | 49.6% | 32.1% | 36.5% | +6.2% | +44.4% | 0.8% |
+| Tari Eason REB over 5.5 (6+) | OKC @ HOU | draftkings | 2.06 | 1.93 | 1.42 | 70.5% | 45.5% | 51.7% | +6.6% | +45.3% | 1.6% |
+| Amen Thompson AST over 5.5 (6+) | OKC @ HOU | draftkings | 2.87 | 2.72 | 2.02 | 49.6% | 32.6% | 36.8% | +5.7% | +42.4% | 0.8% |
 
 ## Projections
 
@@ -578,20 +582,20 @@ Out: Steven Adams (HOU), Reed Sheppard (HOU), Fred VanVleet (HOU), Alex Caruso (
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jabari Smith Jr. 3PM over 2.5 (3+) | OKC @ HOU | draftkings | 2.38 | 2.37 | 1.95 | 51.2% | 39.3% | 42.2% | +0.5% | +21.8% | 0.1% |
-| Amen Thompson PA over 20.5 (21+) | OKC @ HOU | draftkings | 1.84 | 1.84 | 1.54 | 65.0% | 50.9% | 54.4% | +0.1% | +19.7% | 0.0% |
+| Amen Thompson PA over 20.5 (21+) | OKC @ HOU | draftkings | 1.83 | 1.83 | 1.54 | 65.0% | 51.2% | 54.6% | +0.2% | +19.2% | 0.1% |
 
 <details><summary>OKC players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Shai Gilgeous-Alexander | 98% | 34.6<br><sub>36,35,36,30,28</sub> | 30.4<br><sub>32,17,34,26,21</sub> | 29.5 · –<br><sub>o 49% · u 51%</sub> | 3.9<br><sub>6,2,6,3,6</sub> | 4.5<br><sub>o 41% · u 59%</sub> | 6.7<br><sub>4,3,5,3,2</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 1.6<br><sub>3,3,1,1,1</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.5 | 0.9 | 3.3 | 41.0 |
-| Jared McCain | 98% | 30.0<br><sub>22,18,21,30,29</sub> | 15.9<br><sub>20,4,3,18,10</sub> | 14.5 · –<br><sub>o 51% · u 49%</sub> | 2.9<br><sub>2,0,1,3,4</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 2.3<br><sub>2,1,0,4,4</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 2.4<br><sub>6,0,1,4,0</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 0.8 | 0.2 | 1.9 | 21.1 |
-| Ajay Mitchell | 98% | 29.6<br><sub>23,23,28,25,28</sub> | 19.0<br><sub>4,12,18,30,29</sub> | 18.5 · –<br><sub>o 49% · u 51%</sub> | 3.5<br><sub>5,0,6,2,4</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 4.4<br><sub>6,0,4,5,3</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 1.3<br><sub>0,0,1,1,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.5 | 0.3 | 2.2 | 26.9 |
+| Shai Gilgeous-Alexander | 98% | 34.6<br><sub>36,35,36,30,28</sub> | 30.4<br><sub>32,17,34,26,21</sub> | 29.5 · –<br><sub>o 48% · u 52%</sub> | 3.9<br><sub>6,2,6,3,6</sub> | 4.5<br><sub>o 41% · u 59%</sub> | 6.7<br><sub>4,3,5,3,2</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 1.6<br><sub>3,3,1,1,1</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.5 | 0.9 | 3.3 | 41.0 |
+| Jared McCain | 98% | 30.0<br><sub>22,18,21,30,29</sub> | 15.9<br><sub>20,4,3,18,10</sub> | 14.5 · –<br><sub>o 51% · u 49%</sub> | 2.9<br><sub>2,0,1,3,4</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 2.3<br><sub>2,1,0,4,4</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 2.4<br><sub>6,0,1,4,0</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 0.8 | 0.2 | 1.9 | 21.1 |
+| Ajay Mitchell | 98% | 29.6<br><sub>23,23,28,25,28</sub> | 19.0<br><sub>4,12,18,30,29</sub> | 18.5 · –<br><sub>o 49% · u 51%</sub> | 3.5<br><sub>5,0,6,2,4</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 4.4<br><sub>6,0,4,5,3</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 1.3<br><sub>0,0,1,1,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.5 | 0.3 | 2.2 | 26.9 |
 | Josh Dix | 67% | 27.2<br><sub>-,-,-,22,24</sub> | 4.4<br><sub>-,-,-,0,2</sub> |  | 2.6<br><sub>-,-,-,1,2</sub> |  | 1.3<br><sub>-,-,-,0,0</sub> |  | 0.8<br><sub>-,-,-,0,0</sub> |  | 0.7 | 0.2 | 1.2 | 8.4 |
 | Bennett Stirtz | 96% | 26.7<br><sub>1,2,11,25,28</sub> | 7.9<br><sub>0,0,2,7,8</sub> | 7.5 · –<br><sub>o 49% · u 51%</sub> | 1.6<br><sub>0,0,1,1,0</sub> |  | 1.6<br><sub>0,0,0,1,3</sub> |  | 1.0<br><sub>0,0,0,1,1</sub> |  | 0.7 | 0.2 | 1.0 | 11.1 |
-| Isaiah Hartenstein | 98% | 26.6<br><sub>17,23,27,26,26</sub> | 10.2<br><sub>4,6,12,15,10</sub> | 9.5 · –<br><sub>o 50% · u 50%</sub> | 9.5<br><sub>3,6,12,13,14</sub> | 9.5<br><sub>o 51% · u 49%</sub> | 3.2<br><sub>3,2,1,3,3</sub> | 3.5<br><sub>o 40% · u 60%</sub> | 0.0<br><sub>0,0,0,0,0</sub> |  | 1.0 | 0.8 | 1.8 | 22.9 |
-| Aday Mara | 96% | 24.2<br><sub>12,13,14,20,21</sub> | 8.2<br><sub>7,2,2,11,6</sub> | 7.5 · –<br><sub>o 50% · u 50%</sub> | 6.2<br><sub>2,3,3,10,3</sub> | 4.5<br><sub>o 58% · u 42%</sub> | 1.3<br><sub>1,0,1,2,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.7 | 1.4 | 1.4 | 15.6 |
-| Kenrich Williams | 93% | 21.7<br><sub>7,6,7,24,17</sub> | 8.0<br><sub>3,3,3,3,7</sub> | 6.5 · –<br><sub>o 54% · u 46%</sub> | 4.5<br><sub>2,1,1,7,3</sub> | 4.5<br><sub>o 45% · u 55%</sub> | 1.4<br><sub>0,1,0,0,0</sub> |  | 1.1<br><sub>1,1,1,0,1</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 0.8 | 0.2 | 0.9 | 13.9 |
+| Isaiah Hartenstein | 98% | 26.6<br><sub>17,23,27,26,26</sub> | 10.2<br><sub>4,6,12,15,10</sub> | 9.5 · –<br><sub>o 53% · u 47%</sub> | 9.5<br><sub>3,6,12,13,14</sub> | 9.5<br><sub>o 50% · u 50%</sub> | 3.2<br><sub>3,2,1,3,3</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 0.0<br><sub>0,0,0,0,0</sub> |  | 1.0 | 0.8 | 1.8 | 22.9 |
+| Aday Mara | 96% | 24.2<br><sub>12,13,14,20,21</sub> | 8.2<br><sub>7,2,2,11,6</sub> | 7.5 · –<br><sub>o 49% · u 51%</sub> | 6.2<br><sub>2,3,3,10,3</sub> | 4.5<br><sub>o 58% · u 42%</sub> | 1.3<br><sub>1,0,1,2,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.7 | 1.4 | 1.4 | 15.6 |
+| Kenrich Williams | 93% | 21.7<br><sub>7,6,7,24,17</sub> | 8.0<br><sub>3,3,3,3,7</sub> | 6.5 · –<br><sub>o 53% · u 47%</sub> | 4.5<br><sub>2,1,1,7,3</sub> | 4.5<br><sub>o 45% · u 55%</sub> | 1.4<br><sub>0,1,0,0,0</sub> |  | 1.1<br><sub>1,1,1,0,1</sub> | 0.5<br><sub>o 66% · u 34%</sub> | 0.8 | 0.2 | 0.9 | 13.9 |
 | Jaylin Williams | 98% | 21.3<br><sub>17,15,5,26,20</sub> | 6.1<br><sub>5,3,0,6,0</sub> |  | 5.3<br><sub>4,7,0,6,5</sub> |  | 2.0<br><sub>1,3,0,3,1</sub> |  | 0.9<br><sub>1,1,0,2,0</sub> |  | 0.6 | 0.5 | 0.8 | 13.3 |
 | Micah Peavy | 48% | 13.1<br><sub>-,-,-,-,5</sub> | 0.6<br><sub>-,-,-,-,0</sub> |  | 0.4<br><sub>-,-,-,-,0</sub> |  | 0.7<br><sub>-,-,-,-,0</sub> |  | 0.0<br><sub>-,-,-,-,0</sub> |  | 0.3 | 0.3 | 0.5 | 1.6 |
 | Brooks Barnhizer | 80% | 13.0<br><sub>1,2,-,3,14</sub> | 3.5<br><sub>0,0,-,0,3</sub> |  | 2.5<br><sub>0,0,-,0,2</sub> |  | 0.7<br><sub>0,1,-,0,0</sub> |  | 0.2<br><sub>0,0,-,0,0</sub> |  | 0.5 | 0.2 | 0.5 | 6.7 |
@@ -602,12 +606,12 @@ Out: Steven Adams (HOU), Reed Sheppard (HOU), Fred VanVleet (HOU), Alex Caruso (
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Amen Thompson | 98% | 37.8<br><sub>36,39,28,33,39</sub> | 18.8<br><sub>20,17,15,23,15</sub> | 15.5 · –<br><sub>o 55% · u 45%</sub> | 7.4<br><sub>10,11,5,4,3</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 5.7<br><sub>4,6,2,3,6</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 0.4<br><sub>1,0,0,0,0</sub> |  | 1.6 | 0.6 | 2.8 | 31.9 |
+| Amen Thompson | 98% | 37.8<br><sub>36,39,28,33,39</sub> | 18.8<br><sub>20,17,15,23,15</sub> | 16.5 · –<br><sub>o 50% · u 50%</sub> | 7.4<br><sub>10,11,5,4,3</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 5.7<br><sub>4,6,2,3,6</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 0.4<br><sub>1,0,0,0,0</sub> |  | 1.6 | 0.6 | 2.8 | 31.9 |
 | Kevin Durant | 98% | 37.6<br><sub>37,37,30,31,37</sub> | 25.8<br><sub>20,22,22,18,28</sub> | 23.5 · –<br><sub>o 49% · u 51%</sub> | 6.5<br><sub>7,4,9,5,5</sub> | 4.5<br><sub>o 61% · u 39%</sub> | 5.1<br><sub>6,2,3,4,1</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.2<br><sub>2,3,1,2,1</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.8 | 1.0 | 3.8 | 37.4 |
 | Jabari Smith Jr. | 98% | 37.1<br><sub>34,33,39,30,35</sub> | 17.4<br><sub>7,14,16,14,22</sub> | 14.5 · –<br><sub>o 54% · u 46%</sub> | 7.4<br><sub>5,5,12,2,3</sub> | 5.5<br><sub>o 57% · u 43%</sub> | 2.3<br><sub>1,3,5,2,2</sub> |  | 2.7<br><sub>1,2,2,3,3</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 0.8 | 0.8 | 1.8 | 27.0 |
-| Alperen Sengun | 58% | 35.4<br><sub>36,33,37,-,-</sub> | 19.7<br><sub>29,17,29,-,-</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 10.0<br><sub>7,10,9,-,-</sub> | 8.5<br><sub>o 53% · u 47%</sub> | 6.3<br><sub>7,7,9,-,-</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 0.7<br><sub>2,1,1,-,-</sub> |  | 1.2 | 0.9 | 3.6 | 36.0 |
+| Alperen Sengun | 58% | 35.4<br><sub>36,33,37,-,-</sub> | 19.7<br><sub>29,17,29,-,-</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 10.0<br><sub>7,10,9,-,-</sub> | 8.5<br><sub>o 53% · u 47%</sub> | 6.3<br><sub>7,7,9,-,-</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 0.7<br><sub>2,1,1,-,-</sub> |  | 1.2 | 0.9 | 3.6 | 36.0 |
 | Tari Eason | 98% | 30.9<br><sub>27,31,33,31,26</sub> | 12.6<br><sub>12,19,13,5,11</sub> | 10.5 · –<br><sub>o 51% · u 49%</sub> | 7.4<br><sub>6,3,8,9,13</sub> | 5.5<br><sub>o 52% · u 48%</sub> | 1.6<br><sub>0,0,2,1,2</sub> |  | 1.4<br><sub>0,0,1,1,0</sub> |  | 1.4 | 0.7 | 1.5 | 21.7 |
-| Marcus Smart | 63% | 26.0<br><sub>21,-,-,-,17</sub> | 9.2<br><sub>5,-,-,-,8</sub> | 9.5 · –<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>3,-,-,-,2</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 3.2<br><sub>1,-,-,-,4</sub> | 3.5<br><sub>o 47% · u 53%</sub> | 1.3<br><sub>0,-,-,-,0</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 1.4 | 0.3 | 1.9 | 15.2 |
+| Marcus Smart | 63% | 26.0<br><sub>21,-,-,-,17</sub> | 9.2<br><sub>5,-,-,-,8</sub> | 8.5 · –<br><sub>o 52% · u 48%</sub> | 2.8<br><sub>3,-,-,-,2</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 3.2<br><sub>1,-,-,-,4</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.3<br><sub>0,-,-,-,0</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 1.4 | 0.3 | 1.9 | 15.2 |
 | Clint Capela | 88% | 22.3<br><sub>-,11,4,22,30</sub> | 6.5<br><sub>-,2,2,10,5</sub> |  | 7.8<br><sub>-,3,2,8,11</sub> |  | 1.4<br><sub>-,1,0,2,5</sub> |  | 0.0<br><sub>-,0,0,0,0</sub> |  | 0.8 | 1.2 | 0.9 | 15.7 |
 | Bogdan Bogdanovic | 91% | 19.5<br><sub>9,20,13,15,11</sub> | 7.8<br><sub>3,11,5,16,6</sub> |  | 2.4<br><sub>1,1,2,2,1</sub> |  | 1.9<br><sub>0,1,1,4,0</sub> |  | 1.3<br><sub>1,3,1,4,0</sub> |  | 0.6 | 0.2 | 0.9 | 12.1 |
 | Oscar Tshiebwe | 76% | 16.5<br><sub>-,-,-,14,11</sub> | 6.3<br><sub>-,-,-,7,0</sub> |  | 6.8<br><sub>-,-,-,5,5</sub> |  | 0.9<br><sub>-,-,-,2,0</sub> |  | 0.0<br><sub>-,-,-,0,0</sub> |  | 0.6 | 0.4 | 1.0 | 14.0 |
