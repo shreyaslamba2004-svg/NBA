@@ -1,6 +1,6 @@
 # NBA model · Fri 30 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 11:59 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 12:04 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-30/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -18,14 +18,12 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| DeMar DeRozan AST over 5.5 (6+) | DEN @ PHX | draftkings | 10.50 | 9.31 | 6.15 | 16.3% | 8.9% | 10.7% | +12.8% | +70.8% | 0.3% |
-| DeMar DeRozan PRA over 29.5 (30+) | DEN @ PHX | draftkings | 12.20 | 10.91 | 7.31 | 13.7% | 7.7% | 9.2% | +11.8% | +66.9% | 0.3% |
-| DeMar DeRozan PRA over 24.5 (25+) | DEN @ PHX | draftkings | 5.10 | 4.76 | 3.44 | 29.1% | 18.3% | 21.0% | +7.2% | +48.4% | 0.4% |
-| DeMar DeRozan PTS over 24.5 (25+) | DEN @ PHX | draftkings | 17.20 | 16.08 | 11.66 | 8.6% | 5.4% | 6.2% | +7.0% | +47.5% | 0.1% |
-| Nikola Jokic AST over 15.5 (16+) | DEN @ PHX | draftkings | 13.80 | 12.97 | 9.49 | 10.5% | 6.8% | 7.7% | +6.4% | +45.4% | 0.1% |
-| DeMar DeRozan PR over 24.5 (25+) | DEN @ PHX | draftkings | 9.20 | 8.67 | 6.38 | 15.7% | 10.2% | 11.5% | +6.1% | +44.2% | 0.2% |
+| DeMar DeRozan AST over 5.5 (6+) | DEN @ PHX | draftkings | 10.50 | 9.29 | 6.10 | 16.4% | 8.9% | 10.8% | +13.1% | +72.1% | 0.3% |
+| DeMar DeRozan PRA over 29.5 (30+) | DEN @ PHX | draftkings | 12.20 | 11.15 | 7.76 | 12.9% | 7.7% | 9.0% | +9.4% | +57.2% | 0.2% |
+| DeMar DeRozan PRA over 24.5 (25+) | DEN @ PHX | draftkings | 5.10 | 4.79 | 3.51 | 28.4% | 18.3% | 20.9% | +6.4% | +45.1% | 0.4% |
 | Yaxel Lendeborg REB over 11.5 (12+) | LAL @ GSW | draftkings | 9.60 | 9.05 | 6.67 | 15.0% | 9.7% | 11.1% | +6.0% | +43.8% | 0.2% |
-| DeMar DeRozan PRA over 34.5 (35+) | DEN @ PHX | draftkings | 25.00 | 23.70 | 17.61 | 5.7% | 3.7% | 4.2% | +5.6% | +41.9% | 0.1% |
+| Nikola Jokic AST over 15.5 (16+) | DEN @ PHX | draftkings | 13.80 | 13.02 | 9.61 | 10.4% | 6.8% | 7.7% | +6.0% | +43.6% | 0.1% |
+| DeMar DeRozan PTS over 24.5 (25+) | DEN @ PHX | draftkings | 17.20 | 16.31 | 12.17 | 8.2% | 5.4% | 6.1% | +5.4% | +41.3% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -33,20 +31,20 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| DeMar DeRozan AST over 6.5 (7+) | DEN @ PHX | draftkings | 19.00 | 17.04 | 11.44 | 8.7% | 4.9% | 5.9% | +11.6% | +66.0% | 0.2% |
-| DeMar DeRozan AST over 4.5 (5+) | DEN @ PHX | draftkings | 5.55 | 5.07 | 3.51 | 28.4% | 16.8% | 19.7% | +9.6% | +57.9% | 0.5% |
+| DeMar DeRozan AST over 6.5 (7+) | DEN @ PHX | draftkings | 19.00 | 16.98 | 11.38 | 8.8% | 4.9% | 5.9% | +11.8% | +67.0% | 0.2% |
+| DeMar DeRozan AST over 4.5 (5+) | DEN @ PHX | draftkings | 5.55 | 5.04 | 3.46 | 28.9% | 16.8% | 19.9% | +10.2% | +60.6% | 0.6% |
 | Yaxel Lendeborg REB over 12.5 (13+) | LAL @ GSW | draftkings | 14.40 | 13.64 | 10.15 | 9.8% | 6.5% | 7.3% | +5.5% | +41.8% | 0.1% |
-| Nikola Jokic AST over 16.5 (17+) | DEN @ PHX | draftkings | 19.60 | 18.59 | 13.87 | 7.2% | 4.8% | 5.4% | +5.4% | +41.3% | 0.1% |
-| Nikola Jokic AST over 14.5 (15+) | DEN @ PHX | draftkings | 9.40 | 8.93 | 6.69 | 15.0% | 9.9% | 11.2% | +5.2% | +40.6% | 0.2% |
+| Nikola Jokic AST over 14.5 (15+) | DEN @ PHX | draftkings | 9.40 | 8.94 | 6.71 | 14.9% | 9.9% | 11.2% | +5.1% | +40.0% | 0.1% |
 
-## Wait for news
+## Check news first
 
-These look good but hinge on a questionable player. The model's chance is shown both ways; the EV column weights them by how likely he is to play. Re-check once his status is confirmed (the sheet updates itself).
+The model and the no-vig market disagree by more than 15 points on these. That's usually late team news the model hasn't seen yet, so confirm before betting.
 
-| Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
-|---|--:|--:|--:|--:|--:|--:|--:|
-| Khaman Maluach PR under 15.5 | DEN @ PHX | draftkings | 1.94 | Oso Ighodaro | 72.0% | 77.0% | +6.4% |
-| Khaman Maluach REB under 7.5 | DEN @ PHX | draftkings | 2.01 | Oso Ighodaro | 67.7% | 74.2% | +5.8% |
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Khaman Maluach PR under 15.5 | DEN @ PHX | draftkings | 1.94 | 1.81 | 1.30 | 77.1% | 48.1% | 55.4% | +7.6% | +49.9% | 2.0% |
+| Khaman Maluach REB under 7.5 | DEN @ PHX | draftkings | 2.01 | 1.87 | 1.34 | 74.6% | 46.5% | 53.5% | +7.6% | +49.9% | 1.9% |
+| DeMar DeRozan AST over 3.5 (4+) | DEN @ PHX | draftkings | 3.04 | 2.89 | 2.17 | 46.1% | 30.7% | 34.6% | +5.1% | +40.2% | 0.6% |
 
 ## Projections
 
@@ -57,7 +55,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | LAL @ GSW | Sat 31 Oct 13:00 | 114.4–115.0 | LAL 49% | 2.04 / 1.96 | GSW +0.5 | 229.5 | GSW +3.5 covers 60%; o234.5 39% |
-| DEN @ PHX | Sat 31 Oct 13:00 | 115.3–113.2 | DEN 56% | 1.78 / 2.29 | PHX +2.5 | 228.5 | PHX +4.5 covers 56%; o231.5 43% |
+| DEN @ PHX | Sat 31 Oct 13:00 | 115.1–113.1 | DEN 56% | 1.80 / 2.26 | PHX +2.5 | 227.5 | PHX +4.5 covers 57%; o231.5 42% |
 
 ### LAL @ GSW
 Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW), Ziaire Williams (LAL)
@@ -115,38 +113,40 @@ Out: Drew Timme (PHX), Mark Williams (PHX), Julian Strawther (DEN)
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| DeMar DeRozan AST over 2.5 (3+) | DEN @ PHX | draftkings | 1.85 | 1.84 | 1.53 | 65.4% | 50.8% | 54.4% | +0.6% | +20.9% | 0.2% |
-| DeMar DeRozan PA over 15.5 (16+) | DEN @ PHX | draftkings | 1.98 | 1.98 | 1.67 | 59.9% | 47.4% | 50.5% | +0.1% | +18.6% | 0.0% |
+| Miles Bridges 3PM under 1.5 | DEN @ PHX | draftkings | 2.17 | 2.16 | 1.78 | 56.1% | 43.1% | 46.3% | +0.5% | +21.7% | 0.1% |
+| Miles Bridges PR under 21.5 | DEN @ PHX | draftkings | 1.97 | 1.96 | 1.63 | 61.4% | 47.4% | 50.9% | +0.3% | +21.0% | 0.1% |
+| Miles Bridges PRA under 24.5 | DEN @ PHX | draftkings | 1.93 | 1.93 | 1.60 | 62.5% | 48.3% | 51.9% | +0.3% | +21.0% | 0.1% |
+| DeMar DeRozan PA over 15.5 (16+) | DEN @ PHX | draftkings | 1.98 | 1.97 | 1.66 | 60.3% | 47.4% | 50.6% | +0.3% | +19.5% | 0.1% |
+| DeMar DeRozan PRA over 17.5 (18+) | DEN @ PHX | draftkings | 1.89 | 1.89 | 1.58 | 63.4% | 49.5% | 53.0% | +0.3% | +20.1% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 115.3–113.2 | DEN 56% | 1.78 / 2.29 | PHX +2.5 | 228.5 | PHX +4.5 covers 56%; o231.5 43% |
-| Expected (weighted by chance each plays) | 115.6–113.6 | DEN 55% | 1.82 / 2.22 | PHX +2.5 | 229.5 | PHX +4.5 covers 58%; o231.5 45% |
+| Confirmed players only | 115.1–113.1 | DEN 56% | 1.80 / 2.26 | PHX +2.5 | 227.5 | PHX +4.5 covers 57%; o231.5 42% |
+| Expected (weighted by chance each plays) | 115.3–113.5 | DEN 55% | 1.83 / 2.20 | PHX +2.5 | 228.5 | PHX +4.5 covers 58%; o231.5 44% |
 
 **Questionable players: chance to play, and their projection if they do**
 
 | Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Alpha Diallo (DEN) | Doubtful | 20% | 14.3 | 3.7 | 1.8 | 1.1 | 0.3 | 0.7 | 0.3 | 0.9 | 6.6 | small |
-| Oso Ighodaro (PHX) | Questionable | 55% | 17.0 | 5.4 | 4.4 | 2.1 | 0.0 | 0.6 | 0.6 | 0.8 | 11.8 | small |
-| Cameron Johnson (DEN) | Questionable | 55% | 20.1 | 8.2 | 2.8 | 1.6 | 1.1 | 0.6 | 0.3 | 0.8 | 12.6 | small |
+| Cameron Johnson (DEN) | Questionable | 55% | 19.9 | 8.1 | 2.8 | 1.5 | 1.1 | 0.6 | 0.3 | 0.8 | 12.4 | small |
+| Alpha Diallo (DEN) | Doubtful | 20% | 14.4 | 3.6 | 1.8 | 1.1 | 0.3 | 0.7 | 0.3 | 0.9 | 6.5 | small |
 
 <details><summary>DEN players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jamal Murray | 98% | 37.6<br><sub>37,43,36,38</sub> | 24.0<br><sub>6,42,19,23</sub> | 22.5 · – | 4.4<br><sub>10,3,6,1</sub> | 4.5 | 6.1<br><sub>3,6,8,6</sub> | 6.5 | 3.3<br><sub>0,8,3,5</sub> | 2.5 | 1.1 | 0.5 | 2.6 | 34.5 |
-| Nikola Jokic | 98% | 37.0<br><sub>35,44,35,34</sub> | 25.7<br><sub>13,35,19,21</sub> | 25.5 · – | 12.8<br><sub>7,15,7,13</sub> | 11.5 | 10.1<br><sub>5,10,11,10</sub> | 9.5 | 1.6<br><sub>1,3,1,0</sub> | 1.5 | 1.6 | 1.0 | 4.0 | 48.6 |
-| Christian Braun | 98% | 34.7<br><sub>33,40,34,36</sub> | 12.3<br><sub>7,15,9,15</sub> | 11.5 · – | 4.7<br><sub>6,8,4,0</sub> | 4.5 | 2.5<br><sub>1,2,2,4</sub> |  | 1.2<br><sub>1,0,1,3</sub> | 1.5 | 1.1 | 0.4 | 1.3 | 19.5 |
-| Aaron Gordon | 98% | 31.3<br><sub>29,37,25,31</sub> | 14.2<br><sub>20,7,7,15</sub> | 14.5 · – | 6.1<br><sub>6,5,4,11</sub> | 5.5 | 2.7<br><sub>1,4,2,3</sub> | 2.5 | 1.5<br><sub>3,1,0,2</sub> | 1.5 | 0.8 | 0.3 | 1.5 | 23.1 |
-| DeMar DeRozan | 98% | 28.2<br><sub>28,24,29,26</sub> | 15.0<br><sub>13,12,21,6</sub> | 12.5 · – | 2.7<br><sub>2,3,4,2</sub> | 2.5 | 3.5<br><sub>0,3,2,5</sub> | 2.5 | 0.6<br><sub>0,0,2,0</sub> | 0.5 | 0.9 | 0.3 | 1.8 | 21.2 |
+| Jamal Murray | 98% | 37.7<br><sub>37,43,36,38</sub> | 23.8<br><sub>6,42,19,23</sub> | 22.5 · – | 4.3<br><sub>10,3,6,1</sub> | 4.5 | 6.1<br><sub>3,6,8,6</sub> | 6.5 | 3.4<br><sub>0,8,3,5</sub> | 2.5 | 1.1 | 0.5 | 2.7 | 34.3 |
+| Nikola Jokic | 98% | 37.0<br><sub>35,44,35,34</sub> | 25.5<br><sub>13,35,19,21</sub> | 25.5 · – | 12.8<br><sub>7,15,7,13</sub> | 11.5 | 10.2<br><sub>5,10,11,10</sub> | 9.5 | 1.6<br><sub>1,3,1,0</sub> | 1.5 | 1.6 | 0.9 | 4.0 | 48.5 |
+| Christian Braun | 98% | 34.7<br><sub>33,40,34,36</sub> | 12.3<br><sub>7,15,9,15</sub> | 11.5 · – | 4.7<br><sub>6,8,4,0</sub> | 4.5 | 2.4<br><sub>1,2,2,4</sub> |  | 1.2<br><sub>1,0,1,3</sub> | 1.5 | 1.1 | 0.4 | 1.3 | 19.5 |
+| Aaron Gordon | 98% | 31.2<br><sub>29,37,25,31</sub> | 14.1<br><sub>20,7,7,15</sub> | 14.5 · – | 6.1<br><sub>6,5,4,11</sub> | 5.5 | 2.7<br><sub>1,4,2,3</sub> | 2.5 | 1.5<br><sub>3,1,0,2</sub> | 1.5 | 0.8 | 0.3 | 1.5 | 22.9 |
+| DeMar DeRozan | 98% | 28.1<br><sub>28,24,29,26</sub> | 14.9<br><sub>13,12,21,6</sub> | 12.5 · – | 2.7<br><sub>2,3,4,2</sub> | 2.5 | 3.5<br><sub>0,3,2,5</sub> | 2.5 | 0.6<br><sub>0,0,2,0</sub> | 0.5 | 0.9 | 0.3 | 1.8 | 21.2 |
 | Trevon Brazile | 93% | 25.9<br><sub>18,28,17,32</sub> | 8.7<br><sub>4,17,6,11</sub> | 6.5 · – | 6.3<br><sub>12,9,1,8</sub> | 5.5 | 1.1<br><sub>0,0,0,0</sub> |  | 1.1<br><sub>0,3,1,1</sub> |  | 0.8 | 0.5 | 1.3 | 16.1 |
-| Marvin Bagley III | 98% | 16.3<br><sub>11,9,11,19</sub> | 7.1<br><sub>2,5,7,8</sub> |  | 4.8<br><sub>3,4,2,5</sub> |  | 0.8<br><sub>1,0,0,1</sub> |  | 0.3<br><sub>0,0,0,0</sub> |  | 0.5 | 0.6 | 0.8 | 12.7 |
+| Marvin Bagley III | 98% | 16.3<br><sub>11,9,11,19</sub> | 7.0<br><sub>2,5,7,8</sub> |  | 4.8<br><sub>3,4,2,5</sub> |  | 0.9<br><sub>1,0,0,1</sub> |  | 0.3<br><sub>0,0,0,0</sub> |  | 0.5 | 0.5 | 0.8 | 12.7 |
 | Bryce Hopkins | 93% | 16.1<br><sub>2,19,31,14</sub> | 3.8<br><sub>0,2,13,0</sub> |  | 2.2<br><sub>1,2,3,2</sub> |  | 0.8<br><sub>0,1,1,0</sub> |  | 0.3<br><sub>0,0,1,0</sub> |  | 0.5 | 0.2 | 0.7 | 6.8 |
-| Tyus Jones | 88% | 11.7<br><sub>10,10,9,11</sub> | 3.1<br><sub>2,2,0,5</sub> |  | 1.1<br><sub>0,0,0,0</sub> |  | 1.5<br><sub>0,0,2,1</sub> |  | 0.3<br><sub>0,0,0,1</sub> |  | 0.6 | 0.1 | 0.5 | 5.7 |
+| Tyus Jones | 88% | 11.7<br><sub>10,10,9,11</sub> | 3.1<br><sub>2,2,0,5</sub> |  | 1.1<br><sub>0,0,0,0</sub> |  | 1.5<br><sub>0,0,2,1</sub> |  | 0.3<br><sub>0,0,0,1</sub> |  | 0.5 | 0.1 | 0.5 | 5.7 |
 | Cam Whitmore | 58% | 8.9<br><sub>-,11,4,-</sub> | 4.2<br><sub>-,4,4,-</sub> |  | 1.6<br><sub>-,2,0,-</sub> |  | 0.5<br><sub>-,0,1,-</sub> |  | 0.3<br><sub>-,0,0,-</sub> |  | 0.4 | 0.2 | 0.4 | 6.3 |
-| Zeke Nnaji | 47% | 8.5<br><sub>-,-,4,-</sub> | 2.8<br><sub>-,-,5,-</sub> |  | 1.8<br><sub>-,-,1,-</sub> |  | 0.4<br><sub>-,-,0,-</sub> |  | 0.1<br><sub>-,-,1,-</sub> |  | 0.3 | 0.4 | 0.4 | 5.0 |
-| Ryan Nembhard | 52% | 6.7<br><sub>2,-,4,-</sub> | 4.1<br><sub>5,-,4,-</sub> |  | 0.9<br><sub>1,-,0,-</sub> |  | 0.7<br><sub>1,-,1,-</sub> |  | 0.2<br><sub>1,-,0,-</sub> |  | 0.2 | 0.1 | 0.4 | 5.7 |
+| Zeke Nnaji | 47% | 8.6<br><sub>-,-,4,-</sub> | 2.8<br><sub>-,-,5,-</sub> |  | 1.8<br><sub>-,-,1,-</sub> |  | 0.4<br><sub>-,-,0,-</sub> |  | 0.1<br><sub>-,-,1,-</sub> |  | 0.3 | 0.4 | 0.4 | 5.0 |
+| Ryan Nembhard | 52% | 6.8<br><sub>2,-,4,-</sub> | 4.1<br><sub>5,-,4,-</sub> |  | 0.9<br><sub>1,-,0,-</sub> |  | 0.7<br><sub>1,-,1,-</sub> |  | 0.2<br><sub>1,-,0,-</sub> |  | 0.2 | 0.1 | 0.4 | 5.8 |
 | DaRon Holmes II | 52% | 6.6<br><sub>2,-,4,-</sub> | 2.7<br><sub>3,-,0,-</sub> |  | 1.3<br><sub>1,-,0,-</sub> |  | 0.4<br><sub>1,-,1,-</sub> |  | 0.3<br><sub>1,-,0,-</sub> |  | 0.2 | 0.2 | 0.3 | 4.4 |
 
 </details>
@@ -155,20 +155,21 @@ Out: Drew Timme (PHX), Mark Williams (PHX), Julian Strawther (DEN)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Devin Booker | 98% | 34.0<br><sub>29,36,34</sub> | 23.2<br><sub>23,43,3</sub> | 23.5 · – | 4.1<br><sub>4,7,2</sub> | 4.5 | 6.0<br><sub>2,7,7</sub> | 5.5 | 1.8<br><sub>0,2,0</sub> | 1.5 | 0.9 | 0.3 | 2.8 | 33.3 |
-| Dillon Brooks | 98% | 32.3<br><sub>27,34,33</sub> | 19.1<br><sub>10,15,19</sub> | 16.5 · – | 4.4<br><sub>4,2,5</sub> | 3.5 | 2.2<br><sub>0,5,5</sub> | 2.5 | 2.2<br><sub>1,1,3</sub> | 1.5 | 1.0 | 0.2 | 1.4 | 25.8 |
-| Miles Bridges | 98% | 30.9<br><sub>29,33,32</sub> | 15.3<br><sub>8,16,17</sub> | 15.5 · – | 6.2<br><sub>4,7,8</sub> | 6.5 | 2.8<br><sub>0,3,4</sub> | 2.5 | 1.6<br><sub>0,2,2</sub> | 1.5 | 0.8 | 0.4 | 1.2 | 24.4 |
-| Jalen Green | 96% | 29.5<br><sub>25,26,31</sub> | 16.0<br><sub>10,12,20</sub> | 15.5 · – | 4.2<br><sub>2,2,4</sub> | 3.5 | 3.1<br><sub>3,1,4</sub> | 3.5 | 2.0<br><sub>2,1,1</sub> | 2.5 | 1.0 | 0.3 | 1.9 | 23.4 |
-| Collin Gillespie | 98% | 24.9<br><sub>21,28,23</sub> | 9.5<br><sub>0,11,9</sub> | 8.5 · – | 3.5<br><sub>1,4,1</sub> | 2.5 | 3.8<br><sub>2,9,2</sub> | 3.5 | 1.7<br><sub>0,2,3</sub> | 2.5 | 1.1 | 0.2 | 1.2 | 16.8 |
-| Khaman Maluach | 96% | 20.4<br><sub>17,28,26</sub> | 6.3<br><sub>2,9,12</sub> | 7.5 · – | 6.3<br><sub>6,9,7</sub> | 7.5 | 0.7<br><sub>1,3,1</sub> |  | 0.3<br><sub>0,1,0</sub> |  | 0.4 | 1.1 | 1.1 | 13.4 |
-| Jordan Goodwin | 98% | 18.0<br><sub>22,20,17</sub> | 6.8<br><sub>3,9,12</sub> | 6.5 · – | 3.8<br><sub>4,2,4</sub> | 3.5 | 1.6<br><sub>0,4,2</sub> | 1.5 | 1.0<br><sub>1,1,4</sub> | 1.5 | 1.1 | 0.2 | 0.7 | 12.2 |
-| Luke Kennard | 97% | 17.4<br><sub>-,18,16</sub> | 6.5<br><sub>-,11,9</sub> |  | 2.2<br><sub>-,4,1</sub> |  | 1.6<br><sub>-,1,2</sub> |  | 0.8<br><sub>-,3,3</sub> |  | 0.6 | 0.1 | 0.6 | 10.3 |
-| Ryan Dunn | 93% | 14.3<br><sub>14,13,14</sub> | 4.5<br><sub>3,5,6</sub> |  | 3.2<br><sub>2,5,2</sub> |  | 0.9<br><sub>0,0,1</sub> |  | 0.4<br><sub>0,1,1</sub> |  | 0.6 | 0.3 | 0.4 | 8.7 |
-| Pat Spencer | 64% | 8.5<br><sub>7,-,-</sub> | 2.9<br><sub>3,-,-</sub> |  | 1.1<br><sub>3,-,-</sub> |  | 1.4<br><sub>1,-,-</sub> |  | 0.2<br><sub>1,-,-</sub> |  | 0.4 | 0.1 | 0.6 | 5.4 |
-| Rasheer Fleming | 67% | 7.9<br><sub>12,-,3</sub> | 2.9<br><sub>1,-,0</sub> |  | 1.5<br><sub>2,-,1</sub> |  | 0.3<br><sub>0,-,0</sub> |  | 0.3<br><sub>0,-,0</sub> |  | 0.3 | 0.2 | 0.3 | 4.7 |
-| Duop Reath | 88% | 7.7<br><sub>9,3,7</sub> | 2.8<br><sub>5,0,5</sub> |  | 1.6<br><sub>1,0,3</sub> |  | 0.4<br><sub>0,0,0</sub> |  | 0.3<br><sub>1,0,1</sub> |  | 0.2 | 0.2 | 0.3 | 4.7 |
-| Jamaree Bouyea | 67% | 6.5<br><sub>7,-,3</sub> | 2.6<br><sub>3,-,2</sub> |  | 0.9<br><sub>2,-,0</sub> |  | 1.0<br><sub>2,-,1</sub> |  | 0.1<br><sub>0,-,0</sub> |  | 0.3 | 0.1 | 0.4 | 4.5 |
-| Koa Peat | 64% | 6.5<br><sub>7,-,3</sub> | 2.4<br><sub>4,-,0</sub> |  | 1.5<br><sub>1,-,0</sub> |  | 0.4<br><sub>0,-,0</sub> |  | 0.1<br><sub>0,-,0</sub> |  | 0.2 | 0.2 | 0.4 | 4.3 |
+| Devin Booker | 98% | 32.4<br><sub>29,36,34</sub> | 22.2<br><sub>23,43,3</sub> | 23.5 · – | 4.0<br><sub>4,7,2</sub> | 4.5 | 5.7<br><sub>2,7,7</sub> | 5.5 | 1.7<br><sub>0,2,0</sub> | 1.5 | 0.9 | 0.3 | 2.6 | 31.9 |
+| Dillon Brooks | 98% | 30.5<br><sub>27,34,33</sub> | 18.1<br><sub>10,15,19</sub> | 16.5 · – | 4.1<br><sub>4,2,5</sub> | 3.5 | 2.1<br><sub>0,5,5</sub> | 2.5 | 2.1<br><sub>1,1,3</sub> | 1.5 | 0.9 | 0.2 | 1.4 | 24.2 |
+| Miles Bridges | 98% | 28.5<br><sub>29,33,32</sub> | 14.3<br><sub>8,16,17</sub> | 15.5 · – | 5.8<br><sub>4,7,8</sub> | 6.5 | 2.6<br><sub>0,3,4</sub> | 2.5 | 1.5<br><sub>0,2,2</sub> | 1.5 | 0.7 | 0.4 | 1.3 | 22.7 |
+| Jalen Green | 96% | 28.1<br><sub>25,26,31</sub> | 15.9<br><sub>10,12,20</sub> | 15.5 · – | 4.1<br><sub>2,2,4</sub> | 3.5 | 2.9<br><sub>3,1,4</sub> | 3.5 | 1.9<br><sub>2,1,1</sub> | 2.5 | 1.0 | 0.3 | 2.0 | 22.9 |
+| Collin Gillespie | 98% | 23.4<br><sub>21,28,23</sub> | 9.2<br><sub>0,11,9</sub> | 8.5 · – | 3.2<br><sub>1,4,1</sub> | 2.5 | 3.5<br><sub>2,9,2</sub> | 3.5 | 1.6<br><sub>0,2,3</sub> | 2.5 | 1.0 | 0.2 | 1.2 | 15.9 |
+| Khaman Maluach | 96% | 18.2<br><sub>17,28,26</sub> | 6.0<br><sub>2,9,12</sub> | 7.5 · – | 5.7<br><sub>6,9,7</sub> | 7.5 | 0.6<br><sub>1,3,1</sub> |  | 0.3<br><sub>0,1,0</sub> |  | 0.3 | 1.0 | 1.1 | 12.3 |
+| Jordan Goodwin | 98% | 17.0<br><sub>22,20,17</sub> | 6.6<br><sub>3,9,12</sub> | 6.5 · – | 3.4<br><sub>4,2,4</sub> | 3.5 | 1.5<br><sub>0,4,2</sub> | 1.5 | 0.9<br><sub>1,1,4</sub> | 1.5 | 1.1 | 0.2 | 0.7 | 11.5 |
+| Oso Ighodaro | 96% | 16.8<br><sub>15,-,-</sub> | 5.3<br><sub>8,-,-</sub> |  | 4.3<br><sub>3,-,-</sub> |  | 2.0<br><sub>3,-,-</sub> |  | 0.0<br><sub>0,-,-</sub> |  | 0.6 | 0.6 | 0.8 | 11.7 |
+| Luke Kennard | 97% | 16.4<br><sub>-,18,16</sub> | 6.5<br><sub>-,11,9</sub> |  | 2.1<br><sub>-,4,1</sub> |  | 1.5<br><sub>-,1,2</sub> |  | 0.8<br><sub>-,3,3</sub> |  | 0.6 | 0.1 | 0.6 | 10.1 |
+| Ryan Dunn | 93% | 11.5<br><sub>14,13,14</sub> | 3.8<br><sub>3,5,6</sub> |  | 2.6<br><sub>2,5,2</sub> |  | 0.8<br><sub>0,0,1</sub> |  | 0.3<br><sub>0,1,1</sub> |  | 0.5 | 0.3 | 0.4 | 7.2 |
+| Pat Spencer | 64% | 7.6<br><sub>7,-,-</sub> | 2.8<br><sub>3,-,-</sub> |  | 1.0<br><sub>3,-,-</sub> |  | 1.3<br><sub>1,-,-</sub> |  | 0.2<br><sub>1,-,-</sub> |  | 0.4 | 0.1 | 0.5 | 5.0 |
+| Duop Reath | 88% | 6.8<br><sub>9,3,7</sub> | 2.6<br><sub>5,0,5</sub> |  | 1.3<br><sub>1,0,3</sub> |  | 0.4<br><sub>0,0,0</sub> |  | 0.2<br><sub>1,0,1</sub> |  | 0.2 | 0.2 | 0.2 | 4.3 |
+| Rasheer Fleming | 67% | 6.6<br><sub>12,-,3</sub> | 2.5<br><sub>1,-,0</sub> |  | 1.2<br><sub>2,-,1</sub> |  | 0.2<br><sub>0,-,0</sub> |  | 0.2<br><sub>0,-,0</sub> |  | 0.3 | 0.2 | 0.3 | 4.0 |
+| Jamaree Bouyea | 67% | 6.3<br><sub>7,-,3</sub> | 2.7<br><sub>3,-,2</sub> |  | 0.9<br><sub>2,-,0</sub> |  | 0.9<br><sub>2,-,1</sub> |  | 0.1<br><sub>0,-,0</sub> |  | 0.3 | 0.1 | 0.4 | 4.5 |
+| Koa Peat | 64% | 5.9<br><sub>7,-,3</sub> | 2.4<br><sub>4,-,0</sub> |  | 1.4<br><sub>1,-,0</sub> |  | 0.4<br><sub>0,-,0</sub> |  | 0.1<br><sub>0,-,0</sub> |  | 0.2 | 0.2 | 0.3 | 4.2 |
 
 </details>
 
