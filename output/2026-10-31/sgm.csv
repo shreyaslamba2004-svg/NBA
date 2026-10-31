@@ -35,18 +35,18 @@ CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.796,0.6287,1.59,1.
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 15+ pts,2,0.7617,0.6026,1.66,1.74,1.58,-0.0493,0.998,1.50-1.65
 CLE @ MIL,Jarrett Allen reb under 9.5 + Donovan Mitchell 15+ pa,2,0.6157,0.5067,1.97,2.07,1.85,-0.0635,0.999,1.65-1.85
 CLE @ MIL,Myles Turner reb under 5.5 + Sam Merrill 5+ pa,2,0.6233,0.516,1.94,2.03,1.81,-0.0643,1.001,1.65-1.85
-MIN @ SAS,LaMelo Ball ra under 10.5 + SAS win,2,0.4584,0.4148,2.41,2.53,2.42,0.0022,1.026,2.10-2.50
-MIN @ SAS,LaMelo Ball ast under 6.5 + SAS win,2,0.5008,0.4553,2.2,2.31,2.2,0.0011,1.03,2.10-2.50
-MIN @ SAS,LaMelo Ball pra under 30.5 + SAS win,2,0.4568,0.4416,2.26,2.38,2.24,-0.0093,1.045,2.10-2.50
-MIN @ SAS,Dylan Harper 5+ reb + Bones Hyland 5+ pr,2,0.6013,0.4731,2.11,2.22,2.03,-0.0386,1.003,1.85-2.10
-MIN @ SAS,Dylan Harper 5+ reb + Devin Vassell 10+ pr,2,0.6186,0.493,2.03,2.13,1.94,-0.0415,1.004,1.85-2.10
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + SAS win,2,0.5229,0.4749,2.11,2.21,2.02,-0.0423,0.985,1.85-2.10
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + Devin Vassell 10+ pr,2,0.6543,0.5163,1.94,2.03,1.84,-0.0485,0.998,1.65-1.85
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + De'Aaron Fox 10+ pr,2,0.6789,0.5391,1.85,1.95,1.76,-0.0514,0.997,1.65-1.85
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + Jaden McDaniels 10+ pa,2,0.6582,0.5254,1.9,2.0,1.8,-0.0534,0.997,1.65-1.85
-MIN @ SAS,Devin Vassell 4+ reb + Jaden McDaniels 10+ pa,2,0.6487,0.5602,1.78,1.87,1.64,-0.0788,1.002,1.50-1.65
-MIN @ SAS,De'Aaron Fox 15+ pr + Ayo Dosunmu 1+ 3pm,2,0.6596,0.5858,1.71,1.79,1.56,-0.0887,1.001,1.50-1.65
-MIN @ SAS,Ayo Dosunmu 1+ 3pm + Devin Vassell 15+ pra,2,0.6754,0.6034,1.66,1.74,1.51,-0.0887,1.003,1.50-1.65
+MIN @ SAS,LaMelo Ball ra under 10.5 + SAS win,2,0.4637,0.4123,2.43,2.55,2.42,-0.0039,1.021,2.10-2.50
+MIN @ SAS,LaMelo Ball ast under 6.5 + SAS win,2,0.5059,0.4526,2.21,2.32,2.2,-0.0049,1.025,2.10-2.50
+MIN @ SAS,SAS win + LaMelo Ball pra under 30.5,2,0.4633,0.4413,2.27,2.38,2.24,-0.0101,1.046,2.10-2.50
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + Bones Hyland 5+ pr,2,0.685,0.5086,1.97,2.06,1.93,-0.0202,1.002,1.85-2.10
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + SAS win,2,0.5703,0.4852,2.06,2.16,2.02,-0.0215,0.986,1.85-2.10
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + Terrence Shannon Jr. 10+ pa,2,0.6271,0.4656,2.15,2.26,2.1,-0.0233,0.998,1.85-2.10
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 10+ pr,2,0.7347,0.5488,1.82,1.91,1.78,-0.0258,0.998,1.65-1.85
+MIN @ SAS,Devin Vassell 3pm under 2.5 + Stephon Castle 15+ pa,2,0.6291,0.5171,1.93,2.03,1.81,-0.064,0.999,1.65-1.85
+MIN @ SAS,Devin Vassell 3pm under 2.5 + Bones Hyland 5+ pr,2,0.641,0.5277,1.9,1.99,1.77,-0.0649,0.999,1.65-1.85
+MIN @ SAS,Devin Vassell 3pm under 2.5 + Stephon Castle 10+ pr,2,0.6907,0.5721,1.75,1.84,1.63,-0.0659,1.0,1.50-1.65
+MIN @ SAS,Terrence Shannon Jr. 10+ pa + Stephon Castle 4+ ast,2,0.7,0.6096,1.64,1.72,1.5,-0.0837,1.0,1.50-1.65
+MIN @ SAS,SAS win + Stephon Castle 15+ pa + Bones Hyland 5+ pr,3,0.6278,0.5749,1.74,1.83,1.57,-0.0966,1.008,1.50-1.65
 OKC @ HOU,Kevin Durant 9+ ra + Tari Eason 4+ reb,2,0.7042,0.4345,2.3,2.42,2.46,0.0673,1.001,2.10-2.50
 OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 10+ pts,2,0.6842,0.438,2.28,2.4,2.4,0.0533,1.002,2.10-2.50
 OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 15+ pra,2,0.741,0.4765,2.1,2.2,2.21,0.0509,1.002,2.10-2.50
