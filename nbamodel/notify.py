@@ -30,6 +30,8 @@ def _best(ed: pd.DataFrame) -> pd.DataFrame:
 
 def alert(day: date, out_dir: Path) -> int:
     topic = os.environ.get("NTFY_TOPIC", "").strip()
+    if topic:
+        ping_once()
     f = out_dir / "edges.csv"
     if not topic or not f.exists():
         return 0
