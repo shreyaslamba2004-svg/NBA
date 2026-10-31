@@ -1,6 +1,6 @@
 # NBA model · Sat 31 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 08:24 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 31 Oct, 08:54 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -41,12 +41,12 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Dylan Harper REB over 9.5 (10+) | MIN @ SAS | draftkings | 17.20 | 16.10 | 11.71 | 8.5% | 5.4% | 6.2% | +6.8% | +46.9% | 0.1% |
 | Darius Acuff Jr. REB over 7.5 (8+) | SAC @ MEM | draftkings | 14.40 | 13.51 | 9.86 | 10.1% | 6.5% | 7.4% | +6.6% | +46.0% | 0.1% |
 | Jrue Holiday PA over 29.5 (30+) | POR @ UTA | draftkings | 8.70 | 8.16 | 5.97 | 16.8% | 10.7% | 12.2% | +6.6% | +45.8% | 0.2% |
-| Jeremiah Fears AST over 5.5 (6+) | ATL @ NOP | draftkings | 6.54 | 6.14 | 4.49 | 22.3% | 14.3% | 16.3% | +6.5% | +45.7% | 0.3% |
+| Dejounte Murray AST over 11.5 (12+) | ATL @ NOP | draftkings | 18.60 | 17.45 | 12.77 | 7.8% | 5.0% | 5.7% | +6.5% | +45.7% | 0.1% |
 | Ryan Rollins AST over 7.5 (8+) | CLE @ MIL | draftkings | 8.30 | 7.80 | 5.71 | 17.5% | 11.3% | 12.8% | +6.5% | +45.4% | 0.2% |
 | Darius Acuff Jr. REB over 5.5 (6+) | SAC @ MEM | draftkings | 4.86 | 4.58 | 3.37 | 29.6% | 19.2% | 21.8% | +6.1% | +44.0% | 0.4% |
 | Dylan Harper REB over 7.5 (8+) | MIN @ SAS | draftkings | 6.36 | 6.00 | 4.43 | 22.6% | 14.7% | 16.7% | +6.0% | +43.7% | 0.3% |
-| Jeremiah Fears AST over 7.5 (8+) | ATL @ NOP | draftkings | 21.00 | 19.80 | 14.63 | 6.8% | 4.5% | 5.1% | +6.0% | +43.5% | 0.1% |
 | Domantas Sabonis 3PM over 0.5 (1+) | SAC @ MEM | draftkings | 6.25 | 5.91 | 4.57 | 21.9% | 15.2% | 16.9% | +5.7% | +36.9% | 0.3% |
+| Zach LaVine REB over 5.5 (6+) | SAC @ MEM | draftkings | 7.20 | 6.82 | 5.06 | 19.8% | 13.0% | 14.7% | +5.7% | +42.2% | 0.2% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -62,15 +62,14 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 | De'Andre Hunter REB over 8.5 (9+) | SAC @ MEM | draftkings | 12.40 | 11.11 | 7.47 | 13.4% | 7.5% | 9.0% | +11.6% | +66.0% | 0.2% |
 | Jabari Smith Jr. REB over 10.5 (11+) | OKC @ HOU | draftkings | 11.60 | 10.41 | 7.01 | 14.3% | 8.1% | 9.6% | +11.5% | +65.6% | 0.3% |
 | Cameron Boozer REB over 14.5 (15+) | SAC @ MEM | draftkings | 14.20 | 12.84 | 8.77 | 11.4% | 6.6% | 7.8% | +10.6% | +61.9% | 0.2% |
-| Jeremiah Fears AST over 6.5 (7+) | ATL @ NOP | draftkings | 11.80 | 10.83 | 7.59 | 13.2% | 7.9% | 9.2% | +8.9% | +55.4% | 0.2% |
 | Cameron Boozer REB over 12.5 (13+) | SAC @ MEM | draftkings | 6.86 | 6.32 | 4.46 | 22.4% | 13.6% | 15.8% | +8.5% | +53.7% | 0.4% |
 | Kingston Flemings AST over 4.5 (5+) | ATL @ NOP | draftkings | 4.25 | 3.93 | 2.79 | 35.8% | 22.0% | 25.4% | +8.2% | +52.2% | 0.6% |
 | De'Andre Hunter REB over 6.5 (7+) | SAC @ MEM | draftkings | 4.69 | 4.34 | 3.09 | 32.3% | 19.9% | 23.0% | +8.0% | +51.6% | 0.5% |
 | Darius Acuff Jr. REB over 6.5 (7+) | SAC @ MEM | draftkings | 8.40 | 7.78 | 5.54 | 18.0% | 11.1% | 12.8% | +8.0% | +51.5% | 0.3% |
 | Dylan Harper REB over 8.5 (9+) | MIN @ SAS | draftkings | 10.50 | 9.74 | 6.96 | 14.4% | 8.9% | 10.3% | +7.8% | +50.8% | 0.2% |
+| Dejounte Murray AST over 10.5 (11+) | ATL @ NOP | draftkings | 12.00 | 11.24 | 8.18 | 12.2% | 7.8% | 8.9% | +6.8% | +46.7% | 0.1% |
 | Ryan Rollins AST over 8.5 (9+) | CLE @ MIL | draftkings | 13.60 | 12.76 | 9.32 | 10.7% | 6.9% | 7.8% | +6.6% | +46.0% | 0.1% |
 | Trey Murphy III REB over 8.5 (9+) | ATL @ NOP | draftkings | 11.60 | 10.88 | 7.95 | 12.6% | 8.1% | 9.2% | +6.6% | +45.9% | 0.2% |
-| Dejounte Murray AST over 10.5 (11+) | ATL @ NOP | draftkings | 11.80 | 11.11 | 8.18 | 12.2% | 7.9% | 9.0% | +6.2% | +44.2% | 0.1% |
 | Jabari Smith Jr. REB over 12.5 (13+) | OKC @ HOU | draftkings | 26.00 | 24.75 | 18.58 | 5.4% | 3.6% | 4.0% | +5.1% | +40.0% | 0.1% |
 | Jrue Holiday AST over 6.5 (7+) | POR @ UTA | draftkings | 3.35 | 3.19 | 2.40 | 41.7% | 27.9% | 31.4% | +5.0% | +39.8% | 0.5% |
 | Kevin Durant REB over 10.5 (11+) | OKC @ HOU | draftkings | 19.80 | 18.87 | 14.17 | 7.1% | 4.7% | 5.3% | +5.0% | +39.7% | 0.1% |
@@ -343,9 +342,9 @@ Out: Yves Missi (NOP), Jordan Poole (NOP), Mouhamed Gueye (ATL)
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jeremiah Fears AST over 3.5 (4+) | ATL @ NOP | draftkings | 2.26 | 2.25 | 1.86 | 53.7% | 41.4% | 44.5% | +0.6% | +21.4% | 0.1% |
 | Zion Williamson PTS under 22.5 | ATL @ NOP | draftkings | 1.94 | 1.93 | 1.60 | 62.5% | 48.1% | 51.7% | +0.4% | +21.4% | 0.1% |
 | Jalen Johnson PRA under 41.5 | ATL @ NOP | draftkings | 1.92 | 1.91 | 1.58 | 63.2% | 48.7% | 52.4% | +0.4% | +21.2% | 0.1% |
+| Jeremiah Fears AST over 3.5 (4+) | ATL @ NOP | draftkings | 2.25 | 2.24 | 1.86 | 53.7% | 41.5% | 44.6% | +0.3% | +20.9% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -512,7 +511,6 @@ Out: Jaylon Tyson (CLE)
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kel'el Ware REB under 6.5 | CLE @ MIL | draftkings | 1.98 | 1.96 | 1.61 | 62.1% | 47.2% | 50.9% | +0.8% | +22.9% | 0.2% |
-| Jaime Jaquez Jr. PR under 21.5 | CLE @ MIL | draftkings | 1.88 | 1.87 | 1.55 | 64.3% | 49.8% | 53.4% | +0.3% | +20.8% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -536,7 +534,7 @@ Out: Jaylon Tyson (CLE)
 | Jarrett Allen | 98% | 30.1<br><sub>28,27,27,30,30</sub> | 14.3<br><sub>14,21,10,8,14</sub> | 14.5 · – | 9.0<br><sub>7,8,9,12,8</sub> | 9.5 | 1.7<br><sub>0,0,2,2,1</sub> |  | 0.1<br><sub>0,1,0,0,1</sub> |  | 1.2 | 1.3 | 1.2 | 25.0 |
 | Sam Merrill | 98% | 26.3<br><sub>24,21,31,20,27</sub> | 10.9<br><sub>5,7,9,8,16</sub> | 8.5 · – | 2.4<br><sub>5,2,4,1,2</sub> | 2.5 | 2.2<br><sub>2,3,2,1,3</sub> |  | 2.1<br><sub>1,1,1,2,4</sub> | 1.5 | 0.8 | 0.1 | 0.7 | 15.5 |
 | Tyrese Proctor | 71% | 17.7<br><sub>5,11,-,6,20</sub> | 7.3<br><sub>0,5,-,2,7</sub> |  | 2.4<br><sub>0,2,-,1,6</sub> |  | 2.4<br><sub>0,3,-,1,2</sub> |  | 1.0<br><sub>0,1,-,0,1</sub> |  | 0.8 | 0.1 | 1.0 | 12.1 |
-| Mario Hezonja | 96% | 17.6<br><sub>19,20,15,17,17</sub> | 6.7<br><sub>10,9,3,5,10</sub> | 7.5 · – | 3.4<br><sub>3,5,3,3,6</sub> | 3.5 | 1.4<br><sub>2,1,1,2,2</sub> |  | 0.8<br><sub>0,2,1,1,2</sub> | 1.5 | 0.6 | 0.3 | 0.7 | 11.5 |
+| Mario Hezonja | 96% | 17.6<br><sub>19,20,15,17,17</sub> | 6.7<br><sub>10,9,3,5,10</sub> | 8.5 · – | 3.4<br><sub>3,5,3,3,6</sub> | 3.5 | 1.4<br><sub>2,1,1,2,2</sub> |  | 0.8<br><sub>0,2,1,1,2</sub> | 1.5 | 0.6 | 0.3 | 0.7 | 11.5 |
 | Thomas Bryant | 25% | 11.1<br><sub>-,-,-,-,-</sub> | 5.0<br><sub>-,-,-,-,-</sub> |  | 3.1<br><sub>-,-,-,-,-</sub> |  | 0.5<br><sub>-,-,-,-,-</sub> |  | 0.5<br><sub>-,-,-,-,-</sub> |  | 0.3 | 0.3 | 0.4 | 8.6 |
 | Craig Porter Jr. | 58% | 11.0<br><sub>8,5,-,-,4</sub> | 2.9<br><sub>0,3,-,-,0</sub> |  | 2.1<br><sub>3,1,-,-,1</sub> |  | 1.7<br><sub>0,1,-,-,0</sub> |  | 0.2<br><sub>0,1,-,-,0</sub> |  | 0.6 | 0.3 | 0.7 | 6.7 |
 | Ernest Udeh Jr. | 35% | 8.6<br><sub>-,-,-,-,-</sub> | 3.6<br><sub>-,-,-,-,-</sub> |  | 1.5<br><sub>-,-,-,-,-</sub> |  | 0.8<br><sub>-,-,-,-,-</sub> |  | 0.2<br><sub>-,-,-,-,-</sub> |  | 0.3 | 0.2 | 0.4 | 5.9 |
@@ -557,7 +555,7 @@ Out: Jaylon Tyson (CLE)
 | Kasparas Jakucionis | 88% | 19.3<br><sub>26,23,25,21,19</sub> | 6.6<br><sub>15,7,12,7,4</sub> | 7.5 · – | 2.4<br><sub>3,2,3,4,2</sub> | 2.5 | 3.4<br><sub>3,5,2,5,6</sub> | 3.5 | 0.6<br><sub>1,1,0,1,0</sub> | 0.5 | 0.7 | 0.2 | 1.5 | 12.4 |
 | AJ Green | 98% | 18.7<br><sub>15,17,19,20,24</sub> | 7.0<br><sub>6,11,11,3,9</sub> | 6.5 · – | 1.9<br><sub>0,1,3,4,1</sub> |  | 1.2<br><sub>1,0,0,3,2</sub> |  | 1.2<br><sub>2,3,3,1,3</sub> | 1.5 | 0.4 | 0.1 | 0.5 | 10.2 |
 | Cormac Ryan | 26% | 17.6 | 8.8 |  | 2.1 |  | 1.2 |  | 1.2 |  | 0.7 | 0.2 | 1.1 | 12.1 |
-| Kel'el Ware | 88% | 17.3<br><sub>14,15,29,19,17</sub> | 8.8<br><sub>7,11,19,16,6</sub> | 9.5 · – | 5.8<br><sub>3,4,13,14,8</sub> | 6.5 | 0.7<br><sub>1,0,1,0,0</sub> |  | 0.8<br><sub>0,1,2,0,0</sub> |  | 0.6 | 0.4 | 1.1 | 15.3 |
+| Kel'el Ware | 88% | 17.3<br><sub>14,15,29,19,17</sub> | 8.8<br><sub>7,11,19,16,6</sub> | 10.5 · – | 5.8<br><sub>3,4,13,14,8</sub> | 6.5 | 0.7<br><sub>1,0,1,0,0</sub> |  | 0.8<br><sub>0,1,2,0,0</sub> |  | 0.6 | 0.4 | 1.1 | 15.3 |
 | Brayden Burries | 96% | 13.5<br><sub>16,8,17,16,17</sub> | 6.0<br><sub>12,3,10,4,10</sub> |  | 2.7<br><sub>5,1,5,2,5</sub> |  | 1.4<br><sub>0,3,2,1,1</sub> |  | 0.5<br><sub>2,1,1,0,0</sub> |  | 0.5 | 0.1 | 0.8 | 10.1 |
 | Ousmane Dieng | 83% | 12.4<br><sub>21,16,-,3,13</sub> | 4.8<br><sub>5,3,-,0,4</sub> |  | 2.0<br><sub>4,1,-,0,0</sub> |  | 1.6<br><sub>3,1,-,0,0</sub> |  | 0.4<br><sub>1,0,-,0,0</sub> |  | 0.4 | 0.2 | 0.8 | 8.3 |
 | Nate Ament | 67% | 11.8<br><sub>-,-,11,14,20</sub> | 5.0<br><sub>-,-,1,7,8</sub> |  | 2.5<br><sub>-,-,3,3,4</sub> |  | 0.5<br><sub>-,-,0,0,0</sub> |  | 0.4<br><sub>-,-,0,1,1</sub> |  | 0.5 | 0.2 | 0.7 | 8.0 |
@@ -661,7 +659,7 @@ Out: Steven Adams (HOU), Alex Caruso (OKC), Chet Holmgren (OKC), Cason Wallace (
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Amen Thompson | 98% | 37.4<br><sub>33,36,39,28,33</sub> | 19.2<br><sub>16,20,17,15,23</sub> | 16.5 · – | 8.0<br><sub>10,10,11,5,4</sub> | 7.5 | 5.7<br><sub>4,4,6,2,3</sub> | 4.5 | 0.4<br><sub>1,1,0,0,0</sub> |  | 1.6 | 0.7 | 2.9 | 32.9 |
 | Kevin Durant | 98% | 37.0<br><sub>37,37,37,30,31</sub> | 25.4<br><sub>30,20,22,22,18</sub> | 23.5 · – | 6.6<br><sub>6,7,4,9,5</sub> | 5.5 | 5.4<br><sub>3,6,2,3,4</sub> | 2.5 | 2.3<br><sub>2,2,3,1,2</sub> | 1.5 | 0.9 | 1.1 | 3.8 | 37.5 |
-| Jabari Smith Jr. | 98% | 37.0<br><sub>36,34,33,39,30</sub> | 16.9<br><sub>30,7,14,16,14</sub> | 15.5 · – | 7.7<br><sub>5,5,5,12,2</sub> | 5.5 | 2.3<br><sub>1,1,3,5,2</sub> |  | 2.6<br><sub>4,1,2,2,3</sub> | 1.5 | 0.8 | 0.9 | 1.8 | 26.9 |
+| Jabari Smith Jr. | 98% | 37.0<br><sub>36,34,33,39,30</sub> | 16.9<br><sub>30,7,14,16,14</sub> | 14.5 · – | 7.7<br><sub>5,5,5,12,2</sub> | 5.5 | 2.3<br><sub>1,1,3,5,2</sub> |  | 2.6<br><sub>4,1,2,2,3</sub> | 1.5 | 0.8 | 0.9 | 1.8 | 26.9 |
 | Fred VanVleet | 98% | 34.7<br><sub>30,32,-,29,29</sub> | 14.5<br><sub>6,14,-,5,24</sub> |  | 3.9<br><sub>2,3,-,4,6</sub> |  | 5.8<br><sub>11,5,-,5,5</sub> |  | 2.5<br><sub>2,3,-,0,4</sub> |  | 1.4 | 0.4 | 1.9 | 24.2 |
 | Tari Eason | 98% | 31.0<br><sub>3,27,31,33,31</sub> | 12.9<br><sub>2,12,19,13,5</sub> |  | 7.3<br><sub>1,6,3,8,9</sub> |  | 1.7<br><sub>0,0,0,2,1</sub> |  | 1.4<br><sub>0,0,0,1,1</sub> |  | 1.5 | 0.8 | 1.7 | 21.9 |
 | Marcus Smart | 52% | 26.2<br><sub>26,21,-,-,-</sub> | 9.3<br><sub>10,5,-,-,-</sub> |  | 2.9<br><sub>2,3,-,-,-</sub> |  | 2.8<br><sub>2,1,-,-,-</sub> |  | 1.3<br><sub>2,0,-,-,-</sub> |  | 1.4 | 0.4 | 2.0 | 15.0 |
@@ -682,7 +680,7 @@ Out: Steven Adams (HOU), Alex Caruso (OKC), Chet Holmgren (OKC), Cason Wallace (
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Amen Thompson (HOU) | 98% | 36.3<br><sub>33,36,39,28,33</sub> | 17.7<br><sub>16,20,17,15,23</sub> | 16.5 · – | 7.5<br><sub>10,10,11,5,4</sub> | 7.5 | 4.9<br><sub>4,4,6,2,3</sub> | 4.5 | 0.4<br><sub>1,1,0,0,0</sub> |  | 1.5 | 0.7 | 2.5 | 30.1 |
 | Kevin Durant (HOU) | 98% | 36.1<br><sub>37,37,37,30,31</sub> | 22.0<br><sub>30,20,22,22,18</sub> | 23.5 · – | 6.2<br><sub>6,7,4,9,5</sub> | 5.5 | 4.6<br><sub>3,6,2,3,4</sub> | 2.5 | 2.0<br><sub>2,2,3,1,2</sub> | 1.5 | 0.8 | 1.1 | 3.5 | 32.8 |
-| Jabari Smith Jr. (HOU) | 98% | 35.6<br><sub>36,34,33,39,30</sub> | 15.1<br><sub>30,7,14,16,14</sub> | 15.5 · – | 7.3<br><sub>5,5,5,12,2</sub> | 5.5 | 1.9<br><sub>1,1,3,5,2</sub> |  | 2.4<br><sub>4,1,2,2,3</sub> | 1.5 | 0.8 | 0.9 | 1.6 | 24.2 |
+| Jabari Smith Jr. (HOU) | 98% | 35.6<br><sub>36,34,33,39,30</sub> | 15.1<br><sub>30,7,14,16,14</sub> | 14.5 · – | 7.3<br><sub>5,5,5,12,2</sub> | 5.5 | 1.9<br><sub>1,1,3,5,2</sub> |  | 2.4<br><sub>4,1,2,2,3</sub> | 1.5 | 0.8 | 0.9 | 1.6 | 24.2 |
 | Alperen Sengun (HOU) | 100% | 35.3<br><sub>30,36,33,37,-</sub> | 19.5<br><sub>23,29,17,29,-</sub> | 19.5 · – | 10.0<br><sub>10,7,10,9,-</sub> | 8.5 | 5.7<br><sub>5,7,7,9,-</sub> | 5.5 | 0.7<br><sub>2,2,1,1,-</sub> |  | 1.2 | 1.0 | 3.6 | 35.2 |
 | Fred VanVleet (HOU) | 98% | 32.2<br><sub>30,32,-,29,29</sub> | 12.8<br><sub>6,14,-,5,24</sub> |  | 3.5<br><sub>2,3,-,4,6</sub> |  | 5.0<br><sub>11,5,-,5,5</sub> |  | 2.2<br><sub>2,3,-,0,4</sub> |  | 1.3 | 0.4 | 1.7 | 21.3 |
 | Tari Eason (HOU) | 98% | 26.3<br><sub>3,27,31,33,31</sub> | 10.6<br><sub>2,12,19,13,5</sub> |  | 6.2<br><sub>1,6,3,8,9</sub> |  | 1.3<br><sub>0,0,0,2,1</sub> |  | 1.1<br><sub>0,0,0,1,1</sub> |  | 1.3 | 0.7 | 1.3 | 18.0 |
@@ -715,7 +713,7 @@ Out: Steven Adams (HOU), Alex Caruso (OKC), Chet Holmgren (OKC), Cason Wallace (
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Amen Thompson (HOU) | 98% | 36.6<br><sub>33,36,39,28,33</sub> | 18.4<br><sub>16,20,17,15,23</sub> | 16.5 · – | 7.8<br><sub>10,10,11,5,4</sub> | 7.5 | 4.8<br><sub>4,4,6,2,3</sub> | 4.5 | 0.4<br><sub>1,1,0,0,0</sub> |  | 1.6 | 0.7 | 2.6 | 31.0 |
-| Jabari Smith Jr. (HOU) | 98% | 36.3<br><sub>36,34,33,39,30</sub> | 16.0<br><sub>30,7,14,16,14</sub> | 15.5 · – | 7.5<br><sub>5,5,5,12,2</sub> | 5.5 | 2.0<br><sub>1,1,3,5,2</sub> |  | 2.5<br><sub>4,1,2,2,3</sub> | 1.5 | 0.8 | 0.9 | 1.6 | 25.5 |
+| Jabari Smith Jr. (HOU) | 98% | 36.3<br><sub>36,34,33,39,30</sub> | 16.0<br><sub>30,7,14,16,14</sub> | 14.5 · – | 7.5<br><sub>5,5,5,12,2</sub> | 5.5 | 2.0<br><sub>1,1,3,5,2</sub> |  | 2.5<br><sub>4,1,2,2,3</sub> | 1.5 | 0.8 | 0.9 | 1.6 | 25.5 |
 | Kevin Durant (HOU) | 98% | 36.1<br><sub>37,37,37,30,31</sub> | 22.8<br><sub>30,20,22,22,18</sub> | 23.5 · – | 6.3<br><sub>6,7,4,9,5</sub> | 5.5 | 4.9<br><sub>3,6,2,3,4</sub> | 2.5 | 2.2<br><sub>2,2,3,1,2</sub> | 1.5 | 0.8 | 1.1 | 3.7 | 34.0 |
 | Fred VanVleet (HOU) | 98% | 32.7<br><sub>30,32,-,29,29</sub> | 13.4<br><sub>6,14,-,5,24</sub> |  | 3.6<br><sub>2,3,-,4,6</sub> |  | 5.0<br><sub>11,5,-,5,5</sub> |  | 2.3<br><sub>2,3,-,0,4</sub> |  | 1.3 | 0.4 | 1.7 | 22.1 |
 | Tari Eason (HOU) | 98% | 27.9<br><sub>3,27,31,33,31</sub> | 11.6<br><sub>2,12,19,13,5</sub> |  | 6.6<br><sub>1,6,3,8,9</sub> |  | 1.4<br><sub>0,0,0,2,1</sub> |  | 1.2<br><sub>0,0,0,1,1</sub> |  | 1.3 | 0.7 | 1.4 | 19.6 |
