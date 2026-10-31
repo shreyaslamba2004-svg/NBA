@@ -46,18 +46,18 @@ SAC @ MEM,MEM win + Cameron Boozer 4+ ast + Zach Edey 5+ pa,3,0.5524,0.5064,1.97
 SAC @ MEM,MEM win + Cameron Boozer 4+ ast + Domantas Sabonis 8+ reb,3,0.5622,0.5178,1.93,2.03,1.75,-0.0951,1.014,1.65-1.85
 SAC @ MEM,Precious Achiuwa 10+ pa + Domantas Sabonis 10+ pts + De'Andre Hunter 10+ pr,3,0.744,0.5702,1.75,1.84,1.58,-0.0994,1.004,1.50-1.65
 SAC @ MEM,MEM win + Precious Achiuwa 4+ reb + Zach Edey 5+ pa,3,0.6314,0.5901,1.69,1.78,1.52,-0.1057,1.008,1.50-1.65
+CLE @ MIL,Kyle Kuzma reb under 5.5 + Sam Merrill 5+ pr,2,0.6099,0.4675,2.14,2.25,2.06,-0.0347,0.999,1.85-2.10
 CLE @ MIL,Kyle Kuzma reb under 5.5 + Donovan Mitchell 1+ 3pm,2,0.6027,0.4612,2.17,2.28,2.09,-0.0348,0.998,1.85-2.10
 CLE @ MIL,Kyle Kuzma reb under 5.5 + Donovan Mitchell 15+ pr,2,0.6177,0.4728,2.12,2.22,2.04,-0.0349,0.998,1.85-2.10
 CLE @ MIL,Kyle Kuzma reb under 5.5 + James Harden 10+ pts,2,0.5923,0.4561,2.19,2.3,2.12,-0.035,1.0,2.10-2.50
 CLE @ MIL,Kyle Kuzma reb under 5.5 + James Harden 1+ 3pm,2,0.596,0.4577,2.19,2.29,2.11,-0.0354,0.999,2.10-2.50
 CLE @ MIL,Kyle Kuzma reb under 5.5 + Donovan Mitchell 15+ pts,2,0.5742,0.4394,2.28,2.39,2.19,-0.0355,0.998,2.10-2.50
-CLE @ MIL,Kyle Kuzma reb under 5.5 + Sam Merrill 5+ pa,2,0.6042,0.4626,2.16,2.27,2.08,-0.036,0.997,1.85-2.10
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pr,2,0.788,0.6298,1.59,1.67,1.51,-0.0508,1.0,1.50-1.65
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.7815,0.6238,1.6,1.68,1.52,-0.0511,1.0,1.50-1.65
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 1+ 3pm,2,0.7778,0.6205,1.61,1.69,1.53,-0.0522,0.998,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + James Harden 1+ 3pm,2,0.7693,0.6159,1.62,1.7,1.54,-0.0525,0.999,1.50-1.65
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 15+ pts + Sam Merrill 5+ pr,3,0.707,0.5373,1.86,1.95,1.68,-0.0983,0.999,1.65-1.85
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 15+ pts + Sam Merrill 5+ pa,3,0.7013,0.5322,1.88,1.97,1.69,-0.0983,0.999,1.65-1.85
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa + Donovan Mitchell 20+ pr,3,0.684,0.5215,1.92,2.01,1.72,-0.1008,0.998,1.65-1.85
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 15+ pts + James Harden 1+ 3pm,3,0.6894,0.5248,1.91,2.0,1.71,-0.1009,0.997,1.65-1.85
 MIN @ SAS,Ayo Dosunmu pra under 23.5 + SAS win,2,0.5016,0.4403,2.27,2.38,2.31,0.0182,1.038,2.10-2.50
 MIN @ SAS,Ayo Dosunmu pr under 19.5 + SAS win,2,0.5005,0.4369,2.29,2.4,2.32,0.0151,1.032,2.10-2.50
 MIN @ SAS,LaMelo Ball pra under 30.5 + SAS win,2,0.4941,0.4412,2.27,2.38,2.29,0.0112,1.038,2.10-2.50
