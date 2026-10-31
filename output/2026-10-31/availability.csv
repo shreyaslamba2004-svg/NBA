@@ -1,72 +1,72 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909899,MEM,905041935,Cameron Boozer,,,1.0,,,
+401909899,MEM,905041935,Cameron Boozer,Starting,,1.0,,,1.0
 401909899,MEM,905105817,Carson Cooper,,,1.0,,,
-401909899,MEM,1642907,Cedric Coward,,,1.0,,,
-401909899,MEM,1641744,Zach Edey,,,1.0,,,
+401909899,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
+401909899,MEM,1641744,Zach Edey,Starting,,1.0,,,1.0
 401909899,MEM,203924,Jerami Grant,,,1.0,,,
 401909899,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401909899,MEM,1641713,GG Jackson,,,1.0,,,
-401909899,MEM,1629660,Ty Jerome,Out,Injury/Illness-UpperBackSoreness,0.0,Jerome (back) is listed as questionable for Saturday's game against the Kings.,,
+401909899,MEM,1629660,Ty Jerome,Out,Injury/Illness-UpperBackSoreness,0.0,"Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian.",,
 401909899,MEM,905231919,Karim Lopez,,,1.0,,,
 401909899,MEM,1642942,Jahmai Mashack,,,1.0,,,
 401909899,MEM,1631200,Kris Murray,,,1.0,,,
-401909899,MEM,1630590,Scotty Pippen Jr.,Out,Injury/Illness-LowBackSoreness,0.0,Pippen (back) is listed as questionable for Saturday's game against the Kings.,,
-401909899,MEM,904593016,Quinten Post,Out,Injury/Illness-RightAnkleSprain,0.0,Post (ankle) is doubtful for Friday's game against the Kings.,,
+401909899,MEM,1630590,Scotty Pippen Jr.,Out,Injury/Illness-LowBackSoreness,0.0,"Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports.",,
+401909899,MEM,904593016,Quinten Post,Out,Injury/Illness-RightAnkleSprain,0.0,"Post (ankle) has been ruled out for Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports.",,
 401909899,MEM,1641765,Olivier-Maxence Prosper,,,1.0,,,
 401909899,MEM,1642914,Javon Small,,,1.0,,,
-401909899,MEM,1642285,Cam Spencer,,,1.0,,,
+401909899,MEM,1642285,Cam Spencer,Starting,,1.0,,,1.0
 401909899,MEM,1630191,Isaiah Stewart,,,1.0,,,
-401909899,MEM,1642377,Jaylen Wells,,,1.0,,,
-401909899,SAC,1630173,Precious Achiuwa,,,1.0,,,
-401909899,SAC,905142620,Darius Acuff Jr.,,,1.0,,,
+401909899,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
+401909899,SAC,1630173,Precious Achiuwa,Starting,,1.0,,,1.0
+401909899,SAC,905142620,Darius Acuff Jr.,Starting,,1.0,,,1.0
 401909899,SAC,1641778,Leaky Black,,,1.0,,,
 401909899,SAC,1642928,Dylan Cardwell,Out,Injury/Illness-LeftCalfStrain,0.0,"Cardwell (calf) will be re-evaluated in one week, Brenden Nunes of KHTK Sactown Sports 1140 reports.",,
 401909899,SAC,1642363,Nique Clifford,,,1.0,,,
-401909899,SAC,1629631,De'Andre Hunter,,,1.0,,,
+401909899,SAC,1629631,De'Andre Hunter,Starting,,1.0,,,1.0
 401909899,SAC,904917149,Alex Karaban,,,1.0,,,
-401909899,SAC,203897,Zach LaVine,,,1.0,,,
+401909899,SAC,203897,Zach LaVine,Starting,,1.0,,,1.0
 401909899,SAC,905107897,Jonathan Mogbo,,,1.0,,,
 401909899,SAC,1628370,Malik Monk,,,1.0,,,
 401909899,SAC,1631099,Keegan Murray,Out,Injury/Illness-LeftAnkleCapsulitis,0.0,"Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports.",,
 401909899,SAC,904709131,Sean Pedulla,Out,GLeague-Two-Way,0.0,,,
 401909899,SAC,1631342,Daeqwon Plowden,,,1.0,,,
 401909899,SAC,1642875,Maxime Raynaud,Out,,0.0,"Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",,
-401909899,SAC,1627734,Domantas Sabonis,,,1.0,,,
+401909899,SAC,1627734,Domantas Sabonis,Starting,,1.0,,,1.0
 401909899,SAC,905106058,Emanuel Sharp,,,1.0,,,
 401909899,SAC,1627732,Ben Simmons,Out,,0.0,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",,
 401909900,MIL,905164559,Nate Ament,Active,,1.0,,,
 401909900,MIL,905082206,Brayden Burries,Active,,1.0,,,
 401909900,MIL,1631172,Ousmane Dieng,Active,,1.0,,,
 401909900,MIL,1631260,AJ Green,Active,,1.0,,,
-401909900,MIL,1629639,Tyler Herro,Active,,1.0,,,
+401909900,MIL,1629639,Tyler Herro,Starting,,1.0,,,1.0
 401909900,MIL,905214640,Kasparas Jakucionis,Active,,1.0,,,
-401909900,MIL,1631170,Jaime Jaquez Jr.,Active,,1.0,,,
+401909900,MIL,1631170,Jaime Jaquez Jr.,Starting,,1.0,,,1.0
 401909900,MIL,1642880,Kam Jones,Active,,1.0,,,
-401909900,MIL,1628398,Kyle Kuzma,Active,,1.0,,,
+401909900,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
 401909900,MIL,1627747,Caris LeVert,Active,,1.0,,,
 401909900,MIL,905214989,Bogoljub Markovic,Active,,1.0,,,
 401909900,MIL,1631250,Pete Nance,Active,,1.0,,,
-401909900,MIL,1631157,Ryan Rollins,Active,,1.0,,,
+401909900,MIL,1631157,Ryan Rollins,Starting,,1.0,,,1.0
 401909900,MIL,1642504,Cormac Ryan,Active,,1.0,,,
 401909900,MIL,1630579,Jericho Sims,Active,,1.0,,,
 401909900,MIL,1629018,Gary Trent Jr.,Active,,1.0,,,
-401909900,MIL,1626167,Myles Turner,Active,,1.0,,,
+401909900,MIL,1626167,Myles Turner,Starting,,1.0,,,1.0
 401909900,MIL,905105623,Kel'el Ware,Active,,1.0,,,
-401909900,CLE,1628386,Jarrett Allen,,,1.0,,,
+401909900,CLE,1628386,Jarrett Allen,Starting,,1.0,,,1.0
 401909900,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909900,CLE,1642400,Tristan Enaruna,,,1.0,,,
-401909900,CLE,201935,James Harden,,,1.0,,,
+401909900,CLE,201935,James Harden,Starting,,1.0,,,1.0
 401909900,CLE,1626209,Mario Hezonja,,,1.0,,,
 401909900,CLE,1630241,Sam Merrill,,,1.0,,,
 401909900,CLE,1642434,Riley Minix,,,1.0,,,
-401909900,CLE,1628378,Donovan Mitchell,,,1.0,,,
-401909900,CLE,1630596,Evan Mobley,,,1.0,,,
+401909900,CLE,1628378,Donovan Mitchell,Starting,,1.0,,,1.0
+401909900,CLE,1630596,Evan Mobley,Starting,,1.0,,,1.0
 401909900,CLE,1641854,Craig Porter Jr.,,,1.0,,,
 401909900,CLE,1642878,Tyrese Proctor,,,1.0,,,
 401909900,CLE,905041951,Meleek Thomas,Available,,1.0,Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.,,
 401909900,CLE,1642281,Jaylon Tyson,Out,Injury/Illness-RightAnkleSprain,0.0,Tyson (ankle) has been ruled out for Saturday's game against the Bucks.,,
 401909900,CLE,905106261,Ernest Udeh Jr.,,,1.0,,,
-401909900,CLE,1631212,Peyton Watson,,,1.0,,,
+401909900,CLE,1631212,Peyton Watson,Starting,,1.0,,,1.0
 401909901,SAS,203084,Harrison Barnes,,,1.0,,,
 401909901,SAS,905105337,Maliq Brown,,,1.0,,,
 401909901,SAS,1642868,Carter Bryant,,,1.0,,,
