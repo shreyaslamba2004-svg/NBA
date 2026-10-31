@@ -11,14 +11,13 @@ POR @ UTA,Jaxson Hayes 4+ reb + Damian Lillard 4+ ast + Donovan Clingan 1+ blk,3
 POR @ UTA,Jaxson Hayes 10+ pr + Damian Lillard 4+ ast + Donovan Clingan 1+ blk,3,0.6652,0.5184,1.93,2.03,1.73,-0.1055,1.003,1.65-1.85
 POR @ UTA,Jaxson Hayes 4+ reb + Donovan Clingan 1+ blk + Jrue Holiday 15+ pa,3,0.64,0.5072,1.97,2.07,1.76,-0.1092,1.005,1.65-1.85
 POR @ UTA,Jaxson Hayes 10+ pra + Damian Lillard 4+ ast + Donovan Clingan 1+ blk,3,0.698,0.556,1.8,1.89,1.6,-0.1128,1.004,1.50-1.65
-PHI @ CHA,Tyrese Maxey pa under 34.5 + Sion James 5+ pr,2,0.6641,0.4767,2.1,2.2,2.08,-0.0066,0.999,1.85-2.10
-PHI @ CHA,Tyrese Maxey pts under 28.5 + Sion James 5+ pr,2,0.6549,0.4717,2.12,2.23,2.1,-0.0082,0.999,2.10-2.50
-PHI @ CHA,Tyrese Maxey pra under 39.5 + Sion James 5+ pr,2,0.6817,0.4956,2.02,2.12,1.99,-0.0133,0.998,1.85-2.10
-PHI @ CHA,Tyrese Maxey pa under 34.5 + Moussa Diabate 5+ pa,2,0.6634,0.4896,2.04,2.14,2.01,-0.0161,0.999,1.85-2.10
-PHI @ CHA,Tyrese Maxey pts under 28.5 + Sion James 5+ pa,2,0.6252,0.4648,2.15,2.26,2.11,-0.0175,1.001,2.10-2.50
-PHI @ CHA,Tyrese Maxey pa under 34.5 + Sion James 10+ pra,2,0.548,0.4103,2.44,2.56,2.38,-0.0233,0.997,2.10-2.50
-PHI @ CHA,Tyrese Maxey ra under 10.5 + Moussa Diabate 5+ pa,2,0.6232,0.5118,1.95,2.05,1.83,-0.0614,0.999,1.65-1.85
-PHI @ CHA,Tyrese Maxey ra under 10.5 + Moussa Diabate 10+ pr,2,0.6278,0.5194,1.93,2.02,1.8,-0.0653,0.997,1.65-1.85
+PHI @ CHA,Tyrese Maxey pa under 34.5 + Sion James 5+ pr,2,0.6641,0.4771,2.1,2.2,2.08,-0.0069,0.999,1.85-2.10
+PHI @ CHA,Tyrese Maxey pts under 28.5 + Sion James 5+ pr,2,0.6549,0.4721,2.12,2.22,2.1,-0.0086,0.999,2.10-2.50
+PHI @ CHA,Tyrese Maxey pra under 39.5 + Sion James 5+ pr,2,0.6817,0.496,2.02,2.12,1.99,-0.0136,0.998,1.85-2.10
+PHI @ CHA,Brandon Miller pra under 36.5 + Sion James 5+ pr,2,0.6516,0.4752,2.1,2.21,2.07,-0.0153,0.998,1.85-2.10
+PHI @ CHA,Tyrese Maxey pts under 28.5 + Sion James 5+ pa,2,0.6252,0.4657,2.15,2.25,2.11,-0.0182,1.001,2.10-2.50
+PHI @ CHA,Brandon Miller 3pm under 3.5 + Sion James 5+ pr,2,0.5745,0.4474,2.24,2.35,2.14,-0.0425,0.999,2.10-2.50
+PHI @ CHA,Tyrese Maxey ra under 10.5 + Moussa Diabate 10+ pr,2,0.6278,0.5125,1.95,2.05,1.83,-0.0605,0.997,1.65-1.85
 ATL @ NOP,ATL -4.5 + CJ McCollum 15+ pa,2,0.3913,0.3887,2.57,2.7,2.46,-0.043,1.033,2.10-2.50
 ATL @ NOP,Zion Williamson 6+ reb + Onyeka Okongwu 15+ pra,2,0.5198,0.4118,2.43,2.55,2.32,-0.0447,1.002,2.10-2.50
 ATL @ NOP,Zion Williamson 6+ reb + Herbert Jones 5+ pr,2,0.5092,0.4014,2.49,2.62,2.37,-0.047,0.998,2.10-2.50
@@ -58,15 +57,15 @@ CLE @ MIL,Peyton Watson 3pm under 1.5 + Sam Merrill 5+ pr,2,0.6358,0.5275,1.9,1.
 MIN @ SAS,LaMelo Ball pa under 26.5 + SAS win,2,0.5036,0.4508,2.22,2.33,2.25,0.0155,1.044,2.10-2.50
 MIN @ SAS,Ayo Dosunmu pa under 19.5 + SAS win,2,0.5158,0.4545,2.2,2.31,2.23,0.0153,1.036,2.10-2.50
 MIN @ SAS,Ayo Dosunmu pr under 19.5 + SAS win,2,0.5005,0.4369,2.29,2.4,2.32,0.0151,1.032,2.10-2.50
+MIN @ SAS,Ayo Dosunmu pr under 19.5 + Stephon Castle 10+ pa,2,0.6227,0.4771,2.1,2.2,2.02,-0.0352,0.999,1.85-2.10
 MIN @ SAS,Ayo Dosunmu pr under 19.5 + De'Aaron Fox 10+ pr,2,0.6053,0.4639,2.16,2.26,2.08,-0.0363,0.998,1.85-2.10
 MIN @ SAS,LaMelo Ball ast under 6.5 + De'Aaron Fox 15+ pra,2,0.6221,0.4782,2.09,2.2,2.01,-0.0372,0.999,1.85-2.10
-MIN @ SAS,LaMelo Ball ast under 6.5 + De'Aaron Fox 10+ pr,2,0.626,0.4831,2.07,2.17,1.99,-0.0389,0.999,1.85-2.10
-MIN @ SAS,Ayo Dosunmu pra under 24.5 + De'Aaron Fox 10+ pa,2,0.6612,0.5176,1.93,2.03,1.85,-0.0438,0.999,1.65-1.85
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 15+ pa,2,0.6633,0.5211,1.92,2.01,1.82,-0.0491,0.996,1.65-1.85
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + De'Aaron Fox 15+ pra,2,0.7062,0.5581,1.79,1.88,1.7,-0.0495,0.998,1.65-1.85
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + De'Aaron Fox 10+ pr,2,0.7112,0.5643,1.77,1.86,1.68,-0.0505,0.998,1.65-1.85
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + De'Aaron Fox 10+ pa,2,0.727,0.5829,1.72,1.8,1.62,-0.054,0.998,1.50-1.65
-MIN @ SAS,SAS win + Stephon Castle 10+ pts + De'Aaron Fox 15+ pa,3,0.5996,0.5665,1.77,1.85,1.62,-0.0818,1.034,1.50-1.65
-MIN @ SAS,SAS win + Stephon Castle 10+ pts + Devin Vassell 10+ pa,3,0.5864,0.5598,1.79,1.88,1.63,-0.0857,1.034,1.50-1.65
+MIN @ SAS,SAS win + Stephon Castle 15+ pa + De'Aaron Fox 15+ pa,3,0.6035,0.5624,1.78,1.87,1.64,-0.0779,1.034,1.50-1.65
+MIN @ SAS,SAS win + De'Aaron Fox 15+ pa + Stephon Castle 10+ pts,3,0.5996,0.5633,1.78,1.86,1.63,-0.08,1.034,1.50-1.65
+MIN @ SAS,SAS win + Stephon Castle 4+ ast + De'Aaron Fox 15+ pra,3,0.6193,0.579,1.73,1.81,1.57,-0.0931,1.018,1.50-1.65
 OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 4+ reb,2,0.5859,0.423,2.36,2.48,2.35,-0.0046,1.002,2.10-2.50
 OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 15+ pr,2,0.5636,0.4206,2.38,2.5,2.36,-0.0077,1.011,2.10-2.50
 OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 1+ 3pm,2,0.6078,0.446,2.24,2.35,2.22,-0.0111,1.002,2.10-2.50
