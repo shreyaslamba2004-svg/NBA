@@ -1,6 +1,6 @@
 # NBA model · Sat 31 Oct 2026 (US date)
 
-Updated **Sun 01 Nov, 10:52 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 01 Nov, 10:57 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -13,6 +13,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kel'el Ware PTS under 9.5 | CLE @ MIL | pointsbetau | 2.00 | 1.89 | 1.59 | 62.8% | 49.6% | 52.9% | +5.8% | +25.5% | 1.5% |
+| Jaylen Wells PTS over 11.5 (12+) | SAC @ MEM | unibet | 1.66 | 1.57 | 1.37 | 73.0% | 60.6% | 63.7% | +5.6% | +21.1% | 2.0% |
 | Julian Champagnie PTS under 10.5 | MIN @ SAS | tab | 2.00 | 1.89 | 1.67 | 59.9% | 50.4% | 52.8% | +5.6% | +19.9% | 1.4% |
 
 ## Long shots (EV ≥ 5%, odds above 4)
@@ -22,30 +23,30 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 7.5 (8+) | OKC @ HOU | draftkings | 21.00 | 13.32 | 5.99 | 16.7% | 4.5% | 7.5% | +57.8% | +250.7% | 0.7% |
+| Cameron Boozer REB over 13.5 (14+) | SAC @ MEM | draftkings | 10.60 | 8.19 | 4.46 | 22.4% | 8.8% | 12.2% | +29.4% | +137.4% | 0.8% |
 | Tari Eason REB over 11.5 (12+) | OKC @ HOU | draftkings | 21.00 | 16.39 | 9.06 | 11.0% | 4.5% | 6.1% | +28.0% | +131.7% | 0.4% |
+| Cameron Boozer REB over 15.5 (16+) | SAC @ MEM | draftkings | 20.00 | 15.70 | 8.73 | 11.5% | 4.7% | 6.4% | +27.3% | +129.0% | 0.4% |
 | Tari Eason REB over 9.5 (10+) | OKC @ HOU | draftkings | 9.40 | 7.39 | 4.12 | 24.3% | 9.9% | 13.5% | +27.2% | +128.3% | 0.8% |
-| Cameron Boozer REB over 13.5 (14+) | SAC @ MEM | draftkings | 9.80 | 7.84 | 4.46 | 22.4% | 9.5% | 12.8% | +25.0% | +119.5% | 0.7% |
-| Cameron Boozer REB over 15.5 (16+) | SAC @ MEM | draftkings | 19.00 | 15.27 | 8.73 | 11.5% | 4.9% | 6.6% | +24.5% | +117.5% | 0.3% |
 | Kevin Durant REB over 9.5 (10+) | OKC @ HOU | draftkings | 14.60 | 12.00 | 7.08 | 14.1% | 6.4% | 8.3% | +21.6% | +106.2% | 0.4% |
 | Shai Gilgeous-Alexander PTS over 49.5 (50+) | OKC @ HOU | draftkings | 28.00 | 23.47 | 14.23 | 7.0% | 3.3% | 4.3% | +19.3% | +96.8% | 0.2% |
+| Zach Edey REB over 15.5 (16+) | SAC @ MEM | draftkings | 19.60 | 16.53 | 10.12 | 9.9% | 4.8% | 6.0% | +18.5% | +93.8% | 0.2% |
 | Amen Thompson AST over 7.5 (8+) | OKC @ HOU | draftkings | 8.20 | 6.93 | 4.26 | 23.5% | 11.4% | 14.4% | +18.2% | +92.5% | 0.6% |
 | Amen Thompson AST over 9.5 (10+) | OKC @ HOU | draftkings | 22.00 | 18.69 | 11.53 | 8.7% | 4.2% | 5.3% | +17.8% | +90.8% | 0.2% |
+| Zach Edey REB over 13.5 (14+) | SAC @ MEM | draftkings | 9.90 | 8.44 | 5.24 | 19.1% | 9.4% | 11.8% | +17.3% | +88.8% | 0.5% |
 | Amen Thompson PTS over 29.5 (30+) | OKC @ HOU | draftkings | 20.60 | 17.64 | 11.04 | 9.1% | 4.5% | 5.7% | +16.8% | +86.7% | 0.2% |
 | Shai Gilgeous-Alexander PRA over 59.5 (60+) | OKC @ HOU | draftkings | 20.20 | 17.33 | 10.88 | 9.2% | 4.6% | 5.8% | +16.5% | +85.6% | 0.2% |
 | Shai Gilgeous-Alexander PTS over 44.5 (45+) | OKC @ HOU | draftkings | 15.20 | 13.11 | 8.28 | 12.1% | 6.2% | 7.6% | +16.0% | +83.5% | 0.3% |
 | Amen Thompson PRA over 44.5 (45+) | OKC @ HOU | draftkings | 19.00 | 16.39 | 10.38 | 9.6% | 4.9% | 6.1% | +15.9% | +83.1% | 0.2% |
 | Amen Thompson PRA over 39.5 (40+) | OKC @ HOU | draftkings | 9.20 | 7.99 | 5.10 | 19.6% | 10.2% | 12.5% | +15.2% | +80.5% | 0.5% |
+| Cedric Coward REB over 11.5 (12+) | SAC @ MEM | draftkings | 15.40 | 13.42 | 8.63 | 11.6% | 6.1% | 7.4% | +14.7% | +78.5% | 0.3% |
 | MIN to win | MIN @ SAS | ladbrokes_au | 6.25 | 5.49 | 4.32 | 23.1% | 18.2% | 18.2% | +13.9% | +44.6% | 0.7% |
 | Jabari Smith Jr. PRA over 34.5 (35+) | OKC @ HOU | draftkings | 9.50 | 8.41 | 5.54 | 18.1% | 9.8% | 11.9% | +13.0% | +71.5% | 0.4% |
-| Zach Edey REB over 15.5 (16+) | SAC @ MEM | draftkings | 17.00 | 15.17 | 10.12 | 9.9% | 5.5% | 6.6% | +12.1% | +68.0% | 0.2% |
-| Zach Edey REB over 13.5 (14+) | SAC @ MEM | draftkings | 8.80 | 7.86 | 5.24 | 19.1% | 10.6% | 12.7% | +12.0% | +67.8% | 0.4% |
 | Amen Thompson PTS over 24.5 (25+) | OKC @ HOU | draftkings | 8.00 | 7.15 | 4.78 | 20.9% | 11.7% | 14.0% | +11.9% | +67.4% | 0.4% |
+| Zach Edey REB over 11.5 (12+) | SAC @ MEM | draftkings | 4.99 | 4.51 | 3.08 | 32.5% | 18.7% | 22.2% | +10.6% | +62.0% | 0.7% |
 | Jabari Smith Jr. REB over 9.5 (10+) | OKC @ HOU | draftkings | 7.10 | 6.43 | 4.40 | 22.7% | 13.2% | 15.6% | +10.4% | +61.2% | 0.4% |
-| Darius Acuff Jr. REB over 7.5 (8+) | SAC @ MEM | draftkings | 17.00 | 15.41 | 10.58 | 9.5% | 5.5% | 6.5% | +10.3% | +60.7% | 0.2% |
 | Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ HOU | draftkings | 9.20 | 8.35 | 5.73 | 17.4% | 10.2% | 12.0% | +10.2% | +60.5% | 0.3% |
 | Jabari Smith Jr. PRA over 39.5 (40+) | OKC @ HOU | draftkings | 20.00 | 18.15 | 12.48 | 8.0% | 4.7% | 5.5% | +10.2% | +60.3% | 0.1% |
 | Jaime Jaquez Jr. AST over 7.5 (8+) | CLE @ MIL | draftkings | 19.80 | 17.99 | 12.38 | 8.1% | 4.7% | 5.6% | +10.1% | +60.0% | 0.1% |
-| Jabari Smith Jr. REB over 11.5 (12+) | OKC @ HOU | draftkings | 16.80 | 15.29 | 10.55 | 9.5% | 5.6% | 6.5% | +9.9% | +59.2% | 0.2% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -53,31 +54,31 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Cameron Boozer REB over 14.5 (15+) | SAC @ MEM | draftkings | 15.00 | 11.49 | 6.21 | 16.1% | 6.2% | 8.7% | +30.5% | +141.7% | 0.5% |
 | Tari Eason REB over 10.5 (11+) | OKC @ HOU | draftkings | 14.40 | 11.04 | 5.96 | 16.8% | 6.5% | 9.1% | +30.4% | +141.4% | 0.6% |
-| Cameron Boozer REB over 14.5 (15+) | SAC @ MEM | draftkings | 13.80 | 10.98 | 6.21 | 16.1% | 6.8% | 9.1% | +25.7% | +122.4% | 0.5% |
 | Tari Eason REB over 12.5 (13+) | OKC @ HOU | draftkings | 29.00 | 23.75 | 13.91 | 7.2% | 3.2% | 4.2% | +22.2% | +108.5% | 0.2% |
 | Kevin Durant REB over 8.5 (9+) | OKC @ HOU | draftkings | 9.20 | 7.58 | 4.49 | 22.3% | 10.2% | 13.2% | +21.3% | +105.0% | 0.7% |
 | Amen Thompson AST over 8.5 (9+) | OKC @ HOU | draftkings | 14.20 | 11.71 | 6.93 | 14.4% | 6.6% | 8.5% | +21.3% | +104.9% | 0.4% |
-| Cameron Boozer REB over 16.5 (17+) | SAC @ MEM | draftkings | 25.00 | 21.05 | 12.82 | 7.8% | 3.7% | 4.8% | +18.8% | +95.0% | 0.2% |
+| Cameron Boozer REB over 16.5 (17+) | SAC @ MEM | draftkings | 26.00 | 21.51 | 12.82 | 7.8% | 3.6% | 4.7% | +20.8% | +102.8% | 0.2% |
+| Zach Edey REB over 14.5 (15+) | SAC @ MEM | draftkings | 14.00 | 11.81 | 7.21 | 13.9% | 6.7% | 8.5% | +18.6% | +94.1% | 0.4% |
 | Kevin Durant REB over 10.5 (11+) | OKC @ HOU | draftkings | 23.00 | 19.42 | 11.91 | 8.4% | 4.1% | 5.1% | +18.4% | +93.1% | 0.2% |
-| Zach Edey REB over 14.5 (15+) | SAC @ MEM | draftkings | 12.40 | 10.96 | 7.21 | 13.9% | 7.5% | 9.1% | +13.1% | +71.9% | 0.3% |
+| Zach Edey REB over 16.5 (17+) | SAC @ MEM | draftkings | 25.00 | 21.93 | 14.21 | 7.0% | 3.7% | 4.6% | +14.1% | +75.9% | 0.1% |
+| Zach Edey REB over 12.5 (13+) | SAC @ MEM | draftkings | 7.00 | 6.15 | 4.00 | 25.0% | 13.4% | 16.3% | +13.9% | +75.1% | 0.6% |
+| Cedric Coward REB over 10.5 (11+) | SAC @ MEM | draftkings | 10.00 | 8.83 | 5.79 | 17.3% | 9.3% | 11.3% | +13.3% | +72.7% | 0.4% |
+| Cedric Coward REB over 12.5 (13+) | SAC @ MEM | draftkings | 22.00 | 19.53 | 12.94 | 7.7% | 4.2% | 5.1% | +12.6% | +70.1% | 0.1% |
 | Jaime Jaquez Jr. AST over 6.5 (7+) | CLE @ MIL | draftkings | 11.40 | 10.18 | 6.81 | 14.7% | 8.2% | 9.8% | +11.9% | +67.3% | 0.3% |
+| Zach Edey PTS over 8.5 (9+) | SAC @ MEM | pointsbetau | 2.05 | 1.84 | 1.59 | 62.9% | 51.6% | 54.4% | +11.6% | +28.9% | 2.0% |
 | Shai Gilgeous-Alexander AST over 10.5 (11+) | OKC @ HOU | draftkings | 15.20 | 13.64 | 9.19 | 10.9% | 6.2% | 7.3% | +11.5% | +65.5% | 0.2% |
 | Jabari Smith Jr. REB over 10.5 (11+) | OKC @ HOU | draftkings | 11.00 | 9.88 | 6.66 | 15.0% | 8.5% | 10.1% | +11.4% | +65.1% | 0.3% |
-| Darius Acuff Jr. REB over 6.5 (7+) | SAC @ MEM | draftkings | 9.70 | 8.72 | 5.89 | 17.0% | 9.6% | 11.5% | +11.3% | +64.8% | 0.3% |
-| Zach Edey PTS over 8.5 (9+) | SAC @ MEM | pointsbetau | 2.05 | 1.85 | 1.59 | 62.9% | 51.3% | 54.2% | +11.1% | +28.9% | 2.0% |
-| Zach Edey REB over 16.5 (17+) | SAC @ MEM | draftkings | 23.00 | 20.79 | 14.21 | 7.0% | 4.1% | 4.8% | +10.5% | +61.8% | 0.1% |
-| Zach Edey REB over 12.5 (13+) | SAC @ MEM | draftkings | 6.28 | 5.74 | 4.00 | 25.0% | 14.9% | 17.4% | +9.4% | +57.1% | 0.4% |
-| Cedric Coward REB over 12.5 (13+) | SAC @ MEM | draftkings | 20.00 | 18.38 | 12.94 | 7.7% | 4.7% | 5.4% | +8.7% | +54.6% | 0.1% |
-| Cedric Coward REB over 10.5 (11+) | SAC @ MEM | draftkings | 8.90 | 8.20 | 5.79 | 17.3% | 10.5% | 12.2% | +8.5% | +53.7% | 0.3% |
+| Darius Acuff Jr. REB over 6.5 (7+) | SAC @ MEM | draftkings | 9.20 | 8.42 | 5.89 | 17.0% | 10.2% | 11.9% | +9.2% | +56.3% | 0.3% |
 | Jabari Smith Jr. REB over 8.5 (9+) | OKC @ HOU | draftkings | 4.61 | 4.28 | 3.07 | 32.6% | 20.3% | 23.4% | +7.7% | +50.3% | 0.5% |
+| Jerami Grant PTS over 17.5 (18+) | SAC @ MEM | draftkings | 5.29 | 4.92 | 3.53 | 28.4% | 17.7% | 20.3% | +7.6% | +50.0% | 0.4% |
+| Zach Edey REB over 10.5 (11+) | SAC @ MEM | draftkings | 3.63 | 3.39 | 2.46 | 40.7% | 25.8% | 29.5% | +7.0% | +47.8% | 0.7% |
 | Shai Gilgeous-Alexander AST over 8.5 (9+) | OKC @ HOU | draftkings | 5.70 | 5.33 | 3.87 | 25.9% | 16.4% | 18.8% | +7.0% | +47.4% | 0.4% |
 | Jabari Smith Jr. REB over 12.5 (13+) | OKC @ HOU | draftkings | 25.00 | 23.47 | 17.17 | 5.8% | 3.7% | 4.3% | +6.5% | +45.6% | 0.1% |
 | De'Andre Hunter REB over 8.5 (9+) | SAC @ MEM | draftkings | 10.50 | 9.86 | 7.23 | 13.8% | 8.9% | 10.1% | +6.4% | +45.3% | 0.2% |
+| Cedric Coward REB over 8.5 (9+) | SAC @ MEM | draftkings | 4.15 | 3.91 | 2.88 | 34.7% | 22.5% | 25.6% | +6.1% | +44.1% | 0.5% |
 | Aday Mara REB over 10.5 (11+) | OKC @ HOU | draftkings | 16.00 | 15.13 | 11.22 | 8.9% | 5.8% | 6.6% | +5.7% | +42.6% | 0.1% |
-| Darius Acuff Jr. REB over 4.5 (5+) | SAC @ MEM | draftkings | 3.20 | 3.03 | 2.26 | 44.2% | 29.2% | 33.0% | +5.5% | +41.4% | 0.6% |
-| Jaime Jaquez Jr. AST over 4.5 (5+) | CLE @ MIL | draftkings | 3.56 | 3.38 | 2.54 | 39.4% | 26.2% | 29.5% | +5.2% | +40.4% | 0.5% |
-| De'Andre Hunter REB over 6.5 (7+) | SAC @ MEM | draftkings | 4.20 | 3.99 | 2.99 | 33.4% | 22.2% | 25.0% | +5.2% | +40.3% | 0.4% |
 
 ## Check news first
 
@@ -86,14 +87,12 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Tari Eason REB over 7.5 (8+) | OKC @ HOU | draftkings | 3.90 | 3.42 | 2.22 | 45.0% | 24.0% | 29.2% | +14.0% | +75.5% | 1.2% |
-| Cameron Boozer REB over 9.5 (10+) | SAC @ MEM | draftkings | 2.70 | 2.45 | 1.69 | 59.3% | 34.6% | 40.8% | +10.1% | +60.0% | 1.5% |
+| Cameron Boozer REB over 9.5 (10+) | SAC @ MEM | draftkings | 2.84 | 2.53 | 1.69 | 59.3% | 32.9% | 39.5% | +12.2% | +68.3% | 1.7% |
 | Kevin Durant AST over 3.5 (4+) | OKC @ HOU | draftkings | 2.14 | 1.96 | 1.37 | 72.9% | 43.9% | 51.1% | +9.4% | +55.9% | 2.0% |
 | AJ Green 3PM under 1.5 | CLE @ MIL | draftkings | 2.33 | 2.14 | 1.49 | 67.0% | 40.1% | 46.8% | +9.1% | +56.0% | 1.7% |
 | Kevin Durant RA over 8.5 (9+) | OKC @ HOU | draftkings | 2.00 | 1.83 | 1.29 | 77.6% | 46.9% | 54.5% | +9.1% | +55.1% | 2.0% |
 | Amen Thompson AST over 5.5 (6+) | OKC @ HOU | draftkings | 2.99 | 2.79 | 2.02 | 49.6% | 31.3% | 35.9% | +7.2% | +48.3% | 0.9% |
-| Cameron Boozer REB over 8.5 (9+) | SAC @ MEM | draftkings | 2.09 | 1.96 | 1.43 | 69.7% | 44.7% | 51.0% | +6.5% | +45.7% | 1.5% |
 | Kevin Durant REB over 5.5 (6+) | OKC @ HOU | draftkings | 2.34 | 2.22 | 1.66 | 60.3% | 39.9% | 45.0% | +5.4% | +41.1% | 1.0% |
-| Cameron Boozer RA over 14.5 (15+) | SAC @ MEM | draftkings | 2.00 | 1.90 | 1.43 | 70.0% | 46.8% | 52.6% | +5.1% | +40.0% | 1.3% |
 
 ## Projections
 
@@ -115,17 +114,17 @@ Out: Ty Jerome (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Dylan Cardwel
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jaylen Wells PTS over 11.5 (12+) | SAC @ MEM | unibet | 1.66 | 1.57 | 1.37 | 73.0% | 60.6% | 63.7% | +5.6% | +21.1% | 2.0% |
 | Precious Achiuwa PTS over 12.5 (13+) | SAC @ MEM | pointsbetau | 1.95 | 1.89 | 1.58 | 63.1% | 49.6% | 53.0% | +3.4% | +23.2% | 0.9% |
 | Zach LaVine PTS under 21.5 | SAC @ MEM | betright | 1.98 | 1.92 | 1.72 | 58.1% | 50.0% | 52.0% | +3.0% | +15.0% | 0.8% |
-| Jaylen Wells PTS over 13.5 (14+) | SAC @ MEM | betright | 1.96 | 1.91 | 1.64 | 60.9% | 49.6% | 52.4% | +2.8% | +19.4% | 0.7% |
-| Precious Achiuwa PRA over 22.5 (23+) | SAC @ MEM | draftkings | 1.88 | 1.87 | 1.55 | 64.5% | 49.7% | 53.4% | +0.7% | +21.6% | 0.2% |
-| Zach Edey RA over 9.5 (10+) | SAC @ MEM | draftkings | 1.91 | 1.90 | 1.57 | 63.7% | 49.0% | 52.7% | +0.5% | +21.6% | 0.1% |
-| De'Andre Hunter REB over 4.5 (5+) | SAC @ MEM | draftkings | 1.94 | 1.93 | 1.61 | 62.3% | 48.2% | 51.7% | +0.5% | +21.1% | 0.1% |
-| Precious Achiuwa PR over 20.5 (21+) | SAC @ MEM | draftkings | 1.85 | 1.84 | 1.52 | 65.6% | 50.7% | 54.4% | +0.5% | +21.2% | 0.1% |
-| Zach Edey PR over 17.5 (18+) | SAC @ MEM | draftkings | 1.92 | 1.91 | 1.58 | 63.4% | 48.7% | 52.4% | +0.5% | +21.6% | 0.1% |
-| Zach Edey REB over 8.5 (9+) | SAC @ MEM | draftkings | 2.01 | 2.00 | 1.67 | 59.9% | 46.6% | 49.9% | +0.4% | +20.4% | 0.1% |
+| Jaylen Wells PTS over 13.5 (14+) | SAC @ MEM | betright | 1.96 | 1.93 | 1.64 | 60.9% | 48.9% | 51.9% | +1.8% | +19.4% | 0.5% |
+| Cedric Coward REB over 6.5 (7+) | SAC @ MEM | draftkings | 2.06 | 2.05 | 1.69 | 59.0% | 45.5% | 48.9% | +0.7% | +21.6% | 0.1% |
+| Cedric Coward RA over 9.5 (10+) | SAC @ MEM | draftkings | 1.89 | 1.89 | 1.56 | 64.0% | 49.4% | 53.0% | +0.4% | +21.1% | 0.1% |
+| De'Andre Hunter REB over 4.5 (5+) | SAC @ MEM | draftkings | 1.92 | 1.91 | 1.61 | 62.3% | 48.9% | 52.3% | +0.3% | +19.5% | 0.1% |
+| Darius Acuff Jr. PTS under 23.5 | SAC @ MEM | betright | 1.92 | 1.91 | 1.73 | 57.8% | 50.4% | 52.2% | +0.2% | +10.8% | 0.1% |
 | Precious Achiuwa RA over 9.5 (10+) | SAC @ MEM | draftkings | 1.99 | 1.99 | 1.66 | 60.4% | 47.0% | 50.3% | +0.2% | +20.2% | 0.0% |
 | Darius Acuff Jr. RA over 9.5 (10+) | SAC @ MEM | draftkings | 1.94 | 1.94 | 1.62 | 61.6% | 48.2% | 51.5% | +0.1% | +19.7% | 0.0% |
+| Precious Achiuwa REB over 7.5 (8+) | SAC @ MEM | draftkings | 1.90 | 1.90 | 1.60 | 62.5% | 49.4% | 52.7% | +0.1% | +18.9% | 0.0% |
 | Domantas Sabonis PTS over 15.5 (16+) | SAC @ MEM | unibet | 1.88 | 1.88 | 1.66 | 60.2% | 50.7% | 53.1% | +0.1% | +13.5% | 0.0% |
 
 <details><summary>SAC players (confirmed only)</summary>
@@ -133,7 +132,7 @@ Out: Ty Jerome (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Dylan Cardwel
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Darius Acuff Jr. | 100% | 36.0<br><sub>35,37,36,33,41</sub> | 23.0<br><sub>12,33,22,19,34</sub> | 23.5 · 23.5<br><sub>o 48% · u 52%</sub> | 4.4<br><sub>3,2,3,3,6</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 6.4<br><sub>3,4,7,5,14</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 2.7<br><sub>0,2,2,3,3</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 1.2 | 0.4 | 3.4 | 33.8 |
-| Domantas Sabonis | 100% | 34.1<br><sub>34,39,35,37,40</sub> | 18.3<br><sub>14,27,15,20,9</sub> | 15.5 · 15.5<br><sub>o 51% · u 49%</sub> | 14.1<br><sub>18,19,15,14,15</sub> | 13.5<br><sub>o 53% · u 47%</sub> | 6.0<br><sub>8,10,3,8,7</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 0.3<br><sub>0,1,0,0,0</sub> | 0.5<br><sub>o 19% · u 81%</sub> | 0.9 | 0.4 | 3.1 | 38.4 |
+| Domantas Sabonis | 100% | 34.1<br><sub>34,39,35,37,40</sub> | 18.3<br><sub>14,27,15,20,9</sub> | 16.5 · 15.5<br><sub>o 53% · u 47%</sub> | 14.1<br><sub>18,19,15,14,15</sub> | 14.5<br><sub>o 46% · u 54%</sub> | 6.0<br><sub>8,10,3,8,7</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 0.3<br><sub>0,1,0,0,0</sub> | 0.5<br><sub>o 23% · u 77%</sub> | 0.9 | 0.4 | 3.1 | 38.4 |
 | Zach LaVine | 100% | 34.0<br><sub>34,39,40,31,39</sub> | 20.9<br><sub>28,22,37,22,21</sub> | 21.5 · 21.5<br><sub>o 48% · u 52%</sub> | 3.8<br><sub>4,5,2,3,3</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 3.0<br><sub>4,1,5,3,5</sub> | 3.5<br><sub>o 39% · u 61%</sub> | 2.5<br><sub>3,3,3,3,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 0.9 | 0.3 | 2.6 | 27.8 |
 | Precious Achiuwa | 100% | 32.8<br><sub>29,26,39,14,41</sub> | 15.4<br><sub>15,14,12,4,24</sub> | 12.5 · 12.5<br><sub>o 53% · u 47%</sub> | 8.9<br><sub>5,6,10,1,9</sub> | 7.5<br><sub>o 53% · u 47%</sub> | 1.9<br><sub>2,1,0,0,2</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.3<br><sub>1,0,0,0,0</sub> | 0.5<br><sub>o 30% · u 70%</sub> | 1.4 | 1.1 | 1.6 | 26.2 |
 | De'Andre Hunter | 100% | 29.4<br><sub>20,25,29,33,37</sub> | 12.9<br><sub>6,4,7,24,24</sub> | 12.5 · 12.5<br><sub>o 49% · u 51%</sub> | 5.6<br><sub>3,7,6,6,5</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 1.7<br><sub>1,1,1,2,1</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 1.6<br><sub>2,0,2,5,4</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 0.9 | 0.2 | 1.8 | 20.2 |
@@ -151,16 +150,16 @@ Out: Ty Jerome (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Dylan Cardwel
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Cameron Boozer | 100% | 33.6<br><sub>33,37,31,31,28</sub> | 18.6<br><sub>7,25,14,13,18</sub> | 18.5 · 17.5<br><sub>o 52% · u 48%</sub> | 10.7<br><sub>11,13,11,7,12</sub> | 8.5<br><sub>o 51% · u 49%</sub> | 6.8<br><sub>5,6,4,4,12</sub> | 5.5<br><sub>o 57% · u 43%</sub> | 2.1<br><sub>0,4,2,1,4</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.5 | 0.7 | 2.4 | 36.1 |
-| Cedric Coward | 100% | 30.5<br><sub>28,-,32,31,27</sub> | 17.6<br><sub>7,-,17,16,17</sub> | 16.5 · 16.5<br><sub>o 54% · u 46%</sub> | 7.5<br><sub>7,-,11,11,7</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 3.8<br><sub>2,-,1,3,4</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 2.0<br><sub>1,-,3,4,3</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.0 | 0.5 | 2.1 | 28.9 |
-| Jaylen Wells | 100% | 30.4<br><sub>28,25,33,30,25</sub> | 16.3<br><sub>12,17,16,14,10</sub> | 13.5 · 13.5<br><sub>o 52% · u 48%</sub> | 3.7<br><sub>5,4,5,3,1</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 2.1<br><sub>0,3,3,0,0</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 2.3<br><sub>1,4,2,2,2</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.1 | 0.2 | 1.3 | 22.1 |
-| Jerami Grant | 98% | 27.2<br><sub>24,26,22,24,27</sub> | 14.5<br><sub>15,6,5,13,2</sub> |  | 3.0<br><sub>2,0,5,3,1</sub> |  | 2.3<br><sub>3,3,3,0,3</sub> |  | 1.7<br><sub>2,1,1,3,0</sub> |  | 0.8 | 0.8 | 1.6 | 19.7 |
-| Cam Spencer | 100% | 26.5<br><sub>16,17,16,18,23</sub> | 12.9<br><sub>3,11,13,8,8</sub> | 11.5 · 11.5<br><sub>o 53% · u 47%</sub> | 3.4<br><sub>3,2,2,5,6</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 6.8<br><sub>2,1,1,5,8</sub> | 6.5<br><sub>o 51% · u 49%</sub> | 1.9<br><sub>1,3,3,2,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 0.9 | 0.2 | 1.4 | 23.2 |
-| Zach Edey | 100% | 25.0<br><sub>21,22,-,21,19</sub> | 10.9<br><sub>6,8,-,4,13</sub> | 8.5 · 8.5<br><sub>o 52% · u 48%</sub> | 9.9<br><sub>9,10,-,3,7</sub> | 8.5<br><sub>o 50% · u 50%</sub> | 1.6<br><sub>0,3,-,2,0</sub> |  | 0.2<br><sub>0,0,-,0,1</sub> |  | 0.7 | 1.8 | 1.8 | 22.3 |
+| Cameron Boozer | 100% | 33.6<br><sub>33,37,31,31,28</sub> | 18.6<br><sub>7,25,14,13,18</sub> | 18.5 · 17.5<br><sub>o 49% · u 51%</sub> | 10.7<br><sub>11,13,11,7,12</sub> | 7.5<br><sub>o 60% · u 40%</sub> | 6.8<br><sub>5,6,4,4,12</sub> | 5.5<br><sub>o 57% · u 43%</sub> | 2.1<br><sub>0,4,2,1,4</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.5 | 0.7 | 2.4 | 36.1 |
+| Cedric Coward | 100% | 30.5<br><sub>28,-,32,31,27</sub> | 17.6<br><sub>7,-,17,16,17</sub> | 16.5 · 16.5<br><sub>o 50% · u 50%</sub> | 7.5<br><sub>7,-,11,11,7</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 3.8<br><sub>2,-,1,3,4</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 2.0<br><sub>1,-,3,4,3</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.0 | 0.5 | 2.1 | 28.9 |
+| Jaylen Wells | 100% | 30.4<br><sub>28,25,33,30,25</sub> | 16.3<br><sub>12,17,16,14,10</sub> | 14.5 · 13.5<br><sub>o 52% · u 48%</sub> | 3.7<br><sub>5,4,5,3,1</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 2.1<br><sub>0,3,3,0,0</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 2.3<br><sub>1,4,2,2,2</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 1.1 | 0.2 | 1.3 | 22.1 |
+| Jerami Grant | 98% | 27.2<br><sub>24,26,22,24,27</sub> | 14.5<br><sub>15,6,5,13,2</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 3.0<br><sub>2,0,5,3,1</sub> |  | 2.3<br><sub>3,3,3,0,3</sub> |  | 1.7<br><sub>2,1,1,3,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.8 | 0.8 | 1.6 | 19.7 |
+| Cam Spencer | 100% | 26.5<br><sub>16,17,16,18,23</sub> | 12.9<br><sub>3,11,13,8,8</sub> | 12.5 · 11.5<br><sub>o 53% · u 47%</sub> | 3.4<br><sub>3,2,2,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 6.8<br><sub>2,1,1,5,8</sub> | 6.5<br><sub>o 52% · u 48%</sub> | 1.9<br><sub>1,3,3,2,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 0.9 | 0.2 | 1.4 | 23.2 |
+| Zach Edey | 100% | 25.0<br><sub>21,22,-,21,19</sub> | 10.9<br><sub>6,8,-,4,13</sub> | 8.5 · 8.5<br><sub>o 52% · u 48%</sub> | 9.9<br><sub>9,10,-,3,7</sub> | 7.5<br><sub>o 58% · u 42%</sub> | 1.6<br><sub>0,3,-,2,0</sub> |  | 0.2<br><sub>0,0,-,0,1</sub> |  | 0.7 | 1.8 | 1.8 | 22.3 |
 | GG Jackson | 96% | 19.3<br><sub>19,15,10,16,21</sub> | 11.5<br><sub>12,2,1,4,12</sub> |  | 4.1<br><sub>8,4,3,1,7</sub> |  | 1.5<br><sub>0,1,0,2,2</sub> |  | 1.1<br><sub>2,0,0,0,2</sub> |  | 0.5 | 0.7 | 1.5 | 17.1 |
 | Jahmai Mashack | 38% | 18.4<br><sub>-,-,-,-,-</sub> | 6.0<br><sub>-,-,-,-,-</sub> |  | 2.4<br><sub>-,-,-,-,-</sub> |  | 2.5<br><sub>-,-,-,-,-</sub> |  | 0.5<br><sub>-,-,-,-,-</sub> |  | 1.0 | 0.3 | 1.5 | 10.9 |
 | Javon Small | 26% | 17.9 | 9.1 |  | 2.8 |  | 3.1 |  | 1.1 |  | 0.8 | 0.2 | 1.4 | 15.0 |
-| Isaiah Stewart | 98% | 17.6<br><sub>-,16,22,15,16</sub> | 7.7<br><sub>-,4,13,4,18</sub> | 7.5 · 6.5<br><sub>o 52% · u 48%</sub> | 4.2<br><sub>-,2,5,4,3</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 0.8<br><sub>-,0,2,0,0</sub> |  | 0.6<br><sub>-,0,2,0,2</sub> |  | 0.3 | 1.1 | 0.9 | 12.7 |
+| Isaiah Stewart | 98% | 17.6<br><sub>-,16,22,15,16</sub> | 7.7<br><sub>-,4,13,4,18</sub> | 7.5 · 6.5<br><sub>o 52% · u 48%</sub> | 4.2<br><sub>-,2,5,4,3</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 0.8<br><sub>-,0,2,0,0</sub> |  | 0.6<br><sub>-,0,2,0,2</sub> |  | 0.3 | 1.1 | 0.9 | 12.7 |
 | Taylor Hendricks | 58% | 11.1<br><sub>-,-,7,-,3</sub> | 4.4<br><sub>-,-,0,-,0</sub> |  | 2.2<br><sub>-,-,1,-,1</sub> |  | 0.6<br><sub>-,-,0,-,0</sub> |  | 0.5<br><sub>-,-,0,-,0</sub> |  | 0.7 | 0.4 | 0.5 | 7.3 |
 | Olivier-Maxence Prosper | 48% | 11.0<br><sub>-,-,-,-,3</sub> | 6.4<br><sub>-,-,-,-,4</sub> |  | 2.3<br><sub>-,-,-,-,1</sub> |  | 0.7<br><sub>-,-,-,-,0</sub> |  | 0.5<br><sub>-,-,-,-,0</sub> |  | 0.5 | 0.2 | 0.6 | 9.4 |
 | Kris Murray | 58% | 9.8<br><sub>-,13,-,-,3</sub> | 2.5<br><sub>-,0,-,-,0</sub> |  | 1.6<br><sub>-,3,-,-,1</sub> |  | 0.7<br><sub>-,1,-,-,0</sub> |  | 0.1<br><sub>-,0,-,-,0</sub> |  | 0.4 | 0.2 | 0.5 | 4.8 |
@@ -185,7 +184,7 @@ Out: Jaylon Tyson (CLE)
 | Jaime Jaquez Jr. AST over 3.5 (4+) | CLE @ MIL | draftkings | 2.22 | 2.18 | 1.76 | 56.8% | 42.1% | 45.8% | +1.6% | +26.1% | 0.3% |
 | Sam Merrill PTS under 9.5 | CLE @ MIL | tab | 1.95 | 1.92 | 1.88 | 53.2% | 51.5% | 52.0% | +1.5% | +3.9% | 0.4% |
 | Tyler Herro PRA under 30.5 | CLE @ MIL | draftkings | 1.92 | 1.91 | 1.57 | 63.7% | 48.7% | 52.5% | +0.6% | +22.1% | 0.2% |
-| Kyle Kuzma PTS under 11.5 | CLE @ MIL | tab | 2.00 | 1.99 | 1.86 | 53.7% | 49.0% | 50.2% | +0.4% | +7.3% | 0.1% |
+| Kyle Kuzma PTS under 11.5 | CLE @ MIL | unibet | 2.00 | 1.99 | 1.86 | 53.7% | 49.0% | 50.2% | +0.4% | +7.3% | 0.1% |
 | Donovan Mitchell PTS over 24.5 (25+) | CLE @ MIL | pointsbetau | 2.00 | 1.99 | 1.88 | 53.1% | 49.2% | 50.2% | +0.3% | +6.2% | 0.1% |
 | Tyler Herro PTS under 20.5 | CLE @ MIL | tab | 1.90 | 1.90 | 1.59 | 62.9% | 49.3% | 52.7% | +0.1% | +19.5% | 0.0% |
 
