@@ -11,15 +11,18 @@ POR @ UTA,Jrue Holiday 5+ ast + Toumani Camara 1+ 3pm,2,0.641,0.5303,1.89,1.98,1
 POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 10+ pts,2,0.6835,0.5838,1.71,1.8,1.59,-0.0745,1.002,1.50-1.65
 POR @ UTA,Damian Lillard 4+ ast + Deni Avdija 15+ pts + Toumani Camara 1+ 3pm,3,0.7047,0.5843,1.71,1.8,1.5,-0.1231,1.006,1.50-1.65
 POR @ UTA,Jrue Holiday 10+ pts + Deni Avdija 15+ pts + Toumani Camara 1+ 3pm,3,0.6851,0.574,1.74,1.83,1.52,-0.1262,1.007,1.50-1.65
-SAC @ MEM,Cameron Boozer 14+ ra + Precious Achiuwa 6+ reb,2,0.5653,0.406,2.46,2.59,2.45,-0.0047,1.004,2.10-2.50
-SAC @ MEM,Cameron Boozer 14+ ra + MEM win,2,0.4853,0.4245,2.36,2.47,2.33,-0.0115,1.008,2.10-2.50
-SAC @ MEM,Cameron Boozer 14+ ra + Darius Acuff Jr. 1+ 3pm,2,0.6258,0.4686,2.13,2.24,2.09,-0.0194,1.005,1.85-2.10
-SAC @ MEM,De'Andre Hunter 6+ ra + Precious Achiuwa 6+ reb,2,0.5797,0.4351,2.3,2.41,2.25,-0.0211,1.006,2.10-2.50
-SAC @ MEM,Cameron Boozer 14+ ra + Domantas Sabonis 8+ reb,2,0.6257,0.4688,2.13,2.24,2.08,-0.0237,1.0,1.85-2.10
-SAC @ MEM,Precious Achiuwa 23+ pra + Darius Acuff Jr. 1+ 3pm,2,0.6152,0.4651,2.15,2.26,2.09,-0.0267,1.002,1.85-2.10
-SAC @ MEM,Cameron Boozer 5+ ast + Darius Acuff Jr. 1+ 3pm,2,0.6511,0.5276,1.9,1.99,1.8,-0.0509,1.005,1.65-1.85
-SAC @ MEM,Zach LaVine 3+ reb + Darius Acuff Jr. 1+ 3pm,2,0.6636,0.5404,1.85,1.94,1.75,-0.055,1.002,1.65-1.85
-SAC @ MEM,Cameron Boozer 5+ ast + Domantas Sabonis 8+ reb,2,0.6508,0.5277,1.9,1.99,1.79,-0.0554,1.001,1.65-1.85
+SAC @ MEM,Cameron Boozer 14+ ra + Precious Achiuwa 10+ pa,2,0.6058,0.4231,2.36,2.48,2.39,0.0095,1.005,2.10-2.50
+SAC @ MEM,Cameron Boozer 14+ ra + Darius Acuff Jr. 4+ ast,2,0.5753,0.4176,2.39,2.51,2.39,-0.0036,1.007,2.10-2.50
+SAC @ MEM,Cameron Boozer 14+ ra + MEM win,2,0.4853,0.4196,2.38,2.5,2.37,-0.0053,1.008,2.10-2.50
+SAC @ MEM,Cameron Boozer 14+ ra + Precious Achiuwa 4+ reb,2,0.6468,0.4764,2.1,2.2,2.07,-0.0123,1.004,1.85-2.10
+SAC @ MEM,De'Andre Hunter 4+ reb + Precious Achiuwa 10+ pa,2,0.6861,0.5112,1.96,2.05,1.91,-0.0255,1.0,1.85-2.10
+SAC @ MEM,De'Andre Hunter 6+ ra + Cameron Boozer 6+ reb,2,0.6099,0.464,2.16,2.26,2.1,-0.0261,1.006,1.85-2.10
+SAC @ MEM,De'Andre Hunter 4+ reb + Domantas Sabonis 8+ reb,2,0.7141,0.5655,1.77,1.86,1.69,-0.0451,1.003,1.65-1.85
+SAC @ MEM,De'Andre Hunter 4+ reb + Darius Acuff Jr. 1+ 3pm,2,0.7089,0.5625,1.78,1.87,1.69,-0.0487,1.0,1.65-1.85
+SAC @ MEM,Cameron Boozer 5+ ast + Darius Acuff Jr. 1+ 3pm,2,0.6511,0.5294,1.89,1.98,1.79,-0.0537,1.005,1.65-1.85
+SAC @ MEM,Precious Achiuwa 10+ pa + Cameron Boozer 6+ reb + Darius Acuff Jr. 1+ 3pm,3,0.7379,0.5635,1.77,1.86,1.6,-0.0971,1.005,1.50-1.65
+SAC @ MEM,Precious Achiuwa 10+ pa + MEM win + Domantas Sabonis 8+ reb,3,0.5924,0.5424,1.84,1.94,1.63,-0.1165,0.988,1.50-1.65
+SAC @ MEM,Precious Achiuwa 10+ pa + MEM win + Cameron Boozer 4+ reb,3,0.6158,0.5688,1.76,1.85,1.55,-0.1207,0.986,1.50-1.65
 CLE @ MIL,Tyler Herro pts under 21.5 + CLE win,2,0.4226,0.4104,2.44,2.56,2.49,0.0238,1.044,2.10-2.50
 CLE @ MIL,Tyler Herro pr under 26.5 + CLE win,2,0.4245,0.4149,2.41,2.53,2.45,0.0164,1.039,2.10-2.50
 CLE @ MIL,Tyler Herro pa under 26.5 + CLE win,2,0.4229,0.4241,2.36,2.48,2.39,0.0132,1.048,2.10-2.50
@@ -32,5 +35,5 @@ CLE @ MIL,Mario Hezonja 3pm under 1.5 + James Harden 1+ 3pm,2,0.7695,0.6187,1.62
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 10+ pra,2,0.6556,0.5257,1.9,2.0,1.79,-0.0564,0.995,1.65-1.85
 CLE @ MIL,CLE win + Sam Merrill 10+ pra + Donovan Mitchell 15+ pts,3,0.4581,0.5186,1.93,2.02,1.74,-0.0999,1.047,1.65-1.85
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa + Donovan Mitchell 15+ pts,3,0.6961,0.5308,1.88,1.98,1.69,-0.1033,0.994,1.65-1.85
-MIN @ SAS,SAS win + game over 227.5,2,0.329,0.3988,2.51,2.63,2.31,-0.0798,1.004,2.10-2.50
-MIN @ SAS,SAS win + game under 227.5,2,0.3568,0.4131,2.42,2.54,2.21,-0.0872,0.996,2.10-2.50
+MIN @ SAS,SAS win + game over 226.5,2,0.3437,0.4104,2.44,2.56,2.24,-0.0802,1.004,2.10-2.50
+MIN @ SAS,SAS win + game under 226.5,2,0.3422,0.4069,2.46,2.58,2.24,-0.0881,0.996,2.10-2.50
