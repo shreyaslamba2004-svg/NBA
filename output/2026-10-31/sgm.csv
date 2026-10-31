@@ -48,14 +48,14 @@ MIN @ SAS,Ayo Dosunmu pa under 19.5 + SAS win,2,0.4879,0.4527,2.21,2.32,2.24,0.0
 MIN @ SAS,Ayo Dosunmu pra under 23.5 + SAS win,2,0.4697,0.4365,2.29,2.41,2.32,0.0142,1.043,2.10-2.50
 MIN @ SAS,LaMelo Ball pa under 26.5 + SAS win,2,0.4804,0.4513,2.22,2.33,2.24,0.0124,1.046,2.10-2.50
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + SAS win,2,0.523,0.4713,2.12,2.23,2.05,-0.0326,0.982,1.85-2.10
-MIN @ SAS,SAS win + Devin Vassell 7+ ra,2,0.4991,0.4875,2.05,2.15,1.98,-0.033,1.012,1.85-2.10
-MIN @ SAS,Dylan Harper 5+ reb + Devin Vassell 10+ pr,2,0.6278,0.4885,2.05,2.15,1.97,-0.0358,1.004,1.85-2.10
+MIN @ SAS,Dylan Harper 5+ reb + Devin Vassell 10+ pr,2,0.6278,0.4891,2.04,2.15,1.97,-0.0362,1.004,1.85-2.10
+MIN @ SAS,Dylan Harper 5+ reb + Devin Vassell 10+ pa,2,0.5961,0.468,2.14,2.24,2.06,-0.0371,1.006,1.85-2.10
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + LaMelo Ball 10+ pr,2,0.6844,0.5359,1.87,1.96,1.78,-0.0439,0.999,1.65-1.85
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + Victor Wembanyama 20+ pr,2,0.6833,0.5367,1.86,1.96,1.78,-0.0446,0.999,1.65-1.85
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + Victor Wembanyama 20+ pr,2,0.6833,0.5362,1.86,1.96,1.78,-0.0444,0.999,1.65-1.85
 MIN @ SAS,SAS win + De'Aaron Fox 15+ pr,2,0.6263,0.6354,1.57,1.65,1.5,-0.0454,1.017,1.50-1.65
-MIN @ SAS,SAS win + De'Aaron Fox 15+ pr + Devin Vassell 15+ pra,3,0.5403,0.5083,1.97,2.07,1.84,-0.0623,1.041,1.65-1.85
-MIN @ SAS,De'Aaron Fox 15+ pr + Devin Vassell 15+ pra,2,0.6971,0.5988,1.67,1.75,1.55,-0.0718,1.007,1.50-1.65
-MIN @ SAS,SAS win + De'Aaron Fox 15+ pr + Devin Vassell 10+ pr,3,0.5894,0.5611,1.78,1.87,1.64,-0.0789,1.027,1.50-1.65
+MIN @ SAS,SAS win + De'Aaron Fox 15+ pr + Devin Vassell 15+ pra,3,0.5403,0.5103,1.96,2.06,1.83,-0.0636,1.041,1.65-1.85
+MIN @ SAS,De'Aaron Fox 15+ pr + Devin Vassell 15+ pra,2,0.6971,0.6012,1.66,1.75,1.54,-0.0731,1.007,1.50-1.65
+MIN @ SAS,SAS win + De'Aaron Fox 15+ pr + Devin Vassell 10+ pr,3,0.5894,0.5618,1.78,1.87,1.64,-0.0792,1.027,1.50-1.65
 OKC @ HOU,Kevin Durant 9+ ra + Tari Eason 4+ reb,2,0.7042,0.4373,2.29,2.4,2.43,0.063,1.001,2.10-2.50
 OKC @ HOU,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.6657,0.429,2.33,2.45,2.45,0.0504,1.003,2.10-2.50
 OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 4+ reb,2,0.7084,0.4562,2.19,2.3,2.3,0.0491,1.002,2.10-2.50
