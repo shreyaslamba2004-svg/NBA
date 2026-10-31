@@ -20,9 +20,9 @@ PHI @ CHA,Adem Bona pr under 13.5 + Moussa Diabate 5+ pa,2,0.7066,0.4903,2.04,2.
 PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 5+ pa,2,0.6546,0.5198,1.92,2.02,1.83,-0.0467,1.0,1.65-1.85
 PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 10+ pr,2,0.6587,0.5259,1.9,2.0,1.81,-0.0492,0.999,1.65-1.85
 PHI @ CHA,Sion James 5+ pr + Tyrese Maxey 1+ stl + Moussa Diabate 15+ pra,3,0.6285,0.5549,1.8,1.89,1.54,-0.1482,1.0,1.50-1.65
-ATL @ NOP,ATL -4.5 + CJ McCollum 15+ pa,2,0.3913,0.3879,2.58,2.71,2.47,-0.0423,1.033,2.10-2.50
 ATL @ NOP,ATL -4.5 + Onyeka Okongwu 15+ pr,2,0.407,0.3962,2.52,2.65,2.41,-0.0469,1.022,2.10-2.50
 ATL @ NOP,Zion Williamson 6+ reb + Onyeka Okongwu 15+ pra,2,0.5198,0.4115,2.43,2.55,2.32,-0.047,1.002,2.10-2.50
+ATL @ NOP,Jalen Johnson pa under 30.5 + Zion Williamson 4+ reb,2,0.4981,0.3939,2.54,2.67,2.42,-0.0475,1.001,2.10-2.50
 ATL @ NOP,Zion Williamson 8+ ra + Herbert Jones 5+ pr,2,0.6034,0.4845,2.06,2.17,1.96,-0.048,1.004,1.85-2.10
 ATL @ NOP,Zion Williamson 8+ ra + Onyeka Okongwu 15+ pra,2,0.6126,0.4909,2.04,2.14,1.94,-0.0484,1.003,1.85-2.10
 ATL @ NOP,Zion Williamson 8+ ra + Onyeka Okongwu 15+ pr,2,0.5632,0.454,2.2,2.31,2.09,-0.0495,1.004,1.85-2.10
@@ -31,7 +31,7 @@ ATL @ NOP,Zion Williamson 8+ ra + Trey Murphy III 15+ pra,2,0.6278,0.5139,1.95,2
 ATL @ NOP,Kingston Flemings 3+ ast + Onyeka Okongwu 15+ pra,2,0.62,0.5099,1.96,2.06,1.84,-0.0614,1.001,1.65-1.85
 ATL @ NOP,Aaron Wiggins 3pm under 2.5 + Onyeka Okongwu 10+ pr,2,0.7044,0.5838,1.71,1.8,1.6,-0.066,1.0,1.50-1.65
 ATL @ NOP,Aaron Wiggins 3pm under 2.5 + Trey Murphy III 15+ pra,2,0.6815,0.5708,1.75,1.84,1.63,-0.0701,0.999,1.50-1.65
-ATL @ NOP,Onyeka Okongwu 15+ pr + CJ McCollum 15+ pa,2,0.6737,0.5899,1.7,1.78,1.56,-0.081,1.004,1.50-1.65
+ATL @ NOP,Herbert Jones 5+ pr + Onyeka Okongwu 15+ pr + Jeremiah Fears 10+ pa,3,0.6924,0.554,1.81,1.9,1.6,-0.1146,1.003,1.50-1.65
 SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 6+ reb,2,0.5876,0.4188,2.39,2.51,2.39,0.0028,1.007,2.10-2.50
 SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 6+ reb,2,0.5974,0.429,2.33,2.45,2.32,-0.0038,1.006,2.10-2.50
 SAC @ MEM,Precious Achiuwa 23+ pra + Domantas Sabonis 10+ pts,2,0.5949,0.4354,2.3,2.41,2.28,-0.0061,1.008,2.10-2.50
