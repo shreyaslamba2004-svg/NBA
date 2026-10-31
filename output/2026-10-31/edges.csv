@@ -4,23 +4,24 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909902,OKC @ HOU,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,2000.0,21.0,0.0985,10.16,0.0445,0.0445,0.054,,1.0676,0.058,0.2178,0.0027,False,True,False,Alperen Sengun,0.1598,0.0998
 401909902,OKC @ HOU,prop_ast,over,Kevin Durant,201142.0,5.5,draftkings,583.0,6.83,0.2914,3.43,0.1368,0.1368,0.1545,,0.9899,0.1755,0.1984,0.0085,True,True,False,Alperen Sengun,0.3903,0.2958
 401909896,POR @ UTA,prop_pts,over,Deni Avdija,1630166.0,39.5,draftkings,1320.0,14.2,0.1336,7.48,0.0658,0.0658,0.0678,,0.8976,0.0828,0.1753,0.0033,False,True,False,,,
-401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,1240.0,13.4,0.1353,7.39,0.0697,0.0697,0.0656,,0.813,0.0861,0.1542,0.0031,False,True,False,,,
-401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,10.5,draftkings,2100.0,22.0,0.0814,12.29,0.0425,0.0425,0.0389,,0.7902,0.0522,0.1485,0.0018,False,False,False,,,
-401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,9.5,draftkings,1220.0,13.2,0.1328,7.53,0.0708,0.0708,0.062,,0.7536,0.0863,0.1393,0.0029,False,True,False,,,
+401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,9.5,draftkings,1280.0,13.8,0.1328,7.53,0.0677,0.0677,0.0651,,0.8333,0.084,0.1593,0.0031,False,True,False,,,
+401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,1200.0,13.0,0.1353,7.39,0.0719,0.0719,0.0634,,0.7589,0.0877,0.1407,0.0029,False,True,False,,,
 401909902,OKC @ HOU,prop_ast,over,Kevin Durant,201142.0,4.5,draftkings,287.0,3.87,0.4471,2.24,0.2415,0.2415,0.2056,,0.7302,0.2929,0.1335,0.0116,True,False,False,Alperen Sengun,0.5508,0.4518
-401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,710.0,8.1,0.2101,4.76,0.1154,0.1154,0.0947,,0.702,0.1391,0.1264,0.0045,False,False,False,,,
+401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,10.5,draftkings,1980.0,20.8,0.0822,12.16,0.0449,0.0449,0.0373,,0.71,0.0543,0.1284,0.0016,False,False,False,,,
+401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,10.5,draftkings,2000.0,21.0,0.0814,12.29,0.0445,0.0445,0.0369,,0.7089,0.0537,0.1282,0.0016,False,False,False,,,
 401909898,ATL @ NOP,prop_ast,over,Kingston Flemings,905149077.0,6.5,draftkings,1100.0,12.0,0.1408,7.1,0.0779,0.0779,0.063,,0.69,0.0936,0.1234,0.0028,False,False,False,,,
-401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,10.5,draftkings,1940.0,20.4,0.0822,12.16,0.0458,0.0458,0.0364,,0.6771,0.0549,0.1202,0.0015,False,False,False,,,
 401909898,ATL @ NOP,prop_ast,over,Kingston Flemings,905149077.0,7.5,draftkings,1940.0,20.4,0.0817,12.24,0.0458,0.0458,0.0359,,0.6665,0.0548,0.1175,0.0015,False,True,False,,,
 401909902,OKC @ HOU,prop_pts,over,Shai Gilgeous-Alexander,1628983.0,49.5,draftkings,2400.0,25.0,0.0665,15.03,0.0374,0.0374,0.0292,,0.6637,0.0447,0.1169,0.0012,False,True,False,,,
+401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,690.0,7.9,0.2101,4.76,0.1183,0.1183,0.0918,,0.6599,0.1413,0.1159,0.0042,False,False,False,,,
+401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,710.0,8.1,0.2031,4.92,0.1154,0.1154,0.0877,,0.6448,0.1373,0.1121,0.0039,False,False,False,,,
+401909896,POR @ UTA,prop_pra,over,Deni Avdija,1630166.0,59.5,draftkings,1660.0,17.6,0.0932,10.73,0.0531,0.0531,0.0401,,0.6404,0.0631,0.111,0.0017,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Darius Acuff Jr.,905142620.0,6.5,draftkings,800.0,9.0,0.1798,5.56,0.1038,0.1038,0.076,,0.6184,0.1228,0.1055,0.0033,False,False,False,,,
-401909896,POR @ UTA,prop_pra,over,Deni Avdija,1630166.0,59.5,draftkings,1620.0,17.2,0.0932,10.73,0.0543,0.0543,0.0389,,0.6031,0.0641,0.1017,0.0016,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,8.5,draftkings,1060.0,11.6,0.1366,7.32,0.0806,0.0806,0.056,,0.5843,0.0946,0.097,0.0023,False,False,False,,,
-401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,680.0,7.8,0.2031,4.92,0.1198,0.1198,0.0832,,0.5839,0.1406,0.0969,0.0036,False,False,False,,,
+401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,24.5,draftkings,890.0,9.9,0.1592,6.28,0.0944,0.0944,0.0648,,0.576,0.1106,0.0949,0.0027,False,True,False,,,
 401909898,ATL @ NOP,prop_ast,over,Kingston Flemings,905149077.0,5.5,draftkings,582.0,6.82,0.23,4.35,0.137,0.137,0.0929,,0.5684,0.1603,0.093,0.004,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,7.5,draftkings,620.0,7.2,0.2171,4.61,0.1298,0.1298,0.0873,,0.5634,0.1516,0.0918,0.0037,False,True,False,,,
-401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,24.5,draftkings,880.0,9.8,0.1592,6.28,0.0954,0.0954,0.0638,,0.5601,0.1113,0.091,0.0026,False,True,False,,,
 401909900,CLE @ MIL,prop_fg3m,under,AJ Green,1631260.0,1.5,draftkings,136.0,2.36,0.6585,1.52,0.396,0.396,0.2625,,0.554,0.4616,0.0894,0.0164,True,True,True,,,
+401909896,POR @ UTA,prop_pra,over,Deni Avdija,1630166.0,54.5,draftkings,870.0,9.7,0.1592,6.28,0.0963,0.0963,0.0628,,0.5438,0.112,0.0869,0.0025,False,True,False,,,
 401909896,POR @ UTA,prop_pts,over,Deni Avdija,1630166.0,34.5,draftkings,563.0,6.63,0.2322,4.31,0.141,0.141,0.0912,,0.5393,0.1638,0.0858,0.0038,False,True,False,,,
 401909897,PHI @ CHA,prop_pra,under,VJ Edgecombe,1642845.0,27.5,draftkings,-107.0,1.93,0.7916,1.26,0.4831,0.4831,0.3085,,0.5314,0.5602,0.0838,0.0224,True,True,True,Jaylen Brown,0.396,0.6624
 401909899,SAC @ MEM,prop_reb,over,Darius Acuff Jr.,905142620.0,7.5,draftkings,1460.0,15.6,0.098,10.2,0.0599,0.0599,0.0381,,0.5294,0.0694,0.0833,0.0014,False,True,False,,,
@@ -28,22 +29,22 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909902,OKC @ HOU,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,1560.0,16.6,0.0916,10.91,0.0563,0.0563,0.0353,,0.5209,0.0651,0.0811,0.0013,False,False,False,,,
 401909897,PHI @ CHA,prop_pts,under,VJ Edgecombe,1642845.0,16.5,draftkings,-107.0,1.93,0.7817,1.28,0.4831,0.4831,0.2986,,0.5123,0.5577,0.079,0.0211,True,True,True,Jaylen Brown,0.3916,0.6667
 401909896,POR @ UTA,prop_blk,over,Donovan Clingan,1642270.0,4.5,draftkings,1300.0,14.0,0.108,9.26,0.0668,0.0668,0.0412,,0.512,0.0771,0.0789,0.0015,False,True,False,,,
-401909902,OKC @ HOU,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,910.0,10.1,0.1494,6.69,0.0925,0.0925,0.0569,,0.509,0.1067,0.0782,0.0021,False,True,False,,,
 401909897,PHI @ CHA,prop_pr,under,VJ Edgecombe,1642845.0,23.5,draftkings,-109.0,1.92,0.7871,1.27,0.4874,0.4874,0.2997,,0.5091,0.5623,0.0782,0.0213,True,True,True,Jaylen Brown,0.4174,0.6684
-401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,382.0,4.82,0.3124,3.2,0.1939,0.1939,0.1185,,0.5057,0.2235,0.0774,0.0051,False,True,False,,,
+401909902,OKC @ HOU,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,910.0,10.1,0.1494,6.69,0.0925,0.0925,0.0569,,0.509,0.1067,0.0782,0.0021,False,True,False,,,
 401909902,OKC @ HOU,prop_pts,over,Shai Gilgeous-Alexander,1628983.0,44.5,draftkings,1160.0,12.6,0.1194,8.37,0.0742,0.0742,0.0453,,0.5049,0.0855,0.0772,0.0017,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Darius Acuff Jr.,905142620.0,5.5,draftkings,412.0,5.12,0.2939,3.4,0.1825,0.1825,0.1113,,0.5045,0.2104,0.0771,0.0047,False,True,False,,,
+401909899,SAC @ MEM,prop_pts,over,Domantas Sabonis,1627734.0,29.5,draftkings,1760.0,18.6,0.0807,12.39,0.0502,0.0502,0.0305,,0.501,0.0579,0.0762,0.0011,False,True,False,,,
 401909897,PHI @ CHA,prop_pa,under,VJ Edgecombe,1642845.0,20.5,draftkings,-109.0,1.92,0.7823,1.28,0.4874,0.4874,0.2949,,0.5,0.5611,0.0759,0.0207,True,True,True,Jaylen Brown,0.3709,0.6583
 401909900,CLE @ MIL,prop_pts,over,Donovan Mitchell,1628378.0,44.5,draftkings,2500.0,26.0,0.0576,17.37,0.0359,0.0359,0.0216,,0.4967,0.0414,0.0751,0.0008,False,True,False,,,
-401909896,POR @ UTA,prop_pra,over,Deni Avdija,1630166.0,54.5,draftkings,840.0,9.4,0.1592,6.28,0.0994,0.0994,0.0597,,0.496,0.1144,0.0749,0.0022,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,13.5,draftkings,810.0,9.1,0.1637,6.11,0.1027,0.1027,0.061,,0.49,0.118,0.0734,0.0023,False,True,False,Ty Jerome,0.1985,0.1537
-401909899,SAC @ MEM,prop_pts,over,Domantas Sabonis,1627734.0,29.5,draftkings,1740.0,18.4,0.0807,12.39,0.0508,0.0508,0.0299,,0.4848,0.0583,0.0721,0.001,False,True,False,,,
-401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,9.5,draftkings,1760.0,18.6,0.0798,12.53,0.0502,0.0502,0.0296,,0.4843,0.0576,0.072,0.001,False,True,False,,,
 401909896,POR @ UTA,prop_reb,over,Jaxson Hayes,1629637.0,9.5,draftkings,660.0,7.6,0.1953,5.12,0.123,0.123,0.0723,,0.4841,0.141,0.072,0.0027,False,True,False,,,
+401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,9.5,draftkings,1760.0,18.6,0.0798,12.53,0.0502,0.0502,0.0296,,0.4843,0.0576,0.072,0.001,False,True,False,,,
 401909901,MIN @ SAS,prop_reb,over,Dylan Harper,1642844.0,8.5,draftkings,940.0,10.4,0.1422,7.03,0.0899,0.0899,0.0523,,0.4789,0.1029,0.0707,0.0019,False,False,False,,,
 401909901,MIN @ SAS,prop_reb,over,Dylan Harper,1642844.0,7.5,draftkings,548.0,6.48,0.2274,4.4,0.1442,0.1442,0.0832,,0.4735,0.165,0.0693,0.0032,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,6.5,draftkings,349.0,4.49,0.3275,3.05,0.2081,0.2081,0.1193,,0.4704,0.238,0.0685,0.0049,False,False,False,,,
+401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,370.0,4.7,0.3124,3.2,0.1988,0.1988,0.1135,,0.4682,0.2272,0.068,0.0046,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,12.5,draftkings,552.0,6.52,0.225,4.44,0.1433,0.1433,0.0817,,0.4672,0.1638,0.0677,0.0031,False,False,False,Ty Jerome,0.269,0.216
+401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,387.0,4.87,0.2993,3.34,0.1919,0.1919,0.1074,,0.4574,0.2187,0.0653,0.0042,False,True,False,,,
 401909896,POR @ UTA,prop_reb,over,Jaxson Hayes,1629637.0,8.5,draftkings,407.0,5.07,0.2869,3.49,0.1843,0.1843,0.1026,,0.4548,0.21,0.0646,0.004,False,False,False,,,
 401909902,OKC @ HOU,prop_ast,over,Kevin Durant,201142.0,3.5,draftkings,130.0,2.3,0.6208,1.61,0.4063,0.409,0.2118,,0.4279,0.462,0.0625,0.012,True,True,True,Alperen Sengun,0.711,0.6272
 401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,11.5,draftkings,2900.0,30.0,0.0482,20.76,0.0312,0.0312,0.017,,0.4453,0.0354,0.0623,0.0005,False,True,False,,,
@@ -53,17 +54,17 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909902,OKC @ HOU,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,8.5,draftkings,521.0,6.21,0.2308,4.33,0.1505,0.1505,0.0803,,0.4331,0.1706,0.0592,0.0028,False,False,False,,,
 401909899,SAC @ MEM,prop_pts,over,Jaylen Wells,1642377.0,24.5,draftkings,1840.0,19.4,0.0736,13.59,0.0482,0.0482,0.0254,,0.4277,0.0545,0.0579,0.0008,False,True,False,Ty Jerome,0.1463,0.0643
 401909901,MIN @ SAS,prop_reb,over,Dylan Harper,1642844.0,9.5,draftkings,1560.0,16.6,0.0857,11.67,0.0563,0.0563,0.0294,,0.4219,0.0636,0.0564,0.0009,False,True,False,,,
-401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,375.0,4.75,0.2993,3.34,0.1968,0.1968,0.1025,,0.4215,0.2224,0.0563,0.0038,False,True,False,,,
 401909896,POR @ UTA,prop_ast,over,Ace Bailey,1642846.0,4.5,draftkings,770.0,8.7,0.1626,6.15,0.1074,0.1074,0.0551,,0.4143,0.1212,0.0545,0.0018,False,False,False,Lauri Markkanen,0.1848,0.1382
 401909898,ATL @ NOP,prop_ast,over,Dejounte Murray,1627749.0,10.5,draftkings,1120.0,12.2,0.1155,8.66,0.0766,0.0766,0.0389,,0.4092,0.0863,0.0532,0.0012,False,False,False,,,
+401909899,SAC @ MEM,prop_pts,over,Domantas Sabonis,1627734.0,24.5,draftkings,650.0,7.5,0.1874,5.34,0.1246,0.1246,0.0628,,0.4057,0.1403,0.0524,0.002,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,11.5,draftkings,363.0,4.63,0.3017,3.32,0.2019,0.2019,0.0998,,0.3967,0.2268,0.0501,0.0035,False,True,False,Ty Jerome,0.3547,0.2928
 401909898,ATL @ NOP,prop_reb,over,Trey Murphy III,1630530.0,8.5,draftkings,990.0,10.9,0.128,7.81,0.0857,0.0857,0.0422,,0.3948,0.0963,0.0496,0.0013,False,False,False,,,
+401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,11.5,draftkings,2900.0,30.0,0.0464,21.55,0.0312,0.0312,0.0152,,0.3919,0.035,0.0489,0.0004,False,True,False,,,
 401909898,ATL @ NOP,prop_ast,over,Kingston Flemings,905149077.0,4.5,draftkings,291.0,3.91,0.3558,2.81,0.239,0.239,0.1168,,0.3912,0.2682,0.0487,0.0042,False,False,False,,,
 401909902,OKC @ HOU,prop_ast,over,Kevin Durant,201142.0,3.5,draftkings,127.0,2.27,0.6208,1.61,0.4117,0.409,0.2118,,0.4093,0.462,0.0487,0.0096,True,True,True,Alperen Sengun,0.711,0.6272
 401909896,POR @ UTA,prop_reb,over,Jaxson Hayes,1629637.0,11.5,draftkings,1600.0,17.0,0.0817,12.24,0.055,0.055,0.0268,,0.3894,0.0617,0.0483,0.0008,False,True,False,,,
-401909901,MIN @ SAS,moneyline,MIN,,,,ladbrokes_au,475.0,5.75,0.2363,4.23,0.1655,0.1823,0.054,5.11,0.3587,0.1823,0.0479,0.0025,False,True,True,,,
 401909901,MIN @ SAS,moneyline,MIN,,,,neds,475.0,5.75,0.2363,4.23,0.1655,0.1823,0.054,5.11,0.3587,0.1823,0.0479,0.0025,False,True,True,,,
-401909899,SAC @ MEM,prop_pts,over,Domantas Sabonis,1627734.0,24.5,draftkings,640.0,7.4,0.1874,5.34,0.1263,0.1263,0.0611,,0.387,0.1416,0.0477,0.0019,False,True,False,,,
+401909901,MIN @ SAS,moneyline,MIN,,,,ladbrokes_au,475.0,5.75,0.2363,4.23,0.1655,0.1823,0.054,5.11,0.3587,0.1823,0.0479,0.0025,False,True,True,,,
 401909898,ATL @ NOP,prop_reb,over,Trey Murphy III,1630530.0,7.5,draftkings,565.0,6.65,0.2083,4.8,0.1405,0.1405,0.0678,,0.3851,0.1575,0.0472,0.0021,False,True,False,,,
 401909898,ATL @ NOP,prop_ast,over,Dejounte Murray,1627749.0,9.5,draftkings,670.0,7.7,0.1798,5.56,0.1214,0.1214,0.0584,,0.3842,0.136,0.047,0.0018,False,True,False,,,
 401909898,ATL @ NOP,prop_ast,over,Dejounte Murray,1627749.0,11.5,draftkings,1840.0,19.4,0.0713,14.02,0.0482,0.0482,0.0232,,0.3839,0.054,0.0469,0.0006,False,True,False,,,
@@ -71,186 +72,180 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909901,MIN @ SAS,prop_reb,over,Devin Vassell,1630170.0,7.5,draftkings,1040.0,11.4,0.1205,8.3,0.082,0.082,0.0385,,0.3739,0.0916,0.0444,0.0011,False,True,False,,,
 401909900,CLE @ MIL,prop_fg3m,under,Kasparas Jakucionis,905214640.0,0.5,draftkings,153.0,2.53,0.543,1.84,0.3694,0.3694,0.1736,,0.3738,0.4128,0.0444,0.0073,True,False,True,,,
 401909900,CLE @ MIL,prop_pa,under,Mario Hezonja,1626209.0,9.5,draftkings,-103.0,1.97,0.6968,1.44,0.4742,0.4742,0.2227,,0.3734,0.5299,0.0443,0.0114,True,False,True,Meleek Thomas,0.6743,0.7243
-401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,19.5,draftkings,290.0,3.9,0.3516,2.84,0.2396,0.2396,0.1119,,0.3711,0.2676,0.0437,0.0038,False,True,False,,,
 401909896,POR @ UTA,prop_reb,over,Jaxson Hayes,1629637.0,7.5,draftkings,245.0,3.45,0.3965,2.52,0.2709,0.2709,0.1257,,0.3681,0.3023,0.043,0.0044,False,True,False,,,
+401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,19.5,draftkings,289.0,3.89,0.3516,2.84,0.2403,0.2403,0.1113,,0.3676,0.2681,0.0428,0.0037,False,True,False,,,
 401909900,CLE @ MIL,prop_pr,under,Mario Hezonja,1626209.0,11.5,draftkings,-101.0,1.99,0.6866,1.46,0.4696,0.4696,0.217,,0.3664,0.5239,0.0425,0.0107,True,False,True,Meleek Thomas,0.6551,0.722
+401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,9.5,draftkings,660.0,7.6,0.1797,5.56,0.123,0.123,0.0568,,0.3659,0.1372,0.0424,0.0016,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Darius Acuff Jr.,905142620.0,4.5,draftkings,205.0,3.05,0.4472,2.24,0.3064,0.3064,0.1407,,0.3638,0.3416,0.0419,0.0051,False,False,False,,,
 401909899,SAC @ MEM,prop_ast,over,Zach Edey,1641744.0,2.5,draftkings,730.0,8.3,0.1642,6.09,0.1126,0.1126,0.0516,,0.3628,0.1255,0.0416,0.0014,False,False,False,Ty Jerome,0.2096,0.1562
-401909899,SAC @ MEM,prop_pts,over,Jaylen Wells,1642377.0,19.5,draftkings,610.0,7.1,0.191,5.24,0.1316,0.1316,0.0593,,0.3558,0.1465,0.0399,0.0016,False,True,False,Ty Jerome,0.3173,0.1743
 401909896,POR @ UTA,prop_blk,over,Donovan Clingan,1642270.0,2.5,draftkings,227.0,3.27,0.4146,2.41,0.2858,0.2858,0.1288,,0.3557,0.318,0.0399,0.0044,False,True,False,,,
+401909899,SAC @ MEM,prop_pts,over,Jaylen Wells,1642377.0,19.5,draftkings,610.0,7.1,0.191,5.24,0.1316,0.1316,0.0593,,0.3558,0.1465,0.0399,0.0016,False,True,False,Ty Jerome,0.3173,0.1743
+401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,6.5,draftkings,1060.0,11.6,0.1168,8.56,0.0806,0.0806,0.0362,,0.3549,0.0896,0.0397,0.0009,False,False,False,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,15.5,draftkings,1620.0,17.2,0.0787,12.7,0.0543,0.0543,0.0244,,0.354,0.0604,0.0394,0.0006,False,True,False,,,
 401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,29.5,draftkings,2100.0,22.0,0.0615,16.27,0.0425,0.0425,0.019,,0.3521,0.0472,0.039,0.0005,False,True,False,,,
 401909899,SAC @ MEM,moneyline,SAC,,,,neds,340.0,4.4,0.2829,3.53,0.2171,0.2359,0.047,4.71,0.2448,0.2359,0.0382,0.0028,False,True,True,,,
 401909899,SAC @ MEM,moneyline,SAC,,,,ladbrokes_au,340.0,4.4,0.2829,3.53,0.2171,0.2359,0.047,4.71,0.2448,0.2359,0.0382,0.0028,False,True,True,,,
 401909896,POR @ UTA,prop_pa,over,Keyonte George,1641718.0,49.5,draftkings,1900.0,20.0,0.0672,14.87,0.0467,0.0467,0.0205,,0.3449,0.0519,0.0372,0.0005,False,True,False,,,
+401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,10.5,draftkings,1060.0,11.6,0.1159,8.63,0.0806,0.0806,0.0353,,0.3445,0.0894,0.0371,0.0009,False,False,False,,,
 401909897,PHI @ CHA,prop_pa,under,Tyrese Maxey,1630178.0,34.5,draftkings,-110.0,1.91,0.7041,1.42,0.4895,0.4895,0.2146,,0.3442,0.5432,0.037,0.0102,True,True,True,Jaylen Brown,0.4246,0.5597
 401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,5.5,draftkings,192.0,2.92,0.4597,2.18,0.3201,0.3201,0.1397,,0.3424,0.355,0.0365,0.0048,False,True,False,,,
-401909896,POR @ UTA,prop_ast,over,Ace Bailey,1642846.0,5.5,draftkings,1640.0,17.4,0.0769,13.0,0.0537,0.0537,0.0232,,0.3383,0.0595,0.0355,0.0005,False,True,False,,,
 401909902,OKC @ HOU,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,7.5,draftkings,292.0,3.92,0.3414,2.93,0.2384,0.2384,0.1029,,0.3381,0.2641,0.0355,0.003,False,True,False,,,
+401909896,POR @ UTA,prop_ast,over,Ace Bailey,1642846.0,5.5,draftkings,1640.0,17.4,0.0769,13.0,0.0537,0.0537,0.0232,,0.3383,0.0595,0.0355,0.0005,False,True,False,,,
 401909900,CLE @ MIL,prop_pa,over,Donovan Mitchell,1628378.0,49.5,draftkings,2000.0,21.0,0.0637,15.7,0.0445,0.0445,0.0192,,0.3374,0.0493,0.0353,0.0004,False,True,False,,,
-401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,6.5,draftkings,205.0,3.05,0.4383,2.28,0.3064,0.3064,0.1318,,0.3367,0.3394,0.0351,0.0043,False,False,False,,,
+401909896,POR @ UTA,prop_pra,over,Deni Avdija,1630166.0,49.5,draftkings,423.0,5.23,0.2557,3.91,0.1787,0.1787,0.077,,0.3372,0.1979,0.0352,0.0021,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Zach LaVine,203897.0,5.5,draftkings,556.0,6.56,0.2034,4.92,0.1425,0.1425,0.0609,,0.3344,0.1577,0.0345,0.0016,False,True,False,,,
+401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,8.5,draftkings,392.0,4.92,0.271,3.69,0.19,0.19,0.081,,0.3331,0.2102,0.0342,0.0022,False,False,False,,,
 401909897,PHI @ CHA,prop_pra,under,Tyrese Maxey,1630178.0,39.5,draftkings,-119.0,1.84,0.7233,1.38,0.5078,0.5078,0.2155,,0.3311,0.5617,0.0337,0.01,True,True,True,Jaylen Brown,0.4459,0.5761
-401909898,ATL @ NOP,prop_ast,over,Dejounte Murray,1627749.0,8.5,draftkings,394.0,4.94,0.2694,3.71,0.1892,0.1892,0.0802,,0.3308,0.2092,0.0336,0.0021,False,False,False,,,
 401909900,CLE @ MIL,prop_pa,over,Donovan Mitchell,1628378.0,44.5,draftkings,1040.0,11.4,0.1167,8.57,0.082,0.082,0.0347,,0.3305,0.0907,0.0336,0.0008,False,True,False,,,
-401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,9.5,draftkings,640.0,7.4,0.1797,5.56,0.1263,0.1263,0.0534,,0.33,0.1397,0.0334,0.0013,False,True,False,,,
+401909898,ATL @ NOP,prop_ast,over,Dejounte Murray,1627749.0,8.5,draftkings,394.0,4.94,0.2694,3.71,0.1892,0.1892,0.0802,,0.3308,0.2092,0.0336,0.0021,False,False,False,,,
 401909902,OKC @ HOU,prop_ra,over,Kevin Durant,201142.0,8.5,draftkings,100.0,2.0,0.6604,1.51,0.4686,0.4686,0.1919,6.71,0.3209,0.5165,0.0331,0.0083,True,True,True,Alperen Sengun,0.7758,0.6663
 401909898,ATL @ NOP,prop_reb,over,Trey Murphy III,1630530.0,9.5,draftkings,1660.0,17.6,0.0754,13.27,0.0531,0.0531,0.0223,,0.3267,0.0587,0.0326,0.0005,False,True,False,,,
 401909901,MIN @ SAS,prop_reb,over,Devin Vassell,1630170.0,6.5,draftkings,531.0,6.31,0.2102,4.76,0.1481,0.1481,0.062,,0.3261,0.1636,0.0325,0.0015,False,False,False,,,
 401909901,MIN @ SAS,prop_pts,over,Victor Wembanyama,1641705.0,39.5,draftkings,1320.0,14.2,0.0934,10.71,0.0658,0.0658,0.0276,,0.3264,0.0727,0.0325,0.0006,False,True,False,,,
 401909896,POR @ UTA,prop_ast,over,Ace Bailey,1642846.0,3.5,draftkings,331.0,4.31,0.3074,3.25,0.2168,0.2168,0.0906,,0.3249,0.2395,0.0322,0.0024,False,True,False,Lauri Markkanen,0.3422,0.2768
-401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,10.5,draftkings,1040.0,11.4,0.1159,8.63,0.082,0.082,0.0339,,0.3214,0.0905,0.0313,0.0008,False,False,False,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,10.5,draftkings,235.0,3.35,0.394,2.54,0.279,0.279,0.115,,0.3198,0.3077,0.0309,0.0033,False,False,False,Ty Jerome,0.4498,0.3844
 401909897,PHI @ CHA,prop_pts,under,Tyrese Maxey,1630178.0,28.5,draftkings,-111.0,1.9,0.6944,1.44,0.4917,0.4917,0.2027,,0.3199,0.5423,0.0309,0.0086,True,True,True,Jaylen Brown,0.4308,0.5626
+401909900,CLE @ MIL,prop_ast,over,Tyler Herro,1629639.0,7.5,draftkings,910.0,10.1,0.1306,7.65,0.0925,0.0925,0.0381,,0.3195,0.1021,0.0308,0.0008,False,True,False,,,
 401909897,PHI @ CHA,prop_pa,under,Brandon Miller,1641706.0,30.5,draftkings,-111.0,1.9,0.6938,1.44,0.4917,0.4917,0.2022,,0.3189,0.5422,0.0307,0.0085,True,True,True,,,
 401909902,OKC @ HOU,prop_pr,over,Shai Gilgeous-Alexander,1628983.0,54.5,draftkings,1960.0,20.6,0.0638,15.66,0.0454,0.0454,0.0185,,0.3153,0.05,0.0297,0.0004,False,True,False,,,
 401909896,POR @ UTA,prop_pa,over,Jrue Holiday,201950.0,29.5,draftkings,690.0,7.9,0.1664,6.01,0.1183,0.1183,0.0481,,0.3147,0.1303,0.0296,0.0011,False,True,False,,,
-401909900,CLE @ MIL,prop_pts,under,Mario Hezonja,1626209.0,8.5,draftkings,-131.0,1.76,0.7443,1.34,0.53,0.53,0.2143,,0.3124,0.5836,0.029,0.0095,True,False,True,,,
+401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,6.5,draftkings,200.0,3.0,0.4383,2.28,0.3115,0.3115,0.1267,,0.3148,0.3432,0.0296,0.0037,False,False,False,,,
+401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,5.5,draftkings,538.0,6.38,0.2058,4.86,0.1465,0.1465,0.0593,,0.313,0.1613,0.0292,0.0014,False,True,False,,,
 401909898,ATL @ NOP,prop_pa,over,CJ McCollum,203468.0,34.5,draftkings,1540.0,16.4,0.08,12.5,0.057,0.057,0.023,,0.3121,0.0627,0.029,0.0005,False,True,False,,,
+401909900,CLE @ MIL,prop_pts,under,Mario Hezonja,1626209.0,8.5,draftkings,-131.0,1.76,0.7443,1.34,0.53,0.53,0.2143,,0.3124,0.5836,0.029,0.0095,True,False,True,,,
 401909897,PHI @ CHA,prop_pr,under,Tyrese Maxey,1630178.0,33.5,draftkings,-120.0,1.83,0.715,1.4,0.5098,0.5098,0.2052,,0.3108,0.5611,0.0286,0.0086,True,True,True,Joel Embiid,0.4534,0.5797
-401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,6.5,draftkings,1020.0,11.2,0.1168,8.56,0.0834,0.0834,0.0334,,0.3082,0.0918,0.028,0.0007,False,False,False,,,
-401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,8.5,draftkings,382.0,4.82,0.271,3.69,0.1939,0.1939,0.0771,,0.306,0.2132,0.0274,0.0018,False,False,False,,,
+401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,11.5,draftkings,1700.0,18.0,0.0727,13.75,0.0519,0.0519,0.0208,,0.3092,0.0571,0.0282,0.0004,False,True,False,,,
 401909902,OKC @ HOU,prop_blk,over,Amen Thompson,1641708.0,1.5,draftkings,850.0,9.5,0.1374,7.28,0.0984,0.0984,0.0391,,0.3056,0.1081,0.0273,0.0008,False,True,False,,,
 401909897,PHI @ CHA,prop_pra,under,Brandon Miller,1641706.0,36.5,draftkings,-113.0,1.88,0.6917,1.45,0.4958,0.4958,0.1959,,0.3039,0.5448,0.0269,0.0076,True,True,True,,,
+401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,6.5,draftkings,207.0,3.07,0.4241,2.36,0.3044,0.3044,0.1197,,0.302,0.3343,0.0264,0.0032,False,False,False,,,
 401909902,OKC @ HOU,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,11.5,draftkings,2400.0,25.0,0.0521,19.2,0.0374,0.0374,0.0147,,0.3019,0.0411,0.0264,0.0003,False,True,False,,,
 401909896,POR @ UTA,prop_pts,under,Damian Lillard,203081.0,23.5,draftkings,-116.0,1.86,0.698,1.43,0.5019,0.5019,0.1961,,0.2997,0.5509,0.0259,0.0075,True,True,True,Robert Williams III,0.6204,0.733
-401909902,OKC @ HOU,prop_reb,over,Kevin Durant,201142.0,8.5,draftkings,720.0,8.2,0.1582,6.32,0.114,0.114,0.0443,,0.2974,0.125,0.0253,0.0009,False,False,False,Alperen Sengun,0.2276,0.1553
 401909897,PHI @ CHA,prop_pr,under,Brandon Miller,1641706.0,33.5,draftkings,-115.0,1.87,0.6933,1.44,0.4999,0.4999,0.1934,,0.2962,0.5482,0.025,0.0072,True,True,True,,,
 401909900,CLE @ MIL,prop_reb,under,Kyle Kuzma,1628398.0,5.5,draftkings,102.0,2.02,0.6409,1.56,0.4627,0.4627,0.1783,,0.2947,0.5072,0.0246,0.006,True,True,True,,,
 401909897,PHI @ CHA,prop_pts,under,Brandon Miller,1641706.0,27.5,draftkings,-115.0,1.87,0.6923,1.44,0.4999,0.4999,0.1924,,0.2943,0.548,0.0245,0.007,True,True,True,,,
-401909900,CLE @ MIL,prop_ast,over,Tyler Herro,1629639.0,7.5,draftkings,890.0,9.9,0.1306,7.65,0.0944,0.0944,0.0362,,0.2934,0.1035,0.0243,0.0007,False,True,False,,,
 401909898,ATL @ NOP,prop_pts,under,Karlo Matkovic,1631255.0,8.5,draftkings,-129.0,1.78,0.7277,1.37,0.5265,0.5265,0.2013,,0.2918,0.5768,0.0239,0.0077,True,False,True,,,
-401909896,POR @ UTA,prop_ast,over,Jrue Holiday,201950.0,6.5,draftkings,204.0,3.04,0.4241,2.36,0.3074,0.3074,0.1167,,0.2893,0.3366,0.0233,0.0029,False,False,False,,,
 401909896,POR @ UTA,prop_pa,over,Keyonte George,1641718.0,44.5,draftkings,940.0,10.4,0.1238,8.08,0.0899,0.0899,0.0339,,0.2876,0.0983,0.0228,0.0006,False,True,False,Lauri Markkanen,0.1468,0.0863
 401909896,POR @ UTA,prop_pr,under,Damian Lillard,203081.0,27.5,draftkings,-110.0,1.91,0.6744,1.48,0.4895,0.4895,0.1849,,0.2875,0.5358,0.0228,0.0063,True,True,True,Robert Williams III,0.6018,0.711
-401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,5.5,draftkings,525.0,6.25,0.2058,4.86,0.1495,0.1495,0.0563,,0.2863,0.1636,0.0225,0.0011,False,True,False,,,
 401909896,POR @ UTA,prop_reb,over,Jaxson Hayes,1629637.0,6.5,draftkings,144.0,2.44,0.5267,1.9,0.383,0.383,0.1437,,0.2851,0.4189,0.0222,0.0039,False,False,False,Lauri Markkanen,0.5478,0.5046
 401909899,SAC @ MEM,prop_pts,over,Jaylen Wells,1642377.0,17.5,draftkings,377.0,4.77,0.2692,3.71,0.1959,0.1959,0.0733,,0.284,0.2142,0.0219,0.0015,False,False,False,Ty Jerome,0.4129,0.253
-401909898,ATL @ NOP,prop_pts,under,Kingston Flemings,905149077.0,8.5,draftkings,-131.0,1.76,0.7277,1.37,0.53,0.53,0.1977,,0.2831,0.5794,0.0217,0.0071,True,False,True,,,
+401909896,POR @ UTA,prop_pra,over,Jrue Holiday,201950.0,34.5,draftkings,610.0,7.1,0.1808,5.53,0.1316,0.1316,0.0491,,0.2835,0.1439,0.0218,0.0009,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Zach LaVine,203897.0,4.5,draftkings,269.0,3.69,0.3476,2.88,0.2533,0.2533,0.0943,,0.2826,0.2769,0.0216,0.002,False,False,False,,,
-401909898,ATL @ NOP,prop_reb,over,Trey Murphy III,1630530.0,6.5,draftkings,306.0,4.06,0.3154,3.17,0.2302,0.2302,0.0853,,0.2807,0.2515,0.0211,0.0017,False,False,False,,,
-401909901,MIN @ SAS,prop_reb,over,Dylan Harper,1642844.0,5.5,draftkings,167.0,2.67,0.4797,2.08,0.35,0.35,0.1297,,0.2809,0.3825,0.0211,0.0032,False,True,False,,,
 401909900,CLE @ MIL,moneyline,MIL,,,,draftkings,295.0,3.95,0.3821,2.62,0.2428,0.2585,0.1236,4.26,0.5093,0.2585,0.0211,0.0018,False,True,True,,,
-401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,11.5,draftkings,1660.0,17.6,0.0727,13.75,0.0531,0.0531,0.0196,,0.2801,0.058,0.021,0.0003,False,True,False,,,
+401909901,MIN @ SAS,prop_reb,over,Dylan Harper,1642844.0,5.5,draftkings,167.0,2.67,0.4797,2.08,0.35,0.35,0.1297,,0.2809,0.3825,0.0211,0.0032,False,True,False,,,
+401909898,ATL @ NOP,prop_reb,over,Trey Murphy III,1630530.0,6.5,draftkings,306.0,4.06,0.3154,3.17,0.2302,0.2302,0.0853,,0.2807,0.2515,0.0211,0.0017,False,False,False,,,
 401909898,ATL @ NOP,prop_pa,over,CJ McCollum,203468.0,29.5,draftkings,640.0,7.4,0.1728,5.79,0.1263,0.1263,0.0466,,0.2791,0.1379,0.0207,0.0008,False,True,False,,,
-401909896,POR @ UTA,prop_pra,over,Deni Avdija,1630166.0,49.5,draftkings,400.0,5.0,0.2557,3.91,0.1869,0.1869,0.0688,,0.2784,0.2041,0.0205,0.0013,False,True,False,,,
+401909898,ATL @ NOP,prop_pts,under,Kingston Flemings,905149077.0,7.5,draftkings,-104.0,1.96,0.6501,1.54,0.4765,0.4765,0.1736,,0.2751,0.5199,0.0197,0.0051,True,False,True,,,
 401909897,PHI @ CHA,prop_fg3m,under,Tyrese Maxey,1630178.0,2.5,draftkings,129.0,2.29,0.5561,1.8,0.4081,0.4081,0.148,,0.2736,0.4451,0.0193,0.0037,False,True,True,,,
 401909898,ATL @ NOP,prop_pr,under,Karlo Matkovic,1631255.0,13.5,draftkings,-123.0,1.81,0.7016,1.43,0.5155,0.5155,0.1861,,0.272,0.562,0.0189,0.0058,True,False,True,,,
 401909901,MIN @ SAS,prop_pts,over,Victor Wembanyama,1641705.0,44.5,draftkings,2600.0,27.0,0.0471,21.24,0.0346,0.0346,0.0125,,0.2713,0.0377,0.0188,0.0002,False,True,False,,,
-401909898,ATL @ NOP,prop_ast,over,Kingston Flemings,905149077.0,8.5,draftkings,2800.0,29.0,0.0438,22.84,0.0322,0.0322,0.0116,,0.2698,0.0351,0.0184,0.0002,False,False,False,,,
+401909896,POR @ UTA,prop_pra,over,Jrue Holiday,201950.0,39.5,draftkings,1460.0,15.6,0.0815,12.27,0.0599,0.0599,0.0216,,0.2713,0.0653,0.0188,0.0003,False,True,False,,,
 401909896,POR @ UTA,prop_ra,over,Jaxson Hayes,1629637.0,7.5,draftkings,-104.0,1.96,0.6464,1.55,0.4768,0.4768,0.1697,6.93,0.268,0.5192,0.0184,0.0048,True,True,True,Lauri Markkanen,0.6662,0.6161
+401909898,ATL @ NOP,prop_ast,over,Kingston Flemings,905149077.0,8.5,draftkings,2800.0,29.0,0.0438,22.84,0.0322,0.0322,0.0116,,0.2698,0.0351,0.0184,0.0002,False,False,False,,,
 401909897,PHI @ CHA,prop_ra,under,VJ Edgecombe,1642845.0,10.5,draftkings,-106.0,1.94,0.6508,1.54,0.4817,0.4817,0.1691,6.81,0.2648,0.524,0.0183,0.0049,True,True,True,Jaylen Brown,0.4452,0.5347
-401909902,OKC @ HOU,prop_reb,over,Kevin Durant,201142.0,7.5,draftkings,402.0,5.02,0.2528,3.96,0.1862,0.1862,0.0666,,0.2691,0.2028,0.0182,0.0011,False,True,False,Alperen Sengun,0.3407,0.2532
 401909896,POR @ UTA,moneyline,UTA,,,,draftkings,260.0,3.6,0.3197,3.13,0.2665,0.2827,0.037,4.25,0.1509,0.2827,0.0178,0.0017,False,True,True,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,9.5,draftkings,154.0,2.54,0.4986,2.01,0.3679,0.3679,0.1307,,0.2665,0.4006,0.0176,0.0028,False,True,False,Ty Jerome,0.555,0.4898
 401909900,CLE @ MIL,prop_pr,over,Donovan Mitchell,1628378.0,44.5,draftkings,960.0,10.6,0.1195,8.37,0.0882,0.0882,0.0313,,0.2664,0.096,0.0175,0.0005,False,True,False,,,
+401909900,CLE @ MIL,prop_ast,over,Tyler Herro,1629639.0,8.5,draftkings,1660.0,17.6,0.072,13.9,0.0531,0.0531,0.0189,,0.2664,0.0578,0.0175,0.0003,False,False,False,,,
 401909900,CLE @ MIL,prop_pr,over,Donovan Mitchell,1628378.0,49.5,draftkings,1860.0,19.6,0.0645,15.5,0.0477,0.0477,0.0168,,0.2642,0.0519,0.017,0.0002,False,True,False,,,
-401909896,POR @ UTA,prop_pra,over,Jrue Holiday,201950.0,34.5,draftkings,599.0,6.99,0.1808,5.53,0.1337,0.1337,0.0471,,0.2636,0.1455,0.0168,0.0007,False,True,False,,,
+401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,7.5,draftkings,228.0,3.28,0.3851,2.6,0.2849,0.2849,0.1002,,0.2631,0.31,0.0167,0.0018,False,True,False,Alperen Sengun,0.4417,0.3947
 401909900,CLE @ MIL,prop_pts,over,Donovan Mitchell,1628378.0,34.5,draftkings,524.0,6.24,0.2022,4.95,0.1498,0.1498,0.0524,,0.2616,0.1629,0.0163,0.0008,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,Darius Acuff Jr.,905142620.0,3.5,draftkings,-101.0,1.99,0.6267,1.6,0.4696,0.4719,0.1548,,0.2471,0.5106,0.0161,0.0041,True,True,True,,,
 401909900,CLE @ MIL,prop_reb,under,Kasparas Jakucionis,905214640.0,2.5,draftkings,115.0,2.15,0.5848,1.71,0.4347,0.4347,0.1501,,0.2572,0.4722,0.0152,0.0033,True,False,True,,,
+401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,7.5,draftkings,1900.0,20.0,0.0628,15.91,0.0467,0.0467,0.0161,,0.2568,0.0508,0.0151,0.0002,False,True,False,,,
 401909901,MIN @ SAS,prop_pa,over,Victor Wembanyama,1641705.0,44.5,draftkings,1520.0,16.2,0.0775,12.9,0.0577,0.0577,0.0199,,0.2562,0.0627,0.015,0.0002,False,True,False,,,
-401909896,POR @ UTA,prop_pra,over,Jrue Holiday,201950.0,39.5,draftkings,1440.0,15.4,0.0815,12.27,0.0607,0.0607,0.0208,,0.255,0.0659,0.0147,0.0003,False,True,False,,,
 401909899,SAC @ MEM,moneyline,SAC,,,,pointsbetau,330.0,4.3,0.2829,3.53,0.2238,0.2359,0.047,3.91,0.2165,0.2359,0.0146,0.0011,False,True,True,,,
 401909900,CLE @ MIL,prop_pr,under,Kel'el Ware,905105623.0,16.5,draftkings,-105.0,1.95,0.6404,1.56,0.4787,0.4787,0.1617,,0.2504,0.5191,0.0135,0.0036,True,True,True,,,
 401909901,MIN @ SAS,prop_pra,under,Ayo Dosunmu,1630245.0,24.5,draftkings,-119.0,1.84,0.6783,1.47,0.5078,0.5078,0.1705,,0.2483,0.5504,0.013,0.0039,True,True,True,,,
 401909896,POR @ UTA,prop_pts,over,Deni Avdija,1630166.0,29.5,draftkings,231.0,3.31,0.3769,2.65,0.2824,0.2824,0.0946,,0.2476,0.306,0.0128,0.0014,False,True,False,,,
 401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,4.5,draftkings,104.0,2.04,0.6112,1.64,0.4581,0.4581,0.153,,0.2467,0.4964,0.0126,0.003,True,True,True,,,
 401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,4.5,draftkings,104.0,2.04,0.6112,1.64,0.4581,0.4581,0.153,,0.2467,0.4964,0.0126,0.003,True,True,True,,,
-401909898,ATL @ NOP,prop_pr,under,Kingston Flemings,905149077.0,10.5,draftkings,-110.0,1.91,0.6524,1.53,0.4895,0.4895,0.1629,,0.2455,0.5303,0.0123,0.0034,True,False,True,,,
+401909900,CLE @ MIL,prop_ast,over,Tyler Herro,1629639.0,6.5,draftkings,479.0,5.79,0.2151,4.65,0.1614,0.1614,0.0537,,0.2454,0.1748,0.0123,0.0006,False,False,False,,,
 401909901,MIN @ SAS,prop_reb,over,Devin Vassell,1630170.0,8.5,draftkings,1820.0,19.2,0.0648,15.44,0.0487,0.0487,0.0161,,0.2439,0.0527,0.0119,0.0002,False,False,False,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,8.5,draftkings,102.0,2.02,0.6086,1.64,0.4627,0.465,0.1436,,0.2294,0.5009,0.0118,0.0029,False,True,True,Ty Jerome,0.6618,0.6045
+401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,4.5,draftkings,266.0,3.66,0.3393,2.95,0.2553,0.2553,0.084,,0.242,0.2763,0.0114,0.0011,False,False,False,,,
+401909899,SAC @ MEM,prop_pra,over,Precious Achiuwa,1630173.0,22.5,draftkings,-116.0,1.86,0.6605,1.51,0.5019,0.5039,0.1567,,0.23,0.5431,0.0112,0.0032,True,True,True,,,
 401909898,ATL @ NOP,prop_reb,over,Zion Williamson,1629627.0,7.5,draftkings,334.0,4.34,0.286,3.5,0.2153,0.2153,0.0707,,0.2412,0.233,0.0112,0.0008,False,True,False,,,
-401909902,OKC @ HOU,prop_reb,over,Aday Mara,905174983.0,8.5,draftkings,587.0,6.87,0.1806,5.54,0.136,0.136,0.0446,,0.2408,0.1472,0.0111,0.0005,False,False,False,,,
 401909899,SAC @ MEM,prop_reb,over,De'Andre Hunter,1629631.0,10.5,draftkings,2600.0,27.0,0.046,21.76,0.0346,0.0346,0.0113,,0.2407,0.0374,0.0111,0.0001,False,False,False,,,
+401909902,OKC @ HOU,prop_reb,over,Aday Mara,905174983.0,8.5,draftkings,587.0,6.87,0.1806,5.54,0.136,0.136,0.0446,,0.2408,0.1472,0.0111,0.0005,False,False,False,,,
 401909900,CLE @ MIL,prop_pra,over,Donovan Mitchell,1628378.0,54.5,draftkings,1680.0,17.8,0.0697,14.35,0.0525,0.0525,0.0172,,0.2407,0.0568,0.0111,0.0002,False,True,False,,,
 401909901,MIN @ SAS,prop_ra,under,LaMelo Ball,1630163.0,10.5,draftkings,-104.0,1.96,0.6287,1.59,0.4776,0.4776,0.151,6.73,0.2332,0.5154,0.011,0.0029,True,True,True,,,
 401909897,PHI @ CHA,prop_reb,under,VJ Edgecombe,1642845.0,6.5,draftkings,102.0,2.02,0.6138,1.63,0.4627,0.4627,0.1511,,0.2399,0.5004,0.0109,0.0027,True,True,True,,,
-401909902,OKC @ HOU,prop_fg3m,under,Reed Sheppard,1642263.0,2.5,draftkings,-144.0,1.69,0.7314,1.37,0.5516,0.5516,0.1799,,0.2394,0.5965,0.0108,0.0039,True,False,True,Reed Sheppard,0.0,0.6586
 401909898,ATL @ NOP,prop_ast,over,Jeremiah Fears,1642847.0,5.5,draftkings,461.0,5.61,0.221,4.53,0.1666,0.1666,0.0544,,0.2396,0.1802,0.0108,0.0006,False,True,False,,,
+401909902,OKC @ HOU,prop_fg3m,under,Reed Sheppard,1642263.0,2.5,draftkings,-144.0,1.69,0.7314,1.37,0.5516,0.5516,0.1799,,0.2394,0.5965,0.0108,0.0039,True,False,True,Reed Sheppard,0.0,0.6586
 401909901,MIN @ SAS,prop_pa,under,Ayo Dosunmu,1630245.0,19.5,draftkings,-111.0,1.9,0.6518,1.53,0.4917,0.4917,0.1602,,0.239,0.5317,0.0107,0.003,True,True,True,,,
 401909899,SAC @ MEM,prop_reb,over,Precious Achiuwa,1630173.0,11.5,draftkings,471.0,5.71,0.2165,4.62,0.1637,0.1637,0.0528,,0.2361,0.1769,0.01,0.0005,False,True,False,,,
 401909896,POR @ UTA,prop_pa,over,Jrue Holiday,201950.0,34.5,draftkings,1700.0,18.0,0.0686,14.57,0.0519,0.0519,0.0167,,0.2353,0.0561,0.0098,0.0001,False,True,False,,,
 401909898,ATL @ NOP,prop_ast,over,Jeremiah Fears,1642847.0,4.5,draftkings,243.0,3.43,0.3602,2.78,0.2725,0.2725,0.0877,,0.2353,0.2944,0.0098,0.001,False,False,False,,,
+401909902,OKC @ HOU,prop_reb,over,Kevin Durant,201142.0,8.5,draftkings,680.0,7.8,0.1582,6.32,0.1198,0.1198,0.0384,,0.2341,0.1294,0.0095,0.0003,False,False,False,Alperen Sengun,0.2276,0.1553
 401909900,CLE @ MIL,prop_reb,under,Kel'el Ware,905105623.0,6.5,draftkings,100.0,2.0,0.617,1.62,0.4673,0.4673,0.1497,,0.234,0.5047,0.0094,0.0024,False,True,True,,,
 401909900,CLE @ MIL,prop_pr,under,Kasparas Jakucionis,905214640.0,10.5,draftkings,-121.0,1.83,0.6753,1.48,0.5117,0.5117,0.1636,,0.2335,0.5526,0.0093,0.0028,True,False,True,,,
-401909902,OKC @ HOU,prop_reb,over,Kevin Durant,201142.0,9.5,draftkings,1220.0,13.2,0.0934,10.7,0.0708,0.0708,0.0226,,0.2331,0.0765,0.0092,0.0002,False,True,False,Alperen Sengun,0.1451,0.0911
-401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,7.5,draftkings,220.0,3.2,0.3851,2.6,0.2921,0.2921,0.093,,0.2323,0.3153,0.009,0.001,False,True,False,Alperen Sengun,0.4417,0.3947
 401909902,OKC @ HOU,prop_reb,over,Aday Mara,905174983.0,9.5,draftkings,950.0,10.5,0.1173,8.53,0.089,0.089,0.0283,,0.2314,0.0961,0.0088,0.0002,False,True,False,,,
 401909901,MIN @ SAS,prop_reb,over,Devin Vassell,1630170.0,5.5,draftkings,268.0,3.68,0.3339,2.99,0.254,0.254,0.08,,0.2289,0.274,0.0082,0.0008,False,True,False,,,
-401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,4.5,draftkings,262.0,3.62,0.3393,2.95,0.2582,0.2582,0.0812,,0.2284,0.2785,0.008,0.0008,False,False,False,,,
 401909901,MIN @ SAS,prop_ast,under,LaMelo Ball,1630163.0,6.5,draftkings,-115.0,1.87,0.6567,1.52,0.4999,0.4999,0.1568,,0.2277,0.5391,0.0079,0.0023,True,True,True,,,
 401909901,MIN @ SAS,prop_pr,under,Ayo Dosunmu,1630245.0,20.5,draftkings,-126.0,1.79,0.6825,1.47,0.521,0.521,0.1615,,0.2242,0.5614,0.007,0.0022,True,True,True,,,
 401909896,POR @ UTA,prop_ast,over,Keyonte George,1641718.0,10.5,draftkings,940.0,10.4,0.1177,8.5,0.0899,0.0899,0.0278,,0.2237,0.0968,0.0069,0.0002,False,False,False,,,
-401909902,OKC @ HOU,prop_reb,over,Alperen Sengun,1630578.0,12.5,draftkings,543.0,6.43,0.1904,5.25,0.1453,0.1453,0.045,,0.224,0.1566,0.0069,0.0003,False,False,False,Alperen Sengun,0.0,0.213
-401909900,CLE @ MIL,prop_ast,over,Tyler Herro,1629639.0,8.5,draftkings,1600.0,17.0,0.072,13.9,0.055,0.055,0.017,,0.2232,0.0592,0.0067,0.0001,False,False,False,,,
-401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,14.5,draftkings,-112.0,1.89,0.6425,1.56,0.4937,0.4948,0.1478,,0.2162,0.5317,0.0065,0.0018,False,True,True,,,
 401909900,CLE @ MIL,prop_reb,under,Mario Hezonja,1626209.0,3.5,draftkings,-101.0,1.99,0.6143,1.63,0.4696,0.4696,0.1447,,0.2225,0.5058,0.0065,0.0017,False,True,True,Meleek Thomas,0.5692,0.6585
 401909896,POR @ UTA,prop_pa,under,Damian Lillard,203081.0,28.5,draftkings,-107.0,1.93,0.6317,1.58,0.4831,0.4831,0.1486,,0.2221,0.5202,0.0064,0.0017,False,True,True,Robert Williams III,0.5532,0.6677
 401909899,SAC @ MEM,prop_reb,over,Darius Acuff Jr.,905142620.0,3.5,draftkings,-103.0,1.97,0.6267,1.6,0.4742,0.4719,0.1548,,0.2351,0.5106,0.0063,0.0016,True,True,True,,,
-401909900,CLE @ MIL,prop_pra,under,Kasparas Jakucionis,905214640.0,13.5,draftkings,-103.0,1.97,0.6195,1.61,0.4742,0.4742,0.1453,,0.2209,0.5105,0.0062,0.0016,False,False,True,,,
-401909901,MIN @ SAS,prop_pts,under,Ayo Dosunmu,1630245.0,15.5,draftkings,-116.0,1.86,0.6556,1.53,0.5019,0.5019,0.1537,,0.2209,0.5403,0.0061,0.0018,True,True,True,,,
 401909896,POR @ UTA,prop_fg3m,under,Scoot Henderson,1630703.0,1.5,draftkings,143.0,2.43,0.5023,1.99,0.3846,0.3846,0.1177,,0.2207,0.414,0.0061,0.0011,False,True,True,,,
 401909898,ATL @ NOP,prop_reb,over,Zion Williamson,1629627.0,8.5,draftkings,578.0,6.78,0.1801,5.55,0.1378,0.1378,0.0422,,0.2208,0.1484,0.0061,0.0003,False,False,False,,,
+401909901,MIN @ SAS,prop_pts,under,Ayo Dosunmu,1630245.0,15.5,draftkings,-116.0,1.86,0.6556,1.53,0.5019,0.5019,0.1537,,0.2209,0.5403,0.0061,0.0018,True,True,True,,,
 401909899,SAC @ MEM,prop_reb,over,Zach LaVine,203897.0,6.5,draftkings,1020.0,11.2,0.1089,9.18,0.0834,0.0834,0.0255,,0.2202,0.0898,0.006,0.0001,False,False,False,,,
-401909899,SAC @ MEM,prop_pra,over,Precious Achiuwa,1630173.0,22.5,draftkings,-118.0,1.85,0.6605,1.51,0.5059,0.5059,0.1547,,0.2203,0.5445,0.006,0.0018,True,True,True,,,
-401909899,SAC @ MEM,prop_pra,over,Precious Achiuwa,1630173.0,22.5,draftkings,-118.0,1.85,0.6605,1.51,0.5059,0.5059,0.1547,,0.2203,0.5445,0.006,0.0018,True,True,True,,,
 401909896,POR @ UTA,prop_ast,over,Ace Bailey,1642846.0,2.5,draftkings,137.0,2.37,0.5073,1.97,0.3943,0.3969,0.1104,,0.2022,0.4245,0.006,0.0011,False,True,True,Lauri Markkanen,0.5498,0.4793
 401909896,POR @ UTA,prop_reb,over,Jaxson Hayes,1629637.0,5.5,draftkings,-118.0,1.85,0.6573,1.52,0.5059,0.5069,0.1505,,0.2143,0.5445,0.0059,0.0017,True,True,True,Lauri Markkanen,0.6748,0.6315
 401909899,SAC @ MEM,prop_reb,over,Darius Acuff Jr.,905142620.0,8.5,draftkings,2300.0,24.0,0.0508,19.68,0.0389,0.0389,0.0119,,0.2193,0.0419,0.0057,0.0001,False,False,False,,,
-401909900,CLE @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,7.5,draftkings,1840.0,19.4,0.0628,15.91,0.0482,0.0482,0.0147,,0.2191,0.0518,0.0057,0.0001,False,True,False,,,
+401909899,SAC @ MEM,prop_pr,over,Precious Achiuwa,1630173.0,20.5,draftkings,-123.0,1.81,0.6723,1.49,0.5155,0.5155,0.1568,,0.2189,0.5547,0.0057,0.0017,True,True,True,,,
+401909899,SAC @ MEM,prop_pr,over,Precious Achiuwa,1630173.0,20.5,draftkings,-123.0,1.81,0.6723,1.49,0.5155,0.5155,0.1568,,0.2189,0.5547,0.0057,0.0017,True,True,True,,,
 401909899,SAC @ MEM,prop_ast,over,Zach Edey,1641744.0,3.5,draftkings,1840.0,19.4,0.0628,15.92,0.0482,0.0482,0.0146,,0.2185,0.0518,0.0056,0.0001,False,True,False,,,
 401909898,ATL @ NOP,prop_ast,over,CJ McCollum,203468.0,5.5,draftkings,574.0,6.74,0.1806,5.54,0.1387,0.1387,0.042,,0.2175,0.1492,0.0053,0.0002,False,True,False,,,
 401909896,POR @ UTA,prop_pra,under,Scoot Henderson,1630703.0,20.5,draftkings,-104.0,1.96,0.6204,1.61,0.4765,0.4765,0.1439,,0.2169,0.5124,0.0052,0.0013,False,True,True,Robert Williams III,0.5737,0.642
-401909899,SAC @ MEM,prop_pr,over,Precious Achiuwa,1630173.0,20.5,draftkings,-125.0,1.8,0.6723,1.49,0.5192,0.5201,0.1522,,0.2101,0.5582,0.0047,0.0015,True,True,True,,,
+401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,14.5,draftkings,-113.0,1.88,0.6425,1.56,0.4958,0.4968,0.1457,,0.2111,0.5333,0.0052,0.0015,False,True,True,,,
+401909902,OKC @ HOU,prop_reb,over,Kevin Durant,201142.0,7.5,draftkings,381.0,4.81,0.2528,3.96,0.1943,0.1943,0.0585,,0.216,0.2089,0.0049,0.0003,False,True,False,Alperen Sengun,0.3407,0.2532
 401909900,CLE @ MIL,prop_ast,under,Myles Turner,1626167.0,1.5,draftkings,-107.0,1.93,0.6281,1.59,0.4831,0.4831,0.145,,0.2151,0.5193,0.0047,0.0013,False,False,True,,,
+401909898,ATL @ NOP,prop_pr,under,Kingston Flemings,905149077.0,10.5,draftkings,-116.0,1.86,0.6524,1.53,0.5019,0.5019,0.1505,,0.2148,0.5395,0.0046,0.0013,True,False,True,,,
 401909896,POR @ UTA,prop_fg3m,under,Darryn Peterson,905041955.0,1.5,draftkings,-129.0,1.78,0.6837,1.46,0.5265,0.5265,0.1572,,0.2136,0.5658,0.0043,0.0014,True,True,True,Lauri Markkanen,0.6503,0.7175
 401909899,SAC @ MEM,prop_reb,over,Precious Achiuwa,1630173.0,10.5,draftkings,303.0,4.03,0.301,3.32,0.2319,0.2319,0.0691,,0.213,0.2492,0.0042,0.0003,False,False,False,,,
 401909902,OKC @ HOU,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,6.5,draftkings,160.0,2.6,0.4665,2.14,0.3595,0.3595,0.1071,,0.213,0.3862,0.0042,0.0007,False,False,False,,,
+401909899,SAC @ MEM,prop_pts,over,Domantas Sabonis,1627734.0,19.5,draftkings,217.0,3.17,0.3826,2.61,0.2948,0.2948,0.0878,,0.213,0.3168,0.0042,0.0005,False,True,False,,,
 401909902,OKC @ HOU,prop_ast,over,Kevin Durant,201142.0,2.5,draftkings,-185.0,1.54,0.7873,1.27,0.6067,0.6067,0.1806,,0.2128,0.6518,0.0041,0.0019,True,False,False,Alperen Sengun,0.852,0.7931
 401909902,OKC @ HOU,prop_reb,over,Aday Mara,905174983.0,7.5,draftkings,352.0,4.52,0.2682,3.73,0.2068,0.2068,0.0614,,0.2121,0.2221,0.004,0.0003,False,True,False,,,
 401909896,POR @ UTA,moneyline,UTA,,,,tabtouch,255.0,3.55,0.3197,3.13,0.2678,0.2827,0.037,5.18,0.1349,0.2827,0.0037,0.0004,False,True,True,,,
-401909900,CLE @ MIL,prop_ra,under,Myles Turner,1626167.0,6.5,draftkings,-102.0,1.98,0.609,1.64,0.4727,0.4727,0.1364,6.83,0.2061,0.5068,0.0036,0.0009,False,True,True,,,
+401909899,SAC @ MEM,prop_pts,over,Precious Achiuwa,1630173.0,12.5,draftkings,-119.0,1.84,0.6522,1.53,0.5078,0.5098,0.1424,,0.2003,0.5454,0.0037,0.0011,False,True,True,,,
 401909901,MIN @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,5.5,draftkings,581.0,6.81,0.1777,5.63,0.1372,0.1372,0.0405,,0.2104,0.1474,0.0035,0.0002,False,True,False,,,
-401909896,POR @ UTA,prop_ast,over,Damian Lillard,203081.0,5.5,draftkings,107.0,2.07,0.5781,1.73,0.4515,0.4537,0.1244,,0.1967,0.4848,0.0035,0.0008,False,True,True,,,
 401909896,POR @ UTA,prop_blk,over,Donovan Clingan,1642270.0,5.5,draftkings,2400.0,25.0,0.0484,20.66,0.0374,0.0374,0.011,,0.2101,0.0401,0.0035,0.0,False,True,False,,,
 401909898,ATL @ NOP,prop_reb,over,Trey Murphy III,1630530.0,5.5,draftkings,164.0,2.64,0.4585,2.18,0.354,0.354,0.1045,,0.2103,0.3801,0.0035,0.0005,False,True,False,,,
 401909898,ATL @ NOP,prop_reb,over,Zion Williamson,1629627.0,6.5,draftkings,192.0,2.92,0.4142,2.41,0.3201,0.3201,0.0942,,0.2096,0.3436,0.0033,0.0004,False,False,False,,,
+401909899,SAC @ MEM,prop_pra,over,Precious Achiuwa,1630173.0,22.5,draftkings,-118.0,1.85,0.6605,1.51,0.5059,0.5039,0.1567,,0.2203,0.5431,0.0033,0.001,True,True,True,,,
 401909898,ATL @ NOP,prop_reb,over,Zion Williamson,1629627.0,9.5,draftkings,1000.0,11.0,0.1099,9.1,0.085,0.085,0.025,,0.2091,0.0912,0.0032,0.0001,False,True,False,,,
 401909900,CLE @ MIL,prop_pts,under,Kel'el Ware,905105623.0,9.5,draftkings,-103.0,1.97,0.6131,1.63,0.4742,0.4742,0.1389,,0.2083,0.5089,0.003,0.0008,False,True,True,,,
 401909899,SAC @ MEM,prop_ra,over,Cameron Boozer,905041935.0,13.5,draftkings,-122.0,1.82,0.6623,1.51,0.5142,0.5142,0.1481,6.88,0.2052,0.5512,0.003,0.0009,False,True,True,Ty Jerome,0.7421,0.6577
 401909902,OKC @ HOU,prop_pts,under,Reed Sheppard,1642263.0,11.5,draftkings,-115.0,1.87,0.6458,1.55,0.4999,0.4999,0.1459,,0.2073,0.5364,0.0028,0.0008,False,False,True,Reed Sheppard,0.0,0.5456
 401909899,SAC @ MEM,moneyline,SAC,,,,betr_au,325.0,4.25,0.2829,3.53,0.2258,0.2359,0.047,4.19,0.2023,0.2359,0.0028,0.0002,False,True,True,,,
-401909900,CLE @ MIL,prop_ast,over,Tyler Herro,1629639.0,6.5,draftkings,461.0,5.61,0.2151,4.65,0.1666,0.1666,0.0485,,0.2067,0.1787,0.0026,0.0001,False,False,False,,,
 401909900,CLE @ MIL,prop_pts,under,Tyler Herro,1629639.0,21.5,draftkings,-122.0,1.82,0.663,1.51,0.5136,0.5136,0.1494,,0.2064,0.5509,0.0025,0.0008,False,True,True,,,
-401909900,CLE @ MIL,prop_pr,under,Tyler Herro,1629639.0,26.5,draftkings,-124.0,1.81,0.6678,1.5,0.5174,0.5174,0.1505,,0.2064,0.555,0.0025,0.0008,True,True,True,,,
 401909901,MIN @ SAS,prop_pra,under,LaMelo Ball,1630163.0,31.5,draftkings,-120.0,1.83,0.658,1.52,0.5098,0.5098,0.1482,,0.2063,0.5468,0.0025,0.0008,False,True,True,,,
-401909896,POR @ UTA,prop_pa,under,Scoot Henderson,1630703.0,17.5,draftkings,-106.0,1.94,0.6205,1.61,0.4809,0.4809,0.1396,,0.2058,0.5158,0.0024,0.0006,False,True,True,Robert Williams III,0.5747,0.641
+401909900,CLE @ MIL,prop_pr,under,Tyler Herro,1629639.0,26.5,draftkings,-124.0,1.81,0.6678,1.5,0.5174,0.5174,0.1505,,0.2064,0.555,0.0025,0.0008,True,True,True,,,
 401909899,SAC @ MEM,prop_reb,over,Precious Achiuwa,1630173.0,12.5,draftkings,710.0,8.1,0.1489,6.72,0.1154,0.1154,0.0335,,0.2058,0.1238,0.0024,0.0001,False,False,False,,,
-401909897,PHI @ CHA,prop_fg3m,under,Brandon Miller,1641706.0,3.5,draftkings,-102.0,1.98,0.609,1.64,0.4719,0.4719,0.137,,0.206,0.5062,0.0024,0.0006,False,True,True,,,
 401909902,OKC @ HOU,prop_pr,over,Shai Gilgeous-Alexander,1628983.0,49.5,draftkings,980.0,10.8,0.1116,8.96,0.0865,0.0865,0.0251,,0.2057,0.0928,0.0024,0.0001,False,True,False,,,
+401909896,POR @ UTA,prop_pa,under,Scoot Henderson,1630703.0,17.5,draftkings,-106.0,1.94,0.6205,1.61,0.4809,0.4809,0.1396,,0.2058,0.5158,0.0024,0.0006,False,True,True,Robert Williams III,0.5747,0.641
 401909901,MIN @ SAS,moneyline,MIN,,,,betr_au,450.0,5.5,0.2363,4.23,0.1742,0.1823,0.054,4.39,0.2996,0.1823,0.0024,0.0001,False,True,True,,,
+401909902,OKC @ HOU,prop_reb,over,Jabari Smith Jr.,1631095.0,6.5,draftkings,131.0,2.31,0.522,1.92,0.4046,0.4046,0.1174,,0.2058,0.4339,0.0024,0.0005,False,False,False,Alperen Sengun,0.5723,0.5243
 401909902,OKC @ HOU,prop_pa,under,Reed Sheppard,1642263.0,15.5,draftkings,-128.0,1.78,0.677,1.48,0.5247,0.5247,0.1523,,0.2059,0.5628,0.0024,0.0008,True,False,True,Reed Sheppard,0.0,0.5622
-401909902,OKC @ HOU,prop_reb,over,Alperen Sengun,1630578.0,11.5,draftkings,353.0,4.53,0.2661,3.76,0.2063,0.2063,0.0598,,0.2056,0.2213,0.0023,0.0002,False,True,False,Alperen Sengun,0.0,0.291
-401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,14.5,draftkings,-113.0,1.88,0.6425,1.56,0.4958,0.4948,0.1478,,0.2111,0.5317,0.0023,0.0006,False,True,True,,,
+401909897,PHI @ CHA,prop_fg3m,under,Brandon Miller,1641706.0,3.5,draftkings,-102.0,1.98,0.609,1.64,0.4719,0.4719,0.137,,0.206,0.5062,0.0024,0.0006,False,True,True,,,
 401909898,ATL @ NOP,prop_ast,over,Kingston Flemings,905149077.0,3.5,draftkings,138.0,2.38,0.5064,1.97,0.3927,0.3927,0.1137,,0.2052,0.4211,0.0022,0.0004,False,True,False,,,
+401909900,CLE @ MIL,prop_pra,under,Kasparas Jakucionis,905214640.0,14.5,draftkings,-130.0,1.77,0.6809,1.47,0.5282,0.5282,0.1527,,0.2047,0.5664,0.0021,0.0007,True,False,True,,,
 401909897,PHI @ CHA,prop_fg3m,under,Naz Reid,1629675.0,2.5,draftkings,-113.0,1.88,0.6391,1.56,0.4958,0.4958,0.1433,,0.2047,0.5316,0.0021,0.0006,False,True,True,,,
-401909900,CLE @ MIL,prop_pts,under,Kasparas Jakucionis,905214640.0,7.5,draftkings,-120.0,1.83,0.6568,1.52,0.5098,0.5098,0.1471,,0.2042,0.5465,0.002,0.0006,False,False,True,,,
 401909896,POR @ UTA,prop_reb,over,Jaxson Hayes,1629637.0,5.5,draftkings,-119.0,1.84,0.6573,1.52,0.5078,0.5069,0.1505,,0.2097,0.5445,0.002,0.0006,True,True,True,Lauri Markkanen,0.6748,0.6315
+401909900,CLE @ MIL,prop_pts,under,Kasparas Jakucionis,905214640.0,7.5,draftkings,-120.0,1.83,0.6568,1.52,0.5098,0.5098,0.1471,,0.2042,0.5465,0.002,0.0006,False,False,True,,,
 401909899,SAC @ MEM,prop_reb,over,Cameron Boozer,905041935.0,8.5,draftkings,100.0,2.0,0.6086,1.64,0.4673,0.465,0.1436,,0.2172,0.5009,0.0018,0.0004,False,True,True,Ty Jerome,0.6618,0.6045
 401909900,CLE @ MIL,prop_pra,over,Donovan Mitchell,1628378.0,49.5,draftkings,850.0,9.5,0.1267,7.9,0.0984,0.0984,0.0283,,0.2032,0.1054,0.0017,0.0001,False,True,False,,,
 401909899,SAC @ MEM,prop_pts,under,Ty Jerome,1629660.0,22.5,draftkings,-107.0,1.93,0.6217,1.61,0.4831,0.4831,0.1386,,0.2028,0.5178,0.0016,0.0004,False,False,True,Ty Jerome,0.0,0.57
-401909902,OKC @ HOU,prop_reb,over,Alperen Sengun,1630578.0,13.5,draftkings,810.0,9.1,0.1321,7.57,0.1027,0.1027,0.0294,,0.2025,0.1101,0.0016,0.0,False,True,False,Alperen Sengun,0.0,0.1496
 401909898,ATL @ NOP,prop_ast,over,CJ McCollum,203468.0,6.5,draftkings,1120.0,12.2,0.0985,10.15,0.0766,0.0766,0.0219,,0.2022,0.0821,0.0015,0.0,False,False,False,,,
-401909902,OKC @ HOU,prop_reb,over,Alperen Sengun,1630578.0,10.5,draftkings,237.0,3.37,0.3568,2.8,0.2773,0.2773,0.0795,,0.2024,0.2972,0.0015,0.0002,False,False,False,Alperen Sengun,0.0,0.3861
-401909899,SAC @ MEM,prop_pts,over,Domantas Sabonis,1627734.0,19.5,draftkings,214.0,3.14,0.3826,2.61,0.2976,0.2976,0.085,,0.2015,0.3189,0.0013,0.0002,False,True,False,,,
-401909899,SAC @ MEM,prop_pr,over,Precious Achiuwa,1630173.0,20.5,draftkings,-126.0,1.79,0.6723,1.49,0.521,0.5201,0.1522,,0.2059,0.5582,0.0012,0.0004,True,True,True,,,
 401909899,SAC @ MEM,prop_reb,over,Cedric Coward,1642907.0,9.5,draftkings,591.0,6.91,0.1738,5.75,0.1353,0.1353,0.0386,,0.201,0.1449,0.0012,0.0001,False,True,False,Ty Jerome,0.2295,0.1726
+401909899,SAC @ MEM,prop_pa,over,Precious Achiuwa,1630173.0,14.5,draftkings,-114.0,1.88,0.6425,1.56,0.4979,0.4968,0.1457,,0.2062,0.5333,0.001,0.0003,False,True,True,,,
 401909897,PHI @ CHA,prop_pra,under,Naz Reid,1629675.0,28.5,draftkings,-109.0,1.92,0.6259,1.6,0.4874,0.4874,0.1385,,0.2001,0.522,0.001,0.0003,False,True,True,,,
-401909902,OKC @ HOU,prop_pts,over,Shai Gilgeous-Alexander,1628983.0,39.5,draftkings,502.0,6.02,0.1993,5.02,0.1552,0.1552,0.0441,,0.2,0.1663,0.0009,0.0,False,True,False,,,
 401909899,SAC @ MEM,prop_ast,over,Cameron Boozer,905041935.0,8.5,draftkings,535.0,6.35,0.1889,5.29,0.1472,0.1472,0.0417,,0.1997,0.1576,0.0009,0.0,False,False,False,Ty Jerome,0.2494,0.1855
-401909899,SAC @ MEM,prop_reb,over,Zach LaVine,203897.0,3.5,draftkings,128.0,2.28,0.5234,1.91,0.4099,0.4108,0.1126,,0.1934,0.439,0.0008,0.0002,False,True,True,,,
-401909897,PHI @ CHA,prop_pr,under,Naz Reid,1629675.0,26.5,draftkings,-113.0,1.88,0.6363,1.57,0.4958,0.4958,0.1405,,0.1994,0.5309,0.0008,0.0002,False,True,True,,,
+401909902,OKC @ HOU,prop_pts,over,Shai Gilgeous-Alexander,1628983.0,39.5,draftkings,502.0,6.02,0.1993,5.02,0.1552,0.1552,0.0441,,0.2,0.1663,0.0009,0.0,False,True,False,,,
 401909897,PHI @ CHA,prop_reb,over,Sion James,1642883.0,6.5,draftkings,700.0,8.0,0.1499,6.67,0.1168,0.1168,0.0331,,0.1993,0.1251,0.0008,0.0,False,False,False,,,
-401909902,OKC @ HOU,prop_reb,over,Kevin Durant,201142.0,6.5,draftkings,223.0,3.23,0.371,2.7,0.2893,0.2893,0.0817,,0.1984,0.3098,0.0005,0.0001,False,False,False,Alperen Sengun,0.4707,0.3741
+401909897,PHI @ CHA,prop_pr,under,Naz Reid,1629675.0,26.5,draftkings,-113.0,1.88,0.6363,1.57,0.4958,0.4958,0.1405,,0.1994,0.5309,0.0008,0.0002,False,True,True,,,
+401909899,SAC @ MEM,prop_reb,over,Zach LaVine,203897.0,3.5,draftkings,128.0,2.28,0.5234,1.91,0.4099,0.4108,0.1126,,0.1934,0.439,0.0008,0.0002,False,True,True,,,
 401909898,ATL @ NOP,prop_ast,over,Dyson Daniels,1630700.0,8.5,draftkings,820.0,9.2,0.1301,7.69,0.1016,0.1016,0.0285,,0.197,0.1087,0.0002,0.0,False,False,False,,,
