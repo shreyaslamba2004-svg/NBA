@@ -1,27 +1,27 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHI @ CHA,VJ Edgecombe pts under 15.5 + Kentavious Caldwell-Pope 5+ pr,2,0.5898,0.4276,2.34,2.46,2.36,0.0093,0.997,2.10-2.50
-PHI @ CHA,VJ Edgecombe pts under 15.5 + Sion James 5+ pr,2,0.6083,0.4495,2.22,2.34,2.24,0.0052,1.0,2.10-2.50
-PHI @ CHA,Brandon Miller pts under 26.5 + Kentavious Caldwell-Pope 5+ pr,2,0.6435,0.4725,2.12,2.22,2.13,0.0051,0.998,2.10-2.50
-PHI @ CHA,Brandon Miller pts under 26.5 + Sion James 5+ pr,2,0.6622,0.4955,2.02,2.12,2.02,-0.0013,0.998,1.85-2.10
-PHI @ CHA,Brandon Miller pts under 26.5 + Sion James 5+ pa,2,0.6294,0.4791,2.09,2.19,2.06,-0.0108,0.995,1.85-2.10
-PHI @ CHA,VJ Edgecombe pa under 20.5 + Sion James 5+ pr,2,0.6566,0.4763,2.1,2.2,2.07,-0.0122,0.999,1.85-2.10
-PHI @ CHA,Dean Wade 3pm under 1.5 + Kentavious Caldwell-Pope 5+ pr,2,0.7591,0.5548,1.8,1.89,1.77,-0.0178,0.999,1.65-1.85
-PHI @ CHA,Dean Wade 3pm under 1.5 + Sion James 5+ pr,2,0.781,0.5818,1.72,1.8,1.68,-0.0241,0.999,1.65-1.85
-PHI @ CHA,Dean Wade 3pm under 1.5 + Jaylen Brown 4+ reb,2,0.7232,0.5433,1.84,1.93,1.79,-0.0276,0.999,1.65-1.85
-PHI @ CHA,Dean Wade 3pm under 1.5 + Grayson Allen 10+ pra,2,0.7782,0.5975,1.67,1.76,1.62,-0.0348,0.999,1.50-1.65
-PHI @ CHA,Dean Wade 3pm under 1.5 + Moussa Diabate 5+ pa,2,0.7736,0.5956,1.68,1.76,1.62,-0.035,1.0,1.50-1.65
-PHI @ CHA,Kentavious Caldwell-Pope 5+ pr + Sion James 5+ pr + Jaylen Brown 1+ 3pm,3,0.7408,0.5905,1.69,1.78,1.5,-0.1142,1.002,1.50-1.65
-ATL @ NOP,Zion Williamson 9+ ra + Saddiq Bey 10+ pa,2,0.5906,0.4159,2.4,2.52,2.42,0.0078,1.006,2.10-2.50
-ATL @ NOP,Zion Williamson 9+ ra + Onyeka Okongwu 15+ pra,2,0.5978,0.4272,2.34,2.46,2.34,0.0007,1.004,2.10-2.50
-ATL @ NOP,Zion Williamson 9+ ra + Onyeka Okongwu 10+ pr,2,0.6355,0.4584,2.18,2.29,2.17,-0.0043,1.003,2.10-2.50
-ATL @ NOP,Saddiq Bey 2+ ast + Zion Williamson 20+ pra,2,0.6419,0.503,1.99,2.09,1.91,-0.0383,1.006,1.85-2.10
-ATL @ NOP,Saddiq Bey 2+ ast + Onyeka Okongwu 15+ pr,2,0.5816,0.4576,2.19,2.29,2.09,-0.0436,1.002,1.85-2.10
-ATL @ NOP,Zion Williamson 3+ ast + Saddiq Bey 10+ pa,2,0.6197,0.4875,2.05,2.15,1.96,-0.0441,1.002,1.85-2.10
-ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 15+ pra,2,0.7362,0.5819,1.72,1.8,1.63,-0.0487,1.0,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa,2,0.7717,0.6252,1.6,1.68,1.51,-0.0562,1.002,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pr,2,0.722,0.5924,1.69,1.77,1.59,-0.0596,1.003,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pra,3,0.7062,0.5298,1.89,1.98,1.72,-0.0906,1.005,1.65-1.85
-ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pr + Saddiq Bey 10+ pra,3,0.7028,0.5421,1.84,1.94,1.66,-0.1021,1.003,1.65-1.85
+PHI @ CHA,VJ Edgecombe pts under 15.5 + Kentavious Caldwell-Pope 5+ pr,2,0.5898,0.4263,2.35,2.46,2.37,0.0105,0.997,2.10-2.50
+PHI @ CHA,Dean Wade reb under 5.5 + Kentavious Caldwell-Pope 5+ pr,2,0.7306,0.5046,1.98,2.08,2.0,0.0094,1.0,1.85-2.10
+PHI @ CHA,Brandon Miller pts under 26.5 + Kentavious Caldwell-Pope 5+ pr,2,0.6435,0.4711,2.12,2.23,2.14,0.0063,0.998,2.10-2.50
+PHI @ CHA,VJ Edgecombe pts under 15.5 + Sion James 5+ pr,2,0.6083,0.4504,2.22,2.33,2.23,0.0044,1.0,2.10-2.50
+PHI @ CHA,Dean Wade reb under 5.5 + Sion James 5+ pr,2,0.7506,0.5311,1.88,1.98,1.88,-0.0006,0.999,1.85-2.10
+PHI @ CHA,Brandon Miller pts under 26.5 + Sion James 5+ pr,2,0.6622,0.4966,2.01,2.11,2.01,-0.0021,0.998,1.85-2.10
+PHI @ CHA,Dean Wade reb under 5.5 + Grayson Allen 10+ pra,2,0.7481,0.5447,1.84,1.93,1.82,-0.0105,0.999,1.65-1.85
+PHI @ CHA,Dean Wade reb under 5.5 + Moussa Diabate 5+ pa,2,0.7427,0.5413,1.85,1.94,1.83,-0.0115,0.998,1.65-1.85
+PHI @ CHA,Dean Wade 3pm under 1.5 + Kentavious Caldwell-Pope 5+ pr,2,0.7591,0.5672,1.76,1.85,1.71,-0.0274,0.999,1.65-1.85
+PHI @ CHA,Dean Wade 3pm under 1.5 + Sion James 5+ pr,2,0.781,0.5978,1.67,1.76,1.61,-0.0356,0.999,1.50-1.65
+PHI @ CHA,Dean Wade 3pm under 1.5 + Moussa Diabate 5+ pa,2,0.7736,0.6099,1.64,1.72,1.57,-0.0452,1.0,1.50-1.65
+PHI @ CHA,Dean Wade 3pm under 1.5 + Grayson Allen 10+ pra,2,0.7782,0.613,1.63,1.71,1.56,-0.0455,0.999,1.50-1.65
+ATL @ NOP,Zion Williamson 9+ ra + Saddiq Bey 10+ pa,2,0.5906,0.4144,2.41,2.53,2.44,0.0107,1.006,2.10-2.50
+ATL @ NOP,Zion Williamson 9+ ra + Onyeka Okongwu 15+ pra,2,0.5978,0.4242,2.36,2.48,2.37,0.0049,1.004,2.10-2.50
+ATL @ NOP,Zion Williamson 9+ ra + Onyeka Okongwu 10+ pr,2,0.6355,0.4548,2.2,2.31,2.2,0.0003,1.003,2.10-2.50
+ATL @ NOP,Saddiq Bey 6+ ra + Zion Williamson 20+ pra,2,0.6554,0.4965,2.01,2.11,1.96,-0.025,1.005,1.85-2.10
+ATL @ NOP,Saddiq Bey 2+ ast + Zion Williamson 20+ pra,2,0.6419,0.4993,2.0,2.1,1.94,-0.0312,1.006,1.85-2.10
+ATL @ NOP,Saddiq Bey 6+ ra + Onyeka Okongwu 15+ pra,2,0.6441,0.4915,2.03,2.14,1.97,-0.0317,1.001,1.85-2.10
+ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pr,2,0.722,0.5987,1.67,1.75,1.56,-0.0634,1.003,1.50-1.65
+ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pr,3,0.6522,0.4946,2.02,2.12,1.83,-0.0927,1.007,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pra,3,0.7062,0.5336,1.87,1.97,1.7,-0.0932,1.005,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pra + Saddiq Bey 10+ pra,3,0.762,0.5911,1.69,1.78,1.52,-0.1045,1.003,1.50-1.65
+ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pr + Saddiq Bey 10+ pra,3,0.7028,0.5471,1.83,1.92,1.64,-0.1052,1.003,1.50-1.65
 SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 6+ reb,2,0.5974,0.4315,2.32,2.43,2.32,-0.0001,1.006,2.10-2.50
 SAC @ MEM,Precious Achiuwa 21+ pr + Domantas Sabonis 10+ pts,2,0.6053,0.4474,2.23,2.35,2.22,-0.0071,1.008,2.10-2.50
 SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 6+ reb,2,0.5876,0.4266,2.34,2.46,2.33,-0.0073,1.007,2.10-2.50

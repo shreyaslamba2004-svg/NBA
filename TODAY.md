@@ -1,6 +1,6 @@
 # NBA model · Sat 31 Oct 2026 (US date)
 
-Updated **Sun 01 Nov, 08:42 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 01 Nov, 08:57 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -12,8 +12,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Anfernee Simons REB over 3.5 (4+) | PHI @ CHA | draftkings | 3.99 | 3.77 | 2.79 | 35.8% | 23.4% | 26.5% | +5.8% | +42.8% | 0.5% |
-| Zion Williamson PRA over 34.5 (35+) | ATL @ NOP | draftkings | 3.43 | 3.27 | 2.46 | 40.7% | 27.3% | 30.6% | +5.0% | +39.6% | 0.5% |
+| Zion Williamson PRA over 34.5 (35+) | ATL @ NOP | draftkings | 3.48 | 3.30 | 2.46 | 40.7% | 26.9% | 30.3% | +5.5% | +41.7% | 0.6% |
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
@@ -26,25 +25,25 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Tari Eason REB over 9.5 (10+) | OKC @ HOU | draftkings | 9.90 | 7.60 | 4.12 | 24.3% | 9.4% | 13.2% | +30.2% | +140.4% | 0.9% |
 | Shai Gilgeous-Alexander PTS over 49.5 (50+) | OKC @ HOU | draftkings | 29.00 | 23.98 | 14.23 | 7.0% | 3.2% | 4.2% | +21.1% | +103.8% | 0.2% |
 | Amen Thompson AST over 9.5 (10+) | OKC @ HOU | draftkings | 23.00 | 19.16 | 11.53 | 8.7% | 4.1% | 5.2% | +20.0% | +99.5% | 0.2% |
+| Zion Williamson PRA over 44.5 (45+) | ATL @ NOP | draftkings | 14.40 | 12.05 | 7.28 | 13.7% | 6.5% | 8.3% | +19.6% | +97.8% | 0.4% |
 | Kevin Durant REB over 9.5 (10+) | OKC @ HOU | draftkings | 14.00 | 11.71 | 7.08 | 14.1% | 6.7% | 8.5% | +19.5% | +97.7% | 0.4% |
-| Zion Williamson PRA over 44.5 (45+) | ATL @ NOP | draftkings | 14.20 | 11.95 | 7.28 | 13.7% | 6.6% | 8.4% | +18.9% | +95.1% | 0.4% |
 | Amen Thompson AST over 7.5 (8+) | OKC @ HOU | draftkings | 8.20 | 6.93 | 4.26 | 23.5% | 11.4% | 14.4% | +18.2% | +92.5% | 0.6% |
 | Jabari Smith Jr. PRA over 34.5 (35+) | OKC @ HOU | draftkings | 10.50 | 8.94 | 5.54 | 18.1% | 8.9% | 11.2% | +17.5% | +89.5% | 0.5% |
+| Zion Williamson PRA over 49.5 (50+) | ATL @ NOP | draftkings | 26.00 | 22.27 | 13.91 | 7.2% | 3.6% | 4.5% | +16.8% | +86.9% | 0.2% |
+| Jaylen Brown PTS over 39.5 (40+) | PHI @ CHA | draftkings | 21.00 | 18.05 | 11.34 | 8.8% | 4.5% | 5.5% | +16.4% | +85.1% | 0.2% |
 | Shai Gilgeous-Alexander PTS over 44.5 (45+) | OKC @ HOU | draftkings | 15.20 | 13.11 | 8.28 | 12.1% | 6.2% | 7.6% | +16.0% | +83.5% | 0.3% |
 | Shai Gilgeous-Alexander PRA over 59.5 (60+) | OKC @ HOU | draftkings | 19.80 | 17.12 | 10.88 | 9.2% | 4.7% | 5.8% | +15.6% | +82.0% | 0.2% |
-| Zion Williamson PRA over 49.5 (50+) | ATL @ NOP | draftkings | 25.00 | 21.74 | 13.91 | 7.2% | 3.7% | 4.6% | +15.0% | +79.7% | 0.2% |
-| Jaylen Brown PA over 44.5 (45+) | PHI @ CHA | draftkings | 18.40 | 16.00 | 10.24 | 9.8% | 5.1% | 6.2% | +15.0% | +79.7% | 0.2% |
-| Jaylen Brown PTS over 39.5 (40+) | PHI @ CHA | draftkings | 20.20 | 17.64 | 11.34 | 8.8% | 4.6% | 5.7% | +14.6% | +78.1% | 0.2% |
 | Jabari Smith Jr. PRA over 39.5 (40+) | OKC @ HOU | draftkings | 22.00 | 19.27 | 12.48 | 8.0% | 4.2% | 5.2% | +14.2% | +76.3% | 0.2% |
 | Jabari Smith Jr. REB over 11.5 (12+) | OKC @ HOU | draftkings | 18.40 | 16.18 | 10.55 | 9.5% | 5.1% | 6.2% | +13.7% | +74.4% | 0.2% |
 | Jabari Smith Jr. REB over 9.5 (10+) | OKC @ HOU | draftkings | 7.60 | 6.71 | 4.40 | 22.7% | 12.3% | 14.9% | +13.2% | +72.5% | 0.5% |
-| Zion Williamson PRA over 39.5 (40+) | ATL @ NOP | draftkings | 6.91 | 6.13 | 4.06 | 24.6% | 13.5% | 16.3% | +12.7% | +70.2% | 0.5% |
+| Zion Williamson AST over 5.5 (6+) | ATL @ NOP | draftkings | 9.40 | 8.32 | 5.47 | 18.3% | 9.9% | 12.0% | +13.0% | +71.7% | 0.4% |
+| Zion Williamson PRA over 39.5 (40+) | ATL @ NOP | draftkings | 6.90 | 6.13 | 4.06 | 24.6% | 13.5% | 16.3% | +12.6% | +70.0% | 0.5% |
 | Kevin Durant REB over 7.5 (8+) | OKC @ HOU | draftkings | 5.12 | 4.56 | 3.03 | 33.0% | 18.2% | 21.9% | +12.4% | +69.2% | 0.8% |
 | Zion Williamson REB over 9.5 (10+) | ATL @ NOP | draftkings | 11.60 | 10.35 | 6.91 | 14.5% | 8.1% | 9.7% | +12.1% | +67.9% | 0.3% |
 | Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ HOU | draftkings | 9.50 | 8.52 | 5.73 | 17.4% | 9.8% | 11.7% | +11.5% | +65.8% | 0.3% |
-| MIN to win | MIN @ SAS | ladbrokes_au | 6.25 | 5.61 | 4.01 | 25.0% | 17.8% | 17.8% | +11.3% | +56.0% | 0.5% |
-| Jaylen Brown PA over 39.5 (40+) | PHI @ CHA | draftkings | 9.20 | 8.26 | 5.59 | 17.9% | 10.2% | 12.1% | +11.3% | +64.7% | 0.3% |
-| Anfernee Simons REB over 5.5 (6+) | PHI @ CHA | draftkings | 15.80 | 14.25 | 9.68 | 10.3% | 5.9% | 7.0% | +10.9% | +63.3% | 0.2% |
+| MIN to win | MIN @ SAS | neds | 6.25 | 5.61 | 4.01 | 25.0% | 17.8% | 17.8% | +11.3% | +56.0% | 0.5% |
+| Jaylen Brown PTS over 34.5 (35+) | PHI @ CHA | draftkings | 9.70 | 8.72 | 5.89 | 17.0% | 9.6% | 11.5% | +11.2% | +64.6% | 0.3% |
+| Saddiq Bey AST over 3.5 (4+) | ATL @ NOP | draftkings | 6.38 | 5.76 | 3.92 | 25.5% | 14.6% | 17.4% | +10.8% | +62.9% | 0.5% |
 | Donovan Mitchell PTS over 44.5 (45+) | CLE @ MIL | draftkings | 26.00 | 23.53 | 16.12 | 6.2% | 3.6% | 4.2% | +10.4% | +61.3% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
@@ -58,25 +57,24 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 | Kevin Durant REB over 8.5 (9+) | OKC @ HOU | draftkings | 8.40 | 7.19 | 4.49 | 22.3% | 11.1% | 13.9% | +16.9% | +87.2% | 0.6% |
 | Kevin Durant REB over 10.5 (11+) | OKC @ HOU | draftkings | 22.00 | 18.90 | 11.91 | 8.4% | 4.2% | 5.3% | +16.3% | +84.7% | 0.2% |
 | Jabari Smith Jr. REB over 10.5 (11+) | OKC @ HOU | draftkings | 12.00 | 10.43 | 6.66 | 15.0% | 7.8% | 9.6% | +15.1% | +80.1% | 0.3% |
+| Zion Williamson AST over 6.5 (7+) | ATL @ NOP | draftkings | 17.80 | 15.87 | 10.60 | 9.4% | 5.2% | 6.3% | +12.1% | +67.9% | 0.2% |
+| Zion Williamson REB over 10.5 (11+) | ATL @ NOP | draftkings | 18.60 | 16.61 | 11.10 | 9.0% | 5.0% | 6.0% | +12.0% | +67.6% | 0.2% |
 | Shai Gilgeous-Alexander AST over 10.5 (11+) | OKC @ HOU | draftkings | 15.40 | 13.76 | 9.19 | 10.9% | 6.1% | 7.3% | +12.0% | +67.6% | 0.2% |
 | Saddiq Bey AST over 4.5 (5+) | ATL @ NOP | draftkings | 13.20 | 11.82 | 7.94 | 12.6% | 7.1% | 8.5% | +11.7% | +66.3% | 0.2% |
 | Darius Acuff Jr. REB over 6.5 (7+) | SAC @ MEM | draftkings | 9.20 | 8.26 | 5.56 | 18.0% | 10.2% | 12.1% | +11.5% | +65.4% | 0.4% |
-| Zion Williamson REB over 8.5 (9+) | ATL @ NOP | draftkings | 7.30 | 6.57 | 4.45 | 22.5% | 12.8% | 15.2% | +11.1% | +63.9% | 0.4% |
-| Anfernee Simons REB over 4.5 (5+) | PHI @ CHA | draftkings | 7.90 | 7.14 | 4.87 | 20.5% | 11.8% | 14.0% | +10.6% | +62.1% | 0.4% |
 | Jabari Smith Jr. REB over 8.5 (9+) | OKC @ HOU | draftkings | 4.93 | 4.47 | 3.07 | 32.6% | 19.0% | 22.4% | +10.3% | +60.7% | 0.7% |
-| Zion Williamson REB over 10.5 (11+) | ATL @ NOP | draftkings | 17.80 | 16.16 | 11.10 | 9.0% | 5.2% | 6.2% | +10.2% | +60.4% | 0.1% |
+| Zion Williamson REB over 8.5 (9+) | ATL @ NOP | draftkings | 7.10 | 6.46 | 4.45 | 22.5% | 13.2% | 15.5% | +10.0% | +59.4% | 0.4% |
 | Aday Mara REB over 8.5 (9+) | OKC @ HOU | draftkings | 7.50 | 6.86 | 4.78 | 20.9% | 12.5% | 14.6% | +9.3% | +57.0% | 0.4% |
+| Trey Murphy III AST over 6.5 (7+) | ATL @ NOP | draftkings | 13.00 | 11.92 | 8.33 | 12.0% | 7.2% | 8.4% | +9.1% | +56.1% | 0.2% |
+| Zion Williamson AST over 4.5 (5+) | ATL @ NOP | draftkings | 4.90 | 4.50 | 3.16 | 31.6% | 19.1% | 22.2% | +8.8% | +55.0% | 0.6% |
 | Aday Mara REB over 10.5 (11+) | OKC @ HOU | draftkings | 17.00 | 15.75 | 11.22 | 8.9% | 5.5% | 6.3% | +8.0% | +51.5% | 0.1% |
 | Shai Gilgeous-Alexander AST over 8.5 (9+) | OKC @ HOU | draftkings | 5.83 | 5.41 | 3.87 | 25.9% | 16.0% | 18.5% | +7.8% | +50.8% | 0.4% |
-| Trey Murphy III AST over 6.5 (7+) | ATL @ NOP | draftkings | 12.40 | 11.55 | 8.33 | 12.0% | 7.5% | 8.7% | +7.3% | +48.9% | 0.2% |
 | Jabari Smith Jr. REB over 12.5 (13+) | OKC @ HOU | draftkings | 25.00 | 23.47 | 17.17 | 5.8% | 3.7% | 4.3% | +6.5% | +45.6% | 0.1% |
 | Alperen Sengun REB over 14.5 (15+) | OKC @ HOU | draftkings | 12.20 | 11.45 | 8.39 | 11.9% | 7.7% | 8.7% | +6.5% | +45.4% | 0.1% |
-| Zion Williamson AST over 6.5 (7+) | ATL @ NOP | draftkings | 15.40 | 14.47 | 10.60 | 9.4% | 6.1% | 6.9% | +6.4% | +45.2% | 0.1% |
-| Dyson Daniels AST over 8.5 (9+) | ATL @ NOP | draftkings | 11.00 | 10.38 | 7.67 | 13.0% | 8.5% | 9.6% | +6.0% | +43.5% | 0.1% |
-| Zion Williamson AST over 4.5 (5+) | ATL @ NOP | draftkings | 4.52 | 4.27 | 3.16 | 31.6% | 20.7% | 23.4% | +5.8% | +42.9% | 0.4% |
+| Moussa Diabate AST over 4.5 (5+) | PHI @ CHA | draftkings | 14.00 | 13.23 | 9.78 | 10.2% | 6.7% | 7.6% | +5.9% | +43.2% | 0.1% |
+| Dyson Daniels AST over 8.5 (9+) | ATL @ NOP | draftkings | 10.90 | 10.32 | 7.67 | 13.0% | 8.6% | 9.7% | +5.6% | +42.1% | 0.1% |
 | De'Andre Hunter REB over 8.5 (9+) | SAC @ MEM | draftkings | 10.40 | 9.85 | 7.32 | 13.7% | 9.0% | 10.2% | +5.6% | +42.0% | 0.1% |
 | Cameron Boozer REB over 14.5 (15+) | SAC @ MEM | draftkings | 12.60 | 11.95 | 8.89 | 11.2% | 7.4% | 8.4% | +5.5% | +41.7% | 0.1% |
-| Moussa Diabate AST over 4.5 (5+) | PHI @ CHA | draftkings | 13.80 | 13.09 | 9.78 | 10.2% | 6.8% | 7.6% | +5.4% | +41.2% | 0.1% |
 
 ## Check news first
 
@@ -90,7 +88,6 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Amen Thompson AST over 5.5 (6+) | OKC @ HOU | draftkings | 2.97 | 2.78 | 2.02 | 49.6% | 31.5% | 36.0% | +6.9% | +47.3% | 0.9% |
 | Jabari Smith Jr. REB over 7.5 (8+) | OKC @ HOU | draftkings | 3.29 | 3.08 | 2.24 | 44.6% | 28.4% | 32.5% | +6.8% | +46.8% | 0.7% |
 | Tari Eason REB over 5.5 (6+) | OKC @ HOU | draftkings | 2.00 | 1.90 | 1.42 | 70.5% | 46.9% | 52.8% | +5.5% | +41.1% | 1.4% |
-| Dean Wade REB under 4.5 | PHI @ CHA | draftkings | 2.13 | 2.03 | 1.52 | 65.6% | 43.9% | 49.3% | +5.0% | +39.7% | 1.1% |
 
 ## Projections
 
@@ -100,7 +97,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| PHI @ CHA | Sun 01 Nov 09:00 | 102.5–108.1 | PHI 35% | 2.87 / 1.54 | CHA -5.5 | 210.5 | CHA +2.5 covers 70%; o211.5 48% |
+| PHI @ CHA | Sun 01 Nov 09:00 | 102.5–108.1 | PHI 35% | 2.87 / 1.54 | CHA -5.5 | 210.5 | CHA +1.5 covers 68%; o211.5 48% |
 | ATL @ NOP | Sun 01 Nov 10:00 | 123.4–119.0 | ATL 63% | 1.60 / 2.68 | NOP +4.5 | 242.5 | NOP +4.5 covers 49%; o240.5 54% |
 | SAC @ MEM | Sun 01 Nov 11:00 | 115.4–122.8 | SAC 30% | 3.32 / 1.43 | MEM -7.5 | 238.5 | MEM -8.5 covers 47%; o229.5 68% |
 | CLE @ MIL | Sun 01 Nov 11:00 | 118.8–114.7 | CLE 61% | 1.63 / 2.60 | MIL +4.5 | 233.5 | MIL +9.5 covers 65%; o235.5 45% |
@@ -116,22 +113,20 @@ Out: Kon Knueppel (CHA), Coby White (CHA), Grant Williams (CHA), Dominick Barlow
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Tyrese Maxey PTS under 27.5 | PHI @ CHA | pointsbetau | 1.95 | 1.91 | 1.62 | 61.7% | 49.1% | 52.3% | +2.1% | +20.4% | 0.5% |
 | Naz Reid PTS under 17.5 | PHI @ CHA | betright | 1.96 | 1.93 | 1.72 | 58.0% | 49.6% | 51.7% | +1.4% | +13.8% | 0.4% |
-| Anfernee Simons REB over 2.5 (3+) | PHI @ CHA | draftkings | 2.22 | 2.19 | 1.77 | 56.3% | 42.1% | 45.7% | +1.4% | +25.1% | 0.3% |
 | Adem Bona PTS under 6.5 | PHI @ CHA | tab | 1.90 | 1.88 | 1.67 | 59.8% | 50.8% | 53.1% | +0.9% | +13.7% | 0.2% |
-| Tyrese Maxey PTS under 26.5 | PHI @ CHA | betright | 1.96 | 1.96 | 1.72 | 58.1% | 48.7% | 51.0% | +0.1% | +13.9% | 0.0% |
-| Anfernee Simons RA over 4.5 (5+) | PHI @ CHA | draftkings | 2.06 | 2.06 | 1.73 | 57.9% | 45.5% | 48.6% | +0.1% | +19.3% | 0.0% |
+| Tyrese Maxey PTS under 26.5 | PHI @ CHA | betright | 1.96 | 1.95 | 1.72 | 58.1% | 49.0% | 51.3% | +0.6% | +13.9% | 0.1% |
 
 <details><summary>PHI players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyrese Maxey | 100% | 37.7<br><sub>42,36,34,36,38</sub> | 25.8<br><sub>32,26,29,27,27</sub> | 26.5 · 27.5<br><sub>o 48% · u 52%</sub> | 4.3<br><sub>3,4,5,5,4</sub> | 3.5<br><sub>o 56% · u 44%</sub> | 5.8<br><sub>6,4,4,4,4</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 2.6<br><sub>2,4,1,3,3</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.6 | 0.5 | 2.6 | 35.9 |
-| Jaylen Brown | 100% | 36.6<br><sub>38,35,40,34,-</sub> | 25.2<br><sub>21,27,16,20,-</sub> | 22.5 · 22.5<br><sub>o 49% · u 51%</sub> | 6.8<br><sub>8,3,4,10,-</sub> | 5.5<br><sub>o 58% · u 42%</sub> | 4.9<br><sub>4,5,4,2,-</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 1.9<br><sub>1,3,2,1,-</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 1.3 | 0.5 | 3.7 | 36.9 |
-| VJ Edgecombe | 100% | 34.7<br><sub>33,30,-,29,36</sub> | 14.0<br><sub>11,17,-,8,13</sub> | 16.5 · 16.5<br><sub>o 45% · u 55%</sub> | 6.4<br><sub>7,13,-,7,8</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 3.7<br><sub>6,2,-,2,2</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 1.8<br><sub>1,5,-,1,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.4 | 0.4 | 1.7 | 24.1 |
-| Anfernee Simons | 96% | 29.4<br><sub>17,20,27,27,31</sub> | 12.3<br><sub>2,4,5,20,21</sub> | 12.5 · 12.5<br><sub>o 47% · u 53%</sub> | 3.0<br><sub>3,1,3,3,2</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 2.2<br><sub>0,2,3,1,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 2.2<br><sub>0,1,1,6,5</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 0.7 | 0.2 | 1.2 | 17.6 |
-| Dean Wade | 100% | 29.1<br><sub>-,28,37,17,27</sub> | 5.5<br><sub>-,7,7,0,0</sub> | 5.5 · –<br><sub>o 49% · u 51%</sub> | 3.8<br><sub>-,2,5,1,2</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 1.1<br><sub>-,0,1,1,1</sub> |  | 0.8<br><sub>-,2,1,0,0</sub> | 1.5<br><sub>o 33% · u 67%</sub> | 1.0 | 0.3 | 0.7 | 10.5 |
+| Tyrese Maxey | 100% | 37.7<br><sub>42,36,34,36,38</sub> | 25.8<br><sub>32,26,29,27,27</sub> | 26.5 · 27.5<br><sub>o 48% · u 52%</sub> | 4.3<br><sub>3,4,5,5,4</sub> | 3.5<br><sub>o 59% · u 41%</sub> | 5.8<br><sub>6,4,4,4,4</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 2.6<br><sub>2,4,1,3,3</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.6 | 0.5 | 2.6 | 35.9 |
+| Jaylen Brown | 100% | 36.6<br><sub>38,35,40,34,-</sub> | 25.2<br><sub>21,27,16,20,-</sub> | 22.5 · 22.5<br><sub>o 49% · u 51%</sub> | 6.8<br><sub>8,3,4,10,-</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.9<br><sub>4,5,4,2,-</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 1.9<br><sub>1,3,2,1,-</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.3 | 0.5 | 3.7 | 36.9 |
+| VJ Edgecombe | 100% | 34.7<br><sub>33,30,-,29,36</sub> | 14.0<br><sub>11,17,-,8,13</sub> | 16.5 · 16.5<br><sub>o 45% · u 55%</sub> | 6.4<br><sub>7,13,-,7,8</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 3.7<br><sub>6,2,-,2,2</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 1.8<br><sub>1,5,-,1,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.4 | 0.4 | 1.7 | 24.1 |
+| Anfernee Simons | 96% | 29.4<br><sub>17,20,27,27,31</sub> | 12.3<br><sub>2,4,5,20,21</sub> | 12.5 · 12.5<br><sub>o 47% · u 53%</sub> | 3.0<br><sub>3,1,3,3,2</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 2.2<br><sub>0,2,3,1,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 2.2<br><sub>0,1,1,6,5</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 0.7 | 0.2 | 1.2 | 17.6 |
+| Dean Wade | 100% | 29.1<br><sub>-,28,37,17,27</sub> | 5.5<br><sub>-,7,7,0,0</sub> | 5.5 · –<br><sub>o 49% · u 51%</sub> | 3.8<br><sub>-,2,5,1,2</sub> | 5.5<br><sub>o 39% · u 61%</sub> | 1.1<br><sub>-,0,1,1,1</sub> |  | 0.8<br><sub>-,2,1,0,0</sub> | 1.5<br><sub>o 32% · u 68%</sub> | 1.0 | 0.3 | 0.7 | 10.5 |
 | Kentavious Caldwell-Pope | 98% | 26.1<br><sub>25,28,31,21,21</sub> | 7.7<br><sub>3,12,7,4,5</sub> | 6.5 · 6.5<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>3,2,3,2,3</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 2.1<br><sub>2,1,3,1,3</sub> |  | 1.0<br><sub>1,4,1,0,1</sub> |  | 1.0 | 0.2 | 0.9 | 12.5 |
-| Adem Bona | 100% | 24.2<br><sub>14,10,25,4,14</sub> | 6.2<br><sub>2,0,6,1,0</sub> | 6.5 · –<br><sub>o 46% · u 54%</sub> | 5.7<br><sub>2,1,13,1,2</sub> |  | 0.7<br><sub>0,1,1,0,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 1.3 | 1.4 | 12.6 |
+| Adem Bona | 100% | 24.2<br><sub>14,10,25,4,14</sub> | 6.2<br><sub>2,0,6,1,0</sub> | 6.5 · –<br><sub>o 46% · u 54%</sub> | 5.7<br><sub>2,1,13,1,2</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 0.7<br><sub>0,1,1,0,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 1.3 | 1.4 | 12.6 |
 | Rayan Rupert | 25% | 15.1<br><sub>-,-,-,-,-</sub> | 5.2<br><sub>-,-,-,-,-</sub> |  | 2.7<br><sub>-,-,-,-,-</sub> |  | 1.1<br><sub>-,-,-,-,-</sub> |  | 0.4<br><sub>-,-,-,-,-</sub> |  | 0.8 | 0.2 | 0.9 | 9.1 |
 | Jabari Walker | 88% | 12.7<br><sub>4,12,-,-,-</sub> | 4.5<br><sub>2,6,-,-,-</sub> |  | 2.9<br><sub>1,3,-,-,-</sub> |  | 0.6<br><sub>0,1,-,-,-</sub> |  | 0.4<br><sub>0,0,-,-,-</sub> |  | 0.4 | 0.2 | 0.6 | 7.9 |
 | Justin Edwards | 38% | 11.6<br><sub>-,1,-,-,-</sub> | 4.2<br><sub>-,0,-,-,-</sub> |  | 1.5<br><sub>-,0,-,-,-</sub> |  | 0.7<br><sub>-,0,-,-,-</sub> |  | 0.5<br><sub>-,0,-,-,-</sub> |  | 0.5 | 0.1 | 0.5 | 6.3 |
@@ -145,12 +140,12 @@ Out: Kon Knueppel (CHA), Coby White (CHA), Grant Williams (CHA), Dominick Barlow
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Brandon Miller | 100% | 33.8<br><sub>23,36,36,38,37</sub> | 22.7<br><sub>6,34,39,31,19</sub> | 25.5 · 25.5<br><sub>o 47% · u 53%</sub> | 5.7<br><sub>2,8,6,12,7</sub> | 5.5<br><sub>o 50% · u 50%</sub> | 2.9<br><sub>0,4,1,3,2</sub> | 2.5<br><sub>o 58% · u 42%</sub> | 3.1<br><sub>1,3,5,3,3</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 1.1 | 0.7 | 3.0 | 31.4 |
+| Brandon Miller | 100% | 33.8<br><sub>23,36,36,38,37</sub> | 22.7<br><sub>6,34,39,31,19</sub> | 25.5 · 25.5<br><sub>o 47% · u 53%</sub> | 5.7<br><sub>2,8,6,12,7</sub> | 5.5<br><sub>o 50% · u 50%</sub> | 2.9<br><sub>0,4,1,3,2</sub> | 3.5<br><sub>o 38% · u 62%</sub> | 3.1<br><sub>1,3,5,3,3</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 1.1 | 0.7 | 3.0 | 31.4 |
 | Dennis Schroder | 100% | 32.0<br><sub>20,38,36,34,29</sub> | 13.7<br><sub>4,25,8,14,8</sub> | 13.5 · 14.5<br><sub>o 49% · u 51%</sub> | 3.5<br><sub>4,6,2,4,2</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 5.4<br><sub>3,4,5,5,8</sub> | 5.5<br><sub>o 51% · u 49%</sub> | 1.3<br><sub>0,3,0,2,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 1.0 | 0.2 | 2.6 | 22.6 |
 | Moussa Diabate | 100% | 29.5<br><sub>21,22,35,35,31</sub> | 8.8<br><sub>5,4,11,9,10</sub> | 8.5 · 8.5<br><sub>o 50% · u 50%</sub> | 10.3<br><sub>8,5,17,9,12</sub> | 10.5<br><sub>o 48% · u 52%</sub> | 2.4<br><sub>1,2,3,2,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 1.0 | 1.0 | 1.5 | 21.5 |
-| Naz Reid | 100% | 28.7<br><sub>25,37,29,13,31</sub> | 17.0<br><sub>17,23,18,7,12</sub> | 18.5 · 17.5<br><sub>o 48% · u 52%</sub> | 7.9<br><sub>6,9,12,6,11</sub> | 8.5<br><sub>o 45% · u 55%</sub> | 2.2<br><sub>2,0,1,0,1</sub> | 2.5<br><sub>o 40% · u 60%</sub> | 2.2<br><sub>3,5,2,1,2</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 0.8 | 0.9 | 2.3 | 27.1 |
-| Sion James | 100% | 27.3<br><sub>24,26,29,23,29</sub> | 7.0<br><sub>3,0,5,5,6</sub> | 5.5 · 5.5<br><sub>o 55% · u 45%</sub> | 4.2<br><sub>2,5,2,2,5</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 2.8<br><sub>5,5,3,3,4</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.0<br><sub>1,0,1,1,1</sub> | 1.5<br><sub>o 36% · u 64%</sub> | 0.8 | 0.2 | 1.1 | 14.0 |
-| Grayson Allen | 96% | 27.2<br><sub>20,34,28,30,21</sub> | 14.3<br><sub>11,20,15,9,5</sub> | 13.5 · 13.5<br><sub>o 48% · u 52%</sub> | 3.1<br><sub>2,3,2,5,3</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 2.9<br><sub>3,5,1,2,2</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 2.4<br><sub>3,4,2,2,1</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 0.9 | 0.3 | 1.9 | 20.4 |
+| Naz Reid | 100% | 28.7<br><sub>25,37,29,13,31</sub> | 17.0<br><sub>17,23,18,7,12</sub> | 18.5 · 17.5<br><sub>o 48% · u 52%</sub> | 7.9<br><sub>6,9,12,6,11</sub> | 8.5<br><sub>o 45% · u 55%</sub> | 2.2<br><sub>2,0,1,0,1</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 2.2<br><sub>3,5,2,1,2</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 0.8 | 0.9 | 2.3 | 27.1 |
+| Sion James | 100% | 27.3<br><sub>24,26,29,23,29</sub> | 7.0<br><sub>3,0,5,5,6</sub> | 5.5 · 5.5<br><sub>o 55% · u 45%</sub> | 4.2<br><sub>2,5,2,2,5</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 2.8<br><sub>5,5,3,3,4</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.0<br><sub>1,0,1,1,1</sub> | 1.5<br><sub>o 35% · u 65%</sub> | 0.8 | 0.2 | 1.1 | 14.0 |
+| Grayson Allen | 96% | 27.2<br><sub>20,34,28,30,21</sub> | 14.3<br><sub>11,20,15,9,5</sub> | 13.5 · 13.5<br><sub>o 53% · u 47%</sub> | 3.1<br><sub>2,3,2,5,3</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 2.9<br><sub>3,5,1,2,2</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 2.4<br><sub>3,4,2,2,1</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 0.9 | 0.3 | 1.9 | 20.4 |
 | Royce O'Neale | 98% | 19.7<br><sub>17,11,7,34,17</sub> | 6.5<br><sub>6,0,0,9,7</sub> |  | 3.5<br><sub>2,1,0,4,3</sub> |  | 1.2<br><sub>0,0,1,0,1</sub> |  | 1.2<br><sub>2,0,0,3,2</sub> |  | 0.6 | 0.3 | 0.7 | 11.1 |
 | Ryan Kalkbrenner | 98% | 16.0<br><sub>19,23,13,13,15</sub> | 5.0<br><sub>6,6,6,1,2</sub> | 4.5 · –<br><sub>o 50% · u 50%</sub> | 4.3<br><sub>7,5,4,1,4</sub> | 4.5<br><sub>o 45% · u 55%</sub> | 0.9<br><sub>1,2,1,1,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.3 | 1.1 | 0.7 | 10.2 |
 | Tidjane Salaun | 88% | 13.9<br><sub>23,10,16,12,9</sub> | 5.0<br><sub>11,3,5,2,6</sub> |  | 3.3<br><sub>5,3,5,2,2</sub> |  | 0.7<br><sub>1,0,0,0,0</sub> |  | 0.6<br><sub>1,1,1,0,2</sub> |  | 0.3 | 0.2 | 0.6 | 9.1 |
@@ -169,10 +164,11 @@ Out: Yves Missi (NOP), Dejounte Murray (NOP), Jordan Poole (NOP), RayJ Dennis (A
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Saddiq Bey RA over 6.5 (7+) | ATL @ NOP | draftkings | 2.12 | 2.09 | 1.71 | 58.4% | 44.2% | 47.8% | +1.2% | +23.7% | 0.3% |
-| Trey Murphy III RA over 8.5 (9+) | ATL @ NOP | draftkings | 2.05 | 2.03 | 1.66 | 60.1% | 45.7% | 49.3% | +1.0% | +23.2% | 0.2% |
-| Saddiq Bey PRA over 19.5 (20+) | ATL @ NOP | draftkings | 1.88 | 1.86 | 1.55 | 64.4% | 50.1% | 53.7% | +0.8% | +20.9% | 0.2% |
-| Saddiq Bey PA over 15.5 (16+) | ATL @ NOP | draftkings | 1.96 | 1.96 | 1.64 | 61.1% | 47.8% | 51.1% | +0.2% | +19.9% | 0.1% |
+| Trey Murphy III RA over 8.5 (9+) | ATL @ NOP | draftkings | 2.04 | 2.02 | 1.66 | 60.1% | 45.9% | 49.4% | +0.9% | +22.6% | 0.2% |
+| Trey Murphy III AST over 3.5 (4+) | ATL @ NOP | draftkings | 2.30 | 2.29 | 1.88 | 53.1% | 40.6% | 43.8% | +0.7% | +22.2% | 0.1% |
+| Zion Williamson PRA over 28.5 (29+) | ATL @ NOP | draftkings | 1.87 | 1.87 | 1.56 | 64.0% | 50.1% | 53.6% | +0.2% | +19.7% | 0.1% |
+| Zion Williamson AST over 2.5 (3+) | ATL @ NOP | draftkings | 1.74 | 1.73 | 1.45 | 68.8% | 53.9% | 57.6% | +0.0% | +19.4% | 0.0% |
+| Saddiq Bey AST over 1.5 (2+) | ATL @ NOP | draftkings | 1.71 | 1.71 | 1.45 | 69.1% | 55.0% | 58.5% | +0.0% | +18.1% | 0.0% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
@@ -190,14 +186,14 @@ Out: Yves Missi (NOP), Dejounte Murray (NOP), Jordan Poole (NOP), RayJ Dennis (A
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jalen Johnson | 98% | 35.3<br><sub>29,38,36,36,34</sub> | 21.6<br><sub>19,26,21,12,17</sub> | 22.5 · –<br><sub>o 47% · u 53%</sub> | 9.7<br><sub>7,9,9,9,8</sub> | 9.5<br><sub>o 48% · u 52%</sub> | 7.5<br><sub>8,16,3,11,7</sub> | 7.5<br><sub>o 52% · u 48%</sub> | 1.8<br><sub>0,2,1,2,2</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 1.3 | 0.6 | 3.1 | 38.8 |
+| Jalen Johnson | 98% | 35.3<br><sub>29,38,36,36,34</sub> | 21.6<br><sub>19,26,21,12,17</sub> | 22.5 · –<br><sub>o 46% · u 54%</sub> | 9.7<br><sub>7,9,9,9,8</sub> | 9.5<br><sub>o 48% · u 52%</sub> | 7.5<br><sub>8,16,3,11,7</sub> | 7.5<br><sub>o 52% · u 48%</sub> | 1.8<br><sub>0,2,1,2,2</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 1.3 | 0.6 | 3.1 | 38.8 |
 | Nickeil Alexander-Walker | 98% | 32.7<br><sub>27,32,29,32,31</sub> | 20.0<br><sub>14,18,12,23,25</sub> | 19.5 · –<br><sub>o 50% · u 50%</sub> | 3.2<br><sub>3,5,2,3,3</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 3.4<br><sub>5,4,3,1,1</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 3.3<br><sub>2,4,2,5,4</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 1.3 | 0.5 | 2.2 | 26.6 |
-| Dyson Daniels | 98% | 31.4<br><sub>23,29,28,28,32</sub> | 12.0<br><sub>11,18,4,7,4</sub> | 10.5 · –<br><sub>o 52% · u 48%</sub> | 6.3<br><sub>9,8,0,4,6</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 5.5<br><sub>4,3,4,7,5</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 0.5<br><sub>0,1,0,0,0</sub> |  | 2.1 | 0.4 | 1.6 | 23.7 |
+| Dyson Daniels | 98% | 31.4<br><sub>23,29,28,28,32</sub> | 12.0<br><sub>11,18,4,7,4</sub> | 10.5 · –<br><sub>o 52% · u 48%</sub> | 6.3<br><sub>9,8,0,4,6</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 5.5<br><sub>4,3,4,7,5</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 0.5<br><sub>0,1,0,0,0</sub> |  | 2.1 | 0.4 | 1.6 | 23.7 |
 | Onyeka Okongwu | 98% | 31.3<br><sub>22,26,29,31,33</sub> | 14.7<br><sub>10,8,11,11,29</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 7.4<br><sub>4,6,9,4,12</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 2.9<br><sub>1,2,1,4,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.7<br><sub>2,0,1,1,4</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 1.1 | 1.0 | 1.4 | 25.0 |
-| CJ McCollum | 98% | 29.3<br><sub>22,30,30,20,31</sub> | 18.2<br><sub>13,17,20,13,5</sub> | 15.5 · –<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>1,2,1,2,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 3.7<br><sub>2,1,3,1,8</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 2.5<br><sub>2,1,4,1,0</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 1.0 | 0.5 | 1.9 | 24.6 |
+| CJ McCollum | 98% | 29.3<br><sub>22,30,30,20,31</sub> | 18.2<br><sub>13,17,20,13,5</sub> | 15.5 · –<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>1,2,1,2,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 3.7<br><sub>2,1,3,1,8</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 2.5<br><sub>2,1,4,1,0</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 1.0 | 0.5 | 1.9 | 24.6 |
 | Aaron Wiggins | 96% | 24.8<br><sub>22,29,27,24,24</sub> | 11.6<br><sub>19,16,12,10,20</sub> | 12.5 · –<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>1,5,4,4,7</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 2.0<br><sub>1,2,3,3,3</sub> |  | 1.8<br><sub>3,4,2,2,4</sub> | 2.5<br><sub>o 36% · u 64%</sub> | 0.9 | 0.4 | 1.1 | 17.0 |
-| Luguentz Dort | 98% | 22.2<br><sub>19,23,21,24,22</sub> | 7.8<br><sub>9,7,11,8,6</sub> | 7.5 · –<br><sub>o 51% · u 49%</sub> | 2.8<br><sub>5,2,2,3,3</sub> | 2.5<br><sub>o 54% · u 46%</sub> | 1.5<br><sub>2,3,1,3,2</sub> |  | 1.2<br><sub>1,1,0,2,1</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 0.8 | 0.3 | 0.7 | 12.0 |
-| Kingston Flemings | 96% | 18.3<br><sub>25,15,18,28,16</sub> | 6.6<br><sub>5,2,6,23,2</sub> | 7.5 · –<br><sub>o 46% · u 54%</sub> | 2.6<br><sub>6,1,1,5,1</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 3.9<br><sub>8,2,4,5,5</sub> | 3.5<br><sub>o 47% · u 53%</sub> | 0.6<br><sub>1,0,0,3,0</sub> |  | 0.7 | 0.3 | 1.3 | 13.1 |
+| Luguentz Dort | 98% | 22.2<br><sub>19,23,21,24,22</sub> | 7.8<br><sub>9,7,11,8,6</sub> | 7.5 · –<br><sub>o 51% · u 49%</sub> | 2.8<br><sub>5,2,2,3,3</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 1.5<br><sub>2,3,1,3,2</sub> |  | 1.2<br><sub>1,1,0,2,1</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 0.8 | 0.3 | 0.7 | 12.0 |
+| Kingston Flemings | 96% | 18.3<br><sub>25,15,18,28,16</sub> | 6.6<br><sub>5,2,6,23,2</sub> | 7.5 · –<br><sub>o 45% · u 55%</sub> | 2.6<br><sub>6,1,1,5,1</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 3.9<br><sub>8,2,4,5,5</sub> | 3.5<br><sub>o 47% · u 53%</sub> | 0.6<br><sub>1,0,0,3,0</sub> |  | 0.7 | 0.3 | 1.3 | 13.1 |
 | Jock Landale | 98% | 16.7<br><sub>18,19,18,17,15</sub> | 7.6<br><sub>8,2,8,10,6</sub> |  | 4.5<br><sub>6,4,6,6,10</sub> |  | 1.5<br><sub>4,2,4,0,1</sub> |  | 0.7<br><sub>1,0,0,0,2</sub> |  | 0.4 | 0.5 | 0.8 | 13.7 |
 | Corey Kispert | 48% | 9.3<br><sub>10,-,1,-,-</sub> | 4.7<br><sub>11,-,5,-,-</sub> |  | 1.3<br><sub>1,-,0,-,-</sub> |  | 0.8<br><sub>1,-,0,-,-</sub> |  | 0.5<br><sub>3,-,1,-,-</sub> |  | 0.2 | 0.1 | 0.4 | 6.8 |
 | Asa Newell | 47% | 8.1<br><sub>8,-,1,-,-</sub> | 3.4<br><sub>3,-,0,-,-</sub> |  | 1.7<br><sub>1,-,1,-,-</sub> |  | 0.5<br><sub>0,-,0,-,-</sub> |  | 0.2<br><sub>1,-,0,-,-</sub> |  | 0.3 | 0.2 | 0.4 | 5.6 |
@@ -209,13 +205,13 @@ Out: Yves Missi (NOP), Dejounte Murray (NOP), Jordan Poole (NOP), RayJ Dennis (A
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Trey Murphy III | 98% | 35.2<br><sub>32,31,37,30,32</sub> | 18.6<br><sub>11,9,26,6,19</sub> | 17.5 · –<br><sub>o 48% · u 52%</sub> | 5.7<br><sub>4,6,6,1,5</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 3.9<br><sub>1,3,4,3,3</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>2,1,4,2,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.4 | 0.5 | 1.9 | 28.3 |
-| Zion Williamson | 96% | 33.2<br><sub>32,33,33,32,31</sub> | 23.3<br><sub>22,23,17,25,22</sub> | 20.5 · –<br><sub>o 50% · u 50%</sub> | 6.5<br><sub>3,5,1,5,6</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 3.6<br><sub>3,2,2,2,2</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 0.2<br><sub>2,0,0,1,0</sub> |  | 1.4 | 0.8 | 2.5 | 33.4 |
-| Jeremiah Fears | 98% | 29.5<br><sub>21,24,23,24,29</sub> | 17.3<br><sub>8,7,10,11,22</sub> | 16.5 · –<br><sub>o 47% · u 53%</sub> | 4.4<br><sub>3,0,6,4,8</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 5.0<br><sub>1,1,2,3,13</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 1.6<br><sub>1,1,0,1,3</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 1.3 | 0.6 | 2.8 | 26.8 |
-| Saddiq Bey | 96% | 28.6<br><sub>24,22,25,26,24</sub> | 16.1<br><sub>13,20,14,9,10</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 4.9<br><sub>5,3,4,0,4</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.5<br><sub>0,1,3,3,3</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 1.9<br><sub>2,3,2,1,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 0.8 | 0.2 | 1.2 | 23.4 |
-| Herbert Jones | 96% | 28.5<br><sub>17,18,16,19,32</sub> | 9.5<br><sub>5,3,2,4,16</sub> | 7.5 · –<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>2,1,3,2,4</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 2.4<br><sub>0,0,1,0,1</sub> |  | 1.2<br><sub>1,1,0,0,0</sub> |  | 1.6 | 0.5 | 1.5 | 15.3 |
-| Derik Queen | 98% | 26.3<br><sub>18,29,25,25,22</sub> | 12.6<br><sub>10,12,17,11,9</sub> | 10.5 · –<br><sub>o 53% · u 47%</sub> | 7.9<br><sub>10,7,8,12,2</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.2<br><sub>1,2,2,1,3</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 0.4<br><sub>0,1,0,0,1</sub> |  | 1.1 | 1.1 | 2.4 | 23.8 |
-| Karlo Matkovic | 88% | 21.8<br><sub>-,9,8,18,28</sub> | 8.1<br><sub>-,7,3,5,12</sub> | 7.5 · –<br><sub>o 51% · u 49%</sub> | 5.3<br><sub>-,4,0,3,4</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 1.3<br><sub>-,1,0,1,1</sub> |  | 0.8<br><sub>-,0,1,1,1</sub> |  | 0.7 | 1.2 | 1.1 | 14.7 |
+| Trey Murphy III | 98% | 35.2<br><sub>32,31,37,30,32</sub> | 18.6<br><sub>11,9,26,6,19</sub> | 17.5 · –<br><sub>o 48% · u 52%</sub> | 5.7<br><sub>4,6,6,1,5</sub> | 4.5<br><sub>o 58% · u 42%</sub> | 3.9<br><sub>1,3,4,3,3</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 2.8<br><sub>2,1,4,2,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.4 | 0.5 | 1.9 | 28.3 |
+| Zion Williamson | 96% | 33.2<br><sub>32,33,33,32,31</sub> | 23.3<br><sub>22,23,17,25,22</sub> | 20.5 · –<br><sub>o 50% · u 50%</sub> | 6.5<br><sub>3,5,1,5,6</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 3.6<br><sub>3,2,2,2,2</sub> | 2.5<br><sub>o 58% · u 42%</sub> | 0.2<br><sub>2,0,0,1,0</sub> |  | 1.4 | 0.8 | 2.5 | 33.4 |
+| Jeremiah Fears | 98% | 29.5<br><sub>21,24,23,24,29</sub> | 17.3<br><sub>8,7,10,11,22</sub> | 16.5 · –<br><sub>o 48% · u 52%</sub> | 4.4<br><sub>3,0,6,4,8</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 5.0<br><sub>1,1,2,3,13</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 1.6<br><sub>1,1,0,1,3</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 1.3 | 0.6 | 2.8 | 26.8 |
+| Saddiq Bey | 96% | 28.6<br><sub>24,22,25,26,24</sub> | 16.1<br><sub>13,20,14,9,10</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 4.9<br><sub>5,3,4,0,4</sub> | 3.5<br><sub>o 60% · u 40%</sub> | 2.5<br><sub>0,1,3,3,3</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 1.9<br><sub>2,3,2,1,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 0.8 | 0.2 | 1.2 | 23.4 |
+| Herbert Jones | 96% | 28.5<br><sub>17,18,16,19,32</sub> | 9.5<br><sub>5,3,2,4,16</sub> | 7.5 · –<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>2,1,3,2,4</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 2.4<br><sub>0,0,1,0,1</sub> |  | 1.2<br><sub>1,1,0,0,0</sub> |  | 1.6 | 0.5 | 1.5 | 15.3 |
+| Derik Queen | 98% | 26.3<br><sub>18,29,25,25,22</sub> | 12.6<br><sub>10,12,17,11,9</sub> | 10.5 · –<br><sub>o 53% · u 47%</sub> | 7.9<br><sub>10,7,8,12,2</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.2<br><sub>1,2,2,1,3</sub> | 2.5<br><sub>o 58% · u 42%</sub> | 0.4<br><sub>0,1,0,0,1</sub> |  | 1.1 | 1.1 | 2.4 | 23.8 |
+| Karlo Matkovic | 88% | 21.8<br><sub>-,9,8,18,28</sub> | 8.1<br><sub>-,7,3,5,12</sub> | 7.5 · –<br><sub>o 51% · u 49%</sub> | 5.3<br><sub>-,4,0,3,4</sub> | 5.5<br><sub>o 46% · u 54%</sub> | 1.3<br><sub>-,1,0,1,1</sub> |  | 0.8<br><sub>-,0,1,1,1</sub> |  | 0.7 | 1.2 | 1.1 | 14.7 |
 | Bennedict Mathurin | 98% | 20.5<br><sub>18,15,20,14,19</sub> | 10.3<br><sub>11,4,9,5,10</sub> |  | 3.9<br><sub>3,2,4,1,3</sub> |  | 2.0<br><sub>2,0,4,2,2</sub> |  | 0.8<br><sub>0,0,1,1,2</sub> |  | 0.6 | 0.2 | 1.5 | 16.2 |
 | Trendon Watford | 48% | 16.2<br><sub>-,-,-,-,17</sub> | 6.6<br><sub>-,-,-,-,8</sub> |  | 3.1<br><sub>-,-,-,-,1</sub> |  | 1.9<br><sub>-,-,-,-,2</sub> |  | 0.2<br><sub>-,-,-,-,0</sub> |  | 0.5 | 0.4 | 1.1 | 11.6 |
 | DeAndre Jordan | 52% | 15.6<br><sub>-,-,20,13,-</sub> | 4.3<br><sub>-,-,9,3,-</sub> |  | 6.2<br><sub>-,-,9,4,-</sub> |  | 1.0<br><sub>-,-,2,0,-</sub> |  | 0.0<br><sub>-,-,0,0,-</sub> |  | 0.3 | 0.8 | 0.8 | 11.4 |
