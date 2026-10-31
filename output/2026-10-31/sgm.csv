@@ -1,39 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHI @ CHA,Brandon Miller pts under 26.5 + Kentavious Caldwell-Pope 5+ pr,2,0.6156,0.465,2.15,2.26,2.14,-0.0067,0.999,2.10-2.50
-PHI @ CHA,Naz Reid pts under 17.5 + Kentavious Caldwell-Pope 5+ pr,2,0.5594,0.4378,2.28,2.4,2.27,-0.007,0.999,2.10-2.50
-PHI @ CHA,Jaylen Brown 23+ pts + Kentavious Caldwell-Pope 5+ pr,2,0.5655,0.4545,2.2,2.31,2.18,-0.0095,1.007,2.10-2.50
-PHI @ CHA,Brandon Miller pts under 26.5 + Sion James 5+ pr,2,0.6264,0.4881,2.05,2.15,2.01,-0.0192,0.998,1.85-2.10
-PHI @ CHA,Jaylen Brown 23+ pts + Sion James 5+ pr,2,0.5744,0.4762,2.1,2.2,2.05,-0.0237,1.005,1.85-2.10
-PHI @ CHA,Brandon Miller pts under 26.5 + Sion James 5+ pa,2,0.5977,0.4709,2.12,2.23,2.07,-0.0252,0.996,1.85-2.10
-PHI @ CHA,Kentavious Caldwell-Pope 5+ pr + Jaylen Brown 15+ pts + Anfernee Simons 10+ pr,3,0.7104,0.5652,1.77,1.86,1.58,-0.1076,1.009,1.50-1.65
-PHI @ CHA,Kentavious Caldwell-Pope 5+ pr + Jaylen Brown 15+ pts + Anfernee Simons 10+ pa,3,0.6859,0.5506,1.82,1.91,1.62,-0.1088,1.01,1.50-1.65
-PHI @ CHA,Kentavious Caldwell-Pope 5+ pr + Sion James 5+ pr + Anfernee Simons 10+ pr,3,0.7464,0.5925,1.69,1.77,1.5,-0.1096,1.006,1.50-1.65
-PHI @ CHA,Kentavious Caldwell-Pope 5+ pr + Jaylen Brown 1+ 3pm + Anfernee Simons 10+ pr,3,0.6717,0.5352,1.87,1.96,1.66,-0.1135,1.003,1.65-1.85
-PHI @ CHA,Kentavious Caldwell-Pope 5+ pr + Jaylen Brown 1+ 3pm + Anfernee Simons 10+ pa,3,0.6473,0.5205,1.92,2.02,1.7,-0.1163,1.003,1.65-1.85
-PHI @ CHA,Jaylen Brown 1+ 3pm + Grayson Allen 10+ pr + Anfernee Simons 10+ pa,3,0.6185,0.5184,1.93,2.03,1.68,-0.1302,1.002,1.65-1.85
-ATL @ NOP,Zion Williamson 9+ ra + Saddiq Bey 10+ pa,2,0.5906,0.4144,2.41,2.53,2.44,0.0107,1.006,2.10-2.50
-ATL @ NOP,Zion Williamson 9+ ra + Onyeka Okongwu 15+ pra,2,0.5978,0.4242,2.36,2.48,2.37,0.0049,1.004,2.10-2.50
-ATL @ NOP,Zion Williamson 9+ ra + Onyeka Okongwu 10+ pr,2,0.6355,0.4548,2.2,2.31,2.2,0.0003,1.003,2.10-2.50
-ATL @ NOP,Saddiq Bey 6+ ra + Zion Williamson 20+ pra,2,0.6554,0.4965,2.01,2.11,1.96,-0.025,1.005,1.85-2.10
-ATL @ NOP,Saddiq Bey 2+ ast + Zion Williamson 20+ pra,2,0.6419,0.4993,2.0,2.1,1.94,-0.0312,1.006,1.85-2.10
-ATL @ NOP,Saddiq Bey 6+ ra + Onyeka Okongwu 15+ pra,2,0.6441,0.4915,2.03,2.14,1.97,-0.0317,1.001,1.85-2.10
-ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pr,2,0.722,0.5987,1.67,1.75,1.56,-0.0634,1.003,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pr,3,0.6522,0.4946,2.02,2.12,1.83,-0.0927,1.007,1.65-1.85
-ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pra,3,0.7062,0.5336,1.87,1.97,1.7,-0.0932,1.005,1.65-1.85
-ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pra + Saddiq Bey 10+ pra,3,0.762,0.5911,1.69,1.78,1.52,-0.1045,1.003,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pr + Saddiq Bey 10+ pra,3,0.7028,0.5471,1.83,1.92,1.64,-0.1052,1.003,1.50-1.65
-SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 6+ reb,2,0.5974,0.4315,2.32,2.43,2.32,-0.0001,1.006,2.10-2.50
-SAC @ MEM,Precious Achiuwa 21+ pr + Domantas Sabonis 10+ pts,2,0.6053,0.4474,2.23,2.35,2.22,-0.0071,1.008,2.10-2.50
-SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 6+ reb,2,0.5876,0.4266,2.34,2.46,2.33,-0.0073,1.007,2.10-2.50
-SAC @ MEM,Precious Achiuwa 21+ pr + Domantas Sabonis 8+ reb,2,0.6333,0.4815,2.08,2.18,2.04,-0.0185,1.006,1.85-2.10
-SAC @ MEM,Precious Achiuwa 21+ pr + Zach Edey 5+ pa,2,0.615,0.4672,2.14,2.25,2.09,-0.0236,1.001,1.85-2.10
-SAC @ MEM,Precious Achiuwa 23+ pra + Domantas Sabonis 8+ reb,2,0.6219,0.4752,2.1,2.21,2.05,-0.0272,1.006,1.85-2.10
-SAC @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.6347,0.5969,1.68,1.76,1.59,-0.0499,1.002,1.50-1.65
-SAC @ MEM,MEM win + Cameron Boozer 4+ ast,2,0.5989,0.5854,1.71,1.79,1.61,-0.0549,1.011,1.50-1.65
-SAC @ MEM,MEM win + Precious Achiuwa 10+ pa,2,0.6353,0.5982,1.67,1.76,1.57,-0.0634,0.988,1.50-1.65
-SAC @ MEM,MEM win + Cameron Boozer 6+ reb + Zach Edey 5+ pa,3,0.5857,0.5202,1.92,2.02,1.76,-0.0856,1.012,1.65-1.85
-SAC @ MEM,MEM win + Cameron Boozer 6+ reb + Precious Achiuwa 4+ reb,3,0.6072,0.5342,1.87,1.97,1.7,-0.0905,1.003,1.65-1.85
-SAC @ MEM,MEM win + Cameron Boozer 4+ ast + Zach Edey 5+ pa,3,0.5524,0.51,1.96,2.06,1.78,-0.0908,1.021,1.65-1.85
+ATL @ NOP,Zion Williamson 9+ ra + Saddiq Bey 10+ pa,2,0.5906,0.4284,2.33,2.45,2.32,-0.0065,1.006,2.10-2.50
+ATL @ NOP,Saddiq Bey 20+ pra + Zion Williamson 4+ reb,2,0.554,0.3994,2.5,2.63,2.49,-0.0068,1.004,2.10-2.50
+ATL @ NOP,Zion Williamson 6+ reb + Saddiq Bey 10+ pa,2,0.5491,0.401,2.49,2.62,2.47,-0.0094,1.005,2.10-2.50
+ATL @ NOP,Saddiq Bey 6+ ra + Zion Williamson 20+ pra,2,0.6554,0.4902,2.04,2.14,2.0,-0.0196,1.005,1.85-2.10
+ATL @ NOP,Zion Williamson 9+ ra + Saddiq Bey 10+ pra,2,0.6366,0.4767,2.1,2.2,2.05,-0.022,1.002,1.85-2.10
+ATL @ NOP,Saddiq Bey 6+ ra + Onyeka Okongwu 15+ pra,2,0.6441,0.4818,2.08,2.18,2.03,-0.0239,1.001,1.85-2.10
+ATL @ NOP,Saddiq Bey 2+ ast + CJ McCollum 10+ pa,2,0.6605,0.5235,1.91,2.01,1.82,-0.0488,1.0,1.65-1.85
+ATL @ NOP,Saddiq Bey 4+ reb + CJ McCollum 10+ pa,2,0.6586,0.5325,1.88,1.97,1.78,-0.0517,1.002,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Derik Queen 10+ pa,2,0.7063,0.5997,1.67,1.75,1.55,-0.0709,1.004,1.50-1.65
+ATL @ NOP,Onyeka Okongwu 15+ pr + Derik Queen 10+ pa,2,0.6926,0.6063,1.65,1.73,1.51,-0.0825,1.003,1.50-1.65
+ATL @ NOP,Saddiq Bey 15+ pra + Zion Williamson 4+ reb + CJ McCollum 10+ pa,3,0.7042,0.5215,1.92,2.01,1.75,-0.09,1.001,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + CJ McCollum 10+ pa,3,0.7381,0.5651,1.77,1.86,1.59,-0.1007,1.002,1.50-1.65
+SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 6+ reb,2,0.6008,0.4316,2.32,2.43,2.32,0.0006,1.006,2.10-2.50
+SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 6+ reb,2,0.5914,0.4217,2.37,2.49,2.37,-0.0009,1.006,2.10-2.50
+SAC @ MEM,Cameron Boozer 9+ reb + Precious Achiuwa 10+ pa,2,0.5568,0.4026,2.48,2.61,2.47,-0.0048,1.006,2.10-2.50
+SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 15+ pr,2,0.6315,0.4783,2.09,2.2,2.05,-0.0216,1.004,1.85-2.10
+SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 15+ pr,2,0.6219,0.4675,2.14,2.25,2.09,-0.0227,1.003,1.85-2.10
+SAC @ MEM,Precious Achiuwa 21+ pr + Zach Edey 5+ pa,2,0.6167,0.4674,2.14,2.25,2.09,-0.0232,1.002,1.85-2.10
+SAC @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.627,0.5961,1.68,1.76,1.59,-0.0508,1.0,1.50-1.65
+SAC @ MEM,MEM win + Jaylen Wells 10+ pa,2,0.596,0.59,1.69,1.78,1.61,-0.051,1.015,1.50-1.65
+SAC @ MEM,MEM win + Cameron Boozer 4+ ast,2,0.5871,0.5813,1.72,1.81,1.62,-0.0579,1.008,1.50-1.65
+SAC @ MEM,Domantas Sabonis 15+ pts + Precious Achiuwa 4+ reb,2,0.6349,0.5183,1.93,2.03,1.82,-0.0591,1.001,1.65-1.85
+SAC @ MEM,Domantas Sabonis 15+ pts + Cameron Boozer 15+ pr,2,0.618,0.5111,1.96,2.05,1.83,-0.0641,1.001,1.65-1.85
+SAC @ MEM,Precious Achiuwa 10+ pa + Cameron Boozer 6+ reb + Domantas Sabonis 10+ pts,3,0.7191,0.5259,1.9,2.0,1.74,-0.0827,1.005,1.65-1.85
 CLE @ MIL,Tyler Herro pra under 30.5 + CLE win,2,0.4121,0.4226,2.37,2.48,2.45,0.0373,1.062,2.10-2.50
 CLE @ MIL,Tyler Herro pa under 25.5 + CLE win,2,0.4072,0.4253,2.35,2.47,2.42,0.0304,1.063,2.10-2.50
 CLE @ MIL,Tyler Herro pr under 26.5 + CLE win,2,0.4302,0.4402,2.27,2.39,2.33,0.0253,1.048,2.10-2.50
