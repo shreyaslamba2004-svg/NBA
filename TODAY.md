@@ -1,6 +1,6 @@
 # NBA model · Sat 31 Oct 2026 (US date)
 
-Updated **Sun 01 Nov, 07:38 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 01 Nov, 07:43 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -45,9 +45,9 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Kevin Durant PTS over 34.5 (35+) | OKC @ HOU | draftkings | 9.20 | 8.22 | 5.50 | 18.2% | 10.2% | 12.2% | +11.9% | +67.4% | 0.4% |
 | Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ HOU | draftkings | 9.50 | 8.52 | 5.73 | 17.4% | 9.8% | 11.7% | +11.5% | +65.8% | 0.3% |
 | MIN to win | MIN @ SAS | neds | 6.25 | 5.61 | 4.01 | 25.0% | 17.8% | 17.8% | +11.3% | +56.0% | 0.5% |
-| Dylan Harper REB over 9.5 (10+) | MIN @ SAS | draftkings | 16.00 | 14.39 | 9.72 | 10.3% | 5.8% | 7.0% | +11.3% | +64.7% | 0.2% |
 | Precious Achiuwa PA over 24.5 (25+) | SAC @ MEM | draftkings | 10.20 | 9.22 | 6.28 | 15.9% | 9.2% | 10.8% | +10.7% | +62.4% | 0.3% |
 | Donovan Mitchell PTS over 44.5 (45+) | CLE @ MIL | draftkings | 26.00 | 23.53 | 16.12 | 6.2% | 3.6% | 4.2% | +10.4% | +61.3% | 0.1% |
+| Amen Thompson PTS over 24.5 (25+) | OKC @ HOU | draftkings | 7.70 | 6.98 | 4.78 | 20.9% | 12.1% | 14.3% | +10.4% | +61.1% | 0.4% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -73,7 +73,6 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 | De'Andre Hunter REB over 8.5 (9+) | SAC @ MEM | draftkings | 10.50 | 9.91 | 7.32 | 13.7% | 8.9% | 10.1% | +5.9% | +43.4% | 0.2% |
 | Moussa Diabate AST over 4.5 (5+) | PHI @ CHA | draftkings | 14.20 | 13.40 | 9.92 | 10.1% | 6.6% | 7.5% | +5.9% | +43.1% | 0.1% |
 | Zion Williamson REB over 8.5 (9+) | ATL @ NOP | draftkings | 7.20 | 6.83 | 5.08 | 19.7% | 13.0% | 14.6% | +5.5% | +41.7% | 0.2% |
-| Dylan Harper REB over 10.5 (11+) | MIN @ SAS | draftkings | 24.00 | 22.78 | 17.03 | 5.9% | 3.9% | 4.4% | +5.3% | +40.9% | 0.1% |
 | Dyson Daniels AST over 8.5 (9+) | ATL @ NOP | draftkings | 10.90 | 10.36 | 7.77 | 12.9% | 8.6% | 9.7% | +5.2% | +40.3% | 0.1% |
 | Devin Vassell REB over 8.5 (9+) | MIN @ SAS | draftkings | 18.20 | 17.33 | 13.01 | 7.7% | 5.1% | 5.8% | +5.1% | +39.9% | 0.1% |
 
