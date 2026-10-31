@@ -135,6 +135,16 @@ LINES: dict = {}  # (player_id, stat, book) -> main line, set by build()
 LINE_STATS = {"pts": "DK · SB", "reb": "DK", "ast": "DK", "fg3m": "DK"}  # Sportsbet is only bought for points
 
 
+BLEND: dict = {}  # (player_id, stat) -> (DK main line, blended P(over)), set by build() from ladder.csv
+
+
+def _with_blend(cell: str, pid, stat) -> str:
+    b = BLEND.get((pid, stat))
+    if not b or not cell:
+        return cell
+    return f"{cell}<br><sub>o {100 * b[1]:.0f}% · u {100 * (1 - b[1]):.0f}%</sub>"
+
+
 def _book_lines(pid, stat) -> str:
     dk, sb = LINES.get((pid, stat, "draftkings")), LINES.get((pid, stat, "sportsbet"))
     if stat != "pts":
@@ -188,7 +198,7 @@ def _player_table(ps: pd.DataFrame, team: str | None = None, show_team: bool = F
             v = _f(r.get(f"proj_{s}"), 1)
             cells.append(_with5(v, r["player_id"], s) if s in LAST5_STATS else v)
             if s in LINE_STATS:
-                cells.append(_book_lines(r["player_id"], s))
+                cells.append(_with_blend(_book_lines(r["player_id"], s), r["player_id"], s))
         rows.append([name, f"{int(round(100 * r['play_prob']))}%",
                      _with5(_f(r["proj_min"], 1), r["player_id"], "min")] + cells)
     heads = []
@@ -225,7 +235,9 @@ def games_md(g: pd.DataFrame, ps: pd.DataFrame, ed: pd.DataFrame | None = None) 
     rows = [[f"{r['away']} @ {r['home']}", r.get("tip_sydney", "")] + _line_cells(r) for _, r in base.iterrows()]
     out = ["Game lines below assume every questionable player sits; each game's section shows what changes if they play. "
            "In the player tables, the small numbers under Min, PTS, REB, AST and 3PM are the last 5 games, "
-           "oldest to newest (- = didn't play).\n",
+           "oldest to newest (- = didn't play). Under each DraftKings line, **o / u** is the Blend chance of over / under "
+           "that line (what the bets and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) use); "
+           "other lines are in the ladders.\n",
            _table(["Game", "Tip (Syd)"] + LINE_HEAD, rows)]
     for _, r in base.iterrows():
         a, h, gid = r["away"], r["home"], r["game_id"]
@@ -321,6 +333,11 @@ def build(day: date) -> Path | None:
     LINES.clear()
     if ln is not None and len(ln):
         LINES.update({(r.player_id, r.market[5:], r.book): float(r.line) for r in ln.itertuples()})
+    BLEND.clear()
+    lad = _read(d, "ladder")
+    if len(lad):
+        m = lad[lad["main"].astype(str).str.lower() == "true"]
+        BLEND.update({(r.player_id, r.stat): (float(r.line), float(r.p_over_blend)) for r in m.itertuples()})
     LAST5.clear()
     try:
         LAST5.update(_last5(day))
