@@ -3099,12 +3099,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pra,14.5,False,0.3109,,model only,0.3109
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pra,15.5,False,0.2577,,model only,0.2577
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pra,16.5,False,0.2106,,model only,0.2106
-401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,9.5,False,0.5648,0.7177,book,0.6795
+401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,9.5,False,0.5648,0.7152,book,0.6776
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,10.5,False,0.4924,0.6807,est,0.6336
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,11.5,False,0.4181,0.6122,est,0.5637
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,12.5,False,0.3526,0.5448,est,0.4968
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,13.5,True,0.2984,0.4831,book,0.4369
-401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,14.5,False,0.2431,0.4287,book,0.3823
+401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,14.5,False,0.2431,0.4307,book,0.3838
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,15.5,False,0.1949,0.3473,est,0.3092
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,16.5,False,0.1562,0.2892,est,0.2559
 401909898,ATL @ NOP,NOP,1631255,Karlo Matkovic,pr,17.5,False,0.1266,0.2416,est,0.2129
@@ -3432,15 +3432,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pra,33.5,False,0.3346,0.3924,est,0.3779
 401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pra,34.5,False,0.3014,0.3565,est,0.3427
 401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pra,35.5,False,0.2708,0.3228,est,0.3098
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,23.5,False,0.6167,0.6745,est,0.6601
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,24.5,False,0.5736,0.634,est,0.6189
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,25.5,False,0.5266,0.589,est,0.5734
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,26.5,False,0.4847,0.5479,est,0.5321
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,27.5,True,0.4457,0.5088,book,0.493
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,28.5,False,0.4017,0.4638,est,0.4483
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,29.5,False,0.3643,0.4247,est,0.4096
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,30.5,False,0.3241,0.3818,est,0.3674
-401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,31.5,False,0.2895,0.3442,est,0.3305
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,23.5,False,0.6167,0.6647,est,0.6527
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,24.5,False,0.5736,0.6237,est,0.6111
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,25.5,False,0.5266,0.5782,est,0.5653
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,26.5,False,0.4847,0.5368,est,0.5238
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,27.5,True,0.4457,0.4977,book,0.4847
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,28.5,False,0.4017,0.4528,est,0.44
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,29.5,False,0.3643,0.4139,est,0.4015
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,30.5,False,0.3241,0.3714,est,0.3596
+401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pr,31.5,False,0.2895,0.3342,est,0.323
 401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pa,21.5,False,0.5763,0.6649,est,0.6428
 401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pa,22.5,False,0.5264,0.6185,est,0.5955
 401909898,ATL @ NOP,NOP,1629627,Zion Williamson,pa,23.5,False,0.479,0.5728,est,0.5494
