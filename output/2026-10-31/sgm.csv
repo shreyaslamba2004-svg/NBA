@@ -1,78 +1,81 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-POR @ UTA,Damian Lillard pts under 22.5 + Jrue Holiday 15+ pa,2,0.5378,0.3965,2.52,2.65,2.46,-0.0251,0.994,2.10-2.50
-POR @ UTA,Damian Lillard pts under 22.5 + Jrue Holiday 10+ pr,2,0.6262,0.4728,2.11,2.22,2.06,-0.0276,1.0,1.85-2.10
-POR @ UTA,Damian Lillard pts under 22.5 + Jrue Holiday 10+ pts,2,0.533,0.3978,2.51,2.64,2.44,-0.0302,0.993,2.10-2.50
-POR @ UTA,Damian Lillard pts under 22.5 + Toumani Camara 1+ 3pm,2,0.6033,0.4576,2.19,2.29,2.11,-0.0327,0.996,2.10-2.50
-POR @ UTA,Damian Lillard pts under 22.5 + Toumani Camara 10+ pra,2,0.6199,0.4719,2.12,2.23,2.05,-0.0341,0.996,1.85-2.10
-POR @ UTA,Damian Lillard pr under 27.5 + Jrue Holiday 10+ pr,2,0.6446,0.5003,2.0,2.1,1.92,-0.0402,0.999,1.85-2.10
-POR @ UTA,Jrue Holiday 5+ ast + Toumani Camara 1+ 3pm,2,0.641,0.5279,1.89,1.99,1.78,-0.0624,1.001,1.65-1.85
-POR @ UTA,Jrue Holiday 5+ ast + Toumani Camara 10+ pra,2,0.6594,0.5451,1.83,1.93,1.72,-0.0625,1.002,1.65-1.85
-POR @ UTA,Jrue Holiday 5+ ast + Deni Avdija 4+ ast,2,0.634,0.5274,1.9,1.99,1.78,-0.0633,1.003,1.65-1.85
-POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 15+ pa,2,0.6901,0.5883,1.7,1.78,1.58,-0.0727,1.004,1.50-1.65
-POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 10+ pts,2,0.6835,0.5899,1.7,1.78,1.56,-0.0782,1.002,1.50-1.65
-POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 10+ pts + Toumani Camara 10+ pra,3,0.6468,0.5332,1.88,1.97,1.65,-0.1224,1.005,1.50-1.65
-PHI @ CHA,Naz Reid 3pm under 2.5 + Dennis Schroder 1+ 3pm,2,0.492,0.4104,2.44,2.56,2.28,-0.0641,0.996,2.10-2.50
-PHI @ CHA,Brandon Miller 3pm under 3.5 + Dennis Schroder 1+ 3pm,2,0.4507,0.3802,2.63,2.76,2.46,-0.0663,0.999,2.10-2.50
-PHI @ CHA,Brandon Miller 3pm under 3.5 + Naz Reid 1+ 3pm,2,0.5366,0.4502,2.22,2.33,2.07,-0.0667,0.997,1.85-2.10
-PHI @ CHA,Naz Reid 3pm under 2.5 + Brandon Miller 2+ 3pm,2,0.5517,0.4641,2.15,2.26,2.01,-0.0681,0.994,1.85-2.10
-PHI @ CHA,game over 215.5 + Dennis Schroder 1+ 3pm,2,0.4242,0.3691,2.71,2.84,2.46,-0.0937,1.028,2.10-2.50
-PHI @ CHA,game over 215.5 + Naz Reid 1+ 3pm,2,0.5021,0.4345,2.3,2.42,2.07,-0.0993,1.02,1.85-2.10
-PHI @ CHA,Dennis Schroder 3pm under 1.5 + Naz Reid 1+ 3pm,2,0.5518,0.5118,1.95,2.05,1.76,-0.1015,1.0,1.65-1.85
-PHI @ CHA,Dennis Schroder 3pm under 1.5 + Brandon Miller 2+ 3pm,2,0.5205,0.4895,2.04,2.15,1.83,-0.1036,1.002,1.65-1.85
+POR @ UTA,Damian Lillard pts under 23.5 + Jrue Holiday 4+ ast,2,0.5719,0.4213,2.37,2.49,2.31,-0.0255,0.994,2.10-2.50
+POR @ UTA,Damian Lillard pr under 27.5 + Jrue Holiday 4+ ast,2,0.5565,0.4138,2.42,2.54,2.35,-0.0288,0.995,2.10-2.50
+POR @ UTA,Scoot Henderson pra under 21.5 + Jrue Holiday 4+ ast,2,0.5517,0.4122,2.43,2.55,2.36,-0.0289,0.997,2.10-2.50
+POR @ UTA,Damian Lillard pts under 23.5 + Jrue Holiday 10+ pr,2,0.6631,0.5089,1.97,2.06,1.9,-0.0348,1.0,1.85-2.10
+POR @ UTA,Damian Lillard pts under 23.5 + Toumani Camara 1+ 3pm,2,0.6398,0.4917,2.03,2.14,1.96,-0.0373,0.998,1.85-2.10
+POR @ UTA,Damian Lillard pts under 23.5 + Toumani Camara 10+ pra,2,0.6572,0.507,1.97,2.07,1.9,-0.0388,0.997,1.85-2.10
+POR @ UTA,Jrue Holiday 5+ ast + Deni Avdija 15+ pts,2,0.6355,0.5238,1.91,2.0,1.8,-0.0591,1.001,1.65-1.85
+POR @ UTA,Jrue Holiday 5+ ast + Toumani Camara 1+ 3pm,2,0.641,0.5293,1.89,1.98,1.78,-0.0599,1.001,1.65-1.85
+POR @ UTA,Jrue Holiday 5+ ast + Toumani Camara 10+ pra,2,0.6594,0.5465,1.83,1.92,1.72,-0.0601,1.002,1.65-1.85
+POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 15+ pa,2,0.6901,0.591,1.69,1.78,1.57,-0.0742,1.004,1.50-1.65
+POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 10+ pts,2,0.6835,0.5913,1.69,1.78,1.56,-0.0788,1.002,1.50-1.65
+POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 15+ pa + Toumani Camara 10+ pra,3,0.6522,0.5335,1.87,1.97,1.65,-0.1198,1.005,1.50-1.65
+PHI @ CHA,Naz Reid 3pm under 2.5 + Dennis Schroder 10+ pts,2,0.5299,0.4162,2.4,2.52,2.29,-0.0459,0.992,2.10-2.50
+PHI @ CHA,Naz Reid 3pm under 2.5 + Dennis Schroder 1+ 3pm,2,0.492,0.4015,2.49,2.62,2.36,-0.054,0.996,2.10-2.50
+PHI @ CHA,Naz Reid 3pm under 2.5 + Brandon Miller 2+ 3pm,2,0.5517,0.4512,2.22,2.33,2.09,-0.0561,0.994,1.85-2.10
+PHI @ CHA,Brandon Miller 3pm under 3.5 + Dennis Schroder 10+ pts,2,0.4832,0.3943,2.54,2.66,2.37,-0.064,0.99,2.10-2.50
+PHI @ CHA,Brandon Miller pts under 27.5 + Naz Reid 1+ 3pm,2,0.5667,0.4774,2.09,2.2,1.95,-0.068,0.996,1.85-2.10
+PHI @ CHA,Brandon Miller 3pm under 3.5 + Naz Reid 1+ 3pm,2,0.5366,0.4532,2.21,2.32,2.06,-0.0686,0.997,1.85-2.10
+PHI @ CHA,Dennis Schroder 3pm under 1.5 + Brandon Miller 2+ 3pm,2,0.5205,0.4868,2.05,2.16,1.84,-0.1019,1.002,1.65-1.85
+PHI @ CHA,Dennis Schroder 3pm under 1.5 + Naz Reid 1+ 3pm,2,0.5518,0.5132,1.95,2.05,1.75,-0.1021,1.0,1.65-1.85
 ATL @ NOP,Zion Williamson pts under 22.5 + Trey Murphy III 1+ 3pm,2,0.5849,0.458,2.18,2.29,2.09,-0.0434,1.0,1.85-2.10
-ATL @ NOP,Zion Williamson pts under 22.5 + Nickeil Alexander-Walker 2+ 3pm,2,0.5272,0.4161,2.4,2.52,2.29,-0.0463,1.0,2.10-2.50
+ATL @ NOP,Zion Williamson pts under 22.5 + Nickeil Alexander-Walker 2+ 3pm,2,0.5272,0.4158,2.4,2.53,2.29,-0.046,1.0,2.10-2.50
 ATL @ NOP,Zion Williamson pts under 22.5 + Onyeka Okongwu 1+ 3pm,2,0.5065,0.3906,2.56,2.69,2.44,-0.0463,0.991,2.10-2.50
-ATL @ NOP,Zion Williamson pts under 22.5 + Nickeil Alexander-Walker 10+ pts,2,0.5788,0.4595,2.18,2.28,2.07,-0.0466,1.001,1.85-2.10
-ATL @ NOP,Zion Williamson pts under 22.5 + Dejounte Murray 10+ pts,2,0.5509,0.4338,2.31,2.42,2.19,-0.0488,0.996,2.10-2.50
-ATL @ NOP,Kingston Flemings 3+ ast + Onyeka Okongwu 1+ 3pm,2,0.5602,0.4525,2.21,2.32,2.09,-0.0525,1.003,1.85-2.10
-ATL @ NOP,Kingston Flemings 3+ ast + CJ McCollum 1+ 3pm,2,0.6225,0.517,1.93,2.03,1.81,-0.0627,1.002,1.65-1.85
-ATL @ NOP,Kingston Flemings 3+ ast + Nickeil Alexander-Walker 10+ pts,2,0.6323,0.5258,1.9,2.0,1.78,-0.0645,1.001,1.65-1.85
+ATL @ NOP,Trey Murphy III 5+ reb + Onyeka Okongwu 1+ 3pm,2,0.511,0.4024,2.49,2.61,2.37,-0.047,0.999,2.10-2.50
+ATL @ NOP,Zion Williamson pts under 22.5 + Nickeil Alexander-Walker 10+ pts,2,0.5788,0.4604,2.17,2.28,2.07,-0.0472,1.001,1.85-2.10
+ATL @ NOP,Kingston Flemings 3+ ast + Onyeka Okongwu 1+ 3pm,2,0.5602,0.4537,2.2,2.31,2.09,-0.0499,1.003,1.85-2.10
+ATL @ NOP,Kingston Flemings 3+ ast + CJ McCollum 1+ 3pm,2,0.6225,0.5184,1.93,2.03,1.81,-0.0601,1.002,1.65-1.85
+ATL @ NOP,Kingston Flemings 3+ ast + Nickeil Alexander-Walker 10+ pts,2,0.6323,0.5282,1.89,1.99,1.77,-0.0624,1.001,1.65-1.85
 ATL @ NOP,Aaron Wiggins 3pm under 2.5 + Dejounte Murray 10+ pts,2,0.6451,0.5373,1.86,1.95,1.74,-0.0662,1.001,1.65-1.85
-ATL @ NOP,Aaron Wiggins 3pm under 2.5 + Nickeil Alexander-Walker 10+ pts,2,0.6733,0.5653,1.77,1.86,1.64,-0.0703,0.999,1.50-1.65
+ATL @ NOP,Aaron Wiggins 3pm under 2.5 + Nickeil Alexander-Walker 10+ pts,2,0.6733,0.5664,1.77,1.85,1.64,-0.0708,0.999,1.50-1.65
 ATL @ NOP,Trey Murphy III 2+ 3pm + Dejounte Murray 10+ pts,2,0.6765,0.5918,1.69,1.77,1.56,-0.0795,1.006,1.50-1.65
-ATL @ NOP,Onyeka Okongwu 1+ 3pm + Dejounte Murray 1+ 3pm,2,0.6476,0.5642,1.77,1.86,1.63,-0.0827,1.001,1.50-1.65
+ATL @ NOP,Trey Murphy III 2+ 3pm + Nickeil Alexander-Walker 2+ 3pm,2,0.6417,0.5622,1.78,1.87,1.63,-0.085,1.0,1.50-1.65
+SAC @ MEM,Precious Achiuwa 22+ pra + Cameron Boozer 6+ reb,2,0.6292,0.4563,2.19,2.3,2.19,0.0011,1.007,2.10-2.50
 SAC @ MEM,Cameron Boozer 14+ ra + Darius Acuff Jr. 4+ ast,2,0.5753,0.4185,2.39,2.51,2.38,-0.0044,1.007,2.10-2.50
-SAC @ MEM,Cameron Boozer 14+ ra + MEM win,2,0.4853,0.4267,2.34,2.46,2.33,-0.0049,1.008,2.10-2.50
-SAC @ MEM,Cameron Boozer 14+ ra + Jaylen Wells 10+ pr,2,0.5964,0.4382,2.28,2.4,2.27,-0.005,1.01,2.10-2.50
-SAC @ MEM,Cameron Boozer 14+ ra + Precious Achiuwa 4+ reb,2,0.6468,0.4767,2.1,2.2,2.07,-0.0126,1.004,1.85-2.10
-SAC @ MEM,Precious Achiuwa 22+ pra + Jaylen Wells 10+ pr,2,0.6256,0.4669,2.14,2.25,2.1,-0.0216,1.004,1.85-2.10
-SAC @ MEM,Precious Achiuwa 14+ pa + Jaylen Wells 10+ pr,2,0.615,0.4647,2.15,2.26,2.1,-0.0262,1.001,1.85-2.10
-SAC @ MEM,De'Andre Hunter 4+ reb + Jaylen Wells 10+ pr,2,0.6716,0.5279,1.89,1.99,1.81,-0.0462,1.0,1.65-1.85
-SAC @ MEM,De'Andre Hunter 4+ reb + Domantas Sabonis 8+ reb,2,0.7141,0.5692,1.76,1.84,1.67,-0.0476,1.003,1.65-1.85
-SAC @ MEM,De'Andre Hunter 4+ reb + Darius Acuff Jr. 1+ 3pm,2,0.7089,0.564,1.77,1.86,1.68,-0.0499,1.0,1.65-1.85
-SAC @ MEM,Darius Acuff Jr. 4+ ast + Jaylen Wells 10+ pr + Precious Achiuwa 4+ reb,3,0.7217,0.5808,1.72,1.81,1.52,-0.1146,1.005,1.50-1.65
-SAC @ MEM,MEM win + Jaylen Wells 10+ pr + Domantas Sabonis 8+ reb,3,0.5935,0.5836,1.71,1.8,1.52,-0.1148,1.01,1.50-1.65
-SAC @ MEM,MEM win + Jaylen Wells 10+ pr + Darius Acuff Jr. 1+ 3pm,3,0.5882,0.5773,1.73,1.82,1.53,-0.1184,1.006,1.50-1.65
-CLE @ MIL,Tyler Herro pts under 21.5 + CLE win,2,0.4226,0.4104,2.44,2.56,2.49,0.0238,1.044,2.10-2.50
-CLE @ MIL,Jaime Jaquez Jr. pts under 15.5 + CLE win,2,0.401,0.4114,2.43,2.55,2.46,0.0124,1.057,2.10-2.50
-CLE @ MIL,Tyler Herro pr under 26.5 + CLE win,2,0.4245,0.421,2.38,2.49,2.4,0.0098,1.039,2.10-2.50
-CLE @ MIL,Tyler Herro pts under 21.5 + Sam Merrill 5+ pa,2,0.6199,0.4658,2.15,2.25,2.09,-0.0275,0.998,1.85-2.10
-CLE @ MIL,Tyler Herro pts under 21.5 + Donovan Mitchell 15+ pr,2,0.6363,0.4835,2.07,2.17,2.01,-0.0305,0.999,1.85-2.10
-CLE @ MIL,Tyler Herro pts under 21.5 + Donovan Mitchell 1+ 3pm,2,0.6187,0.4697,2.13,2.24,2.06,-0.0308,0.998,1.85-2.10
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.7805,0.6149,1.63,1.71,1.55,-0.0475,0.998,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 1+ 3pm,2,0.7798,0.6208,1.61,1.69,1.53,-0.0498,1.0,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Ryan Rollins 10+ pa,2,0.7682,0.6146,1.63,1.71,1.54,-0.0527,0.998,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa + Donovan Mitchell 15+ pts,3,0.6961,0.5288,1.89,1.99,1.7,-0.1021,0.994,1.65-1.85
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Ryan Rollins 10+ pa + Donovan Mitchell 15+ pts,3,0.6862,0.5294,1.89,1.98,1.69,-0.1057,0.996,1.65-1.85
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + James Harden 1+ 3pm + Donovan Mitchell 20+ pr,3,0.6746,0.5243,1.91,2.0,1.71,-0.1057,0.999,1.65-1.85
-MIN @ SAS,LaMelo Ball pts under 19.5 + SAS win,2,0.4369,0.4451,2.25,2.36,2.25,0.0034,1.051,2.10-2.50
-MIN @ SAS,Jaden McDaniels pts under 16.5 + SAS win,2,0.3916,0.4334,2.31,2.42,2.3,-0.0044,1.068,2.10-2.50
-MIN @ SAS,Ayo Dosunmu pts under 14.5 + SAS win,2,0.3949,0.4265,2.34,2.46,2.31,-0.0153,1.056,2.10-2.50
-MIN @ SAS,LaMelo Ball 3pm under 3.5 + SAS win,2,0.4578,0.4871,2.05,2.16,1.99,-0.0313,1.032,1.85-2.10
-MIN @ SAS,Bones Hyland 3pm under 1.5 + SAS win,2,0.5002,0.5187,1.93,2.02,1.86,-0.0336,1.019,1.85-2.10
-MIN @ SAS,SAS win + De'Aaron Fox 15+ pts,2,0.3999,0.4587,2.18,2.29,2.1,-0.0387,1.052,1.85-2.10
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 10+ pts,2,0.6631,0.5213,1.92,2.01,1.82,-0.0502,0.995,1.65-1.85
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + LaMelo Ball 1+ 3pm,2,0.712,0.5756,1.74,1.82,1.64,-0.0544,1.0,1.50-1.65
-MIN @ SAS,Bones Hyland 3pm under 1.5 + Stephon Castle 10+ pts,2,0.6326,0.5117,1.95,2.05,1.84,-0.0573,0.999,1.65-1.85
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + SAS win,2,0.5044,0.5084,1.97,2.07,1.84,-0.0633,0.976,1.65-1.85
-MIN @ SAS,Devin Vassell 3pm under 2.5 + LaMelo Ball 1+ 3pm,2,0.6736,0.5857,1.71,1.79,1.57,-0.0818,1.001,1.50-1.65
-MIN @ SAS,Stephon Castle 10+ pts + Jonathan Kuminga 1+ 3pm,2,0.6801,0.6041,1.66,1.74,1.51,-0.0878,1.002,1.50-1.65
-OKC @ HOU,Jabari Smith Jr. 2+ 3pm + HOU win,2,0.443,0.3857,2.59,2.72,2.47,-0.0462,1.026,2.10-2.50
-OKC @ HOU,Jabari Smith Jr. 2+ 3pm + Kevin Durant 1+ 3pm,2,0.6132,0.5233,1.91,2.01,1.77,-0.0728,1.004,1.65-1.85
-OKC @ HOU,Kevin Durant pts under 23.5 + Jabari Smith Jr. 1+ 3pm,2,0.5456,0.4547,2.2,2.31,2.04,-0.0738,0.994,1.85-2.10
-OKC @ HOU,Kevin Durant 2+ 3pm + Jabari Smith Jr. 1+ 3pm,2,0.5625,0.4858,2.06,2.16,1.9,-0.0747,1.003,1.85-2.10
-OKC @ HOU,HOU win + Jabari Smith Jr. 1+ 3pm,2,0.5673,0.5145,1.94,2.04,1.8,-0.0754,1.01,1.65-1.85
-OKC @ HOU,HOU win + Kevin Durant 20+ pts,2,0.3762,0.4054,2.47,2.59,2.27,-0.0778,1.065,2.10-2.50
-OKC @ HOU,game over 219.5 + Kevin Durant 1+ 3pm,2,0.5623,0.4075,2.45,2.58,2.26,-0.0781,1.012,2.10-2.50
-OKC @ HOU,HOU win + Kevin Durant 1+ 3pm,2,0.5411,0.4914,2.03,2.14,1.87,-0.0791,1.006,1.85-2.10
-OKC @ HOU,Jabari Smith Jr. 2+ 3pm + Kevin Durant 15+ pts,2,0.5666,0.534,1.87,1.97,1.7,-0.0947,1.013,1.65-1.85
+SAC @ MEM,Precious Achiuwa 22+ pra + Darius Acuff Jr. 4+ ast,2,0.6061,0.4451,2.25,2.36,2.24,-0.0048,1.005,2.10-2.50
+SAC @ MEM,Precious Achiuwa 22+ pra + De'Andre Hunter 10+ pr,2,0.6588,0.4848,2.06,2.17,2.05,-0.0052,1.006,1.85-2.10
+SAC @ MEM,Cameron Boozer 14+ ra + Precious Achiuwa 4+ reb,2,0.6468,0.477,2.1,2.2,2.07,-0.0128,1.004,1.85-2.10
+SAC @ MEM,Precious Achiuwa 22+ pra + Domantas Sabonis 8+ reb,2,0.6613,0.4955,2.02,2.12,1.99,-0.0155,1.002,1.85-2.10
+SAC @ MEM,De'Andre Hunter 4+ reb + Jaylen Wells 10+ pr,2,0.6716,0.5228,1.91,2.01,1.83,-0.0422,1.0,1.65-1.85
+SAC @ MEM,De'Andre Hunter 4+ reb + Domantas Sabonis 8+ reb,2,0.7141,0.5615,1.78,1.87,1.71,-0.0422,1.003,1.65-1.85
+SAC @ MEM,De'Andre Hunter 4+ reb + Darius Acuff Jr. 1+ 3pm,2,0.7089,0.5586,1.79,1.88,1.71,-0.0458,1.0,1.65-1.85
+SAC @ MEM,Darius Acuff Jr. 4+ ast + De'Andre Hunter 10+ pr + Jaylen Wells 10+ pr,3,0.6939,0.5522,1.81,1.9,1.61,-0.1126,1.003,1.50-1.65
+SAC @ MEM,MEM win + Jaylen Wells 10+ pr + Domantas Sabonis 8+ reb,3,0.5935,0.5813,1.72,1.81,1.53,-0.1135,1.01,1.50-1.65
+SAC @ MEM,Darius Acuff Jr. 4+ ast + Jaylen Wells 10+ pr + Precious Achiuwa 4+ reb,3,0.7217,0.5811,1.72,1.81,1.52,-0.1148,1.005,1.50-1.65
+CLE @ MIL,Tyler Herro pa under 26.5 + CLE win,2,0.4229,0.4217,2.37,2.49,2.41,0.0157,1.048,2.10-2.50
+CLE @ MIL,Tyler Herro pr under 26.5 + CLE win,2,0.4245,0.4161,2.4,2.52,2.44,0.015,1.039,2.10-2.50
+CLE @ MIL,Tyler Herro pra under 31.5 + CLE win,2,0.426,0.4245,2.36,2.47,2.39,0.0142,1.046,2.10-2.50
+CLE @ MIL,Tyler Herro pts under 21.5 + Donovan Mitchell 15+ pr,2,0.6363,0.4801,2.08,2.19,2.03,-0.0275,0.999,1.85-2.10
+CLE @ MIL,Tyler Herro pts under 21.5 + Donovan Mitchell 1+ 3pm,2,0.6187,0.4669,2.14,2.25,2.08,-0.0281,0.998,1.85-2.10
+CLE @ MIL,Tyler Herro pts under 21.5 + Donovan Mitchell 20+ pra,2,0.6254,0.473,2.11,2.22,2.05,-0.029,0.998,1.85-2.10
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.7805,0.6218,1.61,1.69,1.53,-0.0517,0.998,1.50-1.65
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 1+ 3pm,2,0.7798,0.6264,1.6,1.68,1.51,-0.0532,1.0,1.50-1.65
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + James Harden 1+ 3pm,2,0.7695,0.6242,1.6,1.68,1.51,-0.056,1.0,1.50-1.65
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + CLE win,2,0.501,0.5146,1.94,2.04,1.83,-0.059,0.983,1.65-1.85
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa + Donovan Mitchell 15+ pts,3,0.6961,0.534,1.87,1.97,1.67,-0.1057,0.994,1.65-1.85
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + James Harden 1+ 3pm + Donovan Mitchell 20+ pr,3,0.6746,0.5281,1.89,1.99,1.69,-0.1085,0.999,1.65-1.85
+MIN @ SAS,LaMelo Ball pra under 30.5 + SAS win,2,0.4586,0.455,2.2,2.31,2.22,0.012,1.048,2.10-2.50
+MIN @ SAS,LaMelo Ball pa under 26.5 + SAS win,2,0.4609,0.4648,2.15,2.26,2.17,0.008,1.051,2.10-2.50
+MIN @ SAS,LaMelo Ball pts under 19.5 + SAS win,2,0.4369,0.4507,2.22,2.33,2.21,-0.0019,1.051,2.10-2.50
+MIN @ SAS,Bones Hyland ast under 2.5 + SAS win,2,0.4805,0.4908,2.04,2.14,1.98,-0.0297,1.017,1.85-2.10
+MIN @ SAS,Bones Hyland 3pm under 1.5 + SAS win,2,0.5002,0.5179,1.93,2.03,1.87,-0.0329,1.019,1.85-2.10
+MIN @ SAS,LaMelo Ball ra under 10.5 + Stephon Castle 15+ pra,2,0.5918,0.4593,2.18,2.29,2.1,-0.0374,1.001,1.85-2.10
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 15+ pra,2,0.7311,0.5659,1.77,1.86,1.7,-0.0401,1.0,1.65-1.85
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 15+ pa,2,0.6689,0.5177,1.93,2.03,1.85,-0.043,0.996,1.65-1.85
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + De'Aaron Fox 10+ pr,2,0.7167,0.5621,1.78,1.87,1.7,-0.0452,0.999,1.65-1.85
+MIN @ SAS,SAS win + Stephon Castle 15+ pa + De'Aaron Fox 10+ pts,3,0.536,0.563,1.78,1.87,1.63,-0.0823,1.043,1.50-1.65
+MIN @ SAS,SAS win + Stephon Castle 20+ pra + Devin Vassell 10+ pa,3,0.5273,0.5615,1.78,1.87,1.63,-0.0848,1.046,1.50-1.65
+MIN @ SAS,SAS win + Stephon Castle 15+ pa + Devin Vassell 10+ pa,3,0.5378,0.5724,1.75,1.83,1.6,-0.0868,1.043,1.50-1.65
+OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 15+ pr,2,0.6145,0.4372,2.29,2.4,2.32,0.0129,1.01,2.10-2.50
+OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 15+ pra,2,0.6511,0.4631,2.16,2.27,2.18,0.0099,1.007,2.10-2.50
+OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 1+ 3pm,2,0.6504,0.4608,2.17,2.28,2.19,0.009,1.004,2.10-2.50
+OKC @ HOU,Kevin Durant 3+ ast + Jabari Smith Jr. 15+ pr,2,0.6962,0.5298,1.89,1.98,1.85,-0.0215,1.006,1.65-1.85
+OKC @ HOU,Kevin Durant 3+ ast + Jabari Smith Jr. 15+ pra,2,0.7385,0.5617,1.78,1.87,1.74,-0.0235,1.003,1.65-1.85
+OKC @ HOU,Kevin Durant 3+ ast + Amen Thompson 15+ pr,2,0.743,0.5721,1.75,1.84,1.7,-0.0285,1.003,1.65-1.85
+OKC @ HOU,Jabari Smith Jr. 6+ reb + Kevin Durant 1+ 3pm,2,0.6116,0.4768,2.1,2.2,2.02,-0.0372,1.002,1.85-2.10
+OKC @ HOU,Jabari Smith Jr. 6+ reb + Amen Thompson 15+ pr,2,0.6437,0.5085,1.97,2.06,1.89,-0.0404,1.004,1.85-2.10
+OKC @ HOU,Kevin Durant 4+ reb + Jabari Smith Jr. 2+ 3pm,2,0.5879,0.4808,2.08,2.18,1.96,-0.057,1.005,1.85-2.10
+OKC @ HOU,Kevin Durant 4+ reb + Jabari Smith Jr. 15+ pr,2,0.7196,0.6157,1.62,1.71,1.51,-0.0719,1.006,1.50-1.65
+OKC @ HOU,Kevin Durant 4+ reb + Jabari Smith Jr. 15+ pr + Amen Thompson 15+ pr,3,0.6618,0.5422,1.84,1.94,1.63,-0.1167,1.009,1.50-1.65
+OKC @ HOU,Kevin Durant 4+ reb + Jabari Smith Jr. 15+ pra + Amen Thompson 15+ pr,3,0.7027,0.5755,1.74,1.82,1.53,-0.1176,1.008,1.50-1.65
