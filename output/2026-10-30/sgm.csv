@@ -11,15 +11,15 @@ LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Sandro Mamukelashvili 10+ pra,2,0.622
 LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Walker Kessler 4+ reb,2,0.6938,0.5739,1.74,1.83,1.63,-0.0648,0.999,1.50-1.65
 LAL @ GSW,Sandro Mamukelashvili 10+ pr + Luka Doncic 3+ 3pm,2,0.6487,0.5787,1.73,1.81,1.58,-0.0868,1.005,1.50-1.65
 LAL @ GSW,Sandro Mamukelashvili 10+ pr + Luka Doncic 1+ stl,2,0.6674,0.5981,1.67,1.76,1.52,-0.0906,1.002,1.50-1.65
-DEN @ PHX,Khaman Maluach pr under 15.5 + DeMar DeRozan 10+ pa,2,0.696,0.4582,2.18,2.29,2.26,0.0365,1.0,2.10-2.50
-DEN @ PHX,Khaman Maluach reb under 7.5 + DeMar DeRozan 10+ pa,2,0.6724,0.4427,2.26,2.37,2.34,0.0358,1.0,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 15.5 + DeMar DeRozan 10+ pr,2,0.6763,0.4455,2.24,2.36,2.32,0.0355,0.999,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 15.5 + DeMar DeRozan 10+ pra,2,0.7336,0.4911,2.04,2.14,2.1,0.0301,1.0,1.85-2.10
-DEN @ PHX,Khaman Maluach pr under 15.5 + Nikola Jokic 30+ pra,2,0.7327,0.4906,2.04,2.14,2.1,0.0279,0.998,1.85-2.10
-DEN @ PHX,Miles Bridges pts under 15.5 + Dillon Brooks 10+ pr,2,0.5948,0.4824,2.07,2.18,2.06,-0.0047,0.997,1.85-2.10
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + DeMar DeRozan 10+ pa,2,0.7281,0.5335,1.87,1.97,1.84,-0.0159,1.001,1.65-1.85
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + Nikola Jokic 30+ pra,2,0.7679,0.5722,1.75,1.84,1.71,-0.0224,1.001,1.65-1.85
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + DeMar DeRozan 10+ pra,2,0.7667,0.5712,1.75,1.84,1.71,-0.0229,1.0,1.65-1.85
-DEN @ PHX,DeMar DeRozan 10+ pr + Dillon Brooks 15+ pr,2,0.721,0.6168,1.62,1.7,1.5,-0.0746,1.003,1.50-1.65
-DEN @ PHX,Dillon Brooks 15+ pr + Jamal Murray 2+ 3pm,2,0.6833,0.6005,1.67,1.75,1.52,-0.0871,0.999,1.50-1.65
-DEN @ PHX,DeMar DeRozan 10+ pr + Dillon Brooks 15+ pr + Nikola Jokic 30+ pra,3,0.6898,0.5505,1.82,1.91,1.62,-0.1095,1.008,1.50-1.65
+DEN @ PHX,Cameron Johnson pts under 10.5 + DeMar DeRozan 10+ pa,2,0.6637,0.4547,2.2,2.31,2.29,0.043,0.996,2.10-2.50
+DEN @ PHX,Cameron Johnson pts under 10.5 + DeMar DeRozan 10+ pr,2,0.6454,0.4419,2.26,2.38,2.36,0.0417,0.994,2.10-2.50
+DEN @ PHX,Cameron Johnson pts under 10.5 + Nikola Jokic 6+ ast,2,0.6819,0.4763,2.1,2.2,2.18,0.0397,1.0,2.10-2.50
+DEN @ PHX,Cameron Johnson pts under 10.5 + Dillon Brooks 10+ pr,2,0.7095,0.4976,2.01,2.11,2.08,0.0365,0.998,1.85-2.10
+DEN @ PHX,Khaman Maluach pr under 15.5 + DeMar DeRozan 10+ pra,2,0.7373,0.4917,2.03,2.14,2.1,0.0313,0.999,1.85-2.10
+DEN @ PHX,Khaman Maluach pr under 15.5 + Nikola Jokic 30+ pra,2,0.7358,0.4911,2.04,2.14,2.1,0.029,0.997,1.85-2.10
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + DeMar DeRozan 10+ pa,2,0.725,0.5325,1.88,1.97,1.84,-0.0178,1.0,1.65-1.85
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + Nikola Jokic 30+ pra,2,0.7658,0.5717,1.75,1.84,1.71,-0.0232,1.001,1.65-1.85
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + DeMar DeRozan 10+ pra,2,0.7655,0.5709,1.75,1.84,1.71,-0.0234,1.0,1.65-1.85
+DEN @ PHX,DeMar DeRozan 10+ pr + Dillon Brooks 15+ pr,2,0.7152,0.6133,1.63,1.71,1.5,-0.0799,0.998,1.50-1.65
+DEN @ PHX,Dillon Brooks 15+ pr + Jamal Murray 2+ 3pm,2,0.6837,0.6018,1.66,1.74,1.52,-0.0851,1.002,1.50-1.65
+DEN @ PHX,DeMar DeRozan 10+ pa + Nikola Jokic 30+ pra + Jamal Murray 2+ 3pm,3,0.7242,0.5832,1.71,1.8,1.52,-0.113,1.007,1.50-1.65
