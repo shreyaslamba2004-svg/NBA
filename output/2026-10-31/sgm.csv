@@ -11,6 +11,18 @@ POR @ UTA,Jrue Holiday 5+ ast + Toumani Camara 1+ 3pm,2,0.641,0.5303,1.89,1.98,1
 POR @ UTA,Damian Lillard 4+ ast + Jrue Holiday 10+ pts,2,0.6835,0.5838,1.71,1.8,1.59,-0.0745,1.002,1.50-1.65
 POR @ UTA,Damian Lillard 4+ ast + Deni Avdija 15+ pts + Toumani Camara 1+ 3pm,3,0.7047,0.5843,1.71,1.8,1.5,-0.1231,1.006,1.50-1.65
 POR @ UTA,Jrue Holiday 10+ pts + Deni Avdija 15+ pts + Toumani Camara 1+ 3pm,3,0.6851,0.574,1.74,1.83,1.52,-0.1262,1.007,1.50-1.65
+ATL @ NOP,Zion Williamson pts under 22.5 + Onyeka Okongwu 1+ 3pm,2,0.5065,0.3911,2.56,2.68,2.44,-0.0476,0.991,2.10-2.50
+ATL @ NOP,Zion Williamson pts under 22.5 + Trey Murphy III 1+ 3pm,2,0.5849,0.463,2.16,2.27,2.06,-0.0481,1.0,1.85-2.10
+ATL @ NOP,Zion Williamson pts under 22.5 + Dejounte Murray 1+ 3pm,2,0.4906,0.3858,2.59,2.72,2.46,-0.0518,0.993,2.10-2.50
+ATL @ NOP,Zion Williamson pts under 22.5 + CJ McCollum 1+ 3pm,2,0.5672,0.4528,2.21,2.32,2.09,-0.0524,0.998,1.85-2.10
+ATL @ NOP,Zion Williamson pts under 22.5 + Dejounte Murray 10+ pts,2,0.5509,0.4392,2.28,2.39,2.15,-0.0539,0.996,2.10-2.50
+ATL @ NOP,Aaron Wiggins 3pm under 2.5 + Onyeka Okongwu 1+ 3pm,2,0.5949,0.4836,2.07,2.17,1.94,-0.0602,0.999,1.85-2.10
+ATL @ NOP,Aaron Wiggins 3pm under 2.5 + Dejounte Murray 10+ pts,2,0.6451,0.5415,1.85,1.94,1.72,-0.0692,1.001,1.65-1.85
+ATL @ NOP,Trey Murphy III 2+ 3pm + Onyeka Okongwu 1+ 3pm,2,0.6229,0.5249,1.91,2.0,1.77,-0.07,1.002,1.65-1.85
+ATL @ NOP,Aaron Wiggins 3pm under 2.5 + CJ McCollum 1+ 3pm,2,0.6625,0.5567,1.8,1.89,1.67,-0.0702,1.0,1.65-1.85
+ATL @ NOP,Trey Murphy III 2+ 3pm + Dejounte Murray 10+ pts,2,0.6765,0.5886,1.7,1.78,1.57,-0.0776,1.006,1.50-1.65
+ATL @ NOP,Onyeka Okongwu 1+ 3pm + Dejounte Murray 1+ 3pm,2,0.6476,0.5602,1.79,1.87,1.64,-0.0802,1.001,1.50-1.65
+ATL @ NOP,Trey Murphy III 2+ 3pm + CJ McCollum 1+ 3pm,2,0.6896,0.6008,1.66,1.75,1.52,-0.0852,0.998,1.50-1.65
 SAC @ MEM,Cameron Boozer 14+ ra + Precious Achiuwa 10+ pa,2,0.6058,0.4231,2.36,2.48,2.39,0.0095,1.005,2.10-2.50
 SAC @ MEM,Cameron Boozer 14+ ra + Darius Acuff Jr. 4+ ast,2,0.5753,0.4176,2.39,2.51,2.39,-0.0036,1.007,2.10-2.50
 SAC @ MEM,Cameron Boozer 14+ ra + MEM win,2,0.4853,0.4196,2.38,2.5,2.37,-0.0053,1.008,2.10-2.50

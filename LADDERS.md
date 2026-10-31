@@ -1,6 +1,6 @@
 # Line ladders · Sat 31 Oct 2026 (US date)
 
-Updated **Sat 31 Oct, 04:29 PM** Sydney time. Back to [TODAY.md](TODAY.md).
+Updated **Sat 31 Oct, 04:59 PM** Sydney time. Back to [TODAY.md](TODAY.md).
 
 For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: *book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for a player are left out. Use the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake.
 
@@ -422,6 +422,211 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | RA | 10.5 | 39% | 2.58 | 61% | 1.63 | est |
 | RA | 11.5 | 30% | 3.34 | 70% | 1.43 | est |
 | RA | 12.5 | 22% | 4.51 | 78% | 1.28 | est |
+
+</details>
+
+## ATL @ NOP
+
+<details><summary>Saddiq Bey (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 8.5 | 77% | 1.30 | 23% | 4.30 | est |
+| PTS | 9.5 | 71% | 1.42 | 29% | 3.39 | est |
+| PTS | 10.5 | 63% | 1.58 | 37% | 2.73 | est |
+| PTS | 11.5 | 57% | 1.76 | 43% | 2.31 | est |
+| PTS | 12.5 ★ | 50% | 2.02 | 50% | 1.98 | book |
+| PTS | 13.5 | 43% | 2.33 | 57% | 1.75 | est |
+| PTS | 14.5 | 36% | 2.74 | 64% | 1.57 | est |
+| PTS | 15.5 | 31% | 3.21 | 69% | 1.45 | est |
+| PTS | 16.5 | 26% | 3.81 | 74% | 1.36 | est |
+| 3PM | 0.5 | 79% | 1.27 | 21% | 4.73 | book |
+| 3PM | 1.5 ★ | 50% | 2.00 | 50% | 2.00 | book |
+| 3PM | 2.5 | 26% | 3.91 | 74% | 1.34 | book |
+| 3PM | 3.5 | 11% | 8.87 | 89% | 1.13 | book |
+
+</details>
+
+<details><summary>Jeremiah Fears (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 9.5 | 76% | 1.31 | 24% | 4.22 | est |
+| PTS | 10.5 | 70% | 1.43 | 30% | 3.33 | est |
+| PTS | 11.5 | 63% | 1.59 | 37% | 2.70 | est |
+| PTS | 12.5 | 57% | 1.77 | 43% | 2.30 | est |
+| PTS | 13.5 ★ | 50% | 2.00 | 50% | 2.00 | book |
+| PTS | 14.5 | 45% | 2.24 | 55% | 1.81 | est |
+| PTS | 15.5 | 39% | 2.56 | 61% | 1.64 | est |
+| PTS | 16.5 | 34% | 2.92 | 66% | 1.52 | est |
+| PTS | 17.5 | 30% | 3.36 | 70% | 1.42 | est |
+| 3PM | 0.5 | 73% | 1.37 | 27% | 3.71 | book |
+| 3PM | 1.5 ★ | 41% | 2.42 | 59% | 1.70 | book |
+| 3PM | 2.5 | 19% | 5.32 | 81% | 1.23 | book |
+| 3PM | 3.5 | 6% | 17.73 | 94% | 1.06 | est |
+
+</details>
+
+<details><summary>Herbert Jones (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 1.5 | 94% | 1.06 | 6% | 17.70 | est |
+| PTS | 2.5 | 86% | 1.16 | 14% | 7.15 | est |
+| PTS | 3.5 | 75% | 1.34 | 25% | 3.92 | est |
+| PTS | 4.5 | 63% | 1.59 | 37% | 2.68 | est |
+| PTS | 5.5 ★ | 51% | 1.95 | 49% | 2.05 | book |
+| PTS | 6.5 | 40% | 2.51 | 60% | 1.66 | est |
+| PTS | 7.5 | 34% | 2.91 | 66% | 1.52 | book |
+| PTS | 8.5 | 23% | 4.32 | 77% | 1.30 | est |
+| PTS | 9.5 | 21% | 4.71 | 79% | 1.27 | book |
+| 3PM | 0.5 | 60% | 1.65 | 40% | 2.53 | book |
+| 3PM | 1.5 | 26% | 3.90 | 74% | 1.34 | book |
+| 3PM | 2.5 | 9% | 10.93 | 91% | 1.10 | book |
+| 3PM | 3.5 | 4% | 28.01 | 96% | 1.04 | book |
+
+</details>
+
+<details><summary>Karlo Matkovic (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 3.5 | 82% | 1.22 | 18% | 5.51 | est |
+| PTS | 4.5 | 73% | 1.37 | 27% | 3.69 | est |
+| PTS | 5.5 | 60% | 1.66 | 40% | 2.52 | book |
+| PTS | 6.5 | 53% | 1.88 | 47% | 2.13 | est |
+| PTS | 7.5 ★ | 44% | 2.27 | 56% | 1.79 | book |
+| PTS | 8.5 | 35% | 2.84 | 65% | 1.54 | est |
+| PTS | 9.5 | 29% | 3.39 | 71% | 1.42 | book |
+| PTS | 10.5 | 21% | 4.70 | 79% | 1.27 | est |
+| PTS | 11.5 | 19% | 5.26 | 81% | 1.23 | book |
+
+</details>
+
+<details><summary>Trey Murphy III (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 12.5 | 72% | 1.40 | 28% | 3.51 | est |
+| PTS | 13.5 | 66% | 1.52 | 34% | 2.91 | est |
+| PTS | 14.5 | 60% | 1.67 | 40% | 2.50 | est |
+| PTS | 15.5 | 54% | 1.85 | 46% | 2.17 | est |
+| PTS | 16.5 ★ | 49% | 2.06 | 51% | 1.95 | book |
+| PTS | 17.5 | 43% | 2.34 | 57% | 1.75 | est |
+| PTS | 18.5 | 38% | 2.65 | 62% | 1.60 | est |
+| PTS | 19.5 | 33% | 3.03 | 67% | 1.49 | est |
+| PTS | 20.5 | 29% | 3.48 | 71% | 1.40 | est |
+| 3PM | 0.5 | 88% | 1.13 | 12% | 8.70 | book |
+| 3PM | 1.5 | 69% | 1.44 | 31% | 3.27 | book |
+| 3PM | 2.5 ★ | 46% | 2.17 | 54% | 1.85 | book |
+| 3PM | 3.5 | 26% | 3.82 | 74% | 1.35 | book |
+| 3PM | 4.5 | 13% | 7.43 | 87% | 1.16 | book |
+
+</details>
+
+<details><summary>Dejounte Murray (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 12.5 | 74% | 1.35 | 26% | 3.86 | est |
+| PTS | 13.5 | 69% | 1.46 | 31% | 3.18 | est |
+| PTS | 14.5 | 62% | 1.62 | 38% | 2.63 | book |
+| PTS | 15.5 | 58% | 1.73 | 42% | 2.36 | est |
+| PTS | 16.5 ★ | 52% | 1.94 | 48% | 2.07 | book |
+| PTS | 17.5 | 47% | 2.14 | 53% | 1.87 | book |
+| PTS | 18.5 | 41% | 2.42 | 59% | 1.71 | est |
+| PTS | 19.5 | 36% | 2.74 | 64% | 1.57 | book |
+| PTS | 20.5 | 31% | 3.20 | 69% | 1.45 | est |
+| 3PM | 0.5 | 74% | 1.35 | 26% | 3.88 | book |
+| 3PM | 1.5 ★ | 43% | 2.30 | 57% | 1.77 | book |
+| 3PM | 2.5 | 21% | 4.86 | 79% | 1.26 | book |
+| 3PM | 3.5 | 9% | 11.67 | 91% | 1.09 | book |
+
+</details>
+
+<details><summary>Derik Queen (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 7.5 | 72% | 1.38 | 28% | 3.62 | book |
+| PTS | 8.5 | 68% | 1.48 | 32% | 3.10 | est |
+| PTS | 9.5 | 59% | 1.68 | 41% | 2.46 | book |
+| PTS | 10.5 | 53% | 1.88 | 47% | 2.14 | est |
+| PTS | 11.5 ★ | 46% | 2.19 | 54% | 1.84 | book |
+| PTS | 12.5 | 39% | 2.59 | 61% | 1.63 | est |
+| PTS | 13.5 | 32% | 3.11 | 68% | 1.47 | est |
+| PTS | 14.5 | 28% | 3.59 | 72% | 1.39 | book |
+| PTS | 15.5 | 22% | 4.53 | 78% | 1.28 | est |
+
+</details>
+
+<details><summary>Zion Williamson (NOP)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 18.5 | 65% | 1.54 | 35% | 2.86 | est |
+| PTS | 19.5 | 61% | 1.65 | 39% | 2.55 | est |
+| PTS | 20.5 | 56% | 1.77 | 44% | 2.29 | est |
+| PTS | 21.5 | 52% | 1.93 | 48% | 2.08 | est |
+| PTS | 22.5 ★ | 47% | 2.12 | 53% | 1.89 | book |
+| PTS | 23.5 | 43% | 2.34 | 57% | 1.74 | est |
+| PTS | 24.5 | 39% | 2.57 | 61% | 1.64 | est |
+| PTS | 25.5 | 35% | 2.89 | 65% | 1.53 | est |
+| PTS | 26.5 | 30% | 3.28 | 70% | 1.44 | est |
+
+</details>
+
+<details><summary>Nickeil Alexander-Walker (ATL)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| 3PM | 3.5 | 41% | 2.46 | 59% | 1.69 | book |
+
+</details>
+
+<details><summary>Jalen Johnson (ATL)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| 3PM | 0.5 | 79% | 1.27 | 21% | 4.75 | book |
+| 3PM | 1.5 ★ | 51% | 1.97 | 49% | 2.03 | book |
+| 3PM | 2.5 | 26% | 3.86 | 74% | 1.35 | book |
+| 3PM | 3.5 | 12% | 8.45 | 88% | 1.13 | book |
+
+</details>
+
+<details><summary>CJ McCollum (ATL)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| 3PM | 0.5 | 87% | 1.15 | 13% | 7.51 | book |
+| 3PM | 1.5 | 68% | 1.48 | 32% | 3.10 | est |
+| 3PM | 2.5 ★ | 42% | 2.39 | 58% | 1.72 | book |
+| 3PM | 3.5 | 22% | 4.55 | 78% | 1.28 | est |
+| 3PM | 4.5 | 10% | 10.26 | 90% | 1.11 | est |
+
+</details>
+
+<details><summary>Onyeka Okongwu (ATL)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| 3PM | 0.5 | 75% | 1.33 | 25% | 4.07 | book |
+| 3PM | 1.5 ★ | 46% | 2.20 | 54% | 1.84 | book |
+| 3PM | 2.5 | 20% | 5.06 | 80% | 1.25 | est |
+| 3PM | 3.5 | 9% | 10.75 | 91% | 1.10 | book |
+
+</details>
+
+<details><summary>Aaron Wiggins (ATL)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| 3PM | 0.5 | 85% | 1.18 | 15% | 6.54 | book |
+| 3PM | 1.5 | 60% | 1.66 | 40% | 2.52 | book |
+| 3PM | 2.5 ★ | 35% | 2.82 | 65% | 1.55 | book |
+| 3PM | 3.5 | 18% | 5.43 | 82% | 1.23 | book |
+| 3PM | 4.5 | 9% | 11.49 | 91% | 1.10 | book |
 
 </details>
 
