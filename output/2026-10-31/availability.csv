@@ -1,33 +1,33 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909896,UTA,1641725,Trey Alexander,Out,GLeague-Two-Way,0.0,Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.,,
-401909896,UTA,1642846,Ace Bailey,,,1.0,,,
+401909896,UTA,1642846,Ace Bailey,Starting,,1.0,,,1.0
 401909896,UTA,1628964,Mo Bamba,,,1.0,,,
 401909896,UTA,1628396,Tony Bradley,,,1.0,,,
 401909896,UTA,1642268,Isaiah Collier,,,1.0,,,
 401909896,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401909896,UTA,1641718,Keyonte George,,,1.0,,,
+401909896,UTA,1641718,Keyonte George,Starting,,1.0,,,1.0
 401909896,UTA,1630182,Josh Green,,,1.0,,,
-401909896,UTA,1629637,Jaxson Hayes,,,1.0,,,
+401909896,UTA,1629637,Jaxson Hayes,Starting,,1.0,,,1.0
 401909896,UTA,1642396,Blake Hinson,Out,,0.0,,,
 401909896,UTA,904433618,Harrison Ingram,Out,GLeague-Two-Way,0.0,,,
 401909896,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightKneeMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
-401909896,UTA,1628374,Lauri Markkanen,Available,Injury/Illness-RightWristSprain,1.0,,,
+401909896,UTA,1628374,Lauri Markkanen,Starting,Injury/Illness-RightWristSprain,1.0,,,1.0
 401909896,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
 401909896,UTA,203994,Jusuf Nurkic,Out,,0.0,"Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports.",,
 401909896,UTA,1629006,Josh Okogie,,,1.0,,,
-401909896,UTA,905041955,Darryn Peterson,,,1.0,,,
+401909896,UTA,905041955,Darryn Peterson,Starting,,1.0,,,1.0
 401909896,UTA,1641729,Brice Sensabaugh,,,1.0,,,
-401909896,POR,1630166,Deni Avdija,,,1.0,,,
-401909896,POR,1641739,Toumani Camara,,,1.0,,,
+401909896,POR,1630166,Deni Avdija,Starting,,1.0,,,1.0
+401909896,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
 401909896,POR,904592435,Branden Carlson,,,1.0,,,
 401909896,POR,1631321,Sidy Cissoko,,,1.0,,,
-401909896,POR,1642270,Donovan Clingan,,,1.0,,,
+401909896,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
 401909896,POR,1642905,Yang Hansen,,,1.0,,,
-401909896,POR,1630703,Scoot Henderson,,,1.0,,,
+401909896,POR,1630703,Scoot Henderson,Starting,,1.0,,,1.0
 401909896,POR,201950,Jrue Holiday,,,1.0,,,
 401909896,POR,1643257,Jayson Kent,Out,GLeague-Two-Way,0.0,,,
 401909896,POR,1630249,Vit Krejci,,,1.0,,,
-401909896,POR,203081,Damian Lillard,,,1.0,,,
+401909896,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
 401909896,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",,
 401909896,POR,1630695,Micah Potter,,,1.0,,,
 401909896,POR,1631101,Shaedon Sharpe,Out,,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
@@ -168,7 +168,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909900,CLE,1630596,Evan Mobley,,,1.0,,,
 401909900,CLE,1641854,Craig Porter Jr.,,,1.0,,,
 401909900,CLE,1642878,Tyrese Proctor,,,1.0,,,
-401909900,CLE,905041951,Meleek Thomas,Probable,,0.93,Thomas (foot) is questionable for Saturday's game against the Bucks.,,
+401909900,CLE,905041951,Meleek Thomas,Probable,,0.93,Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee.,,
 401909900,CLE,1642281,Jaylon Tyson,Out,Injury/Illness-RightAnkleSprain,0.0,Tyson (ankle) has been ruled out for Saturday's game against the Bucks.,,
 401909900,CLE,905106261,Ernest Udeh Jr.,,,1.0,,,
 401909900,CLE,1631212,Peyton Watson,,,1.0,,,
