@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 4+ reb,2,0.7176,0.5081,1.97,2.07,1.96,-0.0018,0.996,1.85-2.10
-LAL @ GSW,Walker Kessler pts under 14.5 + Luka Doncic 3+ 3pm,2,0.6086,0.4354,2.3,2.41,2.29,-0.004,0.998,2.10-2.50
-LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 10+ pts,2,0.716,0.5134,1.95,2.05,1.94,-0.0045,0.998,1.85-2.10
-LAL @ GSW,Walker Kessler pts under 14.5 + Al Horford 5+ pr,2,0.6548,0.4738,2.11,2.22,2.1,-0.0055,1.0,1.85-2.10
-LAL @ GSW,Walker Kessler pts under 14.5 + Yaxel Lendeborg 1+ 3pm,2,0.6381,0.4605,2.17,2.28,2.16,-0.0059,0.999,2.10-2.50
-LAL @ GSW,Walker Kessler pts under 14.5 + Sandro Mamukelashvili 10+ pr,2,0.6162,0.4396,2.27,2.39,2.26,-0.0064,0.994,2.10-2.50
-LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 4+ reb,2,0.6708,0.5479,1.83,1.92,1.71,-0.0619,0.998,1.65-1.85
+LAL @ GSW,Walker Kessler pts under 13.5 + Yaxel Lendeborg 4+ reb,2,0.6648,0.4728,2.12,2.22,2.11,-0.0045,0.995,2.10-2.50
+LAL @ GSW,Walker Kessler pts under 13.5 + Yaxel Lendeborg 10+ pts,2,0.6636,0.4762,2.1,2.2,2.09,-0.0052,0.998,1.85-2.10
+LAL @ GSW,Walker Kessler pts under 13.5 + Sandro Mamukelashvili 10+ pr,2,0.5713,0.4072,2.46,2.58,2.44,-0.0064,0.994,2.10-2.50
+LAL @ GSW,Walker Kessler pts under 13.5 + Sandro Mamukelashvili 5+ pa,2,0.6589,0.4759,2.1,2.21,2.09,-0.0066,0.999,1.85-2.10
+LAL @ GSW,Walker Kessler pts under 13.5 + Luka Doncic 3+ 3pm,2,0.563,0.404,2.48,2.6,2.46,-0.0075,0.996,2.10-2.50
+LAL @ GSW,Walker Kessler pra under 25.5 + Yaxel Lendeborg 4+ reb,2,0.6384,0.4686,2.13,2.24,2.1,-0.0179,0.997,1.85-2.10
 LAL @ GSW,LAL win + Sandro Mamukelashvili 5+ pa,2,0.4732,0.5217,1.92,2.01,1.8,-0.062,1.011,1.65-1.85
-LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 10+ pts,2,0.6689,0.5533,1.81,1.9,1.69,-0.0649,1.0,1.65-1.85
-LAL @ GSW,Sandro Mamukelashvili 10+ pr + Luka Doncic 3+ 3pm,2,0.6495,0.5857,1.71,1.79,1.55,-0.0921,1.003,1.50-1.65
-LAL @ GSW,Yaxel Lendeborg 4+ reb + Sandro Mamukelashvili 10+ pr + Quentin Grimes 10+ pra,3,0.653,0.5577,1.79,1.88,1.55,-0.1336,1.005,1.50-1.65
-LAL @ GSW,Yaxel Lendeborg 4+ reb + Sandro Mamukelashvili 10+ pr + Luka Doncic 1+ stl,3,0.6349,0.5447,1.84,1.93,1.59,-0.1351,1.005,1.50-1.65
-DEN @ PHX,Khaman Maluach reb under 7.5 + DeMar DeRozan 10+ pr,2,0.6217,0.4199,2.38,2.5,2.43,0.0217,0.998,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 15.5 + DeMar DeRozan 10+ pr,2,0.6544,0.4428,2.26,2.37,2.31,0.0215,0.999,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 15.5 + Jamal Murray 2+ 3pm,2,0.6242,0.4233,2.36,2.48,2.41,0.0203,0.998,2.10-2.50
-DEN @ PHX,Khaman Maluach pr under 15.5 + Nikola Jokic 25+ pra,2,0.7372,0.5052,1.98,2.08,2.02,0.0181,1.0,1.85-2.10
-DEN @ PHX,Khaman Maluach pr under 15.5 + Dillon Brooks 10+ pr,2,0.7236,0.4964,2.01,2.12,2.05,0.0165,0.999,1.85-2.10
-DEN @ PHX,Khaman Maluach pr under 15.5 + DeMar DeRozan 10+ pra,2,0.7079,0.4863,2.06,2.16,2.09,0.0156,0.999,1.85-2.10
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + DeMar DeRozan 10+ pra,2,0.745,0.5689,1.76,1.85,1.7,-0.0332,1.0,1.65-1.85
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7609,0.5802,1.72,1.81,1.67,-0.0332,0.999,1.65-1.85
-DEN @ PHX,Collin Gillespie 3pm under 2.5 + Nikola Jokic 25+ pra,2,0.7738,0.5893,1.7,1.78,1.64,-0.0335,0.999,1.50-1.65
+LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 4+ reb,2,0.6708,0.5487,1.82,1.91,1.71,-0.0624,0.998,1.65-1.85
+LAL @ GSW,Matisse Thybulle 3pm under 1.5 + Yaxel Lendeborg 10+ pts,2,0.6689,0.5521,1.81,1.9,1.7,-0.0641,1.0,1.65-1.85
+LAL @ GSW,Sandro Mamukelashvili 10+ pr + Luka Doncic 3+ 3pm,2,0.6495,0.5835,1.71,1.8,1.56,-0.0909,1.003,1.50-1.65
+LAL @ GSW,Yaxel Lendeborg 4+ reb + Sandro Mamukelashvili 10+ pr + Quentin Grimes 10+ pra,3,0.653,0.5564,1.8,1.89,1.56,-0.133,1.005,1.50-1.65
+LAL @ GSW,Yaxel Lendeborg 4+ reb + Sandro Mamukelashvili 10+ pr + Luka Doncic 1+ stl,3,0.6349,0.5435,1.84,1.93,1.59,-0.1344,1.005,1.50-1.65
+DEN @ PHX,Khaman Maluach reb under 7.5 + Dillon Brooks 10+ pr,2,0.689,0.4707,2.12,2.23,2.17,0.0198,1.0,2.10-2.50
+DEN @ PHX,Khaman Maluach reb under 7.5 + Nikola Jokic 30+ pra,2,0.6752,0.4617,2.17,2.27,2.21,0.0193,1.0,2.10-2.50
+DEN @ PHX,Khaman Maluach reb under 7.5 + Dillon Brooks 15+ pra,2,0.6355,0.4318,2.32,2.43,2.36,0.0192,0.998,2.10-2.50
+DEN @ PHX,Khaman Maluach pr under 15.5 + Dillon Brooks 10+ pr,2,0.7236,0.4953,2.02,2.12,2.05,0.0173,0.999,1.85-2.10
+DEN @ PHX,Khaman Maluach pr under 15.5 + Nikola Jokic 30+ pra,2,0.7094,0.486,2.06,2.16,2.09,0.0172,0.999,1.85-2.10
+DEN @ PHX,Jordan Goodwin 3pm under 1.5 + Dillon Brooks 15+ pr,2,0.6306,0.4741,2.11,2.21,2.05,-0.0304,0.998,1.85-2.10
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7609,0.5789,1.73,1.81,1.67,-0.0325,0.999,1.65-1.85
+DEN @ PHX,Collin Gillespie 3pm under 2.5 + Nikola Jokic 30+ pra,2,0.7449,0.5672,1.76,1.85,1.7,-0.034,0.998,1.65-1.85
 DEN @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 15+ pra,2,0.7008,0.5303,1.89,1.98,1.82,-0.0343,0.996,1.65-1.85
-DEN @ PHX,Dillon Brooks 15+ pr + Jamal Murray 2+ 3pm,2,0.7016,0.5972,1.67,1.76,1.55,-0.0755,1.0,1.50-1.65
-DEN @ PHX,Dillon Brooks 15+ pr + DeMar DeRozan 10+ pr + Nikola Jokic 25+ pra,3,0.726,0.5772,1.73,1.82,1.54,-0.1132,1.002,1.50-1.65
+DEN @ PHX,Dillon Brooks 15+ pr + Jamal Murray 2+ 3pm,2,0.7016,0.6106,1.64,1.72,1.5,-0.083,1.0,1.50-1.65
+DEN @ PHX,Dillon Brooks 15+ pr + Nikola Jokic 30+ pra + Christian Braun 10+ pr,3,0.713,0.5803,1.72,1.81,1.52,-0.1199,1.003,1.50-1.65
+DEN @ PHX,Dillon Brooks 15+ pr + Nikola Jokic 6+ ast + Christian Braun 10+ pr,3,0.6865,0.5629,1.78,1.87,1.56,-0.1203,1.005,1.50-1.65
