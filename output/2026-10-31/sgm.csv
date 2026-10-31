@@ -1,16 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-ATL @ NOP,Saddiq Bey 13+ pts + Karlo Matkovic 10+ pr,2,0.5333,0.4162,2.4,2.52,2.42,0.0085,1.001,2.10-2.50
-ATL @ NOP,Zion Williamson 9+ ra + Karlo Matkovic 10+ pr,2,0.5723,0.4043,2.47,2.6,2.48,0.0016,1.003,2.10-2.50
 ATL @ NOP,Aaron Wiggins pts under 12.5 + Karlo Matkovic 10+ pr,2,0.541,0.4133,2.42,2.54,2.42,0.0014,1.001,2.10-2.50
-ATL @ NOP,Aaron Wiggins pts under 12.5 + Saddiq Bey 10+ pra,2,0.6028,0.4885,2.05,2.15,2.0,-0.022,1.0,1.85-2.10
+ATL @ NOP,Saddiq Bey 13+ pts + Karlo Matkovic 10+ pr,2,0.5333,0.4115,2.43,2.55,2.42,-0.0028,1.001,2.10-2.50
+ATL @ NOP,Aaron Wiggins pts under 12.5 + Saddiq Bey 15+ pra,2,0.5253,0.4078,2.45,2.57,2.44,-0.0034,1.003,2.10-2.50
 ATL @ NOP,Aaron Wiggins pts under 12.5 + Onyeka Okongwu 10+ pr,2,0.6008,0.4865,2.06,2.16,2.01,-0.0239,0.998,1.85-2.10
-ATL @ NOP,Zion Williamson 9+ ra + Saddiq Bey 10+ pra,2,0.6363,0.4769,2.1,2.2,2.05,-0.0239,1.0,1.85-2.10
-ATL @ NOP,Zion Williamson 4+ reb + Karlo Matkovic 4+ reb,2,0.7163,0.593,1.69,1.77,1.58,-0.0629,1.003,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + Karlo Matkovic 4+ reb + Onyeka Okongwu 15+ pra,3,0.6515,0.5019,1.99,2.09,1.79,-0.1011,1.004,1.65-1.85
-ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pr,3,0.6332,0.4885,2.05,2.15,1.84,-0.1014,1.004,1.65-1.85
-ATL @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pra,3,0.6904,0.5302,1.89,1.98,1.69,-0.1026,1.001,1.65-1.85
-ATL @ NOP,Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pr + Zion Williamson 20+ pra,3,0.6787,0.5439,1.84,1.93,1.64,-0.1103,1.008,1.50-1.65
-ATL @ NOP,Saddiq Bey 10+ pa + Onyeka Okongwu 15+ pra + Zion Williamson 20+ pra,3,0.7397,0.5901,1.69,1.78,1.51,-0.1117,1.005,1.50-1.65
+ATL @ NOP,Trey Murphy III pts under 17.5 + Onyeka Okongwu 10+ pr,2,0.5212,0.468,2.14,2.24,2.06,-0.0354,0.998,1.85-2.10
+ATL @ NOP,Saddiq Bey 6+ ra + Onyeka Okongwu 15+ pra,2,0.6312,0.4912,2.04,2.14,1.96,-0.0381,1.004,1.85-2.10
+ATL @ NOP,Zion Williamson 4+ reb + Karlo Matkovic 4+ reb + Saddiq Bey 10+ pa,3,0.635,0.4887,2.05,2.15,1.84,-0.101,1.004,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Karlo Matkovic 4+ reb + Onyeka Okongwu 15+ pra,3,0.6515,0.5045,1.98,2.08,1.78,-0.1029,1.004,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Karlo Matkovic 4+ reb + Saddiq Bey 10+ pra,3,0.6946,0.5438,1.84,1.93,1.64,-0.1081,1.002,1.50-1.65
+ATL @ NOP,Zion Williamson 4+ reb + Karlo Matkovic 4+ reb + Saddiq Bey 10+ pra + Onyeka Okongwu 10+ pra,4,0.686,0.5053,1.98,2.08,1.69,-0.1481,1.003,1.65-1.85
 SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 6+ reb,2,0.6008,0.4316,2.32,2.43,2.32,0.0006,1.006,2.10-2.50
 SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 6+ reb,2,0.5914,0.4217,2.37,2.49,2.37,-0.0009,1.006,2.10-2.50
 SAC @ MEM,Cameron Boozer 9+ reb + Precious Achiuwa 10+ pa,2,0.5568,0.4026,2.48,2.61,2.47,-0.0048,1.006,2.10-2.50
@@ -28,13 +26,13 @@ CLE @ MIL,Tyler Herro pa under 25.5 + CLE win,2,0.4072,0.4253,2.35,2.47,2.42,0.0
 CLE @ MIL,Tyler Herro pr under 26.5 + CLE win,2,0.4302,0.4402,2.27,2.39,2.33,0.0253,1.048,2.10-2.50
 CLE @ MIL,Mario Hezonja reb under 3.5 + Donovan Mitchell 15+ pr,2,0.6162,0.4714,2.12,2.23,2.05,-0.0342,0.999,1.85-2.10
 CLE @ MIL,Mario Hezonja reb under 3.5 + Sam Merrill 5+ pr,2,0.6044,0.4653,2.15,2.26,2.07,-0.0347,1.001,1.85-2.10
-CLE @ MIL,Mario Hezonja reb under 3.5 + Donovan Mitchell 15+ pa,2,0.6165,0.4737,2.11,2.22,2.04,-0.0358,0.999,1.85-2.10
+CLE @ MIL,Mario Hezonja reb under 3.5 + Donovan Mitchell 15+ pa,2,0.6165,0.4729,2.11,2.22,2.04,-0.0351,0.999,1.85-2.10
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + CLE win,2,0.5124,0.5264,1.9,1.99,1.83,-0.0381,0.985,1.65-1.85
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Ryan Rollins 10+ pa,2,0.7906,0.6256,1.6,1.68,1.52,-0.0468,1.0,1.50-1.65
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.796,0.6287,1.59,1.67,1.51,-0.0479,0.998,1.50-1.65
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 15+ pts,2,0.7617,0.6026,1.66,1.74,1.58,-0.0493,0.998,1.50-1.65
+CLE @ MIL,Jarrett Allen reb under 9.5 + Donovan Mitchell 15+ pa,2,0.6157,0.5067,1.97,2.07,1.85,-0.0635,0.999,1.65-1.85
 CLE @ MIL,Kyle Kuzma ra under 8.5 + Donovan Mitchell 15+ pr,2,0.6197,0.515,1.94,2.04,1.82,-0.0637,1.0,1.65-1.85
-CLE @ MIL,Jarrett Allen reb under 9.5 + Donovan Mitchell 15+ pa,2,0.6157,0.5076,1.97,2.07,1.84,-0.0642,0.999,1.65-1.85
 MIN @ SAS,LaMelo Ball ra under 10.5 + SAS win,2,0.4584,0.4148,2.41,2.53,2.42,0.0022,1.026,2.10-2.50
 MIN @ SAS,LaMelo Ball ast under 6.5 + SAS win,2,0.5008,0.4553,2.2,2.31,2.2,0.0011,1.03,2.10-2.50
 MIN @ SAS,LaMelo Ball pra under 30.5 + SAS win,2,0.4568,0.4416,2.26,2.38,2.24,-0.0093,1.045,2.10-2.50
