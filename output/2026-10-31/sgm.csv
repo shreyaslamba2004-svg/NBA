@@ -1,12 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHI @ CHA,Adem Bona reb under 6.5 + Sion James 5+ pr,2,0.7124,0.4676,2.14,2.25,2.22,0.0392,0.999,2.10-2.50
-PHI @ CHA,Adem Bona reb under 6.5 + Sion James 5+ pa,2,0.6767,0.4526,2.21,2.32,2.28,0.0306,0.998,2.10-2.50
-PHI @ CHA,Adem Bona reb under 6.5 + Moussa Diabate 5+ pa,2,0.7084,0.4793,2.09,2.19,2.14,0.0276,0.999,2.10-2.50
-PHI @ CHA,Adem Bona reb under 6.5 + Moussa Diabate 10+ pr,2,0.7138,0.4884,2.05,2.15,2.1,0.0241,0.999,1.85-2.10
+PHI @ CHA,Adem Bona reb under 6.5 + Sion James 5+ pr,2,0.7124,0.4737,2.11,2.22,2.18,0.032,0.999,2.10-2.50
+PHI @ CHA,Adem Bona reb under 6.5 + Grayson Allen 10+ pr,2,0.6666,0.446,2.24,2.35,2.31,0.0292,0.998,2.10-2.50
+PHI @ CHA,Adem Bona reb under 6.5 + Anfernee Simons 10+ pra,2,0.7141,0.4761,2.1,2.21,2.16,0.0278,0.996,2.10-2.50
+PHI @ CHA,Adem Bona pr under 13.5 + Grayson Allen 10+ pra,2,0.714,0.4899,2.04,2.14,2.08,0.0192,1.0,1.85-2.10
+PHI @ CHA,Adem Bona reb under 6.5 + Moussa Diabate 10+ pr,2,0.7138,0.4936,2.03,2.13,2.06,0.018,0.999,1.85-2.10
 PHI @ CHA,Adem Bona pr under 13.5 + Moussa Diabate 5+ pa,2,0.7066,0.4892,2.04,2.15,2.07,0.0134,0.997,1.85-2.10
-PHI @ CHA,Adem Bona pr under 13.5 + Moussa Diabate 10+ pr,2,0.7115,0.4982,2.01,2.11,2.03,0.0092,0.997,1.85-2.10
-PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 10+ pr,2,0.6587,0.5248,1.91,2.0,1.81,-0.0489,0.999,1.65-1.85
-PHI @ CHA,Anfernee Simons 18+ pra + Moussa Diabate 10+ pr,2,0.6101,0.5073,1.97,2.07,1.84,-0.0648,0.999,1.65-1.85
+PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 10+ pr,2,0.6587,0.5235,1.91,2.01,1.82,-0.048,0.999,1.65-1.85
+PHI @ CHA,Anfernee Simons 10+ pra + Grayson Allen 10+ pr + Tyrese Maxey 1+ stl,3,0.6668,0.5666,1.76,1.85,1.53,-0.1347,1.002,1.50-1.65
+PHI @ CHA,Sion James 5+ pr + Grayson Allen 10+ pr + Tyrese Maxey 1+ stl,3,0.6618,0.5609,1.78,1.87,1.54,-0.1356,1.0,1.50-1.65
+PHI @ CHA,Grayson Allen 10+ pr + Anfernee Simons 1+ 3pm + Tyrese Maxey 1+ stl,3,0.6516,0.5657,1.77,1.86,1.52,-0.1399,1.003,1.50-1.65
 ATL @ NOP,Zion Williamson 8+ ra + Herbert Jones 5+ pr,2,0.6032,0.4695,2.13,2.24,2.04,-0.0407,1.001,1.85-2.10
 ATL @ NOP,Zion Williamson 8+ ra + Saddiq Bey 10+ pa,2,0.5507,0.4431,2.26,2.37,2.16,-0.0411,1.013,2.10-2.50
 ATL @ NOP,Aaron Wiggins pts under 12.5 + Herbert Jones 5+ pr,2,0.5596,0.4364,2.29,2.41,2.19,-0.0428,1.001,2.10-2.50
