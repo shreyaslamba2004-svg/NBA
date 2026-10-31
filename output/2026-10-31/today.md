@@ -1,6 +1,6 @@
 # NBA model · Sat 31 Oct 2026 (US date)
 
-Updated **Sun 01 Nov, 04:58 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 01 Nov, 05:03 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-10-31/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -24,30 +24,30 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Kevin Durant AST over 7.5 (8+) | OKC @ HOU | draftkings | 19.80 | 12.97 | 5.99 | 16.7% | 4.7% | 7.7% | +52.8% | +230.6% | 0.7% |
-| Deni Avdija PTS over 44.5 (45+) | POR @ UTA | draftkings | 29.00 | 23.42 | 13.52 | 7.4% | 3.2% | 4.3% | +23.7% | +114.6% | 0.2% |
 | Kevin Durant REB over 9.5 (10+) | OKC @ HOU | draftkings | 14.20 | 11.81 | 7.08 | 14.1% | 6.6% | 8.5% | +20.2% | +100.6% | 0.4% |
-| Deni Avdija PTS over 39.5 (40+) | POR @ UTA | draftkings | 15.00 | 12.48 | 7.48 | 13.4% | 6.2% | 8.0% | +20.2% | +100.4% | 0.4% |
 | Jabari Smith Jr. REB over 11.5 (12+) | OKC @ HOU | draftkings | 21.00 | 17.51 | 10.55 | 9.5% | 4.5% | 5.7% | +19.9% | +99.1% | 0.2% |
 | Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ HOU | draftkings | 11.40 | 9.51 | 5.73 | 17.4% | 8.2% | 10.5% | +19.8% | +98.9% | 0.5% |
 | Kevin Durant PTS over 39.5 (40+) | OKC @ HOU | draftkings | 19.80 | 16.56 | 10.01 | 10.0% | 4.7% | 6.0% | +19.5% | +97.8% | 0.3% |
 | Shai Gilgeous-Alexander PTS over 49.5 (50+) | OKC @ HOU | draftkings | 28.00 | 23.47 | 14.23 | 7.0% | 3.3% | 4.3% | +19.3% | +96.8% | 0.2% |
-| Jrue Holiday AST over 9.5 (10+) | POR @ UTA | draftkings | 14.60 | 12.32 | 7.53 | 13.3% | 6.4% | 8.1% | +18.6% | +94.0% | 0.3% |
 | Jabari Smith Jr. REB over 9.5 (10+) | OKC @ HOU | draftkings | 8.50 | 7.18 | 4.40 | 22.7% | 11.0% | 13.9% | +18.3% | +93.0% | 0.6% |
 | Amen Thompson AST over 9.5 (10+) | OKC @ HOU | draftkings | 22.00 | 18.69 | 11.53 | 8.7% | 4.2% | 5.3% | +17.8% | +90.8% | 0.2% |
 | Amen Thompson AST over 7.5 (8+) | OKC @ HOU | draftkings | 8.10 | 6.89 | 4.26 | 23.5% | 11.5% | 14.5% | +17.6% | +90.1% | 0.6% |
-| Ace Bailey BLK over 2.5 (3+) | POR @ UTA | draftkings | 11.60 | 9.90 | 6.16 | 16.2% | 8.1% | 10.1% | +17.2% | +88.4% | 0.4% |
 | Shai Gilgeous-Alexander PRA over 59.5 (60+) | OKC @ HOU | draftkings | 20.20 | 17.33 | 10.88 | 9.2% | 4.6% | 5.8% | +16.5% | +85.6% | 0.2% |
 | Shai Gilgeous-Alexander AST over 11.5 (12+) | OKC @ HOU | draftkings | 28.00 | 24.04 | 15.13 | 6.6% | 3.3% | 4.2% | +16.4% | +85.1% | 0.1% |
-| Damian Lillard AST over 9.5 (10+) | POR @ UTA | draftkings | 13.40 | 11.61 | 7.39 | 13.5% | 7.0% | 8.6% | +15.4% | +81.3% | 0.3% |
+| Ace Bailey BLK over 2.5 (3+) | POR @ UTA | draftkings | 11.60 | 9.99 | 6.31 | 15.8% | 8.1% | 10.0% | +16.1% | +83.9% | 0.4% |
+| Deni Avdija PTS over 39.5 (40+) | POR @ UTA | draftkings | 14.80 | 12.80 | 8.13 | 12.3% | 6.3% | 7.8% | +15.6% | +82.1% | 0.3% |
 | Amen Thompson PTS over 29.5 (30+) | OKC @ HOU | draftkings | 20.00 | 17.33 | 11.04 | 9.1% | 4.7% | 5.8% | +15.4% | +81.2% | 0.2% |
+| Deni Avdija PTS over 44.5 (45+) | POR @ UTA | draftkings | 28.00 | 24.27 | 15.46 | 6.5% | 3.3% | 4.1% | +15.4% | +81.1% | 0.1% |
 | Jabari Smith Jr. PRA over 34.5 (35+) | OKC @ HOU | draftkings | 10.00 | 8.68 | 5.54 | 18.1% | 9.3% | 11.5% | +15.2% | +80.5% | 0.4% |
 | Shai Gilgeous-Alexander PTS over 44.5 (45+) | OKC @ HOU | draftkings | 14.60 | 12.79 | 8.28 | 12.1% | 6.4% | 7.8% | +14.1% | +76.2% | 0.3% |
 | Amen Thompson PRA over 44.5 (45+) | OKC @ HOU | draftkings | 18.00 | 15.87 | 10.38 | 9.6% | 5.2% | 6.3% | +13.5% | +73.5% | 0.2% |
+| Damian Lillard AST over 9.5 (10+) | POR @ UTA | draftkings | 13.80 | 12.18 | 7.99 | 12.5% | 6.8% | 8.2% | +13.3% | +72.8% | 0.3% |
 | Amen Thompson PRA over 39.5 (40+) | OKC @ HOU | draftkings | 8.80 | 7.77 | 5.10 | 19.6% | 10.6% | 12.9% | +13.3% | +72.7% | 0.4% |
-| Jrue Holiday AST over 7.5 (8+) | POR @ UTA | draftkings | 5.67 | 5.04 | 3.34 | 29.9% | 16.5% | 19.8% | +12.5% | +69.7% | 0.7% |
+| Jrue Holiday AST over 9.5 (10+) | POR @ UTA | draftkings | 14.60 | 12.94 | 8.54 | 11.7% | 6.4% | 7.7% | +12.8% | +71.0% | 0.2% |
 | Kingston Flemings AST over 7.5 (8+) | ATL @ NOP | draftkings | 20.60 | 18.38 | 12.24 | 8.2% | 4.5% | 5.4% | +12.2% | +68.3% | 0.2% |
 | Jabari Smith Jr. PRA over 39.5 (40+) | OKC @ HOU | draftkings | 20.80 | 18.62 | 12.48 | 8.0% | 4.5% | 5.4% | +11.8% | +66.7% | 0.1% |
 | Kingston Flemings AST over 5.5 (6+) | ATL @ NOP | draftkings | 7.10 | 6.40 | 4.35 | 23.0% | 13.2% | 15.6% | +10.9% | +63.3% | 0.4% |
+| Aday Mara REB over 9.5 (10+) | OKC @ HOU | draftkings | 11.80 | 10.65 | 7.25 | 13.8% | 7.9% | 9.4% | +10.8% | +62.7% | 0.2% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, any odds)
 
@@ -59,21 +59,21 @@ Bets that pass the same rules but that Sportsbet doesn't list as far as we know 
 | Jabari Smith Jr. REB over 10.5 (11+) | OKC @ HOU | draftkings | 13.60 | 11.22 | 6.66 | 15.0% | 6.9% | 8.9% | +21.1% | +104.1% | 0.4% |
 | Amen Thompson AST over 8.5 (9+) | OKC @ HOU | draftkings | 13.60 | 11.42 | 6.93 | 14.4% | 6.9% | 8.8% | +19.1% | +96.2% | 0.4% |
 | Kevin Durant REB over 8.5 (9+) | OKC @ HOU | draftkings | 8.70 | 7.34 | 4.49 | 22.3% | 10.7% | 13.6% | +18.6% | +93.8% | 0.6% |
-| Jrue Holiday AST over 8.5 (9+) | POR @ UTA | draftkings | 9.10 | 7.82 | 4.92 | 20.3% | 10.3% | 12.8% | +16.3% | +84.8% | 0.5% |
 | Kevin Durant REB over 10.5 (11+) | OKC @ HOU | draftkings | 22.00 | 18.90 | 11.91 | 8.4% | 4.2% | 5.3% | +16.3% | +84.7% | 0.2% |
-| Jrue Holiday AST over 10.5 (11+) | POR @ UTA | draftkings | 22.00 | 19.08 | 12.16 | 8.2% | 4.2% | 5.2% | +15.3% | +80.9% | 0.2% |
 | Shai Gilgeous-Alexander AST over 8.5 (9+) | OKC @ HOU | draftkings | 6.88 | 6.01 | 3.87 | 25.9% | 13.6% | 16.7% | +14.6% | +78.0% | 0.6% |
-| Damian Lillard AST over 8.5 (9+) | POR @ UTA | draftkings | 8.20 | 7.25 | 4.76 | 21.0% | 11.4% | 13.8% | +13.2% | +72.3% | 0.5% |
 | Kingston Flemings AST over 6.5 (7+) | ATL @ NOP | draftkings | 12.20 | 10.79 | 7.10 | 14.1% | 7.7% | 9.3% | +13.1% | +71.8% | 0.3% |
-| Damian Lillard AST over 10.5 (11+) | POR @ UTA | draftkings | 21.00 | 18.62 | 12.29 | 8.1% | 4.5% | 5.4% | +12.8% | +70.9% | 0.2% |
+| Jrue Holiday AST over 8.5 (9+) | POR @ UTA | draftkings | 9.10 | 8.10 | 5.38 | 18.6% | 10.3% | 12.3% | +12.4% | +69.2% | 0.4% |
+| Damian Lillard AST over 10.5 (11+) | POR @ UTA | draftkings | 22.00 | 19.57 | 13.01 | 7.7% | 4.2% | 5.1% | +12.4% | +69.1% | 0.1% |
 | Jabari Smith Jr. REB over 12.5 (13+) | OKC @ HOU | draftkings | 29.00 | 25.84 | 17.17 | 5.8% | 3.2% | 3.9% | +12.3% | +68.9% | 0.1% |
 | Aday Mara REB over 10.5 (11+) | OKC @ HOU | draftkings | 17.80 | 16.21 | 11.22 | 8.9% | 5.2% | 6.2% | +9.8% | +58.6% | 0.1% |
 | Aday Mara REB over 8.5 (9+) | OKC @ HOU | draftkings | 7.50 | 6.86 | 4.78 | 20.9% | 12.5% | 14.6% | +9.3% | +57.0% | 0.4% |
+| Damian Lillard AST over 8.5 (9+) | POR @ UTA | draftkings | 8.00 | 7.33 | 5.13 | 19.5% | 11.7% | 13.6% | +9.1% | +56.0% | 0.3% |
+| Jrue Holiday AST over 10.5 (11+) | POR @ UTA | draftkings | 22.00 | 20.24 | 14.23 | 7.0% | 4.2% | 4.9% | +8.7% | +54.6% | 0.1% |
+| Jrue Holiday AST over 6.5 (7+) | POR @ UTA | draftkings | 3.72 | 3.48 | 2.52 | 39.7% | 25.1% | 28.8% | +7.0% | +47.6% | 0.6% |
 | Cameron Boozer REB over 14.5 (15+) | SAC @ MEM | draftkings | 13.00 | 12.20 | 8.89 | 11.2% | 7.2% | 8.2% | +6.6% | +46.2% | 0.1% |
-| Dylan Harper REB over 8.5 (9+) | MIN @ SAS | draftkings | 10.00 | 9.47 | 7.03 | 14.2% | 9.3% | 10.6% | +5.6% | +42.2% | 0.2% |
+| Dylan Harper REB over 8.5 (9+) | MIN @ SAS | draftkings | 10.00 | 9.43 | 6.97 | 14.3% | 9.3% | 10.6% | +6.0% | +43.5% | 0.2% |
 | De'Andre Hunter REB over 8.5 (9+) | SAC @ MEM | draftkings | 10.40 | 9.85 | 7.32 | 13.7% | 9.0% | 10.2% | +5.6% | +42.0% | 0.1% |
 | Kingston Flemings AST over 4.5 (5+) | ATL @ NOP | draftkings | 3.98 | 3.77 | 2.81 | 35.6% | 23.5% | 26.5% | +5.5% | +41.6% | 0.5% |
-| Dejounte Murray AST over 10.5 (11+) | ATL @ NOP | draftkings | 12.20 | 11.59 | 8.66 | 11.6% | 7.7% | 8.6% | +5.3% | +40.9% | 0.1% |
 | Trey Murphy III REB over 8.5 (9+) | ATL @ NOP | draftkings | 11.00 | 10.45 | 7.81 | 12.8% | 8.5% | 9.6% | +5.3% | +40.8% | 0.1% |
 | Anfernee Simons REB over 4.5 (5+) | PHI @ CHA | draftkings | 5.88 | 5.59 | 4.20 | 23.8% | 15.9% | 17.9% | +5.1% | +40.2% | 0.3% |
 
@@ -97,7 +97,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | AJ Green 3PM under 1.5 | CLE @ MIL | draftkings | 2.32 | 2.14 | 1.52 | 65.8% | 40.3% | 46.7% | +8.3% | +52.8% | 1.6% |
 | Kevin Durant RA over 8.5 (9+) | OKC @ HOU | draftkings | 1.93 | 1.80 | 1.29 | 77.6% | 48.4% | 55.7% | +7.7% | +50.1% | 2.0% |
 | Amen Thompson AST over 5.5 (6+) | OKC @ HOU | draftkings | 2.94 | 2.76 | 2.02 | 49.6% | 31.8% | 36.2% | +6.6% | +45.9% | 0.9% |
-| Jrue Holiday AST over 5.5 (6+) | POR @ UTA | draftkings | 2.49 | 2.37 | 1.78 | 56.2% | 37.5% | 42.2% | +5.1% | +39.9% | 0.9% |
+| Damian Lillard PTS under 23.5 | POR @ UTA | draftkings | 1.86 | 1.77 | 1.32 | 75.6% | 50.2% | 56.5% | +5.3% | +40.8% | 1.5% |
 
 ## Projections
 
@@ -107,12 +107,12 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| POR @ UTA | Sun 01 Nov 06:00 | 122.0–115.3 | POR 68% | 1.46 / 3.17 | UTA +6.5 | 237.5 | UTA +7.5 covers 52%; o231.5 62% |
+| POR @ UTA | Sun 01 Nov 06:00 | 122.8–115.1 | POR 71% | 1.41 / 3.44 | UTA +7.5 | 237.5 | UTA +8.5 covers 52%; o232.5 61% |
 | PHI @ CHA | Sun 01 Nov 09:00 | 102.6–111.8 | PHI 26% | 3.84 / 1.35 | CHA -9.5 | 214.5 | CHA -1.5 covers 72%; o213.5 52% |
 | ATL @ NOP | Sun 01 Nov 10:00 | 123.8–120.7 | ATL 59% | 1.69 / 2.44 | NOP +3.5 | 244.5 | NOP +4.5 covers 53%; o240.5 58% |
 | SAC @ MEM | Sun 01 Nov 11:00 | 115.4–122.8 | SAC 30% | 3.32 / 1.43 | MEM -7.5 | 238.5 | MEM -8.5 covers 47%; o230.5 66% |
 | CLE @ MIL | Sun 01 Nov 11:00 | 118.0–113.6 | CLE 62% | 1.60 / 2.66 | MIL +4.5 | 231.5 | MIL +9.5 covers 64%; o235.5 41% |
-| MIN @ SAS | Sun 01 Nov 11:00 | 107.7–117.9 | MIN 24% | 4.23 / 1.31 | SAS -10.5 | 225.5 | SAS -12.5 covers 43%; o225.5 50% |
+| MIN @ SAS | Sun 01 Nov 11:00 | 107.9–118.3 | MIN 23% | 4.32 / 1.30 | SAS -10.5 | 226.5 | SAS -12.5 covers 44%; o225.5 51% |
 | OKC @ HOU | Sun 01 Nov 11:30 | 112.1–113.1 | OKC 47% | 2.12 / 1.90 | HOU -1.5 | 225.5 | HOU -2.5 covers 47%; o219.5 61% |
 
 ### POR @ UTA
@@ -122,38 +122,38 @@ Out: Trey Alexander (UTA), Blake Hinson (UTA), Jaren Jackson Jr. (UTA), Jusuf Nu
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Damian Lillard AST over 5.5 (6+) | POR @ UTA | draftkings | 2.08 | 2.07 | 1.73 | 57.8% | 45.1% | 48.3% | +0.5% | +20.2% | 0.1% |
+| Jrue Holiday RA over 9.5 (10+) | POR @ UTA | draftkings | 2.06 | 2.05 | 1.69 | 59.0% | 45.4% | 48.8% | +0.6% | +21.6% | 0.1% |
+| Scoot Henderson AST under 3.5 | POR @ UTA | draftkings | 1.97 | 1.97 | 1.64 | 61.1% | 47.4% | 50.8% | +0.2% | +20.4% | 0.1% |
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 122.0–115.3 | POR 68% | 1.46 / 3.17 | UTA +6.5 | 237.5 | UTA +7.5 covers 52%; o231.5 62% |
-| Expected (weighted by chance each plays) | 122.1–115.7 | POR 68% | 1.47 / 3.13 | UTA +6.5 | 237.5 | UTA +7.5 covers 53%; o231.5 62% |
-| if Robert Williams III plays | 122.7–115.0 | POR 71% | 1.41 / 3.44 | UTA +7.5 | 237.5 | UTA +7.5 covers 49%; o231.5 62% |
-| if Lauri Markkanen plays | 121.6–116.2 | POR 65% | 1.54 / 2.85 | UTA +5.5 | 237.5 | UTA +7.5 covers 56%; o231.5 63% |
+| Confirmed players only | 122.8–115.1 | POR 71% | 1.41 / 3.44 | UTA +7.5 | 237.5 | UTA +8.5 covers 52%; o232.5 61% |
+| Expected (weighted by chance each plays) | 122.3–115.5 | POR 69% | 1.45 / 3.21 | UTA +6.5 | 237.5 | UTA +8.5 covers 55%; o232.5 60% |
+| if Lauri Markkanen plays | 122.0–115.8 | POR 67% | 1.49 / 3.05 | UTA +6.5 | 237.5 | UTA +8.5 covers 56%; o232.5 60% |
 
 **Questionable players: chance to play, and their projection if they do**
 
 | Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Robert Williams III (POR) | Questionable | 55% | 21.0 | 8.6 | 8.0 | 1.5 | 0.2 | 0.7 | 1.7 | 1.1 | 18.1 | full tables below |
-| Lauri Markkanen (UTA) | Questionable | 55% | 30.5 | 20.3 | 6.4 | 2.2 | 2.1 | 0.8 | 0.5 | 1.6 | 28.8 | full tables below |
-| Chris Youngblood (POR) | Questionable | 55% | 9.9 | 3.6 | 1.4 | 0.8 | 0.5 | 0.3 | 0.2 | 0.5 | 5.8 | small |
+| Lauri Markkanen (UTA) | Questionable | 55% | 30.4 | 20.2 | 6.4 | 2.2 | 2.1 | 0.8 | 0.5 | 1.7 | 28.7 | full tables below |
 
 <details><summary>POR players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Deni Avdija | 98% | 34.7<br><sub>23,38,33,32</sub> | 28.3<br><sub>18,26,23,24</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 7.4<br><sub>10,7,4,9</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 7.3<br><sub>4,6,9,7</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 2.0<br><sub>2,1,4,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.9 | 0.7 | 4.2 | 43.0 |
-| Damian Lillard | 98% | 33.3<br><sub>24,33,31,30</sub> | 21.8<br><sub>25,19,21,9</sub> | 23.5 · –<br><sub>o 44% · u 56%</sub> | 4.4<br><sub>3,5,5,2</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 6.4<br><sub>6,2,4,2</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 2.8<br><sub>6,2,4,1</sub> | 3.5<br><sub>o 37% · u 63%</sub> | 1.2 | 0.3 | 2.5 | 32.6 |
-| Jrue Holiday | 98% | 31.5<br><sub>21,26,30,24</sub> | 16.4<br><sub>8,12,22,6</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 4.9<br><sub>4,1,4,6</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 6.2<br><sub>1,8,3,4</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 2.5<br><sub>0,3,2,2</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 1.2 | 0.3 | 2.6 | 27.5 |
-| Toumani Camara | 98% | 30.8<br><sub>23,27,24,26</sub> | 13.0<br><sub>18,19,12,13</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 4.8<br><sub>2,3,1,2</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 2.0<br><sub>3,1,1,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 2.4<br><sub>4,5,4,3</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.5 | 1.5 | 19.8 |
-| Donovan Clingan | 98% | 28.4<br><sub>21,21,26,29</sub> | 12.5<br><sub>11,8,9,11</sub> | 11.5 · –<br><sub>o 48% · u 52%</sub> | 11.6<br><sub>7,10,10,8</sub> | 11.5<br><sub>o 47% · u 53%</sub> | 2.3<br><sub>2,3,1,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.3<br><sub>2,0,2,1</sub> | 0.5<br><sub>o 67% · u 33%</sub> | 0.7 | 2.4 | 1.4 | 26.4 |
-| Sidy Cissoko | 96% | 25.7<br><sub>25,26,20,19</sub> | 7.1<br><sub>3,15,6,4</sub> |  | 3.8<br><sub>4,7,2,6</sub> |  | 2.4<br><sub>3,1,4,2</sub> |  | 1.0<br><sub>1,2,0,0</sub> |  | 1.1 | 0.5 | 1.1 | 13.3 |
-| Scoot Henderson | 98% | 25.5<br><sub>19,21,17,19</sub> | 13.6<br><sub>15,4,2,9</sub> | 14.5 · –<br><sub>o 48% · u 52%</sub> | 2.9<br><sub>2,1,2,4</sub> | 2.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>1,2,3,0</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.7<br><sub>1,0,0,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.2 | 0.2 | 2.6 | 19.9 |
-| Micah Potter | 63% | 15.6<br><sub>12,-,-,9</sub> | 6.3<br><sub>4,-,-,1</sub> |  | 4.4<br><sub>3,-,-,2</sub> |  | 1.0<br><sub>0,-,-,0</sub> |  | 0.7<br><sub>0,-,-,0</sub> |  | 0.5 | 0.4 | 1.0 | 11.8 |
-| Vit Krejci | 96% | 15.2<br><sub>15,3,7,8</sub> | 5.5<br><sub>1,0,4,2</sub> |  | 2.0<br><sub>2,2,0,0</sub> |  | 1.5<br><sub>3,0,0,1</sub> |  | 0.8<br><sub>0,0,1,0</sub> |  | 0.6 | 0.3 | 0.5 | 9.0 |
-| Branden Carlson | 48% | 14.4<br><sub>-,-,-,12</sub> | 5.1<br><sub>-,-,-,2</sub> |  | 3.0<br><sub>-,-,-,2</sub> |  | 0.9<br><sub>-,-,-,1</sub> |  | 0.3<br><sub>-,-,-,0</sub> |  | 0.6 | 1.5 | 1.7 | 8.9 |
-| Yang Hansen | 58% | 11.5<br><sub>12,-,-,5</sub> | 4.0<br><sub>5,-,-,3</sub> |  | 2.9<br><sub>3,-,-,2</sub> |  | 0.7<br><sub>0,-,-,1</sub> |  | 0.3<br><sub>1,-,-,1</sub> |  | 0.3 | 0.5 | 0.9 | 7.6 |
+| Deni Avdija | 98% | 34.1<br><sub>23,38,33,32</sub> | 27.0<br><sub>18,26,23,24</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>10,7,4,9</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 7.4<br><sub>4,6,9,7</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 1.9<br><sub>2,1,4,0</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.9 | 0.7 | 4.1 | 41.6 |
+| Damian Lillard | 98% | 31.7<br><sub>24,33,31,30</sub> | 18.7<br><sub>25,19,21,9</sub> | 23.5 · –<br><sub>o 43% · u 57%</sub> | 4.2<br><sub>3,5,5,2</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 6.1<br><sub>6,2,4,2</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 2.6<br><sub>6,2,4,1</sub> | 3.5<br><sub>o 37% · u 63%</sub> | 1.1 | 0.3 | 2.4 | 29.0 |
+| Jrue Holiday | 98% | 30.1<br><sub>21,26,30,24</sub> | 15.4<br><sub>8,12,22,6</sub> | 13.5 · –<br><sub>o 52% · u 48%</sub> | 4.7<br><sub>4,1,4,6</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 6.0<br><sub>1,8,3,4</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 2.4<br><sub>0,3,2,2</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.1 | 0.3 | 2.3 | 26.1 |
+| Toumani Camara | 98% | 29.8<br><sub>23,27,24,26</sub> | 12.9<br><sub>18,19,12,13</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 4.6<br><sub>2,3,1,2</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 2.1<br><sub>3,1,1,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 2.4<br><sub>4,5,4,3</sub> | 2.5<br><sub>o 42% · u 57%</sub> | 1.2 | 0.5 | 1.4 | 19.6 |
+| Donovan Clingan | 98% | 27.1<br><sub>21,21,26,29</sub> | 12.1<br><sub>11,8,9,11</sub> | 11.5 · –<br><sub>o 49% · u 51%</sub> | 10.8<br><sub>7,10,10,8</sub> | 11.5<br><sub>o 46% · u 54%</sub> | 2.3<br><sub>2,3,1,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.2<br><sub>2,0,2,1</sub> | 0.5<br><sub>o 67% · u 33%</sub> | 0.6 | 2.3 | 1.3 | 25.2 |
+| Scoot Henderson | 98% | 23.9<br><sub>19,21,17,19</sub> | 12.6<br><sub>15,4,2,9</sub> | 14.5 · –<br><sub>o 47% · u 53%</sub> | 2.7<br><sub>2,1,2,4</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 3.2<br><sub>1,2,3,0</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.6<br><sub>1,0,0,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.1 | 0.2 | 2.4 | 18.4 |
+| Sidy Cissoko | 96% | 22.3<br><sub>25,26,20,19</sub> | 6.6<br><sub>3,15,6,4</sub> |  | 3.2<br><sub>4,7,2,6</sub> |  | 2.0<br><sub>3,1,4,2</sub> |  | 0.8<br><sub>1,2,0,0</sub> |  | 0.9 | 0.4 | 1.0 | 11.8 |
+| Robert Williams III | 98% | 20.8<br><sub>15,18,21,-</sub> | 8.6<br><sub>2,13,14,-</sub> | 6.5 · –<br><sub>o 53% · u 47%</sub> | 8.0<br><sub>10,6,10,-</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 1.4<br><sub>1,0,1,-</sub> |  | 0.2<br><sub>0,0,0,-</sub> |  | 0.8 | 1.7 | 1.1 | 18.0 |
+| Micah Potter | 63% | 13.0<br><sub>12,-,-,9</sub> | 5.5<br><sub>4,-,-,1</sub> |  | 3.5<br><sub>3,-,-,2</sub> |  | 0.9<br><sub>0,-,-,0</sub> |  | 0.6<br><sub>0,-,-,0</sub> |  | 0.4 | 0.3 | 0.8 | 9.9 |
+| Vit Krejci | 96% | 12.6<br><sub>15,3,7,8</sub> | 4.7<br><sub>1,0,4,2</sub> |  | 1.7<br><sub>2,2,0,0</sub> |  | 1.2<br><sub>3,0,0,1</sub> |  | 0.7<br><sub>0,0,1,0</sub> |  | 0.5 | 0.2 | 0.5 | 7.6 |
+| Branden Carlson | 48% | 12.0<br><sub>-,-,-,12</sub> | 4.3<br><sub>-,-,-,2</sub> |  | 2.5<br><sub>-,-,-,2</sub> |  | 0.8<br><sub>-,-,-,1</sub> |  | 0.3<br><sub>-,-,-,0</sub> |  | 0.5 | 1.2 | 1.8 | 7.5 |
+| Yang Hansen | 58% | 7.8<br><sub>12,-,-,5</sub> | 3.0<br><sub>5,-,-,3</sub> |  | 1.9<br><sub>3,-,-,2</sub> |  | 0.5<br><sub>0,-,-,1</sub> |  | 0.2<br><sub>1,-,-,1</sub> |  | 0.2 | 0.3 | 0.7 | 5.4 |
+| Chris Youngblood | 52% | 7.6 | 3.1 |  | 1.1 |  | 0.6 |  | 0.4 |  | 0.3 | 0.1 | 0.3 | 4.8 |
 
 </details>
 
@@ -161,18 +161,18 @@ Out: Trey Alexander (UTA), Blake Hinson (UTA), Jaren Jackson Jr. (UTA), Jusuf Nu
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Keyonte George | 98% | 34.1<br><sub>29,32,33,33,37</sub> | 25.8<br><sub>22,19,24,26,31</sub> | 22.5 · –<br><sub>o 52% · u 48%</sub> | 3.8<br><sub>3,1,9,3,4</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 7.0<br><sub>5,10,10,6,3</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.5<br><sub>4,3,2,0,5</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 1.0 | 0.2 | 3.9 | 36.6 |
-| Ace Bailey | 98% | 34.0<br><sub>24,22,29,34,40</sub> | 16.9<br><sub>12,6,17,17,19</sub> | 14.5 · –<br><sub>o 50% · u 50%</sub> | 6.5<br><sub>5,7,12,10,6</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 3.0<br><sub>3,2,4,3,0</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 2.1<br><sub>2,1,1,3,1</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 1.4 | 2.3 | 26.3 |
-| Jaxson Hayes | 98% | 30.7<br><sub>26,26,19,-,37</sub> | 10.5<br><sub>5,17,9,-,2</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 7.1<br><sub>5,5,5,-,11</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 2.2<br><sub>3,2,1,-,4</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.1<br><sub>0,0,0,-,0</sub> |  | 0.9 | 1.5 | 1.3 | 19.8 |
-| Darryn Peterson | 96% | 30.7<br><sub>31,30,30,26,26</sub> | 15.1<br><sub>9,15,8,14,18</sub> | 14.5 · –<br><sub>o 46% · u 54%</sub> | 4.7<br><sub>4,3,3,7,5</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 3.4<br><sub>3,1,2,4,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.2<br><sub>0,1,0,3,3</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 1.1 | 0.4 | 1.7 | 23.1 |
-| Isaiah Collier | 96% | 24.7<br><sub>16,18,13,21,24</sub> | 12.7<br><sub>7,10,6,7,7</sub> |  | 3.4<br><sub>3,2,3,8,7</sub> |  | 7.1<br><sub>3,7,6,8,6</sub> |  | 0.6<br><sub>0,0,0,0,0</sub> |  | 1.0 | 0.3 | 2.6 | 23.1 |
-| Josh Okogie | 86% | 23.5<br><sub>8,-,10,21,28</sub> | 5.3<br><sub>0,-,2,0,5</sub> |  | 4.0<br><sub>1,-,2,2,9</sub> |  | 1.4<br><sub>0,-,2,0,3</sub> |  | 0.7<br><sub>0,-,0,0,1</sub> |  | 1.1 | 0.4 | 0.8 | 10.6 |
-| Josh Green | 72% | 21.4<br><sub>-,-,3,25,24</sub> | 4.7<br><sub>-,-,0,6,2</sub> |  | 2.3<br><sub>-,-,0,4,2</sub> |  | 1.3<br><sub>-,-,1,1,2</sub> |  | 0.6<br><sub>-,-,0,1,0</sub> |  | 0.9 | 0.2 | 0.7 | 8.2 |
-| Brice Sensabaugh | 98% | 20.7<br><sub>14,16,17,9,18</sub> | 12.2<br><sub>2,10,7,11,16</sub> |  | 3.0<br><sub>2,3,6,2,3</sub> |  | 1.9<br><sub>1,2,1,0,1</sub> |  | 1.6<br><sub>0,2,1,3,4</sub> |  | 0.6 | 0.2 | 1.7 | 17.1 |
-| Mo Bamba | 52% | 19.4<br><sub>-,-,-,29,16</sub> | 6.9<br><sub>-,-,-,14,8</sub> |  | 6.8<br><sub>-,-,-,7,4</sub> |  | 0.9<br><sub>-,-,-,1,1</sub> |  | 0.4<br><sub>-,-,-,0,0</sub> |  | 0.5 | 1.4 | 1.0 | 14.7 |
-| Svi Mykhailiuk | 88% | 18.7<br><sub>19,21,14,13,15</sub> | 7.0<br><sub>10,3,2,0,3</sub> |  | 2.2<br><sub>1,4,3,1,2</sub> |  | 1.5<br><sub>2,1,0,0,1</sub> |  | 1.1<br><sub>2,0,0,0,1</sub> |  | 0.6 | 0.1 | 0.8 | 10.7 |
-| Kyle Filipowski | 58% | 14.8<br><sub>9,8,-,8,-</sub> | 7.9<br><sub>3,0,-,0,-</sub> |  | 4.7<br><sub>0,1,-,1,-</sub> |  | 1.8<br><sub>0,0,-,0,-</sub> |  | 0.6<br><sub>0,0,-,0,-</sub> |  | 0.7 | 0.3 | 1.2 | 14.4 |
-| Tony Bradley | 48% | 9.7<br><sub>-,-,-,6,-</sub> | 3.5<br><sub>-,-,-,2,-</sub> |  | 3.0<br><sub>-,-,-,1,-</sub> |  | 0.5<br><sub>-,-,-,0,-</sub> |  | 0.1<br><sub>-,-,-,0,-</sub> |  | 0.3 | 0.4 | 0.6 | 7.0 |
+| Ace Bailey | 98% | 34.0<br><sub>24,22,29,34,40</sub> | 16.8<br><sub>12,6,17,17,19</sub> | 14.5 · –<br><sub>o 50% · u 50%</sub> | 6.4<br><sub>5,7,12,10,6</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 3.0<br><sub>3,2,4,3,0</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 2.1<br><sub>2,1,1,3,1</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 1.4 | 2.3 | 26.2 |
+| Keyonte George | 98% | 34.0<br><sub>29,32,33,33,37</sub> | 25.8<br><sub>22,19,24,26,31</sub> | 22.5 · –<br><sub>o 52% · u 48%</sub> | 3.8<br><sub>3,1,9,3,4</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 7.0<br><sub>5,10,10,6,3</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.5<br><sub>4,3,2,0,5</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 1.0 | 0.2 | 3.9 | 36.6 |
+| Jaxson Hayes | 98% | 30.7<br><sub>26,26,19,-,37</sub> | 10.5<br><sub>5,17,9,-,2</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 7.1<br><sub>5,5,5,-,11</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 2.2<br><sub>3,2,1,-,4</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.1<br><sub>0,0,0,-,0</sub> |  | 0.9 | 1.5 | 1.3 | 19.8 |
+| Darryn Peterson | 96% | 30.7<br><sub>31,30,30,26,26</sub> | 15.1<br><sub>9,15,8,14,18</sub> | 14.5 · –<br><sub>o 46% · u 54%</sub> | 4.7<br><sub>4,3,3,7,5</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 3.4<br><sub>3,1,2,4,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.2<br><sub>0,1,0,3,3</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 1.1 | 0.3 | 1.7 | 23.2 |
+| Isaiah Collier | 96% | 24.7<br><sub>16,18,13,21,24</sub> | 12.7<br><sub>7,10,6,7,7</sub> |  | 3.3<br><sub>3,2,3,8,7</sub> |  | 7.1<br><sub>3,7,6,8,6</sub> |  | 0.6<br><sub>0,0,0,0,0</sub> |  | 1.0 | 0.3 | 2.6 | 23.1 |
+| Josh Okogie | 86% | 23.5<br><sub>8,-,10,21,28</sub> | 5.2<br><sub>0,-,2,0,5</sub> |  | 4.0<br><sub>1,-,2,2,9</sub> |  | 1.4<br><sub>0,-,2,0,3</sub> |  | 0.7<br><sub>0,-,0,0,1</sub> |  | 1.1 | 0.4 | 0.8 | 10.6 |
+| Josh Green | 72% | 21.4<br><sub>-,-,3,25,24</sub> | 4.7<br><sub>-,-,0,6,2</sub> |  | 2.3<br><sub>-,-,0,4,2</sub> |  | 1.3<br><sub>-,-,1,1,2</sub> |  | 0.6<br><sub>-,-,0,1,0</sub> |  | 0.9 | 0.2 | 0.8 | 8.3 |
+| Brice Sensabaugh | 98% | 20.8<br><sub>14,16,17,9,18</sub> | 12.2<br><sub>2,10,7,11,16</sub> |  | 3.0<br><sub>2,3,6,2,3</sub> |  | 1.9<br><sub>1,2,1,0,1</sub> |  | 1.7<br><sub>0,2,1,3,4</sub> |  | 0.6 | 0.2 | 1.7 | 17.1 |
+| Mo Bamba | 52% | 19.6<br><sub>-,-,-,29,16</sub> | 7.0<br><sub>-,-,-,14,8</sub> |  | 6.9<br><sub>-,-,-,7,4</sub> |  | 0.9<br><sub>-,-,-,1,1</sub> |  | 0.4<br><sub>-,-,-,0,0</sub> |  | 0.5 | 1.4 | 1.0 | 14.8 |
+| Svi Mykhailiuk | 88% | 18.7<br><sub>19,21,14,13,15</sub> | 7.0<br><sub>10,3,2,0,3</sub> |  | 2.2<br><sub>1,4,3,1,2</sub> |  | 1.4<br><sub>2,1,0,0,1</sub> |  | 1.0<br><sub>2,0,0,0,1</sub> |  | 0.6 | 0.1 | 0.8 | 10.6 |
+| Kyle Filipowski | 58% | 14.9<br><sub>9,8,-,8,-</sub> | 8.0<br><sub>3,0,-,0,-</sub> |  | 4.8<br><sub>0,1,-,1,-</sub> |  | 1.8<br><sub>0,0,-,0,-</sub> |  | 0.6<br><sub>0,0,-,0,-</sub> |  | 0.7 | 0.3 | 1.2 | 14.6 |
+| Tony Bradley | 48% | 9.7<br><sub>-,-,-,6,-</sub> | 3.5<br><sub>-,-,-,2,-</sub> |  | 3.0<br><sub>-,-,-,1,-</sub> |  | 0.5<br><sub>-,-,-,0,-</sub> |  | 0.1<br><sub>-,-,-,0,-</sub> |  | 0.3 | 0.3 | 0.6 | 7.1 |
 
 </details>
 
@@ -180,61 +180,32 @@ Out: Trey Alexander (UTA), Blake Hinson (UTA), Jaren Jackson Jr. (UTA), Jusuf Nu
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Deni Avdija (POR) | 98% | 34.6<br><sub>23,38,33,32</sub> | 28.4<br><sub>18,26,23,24</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 7.3<br><sub>10,7,4,9</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 7.3<br><sub>4,6,9,7</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 2.0<br><sub>2,1,4,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.9 | 0.7 | 4.2 | 43.0 |
-| Damian Lillard (POR) | 98% | 33.2<br><sub>24,33,31,30</sub> | 21.7<br><sub>25,19,21,9</sub> | 23.5 · –<br><sub>o 44% · u 56%</sub> | 4.3<br><sub>3,5,5,2</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 6.4<br><sub>6,2,4,2</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 2.9<br><sub>6,2,4,1</sub> | 3.5<br><sub>o 37% · u 63%</sub> | 1.1 | 0.3 | 2.5 | 32.4 |
-| Jrue Holiday (POR) | 98% | 31.4<br><sub>21,26,30,24</sub> | 16.3<br><sub>8,12,22,6</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 4.8<br><sub>4,1,4,6</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 6.2<br><sub>1,8,3,4</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 2.5<br><sub>0,3,2,2</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 1.2 | 0.3 | 2.6 | 27.3 |
-| Toumani Camara (POR) | 98% | 30.8<br><sub>23,27,24,26</sub> | 13.0<br><sub>18,19,12,13</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 4.8<br><sub>2,3,1,2</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 2.0<br><sub>3,1,1,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 2.4<br><sub>4,5,4,3</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.5 | 1.5 | 19.9 |
-| Donovan Clingan (POR) | 98% | 28.4<br><sub>21,21,26,29</sub> | 12.6<br><sub>11,8,9,11</sub> | 11.5 · –<br><sub>o 48% · u 52%</sub> | 11.6<br><sub>7,10,10,8</sub> | 11.5<br><sub>o 47% · u 53%</sub> | 2.3<br><sub>2,3,1,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.3<br><sub>2,0,2,1</sub> | 0.5<br><sub>o 67% · u 33%</sub> | 0.7 | 2.4 | 1.4 | 26.5 |
-| Sidy Cissoko (POR) | 96% | 25.8<br><sub>25,26,20,19</sub> | 7.2<br><sub>3,15,6,4</sub> |  | 3.8<br><sub>4,7,2,6</sub> |  | 2.4<br><sub>3,1,4,2</sub> |  | 1.0<br><sub>1,2,0,0</sub> |  | 1.1 | 0.5 | 1.1 | 13.4 |
-| Scoot Henderson (POR) | 98% | 25.5<br><sub>19,21,17,19</sub> | 13.5<br><sub>15,4,2,9</sub> | 14.5 · –<br><sub>o 48% · u 52%</sub> | 2.9<br><sub>2,1,2,4</sub> | 2.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>1,2,3,0</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.7<br><sub>1,0,0,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.3 | 0.2 | 2.6 | 19.8 |
-| Micah Potter (POR) | 63% | 15.7<br><sub>12,-,-,9</sub> | 6.3<br><sub>4,-,-,1</sub> |  | 4.4<br><sub>3,-,-,2</sub> |  | 1.0<br><sub>0,-,-,0</sub> |  | 0.7<br><sub>0,-,-,0</sub> |  | 0.5 | 0.4 | 1.0 | 11.8 |
-| Vit Krejci (POR) | 96% | 15.2<br><sub>15,3,7,8</sub> | 5.6<br><sub>1,0,4,2</sub> |  | 2.0<br><sub>2,2,0,0</sub> |  | 1.4<br><sub>3,0,0,1</sub> |  | 0.8<br><sub>0,0,1,0</sub> |  | 0.6 | 0.3 | 0.6 | 9.0 |
-| Branden Carlson (POR) | 48% | 14.4<br><sub>-,-,-,12</sub> | 5.0<br><sub>-,-,-,2</sub> |  | 3.0<br><sub>-,-,-,2</sub> |  | 0.9<br><sub>-,-,-,1</sub> |  | 0.3<br><sub>-,-,-,0</sub> |  | 0.6 | 1.5 | 1.8 | 8.9 |
-| Yang Hansen (POR) | 58% | 11.4<br><sub>12,-,-,5</sub> | 3.9<br><sub>5,-,-,3</sub> |  | 2.9<br><sub>3,-,-,2</sub> |  | 0.7<br><sub>0,-,-,1</sub> |  | 0.3<br><sub>1,-,-,1</sub> |  | 0.3 | 0.5 | 0.9 | 7.5 |
-| Keyonte George (UTA) | 98% | 33.1<br><sub>29,32,33,33,37</sub> | 23.3<br><sub>22,19,24,26,31</sub> | 22.5 · –<br><sub>o 52% · u 48%</sub> | 3.6<br><sub>3,1,9,3,4</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 6.5<br><sub>5,10,10,6,3</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.4<br><sub>4,3,2,0,5</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 1.0 | 0.2 | 3.5 | 33.5 |
-| Ace Bailey (UTA) | 98% | 32.3<br><sub>24,22,29,34,40</sub> | 14.6<br><sub>12,6,17,17,19</sub> | 14.5 · –<br><sub>o 50% · u 50%</sub> | 6.1<br><sub>5,7,12,10,6</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 2.6<br><sub>3,2,4,3,0</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 1.9<br><sub>2,1,1,3,1</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 1.3 | 1.9 | 23.3 |
-| Lauri Markkanen (UTA) | 100% | 30.5<br><sub>36,34,38,6,-</sub> | 20.3<br><sub>18,16,28,2,-</sub> | 21.5 · – | 6.4<br><sub>9,6,7,0,-</sub> | 6.5 | 2.2<br><sub>3,3,1,0,-</sub> | 1.5 | 2.1<br><sub>1,4,5,0,-</sub> | 2.5 | 0.8 | 0.5 | 1.6 | 28.8 |
-| Darryn Peterson (UTA) | 96% | 28.6<br><sub>31,30,30,26,26</sub> | 12.7<br><sub>9,15,8,14,18</sub> | 14.5 · –<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>4,3,3,7,5</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 2.9<br><sub>3,1,2,4,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.1<br><sub>0,1,0,3,3</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 1.0 | 0.3 | 1.6 | 20.1 |
-| Jaxson Hayes (UTA) | 98% | 28.0<br><sub>26,26,19,-,37</sub> | 9.4<br><sub>5,17,9,-,2</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 6.8<br><sub>5,5,5,-,11</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 2.0<br><sub>3,2,1,-,4</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.1<br><sub>0,0,0,-,0</sub> |  | 0.8 | 1.4 | 1.1 | 18.2 |
-| Isaiah Collier (UTA) | 96% | 21.9<br><sub>16,18,13,21,24</sub> | 10.2<br><sub>7,10,6,7,7</sub> |  | 3.0<br><sub>3,2,3,8,7</sub> |  | 6.3<br><sub>3,7,6,8,6</sub> |  | 0.4<br><sub>0,0,0,0,0</sub> |  | 0.9 | 0.3 | 2.2 | 19.6 |
-| Josh Okogie (UTA) | 86% | 20.0<br><sub>8,-,10,21,28</sub> | 4.4<br><sub>0,-,2,0,5</sub> |  | 3.5<br><sub>1,-,2,2,9</sub> |  | 1.2<br><sub>0,-,2,0,3</sub> |  | 0.5<br><sub>0,-,0,0,1</sub> |  | 1.0 | 0.3 | 0.7 | 9.1 |
-| Josh Green (UTA) | 72% | 18.4<br><sub>-,-,3,25,24</sub> | 4.0<br><sub>-,-,0,6,2</sub> |  | 2.0<br><sub>-,-,0,4,2</sub> |  | 1.1<br><sub>-,-,1,1,2</sub> |  | 0.5<br><sub>-,-,0,1,0</sub> |  | 0.8 | 0.2 | 0.7 | 7.2 |
-| Brice Sensabaugh (UTA) | 98% | 18.1<br><sub>14,16,17,9,18</sub> | 9.9<br><sub>2,10,7,11,16</sub> |  | 2.6<br><sub>2,3,6,2,3</sub> |  | 1.7<br><sub>1,2,1,0,1</sub> |  | 1.3<br><sub>0,2,1,3,4</sub> |  | 0.6 | 0.2 | 1.4 | 14.2 |
-| Mo Bamba (UTA) | 52% | 17.2<br><sub>-,-,-,29,16</sub> | 6.0<br><sub>-,-,-,14,8</sub> |  | 6.0<br><sub>-,-,-,7,4</sub> |  | 0.8<br><sub>-,-,-,1,1</sub> |  | 0.4<br><sub>-,-,-,0,0</sub> |  | 0.4 | 1.3 | 0.8 | 12.8 |
-| Svi Mykhailiuk (UTA) | 88% | 15.9<br><sub>19,21,14,13,15</sub> | 5.3<br><sub>10,3,2,0,3</sub> |  | 1.9<br><sub>1,4,3,1,2</sub> |  | 1.2<br><sub>2,1,0,0,1</sub> |  | 0.8<br><sub>2,0,0,0,1</sub> |  | 0.5 | 0.1 | 0.6 | 8.4 |
-| Kyle Filipowski (UTA) | 58% | 12.6<br><sub>9,8,-,8,-</sub> | 6.2<br><sub>3,0,-,0,-</sub> |  | 4.0<br><sub>0,1,-,1,-</sub> |  | 1.4<br><sub>0,0,-,0,-</sub> |  | 0.5<br><sub>0,0,-,0,-</sub> |  | 0.6 | 0.3 | 1.0 | 11.6 |
-| Tony Bradley (UTA) | 48% | 8.2<br><sub>-,-,-,6,-</sub> | 2.8<br><sub>-,-,-,2,-</sub> |  | 2.6<br><sub>-,-,-,1,-</sub> |  | 0.5<br><sub>-,-,-,0,-</sub> |  | 0.1<br><sub>-,-,-,0,-</sub> |  | 0.2 | 0.3 | 0.5 | 5.9 |
-
-</details>
-
-<details><summary>if Robert Williams III plays: both teams</summary>
-
-| Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Deni Avdija (POR) | 98% | 34.1<br><sub>23,38,33,32</sub> | 27.2<br><sub>18,26,23,24</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>10,7,4,9</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 7.4<br><sub>4,6,9,7</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 2.0<br><sub>2,1,4,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.9 | 0.7 | 4.1 | 41.9 |
-| Damian Lillard (POR) | 98% | 32.3<br><sub>24,33,31,30</sub> | 19.3<br><sub>25,19,21,9</sub> | 23.5 · –<br><sub>o 44% · u 56%</sub> | 4.2<br><sub>3,5,5,2</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 6.2<br><sub>6,2,4,2</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 2.7<br><sub>6,2,4,1</sub> | 3.5<br><sub>o 37% · u 63%</sub> | 1.2 | 0.3 | 2.4 | 29.7 |
-| Jrue Holiday (POR) | 98% | 30.3<br><sub>21,26,30,24</sub> | 15.4<br><sub>8,12,22,6</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 4.7<br><sub>4,1,4,6</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 6.2<br><sub>1,8,3,4</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 2.4<br><sub>0,3,2,2</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 1.1 | 0.3 | 2.3 | 26.2 |
-| Toumani Camara (POR) | 98% | 29.7<br><sub>23,27,24,26</sub> | 12.8<br><sub>18,19,12,13</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 4.6<br><sub>2,3,1,2</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 2.1<br><sub>3,1,1,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 2.3<br><sub>4,5,4,3</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.5 | 1.4 | 19.5 |
-| Donovan Clingan (POR) | 98% | 27.2<br><sub>21,21,26,29</sub> | 12.0<br><sub>11,8,9,11</sub> | 11.5 · –<br><sub>o 48% · u 52%</sub> | 10.9<br><sub>7,10,10,8</sub> | 11.5<br><sub>o 47% · u 53%</sub> | 2.3<br><sub>2,3,1,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.2<br><sub>2,0,2,1</sub> | 0.5<br><sub>o 67% · u 33%</sub> | 0.6 | 2.4 | 1.4 | 25.2 |
-| Scoot Henderson (POR) | 98% | 23.8<br><sub>19,21,17,19</sub> | 12.7<br><sub>15,4,2,9</sub> | 14.5 · –<br><sub>o 48% · u 52%</sub> | 2.7<br><sub>2,1,2,4</sub> | 2.5<br><sub>o 54% · u 46%</sub> | 3.2<br><sub>1,2,3,0</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.6<br><sub>1,0,0,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.1 | 0.2 | 2.4 | 18.5 |
-| Sidy Cissoko (POR) | 96% | 22.5<br><sub>25,26,20,19</sub> | 6.6<br><sub>3,15,6,4</sub> |  | 3.2<br><sub>4,7,2,6</sub> |  | 2.1<br><sub>3,1,4,2</sub> |  | 0.8<br><sub>1,2,0,0</sub> |  | 0.9 | 0.4 | 1.1 | 12.0 |
-| Robert Williams III (POR) | 100% | 21.0<br><sub>15,18,21,-</sub> | 8.6<br><sub>2,13,14,-</sub> | 6.5 · – | 8.0<br><sub>10,6,10,-</sub> | 6.5 | 1.5<br><sub>1,0,1,-</sub> |  | 0.2<br><sub>0,0,0,-</sub> |  | 0.7 | 1.7 | 1.1 | 18.1 |
-| Micah Potter (POR) | 63% | 13.1<br><sub>12,-,-,9</sub> | 5.7<br><sub>4,-,-,1</sub> |  | 3.6<br><sub>3,-,-,2</sub> |  | 0.9<br><sub>0,-,-,0</sub> |  | 0.6<br><sub>0,-,-,0</sub> |  | 0.4 | 0.3 | 0.8 | 10.2 |
-| Vit Krejci (POR) | 96% | 12.7<br><sub>15,3,7,8</sub> | 4.8<br><sub>1,0,4,2</sub> |  | 1.7<br><sub>2,2,0,0</sub> |  | 1.2<br><sub>3,0,0,1</sub> |  | 0.7<br><sub>0,0,1,0</sub> |  | 0.5 | 0.2 | 0.5 | 7.7 |
-| Branden Carlson (POR) | 48% | 12.3<br><sub>-,-,-,12</sub> | 4.4<br><sub>-,-,-,2</sub> |  | 2.5<br><sub>-,-,-,2</sub> |  | 0.8<br><sub>-,-,-,1</sub> |  | 0.3<br><sub>-,-,-,0</sub> |  | 0.5 | 1.3 | 1.8 | 7.8 |
-| Yang Hansen (POR) | 58% | 8.1<br><sub>12,-,-,5</sub> | 3.0<br><sub>5,-,-,3</sub> |  | 2.0<br><sub>3,-,-,2</sub> |  | 0.5<br><sub>0,-,-,1</sub> |  | 0.2<br><sub>1,-,-,1</sub> |  | 0.2 | 0.3 | 0.7 | 5.5 |
-| Keyonte George (UTA) | 98% | 34.1<br><sub>29,32,33,33,37</sub> | 25.9<br><sub>22,19,24,26,31</sub> | 22.5 · –<br><sub>o 52% · u 48%</sub> | 3.8<br><sub>3,1,9,3,4</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 7.0<br><sub>5,10,10,6,3</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.5<br><sub>4,3,2,0,5</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 1.0 | 0.2 | 3.9 | 36.6 |
-| Ace Bailey (UTA) | 98% | 34.0<br><sub>24,22,29,34,40</sub> | 16.8<br><sub>12,6,17,17,19</sub> | 14.5 · –<br><sub>o 50% · u 50%</sub> | 6.5<br><sub>5,7,12,10,6</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 2.9<br><sub>3,2,4,3,0</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 2.1<br><sub>2,1,1,3,1</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 1.4 | 2.3 | 26.2 |
-| Jaxson Hayes (UTA) | 98% | 30.7<br><sub>26,26,19,-,37</sub> | 10.5<br><sub>5,17,9,-,2</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 7.1<br><sub>5,5,5,-,11</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 2.2<br><sub>3,2,1,-,4</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.1<br><sub>0,0,0,-,0</sub> |  | 0.9 | 1.5 | 1.3 | 19.8 |
-| Darryn Peterson (UTA) | 96% | 30.7<br><sub>31,30,30,26,26</sub> | 15.0<br><sub>9,15,8,14,18</sub> | 14.5 · –<br><sub>o 46% · u 54%</sub> | 4.7<br><sub>4,3,3,7,5</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 3.4<br><sub>3,1,2,4,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.2<br><sub>0,1,0,3,3</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 1.1 | 0.4 | 1.7 | 23.1 |
-| Isaiah Collier (UTA) | 96% | 24.7<br><sub>16,18,13,21,24</sub> | 12.7<br><sub>7,10,6,7,7</sub> |  | 3.3<br><sub>3,2,3,8,7</sub> |  | 7.1<br><sub>3,7,6,8,6</sub> |  | 0.6<br><sub>0,0,0,0,0</sub> |  | 1.0 | 0.3 | 2.6 | 23.1 |
-| Josh Okogie (UTA) | 86% | 23.5<br><sub>8,-,10,21,28</sub> | 5.3<br><sub>0,-,2,0,5</sub> |  | 4.0<br><sub>1,-,2,2,9</sub> |  | 1.4<br><sub>0,-,2,0,3</sub> |  | 0.6<br><sub>0,-,0,0,1</sub> |  | 1.1 | 0.4 | 0.8 | 10.6 |
-| Josh Green (UTA) | 72% | 21.4<br><sub>-,-,3,25,24</sub> | 4.7<br><sub>-,-,0,6,2</sub> |  | 2.3<br><sub>-,-,0,4,2</sub> |  | 1.3<br><sub>-,-,1,1,2</sub> |  | 0.6<br><sub>-,-,0,1,0</sub> |  | 0.9 | 0.2 | 0.8 | 8.2 |
-| Brice Sensabaugh (UTA) | 98% | 20.7<br><sub>14,16,17,9,18</sub> | 12.1<br><sub>2,10,7,11,16</sub> |  | 3.0<br><sub>2,3,6,2,3</sub> |  | 1.9<br><sub>1,2,1,0,1</sub> |  | 1.6<br><sub>0,2,1,3,4</sub> |  | 0.6 | 0.2 | 1.7 | 17.1 |
-| Mo Bamba (UTA) | 52% | 19.4<br><sub>-,-,-,29,16</sub> | 6.9<br><sub>-,-,-,14,8</sub> |  | 6.8<br><sub>-,-,-,7,4</sub> |  | 0.9<br><sub>-,-,-,1,1</sub> |  | 0.4<br><sub>-,-,-,0,0</sub> |  | 0.5 | 1.4 | 1.0 | 14.7 |
-| Svi Mykhailiuk (UTA) | 88% | 18.7<br><sub>19,21,14,13,15</sub> | 7.0<br><sub>10,3,2,0,3</sub> |  | 2.2<br><sub>1,4,3,1,2</sub> |  | 1.4<br><sub>2,1,0,0,1</sub> |  | 1.0<br><sub>2,0,0,0,1</sub> |  | 0.6 | 0.1 | 0.8 | 10.6 |
-| Kyle Filipowski (UTA) | 58% | 14.8<br><sub>9,8,-,8,-</sub> | 7.8<br><sub>3,0,-,0,-</sub> |  | 4.7<br><sub>0,1,-,1,-</sub> |  | 1.8<br><sub>0,0,-,0,-</sub> |  | 0.6<br><sub>0,0,-,0,-</sub> |  | 0.7 | 0.3 | 1.2 | 14.4 |
-| Tony Bradley (UTA) | 48% | 9.7<br><sub>-,-,-,6,-</sub> | 3.5<br><sub>-,-,-,2,-</sub> |  | 3.0<br><sub>-,-,-,1,-</sub> |  | 0.5<br><sub>-,-,-,0,-</sub> |  | 0.1<br><sub>-,-,-,0,-</sub> |  | 0.3 | 0.4 | 0.6 | 7.0 |
+| Deni Avdija (POR) | 98% | 34.1<br><sub>23,38,33,32</sub> | 27.0<br><sub>18,26,23,24</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>10,7,4,9</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 7.4<br><sub>4,6,9,7</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 1.9<br><sub>2,1,4,0</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.9 | 0.7 | 4.1 | 41.6 |
+| Damian Lillard (POR) | 98% | 31.7<br><sub>24,33,31,30</sub> | 18.7<br><sub>25,19,21,9</sub> | 23.5 · –<br><sub>o 43% · u 57%</sub> | 4.2<br><sub>3,5,5,2</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 6.2<br><sub>6,2,4,2</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 2.6<br><sub>6,2,4,1</sub> | 3.5<br><sub>o 37% · u 63%</sub> | 1.1 | 0.3 | 2.3 | 29.0 |
+| Jrue Holiday (POR) | 98% | 30.1<br><sub>21,26,30,24</sub> | 15.4<br><sub>8,12,22,6</sub> | 13.5 · –<br><sub>o 52% · u 48%</sub> | 4.7<br><sub>4,1,4,6</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 6.0<br><sub>1,8,3,4</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 2.4<br><sub>0,3,2,2</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.1 | 0.3 | 2.3 | 26.1 |
+| Toumani Camara (POR) | 98% | 29.7<br><sub>23,27,24,26</sub> | 12.8<br><sub>18,19,12,13</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 4.6<br><sub>2,3,1,2</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 2.0<br><sub>3,1,1,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 2.4<br><sub>4,5,4,3</sub> | 2.5<br><sub>o 42% · u 57%</sub> | 1.1 | 0.5 | 1.4 | 19.5 |
+| Donovan Clingan (POR) | 98% | 27.1<br><sub>21,21,26,29</sub> | 12.0<br><sub>11,8,9,11</sub> | 11.5 · –<br><sub>o 49% · u 51%</sub> | 10.9<br><sub>7,10,10,8</sub> | 11.5<br><sub>o 46% · u 54%</sub> | 2.3<br><sub>2,3,1,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.2<br><sub>2,0,2,1</sub> | 0.5<br><sub>o 67% · u 33%</sub> | 0.5 | 2.3 | 1.3 | 25.2 |
+| Scoot Henderson (POR) | 98% | 23.7<br><sub>19,21,17,19</sub> | 12.5<br><sub>15,4,2,9</sub> | 14.5 · –<br><sub>o 47% · u 53%</sub> | 2.6<br><sub>2,1,2,4</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 3.2<br><sub>1,2,3,0</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.6<br><sub>1,0,0,1</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.1 | 0.2 | 2.4 | 18.4 |
+| Sidy Cissoko (POR) | 96% | 22.4<br><sub>25,26,20,19</sub> | 6.6<br><sub>3,15,6,4</sub> |  | 3.2<br><sub>4,7,2,6</sub> |  | 2.0<br><sub>3,1,4,2</sub> |  | 0.8<br><sub>1,2,0,0</sub> |  | 0.9 | 0.4 | 1.1 | 11.8 |
+| Robert Williams III (POR) | 98% | 20.8<br><sub>15,18,21,-</sub> | 8.5<br><sub>2,13,14,-</sub> | 6.5 · –<br><sub>o 53% · u 47%</sub> | 8.0<br><sub>10,6,10,-</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 1.5<br><sub>1,0,1,-</sub> |  | 0.2<br><sub>0,0,0,-</sub> |  | 0.7 | 1.7 | 1.1 | 18.0 |
+| Micah Potter (POR) | 63% | 13.0<br><sub>12,-,-,9</sub> | 5.5<br><sub>4,-,-,1</sub> |  | 3.5<br><sub>3,-,-,2</sub> |  | 0.9<br><sub>0,-,-,0</sub> |  | 0.6<br><sub>0,-,-,0</sub> |  | 0.4 | 0.3 | 0.8 | 10.0 |
+| Vit Krejci (POR) | 96% | 12.6<br><sub>15,3,7,8</sub> | 4.7<br><sub>1,0,4,2</sub> |  | 1.6<br><sub>2,2,0,0</sub> |  | 1.2<br><sub>3,0,0,1</sub> |  | 0.7<br><sub>0,0,1,0</sub> |  | 0.5 | 0.2 | 0.5 | 7.6 |
+| Branden Carlson (POR) | 48% | 12.1<br><sub>-,-,-,12</sub> | 4.3<br><sub>-,-,-,2</sub> |  | 2.5<br><sub>-,-,-,2</sub> |  | 0.8<br><sub>-,-,-,1</sub> |  | 0.3<br><sub>-,-,-,0</sub> |  | 0.5 | 1.2 | 1.8 | 7.7 |
+| Yang Hansen (POR) | 58% | 7.7<br><sub>12,-,-,5</sub> | 2.9<br><sub>5,-,-,3</sub> |  | 1.9<br><sub>3,-,-,2</sub> |  | 0.5<br><sub>0,-,-,1</sub> |  | 0.2<br><sub>1,-,-,1</sub> |  | 0.2 | 0.3 | 0.7 | 5.3 |
+| Chris Youngblood (POR) | 52% | 7.5 | 3.0 |  | 1.1 |  | 0.6 |  | 0.4 |  | 0.3 | 0.1 | 0.3 | 4.7 |
+| Keyonte George (UTA) | 98% | 33.2<br><sub>29,32,33,33,37</sub> | 23.4<br><sub>22,19,24,26,31</sub> | 22.5 · –<br><sub>o 52% · u 48%</sub> | 3.7<br><sub>3,1,9,3,4</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 6.6<br><sub>5,10,10,6,3</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.4<br><sub>4,3,2,0,5</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 0.9 | 0.2 | 3.5 | 33.7 |
+| Ace Bailey (UTA) | 98% | 32.3<br><sub>24,22,29,34,40</sub> | 14.5<br><sub>12,6,17,17,19</sub> | 14.5 · –<br><sub>o 50% · u 50%</sub> | 6.0<br><sub>5,7,12,10,6</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 2.6<br><sub>3,2,4,3,0</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 1.9<br><sub>2,1,1,3,1</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.9 | 1.3 | 1.9 | 23.2 |
+| Lauri Markkanen (UTA) | 100% | 30.4<br><sub>36,34,38,6,-</sub> | 20.2<br><sub>18,16,28,2,-</sub> | 21.5 · – | 6.4<br><sub>9,6,7,0,-</sub> | 6.5 | 2.2<br><sub>3,3,1,0,-</sub> | 1.5 | 2.1<br><sub>1,4,5,0,-</sub> | 2.5 | 0.8 | 0.5 | 1.7 | 28.7 |
+| Darryn Peterson (UTA) | 96% | 28.6<br><sub>31,30,30,26,26</sub> | 12.7<br><sub>9,15,8,14,18</sub> | 14.5 · –<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>4,3,3,7,5</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.9<br><sub>3,1,2,4,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.0<br><sub>0,1,0,3,3</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 1.0 | 0.3 | 1.6 | 19.9 |
+| Jaxson Hayes (UTA) | 98% | 28.0<br><sub>26,26,19,-,37</sub> | 9.3<br><sub>5,17,9,-,2</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 6.8<br><sub>5,5,5,-,11</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 2.0<br><sub>3,2,1,-,4</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.1<br><sub>0,0,0,-,0</sub> |  | 0.8 | 1.4 | 1.1 | 18.2 |
+| Isaiah Collier (UTA) | 96% | 21.9<br><sub>16,18,13,21,24</sub> | 10.2<br><sub>7,10,6,7,7</sub> |  | 3.0<br><sub>3,2,3,8,7</sub> |  | 6.3<br><sub>3,7,6,8,6</sub> |  | 0.5<br><sub>0,0,0,0,0</sub> |  | 0.9 | 0.3 | 2.2 | 19.5 |
+| Josh Okogie (UTA) | 86% | 19.9<br><sub>8,-,10,21,28</sub> | 4.3<br><sub>0,-,2,0,5</sub> |  | 3.5<br><sub>1,-,2,2,9</sub> |  | 1.2<br><sub>0,-,2,0,3</sub> |  | 0.5<br><sub>0,-,0,0,1</sub> |  | 1.0 | 0.3 | 0.7 | 9.1 |
+| Josh Green (UTA) | 72% | 18.4<br><sub>-,-,3,25,24</sub> | 4.0<br><sub>-,-,0,6,2</sub> |  | 2.0<br><sub>-,-,0,4,2</sub> |  | 1.1<br><sub>-,-,1,1,2</sub> |  | 0.4<br><sub>-,-,0,1,0</sub> |  | 0.8 | 0.2 | 0.7 | 7.1 |
+| Brice Sensabaugh (UTA) | 98% | 18.1<br><sub>14,16,17,9,18</sub> | 9.8<br><sub>2,10,7,11,16</sub> |  | 2.7<br><sub>2,3,6,2,3</sub> |  | 1.7<br><sub>1,2,1,0,1</sub> |  | 1.3<br><sub>0,2,1,3,4</sub> |  | 0.6 | 0.2 | 1.4 | 14.2 |
+| Mo Bamba (UTA) | 52% | 17.2<br><sub>-,-,-,29,16</sub> | 6.0<br><sub>-,-,-,14,8</sub> |  | 6.0<br><sub>-,-,-,7,4</sub> |  | 0.8<br><sub>-,-,-,1,1</sub> |  | 0.4<br><sub>-,-,-,0,0</sub> |  | 0.4 | 1.3 | 0.8 | 12.9 |
+| Svi Mykhailiuk (UTA) | 88% | 16.0<br><sub>19,21,14,13,15</sub> | 5.3<br><sub>10,3,2,0,3</sub> |  | 1.9<br><sub>1,4,3,1,2</sub> |  | 1.2<br><sub>2,1,0,0,1</sub> |  | 0.8<br><sub>2,0,0,0,1</sub> |  | 0.5 | 0.1 | 0.6 | 8.4 |
+| Kyle Filipowski (UTA) | 58% | 12.7<br><sub>9,8,-,8,-</sub> | 6.2<br><sub>3,0,-,0,-</sub> |  | 4.0<br><sub>0,1,-,1,-</sub> |  | 1.5<br><sub>0,0,-,0,-</sub> |  | 0.5<br><sub>0,0,-,0,-</sub> |  | 0.6 | 0.3 | 1.0 | 11.6 |
+| Tony Bradley (UTA) | 48% | 8.2<br><sub>-,-,-,6,-</sub> | 2.9<br><sub>-,-,-,2,-</sub> |  | 2.6<br><sub>-,-,-,1,-</sub> |  | 0.4<br><sub>-,-,-,0,-</sub> |  | 0.1<br><sub>-,-,-,0,-</sub> |  | 0.2 | 0.3 | 0.5 | 6.0 |
 
 </details>
 
@@ -373,15 +344,15 @@ Out: Yves Missi (NOP), Jordan Poole (NOP), Mouhamed Gueye (ATL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Trey Murphy III | 98% | 34.2<br><sub>32,31,37,30,32</sub> | 17.6<br><sub>11,9,26,6,19</sub> | 16.5 · –<br><sub>o 50% · u 50%</sub> | 5.5<br><sub>4,6,6,1,5</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 3.3<br><sub>1,3,4,3,3</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 2.7<br><sub>2,1,4,2,2</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 1.4 | 0.6 | 1.6 | 26.4 |
-| Dejounte Murray | 98% | 32.5<br><sub>34,30,35,30,-</sub> | 17.9<br><sub>23,16,22,10,-</sub> | 17.5 · –<br><sub>o 47% · u 53%</sub> | 6.1<br><sub>3,6,6,8,-</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 6.8<br><sub>7,6,6,5,-</sub> | 5.5<br><sub>o 58% · u 42%</sub> | 1.6<br><sub>2,0,1,0,-</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.8 | 0.4 | 3.4 | 30.8 |
-| Zion Williamson | 96% | 32.2<br><sub>32,33,33,32,31</sub> | 21.1<br><sub>22,23,17,25,22</sub> | 21.5 · –<br><sub>o 49% · u 51%</sub> | 6.2<br><sub>3,5,1,5,6</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 3.0<br><sub>3,2,2,2,2</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 0.2<br><sub>2,0,0,1,0</sub> |  | 1.3 | 0.8 | 2.3 | 30.2 |
-| Jeremiah Fears | 98% | 26.8<br><sub>21,24,23,24,29</sub> | 14.9<br><sub>8,7,10,11,22</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 4.0<br><sub>3,0,6,4,8</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 3.9<br><sub>1,1,2,3,13</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.4<br><sub>1,1,0,1,3</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.6 | 2.5 | 22.8 |
-| Saddiq Bey | 96% | 26.6<br><sub>24,22,25,26,24</sub> | 13.9<br><sub>13,20,14,9,10</sub> | 12.5 · –<br><sub>o 53% · u 47%</sub> | 4.6<br><sub>5,3,4,0,4</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 2.0<br><sub>0,1,3,3,3</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.7<br><sub>2,3,2,1,1</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.8 | 0.1 | 1.0 | 20.5 |
-| Derik Queen | 98% | 23.7<br><sub>18,29,25,25,22</sub> | 10.9<br><sub>10,12,17,11,9</sub> | 11.5 · –<br><sub>o 45% · u 55%</sub> | 7.2<br><sub>10,7,8,12,2</sub> | 6.5<br><sub>o 53% · u 47%</sub> | 2.6<br><sub>1,2,2,1,3</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 0.4<br><sub>0,1,0,0,1</sub> |  | 1.0 | 1.0 | 2.1 | 20.8 |
+| Trey Murphy III | 98% | 34.2<br><sub>32,31,37,30,32</sub> | 17.6<br><sub>11,9,26,6,19</sub> | 16.5 · –<br><sub>o 50% · u 50%</sub> | 5.5<br><sub>4,6,6,1,5</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 3.3<br><sub>1,3,4,3,3</sub> | 3.5<br><sub>o 40% · u 60%</sub> | 2.7<br><sub>2,1,4,2,2</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 1.4 | 0.6 | 1.6 | 26.4 |
+| Dejounte Murray | 98% | 32.5<br><sub>34,30,35,30,-</sub> | 17.9<br><sub>23,16,22,10,-</sub> | 17.5 · –<br><sub>o 47% · u 53%</sub> | 6.1<br><sub>3,6,6,8,-</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 6.8<br><sub>7,6,6,5,-</sub> | 5.5<br><sub>o 58% · u 42%</sub> | 1.6<br><sub>2,0,1,0,-</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.8 | 0.4 | 3.4 | 30.8 |
+| Zion Williamson | 96% | 32.2<br><sub>32,33,33,32,31</sub> | 21.1<br><sub>22,23,17,25,22</sub> | 21.5 · –<br><sub>o 49% · u 51%</sub> | 6.2<br><sub>3,5,1,5,6</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 3.0<br><sub>3,2,2,2,2</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 0.2<br><sub>2,0,0,1,0</sub> |  | 1.3 | 0.8 | 2.3 | 30.2 |
+| Jeremiah Fears | 98% | 26.8<br><sub>21,24,23,24,29</sub> | 14.9<br><sub>8,7,10,11,22</sub> | 12.5 · –<br><sub>o 54% · u 46%</sub> | 4.0<br><sub>3,0,6,4,8</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 3.9<br><sub>1,1,2,3,13</sub> | 2.5<br><sub>o 62% · u 38%</sub> | 1.4<br><sub>1,1,0,1,3</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.6 | 2.5 | 22.8 |
+| Saddiq Bey | 96% | 26.6<br><sub>24,22,25,26,24</sub> | 13.9<br><sub>13,20,14,9,10</sub> | 13.5 · –<br><sub>o 46% · u 54%</sub> | 4.6<br><sub>5,3,4,0,4</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 2.0<br><sub>0,1,3,3,3</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.7<br><sub>2,3,2,1,1</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.8 | 0.1 | 1.0 | 20.5 |
+| Derik Queen | 98% | 23.7<br><sub>18,29,25,25,22</sub> | 10.9<br><sub>10,12,17,11,9</sub> | 11.5 · –<br><sub>o 45% · u 55%</sub> | 7.2<br><sub>10,7,8,12,2</sub> | 7.5<br><sub>o 44% · u 56%</sub> | 2.6<br><sub>1,2,2,1,3</sub> | 2.5<br><sub>o 44% · u 56%</sub> | 0.4<br><sub>0,1,0,0,1</sub> |  | 1.0 | 1.0 | 2.1 | 20.8 |
 | Herbert Jones | 96% | 23.6<br><sub>17,18,16,19,32</sub> | 7.4<br><sub>5,3,2,4,16</sub> | 6.5 · –<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>2,1,3,2,4</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 2.0<br><sub>0,0,1,0,1</sub> |  | 0.9<br><sub>1,1,0,0,0</sub> |  | 1.3 | 0.4 | 1.2 | 12.2 |
 | Bennedict Mathurin | 98% | 18.3<br><sub>18,15,20,14,19</sub> | 9.1<br><sub>11,4,9,5,10</sub> |  | 3.5<br><sub>3,2,4,1,3</sub> |  | 1.6<br><sub>2,0,4,2,2</sub> |  | 0.7<br><sub>0,0,1,1,2</sub> |  | 0.6 | 0.2 | 1.3 | 14.1 |
-| Karlo Matkovic | 88% | 18.0<br><sub>-,9,8,18,28</sub> | 6.7<br><sub>-,7,3,5,12</sub> | 8.5 · –<br><sub>o 42% · u 58%</sub> | 4.5<br><sub>-,4,0,3,4</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 1.0<br><sub>-,1,0,1,1</sub> |  | 0.6<br><sub>-,0,1,1,1</sub> |  | 0.6 | 1.1 | 0.9 | 12.2 |
+| Karlo Matkovic | 88% | 18.0<br><sub>-,9,8,18,28</sub> | 6.7<br><sub>-,7,3,5,12</sub> | 8.5 · –<br><sub>o 42% · u 58%</sub> | 4.5<br><sub>-,4,0,3,4</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 1.0<br><sub>-,1,0,1,1</sub> |  | 0.6<br><sub>-,0,1,1,1</sub> |  | 0.6 | 1.1 | 0.9 | 12.2 |
 | Trendon Watford | 48% | 13.7<br><sub>-,-,-,-,17</sub> | 5.6<br><sub>-,-,-,-,8</sub> |  | 2.6<br><sub>-,-,-,-,1</sub> |  | 1.6<br><sub>-,-,-,-,2</sub> |  | 0.1<br><sub>-,-,-,-,0</sub> |  | 0.4 | 0.4 | 1.0 | 9.8 |
 | DeAndre Jordan | 52% | 12.8<br><sub>-,-,20,13,-</sub> | 3.5<br><sub>-,-,9,3,-</sub> |  | 5.2<br><sub>-,-,9,4,-</sub> |  | 0.8<br><sub>-,-,2,0,-</sub> |  | 0.0<br><sub>-,-,0,0,-</sub> |  | 0.3 | 0.7 | 0.7 | 9.5 |
 | AJ Johnson | 5% | 12.3<br><sub>-,-,-,-,-</sub> | 5.3<br><sub>-,-,-,-,-</sub> |  | 2.2<br><sub>-,-,-,-,-</sub> |  | 1.1<br><sub>-,-,-,-,-</sub> |  | 0.4<br><sub>-,-,-,-,-</sub> |  | 0.4 | 0.2 | 0.6 | 8.6 |
@@ -539,7 +510,7 @@ Out: Jaylon Tyson (CLE)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyler Herro | 98% | 31.6<br><sub>32,32,31,32,27</sub> | 19.1<br><sub>24,34,13,23,23</sub> | 21.5 · –<br><sub>o 45% · u 55%</sub> | 4.5<br><sub>2,5,6,10,3</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 4.7<br><sub>9,4,3,7,0</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.4<br><sub>4,5,1,3,4</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 0.9 | 0.2 | 2.3 | 28.3 |
+| Tyler Herro | 98% | 31.6<br><sub>32,32,31,32,27</sub> | 19.1<br><sub>24,34,13,23,23</sub> | 21.5 · –<br><sub>o 45% · u 55%</sub> | 4.5<br><sub>2,5,6,10,3</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 4.7<br><sub>9,4,3,7,0</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.4<br><sub>4,5,1,3,4</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 0.9 | 0.2 | 2.3 | 28.3 |
 | Ryan Rollins | 98% | 27.9<br><sub>24,34,25,32,17</sub> | 14.4<br><sub>9,11,15,19,4</sub> | 14.5 · –<br><sub>o 49% · u 51%</sub> | 3.9<br><sub>6,7,4,2,4</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 5.0<br><sub>3,6,4,4,5</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 2.0<br><sub>1,2,2,3,0</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 1.3 | 0.3 | 2.3 | 23.4 |
 | Jaime Jaquez Jr. | 98% | 26.5<br><sub>31,35,27,25,27</sub> | 14.3<br><sub>22,19,21,8,19</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 5.1<br><sub>7,11,8,6,4</sub> | 5.5<br><sub>o 47% · u 53%</sub> | 3.8<br><sub>2,5,4,0,2</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 1.1<br><sub>1,2,2,0,3</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 0.7 | 0.2 | 1.9 | 23.2 |
 | Kyle Kuzma | 98% | 25.2<br><sub>27,30,35,29,18</sub> | 11.6<br><sub>5,14,14,17,4</sub> | 11.5 · –<br><sub>o 49% · u 51%</sub> | 4.8<br><sub>6,9,12,7,6</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>3,4,3,3,1</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.3<br><sub>1,2,0,4,0</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 0.8 | 0.3 | 1.6 | 19.2 |
@@ -564,33 +535,36 @@ Out: Jaylon Tyson (CLE)
 ### MIN @ SAS
 Out: Tobias Harris (SAS), Donte DiVincenzo (MIN), Anthony Edwards (MIN)
 
-**Best player props (main lines)**
+| Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
+|---|--:|--:|--:|--:|--:|--:|
+| Confirmed players only | 107.9–118.3 | MIN 23% | 4.32 / 1.30 | SAS -10.5 | 226.5 | SAS -12.5 covers 44%; o225.5 51% |
+| Expected (weighted by chance each plays) | 107.9–118.2 | MIN 24% | 4.20 / 1.31 | SAS -10.5 | 225.5 | SAS -12.5 covers 44%; o225.5 51% |
+| if Rudy Gobert plays | 107.7–117.9 | MIN 24% | 4.23 / 1.31 | SAS -10.5 | 225.5 | SAS -12.5 covers 43%; o225.5 50% |
 
-| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| LaMelo Ball RA under 10.5 | MIN @ SAS | draftkings | 1.95 | 1.94 | 1.59 | 62.9% | 47.9% | 51.6% | +0.8% | +22.7% | 0.2% |
-| Ayo Dosunmu PR under 19.5 | MIN @ SAS | draftkings | 1.92 | 1.91 | 1.57 | 63.5% | 48.7% | 52.4% | +0.5% | +21.8% | 0.1% |
-| Ayo Dosunmu PRA under 23.5 | MIN @ SAS | draftkings | 1.90 | 1.90 | 1.58 | 63.3% | 49.2% | 52.7% | +0.2% | +20.3% | 0.1% |
+**Questionable players: chance to play, and their projection if they do**
+
+| Player | Status | Chance | Min | PTS | REB | AST | 3PM | STL | BLK | TOV | PRA | Effect on others |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Rudy Gobert (MIN) | Questionable | 55% | 30.5 | 8.8 | 10.3 | 1.8 | 0.0 | 0.8 | 1.1 | 1.3 | 21.0 | full tables below |
 
 <details><summary>MIN players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jaden McDaniels | 98% | 33.9<br><sub>30,31,37,35,33</sub> | 16.2<br><sub>15,14,14,19,23</sub> | 16.5 · –<br><sub>o 50% · u 50%</sub> | 5.4<br><sub>6,6,6,7,6</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>3,3,4,4,7</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.4<br><sub>2,1,2,1,1</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.0 | 0.9 | 1.7 | 24.4 |
-| Rudy Gobert | 98% | 30.5<br><sub>30,31,36,20,30</sub> | 8.9<br><sub>14,8,5,1,9</sub> | 8.5 · –<br><sub>o 49% · u 51%</sub> | 10.4<br><sub>9,13,20,4,13</sub> | 10.5<br><sub>o 51% · u 49%</sub> | 1.8<br><sub>1,0,2,1,4</sub> | 1.5<br><sub>o 49% · u 51%</sub> | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.8 | 1.1 | 1.3 | 21.0 |
-| Jonathan Kuminga | 98% | 30.3<br><sub>27,26,36,32,22</sub> | 13.5<br><sub>11,13,10,20,5</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 5.1<br><sub>8,4,10,3,1</sub> | 5.5<br><sub>o 43% · u 57%</sub> | 2.0<br><sub>5,1,1,5,0</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.4<br><sub>2,3,0,3,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 1.0 | 0.5 | 1.4 | 20.6 |
-| Ayo Dosunmu | 98% | 29.6<br><sub>27,23,26,32,30</sub> | 13.7<br><sub>14,9,9,17,15</sub> | 15.5 · –<br><sub>o 44% · u 56%</sub> | 4.1<br><sub>7,3,1,3,7</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 3.7<br><sub>10,3,0,4,2</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 1.5<br><sub>1,1,1,3,3</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 0.9 | 0.3 | 1.7 | 21.6 |
-| LaMelo Ball | 98% | 28.5<br><sub>23,17,31,28,29</sub> | 18.8<br><sub>12,15,11,8,24</sub> | 19.5 · –<br><sub>o 47% · u 53%</sub> | 4.0<br><sub>5,1,0,4,4</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 5.6<br><sub>5,8,6,8,7</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 3.1<br><sub>2,4,1,2,6</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.3 | 0.2 | 2.8 | 28.4 |
-| Terrence Shannon Jr. | 97% | 24.2<br><sub>22,23,24,27,20</sub> | 12.8<br><sub>13,15,14,19,11</sub> | 12.5 · –<br><sub>o 48% · u 52%</sub> | 2.8<br><sub>4,4,4,6,3</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 1.8<br><sub>1,3,5,2,2</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.4<br><sub>2,3,3,1,2</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 0.6 | 0.1 | 1.3 | 17.5 |
-| Bones Hyland | 96% | 16.8<br><sub>8,15,5,16,20</sub> | 8.6<br><sub>3,3,0,13,19</sub> | 8.5 · –<br><sub>o 47% · u 53%</sub> | 1.8<br><sub>1,3,1,1,0</sub> |  | 2.4<br><sub>0,2,2,3,8</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 1.3<br><sub>1,0,0,3,3</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 0.6 | 0.3 | 1.1 | 12.8 |
-| Joan Beringer | 91% | 16.7<br><sub>15,13,17,20,18</sub> | 6.8<br><sub>9,6,12,7,4</sub> |  | 5.4<br><sub>9,6,7,9,4</sub> |  | 0.6<br><sub>0,0,0,2,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.4 | 1.1 | 0.7 | 12.9 |
-| Trey Lyles | 98% | 16.2<br><sub>17,14,13,22,17</sub> | 5.1<br><sub>9,3,3,7,10</sub> |  | 3.5<br><sub>6,6,1,3,5</sub> |  | 0.9<br><sub>2,2,1,1,0</sub> |  | 0.6<br><sub>2,1,1,1,1</sub> |  | 0.5 | 0.2 | 0.5 | 9.5 |
-| Jaylen Clark | 80% | 13.5<br><sub>3,5,-,7,17</sub> | 4.5<br><sub>0,3,-,3,5</sub> |  | 1.7<br><sub>2,1,-,2,0</sub> |  | 0.9<br><sub>1,0,-,1,2</sub> |  | 0.5<br><sub>0,0,-,1,1</sub> |  | 0.7 | 0.1 | 0.5 | 7.1 |
-| Zyon Pullin | 64% | 8.7<br><sub>-,5,-,-,2</sub> | 3.5<br><sub>-,2,-,-,2</sub> |  | 1.0<br><sub>-,1,-,-,0</sub> |  | 1.1<br><sub>-,0,-,-,0</sub> |  | 0.2<br><sub>-,0,-,-,0</sub> |  | 0.2 | 0.1 | 0.5 | 5.6 |
-| Rocco Zikarsky | 16% | 7.0 | 2.4 |  | 2.2 |  | 0.4 |  | 0.0 |  | 0.2 | 0.6 | 0.3 | 5.0 |
-| Cody Williams | 58% | 6.4<br><sub>3,5,-,-,2</sub> | 0.3<br><sub>0,0,-,-,0</sub> |  | 0.2<br><sub>0,0,-,-,0</sub> |  | 0.4<br><sub>0,0,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.3 | 0.2 | 0.2 | 1.0 |
-| Isaiah Evans | 63% | 6.2<br><sub>2,4,-,-,2</sub> | 0.3<br><sub>0,0,-,-,0</sub> |  | 1.2<br><sub>0,0,-,-,0</sub> |  | 0.5<br><sub>1,1,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.2 | 0.1 | 0.3 | 2.0 |
-| Enrique Freeman | 16% | 6.1 | 1.9 |  | 1.3 |  | 0.3 |  | 0.1 |  | 0.2 | 0.2 | 0.3 | 3.5 |
+| Jaden McDaniels | 98% | 34.7<br><sub>30,31,37,35,33</sub> | 16.7<br><sub>15,14,14,19,23</sub> | 16.5 · –<br><sub>o 50% · u 50%</sub> | 5.5<br><sub>6,6,6,7,6</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>3,3,4,4,7</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.4<br><sub>2,1,2,1,1</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.1 | 0.9 | 1.8 | 25.1 |
+| Jonathan Kuminga | 98% | 32.0<br><sub>27,26,36,32,22</sub> | 14.7<br><sub>11,13,10,20,5</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 5.6<br><sub>8,4,10,3,1</sub> | 5.5<br><sub>o 44% · u 56%</sub> | 2.1<br><sub>5,1,1,5,0</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.5<br><sub>2,3,0,3,1</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.0 | 0.5 | 1.4 | 22.4 |
+| Ayo Dosunmu | 98% | 31.8<br><sub>27,23,26,32,30</sub> | 14.8<br><sub>14,9,9,17,15</sub> | 15.5 · –<br><sub>o 44% · u 56%</sub> | 4.4<br><sub>7,3,1,3,7</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 4.0<br><sub>10,3,0,4,2</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 1.6<br><sub>1,1,1,3,3</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 1.0 | 0.4 | 1.8 | 23.2 |
+| LaMelo Ball | 98% | 30.3<br><sub>23,17,31,28,29</sub> | 19.7<br><sub>12,15,11,8,24</sub> | 19.5 · –<br><sub>o 48% · u 52%</sub> | 4.2<br><sub>5,1,0,4,4</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 5.8<br><sub>5,8,6,8,7</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 3.3<br><sub>2,4,1,2,6</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.3 | 0.2 | 3.0 | 29.7 |
+| Terrence Shannon Jr. | 97% | 27.0<br><sub>22,23,24,27,20</sub> | 14.1<br><sub>13,15,14,19,11</sub> | 12.5 · –<br><sub>o 49% · u 51%</sub> | 3.2<br><sub>4,4,4,6,3</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 2.0<br><sub>1,3,5,2,2</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.6<br><sub>2,3,3,1,2</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 0.6 | 0.1 | 1.4 | 19.3 |
+| Bones Hyland | 96% | 18.8<br><sub>8,15,5,16,20</sub> | 9.4<br><sub>3,3,0,13,19</sub> | 8.5 · –<br><sub>o 48% · u 52%</sub> | 2.1<br><sub>1,3,1,1,0</sub> |  | 2.4<br><sub>0,2,2,3,8</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 1.5<br><sub>1,0,0,3,3</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 0.6 | 0.3 | 1.1 | 14.0 |
+| Joan Beringer | 91% | 18.5<br><sub>15,13,17,20,18</sub> | 7.2<br><sub>9,6,12,7,4</sub> |  | 6.2<br><sub>9,6,7,9,4</sub> |  | 0.7<br><sub>0,0,0,2,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.5 | 1.2 | 0.8 | 14.1 |
+| Trey Lyles | 98% | 18.1<br><sub>17,14,13,22,17</sub> | 5.6<br><sub>9,3,3,7,10</sub> |  | 4.0<br><sub>6,6,1,3,5</sub> |  | 0.9<br><sub>2,2,1,1,0</sub> |  | 0.7<br><sub>2,1,1,1,1</sub> |  | 0.5 | 0.2 | 0.5 | 10.6 |
+| Jaylen Clark | 80% | 15.6<br><sub>3,5,-,7,17</sub> | 5.0<br><sub>0,3,-,3,5</sub> |  | 2.0<br><sub>2,1,-,2,0</sub> |  | 1.0<br><sub>1,0,-,1,2</sub> |  | 0.6<br><sub>0,0,-,1,1</sub> |  | 0.8 | 0.2 | 0.5 | 8.0 |
+| Zyon Pullin | 64% | 11.9<br><sub>-,5,-,-,2</sub> | 4.3<br><sub>-,2,-,-,2</sub> |  | 1.3<br><sub>-,1,-,-,0</sub> |  | 1.5<br><sub>-,0,-,-,0</sub> |  | 0.3<br><sub>-,0,-,-,0</sub> |  | 0.3 | 0.1 | 0.7 | 7.1 |
+| Rocco Zikarsky | 16% | 10.9 | 3.4 |  | 3.5 |  | 0.5 |  | 0.0 |  | 0.2 | 0.9 | 0.4 | 7.4 |
+| Enrique Freeman | 16% | 9.1 | 2.6 |  | 1.8 |  | 0.4 |  | 0.1 |  | 0.3 | 0.3 | 0.4 | 4.9 |
+| Cody Williams | 58% | 8.7<br><sub>3,5,-,-,2</sub> | 0.4<br><sub>0,0,-,-,0</sub> |  | 0.3<br><sub>0,0,-,-,0</sub> |  | 0.6<br><sub>0,0,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.4 | 0.2 | 0.3 | 1.3 |
+| Isaiah Evans | 63% | 8.5<br><sub>2,4,-,-,2</sub> | 0.4<br><sub>0,0,-,-,0</sub> |  | 1.7<br><sub>0,0,-,-,0</sub> |  | 0.6<br><sub>1,1,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.3 | 0.1 | 0.3 | 2.8 |
 
 </details>
 
@@ -601,18 +575,55 @@ Out: Tobias Harris (SAS), Donte DiVincenzo (MIN), Anthony Edwards (MIN)
 | Victor Wembanyama | 98% | 34.4<br><sub>34,32,29,27,39</sub> | 25.5<br><sub>12,25,23,29,36</sub> | 24.5 · –<br><sub>o 51% · u 49%</sub> | 11.4<br><sub>13,13,7,10,14</sub> | 11.5<br><sub>o 46% · u 54%</sub> | 3.2<br><sub>3,2,2,2,5</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.9<br><sub>0,2,2,0,4</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.2 | 3.6 | 2.8 | 40.0 |
 | Devin Vassell | 98% | 33.4<br><sub>31,36,32,24,38</sub> | 12.6<br><sub>7,10,11,14,21</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 4.7<br><sub>3,4,4,4,5</sub> | 3.5<br><sub>o 60% · u 40%</sub> | 2.9<br><sub>1,2,6,8,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.9<br><sub>1,2,1,4,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.2 | 0.5 | 1.0 | 20.1 |
 | De'Aaron Fox | 98% | 33.0<br><sub>32,34,28,26,39</sub> | 16.4<br><sub>14,19,19,11,14</sub> | 14.5 · –<br><sub>o 52% · u 48%</sub> | 4.2<br><sub>7,4,3,4,3</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 6.2<br><sub>7,9,9,6,4</sub> | 5.5<br><sub>o 52% · u 48%</sub> | 1.5<br><sub>0,2,2,2,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 1.5 | 0.4 | 2.2 | 26.8 |
-| Stephon Castle | 98% | 32.5<br><sub>28,33,28,27,38</sub> | 17.9<br><sub>24,15,19,15,14</sub> | 16.5 · –<br><sub>o 52% · u 48%</sub> | 5.5<br><sub>7,7,4,5,6</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 6.3<br><sub>1,5,8,5,8</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 1.7<br><sub>5,3,3,3,1</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.2 | 0.3 | 3.1 | 29.7 |
-| Dylan Harper | 98% | 31.8<br><sub>32,36,28,30,37</sub> | 16.6<br><sub>18,20,22,13,13</sub> | 15.5 · –<br><sub>o 50% · u 50%</sub> | 5.6<br><sub>7,3,5,6,5</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 4.1<br><sub>5,2,2,6,8</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 1.2<br><sub>0,1,3,0,2</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 1.1 | 0.4 | 1.8 | 26.3 |
-| Julian Champagnie | 98% | 28.3<br><sub>30,25,28,25,31</sub> | 9.9<br><sub>8,6,12,26,6</sub> | 9.5 · –<br><sub>o 48% · u 52%</sub> | 4.8<br><sub>3,0,5,3,6</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 1.4<br><sub>1,0,3,3,0</sub> |  | 1.8<br><sub>2,2,3,8,2</sub> | 2.5<br><sub>o 36% · u 64%</sub> | 0.9 | 0.6 | 0.8 | 16.1 |
-| Keldon Johnson | 98% | 20.8<br><sub>20,19,26,22,23</sub> | 10.0<br><sub>10,8,7,14,9</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 4.2<br><sub>4,6,6,4,6</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 1.1<br><sub>1,1,3,0,2</sub> |  | 0.7<br><sub>1,0,0,0,0</sub> | 0.5<br><sub>o 57% · u 43%</sub> | 0.6 | 0.2 | 0.9 | 15.3 |
+| Stephon Castle | 98% | 32.5<br><sub>28,33,28,27,38</sub> | 18.0<br><sub>24,15,19,15,14</sub> | 16.5 · –<br><sub>o 52% · u 48%</sub> | 5.5<br><sub>7,7,4,5,6</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 6.3<br><sub>1,5,8,5,8</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 1.7<br><sub>5,3,3,3,1</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.2 | 0.3 | 3.1 | 29.8 |
+| Dylan Harper | 98% | 31.8<br><sub>32,36,28,30,37</sub> | 16.6<br><sub>18,20,22,13,13</sub> | 15.5 · –<br><sub>o 50% · u 50%</sub> | 5.6<br><sub>7,3,5,6,5</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 4.1<br><sub>5,2,2,6,8</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 1.2<br><sub>0,1,3,0,2</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 1.1 | 0.4 | 1.9 | 26.3 |
+| Julian Champagnie | 98% | 28.3<br><sub>30,25,28,25,31</sub> | 9.9<br><sub>8,6,12,26,6</sub> | 9.5 · –<br><sub>o 48% · u 52%</sub> | 4.8<br><sub>3,0,5,3,6</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 1.4<br><sub>1,0,3,3,0</sub> |  | 1.8<br><sub>2,2,3,8,2</sub> | 2.5<br><sub>o 36% · u 64%</sub> | 1.0 | 0.6 | 0.8 | 16.1 |
+| Keldon Johnson | 98% | 20.8<br><sub>20,19,26,22,23</sub> | 10.0<br><sub>10,8,7,14,9</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 4.3<br><sub>4,6,6,4,6</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 1.1<br><sub>1,1,3,0,2</sub> |  | 0.7<br><sub>1,0,0,0,0</sub> | 0.5<br><sub>o 57% · u 43%</sub> | 0.6 | 0.2 | 0.9 | 15.3 |
 | Luke Kornet | 98% | 13.9<br><sub>13,16,14,17,14</sub> | 3.3<br><sub>4,7,0,0,1</sub> |  | 4.0<br><sub>1,3,4,4,6</sub> |  | 0.9<br><sub>0,0,1,1,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.5 | 0.7 | 0.5 | 8.2 |
-| Harrison Barnes | 67% | 8.6<br><sub>9,5,4,14,-</sub> | 2.8<br><sub>3,0,0,3,-</sub> |  | 1.1<br><sub>0,0,0,0,-</sub> |  | 0.5<br><sub>0,0,0,0,-</sub> |  | 0.2<br><sub>1,0,0,0,-</sub> |  | 0.2 | 0.1 | 0.3 | 4.3 |
-| Carter Bryant | 98% | 8.2<br><sub>6,4,10,17,5</sub> | 2.6<br><sub>0,0,4,1,3</sub> |  | 1.4<br><sub>0,0,1,1,0</sub> |  | 0.5<br><sub>1,0,0,2,0</sub> |  | 0.2<br><sub>0,0,0,0,1</sub> |  | 0.2 | 0.2 | 0.4 | 4.5 |
-| Maliq Brown | 80% | 6.9<br><sub>1,-,-,-,-</sub> | 0.4<br><sub>0,-,-,-,-</sub> |  | 0.3<br><sub>0,-,-,-,-</sub> |  | 2.4<br><sub>1,-,-,-,-</sub> |  | 0.0<br><sub>0,-,-,-,-</sub> |  | 0.1 | 0.3 | 0.4 | 3.1 |
-| Jordan McLaughlin | 52% | 6.4<br><sub>-,-,3,7,-</sub> | 2.1<br><sub>-,-,0,0,-</sub> |  | 0.9<br><sub>-,-,1,0,-</sub> |  | 0.9<br><sub>-,-,0,2,-</sub> |  | 0.1<br><sub>-,-,0,0,-</sub> |  | 0.4 | 0.1 | 0.3 | 4.0 |
+| Harrison Barnes | 67% | 8.6<br><sub>9,5,4,14,-</sub> | 2.7<br><sub>3,0,0,3,-</sub> |  | 1.1<br><sub>0,0,0,0,-</sub> |  | 0.5<br><sub>0,0,0,0,-</sub> |  | 0.2<br><sub>1,0,0,0,-</sub> |  | 0.2 | 0.1 | 0.3 | 4.3 |
+| Carter Bryant | 98% | 8.2<br><sub>6,4,10,17,5</sub> | 2.6<br><sub>0,0,4,1,3</sub> |  | 1.4<br><sub>0,0,1,1,0</sub> |  | 0.5<br><sub>1,0,0,2,0</sub> |  | 0.2<br><sub>0,0,0,0,1</sub> |  | 0.2 | 0.2 | 0.4 | 4.6 |
+| Maliq Brown | 80% | 6.9<br><sub>1,-,-,-,-</sub> | 0.4<br><sub>0,-,-,-,-</sub> |  | 0.3<br><sub>0,-,-,-,-</sub> |  | 2.4<br><sub>1,-,-,-,-</sub> |  | 0.0<br><sub>0,-,-,-,-</sub> |  | 0.1 | 0.3 | 0.4 | 3.0 |
+| Jordan McLaughlin | 52% | 6.3<br><sub>-,-,3,7,-</sub> | 2.1<br><sub>-,-,0,0,-</sub> |  | 0.9<br><sub>-,-,1,0,-</sub> |  | 1.0<br><sub>-,-,0,2,-</sub> |  | 0.1<br><sub>-,-,0,0,-</sub> |  | 0.4 | 0.1 | 0.3 | 4.0 |
 | Tarris Reed Jr. | 58% | 6.0<br><sub>1,-,7,5,-</sub> | 2.4<br><sub>0,-,2,4,-</sub> |  | 2.2<br><sub>0,-,3,5,-</sub> |  | 0.4<br><sub>0,-,0,0,-</sub> |  | 0.0<br><sub>0,-,0,0,-</sub> |  | 0.1 | 0.3 | 0.7 | 5.0 |
-| Ja'Kobi Gillespie | 88% | 5.9<br><sub>1,-,3,-,-</sub> | 4.2<br><sub>2,-,3,-,-</sub> |  | 0.2<br><sub>0,-,0,-,-</sub> |  | 0.6<br><sub>0,-,0,-,-</sub> |  | 0.5<br><sub>0,-,1,-,-</sub> |  | 0.1 | 0.1 | 0.3 | 5.0 |
-| David Jones Garcia | 52% | 5.8<br><sub>1,-,-,-,-</sub> | 2.5<br><sub>2,-,-,-,-</sub> |  | 1.1<br><sub>0,-,-,-,-</sub> |  | 1.0<br><sub>0,-,-,-,-</sub> |  | 0.1<br><sub>0,-,-,-,-</sub> |  | 0.3 | 0.1 | 0.4 | 4.6 |
+| Ja'Kobi Gillespie | 88% | 5.9<br><sub>1,-,3,-,-</sub> | 4.2<br><sub>2,-,3,-,-</sub> |  | 0.2<br><sub>0,-,0,-,-</sub> |  | 0.6<br><sub>0,-,0,-,-</sub> |  | 0.5<br><sub>0,-,1,-,-</sub> |  | 0.1 | 0.1 | 0.4 | 5.0 |
+| David Jones Garcia | 52% | 5.7<br><sub>1,-,-,-,-</sub> | 2.5<br><sub>2,-,-,-,-</sub> |  | 1.1<br><sub>0,-,-,-,-</sub> |  | 1.0<br><sub>0,-,-,-,-</sub> |  | 0.1<br><sub>0,-,-,-,-</sub> |  | 0.3 | 0.1 | 0.4 | 4.6 |
+
+</details>
+
+<details><summary>if Rudy Gobert plays: both teams</summary>
+
+| Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jaden McDaniels (MIN) | 98% | 33.9<br><sub>30,31,37,35,33</sub> | 16.4<br><sub>15,14,14,19,23</sub> | 16.5 · –<br><sub>o 50% · u 50%</sub> | 5.4<br><sub>6,6,6,7,6</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>3,3,4,4,7</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.4<br><sub>2,1,2,1,1</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.0 | 0.8 | 1.7 | 24.5 |
+| Rudy Gobert (MIN) | 100% | 30.5<br><sub>30,31,36,20,30</sub> | 8.8<br><sub>14,8,5,1,9</sub> | 8.5 · – | 10.3<br><sub>9,13,20,4,13</sub> | 10.5 | 1.8<br><sub>1,0,2,1,4</sub> | 1.5 | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.8 | 1.1 | 1.3 | 21.0 |
+| Jonathan Kuminga (MIN) | 98% | 30.3<br><sub>27,26,36,32,22</sub> | 13.4<br><sub>11,13,10,20,5</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 5.1<br><sub>8,4,10,3,1</sub> | 5.5<br><sub>o 44% · u 56%</sub> | 2.0<br><sub>5,1,1,5,0</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.4<br><sub>2,3,0,3,1</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 0.9 | 0.5 | 1.3 | 20.6 |
+| Ayo Dosunmu (MIN) | 98% | 29.4<br><sub>27,23,26,32,30</sub> | 13.8<br><sub>14,9,9,17,15</sub> | 15.5 · –<br><sub>o 44% · u 56%</sub> | 4.1<br><sub>7,3,1,3,7</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 3.6<br><sub>10,3,0,4,2</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 1.5<br><sub>1,1,1,3,3</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 0.9 | 0.3 | 1.7 | 21.5 |
+| LaMelo Ball (MIN) | 98% | 28.5<br><sub>23,17,31,28,29</sub> | 18.8<br><sub>12,15,11,8,24</sub> | 19.5 · –<br><sub>o 48% · u 52%</sub> | 4.0<br><sub>5,1,0,4,4</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 5.7<br><sub>5,8,6,8,7</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 3.1<br><sub>2,4,1,2,6</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.3 | 0.2 | 2.9 | 28.5 |
+| Terrence Shannon Jr. (MIN) | 97% | 24.2<br><sub>22,23,24,27,20</sub> | 12.8<br><sub>13,15,14,19,11</sub> | 12.5 · –<br><sub>o 49% · u 51%</sub> | 2.8<br><sub>4,4,4,6,3</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.8<br><sub>1,3,5,2,2</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.4<br><sub>2,3,3,1,2</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 0.6 | 0.1 | 1.3 | 17.4 |
+| Bones Hyland (MIN) | 96% | 16.8<br><sub>8,15,5,16,20</sub> | 8.7<br><sub>3,3,0,13,19</sub> | 8.5 · –<br><sub>o 48% · u 52%</sub> | 1.9<br><sub>1,3,1,1,0</sub> |  | 2.4<br><sub>0,2,2,3,8</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 1.3<br><sub>1,0,0,3,3</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 0.6 | 0.3 | 1.1 | 12.9 |
+| Joan Beringer (MIN) | 91% | 16.6<br><sub>15,13,17,20,18</sub> | 6.8<br><sub>9,6,12,7,4</sub> |  | 5.4<br><sub>9,6,7,9,4</sub> |  | 0.6<br><sub>0,0,0,2,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.4 | 1.1 | 0.7 | 12.8 |
+| Trey Lyles (MIN) | 98% | 16.0<br><sub>17,14,13,22,17</sub> | 5.0<br><sub>9,3,3,7,10</sub> |  | 3.4<br><sub>6,6,1,3,5</sub> |  | 0.9<br><sub>2,2,1,1,0</sub> |  | 0.6<br><sub>2,1,1,1,1</sub> |  | 0.5 | 0.2 | 0.5 | 9.3 |
+| Jaylen Clark (MIN) | 80% | 13.5<br><sub>3,5,-,7,17</sub> | 4.5<br><sub>0,3,-,3,5</sub> |  | 1.8<br><sub>2,1,-,2,0</sub> |  | 0.9<br><sub>1,0,-,1,2</sub> |  | 0.5<br><sub>0,0,-,1,1</sub> |  | 0.7 | 0.1 | 0.5 | 7.1 |
+| Zyon Pullin (MIN) | 64% | 8.4<br><sub>-,5,-,-,2</sub> | 3.4<br><sub>-,2,-,-,2</sub> |  | 0.9<br><sub>-,1,-,-,0</sub> |  | 1.1<br><sub>-,0,-,-,0</sub> |  | 0.2<br><sub>-,0,-,-,0</sub> |  | 0.2 | 0.1 | 0.5 | 5.4 |
+| Rocco Zikarsky (MIN) | 16% | 6.7 | 2.3 |  | 2.0 |  | 0.4 |  | 0.0 |  | 0.2 | 0.5 | 0.3 | 4.7 |
+| Cody Williams (MIN) | 58% | 6.4<br><sub>3,5,-,-,2</sub> | 0.3<br><sub>0,0,-,-,0</sub> |  | 0.2<br><sub>0,0,-,-,0</sub> |  | 0.4<br><sub>0,0,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.3 | 0.2 | 0.2 | 0.9 |
+| Isaiah Evans (MIN) | 63% | 6.2<br><sub>2,4,-,-,2</sub> | 0.3<br><sub>0,0,-,-,0</sub> |  | 1.2<br><sub>0,0,-,-,0</sub> |  | 0.5<br><sub>1,1,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.2 | 0.1 | 0.3 | 2.1 |
+| Enrique Freeman (MIN) | 16% | 6.0 | 1.8 |  | 1.3 |  | 0.3 |  | 0.1 |  | 0.2 | 0.2 | 0.3 | 3.4 |
+| Victor Wembanyama (SAS) | 98% | 34.4<br><sub>34,32,29,27,39</sub> | 25.5<br><sub>12,25,23,29,36</sub> | 24.5 · –<br><sub>o 51% · u 49%</sub> | 11.4<br><sub>13,13,7,10,14</sub> | 11.5<br><sub>o 46% · u 54%</sub> | 3.2<br><sub>3,2,2,2,5</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.9<br><sub>0,2,2,0,4</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.2 | 3.6 | 2.8 | 40.0 |
+| Devin Vassell (SAS) | 98% | 33.4<br><sub>31,36,32,24,38</sub> | 12.6<br><sub>7,10,11,14,21</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 4.7<br><sub>3,4,4,4,5</sub> | 3.5<br><sub>o 60% · u 40%</sub> | 2.9<br><sub>1,2,6,8,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.9<br><sub>1,2,1,4,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.2 | 0.5 | 1.0 | 20.1 |
+| De'Aaron Fox (SAS) | 98% | 33.0<br><sub>32,34,28,26,39</sub> | 16.4<br><sub>14,19,19,11,14</sub> | 14.5 · –<br><sub>o 52% · u 48%</sub> | 4.2<br><sub>7,4,3,4,3</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 6.2<br><sub>7,9,9,6,4</sub> | 5.5<br><sub>o 52% · u 48%</sub> | 1.5<br><sub>0,2,2,2,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 1.5 | 0.4 | 2.2 | 26.8 |
+| Stephon Castle (SAS) | 98% | 32.5<br><sub>28,33,28,27,38</sub> | 17.9<br><sub>24,15,19,15,14</sub> | 16.5 · –<br><sub>o 52% · u 48%</sub> | 5.5<br><sub>7,7,4,5,6</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 6.3<br><sub>1,5,8,5,8</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 1.7<br><sub>5,3,3,3,1</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.2 | 0.3 | 3.1 | 29.7 |
+| Dylan Harper (SAS) | 98% | 31.8<br><sub>32,36,28,30,37</sub> | 16.6<br><sub>18,20,22,13,13</sub> | 15.5 · –<br><sub>o 50% · u 50%</sub> | 5.6<br><sub>7,3,5,6,5</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 4.1<br><sub>5,2,2,6,8</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 1.2<br><sub>0,1,3,0,2</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 1.1 | 0.4 | 1.8 | 26.3 |
+| Julian Champagnie (SAS) | 98% | 28.3<br><sub>30,25,28,25,31</sub> | 9.9<br><sub>8,6,12,26,6</sub> | 9.5 · –<br><sub>o 48% · u 52%</sub> | 4.8<br><sub>3,0,5,3,6</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 1.4<br><sub>1,0,3,3,0</sub> |  | 1.8<br><sub>2,2,3,8,2</sub> | 2.5<br><sub>o 36% · u 64%</sub> | 0.9 | 0.6 | 0.8 | 16.1 |
+| Keldon Johnson (SAS) | 98% | 20.8<br><sub>20,19,26,22,23</sub> | 10.0<br><sub>10,8,7,14,9</sub> | 8.5 · –<br><sub>o 53% · u 47%</sub> | 4.2<br><sub>4,6,6,4,6</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 1.1<br><sub>1,1,3,0,2</sub> |  | 0.7<br><sub>1,0,0,0,0</sub> | 0.5<br><sub>o 57% · u 43%</sub> | 0.6 | 0.2 | 0.9 | 15.3 |
+| Luke Kornet (SAS) | 98% | 13.9<br><sub>13,16,14,17,14</sub> | 3.3<br><sub>4,7,0,0,1</sub> |  | 4.0<br><sub>1,3,4,4,6</sub> |  | 0.9<br><sub>0,0,1,1,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.5 | 0.7 | 0.5 | 8.2 |
+| Harrison Barnes (SAS) | 67% | 8.6<br><sub>9,5,4,14,-</sub> | 2.8<br><sub>3,0,0,3,-</sub> |  | 1.1<br><sub>0,0,0,0,-</sub> |  | 0.5<br><sub>0,0,0,0,-</sub> |  | 0.2<br><sub>1,0,0,0,-</sub> |  | 0.2 | 0.1 | 0.3 | 4.3 |
+| Carter Bryant (SAS) | 98% | 8.2<br><sub>6,4,10,17,5</sub> | 2.6<br><sub>0,0,4,1,3</sub> |  | 1.4<br><sub>0,0,1,1,0</sub> |  | 0.5<br><sub>1,0,0,2,0</sub> |  | 0.2<br><sub>0,0,0,0,1</sub> |  | 0.2 | 0.2 | 0.4 | 4.5 |
+| Maliq Brown (SAS) | 80% | 6.9<br><sub>1,-,-,-,-</sub> | 0.4<br><sub>0,-,-,-,-</sub> |  | 0.3<br><sub>0,-,-,-,-</sub> |  | 2.4<br><sub>1,-,-,-,-</sub> |  | 0.0<br><sub>0,-,-,-,-</sub> |  | 0.1 | 0.3 | 0.4 | 3.1 |
+| Jordan McLaughlin (SAS) | 52% | 6.4<br><sub>-,-,3,7,-</sub> | 2.1<br><sub>-,-,0,0,-</sub> |  | 0.9<br><sub>-,-,1,0,-</sub> |  | 0.9<br><sub>-,-,0,2,-</sub> |  | 0.1<br><sub>-,-,0,0,-</sub> |  | 0.4 | 0.1 | 0.3 | 4.0 |
+| Tarris Reed Jr. (SAS) | 58% | 6.0<br><sub>1,-,7,5,-</sub> | 2.4<br><sub>0,-,2,4,-</sub> |  | 2.2<br><sub>0,-,3,5,-</sub> |  | 0.4<br><sub>0,-,0,0,-</sub> |  | 0.0<br><sub>0,-,0,0,-</sub> |  | 0.1 | 0.3 | 0.7 | 5.0 |
+| Ja'Kobi Gillespie (SAS) | 88% | 5.9<br><sub>1,-,3,-,-</sub> | 4.2<br><sub>2,-,3,-,-</sub> |  | 0.2<br><sub>0,-,0,-,-</sub> |  | 0.6<br><sub>0,-,0,-,-</sub> |  | 0.5<br><sub>0,-,1,-,-</sub> |  | 0.1 | 0.1 | 0.3 | 5.0 |
+| David Jones Garcia (SAS) | 52% | 5.8<br><sub>1,-,-,-,-</sub> | 2.5<br><sub>2,-,-,-,-</sub> |  | 1.1<br><sub>0,-,-,-,-</sub> |  | 1.0<br><sub>0,-,-,-,-</sub> |  | 0.1<br><sub>0,-,-,-,-</sub> |  | 0.3 | 0.1 | 0.4 | 4.6 |
 
 </details>
 
