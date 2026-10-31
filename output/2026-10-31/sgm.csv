@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 PHI @ CHA,Adem Bona reb under 6.5 + Sion James 5+ pr,2,0.7124,0.4666,2.14,2.25,2.23,0.04,0.999,2.10-2.50
 PHI @ CHA,Adem Bona reb under 6.5 + Sion James 5+ pa,2,0.6767,0.4522,2.21,2.32,2.28,0.0309,0.998,2.10-2.50
-PHI @ CHA,Adem Bona reb under 6.5 + Moussa Diabate 5+ pa,2,0.7084,0.4804,2.08,2.19,2.14,0.0267,0.999,2.10-2.50
-PHI @ CHA,Adem Bona pr under 14.5 + Sion James 5+ pr,2,0.7601,0.5236,1.91,2.01,1.93,0.0122,0.998,1.85-2.10
-PHI @ CHA,Adem Bona pr under 14.5 + Sion James 5+ pa,2,0.7216,0.5071,1.97,2.07,1.98,0.0027,0.996,1.85-2.10
-PHI @ CHA,Adem Bona pr under 14.5 + Anfernee Simons 1+ 3pm,2,0.7442,0.5267,1.9,1.99,1.9,0.0004,0.997,1.85-2.10
-PHI @ CHA,Adem Bona pr under 14.5 + Moussa Diabate 10+ pr,2,0.761,0.5459,1.83,1.92,1.83,-0.003,0.998,1.65-1.85
-PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 5+ pa,2,0.6546,0.5177,1.93,2.03,1.85,-0.0436,1.0,1.65-1.85
-PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 10+ pr,2,0.6587,0.524,1.91,2.0,1.82,-0.0463,0.999,1.65-1.85
+PHI @ CHA,Adem Bona reb under 6.5 + Grayson Allen 10+ pa,2,0.6617,0.4435,2.25,2.37,2.32,0.0304,0.998,2.10-2.50
+PHI @ CHA,Adem Bona reb under 6.5 + Moussa Diabate 10+ pr,2,0.7138,0.4882,2.05,2.15,2.1,0.0243,0.999,1.85-2.10
+PHI @ CHA,Adem Bona pr under 13.5 + Moussa Diabate 5+ pa,2,0.7066,0.4896,2.04,2.14,2.07,0.0132,0.997,1.85-2.10
+PHI @ CHA,Adem Bona pr under 13.5 + Moussa Diabate 10+ pr,2,0.7115,0.4979,2.01,2.11,2.03,0.0094,0.997,1.85-2.10
+PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 10+ pr,2,0.6587,0.5253,1.9,2.0,1.81,-0.0472,0.999,1.65-1.85
+PHI @ CHA,Sion James 5+ pr + Grayson Allen 10+ pa + Tyrese Maxey 1+ stl,3,0.6565,0.5644,1.77,1.86,1.52,-0.1409,0.999,1.50-1.65
+PHI @ CHA,Sion James 5+ pa + Grayson Allen 10+ pa + Tyrese Maxey 1+ stl,3,0.6242,0.5475,1.83,1.92,1.56,-0.1476,0.998,1.50-1.65
 ATL @ NOP,Trey Murphy III 5+ reb + Zion Williamson 4+ reb,2,0.5219,0.4048,2.47,2.59,2.38,-0.0384,1.002,2.10-2.50
 ATL @ NOP,Zion Williamson 8+ ra + Herbert Jones 5+ pr,2,0.6032,0.4702,2.13,2.23,2.04,-0.0413,1.001,1.85-2.10
 ATL @ NOP,Jalen Johnson pa under 31.5 + Herbert Jones 5+ pr,2,0.5801,0.4546,2.2,2.31,2.1,-0.0434,1.002,2.10-2.50
@@ -23,26 +23,26 @@ ATL @ NOP,Onyeka Okongwu 15+ pr + Dejounte Murray 1+ 3pm,2,0.6699,0.5867,1.7,1.7
 SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 6+ reb,2,0.5876,0.4219,2.37,2.49,2.38,0.0022,1.007,2.10-2.50
 SAC @ MEM,Precious Achiuwa 23+ pra + Domantas Sabonis 10+ pts,2,0.5949,0.4347,2.3,2.42,2.29,-0.0034,1.008,2.10-2.50
 SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 6+ reb,2,0.5974,0.4308,2.32,2.44,2.3,-0.0074,1.006,2.10-2.50
+SAC @ MEM,Precious Achiuwa 21+ pr + Zach Edey 5+ pa,2,0.615,0.4645,2.15,2.26,2.09,-0.0293,1.001,1.85-2.10
 SAC @ MEM,Cameron Boozer 14+ ra + De'Andre Hunter 10+ pr,2,0.6136,0.4751,2.1,2.21,2.03,-0.0371,1.001,1.85-2.10
-SAC @ MEM,Cameron Boozer 14+ ra + Zach Edey 5+ pa,2,0.6084,0.4771,2.1,2.2,2.02,-0.038,1.005,1.85-2.10
-SAC @ MEM,Precious Achiuwa 13+ pts + Zach Edey 5+ pa,2,0.5956,0.4591,2.18,2.29,2.1,-0.0381,0.999,1.85-2.10
+SAC @ MEM,Cameron Boozer 14+ ra + Zach Edey 5+ pa,2,0.6084,0.4795,2.09,2.19,2.0,-0.0397,1.005,1.85-2.10
 SAC @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.6347,0.5976,1.67,1.76,1.59,-0.0503,1.002,1.50-1.65
 SAC @ MEM,MEM win + Jaylen Wells 10+ pa,2,0.5999,0.5912,1.69,1.78,1.6,-0.0541,1.015,1.50-1.65
 SAC @ MEM,MEM win + Cameron Boozer 4+ ast,2,0.5989,0.585,1.71,1.8,1.62,-0.0548,1.011,1.50-1.65
-SAC @ MEM,MEM win + Zach Edey 5+ pa + Jaylen Wells 10+ pa,3,0.5568,0.5142,1.94,2.04,1.79,-0.0817,1.031,1.65-1.85
-SAC @ MEM,MEM win + Cameron Boozer 6+ reb + Zach Edey 5+ pa,3,0.5857,0.5167,1.94,2.03,1.77,-0.0833,1.012,1.65-1.85
+SAC @ MEM,MEM win + Jaylen Wells 10+ pa + Zach Edey 5+ pa,3,0.5568,0.5168,1.93,2.03,1.77,-0.0833,1.031,1.65-1.85
 SAC @ MEM,Precious Achiuwa 10+ pa + Cameron Boozer 6+ reb + Domantas Sabonis 10+ pts,3,0.7114,0.5234,1.91,2.01,1.75,-0.0839,1.006,1.65-1.85
-CLE @ MIL,Tyler Herro pra under 30.5 + CLE win,2,0.4121,0.4289,2.33,2.45,2.41,0.035,1.062,2.10-2.50
-CLE @ MIL,Tyler Herro pa under 25.5 + CLE win,2,0.4072,0.4265,2.34,2.46,2.42,0.0334,1.063,2.10-2.50
-CLE @ MIL,Jaime Jaquez Jr. pts under 15.5 + CLE win,2,0.3974,0.4157,2.41,2.53,2.48,0.0296,1.058,2.10-2.50
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + CLE win,2,0.5124,0.527,1.9,1.99,1.83,-0.0346,0.985,1.65-1.85
-CLE @ MIL,Mario Hezonja reb under 3.5 + Sam Merrill 5+ pa,2,0.5999,0.4655,2.15,2.26,2.06,-0.039,1.0,1.85-2.10
-CLE @ MIL,Mario Hezonja reb under 3.5 + Donovan Mitchell 15+ pr,2,0.6162,0.4772,2.1,2.2,2.01,-0.0391,0.999,1.85-2.10
+SAC @ MEM,MEM win + Cameron Boozer 6+ reb + Zach Edey 5+ pa,3,0.5857,0.5193,1.93,2.02,1.76,-0.085,1.012,1.65-1.85
+CLE @ MIL,Tyler Herro pra under 30.5 + CLE win,2,0.4121,0.4277,2.34,2.46,2.41,0.032,1.062,2.10-2.50
+CLE @ MIL,Tyler Herro pa under 25.5 + CLE win,2,0.4072,0.4253,2.35,2.47,2.42,0.0304,1.063,2.10-2.50
+CLE @ MIL,Jaime Jaquez Jr. pts under 15.5 + CLE win,2,0.3974,0.4145,2.41,2.53,2.48,0.0266,1.058,2.10-2.50
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + CLE win,2,0.5124,0.5255,1.9,2.0,1.83,-0.0374,0.985,1.65-1.85
+CLE @ MIL,Mario Hezonja reb under 3.5 + Sam Merrill 5+ pa,2,0.5999,0.4646,2.15,2.26,2.07,-0.0383,1.0,1.85-2.10
+CLE @ MIL,Mario Hezonja reb under 3.5 + Donovan Mitchell 15+ pr,2,0.6162,0.4765,2.1,2.2,2.02,-0.0387,0.999,1.85-2.10
 CLE @ MIL,Mario Hezonja reb under 3.5 + Ryan Rollins 10+ pa,2,0.5947,0.4623,2.16,2.27,2.08,-0.0396,1.0,1.85-2.10
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Ryan Rollins 10+ pa,2,0.7906,0.626,1.6,1.68,1.52,-0.0468,1.0,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.796,0.6291,1.59,1.67,1.51,-0.048,0.998,1.50-1.65
+CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.796,0.6279,1.59,1.67,1.52,-0.0474,0.998,1.50-1.65
 CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 15+ pts,2,0.7617,0.6037,1.66,1.74,1.57,-0.0498,0.998,1.50-1.65
-CLE @ MIL,Jarrett Allen reb under 9.5 + Donovan Mitchell 15+ pr,2,0.6159,0.5142,1.94,2.04,1.81,-0.068,1.0,1.65-1.85
+CLE @ MIL,Jarrett Allen reb under 9.5 + Donovan Mitchell 15+ pr,2,0.6159,0.5134,1.95,2.05,1.82,-0.0676,1.0,1.65-1.85
 CLE @ MIL,Jarrett Allen reb under 9.5 + Donovan Mitchell 20+ pra,2,0.6074,0.5069,1.97,2.07,1.84,-0.0686,0.999,1.65-1.85
 MIN @ SAS,Ayo Dosunmu pa under 19.5 + SAS win,2,0.4879,0.4527,2.21,2.32,2.24,0.0155,1.044,2.10-2.50
 MIN @ SAS,Ayo Dosunmu pra under 23.5 + SAS win,2,0.4697,0.4365,2.29,2.41,2.32,0.0142,1.043,2.10-2.50
