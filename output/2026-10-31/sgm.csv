@@ -10,18 +10,18 @@ PHI @ CHA,Anfernee Simons 5+ ra + Grayson Allen 1+ 3pm,2,0.6392,0.5158,1.94,2.04
 PHI @ CHA,Anfernee Simons 5+ ra + Moussa Diabate 10+ pr,2,0.6587,0.5246,1.91,2.0,1.81,-0.0483,0.999,1.65-1.85
 PHI @ CHA,Sion James 5+ pr + Grayson Allen 10+ pa + Tyrese Maxey 1+ stl,3,0.6565,0.5638,1.77,1.86,1.52,-0.1405,0.999,1.50-1.65
 PHI @ CHA,Sion James 5+ pa + Grayson Allen 10+ pa + Tyrese Maxey 1+ stl,3,0.6242,0.5481,1.82,1.92,1.55,-0.148,0.998,1.50-1.65
-ATL @ NOP,ATL -4.5 + CJ McCollum 15+ pa,2,0.393,0.3894,2.57,2.7,2.47,-0.0397,1.032,2.10-2.50
-ATL @ NOP,Jalen Johnson pa under 31.5 + Herbert Jones 5+ pr,2,0.5801,0.4542,2.2,2.31,2.11,-0.0429,1.002,2.10-2.50
-ATL @ NOP,Jalen Johnson pa under 31.5 + Zion Williamson 4+ reb,2,0.5325,0.4105,2.44,2.56,2.33,-0.0449,0.994,2.10-2.50
-ATL @ NOP,Zion Williamson 8+ ra + Herbert Jones 5+ pr,2,0.6032,0.4765,2.1,2.2,2.0,-0.0459,1.001,1.85-2.10
-ATL @ NOP,Zion Williamson 8+ ra + Onyeka Okongwu 15+ pra,2,0.6076,0.4842,2.07,2.17,1.96,-0.0493,1.001,1.85-2.10
-ATL @ NOP,ATL win + CJ McCollum 15+ pa,2,0.4924,0.4759,2.1,2.21,2.0,-0.0494,1.024,1.85-2.10
-ATL @ NOP,ATL win + Onyeka Okongwu 15+ pra,2,0.5552,0.5269,1.9,1.99,1.79,-0.0572,1.009,1.65-1.85
-ATL @ NOP,Jalen Johnson ast under 8.5 + Onyeka Okongwu 10+ pra,2,0.6426,0.5228,1.91,2.01,1.8,-0.0594,0.999,1.65-1.85
-ATL @ NOP,Luguentz Dort 3pm under 1.5 + Onyeka Okongwu 10+ pra,2,0.6407,0.5265,1.9,1.99,1.78,-0.0616,1.001,1.65-1.85
-ATL @ NOP,Zion Williamson 4+ reb + Nickeil Alexander-Walker 2+ 3pm,2,0.7074,0.6088,1.64,1.72,1.52,-0.0743,1.005,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + CJ McCollum 15+ pa,2,0.6711,0.575,1.74,1.83,1.61,-0.0746,1.003,1.50-1.65
-ATL @ NOP,Zion Williamson 4+ reb + Dejounte Murray 1+ 3pm,2,0.6641,0.5688,1.76,1.85,1.62,-0.0795,0.998,1.50-1.65
+ATL @ NOP,Jalen Johnson pa under 31.5 + Herbert Jones 5+ pr,2,0.5801,0.4486,2.23,2.34,2.14,-0.038,1.002,2.10-2.50
+ATL @ NOP,Trey Murphy III 5+ reb + Zion Williamson 4+ reb,2,0.5219,0.4048,2.47,2.59,2.38,-0.0384,1.002,2.10-2.50
+ATL @ NOP,Jalen Johnson pa under 31.5 + Zion Williamson 4+ reb,2,0.5325,0.4045,2.47,2.6,2.38,-0.0392,0.994,2.10-2.50
+ATL @ NOP,Zion Williamson 8+ ra + Herbert Jones 5+ pr,2,0.6032,0.4702,2.13,2.23,2.04,-0.0413,1.001,1.85-2.10
+ATL @ NOP,Zion Williamson 8+ ra + Onyeka Okongwu 15+ pra,2,0.6076,0.4768,2.1,2.2,2.0,-0.044,1.001,1.85-2.10
+ATL @ NOP,Jalen Johnson pa under 31.5 + Onyeka Okongwu 10+ pr,2,0.6193,0.4861,2.06,2.16,1.96,-0.0465,0.999,1.85-2.10
+ATL @ NOP,Luguentz Dort 3pm under 1.5 + Onyeka Okongwu 10+ pr,2,0.6287,0.5157,1.94,2.04,1.82,-0.0623,1.0,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Onyeka Okongwu 15+ pr,2,0.7079,0.5905,1.69,1.78,1.58,-0.0656,1.003,1.50-1.65
+ATL @ NOP,Luguentz Dort 3pm under 1.5 + CJ McCollum 10+ pa,2,0.6147,0.5122,1.95,2.05,1.81,-0.0704,0.997,1.65-1.85
+ATL @ NOP,Zion Williamson 4+ reb + Dejounte Murray 1+ 3pm,2,0.6641,0.568,1.76,1.85,1.62,-0.079,0.998,1.50-1.65
+ATL @ NOP,Onyeka Okongwu 15+ pr + Dejounte Murray 1+ 3pm,2,0.6699,0.5867,1.7,1.79,1.56,-0.0825,1.003,1.50-1.65
+ATL @ NOP,Zion Williamson 4+ reb + Herbert Jones 5+ pr + Onyeka Okongwu 15+ pr,3,0.6434,0.4932,2.03,2.13,1.83,-0.0976,1.006,1.65-1.85
 SAC @ MEM,Precious Achiuwa 23+ pra + Cameron Boozer 6+ reb,2,0.5876,0.4188,2.39,2.51,2.39,0.0028,1.007,2.10-2.50
 SAC @ MEM,Cameron Boozer 14+ ra + MEM win,2,0.4798,0.4152,2.41,2.53,2.4,-0.0025,1.01,2.10-2.50
 SAC @ MEM,Precious Achiuwa 21+ pr + Cameron Boozer 6+ reb,2,0.5974,0.429,2.33,2.45,2.32,-0.0038,1.006,2.10-2.50
@@ -52,12 +52,12 @@ MIN @ SAS,LaMelo Ball pa under 26.5 + SAS win,2,0.4804,0.4513,2.22,2.33,2.24,0.0
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + SAS win,2,0.523,0.4652,2.15,2.26,2.09,-0.027,0.982,1.85-2.10
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + Victor Wembanyama 2+ blk,2,0.6054,0.4673,2.14,2.25,2.07,-0.0343,1.003,1.85-2.10
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + Devin Vassell 10+ pr,2,0.6593,0.5024,1.99,2.09,1.92,-0.0353,0.997,1.85-2.10
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + LaMelo Ball 10+ pr,2,0.6844,0.5284,1.89,1.99,1.82,-0.0381,0.999,1.65-1.85
+MIN @ SAS,Julian Champagnie 3pm under 2.5 + LaMelo Ball 10+ pr,2,0.6844,0.5289,1.89,1.99,1.82,-0.0384,0.999,1.65-1.85
 MIN @ SAS,Julian Champagnie 3pm under 2.5 + LaMelo Ball 1+ 3pm,2,0.6772,0.5251,1.9,2.0,1.83,-0.0387,1.0,1.65-1.85
-MIN @ SAS,SAS win + De'Aaron Fox 15+ pr,2,0.6263,0.632,1.58,1.66,1.51,-0.0435,1.017,1.50-1.65
-MIN @ SAS,SAS win + De'Aaron Fox 15+ pr + Devin Vassell 10+ pa,3,0.5643,0.5371,1.86,1.95,1.73,-0.0693,1.037,1.65-1.85
-MIN @ SAS,De'Aaron Fox 15+ pr + Devin Vassell 15+ pra,2,0.6971,0.5956,1.68,1.76,1.56,-0.07,1.007,1.50-1.65
+MIN @ SAS,Devin Vassell 4+ reb + Bones Hyland 5+ pr,2,0.6114,0.5106,1.96,2.06,1.83,-0.0662,1.002,1.65-1.85
+MIN @ SAS,Devin Vassell 4+ reb + LaMelo Ball 10+ pr,2,0.6701,0.565,1.77,1.86,1.64,-0.0717,1.0,1.50-1.65
 MIN @ SAS,SAS win + Devin Vassell 15+ pra + De'Aaron Fox 10+ pr,3,0.6254,0.5986,1.67,1.75,1.53,-0.0837,1.023,1.50-1.65
+MIN @ SAS,SAS win + Devin Vassell 10+ pa + Victor Wembanyama 2+ blk,3,0.5749,0.5646,1.77,1.86,1.6,-0.0955,1.019,1.50-1.65
 OKC @ HOU,Kevin Durant 9+ ra + Tari Eason 4+ reb,2,0.7042,0.4343,2.3,2.42,2.45,0.0661,1.001,2.10-2.50
 OKC @ HOU,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.6657,0.4278,2.34,2.45,2.46,0.0515,1.003,2.10-2.50
 OKC @ HOU,Kevin Durant 9+ ra + Jabari Smith Jr. 4+ reb,2,0.7084,0.455,2.2,2.31,2.31,0.0502,1.002,2.10-2.50
