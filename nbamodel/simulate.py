@@ -97,13 +97,17 @@ def simulate_game(game: dict, players: pd.DataFrame, b: Bundle, n: int = N_SIMS,
         avail = rng.random((n, k)) < tp["play_prob"].values
         sd = np.array([b.min_sd.get(int(x), 6.0) for x in pd.cut(
             tp["pmin"], [0, 10, 18, 26, 32, 48], labels=False, include_lowest=True).fillna(0)])
+        use_bo = bool(b.blowout) and getattr(b, "use_blowout", False)
+        if use_bo:  # part of the minutes spread is game script, which the blowout curve now models
+            sd = sd * getattr(b, "blowout_sd_scale", 1.0)
         mins = np.clip(rng.normal(tp["pmin"].values, sd, (n, k)), 0, 48) * avail
-        if b.blowout and getattr(b, "use_blowout", False):  # game script: stars sit in lopsided runs, benches absorb the minutes
+        if use_bo:  # game script: stars sit in lopsided runs, benches absorb the minutes
             from .models import BLOWOUT_EDGES, ROLE_EDGES
             mb = np.clip(np.searchsorted(BLOWOUT_EDGES, np.abs(margin), side="right") - 1,
                          0, len(BLOWOUT_EDGES) - 2)
             role = np.clip(np.searchsorted(ROLE_EDGES, tp["pmin"].values, side="right") - 1, 0, 3)
             curve = np.array([b.blowout.get(int(r), [1.0] * (len(BLOWOUT_EDGES) - 1)) for r in role])
+            curve = curve ** getattr(b, "blowout_k", 1.0)  # strength: 0 = off, 1 = full historical curve
             mins *= curve[:, mb].T * (ot == 0)[:, None] + (ot > 0)[:, None]
         target = 240 + 25 * ot
         mins = mins * (target / 240)[:, None]  # overtime: extra minutes to whoever is playing
