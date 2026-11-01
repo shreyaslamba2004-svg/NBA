@@ -14,9 +14,9 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909904,BKN @ IND,prop_pra,over,Jarace Walker,1641716.0,29.5,draftkings,960.0,10.6,0.1518,6.59,0.0882,0.0882,0.0637,,0.6095,0.1041,0.1033,0.0027,False,True,False,Obi Toppin,0.189,0.1255
 401909904,BKN @ IND,prop_pra,over,Pascal Siakam,1627783.0,44.5,draftkings,482.0,5.82,0.2724,3.67,0.1606,0.1606,0.1119,,0.5857,0.1885,0.0973,0.005,False,True,False,Obi Toppin,0.3267,0.2351
 401909904,BKN @ IND,prop_pa,over,Michael Porter Jr.,1629008.0,39.5,draftkings,1400.0,15.0,0.1044,9.58,0.0623,0.0623,0.0421,,0.5663,0.0728,0.0925,0.0017,False,True,False,,,
-401909906,TOR @ LAL,prop_stl,over,Scottie Barnes,1630567.0,3.5,draftkings,870.0,9.7,0.1593,6.28,0.0963,0.0963,0.063,,0.5456,0.1121,0.0873,0.0025,False,True,False,,,
 401909906,TOR @ LAL,prop_ast,over,Scottie Barnes,1630567.0,7.5,draftkings,302.0,4.02,0.3837,2.61,0.2325,0.2325,0.1512,,0.5424,0.2703,0.0865,0.0072,True,True,False,,,
 401909904,BKN @ IND,prop_pra,over,Jarace Walker,1641716.0,24.5,draftkings,371.0,4.71,0.3217,3.11,0.1984,0.1984,0.1233,,0.5154,0.2293,0.0798,0.0054,False,True,False,Obi Toppin,0.3785,0.2821
+401909906,TOR @ LAL,prop_stl,over,Scottie Barnes,1630567.0,3.5,draftkings,850.0,9.5,0.1593,6.28,0.0984,0.0984,0.061,,0.5137,0.1136,0.0794,0.0023,False,True,False,,,
 401909904,BKN @ IND,prop_reb,over,Noah Clowney,1641730.0,4.5,draftkings,167.0,2.67,0.5546,1.8,0.35,0.35,0.2046,,0.4808,0.4012,0.0711,0.0107,True,False,False,,,
 401909904,BKN @ IND,prop_pr,over,Michael Porter Jr.,1629008.0,44.5,draftkings,1180.0,12.8,0.1156,8.65,0.073,0.073,0.0426,,0.4796,0.0837,0.0708,0.0015,False,True,False,,,
 401909904,BKN @ IND,prop_pr,over,Jarace Walker,1641716.0,24.5,draftkings,670.0,7.7,0.1917,5.22,0.1214,0.1214,0.0703,,0.4759,0.1389,0.0699,0.0026,False,True,False,Obi Toppin,0.2286,0.1663
@@ -27,16 +27,16 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909904,BKN @ IND,prop_ast,over,Jarace Walker,1641716.0,4.5,draftkings,600.0,7.0,0.2025,4.94,0.1335,0.1335,0.0689,,0.4172,0.1507,0.0552,0.0023,False,False,False,Obi Toppin,0.2383,0.1726
 401909904,BKN @ IND,prop_reb,over,Jarace Walker,1641716.0,8.5,draftkings,594.0,6.94,0.204,4.9,0.1347,0.1347,0.0693,,0.4157,0.152,0.0549,0.0023,False,False,False,Obi Toppin,0.2254,0.1854
 401909904,BKN @ IND,prop_reb,over,Moritz Wagner,1629021.0,9.5,draftkings,1400.0,15.0,0.0938,10.66,0.0623,0.0623,0.0315,,0.4072,0.0702,0.0527,0.0009,False,True,False,,,
-401909906,TOR @ LAL,prop_fg3m,under,Collin Murray-Boyles,1642867.0,0.5,draftkings,-109.0,1.92,0.7184,1.39,0.4874,0.4874,0.231,,0.3775,0.5452,0.0453,0.0123,True,False,True,,,
+401909906,TOR @ LAL,prop_fg3m,under,Collin Murray-Boyles,1642867.0,0.5,draftkings,-105.0,1.95,0.7184,1.39,0.4787,0.4787,0.2397,,0.4026,0.5386,0.0516,0.0135,True,False,True,,,
+401909906,TOR @ LAL,prop_stl,over,Scottie Barnes,1630567.0,4.5,draftkings,1920.0,20.2,0.0685,14.6,0.0463,0.0463,0.0222,,0.3833,0.0518,0.0468,0.0006,False,True,False,,,
+401909906,TOR @ LAL,prop_stl,over,Scottie Barnes,1630567.0,2.5,draftkings,324.0,4.24,0.3254,3.07,0.2204,0.2204,0.105,,0.3798,0.2467,0.0459,0.0035,False,True,False,,,
 401909906,TOR @ LAL,prop_ast,over,Scottie Barnes,1630567.0,6.5,draftkings,168.0,2.68,0.513,1.95,0.3487,0.3487,0.1643,,0.3748,0.3898,0.0446,0.0066,True,False,False,,,
 401909904,BKN @ IND,prop_reb,over,Jarace Walker,1641716.0,7.5,draftkings,353.0,4.53,0.3024,3.31,0.2063,0.2063,0.0961,,0.3701,0.2303,0.0435,0.0031,False,True,False,Obi Toppin,0.3272,0.2776
 401909904,BKN @ IND,prop_pra,over,Jarace Walker,1641716.0,34.5,draftkings,2000.0,21.0,0.0652,15.34,0.0445,0.0445,0.0207,,0.369,0.0497,0.0432,0.0005,False,True,False,,,
 401909904,BKN @ IND,prop_reb,over,Jarace Walker,1641716.0,10.5,draftkings,1580.0,16.8,0.0812,12.31,0.0556,0.0556,0.0256,,0.3643,0.062,0.042,0.0007,False,False,False,,,
-401909906,TOR @ LAL,prop_stl,over,Scottie Barnes,1630567.0,2.5,draftkings,319.0,4.19,0.3254,3.07,0.223,0.223,0.1024,,0.3635,0.2486,0.0418,0.0033,False,True,False,,,
 401909905,LAC @ GSW,prop_pra,under,Kris Dunn,1627739.0,18.5,draftkings,-127.0,1.79,0.762,1.31,0.5229,0.5229,0.2392,,0.3621,0.5827,0.0415,0.0132,True,False,True,,,
 401909904,BKN @ IND,prop_pr,over,Michael Porter Jr.,1629008.0,49.5,draftkings,2200.0,23.0,0.0592,16.9,0.0406,0.0406,0.0185,,0.361,0.0453,0.0412,0.0005,False,True,False,,,
 401909904,BKN @ IND,prop_pa,over,Michael Porter Jr.,1629008.0,34.5,draftkings,600.0,7.0,0.1939,5.16,0.1335,0.1335,0.0604,,0.3573,0.1486,0.0403,0.0017,False,True,False,,,
-401909906,TOR @ LAL,prop_stl,over,Scottie Barnes,1630567.0,4.5,draftkings,1880.0,19.8,0.0685,14.6,0.0472,0.0472,0.0213,,0.3559,0.0525,0.0399,0.0005,False,True,False,,,
 401909904,BKN @ IND,prop_pr,over,Jarace Walker,1641716.0,19.5,draftkings,236.0,3.36,0.4025,2.48,0.2781,0.2781,0.1244,,0.3526,0.3092,0.0391,0.0041,False,True,False,Obi Toppin,0.4567,0.3627
 401909904,BKN @ IND,prop_pts,over,Jarace Walker,1641716.0,19.5,draftkings,1020.0,11.2,0.1207,8.28,0.0834,0.0834,0.0373,,0.3522,0.0928,0.039,0.001,False,True,False,Obi Toppin,0.1469,0.1035
 401909904,BKN @ IND,prop_pts,over,Jarace Walker,1641716.0,17.5,draftkings,650.0,7.5,0.1799,5.56,0.1246,0.1246,0.0553,,0.349,0.1384,0.0382,0.0015,False,False,False,Obi Toppin,0.2162,0.1548
@@ -50,38 +50,38 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909904,BKN @ IND,prop_pr,over,Noah Clowney,1641730.0,11.5,draftkings,-106.0,1.94,0.6808,1.47,0.4809,0.4809,0.1999,,0.323,0.5309,0.0317,0.0084,True,True,True,,,
 401909904,BKN @ IND,prop_pr,over,Michael Porter Jr.,1629008.0,39.5,draftkings,538.0,6.38,0.2066,4.84,0.1465,0.1465,0.0601,,0.3178,0.1615,0.0304,0.0014,False,True,False,,,
 401909904,BKN @ IND,prop_ast,over,Jarace Walker,1641716.0,3.5,draftkings,275.0,3.75,0.3511,2.85,0.2492,0.2492,0.1019,,0.3167,0.2747,0.0301,0.0027,False,True,False,Obi Toppin,0.3954,0.3161
+401909905,LAC @ GSW,prop_ast,over,Brandin Podziemski,1641764.0,8.5,draftkings,1380.0,14.8,0.0887,11.28,0.0631,0.0631,0.0255,,0.3122,0.0695,0.029,0.0005,False,False,False,,,
 401909904,BKN @ IND,prop_ast,over,Pascal Siakam,1627783.0,7.5,draftkings,1060.0,11.6,0.1131,8.84,0.0806,0.0806,0.0326,,0.3122,0.0887,0.029,0.0007,False,True,False,,,
 401909904,BKN @ IND,prop_pr,over,Jarace Walker,1641716.0,29.5,draftkings,1600.0,17.0,0.0772,12.96,0.055,0.055,0.0222,,0.3116,0.0605,0.0288,0.0005,False,True,False,,,
+401909905,LAC @ GSW,prop_ast,over,Brandin Podziemski,1641764.0,7.5,draftkings,720.0,8.2,0.1592,6.28,0.114,0.114,0.0452,,0.3051,0.1253,0.0272,0.0009,False,True,False,,,
+401909906,TOR @ LAL,prop_pts,under,Austin Reaves,1630559.0,22.5,draftkings,-104.0,1.96,0.6646,1.5,0.4765,0.4765,0.1882,,0.3037,0.5235,0.0269,0.007,True,True,True,,,
 401909904,BKN @ IND,prop_reb,over,Jarace Walker,1641716.0,6.5,draftkings,209.0,3.09,0.422,2.37,0.3025,0.3025,0.1195,,0.304,0.3323,0.0269,0.0032,False,False,False,Obi Toppin,0.4477,0.394
 401909906,TOR @ LAL,prop_pa,under,Austin Reaves,1630559.0,28.5,draftkings,-114.0,1.88,0.6915,1.45,0.4979,0.4979,0.1936,,0.298,0.5463,0.0254,0.0072,True,True,True,,,
 401909904,BKN @ IND,prop_pts,over,Noah Clowney,1641730.0,14.5,draftkings,720.0,8.2,0.1582,6.32,0.114,0.114,0.0442,,0.2971,0.125,0.0252,0.0009,False,True,False,,,
+401909906,TOR @ LAL,prop_pra,under,Austin Reaves,1630559.0,32.5,draftkings,-109.0,1.92,0.6764,1.48,0.4874,0.4874,0.189,,0.297,0.5347,0.0252,0.0069,True,True,True,,,
 401909905,LAC @ GSW,prop_pr,under,Kris Dunn,1627739.0,12.5,draftkings,-113.0,1.88,0.6866,1.46,0.4958,0.4958,0.1908,,0.2942,0.5435,0.0245,0.0069,True,False,True,,,
 401909904,BKN @ IND,prop_reb,over,Noah Clowney,1641730.0,3.5,draftkings,-122.0,1.82,0.7082,1.41,0.5136,0.5145,0.1936,,0.2886,0.5629,0.0244,0.0074,True,True,True,,,
 401909904,BKN @ IND,prop_pra,over,Jarace Walker,1641716.0,17.5,draftkings,-112.0,1.89,0.6709,1.49,0.4937,0.4968,0.1741,,0.2699,0.5403,0.0228,0.0064,True,True,True,Obi Toppin,0.731,0.6262
-401909906,TOR @ LAL,prop_pts,under,Austin Reaves,1630559.0,22.5,draftkings,-108.0,1.93,0.6646,1.5,0.4853,0.4853,0.1794,,0.28,0.5301,0.0209,0.0057,True,True,True,,,
+401909905,LAC @ GSW,prop_pra,under,Darius Garland,1629636.0,34.5,draftkings,-120.0,1.83,0.6991,1.43,0.5098,0.5098,0.1894,,0.2817,0.5571,0.0214,0.0064,True,True,True,,,
 401909905,LAC @ GSW,prop_ra,under,Darius Garland,1629636.0,10.5,draftkings,-131.0,1.76,0.7248,1.38,0.5302,0.5302,0.1946,6.96,0.2782,0.5789,0.0207,0.0068,True,True,True,,,
 401909904,BKN @ IND,prop_reb,over,Noah Clowney,1641730.0,3.5,draftkings,-123.0,1.81,0.7082,1.41,0.5155,0.5145,0.1936,,0.2839,0.5629,0.0206,0.0063,True,True,True,,,
-401909904,BKN @ IND,prop_pts,over,Jarace Walker,1641716.0,14.5,draftkings,310.0,4.1,0.3114,3.21,0.2279,0.2279,0.0834,,0.2767,0.2488,0.0201,0.0016,False,True,False,Obi Toppin,0.3616,0.2808
+401909906,TOR @ LAL,prop_pr,under,Walker Kessler,1631117.0,23.5,draftkings,-116.0,1.86,0.6868,1.46,0.5019,0.5019,0.1849,,0.2788,0.5481,0.0206,0.006,True,True,True,,,
 401909904,BKN @ IND,prop_pra,over,Pascal Siakam,1627783.0,39.5,draftkings,208.0,3.08,0.4145,2.41,0.3034,0.3034,0.1111,,0.2767,0.3312,0.0201,0.0024,False,True,False,Obi Toppin,0.4783,0.3707
-401909904,BKN @ IND,prop_ast,over,Pascal Siakam,1627783.0,6.5,draftkings,549.0,6.49,0.1967,5.08,0.144,0.144,0.0527,,0.2765,0.1572,0.0201,0.0009,False,False,False,,,
-401909906,TOR @ LAL,prop_pra,under,Austin Reaves,1630559.0,32.5,draftkings,-113.0,1.88,0.6764,1.48,0.4958,0.4958,0.1806,,0.275,0.541,0.0197,0.0056,True,True,True,,,
+401909904,BKN @ IND,prop_pts,over,Jarace Walker,1641716.0,14.5,draftkings,310.0,4.1,0.3114,3.21,0.2279,0.2279,0.0834,,0.2767,0.2488,0.0201,0.0016,False,True,False,Obi Toppin,0.3616,0.2808
+401909904,BKN @ IND,prop_ast,over,Pascal Siakam,1627783.0,6.5,draftkings,548.0,6.48,0.1967,5.08,0.1442,0.1442,0.0525,,0.2746,0.1573,0.0196,0.0009,False,False,False,,,
 401909905,LAC @ GSW,prop_ast,under,Darius Garland,1629636.0,7.5,draftkings,-118.0,1.85,0.6895,1.45,0.5059,0.5059,0.1837,,0.2739,0.5518,0.0194,0.0057,True,True,True,,,
-401909905,LAC @ GSW,prop_ast,over,Brandin Podziemski,1641764.0,7.5,draftkings,700.0,8.0,0.1592,6.28,0.1168,0.1168,0.0423,,0.2733,0.1274,0.0193,0.0007,False,True,False,,,
+401909905,LAC @ GSW,prop_pa,under,Darius Garland,1629636.0,31.5,draftkings,-117.0,1.85,0.6835,1.46,0.5039,0.5039,0.1796,,0.2676,0.5488,0.0178,0.0052,True,True,True,,,
 401909904,BKN @ IND,prop_reb,over,Julius Randle,203944.0,11.5,draftkings,750.0,8.5,0.1489,6.72,0.11,0.11,0.0389,,0.2652,0.1197,0.0172,0.0006,False,True,False,,,
-401909905,LAC @ GSW,prop_pra,under,Darius Garland,1629636.0,34.5,draftkings,-124.0,1.81,0.6991,1.43,0.5174,0.5174,0.1818,,0.2629,0.5628,0.0167,0.0052,True,True,True,,,
 401909904,BKN @ IND,prop_pts,over,Noah Clowney,1641730.0,11.5,draftkings,311.0,4.11,0.307,3.26,0.2274,0.2274,0.0796,,0.2619,0.2473,0.0164,0.0013,False,False,False,,,
 401909904,BKN @ IND,prop_pts,over,Jarace Walker,1641716.0,11.5,draftkings,148.0,2.48,0.5065,1.97,0.3768,0.3768,0.1297,,0.2562,0.4093,0.015,0.0025,False,False,False,Obi Toppin,0.555,0.4716
-401909906,TOR @ LAL,prop_pr,under,Walker Kessler,1631117.0,23.5,draftkings,-121.0,1.83,0.6868,1.46,0.5117,0.5117,0.1751,,0.2543,0.5555,0.0145,0.0044,True,True,True,,,
-401909903,BOS @ ORL,prop_reb,over,Paul George,202331.0,7.5,draftkings,560.0,6.6,0.1899,5.27,0.1416,0.1416,0.0483,,0.253,0.1537,0.0142,0.0006,False,True,False,,,
 401909906,TOR @ LAL,prop_pr,under,Austin Reaves,1630559.0,27.5,draftkings,-122.0,1.82,0.6885,1.45,0.5136,0.5136,0.1749,,0.2528,0.5573,0.0141,0.0043,True,True,True,,,
 401909904,BKN @ IND,prop_reb,over,Julius Randle,203944.0,10.5,draftkings,466.0,5.66,0.2212,4.52,0.1651,0.1651,0.0561,,0.2522,0.1791,0.014,0.0008,False,False,False,,,
+401909905,LAC @ GSW,prop_ast,over,Brandin Podziemski,1641764.0,6.5,draftkings,384.0,4.84,0.2586,3.87,0.1931,0.1931,0.0655,,0.2515,0.2095,0.0138,0.0009,False,False,False,,,
 401909904,BKN @ IND,prop_reb,over,Moritz Wagner,1629021.0,10.5,draftkings,2100.0,22.0,0.0569,17.59,0.0425,0.0425,0.0144,,0.251,0.0461,0.0137,0.0002,False,False,False,,,
 401909904,BKN @ IND,prop_pra,over,Day'Ron Sharpe,1630549.0,29.5,draftkings,710.0,8.1,0.1544,6.48,0.1154,0.1154,0.039,,0.2505,0.1251,0.0136,0.0005,False,True,False,,,
 401909906,TOR @ LAL,prop_pra,under,Walker Kessler,1631117.0,24.5,draftkings,-113.0,1.88,0.663,1.51,0.4958,0.4958,0.1672,,0.2498,0.5376,0.0134,0.0038,True,True,True,Ziaire Williams,0.6377,0.6798
-401909903,BOS @ ORL,prop_pts,over,Paul George,202331.0,34.5,draftkings,2300.0,24.0,0.052,19.21,0.0389,0.0389,0.0131,,0.2492,0.0422,0.0132,0.0001,False,True,False,,,
-401909905,LAC @ GSW,prop_pa,under,Darius Garland,1629636.0,31.5,draftkings,-121.0,1.83,0.6835,1.46,0.5117,0.5117,0.1718,,0.2483,0.5546,0.013,0.0039,True,True,True,,,
-401909903,BOS @ ORL,prop_pts,over,Paul George,202331.0,29.5,draftkings,1000.0,11.0,0.1135,8.81,0.085,0.085,0.0285,,0.2484,0.0921,0.013,0.0003,False,True,False,,,
 401909904,BKN @ IND,prop_pts,over,Noah Clowney,1641730.0,9.5,draftkings,174.0,2.74,0.455,2.2,0.3411,0.3411,0.1139,,0.2467,0.3696,0.0126,0.0018,False,True,False,,,
+401909905,LAC @ GSW,prop_pts,under,Kris Dunn,1627739.0,8.5,draftkings,-121.0,1.83,0.6816,1.47,0.5117,0.5117,0.1699,,0.2449,0.5542,0.0122,0.0037,True,False,True,,,
 401909904,BKN @ IND,prop_reb,over,Moritz Wagner,1629021.0,5.5,draftkings,184.0,2.84,0.4384,2.28,0.3291,0.3291,0.1094,,0.2452,0.3564,0.0122,0.0017,False,True,False,,,
 401909904,BKN @ IND,prop_pa,over,Jarace Walker,1641716.0,12.5,draftkings,-104.0,1.96,0.6333,1.58,0.4765,0.4765,0.1569,,0.2423,0.5157,0.0115,0.003,True,True,True,Obi Toppin,0.692,0.5906
 401909904,BKN @ IND,prop_pa,over,Jarace Walker,1641716.0,12.5,draftkings,-104.0,1.96,0.6333,1.58,0.4765,0.4765,0.1569,,0.2423,0.5157,0.0115,0.003,True,True,True,Obi Toppin,0.692,0.5906
@@ -92,34 +92,29 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909904,BKN @ IND,prop_ast,over,Pascal Siakam,1627783.0,8.5,draftkings,1880.0,19.8,0.0624,16.02,0.0472,0.0472,0.0152,,0.2362,0.051,0.01,0.0001,False,False,False,,,
 401909905,LAC @ GSW,prop_reb,under,Isaiah Jackson,1630543.0,7.5,draftkings,-139.0,1.72,0.7176,1.39,0.5435,0.5435,0.174,,0.2338,0.587,0.0094,0.0033,True,True,True,,,
 401909905,LAC @ GSW,prop_pr,under,Rui Hachimura,1629060.0,20.5,draftkings,-112.0,1.89,0.6519,1.53,0.4937,0.4937,0.1581,,0.2339,0.5333,0.0094,0.0026,True,True,True,,,
-401909903,BOS @ ORL,prop_reb,over,Jayson Tatum,1628369.0,12.5,draftkings,660.0,7.6,0.1622,6.17,0.123,0.123,0.0392,,0.2327,0.1328,0.0091,0.0003,False,False,False,,,
-401909905,LAC @ GSW,prop_pr,over,Brandin Podziemski,1641764.0,34.5,draftkings,1040.0,11.4,0.1081,9.25,0.082,0.082,0.0261,,0.2322,0.0885,0.009,0.0002,False,True,False,,,
 401909904,BKN @ IND,prop_pr,over,Jarace Walker,1641716.0,14.5,draftkings,-128.0,1.78,0.6883,1.45,0.5247,0.5256,0.1627,,0.226,0.5662,0.0086,0.0028,True,True,True,Obi Toppin,0.7404,0.6489
-401909903,BOS @ ORL,prop_pra,over,Paul George,202331.0,39.5,draftkings,980.0,10.8,0.1138,8.79,0.0865,0.0865,0.0273,,0.2291,0.0934,0.0082,0.0002,False,True,False,,,
 401909904,BKN @ IND,prop_ast,over,Aaron Nesmith,1630174.0,3.5,draftkings,790.0,8.9,0.1378,7.26,0.105,0.105,0.0328,,0.2261,0.1132,0.0075,0.0002,False,True,False,,,
-401909905,LAC @ GSW,prop_ast,over,Brandin Podziemski,1641764.0,8.5,draftkings,1280.0,13.8,0.0887,11.28,0.0677,0.0677,0.0209,,0.2235,0.073,0.0068,0.0001,False,False,False,,,
 401909904,BKN @ IND,prop_ra,over,Jarace Walker,1641716.0,7.5,draftkings,-111.0,1.9,0.6429,1.56,0.4919,0.4919,0.151,6.94,0.2221,0.5297,0.0068,0.0019,True,True,True,Obi Toppin,0.6902,0.6058
-401909905,LAC @ GSW,prop_pts,under,Kris Dunn,1627739.0,8.5,draftkings,-126.0,1.79,0.6816,1.47,0.521,0.521,0.1606,,0.2226,0.5612,0.0066,0.0021,True,False,True,,,
 401909905,LAC @ GSW,prop_pts,under,Rui Hachimura,1629060.0,15.5,draftkings,-107.0,1.93,0.6315,1.58,0.4831,0.4831,0.1484,,0.2216,0.5202,0.0063,0.0017,False,True,True,,,
 401909904,BKN @ IND,prop_ast,under,Nolan Traore,1642849.0,4.5,draftkings,-109.0,1.92,0.6365,1.57,0.4874,0.4874,0.1491,,0.2205,0.5247,0.0061,0.0016,False,True,True,,,
-401909905,LAC @ GSW,prop_ast,over,Brandin Podziemski,1641764.0,6.5,draftkings,372.0,4.72,0.2586,3.87,0.198,0.198,0.0606,,0.2205,0.2131,0.0061,0.0004,False,False,False,,,
-401909903,BOS @ ORL,prop_reb,over,Paul George,202331.0,8.5,draftkings,970.0,10.7,0.114,8.78,0.0873,0.0873,0.0266,,0.2193,0.094,0.0058,0.0001,False,False,False,,,
 401909906,TOR @ LAL,moneyline,LAL,,,,draftkings,-148.0,1.68,0.5424,1.84,0.5721,0.6,-0.0576,4.32,-0.0911,0.6,0.0054,0.002,False,True,True,,,
-401909903,BOS @ ORL,prop_reb,over,Jayson Tatum,1628369.0,13.5,draftkings,1020.0,11.2,0.1087,9.2,0.0834,0.0834,0.0253,,0.2175,0.0898,0.0053,0.0001,False,True,False,,,
 401909904,BKN @ IND,prop_pr,over,Jarace Walker,1641716.0,14.5,draftkings,-129.0,1.78,0.6883,1.45,0.5265,0.5256,0.1627,,0.2218,0.5662,0.0052,0.0017,True,True,True,Obi Toppin,0.7404,0.6489
 401909904,BKN @ IND,prop_blk,over,Jay Huff,1630643.0,3.5,draftkings,900.0,10.0,0.1216,8.22,0.0935,0.0935,0.0282,,0.2162,0.1005,0.005,0.0001,False,True,False,,,
+401909906,TOR @ LAL,prop_ast,over,RJ Barrett,1629628.0,6.5,draftkings,810.0,9.1,0.1334,7.5,0.1027,0.1027,0.0307,,0.2138,0.1104,0.0044,0.0001,False,False,False,,,
 401909906,TOR @ LAL,prop_ast,under,Jakob Poeltl,1627751.0,1.5,draftkings,102.0,2.02,0.6005,1.67,0.4627,0.4627,0.1378,,0.213,0.4971,0.0042,0.001,False,False,True,,,
 401909904,BKN @ IND,prop_pts,over,Jarace Walker,1641716.0,9.5,draftkings,-118.0,1.85,0.648,1.54,0.5059,0.5088,0.1392,,0.1971,0.5436,0.0042,0.0013,False,True,True,Obi Toppin,0.699,0.6104
 401909905,LAC @ GSW,prop_pr,under,Darius Garland,1629636.0,26.5,draftkings,-118.0,1.85,0.6564,1.52,0.5059,0.5059,0.1505,,0.2127,0.5435,0.0041,0.0012,True,True,True,,,
+401909905,LAC @ GSW,prop_pr,over,Brandin Podziemski,1641764.0,34.5,draftkings,1020.0,11.2,0.1081,9.25,0.0834,0.0834,0.0246,,0.2106,0.0896,0.0036,0.0001,False,True,False,,,
 401909904,BKN @ IND,prop_blk,over,Jay Huff,1630643.0,2.5,draftkings,347.0,4.47,0.2707,3.69,0.2091,0.2091,0.0617,,0.2102,0.2245,0.0035,0.0003,False,True,False,Obi Toppin,0.2897,0.2489
 401909904,BKN @ IND,prop_reb,over,Julius Randle,203944.0,12.5,draftkings,1140.0,12.4,0.0975,10.25,0.0754,0.0754,0.0222,,0.2096,0.0809,0.0033,0.0001,False,False,False,,,
+401909905,LAC @ GSW,prop_ast,over,Brandin Podziemski,1641764.0,9.5,draftkings,2300.0,24.0,0.0504,19.85,0.0389,0.0389,0.0114,,0.209,0.0418,0.0032,0.0,False,True,False,,,
 401909904,BKN @ IND,prop_reb,over,Julius Randle,203944.0,9.5,draftkings,290.0,3.9,0.3097,3.23,0.2396,0.2396,0.0701,,0.208,0.2572,0.0029,0.0003,False,True,False,,,
 401909904,BKN @ IND,prop_pts,over,Noah Clowney,1641730.0,17.5,draftkings,1500.0,16.0,0.0754,13.26,0.0584,0.0584,0.017,,0.2063,0.0627,0.0025,0.0,False,False,False,,,
 401909904,BKN @ IND,prop_pts,over,Jay Huff,1630643.0,11.5,draftkings,311.0,4.11,0.2933,3.41,0.2274,0.2274,0.0659,,0.2055,0.2439,0.0023,0.0002,False,False,False,,,
 401909906,TOR @ LAL,prop_pr,under,Luka Doncic,1629029.0,40.5,draftkings,-109.0,1.92,0.6285,1.59,0.4874,0.4874,0.1411,,0.2051,0.5227,0.0022,0.0006,False,True,True,Ziaire Williams,0.6032,0.6447
+401909906,TOR @ LAL,prop_stl,over,Scottie Barnes,1630567.0,1.5,draftkings,104.0,2.04,0.58,1.72,0.4581,0.4615,0.1185,,0.1832,0.4912,0.002,0.0005,False,True,True,,,
 401909905,LAC @ GSW,prop_pts,under,Darius Garland,1629636.0,23.5,draftkings,-113.0,1.88,0.6376,1.57,0.4958,0.4958,0.1418,,0.2018,0.5313,0.0014,0.0004,False,True,True,,,
-401909903,BOS @ ORL,prop_reb,over,Jayson Tatum,1628369.0,11.5,draftkings,420.0,5.2,0.2312,4.33,0.1797,0.1797,0.0514,,0.2021,0.1926,0.0014,0.0001,False,True,False,,,
 401909904,BKN @ IND,prop_reb,over,Jarace Walker,1641716.0,5.5,draftkings,118.0,2.18,0.5506,1.82,0.4287,0.4287,0.1219,,0.2003,0.4592,0.001,0.0002,False,True,False,Obi Toppin,0.5884,0.522
 401909904,BKN @ IND,prop_stl,over,Keon Ellis,1631165.0,2.5,draftkings,536.0,6.36,0.1886,5.3,0.1469,0.1469,0.0416,,0.1993,0.1574,0.0008,0.0,False,True,False,,,
-401909903,BOS @ ORL,prop_reb,over,Paul George,202331.0,6.5,draftkings,305.0,4.05,0.2956,3.38,0.2308,0.2308,0.0649,,0.1973,0.247,0.0003,0.0,False,False,False,,,
+401909906,TOR @ LAL,prop_ast,over,RJ Barrett,1629628.0,7.5,draftkings,1560.0,16.6,0.0721,13.86,0.0563,0.0563,0.0158,,0.1976,0.0603,0.0003,0.0,False,True,False,,,
 401909906,TOR @ LAL,moneyline,TOR,,,,betr_au,150.0,2.5,0.4576,2.19,0.384,0.4,0.0576,4.16,0.144,0.4,0.0001,0.0,False,True,True,,,
