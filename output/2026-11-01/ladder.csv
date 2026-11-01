@@ -15,19 +15,19 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,reb,5.5,False,0.2899,0.2741,book,0.278
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,reb,6.5,False,0.1715,0.1663,book,0.1676
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,reb,7.5,False,0.0953,0.0974,book,0.0969
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,0.5,False,0.9781,0.9712,est,0.9729
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,1.5,False,0.8973,0.8686,est,0.8758
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,2.5,False,0.7566,0.6912,book,0.7075
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,3.5,True,0.5779,0.5088,book,0.5261
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,4.5,False,0.4023,0.3411,book,0.3564
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,5.5,False,0.252,0.2068,book,0.2181
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,0.5,False,0.9781,0.971,est,0.9728
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,1.5,False,0.8973,0.8677,est,0.8751
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,2.5,False,0.7566,0.6854,book,0.7032
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,3.5,True,0.5779,0.5069,book,0.5247
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,4.5,False,0.4023,0.335,book,0.3518
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,5.5,False,0.252,0.2019,book,0.2144
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ast,6.5,False,0.1482,0.1168,book,0.1246
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,fg3m,0.5,False,0.9236,0.9034,book,0.9084
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,fg3m,1.5,False,0.7351,0.7637,book,0.7565
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,fg3m,2.5,True,0.4865,0.5688,book,0.5482
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,fg3m,3.5,False,0.2644,0.3651,book,0.3399
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,fg3m,4.5,False,0.1198,0.2158,book,0.1918
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,stl,0.5,False,0.6847,,model only,0.6847
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,stl,0.5,False,0.6847,0.6145,book,0.632
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,stl,1.5,False,0.3319,,model only,0.3319
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,stl,2.5,False,0.1267,,model only,0.1267
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,blk,0.5,False,0.3574,,model only,0.3574
@@ -52,15 +52,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pr,25.5,False,0.3821,0.3994,est,0.395
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pr,26.5,False,0.3405,0.357,est,0.3529
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pr,27.5,False,0.3024,0.3178,est,0.314
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,18.5,False,0.6998,0.7052,est,0.7038
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,19.5,False,0.6515,0.6573,est,0.6558
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,20.5,False,0.6022,0.6082,est,0.6067
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,21.5,False,0.5525,0.5588,est,0.5572
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,22.5,True,0.5043,0.5107,book,0.5091
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,23.5,False,0.4557,0.462,est,0.4604
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,24.5,False,0.4103,0.4165,est,0.415
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,25.5,False,0.3681,0.374,est,0.3725
-401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,26.5,False,0.3283,0.3339,est,0.3325
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,18.5,False,0.6998,0.7011,est,0.7008
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,19.5,False,0.6515,0.6529,est,0.6526
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,20.5,False,0.6022,0.6037,est,0.6033
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,21.5,False,0.5525,0.5541,est,0.5537
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,22.5,True,0.5043,0.5059,book,0.5055
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,23.5,False,0.4557,0.4572,est,0.4568
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,24.5,False,0.4103,0.4119,est,0.4115
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,25.5,False,0.3681,0.3695,est,0.3692
+401909903,BOS @ ORL,ORL,1630217,Desmond Bane,pa,26.5,False,0.3283,0.3297,est,0.3293
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ra,4.5,False,0.9011,0.8716,est,0.879
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ra,5.5,False,0.822,0.7749,est,0.7867
 401909903,BOS @ ORL,ORL,1630217,Desmond Bane,ra,6.5,False,0.7193,0.6563,est,0.6721
@@ -84,33 +84,33 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,reb,4.5,False,0.3326,0.3815,book,0.3693
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,reb,5.5,False,0.1984,0.2415,book,0.2307
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,reb,6.5,False,0.109,0.1481,book,0.1383
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,0.5,False,0.9752,0.9709,est,0.972
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,1.5,False,0.9008,0.8852,est,0.8891
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,2.5,False,0.7582,0.698,book,0.713
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,3.5,True,0.5837,0.5435,book,0.5535
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,4.5,False,0.4092,0.391,book,0.3956
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,5.5,False,0.2665,0.2625,book,0.2635
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,6.5,False,0.1609,0.1681,book,0.1663
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,0.5,False,0.9752,0.9706,est,0.9718
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,1.5,False,0.9008,0.8842,est,0.8884
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,2.5,False,0.7582,0.6937,book,0.7098
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,3.5,True,0.5837,0.5411,book,0.5517
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,4.5,False,0.4092,0.3862,book,0.392
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,5.5,False,0.2665,0.2575,book,0.2597
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,ast,6.5,False,0.1609,0.164,book,0.1632
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,fg3m,0.5,False,0.7948,0.7981,book,0.7973
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,fg3m,1.5,True,0.4607,0.5238,book,0.508
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,fg3m,2.5,False,0.2079,0.2841,book,0.2651
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,fg3m,3.5,False,0.0708,0.1335,book,0.1178
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,stl,0.5,False,0.7377,,model only,0.7377
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,stl,1.5,False,0.4103,,model only,0.4103
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,stl,1.5,False,0.4103,0.4063,book,0.4073
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,stl,2.5,False,0.1789,,model only,0.1789
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,blk,0.5,False,0.4601,,model only,0.4601
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,blk,0.5,False,0.4601,0.4367,book,0.4425
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,blk,1.5,False,0.1327,,model only,0.1327
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,16.5,False,0.7277,0.7624,est,0.7537
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,17.5,False,0.6762,0.7148,est,0.7052
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,18.5,False,0.6238,0.6656,est,0.6551
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,19.5,False,0.5694,0.6135,est,0.6025
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,20.5,False,0.5164,0.5618,est,0.5505
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,21.5,True,0.4642,0.5098,book,0.4984
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,22.5,False,0.4127,0.4576,est,0.4463
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,23.5,False,0.3669,0.4103,est,0.3995
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,24.5,False,0.321,0.3621,est,0.3518
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,25.5,False,0.2794,0.3176,est,0.308
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,26.5,False,0.2413,0.2763,est,0.2675
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,16.5,False,0.7277,0.7602,est,0.7521
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,17.5,False,0.6762,0.7124,est,0.7033
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,18.5,False,0.6238,0.6629,est,0.6531
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,19.5,False,0.5694,0.6107,est,0.6004
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,20.5,False,0.5164,0.5589,est,0.5482
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,21.5,True,0.4642,0.5068,book,0.4961
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,22.5,False,0.4127,0.4546,est,0.4441
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,23.5,False,0.3669,0.4074,est,0.3973
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,24.5,False,0.321,0.3593,est,0.3497
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,25.5,False,0.2794,0.315,est,0.3061
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pra,26.5,False,0.2413,0.2739,est,0.2657
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,pr,13.5,False,0.6854,0.7291,est,0.7182
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,pr,14.5,False,0.6267,0.6747,est,0.6627
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,pr,15.5,False,0.5672,0.6182,est,0.6054
@@ -120,15 +120,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,pr,19.5,False,0.3375,0.3863,est,0.3741
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,pr,20.5,False,0.2912,0.3366,est,0.3253
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,pr,21.5,False,0.2486,0.2901,est,0.2797
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,13.5,False,0.7079,0.7352,est,0.7283
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,14.5,False,0.6474,0.6777,est,0.6702
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,15.5,False,0.5867,0.6191,est,0.611
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,16.5,False,0.528,0.5617,est,0.5533
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,17.5,True,0.47,0.5039,book,0.4954
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,18.5,False,0.4159,0.4492,est,0.4409
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,19.5,False,0.3631,0.395,est,0.387
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,20.5,False,0.3162,0.3463,est,0.3387
-401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,21.5,False,0.2697,0.2973,est,0.2904
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,13.5,False,0.7079,0.7328,est,0.7266
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,14.5,False,0.6474,0.6751,est,0.6682
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,15.5,False,0.5867,0.6163,est,0.6089
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,16.5,False,0.528,0.5587,est,0.5511
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,17.5,True,0.47,0.5009,book,0.4932
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,18.5,False,0.4159,0.4462,est,0.4387
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,19.5,False,0.3631,0.3922,est,0.3849
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,20.5,False,0.3162,0.3435,est,0.3367
+401909903,BOS @ ORL,ORL,1641710,Anthony Black,pa,21.5,False,0.2697,0.2948,est,0.2885
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,ra,4.5,False,0.8559,0.8581,est,0.8576
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,ra,5.5,False,0.7612,0.7645,est,0.7637
 401909903,BOS @ ORL,ORL,1641710,Anthony Black,ra,6.5,False,0.648,0.6521,est,0.6511
@@ -288,8 +288,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,fg3m,0.5,True,0.621,0.5554,book,0.5718
 401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,fg3m,1.5,False,0.2552,0.2252,book,0.2327
 401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,fg3m,2.5,False,0.0731,0.0779,book,0.0767
-401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,stl,0.5,True,0.5289,0.5004,book,0.5075
-401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,stl,1.5,False,0.1888,0.1719,est,0.1762
+401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,stl,0.5,False,0.5289,,model only,0.5289
+401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,stl,1.5,False,0.1888,,model only,0.1888
+401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,stl,2.5,False,0.0529,,model only,0.0529
 401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,blk,0.5,False,0.5021,,model only,0.5021
 401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,blk,1.5,False,0.1627,,model only,0.1627
 401909903,BOS @ ORL,ORL,1628976,Wendell Carter Jr.,blk,2.5,False,0.0394,,model only,0.0394
@@ -345,8 +346,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,reb,4.5,False,0.3031,0.2902,book,0.2934
 401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,reb,5.5,False,0.1754,0.1702,book,0.1715
 401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,reb,6.5,False,0.0923,0.0984,book,0.0969
-401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,ast,0.5,False,0.8151,0.8042,est,0.8069
-401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,ast,1.5,True,0.5215,0.5039,book,0.5083
+401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,ast,0.5,False,0.8151,0.8017,est,0.805
+401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,ast,1.5,True,0.5215,0.4999,book,0.5053
 401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,ast,2.5,False,0.2658,0.2618,book,0.2628
 401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,ast,3.5,False,0.1178,0.1198,book,0.1193
 401909903,BOS @ ORL,ORL,1641783,Tristan da Silva,ast,4.5,False,0.0453,0.055,book,0.0526
@@ -403,12 +404,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1642859,Jase Richardson,pts,10.5,False,0.3242,0.3396,est,0.3357
 401909903,BOS @ ORL,ORL,1642859,Jase Richardson,pts,11.5,False,0.2587,0.2723,est,0.2689
 401909903,BOS @ ORL,ORL,1642859,Jase Richardson,pts,12.5,False,0.2042,0.2157,est,0.2128
-401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,0.5,False,0.9138,0.933,est,0.9282
-401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,1.5,False,0.7289,0.7793,est,0.7667
-401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,2.5,True,0.5012,0.5688,book,0.5519
-401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,3.5,False,0.3021,0.3709,book,0.3537
-401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,4.5,False,0.1616,0.2173,book,0.2034
-401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,5.5,False,0.0788,0.1198,book,0.1096
+401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,0.5,False,0.9138,0.9333,est,0.9285
+401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,1.5,False,0.7289,0.7802,est,0.7674
+401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,2.5,True,0.5012,0.5702,book,0.5529
+401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,3.5,False,0.3021,0.3768,book,0.3581
+401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,4.5,False,0.1616,0.2215,book,0.2065
+401909903,BOS @ ORL,ORL,1642859,Jase Richardson,reb,5.5,False,0.0788,0.123,book,0.112
 401909903,BOS @ ORL,ORL,1642859,Jase Richardson,ast,0.5,False,0.8838,0.8852,est,0.8848
 401909903,BOS @ ORL,ORL,1642859,Jase Richardson,ast,1.5,False,0.6694,0.6726,est,0.6718
 401909903,BOS @ ORL,ORL,1642859,Jase Richardson,ast,2.5,True,0.4292,0.4327,book,0.4318
@@ -476,33 +477,33 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,reb,6.5,False,0.3977,0.4229,book,0.4166
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,reb,7.5,False,0.2758,0.3005,book,0.2943
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,reb,8.5,False,0.179,0.2019,book,0.1962
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,2.5,False,0.9325,0.8921,book,0.9022
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,3.5,False,0.8463,0.8132,book,0.8215
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,4.5,False,0.7268,0.7032,book,0.7091
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,5.5,True,0.5882,0.5666,book,0.572
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,6.5,False,0.4451,0.4229,book,0.4284
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,7.5,False,0.3156,0.2967,book,0.3014
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,8.5,False,0.213,0.1955,book,0.1999
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,3.5,False,0.8463,0.822,book,0.8281
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,4.5,False,0.7268,0.7157,book,0.7185
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,5.5,False,0.5882,0.5845,book,0.5854
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,6.5,True,0.4451,0.4429,book,0.4434
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,7.5,False,0.3156,0.3147,book,0.3149
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,8.5,False,0.213,0.21,book,0.2107
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ast,9.5,False,0.1362,0.1335,book,0.1342
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,fg3m,0.5,False,0.7866,0.7545,book,0.7625
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,fg3m,1.5,True,0.4668,0.4526,book,0.4561
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,fg3m,2.5,False,0.2188,0.2209,book,0.2204
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,fg3m,3.5,False,0.0829,0.0974,book,0.0938
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,stl,0.5,False,0.6618,0.6911,est,0.6838
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,stl,1.5,True,0.3093,0.3386,book,0.3313
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,stl,2.5,False,0.1161,0.1418,book,0.1354
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,stl,0.5,False,0.6618,0.6713,book,0.6689
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,stl,1.5,True,0.3093,0.3374,book,0.3304
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,stl,2.5,False,0.1161,0.1387,book,0.133
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,blk,0.5,False,0.2848,,model only,0.2848
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,blk,1.5,False,0.0461,,model only,0.0461
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,29.5,False,0.668,0.698,book,0.6905
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,30.5,False,0.6296,0.6626,est,0.6543
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,31.5,False,0.5921,0.6264,est,0.6178
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,32.5,False,0.5553,0.5905,est,0.5817
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,33.5,False,0.5149,0.5508,est,0.5418
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,34.5,True,0.4785,0.5145,book,0.5055
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,35.5,False,0.4367,0.4724,est,0.4634
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,36.5,False,0.3999,0.435,est,0.4262
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,37.5,False,0.3668,0.4009,est,0.3924
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,38.5,False,0.3332,0.3659,est,0.3577
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,39.5,False,0.3035,0.3302,book,0.3235
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,30.5,False,0.6296,0.6701,est,0.66
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,31.5,False,0.5921,0.6344,est,0.6238
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,32.5,False,0.5553,0.5988,est,0.5879
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,33.5,False,0.5149,0.5593,est,0.5482
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,34.5,False,0.4785,0.523,est,0.5119
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,35.5,True,0.4367,0.4809,book,0.4698
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,36.5,False,0.3999,0.4434,est,0.4325
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,37.5,False,0.3668,0.4091,est,0.3986
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,38.5,False,0.3332,0.3739,est,0.3637
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,39.5,False,0.3035,0.3424,est,0.3327
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pra,40.5,False,0.2758,0.3128,est,0.3036
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pr,24.5,False,0.625,0.6668,book,0.6563
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pr,25.5,False,0.582,0.6265,est,0.6154
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pr,26.5,False,0.5403,0.5861,est,0.5747
@@ -512,22 +513,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pr,30.5,False,0.3785,0.4232,est,0.4121
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pr,31.5,False,0.3424,0.3856,est,0.3748
 401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pr,32.5,False,0.3082,0.3493,est,0.339
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,24.5,False,0.6361,0.6712,est,0.6624
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,25.5,False,0.5949,0.6316,est,0.6224
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,26.5,False,0.5534,0.5913,est,0.5819
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,27.5,False,0.5125,0.5511,est,0.5414
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,28.5,True,0.4701,0.5088,book,0.4991
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,29.5,False,0.4281,0.4665,est,0.4569
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,30.5,False,0.3903,0.4278,est,0.4184
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,31.5,False,0.3557,0.392,est,0.3829
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,32.5,False,0.3217,0.3564,est,0.3477
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,9.5,False,0.7463,0.7486,est,0.748
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,10.5,False,0.6521,0.6549,est,0.6542
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,11.5,False,0.5599,0.5628,est,0.5621
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,12.5,True,0.4647,0.4677,book,0.467
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,13.5,False,0.3694,0.3722,est,0.3715
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,14.5,False,0.2885,0.291,est,0.2904
-401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,15.5,False,0.2184,0.2205,est,0.2199
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,24.5,False,0.6361,0.6728,est,0.6637
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,25.5,False,0.5949,0.6334,est,0.6238
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,26.5,False,0.5534,0.5932,est,0.5832
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,27.5,False,0.5125,0.553,est,0.5429
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,28.5,True,0.4701,0.5107,book,0.5005
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,29.5,False,0.4281,0.4684,est,0.4583
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,30.5,False,0.3903,0.4297,est,0.4198
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,31.5,False,0.3557,0.3938,est,0.3843
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,pa,32.5,False,0.3217,0.3582,est,0.349
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,9.5,False,0.7463,0.7545,est,0.7524
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,10.5,False,0.6521,0.662,est,0.6595
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,11.5,False,0.5599,0.5706,est,0.5679
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,12.5,True,0.4647,0.4756,book,0.4729
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,13.5,False,0.3694,0.3797,est,0.3771
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,14.5,False,0.2885,0.2976,est,0.2953
+401909903,BOS @ ORL,ORL,1630532,Franz Wagner,ra,15.5,False,0.2184,0.226,est,0.2241
 401909903,BOS @ ORL,BOS,202331,Paul George,pts,13.5,False,0.7553,0.7251,est,0.7327
 401909903,BOS @ ORL,BOS,202331,Paul George,pts,14.5,False,0.7046,0.6573,book,0.6691
 401909903,BOS @ ORL,BOS,202331,Paul George,pts,15.5,False,0.6524,0.616,est,0.6251
@@ -4610,15 +4611,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,ra,4.5,False,0.3234,,model only,0.3234
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,ra,5.5,False,0.2053,,model only,0.2053
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,ra,6.5,False,0.1219,,model only,0.1219
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,3.5,False,0.8219,0.8639,est,0.8534
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,4.5,False,0.7182,0.778,est,0.763
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,5.5,False,0.6153,0.6874,est,0.6693
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,6.5,False,0.5093,0.588,est,0.5683
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,7.5,True,0.413,0.4917,book,0.472
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,8.5,False,0.328,0.4016,est,0.3832
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,9.5,False,0.2529,0.3176,est,0.3014
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,10.5,False,0.1919,0.2462,est,0.2326
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,11.5,False,0.1422,0.1855,est,0.1747
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,3.5,False,0.8219,0.8609,est,0.8511
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,4.5,False,0.7182,0.7736,est,0.7597
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,5.5,False,0.6153,0.6819,est,0.6652
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,6.5,False,0.5093,0.5819,est,0.5637
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,7.5,True,0.413,0.4854,book,0.4673
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,8.5,False,0.328,0.3956,est,0.3787
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,9.5,False,0.2529,0.3121,est,0.2973
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,10.5,False,0.1919,0.2415,est,0.2291
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,11.5,False,0.1422,0.1818,est,0.1719
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,reb,0.5,False,0.8633,,model only,0.8633
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,reb,1.5,False,0.6207,,model only,0.6207
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,reb,2.5,False,0.3808,,model only,0.3808
@@ -4738,15 +4739,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1629020,Jarred Vanderbilt,ra,5.5,False,0.3145,,model only,0.3145
 401909906,TOR @ LAL,LAL,1629020,Jarred Vanderbilt,ra,6.5,False,0.2178,,model only,0.2178
 401909906,TOR @ LAL,LAL,1629020,Jarred Vanderbilt,ra,7.5,False,0.1513,,model only,0.1513
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,19.5,False,0.5813,0.6593,est,0.6398
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,20.5,False,0.5363,0.6172,est,0.597
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,21.5,False,0.4887,0.5712,est,0.5506
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,22.5,False,0.4441,0.5269,est,0.5062
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,23.5,True,0.4024,0.4842,book,0.4638
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,24.5,False,0.3626,0.4423,est,0.4223
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,25.5,False,0.325,0.4016,est,0.3824
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,26.5,False,0.2906,0.3635,est,0.3453
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,27.5,False,0.2566,0.3248,est,0.3078
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,19.5,False,0.5813,0.6612,est,0.6412
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,20.5,False,0.5363,0.6192,est,0.5985
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,21.5,False,0.4887,0.5733,est,0.5521
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,22.5,False,0.4441,0.529,est,0.5078
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,23.5,True,0.4024,0.4863,book,0.4653
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,24.5,False,0.3626,0.4443,est,0.4239
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,25.5,False,0.325,0.4036,est,0.384
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,26.5,False,0.2906,0.3655,est,0.3468
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,27.5,False,0.2566,0.3267,est,0.3092
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,reb,4.5,False,0.7903,0.7821,book,0.7841
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,reb,5.5,False,0.6625,0.6785,book,0.6745
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,reb,6.5,False,0.5221,0.5592,book,0.5499
@@ -4771,17 +4772,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,blk,0.5,False,0.6373,,model only,0.6373
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,blk,1.5,False,0.2804,,model only,0.2804
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,blk,2.5,False,0.0974,,model only,0.0974
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,31.5,False,0.6363,0.6743,est,0.6648
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,32.5,False,0.5991,0.6388,est,0.6288
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,33.5,False,0.5595,0.6005,est,0.5902
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,34.5,False,0.5231,0.5648,est,0.5544
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,35.5,False,0.4855,0.5276,est,0.5171
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,36.5,True,0.4498,0.4917,book,0.4812
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,37.5,False,0.4132,0.4546,est,0.4442
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,38.5,False,0.3794,0.4198,est,0.4097
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,39.5,False,0.3459,0.3849,est,0.3751
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,40.5,False,0.3141,0.3514,est,0.3421
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,41.5,False,0.2861,0.3217,est,0.3128
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,31.5,False,0.6363,0.6761,est,0.6661
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,32.5,False,0.5991,0.6406,est,0.6302
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,33.5,False,0.5595,0.6024,est,0.5917
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,34.5,False,0.5231,0.5668,est,0.5559
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,35.5,False,0.4855,0.5296,est,0.5186
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,36.5,True,0.4498,0.4937,book,0.4827
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,37.5,False,0.4132,0.4566,est,0.4457
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,38.5,False,0.3794,0.4217,est,0.4111
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,39.5,False,0.3459,0.3868,est,0.3766
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,40.5,False,0.3141,0.3533,est,0.3435
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pra,41.5,False,0.2861,0.3234,est,0.3141
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pr,26.5,False,0.5718,0.6658,est,0.6423
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pr,27.5,False,0.5296,0.6268,est,0.6025
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pr,28.5,False,0.489,0.5881,est,0.5633
@@ -5002,15 +5003,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,905149115,Allen Graves,ra,4.5,False,0.3283,,model only,0.3283
 401909906,TOR @ LAL,TOR,905149115,Allen Graves,ra,5.5,False,0.2166,,model only,0.2166
 401909906,TOR @ LAL,TOR,905149115,Allen Graves,ra,6.5,False,0.1364,,model only,0.1364
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,5.5,False,0.8119,0.7869,book,0.7931
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,6.5,False,0.7395,0.7667,est,0.7599
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,7.5,False,0.6542,0.6629,book,0.6607
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,8.5,False,0.5685,0.604,est,0.5951
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,9.5,True,0.4864,0.5229,book,0.5138
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,10.5,False,0.4085,0.4443,est,0.4353
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,11.5,False,0.3373,0.3878,book,0.3752
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,12.5,False,0.2796,0.31,est,0.3024
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,13.5,False,0.2273,0.254,est,0.2473
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,5.5,False,0.8119,0.7637,book,0.7757
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,6.5,False,0.7395,0.7428,est,0.742
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,7.5,False,0.6542,0.6311,book,0.6369
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,8.5,False,0.5685,0.5727,est,0.5717
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,9.5,True,0.4864,0.4906,book,0.4895
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,10.5,False,0.4085,0.4126,est,0.4116
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,11.5,False,0.3373,0.3567,book,0.3518
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,12.5,False,0.2796,0.283,est,0.2822
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,13.5,False,0.2273,0.2303,est,0.2295
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,reb,2.5,False,0.8652,0.8496,book,0.8535
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,reb,3.5,False,0.7493,0.7477,book,0.7481
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,reb,4.5,False,0.6118,0.6199,book,0.6179
@@ -5032,35 +5033,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,blk,0.5,False,0.5157,,model only,0.5157
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,blk,1.5,False,0.1766,,model only,0.1766
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,blk,2.5,False,0.0471,,model only,0.0471
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,12.5,False,0.747,0.7723,est,0.766
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,13.5,False,0.692,0.7208,est,0.7136
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,14.5,False,0.6336,0.6652,est,0.6573
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,15.5,False,0.5746,0.6082,est,0.5998
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,16.5,False,0.5175,0.552,est,0.5434
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,17.5,True,0.4591,0.4937,book,0.485
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,18.5,False,0.4065,0.4404,est,0.4319
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,19.5,False,0.3529,0.3852,est,0.3771
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,20.5,False,0.3063,0.3366,est,0.3291
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,21.5,False,0.2599,0.2875,est,0.2806
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,22.5,False,0.2203,0.2451,est,0.2389
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,11.5,False,0.7168,0.7442,est,0.7373
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,12.5,False,0.6568,0.6875,est,0.6798
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,13.5,False,0.5915,0.6247,est,0.6164
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,14.5,False,0.5267,0.5613,est,0.5526
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,15.5,True,0.4651,0.4999,book,0.4912
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,16.5,False,0.4051,0.4391,est,0.4306
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,17.5,False,0.3524,0.3848,est,0.3767
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,18.5,False,0.3015,0.3316,est,0.3241
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,19.5,False,0.2539,0.2812,est,0.2744
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,7.5,False,0.777,0.8037,est,0.797
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,8.5,False,0.7042,0.7368,est,0.7287
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,9.5,False,0.6283,0.6653,est,0.656
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,10.5,False,0.5502,0.5898,est,0.5799
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,11.5,True,0.4741,0.5145,book,0.5044
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,12.5,False,0.4047,0.4442,est,0.4344
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,13.5,False,0.3413,0.3786,est,0.3693
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,14.5,False,0.2856,0.3197,est,0.3112
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,15.5,False,0.2338,0.264,est,0.2564
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,11.5,False,0.8002,0.8019,est,0.8014
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,12.5,False,0.747,0.749,est,0.7485
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,13.5,False,0.692,0.6942,est,0.6937
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,14.5,False,0.6336,0.636,est,0.6354
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,15.5,False,0.5746,0.5772,est,0.5765
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,16.5,True,0.5175,0.5201,book,0.5194
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,17.5,False,0.4591,0.4617,est,0.461
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,18.5,False,0.4065,0.4091,est,0.4084
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,19.5,False,0.3529,0.3553,est,0.3547
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,20.5,False,0.3063,0.3086,est,0.308
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pra,21.5,False,0.2599,0.2619,est,0.2614
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,11.5,False,0.7168,0.726,est,0.7237
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,12.5,False,0.6568,0.667,est,0.6645
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,13.5,False,0.5915,0.6025,est,0.5997
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,14.5,False,0.5267,0.5381,est,0.5353
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,15.5,True,0.4651,0.4765,book,0.4737
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,16.5,False,0.4051,0.4161,est,0.4134
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,17.5,False,0.3524,0.3629,est,0.3603
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,18.5,False,0.3015,0.3112,est,0.3088
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pr,19.5,False,0.2539,0.2627,est,0.2605
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,7.5,False,0.777,0.7832,est,0.7816
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,8.5,False,0.7042,0.7117,est,0.7099
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,9.5,False,0.6283,0.6367,est,0.6346
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,10.5,False,0.5502,0.5591,est,0.5569
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,11.5,True,0.4741,0.4831,book,0.4808
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,12.5,False,0.4047,0.4135,est,0.4113
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,13.5,False,0.3413,0.3495,est,0.3475
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,14.5,False,0.2856,0.2931,est,0.2912
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pa,15.5,False,0.2338,0.2403,est,0.2387
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,ra,4.5,False,0.7968,0.8028,est,0.8013
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,ra,5.5,False,0.6895,0.6975,est,0.6955
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,ra,6.5,False,0.5708,0.5799,est,0.5776
@@ -5186,15 +5187,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pr,22.5,False,0.3859,0.4168,est,0.4091
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pr,23.5,False,0.3397,0.3691,est,0.3618
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pr,24.5,False,0.2985,0.3262,est,0.3193
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,19.5,False,0.6535,0.6981,est,0.687
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,20.5,False,0.6002,0.648,est,0.636
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,21.5,False,0.5467,0.5966,est,0.5842
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,22.5,False,0.4962,0.547,est,0.5343
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,23.5,True,0.4481,0.4989,book,0.4862
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,24.5,False,0.4016,0.4515,est,0.439
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,25.5,False,0.3606,0.4088,est,0.3967
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,26.5,False,0.3208,0.3668,est,0.3553
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,27.5,False,0.284,0.3272,est,0.3164
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,19.5,False,0.6535,0.699,est,0.6876
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,20.5,False,0.6002,0.6489,est,0.6367
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,21.5,False,0.5467,0.5976,est,0.5849
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,22.5,False,0.4962,0.548,est,0.535
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,23.5,True,0.4481,0.4999,book,0.487
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,24.5,False,0.4016,0.4525,est,0.4398
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,25.5,False,0.3606,0.4098,est,0.3975
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,26.5,False,0.3208,0.3677,est,0.356
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pa,27.5,False,0.284,0.3281,est,0.3171
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,ra,6.5,False,0.8146,0.7877,est,0.7944
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,ra,7.5,False,0.7188,0.6833,est,0.6922
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,ra,8.5,False,0.6131,0.5723,est,0.5825
@@ -5300,17 +5301,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,stl,2.5,False,0.2479,,model only,0.2479
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,blk,0.5,False,0.227,,model only,0.227
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,blk,1.5,False,0.029,,model only,0.029
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,11.5,False,0.7888,0.7963,est,0.7944
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,12.5,False,0.7288,0.7378,est,0.7355
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,13.5,False,0.6688,0.6788,est,0.6763
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,14.5,False,0.6019,0.6128,est,0.6101
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,15.5,False,0.535,0.5463,est,0.5435
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,16.5,True,0.4706,0.482,book,0.4791
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,17.5,False,0.4071,0.4182,est,0.4154
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,18.5,False,0.3502,0.3607,est,0.3581
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,19.5,False,0.2977,0.3074,est,0.305
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,20.5,False,0.2471,0.2557,est,0.2535
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,21.5,False,0.2046,0.2122,est,0.2103
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,11.5,False,0.7888,0.797,est,0.795
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,12.5,False,0.7288,0.7386,est,0.7362
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,13.5,False,0.6688,0.6798,est,0.677
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,14.5,False,0.6019,0.6139,est,0.6109
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,15.5,False,0.535,0.5474,est,0.5443
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,16.5,True,0.4706,0.4831,book,0.48
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,17.5,False,0.4071,0.4193,est,0.4162
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,18.5,False,0.3502,0.3617,est,0.3588
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,19.5,False,0.2977,0.3083,est,0.3057
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,20.5,False,0.2471,0.2565,est,0.2542
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pra,21.5,False,0.2046,0.2129,est,0.2108
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pr,10.5,False,0.7516,0.7654,est,0.762
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pr,11.5,False,0.6852,0.7012,est,0.6972
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pr,12.5,False,0.6138,0.6315,est,0.627
