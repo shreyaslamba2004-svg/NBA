@@ -207,6 +207,11 @@ def build(today: date | None = None) -> str:
                 if clv:
                     r.update({"avg CLV %": round(100 * float(w["clv"].mean()), 1),
                               "beat closing %": round(100 * float((w["clv"] > 0).mean()), 1)})
+                    if "au_p" in w:
+                        au = (w["au_p"] * w[price_col] - 1).dropna()
+                        r.update({"bets with an Aussie close": len(au),
+                                  "avg CLV vs Aussie close %": round(100 * float(au.mean()), 1) if len(au) else "",
+                                  "beat Aussie close %": round(100 * float((au > 0).mean()), 1) if len(au) else ""})
                 rows.append(r)
         if len(rows) == 1:
             rows[0]["period"] = f"Since {x['day'].min():%d %b}"
@@ -279,8 +284,19 @@ def build(today: date | None = None) -> str:
     anyt = (g.dropna(subset=["taken_price"]).sort_values("taken_price", ascending=False)  # flags checked when shown
             .drop_duplicates(["game_id", "market", "selection", "player", "line"])) if len(g) else g
     if len(anyt):
+        try:
+            au = monitor.au_close()
+            if len(au):
+                anyt = anyt.assign(player=anyt["player"].fillna("")).merge(
+                    au, on=["game_id", "market", "selection", "player", "line"], how="left")
+        except Exception as e:  # Aussie CLV is extra; never block the page
+            print("Aussie close failed:", e)
         md.append(record(anyt, "taken_price") + "\n\n" +
                   bet_list(anyt, "Every bet that showed at any time (odds = first price shown)", "taken_price"))
+        md.append("CLV vs Aussie close uses the Australian books' own closing prices (Sportsbet, TAB, PointsBet and "
+                  "others, margin removed, averaged) for the same bet, where they priced it. That's the market you bet "
+                  "into, so it's the more relevant test; Aussie books often only list points props, so coverage is "
+                  "partial.")
         md.append("CLV (closing-line value) compares the price taken with the final no-vig market price before tip. "
                   "Positive CLV over a few hundred bets is the earliest reliable sign of a real edge; ROI swings "
                   "for months.")

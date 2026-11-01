@@ -46,6 +46,24 @@ def outcomes() -> tuple[pd.DataFrame, pd.DataFrame]:
     return res, games
 
 
+AU_BOOKS = {"sportsbet", "tab", "tabtouch", "pointsbetau", "ladbrokes_au", "neds", "unibet", "betright",
+            "betr_au", "playup", "picklebet_au", "betfair_ex_au"}
+
+
+def au_close() -> pd.DataFrame:
+    """Aussie books' closing no-vig probability for each bet (last logged snapshot before tip, averaged over the
+    Australian books that priced it), keyed by game_id, market, selection, player, line."""
+    e = _read_all("projections/*_edges.csv")
+    if e.empty:
+        return e
+    e = e[e["book"].isin(AU_BOOKS) & e["book_novig_prob"].notna()]
+    e["snap"] = e["snapshot_utc"].astype(str).str.split("|").str[0]
+    key = ["game_id", "market", "selection", "player", "line"]
+    e = e.assign(player=e["player"].fillna("")).sort_values("snap").drop_duplicates(key + ["book"], keep="last")
+    return (e.groupby(key, as_index=False)
+            .agg(au_p=("book_novig_prob", "mean"), au_books=("book", "nunique")))
+
+
 def graded_offers() -> pd.DataFrame:
     e = _read_all("projections/*_edges.csv")
     res, games = outcomes()

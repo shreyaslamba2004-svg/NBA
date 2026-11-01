@@ -277,9 +277,9 @@ TODAY.md's "not on Sportsbet" table: bets that meet the best-bets rules (EV ≥ 
 
 **Any time in the day.** Every bet that showed in the table at any point, graded at the first price it showed at. Bets that dropped off before tip (news, price moves) count here.
 
-| period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |   avg CLV % |   beat closing % |
-|:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|------------:|-----------------:|
-| Since 28 Oct |     51 |    18 |             3.86 |            7.6 |                  33.4 |                                  -2.9 |                   -8.7 |         0.1 |             37.3 |
+| period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |   avg CLV % |   beat closing % |   bets with an Aussie close |   avg CLV vs Aussie close % |   beat Aussie close % |
+|:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|------------:|-----------------:|----------------------------:|----------------------------:|----------------------:|
+| Since 28 Oct |     51 |    18 |             3.86 |            7.6 |                  33.4 |                                  -2.9 |                   -8.7 |         0.1 |             37.3 |                          18 |                        -0.1 |                  22.2 |
 
 <details><summary>Every bet that showed at any time (odds = first price shown) (51)</summary>
 
@@ -339,6 +339,8 @@ TODAY.md's "not on Sportsbet" table: bets that meet the best-bets rules (EV ≥ 
 
 </details>
 
+CLV vs Aussie close uses the Australian books' own closing prices (Sportsbet, TAB, PointsBet and others, margin removed, averaged) for the same bet, where they priced it. That's the market you bet into, so it's the more relevant test; Aussie books often only list points props, so coverage is partial.
+
 CLV (closing-line value) compares the price taken with the final no-vig market price before tip. Positive CLV over a few hundred bets is the earliest reliable sign of a real edge; ROI swings for months.
 
 ## Best player props per game (main lines)
@@ -385,7 +387,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-10-31  | Jaylen Brown PTS over 23.5 (24+)           | PHI @ CHA | pointsbetau  |   2    | +1.2%  | 0.3%          | lost     |            -1    |                          -0.29 |
 | 2026-10-31  | Sam Merrill PTS under 9.5                  | CLE @ MIL | tab          |   1.95 | +1.1%  | 0.3%          | won      |             0.95 |                           0.27 |
 | 2026-10-31  | Devin Vassell PTS under 12.5               | MIN @ SAS | tab          |   1.95 | +0.9%  | 0.2%          | won      |             0.95 |                           0.24 |
-| 2026-10-31  | Kyle Kuzma PTS under 11.5                  | CLE @ MIL | unibet       |   2    | +0.8%  | 0.2%          | lost     |            -1    |                          -0.21 |
+| 2026-10-31  | Kyle Kuzma PTS under 11.5                  | CLE @ MIL | tab          |   2    | +0.8%  | 0.2%          | lost     |            -1    |                          -0.21 |
 | 2026-10-31  | Jrue Holiday RA over 9.5 (10+)             | POR @ UTA | draftkings   |   2.08 | +0.8%  | 0.2%          | lost     |            -1    |                          -0.18 |
 | 2026-10-31  | Derik Queen PTS over 11.5 (12+)            | ATL @ NOP | sportsbet    |   2.05 | +0.8%  | 0.2%          | lost     |            -1    |                          -0.19 |
 | 2026-10-31  | Jabari Smith Jr. PTS over 14.5 (15+)       | OKC @ HOU | draftkings   |   1.88 | +0.8%  | 0.2%          | won      |             0.88 |                           0.19 |
