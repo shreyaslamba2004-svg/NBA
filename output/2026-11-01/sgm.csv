@@ -1,28 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 BOS @ ORL,Tristan da Silva 3pm under 2.5 + BOS win,2,0.5696,0.4454,2.25,2.36,2.22,-0.009,1.019,2.10-2.50
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 2+ ast,2,0.5104,0.3874,2.58,2.71,2.5,-0.0333,0.998,2.10-2.50
+BOS @ ORL,Neemias Queta pts under 10.5 + Jayson Tatum 6+ reb,2,0.6123,0.4678,2.14,2.24,2.06,-0.0346,1.0,1.85-2.10
+BOS @ ORL,Neemias Queta pr under 17.5 + Jayson Tatum 6+ reb,2,0.5693,0.4351,2.3,2.41,2.21,-0.0372,0.997,2.10-2.50
 BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jayson Tatum 6+ reb,2,0.6656,0.5114,1.96,2.05,1.88,-0.0373,0.999,1.85-2.10
-BOS @ ORL,Neemias Queta pts under 9.5 + Jayson Tatum 6+ reb,2,0.549,0.4263,2.35,2.46,2.25,-0.0413,1.0,2.10-2.50
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Payton Pritchard 10+ pts,2,0.6473,0.5055,1.98,2.08,1.89,-0.0428,1.0,1.85-2.10
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Paul George 1+ stl,2,0.6175,0.4842,2.07,2.17,1.97,-0.0448,0.999,1.85-2.10
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + BOS win + Jayson Tatum 25+ pr,3,0.5125,0.3824,2.61,2.75,2.5,-0.0454,1.034,2.10-2.50
+BOS @ ORL,Neemias Queta pts under 10.5 + Tristan da Silva 5+ pa,2,0.6777,0.5279,1.89,1.99,1.82,-0.041,1.0,1.65-1.85
+BOS @ ORL,Neemias Queta pr under 17.5 + Tristan da Silva 5+ pa,2,0.6307,0.4916,2.03,2.14,1.95,-0.0427,0.998,1.85-2.10
+BOS @ ORL,Neemias Queta pts under 10.5 + Wendell Carter Jr. 10+ pr,2,0.6806,0.5309,1.88,1.98,1.8,-0.0433,0.998,1.65-1.85
 BOS @ ORL,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 10+ pr,2,0.7403,0.5807,1.72,1.81,1.64,-0.0455,0.998,1.50-1.65
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jayson Tatum 25+ pr,2,0.6816,0.5384,1.86,1.95,1.77,-0.0467,1.0,1.65-1.85
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Paul George 15+ pr,2,0.6921,0.5436,1.84,1.93,1.75,-0.0468,0.998,1.65-1.85
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Payton Pritchard 1+ 3pm,2,0.7088,0.5594,1.79,1.88,1.7,-0.0494,0.996,1.65-1.85
-BOS @ ORL,BOS win + Jayson Tatum 25+ pr,2,0.6551,0.5905,1.69,1.78,1.58,-0.066,1.016,1.50-1.65
-BOS @ ORL,BOS win + Paul George 15+ pr,2,0.6637,0.5948,1.68,1.77,1.57,-0.0683,1.011,1.50-1.65
-BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pr,2,0.6266,0.4362,2.29,2.41,2.31,0.0095,1.005,2.10-2.50
-BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pr,2,0.6497,0.461,2.17,2.28,2.17,-0.0009,1.002,2.10-2.50
-BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pra,2,0.6552,0.4686,2.13,2.24,2.13,-0.0033,1.003,2.10-2.50
-BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pra,2,0.6795,0.4955,2.02,2.12,1.99,-0.0134,1.0,1.85-2.10
-BKN @ IND,Noah Clowney 12+ pr + Julius Randle 4+ reb,2,0.6395,0.4711,2.12,2.23,2.09,-0.0152,1.001,1.85-2.10
-BKN @ IND,Noah Clowney 4+ reb + Julius Randle 4+ reb,2,0.6656,0.4998,2.0,2.1,1.96,-0.0216,1.002,1.85-2.10
-BKN @ IND,Nolan Traore ra under 7.5 + Jarace Walker 10+ pra,2,0.6311,0.5102,1.96,2.06,1.84,-0.0593,0.997,1.65-1.85
-BKN @ IND,Nolan Traore pa under 17.5 + Day'Ron Sharpe 10+ pra,2,0.618,0.5068,1.97,2.07,1.85,-0.0628,0.998,1.65-1.85
-BKN @ IND,Nolan Traore ra under 7.5 + Julius Randle 4+ reb,2,0.6175,0.5141,1.95,2.04,1.81,-0.0682,0.999,1.65-1.85
-BKN @ IND,Jarace Walker 1+ 3pm + Day'Ron Sharpe 15+ pra,2,0.6372,0.5776,1.73,1.82,1.57,-0.0921,1.005,1.50-1.65
-BKN @ IND,Julius Randle 4+ reb + Pascal Siakam 25+ pra + Jarace Walker 1+ 3pm,3,0.673,0.5744,1.74,1.83,1.51,-0.134,1.004,1.50-1.65
-BKN @ IND,Julius Randle 4+ reb + Pascal Siakam 25+ pra + Day'Ron Sharpe 15+ pra,3,0.6621,0.5664,1.77,1.85,1.53,-0.1351,1.004,1.50-1.65
+BOS @ ORL,Neemias Queta pts under 10.5 + Paul George 15+ pra,2,0.6743,0.5286,1.89,1.99,1.81,-0.0458,0.997,1.65-1.85
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Paul George 15+ pra,2,0.7338,0.5785,1.73,1.82,1.65,-0.0474,0.998,1.50-1.65
+BOS @ ORL,BOS win + Jayson Tatum 25+ pr,2,0.6551,0.5893,1.7,1.78,1.59,-0.0654,1.016,1.50-1.65
+BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pr,2,0.6266,0.4363,2.29,2.41,2.31,0.0097,1.005,2.10-2.50
+BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pra,2,0.6552,0.4682,2.14,2.24,2.13,-0.0027,1.003,2.10-2.50
+BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pr,2,0.6497,0.4631,2.16,2.27,2.15,-0.0045,1.002,2.10-2.50
+BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pra,2,0.6795,0.4973,2.01,2.11,1.98,-0.0165,1.0,1.85-2.10
+BKN @ IND,Noah Clowney 4+ reb + Julius Randle 4+ reb,2,0.6656,0.5005,2.0,2.1,1.95,-0.0239,1.002,1.85-2.10
+BKN @ IND,Noah Clowney 12+ pr + Pascal Siakam 4+ reb,2,0.6191,0.4688,2.13,2.24,2.08,-0.0253,1.0,1.85-2.10
+BKN @ IND,Michael Porter Jr. 2+ ast + Jarace Walker 10+ pra,2,0.6669,0.5492,1.82,1.91,1.71,-0.0585,1.001,1.65-1.85
+BKN @ IND,Michael Porter Jr. 2+ ast + Julius Randle 4+ reb,2,0.6515,0.5513,1.81,1.9,1.69,-0.0681,1.0,1.65-1.85
+BKN @ IND,Michael Porter Jr. 2+ ast + Pascal Siakam 25+ pra,2,0.6195,0.5288,1.89,1.99,1.76,-0.0689,1.003,1.65-1.85
+BKN @ IND,Jarace Walker 1+ 3pm + Day'Ron Sharpe 15+ pra,2,0.6372,0.5774,1.73,1.82,1.57,-0.092,1.005,1.50-1.65
+BKN @ IND,Julius Randle 4+ reb + Jarace Walker 1+ 3pm + Pascal Siakam 25+ pra,3,0.673,0.576,1.74,1.82,1.5,-0.1347,1.004,1.50-1.65
+BKN @ IND,Julius Randle 4+ reb + Pascal Siakam 25+ pra + Day'Ron Sharpe 15+ pra,3,0.6621,0.5681,1.76,1.85,1.52,-0.136,1.004,1.50-1.65
 LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 1+ 3pm,2,0.5953,0.4507,2.22,2.33,2.17,-0.0221,1.003,2.10-2.50
 LAC @ GSW,Kris Dunn pa under 13.5 + De'Anthony Melton 1+ 3pm,2,0.5854,0.441,2.27,2.38,2.22,-0.0227,1.002,2.10-2.50
 LAC @ GSW,Kris Dunn pa under 13.5 + Yaxel Lendeborg 15+ pr,2,0.6691,0.501,2.0,2.1,1.95,-0.0241,0.998,1.85-2.10
