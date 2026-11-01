@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ HOU,Kevin Durant 9+ ra + Tari Eason 4+ reb,2,0.6455,0.4215,2.37,2.49,2.47,0.0408,1.0,2.10-2.50
-OKC @ HOU,Kenrich Williams 7+ pts + Tari Eason 4+ reb,2,0.6251,0.4425,2.26,2.37,2.35,0.0386,1.004,2.10-2.50
-OKC @ HOU,Kevin Durant 9+ ra + Alperen Sengun 6+ reb,2,0.6606,0.4406,2.27,2.38,2.35,0.0357,1.003,2.10-2.50
-OKC @ HOU,Kenrich Williams 7+ pts + Amen Thompson 15+ pr,2,0.657,0.4887,2.05,2.15,2.08,0.0166,1.001,1.85-2.10
-OKC @ HOU,Jaylin Williams 3pm under 1.5 + Jabari Smith Jr. 15+ pra,2,0.7265,0.502,1.99,2.09,2.02,0.0138,1.001,1.85-2.10
-OKC @ HOU,Jaylin Williams 3pm under 1.5 + Amen Thompson 20+ pra,2,0.7029,0.4897,2.04,2.14,2.06,0.0084,0.999,1.85-2.10
-OKC @ HOU,Kevin Durant 5+ reb + Amen Thompson 15+ pr,2,0.6523,0.5177,1.93,2.03,1.83,-0.0532,0.999,1.65-1.85
-OKC @ HOU,Tari Eason 4+ reb + Alperen Sengun 6+ reb + Jabari Smith Jr. 4+ reb,3,0.7003,0.534,1.87,1.97,1.69,-0.1,1.001,1.65-1.85
-OKC @ HOU,Tari Eason 4+ reb + Alperen Sengun 6+ reb + Jabari Smith Jr. 15+ pra,3,0.7252,0.5575,1.79,1.88,1.61,-0.102,1.002,1.50-1.65
-OKC @ HOU,Tari Eason 4+ reb + Alperen Sengun 6+ reb + Amen Thompson 20+ pra,3,0.7043,0.546,1.83,1.92,1.64,-0.1033,1.004,1.50-1.65
-OKC @ HOU,Tari Eason 4+ reb + Jabari Smith Jr. 4+ reb + Shai Gilgeous-Alexander 4+ ast,3,0.6805,0.5333,1.88,1.97,1.68,-0.1051,1.006,1.65-1.85
-OKC @ HOU,Tari Eason 4+ reb + Jabari Smith Jr. 4+ reb + Amen Thompson 20+ pra,3,0.7072,0.5506,1.82,1.91,1.62,-0.1066,1.002,1.50-1.65
+OKC @ HOU,Kevin Durant 9+ ra + Tari Eason 4+ reb,2,0.6455,0.4212,2.37,2.49,2.47,0.041,1.0,2.10-2.50
+OKC @ HOU,Kenrich Williams 7+ pts + Tari Eason 4+ reb,2,0.6251,0.4422,2.26,2.37,2.35,0.0388,1.004,2.10-2.50
+OKC @ HOU,Kevin Durant 9+ ra + Alperen Sengun 6+ reb,2,0.6606,0.4409,2.27,2.38,2.35,0.0354,1.003,2.10-2.50
+OKC @ HOU,Jaylin Williams 3pm under 1.5 + Jabari Smith Jr. 4+ reb,2,0.7015,0.4876,2.05,2.15,2.07,0.0087,1.0,1.85-2.10
+OKC @ HOU,Jaylin Williams 3pm under 1.5 + Alperen Sengun 6+ reb,2,0.6957,0.4819,2.08,2.18,2.09,0.0078,0.998,1.85-2.10
+OKC @ HOU,Jaylin Williams 3pm under 1.5 + Jabari Smith Jr. 15+ pra,2,0.7265,0.5088,1.97,2.06,1.98,0.0069,1.001,1.85-2.10
+OKC @ HOU,Tari Eason 4+ reb + Alperen Sengun 6+ reb + Jabari Smith Jr. 4+ reb,3,0.7003,0.534,1.87,1.97,1.69,-0.1001,1.001,1.65-1.85
+OKC @ HOU,Tari Eason 4+ reb + Alperen Sengun 6+ reb + Jabari Smith Jr. 15+ pra,3,0.7252,0.5571,1.8,1.88,1.61,-0.1018,1.002,1.50-1.65
+OKC @ HOU,Tari Eason 4+ reb + Alperen Sengun 6+ reb + Amen Thompson 20+ pra,3,0.7043,0.5441,1.84,1.93,1.65,-0.1022,1.004,1.50-1.65
+OKC @ HOU,Tari Eason 4+ reb + Alperen Sengun 6+ reb + Shai Gilgeous-Alexander 4+ ast,3,0.6757,0.5241,1.91,2.0,1.71,-0.1024,1.005,1.65-1.85
+OKC @ HOU,Tari Eason 4+ reb + Jabari Smith Jr. 4+ reb + Shai Gilgeous-Alexander 4+ ast,3,0.6805,0.5297,1.89,1.98,1.69,-0.1029,1.006,1.65-1.85
+OKC @ HOU,Tari Eason 4+ reb + Jabari Smith Jr. 4+ reb + Amen Thompson 20+ pra,3,0.7072,0.5484,1.82,1.91,1.63,-0.1052,1.002,1.50-1.65
