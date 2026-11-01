@@ -262,13 +262,13 @@ def build(today: date | None = None) -> str:
         chk = g
     md.append(record(chk, "price_decimal", clv=False) + "\n\n" + bet_list(chk, "Every check-news bet")
               if len(chk) else "_No graded check-news bets yet._")
-    md.append("## Not on Sportsbet (EV ≥ 5%, any odds)")
-    md.append("TODAY.md's \"not on Sportsbet\" table: bets that would otherwise qualify, but in a market Sportsbet "
+    md.append(f"## Not on Sportsbet (EV ≥ 5%, odds ≤ {monitor.BEST_MAX_ODDS:g})")
+    md.append("TODAY.md's \"not on Sportsbet\" table: bets that meet the best-bets rules (EV ≥ 5%, odds ≤ 4, no news flag), but in a market Sportsbet "
               "doesn't list (bookie_markets.json), so only other books have them. Final pre-tip list at the price "
               "shown then.")
     if len(g):
         cn, dep, off = flags(g)
-        nsb = top(dedupe(g[(g["ev_blend"] >= monitor.BEST_EV) & off & ~cn & ~dep]))
+        nsb = top(dedupe(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS) & off & ~cn & ~dep]))
     else:
         nsb = g
     md.append(record(nsb, "price_decimal", clv=False) + "\n\n" + bet_list(nsb, "Every not-on-Sportsbet bet")

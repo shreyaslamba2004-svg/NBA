@@ -254,114 +254,22 @@ TODAY.md's "check news first" table: bets that clear the bar but where the model
 
 </details>
 
-## Not on Sportsbet (EV ≥ 5%, any odds)
+## Not on Sportsbet (EV ≥ 5%, odds ≤ 4)
 
-TODAY.md's "not on Sportsbet" table: bets that would otherwise qualify, but in a market Sportsbet doesn't list (bookie_markets.json), so only other books have them. Final pre-tip list at the price shown then.
+TODAY.md's "not on Sportsbet" table: bets that meet the best-bets rules (EV ≥ 5%, odds ≤ 4, no news flag), but in a market Sportsbet doesn't list (bookie_markets.json), so only other books have them. Final pre-tip list at the price shown then.
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
-| Since 28 Oct |     96 |     9 |           -16.51 |          -17.2 |                  30.3 |                                  -5.5 |                  -18.2 |
+| Since 29 Oct |      4 |     1 |            -1.95 |          -48.8 |                   4.1 |                                 -1.19 |                  -29.3 |
 
-<details><summary>Every not-on-Sportsbet bet (96)</summary>
+<details><summary>Every not-on-Sportsbet bet (4)</summary>
 
-| date (US)   | bet                                         | game      | book       |   odds | EV     | sheet stake   | result   |   units (1 flat) |   profit at stake (% bankroll) |
-|:------------|:--------------------------------------------|:----------|:-----------|-------:|:-------|:--------------|:---------|-----------------:|-------------------------------:|
-| 2026-10-31  | Kevin Durant AST over 8.5 (9+)              | OKC @ HOU | draftkings |  30    | +43.1% | 0.4%          | lost     |            -1    |                          -0.37 |
-| 2026-10-31  | Cameron Boozer REB over 14.5 (15+)          | SAC @ MEM | draftkings |  15    | +30.1% | 0.5%          | lost     |            -1    |                          -0.54 |
-| 2026-10-31  | Tari Eason REB over 10.5 (11+)              | OKC @ HOU | draftkings |  14    | +28.8% | 0.5%          | lost     |            -1    |                          -0.55 |
-| 2026-10-31  | Amen Thompson AST over 8.5 (9+)             | OKC @ HOU | draftkings |  14.6  | +22.8% | 0.4%          | lost     |            -1    |                          -0.42 |
-| 2026-10-31  | Tari Eason REB over 12.5 (13+)              | OKC @ HOU | draftkings |  29    | +22.2% | 0.2%          | lost     |            -1    |                          -0.2  |
-| 2026-10-31  | Kevin Durant REB over 8.5 (9+)              | OKC @ HOU | draftkings |   9    | +20.2% | 0.6%          | lost     |            -1    |                          -0.63 |
-| 2026-10-31  | Isaiah Collier AST over 10.5 (11+)          | POR @ UTA | draftkings |  17.6  | +18.7% | 0.3%          | lost     |            -1    |                          -0.28 |
-| 2026-10-31  | Cameron Boozer REB over 16.5 (17+)          | SAC @ MEM | draftkings |  26    | +18.6% | 0.2%          | lost     |            -1    |                          -0.19 |
-| 2026-10-31  | Kevin Durant REB over 10.5 (11+)            | OKC @ HOU | draftkings |  23    | +18.4% | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-10-31  | Isaiah Collier AST over 8.5 (9+)            | POR @ UTA | draftkings |   7.6  | +15.0% | 0.6%          | lost     |            -1    |                          -0.57 |
-| 2026-10-31  | Zach Edey REB over 14.5 (15+)               | SAC @ MEM | draftkings |  14    | +13.9% | 0.3%          | lost     |            -1    |                          -0.27 |
-| 2026-10-31  | Shai Gilgeous-Alexander AST over 10.5 (11+) | OKC @ HOU | draftkings |  16    | +13.6% | 0.2%          | lost     |            -1    |                          -0.23 |
-| 2026-10-31  | Isaiah Collier PTS over 17.5 (18+)          | POR @ UTA | draftkings |  17.6  | +13.5% | 0.2%          | lost     |            -1    |                          -0.2  |
-| 2026-10-31  | Cedric Coward REB over 10.5 (11+)           | SAC @ MEM | draftkings |  10    | +13.3% | 0.4%          | lost     |            -1    |                          -0.37 |
-| 2026-10-31  | Damian Lillard AST over 10.5 (11+)          | POR @ UTA | draftkings |  23    | +13.2% | 0.1%          | lost     |            -1    |                          -0.15 |
-| 2026-10-31  | Jrue Holiday AST over 8.5 (9+)              | POR @ UTA | draftkings |   9    | +12.4% | 0.4%          | lost     |            -1    |                          -0.39 |
-| 2026-10-31  | Jrue Holiday AST over 10.5 (11+)            | POR @ UTA | draftkings |  23    | +11.8% | 0.1%          | lost     |            -1    |                          -0.13 |
-| 2026-10-31  | Jabari Smith Jr. REB over 10.5 (11+)        | OKC @ HOU | draftkings |  11    | +11.4% | 0.3%          | lost     |            -1    |                          -0.28 |
-| 2026-10-31  | Damian Lillard AST over 8.5 (9+)            | POR @ UTA | draftkings |   8.4  | +11.3% | 0.4%          | lost     |            -1    |                          -0.38 |
-| 2026-10-31  | Zach Edey REB over 12.5 (13+)               | SAC @ MEM | draftkings |   7    | +10.9% | 0.5%          | lost     |            -1    |                          -0.46 |
-| 2026-10-31  | Darius Acuff Jr. REB over 6.5 (7+)          | SAC @ MEM | draftkings |   9.2  | +10.7% | 0.3%          | lost     |            -1    |                          -0.33 |
-| 2026-10-31  | Cedric Coward REB over 12.5 (13+)           | SAC @ MEM | draftkings |  22    | +10.7% | 0.1%          | lost     |            -1    |                          -0.13 |
-| 2026-10-31  | Zach Edey REB over 16.5 (17+)               | SAC @ MEM | draftkings |  25    | +9.2%  | 0.1%          | lost     |            -1    |                          -0.1  |
-| 2026-10-31  | Shai Gilgeous-Alexander AST over 8.5 (9+)   | OKC @ HOU | draftkings |   6    | +8.9%  | 0.4%          | lost     |            -1    |                          -0.44 |
-| 2026-10-31  | Jaxson Hayes REB over 10.5 (11+)            | POR @ UTA | draftkings |  12.4  | +7.9%  | 0.2%          | lost     |            -1    |                          -0.17 |
-| 2026-10-30  | Kevin Durant AST over 8.5 (9+)              | HOU @ DAL | draftkings |  22    | +48.6% | 0.6%          | lost     |            -1    |                          -0.58 |
-| 2026-10-30  | Quenton Jackson AST over 8.5 (9+)           | IND @ MIA | draftkings |  27    | +37.2% | 0.4%          | lost     |            -1    |                          -0.36 |
-| 2026-10-30  | Jay Huff AST over 4.5 (5+)                  | IND @ MIA | draftkings |  27    | +18.3% | 0.2%          | lost     |            -1    |                          -0.18 |
-| 2026-10-30  | Pascal Siakam AST over 8.5 (9+)             | IND @ MIA | draftkings |  19    | +17.0% | 0.2%          | lost     |            -1    |                          -0.24 |
-| 2026-10-30  | DeMar DeRozan AST over 6.5 (7+)             | DEN @ PHX | draftkings |  19.6  | +14.3% | 0.2%          | lost     |            -1    |                          -0.19 |
-| 2026-10-30  | DeMar DeRozan AST over 4.5 (5+)             | DEN @ PHX | draftkings |   5.73 | +11.9% | 0.6%          | won      |             4.73 |                           2.98 |
-| 2026-10-30  | Zaccharie Risacher REB over 8.5 (9+)        | HOU @ DAL | draftkings |  15.2  | +11.9% | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-10-30  | Pascal Siakam AST over 6.5 (7+)             | IND @ MIA | draftkings |   6.29 | +11.6% | 0.5%          | lost     |            -1    |                          -0.55 |
-| 2026-10-30  | Jabari Smith Jr. REB over 10.5 (11+)        | HOU @ DAL | draftkings |   9.6  | +10.2% | 0.3%          | lost     |            -1    |                          -0.3  |
-| 2026-10-30  | Nikola Jokic AST over 16.5 (17+)            | DEN @ PHX | draftkings |  19.6  | +10.0% | 0.1%          | lost     |            -1    |                          -0.13 |
-| 2026-10-30  | Moussa Diabate AST over 4.5 (5+)            | CHA @ WAS | draftkings |  12.6  | +9.9%  | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-10-30  | Bilal Coulibaly PTS over 17.5 (18+)         | CHA @ WAS | draftkings |  18.6  | +9.0%  | 0.1%          | lost     |            -1    |                          -0.13 |
-| 2026-10-30  | Nikola Jokic AST over 14.5 (15+)            | DEN @ PHX | draftkings |   9.4  | +8.9%  | 0.3%          | lost     |            -1    |                          -0.26 |
-| 2026-10-30  | Bam Adebayo REB over 14.5 (15+)             | IND @ MIA | draftkings |   9.7  | +8.7%  | 0.2%          | lost     |            -1    |                          -0.25 |
-| 2026-10-30  | Sam Hauser REB over 6.5 (7+)                | CHI @ BOS | draftkings |  12.2  | +8.6%  | 0.2%          | lost     |            -1    |                          -0.19 |
-| 2026-10-30  | Daniss Jenkins AST over 6.5 (7+)            | DET @ BKN | draftkings |   7.7  | +8.5%  | 0.3%          | lost     |            -1    |                          -0.32 |
-| 2026-10-30  | Daniss Jenkins AST over 8.5 (9+)            | DET @ BKN | draftkings |  22    | +7.8%  | 0.1%          | lost     |            -1    |                          -0.09 |
-| 2026-10-30  | Zaccharie Risacher REB over 6.5 (7+)        | HOU @ DAL | draftkings |   5.36 | +7.7%  | 0.4%          | lost     |            -1    |                          -0.44 |
-| 2026-10-30  | Tari Eason REB over 10.5 (11+)              | HOU @ DAL | draftkings |   9.5  | +7.5%  | 0.2%          | won      |             8.5  |                           1.87 |
-| 2026-10-30  | Quenton Jackson REB over 4.5 (5+)           | IND @ MIA | draftkings |   5.77 | +7.5%  | 0.4%          | lost     |            -1    |                          -0.4  |
-| 2026-10-30  | Amen Thompson AST over 8.5 (9+)             | HOU @ DAL | draftkings |   9.6  | +7.5%  | 0.2%          | lost     |            -1    |                          -0.22 |
-| 2026-10-30  | Jarace Walker AST over 4.5 (5+)             | IND @ MIA | draftkings |   6.17 | +7.4%  | 0.4%          | lost     |            -1    |                          -0.36 |
-| 2026-10-30  | Bam Adebayo REB over 16.5 (17+)             | IND @ MIA | draftkings |  19.4  | +7.3%  | 0.1%          | lost     |            -1    |                          -0.1  |
-| 2026-10-30  | Jabari Smith Jr. REB over 8.5 (9+)          | HOU @ DAL | draftkings |   4.25 | +7.2%  | 0.5%          | lost     |            -1    |                          -0.55 |
-| 2026-10-30  | Bilal Coulibaly PTS over 11.5 (12+)         | CHA @ WAS | draftkings |   4.3  | +7.1%  | 0.5%          | lost     |            -1    |                          -0.54 |
-| 2026-10-29  | Jarrett Allen BLK over 2.5 (3+)             | CLE @ ATL | draftkings |  11.2  | +16.7% | 0.4%          | lost     |            -1    |                          -0.41 |
-| 2026-10-29  | Trey Murphy III PA over 34.5 (35+)          | SAC @ NOP | draftkings |  13    | +15.4% | 0.3%          | lost     |            -1    |                          -0.32 |
-| 2026-10-29  | Derik Queen PR over 34.5 (35+)              | SAC @ NOP | draftkings |  17.6  | +13.7% | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-10-29  | Trey Murphy III PR over 39.5 (40+)          | SAC @ NOP | draftkings |  19.8  | +13.0% | 0.2%          | lost     |            -1    |                          -0.17 |
-| 2026-10-29  | Precious Achiuwa PA over 24.5 (25+)         | SAC @ NOP | draftkings |  17.4  | +12.8% | 0.2%          | won      |            16.4  |                           3.12 |
-| 2026-10-29  | Derik Queen PR over 29.5 (30+)              | SAC @ NOP | draftkings |   8    | +12.6% | 0.4%          | lost     |            -1    |                          -0.45 |
-| 2026-10-29  | Precious Achiuwa PA over 19.5 (20+)         | SAC @ NOP | draftkings |   6.67 | +12.6% | 0.5%          | won      |             5.67 |                           3.12 |
-| 2026-10-29  | Trey Murphy III PR over 34.5 (35+)          | SAC @ NOP | draftkings |   9.5  | +11.8% | 0.4%          | lost     |            -1    |                          -0.35 |
-| 2026-10-29  | Derik Queen PA over 24.5 (25+)              | SAC @ NOP | draftkings |   9.3  | +11.4% | 0.3%          | lost     |            -1    |                          -0.34 |
-| 2026-10-29  | Trey Murphy III PA over 39.5 (40+)          | SAC @ NOP | draftkings |  25    | +11.2% | 0.1%          | lost     |            -1    |                          -0.12 |
-| 2026-10-29  | Precious Achiuwa PRA over 29.5 (30+)        | SAC @ NOP | draftkings |   6.99 | +10.0% | 0.4%          | won      |             5.99 |                           2.52 |
-| 2026-10-29  | Trey Murphy III PA over 29.5 (30+)          | SAC @ NOP | draftkings |   5.86 | +9.3%  | 0.5%          | lost     |            -1    |                          -0.48 |
-| 2026-10-29  | Precious Achiuwa PRA over 34.5 (35+)        | SAC @ NOP | draftkings |  15.4  | +9.3%  | 0.2%          | won      |            14.4  |                           2.3  |
-| 2026-10-29  | Precious Achiuwa PR over 29.5 (30+)         | SAC @ NOP | draftkings |   9.2  | +8.9%  | 0.3%          | won      |             8.2  |                           2.21 |
-| 2026-10-29  | Jarrett Allen BLK over 3.5 (4+)             | CLE @ ATL | draftkings |  26    | +8.2%  | 0.1%          | lost     |            -1    |                          -0.08 |
-| 2026-10-29  | Jrue Holiday PA over 34.5 (35+)             | MEM @ POR | draftkings |  27    | +7.7%  | 0.1%          | lost     |            -1    |                          -0.07 |
-| 2026-10-29  | Precious Achiuwa PR over 24.5 (25+)         | SAC @ NOP | draftkings |   4.2  | +7.0%  | 0.5%          | won      |             3.2  |                           1.76 |
-| 2026-10-29  | Derik Queen PR over 24.5 (25+)              | SAC @ NOP | draftkings |   3.58 | +6.6%  | 0.6%          | lost     |            -1    |                          -0.64 |
-| 2026-10-29  | Domantas Sabonis 3PM over 0.5 (1+)          | SAC @ NOP | draftkings |   4.57 | +6.5%  | 0.5%          | lost     |            -1    |                          -0.46 |
-| 2026-10-29  | Trey Murphy III PR over 29.5 (30+)          | SAC @ NOP | draftkings |   4.44 | +6.5%  | 0.5%          | lost     |            -1    |                          -0.47 |
-| 2026-10-29  | Jerami Grant AST over 3.5 (4+)              | MEM @ POR | draftkings |  11.8  | +6.3%  | 0.1%          | lost     |            -1    |                          -0.15 |
-| 2026-10-28  | Darius Garland PA over 49.5 (50+)           | LAL @ LAC | draftkings |  19    | +35.5% | 0.5%          | lost     |            -1    |                          -0.49 |
-| 2026-10-28  | Saddiq Bey PRA over 29.5 (30+)              | DEN @ NOP | draftkings |  11.2  | +22.6% | 0.5%          | lost     |            -1    |                          -0.55 |
-| 2026-10-28  | Darius Garland PA over 54.5 (55+)           | LAL @ LAC | draftkings |  27    | +22.3% | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-10-28  | Darius Garland PA over 44.5 (45+)           | LAL @ LAC | draftkings |   9.2  | +22.0% | 0.7%          | lost     |            -1    |                          -0.67 |
-| 2026-10-28  | Saddiq Bey PRA over 34.5 (35+)              | DEN @ NOP | draftkings |  22    | +18.0% | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-10-28  | Saddiq Bey PA over 29.5 (30+)               | DEN @ NOP | draftkings |  26    | +16.3% | 0.2%          | lost     |            -1    |                          -0.16 |
-| 2026-10-28  | Brook Lopez PR over 29.5 (30+)              | LAL @ LAC | draftkings |  15    | +14.7% | 0.3%          | lost     |            -1    |                          -0.26 |
-| 2026-10-28  | Brook Lopez PR over 24.5 (25+)              | LAL @ LAC | draftkings |   6.49 | +12.8% | 0.6%          | lost     |            -1    |                          -0.58 |
-| 2026-10-28  | VJ Edgecombe AST over 5.5 (6+)              | PHI @ IND | draftkings |  11    | +11.6% | 0.3%          | lost     |            -1    |                          -0.29 |
-| 2026-10-28  | Daniss Jenkins PR over 19.5 (20+)           | CHA @ DET | draftkings |   7.1  | +11.5% | 0.5%          | lost     |            -1    |                          -0.47 |
-| 2026-10-28  | Saddiq Bey AST over 3.5 (4+)                | DEN @ NOP | draftkings |  10.3  | +9.8%  | 0.3%          | lost     |            -1    |                          -0.26 |
-| 2026-10-28  | Darius Garland PA over 39.5 (40+)           | LAL @ LAC | draftkings |   4.52 | +9.5%  | 0.7%          | lost     |            -1    |                          -0.67 |
-| 2026-10-28  | Reed Sheppard STL over 2.5 (3+)             | HOU @ MIL | draftkings |   5.4  | +9.2%  | 0.5%          | lost     |            -1    |                          -0.52 |
-| 2026-10-28  | VJ Edgecombe AST over 6.5 (7+)              | PHI @ IND | draftkings |  20.4  | +8.8%  | 0.1%          | lost     |            -1    |                          -0.11 |
-| 2026-10-28  | Jabari Smith Jr. BLK over 1.5 (2+)          | HOU @ MIL | draftkings |   6.69 | +8.4%  | 0.4%          | lost     |            -1    |                          -0.37 |
-| 2026-10-28  | VJ Edgecombe AST over 4.5 (5+)              | PHI @ IND | draftkings |   5.66 | +8.2%  | 0.4%          | lost     |            -1    |                          -0.44 |
-| 2026-10-28  | Daniss Jenkins PR over 24.5 (25+)           | CHA @ DET | draftkings |  17.2  | +7.8%  | 0.1%          | lost     |            -1    |                          -0.12 |
-| 2026-10-28  | Isaiah Hartenstein PA over 29.5 (30+)       | OKC @ DAL | draftkings |  27    | +7.6%  | 0.1%          | lost     |            -1    |                          -0.07 |
-| 2026-10-28  | Victor Wembanyama BLK over 6.5 (7+)         | SAS @ UTA | draftkings |  14    | +6.4%  | 0.1%          | lost     |            -1    |                          -0.12 |
-| 2026-10-28  | Saddiq Bey AST over 4.5 (5+)                | DEN @ NOP | draftkings |  22    | +6.2%  | 0.1%          | lost     |            -1    |                          -0.07 |
-| 2026-10-28  | Victor Wembanyama BLK over 5.5 (6+)         | SAS @ UTA | draftkings |   7.7  | +6.2%  | 0.2%          | lost     |            -1    |                          -0.23 |
-| 2026-10-28  | Jalen Brunson STL over 2.5 (3+)             | NYK @ CHI | draftkings |   9.9  | +6.1%  | 0.2%          | lost     |            -1    |                          -0.17 |
-| 2026-10-28  | Jabari Smith Jr. AST over 4.5 (5+)          | HOU @ MIL | draftkings |  13.4  | +6.1%  | 0.1%          | lost     |            -1    |                          -0.12 |
-| 2026-10-28  | Saddiq Bey AST over 2.5 (3+)                | DEN @ NOP | draftkings |   4.4  | +5.8%  | 0.4%          | won      |             3.4  |                           1.46 |
-| 2026-10-28  | Jarace Walker PR over 24.5 (25+)            | PHI @ IND | draftkings |   9.4  | +5.8%  | 0.2%          | lost     |            -1    |                          -0.17 |
+| date (US)   | bet                              | game      | book        |   odds | EV    | sheet stake   | result   |   units (1 flat) |   profit at stake (% bankroll) |
+|:------------|:---------------------------------|:----------|:------------|-------:|:------|:--------------|:---------|-----------------:|-------------------------------:|
+| 2026-10-31  | Jrue Holiday AST over 6.5 (7+)   | POR @ UTA | draftkings  |   3.61 | +6.2% | 0.6%          | lost     |            -1    |                          -0.6  |
+| 2026-10-31  | Julian Champagnie PTS under 10.5 | MIN @ SAS | tab         |   2    | +5.7% | 1.4%          | lost     |            -1    |                          -1.42 |
+| 2026-10-30  | Leonard Miller PTS under 8.5     | CHI @ BOS | pointsbetau |   2.05 | +5.9% | 1.4%          | won      |             1.05 |                           1.47 |
+| 2026-10-29  | Derik Queen PR over 24.5 (25+)   | SAC @ NOP | draftkings  |   3.58 | +6.6% | 0.6%          | lost     |            -1    |                          -0.64 |
 
 </details>
 
