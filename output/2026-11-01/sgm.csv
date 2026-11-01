@@ -11,18 +11,18 @@ BOS @ ORL,Tristan da Silva 3pm under 2.5 + Payton Pritchard 1+ 3pm,2,0.7174,0.56
 BOS @ ORL,Wendell Carter Jr. 15+ pr + Paul George 1+ stl,2,0.6375,0.5721,1.75,1.84,1.59,-0.0899,1.004,1.50-1.65
 BOS @ ORL,Paul George 1+ stl + Payton Pritchard 10+ pts,2,0.6561,0.5951,1.68,1.76,1.52,-0.0963,1.0,1.50-1.65
 BOS @ ORL,Wendell Carter Jr. 15+ pr + Payton Pritchard 10+ pts,2,0.6478,0.5869,1.7,1.79,1.54,-0.0971,0.999,1.50-1.65
-BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pr,2,0.6266,0.4358,2.29,2.41,2.32,0.0098,1.005,2.10-2.50
-BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pr,2,0.6497,0.463,2.16,2.27,2.15,-0.0029,1.002,2.10-2.50
-BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pra,2,0.6552,0.4692,2.13,2.24,2.12,-0.0038,1.003,2.10-2.50
-BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pra,2,0.6795,0.4986,2.01,2.11,1.97,-0.016,1.0,1.85-2.10
-BKN @ IND,Noah Clowney 12+ pr + Pascal Siakam 20+ pra,2,0.659,0.4923,2.03,2.13,1.99,-0.0199,1.002,1.85-2.10
-BKN @ IND,Noah Clowney 4+ reb + Julius Randle 4+ reb,2,0.6656,0.4993,2.0,2.1,1.96,-0.0217,1.002,1.85-2.10
-BKN @ IND,Jarace Walker 1+ 3pm + Day'Ron Sharpe 15+ pra,2,0.6372,0.5804,1.72,1.81,1.56,-0.0937,1.005,1.50-1.65
-BKN @ IND,Jarace Walker 10+ pr + Day'Ron Sharpe 15+ pra + Michael Porter Jr. 20+ pr,3,0.648,0.5295,1.89,1.98,1.67,-0.1142,1.011,1.65-1.85
-BKN @ IND,Julius Randle 4+ reb + Jarace Walker 1+ 3pm + Day'Ron Sharpe 15+ pra,3,0.5988,0.512,1.95,2.05,1.69,-0.1326,1.007,1.65-1.85
-BKN @ IND,Julius Randle 4+ reb + Jarace Walker 1+ 3pm + Michael Porter Jr. 20+ pr,3,0.6706,0.576,1.74,1.82,1.5,-0.1354,1.005,1.50-1.65
-BKN @ IND,Julius Randle 4+ reb + Day'Ron Sharpe 15+ pra + Michael Porter Jr. 20+ pr,3,0.6599,0.5676,1.76,1.85,1.52,-0.1361,1.005,1.50-1.65
-BKN @ IND,Jarace Walker 1+ 3pm + Day'Ron Sharpe 15+ pra + Michael Porter Jr. 20+ pr,3,0.5674,0.4958,2.02,2.12,1.74,-0.1368,1.01,1.65-1.85
+BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pr,2,0.6422,0.4376,2.28,2.4,2.32,0.0141,1.001,2.10-2.50
+BKN @ IND,Jarace Walker 18+ pra + Kelly Oubre Jr. 10+ pr,2,0.6369,0.454,2.2,2.31,2.22,0.0085,1.009,2.10-2.50
+BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pr,2,0.6695,0.4669,2.14,2.25,2.15,0.0055,1.001,2.10-2.50
+BKN @ IND,Jarace Walker 18+ pra + Julius Randle 4+ reb,2,0.6878,0.4863,2.06,2.16,2.06,0.0028,1.0,1.85-2.10
+BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pra,2,0.6942,0.5021,1.99,2.09,1.97,-0.009,1.001,1.85-2.10
+BKN @ IND,Jarace Walker 15+ pr + Pascal Siakam 25+ pra,2,0.6794,0.4954,2.02,2.12,2.0,-0.0092,1.003,1.85-2.10
+BKN @ IND,Jarace Walker 1+ 3pm + Day'Ron Sharpe 15+ pra,2,0.643,0.5815,1.72,1.81,1.56,-0.0919,1.004,1.50-1.65
+BKN @ IND,Jarace Walker 10+ pr + Kelly Oubre Jr. 10+ pr + Day'Ron Sharpe 15+ pra,3,0.6444,0.5092,1.96,2.06,1.75,-0.1072,1.006,1.65-1.85
+BKN @ IND,Jarace Walker 10+ pr + Pascal Siakam 15+ pts + Day'Ron Sharpe 15+ pra,3,0.6805,0.5372,1.86,1.95,1.66,-0.1073,1.005,1.65-1.85
+BKN @ IND,Jarace Walker 10+ pr + Day'Ron Sharpe 15+ pra + Michael Porter Jr. 20+ pr,3,0.6655,0.533,1.88,1.97,1.67,-0.1084,1.009,1.65-1.85
+BKN @ IND,Pascal Siakam 25+ pra + Kelly Oubre Jr. 10+ pr + Jarace Walker 1+ 3pm,3,0.6451,0.5423,1.84,1.94,1.61,-0.1262,1.008,1.50-1.65
+BKN @ IND,Pascal Siakam 25+ pra + Kelly Oubre Jr. 10+ pr + Day'Ron Sharpe 15+ pra,3,0.6297,0.5341,1.87,1.97,1.63,-0.1272,1.01,1.50-1.65
 LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 1+ 3pm,2,0.5953,0.4429,2.26,2.37,2.22,-0.016,1.003,2.10-2.50
 LAC @ GSW,Kris Dunn pa under 13.5 + Georges Niang 1+ 3pm,2,0.5712,0.4193,2.39,2.5,2.34,-0.017,0.998,2.10-2.50
 LAC @ GSW,Kris Dunn pa under 13.5 + De'Anthony Melton 1+ 3pm,2,0.5854,0.4383,2.28,2.4,2.24,-0.0203,1.002,2.10-2.50

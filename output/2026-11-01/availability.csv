@@ -47,7 +47,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909904,IND,1627783,Pascal Siakam,,,1.0,,,
 401909904,IND,1641771,Jalen Slawson,,,1.0,,,
 401909904,IND,905105854,Braden Smith,,,1.0,,,
-401909904,IND,1630167,Obi Toppin,Questionable,Injury/Illness-LowBackSoreness,0.55,Toppin (back) is questionable for Sunday's game against the Nets.,,
+401909904,IND,1630167,Obi Toppin,Out,Injury/Illness-LowBackSoreness,0.0,Toppin (back) is questionable for Sunday's game against the Nets.,,
 401909904,IND,1641716,Jarace Walker,,,1.0,,,
 401909904,IND,1627826,Ivica Zubac,Out,Injury/Illness-LeftAnkleSprain,0.0,Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets.,,
 401909904,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.,,
