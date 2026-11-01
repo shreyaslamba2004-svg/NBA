@@ -1,15 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ ORL,Paul George 5+ reb + Wendell Carter Jr. 10+ pa,2,0.4935,0.3964,2.52,2.65,2.41,-0.045,1.007,2.10-2.50
-BOS @ ORL,Paul George 5+ reb + Tristan da Silva 10+ pra,2,0.5191,0.4124,2.42,2.55,2.31,-0.0457,1.002,2.10-2.50
-BOS @ ORL,Derrick White pa under 19.5 + Tristan da Silva 10+ pra,2,0.5348,0.4192,2.39,2.5,2.27,-0.0477,0.997,2.10-2.50
-BOS @ ORL,Derrick White pa under 19.5 + Tristan da Silva 5+ pa,2,0.5894,0.4676,2.14,2.25,2.04,-0.0483,1.001,1.85-2.10
-BOS @ ORL,Paul George 5+ reb + Tristan da Silva 5+ pa,2,0.5689,0.4575,2.19,2.3,2.07,-0.0517,1.0,1.85-2.10
-BOS @ ORL,Derrick White pa under 19.5 + Wendell Carter Jr. 10+ pr,2,0.5912,0.4743,2.11,2.21,1.99,-0.0539,0.999,1.85-2.10
-BOS @ ORL,Desmond Bane 1+ stl + Tristan da Silva 10+ pra,2,0.5982,0.5052,1.98,2.08,1.83,-0.0749,0.998,1.65-1.85
-BOS @ ORL,Desmond Bane 1+ stl + Wendell Carter Jr. 15+ pra,2,0.6074,0.5219,1.92,2.01,1.77,-0.0756,1.003,1.65-1.85
-BOS @ ORL,Desmond Bane 1+ stl + Paul George 10+ pts,2,0.6288,0.5429,1.84,1.93,1.7,-0.0761,1.004,1.65-1.85
-BOS @ ORL,Desmond Bane 1+ stl + Tristan da Silva 5+ pa,2,0.6587,0.563,1.78,1.86,1.64,-0.0762,1.001,1.50-1.65
-BOS @ ORL,Wendell Carter Jr. 10+ pa + Paul George 1+ stl,2,0.6479,0.583,1.72,1.8,1.55,-0.0954,0.998,1.50-1.65
+BOS @ ORL,Paul George 5+ reb + Jayson Tatum 6+ reb,2,0.5094,0.4088,2.45,2.57,2.34,-0.0451,1.004,2.10-2.50
+BOS @ ORL,Paul George 5+ reb + Wendell Carter Jr. 10+ pa,2,0.4935,0.3989,2.51,2.63,2.39,-0.0451,1.007,2.10-2.50
+BOS @ ORL,Paul George 5+ reb + Tristan da Silva 10+ pra,2,0.5191,0.4156,2.41,2.53,2.3,-0.0463,1.002,2.10-2.50
+BOS @ ORL,Derrick White pa under 19.5 + Tristan da Silva 5+ pa,2,0.5894,0.4686,2.13,2.24,2.03,-0.049,1.001,1.85-2.10
+BOS @ ORL,Paul George 5+ reb + Tristan da Silva 5+ pa,2,0.5689,0.4592,2.18,2.29,2.07,-0.0508,1.0,1.85-2.10
+BOS @ ORL,Paul George 5+ reb + Wendell Carter Jr. 10+ pr,2,0.5724,0.4663,2.14,2.25,2.03,-0.0527,1.002,1.85-2.10
+BOS @ ORL,Desmond Bane 1+ stl + Paul George 10+ pts,2,0.6288,0.5489,1.82,1.91,1.68,-0.0799,1.004,1.65-1.85
+BOS @ ORL,Desmond Bane 1+ stl + Wendell Carter Jr. 15+ pra,2,0.6074,0.529,1.89,1.98,1.74,-0.0802,1.003,1.65-1.85
+BOS @ ORL,Desmond Bane 1+ stl + Tristan da Silva 10+ pra,2,0.5982,0.5131,1.95,2.05,1.79,-0.0802,0.998,1.65-1.85
+BOS @ ORL,Desmond Bane 1+ stl + Tristan da Silva 5+ pa,2,0.6587,0.5698,1.76,1.84,1.61,-0.0803,1.001,1.50-1.65
+BOS @ ORL,Wendell Carter Jr. 10+ pa + Paul George 1+ stl,2,0.6479,0.5858,1.71,1.79,1.54,-0.097,0.998,1.50-1.65
 BOS @ ORL,Wendell Carter Jr. 15+ pr + Paul George 1+ stl,2,0.6318,0.5802,1.72,1.81,1.55,-0.0999,1.001,1.50-1.65
 BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pra,2,0.6552,0.4746,2.11,2.21,2.09,-0.0085,1.003,1.85-2.10
 BKN @ IND,Noah Clowney 12+ pr + Julius Randle 4+ reb,2,0.6395,0.4681,2.14,2.24,2.11,-0.0135,1.001,2.10-2.50
@@ -19,19 +19,19 @@ BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pra,2,0.6795,0.5036,1.99,2.08,
 BKN @ IND,Jarace Walker 15+ pra + Julius Randle 7+ reb,2,0.5401,0.4024,2.48,2.61,2.43,-0.0207,1.004,2.10-2.50
 BKN @ IND,Julius Randle 7+ reb + Michael Porter Jr. 4+ reb,2,0.6021,0.506,1.98,2.07,1.84,-0.0675,1.001,1.65-1.85
 BKN @ IND,Julius Randle 7+ reb + Michael Porter Jr. 15+ pa,2,0.5989,0.5036,1.99,2.08,1.85,-0.0686,1.0,1.65-1.85
-BKN @ IND,Julius Randle 7+ reb + Pascal Siakam 20+ pr,2,0.6058,0.5116,1.95,2.05,1.82,-0.0695,1.001,1.65-1.85
 BKN @ IND,Day'Ron Sharpe 15+ pra + Jarace Walker 1+ 3pm,2,0.6372,0.5875,1.7,1.79,1.54,-0.0975,1.005,1.50-1.65
-BKN @ IND,Kelly Oubre Jr. 10+ pr + Day'Ron Sharpe 15+ pra + Michael Porter Jr. 20+ pr,3,0.5932,0.5228,1.91,2.01,1.64,-0.1418,1.007,1.50-1.65
-BKN @ IND,Kelly Oubre Jr. 10+ pr + Day'Ron Sharpe 15+ pra + Michael Porter Jr. 4+ reb,3,0.6102,0.5402,1.85,1.94,1.59,-0.1425,1.007,1.50-1.65
-LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 5+ pr,2,0.6938,0.4878,2.05,2.15,2.06,0.0072,1.0,1.85-2.10
-LAC @ GSW,Kris Dunn ra under 9.5 + De'Anthony Melton 1+ 3pm,2,0.6084,0.4388,2.28,2.39,2.28,0.0002,1.002,2.10-2.50
-LAC @ GSW,Kris Dunn ra under 9.5 + Darius Garland 1+ 3pm,2,0.6806,0.4972,2.01,2.11,2.0,-0.0032,1.003,1.85-2.10
-LAC @ GSW,Kris Dunn ra under 9.5 + Yaxel Lendeborg 15+ pr,2,0.6966,0.5058,1.98,2.08,1.97,-0.004,1.0,1.85-2.10
-LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 1+ 3pm,2,0.592,0.4317,2.32,2.43,2.29,-0.01,0.995,2.10-2.50
-LAC @ GSW,Darius Garland ra under 10.5 + Georges Niang 1+ 3pm,2,0.5845,0.4475,2.23,2.35,2.17,-0.0297,1.0,2.10-2.50
-LAC @ GSW,Kris Dunn ast under 5.5 + Darius Garland 1+ 3pm,2,0.6947,0.5367,1.86,1.96,1.8,-0.0324,1.003,1.65-1.85
-LAC @ GSW,Kris Dunn ast under 5.5 + Yaxel Lendeborg 15+ pr,2,0.7105,0.5455,1.83,1.92,1.77,-0.0338,0.999,1.65-1.85
-LAC @ GSW,Isaiah Jackson reb under 7.5 + Yaxel Lendeborg 15+ pr,2,0.6817,0.5291,1.89,1.98,1.82,-0.0385,0.999,1.65-1.85
+BKN @ IND,Julius Randle 4+ reb + Day'Ron Sharpe 15+ pra + Jarace Walker 1+ 3pm,3,0.5988,0.515,1.94,2.04,1.68,-0.1343,1.007,1.65-1.85
+BKN @ IND,Kelly Oubre Jr. 10+ pr + Pascal Siakam 15+ pts + Jarace Walker 1+ 3pm,3,0.6056,0.535,1.87,1.96,1.61,-0.1394,1.01,1.50-1.65
+BKN @ IND,Kelly Oubre Jr. 10+ pr + Day'Ron Sharpe 15+ pra + Pascal Siakam 15+ pts,3,0.5954,0.5251,1.9,2.0,1.64,-0.14,1.009,1.50-1.65
+LAC @ GSW,Kris Dunn ra under 9.5 + De'Anthony Melton 1+ 3pm,2,0.6084,0.4347,2.3,2.42,2.31,0.0039,1.002,2.10-2.50
+LAC @ GSW,Kris Dunn ra under 9.5 + Yaxel Lendeborg 15+ pr,2,0.6966,0.5,2.0,2.1,2.0,0.0003,1.0,1.85-2.10
+LAC @ GSW,Kris Dunn ra under 9.5 + Darius Garland 1+ 3pm,2,0.6806,0.4944,2.02,2.12,2.02,-0.0008,1.003,1.85-2.10
+LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 1+ 3pm,2,0.592,0.4293,2.33,2.45,2.31,-0.0077,0.995,2.10-2.50
+LAC @ GSW,Kris Dunn ra under 9.5 + Yaxel Lendeborg 4+ reb,2,0.6701,0.49,2.04,2.14,2.02,-0.0081,0.998,1.85-2.10
+LAC @ GSW,Darius Garland ra under 10.5 + De'Anthony Melton 1+ 3pm,2,0.5941,0.4433,2.26,2.37,2.2,-0.0229,0.995,2.10-2.50
+LAC @ GSW,Kris Dunn ast under 5.5 + Yaxel Lendeborg 15+ pr,2,0.7105,0.5445,1.84,1.93,1.78,-0.0333,0.999,1.65-1.85
+LAC @ GSW,Kris Dunn ast under 5.5 + Darius Garland 1+ 3pm,2,0.6947,0.5387,1.86,1.95,1.79,-0.0337,1.003,1.65-1.85
+LAC @ GSW,Isaiah Jackson reb under 7.5 + Yaxel Lendeborg 15+ pr,2,0.6817,0.5282,1.89,1.99,1.82,-0.0379,0.999,1.65-1.85
 TOR @ LAL,Walker Kessler pts under 12.5 + Scottie Barnes 4+ ast,2,0.6039,0.4316,2.32,2.43,2.3,-0.0073,1.0,2.10-2.50
 TOR @ LAL,Luka Doncic pts under 34.5 + Scottie Barnes 4+ ast,2,0.5891,0.4246,2.36,2.47,2.33,-0.0109,1.0,2.10-2.50
 TOR @ LAL,Austin Reaves pts under 22.5 + Scottie Barnes 4+ ast,2,0.5819,0.4256,2.35,2.47,2.31,-0.0169,1.001,2.10-2.50
