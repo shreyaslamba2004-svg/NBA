@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ ORL,Neemias Queta pts under 9.5 + Jayson Tatum 6+ reb,2,0.549,0.4269,2.34,2.46,2.34,0.0005,1.0,2.10-2.50
-BOS @ ORL,Neemias Queta pts under 9.5 + Paul George 1+ stl,2,0.5106,0.4066,2.46,2.58,2.45,-0.0058,1.002,2.10-2.50
-BOS @ ORL,Neemias Queta pts under 9.5 + Wendell Carter Jr. 10+ pr,2,0.6099,0.4845,2.06,2.17,2.05,-0.0091,0.998,1.85-2.10
-BOS @ ORL,Neemias Queta pts under 9.5 + Tristan da Silva 10+ pr,2,0.5086,0.4081,2.45,2.57,2.42,-0.0113,0.999,2.10-2.50
-BOS @ ORL,Neemias Queta pts under 9.5 + Paul George 15+ pra,2,0.6044,0.4862,2.06,2.16,2.03,-0.0143,0.997,1.85-2.10
-BOS @ ORL,Payton Pritchard 15+ pts + Paul George 15+ pra,2,0.5431,0.4762,2.1,2.21,2.03,-0.0346,1.003,1.85-2.10
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 10+ pr,2,0.7403,0.5783,1.73,1.82,1.65,-0.044,0.998,1.65-1.85
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Paul George 15+ pr,2,0.6921,0.5432,1.84,1.93,1.76,-0.0465,0.998,1.65-1.85
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Paul George 15+ pra,2,0.7338,0.5806,1.72,1.81,1.64,-0.0486,0.998,1.50-1.65
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Payton Pritchard 1+ 3pm,2,0.7088,0.5589,1.79,1.88,1.7,-0.0491,0.996,1.65-1.85
-BOS @ ORL,Wendell Carter Jr. 15+ pr + Tristan da Silva 10+ pr,2,0.6532,0.5841,1.71,1.8,1.57,-0.0854,1.007,1.50-1.65
-BOS @ ORL,Wendell Carter Jr. 15+ pr + Payton Pritchard 10+ pts,2,0.6827,0.605,1.65,1.74,1.51,-0.0857,1.004,1.50-1.65
+BOS @ ORL,Jase Richardson 9+ pts + Jayson Tatum 6+ reb,2,0.4819,0.4015,2.49,2.62,2.46,-0.012,1.002,2.10-2.50
+BOS @ ORL,Derrick White pts under 14.5 + Jase Richardson 10+ pra,2,0.5104,0.4069,2.46,2.58,2.43,-0.013,0.998,2.10-2.50
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jase Richardson 2+ ast,2,0.5566,0.4006,2.5,2.62,2.45,-0.0166,0.993,2.10-2.50
+BOS @ ORL,Derrick White pts under 14.5 + Jase Richardson 5+ pa,2,0.5804,0.4749,2.11,2.21,2.06,-0.0219,0.999,1.85-2.10
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jase Richardson 10+ pra,2,0.6555,0.4835,2.07,2.17,2.01,-0.0262,0.995,1.85-2.10
+BOS @ ORL,Derrick White pts under 14.5 + Wendell Carter Jr. 10+ pr,2,0.5826,0.4869,2.05,2.16,1.99,-0.0303,0.998,1.85-2.10
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jase Richardson 5+ pa,2,0.7462,0.5651,1.77,1.86,1.71,-0.034,0.997,1.65-1.85
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 10+ pr,2,0.7524,0.5819,1.72,1.8,1.65,-0.0379,1.0,1.65-1.85
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jayson Tatum 1+ 3pm,2,0.7352,0.5751,1.74,1.83,1.67,-0.0414,1.001,1.65-1.85
+BOS @ ORL,Jase Richardson 2+ ast + Jayson Tatum 1+ 3pm,2,0.6735,0.566,1.77,1.86,1.64,-0.0701,0.998,1.50-1.65
+BOS @ ORL,Jayson Tatum 6+ reb + Wendell Carter Jr. 15+ pr,2,0.6793,0.6024,1.66,1.74,1.51,-0.0876,1.002,1.50-1.65
+BOS @ ORL,Jayson Tatum 6+ reb + Paul George 1+ stl,2,0.6862,0.6066,1.65,1.73,1.5,-0.0879,1.0,1.50-1.65
 BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pr,2,0.6266,0.4358,2.29,2.41,2.32,0.0098,1.005,2.10-2.50
 BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pr,2,0.6497,0.463,2.16,2.27,2.15,-0.0029,1.002,2.10-2.50
 BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pra,2,0.6552,0.4692,2.13,2.24,2.12,-0.0038,1.003,2.10-2.50
