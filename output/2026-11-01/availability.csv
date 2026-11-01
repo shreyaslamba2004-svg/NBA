@@ -2,15 +2,15 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909904,IND,1641738,Kobe Brown,,,1.0,,,
 401909904,IND,1642277,Johnny Furphy,Out,Injury/Illness-RightACLRepair/,0.0,"Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",,
 401909904,IND,1630169,Tyrese Haliburton,Out,Injury/Illness-LeftHamstringStrain,0.0,"Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",,
-401909904,IND,1630643,Jay Huff,,,1.0,,,
+401909904,IND,1630643,Jay Huff,Starting,,1.0,,,1.0
 401909904,IND,1631245,Quenton Jackson,,,1.0,,,
 401909904,IND,204456,T.J. McConnell,Out,Injury/Illness-RightHamstringStrain,0.0,Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday.,,
 401909904,IND,1626204,Larry Nance Jr.,,,1.0,,,
-401909904,IND,1629614,Andrew Nembhard,,,1.0,,,
-401909904,IND,1630174,Aaron Nesmith,Available,Injury/Illness-LeftHamstringStrain,1.0,,,
-401909904,IND,1626162,Kelly Oubre Jr.,,,1.0,,,
+401909904,IND,1629614,Andrew Nembhard,Starting,,1.0,,,1.0
+401909904,IND,1630174,Aaron Nesmith,Starting,Injury/Illness-LeftHamstringStrain,1.0,,,1.0
+401909904,IND,1626162,Kelly Oubre Jr.,Starting,,1.0,,,1.0
 401909904,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
-401909904,IND,1627783,Pascal Siakam,,,1.0,,,
+401909904,IND,1627783,Pascal Siakam,Starting,,1.0,,,1.0
 401909904,IND,1641771,Jalen Slawson,,,1.0,,,
 401909904,IND,905105854,Braden Smith,,,1.0,,,
 401909904,IND,1630167,Obi Toppin,Out,Injury/Illness-LowBackSoreness,0.0,"Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports.",,
@@ -22,16 +22,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909904,BKN,1642856,Egor Demin,Out,Injury/Illness-RightBoneBruise,0.0,"The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday.",,
 401909904,BKN,1631165,Keon Ellis,,,1.0,,,
 401909904,BKN,904870564,Joshua Jefferson,Out,GLeague-OnAssignment,0.0,,,
-401909904,BKN,905174655,Chaney Johnson,,,1.0,,,
+401909904,BKN,905174655,Chaney Johnson,Starting,,1.0,,,1.0
 401909904,BKN,1629611,Terance Mann,,,1.0,,,
 401909904,BKN,1631169,Josh Minott,,,1.0,,,
 401909904,BKN,1641761,Grant Nelson,Out,GLeague-Two-Way,0.0,,,
-401909904,BKN,1629008,Michael Porter Jr.,,,1.0,,,
+401909904,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
 401909904,BKN,1642962,Drake Powell,,,1.0,,,
-401909904,BKN,203944,Julius Randle,,,1.0,,,
+401909904,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
 401909904,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909904,BKN,1630549,Day'Ron Sharpe,,,1.0,,,
-401909904,BKN,1642849,Nolan Traore,,,1.0,,,
+401909904,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
+401909904,BKN,1642849,Nolan Traore,Starting,,1.0,,,1.0
 401909904,BKN,1629021,Moritz Wagner,,,1.0,,,
 401909904,BKN,1642874,Danny Wolf,,,1.0,,,
 401909905,GSW,1629646,Charles Bassey,,,1.0,,,
