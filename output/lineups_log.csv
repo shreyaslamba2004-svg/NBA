@@ -283,3 +283,7 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-10-31T23:56Z,CLE@MIL,4,False,espn
 2026-10-31T23:56Z,MIN@SAS,4,False,espn
 2026-10-31T23:56Z,OKC@HOU,34,False,none
+2026-11-01T00:01Z,SAC@MEM,-1,False,espn
+2026-11-01T00:01Z,CLE@MIL,-1,False,espn
+2026-11-01T00:01Z,MIN@SAS,-1,False,espn
+2026-11-01T00:01Z,OKC@HOU,29,False,none
