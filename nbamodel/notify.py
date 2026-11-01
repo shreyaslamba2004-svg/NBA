@@ -1,4 +1,4 @@
-"""Phone alerts for new best bets (and check-news bets, sent separately), through ntfy (https://ntfy.sh: free app, no account).
+"""Phone alerts for new best bets (plus check-news and not-on-Sportsbet bets, each sent separately), through ntfy (https://ntfy.sh: free app, no account).
 
 Set the NTFY_TOPIC secret to a long random topic name and subscribe to it in the ntfy app. Each run
 sends only bets that weren't already alerted today (output/<date>/alerted.json). No topic, no alerts.
@@ -18,13 +18,14 @@ from . import dashboard as D
 SHEET = "https://github.com/shreyaslamba2004-svg/NBA/blob/main/TODAY.md"
 
 
-def _best(ed: pd.DataFrame, check_news: bool = False) -> pd.DataFrame:
-    """The rows in TODAY.md's main best-bets table, or (check_news=True) its "check news first" table."""
+def _best(ed: pd.DataFrame, kind: str = "best") -> pd.DataFrame:
+    """Rows of one TODAY.md table: "best" (best bets), "news" (check news first) or "elsewhere"
+    (not on Sportsbet). All use the best-bets bar: EV >= MIN_EV, odds <= MAX_ODDS, nothing to wait for."""
     e = ed.copy()
-    if "offered" in e:
-        e = e[e["offered"].astype(str).str.lower() != "false"]
+    off = e["offered"].astype(str).str.lower() != "false" if "offered" in e else pd.Series(True, index=e.index)
     flag = e["check_news"].astype(str).str.lower() == "true"
-    e = e[(flag if check_news else ~flag) & (e["depends_on"].fillna("").astype(str) == "")
+    pick = {"best": off & ~flag, "news": off & flag, "elsewhere": ~off & ~flag}[kind]
+    e = e[pick & (e["depends_on"].fillna("").astype(str) == "")
           & (e["ev_blend"] >= D.MIN_EV) & (e["price_decimal"] <= D.MAX_ODDS)]
     return e.sort_values("ev_blend", ascending=False).drop_duplicates(["matchup", "market", "selection", "line", "player"])
 
@@ -51,10 +52,11 @@ def alert(day: date, out_dir: Path) -> int:
     seen_f = out_dir / "alerted.json"
     seen = set(json.loads(seen_f.read_text())) if seen_f.exists() else set()
     sent = 0
-    for news, prefix, title, tags in ((False, "", "best bet", "basketball"),
-                                      (True, "news|", "check-news bet", "warning")):
+    for kind, prefix, title, tags in (("best", "", "best bet", "basketball"),
+                                      ("news", "news|", "check-news bet", "warning"),
+                                      ("elsewhere", "else|", "not-on-Sportsbet bet", "mag")):
         lines, keys = [], []
-        for _, r in _best(ed, check_news=news).iterrows():
+        for _, r in _best(ed, kind).iterrows():
             k = f"{prefix}{r['matchup']}|{r['market']}|{r['selection']}|{r['line']}|{r.get('player', '')}"
             if k not in seen:
                 keys.append(k)
@@ -62,7 +64,9 @@ def alert(day: date, out_dir: Path) -> int:
         if not lines:
             continue
         body = "\n\n".join(lines)
-        if news:
+        if kind == "elsewhere":
+            body = "Sportsbet doesn't list these markets; check TAB, Ladbrokes, PointsBet etc.\n\n" + body
+        if kind == "news":
             body = ("Model and market disagree by a lot: check injury news and role before betting. "
                     "This list has lost money so far.\n\n" + body)
         try:
