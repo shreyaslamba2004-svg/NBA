@@ -1,40 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAC @ MEM,Zach Edey 9+ pts + Precious Achiuwa 10+ pa,2,0.5551,0.4375,2.29,2.4,2.47,0.0788,1.001,2.10-2.50
-SAC @ MEM,Zach Edey 9+ pts + Cedric Coward 4+ reb,2,0.5656,0.4612,2.17,2.28,2.32,0.0716,1.007,2.10-2.50
-SAC @ MEM,Zach Edey 9+ pts + Cameron Boozer 4+ reb,2,0.6093,0.4922,2.03,2.13,2.17,0.0697,1.002,2.10-2.50
-SAC @ MEM,Jaylen Wells 12+ pts + Precious Achiuwa 10+ pa,2,0.6692,0.5174,1.93,2.03,1.99,0.0318,1.001,1.85-2.10
-SAC @ MEM,Jaylen Wells 12+ pts + Zach Edey 6+ reb,2,0.628,0.4964,2.01,2.12,2.06,0.0227,1.0,1.85-2.10
-SAC @ MEM,Jaylen Wells 12+ pts + Cedric Coward 4+ reb,2,0.6795,0.5435,1.84,1.93,1.88,0.0213,1.003,1.85-2.10
-SAC @ MEM,Jaylen Wells 12+ pts + Precious Achiuwa 4+ reb,2,0.7156,0.5744,1.74,1.83,1.77,0.0175,1.001,1.65-1.85
-SAC @ MEM,Jaylen Wells 15+ pra + Zach Edey 6+ reb,2,0.709,0.5918,1.69,1.77,1.57,-0.068,1.001,1.50-1.65
-SAC @ MEM,Cameron Boozer 6+ reb + Jaylen Wells 15+ pra + Cedric Coward 4+ reb,3,0.7074,0.5078,1.97,2.07,1.82,-0.0756,1.004,1.65-1.85
-SAC @ MEM,Precious Achiuwa 10+ pa + Jaylen Wells 15+ pra + Cameron Boozer 4+ reb,3,0.7428,0.5593,1.79,1.88,1.62,-0.096,1.001,1.50-1.65
-SAC @ MEM,Precious Achiuwa 10+ pa + Jaylen Wells 15+ pra + Cedric Coward 4+ reb,3,0.6878,0.5228,1.91,2.01,1.73,-0.0967,1.004,1.65-1.85
-SAC @ MEM,Jaylen Wells 15+ pra + Cameron Boozer 4+ reb + Cedric Coward 4+ reb,3,0.7547,0.5879,1.7,1.79,1.52,-0.1047,1.004,1.50-1.65
-CLE @ MIL,Myles Turner pts under 10.5 + CLE win,2,0.3925,0.4366,2.29,2.4,2.42,0.0563,1.046,2.10-2.50
-CLE @ MIL,Tyler Herro pts under 21.5 + CLE win,2,0.4267,0.4348,2.3,2.41,2.43,0.0562,1.051,2.10-2.50
-CLE @ MIL,Tyler Herro pra under 30.5 + CLE win,2,0.4121,0.4226,2.37,2.48,2.48,0.0486,1.062,2.10-2.50
-CLE @ MIL,Jaime Jaquez Jr. pts under 15.5 + Donovan Mitchell 15+ pa,2,0.5911,0.4802,2.08,2.19,2.06,-0.0113,1.0,1.85-2.10
-CLE @ MIL,Jaime Jaquez Jr. pts under 15.5 + Donovan Mitchell 20+ pra,2,0.5829,0.4728,2.12,2.22,2.09,-0.0114,0.999,1.85-2.10
-CLE @ MIL,Myles Turner pts under 10.5 + Donovan Mitchell 15+ pr,2,0.5924,0.5063,1.97,2.07,1.93,-0.0238,1.001,1.85-2.10
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + CLE win,2,0.513,0.528,1.89,1.99,1.84,-0.0295,0.984,1.65-1.85
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Ryan Rollins 10+ pa,2,0.7928,0.6277,1.59,1.67,1.52,-0.0466,1.001,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Sam Merrill 5+ pa,2,0.7995,0.6331,1.58,1.66,1.5,-0.0486,0.999,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Donovan Mitchell 15+ pts,2,0.7626,0.6039,1.66,1.74,1.57,-0.0501,0.997,1.50-1.65
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Ryan Rollins 10+ pa + Donovan Mitchell 15+ pts,3,0.7133,0.5375,1.86,1.95,1.68,-0.0958,0.998,1.65-1.85
-CLE @ MIL,Mario Hezonja 3pm under 1.5 + Ryan Rollins 10+ pa + Donovan Mitchell 20+ pr,3,0.6992,0.5276,1.9,1.99,1.71,-0.096,0.999,1.65-1.85
-MIN @ SAS,LaMelo Ball pts under 19.5 + SAS win,2,0.4387,0.44,2.27,2.39,2.32,0.0225,1.048,2.10-2.50
-MIN @ SAS,LaMelo Ball pra under 30.5 + SAS win,2,0.4633,0.4331,2.31,2.42,2.3,-0.0028,1.046,2.10-2.50
-MIN @ SAS,Stephon Castle 17+ pts + SAS win,2,0.4209,0.4181,2.39,2.51,2.38,-0.0048,1.038,2.10-2.50
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 20+ pra,2,0.6558,0.4872,2.05,2.16,2.0,-0.028,0.995,1.85-2.10
-MIN @ SAS,Julian Champagnie 3pm under 2.5 + Bones Hyland 5+ pr,2,0.685,0.5187,1.93,2.02,1.87,-0.0289,1.002,1.85-2.10
-MIN @ SAS,Devin Vassell pts under 12.5 + Stephon Castle 15+ pra,2,0.5292,0.4653,2.15,2.26,2.09,-0.0293,1.001,1.85-2.10
-MIN @ SAS,SAS win + Stephon Castle 20+ pra + Bones Hyland 5+ pr,3,0.6165,0.556,1.8,1.89,1.63,-0.0914,1.008,1.50-1.65
-MIN @ SAS,SAS win + Stephon Castle 15+ pa + Bones Hyland 5+ pr,3,0.6278,0.5703,1.75,1.84,1.59,-0.0939,1.008,1.50-1.65
-MIN @ SAS,SAS win + Stephon Castle 15+ pr + Bones Hyland 5+ pr,3,0.61,0.5536,1.81,1.9,1.63,-0.0963,1.005,1.50-1.65
-MIN @ SAS,SAS win + Stephon Castle 20+ pra + Terrence Shannon Jr. 10+ pa,3,0.5621,0.5146,1.94,2.04,1.74,-0.1029,1.001,1.65-1.85
-MIN @ SAS,SAS win + Stephon Castle 15+ pa + Terrence Shannon Jr. 10+ pa,3,0.5719,0.5274,1.9,1.99,1.69,-0.1061,1.0,1.65-1.85
-MIN @ SAS,SAS win + Stephon Castle 15+ pr + Terrence Shannon Jr. 10+ pa,3,0.5569,0.513,1.95,2.05,1.74,-0.1066,0.999,1.65-1.85
 OKC @ HOU,Kevin Durant 9+ ra + Tari Eason 4+ reb,2,0.6455,0.4215,2.37,2.49,2.47,0.0408,1.0,2.10-2.50
 OKC @ HOU,Kenrich Williams 7+ pts + Tari Eason 4+ reb,2,0.6251,0.4425,2.26,2.37,2.35,0.0386,1.004,2.10-2.50
 OKC @ HOU,Kevin Durant 9+ ra + Alperen Sengun 6+ reb,2,0.6606,0.4406,2.27,2.38,2.35,0.0357,1.003,2.10-2.50
