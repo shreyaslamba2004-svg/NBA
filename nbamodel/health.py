@@ -241,6 +241,38 @@ def build(today: date | None = None) -> str:
                     "price_decimal")) if len(g) else g
     md.append(record(lng, "price_decimal", clv=False) + "\n\n" + bet_list(lng, "Every long shot")
               if len(lng) else "_No graded long shots yet._")
+    def flags(x):
+        return (x["check_news"].astype(str).str.lower() == "true",
+                x["depends_on"].fillna("").astype(str) != "",
+                x["offered"].astype(str).str.lower() == "false")
+
+    def dedupe(x):
+        return x.sort_values("price_decimal", ascending=False).drop_duplicates(
+            ["game_id", "market", "selection", "player", "line"])
+
+    md.append(f"## Check news first (EV ≥ 5%, odds ≤ {monitor.BEST_MAX_ODDS:g})")
+    md.append("TODAY.md's \"check news first\" table: bets that clear the bar but where the model and market "
+              "disagree by more than 15 points, so something may be missing. Final pre-tip list at the price shown "
+              "then. Kept apart from best bets; if this stays unprofitable, the flag is doing its job.")
+    if len(g):
+        cn, dep, off = flags(g)
+        chk = top(dedupe(g[(g["ev_blend"] >= monitor.BEST_EV) & (g["price_decimal"] <= monitor.BEST_MAX_ODDS)
+                           & cn & ~dep & ~off]))
+    else:
+        chk = g
+    md.append(record(chk, "price_decimal", clv=False) + "\n\n" + bet_list(chk, "Every check-news bet")
+              if len(chk) else "_No graded check-news bets yet._")
+    md.append("## Not on Sportsbet (EV ≥ 5%, any odds)")
+    md.append("TODAY.md's \"not on Sportsbet\" table: bets that would otherwise qualify, but in a market Sportsbet "
+              "doesn't list (bookie_markets.json), so only other books have them. Final pre-tip list at the price "
+              "shown then.")
+    if len(g):
+        cn, dep, off = flags(g)
+        nsb = top(dedupe(g[(g["ev_blend"] >= monitor.BEST_EV) & off & ~cn & ~dep]))
+    else:
+        nsb = g
+    md.append(record(nsb, "price_decimal", clv=False) + "\n\n" + bet_list(nsb, "Every not-on-Sportsbet bet")
+              if len(nsb) else "_No graded not-on-Sportsbet bets yet._")
     md.append("## Best bets: any time in the day (secondary)")
     md.append("**Any time in the day.** Every bet that showed in the table at any point, graded at "
               "the first price it showed at. Bets that dropped off before tip (news, price moves) count here.")
