@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ ORL,Jase Richardson 9+ pts + Jayson Tatum 6+ reb,2,0.4819,0.4015,2.49,2.62,2.46,-0.012,1.002,2.10-2.50
+BOS @ ORL,Jase Richardson 9+ pts + Jayson Tatum 6+ reb,2,0.4819,0.3989,2.51,2.63,2.48,-0.0097,1.002,2.10-2.50
 BOS @ ORL,Derrick White pts under 14.5 + Jase Richardson 10+ pra,2,0.5104,0.4069,2.46,2.58,2.43,-0.013,0.998,2.10-2.50
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jase Richardson 2+ ast,2,0.5566,0.4006,2.5,2.62,2.45,-0.0166,0.993,2.10-2.50
-BOS @ ORL,Derrick White pts under 14.5 + Jase Richardson 5+ pa,2,0.5804,0.4749,2.11,2.21,2.06,-0.0219,0.999,1.85-2.10
+BOS @ ORL,Jase Richardson 9+ pts + Wendell Carter Jr. 10+ pr,2,0.5424,0.4579,2.18,2.29,2.15,-0.0166,1.002,2.10-2.50
+BOS @ ORL,Derrick White pts under 14.5 + Jase Richardson 5+ pa,2,0.5804,0.4754,2.1,2.21,2.06,-0.0223,0.999,1.85-2.10
 BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jase Richardson 10+ pra,2,0.6555,0.4835,2.07,2.17,2.01,-0.0262,0.995,1.85-2.10
 BOS @ ORL,Derrick White pts under 14.5 + Wendell Carter Jr. 10+ pr,2,0.5826,0.4869,2.05,2.16,1.99,-0.0303,0.998,1.85-2.10
-BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jase Richardson 5+ pa,2,0.7462,0.5651,1.77,1.86,1.71,-0.034,0.997,1.65-1.85
+BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jase Richardson 5+ pa,2,0.7462,0.5656,1.77,1.86,1.71,-0.0343,0.997,1.65-1.85
 BOS @ ORL,Tristan da Silva 3pm under 2.5 + Wendell Carter Jr. 10+ pr,2,0.7524,0.5819,1.72,1.8,1.65,-0.0379,1.0,1.65-1.85
 BOS @ ORL,Tristan da Silva 3pm under 2.5 + Jayson Tatum 1+ 3pm,2,0.7352,0.5751,1.74,1.83,1.67,-0.0414,1.001,1.65-1.85
-BOS @ ORL,Jase Richardson 2+ ast + Jayson Tatum 1+ 3pm,2,0.6735,0.566,1.77,1.86,1.64,-0.0701,0.998,1.50-1.65
-BOS @ ORL,Jayson Tatum 6+ reb + Wendell Carter Jr. 15+ pr,2,0.6793,0.6024,1.66,1.74,1.51,-0.0876,1.002,1.50-1.65
-BOS @ ORL,Jayson Tatum 6+ reb + Paul George 1+ stl,2,0.6862,0.6066,1.65,1.73,1.5,-0.0879,1.0,1.50-1.65
+BOS @ ORL,Jayson Tatum 6+ reb + Wendell Carter Jr. 15+ pr,2,0.6793,0.598,1.67,1.76,1.53,-0.0852,1.002,1.50-1.65
+BOS @ ORL,Jayson Tatum 6+ reb + Paul George 1+ stl,2,0.6862,0.6028,1.66,1.74,1.52,-0.0857,1.0,1.50-1.65
+BOS @ ORL,Paul George 1+ stl + Wendell Carter Jr. 15+ pr,2,0.6375,0.5744,1.74,1.83,1.58,-0.0912,1.004,1.50-1.65
 BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pr,2,0.6266,0.4358,2.29,2.41,2.32,0.0098,1.005,2.10-2.50
 BKN @ IND,Noah Clowney 4+ reb + Jarace Walker 10+ pr,2,0.6497,0.463,2.16,2.27,2.15,-0.0029,1.002,2.10-2.50
 BKN @ IND,Noah Clowney 12+ pr + Jarace Walker 10+ pra,2,0.6552,0.4692,2.13,2.24,2.12,-0.0038,1.003,2.10-2.50
@@ -35,15 +35,15 @@ LAC @ GSW,Isaiah Jackson reb under 7.5 + Yaxel Lendeborg 20+ pra,2,0.6544,0.5193
 LAC @ GSW,Georges Niang 1+ 3pm + Yaxel Lendeborg 10+ pts + De'Anthony Melton 1+ 3pm,3,0.6327,0.5526,1.81,1.9,1.55,-0.1453,0.999,1.50-1.65
 LAC @ GSW,Georges Niang 1+ 3pm + Yaxel Lendeborg 15+ pr + De'Anthony Melton 1+ 3pm,3,0.6427,0.5615,1.78,1.87,1.52,-0.1471,0.997,1.50-1.65
 LAC @ GSW,Georges Niang 1+ 3pm + De'Anthony Melton 1+ 3pm + Yaxel Lendeborg 20+ pra,3,0.6167,0.5455,1.83,1.92,1.56,-0.1482,1.0,1.50-1.65
-TOR @ LAL,Walker Kessler pts under 12.5 + Scottie Barnes 4+ ast,2,0.5974,0.4302,2.32,2.44,2.31,-0.0066,1.002,2.10-2.50
-TOR @ LAL,Austin Reaves pts under 22.5 + Scottie Barnes 4+ ast,2,0.5831,0.4229,2.36,2.48,2.33,-0.0142,0.998,2.10-2.50
-TOR @ LAL,Austin Reaves pts under 22.5 + RJ Barrett 1+ 3pm,2,0.56,0.4135,2.42,2.54,2.38,-0.016,1.002,2.10-2.50
+TOR @ LAL,Walker Kessler pts under 12.5 + Scottie Barnes 4+ ast,2,0.5974,0.4295,2.33,2.44,2.31,-0.0061,1.002,2.10-2.50
+TOR @ LAL,Austin Reaves pts under 22.5 + Scottie Barnes 4+ ast,2,0.5831,0.4223,2.37,2.49,2.34,-0.0137,0.998,2.10-2.50
+TOR @ LAL,Walker Kessler pts under 12.5 + Scottie Barnes 1+ stl,2,0.574,0.4199,2.38,2.5,2.35,-0.0147,1.0,2.10-2.50
 TOR @ LAL,Walker Kessler pts under 12.5 + RJ Barrett 15+ pra,2,0.6612,0.4928,2.03,2.13,1.98,-0.0219,0.999,1.85-2.10
 TOR @ LAL,Walker Kessler pts under 12.5 + Ja'Kobe Walter 5+ pa,2,0.6543,0.4884,2.05,2.15,2.0,-0.0229,0.999,1.85-2.10
 TOR @ LAL,Walker Kessler pts under 12.5 + RJ Barrett 15+ pr,2,0.6316,0.4716,2.12,2.23,2.07,-0.024,0.998,1.85-2.10
 TOR @ LAL,Ja'Kobe Walter 3pm under 2.5 + RJ Barrett 15+ pra,2,0.6602,0.5315,1.88,1.98,1.78,-0.0552,0.999,1.65-1.85
 TOR @ LAL,RJ Barrett 1+ 3pm + Ja'Kobe Walter 1+ stl,2,0.669,0.595,1.68,1.76,1.53,-0.0897,1.001,1.50-1.65
 TOR @ LAL,RJ Barrett 4+ reb + Ja'Kobe Walter 1+ stl,2,0.6369,0.572,1.75,1.84,1.59,-0.0928,1.001,1.50-1.65
-TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Ja'Kobe Walter 1+ stl,3,0.5884,0.4819,2.08,2.18,1.82,-0.1239,1.001,1.65-1.85
-TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 4+ reb + Collin Sexton 5+ pr,3,0.634,0.5268,1.9,1.99,1.66,-0.1262,1.003,1.65-1.85
-TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Collin Sexton 5+ pa,3,0.6596,0.5417,1.85,1.94,1.61,-0.1272,0.998,1.50-1.65
+TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Ja'Kobe Walter 1+ stl,3,0.5884,0.4811,2.08,2.18,1.82,-0.1234,1.001,1.65-1.85
+TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 4+ reb + Collin Sexton 5+ pr,3,0.634,0.5259,1.9,2.0,1.66,-0.1257,1.003,1.65-1.85
+TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Collin Sexton 5+ pa,3,0.6596,0.5408,1.85,1.94,1.61,-0.1267,0.998,1.50-1.65
