@@ -110,3 +110,7 @@ game_id,game_date,home,away,book,spread_home,total,over_price,under_price,ml_hom
 401909900,2026-10-31,MIL,CLE,DraftKings,8.5,234.5,-112.0,-108.0,235,-290,-110.0,-110.0,9.5,236.5,"Marat Kogut, Karl Lane, Evan Scott"
 401909901,2026-10-31,SAS,MIN,DraftKings,-12.5,230.5,-108.0,-112.0,-575,425,-115.0,-105.0,-11.5,227.5,"Courtney Kirkland, Ray Acosta, Matt Kallio"
 401909902,2026-10-31,HOU,OKC,DraftKings,-2.5,219.5,-108.0,-112.0,-142,120,-115.0,-105.0,-4.5,218.5,"Mark Lindsay, Aaron Smith, Sha'Rae Mitchell"
+401909903,2026-11-01,ORL,BOS,DraftKings,6.5,221.5,-112.0,-108.0,230,-285,-105.0,-115.0,6.5,222.5,"Curtis Blair, Che Flores, Gediminas Petraitis"
+401909904,2026-11-01,IND,BKN,DraftKings,-3.5,230.5,-108.0,-112.0,-155,130,-105.0,-115.0,-4.5,230.5,"Bill Kennedy, Matt Myers, Robert Hussey"
+401909905,2026-11-01,GSW,LAC,DraftKings,-1.5,220.5,-115.0,-105.0,-130,110,-118.0,-102.0,-2.5,219.5,"Derrick Collins, Nick Buchert, Justin Van Duyne"
+401909906,2026-11-01,LAL,TOR,DraftKings,-3.5,224.5,-105.0,-115.0,-170,142,-112.0,-108.0,-4.5,227.5,"Brian Forte, Tyler Ford, Catherine Chang"
