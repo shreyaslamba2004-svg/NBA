@@ -1,15 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAC @ GSW,Rui Hachimura pts under 15.5 + Georges Niang 1+ 3pm,2,0.5152,0.4127,2.42,2.54,2.45,0.0093,0.996,2.10-2.50
-LAC @ GSW,Rui Hachimura pts under 15.5 + Yaxel Lendeborg 10+ pts,2,0.5905,0.4797,2.08,2.19,2.1,0.006,0.998,1.85-2.10
-LAC @ GSW,Rui Hachimura pts under 15.5 + Yaxel Lendeborg 1+ 3pm,2,0.528,0.4376,2.29,2.4,2.29,0.0038,1.003,2.10-2.50
-LAC @ GSW,Rui Hachimura pts under 15.5 + De'Anthony Melton 1+ 3pm,2,0.5251,0.4325,2.31,2.43,2.32,0.0024,0.999,2.10-2.50
-LAC @ GSW,Rui Hachimura pts under 15.5 + Yaxel Lendeborg 4+ reb,2,0.582,0.4839,2.07,2.17,2.06,-0.0009,0.999,1.85-2.10
-LAC @ GSW,Rui Hachimura pts under 15.5 + Darius Garland 1+ 3pm,2,0.5889,0.4878,2.05,2.15,2.05,-0.0017,0.997,1.85-2.10
-LAC @ GSW,Isaiah Jackson reb under 7.5 + Darius Garland 1+ 3pm,2,0.673,0.5282,1.89,1.99,1.81,-0.0421,1.0,1.65-1.85
-LAC @ GSW,Kris Dunn ast under 5.5 + Yaxel Lendeborg 10+ pts,2,0.6939,0.5439,1.84,1.93,1.76,-0.0429,1.0,1.65-1.85
-LAC @ GSW,Isaiah Jackson reb under 7.5 + Yaxel Lendeborg 4+ reb,2,0.6639,0.5231,1.91,2.01,1.83,-0.0431,1.0,1.65-1.85
-LAC @ GSW,Georges Niang 1+ 3pm + Yaxel Lendeborg 10+ pts + De'Anthony Melton 1+ 3pm,3,0.6323,0.5509,1.82,1.91,1.55,-0.1444,0.999,1.50-1.65
-LAC @ GSW,Georges Niang 1+ 3pm + De'Anthony Melton 1+ 3pm + Yaxel Lendeborg 15+ pa,3,0.5977,0.531,1.88,1.98,1.61,-0.1467,1.004,1.50-1.65
+LAC @ GSW,Rui Hachimura pts under 15.5 + Georges Niang 1+ 3pm,2,0.5572,0.4217,2.37,2.49,2.45,0.0314,0.996,2.10-2.50
+LAC @ GSW,Brandon Williams pts under 13.5 + Georges Niang 1+ 3pm,2,0.5757,0.4183,2.39,2.51,2.42,0.0135,0.993,2.10-2.50
+LAC @ GSW,Rui Hachimura pts under 15.5 + Brandin Podziemski 15+ pr,2,0.5536,0.4464,2.24,2.35,2.26,0.0091,0.998,2.10-2.50
+LAC @ GSW,Rui Hachimura pts under 15.5 + Yaxel Lendeborg 10+ pts,2,0.5871,0.4801,2.08,2.19,2.1,0.0069,1.001,1.85-2.10
+LAC @ GSW,Rui Hachimura pts under 15.5 + Darius Garland 1+ 3pm,2,0.5928,0.4893,2.04,2.15,2.05,0.0015,0.998,1.85-2.10
+LAC @ GSW,Rui Hachimura pts under 15.5 + Yaxel Lendeborg 4+ reb,2,0.5896,0.4847,2.06,2.17,2.06,0.0007,0.996,1.85-2.10
+LAC @ GSW,Georges Niang 8+ pts + Darius Garland 1+ 3pm,2,0.6442,0.5175,1.93,2.03,1.85,-0.0428,1.001,1.65-1.85
+LAC @ GSW,Georges Niang 1+ 3pm + De'Anthony Melton 1+ 3pm + Brandin Podziemski 15+ pr,3,0.6385,0.5244,1.91,2.0,1.67,-0.1222,1.003,1.65-1.85
+LAC @ GSW,Georges Niang 1+ 3pm + Brandin Podziemski 15+ pr + Yaxel Lendeborg 10+ pts,3,0.6922,0.5782,1.73,1.82,1.51,-0.1243,1.007,1.50-1.65
+LAC @ GSW,Georges Niang 1+ 3pm + De'Anthony Melton 1+ 3pm + Yaxel Lendeborg 10+ pts,3,0.6761,0.563,1.78,1.86,1.55,-0.1256,1.004,1.50-1.65
+LAC @ GSW,Georges Niang 1+ 3pm + De'Anthony Melton 1+ 3pm + Brandin Podziemski 1+ 3pm,3,0.6629,0.5527,1.81,1.9,1.58,-0.1261,1.004,1.50-1.65
+LAC @ GSW,Georges Niang 1+ 3pm + Brandin Podziemski 15+ pr + Yaxel Lendeborg 1+ 3pm,3,0.6244,0.5262,1.9,2.0,1.66,-0.1282,1.006,1.65-1.85
 TOR @ LAL,Austin Reaves pts under 22.5 + RJ Barrett 1+ 3pm,2,0.5436,0.4104,2.44,2.56,2.37,-0.0277,1.001,2.10-2.50
 TOR @ LAL,Austin Reaves pts under 22.5 + Scottie Barnes 4+ ast,2,0.5658,0.4227,2.37,2.48,2.3,-0.0277,0.997,2.10-2.50
 TOR @ LAL,Austin Reaves pa under 27.5 + RJ Barrett 1+ 3pm,2,0.5365,0.4078,2.45,2.57,2.38,-0.0293,1.003,2.10-2.50
