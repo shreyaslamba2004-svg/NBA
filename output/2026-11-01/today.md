@@ -1,6 +1,6 @@
 # NBA model · Sun 01 Nov 2026 (US date)
 
-Updated **Mon 02 Nov, 11:54 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-01/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 02 Nov, 11:59 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-01/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -50,13 +50,13 @@ Out: Jimmy Butler III (GSW), Stephen Curry (GSW), Draymond Green (GSW), Moses Mo
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Rui Hachimura PTS under 15.5 | LAC @ GSW | draftkings | 1.97 | 1.86 | 1.58 | 63.3% | 50.7% | 53.9% | +6.2% | +24.8% | 1.6% |
-| Darius Garland PTS under 22.5 | LAC @ GSW | betright | 2.00 | 1.97 | 1.68 | 59.6% | 47.8% | 50.8% | +1.5% | +19.2% | 0.4% |
+| Darius Garland PTS under 22.5 | LAC @ GSW | pointsbetau | 2.00 | 1.97 | 1.68 | 59.6% | 47.8% | 50.8% | +1.5% | +19.2% | 0.4% |
 | Brandin Podziemski PTS over 16.5 (17+) | LAC @ GSW | draftkings | 1.98 | 1.96 | 1.82 | 55.0% | 49.6% | 50.9% | +0.9% | +9.0% | 0.2% |
 | Isaiah Jackson PTS under 8.5 | LAC @ GSW | pointsbetau | 2.05 | 2.03 | 1.89 | 53.0% | 47.9% | 49.1% | +0.8% | +8.8% | 0.2% |
 | Brandon Williams PTS under 13.5 | LAC @ GSW | betright | 1.95 | 1.94 | 1.76 | 57.0% | 49.6% | 51.4% | +0.4% | +11.2% | 0.1% |
 | Darius Garland PR under 25.5 | LAC @ GSW | draftkings | 1.95 | 1.95 | 1.61 | 62.0% | 47.9% | 51.4% | +0.4% | +21.0% | 0.1% |
 | De'Anthony Melton PTS under 12.5 | LAC @ GSW | pointsbetau | 1.90 | 1.90 | 1.70 | 59.0% | 50.6% | 52.7% | +0.2% | +12.1% | 0.1% |
-| Darius Garland PTS under 23.5 | LAC @ GSW | unibet | 1.85 | 1.85 | 1.57 | 63.8% | 51.0% | 54.2% | +0.1% | +17.8% | 0.0% |
+| Darius Garland PTS under 23.5 | LAC @ GSW | tab | 1.85 | 1.85 | 1.57 | 63.8% | 51.0% | 54.2% | +0.1% | +17.8% | 0.0% |
 
 <details><summary>LAC players (confirmed only)</summary>
 
