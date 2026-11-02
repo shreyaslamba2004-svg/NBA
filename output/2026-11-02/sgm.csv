@@ -8,45 +8,58 @@ OKC @ CLE,Ajay Mitchell pts under 17.5 + Jared McCain 10+ pra,2,0.5914,0.4661,2.
 OKC @ CLE,Kenrich Williams 10+ pra + Jared McCain 10+ pra + Shai Gilgeous-Alexander 4+ ast,3,0.6741,0.5769,1.73,1.82,1.5,-0.1322,1.007,1.50-1.65
 OKC @ CLE,Kenrich Williams 10+ pra + Evan Mobley 10+ pts + Shai Gilgeous-Alexander 4+ ast,3,0.6291,0.5339,1.87,1.97,1.62,-0.1344,1.002,1.50-1.65
 OKC @ CLE,Kenrich Williams 10+ pra + Shai Gilgeous-Alexander 4+ ast + Evan Mobley 20+ pra,3,0.6316,0.5454,1.83,1.93,1.58,-0.1381,1.004,1.50-1.65
-DET @ CHA,Paul Reed ra under 10.5 + Dennis Schroder 10+ pr,2,0.5882,0.4319,2.32,2.43,2.27,-0.0177,0.996,2.10-2.50
-DET @ CHA,John Collins pra under 20.5 + Dennis Schroder 10+ pr,2,0.6091,0.4468,2.24,2.35,2.19,-0.0199,0.996,2.10-2.50
-DET @ CHA,John Collins pr under 19.5 + Dennis Schroder 10+ pr,2,0.611,0.4504,2.22,2.33,2.17,-0.0229,0.995,2.10-2.50
-DET @ CHA,John Collins pra under 20.5 + Dennis Schroder 10+ pra,2,0.6885,0.5196,1.92,2.02,1.87,-0.0263,1.0,1.85-2.10
-DET @ CHA,Paul Reed ra under 10.5 + Moussa Diabate 5+ pa,2,0.6402,0.4825,2.07,2.18,2.02,-0.0268,0.996,1.85-2.10
-DET @ CHA,John Collins pra under 20.5 + Moussa Diabate 5+ pa,2,0.6637,0.4998,2.0,2.1,1.95,-0.0279,0.997,1.85-2.10
-DET @ CHA,Cade Cunningham ra under 14.5 + Dennis Schroder 10+ pra,2,0.6624,0.5244,1.91,2.0,1.82,-0.0452,1.0,1.65-1.85
-DET @ CHA,Paul Reed ast under 2.5 + Moussa Diabate 5+ pa,2,0.674,0.5337,1.87,1.97,1.78,-0.0511,0.996,1.65-1.85
-DET @ CHA,Paul Reed ast under 2.5 + Naz Reid 15+ pra,2,0.6662,0.5337,1.87,1.97,1.77,-0.0544,0.996,1.65-1.85
-BKN @ NYK,Nolan Traore ast under 4.5 + NYK win,2,0.6527,0.472,2.12,2.22,2.27,0.0698,1.012,2.10-2.50
-BKN @ NYK,Nolan Traore pra under 18.5 + NYK win,2,0.6764,0.4929,2.03,2.13,2.17,0.0692,1.015,2.10-2.50
-BKN @ NYK,Nolan Traore pa under 16.5 + NYK win,2,0.6864,0.506,1.98,2.08,2.1,0.0642,1.017,2.10-2.50
-BKN @ NYK,Nolan Traore pra under 18.5 + Karl-Anthony Towns 6+ reb,2,0.7712,0.5108,1.96,2.06,2.04,0.0406,0.999,1.85-2.10
-BKN @ NYK,Nolan Traore pra under 18.5 + Josh Hart 4+ reb,2,0.7431,0.4994,2.0,2.1,2.07,0.0337,0.998,1.85-2.10
-BKN @ NYK,Nolan Traore pa under 16.5 + Karl-Anthony Towns 6+ reb,2,0.7803,0.523,1.91,2.01,1.98,0.0329,0.999,1.85-2.10
-BKN @ NYK,Nolan Traore ra under 7.5 + Karl-Anthony Towns 6+ reb,2,0.7949,0.5695,1.76,1.84,1.75,-0.0015,0.999,1.65-1.85
-BKN @ NYK,Nolan Traore ra under 7.5 + OG Anunoby 10+ pts,2,0.7438,0.5382,1.86,1.95,1.85,-0.0043,1.0,1.65-1.85
-BKN @ NYK,Nolan Traore ra under 7.5 + Jalen Brunson 1+ 3pm,2,0.7446,0.5426,1.84,1.93,1.83,-0.0053,1.001,1.65-1.85
-BKN @ NYK,NYK win + OG Anunoby 15+ pr + Josh Hart 1+ 3pm,3,0.5667,0.5648,1.77,1.86,1.54,-0.1309,1.018,1.50-1.65
-BKN @ NYK,NYK win + OG Anunoby 10+ pts + Josh Hart 1+ 3pm,3,0.578,0.5774,1.73,1.82,1.5,-0.1316,1.018,1.50-1.65
-BKN @ NYK,NYK win + Josh Hart 1+ 3pm + Karl-Anthony Towns 8+ reb,3,0.5467,0.5522,1.81,1.9,1.55,-0.1452,1.006,1.50-1.65
+DET @ CHA,Paul Reed ra under 10.5 + Grayson Allen 1+ 3pm,2,0.6324,0.468,2.14,2.24,2.1,-0.0187,0.998,1.85-2.10
+DET @ CHA,Paul Reed ra under 10.5 + Dennis Schroder 10+ pr,2,0.5882,0.4332,2.31,2.42,2.27,-0.0188,0.996,2.10-2.50
+DET @ CHA,John Collins pra under 20.5 + Dennis Schroder 10+ pr,2,0.6091,0.4481,2.23,2.34,2.18,-0.021,0.996,2.10-2.50
+DET @ CHA,John Collins pra under 20.5 + Grayson Allen 1+ 3pm,2,0.6535,0.4832,2.07,2.17,2.02,-0.0228,0.996,1.85-2.10
+DET @ CHA,John Collins pr under 19.5 + Dennis Schroder 10+ pr,2,0.611,0.4518,2.21,2.32,2.16,-0.024,0.995,2.10-2.50
+DET @ CHA,John Collins pr under 19.5 + Grayson Allen 1+ 3pm,2,0.6562,0.4876,2.05,2.15,2.0,-0.0249,0.996,1.85-2.10
+DET @ CHA,Paul Reed ast under 2.5 + Grayson Allen 1+ 3pm,2,0.6667,0.5233,1.91,2.01,1.82,-0.0455,0.999,1.65-1.85
+DET @ CHA,Paul Reed ast under 2.5 + Moussa Diabate 5+ pa,2,0.674,0.5384,1.86,1.95,1.76,-0.0547,0.996,1.65-1.85
+DET @ CHA,Paul Reed ast under 2.5 + Cade Cunningham 1+ 3pm,2,0.6261,0.5128,1.95,2.05,1.84,-0.0568,1.002,1.65-1.85
+DET @ CHA,Dennis Schroder 10+ pr + Grayson Allen 1+ 3pm + Duncan Robinson 10+ pa,3,0.6662,0.5583,1.79,1.88,1.56,-0.1292,1.003,1.50-1.65
+DET @ CHA,Dennis Schroder 10+ pr + Grayson Allen 1+ 3pm + Ausar Thompson 1+ stl,3,0.6527,0.5534,1.81,1.9,1.57,-0.133,1.003,1.50-1.65
+DET @ CHA,Dennis Schroder 10+ pr + Duncan Robinson 10+ pa + Moussa Diabate 5+ pa,3,0.6764,0.577,1.73,1.82,1.5,-0.1339,1.004,1.50-1.65
+BKN @ NYK,Nolan Traore ast under 4.5 + NYK win,2,0.6527,0.481,2.08,2.18,2.2,0.0584,1.012,2.10-2.50
+BKN @ NYK,Nolan Traore ra under 6.5 + NYK win,2,0.6208,0.4579,2.18,2.29,2.31,0.0582,1.01,2.10-2.50
+BKN @ NYK,Nolan Traore pra under 18.5 + NYK win,2,0.6764,0.5094,1.96,2.06,2.06,0.0498,1.015,1.85-2.10
+BKN @ NYK,Nolan Traore pa under 16.5 + NYK win,2,0.6864,0.5228,1.91,2.01,2.0,0.0456,1.017,1.85-2.10
+BKN @ NYK,Nolan Traore ra under 6.5 + Karl-Anthony Towns 6+ reb,2,0.7109,0.4773,2.1,2.2,2.17,0.0341,0.998,2.10-2.50
+BKN @ NYK,Nolan Traore ast under 4.5 + Karl-Anthony Towns 6+ reb,2,0.7463,0.5006,2.0,2.1,2.06,0.0328,0.999,1.85-2.10
+BKN @ NYK,Noah Clowney 3pm under 1.5 + NYK win,2,0.6104,0.5325,1.88,1.97,1.84,-0.0217,1.016,1.65-1.85
+BKN @ NYK,Michael Porter Jr. ra under 9.5 + Karl-Anthony Towns 6+ reb,2,0.6863,0.5321,1.88,1.97,1.81,-0.0352,1.0,1.65-1.85
+BKN @ NYK,Michael Porter Jr. ra under 9.5 + Josh Hart 4+ reb,2,0.6622,0.52,1.92,2.02,1.85,-0.0395,1.0,1.65-1.85
+BKN @ NYK,NYK win + OG Anunoby 10+ pts + Josh Hart 1+ 3pm,3,0.578,0.5782,1.73,1.82,1.5,-0.132,1.018,1.50-1.65
+BKN @ NYK,NYK win + OG Anunoby 15+ pr + Josh Hart 1+ 3pm,3,0.5667,0.5678,1.76,1.85,1.53,-0.1325,1.018,1.50-1.65
+BKN @ NYK,NYK win + Julius Randle 4+ reb + Josh Hart 1+ 3pm,3,0.5646,0.5643,1.77,1.86,1.52,-0.1421,1.006,1.50-1.65
+WAS @ ORL,Wendell Carter Jr. 13+ pts + Kyshawn George 1+ 3pm,2,0.5033,0.4102,2.44,2.56,2.29,-0.0608,0.997,2.10-2.50
+WAS @ ORL,Wendell Carter Jr. 13+ pts + Desmond Bane 1+ 3pm,2,0.5799,0.4802,2.08,2.19,1.96,-0.0612,1.002,1.85-2.10
+WAS @ ORL,Desmond Bane 21+ pts + Kyshawn George 1+ 3pm,2,0.4839,0.4112,2.43,2.55,2.25,-0.074,1.0,2.10-2.50
+WAS @ ORL,Desmond Bane 3pm under 3.5 + Kyshawn George 1+ 3pm,2,0.5543,0.4799,2.08,2.19,1.92,-0.0779,1.003,1.85-2.10
+WAS @ ORL,WAS +2.5 + Kyshawn George 1+ 3pm,2,0.3248,0.403,2.48,2.61,2.28,-0.0812,1.016,2.10-2.50
+WAS @ ORL,ORL win + Desmond Bane 1+ 3pm,2,0.6244,0.5076,1.97,2.07,1.79,-0.0912,1.005,1.65-1.85
+WAS @ ORL,game over 224.5 + Desmond Bane 1+ 3pm,2,0.5356,0.4609,2.17,2.28,1.96,-0.095,1.006,1.85-2.10
+WAS @ ORL,Wendell Carter Jr. 1+ 3pm + Desmond Bane 1+ 3pm,2,0.5916,0.548,1.82,1.92,1.64,-0.1009,1.002,1.50-1.65
+WAS @ ORL,Franz Wagner 3pm under 1.5 + Desmond Bane 1+ 3pm,2,0.5451,0.5118,1.95,2.05,1.74,-0.1081,0.999,1.65-1.85
 CHI @ PHI,Norman Powell pra under 24.5 + PHI win,2,0.4516,0.4388,2.28,2.39,2.26,-0.0079,1.047,2.10-2.50
 CHI @ PHI,Caleb Wilson pa under 22.5 + PHI win,2,0.4744,0.459,2.18,2.29,2.16,-0.0085,1.045,2.10-2.50
 CHI @ PHI,Matas Buzelis pa under 16.5 + PHI win,2,0.4658,0.4527,2.21,2.32,2.19,-0.0104,1.045,2.10-2.50
-CHI @ PHI,Tre Jones ast under 3.5 + Jaylen Brown 15+ pr,2,0.5817,0.4642,2.15,2.26,2.05,-0.0499,1.001,1.85-2.10
-CHI @ PHI,Tre Jones ast under 3.5 + Jaylen Brown 20+ pra,2,0.5675,0.4522,2.21,2.32,2.1,-0.0506,1.0,1.85-2.10
-CHI @ PHI,Norman Powell 3pm under 2.5 + Jaylen Brown 15+ pr,2,0.6188,0.4938,2.03,2.13,1.92,-0.0518,0.999,1.85-2.10
-CHI @ PHI,Leonard Miller reb under 4.5 + Jaylen Brown 15+ pr,2,0.6232,0.5192,1.93,2.02,1.79,-0.0684,0.999,1.65-1.85
-CHI @ PHI,Leonard Miller reb under 4.5 + Tyrese Maxey 1+ 3pm,2,0.6049,0.5047,1.98,2.08,1.84,-0.0694,0.999,1.65-1.85
-CHI @ PHI,Leonard Miller reb under 4.5 + Jaylen Brown 20+ pra,2,0.6076,0.5055,1.98,2.08,1.84,-0.0696,0.997,1.65-1.85
-CHI @ PHI,PHI win + Jaylen Brown 1+ 3pm + Tyrese Maxey 1+ 3pm,3,0.5788,0.5792,1.73,1.81,1.53,-0.1129,1.016,1.50-1.65
-CHI @ PHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 20+ pr,3,0.5471,0.5502,1.82,1.91,1.6,-0.1175,1.012,1.50-1.65
+CHI @ PHI,Norman Powell 3pm under 2.5 + Jaylen Brown 20+ pra,2,0.604,0.4802,2.08,2.19,1.98,-0.0513,0.998,1.85-2.10
+CHI @ PHI,Tre Jones ast under 3.5 + Jaylen Brown 20+ pra,2,0.5675,0.4556,2.19,2.3,2.08,-0.0538,1.0,1.85-2.10
+CHI @ PHI,Norman Powell 3pm under 2.5 + Tyrese Maxey 1+ 3pm,2,0.5988,0.4788,2.09,2.19,1.97,-0.0559,0.996,1.85-2.10
+CHI @ PHI,Leonard Miller reb under 4.5 + Tyrese Maxey 1+ 3pm,2,0.6049,0.504,1.98,2.08,1.85,-0.0688,0.999,1.65-1.85
+CHI @ PHI,Leonard Miller reb under 4.5 + Matas Buzelis 10+ pr,2,0.5924,0.5035,1.99,2.09,1.84,-0.0737,1.0,1.65-1.85
+CHI @ PHI,Leonard Miller reb under 4.5 + Tyrese Maxey 20+ pra,2,0.6147,0.5191,1.93,2.02,1.78,-0.0748,0.997,1.65-1.85
+CHI @ PHI,PHI win + Jaylen Brown 1+ 3pm + Tyrese Maxey 1+ 3pm,3,0.5788,0.5797,1.73,1.81,1.53,-0.1131,1.016,1.50-1.65
+CHI @ PHI,PHI win + Caleb Wilson 4+ reb + Tyrese Maxey 1+ 3pm,3,0.5861,0.5825,1.72,1.8,1.51,-0.1211,1.004,1.50-1.65
 CHI @ PHI,PHI win + Jaylen Brown 1+ 3pm + Josh Giddey 4+ reb,3,0.5359,0.5421,1.84,1.94,1.62,-0.1213,1.01,1.50-1.65
-SAC @ DAL,DAL win + Max Christie 2+ 3pm,2,0.4218,0.4179,2.39,2.51,2.22,-0.0735,1.024,2.10-2.50
-SAC @ DAL,DAL win + game under 234.5,2,0.3422,0.3862,2.59,2.72,2.39,-0.0761,1.008,2.10-2.50
-SAC @ DAL,Cooper Flagg 3pm under 1.5 + DAL win,2,0.4704,0.4297,2.33,2.44,2.15,-0.0769,0.99,2.10-2.50
-SAC @ DAL,Cooper Flagg 3pm under 1.5 + P.J. Washington 1+ 3pm,2,0.5118,0.4551,2.2,2.31,1.99,-0.094,0.995,1.85-2.10
-SAC @ DAL,Max Christie 2+ 3pm + P.J. Washington 1+ 3pm,2,0.4502,0.4342,2.3,2.42,2.05,-0.1078,1.009,1.85-2.10
-SAC @ DAL,DAL win + Cooper Flagg 1+ 3pm,2,0.5401,0.5728,1.75,1.83,1.55,-0.1097,1.006,1.50-1.65
+SAC @ DAL,Daniel Gafford 10+ pts + DAL win,2,0.4824,0.4159,2.4,2.52,2.35,-0.0215,1.026,2.10-2.50
+SAC @ DAL,Precious Achiuwa 12+ pts + Darius Acuff Jr. 15+ pts,2,0.6015,0.482,2.07,2.18,1.99,-0.0392,1.01,1.85-2.10
+SAC @ DAL,Max Christie 9+ pts + DAL win,2,0.4739,0.4235,2.36,2.48,2.26,-0.0413,1.02,2.10-2.50
+SAC @ DAL,Precious Achiuwa 12+ pts + Max Christie 1+ 3pm,2,0.5823,0.4576,2.19,2.29,2.09,-0.0432,0.999,1.85-2.10
+SAC @ DAL,DAL win + Cooper Flagg 26+ pts,2,0.4006,0.3929,2.55,2.67,2.42,-0.0475,1.046,2.10-2.50
+SAC @ DAL,Max Christie 9+ pts + Darius Acuff Jr. 15+ pts,2,0.5365,0.4584,2.18,2.29,2.02,-0.0734,1.002,1.85-2.10
+SAC @ DAL,DAL win + Max Christie 1+ 3pm + Darius Acuff Jr. 15+ pts,3,0.5518,0.5199,1.92,2.02,1.65,-0.1441,0.995,1.50-1.65
 NOP @ MEM,Ty Jerome pra under 32.5 + Saddiq Bey 10+ pa,2,0.5811,0.4212,2.37,2.49,2.35,-0.0089,1.0,2.10-2.50
 NOP @ MEM,Ty Jerome pa under 29.5 + Saddiq Bey 10+ pa,2,0.5923,0.4295,2.33,2.44,2.3,-0.0109,0.999,2.10-2.50
 NOP @ MEM,Ty Jerome pra under 32.5 + Saddiq Bey 10+ pra,2,0.6623,0.4848,2.06,2.17,2.04,-0.0126,1.0,1.85-2.10
