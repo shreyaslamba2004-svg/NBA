@@ -1,18 +1,18 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909905,GSW,1629646,Charles Bassey,Starting,,1.0,,,1.0
+401909905,GSW,1629646,Charles Bassey,,,1.0,,,
 401909905,GSW,202710,Jimmy Butler III,Out,,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401909905,GSW,1643018,LJ Cryer,,,1.0,,,
 401909905,GSW,201939,Stephen Curry,Out,,0.0,"Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports.",,
 401909905,GSW,203110,Draymond Green,Out,,0.0,Green (back) is out for Sunday's game against the Clippers.,,
 401909905,GSW,201143,Al Horford,,,1.0,,,
 401909905,GSW,904703396,Graham Ike,,,1.0,,,
-401909905,GSW,905175737,Yaxel Lendeborg,Starting,,1.0,,,1.0
+401909905,GSW,905175737,Yaxel Lendeborg,,,1.0,,,
 401909905,GSW,1642502,Malevy Leons,,,1.0,,,
-401909905,GSW,1629001,De'Anthony Melton,Starting,,1.0,,,1.0
+401909905,GSW,1629001,De'Anthony Melton,,,1.0,,,
 401909905,GSW,1630541,Moses Moody,Out,Injury/Illness-LeftPatellarTendon,0.0,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",,
-401909905,GSW,1627777,Georges Niang,Starting,,1.0,,,1.0
+401909905,GSW,1627777,Georges Niang,,,1.0,,,
 401909905,GSW,1627780,Gary Payton II,,,1.0,,,
-401909905,GSW,1641764,Brandin Podziemski,Starting,,1.0,,,1.0
+401909905,GSW,1641764,Brandin Podziemski,,,1.0,,,
 401909905,GSW,204001,Kristaps Porzingis,Out,NotWithTeam,0.0,"The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports.",,
 401909905,GSW,1642954,Will Richard,,,1.0,,,
 401909905,GSW,1630611,Gui Santos,Available,Injury/Illness-LeftKneeTendinitis,1.0,,,
@@ -20,12 +20,12 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909905,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909905,LAC,1642353,Cam Christie,,,1.0,,,
 401909905,LAC,1641711,Gradey Dick,,,1.0,,,
-401909905,LAC,1627739,Kris Dunn,Starting,,1.0,,,1.0
-401909905,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
-401909905,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
+401909905,LAC,1627739,Kris Dunn,,,1.0,,,
+401909905,LAC,1629636,Darius Garland,,,1.0,,,
+401909905,LAC,1629060,Rui Hachimura,,,1.0,,,
 401909905,LAC,1627742,Brandon Ingram,Out,Injury/Illness-RightHeelSurgery,0.0,"Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports.",,
-401909905,LAC,1630543,Isaiah Jackson,Starting,,1.0,,,1.0
-401909905,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401909905,LAC,1630543,Isaiah Jackson,,,1.0,,,
+401909905,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
 401909905,LAC,201572,Brook Lopez,,,1.0,,,
 401909905,LAC,905105832,Nick Martinelli,,,1.0,,,
 401909905,LAC,1641757,Baba Miller,,,1.0,,,
@@ -36,27 +36,27 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909905,LAC,905254165,Keaton Wagler,,,1.0,,,
 401909905,LAC,1631104,Blake Wesley,,,1.0,,,
 401909906,LAL,905113969,Cameron Carr,,,1.0,,,
-401909906,LAL,1629029,Luka Doncic,,,1.0,,,
+401909906,LAL,1629029,Luka Doncic,Starting,,1.0,,,1.0
 401909906,LAL,1629656,Quentin Grimes,,,1.0,,,
 401909906,LAL,1630702,Jaden Hardy,,,1.0,,,
 401909906,LAL,904683774,Bronny James,,,1.0,,,
 401909906,LAL,904433599,Arthur Kaluma,,,1.0,,,
-401909906,LAL,1631117,Walker Kessler,Available,Injury/Illness-LeftFingerSplint,1.0,,,
-401909906,LAL,1631222,Jake LaRavia,,,1.0,,,
+401909906,LAL,1631117,Walker Kessler,Starting,Injury/Illness-LeftFingerSplint,1.0,,,1.0
+401909906,LAL,1631222,Jake LaRavia,Starting,,1.0,,,1.0
 401909906,LAL,1626172,Kevon Looney,,,1.0,,,
 401909906,LAL,1643133,Lawson Lovering,,,1.0,,,
 401909906,LAL,1630572,Sandro Mamukelashvili,,,1.0,,,
 401909906,LAL,1643024,Chris Manon,,,1.0,,,
 401909906,LAL,905114350,AK Okereke,,,1.0,,,
-401909906,LAL,1630559,Austin Reaves,,,1.0,,,
+401909906,LAL,1630559,Austin Reaves,Starting,,1.0,,,1.0
 401909906,LAL,1629012,Collin Sexton,,,1.0,,,
 401909906,LAL,1642876,Adou Thiero,Out,,0.0,Thiero (knee) has been ruled out for Sunday's game against the Raptors.,,
-401909906,LAL,1629680,Matisse Thybulle,,,1.0,,,
+401909906,LAL,1629680,Matisse Thybulle,Starting,,1.0,,,1.0
 401909906,LAL,1629020,Jarred Vanderbilt,,,1.0,,,
 401909906,LAL,1630533,Ziaire Williams,Out,,0.0,Williams (foot) is out for Sunday's game against the Raptors.,,
 401909906,TOR,203937,Kyle Anderson,,,1.0,,,
-401909906,TOR,1630567,Scottie Barnes,,,1.0,,,
-401909906,TOR,1629628,RJ Barrett,,,1.0,,,
+401909906,TOR,1630567,Scottie Barnes,Starting,,1.0,,,1.0
+401909906,TOR,1629628,RJ Barrett,Starting,,1.0,,,1.0
 401909906,TOR,1642419,Jamison Battle,,,1.0,,,
 401909906,TOR,904432586,Nate Bittle,Out,,0.0,"Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",,
 401909906,TOR,904432737,Jaden Bradley,,,1.0,,,
@@ -65,8 +65,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909906,TOR,202695,Kawhi Leonard,Out,,0.0,"Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",,
 401909906,TOR,1642918,Alijah Martin,,,1.0,,,
 401909906,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
-401909906,TOR,1627751,Jakob Poeltl,,,1.0,,,
-401909906,TOR,1630193,Immanuel Quickley,,,1.0,,,
+401909906,TOR,1627751,Jakob Poeltl,Starting,,1.0,,,1.0
+401909906,TOR,1630193,Immanuel Quickley,Starting,,1.0,,,1.0
 401909906,TOR,1642347,Jamal Shead,,,1.0,,,
 401909906,TOR,1641869,Malachi Smith,Out,GLeague-Two-Way,0.0,,,
-401909906,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
+401909906,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
