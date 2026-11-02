@@ -1447,15 +1447,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,905113969,Cameron Carr,ra,4.5,False,0.2843,,model only,0.2843
 401909906,TOR @ LAL,LAL,905113969,Cameron Carr,ra,5.5,False,0.1773,,model only,0.1773
 401909906,TOR @ LAL,LAL,905113969,Cameron Carr,ra,6.5,False,0.105,,model only,0.105
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,29.5,False,0.5202,0.6107,est,0.5881
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,30.5,False,0.4875,0.5792,est,0.5562
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,31.5,False,0.4545,0.5467,est,0.5236
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,32.5,False,0.4206,0.5123,est,0.4894
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,33.5,True,0.3903,0.4809,book,0.4583
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,34.5,False,0.3603,0.449,est,0.4268
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,35.5,False,0.3322,0.4185,est,0.3969
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,36.5,False,0.3045,0.3879,est,0.367
-401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,37.5,False,0.2806,0.3608,est,0.3407
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,28.5,False,0.5561,0.6485,est,0.6254
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,29.5,False,0.5202,0.6149,est,0.5912
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,30.5,False,0.4875,0.5835,est,0.5595
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,31.5,False,0.4545,0.551,est,0.5269
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,32.5,True,0.4206,0.5167,book,0.4927
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,33.5,False,0.3903,0.4809,book,0.4583
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,34.5,False,0.3603,0.4534,est,0.4301
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,35.5,False,0.3322,0.4228,est,0.4002
+401909906,TOR @ LAL,LAL,1629029,Luka Doncic,pts,36.5,False,0.3045,0.3921,est,0.3702
 401909906,TOR @ LAL,LAL,1629029,Luka Doncic,reb,4.5,False,0.7947,0.8029,book,0.8009
 401909906,TOR @ LAL,LAL,1629029,Luka Doncic,reb,5.5,False,0.6706,0.7032,book,0.695
 401909906,TOR @ LAL,LAL,1629029,Luka Doncic,reb,6.5,False,0.5334,0.5792,book,0.5678
@@ -1583,15 +1583,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1629656,Quentin Grimes,ra,6.5,False,0.318,,model only,0.318
 401909906,TOR @ LAL,LAL,1629656,Quentin Grimes,ra,7.5,False,0.2068,,model only,0.2068
 401909906,TOR @ LAL,LAL,1629656,Quentin Grimes,ra,8.5,False,0.1278,,model only,0.1278
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,8.5,False,0.6356,0.765,est,0.7327
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,9.5,False,0.5559,0.7003,est,0.6642
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,10.5,False,0.4742,0.6273,est,0.589
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,11.5,False,0.3981,0.5525,est,0.5139
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,12.5,True,0.3278,0.4765,book,0.4393
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,13.5,False,0.2667,0.4044,est,0.37
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,14.5,False,0.2128,0.3354,est,0.3047
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,15.5,False,0.1704,0.2771,est,0.2504
-401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,16.5,False,0.1345,0.2249,est,0.2023
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,8.5,False,0.6356,0.7673,est,0.7344
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,9.5,False,0.5559,0.703,est,0.6662
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,10.5,False,0.4742,0.6303,est,0.5913
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,11.5,False,0.3981,0.5323,book,0.4987
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,12.5,True,0.3278,0.4797,book,0.4417
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,13.5,False,0.2667,0.4075,est,0.3723
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,14.5,False,0.2128,0.3382,est,0.3069
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,15.5,False,0.1704,0.2797,est,0.2524
+401909906,TOR @ LAL,LAL,1631117,Walker Kessler,pts,16.5,False,0.1345,0.2271,est,0.204
 401909906,TOR @ LAL,LAL,1631117,Walker Kessler,reb,7.5,False,0.739,0.734,book,0.7352
 401909906,TOR @ LAL,LAL,1631117,Walker Kessler,reb,8.5,False,0.6411,0.6514,book,0.6488
 401909906,TOR @ LAL,LAL,1631117,Walker Kessler,reb,9.5,False,0.538,0.5562,book,0.5516
@@ -1649,15 +1649,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1631117,Walker Kessler,ra,12.5,False,0.3923,0.3945,est,0.394
 401909906,TOR @ LAL,LAL,1631117,Walker Kessler,ra,13.5,False,0.3102,0.3121,est,0.3117
 401909906,TOR @ LAL,LAL,1631117,Walker Kessler,ra,14.5,False,0.2351,0.2367,est,0.2363
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,2.5,False,0.8814,0.9104,est,0.9031
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,3.5,False,0.7883,0.8358,est,0.8239
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,4.5,False,0.675,0.7395,est,0.7234
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,5.5,False,0.5591,0.6341,est,0.6154
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,6.5,True,0.444,0.5219,book,0.5024
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,7.5,False,0.3395,0.4126,est,0.3943
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,8.5,False,0.2543,0.3179,est,0.302
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,9.5,False,0.1891,0.2416,est,0.2285
-401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,10.5,False,0.1332,0.1736,est,0.1635
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,3.5,False,0.7883,0.8756,est,0.8538
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,4.5,False,0.675,0.7971,est,0.7666
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,5.5,False,0.5591,0.7057,est,0.6691
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,6.5,False,0.444,0.5169,book,0.4987
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,7.5,True,0.3395,0.4929,book,0.4545
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,8.5,False,0.2543,0.392,est,0.3576
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,9.5,False,0.1891,0.306,est,0.2768
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,10.5,False,0.1332,0.2252,est,0.2022
+401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,pts,11.5,False,0.0955,0.1665,est,0.1488
 401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,reb,0.5,False,0.9568,0.9685,est,0.9656
 401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,reb,1.5,False,0.8427,0.8814,est,0.8717
 401909906,TOR @ LAL,LAL,1631222,Jake LaRavia,reb,2.5,False,0.6703,0.7327,book,0.7171
@@ -1778,15 +1778,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1643133,Lawson Lovering,ra,5.5,False,0.3294,,model only,0.3294
 401909906,TOR @ LAL,LAL,1643133,Lawson Lovering,ra,6.5,False,0.2168,,model only,0.2168
 401909906,TOR @ LAL,LAL,1643133,Lawson Lovering,ra,7.5,False,0.1587,,model only,0.1587
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,4.5,False,0.8326,0.8173,est,0.8212
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,5.5,False,0.7498,0.7294,est,0.7345
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,6.5,False,0.662,0.6379,est,0.6439
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,7.5,False,0.5728,0.5467,est,0.5532
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,8.5,True,0.4868,0.4604,book,0.467
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,9.5,False,0.4039,0.3787,est,0.385
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,10.5,False,0.3304,0.3074,est,0.3131
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,11.5,False,0.2656,0.2454,est,0.2504
-401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,12.5,False,0.212,0.1948,est,0.1991
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,4.5,False,0.8326,0.8216,est,0.8243
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,5.5,False,0.7498,0.735,est,0.7387
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,6.5,False,0.662,0.6445,est,0.6489
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,7.5,False,0.5728,0.5537,est,0.5585
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,8.5,True,0.4868,0.4675,book,0.4723
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,9.5,False,0.4039,0.3854,est,0.39
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,10.5,False,0.3304,0.3135,est,0.3177
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,11.5,False,0.2656,0.2507,est,0.2544
+401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,12.5,False,0.212,0.1993,est,0.2025
 401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,1.5,False,0.9379,0.9314,est,0.933
 401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,2.5,False,0.8474,0.8206,book,0.8273
 401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,3.5,False,0.7197,0.6968,book,0.7025
@@ -1844,15 +1844,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,7.5,False,0.3771,0.3718,est,0.3731
 401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,8.5,False,0.2696,0.2652,est,0.2663
 401909906,TOR @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,9.5,False,0.1897,0.1863,est,0.1872
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,18.5,False,0.5432,0.6899,est,0.6532
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,19.5,False,0.4904,0.6429,est,0.6048
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,20.5,False,0.4419,0.597,est,0.5582
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,21.5,False,0.3959,0.5508,est,0.5121
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,22.5,True,0.3546,0.5069,book,0.4688
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,23.5,False,0.3151,0.4626,est,0.4257
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,24.5,False,0.278,0.4187,est,0.3835
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,25.5,False,0.2454,0.3782,est,0.345
-401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,26.5,False,0.2148,0.3385,est,0.3075
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,18.5,False,0.5432,0.6919,est,0.6547
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,19.5,False,0.4904,0.6451,est,0.6064
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,20.5,False,0.4419,0.5993,est,0.5599
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,21.5,False,0.3959,0.5532,est,0.5139
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,22.5,True,0.3546,0.5093,book,0.4706
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,23.5,False,0.3151,0.4895,book,0.4459
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,24.5,False,0.278,0.4211,est,0.3853
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,25.5,False,0.2454,0.3805,est,0.3467
+401909906,TOR @ LAL,LAL,1630559,Austin Reaves,pts,26.5,False,0.2148,0.3406,est,0.3092
 401909906,TOR @ LAL,LAL,1630559,Austin Reaves,reb,0.5,False,0.9785,0.9763,est,0.9768
 401909906,TOR @ LAL,LAL,1630559,Austin Reaves,reb,1.5,False,0.9008,0.8917,est,0.894
 401909906,TOR @ LAL,LAL,1630559,Austin Reaves,reb,2.5,False,0.7618,0.7274,book,0.736
@@ -1917,7 +1917,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,6.5,False,0.713,0.6713,est,0.6817
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,7.5,False,0.6381,0.5832,book,0.5969
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,8.5,True,0.5604,0.5117,book,0.5239
-401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,9.5,False,0.4849,0.445,book,0.455
+401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,9.5,False,0.4849,0.4563,book,0.4635
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,10.5,False,0.4141,0.3675,est,0.3791
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,11.5,False,0.349,0.3256,book,0.3314
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,pts,12.5,False,0.2922,0.2534,est,0.2631
@@ -1977,14 +1977,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,ra,4.5,False,0.3334,0.3253,est,0.3274
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,ra,5.5,False,0.2088,0.2029,est,0.2044
 401909906,TOR @ LAL,LAL,1629012,Collin Sexton,ra,6.5,False,0.1234,0.1195,est,0.1205
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,3.5,False,0.8507,0.877,est,0.8705
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,4.5,False,0.7651,0.803,est,0.7936
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,3.5,False,0.8507,0.8738,est,0.868
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,4.5,False,0.7651,0.7983,est,0.79
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,5.5,False,0.6631,0.6668,book,0.6659
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,6.5,False,0.5659,0.62,est,0.6065
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,7.5,True,0.4687,0.5247,book,0.5107
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,8.5,False,0.3771,0.4311,est,0.4176
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,6.5,False,0.5659,0.613,est,0.6012
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,7.5,True,0.4687,0.5173,book,0.5051
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,8.5,False,0.3771,0.4238,est,0.4121
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,9.5,False,0.2962,0.3753,book,0.3555
-401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,10.5,False,0.2253,0.2669,est,0.2565
+401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,10.5,False,0.2253,0.2611,est,0.2522
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,pts,11.5,False,0.1711,0.2533,book,0.2328
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,reb,0.5,False,0.888,0.8876,est,0.8877
 401909906,TOR @ LAL,LAL,1629680,Matisse Thybulle,reb,1.5,False,0.6582,0.6574,est,0.6576
@@ -2105,15 +2105,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,LAL,1629020,Jarred Vanderbilt,ra,5.5,False,0.3541,,model only,0.3541
 401909906,TOR @ LAL,LAL,1629020,Jarred Vanderbilt,ra,6.5,False,0.2504,,model only,0.2504
 401909906,TOR @ LAL,LAL,1629020,Jarred Vanderbilt,ra,7.5,False,0.1717,,model only,0.1717
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,18.5,False,0.6268,0.6794,est,0.6662
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,19.5,False,0.579,0.6344,est,0.6206
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,20.5,False,0.5309,0.5882,est,0.5739
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,21.5,False,0.4859,0.544,est,0.5295
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,22.5,True,0.442,0.4999,book,0.4854
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,23.5,False,0.4009,0.4578,est,0.4436
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,24.5,False,0.3582,0.4132,est,0.3994
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,25.5,False,0.3203,0.3729,est,0.3597
-401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,26.5,False,0.2853,0.335,est,0.3226
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,18.5,False,0.6268,0.6856,est,0.6709
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,19.5,False,0.579,0.6411,est,0.6256
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,20.5,False,0.5309,0.5951,est,0.5791
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,21.5,False,0.4859,0.5511,est,0.5348
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,22.5,True,0.442,0.5071,book,0.4908
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,23.5,False,0.4009,0.4779,book,0.4586
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,24.5,False,0.3582,0.4202,est,0.4047
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,25.5,False,0.3203,0.3797,est,0.3648
+401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,pts,26.5,False,0.2853,0.3414,est,0.3274
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,reb,4.5,False,0.7813,0.7957,book,0.7921
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,reb,5.5,False,0.6557,0.6956,book,0.6856
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,reb,6.5,False,0.5169,0.5779,book,0.5626
@@ -2173,14 +2173,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,ra,14.5,False,0.4062,0.373,est,0.3813
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,ra,15.5,False,0.3257,0.2958,est,0.3032
 401909906,TOR @ LAL,TOR,1630567,Scottie Barnes,ra,16.5,False,0.253,0.2276,est,0.2339
-401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,16.5,False,0.6865,0.7072,est,0.7021
+401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,16.5,False,0.6865,0.7003,est,0.6969
 401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,17.5,False,0.6376,0.6556,book,0.6511
-401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,18.5,False,0.5867,0.6102,est,0.6043
+401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,18.5,False,0.5867,0.6023,est,0.5984
 401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,19.5,False,0.5377,0.5637,book,0.5572
-401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,20.5,True,0.49,0.5145,book,0.5084
-401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,21.5,False,0.4446,0.4689,est,0.4628
-401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,22.5,False,0.3997,0.4234,est,0.4175
-401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,23.5,False,0.3601,0.3829,est,0.3772
+401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,20.5,True,0.49,0.5062,book,0.5021
+401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,21.5,False,0.4446,0.4606,est,0.4566
+401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,22.5,False,0.3997,0.4153,est,0.4114
+401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,23.5,False,0.3601,0.3751,est,0.3713
 401909906,TOR @ LAL,TOR,1629628,RJ Barrett,pts,24.5,False,0.3214,0.3362,book,0.3325
 401909906,TOR @ LAL,TOR,1629628,RJ Barrett,reb,2.5,False,0.9094,0.848,book,0.8633
 401909906,TOR @ LAL,TOR,1629628,RJ Barrett,reb,3.5,False,0.801,0.7407,book,0.7558
@@ -2369,14 +2369,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,905149115,Allen Graves,ra,5.5,False,0.2176,,model only,0.2176
 401909906,TOR @ LAL,TOR,905149115,Allen Graves,ra,6.5,False,0.1352,,model only,0.1352
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,5.5,False,0.8104,0.7665,book,0.7775
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,6.5,False,0.7318,0.7214,est,0.724
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,6.5,False,0.7318,0.7295,est,0.73
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,7.5,False,0.6498,0.622,book,0.629
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,8.5,False,0.5634,0.5505,est,0.5538
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,9.5,True,0.4826,0.4696,book,0.4729
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,10.5,False,0.409,0.3964,est,0.3996
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,8.5,False,0.5634,0.5605,est,0.5613
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,9.5,True,0.4826,0.4797,book,0.4804
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,10.5,False,0.409,0.4061,est,0.4069
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,11.5,False,0.3382,0.3338,book,0.3349
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,12.5,False,0.278,0.2676,est,0.2702
-401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,13.5,False,0.2252,0.2162,est,0.2184
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,12.5,False,0.278,0.2756,est,0.2762
+401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,pts,13.5,False,0.2252,0.2231,est,0.2236
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,reb,2.5,False,0.8674,0.8604,book,0.8622
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,reb,3.5,False,0.7476,0.7665,book,0.7618
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,reb,4.5,False,0.6098,0.6443,book,0.6357
@@ -2434,15 +2434,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,ra,8.5,False,0.3473,0.3705,est,0.3647
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,ra,9.5,False,0.2547,0.2743,est,0.2694
 401909906,TOR @ LAL,TOR,1642867,Collin Murray-Boyles,ra,10.5,False,0.1823,0.1978,est,0.1939
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,2.5,False,0.9312,0.9035,est,0.9105
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,3.5,False,0.8669,0.8185,est,0.8306
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,4.5,False,0.7838,0.7151,est,0.7323
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,5.5,False,0.6936,0.6104,est,0.6312
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,6.5,True,0.5994,0.5088,book,0.5314
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,7.5,False,0.5024,0.4114,est,0.4341
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,8.5,False,0.4143,0.3287,est,0.3501
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,9.5,False,0.3345,0.2582,est,0.2773
-401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,10.5,False,0.2636,0.1986,est,0.2149
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,2.5,False,0.9312,0.9062,est,0.9124
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,3.5,False,0.8669,0.823,est,0.834
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,4.5,False,0.7838,0.7213,est,0.7369
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,5.5,False,0.6936,0.6176,est,0.6366
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,6.5,True,0.5994,0.5164,book,0.5371
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,7.5,False,0.5024,0.4669,book,0.4758
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,8.5,False,0.4143,0.3355,est,0.3552
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,9.5,False,0.3345,0.264,est,0.2817
+401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,pts,10.5,False,0.2636,0.2035,est,0.2185
 401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,reb,3.5,False,0.8028,0.8048,book,0.8043
 401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,reb,4.5,False,0.6814,0.6992,book,0.6948
 401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,reb,5.5,False,0.5523,0.5737,book,0.5683
@@ -2499,15 +2499,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,ra,8.5,False,0.3692,,model only,0.3692
 401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,ra,9.5,False,0.2791,,model only,0.2791
 401909906,TOR @ LAL,TOR,1627751,Jakob Poeltl,ra,10.5,False,0.2023,,model only,0.2023
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,12.5,False,0.7295,0.7442,est,0.7405
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,13.5,False,0.6754,0.6919,est,0.6877
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,14.5,False,0.6168,0.6346,est,0.6302
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,15.5,False,0.5606,0.5793,est,0.5746
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,16.5,True,0.5011,0.5201,book,0.5154
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,17.5,False,0.4451,0.464,est,0.4593
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,18.5,False,0.3942,0.4125,est,0.4079
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,19.5,False,0.3433,0.3606,est,0.3563
-401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,20.5,False,0.2986,0.3148,est,0.3108
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,12.5,False,0.7295,0.7444,est,0.7406
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,13.5,False,0.6754,0.692,est,0.6879
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,14.5,False,0.6168,0.6348,est,0.6303
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,15.5,False,0.5606,0.5794,est,0.5747
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,16.5,True,0.5011,0.5203,book,0.5155
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,17.5,False,0.4451,0.4723,book,0.4655
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,18.5,False,0.3942,0.4127,est,0.4081
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,19.5,False,0.3433,0.3608,est,0.3564
+401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,pts,20.5,False,0.2986,0.315,est,0.3109
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,reb,0.5,False,0.9675,0.9649,est,0.9656
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,reb,1.5,False,0.869,0.8595,est,0.8619
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,reb,2.5,False,0.7,0.6743,book,0.6807
@@ -2568,15 +2568,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,ra,10.5,False,0.4057,0.389,est,0.3932
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,ra,11.5,False,0.3081,0.2935,est,0.2971
 401909906,TOR @ LAL,TOR,1630193,Immanuel Quickley,ra,12.5,False,0.2268,0.2148,est,0.2178
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,2.5,False,0.9219,0.8983,est,0.9042
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,3.5,False,0.8477,0.8063,est,0.8167
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,4.5,False,0.7501,0.6919,est,0.7065
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,5.5,False,0.6474,0.5786,est,0.5958
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,6.5,True,0.5421,0.4696,book,0.4877
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,7.5,False,0.438,0.3683,est,0.3857
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,8.5,False,0.3487,0.2859,est,0.3016
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,9.5,False,0.2702,0.2169,est,0.2302
-401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,10.5,False,0.2046,0.1614,est,0.1722
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,2.5,False,0.9219,0.9017,est,0.9067
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,3.5,False,0.8477,0.8122,est,0.8211
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,4.5,False,0.7501,0.7,est,0.7125
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,5.5,False,0.6474,0.5879,est,0.6028
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,6.5,True,0.5421,0.4791,book,0.4948
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,7.5,False,0.438,0.3772,est,0.3924
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,8.5,False,0.3487,0.2937,est,0.3075
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,9.5,False,0.2702,0.2234,est,0.2351
+401909906,TOR @ LAL,TOR,1642347,Jamal Shead,pts,10.5,False,0.2046,0.1666,est,0.1761
 401909906,TOR @ LAL,TOR,1642347,Jamal Shead,reb,0.5,False,0.8282,,model only,0.8282
 401909906,TOR @ LAL,TOR,1642347,Jamal Shead,reb,1.5,False,0.5521,,model only,0.5521
 401909906,TOR @ LAL,TOR,1642347,Jamal Shead,reb,2.5,False,0.2987,,model only,0.2987
@@ -2635,15 +2635,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909906,TOR @ LAL,TOR,1642347,Jamal Shead,ra,8.5,False,0.2986,,model only,0.2986
 401909906,TOR @ LAL,TOR,1642347,Jamal Shead,ra,9.5,False,0.2123,,model only,0.2123
 401909906,TOR @ LAL,TOR,1642347,Jamal Shead,ra,10.5,False,0.1414,,model only,0.1414
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,6.5,False,0.8182,0.8202,est,0.8197
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,7.5,False,0.7444,0.7227,book,0.7281
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,8.5,False,0.6689,0.7129,est,0.7019
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,8.5,False,0.6689,0.6718,est,0.6711
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,9.5,False,0.5859,0.6032,book,0.5989
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,10.5,False,0.5038,0.5552,est,0.5423
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,11.5,True,0.4298,0.4809,book,0.4681
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,12.5,False,0.3605,0.4093,est,0.3971
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,13.5,False,0.2946,0.3391,est,0.328
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,10.5,True,0.5038,0.5071,book,0.5063
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,11.5,False,0.4298,0.4869,book,0.4726
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,12.5,False,0.3605,0.3635,est,0.3627
+401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,13.5,False,0.2946,0.2973,est,0.2966
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,14.5,False,0.2411,0.3157,book,0.297
-401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,pts,15.5,False,0.1926,0.2267,est,0.2182
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,reb,0.5,False,0.9599,0.967,est,0.9652
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,reb,1.5,False,0.8415,0.8665,est,0.8602
 401909906,TOR @ LAL,TOR,1642266,Ja'Kobe Walter,reb,2.5,False,0.6559,0.682,book,0.6755
