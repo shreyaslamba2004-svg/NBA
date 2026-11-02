@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-TOR @ LAL,Walker Kessler pts under 12.5 + RJ Barrett 4+ reb,2,0.5624,0.419,2.39,2.51,2.45,0.0267,0.998,2.10-2.50
-TOR @ LAL,Walker Kessler pts under 12.5 + Jamal Shead 10+ pra,2,0.572,0.4242,2.36,2.48,2.41,0.0231,0.992,2.10-2.50
-TOR @ LAL,Walker Kessler pts under 12.5 + Scottie Barnes 4+ ast,2,0.5933,0.45,2.22,2.33,2.26,0.0187,0.997,2.10-2.50
-TOR @ LAL,Walker Kessler pts under 12.5 + RJ Barrett 15+ pra,2,0.66,0.5167,1.94,2.03,1.95,0.0094,0.999,1.85-2.10
-TOR @ LAL,Austin Reaves pts under 23.5 + RJ Barrett 20+ pra,2,0.6263,0.4736,2.11,2.22,2.09,-0.0092,0.999,1.85-2.10
-TOR @ LAL,Luka Doncic pts under 33.5 + RJ Barrett 15+ pra,2,0.6122,0.5027,1.99,2.09,1.92,-0.0341,0.999,1.85-2.10
-TOR @ LAL,Jamal Shead 10+ pra + RJ Barrett 4+ reb,2,0.7156,0.5763,1.74,1.82,1.64,-0.0574,0.999,1.50-1.65
-TOR @ LAL,Jamal Shead 10+ pra + Scottie Barnes 4+ ast,2,0.7598,0.6231,1.6,1.69,1.51,-0.0585,1.004,1.50-1.65
-TOR @ LAL,Jamal Shead 10+ pra + RJ Barrett 1+ 3pm,2,0.7252,0.5985,1.67,1.75,1.57,-0.0619,1.003,1.50-1.65
-TOR @ LAL,Jamal Shead 10+ pra + Scottie Barnes 4+ ast + Ja'Kobe Walter 10+ pr,3,0.6545,0.4983,2.01,2.11,1.82,-0.0916,1.01,1.65-1.85
-TOR @ LAL,Jamal Shead 10+ pra + Scottie Barnes 4+ ast + RJ Barrett 20+ pra,3,0.6924,0.5344,1.87,1.96,1.69,-0.0965,1.01,1.65-1.85
-TOR @ LAL,Jamal Shead 10+ pra + RJ Barrett 4+ reb + Sandro Mamukelashvili 5+ pa,3,0.6374,0.4867,2.05,2.16,1.85,-0.1006,1.001,1.65-1.85
+TOR @ LAL,Walker Kessler pts under 12.5 + Jamal Shead 10+ pra,2,0.572,0.4245,2.36,2.47,2.41,0.0227,0.992,2.10-2.50
+TOR @ LAL,Walker Kessler pts under 12.5 + Ja'Kobe Walter 1+ stl,2,0.554,0.4258,2.35,2.47,2.39,0.017,1.0,2.10-2.50
+TOR @ LAL,Walker Kessler pts under 12.5 + Scottie Barnes 4+ ast,2,0.5933,0.4529,2.21,2.32,2.24,0.0163,0.997,2.10-2.50
+TOR @ LAL,Walker Kessler pts under 12.5 + RJ Barrett 15+ pra,2,0.66,0.5184,1.93,2.03,1.95,0.0082,0.999,1.85-2.10
+TOR @ LAL,Austin Reaves pts under 23.5 + RJ Barrett 20+ pra,2,0.6263,0.4748,2.11,2.21,2.08,-0.0102,0.999,1.85-2.10
+TOR @ LAL,Austin Reaves pts under 23.5 + Collin Sexton 5+ pr,2,0.6211,0.4744,2.11,2.21,2.08,-0.0145,0.997,1.85-2.10
+TOR @ LAL,Jamal Shead 10+ pra + RJ Barrett 1+ 3pm,2,0.7252,0.6031,1.66,1.74,1.55,-0.0646,1.003,1.50-1.65
+TOR @ LAL,Jamal Shead 10+ pra + Ja'Kobe Walter 1+ stl,2,0.706,0.5872,1.7,1.79,1.59,-0.065,1.003,1.50-1.65
+TOR @ LAL,Jamal Shead 10+ pra + Scottie Barnes 1+ stl,2,0.7266,0.608,1.64,1.73,1.53,-0.0685,1.001,1.50-1.65
+TOR @ LAL,Jamal Shead 10+ pra + Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm,3,0.6452,0.4946,2.02,2.12,1.83,-0.0944,1.01,1.65-1.85
+TOR @ LAL,Jamal Shead 10+ pra + Scottie Barnes 4+ ast + Ja'Kobe Walter 10+ pr,3,0.6545,0.5057,1.98,2.08,1.79,-0.0965,1.01,1.65-1.85
+TOR @ LAL,Jamal Shead 10+ pra + Scottie Barnes 4+ ast + RJ Barrett 20+ pra,3,0.6924,0.5396,1.85,1.95,1.67,-0.0998,1.01,1.65-1.85
