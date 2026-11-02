@@ -256,14 +256,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,GSW,904703396,Graham Ike,ra,6.5,False,0.3034,,model only,0.3034
 401909905,LAC @ GSW,GSW,904703396,Graham Ike,ra,7.5,False,0.2102,,model only,0.2102
 401909905,LAC @ GSW,GSW,904703396,Graham Ike,ra,8.5,False,0.1411,,model only,0.1411
-401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,16.5,False,0.6526,,model only,0.6526
+401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,16.5,False,0.6526,0.6802,est,0.6733
 401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,17.5,False,0.6031,0.5935,book,0.5959
-401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.5513,,model only,0.5513
-401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.5031,0.4979,book,0.4992
-401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.459,,model only,0.459
-401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,21.5,False,0.4145,,model only,0.4145
-401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,22.5,False,0.3704,,model only,0.3704
-401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,23.5,False,0.3289,,model only,0.3289
+401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.5513,0.5818,est,0.5742
+401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.5031,0.5133,book,0.5107
+401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,20.5,True,0.459,0.4899,book,0.4822
+401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,21.5,False,0.4145,0.4449,est,0.4373
+401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,22.5,False,0.3704,0.3997,est,0.3924
+401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,23.5,False,0.3289,0.3568,est,0.3498
 401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,24.5,False,0.2934,0.2733,book,0.2783
 401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,4.5,False,0.8411,0.8382,book,0.8389
 401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,5.5,False,0.735,0.7545,book,0.7496
@@ -324,15 +324,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,ra,12.5,False,0.3604,0.4454,est,0.4242
 401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,ra,13.5,False,0.2763,0.3525,est,0.3335
 401909905,LAC @ GSW,GSW,905175737,Yaxel Lendeborg,ra,14.5,False,0.2027,0.266,est,0.2502
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,8.5,False,0.6905,0.7482,est,0.7338
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,9.5,False,0.6197,0.6845,est,0.6683
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.5474,0.617,est,0.5996
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,11.5,False,0.4765,0.548,est,0.5301
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,12.5,True,0.4102,0.4809,book,0.4632
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,13.5,False,0.3497,0.4173,est,0.4004
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,14.5,False,0.2939,0.3567,est,0.341
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,15.5,False,0.2463,0.3033,est,0.289
-401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,16.5,False,0.2038,0.2543,est,0.2417
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,8.5,False,0.6905,0.7527,est,0.7371
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,9.5,False,0.6197,0.6897,est,0.6722
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.5474,0.6227,est,0.6039
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,11.5,False,0.4765,0.5539,est,0.5346
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,12.5,True,0.4102,0.4869,book,0.4677
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,13.5,False,0.3497,0.4232,est,0.4048
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,14.5,False,0.2939,0.3622,est,0.3451
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,15.5,False,0.2463,0.3084,est,0.2929
+401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,pts,16.5,False,0.2038,0.2589,est,0.2451
 401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,reb,0.5,False,0.9644,0.9643,est,0.9643
 401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,reb,1.5,False,0.8544,0.8541,est,0.8542
 401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,reb,2.5,False,0.6903,0.6813,book,0.6836
@@ -391,14 +391,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,ra,7.5,False,0.364,0.3894,est,0.3831
 401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,ra,8.5,False,0.2604,0.2818,est,0.2764
 401909905,LAC @ GSW,GSW,1629001,De'Anthony Melton,ra,9.5,False,0.1757,0.192,est,0.1879
-401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,3.5,False,0.9085,0.8792,est,0.8866
-401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,4.5,False,0.8444,0.7992,est,0.8105
+401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,3.5,False,0.9085,0.8801,est,0.8872
+401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,4.5,False,0.8444,0.8006,est,0.8115
 401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,5.5,False,0.7685,0.6548,book,0.6832
-401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,6.5,False,0.6879,0.6179,est,0.6354
-401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,7.5,True,0.6008,0.5247,book,0.5437
-401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,8.5,False,0.5106,0.4336,est,0.4529
+401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,6.5,False,0.6879,0.6199,est,0.6369
+401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,7.5,True,0.6008,0.5268,book,0.5453
+401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,8.5,False,0.5106,0.4613,book,0.4736
 401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,9.5,False,0.428,0.3894,book,0.3991
-401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,10.5,False,0.351,0.2841,est,0.3008
+401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,10.5,False,0.351,0.2858,est,0.3021
 401909905,LAC @ GSW,GSW,1627777,Georges Niang,pts,11.5,False,0.2868,0.2757,book,0.2785
 401909905,LAC @ GSW,GSW,1627777,Georges Niang,reb,0.5,False,0.9423,,model only,0.9423
 401909905,LAC @ GSW,GSW,1627777,Georges Niang,reb,1.5,False,0.8015,,model only,0.8015
@@ -521,15 +521,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,GSW,1627780,Gary Payton II,ra,6.5,False,0.2721,,model only,0.2721
 401909905,LAC @ GSW,GSW,1627780,Gary Payton II,ra,7.5,False,0.1851,,model only,0.1851
 401909905,LAC @ GSW,GSW,1627780,Gary Payton II,ra,8.5,False,0.1194,,model only,0.1194
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.7653,0.7054,est,0.7203
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.7155,0.6486,est,0.6653
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,14.5,False,0.6639,0.5918,est,0.6098
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.6067,0.5311,est,0.55
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,16.5,True,0.5502,0.4731,book,0.4924
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.4938,0.4173,est,0.4365
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.4429,0.3686,est,0.3872
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,19.5,False,0.3952,0.3242,est,0.3419
-401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,20.5,False,0.3471,0.2807,est,0.2973
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.7653,0.7241,est,0.7344
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.7155,0.6692,est,0.6808
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,14.5,False,0.6639,0.6138,est,0.6263
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.6067,0.5538,est,0.5671
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,16.5,True,0.5502,0.496,book,0.5095
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.4938,0.4398,est,0.4533
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.4429,0.3902,est,0.4034
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,19.5,False,0.3952,0.3446,est,0.3572
+401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,pts,20.5,False,0.3471,0.2996,est,0.3115
 401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,reb,2.5,False,0.8779,0.8648,book,0.8681
 401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,reb,3.5,False,0.7514,0.764,book,0.7609
 401909905,LAC @ GSW,GSW,1641764,Brandin Podziemski,reb,4.5,False,0.6034,0.6261,book,0.6204
@@ -655,14 +655,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,GSW,1642954,Will Richard,ra,4.5,False,0.306,,model only,0.306
 401909905,LAC @ GSW,GSW,1642954,Will Richard,ra,5.5,False,0.1876,,model only,0.1876
 401909905,LAC @ GSW,GSW,1642954,Will Richard,ra,6.5,False,0.1061,,model only,0.1061
-401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,6.5,False,0.7579,0.7758,est,0.7713
+401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,6.5,False,0.7579,0.7818,est,0.7759
 401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,7.5,False,0.6783,0.6706,book,0.6725
-401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,8.5,False,0.5981,0.6219,est,0.6159
-401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,9.5,False,0.5158,0.5352,book,0.5304
-401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,10.5,True,0.4425,0.4673,book,0.4611
+401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,8.5,False,0.5981,0.6301,est,0.6221
+401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,9.5,False,0.5158,0.5253,book,0.5229
+401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,10.5,True,0.4425,0.476,book,0.4676
 401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,11.5,False,0.3739,0.3994,book,0.393
-401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,12.5,False,0.3119,0.3337,est,0.3283
-401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,13.5,False,0.2545,0.2739,est,0.269
+401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,12.5,False,0.3119,0.3415,est,0.3341
+401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,13.5,False,0.2545,0.2809,est,0.2743
 401909905,LAC @ GSW,GSW,1630611,Gui Santos,pts,14.5,False,0.2065,0.2378,book,0.23
 401909905,LAC @ GSW,GSW,1630611,Gui Santos,reb,1.5,False,0.9264,0.9286,est,0.928
 401909905,LAC @ GSW,GSW,1630611,Gui Santos,reb,2.5,False,0.8227,0.8066,book,0.8106
@@ -726,7 +726,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,11.5,False,0.5496,0.6214,est,0.6035
 401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,12.5,False,0.4889,0.5627,est,0.5443
 401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,13.5,True,0.4302,0.5039,book,0.4855
-401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,14.5,False,0.3747,0.4462,est,0.4283
+401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,14.5,False,0.3747,0.4878,book,0.4595
 401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,15.5,False,0.3242,0.3922,est,0.3752
 401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,16.5,False,0.2782,0.3414,est,0.3256
 401909905,LAC @ GSW,GSW,1630314,Brandon Williams,pts,17.5,False,0.2349,0.2923,est,0.2779
@@ -849,15 +849,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,1641711,Gradey Dick,ra,3.5,False,0.3249,,model only,0.3249
 401909905,LAC @ GSW,LAC,1641711,Gradey Dick,ra,4.5,False,0.1927,,model only,0.1927
 401909905,LAC @ GSW,LAC,1641711,Gradey Dick,ra,5.5,False,0.1096,,model only,0.1096
-401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,4.5,False,0.7446,0.8537,est,0.8265
+401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,4.5,False,0.7446,0.8525,est,0.8255
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,5.5,False,0.6353,0.6992,book,0.6832
-401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,6.5,False,0.5196,0.6841,est,0.643
-401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,7.5,False,0.4138,0.5607,book,0.524
-401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,8.5,True,0.3211,0.4863,book,0.445
+401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,6.5,False,0.5196,0.6819,est,0.6413
+401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,7.5,False,0.4138,0.5517,book,0.5172
+401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,8.5,True,0.3211,0.4838,book,0.4431
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,9.5,False,0.244,0.4172,book,0.3739
-401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,10.5,False,0.1815,0.3074,est,0.2759
+401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,10.5,False,0.1815,0.3053,est,0.2743
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,11.5,False,0.1333,0.2921,book,0.2524
-401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,12.5,False,0.0931,0.1704,est,0.1511
+401909905,LAC @ GSW,LAC,1627739,Kris Dunn,pts,12.5,False,0.0931,0.169,est,0.15
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,reb,1.5,False,0.8355,0.9025,est,0.8857
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,reb,2.5,False,0.6513,0.7374,book,0.7159
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,reb,3.5,False,0.4545,0.5792,book,0.548
@@ -917,15 +917,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,ra,10.5,False,0.1894,0.366,est,0.3219
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,ra,11.5,False,0.1264,0.2634,est,0.2291
 401909905,LAC @ GSW,LAC,1627739,Kris Dunn,ra,12.5,False,0.0812,0.1793,est,0.1548
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,19.5,False,0.5385,0.6586,est,0.6285
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,20.5,False,0.4954,0.6188,est,0.5879
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,21.5,False,0.4487,0.5737,est,0.5425
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,22.5,False,0.4041,0.5286,est,0.4975
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,23.5,True,0.3622,0.4842,book,0.4537
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,24.5,False,0.3228,0.4407,est,0.4112
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,25.5,False,0.2875,0.4002,est,0.372
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,26.5,False,0.2567,0.3635,est,0.3368
-401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,27.5,False,0.2242,0.3233,est,0.2986
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,19.5,False,0.5385,0.6637,est,0.6324
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,20.5,False,0.4954,0.6242,est,0.592
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,21.5,False,0.4487,0.5793,est,0.5466
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,22.5,False,0.4041,0.5217,book,0.4923
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,23.5,True,0.3622,0.4899,book,0.458
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,24.5,False,0.3228,0.4464,est,0.4155
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,25.5,False,0.2875,0.4056,est,0.3761
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,26.5,False,0.2567,0.3688,est,0.3408
+401909905,LAC @ GSW,LAC,1629636,Darius Garland,pts,27.5,False,0.2242,0.3283,est,0.3023
 401909905,LAC @ GSW,LAC,1629636,Darius Garland,reb,0.5,False,0.8874,0.92,est,0.9118
 401909905,LAC @ GSW,LAC,1629636,Darius Garland,reb,1.5,False,0.6618,0.7405,est,0.7208
 401909905,LAC @ GSW,LAC,1629636,Darius Garland,reb,2.5,True,0.4125,0.5059,book,0.4825
@@ -984,15 +984,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,1629636,Darius Garland,ra,10.5,False,0.2783,0.4405,est,0.3999
 401909905,LAC @ GSW,LAC,1629636,Darius Garland,ra,11.5,False,0.2004,0.3384,est,0.3039
 401909905,LAC @ GSW,LAC,1629636,Darius Garland,ra,12.5,False,0.1407,0.2505,est,0.223
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,11.5,False,0.62,0.7492,est,0.7169
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,12.5,False,0.5537,0.6944,est,0.6592
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,13.5,False,0.4885,0.6362,est,0.5993
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,14.5,False,0.4252,0.5753,est,0.5377
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,15.5,True,0.3666,0.5145,book,0.4775
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,16.5,False,0.3155,0.4578,est,0.4222
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,17.5,False,0.2664,0.3993,est,0.3661
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,18.5,False,0.2248,0.3469,est,0.3164
-401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,19.5,False,0.1896,0.3,est,0.2724
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,11.5,False,0.62,0.7354,est,0.7065
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,12.5,False,0.5537,0.6788,est,0.6476
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,13.5,False,0.4885,0.6193,est,0.5866
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,14.5,False,0.4252,0.5575,est,0.5244
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,15.5,True,0.3666,0.4964,book,0.4639
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,16.5,False,0.3155,0.4858,book,0.4432
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,17.5,False,0.2664,0.3821,est,0.3532
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,18.5,False,0.2248,0.3307,est,0.3042
+401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,pts,19.5,False,0.1896,0.285,est,0.2611
 401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,reb,1.5,False,0.8991,0.9446,est,0.9332
 401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,reb,2.5,False,0.7622,0.8362,book,0.8177
 401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,reb,3.5,False,0.5843,0.7147,book,0.6821
@@ -1050,15 +1050,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,ra,6.5,False,0.3188,,model only,0.3188
 401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,ra,7.5,False,0.2044,,model only,0.2044
 401909905,LAC @ GSW,LAC,1629060,Rui Hachimura,ra,8.5,False,0.1249,,model only,0.1249
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,4.5,False,0.809,0.8311,est,0.8256
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,5.5,False,0.7258,0.7545,est,0.7473
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,6.5,False,0.6383,0.672,est,0.6636
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,7.5,False,0.5509,0.5875,est,0.5784
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,8.5,True,0.4695,0.5068,book,0.4975
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,9.5,False,0.3908,0.4268,est,0.4178
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,10.5,False,0.3211,0.3545,est,0.3462
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,11.5,False,0.2591,0.2888,est,0.2814
-401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,12.5,False,0.2074,0.233,est,0.2266
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,5.5,False,0.7258,0.8005,est,0.7818
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,6.5,False,0.6383,0.7279,est,0.7055
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,7.5,False,0.5509,0.6502,est,0.6254
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,8.5,False,0.4695,0.5195,book,0.507
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,9.5,True,0.3908,0.4929,book,0.4674
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,10.5,False,0.3211,0.4175,est,0.3934
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,11.5,False,0.2591,0.3464,est,0.3246
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,12.5,False,0.2074,0.2839,est,0.2648
+401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,pts,13.5,False,0.1647,0.2301,est,0.2138
 401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,reb,4.5,False,0.6416,0.7734,book,0.7405
 401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,reb,5.5,False,0.5093,0.6806,book,0.6378
 401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,reb,6.5,False,0.3864,0.5723,book,0.5258
@@ -1116,15 +1116,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,ra,8.5,False,0.376,,model only,0.376
 401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,ra,9.5,False,0.2867,,model only,0.2867
 401909905,LAC @ GSW,LAC,1630543,Isaiah Jackson,ra,10.5,False,0.2127,,model only,0.2127
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.7784,0.8192,est,0.809
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,7.5,False,0.6993,0.7499,est,0.7372
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.6163,0.6744,est,0.6599
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,9.5,False,0.5299,0.5924,est,0.5768
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,10.5,True,0.4521,0.5155,book,0.4997
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.3791,0.4405,est,0.4252
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,12.5,False,0.3134,0.3705,est,0.3562
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,13.5,False,0.2552,0.3064,est,0.2936
-401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,14.5,False,0.206,0.2507,est,0.2395
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.7784,0.8178,est,0.8079
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,7.5,False,0.6993,0.7482,est,0.7359
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.6163,0.6724,est,0.6584
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,9.5,False,0.5299,0.5902,est,0.5751
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,10.5,True,0.4521,0.5132,book,0.4979
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.3791,0.473,book,0.4495
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,12.5,False,0.3134,0.3683,est,0.3546
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,13.5,False,0.2552,0.3044,est,0.2921
+401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,pts,14.5,False,0.206,0.249,est,0.2382
 401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,reb,1.5,False,0.8689,0.9068,est,0.8973
 401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,reb,2.5,False,0.7112,0.7602,book,0.7479
 401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,reb,3.5,False,0.5198,0.6055,book,0.5841
@@ -1184,14 +1184,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,ra,7.5,False,0.1941,,model only,0.1941
 401909905,LAC @ GSW,LAC,1627884,Derrick Jones Jr.,ra,8.5,False,0.1187,,model only,0.1187
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,5.5,False,0.8117,0.7653,book,0.7769
-401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,6.5,False,0.7393,0.7376,est,0.738
+401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,6.5,False,0.7393,0.7409,est,0.7405
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,7.5,False,0.6629,0.6369,book,0.6434
-401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,8.5,False,0.5828,0.5807,est,0.5812
-401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,9.5,True,0.504,0.5019,book,0.5024
-401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,10.5,False,0.4297,0.4276,est,0.4281
+401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,8.5,False,0.5828,0.5848,est,0.5843
+401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,9.5,True,0.504,0.5061,book,0.5056
+401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,10.5,False,0.4297,0.4783,book,0.4662
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,11.5,False,0.3634,0.3709,book,0.369
-401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,12.5,False,0.2996,0.2978,est,0.2982
-401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,13.5,False,0.2503,0.2487,est,0.2491
+401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,12.5,False,0.2996,0.3013,est,0.3009
+401909905,LAC @ GSW,LAC,201572,Brook Lopez,pts,13.5,False,0.2503,0.2518,est,0.2514
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,reb,1.5,False,0.8686,0.8881,est,0.8832
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,reb,2.5,False,0.7195,0.7423,book,0.7366
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,reb,3.5,False,0.5423,0.5832,book,0.573
@@ -1249,15 +1249,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,ra,6.5,False,0.3141,,model only,0.3141
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,ra,7.5,False,0.2117,,model only,0.2117
 401909905,LAC @ GSW,LAC,201572,Brook Lopez,ra,8.5,False,0.1345,,model only,0.1345
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,4.5,False,0.7995,,model only,0.7995
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,5.5,False,0.7146,,model only,0.7146
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,6.5,False,0.622,,model only,0.622
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,7.5,False,0.5305,,model only,0.5305
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,8.5,False,0.4461,,model only,0.4461
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,9.5,False,0.3605,,model only,0.3605
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,10.5,False,0.2913,,model only,0.2913
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,11.5,False,0.231,,model only,0.231
-401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,12.5,False,0.1822,,model only,0.1822
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,3.5,False,0.8746,0.8606,est,0.8641
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,4.5,False,0.7995,0.7792,est,0.7843
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,5.5,False,0.7146,0.689,est,0.6954
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,6.5,False,0.622,0.5929,est,0.6002
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,7.5,True,0.5305,0.5,book,0.5076
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,8.5,False,0.4461,0.4161,est,0.4236
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,9.5,False,0.3605,0.3329,est,0.3398
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,10.5,False,0.2913,0.2668,est,0.2729
+401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,pts,11.5,False,0.231,0.2101,est,0.2153
 401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,reb,0.5,False,0.8768,,model only,0.8768
 401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,reb,1.5,False,0.6507,,model only,0.6507
 401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,reb,2.5,False,0.4197,,model only,0.4197
@@ -1315,15 +1315,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,ra,5.5,False,0.2827,,model only,0.2827
 401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,ra,6.5,False,0.1809,,model only,0.1809
 401909905,LAC @ GSW,LAC,1642920,Kobe Sanders,ra,7.5,False,0.1069,,model only,0.1069
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,9.5,False,0.6947,0.7296,est,0.7209
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,10.5,False,0.626,0.6649,est,0.6552
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,11.5,False,0.5567,0.5983,est,0.5879
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,12.5,False,0.4921,0.5346,est,0.524
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,13.5,True,0.432,0.4742,book,0.4637
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,14.5,False,0.3749,0.4156,est,0.4055
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,15.5,False,0.3218,0.3601,est,0.3505
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,16.5,False,0.2742,0.3094,est,0.3006
-401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,17.5,False,0.2314,0.2631,est,0.2552
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,8.5,False,0.7608,0.7778,est,0.7735
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,9.5,False,0.6947,0.7146,est,0.7097
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,10.5,False,0.626,0.6481,est,0.6425
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,11.5,False,0.5567,0.5802,est,0.5743
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,12.5,True,0.4921,0.516,book,0.51
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,13.5,False,0.432,0.4808,book,0.4686
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,14.5,False,0.3749,0.3976,est,0.3919
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,15.5,False,0.3218,0.3431,est,0.3378
+401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,pts,16.5,False,0.2742,0.2937,est,0.2888
 401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,reb,0.5,False,0.9543,0.9703,est,0.9663
 401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,reb,1.5,False,0.838,0.8898,est,0.8768
 401909905,LAC @ GSW,LAC,905254165,Keaton Wagler,reb,2.5,False,0.6559,0.7465,book,0.7239

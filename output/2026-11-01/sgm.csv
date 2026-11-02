@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAC @ GSW,Kris Dunn pa under 13.5 + Georges Niang 5+ pr,2,0.6688,0.4722,2.12,2.22,2.12,0.0014,1.001,2.10-2.50
+LAC @ GSW,Rui Hachimura pts under 15.5 + Georges Niang 5+ pr,2,0.6006,0.47,2.13,2.23,2.17,0.0199,0.998,2.10-2.50
+LAC @ GSW,Rui Hachimura pts under 15.5 + Georges Niang 1+ 3pm,2,0.5152,0.4117,2.43,2.55,2.45,0.0102,0.996,2.10-2.50
+LAC @ GSW,Rui Hachimura pts under 15.5 + Yaxel Lendeborg 10+ pts,2,0.5905,0.4791,2.09,2.19,2.1,0.0065,0.998,2.10-2.50
+LAC @ GSW,Rui Hachimura pts under 15.5 + Yaxel Lendeborg 4+ reb,2,0.582,0.4846,2.06,2.17,2.06,-0.0014,0.999,1.85-2.10
+LAC @ GSW,Rui Hachimura pts under 15.5 + Darius Garland 1+ 3pm,2,0.5889,0.4878,2.05,2.15,2.05,-0.0017,0.997,1.85-2.10
 LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 5+ pr,2,0.6936,0.5022,1.99,2.09,1.97,-0.0083,1.0,1.85-2.10
-LAC @ GSW,Kris Dunn pa under 13.5 + Georges Niang 1+ 3pm,2,0.5728,0.4129,2.42,2.54,2.4,-0.0098,0.997,2.10-2.50
-LAC @ GSW,Kris Dunn pa under 13.5 + Yaxel Lendeborg 10+ pts,2,0.6588,0.4823,2.07,2.18,2.05,-0.0099,1.003,1.85-2.10
-LAC @ GSW,Darius Garland ra under 9.5 + Georges Niang 5+ pr,2,0.5942,0.4318,2.32,2.43,2.29,-0.0111,1.0,2.10-2.50
-LAC @ GSW,Kris Dunn pa under 13.5 + Darius Garland 1+ 3pm,2,0.6558,0.4902,2.04,2.14,2.0,-0.0197,1.0,1.85-2.10
 LAC @ GSW,Kris Dunn ast under 5.5 + Georges Niang 5+ pr,2,0.7054,0.5326,1.88,1.97,1.82,-0.0303,0.999,1.65-1.85
 LAC @ GSW,Isaiah Jackson reb under 7.5 + Darius Garland 1+ 3pm,2,0.673,0.5282,1.89,1.99,1.81,-0.0421,1.0,1.65-1.85
 LAC @ GSW,Kris Dunn ast under 5.5 + Yaxel Lendeborg 10+ pts,2,0.6939,0.5433,1.84,1.93,1.76,-0.0425,1.0,1.65-1.85
