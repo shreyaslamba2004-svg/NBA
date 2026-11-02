@@ -25,11 +25,11 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909906,TOR,904432586,Nate Bittle,Out,,0.0,"Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports.",,
 401909906,TOR,904432737,Jaden Bradley,,,1.0,,,
 401909906,TOR,905149115,Allen Graves,,,1.0,,,
-401909906,TOR,1631218,Trayce Jackson-Davis,,,1.0,,,
+401909906,TOR,1631218,Trayce Jackson-Davis,Starting,,1.0,,,1.0
 401909906,TOR,202695,Kawhi Leonard,Out,,0.0,"Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports.",,
 401909906,TOR,1642918,Alijah Martin,,,1.0,,,
 401909906,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
-401909906,TOR,1627751,Jakob Poeltl,Starting,,1.0,,,1.0
+401909906,TOR,1627751,Jakob Poeltl,Out,Injury/Illness-LeftShoulderBursitis,0.0,,,
 401909906,TOR,1630193,Immanuel Quickley,Starting,,1.0,,,1.0
 401909906,TOR,1642347,Jamal Shead,,,1.0,,,
 401909906,TOR,1641869,Malachi Smith,Out,GLeague-Two-Way,0.0,,,
