@@ -1,24 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAC @ GSW,Kris Dunn pa under 13.5 + Georges Niang 1+ 3pm,2,0.5712,0.4143,2.41,2.53,2.39,-0.0112,0.998,2.10-2.50
-LAC @ GSW,Kris Dunn pa under 13.5 + Yaxel Lendeborg 10+ pts,2,0.6573,0.4803,2.08,2.19,2.05,-0.0142,0.998,1.85-2.10
-LAC @ GSW,Kris Dunn pa under 13.5 + De'Anthony Melton 1+ 3pm,2,0.5854,0.434,2.3,2.42,2.27,-0.0153,1.002,2.10-2.50
-LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 1+ 3pm,2,0.5953,0.4428,2.26,2.37,2.22,-0.0158,1.003,2.10-2.50
-LAC @ GSW,Kris Dunn pa under 13.5 + Darius Garland 1+ 3pm,2,0.6535,0.4896,2.04,2.14,2.0,-0.0209,0.999,1.85-2.10
-LAC @ GSW,Kris Dunn ra under 9.5 + Yaxel Lendeborg 10+ pts,2,0.683,0.5118,1.95,2.05,1.91,-0.0216,0.999,1.85-2.10
-LAC @ GSW,Isaiah Jackson reb under 7.5 + Darius Garland 1+ 3pm,2,0.6662,0.5264,1.9,1.99,1.81,-0.0454,0.999,1.65-1.85
-LAC @ GSW,Kris Dunn ast under 5.5 + Yaxel Lendeborg 10+ pts,2,0.6896,0.5415,1.85,1.94,1.76,-0.0457,0.998,1.65-1.85
-LAC @ GSW,Isaiah Jackson reb under 7.5 + Yaxel Lendeborg 4+ reb,2,0.659,0.5225,1.91,2.01,1.83,-0.046,1.0,1.65-1.85
-LAC @ GSW,Georges Niang 1+ 3pm + Yaxel Lendeborg 10+ pts + De'Anthony Melton 1+ 3pm,3,0.6327,0.5501,1.82,1.91,1.56,-0.1439,0.999,1.50-1.65
-LAC @ GSW,Georges Niang 1+ 3pm + De'Anthony Melton 1+ 3pm + Yaxel Lendeborg 15+ pa,3,0.5958,0.5287,1.89,1.99,1.61,-0.1484,1.001,1.50-1.65
-TOR @ LAL,game over 224.5 + Jamal Shead 10+ pra,2,0.4269,0.3952,2.53,2.66,2.46,-0.0291,1.042,2.10-2.50
-TOR @ LAL,Austin Reaves pts under 22.5 + RJ Barrett 1+ 3pm,2,0.5436,0.4126,2.42,2.54,2.35,-0.0298,1.001,2.10-2.50
-TOR @ LAL,Austin Reaves pts under 22.5 + Scottie Barnes 4+ ast,2,0.5658,0.4262,2.35,2.46,2.27,-0.0308,0.997,2.10-2.50
-TOR @ LAL,Walker Kessler pts under 12.5 + Collin Sexton 5+ pr,2,0.6117,0.4743,2.11,2.21,2.02,-0.0424,0.997,1.85-2.10
-TOR @ LAL,Scottie Barnes 6+ ast + Jakob Poeltl 5+ pa,2,0.5681,0.458,2.18,2.29,2.09,-0.0447,1.007,1.85-2.10
-TOR @ LAL,Walker Kessler pts under 12.5 + Collin Sexton 5+ pa,2,0.6082,0.4742,2.11,2.21,2.01,-0.0455,0.996,1.85-2.10
-TOR @ LAL,RJ Barrett 1+ 3pm + Ja'Kobe Walter 1+ stl,2,0.6709,0.59,1.69,1.78,1.55,-0.0851,1.002,1.50-1.65
-TOR @ LAL,RJ Barrett 4+ reb + Ja'Kobe Walter 1+ stl,2,0.6405,0.5694,1.76,1.84,1.6,-0.0864,1.004,1.50-1.65
-TOR @ LAL,Scottie Barnes 1+ stl + RJ Barrett 4+ reb,2,0.6763,0.5988,1.67,1.75,1.52,-0.0898,0.999,1.50-1.65
-TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Jamal Shead 10+ pra,3,0.5931,0.4859,2.06,2.16,1.81,-0.1185,1.007,1.65-1.85
-TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Ja'Kobe Walter 1+ stl,3,0.5907,0.4807,2.08,2.18,1.83,-0.1198,1.003,1.65-1.85
-TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Jakob Poeltl 5+ pa,3,0.6426,0.5261,1.9,2.0,1.67,-0.1212,1.004,1.65-1.85
+LAC @ GSW,Kris Dunn pa under 13.5 + Yaxel Lendeborg 10+ pts,2,0.6588,0.4823,2.07,2.18,2.05,-0.0099,1.003,1.85-2.10
+LAC @ GSW,Kris Dunn pa under 13.5 + Georges Niang 1+ 3pm,2,0.5728,0.4138,2.42,2.54,2.39,-0.0105,0.997,2.10-2.50
+LAC @ GSW,Kris Dunn ra under 9.5 + Georges Niang 1+ 3pm,2,0.5948,0.4406,2.27,2.38,2.23,-0.0187,0.998,2.10-2.50
+LAC @ GSW,Kris Dunn pa under 13.5 + Yaxel Lendeborg 15+ pa,2,0.6185,0.4617,2.17,2.27,2.12,-0.0191,1.0,2.10-2.50
+LAC @ GSW,Kris Dunn pa under 13.5 + Darius Garland 1+ 3pm,2,0.6558,0.4902,2.04,2.14,2.0,-0.0197,1.0,1.85-2.10
+LAC @ GSW,Kris Dunn ra under 9.5 + Yaxel Lendeborg 10+ pts,2,0.6829,0.5127,1.95,2.05,1.91,-0.0199,1.002,1.85-2.10
+LAC @ GSW,Isaiah Jackson reb under 7.5 + Darius Garland 1+ 3pm,2,0.673,0.5282,1.89,1.99,1.81,-0.0421,1.0,1.65-1.85
+LAC @ GSW,Kris Dunn ast under 5.5 + Yaxel Lendeborg 10+ pts,2,0.6939,0.5433,1.84,1.93,1.76,-0.0425,1.0,1.65-1.85
+LAC @ GSW,Isaiah Jackson reb under 7.5 + Yaxel Lendeborg 4+ reb,2,0.6639,0.5238,1.91,2.0,1.83,-0.0437,1.0,1.65-1.85
+LAC @ GSW,Georges Niang 1+ 3pm + Yaxel Lendeborg 10+ pts + De'Anthony Melton 1+ 3pm,3,0.6323,0.5501,1.82,1.91,1.56,-0.1439,0.999,1.50-1.65
+LAC @ GSW,Georges Niang 1+ 3pm + De'Anthony Melton 1+ 3pm + Yaxel Lendeborg 15+ pa,3,0.5977,0.5301,1.89,1.98,1.61,-0.1461,1.004,1.50-1.65
+LAC @ GSW,Georges Niang 1+ 3pm + Darius Garland 1+ 3pm + Yaxel Lendeborg 1+ 3pm,3,0.6338,0.5664,1.77,1.85,1.5,-0.15,1.002,1.50-1.65
+TOR @ LAL,Austin Reaves pts under 22.5 + Scottie Barnes 4+ ast,2,0.5658,0.4245,2.36,2.47,2.29,-0.0293,0.997,2.10-2.50
+TOR @ LAL,Austin Reaves pts under 22.5 + RJ Barrett 1+ 3pm,2,0.5436,0.4125,2.42,2.55,2.35,-0.0296,1.001,2.10-2.50
+TOR @ LAL,Walker Kessler pts under 12.5 + Scottie Barnes 4+ ast,2,0.5915,0.4512,2.22,2.33,2.14,-0.0329,1.001,2.10-2.50
+TOR @ LAL,Walker Kessler pts under 12.5 + Collin Sexton 5+ pr,2,0.6117,0.4768,2.1,2.2,2.0,-0.0446,0.997,1.85-2.10
+TOR @ LAL,Austin Reaves pa under 28.5 + Sandro Mamukelashvili 5+ pa,2,0.6002,0.4667,2.14,2.25,2.05,-0.045,0.995,1.85-2.10
+TOR @ LAL,Scottie Barnes 6+ ast + Jakob Poeltl 5+ pa,2,0.5681,0.4592,2.18,2.29,2.08,-0.0457,1.007,1.85-2.10
+TOR @ LAL,RJ Barrett 4+ reb + Ja'Kobe Walter 1+ stl,2,0.6405,0.5675,1.76,1.85,1.61,-0.0853,1.004,1.50-1.65
+TOR @ LAL,RJ Barrett 1+ 3pm + Ja'Kobe Walter 1+ stl,2,0.6709,0.5912,1.69,1.78,1.55,-0.0857,1.002,1.50-1.65
+TOR @ LAL,RJ Barrett 1+ 3pm + Jamal Shead 10+ pra,2,0.6717,0.5971,1.67,1.76,1.53,-0.0878,1.003,1.50-1.65
+TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Jamal Shead 10+ pra,3,0.5931,0.4875,2.05,2.15,1.81,-0.1196,1.007,1.65-1.85
+TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 1+ 3pm + Ja'Kobe Walter 1+ stl,3,0.5907,0.4813,2.08,2.18,1.83,-0.1202,1.003,1.65-1.85
+TOR @ LAL,Scottie Barnes 4+ ast + RJ Barrett 4+ reb + Jakob Poeltl 5+ pa,3,0.6135,0.5062,1.98,2.07,1.74,-0.1212,1.007,1.65-1.85
