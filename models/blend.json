@@ -4,5 +4,10 @@
   "spread": 0.0,
   "total": 0.0
  },
- "fit_season": "2024-25"
+ "fit_season": "2024-25",
+ "logged": {
+  "props": 0.075,
+  "game_logged": 0.0
+ },
+ "logged_refit": "2026-11-02"
 }
