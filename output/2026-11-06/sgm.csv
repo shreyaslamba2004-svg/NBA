@@ -1,47 +1,44 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-WAS @ ATL,ATL win + Trae Young 3pm under 2.5,2,0.4252,0.4,2.5,2.62,2.41,-0.0371,1.034,2.10-2.50
-WAS @ ATL,ATL win + Nickeil Alexander-Walker 3+ 3pm,2,0.4433,0.4336,2.31,2.42,2.2,-0.0441,1.026,2.10-2.50
-WAS @ ATL,ATL win + Kyshawn George 4+ reb,2,0.4704,0.4321,2.31,2.43,2.16,-0.068,0.998,2.10-2.50
-WAS @ ATL,ATL win + Kyshawn George 15+ pra,2,0.5774,0.5906,1.69,1.78,1.55,-0.0843,0.991,1.50-1.65
-WAS @ ATL,WAS +7.5 + Kyshawn George 10+ pa,2,0.5687,0.4548,2.2,2.31,2.01,-0.0874,1.008,1.85-2.10
-WAS @ ATL,game over 228.5 + Kyshawn George 10+ pa,2,0.5393,0.4517,2.21,2.32,2.02,-0.0898,1.014,1.85-2.10
-WAS @ ATL,WAS +7.5 + Kyshawn George 10+ pr,2,0.5743,0.4533,2.21,2.32,2.01,-0.0905,1.003,1.85-2.10
-WAS @ ATL,Nickeil Alexander-Walker 3+ 3pm + Kyshawn George 15+ pra,2,0.6554,0.5134,1.95,2.05,1.74,-0.1046,1.0,1.65-1.85
-WAS @ ATL,Nickeil Alexander-Walker 3+ 3pm + Kyshawn George 10+ pr,2,0.677,0.5375,1.86,1.95,1.66,-0.1065,0.999,1.65-1.85
-WAS @ ATL,Nickeil Alexander-Walker 3+ 3pm + Kyshawn George 10+ pa,2,0.6679,0.5373,1.86,1.95,1.66,-0.1069,0.999,1.65-1.85
-WAS @ ATL,Nickeil Alexander-Walker 3+ 3pm + Bilal Coulibaly 5+ pr,2,0.6739,0.5413,1.85,1.94,1.65,-0.107,0.999,1.50-1.65
-WAS @ ATL,ATL win + Kyshawn George 10+ pr + Bilal Coulibaly 5+ pr,3,0.5788,0.5568,1.8,1.89,1.55,-0.138,0.993,1.50-1.65
-BOS @ CHA,BOS win + Ryan Kalkbrenner reb under 6.5,2,0.5386,0.3908,2.56,2.69,2.4,-0.061,1.005,2.10-2.50
-BOS @ CHA,Sion James 2+ reb + Sam Hauser 5+ pr,2,0.8247,0.4288,2.33,2.45,2.19,-0.0612,1.001,2.10-2.50
-BOS @ CHA,Sion James 2+ reb + Naz Reid 1+ 3pm,2,0.8418,0.4419,2.26,2.38,2.12,-0.0629,1.0,2.10-2.50
+WAS @ ATL,ATL win + Trae Young 3pm under 2.5,2,0.4252,0.3988,2.51,2.63,2.41,-0.0401,1.034,2.10-2.50
+WAS @ ATL,ATL win + Nickeil Alexander-Walker 3+ 3pm,2,0.4433,0.4256,2.35,2.47,2.24,-0.0473,1.026,2.10-2.50
+WAS @ ATL,game over 228.5 + Luguentz Dort 10+ pra,2,0.5111,0.4189,2.39,2.51,2.25,-0.0589,1.033,2.10-2.50
+WAS @ ATL,ATL win + Luguentz Dort 10+ pra,2,0.5612,0.575,1.74,1.83,1.63,-0.0652,1.015,1.50-1.65
+WAS @ ATL,game over 228.5 + Kyshawn George 10+ pa,2,0.5393,0.4522,2.21,2.32,2.04,-0.0777,1.014,1.85-2.10
+WAS @ ATL,game over 228.5 + Bilal Coulibaly 5+ pr,2,0.5411,0.4543,2.2,2.31,2.02,-0.083,1.008,1.85-2.10
+WAS @ ATL,WAS +7.5 + Kyshawn George 15+ pra,2,0.5585,0.4374,2.29,2.4,2.09,-0.0847,1.009,1.85-2.10
+WAS @ ATL,ATL win + Kyshawn George 15+ pra,2,0.5774,0.5919,1.69,1.77,1.54,-0.0876,0.991,1.50-1.65
+WAS @ ATL,Nickeil Alexander-Walker 3+ 3pm + Kyshawn George 15+ pra,2,0.6554,0.5083,1.97,2.07,1.76,-0.1053,1.0,1.65-1.85
+WAS @ ATL,Alex Sarr 2+ ast + Bilal Coulibaly 5+ pr,2,0.6183,0.4967,2.01,2.11,1.8,-0.1061,1.001,1.65-1.85
+WAS @ ATL,Alex Sarr 2+ ast + Kyshawn George 10+ pa,2,0.6119,0.491,2.04,2.14,1.82,-0.1071,1.0,1.65-1.85
+WAS @ ATL,ATL win + Kyshawn George 15+ pra + Bilal Coulibaly 5+ pr,3,0.557,0.5318,1.88,1.97,1.61,-0.1447,0.988,1.50-1.65
+BOS @ CHA,Sion James 2+ reb + Sam Hauser 5+ pr,2,0.8247,0.4167,2.4,2.52,2.26,-0.057,1.001,2.10-2.50
+BOS @ CHA,Sion James 2+ reb + Naz Reid 1+ 3pm,2,0.8418,0.4294,2.33,2.45,2.19,-0.0587,1.0,2.10-2.50
+BOS @ CHA,BOS win + Ryan Kalkbrenner reb under 6.5,2,0.5386,0.4157,2.41,2.53,2.24,-0.0672,1.005,2.10-2.50
 BOS @ CHA,CHA +8.5 + Naz Reid 1+ 3pm,2,0.4313,0.4353,2.3,2.41,2.08,-0.093,1.01,1.85-2.10
-BOS @ CHA,Ryan Kalkbrenner reb under 6.5 + Sam Hauser 5+ pr,2,0.6383,0.4384,2.28,2.39,2.06,-0.0972,0.998,1.85-2.10
-BOS @ CHA,Ryan Kalkbrenner reb under 6.5 + Naz Reid 1+ 3pm,2,0.6523,0.4524,2.21,2.32,1.99,-0.0976,0.999,1.85-2.10
+BOS @ CHA,Ryan Kalkbrenner reb under 6.5 + Sam Hauser 5+ pr,2,0.6383,0.4664,2.14,2.25,1.92,-0.1032,0.998,1.85-2.10
+BOS @ CHA,Ryan Kalkbrenner reb under 6.5 + Naz Reid 1+ 3pm,2,0.6523,0.4813,2.08,2.18,1.86,-0.1036,0.999,1.85-2.10
 BOS @ CHA,BOS win + Sam Hauser 5+ pr + Naz Reid 1+ 3pm,3,0.6373,0.5261,1.9,2.0,1.64,-0.1384,1.001,1.50-1.65
 PHI @ CLE,PHI win + Evan Mobley 1+ blk,2,0.3927,0.4093,2.44,2.57,2.26,-0.0741,1.007,2.10-2.50
 PHI @ CLE,Tyrese Maxey pr under 29.5 + Evan Mobley 1+ blk,2,0.5456,0.3743,2.67,2.81,2.41,-0.0986,0.997,2.10-2.50
 PHI @ CLE,Tyrese Maxey pra under 34.5 + Evan Mobley 1+ blk,2,0.526,0.3639,2.75,2.89,2.47,-0.0995,0.997,2.10-2.50
 UTA @ DAL,DAL win + Jaxson Hayes pra under 16.5,2,0.5109,0.3818,2.62,2.75,2.47,-0.0582,1.018,2.10-2.50
-UTA @ DAL,UTA +7.5 + Ace Bailey 10+ pa,2,0.3737,0.4242,2.36,2.48,2.21,-0.0635,1.034,2.10-2.50
-UTA @ DAL,UTA +7.5 + Ace Bailey 1+ 3pm,2,0.3662,0.4179,2.39,2.51,2.21,-0.0754,1.021,2.10-2.50
-UTA @ DAL,UTA +7.5 + Ace Bailey 10+ pr,2,0.3997,0.4568,2.19,2.3,2.0,-0.0873,1.008,1.85-2.10
-UTA @ DAL,game over 226.5 + Ace Bailey 10+ pr,2,0.7592,0.4556,2.19,2.3,2.0,-0.0897,1.006,1.85-2.10
-UTA @ DAL,DAL win + Ace Bailey 1+ 3pm,2,0.6677,0.562,1.78,1.87,1.62,-0.0912,0.993,1.50-1.65
-UTA @ DAL,DAL win + Ace Bailey 10+ pa,2,0.6699,0.5608,1.78,1.87,1.61,-0.0951,0.989,1.50-1.65
-UTA @ DAL,DAL -7.5 + Ace Bailey 10+ pr,2,0.5621,0.439,2.28,2.39,2.05,-0.0991,0.994,1.85-2.10
+UTA @ DAL,UTA +7.5 + Ace Bailey 10+ pa,2,0.3737,0.4267,2.34,2.46,2.19,-0.064,1.034,2.10-2.50
+UTA @ DAL,UTA +7.5 + Ace Bailey 1+ 3pm,2,0.3662,0.417,2.4,2.52,2.22,-0.0751,1.021,2.10-2.50
+UTA @ DAL,DAL win + Ace Bailey 1+ 3pm,2,0.6677,0.5608,1.78,1.87,1.62,-0.091,0.993,1.50-1.65
+UTA @ DAL,DAL win + Ace Bailey 10+ pa,2,0.6699,0.5642,1.77,1.86,1.6,-0.0956,0.989,1.50-1.65
+UTA @ DAL,Jaxson Hayes pra under 16.5 + Ace Bailey 1+ 3pm,2,0.5636,0.4308,2.32,2.44,2.07,-0.1078,0.997,1.85-2.10
+UTA @ DAL,Jaxson Hayes pra under 16.5 + Ace Bailey 10+ pa,2,0.5672,0.4347,2.3,2.42,2.05,-0.1096,0.996,1.85-2.10
+UTA @ DAL,Cooper Flagg pa under 32.5 + Ace Bailey 1+ 3pm,2,0.5513,0.424,2.36,2.48,2.1,-0.1096,0.996,1.85-2.10
 OKC @ MEM,OKC win + Jared McCain 10+ pa,2,0.5247,0.4687,2.13,2.24,2.0,-0.0611,1.026,1.85-2.10
-OKC @ MEM,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5343,0.4736,2.11,2.22,1.96,-0.0706,1.015,1.85-2.10
+OKC @ MEM,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5343,0.4743,2.11,2.21,1.96,-0.0707,1.015,1.85-2.10
 OKC @ MEM,OKC -3.5 + Jared McCain 10+ pa,2,0.4494,0.3983,2.51,2.64,2.33,-0.072,1.03,2.10-2.50
 OKC @ MEM,game over 224.5 + Jared McCain 10+ pa,2,0.5095,0.407,2.46,2.58,2.28,-0.0725,1.034,2.10-2.50
-OKC @ MEM,game over 224.5 + Shai Gilgeous-Alexander 4+ ast,2,0.519,0.4116,2.43,2.55,2.23,-0.0814,1.023,2.10-2.50
-OKC @ MEM,Cedric Coward ra under 10.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5697,0.4338,2.31,2.42,2.07,-0.1017,1.001,1.85-2.10
-MIN @ NOP,MIN win + Jaden McDaniels 10+ pts,2,0.4504,0.5255,1.9,2.0,1.8,-0.0553,1.017,1.65-1.85
-MIN @ NOP,game over 230.5 + Jaden McDaniels 10+ pts,2,0.5755,0.4344,2.3,2.42,2.12,-0.0774,1.021,2.10-2.50
-MIN @ NOP,MIN -4.5 + Jaden McDaniels 10+ pts,2,0.3419,0.4281,2.34,2.45,2.15,-0.0789,1.021,2.10-2.50
-MIN @ NOP,NOP +4.5 + Jaden McDaniels 10+ pts,2,0.5681,0.4143,2.41,2.53,2.16,-0.1048,0.988,2.10-2.50
-MIN @ NOP,Trey Murphy III pra under 23.5 + Jaden McDaniels 10+ pts,2,0.5376,0.4322,2.31,2.43,2.06,-0.111,0.999,1.85-2.10
-MIN @ NOP,Trey Murphy III pts under 15.5 + Jaden McDaniels 10+ pts,2,0.5442,0.4381,2.28,2.4,2.03,-0.112,0.998,1.85-2.10
-MIN @ NOP,Trey Murphy III pa under 18.5 + Jaden McDaniels 10+ pts,2,0.5298,0.4265,2.34,2.46,2.08,-0.1125,0.997,1.85-2.10
+OKC @ MEM,game over 224.5 + Shai Gilgeous-Alexander 4+ ast,2,0.519,0.4121,2.43,2.55,2.23,-0.0815,1.023,2.10-2.50
+OKC @ MEM,Cedric Coward ra under 10.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5697,0.4344,2.3,2.42,2.07,-0.1019,1.001,1.85-2.10
+TOR @ MIL,TOR win + Kyle Kuzma 10+ pr,2,0.5527,0.533,1.88,1.97,1.83,-0.0253,0.986,1.65-1.85
+TOR @ MIL,game over 229.5 + Kyle Kuzma 10+ pr,2,0.4151,0.4191,2.39,2.51,2.22,-0.0717,1.032,2.10-2.50
+TOR @ MIL,MIL +4.5 + Kyle Kuzma 10+ pr,2,0.4129,0.407,2.46,2.58,2.26,-0.0794,1.024,2.10-2.50
+TOR @ MIL,Jamal Shead 3pm under 1.5 + Kyle Kuzma 10+ pr,2,0.6482,0.4251,2.35,2.47,2.14,-0.0901,0.999,2.10-2.50
 POR @ LAL,game over 232.5 + Quentin Grimes 5+ pr,2,0.343,0.4284,2.33,2.45,2.19,-0.0604,1.023,2.10-2.50
 POR @ LAL,LAL win + Quentin Grimes 5+ pr,2,0.6027,0.4801,2.08,2.19,1.92,-0.0781,1.009,1.85-2.10
 POR @ LAL,LAL -3.5 + Quentin Grimes 5+ pr,2,0.5245,0.4177,2.39,2.51,2.2,-0.0795,1.011,2.10-2.50
