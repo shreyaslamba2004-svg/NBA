@@ -1,16 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-WAS @ ATL,ATL win + Trae Young 3pm under 2.5,2,0.4441,0.4041,2.47,2.6,2.38,-0.0388,1.032,2.10-2.50
-WAS @ ATL,ATL win + Kyshawn George 4+ reb,2,0.4879,0.4313,2.32,2.43,2.17,-0.0644,1.002,2.10-2.50
-WAS @ ATL,game over 229.5 + Kyshawn George 15+ pra,2,0.5303,0.4355,2.3,2.41,2.11,-0.0811,1.021,2.10-2.50
-WAS @ ATL,ATL win + Kyshawn George 15+ pra,2,0.6013,0.5924,1.69,1.77,1.55,-0.0834,0.992,1.50-1.65
-WAS @ ATL,WAS +7.5 + Kyshawn George 10+ pa,2,0.5496,0.4549,2.2,2.31,2.0,-0.0884,1.011,1.85-2.10
-WAS @ ATL,game over 229.5 + Kyshawn George 10+ pa,2,0.5358,0.4521,2.21,2.32,2.01,-0.09,1.014,1.85-2.10
-WAS @ ATL,WAS +7.5 + Kyshawn George 10+ pr,2,0.5549,0.4537,2.2,2.31,2.0,-0.0917,1.007,1.85-2.10
-WAS @ ATL,Kyshawn George 4+ reb + Bilal Coulibaly 5+ pr,2,0.7311,0.5536,1.81,1.9,1.62,-0.1032,1.002,1.50-1.65
-WAS @ ATL,Trae Young 3pm under 2.5 + Kyshawn George 10+ pr,2,0.6506,0.4998,2.0,2.1,1.79,-0.1056,1.0,1.65-1.85
-WAS @ ATL,Trae Young 3pm under 2.5 + Kyshawn George 10+ pa,2,0.6417,0.4988,2.0,2.1,1.79,-0.1063,1.001,1.65-1.85
-WAS @ ATL,Trae Young 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.6438,0.5017,1.99,2.09,1.78,-0.1087,0.998,1.65-1.85
-WAS @ ATL,ATL win + Kyshawn George 10+ pr + Bilal Coulibaly 5+ pr,3,0.6001,0.5595,1.79,1.88,1.54,-0.1375,0.994,1.50-1.65
+WAS @ ATL,game over 229.5 + Kyshawn George 15+ pr,2,0.4838,0.3919,2.55,2.68,2.4,-0.0596,1.044,2.10-2.50
+WAS @ ATL,ATL win + Luguentz Dort 10+ pra,2,0.539,0.5416,1.85,1.94,1.73,-0.0629,1.016,1.65-1.85
+WAS @ ATL,ATL win + Kyshawn George 4+ reb,2,0.4879,0.4298,2.33,2.44,2.18,-0.0641,1.002,2.10-2.50
+WAS @ ATL,WAS +7.5 + Kyshawn George 15+ pr,2,0.4891,0.3886,2.57,2.7,2.39,-0.0714,1.026,2.10-2.50
+WAS @ ATL,ATL win + CJ McCollum 1+ 3pm,2,0.572,0.5803,1.72,1.81,1.6,-0.0731,1.006,1.50-1.65
+WAS @ ATL,ATL win + Kyshawn George 15+ pra,2,0.6013,0.5934,1.69,1.77,1.54,-0.0836,0.992,1.50-1.65
+WAS @ ATL,WAS +7.5 + Kyshawn George 15+ pra,2,0.5401,0.4358,2.29,2.41,2.1,-0.0861,1.012,1.85-2.10
+WAS @ ATL,WAS +7.5 + Kyshawn George 10+ pa,2,0.5496,0.4557,2.19,2.3,2.0,-0.0885,1.011,1.85-2.10
+WAS @ ATL,game over 229.5 + Kyshawn George 10+ pa,2,0.5358,0.453,2.21,2.32,2.01,-0.0901,1.014,1.85-2.10
+WAS @ ATL,ATL win + Kyshawn George 15+ pr,2,0.5318,0.5167,1.94,2.03,1.76,-0.0906,0.983,1.65-1.85
+WAS @ ATL,Kyshawn George 4+ reb + CJ McCollum 1+ 3pm,2,0.6702,0.5056,1.98,2.08,1.77,-0.1027,1.002,1.65-1.85
 BOS @ CHA,BOS win + Ryan Kalkbrenner reb under 6.5,2,0.5386,0.3908,2.56,2.69,2.4,-0.061,1.005,2.10-2.50
 BOS @ CHA,Sion James 2+ reb + Naz Reid 1+ 3pm,2,0.8418,0.448,2.23,2.34,2.09,-0.0649,1.0,1.85-2.10
 BOS @ CHA,BOS win + game under 208.5,2,0.3282,0.3736,2.68,2.81,2.49,-0.0701,1.002,2.10-2.50
