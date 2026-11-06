@@ -26,9 +26,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,fg3m,3.5,True,0.4622,0.4135,book,0.4172
 401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,fg3m,4.5,False,0.2758,0.2453,book,0.2476
 401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,fg3m,5.5,False,0.1427,0.1335,book,0.1342
-401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,stl,0.5,False,0.7211,,model only,0.7211
-401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,stl,1.5,False,0.3811,,model only,0.3811
-401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,stl,2.5,False,0.1546,,model only,0.1546
+401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,stl,0.5,False,0.7211,0.7559,book,0.7533
+401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,stl,1.5,False,0.3811,0.4472,book,0.4422
+401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,stl,2.5,False,0.1546,0.2168,book,0.2121
 401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,blk,0.5,False,0.3868,,model only,0.3868
 401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,blk,1.5,False,0.0921,,model only,0.0921
 401909287,WAS @ ATL,ATL,1629638,Nickeil Alexander-Walker,pra,23.5,False,0.6807,0.6905,est,0.6897
@@ -93,9 +93,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,fg3m,0.5,False,0.3269,,model only,0.3269
 401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,fg3m,1.5,False,0.0599,,model only,0.0599
 401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,fg3m,2.5,False,0.0066,,model only,0.0066
-401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,stl,1.5,False,0.6473,0.6241,book,0.6258
-401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,stl,2.5,True,0.4001,0.3846,book,0.3858
-401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,stl,3.5,False,0.2185,0.2036,book,0.2047
+401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,stl,1.5,False,0.6473,0.6321,book,0.6332
+401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,stl,2.5,True,0.4001,0.3886,book,0.3895
+401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,stl,3.5,False,0.2185,0.2032,book,0.2043
 401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,blk,0.5,False,0.3534,,model only,0.3534
 401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,blk,1.5,False,0.0789,,model only,0.0789
 401909287,WAS @ ATL,ATL,1630700,Dyson Daniels,pra,19.5,False,0.7189,0.7545,book,0.7518
@@ -159,9 +159,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,fg3m,1.5,True,0.4604,0.4408,book,0.4423
 401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,fg3m,2.5,False,0.187,0.2189,book,0.2165
 401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,fg3m,3.5,False,0.056,0.0954,book,0.0924
-401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,stl,0.5,False,0.6171,,model only,0.6171
-401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,stl,1.5,False,0.2673,,model only,0.2673
-401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,stl,2.5,False,0.0897,,model only,0.0897
+401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,stl,0.5,False,0.6171,0.6341,book,0.6328
+401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,stl,1.5,False,0.2673,0.3015,book,0.2989
+401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,stl,2.5,False,0.0897,0.1168,book,0.1148
 401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,blk,0.5,False,0.3148,,model only,0.3148
 401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,blk,1.5,False,0.0586,,model only,0.0586
 401909287,WAS @ ATL,ATL,1629652,Luguentz Dort,pra,9.5,False,0.8246,0.7599,book,0.7648
@@ -291,9 +291,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,fg3m,1.5,False,0.1562,,model only,0.1562
 401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,fg3m,2.5,False,0.033,,model only,0.033
 401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,fg3m,3.5,False,0.0052,,model only,0.0052
-401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,stl,0.5,False,0.5534,,model only,0.5534
-401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,stl,1.5,False,0.2154,,model only,0.2154
-401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,stl,2.5,False,0.0655,,model only,0.0655
+401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,stl,0.5,False,0.5534,0.7009,book,0.6898
+401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,stl,1.5,False,0.2154,0.3784,book,0.3662
+401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,stl,2.5,False,0.0655,0.1681,book,0.1604
 401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,blk,0.5,False,0.2766,,model only,0.2766
 401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,blk,1.5,False,0.048,,model only,0.048
 401909287,WAS @ ATL,ATL,905149077,Kingston Flemings,pra,12.5,False,0.7115,0.7674,est,0.7632
@@ -492,9 +492,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,stl,0.5,False,0.6419,,model only,0.6419
 401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,stl,1.5,False,0.2903,,model only,0.2903
 401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,stl,2.5,False,0.1011,,model only,0.1011
-401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,blk,0.5,False,0.6265,,model only,0.6265
+401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,blk,0.5,False,0.6265,0.6008,book,0.6027
 401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,blk,1.5,False,0.2705,,model only,0.2705
-401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,blk,2.5,False,0.0897,,model only,0.0897
+401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,blk,2.5,False,0.0897,0.0963,book,0.0958
 401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,pra,22.5,False,0.6646,0.7227,est,0.7184
 401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,pra,23.5,False,0.6159,0.6784,est,0.6737
 401909287,WAS @ ATL,ATL,1630168,Onyeka Okongwu,pra,24.5,False,0.568,0.6336,est,0.6287
@@ -821,8 +821,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,fg3m,1.5,True,0.2361,0.3776,book,0.367
 401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,fg3m,2.5,False,0.0711,0.1663,book,0.1592
 401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,fg3m,3.5,False,0.014,0.0677,book,0.0637
-401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,stl,0.5,False,0.6399,,model only,0.6399
-401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,stl,1.5,False,0.2848,,model only,0.2848
+401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,stl,0.5,False,0.6399,0.6241,book,0.6253
+401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,stl,1.5,False,0.2848,0.2893,book,0.289
 401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,stl,2.5,False,0.097,,model only,0.097
 401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,blk,0.5,False,0.297,,model only,0.297
 401909287,WAS @ ATL,WAS,905142718,AJ Dybantsa,blk,1.5,False,0.0555,,model only,0.0555
@@ -889,9 +889,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909287,WAS @ ATL,WAS,1642273,Kyshawn George,fg3m,1.5,True,0.5864,0.5652,book,0.5668
 401909287,WAS @ ATL,WAS,1642273,Kyshawn George,fg3m,2.5,False,0.3134,0.3268,book,0.3258
 401909287,WAS @ ATL,WAS,1642273,Kyshawn George,fg3m,3.5,False,0.138,0.1634,book,0.1615
-401909287,WAS @ ATL,WAS,1642273,Kyshawn George,stl,0.5,False,0.6649,,model only,0.6649
-401909287,WAS @ ATL,WAS,1642273,Kyshawn George,stl,1.5,False,0.3077,,model only,0.3077
-401909287,WAS @ ATL,WAS,1642273,Kyshawn George,stl,2.5,False,0.1162,,model only,0.1162
+401909287,WAS @ ATL,WAS,1642273,Kyshawn George,stl,0.5,False,0.6649,0.6539,book,0.6547
+401909287,WAS @ ATL,WAS,1642273,Kyshawn George,stl,1.5,False,0.3077,0.3201,book,0.3192
+401909287,WAS @ ATL,WAS,1642273,Kyshawn George,stl,2.5,False,0.1162,0.1316,book,0.1304
 401909287,WAS @ ATL,WAS,1642273,Kyshawn George,blk,0.5,False,0.6543,,model only,0.6543
 401909287,WAS @ ATL,WAS,1642273,Kyshawn George,blk,1.5,False,0.2973,,model only,0.2973
 401909287,WAS @ ATL,WAS,1642273,Kyshawn George,blk,2.5,False,0.1031,,model only,0.1031
@@ -2175,12 +2175,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pts,8.5,False,0.3557,0.3285,est,0.3305
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pts,9.5,False,0.2788,0.3084,book,0.3062
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pts,10.5,False,0.2142,0.1946,est,0.196
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,0.5,False,0.9248,0.9294,est,0.929
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,1.5,False,0.7598,0.7718,est,0.7709
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,2.5,True,0.5509,0.5674,book,0.5662
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,3.5,False,0.362,0.3846,book,0.3829
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,4.5,False,0.2119,0.239,book,0.237
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,5.5,False,0.1161,0.1383,book,0.1366
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,0.5,False,0.9248,0.9201,est,0.9204
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,1.5,False,0.7598,0.7474,est,0.7483
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,2.5,True,0.5509,0.5343,book,0.5355
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,3.5,False,0.362,0.3474,book,0.3485
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,4.5,False,0.2119,0.2086,book,0.2088
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,reb,5.5,False,0.1161,0.1183,book,0.1181
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,ast,0.5,False,0.6207,,model only,0.6207
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,ast,1.5,False,0.2693,,model only,0.2693
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,ast,2.5,False,0.0939,,model only,0.0939
@@ -2205,15 +2205,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pra,14.5,False,0.2647,,model only,0.2647
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pra,15.5,False,0.2158,,model only,0.2158
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pra,16.5,False,0.1713,,model only,0.1713
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,6.5,False,0.7843,0.7995,est,0.7983
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,7.5,False,0.7055,0.7243,est,0.7229
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,8.5,False,0.6207,0.642,est,0.6404
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,9.5,False,0.5361,0.5588,est,0.5571
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,10.5,True,0.4536,0.4765,book,0.4748
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,11.5,False,0.3798,0.4017,est,0.4
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,12.5,False,0.3139,0.3341,est,0.3326
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,13.5,False,0.2549,0.2727,est,0.2714
-401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,14.5,False,0.2009,0.216,est,0.2149
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,5.5,False,0.8511,0.8466,est,0.8469
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,6.5,False,0.7843,0.7783,est,0.7788
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,7.5,False,0.7055,0.6982,est,0.6987
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,8.5,False,0.6207,0.6123,est,0.6129
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,9.5,True,0.5361,0.5273,book,0.528
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,10.5,False,0.4536,0.4449,est,0.4456
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,11.5,False,0.3798,0.3715,est,0.3721
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,12.5,False,0.3139,0.3064,est,0.307
+401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pr,13.5,False,0.2549,0.2482,est,0.2487
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pa,4.5,False,0.8187,,model only,0.8187
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pa,5.5,False,0.7333,,model only,0.7333
 401909288,BOS @ CHA,BOS,1630573,Sam Hauser,pa,6.5,False,0.6348,,model only,0.6348
@@ -2239,12 +2239,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,pts,15.5,False,0.2664,0.3619,est,0.3547
 401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,pts,16.5,False,0.223,0.3094,est,0.3029
 401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,pts,17.5,False,0.1846,0.2611,est,0.2554
-401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,0.5,False,0.9298,0.9379,est,0.9373
-401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,1.5,False,0.7649,0.7877,est,0.786
-401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,2.5,True,0.5536,0.5859,book,0.5835
-401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,3.5,False,0.3517,0.3943,book,0.3911
-401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,4.5,False,0.1994,0.2378,book,0.2349
-401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,5.5,False,0.1048,0.1345,book,0.1323
+401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,0.5,False,0.9298,0.9385,est,0.9379
+401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,1.5,False,0.7649,0.7895,est,0.7876
+401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,2.5,True,0.5536,0.5884,book,0.5858
+401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,3.5,False,0.3517,0.3994,book,0.3958
+401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,4.5,False,0.1994,0.2415,book,0.2383
+401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,reb,5.5,False,0.1048,0.1364,book,0.134
 401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,ast,0.5,False,0.9544,0.9554,est,0.9553
 401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,ast,1.5,False,0.8309,0.8343,est,0.8341
 401909288,BOS @ CHA,BOS,1630202,Payton Pritchard,ast,2.5,False,0.6523,0.6514,book,0.6515
@@ -2500,13 +2500,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,pts,28.5,False,0.3176,0.433,est,0.4244
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,pts,29.5,False,0.2885,0.3995,est,0.3912
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,pts,30.5,False,0.258,0.3633,est,0.3554
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,4.5,False,0.8363,0.8178,book,0.8192
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,5.5,False,0.7269,0.7157,book,0.7165
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,6.5,False,0.6027,0.5897,book,0.5907
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,7.5,True,0.4722,0.4627,book,0.4634
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,8.5,False,0.3504,0.3374,book,0.3384
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,9.5,False,0.2471,0.2372,book,0.2379
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,10.5,False,0.1673,0.1579,book,0.1586
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,4.5,False,0.8363,0.822,book,0.8231
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,5.5,False,0.7269,0.7222,book,0.7226
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,6.5,False,0.6027,0.5972,book,0.5976
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,7.5,True,0.4722,0.465,book,0.4655
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,8.5,False,0.3504,0.3436,book,0.3441
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,9.5,False,0.2471,0.2427,book,0.243
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,reb,10.5,False,0.1673,0.1623,book,0.1627
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ast,3.5,False,0.8257,0.854,book,0.8519
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ast,4.5,False,0.6915,0.7559,book,0.7511
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ast,5.5,False,0.5489,0.6251,book,0.6194
@@ -2553,13 +2553,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,pa,35.5,False,0.3052,0.4296,est,0.4203
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,pa,36.5,False,0.2768,0.3962,est,0.3873
 401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,pa,37.5,False,0.2497,0.3633,est,0.3548
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,10.5,False,0.7494,0.7755,est,0.7735
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,11.5,False,0.6657,0.697,est,0.6947
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,12.5,False,0.5767,0.6115,est,0.6089
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,13.5,True,0.4864,0.5224,book,0.5197
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,14.5,False,0.3985,0.4335,est,0.4309
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,15.5,False,0.3176,0.3496,est,0.3472
-401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,16.5,False,0.2453,0.2729,est,0.2709
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,10.5,False,0.7494,0.7809,est,0.7785
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,11.5,False,0.6657,0.7036,est,0.7007
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,12.5,False,0.5767,0.6189,est,0.6157
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,13.5,True,0.4864,0.5302,book,0.5269
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,14.5,False,0.3985,0.4412,est,0.438
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,15.5,False,0.3176,0.3568,est,0.3538
+401909288,BOS @ CHA,BOS,1628369,Jayson Tatum,ra,16.5,False,0.2453,0.2792,est,0.2766
 401909288,BOS @ CHA,BOS,1641775,Jordan Walsh,pts,0.5,False,0.9107,,model only,0.9107
 401909288,BOS @ CHA,BOS,1641775,Jordan Walsh,pts,1.5,False,0.7675,,model only,0.7675
 401909288,BOS @ CHA,BOS,1641775,Jordan Walsh,pts,2.5,False,0.6047,,model only,0.6047
@@ -2655,26 +2655,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909288,BOS @ CHA,BOS,1628401,Derrick White,blk,0.5,False,0.5151,,model only,0.5151
 401909288,BOS @ CHA,BOS,1628401,Derrick White,blk,1.5,False,0.1747,,model only,0.1747
 401909288,BOS @ CHA,BOS,1628401,Derrick White,blk,2.5,False,0.0437,,model only,0.0437
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,16.5,False,0.7132,0.7619,est,0.7582
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,17.5,False,0.6589,0.7131,est,0.709
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,18.5,False,0.6033,0.6619,est,0.6575
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,19.5,False,0.5445,0.6101,book,0.6052
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,20.5,False,0.4892,0.552,est,0.5473
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,21.5,True,0.4362,0.4989,book,0.4942
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,22.5,False,0.3849,0.4461,est,0.4415
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,23.5,False,0.3351,0.3934,est,0.3891
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,24.5,False,0.2923,0.3436,book,0.3398
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,25.5,False,0.2532,0.3037,est,0.2999
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,26.5,False,0.2157,0.2613,est,0.2579
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,12.5,False,0.7218,0.7625,est,0.7595
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,13.5,False,0.6578,0.7041,est,0.7006
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,14.5,False,0.5942,0.6321,book,0.6293
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,15.5,False,0.5289,0.5815,est,0.5775
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,16.5,True,0.4668,0.5201,book,0.5161
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,17.5,False,0.4084,0.4607,est,0.4568
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,18.5,False,0.3537,0.4039,est,0.4001
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,19.5,False,0.3017,0.35,book,0.3464
-401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,20.5,False,0.2592,0.3022,est,0.299
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,16.5,False,0.7132,0.7626,est,0.7589
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,17.5,False,0.6589,0.7139,est,0.7098
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,18.5,False,0.6033,0.6628,est,0.6583
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,19.5,False,0.5445,0.6112,book,0.6062
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,20.5,False,0.4892,0.553,est,0.5482
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,21.5,True,0.4362,0.4999,book,0.4951
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,22.5,False,0.3849,0.4471,est,0.4424
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,23.5,False,0.3351,0.3944,est,0.3899
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,24.5,False,0.2923,0.3449,book,0.341
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,25.5,False,0.2532,0.3046,est,0.3007
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pra,26.5,False,0.2157,0.2621,est,0.2586
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,12.5,False,0.7218,0.7646,est,0.7614
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,13.5,False,0.6578,0.7064,est,0.7027
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,14.5,False,0.5942,0.6388,book,0.6355
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,15.5,False,0.5289,0.5842,est,0.5801
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,16.5,True,0.4668,0.5229,book,0.5187
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,17.5,False,0.4084,0.4635,est,0.4594
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,18.5,False,0.3537,0.4066,est,0.4026
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,19.5,False,0.3017,0.354,book,0.3501
+401909288,BOS @ CHA,BOS,1628401,Derrick White,pr,20.5,False,0.2592,0.3046,est,0.3012
 401909288,BOS @ CHA,BOS,1628401,Derrick White,pa,13.5,False,0.6872,0.7474,est,0.7429
 401909288,BOS @ CHA,BOS,1628401,Derrick White,pa,14.5,False,0.6256,0.6906,book,0.6857
 401909288,BOS @ CHA,BOS,1628401,Derrick White,pa,15.5,False,0.5622,0.6336,est,0.6282
