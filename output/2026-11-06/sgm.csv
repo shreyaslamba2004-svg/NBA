@@ -42,18 +42,18 @@ MIN @ NOP,NOP +4.5 + Jaden McDaniels 10+ pts,2,0.5681,0.4143,2.41,2.53,2.16,-0.1
 MIN @ NOP,Trey Murphy III pra under 23.5 + Jaden McDaniels 10+ pts,2,0.5376,0.4322,2.31,2.43,2.06,-0.111,0.999,1.85-2.10
 MIN @ NOP,Trey Murphy III pts under 15.5 + Jaden McDaniels 10+ pts,2,0.5442,0.4381,2.28,2.4,2.03,-0.112,0.998,1.85-2.10
 MIN @ NOP,Trey Murphy III pa under 18.5 + Jaden McDaniels 10+ pts,2,0.5298,0.4265,2.34,2.46,2.08,-0.1125,0.997,1.85-2.10
-POR @ LAL,game over 232.5 + Quentin Grimes 5+ pr,2,0.343,0.4256,2.35,2.47,2.21,-0.0598,1.023,2.10-2.50
-POR @ LAL,LAL win + Quentin Grimes 5+ pr,2,0.6027,0.4769,2.1,2.2,1.93,-0.0776,1.009,1.85-2.10
-POR @ LAL,LAL -3.5 + Quentin Grimes 5+ pr,2,0.5245,0.4149,2.41,2.53,2.22,-0.079,1.011,2.10-2.50
+POR @ LAL,game over 232.5 + Quentin Grimes 5+ pr,2,0.343,0.4284,2.33,2.45,2.19,-0.0604,1.023,2.10-2.50
+POR @ LAL,LAL win + Quentin Grimes 5+ pr,2,0.6027,0.4801,2.08,2.19,1.92,-0.0781,1.009,1.85-2.10
+POR @ LAL,LAL -3.5 + Quentin Grimes 5+ pr,2,0.5245,0.4177,2.39,2.51,2.2,-0.0795,1.011,2.10-2.50
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Damian Lillard 4+ ast,2,0.6219,0.3672,2.72,2.86,2.5,-0.0835,0.998,2.10-2.50
-POR @ LAL,Matisse Thybulle 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.7234,0.4774,2.09,2.2,1.9,-0.0922,0.999,1.85-2.10
-POR @ LAL,Ziaire Williams 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.6845,0.5152,1.94,2.04,1.73,-0.1068,0.997,1.65-1.85
-SAS @ SAC,game over 229.5 + Devin Vassell 15+ pra,2,0.4197,0.3972,2.52,2.64,2.4,-0.046,1.049,2.10-2.50
-SAS @ SAC,SAS win + Malik Monk pa under 16.5,2,0.5625,0.4475,2.23,2.35,2.13,-0.0481,1.026,2.10-2.50
-SAS @ SAC,SAS win + Malik Monk pts under 12.5,2,0.5516,0.4533,2.21,2.32,2.09,-0.0522,1.026,1.85-2.10
-SAS @ SAC,SAS win + Malik Monk pra under 19.5,2,0.5807,0.4643,2.15,2.26,2.04,-0.0526,1.022,1.85-2.10
-SAS @ SAC,SAS win + Malik Monk pr under 15.5,2,0.5711,0.4743,2.11,2.21,1.99,-0.057,1.022,1.85-2.10
-SAS @ SAC,SAS -15.5 + Devin Vassell 15+ pra,2,0.3466,0.3888,2.57,2.7,2.42,-0.0576,1.038,2.10-2.50
-SAS @ SAC,SAS win + Precious Achiuwa 10+ pra + Devin Vassell 15+ pra,3,0.6249,0.5725,1.75,1.83,1.51,-0.1365,1.012,1.50-1.65
-SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 15+ pra,3,0.5989,0.5277,1.9,1.99,1.64,-0.1373,1.007,1.50-1.65
-SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 10+ pa,3,0.6445,0.558,1.79,1.88,1.54,-0.1384,1.004,1.50-1.65
+POR @ LAL,Matisse Thybulle 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.7234,0.4806,2.08,2.18,1.89,-0.0927,0.999,1.85-2.10
+POR @ LAL,Ziaire Williams 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.6845,0.5187,1.93,2.02,1.72,-0.1073,0.997,1.65-1.85
+SAS @ SAC,game over 229.5 + Devin Vassell 15+ pra,2,0.4197,0.3947,2.53,2.66,2.42,-0.0455,1.049,2.10-2.50
+SAS @ SAC,SAS win + Malik Monk pra under 18.5,2,0.5441,0.4382,2.28,2.4,2.17,-0.0505,1.025,2.10-2.50
+SAS @ SAC,SAS win + Malik Monk pa under 16.5,2,0.5625,0.4629,2.16,2.27,2.05,-0.0518,1.026,1.85-2.10
+SAS @ SAC,SAS win + Malik Monk pr under 14.5,2,0.5292,0.4404,2.27,2.38,2.15,-0.0548,1.024,2.10-2.50
+SAS @ SAC,SAS win + Malik Monk pts under 12.5,2,0.5516,0.4714,2.12,2.23,2.0,-0.0561,1.026,1.85-2.10
+SAS @ SAC,SAS win + Malik Monk ra under 6.5,2,0.5423,0.4514,2.22,2.33,2.06,-0.0679,1.008,1.85-2.10
+SAS @ SAC,SAS win + Precious Achiuwa 10+ pra + Devin Vassell 15+ pra,3,0.6249,0.5689,1.76,1.85,1.52,-0.136,1.012,1.50-1.65
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 15+ pra,3,0.5989,0.5244,1.91,2.0,1.65,-0.1368,1.007,1.50-1.65
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 10+ pa,3,0.6445,0.5617,1.78,1.87,1.53,-0.139,1.004,1.50-1.65
