@@ -46,7 +46,7 @@ def commit(msg: str) -> None:
         return
     sh(f'git commit -q -m "{msg}"')
     for _ in range(4):
-        if sh("git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main") == 0:
+        if sh("git pull -q --rebase --autostash -X theirs origin main && git push -q origin HEAD:main") == 0:
             return
         time.sleep(15)
 

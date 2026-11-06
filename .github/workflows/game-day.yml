@@ -61,7 +61,7 @@ jobs:
             git add -f TODAY.md LADDERS.md logs output data/processed/current_season_* data/processed/espn_crosswalk.json || true
             if ! git diff --cached --quiet; then
               git commit -m "projections $(date -u +%Y-%m-%dT%H:%MZ)"
-              git pull --rebase origin "${GITHUB_REF_NAME}" && git push
+              git pull --rebase --autostash -X theirs origin "${GITHUB_REF_NAME}" && git push
             fi
           fi
       - name: Hand over to the next run
