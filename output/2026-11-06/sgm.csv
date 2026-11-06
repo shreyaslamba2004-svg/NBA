@@ -19,10 +19,12 @@ BOS @ CHA,Coby White 15+ pra + Grayson Allen 15+ pra,2,0.7174,0.5825,1.72,1.8,1.
 BOS @ CHA,BOS win + Sam Hauser 5+ pr + Royce O'Neale 5+ pr,3,0.6421,0.5249,1.9,2.0,1.66,-0.1286,1.003,1.65-1.85
 BOS @ CHA,BOS win + Sam Hauser 5+ pr + Coby White 1+ 3pm,3,0.6164,0.5132,1.95,2.05,1.69,-0.1318,1.001,1.65-1.85
 BOS @ CHA,BOS win + Sam Hauser 5+ pr + Coby White 15+ pra,3,0.5821,0.4709,2.12,2.23,1.83,-0.1396,0.99,1.65-1.85
-PHI @ CLE,PHI -2.5 + Jaylen Brown 1+ 3pm,2,0.3494,0.3842,2.6,2.73,2.45,-0.06,1.014,2.10-2.50
-PHI @ CLE,PHI win + Jaylen Brown 1+ 3pm,2,0.3981,0.436,2.29,2.41,2.13,-0.0715,1.012,2.10-2.50
-PHI @ CLE,PHI -2.5 + Evan Mobley 1+ blk,2,0.3397,0.3796,2.63,2.77,2.43,-0.0769,0.997,2.10-2.50
-PHI @ CLE,Jaylen Brown 1+ 3pm + Evan Mobley 1+ blk,2,0.6991,0.5698,1.75,1.84,1.56,-0.1105,1.001,1.50-1.65
+PHI @ CLE,Joel Embiid pts under 21.5 + James Harden 1+ 3pm,2,0.5016,0.4342,2.3,2.42,2.17,-0.0591,0.997,2.10-2.50
+PHI @ CLE,Joel Embiid pts under 21.5 + Peyton Watson 10+ pr,2,0.4828,0.4034,2.48,2.6,2.33,-0.0598,0.993,2.10-2.50
+PHI @ CLE,Tyrese Maxey pts under 25.5 + Peyton Watson 10+ pr,2,0.5844,0.4045,2.47,2.6,2.3,-0.07,0.997,2.10-2.50
+PHI @ CLE,PHI win + James Harden 1+ 3pm,2,0.4348,0.4814,2.08,2.18,1.89,-0.0921,0.992,1.85-2.10
+PHI @ CLE,PHI win + Peyton Watson 10+ pr,2,0.4169,0.4454,2.25,2.36,2.03,-0.0964,0.984,1.85-2.10
+PHI @ CLE,Mario Hezonja pts under 9.5 + James Harden 1+ 3pm,2,0.5975,0.4387,2.28,2.39,2.05,-0.1006,0.997,1.85-2.10
 UTA @ DAL,UTA +6.5 + Ace Bailey 10+ pa,2,0.3481,0.4189,2.39,2.51,2.25,-0.0582,1.035,2.10-2.50
 UTA @ DAL,DAL win + Jaxson Hayes pra under 16.5,2,0.5109,0.3761,2.66,2.79,2.49,-0.062,1.018,2.10-2.50
 UTA @ DAL,UTA +6.5 + Ace Bailey 1+ 3pm,2,0.3406,0.4106,2.44,2.56,2.26,-0.0711,1.021,2.10-2.50
@@ -37,12 +39,13 @@ OKC @ MEM,OKC -4.5 + Jared McCain 10+ pa,2,0.4232,0.392,2.55,2.68,2.36,-0.0745,1
 OKC @ MEM,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5343,0.4942,2.02,2.12,1.87,-0.0772,1.015,1.85-2.10
 OKC @ MEM,game over 224.5 + Shai Gilgeous-Alexander 4+ ast,2,0.519,0.401,2.49,2.62,2.29,-0.0807,1.023,2.10-2.50
 OKC @ MEM,Cedric Coward ra under 10.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5697,0.4338,2.31,2.42,2.07,-0.1017,1.001,1.85-2.10
-TOR @ MIL,game over 229.5 + AJ Green 5+ pra,2,0.4279,0.4189,2.39,2.51,2.24,-0.0618,1.02,2.10-2.50
-TOR @ MIL,TOR win + AJ Green 5+ pra,2,0.5782,0.5048,1.98,2.08,1.86,-0.0635,0.988,1.85-2.10
-TOR @ MIL,MIL +4.5 + AJ Green 5+ pra,2,0.428,0.4126,2.42,2.54,2.24,-0.076,1.017,2.10-2.50
-TOR @ MIL,Jamal Shead 3pm under 1.5 + AJ Green 5+ pra,2,0.6767,0.4113,2.43,2.55,2.23,-0.0832,0.999,2.10-2.50
-TOR @ MIL,Jamal Shead pts under 11.5 + AJ Green 5+ pra,2,0.6986,0.438,2.28,2.4,2.09,-0.0858,1.0,1.85-2.10
-TOR @ MIL,Jamal Shead ast under 8.5 + AJ Green 5+ pra,2,0.6969,0.4451,2.25,2.36,2.05,-0.0874,1.001,1.85-2.10
+TOR @ MIL,TOR win + Brayden Burries stl under 1.5,2,0.5291,0.4195,2.38,2.5,2.29,-0.0401,0.999,2.10-2.50
+TOR @ MIL,TOR win + AJ Green 5+ pra,2,0.5531,0.506,1.98,2.08,1.86,-0.0613,0.99,1.85-2.10
+TOR @ MIL,game over 229.5 + AJ Green 5+ pra,2,0.4214,0.4183,2.39,2.51,2.24,-0.0631,1.018,2.10-2.50
+TOR @ MIL,MIL +4.5 + AJ Green 5+ pra,2,0.4578,0.4105,2.44,2.56,2.24,-0.0807,1.012,2.10-2.50
+TOR @ MIL,Brayden Burries pa under 13.5 + AJ Green 5+ pra,2,0.6824,0.4421,2.26,2.37,2.06,-0.0903,0.999,1.85-2.10
+TOR @ MIL,Jamal Shead ast under 8.5 + AJ Green 5+ pra,2,0.6273,0.4406,2.27,2.38,2.05,-0.0967,1.001,1.85-2.10
+TOR @ MIL,Brayden Burries stl under 1.5 + AJ Green 5+ pra,2,0.779,0.5556,1.8,1.89,1.62,-0.0983,1.001,1.50-1.65
 MIN @ NOP,MIN win + Jaden McDaniels 10+ pts,2,0.4504,0.5048,1.98,2.08,1.85,-0.0676,1.017,1.65-1.85
 MIN @ NOP,MIN -3.5 + Jaden McDaniels 10+ pts,2,0.3685,0.4297,2.33,2.44,2.14,-0.0796,1.019,2.10-2.50
 MIN @ NOP,game over 230.5 + Jaden McDaniels 10+ pts,2,0.5755,0.4281,2.34,2.45,2.14,-0.0831,1.021,2.10-2.50
@@ -56,7 +59,7 @@ POR @ LAL,LAL win + Quentin Grimes 5+ pr,2,0.6027,0.492,2.03,2.13,1.88,-0.0763,1
 POR @ LAL,LAL -3.5 + Quentin Grimes 5+ pr,2,0.5245,0.4178,2.39,2.51,2.2,-0.0793,1.011,2.10-2.50
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Damian Lillard 4+ ast,2,0.6219,0.3672,2.72,2.86,2.5,-0.0835,0.998,2.10-2.50
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.7234,0.4806,2.08,2.18,1.89,-0.0927,0.999,1.85-2.10
-POR @ LAL,Ziaire Williams 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.6845,0.5187,1.93,2.02,1.72,-0.1073,0.997,1.65-1.85
+POR @ LAL,Ziaire Williams 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.6845,0.5,2.0,2.1,1.79,-0.1039,0.997,1.65-1.85
 SAS @ SAC,SAS win + Malik Monk pra under 18.5,2,0.5441,0.4537,2.2,2.31,2.11,-0.0431,1.025,2.10-2.50
 SAS @ SAC,SAS win + Malik Monk pa under 16.5,2,0.5625,0.4764,2.1,2.2,2.01,-0.0436,1.026,1.85-2.10
 SAS @ SAC,SAS win + Malik Monk pr under 14.5,2,0.5292,0.4645,2.15,2.26,2.05,-0.0492,1.024,1.85-2.10
