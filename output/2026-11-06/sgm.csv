@@ -20,9 +20,9 @@ BOS @ CHA,BOS win + Royce O'Neale 5+ pa,2,0.6202,0.5616,1.78,1.87,1.61,-0.0982,0
 BOS @ CHA,BOS win + Sam Hauser 5+ pr + Sion James 5+ pa,3,0.6405,0.5007,2.0,2.1,1.73,-0.1352,1.0,1.65-1.85
 BOS @ CHA,BOS win + Sam Hauser 5+ pr + Naz Reid 1+ 3pm,3,0.6373,0.5106,1.96,2.06,1.69,-0.136,1.001,1.65-1.85
 BOS @ CHA,BOS win + Sion James 5+ pa + Naz Reid 1+ 3pm,3,0.6482,0.5317,1.88,1.97,1.6,-0.147,0.99,1.50-1.65
-PHI @ CLE,PHI win + Evan Mobley 1+ blk,2,0.3927,0.4056,2.47,2.59,2.28,-0.0733,1.007,2.10-2.50
-PHI @ CLE,Tyrese Maxey pr under 29.5 + Evan Mobley 1+ blk,2,0.5456,0.3697,2.71,2.84,2.44,-0.0975,0.997,2.10-2.50
-PHI @ CLE,Joel Embiid 4+ ast + Evan Mobley 1+ blk,2,0.4948,0.3678,2.72,2.85,2.45,-0.0986,1.004,2.10-2.50
+PHI @ CLE,CLE +2.5 + Evan Mobley 1+ blk,2,0.4912,0.3761,2.66,2.79,2.44,-0.0835,1.002,2.10-2.50
+PHI @ CLE,game over 231.5 + Evan Mobley 1+ blk,2,0.3259,0.3869,2.58,2.71,2.36,-0.086,1.016,2.10-2.50
+PHI @ CLE,PHI win + Evan Mobley 1+ blk,2,0.3879,0.428,2.34,2.45,2.13,-0.087,0.998,2.10-2.50
 UTA @ DAL,UTA +7.5 + Ace Bailey 10+ pa,2,0.3737,0.4267,2.34,2.46,2.19,-0.064,1.034,2.10-2.50
 UTA @ DAL,game over 226.5 + Ace Bailey 10+ pa,2,0.6993,0.4193,2.39,2.5,2.19,-0.0804,1.016,2.10-2.50
 UTA @ DAL,DAL win + Ace Bailey 10+ pa,2,0.6699,0.5642,1.77,1.86,1.6,-0.0956,0.989,1.50-1.65
@@ -45,13 +45,13 @@ POR @ LAL,LAL -3.5 + Quentin Grimes 5+ pr,2,0.5245,0.4177,2.39,2.51,2.2,-0.0795,
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Damian Lillard 4+ ast,2,0.6219,0.3672,2.72,2.86,2.5,-0.0835,0.998,2.10-2.50
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.7234,0.4806,2.08,2.18,1.89,-0.0927,0.999,1.85-2.10
 POR @ LAL,Ziaire Williams 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.6845,0.5187,1.93,2.02,1.72,-0.1073,0.997,1.65-1.85
-SAS @ SAC,game over 229.5 + Darius Acuff Jr. 25+ pra,2,0.4451,0.417,2.4,2.52,2.29,-0.0459,1.048,2.10-2.50
-SAS @ SAC,SAS win + Malik Monk pra under 18.5,2,0.5441,0.4382,2.28,2.4,2.17,-0.0505,1.025,2.10-2.50
-SAS @ SAC,SAS win + Malik Monk pa under 16.5,2,0.5625,0.4612,2.17,2.28,2.06,-0.0514,1.026,1.85-2.10
-SAS @ SAC,SAS win + Malik Monk pr under 14.5,2,0.5292,0.4544,2.2,2.31,2.07,-0.0579,1.024,1.85-2.10
-SAS @ SAC,game over 229.5 + Devin Vassell 10+ pa,2,0.4451,0.4158,2.41,2.53,2.26,-0.0614,1.031,2.10-2.50
-SAS @ SAC,SAS win + Malik Monk ra under 6.5,2,0.5423,0.4514,2.22,2.33,2.06,-0.0679,1.008,1.85-2.10
+SAS @ SAC,game over 229.5 + Darius Acuff Jr. 25+ pra,2,0.4451,0.4212,2.37,2.49,2.26,-0.0467,1.048,2.10-2.50
+SAS @ SAC,SAS win + Malik Monk pra under 18.5,2,0.5441,0.4473,2.24,2.35,2.12,-0.0528,1.025,2.10-2.50
+SAS @ SAC,SAS win + Malik Monk pa under 16.5,2,0.5625,0.4725,2.12,2.22,2.0,-0.0539,1.026,1.85-2.10
+SAS @ SAC,SAS win + Malik Monk 3pm under 1.5,2,0.4754,0.4088,2.45,2.57,2.3,-0.0609,1.021,2.10-2.50
+SAS @ SAC,SAS win + Malik Monk ra under 6.5,2,0.5423,0.4481,2.23,2.34,2.08,-0.0672,1.008,1.85-2.10
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ reb,2,0.4999,0.4453,2.25,2.36,2.07,-0.0766,1.002,1.85-2.10
 SAS @ SAC,SAS win + Julian Champagnie 3pm under 2.5,2,0.5868,0.5055,1.98,2.08,1.79,-0.095,0.984,1.65-1.85
 SAS @ SAC,Julian Champagnie 3pm under 2.5 + Precious Achiuwa 5+ pa,2,0.71,0.509,1.96,2.06,1.77,-0.0998,1.0,1.65-1.85
-SAS @ SAC,Julian Champagnie 3pm under 2.5 + Precious Achiuwa 10+ pra,2,0.6986,0.5048,1.98,2.08,1.78,-0.1015,0.999,1.65-1.85
-SAS @ SAC,SAS win + Devin Vassell 10+ pa + Darius Acuff Jr. 25+ pra,3,0.6113,0.5605,1.78,1.87,1.52,-0.1455,1.001,1.50-1.65
+SAS @ SAC,Julian Champagnie 3pm under 2.5 + Precious Achiuwa 10+ pra,2,0.6986,0.5039,1.98,2.08,1.78,-0.1014,0.999,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 10+ pa + Darius Acuff Jr. 25+ pra,3,0.6113,0.5676,1.76,1.85,1.5,-0.1465,1.001,1.50-1.65
