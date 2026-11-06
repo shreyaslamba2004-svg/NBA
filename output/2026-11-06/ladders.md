@@ -1,6 +1,6 @@
 # Line ladders · Fri 06 Nov 2026 (US date)
 
-Updated **Sat 07 Nov, 08:37 AM** Sydney time. Back to [TODAY.md](../../TODAY.md).
+Updated **Sat 07 Nov, 08:42 AM** Sydney time. Back to [TODAY.md](../../TODAY.md).
 
 For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: *book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for a player are left out. Use the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake.
 
@@ -1181,10 +1181,10 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | AST | 5.5 | 18% | 5.64 | 82% | 1.22 | book |
 | AST | 6.5 | 10% | 10.31 | 90% | 1.11 | book |
 | 3PM | 0.5 | 90% | 1.11 | 10% | 9.75 | book |
-| 3PM | 1.5 | 74% | 1.35 | 26% | 3.86 | book |
+| 3PM | 1.5 | 74% | 1.35 | 26% | 3.88 | book |
 | 3PM | 2.5 ★ | 52% | 1.91 | 48% | 2.10 | book |
-| 3PM | 3.5 | 32% | 3.17 | 68% | 1.46 | book |
-| 3PM | 4.5 | 17% | 5.83 | 83% | 1.21 | book |
+| 3PM | 3.5 | 32% | 3.16 | 68% | 1.46 | book |
+| 3PM | 4.5 | 17% | 5.81 | 83% | 1.21 | book |
 | STL | 0.5 | 79% | 1.26 | 21% | 4.85 | book |
 | STL | 1.5 ★ | 51% | 1.96 | 49% | 2.04 | book |
 | STL | 2.5 | 26% | 3.80 | 74% | 1.36 | book |
@@ -1241,25 +1241,25 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 2.5 | 91% | 1.10 | 9% | 10.54 | est |
-| PTS | 3.5 | 82% | 1.21 | 18% | 5.69 | est |
-| PTS | 4.5 | 73% | 1.37 | 27% | 3.68 | est |
-| PTS | 5.5 | 62% | 1.62 | 38% | 2.63 | book |
-| PTS | 6.5 ★ | 51% | 1.95 | 49% | 2.05 | book |
-| PTS | 7.5 | 47% | 2.12 | 53% | 1.89 | book |
-| PTS | 8.5 | 33% | 3.01 | 67% | 1.50 | est |
-| PTS | 9.5 | 31% | 3.22 | 69% | 1.45 | book |
-| PTS | 10.5 | 20% | 5.07 | 80% | 1.25 | est |
+| PTS | 2.5 | 90% | 1.11 | 10% | 10.46 | est |
+| PTS | 3.5 | 82% | 1.21 | 18% | 5.65 | est |
+| PTS | 4.5 | 73% | 1.38 | 27% | 3.66 | est |
+| PTS | 5.5 | 62% | 1.62 | 38% | 2.60 | book |
+| PTS | 6.5 ★ | 51% | 1.96 | 49% | 2.04 | book |
+| PTS | 7.5 | 47% | 2.14 | 53% | 1.88 | book |
+| PTS | 8.5 | 33% | 3.03 | 67% | 1.49 | est |
+| PTS | 9.5 | 31% | 3.27 | 69% | 1.44 | book |
+| PTS | 10.5 | 20% | 5.10 | 80% | 1.24 | est |
 | REB | 0.5 | 93% | 1.08 | 7% | 14.08 | est |
 | REB | 1.5 | 77% | 1.30 | 23% | 4.36 | est |
 | REB | 2.5 ★ | 57% | 1.77 | 43% | 2.31 | book |
 | REB | 3.5 | 38% | 2.61 | 62% | 1.62 | book |
 | REB | 4.5 | 24% | 4.22 | 76% | 1.31 | book |
 | REB | 5.5 | 14% | 7.32 | 86% | 1.16 | book |
-| 3PM | 0.5 | 81% | 1.24 | 19% | 5.21 | book |
-| 3PM | 1.5 ★ | 55% | 1.83 | 45% | 2.20 | book |
-| 3PM | 2.5 | 31% | 3.21 | 69% | 1.45 | book |
-| 3PM | 3.5 | 16% | 6.23 | 84% | 1.19 | book |
+| 3PM | 0.5 | 81% | 1.24 | 19% | 5.17 | book |
+| 3PM | 1.5 ★ | 54% | 1.84 | 46% | 2.19 | book |
+| 3PM | 2.5 | 31% | 3.26 | 69% | 1.44 | book |
+| 3PM | 3.5 | 16% | 6.41 | 84% | 1.18 | book |
 | PR | 6.5 | 80% | 1.25 | 20% | 4.96 | est |
 | PR | 7.5 | 72% | 1.38 | 28% | 3.61 | est |
 | PR | 8.5 | 64% | 1.56 | 36% | 2.78 | est |
@@ -1411,15 +1411,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 22.5 | 65% | 1.53 | 35% | 2.89 | est |
-| PTS | 23.5 | 61% | 1.63 | 39% | 2.60 | est |
-| PTS | 24.5 | 58% | 1.74 | 42% | 2.36 | est |
-| PTS | 25.5 | 54% | 1.86 | 46% | 2.17 | est |
-| PTS | 26.5 ★ | 50% | 2.00 | 50% | 2.00 | book |
-| PTS | 27.5 | 46% | 2.17 | 54% | 1.85 | est |
-| PTS | 28.5 | 42% | 2.38 | 58% | 1.73 | est |
-| PTS | 29.5 | 39% | 2.58 | 61% | 1.63 | est |
-| PTS | 30.5 | 35% | 2.84 | 65% | 1.54 | est |
+| PTS | 22.5 | 66% | 1.52 | 34% | 2.91 | est |
+| PTS | 23.5 | 62% | 1.62 | 38% | 2.62 | est |
+| PTS | 24.5 | 58% | 1.73 | 42% | 2.38 | est |
+| PTS | 25.5 | 54% | 1.85 | 46% | 2.18 | est |
+| PTS | 26.5 ★ | 50% | 1.99 | 50% | 2.01 | book |
+| PTS | 27.5 | 46% | 2.16 | 54% | 1.86 | est |
+| PTS | 28.5 | 42% | 2.36 | 58% | 1.74 | est |
+| PTS | 29.5 | 39% | 2.56 | 61% | 1.64 | est |
+| PTS | 30.5 | 36% | 2.81 | 64% | 1.55 | est |
 | REB | 4.5 | 82% | 1.22 | 18% | 5.53 | book |
 | REB | 5.5 | 72% | 1.40 | 28% | 3.53 | book |
 | REB | 6.5 | 59% | 1.69 | 41% | 2.44 | book |
@@ -1509,7 +1509,7 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | AST | 6.5 | 19% | 5.16 | 81% | 1.24 | book |
 | AST | 7.5 | 11% | 8.98 | 89% | 1.13 | book |
 | 3PM | 0.5 | 84% | 1.19 | 16% | 6.30 | book |
-| 3PM | 1.5 ★ | 59% | 1.69 | 41% | 2.46 | book |
+| 3PM | 1.5 ★ | 60% | 1.68 | 40% | 2.48 | book |
 | 3PM | 2.5 | 35% | 2.89 | 65% | 1.53 | book |
 | 3PM | 3.5 | 17% | 5.85 | 83% | 1.21 | book |
 | STL | 0.5 | 63% | 1.59 | 37% | 2.68 | book |
@@ -1526,15 +1526,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | PRA | 24.5 | 34% | 2.94 | 66% | 1.51 | book |
 | PRA | 25.5 | 30% | 3.33 | 70% | 1.43 | est |
 | PRA | 26.5 | 26% | 3.88 | 74% | 1.35 | est |
-| PR | 12.5 | 76% | 1.32 | 24% | 4.11 | est |
-| PR | 13.5 | 70% | 1.43 | 30% | 3.30 | est |
+| PR | 12.5 | 76% | 1.32 | 24% | 4.16 | est |
+| PR | 13.5 | 70% | 1.43 | 30% | 3.34 | est |
 | PR | 14.5 | 63% | 1.59 | 37% | 2.70 | book |
-| PR | 15.5 | 57% | 1.74 | 43% | 2.34 | est |
-| PR | 16.5 ★ | 51% | 1.95 | 49% | 2.05 | book |
-| PR | 17.5 | 45% | 2.21 | 55% | 1.83 | est |
-| PR | 18.5 | 40% | 2.53 | 60% | 1.66 | est |
+| PR | 15.5 | 58% | 1.73 | 42% | 2.37 | est |
+| PR | 16.5 ★ | 52% | 1.94 | 48% | 2.07 | book |
+| PR | 17.5 | 46% | 2.19 | 54% | 1.84 | est |
+| PR | 18.5 | 40% | 2.50 | 60% | 1.67 | est |
 | PR | 19.5 | 35% | 2.89 | 65% | 1.53 | book |
-| PR | 20.5 | 30% | 3.39 | 70% | 1.42 | est |
+| PR | 20.5 | 30% | 3.34 | 70% | 1.43 | est |
 | PA | 13.5 | 74% | 1.35 | 26% | 3.89 | est |
 | PA | 14.5 | 69% | 1.46 | 31% | 3.18 | book |
 | PA | 15.5 | 63% | 1.59 | 37% | 2.69 | est |
