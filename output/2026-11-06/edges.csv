@@ -3,16 +3,14 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909295,SAS @ SAC,moneyline,SAC,,,,betfair_ex_au,760.0,8.6,0.199,5.03,0.1138,0.1279,0.0711,2.17,0.7114,0.1279,0.1,0.0033,False,True,True,,,
 401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,1440.0,15.4,0.1435,6.97,0.0607,0.0607,0.0829,,1.2106,0.0669,0.0303,0.0005,False,False,False,Scottie Barnes,0.0,0.1465
 401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,11.5,draftkings,2300.0,24.0,0.0906,11.03,0.0389,0.0389,0.0517,,1.1753,0.0428,0.0276,0.0003,False,True,False,Scottie Barnes,0.0,0.0929
-401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1420.0,15.2,0.1411,7.09,0.0615,0.0615,0.0796,,1.1447,0.0675,0.0253,0.0004,False,False,False,,,
-401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2400.0,25.0,0.0854,11.71,0.0374,0.0374,0.048,,1.1356,0.041,0.0247,0.0003,False,True,False,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,betr_au,700.0,8.0,0.199,5.03,0.1199,0.1279,0.0711,4.24,0.592,0.1279,0.0233,0.0008,False,True,True,,,
+401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1400.0,15.0,0.1411,7.09,0.0623,0.0623,0.0788,,1.1165,0.0682,0.0232,0.0004,False,False,False,,,
+401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2300.0,24.0,0.0854,11.71,0.0389,0.0389,0.0465,,1.0502,0.0424,0.0183,0.0002,False,True,False,,,
 401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,850.0,9.5,0.2145,4.66,0.0984,0.0984,0.1162,,1.0382,0.1071,0.0173,0.0005,False,True,False,Scottie Barnes,0.0,0.218
 401909289,PHI @ CLE,moneyline,CLE,,,,tab,135.0,2.35,0.5294,1.89,0.4082,0.4317,0.0977,4.24,0.2441,0.4317,0.0145,0.0027,False,True,True,,,
+401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,780.0,8.8,0.2244,4.46,0.1062,0.1062,0.1182,,0.975,0.1151,0.0126,0.0004,False,True,False,,,
 401909287,WAS @ ATL,moneyline,WAS,,,,betfair_ex_au,237.5,3.38,0.3566,2.8,0.2889,0.2998,0.0568,2.56,0.2036,0.2998,0.012,0.0013,False,True,True,Jalen Johnson,0.3937,0.3373
 401909291,OKC @ MEM,moneyline,MEM,,,,draftkings,142.0,2.42,0.3912,2.56,0.3962,0.4176,-0.0265,4.29,-0.0534,0.4176,0.0107,0.0019,False,True,True,,,
-401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,760.0,8.6,0.2244,4.46,0.1087,0.1087,0.1158,,0.9301,0.1174,0.0092,0.0003,False,True,False,,,
-401909290,UTA @ DAL,prop_pra,over,Kyrie Irving,202681.0,49.5,draftkings,1820.0,19.2,0.0983,10.17,0.0487,0.0487,0.0497,,0.8882,0.0524,0.0061,0.0001,False,True,False,,,
-401909290,UTA @ DAL,prop_pts,over,Kyrie Irving,202681.0,39.5,draftkings,2200.0,23.0,0.0812,12.31,0.0406,0.0406,0.0406,,0.8679,0.0437,0.0046,0.0001,False,True,False,,,
-401909290,UTA @ DAL,prop_pa,over,Kyrie Irving,202681.0,44.5,draftkings,1860.0,19.6,0.0947,10.56,0.0477,0.0477,0.047,,0.8556,0.0512,0.0037,0.0,False,True,False,,,
+401909290,UTA @ DAL,prop_pra,over,Kyrie Irving,202681.0,49.5,draftkings,1800.0,19.0,0.0983,10.17,0.0492,0.0492,0.0492,,0.8685,0.0529,0.0046,0.0001,False,True,False,,,
 401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,8.5,draftkings,491.0,5.91,0.3111,3.21,0.1581,0.1581,0.153,,0.8385,0.1696,0.0024,0.0001,True,False,False,Scottie Barnes,0.0,0.3127
 401909292,TOR @ MIL,moneyline,MIL,,,,betr_au,215.0,3.15,0.3194,3.13,0.3047,0.318,0.0015,4.2,0.0063,0.318,0.0016,0.0002,False,True,True,,,
