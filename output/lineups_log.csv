@@ -378,3 +378,6 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-06T23:35Z,WAS@ATL,25,False,none
 2026-11-06T23:35Z,BOS@CHA,25,False,none
 2026-11-06T23:35Z,PHI@CLE,55,False,none
+2026-11-06T23:40Z,WAS@ATL,20,False,espn
+2026-11-06T23:40Z,BOS@CHA,20,False,espn
+2026-11-06T23:40Z,PHI@CLE,50,False,none
