@@ -50,7 +50,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909288,CHA,1629675,Naz Reid,,,1.0,,,
 401909288,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401909288,CHA,203471,Dennis Schroder,Questionable,Injury/Illness-LeftSoreness,0.55,Schroder (thigh) is questionable for Friday's game against the Celtics.,,
-401909288,CHA,905281370,Hannes Steinbach,Out,GLeague-OnAssignment,0.0,,,
+401909288,CHA,905281370,Hannes Steinbach,Available,-,1.0,,,
 401909288,CHA,1629632,Coby White,,,1.0,,,
 401909288,CHA,1629684,Grant Williams,Out,Injury/Illness-RightHamstringStrain,0.0,The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday.,,
 401909288,BOS,1642269,Devin Carter,Out,GLeague-Two-Way,0.0,Carter (illness) practiced with the G League's Maine Celtics on Wednesday.,,
