@@ -1,6 +1,7 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909295,SAS @ SAC,moneyline,SAC,,,,sportsbet,900.0,10.0,0.1958,5.11,0.0958,0.1118,0.0839,4.34,0.9575,0.1118,0.1181,0.0033,False,True,True,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,betfair_ex_au,854.9999999999999,9.55,0.1958,5.11,0.1029,0.1118,0.0839,1.8,0.8694,0.1118,0.0677,0.002,False,True,True,,,
+401909289,PHI @ CLE,prop_reb,over,Evan Mobley,1630596.0,8.5,draftkings,111.0,2.11,0.5657,1.77,0.442,0.5006,0.065,7.23,0.1935,0.5055,0.0666,0.015,False,True,True,Jarrett Allen,0.6202,0.5613
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,11.5,draftkings,1940.0,20.4,0.1053,9.49,0.0458,0.0458,0.0595,,1.1491,0.0503,0.0257,0.0003,False,True,False,De'Andre Hunter,0.1429,0.0802
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,10.5,draftkings,1200.0,13.0,0.1633,6.12,0.0719,0.0719,0.0914,,1.1232,0.0787,0.0237,0.0005,False,False,False,De'Andre Hunter,0.2116,0.1284
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1380.0,14.8,0.1401,7.14,0.0631,0.0631,0.077,,1.0737,0.0689,0.02,0.0004,False,False,False,,,
@@ -10,11 +11,11 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,720.0,8.2,0.2384,4.2,0.114,0.114,0.1244,,0.9547,0.1233,0.0111,0.0004,False,True,False,De'Andre Hunter,0.2977,0.1986
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,760.0,8.6,0.2258,4.43,0.1087,0.1087,0.1171,,0.9418,0.1175,0.0101,0.0003,False,True,False,,,
 401909295,SAS @ SAC,prop_pr,over,Precious Achiuwa,1630173.0,24.5,draftkings,840.0,9.4,0.2038,4.91,0.0994,0.0994,0.1043,,0.9153,0.1072,0.0081,0.0002,False,True,False,De'Andre Hunter,0.2453,0.1602
-401909295,SAS @ SAC,prop_pa,over,Precious Achiuwa,1630173.0,19.5,draftkings,1240.0,13.4,0.1423,7.03,0.0697,0.0697,0.0726,,0.9073,0.0752,0.0075,0.0002,False,True,False,De'Andre Hunter,0.1696,0.1117
 401909287,WAS @ ATL,moneyline,WAS,,,,tab,270.0,3.7,0.388,2.58,0.26,0.2723,0.1157,3.93,0.4354,0.2723,0.0075,0.0007,False,True,True,,,
+401909295,SAS @ SAC,prop_pa,over,Precious Achiuwa,1630173.0,19.5,draftkings,1240.0,13.4,0.1423,7.03,0.0697,0.0697,0.0726,,0.9073,0.0752,0.0075,0.0002,False,True,False,De'Andre Hunter,0.1696,0.1117
 401909288,BOS @ CHA,moneyline,CHA,,,,tab,350.0,4.5,0.2408,4.15,0.2133,0.2238,0.0171,4.2,0.0838,0.2238,0.0071,0.0005,False,True,True,,,
-401909295,SAS @ SAC,moneyline,SAC,,,,betr_au,800.0,9.0,0.1958,5.11,0.1063,0.1118,0.0839,4.57,0.7618,0.1118,0.0063,0.0002,False,True,True,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,12.5,draftkings,2700.0,28.0,0.0675,14.81,0.0334,0.0334,0.0341,,0.8904,0.0359,0.0063,0.0001,False,False,False,De'Andre Hunter,0.0939,0.049
+401909295,SAS @ SAC,moneyline,SAC,,,,betr_au,800.0,9.0,0.1958,5.11,0.1063,0.1118,0.0839,4.57,0.7618,0.1118,0.0063,0.0002,False,True,True,,,
 401909295,SAS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,24.5,draftkings,595.0,6.95,0.2681,3.73,0.1345,0.1345,0.1336,,0.8632,0.1445,0.0042,0.0002,False,True,False,De'Andre Hunter,0.322,0.2154
 401909295,SAS @ SAC,prop_pr,over,Precious Achiuwa,1630173.0,29.5,draftkings,2100.0,22.0,0.0844,11.84,0.0425,0.0425,0.0419,,0.8575,0.0456,0.0038,0.0,False,True,False,,,
 401909288,BOS @ CHA,prop_pts,under,Ryan Kalkbrenner,1641750.0,6.5,tab,-111.0,1.9,0.6613,1.51,0.4929,0.5169,0.1445,6.74,0.2572,0.5277,0.0032,0.0009,False,False,True,,,
