@@ -37,7 +37,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909287,WAS,1629027,Trae Young,,,1.0,,,
 401909288,CHA,905176517,Michael Ajayi,Out,GLeague-Two-Way,0.0,,,
 401909288,CHA,1628960,Grayson Allen,,,1.0,,,
-401909288,CHA,905060701,Christian Anderson,Out,GLeague-OnAssignment,0.0,,,
+401909288,CHA,905060701,Christian Anderson,Available,-,1.0,,,
 401909288,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
 401909288,CHA,1631217,Moussa Diabate,Questionable,,0.55,Diabate (quadriceps) is questionable for Friday's game against the Celtics.,,
 401909288,CHA,1641790,PJ Hall,Out,GLeague-Two-Way,0.0,,,
