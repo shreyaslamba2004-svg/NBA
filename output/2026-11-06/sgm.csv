@@ -45,11 +45,13 @@ POR @ LAL,LAL -3.5 + Quentin Grimes 5+ pr,2,0.5245,0.4149,2.41,2.53,2.22,-0.079,
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Damian Lillard 4+ ast,2,0.6219,0.3672,2.72,2.86,2.5,-0.0835,0.998,2.10-2.50
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.7234,0.4774,2.09,2.2,1.9,-0.0922,0.999,1.85-2.10
 POR @ LAL,Ziaire Williams 3pm under 1.5 + Quentin Grimes 5+ pr,2,0.6845,0.5152,1.94,2.04,1.73,-0.1068,0.997,1.65-1.85
-SAS @ SAC,Malik Monk pts under 12.5 + SAS win,2,0.5516,0.4353,2.3,2.41,2.19,-0.0478,1.026,2.10-2.50
-SAS @ SAC,Malik Monk pra under 19.5 + SAS win,2,0.5807,0.4455,2.24,2.36,2.14,-0.0481,1.022,2.10-2.50
-SAS @ SAC,Malik Monk pa under 17.5 + SAS win,2,0.5997,0.4675,2.14,2.25,2.03,-0.0497,1.022,1.85-2.10
-SAS @ SAC,SAS win + Malik Monk pr under 15.5,2,0.5711,0.4601,2.17,2.28,2.06,-0.0538,1.022,1.85-2.10
-SAS @ SAC,game over 229.5 + Devin Vassell 10+ pa,2,0.4451,0.4139,2.42,2.54,2.27,-0.0611,1.031,2.10-2.50
-SAS @ SAC,SAS win + Malik Monk ast under 4.5,2,0.5974,0.4993,2.0,2.1,1.87,-0.0683,1.01,1.85-2.10
+SAS @ SAC,game over 229.5 + Devin Vassell 15+ pra,2,0.4197,0.3936,2.54,2.67,2.43,-0.0453,1.049,2.10-2.50
+SAS @ SAC,Malik Monk pa under 16.5 + SAS win,2,0.5625,0.4402,2.27,2.39,2.17,-0.0463,1.026,2.10-2.50
+SAS @ SAC,Malik Monk pra under 19.5 + SAS win,2,0.5807,0.4577,2.18,2.29,2.07,-0.0511,1.022,1.85-2.10
+SAS @ SAC,SAS win + Malik Monk pts under 12.5,2,0.5516,0.4533,2.21,2.32,2.09,-0.0522,1.026,1.85-2.10
+SAS @ SAC,SAS -15.5 + Devin Vassell 15+ pra,2,0.3466,0.3853,2.6,2.73,2.45,-0.0569,1.038,2.10-2.50
+SAS @ SAC,SAS win + Malik Monk pr under 15.5,2,0.5711,0.4743,2.11,2.21,1.99,-0.057,1.022,1.85-2.10
 SAS @ SAC,Malik Monk ast under 4.5 + Precious Achiuwa 5+ pa,2,0.7022,0.4884,2.05,2.15,1.84,-0.0997,0.997,1.65-1.85
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 15+ pra,3,0.5989,0.5181,1.93,2.03,1.67,-0.1358,1.007,1.65-1.85
+SAS @ SAC,SAS win + Precious Achiuwa 10+ pra + Devin Vassell 15+ pra,3,0.6249,0.5673,1.76,1.85,1.52,-0.1358,1.012,1.50-1.65
 SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 10+ pa,3,0.6445,0.5529,1.81,1.9,1.56,-0.1376,1.004,1.50-1.65
