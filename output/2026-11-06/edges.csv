@@ -1,19 +1,24 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401909288,BOS @ CHA,prop_reb,over,Sion James,1642883.0,3.5,draftkings,1180.0,12.8,0.5591,1.79,0.073,0.073,0.4861,,6.1565,0.1095,0.4012,0.0085,True,True,False,,,
+401909288,BOS @ CHA,prop_reb,over,Sion James,1642883.0,2.5,draftkings,428.0,5.28,0.7338,1.36,0.177,0.177,0.5568,,2.8746,0.2188,0.1551,0.0091,True,False,False,,,
+401909288,BOS @ CHA,prop_reb,over,Hugo Gonzalez,1642864.0,3.5,draftkings,1300.0,14.0,0.2765,3.62,0.0668,0.0668,0.2098,,2.8711,0.0825,0.1548,0.003,True,True,False,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,sportsbet,775.0,8.75,0.199,5.03,0.1099,0.1279,0.0711,4.02,0.7413,0.1279,0.1192,0.0038,False,True,True,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,betfair_ex_au,760.0,8.6,0.199,5.03,0.1138,0.1279,0.0711,2.17,0.7114,0.1279,0.1,0.0033,False,True,True,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,draftkings,740.0,8.4,0.199,5.03,0.1144,0.1279,0.0711,4.09,0.6716,0.1279,0.0744,0.0025,False,True,True,,,
-401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1500.0,16.0,0.1411,7.09,0.0584,0.0584,0.0827,,1.2576,0.0646,0.0338,0.0006,False,False,False,,,
-401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2500.0,26.0,0.0854,11.71,0.0359,0.0359,0.0495,,1.2211,0.0397,0.0311,0.0003,False,True,False,,,
-401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,1360.0,14.6,0.1481,6.75,0.064,0.064,0.0841,,1.1621,0.0703,0.0266,0.0005,False,False,False,Scottie Barnes,0.0,0.1524
+401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,1340.0,14.4,0.1481,6.75,0.0649,0.0649,0.0832,,1.1325,0.0711,0.0244,0.0005,False,False,False,Scottie Barnes,0.0,0.1524
 401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,11.5,draftkings,2100.0,22.0,0.0969,10.32,0.0425,0.0425,0.0544,,1.132,0.0466,0.0244,0.0003,False,True,False,Scottie Barnes,0.0,0.0965
 401909295,SAS @ SAC,moneyline,SAC,,,,betr_au,700.0,8.0,0.199,5.03,0.1199,0.1279,0.0711,4.24,0.592,0.1279,0.0233,0.0008,False,True,True,,,
 401909287,WAS @ ATL,moneyline,WAS,,,,draftkings,241.0,3.41,0.3566,2.8,0.2816,0.2998,0.0568,4.14,0.2161,0.2998,0.0224,0.0023,False,True,True,Jalen Johnson,0.3937,0.3373
-401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,830.0,9.3,0.2244,4.46,0.1005,0.1005,0.1239,,1.0872,0.1098,0.021,0.0006,False,True,False,,,
+401909288,BOS @ CHA,prop_reb,over,Paul George,202331.0,1.5,draftkings,121.0,2.21,0.9324,1.07,0.4229,0.4229,0.5095,,1.0605,0.4611,0.019,0.0039,True,True,False,,,
+401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1360.0,14.6,0.1411,7.09,0.064,0.064,0.0771,,1.0601,0.0698,0.019,0.0003,False,False,False,,,
+401909288,BOS @ CHA,prop_reb,over,Sion James,1642883.0,1.5,draftkings,132.0,2.32,0.8817,1.13,0.4028,0.4028,0.4789,,1.0456,0.4388,0.0179,0.0034,True,True,False,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,10.5,draftkings,1440.0,15.4,0.1314,7.61,0.0607,0.0607,0.0707,,1.023,0.066,0.0162,0.0003,False,False,False,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,11.5,draftkings,2300.0,24.0,0.0836,11.96,0.0389,0.0389,0.0447,,1.0065,0.0423,0.015,0.0002,False,True,False,,,
 401909289,PHI @ CLE,moneyline,CLE,,,,tab,135.0,2.35,0.5294,1.89,0.4082,0.4317,0.0977,4.24,0.2441,0.4317,0.0145,0.0027,False,True,True,,,
-401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,800.0,9.0,0.2212,4.52,0.1038,0.1038,0.1173,,0.9906,0.1126,0.0138,0.0004,False,True,False,Scottie Barnes,0.0,0.2292
 401909287,WAS @ ATL,moneyline,WAS,,,,betfair_ex_au,237.5,3.38,0.3566,2.8,0.2889,0.2998,0.0568,2.56,0.2036,0.2998,0.012,0.0013,False,True,True,Jalen Johnson,0.3937,0.3373
+401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2200.0,23.0,0.0854,11.71,0.0406,0.0406,0.0448,,0.9648,0.044,0.0118,0.0001,False,True,False,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,870.0,9.7,0.2014,4.97,0.0963,0.0963,0.105,,0.9532,0.1042,0.011,0.0003,False,True,False,,,
 401909291,OKC @ MEM,moneyline,MEM,,,,draftkings,142.0,2.42,0.3912,2.56,0.3962,0.4176,-0.0265,4.29,-0.0534,0.4176,0.0107,0.0019,False,True,True,,,
+401909292,TOR @ MIL,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,780.0,8.8,0.2212,4.52,0.1062,0.1062,0.115,,0.9464,0.1148,0.0105,0.0003,False,True,False,Scottie Barnes,0.0,0.2292
+401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,740.0,8.4,0.2244,4.46,0.1113,0.1113,0.1132,,0.8852,0.1197,0.0059,0.0002,False,True,False,,,
 401909292,TOR @ MIL,moneyline,MIL,,,,betr_au,215.0,3.15,0.3289,3.04,0.3047,0.318,0.0109,4.2,0.036,0.318,0.0016,0.0002,False,True,True,Scottie Barnes,0.3644,0.2978

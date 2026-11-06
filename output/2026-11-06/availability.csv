@@ -61,7 +61,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909288,BOS,1631199,Ron Harper Jr.,,,1.0,,,
 401909288,BOS,1630573,Sam Hauser,,,1.0,,,
 401909288,BOS,905106283,Dillon Mitchell,Out,GLeague-Two-Way,0.0,,,
-401909288,BOS,1630202,Payton Pritchard,Questionable,Injury/Illness-RightEyeAbrasion,0.55,"Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports.",,
+401909288,BOS,1630202,Payton Pritchard,Available,Injury/Illness-RightEyeAbrasion,1.0,,,
 401909288,BOS,1629674,Neemias Queta,,,1.0,,,
 401909288,BOS,1629011,Mitchell Robinson,,,1.0,,,
 401909288,BOS,1631248,Baylor Scheierman,,,1.0,,,
