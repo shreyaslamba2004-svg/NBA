@@ -14,9 +14,9 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909295,SAS @ SAC,moneyline,SAC,,,,betr_au,700.0,8.0,0.199,5.03,0.1199,0.1279,0.0711,4.24,0.592,0.1279,0.0233,0.0008,False,True,True,,,
 401909291,OKC @ MEM,moneyline,MEM,,,,draftkings,145.0,2.45,0.3912,2.56,0.3918,0.4176,-0.0265,4.19,-0.0417,0.4176,0.0232,0.004,False,True,True,,,
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,810.0,9.1,0.2244,4.46,0.1027,0.1027,0.1217,,1.0423,0.1118,0.0177,0.0005,False,True,False,,,
+401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,10.5,draftkings,1440.0,15.4,0.1314,7.61,0.0607,0.0607,0.0707,,1.023,0.066,0.0162,0.0003,False,False,False,,,
 401909289,PHI @ CLE,moneyline,CLE,,,,tab,135.0,2.35,0.5294,1.89,0.4082,0.4317,0.0977,4.24,0.2441,0.4317,0.0145,0.0027,False,True,True,,,
+401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,890.0,9.9,0.2014,4.97,0.0944,0.0944,0.107,,0.9934,0.1024,0.014,0.0004,False,True,False,,,
 401909287,WAS @ ATL,moneyline,WAS,,,,betfair_ex_au,237.5,3.38,0.3566,2.8,0.2889,0.2998,0.0568,2.56,0.2036,0.2998,0.012,0.0013,False,True,True,Jalen Johnson,0.3937,0.3373
-401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,10.5,draftkings,1380.0,14.8,0.1314,7.61,0.0631,0.0631,0.0682,,0.9441,0.0683,0.0103,0.0002,False,False,False,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,11.5,draftkings,2200.0,23.0,0.0836,11.96,0.0406,0.0406,0.043,,0.9229,0.0439,0.0087,0.0001,False,True,False,,,
 401909292,TOR @ MIL,moneyline,MIL,,,,betr_au,215.0,3.15,0.3539,2.83,0.3047,0.3197,0.0342,4.2,0.1146,0.3197,0.0071,0.0008,False,True,True,Scottie Barnes,0.412,0.3414
-401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,840.0,9.4,0.2014,4.97,0.0994,0.0994,0.1019,,0.8927,0.1071,0.0064,0.0002,False,True,False,,,
