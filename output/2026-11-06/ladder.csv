@@ -10286,13 +10286,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pts,10.5,False,0.5168,0.3348,est,0.3484
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pts,11.5,False,0.4474,0.2759,est,0.2887
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pts,12.5,False,0.3804,0.2241,est,0.2359
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,3.5,False,0.8817,0.8307,book,0.8345
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,4.5,False,0.7909,0.7269,book,0.7317
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,5.5,False,0.6758,0.6055,book,0.6108
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,6.5,True,0.5522,0.4787,book,0.4842
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,7.5,False,0.4315,0.3608,book,0.3661
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,8.5,False,0.3238,0.2618,book,0.2664
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,9.5,False,0.2313,0.1808,book,0.1846
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,3.5,False,0.8817,0.822,book,0.8265
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,4.5,False,0.7909,0.7136,book,0.7194
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,5.5,False,0.6758,0.5884,book,0.595
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,6.5,True,0.5522,0.4604,book,0.4673
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,7.5,False,0.4315,0.3436,book,0.3502
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,8.5,False,0.3238,0.2453,book,0.2512
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,reb,9.5,False,0.2313,0.1681,book,0.1728
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,ast,0.5,False,0.7597,,model only,0.7597
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,ast,1.5,False,0.4405,0.3622,book,0.3681
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,ast,2.5,False,0.2061,0.1532,book,0.1572
@@ -10311,22 +10311,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,16.5,False,0.6717,,model only,0.6717
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,17.5,False,0.6193,,model only,0.6193
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,18.5,False,0.5656,,model only,0.5656
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,19.5,False,0.509,0.3326,book,0.3458
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,19.5,False,0.509,0.3268,book,0.3405
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,20.5,False,0.4554,,model only,0.4554
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,21.5,False,0.403,,model only,0.403
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,22.5,False,0.3552,,model only,0.3552
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,23.5,False,0.3095,,model only,0.3095
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,24.5,False,0.2681,0.1433,book,0.1527
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,24.5,False,0.2681,0.1385,book,0.1482
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pra,25.5,False,0.2303,,model only,0.2303
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,11.5,False,0.8503,0.7362,est,0.7448
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,12.5,False,0.8049,0.6696,est,0.6798
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,13.5,False,0.7574,0.6053,est,0.6167
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,14.5,False,0.7059,0.5412,est,0.5535
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,15.5,True,0.6515,0.4787,book,0.4917
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,16.5,False,0.5947,0.4189,est,0.4321
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,17.5,False,0.5377,0.3636,est,0.3767
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,18.5,False,0.4788,0.311,est,0.3235
-401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,19.5,False,0.4235,0.2652,est,0.2771
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,11.5,False,0.8503,0.7336,est,0.7423
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,12.5,False,0.8049,0.6666,est,0.677
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,13.5,False,0.7574,0.602,est,0.6137
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,14.5,False,0.7059,0.5378,est,0.5504
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,15.5,True,0.6515,0.4753,book,0.4885
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,16.5,False,0.5947,0.4156,est,0.4291
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,17.5,False,0.5377,0.3605,est,0.3738
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,18.5,False,0.4788,0.308,est,0.3208
+401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pr,19.5,False,0.4235,0.2626,est,0.2746
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pa,8.5,False,0.768,,model only,0.768
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pa,9.5,False,0.701,0.5247,book,0.5379
 401909295,SAS @ SAC,SAC,1630173,Precious Achiuwa,pa,10.5,False,0.6292,,model only,0.6292
@@ -10352,10 +10352,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,pts,25.5,False,0.4063,0.4304,est,0.4285
 401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,pts,26.5,False,0.37,0.3933,est,0.3916
 401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,pts,27.5,False,0.3349,0.3572,est,0.3555
-401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,0.5,False,0.9832,0.9721,est,0.9729
-401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,1.5,False,0.9163,0.8667,est,0.8704
+401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,0.5,False,0.9832,0.9725,est,0.9733
+401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,1.5,False,0.9163,0.8686,est,0.8722
 401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,2.5,False,0.7922,0.675,book,0.6838
-401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,3.5,True,0.6206,0.4927,book,0.5023
+401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,3.5,True,0.6206,0.4968,book,0.5061
 401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,4.5,False,0.4431,0.3291,book,0.3377
 401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,5.5,False,0.2843,0.2023,book,0.2084
 401909295,SAS @ SAC,SAC,905142620,Darius Acuff Jr.,reb,6.5,False,0.1681,0.1214,book,0.1249
@@ -10550,12 +10550,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909295,SAS @ SAC,SAC,203897,Zach LaVine,pts,21.5,False,0.3493,0.4231,est,0.4176
 401909295,SAS @ SAC,SAC,203897,Zach LaVine,pts,22.5,False,0.308,0.3782,est,0.373
 401909295,SAS @ SAC,SAC,203897,Zach LaVine,pts,23.5,False,0.271,0.3368,est,0.3319
-401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,0.5,False,0.9633,0.9438,est,0.9453
-401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,1.5,False,0.8468,0.7796,est,0.7846
-401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,2.5,True,0.6634,0.5577,book,0.5656
-401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,3.5,False,0.4728,0.3595,book,0.368
-401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,4.5,False,0.2922,0.2081,book,0.2144
-401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,5.5,False,0.1659,0.1154,book,0.1192
+401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,0.5,False,0.9633,0.9454,est,0.9467
+401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,1.5,False,0.8468,0.7848,est,0.7894
+401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,2.5,True,0.6634,0.5652,book,0.5726
+401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,3.5,False,0.4728,0.3665,book,0.3745
+401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,4.5,False,0.2922,0.2134,book,0.2193
+401909295,SAS @ SAC,SAC,203897,Zach LaVine,reb,5.5,False,0.1659,0.1168,book,0.1205
 401909295,SAS @ SAC,SAC,203897,Zach LaVine,ast,0.5,False,0.9264,0.9076,est,0.909
 401909295,SAS @ SAC,SAC,203897,Zach LaVine,ast,1.5,False,0.7443,0.6944,est,0.6981
 401909295,SAS @ SAC,SAC,203897,Zach LaVine,ast,2.5,True,0.5177,0.4559,book,0.4605

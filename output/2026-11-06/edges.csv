@@ -13,17 +13,18 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909288,BOS @ CHA,prop_reb,over,Hugo Gonzalez,1642864.0,2.5,draftkings,389.0,4.89,0.4443,2.25,0.1911,0.1911,0.2531,,1.1724,0.2101,0.0274,0.0018,True,False,False,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,betr_au,700.0,8.0,0.1958,5.11,0.1199,0.1279,0.0678,4.24,0.566,0.1279,0.0233,0.0008,False,True,True,,,
 401909291,OKC @ MEM,moneyline,MEM,,,,draftkings,145.0,2.45,0.3912,2.56,0.3918,0.4176,-0.0265,4.19,-0.0417,0.4176,0.0232,0.004,False,True,True,,,
-401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,770.0,8.7,0.2384,4.2,0.1074,0.1074,0.131,,1.0739,0.1172,0.02,0.0007,False,True,False,De'Andre Hunter,0.2977,0.1986
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1380.0,14.8,0.1401,7.14,0.0631,0.0631,0.077,,1.0737,0.0689,0.02,0.0004,False,False,False,,,
+401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,770.0,8.7,0.2384,4.2,0.1074,0.1074,0.131,,1.0739,0.1172,0.02,0.0007,False,True,False,De'Andre Hunter,0.2977,0.1986
 401909290,UTA @ DAL,prop_pra,over,Kyrie Irving,202681.0,49.5,draftkings,1900.0,20.0,0.1025,9.75,0.0467,0.0467,0.0558,,1.0508,0.0509,0.0183,0.0002,False,True,False,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,12.5,draftkings,2900.0,30.0,0.0675,14.81,0.0312,0.0312,0.0364,,1.0254,0.0339,0.0164,0.0001,False,False,False,De'Andre Hunter,0.0939,0.049
 401909289,PHI @ CLE,moneyline,CLE,,,,tab,135.0,2.35,0.5294,1.89,0.4082,0.4317,0.0977,4.24,0.2441,0.4317,0.0145,0.0027,False,True,True,,,
+401909295,SAS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,29.5,draftkings,1560.0,16.6,0.1188,8.42,0.0563,0.0563,0.0625,,0.9723,0.061,0.0124,0.0002,False,True,False,De'Andre Hunter,0.1479,0.088
 401909287,WAS @ ATL,moneyline,WAS,,,,betfair_ex_au,237.5,3.38,0.3566,2.8,0.2889,0.2998,0.0568,2.56,0.2036,0.2998,0.012,0.0013,False,True,True,Jalen Johnson,0.3937,0.3373
 401909290,UTA @ DAL,prop_pa,over,Kyrie Irving,202681.0,44.5,draftkings,1900.0,20.0,0.0981,10.2,0.0467,0.0467,0.0513,,0.9612,0.0506,0.0116,0.0002,False,True,False,,,
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,760.0,8.6,0.2258,4.43,0.1087,0.1087,0.1171,,0.9418,0.1175,0.0101,0.0003,False,True,False,,,
-401909295,SAS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,29.5,draftkings,1520.0,16.2,0.1188,8.42,0.0577,0.0577,0.0611,,0.9248,0.0623,0.0088,0.0001,False,True,False,De'Andre Hunter,0.1479,0.088
 401909295,SAS @ SAC,prop_pa,over,Precious Achiuwa,1630173.0,19.5,draftkings,1240.0,13.4,0.1423,7.03,0.0697,0.0697,0.0726,,0.9073,0.0752,0.0075,0.0002,False,True,False,De'Andre Hunter,0.1696,0.1117
 401909292,TOR @ MIL,moneyline,MIL,,,,betr_au,215.0,3.15,0.3539,2.83,0.3047,0.3197,0.0342,4.2,0.1146,0.3197,0.0071,0.0008,False,True,True,Scottie Barnes,0.412,0.3414
 401909290,UTA @ DAL,prop_pra,over,Kyrie Irving,202681.0,44.5,draftkings,930.0,10.3,0.182,5.5,0.0907,0.0907,0.0912,,0.8743,0.0976,0.0051,0.0001,False,True,False,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,8.5,draftkings,453.0,5.53,0.3379,2.96,0.169,0.169,0.1689,,0.8685,0.1817,0.0046,0.0003,True,False,False,De'Andre Hunter,0.4042,0.2903
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2200.0,23.0,0.0804,12.44,0.0406,0.0406,0.0397,,0.8484,0.0436,0.0031,0.0,False,True,False,,,
+401909295,SAS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,24.5,draftkings,575.0,6.75,0.2681,3.73,0.1385,0.1385,0.1296,,0.8096,0.1482,0.0002,0.0,False,True,False,De'Andre Hunter,0.322,0.2154
