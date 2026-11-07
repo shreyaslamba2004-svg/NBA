@@ -21,17 +21,14 @@ NYK @ CLE,NYK win + Peyton Watson 10+ pr,2,0.6489,0.54,1.85,1.94,1.68,-0.0914,0.
 NYK @ CLE,Evan Mobley pr under 28.5 + Peyton Watson 10+ pr,2,0.6283,0.4426,2.26,2.37,2.03,-0.1023,0.995,1.85-2.10
 NYK @ CLE,Jalen Brunson pts under 27.5 + Peyton Watson 10+ pr,2,0.5796,0.4414,2.27,2.38,2.03,-0.1047,1.001,1.85-2.10
 NYK @ CLE,Evan Mobley reb under 9.5 + Peyton Watson 10+ pr,2,0.6219,0.4675,2.14,2.25,1.91,-0.1053,0.999,1.85-2.10
-WAS @ OKC,WAS +11.5 + Kyshawn George 15+ pr,2,0.4998,0.3984,2.51,2.64,2.42,-0.0356,1.027,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 16.5 + OKC win,2,0.5226,0.4013,2.49,2.62,2.4,-0.0382,1.036,2.10-2.50
+WAS @ OKC,WAS +11.5 + Kyshawn George 15+ pr,2,0.4998,0.3955,2.53,2.65,2.44,-0.0349,1.027,2.10-2.50
 WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5414,0.4295,2.33,2.44,2.23,-0.0435,1.034,2.10-2.50
-WAS @ OKC,WAS +11.5 + Kyshawn George 10+ pa,2,0.5648,0.4559,2.19,2.3,2.07,-0.0551,1.007,1.85-2.10
-WAS @ OKC,game over 222.5 + Kyshawn George 15+ pra,2,0.5996,0.437,2.29,2.4,2.09,-0.0882,1.015,1.85-2.10
-WAS @ OKC,OKC win + Bilal Coulibaly 3+ reb,2,0.5139,0.4648,2.15,2.26,1.96,-0.0882,0.998,1.85-2.10
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 1+ 3pm,2,0.651,0.4913,2.04,2.14,1.83,-0.1014,1.002,1.65-1.85
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 15+ pra,2,0.6639,0.5109,1.96,2.06,1.76,-0.1027,1.003,1.65-1.85
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 10+ pa,2,0.6794,0.526,1.9,2.0,1.7,-0.1034,1.002,1.65-1.85
-WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kyshawn George 1+ 3pm,3,0.5899,0.5309,1.88,1.98,1.61,-0.143,1.006,1.50-1.65
-WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Alex Caruso 5+ pa,3,0.6254,0.5652,1.77,1.86,1.51,-0.1464,1.002,1.50-1.65
+WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5574,0.4387,2.28,2.39,2.18,-0.0444,1.032,2.10-2.50
+WAS @ OKC,WAS +11.5 + Kyshawn George 10+ pa,2,0.5648,0.455,2.2,2.31,2.08,-0.0549,1.007,1.85-2.10
+WAS @ OKC,game over 222.5 + Kyshawn George 15+ pra,2,0.5996,0.4354,2.3,2.41,2.09,-0.0879,1.015,1.85-2.10
+WAS @ OKC,AJ Dybantsa pts under 17.5 + Alex Caruso 5+ pa,2,0.6924,0.4551,2.2,2.31,2.0,-0.0918,0.999,1.85-2.10
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kyshawn George 1+ 3pm,3,0.5899,0.5283,1.89,1.99,1.62,-0.1427,1.006,1.50-1.65
+WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Alex Caruso 5+ pa,3,0.6254,0.5641,1.77,1.86,1.51,-0.1462,1.002,1.50-1.65
 ORL @ GSW,GSW win + Wendell Carter Jr. reb under 9.5,2,0.483,0.3709,2.7,2.83,2.47,-0.083,1.003,2.10-2.50
 ORL @ GSW,GSW win + Yaxel Lendeborg reb under 7.5,2,0.4812,0.372,2.69,2.82,2.45,-0.0889,0.997,2.10-2.50
 HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5427,0.435,2.3,2.41,2.22,-0.036,1.019,2.10-2.50

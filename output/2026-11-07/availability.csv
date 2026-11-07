@@ -156,7 +156,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909942,GSW,1630611,Gui Santos,Questionable,Injury/Illness-LeftKneeTendinitis,0.55,"Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic.",,
 401909942,GSW,1630314,Brandon Williams,,,1.0,,,
 401909942,ORL,1631094,Paolo Banchero,Out,,0.0,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",,
-401909942,ORL,1630217,Desmond Bane,Out,Injury/Illness-Illness,0.0,,,
+401909942,ORL,1630217,Desmond Bane,Out,Injury/Illness-Illness,0.0,Bane (illness) has been ruled out for Saturday's game against the Warriors.,,
 401909942,ORL,1629048,Goga Bitadze,,,1.0,,,
 401909942,ORL,1641710,Anthony Black,,,1.0,,,
 401909942,ORL,1631288,Jamal Cain,,,1.0,,,
