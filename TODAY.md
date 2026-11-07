@@ -1,6 +1,6 @@
 # NBA model · Sat 07 Nov 2026 (US date)
 
-Updated **Sun 08 Nov, 06:54 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 08 Nov, 06:59 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -18,7 +18,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| WAS to win | WAS @ OKC | draftkings | 5.57 | 4.83 | 3.67 | 27.2% | 20.7% | 20.7% | +15.2% | +51.7% | 0.8% |
+| WAS to win | WAS @ OKC | draftkings | 5.43 | 4.83 | 3.67 | 27.2% | 20.7% | 20.7% | +12.3% | +47.9% | 0.7% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
@@ -37,7 +37,7 @@ Game lines below assume every questionable player sits; each game's section show
 | DEN @ IND | Sun 08 Nov 09:00 | 122.3–115.7 | DEN 68% | 1.46 / 3.16 | IND +6.5 | 238.5 | IND +7.5 covers 52%; o229.5 68% |
 | BKN @ ATL | Sun 08 Nov 11:30 | 105.8–117.2 | BKN 21% | 4.78 / 1.26 | ATL -11.5 | 222.5 | ATL -6.5 covers 64%; o226.5 42% |
 | NYK @ CLE | Sun 08 Nov 12:00 | 115.5–107.7 | NYK 71% | 1.41 / 3.44 | CLE +7.5 | 222.5 | CLE +5.5 covers 43%; o224.5 47% |
-| WAS @ OKC | Sun 08 Nov 12:00 | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -11.5 covers 41%; o222.5 66% |
+| WAS @ OKC | Sun 08 Nov 12:00 | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -12.5 covers 38%; o222.5 66% |
 | ORL @ GSW | Sun 08 Nov 12:30 | 108.3–115.5 | ORL 30% | 3.33 / 1.43 | GSW -7.5 | 223.5 | GSW -6.5 covers 52%; o220.5 57% |
 | HOU @ PHX | Sun 08 Nov 13:00 | 115.9–109.8 | HOU 67% | 1.50 / 2.99 | PHX +6.5 | 225.5 | PHX +6.5 covers 51%; o223.5 54% |
 | SAS @ POR | Sun 08 Nov 14:00 | 113.9–109.6 | SAS 62% | 1.62 / 2.62 | POR +4.5 | 223.5 | POR +4.5 covers 50%; o229.5 37% |
@@ -303,9 +303,9 @@ Out: Chet Holmgren (OKC), Cason Wallace (OKC), Jalen Williams (OKC), Jaylin Will
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -11.5 covers 41%; o222.5 66% |
-| Expected (weighted by chance each plays) | 110.1–118.6 | WAS 27% | 3.67 / 1.37 | OKC -8.5 | 228.5 | OKC -11.5 covers 41%; o222.5 63% |
-| if Anthony Davis plays | 109.7–118.1 | WAS 28% | 3.63 / 1.38 | OKC -8.5 | 227.5 | OKC -11.5 covers 41%; o222.5 61% |
+| Confirmed players only | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -12.5 covers 38%; o222.5 66% |
+| Expected (weighted by chance each plays) | 110.1–118.6 | WAS 27% | 3.67 / 1.37 | OKC -8.5 | 228.5 | OKC -12.5 covers 39%; o222.5 63% |
+| if Anthony Davis plays | 109.7–118.1 | WAS 28% | 3.63 / 1.38 | OKC -8.5 | 227.5 | OKC -12.5 covers 39%; o222.5 61% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -405,11 +405,11 @@ Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW), Paolo 
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Franz Wagner | 98% | 36.6<br><sub>34,39,40,38,38</sub> | 23.9<br><sub>15,26,14,24,15</sub> | 24.5 · –<br><sub>o 48% · u 52%</sub> | 6.2<br><sub>4,5,6,3,8</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 7.5<br><sub>5,11,12,6,15</sub> | 7.5<br><sub>o 44% · u 56%</sub> | 1.6<br><sub>0,2,1,1,0</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 1.5 | 0.3 | 3.8 | 37.5 |
-| Wendell Carter Jr. | 98% | 33.6<br><sub>26,39,35,34,34</sub> | 14.1<br><sub>3,20,7,6,27</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 8.4<br><sub>10,7,10,9,13</sub> | 9.5<br><sub>o 45% · u 55%</sub> | 2.3<br><sub>3,1,0,0,2</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.9<br><sub>0,1,1,0,2</sub> |  | 1.2 | 0.6 | 2.0 | 24.9 |
-| Tristan da Silva | 98% | 33.4<br><sub>31,23,35,32,30</sub> | 15.3<br><sub>20,8,23,10,18</sub> | 13.5 · –<br><sub>o 53% · u 47%</sub> | 4.6<br><sub>3,0,10,4,2</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.6<br><sub>1,0,2,3,1</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 2.4<br><sub>4,2,5,2,4</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.0 | 0.3 | 2.0 | 22.5 |
-| Anthony Black | 98% | 33.2<br><sub>22,31,33,-,31</sub> | 17.9<br><sub>8,17,23,-,10</sub> | 17.5 · –<br><sub>o 50% · u 50%</sub> | 4.4<br><sub>2,6,8,-,7</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>1,10,3,-,6</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 1.8<br><sub>0,3,1,-,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.9 | 0.6 | 2.8 | 27.3 |
-| Jase Richardson | 91% | 28.9<br><sub>14,33,26,29,26</sub> | 11.7<br><sub>10,4,4,9,10</sub> | 10.5 · –<br><sub>o 48% · u 52%</sub> | 3.0<br><sub>1,6,1,1,2</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 3.3<br><sub>1,2,3,5,3</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 1.3<br><sub>2,0,0,0,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.3 | 1.6 | 17.9 |
+| Franz Wagner | 98% | 36.6<br><sub>34,39,40,38,38</sub> | 23.9<br><sub>15,26,14,24,15</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 6.2<br><sub>4,5,6,3,8</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 7.5<br><sub>5,11,12,6,15</sub> | 7.5<br><sub>o 44% · u 56%</sub> | 1.6<br><sub>0,2,1,1,0</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 1.5 | 0.3 | 3.8 | 37.5 |
+| Wendell Carter Jr. | 98% | 33.6<br><sub>26,39,35,34,34</sub> | 14.1<br><sub>3,20,7,6,27</sub> | 13.5 · –<br><sub>o 47% · u 53%</sub> | 8.4<br><sub>10,7,10,9,13</sub> | 9.5<br><sub>o 46% · u 54%</sub> | 2.3<br><sub>3,1,0,0,2</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.9<br><sub>0,1,1,0,2</sub> |  | 1.2 | 0.6 | 2.0 | 24.9 |
+| Tristan da Silva | 98% | 33.4<br><sub>31,23,35,32,30</sub> | 15.3<br><sub>20,8,23,10,18</sub> | 13.5 · –<br><sub>o 52% · u 48%</sub> | 4.6<br><sub>3,0,10,4,2</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.6<br><sub>1,0,2,3,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 2.4<br><sub>4,2,5,2,4</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.0 | 0.3 | 2.0 | 22.5 |
+| Anthony Black | 98% | 33.2<br><sub>22,31,33,-,31</sub> | 17.9<br><sub>8,17,23,-,10</sub> | 17.5 · –<br><sub>o 51% · u 49%</sub> | 4.4<br><sub>2,6,8,-,7</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>1,10,3,-,6</sub> | 5.5<br><sub>o 42% · u 58%</sub> | 1.8<br><sub>0,3,1,-,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.9 | 0.6 | 2.8 | 27.3 |
+| Jase Richardson | 91% | 28.9<br><sub>14,33,26,29,26</sub> | 11.7<br><sub>10,4,4,9,10</sub> | 10.5 · –<br><sub>o 48% · u 52%</sub> | 3.0<br><sub>1,6,1,1,2</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 3.3<br><sub>1,2,3,5,3</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.3<br><sub>2,0,0,0,2</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.2 | 0.3 | 1.6 | 17.9 |
 | Jamal Cain | 98% | 26.9<br><sub>16,15,18,25,25</sub> | 10.6<br><sub>9,13,5,10,5</sub> |  | 4.2<br><sub>1,0,1,3,5</sub> |  | 1.4<br><sub>0,0,1,1,0</sub> |  | 1.3<br><sub>0,3,1,2,1</sub> |  | 0.8 | 0.3 | 1.5 | 16.3 |
 | Jevon Carter | 63% | 18.6<br><sub>22,-,-,18,3</sub> | 6.7<br><sub>6,-,-,5,0</sub> |  | 1.8<br><sub>0,-,-,1,0</sub> |  | 2.0<br><sub>3,-,-,4,0</sub> |  | 1.1<br><sub>2,-,-,1,0</sub> |  | 0.8 | 0.2 | 0.8 | 10.5 |
 | Alex Morales | 67% | 14.2<br><sub>7,9,-,14,6</sub> | 3.8<br><sub>2,0,-,3,0</sub> |  | 1.9<br><sub>2,1,-,2,0</sub> |  | 1.1<br><sub>1,0,-,0,0</sub> |  | 0.3<br><sub>0,0,-,0,0</sub> |  | 0.6 | 0.1 | 0.9 | 6.9 |
@@ -423,9 +423,9 @@ Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW), Paolo 
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Brandin Podziemski | 91% | 33.6<br><sub>32,33,37,33,32</sub> | 16.0<br><sub>8,21,17,20,9</sub> | 15.5 · –<br><sub>o 47% · u 53%</sub> | 5.6<br><sub>5,5,8,3,6</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 4.4<br><sub>6,6,8,2,3</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>0,4,2,3,2</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.2 | 0.3 | 1.8 | 25.9 |
+| Brandin Podziemski | 91% | 33.6<br><sub>32,33,37,33,32</sub> | 16.0<br><sub>8,21,17,20,9</sub> | 15.5 · –<br><sub>o 47% · u 53%</sub> | 5.6<br><sub>5,5,8,3,6</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 4.4<br><sub>6,6,8,2,3</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>0,4,2,3,2</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.2 | 0.3 | 1.8 | 25.9 |
 | Yaxel Lendeborg | 98% | 33.3<br><sub>35,24,34,29,30</sub> | 20.2<br><sub>26,6,37,16,17</sub> | 18.5 · –<br><sub>o 49% · u 51%</sub> | 6.8<br><sub>9,1,4,5,8</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 4.3<br><sub>1,0,6,5,6</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 1.8<br><sub>2,1,6,2,1</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 1.1 | 0.6 | 2.9 | 31.4 |
-| Stephen Curry | 98% | 32.2<br><sub>32,31,-,33,28</sub> | 26.6<br><sub>44,31,-,34,29</sub> | 26.5 · –<br><sub>o 49% · u 51%</sub> | 3.8<br><sub>8,4,-,6,1</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 5.4<br><sub>6,6,-,7,4</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 4.3<br><sub>6,8,-,5,6</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.4 | 2.9 | 35.8 |
+| Stephen Curry | 98% | 32.2<br><sub>32,31,-,33,28</sub> | 26.6<br><sub>44,31,-,34,29</sub> | 26.5 · –<br><sub>o 49% · u 51%</sub> | 3.8<br><sub>8,4,-,6,1</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 5.4<br><sub>6,6,-,7,4</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 4.3<br><sub>6,8,-,5,6</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.4 | 2.9 | 35.8 |
 | De'Anthony Melton | 98% | 25.3<br><sub>20,21,28,28,17</sub> | 10.7<br><sub>8,16,21,2,5</sub> |  | 4.3<br><sub>6,5,6,7,6</sub> |  | 2.8<br><sub>0,3,3,2,2</sub> |  | 1.6<br><sub>2,4,6,0,0</sub> |  | 1.6 | 0.5 | 1.7 | 17.8 |
 | Georges Niang | 97% | 24.1<br><sub>23,19,21,22,22</sub> | 9.3<br><sub>7,11,3,13,13</sub> |  | 3.4<br><sub>3,5,1,4,4</sub> |  | 1.5<br><sub>2,1,2,3,3</sub> |  | 1.6<br><sub>1,3,1,1,2</sub> |  | 0.6 | 0.2 | 1.1 | 14.2 |
 | Brandon Williams | 80% | 22.5<br><sub>14,17,25,-,21</sub> | 12.6<br><sub>11,9,17,-,10</sub> |  | 2.9<br><sub>3,2,3,-,1</sub> |  | 3.6<br><sub>1,1,3,-,4</sub> |  | 0.7<br><sub>0,0,2,-,0</sub> |  | 0.9 | 0.4 | 1.9 | 19.1 |
@@ -442,9 +442,9 @@ Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW), Paolo 
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Brandin Podziemski (GSW) | 91% | 32.8<br><sub>32,33,37,33,32</sub> | 16.1<br><sub>8,21,17,20,9</sub> | 15.5 · –<br><sub>o 47% · u 53%</sub> | 5.3<br><sub>5,5,8,3,6</sub> | 5.5<br><sub>o 48% · u 52%</sub> | 4.0<br><sub>6,6,8,2,3</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>0,4,2,3,2</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.1 | 0.3 | 1.7 | 25.3 |
+| Brandin Podziemski (GSW) | 91% | 32.8<br><sub>32,33,37,33,32</sub> | 16.1<br><sub>8,21,17,20,9</sub> | 15.5 · –<br><sub>o 47% · u 53%</sub> | 5.3<br><sub>5,5,8,3,6</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 4.0<br><sub>6,6,8,2,3</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>0,4,2,3,2</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.1 | 0.3 | 1.7 | 25.3 |
 | Yaxel Lendeborg (GSW) | 98% | 32.1<br><sub>35,24,34,29,30</sub> | 19.9<br><sub>26,6,37,16,17</sub> | 18.5 · –<br><sub>o 49% · u 51%</sub> | 6.7<br><sub>9,1,4,5,8</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 3.6<br><sub>1,0,6,5,6</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 1.7<br><sub>2,1,6,2,1</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 1.0 | 0.6 | 2.8 | 30.2 |
-| Stephen Curry (GSW) | 98% | 31.1<br><sub>32,31,-,33,28</sub> | 26.0<br><sub>44,31,-,34,29</sub> | 26.5 · –<br><sub>o 49% · u 51%</sub> | 3.7<br><sub>8,4,-,6,1</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 4.6<br><sub>6,6,-,7,4</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 4.2<br><sub>6,8,-,5,6</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 1.1 | 0.4 | 2.8 | 34.3 |
+| Stephen Curry (GSW) | 98% | 31.1<br><sub>32,31,-,33,28</sub> | 26.0<br><sub>44,31,-,34,29</sub> | 26.5 · –<br><sub>o 49% · u 51%</sub> | 3.7<br><sub>8,4,-,6,1</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 4.6<br><sub>6,6,-,7,4</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 4.2<br><sub>6,8,-,5,6</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 1.1 | 0.4 | 2.8 | 34.3 |
 | Draymond Green (GSW) | 100% | 27.0<br><sub>32,32,-,17,27</sub> | 6.8<br><sub>3,2,-,4,2</sub> | 4.5 · – | 5.2<br><sub>9,4,-,4,5</sub> | 5.5 | 5.3<br><sub>6,9,-,2,11</sub> | 6.5 | 0.8<br><sub>0,0,-,0,0</sub> |  | 1.1 | 0.8 | 2.2 | 17.2 |
 | De'Anthony Melton (GSW) | 98% | 22.5<br><sub>20,21,28,28,17</sub> | 9.9<br><sub>8,16,21,2,5</sub> |  | 3.8<br><sub>6,5,6,7,6</sub> |  | 2.3<br><sub>0,3,3,2,2</sub> |  | 1.4<br><sub>2,4,6,0,0</sub> |  | 1.4 | 0.4 | 1.5 | 15.9 |
 | Georges Niang (GSW) | 97% | 21.4<br><sub>23,19,21,22,22</sub> | 8.7<br><sub>7,11,3,13,13</sub> |  | 3.1<br><sub>3,5,1,4,4</sub> |  | 1.3<br><sub>2,1,2,3,3</sub> |  | 1.4<br><sub>1,3,1,1,2</sub> |  | 0.5 | 0.2 | 1.0 | 13.1 |
@@ -455,11 +455,11 @@ Out: Jimmy Butler III (GSW), Moses Moody (GSW), Kristaps Porzingis (GSW), Paolo 
 | Graham Ike (GSW) | 88% | 9.1<br><sub>-,-,6,7,1</sub> | 3.6<br><sub>-,-,2,0,0</sub> |  | 2.1<br><sub>-,-,2,0,1</sub> |  | 0.5<br><sub>-,-,0,0,0</sub> |  | 0.2<br><sub>-,-,0,0,0</sub> |  | 0.3 | 0.2 | 0.5 | 6.2 |
 | LJ Cryer (GSW) | 71% | 7.7<br><sub>-,-,2,1,1</sub> | 3.5<br><sub>-,-,0,0,0</sub> |  | 0.8<br><sub>-,-,0,0,0</sub> |  | 0.6<br><sub>-,-,0,0,0</sub> |  | 0.4<br><sub>-,-,0,0,0</sub> |  | 0.2 | 0.0 | 0.4 | 5.0 |
 | Malevy Leons (GSW) | 52% | 7.2<br><sub>-,-,-,-,1</sub> | 2.1<br><sub>-,-,-,-,0</sub> |  | 1.3<br><sub>-,-,-,-,0</sub> |  | 0.5<br><sub>-,-,-,-,0</sub> |  | 0.1<br><sub>-,-,-,-,0</sub> |  | 0.4 | 0.2 | 0.3 | 4.0 |
-| Franz Wagner (ORL) | 98% | 36.6<br><sub>34,39,40,38,38</sub> | 23.9<br><sub>15,26,14,24,15</sub> | 24.5 · –<br><sub>o 48% · u 52%</sub> | 6.2<br><sub>4,5,6,3,8</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 7.5<br><sub>5,11,12,6,15</sub> | 7.5<br><sub>o 44% · u 56%</sub> | 1.6<br><sub>0,2,1,1,0</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 1.5 | 0.3 | 3.9 | 37.5 |
-| Wendell Carter Jr. (ORL) | 98% | 33.6<br><sub>26,39,35,34,34</sub> | 14.1<br><sub>3,20,7,6,27</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 8.5<br><sub>10,7,10,9,13</sub> | 9.5<br><sub>o 45% · u 55%</sub> | 2.3<br><sub>3,1,0,0,2</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.9<br><sub>0,1,1,0,2</sub> |  | 1.2 | 0.6 | 2.0 | 24.9 |
-| Tristan da Silva (ORL) | 98% | 33.4<br><sub>31,23,35,32,30</sub> | 15.3<br><sub>20,8,23,10,18</sub> | 13.5 · –<br><sub>o 53% · u 47%</sub> | 4.6<br><sub>3,0,10,4,2</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.6<br><sub>1,0,2,3,1</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 2.4<br><sub>4,2,5,2,4</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.0 | 0.3 | 1.9 | 22.6 |
-| Anthony Black (ORL) | 98% | 33.2<br><sub>22,31,33,-,31</sub> | 17.8<br><sub>8,17,23,-,10</sub> | 17.5 · –<br><sub>o 50% · u 50%</sub> | 4.4<br><sub>2,6,8,-,7</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>1,10,3,-,6</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 1.8<br><sub>0,3,1,-,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.9 | 0.6 | 2.9 | 27.2 |
-| Jase Richardson (ORL) | 91% | 28.8<br><sub>14,33,26,29,26</sub> | 11.6<br><sub>10,4,4,9,10</sub> | 10.5 · –<br><sub>o 48% · u 52%</sub> | 2.9<br><sub>1,6,1,1,2</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 3.2<br><sub>1,2,3,5,3</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 1.2<br><sub>2,0,0,0,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.2 | 0.3 | 1.6 | 17.7 |
+| Franz Wagner (ORL) | 98% | 36.6<br><sub>34,39,40,38,38</sub> | 23.9<br><sub>15,26,14,24,15</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 6.2<br><sub>4,5,6,3,8</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 7.5<br><sub>5,11,12,6,15</sub> | 7.5<br><sub>o 44% · u 56%</sub> | 1.6<br><sub>0,2,1,1,0</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 1.5 | 0.3 | 3.9 | 37.5 |
+| Wendell Carter Jr. (ORL) | 98% | 33.6<br><sub>26,39,35,34,34</sub> | 14.1<br><sub>3,20,7,6,27</sub> | 13.5 · –<br><sub>o 47% · u 53%</sub> | 8.5<br><sub>10,7,10,9,13</sub> | 9.5<br><sub>o 46% · u 54%</sub> | 2.3<br><sub>3,1,0,0,2</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.9<br><sub>0,1,1,0,2</sub> |  | 1.2 | 0.6 | 2.0 | 24.9 |
+| Tristan da Silva (ORL) | 98% | 33.4<br><sub>31,23,35,32,30</sub> | 15.3<br><sub>20,8,23,10,18</sub> | 13.5 · –<br><sub>o 52% · u 48%</sub> | 4.6<br><sub>3,0,10,4,2</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.6<br><sub>1,0,2,3,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 2.4<br><sub>4,2,5,2,4</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.0 | 0.3 | 1.9 | 22.6 |
+| Anthony Black (ORL) | 98% | 33.2<br><sub>22,31,33,-,31</sub> | 17.8<br><sub>8,17,23,-,10</sub> | 17.5 · –<br><sub>o 51% · u 49%</sub> | 4.4<br><sub>2,6,8,-,7</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>1,10,3,-,6</sub> | 5.5<br><sub>o 42% · u 58%</sub> | 1.8<br><sub>0,3,1,-,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 1.9 | 0.6 | 2.9 | 27.2 |
+| Jase Richardson (ORL) | 91% | 28.8<br><sub>14,33,26,29,26</sub> | 11.6<br><sub>10,4,4,9,10</sub> | 10.5 · –<br><sub>o 48% · u 52%</sub> | 2.9<br><sub>1,6,1,1,2</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 3.2<br><sub>1,2,3,5,3</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.2<br><sub>2,0,0,0,2</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.2 | 0.3 | 1.6 | 17.7 |
 | Jamal Cain (ORL) | 98% | 26.9<br><sub>16,15,18,25,25</sub> | 10.7<br><sub>9,13,5,10,5</sub> |  | 4.2<br><sub>1,0,1,3,5</sub> |  | 1.5<br><sub>0,0,1,1,0</sub> |  | 1.3<br><sub>0,3,1,2,1</sub> |  | 0.8 | 0.3 | 1.5 | 16.4 |
 | Jevon Carter (ORL) | 63% | 18.6<br><sub>22,-,-,18,3</sub> | 6.6<br><sub>6,-,-,5,0</sub> |  | 1.8<br><sub>0,-,-,1,0</sub> |  | 2.0<br><sub>3,-,-,4,0</sub> |  | 1.1<br><sub>2,-,-,1,0</sub> |  | 0.8 | 0.2 | 0.8 | 10.4 |
 | Alex Morales (ORL) | 67% | 14.1<br><sub>7,9,-,14,6</sub> | 3.8<br><sub>2,0,-,3,0</sub> |  | 2.0<br><sub>2,1,-,2,0</sub> |  | 1.1<br><sub>1,0,-,0,0</sub> |  | 0.2<br><sub>0,0,-,0,0</sub> |  | 0.6 | 0.1 | 0.9 | 6.9 |
