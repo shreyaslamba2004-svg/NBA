@@ -4,6 +4,14 @@ DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.3947,2.53,2.66,2.36,-0.068,1
 DEN @ IND,DEN win + Nikola Jokic blk under 1.5,2,0.533,0.4718,2.12,2.23,1.94,-0.0831,1.002,1.85-2.10
 DEN @ IND,game over 228.5 + Jamal Murray 2+ 3pm,2,0.5871,0.394,2.54,2.67,2.32,-0.0861,1.017,2.10-2.50
 DEN @ IND,Nikola Jokic blk under 1.5 + Jamal Murray 2+ 3pm,2,0.6633,0.5139,1.95,2.04,1.74,-0.1077,0.999,1.65-1.85
+BKN @ ATL,game over 227.5 + CJ McCollum 1+ 3pm,2,0.3038,0.4071,2.46,2.58,2.29,-0.0689,1.023,2.10-2.50
+BKN @ ATL,ATL -7.5 + Luguentz Dort 5+ pa,2,0.5091,0.4281,2.34,2.45,2.17,-0.07,1.013,2.10-2.50
+BKN @ ATL,ATL -7.5 + CJ McCollum 1+ 3pm,2,0.461,0.3872,2.58,2.71,2.4,-0.0701,1.013,2.10-2.50
+BKN @ ATL,game over 227.5 + Luguentz Dort 5+ pa,2,0.3339,0.448,2.23,2.34,2.07,-0.0733,1.019,1.85-2.10
+BKN @ ATL,ATL win + CJ McCollum 1+ 3pm,2,0.6288,0.5595,1.79,1.88,1.65,-0.0758,1.008,1.65-1.85
+BKN @ ATL,Mikel Brown Jr. pts under 12.5 + Luguentz Dort 5+ pa,2,0.6153,0.4469,2.24,2.35,2.01,-0.0999,1.001,1.85-2.10
+BKN @ ATL,BKN +7.5 + Luguentz Dort 5+ pa,2,0.441,0.4577,2.18,2.29,1.97,-0.1005,0.985,1.85-2.10
+BKN @ ATL,ATL win + CJ McCollum 1+ 3pm + Luguentz Dort 5+ pa,3,0.6024,0.5006,2.0,2.1,1.75,-0.124,1.016,1.65-1.85
 NYK @ CLE,NYK -4.5 + Miles McBride 5+ pa,2,0.4906,0.4011,2.49,2.62,2.34,-0.0612,1.017,2.10-2.50
 NYK @ CLE,NYK -4.5 + Miles McBride 5+ pr,2,0.4972,0.4072,2.46,2.58,2.3,-0.0646,1.014,2.10-2.50
 NYK @ CLE,NYK -4.5 + Karl-Anthony Towns 1+ 3pm,2,0.4702,0.3882,2.58,2.7,2.4,-0.0667,1.012,2.10-2.50
@@ -22,6 +30,7 @@ WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5
 ORL @ GSW,GSW win + Desmond Bane 3+ ast,2,0.4874,0.389,2.57,2.7,2.37,-0.0767,0.979,2.10-2.50
 HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5427,0.435,2.3,2.41,2.22,-0.035,1.019,2.10-2.50
 HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5143,0.4559,2.19,2.3,2.11,-0.0365,1.028,2.10-2.50
+HOU @ PHX,HOU win + Jabari Smith Jr. 10+ pts,2,0.565,0.557,1.8,1.89,1.7,-0.0527,1.021,1.65-1.85
 HOU @ PHX,HOU win + Amen Thompson 10+ pts,2,0.5862,0.5789,1.73,1.81,1.63,-0.0578,1.016,1.50-1.65
 HOU @ PHX,HOU win + Jabari Smith Jr. 6+ reb,2,0.4538,0.4048,2.47,2.59,2.32,-0.059,1.004,2.10-2.50
 HOU @ PHX,PHX +7.5 + Dillon Brooks 10+ pr,2,0.535,0.4464,2.24,2.35,2.06,-0.0795,1.007,1.85-2.10
@@ -30,5 +39,4 @@ HOU @ PHX,game over 221.5 + Dillon Brooks 10+ pr,2,0.5619,0.449,2.23,2.34,2.03,-
 HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.559,0.5612,1.78,1.87,1.62,-0.0905,0.982,1.50-1.65
 HOU @ PHX,Luke Kennard 3pm under 1.5 + Dillon Brooks 10+ pr,2,0.7721,0.5272,1.9,1.99,1.72,-0.0955,0.999,1.65-1.85
 HOU @ PHX,Luke Kennard 3pm under 1.5 + Dillon Brooks 10+ pa,2,0.7458,0.511,1.96,2.05,1.77,-0.097,0.998,1.65-1.85
-HOU @ PHX,Jabari Smith Jr. 6+ reb + Dillon Brooks 10+ pr,2,0.658,0.5001,2.0,2.1,1.8,-0.101,1.003,1.65-1.85
 HOU @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7248,0.5473,1.83,1.92,1.63,-0.1054,0.999,1.50-1.65
