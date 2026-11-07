@@ -6,19 +6,19 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909942,ORL @ GSW,moneyline,ORL,,,,draftkings,224.0,3.24,0.2661,3.76,0.2966,0.3225,-0.0564,4.05,-0.1379,0.3225,0.0448,0.005,False,True,True,,,
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,2000.0,21.0,0.1039,9.63,0.0445,0.0445,0.0594,,1.1812,0.049,0.0281,0.0004,False,True,False,,,
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,6.5,draftkings,1100.0,12.0,0.1798,5.56,0.0779,0.0779,0.1019,,1.1579,0.0855,0.0263,0.0006,False,False,False,,,
+401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,12.5,draftkings,1340.0,14.4,0.1484,6.74,0.0649,0.0649,0.0835,,1.1374,0.0712,0.0248,0.0005,False,False,False,,,
+401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,13.5,draftkings,2000.0,21.0,0.1,10.0,0.0445,0.0445,0.0555,,1.1003,0.0487,0.022,0.0003,False,True,False,,,
 401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,1680.0,17.8,0.1168,8.56,0.0525,0.0525,0.0643,,1.0793,0.0573,0.0204,0.0003,False,False,False,,,
 401909939,BKN @ ATL,moneyline,BKN,,,,draftkings,231.0,3.31,0.2333,4.29,0.2902,0.3081,-0.0748,4.1,-0.2278,0.3081,0.0197,0.0021,False,True,True,Noah Clowney,0.2091,0.2501
-401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,13.5,draftkings,1960.0,20.6,0.1,10.0,0.0454,0.0454,0.0546,,1.0603,0.0495,0.019,0.0002,False,True,False,,,
-401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,12.5,draftkings,1260.0,13.6,0.1484,6.74,0.0687,0.0687,0.0797,,1.0187,0.0747,0.0159,0.0003,False,False,False,,,
 401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,1000.0,11.0,0.1832,5.46,0.085,0.085,0.0982,,1.0149,0.0923,0.0156,0.0004,False,True,False,,,
 401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,15.5,draftkings,1380.0,14.8,0.1356,7.37,0.0631,0.0631,0.0725,,1.0074,0.0686,0.015,0.0003,False,True,False,Anthony Davis,0.0,0.1346
+401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,11.5,draftkings,810.0,9.1,0.2176,4.6,0.1027,0.1027,0.1149,,0.9798,0.1113,0.013,0.0004,False,True,False,,,
 401909942,ORL @ GSW,moneyline,ORL,,,,betfair_ex_au,213.74999999999997,3.14,0.2661,3.76,0.3113,0.3225,-0.0564,2.37,-0.1651,0.3225,0.0117,0.0014,False,True,True,,,
-401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,11.5,draftkings,790.0,8.9,0.2176,4.6,0.105,0.105,0.1125,,0.9363,0.1135,0.0097,0.0003,False,True,False,,,
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,5.5,draftkings,544.0,6.44,0.2981,3.36,0.1451,0.1451,0.1529,,0.9195,0.1566,0.0084,0.0004,True,True,False,,,
 401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,14.5,draftkings,930.0,10.3,0.1843,5.43,0.0907,0.0907,0.0935,,0.898,0.0978,0.0068,0.0002,False,False,False,Anthony Davis,0.0,0.1846
 401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,16.5,draftkings,1920.0,20.2,0.0936,10.68,0.0463,0.0463,0.0474,,0.8915,0.0498,0.0063,0.0001,False,False,False,Anthony Davis,0.0,0.0934
 401909940,NYK @ CLE,moneyline,CLE,,,,betfair_ex_au,178.59999999999997,2.79,0.2906,3.44,0.3492,0.3611,-0.0704,2.79,-0.1902,0.3611,0.006,0.0008,False,True,True,,,
 401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,11.5,draftkings,2600.0,27.0,0.0696,14.37,0.0346,0.0346,0.035,,0.8795,0.0372,0.0054,0.0001,False,True,False,,,
-401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,14.5,draftkings,2800.0,29.0,0.0647,15.45,0.0322,0.0322,0.0325,,0.8776,0.0347,0.0053,0.0,False,False,False,,,
 401909943,HOU @ PHX,moneyline,PHX,,,,sportsbet,255.0,3.55,0.3416,2.93,0.2711,0.2827,0.0589,3.9,0.2129,0.2827,0.0037,0.0004,False,True,True,,,
+401909938,DEN @ IND,prop_ast,over,Andrew Nembhard,1629614.0,14.5,draftkings,2700.0,28.0,0.0647,15.45,0.0334,0.0334,0.0314,,0.8128,0.0357,0.0004,0.0,False,False,False,,,
 401909944,SAS @ POR,moneyline,POR,,,,betfair_ex_au,176.70000000000005,2.77,0.3816,2.62,0.3492,0.3614,0.0201,3.49,0.0557,0.3614,0.0001,0.0,False,True,True,,,
