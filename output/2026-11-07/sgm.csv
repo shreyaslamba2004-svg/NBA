@@ -1,37 +1,32 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DEN @ IND,DEN win + Jamal Murray 27+ pr,2,0.4406,0.381,2.62,2.76,2.48,-0.0549,1.036,2.10-2.50
 DEN @ IND,DEN win + Jamal Murray 30+ pra,2,0.5108,0.4795,2.09,2.19,1.95,-0.0662,1.032,1.85-2.10
-DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4505,0.4189,2.39,2.51,2.21,-0.0742,1.022,2.10-2.50
-DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5708,0.3895,2.57,2.7,2.35,-0.0862,1.017,2.10-2.50
+DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4505,0.417,2.4,2.52,2.23,-0.0695,1.022,2.10-2.50
+DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5708,0.388,2.58,2.71,2.36,-0.086,1.017,2.10-2.50
 DEN @ IND,DEN win + Jamal Murray 4+ reb,2,0.4818,0.4507,2.22,2.33,2.0,-0.0972,0.997,1.85-2.10
-DEN @ IND,Aaron Gordon 3pm under 1.5 + Jamal Murray 2+ 3pm,2,0.5206,0.4216,2.37,2.49,2.09,-0.1169,0.993,1.85-2.10
 BKN @ ATL,game over 226.5 + Onyeka Okongwu 20+ pra,2,0.3038,0.3949,2.53,2.66,2.46,-0.0265,1.078,2.10-2.50
 BKN @ ATL,ATL win + Michael Porter Jr. 3pm under 3.5,2,0.4641,0.4007,2.5,2.62,2.34,-0.0604,1.031,2.10-2.50
 BKN @ ATL,ATL win + Nolan Traore ast under 4.5,2,0.4641,0.389,2.57,2.7,2.4,-0.0662,1.022,2.10-2.50
 BKN @ ATL,ATL win + Onyeka Okongwu 20+ pra,2,0.5714,0.5074,1.97,2.07,1.83,-0.0717,1.022,1.65-1.85
 BKN @ ATL,Nolan Traore ast under 4.5 + Onyeka Okongwu 15+ pra,2,0.6383,0.4779,2.09,2.2,1.87,-0.1044,0.999,1.85-2.10
 BKN @ ATL,Nolan Traore ra under 6.5 + Onyeka Okongwu 15+ pra,2,0.5559,0.4372,2.29,2.4,2.04,-0.1073,0.999,1.85-2.10
-NYK @ CLE,game over 224.5 + OG Anunoby 10+ pts,2,0.4291,0.437,2.29,2.4,2.11,-0.0761,1.031,2.10-2.50
-NYK @ CLE,NYK win + OG Anunoby 10+ pts,2,0.6271,0.5426,1.84,1.94,1.69,-0.0844,1.015,1.65-1.85
-NYK @ CLE,NYK -4.5 + OG Anunoby 10+ pts,2,0.524,0.4325,2.31,2.43,2.11,-0.0856,1.02,2.10-2.50
-NYK @ CLE,NYK win + Landry Shamet reb under 2.5,2,0.4436,0.3746,2.67,2.8,2.41,-0.0954,1.0,2.10-2.50
-NYK @ CLE,Mikal Bridges 3pm under 1.5 + OG Anunoby 10+ pts,2,0.5892,0.4414,2.27,2.38,2.02,-0.1072,0.996,1.85-2.10
-NYK @ CLE,Landry Shamet pts under 10.5 + OG Anunoby 10+ pts,2,0.5398,0.437,2.29,2.4,2.03,-0.1127,0.997,1.85-2.10
-NYK @ CLE,Miles McBride 3pm under 1.5 + OG Anunoby 10+ pts,2,0.5471,0.4437,2.25,2.37,1.99,-0.1155,0.994,1.85-2.10
-NYK @ CLE,Landry Shamet reb under 2.5 + OG Anunoby 10+ pts,2,0.5792,0.5019,1.99,2.09,1.76,-0.119,0.997,1.65-1.85
-WAS @ OKC,OKC win + game over 219.5,2,0.486,0.3934,2.54,2.67,2.33,-0.0817,1.001,2.10-2.50
+WAS @ OKC,OKC win + Jared McCain 14+ pts,2,0.3675,0.4179,2.39,2.51,2.3,-0.0408,1.056,2.10-2.50
+WAS @ OKC,OKC win + Isaiah Hartenstein 9+ pts,2,0.4299,0.4017,2.49,2.61,2.39,-0.041,1.038,2.10-2.50
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 32+ pts,2,0.3469,0.3994,2.5,2.63,2.4,-0.0421,1.059,2.10-2.50
+WAS @ OKC,OKC win + Jared McCain 2+ 3pm,2,0.429,0.4666,2.14,2.25,2.0,-0.0684,1.03,1.85-2.10
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 3pm under 2.5,2,0.5213,0.4882,2.05,2.15,1.86,-0.0938,0.987,1.85-2.10
+WAS @ OKC,OKC win + Ajay Mitchell 3pm under 1.5,2,0.4851,0.5154,1.94,2.04,1.74,-0.105,0.985,1.65-1.85
+WAS @ OKC,OKC win + Alex Caruso 3pm under 1.5,2,0.4173,0.4451,2.25,2.36,1.99,-0.1157,0.977,1.85-2.10
 ORL @ GSW,GSW win + Wendell Carter Jr. reb under 9.5,2,0.4617,0.375,2.67,2.8,2.43,-0.0884,0.997,2.10-2.50
 ORL @ GSW,GSW win + Yaxel Lendeborg ast under 4.5,2,0.456,0.3608,2.77,2.91,2.49,-0.102,0.979,2.10-2.50
-ORL @ GSW,GSW win + Desmond Bane 3+ ast,2,0.4851,0.4007,2.5,2.62,2.23,-0.1049,0.979,2.10-2.50
+ORL @ GSW,GSW win + Desmond Bane 3+ ast,2,0.4851,0.3956,2.53,2.65,2.27,-0.1037,0.979,2.10-2.50
 HOU @ PHX,HOU win + Miles Bridges pa under 19.5,2,0.4332,0.4028,2.48,2.61,2.38,-0.0397,1.054,2.10-2.50
-HOU @ PHX,HOU win + Miles Bridges pra under 25.5,2,0.4034,0.3861,2.59,2.72,2.48,-0.0439,1.052,2.10-2.50
-HOU @ PHX,HOU win + Miles Bridges pr under 22.5,2,0.4034,0.3853,2.6,2.73,2.47,-0.0496,1.046,2.10-2.50
-HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5128,0.464,2.15,2.26,2.02,-0.0618,1.027,1.85-2.10
-HOU @ PHX,HOU win + Amen Thompson 10+ pts,2,0.5882,0.5818,1.72,1.8,1.58,-0.0782,1.018,1.50-1.65
-HOU @ PHX,HOU win + Jabari Smith Jr. 10+ pts,2,0.5582,0.5706,1.75,1.84,1.61,-0.0798,1.019,1.50-1.65
-HOU @ PHX,Luke Kennard 3pm under 1.5 + Amen Thompson 10+ pts,2,0.7074,0.4648,2.15,2.26,1.95,-0.0945,0.997,1.85-2.10
-HOU @ PHX,Luke Kennard 3pm under 1.5 + Jabari Smith Jr. 10+ pts,2,0.6704,0.4552,2.2,2.31,1.98,-0.0974,0.996,1.85-2.10
-HOU @ PHX,Collin Gillespie 3pm under 2.5 + Amen Thompson 10+ pts,2,0.6663,0.492,2.03,2.13,1.83,-0.1019,1.001,1.65-1.85
-HOU @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pts,2,0.6523,0.4995,2.0,2.1,1.78,-0.1095,0.996,1.65-1.85
+HOU @ PHX,HOU win + Miles Bridges pts under 16.5,2,0.437,0.3995,2.5,2.63,2.4,-0.0406,1.051,2.10-2.50
+HOU @ PHX,HOU win + Amen Thompson 15+ pts,2,0.4263,0.4057,2.46,2.59,2.35,-0.0459,1.05,2.10-2.50
+HOU @ PHX,Luke Kennard 3pm under 1.5 + Jabari Smith Jr. 4+ reb,2,0.729,0.487,2.05,2.16,1.86,-0.0931,1.0,1.85-2.10
+HOU @ PHX,Luke Kennard 3pm under 1.5 + Amen Thompson 10+ pts,2,0.7074,0.4782,2.09,2.2,1.89,-0.0969,0.997,1.85-2.10
+HOU @ PHX,Luke Kennard 3pm under 1.5 + Dillon Brooks 10+ pts,2,0.6955,0.477,2.1,2.2,1.89,-0.0989,0.996,1.85-2.10
 HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.5585,0.5729,1.75,1.83,1.55,-0.1135,0.982,1.50-1.65
-SAS @ POR,SAS win + Devin Vassell 3pm under 2.5,2,0.4887,0.3989,2.51,2.63,2.25,-0.1008,0.982,2.10-2.50
+HOU @ PHX,HOU win + Jabari Smith Jr. 4+ reb + Amen Thompson 10+ pts,3,0.5311,0.4873,2.05,2.15,1.78,-0.132,1.019,1.65-1.85
+HOU @ PHX,HOU win + Amen Thompson 10+ pts + Dillon Brooks 10+ pts,3,0.4995,0.4705,2.13,2.23,1.81,-0.1499,1.0,1.65-1.85
+SAS @ POR,SAS win + Scoot Henderson ast under 3.5,2,0.4383,0.3835,2.61,2.74,2.44,-0.0645,1.029,2.10-2.50
