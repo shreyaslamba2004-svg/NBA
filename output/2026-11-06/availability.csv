@@ -37,44 +37,44 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909290,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909290,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909290,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) is out for Friday's game against Utah.,0.0,De Larrea (knee) is out for Friday's game against Utah.,,
-401909290,DAL,1642843,Cooper Flagg,,,1.0,,,
-401909290,DAL,1629655,Daniel Gafford,,,1.0,,,
+401909290,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
+401909290,DAL,1629655,Daniel Gafford,Starting,,1.0,,,1.0
 401909290,DAL,1641724,Jett Howard,,,1.0,,,
-401909290,DAL,202681,Kyrie Irving,Available,Injury/Illness-Illness,1.0,,,
+401909290,DAL,202681,Kyrie Irving,Starting,Injury/Illness-Illness,1.0,,,1.0
 401909290,DAL,1642358,Morez Johnson Jr.,,,1.0,,,
 401909290,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909290,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is listed as out for Monday's game against the Kings.,,
 401909290,DAL,1630230,Naji Marshall,,,1.0,,,
-401909290,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
+401909290,DAL,1628997,Caleb Martin,Starting,Injury/Illness-RightThumbSplint,1.0,,,1.0
 401909290,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909290,DAL,1631204,Marcus Sasser,,,1.0,,,
-401909290,DAL,1629023,P.J. Washington,,,1.0,,,
+401909290,DAL,1629023,P.J. Washington,Starting,,1.0,,,1.0
 401909290,UTA,1641725,Trey Alexander,Out,GLeague-Two-Way,0.0,Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.,,
-401909290,UTA,1642846,Ace Bailey,,,1.0,,,
+401909290,UTA,1642846,Ace Bailey,Starting,,1.0,,,1.0
 401909290,UTA,1628964,Mo Bamba,,,1.0,,,
 401909290,UTA,1628396,Tony Bradley,,,1.0,,,
 401909290,UTA,1641723,Kobe Bufkin,,,1.0,,,
 401909290,UTA,1642268,Isaiah Collier,,,1.0,,,
 401909290,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401909290,UTA,1641718,Keyonte George,,,1.0,,,
+401909290,UTA,1641718,Keyonte George,Starting,,1.0,,,1.0
 401909290,UTA,1630182,Josh Green,,,1.0,,,
-401909290,UTA,1629637,Jaxson Hayes,,,1.0,,,
+401909290,UTA,1629637,Jaxson Hayes,Starting,,1.0,,,1.0
 401909290,UTA,904433618,Harrison Ingram,Out,GLeague-Two-Way,0.0,,,
 401909290,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
-401909290,UTA,1628374,Lauri Markkanen,,,1.0,,,
+401909290,UTA,1628374,Lauri Markkanen,Starting,,1.0,,,1.0
 401909290,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
 401909290,UTA,203994,Jusuf Nurkic,Out,,0.0,"Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",,
 401909290,UTA,1629006,Josh Okogie,,,1.0,,,
-401909290,UTA,905041955,Darryn Peterson,,,1.0,,,
+401909290,UTA,905041955,Darryn Peterson,Starting,,1.0,,,1.0
 401909290,UTA,1641729,Brice Sensabaugh,,,1.0,,,
-401909291,MEM,905041935,Cameron Boozer,,,1.0,,,
+401909291,MEM,905041935,Cameron Boozer,Starting,,1.0,,,1.0
 401909291,MEM,905105817,Carson Cooper,Out,GLeague-Two-Way,0.0,,,
-401909291,MEM,1642907,Cedric Coward,,,1.0,,,
-401909291,MEM,1641744,Zach Edey,,,1.0,,,
+401909291,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
+401909291,MEM,1641744,Zach Edey,Starting,,1.0,,,1.0
 401909291,MEM,203924,Jerami Grant,,,1.0,,,
 401909291,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401909291,MEM,1641713,GG Jackson,,,1.0,,,
-401909291,MEM,1629660,Ty Jerome,,,1.0,,,
+401909291,MEM,1629660,Ty Jerome,Starting,,1.0,,,1.0
 401909291,MEM,905231919,Karim Lopez,,,1.0,,,
 401909291,MEM,1642942,Jahmai Mashack,,,1.0,,,
 401909291,MEM,1631200,Kris Murray,,,1.0,,,
@@ -84,16 +84,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909291,MEM,1642914,Javon Small,,,1.0,,,
 401909291,MEM,1642285,Cam Spencer,,,1.0,,,
 401909291,MEM,1630191,Isaiah Stewart,Out,,0.0,Stewart (knee) has been ruled out for Friday's game against the Thunder.,,
-401909291,MEM,1642377,Jaylen Wells,,,1.0,,,
+401909291,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
 401909291,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401909291,OKC,1627936,Alex Caruso,,,1.0,,,
 401909291,OKC,905105800,Josh Dix,,,1.0,,,
-401909291,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
-401909291,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
+401909291,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
+401909291,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
 401909291,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
 401909291,OKC,905174983,Aday Mara,,,1.0,,,
-401909291,OKC,1642272,Jared McCain,,,1.0,,,
-401909291,OKC,1642349,Ajay Mitchell,,,1.0,,,
+401909291,OKC,1642272,Jared McCain,Starting,,1.0,,,1.0
+401909291,OKC,1642349,Ajay Mitchell,Starting,,1.0,,,1.0
 401909291,OKC,904432185,Micah Peavy,,,1.0,,,
 401909291,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,Sorber (knee) is out for Wednesday's game against the Cavaliers.,,
 401909291,OKC,905241364,Bennett Stirtz,,,1.0,,,
@@ -102,16 +102,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909291,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401909291,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
 401909291,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowbackSpasms,0.0,Williams (back) has been ruled out for Friday's game against the Grizzlies.,,
-401909291,OKC,1629026,Kenrich Williams,,,1.0,,,
+401909291,OKC,1629026,Kenrich Williams,Starting,,1.0,,,1.0
 401909292,MIL,905164559,Nate Ament,,,1.0,,,
-401909292,MIL,905082206,Brayden Burries,,,1.0,,,
+401909292,MIL,905082206,Brayden Burries,Starting,,1.0,,,1.0
 401909292,MIL,1631172,Ousmane Dieng,,,1.0,,,
 401909292,MIL,1631260,AJ Green,,,1.0,,,
-401909292,MIL,1629639,Tyler Herro,,,1.0,,,
+401909292,MIL,1629639,Tyler Herro,Starting,,1.0,,,1.0
 401909292,MIL,905214640,Kasparas Jakucionis,,,1.0,,,
-401909292,MIL,1631170,Jaime Jaquez Jr.,,,1.0,,,
+401909292,MIL,1631170,Jaime Jaquez Jr.,Starting,,1.0,,,1.0
 401909292,MIL,1642880,Kam Jones,Out,GLeague-Two-Way,0.0,Jones (ankle/two-way player) is out for Friday's game against Toronto.,,
-401909292,MIL,1628398,Kyle Kuzma,,,1.0,,,
+401909292,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
 401909292,MIL,1627747,Caris LeVert,,,1.0,,,
 401909292,MIL,905214989,Bogoljub Markovic,Out,GLeague-OnAssignment,0.0,,,
 401909292,MIL,1631250,Pete Nance,Out,GLeague-Two-Way,0.0,,,
@@ -119,11 +119,11 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909292,MIL,1642504,Cormac Ryan,Out,GLeague-Two-Way,0.0,,,
 401909292,MIL,1630579,Jericho Sims,,,1.0,,,
 401909292,MIL,1629018,Gary Trent Jr.,,,1.0,,,
-401909292,MIL,1626167,Myles Turner,,,1.0,,,
+401909292,MIL,1626167,Myles Turner,Starting,,1.0,,,1.0
 401909292,MIL,905105623,Kel'el Ware,,,1.0,,,
 401909292,TOR,203937,Kyle Anderson,Available,Injury/Illness-Illness,1.0,,,
 401909292,TOR,1630567,Scottie Barnes,Out,Injury/Illness-LeftGroinStrain,0.0,"Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",,
-401909292,TOR,1629628,RJ Barrett,,,1.0,,,
+401909292,TOR,1629628,RJ Barrett,Starting,,1.0,,,1.0
 401909292,TOR,1642419,Jamison Battle,,,1.0,,,
 401909292,TOR,904432586,Nate Bittle,Out,,0.0,Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return.,,
 401909292,TOR,904432737,Jaden Bradley,,,1.0,,,
@@ -132,42 +132,42 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909292,TOR,202695,Kawhi Leonard,Out,,0.0,"Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports.",,
 401909292,TOR,1642918,Alijah Martin,,,1.0,,,
 401909292,TOR,1641755,Kevin McCullar Jr.,Out,GLeague-Two-Way,0.0,,,
-401909292,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
-401909292,TOR,1627751,Jakob Poeltl,Available,Injury/Illness-LeftShoulderBursitis,1.0,,,
+401909292,TOR,1642867,Collin Murray-Boyles,Starting,,1.0,,,1.0
+401909292,TOR,1627751,Jakob Poeltl,Starting,Injury/Illness-LeftShoulderBursitis,1.0,,,1.0
 401909292,TOR,1630193,Immanuel Quickley,Out,,0.0,"Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",,
-401909292,TOR,1642347,Jamal Shead,,,1.0,,,
+401909292,TOR,1642347,Jamal Shead,Starting,,1.0,,,1.0
 401909292,TOR,1641869,Malachi Smith,Out,GLeague-Two-Way,0.0,,,
-401909292,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
+401909292,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
 401909293,NOP,1630180,Saddiq Bey,,,1.0,,,
 401909293,NOP,904712862,Malik Dia,Out,GLeague-Two-Way,0.0,,,
-401909293,NOP,1642847,Jeremiah Fears,,,1.0,,,
+401909293,NOP,1642847,Jeremiah Fears,Starting,,1.0,,,1.0
 401909293,NOP,905170947,AJ Johnson,,,1.0,,,
 401909293,NOP,1630529,Herbert Jones,,,1.0,,,
 401909293,NOP,201599,DeAndre Jordan,,,1.0,,,
 401909293,NOP,1631097,Bennedict Mathurin,,,1.0,,,
-401909293,NOP,1631255,Karlo Matkovic,,,1.0,,,
+401909293,NOP,1631255,Karlo Matkovic,Starting,,1.0,,,1.0
 401909293,NOP,1631121,Bryce McGowens,,,1.0,,,
 401909293,NOP,1642274,Yves Missi,Out,,0.0,Missi (knee) is out for Friday's game against Minnesota.,,
-401909293,NOP,1630530,Trey Murphy III,Available,,1.0,,,
-401909293,NOP,1627749,Dejounte Murray,,,1.0,,,
+401909293,NOP,1630530,Trey Murphy III,Starting,,1.0,,,1.0
+401909293,NOP,1627749,Dejounte Murray,Starting,,1.0,,,1.0
 401909293,NOP,904703115,Jaron Pierre Jr.,Out,GLeague-Two-Way,0.0,,,
 401909293,NOP,1629673,Jordan Poole,,,1.0,,,
 401909293,NOP,1642852,Derik Queen,,,1.0,,,
 401909293,NOP,904683742,Julian Reese,Available,GLeague-Two-Way,1.0,,,
 401909293,NOP,1630570,Trendon Watford,,,1.0,,,
-401909293,NOP,1629627,Zion Williamson,,,1.0,,,
-401909293,MIN,1630163,LaMelo Ball,,,1.0,,,
+401909293,NOP,1629627,Zion Williamson,Starting,,1.0,,,1.0
+401909293,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
 401909293,MIN,1642866,Joan Beringer,,,1.0,,,
 401909293,MIN,1641740,Jaylen Clark,,,1.0,,,
 401909293,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",,
-401909293,MIN,1630245,Ayo Dosunmu,,,1.0,,,
+401909293,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
 401909293,MIN,1630162,Anthony Edwards,Out,,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909293,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909293,MIN,203497,Rudy Gobert,,,1.0,,,
+401909293,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
 401909293,MIN,1630538,Bones Hyland,,,1.0,,,
-401909293,MIN,1630228,Jonathan Kuminga,,,1.0,,,
+401909293,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
 401909293,MIN,1626168,Trey Lyles,,,1.0,,,
-401909293,MIN,1630183,Jaden McDaniels,,,1.0,,,
+401909293,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
 401909293,MIN,1642389,Zyon Pullin,,,1.0,,,
 401909293,MIN,1630545,Terrence Shannon Jr.,Out,Injury/Illness-LeftHipContusion,0.0,Shannon (hip) has been ruled out for Friday's game against New Orleans.,,
 401909293,MIN,904895758,Cody Williams,,,1.0,,,
@@ -213,7 +213,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909295,SAC,1641778,Leaky Black,,,1.0,,,
 401909295,SAC,1642928,Dylan Cardwell,,,1.0,,,
 401909295,SAC,1642363,Nique Clifford,,,1.0,,,
-401909295,SAC,1629631,De'Andre Hunter,Questionable,Injury/Illness-Illness,0.55,Hunter is questionable for Friday against the Spurs due to an illness.,,
+401909295,SAC,1629631,De'Andre Hunter,Out,Injury/Illness-Illness,0.0,Hunter is questionable for Friday against the Spurs due to an illness.,,
 401909295,SAC,904917149,Alex Karaban,,,1.0,,,
 401909295,SAC,203897,Zach LaVine,,,1.0,,,
 401909295,SAC,905107897,Jonathan Mogbo,,,1.0,,,
