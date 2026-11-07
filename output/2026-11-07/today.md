@@ -1,6 +1,6 @@
 # NBA model · Sat 07 Nov 2026 (US date)
 
-Updated **Sun 08 Nov, 10:04 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 08 Nov, 10:09 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -34,7 +34,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| BKN @ ATL | Sun 08 Nov 11:30 | 105.8–117.4 | BKN 20% | 4.91 / 1.26 | ATL -11.5 | 223.5 | ATL -6.5 covers 64%; o226.5 43% |
+| BKN @ ATL | Sun 08 Nov 11:30 | 105.8–117.4 | BKN 20% | 4.91 / 1.26 | ATL -11.5 | 223.5 | ATL -6.5 covers 64%; o227.5 40% |
 | NYK @ CLE | Sun 08 Nov 12:00 | 115.5–107.7 | NYK 71% | 1.41 / 3.44 | CLE +7.5 | 222.5 | CLE +4.5 covers 40%; o223.5 49% |
 | WAS @ OKC | Sun 08 Nov 12:00 | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -11.5 covers 41%; o223.5 64% |
 | ORL @ GSW | Sun 08 Nov 12:30 | 108.3–115.5 | ORL 30% | 3.33 / 1.43 | GSW -7.5 | 223.5 | GSW -7.5 covers 50%; o219.5 59% |
@@ -46,10 +46,10 @@ Out: RayJ Dennis (ATL), Keshon Gilbert (ATL), Mouhamed Gueye (ATL), Jock Landale
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 105.8–117.4 | BKN 20% | 4.91 / 1.26 | ATL -11.5 | 223.5 | ATL -6.5 covers 64%; o226.5 43% |
-| Expected (weighted by chance each plays) | 106.2–116.3 | BKN 24% | 4.24 / 1.31 | ATL -10.5 | 222.5 | ATL -6.5 covers 60%; o226.5 41% |
-| if Noah Clowney plays | 106.2–117.1 | BKN 22% | 4.56 / 1.28 | ATL -10.5 | 223.5 | ATL -6.5 covers 62%; o226.5 43% |
-| if Day'Ron Sharpe plays | 107.0–116.7 | BKN 25% | 4.05 / 1.33 | ATL -9.5 | 223.5 | ATL -6.5 covers 59%; o226.5 43% |
+| Confirmed players only | 105.8–117.4 | BKN 20% | 4.91 / 1.26 | ATL -11.5 | 223.5 | ATL -6.5 covers 64%; o227.5 40% |
+| Expected (weighted by chance each plays) | 106.2–116.3 | BKN 24% | 4.24 / 1.31 | ATL -10.5 | 222.5 | ATL -6.5 covers 60%; o227.5 39% |
+| if Noah Clowney plays | 106.2–117.1 | BKN 22% | 4.56 / 1.28 | ATL -10.5 | 223.5 | ATL -6.5 covers 62%; o227.5 41% |
+| if Day'Ron Sharpe plays | 107.0–116.7 | BKN 25% | 4.05 / 1.33 | ATL -9.5 | 223.5 | ATL -6.5 covers 59%; o227.5 41% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -402,7 +402,7 @@ Out: Mark Williams (PHX), Steven Adams (HOU), Clint Capela (HOU)
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Jabari Smith Jr. | 98% | 36.2<br><sub>30,35,33,36,35</sub> | 15.9<br><sub>14,22,30,14,11</sub> | 14.5 · –<br><sub>o 48% · u 52%</sub> | 7.2<br><sub>2,3,9,10,4</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 2.1<br><sub>2,2,5,0,2</sub> |  | 2.3<br><sub>3,3,6,4,2</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 0.8 | 0.8 | 1.5 | 25.2 |
 | Alperen Sengun | 76% | 36.2<br><sub>-,-,33,38,39</sub> | 21.9<br><sub>-,-,16,26,17</sub> | 19.5 · –<br><sub>o 52% · u 48%</sub> | 10.0<br><sub>-,-,9,7,12</sub> | 9.5<br><sub>o 48% · u 52%</sub> | 6.7<br><sub>-,-,9,10,10</sub> | 6.5<br><sub>o 52% · u 48%</sub> | 0.7<br><sub>-,-,0,1,0</sub> |  | 1.4 | 1.1 | 3.3 | 38.5 |
-| Kevin Durant | 98% | 35.9<br><sub>31,37,27,33,35</sub> | 22.8<br><sub>18,28,14,12,21</sub> | 21.5 · –<br><sub>o 50% · u 50%</sub> | 5.7<br><sub>5,5,3,3,5</sub> | 4.5<br><sub>o 58% · u 42%</sub> | 4.5<br><sub>4,1,4,3,2</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 1.9<br><sub>2,1,0,0,2</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.0 | 1.1 | 3.4 | 33.0 |
+| Kevin Durant | 98% | 35.9<br><sub>31,37,27,33,35</sub> | 22.8<br><sub>18,28,14,12,21</sub> | 21.5 · –<br><sub>o 51% · u 49%</sub> | 5.7<br><sub>5,5,3,3,5</sub> | 4.5<br><sub>o 58% · u 42%</sub> | 4.5<br><sub>4,1,4,3,2</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 1.9<br><sub>2,1,0,0,2</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.0 | 1.1 | 3.4 | 33.0 |
 | Amen Thompson | 98% | 35.7<br><sub>33,39,28,25,32</sub> | 17.4<br><sub>23,15,8,14,11</sub> | 14.5 · –<br><sub>o 52% · u 48%</sub> | 7.2<br><sub>4,3,3,3,8</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 4.3<br><sub>3,6,1,3,1</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 0.3<br><sub>0,0,0,0,0</sub> |  | 1.6 | 0.6 | 2.5 | 29.0 |
 | Fred VanVleet | 86% | 32.9<br><sub>29,33,-,27,30</sub> | 13.5<br><sub>24,16,-,8,18</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 3.6<br><sub>6,5,-,2,3</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 5.0<br><sub>5,6,-,9,3</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 2.5<br><sub>4,3,-,2,4</sub> | 2.5<br><sub>o 44% · u 56%</sub> | 1.4 | 0.4 | 1.7 | 22.1 |
 | Tari Eason | 98% | 25.8<br><sub>31,26,19,27,24</sub> | 10.3<br><sub>5,11,8,13,9</sub> | 9.5 · –<br><sub>o 49% · u 51%</sub> | 6.1<br><sub>9,13,3,4,6</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 1.4<br><sub>1,2,2,3,1</sub> |  | 1.1<br><sub>1,0,2,3,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 1.3 | 0.7 | 1.2 | 17.8 |
