@@ -1,8 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.4055,2.47,2.59,2.34,-0.053,1.019,2.10-2.50
-DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4601,0.428,2.34,2.45,2.19,-0.061,1.027,2.10-2.50
-DEN @ IND,DEN win + Nikola Jokic blk under 1.5,2,0.533,0.4713,2.12,2.23,1.95,-0.0829,1.002,1.85-2.10
-DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3906,2.56,2.69,2.35,-0.0835,1.017,2.10-2.50
+DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.4019,2.49,2.61,2.34,-0.0609,1.019,2.10-2.50
+DEN @ IND,DEN win + Jamal Murray 2+ 3pm,2,0.5811,0.5623,1.78,1.87,1.63,-0.0806,1.013,1.50-1.65
+DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3904,2.56,2.69,2.35,-0.0836,1.017,2.10-2.50
+DEN @ IND,IND +7.5 + Jamal Murray 2+ 3pm,2,0.4437,0.3815,2.62,2.75,2.34,-0.1085,0.984,2.10-2.50
+BKN @ ATL,ATL -7.5 + Luguentz Dort 5+ pa,2,0.541,0.4129,2.42,2.54,2.29,-0.0564,1.015,2.10-2.50
+BKN @ ATL,game over 227.5 + Luguentz Dort 5+ pa,2,0.355,0.4312,2.32,2.44,2.18,-0.0614,1.021,2.10-2.50
+BKN @ ATL,ATL win + Luguentz Dort 5+ pa,2,0.712,0.5897,1.7,1.78,1.57,-0.0731,1.009,1.50-1.65
+BKN @ ATL,Michael Porter Jr. 25+ pa + Luguentz Dort 5+ pa,2,0.4304,0.4206,2.38,2.5,2.17,-0.0888,1.001,2.10-2.50
+BKN @ ATL,Mikel Brown Jr. pr under 15.5 + Luguentz Dort 5+ pa,2,0.5843,0.4296,2.33,2.44,2.08,-0.1045,0.997,1.85-2.10
+BKN @ ATL,Mikel Brown Jr. pa under 16.5 + Luguentz Dort 5+ pa,2,0.5883,0.439,2.28,2.39,2.04,-0.106,0.997,1.85-2.10
+BKN @ ATL,Mikel Brown Jr. pts under 12.5 + Luguentz Dort 5+ pa,2,0.5876,0.4388,2.28,2.39,2.04,-0.1064,0.997,1.85-2.10
 NYK @ CLE,CLE +5.5 + Peyton Watson 10+ pr,2,0.4042,0.44,2.27,2.39,2.1,-0.0747,1.012,2.10-2.50
 NYK @ CLE,NYK win + Miles McBride 5+ pa,2,0.6098,0.5011,2.0,2.1,1.85,-0.0751,1.011,1.65-1.85
 NYK @ CLE,game over 224.5 + Miles McBride 5+ pa,2,0.4093,0.3918,2.55,2.68,2.36,-0.076,1.027,2.10-2.50
@@ -19,16 +26,15 @@ WAS @ OKC,AJ Dybantsa pa under 19.5 + Kyshawn George 1+ 3pm,2,0.6731,0.4363,2.29
 WAS @ OKC,AJ Dybantsa pts under 17.5 + Kyshawn George 1+ 3pm,2,0.692,0.4523,2.21,2.32,2.01,-0.093,0.997,1.85-2.10
 WAS @ OKC,game over 222.5 + Kyshawn George 1+ 3pm,2,0.5859,0.4336,2.31,2.42,2.09,-0.0941,1.007,1.85-2.10
 WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5724,0.5296,1.89,1.98,1.61,-0.1453,1.005,1.50-1.65
-ORL @ GSW,GSW win + Desmond Bane 3+ ast,2,0.4874,0.389,2.57,2.7,2.37,-0.0767,0.979,2.10-2.50
-HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5427,0.4358,2.29,2.41,2.21,-0.0363,1.019,2.10-2.50
-HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5143,0.4582,2.18,2.29,2.1,-0.038,1.028,1.85-2.10
+HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5427,0.4331,2.31,2.42,2.23,-0.0356,1.019,2.10-2.50
+HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5143,0.4574,2.19,2.3,2.1,-0.0379,1.028,2.10-2.50
 HOU @ PHX,HOU win + Jabari Smith Jr. 10+ pts,2,0.565,0.5596,1.79,1.88,1.69,-0.054,1.021,1.65-1.85
-HOU @ PHX,Devin Booker 24+ pts + Dillon Brooks 15+ pra,2,0.4666,0.4085,2.45,2.57,2.31,-0.056,1.018,2.10-2.50
-HOU @ PHX,HOU win + Amen Thompson 10+ pts,2,0.5862,0.571,1.75,1.84,1.65,-0.0575,1.016,1.65-1.85
-HOU @ PHX,Devin Booker 24+ pts + Dillon Brooks 10+ pts,2,0.4668,0.4042,2.47,2.6,2.33,-0.0586,1.014,2.10-2.50
-HOU @ PHX,Devin Booker 24+ pts + Dillon Brooks 10+ pr,2,0.5114,0.447,2.24,2.35,2.09,-0.0672,1.006,1.85-2.10
+HOU @ PHX,Devin Booker 24+ pts + Dillon Brooks 15+ pra,2,0.4666,0.4086,2.45,2.57,2.31,-0.056,1.018,2.10-2.50
+HOU @ PHX,HOU win + Amen Thompson 10+ pts,2,0.5862,0.5723,1.75,1.83,1.65,-0.0576,1.016,1.50-1.65
+HOU @ PHX,Devin Booker 24+ pts + Dillon Brooks 10+ pr,2,0.5114,0.4467,2.24,2.35,2.09,-0.0672,1.006,1.85-2.10
 HOU @ PHX,HOU win + Kevin Durant 1+ 3pm,2,0.5642,0.5701,1.75,1.84,1.63,-0.0682,1.008,1.50-1.65
-HOU @ PHX,PHX +7.5 + Dillon Brooks 10+ pr,2,0.535,0.4473,2.24,2.35,2.06,-0.0797,1.007,1.85-2.10
-HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.559,0.561,1.78,1.87,1.62,-0.0914,0.982,1.50-1.65
-HOU @ PHX,HOU win + Dillon Brooks 15+ pra,2,0.5563,0.5645,1.77,1.86,1.61,-0.093,0.981,1.50-1.65
-HOU @ PHX,Luke Kennard 3pm under 1.5 + Dillon Brooks 10+ pr,2,0.7721,0.5292,1.89,1.98,1.71,-0.0959,0.999,1.65-1.85
+HOU @ PHX,PHX +7.5 + Dillon Brooks 10+ pr,2,0.535,0.447,2.24,2.35,2.06,-0.0796,1.007,1.85-2.10
+HOU @ PHX,game over 221.5 + Dillon Brooks 10+ pa,2,0.5477,0.4392,2.28,2.39,2.09,-0.0799,1.021,1.85-2.10
+HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.559,0.5619,1.78,1.87,1.62,-0.0915,0.982,1.50-1.65
+HOU @ PHX,Luke Kennard 3pm under 1.5 + Dillon Brooks 10+ pr,2,0.7721,0.5255,1.9,2.0,1.72,-0.0952,0.999,1.65-1.85
+HOU @ PHX,Luke Kennard 3pm under 1.5 + Dillon Brooks 10+ pa,2,0.7458,0.5088,1.97,2.06,1.78,-0.0966,0.998,1.65-1.85
