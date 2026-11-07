@@ -2,8 +2,8 @@ matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,
 BKN @ ATL,ATL win + Luguentz Dort 5+ pa,2,0.6947,0.5924,1.69,1.77,1.57,-0.0687,1.008,1.50-1.65
 BKN @ ATL,game over 225.5 + Luguentz Dort 5+ pa,2,0.391,0.4349,2.3,2.41,2.12,-0.0783,1.023,2.10-2.50
 BKN @ ATL,ATL -6.5 + Luguentz Dort 5+ pa,2,0.5466,0.4297,2.33,2.44,2.14,-0.0813,1.012,2.10-2.50
-BKN @ ATL,CJ McCollum 16+ pr + Luguentz Dort 5+ pa,2,0.541,0.4148,2.41,2.53,2.18,-0.097,1.003,2.10-2.50
-BKN @ ATL,CJ McCollum 13+ pts + Luguentz Dort 5+ pa,2,0.5548,0.4293,2.33,2.45,2.09,-0.1015,1.002,1.85-2.10
+BKN @ ATL,CJ McCollum 13+ pts + Luguentz Dort 5+ pa,2,0.5548,0.4309,2.32,2.44,2.09,-0.0982,1.002,1.85-2.10
+BKN @ ATL,CJ McCollum 16+ pr + Luguentz Dort 5+ pa,2,0.541,0.414,2.42,2.54,2.18,-0.0989,1.003,2.10-2.50
 BKN @ ATL,Jalen Johnson reb under 9.5 + Luguentz Dort 5+ pa,2,0.5909,0.4407,2.27,2.38,2.03,-0.1059,0.997,1.85-2.10
 NYK @ CLE,game over 223.5 + Peyton Watson 10+ pr,2,0.4591,0.4346,2.3,2.42,2.15,-0.0648,1.021,2.10-2.50
 NYK @ CLE,game over 223.5 + Miles McBride 5+ pra,2,0.455,0.42,2.38,2.5,2.22,-0.0677,1.015,2.10-2.50
@@ -13,17 +13,17 @@ NYK @ CLE,NYK win + Peyton Watson 10+ pr,2,0.6489,0.5478,1.83,1.92,1.67,-0.0864,
 NYK @ CLE,Landry Shamet reb under 2.5 + Miles McBride 5+ pra,2,0.604,0.455,2.2,2.31,1.97,-0.105,0.999,1.85-2.10
 NYK @ CLE,Peyton Watson 14+ pa + Miles McBride 5+ pra,2,0.5425,0.4371,2.29,2.4,2.05,-0.1054,1.0,1.85-2.10
 NYK @ CLE,Landry Shamet reb under 2.5 + Peyton Watson 10+ pr,2,0.6069,0.4689,2.13,2.24,1.91,-0.106,1.001,1.85-2.10
-WAS @ OKC,OKC win + AJ Dybantsa pts under 16.5,2,0.5226,0.4143,2.41,2.53,2.35,-0.0271,1.036,2.10-2.50
-WAS @ OKC,OKC win + AJ Dybantsa pa under 19.5,2,0.5414,0.4414,2.27,2.38,2.19,-0.032,1.034,2.10-2.50
-WAS @ OKC,OKC -11.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3708,0.4131,2.42,2.54,2.34,-0.0344,1.018,2.10-2.50
-WAS @ OKC,OKC -11.5 + Kyshawn George 10+ pr,2,0.3989,0.4584,2.18,2.29,2.05,-0.0601,0.994,1.85-2.10
-WAS @ OKC,OKC win + Bilal Coulibaly 3+ reb,2,0.5139,0.4792,2.09,2.19,1.93,-0.0765,0.998,1.85-2.10
-WAS @ OKC,Shai Gilgeous-Alexander 6+ ast + Alex Caruso 5+ pa,2,0.6104,0.4365,2.29,2.41,2.08,-0.0907,1.004,1.85-2.10
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 1+ 3pm,2,0.651,0.4948,2.02,2.12,1.82,-0.101,1.002,1.65-1.85
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 10+ pr,2,0.6851,0.5304,1.89,1.98,1.69,-0.1033,1.001,1.65-1.85
-WAS @ OKC,Bilal Coulibaly 3+ reb + Alex Caruso 5+ pa,2,0.659,0.5007,2.0,2.1,1.79,-0.105,0.998,1.65-1.85
-WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kyshawn George 1+ 3pm,3,0.5899,0.5438,1.84,1.93,1.6,-0.1325,1.006,1.50-1.65
-WAS @ OKC,OKC win + Alex Caruso 5+ pa + Kyshawn George 15+ pr,3,0.5606,0.5296,1.89,1.98,1.61,-0.1465,0.992,1.50-1.65
+WAS @ OKC,OKC win + AJ Dybantsa pts under 16.5,2,0.4839,0.4134,2.42,2.54,2.35,-0.0291,1.042,2.10-2.50
+WAS @ OKC,OKC -11.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3686,0.415,2.41,2.53,2.34,-0.03,1.023,2.10-2.50
+WAS @ OKC,OKC win + AJ Dybantsa pa under 19.5,2,0.5024,0.4407,2.27,2.38,2.19,-0.0336,1.04,2.10-2.50
+WAS @ OKC,OKC -11.5 + Kyshawn George 10+ pr,2,0.4006,0.4595,2.18,2.28,2.05,-0.0576,0.995,1.85-2.10
+WAS @ OKC,OKC win + Bilal Coulibaly 3+ reb,2,0.5443,0.4828,2.07,2.18,1.93,-0.0697,1.0,1.85-2.10
+WAS @ OKC,Bilal Coulibaly 11+ pr + Kyshawn George 1+ 3pm,2,0.6877,0.4479,2.23,2.34,2.04,-0.0877,1.003,1.85-2.10
+WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 1+ 3pm,2,0.6991,0.4987,2.01,2.11,1.82,-0.0939,1.004,1.65-1.85
+WAS @ OKC,Bilal Coulibaly 3+ reb + Alex Caruso 5+ pa,2,0.7063,0.5049,1.98,2.08,1.79,-0.0975,1.0,1.65-1.85
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kyshawn George 1+ 3pm,3,0.589,0.5447,1.84,1.93,1.6,-0.1311,1.007,1.50-1.65
+WAS @ OKC,OKC win + Kyshawn George 15+ pr + Shai Gilgeous-Alexander 4+ ast,3,0.559,0.4986,2.01,2.11,1.74,-0.1338,1.0,1.65-1.85
+WAS @ OKC,OKC win + Kyshawn George 15+ pr + Alex Caruso 5+ pa,3,0.5926,0.5341,1.87,1.97,1.61,-0.1392,0.995,1.50-1.65
 ORL @ GSW,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.5463,0.4157,2.41,2.53,2.24,-0.0692,1.029,2.10-2.50
 ORL @ GSW,ORL +7.5 + Wendell Carter Jr. 10+ pa,2,0.4247,0.4198,2.38,2.5,2.2,-0.0755,1.03,2.10-2.50
 ORL @ GSW,GSW win + Wendell Carter Jr. reb under 9.5,2,0.483,0.3768,2.65,2.79,2.44,-0.0799,1.003,2.10-2.50

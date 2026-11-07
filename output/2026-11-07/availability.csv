@@ -90,7 +90,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909941,WAS,1642267,Bub Carrington,,,1.0,,,
 401909941,WAS,1630551,Justin Champagnie,Out,Injury/Illness-RightFootSurgery,0.0,"Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",,
 401909941,WAS,1641731,Bilal Coulibaly,,,1.0,,,
-401909941,WAS,203076,Anthony Davis,Questionable,Injury/Illness-RightAnkleSprain,0.55,Davis (ankle) is questionable for Saturday's game against the Thunder.,,
+401909941,WAS,203076,Anthony Davis,Out,Injury/Illness-RightAnkleSprain,0.0,Davis (ankle) is questionable for Saturday's game against the Thunder.,,
 401909941,WAS,905142718,AJ Dybantsa,,,1.0,,,
 401909941,WAS,1642273,Kyshawn George,,,1.0,,,
 401909941,WAS,1630264,Anthony Gill,,,1.0,,,
