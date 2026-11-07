@@ -1,6 +1,6 @@
 # NBA model · Fri 06 Nov 2026 (US date)
 
-Updated **Sat 07 Nov, 11:56 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-06/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 07 Nov, 12:01 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-06/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -45,7 +45,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | UTA @ DAL | Sat 07 Nov 12:00 | 115.1–125.7 | UTA 23% | 4.40 / 1.29 | DAL -10.5 | 240.5 | DAL -6.5 covers 62%; o226.5 78% |
-| OKC @ MEM | Sat 07 Nov 12:00 | 116.2–112.3 | OKC 61% | 1.64 / 2.56 | MEM +4.5 | 228.5 | MEM +4.5 covers 51%; o224.5 59% |
+| OKC @ MEM | Sat 07 Nov 12:00 | 116.2–112.3 | OKC 61% | 1.64 / 2.56 | MEM +4.5 | 228.5 | MEM +3.5 covers 48%; o224.5 59% |
 | TOR @ MIL | Sat 07 Nov 12:00 | 115.4–112.0 | TOR 60% | 1.68 / 2.47 | MIL +3.5 | 227.5 | MIL +3.5 covers 49%; o228.5 47% |
 | MIN @ NOP | Sat 07 Nov 12:00 | 117.9–118.4 | MIN 49% | 2.05 / 1.95 | NOP +0.5 | 236.5 | NOP +3.5 covers 60%; o230.5 62% |
 | POR @ LAL | Sat 07 Nov 14:00 | 110.5–116.3 | POR 34% | 2.95 / 1.51 | LAL -6.5 | 226.5 | LAL -3.5 covers 57%; o231.5 39% |
