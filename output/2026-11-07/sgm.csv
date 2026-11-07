@@ -12,25 +12,23 @@ BKN @ ATL,Michael Porter Jr. 25+ pa + Luguentz Dort 5+ pa,2,0.4304,0.4195,2.38,2
 BKN @ ATL,Mikel Brown Jr. pr under 15.5 + Luguentz Dort 5+ pa,2,0.5843,0.4312,2.32,2.44,2.08,-0.1049,0.997,1.85-2.10
 BKN @ ATL,Mikel Brown Jr. pra under 19.5 + Luguentz Dort 5+ pa,2,0.5846,0.4342,2.3,2.42,2.06,-0.1056,0.997,1.85-2.10
 BKN @ ATL,Mikel Brown Jr. pts under 12.5 + Luguentz Dort 5+ pa,2,0.5876,0.4388,2.28,2.39,2.04,-0.1064,0.997,1.85-2.10
-NYK @ CLE,game over 223.5 + Peyton Watson 10+ pa,2,0.4277,0.4055,2.47,2.59,2.37,-0.0392,1.049,2.10-2.50
-NYK @ CLE,game over 223.5 + Miles McBride 5+ pa,2,0.4275,0.4057,2.47,2.59,2.32,-0.058,1.028,2.10-2.50
-NYK @ CLE,CLE +4.5 + Peyton Watson 10+ pa,2,0.3502,0.3881,2.58,2.71,2.43,-0.058,1.04,2.10-2.50
-NYK @ CLE,NYK win + Miles McBride 5+ pa,2,0.6098,0.5179,1.93,2.03,1.8,-0.0676,1.011,1.65-1.85
-NYK @ CLE,NYK win + Karl-Anthony Towns 1+ 3pm,2,0.5837,0.4942,2.02,2.12,1.88,-0.0705,1.007,1.85-2.10
-NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.6138,0.522,1.92,2.01,1.78,-0.0715,1.007,1.65-1.85
-NYK @ CLE,NYK win + Peyton Watson 10+ pa,2,0.5806,0.4927,2.03,2.13,1.84,-0.095,0.981,1.65-1.85
-NYK @ CLE,Landry Shamet reb under 2.5 + Miles McBride 5+ pr,2,0.5671,0.4323,2.31,2.43,2.07,-0.1043,1.001,1.85-2.10
-NYK @ CLE,Evan Mobley reb under 9.5 + Miles McBride 5+ pr,2,0.5789,0.427,2.34,2.46,2.09,-0.1063,0.995,1.85-2.10
-NYK @ CLE,Karl-Anthony Towns 1+ 3pm + Peyton Watson 10+ pa,2,0.6819,0.5866,1.7,1.79,1.51,-0.1152,1.0,1.50-1.65
+NYK @ CLE,game over 223.5 + Peyton Watson 10+ pa,2,0.4277,0.4028,2.48,2.61,2.38,-0.0406,1.049,2.10-2.50
+NYK @ CLE,game over 223.5 + Miles McBride 5+ pa,2,0.4275,0.4047,2.47,2.59,2.32,-0.0599,1.028,2.10-2.50
+NYK @ CLE,game over 223.5 + Miles McBride 5+ pr,2,0.4311,0.4076,2.45,2.58,2.3,-0.0615,1.027,2.10-2.50
+NYK @ CLE,NYK win + Miles McBride 5+ pa,2,0.6098,0.5177,1.93,2.03,1.8,-0.0677,1.011,1.65-1.85
+NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.6138,0.5204,1.92,2.02,1.78,-0.0713,1.007,1.65-1.85
+NYK @ CLE,NYK win + Peyton Watson 10+ pa,2,0.5806,0.4904,2.04,2.14,1.85,-0.0946,0.981,1.65-1.85
+NYK @ CLE,Landry Shamet reb under 2.5 + Miles McBride 5+ pr,2,0.5671,0.4309,2.32,2.44,2.08,-0.1041,1.001,1.85-2.10
+NYK @ CLE,Landry Shamet 3pm under 2.5 + Peyton Watson 10+ pa,2,0.6163,0.4706,2.13,2.23,1.9,-0.1053,1.0,1.85-2.10
+NYK @ CLE,Landry Shamet reb under 2.5 + Miles McBride 5+ pa,2,0.5588,0.4252,2.35,2.47,2.1,-0.108,0.997,1.85-2.10
 WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5414,0.4359,2.29,2.41,2.21,-0.0379,1.034,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5574,0.4529,2.21,2.32,2.12,-0.0408,1.032,2.10-2.50
-WAS @ OKC,OKC win + AJ Dybantsa pra under 24.5,2,0.494,0.4224,2.37,2.49,2.26,-0.0439,1.035,2.10-2.50
-WAS @ OKC,OKC -12.5 + Kyshawn George 10+ pr,2,0.3714,0.4398,2.27,2.39,2.09,-0.0821,0.991,1.85-2.10
-WAS @ OKC,OKC win + Bilal Coulibaly 3+ reb,2,0.5139,0.4774,2.09,2.2,1.92,-0.0842,0.998,1.85-2.10
-WAS @ OKC,game over 223.5 + Kyshawn George 10+ pa,2,0.5906,0.4426,2.26,2.37,2.05,-0.0914,1.011,1.85-2.10
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 1+ 3pm,2,0.651,0.4939,2.02,2.13,1.82,-0.1018,1.002,1.65-1.85
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 10+ pa,2,0.6794,0.5248,1.91,2.0,1.71,-0.1032,1.002,1.65-1.85
-WAS @ OKC,Bilal Coulibaly 3+ reb + Kyshawn George 10+ pr,2,0.6851,0.5284,1.89,1.99,1.7,-0.1039,1.001,1.65-1.85
+WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5574,0.4442,2.25,2.36,2.16,-0.0385,1.032,2.10-2.50
+WAS @ OKC,OKC win + AJ Dybantsa pr under 22.5,2,0.5078,0.4278,2.34,2.45,2.23,-0.0439,1.033,2.10-2.50
+WAS @ OKC,AJ Dybantsa pts under 17.5 + Kyshawn George 1+ 3pm,2,0.6809,0.4427,2.26,2.37,2.05,-0.0906,0.999,1.85-2.10
+WAS @ OKC,AJ Dybantsa pa under 19.5 + Kyshawn George 1+ 3pm,2,0.6596,0.4333,2.31,2.42,2.09,-0.0924,0.998,1.85-2.10
+WAS @ OKC,OKC win + Kyshawn George 2+ 3pm,2,0.5078,0.4882,2.05,2.15,1.85,-0.0962,0.983,1.85-2.10
+WAS @ OKC,Shai Gilgeous-Alexander 3pm under 2.5 + Kyshawn George 1+ 3pm,2,0.6765,0.5078,1.97,2.07,1.76,-0.1059,0.998,1.65-1.85
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kyshawn George 15+ pr,3,0.5297,0.4973,2.01,2.11,1.71,-0.1479,0.997,1.65-1.85
 ORL @ GSW,game over 219.5 + Tristan da Silva 10+ pts,2,0.5156,0.3965,2.52,2.65,2.37,-0.0583,1.043,2.10-2.50
 ORL @ GSW,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.5463,0.4166,2.4,2.52,2.23,-0.0694,1.029,2.10-2.50
 ORL @ GSW,ORL +7.5 + Tristan da Silva 10+ pts,2,0.3976,0.3973,2.52,2.64,2.34,-0.072,1.035,2.10-2.50
