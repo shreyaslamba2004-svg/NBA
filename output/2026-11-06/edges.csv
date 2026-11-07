@@ -1,5 +1,4 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909294,POR @ LAL,prop_fg3m,over,Austin Reaves,1630559.0,1.5,draftkings,147.0,2.47,0.6101,1.64,0.3782,0.5001,0.11,7.04,0.5069,0.5084,0.2557,0.0435,False,True,True,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,sportsbet,900.0,10.0,0.1832,5.46,0.0958,0.1118,0.0714,4.34,0.8325,0.1118,0.1181,0.0033,False,True,True,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,betfair_ex_au,854.9999999999999,9.55,0.1832,5.46,0.1029,0.1118,0.0714,1.8,0.75,0.1118,0.0677,0.002,False,True,True,,,
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,11.5,draftkings,1580.0,16.8,0.1578,6.34,0.0556,0.0556,0.1022,,1.6514,0.0633,0.0633,0.001,False,True,False,,,
