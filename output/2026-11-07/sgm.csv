@@ -2,9 +2,10 @@ matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,
 BKN @ ATL,ATL win + Luguentz Dort 5+ pa,2,0.6947,0.5924,1.69,1.77,1.57,-0.0687,1.008,1.50-1.65
 BKN @ ATL,game over 225.5 + Luguentz Dort 5+ pa,2,0.391,0.4349,2.3,2.41,2.12,-0.0783,1.023,2.10-2.50
 BKN @ ATL,ATL -6.5 + Luguentz Dort 5+ pa,2,0.5466,0.4297,2.33,2.44,2.14,-0.0813,1.012,2.10-2.50
-BKN @ ATL,CJ McCollum 13+ pts + Luguentz Dort 5+ pa,2,0.5548,0.4309,2.32,2.44,2.09,-0.0982,1.002,1.85-2.10
-BKN @ ATL,CJ McCollum 16+ pr + Luguentz Dort 5+ pa,2,0.541,0.414,2.42,2.54,2.18,-0.0989,1.003,2.10-2.50
+BKN @ ATL,CJ McCollum 19+ pra + Luguentz Dort 5+ pa,2,0.5628,0.428,2.34,2.45,2.11,-0.0968,1.003,2.10-2.50
+BKN @ ATL,CJ McCollum 13+ pts + Luguentz Dort 5+ pa,2,0.5548,0.4293,2.33,2.45,2.09,-0.1015,1.002,1.85-2.10
 BKN @ ATL,Jalen Johnson reb under 9.5 + Luguentz Dort 5+ pa,2,0.5909,0.4407,2.27,2.38,2.03,-0.1059,0.997,1.85-2.10
+BKN @ ATL,Jalen Johnson pra under 37.5 + Luguentz Dort 5+ pa,2,0.5805,0.4317,2.32,2.43,2.07,-0.1074,0.995,1.85-2.10
 NYK @ CLE,game over 223.5 + Peyton Watson 10+ pr,2,0.4591,0.4354,2.3,2.41,2.15,-0.0649,1.021,2.10-2.50
 NYK @ CLE,game over 223.5 + Miles McBride 5+ pra,2,0.455,0.42,2.38,2.5,2.22,-0.0677,1.015,2.10-2.50
 NYK @ CLE,CLE +4.5 + Peyton Watson 10+ pr,2,0.376,0.4216,2.37,2.49,2.2,-0.0725,1.013,2.10-2.50
@@ -21,12 +22,13 @@ WAS @ OKC,AJ Dybantsa pa under 20.5 + Alex Caruso 5+ pa,2,0.6735,0.435,2.3,2.41,
 WAS @ OKC,AJ Dybantsa pts under 18.5 + Kyshawn George 1+ 3pm,2,0.6866,0.4539,2.2,2.31,2.0,-0.0929,0.998,1.85-2.10
 WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + AJ Dybantsa 4+ reb,3,0.5347,0.5031,1.99,2.09,1.72,-0.1336,1.013,1.65-1.85
 WAS @ OKC,OKC win + Alex Caruso 5+ pa + AJ Dybantsa 4+ reb,3,0.5653,0.5334,1.87,1.97,1.61,-0.141,1.005,1.50-1.65
-ORL @ GSW,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.5463,0.4157,2.41,2.53,2.24,-0.0692,1.029,2.10-2.50
-ORL @ GSW,ORL +7.5 + Wendell Carter Jr. 10+ pa,2,0.4247,0.4198,2.38,2.5,2.2,-0.0755,1.03,2.10-2.50
-ORL @ GSW,GSW win + Wendell Carter Jr. reb under 9.5,2,0.483,0.3768,2.65,2.79,2.44,-0.0799,1.003,2.10-2.50
-ORL @ GSW,Tristan da Silva 2+ ast + Wendell Carter Jr. 10+ pa,2,0.6233,0.487,2.05,2.16,1.85,-0.0986,1.006,1.85-2.10
-ORL @ GSW,GSW win + Wendell Carter Jr. 10+ pa,2,0.6293,0.551,1.81,1.91,1.63,-0.1042,0.987,1.50-1.65
-ORL @ GSW,Yaxel Lendeborg reb under 7.5 + Wendell Carter Jr. 10+ pa,2,0.5713,0.4376,2.28,2.4,2.04,-0.1054,1.0,1.85-2.10
+ORL @ GSW,game over 219.5 + Tristan da Silva 10+ pts,2,0.5159,0.3952,2.53,2.66,2.38,-0.061,1.039,2.10-2.50
+ORL @ GSW,ORL +7 + Tristan da Silva 10+ pts,2,0.3716,0.3949,2.53,2.66,2.38,-0.0616,1.05,2.10-2.50
+ORL @ GSW,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.5507,0.4166,2.4,2.52,2.24,-0.0661,1.033,2.10-2.50
+ORL @ GSW,Tristan da Silva 2+ ast + Wendell Carter Jr. 10+ pa,2,0.6226,0.4854,2.06,2.16,1.85,-0.1006,1.003,1.85-2.10
+ORL @ GSW,GSW win + Wendell Carter Jr. 10+ pa,2,0.6276,0.5497,1.82,1.91,1.63,-0.1054,0.986,1.50-1.65
+ORL @ GSW,Yaxel Lendeborg reb under 7.5 + Wendell Carter Jr. 10+ pa,2,0.5708,0.4358,2.29,2.41,2.05,-0.1083,0.997,1.85-2.10
+ORL @ GSW,GSW win + Tristan da Silva 10+ pts,2,0.5787,0.5132,1.95,2.05,1.73,-0.1146,0.977,1.65-1.85
 HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5427,0.4194,2.38,2.5,2.27,-0.0459,1.019,2.10-2.50
 HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5143,0.4388,2.28,2.39,2.17,-0.047,1.028,2.10-2.50
 HOU @ PHX,game over 223.5 + Jabari Smith Jr. 10+ pts,2,0.4723,0.4013,2.49,2.62,2.36,-0.0525,1.039,2.10-2.50
