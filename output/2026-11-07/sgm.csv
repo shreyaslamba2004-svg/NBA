@@ -5,11 +5,15 @@ BKN @ ATL,ATL -6.5 + CJ McCollum 10+ pa,2,0.5493,0.4292,2.33,2.45,2.14,-0.0802,1
 BKN @ ATL,BKN +6.5 + CJ McCollum 10+ pa,2,0.3547,0.4094,2.44,2.56,2.19,-0.1024,0.98,2.10-2.50
 BKN @ ATL,Jalen Johnson reb under 9.5 + CJ McCollum 10+ pa,2,0.5906,0.438,2.28,2.4,2.04,-0.1059,0.996,1.85-2.10
 BKN @ ATL,Jalen Johnson pra under 37.5 + CJ McCollum 10+ pa,2,0.5822,0.432,2.32,2.43,2.06,-0.1115,0.99,1.85-2.10
-NYK @ CLE,game over 223.5 + Peyton Watson 10+ pa,2,0.4277,0.4045,2.47,2.6,2.38,-0.0389,1.049,2.10-2.50
-NYK @ CLE,CLE +4.5 + Peyton Watson 10+ pa,2,0.3502,0.3876,2.58,2.71,2.43,-0.0565,1.04,2.10-2.50
-NYK @ CLE,NYK win + Peyton Watson 10+ pa,2,0.5806,0.4915,2.03,2.14,1.84,-0.0948,0.981,1.65-1.85
-NYK @ CLE,Landry Shamet 14+ pra + Peyton Watson 10+ pa,2,0.3843,0.3844,2.6,2.73,2.34,-0.0991,1.001,2.10-2.50
-NYK @ CLE,Evan Mobley reb under 9.5 + Peyton Watson 10+ pa,2,0.5632,0.4326,2.31,2.43,2.06,-0.108,0.998,1.85-2.10
+NYK @ CLE,game over 223.5 + Peyton Watson 10+ pa,2,0.4277,0.4036,2.48,2.6,2.38,-0.0408,1.049,2.10-2.50
+NYK @ CLE,CLE +4.5 + Peyton Watson 10+ pa,2,0.3502,0.3875,2.58,2.71,2.43,-0.0565,1.04,2.10-2.50
+NYK @ CLE,game over 223.5 + Peyton Watson 10+ pr,2,0.4591,0.4366,2.29,2.4,2.14,-0.0672,1.021,2.10-2.50
+NYK @ CLE,NYK win + Miles McBride 5+ pra,2,0.6536,0.5371,1.86,1.95,1.72,-0.0741,1.005,1.65-1.85
+NYK @ CLE,NYK win + Peyton Watson 10+ pr,2,0.6489,0.5513,1.81,1.9,1.66,-0.0868,0.994,1.65-1.85
+NYK @ CLE,NYK win + Peyton Watson 10+ pa,2,0.5806,0.4895,2.04,2.15,1.84,-0.0981,0.981,1.65-1.85
+NYK @ CLE,Landry Shamet reb under 2.5 + Miles McBride 5+ pra,2,0.604,0.4505,2.22,2.33,1.99,-0.104,0.999,1.85-2.10
+NYK @ CLE,Landry Shamet reb under 2.5 + Peyton Watson 10+ pr,2,0.6069,0.468,2.14,2.24,1.91,-0.1056,1.001,1.85-2.10
+NYK @ CLE,Mikal Bridges pra under 16.5 + Miles McBride 5+ pra,2,0.5712,0.4295,2.33,2.44,2.08,-0.1066,0.997,1.85-2.10
 WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5414,0.4353,2.3,2.41,2.21,-0.0372,1.034,2.10-2.50
 WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5574,0.4436,2.25,2.37,2.17,-0.0379,1.032,2.10-2.50
 WAS @ OKC,OKC win + AJ Dybantsa pra under 24.5,2,0.494,0.415,2.41,2.53,2.31,-0.0415,1.035,2.10-2.50
