@@ -1,27 +1,24 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.4068,2.46,2.58,2.33,-0.0532,1.019,2.10-2.50
-DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4601,0.4285,2.33,2.45,2.19,-0.0599,1.027,2.10-2.50
-DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3918,2.55,2.68,2.34,-0.0838,1.017,2.10-2.50
-DEN @ IND,DEN win + Nikola Jokic blk under 1.5,2,0.533,0.4762,2.1,2.21,1.92,-0.0839,1.002,1.85-2.10
-DEN @ IND,Nikola Jokic blk under 1.5 + Jamal Murray 2+ 3pm,2,0.6633,0.5255,1.9,2.0,1.69,-0.1095,0.999,1.65-1.85
-NYK @ CLE,Landry Shamet 12+ pa + Miles McBride 5+ pa,2,0.3877,0.387,2.58,2.71,2.42,-0.062,1.006,2.10-2.50
-NYK @ CLE,Landry Shamet 12+ pa + Miles McBride 5+ pr,2,0.3915,0.3926,2.55,2.67,2.39,-0.063,1.006,2.10-2.50
-NYK @ CLE,Landry Shamet 12+ pa + Peyton Watson 10+ pr,2,0.4176,0.42,2.38,2.5,2.22,-0.0667,1.002,2.10-2.50
-NYK @ CLE,NYK win + Miles McBride 5+ pa,2,0.6098,0.5018,1.99,2.09,1.84,-0.0752,1.011,1.65-1.85
-NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.6138,0.5073,1.97,2.07,1.81,-0.0792,1.007,1.65-1.85
-NYK @ CLE,NYK win + Peyton Watson 10+ pr,2,0.6489,0.5379,1.86,1.95,1.69,-0.0911,0.994,1.65-1.85
-NYK @ CLE,Evan Mobley pr under 28.5 + Peyton Watson 10+ pr,2,0.6283,0.4408,2.27,2.38,2.04,-0.102,0.995,1.85-2.10
-NYK @ CLE,Jalen Brunson pts under 27.5 + Peyton Watson 10+ pr,2,0.5796,0.4396,2.27,2.39,2.04,-0.1044,1.001,1.85-2.10
-NYK @ CLE,Evan Mobley reb under 9.5 + Peyton Watson 10+ pr,2,0.6219,0.4656,2.15,2.25,1.92,-0.105,0.999,1.85-2.10
+DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.4055,2.47,2.59,2.34,-0.053,1.019,2.10-2.50
+DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4601,0.428,2.34,2.45,2.19,-0.061,1.027,2.10-2.50
+DEN @ IND,DEN win + Nikola Jokic blk under 1.5,2,0.533,0.4713,2.12,2.23,1.95,-0.0829,1.002,1.85-2.10
+DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3906,2.56,2.69,2.35,-0.0835,1.017,2.10-2.50
+NYK @ CLE,CLE +5.5 + Peyton Watson 10+ pr,2,0.4042,0.44,2.27,2.39,2.1,-0.0747,1.012,2.10-2.50
+NYK @ CLE,NYK win + Miles McBride 5+ pa,2,0.6098,0.5011,2.0,2.1,1.85,-0.0751,1.011,1.65-1.85
+NYK @ CLE,game over 224.5 + Miles McBride 5+ pa,2,0.4093,0.3918,2.55,2.68,2.36,-0.076,1.027,2.10-2.50
+NYK @ CLE,game over 224.5 + Miles McBride 5+ pr,2,0.4134,0.3982,2.51,2.64,2.32,-0.0768,1.027,2.10-2.50
+NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.6138,0.5075,1.97,2.07,1.81,-0.0792,1.007,1.65-1.85
+NYK @ CLE,NYK win + Peyton Watson 10+ pr,2,0.6489,0.54,1.85,1.94,1.68,-0.0914,0.994,1.65-1.85
+NYK @ CLE,Evan Mobley pr under 28.5 + Peyton Watson 10+ pr,2,0.6283,0.4426,2.26,2.37,2.03,-0.1023,0.995,1.85-2.10
+NYK @ CLE,Jalen Brunson pts under 27.5 + Peyton Watson 10+ pr,2,0.5796,0.4414,2.27,2.38,2.03,-0.1047,1.001,1.85-2.10
+NYK @ CLE,Evan Mobley reb under 9.5 + Peyton Watson 10+ pr,2,0.6219,0.4675,2.14,2.25,1.91,-0.1053,0.999,1.85-2.10
+WAS @ OKC,Alex Caruso 11+ pa + OKC win,2,0.4075,0.4032,2.48,2.6,2.42,-0.0241,1.042,2.10-2.50
 WAS @ OKC,OKC win + Trae Young pts under 18.5,2,0.4635,0.4055,2.47,2.59,2.37,-0.0376,1.051,2.10-2.50
 WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5534,0.4283,2.33,2.45,2.24,-0.0388,1.035,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5673,0.4428,2.26,2.37,2.16,-0.0423,1.033,2.10-2.50
-WAS @ OKC,AJ Dybantsa pa under 19.5 + Alex Caruso 5+ pa,2,0.6822,0.4443,2.25,2.36,2.05,-0.0893,1.001,1.85-2.10
-WAS @ OKC,AJ Dybantsa pts under 17.5 + Alex Caruso 5+ pa,2,0.7012,0.4605,2.17,2.28,1.98,-0.0903,1.0,1.85-2.10
-WAS @ OKC,game over 222.5 + Alex Caruso 5+ pa,2,0.5939,0.4415,2.26,2.38,2.06,-0.0913,1.011,1.85-2.10
-WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pa,3,0.5847,0.5435,1.84,1.93,1.59,-0.1359,1.016,1.50-1.65
+WAS @ OKC,AJ Dybantsa pa under 19.5 + Kyshawn George 1+ 3pm,2,0.6731,0.4363,2.29,2.41,2.08,-0.092,0.997,1.85-2.10
+WAS @ OKC,AJ Dybantsa pts under 17.5 + Kyshawn George 1+ 3pm,2,0.692,0.4523,2.21,2.32,2.01,-0.093,0.997,1.85-2.10
+WAS @ OKC,game over 222.5 + Kyshawn George 1+ 3pm,2,0.5859,0.4336,2.31,2.42,2.09,-0.0941,1.007,1.85-2.10
 WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5724,0.5296,1.89,1.98,1.61,-0.1453,1.005,1.50-1.65
-WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Alex Caruso 5+ pa,3,0.6114,0.5678,1.76,1.85,1.5,-0.148,1.002,1.50-1.65
 ORL @ GSW,GSW win + Desmond Bane 3+ ast,2,0.4874,0.389,2.57,2.7,2.37,-0.0767,0.979,2.10-2.50
 HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5427,0.4358,2.29,2.41,2.21,-0.0363,1.019,2.10-2.50
 HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5143,0.4582,2.18,2.29,2.1,-0.038,1.028,1.85-2.10
