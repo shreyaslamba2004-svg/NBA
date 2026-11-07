@@ -1,12 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.3946,2.53,2.66,2.36,-0.068,1.019,2.10-2.50
 DEN @ IND,DEN win + Jamal Murray 2+ 3pm,2,0.5811,0.5552,1.8,1.89,1.67,-0.0734,1.013,1.65-1.85
+DEN @ IND,DEN win + Nikola Jokic blk under 1.5,2,0.533,0.4704,2.13,2.23,1.96,-0.0768,1.002,1.85-2.10
 DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3857,2.59,2.72,2.37,-0.0847,1.017,2.10-2.50
 DEN @ IND,IND +7.5 + Jamal Murray 2+ 3pm,2,0.4437,0.381,2.62,2.76,2.36,-0.0999,0.984,2.10-2.50
-BKN @ ATL,ATL -6.5 + CJ McCollum 1+ 3pm,2,0.485,0.4141,2.41,2.54,2.24,-0.0717,1.012,2.10-2.50
-BKN @ ATL,game over 226.5 + CJ McCollum 1+ 3pm,2,0.3206,0.4155,2.41,2.53,2.23,-0.0726,1.023,2.10-2.50
-BKN @ ATL,ATL win + CJ McCollum 1+ 3pm,2,0.6288,0.5584,1.79,1.88,1.66,-0.0756,1.008,1.65-1.85
-BKN @ ATL,game under 227.5 + CJ McCollum 1+ 3pm,2,0.5566,0.404,2.48,2.6,2.23,-0.0983,0.988,2.10-2.50
+DEN @ IND,Nikola Jokic blk under 1.5 + Jamal Murray 2+ 3pm,2,0.6633,0.5137,1.95,2.04,1.74,-0.1076,0.999,1.65-1.85
+BKN @ ATL,game over 227.5 + CJ McCollum 1+ 3pm,2,0.3038,0.4057,2.46,2.59,2.3,-0.0686,1.023,2.10-2.50
+BKN @ ATL,ATL -7.5 + CJ McCollum 1+ 3pm,2,0.461,0.3859,2.59,2.72,2.41,-0.0698,1.013,2.10-2.50
+BKN @ ATL,ATL win + CJ McCollum 1+ 3pm,2,0.6288,0.5577,1.79,1.88,1.66,-0.0755,1.008,1.65-1.85
+BKN @ ATL,BKN +7.5 + CJ McCollum 1+ 3pm,2,0.3994,0.4127,2.42,2.54,2.18,-0.1001,0.985,2.10-2.50
 NYK @ CLE,NYK -4.5 + Miles McBride 5+ pa,2,0.4906,0.3899,2.56,2.69,2.4,-0.0628,1.017,2.10-2.50
 NYK @ CLE,NYK -4.5 + Miles McBride 5+ pr,2,0.4972,0.3966,2.52,2.65,2.35,-0.0664,1.014,2.10-2.50
 NYK @ CLE,game over 224.5 + Miles McBride 5+ pa,2,0.4295,0.3816,2.62,2.75,2.44,-0.0706,1.032,2.10-2.50
@@ -15,14 +17,13 @@ NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.5953,0.4936,2.03,2.13,1.88,-0.0727,1
 NYK @ CLE,NYK win + Karl-Anthony Towns 1+ 3pm,2,0.5629,0.4831,2.07,2.17,1.91,-0.0771,1.007,1.85-2.10
 NYK @ CLE,Miles McBride 5+ pa + Karl-Anthony Towns 1+ 3pm,2,0.7014,0.5648,1.77,1.86,1.58,-0.1083,1.002,1.50-1.65
 NYK @ CLE,Miles McBride 5+ pr + Karl-Anthony Towns 1+ 3pm,2,0.7124,0.5758,1.74,1.82,1.55,-0.1097,1.001,1.50-1.65
+WAS @ OKC,AJ Dybantsa pts under 16.5 + OKC win,2,0.5364,0.4015,2.49,2.61,2.41,-0.033,1.038,2.10-2.50
+WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5534,0.4237,2.36,2.48,2.27,-0.0375,1.035,2.10-2.50
 WAS @ OKC,OKC win + Trae Young pts under 18.5,2,0.4635,0.4055,2.47,2.59,2.37,-0.0376,1.051,2.10-2.50
-WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5534,0.4298,2.33,2.44,2.24,-0.0391,1.035,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5673,0.4413,2.27,2.38,2.17,-0.0421,1.033,2.10-2.50
-WAS @ OKC,AJ Dybantsa pa under 19.5 + Kyshawn George 1+ 3pm,2,0.6731,0.4357,2.3,2.41,2.08,-0.0919,0.997,1.85-2.10
-WAS @ OKC,AJ Dybantsa pts under 17.5 + Kyshawn George 1+ 3pm,2,0.692,0.4485,2.23,2.34,2.02,-0.0923,0.997,1.85-2.10
-WAS @ OKC,OKC win + Shai Gilgeous-Alexander 3pm under 2.5,2,0.5413,0.4812,2.08,2.18,1.87,-0.0977,0.987,1.85-2.10
-WAS @ OKC,Shai Gilgeous-Alexander 3pm under 2.5 + Kyshawn George 1+ 3pm,2,0.6924,0.5129,1.95,2.05,1.75,-0.1034,0.999,1.65-1.85
-WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5724,0.5307,1.88,1.98,1.61,-0.1455,1.005,1.50-1.65
+WAS @ OKC,game over 222.5 + Kyshawn George 1+ 3pm,2,0.5859,0.432,2.31,2.43,2.1,-0.0937,1.007,1.85-2.10
+WAS @ OKC,AJ Dybantsa pr under 22.5 + Kyshawn George 1+ 3pm,2,0.6355,0.4413,2.27,2.38,2.04,-0.0987,0.998,1.85-2.10
+WAS @ OKC,Shai Gilgeous-Alexander 6+ ast + Kyshawn George 1+ 3pm,2,0.5658,0.4281,2.34,2.45,2.1,-0.102,0.999,1.85-2.10
+WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5724,0.5319,1.88,1.97,1.61,-0.1456,1.005,1.50-1.65
 ORL @ GSW,GSW win + Desmond Bane 3+ ast,2,0.4874,0.389,2.57,2.7,2.37,-0.0767,0.979,2.10-2.50
 HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5427,0.435,2.3,2.41,2.22,-0.035,1.019,2.10-2.50
 HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5143,0.4559,2.19,2.3,2.11,-0.0365,1.028,2.10-2.50
