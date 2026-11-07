@@ -1,9 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-POR @ LAL,Luka Doncic pts under 35.5 + Ziaire Williams 5+ pra,2,0.5657,0.4393,2.28,2.39,2.13,-0.0651,0.994,2.10-2.50
-POR @ LAL,Damian Lillard pts under 21.5 + Ziaire Williams 5+ pra,2,0.613,0.4434,2.26,2.37,2.09,-0.0728,0.999,1.85-2.10
-POR @ LAL,Scoot Henderson 12+ pts + Ziaire Williams 5+ pra,2,0.4716,0.4306,2.32,2.44,2.15,-0.0751,1.004,2.10-2.50
-POR @ LAL,LAL -3.5 + Ziaire Williams 5+ pra,2,0.5355,0.4258,2.35,2.47,2.17,-0.0768,1.009,2.10-2.50
-POR @ LAL,LAL win + Ziaire Williams 5+ pra,2,0.6152,0.5014,1.99,2.09,1.84,-0.0784,1.007,1.65-1.85
 SAS @ SAC,Victor Wembanyama 29+ pts + SAS win,2,0.3805,0.4476,2.23,2.35,2.24,0.0047,1.041,2.10-2.50
 SAS @ SAC,Malik Monk pts under 12.5 + SAS win,2,0.5537,0.477,2.1,2.2,2.1,0.0016,1.026,1.85-2.10
 SAS @ SAC,Darius Acuff Jr. pts under 23.5 + SAS win,2,0.4186,0.4554,2.2,2.31,2.19,-0.0027,1.044,2.10-2.50
