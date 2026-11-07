@@ -1,11 +1,11 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+BKN @ ATL,Mikel Brown Jr. pts under 12.5 + Luguentz Dort 5+ pa,2,0.6138,0.4552,2.2,2.31,2.08,-0.0512,1.001,1.85-2.10
+BKN @ ATL,Onyeka Okongwu pts under 12.5 + Luguentz Dort 5+ pa,2,0.4367,0.4116,2.43,2.55,2.29,-0.0593,0.995,2.10-2.50
 BKN @ ATL,ATL win + Luguentz Dort 5+ pa,2,0.6947,0.5924,1.69,1.77,1.57,-0.0687,1.008,1.50-1.65
-BKN @ ATL,game over 225.5 + Luguentz Dort 5+ pa,2,0.391,0.4349,2.3,2.41,2.12,-0.0783,1.023,2.10-2.50
-BKN @ ATL,ATL -6.5 + Luguentz Dort 5+ pa,2,0.5466,0.4297,2.33,2.44,2.14,-0.0813,1.012,2.10-2.50
-BKN @ ATL,CJ McCollum 19+ pra + Luguentz Dort 5+ pa,2,0.5628,0.428,2.34,2.45,2.11,-0.0968,1.003,2.10-2.50
-BKN @ ATL,CJ McCollum 13+ pts + Luguentz Dort 5+ pa,2,0.5548,0.4293,2.33,2.45,2.09,-0.1015,1.002,1.85-2.10
-BKN @ ATL,Jalen Johnson reb under 9.5 + Luguentz Dort 5+ pa,2,0.5909,0.4407,2.27,2.38,2.03,-0.1059,0.997,1.85-2.10
-BKN @ ATL,Jalen Johnson pra under 37.5 + Luguentz Dort 5+ pa,2,0.5805,0.4317,2.32,2.43,2.07,-0.1074,0.995,1.85-2.10
+BKN @ ATL,Michael Porter Jr. 23+ pts + Luguentz Dort 5+ pa,2,0.3822,0.4156,2.41,2.53,2.23,-0.0733,1.001,2.10-2.50
+BKN @ ATL,Julius Randle pts under 20.5 + Luguentz Dort 5+ pa,2,0.5184,0.4255,2.35,2.47,2.18,-0.0737,0.997,2.10-2.50
+BKN @ ATL,CJ McCollum 13+ pts + Luguentz Dort 5+ pa,2,0.5548,0.4413,2.27,2.38,2.09,-0.0763,1.002,1.85-2.10
+BKN @ ATL,Jalen Johnson pts under 20.5 + Luguentz Dort 5+ pa,2,0.5631,0.4363,2.29,2.41,2.08,-0.0906,0.997,1.85-2.10
 NYK @ CLE,game over 223.5 + Peyton Watson 10+ pr,2,0.4591,0.4354,2.3,2.41,2.15,-0.0649,1.021,2.10-2.50
 NYK @ CLE,game over 223.5 + Miles McBride 5+ pra,2,0.455,0.42,2.38,2.5,2.22,-0.0677,1.015,2.10-2.50
 NYK @ CLE,CLE +4.5 + Peyton Watson 10+ pr,2,0.376,0.4216,2.37,2.49,2.2,-0.0725,1.013,2.10-2.50
