@@ -1,8 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-POR @ LAL,Damian Lillard pts under 20.5 + Ziaire Williams 5+ pr,2,0.5487,0.4124,2.43,2.55,2.27,-0.0653,0.996,2.10-2.50
-POR @ LAL,Sandro Mamukelashvili 9+ pts + Ziaire Williams 5+ pr,2,0.3897,0.4022,2.49,2.61,2.32,-0.0656,1.004,2.10-2.50
-POR @ LAL,LAL win + Ziaire Williams 5+ pr,2,0.5959,0.4886,2.05,2.15,1.89,-0.0746,1.011,1.85-2.10
-POR @ LAL,Walker Kessler 13+ pts + Ziaire Williams 5+ pr,2,0.3586,0.4264,2.34,2.46,2.16,-0.0773,1.005,2.10-2.50
 SAS @ SAC,Victor Wembanyama 29+ pts + SAS win,2,0.374,0.4472,2.24,2.35,2.24,0.0039,1.045,2.10-2.50
 SAS @ SAC,Julian Champagnie 10+ pts + SAS win,2,0.3641,0.4451,2.25,2.36,2.24,-0.0009,1.031,2.10-2.50
 SAS @ SAC,Precious Achiuwa 9+ pts + Darius Acuff Jr. 4+ ast,2,0.6933,0.4003,2.5,2.62,2.48,-0.0063,1.003,2.10-2.50
