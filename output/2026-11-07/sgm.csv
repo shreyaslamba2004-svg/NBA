@@ -4,17 +4,14 @@ DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.3947,2.53,2.66,2.36,-0.068,1
 DEN @ IND,DEN win + Nikola Jokic blk under 1.5,2,0.533,0.4718,2.12,2.23,1.94,-0.0831,1.002,1.85-2.10
 DEN @ IND,game over 228.5 + Jamal Murray 2+ 3pm,2,0.5871,0.394,2.54,2.67,2.32,-0.0861,1.017,2.10-2.50
 DEN @ IND,Nikola Jokic blk under 1.5 + Jamal Murray 2+ 3pm,2,0.6633,0.5139,1.95,2.04,1.74,-0.1077,0.999,1.65-1.85
-BKN @ ATL,game over 227.5 + CJ McCollum 10+ pts,2,0.3044,0.3902,2.56,2.69,2.45,-0.0428,1.048,2.10-2.50
-BKN @ ATL,ATL win + CJ McCollum 10+ pts,2,0.6184,0.5263,1.9,1.99,1.77,-0.0677,1.013,1.65-1.85
-BKN @ ATL,game over 227.5 + CJ McCollum 1+ 3pm,2,0.3038,0.4059,2.46,2.59,2.29,-0.0687,1.023,2.10-2.50
-BKN @ ATL,ATL -7.5 + CJ McCollum 1+ 3pm,2,0.461,0.3861,2.59,2.72,2.41,-0.0698,1.013,2.10-2.50
-BKN @ ATL,ATL win + CJ McCollum 1+ 3pm,2,0.6288,0.558,1.79,1.88,1.66,-0.0755,1.008,1.65-1.85
-NYK @ CLE,NYK -4.5 + Miles McBride 5+ pr,2,0.4972,0.3954,2.53,2.66,2.37,-0.0621,1.014,2.10-2.50
+NYK @ CLE,NYK -4.5 + Miles McBride 5+ pa,2,0.4906,0.4011,2.49,2.62,2.34,-0.0612,1.017,2.10-2.50
+NYK @ CLE,NYK -4.5 + Miles McBride 5+ pr,2,0.4972,0.4072,2.46,2.58,2.3,-0.0646,1.014,2.10-2.50
 NYK @ CLE,NYK -4.5 + Karl-Anthony Towns 1+ 3pm,2,0.4702,0.3882,2.58,2.7,2.4,-0.0667,1.012,2.10-2.50
-NYK @ CLE,game over 222.5 + Miles McBride 5+ pr,2,0.4716,0.3966,2.52,2.65,2.35,-0.0675,1.027,2.10-2.50
-NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.5953,0.4924,2.03,2.13,1.88,-0.0737,1.009,1.85-2.10
+NYK @ CLE,NYK win + Miles McBride 5+ pa,2,0.5864,0.4986,2.01,2.11,1.86,-0.0744,1.011,1.85-2.10
+NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.5953,0.507,1.97,2.07,1.82,-0.0762,1.009,1.65-1.85
 NYK @ CLE,NYK win + Karl-Anthony Towns 1+ 3pm,2,0.5629,0.4833,2.07,2.17,1.91,-0.0784,1.007,1.85-2.10
-NYK @ CLE,Miles McBride 5+ pr + Karl-Anthony Towns 1+ 3pm,2,0.7124,0.5742,1.74,1.83,1.55,-0.1095,1.001,1.50-1.65
+NYK @ CLE,Miles McBride 5+ pa + Karl-Anthony Towns 1+ 3pm,2,0.7014,0.5811,1.72,1.81,1.53,-0.1106,1.002,1.50-1.65
+NYK @ CLE,Miles McBride 5+ pr + Karl-Anthony Towns 1+ 3pm,2,0.7124,0.5913,1.69,1.78,1.5,-0.1119,1.001,1.50-1.65
 WAS @ OKC,AJ Dybantsa pts under 16.5 + OKC win,2,0.5364,0.4015,2.49,2.61,2.41,-0.033,1.038,2.10-2.50
 WAS @ OKC,OKC win + Trae Young pts under 18.5,2,0.4635,0.4055,2.47,2.59,2.37,-0.0376,1.051,2.10-2.50
 WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5534,0.4342,2.3,2.42,2.21,-0.0403,1.035,2.10-2.50
