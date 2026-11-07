@@ -2,30 +2,30 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909289,CLE,1628386,Jarrett Allen,Out,Injury/Illness-RightKneeContusion,0.0,Allen (knee) is out for Friday's game against the 76ers.,,
 401909289,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909289,CLE,1642400,Tristan Enaruna,,,1.0,,,
-401909289,CLE,201935,James Harden,Starting,,1.0,,,1.0
+401909289,CLE,201935,James Harden,,,1.0,,,
 401909289,CLE,1626209,Mario Hezonja,,,1.0,,,
-401909289,CLE,1630241,Sam Merrill,Starting,,1.0,,,1.0
-401909289,CLE,1628378,Donovan Mitchell,Starting,,1.0,,,1.0
-401909289,CLE,1630596,Evan Mobley,Starting,,1.0,,,1.0
+401909289,CLE,1630241,Sam Merrill,,,1.0,,,
+401909289,CLE,1628378,Donovan Mitchell,,,1.0,,,
+401909289,CLE,1630596,Evan Mobley,,,1.0,,,
 401909289,CLE,1641807,Norchad Omier,,,1.0,,,
 401909289,CLE,1641854,Craig Porter Jr.,,,1.0,,,
 401909289,CLE,1642878,Tyrese Proctor,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
 401909289,CLE,905041951,Meleek Thomas,,,1.0,,,
 401909289,CLE,1642281,Jaylon Tyson,Out,Injury/Illness-RightAnkleSprain,0.0,Tyson (ankle) is out for Friday's game against the 76ers.,,
 401909289,CLE,905106261,Ernest Udeh Jr.,,,1.0,,,
-401909289,CLE,1631212,Peyton Watson,Starting,,1.0,,,1.0
+401909289,CLE,1631212,Peyton Watson,Available,,1.0,,,
 401909289,PHI,1631230,Dominick Barlow,Out,,0.0,"Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports.",,
 401909289,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,Bona (neck) is listed as out for Friday's game versus the Cavaliers.,,
-401909289,PHI,1627759,Jaylen Brown,Starting,,1.0,,,1.0
+401909289,PHI,1627759,Jaylen Brown,,,1.0,,,
 401909289,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909289,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
+401909289,PHI,1642845,VJ Edgecombe,,,1.0,,,
 401909289,PHI,1642348,Justin Edwards,,,1.0,,,
-401909289,PHI,203954,Joel Embiid,Starting,,1.0,,,1.0
+401909289,PHI,203954,Joel Embiid,,,1.0,,,
 401909289,PHI,1629605,Tacko Fall,,,1.0,,,
 401909289,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401909289,PHI,2544,LeBron James,Starting,,1.0,,,1.0
+401909289,PHI,2544,LeBron James,,,1.0,,,
 401909289,PHI,904433144,Caleb Love,,,1.0,,,
-401909289,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
+401909289,PHI,1630178,Tyrese Maxey,,,1.0,,,
 401909289,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909289,PHI,1641712,Rayan Rupert,,,1.0,,,
 401909289,PHI,1629014,Anfernee Simons,,,1.0,,,
