@@ -25,7 +25,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909289,PHI @ CLE,prop_blk,over,Evan Mobley,1630596.0,3.5,draftkings,1380.0,14.8,0.1248,8.01,0.0631,0.0631,0.0617,,0.8478,0.0678,0.0031,0.0001,False,True,False,,,
 401909290,UTA @ DAL,prop_pts,under,Max Christie,1631108.0,7.5,draftkings,102.0,2.02,0.538,1.86,0.4627,0.4929,0.0452,,0.0868,0.4963,0.0024,0.0006,False,True,True,,,
 401909290,UTA @ DAL,prop_pts,over,Brice Sensabaugh,1641729.0,7.5,pointsbetau,100.0,2.0,0.6265,1.6,0.4694,0.491,0.1355,6.52,0.2529,0.5011,0.0022,0.0006,False,True,True,,,
-401909291,OKC @ MEM,prop_pts,under,Cam Spencer,1642285.0,7.5,sportsbet,105.0,2.05,0.5264,1.9,0.4592,0.4858,0.0406,6.23,0.0791,0.4888,0.0021,0.0005,False,False,True,,,
 401909295,SAS @ SAC,prop_pr,over,Precious Achiuwa,1630173.0,24.5,draftkings,840.0,9.4,0.1952,5.12,0.0994,0.0994,0.0958,,0.835,0.1066,0.0021,0.0001,False,True,False,De'Andre Hunter,0.2535,0.1491
 401909289,PHI @ CLE,prop_pts,under,Anfernee Simons,1629014.0,8.5,draftkings,101.0,2.01,0.5838,1.71,0.465,0.491,0.0928,,0.1734,0.4979,0.0008,0.0002,False,True,True,,,
+401909291,OKC @ MEM,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,1620.0,17.2,0.1055,9.47,0.0543,0.0543,0.0512,,0.8153,0.0582,0.0006,0.0,False,False,False,,,
 401909292,TOR @ MIL,prop_pts,under,Jamal Shead,1642347.0,11.5,tab,-105.0,1.95,0.6168,1.62,0.4797,0.504,0.1128,6.78,0.2043,0.5125,0.0005,0.0001,False,True,True,,,
