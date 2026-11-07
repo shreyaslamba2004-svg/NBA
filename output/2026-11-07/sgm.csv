@@ -3,10 +3,10 @@ DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.3946,2.53,2.66,2.36,-0.068,1
 DEN @ IND,DEN win + Jamal Murray 2+ 3pm,2,0.5811,0.5552,1.8,1.89,1.67,-0.0734,1.013,1.65-1.85
 DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3857,2.59,2.72,2.37,-0.0847,1.017,2.10-2.50
 DEN @ IND,IND +7.5 + Jamal Murray 2+ 3pm,2,0.4437,0.381,2.62,2.76,2.36,-0.0999,0.984,2.10-2.50
+BKN @ ATL,ATL win + CJ McCollum 6+ ra,2,0.5081,0.4021,2.49,2.61,2.35,-0.0552,1.016,2.10-2.50
 BKN @ ATL,game over 226.5 + CJ McCollum 1+ 3pm,2,0.3206,0.4159,2.4,2.52,2.23,-0.0711,1.023,2.10-2.50
 BKN @ ATL,ATL -6.5 + CJ McCollum 1+ 3pm,2,0.485,0.4138,2.42,2.54,2.24,-0.0716,1.012,2.10-2.50
 BKN @ ATL,ATL win + CJ McCollum 1+ 3pm,2,0.6288,0.558,1.79,1.88,1.66,-0.0755,1.008,1.65-1.85
-BKN @ ATL,Dyson Daniels reb under 7.5 + CJ McCollum 1+ 3pm,2,0.5342,0.3845,2.6,2.73,2.33,-0.1051,0.994,2.10-2.50
 NYK @ CLE,NYK -4.5 + Miles McBride 5+ pa,2,0.4906,0.3899,2.56,2.69,2.4,-0.0628,1.017,2.10-2.50
 NYK @ CLE,NYK -4.5 + Miles McBride 5+ pr,2,0.4972,0.3966,2.52,2.65,2.35,-0.0664,1.014,2.10-2.50
 NYK @ CLE,game over 224.5 + Miles McBride 5+ pa,2,0.4295,0.3816,2.62,2.75,2.44,-0.0706,1.032,2.10-2.50
@@ -15,14 +15,14 @@ NYK @ CLE,NYK win + Miles McBride 5+ pr,2,0.5953,0.4936,2.03,2.13,1.88,-0.0727,1
 NYK @ CLE,NYK win + Karl-Anthony Towns 1+ 3pm,2,0.5629,0.4831,2.07,2.17,1.91,-0.0771,1.007,1.85-2.10
 NYK @ CLE,Miles McBride 5+ pa + Karl-Anthony Towns 1+ 3pm,2,0.7014,0.5648,1.77,1.86,1.58,-0.1083,1.002,1.50-1.65
 NYK @ CLE,Miles McBride 5+ pr + Karl-Anthony Towns 1+ 3pm,2,0.7124,0.5758,1.74,1.82,1.55,-0.1097,1.001,1.50-1.65
-WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5554,0.4292,2.33,2.45,2.24,-0.0404,1.034,2.10-2.50
-WAS @ OKC,OKC win + Trae Young pts under 18.5,2,0.4583,0.404,2.47,2.6,2.37,-0.0409,1.048,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5714,0.4411,2.27,2.38,2.17,-0.0426,1.031,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 17.5 + Kyshawn George 1+ 3pm,2,0.6943,0.4484,2.23,2.34,2.02,-0.0925,0.996,1.85-2.10
-WAS @ OKC,AJ Dybantsa pa under 19.5 + Kyshawn George 1+ 3pm,2,0.6725,0.4349,2.3,2.41,2.08,-0.0936,0.995,1.85-2.10
-WAS @ OKC,OKC win + Shai Gilgeous-Alexander 3pm under 2.5,2,0.5429,0.4811,2.08,2.18,1.87,-0.0979,0.987,1.85-2.10
-WAS @ OKC,Shai Gilgeous-Alexander 3pm under 2.5 + Kyshawn George 1+ 3pm,2,0.6933,0.5141,1.95,2.04,1.75,-0.1014,1.002,1.65-1.85
-WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5796,0.5347,1.87,1.96,1.61,-0.139,1.012,1.50-1.65
+WAS @ OKC,OKC win + Trae Young pts under 18.5,2,0.4635,0.4055,2.47,2.59,2.37,-0.0376,1.051,2.10-2.50
+WAS @ OKC,AJ Dybantsa pa under 19.5 + OKC win,2,0.5534,0.4298,2.33,2.44,2.24,-0.0391,1.035,2.10-2.50
+WAS @ OKC,AJ Dybantsa pts under 17.5 + OKC win,2,0.5673,0.4413,2.27,2.38,2.17,-0.0421,1.033,2.10-2.50
+WAS @ OKC,AJ Dybantsa pa under 19.5 + Kyshawn George 1+ 3pm,2,0.6731,0.4357,2.3,2.41,2.08,-0.0919,0.997,1.85-2.10
+WAS @ OKC,AJ Dybantsa pts under 17.5 + Kyshawn George 1+ 3pm,2,0.692,0.4485,2.23,2.34,2.02,-0.0923,0.997,1.85-2.10
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 3pm under 2.5,2,0.5413,0.4812,2.08,2.18,1.87,-0.0977,0.987,1.85-2.10
+WAS @ OKC,Shai Gilgeous-Alexander 3pm under 2.5 + Kyshawn George 1+ 3pm,2,0.6924,0.5129,1.95,2.05,1.75,-0.1034,0.999,1.65-1.85
+WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5724,0.5307,1.88,1.98,1.61,-0.1455,1.005,1.50-1.65
 ORL @ GSW,GSW win + Desmond Bane 3+ ast,2,0.4874,0.389,2.57,2.7,2.37,-0.0767,0.979,2.10-2.50
 HOU @ PHX,HOU win + Amen Thompson 26+ pra,2,0.4295,0.391,2.56,2.69,2.48,-0.0308,1.044,2.10-2.50
 HOU @ PHX,HOU win + Amen Thompson 19+ pa,2,0.4349,0.3918,2.55,2.68,2.47,-0.0325,1.049,2.10-2.50
