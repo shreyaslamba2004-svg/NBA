@@ -1,17 +1,20 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ IND,DEN win + Jamal Murray 29+ pa,2,0.4215,0.3857,2.59,2.72,2.47,-0.0467,1.049,2.10-2.50
-DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4505,0.4219,2.37,2.49,2.2,-0.0738,1.022,2.10-2.50
-DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5708,0.3908,2.56,2.69,2.34,-0.0865,1.017,2.10-2.50
-DEN @ IND,Aaron Gordon 3pm under 1.5 + Jamal Murray 2+ 3pm,2,0.5206,0.423,2.36,2.48,2.09,-0.1171,0.993,1.85-2.10
-WAS @ OKC,OKC win + game over 220.5,2,0.4738,0.3989,2.51,2.63,2.3,-0.0818,1.001,2.10-2.50
-WAS @ OKC,OKC win + game under 220.5,2,0.2141,0.3975,2.52,2.64,2.3,-0.085,0.998,2.10-2.50
-HOU @ PHX,HOU win + Miles Bridges pts under 16.5,2,0.437,0.3939,2.54,2.67,2.44,-0.0403,1.051,2.10-2.50
-HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5128,0.4576,2.19,2.29,2.05,-0.0615,1.027,1.85-2.10
-HOU @ PHX,game over 221.5 + Jabari Smith Jr. 10+ pts,2,0.5005,0.3955,2.53,2.65,2.35,-0.0694,1.036,2.10-2.50
-HOU @ PHX,HOU -7.5 + Jabari Smith Jr. 10+ pts,2,0.3804,0.3933,2.54,2.67,2.35,-0.0745,1.03,2.10-2.50
-HOU @ PHX,HOU win + Jabari Smith Jr. 10+ pts,2,0.5582,0.5563,1.8,1.89,1.66,-0.0786,1.019,1.65-1.85
-HOU @ PHX,Devin Booker 2+ 3pm + Dillon Brooks 10+ pts,2,0.5257,0.427,2.34,2.46,2.09,-0.1059,1.004,1.85-2.10
-HOU @ PHX,Collin Gillespie 3pm under 2.5 + Jabari Smith Jr. 10+ pts,2,0.6296,0.475,2.11,2.21,1.88,-0.1065,0.998,1.85-2.10
-HOU @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pts,2,0.6523,0.4981,2.01,2.11,1.79,-0.1093,0.996,1.65-1.85
-HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.5585,0.5635,1.77,1.86,1.57,-0.113,0.982,1.50-1.65
-HOU @ PHX,Tari Eason 3pm under 1.5 + Dillon Brooks 10+ pts,2,0.5994,0.504,1.98,2.08,1.76,-0.1143,0.999,1.65-1.85
+DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4505,0.4193,2.39,2.5,2.21,-0.0733,1.022,2.10-2.50
+DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5708,0.3909,2.56,2.69,2.34,-0.0866,1.017,2.10-2.50
+DEN @ IND,game over 229.5 + Nikola Jokic 8+ reb,2,0.6025,0.414,2.42,2.54,2.2,-0.0896,1.014,2.10-2.50
+DEN @ IND,DEN win + Nikola Jokic 10+ reb,2,0.5136,0.4836,2.07,2.17,1.87,-0.0953,1.0,1.85-2.10
+DEN @ IND,Jamal Murray 34+ pra + Nikola Jokic 8+ reb,2,0.5302,0.4292,2.33,2.45,2.09,-0.1027,1.005,1.85-2.10
+DEN @ IND,Aaron Gordon 3pm under 1.5 + Nikola Jokic 8+ reb,2,0.5538,0.4516,2.21,2.33,1.96,-0.1133,0.997,1.85-2.10
+WAS @ OKC,OKC win + game over 219.5,2,0.486,0.3934,2.54,2.67,2.33,-0.0817,1.001,2.10-2.50
+HOU @ PHX,HOU win + Miles Bridges pts under 16.5,2,0.437,0.3995,2.5,2.63,2.4,-0.0406,1.051,2.10-2.50
+HOU @ PHX,HOU win + Collin Gillespie 3pm under 2.5,2,0.5128,0.464,2.15,2.26,2.02,-0.0618,1.027,1.85-2.10
+HOU @ PHX,game over 221.5 + Jabari Smith Jr. 10+ pts,2,0.5005,0.388,2.58,2.71,2.4,-0.0691,1.036,2.10-2.50
+HOU @ PHX,game over 221.5 + Amen Thompson 10+ pts,2,0.5257,0.397,2.52,2.64,2.34,-0.0711,1.031,2.10-2.50
+HOU @ PHX,HOU win + Amen Thompson 10+ pts,2,0.5882,0.5807,1.72,1.81,1.59,-0.0782,1.018,1.50-1.65
+HOU @ PHX,HOU win + Jabari Smith Jr. 10+ pts,2,0.5582,0.5657,1.77,1.86,1.63,-0.0792,1.019,1.50-1.65
+HOU @ PHX,Collin Gillespie 3pm under 2.5 + Amen Thompson 10+ pts,2,0.6663,0.491,2.04,2.14,1.83,-0.1018,1.001,1.65-1.85
+HOU @ PHX,Devin Booker 2+ 3pm + Dillon Brooks 10+ pts,2,0.5257,0.4286,2.33,2.45,2.09,-0.1061,1.004,1.85-2.10
+HOU @ PHX,Collin Gillespie 3pm under 2.5 + Jabari Smith Jr. 10+ pts,2,0.6296,0.4763,2.1,2.2,1.88,-0.1067,0.998,1.85-2.10
+HOU @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pts,2,0.6523,0.4999,2.0,2.1,1.78,-0.1095,0.996,1.65-1.85
+HOU @ PHX,Amen Thompson 10+ pts + Tari Eason 3pm under 1.5,2,0.6093,0.4966,2.01,2.11,1.79,-0.1116,1.0,1.65-1.85
+HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.5585,0.5735,1.74,1.83,1.55,-0.1135,0.982,1.50-1.65

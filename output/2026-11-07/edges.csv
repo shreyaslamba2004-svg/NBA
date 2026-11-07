@@ -1,2 +1,1 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909938,DEN @ IND,prop_pa,over,Jamal Murray,1627750.0,44.5,draftkings,1280.0,13.8,0.1342,7.45,0.0677,0.0677,0.0665,,0.8524,0.0727,0.0034,0.0001,False,True,False,,,

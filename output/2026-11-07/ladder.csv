@@ -261,15 +261,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1626204,Larry Nance Jr.,ra,5.5,False,0.264,,model only,0.264
 401909938,DEN @ IND,IND,1626204,Larry Nance Jr.,ra,6.5,False,0.1714,,model only,0.1714
 401909938,DEN @ IND,IND,1626204,Larry Nance Jr.,ra,7.5,False,0.1087,,model only,0.1087
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,14.5,False,0.6737,,model only,0.6737
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,15.5,False,0.6185,,model only,0.6185
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,16.5,False,0.5623,,model only,0.5623
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,17.5,False,0.5061,,model only,0.5061
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,18.5,False,0.455,,model only,0.455
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,19.5,False,0.4059,,model only,0.4059
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,20.5,False,0.3549,,model only,0.3549
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,21.5,False,0.3114,,model only,0.3114
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,22.5,False,0.2718,,model only,0.2718
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,12.5,False,0.7769,0.7255,est,0.7293
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,13.5,False,0.7268,0.6688,est,0.6732
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,14.5,False,0.6737,0.6105,est,0.6153
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,15.5,False,0.6185,0.5517,est,0.5568
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,16.5,True,0.5623,0.4937,book,0.4988
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,17.5,False,0.5061,0.4375,est,0.4427
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,18.5,False,0.455,0.3879,est,0.3929
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,19.5,False,0.4059,0.3415,est,0.3464
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,pts,20.5,False,0.3549,0.2946,est,0.2991
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,reb,0.5,False,0.9353,,model only,0.9353
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,reb,1.5,False,0.7677,,model only,0.7677
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,reb,2.5,False,0.5463,,model only,0.5463
@@ -284,11 +284,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,ast,10.5,False,0.293,,model only,0.293
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,ast,11.5,False,0.214,,model only,0.214
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,ast,12.5,False,0.154,,model only,0.154
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,0.5,False,0.8604,,model only,0.8604
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,1.5,False,0.6022,,model only,0.6022
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,2.5,False,0.3393,,model only,0.3393
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,3.5,False,0.1567,,model only,0.1567
-401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,4.5,False,0.0573,,model only,0.0573
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,0.5,False,0.8604,0.848,book,0.8489
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,1.5,False,0.6022,0.6302,book,0.6281
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,2.5,True,0.3393,0.3935,book,0.3894
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,3.5,False,0.1567,0.2139,book,0.2096
+401909938,DEN @ IND,IND,1629614,Andrew Nembhard,fg3m,4.5,False,0.0573,0.11,book,0.106
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,stl,0.5,False,0.6298,,model only,0.6298
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,stl,1.5,False,0.2748,,model only,0.2748
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,stl,2.5,False,0.0939,,model only,0.0939
@@ -330,15 +330,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,ra,12.5,False,0.3971,,model only,0.3971
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,ra,13.5,False,0.3148,,model only,0.3148
 401909938,DEN @ IND,IND,1629614,Andrew Nembhard,ra,14.5,False,0.2407,,model only,0.2407
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,9.5,False,0.7479,,model only,0.7479
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,10.5,False,0.6853,,model only,0.6853
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,11.5,False,0.6205,,model only,0.6205
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,12.5,False,0.5541,,model only,0.5541
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,13.5,False,0.488,,model only,0.488
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,14.5,False,0.4291,,model only,0.4291
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,15.5,False,0.3754,,model only,0.3754
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,16.5,False,0.3192,,model only,0.3192
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,17.5,False,0.2693,,model only,0.2693
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,8.5,False,0.8067,0.7466,est,0.7511
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,9.5,False,0.7479,0.6514,book,0.6586
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,10.5,False,0.6853,0.6059,est,0.6118
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,11.5,False,0.6205,0.5282,book,0.5351
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,12.5,True,0.5541,0.4673,book,0.4738
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,13.5,False,0.488,0.4023,est,0.4087
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,14.5,False,0.4291,0.3595,book,0.3647
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,15.5,False,0.3754,0.2979,est,0.3037
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,pts,16.5,False,0.3192,0.2487,est,0.254
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,reb,0.5,False,0.9533,,model only,0.9533
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,reb,1.5,False,0.8303,,model only,0.8303
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,reb,2.5,False,0.6439,,model only,0.6439
@@ -352,11 +352,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,ast,3.5,False,0.1527,,model only,0.1527
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,ast,4.5,False,0.0642,,model only,0.0642
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,ast,5.5,False,0.0224,,model only,0.0224
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,0.5,False,0.8655,,model only,0.8655
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,1.5,False,0.6065,,model only,0.6065
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,2.5,False,0.3275,,model only,0.3275
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,3.5,False,0.1436,,model only,0.1436
-401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,4.5,False,0.0515,,model only,0.0515
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,0.5,False,0.8655,0.8447,book,0.8463
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,1.5,False,0.6065,0.6188,book,0.6179
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,2.5,True,0.3275,0.3838,book,0.3796
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,3.5,False,0.1436,0.2063,book,0.2016
+401909938,DEN @ IND,IND,1630174,Aaron Nesmith,fg3m,4.5,False,0.0515,0.1038,book,0.0999
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,stl,0.5,False,0.5337,,model only,0.5337
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,stl,1.5,False,0.1955,,model only,0.1955
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,stl,2.5,False,0.0565,,model only,0.0565
@@ -398,15 +398,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,ra,6.5,False,0.317,,model only,0.317
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,ra,7.5,False,0.2051,,model only,0.2051
 401909938,DEN @ IND,IND,1630174,Aaron Nesmith,ra,8.5,False,0.1267,,model only,0.1267
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,17.5,False,0.6743,,model only,0.6743
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,18.5,False,0.6291,,model only,0.6291
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,19.5,False,0.5826,,model only,0.5826
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,20.5,False,0.5358,,model only,0.5358
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,21.5,False,0.4928,,model only,0.4928
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,22.5,False,0.4499,,model only,0.4499
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,23.5,False,0.4063,,model only,0.4063
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,24.5,False,0.3661,,model only,0.3661
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,25.5,False,0.326,,model only,0.326
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,16.5,False,0.7203,0.7036,est,0.7048
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,17.5,False,0.6743,0.6561,est,0.6575
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,18.5,False,0.6291,0.6099,est,0.6113
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,19.5,False,0.5826,0.5627,est,0.5641
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,20.5,True,0.5358,0.5155,book,0.517
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,21.5,False,0.4928,0.4724,est,0.474
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,22.5,False,0.4499,0.4299,est,0.4314
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,23.5,False,0.4063,0.3868,est,0.3883
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,pts,24.5,False,0.3661,0.3474,est,0.3488
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,reb,3.5,False,0.8613,,model only,0.8613
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,reb,4.5,False,0.7526,,model only,0.7526
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,reb,5.5,False,0.6166,,model only,0.6166
@@ -421,10 +421,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,ast,5.5,False,0.2874,,model only,0.2874
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,ast,6.5,False,0.176,,model only,0.176
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,ast,7.5,False,0.0977,,model only,0.0977
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,0.5,False,0.7523,,model only,0.7523
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,1.5,False,0.4237,,model only,0.4237
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,2.5,False,0.1866,,model only,0.1866
-401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,3.5,False,0.0655,,model only,0.0655
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,0.5,False,0.7523,0.7743,book,0.7726
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,1.5,True,0.4237,0.4831,book,0.4786
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,2.5,False,0.1866,0.2453,book,0.2409
+401909938,DEN @ IND,IND,1627783,Pascal Siakam,fg3m,3.5,False,0.0655,0.1113,book,0.1079
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,stl,0.5,False,0.633,,model only,0.633
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,stl,1.5,False,0.2776,,model only,0.2776
 401909938,DEN @ IND,IND,1627783,Pascal Siakam,stl,2.5,False,0.0968,,model only,0.0968
@@ -597,15 +597,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,905105854,Braden Smith,ra,7.5,False,0.2867,,model only,0.2867
 401909938,DEN @ IND,IND,905105854,Braden Smith,ra,8.5,False,0.1999,,model only,0.1999
 401909938,DEN @ IND,IND,905105854,Braden Smith,ra,9.5,False,0.1351,,model only,0.1351
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,8.5,False,0.7159,,model only,0.7159
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,9.5,False,0.6502,,model only,0.6502
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,10.5,False,0.5877,,model only,0.5877
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,11.5,False,0.5223,,model only,0.5223
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,12.5,False,0.4597,,model only,0.4597
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,13.5,False,0.4014,,model only,0.4014
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,14.5,False,0.3498,,model only,0.3498
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,15.5,False,0.2993,,model only,0.2993
-401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,16.5,False,0.2545,,model only,0.2545
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,7.5,False,0.7776,0.7269,book,0.7307
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,8.5,False,0.7159,0.6876,est,0.6898
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,9.5,False,0.6502,0.6067,book,0.61
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,10.5,False,0.5877,0.5546,est,0.5571
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,11.5,True,0.5223,0.4885,book,0.491
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,12.5,False,0.4597,0.4263,est,0.4288
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,13.5,False,0.4014,0.3694,est,0.3718
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,14.5,False,0.3498,0.319,book,0.3213
+401909938,DEN @ IND,IND,1630167,Obi Toppin,pts,15.5,False,0.2993,0.2718,est,0.2738
 401909938,DEN @ IND,IND,1630167,Obi Toppin,reb,1.5,False,0.8971,,model only,0.8971
 401909938,DEN @ IND,IND,1630167,Obi Toppin,reb,2.5,False,0.7788,,model only,0.7788
 401909938,DEN @ IND,IND,1630167,Obi Toppin,reb,3.5,False,0.6318,,model only,0.6318
@@ -619,10 +619,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1630167,Obi Toppin,ast,3.5,False,0.1541,,model only,0.1541
 401909938,DEN @ IND,IND,1630167,Obi Toppin,ast,4.5,False,0.0674,,model only,0.0674
 401909938,DEN @ IND,IND,1630167,Obi Toppin,ast,5.5,False,0.0277,,model only,0.0277
-401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,0.5,False,0.7928,,model only,0.7928
-401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,1.5,False,0.4773,,model only,0.4773
-401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,2.5,False,0.2294,,model only,0.2294
-401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,3.5,False,0.09,,model only,0.09
+401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,0.5,False,0.7928,0.7841,book,0.7848
+401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,1.5,True,0.4773,0.5117,book,0.5091
+401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,2.5,False,0.2294,0.2773,book,0.2737
+401909938,DEN @ IND,IND,1630167,Obi Toppin,fg3m,3.5,False,0.09,0.1337,book,0.1304
 401909938,DEN @ IND,IND,1630167,Obi Toppin,stl,0.5,False,0.4329,,model only,0.4329
 401909938,DEN @ IND,IND,1630167,Obi Toppin,stl,1.5,False,0.1242,,model only,0.1242
 401909938,DEN @ IND,IND,1630167,Obi Toppin,blk,0.5,False,0.2108,,model only,0.2108
@@ -731,14 +731,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,IND,1641716,Jarace Walker,ra,10.5,False,0.2423,,model only,0.2423
 401909938,DEN @ IND,IND,1641716,Jarace Walker,ra,11.5,False,0.1737,,model only,0.1737
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,6.5,False,0.7452,,model only,0.7452
-401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,7.5,False,0.6686,,model only,0.6686
+401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,7.5,False,0.6686,0.7349,book,0.7299
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,8.5,False,0.5852,,model only,0.5852
-401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,9.5,False,0.5056,,model only,0.5056
+401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,9.5,False,0.5056,0.5897,book,0.5834
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,10.5,False,0.4266,,model only,0.4266
-401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,11.5,False,0.3578,,model only,0.3578
+401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,11.5,False,0.3578,0.4408,book,0.4346
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,12.5,False,0.2963,,model only,0.2963
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,13.5,False,0.2393,,model only,0.2393
-401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,14.5,False,0.1945,,model only,0.1945
+401909938,DEN @ IND,IND,1627826,Ivica Zubac,pts,14.5,False,0.1945,0.2396,book,0.2362
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,reb,5.5,False,0.7509,,model only,0.7509
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,reb,6.5,False,0.6486,,model only,0.6486
 401909938,DEN @ IND,IND,1627826,Ivica Zubac,reb,7.5,False,0.5426,,model only,0.5426
@@ -857,73 +857,73 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,DEN,1628963,Marvin Bagley III,ra,5.5,False,0.3736,,model only,0.3736
 401909938,DEN @ IND,DEN,1628963,Marvin Bagley III,ra,6.5,False,0.2792,,model only,0.2792
 401909938,DEN @ IND,DEN,1628963,Marvin Bagley III,ra,7.5,False,0.197,,model only,0.197
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,8.5,False,0.7899,0.8006,est,0.7998
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,9.5,False,0.7214,0.7345,est,0.7335
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,10.5,False,0.6481,0.663,est,0.6619
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,11.5,False,0.575,0.5909,est,0.5897
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,12.5,True,0.5046,0.521,book,0.5198
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,13.5,False,0.4357,0.4519,est,0.4507
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,14.5,False,0.3673,0.3827,est,0.3815
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,15.5,False,0.31,0.3242,est,0.3231
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,16.5,False,0.26,0.2729,est,0.2719
-401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,1.5,False,0.9248,0.9292,est,0.9289
-401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,2.5,False,0.8082,0.7883,book,0.7898
-401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,3.5,False,0.6468,0.6617,est,0.6606
-401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,4.5,True,0.4689,0.4853,book,0.4841
-401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,5.5,False,0.3098,0.335,book,0.3331
-401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,6.5,False,0.1895,0.2158,book,0.2138
-401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,7.5,False,0.1092,0.1158,est,0.1153
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,8.5,False,0.7899,0.8012,est,0.8004
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,9.5,False,0.7214,0.7352,est,0.7342
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,10.5,False,0.6481,0.6639,est,0.6627
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,11.5,False,0.575,0.5919,est,0.5906
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,12.5,True,0.5046,0.522,book,0.5207
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,13.5,False,0.4357,0.4529,est,0.4516
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,14.5,False,0.3673,0.3836,est,0.3824
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,15.5,False,0.31,0.3251,est,0.324
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pts,16.5,False,0.26,0.2737,est,0.2726
+401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,1.5,False,0.9248,0.9259,est,0.9258
+401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,2.5,False,0.8082,0.7872,book,0.7888
+401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,3.5,False,0.6468,0.6379,book,0.6386
+401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,4.5,True,0.4689,0.4731,book,0.4728
+401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,5.5,False,0.3098,0.3268,book,0.3255
+401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,6.5,False,0.1895,0.2105,book,0.2089
+401909938,DEN @ IND,DEN,1631128,Christian Braun,reb,7.5,False,0.1092,0.128,book,0.1266
 401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,0.5,False,0.9054,0.8889,est,0.8901
 401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,1.5,False,0.6872,0.6475,est,0.6505
 401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,2.5,True,0.4395,0.396,book,0.3993
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,3.5,False,0.2368,0.2105,book,0.2125
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,4.5,False,0.1121,0.1016,book,0.1024
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,5.5,False,0.0456,0.0508,book,0.0504
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,3.5,False,0.2368,0.2134,book,0.2152
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,4.5,False,0.1121,0.1038,book,0.1044
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ast,5.5,False,0.0456,0.0514,book,0.051
 401909938,DEN @ IND,DEN,1631128,Christian Braun,fg3m,0.5,False,0.7625,0.7462,book,0.7474
-401909938,DEN @ IND,DEN,1631128,Christian Braun,fg3m,1.5,True,0.4163,0.4367,book,0.4352
-401909938,DEN @ IND,DEN,1631128,Christian Braun,fg3m,2.5,False,0.1648,0.2059,book,0.2028
-401909938,DEN @ IND,DEN,1631128,Christian Braun,fg3m,3.5,False,0.0477,0.0873,book,0.0843
+401909938,DEN @ IND,DEN,1631128,Christian Braun,fg3m,1.5,True,0.4163,0.4388,book,0.4371
+401909938,DEN @ IND,DEN,1631128,Christian Braun,fg3m,2.5,False,0.1648,0.2077,book,0.2045
+401909938,DEN @ IND,DEN,1631128,Christian Braun,fg3m,3.5,False,0.0477,0.0907,book,0.0875
 401909938,DEN @ IND,DEN,1631128,Christian Braun,stl,0.5,False,0.6846,,model only,0.6846
 401909938,DEN @ IND,DEN,1631128,Christian Braun,stl,1.5,False,0.3362,,model only,0.3362
 401909938,DEN @ IND,DEN,1631128,Christian Braun,stl,2.5,False,0.1272,,model only,0.1272
 401909938,DEN @ IND,DEN,1631128,Christian Braun,blk,0.5,False,0.3386,,model only,0.3386
 401909938,DEN @ IND,DEN,1631128,Christian Braun,blk,1.5,False,0.0707,,model only,0.0707
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,14.5,False,0.7977,0.765,book,0.7675
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,15.5,False,0.7431,0.7561,est,0.7551
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,16.5,False,0.6852,0.6999,est,0.6988
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,17.5,False,0.6244,0.6405,est,0.6393
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,18.5,False,0.5654,0.5823,est,0.581
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,19.5,True,0.5037,0.521,book,0.5197
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,20.5,False,0.4474,0.4646,est,0.4633
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,21.5,False,0.3932,0.4099,est,0.4086
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,22.5,False,0.3408,0.3565,est,0.3554
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,23.5,False,0.2942,0.3088,est,0.3077
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,24.5,False,0.249,0.2773,book,0.2752
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,13.5,False,0.7307,0.7549,est,0.7531
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,14.5,False,0.6671,0.6946,est,0.6925
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,15.5,False,0.6025,0.6324,est,0.6301
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,16.5,False,0.5383,0.5696,est,0.5673
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,17.5,True,0.4752,0.5068,book,0.5044
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,18.5,False,0.4148,0.4458,est,0.4435
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,19.5,False,0.3603,0.39,est,0.3877
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,20.5,False,0.3089,0.3365,est,0.3344
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,21.5,False,0.2629,0.2882,est,0.2863
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,11.5,False,0.7355,0.7478,est,0.7469
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,12.5,False,0.6708,0.6848,est,0.6838
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,13.5,False,0.6041,0.6193,est,0.6182
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,14.5,False,0.5347,0.5506,est,0.5494
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,15.5,True,0.4693,0.4853,book,0.4841
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,16.5,False,0.4069,0.4225,est,0.4213
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,17.5,False,0.348,0.3627,est,0.3616
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,18.5,False,0.2947,0.3082,est,0.3072
-401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,19.5,False,0.2471,0.2592,est,0.2583
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,3.5,False,0.8981,0.8924,est,0.8928
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,4.5,False,0.7999,0.7901,est,0.7908
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,5.5,False,0.6747,0.6613,est,0.6623
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,6.5,True,0.5342,0.5192,book,0.5203
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,7.5,False,0.4017,0.3873,est,0.3884
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,8.5,False,0.2802,0.2682,est,0.2691
-401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,9.5,False,0.1915,0.1824,est,0.183
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,14.5,False,0.7977,0.7615,book,0.7642
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,15.5,False,0.7431,0.7554,est,0.7545
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,16.5,False,0.6852,0.6992,est,0.6981
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,17.5,False,0.6244,0.6397,est,0.6385
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,18.5,False,0.5654,0.5814,est,0.5802
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,19.5,True,0.5037,0.5201,book,0.5189
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,20.5,False,0.4474,0.4637,est,0.4625
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,21.5,False,0.3932,0.409,est,0.4078
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,22.5,False,0.3408,0.3557,est,0.3546
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,23.5,False,0.2942,0.3081,est,0.307
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pra,24.5,False,0.249,0.2749,book,0.273
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,13.5,False,0.7307,0.7535,est,0.7518
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,14.5,False,0.6671,0.693,est,0.691
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,15.5,False,0.6025,0.6306,est,0.6285
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,16.5,False,0.5383,0.5678,est,0.5655
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,17.5,True,0.4752,0.5049,book,0.5027
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,18.5,False,0.4148,0.4439,est,0.4418
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,19.5,False,0.3603,0.3882,est,0.3861
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,20.5,False,0.3089,0.3348,est,0.3329
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pr,21.5,False,0.2629,0.2866,est,0.2848
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,11.5,False,0.7355,0.7461,est,0.7453
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,12.5,False,0.6708,0.6829,est,0.682
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,13.5,False,0.6041,0.6172,est,0.6163
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,14.5,False,0.5347,0.5484,est,0.5474
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,15.5,True,0.4693,0.4831,book,0.4821
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,16.5,False,0.4069,0.4203,est,0.4193
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,17.5,False,0.348,0.3607,est,0.3598
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,18.5,False,0.2947,0.3064,est,0.3055
+401909938,DEN @ IND,DEN,1631128,Christian Braun,pa,19.5,False,0.2471,0.2575,est,0.2567
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,3.5,False,0.8981,0.8897,est,0.8903
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,4.5,False,0.7999,0.7854,est,0.7865
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,5.5,False,0.6747,0.655,est,0.6565
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,6.5,True,0.5342,0.5122,book,0.5139
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,7.5,False,0.4017,0.3807,est,0.3822
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,8.5,False,0.2802,0.2628,est,0.2641
+401909938,DEN @ IND,DEN,1631128,Christian Braun,ra,9.5,False,0.1915,0.1782,est,0.1792
 401909938,DEN @ IND,DEN,904698719,Trevon Brazile,pts,2.5,False,0.8532,,model only,0.8532
 401909938,DEN @ IND,DEN,904698719,Trevon Brazile,pts,3.5,False,0.749,,model only,0.749
 401909938,DEN @ IND,DEN,904698719,Trevon Brazile,pts,4.5,False,0.6311,,model only,0.6311
@@ -989,27 +989,27 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,DEN,904698719,Trevon Brazile,ra,7.5,False,0.2737,,model only,0.2737
 401909938,DEN @ IND,DEN,904698719,Trevon Brazile,ra,8.5,False,0.1891,,model only,0.1891
 401909938,DEN @ IND,DEN,904698719,Trevon Brazile,ra,9.5,False,0.1271,,model only,0.1271
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,7.5,False,0.7961,0.778,book,0.7794
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,8.5,False,0.7329,0.7325,est,0.7326
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,9.5,False,0.6639,0.6597,book,0.66
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,10.5,False,0.5947,0.5942,est,0.5943
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,11.5,True,0.5251,0.5247,book,0.5247
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,12.5,False,0.4552,0.4548,est,0.4548
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,13.5,False,0.396,0.3956,est,0.3956
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,14.5,False,0.3396,0.335,book,0.3353
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,15.5,False,0.2903,0.29,est,0.29
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,0.5,False,0.8969,0.8973,est,0.8972
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,1.5,False,0.6834,0.6843,est,0.6843
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,2.5,True,0.443,0.444,book,0.4439
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,3.5,False,0.2496,0.2547,book,0.2543
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,4.5,False,0.1256,0.1337,book,0.1331
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,5.5,False,0.0604,0.0697,book,0.069
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,0.5,False,0.9439,0.9368,est,0.9373
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,1.5,False,0.8059,0.7853,est,0.7868
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,2.5,True,0.6023,0.5716,book,0.5739
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,3.5,False,0.4099,0.3723,book,0.3751
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,4.5,False,0.2532,0.2163,book,0.2191
-401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,5.5,False,0.1471,0.1168,book,0.1191
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,7.5,False,0.7961,0.7745,book,0.7761
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,8.5,False,0.7329,0.734,est,0.7339
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,9.5,False,0.6639,0.6564,book,0.657
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,10.5,False,0.5947,0.596,est,0.5959
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,11.5,True,0.5251,0.5265,book,0.5264
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,12.5,False,0.4552,0.4566,est,0.4565
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,13.5,False,0.396,0.3973,est,0.3972
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,14.5,False,0.3396,0.3423,book,0.3421
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,pts,15.5,False,0.2903,0.2915,est,0.2914
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,0.5,False,0.8969,0.8926,est,0.8929
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,1.5,False,0.6834,0.6734,est,0.6742
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,2.5,True,0.443,0.4317,book,0.4325
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,3.5,False,0.2496,0.2486,book,0.2487
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,4.5,False,0.1256,0.1335,book,0.1329
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,reb,5.5,False,0.0604,0.0677,book,0.0672
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,0.5,False,0.9439,0.9378,est,0.9383
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,1.5,False,0.8059,0.7882,est,0.7895
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,2.5,True,0.6023,0.5758,book,0.5778
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,3.5,False,0.4099,0.3738,book,0.3765
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,4.5,False,0.2532,0.2184,book,0.221
+401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ast,5.5,False,0.1471,0.1198,book,0.1218
 401909938,DEN @ IND,DEN,201942,DeMar DeRozan,fg3m,0.5,False,0.3456,,model only,0.3456
 401909938,DEN @ IND,DEN,201942,DeMar DeRozan,fg3m,1.5,False,0.0681,,model only,0.0681
 401909938,DEN @ IND,DEN,201942,DeMar DeRozan,fg3m,2.5,False,0.0086,,model only,0.0086
@@ -1054,73 +1054,73 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ra,6.5,False,0.3675,,model only,0.3675
 401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ra,7.5,False,0.26,,model only,0.26
 401909938,DEN @ IND,DEN,201942,DeMar DeRozan,ra,8.5,False,0.1744,,model only,0.1744
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,8.5,False,0.7631,0.7854,est,0.7838
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,9.5,False,0.6935,0.72,est,0.7181
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,10.5,False,0.6207,0.6504,est,0.6482
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,11.5,False,0.5523,0.5837,est,0.5814
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,12.5,True,0.4835,0.5155,book,0.5131
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,13.5,False,0.4171,0.4486,est,0.4462
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,14.5,False,0.3579,0.3878,est,0.3856
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,15.5,False,0.3015,0.3291,est,0.3271
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,16.5,False,0.2516,0.2764,est,0.2746
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,8.5,False,0.7631,0.7867,est,0.7849
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,9.5,False,0.6935,0.7215,est,0.7194
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,10.5,False,0.6207,0.652,est,0.6497
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,11.5,False,0.5523,0.5855,est,0.583
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,12.5,True,0.4835,0.5173,book,0.5148
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,13.5,False,0.4171,0.4504,est,0.4479
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,14.5,False,0.3579,0.3895,est,0.3871
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,15.5,False,0.3015,0.3307,est,0.3285
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pts,16.5,False,0.2516,0.2779,est,0.2759
 401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,2.5,False,0.8829,0.8688,book,0.8699
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,3.5,False,0.7673,0.7706,book,0.7703
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,4.5,False,0.6225,0.6556,est,0.6531
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,5.5,True,0.473,0.5088,book,0.5061
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,6.5,False,0.3393,0.3651,book,0.3632
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,7.5,False,0.2269,0.2486,book,0.247
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,8.5,False,0.1418,0.1628,book,0.1612
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,0.5,False,0.9167,0.9088,est,0.9094
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,1.5,False,0.7294,0.7095,est,0.711
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,2.5,True,0.4989,0.4742,book,0.4761
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,3.5,False,0.2946,0.279,book,0.2802
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,4.5,False,0.1562,0.1472,book,0.1479
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,5.5,False,0.0764,0.0754,book,0.0755
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,0.5,False,0.7369,0.7605,book,0.7587
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,1.5,True,0.3782,0.4604,book,0.4542
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,2.5,False,0.1421,0.2263,book,0.22
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,3.5,False,0.0401,0.1005,book,0.096
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,3.5,False,0.7673,0.7726,book,0.7722
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,4.5,False,0.6225,0.6398,book,0.6385
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,5.5,True,0.473,0.4937,book,0.4921
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,6.5,False,0.3393,0.3567,book,0.3554
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,7.5,False,0.2269,0.2447,book,0.2434
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,reb,8.5,False,0.1418,0.1592,book,0.1579
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,0.5,False,0.9167,0.9085,est,0.9091
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,1.5,False,0.7294,0.7085,est,0.7101
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,2.5,True,0.4989,0.4731,book,0.475
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,3.5,False,0.2946,0.2749,book,0.2764
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,4.5,False,0.1562,0.1442,book,0.1451
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ast,5.5,False,0.0764,0.073,book,0.0733
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,0.5,False,0.7369,0.7579,book,0.7563
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,1.5,True,0.3782,0.4615,book,0.4553
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,2.5,False,0.1421,0.2291,book,0.2226
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,fg3m,3.5,False,0.0401,0.1016,book,0.097
 401909938,DEN @ IND,DEN,203932,Aaron Gordon,stl,0.5,False,0.5295,,model only,0.5295
 401909938,DEN @ IND,DEN,203932,Aaron Gordon,stl,1.5,False,0.1827,,model only,0.1827
 401909938,DEN @ IND,DEN,203932,Aaron Gordon,stl,2.5,False,0.052,,model only,0.052
 401909938,DEN @ IND,DEN,203932,Aaron Gordon,blk,0.5,False,0.3116,,model only,0.3116
 401909938,DEN @ IND,DEN,203932,Aaron Gordon,blk,1.5,False,0.0566,,model only,0.0566
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,16.5,False,0.7242,0.7504,est,0.7484
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,17.5,False,0.671,0.7002,est,0.698
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,18.5,False,0.6166,0.648,est,0.6456
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,19.5,False,0.5619,0.5948,est,0.5924
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,20.5,False,0.5059,0.5396,est,0.5371
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,21.5,True,0.4537,0.4874,book,0.4849
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,22.5,False,0.4013,0.4342,est,0.4317
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,23.5,False,0.3538,0.3853,est,0.383
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,24.5,False,0.3079,0.3374,est,0.3352
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,25.5,False,0.2665,0.2938,est,0.2917
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,26.5,False,0.2296,0.2544,est,0.2526
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,14.5,False,0.6997,0.7355,est,0.7329
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,15.5,False,0.643,0.6825,est,0.6795
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,16.5,False,0.5835,0.6257,est,0.6226
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,17.5,False,0.5233,0.5671,est,0.5638
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,18.5,True,0.4646,0.5088,book,0.5055
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,19.5,False,0.4088,0.4522,est,0.4489
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,20.5,False,0.3558,0.3973,est,0.3942
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,21.5,False,0.3102,0.3492,est,0.3463
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,22.5,False,0.2659,0.3019,est,0.2992
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,11.5,False,0.7213,0.7439,est,0.7422
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,12.5,False,0.659,0.6845,est,0.6826
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,13.5,False,0.5966,0.6241,est,0.622
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,14.5,False,0.5312,0.5598,est,0.5577
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,15.5,True,0.4679,0.4968,book,0.4946
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,16.5,False,0.4074,0.4356,est,0.4335
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,17.5,False,0.3534,0.3803,est,0.3783
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,18.5,False,0.3015,0.3264,est,0.3245
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,19.5,False,0.255,0.2776,est,0.2759
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,5.5,False,0.7875,0.7963,est,0.7957
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,6.5,False,0.678,0.6896,est,0.6887
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,7.5,False,0.5606,0.5738,est,0.5728
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,8.5,True,0.4436,0.4569,book,0.4559
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,9.5,False,0.3379,0.35,est,0.3491
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,10.5,False,0.2467,0.2568,est,0.256
-401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,11.5,False,0.1743,0.1821,est,0.1816
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,16.5,False,0.7242,0.7446,est,0.7431
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,17.5,False,0.671,0.6937,est,0.692
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,18.5,False,0.6166,0.641,est,0.6392
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,19.5,False,0.5619,0.5875,est,0.5856
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,20.5,False,0.5059,0.5321,est,0.5301
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,21.5,True,0.4537,0.4798,book,0.4778
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,22.5,False,0.4013,0.4267,est,0.4248
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,23.5,False,0.3538,0.3781,est,0.3763
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,24.5,False,0.3079,0.3306,est,0.3289
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,25.5,False,0.2665,0.2875,est,0.2859
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pra,26.5,False,0.2296,0.2487,est,0.2473
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,14.5,False,0.6997,0.727,est,0.7249
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,15.5,False,0.643,0.673,est,0.6707
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,16.5,False,0.5835,0.6155,est,0.6131
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,17.5,False,0.5233,0.5564,est,0.5539
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,18.5,True,0.4646,0.4979,book,0.4954
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,19.5,False,0.4088,0.4414,est,0.439
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,20.5,False,0.3558,0.3869,est,0.3846
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,21.5,False,0.3102,0.3394,est,0.3372
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pr,22.5,False,0.2659,0.2927,est,0.2907
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,11.5,False,0.7213,0.7432,est,0.7415
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,12.5,False,0.659,0.6836,est,0.6818
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,13.5,False,0.5966,0.6231,est,0.6211
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,14.5,False,0.5312,0.5589,est,0.5568
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,15.5,True,0.4679,0.4958,book,0.4937
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,16.5,False,0.4074,0.4346,est,0.4326
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,17.5,False,0.3534,0.3793,est,0.3774
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,18.5,False,0.3015,0.3255,est,0.3237
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,pa,19.5,False,0.255,0.2768,est,0.2752
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,5.5,False,0.7875,0.7907,est,0.7905
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,6.5,False,0.678,0.6822,est,0.6818
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,7.5,False,0.5606,0.5653,est,0.565
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,8.5,True,0.4436,0.4484,book,0.448
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,9.5,False,0.3379,0.3423,est,0.3419
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,10.5,False,0.2467,0.2503,est,0.25
+401909938,DEN @ IND,DEN,203932,Aaron Gordon,ra,11.5,False,0.1743,0.1771,est,0.1769
 401909938,DEN @ IND,DEN,904565698,Bryce Hopkins,pts,1.5,False,0.9216,,model only,0.9216
 401909938,DEN @ IND,DEN,904565698,Bryce Hopkins,pts,2.5,False,0.8354,,model only,0.8354
 401909938,DEN @ IND,DEN,904565698,Bryce Hopkins,pts,3.5,False,0.7219,,model only,0.7219
@@ -1186,96 +1186,96 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,DEN,904565698,Bryce Hopkins,ra,5.5,False,0.2242,,model only,0.2242
 401909938,DEN @ IND,DEN,904565698,Bryce Hopkins,ra,6.5,False,0.1331,,model only,0.1331
 401909938,DEN @ IND,DEN,904565698,Bryce Hopkins,ra,7.5,False,0.0733,,model only,0.0733
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,7.5,False,0.778,0.7197,book,0.7241
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,8.5,False,0.708,0.6912,est,0.6924
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,9.5,False,0.634,0.5922,book,0.5953
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,10.5,False,0.5593,0.5395,est,0.541
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,11.5,True,0.486,0.4661,book,0.4676
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,12.5,False,0.4176,0.3983,est,0.3997
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,13.5,False,0.3534,0.3354,est,0.3368
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,14.5,False,0.2972,0.2921,book,0.2925
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,15.5,False,0.2455,0.231,est,0.2321
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,0.5,False,0.969,0.9746,est,0.9742
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,1.5,False,0.8733,0.8943,est,0.8927
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,2.5,False,0.7172,0.7407,book,0.7389
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,3.5,True,0.5278,0.5785,book,0.5747
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,4.5,False,0.3512,0.4117,book,0.4072
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,5.5,False,0.2136,0.2693,book,0.2651
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,6.5,False,0.1192,0.1654,book,0.1619
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,0.5,False,0.891,0.8842,est,0.8847
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,1.5,False,0.6616,0.6461,est,0.6473
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,2.5,True,0.4159,0.3994,book,0.4006
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,3.5,False,0.2219,0.2153,book,0.2158
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,4.5,False,0.1074,0.1062,book,0.1063
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,5.5,False,0.0447,0.0543,book,0.0536
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,fg3m,0.5,False,0.8573,0.8132,book,0.8165
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,fg3m,1.5,True,0.5578,0.5476,book,0.5484
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,fg3m,2.5,False,0.2773,0.3044,book,0.3024
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,7.5,False,0.778,0.7269,book,0.7307
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,8.5,False,0.708,0.6981,est,0.6988
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,9.5,False,0.634,0.6055,book,0.6076
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,10.5,False,0.5593,0.5476,est,0.5484
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,11.5,True,0.486,0.4742,book,0.4751
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,12.5,False,0.4176,0.4061,est,0.4069
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,13.5,False,0.3534,0.3427,est,0.3435
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,14.5,False,0.2972,0.2967,book,0.2967
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pts,15.5,False,0.2455,0.2368,est,0.2375
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,0.5,False,0.969,0.9738,est,0.9735
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,1.5,False,0.8733,0.8913,est,0.89
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,2.5,False,0.7172,0.7399,book,0.7382
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,3.5,True,0.5278,0.5709,book,0.5677
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,4.5,False,0.3512,0.4028,book,0.3989
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,5.5,False,0.2136,0.2603,book,0.2568
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,reb,6.5,False,0.1192,0.1595,book,0.1565
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,0.5,False,0.891,0.8845,est,0.885
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,1.5,False,0.6616,0.6469,est,0.648
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,2.5,True,0.4159,0.4002,book,0.4014
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,3.5,False,0.2219,0.2199,book,0.2201
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,4.5,False,0.1074,0.1113,book,0.111
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ast,5.5,False,0.0447,0.0556,book,0.0548
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,fg3m,0.5,False,0.8573,0.8148,book,0.818
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,fg3m,1.5,True,0.5578,0.5547,book,0.5549
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,fg3m,2.5,False,0.2773,0.3084,book,0.3061
 401909938,DEN @ IND,DEN,1629661,Cameron Johnson,fg3m,3.5,False,0.1065,0.1469,book,0.1439
 401909938,DEN @ IND,DEN,1629661,Cameron Johnson,stl,0.5,False,0.5832,,model only,0.5832
 401909938,DEN @ IND,DEN,1629661,Cameron Johnson,stl,1.5,False,0.2309,,model only,0.2309
 401909938,DEN @ IND,DEN,1629661,Cameron Johnson,stl,2.5,False,0.0722,,model only,0.0722
 401909938,DEN @ IND,DEN,1629661,Cameron Johnson,blk,0.5,False,0.3302,,model only,0.3302
 401909938,DEN @ IND,DEN,1629661,Cameron Johnson,blk,1.5,False,0.0661,,model only,0.0661
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,12.5,False,0.7968,0.7932,est,0.7935
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,13.5,False,0.7413,0.7371,est,0.7374
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,14.5,False,0.6845,0.6652,book,0.6667
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,15.5,False,0.6252,0.62,est,0.6204
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,16.5,False,0.5661,0.5607,est,0.5611
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,17.5,True,0.5074,0.5019,book,0.5023
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,18.5,False,0.449,0.4435,est,0.4439
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,19.5,False,0.3922,0.3994,book,0.3989
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,20.5,False,0.3385,0.3336,est,0.334
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,21.5,False,0.2913,0.2868,est,0.2871
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,22.5,False,0.248,0.2439,est,0.2442
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,11.5,False,0.7378,0.7418,est,0.7415
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,12.5,False,0.6752,0.6797,est,0.6794
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,13.5,False,0.6123,0.6172,est,0.6169
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,14.5,False,0.5463,0.5435,book,0.5437
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,15.5,True,0.4833,0.4885,book,0.4881
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,16.5,False,0.4228,0.4279,est,0.4275
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,17.5,False,0.365,0.3698,est,0.3695
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,18.5,False,0.3091,0.3136,est,0.3133
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,19.5,False,0.2618,0.2815,book,0.28
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,9.5,False,0.7793,0.731,book,0.7346
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,10.5,False,0.7163,0.6976,est,0.699
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,11.5,False,0.6476,0.6267,est,0.6283
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,12.5,False,0.5788,0.5566,est,0.5583
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,13.5,True,0.5132,0.4906,book,0.4923
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,14.5,False,0.4494,0.4287,book,0.4303
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,15.5,False,0.3865,0.3653,est,0.3669
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,16.5,False,0.3284,0.3088,est,0.3102
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,17.5,False,0.2778,0.2601,est,0.2614
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,3.5,False,0.8305,0.8502,est,0.8487
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,4.5,False,0.7052,0.7348,est,0.7326
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,5.5,False,0.5666,0.6022,est,0.5995
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,6.5,True,0.4294,0.4657,book,0.463
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,7.5,False,0.3094,0.3416,est,0.3392
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,8.5,False,0.2095,0.2348,est,0.2329
-401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,9.5,False,0.1341,0.1521,est,0.1507
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,22.5,False,0.6326,0.6431,est,0.6423
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,23.5,False,0.5944,0.6053,est,0.6045
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,24.5,False,0.5554,0.5666,est,0.5658
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,25.5,False,0.515,0.5263,est,0.5255
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,26.5,True,0.4772,0.4885,book,0.4876
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,27.5,False,0.441,0.4522,est,0.4514
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,28.5,False,0.4064,0.4174,est,0.4166
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,29.5,False,0.3714,0.382,est,0.3812
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,30.5,False,0.3379,0.3481,est,0.3474
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,8.5,False,0.832,0.7732,book,0.7776
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,9.5,False,0.7576,0.6992,book,0.7036
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,10.5,False,0.6737,0.6112,book,0.6159
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,11.5,True,0.5826,0.5174,book,0.5223
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,12.5,False,0.4906,0.4229,book,0.428
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,13.5,False,0.3984,0.3362,book,0.3409
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,14.5,False,0.3166,0.2603,book,0.2645
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,12.5,False,0.7968,0.7952,est,0.7953
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,13.5,False,0.7413,0.7394,est,0.7395
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,14.5,False,0.6845,0.6698,book,0.6709
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,15.5,False,0.6252,0.6228,est,0.623
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,16.5,False,0.5661,0.5636,est,0.5638
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,17.5,True,0.5074,0.5049,book,0.5051
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,18.5,False,0.449,0.4465,est,0.4467
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,19.5,False,0.3922,0.4028,book,0.402
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,20.5,False,0.3385,0.3363,est,0.3365
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,21.5,False,0.2913,0.2893,est,0.2894
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pra,22.5,False,0.248,0.2461,est,0.2462
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,11.5,False,0.7378,0.7426,est,0.7422
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,12.5,False,0.6752,0.6806,est,0.6802
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,13.5,False,0.6123,0.6182,est,0.6177
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,14.5,False,0.5463,0.5468,book,0.5468
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,15.5,True,0.4833,0.4895,book,0.489
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,16.5,False,0.4228,0.4289,est,0.4284
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,17.5,False,0.365,0.3708,est,0.3703
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,18.5,False,0.3091,0.3145,est,0.3141
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pr,19.5,False,0.2618,0.279,book,0.2777
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,9.5,False,0.7793,0.7323,book,0.7358
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,10.5,False,0.7163,0.7045,est,0.7054
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,11.5,False,0.6476,0.6344,est,0.6354
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,12.5,False,0.5788,0.5648,est,0.5658
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,13.5,True,0.5132,0.4989,book,0.5
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,14.5,False,0.4494,0.4367,book,0.4377
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,15.5,False,0.3865,0.373,est,0.374
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,16.5,False,0.3284,0.3159,est,0.3168
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,pa,17.5,False,0.2778,0.2665,est,0.2674
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,3.5,False,0.8305,0.8442,est,0.8432
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,4.5,False,0.7052,0.7257,est,0.7241
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,5.5,False,0.5666,0.5911,est,0.5892
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,6.5,True,0.4294,0.4542,book,0.4523
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,7.5,False,0.3094,0.3313,est,0.3296
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,8.5,False,0.2095,0.2266,est,0.2253
+401909938,DEN @ IND,DEN,1629661,Cameron Johnson,ra,9.5,False,0.1341,0.1462,est,0.1453
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,22.5,False,0.6326,0.6391,est,0.6387
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,23.5,False,0.5944,0.6012,est,0.6007
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,24.5,False,0.5554,0.5624,est,0.5619
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,25.5,False,0.515,0.522,est,0.5215
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,26.5,True,0.4772,0.4842,book,0.4837
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,27.5,False,0.441,0.4479,est,0.4474
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,28.5,False,0.4064,0.4133,est,0.4127
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,29.5,False,0.3714,0.378,est,0.3775
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pts,30.5,False,0.3379,0.3442,est,0.3438
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,8.5,False,0.832,0.7647,book,0.7697
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,9.5,False,0.7576,0.686,book,0.6914
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,10.5,False,0.6737,0.5984,book,0.604
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,11.5,True,0.5826,0.5059,book,0.5117
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,12.5,False,0.4906,0.4135,book,0.4193
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,13.5,False,0.3984,0.3268,book,0.3322
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,reb,14.5,False,0.3166,0.2512,book,0.2561
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,6.5,False,0.8297,0.8132,book,0.8144
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,7.5,False,0.7411,0.737,book,0.7373
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,8.5,False,0.6396,0.6369,book,0.6371
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,9.5,True,0.5342,0.5282,book,0.5286
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,10.5,False,0.4283,0.4172,book,0.418
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,11.5,False,0.3294,0.3147,book,0.3158
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,12.5,False,0.2485,0.2279,book,0.2294
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,7.5,False,0.7411,0.7336,book,0.7342
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,8.5,False,0.6396,0.636,book,0.6363
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,9.5,True,0.5342,0.5291,book,0.5295
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,10.5,False,0.4283,0.4229,book,0.4233
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,11.5,False,0.3294,0.319,book,0.3198
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,ast,12.5,False,0.2485,0.2325,book,0.2337
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,fg3m,0.5,False,0.7527,0.7345,book,0.7359
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,fg3m,1.5,True,0.422,0.4307,book,0.43
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,fg3m,2.5,False,0.1835,0.2059,book,0.2042
@@ -1297,24 +1297,24 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,pra,51.5,False,0.4275,0.4148,est,0.4158
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,pra,52.5,False,0.398,0.3855,est,0.3865
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,pra,53.5,False,0.3698,0.3577,est,0.3587
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,34.5,False,0.6446,0.6302,book,0.6313
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,35.5,False,0.6085,0.5931,est,0.5943
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,36.5,False,0.5759,0.5601,est,0.5613
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,37.5,False,0.5405,0.5245,est,0.5257
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,38.5,True,0.508,0.4919,book,0.4931
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,39.5,False,0.4762,0.4559,book,0.4574
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,40.5,False,0.442,0.4262,est,0.4274
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,41.5,False,0.4118,0.3964,est,0.3975
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,42.5,False,0.3822,0.3671,est,0.3682
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,32.5,False,0.6247,0.6426,est,0.6413
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,33.5,False,0.5889,0.6074,est,0.606
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,34.5,False,0.5571,0.576,est,0.5746
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,35.5,False,0.5205,0.5398,est,0.5383
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,36.5,True,0.4846,0.5039,book,0.5025
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,37.5,False,0.4524,0.4715,est,0.4701
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,38.5,False,0.4197,0.4386,est,0.4372
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,39.5,False,0.3896,0.4081,est,0.4067
-401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,40.5,False,0.3581,0.3761,est,0.3747
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,34.5,False,0.6446,0.6265,est,0.6279
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,35.5,False,0.6085,0.5898,est,0.5912
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,36.5,False,0.5759,0.5568,est,0.5582
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,37.5,False,0.5405,0.5211,est,0.5226
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,38.5,True,0.508,0.4885,book,0.49
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,39.5,False,0.4762,0.4569,est,0.4583
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,40.5,False,0.442,0.4229,est,0.4243
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,41.5,False,0.4118,0.3931,est,0.3945
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pr,42.5,False,0.3822,0.3639,est,0.3653
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,32.5,False,0.6247,0.6352,est,0.6344
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,33.5,False,0.5889,0.5997,est,0.5988
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,34.5,False,0.5571,0.5681,est,0.5673
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,35.5,False,0.5205,0.5317,est,0.5309
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,36.5,True,0.4846,0.4958,book,0.495
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,37.5,False,0.4524,0.4635,est,0.4626
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,38.5,False,0.4197,0.4307,est,0.4298
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,39.5,False,0.3896,0.4003,est,0.3995
+401909938,DEN @ IND,DEN,203999,Nikola Jokic,pa,40.5,False,0.3581,0.3685,est,0.3677
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,ra,18.5,False,0.7408,0.7022,est,0.7051
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,ra,19.5,False,0.6819,0.6388,est,0.6421
 401909938,DEN @ IND,DEN,203999,Nikola Jokic,ra,20.5,False,0.6224,0.5762,est,0.5797
@@ -1384,50 +1384,50 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,DEN,1626145,Tyus Jones,ra,4.5,False,0.2335,,model only,0.2335
 401909938,DEN @ IND,DEN,1626145,Tyus Jones,ra,5.5,False,0.1407,,model only,0.1407
 401909938,DEN @ IND,DEN,1626145,Tyus Jones,ra,6.5,False,0.0809,,model only,0.0809
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,18.5,False,0.7534,0.6731,est,0.6792
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,19.5,False,0.7139,0.6272,est,0.6337
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,20.5,False,0.673,0.5812,est,0.5881
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,21.5,False,0.6316,0.5361,est,0.5433
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,22.5,True,0.5912,0.4937,book,0.501
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,23.5,False,0.5499,0.4517,est,0.459
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,24.5,False,0.5103,0.4126,est,0.42
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,25.5,False,0.4696,0.3738,est,0.381
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,26.5,False,0.4289,0.3361,est,0.3431
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,1.5,False,0.9498,0.9378,est,0.9387
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,2.5,False,0.8565,0.8029,book,0.8069
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,3.5,False,0.7127,0.6548,book,0.6591
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,4.5,True,0.5461,0.4895,book,0.4937
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,5.5,False,0.3848,0.335,book,0.3387
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,6.5,False,0.2485,0.2134,book,0.216
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,7.5,False,0.1516,0.128,book,0.1298
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,3.5,False,0.837,0.843,book,0.8426
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,4.5,False,0.7115,0.7382,book,0.7362
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,5.5,False,0.5656,0.6078,book,0.6046
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,6.5,True,0.4207,0.465,book,0.4617
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,7.5,False,0.2945,0.3326,book,0.3297
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,8.5,False,0.1969,0.222,book,0.2201
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,9.5,False,0.126,0.142,book,0.1408
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,18.5,False,0.7534,0.6803,est,0.6858
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,19.5,False,0.7139,0.6349,est,0.6408
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,20.5,False,0.673,0.5891,est,0.5954
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,21.5,False,0.6316,0.5443,est,0.5508
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,22.5,True,0.5912,0.5019,book,0.5086
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,23.5,False,0.5499,0.4598,est,0.4665
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,24.5,False,0.5103,0.4206,est,0.4273
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,25.5,False,0.4696,0.3815,est,0.3881
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pts,26.5,False,0.4289,0.3435,est,0.3499
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,1.5,False,0.9498,0.9368,est,0.9377
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,2.5,False,0.8565,0.7953,book,0.7999
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,3.5,False,0.7127,0.6496,book,0.6543
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,4.5,True,0.5461,0.4853,book,0.4899
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,5.5,False,0.3848,0.3291,book,0.3333
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,6.5,False,0.2485,0.2077,book,0.2108
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,reb,7.5,False,0.1516,0.123,book,0.1251
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,3.5,False,0.837,0.8464,book,0.8457
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,4.5,False,0.7115,0.7431,book,0.7407
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,5.5,False,0.5656,0.6101,book,0.6068
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,6.5,True,0.4207,0.4673,book,0.4638
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,7.5,False,0.2945,0.3338,book,0.3309
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,8.5,False,0.1969,0.2252,book,0.2231
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ast,9.5,False,0.126,0.1458,book,0.1443
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,0.5,False,0.9625,0.9086,book,0.9126
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,1.5,False,0.8433,0.777,book,0.782
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,2.5,True,0.6502,0.5852,book,0.5901
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,3.5,False,0.4416,0.3815,book,0.386
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,1.5,False,0.8433,0.7772,book,0.7822
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,2.5,True,0.6502,0.5812,book,0.5864
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,3.5,False,0.4416,0.3846,book,0.3889
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,fg3m,4.5,False,0.2638,0.2257,book,0.2286
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,stl,0.5,False,0.6738,,model only,0.6738
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,stl,1.5,False,0.3252,,model only,0.3252
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,stl,2.5,False,0.1207,,model only,0.1207
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,blk,0.5,False,0.4102,,model only,0.4102
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,blk,1.5,False,0.1028,,model only,0.1028
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,28.5,False,0.7637,0.6962,est,0.7013
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,29.5,False,0.7302,0.6652,book,0.6701
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,30.5,False,0.6963,0.6191,est,0.6249
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,31.5,False,0.6618,0.5811,est,0.5872
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,32.5,False,0.6266,0.5433,est,0.5495
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,33.5,True,0.5909,0.5059,book,0.5123
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,34.5,False,0.5528,0.4673,book,0.4737
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,35.5,False,0.5187,0.4331,est,0.4396
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,36.5,False,0.4849,0.4002,est,0.4066
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,37.5,False,0.449,0.3662,est,0.3724
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,38.5,False,0.4145,0.3341,est,0.3402
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,28.5,False,0.7637,0.6978,est,0.7028
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,29.5,False,0.7302,0.6706,book,0.6751
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,30.5,False,0.6963,0.6209,est,0.6265
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,31.5,False,0.6618,0.583,est,0.5889
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,32.5,False,0.6266,0.5451,est,0.5512
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,33.5,True,0.5909,0.5078,book,0.514
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,34.5,False,0.5528,0.4696,book,0.4758
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,35.5,False,0.5187,0.435,est,0.4413
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,36.5,False,0.4849,0.4021,est,0.4083
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,37.5,False,0.449,0.3679,est,0.374
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pra,38.5,False,0.4145,0.3358,est,0.3417
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,pr,23.5,False,0.7413,0.6533,est,0.6599
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,pr,24.5,False,0.7043,0.6103,est,0.6174
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,pr,25.5,False,0.6647,0.566,est,0.5734
@@ -1437,22 +1437,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,pr,29.5,False,0.5118,0.4081,est,0.4159
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,pr,30.5,False,0.4749,0.373,est,0.3806
 401909938,DEN @ IND,DEN,1627750,Jamal Murray,pr,31.5,False,0.4363,0.3373,est,0.3448
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,24.5,False,0.7409,0.6918,book,0.6955
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,25.5,False,0.7055,0.6408,est,0.6457
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,26.5,False,0.6683,0.6002,est,0.6053
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,27.5,False,0.6299,0.559,est,0.5643
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,28.5,True,0.5927,0.5201,book,0.5255
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,29.5,False,0.5557,0.4765,book,0.4824
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,30.5,False,0.5166,0.4432,est,0.4488
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,31.5,False,0.4807,0.4081,est,0.4136
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,32.5,False,0.4427,0.3717,est,0.3771
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,7.5,False,0.834,0.8331,est,0.8331
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,8.5,False,0.7446,0.7433,est,0.7434
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,9.5,False,0.6477,0.6462,est,0.6463
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,10.5,True,0.5435,0.5419,book,0.542
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,11.5,False,0.4402,0.4386,est,0.4387
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,12.5,False,0.348,0.3465,est,0.3466
-401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,13.5,False,0.265,0.2637,est,0.2638
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,25.5,False,0.7055,0.6436,est,0.6482
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,26.5,False,0.6683,0.603,est,0.6079
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,27.5,False,0.6299,0.5619,est,0.567
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,28.5,False,0.5927,0.5231,est,0.5283
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,29.5,True,0.5557,0.4853,book,0.4906
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,30.5,False,0.5166,0.4462,est,0.4515
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,31.5,False,0.4807,0.411,est,0.4162
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,32.5,False,0.4427,0.3745,est,0.3796
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,pa,33.5,False,0.4093,0.3431,est,0.348
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,7.5,False,0.834,0.8288,est,0.8291
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,8.5,False,0.7446,0.7374,est,0.738
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,9.5,False,0.6477,0.6392,est,0.6398
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,10.5,True,0.5435,0.5343,book,0.535
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,11.5,False,0.4402,0.4311,est,0.4318
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,12.5,False,0.348,0.3396,est,0.3402
+401909938,DEN @ IND,DEN,1627750,Jamal Murray,ra,13.5,False,0.265,0.2578,est,0.2584
 401909939,BKN @ ATL,ATL,1629638,Nickeil Alexander-Walker,pts,18.5,False,0.6579,,model only,0.6579
 401909939,BKN @ ATL,ATL,1629638,Nickeil Alexander-Walker,pts,19.5,False,0.6118,,model only,0.6118
 401909939,BKN @ ATL,ATL,1629638,Nickeil Alexander-Walker,pts,20.5,False,0.5655,,model only,0.5655
@@ -6869,15 +6869,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,ra,13.5,False,0.4068,,model only,0.4068
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,ra,14.5,False,0.3243,,model only,0.3243
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,ra,15.5,False,0.2544,,model only,0.2544
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,19.5,False,0.6976,0.6819,est,0.6831
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,20.5,False,0.6574,0.6406,est,0.6419
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,21.5,False,0.6151,0.5975,est,0.5988
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,22.5,False,0.5722,0.5541,est,0.5555
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,23.5,True,0.531,0.5126,book,0.514
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,24.5,False,0.49,0.4716,est,0.473
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,25.5,False,0.4488,0.4306,est,0.432
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,26.5,False,0.4109,0.3932,est,0.3945
-401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,27.5,False,0.3719,0.3549,est,0.3561
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,19.5,False,0.6976,0.6795,est,0.6808
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,20.5,False,0.6574,0.638,est,0.6395
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,21.5,False,0.6151,0.5948,est,0.5963
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,22.5,False,0.5722,0.5513,est,0.5529
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,23.5,True,0.531,0.5098,book,0.5114
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,24.5,False,0.49,0.4688,est,0.4704
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,25.5,False,0.4488,0.4279,est,0.4295
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,26.5,False,0.4109,0.3905,est,0.3921
+401909943,HOU @ PHX,PHX,1626164,Devin Booker,pts,27.5,False,0.3719,0.3523,est,0.3538
 401909943,HOU @ PHX,PHX,1626164,Devin Booker,reb,0.5,False,0.9626,,model only,0.9626
 401909943,HOU @ PHX,PHX,1626164,Devin Booker,reb,1.5,False,0.8472,,model only,0.8472
 401909943,HOU @ PHX,PHX,1626164,Devin Booker,reb,2.5,False,0.6606,,model only,0.6606
@@ -6939,12 +6939,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1626164,Devin Booker,ra,12.5,False,0.1802,,model only,0.1802
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,12.5,False,0.6177,0.7131,est,0.706
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,13.5,False,0.5528,0.6554,est,0.6477
-401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,14.5,False,0.4894,0.5819,book,0.575
+401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,14.5,False,0.4894,0.5765,book,0.57
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,15.5,False,0.4278,0.5349,est,0.5269
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,16.5,True,0.3686,0.4731,book,0.4653
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,17.5,False,0.3166,0.421,book,0.4132
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,18.5,False,0.271,0.3638,est,0.3569
-401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,19.5,False,0.2297,0.319,book,0.3123
+401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,19.5,False,0.2297,0.3201,book,0.3133
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,pts,20.5,False,0.1915,0.267,est,0.2614
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,reb,3.5,False,0.8577,,model only,0.8577
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,reb,4.5,False,0.7411,,model only,0.7411
@@ -7005,14 +7005,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,ra,10.5,False,0.3664,,model only,0.3664
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,ra,11.5,False,0.2742,,model only,0.2742
 401909943,HOU @ PHX,PHX,1628970,Miles Bridges,ra,12.5,False,0.1952,,model only,0.1952
-401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,11.5,False,0.7711,0.7167,book,0.7208
-401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,12.5,False,0.7178,0.6898,est,0.6919
-401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,13.5,False,0.6652,0.6347,est,0.637
-401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,14.5,False,0.6092,0.5709,book,0.5738
-401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,15.5,True,0.5526,0.5192,book,0.5217
-401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,16.5,False,0.4969,0.4634,est,0.4659
+401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,11.5,False,0.7711,0.7192,book,0.7231
+401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,12.5,False,0.7178,0.6906,est,0.6927
+401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,13.5,False,0.6652,0.6355,est,0.6378
+401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,14.5,False,0.6092,0.5723,book,0.5751
+401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,15.5,True,0.5526,0.5201,book,0.5225
+401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,16.5,False,0.4969,0.4643,est,0.4667
 401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,17.5,False,0.4434,0.4154,book,0.4175
-401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,18.5,False,0.3916,0.3602,est,0.3625
+401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,18.5,False,0.3916,0.361,est,0.3633
 401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,pts,19.5,False,0.3432,0.3168,book,0.3188
 401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,reb,1.5,False,0.8764,,model only,0.8764
 401909943,HOU @ PHX,PHX,1628415,Dillon Brooks,reb,2.5,False,0.716,,model only,0.716
@@ -7159,11 +7159,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,ast,5.5,False,0.204,,model only,0.204
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,ast,6.5,False,0.1142,,model only,0.1142
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,ast,7.5,False,0.0628,,model only,0.0628
-401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,0.5,False,0.8425,0.8402,book,0.8404
-401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,1.5,False,0.522,0.621,book,0.6136
-401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,2.5,True,0.2417,0.3846,book,0.3739
-401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,3.5,False,0.0866,0.2086,book,0.1995
-401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,4.5,False,0.0252,0.1074,book,0.1012
+401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,0.5,False,0.8425,0.8456,book,0.8454
+401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,1.5,False,0.522,0.6188,book,0.6115
+401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,2.5,True,0.2417,0.383,book,0.3724
+401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,3.5,False,0.0866,0.2081,book,0.199
+401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,fg3m,4.5,False,0.0252,0.1062,book,0.1001
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,stl,0.5,False,0.7245,,model only,0.7245
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,stl,1.5,False,0.3928,,model only,0.3928
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,stl,2.5,False,0.175,,model only,0.175
@@ -7205,15 +7205,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,ra,8.5,False,0.2779,,model only,0.2779
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,ra,9.5,False,0.191,,model only,0.191
 401909943,HOU @ PHX,PHX,1631221,Collin Gillespie,ra,10.5,False,0.1289,,model only,0.1289
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,11.5,False,0.7146,0.7297,est,0.7286
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,12.5,False,0.6561,0.673,est,0.6717
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,13.5,False,0.5934,0.6115,est,0.6102
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,14.5,False,0.533,0.5518,est,0.5504
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,15.5,True,0.4738,0.4927,book,0.4913
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,16.5,False,0.4208,0.4394,est,0.438
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,17.5,False,0.3683,0.3861,est,0.3847
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,18.5,False,0.3209,0.3376,est,0.3363
-401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,19.5,False,0.2759,0.2913,est,0.2901
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,11.5,False,0.7146,0.733,est,0.7316
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,12.5,False,0.6561,0.6766,est,0.6751
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,13.5,False,0.5934,0.6154,est,0.6138
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,14.5,False,0.533,0.5558,est,0.5541
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,15.5,True,0.4738,0.4968,book,0.4951
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,16.5,False,0.4208,0.4434,est,0.4417
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,17.5,False,0.3683,0.3899,est,0.3883
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,18.5,False,0.3209,0.3413,est,0.3397
+401909943,HOU @ PHX,PHX,1630224,Jalen Green,pts,19.5,False,0.2759,0.2947,est,0.2933
 401909943,HOU @ PHX,PHX,1630224,Jalen Green,reb,1.5,False,0.8681,,model only,0.8681
 401909943,HOU @ PHX,PHX,1630224,Jalen Green,reb,2.5,False,0.7017,,model only,0.7017
 401909943,HOU @ PHX,PHX,1630224,Jalen Green,reb,3.5,False,0.5109,,model only,0.5109
@@ -7273,15 +7273,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1630224,Jalen Green,ra,8.5,False,0.2828,,model only,0.2828
 401909943,HOU @ PHX,PHX,1630224,Jalen Green,ra,9.5,False,0.1907,,model only,0.1907
 401909943,HOU @ PHX,PHX,1630224,Jalen Green,ra,10.5,False,0.1238,,model only,0.1238
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8887,0.9105,est,0.9088
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7976,0.8338,est,0.8311
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.689,0.7382,est,0.7345
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,5.5,False,0.5744,0.6407,book,0.6357
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,True,0.4618,0.522,book,0.5175
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,7.5,False,0.3662,0.4604,book,0.4533
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.2813,0.3325,est,0.3287
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,9.5,False,0.2114,0.3064,book,0.2993
-401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,10.5,False,0.1564,0.1909,est,0.1883
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8887,0.9108,est,0.9091
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7976,0.8343,est,0.8315
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.689,0.7389,est,0.7351
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,5.5,False,0.5744,0.6461,book,0.6407
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,True,0.4618,0.5229,book,0.5183
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,7.5,False,0.3662,0.465,book,0.4576
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.2813,0.3333,est,0.3294
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,9.5,False,0.2114,0.3095,book,0.3021
+401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,pts,10.5,False,0.1564,0.1915,est,0.1888
 401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,reb,2.5,False,0.841,,model only,0.841
 401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,reb,3.5,False,0.7141,,model only,0.7141
 401909943,HOU @ PHX,PHX,1642345,Oso Ighodaro,reb,4.5,False,0.5657,,model only,0.5657
@@ -7346,9 +7346,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,4.5,False,0.629,,model only,0.629
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,5.5,False,0.5126,0.5282,book,0.527
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,6.5,False,0.4069,,model only,0.4069
-401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,7.5,False,0.318,0.3784,book,0.3739
+401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,7.5,False,0.318,0.3768,book,0.3724
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,8.5,False,0.2411,,model only,0.2411
-401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,9.5,False,0.1797,0.2378,book,0.2334
+401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,9.5,False,0.1797,0.2366,book,0.2323
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,pts,10.5,False,0.1325,,model only,0.1325
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,reb,0.5,False,0.8203,,model only,0.8203
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,reb,1.5,False,0.5553,,model only,0.5553
@@ -7363,9 +7363,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,ast,4.5,False,0.0526,,model only,0.0526
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,ast,5.5,False,0.021,,model only,0.021
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,fg3m,0.5,False,0.5684,0.7222,book,0.7107
-401909943,HOU @ PHX,PHX,1628379,Luke Kennard,fg3m,1.5,False,0.1914,0.4154,book,0.3986
-401909943,HOU @ PHX,PHX,1628379,Luke Kennard,fg3m,2.5,False,0.0443,0.2019,book,0.1901
-401909943,HOU @ PHX,PHX,1628379,Luke Kennard,fg3m,3.5,False,0.0081,0.0907,book,0.0845
+401909943,HOU @ PHX,PHX,1628379,Luke Kennard,fg3m,1.5,False,0.1914,0.4135,book,0.3968
+401909943,HOU @ PHX,PHX,1628379,Luke Kennard,fg3m,2.5,False,0.0443,0.1993,book,0.1877
+401909943,HOU @ PHX,PHX,1628379,Luke Kennard,fg3m,3.5,False,0.0081,0.089,book,0.0829
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,stl,0.5,False,0.4568,,model only,0.4568
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,stl,1.5,False,0.1486,,model only,0.1486
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,blk,0.5,False,0.1041,,model only,0.1041
@@ -7406,15 +7406,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,ra,4.5,False,0.3364,,model only,0.3364
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,ra,5.5,False,0.2085,,model only,0.2085
 401909943,HOU @ PHX,PHX,1628379,Luke Kennard,ra,6.5,False,0.1228,,model only,0.1228
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,1.5,False,0.9016,0.9201,est,0.9187
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,2.5,False,0.8037,0.8372,est,0.8347
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,3.5,False,0.6881,0.7348,est,0.7313
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,4.5,False,0.5692,0.624,est,0.6199
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,5.5,True,0.451,0.5078,book,0.5035
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,6.5,False,0.3485,0.4018,est,0.3978
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,7.5,False,0.2636,0.3314,book,0.3263
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,8.5,False,0.1945,0.2327,est,0.2298
-401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,9.5,False,0.1401,0.1984,book,0.194
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,1.5,False,0.9016,0.9198,est,0.9184
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,2.5,False,0.8037,0.8367,est,0.8342
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,3.5,False,0.6881,0.7341,est,0.7306
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,4.5,False,0.5692,0.6231,est,0.6191
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,5.5,True,0.451,0.5069,book,0.5027
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,6.5,False,0.3485,0.4009,est,0.397
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,7.5,False,0.2636,0.3302,book,0.3252
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,8.5,False,0.1945,0.2321,est,0.2292
+401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,pts,9.5,False,0.1401,0.1976,book,0.1933
 401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,reb,2.5,False,0.8093,,model only,0.8093
 401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,reb,3.5,False,0.6877,,model only,0.6877
 401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,reb,4.5,False,0.5519,,model only,0.5519
@@ -7470,15 +7470,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,ra,7.5,False,0.2881,,model only,0.2881
 401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,ra,8.5,False,0.2047,,model only,0.2047
 401909943,HOU @ PHX,PHX,1642863,Khaman Maluach,ra,9.5,False,0.138,,model only,0.138
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,16.5,False,0.7406,0.6931,est,0.6966
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,17.5,False,0.6957,0.6438,est,0.6477
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,18.5,False,0.6489,0.5938,est,0.5979
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,19.5,False,0.6016,0.5443,est,0.5486
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,20.5,True,0.5553,0.4968,book,0.5012
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,21.5,False,0.5071,0.4486,est,0.453
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,22.5,False,0.463,0.4053,est,0.4097
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,23.5,False,0.4199,0.364,est,0.3682
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,24.5,False,0.378,0.3246,est,0.3286
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,17.5,False,0.6957,0.6833,book,0.6842
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,18.5,False,0.6489,0.6347,est,0.6358
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,19.5,False,0.6016,0.5922,book,0.5929
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,20.5,False,0.5553,0.54,est,0.5411
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,21.5,True,0.5071,0.4917,book,0.4929
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,22.5,False,0.463,0.4476,est,0.4488
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,23.5,False,0.4199,0.4049,est,0.406
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,24.5,False,0.378,0.3487,book,0.3509
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,pts,25.5,False,0.3397,0.326,est,0.327
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,reb,2.5,False,0.9026,,model only,0.9026
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,reb,3.5,False,0.7947,,model only,0.7947
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,reb,4.5,False,0.6513,,model only,0.6513
@@ -7493,10 +7493,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ast,5.5,False,0.2993,,model only,0.2993
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ast,6.5,False,0.181,,model only,0.181
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ast,7.5,False,0.103,,model only,0.103
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,0.5,False,0.8486,0.8083,book,0.8113
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,1.5,True,0.5727,0.5402,book,0.5426
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,2.5,False,0.3117,0.2976,book,0.2987
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,3.5,False,0.1379,0.1374,book,0.1374
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,0.5,False,0.8486,0.8116,book,0.8144
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,1.5,True,0.5727,0.5468,book,0.5487
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,2.5,False,0.3117,0.3015,book,0.3023
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,3.5,False,0.1379,0.1433,book,0.1429
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,stl,0.5,False,0.6027,,model only,0.6027
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,stl,1.5,False,0.2459,,model only,0.2459
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,stl,2.5,False,0.0773,,model only,0.0773
@@ -7539,15 +7539,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ra,11.5,False,0.3368,,model only,0.3368
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ra,12.5,False,0.2512,,model only,0.2512
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ra,13.5,False,0.1837,,model only,0.1837
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,5.5,False,0.8172,0.7745,book,0.7777
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,6.5,False,0.7408,0.7567,est,0.7555
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,7.5,False,0.6578,0.6496,book,0.6502
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,8.5,False,0.5756,0.5961,est,0.5945
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,9.5,True,0.4925,0.5136,book,0.512
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,10.5,False,0.4139,0.4345,est,0.433
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,11.5,False,0.3453,0.3768,book,0.3744
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,12.5,False,0.2841,0.3015,est,0.3002
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,13.5,False,0.2291,0.2444,est,0.2432
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,5.5,False,0.8172,0.7734,book,0.7767
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,6.5,False,0.7408,0.7517,est,0.7509
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,7.5,False,0.6578,0.6434,book,0.6445
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,8.5,False,0.5756,0.5896,est,0.5886
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,9.5,True,0.4925,0.5069,book,0.5058
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,10.5,False,0.4139,0.428,est,0.4269
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,11.5,False,0.3453,0.3738,book,0.3717
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,12.5,False,0.2841,0.2959,est,0.295
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,pts,13.5,False,0.2291,0.2394,est,0.2387
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,reb,3.5,False,0.8002,,model only,0.8002
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,reb,4.5,False,0.6746,,model only,0.6746
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,reb,5.5,False,0.5377,,model only,0.5377
@@ -7560,10 +7560,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ast,2.5,False,0.1845,,model only,0.1845
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ast,3.5,False,0.0673,,model only,0.0673
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ast,4.5,False,0.0237,,model only,0.0237
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,0.5,False,0.678,0.6931,book,0.692
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,1.5,True,0.3057,0.3731,book,0.368
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,2.5,False,0.0962,0.1614,book,0.1565
-401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,3.5,False,0.0226,0.0697,book,0.0662
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,0.5,False,0.678,0.6918,book,0.6908
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,1.5,True,0.3057,0.3701,book,0.3653
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,2.5,False,0.0962,0.1645,book,0.1594
+401909943,HOU @ PHX,HOU,1631106,Tari Eason,fg3m,3.5,False,0.0226,0.0677,book,0.0643
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,stl,0.5,False,0.7066,,model only,0.7066
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,stl,1.5,False,0.375,,model only,0.375
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,stl,2.5,False,0.1571,,model only,0.1571
@@ -7605,15 +7605,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ra,8.5,False,0.3567,,model only,0.3567
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ra,9.5,False,0.2584,,model only,0.2584
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ra,10.5,False,0.1848,,model only,0.1848
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,16.5,False,0.7002,0.6785,est,0.6801
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,17.5,False,0.6522,0.6289,est,0.6307
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,18.5,False,0.6035,0.579,est,0.5808
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,19.5,False,0.5534,0.5282,est,0.5301
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,20.5,True,0.5077,0.4824,book,0.4843
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,21.5,False,0.4627,0.4377,est,0.4395
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,22.5,False,0.4148,0.3905,est,0.3923
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,23.5,False,0.3719,0.3486,est,0.3503
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,24.5,False,0.3338,0.3117,est,0.3133
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,15.5,False,0.7444,0.7204,est,0.7222
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,16.5,False,0.7002,0.6739,est,0.6759
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,17.5,False,0.6522,0.624,est,0.6261
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,18.5,False,0.6035,0.5739,est,0.5761
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,19.5,True,0.5534,0.523,book,0.5253
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,20.5,False,0.5077,0.4772,est,0.4795
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,21.5,False,0.4627,0.4325,est,0.4348
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,22.5,False,0.4148,0.3855,est,0.3877
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,23.5,False,0.3719,0.3438,est,0.3459
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,reb,7.5,False,0.733,,model only,0.733
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,reb,8.5,False,0.6287,,model only,0.6287
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,reb,9.5,False,0.5203,,model only,0.5203
@@ -7674,15 +7674,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,ra,17.5,False,0.4029,,model only,0.4029
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,ra,18.5,False,0.3336,,model only,0.3336
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,ra,19.5,False,0.2692,,model only,0.2692
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,4.5,False,0.8955,0.843,est,0.847
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,5.5,False,0.8378,0.705,book,0.715
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,6.5,False,0.7723,0.6802,est,0.6871
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,7.5,False,0.6954,0.5751,book,0.5841
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,8.5,True,0.6126,0.4979,book,0.5065
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,9.5,False,0.5346,0.4307,book,0.4385
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,10.5,False,0.4586,0.3469,est,0.3553
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,11.5,False,0.3886,0.3126,book,0.3183
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,12.5,False,0.3255,0.2323,est,0.2393
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,4.5,False,0.8955,0.8441,est,0.8479
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,5.5,False,0.8378,0.7099,book,0.7195
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,6.5,False,0.7723,0.682,est,0.6888
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,7.5,False,0.6954,0.5792,book,0.5879
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,8.5,True,0.6126,0.4999,book,0.5084
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,9.5,False,0.5346,0.4347,book,0.4422
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,10.5,False,0.4586,0.3487,est,0.357
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,11.5,False,0.3886,0.3157,book,0.3212
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,pts,12.5,False,0.3255,0.2337,est,0.2406
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,reb,0.5,False,0.8737,,model only,0.8737
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,reb,1.5,False,0.6398,,model only,0.6398
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,reb,2.5,False,0.3905,,model only,0.3905
@@ -7696,10 +7696,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,ast,4.5,False,0.2109,,model only,0.2109
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,ast,5.5,False,0.1118,,model only,0.1118
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,ast,6.5,False,0.055,,model only,0.055
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,0.5,False,0.8695,0.822,book,0.8256
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,1.5,True,0.5845,0.5839,book,0.5839
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,2.5,False,0.2983,0.354,book,0.3498
-401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,3.5,False,0.123,0.188,book,0.1831
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,0.5,False,0.8695,0.8284,book,0.8315
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,1.5,True,0.5845,0.5929,book,0.5923
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,2.5,False,0.2983,0.3567,book,0.3523
+401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,fg3m,3.5,False,0.123,0.1923,book,0.1871
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,stl,0.5,False,0.7203,,model only,0.7203
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,stl,1.5,False,0.3925,,model only,0.3925
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,stl,2.5,False,0.1675,,model only,0.1675
@@ -7741,15 +7741,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,ra,6.5,False,0.3056,,model only,0.3056
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,ra,7.5,False,0.2009,,model only,0.2009
 401909943,HOU @ PHX,HOU,1642263,Reed Sheppard,ra,8.5,False,0.1267,,model only,0.1267
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,2.5,False,0.9398,0.9128,est,0.9149
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,3.5,False,0.8855,0.8385,est,0.842
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,4.5,False,0.8096,0.7406,est,0.7457
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,5.5,False,0.7199,0.6112,book,0.6194
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,6.5,True,0.6268,0.53,book,0.5373
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,7.5,False,0.5312,0.4581,book,0.4636
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,8.5,False,0.4427,0.3478,est,0.3549
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,9.5,False,0.3611,0.3126,book,0.3162
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,10.5,False,0.2879,0.2135,est,0.2191
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,3.5,False,0.8855,0.8546,est,0.8569
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,4.5,False,0.8096,0.7637,est,0.7671
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,5.5,False,0.7199,0.6134,book,0.6214
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,6.5,False,0.6268,0.5608,est,0.5657
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,7.5,True,0.5312,0.4627,book,0.4678
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,8.5,False,0.4427,0.3764,est,0.3814
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,9.5,False,0.3611,0.3147,book,0.3182
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,10.5,False,0.2879,0.2351,est,0.2391
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,pts,11.5,False,0.2232,0.2054,book,0.2067
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,reb,0.5,False,0.9,,model only,0.9
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,reb,1.5,False,0.6974,,model only,0.6974
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,reb,2.5,False,0.4651,,model only,0.4651
@@ -7762,10 +7762,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ast,3.5,False,0.2644,,model only,0.2644
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ast,4.5,False,0.133,,model only,0.133
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ast,5.5,False,0.0644,,model only,0.0644
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,0.5,False,0.7273,0.7105,book,0.7118
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,1.5,True,0.3497,0.3977,book,0.3941
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,2.5,False,0.1208,0.1829,book,0.1782
-401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,3.5,False,0.0283,0.0792,book,0.0754
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,0.5,False,0.7273,0.7115,book,0.7127
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,1.5,True,0.3497,0.3985,book,0.3948
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,2.5,False,0.1208,0.1862,book,0.1813
+401909943,HOU @ PHX,HOU,203935,Marcus Smart,fg3m,3.5,False,0.0283,0.082,book,0.078
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,stl,0.5,False,0.7184,,model only,0.7184
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,stl,1.5,False,0.3932,,model only,0.3932
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,stl,2.5,False,0.1729,,model only,0.1729
@@ -7807,15 +7807,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ra,6.5,False,0.2817,,model only,0.2817
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ra,7.5,False,0.1876,,model only,0.1876
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ra,8.5,False,0.1151,,model only,0.1151
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,10.5,False,0.7793,0.7389,est,0.7419
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,11.5,False,0.7197,0.6514,book,0.6565
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,12.5,False,0.6578,0.6063,est,0.6102
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,13.5,False,0.593,0.5387,est,0.5428
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,14.5,True,0.5306,0.4753,book,0.4794
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,15.5,False,0.4695,0.415,est,0.419
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,16.5,False,0.4117,0.3592,est,0.3632
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,17.5,False,0.3602,0.3147,book,0.3181
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,18.5,False,0.3078,0.2627,est,0.2661
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,10.5,False,0.7793,0.7423,est,0.7451
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,11.5,False,0.7197,0.6556,book,0.6604
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,12.5,False,0.6578,0.6106,est,0.6142
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,13.5,False,0.593,0.5432,est,0.5469
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,14.5,True,0.5306,0.4798,book,0.4836
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,15.5,False,0.4695,0.4193,est,0.4231
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,16.5,False,0.4117,0.3634,est,0.367
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,17.5,False,0.3602,0.3157,book,0.319
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,18.5,False,0.3078,0.2662,est,0.2693
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,reb,4.5,False,0.808,,model only,0.808
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,reb,5.5,False,0.6871,,model only,0.6871
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,reb,6.5,False,0.561,,model only,0.561
@@ -7829,11 +7829,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,ast,3.5,False,0.1651,,model only,0.1651
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,ast,4.5,False,0.0702,,model only,0.0702
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,ast,5.5,False,0.0271,,model only,0.0271
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,0.5,False,0.9118,0.9092,est,0.9094
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,1.5,False,0.6919,0.6852,est,0.6857
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,2.5,True,0.4184,0.4108,book,0.4114
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,3.5,False,0.1981,0.1932,est,0.1935
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,4.5,False,0.0779,0.0757,est,0.0759
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,0.5,False,0.9118,0.8648,book,0.8683
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,1.5,False,0.6919,0.6597,book,0.6621
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,2.5,True,0.4184,0.421,book,0.4208
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,3.5,False,0.1981,0.2296,book,0.2272
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,fg3m,4.5,False,0.0779,0.1168,book,0.1139
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,stl,0.5,False,0.5473,,model only,0.5473
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,stl,1.5,False,0.1942,,model only,0.1942
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,stl,2.5,False,0.0525,,model only,0.0525
@@ -7876,15 +7876,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,ra,10.5,False,0.3421,,model only,0.3421
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,ra,11.5,False,0.2483,,model only,0.2483
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,ra,12.5,False,0.1711,,model only,0.1711
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,10.5,False,0.8355,0.7562,est,0.7622
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,11.5,False,0.7877,0.6938,est,0.7008
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,12.5,False,0.7329,0.6263,est,0.6343
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,13.5,False,0.6755,0.5597,est,0.5684
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,14.5,True,0.6169,0.4958,book,0.5049
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,15.5,False,0.557,0.4343,est,0.4435
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,16.5,False,0.4991,0.3783,est,0.3874
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,17.5,False,0.4422,0.3262,est,0.3349
-401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,18.5,False,0.3864,0.2777,est,0.2858
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,10.5,False,0.8355,0.7524,est,0.7586
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,11.5,False,0.7877,0.675,book,0.6835
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,12.5,False,0.7329,0.6214,est,0.6298
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,13.5,False,0.6755,0.5545,est,0.5636
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,14.5,True,0.6169,0.4906,book,0.5001
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,15.5,False,0.557,0.4292,est,0.4388
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,16.5,False,0.4991,0.3734,est,0.3828
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,17.5,False,0.4422,0.3212,book,0.3303
+401909943,HOU @ PHX,HOU,1641708,Amen Thompson,pts,18.5,False,0.3864,0.2735,est,0.282
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,reb,4.5,False,0.8102,,model only,0.8102
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,reb,5.5,False,0.6953,,model only,0.6953
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,reb,6.5,False,0.5628,,model only,0.5628
@@ -7943,15 +7943,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,ra,12.5,False,0.3805,,model only,0.3805
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,ra,13.5,False,0.2934,,model only,0.2934
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,ra,14.5,False,0.2185,,model only,0.2185
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,7.5,False,0.8555,0.7491,book,0.7571
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,8.5,False,0.7973,0.7385,est,0.7429
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,9.5,False,0.7322,0.6321,book,0.6396
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,10.5,False,0.6616,0.5839,est,0.5897
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,11.5,True,0.5897,0.5078,book,0.5139
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,12.5,False,0.5197,0.4371,est,0.4433
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,13.5,False,0.4511,0.3711,est,0.3771
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,14.5,False,0.3851,0.3362,book,0.3399
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,15.5,False,0.3225,0.2547,est,0.2598
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,7.5,False,0.8555,0.7323,book,0.7415
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,8.5,False,0.7973,0.7171,est,0.7232
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,9.5,False,0.7322,0.6101,book,0.6193
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,10.5,False,0.6616,0.5576,est,0.5654
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,11.5,True,0.5897,0.4809,book,0.4891
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,12.5,False,0.5197,0.4108,est,0.419
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,13.5,False,0.4511,0.3463,est,0.3542
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,14.5,False,0.3851,0.3105,book,0.3161
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,15.5,False,0.3225,0.2348,est,0.2414
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,reb,0.5,False,0.9669,,model only,0.9669
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,reb,1.5,False,0.8595,,model only,0.8595
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,reb,2.5,False,0.6828,,model only,0.6828
@@ -7966,11 +7966,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,ast,6.5,False,0.2479,,model only,0.2479
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,ast,7.5,False,0.1514,,model only,0.1514
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,ast,8.5,False,0.0874,,model only,0.0874
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,0.5,False,0.9326,0.8859,book,0.8894
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,1.5,False,0.7413,0.7162,book,0.7181
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,2.5,True,0.4646,0.4948,book,0.4925
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,3.5,False,0.2293,0.2514,est,0.2497
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,4.5,False,0.0943,0.1634,book,0.1582
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,0.5,False,0.9326,0.8802,book,0.8841
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,1.5,False,0.7413,0.6931,book,0.6967
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,2.5,True,0.4646,0.4673,book,0.4671
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,3.5,False,0.2293,0.2725,book,0.2693
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,4.5,False,0.0943,0.1483,book,0.1442
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,stl,0.5,False,0.7357,,model only,0.7357
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,stl,1.5,False,0.4066,,model only,0.4066
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,stl,2.5,False,0.1781,,model only,0.1781
