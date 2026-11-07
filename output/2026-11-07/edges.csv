@@ -15,8 +15,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909944,SAS @ POR,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,740.0,8.4,0.226,4.43,0.1113,0.1113,0.1147,,0.8981,0.1199,0.0068,0.0002,False,True,False,,,
 401909939,BKN @ ATL,moneyline,BKN,,,,draftkings,231.0,3.31,0.2333,4.29,0.2902,0.3033,-0.07,4.1,-0.2278,0.3033,0.004,0.0004,False,True,True,Noah Clowney,0.2091,0.2501
 401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,16.5,draftkings,1880.0,19.8,0.0936,10.68,0.0472,0.0472,0.0464,,0.854,0.0507,0.0035,0.0,False,False,False,Anthony Davis,0.0,0.0934
-401909943,HOU @ PHX,moneyline,PHX,,,,betfair_ex_au,223.25,3.23,0.3416,2.93,0.3006,0.3097,0.032,2.91,0.1044,0.3097,0.001,0.0001,False,True,True,,,
 401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,13.5,draftkings,620.0,7.2,0.2527,3.96,0.1298,0.1298,0.1229,,0.8196,0.139,0.001,0.0,False,True,False,Anthony Davis,0.0,0.2528
+401909943,HOU @ PHX,moneyline,PHX,,,,betfair_ex_au,223.25,3.23,0.3416,2.93,0.3006,0.3097,0.032,2.91,0.1044,0.3097,0.001,0.0001,False,True,True,,,
 401909939,BKN @ ATL,moneyline,BKN,,,,pointsbetau,230.0,3.3,0.2333,4.29,0.2918,0.3033,-0.07,3.85,-0.2301,0.3033,0.0009,0.0001,False,True,True,Noah Clowney,0.2091,0.2501
-401909944,SAS @ POR,prop_ast,over,Deni Avdija,1630166.0,11.5,draftkings,1800.0,19.0,0.0955,10.47,0.0492,0.0492,0.0463,,0.8152,0.0527,0.0006,0.0,False,True,False,,,
 401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,11.5,draftkings,2500.0,26.0,0.0696,14.37,0.0359,0.0359,0.0337,,0.8099,0.0385,0.0002,0.0,False,True,False,,,
