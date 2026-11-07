@@ -5743,15 +5743,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,GSW,1629646,Charles Bassey,ra,7.5,False,0.3163,,model only,0.3163
 401909942,ORL @ GSW,GSW,1629646,Charles Bassey,ra,8.5,False,0.2336,,model only,0.2336
 401909942,ORL @ GSW,GSW,1629646,Charles Bassey,ra,9.5,False,0.1719,,model only,0.1719
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,20.5,False,0.6381,,model only,0.6381
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,21.5,False,0.5985,,model only,0.5985
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,22.5,False,0.5595,,model only,0.5595
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,23.5,False,0.5191,,model only,0.5191
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,24.5,False,0.4808,,model only,0.4808
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,25.5,False,0.442,,model only,0.442
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,26.5,False,0.4032,,model only,0.4032
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,27.5,False,0.3695,,model only,0.3695
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,28.5,False,0.3369,,model only,0.3369
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,22.5,False,0.5595,0.6312,est,0.6258
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,23.5,False,0.5191,0.5926,est,0.5871
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,24.5,False,0.4808,0.5551,est,0.5495
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,25.5,False,0.442,0.5162,est,0.5107
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,26.5,True,0.4032,0.4765,book,0.471
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,27.5,False,0.3695,0.4412,est,0.4358
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,28.5,False,0.3369,0.4063,est,0.4011
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,29.5,False,0.3056,0.3723,est,0.3673
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,pts,30.5,False,0.2772,0.3407,est,0.3359
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,reb,0.5,False,0.9675,,model only,0.9675
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,reb,1.5,False,0.8585,,model only,0.8585
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,reb,2.5,False,0.6924,,model only,0.6924
@@ -5766,11 +5766,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,ast,5.5,False,0.3438,,model only,0.3438
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,ast,6.5,False,0.2223,,model only,0.2223
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,ast,7.5,False,0.133,,model only,0.133
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,2.5,False,0.7542,,model only,0.7542
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,3.5,False,0.5676,,model only,0.5676
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,4.5,False,0.3818,,model only,0.3818
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,5.5,False,0.234,,model only,0.234
-401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,6.5,False,0.1283,,model only,0.1283
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,2.5,False,0.7542,0.7631,book,0.7624
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,3.5,False,0.5676,0.5972,book,0.595
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,4.5,True,0.3818,0.4248,book,0.4216
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,5.5,False,0.234,0.2701,book,0.2674
+401909942,ORL @ GSW,GSW,201939,Stephen Curry,fg3m,6.5,False,0.1283,0.1623,book,0.1598
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,stl,0.5,False,0.6433,,model only,0.6433
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,stl,1.5,False,0.2989,,model only,0.2989
 401909942,ORL @ GSW,GSW,201939,Stephen Curry,stl,2.5,False,0.1088,,model only,0.1088
@@ -5937,15 +5937,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,GSW,904703396,Graham Ike,ra,3.5,False,0.3001,,model only,0.3001
 401909942,ORL @ GSW,GSW,904703396,Graham Ike,ra,4.5,False,0.1832,,model only,0.1832
 401909942,ORL @ GSW,GSW,904703396,Graham Ike,ra,5.5,False,0.1121,,model only,0.1121
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,14.5,False,0.7025,,model only,0.7025
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,15.5,False,0.6514,,model only,0.6514
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,16.5,False,0.5994,,model only,0.5994
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,17.5,False,0.5437,,model only,0.5437
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.4958,,model only,0.4958
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.4458,,model only,0.4458
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.3968,,model only,0.3968
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,21.5,False,0.3517,,model only,0.3517
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,22.5,False,0.3127,,model only,0.3127
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,13.5,False,0.7521,0.7243,est,0.7263
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,14.5,False,0.7025,0.666,book,0.6687
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,15.5,False,0.6514,0.618,est,0.6205
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,16.5,False,0.5994,0.5644,est,0.567
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,17.5,True,0.5437,0.5078,book,0.5105
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.4958,0.4599,est,0.4626
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.4458,0.3994,book,0.4029
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.3968,0.3629,est,0.3655
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,pts,21.5,False,0.3517,0.3196,est,0.322
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,reb,3.5,False,0.8561,,model only,0.8561
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,reb,4.5,False,0.7478,,model only,0.7478
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,reb,5.5,False,0.6124,,model only,0.6124
@@ -5960,10 +5960,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,ast,5.5,False,0.1967,,model only,0.1967
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,ast,6.5,False,0.1099,,model only,0.1099
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,ast,7.5,False,0.0557,,model only,0.0557
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,0.5,False,0.8009,,model only,0.8009
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,1.5,False,0.4903,,model only,0.4903
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,2.5,False,0.2383,,model only,0.2383
-401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,3.5,False,0.0922,,model only,0.0922
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,0.5,False,0.8009,0.822,book,0.8204
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,1.5,True,0.4903,0.5622,book,0.5568
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,2.5,False,0.2383,0.3147,book,0.309
+401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,3.5,False,0.0922,0.1522,book,0.1477
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,stl,0.5,False,0.6225,,model only,0.6225
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,stl,1.5,False,0.2727,,model only,0.2727
 401909942,ORL @ GSW,GSW,905175737,Yaxel Lendeborg,stl,2.5,False,0.0944,,model only,0.0944
@@ -6137,15 +6137,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,GSW,1627777,Georges Niang,ra,5.5,False,0.2767,,model only,0.2767
 401909942,ORL @ GSW,GSW,1627777,Georges Niang,ra,6.5,False,0.1756,,model only,0.1756
 401909942,ORL @ GSW,GSW,1627777,Georges Niang,ra,7.5,False,0.1086,,model only,0.1086
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,10.5,False,0.745,,model only,0.745
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,11.5,False,0.6863,,model only,0.6863
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.6235,,model only,0.6235
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.5607,,model only,0.5607
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,14.5,False,0.4957,,model only,0.4957
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.4352,,model only,0.4352
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,16.5,False,0.3766,,model only,0.3766
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.3252,,model only,0.3252
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.2757,,model only,0.2757
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,10.5,False,0.745,0.7541,est,0.7534
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,11.5,False,0.6863,0.6778,book,0.6784
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.6235,0.6349,est,0.634
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.5607,0.5727,est,0.5718
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,14.5,True,0.4957,0.5078,book,0.5069
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.4352,0.4472,est,0.4463
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,16.5,False,0.3766,0.3881,est,0.3872
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.3252,0.3398,book,0.3387
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.2757,0.2856,est,0.2848
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,reb,2.5,False,0.8586,,model only,0.8586
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,reb,3.5,False,0.7265,,model only,0.7265
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,reb,4.5,False,0.5725,,model only,0.5725
@@ -6160,11 +6160,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,ast,5.5,False,0.2229,,model only,0.2229
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,ast,6.5,False,0.1269,,model only,0.1269
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,ast,7.5,False,0.0686,,model only,0.0686
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,0.5,False,0.8771,,model only,0.8771
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,1.5,False,0.6241,,model only,0.6241
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,2.5,False,0.3513,,model only,0.3513
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,3.5,False,0.1569,,model only,0.1569
-401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,4.5,False,0.0571,,model only,0.0571
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,0.5,False,0.8771,0.8392,book,0.842
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,1.5,True,0.6241,0.602,book,0.6037
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,2.5,False,0.3513,0.3581,book,0.3576
+401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,fg3m,3.5,False,0.1569,0.1851,book,0.183
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,stl,0.5,False,0.6621,,model only,0.6621
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,stl,1.5,False,0.3154,,model only,0.3154
 401909942,ORL @ GSW,GSW,1641764,Brandin Podziemski,stl,2.5,False,0.1219,,model only,0.1219
@@ -6336,15 +6335,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,GSW,1630314,Brandon Williams,ra,6.5,False,0.3547,,model only,0.3547
 401909942,ORL @ GSW,GSW,1630314,Brandon Williams,ra,7.5,False,0.2495,,model only,0.2495
 401909942,ORL @ GSW,GSW,1630314,Brandon Williams,ra,8.5,False,0.1696,,model only,0.1696
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,15.5,False,0.7054,,model only,0.7054
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,16.5,False,0.6514,,model only,0.6514
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,17.5,False,0.6017,,model only,0.6017
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,18.5,False,0.5485,,model only,0.5485
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,19.5,False,0.4973,,model only,0.4973
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,20.5,False,0.4491,,model only,0.4491
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,21.5,False,0.4017,,model only,0.4017
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,22.5,False,0.3583,,model only,0.3583
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,23.5,False,0.319,,model only,0.319
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,15.5,False,0.7054,0.6935,est,0.6944
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,16.5,False,0.6514,0.6384,est,0.6393
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,17.5,False,0.6017,0.5881,est,0.5891
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,18.5,False,0.5485,0.5344,est,0.5355
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,19.5,True,0.4973,0.4831,book,0.4842
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,20.5,False,0.4491,0.4351,est,0.4361
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,21.5,False,0.4017,0.3881,est,0.3891
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,22.5,False,0.3583,0.3454,est,0.3463
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,pts,23.5,False,0.319,0.3067,est,0.3077
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,reb,1.5,False,0.909,,model only,0.909
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,reb,2.5,False,0.7777,,model only,0.7777
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,reb,3.5,False,0.599,,model only,0.599
@@ -6359,11 +6358,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,ast,5.5,False,0.201,,model only,0.201
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,ast,6.5,False,0.1086,,model only,0.1086
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,ast,7.5,False,0.055,,model only,0.055
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,1.5,False,0.7666,,model only,0.7666
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,2.5,False,0.5276,,model only,0.5276
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,3.5,False,0.3076,,model only,0.3076
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,4.5,False,0.1526,,model only,0.1526
-401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,5.5,False,0.0665,,model only,0.0665
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,0.5,False,0.9336,0.9034,book,0.9057
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,1.5,False,0.7666,0.7659,book,0.766
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,2.5,True,0.5276,0.563,book,0.5603
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,3.5,False,0.3076,0.3636,book,0.3594
+401909942,ORL @ GSW,ORL,1630217,Desmond Bane,fg3m,4.5,False,0.1526,0.2144,book,0.2098
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,stl,0.5,False,0.7482,,model only,0.7482
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,stl,1.5,False,0.4189,,model only,0.4189
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,stl,2.5,False,0.1892,,model only,0.1892
@@ -6405,15 +6404,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,ra,9.5,False,0.3031,,model only,0.3031
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,ra,10.5,False,0.2115,,model only,0.2115
 401909942,ORL @ GSW,ORL,1630217,Desmond Bane,ra,11.5,False,0.1412,,model only,0.1412
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,10.5,False,0.7233,,model only,0.7233
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,11.5,False,0.6599,,model only,0.6599
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,12.5,False,0.5946,,model only,0.5946
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,13.5,False,0.5331,,model only,0.5331
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,14.5,False,0.4726,,model only,0.4726
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,15.5,False,0.4122,,model only,0.4122
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,16.5,False,0.3572,,model only,0.3572
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,17.5,False,0.3075,,model only,0.3075
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,18.5,False,0.2629,,model only,0.2629
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,10.5,False,0.7233,0.7245,est,0.7244
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,11.5,False,0.6599,0.6479,book,0.6488
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,12.5,False,0.5946,0.5961,est,0.596
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,13.5,False,0.5331,0.5347,est,0.5345
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,14.5,True,0.4726,0.4742,book,0.4741
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,15.5,False,0.4122,0.4137,est,0.4136
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,16.5,False,0.3572,0.3587,est,0.3586
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,17.5,False,0.3075,0.3126,book,0.3122
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,pts,18.5,False,0.2629,0.2642,est,0.2641
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,reb,1.5,False,0.8875,,model only,0.8875
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,reb,2.5,False,0.741,,model only,0.741
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,reb,3.5,False,0.5579,,model only,0.5579
@@ -6428,10 +6427,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,ast,5.5,False,0.2944,,model only,0.2944
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,ast,6.5,False,0.1829,,model only,0.1829
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,ast,7.5,False,0.1043,,model only,0.1043
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,0.5,False,0.7855,,model only,0.7855
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,1.5,False,0.461,,model only,0.461
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,2.5,False,0.2058,,model only,0.2058
-401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,3.5,False,0.0721,,model only,0.0721
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,0.5,False,0.7855,0.764,book,0.7656
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,1.5,True,0.461,0.4742,book,0.4732
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,2.5,False,0.2058,0.2421,book,0.2394
+401909942,ORL @ GSW,ORL,1641710,Anthony Black,fg3m,3.5,False,0.0721,0.1087,book,0.106
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,stl,1.5,False,0.5042,,model only,0.5042
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,stl,2.5,False,0.2577,,model only,0.2577
 401909942,ORL @ GSW,ORL,1641710,Anthony Black,stl,3.5,False,0.1146,,model only,0.1146
@@ -6599,15 +6598,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1628975,Jevon Carter,ra,3.5,False,0.2937,,model only,0.2937
 401909942,ORL @ GSW,ORL,1628975,Jevon Carter,ra,4.5,False,0.1747,,model only,0.1747
 401909942,ORL @ GSW,ORL,1628975,Jevon Carter,ra,5.5,False,0.0959,,model only,0.0959
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,8.5,False,0.7529,,model only,0.7529
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,9.5,False,0.6804,,model only,0.6804
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,10.5,False,0.6044,,model only,0.6044
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,11.5,False,0.529,,model only,0.529
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,12.5,False,0.4536,,model only,0.4536
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,13.5,False,0.3838,,model only,0.3838
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,14.5,False,0.3215,,model only,0.3215
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,15.5,False,0.2635,,model only,0.2635
-401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,16.5,False,0.2172,,model only,0.2172
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,8.5,False,0.7529,0.7942,est,0.7911
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,9.5,False,0.6804,0.7294,est,0.7258
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,10.5,False,0.6044,0.6593,est,0.6552
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,11.5,False,0.529,0.5751,book,0.5716
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,12.5,True,0.4536,0.5126,book,0.5082
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,13.5,False,0.3838,0.441,est,0.4367
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,14.5,False,0.3215,0.391,book,0.3858
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,15.5,False,0.2635,0.3119,est,0.3083
+401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,pts,16.5,False,0.2172,0.2601,est,0.2569
 401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,reb,5.5,False,0.7882,,model only,0.7882
 401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,reb,6.5,False,0.681,,model only,0.681
 401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,reb,7.5,False,0.5604,,model only,0.5604
@@ -6666,15 +6665,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,ra,11.5,False,0.3645,,model only,0.3645
 401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,ra,12.5,False,0.278,,model only,0.278
 401909942,ORL @ GSW,ORL,1628976,Wendell Carter Jr.,ra,13.5,False,0.2044,,model only,0.2044
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,8.5,False,0.7473,,model only,0.7473
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,9.5,False,0.6737,,model only,0.6737
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,10.5,False,0.5962,,model only,0.5962
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,11.5,False,0.5259,,model only,0.5259
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,12.5,False,0.4552,,model only,0.4552
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,13.5,False,0.389,,model only,0.389
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,14.5,False,0.3304,,model only,0.3304
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,15.5,False,0.275,,model only,0.275
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,16.5,False,0.2277,,model only,0.2277
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,8.5,False,0.7473,0.7615,est,0.7604
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,9.5,False,0.6737,0.6902,est,0.689
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,10.5,False,0.5962,0.6144,est,0.6131
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,11.5,False,0.5259,0.5449,est,0.5434
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,12.5,True,0.4552,0.4742,book,0.4728
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,13.5,False,0.389,0.4073,est,0.4059
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,14.5,False,0.3304,0.3475,est,0.3462
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,15.5,False,0.275,0.2904,est,0.2893
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,pts,16.5,False,0.2277,0.2414,est,0.2404
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,reb,1.5,False,0.8781,,model only,0.8781
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,reb,2.5,False,0.7266,,model only,0.7266
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,reb,3.5,False,0.5448,,model only,0.5448
@@ -6688,11 +6687,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,ast,3.5,False,0.1769,,model only,0.1769
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,ast,4.5,False,0.0789,,model only,0.0789
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,ast,5.5,False,0.0308,,model only,0.0308
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,0.5,False,0.8699,,model only,0.8699
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,1.5,False,0.5966,,model only,0.5966
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,2.5,False,0.3071,,model only,0.3071
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,3.5,False,0.1237,,model only,0.1237
-401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,4.5,False,0.0414,,model only,0.0414
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,0.5,False,0.8699,0.8921,book,0.8904
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,1.5,False,0.5966,0.7305,book,0.7205
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,2.5,True,0.3071,0.5173,book,0.5015
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,3.5,False,0.1237,0.3179,book,0.3033
+401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,fg3m,4.5,False,0.0414,0.176,book,0.1659
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,stl,0.5,False,0.5766,,model only,0.5766
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,stl,1.5,False,0.2237,,model only,0.2237
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,stl,2.5,False,0.0652,,model only,0.0652
@@ -6734,15 +6733,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,ra,7.5,False,0.2904,,model only,0.2904
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,ra,8.5,False,0.1912,,model only,0.1912
 401909942,ORL @ GSW,ORL,1641783,Tristan da Silva,ra,9.5,False,0.1221,,model only,0.1221
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,4.5,False,0.8319,,model only,0.8319
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,5.5,False,0.7512,,model only,0.7512
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,6.5,False,0.6597,,model only,0.6597
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,7.5,False,0.5661,,model only,0.5661
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,8.5,False,0.4774,,model only,0.4774
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,9.5,False,0.3948,,model only,0.3948
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,10.5,False,0.3233,,model only,0.3233
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,11.5,False,0.2576,,model only,0.2576
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,12.5,False,0.2029,,model only,0.2029
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,4.5,False,0.8319,0.8235,est,0.8241
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,5.5,False,0.7512,0.74,est,0.7408
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,6.5,False,0.6597,0.6464,est,0.6474
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,7.5,False,0.5661,0.5515,est,0.5526
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,8.5,True,0.4774,0.4627,book,0.4638
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,9.5,False,0.3948,0.3808,est,0.3818
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,10.5,False,0.3233,0.3105,est,0.3115
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,11.5,False,0.2576,0.2465,est,0.2473
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,pts,12.5,False,0.2029,0.1935,est,0.1942
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,reb,0.5,False,0.8872,,model only,0.8872
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,reb,1.5,False,0.665,,model only,0.665
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,reb,2.5,False,0.4242,,model only,0.4242
@@ -6756,10 +6755,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,ast,4.5,False,0.1674,,model only,0.1674
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,ast,5.5,False,0.0847,,model only,0.0847
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,ast,6.5,False,0.0369,,model only,0.0369
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,0.5,False,0.6284,,model only,0.6284
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,1.5,False,0.2443,,model only,0.2443
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,2.5,False,0.0648,,model only,0.0648
-401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,3.5,False,0.0126,,model only,0.0126
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,0.5,False,0.6284,0.6676,book,0.6647
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,1.5,True,0.2443,0.3405,book,0.3333
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,2.5,False,0.0648,0.1425,book,0.1367
+401909942,ORL @ GSW,ORL,1642859,Jase Richardson,fg3m,3.5,False,0.0126,0.0607,book,0.0571
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,stl,0.5,False,0.6227,,model only,0.6227
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,stl,1.5,False,0.2811,,model only,0.2811
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,stl,2.5,False,0.099,,model only,0.099
@@ -6801,15 +6800,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,ra,6.5,False,0.2824,,model only,0.2824
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,ra,7.5,False,0.1854,,model only,0.1854
 401909942,ORL @ GSW,ORL,1642859,Jase Richardson,ra,8.5,False,0.1147,,model only,0.1147
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,17.5,False,0.6508,,model only,0.6508
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,18.5,False,0.6038,,model only,0.6038
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,19.5,False,0.5531,,model only,0.5531
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,20.5,False,0.5053,,model only,0.5053
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,21.5,False,0.4572,,model only,0.4572
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,22.5,False,0.4116,,model only,0.4116
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,23.5,False,0.368,,model only,0.368
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,24.5,False,0.3304,,model only,0.3304
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,25.5,False,0.2935,,model only,0.2935
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,17.5,False,0.6508,0.6816,est,0.6793
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,18.5,False,0.6038,0.6364,est,0.634
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,19.5,False,0.5531,0.5872,book,0.5846
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,20.5,False,0.5053,0.5398,est,0.5372
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,21.5,True,0.4572,0.4917,book,0.4891
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,22.5,False,0.4116,0.4455,est,0.443
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,23.5,False,0.368,0.4007,est,0.3983
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,24.5,False,0.3304,0.3617,est,0.3594
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pts,25.5,False,0.2935,0.323,est,0.3208
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,reb,3.5,False,0.8022,,model only,0.8022
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,reb,4.5,False,0.6614,,model only,0.6614
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,reb,5.5,False,0.5108,,model only,0.5108
@@ -6824,10 +6823,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,ast,8.5,False,0.2923,,model only,0.2923
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,ast,9.5,False,0.2005,,model only,0.2005
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,ast,10.5,False,0.1342,,model only,0.1342
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,0.5,False,0.7604,,model only,0.7604
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,1.5,False,0.4163,,model only,0.4163
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,2.5,False,0.1764,,model only,0.1764
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,3.5,False,0.0621,,model only,0.0621
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,0.5,False,0.7604,0.7066,book,0.7106
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,1.5,True,0.4163,0.3838,book,0.3862
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,2.5,False,0.1764,0.1576,est,0.159
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,3.5,False,0.0621,0.073,book,0.0722
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,0.5,False,0.743,,model only,0.743
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,1.5,False,0.4166,,model only,0.4166
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,2.5,False,0.1834,,model only,0.1834
@@ -7493,10 +7492,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ast,5.5,False,0.2993,,model only,0.2993
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ast,6.5,False,0.181,,model only,0.181
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,ast,7.5,False,0.103,,model only,0.103
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,0.5,False,0.8486,0.8116,book,0.8144
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,1.5,True,0.5727,0.5468,book,0.5487
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,2.5,False,0.3117,0.3015,book,0.3023
-401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,3.5,False,0.1379,0.1433,book,0.1429
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,0.5,False,0.8486,0.8132,book,0.8159
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,1.5,True,0.5727,0.5476,book,0.5495
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,2.5,False,0.3117,0.3064,book,0.3068
+401909943,HOU @ PHX,HOU,201142,Kevin Durant,fg3m,3.5,False,0.1379,0.1472,book,0.1465
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,stl,0.5,False,0.6027,,model only,0.6027
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,stl,1.5,False,0.2459,,model only,0.2459
 401909943,HOU @ PHX,HOU,201142,Kevin Durant,stl,2.5,False,0.0773,,model only,0.0773
@@ -7605,15 +7604,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ra,8.5,False,0.3567,,model only,0.3567
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ra,9.5,False,0.2584,,model only,0.2584
 401909943,HOU @ PHX,HOU,1631106,Tari Eason,ra,10.5,False,0.1848,,model only,0.1848
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,15.5,False,0.7444,0.7204,est,0.7222
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,16.5,False,0.7002,0.6739,est,0.6759
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,17.5,False,0.6522,0.624,est,0.6261
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,18.5,False,0.6035,0.5739,est,0.5761
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,19.5,True,0.5534,0.523,book,0.5253
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,20.5,False,0.5077,0.4772,est,0.4795
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,21.5,False,0.4627,0.4325,est,0.4348
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,22.5,False,0.4148,0.3855,est,0.3877
-401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,23.5,False,0.3719,0.3438,est,0.3459
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,16.5,False,0.7002,0.673,est,0.675
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,17.5,False,0.6522,0.623,est,0.6252
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,18.5,False,0.6035,0.5728,est,0.5751
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,19.5,False,0.5534,0.5219,est,0.5243
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,20.5,True,0.5077,0.4761,book,0.4785
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,21.5,False,0.4627,0.4315,est,0.4338
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,22.5,False,0.4148,0.3845,est,0.3868
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,23.5,False,0.3719,0.3428,est,0.345
+401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,pts,24.5,False,0.3338,0.3063,est,0.3084
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,reb,7.5,False,0.733,,model only,0.733
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,reb,8.5,False,0.6287,,model only,0.6287
 401909943,HOU @ PHX,HOU,1630578,Alperen Sengun,reb,9.5,False,0.5203,,model only,0.5203
@@ -7808,13 +7807,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ra,7.5,False,0.1876,,model only,0.1876
 401909943,HOU @ PHX,HOU,203935,Marcus Smart,ra,8.5,False,0.1151,,model only,0.1151
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,10.5,False,0.7793,0.7423,est,0.7451
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,11.5,False,0.7197,0.6556,book,0.6604
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,11.5,False,0.7197,0.6597,book,0.6642
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,12.5,False,0.6578,0.6106,est,0.6142
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,13.5,False,0.593,0.5432,est,0.5469
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,14.5,True,0.5306,0.4798,book,0.4836
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,15.5,False,0.4695,0.4193,est,0.4231
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,16.5,False,0.4117,0.3634,est,0.367
-401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,17.5,False,0.3602,0.3157,book,0.319
+401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,17.5,False,0.3602,0.3234,book,0.3262
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,pts,18.5,False,0.3078,0.2662,est,0.2693
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,reb,4.5,False,0.808,,model only,0.808
 401909943,HOU @ PHX,HOU,1631095,Jabari Smith Jr.,reb,5.5,False,0.6871,,model only,0.6871
@@ -7943,15 +7942,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,ra,12.5,False,0.3805,,model only,0.3805
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,ra,13.5,False,0.2934,,model only,0.2934
 401909943,HOU @ PHX,HOU,1641708,Amen Thompson,ra,14.5,False,0.2185,,model only,0.2185
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,7.5,False,0.8555,0.7323,book,0.7415
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,8.5,False,0.7973,0.7171,est,0.7232
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,9.5,False,0.7322,0.6101,book,0.6193
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,10.5,False,0.6616,0.5576,est,0.5654
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,11.5,True,0.5897,0.4809,book,0.4891
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,12.5,False,0.5197,0.4108,est,0.419
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,13.5,False,0.4511,0.3463,est,0.3542
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,14.5,False,0.3851,0.3105,book,0.3161
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,15.5,False,0.3225,0.2348,est,0.2414
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,7.5,False,0.8555,0.7222,book,0.7322
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,8.5,False,0.7973,0.7059,est,0.7128
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,9.5,False,0.7322,0.596,book,0.6062
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,10.5,False,0.6616,0.5441,est,0.5529
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,11.5,True,0.5897,0.4673,book,0.4765
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,12.5,False,0.5197,0.3977,est,0.4068
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,13.5,False,0.4511,0.3341,est,0.3428
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,14.5,False,0.3851,0.2976,book,0.3042
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,pts,15.5,False,0.3225,0.2251,est,0.2324
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,reb,0.5,False,0.9669,,model only,0.9669
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,reb,1.5,False,0.8595,,model only,0.8595
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,reb,2.5,False,0.6828,,model only,0.6828
@@ -7966,11 +7965,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,ast,6.5,False,0.2479,,model only,0.2479
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,ast,7.5,False,0.1514,,model only,0.1514
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,ast,8.5,False,0.0874,,model only,0.0874
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,0.5,False,0.9326,0.8802,book,0.8841
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,1.5,False,0.7413,0.6931,book,0.6967
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,2.5,True,0.4646,0.4673,book,0.4671
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,3.5,False,0.2293,0.2725,book,0.2693
-401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,4.5,False,0.0943,0.1483,book,0.1442
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,0.5,False,0.9326,0.8754,book,0.8797
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,1.5,False,0.7413,0.6792,book,0.6839
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,2.5,True,0.4646,0.4493,book,0.4504
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,3.5,False,0.2293,0.2575,book,0.2554
+401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,fg3m,4.5,False,0.0943,0.1383,book,0.135
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,stl,0.5,False,0.7357,,model only,0.7357
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,stl,1.5,False,0.4066,,model only,0.4066
 401909943,HOU @ PHX,HOU,1627832,Fred VanVleet,stl,2.5,False,0.1781,,model only,0.1781
