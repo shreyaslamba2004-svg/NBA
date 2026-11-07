@@ -1,35 +1,30 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 PHI @ CLE,PHI -2.5 + VJ Edgecombe 10+ pa,2,0.3682,0.4135,2.42,2.54,2.32,-0.0387,1.034,2.10-2.50
-PHI @ CLE,Evan Mobley 18+ pts + Peyton Watson 10+ pr,2,0.4027,0.419,2.39,2.51,2.29,-0.0396,1.006,2.10-2.50
+PHI @ CLE,Evan Mobley 18+ pts + Peyton Watson 10+ pr,2,0.4027,0.4165,2.4,2.52,2.31,-0.039,1.006,2.10-2.50
 PHI @ CLE,Evan Mobley 18+ pts + Jaylen Brown 1+ 3pm,2,0.3759,0.392,2.55,2.68,2.44,-0.042,1.004,2.10-2.50
 PHI @ CLE,PHI win + VJ Edgecombe 10+ pa,2,0.4195,0.4675,2.14,2.25,2.02,-0.0541,1.032,1.85-2.10
 PHI @ CLE,PHI win + VJ Edgecombe 4+ reb,2,0.3938,0.4396,2.27,2.39,2.1,-0.078,1.006,1.85-2.10
-PHI @ CLE,PHI win + Peyton Watson 10+ pr,2,0.4232,0.4534,2.21,2.32,1.99,-0.0956,0.983,1.85-2.10
+PHI @ CLE,PHI win + Peyton Watson 10+ pr,2,0.4232,0.4506,2.22,2.33,2.01,-0.095,0.983,1.85-2.10
 PHI @ CLE,Jaylen Brown 1+ 3pm + VJ Edgecombe 1+ 3pm,2,0.6968,0.5664,1.77,1.85,1.57,-0.1105,1.0,1.50-1.65
 PHI @ CLE,Jaylen Brown 1+ 3pm + VJ Edgecombe 4+ reb,2,0.6906,0.575,1.74,1.83,1.55,-0.1115,1.002,1.50-1.65
-UTA @ DAL,DAL win + Kyrie Irving 4+ reb,2,0.5058,0.3833,2.61,2.74,2.41,-0.0774,1.001,2.10-2.50
-UTA @ DAL,DAL win + Daniel Gafford reb under 7.5,2,0.497,0.3692,2.71,2.84,2.49,-0.0793,1.0,2.10-2.50
+UTA @ DAL,Max Christie pts under 7.5 + Kyrie Irving 2+ 3pm,2,0.4444,0.3813,2.62,2.75,2.46,-0.0619,0.995,2.10-2.50
+UTA @ DAL,Max Christie 8+ pts + Kyrie Irving 2+ 3pm,2,0.3855,0.391,2.56,2.69,2.38,-0.0704,1.005,2.10-2.50
+UTA @ DAL,Keyonte George pts under 21.5 + Kyrie Irving 2+ 3pm,2,0.3799,0.3879,2.58,2.71,2.38,-0.0776,0.994,2.10-2.50
 UTA @ DAL,DAL win + Kyrie Irving 2+ 3pm,2,0.6464,0.5385,1.86,1.95,1.71,-0.0818,1.008,1.65-1.85
-UTA @ DAL,DAL -6.5 + Kyrie Irving 2+ 3pm,2,0.5175,0.3938,2.54,2.67,2.32,-0.0884,1.011,2.10-2.50
-OKC @ MEM,game over 223.5 + Jared McCain 10+ pa,2,0.5311,0.4088,2.45,2.57,2.28,-0.0686,1.031,2.10-2.50
+OKC @ MEM,Jared McCain 13+ pts + Shai Gilgeous-Alexander 4+ ast,2,0.4907,0.4055,2.47,2.59,2.3,-0.067,1.009,2.10-2.50
+OKC @ MEM,Alex Caruso 9+ pts + Jared McCain 10+ pa,2,0.4276,0.3965,2.52,2.65,2.35,-0.0679,1.012,2.10-2.50
+OKC @ MEM,Jaylen Wells pts under 10.5 + Jared McCain 10+ pa,2,0.5129,0.3961,2.52,2.65,2.35,-0.0688,0.995,2.10-2.50
 OKC @ MEM,OKC win + Jared McCain 10+ pa,2,0.5282,0.4883,2.05,2.15,1.91,-0.0695,1.024,1.85-2.10
-OKC @ MEM,OKC -4.5 + Jared McCain 10+ pa,2,0.4263,0.3932,2.54,2.67,2.35,-0.0757,1.03,2.10-2.50
 OKC @ MEM,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5352,0.4948,2.02,2.12,1.87,-0.0772,1.015,1.85-2.10
-OKC @ MEM,game over 223.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5371,0.4135,2.42,2.54,2.23,-0.0779,1.02,2.10-2.50
-OKC @ MEM,Cedric Coward ra under 10.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5674,0.4323,2.31,2.43,2.07,-0.1057,0.997,1.85-2.10
 TOR @ MIL,TOR win + Ja'Kobe Walter 10+ pts,2,0.5192,0.4954,2.02,2.12,1.96,-0.028,1.026,1.85-2.10
 TOR @ MIL,TOR win + Jamison Battle 10+ pr,2,0.5365,0.5066,1.97,2.07,1.9,-0.036,1.017,1.85-2.10
-TOR @ MIL,TOR win + Brayden Burries stl under 1.5,2,0.5116,0.4207,2.38,2.5,2.29,-0.0385,1.001,2.10-2.50
 TOR @ MIL,TOR win + Jamison Battle 10+ pra,2,0.5603,0.5328,1.88,1.97,1.8,-0.0404,1.013,1.65-1.85
 TOR @ MIL,TOR win + Jamison Battle 1+ 3pm,2,0.558,0.5439,1.84,1.93,1.75,-0.0471,1.008,1.65-1.85
 TOR @ MIL,game over 229.5 + Jamison Battle 10+ pr,2,0.416,0.4147,2.41,2.53,2.3,-0.0474,1.035,2.10-2.50
 TOR @ MIL,game over 229.5 + Ja'Kobe Walter 10+ pts,2,0.3992,0.4021,2.49,2.61,2.37,-0.0475,1.036,2.10-2.50
 TOR @ MIL,TOR win + Jamison Battle 5+ pa,2,0.5854,0.5687,1.76,1.85,1.67,-0.0485,1.006,1.65-1.85
-TOR @ MIL,game over 229.5 + Jamison Battle 5+ pa,2,0.448,0.4595,2.18,2.29,2.02,-0.0719,1.011,1.85-2.10
-TOR @ MIL,Brayden Burries stl under 1.5 + Jamison Battle 10+ pra,2,0.7982,0.5721,1.75,1.84,1.57,-0.0996,1.0,1.50-1.65
-TOR @ MIL,Brayden Burries stl under 1.5 + AJ Green 5+ pra,2,0.7775,0.5584,1.79,1.88,1.61,-0.0997,1.0,1.50-1.65
-TOR @ MIL,Brayden Burries stl under 1.5 + Jamison Battle 1+ 3pm,2,0.7986,0.5868,1.7,1.79,1.53,-0.1017,1.0,1.50-1.65
-MIN @ NOP,MIN win + Trey Lyles 3pm under 1.5,2,0.3513,0.3781,2.64,2.78,2.36,-0.1068,0.971,2.10-2.50
+TOR @ MIL,Brayden Burries pts under 10.5 + Jamison Battle 10+ pra,2,0.6501,0.4319,2.32,2.43,2.19,-0.052,0.998,2.10-2.50
+TOR @ MIL,Brayden Burries pts under 10.5 + Jamison Battle 5+ pa,2,0.684,0.4643,2.15,2.26,2.04,-0.0533,0.999,1.85-2.10
 POR @ LAL,Matisse Thybulle 3pm under 1.5 + Damian Lillard 4+ ast,2,0.6219,0.3693,2.71,2.84,2.48,-0.084,0.998,2.10-2.50
 POR @ LAL,Ziaire Williams 3pm under 1.5 + Damian Lillard 4+ ast,2,0.5924,0.3867,2.59,2.72,2.35,-0.0894,1.003,2.10-2.50
 POR @ LAL,LAL win + Damian Lillard 4+ ast,2,0.5046,0.3681,2.72,2.85,2.47,-0.0919,0.982,2.10-2.50
