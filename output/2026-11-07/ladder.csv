@@ -6861,9 +6861,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,1.5,True,0.4758,0.4615,book,0.4626
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,2.5,False,0.2303,0.2236,book,0.2241
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,fg3m,3.5,False,0.0867,0.0954,book,0.0947
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,0.5,False,0.7673,0.7088,book,0.7132
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,1.5,False,0.4364,0.383,book,0.387
-401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,2.5,False,0.2024,0.1702,book,0.1726
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,0.5,False,0.7673,0.6937,book,0.6992
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,1.5,True,0.4364,0.3651,book,0.3704
+401909942,ORL @ GSW,ORL,1630532,Franz Wagner,stl,2.5,False,0.2024,0.16,book,0.1632
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,blk,0.5,False,0.281,,model only,0.281
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,blk,1.5,False,0.0434,,model only,0.0434
 401909942,ORL @ GSW,ORL,1630532,Franz Wagner,pra,33.5,False,0.6066,0.6626,est,0.6584

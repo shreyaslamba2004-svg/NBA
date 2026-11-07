@@ -1,6 +1,6 @@
 # Line ladders · Sat 07 Nov 2026 (US date)
 
-Updated **Sun 08 Nov, 08:24 AM** Sydney time. Back to [TODAY.md](TODAY.md).
+Updated **Sun 08 Nov, 08:29 AM** Sydney time. Back to [TODAY.md](TODAY.md).
 
 For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: *book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for a player are left out. Use the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake.
 
@@ -3685,9 +3685,9 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | 3PM | 1.5 ★ | 46% | 2.16 | 54% | 1.86 | book |
 | 3PM | 2.5 | 22% | 4.46 | 78% | 1.29 | book |
 | 3PM | 3.5 | 9% | 10.56 | 91% | 1.10 | book |
-| STL | 0.5 | 71% | 1.40 | 29% | 3.49 | book |
-| STL | 1.5 | 39% | 2.58 | 61% | 1.63 | book |
-| STL | 2.5 | 17% | 5.79 | 83% | 1.21 | book |
+| STL | 0.5 | 70% | 1.43 | 30% | 3.32 | book |
+| STL | 1.5 ★ | 37% | 2.70 | 63% | 1.59 | book |
+| STL | 2.5 | 16% | 6.13 | 84% | 1.20 | book |
 | PRA | 33.5 | 66% | 1.52 | 34% | 2.93 | est |
 | PRA | 34.5 | 63% | 1.60 | 37% | 2.67 | est |
 | PRA | 35.5 | 59% | 1.70 | 41% | 2.43 | est |

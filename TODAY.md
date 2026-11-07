@@ -1,6 +1,6 @@
 # NBA model · Sat 07 Nov 2026 (US date)
 
-Updated **Sun 08 Nov, 08:24 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 08 Nov, 08:29 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -37,7 +37,7 @@ Game lines below assume every questionable player sits; each game's section show
 | DEN @ IND | Sun 08 Nov 09:00 | 121.5–115.7 | DEN 66% | 1.51 / 2.98 | IND +5.5 | 237.5 | IND +7.5 covers 55%; o229.5 66% |
 | BKN @ ATL | Sun 08 Nov 11:30 | 105.8–117.2 | BKN 21% | 4.78 / 1.26 | ATL -11.5 | 222.5 | ATL -6.5 covers 64%; o226.5 42% |
 | NYK @ CLE | Sun 08 Nov 12:00 | 115.5–107.7 | NYK 71% | 1.41 / 3.44 | CLE +7.5 | 222.5 | CLE +5.5 covers 43%; o223.5 49% |
-| WAS @ OKC | Sun 08 Nov 12:00 | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -11.5 covers 41%; o222.5 66% |
+| WAS @ OKC | Sun 08 Nov 12:00 | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -11.5 covers 41%; o223.5 64% |
 | ORL @ GSW | Sun 08 Nov 12:30 | 108.3–115.5 | ORL 30% | 3.33 / 1.43 | GSW -7.5 | 223.5 | GSW -7.5 covers 50%; o219.5 59% |
 | HOU @ PHX | Sun 08 Nov 13:00 | 115.9–109.8 | HOU 67% | 1.50 / 2.99 | PHX +6.5 | 225.5 | PHX +6.5 covers 51%; o224.5 52% |
 | SAS @ POR | Sun 08 Nov 14:00 | 114.3–108.7 | SAS 65% | 1.54 / 2.87 | POR +5.5 | 222.5 | POR +5.5 covers 49%; o229.5 36% |
@@ -256,9 +256,9 @@ Out: Chet Holmgren (OKC), Cason Wallace (OKC), Jalen Williams (OKC), Jaylin Will
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -11.5 covers 41%; o222.5 66% |
-| Expected (weighted by chance each plays) | 110.1–118.6 | WAS 27% | 3.67 / 1.37 | OKC -8.5 | 228.5 | OKC -11.5 covers 41%; o222.5 63% |
-| if Anthony Davis plays | 109.7–118.1 | WAS 28% | 3.63 / 1.38 | OKC -8.5 | 227.5 | OKC -11.5 covers 41%; o222.5 61% |
+| Confirmed players only | 110.9–119.2 | WAS 28% | 3.59 / 1.39 | OKC -8.5 | 229.5 | OKC -11.5 covers 41%; o223.5 64% |
+| Expected (weighted by chance each plays) | 110.1–118.6 | WAS 27% | 3.67 / 1.37 | OKC -8.5 | 228.5 | OKC -11.5 covers 41%; o223.5 61% |
+| if Anthony Davis plays | 109.7–118.1 | WAS 28% | 3.63 / 1.38 | OKC -8.5 | 227.5 | OKC -11.5 covers 41%; o223.5 59% |
 
 **Questionable players: chance to play, and their projection if they do**
 
