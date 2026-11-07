@@ -1,16 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-POR @ LAL,Matisse Thybulle 3pm under 1.5 + Damian Lillard 4+ ast,2,0.6219,0.3693,2.71,2.84,2.48,-0.084,0.998,2.10-2.50
-POR @ LAL,Ziaire Williams 3pm under 1.5 + Damian Lillard 4+ ast,2,0.5924,0.3867,2.59,2.72,2.35,-0.0894,1.003,2.10-2.50
-POR @ LAL,LAL win + Damian Lillard 4+ ast,2,0.5046,0.3681,2.72,2.85,2.47,-0.0919,0.982,2.10-2.50
-SAS @ SAC,game over 231.5 + Domantas Sabonis 15+ pa,2,0.3934,0.3962,2.52,2.65,2.4,-0.0506,1.054,2.10-2.50
-SAS @ SAC,game over 231.5 + Domantas Sabonis 10+ pts,2,0.3919,0.3965,2.52,2.65,2.39,-0.0534,1.051,2.10-2.50
-SAS @ SAC,game over 231.5 + Domantas Sabonis 25+ pra,2,0.4116,0.4073,2.46,2.58,2.32,-0.0537,1.049,2.10-2.50
-SAS @ SAC,SAS win + Darius Acuff Jr. 6+ ast,2,0.635,0.4687,2.13,2.24,1.99,-0.0694,0.984,1.85-2.10
-SAS @ SAC,SAS win + Precious Achiuwa 15+ pr,2,0.6221,0.4722,2.12,2.22,1.96,-0.0725,0.985,1.85-2.10
-SAS @ SAC,SAS win + Precious Achiuwa 15+ pra,2,0.6728,0.5366,1.86,1.96,1.72,-0.0747,0.988,1.65-1.85
-SAS @ SAC,SAS win + Zach LaVine 3+ reb,2,0.5578,0.5013,1.99,2.09,1.85,-0.0751,0.996,1.65-1.85
-SAS @ SAC,SAS win + Precious Achiuwa 10+ pa,2,0.6132,0.4647,2.15,2.26,1.99,-0.0774,0.979,1.85-2.10
-SAS @ SAC,SAS win + Darius Acuff Jr. 25+ pra + Precious Achiuwa 4+ reb,3,0.6677,0.5699,1.75,1.84,1.51,-0.1399,0.991,1.50-1.65
-SAS @ SAC,SAS win + Domantas Sabonis 20+ pr + Precious Achiuwa 4+ reb,3,0.6559,0.561,1.78,1.87,1.53,-0.1405,0.991,1.50-1.65
-SAS @ SAC,SAS win + Domantas Sabonis 25+ pra + Darius Acuff Jr. 25+ pra,3,0.6455,0.5418,1.85,1.94,1.58,-0.1413,0.988,1.50-1.65
-SAS @ SAC,Darius Acuff Jr. 4+ ast + Precious Achiuwa 10+ pr + Domantas Sabonis 15+ pa,3,0.7591,0.4786,2.09,2.19,1.79,-0.1443,1.006,1.65-1.85
+SAS @ SAC,Victor Wembanyama 29+ pts + SAS win,2,0.374,0.4472,2.24,2.35,2.24,0.0039,1.045,2.10-2.50
+SAS @ SAC,Julian Champagnie 10+ pts + SAS win,2,0.3641,0.4451,2.25,2.36,2.24,-0.0009,1.031,2.10-2.50
+SAS @ SAC,Darius Acuff Jr. pts under 23.5 + SAS win,2,0.3929,0.4529,2.21,2.32,2.19,-0.008,1.043,2.10-2.50
+SAS @ SAC,Malik Monk pts under 12.5 + SAS win,2,0.5157,0.4736,2.11,2.22,2.08,-0.0143,1.025,1.85-2.10
+SAS @ SAC,Domantas Sabonis 14+ pts + Precious Achiuwa 5+ pa,2,0.5982,0.4452,2.25,2.36,2.1,-0.0665,1.003,1.85-2.10
+SAS @ SAC,Darius Acuff Jr. 6+ ast + SAS win,2,0.635,0.4695,2.13,2.24,1.99,-0.068,0.984,1.85-2.10
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Precious Achiuwa 10+ pr,3,0.7259,0.5592,1.79,1.88,1.56,-0.1298,0.993,1.50-1.65
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Precious Achiuwa 4+ reb,3,0.6992,0.5633,1.78,1.86,1.54,-0.1302,0.997,1.50-1.65
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Domantas Sabonis 25+ pra,3,0.6719,0.5324,1.88,1.97,1.62,-0.1367,0.988,1.50-1.65
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Domantas Sabonis 10+ pts,3,0.637,0.5159,1.94,2.04,1.67,-0.1402,0.986,1.65-1.85
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Domantas Sabonis 15+ pa,3,0.636,0.5128,1.95,2.05,1.67,-0.1424,0.983,1.65-1.85
+SAS @ SAC,Darius Acuff Jr. 4+ ast + Precious Achiuwa 10+ pr + Domantas Sabonis 15+ pa,3,0.7591,0.4797,2.08,2.19,1.78,-0.1445,1.006,1.65-1.85
