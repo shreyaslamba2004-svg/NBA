@@ -1,5 +1,7 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4505,0.3997,2.5,2.63,2.33,-0.0674,1.022,2.10-2.50
-DEN @ IND,DEN win + Aaron Gordon 3pm under 1.5,2,0.4122,0.3617,2.76,2.9,2.46,-0.1091,0.978,2.10-2.50
+DEN @ IND,DEN win + Jamal Murray 22+ pts,2,0.4455,0.3822,2.62,2.75,2.49,-0.0486,1.04,2.10-2.50
+DEN @ IND,DEN win + Jamal Murray 30+ pra,2,0.5108,0.4733,2.11,2.22,1.98,-0.0651,1.032,1.85-2.10
+DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4505,0.3991,2.51,2.63,2.33,-0.0686,1.022,2.10-2.50
+DEN @ IND,DEN win + Aaron Gordon 3pm under 1.5,2,0.4122,0.3661,2.73,2.87,2.43,-0.1105,0.978,2.10-2.50
 WAS @ OKC,OKC win + game over 220.5,2,0.4738,0.3989,2.51,2.63,2.3,-0.0818,1.001,2.10-2.50
 WAS @ OKC,OKC win + game under 220.5,2,0.2141,0.3975,2.52,2.64,2.3,-0.085,0.998,2.10-2.50
