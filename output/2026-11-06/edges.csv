@@ -11,13 +11,12 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909295,SAS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,29.5,draftkings,1640.0,17.4,0.1165,8.58,0.0537,0.0537,0.0628,,1.0276,0.0584,0.0166,0.0003,False,True,False,De'Andre Hunter,0.1544,0.0833
 401909295,SAS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,8.5,draftkings,439.0,5.39,0.3736,2.68,0.1734,0.1734,0.2003,,1.0139,0.1884,0.0155,0.0009,True,False,False,De'Andre Hunter,0.4345,0.322
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,790.0,8.9,0.2258,4.43,0.105,0.105,0.1208,,1.0095,0.1141,0.0152,0.0005,False,True,False,,,
-401909289,PHI @ CLE,prop_blk,over,Evan Mobley,1630596.0,3.5,draftkings,1500.0,16.0,0.1248,8.01,0.0584,0.0584,0.0664,,0.9976,0.0634,0.0143,0.0002,False,True,False,,,
+401909289,PHI @ CLE,prop_pts,under,Joel Embiid,203954.0,21.5,tab,-105.0,1.95,0.5639,1.77,0.4797,0.5158,0.0482,6.78,0.101,0.5194,0.014,0.0037,False,True,True,,,
 401909290,UTA @ DAL,moneyline,UTA,,,,sportsbet,229.0,3.29,0.2274,4.4,0.2924,0.3081,-0.0807,3.94,-0.2519,0.3081,0.0136,0.0015,False,True,True,,,
-401909289,PHI @ CLE,prop_blk,over,Evan Mobley,1630596.0,2.5,draftkings,578.0,6.78,0.2862,3.49,0.1378,0.1378,0.1483,,0.9401,0.149,0.01,0.0004,False,True,False,,,
+401909289,PHI @ CLE,prop_pts,over,Evan Mobley,1630596.0,17.5,tab,-105.0,1.95,0.4445,2.25,0.4797,0.5239,-0.0794,6.78,-0.1322,0.5179,0.0112,0.0029,False,True,True,,,
 401909294,POR @ LAL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2300.0,24.0,0.0804,12.44,0.0389,0.0389,0.0414,,0.9288,0.042,0.0091,0.0001,False,True,False,,,
-401909289,PHI @ CLE,prop_pts,under,Tyrese Maxey,1630178.0,25.5,draftkings,-104.0,1.96,0.6708,1.49,0.4765,0.501,0.1698,,0.3159,0.5138,0.0078,0.002,True,True,True,,,
 401909295,SAS @ SAC,moneyline,SAC,,,,betr_au,800.0,9.0,0.2002,5.0,0.1063,0.1118,0.0884,4.57,0.8018,0.1118,0.0063,0.0002,False,True,True,,,
 401909292,TOR @ MIL,moneyline,TOR,,,,draftkings,-162.0,1.62,0.5953,1.68,0.5934,0.6218,-0.0265,4.2,-0.0372,0.6218,0.0056,0.0023,False,True,True,,,
-401909289,PHI @ CLE,prop_pts,under,Joel Embiid,203954.0,21.5,tab,-105.0,1.95,0.5639,1.77,0.4797,0.511,0.0529,6.78,0.101,0.515,0.0055,0.0014,False,True,True,,,
+401909289,PHI @ CLE,prop_blk,over,Evan Mobley,1630596.0,3.5,draftkings,1380.0,14.8,0.1248,8.01,0.0631,0.0631,0.0617,,0.8478,0.0678,0.0031,0.0001,False,True,False,,,
 401909295,SAS @ SAC,prop_pr,over,Precious Achiuwa,1630173.0,24.5,draftkings,840.0,9.4,0.1952,5.12,0.0994,0.0994,0.0958,,0.835,0.1066,0.0021,0.0001,False,True,False,De'Andre Hunter,0.2535,0.1491
-401909289,PHI @ CLE,prop_pts,over,Evan Mobley,1630596.0,17.5,tab,-105.0,1.95,0.4445,2.25,0.4797,0.5187,-0.0742,6.78,-0.1322,0.5131,0.0019,0.0005,False,True,True,,,
+401909289,PHI @ CLE,prop_pts,under,Anfernee Simons,1629014.0,8.5,draftkings,101.0,2.01,0.5838,1.71,0.465,0.491,0.0928,,0.1734,0.4979,0.0008,0.0002,False,True,True,,,
