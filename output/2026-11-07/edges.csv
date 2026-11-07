@@ -1,21 +1,19 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909940,NYK @ CLE,prop_reb,over,Mikal Bridges,1628969.0,3.5,draftkings,130.0,2.3,0.3614,2.77,0.4063,0.5,-0.1385,6.98,-0.1687,0.4896,0.126,0.0242,False,True,True,,,
 401909941,WAS @ OKC,moneyline,WAS,,,,betfair_ex_au,475.0,5.75,0.2723,3.67,0.1703,0.1849,0.0874,2.09,0.5657,0.1849,0.0634,0.0033,False,True,True,,,
 401909941,WAS @ OKC,moneyline,WAS,,,,sportsbet,460.0,5.6,0.2723,3.67,0.1716,0.1849,0.0874,4.06,0.5249,0.1849,0.0356,0.0019,False,True,True,,,
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,2000.0,21.0,0.1039,9.63,0.0445,0.0445,0.0594,,1.1812,0.049,0.0281,0.0004,False,True,False,,,
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,6.5,draftkings,1100.0,12.0,0.1798,5.56,0.0779,0.0779,0.1019,,1.1579,0.0855,0.0263,0.0006,False,False,False,,,
 401909944,SAS @ POR,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1380.0,14.8,0.1425,7.02,0.0631,0.0631,0.0793,,1.1089,0.0691,0.0227,0.0004,False,False,False,,,
-401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,1700.0,18.0,0.1168,8.56,0.0519,0.0519,0.0649,,1.1026,0.0568,0.0222,0.0003,False,False,False,,,
-401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,1020.0,11.2,0.1832,5.46,0.0834,0.0834,0.0997,,1.0515,0.0909,0.0184,0.0004,False,True,False,,,
+401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,1660.0,17.6,0.1168,8.56,0.0531,0.0531,0.0637,,1.0559,0.0579,0.0187,0.0003,False,False,False,,,
 401909942,ORL @ GSW,moneyline,ORL,,,,betfair_ex_au,237.5,3.38,0.2661,3.76,0.2889,0.3015,-0.0354,2.56,-0.1019,0.3015,0.0176,0.0019,False,True,True,,,
+401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,1000.0,11.0,0.1832,5.46,0.085,0.085,0.0982,,1.0149,0.0923,0.0156,0.0004,False,True,False,,,
 401909944,SAS @ POR,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2200.0,23.0,0.0844,11.84,0.0406,0.0406,0.0438,,0.942,0.0439,0.0101,0.0001,False,True,False,,,
+401909941,WAS @ OKC,prop_pa,over,Alex Caruso,1627936.0,9.5,draftkings,-102.0,1.98,0.6339,1.58,0.4727,0.4996,0.1343,6.83,0.2553,0.5096,0.0093,0.0024,False,True,True,,,
 401909939,BKN @ ATL,moneyline,BKN,,,,betfair_ex_au,232.75,3.33,0.2357,4.24,0.2918,0.3033,-0.0677,2.99,-0.2159,0.3033,0.0093,0.001,False,True,True,Day'Ron Sharpe,0.2038,0.2472
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,5.5,draftkings,544.0,6.44,0.2981,3.36,0.1451,0.1451,0.1529,,0.9195,0.1566,0.0084,0.0004,True,True,False,,,
-401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,15.5,draftkings,1300.0,14.0,0.1356,7.37,0.0668,0.0668,0.0689,,0.8989,0.0719,0.0069,0.0001,False,True,False,Anthony Davis,0.0,0.1346
 401909944,SAS @ POR,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,740.0,8.4,0.226,4.43,0.1113,0.1113,0.1147,,0.8981,0.1199,0.0068,0.0002,False,True,False,,,
-401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,11.5,draftkings,2600.0,27.0,0.0696,14.37,0.0346,0.0346,0.035,,0.8795,0.0372,0.0054,0.0001,False,True,False,,,
+401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,15.5,draftkings,1280.0,13.8,0.1356,7.37,0.0677,0.0677,0.0679,,0.8718,0.0728,0.0049,0.0001,False,True,False,Anthony Davis,0.0,0.1346
 401909939,BKN @ ATL,moneyline,BKN,,,,draftkings,231.0,3.31,0.2357,4.24,0.2902,0.3033,-0.0677,4.1,-0.22,0.3033,0.004,0.0004,False,True,True,Day'Ron Sharpe,0.2038,0.2472
-401909941,WAS @ OKC,prop_reb,over,Anthony Davis,203076.0,14.5,draftkings,900.0,10.0,0.1843,5.43,0.0935,0.0935,0.0908,,0.8427,0.1003,0.0027,0.0001,False,False,False,Anthony Davis,0.0,0.1846
 401909943,HOU @ PHX,moneyline,PHX,,,,betfair_ex_au,223.25,3.23,0.3416,2.93,0.3006,0.3097,0.032,2.91,0.1044,0.3097,0.001,0.0001,False,True,True,,,
 401909939,BKN @ ATL,moneyline,BKN,,,,pointsbetau,230.0,3.3,0.2357,4.24,0.2918,0.3033,-0.0677,3.85,-0.2224,0.3033,0.0009,0.0001,False,True,True,Day'Ron Sharpe,0.2038,0.2472
-401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,8.5,draftkings,573.0,6.73,0.2699,3.71,0.1389,0.1389,0.131,,0.8165,0.1487,0.0007,0.0,False,False,False,,,
+401909941,WAS @ OKC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,11.5,draftkings,2500.0,26.0,0.0696,14.37,0.0359,0.0359,0.0337,,0.8099,0.0385,0.0002,0.0,False,True,False,,,
