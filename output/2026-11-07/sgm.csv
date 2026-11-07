@@ -1,17 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.4052,2.47,2.59,2.34,-0.053,1.019,2.10-2.50
-DEN @ IND,DEN win + Jamal Murray 2+ 3pm,2,0.5811,0.5623,1.78,1.87,1.63,-0.0806,1.013,1.50-1.65
-DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3904,2.56,2.69,2.35,-0.0836,1.017,2.10-2.50
-DEN @ IND,DEN win + Nikola Jokic blk under 1.5,2,0.533,0.4756,2.1,2.21,1.93,-0.0838,1.002,1.85-2.10
-DEN @ IND,IND +7.5 + Jamal Murray 2+ 3pm,2,0.4437,0.3783,2.64,2.78,2.36,-0.1078,0.984,2.10-2.50
-DEN @ IND,Nikola Jokic blk under 1.5 + Jamal Murray 2+ 3pm,2,0.6633,0.523,1.91,2.01,1.7,-0.1092,0.999,1.65-1.85
-BKN @ ATL,ATL -6.5 + Luguentz Dort 5+ pa,2,0.5664,0.4406,2.27,2.38,2.12,-0.0664,1.014,2.10-2.50
-BKN @ ATL,ATL win + Luguentz Dort 5+ pa,2,0.712,0.5921,1.69,1.77,1.56,-0.0734,1.009,1.50-1.65
-BKN @ ATL,game over 227.5 + Luguentz Dort 5+ pa,2,0.355,0.427,2.34,2.46,2.17,-0.0747,1.021,2.10-2.50
-BKN @ ATL,Michael Porter Jr. 25+ pa + Luguentz Dort 5+ pa,2,0.4304,0.4223,2.37,2.49,2.16,-0.0891,1.001,2.10-2.50
-BKN @ ATL,Mikel Brown Jr. pra under 19.5 + Luguentz Dort 5+ pa,2,0.5846,0.436,2.29,2.41,2.05,-0.1059,0.997,1.85-2.10
-BKN @ ATL,Mikel Brown Jr. pr under 15.5 + Luguentz Dort 5+ pa,2,0.5843,0.4391,2.28,2.39,2.03,-0.1065,0.997,1.85-2.10
-BKN @ ATL,Mikel Brown Jr. pts under 12.5 + Luguentz Dort 5+ pa,2,0.5876,0.4406,2.27,2.38,2.03,-0.1068,0.997,1.85-2.10
+DEN @ IND,DEN -7.5 + Jamal Murray 2+ 3pm,2,0.4023,0.4051,2.47,2.59,2.34,-0.0529,1.019,2.10-2.50
+DEN @ IND,DEN win + Jamal Murray 3+ 3pm,2,0.4601,0.4262,2.35,2.46,2.2,-0.0628,1.027,2.10-2.50
+DEN @ IND,game over 229.5 + Jamal Murray 2+ 3pm,2,0.5724,0.3903,2.56,2.69,2.35,-0.0835,1.017,2.10-2.50
+BKN @ ATL,ATL -6.5 + Luguentz Dort 5+ pa,2,0.5664,0.4393,2.28,2.39,2.13,-0.0661,1.014,2.10-2.50
+BKN @ ATL,ATL win + Luguentz Dort 5+ pa,2,0.712,0.5903,1.69,1.78,1.57,-0.0731,1.009,1.50-1.65
+BKN @ ATL,game over 227.5 + Luguentz Dort 5+ pa,2,0.355,0.4257,2.35,2.47,2.17,-0.0745,1.021,2.10-2.50
+BKN @ ATL,Michael Porter Jr. 25+ pa + Luguentz Dort 5+ pa,2,0.4304,0.4199,2.38,2.5,2.16,-0.0912,1.001,2.10-2.50
+BKN @ ATL,CJ McCollum 19+ pra + Luguentz Dort 5+ pa,2,0.5792,0.4438,2.25,2.37,2.03,-0.1007,1.004,1.85-2.10
+BKN @ ATL,Mikel Brown Jr. pr under 15.5 + Luguentz Dort 5+ pa,2,0.5843,0.4316,2.32,2.43,2.07,-0.1049,0.997,1.85-2.10
+BKN @ ATL,Mikel Brown Jr. pra under 19.5 + Luguentz Dort 5+ pa,2,0.5846,0.4347,2.3,2.42,2.06,-0.1057,0.997,1.85-2.10
 NYK @ CLE,CLE +5.5 + Peyton Watson 10+ pr,2,0.4042,0.44,2.27,2.39,2.1,-0.0747,1.012,2.10-2.50
 NYK @ CLE,NYK win + Miles McBride 5+ pa,2,0.6098,0.5011,2.0,2.1,1.85,-0.0751,1.011,1.65-1.85
 NYK @ CLE,game over 224.5 + Miles McBride 5+ pa,2,0.4093,0.3918,2.55,2.68,2.36,-0.076,1.027,2.10-2.50
@@ -37,9 +34,9 @@ HOU @ PHX,HOU win + Jabari Smith Jr. 10+ pts,2,0.565,0.5556,1.8,1.89,1.7,-0.0534
 HOU @ PHX,Devin Booker 24+ pts + Dillon Brooks 15+ pra,2,0.4666,0.4086,2.45,2.57,2.31,-0.056,1.018,2.10-2.50
 HOU @ PHX,HOU win + Amen Thompson 10+ pts,2,0.5862,0.5723,1.75,1.83,1.65,-0.0576,1.016,1.50-1.65
 HOU @ PHX,HOU win + Tari Eason 10+ pr,2,0.5714,0.5803,1.72,1.81,1.61,-0.0638,1.013,1.50-1.65
-HOU @ PHX,Devin Booker 24+ pts + Dillon Brooks 10+ pr,2,0.5114,0.4485,2.23,2.34,2.08,-0.0676,1.006,1.85-2.10
 HOU @ PHX,HOU win + Kevin Durant 1+ 3pm,2,0.5642,0.5668,1.76,1.85,1.64,-0.0676,1.008,1.50-1.65
-HOU @ PHX,PHX +7.5 + Dillon Brooks 10+ pr,2,0.535,0.4488,2.23,2.34,2.05,-0.08,1.007,1.85-2.10
-HOU @ PHX,game over 221.5 + Dillon Brooks 10+ pr,2,0.5619,0.4514,2.22,2.33,2.02,-0.087,1.013,1.85-2.10
-HOU @ PHX,Luke Kennard 3pm under 1.5 + Dillon Brooks 10+ pr,2,0.7721,0.5299,1.89,1.98,1.71,-0.0959,0.999,1.65-1.85
-HOU @ PHX,Jabari Smith Jr. 6+ reb + Dillon Brooks 10+ pr,2,0.658,0.5014,1.99,2.09,1.79,-0.1011,1.003,1.65-1.85
+HOU @ PHX,HOU win + Amen Thompson 10+ pts + Jabari Smith Jr. 10+ pts,3,0.5039,0.444,2.25,2.36,2.05,-0.091,1.04,1.85-2.10
+HOU @ PHX,Luke Kennard 3pm under 1.5 + Kevin Durant 1+ 3pm,2,0.6902,0.4681,2.14,2.24,1.94,-0.0912,1.003,1.85-2.10
+HOU @ PHX,Luke Kennard 3pm under 1.5 + Amen Thompson 10+ pts,2,0.7094,0.4675,2.14,2.25,1.94,-0.0914,1.0,1.85-2.10
+HOU @ PHX,Collin Gillespie 3pm under 2.5 + Jabari Smith Jr. 4+ reb,2,0.6834,0.5006,2.0,2.1,1.79,-0.1028,0.999,1.65-1.85
+HOU @ PHX,Collin Gillespie 3pm under 2.5 + Tari Eason 10+ pr,2,0.6506,0.4925,2.03,2.13,1.82,-0.1051,0.999,1.65-1.85
