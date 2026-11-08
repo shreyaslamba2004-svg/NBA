@@ -1,22 +1,22 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-HOU @ PHX,game over 223.5 + Jabari Smith Jr. 15+ pr,2,0.474,0.4051,2.47,2.59,2.37,-0.0397,1.043,2.10-2.50
-HOU @ PHX,Alperen Sengun pts under 19.5 + Devin Booker 1+ 3pm,2,0.4066,0.3949,2.53,2.66,2.43,-0.0409,1.003,2.10-2.50
-HOU @ PHX,Alperen Sengun pts under 19.5 + Dillon Brooks 10+ pts,2,0.408,0.3938,2.54,2.67,2.42,-0.0471,0.996,2.10-2.50
-HOU @ PHX,HOU win + Jabari Smith Jr. 15+ pr,2,0.5776,0.5342,1.87,1.97,1.75,-0.065,1.017,1.65-1.85
-HOU @ PHX,Miles Bridges pts under 15.5 + Alperen Sengun 15+ pr,2,0.544,0.4456,2.24,2.36,2.09,-0.0682,0.999,1.85-2.10
-HOU @ PHX,game over 223.5 + Alperen Sengun 10+ pts,2,0.5086,0.4525,2.21,2.32,2.06,-0.0687,1.015,1.85-2.10
-HOU @ PHX,HOU win + Fred VanVleet 10+ pr,2,0.5859,0.56,1.79,1.88,1.66,-0.0698,1.015,1.65-1.85
-HOU @ PHX,HOU win + Alperen Sengun 20+ pr,2,0.6044,0.574,1.74,1.83,1.62,-0.0717,1.012,1.50-1.65
-HOU @ PHX,PHX +6.5 + Dillon Brooks 10+ pr,2,0.5012,0.4489,2.23,2.34,2.06,-0.0733,1.009,1.85-2.10
-HOU @ PHX,HOU win + Alperen Sengun 10+ pts,2,0.6306,0.607,1.65,1.73,1.52,-0.0774,1.007,1.50-1.65
-HOU @ PHX,HOU win + Jabari Smith Jr. 4+ reb,2,0.5914,0.5581,1.79,1.88,1.65,-0.0814,1.001,1.50-1.65
-HOU @ PHX,HOU win + Devin Booker 1+ 3pm,2,0.5651,0.5414,1.85,1.94,1.67,-0.0957,0.987,1.65-1.85
-SAS @ POR,game over 229.5 + Toumani Camara 10+ pr,2,0.3316,0.4128,2.42,2.54,2.29,-0.0556,1.044,2.10-2.50
-SAS @ POR,game over 229.5 + Deni Avdija 4+ ast,2,0.3362,0.4278,2.34,2.45,2.19,-0.0641,1.037,2.10-2.50
-SAS @ POR,POR +5.5 + Toumani Camara 10+ pr,2,0.4439,0.4029,2.48,2.61,2.3,-0.0743,1.023,2.10-2.50
-SAS @ POR,SAS win + Sidy Cissoko 5+ pra,2,0.6111,0.5447,1.84,1.93,1.67,-0.089,0.993,1.65-1.85
-SAS @ POR,Damian Lillard 8+ ra + Toumani Camara 10+ pr,2,0.6549,0.4476,2.23,2.35,2.03,-0.09,1.004,1.85-2.10
-SAS @ POR,Damian Lillard 8+ ra + Deni Avdija 4+ ast,2,0.6697,0.4678,2.14,2.24,1.94,-0.0905,1.005,1.85-2.10
+HOU @ PHX,game over 223.5 + Jabari Smith Jr. 15+ pr,2,0.4815,0.4021,2.49,2.61,2.37,-0.0469,1.033,2.10-2.50
+HOU @ PHX,game over 223.5 + Dillon Brooks 15+ pra,2,0.4825,0.425,2.35,2.47,2.24,-0.0499,1.035,2.10-2.50
+HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pts,2,0.4804,0.4201,2.38,2.5,2.25,-0.0536,1.03,2.10-2.50
+HOU @ PHX,HOU win + Jabari Smith Jr. 15+ pr,2,0.5922,0.5351,1.87,1.96,1.75,-0.0634,1.017,1.65-1.85
+HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pa,2,0.5023,0.4492,2.23,2.34,2.08,-0.0672,1.017,1.85-2.10
+HOU @ PHX,Jalen Green 16+ pts + Collin Gillespie 5+ pa,2,0.4756,0.4473,2.24,2.35,2.08,-0.0681,1.003,1.85-2.10
+HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pr,2,0.5156,0.4593,2.18,2.29,2.02,-0.0728,1.011,1.85-2.10
+HOU @ PHX,HOU win + Jabari Smith Jr. 4+ reb,2,0.602,0.5596,1.79,1.88,1.65,-0.0788,1.003,1.50-1.65
+HOU @ PHX,HOU win + Dillon Brooks 10+ pa,2,0.6126,0.5927,1.69,1.77,1.53,-0.0912,0.993,1.50-1.65
+HOU @ PHX,HOU win + Devin Booker 1+ 3pm,2,0.5681,0.5429,1.84,1.93,1.67,-0.0931,0.99,1.65-1.85
+HOU @ PHX,HOU win + Dillon Brooks 1+ 3pm,2,0.5809,0.5617,1.78,1.87,1.61,-0.0934,0.99,1.50-1.65
+HOU @ PHX,HOU win + Dillon Brooks 15+ pra,2,0.5757,0.5487,1.82,1.91,1.65,-0.0942,0.988,1.65-1.85
+SAS @ POR,game over 229.5 + Toumani Camara 10+ pr,2,0.3316,0.4124,2.42,2.55,2.29,-0.0556,1.044,2.10-2.50
+SAS @ POR,game over 229.5 + Deni Avdija 4+ ast,2,0.3362,0.4304,2.32,2.44,2.17,-0.0647,1.037,2.10-2.50
+SAS @ POR,POR +5.5 + Toumani Camara 10+ pr,2,0.4439,0.4025,2.48,2.61,2.3,-0.0743,1.023,2.10-2.50
+SAS @ POR,SAS win + Sidy Cissoko 5+ pra,2,0.6111,0.5416,1.85,1.94,1.68,-0.0885,0.993,1.65-1.85
+SAS @ POR,Damian Lillard 8+ ra + Toumani Camara 10+ pr,2,0.6549,0.4472,2.24,2.35,2.04,-0.09,1.004,1.85-2.10
+SAS @ POR,Damian Lillard 8+ ra + Deni Avdija 4+ ast,2,0.6697,0.4706,2.12,2.23,1.93,-0.091,1.005,1.85-2.10
 SAS @ POR,Damian Lillard 8+ ra + Jrue Holiday 1+ 3pm,2,0.6714,0.4682,2.14,2.24,1.94,-0.0912,1.004,1.85-2.10
 SAS @ POR,SAS win + Jrue Holiday 1+ 3pm,2,0.5816,0.5314,1.88,1.98,1.71,-0.0922,0.992,1.65-1.85
-SAS @ POR,SAS win + Toumani Camara 10+ pr,2,0.5633,0.5044,1.98,2.08,1.79,-0.0974,0.984,1.65-1.85
+SAS @ POR,SAS win + Toumani Camara 10+ pr,2,0.5633,0.5039,1.98,2.08,1.79,-0.0973,0.984,1.65-1.85

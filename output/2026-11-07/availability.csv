@@ -1,14 +1,14 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909943,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
+401909943,PHX,1626164,Devin Booker,,,1.0,,,
 401909943,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909943,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
-401909943,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
+401909943,PHX,1628970,Miles Bridges,,,1.0,,,
+401909943,PHX,1628415,Dillon Brooks,,,1.0,,,
 401909943,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909943,PHX,1642853,Rasheer Fleming,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
 401909943,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909943,PHX,1630692,Jordan Goodwin,Out,,0.0,Goodwin (calf) is out for Saturday's game against the Rockets.,,
-401909943,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
-401909943,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
+401909943,PHX,1630224,Jalen Green,,,1.0,,,
+401909943,PHX,1642345,Oso Ighodaro,,,1.0,,,
 401909943,PHX,1628379,Luke Kennard,,,1.0,,,
 401909943,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909943,PHX,905041953,Koa Peat,,,1.0,,,
@@ -16,23 +16,23 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909943,PHX,1630311,Pat Spencer,,,1.0,,,
 401909943,PHX,1631166,Drew Timme,Out,GLeague-Two-Way,0.0,,,
 401909943,PHX,1631109,Mark Williams,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",,
-401909943,HOU,203500,Steven Adams,Out,Injury/Illness-RightSoleusStrain,0.0,"Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a ""weekly basis,"" Varun Shankar of the Houston Chronicle reports.",,0.0
+401909943,HOU,203500,Steven Adams,Out,Injury/Illness-RightSoleusStrain,0.0,"Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a ""weekly basis,"" Varun Shankar of the Houston Chronicle reports.",,
 401909943,HOU,203992,Bogdan Bogdanovic,,,1.0,,,
-401909943,HOU,203991,Clint Capela,Out,Injury/Illness-RightAnkleSprain,0.0,Capela (ankle) is out for Saturday's game against the Suns.,,0.0
+401909943,HOU,203991,Clint Capela,Out,Injury/Illness-RightAnkleSprain,0.0,Capela (ankle) is out for Saturday's game against the Suns.,,
 401909943,HOU,904683860,Quadir Copeland,Out,GLeague-Two-Way,0.0,,,
 401909943,HOU,1642384,Isaiah Crawford,,,1.0,,,
-401909943,HOU,201142,Kevin Durant,Starting,,1.0,,,1.0
+401909943,HOU,201142,Kevin Durant,,,1.0,,,
 401909943,HOU,1631106,Tari Eason,,,1.0,,,
 401909943,HOU,1641763,Julian Phillips,Out,GLeague-Two-Way,0.0,,,
-401909943,HOU,1630578,Alperen Sengun,Starting,,1.0,,,1.0
+401909943,HOU,1630578,Alperen Sengun,,,1.0,,,
 401909943,HOU,1642263,Reed Sheppard,,,1.0,,,
 401909943,HOU,203935,Marcus Smart,,,1.0,,,
-401909943,HOU,1631095,Jabari Smith Jr.,Starting,,1.0,,,1.0
+401909943,HOU,1631095,Jabari Smith Jr.,,,1.0,,,
 401909943,HOU,1630256,Jae'Sean Tate,,,1.0,,,
-401909943,HOU,1641708,Amen Thompson,Starting,,1.0,,,1.0
+401909943,HOU,1641708,Amen Thompson,,,1.0,,,
 401909943,HOU,905105837,Bruce Thornton,Available,GLeague-OnAssignment,1.0,,,
 401909943,HOU,1631131,Oscar Tshiebwe,,,1.0,,,
-401909943,HOU,1627832,Fred VanVleet,Starting,,1.0,,,1.0
+401909943,HOU,1627832,Fred VanVleet,,,1.0,,,
 401909944,POR,1630166,Deni Avdija,,,1.0,,,
 401909944,POR,1641739,Toumani Camara,,,1.0,,,
 401909944,POR,904592435,Branden Carlson,,,1.0,,,
