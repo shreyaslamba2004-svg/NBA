@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHI @ CHI,PHI win + Caleb Wilson pts under 21.5,2,0.4657,0.4105,2.44,2.56,2.48,0.0164,1.044,2.10-2.50
 PHI @ CHI,PHI win + Jaylen Brown 2+ 3pm,2,0.4656,0.4019,2.49,2.61,2.47,-0.0088,1.016,2.10-2.50
 PHI @ CHI,PHI win + Jaylen Brown 20+ pa,2,0.5991,0.5879,1.7,1.79,1.68,-0.0122,1.025,1.65-1.85
 PHI @ CHI,PHI win + Jaylen Brown 15+ pts,2,0.6238,0.6141,1.63,1.71,1.6,-0.0179,1.02,1.50-1.65
 PHI @ CHI,PHI win + Jaylen Brown 25+ pra,2,0.6156,0.6088,1.64,1.72,1.61,-0.018,1.02,1.50-1.65
-PHI @ CHI,PHI win + Matas Buzelis 1+ blk,2,0.5148,0.4522,2.21,2.32,2.15,-0.0289,0.995,2.10-2.50
+PHI @ CHI,game over 237.5 + Jaylen Brown 25+ pra,2,0.2785,0.4233,2.36,2.48,2.3,-0.0273,1.069,2.10-2.50
+PHI @ CHI,game over 237.5 + Jaylen Brown 20+ pa,2,0.2692,0.406,2.46,2.59,2.39,-0.0282,1.067,2.10-2.50
 PHI @ CHI,PHI win + Caleb Wilson 4+ reb,2,0.6446,0.6323,1.58,1.66,1.52,-0.0365,1.0,1.50-1.65
 PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 20+ pa,3,0.5391,0.4883,2.05,2.15,1.91,-0.0671,1.029,1.85-2.10
 PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 15+ pts,3,0.5601,0.509,1.96,2.06,1.82,-0.0744,1.021,1.65-1.85
@@ -43,11 +43,11 @@ BOS @ MIL,Ryan Rollins 6+ ra + Jayson Tatum 4+ reb,2,0.6428,0.4994,2.0,2.1,1.8,-
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4176,2.39,2.51,2.25,-0.0621,1.033,2.10-2.50
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694,1.037,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.398,2.51,2.64,2.32,-0.0755,1.03,2.10-2.50
-MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4298,0.3906,2.56,2.69,2.4,-0.0616,1.02,2.10-2.50
+MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4298,0.3899,2.56,2.69,2.4,-0.0632,1.02,2.10-2.50
 MIA @ SAC,MIA win + Domantas Sabonis ra under 19.5,2,0.4613,0.4005,2.5,2.62,2.32,-0.0692,1.012,2.10-2.50
-MIA @ SAC,SAC +8.5 + Precious Achiuwa 10+ pr,2,0.4935,0.3902,2.56,2.69,2.38,-0.0708,1.008,2.10-2.50
-MIA @ SAC,MIA win + Precious Achiuwa 4+ reb,2,0.5737,0.5782,1.73,1.82,1.57,-0.0925,1.002,1.50-1.65
-MIA @ SAC,MIA win + Precious Achiuwa 10+ pr,2,0.5954,0.5697,1.76,1.84,1.59,-0.0963,0.993,1.50-1.65
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 10+ pr,2,0.6504,0.4664,2.14,2.25,1.93,-0.1004,1.0,1.85-2.10
+MIA @ SAC,SAC +8.5 + Precious Achiuwa 10+ pr,2,0.4935,0.39,2.56,2.69,2.38,-0.0708,1.008,2.10-2.50
+MIA @ SAC,MIA win + Precious Achiuwa 4+ reb,2,0.5737,0.5795,1.73,1.81,1.57,-0.0927,1.002,1.50-1.65
+MIA @ SAC,MIA win + Precious Achiuwa 10+ pr,2,0.5954,0.5695,1.76,1.84,1.59,-0.0963,0.993,1.50-1.65
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 10+ pr,2,0.6504,0.4662,2.14,2.25,1.93,-0.1003,1.0,1.85-2.10
 MIA @ SAC,MIA win + Klay Thompson 3pm under 3.5,2,0.4948,0.4357,2.3,2.41,2.06,-0.1041,0.977,1.85-2.10
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 4+ reb,2,0.6215,0.4693,2.13,2.24,1.91,-0.1042,1.0,1.85-2.10
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 4+ reb,2,0.6215,0.4704,2.13,2.23,1.9,-0.1044,1.0,1.85-2.10
