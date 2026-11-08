@@ -1,26 +1,29 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+LAL @ DET,DET win + Quentin Grimes 3pm under 1.5,2,0.4376,0.3959,2.53,2.65,2.44,-0.033,1.027,2.10-2.50
 LAL @ DET,DET win + Quentin Grimes ra under 6.5,2,0.4462,0.4009,2.49,2.62,2.38,-0.045,1.011,2.10-2.50
 LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5814,1.72,1.81,1.6,-0.0677,1.004,1.50-1.65
 LAL @ DET,Quentin Grimes pa under 14.5 + Walker Kessler 1+ blk,2,0.6426,0.4154,2.41,2.53,2.19,-0.09,0.999,2.10-2.50
-LAL @ DET,game under 217.5 + Walker Kessler 1+ blk,2,0.379,0.415,2.41,2.53,2.19,-0.0909,0.992,2.10-2.50
 LAL @ DET,Quentin Grimes pra under 18.5 + Walker Kessler 1+ blk,2,0.6786,0.4516,2.21,2.32,2.01,-0.0943,0.998,1.85-2.10
 LAL @ DET,Quentin Grimes ra under 6.5 + Walker Kessler 1+ blk,2,0.6648,0.4826,2.07,2.18,1.87,-0.0976,1.001,1.85-2.10
 LAL @ DET,Jake LaRavia ra under 6.5 + Walker Kessler 1+ blk,2,0.6456,0.458,2.18,2.29,1.97,-0.0998,0.997,1.85-2.10
-UTA @ MIN,MIN win + Darryn Peterson 3pm under 1.5,2,0.4924,0.3925,2.55,2.68,2.36,-0.0745,1.014,2.10-2.50
-UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4106,2.44,2.56,2.24,-0.0815,0.995,2.10-2.50
-UTA @ MIN,MIN win + game over 222.5,2,0.5732,0.4155,2.41,2.53,2.21,-0.0825,1.003,2.10-2.50
+UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4115,2.43,2.55,2.24,-0.0795,0.995,2.10-2.50
+UTA @ MIN,MIN win + game over 222.5,2,0.5732,0.4146,2.41,2.53,2.22,-0.0806,1.003,2.10-2.50
+UTA @ MIN,MIN win + game under 221.5,2,0.2746,0.4109,2.43,2.56,2.22,-0.0889,0.998,2.10-2.50
+UTA @ MIN,Ayo Dosunmu pra under 28.5 + LaMelo Ball 2+ 3pm,2,0.5556,0.4253,2.35,2.47,2.09,-0.11,0.995,1.85-2.10
+UTA @ MIN,Terrence Shannon Jr. pr under 14.5 + LaMelo Ball 2+ 3pm,2,0.5542,0.4268,2.34,2.46,2.08,-0.1103,0.995,1.85-2.10
+UTA @ MIN,Ayo Dosunmu pr under 23.5 + LaMelo Ball 2+ 3pm,2,0.5517,0.4282,2.34,2.45,2.08,-0.1107,0.996,1.85-2.10
+BKN @ DAL,game over 223.5 + Michael Porter Jr. 20+ pr,2,0.5042,0.4247,2.35,2.47,2.21,-0.0615,1.036,2.10-2.50
 BKN @ DAL,game over 223.5 + Day'Ron Sharpe 6+ reb,2,0.4802,0.384,2.6,2.73,2.43,-0.0672,1.025,2.10-2.50
-BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6852,0.4721,2.12,2.22,1.95,-0.0771,0.993,1.85-2.10
-BKN @ DAL,game over 223.5 + Julius Randle 4+ reb,2,0.5116,0.4269,2.34,2.46,2.16,-0.0771,1.018,2.10-2.50
-BKN @ DAL,DAL win + Day'Ron Sharpe 8+ reb,2,0.5309,0.3944,2.54,2.66,2.33,-0.0792,0.997,2.10-2.50
-BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6071,1.65,1.73,1.5,-0.0886,1.001,1.50-1.65
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Day'Ron Sharpe 6+ reb,2,0.7474,0.4998,2.0,2.1,1.81,-0.0952,0.998,1.65-1.85
-BKN @ DAL,Day'Ron Sharpe 13+ pa + Julius Randle 4+ reb,2,0.5801,0.4435,2.25,2.37,2.04,-0.0955,1.006,1.85-2.10
-BKN @ DAL,Day'Ron Sharpe 12+ ra + Julius Randle 4+ reb,2,0.594,0.4363,2.29,2.41,2.07,-0.0963,1.006,1.85-2.10
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.8034,0.5605,1.78,1.87,1.61,-0.097,1.0,1.50-1.65
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.8084,0.5701,1.75,1.84,1.58,-0.0978,1.0,1.50-1.65
+BKN @ DAL,BKN +7.5 + Michael Porter Jr. 20+ pr,2,0.3587,0.4223,2.37,2.49,2.19,-0.0753,1.027,2.10-2.50
+BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6852,0.4685,2.13,2.24,1.97,-0.0762,0.993,1.85-2.10
+BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6044,1.65,1.74,1.51,-0.0883,1.001,1.50-1.65
+BKN @ DAL,Day'Ron Sharpe 21+ pra + Michael Porter Jr. 20+ pr,2,0.6022,0.443,2.26,2.37,2.05,-0.0933,1.01,1.85-2.10
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Day'Ron Sharpe 6+ reb,2,0.7474,0.496,2.02,2.12,1.83,-0.0943,0.998,1.65-1.85
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.8034,0.5538,1.81,1.9,1.63,-0.0958,1.0,1.50-1.65
+BKN @ DAL,Day'Ron Sharpe 12+ ra + Julius Randle 4+ reb,2,0.594,0.4344,2.3,2.42,2.08,-0.096,1.006,1.85-2.10
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.8084,0.5658,1.77,1.86,1.6,-0.0969,1.0,1.50-1.65
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Michael Porter Jr. 20+ pr,2,0.7765,0.5428,1.84,1.93,1.66,-0.0985,0.998,1.65-1.85
 BKN @ DAL,Cooper Flagg 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.6672,0.5039,1.98,2.08,1.78,-0.1031,1.001,1.65-1.85
-BKN @ DAL,Cooper Flagg 3pm under 1.5 + Julius Randle 4+ reb,2,0.6615,0.4943,2.02,2.12,1.81,-0.1043,0.999,1.65-1.85
 BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pr,2,0.4419,0.413,2.42,2.54,2.36,-0.0253,1.04,2.10-2.50
 BOS @ MIL,game under 222.5 + BOS win,2,0.4243,0.4279,2.34,2.45,2.22,-0.0482,1.009,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pts under 19.5,2,0.5043,0.4238,2.36,2.48,2.25,-0.0484,1.039,2.10-2.50
