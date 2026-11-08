@@ -11,16 +11,28 @@ PHI @ CHI,PHI win + Matas Buzelis 10+ pa,2,0.5901,0.5764,1.73,1.82,1.54,-0.1101,
 PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5629,0.4909,2.04,2.14,1.77,-0.1336,1.013,1.65-1.85
 PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 25+ pra,3,0.5368,0.4974,2.01,2.11,1.74,-0.1344,1.018,1.65-1.85
 PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 15+ pts,3,0.541,0.5011,2.0,2.1,1.73,-0.1353,1.017,1.65-1.85
+LAL @ DET,game over 222.5 + Walker Kessler 1+ blk,2,0.4604,0.4229,2.36,2.48,2.19,-0.0749,1.008,2.10-2.50
+LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5255,0.4498,2.22,2.33,2.05,-0.0761,0.998,1.85-2.10
+LAL @ DET,game under 222.5 + Walker Kessler 1+ blk,2,0.4416,0.4162,2.4,2.52,2.19,-0.0895,0.992,2.10-2.50
+LAL @ DET,Matisse Thybulle 3pm under 1.5 + Walker Kessler 1+ blk,2,0.6708,0.485,2.06,2.16,1.85,-0.1013,0.999,1.85-2.10
+LAL @ DET,LAL +4.5 + Walker Kessler 1+ blk,2,0.4829,0.4199,2.38,2.5,2.14,-0.1018,1.001,2.10-2.50
+LAL @ DET,Austin Reaves ra under 9.5 + Walker Kessler 1+ blk,2,0.5605,0.4403,2.27,2.38,2.02,-0.1088,0.997,1.85-2.10
 UTA @ MIN,MIN win + Darryn Peterson pr under 18.5,2,0.5119,0.4101,2.44,2.56,2.29,-0.0607,1.027,2.10-2.50
-UTA @ MIN,MIN win + Darryn Peterson pra under 23.5,2,0.5399,0.4465,2.24,2.35,2.1,-0.0616,1.029,2.10-2.50
 UTA @ MIN,MIN win + Darryn Peterson 3pm under 1.5,2,0.5031,0.4134,2.42,2.54,2.24,-0.0746,1.014,2.10-2.50
-BKN @ DAL,Day'Ron Sharpe ast under 3.5 + DAL win,2,0.4887,0.3783,2.64,2.78,2.49,-0.0598,1.017,2.10-2.50
-BKN @ DAL,DAL win + game under 221.5,2,0.323,0.3952,2.53,2.66,2.33,-0.0789,1.004,2.10-2.50
-BKN @ DAL,game over 221.5 + Julius Randle 4+ reb,2,0.5332,0.4254,2.35,2.47,2.15,-0.0855,1.017,2.10-2.50
-BKN @ DAL,Cooper Flagg 3pm under 1.5 + Julius Randle 4+ reb,2,0.6626,0.4711,2.12,2.23,1.91,-0.0999,0.999,1.85-2.10
-BKN @ DAL,DAL win + Michael Porter Jr. 2+ ast,2,0.5268,0.4713,2.12,2.23,1.91,-0.1006,0.983,1.85-2.10
-BKN @ DAL,Michael Porter Jr. 9+ ra + Julius Randle 4+ reb,2,0.6145,0.4661,2.15,2.25,1.93,-0.1012,1.003,1.85-2.10
-BKN @ DAL,Michael Porter Jr. 2+ ast + Julius Randle 4+ reb,2,0.6677,0.523,1.91,2.01,1.71,-0.103,1.001,1.65-1.85
+UTA @ MIN,MIN win + game over 223.5,2,0.5258,0.4169,2.4,2.52,2.21,-0.0786,1.005,2.10-2.50
+UTA @ MIN,MIN win + Terrence Shannon Jr. pts under 12.5,2,0.5306,0.4279,2.34,2.45,2.09,-0.1039,0.981,1.85-2.10
+BKN @ DAL,DAL win + Day'Ron Sharpe ast under 3.5,2,0.4887,0.3899,2.56,2.69,2.4,-0.063,1.017,2.10-2.50
+BKN @ DAL,DAL win + game under 219.5,2,0.291,0.3852,2.6,2.73,2.39,-0.0786,1.004,2.10-2.50
+BKN @ DAL,game over 219.5 + P.J. Washington 10+ pa,2,0.5469,0.413,2.42,2.54,2.23,-0.0806,1.022,2.10-2.50
+BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6427,0.5076,1.97,2.07,1.81,-0.0831,0.994,1.65-1.85
+BKN @ DAL,game over 219.5 + Julius Randle 4+ reb,2,0.5725,0.4374,2.29,2.4,2.09,-0.0878,1.015,1.85-2.10
+BKN @ DAL,DAL win + Cooper Flagg 3pm under 1.5,2,0.5262,0.4416,2.26,2.38,2.05,-0.0947,0.988,1.85-2.10
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + P.J. Washington 10+ pa,2,0.7623,0.5231,1.91,2.01,1.73,-0.0973,0.998,1.65-1.85
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.804,0.5583,1.79,1.88,1.62,-0.0976,0.999,1.50-1.65
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + P.J. Washington 15+ pra,2,0.7768,0.5434,1.84,1.93,1.66,-0.099,0.998,1.65-1.85
+BKN @ DAL,DAL -9.5 + Julius Randle 4+ reb,2,0.4539,0.4293,2.33,2.45,2.09,-0.1009,1.001,1.85-2.10
+BKN @ DAL,DAL win + P.J. Washington 10+ pa + Julius Randle 4+ reb,3,0.6102,0.5342,1.87,1.97,1.62,-0.1369,1.013,1.50-1.65
+BKN @ DAL,DAL win + Julius Randle 4+ reb + P.J. Washington 15+ pra,3,0.6212,0.5542,1.8,1.89,1.55,-0.1394,1.012,1.50-1.65
 BOS @ MIL,BOS win + Tyler Herro pa under 24.5,2,0.4922,0.4366,2.29,2.4,2.17,-0.0527,1.039,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5301,0.4487,2.23,2.34,2.11,-0.055,1.031,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5097,0.434,2.3,2.42,2.17,-0.0584,1.028,2.10-2.50
