@@ -16,20 +16,20 @@ LAL @ DET,game over 221.5 + Walker Kessler 1+ blk,2,0.4572,0.4286,2.33,2.45,2.13
 UTA @ MIN,MIN win + game under 224.5,2,0.3252,0.399,2.51,2.63,2.34,-0.0652,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 223.5,2,0.5557,0.4161,2.4,2.52,2.24,-0.0664,1.004,2.10-2.50
 UTA @ MIN,MIN win + Ayo Dosunmu ra under 9.5,2,0.4901,0.3779,2.65,2.78,2.42,-0.0839,0.99,2.10-2.50
-BKN @ DAL,DAL win + Nolan Traore pa under 17.5,2,0.5199,0.3986,2.51,2.63,2.49,-0.0064,1.034,2.10-2.50
 BKN @ DAL,DAL win + Nolan Traore ast under 4.5,2,0.5476,0.4187,2.39,2.51,2.35,-0.0151,1.025,2.10-2.50
 BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6661,0.4832,2.07,2.17,1.99,-0.0389,0.995,1.85-2.10
+BKN @ DAL,DAL win + Cooper Flagg 3pm under 1.5,2,0.5493,0.4238,2.36,2.48,2.24,-0.0495,0.99,2.10-2.50
 BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.702,0.628,1.59,1.67,1.51,-0.0523,1.001,1.50-1.65
 BKN @ DAL,Daniel Gafford 16+ pra + Julius Randle 4+ reb,2,0.5154,0.428,2.34,2.45,2.2,-0.0593,1.002,2.10-2.50
 BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.7972,0.5556,1.8,1.89,1.62,-0.0979,0.999,1.50-1.65
 BKN @ DAL,Nolan Traore ast under 4.5 + Julius Randle 4+ reb,2,0.6387,0.4693,2.13,2.24,1.92,-0.0989,1.003,1.85-2.10
-BKN @ DAL,Nolan Traore pa under 17.5 + Julius Randle 4+ reb,2,0.5979,0.4405,2.27,2.38,2.03,-0.1037,0.998,1.85-2.10
-BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.533,0.432,2.31,2.43,2.23,-0.0345,1.034,2.10-2.50
-BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5473,0.4452,2.25,2.36,2.17,-0.0351,1.034,2.10-2.50
-BOS @ MIL,BOS win + Payton Pritchard 4+ ast,2,0.5058,0.4551,2.2,2.31,2.08,-0.0545,1.017,1.85-2.10
-BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5231,0.4528,2.21,2.32,2.07,-0.0628,1.009,1.85-2.10
-BOS @ MIL,game over 222.5 + Kyle Kuzma 10+ pr,2,0.4239,0.4062,2.46,2.59,2.31,-0.063,1.042,2.10-2.50
-BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5641,0.4667,2.14,2.25,1.99,-0.0716,0.995,1.85-2.10
+BKN @ DAL,Cooper Flagg 3pm under 1.5 + Julius Randle 4+ reb,2,0.6603,0.4896,2.04,2.14,1.83,-0.1037,0.999,1.65-1.85
+BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5248,0.4318,2.32,2.43,2.23,-0.0349,1.035,2.10-2.50
+BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5403,0.4449,2.25,2.36,2.17,-0.0356,1.034,2.10-2.50
+BOS @ MIL,BOS win + Payton Pritchard 4+ ast,2,0.5058,0.4565,2.19,2.3,2.08,-0.0518,1.019,1.85-2.10
+BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5238,0.4538,2.2,2.31,2.07,-0.0608,1.011,1.85-2.10
+BOS @ MIL,BOS win + game under 222.5,2,0.4243,0.4275,2.34,2.46,2.2,-0.0614,1.009,2.10-2.50
+BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5624,0.4671,2.14,2.25,1.99,-0.0709,0.996,1.85-2.10
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4176,2.39,2.51,2.25,-0.0621,1.033,2.10-2.50
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694,1.037,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.398,2.51,2.64,2.32,-0.0755,1.03,2.10-2.50
