@@ -2,38 +2,38 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909942,GSW,1629646,Charles Bassey,,,1.0,,,
 401909942,GSW,202710,Jimmy Butler III,Out,Injury/Illness-RightACLRepair/,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401909942,GSW,1643018,LJ Cryer,,,1.0,,,
-401909942,GSW,201939,Stephen Curry,Starting,,1.0,,,1.0
-401909942,GSW,203110,Draymond Green,Starting,,1.0,,,1.0
+401909942,GSW,201939,Stephen Curry,,,1.0,,,
+401909942,GSW,203110,Draymond Green,Available,,1.0,,,
 401909942,GSW,201143,Al Horford,,,1.0,,,
 401909942,GSW,904703396,Graham Ike,,,1.0,,,
-401909942,GSW,905175737,Yaxel Lendeborg,Starting,,1.0,,,1.0
+401909942,GSW,905175737,Yaxel Lendeborg,,,1.0,,,
 401909942,GSW,1642502,Malevy Leons,,,1.0,,,
 401909942,GSW,1629001,De'Anthony Melton,,,1.0,,,
 401909942,GSW,1630541,Moses Moody,Out,,0.0,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",,
 401909942,GSW,1627777,Georges Niang,,,1.0,,,
 401909942,GSW,1627780,Gary Payton II,Available,,1.0,,,
-401909942,GSW,1641764,Brandin Podziemski,Starting,,1.0,,,1.0
+401909942,GSW,1641764,Brandin Podziemski,,,1.0,,,
 401909942,GSW,204001,Kristaps Porzingis,Out,NotWithTeam,0.0,Porzingis announced on his social media that he's stepping away from basketball.,,
 401909942,GSW,1642954,Will Richard,,,1.0,,,
-401909942,GSW,1630611,Gui Santos,Starting,Injury/Illness-LeftKneeTendinitis,1.0,,,1.0
+401909942,GSW,1630611,Gui Santos,Available,Injury/Illness-LeftKneeTendinitis,1.0,,,
 401909942,GSW,1630314,Brandon Williams,,,1.0,,,
 401909942,ORL,1631094,Paolo Banchero,Out,,0.0,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",,
 401909942,ORL,1630217,Desmond Bane,Out,Injury/Illness-Illness,0.0,Bane (illness) has been ruled out for Saturday's game against the Warriors.,,
 401909942,ORL,1629048,Goga Bitadze,,,1.0,,,
-401909942,ORL,1641710,Anthony Black,Starting,,1.0,,,1.0
+401909942,ORL,1641710,Anthony Black,,,1.0,,,
 401909942,ORL,1631288,Jamal Cain,,,1.0,,,
 401909942,ORL,1628975,Jevon Carter,,,1.0,,,
-401909942,ORL,1628976,Wendell Carter Jr.,Starting,,1.0,,,1.0
+401909942,ORL,1628976,Wendell Carter Jr.,,,1.0,,,
 401909942,ORL,1630658,Colin Castleton,,,1.0,,,
-401909942,ORL,1641783,Tristan da Silva,Starting,,1.0,,,1.0
+401909942,ORL,1641783,Tristan da Silva,,,1.0,,,
 401909942,ORL,1628371,Jonathan Isaac,Out,,0.0,Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday.,,
 401909942,ORL,1631457,Alex Morales,,,1.0,,,
 401909942,ORL,905107251,Izaiyah Nelson,Out,,0.0,"Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",,
 401909942,ORL,1642869,Noah Penda,Out,,0.0,"Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports.",,
-401909942,ORL,1642859,Jase Richardson,Starting,,1.0,,,1.0
+401909942,ORL,1642859,Jase Richardson,,,1.0,,,
 401909942,ORL,1630591,Jalen Suggs,Out,,0.0,"Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",,
 401909942,ORL,202696,Nikola Vucevic,,,1.0,,,
-401909942,ORL,1630532,Franz Wagner,Starting,,1.0,,,1.0
+401909942,ORL,1630532,Franz Wagner,,,1.0,,,
 401909943,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
 401909943,PHX,1631123,Jamaree Bouyea,,,1.0,,,
 401909943,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0

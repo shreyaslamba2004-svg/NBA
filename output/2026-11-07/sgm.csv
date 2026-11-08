@@ -1,19 +1,24 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-ORL @ GSW,ORL +7.5 + Wendell Carter Jr. 10+ pa,2,0.3836,0.421,2.38,2.49,2.26,-0.0468,1.042,2.10-2.50
-ORL @ GSW,Jase Richardson 10+ pts + Wendell Carter Jr. 10+ pa,2,0.531,0.4185,2.39,2.51,2.25,-0.0565,1.013,2.10-2.50
-ORL @ GSW,Brandin Podziemski 16+ pts + Wendell Carter Jr. 10+ pa,2,0.337,0.3855,2.59,2.72,2.43,-0.0627,1.001,2.10-2.50
+ORL @ GSW,ORL +7.5 + Wendell Carter Jr. 10+ pa,2,0.3841,0.4174,2.4,2.52,2.26,-0.055,1.032,2.10-2.50
+ORL @ GSW,Tristan da Silva pts under 14.5 + De'Anthony Melton 5+ pr,2,0.4614,0.4425,2.26,2.37,2.12,-0.0602,1.0,2.10-2.50
+ORL @ GSW,Jamal Cain 8+ pts + Wendell Carter Jr. 10+ pa,2,0.6113,0.4281,2.34,2.45,2.17,-0.0692,1.008,2.10-2.50
+ORL @ GSW,Jamal Cain 8+ pts + De'Anthony Melton 5+ pr,2,0.6482,0.4621,2.16,2.27,1.99,-0.0785,0.999,1.85-2.10
+ORL @ GSW,Tristan da Silva 14+ pts + De'Anthony Melton 5+ pr,2,0.5264,0.443,2.26,2.37,2.07,-0.084,1.001,1.85-2.10
+ORL @ GSW,GSW -6.5 + De'Anthony Melton 5+ pr,2,0.5604,0.4482,2.23,2.34,2.03,-0.0886,1.006,1.85-2.10
+ORL @ GSW,GSW win + De'Anthony Melton 5+ pr,2,0.7076,0.6068,1.65,1.73,1.5,-0.089,1.005,1.50-1.65
+ORL @ GSW,GSW win + Wendell Carter Jr. 10+ pa,2,0.6492,0.547,1.83,1.92,1.64,-0.1047,0.986,1.50-1.65
 HOU @ PHX,game over 223.5 + Jabari Smith Jr. 15+ pr,2,0.474,0.4051,2.47,2.59,2.37,-0.0397,1.043,2.10-2.50
-HOU @ PHX,Alperen Sengun pts under 19.5 + Dillon Brooks 1+ 3pm,2,0.4158,0.4072,2.46,2.58,2.36,-0.0406,1.004,2.10-2.50
 HOU @ PHX,Alperen Sengun pts under 19.5 + Devin Booker 1+ 3pm,2,0.4066,0.3949,2.53,2.66,2.43,-0.0409,1.003,2.10-2.50
+HOU @ PHX,Alperen Sengun pts under 19.5 + Dillon Brooks 10+ pts,2,0.408,0.3938,2.54,2.67,2.42,-0.0471,0.996,2.10-2.50
 HOU @ PHX,HOU win + Jabari Smith Jr. 15+ pr,2,0.5776,0.5342,1.87,1.97,1.75,-0.065,1.017,1.65-1.85
 HOU @ PHX,Miles Bridges pts under 15.5 + Alperen Sengun 15+ pr,2,0.544,0.4456,2.24,2.36,2.09,-0.0682,0.999,1.85-2.10
 HOU @ PHX,game over 223.5 + Alperen Sengun 10+ pts,2,0.5086,0.4525,2.21,2.32,2.06,-0.0687,1.015,1.85-2.10
+HOU @ PHX,HOU win + Fred VanVleet 10+ pr,2,0.5859,0.56,1.79,1.88,1.66,-0.0698,1.015,1.65-1.85
 HOU @ PHX,HOU win + Alperen Sengun 20+ pr,2,0.6044,0.574,1.74,1.83,1.62,-0.0717,1.012,1.50-1.65
 HOU @ PHX,PHX +6.5 + Dillon Brooks 10+ pr,2,0.5012,0.4489,2.23,2.34,2.06,-0.0733,1.009,1.85-2.10
 HOU @ PHX,HOU win + Alperen Sengun 10+ pts,2,0.6306,0.607,1.65,1.73,1.52,-0.0774,1.007,1.50-1.65
 HOU @ PHX,HOU win + Jabari Smith Jr. 4+ reb,2,0.5914,0.5581,1.79,1.88,1.65,-0.0814,1.001,1.50-1.65
 HOU @ PHX,HOU win + Devin Booker 1+ 3pm,2,0.5651,0.5414,1.85,1.94,1.67,-0.0957,0.987,1.65-1.85
-HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.5688,0.5418,1.85,1.94,1.66,-0.0985,0.984,1.65-1.85
 SAS @ POR,game over 229.5 + Toumani Camara 10+ pr,2,0.3316,0.4121,2.43,2.55,2.29,-0.0555,1.044,2.10-2.50
 SAS @ POR,game over 229.5 + Deni Avdija 4+ ast,2,0.3362,0.4257,2.35,2.47,2.2,-0.0637,1.037,2.10-2.50
 SAS @ POR,POR +5.5 + Toumani Camara 10+ pr,2,0.4439,0.4022,2.49,2.61,2.3,-0.0741,1.023,2.10-2.50
