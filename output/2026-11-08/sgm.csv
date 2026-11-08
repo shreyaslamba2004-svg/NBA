@@ -1,0 +1,16 @@
+matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+PHI @ CHI,PHI win + game under 238.5,2,0.5019,0.3865,2.59,2.72,2.4,-0.0735,1.01,2.10-2.50
+LAL @ DET,game over 222.5 + Duncan Robinson 10+ pts,2,0.4302,0.3912,2.56,2.68,2.45,-0.0423,1.042,2.10-2.50
+LAL @ DET,DET win + Duncan Robinson 10+ pts,2,0.4905,0.4156,2.41,2.53,2.3,-0.0446,1.032,2.10-2.50
+LAL @ DET,game over 222.5 + Duncan Robinson 10+ pra,2,0.4918,0.4515,2.21,2.33,2.07,-0.0673,1.016,1.85-2.10
+LAL @ DET,DET win + Duncan Robinson 10+ pra,2,0.5616,0.4804,2.08,2.19,1.94,-0.068,1.007,1.85-2.10
+LAL @ DET,DET -4.5 + Duncan Robinson 10+ pts,2,0.3931,0.3893,2.57,2.7,2.39,-0.0681,1.037,2.10-2.50
+LAL @ DET,DET -4.5 + Duncan Robinson 10+ pra,2,0.4486,0.4486,2.23,2.34,2.02,-0.0938,1.01,1.85-2.10
+LAL @ DET,Matisse Thybulle 3pm under 1.5 + Duncan Robinson 10+ pra,2,0.711,0.5196,1.92,2.02,1.73,-0.1021,0.999,1.65-1.85
+UTA @ MIN,MIN win + game over 223.5,2,0.5258,0.4105,2.44,2.56,2.24,-0.0785,1.005,2.10-2.50
+UTA @ MIN,MIN win + game under 223.5,2,0.3134,0.4055,2.47,2.59,2.24,-0.0897,0.992,2.10-2.50
+BKN @ DAL,DAL win + game under 219.5,2,0.291,0.3759,2.66,2.79,2.45,-0.0786,1.004,2.10-2.50
+BKN @ DAL,DAL win + game over 219.5,2,0.4516,0.3731,2.68,2.81,2.45,-0.0853,0.997,2.10-2.50
+BOS @ MIL,BOS win + game under 222.5,2,0.4182,0.4169,2.4,2.52,2.2,-0.0817,1.002,2.10-2.50
+BOS @ MIL,BOS win + game over 222.5,2,0.3917,0.4152,2.41,2.53,2.2,-0.0854,0.998,2.10-2.50
+MIA @ SAC,MIA win + game under 238.5,2,0.292,0.3785,2.64,2.77,2.43,-0.0788,1.004,2.10-2.50

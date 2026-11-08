@@ -1,0 +1,2 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401909946,LAL @ DET,moneyline,LAL,,,,draftkings,155.0,2.55,0.4165,2.4,0.3766,0.4632,-0.0468,4.13,0.062,0.4632,0.1813,0.0292,False,True,True,,,
