@@ -1,12 +1,12 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 PHI @ CHI,Jalen Smith pts under 11.5 + PHI win,2,0.467,0.4242,2.36,2.48,2.43,0.0325,1.037,2.10-2.50
-PHI @ CHI,Jaylen Brown 22+ pts + PHI win,2,0.415,0.4101,2.44,2.56,2.49,0.0225,1.051,2.10-2.50
-PHI @ CHI,PHI win + Matas Buzelis pts under 14.5,2,0.3692,0.4259,2.35,2.47,2.37,0.0094,1.063,2.10-2.50
-PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5569,0.5221,1.92,2.01,1.66,-0.1345,1.0,1.65-1.85
-PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Matas Buzelis 10+ pa,3,0.554,0.5212,1.92,2.01,1.65,-0.1406,0.994,1.50-1.65
-PHI @ CHI,PHI win + Matas Buzelis 15+ pra + Jaylen Brown 1+ 3pm,3,0.5441,0.504,1.98,2.08,1.7,-0.1409,0.992,1.65-1.85
+PHI @ CHI,Jaylen Brown 22+ pts + PHI win,2,0.415,0.4132,2.42,2.54,2.49,0.0303,1.06,2.10-2.50
+PHI @ CHI,Joel Embiid 22+ pts + PHI win,2,0.4229,0.4212,2.37,2.49,2.43,0.0253,1.057,2.10-2.50
+PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5607,0.5262,1.9,2.0,1.66,-0.1278,1.008,1.65-1.85
+PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Joel Embiid 6+ reb,3,0.547,0.5105,1.96,2.06,1.71,-0.1289,1.007,1.65-1.85
+PHI @ CHI,PHI win + Joel Embiid 6+ reb + Caleb Wilson 4+ reb,3,0.5447,0.5134,1.95,2.05,1.68,-0.1362,0.999,1.65-1.85
+PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Matas Buzelis 10+ pa,3,0.5536,0.5213,1.92,2.01,1.65,-0.1404,0.994,1.50-1.65
 PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Matas Buzelis 10+ pa,3,0.5499,0.523,1.91,2.01,1.63,-0.1497,0.984,1.50-1.65
-PHI @ CHI,PHI win + Matas Buzelis 15+ pra + Caleb Wilson 4+ reb,3,0.5401,0.5058,1.98,2.08,1.68,-0.15,0.983,1.65-1.85
 LAL @ DET,DET win + Quentin Grimes 3pm under 1.5,2,0.4376,0.3905,2.56,2.69,2.48,-0.0316,1.027,2.10-2.50
 LAL @ DET,DET win + Walker Kessler 2+ blk,2,0.4426,0.4206,2.38,2.5,2.24,-0.0573,1.001,2.10-2.50
 LAL @ DET,LAL +6.5 + Walker Kessler 1+ blk,2,0.5218,0.4151,2.41,2.53,2.22,-0.0801,0.997,2.10-2.50
@@ -16,18 +16,18 @@ LAL @ DET,Matisse Thybulle 3pm under 1.5 + Walker Kessler 1+ blk,2,0.6018,0.4344
 UTA @ MIN,game over 222.5 + MIN win,2,0.5732,0.4146,2.41,2.53,2.27,-0.0598,1.003,2.10-2.50
 UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4115,2.43,2.55,2.24,-0.0795,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 221.5,2,0.5886,0.4157,2.41,2.53,2.2,-0.0859,1.001,2.10-2.50
-BKN @ DAL,game over 222.5 + Day'Ron Sharpe 6+ reb,2,0.499,0.394,2.54,2.66,2.39,-0.0593,1.025,2.10-2.50
-BKN @ DAL,game over 222.5 + Julius Randle 4+ reb,2,0.5311,0.4363,2.29,2.41,2.13,-0.0702,1.017,2.10-2.50
-BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6852,0.4685,2.13,2.24,1.97,-0.0762,0.993,1.85-2.10
+BKN @ DAL,game over 222.5 + Day'Ron Sharpe 6+ reb,2,0.499,0.3942,2.54,2.66,2.39,-0.0593,1.025,2.10-2.50
+BKN @ DAL,game over 222.5 + Julius Randle 4+ reb,2,0.5311,0.4368,2.29,2.4,2.13,-0.0702,1.017,2.10-2.50
+BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6852,0.4691,2.13,2.24,1.97,-0.0764,0.993,1.85-2.10
 BKN @ DAL,game over 222.5 + Michael Porter Jr. 4+ reb,2,0.5304,0.4419,2.26,2.38,2.09,-0.0783,1.009,1.85-2.10
-BKN @ DAL,DAL win + Day'Ron Sharpe 8+ reb,2,0.5309,0.3954,2.53,2.66,2.33,-0.0796,0.997,2.10-2.50
-BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6051,1.65,1.74,1.51,-0.0884,1.001,1.50-1.65
-BKN @ DAL,Day'Ron Sharpe 21+ pra + Julius Randle 4+ reb,2,0.6185,0.4326,2.31,2.43,2.1,-0.0936,1.004,1.85-2.10
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Day'Ron Sharpe 6+ reb,2,0.7474,0.4957,2.02,2.12,1.83,-0.0943,0.998,1.65-1.85
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.8034,0.5544,1.8,1.89,1.63,-0.0959,1.0,1.50-1.65
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.8084,0.5658,1.77,1.86,1.6,-0.0969,1.0,1.50-1.65
+BKN @ DAL,DAL win + Day'Ron Sharpe 8+ reb,2,0.5309,0.396,2.53,2.65,2.33,-0.0783,0.997,2.10-2.50
+BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6058,1.65,1.73,1.5,-0.0885,1.001,1.50-1.65
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Day'Ron Sharpe 6+ reb,2,0.7474,0.4966,2.01,2.11,1.82,-0.0945,0.998,1.65-1.85
+BKN @ DAL,Day'Ron Sharpe 9+ pts + Julius Randle 4+ reb,2,0.5963,0.4539,2.2,2.31,1.99,-0.0954,1.006,1.85-2.10
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.8034,0.5557,1.8,1.89,1.63,-0.0961,1.0,1.50-1.65
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.8084,0.5665,1.77,1.85,1.59,-0.0971,1.0,1.50-1.65
 BKN @ DAL,Cooper Flagg 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.6672,0.5039,1.98,2.08,1.78,-0.1031,1.001,1.65-1.85
-BKN @ DAL,Cooper Flagg 3pm under 1.5 + Julius Randle 4+ reb,2,0.6615,0.4927,2.03,2.13,1.82,-0.1041,0.999,1.65-1.85
+BKN @ DAL,Cooper Flagg 3pm under 1.5 + Julius Randle 4+ reb,2,0.6615,0.4932,2.03,2.13,1.82,-0.1042,0.999,1.65-1.85
 BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pr,2,0.4419,0.413,2.42,2.54,2.31,-0.0463,1.04,2.10-2.50
 BOS @ MIL,game under 222.5 + BOS win,2,0.4243,0.4279,2.34,2.45,2.22,-0.0482,1.009,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5248,0.4328,2.31,2.43,2.2,-0.0499,1.035,2.10-2.50
