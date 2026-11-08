@@ -6,10 +6,9 @@ LAL @ DET,game under 217.5 + Walker Kessler 1+ blk,2,0.379,0.4149,2.41,2.53,2.19
 LAL @ DET,Austin Reaves ast under 6.5 + Walker Kessler 1+ blk,2,0.618,0.4341,2.3,2.42,2.08,-0.099,0.999,1.85-2.10
 LAL @ DET,Jake LaRavia ra under 6.5 + Walker Kessler 1+ blk,2,0.6456,0.4574,2.19,2.3,1.97,-0.0997,0.997,1.85-2.10
 LAL @ DET,Matisse Thybulle 3pm under 1.5 + Walker Kessler 1+ blk,2,0.6018,0.4328,2.31,2.43,2.08,-0.1016,0.998,1.85-2.10
-UTA @ MIN,game over 222.5 + MIN win,2,0.5732,0.4146,2.41,2.53,2.27,-0.0598,1.003,2.10-2.50
-UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4115,2.43,2.55,2.24,-0.0795,0.995,2.10-2.50
-UTA @ MIN,MIN win + Rudy Gobert reb under 11.5,2,0.5494,0.4376,2.29,2.4,2.09,-0.0851,1.002,1.85-2.10
-UTA @ MIN,MIN win + game over 221.5,2,0.5886,0.4157,2.41,2.53,2.2,-0.0859,1.001,2.10-2.50
+UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4106,2.44,2.56,2.24,-0.0815,0.995,2.10-2.50
+UTA @ MIN,MIN win + game over 222.5,2,0.5732,0.4155,2.41,2.53,2.21,-0.0825,1.003,2.10-2.50
+UTA @ MIN,MIN win + game under 221.5,2,0.2746,0.41,2.44,2.56,2.24,-0.0829,0.998,2.10-2.50
 BKN @ DAL,game over 223.5 + Day'Ron Sharpe 6+ reb,2,0.4802,0.3826,2.61,2.74,2.43,-0.07,1.025,2.10-2.50
 BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6852,0.4685,2.13,2.24,1.97,-0.0762,0.993,1.85-2.10
 BKN @ DAL,DAL win + Day'Ron Sharpe 8+ reb,2,0.5309,0.396,2.53,2.65,2.33,-0.0783,0.997,2.10-2.50
@@ -17,8 +16,8 @@ BKN @ DAL,game over 223.5 + Julius Randle 4+ reb,2,0.5116,0.4247,2.35,2.47,2.17,
 BKN @ DAL,DAL -7.5 + Day'Ron Sharpe 4+ reb,2,0.5795,0.4482,2.23,2.34,2.04,-0.0873,0.998,1.85-2.10
 BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6058,1.65,1.73,1.5,-0.0885,1.001,1.50-1.65
 BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Day'Ron Sharpe 6+ reb,2,0.7474,0.4957,2.02,2.12,1.83,-0.0943,0.998,1.65-1.85
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Julius Randle 4+ reb,2,0.5963,0.4539,2.2,2.31,1.99,-0.0954,1.006,1.85-2.10
 BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.8034,0.555,1.8,1.89,1.63,-0.096,1.0,1.50-1.65
+BKN @ DAL,Day'Ron Sharpe 12+ ra + Julius Randle 4+ reb,2,0.594,0.4353,2.3,2.41,2.08,-0.0962,1.006,1.85-2.10
 BKN @ DAL,DAL win + Julius Randle 4+ reb + Day'Ron Sharpe 4+ reb,3,0.6892,0.5402,1.85,1.94,1.58,-0.1443,0.999,1.50-1.65
 BOS @ MIL,game under 222.5 + BOS win,2,0.4243,0.4279,2.34,2.45,2.22,-0.0482,1.009,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5248,0.4378,2.28,2.4,2.17,-0.051,1.035,2.10-2.50
