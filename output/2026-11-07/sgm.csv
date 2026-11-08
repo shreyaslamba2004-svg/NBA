@@ -1,4 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+ORL @ GSW,Draymond Green 5+ pts + Wendell Carter Jr. 10+ pa,2,0.5375,0.4265,2.34,2.46,2.26,-0.038,1.0,2.10-2.50
+ORL @ GSW,ORL +7.5 + Wendell Carter Jr. 10+ pa,2,0.3836,0.4224,2.37,2.49,2.26,-0.0472,1.042,2.10-2.50
+ORL @ GSW,Jase Richardson 10+ pts + Wendell Carter Jr. 10+ pa,2,0.531,0.423,2.36,2.48,2.25,-0.05,1.013,2.10-2.50
+ORL @ GSW,Jase Richardson 10+ pts + Draymond Green 5+ pr,2,0.5711,0.4583,2.18,2.29,2.05,-0.0607,1.002,1.85-2.10
+ORL @ GSW,De'Anthony Melton pts under 8.5 + Draymond Green 5+ pr,2,0.504,0.4542,2.2,2.31,2.05,-0.0691,1.0,1.85-2.10
+ORL @ GSW,Jamal Cain 8+ pts + Draymond Green 5+ pr,2,0.6469,0.4657,2.15,2.25,1.98,-0.0796,0.999,1.85-2.10
 HOU @ PHX,game over 223.5 + Jabari Smith Jr. 15+ pr,2,0.4815,0.4021,2.49,2.61,2.37,-0.0469,1.033,2.10-2.50
 HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5412,0.4184,2.39,2.51,2.27,-0.0481,1.017,2.10-2.50
 HOU @ PHX,game over 223.5 + Dillon Brooks 15+ pra,2,0.4825,0.425,2.35,2.47,2.24,-0.0499,1.035,2.10-2.50
