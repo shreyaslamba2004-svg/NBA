@@ -1,12 +1,11 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 PHI @ CHI,Jalen Smith pts under 11.5 + PHI win,2,0.42,0.4216,2.37,2.49,2.43,0.0262,1.043,2.10-2.50
 PHI @ CHI,Jaylen Brown 22+ pts + PHI win,2,0.3903,0.4057,2.46,2.59,2.49,0.0117,1.048,2.10-2.50
-PHI @ CHI,Matas Buzelis pts under 14.5 + PHI win,2,0.3609,0.4251,2.35,2.47,2.37,0.0075,1.058,2.10-2.50
-PHI @ CHI,PHI win + VJ Edgecombe 1+ 3pm,2,0.6077,0.6174,1.62,1.7,1.5,-0.0735,1.011,1.50-1.65
-PHI @ CHI,PHI win + VJ Edgecombe 1+ 3pm + Joel Embiid 25+ pra,3,0.5454,0.5146,1.94,2.04,1.72,-0.1125,1.03,1.65-1.85
-PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Joel Embiid 25+ pra,3,0.5646,0.531,1.88,1.98,1.67,-0.1144,1.027,1.65-1.85
-PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + VJ Edgecombe 1+ 3pm,3,0.5367,0.5028,1.99,2.09,1.75,-0.1217,1.018,1.65-1.85
-PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Joel Embiid 25+ pra,3,0.569,0.5334,1.87,1.97,1.64,-0.1234,1.016,1.50-1.65
+PHI @ CHI,Joel Embiid 22+ pts + PHI win,2,0.4078,0.4126,2.42,2.55,2.43,0.0042,1.052,2.10-2.50
+PHI @ CHI,PHI win + VJ Edgecombe 1+ 3pm,2,0.6077,0.6159,1.62,1.7,1.5,-0.0732,1.011,1.50-1.65
+PHI @ CHI,PHI win + VJ Edgecombe 1+ 3pm + Jaylen Brown 1+ 3pm,3,0.5367,0.5037,1.99,2.08,1.74,-0.1217,1.018,1.65-1.85
+PHI @ CHI,PHI win + Caleb Wilson 4+ reb + VJ Edgecombe 1+ 3pm,3,0.5429,0.5056,1.98,2.08,1.73,-0.1272,1.011,1.65-1.85
+PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 1+ 3pm,3,0.5608,0.5242,1.91,2.0,1.66,-0.1313,1.007,1.65-1.85
 LAL @ DET,DET win + Quentin Grimes 3pm under 1.5,2,0.4376,0.3905,2.56,2.69,2.48,-0.0316,1.027,2.10-2.50
 LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5793,1.73,1.81,1.61,-0.0673,1.004,1.50-1.65
 LAL @ DET,game over 217.5 + Walker Kessler 1+ blk,2,0.5379,0.4214,2.37,2.49,2.18,-0.0817,1.006,2.10-2.50
@@ -34,6 +33,7 @@ BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5403,0.453,2.21,2.32,2.09,-0.
 BOS @ MIL,game over 222.5 + Kyle Kuzma 10+ pr,2,0.4258,0.3964,2.52,2.65,2.38,-0.056,1.041,2.10-2.50
 BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5238,0.4562,2.19,2.3,2.03,-0.075,1.011,1.85-2.10
 BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5624,0.4723,2.12,2.22,1.94,-0.0824,0.996,1.85-2.10
+BOS @ MIL,Ryan Rollins 6+ ra + Jayson Tatum 4+ reb,2,0.6428,0.502,1.99,2.09,1.78,-0.1042,1.002,1.65-1.85
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4242,2.36,2.48,2.26,-0.0435,1.033,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.4014,2.49,2.62,2.35,-0.0546,1.03,2.10-2.50
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694,1.037,2.10-2.50
