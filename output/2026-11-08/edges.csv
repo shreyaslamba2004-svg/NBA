@@ -1,4 +1,5 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401909947,UTA @ MIN,prop_pts,over,Brice Sensabaugh,1641729.0,9.5,draftkings,144.0,2.44,0.5003,2.0,0.383,0.5131,-0.0128,,0.2206,0.5121,0.2496,0.0433,False,True,True,,,
 401909949,BOS @ MIL,moneyline,MIL,,,,betfair_ex_au,589.0,6.89,0.1986,5.03,0.1422,0.1642,0.0344,2.05,0.3687,0.1642,0.1317,0.0056,False,True,True,,,
 401909951,MIA @ SAC,moneyline,SAC,,,,draftkings,394.0,4.94,0.2736,3.66,0.1945,0.2238,0.0498,4.06,0.3513,0.2238,0.1056,0.0067,False,True,True,Domantas Sabonis,0.2368,0.3098
 401909949,BOS @ MIL,moneyline,MIL,,,,draftkings,551.0,6.51,0.1986,5.03,0.1475,0.1642,0.0344,4.13,0.2932,0.1642,0.0693,0.0031,False,True,True,,,
@@ -13,6 +14,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909950,NOP @ LAC,prop_ast,over,Max Strus,1629622.0,5.5,draftkings,1440.0,15.4,0.125,8.0,0.0607,0.0607,0.0643,,0.925,0.0655,0.0089,0.0002,False,True,False,,,
 401909950,NOP @ LAC,prop_ast,over,Jeremiah Fears,1642847.0,7.5,draftkings,1860.0,19.6,0.0978,10.23,0.0477,0.0477,0.0501,,0.9159,0.0514,0.0082,0.0001,False,True,False,,,
 401909948,BKN @ DAL,moneyline,BKN,,,,betfair_ex_au,256.5,3.56,0.2136,4.68,0.272,0.2827,-0.0691,3.12,-0.2385,0.2827,0.0079,0.0008,False,True,True,,,
+401909947,UTA @ MIN,prop_pts,under,Ayo Dosunmu,1630245.0,18.5,draftkings,-105.0,1.95,0.5913,1.69,0.4787,0.5086,0.0827,,0.1544,0.5148,0.0051,0.0013,False,True,True,,,
 401909949,BOS @ MIL,prop_reb,over,Jayson Tatum,1628369.0,12.5,draftkings,1360.0,14.6,0.1267,7.89,0.064,0.064,0.0627,,0.8496,0.0687,0.0032,0.0001,False,False,False,,,
 401909949,BOS @ MIL,prop_reb,over,Jayson Tatum,1628369.0,11.5,draftkings,890.0,9.9,0.1847,5.41,0.0944,0.0944,0.0903,,0.829,0.1012,0.0017,0.0,False,True,False,Mitchell Robinson,0.2055,0.1576
 401909949,BOS @ MIL,prop_ast,over,Ryan Rollins,1631157.0,5.5,draftkings,587.0,6.87,0.2655,3.77,0.136,0.136,0.1295,,0.824,0.1457,0.0013,0.0001,False,True,False,,,
