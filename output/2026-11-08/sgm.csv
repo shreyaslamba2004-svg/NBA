@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4115,2.43,2.55,2.24,-0.0795,0.995,2.10-2.50
-UTA @ MIN,MIN win + game over 222.5,2,0.5732,0.4146,2.41,2.53,2.22,-0.0806,1.003,2.10-2.50
-UTA @ MIN,MIN win + game under 221.5,2,0.2746,0.4109,2.43,2.56,2.22,-0.0889,0.998,2.10-2.50
-UTA @ MIN,Ayo Dosunmu pra under 28.5 + LaMelo Ball 2+ 3pm,2,0.5556,0.4253,2.35,2.47,2.09,-0.11,0.995,1.85-2.10
-UTA @ MIN,Terrence Shannon Jr. pr under 14.5 + LaMelo Ball 2+ 3pm,2,0.5542,0.4268,2.34,2.46,2.08,-0.1103,0.995,1.85-2.10
-UTA @ MIN,Ayo Dosunmu pr under 23.5 + LaMelo Ball 2+ 3pm,2,0.5517,0.4282,2.34,2.45,2.08,-0.1107,0.996,1.85-2.10
+UTA @ MIN,MIN win + Darryn Peterson pr under 20.5,2,0.5506,0.4341,2.3,2.42,2.15,-0.0647,1.024,2.10-2.50
+UTA @ MIN,game under 222.5 + MIN win,2,0.284,0.4147,2.41,2.53,2.24,-0.0723,1.003,2.10-2.50
+UTA @ MIN,MIN win + Jaxson Hayes reb under 7.5,2,0.5855,0.4548,2.2,2.31,2.02,-0.0805,1.005,1.85-2.10
+UTA @ MIN,MIN win + Darryn Peterson reb under 4.5,2,0.5398,0.4169,2.4,2.52,2.2,-0.0833,1.001,2.10-2.50
+UTA @ MIN,Terrence Shannon Jr. pr under 14.5 + LaMelo Ball 2+ 3pm,2,0.5592,0.4279,2.34,2.45,2.09,-0.1069,0.998,1.85-2.10
+UTA @ MIN,Jaxson Hayes reb under 7.5 + LaMelo Ball 2+ 3pm,2,0.6009,0.454,2.2,2.31,1.97,-0.1072,0.997,1.85-2.10
 BKN @ DAL,game over 223.5 + Day'Ron Sharpe 6+ reb,2,0.4802,0.3854,2.6,2.72,2.42,-0.0675,1.025,2.10-2.50
 BKN @ DAL,DAL win + Noah Clowney 10+ pr,2,0.5794,0.3747,2.67,2.8,2.47,-0.0763,0.987,2.10-2.50
 BKN @ DAL,game over 223.5 + Julius Randle 4+ reb,2,0.5116,0.4225,2.37,2.49,2.19,-0.0764,1.018,2.10-2.50
