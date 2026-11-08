@@ -1,9 +1,9 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ DET,Collin Sexton 12+ pts + Walker Kessler 1+ blk,2,0.4032,0.4244,2.36,2.47,2.24,-0.0477,1.005,2.10-2.50
-LAL @ DET,Daniss Jenkins pts under 9.5 + Walker Kessler 1+ blk,2,0.4702,0.4103,2.44,2.56,2.3,-0.0563,1.0,2.10-2.50
-LAL @ DET,Ziaire Williams 9+ pts + Walker Kessler 1+ blk,2,0.5065,0.4195,2.38,2.5,2.24,-0.0586,1.004,2.10-2.50
-LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5582,0.5798,1.72,1.81,1.6,-0.0703,1.001,1.50-1.65
-LAL @ DET,John Collins pts under 11.5 + Walker Kessler 1+ blk,2,0.5478,0.4348,2.3,2.41,2.1,-0.088,1.001,1.85-2.10
+LAL @ DET,Collin Sexton 12+ pts + Walker Kessler 1+ blk,2,0.4092,0.4242,2.36,2.48,2.24,-0.0482,1.003,2.10-2.50
+LAL @ DET,Daniss Jenkins pts under 9.5 + Walker Kessler 1+ blk,2,0.4544,0.4099,2.44,2.56,2.3,-0.0572,1.002,2.10-2.50
+LAL @ DET,Austin Reaves pts under 25.5 + Walker Kessler 1+ blk,2,0.5109,0.4292,2.33,2.45,2.19,-0.0598,1.001,2.10-2.50
+LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5814,1.72,1.81,1.6,-0.0677,1.004,1.50-1.65
+LAL @ DET,John Collins pts under 11.5 + Walker Kessler 1+ blk,2,0.5549,0.4334,2.31,2.42,2.1,-0.0908,0.997,1.85-2.10
 UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4115,2.43,2.55,2.24,-0.0795,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 222.5,2,0.5732,0.4146,2.41,2.53,2.22,-0.0806,1.003,2.10-2.50
 UTA @ MIN,MIN win + game under 221.5,2,0.2746,0.4109,2.43,2.56,2.22,-0.0889,0.998,2.10-2.50
@@ -27,10 +27,10 @@ BOS @ MIL,game under 222.5 + BOS win,2,0.4243,0.4279,2.34,2.45,2.22,-0.0482,1.00
 BOS @ MIL,BOS win + Tyler Herro pts under 19.5,2,0.5043,0.4238,2.36,2.48,2.25,-0.0484,1.039,2.10-2.50
 BOS @ MIL,game over 221.5 + Jayson Tatum 4+ reb,2,0.4729,0.4584,2.18,2.29,2.06,-0.0547,1.011,1.85-2.10
 BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5238,0.4562,2.19,2.3,2.03,-0.075,1.011,1.85-2.10
-BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5624,0.4792,2.09,2.19,1.91,-0.0865,0.996,1.85-2.10
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4214,2.37,2.49,2.27,-0.0428,1.033,2.10-2.50
-NOP @ LAC,NOP win + Dejounte Murray 4+ ast,2,0.3961,0.4156,2.41,2.53,2.29,-0.0496,1.027,2.10-2.50
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.3988,2.51,2.63,2.37,-0.054,1.03,2.10-2.50
+BOS @ MIL,game under 222.5 + Jayson Tatum 4+ reb,2,0.4915,0.4426,2.26,2.37,2.06,-0.0874,0.989,1.85-2.10
+NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4221,2.37,2.49,2.27,-0.043,1.033,2.10-2.50
+NOP @ LAC,NOP win + Dejounte Murray 4+ ast,2,0.3961,0.4158,2.41,2.53,2.29,-0.0496,1.027,2.10-2.50
+NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.3994,2.5,2.63,2.37,-0.0542,1.03,2.10-2.50
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pa,2,0.4496,0.4715,2.12,2.23,1.98,-0.0641,1.011,1.85-2.10
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pa,2,0.6268,0.4468,2.24,2.35,2.07,-0.0739,1.009,1.85-2.10
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pa,2,0.4201,0.4482,2.23,2.34,2.03,-0.0915,1.012,1.85-2.10
