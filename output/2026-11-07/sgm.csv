@@ -1,18 +1,6 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-HOU @ PHX,game over 223.5 + Jabari Smith Jr. 15+ pr,2,0.4815,0.4021,2.49,2.61,2.37,-0.0469,1.033,2.10-2.50
-HOU @ PHX,game over 223.5 + Dillon Brooks 15+ pra,2,0.4825,0.425,2.35,2.47,2.24,-0.0499,1.035,2.10-2.50
-HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pts,2,0.4804,0.4201,2.38,2.5,2.25,-0.0536,1.03,2.10-2.50
-HOU @ PHX,HOU win + Jabari Smith Jr. 15+ pr,2,0.5922,0.5351,1.87,1.96,1.75,-0.0634,1.017,1.65-1.85
-HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pa,2,0.5023,0.4492,2.23,2.34,2.08,-0.0672,1.017,1.85-2.10
-HOU @ PHX,Jalen Green 16+ pts + Collin Gillespie 5+ pa,2,0.4756,0.4473,2.24,2.35,2.08,-0.0681,1.003,1.85-2.10
-HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pr,2,0.5156,0.4593,2.18,2.29,2.02,-0.0728,1.011,1.85-2.10
-HOU @ PHX,HOU win + Jabari Smith Jr. 4+ reb,2,0.602,0.5596,1.79,1.88,1.65,-0.0788,1.003,1.50-1.65
-HOU @ PHX,HOU win + Dillon Brooks 10+ pa,2,0.6126,0.5927,1.69,1.77,1.53,-0.0912,0.993,1.50-1.65
-HOU @ PHX,HOU win + Devin Booker 1+ 3pm,2,0.5681,0.5429,1.84,1.93,1.67,-0.0931,0.99,1.65-1.85
-HOU @ PHX,HOU win + Dillon Brooks 1+ 3pm,2,0.5809,0.5617,1.78,1.87,1.61,-0.0934,0.99,1.50-1.65
-HOU @ PHX,HOU win + Dillon Brooks 15+ pra,2,0.5757,0.5487,1.82,1.91,1.65,-0.0942,0.988,1.65-1.85
-SAS @ POR,game over 229.5 + Toumani Camara 10+ pr,2,0.3316,0.4124,2.42,2.55,2.29,-0.0556,1.044,2.10-2.50
-SAS @ POR,game over 229.5 + Deni Avdija 4+ ast,2,0.3362,0.4304,2.32,2.44,2.17,-0.0647,1.037,2.10-2.50
+SAS @ POR,game over 228.5 + Toumani Camara 10+ pr,2,0.35,0.4115,2.43,2.55,2.28,-0.0618,1.042,2.10-2.50
+SAS @ POR,game over 228.5 + Deni Avdija 4+ ast,2,0.3557,0.4305,2.32,2.44,2.16,-0.0686,1.037,2.10-2.50
 SAS @ POR,POR +5.5 + Toumani Camara 10+ pr,2,0.4439,0.4025,2.48,2.61,2.3,-0.0743,1.023,2.10-2.50
 SAS @ POR,SAS win + Sidy Cissoko 5+ pra,2,0.6111,0.5416,1.85,1.94,1.68,-0.0885,0.993,1.65-1.85
 SAS @ POR,Damian Lillard 8+ ra + Toumani Camara 10+ pr,2,0.6549,0.4472,2.24,2.35,2.04,-0.09,1.004,1.85-2.10
