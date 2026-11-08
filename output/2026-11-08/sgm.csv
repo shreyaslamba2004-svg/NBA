@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+LAL @ DET,DET win + Quentin Grimes ra under 6.5,2,0.4462,0.4009,2.49,2.62,2.38,-0.045,1.011,2.10-2.50
 LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5814,1.72,1.81,1.6,-0.0677,1.004,1.50-1.65
 LAL @ DET,Quentin Grimes pa under 14.5 + Walker Kessler 1+ blk,2,0.6426,0.4154,2.41,2.53,2.19,-0.09,0.999,2.10-2.50
 LAL @ DET,game under 217.5 + Walker Kessler 1+ blk,2,0.379,0.415,2.41,2.53,2.19,-0.0909,0.992,2.10-2.50
-LAL @ DET,LAL +7.5 + Walker Kessler 1+ blk,2,0.5491,0.4147,2.41,2.53,2.19,-0.0916,0.999,2.10-2.50
 LAL @ DET,Quentin Grimes pra under 18.5 + Walker Kessler 1+ blk,2,0.6786,0.4516,2.21,2.32,2.01,-0.0943,0.998,1.85-2.10
-LAL @ DET,Austin Reaves ast under 6.5 + Walker Kessler 1+ blk,2,0.618,0.4346,2.3,2.42,2.07,-0.0991,0.999,1.85-2.10
+LAL @ DET,Quentin Grimes ra under 6.5 + Walker Kessler 1+ blk,2,0.6648,0.4826,2.07,2.18,1.87,-0.0976,1.001,1.85-2.10
 LAL @ DET,Jake LaRavia ra under 6.5 + Walker Kessler 1+ blk,2,0.6456,0.458,2.18,2.29,1.97,-0.0998,0.997,1.85-2.10
 UTA @ MIN,MIN win + Darryn Peterson 3pm under 1.5,2,0.4924,0.3925,2.55,2.68,2.36,-0.0745,1.014,2.10-2.50
 UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4106,2.44,2.56,2.24,-0.0815,0.995,2.10-2.50
