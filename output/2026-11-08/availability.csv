@@ -1,5 +1,5 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909945,CHI,905105555,Tobe Awaka,Available,-,1.0,Awaka (knee) is questionable for Sundays' game against the 76ers.,,
+401909945,CHI,905105555,Tobe Awaka,Available,-,1.0,,,
 401909945,CHI,1641824,Matas Buzelis,,,1.0,,,
 401909945,CHI,1629651,Nic Claxton,Available,-,1.0,,,
 401909945,CHI,1628380,Zach Collins,Out,Injury/Illness-RespiratoryIllness,0.0,Collins (illness) is out for Sunday's game against Philadelphia.,,
@@ -12,7 +12,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909945,CHI,1630171,Isaac Okoro,,,1.0,,,
 401909945,CHI,1626181,Norman Powell,Out,,0.0,"Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",,
 401909945,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
-401909945,CHI,1630188,Jalen Smith,Available,-,1.0,Smith (finger) is probable for Sunday's game against Philadelphia.,,
+401909945,CHI,1630188,Jalen Smith,Available,-,1.0,,,
 401909945,CHI,904848625,Dailyn Swain,Out,Injury/Illness-RightDiscIrritation,0.0,,,
 401909945,CHI,1630172,Patrick Williams,,,1.0,,,
 401909945,CHI,905095151,Caleb Wilson,,,1.0,,,
