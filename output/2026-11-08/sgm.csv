@@ -1,9 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ DET,Collin Sexton 12+ pts + Walker Kessler 1+ blk,2,0.4092,0.4242,2.36,2.48,2.24,-0.0482,1.003,2.10-2.50
-LAL @ DET,Daniss Jenkins pts under 9.5 + Walker Kessler 1+ blk,2,0.4544,0.4099,2.44,2.56,2.3,-0.0572,1.002,2.10-2.50
-LAL @ DET,Austin Reaves pts under 25.5 + Walker Kessler 1+ blk,2,0.5109,0.4292,2.33,2.45,2.19,-0.0598,1.001,2.10-2.50
-LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5814,1.72,1.81,1.6,-0.0677,1.004,1.50-1.65
-LAL @ DET,John Collins pts under 11.5 + Walker Kessler 1+ blk,2,0.5549,0.4334,2.31,2.42,2.1,-0.0908,0.997,1.85-2.10
 UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4115,2.43,2.55,2.24,-0.0795,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 222.5,2,0.5732,0.4146,2.41,2.53,2.22,-0.0806,1.003,2.10-2.50
 UTA @ MIN,MIN win + game under 221.5,2,0.2746,0.4109,2.43,2.56,2.22,-0.0889,0.998,2.10-2.50
@@ -34,9 +29,6 @@ NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.3994,2.5,2.63,2.37
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pa,2,0.4496,0.4715,2.12,2.23,1.98,-0.0641,1.011,1.85-2.10
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pa,2,0.6268,0.4468,2.24,2.35,2.07,-0.0739,1.009,1.85-2.10
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pa,2,0.4201,0.4482,2.23,2.34,2.03,-0.0915,1.012,1.85-2.10
-MIA @ SAC,MIA win + Klay Thompson 15+ pa,2,0.3146,0.3927,2.55,2.67,2.46,-0.0359,1.053,2.10-2.50
 MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4537,0.4064,2.46,2.58,2.3,-0.0654,1.021,2.10-2.50
 MIA @ SAC,MIA win + game under 238.5,2,0.3188,0.392,2.55,2.68,2.37,-0.0722,1.006,2.10-2.50
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 10+ pr,2,0.6682,0.4706,2.12,2.23,1.91,-0.1006,0.998,1.85-2.10
-MIA @ SAC,MIA win + Klay Thompson 3pm under 3.5,2,0.5304,0.4626,2.16,2.27,1.94,-0.1042,0.978,1.85-2.10
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 4+ reb,2,0.635,0.4775,2.09,2.2,1.87,-0.108,0.996,1.85-2.10
+MIA @ SAC,MIA win + game over 238.5,2,0.4076,0.3847,2.6,2.73,2.39,-0.0814,0.995,2.10-2.50
