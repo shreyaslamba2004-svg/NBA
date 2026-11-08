@@ -1,6 +1,6 @@
 # NBA model · Sun 08 Nov 2026 (US date)
 
-Updated **Mon 09 Nov, 08:58 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 09 Nov, 09:03 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -37,7 +37,7 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | LAL @ DET | Mon 09 Nov 10:00 | 108.8–112.7 | LAL 39% | 2.56 / 1.64 | DET -4.5 | 221.5 | DET -7.5 covers 40%; o216.5 60% |
 | UTA @ MIN | Mon 09 Nov 11:00 | 106.6–124.1 | UTA 11% | 9.36 / 1.12 | MIN -17.5 | 230.5 | MIN -12.5 covers 64%; o221.5 69% |
-| BKN @ DAL | Mon 09 Nov 11:30 | 107.2–118.5 | BKN 21% | 4.68 / 1.27 | DAL -11.5 | 225.5 | DAL -7.5 covers 61%; o222.5 57% |
+| BKN @ DAL | Mon 09 Nov 11:30 | 107.2–118.5 | BKN 21% | 4.68 / 1.27 | DAL -11.5 | 225.5 | DAL -7.5 covers 61%; o223.5 55% |
 | BOS @ MIL | Mon 09 Nov 12:00 | 116.4–104.6 | BOS 80% | 1.25 / 5.04 | MIL +11.5 | 220.5 | MIL +13.5 covers 55%; o221.5 49% |
 | NOP @ LAC | Mon 09 Nov 13:00 | 116.3–117.5 | NOP 47% | 2.14 / 1.88 | LAC -1.5 | 233.5 | LAC +1.5 covers 56%; o226.5 65% |
 | MIA @ SAC | Mon 09 Nov 13:00 | 124.5–117.5 | MIA 69% | 1.45 / 3.23 | SAC +7.5 | 241.5 | SAC +10.5 covers 60%; o237.5 59% |
@@ -246,7 +246,7 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Mikel Brown Jr. (BKN), Egor
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Cooper Flagg | 98% | 33.0<br><sub>33,39,40,40,33</sub> | 23.1<br><sub>26,33,17,19,21</sub> | 24.5 · –<br><sub>o 50% · u 50%</sub> | 6.7<br><sub>5,9,4,10,10</sub> | 6.5<br><sub>o 55% · u 45%</sub> | 5.9<br><sub>8,6,6,5,7</sub> | 6.5<br><sub>o 43% · u 57%</sub> | 1.0<br><sub>2,0,0,0,1</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.4 | 1.0 | 2.8 | 35.7 |
 | Kyrie Irving | 98% | 32.3<br><sub>27,35,-,36,28</sub> | 22.2<br><sub>15,35,-,29,14</sub> | 20.5 · –<br><sub>o 50% · u 50%</sub> | 4.4<br><sub>2,4,-,7,2</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 4.8<br><sub>4,9,-,5,2</sub> | 4.5<br><sub>o 45% · u 55%</sub> | 2.9<br><sub>3,5,-,5,0</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.3 | 0.5 | 2.4 | 31.4 |
-| P.J. Washington | 98% | 31.8<br><sub>27,34,38,39,33</sub> | 15.5<br><sub>18,3,12,21,26</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 7.0<br><sub>9,10,5,10,6</sub> | 6.5<br><sub>o 51% · u 49%</sub> | 1.8<br><sub>0,1,1,3,1</sub> |  | 1.7<br><sub>2,1,2,3,6</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.1 | 0.9 | 1.6 | 24.3 |
+| P.J. Washington | 98% | 31.8<br><sub>27,34,38,39,33</sub> | 15.5<br><sub>18,3,12,21,26</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 7.0<br><sub>9,10,5,10,6</sub> | 6.5<br><sub>o 52% · u 48%</sub> | 1.8<br><sub>0,1,1,3,1</sub> |  | 1.7<br><sub>2,1,2,3,6</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.1 | 0.9 | 1.6 | 24.3 |
 | Naji Marshall | 88% | 24.8<br><sub>-,-,24,26,25</sub> | 13.0<br><sub>-,-,5,22,7</sub> | 11.5 · –<br><sub>o 50% · u 50%</sub> | 3.7<br><sub>-,-,2,5,1</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 3.9<br><sub>-,-,7,3,5</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 0.8<br><sub>-,-,0,3,0</sub> |  | 1.1 | 0.1 | 1.7 | 20.6 |
 | Daniel Gafford | 98% | 20.5<br><sub>27,29,26,18,18</sub> | 9.8<br><sub>7,18,20,2,7</sub> | 7.5 · –<br><sub>o 55% · u 45%</sub> | 6.2<br><sub>11,7,7,4,1</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 1.4<br><sub>2,2,0,1,1</sub> |  | 0.0<br><sub>1,0,0,0,0</sub> |  | 0.7 | 1.6 | 1.1 | 17.4 |
 | Zaccharie Risacher | 96% | 20.3<br><sub>29,28,19,18,21</sub> | 6.2<br><sub>13,12,0,2,4</sub> | 6.5 · –<br><sub>o 48% · u 52%</sub> | 3.7<br><sub>6,6,5,1,4</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.2<br><sub>1,3,1,2,1</sub> |  | 0.6<br><sub>2,3,0,0,0</sub> | 1.5<br><sub>o 33% · u 67%</sub> | 0.9 | 0.9 | 0.9 | 11.1 |
@@ -254,7 +254,7 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Mikel Brown Jr. (BKN), Egor
 | Max Christie | 98% | 15.2<br><sub>22,18,8,-,9</sub> | 6.0<br><sub>11,2,0,-,0</sub> |  | 1.8<br><sub>5,1,2,-,1</sub> |  | 1.1<br><sub>2,0,0,-,1</sub> |  | 0.9<br><sub>3,0,0,-,0</sub> |  | 0.5 | 0.2 | 0.8 | 8.9 |
 | Morez Johnson Jr. | 98% | 14.3<br><sub>18,17,17,18,24</sub> | 6.2<br><sub>10,2,13,8,13</sub> |  | 2.7<br><sub>6,2,2,3,17</sub> |  | 1.5<br><sub>3,1,1,1,2</sub> |  | 0.3<br><sub>0,0,0,1,1</sub> |  | 0.4 | 0.2 | 0.9 | 10.4 |
 | Santi Aldama | 96% | 14.0<br><sub>-,-,-,-,13</sub> | 6.3<br><sub>-,-,-,-,8</sub> |  | 3.5<br><sub>-,-,-,-,9</sub> |  | 1.3<br><sub>-,-,-,-,1</sub> |  | 0.6<br><sub>-,-,-,-,0</sub> |  | 0.5 | 0.4 | 0.7 | 11.2 |
-| Caleb Martin | 96% | 12.9<br><sub>14,25,21,20,11</sub> | 3.7<br><sub>10,8,5,0,0</sub> |  | 1.9<br><sub>2,0,6,3,0</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 0.9<br><sub>0,0,0,2,0</sub> |  | 0.3<br><sub>2,2,1,0,0</sub> |  | 0.6 | 0.3 | 0.6 | 6.5 |
+| Caleb Martin | 96% | 12.9<br><sub>14,25,21,20,11</sub> | 3.7<br><sub>10,8,5,0,0</sub> |  | 1.9<br><sub>2,0,6,3,0</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 0.9<br><sub>0,0,0,2,0</sub> |  | 0.3<br><sub>2,2,1,0,0</sub> |  | 0.6 | 0.3 | 0.6 | 6.5 |
 | Marcus Sasser | 72% | 8.7<br><sub>22,7,19,5,-</sub> | 3.3<br><sub>10,0,4,0,-</sub> |  | 0.8<br><sub>1,0,1,1,-</sub> |  | 1.4<br><sub>4,1,1,2,-</sub> |  | 0.4<br><sub>1,0,0,0,-</sub> |  | 0.3 | 0.1 | 0.5 | 5.5 |
 | Moussa Cisse | 64% | 6.7<br><sub>3,-,2,-,1</sub> | 2.6<br><sub>0,-,0,-,0</sub> |  | 2.5<br><sub>0,-,0,-,0</sub> |  | 0.2<br><sub>0,-,0,-,0</sub> |  | 0.0<br><sub>0,-,0,-,0</sub> |  | 0.3 | 0.5 | 0.4 | 5.2 |
 | Tobi Lawal | 58% | 5.8<br><sub>3,-,2,-,1</sub> | 2.0<br><sub>0,-,2,-,0</sub> |  | 1.1<br><sub>0,-,0,-,0</sub> |  | 0.7<br><sub>1,-,0,-,0</sub> |  | 0.2<br><sub>0,-,0,-,0</sub> |  | 0.2 | 0.1 | 0.3 | 3.8 |
