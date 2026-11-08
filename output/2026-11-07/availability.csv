@@ -1,19 +1,19 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909939,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
-401909939,ATL,1630700,Dyson Daniels,,,1.0,,,
+401909939,ATL,1629638,Nickeil Alexander-Walker,Starting,,1.0,,,1.0
+401909939,ATL,1630700,Dyson Daniels,Starting,,1.0,,,1.0
 401909939,ATL,1642484,RayJ Dennis,Out,GLeague-Two-Way,0.0,,,
 401909939,ATL,1629652,Luguentz Dort,,,1.0,,,
 401909939,ATL,905106262,Zuby Ejiofor,,,1.0,,,
 401909939,ATL,1627827,Dorian Finney-Smith,,,1.0,,,
-401909939,ATL,905149077,Kingston Flemings,,,1.0,,,
+401909939,ATL,905149077,Kingston Flemings,Starting,,1.0,,,1.0
 401909939,ATL,1642933,Keshon Gilbert,Out,Inflammation/Non-Surgical,0.0,Gilbert (knee) is out for Saturday's game against Brooklyn.,,
 401909939,ATL,1631243,Mouhamed Gueye,Out,Injury/Illness-LeftFootFracture,0.0,"Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",,
-401909939,ATL,1630552,Jalen Johnson,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
+401909939,ATL,1630552,Jalen Johnson,Starting,Injury/Illness-LeftAnkleSprain,1.0,,,1.0
 401909939,ATL,1630557,Corey Kispert,,,1.0,,,
 401909939,ATL,1629111,Jock Landale,Out,Injury/Illness-LeftHipStrain,0.0,Landale (hip) has been ruled out for Saturday's game against the Nets.,,
 401909939,ATL,203468,CJ McCollum,,,1.0,,,
 401909939,ATL,1642854,Asa Newell,Out,,0.0,Newell (toe)  is out for Saturday's game against the Nets.,,
-401909939,ATL,1630168,Onyeka Okongwu,,,1.0,,,
+401909939,ATL,1630168,Onyeka Okongwu,Starting,,1.0,,,1.0
 401909939,ATL,905105571,Henri Veesaar,Out,Injury/Illness-RightACLTear,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
 401909939,ATL,1630598,Aaron Wiggins,,,1.0,,,
 401909939,ATL,1630592,Jalen Wilson,Available,GLeague-Two-Way,1.0,,,
@@ -27,20 +27,21 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909939,BKN,1629611,Terance Mann,,,1.0,,,
 401909939,BKN,1631169,Josh Minott,,,1.0,,,
 401909939,BKN,1641761,Grant Nelson,Out,GLeague-Two-Way,0.0,,,
-401909939,BKN,1629008,Michael Porter Jr.,,,1.0,,,
+401909939,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
 401909939,BKN,1642962,Drake Powell,Available,GLeague-OnAssignment,1.0,,,
-401909939,BKN,203944,Julius Randle,,,1.0,,,
+401909939,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
 401909939,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909939,BKN,1630549,Day'Ron Sharpe,Day-To-Day,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",0.7,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",,
-401909939,BKN,1642849,Nolan Traore,,,1.0,,,
+401909939,BKN,1630549,Day'Ron Sharpe,Starting,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",1.0,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",,1.0
+401909939,BKN,1642849,Nolan Traore,Starting,,1.0,,,1.0
 401909939,BKN,1629021,Moritz Wagner,,,1.0,,,
-401909939,BKN,1642874,Danny Wolf,,,1.0,,,
+401909939,BKN,1642874,Danny Wolf,Starting,,1.0,,,1.0
 401909940,CLE,1628386,Jarrett Allen,Out,Injury/Illness-RightKneeContusion,0.0,Allen (knee) is out for Saturday's game against the Knicks,,
 401909940,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909940,CLE,1642400,Tristan Enaruna,Out,GLeague-Two-Way,0.0,,,
 401909940,CLE,201935,James Harden,,,1.0,,,
 401909940,CLE,1626209,Mario Hezonja,,,1.0,,,
 401909940,CLE,1630241,Sam Merrill,Out,,0.0,Merrill (elbow) is out for Saturday's game against the Knicks.,,
+401909940,CLE,1642434,Riley Minix,,,1.0,,,
 401909940,CLE,1628378,Donovan Mitchell,,,1.0,,,
 401909940,CLE,1630596,Evan Mobley,,,1.0,,,
 401909940,CLE,1641807,Norchad Omier,,,1.0,,,
