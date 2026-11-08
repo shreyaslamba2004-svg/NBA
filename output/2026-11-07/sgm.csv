@@ -1,33 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NYK @ CLE,Jalen Brunson pts under 25.5 + Miles McBride 5+ pra,2,0.5057,0.4053,2.47,2.59,2.37,-0.0382,0.995,2.10-2.50
-NYK @ CLE,Jalen Brunson pts under 25.5 + Landry Shamet 1+ 3pm,2,0.5056,0.4122,2.43,2.55,2.33,-0.0394,0.996,2.10-2.50
-NYK @ CLE,Evan Mobley pts under 17.5 + Miles McBride 5+ pra,2,0.5412,0.4251,2.35,2.47,2.23,-0.0531,0.998,2.10-2.50
-NYK @ CLE,NYK win + Miles McBride 5+ pra,2,0.6452,0.5394,1.85,1.95,1.73,-0.0686,1.012,1.65-1.85
-NYK @ CLE,NYK win + Landry Shamet 1+ 3pm,2,0.6415,0.5454,1.83,1.93,1.7,-0.075,1.007,1.65-1.85
-NYK @ CLE,Peyton Watson 12+ pts + Landry Shamet 1+ 3pm,2,0.5138,0.4383,2.28,2.4,2.09,-0.0819,1.001,1.85-2.10
-NYK @ CLE,Mario Hezonja pts under 10.5 + Landry Shamet 1+ 3pm,2,0.5701,0.4486,2.23,2.34,2.04,-0.0854,1.0,1.85-2.10
-NYK @ CLE,NYK win + Miles McBride 5+ pra + Landry Shamet 1+ 3pm,3,0.5848,0.4555,2.2,2.31,1.93,-0.1187,1.019,1.85-2.10
-WAS @ OKC,Isaiah Hartenstein 9+ pts + OKC win,2,0.4184,0.4223,2.37,2.49,2.44,0.032,1.035,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 18.5 + OKC win,2,0.5532,0.4347,2.3,2.42,2.36,0.0264,1.029,2.10-2.50
-WAS @ OKC,Aday Mara 8+ pts + OKC win,2,0.4847,0.4862,2.06,2.16,2.1,0.0225,1.03,2.10-2.50
-WAS @ OKC,Aday Mara 8+ pts + Jared McCain 1+ 3pm,2,0.5709,0.4695,2.13,2.24,2.07,-0.0265,1.005,1.85-2.10
-WAS @ OKC,Aday Mara 8+ pts + Alex Caruso 5+ pa,2,0.611,0.4855,2.06,2.16,2.0,-0.027,1.001,1.85-2.10
-WAS @ OKC,Aday Mara 8+ pts + Kyshawn George 1+ 3pm,2,0.6039,0.4923,2.03,2.13,1.97,-0.0298,1.001,1.85-2.10
-WAS @ OKC,OKC win + Alex Caruso 5+ pa + Jared McCain 10+ pa,3,0.5779,0.5463,1.83,1.92,1.59,-0.1291,1.019,1.50-1.65
-WAS @ OKC,OKC win + Alex Caruso 5+ pa + Jared McCain 1+ 3pm,3,0.5944,0.559,1.79,1.88,1.55,-0.1358,1.011,1.50-1.65
-WAS @ OKC,OKC win + Kyshawn George 1+ 3pm + Jared McCain 10+ pa,3,0.5653,0.5482,1.82,1.92,1.57,-0.1404,1.008,1.50-1.65
-HOU @ PHX,game over 223.5 + Amen Thompson 15+ pa,2,0.452,0.4048,2.47,2.59,2.38,-0.0358,1.051,2.10-2.50
-HOU @ PHX,game over 223.5 + Jabari Smith Jr. 15+ pr,2,0.4815,0.4033,2.48,2.6,2.36,-0.0472,1.033,2.10-2.50
-HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5412,0.4228,2.37,2.48,2.25,-0.0491,1.017,2.10-2.50
-HOU @ PHX,HOU win + Amen Thompson 15+ pa,2,0.5548,0.5376,1.86,1.95,1.76,-0.0544,1.033,1.65-1.85
-HOU @ PHX,HOU win + Jabari Smith Jr. 15+ pr,2,0.5922,0.5366,1.86,1.96,1.74,-0.0637,1.017,1.65-1.85
-HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pa,2,0.5023,0.4498,2.22,2.33,2.07,-0.0673,1.017,1.85-2.10
-HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pr,2,0.5156,0.4598,2.17,2.28,2.02,-0.0729,1.011,1.85-2.10
+NYK @ CLE,Jalen Brunson pts under 25.5 + Miles McBride 5+ pra,2,0.4948,0.4045,2.47,2.6,2.37,-0.0401,0.995,2.10-2.50
+NYK @ CLE,Evan Mobley pts under 17.5 + Miles McBride 5+ pra,2,0.5272,0.4241,2.36,2.48,2.23,-0.0553,0.998,2.10-2.50
+NYK @ CLE,game over 223.5 + Miles McBride 5+ pra,2,0.4573,0.4178,2.39,2.51,2.23,-0.0694,1.015,2.10-2.50
+NYK @ CLE,NYK win + Miles McBride 5+ pra,2,0.6526,0.5372,1.86,1.95,1.73,-0.0723,1.007,1.65-1.85
+WAS @ OKC,Isaiah Hartenstein 9+ pts + OKC win,2,0.4388,0.4252,2.35,2.47,2.44,0.0392,1.039,2.10-2.50
+WAS @ OKC,AJ Dybantsa pts under 18.5 + OKC win,2,0.5531,0.4346,2.3,2.42,2.36,0.0262,1.029,2.10-2.50
+WAS @ OKC,Kenrich Williams 8+ pts + OKC win,2,0.4397,0.4376,2.29,2.4,2.32,0.0134,1.033,2.10-2.50
+WAS @ OKC,OKC win + Jared McCain 10+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.5555,0.5392,1.85,1.95,1.63,-0.1234,1.028,1.50-1.65
+WAS @ OKC,OKC win + Alex Caruso 5+ pa + Jared McCain 10+ pa,3,0.5888,0.5487,1.82,1.91,1.59,-0.1253,1.022,1.50-1.65
+WAS @ OKC,OKC win + Alex Caruso 5+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.6046,0.5717,1.75,1.84,1.52,-0.1291,1.019,1.50-1.65
+WAS @ OKC,OKC win + Jared McCain 10+ pa + AJ Dybantsa 4+ reb,3,0.5186,0.5018,1.99,2.09,1.72,-0.1368,1.012,1.65-1.85
+WAS @ OKC,OKC win + Jared McCain 1+ 3pm + AJ Dybantsa 4+ reb,3,0.5283,0.515,1.94,2.04,1.67,-0.1411,1.008,1.65-1.85
+HOU @ PHX,game over 223.5 + Jabari Smith Jr. 15+ pr,2,0.4815,0.4021,2.49,2.61,2.37,-0.0469,1.033,2.10-2.50
+HOU @ PHX,HOU win + Luke Kennard 3pm under 1.5,2,0.5412,0.4184,2.39,2.51,2.27,-0.0481,1.017,2.10-2.50
+HOU @ PHX,game over 223.5 + Dillon Brooks 15+ pra,2,0.4825,0.425,2.35,2.47,2.24,-0.0499,1.035,2.10-2.50
+HOU @ PHX,HOU win + Jabari Smith Jr. 15+ pr,2,0.5922,0.5351,1.87,1.96,1.75,-0.0634,1.017,1.65-1.85
+HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pa,2,0.5023,0.4492,2.23,2.34,2.08,-0.0672,1.017,1.85-2.10
+HOU @ PHX,game over 223.5 + Dillon Brooks 10+ pr,2,0.5156,0.4593,2.18,2.29,2.02,-0.0728,1.011,1.85-2.10
 HOU @ PHX,PHX +6.5 + Collin Gillespie 5+ pa,2,0.5068,0.4552,2.2,2.31,2.03,-0.0742,1.008,1.85-2.10
-HOU @ PHX,HOU win + Dillon Brooks 10+ pa,2,0.6126,0.5934,1.69,1.77,1.53,-0.0913,0.993,1.50-1.65
-HOU @ PHX,HOU win + Dillon Brooks 1+ 3pm,2,0.5809,0.5635,1.77,1.86,1.61,-0.0936,0.99,1.50-1.65
-HOU @ PHX,HOU win + Dillon Brooks 15+ pra,2,0.5757,0.5498,1.82,1.91,1.65,-0.0943,0.988,1.50-1.65
-HOU @ PHX,HOU win + Dillon Brooks 10+ pts,2,0.5749,0.5471,1.83,1.92,1.65,-0.0955,0.987,1.65-1.85
+HOU @ PHX,HOU win + Dillon Brooks 10+ pa,2,0.6126,0.5927,1.69,1.77,1.53,-0.0912,0.993,1.50-1.65
+HOU @ PHX,HOU win + Dillon Brooks 1+ 3pm,2,0.5809,0.5597,1.79,1.88,1.62,-0.0931,0.99,1.50-1.65
+HOU @ PHX,HOU win + Devin Booker 1+ 3pm,2,0.5681,0.5429,1.84,1.93,1.67,-0.0931,0.99,1.65-1.85
+HOU @ PHX,HOU win + Dillon Brooks 15+ pra,2,0.5757,0.5487,1.82,1.91,1.65,-0.0942,0.988,1.65-1.85
+HOU @ PHX,HOU win + Dillon Brooks 10+ pr + Jabari Smith Jr. 10+ pr,3,0.6264,0.5591,1.79,1.88,1.54,-0.1387,1.0,1.50-1.65
 SAS @ POR,game over 229.5 + Toumani Camara 10+ pr,2,0.3316,0.4121,2.43,2.55,2.29,-0.0555,1.044,2.10-2.50
 SAS @ POR,game over 229.5 + Deni Avdija 4+ ast,2,0.3362,0.4257,2.35,2.47,2.2,-0.0637,1.037,2.10-2.50
 SAS @ POR,POR +5.5 + Toumani Camara 10+ pr,2,0.4439,0.4022,2.49,2.61,2.3,-0.0741,1.023,2.10-2.50
