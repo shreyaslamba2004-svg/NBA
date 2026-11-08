@@ -10,9 +10,10 @@ PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5716,0.5046,1.
 PHI @ CHI,PHI win + Jaylen Brown 20+ pa + Matas Buzelis 10+ pa,3,0.5151,0.4735,2.11,2.22,1.93,-0.0871,1.008,1.85-2.10
 PHI @ CHI,Caleb Wilson 9+ ra + Matas Buzelis 10+ pa,2,0.5825,0.437,2.29,2.4,2.07,-0.0955,1.007,1.85-2.10
 PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Matas Buzelis 10+ pa,3,0.5484,0.4928,2.03,2.13,1.82,-0.1024,0.989,1.65-1.85
-LAL @ DET,Ausar Thompson 15+ pa + Walker Kessler 1+ blk,2,0.4308,0.4177,2.39,2.51,2.23,-0.0674,1.0,2.10-2.50
 LAL @ DET,DET win + Walker Kessler 2+ blk,2,0.4426,0.3723,2.69,2.82,2.5,-0.0708,1.001,2.10-2.50
-LAL @ DET,game over 221.5 + Walker Kessler 1+ blk,2,0.4572,0.4286,2.33,2.45,2.13,-0.086,1.006,2.10-2.50
+LAL @ DET,game over 221.5 + Walker Kessler 1+ blk,2,0.4572,0.4291,2.33,2.45,2.13,-0.0861,1.006,2.10-2.50
+LAL @ DET,DET -4.5 + Walker Kessler 1+ blk,2,0.449,0.4215,2.37,2.49,2.16,-0.0903,1.003,2.10-2.50
+LAL @ DET,Quentin Grimes ra under 6.5 + Walker Kessler 1+ blk,2,0.6648,0.463,2.16,2.27,1.96,-0.094,1.001,1.85-2.10
 UTA @ MIN,MIN win + game under 224.5,2,0.3252,0.399,2.51,2.63,2.34,-0.0652,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 223.5,2,0.5557,0.4161,2.4,2.52,2.24,-0.0664,1.004,2.10-2.50
 UTA @ MIN,MIN win + Ayo Dosunmu ra under 9.5,2,0.4901,0.3779,2.65,2.78,2.42,-0.0839,0.99,2.10-2.50
