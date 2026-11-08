@@ -23,10 +23,12 @@ BKN @ DAL,Cooper Flagg 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.6672,0.5039
 BKN @ DAL,Cooper Flagg 3pm under 1.5 + Julius Randle 4+ reb,2,0.6615,0.4943,2.02,2.12,1.81,-0.1043,0.999,1.65-1.85
 BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pr,2,0.4419,0.413,2.42,2.54,2.36,-0.0253,1.04,2.10-2.50
 BOS @ MIL,game under 222.5 + BOS win,2,0.4243,0.4279,2.34,2.45,2.22,-0.0482,1.009,2.10-2.50
-BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5248,0.4378,2.28,2.4,2.17,-0.051,1.035,2.10-2.50
-BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5403,0.453,2.21,2.32,2.09,-0.052,1.034,1.85-2.10
-BOS @ MIL,game over 221.5 + Jayson Tatum 4+ reb,2,0.4729,0.4588,2.18,2.29,2.06,-0.0548,1.011,1.85-2.10
+BOS @ MIL,BOS win + Tyler Herro pts under 19.5,2,0.5043,0.4238,2.36,2.48,2.25,-0.0484,1.039,2.10-2.50
+BOS @ MIL,game over 221.5 + Jayson Tatum 4+ reb,2,0.4729,0.4584,2.18,2.29,2.06,-0.0547,1.011,1.85-2.10
+BOS @ MIL,game over 221.5 + Kyle Kuzma 5+ pa,2,0.4867,0.4715,2.12,2.23,2.0,-0.0583,1.008,1.85-2.10
 BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5238,0.4562,2.19,2.3,2.03,-0.075,1.011,1.85-2.10
+BOS @ MIL,Jayson Tatum 7+ reb + Kyle Kuzma 5+ pa,2,0.6901,0.5248,1.91,2.0,1.71,-0.1019,1.001,1.65-1.85
+BOS @ MIL,Jayson Tatum 14+ ra + Kyle Kuzma 5+ pa,2,0.6342,0.493,2.03,2.13,1.82,-0.1026,1.002,1.65-1.85
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4242,2.36,2.48,2.26,-0.0435,1.033,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.4014,2.49,2.62,2.35,-0.0546,1.03,2.10-2.50
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pa,2,0.4496,0.4715,2.12,2.23,1.98,-0.0641,1.011,1.85-2.10
