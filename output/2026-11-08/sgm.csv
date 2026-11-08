@@ -4,8 +4,8 @@ PHI @ CHI,PHI win + Jaylen Brown 20+ pa,2,0.5991,0.59,1.69,1.78,1.67,-0.0126,1.0
 PHI @ CHI,PHI win + Jaylen Brown 25+ pra,2,0.6156,0.6105,1.64,1.72,1.61,-0.0182,1.02,1.50-1.65
 PHI @ CHI,PHI win + Jaylen Brown 15+ pts,2,0.6238,0.6175,1.62,1.7,1.59,-0.0183,1.02,1.50-1.65
 PHI @ CHI,PHI win + LeBron James 1+ stl,2,0.5222,0.5014,1.99,2.09,1.94,-0.0281,0.999,1.85-2.10
-PHI @ CHI,PHI -9.5 + Jaylen Brown 20+ pa,2,0.3944,0.393,2.54,2.67,2.44,-0.0419,1.044,2.10-2.50
-PHI @ CHI,game over 237.5 + Jaylen Brown 25+ pra,2,0.2785,0.4303,2.32,2.44,2.22,-0.0461,1.069,2.10-2.50
+PHI @ CHI,game over 237.5 + Jaylen Brown 25+ pra,2,0.2785,0.4273,2.34,2.46,2.26,-0.0335,1.069,2.10-2.50
+PHI @ CHI,game over 237.5 + Jaylen Brown 20+ pa,2,0.2692,0.4102,2.44,2.56,2.35,-0.0345,1.067,2.10-2.50
 PHI @ CHI,LeBron James 1+ stl + Jaylen Brown 1+ 3pm,2,0.6429,0.5268,1.9,1.99,1.7,-0.1019,1.003,1.65-1.85
 PHI @ CHI,LeBron James 1+ stl + Jaylen Brown 15+ pts,2,0.6196,0.5216,1.92,2.01,1.72,-0.1051,1.002,1.65-1.85
 LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5207,1.92,2.02,1.76,-0.0832,1.004,1.65-1.85
@@ -31,10 +31,10 @@ BKN @ DAL,DAL win + Julius Randle 4+ reb + Michael Porter Jr. 4+ reb,3,0.6634,0.
 BOS @ MIL,Payton Pritchard 17+ pa + BOS win,2,0.4684,0.4407,2.27,2.38,2.27,-0.0012,1.03,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5248,0.4318,2.32,2.43,2.23,-0.0349,1.035,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pa under 24.5,2,0.4989,0.4338,2.31,2.42,2.22,-0.035,1.041,2.10-2.50
-BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5624,0.4709,2.12,2.23,1.97,-0.0717,0.996,1.85-2.10
-BOS @ MIL,game over 222.5 + Jayson Tatum 4+ reb,2,0.4556,0.4444,2.25,2.36,2.06,-0.0831,1.012,1.85-2.10
-BOS @ MIL,MIL +12.5 + Jayson Tatum 4+ reb,2,0.4903,0.4368,2.29,2.4,2.09,-0.0863,1.0,1.85-2.10
-BOS @ MIL,BOS win + Kyle Kuzma 10+ pr + Jayson Tatum 4+ reb,3,0.6475,0.5708,1.75,1.84,1.5,-0.1435,0.991,1.50-1.65
+BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5624,0.4644,2.15,2.26,2.0,-0.0704,0.996,1.85-2.10
+BOS @ MIL,BOS win + Ryan Rollins 6+ ra,2,0.538,0.4782,2.09,2.2,1.92,-0.0811,0.991,1.85-2.10
+BOS @ MIL,game over 222.5 + Jayson Tatum 4+ reb,2,0.4556,0.4431,2.26,2.37,2.07,-0.0828,1.012,1.85-2.10
+BOS @ MIL,Ryan Rollins 6+ ra + Jayson Tatum 4+ reb,2,0.6428,0.4994,2.0,2.1,1.8,-0.1032,1.002,1.65-1.85
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4176,2.39,2.51,2.25,-0.0621,1.033,2.10-2.50
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694,1.037,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.398,2.51,2.64,2.32,-0.0755,1.03,2.10-2.50
