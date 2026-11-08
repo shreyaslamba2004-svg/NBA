@@ -29,10 +29,10 @@ BOS @ MIL,game over 221.5 + Kyle Kuzma 5+ pa,2,0.4867,0.4715,2.12,2.23,2.0,-0.05
 BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5238,0.4562,2.19,2.3,2.03,-0.075,1.011,1.85-2.10
 BOS @ MIL,Jayson Tatum 7+ reb + Kyle Kuzma 5+ pa,2,0.6901,0.5248,1.91,2.0,1.71,-0.1019,1.001,1.65-1.85
 BOS @ MIL,Jayson Tatum 14+ ra + Kyle Kuzma 5+ pa,2,0.6342,0.493,2.03,2.13,1.82,-0.1026,1.002,1.65-1.85
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4242,2.36,2.48,2.26,-0.0435,1.033,2.10-2.50
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.4014,2.49,2.62,2.35,-0.0546,1.03,2.10-2.50
+NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4214,2.37,2.49,2.27,-0.0428,1.033,2.10-2.50
+NOP @ LAC,NOP win + Dejounte Murray 4+ ast,2,0.3961,0.4156,2.41,2.53,2.29,-0.0496,1.027,2.10-2.50
+NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.3988,2.51,2.63,2.37,-0.054,1.03,2.10-2.50
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pa,2,0.4496,0.4715,2.12,2.23,1.98,-0.0641,1.011,1.85-2.10
-NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694,1.037,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pa,2,0.6268,0.4468,2.24,2.35,2.07,-0.0739,1.009,1.85-2.10
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pa,2,0.4201,0.4482,2.23,2.34,2.03,-0.0915,1.012,1.85-2.10
 MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4326,0.4062,2.46,2.58,2.3,-0.0659,1.02,2.10-2.50
