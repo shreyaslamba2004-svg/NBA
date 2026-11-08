@@ -2523,8 +2523,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,0.5,False,0.8836,,model only,0.8836
 401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,1.5,False,0.6739,,model only,0.6739
 401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,2.5,False,0.4485,0.4493,book,0.4492
-401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,3.5,False,0.2649,0.2693,book,0.269
-401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,4.5,False,0.1412,0.1545,book,0.1535
+401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,3.5,False,0.2649,0.2709,book,0.2704
+401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,4.5,False,0.1412,0.1552,book,0.1542
 401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,reb,5.5,False,0.0683,0.0865,book,0.0851
 401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,ast,0.5,False,0.6547,,model only,0.6547
 401909947,UTA @ MIN,MIN,1641740,Jaylen Clark,ast,1.5,False,0.3133,,model only,0.3133
@@ -2685,15 +2685,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pra,23.5,False,0.3428,,model only,0.3428
 401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pra,24.5,False,0.2984,,model only,0.2984
 401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pra,25.5,False,0.257,,model only,0.257
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,16.5,False,0.6444,0.728,est,0.7217
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,17.5,False,0.5874,0.6778,est,0.671
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,18.5,False,0.5251,0.6202,est,0.6131
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,19.5,False,0.4664,0.5635,est,0.5562
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,20.5,True,0.4103,0.5068,book,0.4996
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,21.5,False,0.3594,0.4531,est,0.4461
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,22.5,False,0.311,0.4,est,0.3934
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,23.5,False,0.2662,0.3488,est,0.3426
-401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,24.5,False,0.2245,0.2995,est,0.2939
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,16.5,False,0.6444,0.7311,est,0.7246
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,17.5,False,0.5874,0.6811,est,0.6741
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,18.5,False,0.5251,0.6239,est,0.6165
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,19.5,False,0.4664,0.5673,est,0.5598
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,20.5,True,0.4103,0.5107,book,0.5032
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,21.5,False,0.3594,0.457,est,0.4497
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,22.5,False,0.311,0.4038,est,0.3968
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,23.5,False,0.2662,0.3524,est,0.3459
+401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pr,24.5,False,0.2245,0.3028,est,0.2969
 401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pa,6.5,False,0.8029,,model only,0.8029
 401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pa,7.5,False,0.7237,,model only,0.7237
 401909947,UTA @ MIN,MIN,203497,Rudy Gobert,pa,8.5,False,0.6405,,model only,0.6405
@@ -2783,13 +2783,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,pts,17.5,False,0.2866,0.3645,est,0.3587
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,pts,18.5,False,0.2423,0.3135,est,0.3082
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,pts,19.5,False,0.2025,0.2662,est,0.2614
-401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,2.5,False,0.894,0.8921,book,0.8922
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,3.5,False,0.7845,0.8148,book,0.8125
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,4.5,False,0.6461,0.7015,book,0.6973
-401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,5.5,True,0.5041,0.5659,book,0.5613
-401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,6.5,False,0.3667,0.4307,book,0.4259
+401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,5.5,False,0.5041,0.5666,book,0.5619
+401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,6.5,True,0.3667,0.4317,book,0.4268
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,7.5,False,0.2484,0.3095,book,0.3049
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,8.5,False,0.161,0.21,book,0.2063
+401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,reb,9.5,False,0.0987,0.1372,book,0.1343
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,ast,0.5,False,0.9118,0.8926,est,0.8941
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,ast,1.5,False,0.7234,0.6777,est,0.6811
 401909947,UTA @ MIN,MIN,1630228,Jonathan Kuminga,ast,2.5,True,0.4899,0.4357,book,0.4398
@@ -2936,9 +2936,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,stl,0.5,False,0.6655,0.6398,book,0.6417
 401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,stl,1.5,False,0.3203,0.3034,book,0.3047
 401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,stl,2.5,False,0.1207,0.1198,book,0.1199
-401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,blk,0.5,False,0.5887,0.53,book,0.5344
-401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,blk,1.5,False,0.2358,0.1976,book,0.2005
-401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,blk,2.5,False,0.0709,0.0677,book,0.0679
+401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,blk,0.5,False,0.5887,0.5317,book,0.536
+401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,blk,1.5,False,0.2358,0.2027,book,0.2052
+401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,blk,2.5,False,0.0709,0.0697,book,0.0698
 401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,pra,21.5,False,0.7052,0.7218,est,0.7206
 401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,pra,22.5,False,0.6601,0.678,est,0.6767
 401909947,UTA @ MIN,MIN,1630183,Jaden McDaniels,pra,23.5,False,0.6177,0.6367,est,0.6353
@@ -3082,15 +3082,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pra,26.5,False,0.3111,0.3789,est,0.3738
 401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pra,27.5,False,0.2723,0.3359,est,0.3311
 401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pra,28.5,False,0.2387,0.2976,est,0.2932
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,17.5,False,0.6426,0.7124,est,0.7071
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,18.5,False,0.5902,0.6649,est,0.6593
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,19.5,False,0.5357,0.6138,est,0.608
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,20.5,False,0.4808,0.5606,est,0.5546
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,21.5,True,0.4311,0.5107,book,0.5047
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,22.5,False,0.3835,0.4615,est,0.4557
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,23.5,False,0.3409,0.416,est,0.4104
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,24.5,False,0.2953,0.366,est,0.3606
-401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,25.5,False,0.2555,0.3211,est,0.3161
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,17.5,False,0.6426,0.7155,est,0.71
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,18.5,False,0.5902,0.6683,est,0.6624
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,19.5,False,0.5357,0.6174,est,0.6113
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,20.5,False,0.4808,0.5643,est,0.558
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,21.5,True,0.4311,0.5145,book,0.5082
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,22.5,False,0.3835,0.4653,est,0.4592
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,23.5,False,0.3409,0.4197,est,0.4138
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,24.5,False,0.2953,0.3695,est,0.3639
+401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pr,25.5,False,0.2555,0.3244,est,0.3192
 401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pa,13.5,False,0.6569,0.7157,est,0.7113
 401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pa,14.5,False,0.599,0.6627,est,0.6579
 401909947,UTA @ MIN,UTA,1642846,Ace Bailey,pa,15.5,False,0.5411,0.6079,est,0.6029
@@ -3703,13 +3703,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,reb,5.5,False,0.2251,0.3291,book,0.3213
 401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,reb,6.5,False,0.1259,0.2072,book,0.2011
 401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,reb,7.5,False,0.0655,0.1263,book,0.1217
-401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,1.5,False,0.9117,0.9104,est,0.9105
-401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,2.5,False,0.7859,0.7656,book,0.7671
-401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,3.5,False,0.6193,0.6078,book,0.6087
-401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,4.5,True,0.4469,0.4429,book,0.4432
-401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,5.5,False,0.2983,0.2967,book,0.2968
-401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,6.5,False,0.1852,0.1847,book,0.1847
-401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,7.5,False,0.1068,0.1113,book,0.111
+401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,1.5,False,0.9117,0.9111,est,0.9111
+401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,2.5,False,0.7859,0.7566,book,0.7588
+401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,3.5,False,0.6193,0.6008,book,0.6022
+401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,4.5,True,0.4469,0.445,book,0.4451
+401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,5.5,False,0.2983,0.2995,book,0.2994
+401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,6.5,False,0.1852,0.1935,book,0.1929
+401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,ast,7.5,False,0.1068,0.1183,book,0.1174
 401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,fg3m,0.5,False,0.7739,0.8005,book,0.7985
 401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,fg3m,1.5,True,0.4374,0.5343,book,0.527
 401909947,UTA @ MIN,UTA,905041955,Darryn Peterson,fg3m,2.5,False,0.1842,0.2885,book,0.2807
