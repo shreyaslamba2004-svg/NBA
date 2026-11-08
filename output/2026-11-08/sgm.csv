@@ -15,18 +15,19 @@ LAL @ DET,Quentin Grimes pa under 14.5 + Walker Kessler 1+ blk,2,0.6426,0.4385,2
 LAL @ DET,Quentin Grimes pra under 17.5 + Walker Kessler 1+ blk,2,0.634,0.4344,2.3,2.42,2.08,-0.0972,0.998,1.85-2.10
 LAL @ DET,Quentin Grimes pr under 14.5 + Walker Kessler 1+ blk,2,0.6118,0.4385,2.28,2.39,2.05,-0.0993,1.0,1.85-2.10
 LAL @ DET,game under 221.5 + Walker Kessler 1+ blk,2,0.4597,0.4113,2.43,2.55,2.19,-0.1001,0.994,2.10-2.50
+UTA @ MIN,MIN win + Darryn Peterson pr under 20.5,2,0.5618,0.4286,2.33,2.45,2.19,-0.0605,1.016,2.10-2.50
 UTA @ MIN,MIN win + game under 224.5,2,0.3252,0.399,2.51,2.63,2.34,-0.0652,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 223.5,2,0.5557,0.4161,2.4,2.52,2.24,-0.0664,1.004,2.10-2.50
-UTA @ MIN,MIN win + Ayo Dosunmu ra under 9.5,2,0.4901,0.3779,2.65,2.78,2.42,-0.0839,0.99,2.10-2.50
-BKN @ DAL,DAL win + Nolan Traore ast under 4.5,2,0.5476,0.4187,2.39,2.51,2.35,-0.0151,1.025,2.10-2.50
-BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6661,0.4863,2.06,2.16,1.97,-0.0396,0.995,1.85-2.10
-BKN @ DAL,DAL win + Cooper Flagg 3pm under 1.5,2,0.5493,0.4238,2.36,2.48,2.24,-0.0495,0.99,2.10-2.50
-BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.702,0.6274,1.59,1.67,1.51,-0.0522,1.001,1.50-1.65
-BKN @ DAL,DAL -8.5 + Julius Randle 4+ reb,2,0.5048,0.4244,2.36,2.47,2.16,-0.0835,1.003,2.10-2.50
-BKN @ DAL,Day'Ron Sharpe 17+ pr + Julius Randle 4+ reb,2,0.5815,0.4377,2.28,2.4,2.06,-0.098,1.001,1.85-2.10
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.7972,0.5586,1.79,1.88,1.61,-0.0984,0.999,1.50-1.65
-BKN @ DAL,Nolan Traore ast under 4.5 + Julius Randle 4+ reb,2,0.6387,0.4688,2.13,2.24,1.92,-0.0988,1.003,1.85-2.10
-BKN @ DAL,Cooper Flagg 3pm under 1.5 + Julius Randle 4+ reb,2,0.6603,0.4891,2.04,2.15,1.83,-0.1036,0.999,1.65-1.85
+BKN @ DAL,DAL win + Day'Ron Sharpe 8+ reb,2,0.5309,0.3969,2.52,2.65,2.42,-0.0388,0.997,2.10-2.50
+BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6852,0.4858,2.06,2.16,1.97,-0.0405,0.993,1.85-2.10
+BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6269,1.6,1.67,1.51,-0.0529,1.001,1.50-1.65
+BKN @ DAL,BKN +8.5 + Julius Randle 4+ reb,2,0.3865,0.4247,2.35,2.47,2.17,-0.0787,1.003,2.10-2.50
+BKN @ DAL,BKN +8.5 + Michael Porter Jr. 4+ reb,2,0.3891,0.4311,2.32,2.44,2.14,-0.0789,1.004,2.10-2.50
+BKN @ DAL,BKN +8.5 + Day'Ron Sharpe 4+ reb,2,0.4038,0.4475,2.23,2.35,2.06,-0.0804,1.002,1.85-2.10
+BKN @ DAL,game over 220.5 + Michael Porter Jr. 4+ reb,2,0.5699,0.4401,2.27,2.39,2.08,-0.0844,1.01,1.85-2.10
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.8034,0.5596,1.79,1.88,1.61,-0.0968,1.0,1.50-1.65
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Michael Porter Jr. 4+ reb,2,0.8084,0.5678,1.76,1.85,1.59,-0.0975,1.0,1.50-1.65
+BKN @ DAL,DAL win + Julius Randle 4+ reb + Michael Porter Jr. 4+ reb,3,0.6634,0.538,1.86,1.95,1.65,-0.1106,0.999,1.65-1.85
 BOS @ MIL,Payton Pritchard 17+ pa + BOS win,2,0.4684,0.4407,2.27,2.38,2.27,-0.0012,1.03,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5248,0.4318,2.32,2.43,2.23,-0.0349,1.035,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pa under 24.5,2,0.4989,0.4338,2.31,2.42,2.22,-0.035,1.041,2.10-2.50
