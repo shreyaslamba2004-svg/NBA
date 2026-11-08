@@ -6,13 +6,21 @@ BKN @ ATL,Kingston Flemings pts under 9.5 + Luguentz Dort 5+ pa,2,0.4575,0.4295,
 BKN @ ATL,ATL win + Luguentz Dort 5+ pa,2,0.6852,0.5943,1.68,1.77,1.57,-0.068,1.009,1.50-1.65
 BKN @ ATL,CJ McCollum 13+ pts + Luguentz Dort 5+ pa,2,0.5354,0.443,2.26,2.37,2.09,-0.075,1.005,1.85-2.10
 BKN @ ATL,Kingston Flemings 9+ pts + Luguentz Dort 5+ pa,2,0.5246,0.444,2.25,2.36,2.08,-0.0766,1.008,1.85-2.10
-WAS @ OKC,AJ Dybantsa pa under 20.5 + OKC win,2,0.5358,0.4174,2.4,2.52,2.32,-0.0333,1.034,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 18.5 + OKC win,2,0.5531,0.4305,2.32,2.44,2.23,-0.038,1.029,2.10-2.50
-WAS @ OKC,AJ Dybantsa pra under 26.5 + OKC win,2,0.514,0.4225,2.37,2.49,2.27,-0.0393,1.034,2.10-2.50
-WAS @ OKC,AJ Dybantsa pts under 18.5 + Alex Caruso 5+ pa,2,0.6988,0.4388,2.28,2.39,2.09,-0.0846,1.002,1.85-2.10
-WAS @ OKC,AJ Dybantsa pts under 18.5 + Kyshawn George 1+ 3pm,2,0.6866,0.4367,2.29,2.4,2.09,-0.089,0.998,1.85-2.10
-WAS @ OKC,AJ Dybantsa pr under 24.5 + Alex Caruso 5+ pa,2,0.6693,0.4449,2.25,2.36,2.04,-0.0906,1.002,1.85-2.10
-WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kyshawn George 10+ pts,3,0.5685,0.539,1.86,1.95,1.58,-0.1462,0.999,1.50-1.65
+NYK @ CLE,game over 223.5 + Miles McBride 5+ pra,2,0.4573,0.4178,2.39,2.51,2.23,-0.0694,1.015,2.10-2.50
+NYK @ CLE,NYK -5.5 + Miles McBride 5+ pra,2,0.5225,0.4168,2.4,2.52,2.23,-0.0717,1.012,2.10-2.50
+NYK @ CLE,NYK win + Karl-Anthony Towns 1+ stl,2,0.4628,0.3736,2.68,2.81,2.48,-0.0721,1.001,2.10-2.50
+NYK @ CLE,NYK win + Miles McBride 5+ pra,2,0.6526,0.5372,1.86,1.95,1.73,-0.0723,1.007,1.65-1.85
+NYK @ CLE,Landry Shamet reb under 2.5 + Miles McBride 5+ pra,2,0.6119,0.4609,2.17,2.28,1.94,-0.1039,1.001,1.85-2.10
+NYK @ CLE,Karl-Anthony Towns 1+ stl + Miles McBride 5+ pra,2,0.5975,0.4771,2.1,2.2,1.87,-0.1068,0.999,1.85-2.10
+NYK @ CLE,Mikal Bridges pr under 13.5 + Miles McBride 5+ pra,2,0.5571,0.4297,2.33,2.44,2.07,-0.1113,0.995,1.85-2.10
+WAS @ OKC,AJ Dybantsa pts under 18.5 + OKC win,2,0.5531,0.4256,2.35,2.47,2.26,-0.0366,1.029,2.10-2.50
+WAS @ OKC,AJ Dybantsa pra under 26.5 + OKC win,2,0.514,0.4191,2.39,2.51,2.29,-0.0385,1.034,2.10-2.50
+WAS @ OKC,AJ Dybantsa pa under 21.5 + OKC win,2,0.5666,0.4474,2.23,2.35,2.15,-0.0388,1.03,2.10-2.50
+WAS @ OKC,OKC win + Alex Caruso 10+ pa,2,0.4807,0.454,2.2,2.31,2.09,-0.0518,1.034,1.85-2.10
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 10+ ra,2,0.4785,0.4532,2.21,2.32,2.07,-0.0626,1.023,1.85-2.10
+WAS @ OKC,AJ Dybantsa pa under 21.5 + Alex Caruso 5+ pa,2,0.7155,0.4537,2.2,2.31,2.02,-0.0856,1.002,1.85-2.10
+WAS @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + AJ Dybantsa 4+ reb,3,0.5347,0.5078,1.97,2.07,1.7,-0.1343,1.013,1.65-1.85
+WAS @ OKC,OKC win + Alex Caruso 5+ pa + AJ Dybantsa 4+ reb,3,0.5653,0.5393,1.85,1.95,1.59,-0.1418,1.005,1.50-1.65
 ORL @ GSW,ORL +7.5 + Tristan da Silva 10+ pts,2,0.3623,0.4008,2.5,2.62,2.34,-0.063,1.045,2.10-2.50
 ORL @ GSW,game over 219.5 + Tristan da Silva 10+ pts,2,0.529,0.3934,2.54,2.67,2.38,-0.0647,1.035,2.10-2.50
 ORL @ GSW,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.5666,0.4147,2.41,2.53,2.25,-0.0648,1.034,2.10-2.50
