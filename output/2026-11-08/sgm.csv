@@ -31,12 +31,12 @@ BKN @ DAL,Daniel Gafford 16+ pra + Julius Randle 4+ reb,2,0.5154,0.428,2.34,2.45
 BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.7972,0.5556,1.8,1.89,1.62,-0.0979,0.999,1.50-1.65
 BKN @ DAL,Nolan Traore ast under 4.5 + Julius Randle 4+ reb,2,0.6387,0.4693,2.13,2.24,1.92,-0.0989,1.003,1.85-2.10
 BKN @ DAL,Nolan Traore pa under 17.5 + Julius Randle 4+ reb,2,0.5979,0.4405,2.27,2.38,2.03,-0.1037,0.998,1.85-2.10
-BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5358,0.4594,2.18,2.29,2.1,-0.035,1.04,2.10-2.50
-BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5186,0.4433,2.26,2.37,2.18,-0.0352,1.04,2.10-2.50
-BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5274,0.4619,2.16,2.27,2.03,-0.0603,1.013,1.85-2.10
-BOS @ MIL,game over 222.5 + Kyle Kuzma 10+ pr,2,0.4317,0.4023,2.49,2.61,2.32,-0.0651,1.038,2.10-2.50
-BOS @ MIL,Myles Turner 17+ pra + Jayson Tatum 4+ reb,2,0.4613,0.4399,2.27,2.39,2.08,-0.0839,1.004,1.85-2.10
-BOS @ MIL,MIL +12.5 + Jayson Tatum 4+ reb,2,0.4849,0.4397,2.27,2.39,2.08,-0.0843,1.002,1.85-2.10
+BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5358,0.4465,2.24,2.35,2.17,-0.0322,1.04,2.10-2.50
+BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5186,0.4328,2.31,2.43,2.23,-0.0327,1.04,2.10-2.50
+BOS @ MIL,BOS win + Payton Pritchard 4+ ast,2,0.5066,0.456,2.19,2.3,2.08,-0.0527,1.019,1.85-2.10
+BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5274,0.4547,2.2,2.31,2.07,-0.0589,1.013,1.85-2.10
+BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5654,0.4698,2.13,2.24,1.99,-0.0655,1.002,1.85-2.10
+BOS @ MIL,game over 222.5 + Kyle Kuzma 10+ pr,2,0.4317,0.405,2.47,2.59,2.31,-0.0657,1.038,2.10-2.50
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4176,2.39,2.51,2.25,-0.0621,1.033,2.10-2.50
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694,1.037,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.398,2.51,2.64,2.32,-0.0755,1.03,2.10-2.50
@@ -44,10 +44,10 @@ MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4298,0.3823,2.62,2.75,2.45,-0.0631
 MIA @ SAC,SAC +8.5 + Darius Acuff Jr. 4+ ast,2,0.5124,0.4269,2.34,2.46,2.18,-0.0684,1.015,2.10-2.50
 MIA @ SAC,SAC +8.5 + Precious Achiuwa 10+ pr,2,0.4935,0.3864,2.59,2.72,2.41,-0.07,1.008,2.10-2.50
 MIA @ SAC,MIA win + Giannis Antetokounmpo 4+ ast,2,0.5858,0.5928,1.69,1.77,1.55,-0.0818,1.014,1.50-1.65
-MIA @ SAC,MIA win + Precious Achiuwa 4+ reb,2,0.5737,0.5785,1.73,1.81,1.57,-0.0926,1.002,1.50-1.65
+MIA @ SAC,MIA win + Precious Achiuwa 4+ reb,2,0.5737,0.577,1.73,1.82,1.57,-0.0924,1.002,1.50-1.65
 MIA @ SAC,MIA win + Precious Achiuwa 10+ pr,2,0.5954,0.5643,1.77,1.86,1.6,-0.0956,0.993,1.50-1.65
 MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 10+ pr,2,0.6504,0.4564,2.19,2.3,1.98,-0.0986,1.0,1.85-2.10
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 4+ reb,2,0.6215,0.4627,2.16,2.27,1.94,-0.103,1.0,1.85-2.10
 MIA @ SAC,MIA win + Klay Thompson 3pm under 3.5,2,0.4948,0.4305,2.32,2.44,2.08,-0.1031,0.977,1.85-2.10
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 4+ reb,2,0.6215,0.464,2.16,2.26,1.93,-0.1033,1.0,1.85-2.10
 MIA @ SAC,Klay Thompson 3pm under 3.5 + Darius Acuff Jr. 4+ ast,2,0.667,0.498,2.01,2.11,1.79,-0.1082,0.995,1.65-1.85
 MIA @ SAC,MIA win + Darius Acuff Jr. 4+ ast + Giannis Antetokounmpo 4+ ast,3,0.5264,0.4956,2.02,2.12,1.73,-0.1421,1.008,1.65-1.85
