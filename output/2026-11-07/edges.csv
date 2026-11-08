@@ -1,5 +1,6 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909941,WAS @ OKC,moneyline,WAS,,,,betfair_ex_au,475.0,5.75,0.2785,3.59,0.1703,0.1837,0.0948,2.09,0.6014,0.1837,0.0562,0.003,False,True,True,,,
+401909942,ORL @ GSW,moneyline,ORL,,,,draftkings,250.0,3.5,0.2423,4.13,0.2744,0.3015,-0.0592,4.12,-0.152,0.3015,0.0553,0.0055,False,True,True,,,
 401909941,WAS @ OKC,moneyline,WAS,,,,sportsbet,460.0,5.6,0.2785,3.59,0.1716,0.1837,0.0948,4.06,0.5596,0.1837,0.0286,0.0016,False,True,True,,,
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,2000.0,21.0,0.1039,9.63,0.0445,0.0445,0.0594,,1.1812,0.049,0.0281,0.0004,False,True,False,,,
 401909943,HOU @ PHX,prop_ast,over,Kevin Durant,201142.0,6.5,draftkings,1100.0,12.0,0.1798,5.56,0.0779,0.0779,0.1019,,1.1579,0.0855,0.0263,0.0006,False,False,False,,,
