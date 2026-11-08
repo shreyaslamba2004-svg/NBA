@@ -6,17 +6,23 @@ PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm,2,0.6337,0.5784,1.73,1.82,1.59,-0.0783,1
 PHI @ CHI,Jaylen Brown 1+ 3pm + Tyrese Maxey 2+ 3pm,2,0.6943,0.5261,1.9,2.0,1.7,-0.1042,1.001,1.65-1.85
 PHI @ CHI,Tyrese Maxey 2+ 3pm + Josh Giddey 10+ pts,2,0.5362,0.4343,2.3,2.42,2.06,-0.1059,1.005,1.85-2.10
 PHI @ CHI,PHI win + Josh Giddey 10+ pts,2,0.4658,0.4544,2.2,2.31,1.93,-0.1244,0.966,1.85-2.10
-UTA @ MIN,game over 225.5 + LaMelo Ball 15+ pts,2,0.4707,0.3811,2.62,2.76,2.47,-0.0604,1.049,2.10-2.50
+LAL @ DET,game over 222.5 + Walker Kessler 1+ blk,2,0.4604,0.4234,2.36,2.48,2.18,-0.0749,1.008,2.10-2.50
+LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5255,0.4503,2.22,2.33,2.05,-0.0761,0.998,1.85-2.10
+LAL @ DET,game under 222.5 + Walker Kessler 1+ blk,2,0.4416,0.4167,2.4,2.52,2.18,-0.0896,0.992,2.10-2.50
+LAL @ DET,Matisse Thybulle 3pm under 1.5 + Walker Kessler 1+ blk,2,0.6708,0.4856,2.06,2.16,1.85,-0.1014,0.999,1.85-2.10
+LAL @ DET,LAL +4.5 + Walker Kessler 1+ blk,2,0.4829,0.4204,2.38,2.5,2.14,-0.1019,1.001,2.10-2.50
+LAL @ DET,Austin Reaves ast under 5.5 + Walker Kessler 1+ blk,2,0.5736,0.4373,2.29,2.4,2.04,-0.1095,0.995,1.85-2.10
 UTA @ MIN,UTA +11.5 + Keyonte George 15+ pts,2,0.3654,0.4226,2.37,2.48,2.22,-0.062,1.052,2.10-2.50
-UTA @ MIN,game over 225.5 + Keyonte George 15+ pts,2,0.4884,0.4062,2.46,2.59,2.31,-0.0629,1.049,2.10-2.50
+UTA @ MIN,game over 224.5 + LaMelo Ball 15+ pts,2,0.4857,0.3941,2.54,2.66,2.37,-0.0651,1.046,2.10-2.50
+UTA @ MIN,game over 224.5 + Keyonte George 15+ pts,2,0.5044,0.4204,2.38,2.5,2.22,-0.0668,1.047,2.10-2.50
 UTA @ MIN,MIN win + LaMelo Ball 20+ pts,2,0.4697,0.4454,2.25,2.36,2.07,-0.0769,1.025,1.85-2.10
-UTA @ MIN,game over 225.5 + Ayo Dosunmu 10+ pts,2,0.5248,0.4374,2.29,2.4,2.09,-0.0845,1.025,1.85-2.10
-UTA @ MIN,MIN -11.5 + Ayo Dosunmu 10+ pts,2,0.5056,0.434,2.3,2.42,2.09,-0.0917,1.019,1.85-2.10
-UTA @ MIN,MIN win + Keyonte George 2+ 3pm,2,0.5318,0.5075,1.97,2.07,1.75,-0.1126,0.986,1.65-1.85
-UTA @ MIN,LaMelo Ball 3+ 3pm + Keyonte George 1+ 3pm,2,0.6568,0.573,1.75,1.83,1.55,-0.1145,1.002,1.50-1.65
-UTA @ MIN,LaMelo Ball 3+ 3pm + Ayo Dosunmu 10+ pts,2,0.6554,0.588,1.7,1.79,1.5,-0.1154,1.003,1.50-1.65
-UTA @ MIN,Keyonte George 2+ 3pm + Ace Bailey 1+ 3pm,2,0.5396,0.5198,1.92,2.02,1.69,-0.1219,1.002,1.65-1.85
-UTA @ MIN,Keyonte George 2+ 3pm + Ayo Dosunmu 10+ pts,2,0.5649,0.5439,1.84,1.93,1.61,-0.1229,1.001,1.50-1.65
+UTA @ MIN,game over 224.5 + Ayo Dosunmu 10+ pts,2,0.5426,0.4512,2.22,2.33,2.02,-0.0872,1.024,1.85-2.10
+UTA @ MIN,game over 224.5 + Keyonte George 1+ 3pm,2,0.5416,0.4394,2.28,2.39,2.07,-0.0902,1.018,1.85-2.10
+UTA @ MIN,MIN win + Keyonte George 2+ 3pm,2,0.5318,0.5083,1.97,2.07,1.75,-0.1128,0.986,1.65-1.85
+UTA @ MIN,LaMelo Ball 3+ 3pm + Keyonte George 1+ 3pm,2,0.6568,0.5724,1.75,1.83,1.55,-0.1144,1.002,1.50-1.65
+UTA @ MIN,LaMelo Ball 3+ 3pm + Ayo Dosunmu 10+ pts,2,0.6554,0.5855,1.71,1.79,1.51,-0.1151,1.003,1.50-1.65
+UTA @ MIN,Keyonte George 2+ 3pm + Ace Bailey 1+ 3pm,2,0.5396,0.5205,1.92,2.02,1.69,-0.122,1.002,1.65-1.85
+UTA @ MIN,Keyonte George 2+ 3pm + Ayo Dosunmu 10+ pts,2,0.5649,0.5424,1.84,1.94,1.62,-0.1227,1.001,1.50-1.65
 BKN @ DAL,DAL win + Kyrie Irving 21+ pts,2,0.3988,0.3919,2.55,2.68,2.41,-0.056,1.044,2.10-2.50
 BKN @ DAL,DAL win + Kyrie Irving 3+ 3pm,2,0.4242,0.4241,2.36,2.48,2.18,-0.0749,1.026,2.10-2.50
 BKN @ DAL,DAL win + game under 220.5,2,0.3072,0.3909,2.56,2.69,2.36,-0.0788,1.005,2.10-2.50
@@ -34,6 +40,6 @@ BOS @ MIL,MIL +12.5 + Kyle Kuzma 10+ pra,2,0.4833,0.4396,2.27,2.39,2.06,-0.0931,
 BOS @ MIL,BOS win + Ryan Rollins 6+ ra,2,0.546,0.4707,2.12,2.23,1.92,-0.0948,0.99,1.85-2.10
 BOS @ MIL,Ryan Rollins 6+ ra + Kyle Kuzma 10+ pra,2,0.6428,0.4983,2.01,2.11,1.8,-0.1024,1.002,1.65-1.85
 MIA @ SAC,MIA win + Zach LaVine pts under 21.5,2,0.4387,0.4055,2.47,2.59,2.35,-0.0467,1.047,2.10-2.50
-MIA @ SAC,MIA win + Andrew Wiggins 10+ pts,2,0.4224,0.4052,2.47,2.59,2.34,-0.0507,1.04,2.10-2.50
-MIA @ SAC,MIA win + Andrew Wiggins 16+ pra,2,0.3988,0.3779,2.65,2.78,2.5,-0.0562,1.039,2.10-2.50
-MIA @ SAC,MIA win + Bam Adebayo 1+ 3pm,2,0.4929,0.4645,2.15,2.26,1.98,-0.0822,1.007,1.85-2.10
+MIA @ SAC,MIA win + Andrew Wiggins 14+ pr,2,0.3942,0.3793,2.64,2.77,2.5,-0.0526,1.042,2.10-2.50
+MIA @ SAC,MIA win + Andrew Wiggins 10+ pts,2,0.4224,0.4026,2.48,2.61,2.35,-0.0535,1.04,2.10-2.50
+MIA @ SAC,MIA win + Bam Adebayo 1+ 3pm,2,0.4929,0.4812,2.08,2.18,1.9,-0.0857,1.007,1.85-2.10
