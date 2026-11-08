@@ -1,19 +1,19 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909939,ATL,1629638,Nickeil Alexander-Walker,Starting,,1.0,,,1.0
-401909939,ATL,1630700,Dyson Daniels,Starting,,1.0,,,1.0
+401909939,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
+401909939,ATL,1630700,Dyson Daniels,,,1.0,,,
 401909939,ATL,1642484,RayJ Dennis,Out,GLeague-Two-Way,0.0,,,
 401909939,ATL,1629652,Luguentz Dort,,,1.0,,,
 401909939,ATL,905106262,Zuby Ejiofor,,,1.0,,,
 401909939,ATL,1627827,Dorian Finney-Smith,,,1.0,,,
-401909939,ATL,905149077,Kingston Flemings,Starting,,1.0,,,1.0
+401909939,ATL,905149077,Kingston Flemings,,,1.0,,,
 401909939,ATL,1642933,Keshon Gilbert,Out,Inflammation/Non-Surgical,0.0,Gilbert (knee) is out for Saturday's game against Brooklyn.,,
 401909939,ATL,1631243,Mouhamed Gueye,Out,Injury/Illness-LeftFootFracture,0.0,"Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",,
-401909939,ATL,1630552,Jalen Johnson,Starting,Injury/Illness-LeftAnkleSprain,1.0,,,1.0
+401909939,ATL,1630552,Jalen Johnson,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
 401909939,ATL,1630557,Corey Kispert,,,1.0,,,
 401909939,ATL,1629111,Jock Landale,Out,Injury/Illness-LeftHipStrain,0.0,Landale (hip) has been ruled out for Saturday's game against the Nets.,,
 401909939,ATL,203468,CJ McCollum,,,1.0,,,
 401909939,ATL,1642854,Asa Newell,Out,,0.0,Newell (toe)  is out for Saturday's game against the Nets.,,
-401909939,ATL,1630168,Onyeka Okongwu,Starting,,1.0,,,1.0
+401909939,ATL,1630168,Onyeka Okongwu,,,1.0,,,
 401909939,ATL,905105571,Henri Veesaar,Out,Injury/Illness-RightACLTear,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
 401909939,ATL,1630598,Aaron Wiggins,,,1.0,,,
 401909939,ATL,1630592,Jalen Wilson,Available,GLeague-Two-Way,1.0,,,
@@ -27,14 +27,14 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909939,BKN,1629611,Terance Mann,,,1.0,,,
 401909939,BKN,1631169,Josh Minott,,,1.0,,,
 401909939,BKN,1641761,Grant Nelson,Out,GLeague-Two-Way,0.0,,,
-401909939,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
+401909939,BKN,1629008,Michael Porter Jr.,,,1.0,,,
 401909939,BKN,1642962,Drake Powell,Available,GLeague-OnAssignment,1.0,,,
-401909939,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
+401909939,BKN,203944,Julius Randle,,,1.0,,,
 401909939,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909939,BKN,1630549,Day'Ron Sharpe,Starting,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",1.0,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",,1.0
-401909939,BKN,1642849,Nolan Traore,Starting,,1.0,,,1.0
+401909939,BKN,1630549,Day'Ron Sharpe,Day-To-Day,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",0.7,"Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",,
+401909939,BKN,1642849,Nolan Traore,,,1.0,,,
 401909939,BKN,1629021,Moritz Wagner,,,1.0,,,
-401909939,BKN,1642874,Danny Wolf,Starting,,1.0,,,1.0
+401909939,BKN,1642874,Danny Wolf,,,1.0,,,
 401909940,CLE,1628386,Jarrett Allen,Out,Injury/Illness-RightKneeContusion,0.0,Allen (knee) is out for Saturday's game against the Knicks,,
 401909940,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909940,CLE,201935,James Harden,,,1.0,,,
@@ -70,12 +70,12 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909941,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401909941,OKC,1627936,Alex Caruso,,,1.0,,,
 401909941,OKC,905105800,Josh Dix,,,1.0,,,
-401909941,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
-401909941,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
+401909941,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
+401909941,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
 401909941,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
-401909941,OKC,905174983,Aday Mara,,,1.0,,,
+401909941,OKC,905174983,Aday Mara,Starting,,1.0,,,1.0
 401909941,OKC,1642272,Jared McCain,,,1.0,,,
-401909941,OKC,1642349,Ajay Mitchell,,,1.0,,,
+401909941,OKC,1642349,Ajay Mitchell,Starting,,1.0,,,1.0
 401909941,OKC,904432185,Micah Peavy,,,1.0,,,
 401909941,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,Sorber (knee) is out for Wednesday's game against the Cavaliers.,,
 401909941,OKC,905241364,Bennett Stirtz,,,1.0,,,
@@ -84,25 +84,25 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909941,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401909941,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
 401909941,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowBackSpasms,0.0,"Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports.",,
-401909941,OKC,1629026,Kenrich Williams,,,1.0,,,
+401909941,OKC,1629026,Kenrich Williams,Starting,,1.0,,,1.0
 401909941,WAS,1629028,Deandre Ayton,,,1.0,,,
 401909941,WAS,904432187,Reece Beekman,Out,Injury/Illness-RightACJointInjury,0.0,The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.,,
 401909941,WAS,1642267,Bub Carrington,,,1.0,,,
 401909941,WAS,1630551,Justin Champagnie,Out,Injury/Illness-RightFootSurgery,0.0,"Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",,
-401909941,WAS,1641731,Bilal Coulibaly,,,1.0,,,
+401909941,WAS,1641731,Bilal Coulibaly,Starting,,1.0,,,1.0
 401909941,WAS,203076,Anthony Davis,Out,Injury/Illness-RightAnkleSprain,0.0,Davis (ankle) won't play Saturday against the Thunder.,,
-401909941,WAS,905142718,AJ Dybantsa,,,1.0,,,
-401909941,WAS,1642273,Kyshawn George,,,1.0,,,
+401909941,WAS,905142718,AJ Dybantsa,Starting,,1.0,,,1.0
+401909941,WAS,1642273,Kyshawn George,Starting,,1.0,,,1.0
 401909941,WAS,1630264,Anthony Gill,,,1.0,,,
 401909941,WAS,905238230,Tre Johnson,,,1.0,,,
 401909941,WAS,1630544,Tre Mann,,,1.0,,,
 401909941,WAS,203114,Khris Middleton,,,1.0,,,
 401909941,WAS,905105841,Felix Okpara,Out,GLeague-Two-Way,0.0,,,
 401909941,WAS,1642860,Will Riley,,,1.0,,,
-401909941,WAS,1642259,Alex Sarr,,,1.0,,,
+401909941,WAS,1642259,Alex Sarr,Starting,,1.0,,,1.0
 401909941,WAS,1641774,Tristan Vukcevic,Out,Injury/Illness-LeftHipImpingement,0.0,Vukcevic (hip) is listed as out for Monday's game against Orlando.,,
 401909941,WAS,1642364,Jamir Watkins,Out,,0.0,The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.,,
-401909941,WAS,1629027,Trae Young,,,1.0,,,
+401909941,WAS,1629027,Trae Young,Starting,,1.0,,,1.0
 401909942,GSW,1629646,Charles Bassey,,,1.0,,,
 401909942,GSW,202710,Jimmy Butler III,Out,Injury/Illness-RightACLRepair/,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401909942,GSW,1643018,LJ Cryer,,,1.0,,,
@@ -169,6 +169,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909943,HOU,1631095,Jabari Smith Jr.,,,1.0,,,
 401909943,HOU,1630256,Jae'Sean Tate,,,1.0,,,
 401909943,HOU,1641708,Amen Thompson,,,1.0,,,
+401909943,HOU,905105837,Bruce Thornton,Available,GLeague-OnAssignment,1.0,,,
 401909943,HOU,1631131,Oscar Tshiebwe,,,1.0,,,
 401909943,HOU,1627832,Fred VanVleet,,,1.0,,,
 401909944,POR,1630166,Deni Avdija,,,1.0,,,
