@@ -10,6 +10,16 @@ PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5716,0.5046,1.
 PHI @ CHI,PHI win + Jaylen Brown 20+ pa + Matas Buzelis 10+ pa,3,0.5151,0.4735,2.11,2.22,1.93,-0.0871,1.008,1.85-2.10
 PHI @ CHI,Caleb Wilson 9+ ra + Matas Buzelis 10+ pa,2,0.5825,0.437,2.29,2.4,2.07,-0.0955,1.007,1.85-2.10
 PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Matas Buzelis 10+ pa,3,0.5484,0.4928,2.03,2.13,1.82,-0.1024,0.989,1.65-1.85
+LAL @ DET,game over 221.5 + Jake LaRavia 5+ pa,2,0.4293,0.4023,2.49,2.61,2.36,-0.0513,1.044,2.10-2.50
+LAL @ DET,game over 221.5 + Matisse Thybulle 5+ pa,2,0.4313,0.3937,2.54,2.67,2.38,-0.0626,1.03,2.10-2.50
+LAL @ DET,Ausar Thompson 22+ pra + Matisse Thybulle 5+ pa,2,0.4201,0.3788,2.64,2.77,2.47,-0.0649,1.007,2.10-2.50
+LAL @ DET,game over 221.5 + Matisse Thybulle 5+ pra,2,0.4697,0.4467,2.24,2.35,2.06,-0.0812,1.013,1.85-2.10
+LAL @ DET,LAL +4.5 + Matisse Thybulle 5+ pra,2,0.4846,0.4396,2.27,2.39,2.07,-0.088,1.012,1.85-2.10
+LAL @ DET,DET win + Matisse Thybulle 5+ pra,2,0.5651,0.5318,1.88,1.97,1.7,-0.0958,0.991,1.65-1.85
+LAL @ DET,DET win + Matisse Thybulle 5+ pr,2,0.5378,0.5013,1.99,2.09,1.8,-0.0981,0.988,1.65-1.85
+LAL @ DET,Walker Kessler 2+ blk + Matisse Thybulle 5+ pa,2,0.6147,0.4652,2.15,2.26,1.93,-0.1023,1.002,1.85-2.10
+LAL @ DET,Walker Kessler 2+ blk + Matisse Thybulle 5+ pr,2,0.6486,0.5067,1.97,2.07,1.76,-0.1062,1.0,1.65-1.85
+LAL @ DET,Matisse Thybulle 5+ pa + Jake LaRavia 5+ pa,2,0.7042,0.5743,1.74,1.83,1.55,-0.1077,1.004,1.50-1.65
 UTA @ MIN,MIN win + game under 224.5,2,0.3252,0.399,2.51,2.63,2.34,-0.0652,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 223.5,2,0.5557,0.4161,2.4,2.52,2.24,-0.0664,1.004,2.10-2.50
 UTA @ MIN,MIN win + Ayo Dosunmu ra under 9.5,2,0.4901,0.3779,2.65,2.78,2.42,-0.0839,0.99,2.10-2.50
@@ -21,11 +31,12 @@ BKN @ DAL,Daniel Gafford 16+ pra + Julius Randle 4+ reb,2,0.5154,0.428,2.34,2.45
 BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.7972,0.5556,1.8,1.89,1.62,-0.0979,0.999,1.50-1.65
 BKN @ DAL,Nolan Traore ast under 4.5 + Julius Randle 4+ reb,2,0.6387,0.4693,2.13,2.24,1.92,-0.0989,1.003,1.85-2.10
 BKN @ DAL,Nolan Traore pa under 17.5 + Julius Randle 4+ reb,2,0.5979,0.4405,2.27,2.38,2.03,-0.1037,0.998,1.85-2.10
-BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5373,0.458,2.18,2.29,2.1,-0.0381,1.037,2.10-2.50
-BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5198,0.4419,2.26,2.38,2.18,-0.0382,1.036,2.10-2.50
-BOS @ MIL,MIL +12.5 + Kyle Kuzma 10+ pr,2,0.4456,0.3937,2.54,2.67,2.38,-0.0642,1.021,2.10-2.50
-BOS @ MIL,BOS win + Ryan Rollins 16+ pra,2,0.5129,0.4398,2.27,2.39,2.06,-0.096,0.973,1.85-2.10
-BOS @ MIL,BOS win + Ryan Rollins 13+ pa,2,0.5143,0.4366,2.29,2.41,2.06,-0.0996,0.97,1.85-2.10
+BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5358,0.4594,2.18,2.29,2.1,-0.035,1.04,2.10-2.50
+BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5186,0.4433,2.26,2.37,2.18,-0.0352,1.04,2.10-2.50
+BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5274,0.4619,2.16,2.27,2.03,-0.0603,1.013,1.85-2.10
+BOS @ MIL,game over 222.5 + Kyle Kuzma 10+ pr,2,0.4317,0.4023,2.49,2.61,2.32,-0.0651,1.038,2.10-2.50
+BOS @ MIL,Myles Turner 17+ pra + Jayson Tatum 4+ reb,2,0.4613,0.4399,2.27,2.39,2.08,-0.0839,1.004,1.85-2.10
+BOS @ MIL,MIL +12.5 + Jayson Tatum 4+ reb,2,0.4849,0.4397,2.27,2.39,2.08,-0.0843,1.002,1.85-2.10
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4176,2.39,2.51,2.25,-0.0621,1.033,2.10-2.50
 NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694,1.037,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.398,2.51,2.64,2.32,-0.0755,1.03,2.10-2.50
