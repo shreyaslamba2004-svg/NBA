@@ -1,6 +1,6 @@
 # NBA model · Sun 08 Nov 2026 (US date)
 
-Updated **Mon 09 Nov, 05:03 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 09 Nov, 05:08 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -27,6 +27,14 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 Bets that pass the best-bets rules but that Sportsbet doesn't list as far as we know (e.g. odd-number assist milestones like 7+, alt-line unders, turnovers). Ladbrokes, TAB and others sometimes do. Graded in HEALTH.md.
 
 _Nothing clears the edge threshold right now._
+
+## Check news first
+
+The model and the no-vig market disagree by more than 15 points on these. That's usually late team news the model hasn't seen yet, so confirm before betting.
+
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Jaime Jaquez Jr. 3PM over 0.5 (1+) | BOS @ MIL | draftkings | 2.76 | 1.92 | 1.28 | 78.0% | 50.1% | 52.2% | +44.0% | +115.2% | 2.0% |
 
 ## Projections
 
@@ -428,7 +436,7 @@ Out: Kam Jones (MIL), Pete Nance (MIL), Cormac Ryan (MIL), Devin Carter (BOS)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jayson Tatum | 98% | 32.8<br><sub>35,34,32,-,29</sub> | 25.4<br><sub>26,32,19,-,34</sub> | 26.5 · –<br><sub>o 51% · u 49%</sub> | 8.2<br><sub>7,4,6,-,8</sub> | 6.5<br><sub>o 57% · u 43%</sub> | 7.1<br><sub>7,7,9,-,9</sub> | 6.5<br><sub>o 52% · u 48%</sub> | 2.8<br><sub>2,1,1,-,5</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.2 | 0.4 | 2.6 | 40.7 |
+| Jayson Tatum | 98% | 32.8<br><sub>35,34,32,-,29</sub> | 25.4<br><sub>26,32,19,-,34</sub> | 27.5 · –<br><sub>o 47% · u 53%</sub> | 8.2<br><sub>7,4,6,-,8</sub> | 6.5<br><sub>o 57% · u 43%</sub> | 7.1<br><sub>7,7,9,-,9</sub> | 6.5<br><sub>o 52% · u 48%</sub> | 2.8<br><sub>2,1,1,-,5</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.2 | 0.4 | 2.6 | 40.7 |
 | Derrick White | 98% | 30.3<br><sub>26,34,30,36,25</sub> | 14.3<br><sub>9,12,7,24,18</sub> | 13.5 · –<br><sub>o 52% · u 48%</sub> | 3.8<br><sub>2,2,2,4,4</sub> | 3.5<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>4,2,3,7,5</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 2.1<br><sub>1,2,1,1,4</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.1 | 0.8 | 1.5 | 23.1 |
 | Paul George | 98% | 30.0<br><sub>27,33,-,35,22</sub> | 17.9<br><sub>18,17,-,25,8</sub> | 17.5 · –<br><sub>o 50% · u 50%</sub> | 5.2<br><sub>6,6,-,3,5</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 3.9<br><sub>8,8,-,5,1</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 2.7<br><sub>2,3,-,5,2</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 1.7 | 0.4 | 2.4 | 27.1 |
 | Payton Pritchard | 98% | 25.5<br><sub>35,27,30,18,23</sub> | 14.0<br><sub>30,7,4,10,12</sub> | 13.5 · –<br><sub>o 47% · u 53%</sub> | 3.0<br><sub>3,7,3,1,6</sub> | 2.5<br><sub>o 58% · u 42%</sub> | 4.4<br><sub>3,3,3,5,5</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 2.1<br><sub>3,0,0,0,4</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 0.8 | 0.1 | 1.1 | 21.5 |
@@ -449,7 +457,7 @@ Out: Kam Jones (MIL), Pete Nance (MIL), Cormac Ryan (MIL), Devin Carter (BOS)
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Tyler Herro | 98% | 32.5<br><sub>27,27,31,33,35</sub> | 18.7<br><sub>23,15,21,25,23</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 4.3<br><sub>3,3,6,5,5</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 4.9<br><sub>0,2,3,3,10</sub> | 4.5<br><sub>o 45% · u 55%</sub> | 2.5<br><sub>4,4,4,4,1</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 0.7 | 0.2 | 2.2 | 27.9 |
-| Jaime Jaquez Jr. | 98% | 28.5<br><sub>27,23,28,31,28</sub> | 14.3<br><sub>19,8,19,18,14</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 5.0<br><sub>4,7,8,2,3</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 3.9<br><sub>2,5,2,2,3</sub> | 2.5<br><sub>o 61% · u 39%</sub> | 1.5<br><sub>3,1,2,4,2</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 0.6 | 0.2 | 1.9 | 23.3 |
+| Jaime Jaquez Jr. | 98% | 28.5<br><sub>27,23,28,31,28</sub> | 14.3<br><sub>19,8,19,18,14</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 5.0<br><sub>4,7,8,2,3</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 3.9<br><sub>2,5,2,2,3</sub> | 2.5<br><sub>o 61% · u 39%</sub> | 1.5<br><sub>3,1,2,4,2</sub> | 0.5<br><sub>o 52% · u 48%</sub> | 0.6 | 0.2 | 1.9 | 23.3 |
 | Kyle Kuzma | 98% | 27.8<br><sub>18,23,22,27,32</sub> | 11.4<br><sub>4,14,2,6,13</sub> | 9.5 · –<br><sub>o 50% · u 50%</sub> | 4.9<br><sub>6,3,2,5,4</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 3.1<br><sub>1,3,3,4,3</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 1.3<br><sub>0,2,0,1,1</sub> | 1.5<br><sub>o 35% · u 65%</sub> | 0.6 | 0.3 | 1.6 | 19.3 |
 | Myles Turner | 98% | 27.1<br><sub>22,24,31,36,24</sub> | 9.9<br><sub>4,10,13,12,0</sub> | 9.5 · –<br><sub>o 50% · u 50%</sub> | 5.2<br><sub>2,7,5,9,7</sub> | 5.5<br><sub>o 46% · u 54%</sub> | 1.7<br><sub>2,2,2,6,0</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 1.6<br><sub>0,1,3,4,0</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.6 | 1.8 | 1.2 | 16.9 |
 | Brayden Burries | 98% | 25.3<br><sub>17,21,26,22,38</sub> | 10.8<br><sub>10,14,9,9,21</sub> | 11.5 · –<br><sub>o 47% · u 53%</sub> | 5.2<br><sub>5,3,9,5,11</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>1,1,1,3,6</sub> |  | 1.3<br><sub>0,1,1,0,1</sub> | 1.5<br><sub>o 38% · u 62%</sub> | 0.7 | 0.2 | 1.5 | 18.8 |
