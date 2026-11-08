@@ -1,6 +1,6 @@
 # NBA model · Sun 08 Nov 2026 (US date)
 
-Updated **Sun 08 Nov, 05:19 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 08 Nov, 05:49 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -34,12 +34,12 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| PHI @ CHI | Mon 09 Nov 07:30 | 118.3–110.5 | PHI 71% | 1.41 / 3.43 | CHI +7.5 | 228.5 | CHI +8.5 covers 52%; o238.5 30% |
+| PHI @ CHI | Mon 09 Nov 07:30 | 118.3–110.5 | PHI 71% | 1.41 / 3.43 | CHI +7.5 | 228.5 | CHI +9.5 covers 55%; o238.5 30% |
 | LAL @ DET | Mon 09 Nov 10:00 | 108.8–112.7 | LAL 39% | 2.58 / 1.63 | DET -4.5 | 221.5 | DET -4.5 covers 49%; o222.5 47% |
 | UTA @ MIN | Mon 09 Nov 11:00 | 107.9–121.9 | UTA 16% | 6.21 / 1.19 | MIN -13.5 | 229.5 | MIN -11.5 covers 57%; o224.5 61% |
 | BKN @ DAL | Mon 09 Nov 11:30 | 107.7–117.0 | BKN 26% | 3.88 / 1.35 | DAL -9.5 | 224.5 | DAL -9.5 covers 49%; o219.5 61% |
 | BOS @ MIL | Mon 09 Nov 12:00 | 117.0–104.8 | BOS 81% | 1.23 / 5.26 | MIL +12.5 | 221.5 | MIL +12.5 covers 51%; o222.5 48% |
-| NOP @ LAC | Mon 09 Nov 13:00 | 116.3–117.5 | NOP 47% | 2.14 / 1.88 | LAC -1.5 | 233.5 | LAC +1.5 covers 56%; o229.5 59% |
+| NOP @ LAC | Mon 09 Nov 13:00 | 116.3–117.5 | NOP 47% | 2.14 / 1.88 | LAC -1.5 | 233.5 | LAC +1.5 covers 56%; o228.5 61% |
 | MIA @ SAC | Mon 09 Nov 13:00 | 124.5–117.5 | MIA 69% | 1.45 / 3.24 | SAC +7.5 | 241.5 | SAC +8.5 covers 54%; o238.5 57% |
 
 ### PHI @ CHI
@@ -47,8 +47,8 @@ Out: Zach Collins (CHI), Jaylin Sellers (CHI), Dailyn Swain (CHI), Dominick Barl
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 118.3–110.5 | PHI 71% | 1.41 / 3.43 | CHI +7.5 | 228.5 | CHI +8.5 covers 52%; o238.5 30% |
-| Expected (weighted by chance each plays) | 118.4–110.5 | PHI 71% | 1.41 / 3.43 | CHI +7.5 | 228.5 | CHI +8.5 covers 52%; o238.5 30% |
+| Confirmed players only | 118.3–110.5 | PHI 71% | 1.41 / 3.43 | CHI +7.5 | 228.5 | CHI +9.5 covers 55%; o238.5 30% |
+| Expected (weighted by chance each plays) | 118.4–110.5 | PHI 71% | 1.41 / 3.43 | CHI +7.5 | 228.5 | CHI +9.5 covers 55%; o238.5 30% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -61,13 +61,13 @@ Out: Zach Collins (CHI), Jaylin Sellers (CHI), Dailyn Swain (CHI), Dominick Barl
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyrese Maxey | 98% | 37.7<br><sub>38,38,36,34,32</sub> | 25.1<br><sub>27,38,26,19,17</sub> |  | 4.1<br><sub>4,4,4,1,3</sub> |  | 5.9<br><sub>4,4,11,7,4</sub> |  | 2.9<br><sub>3,4,1,3,2</sub> |  | 1.8 | 0.6 | 2.4 | 35.2 |
-| Jaylen Brown | 98% | 36.2<br><sub>-,38,33,37,34</sub> | 24.0<br><sub>-,16,25,30,20</sub> |  | 6.5<br><sub>-,4,11,7,5</sub> |  | 4.4<br><sub>-,4,5,1,5</sub> |  | 2.2<br><sub>-,0,4,3,2</sub> |  | 1.2 | 0.6 | 3.0 | 35.0 |
-| LeBron James | 98% | 34.5<br><sub>34,-,31,33,32</sub> | 18.5<br><sub>20,-,15,13,8</sub> |  | 7.1<br><sub>9,-,7,10,7</sub> |  | 7.1<br><sub>8,-,9,8,3</sub> |  | 1.3<br><sub>2,-,0,1,0</sub> |  | 1.4 | 0.7 | 2.7 | 32.7 |
-| VJ Edgecombe | 91% | 34.0<br><sub>36,37,33,35,32</sub> | 13.5<br><sub>13,10,21,11,19</sub> |  | 5.9<br><sub>8,8,3,6,3</sub> |  | 3.5<br><sub>2,3,5,3,2</sub> |  | 1.9<br><sub>1,2,2,1,3</sub> |  | 1.5 | 0.5 | 1.4 | 22.9 |
-| Joel Embiid | 91% | 33.3<br><sub>33,-,25,33,25</sub> | 24.1<br><sub>10,-,15,26,6</sub> |  | 9.3<br><sub>7,-,8,15,7</sub> |  | 4.2<br><sub>7,-,3,2,1</sub> |  | 1.2<br><sub>0,-,0,0,0</sub> |  | 0.8 | 1.2 | 2.8 | 37.6 |
-| Dean Wade | 93% | 21.1<br><sub>27,30,23,22,21</sub> | 3.7<br><sub>0,4,8,3,0</sub> |  | 3.5<br><sub>2,5,2,5,5</sub> |  | 1.2<br><sub>1,10,1,1,1</sub> |  | 0.4<br><sub>0,0,2,0,0</sub> |  | 0.9 | 0.3 | 0.5 | 8.4 |
-| Anfernee Simons | 98% | 20.5<br><sub>31,25,24,10,19</sub> | 9.1<br><sub>21,19,6,0,6</sub> |  | 1.9<br><sub>2,0,2,1,2</sub> |  | 1.5<br><sub>1,2,1,0,2</sub> |  | 1.6<br><sub>5,5,1,0,1</sub> |  | 0.7 | 0.1 | 0.8 | 12.6 |
+| Tyrese Maxey | 98% | 37.7<br><sub>38,38,36,34,32</sub> | 25.1<br><sub>27,38,26,19,17</sub> | 25.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,4,4,1,3</sub> |  | 5.9<br><sub>4,4,11,7,4</sub> |  | 2.9<br><sub>3,4,1,3,2</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 1.8 | 0.6 | 2.4 | 35.2 |
+| Jaylen Brown | 98% | 36.2<br><sub>-,38,33,37,34</sub> | 24.0<br><sub>-,16,25,30,20</sub> | 21.5 · –<br><sub>o 50% · u 50%</sub> | 6.5<br><sub>-,4,11,7,5</sub> |  | 4.4<br><sub>-,4,5,1,5</sub> |  | 2.2<br><sub>-,0,4,3,2</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 1.2 | 0.6 | 3.0 | 35.0 |
+| LeBron James | 98% | 34.5<br><sub>34,-,31,33,32</sub> | 18.5<br><sub>20,-,15,13,8</sub> | 17.5 · –<br><sub>o 48% · u 52%</sub> | 7.1<br><sub>9,-,7,10,7</sub> |  | 7.1<br><sub>8,-,9,8,3</sub> |  | 1.3<br><sub>2,-,0,1,0</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 1.4 | 0.7 | 2.7 | 32.7 |
+| VJ Edgecombe | 91% | 34.0<br><sub>36,37,33,35,32</sub> | 13.5<br><sub>13,10,21,11,19</sub> | 12.5 · –<br><sub>o 49% · u 51%</sub> | 5.9<br><sub>8,8,3,6,3</sub> |  | 3.5<br><sub>2,3,5,3,2</sub> |  | 1.9<br><sub>1,2,2,1,3</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 1.5 | 0.5 | 1.4 | 22.9 |
+| Joel Embiid | 91% | 33.3<br><sub>33,-,25,33,25</sub> | 24.1<br><sub>10,-,15,26,6</sub> | 21.5 · –<br><sub>o 52% · u 48%</sub> | 9.3<br><sub>7,-,8,15,7</sub> |  | 4.2<br><sub>7,-,3,2,1</sub> |  | 1.2<br><sub>0,-,0,0,0</sub> | 0.5<br><sub>o 59% · u 41%</sub> | 0.8 | 1.2 | 2.8 | 37.6 |
+| Dean Wade | 93% | 21.1<br><sub>27,30,23,22,21</sub> | 3.7<br><sub>0,4,8,3,0</sub> | 4.5 · –<br><sub>o 48% · u 52%</sub> | 3.5<br><sub>2,5,2,5,5</sub> |  | 1.2<br><sub>1,10,1,1,1</sub> |  | 0.4<br><sub>0,0,2,0,0</sub> | 0.5<br><sub>o 58% · u 42%</sub> | 0.9 | 0.3 | 0.5 | 8.4 |
+| Anfernee Simons | 98% | 20.5<br><sub>31,25,24,10,19</sub> | 9.1<br><sub>21,19,6,0,6</sub> | 9.5 · –<br><sub>o 50% · u 50%</sub> | 1.9<br><sub>2,0,2,1,2</sub> |  | 1.5<br><sub>1,2,1,0,2</sub> |  | 1.6<br><sub>5,5,1,0,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 0.7 | 0.1 | 0.8 | 12.6 |
 | Kentavious Caldwell-Pope | 98% | 17.7<br><sub>21,18,13,21,17</sub> | 4.5<br><sub>5,3,3,5,5</sub> |  | 1.9<br><sub>3,2,1,1,2</sub> |  | 1.1<br><sub>3,1,0,0,0</sub> |  | 0.6<br><sub>1,1,1,1,1</sub> |  | 0.7 | 0.2 | 0.5 | 7.5 |
 | Jabari Walker | 76% | 10.9<br><sub>-,19,2,-,17</sub> | 4.3<br><sub>-,12,0,-,8</sub> |  | 2.8<br><sub>-,6,0,-,5</sub> |  | 0.5<br><sub>-,0,1,-,1</sub> |  | 0.3<br><sub>-,1,0,-,0</sub> |  | 0.4 | 0.2 | 0.5 | 7.6 |
 | Justin Edwards | 58% | 6.6<br><sub>-,2,2,-,4</sub> | 2.6<br><sub>-,0,2,-,3</sub> |  | 0.9<br><sub>-,1,1,-,1</sub> |  | 0.4<br><sub>-,0,0,-,0</sub> |  | 0.2<br><sub>-,0,0,-,1</sub> |  | 0.3 | 0.1 | 0.2 | 3.9 |
@@ -82,12 +82,12 @@ Out: Zach Collins (CHI), Jaylin Sellers (CHI), Dailyn Swain (CHI), Dominick Barl
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Caleb Wilson | 97% | 34.4<br><sub>32,38,31,34,22</sub> | 19.9<br><sub>17,20,23,24,5</sub> |  | 7.0<br><sub>5,6,5,7,5</sub> |  | 3.0<br><sub>3,4,4,4,0</sub> |  | 2.3<br><sub>1,3,6,4,1</sub> |  | 1.2 | 1.1 | 2.9 | 29.9 |
-| Norman Powell | 98% | 31.0<br><sub>24,37,31,29,22</sub> | 18.8<br><sub>20,30,16,18,12</sub> |  | 3.4<br><sub>1,2,2,3,1</sub> |  | 2.4<br><sub>2,2,3,0,1</sub> |  | 2.1<br><sub>4,4,1,1,0</sub> |  | 1.1 | 0.2 | 2.3 | 24.6 |
-| Josh Giddey | 98% | 30.6<br><sub>24,31,25,32,27</sub> | 13.1<br><sub>11,10,13,13,10</sub> |  | 7.0<br><sub>1,8,4,4,1</sub> |  | 8.7<br><sub>4,11,5,10,6</sub> |  | 1.4<br><sub>1,1,2,2,1</sub> |  | 1.0 | 0.6 | 2.9 | 28.8 |
-| Matas Buzelis | 98% | 27.8<br><sub>22,33,20,23,26</sub> | 14.7<br><sub>11,17,14,4,12</sub> |  | 5.7<br><sub>1,5,5,3,5</sub> |  | 2.2<br><sub>2,3,1,2,3</sub> |  | 1.8<br><sub>2,3,2,0,1</sub> |  | 0.6 | 1.4 | 2.4 | 22.6 |
-| Jalen Smith | 91% | 22.7<br><sub>20,30,27,28,7</sub> | 10.2<br><sub>7,17,5,13,3</sub> |  | 7.4<br><sub>6,11,12,7,2</sub> |  | 1.5<br><sub>1,5,1,4,0</sub> |  | 1.4<br><sub>2,3,0,1,1</sub> |  | 0.5 | 0.8 | 1.0 | 19.1 |
-| Tre Jones | 98% | 20.1<br><sub>15,18,20,19,18</sub> | 10.5<br><sub>8,11,12,8,14</sub> |  | 2.9<br><sub>1,4,4,3,3</sub> |  | 3.9<br><sub>0,3,4,3,4</sub> |  | 0.4<br><sub>0,1,0,0,1</sub> |  | 0.8 | 0.2 | 1.3 | 17.3 |
+| Caleb Wilson | 97% | 34.4<br><sub>32,38,31,34,22</sub> | 19.9<br><sub>17,20,23,24,5</sub> | 19.5 · –<br><sub>o 51% · u 49%</sub> | 7.0<br><sub>5,6,5,7,5</sub> |  | 3.0<br><sub>3,4,4,4,0</sub> |  | 2.3<br><sub>1,3,6,4,1</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 1.2 | 1.1 | 2.9 | 29.9 |
+| Norman Powell | 98% | 31.0<br><sub>24,37,31,29,22</sub> | 18.8<br><sub>20,30,16,18,12</sub> | 19.5 · –<br><sub>o 48% · u 52%</sub> | 3.4<br><sub>1,2,2,3,1</sub> |  | 2.4<br><sub>2,2,3,0,1</sub> |  | 2.1<br><sub>4,4,1,1,0</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 1.1 | 0.2 | 2.3 | 24.6 |
+| Josh Giddey | 98% | 30.6<br><sub>24,31,25,32,27</sub> | 13.1<br><sub>11,10,13,13,10</sub> | 11.5 · –<br><sub>o 48% · u 52%</sub> | 7.0<br><sub>1,8,4,4,1</sub> |  | 8.7<br><sub>4,11,5,10,6</sub> |  | 1.4<br><sub>1,1,2,2,1</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.6 | 2.9 | 28.8 |
+| Matas Buzelis | 98% | 27.8<br><sub>22,33,20,23,26</sub> | 14.7<br><sub>11,17,14,4,12</sub> | 12.5 · –<br><sub>o 48% · u 52%</sub> | 5.7<br><sub>1,5,5,3,5</sub> |  | 2.2<br><sub>2,3,1,2,3</sub> |  | 1.8<br><sub>2,3,2,0,1</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 0.6 | 1.4 | 2.4 | 22.6 |
+| Jalen Smith | 91% | 22.7<br><sub>20,30,27,28,7</sub> | 10.2<br><sub>7,17,5,13,3</sub> | 10.5 · –<br><sub>o 50% · u 50%</sub> | 7.4<br><sub>6,11,12,7,2</sub> |  | 1.5<br><sub>1,5,1,4,0</sub> |  | 1.4<br><sub>2,3,0,1,1</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 0.5 | 0.8 | 1.0 | 19.1 |
+| Tre Jones | 98% | 20.1<br><sub>15,18,20,19,18</sub> | 10.5<br><sub>8,11,12,8,14</sub> | 10.5 · –<br><sub>o 47% · u 53%</sub> | 2.9<br><sub>1,4,4,3,3</sub> |  | 3.9<br><sub>0,3,4,3,4</sub> |  | 0.4<br><sub>0,1,0,0,1</sub> |  | 0.8 | 0.2 | 1.3 | 17.3 |
 | Isaac Okoro | 98% | 18.9<br><sub>11,18,18,21,15</sub> | 6.0<br><sub>1,7,6,4,6</sub> |  | 2.0<br><sub>1,0,3,1,1</sub> |  | 1.2<br><sub>4,1,2,0,0</sub> |  | 0.5<br><sub>0,1,1,0,0</sub> |  | 0.5 | 0.3 | 0.6 | 9.1 |
 | Patrick Williams | 52% | 18.8<br><sub>-,-,-,-,20</sub> | 6.0<br><sub>-,-,-,-,4</sub> |  | 2.9<br><sub>-,-,-,-,0</sub> |  | 1.4<br><sub>-,-,-,-,2</sub> |  | 0.8<br><sub>-,-,-,-,0</sub> |  | 0.6 | 0.4 | 1.1 | 10.3 |
 | Leonard Miller | 98% | 16.2<br><sub>14,17,11,9,19</sub> | 7.3<br><sub>9,10,2,2,4</sub> |  | 4.2<br><sub>9,0,2,3,6</sub> |  | 0.9<br><sub>0,1,1,0,3</sub> |  | 0.7<br><sub>1,1,0,0,0</sub> |  | 0.4 | 0.5 | 0.8 | 12.4 |
@@ -321,8 +321,8 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Mikel Brown Jr. (BKN), Egor
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Cooper Flagg | 98% | 32.9<br><sub>33,39,40,40,33</sub> | 22.9<br><sub>26,33,17,19,21</sub> |  | 6.7<br><sub>5,9,4,10,10</sub> |  | 6.0<br><sub>8,6,6,5,7</sub> |  | 1.1<br><sub>2,0,0,0,1</sub> |  | 1.4 | 1.0 | 2.8 | 35.6 |
-| Kyrie Irving | 98% | 32.3<br><sub>27,35,-,36,28</sub> | 22.0<br><sub>15,35,-,29,14</sub> |  | 4.4<br><sub>2,4,-,7,2</sub> |  | 4.7<br><sub>4,9,-,5,2</sub> |  | 2.9<br><sub>3,5,-,5,0</sub> |  | 1.3 | 0.5 | 2.4 | 31.1 |
+| Cooper Flagg | 98% | 32.9<br><sub>33,39,40,40,33</sub> | 22.9<br><sub>26,33,17,19,21</sub> |  | 6.7<br><sub>5,9,4,10,10</sub> |  | 6.0<br><sub>8,6,6,5,7</sub> |  | 1.1<br><sub>2,0,0,0,1</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 1.4 | 1.0 | 2.8 | 35.6 |
+| Kyrie Irving | 98% | 32.3<br><sub>27,35,-,36,28</sub> | 22.0<br><sub>15,35,-,29,14</sub> |  | 4.4<br><sub>2,4,-,7,2</sub> |  | 4.7<br><sub>4,9,-,5,2</sub> |  | 2.9<br><sub>3,5,-,5,0</sub> | 2.5<br><sub>o 54% · u 46%</sub> | 1.3 | 0.5 | 2.4 | 31.1 |
 | P.J. Washington | 98% | 31.9<br><sub>27,34,38,39,33</sub> | 15.4<br><sub>18,3,12,21,26</sub> |  | 7.0<br><sub>9,10,5,10,6</sub> |  | 1.8<br><sub>0,1,1,3,1</sub> |  | 1.7<br><sub>2,1,2,3,6</sub> |  | 1.1 | 0.9 | 1.7 | 24.1 |
 | Naji Marshall | 88% | 24.7<br><sub>-,-,24,26,25</sub> | 12.8<br><sub>-,-,5,22,7</sub> |  | 3.8<br><sub>-,-,2,5,1</sub> |  | 3.9<br><sub>-,-,7,3,5</sub> |  | 0.8<br><sub>-,-,0,3,0</sub> |  | 1.1 | 0.1 | 1.8 | 20.5 |
 | Daniel Gafford | 98% | 20.5<br><sub>27,29,26,18,18</sub> | 9.7<br><sub>7,18,20,2,7</sub> |  | 6.4<br><sub>11,7,7,4,1</sub> |  | 1.3<br><sub>2,2,0,1,1</sub> |  | 0.0<br><sub>1,0,0,0,0</sub> |  | 0.7 | 1.5 | 1.1 | 17.4 |
@@ -367,11 +367,11 @@ Out: Kam Jones (MIL), Pete Nance (MIL), Cormac Ryan (MIL), Devin Carter (BOS)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyler Herro | 98% | 32.5<br><sub>27,27,31,33,35</sub> | 18.7<br><sub>23,15,21,25,23</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 4.3<br><sub>3,3,6,5,5</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 4.9<br><sub>0,2,3,3,10</sub> | 4.5<br><sub>o 45% · u 55%</sub> | 2.5<br><sub>4,4,4,4,1</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 0.7 | 0.2 | 2.1 | 27.9 |
-| Jaime Jaquez Jr. | 98% | 28.4<br><sub>27,23,28,31,28</sub> | 14.2<br><sub>19,8,19,18,14</sub> | 13.5 · –<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>4,7,8,2,3</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 3.9<br><sub>2,5,2,2,3</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.5<br><sub>3,1,2,4,2</sub> | 0.5<br><sub>o 67% · u 33%</sub> | 0.6 | 0.2 | 1.9 | 23.2 |
-| Kyle Kuzma | 98% | 27.8<br><sub>18,23,22,27,32</sub> | 11.4<br><sub>4,14,2,6,13</sub> | 10.5 · –<br><sub>o 47% · u 53%</sub> | 4.9<br><sub>6,3,2,5,4</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 3.1<br><sub>1,3,3,4,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.4<br><sub>0,2,0,1,1</sub> | 1.5<br><sub>o 38% · u 62%</sub> | 0.6 | 0.3 | 1.6 | 19.3 |
+| Tyler Herro | 98% | 32.5<br><sub>27,27,31,33,35</sub> | 18.7<br><sub>23,15,21,25,23</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 4.3<br><sub>3,3,6,5,5</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 4.9<br><sub>0,2,3,3,10</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.5<br><sub>4,4,4,4,1</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 0.7 | 0.2 | 2.1 | 27.9 |
+| Jaime Jaquez Jr. | 98% | 28.4<br><sub>27,23,28,31,28</sub> | 14.2<br><sub>19,8,19,18,14</sub> | 13.5 · –<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>4,7,8,2,3</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 3.9<br><sub>2,5,2,2,3</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.5<br><sub>3,1,2,4,2</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 0.6 | 0.2 | 1.9 | 23.2 |
+| Kyle Kuzma | 98% | 27.8<br><sub>18,23,22,27,32</sub> | 11.4<br><sub>4,14,2,6,13</sub> | 10.5 · –<br><sub>o 47% · u 53%</sub> | 4.9<br><sub>6,3,2,5,4</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 3.1<br><sub>1,3,3,4,3</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.4<br><sub>0,2,0,1,1</sub> | 1.5<br><sub>o 38% · u 62%</sub> | 0.6 | 0.3 | 1.6 | 19.3 |
 | Myles Turner | 98% | 27.2<br><sub>22,24,31,36,24</sub> | 9.9<br><sub>4,10,13,12,0</sub> | 9.5 · –<br><sub>o 51% · u 49%</sub> | 5.3<br><sub>2,7,5,9,7</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 1.7<br><sub>2,2,2,6,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.6<br><sub>0,1,3,4,0</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.6 | 1.8 | 1.3 | 16.9 |
-| Brayden Burries | 98% | 25.3<br><sub>17,21,26,22,38</sub> | 10.8<br><sub>10,14,9,9,21</sub> | 10.5 · –<br><sub>o 51% · u 49%</sub> | 5.2<br><sub>5,3,9,5,11</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 2.8<br><sub>1,1,1,3,6</sub> | 2.5<br><sub>o 44% · u 56%</sub> | 1.3<br><sub>0,1,1,0,1</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 0.6 | 0.2 | 1.5 | 18.8 |
+| Brayden Burries | 98% | 25.3<br><sub>17,21,26,22,38</sub> | 10.8<br><sub>10,14,9,9,21</sub> | 10.5 · –<br><sub>o 50% · u 50%</sub> | 5.2<br><sub>5,3,9,5,11</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 2.8<br><sub>1,1,1,3,6</sub> | 2.5<br><sub>o 44% · u 56%</sub> | 1.3<br><sub>0,1,1,0,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 0.6 | 0.2 | 1.5 | 18.8 |
 | Ryan Rollins | 98% | 22.8<br><sub>17,26,17,24,14</sub> | 11.7<br><sub>4,9,10,13,10</sub> |  | 3.2<br><sub>4,3,3,9,1</sub> |  | 4.2<br><sub>5,7,2,5,1</sub> |  | 1.5<br><sub>0,1,1,2,1</sub> |  | 0.8 | 0.3 | 2.0 | 19.1 |
 | AJ Green | 98% | 22.2<br><sub>24,20,24,20,24</sub> | 7.6<br><sub>9,0,13,5,12</sub> |  | 2.2<br><sub>1,3,3,2,1</sub> |  | 1.6<br><sub>2,2,3,3,0</sub> |  | 1.4<br><sub>3,0,4,1,4</sub> |  | 0.4 | 0.1 | 0.6 | 11.4 |
 | Kel'el Ware | 93% | 16.2<br><sub>17,24,17,16,13</sub> | 7.4<br><sub>6,19,2,2,4</sub> |  | 5.5<br><sub>8,10,9,5,3</sub> |  | 0.8<br><sub>0,3,0,1,0</sub> |  | 0.8<br><sub>0,3,0,0,0</sub> |  | 0.3 | 0.7 | 1.1 | 13.6 |
@@ -392,11 +392,11 @@ Out: Bradley Beal (LAC), Brandon Ingram (LAC), Isaiah Jackson (LAC), Yves Missi 
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Dejounte Murray | 98% | 32.5<br><sub>-,-,-,45,35</sub> | 16.8<br><sub>-,-,-,20,7</sub> |  | 5.7<br><sub>-,-,-,8,2</sub> |  | 6.1<br><sub>-,-,-,4,4</sub> |  | 1.6<br><sub>-,-,-,1,1</sub> |  | 1.8 | 0.3 | 3.2 | 28.5 |
-| Trey Murphy III | 98% | 32.3<br><sub>32,29,40,-,34</sub> | 15.5<br><sub>19,15,18,-,10</sub> |  | 4.8<br><sub>5,5,5,-,4</sub> |  | 3.3<br><sub>3,5,5,-,5</sub> |  | 2.3<br><sub>2,1,3,-,1</sub> |  | 1.3 | 0.5 | 1.4 | 23.6 |
-| Zion Williamson | 98% | 31.8<br><sub>31,30,35,38,36</sub> | 18.9<br><sub>22,15,25,23,13</sub> |  | 5.8<br><sub>6,6,11,4,8</sub> |  | 3.0<br><sub>2,4,4,2,4</sub> |  | 0.1<br><sub>0,0,0,0,0</sub> |  | 1.4 | 0.6 | 2.2 | 27.7 |
-| Jeremiah Fears | 98% | 29.9<br><sub>29,31,38,34,36</sub> | 16.5<br><sub>22,20,12,19,24</sub> |  | 4.3<br><sub>8,5,4,6,5</sub> |  | 4.3<br><sub>13,7,7,2,5</sub> |  | 1.4<br><sub>3,1,0,1,0</sub> |  | 1.3 | 0.5 | 2.7 | 25.1 |
-| Saddiq Bey | 98% | 26.8<br><sub>24,26,36,29,31</sub> | 13.6<br><sub>10,25,18,22,17</sub> |  | 4.2<br><sub>4,6,5,4,5</sub> |  | 2.0<br><sub>3,1,1,3,4</sub> |  | 1.6<br><sub>1,1,2,2,3</sub> |  | 0.8 | 0.2 | 1.1 | 19.8 |
+| Dejounte Murray | 98% | 32.5<br><sub>-,-,-,45,35</sub> | 16.8<br><sub>-,-,-,20,7</sub> | 16.5 · –<br><sub>o 51% · u 49%</sub> | 5.7<br><sub>-,-,-,8,2</sub> |  | 6.1<br><sub>-,-,-,4,4</sub> |  | 1.6<br><sub>-,-,-,1,1</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.8 | 0.3 | 3.2 | 28.5 |
+| Trey Murphy III | 98% | 32.3<br><sub>32,29,40,-,34</sub> | 15.5<br><sub>19,15,18,-,10</sub> | 15.5 · –<br><sub>o 51% · u 49%</sub> | 4.8<br><sub>5,5,5,-,4</sub> |  | 3.3<br><sub>3,5,5,-,5</sub> |  | 2.3<br><sub>2,1,3,-,1</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 1.3 | 0.5 | 1.4 | 23.6 |
+| Zion Williamson | 98% | 31.8<br><sub>31,30,35,38,36</sub> | 18.9<br><sub>22,15,25,23,13</sub> | 19.5 · –<br><sub>o 50% · u 50%</sub> | 5.8<br><sub>6,6,11,4,8</sub> |  | 3.0<br><sub>2,4,4,2,4</sub> |  | 0.1<br><sub>0,0,0,0,0</sub> |  | 1.4 | 0.6 | 2.2 | 27.7 |
+| Jeremiah Fears | 98% | 29.9<br><sub>29,31,38,34,36</sub> | 16.5<br><sub>22,20,12,19,24</sub> | 14.5 · –<br><sub>o 52% · u 48%</sub> | 4.3<br><sub>8,5,4,6,5</sub> |  | 4.3<br><sub>13,7,7,2,5</sub> |  | 1.4<br><sub>3,1,0,1,0</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.3 | 0.5 | 2.7 | 25.1 |
+| Saddiq Bey | 98% | 26.8<br><sub>24,26,36,29,31</sub> | 13.6<br><sub>10,25,18,22,17</sub> | 13.5 · –<br><sub>o 47% · u 53%</sub> | 4.2<br><sub>4,6,5,4,5</sub> |  | 2.0<br><sub>3,1,1,3,4</sub> |  | 1.6<br><sub>1,1,2,2,3</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 0.8 | 0.2 | 1.1 | 19.8 |
 | Herbert Jones | 98% | 19.6<br><sub>32,25,28,37,14</sub> | 6.1<br><sub>16,11,9,2,0</sub> |  | 2.3<br><sub>4,3,4,5,4</sub> |  | 1.4<br><sub>1,2,3,1,0</sub> |  | 0.7<br><sub>0,1,3,0,0</sub> |  | 1.0 | 0.3 | 0.9 | 9.8 |
 | Derik Queen | 98% | 18.3<br><sub>22,23,24,27,10</sub> | 8.9<br><sub>9,8,20,20,6</sub> |  | 5.5<br><sub>2,8,7,9,4</sub> |  | 2.3<br><sub>3,4,5,6,1</sub> |  | 0.2<br><sub>1,0,1,0,0</sub> |  | 0.8 | 0.6 | 1.8 | 16.8 |
 | Karlo Matkovic | 91% | 16.2<br><sub>28,18,29,21,18</sub> | 6.7<br><sub>12,8,25,5,18</sub> |  | 3.8<br><sub>4,10,6,4,3</sub> |  | 0.8<br><sub>1,1,1,2,1</sub> |  | 0.7<br><sub>1,2,5,1,4</sub> |  | 0.6 | 0.7 | 0.8 | 11.3 |
@@ -414,14 +414,14 @@ Out: Bradley Beal (LAC), Brandon Ingram (LAC), Isaiah Jackson (LAC), Yves Missi 
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Darius Garland | 98% | 32.1<br><sub>26,31,33,36,39</sub> | 22.3<br><sub>14,24,15,16,26</sub> |  | 2.4<br><sub>1,2,0,4,1</sub> |  | 7.2<br><sub>5,5,7,8,7</sub> |  | 2.8<br><sub>1,4,1,1,4</sub> |  | 1.2 | 0.2 | 3.6 | 31.9 |
-| Rui Hachimura | 98% | 31.1<br><sub>-,26,30,-,37</sub> | 16.4<br><sub>-,12,24,-,21</sub> |  | 5.0<br><sub>-,5,7,-,9</sub> |  | 1.6<br><sub>-,0,0,-,7</sub> |  | 2.1<br><sub>-,2,4,-,1</sub> |  | 0.9 | 0.4 | 1.5 | 23.0 |
-| Derrick Jones Jr. | 98% | 29.0<br><sub>28,26,28,-,37</sub> | 11.7<br><sub>15,10,9,-,12</sub> |  | 4.7<br><sub>5,1,7,-,8</sub> |  | 1.6<br><sub>0,1,1,-,1</sub> |  | 1.3<br><sub>3,2,1,-,2</sub> |  | 1.1 | 1.0 | 1.0 | 17.9 |
-| Kris Dunn | 98% | 28.4<br><sub>27,31,27,30,35</sub> | 8.4<br><sub>5,5,12,12,5</sub> |  | 3.7<br><sub>3,5,2,4,5</sub> |  | 4.4<br><sub>3,7,4,1,3</sub> |  | 0.9<br><sub>1,0,0,1,1</sub> |  | 2.0 | 0.3 | 1.5 | 16.4 |
-| Brook Lopez | 98% | 24.8<br><sub>22,21,19,22,35</sub> | 12.9<br><sub>2,13,7,12,20</sub> |  | 5.1<br><sub>3,6,2,6,8</sub> |  | 1.6<br><sub>3,0,0,1,1</sub> |  | 1.6<br><sub>0,1,1,1,2</sub> |  | 0.7 | 1.4 | 1.2 | 19.6 |
-| Max Strus | 97% | 22.6<br><sub>-,-,-,23,23</sub> | 10.3<br><sub>-,-,-,11,9</sub> |  | 3.9<br><sub>-,-,-,4,5</sub> |  | 3.1<br><sub>-,-,-,6,5</sub> |  | 1.8<br><sub>-,-,-,3,3</sub> |  | 0.7 | 0.2 | 1.3 | 17.3 |
+| Darius Garland | 98% | 32.1<br><sub>26,31,33,36,39</sub> | 22.3<br><sub>14,24,15,16,26</sub> | 21.5 · –<br><sub>o 51% · u 49%</sub> | 2.4<br><sub>1,2,0,4,1</sub> |  | 7.2<br><sub>5,5,7,8,7</sub> |  | 2.8<br><sub>1,4,1,1,4</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 1.2 | 0.2 | 3.6 | 31.9 |
+| Rui Hachimura | 98% | 31.1<br><sub>-,26,30,-,37</sub> | 16.4<br><sub>-,12,24,-,21</sub> | 16.5 · –<br><sub>o 52% · u 48%</sub> | 5.0<br><sub>-,5,7,-,9</sub> |  | 1.6<br><sub>-,0,0,-,7</sub> |  | 2.1<br><sub>-,2,4,-,1</sub> |  | 0.9 | 0.4 | 1.5 | 23.0 |
+| Derrick Jones Jr. | 98% | 29.0<br><sub>28,26,28,-,37</sub> | 11.7<br><sub>15,10,9,-,12</sub> | 10.5 · –<br><sub>o 53% · u 47%</sub> | 4.7<br><sub>5,1,7,-,8</sub> |  | 1.6<br><sub>0,1,1,-,1</sub> |  | 1.3<br><sub>3,2,1,-,2</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.1 | 1.0 | 1.0 | 17.9 |
+| Kris Dunn | 98% | 28.4<br><sub>27,31,27,30,35</sub> | 8.4<br><sub>5,5,12,12,5</sub> | 8.5 · –<br><sub>o 48% · u 52%</sub> | 3.7<br><sub>3,5,2,4,5</sub> |  | 4.4<br><sub>3,7,4,1,3</sub> |  | 0.9<br><sub>1,0,0,1,1</sub> |  | 2.0 | 0.3 | 1.5 | 16.4 |
+| Brook Lopez | 98% | 24.8<br><sub>22,21,19,22,35</sub> | 12.9<br><sub>2,13,7,12,20</sub> | 11.5 · –<br><sub>o 52% · u 48%</sub> | 5.1<br><sub>3,6,2,6,8</sub> |  | 1.6<br><sub>3,0,0,1,1</sub> |  | 1.6<br><sub>0,1,1,1,2</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 0.7 | 1.4 | 1.2 | 19.6 |
+| Max Strus | 97% | 22.6<br><sub>-,-,-,23,23</sub> | 10.3<br><sub>-,-,-,11,9</sub> | 10.5 · –<br><sub>o 50% · u 50%</sub> | 3.9<br><sub>-,-,-,4,5</sub> |  | 3.1<br><sub>-,-,-,6,5</sub> |  | 1.8<br><sub>-,-,-,3,3</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 0.7 | 0.2 | 1.3 | 17.3 |
 | Kobe Sanders | 98% | 21.5<br><sub>27,24,30,38,18</sub> | 10.0<br><sub>9,7,16,26,4</sub> |  | 2.4<br><sub>4,4,3,4,2</sub> |  | 2.0<br><sub>0,2,0,3,1</sub> |  | 1.4<br><sub>1,1,4,5,0</sub> |  | 0.9 | 0.2 | 1.3 | 14.4 |
-| Keaton Wagler | 97% | 21.0<br><sub>28,25,19,24,16</sub> | 10.6<br><sub>21,12,7,6,11</sub> |  | 3.2<br><sub>4,6,4,4,2</sub> |  | 3.0<br><sub>2,3,4,4,1</sub> |  | 1.1<br><sub>3,1,0,0,3</sub> |  | 0.7 | 0.3 | 1.7 | 16.8 |
+| Keaton Wagler | 97% | 21.0<br><sub>28,25,19,24,16</sub> | 10.6<br><sub>21,12,7,6,11</sub> | 12.5 · –<br><sub>o 47% · u 53%</sub> | 3.2<br><sub>4,6,4,4,2</sub> |  | 3.0<br><sub>2,3,4,4,1</sub> |  | 1.1<br><sub>3,1,0,0,3</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 0.7 | 0.3 | 1.7 | 16.8 |
 | Gradey Dick | 96% | 12.2<br><sub>19,12,3,29,7</sub> | 5.5<br><sub>5,3,0,12,4</sub> |  | 1.9<br><sub>5,0,1,4,2</sub> |  | 0.7<br><sub>0,1,0,3,1</sub> |  | 0.5<br><sub>1,1,0,0,0</sub> |  | 0.5 | 0.1 | 0.6 | 8.1 |
 | Baba Miller | 91% | 11.2<br><sub>17,5,6,12,6</sub> | 4.9<br><sub>4,0,2,4,2</sub> |  | 1.8<br><sub>7,1,2,0,1</sub> |  | 1.4<br><sub>1,0,1,1,1</sub> |  | 0.2<br><sub>0,0,0,1,0</sub> |  | 0.5 | 0.1 | 0.7 | 8.0 |
 | Jalen Pickett | 48% | 7.0<br><sub>8,-,6,-,-</sub> | 2.6<br><sub>4,-,0,-,-</sub> |  | 0.9<br><sub>1,-,2,-,-</sub> |  | 1.1<br><sub>1,-,3,-,-</sub> |  | 0.2<br><sub>0,-,0,-,-</sub> |  | 0.2 | 0.1 | 0.3 | 4.6 |
@@ -451,10 +451,10 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Davion Mitchell | 98% | 34.5<br><sub>34,35,29,43,38</sub> | 13.1<br><sub>10,15,15,11,22</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>1,6,0,2,2</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 8.1<br><sub>10,11,7,10,8</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.8<br><sub>0,3,4,0,4</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.3 | 0.3 | 1.9 | 24.0 |
-| Bam Adebayo | 98% | 33.9<br><sub>33,33,31,41,33</sub> | 21.1<br><sub>24,27,16,35,18</sub> | 19.5 · –<br><sub>o 51% · u 49%</sub> | 10.2<br><sub>9,9,9,10,10</sub> | 9.5<br><sub>o 52% · u 48%</sub> | 3.7<br><sub>3,3,4,4,0</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.3<br><sub>0,0,1,1,0</sub> | 0.5<br><sub>o 62% · u 38%</sub> | 1.7 | 0.7 | 1.8 | 35.0 |
+| Davion Mitchell | 98% | 34.5<br><sub>34,35,29,43,38</sub> | 13.1<br><sub>10,15,15,11,22</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>1,6,0,2,2</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 8.1<br><sub>10,11,7,10,8</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.8<br><sub>0,3,4,0,4</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.3 | 0.3 | 1.9 | 24.0 |
+| Bam Adebayo | 98% | 33.9<br><sub>33,33,31,41,33</sub> | 21.1<br><sub>24,27,16,35,18</sub> | 19.5 · –<br><sub>o 50% · u 50%</sub> | 10.2<br><sub>9,9,9,10,10</sub> | 9.5<br><sub>o 52% · u 48%</sub> | 3.7<br><sub>3,3,4,4,0</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.3<br><sub>0,0,1,1,0</sub> | 0.5<br><sub>o 62% · u 38%</sub> | 1.7 | 0.7 | 1.8 | 35.0 |
 | Giannis Antetokounmpo | 98% | 33.4<br><sub>31,31,34,41,31</sub> | 29.5<br><sub>24,31,30,27,20</sub> | 29.5 · –<br><sub>o 48% · u 52%</sub> | 12.3<br><sub>18,18,12,14,14</sub> | 12.5<br><sub>o 46% · u 54%</sub> | 6.4<br><sub>3,10,7,6,4</sub> |  | 0.6<br><sub>0,1,0,0,1</sub> |  | 1.1 | 0.9 | 3.3 | 48.1 |
-| Pelle Larsson | 98% | 29.6<br><sub>31,24,30,35,29</sub> | 11.7<br><sub>17,18,9,7,13</sub> | 11.5 · –<br><sub>o 47% · u 53%</sub> | 3.5<br><sub>6,3,3,3,1</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 3.9<br><sub>8,3,2,4,4</sub> | 3.5<br><sub>o 48% · u 52%</sub> | 0.9<br><sub>2,1,1,0,3</sub> |  | 1.1 | 0.3 | 1.6 | 19.0 |
+| Pelle Larsson | 98% | 29.6<br><sub>31,24,30,35,29</sub> | 11.7<br><sub>17,18,9,7,13</sub> | 11.5 · –<br><sub>o 50% · u 50%</sub> | 3.5<br><sub>6,3,3,3,1</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 3.9<br><sub>8,3,2,4,4</sub> | 3.5<br><sub>o 48% · u 52%</sub> | 0.9<br><sub>2,1,1,0,3</sub> |  | 1.1 | 0.3 | 1.6 | 19.0 |
 | Andrew Wiggins | 98% | 25.6<br><sub>29,30,24,23,21</sub> | 11.4<br><sub>18,12,7,3,2</sub> | 9.5 · –<br><sub>o 53% · u 47%</sub> | 3.6<br><sub>2,2,0,4,6</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 2.2<br><sub>2,1,2,1,4</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.5<br><sub>4,2,2,1,0</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 1.0 | 0.8 | 1.1 | 17.2 |
 | Klay Thompson | 98% | 23.6<br><sub>17,26,27,35,23</sub> | 12.2<br><sub>3,25,19,30,11</sub> | 11.5 · –<br><sub>o 50% · u 50%</sub> | 2.1<br><sub>1,0,1,5,0</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 1.8<br><sub>2,3,1,3,3</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 2.6<br><sub>1,7,4,8,2</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 0.7 | 0.4 | 1.0 | 16.0 |
 | Bobby Portis | 98% | 17.6<br><sub>23,17,18,18,14</sub> | 7.7<br><sub>11,8,2,4,0</sub> | 7.5 · –<br><sub>o 51% · u 49%</sub> | 4.9<br><sub>9,3,3,10,5</sub> | 5.5<br><sub>o 46% · u 54%</sub> | 1.4<br><sub>4,1,2,5,0</sub> |  | 1.0<br><sub>1,2,0,0,0</sub> |  | 0.6 | 0.3 | 0.7 | 13.9 |
@@ -473,10 +473,10 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Darius Acuff Jr. | 98% | 35.6<br><sub>41,37,37,42,33</sub> | 24.8<br><sub>34,38,25,22,22</sub> |  | 4.2<br><sub>6,5,5,3,3</sub> |  | 7.4<br><sub>14,5,6,12,8</sub> |  | 2.7<br><sub>3,9,2,3,3</sub> |  | 1.0 | 0.3 | 3.1 | 36.4 |
+| Darius Acuff Jr. | 98% | 35.6<br><sub>41,37,37,42,33</sub> | 24.8<br><sub>34,38,25,22,22</sub> |  | 4.2<br><sub>6,5,5,3,3</sub> |  | 7.4<br><sub>14,5,6,12,8</sub> |  | 2.7<br><sub>3,9,2,3,3</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.0 | 0.3 | 3.1 | 36.4 |
 | Zach LaVine | 98% | 32.5<br><sub>39,21,28,35,35</sub> | 21.1<br><sub>21,11,23,21,14</sub> |  | 3.4<br><sub>3,0,4,4,4</sub> |  | 3.0<br><sub>5,1,1,1,3</sub> |  | 2.7<br><sub>3,0,5,3,1</sub> |  | 0.8 | 0.3 | 2.4 | 27.5 |
 | Domantas Sabonis | 98% | 32.5<br><sub>40,38,31,35,31</sub> | 15.7<br><sub>9,11,9,16,17</sub> |  | 12.7<br><sub>15,14,7,17,12</sub> |  | 5.5<br><sub>7,8,4,1,5</sub> |  | 0.3<br><sub>0,0,0,0,1</sub> |  | 0.9 | 0.3 | 2.6 | 33.9 |
-| De'Andre Hunter | 98% | 30.6<br><sub>37,32,36,38,-</sub> | 14.8<br><sub>24,19,6,14,-</sub> |  | 4.9<br><sub>5,3,7,2,-</sub> |  | 1.8<br><sub>1,0,2,2,-</sub> |  | 1.9<br><sub>4,2,0,1,-</sub> |  | 0.8 | 0.2 | 1.6 | 21.4 |
+| De'Andre Hunter | 98% | 30.6<br><sub>37,32,36,38,-</sub> | 14.8<br><sub>24,19,6,14,-</sub> |  | 4.9<br><sub>5,3,7,2,-</sub> |  | 1.8<br><sub>1,0,2,2,-</sub> |  | 1.9<br><sub>4,2,0,1,-</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.8 | 0.2 | 1.6 | 21.4 |
 | Leaky Black | 64% | 26.0<br><sub>-,-,25,22,40</sub> | 6.2<br><sub>-,-,12,3,12</sub> |  | 4.3<br><sub>-,-,3,6,3</sub> |  | 1.8<br><sub>-,-,1,1,5</sub> |  | 0.9<br><sub>-,-,4,0,4</sub> |  | 1.1 | 0.5 | 0.8 | 12.4 |
 | Precious Achiuwa | 98% | 25.9<br><sub>41,25,27,17,22</sub> | 11.2<br><sub>24,6,6,7,9</sub> |  | 7.0<br><sub>9,5,10,3,4</sub> |  | 1.5<br><sub>2,1,3,1,0</sub> |  | 0.4<br><sub>0,0,0,1,1</sub> |  | 1.1 | 0.8 | 1.2 | 19.7 |
 | Malik Monk | 98% | 19.1<br><sub>8,14,30,24,18</sub> | 10.8<br><sub>2,8,24,13,12</sub> |  | 1.8<br><sub>1,0,1,2,0</sub> |  | 3.6<br><sub>1,3,7,3,7</sub> |  | 1.5<br><sub>0,0,5,3,2</sub> |  | 0.5 | 0.3 | 1.5 | 16.2 |
@@ -492,10 +492,10 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Davion Mitchell (MIA) | 98% | 34.5<br><sub>34,35,29,43,38</sub> | 13.1<br><sub>10,15,15,11,22</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>1,6,0,2,2</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 8.0<br><sub>10,11,7,10,8</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.8<br><sub>0,3,4,0,4</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.3 | 0.3 | 1.9 | 23.9 |
-| Bam Adebayo (MIA) | 98% | 34.0<br><sub>33,33,31,41,33</sub> | 21.1<br><sub>24,27,16,35,18</sub> | 19.5 · –<br><sub>o 51% · u 49%</sub> | 10.2<br><sub>9,9,9,10,10</sub> | 9.5<br><sub>o 52% · u 48%</sub> | 3.7<br><sub>3,3,4,4,0</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.3<br><sub>0,0,1,1,0</sub> | 0.5<br><sub>o 62% · u 38%</sub> | 1.7 | 0.7 | 1.9 | 35.1 |
+| Davion Mitchell (MIA) | 98% | 34.5<br><sub>34,35,29,43,38</sub> | 13.1<br><sub>10,15,15,11,22</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>1,6,0,2,2</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 8.0<br><sub>10,11,7,10,8</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.8<br><sub>0,3,4,0,4</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.3 | 0.3 | 1.9 | 23.9 |
+| Bam Adebayo (MIA) | 98% | 34.0<br><sub>33,33,31,41,33</sub> | 21.1<br><sub>24,27,16,35,18</sub> | 19.5 · –<br><sub>o 50% · u 50%</sub> | 10.2<br><sub>9,9,9,10,10</sub> | 9.5<br><sub>o 52% · u 48%</sub> | 3.7<br><sub>3,3,4,4,0</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.3<br><sub>0,0,1,1,0</sub> | 0.5<br><sub>o 62% · u 38%</sub> | 1.7 | 0.7 | 1.9 | 35.1 |
 | Giannis Antetokounmpo (MIA) | 98% | 33.4<br><sub>31,31,34,41,31</sub> | 29.4<br><sub>24,31,30,27,20</sub> | 29.5 · –<br><sub>o 48% · u 52%</sub> | 12.3<br><sub>18,18,12,14,14</sub> | 12.5<br><sub>o 46% · u 54%</sub> | 6.4<br><sub>3,10,7,6,4</sub> |  | 0.6<br><sub>0,1,0,0,1</sub> |  | 1.2 | 0.9 | 3.4 | 48.1 |
-| Pelle Larsson (MIA) | 98% | 29.5<br><sub>31,24,30,35,29</sub> | 11.7<br><sub>17,18,9,7,13</sub> | 11.5 · –<br><sub>o 47% · u 53%</sub> | 3.5<br><sub>6,3,3,3,1</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 3.9<br><sub>8,3,2,4,4</sub> | 3.5<br><sub>o 48% · u 52%</sub> | 0.9<br><sub>2,1,1,0,3</sub> |  | 1.1 | 0.3 | 1.5 | 19.0 |
+| Pelle Larsson (MIA) | 98% | 29.5<br><sub>31,24,30,35,29</sub> | 11.7<br><sub>17,18,9,7,13</sub> | 11.5 · –<br><sub>o 50% · u 50%</sub> | 3.5<br><sub>6,3,3,3,1</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 3.9<br><sub>8,3,2,4,4</sub> | 3.5<br><sub>o 48% · u 52%</sub> | 0.9<br><sub>2,1,1,0,3</sub> |  | 1.1 | 0.3 | 1.5 | 19.0 |
 | Andrew Wiggins (MIA) | 98% | 25.6<br><sub>29,30,24,23,21</sub> | 11.4<br><sub>18,12,7,3,2</sub> | 9.5 · –<br><sub>o 53% · u 47%</sub> | 3.6<br><sub>2,2,0,4,6</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 2.2<br><sub>2,1,2,1,4</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.5<br><sub>4,2,2,1,0</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 1.0 | 0.8 | 1.1 | 17.2 |
 | Klay Thompson (MIA) | 98% | 23.6<br><sub>17,26,27,35,23</sub> | 12.1<br><sub>3,25,19,30,11</sub> | 11.5 · –<br><sub>o 50% · u 50%</sub> | 2.1<br><sub>1,0,1,5,0</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 1.8<br><sub>2,3,1,3,3</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 2.6<br><sub>1,7,4,8,2</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 0.7 | 0.4 | 1.0 | 16.0 |
 | Bobby Portis (MIA) | 98% | 17.6<br><sub>23,17,18,18,14</sub> | 7.8<br><sub>11,8,2,4,0</sub> | 7.5 · –<br><sub>o 51% · u 49%</sub> | 4.9<br><sub>9,3,3,10,5</sub> | 5.5<br><sub>o 46% · u 54%</sub> | 1.4<br><sub>4,1,2,5,0</sub> |  | 1.0<br><sub>1,2,0,0,0</sub> |  | 0.6 | 0.3 | 0.7 | 14.1 |
@@ -507,12 +507,12 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC)
 | Keshad Johnson (MIA) | 16% | 6.4 | 3.0 |  | 1.3 |  | 0.3 |  | 0.2 |  | 0.4 | 0.2 | 0.3 | 4.6 |
 | Nick Richards (MIA) | 63% | 6.4<br><sub>-,2,1,-,1</sub> | 2.6<br><sub>-,0,0,-,0</sub> |  | 2.3<br><sub>-,0,1,-,0</sub> |  | 0.2<br><sub>-,0,0,-,0</sub> |  | 0.0<br><sub>-,0,0,-,0</sub> |  | 0.2 | 0.3 | 0.5 | 5.1 |
 | Myron Gardner (MIA) | 58% | 6.2<br><sub>-,2,1,-,1</sub> | 2.5<br><sub>-,0,0,-,0</sub> |  | 1.7<br><sub>-,1,0,-,0</sub> |  | 0.7<br><sub>-,1,0,-,0</sub> |  | 0.2<br><sub>-,0,0,-,0</sub> |  | 0.3 | 0.1 | 0.3 | 4.9 |
-| Darius Acuff Jr. (SAC) | 98% | 34.2<br><sub>41,37,37,42,33</sub> | 23.1<br><sub>34,38,25,22,22</sub> |  | 4.1<br><sub>6,5,5,3,3</sub> |  | 7.3<br><sub>14,5,6,12,8</sub> |  | 2.4<br><sub>3,9,2,3,3</sub> |  | 1.0 | 0.3 | 3.0 | 34.4 |
+| Darius Acuff Jr. (SAC) | 98% | 34.2<br><sub>41,37,37,42,33</sub> | 23.1<br><sub>34,38,25,22,22</sub> |  | 4.1<br><sub>6,5,5,3,3</sub> |  | 7.3<br><sub>14,5,6,12,8</sub> |  | 2.4<br><sub>3,9,2,3,3</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.0 | 0.3 | 3.0 | 34.4 |
 | Zach LaVine (SAC) | 98% | 31.1<br><sub>39,21,28,35,35</sub> | 19.5<br><sub>21,11,23,21,14</sub> |  | 3.2<br><sub>3,0,4,4,4</sub> |  | 2.9<br><sub>5,1,1,1,3</sub> |  | 2.4<br><sub>3,0,5,3,1</sub> |  | 0.8 | 0.2 | 2.2 | 25.5 |
 | Domantas Sabonis (SAC) | 98% | 30.8<br><sub>40,38,31,35,31</sub> | 14.9<br><sub>9,11,9,16,17</sub> |  | 11.6<br><sub>15,14,7,17,12</sub> |  | 5.3<br><sub>7,8,4,1,5</sub> |  | 0.3<br><sub>0,0,0,0,1</sub> |  | 0.9 | 0.3 | 2.4 | 31.8 |
-| De'Andre Hunter (SAC) | 98% | 28.4<br><sub>37,32,36,38,-</sub> | 13.1<br><sub>24,19,6,14,-</sub> |  | 4.5<br><sub>5,3,7,2,-</sub> |  | 1.6<br><sub>1,0,2,2,-</sub> |  | 1.6<br><sub>4,2,0,1,-</sub> |  | 0.8 | 0.2 | 1.4 | 19.2 |
+| De'Andre Hunter (SAC) | 98% | 28.4<br><sub>37,32,36,38,-</sub> | 13.1<br><sub>24,19,6,14,-</sub> |  | 4.5<br><sub>5,3,7,2,-</sub> |  | 1.6<br><sub>1,0,2,2,-</sub> |  | 1.6<br><sub>4,2,0,1,-</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.8 | 0.2 | 1.4 | 19.2 |
 | Precious Achiuwa (SAC) | 98% | 23.9<br><sub>41,25,27,17,22</sub> | 10.2<br><sub>24,6,6,7,9</sub> |  | 6.4<br><sub>9,5,10,3,4</sub> |  | 1.4<br><sub>2,1,3,1,0</sub> |  | 0.3<br><sub>0,0,0,1,1</sub> |  | 0.9 | 0.7 | 1.1 | 18.0 |
-| Keegan Murray (SAC) | 100% | 23.9<br><sub>-,-,-,-,-</sub> | 9.4<br><sub>-,-,-,-,-</sub> |  | 4.1<br><sub>-,-,-,-,-</sub> |  | 1.2<br><sub>-,-,-,-,-</sub> |  | 1.0<br><sub>-,-,-,-,-</sub> |  | 0.7 | 0.8 | 0.9 | 14.8 |
+| Keegan Murray (SAC) | 100% | 23.9<br><sub>-,-,-,-,-</sub> | 9.4<br><sub>-,-,-,-,-</sub> |  | 4.1<br><sub>-,-,-,-,-</sub> |  | 1.2<br><sub>-,-,-,-,-</sub> |  | 1.0<br><sub>-,-,-,-,-</sub> | 1.5 | 0.7 | 0.8 | 0.9 | 14.8 |
 | Leaky Black (SAC) | 64% | 22.6<br><sub>-,-,25,22,40</sub> | 5.6<br><sub>-,-,12,3,12</sub> |  | 3.9<br><sub>-,-,3,6,3</sub> |  | 1.6<br><sub>-,-,1,1,5</sub> |  | 0.7<br><sub>-,-,4,0,4</sub> |  | 1.0 | 0.4 | 0.7 | 11.0 |
 | Malik Monk (SAC) | 98% | 17.5<br><sub>8,14,30,24,18</sub> | 9.9<br><sub>2,8,24,13,12</sub> |  | 1.7<br><sub>1,0,1,2,0</sub> |  | 3.5<br><sub>1,3,7,3,7</sub> |  | 1.3<br><sub>0,0,5,3,2</sub> |  | 0.5 | 0.3 | 1.3 | 15.1 |
 | Emanuel Sharp (SAC) | 98% | 17.2<br><sub>18,24,20,10,31</sub> | 4.9<br><sub>0,2,9,3,9</sub> |  | 1.7<br><sub>0,1,3,1,5</sub> |  | 0.9<br><sub>0,1,1,2,0</sub> |  | 0.6<br><sub>0,0,3,1,3</sub> |  | 0.5 | 0.2 | 0.7 | 7.5 |
