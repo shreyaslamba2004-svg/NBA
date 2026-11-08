@@ -1,7 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAS @ POR,Jrue Holiday 13+ pts + Scoot Henderson 10+ pr,2,0.436,0.4038,2.48,2.6,2.39,-0.0362,1.015,2.10-2.50
-SAS @ POR,Sidy Cissoko 5+ pts + Scoot Henderson 10+ pr,2,0.5463,0.4118,2.43,2.55,2.33,-0.0385,1.012,2.10-2.50
-SAS @ POR,Jrue Holiday 13+ pts + Toumani Camara 10+ pr,2,0.4519,0.4132,2.42,2.54,2.32,-0.0401,1.01,2.10-2.50
-SAS @ POR,Toumani Camara 11+ pts + Sidy Cissoko 5+ pra,2,0.5326,0.4451,2.25,2.36,2.09,-0.0685,1.003,1.85-2.10
-SAS @ POR,Scoot Henderson 12+ pts + Sidy Cissoko 5+ pra,2,0.5041,0.4447,2.25,2.36,2.08,-0.0735,1.007,1.85-2.10
-SAS @ POR,Deni Avdija 23+ pts + Sidy Cissoko 5+ pra,2,0.4653,0.4425,2.26,2.37,2.08,-0.078,1.006,1.85-2.10
+SAS @ POR,Jrue Holiday 13+ pts + Toumani Camara 10+ pr,2,0.4673,0.4139,2.42,2.54,2.32,-0.0386,1.009,2.10-2.50
+SAS @ POR,Sidy Cissoko 5+ pts + Jrue Holiday 1+ 3pm,2,0.5927,0.4424,2.26,2.37,2.16,-0.0423,1.007,2.10-2.50
+SAS @ POR,Jrue Holiday 13+ pts + Deni Avdija 4+ ast,2,0.4765,0.4353,2.3,2.41,2.2,-0.0427,1.007,2.10-2.50
+SAS @ POR,Toumani Camara 11+ pts + Sidy Cissoko 5+ pra,2,0.5418,0.4455,2.24,2.36,2.09,-0.0677,1.003,1.85-2.10
+SAS @ POR,Deni Avdija 23+ pts + Sidy Cissoko 5+ pra,2,0.462,0.4415,2.27,2.38,2.08,-0.0801,1.004,1.85-2.10
+SAS @ POR,SAS win + Sidy Cissoko 5+ pra,2,0.6111,0.5533,1.81,1.9,1.64,-0.0902,0.993,1.50-1.65
+SAS @ POR,SAS win + Jrue Holiday 1+ 3pm,2,0.5816,0.5314,1.88,1.98,1.71,-0.0922,0.992,1.65-1.85
+SAS @ POR,SAS win + Toumani Camara 10+ pr,2,0.5633,0.5035,1.99,2.09,1.79,-0.0972,0.984,1.65-1.85
+SAS @ POR,SAS win + Deni Avdija 4+ ast,2,0.5764,0.5314,1.88,1.98,1.7,-0.098,0.986,1.65-1.85

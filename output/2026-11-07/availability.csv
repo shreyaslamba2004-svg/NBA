@@ -1,15 +1,15 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909944,POR,1630166,Deni Avdija,Starting,,1.0,,,1.0
-401909944,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
+401909944,POR,1630166,Deni Avdija,,,1.0,,,
+401909944,POR,1641739,Toumani Camara,,,1.0,,,
 401909944,POR,904592435,Branden Carlson,,,1.0,,,
 401909944,POR,1631321,Sidy Cissoko,,,1.0,,,
-401909944,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
+401909944,POR,1642270,Donovan Clingan,,,1.0,,,
 401909944,POR,1642905,Yang Hansen,,,1.0,,,
-401909944,POR,1630703,Scoot Henderson,Starting,,1.0,,,1.0
+401909944,POR,1630703,Scoot Henderson,,,1.0,,,
 401909944,POR,201950,Jrue Holiday,,,1.0,,,
 401909944,POR,1643257,Jayson Kent,,,1.0,,,
 401909944,POR,1630249,Vit Krejci,Out,Injury/Illness-LeftAnkleFracture,0.0,"Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",,
-401909944,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
+401909944,POR,203081,Damian Lillard,,,1.0,,,
 401909944,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant ""may not be out for as long as we thought,"" Trail Blazers Insider Sean Highkin reports.",,
 401909944,POR,1630695,Micah Potter,,,1.0,,,
 401909944,POR,1631101,Shaedon Sharpe,Out,,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
@@ -19,11 +19,11 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909944,SAS,203084,Harrison Barnes,,,1.0,,,
 401909944,SAS,905105337,Maliq Brown,Out,GLeague-Two-Way,0.0,,,
 401909944,SAS,1642868,Carter Bryant,,,1.0,,,
-401909944,SAS,1642264,Stephon Castle,Starting,,1.0,,,1.0
+401909944,SAS,1642264,Stephon Castle,,,1.0,,,
 401909944,SAS,1630577,Julian Champagnie,,,1.0,,,
-401909944,SAS,1628368,De'Aaron Fox,Starting,,1.0,,,1.0
+401909944,SAS,1628368,De'Aaron Fox,,,1.0,,,
 401909944,SAS,905107968,Ja'Kobi Gillespie,Out,GLeague-Two-Way,0.0,,,
-401909944,SAS,1642844,Dylan Harper,Starting,,1.0,,,1.0
+401909944,SAS,1642844,Dylan Harper,,,1.0,,,
 401909944,SAS,202699,Tobias Harris,Out,Injury/Illness-LeftCalfStrain,0.0,Harris (calf) is listed as out for Saturday's game against Minnesota.,,
 401909944,SAS,1629640,Keldon Johnson,,,1.0,,,
 401909944,SAS,1642357,David Jones Garcia,,,1.0,,,
@@ -31,5 +31,5 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909944,SAS,1629162,Jordan McLaughlin,,,1.0,,,
 401909944,SAS,905101845,Jayden Quaintance,Out,Injury/Illness-RightKneeSurgery,0.0,"Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",,
 401909944,SAS,905105809,Tarris Reed Jr.,,,1.0,,,
-401909944,SAS,1630170,Devin Vassell,Starting,,1.0,,,1.0
-401909944,SAS,1641705,Victor Wembanyama,Starting,,1.0,,,1.0
+401909944,SAS,1630170,Devin Vassell,,,1.0,,,
+401909944,SAS,1641705,Victor Wembanyama,,,1.0,,,
