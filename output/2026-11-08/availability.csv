@@ -71,7 +71,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909946,LAL,1629020,Jarred Vanderbilt,,,1.0,,,
 401909946,LAL,1630533,Ziaire Williams,,,1.0,,,
 401909947,MIN,1630163,LaMelo Ball,,,1.0,,,
-401909947,MIN,1642866,Joan Beringer,Questionable,,0.55,Beringer (nose) is questionable for Sunday's game against the Jazz.,,
+401909947,MIN,1642866,Joan Beringer,Available,,1.0,Beringer (nose) is questionable for Sunday's game against the Jazz.,,
 401909947,MIN,1641740,Jaylen Clark,,,1.0,,,
 401909947,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",,
 401909947,MIN,1630245,Ayo Dosunmu,,,1.0,,,
