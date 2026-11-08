@@ -6,18 +6,15 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909946,LAL @ DET,moneyline,LAL,,,,pointsbetau,230.0,3.3,0.3907,2.56,0.2918,0.3097,0.081,3.85,0.2893,0.3097,0.0219,0.0024,False,True,True,,,
 401909947,UTA @ MIN,moneyline,UTA,,,,sportsbet,490.0,5.9,0.1368,7.31,0.1631,0.1729,-0.0361,3.91,-0.1929,0.1729,0.0202,0.001,False,True,True,,,
 401909949,BOS @ MIL,prop_ast,over,Ryan Rollins,1631157.0,6.5,draftkings,1160.0,12.6,0.1609,6.22,0.0742,0.0742,0.0867,,1.0269,0.0807,0.0165,0.0004,False,False,False,,,
-401909951,MIA @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,19.5,draftkings,2300.0,24.0,0.0831,12.03,0.0389,0.0389,0.0442,,0.9945,0.0423,0.0141,0.0002,False,True,False,Domantas Sabonis,0.1112,0.061
-401909951,MIA @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,17.5,draftkings,1440.0,15.4,0.1295,7.72,0.0607,0.0607,0.0688,,0.9939,0.0658,0.014,0.0002,False,False,False,Domantas Sabonis,0.1709,0.1008
 401909950,NOP @ LAC,prop_ast,over,Jeremiah Fears,1642847.0,6.5,draftkings,1040.0,11.4,0.1745,5.73,0.082,0.082,0.0925,,0.9891,0.0889,0.0137,0.0003,False,False,False,,,
 401909951,MIA @ SAC,moneyline,SAC,,,,betfair_ex_au,351.50000000000006,4.52,0.2736,3.66,0.2151,0.2238,0.0498,2.96,0.2351,0.2238,0.0105,0.0007,False,True,True,Domantas Sabonis,0.2368,0.3098
 401909949,BOS @ MIL,moneyline,MIL,,,,sportsbet,515.0,6.15,0.1986,5.03,0.1564,0.1642,0.0344,3.98,0.2217,0.1642,0.0101,0.0005,False,True,True,,,
 401909950,NOP @ LAC,prop_ast,over,Jeremiah Fears,1642847.0,7.5,draftkings,1880.0,19.8,0.0978,10.23,0.0472,0.0472,0.0505,,0.9355,0.051,0.0096,0.0001,False,True,False,,,
 401909946,LAL @ DET,moneyline,LAL,,,,draftkings,226.0,3.26,0.3907,2.56,0.2945,0.3097,0.081,4.15,0.2737,0.3097,0.0095,0.0011,False,True,True,,,
-401909946,LAL @ DET,prop_pts,over,Collin Sexton,1629012.0,11.5,unibet,100.0,2.0,0.4383,2.28,0.4646,0.5094,-0.0711,7.63,-0.1234,0.5041,0.0082,0.002,False,True,True,,,
 401909948,BKN @ DAL,moneyline,BKN,,,,betfair_ex_au,256.5,3.56,0.2136,4.68,0.272,0.2827,-0.0691,3.12,-0.2385,0.2827,0.0079,0.0008,False,True,True,,,
 401909949,BOS @ MIL,prop_reb,over,Jayson Tatum,1628369.0,12.5,draftkings,1400.0,15.0,0.1267,7.89,0.0623,0.0623,0.0644,,0.9002,0.0671,0.007,0.0001,False,False,False,,,
+401909946,LAL @ DET,prop_pts,over,Collin Sexton,1629012.0,11.5,unibet,100.0,2.0,0.4383,2.28,0.4646,0.5084,-0.0701,7.63,-0.1234,0.5032,0.0064,0.0016,False,True,True,,,
 401909946,LAL @ DET,moneyline,LAL,,,,playup,225.0,3.25,0.3907,2.56,0.2904,0.3097,0.081,5.96,0.2698,0.3097,0.0064,0.0007,False,True,True,,,
-401909951,MIA @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,14.5,draftkings,670.0,7.7,0.2418,4.14,0.1214,0.1214,0.1204,,0.8616,0.1304,0.0041,0.0002,False,True,False,Domantas Sabonis,0.3029,0.1973
 401909946,LAL @ DET,prop_pts,under,Daniss Jenkins,1642450.0,9.5,pointsbetau,105.0,2.05,0.5139,1.95,0.4675,0.487,0.0268,4.34,0.0534,0.489,0.0025,0.0006,False,True,True,,,
 401909949,BOS @ MIL,prop_reb,over,Jayson Tatum,1628369.0,11.5,draftkings,890.0,9.9,0.1847,5.41,0.0944,0.0944,0.0903,,0.829,0.1012,0.0017,0.0,False,True,False,Mitchell Robinson,0.2055,0.1576
 401909946,LAL @ DET,prop_pts,under,Jake LaRavia,1631222.0,7.5,tab,-111.0,1.9,0.581,1.72,0.4929,0.5217,0.0593,6.74,0.1045,0.5262,0.0002,0.0001,False,False,True,,,
