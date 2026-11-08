@@ -1,7 +1,7 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909945,CHI,905105555,Tobe Awaka,Questionable,Injury/Illness-LeftMCLSprain,0.55,Awaka (knee) is questionable for Sundays' game against the 76ers.,,
 401909945,CHI,1641824,Matas Buzelis,,,1.0,,,
-401909945,CHI,1629651,Nic Claxton,Questionable,Injury/Illness-LeftHamstringStrain,0.55,Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.,,
+401909945,CHI,1629651,Nic Claxton,Questionable,Injury/Illness-LeftHamstringStrain,0.55,,,
 401909945,CHI,1628380,Zach Collins,Out,Injury/Illness-RespiratoryIllness,0.0,Collins (illness) is out for Sunday's game against Philadelphia.,,
 401909945,CHI,1642855,Noa Essengue,,,1.0,,,
 401909945,CHI,1630581,Josh Giddey,,,1.0,,,
