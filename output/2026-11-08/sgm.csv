@@ -1,16 +1,24 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 PHI @ CHI,PHI win + game under 238.5,2,0.5019,0.3865,2.59,2.72,2.4,-0.0735,1.01,2.10-2.50
-LAL @ DET,game over 222.5 + Duncan Robinson 10+ pts,2,0.4302,0.3912,2.56,2.68,2.45,-0.0423,1.042,2.10-2.50
-LAL @ DET,DET win + Duncan Robinson 10+ pts,2,0.4905,0.4156,2.41,2.53,2.3,-0.0446,1.032,2.10-2.50
-LAL @ DET,game over 222.5 + Duncan Robinson 10+ pra,2,0.4918,0.4515,2.21,2.33,2.07,-0.0673,1.016,1.85-2.10
-LAL @ DET,DET win + Duncan Robinson 10+ pra,2,0.5616,0.4804,2.08,2.19,1.94,-0.068,1.007,1.85-2.10
-LAL @ DET,DET -4.5 + Duncan Robinson 10+ pts,2,0.3931,0.3893,2.57,2.7,2.39,-0.0681,1.037,2.10-2.50
-LAL @ DET,DET -4.5 + Duncan Robinson 10+ pra,2,0.4486,0.4486,2.23,2.34,2.02,-0.0938,1.01,1.85-2.10
-LAL @ DET,Matisse Thybulle 3pm under 1.5 + Duncan Robinson 10+ pra,2,0.711,0.5196,1.92,2.02,1.73,-0.1021,0.999,1.65-1.85
+LAL @ DET,game over 222.5 + Duncan Robinson 10+ pts,2,0.4302,0.3918,2.55,2.68,2.44,-0.0424,1.042,2.10-2.50
+LAL @ DET,DET win + Duncan Robinson 10+ pts,2,0.4905,0.4162,2.4,2.52,2.3,-0.0448,1.032,2.10-2.50
+LAL @ DET,DET -4.5 + Duncan Robinson 10+ pts,2,0.3931,0.3899,2.57,2.69,2.39,-0.0683,1.037,2.10-2.50
+LAL @ DET,Matisse Thybulle 3pm under 1.5 + Duncan Robinson 10+ pts,2,0.6066,0.4398,2.27,2.39,2.04,-0.101,1.0,1.85-2.10
 UTA @ MIN,MIN win + game over 223.5,2,0.5258,0.4105,2.44,2.56,2.24,-0.0785,1.005,2.10-2.50
 UTA @ MIN,MIN win + game under 223.5,2,0.3134,0.4055,2.47,2.59,2.24,-0.0897,0.992,2.10-2.50
 BKN @ DAL,DAL win + game under 219.5,2,0.291,0.3759,2.66,2.79,2.45,-0.0786,1.004,2.10-2.50
 BKN @ DAL,DAL win + game over 219.5,2,0.4516,0.3731,2.68,2.81,2.45,-0.0853,0.997,2.10-2.50
-BOS @ MIL,BOS win + game under 222.5,2,0.4182,0.4169,2.4,2.52,2.2,-0.0817,1.002,2.10-2.50
-BOS @ MIL,BOS win + game over 222.5,2,0.3917,0.4152,2.41,2.53,2.2,-0.0854,0.998,2.10-2.50
+BOS @ MIL,BOS win + Brayden Burries pts under 10.5,2,0.4528,0.4198,2.38,2.5,2.25,-0.0543,1.036,2.10-2.50
+BOS @ MIL,BOS win + Tyler Herro pa under 24.5,2,0.4922,0.4345,2.3,2.42,2.17,-0.055,1.039,2.10-2.50
+BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5301,0.4457,2.24,2.36,2.12,-0.0571,1.031,2.10-2.50
+BOS @ MIL,BOS win + Tyler Herro pra under 29.5,2,0.509,0.4482,2.23,2.34,2.1,-0.059,1.034,1.85-2.10
+BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5065,0.4498,2.22,2.33,2.06,-0.0755,1.016,1.85-2.10
+BOS @ MIL,game over 222.5 + Kyle Kuzma 10+ pra,2,0.465,0.4456,2.24,2.36,2.05,-0.0857,1.018,1.85-2.10
+BOS @ MIL,BOS win + Jaime Jaquez Jr. 1+ 3pm,2,0.6242,0.5519,1.81,1.9,1.64,-0.0923,0.993,1.50-1.65
+BOS @ MIL,Jaime Jaquez Jr. 1+ 3pm + Kyle Kuzma 10+ pra,2,0.7325,0.5854,1.71,1.79,1.53,-0.1032,1.002,1.50-1.65
+BOS @ MIL,Jaime Jaquez Jr. 1+ 3pm + Kyle Kuzma 10+ pr,2,0.6715,0.5293,1.89,1.98,1.69,-0.1036,1.001,1.65-1.85
+BOS @ MIL,BOS win + Jaime Jaquez Jr. 1+ 3pm + Kyle Kuzma 10+ pra,3,0.5868,0.482,2.07,2.18,1.77,-0.1481,0.991,1.65-1.85
+MIA @ SAC,MIA win + Davion Mitchell 2+ 3pm,2,0.3801,0.3977,2.51,2.64,2.33,-0.0717,1.029,2.10-2.50
+MIA @ SAC,MIA win + Klay Thompson 3+ 3pm,2,0.3369,0.4351,2.3,2.41,2.12,-0.0763,1.039,2.10-2.50
 MIA @ SAC,MIA win + game under 238.5,2,0.292,0.3785,2.64,2.77,2.43,-0.0788,1.004,2.10-2.50
+MIA @ SAC,MIA win + Bam Adebayo 1+ 3pm,2,0.4929,0.4649,2.15,2.26,1.98,-0.0815,1.007,1.85-2.10
