@@ -1,11 +1,9 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ DET,DET win + Quentin Grimes 3pm under 1.5,2,0.4376,0.3959,2.53,2.65,2.44,-0.033,1.027,2.10-2.50
-LAL @ DET,DET win + Quentin Grimes ra under 6.5,2,0.4462,0.4009,2.49,2.62,2.38,-0.045,1.011,2.10-2.50
+LAL @ DET,Collin Sexton 12+ pts + Walker Kessler 1+ blk,2,0.4092,0.4242,2.36,2.48,2.24,-0.0482,1.003,2.10-2.50
+LAL @ DET,Ziaire Williams 9+ pts + Walker Kessler 1+ blk,2,0.5151,0.4234,2.36,2.48,2.24,-0.05,1.0,2.10-2.50
+LAL @ DET,Daniss Jenkins pts under 9.5 + Walker Kessler 1+ blk,2,0.4544,0.4099,2.44,2.56,2.3,-0.0572,1.002,2.10-2.50
 LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5814,1.72,1.81,1.6,-0.0677,1.004,1.50-1.65
-LAL @ DET,Quentin Grimes pa under 14.5 + Walker Kessler 1+ blk,2,0.6426,0.4154,2.41,2.53,2.19,-0.09,0.999,2.10-2.50
-LAL @ DET,Quentin Grimes pra under 18.5 + Walker Kessler 1+ blk,2,0.6786,0.4516,2.21,2.32,2.01,-0.0943,0.998,1.85-2.10
-LAL @ DET,Quentin Grimes ra under 6.5 + Walker Kessler 1+ blk,2,0.6648,0.4826,2.07,2.18,1.87,-0.0976,1.001,1.85-2.10
-LAL @ DET,Jake LaRavia ra under 6.5 + Walker Kessler 1+ blk,2,0.6456,0.458,2.18,2.29,1.97,-0.0998,0.997,1.85-2.10
+LAL @ DET,John Collins pts under 11.5 + Walker Kessler 1+ blk,2,0.5549,0.4334,2.31,2.42,2.1,-0.0908,0.997,1.85-2.10
 UTA @ MIN,game under 222.5 + MIN win,2,0.29,0.4115,2.43,2.55,2.24,-0.0795,0.995,2.10-2.50
 UTA @ MIN,MIN win + game over 222.5,2,0.5732,0.4146,2.41,2.53,2.22,-0.0806,1.003,2.10-2.50
 UTA @ MIN,MIN win + game under 221.5,2,0.2746,0.4109,2.43,2.56,2.22,-0.0889,0.998,2.10-2.50
@@ -28,10 +26,8 @@ BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pr,2,0.4419,0.413,2.42,2.54,2.36,-0.0
 BOS @ MIL,game under 222.5 + BOS win,2,0.4243,0.4279,2.34,2.45,2.22,-0.0482,1.009,2.10-2.50
 BOS @ MIL,BOS win + Tyler Herro pts under 19.5,2,0.5043,0.4238,2.36,2.48,2.25,-0.0484,1.039,2.10-2.50
 BOS @ MIL,game over 221.5 + Jayson Tatum 4+ reb,2,0.4729,0.4584,2.18,2.29,2.06,-0.0547,1.011,1.85-2.10
-BOS @ MIL,game over 221.5 + Kyle Kuzma 5+ pa,2,0.4867,0.4715,2.12,2.23,2.0,-0.0583,1.008,1.85-2.10
 BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5238,0.4562,2.19,2.3,2.03,-0.075,1.011,1.85-2.10
-BOS @ MIL,Jayson Tatum 7+ reb + Kyle Kuzma 5+ pa,2,0.6901,0.5248,1.91,2.0,1.71,-0.1019,1.001,1.65-1.85
-BOS @ MIL,Jayson Tatum 14+ ra + Kyle Kuzma 5+ pa,2,0.6342,0.493,2.03,2.13,1.82,-0.1026,1.002,1.65-1.85
+BOS @ MIL,BOS win + Jayson Tatum 7+ reb,2,0.5624,0.4792,2.09,2.19,1.91,-0.0865,0.996,1.85-2.10
 NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4214,2.37,2.49,2.27,-0.0428,1.033,2.10-2.50
 NOP @ LAC,NOP win + Dejounte Murray 4+ ast,2,0.3961,0.4156,2.41,2.53,2.29,-0.0496,1.027,2.10-2.50
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.3988,2.51,2.63,2.37,-0.054,1.03,2.10-2.50
