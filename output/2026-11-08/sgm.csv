@@ -1,48 +1,46 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHI @ CHI,PHI win + Norman Powell 3pm under 2.5,2,0.466,0.4091,2.44,2.57,2.28,-0.0671,1.019,2.10-2.50
-PHI @ CHI,PHI win + game under 238.5,2,0.5019,0.3872,2.58,2.71,2.39,-0.0736,1.01,2.10-2.50
-PHI @ CHI,CHI +9.5 + Matas Buzelis 10+ pa,2,0.4795,0.3938,2.54,2.67,2.35,-0.0737,1.029,2.10-2.50
-PHI @ CHI,PHI win + Jaylen Brown 25+ pra,2,0.6052,0.6071,1.65,1.73,1.51,-0.0807,1.017,1.50-1.65
-PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm,2,0.6337,0.5953,1.68,1.76,1.54,-0.0808,1.011,1.50-1.65
-PHI @ CHI,CHI +9.5 + Matas Buzelis 10+ pra,2,0.5342,0.4522,2.21,2.32,2.0,-0.0974,1.006,1.85-2.10
-PHI @ CHI,Matas Buzelis 5+ reb + Caleb Wilson 4+ reb,2,0.5679,0.439,2.28,2.39,2.05,-0.1013,1.001,1.85-2.10
-PHI @ CHI,Norman Powell 3+ reb + Jaylen Brown 20+ pra,2,0.5979,0.4706,2.12,2.23,1.91,-0.1018,1.002,1.85-2.10
-PHI @ CHI,PHI win + Matas Buzelis 10+ pa,2,0.5901,0.5764,1.73,1.82,1.54,-0.1101,0.982,1.50-1.65
-PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5629,0.4885,2.05,2.15,1.77,-0.1332,1.013,1.65-1.85
-PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 25+ pra,3,0.5368,0.4974,2.01,2.11,1.74,-0.1344,1.018,1.65-1.85
-LAL @ DET,game over 222.5 + Walker Kessler 1+ blk,2,0.4604,0.4229,2.36,2.48,2.19,-0.0749,1.008,2.10-2.50
-LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5255,0.4498,2.22,2.33,2.05,-0.0761,0.998,1.85-2.10
-LAL @ DET,game under 222.5 + Walker Kessler 1+ blk,2,0.4416,0.4162,2.4,2.52,2.19,-0.0895,0.992,2.10-2.50
-LAL @ DET,Matisse Thybulle 3pm under 1.5 + Walker Kessler 1+ blk,2,0.6708,0.485,2.06,2.16,1.85,-0.1013,0.999,1.85-2.10
-LAL @ DET,LAL +4.5 + Walker Kessler 1+ blk,2,0.4829,0.4199,2.38,2.5,2.14,-0.1018,1.001,2.10-2.50
-LAL @ DET,Austin Reaves ra under 9.5 + Walker Kessler 1+ blk,2,0.5605,0.434,2.3,2.42,2.05,-0.1085,0.997,1.85-2.10
+PHI @ CHI,PHI win + Jaylen Brown 33+ pra,2,0.4071,0.3968,2.52,2.65,2.41,-0.0429,1.049,2.10-2.50
+PHI @ CHI,PHI win + Tyrese Maxey 3+ 3pm,2,0.4051,0.3804,2.63,2.76,2.47,-0.0607,1.027,2.10-2.50
+PHI @ CHI,PHI win + Norman Powell 3pm under 2.5,2,0.466,0.4112,2.43,2.55,2.27,-0.067,1.019,2.10-2.50
+PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm,2,0.6337,0.6023,1.66,1.74,1.53,-0.0814,1.011,1.50-1.65
+PHI @ CHI,CHI +9.5 + Matas Buzelis 10+ pra,2,0.5342,0.4553,2.2,2.31,1.98,-0.0972,1.006,1.85-2.10
+PHI @ CHI,Matas Buzelis 5+ reb + Jaylen Brown 15+ pts,2,0.5452,0.4295,2.33,2.44,2.09,-0.103,1.004,1.85-2.10
+PHI @ CHI,Norman Powell 3+ reb + Caleb Wilson 4+ reb,2,0.558,0.4375,2.29,2.4,2.05,-0.1032,1.0,1.85-2.10
+PHI @ CHI,PHI win + Matas Buzelis 10+ pa,2,0.5901,0.5855,1.71,1.79,1.52,-0.1109,0.982,1.50-1.65
+PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5629,0.4905,2.04,2.14,1.77,-0.1331,1.013,1.65-1.85
+PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 25+ pra,3,0.5368,0.4939,2.02,2.13,1.75,-0.1333,1.018,1.65-1.85
+PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 15+ pts,3,0.541,0.5021,1.99,2.09,1.72,-0.1351,1.017,1.65-1.85
+PHI @ CHI,PHI win + Matas Buzelis 10+ pra + Jaylen Brown 15+ pts,3,0.5885,0.5529,1.81,1.9,1.56,-0.1389,1.013,1.50-1.65
 UTA @ MIN,MIN win + Darryn Peterson pr under 18.5,2,0.5119,0.4101,2.44,2.56,2.29,-0.0607,1.027,2.10-2.50
 UTA @ MIN,MIN win + Darryn Peterson reb under 4.5,2,0.5451,0.4241,2.36,2.48,2.17,-0.078,1.005,2.10-2.50
 UTA @ MIN,MIN win + game over 223.5,2,0.5258,0.408,2.45,2.57,2.26,-0.0784,1.005,2.10-2.50
 BKN @ DAL,DAL win + Day'Ron Sharpe ast under 3.5,2,0.4887,0.3867,2.59,2.72,2.43,-0.0621,1.017,2.10-2.50
 BKN @ DAL,DAL win + game under 219.5,2,0.291,0.3852,2.6,2.73,2.39,-0.0786,1.004,2.10-2.50
-BKN @ DAL,game over 219.5 + P.J. Washington 10+ pa,2,0.5469,0.4117,2.43,2.55,2.23,-0.0802,1.022,2.10-2.50
-BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6427,0.5076,1.97,2.07,1.81,-0.0831,0.994,1.65-1.85
-BKN @ DAL,game over 219.5 + Julius Randle 4+ reb,2,0.5725,0.437,2.29,2.4,2.09,-0.0877,1.015,1.85-2.10
-BKN @ DAL,DAL win + Cooper Flagg 3pm under 1.5,2,0.5262,0.4416,2.26,2.38,2.05,-0.0947,0.988,1.85-2.10
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + P.J. Washington 10+ pa,2,0.7623,0.5216,1.92,2.01,1.73,-0.097,0.998,1.65-1.85
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.804,0.5578,1.79,1.88,1.62,-0.0976,0.999,1.50-1.65
-BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + P.J. Washington 15+ pra,2,0.7768,0.5434,1.84,1.93,1.66,-0.099,0.998,1.65-1.85
-BKN @ DAL,Julius Randle 11+ ra + P.J. Washington 10+ pa,2,0.5658,0.4365,2.29,2.41,2.06,-0.0995,1.005,1.85-2.10
-BKN @ DAL,DAL win + P.J. Washington 10+ pa + Julius Randle 4+ reb,3,0.6102,0.5321,1.88,1.97,1.62,-0.1365,1.013,1.50-1.65
-BKN @ DAL,DAL win + Julius Randle 4+ reb + P.J. Washington 15+ pra,3,0.6212,0.5537,1.81,1.9,1.55,-0.1393,1.012,1.50-1.65
+BKN @ DAL,game over 219.5 + P.J. Washington 10+ pa,2,0.5469,0.4145,2.41,2.53,2.22,-0.0808,1.022,2.10-2.50
+BKN @ DAL,DAL win + Zaccharie Risacher 3pm under 1.5,2,0.6427,0.5036,1.99,2.09,1.82,-0.0823,0.994,1.65-1.85
+BKN @ DAL,game over 219.5 + Julius Randle 4+ reb,2,0.5725,0.4357,2.3,2.41,2.09,-0.0875,1.015,1.85-2.10
+BKN @ DAL,DAL win + Cooper Flagg 3pm under 1.5,2,0.5262,0.4487,2.23,2.34,2.01,-0.0962,0.988,1.85-2.10
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + Julius Randle 4+ reb,2,0.804,0.5517,1.81,1.9,1.64,-0.0965,0.999,1.50-1.65
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + P.J. Washington 10+ pa,2,0.7623,0.5209,1.92,2.02,1.73,-0.0968,0.998,1.65-1.85
+BKN @ DAL,Zaccharie Risacher 3pm under 1.5 + P.J. Washington 15+ pra,2,0.7768,0.5398,1.85,1.95,1.67,-0.0983,0.998,1.65-1.85
+BKN @ DAL,Michael Porter Jr. 9+ ra + Julius Randle 4+ reb,2,0.6145,0.4724,2.12,2.22,1.9,-0.1003,1.003,1.85-2.10
+BKN @ DAL,DAL win + P.J. Washington 10+ pa + Julius Randle 4+ reb,3,0.6102,0.5341,1.87,1.97,1.62,-0.1368,1.013,1.50-1.65
+BKN @ DAL,DAL win + Julius Randle 4+ reb + P.J. Washington 15+ pra,3,0.6212,0.5529,1.81,1.9,1.56,-0.1392,1.012,1.50-1.65
 BOS @ MIL,BOS win + Tyler Herro pa under 24.5,2,0.4922,0.4366,2.29,2.4,2.17,-0.0527,1.039,2.10-2.50
-BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5301,0.4487,2.23,2.34,2.11,-0.055,1.031,2.10-2.50
+BOS @ MIL,BOS win + Tyler Herro pts under 20.5,2,0.5301,0.4583,2.18,2.29,2.06,-0.057,1.031,1.85-2.10
 BOS @ MIL,BOS win + Tyler Herro pra under 29.5,2,0.509,0.4529,2.21,2.32,2.08,-0.0573,1.034,1.85-2.10
 BOS @ MIL,BOS win + Tyler Herro pr under 24.5,2,0.5097,0.434,2.3,2.42,2.17,-0.0584,1.028,2.10-2.50
-BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pra,2,0.4851,0.4436,2.25,2.37,2.06,-0.086,1.018,1.85-2.10
-BOS @ MIL,MIL +12.5 + Kyle Kuzma 10+ pra,2,0.4833,0.4325,2.31,2.43,2.1,-0.0929,1.01,1.85-2.10
-BOS @ MIL,Ryan Rollins 6+ ra + Kyle Kuzma 10+ pra,2,0.6428,0.4969,2.01,2.11,1.81,-0.1013,1.002,1.65-1.85
-MIA @ SAC,MIA win + Zach LaVine pts under 21.5,2,0.4387,0.4079,2.45,2.57,2.34,-0.047,1.047,2.10-2.50
-MIA @ SAC,MIA win + Davion Mitchell 10+ ra,2,0.428,0.3789,2.64,2.77,2.48,-0.0587,1.027,2.10-2.50
-MIA @ SAC,Bam Adebayo 23+ pa + Precious Achiuwa 10+ pr,2,0.492,0.3949,2.53,2.66,2.36,-0.0671,1.004,2.10-2.50
-MIA @ SAC,MIA win + Darius Acuff Jr. 3+ reb,2,0.5176,0.4452,2.25,2.36,2.07,-0.0797,1.002,1.85-2.10
-MIA @ SAC,Darius Acuff Jr. 3+ reb + Precious Achiuwa 10+ pr,2,0.6654,0.4651,2.15,2.26,1.95,-0.094,1.003,1.85-2.10
-MIA @ SAC,Darius Acuff Jr. 6+ ast + Precious Achiuwa 10+ pr,2,0.6133,0.4487,2.23,2.34,2.01,-0.0974,1.004,1.85-2.10
-MIA @ SAC,MIA win + Precious Achiuwa 10+ pr,2,0.5954,0.5794,1.73,1.81,1.55,-0.0997,0.993,1.50-1.65
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Darius Acuff Jr. 4+ ast,2,0.6747,0.4946,2.02,2.12,1.81,-0.1051,0.997,1.65-1.85
+BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pr,2,0.4536,0.406,2.46,2.59,2.3,-0.0674,1.037,2.10-2.50
+BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pra,2,0.4851,0.4426,2.26,2.37,2.07,-0.0858,1.018,1.85-2.10
+BOS @ MIL,Ryan Rollins 6+ ra + Kyle Kuzma 10+ pra,2,0.6428,0.4964,2.01,2.12,1.81,-0.1025,1.002,1.65-1.85
+MIA @ SAC,MIA win + Davion Mitchell 10+ ra,2,0.428,0.3854,2.59,2.72,2.44,-0.0593,1.027,2.10-2.50
+MIA @ SAC,Bam Adebayo 23+ pa + Precious Achiuwa 10+ pr,2,0.492,0.3944,2.54,2.66,2.37,-0.0661,1.004,2.10-2.50
+MIA @ SAC,Bam Adebayo 23+ pa + Davion Mitchell 15+ pra,2,0.5143,0.4319,2.32,2.43,2.16,-0.068,1.006,2.10-2.50
+MIA @ SAC,MIA win + Darius Acuff Jr. 3+ reb,2,0.5176,0.4516,2.21,2.32,2.04,-0.081,1.002,1.85-2.10
+MIA @ SAC,Darius Acuff Jr. 3+ reb + Precious Achiuwa 10+ pr,2,0.6654,0.4708,2.12,2.23,1.92,-0.0951,1.003,1.85-2.10
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 10+ pr,2,0.6578,0.4727,2.12,2.22,1.91,-0.0991,1.001,1.85-2.10
+MIA @ SAC,MIA win + Precious Achiuwa 10+ pr,2,0.5954,0.5782,1.73,1.82,1.56,-0.0995,0.993,1.50-1.65
+MIA @ SAC,Darius Acuff Jr. 3+ reb + Davion Mitchell 15+ pra,2,0.693,0.5137,1.95,2.04,1.75,-0.1002,1.002,1.65-1.85
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Davion Mitchell 15+ pra,2,0.6837,0.5148,1.94,2.04,1.74,-0.1059,0.998,1.65-1.85
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Darius Acuff Jr. 4+ ast,2,0.6747,0.5004,2.0,2.1,1.79,-0.106,0.997,1.65-1.85
+MIA @ SAC,MIA win + Darius Acuff Jr. 4+ ast + Davion Mitchell 15+ pra,3,0.5691,0.5303,1.89,1.98,1.61,-0.1443,1.006,1.50-1.65
