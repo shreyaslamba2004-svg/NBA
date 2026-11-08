@@ -220,7 +220,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909951,SAC,203897,Zach LaVine,,,1.0,,,
 401909951,SAC,905107897,Jonathan Mogbo,Out,GLeague-Two-Way,0.0,,,
 401909951,SAC,1628370,Malik Monk,,,1.0,,,
-401909951,SAC,1631099,Keegan Murray,Questionable,Injury/Illness-LeftAnkleCapsulitis,0.55,Murray (ankle) is questionable for Sunday's game against the Heat.,,
+401909951,SAC,1631099,Keegan Murray,Available,-,1.0,Murray (ankle) is questionable for Sunday's game against the Heat.,,
 401909951,SAC,904709131,Sean Pedulla,Out,GLeague-Two-Way,0.0,,,
 401909951,SAC,1631342,Daeqwon Plowden,,,1.0,,,
 401909951,SAC,1642875,Maxime Raynaud,Out,,0.0,"Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports.",,
