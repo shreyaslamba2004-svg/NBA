@@ -1,33 +1,33 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909945,CHI,905105555,Tobe Awaka,Available,-,1.0,,,
-401909945,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
+401909945,CHI,1641824,Matas Buzelis,,,1.0,,,
 401909945,CHI,1629651,Nic Claxton,Available,-,1.0,,,
 401909945,CHI,1628380,Zach Collins,Out,Injury/Illness-RespiratoryIllness,0.0,Collins (illness) is out for Sunday's game against Philadelphia.,,
 401909945,CHI,1642855,Noa Essengue,,,1.0,,,
-401909945,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
+401909945,CHI,1630581,Josh Giddey,,,1.0,,,
 401909945,CHI,1641722,Jordan Hawkins,,,1.0,,,
 401909945,CHI,1627741,Buddy Hield,,,1.0,,,
 401909945,CHI,1630200,Tre Jones,,,1.0,,,
 401909945,CHI,1631159,Leonard Miller,,,1.0,,,
-401909945,CHI,1630171,Isaac Okoro,Starting,,1.0,,,1.0
+401909945,CHI,1630171,Isaac Okoro,,,1.0,,,
 401909945,CHI,1626181,Norman Powell,Out,,0.0,"Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",,
 401909945,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
-401909945,CHI,1630188,Jalen Smith,Starting,-,1.0,,,1.0
+401909945,CHI,1630188,Jalen Smith,Available,-,1.0,,,
 401909945,CHI,904848625,Dailyn Swain,Out,Injury/Illness-RightDiscIrritation,0.0,,,
 401909945,CHI,1630172,Patrick Williams,,,1.0,,,
-401909945,CHI,905095151,Caleb Wilson,Starting,,1.0,,,1.0
+401909945,CHI,905095151,Caleb Wilson,,,1.0,,,
 401909945,PHI,1631230,Dominick Barlow,Out,,0.0,"Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports.",,
 401909945,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,Bona (back) is out for Sunday's game in Chicago.,,
-401909945,PHI,1627759,Jaylen Brown,Starting,,1.0,,,1.0
+401909945,PHI,1627759,Jaylen Brown,,,1.0,,,
 401909945,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909945,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
+401909945,PHI,1642845,VJ Edgecombe,,,1.0,,,
 401909945,PHI,1642348,Justin Edwards,,,1.0,,,
-401909945,PHI,203954,Joel Embiid,Starting,,1.0,,,1.0
+401909945,PHI,203954,Joel Embiid,Available,,1.0,,,
 401909945,PHI,1629605,Tacko Fall,,,1.0,,,
 401909945,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401909945,PHI,2544,LeBron James,Starting,,1.0,,,1.0
+401909945,PHI,2544,LeBron James,,,1.0,,,
 401909945,PHI,904433144,Caleb Love,,,1.0,,,
-401909945,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
+401909945,PHI,1630178,Tyrese Maxey,,,1.0,,,
 401909945,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909945,PHI,1641712,Rayan Rupert,,,1.0,,,
 401909945,PHI,1629014,Anfernee Simons,,,1.0,,,

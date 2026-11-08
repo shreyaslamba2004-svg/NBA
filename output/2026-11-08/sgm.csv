@@ -1,11 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHI @ CHI,Jalen Smith pts under 11.5 + PHI win,2,0.42,0.4216,2.37,2.49,2.43,0.0262,1.043,2.10-2.50
-PHI @ CHI,Jaylen Brown 22+ pts + PHI win,2,0.3903,0.4057,2.46,2.59,2.49,0.0117,1.048,2.10-2.50
-PHI @ CHI,Joel Embiid 22+ pts + PHI win,2,0.4078,0.4126,2.42,2.55,2.43,0.0042,1.052,2.10-2.50
-PHI @ CHI,PHI win + VJ Edgecombe 1+ 3pm,2,0.6077,0.6159,1.62,1.7,1.5,-0.0732,1.011,1.50-1.65
-PHI @ CHI,PHI win + VJ Edgecombe 1+ 3pm + Jaylen Brown 1+ 3pm,3,0.5367,0.5037,1.99,2.08,1.74,-0.1217,1.018,1.65-1.85
-PHI @ CHI,PHI win + Caleb Wilson 4+ reb + VJ Edgecombe 1+ 3pm,3,0.5429,0.5056,1.98,2.08,1.73,-0.1272,1.011,1.65-1.85
-PHI @ CHI,PHI win + Caleb Wilson 4+ reb + Jaylen Brown 1+ 3pm,3,0.5608,0.5242,1.91,2.0,1.66,-0.1313,1.007,1.65-1.85
+PHI @ CHI,Jalen Smith pts under 11.5 + PHI win,2,0.467,0.423,2.36,2.48,2.43,0.0298,1.037,2.10-2.50
+PHI @ CHI,Jaylen Brown 22+ pts + PHI win,2,0.415,0.4121,2.43,2.55,2.49,0.0275,1.06,2.10-2.50
+PHI @ CHI,Joel Embiid 22+ pts + PHI win,2,0.4229,0.4158,2.41,2.53,2.43,0.0121,1.057,2.10-2.50
+PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Caleb Wilson 4+ reb,3,0.5607,0.5249,1.91,2.0,1.66,-0.1301,1.008,1.65-1.85
+PHI @ CHI,PHI win + Jaylen Brown 1+ 3pm + Joel Embiid 6+ reb,3,0.547,0.5105,1.96,2.06,1.7,-0.1314,1.007,1.65-1.85
+PHI @ CHI,PHI win + Joel Embiid 6+ reb + Caleb Wilson 4+ reb,3,0.5447,0.5116,1.95,2.05,1.68,-0.1385,0.999,1.65-1.85
 LAL @ DET,DET win + Quentin Grimes 3pm under 1.5,2,0.4376,0.3905,2.56,2.69,2.48,-0.0316,1.027,2.10-2.50
 LAL @ DET,DET win + Walker Kessler 1+ blk,2,0.5607,0.5793,1.73,1.81,1.61,-0.0673,1.004,1.50-1.65
 LAL @ DET,game over 217.5 + Walker Kessler 1+ blk,2,0.5379,0.4214,2.37,2.49,2.18,-0.0817,1.006,2.10-2.50
