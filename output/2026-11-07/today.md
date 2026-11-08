@@ -1,6 +1,6 @@
 # NBA model · Sat 07 Nov 2026 (US date)
 
-Updated **Sun 08 Nov, 01:33 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 08 Nov, 01:38 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-07/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -42,18 +42,18 @@ Out: Vit Krejci (POR), Ja Morant (POR), Shaedon Sharpe (POR), Robert Williams II
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Damian Lillard PTS under 20.5 | SAS @ POR | tab | 1.95 | 1.93 | 1.73 | 57.9% | 51.3% | 51.8% | +1.1% | +13.0% | 0.3% |
-| Sidy Cissoko PTS over 4.5 (5+) | SAS @ POR | neds | 1.90 | 1.88 | 1.55 | 64.4% | 52.2% | 53.1% | +0.9% | +22.5% | 0.3% |
+| Sidy Cissoko PTS over 4.5 (5+) | SAS @ POR | ladbrokes_au | 1.90 | 1.88 | 1.55 | 64.4% | 52.2% | 53.1% | +0.9% | +22.5% | 0.3% |
 | Jrue Holiday PTS over 12.5 (13+) | SAS @ POR | betright | 1.94 | 1.93 | 1.95 | 51.2% | 51.7% | 51.7% | +0.5% | -0.4% | 0.1% |
 
 <details><summary>SAS players (confirmed only)</summary>
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Victor Wembanyama | 100% | 32.7<br><sub>39,34,24,34,26</sub> | 27.1<br><sub>36,43,12,52,30</sub> | 26.5 · 26.5<br><sub>o 49% · u 51%</sub> | 11.1<br><sub>14,7,11,24,14</sub> | 11.5<br><sub>o 49% · u 51%</sub> | 3.1<br><sub>5,4,5,2,2</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 2.1<br><sub>4,3,0,1,4</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.3 | 3.5 | 2.7 | 41.4 |
+| Victor Wembanyama | 100% | 32.7<br><sub>39,34,24,34,26</sub> | 27.1<br><sub>36,43,12,52,30</sub> | 26.5 · 26.5<br><sub>o 49% · u 51%</sub> | 11.1<br><sub>14,7,11,24,14</sub> | 11.5<br><sub>o 49% · u 51%</sub> | 3.1<br><sub>5,4,5,2,2</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 2.1<br><sub>4,3,0,1,4</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.3 | 3.5 | 2.7 | 41.4 |
 | Dylan Harper | 100% | 32.1<br><sub>37,39,27,36,28</sub> | 16.6<br><sub>13,25,17,21,19</sub> | 16.5 · 16.5<br><sub>o 50% · u 50%</sub> | 5.2<br><sub>5,7,7,5,2</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 3.8<br><sub>8,6,8,0,3</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 1.2<br><sub>2,2,1,1,1</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 1.2 | 0.3 | 2.0 | 25.7 |
 | Devin Vassell | 100% | 32.0<br><sub>38,34,25,36,27</sub> | 11.2<br><sub>21,9,11,2,19</sub> | 11.5 · 11.5<br><sub>o 49% · u 51%</sub> | 4.1<br><sub>5,5,2,7,2</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 2.5<br><sub>2,2,1,4,2</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 1.7<br><sub>1,0,0,0,5</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.3 | 0.5 | 1.1 | 17.8 |
 | De'Aaron Fox | 100% | 31.7<br><sub>39,35,22,33,26</sub> | 15.0<br><sub>14,22,12,10,9</sub> | 14.5 · 14.5<br><sub>o 50% · u 50%</sub> | 3.6<br><sub>3,8,2,3,2</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 5.3<br><sub>4,7,3,4,4</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 1.2<br><sub>1,0,1,0,0</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 1.4 | 0.4 | 2.2 | 23.9 |
-| Stephon Castle | 100% | 31.0<br><sub>38,22,26,35,28</sub> | 16.6<br><sub>14,0,16,17,19</sub> | 16.5 · 16.5<br><sub>o 48% · u 52%</sub> | 5.1<br><sub>6,5,5,10,3</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 5.4<br><sub>8,4,4,3,7</sub> | 5.5<br><sub>o 56% · u 44%</sub> | 1.6<br><sub>1,0,2,2,1</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.1 | 0.3 | 2.9 | 27.1 |
+| Stephon Castle | 100% | 31.0<br><sub>38,22,26,35,28</sub> | 16.6<br><sub>14,0,16,17,19</sub> | 16.5 · 16.5<br><sub>o 48% · u 52%</sub> | 5.1<br><sub>6,5,5,10,3</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 5.4<br><sub>8,4,4,3,7</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 1.6<br><sub>1,0,2,2,1</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.1 | 0.3 | 2.9 | 27.1 |
 | Julian Champagnie | 98% | 24.7<br><sub>31,27,22,21,22</sub> | 8.1<br><sub>6,12,8,0,8</sub> | 7.5 · 7.5<br><sub>o 52% · u 48%</sub> | 4.3<br><sub>6,3,6,4,7</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 1.3<br><sub>0,1,0,3,2</sub> |  | 1.4<br><sub>2,3,2,0,2</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.9 | 0.5 | 0.7 | 13.6 |
 | Keldon Johnson | 98% | 22.0<br><sub>23,24,27,19,27</sub> | 9.3<br><sub>9,2,15,4,3</sub> | 8.5 · 8.5<br><sub>o 50% · u 50%</sub> | 4.5<br><sub>6,6,7,5,6</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 1.3<br><sub>2,0,1,2,6</sub> |  | 0.7<br><sub>0,0,1,0,0</sub> | 0.5<br><sub>o 49% · u 51%</sub> | 0.6 | 0.2 | 0.9 | 15.1 |
 | Luke Kornet | 98% | 15.6<br><sub>14,14,17,14,18</sub> | 4.0<br><sub>1,2,8,2,2</sub> |  | 4.4<br><sub>6,8,5,1,6</sub> |  | 1.0<br><sub>1,0,2,2,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.5 | 0.8 | 0.5 | 9.4 |
