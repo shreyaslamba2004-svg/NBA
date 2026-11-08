@@ -1,24 +1,24 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909940,CLE,1628386,Jarrett Allen,Out,Injury/Illness-RightKneeContusion,0.0,Allen (knee) is out for Saturday's game against the Knicks,,
 401909940,CLE,1628418,Thomas Bryant,,,1.0,,,
-401909940,CLE,201935,James Harden,,,1.0,,,
+401909940,CLE,201935,James Harden,Starting,,1.0,,,1.0
 401909940,CLE,1626209,Mario Hezonja,,,1.0,,,
 401909940,CLE,1630241,Sam Merrill,Out,,0.0,Merrill (elbow) is out for Saturday's game against the Knicks.,,
 401909940,CLE,1642434,Riley Minix,,,1.0,,,
-401909940,CLE,1628378,Donovan Mitchell,,,1.0,,,
-401909940,CLE,1630596,Evan Mobley,,,1.0,,,
+401909940,CLE,1628378,Donovan Mitchell,Starting,,1.0,,,1.0
+401909940,CLE,1630596,Evan Mobley,Starting,,1.0,,,1.0
 401909940,CLE,1641807,Norchad Omier,,,1.0,,,
 401909940,CLE,1641854,Craig Porter Jr.,,,1.0,,,
 401909940,CLE,1642878,Tyrese Proctor,,,1.0,,,
-401909940,CLE,905041951,Meleek Thomas,,,1.0,,,
+401909940,CLE,905041951,Meleek Thomas,Starting,,1.0,,,1.0
 401909940,CLE,1642281,Jaylon Tyson,Out,Injury/Illness-RightAnkleSprain,0.0,Tyson (ankle) is out for Saturday's game against the Knicks.,,
 401909940,CLE,905106261,Ernest Udeh Jr.,,,1.0,,,
-401909940,CLE,1631212,Peyton Watson,,,1.0,,,
+401909940,CLE,1631212,Peyton Watson,Starting,,1.0,,,1.0
 401909940,NYK,904683730,Jaden Akins,,,1.0,,,
 401909940,NYK,1630631,Jose Alvarado,,,1.0,,,
-401909940,NYK,1628384,OG Anunoby,,,1.0,,,
-401909940,NYK,1628969,Mikal Bridges,,,1.0,,,
-401909940,NYK,1628973,Jalen Brunson,,,1.0,,,
+401909940,NYK,1628384,OG Anunoby,Starting,,1.0,,,1.0
+401909940,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
+401909940,NYK,1628973,Jalen Brunson,Starting,,1.0,,,1.0
 401909940,NYK,203903,Jordan Clarkson,,,1.0,,,
 401909940,NYK,1642359,Pacome Dadiet,,,1.0,,,
 401909940,NYK,1642885,Mohamed Diawara,,,1.0,,,
@@ -28,8 +28,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909940,NYK,1642278,Tyler Kolek,,,1.0,,,
 401909940,NYK,1630540,Miles McBride,,,1.0,,,
 401909940,NYK,904838721,Tyler Nickel,,,1.0,,,
-401909940,NYK,1629013,Landry Shamet,,,1.0,,,
-401909940,NYK,1626157,Karl-Anthony Towns,,,1.0,,,
+401909940,NYK,1629013,Landry Shamet,Starting,,1.0,,,1.0
+401909940,NYK,1626157,Karl-Anthony Towns,Starting,,1.0,,,1.0
 401909940,NYK,1630164,James Wiseman,,,1.0,,,
 401909941,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401909941,OKC,1627936,Alex Caruso,,,1.0,,,
