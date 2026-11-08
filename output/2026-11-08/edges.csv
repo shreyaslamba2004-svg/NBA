@@ -1,5 +1,6 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909949,BOS @ MIL,moneyline,MIL,,,,betfair_ex_au,589.0,6.89,0.1986,5.03,0.1422,0.1642,0.0344,2.05,0.3687,0.1642,0.1317,0.0056,False,True,True,,,
+401909951,MIA @ SAC,moneyline,SAC,,,,draftkings,394.0,4.94,0.2736,3.66,0.1945,0.2238,0.0498,4.06,0.3513,0.2238,0.1056,0.0067,False,True,True,Domantas Sabonis,0.2368,0.3098
 401909947,UTA @ MIN,moneyline,UTA,,,,betfair_ex_au,513.0,6.13,0.1368,7.31,0.1593,0.1729,-0.0361,2.4,-0.1614,0.1729,0.06,0.0029,False,True,True,,,
 401909949,BOS @ MIL,moneyline,MIL,,,,draftkings,527.0,6.27,0.1986,5.03,0.1533,0.1642,0.0344,4.04,0.2455,0.1642,0.0298,0.0014,False,True,True,,,
 401909949,BOS @ MIL,prop_ast,over,Ryan Rollins,1631157.0,7.5,draftkings,2100.0,22.0,0.0959,10.43,0.0425,0.0425,0.0534,,1.11,0.0465,0.0227,0.0003,False,True,False,,,
@@ -17,4 +18,6 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909946,LAL @ DET,moneyline,LAL,,,,playup,225.0,3.25,0.3907,2.56,0.2904,0.3097,0.081,5.96,0.2698,0.3097,0.0064,0.0007,False,True,True,,,
 401909946,LAL @ DET,prop_pts,under,Daniss Jenkins,1642450.0,9.5,pointsbetau,105.0,2.05,0.5139,1.95,0.4675,0.487,0.0268,4.34,0.0534,0.489,0.0025,0.0006,False,True,True,,,
 401909949,BOS @ MIL,prop_reb,over,Jayson Tatum,1628369.0,11.5,draftkings,890.0,9.9,0.1847,5.41,0.0944,0.0944,0.0903,,0.829,0.1012,0.0017,0.0,False,True,False,Mitchell Robinson,0.2055,0.1576
+401909948,BKN @ DAL,prop_reb,over,Day'Ron Sharpe,1630549.0,13.5,draftkings,1020.0,11.2,0.1621,6.17,0.0834,0.0834,0.0787,,0.8157,0.0893,0.0007,0.0,False,True,False,,,
+401909948,BKN @ DAL,prop_reb,over,Day'Ron Sharpe,1630549.0,14.5,draftkings,1440.0,15.4,0.1176,8.5,0.0607,0.0607,0.0569,,0.8109,0.065,0.0003,0.0,False,False,False,,,
 401909946,LAL @ DET,prop_pts,under,Jake LaRavia,1631222.0,7.5,tab,-111.0,1.9,0.581,1.72,0.4929,0.5217,0.0593,6.74,0.1045,0.5262,0.0002,0.0001,False,False,True,,,
