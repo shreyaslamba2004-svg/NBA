@@ -1,10 +1,7 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-UTA @ MIN,MIN win + Darryn Peterson pr under 20.5,2,0.5506,0.4341,2.3,2.42,2.15,-0.0647,1.024,2.10-2.50
-UTA @ MIN,game under 222.5 + MIN win,2,0.284,0.4147,2.41,2.53,2.24,-0.0723,1.003,2.10-2.50
-UTA @ MIN,MIN win + Jaxson Hayes reb under 7.5,2,0.5855,0.4548,2.2,2.31,2.02,-0.0805,1.005,1.85-2.10
-UTA @ MIN,MIN win + Darryn Peterson reb under 4.5,2,0.5398,0.4169,2.4,2.52,2.2,-0.0833,1.001,2.10-2.50
-UTA @ MIN,Terrence Shannon Jr. pr under 14.5 + LaMelo Ball 2+ 3pm,2,0.5592,0.4279,2.34,2.45,2.09,-0.1069,0.998,1.85-2.10
-UTA @ MIN,Jaxson Hayes reb under 7.5 + LaMelo Ball 2+ 3pm,2,0.6009,0.454,2.2,2.31,1.97,-0.1072,0.997,1.85-2.10
+UTA @ MIN,Keyonte George pts under 22.5 + MIN win,2,0.4467,0.4234,2.36,2.48,2.35,-0.0065,1.036,2.10-2.50
+UTA @ MIN,Jonathan Kuminga 15+ pts + MIN win,2,0.404,0.4216,2.37,2.49,2.31,-0.0254,1.035,2.10-2.50
+UTA @ MIN,Ace Bailey pts under 15.5 + MIN win,2,0.4984,0.4274,2.34,2.46,2.28,-0.0263,1.029,2.10-2.50
 BKN @ DAL,game over 223.5 + Day'Ron Sharpe 6+ reb,2,0.4802,0.3854,2.6,2.72,2.42,-0.0675,1.025,2.10-2.50
 BKN @ DAL,DAL win + Noah Clowney 10+ pr,2,0.5794,0.3747,2.67,2.8,2.47,-0.0763,0.987,2.10-2.50
 BKN @ DAL,game over 223.5 + Julius Randle 4+ reb,2,0.5116,0.4225,2.37,2.49,2.19,-0.0764,1.018,2.10-2.50
@@ -23,12 +20,9 @@ BOS @ MIL,BOS win + Tyler Herro pts under 19.5,2,0.5043,0.4238,2.36,2.48,2.25,-0
 BOS @ MIL,game over 221.5 + Jayson Tatum 4+ reb,2,0.4729,0.4584,2.18,2.29,2.06,-0.0547,1.011,1.85-2.10
 BOS @ MIL,BOS win + Jayson Tatum 14+ ra,2,0.5238,0.4562,2.19,2.3,2.03,-0.075,1.011,1.85-2.10
 BOS @ MIL,game under 222.5 + Jayson Tatum 4+ reb,2,0.4915,0.4426,2.26,2.37,2.06,-0.0874,0.989,1.85-2.10
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4221,2.37,2.49,2.27,-0.043,1.033,2.10-2.50
-NOP @ LAC,NOP win + Dejounte Murray 4+ ast,2,0.3961,0.4158,2.41,2.53,2.29,-0.0496,1.027,2.10-2.50
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.3994,2.5,2.63,2.37,-0.0542,1.03,2.10-2.50
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pa,2,0.4496,0.4715,2.12,2.23,1.98,-0.0641,1.011,1.85-2.10
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pa,2,0.6268,0.4468,2.24,2.35,2.07,-0.0739,1.009,1.85-2.10
-NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pa,2,0.4201,0.4482,2.23,2.34,2.03,-0.0915,1.012,1.85-2.10
+NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.4246,2.36,2.47,2.25,-0.0436,1.033,2.10-2.50
+NOP @ LAC,NOP win + Dejounte Murray 4+ ast,2,0.3961,0.4142,2.41,2.53,2.3,-0.0492,1.027,2.10-2.50
+NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.4018,2.49,2.61,2.35,-0.0547,1.03,2.10-2.50
 MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4537,0.4064,2.46,2.58,2.3,-0.0654,1.021,2.10-2.50
 MIA @ SAC,MIA win + game under 238.5,2,0.3188,0.392,2.55,2.68,2.37,-0.0722,1.006,2.10-2.50
 MIA @ SAC,MIA win + game over 238.5,2,0.4076,0.3847,2.6,2.73,2.39,-0.0814,0.995,2.10-2.50
