@@ -32,10 +32,12 @@ NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.4041,2.47,2.6,2.3,-0.0694
 NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.398,2.51,2.64,2.32,-0.0755,1.03,2.10-2.50
 MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4298,0.3823,2.62,2.75,2.45,-0.0631,1.02,2.10-2.50
 MIA @ SAC,SAC +8.5 + Darius Acuff Jr. 4+ ast,2,0.5124,0.4269,2.34,2.46,2.18,-0.0684,1.015,2.10-2.50
-MIA @ SAC,SAC +8.5 + Precious Achiuwa 10+ pr,2,0.4935,0.3855,2.59,2.72,2.41,-0.0698,1.008,2.10-2.50
-MIA @ SAC,MIA win + Precious Achiuwa 4+ reb,2,0.5737,0.5791,1.73,1.81,1.57,-0.0927,1.002,1.50-1.65
-MIA @ SAC,MIA win + Precious Achiuwa 10+ pr,2,0.5954,0.5629,1.78,1.87,1.61,-0.0954,0.993,1.50-1.65
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 10+ pr,2,0.6504,0.4634,2.16,2.27,1.94,-0.1,1.0,1.85-2.10
-MIA @ SAC,MIA win + Klay Thompson 3pm under 3.5,2,0.4948,0.4382,2.28,2.4,2.04,-0.1047,0.977,1.85-2.10
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 4+ reb,2,0.6215,0.4727,2.12,2.22,1.89,-0.105,1.0,1.85-2.10
-MIA @ SAC,Klay Thompson 3pm under 3.5 + Darius Acuff Jr. 4+ ast,2,0.667,0.5069,1.97,2.07,1.76,-0.1098,0.995,1.65-1.85
+MIA @ SAC,SAC +8.5 + Precious Achiuwa 10+ pr,2,0.4935,0.3864,2.59,2.72,2.41,-0.07,1.008,2.10-2.50
+MIA @ SAC,MIA win + Giannis Antetokounmpo 4+ ast,2,0.5858,0.5928,1.69,1.77,1.55,-0.0818,1.014,1.50-1.65
+MIA @ SAC,MIA win + Precious Achiuwa 4+ reb,2,0.5737,0.5785,1.73,1.81,1.57,-0.0926,1.002,1.50-1.65
+MIA @ SAC,MIA win + Precious Achiuwa 10+ pr,2,0.5954,0.5643,1.77,1.86,1.6,-0.0956,0.993,1.50-1.65
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 10+ pr,2,0.6504,0.4564,2.19,2.3,1.98,-0.0986,1.0,1.85-2.10
+MIA @ SAC,MIA win + Klay Thompson 3pm under 3.5,2,0.4948,0.4305,2.32,2.44,2.08,-0.1031,0.977,1.85-2.10
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Precious Achiuwa 4+ reb,2,0.6215,0.464,2.16,2.26,1.93,-0.1033,1.0,1.85-2.10
+MIA @ SAC,Klay Thompson 3pm under 3.5 + Darius Acuff Jr. 4+ ast,2,0.667,0.498,2.01,2.11,1.79,-0.1082,0.995,1.65-1.85
+MIA @ SAC,MIA win + Darius Acuff Jr. 4+ ast + Giannis Antetokounmpo 4+ ast,3,0.5264,0.4956,2.02,2.12,1.73,-0.1421,1.008,1.65-1.85
