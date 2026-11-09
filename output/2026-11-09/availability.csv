@@ -1,5 +1,5 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909952,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
+401909952,ATL,1629638,Nickeil Alexander-Walker,Starting,,1.0,,,1.0
 401909952,ATL,1630700,Dyson Daniels,Starting,,1.0,,,1.0
 401909952,ATL,1642484,RayJ Dennis,Out,GLeague-Two-Way,0.0,,,
 401909952,ATL,1629652,Luguentz Dort,,,1.0,,,
@@ -15,7 +15,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909952,ATL,1642854,Asa Newell,Out,,0.0,Newell (toe) has been ruled out for Monday's game against the Lakers.,,
 401909952,ATL,1630168,Onyeka Okongwu,Starting,,1.0,,,1.0
 401909952,ATL,905105571,Henri Veesaar,Out,Injury/Illness-RightACLTear,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
-401909952,ATL,1630598,Aaron Wiggins,Starting,,1.0,,,1.0
+401909952,ATL,1630598,Aaron Wiggins,,,1.0,,,
 401909952,ATL,1630592,Jalen Wilson,Out,GLeague-Two-Way,0.0,,,
 401909952,LAL,905113969,Cameron Carr,,,1.0,,,
 401909952,LAL,1629029,Luka Doncic,Starting,,1.0,,,1.0
@@ -131,7 +131,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909955,MEM,1641713,GG Jackson,,,1.0,,,
 401909955,MEM,1629660,Ty Jerome,,,1.0,,,
 401909955,MEM,905231919,Karim Lopez,Out,GLeague-OnAssignment,0.0,,,
-401909955,MEM,1642942,Jahmai Mashack,,,1.0,,,
+401909955,MEM,1642942,Jahmai Mashack,Out,GLeague-Two-Way,0.0,,,
 401909955,MEM,1631200,Kris Murray,,,1.0,,,
 401909955,MEM,1630590,Scotty Pippen Jr.,Out,,0.0,Pippen (back) won't play in Monday's game versus the Raptors.,,
 401909955,MEM,904593016,Quinten Post,,,1.0,,,
@@ -151,7 +151,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909956,DAL,1629655,Daniel Gafford,,,1.0,,,
 401909956,DAL,1641724,Jett Howard,,,1.0,,,
 401909956,DAL,202681,Kyrie Irving,,,1.0,,,
-401909956,DAL,1642358,Morez Johnson Jr.,Questionable,,0.55,Johnson (leg) has been ruled out for Monday's game against the Pacers.,,
+401909956,DAL,1642358,Morez Johnson Jr.,Out,,0.0,Johnson (leg) has been ruled out for Monday's game against the Pacers.,,
 401909956,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909956,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is listed as out for Monday's game against the Kings.,,
 401909956,DAL,1630230,Naji Marshall,,,1.0,,,
@@ -164,7 +164,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909956,IND,1630169,Tyrese Haliburton,Out,Injury/Illness-LeftHamstringStrain,0.0,"Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.",,
 401909956,IND,1630643,Jay Huff,,,1.0,,,
 401909956,IND,1631245,Quenton Jackson,,,1.0,,,
-401909956,IND,204456,T.J. McConnell,Questionable,Injury/Illness-RightHamstringStrain,0.55,McConnell is questionable for Monday's game against the Mavericks due to a right hamstring strain.,,
+401909956,IND,204456,T.J. McConnell,Available,Injury/Illness-RightHamstringStrain,1.0,McConnell is questionable for Monday's game against the Mavericks due to a right hamstring strain.,,
 401909956,IND,1626204,Larry Nance Jr.,,,1.0,,,
 401909956,IND,1629614,Andrew Nembhard,,,1.0,,,
 401909956,IND,1630174,Aaron Nesmith,,,1.0,,,
