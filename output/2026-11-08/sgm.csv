@@ -1,22 +1,21 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BKN @ DAL,Danny Wolf pts under 9.5 + Noah Clowney 5+ pr,2,0.3989,0.4169,2.4,2.52,2.27,-0.0551,0.998,2.10-2.50
-BKN @ DAL,Danny Wolf pts under 9.5 + Daniel Gafford 5+ pa,2,0.3861,0.4231,2.36,2.48,2.23,-0.0565,1.001,2.10-2.50
-BKN @ DAL,Danny Wolf pts under 9.5 + Julius Randle 4+ reb,2,0.3808,0.4191,2.39,2.51,2.25,-0.0584,1.0,2.10-2.50
-BKN @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.7299,0.6098,1.64,1.72,1.5,-0.0823,1.007,1.50-1.65
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Noah Clowney 5+ pr,2,0.5844,0.4406,2.27,2.38,2.08,-0.0845,1.001,1.85-2.10
-BKN @ DAL,Day'Ron Sharpe pts under 9.5 + Daniel Gafford 5+ pa,2,0.4332,0.4387,2.28,2.39,2.08,-0.0855,0.998,1.85-2.10
-BKN @ DAL,DAL win + Noah Clowney 5+ pr,2,0.7498,0.5974,1.67,1.76,1.53,-0.0863,0.998,1.50-1.65
-BKN @ DAL,DAL win + Day'Ron Sharpe 6+ reb,2,0.6705,0.542,1.84,1.94,1.68,-0.087,0.999,1.65-1.85
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Daniel Gafford 5+ pa,2,0.5645,0.4463,2.24,2.35,2.04,-0.0877,1.001,1.85-2.10
-BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.717,0.6016,1.66,1.75,1.52,-0.0878,1.001,1.50-1.65
-BKN @ DAL,DAL win + Daniel Gafford 5+ pa + Julius Randle 4+ reb,3,0.6666,0.5123,1.95,2.05,1.69,-0.1339,1.009,1.65-1.85
-BKN @ DAL,DAL win + Noah Clowney 5+ pr + Daniel Gafford 5+ pa,3,0.6958,0.5078,1.97,2.07,1.71,-0.1341,1.005,1.65-1.85
-BOS @ MIL,Tyler Herro pts under 20.5 + BOS win,2,0.5363,0.4629,2.16,2.27,2.15,-0.0049,1.031,2.10-2.50
-BOS @ MIL,Brayden Burries pts under 11.5 + BOS win,2,0.4989,0.4475,2.23,2.35,2.19,-0.0218,1.031,2.10-2.50
-BOS @ MIL,Payton Pritchard 14+ pts + BOS win,2,0.4025,0.4248,2.35,2.47,2.3,-0.023,1.034,2.10-2.50
-BOS @ MIL,game over 221.5 + Myles Turner 5+ pa,2,0.4713,0.4609,2.17,2.28,2.06,-0.049,1.018,1.85-2.10
-BOS @ MIL,Neemias Queta pts under 9.5 + Ryan Rollins 5+ pr,2,0.5836,0.458,2.18,2.29,2.07,-0.0523,1.0,1.85-2.10
-BOS @ MIL,MIL +13.5 + Myles Turner 5+ pa,2,0.5125,0.4593,2.18,2.29,2.05,-0.0564,1.014,1.85-2.10
+BKN @ DAL,Noah Clowney 7+ pts + Day'Ron Sharpe 15+ pra,2,0.6036,0.3984,2.51,2.64,2.4,-0.0426,1.005,2.10-2.50
+BKN @ DAL,Noah Clowney 7+ pts + Julius Randle 4+ reb,2,0.6081,0.4134,2.42,2.54,2.3,-0.048,1.002,2.10-2.50
+BKN @ DAL,Noah Clowney 7+ pts + Michael Porter Jr. 4+ reb,2,0.6107,0.4228,2.37,2.48,2.24,-0.0515,1.0,2.10-2.50
+BKN @ DAL,Day'Ron Sharpe 9+ pts + Noah Clowney 5+ pr,2,0.6285,0.4443,2.25,2.36,2.08,-0.0769,1.003,1.85-2.10
+BKN @ DAL,Day'Ron Sharpe 9+ pts + Julius Randle 4+ reb,2,0.5963,0.4472,2.24,2.35,2.06,-0.0789,1.006,1.85-2.10
+BKN @ DAL,Daniel Gafford 8+ pts + Michael Porter Jr. 4+ reb,2,0.5742,0.45,2.22,2.33,2.05,-0.0793,1.0,1.85-2.10
+BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6016,1.66,1.75,1.52,-0.0878,1.001,1.50-1.65
+BKN @ DAL,DAL win + Day'Ron Sharpe 6+ reb,2,0.6697,0.5415,1.85,1.94,1.68,-0.0879,0.998,1.65-1.85
+BKN @ DAL,DAL win + Day'Ron Sharpe 15+ pra,2,0.7075,0.5736,1.74,1.83,1.58,-0.0926,0.993,1.50-1.65
+BKN @ DAL,DAL win + Noah Clowney 5+ pr + Julius Randle 4+ reb,3,0.6974,0.5021,1.99,2.09,1.72,-0.1371,1.0,1.65-1.85
+BKN @ DAL,DAL win + Noah Clowney 5+ pr + Michael Porter Jr. 4+ reb,3,0.7003,0.5136,1.95,2.04,1.67,-0.1402,0.998,1.65-1.85
+BOS @ MIL,Tyler Herro pts under 20.5 + BOS win,2,0.5401,0.4622,2.16,2.27,2.15,-0.0062,1.028,2.10-2.50
+BOS @ MIL,Brayden Burries pts under 11.5 + BOS win,2,0.4586,0.4463,2.24,2.35,2.19,-0.0243,1.036,2.10-2.50
+BOS @ MIL,Payton Pritchard 14+ pts + BOS win,2,0.378,0.4238,2.36,2.48,2.3,-0.0254,1.034,2.10-2.50
+BOS @ MIL,Tyler Herro pts under 20.5 + Ryan Rollins 5+ pr,2,0.6293,0.4876,2.05,2.15,1.94,-0.0558,0.999,1.85-2.10
+BOS @ MIL,Tyler Herro pts under 20.5 + Kyle Kuzma 10+ pra,2,0.6096,0.4612,2.17,2.28,2.04,-0.0579,0.995,1.85-2.10
+BOS @ MIL,Derrick White pts under 13.5 + Ryan Rollins 5+ pr,2,0.5008,0.4591,2.18,2.29,2.05,-0.0583,1.001,1.85-2.10
 MIA @ SAC,MIA win + Davion Mitchell 10+ ra,2,0.4587,0.4158,2.41,2.53,2.27,-0.055,1.033,2.10-2.50
 MIA @ SAC,MIA win + game under 238.5,2,0.3188,0.392,2.55,2.68,2.37,-0.0722,1.006,2.10-2.50
 MIA @ SAC,MIA win + game over 238.5,2,0.4076,0.3847,2.6,2.73,2.39,-0.0814,0.995,2.10-2.50
