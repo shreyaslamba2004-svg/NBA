@@ -92,7 +92,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909954,WAS,1642267,Bub Carrington,,,1.0,,,
 401909954,WAS,1630551,Justin Champagnie,Out,Injury/Illness-RightFootSurgery,0.0,"Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",,
 401909954,WAS,1641731,Bilal Coulibaly,Out,Injury/Illness-LeftHandSoreness,0.0,Coulibaly (hand) is listed as questionable for Monday's game against Detroit.,,
-401909954,WAS,203076,Anthony Davis,Available,Injury/Illness-RightAnkleSprain,1.0,Davis (ankle) is listed as questionable for Monday's game in Detroit.,,
+401909954,WAS,203076,Anthony Davis,Available,Injury/Illness-RightAnkleSprain,1.0,,,
 401909954,WAS,905142718,AJ Dybantsa,,,1.0,,,
 401909954,WAS,1642273,Kyshawn George,,,1.0,,,
 401909954,WAS,1630264,Anthony Gill,,,1.0,,,
