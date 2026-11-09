@@ -63,7 +63,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909949,BOS,905106283,Dillon Mitchell,Out,GLeague-Two-Way,0.0,,,
 401909949,BOS,1630202,Payton Pritchard,Active,,1.0,,,
 401909949,BOS,1629674,Neemias Queta,Active,,1.0,,,
-401909949,BOS,1629011,Mitchell Robinson,Questionable,Injury/Illness-Illness,0.55,"Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports.",,
+401909949,BOS,1629011,Mitchell Robinson,Available,Injury/Illness-Illness,1.0,,,
 401909949,BOS,1631248,Baylor Scheierman,Active,,1.0,,,
 401909949,BOS,1628369,Jayson Tatum,Active,,1.0,,,
 401909949,BOS,1641775,Jordan Walsh,Active,,1.0,,,

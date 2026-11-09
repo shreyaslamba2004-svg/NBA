@@ -1,22 +1,22 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+BKN @ DAL,Danny Wolf pts under 9.5 + Noah Clowney 5+ pr,2,0.3989,0.4169,2.4,2.52,2.27,-0.0551,0.998,2.10-2.50
 BKN @ DAL,Danny Wolf pts under 9.5 + Daniel Gafford 5+ pa,2,0.3861,0.4231,2.36,2.48,2.23,-0.0565,1.001,2.10-2.50
-BKN @ DAL,Danny Wolf pts under 9.5 + Julius Randle 4+ reb,2,0.3808,0.4185,2.39,2.51,2.25,-0.0583,1.0,2.10-2.50
-BKN @ DAL,Cooper Flagg pts under 24.5 + Danny Wolf 10+ pr,2,0.5627,0.3983,2.51,2.64,2.36,-0.0596,0.997,2.10-2.50
-BKN @ DAL,Day'Ron Sharpe pts under 9.5 + Daniel Gafford 5+ pa,2,0.4332,0.4417,2.26,2.38,2.08,-0.0793,0.998,1.85-2.10
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Daniel Gafford 5+ pa,2,0.5645,0.4502,2.22,2.33,2.04,-0.0798,1.001,1.85-2.10
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Julius Randle 4+ reb,2,0.5575,0.4458,2.24,2.36,2.06,-0.0805,1.001,1.85-2.10
+BKN @ DAL,Danny Wolf pts under 9.5 + Julius Randle 4+ reb,2,0.3808,0.4191,2.39,2.51,2.25,-0.0584,1.0,2.10-2.50
 BKN @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.7299,0.6098,1.64,1.72,1.5,-0.0823,1.007,1.50-1.65
-BKN @ DAL,DAL win + Day'Ron Sharpe 6+ reb,2,0.6705,0.5432,1.84,1.93,1.68,-0.0872,0.999,1.65-1.85
-BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.717,0.6008,1.66,1.75,1.52,-0.0878,1.001,1.50-1.65
-BKN @ DAL,DAL win + Danny Wolf 10+ pr,2,0.705,0.5625,1.78,1.87,1.62,-0.0905,0.994,1.50-1.65
-BKN @ DAL,DAL win + Daniel Gafford 5+ pa + Julius Randle 4+ reb,3,0.6666,0.5116,1.95,2.05,1.69,-0.1338,1.009,1.65-1.85
-BKN @ DAL,DAL win + Danny Wolf 10+ pr + Daniel Gafford 5+ pa,3,0.6548,0.4786,2.09,2.19,1.8,-0.1372,1.001,1.65-1.85
-BOS @ MIL,Tyler Herro pts under 20.5 + BOS win,2,0.5327,0.4633,2.16,2.27,2.15,-0.0041,1.032,2.10-2.50
-BOS @ MIL,Brayden Burries pts under 11.5 + BOS win,2,0.5019,0.4487,2.23,2.34,2.19,-0.0191,1.033,2.10-2.50
-BOS @ MIL,Derrick White 14+ pts + BOS win,2,0.4337,0.4343,2.3,2.42,2.26,-0.0204,1.041,2.10-2.50
-BOS @ MIL,game over 221.5 + Myles Turner 5+ pa,2,0.4687,0.4612,2.17,2.28,2.06,-0.0483,1.018,1.85-2.10
-BOS @ MIL,game over 221.5 + Jayson Tatum 4+ reb,2,0.4673,0.4598,2.18,2.28,2.06,-0.052,1.014,1.85-2.10
-BOS @ MIL,MIL +13.5 + Myles Turner 5+ pa,2,0.5175,0.459,2.18,2.29,2.05,-0.057,1.014,1.85-2.10
+BKN @ DAL,Day'Ron Sharpe 9+ pts + Noah Clowney 5+ pr,2,0.5844,0.4406,2.27,2.38,2.08,-0.0845,1.001,1.85-2.10
+BKN @ DAL,Day'Ron Sharpe pts under 9.5 + Daniel Gafford 5+ pa,2,0.4332,0.4387,2.28,2.39,2.08,-0.0855,0.998,1.85-2.10
+BKN @ DAL,DAL win + Noah Clowney 5+ pr,2,0.7498,0.5974,1.67,1.76,1.53,-0.0863,0.998,1.50-1.65
+BKN @ DAL,DAL win + Day'Ron Sharpe 6+ reb,2,0.6705,0.542,1.84,1.94,1.68,-0.087,0.999,1.65-1.85
+BKN @ DAL,Day'Ron Sharpe 9+ pts + Daniel Gafford 5+ pa,2,0.5645,0.4463,2.24,2.35,2.04,-0.0877,1.001,1.85-2.10
+BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.717,0.6016,1.66,1.75,1.52,-0.0878,1.001,1.50-1.65
+BKN @ DAL,DAL win + Daniel Gafford 5+ pa + Julius Randle 4+ reb,3,0.6666,0.5123,1.95,2.05,1.69,-0.1339,1.009,1.65-1.85
+BKN @ DAL,DAL win + Noah Clowney 5+ pr + Daniel Gafford 5+ pa,3,0.6958,0.5078,1.97,2.07,1.71,-0.1341,1.005,1.65-1.85
+BOS @ MIL,Tyler Herro pts under 20.5 + BOS win,2,0.5363,0.4629,2.16,2.27,2.15,-0.0049,1.031,2.10-2.50
+BOS @ MIL,Brayden Burries pts under 11.5 + BOS win,2,0.4989,0.4475,2.23,2.35,2.19,-0.0218,1.031,2.10-2.50
+BOS @ MIL,Payton Pritchard 14+ pts + BOS win,2,0.4025,0.4248,2.35,2.47,2.3,-0.023,1.034,2.10-2.50
+BOS @ MIL,game over 221.5 + Myles Turner 5+ pa,2,0.4713,0.4609,2.17,2.28,2.06,-0.049,1.018,1.85-2.10
+BOS @ MIL,Neemias Queta pts under 9.5 + Ryan Rollins 5+ pr,2,0.5836,0.458,2.18,2.29,2.07,-0.0523,1.0,1.85-2.10
+BOS @ MIL,MIL +13.5 + Myles Turner 5+ pa,2,0.5125,0.4593,2.18,2.29,2.05,-0.0564,1.014,1.85-2.10
 MIA @ SAC,MIA win + Davion Mitchell 10+ ra,2,0.4587,0.4158,2.41,2.53,2.27,-0.055,1.033,2.10-2.50
 MIA @ SAC,MIA win + game under 238.5,2,0.3188,0.392,2.55,2.68,2.37,-0.0722,1.006,2.10-2.50
 MIA @ SAC,MIA win + game over 238.5,2,0.4076,0.3847,2.6,2.73,2.39,-0.0814,0.995,2.10-2.50
