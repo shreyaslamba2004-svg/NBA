@@ -1,11 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CLE @ CHA,CLE win + Donovan Mitchell 34+ pra,2,0.3867,0.3941,2.54,2.66,2.46,-0.032,1.063,2.10-2.50
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + CLE win,2,0.5398,0.4385,2.28,2.39,2.17,-0.0482,1.028,2.10-2.50
-CLE @ CHA,Coby White 22+ pra + Grayson Allen 10+ pts,2,0.5478,0.4118,2.43,2.55,2.27,-0.0635,1.011,2.10-2.50
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Sion James 10+ pra,2,0.6773,0.4578,2.18,2.29,1.97,-0.097,0.996,1.85-2.10
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 15+ pra,2,0.6867,0.4588,2.18,2.29,1.97,-0.0971,0.995,1.85-2.10
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Grayson Allen 10+ pts,2,0.6652,0.4526,2.21,2.32,1.99,-0.0986,0.995,1.85-2.10
-CLE @ CHA,CLE win + Grayson Allen 10+ pts,2,0.5641,0.587,1.7,1.79,1.51,-0.1162,0.979,1.50-1.65
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + CLE win,2,0.5398,0.4362,2.29,2.41,2.18,-0.0477,1.028,2.10-2.50
+CLE @ CHA,game over 214.5 + Coby White 10+ pts,2,0.4824,0.4015,2.49,2.62,2.33,-0.0649,1.035,2.10-2.50
+CLE @ CHA,CLE win + game under 214.5,2,0.316,0.3789,2.64,2.77,2.47,-0.0653,1.017,2.10-2.50
+CLE @ CHA,CLE win + Peyton Watson 2+ ast,2,0.4612,0.4677,2.14,2.24,1.98,-0.0717,1.019,1.85-2.10
+CLE @ CHA,game over 214.5 + Coby White 10+ pr,2,0.5133,0.4403,2.27,2.38,2.08,-0.0854,1.015,1.85-2.10
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pts,2,0.6713,0.4331,2.31,2.42,2.09,-0.0957,0.993,1.85-2.10
+CLE @ CHA,Peyton Watson 2+ ast + Coby White 15+ pra,2,0.596,0.4944,2.02,2.12,1.81,-0.105,1.002,1.65-1.85
+CLE @ CHA,Peyton Watson 2+ ast + Coby White 10+ pr,2,0.6321,0.5276,1.9,1.99,1.69,-0.1069,1.0,1.65-1.85
+CLE @ CHA,Peyton Watson 2+ ast + Sion James 10+ pra,2,0.5867,0.4962,2.02,2.12,1.8,-0.1071,1.001,1.65-1.85
+CLE @ CHA,CLE win + Coby White 10+ pts,2,0.573,0.5685,1.76,1.85,1.57,-0.1079,0.984,1.50-1.65
 WAS @ DET,AJ Dybantsa pts under 17.5 + DET win,2,0.535,0.4118,2.43,2.55,2.32,-0.0457,1.031,2.10-2.50
 WAS @ DET,DET win + AJ Dybantsa pra under 25.5,2,0.5057,0.4079,2.45,2.57,2.34,-0.0466,1.035,2.10-2.50
 WAS @ DET,DET win + AJ Dybantsa pr under 23.5,2,0.5223,0.4242,2.36,2.47,2.23,-0.0524,1.03,2.10-2.50
@@ -13,23 +16,25 @@ WAS @ DET,DET win + Daniss Jenkins 4+ ast,2,0.5076,0.4552,2.2,2.31,2.04,-0.0692,
 WAS @ DET,Daniss Jenkins 4+ ast + Paul Reed 10+ pa,2,0.5845,0.4498,2.22,2.33,2.0,-0.1005,1.005,1.85-2.10
 MEM @ TOR,game over 230.5 + RJ Barrett 4+ reb,2,0.491,0.4186,2.39,2.51,2.19,-0.0845,1.019,2.10-2.50
 MEM @ TOR,game over 230.5 + Collin Murray-Boyles 4+ reb,2,0.4833,0.4141,2.41,2.54,2.19,-0.0912,1.012,2.10-2.50
-MEM @ TOR,Cameron Boozer pts under 17.5 + Collin Murray-Boyles 4+ reb,2,0.6011,0.3938,2.54,2.67,2.3,-0.0932,0.997,2.10-2.50
+MEM @ TOR,RJ Barrett 11+ ra + Collin Murray-Boyles 4+ reb,2,0.5025,0.3786,2.64,2.77,2.39,-0.0933,1.01,2.10-2.50
 MEM @ TOR,RJ Barrett 6+ reb + Collin Murray-Boyles 4+ reb,2,0.5508,0.4412,2.27,2.38,2.04,-0.0985,1.006,1.85-2.10
 MEM @ TOR,TOR win + RJ Barrett 4+ reb,2,0.5378,0.469,2.13,2.24,1.92,-0.0996,0.997,1.85-2.10
 MEM @ TOR,TOR win + Collin Murray-Boyles 4+ reb,2,0.5321,0.4665,2.14,2.25,1.93,-0.1014,0.996,1.85-2.10
-SAS @ PHX,game over 224.5 + Dillon Brooks 15+ pra,2,0.4787,0.406,2.46,2.59,2.33,-0.0551,1.04,2.10-2.50
-SAS @ PHX,game over 224.5 + Dillon Brooks 10+ pts,2,0.4785,0.4018,2.49,2.61,2.35,-0.0569,1.037,2.10-2.50
-SAS @ PHX,game over 224.5 + Stephon Castle 15+ pr,2,0.4701,0.4103,2.44,2.56,2.29,-0.0595,1.038,2.10-2.50
+SAS @ PHX,Oso Ighodaro 11+ pr + Dillon Brooks 15+ pra,2,0.4918,0.3908,2.56,2.69,2.47,-0.035,1.012,2.10-2.50
+SAS @ PHX,Oso Ighodaro 11+ pr + Dillon Brooks 10+ pts,2,0.4921,0.3902,2.56,2.69,2.47,-0.0365,1.01,2.10-2.50
+SAS @ PHX,Oso Ighodaro 11+ pr + Dillon Brooks 10+ pa,2,0.5242,0.4247,2.35,2.47,2.26,-0.0418,1.006,2.10-2.50
 SAS @ PHX,SAS -6.5 + Stephon Castle 10+ pts,2,0.4695,0.4452,2.25,2.36,2.08,-0.0729,1.027,1.85-2.10
-SAS @ PHX,SAS win + De'Aaron Fox 1+ 3pm,2,0.5274,0.4563,2.19,2.3,2.02,-0.0784,1.01,1.85-2.10
-SAS @ PHX,game over 224.5 + Dillon Brooks 10+ pr,2,0.52,0.4506,2.22,2.33,2.04,-0.0795,1.015,1.85-2.10
+SAS @ PHX,SAS win + De'Aaron Fox 1+ 3pm,2,0.5274,0.4568,2.19,2.3,2.02,-0.0773,1.01,1.85-2.10
+SAS @ PHX,game over 224.5 + Dillon Brooks 10+ pr,2,0.52,0.4488,2.23,2.34,2.05,-0.0791,1.015,1.85-2.10
 SAS @ PHX,SAS win + Stephon Castle 10+ pts,2,0.6113,0.5617,1.78,1.87,1.64,-0.0807,1.018,1.50-1.65
 SAS @ PHX,SAS win + Stephon Castle 15+ pr,2,0.598,0.5472,1.83,1.92,1.68,-0.0824,1.016,1.65-1.85
-SAS @ PHX,SAS win + Dillon Brooks 1+ 3pm,2,0.6187,0.5235,1.91,2.01,1.73,-0.0957,0.994,1.65-1.85
-SAS @ PHX,De'Aaron Fox 1+ 3pm + Dillon Brooks 1+ 3pm,2,0.6679,0.5001,2.0,2.1,1.8,-0.0977,1.002,1.65-1.85
-SAS @ PHX,De'Aaron Fox 1+ 3pm + Dillon Brooks 10+ pa,2,0.6874,0.5471,1.83,1.92,1.64,-0.1034,1.001,1.50-1.65
-SAS @ PHX,SAS win + Dillon Brooks 10+ pa,2,0.6347,0.5709,1.75,1.84,1.57,-0.1043,0.99,1.50-1.65
-NOP @ GSW,GSW win + Zion Williamson pts under 20.5,2,0.4189,0.4121,2.43,2.55,2.36,-0.0258,1.068,2.10-2.50
-NOP @ GSW,GSW win + Trey Murphy III pts under 15.5,2,0.3772,0.3919,2.55,2.68,2.47,-0.0324,1.066,2.10-2.50
+SAS @ PHX,SAS win + Dillon Brooks 1+ 3pm,2,0.6187,0.5198,1.92,2.02,1.74,-0.0951,0.994,1.65-1.85
+SAS @ PHX,De'Aaron Fox 1+ 3pm + Dillon Brooks 1+ 3pm,2,0.6679,0.4971,2.01,2.11,1.82,-0.0961,1.002,1.65-1.85
+SAS @ PHX,SAS win + Dillon Brooks 10+ pr,2,0.6626,0.5995,1.67,1.75,1.5,-0.1001,0.995,1.50-1.65
+SAS @ PHX,De'Aaron Fox 1+ 3pm + Dillon Brooks 10+ pa,2,0.6874,0.5478,1.83,1.92,1.64,-0.1024,1.001,1.50-1.65
+NOP @ GSW,GSW win + Zion Williamson pts under 19.5,2,0.3877,0.3947,2.53,2.66,2.47,-0.0255,1.072,2.10-2.50
+NOP @ GSW,GSW win + Trey Murphy III pts under 15.5,2,0.3772,0.3985,2.51,2.64,2.42,-0.0339,1.066,2.10-2.50
 NOP @ GSW,GSW win + Derik Queen pts under 9.5,2,0.4037,0.4209,2.38,2.49,2.25,-0.0519,1.045,2.10-2.50
 NOP @ GSW,GSW win + Dejounte Murray 1+ 3pm,2,0.5091,0.5503,1.82,1.91,1.63,-0.1025,0.992,1.50-1.65
+NOP @ GSW,Stephen Curry 3pm under 4.5 + Jeremiah Fears 10+ pts,2,0.5079,0.4227,2.37,2.48,2.09,-0.1145,0.998,1.85-2.10
+NOP @ GSW,GSW win + Jeremiah Fears 10+ pts,2,0.5219,0.5751,1.74,1.83,1.53,-0.1194,0.975,1.50-1.65
