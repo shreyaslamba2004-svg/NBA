@@ -1,15 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ ATL,LAL win + Sandro Mamukelashvili 5+ pr,2,0.3925,0.475,2.11,2.21,2.08,-0.0123,1.004,1.85-2.10
-LAL @ ATL,LAL win + Luka Doncic 1+ stl,2,0.336,0.4062,2.46,2.58,2.43,-0.0131,1.003,2.10-2.50
-LAL @ ATL,LAL win + Walker Kessler 8+ reb,2,0.3573,0.4158,2.41,2.53,2.37,-0.0145,0.996,2.10-2.50
-LAL @ ATL,LAL win + Onyeka Okongwu 10+ pr,2,0.3883,0.4704,2.13,2.23,2.07,-0.0249,0.991,1.85-2.10
-LAL @ ATL,LAL win + CJ McCollum 1+ 3pm,2,0.3319,0.4007,2.5,2.62,2.42,-0.0315,0.984,2.10-2.50
-LAL @ ATL,ATL +1.5 + Onyeka Okongwu 10+ pr,2,0.5991,0.465,2.15,2.26,2.01,-0.0639,1.006,1.85-2.10
-LAL @ ATL,Matisse Thybulle 3pm under 1.5 + Onyeka Okongwu 10+ pr,2,0.6653,0.5318,1.88,1.97,1.71,-0.0931,1.0,1.65-1.85
-LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Sandro Mamukelashvili 5+ pr,2,0.6975,0.5547,1.8,1.89,1.63,-0.0944,0.998,1.50-1.65
-LAL @ ATL,Matisse Thybulle 3pm under 1.5 + Sandro Mamukelashvili 5+ pr,2,0.6627,0.5292,1.89,1.98,1.71,-0.0947,0.998,1.65-1.85
-LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Onyeka Okongwu 10+ pr,2,0.6984,0.556,1.8,1.89,1.63,-0.0951,0.997,1.50-1.65
-LAL @ ATL,Matisse Thybulle 3pm under 1.5 + Sandro Mamukelashvili 5+ pr + Onyeka Okongwu 10+ pr,3,0.6325,0.4832,2.07,2.17,1.76,-0.1476,0.999,1.65-1.85
+LAL @ ATL,LAL win + Walker Kessler 8+ reb,2,0.3621,0.4186,2.39,2.51,2.37,-0.0077,1.003,2.10-2.50
+LAL @ ATL,LAL win + Sandro Mamukelashvili 5+ pr,2,0.3945,0.4736,2.11,2.22,2.08,-0.0153,1.001,1.85-2.10
+LAL @ ATL,LAL win + Luka Doncic 1+ stl,2,0.333,0.4022,2.49,2.61,2.43,-0.0229,0.994,2.10-2.50
+LAL @ ATL,LAL win + Onyeka Okongwu 10+ pr,2,0.392,0.47,2.13,2.23,2.07,-0.0258,0.99,1.85-2.10
+LAL @ ATL,LAL win + CJ McCollum 1+ 3pm,2,0.3373,0.4012,2.49,2.62,2.42,-0.0303,0.984,2.10-2.50
+LAL @ ATL,ATL +1.5 + Onyeka Okongwu 10+ pr,2,0.595,0.4653,2.15,2.26,2.01,-0.0631,1.006,1.85-2.10
+LAL @ ATL,Matisse Thybulle 3pm under 1.5 + Onyeka Okongwu 10+ pr,2,0.6723,0.5327,1.88,1.97,1.71,-0.0917,1.0,1.65-1.85
+LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Sandro Mamukelashvili 5+ pr,2,0.699,0.5555,1.8,1.89,1.63,-0.0932,0.999,1.50-1.65
+LAL @ ATL,Walker Kessler 11+ reb + Onyeka Okongwu 10+ pr,2,0.6186,0.4953,2.02,2.12,1.83,-0.0933,1.0,1.65-1.85
+LAL @ ATL,Matisse Thybulle 3pm under 1.5 + Sandro Mamukelashvili 5+ pr,2,0.668,0.5299,1.89,1.98,1.71,-0.0935,0.998,1.65-1.85
+LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Onyeka Okongwu 10+ pr,2,0.7011,0.5565,1.8,1.89,1.63,-0.0944,0.998,1.50-1.65
 CLE @ CHA,Royce O'Neale 3pm under 2.5 + CLE win,2,0.564,0.4591,2.18,2.29,2.13,-0.0228,1.027,2.10-2.50
 CLE @ CHA,game under 215.5 + CLE win,2,0.3574,0.3933,2.54,2.67,2.48,-0.0237,1.037,2.10-2.50
 CLE @ CHA,CLE win + Ryan Kalkbrenner pr under 14.5,2,0.4539,0.4043,2.47,2.6,2.37,-0.0399,1.027,2.10-2.50
@@ -71,12 +71,12 @@ SAS @ PHX,SAS win + Dylan Harper 4+ reb,2,0.5629,0.5597,1.79,1.88,1.63,-0.0857,0
 SAS @ PHX,Oso Ighodaro ast under 3.5 + Dillon Brooks 10+ pr,2,0.636,0.4952,2.02,2.12,1.84,-0.0906,0.999,1.65-1.85
 SAS @ PHX,Devin Booker 5+ ast + Dillon Brooks 10+ pr,2,0.6232,0.5015,1.99,2.09,1.81,-0.0919,1.001,1.65-1.85
 SAS @ PHX,Julian Champagnie reb under 5.5 + Dillon Brooks 10+ pr,2,0.6309,0.4981,2.01,2.11,1.82,-0.0931,0.999,1.65-1.85
-NOP @ GSW,game under 231.5 + GSW win,2,0.3228,0.3781,2.64,2.78,2.5,-0.055,1.004,2.10-2.50
-NOP @ GSW,game over 231.5 + GSW win,2,0.471,0.3782,2.64,2.78,2.49,-0.0591,0.997,2.10-2.50
-NOP @ GSW,game over 231.5 + Yaxel Lendeborg 20+ pra,2,0.56,0.4526,2.21,2.32,2.07,-0.0626,1.022,1.85-2.10
+NOP @ GSW,game under 231.5 + GSW win,2,0.3228,0.3777,2.65,2.78,2.5,-0.0559,1.004,2.10-2.50
 NOP @ GSW,GSW win + Yaxel Lendeborg 2+ 3pm,2,0.5033,0.4321,2.31,2.43,2.16,-0.0653,1.015,2.10-2.50
-NOP @ GSW,game over 231.5 + Yaxel Lendeborg 15+ pr,2,0.5762,0.4636,2.16,2.26,2.0,-0.0718,1.011,1.85-2.10
+NOP @ GSW,GSW win + game under 229.5,2,0.2922,0.387,2.58,2.71,2.4,-0.07,1.006,2.10-2.50
+NOP @ GSW,game over 231.5 + Yaxel Lendeborg 20+ pra,2,0.56,0.453,2.21,2.32,2.03,-0.0821,1.022,1.85-2.10
 NOP @ GSW,GSW win + De'Anthony Melton stl under 1.5,2,0.5328,0.4618,2.17,2.27,1.99,-0.0822,1.0,1.85-2.10
+NOP @ GSW,GSW -11.5 + Yaxel Lendeborg 20+ pra,2,0.4748,0.4563,2.19,2.3,2.0,-0.0871,1.016,1.85-2.10
 NOP @ GSW,De'Anthony Melton stl under 1.5 + Yaxel Lendeborg 1+ 3pm,2,0.5873,0.5021,1.99,2.09,1.78,-0.1058,0.998,1.65-1.85
 NOP @ GSW,De'Anthony Melton stl under 1.5 + Yaxel Lendeborg 20+ pra,2,0.6183,0.5395,1.85,1.95,1.65,-0.1073,1.0,1.65-1.85
 NOP @ GSW,De'Anthony Melton stl under 1.5 + Yaxel Lendeborg 15+ pr,2,0.6421,0.5577,1.79,1.88,1.6,-0.1079,0.999,1.50-1.65
