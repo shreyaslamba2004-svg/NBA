@@ -1,11 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-UTA @ MIN,Keyonte George pts under 22.5 + MIN win,2,0.4467,0.4188,2.39,2.51,2.35,-0.0173,1.036,2.10-2.50
-UTA @ MIN,Ace Bailey pts under 15.5 + MIN win,2,0.4984,0.4286,2.33,2.45,2.28,-0.0234,1.029,2.10-2.50
-UTA @ MIN,Brice Sensabaugh pts under 10.5 + MIN win,2,0.4808,0.439,2.28,2.39,2.21,-0.0308,1.024,2.10-2.50
-UTA @ MIN,Rudy Gobert 9+ pts + Brice Sensabaugh 5+ pra,2,0.4937,0.4536,2.2,2.32,2.04,-0.0761,1.001,1.85-2.10
-UTA @ MIN,Darryn Peterson pts under 15.5 + Brice Sensabaugh 5+ pra,2,0.552,0.4416,2.26,2.38,2.09,-0.0767,1.0,1.85-2.10
-UTA @ MIN,Jaxson Hayes pts under 9.5 + Brice Sensabaugh 5+ pra,2,0.5572,0.4479,2.23,2.34,2.05,-0.0839,0.998,1.85-2.10
-UTA @ MIN,MIN win + Brice Sensabaugh 5+ pr + LaMelo Ball 2+ 3pm,3,0.7288,0.5698,1.76,1.84,1.5,-0.1444,1.002,1.50-1.65
 BKN @ DAL,Danny Wolf pts under 9.5 + Daniel Gafford 5+ pa,2,0.3861,0.4245,2.36,2.47,2.22,-0.0567,1.001,2.10-2.50
 BKN @ DAL,Danny Wolf pts under 9.5 + Julius Randle 4+ reb,2,0.3808,0.4185,2.39,2.51,2.25,-0.0583,1.0,2.10-2.50
 BKN @ DAL,Danny Wolf pts under 9.5 + Day'Ron Sharpe 6+ reb,2,0.355,0.3772,2.65,2.78,2.49,-0.0606,0.994,2.10-2.50
@@ -21,18 +14,12 @@ BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pr,2,0.4438,0.4113,2.43,2.55,2.37,-0.
 BOS @ MIL,game over 221.5 + BOS win,2,0.3929,0.4298,2.33,2.44,2.22,-0.0438,1.001,2.10-2.50
 BOS @ MIL,game over 221.5 + Myles Turner 5+ pa,2,0.4687,0.4612,2.17,2.28,2.06,-0.0483,1.018,1.85-2.10
 BOS @ MIL,game over 221.5 + Jayson Tatum 4+ reb,2,0.4673,0.4601,2.17,2.28,2.06,-0.0521,1.014,1.85-2.10
-BOS @ MIL,game under 222.5 + BOS win,2,0.4322,0.4245,2.36,2.47,2.22,-0.0557,1.001,2.10-2.50
-BOS @ MIL,game over 221.5 + Kyle Kuzma 5+ pa,2,0.4808,0.4701,2.13,2.23,2.0,-0.0593,1.006,1.85-2.10
+BOS @ MIL,MIL +13.5 + Kyle Kuzma 10+ pr,2,0.4801,0.4011,2.49,2.62,2.36,-0.0522,1.013,2.10-2.50
+BOS @ MIL,MIL +13.5 + Myles Turner 5+ pa,2,0.5175,0.459,2.18,2.29,2.05,-0.057,1.014,1.85-2.10
 BOS @ MIL,BOS win + Ryan Rollins 3+ ast,2,0.5983,0.4999,2.0,2.1,1.81,-0.0948,0.987,1.65-1.85
 BOS @ MIL,Ryan Rollins 6+ ra + Jayson Tatum 4+ reb,2,0.6698,0.5026,1.99,2.09,1.79,-0.1007,1.003,1.65-1.85
 BOS @ MIL,Ryan Rollins 3+ ast + Jayson Tatum 4+ reb,2,0.7127,0.536,1.87,1.96,1.68,-0.1012,1.002,1.65-1.85
 BOS @ MIL,Ryan Rollins 3+ ast + Kyle Kuzma 5+ pa,2,0.738,0.5511,1.81,1.91,1.63,-0.1022,1.0,1.50-1.65
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4055,0.424,2.36,2.48,2.26,-0.0435,1.033,2.10-2.50
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5647,0.4013,2.49,2.62,2.36,-0.0546,1.03,2.10-2.50
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pa,2,0.4496,0.4718,2.12,2.23,1.98,-0.0641,1.011,1.85-2.10
-NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3798,0.404,2.48,2.6,2.3,-0.0694,1.037,2.10-2.50
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pa,2,0.6268,0.4471,2.24,2.35,2.07,-0.0738,1.009,1.85-2.10
-NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pa,2,0.4201,0.4486,2.23,2.34,2.03,-0.0914,1.012,1.85-2.10
 MIA @ SAC,MIA win + Andrew Wiggins 2+ ast,2,0.4537,0.4064,2.46,2.58,2.3,-0.0654,1.021,2.10-2.50
 MIA @ SAC,MIA win + game under 238.5,2,0.3188,0.392,2.55,2.68,2.37,-0.0722,1.006,2.10-2.50
 MIA @ SAC,MIA win + game over 238.5,2,0.4076,0.3847,2.6,2.73,2.39,-0.0814,0.995,2.10-2.50
