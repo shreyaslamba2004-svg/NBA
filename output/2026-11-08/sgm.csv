@@ -1,9 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIA @ SAC,De'Andre Hunter pts under 13.5 + MIA win,2,0.3807,0.4091,2.44,2.57,2.48,0.0144,1.054,2.10-2.50
-MIA @ SAC,Bam Adebayo 20+ pts + MIA win,2,0.4314,0.3986,2.51,2.63,2.48,-0.0115,1.035,2.10-2.50
-MIA @ SAC,Darius Acuff Jr. pts under 25.5 + MIA win,2,0.4649,0.4173,2.4,2.52,2.36,-0.0164,1.045,2.10-2.50
-MIA @ SAC,Davion Mitchell pts under 13.5 + De'Andre Hunter 10+ pr,2,0.5532,0.4571,2.19,2.3,2.07,-0.0525,1.0,1.85-2.10
-MIA @ SAC,Bam Adebayo pts under 19.5 + De'Andre Hunter 10+ pr,2,0.4391,0.4432,2.26,2.37,2.09,-0.0726,0.998,1.85-2.10
-MIA @ SAC,Andrew Wiggins pts under 10.5 + De'Andre Hunter 10+ pr,2,0.4715,0.4569,2.19,2.3,2.03,-0.0736,0.999,1.85-2.10
-MIA @ SAC,MIA win + Andrew Wiggins 10+ pra + Dylan Cardwell 4+ reb,3,0.6267,0.5182,1.93,2.03,1.65,-0.143,1.004,1.65-1.85
-MIA @ SAC,MIA win + Andrew Wiggins 10+ pra + De'Andre Hunter 10+ pr,3,0.6428,0.5357,1.87,1.96,1.59,-0.1476,0.999,1.50-1.65
+MIA @ SAC,De'Andre Hunter pts under 13.5 + MIA win,2,0.3858,0.4085,2.45,2.57,2.48,0.0128,1.051,2.10-2.50
+MIA @ SAC,Bam Adebayo 20+ pts + MIA win,2,0.4351,0.4012,2.49,2.62,2.48,-0.0052,1.042,2.10-2.50
+MIA @ SAC,Darius Acuff Jr. pts under 25.5 + MIA win,2,0.4447,0.4156,2.41,2.53,2.36,-0.0205,1.044,2.10-2.50
