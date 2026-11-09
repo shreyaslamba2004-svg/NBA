@@ -1,7 +1,7 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909949,BOS @ MIL,moneyline,MIL,,,,betfair_ex_au,589.0,6.89,0.193,5.18,0.1422,0.1642,0.0287,2.05,0.3294,0.1642,0.1317,0.0056,False,True,True,,,
+401909949,BOS @ MIL,moneyline,MIL,,,,draftkings,580.0,6.8,0.193,5.18,0.1413,0.1642,0.0287,4.07,0.3121,0.1642,0.1169,0.005,False,True,True,,,
 401909951,MIA @ SAC,moneyline,SAC,,,,draftkings,394.0,4.94,0.2736,3.66,0.1945,0.2238,0.0498,4.06,0.3513,0.2238,0.1056,0.0067,False,True,True,Domantas Sabonis,0.2368,0.3098
-401909949,BOS @ MIL,moneyline,MIL,,,,draftkings,551.0,6.51,0.193,5.18,0.1475,0.1642,0.0287,4.13,0.2561,0.1642,0.0693,0.0031,False,True,True,,,
 401909949,BOS @ MIL,prop_ast,over,Ryan Rollins,1631157.0,7.5,draftkings,2000.0,21.0,0.1059,9.44,0.0445,0.0445,0.0614,,1.2239,0.0491,0.0313,0.0004,False,True,False,,,
 401909949,BOS @ MIL,prop_ast,over,Ryan Rollins,1631157.0,6.5,draftkings,1140.0,12.4,0.1765,5.66,0.0754,0.0754,0.1012,,1.189,0.083,0.0287,0.0006,False,False,False,,,
 401909950,NOP @ LAC,prop_ast,over,Jeremiah Fears,1642847.0,6.5,draftkings,1060.0,11.6,0.1849,5.41,0.0806,0.0806,0.1044,,1.1452,0.0884,0.0254,0.0006,False,False,False,,,
