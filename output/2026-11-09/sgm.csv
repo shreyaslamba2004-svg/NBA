@@ -8,54 +8,54 @@ LAL @ ATL,Austin Reaves 31+ pra + Sandro Mamukelashvili 5+ pr,2,0.6808,0.4658,2.
 LAL @ ATL,Jake LaRavia 5+ pr + Walker Kessler 8+ reb + CJ McCollum 10+ pr,3,0.6959,0.52,1.92,2.02,1.65,-0.1418,1.003,1.65-1.85
 LAL @ ATL,Jake LaRavia 5+ pr + CJ McCollum 10+ pr + Austin Reaves 1+ 3pm,3,0.7239,0.5532,1.81,1.9,1.55,-0.1452,1.003,1.50-1.65
 LAL @ ATL,Jake LaRavia 5+ pr + Walker Kessler 8+ reb + Austin Reaves 1+ 3pm,3,0.7406,0.5607,1.78,1.87,1.52,-0.146,1.0,1.50-1.65
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + CLE win,2,0.5398,0.4482,2.23,2.34,2.2,-0.0126,1.028,2.10-2.50
-CLE @ CHA,game under 215.5 + CLE win,2,0.33,0.3894,2.57,2.7,2.48,-0.0333,1.018,2.10-2.50
-CLE @ CHA,CHA +9.5 + Coby White 10+ pts,2,0.5241,0.4035,2.48,2.6,2.38,-0.0408,1.024,2.10-2.50
-CLE @ CHA,CHA +9.5 + Coby White 10+ pa,2,0.565,0.4567,2.19,2.3,2.06,-0.0609,1.011,1.85-2.10
-CLE @ CHA,CHA +9.5 + Grayson Allen 10+ pa,2,0.5681,0.468,2.14,2.24,2.0,-0.0625,1.012,1.85-2.10
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pts,2,0.6713,0.4459,2.24,2.35,2.09,-0.0675,0.993,1.85-2.10
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + James Harden 1+ 3pm,2,0.7152,0.506,1.98,2.08,1.84,-0.0712,1.0,1.65-1.85
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pa,2,0.7358,0.5132,1.95,2.05,1.81,-0.0717,0.997,1.65-1.85
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Donovan Mitchell 1+ 3pm,2,0.7326,0.5195,1.92,2.02,1.79,-0.0724,0.999,1.65-1.85
-CLE @ CHA,CLE win + Coby White 10+ pts,2,0.573,0.5687,1.76,1.85,1.6,-0.0874,0.984,1.50-1.65
-CLE @ CHA,CLE win + Coby White 15+ pra,2,0.5871,0.5987,1.67,1.75,1.52,-0.0887,0.987,1.50-1.65
-CLE @ CHA,CLE win + Sion James 10+ pra,2,0.5794,0.5995,1.67,1.75,1.52,-0.0892,0.989,1.50-1.65
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + CLE win,2,0.5398,0.4399,2.27,2.39,2.24,-0.0135,1.028,2.10-2.50
+CLE @ CHA,game under 215.5 + CLE win,2,0.33,0.3879,2.58,2.71,2.48,-0.0372,1.018,2.10-2.50
+CLE @ CHA,CHA +8.5 + Coby White 10+ pts,2,0.5001,0.3958,2.53,2.65,2.4,-0.0521,1.024,2.10-2.50
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pr,2,0.7299,0.4953,2.02,2.12,1.88,-0.0681,0.996,1.85-2.10
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Peyton Watson 10+ pra,2,0.7422,0.5203,1.92,2.02,1.79,-0.0682,1.001,1.65-1.85
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + James Harden 1+ 3pm,2,0.7152,0.4992,2.0,2.1,1.87,-0.0685,1.0,1.85-2.10
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Sion James 10+ pra,2,0.6773,0.4629,2.16,2.27,2.01,-0.0686,0.996,1.85-2.10
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pa,2,0.7358,0.5079,1.97,2.07,1.83,-0.0694,0.997,1.65-1.85
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Donovan Mitchell 1+ 3pm,2,0.7326,0.5133,1.95,2.05,1.81,-0.07,0.999,1.65-1.85
+CLE @ CHA,CLE win + Coby White 10+ pts,2,0.573,0.5693,1.76,1.84,1.6,-0.0918,0.984,1.50-1.65
+CLE @ CHA,CLE win + Sion James 10+ pra,2,0.5794,0.5979,1.67,1.76,1.52,-0.093,0.989,1.50-1.65
+CLE @ CHA,CLE win + Coby White 15+ pra,2,0.5871,0.6027,1.66,1.74,1.5,-0.0939,0.987,1.50-1.65
 WAS @ DET,AJ Dybantsa pa under 19.5 + DET win,2,0.487,0.4274,2.34,2.46,2.31,-0.0138,1.046,2.10-2.50
 WAS @ DET,AJ Dybantsa pts under 17.5 + DET win,2,0.506,0.4441,2.25,2.36,2.21,-0.0195,1.04,2.10-2.50
 WAS @ DET,Kevin Huerter 8+ pts + DET win,2,0.5077,0.4395,2.28,2.39,2.22,-0.0224,1.034,2.10-2.50
-WAS @ DET,Daniss Jenkins 4+ ast + DET win,2,0.5162,0.4674,2.14,2.25,2.05,-0.0427,1.02,1.85-2.10
-WAS @ DET,game over 218.5 + Kyshawn George 10+ pa,2,0.6329,0.4535,2.2,2.32,2.06,-0.0648,1.012,1.85-2.10
-WAS @ DET,Daniss Jenkins 7+ ra + Kyshawn George 15+ pra,2,0.6609,0.4729,2.11,2.22,1.97,-0.0699,1.002,1.85-2.10
+WAS @ DET,Daniss Jenkins 4+ ast + DET win,2,0.5162,0.4685,2.13,2.24,2.05,-0.0404,1.02,1.85-2.10
+WAS @ DET,game over 218.5 + Kyshawn George 10+ pa,2,0.6329,0.453,2.21,2.32,2.06,-0.0647,1.012,1.85-2.10
 WAS @ DET,DET win + Duncan Robinson 15+ pra,2,0.5755,0.619,1.62,1.7,1.5,-0.071,1.022,1.50-1.65
-WAS @ DET,Daniss Jenkins 4+ ast + Kyshawn George 10+ pa,2,0.6839,0.514,1.95,2.04,1.79,-0.0802,1.002,1.65-1.85
+WAS @ DET,Daniss Jenkins 7+ ra + Kyshawn George 15+ pra,2,0.6609,0.4782,2.09,2.2,1.94,-0.0725,1.002,1.85-2.10
+WAS @ DET,Daniss Jenkins 4+ ast + Kyshawn George 10+ pa,2,0.6839,0.5146,1.94,2.04,1.79,-0.0778,1.002,1.65-1.85
 WAS @ DET,DET win + AJ Dybantsa 4+ reb,2,0.5728,0.5994,1.67,1.75,1.52,-0.0863,1.001,1.50-1.65
 WAS @ DET,DET win + Daniss Jenkins 10+ pa + Duncan Robinson 15+ pra,3,0.5253,0.5043,1.98,2.08,1.78,-0.1014,1.039,1.65-1.85
 WAS @ DET,AJ Dybantsa 4+ reb + Duncan Robinson 15+ pra,2,0.6463,0.5712,1.75,1.84,1.57,-0.1057,1.004,1.50-1.65
 WAS @ DET,DET win + Daniss Jenkins 10+ pa + AJ Dybantsa 4+ reb,3,0.5195,0.4852,2.06,2.16,1.81,-0.1219,1.01,1.65-1.85
 MEM @ TOR,TOR win + Ja'Kobe Walter 10+ pa,2,0.5129,0.4489,2.23,2.34,2.1,-0.0556,1.022,2.10-2.50
-MEM @ TOR,TOR win + Collin Murray-Boyles 10+ pa,2,0.5373,0.4589,2.18,2.29,2.06,-0.0557,1.018,1.85-2.10
-MEM @ TOR,TOR -3.5 + Collin Murray-Boyles 10+ pa,2,0.4613,0.3874,2.58,2.71,2.44,-0.0565,1.021,2.10-2.50
-MEM @ TOR,TOR -3.5 + Ja'Kobe Walter 10+ pa,2,0.4398,0.3785,2.64,2.77,2.49,-0.0576,1.024,2.10-2.50
-MEM @ TOR,Cam Spencer ast under 5.5 + Collin Murray-Boyles 4+ reb,2,0.666,0.449,2.23,2.34,2.08,-0.0642,0.998,1.85-2.10
-MEM @ TOR,Cam Spencer ast under 5.5 + RJ Barrett 4+ reb,2,0.6699,0.4542,2.2,2.31,2.05,-0.0666,0.997,1.85-2.10
-MEM @ TOR,Cam Spencer ast under 5.5 + RJ Barrett 20+ pra,2,0.734,0.5146,1.94,2.04,1.81,-0.069,1.0,1.65-1.85
-MEM @ TOR,TOR win + RJ Barrett 20+ pra,2,0.5938,0.5327,1.88,1.97,1.74,-0.0734,1.007,1.65-1.85
-MEM @ TOR,Cam Spencer 3pm under 1.5 + RJ Barrett 20+ pra,2,0.7113,0.5521,1.81,1.9,1.65,-0.0893,0.999,1.50-1.65
-MEM @ TOR,Collin Murray-Boyles 10+ pa + Ja'Kobe Walter 10+ pa,2,0.696,0.5963,1.68,1.76,1.52,-0.0958,1.01,1.50-1.65
-MEM @ TOR,Ja'Kobe Walter 3pm under 2.5 + RJ Barrett 20+ pra,2,0.6157,0.4961,2.02,2.12,1.82,-0.0995,0.995,1.65-1.85
-MEM @ TOR,Collin Murray-Boyles 10+ pa + Ja'Kobe Walter 10+ pa + RJ Barrett 20+ pra,3,0.6657,0.5478,1.83,1.92,1.56,-0.1449,1.016,1.50-1.65
+MEM @ TOR,TOR win + Collin Murray-Boyles 10+ pa,2,0.5373,0.4605,2.17,2.28,2.05,-0.0563,1.018,1.85-2.10
+MEM @ TOR,Cam Spencer pa under 13.5 + Collin Murray-Boyles 10+ pa,2,0.6065,0.3927,2.55,2.67,2.4,-0.0568,0.998,2.10-2.50
+MEM @ TOR,TOR -3.5 + Collin Murray-Boyles 10+ pa,2,0.4613,0.3887,2.57,2.7,2.43,-0.0571,1.021,2.10-2.50
+MEM @ TOR,Cam Spencer pa under 13.5 + RJ Barrett 20+ pra,2,0.6775,0.4585,2.18,2.29,2.04,-0.0636,0.998,1.85-2.10
+MEM @ TOR,Cam Spencer ast under 5.5 + Collin Murray-Boyles 4+ reb,2,0.666,0.4526,2.21,2.32,2.06,-0.0658,0.998,1.85-2.10
+MEM @ TOR,Cam Spencer ast under 5.5 + RJ Barrett 20+ pra,2,0.734,0.5179,1.93,2.03,1.8,-0.0703,1.0,1.65-1.85
+MEM @ TOR,TOR win + RJ Barrett 20+ pra,2,0.5938,0.5319,1.88,1.97,1.74,-0.0731,1.007,1.65-1.85
+MEM @ TOR,Cam Spencer 3pm under 1.5 + RJ Barrett 20+ pra,2,0.7113,0.5534,1.81,1.9,1.65,-0.0896,0.999,1.50-1.65
+MEM @ TOR,Collin Murray-Boyles 10+ pa + Ja'Kobe Walter 10+ pa,2,0.696,0.5984,1.67,1.75,1.51,-0.0964,1.01,1.50-1.65
+MEM @ TOR,Ja'Kobe Walter 3pm under 2.5 + RJ Barrett 20+ pra,2,0.6157,0.4954,2.02,2.12,1.82,-0.0992,0.995,1.65-1.85
+MEM @ TOR,Collin Murray-Boyles 10+ pa + Ja'Kobe Walter 10+ pa + RJ Barrett 20+ pra,3,0.6657,0.5489,1.82,1.91,1.56,-0.1452,1.016,1.50-1.65
 DEN @ HOU,HOU win + Amen Thompson 4+ ast,2,0.4357,0.3899,2.56,2.69,2.47,-0.0374,1.035,2.10-2.50
-DEN @ HOU,Kevin Durant 30+ pra + Tari Eason 10+ pr,2,0.508,0.4104,2.44,2.56,2.31,-0.0504,1.01,2.10-2.50
-DEN @ HOU,HOU win + game under 219.5,2,0.2762,0.3813,2.62,2.75,2.49,-0.0509,1.022,2.10-2.50
-DEN @ HOU,Kevin Durant 30+ pra + Jabari Smith Jr. 15+ pra,2,0.5554,0.4538,2.2,2.31,2.08,-0.055,1.007,1.85-2.10
-DEN @ HOU,Kevin Durant 30+ pra + Amen Thompson 4+ reb,2,0.5347,0.4475,2.23,2.35,2.09,-0.0644,1.001,1.85-2.10
-DEN @ HOU,HOU win + Amen Thompson 1+ stl,2,0.5584,0.4931,2.03,2.13,1.89,-0.0694,0.998,1.85-2.10
-DEN @ HOU,HOU win + Kevin Durant 20+ pr,2,0.5953,0.584,1.71,1.8,1.59,-0.0697,1.016,1.50-1.65
+DEN @ HOU,HOU win + Jabari Smith Jr. 24+ pra,2,0.4431,0.4033,2.48,2.6,2.37,-0.0447,1.03,2.10-2.50
+DEN @ HOU,HOU win + Kevin Durant 4+ ast,2,0.4571,0.4298,2.33,2.44,2.21,-0.049,1.024,2.10-2.50
+DEN @ HOU,HOU win + Amen Thompson 1+ stl,2,0.5584,0.4999,2.0,2.1,1.86,-0.0716,0.998,1.85-2.10
 DEN @ HOU,HOU win + Kevin Durant 4+ reb,2,0.586,0.5545,1.8,1.89,1.66,-0.0791,1.0,1.65-1.85
-DEN @ HOU,Amen Thompson 1+ stl + Kevin Durant 4+ reb,2,0.6358,0.5056,1.98,2.08,1.8,-0.0911,1.002,1.65-1.85
-DEN @ HOU,Amen Thompson 1+ stl + Kevin Durant 20+ pr,2,0.6382,0.5262,1.9,2.0,1.72,-0.0929,1.006,1.65-1.85
-DEN @ HOU,Amen Thompson 1+ stl + Kevin Durant 1+ 3pm,2,0.6768,0.5487,1.82,1.91,1.65,-0.0951,1.001,1.50-1.65
-DEN @ HOU,Amen Thompson 1+ stl + Tari Eason 10+ pra,2,0.6977,0.5628,1.78,1.87,1.61,-0.0951,1.0,1.50-1.65
+DEN @ HOU,Amen Thompson 11+ ra + Tari Eason 10+ pra,2,0.5348,0.4372,2.29,2.4,2.09,-0.0879,1.008,1.85-2.10
+DEN @ HOU,game over 219.5 + Amen Thompson 4+ reb,2,0.5766,0.4368,2.29,2.4,2.08,-0.091,1.012,1.85-2.10
+DEN @ HOU,Amen Thompson 1+ stl + Kevin Durant 4+ reb,2,0.6358,0.5126,1.95,2.05,1.77,-0.0933,1.002,1.65-1.85
+DEN @ HOU,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.5657,0.491,2.04,2.14,1.84,-0.0941,1.007,1.65-1.85
+DEN @ HOU,Amen Thompson 1+ stl + Kevin Durant 1+ 3pm,2,0.6768,0.5563,1.8,1.89,1.62,-0.0972,1.001,1.50-1.65
+DEN @ HOU,Amen Thompson 1+ stl + Tari Eason 10+ pra,2,0.6977,0.5725,1.75,1.83,1.58,-0.0977,1.0,1.50-1.65
+DEN @ HOU,Amen Thompson 1+ stl + Jabari Smith Jr. 4+ reb,2,0.7027,0.5809,1.72,1.81,1.55,-0.1005,0.998,1.50-1.65
 SAS @ PHX,SAS win + De'Aaron Fox 17+ pr,2,0.4381,0.4107,2.43,2.56,2.35,-0.0352,1.036,2.10-2.50
 SAS @ PHX,game over 228.5 + Dillon Brooks 15+ pra,2,0.4046,0.4003,2.5,2.62,2.39,-0.0439,1.051,2.10-2.50
 SAS @ PHX,game over 228.5 + Dillon Brooks 10+ pts,2,0.4029,0.3926,2.55,2.67,2.43,-0.0466,1.045,2.10-2.50
@@ -68,15 +68,15 @@ SAS @ PHX,SAS win + Dillon Brooks 1+ 3pm,2,0.617,0.5674,1.76,1.85,1.63,-0.0744,0
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7618,0.5427,1.84,1.93,1.7,-0.0754,0.998,1.65-1.85
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pa,2,0.7305,0.5207,1.92,2.02,1.77,-0.0762,0.998,1.65-1.85
 SAS @ PHX,Dylan Harper ast under 4.5 + Stephon Castle 10+ pr,2,0.6374,0.4929,2.03,2.13,1.84,-0.0907,0.997,1.65-1.85
-NOP @ GSW,GSW win + Zion Williamson pa under 22.5,2,0.4572,0.3951,2.53,2.66,2.48,-0.0216,1.053,2.10-2.50
+NOP @ GSW,GSW win + Zion Williamson pa under 22.5,2,0.4572,0.3981,2.51,2.64,2.45,-0.023,1.053,2.10-2.50
 NOP @ GSW,GSW win + Dejounte Murray pts under 16.5,2,0.4874,0.4139,2.42,2.54,2.36,-0.0249,1.046,2.10-2.50
-NOP @ GSW,GSW win + Zion Williamson pts under 20.5,2,0.4947,0.4197,2.38,2.5,2.32,-0.026,1.044,2.10-2.50
+NOP @ GSW,GSW win + Dejounte Murray pra under 27.5,2,0.4676,0.4094,2.44,2.56,2.37,-0.0281,1.048,2.10-2.50
 NOP @ GSW,NOP +9.5 + Trey Murphy III 1+ 3pm,2,0.47,0.4441,2.25,2.36,2.06,-0.0849,1.013,1.85-2.10
 NOP @ GSW,Stephen Curry pts under 28.5 + Trey Murphy III 1+ 3pm,2,0.5676,0.4425,2.26,2.37,2.06,-0.0882,1.001,1.85-2.10
-NOP @ GSW,GSW win + Dejounte Murray 1+ stl,2,0.6118,0.5878,1.7,1.79,1.55,-0.0888,0.998,1.50-1.65
-NOP @ GSW,Dejounte Murray pr under 22.5 + Yaxel Lendeborg 1+ 3pm,2,0.5593,0.4397,2.27,2.39,2.06,-0.0921,0.998,1.85-2.10
-NOP @ GSW,GSW win + Jeremiah Fears 10+ pts,2,0.5925,0.5739,1.74,1.83,1.56,-0.1043,0.983,1.50-1.65
-NOP @ GSW,GSW win + Dejounte Murray 1+ stl + Yaxel Lendeborg 1+ 3pm,3,0.5334,0.4869,2.05,2.16,1.78,-0.1342,1.007,1.65-1.85
+NOP @ GSW,GSW win + Dejounte Murray 1+ stl,2,0.6118,0.5865,1.71,1.79,1.55,-0.0885,0.998,1.50-1.65
+NOP @ GSW,Stephen Curry pr under 32.5 + Trey Murphy III 1+ 3pm,2,0.5654,0.4515,2.21,2.33,2.01,-0.0926,1.001,1.85-2.10
+NOP @ GSW,GSW win + Jeremiah Fears 10+ pts,2,0.5925,0.57,1.75,1.84,1.57,-0.1034,0.983,1.50-1.65
+NOP @ GSW,GSW win + Dejounte Murray 1+ stl + Yaxel Lendeborg 1+ 3pm,3,0.5334,0.4859,2.06,2.16,1.78,-0.1338,1.007,1.65-1.85
 NOP @ GSW,GSW win + Yaxel Lendeborg 1+ 3pm + Trey Murphy III 1+ 3pm,3,0.5882,0.5422,1.84,1.94,1.58,-0.1407,1.001,1.50-1.65
-NOP @ GSW,GSW win + Yaxel Lendeborg 1+ 3pm + Jeremiah Fears 10+ pts,3,0.5186,0.4773,2.1,2.2,1.79,-0.1455,0.995,1.65-1.85
-NOP @ GSW,GSW win + Dejounte Murray 1+ stl + Trey Murphy III 1+ 3pm,3,0.556,0.5092,1.96,2.06,1.67,-0.148,0.991,1.65-1.85
+NOP @ GSW,GSW win + Jeremiah Fears 10+ pts + Yaxel Lendeborg 1+ 3pm,3,0.5186,0.4741,2.11,2.21,1.8,-0.1446,0.995,1.65-1.85
+NOP @ GSW,GSW win + Dejounte Murray 1+ stl + Trey Murphy III 1+ 3pm,3,0.556,0.5081,1.97,2.07,1.68,-0.1477,0.991,1.65-1.85
