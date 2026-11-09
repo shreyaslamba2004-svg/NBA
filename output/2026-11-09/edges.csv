@@ -1,103 +1,101 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,12.5,draftkings,2300.0,24.0,0.1338,7.48,0.0389,0.0389,0.0948,,2.2103,0.0515,0.235,0.0026,False,False,False,,,
-401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,11.5,draftkings,1500.0,16.0,0.1929,5.18,0.0584,0.0584,0.1345,,2.0868,0.0762,0.2187,0.0036,False,True,False,,,
-401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,10.5,draftkings,910.0,10.1,0.2748,3.64,0.0925,0.0925,0.1822,,1.7752,0.1166,0.1775,0.0049,True,False,False,T.J. McConnell,0.2981,0.2564
-401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,1520.0,16.2,0.1502,6.66,0.0577,0.0577,0.0925,,1.4332,0.0699,0.1324,0.0022,False,False,False,Scottie Barnes,0.0,0.1665
-401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,9.5,draftkings,540.0,6.4,0.3695,2.71,0.146,0.146,0.2235,,1.3647,0.1755,0.1234,0.0057,True,True,False,T.J. McConnell,0.3944,0.3497
+401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,12.5,draftkings,2300.0,24.0,0.1414,7.07,0.0389,0.0389,0.1024,,2.3927,0.0525,0.259,0.0028,False,False,False,,,
+401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,11.5,draftkings,1500.0,16.0,0.2024,4.94,0.0584,0.0584,0.144,,2.2387,0.0774,0.2387,0.004,False,True,False,T.J. McConnell,0.2201,0.1777
+401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,10.5,draftkings,900.0,10.0,0.2806,3.56,0.0935,0.0935,0.1871,,1.8059,0.1182,0.1816,0.005,True,False,False,T.J. McConnell,0.3057,0.2537
+401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,1540.0,16.4,0.1502,6.66,0.057,0.057,0.0932,,1.4632,0.0693,0.1364,0.0022,False,False,False,Scottie Barnes,0.0,0.1665
+401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,9.5,draftkings,519.0,6.19,0.3759,2.66,0.151,0.151,0.225,,1.3271,0.1807,0.1184,0.0057,True,True,False,T.J. McConnell,0.4079,0.3462
+401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,930.0,10.3,0.224,4.46,0.0907,0.0907,0.1333,,1.3074,0.1083,0.1158,0.0031,False,True,False,Scottie Barnes,0.0,0.2436
 401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,11.5,draftkings,2300.0,24.0,0.0946,10.58,0.0389,0.0389,0.0556,,1.2693,0.0463,0.1108,0.0012,False,True,False,Scottie Barnes,0.0,0.1063
-401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,910.0,10.1,0.224,4.46,0.0925,0.0925,0.1315,,1.2626,0.1099,0.1099,0.003,False,True,False,Scottie Barnes,0.0,0.2436
-401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,6.5,draftkings,1140.0,12.4,0.1698,5.89,0.0754,0.0754,0.0945,,1.106,0.0878,0.0892,0.002,False,False,False,,,
-401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,7.5,draftkings,2100.0,22.0,0.0938,10.66,0.0425,0.0425,0.0513,,1.0637,0.0493,0.0836,0.001,False,True,False,,,
+401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,7.5,draftkings,2200.0,23.0,0.0954,10.48,0.0406,0.0406,0.0548,,1.1952,0.0479,0.101,0.0011,False,True,False,,,
+401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,6.5,draftkings,1180.0,12.8,0.1684,5.94,0.073,0.073,0.0954,,1.1561,0.0856,0.0958,0.002,False,False,False,,,
+401909955,MEM @ TOR,prop_ast,over,Collin Murray-Boyles,1642867.0,2.5,draftkings,143.0,2.43,0.4498,2.22,0.3846,0.4428,0.007,-17.53,0.0929,0.4437,0.0783,0.0137,False,False,True,Collin Murray-Boyles,0.0,0.613
 401909957,DEN @ HOU,prop_pa,over,Christian Braun,1631128.0,24.5,draftkings,1000.0,11.0,0.1835,5.45,0.085,0.085,0.0985,,1.0184,0.098,0.0776,0.0019,False,True,False,Christian Braun,0.0,0.2968
+401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,8.5,draftkings,535.0,6.35,0.3168,3.16,0.1472,0.1472,0.1696,,1.0114,0.1696,0.0767,0.0036,True,False,False,Scottie Barnes,0.0,0.343
+401909955,MEM @ TOR,prop_ast,over,Collin Murray-Boyles,1642867.0,2.5,draftkings,142.0,2.42,0.4498,2.22,0.501,0.4428,0.007,-17.53,0.0884,0.4437,0.0738,0.013,False,False,True,Collin Murray-Boyles,0.0,0.613
 401909957,DEN @ HOU,prop_pra,over,Christian Braun,1631128.0,29.5,draftkings,990.0,10.9,0.1822,5.49,0.0857,0.0857,0.0965,,0.9861,0.0985,0.0734,0.0019,False,True,False,Christian Braun,0.0,0.2947
-401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,8.5,draftkings,527.0,6.27,0.3168,3.16,0.1491,0.1491,0.1677,,0.9861,0.1712,0.0734,0.0035,True,False,False,Scottie Barnes,0.0,0.343
 401909952,LAL @ ATL,moneyline,LAL,,,,draftkings,106.0,2.06,0.4105,2.44,0.4663,0.5199,-0.1094,4.1,-0.1543,0.5199,0.0711,0.0168,False,True,True,Austin Reaves,0.427,0.4847
-401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,8.5,draftkings,310.0,4.1,0.4775,2.09,0.2279,0.2279,0.2496,,0.9578,0.2609,0.0696,0.0056,True,False,False,T.J. McConnell,0.5034,0.4563
-401909954,WAS @ DET,moneyline,WAS,,,,tabtouch,430.0,5.3,0.2948,3.39,0.1796,0.2017,0.0931,5.07,0.5624,0.2017,0.0689,0.004,False,True,True,,,
-401909954,WAS @ DET,moneyline,WAS,,,,unibet,430.0,5.3,0.2948,3.39,0.1796,0.2017,0.0931,5.07,0.5624,0.2017,0.0689,0.004,False,True,True,,,
-401909956,IND @ DAL,prop_pa,over,Pascal Siakam,1627783.0,39.5,draftkings,1360.0,14.6,0.1315,7.6,0.064,0.064,0.0675,,0.92,0.0729,0.0646,0.0012,False,True,False,,,
-401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,5.5,draftkings,566.0,6.66,0.281,3.56,0.1403,0.1403,0.1407,,0.8715,0.1589,0.0583,0.0026,False,True,False,T.J. McConnell,0.3059,0.2572
+401909954,WAS @ DET,moneyline,WAS,,,,tabtouch,430.0,5.3,0.282,3.55,0.1796,0.2017,0.0803,5.07,0.4944,0.2017,0.0689,0.004,False,True,True,,,
+401909954,WAS @ DET,moneyline,WAS,,,,unibet,430.0,5.3,0.282,3.55,0.1796,0.2017,0.0803,5.07,0.4944,0.2017,0.0689,0.004,False,True,True,,,
+401909956,IND @ DAL,prop_pa,over,Pascal Siakam,1627783.0,39.5,draftkings,1460.0,15.6,0.1249,8.01,0.0599,0.0599,0.065,,0.9486,0.0685,0.0684,0.0012,False,True,False,,,
+401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,8.5,draftkings,300.0,4.0,0.4819,2.07,0.2336,0.2336,0.2483,,0.9278,0.2664,0.0657,0.0055,True,False,False,T.J. McConnell,0.5169,0.4528
+401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,5.5,draftkings,576.0,6.76,0.2816,3.55,0.1383,0.1383,0.1434,,0.9038,0.1572,0.0625,0.0027,False,True,False,,,
 401909953,CLE @ CHA,prop_pts,over,Donovan Mitchell,1628378.0,39.5,draftkings,1760.0,18.6,0.0995,10.05,0.0502,0.0502,0.0492,,0.8502,0.0567,0.0554,0.0008,False,True,False,,,
-401909954,WAS @ DET,prop_blk,over,Alex Sarr,1642259.0,3.5,draftkings,1200.0,13.0,0.1389,7.2,0.0719,0.0719,0.067,,0.8062,0.0807,0.0496,0.001,False,True,False,,,
-401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,8.5,draftkings,1820.0,19.2,0.0932,10.73,0.0487,0.0487,0.0445,,0.7886,0.0545,0.0473,0.0006,False,False,False,,,
+401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,17.5,draftkings,1300.0,14.0,0.1294,7.73,0.0668,0.0668,0.0626,,0.8113,0.075,0.0503,0.001,False,True,False,,,
+401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,8.5,draftkings,1760.0,18.6,0.0974,10.27,0.0502,0.0502,0.0471,,0.8111,0.0565,0.0503,0.0007,False,False,False,,,
+401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,16.5,draftkings,910.0,10.1,0.179,5.59,0.0925,0.0925,0.0865,,0.8084,0.104,0.0499,0.0014,False,False,False,Austin Reaves,0.1991,0.1576
+401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,7.5,draftkings,314.0,4.14,0.4339,2.3,0.2257,0.2257,0.2082,,0.7965,0.2532,0.0484,0.0039,True,True,False,Scottie Barnes,0.0,0.46
 401909957,DEN @ HOU,prop_pra,over,Christian Braun,1631128.0,34.5,draftkings,2100.0,22.0,0.0809,12.36,0.0425,0.0425,0.0384,,0.7803,0.0476,0.0462,0.0006,False,True,False,Christian Braun,0.0,0.1448
 401909957,DEN @ HOU,prop_pr,over,Christian Braun,1631128.0,24.5,draftkings,670.0,7.7,0.2304,4.34,0.1214,0.1214,0.109,,0.7741,0.1358,0.0454,0.0017,False,True,False,Christian Braun,0.0,0.3366
-401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,7.5,draftkings,1040.0,11.4,0.1556,6.43,0.082,0.082,0.0736,,0.774,0.0917,0.0454,0.0011,False,True,False,,,
 401909957,DEN @ HOU,prop_pa,over,Kevin Durant,201142.0,39.5,draftkings,1440.0,15.4,0.1149,8.7,0.0607,0.0607,0.0542,,0.7693,0.0678,0.0448,0.0008,False,True,False,,,
+401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,18.5,draftkings,1820.0,19.2,0.092,10.87,0.0487,0.0487,0.0433,,0.7667,0.0544,0.0444,0.0006,False,False,False,,,
 401909957,DEN @ HOU,prop_pts,over,Christian Braun,1631128.0,24.5,draftkings,1820.0,19.2,0.0919,10.88,0.0487,0.0487,0.0432,,0.765,0.0544,0.0442,0.0006,False,True,False,Christian Braun,0.0,0.1577
-401909956,IND @ DAL,prop_pa,over,Pascal Siakam,1627783.0,44.5,draftkings,2500.0,26.0,0.0678,14.74,0.0359,0.0359,0.0319,,0.7633,0.0402,0.044,0.0004,False,True,False,,,
 401909957,DEN @ HOU,prop_pra,over,Christian Braun,1631128.0,24.5,draftkings,373.0,4.73,0.3719,2.69,0.1976,0.1976,0.1743,,0.759,0.2206,0.0434,0.0029,True,True,False,Christian Braun,0.0,0.5142
 401909957,DEN @ HOU,prop_pa,over,Christian Braun,1631128.0,29.5,draftkings,2200.0,23.0,0.0764,13.09,0.0406,0.0406,0.0357,,0.7567,0.0454,0.0431,0.0005,False,True,False,Christian Braun,0.0,0.1386
-401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,7.5,draftkings,304.0,4.04,0.4339,2.3,0.2313,0.2313,0.2026,,0.7532,0.2581,0.0426,0.0035,True,True,False,Scottie Barnes,0.0,0.46
 401909958,SAS @ PHX,moneyline,PHX,,,,betfair_ex_au,313.5,4.14,0.292,3.43,0.2357,0.252,0.04,2.59,0.2072,0.252,0.042,0.0033,False,True,True,,,
+401909956,IND @ DAL,prop_pa,over,Pascal Siakam,1627783.0,44.5,draftkings,2600.0,27.0,0.0644,15.53,0.0346,0.0346,0.0298,,0.7389,0.0385,0.0407,0.0004,False,True,False,,,
+401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,7.5,draftkings,990.0,10.9,0.1593,6.28,0.0857,0.0857,0.0735,,0.7359,0.0954,0.0404,0.001,False,True,False,,,
 401909957,DEN @ HOU,prop_ast,over,Christian Braun,1631128.0,4.5,draftkings,690.0,7.9,0.2198,4.55,0.1183,0.1183,0.1015,,0.7362,0.1317,0.0404,0.0015,False,False,False,Christian Braun,0.0,0.3133
 401909957,DEN @ HOU,prop_ast,over,Christian Braun,1631128.0,5.5,draftkings,1380.0,14.8,0.1167,8.57,0.0631,0.0631,0.0536,,0.7279,0.0702,0.0393,0.0007,False,True,False,Christian Braun,0.0,0.1773
-401909956,IND @ DAL,prop_pts,over,Pascal Siakam,1627783.0,39.5,draftkings,2500.0,26.0,0.0661,15.13,0.0359,0.0359,0.0301,,0.7179,0.0399,0.038,0.0004,False,True,False,,,
-401909956,IND @ DAL,prop_pts,over,Pascal Siakam,1627783.0,34.5,draftkings,1200.0,13.0,0.1318,7.59,0.0719,0.0719,0.0599,,0.7133,0.0798,0.0374,0.0008,False,True,False,,,
+401909956,IND @ DAL,prop_pts,over,Pascal Siakam,1627783.0,34.5,draftkings,1280.0,13.8,0.1244,8.04,0.0677,0.0677,0.0567,,0.7174,0.0752,0.0379,0.0007,False,True,False,,,
 401909957,DEN @ HOU,prop_pts,over,Christian Braun,1631128.0,19.5,draftkings,640.0,7.4,0.2302,4.34,0.1263,0.1263,0.1039,,0.7037,0.14,0.0361,0.0014,False,True,False,Christian Braun,0.0,0.3426
 401909957,DEN @ HOU,prop_pts,over,Kevin Durant,201142.0,34.5,draftkings,1420.0,15.2,0.1115,8.97,0.0615,0.0615,0.05,,0.6953,0.0681,0.035,0.0006,False,True,False,,,
-401909954,WAS @ DET,prop_blk,over,Alex Sarr,1642259.0,2.5,draftkings,466.0,5.66,0.2994,3.34,0.1651,0.1651,0.1343,,0.6946,0.1828,0.0349,0.0019,False,True,False,Anthony Davis,0.3181,0.277
-401909956,IND @ DAL,prop_pa,over,Pascal Siakam,1627783.0,34.5,draftkings,610.0,7.1,0.2378,4.21,0.1316,0.1316,0.1061,,0.6882,0.1456,0.0341,0.0014,False,True,False,,,
-401909954,WAS @ DET,prop_blk,over,Anthony Davis,203076.0,3.5,draftkings,1160.0,12.6,0.1338,7.47,0.0742,0.0742,0.0596,,0.6861,0.082,0.0338,0.0007,False,True,False,Anthony Davis,0.0,0.1357
+401909954,WAS @ DET,prop_blk,over,Alex Sarr,1642259.0,3.5,draftkings,1060.0,11.6,0.1457,6.86,0.0806,0.0806,0.0652,,0.6907,0.0892,0.0344,0.0008,False,True,False,,,
+401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,15.5,draftkings,620.0,7.2,0.2338,4.28,0.1298,0.1298,0.104,,0.6837,0.1435,0.0335,0.0013,False,True,False,Austin Reaves,0.2607,0.2076
+401909956,IND @ DAL,prop_pa,over,Pascal Siakam,1627783.0,34.5,draftkings,620.0,7.2,0.2327,4.3,0.1298,0.1298,0.1029,,0.6757,0.1434,0.0324,0.0013,False,True,False,,,
 401909957,DEN @ HOU,prop_pr,over,Christian Braun,1631128.0,29.5,draftkings,1640.0,17.4,0.0955,10.47,0.0537,0.0537,0.0418,,0.6612,0.0592,0.0305,0.0005,False,True,False,Christian Braun,0.0,0.1635
 401909957,DEN @ HOU,prop_pa,over,Christian Braun,1631128.0,19.5,draftkings,327.0,4.27,0.386,2.59,0.2189,0.2189,0.1671,,0.6481,0.2409,0.0288,0.0022,True,True,False,Christian Braun,0.0,0.5354
+401909954,WAS @ DET,prop_blk,over,Anthony Davis,203076.0,3.5,draftkings,1080.0,11.8,0.1395,7.17,0.0792,0.0792,0.0603,,0.6459,0.0872,0.0285,0.0007,False,True,False,Anthony Davis,0.0,0.1368
 401909953,CLE @ CHA,moneyline,CHA,,,,betfair_ex_au,304.0,4.04,0.3051,3.28,0.2399,0.2545,0.0506,3.16,0.2328,0.2545,0.0282,0.0023,False,True,True,Moussa Diabate,0.2952,0.3511
-401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,7.5,draftkings,176.0,2.76,0.5945,1.68,0.3386,0.3386,0.2558,,0.6407,0.3724,0.0278,0.0039,True,True,False,T.J. McConnell,0.6175,0.5728
-401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,6.5,draftkings,553.0,6.53,0.2502,4.0,0.1431,0.1431,0.1071,,0.6338,0.1573,0.0269,0.0012,False,False,False,,,
-401909954,WAS @ DET,prop_pts,over,Kevin Huerter,1628989.0,17.5,draftkings,1280.0,13.8,0.1184,8.44,0.0677,0.0677,0.0507,,0.6341,0.0744,0.0269,0.0005,False,False,False,,,
-401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,4.5,draftkings,850.0,9.5,0.1717,5.82,0.0984,0.0984,0.0733,,0.631,0.1081,0.0265,0.0008,False,False,False,,,
 401909957,DEN @ HOU,prop_ast,over,Nikola Jokic,203999.0,14.5,draftkings,1120.0,12.2,0.1336,7.49,0.0766,0.0766,0.057,,0.6296,0.0841,0.0263,0.0006,False,False,False,Nikola Jokic,0.0,0.1358
-401909954,WAS @ DET,prop_pts,over,Kevin Huerter,1628989.0,14.5,draftkings,610.0,7.1,0.2286,4.38,0.1316,0.1316,0.0969,,0.6227,0.1444,0.0254,0.001,False,True,False,,,
 401909959,NOP @ GSW,moneyline,NOP,,,,tab,320.0,4.2,0.2639,3.79,0.2279,0.2441,0.0197,4.47,0.1082,0.2441,0.0254,0.002,False,True,True,,,
+401909956,IND @ DAL,prop_ast,over,Andrew Nembhard,1629614.0,7.5,draftkings,172.0,2.72,0.5959,1.68,0.3436,0.3436,0.2523,,0.6209,0.3769,0.0252,0.0037,True,True,False,T.J. McConnell,0.6276,0.5722
 401909957,DEN @ HOU,prop_ast,over,Nikola Jokic,203999.0,15.5,draftkings,1620.0,17.2,0.0941,10.63,0.0543,0.0543,0.0398,,0.6187,0.0596,0.0249,0.0004,False,True,False,Nikola Jokic,0.0,0.0952
 401909957,DEN @ HOU,prop_pts,over,Christian Braun,1631128.0,17.5,draftkings,403.0,5.03,0.3211,3.11,0.1858,0.1858,0.1353,,0.6149,0.2037,0.0244,0.0015,False,False,False,Christian Braun,0.0,0.4452
-401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,16.5,draftkings,800.0,9.0,0.179,5.59,0.1038,0.1038,0.0752,,0.6114,0.1138,0.0239,0.0007,False,False,False,Austin Reaves,0.1991,0.1576
-401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,17.5,draftkings,1140.0,12.4,0.1294,7.73,0.0754,0.0754,0.054,,0.6043,0.0825,0.023,0.0005,False,True,False,,,
+401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,4.5,draftkings,272.0,3.72,0.4325,2.31,0.2512,0.2512,0.1813,,0.609,0.2752,0.0236,0.0022,True,False,False,T.J. McConnell,0.4575,0.4117
+401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,6.5,draftkings,546.0,6.46,0.2481,4.03,0.1447,0.1447,0.1034,,0.6028,0.1583,0.0228,0.001,False,False,False,,,
+401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,19.5,draftkings,2400.0,25.0,0.0639,15.65,0.0374,0.0374,0.0265,,0.5975,0.0409,0.0221,0.0002,False,True,False,,,
 401909957,DEN @ HOU,prop_stl,over,Amen Thompson,1641708.0,2.5,draftkings,650.0,7.5,0.213,4.7,0.1246,0.1246,0.0883,,0.5972,0.1363,0.022,0.0008,False,True,False,,,
-401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,5.5,draftkings,1800.0,19.0,0.084,11.91,0.0492,0.0492,0.0348,,0.5958,0.0538,0.0219,0.0003,False,True,False,,,
-401909954,WAS @ DET,prop_blk,over,Anthony Davis,203076.0,2.5,draftkings,434.0,5.34,0.2986,3.35,0.175,0.175,0.1236,,0.5947,0.1913,0.0217,0.0013,False,True,False,Anthony Davis,0.0,0.2987
+401909958,SAS @ PHX,prop_fg3m,under,Julian Champagnie,1630577.0,2.5,draftkings,102.0,2.02,0.7902,1.27,0.4627,0.4627,0.3275,,0.5962,0.5059,0.0219,0.0054,True,True,True,Devin Vassell,0.7635,0.8165
+401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,5.5,draftkings,1740.0,18.4,0.0865,11.56,0.0508,0.0508,0.0357,,0.5917,0.0555,0.0213,0.0003,False,True,False,,,
 401909957,DEN @ HOU,prop_reb,over,Tari Eason,1631106.0,9.5,draftkings,970.0,10.7,0.1483,6.74,0.0873,0.0873,0.061,,0.5869,0.0954,0.0207,0.0005,False,True,False,,,
-401909955,MEM @ TOR,prop_pa,over,Scottie Barnes,1630567.0,49.5,draftkings,2600.0,27.0,0.0585,17.11,0.0346,0.0346,0.0238,,0.5784,0.0378,0.0196,0.0002,False,True,False,Scottie Barnes,0.0,0.0899
-401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,15.5,draftkings,571.0,6.71,0.2338,4.28,0.1393,0.1393,0.0946,,0.5691,0.1518,0.0183,0.0008,False,True,False,Austin Reaves,0.2607,0.2076
-401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,18.5,draftkings,1600.0,17.0,0.092,10.87,0.055,0.055,0.037,,0.5642,0.0599,0.0177,0.0003,False,False,False,,,
+401909954,WAS @ DET,prop_blk,over,Alex Sarr,1642259.0,2.5,draftkings,411.0,5.11,0.3082,3.24,0.1829,0.1829,0.1253,,0.5751,0.1994,0.0191,0.0012,False,True,False,,,
+401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,4.5,draftkings,800.0,9.0,0.1749,5.72,0.1038,0.1038,0.0711,,0.574,0.1132,0.019,0.0006,False,False,False,,,
+401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,14.5,draftkings,427.0,5.27,0.2988,3.35,0.1773,0.1773,0.1214,,0.5745,0.1934,0.019,0.0011,False,False,False,Austin Reaves,0.3311,0.2705
+401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,9.5,draftkings,2700.0,28.0,0.0562,17.78,0.0334,0.0334,0.0229,,0.5744,0.0364,0.019,0.0002,False,True,False,,,
 401909957,DEN @ HOU,prop_ast,over,Christian Braun,1631128.0,3.5,draftkings,310.0,4.1,0.3809,2.63,0.2279,0.2279,0.1529,,0.5616,0.2481,0.0174,0.0014,True,True,False,Christian Braun,0.0,0.4886
-401909956,IND @ DAL,prop_pr,over,Pascal Siakam,1627783.0,44.5,draftkings,1500.0,16.0,0.0974,10.26,0.0584,0.0584,0.039,,0.5587,0.0636,0.017,0.0003,False,True,False,,,
+401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,6.5,draftkings,173.0,2.73,0.5704,1.75,0.3423,0.3423,0.2281,,0.5572,0.3724,0.0168,0.0024,True,False,False,Scottie Barnes,0.0,0.5876
 401909953,CLE @ CHA,prop_pts,over,Donovan Mitchell,1628378.0,34.5,draftkings,740.0,8.4,0.1854,5.39,0.1113,0.1113,0.0741,,0.5571,0.121,0.0167,0.0006,False,True,False,,,
+401909954,WAS @ DET,prop_blk,over,Anthony Davis,203076.0,2.5,draftkings,413.0,5.13,0.3032,3.3,0.1822,0.1822,0.1211,,0.5556,0.1982,0.0166,0.001,False,True,False,Anthony Davis,0.0,0.3014
 401909957,DEN @ HOU,prop_pa,over,Kevin Durant,201142.0,34.5,draftkings,600.0,7.0,0.2212,4.52,0.1335,0.1335,0.0877,,0.5483,0.1451,0.0156,0.0006,False,True,False,,,
-401909956,IND @ DAL,prop_ast,over,Pascal Siakam,1627783.0,4.5,draftkings,262.0,3.62,0.4274,2.34,0.2582,0.2582,0.1693,,0.5473,0.2805,0.0155,0.0015,True,False,False,T.J. McConnell,0.457,0.407
 401909957,DEN @ HOU,prop_reb,over,Tari Eason,1631106.0,8.5,draftkings,582.0,6.82,0.2266,4.41,0.137,0.137,0.0896,,0.5455,0.1489,0.0152,0.0007,False,False,False,,,
 401909957,DEN @ HOU,prop_reb,over,Tari Eason,1631106.0,10.5,draftkings,1520.0,16.2,0.0954,10.49,0.0577,0.0577,0.0377,,0.5449,0.0627,0.0151,0.0002,False,False,False,,,
 401909957,DEN @ HOU,prop_reb,over,Kevin Durant,201142.0,9.5,draftkings,1160.0,12.6,0.1224,8.17,0.0742,0.0742,0.0482,,0.5425,0.0805,0.0148,0.0003,False,True,False,,,
-401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,9.5,draftkings,2800.0,29.0,0.0532,18.81,0.0322,0.0322,0.0209,,0.5418,0.035,0.0147,0.0001,False,True,False,,,
 401909957,DEN @ HOU,prop_ast,over,Nikola Jokic,203999.0,13.5,draftkings,730.0,8.3,0.1858,5.38,0.1126,0.1126,0.0732,,0.5418,0.1223,0.0147,0.0005,False,True,False,Nikola Jokic,0.0,0.1905
+401909956,IND @ DAL,prop_pts,over,Pascal Siakam,1627783.0,39.5,draftkings,2500.0,26.0,0.0592,16.88,0.0359,0.0359,0.0233,,0.54,0.039,0.0145,0.0001,False,True,False,,,
 401909957,DEN @ HOU,prop_pts,over,Kevin Durant,201142.0,39.5,draftkings,2900.0,30.0,0.0513,19.49,0.0312,0.0312,0.0202,,0.5395,0.0338,0.0144,0.0001,False,True,False,,,
 401909957,DEN @ HOU,prop_reb,over,Kevin Durant,201142.0,8.5,draftkings,670.0,7.7,0.1993,5.02,0.1214,0.1214,0.0779,,0.5348,0.1317,0.0138,0.0005,False,False,False,,,
-401909959,NOP @ GSW,moneyline,NOP,,,,betr_au,315.0,4.15,0.2639,3.79,0.2315,0.2441,0.0197,4.1,0.095,0.2441,0.0132,0.001,False,True,True,,,
 401909959,NOP @ GSW,moneyline,NOP,,,,sportsbet,315.0,4.15,0.2639,3.79,0.2315,0.2441,0.0197,4.1,0.095,0.2441,0.0132,0.001,False,True,True,,,
+401909959,NOP @ GSW,moneyline,NOP,,,,betr_au,315.0,4.15,0.2639,3.79,0.2315,0.2441,0.0197,4.1,0.095,0.2441,0.0132,0.001,False,True,True,,,
 401909957,DEN @ HOU,prop_ast,over,Nikola Jokic,203999.0,16.5,draftkings,2300.0,24.0,0.0637,15.69,0.0389,0.0389,0.0248,,0.5297,0.0422,0.0131,0.0001,False,False,False,Nikola Jokic,0.0,0.0649
-401909955,MEM @ TOR,prop_ast,over,Scottie Barnes,1630567.0,6.5,draftkings,167.0,2.67,0.5704,1.75,0.35,0.35,0.2204,,0.523,0.3791,0.0123,0.0018,True,False,False,Scottie Barnes,0.0,0.5876
 401909957,DEN @ HOU,prop_pr,over,Christian Braun,1631128.0,19.5,draftkings,232.0,3.32,0.4586,2.18,0.2815,0.2815,0.1771,,0.5226,0.3049,0.0122,0.0013,True,True,False,Christian Braun,0.0,0.5854
-401909954,WAS @ DET,prop_pts,over,Kevin Huerter,1628989.0,19.5,draftkings,2000.0,21.0,0.0724,13.81,0.0445,0.0445,0.0279,,0.5207,0.0482,0.012,0.0001,False,True,False,,,
+401909955,MEM @ TOR,prop_blk,over,Jakob Poeltl,1627751.0,2.5,draftkings,1060.0,11.6,0.1298,7.7,0.0806,0.0806,0.0493,,0.506,0.0871,0.01,0.0002,False,True,False,Scottie Barnes,0.1746,0.1303
 401909959,NOP @ GSW,moneyline,NOP,,,,betfair_ex_au,313.5,4.14,0.2639,3.79,0.2357,0.2441,0.0197,2.59,0.091,0.2441,0.0096,0.0008,False,True,True,,,
-401909954,WAS @ DET,prop_pts,over,Kevin Huerter,1628989.0,11.5,draftkings,270.0,3.7,0.4051,2.47,0.2526,0.2526,0.1525,,0.4989,0.2727,0.0091,0.0008,True,False,False,,,
-401909954,WAS @ DET,prop_pa,over,Daniss Jenkins,1642450.0,24.5,draftkings,870.0,9.7,0.1543,6.48,0.0963,0.0963,0.0579,,0.4966,0.104,0.0088,0.0003,False,True,False,,,
-401909956,IND @ DAL,prop_pr,over,Pascal Siakam,1627783.0,39.5,draftkings,720.0,8.2,0.1814,5.51,0.114,0.114,0.0675,,0.4878,0.1229,0.0076,0.0003,False,True,False,,,
+401909954,WAS @ DET,prop_reb,over,Anthony Davis,203076.0,16.5,draftkings,1580.0,16.8,0.0893,11.2,0.0556,0.0556,0.0337,,0.5001,0.0601,0.0092,0.0001,False,False,False,Anthony Davis,0.0,0.0938
+401909954,WAS @ DET,prop_reb,over,Anthony Davis,203076.0,15.5,draftkings,1080.0,11.8,0.127,7.87,0.0792,0.0792,0.0478,,0.4989,0.0855,0.0091,0.0002,False,True,False,Anthony Davis,0.0,0.1338
+401909954,WAS @ DET,prop_pts,over,Kevin Huerter,1628989.0,14.5,draftkings,592.0,6.92,0.2155,4.64,0.1351,0.1351,0.0804,,0.4913,0.1457,0.0081,0.0003,False,True,False,,,
 401909957,DEN @ HOU,prop_stl,over,Amen Thompson,1641708.0,3.5,draftkings,1700.0,18.0,0.0825,12.13,0.0519,0.0519,0.0305,,0.4845,0.056,0.0072,0.0001,False,True,False,,,
 401909955,MEM @ TOR,prop_ra,under,Cam Spencer,1642285.0,7.5,draftkings,110.0,2.1,0.6998,1.43,0.4459,0.4459,0.2539,6.8,0.4696,0.4794,0.0067,0.0015,True,True,True,,,
-401909955,MEM @ TOR,prop_blk,over,Jakob Poeltl,1627751.0,2.5,draftkings,1040.0,11.4,0.1298,7.7,0.082,0.082,0.0478,,0.48,0.0883,0.0066,0.0002,False,True,False,Scottie Barnes,0.1746,0.1303
-401909954,WAS @ DET,moneyline,WAS,,,,betfair_ex_au,399.0,4.99,0.2948,3.39,0.195,0.2017,0.0931,2.77,0.4711,0.2017,0.0064,0.0004,False,True,True,,,
-401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,14.5,draftkings,395.0,4.95,0.2988,3.35,0.1888,0.1888,0.11,,0.4789,0.2033,0.0064,0.0004,False,False,False,Austin Reaves,0.3311,0.2705
-401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,3.5,draftkings,359.0,4.59,0.3218,3.11,0.2036,0.2036,0.1182,,0.477,0.2192,0.0062,0.0004,False,True,False,,,
-401909956,IND @ DAL,prop_ast,over,Aaron Nesmith,1630174.0,3.5,draftkings,830.0,9.3,0.1586,6.31,0.1005,0.1005,0.0581,,0.4749,0.1082,0.0059,0.0002,False,True,False,,,
-401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,19.5,draftkings,2200.0,23.0,0.0639,15.65,0.0406,0.0406,0.0233,,0.4697,0.0437,0.0052,0.0001,False,True,False,,,
-401909954,WAS @ DET,prop_ast,over,Daniss Jenkins,1642450.0,5.5,draftkings,288.0,3.88,0.3761,2.66,0.2409,0.2409,0.1353,,0.4595,0.2587,0.0039,0.0003,False,True,False,,,
+401909954,WAS @ DET,moneyline,WAS,,,,betfair_ex_au,399.0,4.99,0.282,3.55,0.195,0.2017,0.0803,2.77,0.407,0.2017,0.0064,0.0004,False,True,True,,,
+401909952,LAL @ ATL,prop_reb,over,Walker Kessler,1631117.0,13.5,draftkings,290.0,3.9,0.378,2.65,0.2396,0.2396,0.1383,,0.4741,0.2579,0.0058,0.0005,False,True,False,Austin Reaves,0.4092,0.3436
+401909956,IND @ DAL,prop_ast,over,Aaron Nesmith,1630174.0,3.5,draftkings,820.0,9.2,0.1598,6.26,0.1016,0.1016,0.0582,,0.4697,0.1093,0.0052,0.0002,False,True,False,,,
+401909954,WAS @ DET,prop_pts,over,Kevin Huerter,1628989.0,17.5,draftkings,1260.0,13.6,0.1079,9.27,0.0687,0.0687,0.0391,,0.4668,0.0739,0.0048,0.0001,False,False,False,,,
 401909957,DEN @ HOU,prop_ast,over,Cameron Johnson,1629661.0,4.5,draftkings,690.0,7.9,0.1848,5.41,0.1183,0.1183,0.0665,,0.4596,0.1271,0.0039,0.0001,False,False,False,Cameron Johnson,0.0,0.2407
-401909958,SAS @ PHX,prop_ast,over,Jalen Green,1630224.0,5.5,draftkings,920.0,10.2,0.143,6.99,0.0916,0.0916,0.0514,,0.4589,0.0984,0.0038,0.0001,False,True,False,,,
 401909957,DEN @ HOU,prop_reb,over,Aaron Gordon,203932.0,8.5,draftkings,790.0,8.9,0.1635,6.11,0.105,0.105,0.0585,,0.4555,0.1127,0.0033,0.0001,False,False,False,,,
 401909957,DEN @ HOU,prop_pts,over,Christian Braun,1631128.0,14.5,draftkings,198.0,2.98,0.4865,2.06,0.3136,0.3136,0.1729,,0.4499,0.3364,0.0026,0.0003,True,True,False,Christian Braun,0.0,0.6147
 401909957,DEN @ HOU,prop_reb,over,Nikola Jokic,203999.0,16.5,draftkings,850.0,9.5,0.1524,6.56,0.0984,0.0984,0.054,,0.4477,0.1055,0.0023,0.0001,False,False,False,Nikola Jokic,0.0,0.1737
 401909957,DEN @ HOU,prop_pa,over,Nikola Jokic,203999.0,54.5,draftkings,1580.0,16.8,0.086,11.63,0.0556,0.0556,0.0304,,0.4451,0.0596,0.002,0.0,False,True,False,Nikola Jokic,0.0,0.1032
 401909957,DEN @ HOU,prop_stl,over,Marcus Smart,203935.0,2.5,draftkings,910.0,10.1,0.1431,6.99,0.0925,0.0925,0.0506,,0.4456,0.0992,0.002,0.0001,False,True,False,,,
+401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,3.5,draftkings,348.0,4.48,0.3222,3.1,0.2086,0.2086,0.1136,,0.4435,0.2236,0.0018,0.0001,False,True,False,,,
 401909957,DEN @ HOU,prop_ast,over,Christian Braun,1631128.0,6.5,draftkings,2400.0,25.0,0.0577,17.32,0.0374,0.0374,0.0204,,0.4434,0.0401,0.0017,0.0,False,False,False,Christian Braun,0.0,0.0934
 401909957,DEN @ HOU,prop_pra,over,Christian Braun,1631128.0,19.5,draftkings,129.0,2.29,0.6278,1.59,0.4081,0.4081,0.2197,,0.4378,0.4371,0.001,0.0002,True,True,False,Christian Braun,0.0,0.757
 401909957,DEN @ HOU,prop_reb,over,Kevin Durant,201142.0,10.5,draftkings,1880.0,19.8,0.0725,13.79,0.0472,0.0472,0.0253,,0.436,0.0505,0.0008,0.0,False,False,False,,,
