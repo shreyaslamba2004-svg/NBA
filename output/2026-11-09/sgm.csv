@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ ATL,LAL win + Walker Kessler 8+ reb,2,0.3621,0.4201,2.38,2.5,2.37,-0.0033,1.003,2.10-2.50
-LAL @ ATL,LAL win + Jake LaRavia 5+ pr,2,0.3868,0.4535,2.21,2.32,2.2,-0.0035,1.004,2.10-2.50
-LAL @ ATL,LAL win + Sandro Mamukelashvili 5+ pr,2,0.3945,0.474,2.11,2.22,2.09,-0.0106,1.001,1.85-2.10
-LAL @ ATL,LAL win + Dyson Daniels 4+ reb,2,0.3545,0.4249,2.35,2.47,2.32,-0.0136,0.998,2.10-2.50
-LAL @ ATL,LAL win + Onyeka Okongwu 10+ pr,2,0.392,0.4696,2.13,2.24,2.09,-0.0208,0.99,1.85-2.10
+LAL @ ATL,ATL +1.5 + CJ McCollum 10+ pr,2,0.5342,0.3993,2.5,2.63,2.39,-0.0461,1.017,2.10-2.50
+LAL @ ATL,ATL +1.5 + CJ McCollum 1+ 3pm,2,0.517,0.4021,2.49,2.61,2.34,-0.0587,1.01,2.10-2.50
+LAL @ ATL,ATL +1.5 + Dyson Daniels 10+ pr,2,0.5715,0.4471,2.24,2.35,2.1,-0.06,1.01,2.10-2.50
 LAL @ ATL,ATL +1.5 + Onyeka Okongwu 10+ pr,2,0.595,0.4649,2.15,2.26,2.02,-0.063,1.006,1.85-2.10
+LAL @ ATL,Walker Kessler pts under 14.5 + Dyson Daniels 10+ pr,2,0.6789,0.4801,2.08,2.19,1.94,-0.0693,1.002,1.85-2.10
+LAL @ ATL,Walker Kessler pts under 14.5 + Jake LaRavia 5+ pr,2,0.6873,0.4752,2.1,2.21,1.96,-0.0695,0.998,1.85-2.10
 LAL @ ATL,Walker Kessler 11+ reb + Onyeka Okongwu 10+ pr,2,0.6186,0.4976,2.01,2.11,1.83,-0.0881,1.0,1.65-1.85
 LAL @ ATL,Walker Kessler 11+ reb + Sandro Mamukelashvili 5+ pr,2,0.6153,0.4965,2.01,2.11,1.83,-0.0893,1.0,1.65-1.85
 LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Walker Kessler 8+ reb,2,0.6398,0.4949,2.02,2.12,1.84,-0.0903,0.998,1.65-1.85
@@ -23,28 +23,27 @@ CLE @ CHA,Royce O'Neale 3pm under 2.5 + Peyton Watson 10+ pra,2,0.7531,0.5375,1.
 CLE @ CHA,CLE win + Sion James 10+ pra,2,0.6215,0.579,1.73,1.81,1.58,-0.0865,0.988,1.50-1.65
 CLE @ CHA,CLE win + James Harden 1+ 3pm + Donovan Mitchell 15+ pts,3,0.5843,0.5613,1.78,1.87,1.56,-0.1244,1.019,1.50-1.65
 CLE @ CHA,CLE win + Sion James 10+ pra + Peyton Watson 10+ pra,3,0.5955,0.5311,1.88,1.98,1.63,-0.1343,0.995,1.50-1.65
+WAS @ DET,DET win + AJ Dybantsa pa under 19.5,2,0.4925,0.4527,2.21,2.32,2.16,-0.022,1.047,2.10-2.50
 WAS @ DET,AJ Dybantsa pts under 16.5 + DET win,2,0.4745,0.4326,2.31,2.43,2.26,-0.0223,1.045,2.10-2.50
-WAS @ DET,DET win + AJ Dybantsa pra under 24.5,2,0.4414,0.4264,2.35,2.46,2.27,-0.0324,1.046,2.10-2.50
-WAS @ DET,DET win + Daniss Jenkins 15+ pa,2,0.4639,0.4315,2.32,2.43,2.24,-0.0325,1.038,2.10-2.50
-WAS @ DET,DET win + Daniss Jenkins 4+ ast,2,0.5014,0.4653,2.15,2.26,2.05,-0.0442,1.024,1.85-2.10
-WAS @ DET,game over 218.5 + Kyshawn George 10+ pa,2,0.6361,0.453,2.21,2.32,2.06,-0.0653,1.011,1.85-2.10
-WAS @ DET,game over 218.5 + Duncan Robinson 10+ pra,2,0.6314,0.4589,2.18,2.29,2.03,-0.0667,1.013,1.85-2.10
-WAS @ DET,Kevin Huerter 8+ pts + Duncan Robinson 10+ pra,2,0.6616,0.5012,2.0,2.09,1.83,-0.0823,1.002,1.65-1.85
-WAS @ DET,Daniss Jenkins 4+ ast + Kyshawn George 10+ pa,2,0.6544,0.5081,1.97,2.07,1.8,-0.0875,1.0,1.65-1.85
-WAS @ DET,Daniss Jenkins 4+ ast + Duncan Robinson 10+ pra,2,0.6496,0.5147,1.94,2.04,1.77,-0.0889,1.002,1.65-1.85
-WAS @ DET,Kyshawn George 15+ pr + AJ Dybantsa 4+ reb,2,0.686,0.5689,1.76,1.85,1.59,-0.0928,1.008,1.50-1.65
-WAS @ DET,DET win + Kyshawn George 15+ pr,2,0.583,0.5903,1.69,1.78,1.53,-0.0977,0.983,1.50-1.65
-WAS @ DET,Kyshawn George 15+ pr + John Collins 4+ reb,2,0.6819,0.5881,1.7,1.79,1.52,-0.1039,1.002,1.50-1.65
+WAS @ DET,DET win + Daniss Jenkins 15+ pa,2,0.4639,0.433,2.31,2.43,2.23,-0.0331,1.038,2.10-2.50
+WAS @ DET,DET win + Daniss Jenkins 4+ ast,2,0.5014,0.4702,2.13,2.23,2.03,-0.0476,1.024,1.85-2.10
+WAS @ DET,game over 218.5 + Kyshawn George 10+ pa,2,0.6361,0.4512,2.22,2.33,2.07,-0.0647,1.011,1.85-2.10
+WAS @ DET,game over 218.5 + Kyshawn George 10+ pr,2,0.642,0.4524,2.21,2.32,2.07,-0.0648,1.01,1.85-2.10
+WAS @ DET,Daniss Jenkins 4+ ast + Kyshawn George 10+ pr,2,0.6622,0.5141,1.95,2.04,1.77,-0.0879,1.001,1.65-1.85
+WAS @ DET,Daniss Jenkins 4+ ast + Kyshawn George 10+ pa,2,0.6544,0.5114,1.96,2.05,1.78,-0.0901,1.0,1.65-1.85
+WAS @ DET,Kyshawn George 10+ pts + AJ Dybantsa 4+ reb,2,0.7061,0.5861,1.71,1.79,1.54,-0.0969,1.003,1.50-1.65
+WAS @ DET,DET win + Daniss Jenkins 10+ pa + AJ Dybantsa 4+ reb,3,0.5308,0.4795,2.09,2.19,1.85,-0.1145,1.013,1.65-1.85
+WAS @ DET,DET win + Daniss Jenkins 10+ pa + Alex Sarr 4+ reb,3,0.5642,0.5345,1.87,1.96,1.64,-0.1218,1.013,1.50-1.65
+WAS @ DET,DET win + Daniss Jenkins 10+ pa + Kyshawn George 1+ 3pm,3,0.5619,0.53,1.89,1.98,1.65,-0.1281,1.005,1.50-1.65
 MEM @ TOR,TOR win + Ja'Kobe Walter 10+ pa,2,0.509,0.4468,2.24,2.35,2.14,-0.0418,1.014,2.10-2.50
 MEM @ TOR,TOR -3.5 + Ja'Kobe Walter 10+ pa,2,0.4357,0.3806,2.63,2.76,2.46,-0.0622,1.016,2.10-2.50
 MEM @ TOR,Cameron Boozer pa under 21.5 + Ja'Kobe Walter 10+ pa,2,0.542,0.3914,2.55,2.68,2.36,-0.0754,1.0,2.10-2.50
 MEM @ TOR,Cam Spencer 3pm under 1.5 + Ja'Kobe Walter 10+ pa,2,0.6087,0.4629,2.16,2.27,1.97,-0.0862,0.999,1.85-2.10
-IND @ DAL,IND +3.5 + P.J. Washington 4+ reb,2,0.3947,0.4485,2.23,2.34,2.03,-0.0879,1.001,1.85-2.10
-IND @ DAL,game over 226.5 + P.J. Washington 4+ reb,2,0.5263,0.4365,2.29,2.41,2.09,-0.0896,1.013,1.85-2.10
-IND @ DAL,DAL win + P.J. Washington 4+ reb,2,0.5954,0.4918,2.03,2.14,1.85,-0.091,0.999,1.65-1.85
-IND @ DAL,DAL -3.5 + P.J. Washington 4+ reb,2,0.5143,0.4173,2.4,2.52,2.18,-0.0921,0.999,2.10-2.50
-IND @ DAL,Cooper Flagg ast under 6.5 + P.J. Washington 4+ reb,2,0.566,0.4575,2.19,2.3,1.97,-0.0978,0.997,1.85-2.10
-IND @ DAL,Cooper Flagg pts under 24.5 + P.J. Washington 4+ reb,2,0.5253,0.4272,2.34,2.46,2.1,-0.1011,0.995,2.10-2.50
+IND @ DAL,IND +3.5 + P.J. Washington 4+ reb,2,0.3947,0.4515,2.21,2.33,2.02,-0.0888,1.001,1.85-2.10
+IND @ DAL,game over 226.5 + P.J. Washington 4+ reb,2,0.5263,0.4394,2.28,2.39,2.07,-0.0905,1.013,1.85-2.10
+IND @ DAL,DAL win + P.J. Washington 4+ reb,2,0.5954,0.4951,2.02,2.12,1.83,-0.092,0.999,1.65-1.85
+IND @ DAL,DAL -3.5 + P.J. Washington 4+ reb,2,0.5143,0.4201,2.38,2.5,2.16,-0.093,0.999,2.10-2.50
+IND @ DAL,Cooper Flagg ast under 6.5 + P.J. Washington 4+ reb,2,0.566,0.4605,2.17,2.28,1.96,-0.0988,0.997,1.85-2.10
 DEN @ HOU,HOU win + Amen Thompson 15+ pa,2,0.4851,0.5762,1.74,1.82,1.98,0.1436,1.042,1.85-2.10
 DEN @ HOU,HOU win + Kevin Durant 15+ pts,2,0.4948,0.5904,1.69,1.78,1.91,0.1283,1.029,1.85-2.10
 DEN @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5131,0.6011,1.66,1.75,1.87,0.1268,1.025,1.85-2.10
@@ -69,15 +68,15 @@ SAS @ PHX,SAS win + Dillon Brooks 15+ pra,2,0.5958,0.569,1.76,1.85,1.6,-0.0901,0
 SAS @ PHX,Oso Ighodaro ast under 3.5 + Dillon Brooks 10+ pr,2,0.636,0.4947,2.02,2.12,1.84,-0.0904,0.999,1.65-1.85
 SAS @ PHX,Julian Champagnie reb under 5.5 + Dillon Brooks 10+ pr,2,0.6309,0.5044,1.98,2.08,1.79,-0.0952,0.999,1.65-1.85
 SAS @ PHX,Dylan Harper ast under 4.5 + Dillon Brooks 10+ pr,2,0.6137,0.4923,2.03,2.13,1.83,-0.0975,0.997,1.65-1.85
-NOP @ GSW,Karlo Matkovic 14+ pr + Derik Queen 15+ pr,2,0.5967,0.3912,2.56,2.68,2.42,-0.0519,1.007,2.10-2.50
-NOP @ GSW,Karlo Matkovic 14+ pr + Derik Queen 10+ pa,2,0.6371,0.4219,2.37,2.49,2.24,-0.0546,1.006,2.10-2.50
 NOP @ GSW,game under 231.5 + GSW win,2,0.3228,0.3777,2.65,2.78,2.5,-0.0559,1.004,2.10-2.50
-NOP @ GSW,Karlo Matkovic 14+ pr + Jeremiah Fears 10+ pts,2,0.6471,0.4478,2.23,2.34,2.09,-0.0619,1.006,1.85-2.10
-NOP @ GSW,Karlo Matkovic 14+ pr + Dejounte Murray 20+ pra,2,0.6461,0.4493,2.23,2.34,2.09,-0.063,1.005,1.85-2.10
-NOP @ GSW,Karlo Matkovic 14+ pr + Derik Queen 4+ reb,2,0.6558,0.4548,2.2,2.31,2.05,-0.0656,1.002,1.85-2.10
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Derik Queen 10+ pa,2,0.6899,0.5152,1.94,2.04,1.78,-0.081,1.002,1.65-1.85
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 4+ ast,2,0.6612,0.5079,1.97,2.07,1.8,-0.0842,1.004,1.65-1.85
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Jeremiah Fears 10+ pts,2,0.7014,0.5474,1.83,1.92,1.67,-0.0871,1.003,1.65-1.85
+NOP @ GSW,Karlo Matkovic 14+ pr + Derik Queen 15+ pr,2,0.5967,0.3988,2.51,2.63,2.36,-0.0577,1.007,2.10-2.50
+NOP @ GSW,Karlo Matkovic 5+ reb + GSW win,2,0.5569,0.4221,2.37,2.49,2.23,-0.0594,1.001,2.10-2.50
+NOP @ GSW,Karlo Matkovic 14+ pr + Dejounte Murray 20+ pra,2,0.6461,0.4562,2.19,2.3,2.04,-0.0681,1.005,1.85-2.10
+NOP @ GSW,Karlo Matkovic 14+ pr + Jeremiah Fears 10+ pts,2,0.6471,0.4593,2.18,2.29,2.03,-0.0685,1.006,1.85-2.10
+NOP @ GSW,GSW win + Karlo Matkovic 4+ reb,2,0.6546,0.529,1.89,1.98,1.76,-0.0701,1.0,1.65-1.85
+NOP @ GSW,Karlo Matkovic 14+ pr + Derik Queen 4+ reb,2,0.6558,0.4637,2.16,2.26,2.0,-0.0713,1.002,1.85-2.10
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Derik Queen 10+ pa,2,0.6899,0.5191,1.93,2.02,1.77,-0.0822,1.002,1.65-1.85
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 4+ ast,2,0.6612,0.5123,1.95,2.05,1.78,-0.0856,1.004,1.65-1.85
 NOP @ GSW,GSW win + Derik Queen 15+ pr,2,0.665,0.5633,1.78,1.86,1.62,-0.0887,0.989,1.50-1.65
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Derik Queen 4+ reb,2,0.7115,0.5565,1.8,1.89,1.64,-0.0899,1.0,1.50-1.65
-NOP @ GSW,GSW win + Dejounte Murray 4+ reb,2,0.6447,0.5791,1.73,1.81,1.57,-0.0903,0.997,1.50-1.65
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Jeremiah Fears 10+ pts,2,0.7014,0.555,1.8,1.89,1.64,-0.0892,1.003,1.50-1.65
+NOP @ GSW,GSW win + Dejounte Murray 4+ reb,2,0.6447,0.5803,1.72,1.81,1.57,-0.0906,0.997,1.50-1.65
