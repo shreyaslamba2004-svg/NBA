@@ -11,18 +11,18 @@ LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Austin Reaves 1+ 3pm,2,0.6252,0.5101,1.9
 LAL @ ATL,Matisse Thybulle 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.6784,0.5272,1.9,1.99,1.71,-0.096,0.992,1.65-1.85
 LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Onyeka Okongwu 10+ pr,2,0.6815,0.5531,1.81,1.9,1.63,-0.097,0.999,1.50-1.65
 LAL @ ATL,Walker Kessler 8+ reb + Jalen Johnson 1+ 3pm,2,0.6569,0.5817,1.72,1.81,1.54,-0.1055,1.005,1.50-1.65
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + CLE win,2,0.5512,0.4425,2.26,2.37,2.22,-0.0165,1.026,2.10-2.50
-CLE @ CHA,game under 215.5 + CLE win,2,0.3493,0.3869,2.58,2.71,2.48,-0.0396,1.016,2.10-2.50
-CLE @ CHA,CHA +8.5 + Coby White 10+ pts,2,0.4782,0.3968,2.52,2.65,2.39,-0.0527,1.028,2.10-2.50
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Sion James 10+ pra,2,0.6864,0.4576,2.19,2.29,2.04,-0.0646,0.996,1.85-2.10
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + James Harden 1+ 3pm,2,0.7191,0.5012,2.0,2.1,1.86,-0.0683,1.0,1.85-2.10
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pr,2,0.7263,0.5007,2.0,2.1,1.86,-0.0692,0.997,1.85-2.10
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Donovan Mitchell 1+ 3pm,2,0.7398,0.5192,1.93,2.02,1.79,-0.0702,0.999,1.65-1.85
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pa,2,0.7307,0.5124,1.95,2.05,1.81,-0.0727,0.996,1.65-1.85
-CLE @ CHA,Royce O'Neale 3pm under 2.5 + Grayson Allen 10+ pa,2,0.7452,0.5244,1.91,2.0,1.77,-0.0728,0.997,1.65-1.85
-CLE @ CHA,CLE win + Sion James 10+ pra,2,0.5915,0.5844,1.71,1.8,1.56,-0.0911,0.987,1.50-1.65
-CLE @ CHA,CLE win + Coby White 10+ pts,2,0.5635,0.5669,1.76,1.85,1.59,-0.0987,0.982,1.50-1.65
-CLE @ CHA,CLE win + Coby White 15+ pra,2,0.5801,0.5983,1.67,1.75,1.5,-0.1005,0.984,1.50-1.65
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + CLE win,2,0.564,0.4272,2.34,2.46,2.32,-0.0071,1.027,2.10-2.50
+CLE @ CHA,game under 215.5 + CLE win,2,0.3574,0.3949,2.53,2.66,2.48,-0.0197,1.037,2.10-2.50
+CLE @ CHA,CLE win + Royce O'Neale pts under 9.5,2,0.4655,0.4216,2.37,2.49,2.31,-0.0267,1.044,2.10-2.50
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Coby White 10+ pr,2,0.7363,0.4765,2.1,2.2,1.98,-0.0577,0.997,1.85-2.10
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + James Harden 1+ 3pm,2,0.7236,0.4841,2.07,2.17,1.94,-0.0601,0.999,1.85-2.10
+CLE @ CHA,Royce O'Neale 3pm under 2.5 + Donovan Mitchell 1+ 3pm,2,0.7429,0.4999,2.0,2.1,1.88,-0.0605,1.0,1.85-2.10
+CLE @ CHA,CLE win + Sion James 10+ pra,2,0.6046,0.5859,1.71,1.79,1.55,-0.0911,0.987,1.50-1.65
+CLE @ CHA,CLE win + Coby White 10+ pts,2,0.5809,0.5594,1.79,1.88,1.62,-0.0935,0.983,1.50-1.65
+CLE @ CHA,CLE win + Coby White 15+ pra,2,0.5989,0.5899,1.7,1.78,1.53,-0.0947,0.986,1.50-1.65
+CLE @ CHA,Evan Mobley pts under 17.5 + Coby White 10+ pra,2,0.6122,0.4904,2.04,2.14,1.84,-0.0957,0.998,1.65-1.85
+CLE @ CHA,Royce O'Neale pts under 9.5 + Grayson Allen 10+ pa,2,0.6079,0.4895,2.04,2.14,1.84,-0.0976,0.997,1.65-1.85
+CLE @ CHA,CLE win + Sion James 10+ pra + Donovan Mitchell 15+ pts,3,0.5445,0.5029,1.99,2.09,1.73,-0.1281,1.005,1.65-1.85
 WAS @ DET,AJ Dybantsa pa under 19.5 + DET win,2,0.4898,0.4323,2.31,2.43,2.27,-0.0191,1.041,2.10-2.50
 WAS @ DET,AJ Dybantsa pts under 17.5 + DET win,2,0.5083,0.4491,2.23,2.34,2.18,-0.0227,1.037,2.10-2.50
 WAS @ DET,Kevin Huerter 8+ pts + DET win,2,0.514,0.4426,2.26,2.37,2.2,-0.0266,1.026,2.10-2.50
@@ -56,18 +56,18 @@ DEN @ HOU,game over 219.5 + Jabari Smith Jr. 15+ pra,2,0.6046,0.4513,2.22,2.33,2
 DEN @ HOU,game over 219.5 + Jabari Smith Jr. 4+ reb,2,0.5859,0.4384,2.28,2.39,2.08,-0.0871,1.012,1.85-2.10
 DEN @ HOU,Amen Thompson 1+ stl + Kevin Durant 4+ reb,2,0.6547,0.5151,1.94,2.04,1.76,-0.0909,1.001,1.65-1.85
 DEN @ HOU,Amen Thompson 1+ stl + Jabari Smith Jr. 15+ pra,2,0.7346,0.6003,1.67,1.75,1.5,-0.0967,1.001,1.50-1.65
-SAS @ PHX,SAS win + Miles Bridges pa under 18.5,2,0.439,0.4023,2.49,2.61,2.44,-0.018,1.055,2.10-2.50
 SAS @ PHX,SAS win + Miles Bridges pts under 15.5,2,0.4508,0.4067,2.46,2.58,2.41,-0.0192,1.051,2.10-2.50
-SAS @ PHX,SAS win + Oso Ighodaro ast under 3.5,2,0.4817,0.442,2.26,2.38,2.15,-0.0497,1.021,2.10-2.50
+SAS @ PHX,Collin Gillespie 3pm under 2.5 + SAS win,2,0.5995,0.4909,2.04,2.14,1.98,-0.0293,1.021,1.85-2.10
+SAS @ PHX,Julian Champagnie 3pm under 2.5 + Collin Gillespie 3pm under 2.5,2,0.6567,0.3895,2.57,2.7,2.47,-0.0397,1.002,2.10-2.50
+SAS @ PHX,PHX +8.5 + Dillon Brooks 10+ pts,2,0.4518,0.3896,2.57,2.7,2.43,-0.0529,1.029,2.10-2.50
+SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pts,2,0.6705,0.4612,2.17,2.28,2.02,-0.069,0.999,1.85-2.10
+SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 15+ pra,2,0.6726,0.4653,2.15,2.26,2.0,-0.0691,1.0,1.85-2.10
 SAS @ PHX,SAS win + Stephon Castle 10+ pts,2,0.6154,0.6186,1.62,1.7,1.5,-0.07,1.015,1.50-1.65
-SAS @ PHX,SAS win + Julian Champagnie 3pm under 2.5,2,0.5494,0.4634,2.16,2.27,2.0,-0.0718,0.982,1.85-2.10
-SAS @ PHX,PHX +8.5 + Dillon Brooks 10+ pr,2,0.4962,0.4473,2.24,2.35,2.06,-0.0787,1.008,1.85-2.10
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 1+ 3pm,2,0.7006,0.5118,1.95,2.05,1.8,-0.079,1.0,1.65-1.85
-SAS @ PHX,PHX +8.5 + Devin Booker 15+ pa,2,0.5032,0.4598,2.17,2.28,2.0,-0.0793,1.01,1.85-2.10
-SAS @ PHX,SAS win + Dillon Brooks 1+ 3pm,2,0.6246,0.6038,1.66,1.74,1.52,-0.0829,0.995,1.50-1.65
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7514,0.5637,1.77,1.86,1.63,-0.0838,0.999,1.50-1.65
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Devin Booker 1+ 3pm,2,0.6789,0.512,1.95,2.05,1.79,-0.084,0.999,1.65-1.85
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + De'Aaron Fox 10+ pr,2,0.7291,0.5458,1.83,1.92,1.68,-0.0841,0.998,1.65-1.85
+SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pa,2,0.7213,0.5085,1.97,2.06,1.83,-0.0713,1.0,1.65-1.85
+SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7514,0.5293,1.89,1.98,1.75,-0.0728,0.999,1.65-1.85
+SAS @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7886,0.5626,1.78,1.87,1.64,-0.0753,0.999,1.50-1.65
+SAS @ PHX,Collin Gillespie 3pm under 2.5 + Dillon Brooks 1+ 3pm,2,0.7337,0.5229,1.91,2.01,1.77,-0.0764,0.997,1.65-1.85
+SAS @ PHX,Collin Gillespie 3pm under 2.5 + De'Aaron Fox 10+ pa,2,0.7886,0.5856,1.71,1.79,1.57,-0.0807,0.999,1.50-1.65
 NOP @ GSW,GSW win + Zion Williamson pts under 19.5,2,0.4624,0.3979,2.51,2.64,2.44,-0.0275,1.044,2.10-2.50
 NOP @ GSW,GSW win + Zion Williamson pra under 27.5,2,0.4403,0.3899,2.56,2.69,2.49,-0.03,1.047,2.10-2.50
 NOP @ GSW,GSW win + Zion Williamson pr under 25.5,2,0.4769,0.4188,2.39,2.51,2.3,-0.0351,1.04,2.10-2.50
