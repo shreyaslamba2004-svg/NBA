@@ -84,7 +84,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909949,MIL,1631157,Ryan Rollins,,,1.0,,,
 401909949,MIL,1642504,Cormac Ryan,Out,GLeague-Two-Way,0.0,,,
 401909949,MIL,1630579,Jericho Sims,,,1.0,,,
-401909949,MIL,1629018,Gary Trent Jr.,Questionable,Injury/Illness-Illness,0.55,Trent (illness) has been downgraded to questionable for Sunday's game against Boston.,,
+401909949,MIL,1629018,Gary Trent Jr.,Out,Injury/Illness-Illness,0.0,Trent (illness) won't play in Sunday's game versus the Celtics.,,
 401909949,MIL,1626167,Myles Turner,,,1.0,,,
 401909949,MIL,905105623,Kel'el Ware,,,1.0,,,
 401909949,BOS,1642269,Devin Carter,Out,GLeague-Two-Way,0.0,,,
