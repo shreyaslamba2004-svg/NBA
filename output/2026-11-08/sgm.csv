@@ -1,4 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 MIA @ SAC,De'Andre Hunter pts under 13.5 + MIA win,2,0.3858,0.4085,2.45,2.57,2.48,0.0128,1.051,2.10-2.50
-MIA @ SAC,Bam Adebayo 20+ pts + MIA win,2,0.4351,0.4003,2.5,2.62,2.48,-0.0074,1.042,2.10-2.50
+MIA @ SAC,Keegan Murray pts under 10.5 + MIA win,2,0.4749,0.4178,2.39,2.51,2.36,-0.0154,1.038,2.10-2.50
 MIA @ SAC,Darius Acuff Jr. pts under 25.5 + MIA win,2,0.4447,0.4156,2.41,2.53,2.36,-0.0205,1.044,2.10-2.50
