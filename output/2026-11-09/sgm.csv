@@ -19,16 +19,16 @@ MEM @ TOR,TOR win + RJ Barrett 4+ reb,2,0.5378,0.469,2.13,2.24,1.92,-0.0996,0.99
 MEM @ TOR,TOR win + Collin Murray-Boyles 4+ reb,2,0.5321,0.4665,2.14,2.25,1.93,-0.1014,0.996,1.85-2.10
 SAS @ PHX,game over 224.5 + Dillon Brooks 15+ pra,2,0.4787,0.406,2.46,2.59,2.33,-0.0551,1.04,2.10-2.50
 SAS @ PHX,game over 224.5 + Dillon Brooks 10+ pts,2,0.4785,0.4018,2.49,2.61,2.35,-0.0569,1.037,2.10-2.50
-SAS @ PHX,game over 224.5 + Stephon Castle 15+ pr,2,0.4701,0.406,2.46,2.59,2.32,-0.0586,1.038,2.10-2.50
+SAS @ PHX,game over 224.5 + Stephon Castle 15+ pr,2,0.4701,0.4103,2.44,2.56,2.29,-0.0595,1.038,2.10-2.50
+SAS @ PHX,SAS -6.5 + Stephon Castle 10+ pts,2,0.4695,0.4452,2.25,2.36,2.08,-0.0729,1.027,1.85-2.10
 SAS @ PHX,SAS win + De'Aaron Fox 1+ 3pm,2,0.5274,0.4563,2.19,2.3,2.02,-0.0784,1.01,1.85-2.10
 SAS @ PHX,game over 224.5 + Dillon Brooks 10+ pr,2,0.52,0.4506,2.22,2.33,2.04,-0.0795,1.015,1.85-2.10
-SAS @ PHX,SAS win + Stephon Castle 10+ pts,2,0.6113,0.556,1.8,1.89,1.66,-0.0798,1.018,1.65-1.85
-SAS @ PHX,game over 224.5 + Stephon Castle 15+ pra,2,0.5203,0.4579,2.18,2.29,2.01,-0.0813,1.014,1.85-2.10
-SAS @ PHX,SAS win + Stephon Castle 15+ pr,2,0.598,0.5415,1.85,1.94,1.7,-0.0815,1.016,1.65-1.85
+SAS @ PHX,SAS win + Stephon Castle 10+ pts,2,0.6113,0.5617,1.78,1.87,1.64,-0.0807,1.018,1.50-1.65
+SAS @ PHX,SAS win + Stephon Castle 15+ pr,2,0.598,0.5472,1.83,1.92,1.68,-0.0824,1.016,1.65-1.85
 SAS @ PHX,SAS win + Dillon Brooks 1+ 3pm,2,0.6187,0.5235,1.91,2.01,1.73,-0.0957,0.994,1.65-1.85
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Stephon Castle 10+ pr,2,0.7675,0.559,1.79,1.88,1.61,-0.101,1.0,1.50-1.65
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Stephon Castle 15+ pra,2,0.755,0.5502,1.82,1.91,1.63,-0.1019,0.999,1.50-1.65
-SAS @ PHX,De'Aaron Fox 1+ 3pm + Stephon Castle 15+ pra,2,0.7164,0.5848,1.71,1.8,1.53,-0.1034,1.003,1.50-1.65
+SAS @ PHX,De'Aaron Fox 1+ 3pm + Dillon Brooks 1+ 3pm,2,0.6679,0.5001,2.0,2.1,1.8,-0.0977,1.002,1.65-1.85
+SAS @ PHX,De'Aaron Fox 1+ 3pm + Dillon Brooks 10+ pa,2,0.6874,0.5471,1.83,1.92,1.64,-0.1034,1.001,1.50-1.65
+SAS @ PHX,SAS win + Dillon Brooks 10+ pa,2,0.6347,0.5709,1.75,1.84,1.57,-0.1043,0.99,1.50-1.65
 NOP @ GSW,GSW win + Zion Williamson pts under 20.5,2,0.4189,0.4121,2.43,2.55,2.36,-0.0258,1.068,2.10-2.50
 NOP @ GSW,GSW win + Trey Murphy III pts under 15.5,2,0.3772,0.3919,2.55,2.68,2.47,-0.0324,1.066,2.10-2.50
 NOP @ GSW,GSW win + Derik Queen pts under 9.5,2,0.4037,0.4209,2.38,2.49,2.25,-0.0519,1.045,2.10-2.50
