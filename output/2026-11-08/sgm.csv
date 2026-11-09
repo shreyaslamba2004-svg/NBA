@@ -1,15 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BKN @ DAL,Noah Clowney 7+ pts + Day'Ron Sharpe 15+ pra,2,0.6036,0.3984,2.51,2.64,2.4,-0.0426,1.005,2.10-2.50
-BKN @ DAL,Noah Clowney 7+ pts + Julius Randle 4+ reb,2,0.6081,0.4134,2.42,2.54,2.3,-0.048,1.002,2.10-2.50
-BKN @ DAL,Noah Clowney 7+ pts + Michael Porter Jr. 4+ reb,2,0.6107,0.4228,2.37,2.48,2.24,-0.0515,1.0,2.10-2.50
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Noah Clowney 5+ pr,2,0.6285,0.4443,2.25,2.36,2.08,-0.0769,1.003,1.85-2.10
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Julius Randle 4+ reb,2,0.5963,0.4472,2.24,2.35,2.06,-0.0789,1.006,1.85-2.10
-BKN @ DAL,Daniel Gafford 8+ pts + Michael Porter Jr. 4+ reb,2,0.5742,0.45,2.22,2.33,2.05,-0.0793,1.0,1.85-2.10
-BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.7206,0.6016,1.66,1.75,1.52,-0.0878,1.001,1.50-1.65
-BKN @ DAL,DAL win + Day'Ron Sharpe 6+ reb,2,0.6697,0.5415,1.85,1.94,1.68,-0.0879,0.998,1.65-1.85
-BKN @ DAL,DAL win + Day'Ron Sharpe 15+ pra,2,0.7075,0.5736,1.74,1.83,1.58,-0.0926,0.993,1.50-1.65
-BKN @ DAL,DAL win + Noah Clowney 5+ pr + Julius Randle 4+ reb,3,0.6974,0.5021,1.99,2.09,1.72,-0.1371,1.0,1.65-1.85
-BKN @ DAL,DAL win + Noah Clowney 5+ pr + Michael Porter Jr. 4+ reb,3,0.7003,0.5136,1.95,2.04,1.67,-0.1402,0.998,1.65-1.85
 BOS @ MIL,Tyler Herro pts under 20.5 + BOS win,2,0.5401,0.4622,2.16,2.27,2.15,-0.0062,1.028,2.10-2.50
 BOS @ MIL,Brayden Burries pts under 11.5 + BOS win,2,0.4586,0.4463,2.24,2.35,2.19,-0.0243,1.036,2.10-2.50
 BOS @ MIL,Payton Pritchard 14+ pts + BOS win,2,0.378,0.4238,2.36,2.48,2.3,-0.0254,1.034,2.10-2.50
