@@ -1,6 +1,6 @@
 # NBA model · Mon 09 Nov 2026 (US date)
 
-Updated **Tue 10 Nov, 10:11 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-09/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Tue 10 Nov, 10:16 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-09/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -27,7 +27,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Alex Sarr BLK over 3.5 (4+) | WAS @ DET | draftkings | 13.80 | 12.80 | 6.82 | 14.7% | 6.8% | 7.8% | +7.8% | +102.4% | 0.1% |
 | Kevin Durant PRA over 44.5 (45+) | DEN @ HOU | draftkings | 13.00 | 12.08 | 6.47 | 15.5% | 7.2% | 8.3% | +7.7% | +101.1% | 0.2% |
 | Kevin Durant PA over 39.5 (40+) | DEN @ HOU | draftkings | 16.80 | 15.70 | 8.58 | 11.7% | 5.6% | 6.4% | +7.0% | +95.8% | 0.1% |
-| WAS to win | WAS @ DET | tabtouch | 5.30 | 4.96 | 3.42 | 29.2% | 20.2% | 20.2% | +6.9% | +54.9% | 0.4% |
+| WAS to win | WAS @ DET | unibet | 5.30 | 4.96 | 3.42 | 29.2% | 20.2% | 20.2% | +6.9% | +54.9% | 0.4% |
 | Kevin Durant PRA over 49.5 (50+) | DEN @ HOU | draftkings | 24.00 | 22.57 | 12.58 | 8.0% | 3.9% | 4.4% | +6.3% | +90.8% | 0.1% |
 | Pascal Siakam AST over 5.5 (6+) | IND @ DAL | draftkings | 6.74 | 6.35 | 3.55 | 28.2% | 13.9% | 15.8% | +6.2% | +89.8% | 0.3% |
 | Pascal Siakam PA over 39.5 (40+) | IND @ DAL | draftkings | 14.80 | 14.03 | 8.01 | 12.5% | 6.3% | 7.1% | +5.5% | +84.9% | 0.1% |
