@@ -1,11 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pts,2,0.4058,0.4167,2.4,2.52,2.29,-0.045,1.031,2.10-2.50
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pts,2,0.5544,0.3947,2.53,2.66,2.39,-0.0555,1.028,2.10-2.50
-NOP @ LAC,NOP win + Jeremiah Fears 10+ pa,2,0.4512,0.4685,2.13,2.24,2.0,-0.0633,1.012,1.85-2.10
-NOP @ LAC,game over 226.5 + Jeremiah Fears 10+ pa,2,0.6175,0.4444,2.25,2.36,2.09,-0.0721,1.011,1.85-2.10
-NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pts,2,0.3787,0.396,2.53,2.65,2.34,-0.0733,1.031,2.10-2.50
-NOP @ LAC,NOP -1.5 + Jeremiah Fears 10+ pa,2,0.4208,0.4449,2.25,2.36,2.04,-0.0916,1.012,1.85-2.10
-MIA @ SAC,MIA win + game under 237.5,2,0.3448,0.3891,2.57,2.7,2.38,-0.075,1.003,2.10-2.50
-MIA @ SAC,MIA win + Bobby Portis reb under 5.5,2,0.4981,0.4092,2.44,2.57,2.26,-0.0769,1.009,2.10-2.50
-MIA @ SAC,MIA win + game over 238.5,2,0.4196,0.3856,2.59,2.72,2.39,-0.0792,0.998,2.10-2.50
-MIA @ SAC,MIA win + Klay Thompson 3pm under 3.5,2,0.5696,0.4635,2.16,2.27,1.94,-0.1006,0.982,1.85-2.10
+MIA @ SAC,De'Andre Hunter pts under 13.5 + MIA win,2,0.3858,0.4085,2.45,2.57,2.48,0.0128,1.051,2.10-2.50
+MIA @ SAC,Bam Adebayo 20+ pts + MIA win,2,0.4351,0.4003,2.5,2.62,2.48,-0.0074,1.042,2.10-2.50
+MIA @ SAC,Darius Acuff Jr. pts under 25.5 + MIA win,2,0.4447,0.4156,2.41,2.53,2.36,-0.0205,1.044,2.10-2.50
