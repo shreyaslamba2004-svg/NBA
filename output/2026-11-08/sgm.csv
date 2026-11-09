@@ -1,15 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BKN @ DAL,Danny Wolf pts under 9.5 + Daniel Gafford 5+ pa,2,0.3861,0.4245,2.36,2.47,2.22,-0.0567,1.001,2.10-2.50
+BKN @ DAL,Danny Wolf pts under 9.5 + Daniel Gafford 5+ pa,2,0.3861,0.4231,2.36,2.48,2.23,-0.0565,1.001,2.10-2.50
 BKN @ DAL,Danny Wolf pts under 9.5 + Julius Randle 4+ reb,2,0.3808,0.4185,2.39,2.51,2.25,-0.0583,1.0,2.10-2.50
-BKN @ DAL,Danny Wolf pts under 9.5 + Day'Ron Sharpe 6+ reb,2,0.355,0.3772,2.65,2.78,2.49,-0.0606,0.994,2.10-2.50
-BKN @ DAL,Day'Ron Sharpe pts under 9.5 + Daniel Gafford 5+ pa,2,0.4332,0.4431,2.26,2.37,2.08,-0.0796,0.998,1.85-2.10
-BKN @ DAL,Day'Ron Sharpe 9+ pts + Daniel Gafford 5+ pa,2,0.5645,0.4516,2.21,2.33,2.04,-0.0801,1.001,1.85-2.10
+BKN @ DAL,Cooper Flagg pts under 24.5 + Danny Wolf 10+ pr,2,0.5627,0.3983,2.51,2.64,2.36,-0.0596,0.997,2.10-2.50
+BKN @ DAL,Day'Ron Sharpe pts under 9.5 + Daniel Gafford 5+ pa,2,0.4332,0.4417,2.26,2.38,2.08,-0.0793,0.998,1.85-2.10
+BKN @ DAL,Day'Ron Sharpe 9+ pts + Daniel Gafford 5+ pa,2,0.5645,0.4502,2.22,2.33,2.04,-0.0798,1.001,1.85-2.10
 BKN @ DAL,Day'Ron Sharpe 9+ pts + Julius Randle 4+ reb,2,0.5575,0.4458,2.24,2.36,2.06,-0.0805,1.001,1.85-2.10
+BKN @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.7299,0.6098,1.64,1.72,1.5,-0.0823,1.007,1.50-1.65
 BKN @ DAL,DAL win + Day'Ron Sharpe 6+ reb,2,0.6705,0.5432,1.84,1.93,1.68,-0.0872,0.999,1.65-1.85
 BKN @ DAL,DAL win + Julius Randle 4+ reb,2,0.717,0.6008,1.66,1.75,1.52,-0.0878,1.001,1.50-1.65
 BKN @ DAL,DAL win + Danny Wolf 10+ pr,2,0.705,0.5625,1.78,1.87,1.62,-0.0905,0.994,1.50-1.65
-BKN @ DAL,DAL win + Julius Randle 4+ reb + Daniel Gafford 5+ pa,3,0.6666,0.5133,1.95,2.05,1.69,-0.1341,1.009,1.65-1.85
-BKN @ DAL,DAL win + Danny Wolf 10+ pr + Daniel Gafford 5+ pa,3,0.6548,0.4801,2.08,2.19,1.8,-0.1374,1.001,1.65-1.85
+BKN @ DAL,DAL win + Daniel Gafford 5+ pa + Julius Randle 4+ reb,3,0.6666,0.5116,1.95,2.05,1.69,-0.1338,1.009,1.65-1.85
+BKN @ DAL,DAL win + Danny Wolf 10+ pr + Daniel Gafford 5+ pa,3,0.6548,0.4786,2.09,2.19,1.8,-0.1372,1.001,1.65-1.85
 BOS @ MIL,game over 221.5 + Kyle Kuzma 10+ pr,2,0.4438,0.4113,2.43,2.55,2.37,-0.0239,1.039,2.10-2.50
 BOS @ MIL,game over 221.5 + BOS win,2,0.3929,0.4298,2.33,2.44,2.22,-0.0438,1.001,2.10-2.50
 BOS @ MIL,game over 221.5 + Myles Turner 5+ pa,2,0.4687,0.4612,2.17,2.28,2.06,-0.0483,1.018,1.85-2.10
