@@ -1,3 +1,7 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909957,DEN @ HOU,moneyline,DEN,,,,draftkings,286.0,3.86,0.2811,3.56,0.2488,0.3876,-0.1065,4.12,0.0851,0.3876,0.4963,0.0434,False,True,True,,,
 401909958,SAS @ PHX,moneyline,PHX,,,,draftkings,282.0,3.82,0.3018,3.31,0.2516,0.3097,-0.0078,4.05,0.1531,0.3097,0.183,0.0162,False,True,True,,,
+401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,5.5,draftkings,1660.0,17.6,0.1297,7.71,0.0531,0.0531,0.0766,,1.2827,0.0588,0.0357,0.0005,False,True,False,,,
+401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,4.5,draftkings,800.0,9.0,0.2388,4.19,0.1038,0.1038,0.135,,1.1494,0.114,0.0257,0.0008,False,False,False,,,
+401909958,SAS @ PHX,prop_fg3m,over,Dillon Brooks,1628415.0,3.5,draftkings,920.0,10.2,0.1861,5.37,0.0916,0.0916,0.0945,,0.8984,0.0987,0.0069,0.0002,False,True,False,,,
+401909954,WAS @ DET,prop_reb,over,Duncan Robinson,1629130.0,6.5,draftkings,2900.0,30.0,0.0623,16.06,0.0312,0.0312,0.0311,,0.8675,0.0335,0.0046,0.0,False,False,False,,,
