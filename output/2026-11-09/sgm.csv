@@ -1,0 +1,7 @@
+matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+CLE @ CHA,CLE win + game under 215.5,2,0.33,0.3766,2.66,2.79,2.48,-0.0668,1.018,2.10-2.50
+CLE @ CHA,CLE win + game over 215.5,2,0.3428,0.3736,2.68,2.81,2.41,-0.098,0.984,2.10-2.50
+WAS @ DET,DET win + game under 218.5,2,0.2444,0.3988,2.51,2.63,2.32,-0.076,1.008,2.10-2.50
+WAS @ DET,DET win + game over 218.5,2,0.5059,0.3944,2.54,2.66,2.32,-0.0862,0.996,2.10-2.50
+NOP @ GSW,GSW win + game under 231.5,2,0.2603,0.3813,2.62,2.75,2.41,-0.0794,1.004,2.10-2.50
+NOP @ GSW,GSW win + game over 231.5,2,0.3854,0.3789,2.64,2.77,2.41,-0.0852,0.997,2.10-2.50
