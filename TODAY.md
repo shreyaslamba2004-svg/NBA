@@ -1,6 +1,6 @@
 # NBA model · Sun 08 Nov 2026 (US date)
 
-Updated **Mon 09 Nov, 11:53 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 09 Nov, 11:58 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-08/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -34,7 +34,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| BOS @ MIL | Mon 09 Nov 12:00 | 116.7–104.4 | BOS 81% | 1.23 / 5.30 | MIL +12.5 | 221.5 | MIL +13.5 covers 53%; o221.5 49% |
+| BOS @ MIL | Mon 09 Nov 12:00 | 116.7–104.4 | BOS 81% | 1.23 / 5.30 | MIL +12.5 | 221.5 | MIL +13.5 covers 53%; o222.5 47% |
 | NOP @ LAC | Mon 09 Nov 13:00 | 116.2–117.3 | NOP 47% | 2.12 / 1.89 | LAC -1.5 | 233.5 | LAC +1.5 covers 56%; o226.5 65% |
 | MIA @ SAC | Mon 09 Nov 13:00 | 125.6–115.6 | MIA 76% | 1.31 / 4.22 | SAC +10.5 | 241.5 | SAC +11.5 covers 54%; o236.5 60% |
 
@@ -46,7 +46,6 @@ Out: Kam Jones (MIL), Pete Nance (MIL), Cormac Ryan (MIL), Gary Trent Jr. (MIL),
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Ryan Rollins PTS over 9.5 (10+) | BOS @ MIL | pointsbetau | 2.05 | 2.00 | 1.65 | 60.5% | 49.1% | 49.9% | +2.4% | +24.0% | 0.6% |
-| Neemias Queta PTS over 9.5 (10+) | BOS @ MIL | draftkings | 2.05 | 2.01 | 2.11 | 47.3% | 50.0% | 49.8% | +2.2% | -3.0% | 0.5% |
 | Tyler Herro PTS under 20.5 | BOS @ MIL | tab | 1.87 | 1.86 | 1.54 | 64.7% | 52.9% | 53.8% | +0.5% | +21.0% | 0.2% |
 | Myles Turner PTS over 9.5 (10+) | BOS @ MIL | pointsbetau | 2.05 | 2.05 | 2.10 | 47.7% | 49.0% | 48.9% | +0.2% | -2.2% | 0.1% |
 
@@ -58,10 +57,10 @@ Out: Kam Jones (MIL), Pete Nance (MIL), Cormac Ryan (MIL), Gary Trent Jr. (MIL),
 | Paul George | 100% | 29.8<br><sub>27,33,-,35,22</sub> | 17.4<br><sub>18,17,-,25,8</sub> | 16.5 · 17.5<br><sub>o 50% · u 50%</sub> | 5.2<br><sub>6,6,-,3,5</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 3.9<br><sub>8,8,-,5,1</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.7<br><sub>2,3,-,5,2</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 1.7 | 0.4 | 2.4 | 26.5 |
 | Derrick White | 100% | 29.7<br><sub>26,34,30,36,25</sub> | 14.1<br><sub>9,12,7,24,18</sub> | 13.5 · 13.5<br><sub>o 50% · u 50%</sub> | 3.7<br><sub>2,2,2,4,4</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 4.9<br><sub>4,2,3,7,5</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 2.1<br><sub>1,2,1,1,4</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.1 | 0.8 | 1.5 | 22.7 |
 | Payton Pritchard | 98% | 25.2<br><sub>35,27,30,18,23</sub> | 13.6<br><sub>30,7,4,10,12</sub> | 13.5 · 13.5<br><sub>o 49% · u 51%</sub> | 3.0<br><sub>3,7,3,1,6</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 4.4<br><sub>3,3,3,5,5</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 2.0<br><sub>3,0,0,0,4</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 0.8 | 0.1 | 1.1 | 21.0 |
-| Neemias Queta | 100% | 23.1<br><sub>20,27,26,29,15</sub> | 9.9<br><sub>13,8,16,9,4</sub> | 8.5 · 9.5<br><sub>o 50% · u 50%</sub> | 7.7<br><sub>6,8,6,12,3</sub> | 7.5<br><sub>o 48% · u 52%</sub> | 1.6<br><sub>0,1,1,3,1</sub> |  | 0.1<br><sub>0,0,1,0,0</sub> |  | 0.7 | 1.1 | 1.0 | 19.1 |
-| Sam Hauser | 98% | 20.6<br><sub>18,17,19,30,17</sub> | 7.8<br><sub>6,3,2,11,9</sub> | 6.5 · –<br><sub>o 51% · u 49%</sub> | 3.1<br><sub>3,2,2,2,3</sub> |  | 1.2<br><sub>2,0,1,0,3</sub> |  | 1.5<br><sub>2,1,0,3,3</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.4 | 0.2 | 0.3 | 12.1 |
+| Neemias Queta | 100% | 23.1<br><sub>20,27,26,29,15</sub> | 9.9<br><sub>13,8,16,9,4</sub> | 9.5 · 9.5<br><sub>o 49% · u 51%</sub> | 7.7<br><sub>6,8,6,12,3</sub> | 7.5<br><sub>o 48% · u 52%</sub> | 1.6<br><sub>0,1,1,3,1</sub> |  | 0.1<br><sub>0,0,1,0,0</sub> |  | 0.7 | 1.1 | 1.0 | 19.1 |
+| Sam Hauser | 98% | 20.6<br><sub>18,17,19,30,17</sub> | 7.8<br><sub>6,3,2,11,9</sub> | 6.5 · –<br><sub>o 52% · u 48%</sub> | 3.1<br><sub>3,2,2,2,3</sub> |  | 1.2<br><sub>2,0,1,0,3</sub> |  | 1.5<br><sub>2,1,0,3,3</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.4 | 0.2 | 0.3 | 12.1 |
 | Baylor Scheierman | 98% | 19.8<br><sub>23,20,27,29,15</sub> | 6.3<br><sub>2,10,11,9,5</sub> |  | 3.7<br><sub>3,2,5,11,4</sub> |  | 1.7<br><sub>3,1,2,1,2</sub> |  | 1.0<br><sub>0,2,3,3,1</sub> |  | 0.8 | 0.1 | 0.6 | 11.7 |
-| Mitchell Robinson | 98% | 16.5<br><sub>19,-,15,20,15</sub> | 5.5<br><sub>11,-,4,3,6</sub> | 5.5 · 5.5<br><sub>o 49% · u 51%</sub> | 6.4<br><sub>4,-,4,10,7</sub> |  | 0.6<br><sub>0,-,0,1,0</sub> |  | 0.0<br><sub>0,-,0,0,0</sub> |  | 0.8 | 0.7 | 0.6 | 12.5 |
+| Mitchell Robinson | 98% | 16.5<br><sub>19,-,15,20,15</sub> | 5.5<br><sub>11,-,4,3,6</sub> | 4.5 · 5.5<br><sub>o 52% · u 48%</sub> | 6.4<br><sub>4,-,4,10,7</sub> |  | 0.6<br><sub>0,-,0,1,0</sub> |  | 0.0<br><sub>0,-,0,0,0</sub> |  | 0.8 | 0.7 | 0.6 | 12.5 |
 | Jordan Walsh | 98% | 15.5<br><sub>11,13,12,12,22</sub> | 4.5<br><sub>2,0,5,3,6</sub> | – · 4.5<br><sub>o 49% · u 51%</sub> | 3.3<br><sub>2,3,3,4,3</sub> |  | 0.9<br><sub>0,2,0,0,0</sub> |  | 0.5<br><sub>0,0,1,1,1</sub> |  | 0.7 | 0.3 | 0.4 | 8.6 |
 | Luka Garza | 98% | 15.4<br><sub>7,21,18,18,19</sub> | 8.8<br><sub>5,12,14,11,6</sub> |  | 4.0<br><sub>1,6,3,5,7</sub> |  | 1.4<br><sub>1,4,0,2,4</sub> |  | 0.9<br><sub>0,2,4,3,2</sub> |  | 0.5 | 0.3 | 0.7 | 14.2 |
 | Mike Conley | 100% | 13.6<br><sub>-,-,4,-,11</sub> | 4.2<br><sub>-,-,3,-,0</sub> |  | 1.3<br><sub>-,-,0,-,0</sub> |  | 2.2<br><sub>-,-,0,-,1</sub> |  | 0.6<br><sub>-,-,1,-,0</sub> |  | 0.8 | 0.1 | 0.5 | 7.7 |
