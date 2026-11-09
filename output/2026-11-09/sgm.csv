@@ -1,18 +1,19 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ ATL,game over 235.5 + Onyeka Okongwu 1+ 3pm,2,0.3074,0.3894,2.57,2.7,2.35,-0.084,1.024,2.10-2.50
-LAL @ ATL,game over 235.5 + CJ McCollum 1+ 3pm,2,0.318,0.4022,2.49,2.61,2.27,-0.0869,1.02,2.10-2.50
-LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Nickeil Alexander-Walker 3pm under 3.5,2,0.4902,0.3743,2.67,2.81,2.42,-0.0933,1.014,2.10-2.50
-LAL @ ATL,LAL win + CJ McCollum 1+ 3pm,2,0.3466,0.4335,2.31,2.42,2.05,-0.111,0.987,1.85-2.10
-LAL @ ATL,Aaron Wiggins 3pm under 2.5 + CJ McCollum 1+ 3pm,2,0.6047,0.4872,2.05,2.16,1.82,-0.1125,0.997,1.65-1.85
-LAL @ ATL,Aaron Wiggins 3pm under 2.5 + Onyeka Okongwu 1+ 3pm,2,0.5815,0.4693,2.13,2.24,1.89,-0.1143,0.995,1.85-2.10
-LAL @ ATL,Nickeil Alexander-Walker 3pm under 3.5 + Onyeka Okongwu 1+ 3pm,2,0.5128,0.4517,2.21,2.32,1.95,-0.1199,0.997,1.85-2.10
-CLE @ CHA,CLE win + game under 215.5,2,0.33,0.3766,2.66,2.79,2.48,-0.0668,1.018,2.10-2.50
-CLE @ CHA,CLE win + game over 215.5,2,0.3428,0.3736,2.68,2.81,2.41,-0.098,0.984,2.10-2.50
+CLE @ CHA,CLE win + game under 214.5,2,0.316,0.3789,2.64,2.77,2.47,-0.0653,1.017,2.10-2.50
+CLE @ CHA,CLE win + game over 214.5,2,0.3567,0.3719,2.69,2.82,2.43,-0.0946,0.985,2.10-2.50
 WAS @ DET,Daniss Jenkins 17+ pra + DET win,2,0.4612,0.4133,2.42,2.54,2.4,-0.0066,1.03,2.10-2.50
 WAS @ DET,DET win + AJ Dybantsa pa under 19.5,2,0.5155,0.4089,2.45,2.57,2.34,-0.0441,1.036,2.10-2.50
 WAS @ DET,DET win + AJ Dybantsa pts under 17.5,2,0.535,0.4227,2.37,2.48,2.25,-0.0485,1.031,2.10-2.50
 WAS @ DET,DET win + Daniss Jenkins 4+ ast,2,0.5076,0.4552,2.2,2.31,2.04,-0.0692,1.02,1.85-2.10
 WAS @ DET,Daniss Jenkins 4+ ast + Paul Reed 10+ pa,2,0.5845,0.4438,2.25,2.37,2.03,-0.0994,1.005,1.85-2.10
+IND @ DAL,game over 222.5 + P.J. Washington 10+ pts,2,0.5937,0.3994,2.5,2.63,2.32,-0.075,1.034,2.10-2.50
+IND @ DAL,DAL win + P.J. Washington 10+ pts,2,0.5312,0.4765,2.1,2.2,1.93,-0.0798,1.022,1.85-2.10
+IND @ DAL,DAL -3.5 + P.J. Washington 10+ pts,2,0.4594,0.4064,2.46,2.58,2.26,-0.0819,1.025,2.10-2.50
+IND @ DAL,DAL win + Kyrie Irving 2+ 3pm,2,0.5003,0.4694,2.13,2.24,1.95,-0.0864,1.019,1.85-2.10
+IND @ DAL,DAL -3.5 + Kyrie Irving 2+ 3pm,2,0.4322,0.4,2.5,2.63,2.28,-0.0893,1.021,2.10-2.50
+IND @ DAL,DAL win + P.J. Washington 1+ 3pm,2,0.5501,0.4926,2.03,2.13,1.84,-0.0953,1.005,1.65-1.85
+IND @ DAL,Cooper Flagg pts under 25.5 + Kyrie Irving 1+ 3pm,2,0.5645,0.4544,2.2,2.31,1.96,-0.1092,1.0,1.85-2.10
+IND @ DAL,Cooper Flagg 3pm under 1.5 + Kyrie Irving 1+ 3pm,2,0.6141,0.4931,2.03,2.13,1.8,-0.112,0.997,1.65-1.85
 DEN @ HOU,game over 222.5 + Jabari Smith Jr. 4+ reb,2,0.5192,0.4298,2.33,2.44,2.17,-0.0676,1.016,2.10-2.50
 DEN @ HOU,HOU win + Jabari Smith Jr. 4+ reb,2,0.653,0.5186,1.93,2.02,1.76,-0.0887,1.001,1.65-1.85
 DEN @ HOU,DEN +4.5 + Jabari Smith Jr. 4+ reb,2,0.361,0.4297,2.33,2.44,2.11,-0.0924,1.001,2.10-2.50
@@ -30,6 +31,10 @@ SAS @ PHX,SAS win + Dillon Brooks 1+ 3pm,2,0.6187,0.5219,1.92,2.01,1.73,-0.0954,
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pra,2,0.7726,0.5576,1.79,1.88,1.61,-0.1001,1.0,1.50-1.65
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Stephon Castle 10+ pr,2,0.7675,0.5548,1.8,1.89,1.62,-0.1002,1.0,1.50-1.65
 SAS @ PHX,SAS -6.5 + Dillon Brooks 10+ pra,2,0.5163,0.4912,2.04,2.14,1.83,-0.1019,0.995,1.65-1.85
-NOP @ GSW,GSW win + Yaxel Lendeborg 2+ 3pm,2,0.3916,0.4295,2.33,2.44,2.15,-0.077,1.02,2.10-2.50
-NOP @ GSW,GSW win + game under 231.5,2,0.2603,0.3813,2.62,2.75,2.41,-0.0794,1.004,2.10-2.50
-NOP @ GSW,GSW win + game over 231.5,2,0.3854,0.3789,2.64,2.77,2.41,-0.0852,0.997,2.10-2.50
+NOP @ GSW,GSW win + Zion Williamson pts under 20.5,2,0.4189,0.4252,2.35,2.47,2.28,-0.0287,1.068,2.10-2.50
+NOP @ GSW,GSW win + Trey Murphy III pts under 15.5,2,0.3772,0.4032,2.48,2.6,2.39,-0.035,1.066,2.10-2.50
+NOP @ GSW,game over 231.5 + Jeremiah Fears 10+ pts,2,0.5157,0.3998,2.5,2.63,2.33,-0.0667,1.04,2.10-2.50
+NOP @ GSW,GSW win + Dejounte Murray 1+ 3pm,2,0.5091,0.5503,1.82,1.91,1.63,-0.1025,0.992,1.50-1.65
+NOP @ GSW,Dejounte Murray 1+ 3pm + Jeremiah Fears 10+ pts,2,0.659,0.5617,1.78,1.87,1.58,-0.1142,1.001,1.50-1.65
+NOP @ GSW,Yaxel Lendeborg 2+ 3pm + Jeremiah Fears 10+ pts,2,0.4907,0.4254,2.35,2.47,2.08,-0.1161,0.996,1.85-2.10
+NOP @ GSW,GSW win + Jeremiah Fears 10+ pts,2,0.5219,0.5699,1.75,1.84,1.55,-0.1188,0.975,1.50-1.65
