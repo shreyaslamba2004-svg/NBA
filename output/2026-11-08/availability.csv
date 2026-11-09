@@ -2,13 +2,13 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909950,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909950,LAC,1642353,Cam Christie,,,1.0,,,
 401909950,LAC,1641711,Gradey Dick,,,1.0,,,
-401909950,LAC,1627739,Kris Dunn,,,1.0,,,
-401909950,LAC,1629636,Darius Garland,,,1.0,,,
-401909950,LAC,1629060,Rui Hachimura,,,1.0,,,
+401909950,LAC,1627739,Kris Dunn,Starting,,1.0,,,1.0
+401909950,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
+401909950,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
 401909950,LAC,1627742,Brandon Ingram,Out,Injury/Illness-RightHeelSurgery,0.0,"Ingram (Achilles) won't play in Sunday's game against New Orleans, Law Murray of The Athletic reports.",,
 401909950,LAC,1630543,Isaiah Jackson,Out,Injury/Illness-LeftGroinSoreness,0.0,"Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports.",,
-401909950,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
-401909950,LAC,201572,Brook Lopez,,,1.0,,,
+401909950,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401909950,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
 401909950,LAC,905105832,Nick Martinelli,,,1.0,,,
 401909950,LAC,1641757,Baba Miller,,,1.0,,,
 401909950,LAC,905108024,Yanic Konan Niederhauser,Out,Injury/Illness-RightLisfrancSurgery,0.0,The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.,,
@@ -19,22 +19,22 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909950,LAC,1631104,Blake Wesley,,,1.0,,,
 401909950,NOP,1630180,Saddiq Bey,,,1.0,,,
 401909950,NOP,904712862,Malik Dia,Out,GLeague-Two-Way,0.0,,,
-401909950,NOP,1642847,Jeremiah Fears,,,1.0,,,
+401909950,NOP,1642847,Jeremiah Fears,Starting,,1.0,,,1.0
 401909950,NOP,905170947,AJ Johnson,,,1.0,,,
 401909950,NOP,1630529,Herbert Jones,,,1.0,,,
 401909950,NOP,201599,DeAndre Jordan,,,1.0,,,
 401909950,NOP,1631097,Bennedict Mathurin,,,1.0,,,
-401909950,NOP,1631255,Karlo Matkovic,,,1.0,,,
+401909950,NOP,1631255,Karlo Matkovic,Starting,,1.0,,,1.0
 401909950,NOP,1631121,Bryce McGowens,,,1.0,,,
 401909950,NOP,1642274,Yves Missi,Out,,0.0,Missi (knee) is out for Friday's game against Minnesota.,,
-401909950,NOP,1630530,Trey Murphy III,,,1.0,,,
-401909950,NOP,1627749,Dejounte Murray,,,1.0,,,
+401909950,NOP,1630530,Trey Murphy III,Starting,,1.0,,,1.0
+401909950,NOP,1627749,Dejounte Murray,Starting,,1.0,,,1.0
 401909950,NOP,904703115,Jaron Pierre Jr.,Out,GLeague-Two-Way,0.0,,,
 401909950,NOP,1629673,Jordan Poole,,,1.0,,,
 401909950,NOP,1642852,Derik Queen,,,1.0,,,
 401909950,NOP,904683742,Julian Reese,,,1.0,,,
 401909950,NOP,1630570,Trendon Watford,,,1.0,,,
-401909950,NOP,1629627,Zion Williamson,,,1.0,,,
+401909950,NOP,1629627,Zion Williamson,Starting,,1.0,,,1.0
 401909951,SAC,1630173,Precious Achiuwa,Starting,,1.0,,,1.0
 401909951,SAC,905142620,Darius Acuff Jr.,Starting,,1.0,,,1.0
 401909951,SAC,1641778,Leaky Black,,,1.0,,,
