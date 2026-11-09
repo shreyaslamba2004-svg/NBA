@@ -54,7 +54,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909953,CHA,905281370,Hannes Steinbach,,,1.0,,,
 401909953,CHA,1629632,Coby White,,,1.0,,,
 401909953,CHA,1629684,Grant Williams,Out,Injury/Illness-RightHamstringStrain,0.0,Williams (hamstring) is out for Monday's game against the Cavaliers.,,
-401909953,CLE,1628386,Jarrett Allen,Questionable,Injury/Illness-RightKneeContusion,0.55,,,
+401909953,CLE,1628386,Jarrett Allen,Available,Injury/Illness-RightKneeContusion,1.0,,,
 401909953,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909953,CLE,201935,James Harden,,,1.0,,,
 401909953,CLE,1626209,Mario Hezonja,,,1.0,,,
