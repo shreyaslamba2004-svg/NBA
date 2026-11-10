@@ -58,7 +58,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909961,BOS,1642864,Hugo Gonzalez,Active,,1.0,,,
 401909961,BOS,1631199,Ron Harper Jr.,Active,,1.0,,,
 401909961,BOS,1630573,Sam Hauser,Active,,1.0,,,
-401909961,BOS,905106283,Dillon Mitchell,Questionable,GLeague-Two-Way,0.55,,,
+401909961,BOS,905106283,Dillon Mitchell,Available,GLeague-Two-Way,1.0,,,
 401909961,BOS,1630202,Payton Pritchard,Active,,1.0,,,
 401909961,BOS,1629674,Neemias Queta,Active,,1.0,,,
 401909961,BOS,1629011,Mitchell Robinson,Active,,1.0,,,
