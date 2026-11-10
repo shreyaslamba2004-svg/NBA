@@ -41,18 +41,18 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909956,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909956,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909956,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) is out for Friday's game against Utah.,0.0,De Larrea (knee) is out for Friday's game against Utah.,,
-401909956,DAL,1642843,Cooper Flagg,,,1.0,,,
-401909956,DAL,1629655,Daniel Gafford,,,1.0,,,
+401909956,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
+401909956,DAL,1629655,Daniel Gafford,Starting,,1.0,,,1.0
 401909956,DAL,1641724,Jett Howard,,,1.0,,,
-401909956,DAL,202681,Kyrie Irving,,,1.0,,,
+401909956,DAL,202681,Kyrie Irving,Starting,,1.0,,,1.0
 401909956,DAL,1642358,Morez Johnson Jr.,Out,,0.0,Johnson (leg) has been ruled out for Monday's game against the Pacers.,,
 401909956,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909956,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is listed as out for Monday's game against the Kings.,,
 401909956,DAL,1630230,Naji Marshall,,,1.0,,,
-401909956,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
+401909956,DAL,1628997,Caleb Martin,Starting,Injury/Illness-RightThumbSplint,1.0,,,1.0
 401909956,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909956,DAL,1631204,Marcus Sasser,,,1.0,,,
-401909956,DAL,1629023,P.J. Washington,,,1.0,,,
+401909956,DAL,1629023,P.J. Washington,Starting,,1.0,,,1.0
 401909956,IND,1641738,Kobe Brown,,,1.0,,,
 401909956,IND,1642277,Johnny Furphy,Out,,0.0,"Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",,
 401909956,IND,1630169,Tyrese Haliburton,Out,Injury/Illness-LeftHamstringStrain,0.0,"Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.",,
@@ -60,16 +60,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909956,IND,1631245,Quenton Jackson,,,1.0,,,
 401909956,IND,204456,T.J. McConnell,Available,Injury/Illness-RightHamstringStrain,1.0,,,
 401909956,IND,1626204,Larry Nance Jr.,,,1.0,,,
-401909956,IND,1629614,Andrew Nembhard,,,1.0,,,
-401909956,IND,1630174,Aaron Nesmith,,,1.0,,,
+401909956,IND,1629614,Andrew Nembhard,Starting,,1.0,,,1.0
+401909956,IND,1630174,Aaron Nesmith,Starting,,1.0,,,1.0
 401909956,IND,1626162,Kelly Oubre Jr.,,,1.0,,,
 401909956,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
-401909956,IND,1627783,Pascal Siakam,,,1.0,,,
+401909956,IND,1627783,Pascal Siakam,Starting,,1.0,,,1.0
 401909956,IND,1641771,Jalen Slawson,,,1.0,,,
-401909956,IND,905105854,Braden Smith,,,1.0,,,
+401909956,IND,905105854,Braden Smith,Starting,,1.0,,,1.0
 401909956,IND,1630167,Obi Toppin,,,1.0,,,
 401909956,IND,1641716,Jarace Walker,,,1.0,,,
-401909956,IND,1627826,Ivica Zubac,,,1.0,,,
+401909956,IND,1627826,Ivica Zubac,Starting,,1.0,,,1.0
 401909957,HOU,203500,Steven Adams,Out,Injury/Illness-RightSoleusStrain,0.0,"Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports.",,
 401909957,HOU,203992,Bogdan Bogdanovic,,,1.0,,,
 401909957,HOU,203991,Clint Capela,Out,Injury/Illness-RightAnkleSprain,0.0,"Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",,
@@ -111,7 +111,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909958,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909958,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909958,PHX,1631221,Collin Gillespie,,,1.0,,,
-401909958,PHX,1630692,Jordan Goodwin,Questionable,,0.55,Goodwin (calf) is questionable for Monday's game against the Spurs.,,
+401909958,PHX,1630692,Jordan Goodwin,Questionable,,0.55,"Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports.",,
 401909958,PHX,1630224,Jalen Green,,,1.0,,,
 401909958,PHX,1642345,Oso Ighodaro,,,1.0,,,
 401909958,PHX,1628379,Luke Kennard,,,1.0,,,
