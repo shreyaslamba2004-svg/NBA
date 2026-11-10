@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NOP @ GSW,game over 229.5 + Derik Queen 15+ pr,2,0.5577,0.3875,2.58,2.71,2.44,-0.0541,1.028,2.10-2.50
-NOP @ GSW,GSW win + game under 228.5,2,0.2702,0.4074,2.45,2.58,2.32,-0.0543,1.012,2.10-2.50
-NOP @ GSW,Derik Queen 3+ ast + Karlo Matkovic 1+ 3pm,2,0.5665,0.3782,2.64,2.78,2.49,-0.0581,1.005,2.10-2.50
+NOP @ GSW,Karlo Matkovic 9+ pts + Dejounte Murray 4+ ast,2,0.5706,0.409,2.44,2.57,2.42,-0.0107,1.01,2.10-2.50
+NOP @ GSW,Karlo Matkovic 9+ pts + Derik Queen 15+ pr,2,0.5561,0.4055,2.47,2.59,2.42,-0.0196,1.004,2.10-2.50
+NOP @ GSW,Karlo Matkovic 9+ pts + Jeremiah Fears 1+ 3pm,2,0.5382,0.4011,2.49,2.62,2.44,-0.0198,1.008,2.10-2.50
+NOP @ GSW,Jeremiah Fears 18+ pts + Dejounte Murray 10+ pts,2,0.5314,0.455,2.2,2.31,2.07,-0.0572,1.008,1.85-2.10
 NOP @ GSW,GSW win + Karlo Matkovic 5+ reb,2,0.5547,0.468,2.14,2.24,2.01,-0.059,1.001,1.85-2.10
 NOP @ GSW,Derik Queen 3+ ast + GSW win,2,0.5711,0.4667,2.14,2.25,2.01,-0.0641,0.987,1.85-2.10
-NOP @ GSW,Derik Queen 3+ ast + Dejounte Murray 4+ ast,2,0.6405,0.4513,2.22,2.33,2.06,-0.07,1.002,1.85-2.10
-NOP @ GSW,GSW win + Karlo Matkovic 1+ 3pm,2,0.5957,0.5195,1.92,2.02,1.79,-0.071,0.993,1.65-1.85
 NOP @ GSW,Derik Queen 3+ ast + Jeremiah Fears 10+ pts,2,0.6817,0.5103,1.96,2.06,1.81,-0.0762,1.005,1.65-1.85
 NOP @ GSW,Derik Queen 3+ ast + Dejounte Murray 10+ pts,2,0.6804,0.5103,1.96,2.06,1.81,-0.0785,1.003,1.65-1.85
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Saddiq Bey 1+ 3pm,2,0.6903,0.5512,1.81,1.9,1.65,-0.0912,1.002,1.50-1.65
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 10+ pts,2,0.7041,0.5635,1.77,1.86,1.61,-0.0926,1.001,1.50-1.65
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Jeremiah Fears 10+ pts,2,0.7036,0.562,1.78,1.87,1.61,-0.0927,1.001,1.50-1.65
+NOP @ GSW,Derik Queen 3+ ast + Saddiq Bey 1+ 3pm,2,0.6655,0.498,2.01,2.11,1.85,-0.0792,1.002,1.65-1.85
+NOP @ GSW,Derik Queen 15+ pr + Dejounte Murray 4+ reb,2,0.6903,0.5859,1.71,1.79,1.54,-0.0991,1.005,1.50-1.65
+NOP @ GSW,Derik Queen 15+ pr + Jeremiah Fears 1+ 3pm,2,0.6986,0.5864,1.71,1.79,1.54,-0.0996,1.003,1.50-1.65
+NOP @ GSW,Jeremiah Fears 1+ 3pm + Dejounte Murray 4+ reb,2,0.6656,0.5775,1.73,1.82,1.55,-0.1026,1.005,1.50-1.65
