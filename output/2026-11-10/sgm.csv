@@ -2,19 +2,33 @@ matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,
 MIL @ NYK,game under 219.5 + NYK win,2,0.4328,0.4418,2.26,2.38,2.12,-0.0634,1.004,2.10-2.50
 MIL @ NYK,NYK win + game under 220.5,2,0.4492,0.4522,2.21,2.32,2.04,-0.0777,1.005,1.85-2.10
 MIL @ NYK,NYK win + game over 219.5,2,0.3838,0.4385,2.28,2.39,2.08,-0.0867,0.996,1.85-2.10
-BOS @ PHI,BOS win + Paul George 10+ pts,2,0.6172,0.4526,2.21,2.32,2.13,-0.0344,1.017,2.10-2.50
-BOS @ PHI,BOS win + Payton Pritchard 10+ pra,2,0.6395,0.4657,2.15,2.25,2.05,-0.0431,1.006,1.85-2.10
-BOS @ PHI,BOS win + Jayson Tatum 4+ reb,2,0.6376,0.4531,2.21,2.32,2.11,-0.0448,1.0,2.10-2.50
-BOS @ PHI,BOS win + Jaylen Brown 1+ 3pm,2,0.559,0.4089,2.45,2.57,2.3,-0.0594,0.99,2.10-2.50
-BOS @ PHI,BOS win + Joel Embiid 10+ pts,2,0.6212,0.4552,2.2,2.31,2.06,-0.0611,0.988,1.85-2.10
-BOS @ PHI,BOS -1.5 + Payton Pritchard 10+ pra,2,0.6115,0.4497,2.22,2.33,2.05,-0.0802,1.007,1.85-2.10
-BOS @ PHI,Jayson Tatum 7+ reb + Joel Embiid 10+ pts,2,0.6491,0.5203,1.92,2.02,1.75,-0.0881,1.005,1.65-1.85
-BOS @ PHI,Jayson Tatum 7+ reb + Payton Pritchard 10+ pra,2,0.6552,0.5219,1.92,2.01,1.75,-0.0888,1.003,1.65-1.85
-BOS @ PHI,Jayson Tatum 7+ reb + Paul George 10+ pts,2,0.6253,0.5016,1.99,2.09,1.81,-0.0907,1.002,1.65-1.85
-MIA @ UTA,MIA win + Bam Adebayo 20+ pts,2,0.4307,0.389,2.57,2.7,2.44,-0.05,1.038,2.10-2.50
-MIA @ UTA,MIA win + Davion Mitchell 14+ pts,2,0.3975,0.3907,2.56,2.69,2.41,-0.0589,1.041,2.10-2.50
-MIA @ UTA,MIA win + Andrew Wiggins 11+ pts,2,0.3879,0.389,2.57,2.7,2.4,-0.0671,1.035,2.10-2.50
-MIA @ UTA,Bam Adebayo 1+ 3pm + MIA win,2,0.621,0.5253,1.9,2.0,1.77,-0.0688,1.009,1.65-1.85
-MIA @ UTA,MIA win + Davion Mitchell 2+ 3pm,2,0.4505,0.4421,2.26,2.37,2.08,-0.0825,1.021,1.85-2.10
-MIA @ UTA,MIA win + Pelle Larsson 1+ 3pm,2,0.4969,0.4956,2.02,2.12,1.84,-0.0905,1.014,1.65-1.85
-MIA @ UTA,Bam Adebayo 1+ 3pm + Pelle Larsson 1+ 3pm,2,0.4812,0.4303,2.32,2.44,2.1,-0.0971,1.006,1.85-2.10
+BOS @ PHI,BOS win + Paul George 10+ pts,2,0.6172,0.4531,2.21,2.32,2.13,-0.0346,1.017,2.10-2.50
+BOS @ PHI,BOS win + Payton Pritchard 10+ pra,2,0.6395,0.4665,2.14,2.25,2.05,-0.0434,1.006,1.85-2.10
+BOS @ PHI,BOS win + Jayson Tatum 4+ reb,2,0.6376,0.4554,2.2,2.31,2.1,-0.0456,1.0,1.85-2.10
+BOS @ PHI,BOS win + Jaylen Brown 1+ 3pm,2,0.559,0.4078,2.45,2.58,2.31,-0.0588,0.99,2.10-2.50
+BOS @ PHI,PHI win + Joel Embiid 10+ pts,2,0.3098,0.4433,2.26,2.37,2.12,-0.0605,1.024,2.10-2.50
+BOS @ PHI,BOS win + Joel Embiid 10+ pts,2,0.6212,0.4541,2.2,2.31,2.07,-0.0608,0.988,1.85-2.10
+BOS @ PHI,Jayson Tatum 7+ reb + Joel Embiid 10+ pts,2,0.6491,0.5191,1.93,2.02,1.76,-0.0878,1.005,1.65-1.85
+BOS @ PHI,Jayson Tatum 7+ reb + Payton Pritchard 10+ pra,2,0.6552,0.5228,1.91,2.01,1.74,-0.0891,1.003,1.65-1.85
+BOS @ PHI,Jayson Tatum 7+ reb + Paul George 10+ pts,2,0.6253,0.5022,1.99,2.09,1.81,-0.0909,1.002,1.65-1.85
+MIA @ UTA,Ace Bailey 15+ pts + Bam Adebayo 1+ 3pm,2,0.5318,0.3856,2.59,2.72,2.42,-0.0679,1.007,2.10-2.50
+MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm,2,0.621,0.5306,1.88,1.98,1.75,-0.0694,1.009,1.65-1.85
+MIA @ UTA,MIA win + Andrew Wiggins 5+ ra,2,0.5065,0.4282,2.34,2.45,2.17,-0.0725,1.007,2.10-2.50
+MIA @ UTA,Ace Bailey 2+ ast + Bam Adebayo 1+ 3pm,2,0.5532,0.391,2.56,2.69,2.37,-0.0732,0.996,2.10-2.50
+MIA @ UTA,Jaxson Hayes 9+ pts + Ace Bailey 15+ pra,2,0.588,0.4499,2.22,2.33,2.06,-0.0749,1.005,1.85-2.10
+MIA @ UTA,Ace Bailey 2+ ast + MIA win,2,0.5633,0.4462,2.24,2.35,2.07,-0.078,0.99,1.85-2.10
+MIA @ UTA,Jaxson Hayes 9+ pts + Ace Bailey 1+ 3pm,2,0.5635,0.4421,2.26,2.38,2.08,-0.0801,1.004,1.85-2.10
+MIA @ UTA,Ace Bailey 2+ ast + Davion Mitchell 15+ pra,2,0.6676,0.507,1.97,2.07,1.81,-0.0845,1.001,1.65-1.85
+MIA @ UTA,Bam Adebayo 1+ 3pm + Ace Bailey 15+ pra,2,0.7356,0.5811,1.72,1.81,1.57,-0.0862,1.002,1.50-1.65
+MIA @ UTA,Ace Bailey 2+ ast + Davion Mitchell 4+ ast,2,0.6747,0.525,1.9,2.0,1.74,-0.0876,1.001,1.65-1.85
+MIA @ UTA,Bam Adebayo 1+ 3pm + Jaxson Hayes 4+ reb,2,0.6748,0.5525,1.81,1.9,1.64,-0.0919,1.002,1.50-1.65
+MIA @ UTA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7216,0.591,1.69,1.78,1.53,-0.0942,1.0,1.50-1.65
+OKC @ POR,game over 226.5 + Isaiah Hartenstein 8+ reb,2,0.3253,0.3829,2.61,2.74,2.45,-0.0612,1.056,2.10-2.50
+OKC @ POR,Ajay Mitchell pts under 19.5 + Isaiah Hartenstein 5+ pa,2,0.6456,0.4641,2.15,2.26,2.01,-0.0656,1.0,1.85-2.10
+OKC @ POR,Ajay Mitchell pts under 19.5 + Isaiah Hartenstein 6+ reb,2,0.5828,0.4378,2.28,2.4,2.12,-0.0728,0.999,2.10-2.50
+OKC @ POR,OKC win + Isaiah Hartenstein 5+ pa,2,0.6029,0.4988,2.0,2.1,1.82,-0.0899,1.005,1.65-1.85
+OKC @ POR,game over 226.5 + Isaiah Hartenstein 5+ pa,2,0.4232,0.4607,2.17,2.28,1.97,-0.0931,1.008,1.85-2.10
+OKC @ POR,OKC -1.5 + Isaiah Hartenstein 5+ pa,2,0.5723,0.4703,2.13,2.23,1.92,-0.097,1.005,1.85-2.10
+OKC @ POR,Shai Gilgeous-Alexander 10+ ra + Isaiah Hartenstein 5+ pa,2,0.5822,0.501,2.0,2.1,1.8,-0.1007,1.002,1.65-1.85
+OKC @ POR,Jared McCain pts under 12.5 + Isaiah Hartenstein 6+ reb,2,0.4643,0.4203,2.38,2.5,2.14,-0.1015,1.004,2.10-2.50
+OKC @ POR,Isaiah Hartenstein 6+ reb + Jared McCain 2+ 3pm,2,0.4805,0.5095,1.96,2.06,1.7,-0.1314,1.0,1.65-1.85
