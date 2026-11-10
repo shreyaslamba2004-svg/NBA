@@ -1,27 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ ATL,Jalen Johnson pts under 20.5 + Matisse Thybulle 5+ pr,2,0.5346,0.4426,2.26,2.37,2.16,-0.0419,0.999,2.10-2.50
-LAL @ ATL,Jalen Johnson pts under 20.5 + Walker Kessler 8+ reb,2,0.5131,0.4243,2.36,2.47,2.26,-0.0421,0.999,2.10-2.50
-LAL @ ATL,Jalen Johnson pts under 20.5 + Matisse Thybulle 1+ stl,2,0.5024,0.4264,2.35,2.46,2.24,-0.0468,0.998,2.10-2.50
-LAL @ ATL,Jalen Johnson pts under 20.5 + Luka Doncic 2+ 3pm,2,0.5347,0.4645,2.15,2.26,2.05,-0.05,0.998,1.85-2.10
-LAL @ ATL,Jalen Johnson pts under 20.5 + Onyeka Okongwu 10+ pr,2,0.5456,0.4718,2.12,2.23,2.01,-0.0501,0.997,1.85-2.10
-LAL @ ATL,Walker Kessler pts under 14.5 + Onyeka Okongwu 10+ pr,2,0.6468,0.4831,2.07,2.17,1.96,-0.0529,0.999,1.85-2.10
-LAL @ ATL,ATL win + Onyeka Okongwu 10+ pr,2,0.5865,0.5188,1.93,2.02,1.8,-0.0679,1.007,1.65-1.85
-LAL @ ATL,ATL win + Luka Doncic 2+ 3pm,2,0.5663,0.5032,1.99,2.09,1.83,-0.0816,0.993,1.65-1.85
-LAL @ ATL,Walker Kessler 8+ reb + Matisse Thybulle 5+ pr + CJ McCollum 10+ pr,3,0.7144,0.5465,1.83,1.92,1.56,-0.1457,1.002,1.50-1.65
-LAL @ ATL,Walker Kessler 8+ reb + CJ McCollum 10+ pr + Matisse Thybulle 1+ stl,3,0.6727,0.5276,1.9,1.99,1.61,-0.1484,1.003,1.50-1.65
-LAL @ ATL,Walker Kessler 8+ reb + CJ McCollum 10+ pr + Luka Doncic 3+ 3pm,3,0.6383,0.5129,1.95,2.05,1.66,-0.1491,1.007,1.65-1.85
-WAS @ DET,AJ Dybantsa pts under 16.5 + DET win,2,0.489,0.425,2.35,2.47,2.36,0.0051,1.042,2.10-2.50
-WAS @ DET,DET win + Paul Reed 13+ pa,2,0.4689,0.4116,2.43,2.55,2.37,-0.0226,1.038,2.10-2.50
-WAS @ DET,Kevin Huerter 8+ pts + DET win,2,0.5183,0.4365,2.29,2.41,2.23,-0.0271,1.029,2.10-2.50
-WAS @ DET,John Collins pts under 11.5 + Paul Reed 10+ pra,2,0.5018,0.4605,2.17,2.28,2.1,-0.0351,0.998,1.85-2.10
-WAS @ DET,John Collins pts under 11.5 + Duncan Robinson 10+ pra,2,0.4919,0.4571,2.19,2.3,2.1,-0.0401,0.995,1.85-2.10
-WAS @ DET,Kevin Huerter 9+ pts + Duncan Robinson 10+ pra,2,0.6052,0.4567,2.19,2.3,2.1,-0.0409,1.003,1.85-2.10
-WAS @ DET,DET win + Paul Reed 15+ pra,2,0.613,0.589,1.7,1.78,1.59,-0.0647,1.01,1.50-1.65
-WAS @ DET,DET win + Kevin Huerter 1+ 3pm,2,0.5862,0.5885,1.7,1.78,1.57,-0.0733,1.008,1.50-1.65
-WAS @ DET,Kevin Huerter 1+ 3pm + Kyshawn George 10+ pts,2,0.6812,0.5842,1.71,1.8,1.54,-0.1027,1.003,1.50-1.65
-WAS @ DET,DET win + Paul Reed 15+ pra + Duncan Robinson 10+ pa,3,0.5574,0.505,1.98,2.08,1.77,-0.1049,1.025,1.65-1.85
-WAS @ DET,DET win + Paul Reed 15+ pra + Anthony Davis 6+ reb,3,0.5735,0.5117,1.95,2.05,1.74,-0.1109,1.015,1.65-1.85
-WAS @ DET,DET win + Paul Reed 15+ pra + Duncan Robinson 10+ pra,3,0.5881,0.5332,1.88,1.97,1.67,-0.1111,1.018,1.65-1.85
 MEM @ TOR,Cameron Boozer pts under 17.5 + Jaylen Wells 10+ pra,2,0.5763,0.4187,2.39,2.51,2.29,-0.0417,0.994,2.10-2.50
 MEM @ TOR,Jerami Grant pts under 10.5 + Jaylen Wells 10+ pra,2,0.4665,0.3954,2.53,2.66,2.41,-0.0478,0.992,2.10-2.50
 MEM @ TOR,MEM win + Jaylen Wells 10+ pra,2,0.3783,0.4235,2.36,2.48,2.22,-0.0616,1.024,2.10-2.50
