@@ -20,17 +20,21 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909962,LAC @ PHX,prop_ast,over,Devin Booker,1626164.0,8.5,draftkings,880.0,9.8,0.1618,6.18,0.0954,0.0954,0.0664,,0.5853,0.1041,0.0205,0.0006,False,False,False,,,
 401909960,MIL @ NYK,moneyline,MIL,,,,betr_au,750.0,8.5,0.1823,5.49,0.1127,0.1199,0.0623,4.36,0.5491,0.1199,0.0193,0.0006,False,True,True,,,
 401909965,OKC @ POR,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,6.5,draftkings,198.0,2.98,0.5189,1.93,0.3136,0.3136,0.2053,,0.5465,0.3407,0.0153,0.0019,True,False,False,,,
+401909964,ORL @ SAC,prop_pts,over,Jamal Cain,1631288.0,14.5,draftkings,640.0,7.4,0.2083,4.8,0.1263,0.1263,0.082,,0.5413,0.1371,0.0147,0.0006,False,True,False,Tristan da Silva,0.3015,0.1754
 401909961,BOS @ PHI,prop_ast,over,Joel Embiid,203954.0,5.5,draftkings,457.0,5.57,0.275,3.64,0.1678,0.1678,0.1072,,0.5316,0.1819,0.0134,0.0007,False,True,False,,,
 401909960,MIL @ NYK,prop_ast,over,Jaime Jaquez Jr.,1631170.0,6.5,draftkings,1180.0,12.8,0.1182,8.46,0.073,0.073,0.0452,,0.5132,0.079,0.011,0.0002,False,False,False,Tyler Herro,0.1571,0.0809
 401909965,OKC @ POR,moneyline,POR,,,,sportsbet,121.0,2.21,0.3794,2.64,0.4347,0.4573,-0.0779,4.1,-0.1616,0.4573,0.0105,0.0022,False,True,True,,,
 401909963,MIA @ UTA,prop_pts,over,Ace Bailey,1642846.0,19.5,draftkings,259.0,3.59,0.4176,2.39,0.2603,0.2603,0.1573,,0.4992,0.2811,0.0091,0.0009,True,True,False,Lauri Markkanen,0.4995,0.3521
 401909963,MIA @ UTA,prop_ast,over,Lauri Markkanen,1628374.0,4.5,draftkings,1260.0,13.6,0.1096,9.12,0.0687,0.0687,0.0409,,0.4911,0.0741,0.008,0.0002,False,False,False,Lauri Markkanen,0.0,0.1088
+401909964,ORL @ SAC,prop_pts,over,Jamal Cain,1631288.0,17.5,draftkings,1320.0,14.2,0.1048,9.55,0.0658,0.0658,0.0389,,0.4875,0.071,0.0076,0.0001,False,False,False,Tristan da Silva,0.1657,0.0862
 401909962,LAC @ PHX,prop_ast,over,Keaton Wagler,905254165.0,5.5,draftkings,1400.0,15.0,0.099,10.1,0.0623,0.0623,0.0367,,0.4855,0.0672,0.0073,0.0001,False,True,False,,,
 401909963,MIA @ UTA,prop_ast,over,Lauri Markkanen,1628374.0,3.5,draftkings,535.0,6.35,0.2335,4.28,0.1472,0.1472,0.0864,,0.483,0.1586,0.007,0.0003,False,True,False,Lauri Markkanen,0.0,0.2353
 401909961,BOS @ PHI,moneyline,BOS,,,,unibet,-104.0,1.96,0.6738,1.48,0.488,0.5132,0.1606,4.47,0.3217,0.5132,0.0066,0.0017,True,True,True,,,
+401909964,ORL @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,17.5,draftkings,830.0,9.3,0.158,6.33,0.1005,0.1005,0.0575,,0.4691,0.1081,0.0051,0.0002,False,False,False,Domantas Sabonis,0.2358,0.1554
+401909964,ORL @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,19.5,draftkings,1340.0,14.4,0.1018,9.82,0.0649,0.0649,0.0369,,0.4657,0.0698,0.0047,0.0001,False,True,False,Domantas Sabonis,0.1614,0.0993
 401909960,MIL @ NYK,prop_ast,over,Jaime Jaquez Jr.,1631170.0,7.5,draftkings,2100.0,22.0,0.0666,15.01,0.0425,0.0425,0.0241,,0.4653,0.0457,0.0046,0.0001,False,True,False,Tyler Herro,0.0901,0.0418
 401909962,LAC @ PHX,prop_ast,over,Devin Booker,1626164.0,7.5,draftkings,482.0,5.82,0.2516,3.98,0.1606,0.1606,0.091,,0.4641,0.1726,0.0045,0.0002,False,True,False,,,
-401909964,ORL @ SAC,prop_ast,over,Wendell Carter Jr.,1628976.0,3.5,draftkings,680.0,7.8,0.1863,5.37,0.1198,0.1198,0.0665,,0.4531,0.1286,0.003,0.0001,False,True,False,,,
+401909964,ORL @ SAC,prop_pts,over,Jamal Cain,1631288.0,11.5,draftkings,284.0,3.84,0.3769,2.65,0.2434,0.2434,0.1335,,0.4472,0.261,0.0023,0.0002,False,False,False,Tristan da Silva,0.4921,0.3307
 401909962,LAC @ PHX,prop_ast,over,Keaton Wagler,905254165.0,4.5,draftkings,660.0,7.6,0.1894,5.28,0.123,0.123,0.0664,,0.4394,0.1317,0.0012,0.0,False,False,False,,,
-401909964,ORL @ SAC,prop_ast,over,Wendell Carter Jr.,1628976.0,4.5,draftkings,1680.0,17.8,0.0809,12.37,0.0525,0.0525,0.0284,,0.4393,0.0562,0.0012,0.0,False,False,False,,,
 401909965,OKC @ POR,prop_ast,over,Damian Lillard,203081.0,5.5,draftkings,243.0,3.43,0.4186,2.39,0.2725,0.2725,0.1461,,0.4357,0.2918,0.0007,0.0001,False,True,False,,,
+401909964,ORL @ SAC,prop_ast,over,Wendell Carter Jr.,1628976.0,3.5,draftkings,670.0,7.7,0.1862,5.37,0.1214,0.1214,0.0649,,0.434,0.1299,0.0005,0.0,False,True,False,,,
