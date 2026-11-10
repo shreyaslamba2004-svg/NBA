@@ -838,3 +838,5 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-10T01:50Z,NOP@GSW,69,False,none
 2026-11-10T01:55Z,SAS@PHX,4,False,espn
 2026-11-10T01:55Z,NOP@GSW,64,False,none
+2026-11-10T02:00Z,SAS@PHX,-1,False,espn
+2026-11-10T02:00Z,NOP@GSW,59,False,none

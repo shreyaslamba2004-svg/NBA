@@ -1,7 +1,7 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAS @ PHX,game over 225.5 + Dillon Brooks 15+ pra,2,0.4652,0.4049,2.47,2.59,2.37,-0.0422,1.041,2.10-2.50
-SAS @ PHX,game over 225.5 + Dillon Brooks 10+ pts,2,0.4622,0.4041,2.47,2.6,2.37,-0.043,1.041,2.10-2.50
 SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pts,2,0.5452,0.4107,2.43,2.56,2.33,-0.0442,1.0,2.10-2.50
+SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pts,2,0.4699,0.4104,2.44,2.56,2.33,-0.0449,1.029,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 15+ pra,2,0.5476,0.4108,2.43,2.56,2.32,-0.0453,0.999,2.10-2.50
 SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pr,2,0.6055,0.4652,2.15,2.26,2.05,-0.0478,1.0,1.85-2.10
 SAS @ PHX,Oso Ighodaro 6+ pts + Dillon Brooks 10+ pa,2,0.5901,0.461,2.17,2.28,2.04,-0.0589,1.006,1.85-2.10
 SAS @ PHX,Oso Ighodaro 6+ pts + Dillon Brooks 10+ pr,2,0.6125,0.4791,2.09,2.19,1.96,-0.0611,1.004,1.85-2.10
