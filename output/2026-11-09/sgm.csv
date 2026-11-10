@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 15+ pra,2,0.6317,0.4195,2.38,2.5,2.33,-0.0241,0.996,2.10-2.50
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pts,2,0.6265,0.4197,2.38,2.5,2.32,-0.0264,0.995,2.10-2.50
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pr,2,0.6942,0.4752,2.1,2.21,2.05,-0.0272,0.998,1.85-2.10
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pa,2,0.6677,0.4585,2.18,2.29,2.12,-0.0282,0.998,2.10-2.50
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7338,0.4832,2.07,2.17,1.95,-0.06,0.998,1.85-2.10
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 1+ 3pm,2,0.681,0.4538,2.2,2.31,2.07,-0.0615,0.998,1.85-2.10
-SAS @ PHX,Dillon Brooks 15+ pra + Stephon Castle 15+ pr + Luke Kornet 5+ pr,3,0.668,0.5053,1.98,2.08,1.7,-0.1404,1.007,1.65-1.85
-SAS @ PHX,Dillon Brooks 10+ pts + Stephon Castle 15+ pr + De'Aaron Fox 10+ pts,3,0.6495,0.4901,2.04,2.14,1.75,-0.1404,1.006,1.65-1.85
-SAS @ PHX,Dillon Brooks 15+ pra + Stephon Castle 15+ pr + De'Aaron Fox 10+ pts,3,0.653,0.4884,2.05,2.15,1.76,-0.1409,1.004,1.65-1.85
-SAS @ PHX,Stephon Castle 15+ pr + Dillon Brooks 10+ pa + De'Aaron Fox 10+ pts,3,0.6893,0.5331,1.88,1.97,1.6,-0.1457,1.004,1.50-1.65
-SAS @ PHX,Stephon Castle 15+ pr + Dillon Brooks 10+ pa + Luke Kornet 5+ pr,3,0.7047,0.5511,1.81,1.91,1.55,-0.1458,1.006,1.50-1.65
-SAS @ PHX,Dillon Brooks 10+ pr + Stephon Castle 15+ pr + De'Aaron Fox 10+ pts,3,0.7157,0.5518,1.81,1.9,1.55,-0.146,1.004,1.50-1.65
 NOP @ GSW,game over 229.5 + Derik Queen 15+ pr,2,0.5577,0.3875,2.58,2.71,2.44,-0.0541,1.028,2.10-2.50
 NOP @ GSW,GSW win + game under 228.5,2,0.2702,0.4074,2.45,2.58,2.32,-0.0543,1.012,2.10-2.50
 NOP @ GSW,Derik Queen 3+ ast + Karlo Matkovic 1+ 3pm,2,0.5665,0.3782,2.64,2.78,2.49,-0.0581,1.005,2.10-2.50
