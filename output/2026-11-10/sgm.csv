@@ -7,8 +7,8 @@ MIL @ NYK,NYK win + Brayden Burries 3pm under 1.5,2,0.5524,0.489,2.04,2.15,1.94,
 MIL @ NYK,NYK win + Karl-Anthony Towns 4+ ast,2,0.4785,0.4462,2.24,2.35,2.12,-0.0548,1.018,2.10-2.50
 MIL @ NYK,NYK win + Jaime Jaquez Jr. reb under 5.5,2,0.5555,0.5045,1.98,2.08,1.84,-0.07,0.999,1.65-1.85
 MIL @ NYK,Jaime Jaquez Jr. reb under 5.5 + Jalen Brunson 1+ 3pm,2,0.6263,0.5043,1.98,2.08,1.8,-0.0937,1.001,1.65-1.85
-MIL @ NYK,Jaime Jaquez Jr. reb under 5.5 + Kyle Kuzma 10+ pra,2,0.638,0.5105,1.96,2.06,1.77,-0.0949,0.999,1.65-1.85
-MIL @ NYK,NYK win + Myles Turner 1+ blk + Landry Shamet 1+ 3pm,3,0.5868,0.5715,1.75,1.84,1.51,-0.1352,1.007,1.50-1.65
+MIL @ NYK,Jaime Jaquez Jr. reb under 5.5 + Kyle Kuzma 10+ pra,2,0.638,0.5116,1.95,2.05,1.77,-0.0952,0.999,1.65-1.85
+MIL @ NYK,NYK win + Myles Turner 1+ blk + Landry Shamet 1+ 3pm,3,0.5868,0.5694,1.76,1.84,1.52,-0.1347,1.007,1.50-1.65
 BOS @ PHI,BOS win + Sam Hauser 5+ pr,2,0.6239,0.4226,2.37,2.48,2.28,-0.0351,1.007,2.10-2.50
 BOS @ PHI,BOS win + Payton Pritchard 10+ pra,2,0.6452,0.4679,2.14,2.24,2.04,-0.0439,1.009,1.85-2.10
 BOS @ PHI,BOS win + Jayson Tatum 4+ reb,2,0.641,0.4521,2.21,2.32,2.11,-0.048,1.0,2.10-2.50
@@ -52,14 +52,14 @@ ORL @ SAC,Franz Wagner ast under 8.5 + Darius Acuff Jr. 20+ pra,2,0.7215,0.5207,
 ORL @ SAC,ORL win + Wendell Carter Jr. 15+ pra,2,0.5277,0.5918,1.69,1.77,1.56,-0.0766,1.012,1.50-1.65
 ORL @ SAC,ORL win + Precious Achiuwa 4+ reb,2,0.5181,0.5681,1.76,1.85,1.62,-0.0812,1.003,1.50-1.65
 ORL @ SAC,ORL win + Malik Monk 5+ pa,2,0.5382,0.6044,1.65,1.74,1.51,-0.0896,0.998,1.50-1.65
-OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5533,0.4252,2.35,2.47,2.24,-0.0463,1.012,2.10-2.50
-OKC @ POR,game over 226.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3952,0.3954,2.53,2.66,2.41,-0.0484,1.028,2.10-2.50
-OKC @ POR,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5266,0.3987,2.51,2.63,2.37,-0.0534,1.012,2.10-2.50
-OKC @ POR,OKC win + Kenrich Williams 5+ pa,2,0.5555,0.4672,2.14,2.25,2.01,-0.0594,1.013,1.85-2.10
+OKC @ POR,game over 226.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3952,0.3974,2.52,2.64,2.41,-0.042,1.028,2.10-2.50
+OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5533,0.4246,2.36,2.47,2.25,-0.046,1.012,2.10-2.50
+OKC @ POR,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5266,0.3982,2.51,2.64,2.38,-0.0531,1.012,2.10-2.50
+OKC @ POR,OKC win + Kenrich Williams 5+ pa,2,0.5555,0.4668,2.14,2.25,2.02,-0.0593,1.013,1.85-2.10
+OKC @ POR,game over 226.5 + Isaiah Hartenstein 10+ pr,2,0.4191,0.461,2.17,2.28,2.03,-0.0653,1.018,1.85-2.10
 OKC @ POR,OKC win + Isaiah Hartenstein 10+ pr,2,0.5892,0.4946,2.02,2.12,1.89,-0.0653,1.006,1.85-2.10
-OKC @ POR,game over 226.5 + Isaiah Hartenstein 10+ pr,2,0.4191,0.4581,2.18,2.29,2.03,-0.0713,1.018,1.85-2.10
 OKC @ POR,Donovan Clingan ra under 13.5 + Isaiah Hartenstein 10+ pr,2,0.6586,0.5001,2.0,2.1,1.83,-0.0842,0.997,1.65-1.85
-OKC @ POR,Donovan Clingan reb under 11.5 + Isaiah Hartenstein 10+ pr,2,0.6515,0.4994,2.0,2.1,1.83,-0.0884,0.997,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7019,0.5867,1.7,1.79,1.53,-0.1009,1.0,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Aday Mara 1+ blk,3,0.6361,0.4806,2.08,2.18,1.78,-0.1448,1.001,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Kenrich Williams 5+ pa,3,0.7054,0.539,1.86,1.95,1.58,-0.1464,1.001,1.50-1.65
+OKC @ POR,Donovan Clingan ra under 13.5 + Toumani Camara 5+ pa,2,0.6716,0.5084,1.97,2.07,1.8,-0.0844,0.997,1.65-1.85
+OKC @ POR,Ajay Mitchell pts under 19.5 + Toumani Camara 5+ pa,2,0.6439,0.4981,2.01,2.11,1.83,-0.0877,1.0,1.65-1.85
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7019,0.5836,1.71,1.8,1.54,-0.1001,1.0,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Kenrich Williams 5+ pa,3,0.7054,0.5366,1.86,1.96,1.59,-0.1459,1.001,1.50-1.65
