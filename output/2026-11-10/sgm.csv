@@ -14,7 +14,7 @@ BOS @ PHI,BOS win + Sam Hauser 5+ pr,2,0.6215,0.4247,2.35,2.47,2.27,-0.0346,1.00
 BOS @ PHI,PHI win + LeBron James 15+ pr,2,0.2963,0.4162,2.4,2.52,2.31,-0.0397,1.032,2.10-2.50
 BOS @ PHI,BOS win + Payton Pritchard 10+ pra,2,0.6414,0.4636,2.16,2.26,2.06,-0.0442,1.008,1.85-2.10
 BOS @ PHI,BOS win + Jayson Tatum 4+ reb,2,0.637,0.4608,2.17,2.28,2.06,-0.051,1.001,1.85-2.10
-BOS @ PHI,game over 217.5 + Payton Pritchard 10+ pra,2,0.524,0.4542,2.2,2.31,2.05,-0.0681,1.013,1.85-2.10
+BOS @ PHI,game over 218.5 + Payton Pritchard 10+ pra,2,0.5048,0.4539,2.2,2.31,2.05,-0.0686,1.015,1.85-2.10
 LAC @ PHX,PHX win + Dillon Brooks 1+ 3pm,2,0.3724,0.4968,2.01,2.11,1.88,-0.0636,1.014,1.85-2.10
 LAC @ PHX,PHX win + Jalen Green 1+ 3pm,2,0.3487,0.4649,2.15,2.26,2.01,-0.0647,1.012,1.85-2.10
 LAC @ PHX,PHX win + Dillon Brooks 10+ pr,2,0.4039,0.5403,1.85,1.94,1.72,-0.0702,1.007,1.65-1.85
@@ -49,15 +49,15 @@ ORL @ SAC,Precious Achiuwa 8+ pts + Desmond Bane 15+ pra,2,0.682,0.5016,1.99,2.0
 ORL @ SAC,Franz Wagner ast under 8.5 + Wendell Carter Jr. 15+ pra,2,0.6869,0.505,1.98,2.08,1.82,-0.0816,0.997,1.65-1.85
 ORL @ SAC,ORL win + Darius Acuff Jr. 4+ ast,2,0.461,0.5761,1.74,1.82,1.56,-0.102,0.986,1.50-1.65
 ORL @ SAC,ORL win + Wendell Carter Jr. 15+ pra + Desmond Bane 15+ pra,3,0.4687,0.552,1.81,1.9,1.6,-0.1157,1.029,1.50-1.65
-OKC @ POR,game over 226.5 + Kenrich Williams 10+ pra,2,0.3619,0.4044,2.47,2.6,2.37,-0.0403,1.052,2.10-2.50
-OKC @ POR,game over 226.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3883,0.3919,2.55,2.68,2.45,-0.0415,1.033,2.10-2.50
-OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5625,0.4195,2.38,2.5,2.28,-0.044,1.012,2.10-2.50
-OKC @ POR,OKC win + Jared McCain 10+ pra,2,0.5733,0.4716,2.12,2.23,2.0,-0.0577,1.014,1.85-2.10
-OKC @ POR,OKC win + Kenrich Williams 5+ pa,2,0.5662,0.4581,2.18,2.29,2.05,-0.0596,1.009,1.85-2.10
-OKC @ POR,OKC win + Alex Caruso 5+ pr,2,0.5748,0.4633,2.16,2.27,2.03,-0.0612,1.007,1.85-2.10
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra,2,0.7115,0.5928,1.69,1.77,1.52,-0.0974,1.003,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7087,0.5878,1.7,1.79,1.53,-0.0995,1.0,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Kenrich Williams 5+ pa,3,0.7103,0.544,1.84,1.93,1.57,-0.144,1.004,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Kenrich Williams 10+ pra,3,0.6457,0.5045,1.98,2.08,1.7,-0.1446,1.007,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Aday Mara 1+ blk,3,0.6434,0.5004,2.0,2.1,1.71,-0.1463,1.004,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Jared McCain 10+ pra + Kenrich Williams 10+ pra,3,0.6399,0.5103,1.96,2.06,1.67,-0.147,1.007,1.65-1.85
+OKC @ POR,game over 226.5 + Kenrich Williams 10+ pra,2,0.3619,0.4025,2.48,2.61,2.39,-0.0395,1.052,2.10-2.50
+OKC @ POR,game over 226.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3883,0.3886,2.57,2.7,2.47,-0.0401,1.033,2.10-2.50
+OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5625,0.4159,2.4,2.52,2.3,-0.0425,1.012,2.10-2.50
+OKC @ POR,OKC win + Jared McCain 10+ pra,2,0.5733,0.4723,2.12,2.22,1.99,-0.0579,1.014,1.85-2.10
+OKC @ POR,OKC win + Kenrich Williams 5+ pa,2,0.5662,0.4557,2.19,2.3,2.07,-0.0588,1.009,1.85-2.10
+OKC @ POR,OKC win + Alex Caruso 5+ pr,2,0.5748,0.4651,2.15,2.26,2.02,-0.0618,1.007,1.85-2.10
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra,2,0.7115,0.585,1.71,1.79,1.55,-0.0953,1.003,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7087,0.586,1.71,1.79,1.54,-0.0988,1.0,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa + Jared McCain 10+ pr,3,0.6645,0.5097,1.96,2.06,1.68,-0.1419,1.007,1.65-1.85
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Jared McCain 10+ pr,3,0.6767,0.5219,1.92,2.01,1.64,-0.142,1.008,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Jared McCain 10+ pr + Kenrich Williams 10+ pra,3,0.6039,0.4729,2.11,2.22,1.81,-0.1428,1.009,1.65-1.85
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Kenrich Williams 10+ pra,3,0.6457,0.4998,2.0,2.1,1.71,-0.1431,1.007,1.65-1.85
