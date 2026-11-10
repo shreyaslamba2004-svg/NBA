@@ -1,7 +1,7 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 15+ pra,2,0.4248,0.4005,2.5,2.62,2.4,-0.0408,1.017,2.10-2.50
-DEN @ HOU,game over 223.5 + Fred VanVleet 15+ pra,2,0.4991,0.4099,2.44,2.56,2.34,-0.0415,1.04,2.10-2.50
 DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 10+ pr,2,0.4406,0.4103,2.44,2.56,2.34,-0.0419,1.014,2.10-2.50
+DEN @ HOU,Amen Thompson 16+ pts + Jabari Smith Jr. 10+ pts,2,0.4257,0.4023,2.49,2.61,2.38,-0.0422,1.016,2.10-2.50
 DEN @ HOU,HOU win + Fred VanVleet 15+ pra,2,0.503,0.4945,2.02,2.12,1.91,-0.0538,1.029,1.85-2.10
 DEN @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5022,0.4949,2.02,2.12,1.9,-0.0588,1.025,1.85-2.10
 DEN @ HOU,Kevin Durant pts under 21.5 + Nikola Jokic 6+ reb,2,0.482,0.4556,2.19,2.3,2.06,-0.0606,0.999,1.85-2.10
@@ -11,18 +11,18 @@ DEN @ HOU,Kevin Durant 4+ reb + Fred VanVleet 15+ pra + Jabari Smith Jr. 10+ pts
 DEN @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Nikola Jokic 8+ reb,3,0.6659,0.5295,1.89,1.98,1.61,-0.1458,1.009,1.50-1.65
 DEN @ HOU,Kevin Durant 4+ reb + Fred VanVleet 10+ pr + Alperen Sengun 6+ reb,3,0.6576,0.5194,1.93,2.02,1.64,-0.1491,1.004,1.50-1.65
 DEN @ HOU,Alperen Sengun 6+ reb + Fred VanVleet 15+ pra + Jabari Smith Jr. 10+ pts,3,0.6437,0.524,1.91,2.0,1.62,-0.1492,1.009,1.50-1.65
-SAS @ PHX,game over 226.5 + Dillon Brooks 15+ pra,2,0.4486,0.4,2.5,2.63,2.4,-0.042,1.04,2.10-2.50
-SAS @ PHX,game over 226.5 + De'Aaron Fox 10+ pts,2,0.4333,0.4053,2.47,2.59,2.35,-0.0461,1.044,2.10-2.50
-SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pts,2,0.4724,0.41,2.44,2.56,2.32,-0.047,1.024,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 15+ pra,2,0.6317,0.4186,2.39,2.51,2.33,-0.0238,0.996,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pts,2,0.6265,0.419,2.39,2.51,2.32,-0.0261,0.995,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pr,2,0.6942,0.4748,2.11,2.21,2.05,-0.027,0.998,1.85-2.10
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pa,2,0.6677,0.4576,2.19,2.29,2.12,-0.0278,0.998,2.10-2.50
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7338,0.477,2.1,2.2,1.98,-0.0572,0.998,1.85-2.10
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pa,2,0.7053,0.4594,2.18,2.29,2.05,-0.0587,0.997,1.85-2.10
-SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pr,2,0.5131,0.4554,2.2,2.31,2.05,-0.0667,1.007,1.85-2.10
-SAS @ PHX,SAS win + De'Aaron Fox 10+ pts,2,0.6229,0.5993,1.67,1.75,1.55,-0.0683,1.019,1.50-1.65
-SAS @ PHX,Devin Booker 5+ ast + Dillon Brooks 10+ pr,2,0.6485,0.5088,1.97,2.06,1.79,-0.0883,1.002,1.65-1.85
-SAS @ PHX,SAS win + Dillon Brooks 15+ pra,2,0.6269,0.5747,1.74,1.83,1.58,-0.0906,0.987,1.50-1.65
-SAS @ PHX,SAS win + Devin Booker 1+ 3pm,2,0.6215,0.5975,1.67,1.76,1.52,-0.0922,0.993,1.50-1.65
-SAS @ PHX,SAS win + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.5637,0.4973,2.01,2.11,1.81,-0.1022,1.036,1.65-1.85
-SAS @ PHX,SAS win + De'Aaron Fox 10+ pts + Stephon Castle 15+ pa,3,0.5599,0.5029,1.99,2.09,1.78,-0.1032,1.038,1.65-1.85
+SAS @ PHX,Dillon Brooks 10+ pts + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.658,0.5011,2.0,2.1,1.71,-0.1424,1.006,1.65-1.85
+SAS @ PHX,Dillon Brooks 15+ pra + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.6618,0.4994,2.0,2.1,1.72,-0.1424,1.004,1.65-1.85
+SAS @ PHX,Dillon Brooks 15+ pra + De'Aaron Fox 10+ pts + Stephon Castle 15+ pa,3,0.6569,0.5048,1.98,2.08,1.7,-0.1439,1.005,1.65-1.85
+SAS @ PHX,Dillon Brooks 10+ pa + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.6985,0.545,1.83,1.93,1.56,-0.1473,1.004,1.50-1.65
+SAS @ PHX,Dillon Brooks 10+ pr + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.7252,0.5648,1.77,1.86,1.51,-0.1477,1.003,1.50-1.65
+SAS @ PHX,Dillon Brooks 10+ pa + De'Aaron Fox 10+ pts + Stephon Castle 15+ pa,3,0.6929,0.5506,1.82,1.91,1.55,-0.1492,1.005,1.50-1.65
 NOP @ GSW,game over 229.5 + Derik Queen 15+ pr,2,0.5523,0.3875,2.58,2.71,2.44,-0.0549,1.028,2.10-2.50
 NOP @ GSW,GSW win + game under 228.5,2,0.2753,0.406,2.46,2.59,2.32,-0.0574,1.008,2.10-2.50
 NOP @ GSW,GSW win + Karlo Matkovic 5+ reb,2,0.5569,0.4678,2.14,2.24,2.01,-0.0593,1.001,1.85-2.10

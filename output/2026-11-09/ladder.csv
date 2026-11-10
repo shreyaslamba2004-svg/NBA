@@ -1065,7 +1065,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,21.5,False,0.6149,0.5887,est,0.5922
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,22.5,False,0.5728,0.546,est,0.5495
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,23.5,True,0.5291,0.5019,book,0.5055
-401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,24.5,False,0.4879,0.4607,est,0.4643
+401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,24.5,False,0.4879,0.4851,book,0.4855
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,25.5,False,0.4464,0.4196,est,0.4231
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,26.5,False,0.4087,0.3826,est,0.3861
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,pts,27.5,False,0.3685,0.3434,est,0.3467
@@ -1129,13 +1129,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,ra,10.5,False,0.3897,0.2779,est,0.2926
 401909958,SAS @ PHX,PHX,1626164,Devin Booker,ra,11.5,False,0.2939,0.2005,est,0.2128
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,11.5,False,0.6674,0.6918,book,0.6886
-401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,12.5,False,0.6007,0.6579,est,0.6504
-401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,13.5,False,0.5365,0.5968,est,0.5888
-401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,14.5,False,0.4746,0.5282,book,0.5211
-401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,15.5,True,0.4147,0.4753,book,0.4673
-401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,16.5,False,0.3618,0.4202,est,0.4125
+401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,12.5,False,0.6007,0.661,est,0.653
+401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,13.5,False,0.5365,0.6,est,0.5917
+401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,14.5,False,0.4746,0.5215,book,0.5153
+401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,15.5,True,0.4147,0.4787,book,0.4702
+401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,16.5,False,0.3618,0.4236,est,0.4154
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,17.5,False,0.3108,0.3679,book,0.3604
-401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,18.5,False,0.2642,0.3146,est,0.3079
+401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,18.5,False,0.2642,0.3175,est,0.3105
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,pts,19.5,False,0.2223,0.2733,book,0.2666
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,reb,3.5,False,0.8743,0.8163,book,0.824
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,reb,4.5,False,0.7707,0.7055,book,0.7141
@@ -1195,15 +1195,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,ra,10.5,False,0.4178,0.359,est,0.3668
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,ra,11.5,False,0.3201,0.2688,est,0.2756
 401909958,SAS @ PHX,PHX,1628970,Miles Bridges,ra,12.5,False,0.2384,0.1964,est,0.2019
-401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,10.5,False,0.8275,0.7609,est,0.7697
+401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,10.5,False,0.8275,0.7625,est,0.7711
 401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,11.5,False,0.7764,0.6691,book,0.6833
-401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,12.5,False,0.7207,0.6313,est,0.6431
-401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,13.5,False,0.6629,0.5662,est,0.5789
-401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,14.5,True,0.6058,0.5049,book,0.5182
-401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,15.5,False,0.5458,0.4437,est,0.4572
-401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,16.5,False,0.49,0.3893,est,0.4026
+401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,12.5,False,0.7207,0.6334,est,0.6449
+401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,13.5,False,0.6629,0.5683,est,0.5808
+401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,14.5,True,0.6058,0.5071,book,0.5201
+401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,15.5,False,0.5458,0.4863,book,0.4942
+401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,16.5,False,0.49,0.3914,est,0.4044
 401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,17.5,False,0.4382,0.3474,book,0.3594
-401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,18.5,False,0.3869,0.2951,est,0.3072
+401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,pts,18.5,False,0.3869,0.297,est,0.3088
 401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,reb,0.5,False,0.9786,0.9681,est,0.9695
 401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,reb,1.5,False,0.9041,0.862,est,0.8675
 401909958,SAS @ PHX,PHX,1628415,Dillon Brooks,reb,2.5,False,0.7617,0.6691,book,0.6813
@@ -1325,15 +1325,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1642346,Ryan Dunn,ra,6.5,False,0.2887,,model only,0.2887
 401909958,SAS @ PHX,PHX,1642346,Ryan Dunn,ra,7.5,False,0.1946,,model only,0.1946
 401909958,SAS @ PHX,PHX,1642346,Ryan Dunn,ra,8.5,False,0.1255,,model only,0.1255
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,4.5,False,0.841,0.8263,est,0.8282
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,5.5,False,0.7619,0.742,est,0.7446
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,6.5,False,0.6718,0.648,est,0.6511
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,7.5,False,0.5826,0.5565,est,0.5599
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,8.5,True,0.4916,0.465,book,0.4685
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,9.5,False,0.4069,0.3815,est,0.3848
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,10.5,False,0.3333,0.3101,est,0.3132
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,11.5,False,0.269,0.2486,est,0.2513
-401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,12.5,False,0.214,0.1966,est,0.1989
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,4.5,False,0.841,0.8315,est,0.8328
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,5.5,False,0.7619,0.749,est,0.7507
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,6.5,False,0.6718,0.6563,est,0.6584
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,7.5,False,0.5826,0.5656,est,0.5678
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,8.5,True,0.4916,0.4742,book,0.4765
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,9.5,False,0.4069,0.3902,est,0.3924
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,10.5,False,0.3333,0.3181,est,0.3201
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,11.5,False,0.269,0.2555,est,0.2573
+401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,pts,12.5,False,0.214,0.2025,est,0.204
 401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,reb,0.5,False,0.9419,0.9407,est,0.9408
 401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,reb,1.5,False,0.7903,0.7864,est,0.7869
 401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,reb,2.5,True,0.5875,0.5819,book,0.5826
@@ -1392,15 +1392,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,ra,7.5,False,0.3759,0.3482,est,0.3518
 401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,ra,8.5,False,0.2744,0.2512,est,0.2543
 401909958,SAS @ PHX,PHX,1631221,Collin Gillespie,ra,9.5,False,0.1917,0.1738,est,0.1761
-401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,10.5,False,0.7832,0.7488,est,0.7534
+401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,10.5,False,0.7832,0.7557,est,0.7593
 401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,11.5,False,0.7311,0.675,book,0.6824
-401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,12.5,False,0.6737,0.6302,est,0.6359
-401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,13.5,False,0.6119,0.5655,est,0.5716
-401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,14.5,True,0.5517,0.5039,book,0.5102
-401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,15.5,False,0.4952,0.4474,est,0.4538
-401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,16.5,False,0.442,0.3954,est,0.4015
+401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,12.5,False,0.6737,0.6387,est,0.6433
+401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,13.5,False,0.6119,0.5745,est,0.5794
+401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,14.5,True,0.5517,0.5131,book,0.5182
+401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,15.5,False,0.4952,0.4797,book,0.4818
+401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,16.5,False,0.442,0.4042,est,0.4092
 401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,17.5,False,0.3912,0.3423,book,0.3488
-401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,18.5,False,0.3429,0.301,est,0.3066
+401909958,SAS @ PHX,PHX,1630224,Jalen Green,pts,18.5,False,0.3429,0.3088,est,0.3133
 401909958,SAS @ PHX,PHX,1630224,Jalen Green,reb,0.5,False,0.9797,0.9749,est,0.9755
 401909958,SAS @ PHX,PHX,1630224,Jalen Green,reb,1.5,False,0.9057,0.8851,est,0.8879
 401909958,SAS @ PHX,PHX,1630224,Jalen Green,reb,2.5,False,0.767,0.7162,book,0.7229
@@ -1463,7 +1463,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.8181,0.7649,est,0.7719
 401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.7146,0.6442,est,0.6535
 401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,5.5,True,0.6025,0.5229,book,0.5334
-401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,False,0.4921,0.412,est,0.4226
+401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,False,0.4921,0.4669,book,0.4702
 401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,7.5,False,0.3889,0.3411,book,0.3474
 401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.3019,0.2382,est,0.2466
 401909958,SAS @ PHX,PHX,1642345,Oso Ighodaro,pts,9.5,False,0.2285,0.2045,book,0.2077
@@ -1589,15 +1589,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1628379,Luke Kennard,ra,4.5,False,0.3304,,model only,0.3304
 401909958,SAS @ PHX,PHX,1628379,Luke Kennard,ra,5.5,False,0.2074,,model only,0.2074
 401909958,SAS @ PHX,PHX,1628379,Luke Kennard,ra,6.5,False,0.1234,,model only,0.1234
-401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,2.5,False,0.8211,0.8616,est,0.8563
-401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,3.5,False,0.7141,0.7721,est,0.7645
-401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,4.5,False,0.6009,0.6713,est,0.662
-401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,5.5,False,0.4906,0.5607,book,0.5514
-401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,6.5,True,0.3905,0.465,book,0.4552
+401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,2.5,False,0.8211,0.8653,est,0.8595
+401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,3.5,False,0.7141,0.7777,est,0.7693
+401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,4.5,False,0.6009,0.6783,est,0.6681
+401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,5.5,False,0.4906,0.5497,book,0.5419
+401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,6.5,True,0.3905,0.4729,book,0.462
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,7.5,False,0.2991,0.383,book,0.3719
-401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,8.5,False,0.2243,0.2817,est,0.2741
+401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,8.5,False,0.2243,0.2882,est,0.2797
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,9.5,False,0.1671,0.2434,book,0.2333
-401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,10.5,False,0.1216,0.1581,est,0.1532
+401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,pts,10.5,False,0.1216,0.1623,est,0.1569
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,reb,2.5,False,0.8264,0.8616,book,0.8569
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,reb,3.5,False,0.7118,0.7647,book,0.7577
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,reb,4.5,False,0.58,0.6434,book,0.635
@@ -1654,15 +1654,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,ra,7.5,False,0.3246,,model only,0.3246
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,ra,8.5,False,0.2381,,model only,0.2381
 401909958,SAS @ PHX,PHX,1642863,Khaman Maluach,ra,9.5,False,0.1703,,model only,0.1703
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,1.5,False,0.8962,,model only,0.8962
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,2.5,False,0.7937,,model only,0.7937
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,3.5,False,0.6695,,model only,0.6695
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,4.5,False,0.5435,,model only,0.5435
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,5.5,False,0.4276,,model only,0.4276
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,6.5,False,0.3297,,model only,0.3297
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,7.5,False,0.2435,,model only,0.2435
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,8.5,False,0.1762,,model only,0.1762
-401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,9.5,False,0.1268,,model only,0.1268
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,1.5,False,0.8962,0.9204,est,0.9172
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,2.5,False,0.7937,0.8374,est,0.8316
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,3.5,False,0.6695,0.7306,est,0.7225
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,4.5,False,0.5435,0.6145,est,0.6051
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,5.5,True,0.4276,0.5,book,0.4904
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,6.5,False,0.3297,0.397,est,0.3881
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,7.5,False,0.2435,0.3011,est,0.2935
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,8.5,False,0.1762,0.2225,est,0.2164
+401909958,SAS @ PHX,SAS,203084,Harrison Barnes,pts,9.5,False,0.1268,0.1628,est,0.158
 401909958,SAS @ PHX,SAS,203084,Harrison Barnes,reb,0.5,False,0.8249,,model only,0.8249
 401909958,SAS @ PHX,SAS,203084,Harrison Barnes,reb,1.5,False,0.5619,,model only,0.5619
 401909958,SAS @ PHX,SAS,203084,Harrison Barnes,reb,2.5,False,0.3295,,model only,0.3295
@@ -1781,15 +1781,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,SAS,1642868,Carter Bryant,ra,4.5,False,0.2585,,model only,0.2585
 401909958,SAS @ PHX,SAS,1642868,Carter Bryant,ra,5.5,False,0.1522,,model only,0.1522
 401909958,SAS @ PHX,SAS,1642868,Carter Bryant,ra,6.5,False,0.0877,,model only,0.0877
-401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,11.5,False,0.8067,0.7192,book,0.7307
-401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,12.5,False,0.7568,0.6978,est,0.7056
-401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,13.5,False,0.7051,0.6396,est,0.6483
+401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,12.5,False,0.7568,0.7155,est,0.721
+401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,13.5,False,0.7051,0.6591,est,0.6651
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,14.5,False,0.6497,0.5681,book,0.5789
-401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,15.5,True,0.5927,0.5192,book,0.5289
-401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,16.5,False,0.5342,0.4598,est,0.4696
+401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,15.5,False,0.5927,0.5203,book,0.5299
+401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,16.5,True,0.5342,0.4811,book,0.4881
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,17.5,False,0.4797,0.4135,book,0.4222
-401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,18.5,False,0.4279,0.357,est,0.3664
+401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,18.5,False,0.4279,0.3768,est,0.3836
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,19.5,False,0.3781,0.3168,book,0.3249
+401909958,SAS @ PHX,SAS,1642264,Stephon Castle,pts,20.5,False,0.3309,0.2856,est,0.2915
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,reb,1.5,False,0.9655,0.9504,est,0.9524
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,reb,2.5,False,0.8958,0.8132,book,0.8241
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,reb,3.5,False,0.7878,0.6918,book,0.7045
@@ -1849,14 +1849,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,ra,12.5,False,0.3851,0.3388,est,0.3449
 401909958,SAS @ PHX,SAS,1642264,Stephon Castle,ra,13.5,False,0.2998,0.2594,est,0.2648
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,7.5,False,0.6083,0.7327,book,0.7163
-401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,8.5,False,0.514,0.713,est,0.6868
+401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,8.5,False,0.514,0.7233,est,0.6957
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,9.5,False,0.4259,0.6032,book,0.5798
-401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,10.5,False,0.3448,0.5529,est,0.5254
-401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,11.5,True,0.2774,0.4742,book,0.4482
-401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,12.5,False,0.2174,0.3949,est,0.3714
-401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,13.5,False,0.1677,0.3213,est,0.3011
+401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,10.5,False,0.3448,0.5654,est,0.5363
+401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,11.5,True,0.2774,0.4869,book,0.4592
+401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,12.5,False,0.2174,0.4071,est,0.3821
+401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,13.5,False,0.1677,0.3325,est,0.3108
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,14.5,False,0.128,0.3025,book,0.2795
-401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,15.5,False,0.0966,0.2008,est,0.187
+401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,pts,15.5,False,0.0966,0.2091,est,0.1942
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,reb,2.5,False,0.8103,0.843,book,0.8387
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,reb,3.5,False,0.6528,0.7255,book,0.7159
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,reb,4.5,False,0.4871,0.5806,book,0.5683
@@ -1915,15 +1915,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,ra,7.5,False,0.2845,,model only,0.2845
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,ra,8.5,False,0.1926,,model only,0.1926
 401909958,SAS @ PHX,SAS,1630577,Julian Champagnie,ra,9.5,False,0.122,,model only,0.122
-401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,10.5,False,0.7917,0.7548,est,0.7597
+401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,10.5,False,0.7917,0.7511,est,0.7565
 401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,11.5,False,0.7376,0.6728,book,0.6814
-401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,12.5,False,0.6747,0.6268,est,0.6331
-401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,13.5,False,0.6134,0.5624,est,0.5691
-401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,14.5,True,0.5504,0.4979,book,0.5048
-401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,15.5,False,0.4917,0.4393,est,0.4462
-401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,16.5,False,0.4301,0.3793,est,0.386
+401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,12.5,False,0.6747,0.6221,est,0.6291
+401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,13.5,False,0.6134,0.548,book,0.5566
+401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,14.5,True,0.5504,0.4929,book,0.5005
+401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,15.5,False,0.4917,0.4344,est,0.442
+401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,16.5,False,0.4301,0.3746,est,0.3819
 401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,17.5,False,0.3757,0.3291,book,0.3352
-401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,18.5,False,0.3241,0.2797,est,0.2856
+401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,pts,18.5,False,0.3241,0.2757,est,0.2821
 401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,reb,0.5,False,0.9729,0.9686,est,0.9692
 401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,reb,1.5,False,0.8812,0.8644,est,0.8666
 401909958,SAS @ PHX,SAS,1628368,De'Aaron Fox,reb,2.5,False,0.7186,0.6721,book,0.6782
@@ -1988,7 +1988,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,14.5,False,0.6614,0.6217,est,0.6269
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,15.5,False,0.604,0.562,est,0.5676
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,16.5,True,0.547,0.5039,book,0.5096
-401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,17.5,False,0.4936,0.4505,est,0.4562
+401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,17.5,False,0.4936,0.4797,book,0.4815
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,18.5,False,0.4421,0.4,est,0.4056
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,19.5,False,0.3945,0.354,est,0.3594
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,pts,20.5,False,0.3465,0.3085,est,0.3135
@@ -2051,14 +2051,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,ra,11.5,False,0.2833,0.2932,est,0.2919
 401909958,SAS @ PHX,SAS,1642844,Dylan Harper,ra,12.5,False,0.2037,0.2115,est,0.2105
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,7.5,False,0.7086,0.7314,book,0.7284
-401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,8.5,False,0.629,0.7046,est,0.6946
+401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,8.5,False,0.629,0.7084,est,0.6979
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,9.5,False,0.5412,0.6043,book,0.596
-401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,10.5,False,0.4606,0.5456,est,0.5344
-401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,11.5,True,0.3907,0.4742,book,0.4632
-401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,12.5,False,0.3245,0.4032,est,0.3928
-401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,13.5,False,0.2627,0.3338,est,0.3245
+401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,10.5,False,0.4606,0.5306,book,0.5214
+401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,11.5,True,0.3907,0.4788,book,0.4672
+401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,12.5,False,0.3245,0.4076,est,0.3967
+401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,13.5,False,0.2627,0.338,est,0.328
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,14.5,False,0.2117,0.2948,book,0.2838
-401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,15.5,False,0.1685,0.2218,est,0.2148
+401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,pts,15.5,False,0.1685,0.225,est,0.2176
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,reb,2.5,False,0.8752,0.8526,book,0.8556
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,reb,3.5,False,0.7555,0.7513,book,0.7519
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,reb,4.5,False,0.6084,0.622,book,0.6202
@@ -2117,15 +2117,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,ra,8.5,False,0.3217,,model only,0.3217
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,ra,9.5,False,0.2276,,model only,0.2276
 401909958,SAS @ PHX,SAS,1629640,Keldon Johnson,ra,10.5,False,0.1538,,model only,0.1538
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,0.5,False,0.9474,,model only,0.9474
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,1.5,False,0.8451,,model only,0.8451
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,2.5,False,0.7065,,model only,0.7065
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,3.5,False,0.5553,,model only,0.5553
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,4.5,False,0.4174,,model only,0.4174
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,5.5,False,0.3026,,model only,0.3026
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,6.5,False,0.2099,,model only,0.2099
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,7.5,False,0.1427,,model only,0.1427
-401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,8.5,False,0.0969,,model only,0.0969
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,0.5,False,0.9474,0.9646,est,0.9624
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,1.5,False,0.8451,0.892,est,0.8858
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,2.5,False,0.7065,0.7847,est,0.7744
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,3.5,False,0.5553,0.5441,book,0.5456
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,4.5,True,0.4174,0.5203,book,0.5067
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,5.5,False,0.3026,0.3964,est,0.384
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,6.5,False,0.2099,0.2869,est,0.2767
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,7.5,False,0.1427,0.2013,est,0.1936
+401909958,SAS @ PHX,SAS,1628436,Luke Kornet,pts,8.5,False,0.0969,0.1398,est,0.1341
 401909958,SAS @ PHX,SAS,1628436,Luke Kornet,reb,2.5,False,0.8151,,model only,0.8151
 401909958,SAS @ PHX,SAS,1628436,Luke Kornet,reb,3.5,False,0.6919,,model only,0.6919
 401909958,SAS @ PHX,SAS,1628436,Luke Kornet,reb,4.5,False,0.5586,,model only,0.5586
@@ -2244,15 +2244,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909958,SAS @ PHX,SAS,1629162,Jordan McLaughlin,ra,4.5,False,0.269,,model only,0.269
 401909958,SAS @ PHX,SAS,1629162,Jordan McLaughlin,ra,5.5,False,0.1686,,model only,0.1686
 401909958,SAS @ PHX,SAS,1629162,Jordan McLaughlin,ra,6.5,False,0.0983,,model only,0.0983
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,22.5,False,0.6545,0.6559,est,0.6557
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,23.5,False,0.6151,0.6166,est,0.6164
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,24.5,False,0.5767,0.5783,est,0.5781
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,25.5,False,0.539,0.5406,est,0.5404
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,26.5,True,0.5003,0.5019,book,0.5017
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,27.5,False,0.464,0.4655,est,0.4653
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,28.5,False,0.4276,0.4291,est,0.4289
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,29.5,False,0.3944,0.3959,est,0.3957
-401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,30.5,False,0.3601,0.3616,est,0.3614
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,22.5,False,0.6545,0.6659,est,0.6644
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,23.5,False,0.6151,0.6271,est,0.6255
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,24.5,False,0.5767,0.5892,est,0.5875
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,25.5,False,0.539,0.5517,est,0.55
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,26.5,True,0.5003,0.5131,book,0.5114
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,27.5,False,0.464,0.4767,est,0.475
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,28.5,False,0.4276,0.4401,est,0.4385
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,29.5,False,0.3944,0.4067,est,0.4051
+401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,pts,30.5,False,0.3601,0.372,est,0.3704
 401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,reb,8.5,False,0.8216,0.7767,book,0.7826
 401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,reb,9.5,False,0.7453,0.6998,book,0.7058
 401909958,SAS @ PHX,SAS,1641705,Victor Wembanyama,reb,10.5,False,0.6594,0.6134,book,0.6195
