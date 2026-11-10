@@ -1,0 +1,20 @@
+matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+MIL @ NYK,game under 219.5 + NYK win,2,0.4328,0.4418,2.26,2.38,2.12,-0.0634,1.004,2.10-2.50
+MIL @ NYK,NYK win + game under 220.5,2,0.4492,0.4522,2.21,2.32,2.04,-0.0777,1.005,1.85-2.10
+MIL @ NYK,NYK win + game over 219.5,2,0.3838,0.4385,2.28,2.39,2.08,-0.0867,0.996,1.85-2.10
+BOS @ PHI,BOS win + Paul George 10+ pts,2,0.6172,0.4526,2.21,2.32,2.13,-0.0344,1.017,2.10-2.50
+BOS @ PHI,BOS win + Payton Pritchard 10+ pra,2,0.6395,0.4657,2.15,2.25,2.05,-0.0431,1.006,1.85-2.10
+BOS @ PHI,BOS win + Jayson Tatum 4+ reb,2,0.6376,0.4531,2.21,2.32,2.11,-0.0448,1.0,2.10-2.50
+BOS @ PHI,BOS win + Jaylen Brown 1+ 3pm,2,0.559,0.4089,2.45,2.57,2.3,-0.0594,0.99,2.10-2.50
+BOS @ PHI,BOS win + Joel Embiid 10+ pts,2,0.6212,0.4552,2.2,2.31,2.06,-0.0611,0.988,1.85-2.10
+BOS @ PHI,BOS -1.5 + Payton Pritchard 10+ pra,2,0.6115,0.4497,2.22,2.33,2.05,-0.0802,1.007,1.85-2.10
+BOS @ PHI,Jayson Tatum 7+ reb + Joel Embiid 10+ pts,2,0.6491,0.5203,1.92,2.02,1.75,-0.0881,1.005,1.65-1.85
+BOS @ PHI,Jayson Tatum 7+ reb + Payton Pritchard 10+ pra,2,0.6552,0.5219,1.92,2.01,1.75,-0.0888,1.003,1.65-1.85
+BOS @ PHI,Jayson Tatum 7+ reb + Paul George 10+ pts,2,0.6253,0.5016,1.99,2.09,1.81,-0.0907,1.002,1.65-1.85
+MIA @ UTA,MIA win + Bam Adebayo 20+ pts,2,0.4307,0.389,2.57,2.7,2.44,-0.05,1.038,2.10-2.50
+MIA @ UTA,MIA win + Davion Mitchell 14+ pts,2,0.3975,0.3907,2.56,2.69,2.41,-0.0589,1.041,2.10-2.50
+MIA @ UTA,MIA win + Andrew Wiggins 11+ pts,2,0.3879,0.389,2.57,2.7,2.4,-0.0671,1.035,2.10-2.50
+MIA @ UTA,Bam Adebayo 1+ 3pm + MIA win,2,0.621,0.5253,1.9,2.0,1.77,-0.0688,1.009,1.65-1.85
+MIA @ UTA,MIA win + Davion Mitchell 2+ 3pm,2,0.4505,0.4421,2.26,2.37,2.08,-0.0825,1.021,1.85-2.10
+MIA @ UTA,MIA win + Pelle Larsson 1+ 3pm,2,0.4969,0.4956,2.02,2.12,1.84,-0.0905,1.014,1.65-1.85
+MIA @ UTA,Bam Adebayo 1+ 3pm + Pelle Larsson 1+ 3pm,2,0.4812,0.4303,2.32,2.44,2.1,-0.0971,1.006,1.85-2.10
