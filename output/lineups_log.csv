@@ -781,3 +781,8 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-09T23:55Z,WAS@DET,4,False,espn
 2026-11-09T23:55Z,MEM@TOR,34,False,none
 2026-11-09T23:55Z,IND@DAL,64,False,none
+2026-11-10T00:00Z,LAL@ATL,-1,False,espn
+2026-11-10T00:00Z,CLE@CHA,-1,False,espn
+2026-11-10T00:00Z,WAS@DET,-1,False,espn
+2026-11-10T00:00Z,MEM@TOR,29,False,none
+2026-11-10T00:00Z,IND@DAL,59,False,none
