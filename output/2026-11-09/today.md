@@ -1,6 +1,6 @@
 # NBA model · Mon 09 Nov 2026 (US date)
 
-Updated **Tue 10 Nov, 11:26 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-09/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Tue 10 Nov, 11:31 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-09/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -26,9 +26,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Kevin Durant PA over 39.5 (40+) | DEN @ HOU | draftkings | 16.20 | 15.27 | 8.58 | 11.7% | 5.8% | 6.6% | +6.0% | +88.8% | 0.1% |
 | Kevin Durant PTS over 34.5 (35+) | DEN @ HOU | draftkings | 16.60 | 15.70 | 8.92 | 11.2% | 5.6% | 6.4% | +5.7% | +86.2% | 0.1% |
 | Pascal Siakam AST over 7.5 (8+) | IND @ DAL | draftkings | 22.00 | 20.83 | 11.90 | 8.4% | 4.2% | 4.8% | +5.5% | +84.9% | 0.1% |
-| Kevin Durant PR over 39.5 (40+) | DEN @ HOU | draftkings | 12.20 | 11.57 | 6.62 | 15.1% | 7.7% | 8.6% | +5.5% | +84.4% | 0.1% |
 | Pascal Siakam AST over 5.5 (6+) | IND @ DAL | draftkings | 7.00 | 6.65 | 3.84 | 26.1% | 13.4% | 15.0% | +5.2% | +82.4% | 0.2% |
-| Kevin Durant PR over 44.5 (45+) | DEN @ HOU | draftkings | 24.00 | 22.83 | 13.17 | 7.6% | 3.9% | 4.4% | +5.2% | +82.2% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
