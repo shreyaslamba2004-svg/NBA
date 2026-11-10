@@ -72,20 +72,20 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pts,29.5,False,0.3988,0.4326,est,0.4281
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pts,30.5,False,0.3643,0.3971,est,0.3928
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pts,31.5,False,0.3321,0.3637,est,0.3595
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,0.5,False,0.9724,0.971,est,0.9712
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,1.5,False,0.8819,0.8764,est,0.8771
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,2.5,False,0.7217,0.7021,book,0.7047
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,3.5,True,0.5329,0.5201,book,0.5218
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,4.5,False,0.3478,0.3449,book,0.3453
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,5.5,False,0.2084,0.2091,book,0.209
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,6.5,False,0.1129,0.1214,book,0.1203
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,0.5,False,0.9724,0.9711,est,0.9713
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,1.5,False,0.8819,0.8768,est,0.8775
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,2.5,False,0.7217,0.7055,book,0.7076
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,3.5,True,0.5329,0.521,book,0.5226
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,4.5,False,0.3478,0.3423,book,0.343
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,5.5,False,0.2084,0.2063,book,0.2066
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,reb,6.5,False,0.1129,0.1183,book,0.1176
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,1.5,False,0.9509,0.9415,est,0.9427
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,2.5,False,0.8671,0.8272,book,0.8325
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,3.5,False,0.7331,0.6943,book,0.6994
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,2.5,False,0.8671,0.8296,book,0.8346
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,3.5,False,0.7331,0.6962,book,0.7011
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,4.5,True,0.5753,0.5291,book,0.5352
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,5.5,False,0.4181,0.3694,book,0.3758
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,6.5,False,0.2809,0.239,book,0.2445
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,7.5,False,0.1763,0.1425,book,0.147
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,5.5,False,0.4181,0.3723,book,0.3783
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,6.5,False,0.2809,0.2354,book,0.2414
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,ast,7.5,False,0.1763,0.1385,book,0.1435
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,fg3m,2.5,False,0.8113,0.7969,book,0.7988
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,fg3m,3.5,False,0.6483,0.6488,book,0.6487
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,fg3m,4.5,True,0.4661,0.473,book,0.4721
@@ -107,15 +107,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pra,39.5,False,0.3826,0.3984,est,0.3963
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pra,40.5,False,0.3517,0.3669,est,0.3649
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pra,41.5,False,0.3205,0.3351,est,0.3332
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,27.5,False,0.6167,0.644,est,0.6404
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,28.5,False,0.5801,0.6084,est,0.6047
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,29.5,False,0.5431,0.572,est,0.5682
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,30.5,False,0.507,0.5362,est,0.5324
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,31.5,True,0.4716,0.5009,book,0.497
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,32.5,False,0.4365,0.4655,est,0.4617
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,33.5,False,0.4009,0.4293,est,0.4256
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,34.5,False,0.3664,0.3941,est,0.3904
-401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,35.5,False,0.3353,0.3619,est,0.3584
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,27.5,False,0.6167,0.6431,est,0.6396
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,28.5,False,0.5801,0.6075,est,0.6039
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,29.5,False,0.5431,0.5711,est,0.5674
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,30.5,False,0.507,0.5352,est,0.5315
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,31.5,True,0.4716,0.4999,book,0.4962
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,32.5,False,0.4365,0.4645,est,0.4608
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,33.5,False,0.4009,0.4283,est,0.4247
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,34.5,False,0.3664,0.3931,est,0.3896
+401909959,NOP @ GSW,GSW,201939,Stephen Curry,pr,35.5,False,0.3353,0.361,est,0.3576
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pa,28.5,False,0.6266,0.6464,est,0.6438
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pa,29.5,False,0.5892,0.6097,est,0.607
 401909959,NOP @ GSW,GSW,201939,Stephen Curry,pa,30.5,False,0.5527,0.5738,est,0.571
@@ -176,15 +176,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,203110,Draymond Green,pra,21.5,False,0.3426,0.3142,est,0.3179
 401909959,NOP @ GSW,GSW,203110,Draymond Green,pra,22.5,False,0.2913,0.2654,est,0.2688
 401909959,NOP @ GSW,GSW,203110,Draymond Green,pra,23.5,False,0.2436,0.2206,est,0.2237
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,7.5,False,0.8637,0.8267,est,0.8316
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,8.5,False,0.8013,0.7523,est,0.7587
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,9.5,False,0.7251,0.6416,book,0.6526
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,10.5,False,0.6458,0.5785,est,0.5874
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,11.5,True,0.5643,0.4937,book,0.503
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,12.5,False,0.4803,0.4103,est,0.4196
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,13.5,False,0.3999,0.3341,est,0.3428
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,14.5,False,0.3314,0.2939,book,0.2988
-401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,15.5,False,0.2677,0.2158,est,0.2227
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,7.5,False,0.8637,0.8279,est,0.8327
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,8.5,False,0.8013,0.7538,est,0.7601
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,9.5,False,0.7251,0.6452,book,0.6557
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,10.5,False,0.6458,0.5806,est,0.5892
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,11.5,True,0.5643,0.4958,book,0.5048
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,12.5,False,0.4803,0.4124,est,0.4213
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,13.5,False,0.3999,0.336,est,0.3444
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,14.5,False,0.3314,0.2976,book,0.3021
+401909959,NOP @ GSW,GSW,203110,Draymond Green,pr,15.5,False,0.2677,0.2173,est,0.2239
 401909959,NOP @ GSW,GSW,203110,Draymond Green,pa,8.5,False,0.847,0.8179,est,0.8217
 401909959,NOP @ GSW,GSW,203110,Draymond Green,pa,9.5,False,0.7873,0.7502,est,0.7551
 401909959,NOP @ GSW,GSW,203110,Draymond Green,pa,10.5,False,0.7103,0.6654,est,0.6714
@@ -312,12 +312,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pra,35.5,False,0.3582,0.3407,est,0.343
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pra,36.5,False,0.3232,0.3065,est,0.3087
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,23.5,False,0.6849,0.6697,est,0.6717
-401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,24.5,False,0.6402,0.6231,book,0.6254
+401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,24.5,False,0.6402,0.6199,book,0.6226
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,25.5,False,0.5966,0.5797,est,0.582
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,26.5,False,0.5532,0.536,est,0.5383
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,27.5,True,0.5091,0.4917,book,0.494
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,28.5,False,0.4639,0.4467,est,0.449
-401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,29.5,False,0.4228,0.4081,book,0.41
+401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,29.5,False,0.4228,0.4046,book,0.407
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,30.5,False,0.3826,0.3663,est,0.3684
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pr,31.5,False,0.346,0.3305,est,0.3325
 401909959,NOP @ GSW,GSW,905175737,Yaxel Lendeborg,pa,19.5,False,0.7209,0.6974,book,0.7005
@@ -349,8 +349,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,reb,1.5,False,0.8132,0.7891,est,0.7923
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,reb,2.5,True,0.6301,0.5941,book,0.5989
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,reb,3.5,False,0.4391,0.3994,book,0.4046
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,reb,4.5,False,0.2795,0.2434,book,0.2482
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,reb,5.5,False,0.1639,0.1391,book,0.1424
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,reb,4.5,False,0.2795,0.2453,book,0.2498
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,reb,5.5,False,0.1639,0.1378,book,0.1413
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,ast,0.5,False,0.8476,0.8882,est,0.8828
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,ast,1.5,False,0.5885,0.6714,est,0.6605
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,ast,2.5,True,0.3434,0.4277,book,0.4166
@@ -366,17 +366,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,stl,2.5,False,0.1512,0.1858,book,0.1812
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,blk,0.5,False,0.2971,,model only,0.2971
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,blk,1.5,False,0.0552,,model only,0.0552
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,9.5,False,0.7972,0.7963,book,0.7964
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,10.5,False,0.7442,,model only,0.7442
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,11.5,False,0.6848,,model only,0.6848
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,12.5,False,0.6192,,model only,0.6192
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,13.5,False,0.5564,,model only,0.5564
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,14.5,False,0.4957,0.5317,book,0.5269
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,15.5,False,0.4348,,model only,0.4348
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,16.5,False,0.3779,,model only,0.3779
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,17.5,False,0.3268,,model only,0.3268
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,18.5,False,0.2807,,model only,0.2807
-401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,19.5,False,0.2381,0.2603,book,0.2574
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,10.5,False,0.7442,0.77,est,0.7666
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,11.5,False,0.6848,0.7143,est,0.7104
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,12.5,False,0.6192,0.6518,est,0.6475
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,13.5,False,0.5564,0.5908,est,0.5863
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,14.5,False,0.4957,0.5308,est,0.5261
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,15.5,True,0.4348,0.4696,book,0.465
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,16.5,False,0.3779,0.4114,est,0.407
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,17.5,False,0.3268,0.3584,est,0.3542
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,18.5,False,0.2807,0.31,est,0.3061
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,19.5,False,0.2381,0.2645,est,0.261
+401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pra,20.5,False,0.2003,0.2238,est,0.2207
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pr,8.5,False,0.7622,0.7695,est,0.7685
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pr,9.5,False,0.6993,0.7078,est,0.7066
 401909959,NOP @ GSW,GSW,1629001,De'Anthony Melton,pr,10.5,False,0.6273,0.6367,est,0.6354
@@ -573,15 +573,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,1630611,Gui Santos,pra,14.5,False,0.2917,,model only,0.2917
 401909959,NOP @ GSW,GSW,1630611,Gui Santos,pra,15.5,False,0.2414,,model only,0.2414
 401909959,NOP @ GSW,GSW,1630611,Gui Santos,pra,16.5,False,0.1994,,model only,0.1994
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,7.5,False,0.6465,0.774,est,0.7571
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,8.5,False,0.5696,0.7125,est,0.6936
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,9.5,False,0.4977,0.6498,est,0.6297
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,10.5,False,0.4271,0.5827,est,0.5621
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,11.5,True,0.3614,0.5145,book,0.4943
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,12.5,False,0.2995,0.4446,est,0.4254
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,13.5,False,0.2433,0.3759,est,0.3584
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,14.5,False,0.1965,0.3141,est,0.2986
-401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,15.5,False,0.1576,0.2595,est,0.2461
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,7.5,False,0.6465,0.772,est,0.7554
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,8.5,False,0.5696,0.7102,est,0.6916
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,9.5,False,0.4977,0.6472,est,0.6275
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,10.5,False,0.4271,0.5799,est,0.5598
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,11.5,True,0.3614,0.5117,book,0.4919
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,12.5,False,0.2995,0.4418,est,0.423
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,13.5,False,0.2433,0.3732,est,0.3561
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,14.5,False,0.1965,0.3117,est,0.2965
+401909959,NOP @ GSW,GSW,1630611,Gui Santos,pr,15.5,False,0.1576,0.2574,est,0.2442
 401909959,NOP @ GSW,GSW,1630611,Gui Santos,pa,4.5,False,0.783,,model only,0.783
 401909959,NOP @ GSW,GSW,1630611,Gui Santos,pa,5.5,False,0.7,,model only,0.7
 401909959,NOP @ GSW,GSW,1630611,Gui Santos,pa,6.5,False,0.6163,,model only,0.6163
@@ -603,25 +603,25 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,7.5,False,0.6831,0.6412,est,0.6468
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,8.5,False,0.6107,0.5131,book,0.526
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,9.5,True,0.5366,0.4898,book,0.496
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,10.5,False,0.4653,0.4696,book,0.469
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,10.5,False,0.4653,0.4673,book,0.467
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,11.5,False,0.3989,0.355,est,0.3608
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,12.5,False,0.3371,0.2966,est,0.302
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pts,13.5,False,0.2858,0.2491,est,0.254
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,0.5,False,0.8668,0.8587,est,0.8598
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,1.5,False,0.6457,0.6299,est,0.632
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,2.5,True,0.4167,0.4002,book,0.4024
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,3.5,False,0.2306,0.2325,book,0.2323
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,0.5,False,0.8668,0.8592,est,0.8602
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,1.5,False,0.6457,0.6308,est,0.6328
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,2.5,True,0.4167,0.4011,book,0.4032
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,3.5,False,0.2306,0.2331,book,0.2328
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,4.5,False,0.1173,0.123,book,0.1223
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,5.5,False,0.053,0.0649,book,0.0633
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,0.5,False,0.9031,0.9142,est,0.9127
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,1.5,False,0.7198,0.7459,est,0.7424
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,2.5,True,0.5028,0.536,book,0.5316
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,3.5,False,0.315,0.3474,book,0.3431
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,4.5,False,0.1823,0.2023,book,0.1997
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,5.5,False,0.0961,0.11,book,0.1082
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,reb,5.5,False,0.053,0.064,book,0.0626
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,0.5,False,0.9031,0.9139,est,0.9125
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,1.5,False,0.7198,0.7452,est,0.7419
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,2.5,True,0.5028,0.5352,book,0.5309
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,3.5,False,0.315,0.3449,book,0.341
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,4.5,False,0.1823,0.2019,book,0.1993
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ast,5.5,False,0.0961,0.1113,book,0.1093
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,fg3m,0.5,True,0.4633,0.563,book,0.5498
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,fg3m,1.5,False,0.1377,0.236,book,0.223
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,fg3m,2.5,False,0.0298,0.0865,book,0.079
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,fg3m,1.5,False,0.1377,0.2372,book,0.2241
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,fg3m,2.5,False,0.0298,0.0873,book,0.0797
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,stl,0.5,False,0.5442,,model only,0.5442
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,stl,1.5,False,0.2105,,model only,0.2105
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,stl,2.5,False,0.067,,model only,0.067
@@ -656,13 +656,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pa,15.5,False,0.3466,0.3577,est,0.3562
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pa,16.5,False,0.2964,0.3067,est,0.3053
 401909959,NOP @ GSW,GSW,1630314,Brandon Williams,pa,17.5,False,0.2533,0.2626,est,0.2614
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,1.5,False,0.917,0.9177,est,0.9176
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,2.5,False,0.8203,0.8217,est,0.8215
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,3.5,False,0.6924,0.6944,est,0.6941
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,4.5,True,0.5538,0.556,book,0.5557
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,5.5,False,0.4134,0.4156,est,0.4153
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,6.5,False,0.2905,0.2923,est,0.2921
-401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,7.5,False,0.196,0.1974,est,0.1972
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,1.5,False,0.917,0.9171,est,0.9171
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,2.5,False,0.8203,0.8205,est,0.8205
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,3.5,False,0.6924,0.6927,est,0.6927
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,4.5,True,0.5538,0.5541,book,0.5541
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,5.5,False,0.4134,0.4137,est,0.4137
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,6.5,False,0.2905,0.2908,est,0.2907
+401909959,NOP @ GSW,GSW,1630314,Brandon Williams,ra,7.5,False,0.196,0.1962,est,0.1962
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,pts,14.5,False,0.6994,0.7111,est,0.7095
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,pts,15.5,False,0.6481,0.6607,est,0.659
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,pts,16.5,False,0.5931,0.6065,est,0.6047
@@ -679,12 +679,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,reb,6.5,False,0.3088,0.3862,book,0.376
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,reb,7.5,False,0.2,0.2678,book,0.2588
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,reb,8.5,False,0.1205,0.178,book,0.1704
-401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,0.5,False,0.9392,0.9013,est,0.9063
-401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,1.5,False,0.7794,0.6763,est,0.6899
-401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,2.5,True,0.5644,0.4337,book,0.4509
-401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,3.5,False,0.3556,0.2447,book,0.2593
-401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,4.5,False,0.1971,0.1246,book,0.1342
-401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,5.5,False,0.097,0.064,book,0.0684
+401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,0.5,False,0.9392,0.9057,est,0.9101
+401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,1.5,False,0.7794,0.6872,est,0.6994
+401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,2.5,True,0.5644,0.4461,book,0.4617
+401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,3.5,False,0.3556,0.2553,book,0.2685
+401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,4.5,False,0.1971,0.1298,book,0.1387
+401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,ast,5.5,False,0.097,0.0658,book,0.0699
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,fg3m,0.5,False,0.9007,0.8447,book,0.8521
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,fg3m,1.5,False,0.6767,0.6199,book,0.6274
 401909959,NOP @ GSW,NOP,1630180,Saddiq Bey,fg3m,2.5,True,0.42,0.3815,book,0.3866
@@ -747,13 +747,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,reb,5.5,False,0.3441,0.4154,book,0.406
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,reb,6.5,False,0.2162,0.2867,book,0.2774
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,reb,7.5,False,0.1276,0.1822,book,0.175
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,1.5,False,0.9458,0.9471,est,0.9469
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,2.5,False,0.8503,0.8206,book,0.8245
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,3.5,False,0.7134,0.6986,book,0.7006
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,4.5,True,0.5489,0.5554,book,0.5545
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,5.5,False,0.3953,0.4135,book,0.4111
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,6.5,False,0.2619,0.2849,book,0.2819
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,7.5,False,0.1603,0.1877,book,0.1841
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,1.5,False,0.9458,0.9418,est,0.9423
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,2.5,False,0.8503,0.8048,book,0.8108
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,3.5,False,0.7134,0.6771,book,0.6819
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,4.5,True,0.5489,0.53,book,0.5325
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,5.5,False,0.3953,0.3846,book,0.386
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,6.5,False,0.2619,0.2589,book,0.2593
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ast,7.5,False,0.1603,0.1669,book,0.166
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,fg3m,0.5,False,0.8198,0.7502,book,0.7594
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,fg3m,1.5,True,0.5229,0.4559,book,0.4647
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,fg3m,2.5,False,0.2639,0.2199,book,0.2257
@@ -763,17 +763,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,stl,2.5,False,0.2048,,model only,0.2048
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,blk,0.5,False,0.3774,,model only,0.3774
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,blk,1.5,False,0.0853,,model only,0.0853
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,23.5,False,0.7258,0.7088,est,0.711
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,24.5,False,0.6854,0.667,est,0.6694
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,25.5,False,0.6455,0.6261,est,0.6286
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,26.5,False,0.6019,0.5816,est,0.5843
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,27.5,False,0.5557,0.5348,est,0.5376
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,28.5,True,0.5116,0.4906,book,0.4934
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,29.5,False,0.4699,0.449,est,0.4517
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,30.5,False,0.428,0.4076,est,0.4103
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,31.5,False,0.3872,0.3675,est,0.3701
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,32.5,False,0.3532,0.3343,est,0.3368
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,33.5,False,0.3186,0.3006,est,0.303
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,23.5,False,0.7258,0.7026,est,0.7056
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,24.5,False,0.6854,0.6603,est,0.6636
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,25.5,False,0.6455,0.619,est,0.6225
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,26.5,False,0.6019,0.5743,est,0.578
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,27.5,False,0.5557,0.5273,est,0.5311
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,28.5,True,0.5116,0.4831,book,0.4869
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,29.5,False,0.4699,0.4416,est,0.4453
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,30.5,False,0.428,0.4004,est,0.404
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,31.5,False,0.3872,0.3605,est,0.364
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,32.5,False,0.3532,0.3276,est,0.331
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pra,33.5,False,0.3186,0.2943,est,0.2975
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pr,19.5,False,0.6991,0.6812,est,0.6836
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pr,20.5,False,0.6559,0.6368,est,0.6393
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pr,21.5,False,0.6076,0.5874,est,0.5901
@@ -783,29 +783,29 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pr,25.5,False,0.4228,0.4025,est,0.4051
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pr,26.5,False,0.3791,0.3596,est,0.3621
 401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pr,27.5,False,0.3378,0.3193,est,0.3218
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,19.5,False,0.7086,0.6687,est,0.674
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,20.5,False,0.662,0.6192,est,0.6248
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,21.5,False,0.6141,0.5692,est,0.5751
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,22.5,False,0.5689,0.5227,est,0.5288
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,23.5,True,0.523,0.4765,book,0.4826
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,24.5,False,0.4783,0.4321,est,0.4382
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,25.5,False,0.4323,0.3873,est,0.3932
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,26.5,False,0.39,0.3467,est,0.3524
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,27.5,False,0.3498,0.3087,est,0.3141
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,7.5,False,0.723,0.7738,est,0.7671
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,8.5,False,0.6198,0.6812,est,0.6731
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,9.5,False,0.503,0.5702,est,0.5613
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,10.5,True,0.3948,0.4609,book,0.4522
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,11.5,False,0.3025,0.3624,est,0.3545
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,12.5,False,0.2239,0.2744,est,0.2678
-401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,13.5,False,0.1571,0.1963,est,0.1911
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,5.5,False,0.7686,0.7517,book,0.7539
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,18.5,False,0.7521,0.7099,est,0.7155
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,19.5,False,0.7086,0.6623,est,0.6684
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,20.5,False,0.662,0.6123,est,0.6189
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,21.5,False,0.6141,0.5621,est,0.5689
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,22.5,True,0.5689,0.5155,book,0.5225
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,23.5,False,0.523,0.4693,est,0.4764
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,24.5,False,0.4783,0.425,est,0.4321
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,25.5,False,0.4323,0.3805,est,0.3873
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,pa,26.5,False,0.39,0.3402,est,0.3467
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,6.5,False,0.8173,0.8364,est,0.8338
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,7.5,False,0.723,0.7489,est,0.7455
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,8.5,False,0.6198,0.6507,est,0.6466
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,9.5,True,0.503,0.5363,book,0.5319
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,10.5,False,0.3948,0.427,est,0.4228
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,11.5,False,0.3025,0.3314,est,0.3276
+401909959,NOP @ GSW,NOP,1642847,Jeremiah Fears,ra,12.5,False,0.2239,0.248,est,0.2448
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,5.5,False,0.7686,0.7531,book,0.7551
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,6.5,False,0.6789,0.7468,est,0.7379
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,7.5,False,0.5795,0.622,book,0.6164
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,7.5,False,0.5795,0.6199,book,0.6146
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,8.5,False,0.4869,0.5697,est,0.5587
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,9.5,True,0.4011,0.4831,book,0.4723
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,10.5,False,0.3238,0.4006,est,0.3904
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,11.5,False,0.2556,0.3581,book,0.3446
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,11.5,False,0.2556,0.3595,book,0.3458
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,12.5,False,0.1996,0.2581,est,0.2504
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pts,13.5,False,0.1548,0.2036,est,0.1972
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,reb,0.5,False,0.9518,0.9648,est,0.9631
@@ -815,11 +815,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,reb,4.5,False,0.2479,0.3314,book,0.3204
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,reb,5.5,False,0.1327,0.2091,book,0.199
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,reb,6.5,False,0.0674,0.1246,book,0.1171
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,0.5,False,0.8766,0.8312,est,0.8372
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,1.5,True,0.6416,0.5539,book,0.5655
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,2.5,False,0.395,0.3157,book,0.3262
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,3.5,False,0.2062,0.1587,book,0.165
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,4.5,False,0.0931,0.0754,book,0.0777
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,0.5,False,0.8766,0.8399,est,0.8448
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,1.5,True,0.6416,0.5695,book,0.579
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,2.5,False,0.395,0.3279,book,0.3368
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,3.5,False,0.2062,0.1672,book,0.1723
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,ast,4.5,False,0.0931,0.0806,book,0.0823
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,fg3m,0.5,False,0.7144,0.6757,book,0.6808
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,fg3m,1.5,True,0.3293,0.3595,book,0.3555
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,fg3m,2.5,False,0.1052,0.156,book,0.1493
@@ -829,17 +829,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,stl,2.5,False,0.1626,,model only,0.1626
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,blk,0.5,False,0.3359,,model only,0.3359
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,blk,1.5,False,0.0708,,model only,0.0708
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,10.5,False,0.7491,0.8075,est,0.7998
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,11.5,False,0.6786,0.7479,est,0.7387
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,12.5,False,0.6079,0.6854,est,0.6752
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,13.5,False,0.535,0.6178,est,0.6069
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,14.5,False,0.4632,0.548,est,0.5368
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,15.5,True,0.3909,0.4742,book,0.4632
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,16.5,False,0.3302,0.4092,est,0.3988
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,17.5,False,0.274,0.3465,est,0.337
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,18.5,False,0.2242,0.2887,est,0.2802
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,19.5,False,0.1813,0.2373,est,0.2299
-401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,20.5,False,0.1467,0.1946,est,0.1883
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,10.5,False,0.7491,0.8097,est,0.8017
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,11.5,False,0.6786,0.7504,est,0.741
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,12.5,False,0.6079,0.6883,est,0.6777
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,13.5,False,0.535,0.621,est,0.6096
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,14.5,False,0.4632,0.5514,est,0.5398
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,15.5,True,0.3909,0.4776,book,0.4662
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,16.5,False,0.3302,0.4125,est,0.4016
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,17.5,False,0.274,0.3496,est,0.3397
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,18.5,False,0.2242,0.2915,est,0.2827
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,19.5,False,0.1813,0.2398,est,0.232
+401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pra,20.5,False,0.1467,0.1968,est,0.1902
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pr,9.5,False,0.6755,0.7665,est,0.7545
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pr,10.5,False,0.5946,0.6982,est,0.6845
 401909959,NOP @ GSW,NOP,1630529,Herbert Jones,pr,11.5,False,0.5148,0.626,est,0.6113
@@ -929,30 +929,30 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,201599,DeAndre Jordan,ra,7.5,False,0.3835,,model only,0.3835
 401909959,NOP @ GSW,NOP,201599,DeAndre Jordan,ra,8.5,False,0.2965,,model only,0.2965
 401909959,NOP @ GSW,NOP,201599,DeAndre Jordan,ra,9.5,False,0.2223,,model only,0.2223
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,5.5,False,0.8216,0.7576,book,0.7661
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,5.5,False,0.8216,0.7592,book,0.7674
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,6.5,False,0.7519,0.742,est,0.7433
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,7.5,False,0.6792,0.636,book,0.6417
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,7.5,False,0.6792,0.6398,book,0.645
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,8.5,False,0.6004,0.5878,est,0.5894
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,9.5,True,0.522,0.509,book,0.5107
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,10.5,False,0.4462,0.4653,book,0.4628
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,11.5,False,0.3764,0.3846,book,0.3835
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,12.5,False,0.3148,0.3036,est,0.3051
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pts,13.5,False,0.2578,0.2479,est,0.2492
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,0.5,False,0.9623,0.9556,est,0.9565
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,1.5,False,0.8586,0.8366,est,0.8395
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,2.5,False,0.699,0.6505,book,0.6569
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,3.5,True,0.5213,0.4787,book,0.4843
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,4.5,False,0.3535,0.3279,book,0.3313
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,5.5,False,0.2229,0.2077,book,0.2097
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,0.5,False,0.9623,0.9548,est,0.9558
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,1.5,False,0.8586,0.8341,est,0.8374
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,2.5,False,0.699,0.6496,book,0.6561
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,3.5,True,0.5213,0.4742,book,0.4804
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,4.5,False,0.3535,0.3245,book,0.3283
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,5.5,False,0.2229,0.2059,book,0.2081
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,reb,6.5,False,0.1308,0.128,book,0.1284
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,0.5,False,0.8389,0.7985,est,0.8038
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,1.5,True,0.5697,0.5019,book,0.5109
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,2.5,False,0.3206,0.2642,est,0.2716
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,3.5,False,0.1588,0.1256,est,0.13
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,4.5,False,0.0705,0.0623,book,0.0634
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,fg3m,0.5,True,0.5736,0.5878,book,0.5859
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,fg3m,1.5,False,0.2145,0.2693,book,0.2621
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,fg3m,2.5,False,0.0596,0.1038,book,0.098
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,0.5,False,0.8389,0.8011,est,0.8061
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,1.5,True,0.5697,0.5059,book,0.5143
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,2.5,False,0.3206,0.2673,est,0.2743
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,3.5,False,0.1588,0.1274,est,0.1315
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ast,4.5,False,0.0705,0.0649,book,0.0656
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,fg3m,0.5,True,0.5736,0.5929,book,0.5904
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,fg3m,1.5,False,0.2145,0.2717,book,0.2642
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,fg3m,2.5,False,0.0596,0.105,book,0.099
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,stl,0.5,False,0.4662,,model only,0.4662
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,stl,1.5,False,0.1472,,model only,0.1472
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,blk,0.5,False,0.1812,,model only,0.1812
@@ -977,15 +977,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pr,15.5,False,0.3907,0.3714,est,0.374
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pr,16.5,False,0.3365,0.3185,est,0.3209
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pr,17.5,False,0.2844,0.268,est,0.2702
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,7.5,False,0.7942,0.7766,est,0.779
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,8.5,False,0.7269,0.7057,est,0.7085
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,9.5,False,0.6624,0.6387,est,0.6418
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,10.5,False,0.5913,0.5658,est,0.5692
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,11.5,True,0.5198,0.4937,book,0.4971
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,12.5,False,0.4517,0.426,est,0.4294
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,13.5,False,0.389,0.3646,est,0.3678
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,14.5,False,0.3294,0.3067,est,0.3097
-401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,15.5,False,0.2747,0.2544,est,0.2571
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,7.5,False,0.7942,0.7795,est,0.7815
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,8.5,False,0.7269,0.7092,est,0.7115
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,9.5,False,0.6624,0.6426,est,0.6452
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,10.5,False,0.5913,0.57,est,0.5728
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,11.5,True,0.5198,0.4979,book,0.5008
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,12.5,False,0.4517,0.4301,est,0.433
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,13.5,False,0.389,0.3685,est,0.3712
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,14.5,False,0.3294,0.3103,est,0.3128
+401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,pa,15.5,False,0.2747,0.2576,est,0.2598
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ra,2.5,False,0.8838,0.8527,est,0.8568
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ra,3.5,False,0.7772,0.7265,est,0.7332
 401909959,NOP @ GSW,NOP,1631097,Bennedict Mathurin,ra,4.5,False,0.6495,0.5852,est,0.5937
@@ -1002,13 +1002,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,pts,10.5,False,0.4931,0.3466,est,0.3659
 401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,pts,11.5,False,0.4181,0.2815,est,0.2995
 401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,pts,12.5,False,0.3498,0.2268,est,0.243
-401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,1.5,False,0.9691,0.9426,est,0.9461
-401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,2.5,False,0.917,0.822,book,0.8345
-401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,3.5,False,0.8252,0.698,book,0.7148
-401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,4.5,True,0.7063,0.557,book,0.5767
-401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,5.5,False,0.568,0.421,book,0.4404
-401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,6.5,False,0.436,0.2995,book,0.3175
-401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,7.5,False,0.3144,0.2006,book,0.2156
+401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,1.5,False,0.9691,0.9412,est,0.9449
+401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,2.5,False,0.917,0.8192,book,0.8321
+401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,3.5,False,0.8252,0.6962,book,0.7132
+401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,4.5,True,0.7063,0.5508,book,0.5713
+401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,5.5,False,0.568,0.4135,book,0.4339
+401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,6.5,False,0.436,0.2948,book,0.3134
+401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,reb,7.5,False,0.3144,0.1988,book,0.2141
 401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,ast,0.5,False,0.7864,,model only,0.7864
 401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,ast,1.5,False,0.4744,,model only,0.4744
 401909959,NOP @ GSW,NOP,1631255,Karlo Matkovic,ast,2.5,False,0.2311,,model only,0.2311
@@ -1139,13 +1139,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,reb,6.5,False,0.3781,0.3291,book,0.3356
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,reb,7.5,False,0.2594,0.2189,book,0.2242
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,reb,8.5,False,0.1627,0.1364,book,0.1399
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,2.5,False,0.9419,0.8627,book,0.8732
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,3.5,False,0.867,0.7579,book,0.7723
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,4.5,False,0.7601,0.6188,book,0.6375
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,5.5,True,0.63,0.4696,book,0.4908
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,6.5,False,0.4938,0.3302,book,0.3518
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,7.5,False,0.3648,0.2168,book,0.2363
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,8.5,False,0.2546,0.1349,book,0.1507
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,2.5,False,0.9419,0.8567,book,0.8679
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,3.5,False,0.867,0.7484,book,0.7641
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,4.5,False,0.7601,0.6123,book,0.6318
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,5.5,True,0.63,0.4581,book,0.4808
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,6.5,False,0.4938,0.319,book,0.3421
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,7.5,False,0.3648,0.2086,book,0.2292
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ast,8.5,False,0.2546,0.128,book,0.1447
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,fg3m,0.5,False,0.8027,0.7094,book,0.7217
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,fg3m,1.5,True,0.4862,0.3977,book,0.4094
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,fg3m,2.5,False,0.229,0.1777,book,0.1845
@@ -1155,17 +1155,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,stl,2.5,False,0.3177,0.2596,book,0.2673
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,blk,0.5,False,0.3043,,model only,0.3043
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,blk,1.5,False,0.0561,,model only,0.0561
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,23.5,False,0.8146,0.7448,est,0.754
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,24.5,False,0.7769,0.6983,est,0.7086
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,25.5,False,0.7368,0.6504,est,0.6618
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,26.5,False,0.6967,0.6042,est,0.6164
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,27.5,False,0.6553,0.5581,est,0.571
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,28.5,True,0.612,0.5117,book,0.5249
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,29.5,False,0.5708,0.4691,est,0.4825
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,30.5,False,0.5257,0.4241,est,0.4375
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,31.5,False,0.4835,0.3834,est,0.3966
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,32.5,False,0.4416,0.3445,est,0.3573
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,33.5,False,0.4034,0.31,est,0.3224
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,23.5,False,0.8146,0.7426,est,0.7521
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,24.5,False,0.7769,0.6958,est,0.7065
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,25.5,False,0.7368,0.6477,est,0.6595
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,26.5,False,0.6967,0.6014,est,0.614
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,27.5,False,0.6553,0.5553,est,0.5685
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,28.5,True,0.612,0.5088,book,0.5224
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,29.5,False,0.5708,0.4662,est,0.48
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,30.5,False,0.5257,0.4213,est,0.4351
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,31.5,False,0.4835,0.3807,est,0.3943
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,32.5,False,0.4416,0.3419,est,0.355
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pra,33.5,False,0.4034,0.3076,est,0.3202
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pr,19.5,False,0.7341,0.6909,est,0.6966
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pr,20.5,False,0.6852,0.6379,est,0.6441
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pr,21.5,False,0.6366,0.5864,est,0.593
@@ -1175,22 +1175,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pr,25.5,False,0.4478,0.3963,est,0.4031
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pr,26.5,False,0.404,0.3542,est,0.3608
 401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pr,27.5,False,0.363,0.3157,est,0.3219
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,19.5,False,0.7628,0.6909,est,0.7004
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,20.5,False,0.7197,0.6409,est,0.6513
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,21.5,False,0.6735,0.5892,est,0.6003
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,22.5,False,0.625,0.5368,est,0.5485
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,23.5,True,0.5776,0.4874,book,0.4993
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,24.5,False,0.5293,0.4388,est,0.4508
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,25.5,False,0.4844,0.3951,est,0.4069
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,26.5,False,0.4428,0.3559,est,0.3674
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,27.5,False,0.4005,0.3171,est,0.3281
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,7.5,False,0.896,0.8243,est,0.8338
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,8.5,False,0.8337,0.7318,est,0.7453
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,9.5,False,0.7589,0.6314,est,0.6483
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,10.5,True,0.6703,0.5253,book,0.5444
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,11.5,False,0.578,0.4271,est,0.447
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,12.5,False,0.4832,0.3373,est,0.3565
-401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,13.5,False,0.3908,0.2588,est,0.2762
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,19.5,False,0.7628,0.6835,est,0.6939
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,20.5,False,0.7197,0.6329,est,0.6443
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,21.5,False,0.6735,0.5807,est,0.5929
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,22.5,False,0.625,0.5281,est,0.5409
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,23.5,True,0.5776,0.4787,book,0.4918
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,24.5,False,0.5293,0.4303,est,0.4433
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,25.5,False,0.4844,0.3869,est,0.3997
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,26.5,False,0.4428,0.3479,est,0.3605
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,pa,27.5,False,0.4005,0.3097,est,0.3216
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,7.5,False,0.896,0.8189,est,0.8291
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,8.5,False,0.8337,0.7246,est,0.739
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,9.5,False,0.7589,0.6229,est,0.6409
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,10.5,True,0.6703,0.5162,book,0.5365
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,11.5,False,0.578,0.4182,est,0.4393
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,12.5,False,0.4832,0.3292,est,0.3495
+401909959,NOP @ GSW,NOP,1627749,Dejounte Murray,ra,13.5,False,0.3908,0.2519,est,0.2702
 401909959,NOP @ GSW,NOP,1629673,Jordan Poole,pts,5.5,False,0.7587,,model only,0.7587
 401909959,NOP @ GSW,NOP,1629673,Jordan Poole,pts,6.5,False,0.6796,,model only,0.6796
 401909959,NOP @ GSW,NOP,1629673,Jordan Poole,pts,7.5,False,0.5986,,model only,0.5986
@@ -1256,15 +1256,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1629673,Jordan Poole,ra,5.5,False,0.2863,,model only,0.2863
 401909959,NOP @ GSW,NOP,1629673,Jordan Poole,ra,6.5,False,0.1866,,model only,0.1866
 401909959,NOP @ GSW,NOP,1629673,Jordan Poole,ra,7.5,False,0.1107,,model only,0.1107
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,8.5,False,0.8107,0.7636,est,0.7698
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,9.5,False,0.7528,0.6967,est,0.7041
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,10.5,False,0.6896,0.6263,est,0.6347
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,11.5,False,0.623,0.5215,book,0.5349
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,12.5,True,0.5562,0.486,book,0.4953
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,13.5,False,0.4902,0.4204,est,0.4296
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,14.5,False,0.4284,0.3611,est,0.37
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,15.5,False,0.3698,0.3069,est,0.3152
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,16.5,False,0.316,0.2585,est,0.2661
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,8.5,False,0.8107,0.7643,est,0.7704
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,9.5,False,0.7528,0.6668,book,0.6781
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,10.5,False,0.6896,0.6272,est,0.6354
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,11.5,False,0.623,0.53,book,0.5423
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,12.5,True,0.5562,0.4869,book,0.4961
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,13.5,False,0.4902,0.4213,est,0.4304
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,14.5,False,0.4284,0.3386,book,0.3505
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,15.5,False,0.3698,0.3076,est,0.3158
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pts,16.5,False,0.316,0.2592,est,0.2667
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,reb,4.5,False,0.8723,0.8206,book,0.8274
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,reb,5.5,False,0.7864,0.7283,book,0.736
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,reb,6.5,False,0.6817,0.6156,book,0.6243
@@ -1272,12 +1272,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,reb,8.5,False,0.4536,0.3815,book,0.391
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,reb,9.5,False,0.3483,0.2798,book,0.2888
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,reb,10.5,False,0.259,0.2014,book,0.209
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,0.5,False,0.9724,0.9411,est,0.9453
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,1.5,False,0.8837,0.7747,est,0.7891
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,2.5,True,0.7376,0.56,book,0.5834
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,3.5,False,0.5569,0.3753,book,0.3993
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,4.5,False,0.3853,0.2308,book,0.2512
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,5.5,False,0.2412,0.1345,book,0.1486
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,0.5,False,0.9724,0.9434,est,0.9472
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,1.5,False,0.8837,0.7819,est,0.7953
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,2.5,True,0.7376,0.5702,book,0.5923
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,3.5,False,0.5569,0.3862,book,0.4087
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,4.5,False,0.3853,0.239,book,0.2583
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,ast,5.5,False,0.2412,0.1403,book,0.1536
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,fg3m,0.5,False,0.3808,,model only,0.3808
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,fg3m,1.5,False,0.0869,,model only,0.0869
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,fg3m,2.5,False,0.0139,,model only,0.0139
@@ -1287,17 +1287,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,blk,0.5,False,0.5428,0.5484,book,0.5477
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,blk,1.5,False,0.1954,0.2199,book,0.2167
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,blk,2.5,False,0.053,0.0779,book,0.0746
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,17.5,False,0.8585,0.7761,est,0.787
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,18.5,False,0.8245,0.7285,est,0.7411
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,19.5,False,0.7863,0.6776,est,0.6919
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,20.5,False,0.7446,0.6248,est,0.6406
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,21.5,False,0.7016,0.5731,est,0.5901
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,22.5,True,0.6557,0.521,book,0.5388
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,23.5,False,0.6087,0.4704,est,0.4887
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,24.5,False,0.5632,0.424,est,0.4424
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,25.5,False,0.5177,0.38,est,0.3982
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,26.5,False,0.4697,0.3359,est,0.3535
-401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,27.5,False,0.4284,0.2997,est,0.3167
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,18.5,False,0.8245,0.7314,est,0.7437
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,19.5,False,0.7863,0.6809,est,0.6948
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,20.5,False,0.7446,0.6283,est,0.6437
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,21.5,False,0.7016,0.5768,est,0.5933
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,22.5,False,0.6557,0.5248,est,0.5421
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,23.5,True,0.6087,0.4742,book,0.492
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,24.5,False,0.5632,0.4278,est,0.4456
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,25.5,False,0.5177,0.3836,est,0.4013
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,26.5,False,0.4697,0.3393,est,0.3565
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,27.5,False,0.4284,0.3029,est,0.3194
+401909959,NOP @ GSW,NOP,1642852,Derik Queen,pra,28.5,False,0.3839,0.2654,est,0.281
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,pr,15.5,False,0.8121,0.7392,est,0.7488
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,pr,16.5,False,0.7672,0.6837,est,0.6948
 401909959,NOP @ GSW,NOP,1642852,Derik Queen,pr,17.5,False,0.7205,0.6284,est,0.6406
