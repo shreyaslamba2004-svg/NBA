@@ -11,18 +11,17 @@ DEN @ HOU,HOU win + Amen Thompson 10+ pa,2,0.564,0.5618,1.78,1.87,1.65,-0.0726,1
 DEN @ HOU,HOU win + Nikola Jokic 25+ pra,2,0.5598,0.5588,1.79,1.88,1.63,-0.0887,0.994,1.50-1.65
 DEN @ HOU,Kevin Durant 4+ reb + Tari Eason 10+ pr + Jabari Smith Jr. 4+ reb,3,0.6778,0.5286,1.89,1.99,1.61,-0.1483,1.003,1.50-1.65
 DEN @ HOU,Kevin Durant 4+ reb + Tari Eason 10+ pra + Jabari Smith Jr. 4+ reb,3,0.706,0.5547,1.8,1.89,1.53,-0.15,1.002,1.50-1.65
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 15+ pra,2,0.6317,0.4186,2.39,2.51,2.33,-0.0238,0.996,2.10-2.50
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pts,2,0.6265,0.419,2.39,2.51,2.32,-0.0261,0.995,2.10-2.50
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pr,2,0.6942,0.4748,2.11,2.21,2.05,-0.027,0.998,1.85-2.10
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pa,2,0.6677,0.4576,2.19,2.29,2.12,-0.0278,0.998,2.10-2.50
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7338,0.477,2.1,2.2,1.98,-0.0572,0.998,1.85-2.10
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pa,2,0.7053,0.4594,2.18,2.29,2.05,-0.0587,0.997,1.85-2.10
-SAS @ PHX,Dillon Brooks 10+ pts + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.658,0.5011,2.0,2.1,1.71,-0.1424,1.006,1.65-1.85
-SAS @ PHX,Dillon Brooks 15+ pra + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.6618,0.4994,2.0,2.1,1.72,-0.1424,1.004,1.65-1.85
-SAS @ PHX,Dillon Brooks 15+ pra + De'Aaron Fox 10+ pts + Stephon Castle 15+ pa,3,0.6569,0.5048,1.98,2.08,1.7,-0.1439,1.005,1.65-1.85
-SAS @ PHX,Dillon Brooks 10+ pa + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.6985,0.545,1.83,1.93,1.56,-0.1473,1.004,1.50-1.65
-SAS @ PHX,Dillon Brooks 10+ pr + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.7252,0.5648,1.77,1.86,1.51,-0.1477,1.003,1.50-1.65
-SAS @ PHX,Dillon Brooks 10+ pa + De'Aaron Fox 10+ pts + Stephon Castle 15+ pa,3,0.6929,0.5506,1.82,1.91,1.55,-0.1492,1.005,1.50-1.65
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pts,2,0.5452,0.4113,2.43,2.55,2.32,-0.0444,1.0,2.10-2.50
+SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pts,2,0.4699,0.411,2.43,2.55,2.32,-0.0451,1.029,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 15+ pra,2,0.5476,0.4118,2.43,2.55,2.32,-0.0456,0.999,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pr,2,0.6055,0.4647,2.15,2.26,2.05,-0.0476,1.0,1.85-2.10
+SAS @ PHX,Oso Ighodaro 6+ pts + Dillon Brooks 10+ pa,2,0.5901,0.462,2.16,2.27,2.04,-0.0592,1.006,1.85-2.10
+SAS @ PHX,Oso Ighodaro 6+ pts + Dillon Brooks 10+ pr,2,0.6125,0.4787,2.09,2.19,1.96,-0.0609,1.004,1.85-2.10
+SAS @ PHX,Dillon Brooks 15+ pra + Oso Ighodaro 10+ pra + Devin Booker 1+ 3pm,3,0.6647,0.5073,1.97,2.07,1.69,-0.1424,1.006,1.65-1.85
+SAS @ PHX,Dillon Brooks 10+ pts + Oso Ighodaro 10+ pra + Devin Booker 1+ 3pm,3,0.6602,0.5055,1.98,2.08,1.69,-0.1434,1.005,1.65-1.85
+SAS @ PHX,Dillon Brooks 15+ pra + Oso Ighodaro 5+ pa + Devin Booker 1+ 3pm,3,0.6958,0.5352,1.87,1.96,1.6,-0.144,1.006,1.50-1.65
+SAS @ PHX,Dillon Brooks 10+ pts + Oso Ighodaro 5+ pa + Devin Booker 1+ 3pm,3,0.6914,0.5336,1.87,1.97,1.6,-0.1445,1.005,1.50-1.65
+SAS @ PHX,Dillon Brooks 15+ pra + Oso Ighodaro 10+ pra + Dylan Harper 15+ pr,3,0.6799,0.5215,1.92,2.01,1.64,-0.1446,1.004,1.50-1.65
 NOP @ GSW,game over 229.5 + Derik Queen 15+ pr,2,0.5523,0.3875,2.58,2.71,2.44,-0.0549,1.028,2.10-2.50
 NOP @ GSW,GSW win + game under 228.5,2,0.2753,0.406,2.46,2.59,2.32,-0.0574,1.008,2.10-2.50
 NOP @ GSW,GSW win + Karlo Matkovic 5+ reb,2,0.5569,0.4678,2.14,2.24,2.01,-0.0593,1.001,1.85-2.10

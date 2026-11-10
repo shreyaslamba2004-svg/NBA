@@ -33,16 +33,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909957,DEN,1630192,Zeke Nnaji,,,1.0,,,
 401909957,DEN,1631124,Julian Strawther,Out,Injury/Illness-LeftKneeSprain,0.0,"Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",,
 401909957,DEN,1641715,Cam Whitmore,,,1.0,,,
-401909958,PHX,1626164,Devin Booker,,,1.0,,,
+401909958,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
 401909958,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909958,PHX,1628970,Miles Bridges,,,1.0,,,
-401909958,PHX,1628415,Dillon Brooks,,,1.0,,,
+401909958,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
+401909958,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
 401909958,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909958,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909958,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909958,PHX,1630692,Jordan Goodwin,Out,,0.0,"Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports.",,
-401909958,PHX,1630224,Jalen Green,,,1.0,,,
-401909958,PHX,1642345,Oso Ighodaro,,,1.0,,,
+401909958,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
+401909958,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
 401909958,PHX,1628379,Luke Kennard,,,1.0,,,
 401909958,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909958,PHX,905041953,Koa Peat,,,1.0,,,
@@ -53,11 +53,11 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909958,SAS,203084,Harrison Barnes,,,1.0,,,
 401909958,SAS,905105337,Maliq Brown,Out,GLeague-Two-Way,0.0,,,
 401909958,SAS,1642868,Carter Bryant,,,1.0,,,
-401909958,SAS,1642264,Stephon Castle,,,1.0,,,
-401909958,SAS,1630577,Julian Champagnie,,,1.0,,,
-401909958,SAS,1628368,De'Aaron Fox,,,1.0,,,
+401909958,SAS,1642264,Stephon Castle,Starting,,1.0,,,1.0
+401909958,SAS,1630577,Julian Champagnie,Starting,,1.0,,,1.0
+401909958,SAS,1628368,De'Aaron Fox,Starting,,1.0,,,1.0
 401909958,SAS,905107968,Ja'Kobi Gillespie,Out,GLeague-Two-Way,0.0,,,
-401909958,SAS,1642844,Dylan Harper,,,1.0,,,
+401909958,SAS,1642844,Dylan Harper,Starting,,1.0,,,1.0
 401909958,SAS,202699,Tobias Harris,Out,Injury/Illness-LeftCalfStrain,0.0,Harris (calf) is listed as out for Monday's game against Phoenix.,,
 401909958,SAS,1629640,Keldon Johnson,,,1.0,,,
 401909958,SAS,1642357,David Jones Garcia,,,1.0,,,
@@ -66,7 +66,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909958,SAS,905101845,Jayden Quaintance,Out,Injury/Illness-RightKneeSurgery,0.0,"Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",,
 401909958,SAS,905105809,Tarris Reed Jr.,,,1.0,,,
 401909958,SAS,1630170,Devin Vassell,Out,,0.0,"Vassell (groin) is out for Monday's game against the Suns, Tom Orsborn of the San Antonio Express-News reports.",,
-401909958,SAS,1641705,Victor Wembanyama,,,1.0,,,
+401909958,SAS,1641705,Victor Wembanyama,Starting,,1.0,,,1.0
 401909959,GSW,1629646,Charles Bassey,,,1.0,,,
 401909959,GSW,202710,Jimmy Butler III,Out,Injury/Illness-RightACLRepair/,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401909959,GSW,1643018,LJ Cryer,,,1.0,,,
@@ -82,7 +82,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909959,GSW,1627780,Gary Payton II,Questionable,,0.55,Payton (left knee soreness) is listed as questionable for Monday's game against New Orleans.,,
 401909959,GSW,1641764,Brandin Podziemski,,,1.0,,,
 401909959,GSW,204001,Kristaps Porzingis,Out,NotWithTeam,0.0,Porzingis announced on his social media that he's stepping away from basketball.,,
-401909959,GSW,1642954,Will Richard,Out,Injury/Illness-LeftThumbUCLTear,0.0,Richard is out for Monday's game against the Pelicans due to a left thumb UCL tear.,,
+401909959,GSW,1642954,Will Richard,Out,Injury/Illness-LeftThumbUCLTear,0.0,"Richard is deciding between getting surgery or playing with a splint, Luca Evans of the San Francisco Chronicle reports.",,
 401909959,GSW,1630611,Gui Santos,Probable,Injury/Illness-LeftKneeTendinitis,0.93,Santos (knee) is listed as probable for Monday's game against New Orleans.,,
 401909959,GSW,1630314,Brandon Williams,,,1.0,,,
 401909959,NOP,1630180,Saddiq Bey,,,1.0,,,
