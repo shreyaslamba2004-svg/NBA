@@ -1,65 +1,59 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ NYK,Myles Turner 3pm under 1.5 + NYK win,2,0.5002,0.424,2.36,2.48,2.28,-0.0345,1.023,2.10-2.50
-MIL @ NYK,NYK win + Brayden Burries pts under 11.5,2,0.4896,0.4397,2.27,2.39,2.19,-0.0374,1.032,2.10-2.50
-MIL @ NYK,NYK win + Brayden Burries pa under 15.5,2,0.5376,0.4827,2.07,2.18,1.99,-0.0408,1.028,1.85-2.10
-MIL @ NYK,NYK win + Brayden Burries pr under 17.5,2,0.4841,0.4445,2.25,2.36,2.15,-0.0454,1.027,2.10-2.50
-MIL @ NYK,NYK win + Brayden Burries pra under 21.5,2,0.5235,0.4821,2.07,2.18,1.97,-0.0488,1.024,1.85-2.10
-MIL @ NYK,NYK win + Brayden Burries 3pm under 1.5,2,0.5524,0.4957,2.02,2.12,1.91,-0.0538,1.014,1.85-2.10
-MIL @ NYK,Brayden Burries 3pm under 1.5 + OG Anunoby 15+ pra,2,0.6193,0.4949,2.02,2.12,1.84,-0.0912,1.002,1.65-1.85
-MIL @ NYK,Brayden Burries 3pm under 1.5 + OG Anunoby 10+ pa,2,0.629,0.5049,1.98,2.08,1.8,-0.0926,1.001,1.65-1.85
-MIL @ NYK,Brayden Burries 3pm under 1.5 + Kyle Kuzma 10+ pra,2,0.622,0.4935,2.03,2.13,1.83,-0.0977,0.994,1.65-1.85
-MIL @ NYK,NYK win + Myles Turner 1+ blk + OG Anunoby 15+ pr,3,0.5919,0.5787,1.73,1.81,1.5,-0.1318,1.012,1.50-1.65
-MIL @ NYK,NYK win + Myles Turner 1+ blk + Landry Shamet 1+ 3pm,3,0.5868,0.572,1.75,1.84,1.51,-0.1354,1.007,1.50-1.65
-BOS @ PHI,BOS win + Sam Hauser 5+ pa,2,0.5714,0.3939,2.54,2.67,2.47,-0.0276,1.018,2.10-2.50
-BOS @ PHI,BOS win + Sam Hauser 5+ pr,2,0.6239,0.4243,2.36,2.47,2.27,-0.0356,1.007,2.10-2.50
+MIL @ NYK,Kyle Kuzma 2+ reb + NYK win,2,0.7547,0.4664,2.14,2.25,2.19,0.021,1.001,2.10-2.50
+MIL @ NYK,Jaime Jaquez Jr. 2+ reb + NYK win,2,0.7493,0.4827,2.07,2.18,2.09,0.0094,1.002,1.85-2.10
+MIL @ NYK,Kyle Kuzma 2+ reb + Karl-Anthony Towns 2+ reb,2,0.9212,0.4709,2.12,2.23,2.13,0.0031,1.0,2.10-2.50
+MIL @ NYK,OG Anunoby 2+ reb + NYK win,2,0.7859,0.5274,1.9,1.99,1.89,-0.0025,1.001,1.85-2.10
+MIL @ NYK,Kyle Kuzma 2+ reb + Landry Shamet 1+ 3pm,2,0.8091,0.4366,2.29,2.4,2.28,-0.0033,1.003,2.10-2.50
+MIL @ NYK,Myles Turner 2+ reb + NYK win,2,0.7583,0.5121,1.95,2.05,1.94,-0.0068,0.999,1.85-2.10
+MIL @ NYK,Karl-Anthony Towns 4+ reb + NYK win,2,0.8124,0.5734,1.74,1.83,1.71,-0.0169,1.0,1.65-1.85
+MIL @ NYK,OG Anunoby 2+ reb + Karl-Anthony Towns 2+ reb,2,0.9596,0.5326,1.88,1.97,1.84,-0.0198,1.0,1.65-1.85
+MIL @ NYK,Brayden Burries 2+ reb + Karl-Anthony Towns 2+ reb,2,0.9519,0.5402,1.85,1.94,1.8,-0.0257,1.0,1.65-1.85
+MIL @ NYK,NYK win + Landry Shamet 1+ 3pm + Myles Turner 1+ blk,3,0.5868,0.5584,1.79,1.88,1.55,-0.1319,1.007,1.50-1.65
+BOS @ PHI,BOS win + Sam Hauser 5+ pr,2,0.6239,0.4226,2.37,2.48,2.28,-0.0351,1.007,2.10-2.50
+BOS @ PHI,BOS win + Paul George 10+ pts,2,0.616,0.4477,2.23,2.35,2.14,-0.042,1.012,2.10-2.50
 BOS @ PHI,BOS win + Payton Pritchard 10+ pra,2,0.6452,0.4628,2.16,2.27,2.07,-0.0422,1.009,1.85-2.10
-BOS @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.2761,0.4008,2.5,2.62,2.37,-0.0485,1.026,2.10-2.50
-BOS @ PHI,BOS win + Jayson Tatum 4+ reb,2,0.641,0.4549,2.2,2.31,2.09,-0.049,1.0,1.85-2.10
-BOS @ PHI,game over 218.5 + Payton Pritchard 10+ pra,2,0.5021,0.4542,2.2,2.31,2.06,-0.0646,1.019,1.85-2.10
-BOS @ PHI,Sam Hauser 5+ pa + Mitchell Robinson 4+ reb,2,0.667,0.5685,1.76,1.85,1.57,-0.1052,0.999,1.50-1.65
-LAC @ PHX,PHX win + Dillon Brooks 15+ pr,2,0.3416,0.4734,2.11,2.22,2.04,-0.0355,1.043,1.85-2.10
-LAC @ PHX,PHX win + Dillon Brooks 15+ pra,2,0.3668,0.5094,1.96,2.06,1.88,-0.0431,1.035,1.85-2.10
+BOS @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.2761,0.3971,2.52,2.64,2.4,-0.0471,1.026,2.10-2.50
+BOS @ PHI,BOS win + Jayson Tatum 1+ 3pm,2,0.6378,0.4633,2.16,2.27,2.05,-0.0479,1.005,1.85-2.10
+BOS @ PHI,BOS win + Jayson Tatum 4+ reb,2,0.641,0.4617,2.17,2.27,2.05,-0.0513,1.0,1.85-2.10
+LAC @ PHX,PHX win + Dillon Brooks 15+ pr,2,0.3416,0.4737,2.11,2.22,2.04,-0.0357,1.043,1.85-2.10
+LAC @ PHX,PHX win + Dillon Brooks 15+ pra,2,0.3668,0.5102,1.96,2.06,1.88,-0.0433,1.035,1.85-2.10
 LAC @ PHX,PHX win + Dillon Brooks 10+ pts,2,0.3672,0.5009,2.0,2.1,1.91,-0.0448,1.03,1.85-2.10
-LAC @ PHX,PHX -3.5 + Dillon Brooks 15+ pr,2,0.2732,0.4001,2.5,2.62,2.38,-0.0482,1.044,2.10-2.50
-LAC @ PHX,PHX -3.5 + Dillon Brooks 15+ pra,2,0.2936,0.4309,2.32,2.44,2.19,-0.0549,1.037,2.10-2.50
-LAC @ PHX,PHX win + Dillon Brooks 10+ pa,2,0.3861,0.5326,1.88,1.97,1.77,-0.0549,1.021,1.65-1.85
+LAC @ PHX,PHX -3.5 + Dillon Brooks 15+ pr,2,0.2732,0.4003,2.5,2.62,2.38,-0.0484,1.044,2.10-2.50
+LAC @ PHX,PHX win + Dillon Brooks 10+ pa,2,0.3861,0.5321,1.88,1.97,1.78,-0.0548,1.021,1.65-1.85
+LAC @ PHX,PHX -3.5 + Dillon Brooks 15+ pra,2,0.2936,0.4315,2.32,2.43,2.19,-0.0551,1.037,2.10-2.50
 LAC @ PHX,PHX -3.5 + Dillon Brooks 10+ pts,2,0.2941,0.4238,2.36,2.48,2.23,-0.0563,1.032,2.10-2.50
-LAC @ PHX,Max Strus 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.8108,0.5629,1.78,1.87,1.66,-0.0674,1.001,1.65-1.85
-LAC @ PHX,Max Strus 3pm under 2.5 + Dillon Brooks 10+ pts,2,0.7368,0.51,1.96,2.06,1.83,-0.0674,1.0,1.65-1.85
-LAC @ PHX,Max Strus 3pm under 2.5 + Collin Gillespie 5+ pr,2,0.8023,0.5667,1.76,1.85,1.64,-0.0707,1.0,1.50-1.65
-LAC @ PHX,Max Strus 3pm under 2.5 + Collin Gillespie 5+ pa,2,0.8079,0.5715,1.75,1.84,1.63,-0.0711,1.0,1.50-1.65
-LAC @ PHX,Rui Hachimura 3pm under 2.5 + Collin Gillespie 5+ pa,2,0.7132,0.5578,1.79,1.88,1.63,-0.0914,0.998,1.50-1.65
-MIA @ UTA,Ace Bailey 2+ ast + MIA win,2,0.5597,0.3953,2.53,2.66,2.41,-0.0461,0.986,2.10-2.50
-MIA @ UTA,MIA win + game over 227.5,2,0.5842,0.3801,2.63,2.76,2.49,-0.0544,0.997,2.10-2.50
-MIA @ UTA,game over 227.5 + Ace Bailey 15+ pr,2,0.6755,0.4073,2.46,2.58,2.31,-0.0575,1.019,2.10-2.50
-MIA @ UTA,Ace Bailey 2+ ast + Andrew Wiggins 5+ pa,2,0.6874,0.4774,2.09,2.2,1.96,-0.0656,1.0,1.85-2.10
-MIA @ UTA,Ace Bailey 2+ ast + Davion Mitchell 15+ pra,2,0.6654,0.4581,2.18,2.29,2.04,-0.0657,0.999,1.85-2.10
-MIA @ UTA,Jaxson Hayes 10+ pts + Andrew Wiggins 5+ pa,2,0.5133,0.4456,2.24,2.36,2.08,-0.0745,1.001,1.85-2.10
+LAC @ PHX,PHX win + Collin Gillespie 5+ pa,2,0.3947,0.5501,1.82,1.91,1.7,-0.0674,1.009,1.65-1.85
+LAC @ PHX,PHX win + Collin Gillespie 5+ pr,2,0.3913,0.5457,1.83,1.92,1.71,-0.0689,1.008,1.65-1.85
+LAC @ PHX,Jalen Green 1+ 3pm + Dillon Brooks 15+ pr,2,0.6701,0.5867,1.7,1.79,1.52,-0.1064,1.002,1.50-1.65
+MIA @ UTA,Ace Bailey 2+ reb + Bam Adebayo 2+ reb,2,0.9671,0.4388,2.28,2.39,2.33,0.0221,1.0,2.10-2.50
+MIA @ UTA,Ace Bailey 2+ reb + MIA win,2,0.7695,0.445,2.25,2.36,2.28,0.0147,1.0,2.10-2.50
+MIA @ UTA,Ace Bailey 2+ reb + Bam Adebayo 1+ 3pm,2,0.7582,0.3991,2.51,2.63,2.49,-0.0059,1.001,2.10-2.50
+MIA @ UTA,Jaxson Hayes 2+ reb + Bam Adebayo 2+ reb,2,0.9776,0.5236,1.91,2.01,1.87,-0.0202,1.0,1.85-2.10
+MIA @ UTA,Jaxson Hayes 2+ reb + MIA win,2,0.7788,0.5316,1.88,1.98,1.83,-0.0262,1.001,1.65-1.85
+MIA @ UTA,Bam Adebayo 2+ reb + MIA win,2,0.7911,0.5735,1.74,1.83,1.67,-0.04,1.0,1.65-1.85
+MIA @ UTA,Jaxson Hayes 2+ reb + Bam Adebayo 1+ 3pm,2,0.7655,0.4756,2.1,2.21,2.0,-0.0483,1.0,1.85-2.10
+MIA @ UTA,Jaxson Hayes 2+ reb + Ace Bailey 10+ pts,2,0.8867,0.5552,1.8,1.89,1.71,-0.0487,1.001,1.65-1.85
+MIA @ UTA,Bam Adebayo 2+ reb + Pelle Larsson 3pm under 1.5,2,0.751,0.4711,2.12,2.23,2.01,-0.051,1.001,1.85-2.10
 MIA @ UTA,MIA win + Ace Bailey 10+ pts,2,0.7104,0.6021,1.66,1.74,1.53,-0.0773,0.991,1.50-1.65
-MIA @ UTA,MIA win + Ace Bailey 15+ pr,2,0.7054,0.604,1.66,1.74,1.52,-0.0793,0.99,1.50-1.65
-MIA @ UTA,Ace Bailey 15+ pa + Darryn Peterson 15+ pr,2,0.7067,0.5504,1.82,1.91,1.67,-0.0818,1.008,1.65-1.85
-MIA @ UTA,Ace Bailey 15+ pa + Jaxson Hayes 4+ reb,2,0.697,0.5427,1.84,1.93,1.69,-0.0848,1.005,1.65-1.85
-MIA @ UTA,Ace Bailey 15+ pa + Davion Mitchell 15+ pra,2,0.7392,0.5662,1.77,1.85,1.61,-0.0856,1.001,1.50-1.65
-MIA @ UTA,Ace Bailey 15+ pa + Bam Adebayo 20+ pr,2,0.701,0.5395,1.85,1.95,1.69,-0.0858,1.002,1.65-1.85
-ORL @ SAC,Franz Wagner ra under 14.5 + Precious Achiuwa 4+ reb,2,0.6654,0.4347,2.3,2.42,2.17,-0.0546,1.001,2.10-2.50
-ORL @ SAC,Franz Wagner ra under 14.5 + De'Andre Hunter 10+ pr,2,0.6788,0.4524,2.21,2.32,2.08,-0.058,1.001,1.85-2.10
-ORL @ SAC,Franz Wagner ra under 14.5 + Malik Monk 5+ pa,2,0.6934,0.4659,2.15,2.25,2.02,-0.0611,0.999,1.85-2.10
-ORL @ SAC,Franz Wagner ra under 14.5 + Anthony Black 1+ stl,2,0.5984,0.3992,2.5,2.63,2.35,-0.0618,0.997,2.10-2.50
-ORL @ SAC,Franz Wagner ra under 14.5 + Darius Acuff Jr. 15+ pts,2,0.6457,0.4367,2.29,2.4,2.15,-0.0619,0.999,2.10-2.50
-ORL @ SAC,Franz Wagner ra under 14.5 + Wendell Carter Jr. 15+ pra,2,0.6684,0.4509,2.22,2.33,2.07,-0.0645,0.996,1.85-2.10
-ORL @ SAC,Franz Wagner ast under 8.5 + Malik Monk 5+ pa,2,0.714,0.5077,1.97,2.07,1.83,-0.0715,1.0,1.65-1.85
-ORL @ SAC,ORL win + Wendell Carter Jr. 15+ pra,2,0.5277,0.5957,1.68,1.76,1.55,-0.0776,1.012,1.50-1.65
-ORL @ SAC,Franz Wagner ast under 8.5 + Desmond Bane 15+ pra,2,0.7077,0.5058,1.98,2.08,1.82,-0.0784,0.994,1.65-1.85
-ORL @ SAC,ORL win + Precious Achiuwa 4+ reb,2,0.5181,0.5664,1.77,1.85,1.62,-0.0807,1.003,1.50-1.65
-ORL @ SAC,ORL win + Anthony Black 1+ stl,2,0.466,0.5202,1.92,2.02,1.75,-0.0875,0.999,1.65-1.85
-ORL @ SAC,ORL win + Malik Monk 5+ pa,2,0.5382,0.6051,1.65,1.74,1.5,-0.0898,0.998,1.50-1.65
-OKC @ POR,game over 226.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3952,0.3914,2.55,2.68,2.45,-0.0393,1.028,2.10-2.50
-OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5533,0.4182,2.39,2.51,2.29,-0.0433,1.012,2.10-2.50
-OKC @ POR,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5266,0.3922,2.55,2.68,2.42,-0.0505,1.012,2.10-2.50
-OKC @ POR,game over 226.5 + Isaiah Hartenstein 10+ pr,2,0.4191,0.4621,2.16,2.27,2.02,-0.0656,1.018,1.85-2.10
-OKC @ POR,OKC win + Isaiah Hartenstein 10+ pr,2,0.5892,0.4958,2.02,2.12,1.88,-0.0657,1.006,1.85-2.10
-OKC @ POR,OKC -1.5 + Isaiah Hartenstein 10+ pr,2,0.5612,0.4653,2.15,2.26,1.99,-0.0719,1.008,1.85-2.10
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7019,0.5758,1.74,1.82,1.57,-0.0978,1.0,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Aday Mara 1+ blk,3,0.6361,0.4707,2.12,2.23,1.82,-0.1416,1.001,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Isaiah Hartenstein 10+ pr,3,0.7538,0.5656,1.77,1.86,1.52,-0.143,1.002,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk + Isaiah Hartenstein 10+ pr,3,0.6639,0.5241,1.91,2.0,1.62,-0.1496,1.002,1.50-1.65
+MIA @ UTA,Bam Adebayo 1+ 3pm + Ace Bailey 1+ 3pm,2,0.711,0.5757,1.74,1.82,1.57,-0.0955,1.001,1.50-1.65
+ORL @ SAC,Franz Wagner ra under 14.5 + Precious Achiuwa 4+ reb,2,0.6654,0.449,2.23,2.34,2.1,-0.0592,1.001,1.85-2.10
+ORL @ SAC,Franz Wagner ra under 14.5 + De'Andre Hunter 10+ pr,2,0.6788,0.4651,2.15,2.26,2.02,-0.0618,1.001,1.85-2.10
+ORL @ SAC,SAC +5.5 + Darius Acuff Jr. 25+ pra,2,0.5231,0.4235,2.36,2.48,2.21,-0.0628,1.028,2.10-2.50
+ORL @ SAC,Franz Wagner ra under 14.5 + Darius Acuff Jr. 20+ pra,2,0.7013,0.4823,2.07,2.18,1.94,-0.0644,0.999,1.85-2.10
+ORL @ SAC,Franz Wagner ra under 14.5 + Anthony Black 1+ stl,2,0.5984,0.4107,2.43,2.56,2.27,-0.0656,0.997,2.10-2.50
+ORL @ SAC,Precious Achiuwa 17+ pr + Darius Acuff Jr. 25+ pra,2,0.5702,0.4401,2.27,2.39,2.12,-0.0674,1.016,2.10-2.50
+ORL @ SAC,Franz Wagner ast under 8.5 + Darius Acuff Jr. 20+ pra,2,0.7215,0.5176,1.93,2.03,1.79,-0.0747,0.999,1.65-1.85
+ORL @ SAC,Franz Wagner ast under 8.5 + Malik Monk 5+ pa,2,0.714,0.5164,1.94,2.03,1.79,-0.0748,1.0,1.65-1.85
+ORL @ SAC,ORL win + Wendell Carter Jr. 15+ pra,2,0.5277,0.5923,1.69,1.77,1.56,-0.0767,1.012,1.50-1.65
+ORL @ SAC,Franz Wagner ast under 8.5 + Darius Acuff Jr. 4+ ast,2,0.6906,0.5011,2.0,2.1,1.84,-0.0776,0.998,1.65-1.85
+ORL @ SAC,ORL win + Precious Achiuwa 4+ reb,2,0.5181,0.5675,1.76,1.85,1.62,-0.0811,1.003,1.50-1.65
+ORL @ SAC,ORL win + Malik Monk 5+ pa,2,0.5382,0.6058,1.65,1.73,1.5,-0.0899,0.998,1.50-1.65
+OKC @ POR,game over 226.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3952,0.3951,2.53,2.66,2.43,-0.041,1.028,2.10-2.50
+OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5533,0.4221,2.37,2.49,2.26,-0.0449,1.012,2.10-2.50
+OKC @ POR,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5266,0.3958,2.53,2.65,2.39,-0.0521,1.012,2.10-2.50
+OKC @ POR,OKC win + Alex Caruso 5+ pr,2,0.5645,0.4486,2.23,2.34,2.1,-0.0581,1.005,1.85-2.10
+OKC @ POR,OKC win + Kenrich Williams 5+ pa,2,0.5555,0.4636,2.16,2.26,2.03,-0.0582,1.013,1.85-2.10
+OKC @ POR,game over 226.5 + Isaiah Hartenstein 10+ pr,2,0.4191,0.4604,2.17,2.28,2.03,-0.0652,1.018,1.85-2.10
+OKC @ POR,Donovan Clingan ra under 13.5 + Isaiah Hartenstein 10+ pr,2,0.6586,0.5049,1.98,2.08,1.81,-0.0859,0.997,1.65-1.85
+OKC @ POR,Donovan Clingan reb under 11.5 + Isaiah Hartenstein 10+ pr,2,0.6515,0.5068,1.97,2.07,1.79,-0.0911,0.997,1.65-1.85
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Kenrich Williams 5+ pa,3,0.7054,0.5339,1.87,1.97,1.6,-0.145,1.001,1.50-1.65
