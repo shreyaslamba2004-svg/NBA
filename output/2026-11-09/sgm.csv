@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NOP @ GSW,Karlo Matkovic 9+ pts + Dejounte Murray 4+ ast,2,0.5706,0.4098,2.44,2.56,2.42,-0.0071,1.01,2.10-2.50
-NOP @ GSW,GSW win + Stephen Curry 28+ pts,2,0.3892,0.4277,2.34,2.45,2.3,-0.0159,1.046,2.10-2.50
-NOP @ GSW,Karlo Matkovic 9+ pts + Derik Queen 15+ pr,2,0.5561,0.4067,2.46,2.58,2.42,-0.0163,1.004,2.10-2.50
-NOP @ GSW,GSW win + Karlo Matkovic 5+ reb,2,0.5547,0.4652,2.15,2.26,2.03,-0.054,1.001,1.85-2.10
-NOP @ GSW,Jeremiah Fears 18+ pts + Dejounte Murray 10+ pts,2,0.5314,0.4546,2.2,2.31,2.07,-0.057,1.008,1.85-2.10
-NOP @ GSW,Karlo Matkovic 5+ reb + Dejounte Murray 4+ ast,2,0.615,0.444,2.25,2.36,2.09,-0.0706,1.004,1.85-2.10
-NOP @ GSW,Karlo Matkovic 5+ reb + Dejounte Murray 10+ pts,2,0.6511,0.5006,2.0,2.1,1.83,-0.0822,1.002,1.65-1.85
-NOP @ GSW,Karlo Matkovic 5+ reb + Jeremiah Fears 10+ pts,2,0.6505,0.4992,2.0,2.1,1.84,-0.0825,1.002,1.65-1.85
-NOP @ GSW,Derik Queen 3+ ast + Jeremiah Fears 10+ pts,2,0.6817,0.5153,1.94,2.04,1.78,-0.0828,1.005,1.65-1.85
-NOP @ GSW,Derik Queen 15+ pr + Jeremiah Fears 1+ 3pm,2,0.6986,0.5858,1.71,1.79,1.54,-0.0993,1.003,1.50-1.65
-NOP @ GSW,Derik Queen 15+ pr + Dejounte Murray 4+ reb,2,0.6903,0.5886,1.7,1.78,1.53,-0.0997,1.005,1.50-1.65
-NOP @ GSW,Jeremiah Fears 1+ 3pm + Dejounte Murray 4+ reb,2,0.6656,0.5799,1.72,1.81,1.55,-0.1031,1.005,1.50-1.65
+NOP @ GSW,Karlo Matkovic 9+ pts + Dejounte Murray 4+ ast,2,0.5725,0.4075,2.45,2.58,2.42,-0.0126,1.003,2.10-2.50
+NOP @ GSW,Karlo Matkovic 9+ pts + Derik Queen 15+ pr,2,0.5597,0.4076,2.45,2.58,2.42,-0.0141,1.005,2.10-2.50
+NOP @ GSW,Karlo Matkovic 9+ pts + Jeremiah Fears 1+ 3pm,2,0.5452,0.4011,2.49,2.62,2.45,-0.0191,1.002,2.10-2.50
+NOP @ GSW,Karlo Matkovic 9+ pts + Draymond Green 5+ pr,2,0.6418,0.4816,2.08,2.18,2.03,-0.0228,1.001,1.85-2.10
+NOP @ GSW,Karlo Matkovic 9+ pts + Draymond Green 10+ pra,2,0.6264,0.4726,2.12,2.22,2.06,-0.0246,1.0,1.85-2.10
+NOP @ GSW,Karlo Matkovic 5+ reb + GSW win,2,0.5698,0.4664,2.14,2.25,2.03,-0.0517,0.999,1.85-2.10
+NOP @ GSW,Karlo Matkovic 5+ reb + Draymond Green 5+ pr,2,0.7068,0.5263,1.9,2.0,1.75,-0.0775,1.001,1.65-1.85
+NOP @ GSW,Karlo Matkovic 5+ reb + Jeremiah Fears 10+ pts,2,0.6686,0.5012,2.0,2.09,1.84,-0.0787,1.001,1.65-1.85
+NOP @ GSW,Karlo Matkovic 5+ reb + Draymond Green 10+ pra,2,0.69,0.5166,1.94,2.03,1.78,-0.0791,1.001,1.65-1.85
+NOP @ GSW,Derik Queen 15+ pr + Jeremiah Fears 1+ 3pm,2,0.6965,0.5851,1.71,1.79,1.54,-0.1003,1.002,1.50-1.65
+NOP @ GSW,Derik Queen 15+ pr + Dejounte Murray 4+ reb,2,0.6847,0.5866,1.7,1.79,1.53,-0.1028,1.002,1.50-1.65
+NOP @ GSW,Jeremiah Fears 1+ 3pm + Dejounte Murray 4+ reb,2,0.669,0.579,1.73,1.81,1.55,-0.1045,1.002,1.50-1.65
