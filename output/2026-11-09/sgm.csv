@@ -1,46 +1,37 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-IND @ DAL,Daniel Gafford 10+ pts + P.J. Washington 4+ reb,2,0.495,0.4457,2.24,2.36,2.1,-0.0632,1.003,2.10-2.50
-IND @ DAL,Daniel Gafford 10+ pts + Cooper Flagg 4+ reb,2,0.4844,0.4415,2.27,2.38,2.11,-0.0664,1.002,2.10-2.50
-IND @ DAL,Jarace Walker 11+ pr + P.J. Washington 4+ reb,2,0.6791,0.4882,2.05,2.15,1.9,-0.0715,1.003,1.85-2.10
-IND @ DAL,Jarace Walker 11+ pr + Cooper Flagg 4+ reb,2,0.6651,0.4839,2.07,2.17,1.91,-0.074,1.002,1.85-2.10
-IND @ DAL,Jarace Walker 4+ reb + P.J. Washington 4+ reb,2,0.6518,0.4827,2.07,2.18,1.92,-0.0755,1.003,1.85-2.10
-IND @ DAL,Cooper Flagg 25+ pts + P.J. Washington 4+ reb,2,0.4267,0.4398,2.27,2.39,2.1,-0.0757,1.004,2.10-2.50
-IND @ DAL,DAL win + P.J. Washington 4+ reb,2,0.5911,0.5334,1.87,1.97,1.71,-0.0863,1.004,1.65-1.85
-IND @ DAL,Cooper Flagg ast under 7.5 + P.J. Washington 4+ reb,2,0.6565,0.5024,1.99,2.09,1.82,-0.0879,0.998,1.65-1.85
-IND @ DAL,DAL win + Cooper Flagg 4+ reb,2,0.5779,0.5279,1.89,1.99,1.72,-0.0901,1.001,1.65-1.85
 DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 10+ pr,2,0.4406,0.4073,2.46,2.58,2.36,-0.0407,1.014,2.10-2.50
-DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 15+ pra,2,0.4248,0.4003,2.5,2.62,2.4,-0.0408,1.017,2.10-2.50
-DEN @ HOU,game over 223.5 + Fred VanVleet 15+ pra,2,0.4991,0.4098,2.44,2.56,2.34,-0.0415,1.04,2.10-2.50
+DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 15+ pra,2,0.4248,0.4005,2.5,2.62,2.4,-0.0408,1.017,2.10-2.50
+DEN @ HOU,game over 223.5 + Fred VanVleet 15+ pra,2,0.4991,0.4099,2.44,2.56,2.34,-0.0415,1.04,2.10-2.50
 DEN @ HOU,Amen Thompson 16+ pts + Alperen Sengun 15+ pr,2,0.483,0.4571,2.19,2.3,2.07,-0.0531,1.004,1.85-2.10
-DEN @ HOU,HOU win + Fred VanVleet 15+ pra,2,0.503,0.4944,2.02,2.12,1.91,-0.0538,1.029,1.85-2.10
-DEN @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5022,0.4942,2.02,2.12,1.91,-0.0585,1.025,1.85-2.10
+DEN @ HOU,HOU win + Fred VanVleet 15+ pra,2,0.503,0.4945,2.02,2.12,1.91,-0.0538,1.029,1.85-2.10
+DEN @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5022,0.4949,2.02,2.12,1.9,-0.0588,1.025,1.85-2.10
 DEN @ HOU,HOU win + Alperen Sengun 15+ pr,2,0.5659,0.5587,1.79,1.88,1.65,-0.0757,1.006,1.65-1.85
 DEN @ HOU,HOU win + Alperen Sengun 6+ reb,2,0.5204,0.5061,1.98,2.07,1.82,-0.0793,1.0,1.65-1.85
-DEN @ HOU,Kevin Durant 4+ reb + Nikola Jokic 8+ reb,2,0.6996,0.5951,1.68,1.76,1.51,-0.1039,1.0,1.50-1.65
-DEN @ HOU,Fred VanVleet 10+ pr + Nikola Jokic 8+ reb + Alperen Sengun 6+ reb,3,0.6659,0.5241,1.91,2.0,1.63,-0.1444,1.009,1.50-1.65
-DEN @ HOU,Kevin Durant 4+ reb + Fred VanVleet 15+ pra + Jabari Smith Jr. 10+ pts,3,0.6002,0.4838,2.07,2.17,1.77,-0.1449,1.012,1.65-1.85
+DEN @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Nikola Jokic 8+ reb,3,0.6659,0.5256,1.9,2.0,1.63,-0.1448,1.009,1.50-1.65
+DEN @ HOU,Kevin Durant 4+ reb + Fred VanVleet 15+ pra + Jabari Smith Jr. 10+ pts,3,0.6002,0.4864,2.06,2.16,1.76,-0.1456,1.012,1.65-1.85
 DEN @ HOU,Fred VanVleet 10+ pr + Christian Braun 10+ pr + Alperen Sengun 6+ reb,3,0.6771,0.5318,1.88,1.97,1.6,-0.1488,1.003,1.50-1.65
+DEN @ HOU,Christian Braun 10+ pr + Alperen Sengun 6+ reb + Nikola Jokic 8+ reb,3,0.6496,0.516,1.94,2.03,1.65,-0.1491,1.005,1.50-1.65
 SAS @ PHX,game over 226.5 + Dillon Brooks 15+ pra,2,0.4486,0.4,2.5,2.63,2.4,-0.042,1.04,2.10-2.50
 SAS @ PHX,game over 226.5 + De'Aaron Fox 10+ pts,2,0.4333,0.4053,2.47,2.59,2.35,-0.0461,1.044,2.10-2.50
 SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pts,2,0.4724,0.41,2.44,2.56,2.32,-0.047,1.024,2.10-2.50
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7338,0.477,2.1,2.2,1.98,-0.0572,0.998,1.85-2.10
 SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pa,2,0.7053,0.4594,2.18,2.29,2.05,-0.0587,0.997,1.85-2.10
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dylan Harper 15+ pr,2,0.6782,0.4481,2.23,2.34,2.09,-0.0627,0.995,1.85-2.10
+SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pr,2,0.5131,0.4554,2.2,2.31,2.05,-0.0667,1.007,1.85-2.10
 SAS @ PHX,SAS win + De'Aaron Fox 10+ pts,2,0.6229,0.5993,1.67,1.75,1.55,-0.0683,1.019,1.50-1.65
 SAS @ PHX,Devin Booker 5+ ast + Dillon Brooks 10+ pr,2,0.6485,0.5088,1.97,2.06,1.79,-0.0883,1.002,1.65-1.85
 SAS @ PHX,SAS win + Dillon Brooks 15+ pra,2,0.6269,0.5747,1.74,1.83,1.58,-0.0906,0.987,1.50-1.65
 SAS @ PHX,SAS win + Devin Booker 1+ 3pm,2,0.6215,0.5975,1.67,1.76,1.52,-0.0922,0.993,1.50-1.65
-SAS @ PHX,SAS win + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.5637,0.4991,2.0,2.1,1.8,-0.1028,1.036,1.65-1.85
-SAS @ PHX,SAS win + Dylan Harper 15+ pr + De'Aaron Fox 10+ pts,3,0.5629,0.5031,1.99,2.09,1.77,-0.1077,1.032,1.65-1.85
+SAS @ PHX,SAS win + Stephon Castle 10+ pts + De'Aaron Fox 10+ pts,3,0.5637,0.4973,2.01,2.11,1.81,-0.1022,1.036,1.65-1.85
+SAS @ PHX,SAS win + De'Aaron Fox 10+ pts + Stephon Castle 15+ pa,3,0.5599,0.5029,1.99,2.09,1.78,-0.1032,1.038,1.65-1.85
 NOP @ GSW,game over 229.5 + Derik Queen 15+ pr,2,0.5523,0.3875,2.58,2.71,2.44,-0.0549,1.028,2.10-2.50
 NOP @ GSW,GSW win + game under 228.5,2,0.2753,0.406,2.46,2.59,2.32,-0.0574,1.008,2.10-2.50
-NOP @ GSW,GSW win + Karlo Matkovic 5+ reb,2,0.5569,0.4673,2.14,2.25,2.01,-0.0603,1.001,1.85-2.10
+NOP @ GSW,GSW win + Karlo Matkovic 5+ reb,2,0.5569,0.4678,2.14,2.24,2.01,-0.0593,1.001,1.85-2.10
 NOP @ GSW,GSW win + game over 229.5,2,0.5016,0.3951,2.53,2.66,2.38,-0.061,0.996,2.10-2.50
-NOP @ GSW,Karlo Matkovic 14+ pr + Yaxel Lendeborg 1+ 3pm,2,0.6154,0.4451,2.25,2.36,2.1,-0.0674,1.005,1.85-2.10
-NOP @ GSW,Karlo Matkovic 14+ pr + Dejounte Murray 20+ pra,2,0.6461,0.4742,2.11,2.21,1.96,-0.0689,1.005,1.85-2.10
-NOP @ GSW,GSW win + Karlo Matkovic 1+ 3pm,2,0.5972,0.5172,1.93,2.03,1.79,-0.0752,0.99,1.65-1.85
+NOP @ GSW,GSW win + Derik Queen 3+ ast,2,0.5746,0.4641,2.15,2.26,2.01,-0.0693,0.986,1.85-2.10
+NOP @ GSW,Karlo Matkovic 14+ pr + Yaxel Lendeborg 1+ 3pm,2,0.6154,0.4426,2.26,2.37,2.1,-0.0727,1.005,1.85-2.10
+NOP @ GSW,GSW win + Karlo Matkovic 1+ 3pm,2,0.5972,0.515,1.94,2.04,1.8,-0.0745,0.99,1.65-1.85
 NOP @ GSW,Derik Queen 3+ ast + Dejounte Murray 20+ pra,2,0.6781,0.5048,1.98,2.08,1.82,-0.0797,1.004,1.65-1.85
 NOP @ GSW,Derik Queen 3+ ast + Jeremiah Fears 10+ pts,2,0.6778,0.506,1.98,2.08,1.82,-0.0815,1.003,1.65-1.85
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Jeremiah Fears 10+ pts,2,0.7014,0.5614,1.78,1.87,1.62,-0.0912,1.003,1.50-1.65
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 20+ pra,2,0.7003,0.559,1.79,1.88,1.63,-0.0913,1.002,1.50-1.65
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 15+ pa,2,0.705,0.5677,1.76,1.85,1.6,-0.0919,1.003,1.50-1.65
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Jeremiah Fears 10+ pts,2,0.7014,0.5591,1.79,1.88,1.63,-0.0906,1.003,1.50-1.65
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 20+ pra,2,0.7003,0.5567,1.8,1.89,1.63,-0.0906,1.002,1.50-1.65
+NOP @ GSW,Jeremiah Fears 1+ 3pm + Dejounte Murray 4+ reb,2,0.6665,0.5855,1.71,1.79,1.53,-0.1065,1.002,1.50-1.65
