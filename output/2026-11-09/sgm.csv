@@ -8,18 +8,18 @@ IND @ DAL,P.J. Washington pts under 13.5 + Aaron Nesmith 5+ pa,2,0.4827,0.4596,2
 IND @ DAL,Cooper Flagg ast under 7.5 + Andrew Nembhard 4+ ast,2,0.6578,0.5034,1.99,2.09,1.82,-0.0851,1.001,1.65-1.85
 IND @ DAL,Cooper Flagg ast under 7.5 + Aaron Nesmith 5+ pa,2,0.6914,0.5262,1.9,2.0,1.74,-0.0856,0.999,1.65-1.85
 IND @ DAL,Cooper Flagg ast under 7.5 + P.J. Washington 4+ reb,2,0.6586,0.5014,1.99,2.09,1.82,-0.087,0.998,1.65-1.85
+DEN @ HOU,Amen Thompson 16+ pts + Tari Eason 10+ pr,2,0.4716,0.4084,2.45,2.57,2.36,-0.0346,1.01,2.10-2.50
 DEN @ HOU,Amen Thompson 16+ pts + Jabari Smith Jr. 10+ pts,2,0.4676,0.4045,2.47,2.6,2.39,-0.0351,1.009,2.10-2.50
-DEN @ HOU,Amen Thompson 16+ pts + Tari Eason 10+ pr,2,0.4716,0.4112,2.43,2.55,2.34,-0.0358,1.01,2.10-2.50
-DEN @ HOU,Amen Thompson 16+ pts + Kevin Durant 4+ reb,2,0.4546,0.3889,2.57,2.7,2.47,-0.0379,1.004,2.10-2.50
+DEN @ HOU,Amen Thompson 16+ pts + Nikola Jokic 8+ reb,2,0.449,0.3952,2.53,2.66,2.43,-0.0377,1.009,2.10-2.50
 DEN @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5131,0.4957,2.02,2.12,1.91,-0.0556,1.025,1.85-2.10
-DEN @ HOU,HOU win + Jabari Smith Jr. 10+ pa,2,0.5458,0.531,1.88,1.98,1.76,-0.0643,1.016,1.65-1.85
-DEN @ HOU,HOU win + Tari Eason 10+ pr,2,0.5118,0.4984,2.01,2.11,1.87,-0.0665,1.014,1.85-2.10
+DEN @ HOU,Aaron Gordon pts under 12.5 + Tari Eason 10+ pra,2,0.5294,0.4478,2.23,2.34,2.09,-0.062,0.998,1.85-2.10
+DEN @ HOU,Aaron Gordon pts under 12.5 + Jabari Smith Jr. 4+ reb,2,0.5383,0.4576,2.19,2.29,2.05,-0.0623,0.998,1.85-2.10
 DEN @ HOU,HOU win + Tari Eason 10+ pra,2,0.5319,0.5196,1.92,2.02,1.79,-0.0699,1.011,1.65-1.85
 DEN @ HOU,HOU win + Kevin Durant 1+ 3pm,2,0.5107,0.5077,1.97,2.07,1.83,-0.0714,1.012,1.65-1.85
-DEN @ HOU,HOU -4.5 + Jabari Smith Jr. 1+ 3pm,2,0.4269,0.4457,2.24,2.36,2.08,-0.0748,1.008,1.85-2.10
-DEN @ HOU,Amen Thompson 1+ stl + Jabari Smith Jr. 10+ pa,2,0.7162,0.5704,1.75,1.84,1.6,-0.0874,1.0,1.50-1.65
+DEN @ HOU,HOU win + Amen Thompson 10+ pa,2,0.564,0.5608,1.78,1.87,1.65,-0.0722,1.011,1.65-1.85
 DEN @ HOU,Amen Thompson 1+ stl + Tari Eason 10+ pra,2,0.7014,0.561,1.78,1.87,1.63,-0.0882,1.0,1.50-1.65
 DEN @ HOU,Amen Thompson 1+ stl + Jabari Smith Jr. 4+ reb,2,0.7126,0.5728,1.75,1.83,1.59,-0.0893,0.999,1.50-1.65
+DEN @ HOU,Amen Thompson 1+ stl + Nikola Jokic 6+ reb,2,0.7286,0.5909,1.69,1.78,1.54,-0.0907,0.999,1.50-1.65
 SAS @ PHX,game over 226.5 + Dillon Brooks 15+ pra,2,0.4486,0.4,2.5,2.63,2.4,-0.042,1.04,2.10-2.50
 SAS @ PHX,game over 226.5 + De'Aaron Fox 10+ pts,2,0.4333,0.4053,2.47,2.59,2.35,-0.0461,1.044,2.10-2.50
 SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pts,2,0.4724,0.41,2.44,2.56,2.32,-0.047,1.024,2.10-2.50
