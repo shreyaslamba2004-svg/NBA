@@ -1,7 +1,7 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909955,TOR,203937,Kyle Anderson,Starting,,1.0,,,1.0
+401909955,TOR,203937,Kyle Anderson,,,1.0,,,
 401909955,TOR,1630567,Scottie Barnes,Out,Injury/Illness-LeftGroinStrain,0.0,"Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",,
-401909955,TOR,1629628,RJ Barrett,Starting,,1.0,,,1.0
+401909955,TOR,1629628,RJ Barrett,,,1.0,,,
 401909955,TOR,1642419,Jamison Battle,,,1.0,,,
 401909955,TOR,904432586,Nate Bittle,Out,,0.0,Bittle (foot) is listed as out for Monday's game against Memphis.,,
 401909955,TOR,904432737,Jaden Bradley,,,1.0,,,
@@ -11,19 +11,19 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909955,TOR,1642918,Alijah Martin,,,1.0,,,
 401909955,TOR,1641755,Kevin McCullar Jr.,Available,GLeague-Two-Way,1.0,,,
 401909955,TOR,1642867,Collin Murray-Boyles,Out,Injury/Illness-Illness,0.0,"Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports.",,
-401909955,TOR,1627751,Jakob Poeltl,Starting,,1.0,,,1.0
+401909955,TOR,1627751,Jakob Poeltl,,,1.0,,,
 401909955,TOR,1630193,Immanuel Quickley,Out,,0.0,"Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports.",,
-401909955,TOR,1642347,Jamal Shead,Starting,,1.0,,,1.0
+401909955,TOR,1642347,Jamal Shead,,,1.0,,,
 401909955,TOR,1641869,Malachi Smith,Available,GLeague-Two-Way,1.0,,,
-401909955,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
-401909955,MEM,905041935,Cameron Boozer,Starting,,1.0,,,1.0
+401909955,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
+401909955,MEM,905041935,Cameron Boozer,,,1.0,,,
 401909955,MEM,905105817,Carson Cooper,,,1.0,,,
-401909955,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
-401909955,MEM,1641744,Zach Edey,Starting,,1.0,,,1.0
+401909955,MEM,1642907,Cedric Coward,,,1.0,,,
+401909955,MEM,1641744,Zach Edey,,,1.0,,,
 401909955,MEM,203924,Jerami Grant,,,1.0,,,
 401909955,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401909955,MEM,1641713,GG Jackson,,,1.0,,,
-401909955,MEM,1629660,Ty Jerome,Starting,,1.0,,,1.0
+401909955,MEM,1629660,Ty Jerome,,,1.0,,,
 401909955,MEM,905231919,Karim Lopez,Out,GLeague-OnAssignment,0.0,,,
 401909955,MEM,1642942,Jahmai Mashack,Out,GLeague-Two-Way,0.0,,,
 401909955,MEM,1631200,Kris Murray,,,1.0,,,
@@ -34,7 +34,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909955,MEM,1642914,Javon Small,,,1.0,,,
 401909955,MEM,1642285,Cam Spencer,,,1.0,,,
 401909955,MEM,1630191,Isaiah Stewart,Out,,0.0,Stewart (knee) has been ruled out for Monday's game against Toronto.,,
-401909955,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
+401909955,MEM,1642377,Jaylen Wells,,,1.0,,,
 401909956,DAL,1630583,Santi Aldama,,,1.0,,,
 401909956,DAL,905148538,Tarik Biberovic,Out,Injury/Illness-RightHeelBursitis,0.0,Biberovic (heel) is listed as out for Monday's game against Sacramento.,,
 401909956,DAL,1631108,Max Christie,,,1.0,,,
