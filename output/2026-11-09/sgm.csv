@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 15+ pra,2,0.6317,0.4198,2.38,2.5,2.32,-0.0243,0.996,2.10-2.50
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pts,2,0.6265,0.4186,2.39,2.51,2.33,-0.0259,0.995,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 15+ pra,2,0.6317,0.4195,2.38,2.5,2.33,-0.0241,0.996,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pts,2,0.6265,0.4197,2.38,2.5,2.32,-0.0264,0.995,2.10-2.50
 SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pr,2,0.6942,0.4752,2.1,2.21,2.05,-0.0272,0.998,1.85-2.10
-SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pa,2,0.6677,0.4561,2.19,2.3,2.13,-0.0273,0.998,2.10-2.50
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7338,0.4774,2.09,2.2,1.97,-0.0574,0.998,1.85-2.10
-SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pa,2,0.7053,0.4579,2.18,2.29,2.06,-0.0582,0.997,1.85-2.10
-SAS @ PHX,Dillon Brooks 15+ pra + Dylan Harper 15+ pr + Luke Kornet 5+ pr,3,0.6804,0.5195,1.92,2.02,1.66,-0.1399,1.009,1.65-1.85
-SAS @ PHX,Dillon Brooks 15+ pra + De'Aaron Fox 10+ pts + Dylan Harper 15+ pr,3,0.6652,0.5031,1.99,2.09,1.71,-0.1404,1.007,1.65-1.85
-SAS @ PHX,Dillon Brooks 10+ pts + De'Aaron Fox 10+ pts + Dylan Harper 15+ pr,3,0.6594,0.5013,1.99,2.09,1.71,-0.1424,1.005,1.65-1.85
-SAS @ PHX,De'Aaron Fox 10+ pts + Dylan Harper 15+ pr + Luke Kornet 5+ pr,3,0.6541,0.5186,1.93,2.02,1.65,-0.1461,1.008,1.50-1.65
-SAS @ PHX,Dillon Brooks 10+ pa + De'Aaron Fox 10+ pts + Dylan Harper 15+ pr,3,0.7006,0.5445,1.84,1.93,1.57,-0.1463,1.005,1.50-1.65
-SAS @ PHX,Dillon Brooks 10+ pr + De'Aaron Fox 10+ pts + Dylan Harper 15+ pr,3,0.7278,0.5669,1.76,1.85,1.5,-0.1469,1.004,1.50-1.65
-NOP @ GSW,GSW win + Yaxel Lendeborg 2+ 3pm,2,0.5056,0.4483,2.23,2.34,2.12,-0.0513,1.016,2.10-2.50
-NOP @ GSW,game over 229.5 + Derik Queen 15+ pr,2,0.5577,0.3874,2.58,2.71,2.44,-0.054,1.028,2.10-2.50
+SAS @ PHX,Julian Champagnie pts under 11.5 + Dillon Brooks 10+ pa,2,0.6677,0.4585,2.18,2.29,2.12,-0.0282,0.998,2.10-2.50
+SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7338,0.4832,2.07,2.17,1.95,-0.06,0.998,1.85-2.10
+SAS @ PHX,Julian Champagnie 3pm under 2.5 + Dillon Brooks 1+ 3pm,2,0.681,0.4538,2.2,2.31,2.07,-0.0615,0.998,1.85-2.10
+SAS @ PHX,Dillon Brooks 15+ pra + Stephon Castle 15+ pr + Luke Kornet 5+ pr,3,0.668,0.5053,1.98,2.08,1.7,-0.1404,1.007,1.65-1.85
+SAS @ PHX,Dillon Brooks 10+ pts + Stephon Castle 15+ pr + De'Aaron Fox 10+ pts,3,0.6495,0.4901,2.04,2.14,1.75,-0.1404,1.006,1.65-1.85
+SAS @ PHX,Dillon Brooks 15+ pra + Stephon Castle 15+ pr + De'Aaron Fox 10+ pts,3,0.653,0.4884,2.05,2.15,1.76,-0.1409,1.004,1.65-1.85
+SAS @ PHX,Stephon Castle 15+ pr + Dillon Brooks 10+ pa + De'Aaron Fox 10+ pts,3,0.6893,0.5331,1.88,1.97,1.6,-0.1457,1.004,1.50-1.65
+SAS @ PHX,Stephon Castle 15+ pr + Dillon Brooks 10+ pa + Luke Kornet 5+ pr,3,0.7047,0.5511,1.81,1.91,1.55,-0.1458,1.006,1.50-1.65
+SAS @ PHX,Dillon Brooks 10+ pr + Stephon Castle 15+ pr + De'Aaron Fox 10+ pts,3,0.7157,0.5518,1.81,1.9,1.55,-0.146,1.004,1.50-1.65
+NOP @ GSW,game over 229.5 + Derik Queen 15+ pr,2,0.5577,0.3875,2.58,2.71,2.44,-0.0541,1.028,2.10-2.50
 NOP @ GSW,GSW win + game under 228.5,2,0.2702,0.4074,2.45,2.58,2.32,-0.0543,1.012,2.10-2.50
+NOP @ GSW,Derik Queen 3+ ast + Karlo Matkovic 1+ 3pm,2,0.5665,0.3782,2.64,2.78,2.49,-0.0581,1.005,2.10-2.50
 NOP @ GSW,GSW win + Karlo Matkovic 5+ reb,2,0.5547,0.468,2.14,2.24,2.01,-0.059,1.001,1.85-2.10
-NOP @ GSW,Derik Queen 3+ ast + GSW win,2,0.5711,0.4597,2.18,2.28,2.04,-0.0625,0.987,1.85-2.10
+NOP @ GSW,Derik Queen 3+ ast + GSW win,2,0.5711,0.4667,2.14,2.25,2.01,-0.0641,0.987,1.85-2.10
+NOP @ GSW,Derik Queen 3+ ast + Dejounte Murray 4+ ast,2,0.6405,0.4513,2.22,2.33,2.06,-0.07,1.002,1.85-2.10
 NOP @ GSW,GSW win + Karlo Matkovic 1+ 3pm,2,0.5957,0.5195,1.92,2.02,1.79,-0.071,0.993,1.65-1.85
-NOP @ GSW,Derik Queen 3+ ast + Yaxel Lendeborg 1+ 3pm,2,0.6515,0.4697,2.13,2.24,1.97,-0.0732,1.003,1.85-2.10
-NOP @ GSW,Derik Queen 3+ ast + Jeremiah Fears 10+ pts,2,0.6817,0.5032,1.99,2.09,1.84,-0.0747,1.005,1.65-1.85
-NOP @ GSW,Derik Queen 3+ ast + Dejounte Murray 15+ pa,2,0.6868,0.5061,1.98,2.07,1.83,-0.0758,1.004,1.65-1.85
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 20+ pra,2,0.7079,0.5601,1.79,1.87,1.63,-0.0895,1.003,1.50-1.65
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 15+ pa,2,0.7116,0.568,1.76,1.85,1.6,-0.0904,1.003,1.50-1.65
-NOP @ GSW,Karlo Matkovic 1+ 3pm + Derik Queen 4+ reb,2,0.7169,0.574,1.74,1.83,1.58,-0.0925,1.001,1.50-1.65
+NOP @ GSW,Derik Queen 3+ ast + Jeremiah Fears 10+ pts,2,0.6817,0.5103,1.96,2.06,1.81,-0.0762,1.005,1.65-1.85
+NOP @ GSW,Derik Queen 3+ ast + Dejounte Murray 10+ pts,2,0.6804,0.5103,1.96,2.06,1.81,-0.0785,1.003,1.65-1.85
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Saddiq Bey 1+ 3pm,2,0.6903,0.5512,1.81,1.9,1.65,-0.0912,1.002,1.50-1.65
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Dejounte Murray 10+ pts,2,0.7041,0.5635,1.77,1.86,1.61,-0.0926,1.001,1.50-1.65
+NOP @ GSW,Karlo Matkovic 1+ 3pm + Jeremiah Fears 10+ pts,2,0.7036,0.562,1.78,1.87,1.61,-0.0927,1.001,1.50-1.65
