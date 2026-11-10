@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 10+ pr,2,0.4406,0.4073,2.46,2.58,2.36,-0.0407,1.014,2.10-2.50
 DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 15+ pra,2,0.4248,0.4005,2.5,2.62,2.4,-0.0408,1.017,2.10-2.50
 DEN @ HOU,game over 223.5 + Fred VanVleet 15+ pra,2,0.4991,0.4099,2.44,2.56,2.34,-0.0415,1.04,2.10-2.50
-DEN @ HOU,Amen Thompson 16+ pts + Alperen Sengun 15+ pr,2,0.483,0.4571,2.19,2.3,2.07,-0.0531,1.004,1.85-2.10
+DEN @ HOU,Amen Thompson 16+ pts + Fred VanVleet 10+ pr,2,0.4406,0.4103,2.44,2.56,2.34,-0.0419,1.014,2.10-2.50
 DEN @ HOU,HOU win + Fred VanVleet 15+ pra,2,0.503,0.4945,2.02,2.12,1.91,-0.0538,1.029,1.85-2.10
 DEN @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5022,0.4949,2.02,2.12,1.9,-0.0588,1.025,1.85-2.10
-DEN @ HOU,HOU win + Alperen Sengun 15+ pr,2,0.5659,0.5587,1.79,1.88,1.65,-0.0757,1.006,1.65-1.85
+DEN @ HOU,Kevin Durant pts under 21.5 + Nikola Jokic 6+ reb,2,0.482,0.4556,2.19,2.3,2.06,-0.0606,0.999,1.85-2.10
+DEN @ HOU,HOU win + Fred VanVleet 10+ pa,2,0.5457,0.5397,1.85,1.95,1.73,-0.0647,1.019,1.65-1.85
 DEN @ HOU,HOU win + Alperen Sengun 6+ reb,2,0.5204,0.5061,1.98,2.07,1.82,-0.0793,1.0,1.65-1.85
-DEN @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Nikola Jokic 8+ reb,3,0.6659,0.5256,1.9,2.0,1.63,-0.1448,1.009,1.50-1.65
 DEN @ HOU,Kevin Durant 4+ reb + Fred VanVleet 15+ pra + Jabari Smith Jr. 10+ pts,3,0.6002,0.4864,2.06,2.16,1.76,-0.1456,1.012,1.65-1.85
-DEN @ HOU,Fred VanVleet 10+ pr + Christian Braun 10+ pr + Alperen Sengun 6+ reb,3,0.6771,0.5318,1.88,1.97,1.6,-0.1488,1.003,1.50-1.65
-DEN @ HOU,Christian Braun 10+ pr + Alperen Sengun 6+ reb + Nikola Jokic 8+ reb,3,0.6496,0.516,1.94,2.03,1.65,-0.1491,1.005,1.50-1.65
+DEN @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Nikola Jokic 8+ reb,3,0.6659,0.5295,1.89,1.98,1.61,-0.1458,1.009,1.50-1.65
+DEN @ HOU,Kevin Durant 4+ reb + Fred VanVleet 10+ pr + Alperen Sengun 6+ reb,3,0.6576,0.5194,1.93,2.02,1.64,-0.1491,1.004,1.50-1.65
+DEN @ HOU,Alperen Sengun 6+ reb + Fred VanVleet 15+ pra + Jabari Smith Jr. 10+ pts,3,0.6437,0.524,1.91,2.0,1.62,-0.1492,1.009,1.50-1.65
 SAS @ PHX,game over 226.5 + Dillon Brooks 15+ pra,2,0.4486,0.4,2.5,2.63,2.4,-0.042,1.04,2.10-2.50
 SAS @ PHX,game over 226.5 + De'Aaron Fox 10+ pts,2,0.4333,0.4053,2.47,2.59,2.35,-0.0461,1.044,2.10-2.50
 SAS @ PHX,PHX +9.5 + Dillon Brooks 10+ pts,2,0.4724,0.41,2.44,2.56,2.32,-0.047,1.024,2.10-2.50
