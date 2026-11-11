@@ -7,18 +7,18 @@ WAS @ IND,AJ Dybantsa pts under 17.5 + Kyshawn George 10+ pr,2,0.635,0.4606,2.17
 WAS @ IND,IND win + AJ Dybantsa 4+ reb,2,0.5715,0.4536,2.2,2.31,2.03,-0.0779,1.0,1.85-2.10
 WAS @ IND,IND win + Kyshawn George 10+ pr,2,0.6483,0.5056,1.98,2.08,1.82,-0.0789,0.996,1.65-1.85
 WAS @ IND,IND win + Kyshawn George 10+ pa,2,0.6405,0.5055,1.98,2.08,1.81,-0.0839,0.992,1.65-1.85
-BOS @ TOR,BOS win + Neemias Queta 8+ ra,2,0.4616,0.3939,2.54,2.67,2.49,-0.0206,1.004,2.10-2.50
 BOS @ TOR,BOS win + Baylor Scheierman reb under 4.5,2,0.4606,0.3919,2.55,2.68,2.49,-0.0255,0.999,2.10-2.50
-BOS @ TOR,BOS win + Jayson Tatum 1+ 3pm,2,0.662,0.6264,1.6,1.68,1.54,-0.0368,1.006,1.50-1.65
-BOS @ TOR,BOS win + Neemias Queta 10+ pra,2,0.6578,0.6236,1.6,1.68,1.54,-0.0375,1.006,1.50-1.65
-BOS @ TOR,BOS win + Neemias Queta 5+ pa,2,0.6619,0.6311,1.58,1.66,1.52,-0.0379,1.006,1.50-1.65
-BOS @ TOR,BOS win + RJ Barrett 4+ reb,2,0.5876,0.5545,1.8,1.89,1.72,-0.046,0.996,1.65-1.85
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Neemias Queta 4+ reb,2,0.6429,0.4261,2.35,2.46,2.21,-0.0597,0.999,2.10-2.50
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 1+ 3pm,2,0.6744,0.452,2.21,2.32,2.08,-0.0601,1.0,1.85-2.10
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Neemias Queta 10+ pra,2,0.6693,0.4494,2.23,2.34,2.09,-0.0619,0.998,1.85-2.10
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.6731,0.4546,2.2,2.31,2.06,-0.0627,0.998,1.85-2.10
-BOS @ TOR,BOS win + Neemias Queta 4+ reb + Jayson Tatum 1+ 3pm,3,0.5931,0.5248,1.91,2.0,1.73,-0.092,1.004,1.65-1.85
-BOS @ TOR,Neemias Queta 8+ ra + Jayson Tatum 4+ reb,2,0.6177,0.5049,1.98,2.08,1.79,-0.0951,1.001,1.65-1.85
+BOS @ TOR,BOS win + Jayson Tatum 1+ 3pm,2,0.662,0.6293,1.59,1.67,1.53,-0.0375,1.006,1.50-1.65
+BOS @ TOR,BOS win + Neemias Queta 10+ pra,2,0.6578,0.6263,1.6,1.68,1.54,-0.0381,1.006,1.50-1.65
+BOS @ TOR,BOS win + Neemias Queta 5+ pa,2,0.6619,0.634,1.58,1.66,1.52,-0.0386,1.006,1.50-1.65
+BOS @ TOR,BOS win + RJ Barrett 4+ reb,2,0.5876,0.5433,1.84,1.93,1.76,-0.0428,0.996,1.65-1.85
+BOS @ TOR,game over 215.5 + Ja'Kobe Walter 10+ pa,2,0.4972,0.4166,2.4,2.52,2.27,-0.0554,1.04,2.10-2.50
+BOS @ TOR,Baylor Scheierman 3pm under 1.5 + RJ Barrett 4+ reb,2,0.6023,0.3899,2.56,2.69,2.42,-0.0576,0.996,2.10-2.50
+BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 1+ 3pm,2,0.6744,0.4488,2.23,2.34,2.1,-0.0584,1.0,1.85-2.10
+BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.6725,0.4489,2.23,2.34,2.09,-0.0602,0.999,1.85-2.10
+BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.6731,0.4513,2.22,2.33,2.08,-0.061,0.998,1.85-2.10
+BOS @ TOR,BOS win + Ja'Kobe Walter 10+ pa,2,0.5587,0.5368,1.86,1.96,1.74,-0.0635,0.98,1.65-1.85
+BOS @ TOR,BOS win + RJ Barrett 4+ reb + Neemias Queta 5+ pa,3,0.5562,0.4925,2.03,2.13,1.84,-0.0929,1.003,1.65-1.85
 SAS @ CHI,game under 239.5 + SAS win,2,0.4931,0.4511,2.22,2.33,2.15,-0.0312,1.025,2.10-2.50
 SAS @ CHI,SAS win + Matas Buzelis pts under 14.5,2,0.4671,0.4551,2.2,2.31,2.09,-0.0487,1.036,1.85-2.10
 SAS @ CHI,SAS win + Nic Claxton pts under 7.5,2,0.4537,0.4273,2.34,2.46,2.22,-0.0501,1.028,2.10-2.50
@@ -40,18 +40,18 @@ DEN @ MEM,DEN -3.5 + Aaron Gordon 15+ pra,2,0.3985,0.4116,2.43,2.55,2.26,-0.0716
 DEN @ MEM,DEN -3.5 + Christian Braun 10+ pr,2,0.4267,0.4346,2.3,2.42,2.12,-0.0784,1.017,2.10-2.50
 DEN @ MEM,DEN -3.5 + Jamal Murray 2+ 3pm,2,0.3995,0.4081,2.45,2.57,2.25,-0.0797,1.016,2.10-2.50
 DEN @ MEM,DEN -3.5 + Nikola Jokic 6+ ast,2,0.4412,0.449,2.23,2.34,2.05,-0.0802,1.015,1.85-2.10
-LAL @ MIL,Kel'el Ware pr under 19.5 + LAL win,2,0.6242,0.4372,2.29,2.4,2.26,-0.0099,1.01,2.10-2.50
+LAL @ MIL,Kel'el Ware pr under 19.5 + LAL win,2,0.6242,0.4356,2.3,2.41,2.28,-0.0089,1.01,2.10-2.50
 LAL @ MIL,Kel'el Ware pts under 11.5 + LAL win,2,0.6069,0.4519,2.21,2.32,2.17,-0.0199,1.015,2.10-2.50
-LAL @ MIL,Kel'el Ware pr under 19.5 + Luka Doncic 1+ stl,2,0.6883,0.4083,2.45,2.57,2.37,-0.0328,1.0,2.10-2.50
+LAL @ MIL,Kel'el Ware pr under 19.5 + Luka Doncic 1+ stl,2,0.6883,0.4043,2.47,2.6,2.4,-0.0307,1.0,2.10-2.50
 LAL @ MIL,Kel'el Ware reb under 8.5 + LAL win,2,0.6253,0.4668,2.14,2.25,2.07,-0.0354,1.0,1.85-2.10
-LAL @ MIL,Kel'el Ware pr under 19.5 + Kyle Kuzma 10+ pra,2,0.7934,0.4774,2.09,2.2,2.02,-0.037,0.998,1.85-2.10
-LAL @ MIL,Kel'el Ware pr under 19.5 + Jaime Jaquez Jr. 10+ pa,2,0.7608,0.4607,2.17,2.28,2.09,-0.0382,0.998,1.85-2.10
-LAL @ MIL,Matisse Thybulle 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.6762,0.4992,2.0,2.1,1.85,-0.078,1.002,1.65-1.85
-LAL @ MIL,Matisse Thybulle 3pm under 1.5 + Jaime Jaquez Jr. 10+ pa,2,0.6746,0.5024,1.99,2.09,1.83,-0.0816,0.999,1.65-1.85
-LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Jake LaRavia 5+ pr,2,0.6824,0.5116,1.95,2.05,1.79,-0.0834,1.0,1.65-1.85
-LAL @ MIL,Kyle Kuzma 15+ pra + Luka Doncic 1+ stl,2,0.6843,0.5911,1.69,1.78,1.51,-0.1054,1.001,1.50-1.65
-LAL @ MIL,LAL win + Luka Doncic 1+ stl + Jake LaRavia 5+ pr,3,0.5842,0.5657,1.77,1.86,1.52,-0.1396,1.008,1.50-1.65
-LAL @ MIL,LAL win + Luka Doncic 3+ 3pm + Walker Kessler 8+ reb,3,0.5416,0.5347,1.87,1.96,1.61,-0.1398,1.011,1.50-1.65
+LAL @ MIL,Kel'el Ware pr under 19.5 + Kyle Kuzma 10+ pra,2,0.7934,0.4761,2.1,2.21,2.02,-0.0361,0.998,1.85-2.10
+LAL @ MIL,Kel'el Ware pr under 19.5 + Jaime Jaquez Jr. 10+ pa,2,0.7608,0.4593,2.18,2.29,2.1,-0.0373,0.998,1.85-2.10
+LAL @ MIL,Kel'el Ware reb under 8.5 + Kyle Kuzma 10+ pra,2,0.8041,0.5162,1.94,2.03,1.84,-0.0508,1.0,1.65-1.85
+LAL @ MIL,Matisse Thybulle 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.6762,0.4997,2.0,2.1,1.84,-0.0781,1.002,1.65-1.85
+LAL @ MIL,Matisse Thybulle 3pm under 1.5 + Kyle Kuzma 10+ pra,2,0.7039,0.5215,1.92,2.01,1.76,-0.0799,1.0,1.65-1.85
+LAL @ MIL,LAL win + Luka Doncic 3+ 3pm + Matisse Thybulle 1+ stl,3,0.5544,0.5463,1.83,1.92,1.58,-0.1385,1.012,1.50-1.65
+LAL @ MIL,LAL win + Luka Doncic 1+ stl + Jake LaRavia 5+ pr,3,0.5842,0.5628,1.78,1.87,1.53,-0.1387,1.008,1.50-1.65
+LAL @ MIL,LAL win + Luka Doncic 3+ 3pm + Walker Kessler 8+ reb,3,0.5416,0.5371,1.86,1.96,1.6,-0.1405,1.011,1.50-1.65
 BKN @ NOP,NOP win + Dejounte Murray 4+ ast,2,0.5751,0.4842,2.07,2.17,2.04,-0.0115,1.018,1.85-2.10
 BKN @ NOP,NOP win + Day'Ron Sharpe 6+ reb,2,0.5484,0.4709,2.12,2.23,2.06,-0.0288,1.003,1.85-2.10
 BKN @ NOP,NOP win + Saddiq Bey 10+ pr,2,0.6357,0.5651,1.77,1.86,1.71,-0.0316,1.006,1.65-1.85
