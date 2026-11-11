@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAC @ PHX,LAC +3.5 + Kobe Sanders 5+ pa,2,0.6137,0.4233,2.36,2.48,2.18,-0.0752,1.013,2.10-2.50
-LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pa,2,0.6155,0.4347,2.3,2.42,2.13,-0.0752,0.996,2.10-2.50
-LAC @ PHX,Rui Hachimura pr under 21.5 + Dillon Brooks 1+ 3pm,2,0.5875,0.4246,2.35,2.47,2.18,-0.0758,0.999,2.10-2.50
-LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pra,2,0.6504,0.4697,2.13,2.24,1.96,-0.0775,0.997,1.85-2.10
-LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6265,0.4433,2.26,2.37,2.08,-0.0778,0.994,1.85-2.10
-LAC @ PHX,Miles Bridges pr under 23.5 + Kobe Sanders 5+ pr,2,0.6274,0.4522,2.21,2.32,2.04,-0.0784,0.997,1.85-2.10
+LAC @ PHX,Kobe Sanders 8+ pts + Jalen Green 1+ 3pm,2,0.4783,0.3949,2.53,2.66,2.45,-0.0343,1.004,2.10-2.50
+LAC @ PHX,Kobe Sanders 8+ pts + Darius Garland 1+ 3pm,2,0.5428,0.4534,2.21,2.32,2.13,-0.0343,1.005,2.10-2.50
+LAC @ PHX,Kobe Sanders 8+ pts + Dillon Brooks 10+ pr,2,0.5502,0.4604,2.17,2.28,2.09,-0.0374,1.003,1.85-2.10
+LAC @ PHX,Kobe Sanders 8+ pts + Dillon Brooks 1+ 3pm,2,0.5055,0.4194,2.38,2.5,2.29,-0.0395,0.999,2.10-2.50
+LAC @ PHX,Miles Bridges pts under 16.5 + Kobe Sanders 5+ pr,2,0.623,0.4592,2.18,2.29,2.08,-0.0448,1.0,1.85-2.10
+LAC @ PHX,Miles Bridges pts under 16.5 + Kobe Sanders 5+ pra,2,0.6447,0.4849,2.06,2.17,1.96,-0.0476,1.0,1.85-2.10
 LAC @ PHX,Kris Dunn ra under 8.5 + Kobe Sanders 5+ pra,2,0.6781,0.5123,1.95,2.05,1.79,-0.0813,0.999,1.65-1.85
 LAC @ PHX,Kris Dunn ra under 8.5 + Darius Garland 1+ 3pm,2,0.6507,0.4954,2.02,2.12,1.85,-0.0845,0.997,1.65-1.85
 LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pr,2,0.6612,0.5043,1.98,2.08,1.81,-0.0852,0.996,1.65-1.85
-MIA @ UTA,MIA win + Andrew Wiggins 11+ pa,2,0.5149,0.4098,2.44,2.56,2.37,-0.0278,1.026,2.10-2.50
-MIA @ UTA,MIA win + Andrew Wiggins 14+ pra,2,0.5399,0.4205,2.38,2.5,2.3,-0.0315,1.022,2.10-2.50
-MIA @ UTA,MIA win + Isaiah Collier ast under 6.5,2,0.4914,0.3889,2.57,2.7,2.48,-0.0339,1.023,2.10-2.50
-MIA @ UTA,MIA win + Bam Adebayo 25+ pra,2,0.674,0.5866,1.7,1.79,1.61,-0.0576,1.015,1.50-1.65
-MIA @ UTA,MIA win + Ace Bailey 20+ pra,2,0.6857,0.5733,1.74,1.83,1.62,-0.0741,0.99,1.50-1.65
-MIA @ UTA,Klay Thompson 3pm under 3.5 + Ace Bailey 10+ pts,2,0.6262,0.4482,2.23,2.34,2.06,-0.0747,1.0,1.85-2.10
-MIA @ UTA,Klay Thompson 3pm under 3.5 + Ace Bailey 10+ pa,2,0.6523,0.4741,2.11,2.21,1.95,-0.0772,1.0,1.85-2.10
-MIA @ UTA,Klay Thompson 3pm under 3.5 + Andrew Wiggins 5+ pr,2,0.6574,0.4784,2.09,2.19,1.93,-0.0784,0.999,1.85-2.10
-MIA @ UTA,MIA win + Brice Sensabaugh 10+ pa,2,0.6578,0.571,1.75,1.84,1.61,-0.0821,0.988,1.50-1.65
-MIA @ UTA,Pelle Larsson pra under 19.5 + Andrew Wiggins 5+ pr,2,0.6423,0.4929,2.03,2.13,1.85,-0.0886,0.998,1.65-1.85
-MIA @ UTA,MIA win + Bam Adebayo 25+ pra + Davion Mitchell 15+ pra,3,0.6337,0.5127,1.95,2.05,1.75,-0.1027,1.022,1.65-1.85
-MIA @ UTA,MIA win + Bam Adebayo 25+ pra + Andrew Wiggins 5+ pr,3,0.6623,0.5366,1.86,1.96,1.66,-0.108,1.016,1.65-1.85
+MIA @ UTA,Andrew Wiggins 9+ pts + MIA win,2,0.5207,0.4085,2.45,2.57,2.43,-0.0065,1.022,2.10-2.50
+MIA @ UTA,Jaxson Hayes 10+ pts + Ace Bailey 20+ pra,2,0.5005,0.4004,2.5,2.62,2.39,-0.0428,1.01,2.10-2.50
+MIA @ UTA,Pelle Larsson pts under 11.5 + Ace Bailey 20+ pra,2,0.5277,0.3861,2.59,2.72,2.47,-0.0476,1.0,2.10-2.50
+MIA @ UTA,Andrew Wiggins 9+ pts + Davion Mitchell 15+ pra,2,0.5936,0.4568,2.19,2.3,2.07,-0.054,1.006,1.85-2.10
+MIA @ UTA,Jaxson Hayes 10+ pts + Davion Mitchell 15+ pra,2,0.5413,0.4564,2.19,2.3,2.07,-0.055,1.006,1.85-2.10
+MIA @ UTA,Pelle Larsson pts under 11.5 + Ace Bailey 10+ pa,2,0.5974,0.4607,2.17,2.28,2.05,-0.0552,1.001,1.85-2.10
+MIA @ UTA,MIA win + Bam Adebayo 25+ pra,2,0.674,0.5866,1.7,1.79,1.6,-0.061,1.015,1.50-1.65
+MIA @ UTA,MIA win + Ace Bailey 20+ pra,2,0.6857,0.5733,1.74,1.83,1.61,-0.0776,0.99,1.50-1.65
+MIA @ UTA,MIA win + Brice Sensabaugh 10+ pa,2,0.6578,0.571,1.75,1.84,1.6,-0.0855,0.988,1.50-1.65
+MIA @ UTA,MIA win + Bam Adebayo 25+ pra + Davion Mitchell 15+ pra,3,0.6337,0.5127,1.95,2.05,1.74,-0.106,1.022,1.65-1.85
+MIA @ UTA,MIA win + Bam Adebayo 25+ pra + Andrew Wiggins 5+ pr,3,0.6623,0.5366,1.86,1.96,1.66,-0.1113,1.016,1.65-1.85
+MIA @ UTA,MIA win + Bam Adebayo 25+ pra + Ace Bailey 15+ pra,3,0.6487,0.5238,1.91,2.0,1.69,-0.1139,1.013,1.65-1.85
 ORL @ SAC,ORL win + Wendell Carter Jr. 10+ pa,2,0.4574,0.5418,1.85,1.94,1.76,-0.0471,1.029,1.65-1.85
 ORL @ SAC,game over 222.5 + Wendell Carter Jr. 10+ pa,2,0.4799,0.4114,2.43,2.55,2.31,-0.0486,1.034,2.10-2.50
 ORL @ SAC,game over 222.5 + Wendell Carter Jr. 15+ pra,2,0.5084,0.4442,2.25,2.36,2.11,-0.0638,1.021,2.10-2.50

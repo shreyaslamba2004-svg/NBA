@@ -1,13 +1,13 @@
 game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,market_source,p_over_blend
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,22.5,False,0.564,0.6565,est,0.6443
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,23.5,False,0.5218,0.6173,est,0.6047
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,24.5,False,0.4821,0.5791,est,0.5663
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,25.5,False,0.4425,0.5398,est,0.5269
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,26.5,True,0.4035,0.4999,book,0.4872
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,27.5,False,0.3677,0.4621,est,0.4497
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,28.5,False,0.3355,0.4273,est,0.4152
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,29.5,False,0.3031,0.3913,est,0.3796
-401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,30.5,False,0.2746,0.3587,est,0.3476
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,22.5,False,0.564,0.6502,est,0.6388
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,23.5,False,0.5218,0.6106,est,0.5989
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,24.5,False,0.4821,0.5722,est,0.5603
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,25.5,False,0.4425,0.515,book,0.5054
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,26.5,True,0.4035,0.4929,book,0.4811
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,27.5,False,0.3677,0.4552,est,0.4436
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,28.5,False,0.3355,0.4205,est,0.4093
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,29.5,False,0.3031,0.3846,est,0.3738
+401909962,LAC @ PHX,PHX,1626164,Devin Booker,pts,30.5,False,0.2746,0.3523,est,0.342
 401909962,LAC @ PHX,PHX,1626164,Devin Booker,reb,0.5,False,0.96,0.9605,est,0.9604
 401909962,LAC @ PHX,PHX,1626164,Devin Booker,reb,1.5,False,0.8431,0.845,est,0.8447
 401909962,LAC @ PHX,PHX,1626164,Devin Booker,reb,2.5,False,0.6537,0.6369,book,0.6391
@@ -67,15 +67,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,PHX,1626164,Devin Booker,ra,9.5,False,0.432,0.3963,est,0.401
 401909962,LAC @ PHX,PHX,1626164,Devin Booker,ra,10.5,False,0.331,0.2993,est,0.3034
 401909962,LAC @ PHX,PHX,1626164,Devin Booker,ra,11.5,False,0.2399,0.2141,est,0.2175
-401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,12.5,False,0.5688,0.7185,est,0.6987
-401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,13.5,False,0.5018,0.6609,est,0.6399
+401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,12.5,False,0.5688,0.7197,est,0.6998
+401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,13.5,False,0.5018,0.6623,est,0.6411
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,14.5,False,0.4418,0.5984,book,0.5777
-401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,15.5,False,0.3823,0.5449,est,0.5235
-401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,16.5,True,0.3277,0.4853,book,0.4645
+401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,15.5,False,0.3823,0.5465,est,0.5248
+401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,16.5,True,0.3277,0.4869,book,0.4659
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,17.5,False,0.2788,0.4327,book,0.4124
-401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,18.5,False,0.2362,0.3743,est,0.3561
+401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,18.5,False,0.2362,0.3758,est,0.3574
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,19.5,False,0.1969,0.3268,book,0.3097
-401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,20.5,False,0.1634,0.2742,est,0.2595
+401909962,LAC @ PHX,PHX,1628970,Miles Bridges,pts,20.5,False,0.1634,0.2754,est,0.2606
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,reb,3.5,False,0.8348,0.8723,book,0.8674
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,reb,4.5,False,0.7193,0.7908,book,0.7814
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,reb,5.5,False,0.5807,0.6785,book,0.6656
@@ -134,15 +134,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,ra,10.5,False,0.3513,0.4366,est,0.4253
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,ra,11.5,False,0.2635,0.3385,est,0.3286
 401909962,LAC @ PHX,PHX,1628970,Miles Bridges,ra,12.5,False,0.1943,0.2565,est,0.2483
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,11.5,False,0.7259,0.7536,est,0.7499
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,12.5,False,0.6657,0.6969,est,0.6928
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,13.5,False,0.605,0.6388,est,0.6344
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,14.5,False,0.5459,0.5813,est,0.5766
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,15.5,True,0.485,0.521,book,0.5163
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,16.5,False,0.4303,0.4659,est,0.4612
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,17.5,False,0.3764,0.4107,est,0.4062
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,18.5,False,0.329,0.3616,est,0.3573
-401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,19.5,False,0.2848,0.315,est,0.311
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,12.5,False,0.6657,0.7178,est,0.7109
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,13.5,False,0.605,0.6617,est,0.6542
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,14.5,False,0.5459,0.6056,est,0.5977
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,15.5,False,0.485,0.521,book,0.5163
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,16.5,True,0.4303,0.491,book,0.483
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,17.5,False,0.3764,0.4352,est,0.4275
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,18.5,False,0.329,0.3851,est,0.3777
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,19.5,False,0.2848,0.3371,est,0.3302
+401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,pts,20.5,False,0.2442,0.2921,est,0.2858
 401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,reb,1.5,False,0.8783,,model only,0.8783
 401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,reb,2.5,False,0.7188,0.737,book,0.7346
 401909962,LAC @ PHX,PHX,1628415,Dillon Brooks,reb,3.5,False,0.5291,0.5779,book,0.5715
@@ -264,15 +264,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,PHX,1642346,Ryan Dunn,ra,6.5,False,0.2677,,model only,0.2677
 401909962,LAC @ PHX,PHX,1642346,Ryan Dunn,ra,7.5,False,0.1786,,model only,0.1786
 401909962,LAC @ PHX,PHX,1642346,Ryan Dunn,ra,8.5,False,0.1153,,model only,0.1153
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,4.5,False,0.8142,0.8368,est,0.8338
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,5.5,False,0.7272,0.7571,est,0.7532
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,6.5,False,0.634,0.6695,est,0.6648
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,7.5,False,0.5422,0.5808,est,0.5757
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,8.5,True,0.4547,0.4937,book,0.4885
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,9.5,False,0.3733,0.4106,est,0.4056
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,10.5,False,0.2996,0.3335,est,0.329
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,11.5,False,0.2369,0.2664,est,0.2625
-401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,12.5,False,0.187,0.212,est,0.2087
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,4.5,False,0.8142,0.8353,est,0.8325
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,5.5,False,0.7272,0.7551,est,0.7514
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,6.5,False,0.634,0.6671,est,0.6627
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,7.5,False,0.5422,0.5781,est,0.5734
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,8.5,True,0.4547,0.491,book,0.4862
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,9.5,False,0.3733,0.408,est,0.4034
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,10.5,False,0.2996,0.3311,est,0.3269
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,11.5,False,0.2369,0.2643,est,0.2607
+401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,pts,12.5,False,0.187,0.2102,est,0.2071
 401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,reb,0.5,False,0.9208,0.9319,est,0.9304
 401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,reb,1.5,False,0.7484,0.7777,est,0.7738
 401909962,LAC @ PHX,PHX,1631221,Collin Gillespie,reb,2.5,True,0.5301,0.5702,book,0.5649
@@ -397,15 +397,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,PHX,1630692,Jordan Goodwin,ra,5.5,False,0.3166,,model only,0.3166
 401909962,LAC @ PHX,PHX,1630692,Jordan Goodwin,ra,6.5,False,0.2157,,model only,0.2157
 401909962,LAC @ PHX,PHX,1630692,Jordan Goodwin,ra,7.5,False,0.1405,,model only,0.1405
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,11.5,False,0.6742,0.7231,est,0.7166
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,12.5,False,0.6076,0.6615,est,0.6544
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,13.5,False,0.5438,0.6007,est,0.5932
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,14.5,False,0.4823,0.5404,est,0.5328
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,15.5,True,0.4233,0.4809,book,0.4733
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,16.5,False,0.3674,0.423,est,0.4157
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,17.5,False,0.3172,0.3696,est,0.3627
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,18.5,False,0.2734,0.3221,est,0.3156
-401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,19.5,False,0.2324,0.2765,est,0.2707
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,11.5,False,0.6742,0.726,est,0.7191
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,12.5,False,0.6076,0.6647,est,0.6572
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,13.5,False,0.5438,0.6042,est,0.5962
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,14.5,False,0.4823,0.5289,book,0.5227
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,15.5,True,0.4233,0.4845,book,0.4764
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,16.5,False,0.3674,0.4265,est,0.4187
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,17.5,False,0.3172,0.373,est,0.3656
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,18.5,False,0.2734,0.3252,est,0.3184
+401909962,LAC @ PHX,PHX,1630224,Jalen Green,pts,19.5,False,0.2324,0.2794,est,0.2732
 401909962,LAC @ PHX,PHX,1630224,Jalen Green,reb,1.5,False,0.8655,0.9043,est,0.8992
 401909962,LAC @ PHX,PHX,1630224,Jalen Green,reb,2.5,False,0.6984,0.7566,book,0.7489
 401909962,LAC @ PHX,PHX,1630224,Jalen Green,reb,3.5,False,0.5067,0.5972,book,0.5853
@@ -464,15 +464,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,PHX,1630224,Jalen Green,ra,8.5,False,0.3007,0.3322,est,0.3281
 401909962,LAC @ PHX,PHX,1630224,Jalen Green,ra,9.5,False,0.205,0.2298,est,0.2266
 401909962,LAC @ PHX,PHX,1630224,Jalen Green,ra,10.5,False,0.1366,0.1547,est,0.1523
-401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8571,0.8953,est,0.8903
-401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7533,0.8132,est,0.8053
-401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.6327,0.7107,est,0.7004
+401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8571,0.8947,est,0.8897
+401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7533,0.8122,est,0.8044
+401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.6327,0.7093,est,0.6991
 401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,5.5,False,0.5148,0.6123,book,0.5994
-401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,True,0.4051,0.4927,book,0.4811
+401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,True,0.4051,0.491,book,0.4797
 401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,7.5,False,0.312,0.4327,book,0.4168
-401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.2333,0.3027,est,0.2935
+401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.2333,0.3012,est,0.2923
 401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,9.5,False,0.168,0.2824,book,0.2673
-401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,10.5,False,0.1215,0.1647,est,0.159
+401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,pts,10.5,False,0.1215,0.1638,est,0.1582
 401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,reb,2.5,False,0.8001,0.8567,book,0.8492
 401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,reb,3.5,False,0.6555,0.7517,book,0.739
 401909962,LAC @ PHX,PHX,1642345,Oso Ighodaro,reb,4.5,False,0.5042,0.6123,book,0.598
@@ -592,15 +592,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,PHX,1628379,Luke Kennard,ra,4.5,False,0.2656,,model only,0.2656
 401909962,LAC @ PHX,PHX,1628379,Luke Kennard,ra,5.5,False,0.1612,,model only,0.1612
 401909962,LAC @ PHX,PHX,1628379,Luke Kennard,ra,6.5,False,0.0926,,model only,0.0926
-401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,2.5,False,0.8435,0.8765,est,0.8721
-401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,3.5,False,0.7446,0.7933,est,0.7869
-401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,4.5,False,0.6366,0.6975,est,0.6895
+401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,2.5,False,0.8435,0.8749,est,0.8708
+401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,3.5,False,0.7446,0.791,est,0.7848
+401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,4.5,False,0.6366,0.6946,est,0.6869
 401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,5.5,False,0.5309,0.5984,book,0.5895
-401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,6.5,True,0.4306,0.4989,book,0.4899
+401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,6.5,True,0.4306,0.4954,book,0.4868
 401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,7.5,False,0.339,0.4172,book,0.4069
-401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,8.5,False,0.2661,0.3231,est,0.3156
+401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,8.5,False,0.2661,0.3201,est,0.3129
 401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,9.5,False,0.2059,0.2717,book,0.263
-401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,10.5,False,0.1559,0.1955,est,0.1903
+401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,pts,10.5,False,0.1559,0.1934,est,0.1884
 401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,reb,2.5,False,0.8129,0.8815,book,0.8724
 401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,reb,3.5,False,0.689,0.7999,book,0.7853
 401909962,LAC @ PHX,PHX,1642863,Khaman Maluach,reb,4.5,False,0.5575,0.6899,book,0.6724
@@ -720,14 +720,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,1641711,Gradey Dick,ra,4.5,False,0.2249,,model only,0.2249
 401909962,LAC @ PHX,LAC,1641711,Gradey Dick,ra,5.5,False,0.1299,,model only,0.1299
 401909962,LAC @ PHX,LAC,1641711,Gradey Dick,ra,6.5,False,0.0705,,model only,0.0705
-401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,3.5,False,0.852,0.8663,est,0.8645
-401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,4.5,False,0.76,0.781,est,0.7782
+401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,3.5,False,0.852,0.8704,est,0.868
+401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,4.5,False,0.76,0.787,est,0.7834
 401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,5.5,False,0.6497,0.6282,book,0.631
-401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,6.5,False,0.541,0.5703,est,0.5664
-401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,7.5,True,0.4368,0.4661,book,0.4622
-401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,8.5,False,0.3401,0.3672,est,0.3636
+401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,6.5,False,0.541,0.579,est,0.574
+401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,7.5,True,0.4368,0.475,book,0.47
+401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,8.5,False,0.3401,0.3755,est,0.3709
 401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,9.5,False,0.2596,0.3157,book,0.3083
-401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,10.5,False,0.1945,0.2138,est,0.2112
+401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,10.5,False,0.1945,0.2198,est,0.2165
 401909962,LAC @ PHX,LAC,1627739,Kris Dunn,pts,11.5,False,0.1414,0.2006,book,0.1928
 401909962,LAC @ PHX,LAC,1627739,Kris Dunn,reb,0.5,False,0.9528,0.969,est,0.9669
 401909962,LAC @ PHX,LAC,1627739,Kris Dunn,reb,1.5,False,0.8283,0.882,est,0.8749
@@ -788,14 +788,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,1627739,Kris Dunn,ra,10.5,False,0.1337,0.2412,est,0.227
 401909962,LAC @ PHX,LAC,1627739,Kris Dunn,ra,11.5,False,0.0874,0.1647,est,0.1545
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,17.5,False,0.6199,0.6813,book,0.6732
-401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,18.5,False,0.5721,0.6407,est,0.6316
+401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,18.5,False,0.5721,0.6436,est,0.6342
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,19.5,False,0.5259,0.596,book,0.5867
-401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,20.5,False,0.4794,0.5512,est,0.5417
-401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,21.5,True,0.4353,0.5069,book,0.4974
-401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,22.5,False,0.3952,0.4657,est,0.4564
-401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,23.5,False,0.356,0.4244,est,0.4154
+401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,20.5,False,0.4794,0.5544,est,0.5445
+401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,21.5,True,0.4353,0.5101,book,0.5002
+401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,22.5,False,0.3952,0.4733,book,0.463
+401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,23.5,False,0.356,0.4276,est,0.4181
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,24.5,False,0.3173,0.3694,book,0.3625
-401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,25.5,False,0.2803,0.3419,est,0.3338
+401909962,LAC @ PHX,LAC,1629636,Darius Garland,pts,25.5,False,0.2803,0.3448,est,0.3363
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,reb,0.5,False,0.8825,0.9095,est,0.9059
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,reb,1.5,False,0.6427,0.7065,est,0.6981
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,reb,2.5,True,0.384,0.4548,book,0.4455
@@ -855,15 +855,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,ra,10.5,False,0.3162,0.4061,est,0.3943
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,ra,11.5,False,0.2332,0.3102,est,0.3
 401909962,LAC @ PHX,LAC,1629636,Darius Garland,ra,12.5,False,0.1673,0.2291,est,0.2209
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,12.5,False,0.5626,0.7119,est,0.6922
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,13.5,False,0.5018,0.6593,est,0.6385
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,14.5,False,0.4405,0.602,est,0.5807
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,15.5,False,0.3812,0.5419,est,0.5207
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,16.5,True,0.3292,0.4853,book,0.4647
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,17.5,False,0.2799,0.4274,est,0.408
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,18.5,False,0.2374,0.3743,est,0.3562
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,19.5,False,0.2006,0.3252,est,0.3087
-401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,20.5,False,0.1674,0.2787,est,0.264
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,12.5,False,0.5626,0.7112,est,0.6916
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,13.5,False,0.5018,0.6585,est,0.6378
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,14.5,False,0.4405,0.6011,est,0.5799
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,15.5,False,0.3812,0.5411,est,0.5199
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,16.5,True,0.3292,0.4844,book,0.4639
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,17.5,False,0.2799,0.4266,est,0.4072
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,18.5,False,0.2374,0.3734,est,0.3555
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,19.5,False,0.2006,0.3244,est,0.3081
+401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,pts,20.5,False,0.1674,0.278,est,0.2634
 401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,reb,2.5,False,0.7925,0.8464,book,0.8393
 401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,reb,3.5,False,0.6235,0.7353,book,0.7205
 401909962,LAC @ PHX,LAC,1629060,Rui Hachimura,reb,4.5,False,0.4525,0.5947,book,0.5759
@@ -987,15 +987,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,1630543,Isaiah Jackson,ra,7.5,False,0.3194,,model only,0.3194
 401909962,LAC @ PHX,LAC,1630543,Isaiah Jackson,ra,8.5,False,0.2335,,model only,0.2335
 401909962,LAC @ PHX,LAC,1630543,Isaiah Jackson,ra,9.5,False,0.1696,,model only,0.1696
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.7466,0.8119,est,0.8033
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,7.5,False,0.6614,0.741,est,0.7305
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.5727,0.6625,est,0.6506
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,9.5,False,0.4882,0.5828,est,0.5703
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,10.5,True,0.4086,0.5029,book,0.4904
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.3346,0.4241,est,0.4123
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,12.5,False,0.2691,0.3502,est,0.3395
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,13.5,False,0.2162,0.2877,est,0.2783
-401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,14.5,False,0.1688,0.2292,est,0.2212
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.7466,0.8166,est,0.8074
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,7.5,False,0.6614,0.747,est,0.7357
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.5727,0.6695,est,0.6567
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,9.5,False,0.4882,0.5904,est,0.5769
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,10.5,True,0.4086,0.5108,book,0.4973
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.3346,0.4318,est,0.419
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,12.5,False,0.2691,0.3575,est,0.3458
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,13.5,False,0.2162,0.2942,est,0.2839
+401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,pts,14.5,False,0.1688,0.2349,est,0.2261
 401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,reb,1.5,False,0.8853,0.9295,est,0.9237
 401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,reb,2.5,False,0.7375,0.8132,book,0.8032
 401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,reb,3.5,False,0.5564,0.6764,book,0.6606
@@ -1054,15 +1054,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,ra,6.5,False,0.3229,,model only,0.3229
 401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,ra,7.5,False,0.2121,,model only,0.2121
 401909962,LAC @ PHX,LAC,1627884,Derrick Jones Jr.,ra,8.5,False,0.1313,,model only,0.1313
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,8.5,False,0.686,0.7413,est,0.734
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,9.5,False,0.6145,0.6764,est,0.6682
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,10.5,False,0.5383,0.6045,est,0.5958
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,11.5,False,0.4663,0.534,est,0.525
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,12.5,True,0.4008,0.4673,book,0.4585
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,13.5,False,0.3395,0.4027,est,0.3943
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,14.5,False,0.2865,0.3449,est,0.3372
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,15.5,False,0.2398,0.2926,est,0.2856
-401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,16.5,False,0.1973,0.2437,est,0.2376
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,7.5,False,0.7549,0.792,est,0.7871
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,8.5,False,0.686,0.7298,est,0.724
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,9.5,False,0.6145,0.6633,est,0.6569
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,10.5,False,0.5383,0.5903,est,0.5834
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,11.5,True,0.4663,0.5192,book,0.5122
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,12.5,False,0.4008,0.4673,book,0.4585
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,13.5,False,0.3395,0.3885,est,0.382
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,14.5,False,0.2865,0.3316,est,0.3257
+401909962,LAC @ PHX,LAC,201572,Brook Lopez,pts,15.5,False,0.2398,0.2805,est,0.2751
 401909962,LAC @ PHX,LAC,201572,Brook Lopez,reb,2.5,False,0.7934,0.8567,book,0.8483
 401909962,LAC @ PHX,LAC,201572,Brook Lopez,reb,3.5,False,0.6413,0.7502,book,0.7358
 401909962,LAC @ PHX,LAC,201572,Brook Lopez,reb,4.5,False,0.4788,0.622,book,0.6031
@@ -1183,14 +1183,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,1641757,Baba Miller,ra,5.5,False,0.2519,,model only,0.2519
 401909962,LAC @ PHX,LAC,1641757,Baba Miller,ra,6.5,False,0.1596,,model only,0.1596
 401909962,LAC @ PHX,LAC,1641757,Baba Miller,ra,7.5,False,0.0995,,model only,0.0995
-401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,3.5,False,0.8995,0.8665,est,0.8708
-401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,4.5,False,0.836,0.787,est,0.7935
+401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,3.5,False,0.8995,0.8632,est,0.868
+401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,4.5,False,0.836,0.7824,est,0.7895
 401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,5.5,False,0.7577,0.6548,book,0.6684
-401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,6.5,False,0.6712,0.5968,est,0.6066
-401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,7.5,True,0.5854,0.5059,book,0.5164
-401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,8.5,False,0.4978,0.4182,est,0.4287
+401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,6.5,False,0.6712,0.5901,est,0.6008
+401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,7.5,True,0.5854,0.499,book,0.5104
+401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,8.5,False,0.4978,0.4115,est,0.4229
 401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,9.5,False,0.4229,0.3581,book,0.3666
-401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,10.5,False,0.3521,0.2827,est,0.2918
+401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,10.5,False,0.3521,0.2771,est,0.287
 401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,pts,11.5,False,0.2874,0.2403,book,0.2465
 401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,reb,0.5,False,0.8933,0.8994,est,0.8986
 401909962,LAC @ PHX,LAC,1642920,Kobe Sanders,reb,1.5,False,0.6752,0.6896,est,0.6877
@@ -1315,14 +1315,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,1629622,Max Strus,ra,8.5,False,0.2181,0.2705,est,0.2636
 401909962,LAC @ PHX,LAC,1629622,Max Strus,ra,9.5,False,0.1489,0.1887,est,0.1834
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,5.5,False,0.791,0.77,book,0.7728
-401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,6.5,False,0.7138,0.7299,est,0.7278
+401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,6.5,False,0.7138,0.7189,est,0.7183
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,7.5,False,0.6307,0.6398,book,0.6386
-401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,8.5,False,0.5514,0.5711,est,0.5685
-401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,9.5,True,0.4767,0.4968,book,0.4942
-401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,10.5,False,0.4043,0.4238,est,0.4212
+401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,8.5,False,0.5514,0.5577,est,0.5568
+401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,9.5,True,0.4767,0.4831,book,0.4823
+401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,10.5,False,0.4043,0.4104,est,0.4096
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,11.5,False,0.3344,0.3665,book,0.3623
-401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,12.5,False,0.2761,0.2924,est,0.2903
-401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,13.5,False,0.226,0.2403,est,0.2384
+401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,12.5,False,0.2761,0.2812,est,0.2805
+401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,pts,13.5,False,0.226,0.2304,est,0.2298
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,reb,0.5,False,0.9203,0.9367,est,0.9346
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,reb,1.5,False,0.7568,0.7996,est,0.7939
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,reb,2.5,False,0.5458,0.6008,book,0.5935
@@ -1379,15 +1379,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,ra,6.5,False,0.3708,0.3943,est,0.3912
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,ra,7.5,False,0.2623,0.2821,est,0.2794
 401909962,LAC @ PHX,LAC,905254165,Keaton Wagler,ra,8.5,False,0.1783,0.1934,est,0.1914
-401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,13.5,False,0.7926,0.702,est,0.7139
+401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,13.5,False,0.7926,0.7056,est,0.7171
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,14.5,False,0.7468,0.6292,book,0.6447
-401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,15.5,False,0.6956,0.5849,est,0.5995
-401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,16.5,False,0.6433,0.5264,est,0.5419
-401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,17.5,True,0.594,0.4742,book,0.49
-401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,18.5,False,0.541,0.4208,est,0.4366
+401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,15.5,False,0.6956,0.589,est,0.6031
+401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,16.5,False,0.6433,0.5286,book,0.5437
+401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,17.5,True,0.594,0.4785,book,0.4937
+401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,18.5,False,0.541,0.425,est,0.4403
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,19.5,False,0.491,0.3768,book,0.3919
-401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,20.5,False,0.4416,0.3277,est,0.3427
-401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,21.5,False,0.3977,0.2893,est,0.3036
+401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,20.5,False,0.4416,0.3315,est,0.346
+401909963,MIA @ UTA,UTA,1642846,Ace Bailey,pts,21.5,False,0.3977,0.2929,est,0.3067
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,reb,2.5,False,0.925,0.8769,book,0.8832
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,reb,3.5,False,0.8312,0.7886,book,0.7942
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,reb,4.5,False,0.7043,0.6728,book,0.677
@@ -1446,15 +1446,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,ra,8.5,False,0.5198,0.4321,est,0.4437
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,ra,9.5,False,0.4053,0.3239,est,0.3347
 401909963,MIA @ UTA,UTA,1642846,Ace Bailey,ra,10.5,False,0.3013,0.2326,est,0.2417
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,3.5,False,0.8442,,model only,0.8442
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,4.5,False,0.7567,,model only,0.7567
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,5.5,False,0.664,,model only,0.664
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,6.5,False,0.5681,,model only,0.5681
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,7.5,False,0.4764,,model only,0.4764
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,8.5,False,0.3876,,model only,0.3876
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,9.5,False,0.3084,,model only,0.3084
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,10.5,False,0.2414,,model only,0.2414
-401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,11.5,False,0.1866,,model only,0.1866
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,1.5,False,0.9628,0.9298,est,0.9341
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,2.5,False,0.9146,0.8456,est,0.8547
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,3.5,False,0.8442,0.7347,est,0.7492
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,4.5,False,0.7567,0.6139,est,0.6328
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,5.5,True,0.664,0.5026,book,0.5239
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,6.5,False,0.5681,0.4021,est,0.424
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,7.5,False,0.4764,0.3175,est,0.3385
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,8.5,False,0.3876,0.2445,est,0.2633
+401909963,MIA @ UTA,UTA,1628964,Mo Bamba,pts,9.5,False,0.3084,0.1857,est,0.2019
 401909963,MIA @ UTA,UTA,1628964,Mo Bamba,reb,4.5,False,0.7842,,model only,0.7842
 401909963,MIA @ UTA,UTA,1628964,Mo Bamba,reb,5.5,False,0.6811,,model only,0.6811
 401909963,MIA @ UTA,UTA,1628964,Mo Bamba,reb,6.5,False,0.5716,,model only,0.5716
@@ -1576,15 +1576,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,UTA,1641723,Kobe Bufkin,ra,5.5,False,0.277,,model only,0.277
 401909963,MIA @ UTA,UTA,1641723,Kobe Bufkin,ra,6.5,False,0.1803,,model only,0.1803
 401909963,MIA @ UTA,UTA,1641723,Kobe Bufkin,ra,7.5,False,0.1102,,model only,0.1102
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,6.5,False,0.8284,0.7926,est,0.7973
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,7.5,False,0.7637,0.7189,est,0.7248
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,8.5,False,0.6937,0.642,est,0.6488
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,9.5,False,0.6218,0.5656,est,0.573
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,10.5,True,0.554,0.4958,book,0.5035
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,11.5,False,0.4865,0.4286,est,0.4362
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,12.5,False,0.4191,0.3635,est,0.3708
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,13.5,False,0.3596,0.3077,est,0.3146
-401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,14.5,False,0.3076,0.2602,est,0.2664
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,6.5,False,0.8284,0.8006,est,0.8043
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,7.5,False,0.7637,0.7289,est,0.7335
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,8.5,False,0.6937,0.6533,est,0.6586
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,9.5,False,0.6218,0.5777,est,0.5835
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,10.5,True,0.554,0.5082,book,0.5142
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,11.5,False,0.4865,0.4675,book,0.47
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,12.5,False,0.4191,0.3751,est,0.3809
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,13.5,False,0.3596,0.3184,est,0.3238
+401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,pts,14.5,False,0.3076,0.2698,est,0.2748
 401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,reb,0.5,False,0.9442,0.9053,est,0.9104
 401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,reb,1.5,False,0.8035,0.698,est,0.7119
 401909963,MIA @ UTA,UTA,1642268,Isaiah Collier,reb,2.5,True,0.6083,0.4673,book,0.4859
@@ -1775,14 +1775,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,UTA,1630182,Josh Green,ra,6.5,False,0.1495,,model only,0.1495
 401909963,MIA @ UTA,UTA,1630182,Josh Green,ra,7.5,False,0.0848,,model only,0.0848
 401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,5.5,False,0.8709,0.8048,book,0.8135
-401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,6.5,False,0.8045,0.7674,est,0.7723
+401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,6.5,False,0.8045,0.7622,est,0.7678
 401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,7.5,False,0.7346,0.6713,book,0.6797
-401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,8.5,False,0.6581,0.6069,est,0.6136
-401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,9.5,True,0.5765,0.5219,book,0.5291
-401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,10.5,False,0.5005,0.4455,est,0.4527
+401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,8.5,False,0.6581,0.6,est,0.6077
+401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,9.5,True,0.5765,0.5147,book,0.5229
+401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,10.5,False,0.5005,0.4384,est,0.4466
 401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,11.5,False,0.4256,0.3799,book,0.3859
-401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,12.5,False,0.3568,0.3079,est,0.3143
-401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,13.5,False,0.2954,0.2516,est,0.2574
+401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,12.5,False,0.3568,0.3017,est,0.309
+401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,pts,13.5,False,0.2954,0.2462,est,0.2527
 401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,reb,3.5,False,0.8839,0.8511,book,0.8554
 401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,reb,4.5,False,0.7854,0.7665,book,0.769
 401909963,MIA @ UTA,UTA,1629637,Jaxson Hayes,reb,5.5,False,0.6634,0.6589,book,0.6595
@@ -1970,15 +1970,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,UTA,1629006,Josh Okogie,ra,7.5,False,0.2963,,model only,0.2963
 401909963,MIA @ UTA,UTA,1629006,Josh Okogie,ra,8.5,False,0.2021,,model only,0.2021
 401909963,MIA @ UTA,UTA,1629006,Josh Okogie,ra,9.5,False,0.1318,,model only,0.1318
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,15.5,False,0.7231,0.7119,est,0.7134
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,16.5,False,0.676,0.6639,est,0.6655
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,15.5,False,0.7231,0.7075,est,0.7096
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,16.5,False,0.676,0.659,est,0.6613
 401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,17.5,False,0.6269,0.6078,book,0.6103
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,18.5,False,0.5783,0.5648,est,0.5666
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,19.5,True,0.5293,0.5155,book,0.5173
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,20.5,False,0.4793,0.4656,est,0.4674
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,21.5,False,0.4341,0.4206,est,0.4224
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,22.5,False,0.3892,0.3762,est,0.3779
-401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,23.5,False,0.3487,0.3363,est,0.3379
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,18.5,False,0.5783,0.5595,est,0.5619
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,19.5,True,0.5293,0.5101,book,0.5126
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,20.5,False,0.4793,0.4783,book,0.4784
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,21.5,False,0.4341,0.4154,est,0.4179
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,22.5,False,0.3892,0.3711,est,0.3735
+401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,pts,23.5,False,0.3487,0.3314,est,0.3337
 401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,reb,1.5,False,0.9412,0.9435,est,0.9432
 401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,reb,2.5,False,0.836,0.7904,book,0.7964
 401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,reb,3.5,False,0.6868,0.6676,book,0.6701
@@ -2039,15 +2039,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,ra,11.5,False,0.3222,0.3988,est,0.3887
 401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,ra,12.5,False,0.2392,0.305,est,0.2963
 401909963,MIA @ UTA,UTA,905041955,Darryn Peterson,ra,13.5,False,0.1688,0.2208,est,0.214
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,8.5,False,0.8039,0.7661,est,0.7711
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,9.5,False,0.7502,0.7059,est,0.7117
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,10.5,False,0.6933,0.6436,est,0.6502
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,11.5,False,0.6343,0.5808,est,0.5879
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,12.5,True,0.5748,0.5192,book,0.5265
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,13.5,False,0.5167,0.4606,est,0.468
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,14.5,False,0.4617,0.4066,est,0.4139
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,15.5,False,0.4066,0.3537,est,0.3607
-401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,16.5,False,0.3564,0.3067,est,0.3133
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,9.5,False,0.7502,0.7344,est,0.7365
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,10.5,False,0.6933,0.6754,est,0.6778
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,11.5,False,0.6343,0.6149,est,0.6175
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,12.5,False,0.5748,0.5192,book,0.5265
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,13.5,True,0.5167,0.496,book,0.4987
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,14.5,False,0.4617,0.4412,est,0.4439
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,15.5,False,0.4066,0.3868,est,0.3894
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,16.5,False,0.3564,0.3377,est,0.3402
+401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,pts,17.5,False,0.3096,0.2922,est,0.2945
 401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,reb,0.5,False,0.955,0.9477,est,0.9487
 401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,reb,1.5,False,0.8318,0.8084,est,0.8115
 401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,reb,2.5,False,0.6583,0.6043,book,0.6114
@@ -2104,15 +2104,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,ra,5.5,False,0.46,0.4147,est,0.4207
 401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,ra,6.5,False,0.3336,0.294,est,0.2992
 401909963,MIA @ UTA,UTA,1641729,Brice Sensabaugh,ra,7.5,False,0.2346,0.2032,est,0.2073
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,14.5,False,0.7661,0.6957,est,0.705
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,15.5,False,0.7181,0.6401,est,0.6504
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,16.5,False,0.667,0.583,est,0.5941
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,17.5,False,0.6151,0.5273,est,0.5389
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,18.5,True,0.5637,0.4742,book,0.486
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,19.5,False,0.5163,0.4269,est,0.4387
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,20.5,False,0.4681,0.3805,est,0.392
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,21.5,False,0.4228,0.3383,est,0.3495
-401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,22.5,False,0.3749,0.2951,est,0.3056
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,14.5,False,0.7661,0.709,est,0.7165
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,15.5,False,0.7181,0.6546,est,0.663
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,16.5,False,0.667,0.5984,est,0.6075
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,17.5,False,0.6151,0.5431,est,0.5526
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,18.5,True,0.5637,0.4901,book,0.4998
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,19.5,False,0.5163,0.4426,est,0.4523
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,20.5,False,0.4681,0.3956,est,0.4052
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,21.5,False,0.4228,0.3527,est,0.362
+401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,pts,22.5,False,0.3749,0.3085,est,0.3173
 401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,reb,5.5,False,0.8714,0.8411,book,0.8451
 401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,reb,6.5,False,0.7904,0.7605,book,0.7644
 401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,reb,7.5,False,0.6927,0.6605,book,0.6647
@@ -2171,15 +2171,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,ra,13.5,False,0.44,0.3725,est,0.3814
 401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,ra,14.5,False,0.3536,0.2924,est,0.3005
 401909963,MIA @ UTA,MIA,1628389,Bam Adebayo,ra,15.5,False,0.2755,0.2231,est,0.23
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,25.5,False,0.6232,,model only,0.6232
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,26.5,False,0.5856,,model only,0.5856
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,24.5,False,0.6592,0.6575,est,0.6577
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,25.5,False,0.6232,0.6213,est,0.6216
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,26.5,False,0.5856,0.5837,est,0.584
 401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,27.5,False,0.5473,0.5155,book,0.5197
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,28.5,False,0.5124,,model only,0.5124
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,29.5,False,0.4768,,model only,0.4768
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,30.5,False,0.4428,,model only,0.4428
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,31.5,False,0.4093,,model only,0.4093
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,32.5,False,0.3795,,model only,0.3795
-401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,33.5,False,0.3483,,model only,0.3483
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,28.5,True,0.5124,0.5105,book,0.5108
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,29.5,False,0.4768,0.4748,est,0.4751
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,30.5,False,0.4428,0.4409,est,0.4411
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,31.5,False,0.4093,0.4075,est,0.4077
+401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,pts,32.5,False,0.3795,0.3777,est,0.3779
 401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,reb,9.5,False,0.7376,0.7427,book,0.742
 401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,reb,10.5,False,0.6492,0.6645,book,0.6625
 401909963,MIA @ UTA,MIA,203507,Giannis Antetokounmpo,reb,11.5,False,0.5526,0.5751,book,0.5721
@@ -2302,14 +2302,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,MIA,905107157,Ryan Conwell,ra,4.5,False,0.1914,,model only,0.1914
 401909963,MIA @ UTA,MIA,905107157,Ryan Conwell,ra,5.5,False,0.1071,,model only,0.1071
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,7.5,False,0.7065,0.752,book,0.746
-401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,8.5,False,0.6223,0.7303,est,0.7161
+401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,8.5,False,0.6223,0.7293,est,0.7152
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,9.5,False,0.5376,0.635,book,0.6221
-401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,10.5,False,0.4586,0.582,est,0.5657
-401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,11.5,True,0.3866,0.5088,book,0.4927
-401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,12.5,False,0.3206,0.4368,est,0.4215
-401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,13.5,False,0.2602,0.3663,est,0.3523
+401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,10.5,False,0.4586,0.5807,est,0.5646
+401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,11.5,True,0.3866,0.5075,book,0.4915
+401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,12.5,False,0.3206,0.4355,est,0.4204
+401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,13.5,False,0.2602,0.3651,est,0.3513
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,14.5,False,0.2095,0.3279,book,0.3123
-401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,15.5,False,0.1654,0.2457,est,0.2351
+401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,pts,15.5,False,0.1654,0.2448,est,0.2343
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,reb,0.5,False,0.9512,0.9632,est,0.9616
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,reb,1.5,False,0.8191,0.8587,est,0.8535
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,reb,2.5,False,0.6178,0.6652,book,0.6589
@@ -2369,15 +2369,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,ra,8.5,False,0.2695,0.3275,est,0.3198
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,ra,9.5,False,0.1807,0.2255,est,0.2196
 401909963,MIA @ UTA,MIA,1641796,Pelle Larsson,ra,10.5,False,0.1162,0.1479,est,0.1437
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,9.5,False,0.7579,0.7732,est,0.7712
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,10.5,False,0.6886,0.7066,est,0.7043
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,11.5,False,0.6174,0.6374,est,0.6347
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,12.5,False,0.5447,0.5657,est,0.5629
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,13.5,True,0.4755,0.4968,book,0.494
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,14.5,False,0.4102,0.431,est,0.4282
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,15.5,False,0.3478,0.3674,est,0.3648
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,16.5,False,0.2915,0.3094,est,0.307
-401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,17.5,False,0.2427,0.2587,est,0.2566
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,9.5,False,0.7579,0.7662,est,0.7651
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,10.5,False,0.6886,0.6984,est,0.6971
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,11.5,False,0.6174,0.6282,est,0.6268
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,12.5,False,0.5447,0.556,est,0.5545
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,13.5,True,0.4755,0.4869,book,0.4854
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,14.5,False,0.4102,0.4213,est,0.4198
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,15.5,False,0.3478,0.3583,est,0.3569
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,16.5,False,0.2915,0.301,est,0.2997
+401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,pts,17.5,False,0.2427,0.2512,est,0.2501
 401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,reb,0.5,False,0.9366,0.9184,est,0.9208
 401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,reb,1.5,False,0.7682,0.7162,est,0.7231
 401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,reb,2.5,True,0.5422,0.4742,book,0.4832
@@ -2436,15 +2436,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,ra,11.5,False,0.4223,0.3601,est,0.3683
 401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,ra,12.5,False,0.3301,0.275,est,0.2823
 401909963,MIA @ UTA,MIA,1630558,Davion Mitchell,ra,13.5,False,0.2496,0.2039,est,0.2099
-401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,4.5,False,0.7791,0.8059,est,0.8024
+401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,4.5,False,0.7791,0.8197,est,0.8143
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,5.5,False,0.6945,0.682,book,0.6836
-401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,6.5,False,0.5988,0.6373,est,0.6322
-401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,7.5,False,0.5093,0.5419,book,0.5376
-401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,8.5,True,0.427,0.4673,book,0.462
+401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,6.5,False,0.5988,0.658,est,0.6501
+401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,7.5,False,0.5093,0.5215,book,0.5199
+401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,8.5,True,0.427,0.4899,book,0.4816
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,9.5,False,0.3494,0.3994,book,0.3928
-401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,10.5,False,0.2827,0.3168,est,0.3123
+401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,10.5,False,0.2827,0.3368,est,0.3296
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,11.5,False,0.2227,0.2733,book,0.2666
-401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,12.5,False,0.1745,0.1993,est,0.196
+401909963,MIA @ UTA,MIA,1626171,Bobby Portis,pts,12.5,False,0.1745,0.2141,est,0.2089
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,reb,2.5,False,0.833,0.8382,book,0.8375
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,reb,3.5,False,0.7084,0.7387,book,0.7347
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,reb,4.5,False,0.5691,0.6112,book,0.6056
@@ -2502,13 +2502,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,ra,8.5,False,0.2766,,model only,0.2766
 401909963,MIA @ UTA,MIA,1626171,Bobby Portis,ra,9.5,False,0.1958,,model only,0.1958
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,9.5,False,0.7197,0.7027,book,0.7049
-401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,10.5,False,0.6528,0.6989,est,0.6929
+401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,10.5,False,0.6528,0.6999,est,0.6937
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,11.5,False,0.5817,0.6055,book,0.6024
-401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,12.5,False,0.5135,0.5658,est,0.5589
-401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,13.5,True,0.4454,0.4979,book,0.491
+401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,12.5,False,0.5135,0.5669,est,0.5599
+401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,13.5,True,0.4454,0.499,book,0.4919
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,14.5,False,0.3856,0.4327,book,0.4265
-401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,15.5,False,0.3311,0.3794,est,0.373
-401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,16.5,False,0.2801,0.3245,est,0.3187
+401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,15.5,False,0.3311,0.3804,est,0.3739
+401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,16.5,False,0.2801,0.3255,est,0.3195
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,pts,17.5,False,0.2355,0.2798,book,0.274
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,reb,0.5,False,0.8653,,model only,0.8653
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,reb,1.5,False,0.6083,,model only,0.6083
@@ -2566,15 +2566,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,ra,4.5,False,0.3758,0.3725,est,0.3729
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,ra,5.5,False,0.2345,0.232,est,0.2323
 401909963,MIA @ UTA,MIA,202691,Klay Thompson,ra,6.5,False,0.1335,0.1319,est,0.1321
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,4.5,False,0.9138,0.873,est,0.8784
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,5.5,False,0.8575,0.7961,est,0.8042
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,6.5,False,0.7906,0.7101,est,0.7207
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,7.5,False,0.7145,0.6188,est,0.6314
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,8.5,True,0.6323,0.5273,book,0.5412
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,9.5,False,0.5495,0.4417,est,0.456
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,10.5,False,0.4732,0.3682,est,0.382
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,11.5,False,0.3957,0.2982,est,0.311
-401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,12.5,False,0.3256,0.2385,est,0.25
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,5.5,False,0.8575,0.8315,est,0.8349
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,6.5,False,0.7906,0.7558,est,0.7604
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,7.5,False,0.7145,0.6723,est,0.6778
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,8.5,False,0.6323,0.5069,book,0.5235
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,9.5,True,0.5495,0.5,book,0.5065
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,10.5,False,0.4732,0.4241,est,0.4306
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,11.5,False,0.3957,0.3493,est,0.3554
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,12.5,False,0.3256,0.2836,est,0.2891
+401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,pts,13.5,False,0.2653,0.2284,est,0.2333
 401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,reb,0.5,False,0.9629,0.9501,est,0.9518
 401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,reb,1.5,False,0.8594,0.8177,est,0.8232
 401909963,MIA @ UTA,MIA,203952,Andrew Wiggins,reb,2.5,False,0.6871,0.6078,book,0.6183
