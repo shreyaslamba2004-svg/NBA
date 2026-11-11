@@ -1,12 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-WAS @ IND,game over 227.5 + Kyshawn George 10+ pts,2,0.5477,0.397,2.52,2.65,2.37,-0.0576,1.031,2.10-2.50
-WAS @ IND,WAS +2.5 + Kyshawn George 10+ pts,2,0.3329,0.396,2.53,2.65,2.37,-0.0599,1.033,2.10-2.50
-WAS @ IND,game over 227.5 + Anthony Davis 8+ reb,2,0.5481,0.3906,2.56,2.69,2.4,-0.062,1.023,2.10-2.50
-WAS @ IND,game over 227.5 + Kyshawn George 10+ pa,2,0.6122,0.4515,2.21,2.33,2.05,-0.0764,1.013,1.85-2.10
-WAS @ IND,AJ Dybantsa pts under 17.5 + Kyshawn George 10+ pr,2,0.635,0.4606,2.17,2.28,2.0,-0.0779,0.999,1.85-2.10
-WAS @ IND,IND win + AJ Dybantsa 4+ reb,2,0.5715,0.4536,2.2,2.31,2.03,-0.0779,1.0,1.85-2.10
-WAS @ IND,IND win + Kyshawn George 10+ pr,2,0.6483,0.5056,1.98,2.08,1.82,-0.0789,0.996,1.65-1.85
-WAS @ IND,IND win + Kyshawn George 10+ pa,2,0.6405,0.5055,1.98,2.08,1.81,-0.0839,0.992,1.65-1.85
+WAS @ IND,WAS +2.5 + Kyshawn George 10+ pts,2,0.313,0.3985,2.51,2.64,2.37,-0.0541,1.041,2.10-2.50
+WAS @ IND,game over 227.5 + Kyshawn George 10+ pts,2,0.5469,0.3971,2.52,2.64,2.37,-0.0572,1.033,2.10-2.50
+WAS @ IND,game over 227.5 + Anthony Davis 8+ reb,2,0.5516,0.3905,2.56,2.69,2.4,-0.0623,1.023,2.10-2.50
+WAS @ IND,IND win + AJ Dybantsa 4+ reb,2,0.5931,0.4543,2.2,2.31,2.03,-0.0765,1.001,1.85-2.10
+WAS @ IND,game over 227.5 + Alex Sarr 10+ pr,2,0.5899,0.4425,2.26,2.37,2.08,-0.0776,1.016,1.85-2.10
+WAS @ IND,game over 227.5 + Kyshawn George 10+ pa,2,0.6137,0.4508,2.22,2.33,2.05,-0.078,1.012,1.85-2.10
+WAS @ IND,IND win + Kyshawn George 10+ pa,2,0.6583,0.5058,1.98,2.08,1.81,-0.0834,0.994,1.65-1.85
+WAS @ IND,IND win + Alex Sarr 10+ pr,2,0.6301,0.4944,2.02,2.12,1.85,-0.0869,0.993,1.65-1.85
+WAS @ IND,AJ Dybantsa 3pm under 1.5 + Anthony Davis 8+ reb,2,0.6146,0.495,2.02,2.12,1.83,-0.0957,1.0,1.65-1.85
+WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 15+ pra,2,0.673,0.5562,1.8,1.89,1.62,-0.1,0.999,1.50-1.65
+WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 10+ pa,2,0.6906,0.5771,1.73,1.82,1.56,-0.102,0.999,1.50-1.65
+WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 1+ 3pm,2,0.638,0.5441,1.84,1.93,1.65,-0.103,1.001,1.50-1.65
 CLE @ NYK,NYK -4.5 + Karl-Anthony Towns 1+ 3pm,2,0.4065,0.3886,2.57,2.7,2.4,-0.0671,1.02,2.10-2.50
 CLE @ NYK,CLE +4.5 + Karl-Anthony Towns 6+ reb,2,0.4794,0.4577,2.18,2.29,2.04,-0.0684,1.0,1.85-2.10
 CLE @ NYK,NYK win + Karl-Anthony Towns 1+ 3pm,2,0.4986,0.4762,2.1,2.2,1.95,-0.0697,1.014,1.85-2.10
@@ -28,18 +32,18 @@ BOS @ TOR,BOS win + Jayson Tatum 4+ reb,2,0.609,0.6232,1.6,1.68,1.57,-0.0191,0.9
 BOS @ TOR,BOS win + Collin Murray-Boyles 10+ pra,2,0.6234,0.634,1.58,1.66,1.54,-0.0226,0.993,1.50-1.65
 BOS @ TOR,Jamal Shead 16+ pra + Jayson Tatum 4+ reb,2,0.6928,0.4738,2.11,2.22,2.06,-0.023,1.0,1.85-2.10
 BOS @ TOR,Jamal Shead 16+ pra + Neemias Queta 5+ pa,2,0.6908,0.474,2.11,2.21,2.06,-0.0247,0.999,1.85-2.10
-SAS @ CHI,game under 239.5 + SAS win,2,0.4931,0.4511,2.22,2.33,2.15,-0.0312,1.025,2.10-2.50
-SAS @ CHI,SAS win + Matas Buzelis pts under 14.5,2,0.4671,0.4551,2.2,2.31,2.09,-0.0487,1.036,1.85-2.10
-SAS @ CHI,SAS win + Nic Claxton pts under 7.5,2,0.4537,0.4273,2.34,2.46,2.22,-0.0501,1.028,2.10-2.50
-SAS @ CHI,SAS win + game under 237.5,2,0.4643,0.4438,2.25,2.37,2.14,-0.0511,1.031,2.10-2.50
-SAS @ CHI,SAS win + Nic Claxton pr under 13.5,2,0.4864,0.4678,2.14,2.24,2.01,-0.0609,1.02,1.85-2.10
-SAS @ CHI,SAS win + Stephon Castle 6+ ast,2,0.4799,0.4671,2.14,2.25,2.01,-0.0623,1.02,1.85-2.10
-SAS @ CHI,Julian Champagnie 3pm under 2.5 + SAS win,2,0.5795,0.5088,1.97,2.06,1.82,-0.0738,0.989,1.65-1.85
-SAS @ CHI,Julian Champagnie 3pm under 2.5 + Josh Giddey 10+ pr,2,0.6977,0.532,1.88,1.97,1.72,-0.0863,0.999,1.65-1.85
-SAS @ CHI,Julian Champagnie 3pm under 2.5 + Jalen Smith 10+ pr,2,0.6807,0.5216,1.92,2.01,1.75,-0.0869,0.999,1.65-1.85
-SAS @ CHI,SAS win + Victor Wembanyama 8+ reb + Stephon Castle 1+ 3pm,3,0.5717,0.5678,1.76,1.85,1.51,-0.1401,1.005,1.50-1.65
-SAS @ CHI,SAS win + Josh Giddey 4+ reb + Stephon Castle 1+ 3pm,3,0.5677,0.5682,1.76,1.85,1.51,-0.1422,1.004,1.50-1.65
-SAS @ CHI,SAS win + Matas Buzelis 1+ 3pm + Stephon Castle 1+ 3pm,3,0.5429,0.5469,1.83,1.92,1.56,-0.1482,0.998,1.50-1.65
+SAS @ CHI,game under 239.5 + SAS win,2,0.4925,0.4511,2.22,2.33,2.15,-0.0312,1.025,2.10-2.50
+SAS @ CHI,game over 237.5 + Josh Giddey 15+ pr,2,0.37,0.4118,2.43,2.55,2.33,-0.0424,1.064,2.10-2.50
+SAS @ CHI,SAS win + Nic Claxton pts under 7.5,2,0.456,0.4274,2.34,2.46,2.22,-0.05,1.027,2.10-2.50
+SAS @ CHI,SAS win + Stephon Castle 6+ ast,2,0.4853,0.4675,2.14,2.25,2.01,-0.0614,1.019,1.85-2.10
+SAS @ CHI,SAS win + Nic Claxton pr under 13.5,2,0.483,0.4663,2.14,2.25,2.01,-0.0639,1.017,1.85-2.10
+SAS @ CHI,SAS win + Stephon Castle 11+ ra,2,0.4971,0.4855,2.06,2.16,1.92,-0.0686,1.012,1.85-2.10
+SAS @ CHI,Julian Champagnie 3pm under 2.5 + SAS win,2,0.5852,0.5102,1.96,2.06,1.82,-0.0714,0.99,1.65-1.85
+SAS @ CHI,Julian Champagnie 3pm under 2.5 + Jalen Smith 10+ pr,2,0.6939,0.5239,1.91,2.0,1.75,-0.0828,1.001,1.65-1.85
+SAS @ CHI,Stephon Castle 11+ ra + Jalen Smith 10+ pr,2,0.5769,0.488,2.05,2.15,1.85,-0.0996,1.002,1.65-1.85
+SAS @ CHI,Josh Giddey 15+ pr + Stephon Castle 1+ 3pm,2,0.6485,0.588,1.7,1.79,1.52,-0.1088,1.005,1.50-1.65
+SAS @ CHI,SAS win + Victor Wembanyama 8+ reb + Stephon Castle 1+ 3pm,3,0.5726,0.5671,1.76,1.85,1.51,-0.1412,1.003,1.50-1.65
+SAS @ CHI,SAS win + Josh Giddey 4+ reb + Stephon Castle 1+ 3pm,3,0.5756,0.5687,1.76,1.85,1.51,-0.1415,1.003,1.50-1.65
 DEN @ MEM,DEN win + Aaron Gordon 15+ pra,2,0.4784,0.4819,2.08,2.18,1.96,-0.0561,1.026,1.85-2.10
 DEN @ MEM,DEN win + Christian Braun 10+ pr,2,0.5126,0.5092,1.96,2.06,1.84,-0.0624,1.017,1.65-1.85
 DEN @ MEM,DEN win + Jamal Murray 2+ 3pm,2,0.4791,0.4773,2.1,2.2,1.96,-0.0654,1.014,1.85-2.10
@@ -94,12 +98,12 @@ GSW @ HOU,HOU win + Kevin Durant 1+ 3pm,2,0.5908,0.5453,1.83,1.93,1.71,-0.0674,1
 GSW @ HOU,game over 221.5 + Yaxel Lendeborg 15+ pr,2,0.5625,0.4534,2.21,2.32,2.05,-0.0685,1.022,1.85-2.10
 GSW @ HOU,HOU win + Jabari Smith Jr. 1+ 3pm,2,0.6296,0.5801,1.72,1.81,1.61,-0.0686,1.006,1.50-1.65
 GSW @ HOU,game over 221.5 + Yaxel Lendeborg 10+ pts,2,0.5579,0.4471,2.24,2.35,2.08,-0.0688,1.021,1.85-2.10
+OKC @ POR,Damian Lillard pts under 19.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5862,0.3919,2.55,2.68,2.39,-0.0639,0.999,2.10-2.50
 OKC @ POR,POR win + Donovan Clingan 5+ pa,2,0.4471,0.4449,2.25,2.36,2.1,-0.064,1.012,2.10-2.50
-OKC @ POR,Damian Lillard pts under 19.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5862,0.3925,2.55,2.67,2.38,-0.0642,0.999,2.10-2.50
-OKC @ POR,game over 226.5 + Isaiah Hartenstein 10+ pr,2,0.3925,0.4407,2.27,2.38,2.12,-0.0642,1.019,2.10-2.50
-OKC @ POR,Sidy Cissoko 3pm under 1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.6252,0.4434,2.26,2.37,2.09,-0.0721,1.002,1.85-2.10
-OKC @ POR,Damian Lillard pts under 19.5 + Aday Mara 4+ reb,2,0.6141,0.4471,2.24,2.35,2.06,-0.0787,0.998,1.85-2.10
+OKC @ POR,game over 226.5 + Isaiah Hartenstein 10+ pr,2,0.3925,0.4402,2.27,2.39,2.13,-0.0641,1.019,2.10-2.50
+OKC @ POR,Sidy Cissoko 3pm under 1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.6252,0.4427,2.26,2.37,2.1,-0.0718,1.002,1.85-2.10
+OKC @ POR,Damian Lillard pts under 19.5 + Aday Mara 4+ reb,2,0.6141,0.448,2.23,2.34,2.06,-0.079,0.998,1.85-2.10
 OKC @ POR,Damian Lillard pts under 19.5 + Donovan Clingan 5+ pa,2,0.6363,0.4688,2.13,2.24,1.96,-0.0814,0.997,1.85-2.10
-OKC @ POR,Sidy Cissoko 3pm under 1.5 + Aday Mara 4+ reb,2,0.6543,0.5046,1.98,2.08,1.81,-0.0874,1.0,1.65-1.85
-OKC @ POR,Sidy Cissoko 3pm under 1.5 + Isaiah Hartenstein 10+ pr,2,0.6714,0.5244,1.91,2.0,1.74,-0.0898,0.999,1.65-1.85
-OKC @ POR,Sidy Cissoko 3pm under 1.5 + Donovan Clingan 5+ pa,2,0.6776,0.5287,1.89,1.99,1.72,-0.0908,0.998,1.65-1.85
+OKC @ POR,Sidy Cissoko 3pm under 1.5 + Aday Mara 4+ reb,2,0.6543,0.5055,1.98,2.08,1.8,-0.0877,1.0,1.65-1.85
+OKC @ POR,Jrue Holiday 3pm under 2.5 + Isaiah Hartenstein 10+ pr,2,0.6533,0.5063,1.97,2.07,1.8,-0.0888,0.999,1.65-1.85
+OKC @ POR,Sidy Cissoko 3pm under 1.5 + Isaiah Hartenstein 10+ pr,2,0.6714,0.5238,1.91,2.0,1.74,-0.0897,0.999,1.65-1.85
