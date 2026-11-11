@@ -1,14 +1,14 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909962,PHX,1626164,Devin Booker,,,1.0,,,
+401909962,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
 401909962,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909962,PHX,1628970,Miles Bridges,,,1.0,,,
-401909962,PHX,1628415,Dillon Brooks,,,1.0,,,
+401909962,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
+401909962,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
 401909962,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909962,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909962,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909962,PHX,1630692,Jordan Goodwin,,,1.0,,,
-401909962,PHX,1630224,Jalen Green,,,1.0,,,
-401909962,PHX,1642345,Oso Ighodaro,,,1.0,,,
+401909962,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
+401909962,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
 401909962,PHX,1628379,Luke Kennard,,,1.0,,,
 401909962,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909962,PHX,905041953,Koa Peat,,,1.0,,,
@@ -19,13 +19,13 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909962,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909962,LAC,1642353,Cam Christie,Out,Injury/Illness-RightAnkleSprain,0.0,"Christie is questionable for Tuesday's game against the Suns due to a right ankle sprain, Ohm Youngmisuk of ESPN.com reports.",,
 401909962,LAC,1641711,Gradey Dick,,,1.0,,,
-401909962,LAC,1627739,Kris Dunn,,,1.0,,,
-401909962,LAC,1629636,Darius Garland,,,1.0,,,
-401909962,LAC,1629060,Rui Hachimura,,,1.0,,,
+401909962,LAC,1627739,Kris Dunn,Starting,,1.0,,,1.0
+401909962,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
+401909962,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
 401909962,LAC,1627742,Brandon Ingram,Out,Injury/Illness-RightHeelSurgery,0.0,"Ingram (Achilles) has been ruled out for Tuesday's game at Phoenix, Ohm Youngmisuk of ESPN.com reports.",,
 401909962,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401909962,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
-401909962,LAC,201572,Brook Lopez,,,1.0,,,
+401909962,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401909962,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
 401909962,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401909962,LAC,1641757,Baba Miller,,,1.0,,,
 401909962,LAC,905108024,Yanic Konan Niederhauser,Out,Injury/Illness-RightLisfrancSurgery,0.0,"Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",,
