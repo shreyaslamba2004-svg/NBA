@@ -1,0 +1,6 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401909969,SAS @ CHI,moneyline,CHI,,,,draftkings,750.0,8.5,0.2122,4.71,0.113,0.139,0.0732,4.07,0.8041,0.139,0.1819,0.0061,False,True,True,,,
+401909974,GSW @ HOU,moneyline,GSW,,,,draftkings,180.0,2.8,0.3123,3.2,0.3429,0.372,-0.0597,4.17,-0.1257,0.372,0.0415,0.0058,False,True,True,,,
+401909975,OKC @ POR,moneyline,OKC,,,,unibet,-108.0,1.93,0.6234,1.6,0.4967,0.5335,0.0899,4.53,0.2006,0.5335,0.0274,0.0074,False,True,True,,,
+401909972,BKN @ NOP,moneyline,BKN,,,,draftkings,160.0,2.6,0.2882,3.47,0.3695,0.3923,-0.1042,4.1,-0.2508,0.3923,0.02,0.0031,False,True,True,,,
+401909975,OKC @ POR,moneyline,OKC,,,,tabtouch,-110.0,1.91,0.6234,1.6,0.4968,0.5335,0.0899,5.43,0.1901,0.5335,0.0184,0.0051,False,True,True,,,
