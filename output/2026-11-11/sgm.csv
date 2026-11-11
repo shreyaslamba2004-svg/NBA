@@ -78,20 +78,17 @@ GSW @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5914,0.5208,1.92,2.02,1.83,-0.0
 GSW @ HOU,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pr,2,0.6128,0.3988,2.51,2.63,2.38,-0.0497,1.005,2.10-2.50
 GSW @ HOU,game over 221.5 + Jabari Smith Jr. 10+ pts,2,0.5168,0.3969,2.52,2.65,2.39,-0.0534,1.03,2.10-2.50
 GSW @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.6164,0.5456,1.83,1.92,1.73,-0.0544,1.014,1.65-1.85
-GSW @ HOU,GSW +6.5 + Yaxel Lendeborg 10+ pts,2,0.4632,0.4494,2.23,2.34,2.1,-0.0584,1.017,1.85-2.10
+GSW @ HOU,GSW +6.5 + Yaxel Lendeborg 15+ pr,2,0.4649,0.4492,2.23,2.34,2.09,-0.0609,1.014,1.85-2.10
 GSW @ HOU,HOU win + Jabari Smith Jr. 15+ pra,2,0.6452,0.5745,1.74,1.83,1.63,-0.061,1.008,1.50-1.65
-GSW @ HOU,GSW +6.5 + Yaxel Lendeborg 15+ pr,2,0.4649,0.4515,2.22,2.33,2.08,-0.0617,1.014,1.85-2.10
 GSW @ HOU,HOU win + Tari Eason 10+ pra,2,0.5879,0.5355,1.87,1.96,1.75,-0.0621,1.011,1.65-1.85
 GSW @ HOU,HOU win + Tari Eason 5+ pa,2,0.6252,0.5721,1.75,1.84,1.63,-0.0648,1.009,1.50-1.65
-GSW @ HOU,game over 221.5 + Yaxel Lendeborg 15+ pr,2,0.5625,0.4541,2.2,2.31,2.05,-0.0688,1.022,1.85-2.10
+GSW @ HOU,game over 221.5 + Yaxel Lendeborg 15+ pr,2,0.5625,0.4518,2.21,2.32,2.06,-0.068,1.022,1.85-2.10
+GSW @ HOU,game over 221.5 + Yaxel Lendeborg 10+ pts,2,0.5579,0.4471,2.24,2.35,2.08,-0.0688,1.021,1.85-2.10
 GSW @ HOU,HOU win + Jabari Smith Jr. 1+ 3pm,2,0.6296,0.5809,1.72,1.81,1.6,-0.0688,1.006,1.50-1.65
-OKC @ POR,game over 226.5 + Jared McCain 1+ 3pm,2,0.3862,0.4011,2.49,2.62,2.34,-0.0602,1.022,2.10-2.50
-OKC @ POR,OKC -1.5 + Jared McCain 1+ 3pm,2,0.4982,0.416,2.4,2.52,2.25,-0.0629,1.009,2.10-2.50
-OKC @ POR,POR win + Donovan Clingan 5+ pa,2,0.3878,0.4456,2.24,2.36,2.1,-0.0647,1.012,1.85-2.10
-OKC @ POR,OKC win + Jared McCain 1+ 3pm,2,0.5241,0.4324,2.31,2.43,2.15,-0.0686,1.008,2.10-2.50
-OKC @ POR,game over 226.5 + Donovan Clingan 5+ pa,2,0.4208,0.4437,2.25,2.37,2.1,-0.0688,1.015,1.85-2.10
-OKC @ POR,Damian Lillard pts under 20.5 + Jared McCain 1+ 3pm,2,0.6124,0.4466,2.24,2.35,2.06,-0.0779,0.999,1.85-2.10
-OKC @ POR,Damian Lillard pts under 20.5 + Donovan Clingan 5+ pa,2,0.671,0.4967,2.01,2.11,1.85,-0.0813,0.998,1.65-1.85
-OKC @ POR,Damian Lillard 3pm under 3.5 + Jared McCain 1+ 3pm,2,0.6768,0.5077,1.97,2.07,1.81,-0.0825,1.0,1.65-1.85
-OKC @ POR,Damian Lillard pa under 25.5 + Donovan Clingan 5+ pa,2,0.6534,0.4957,2.02,2.12,1.84,-0.0866,0.997,1.65-1.85
-OKC @ POR,Damian Lillard 3pm under 3.5 + Donovan Clingan 5+ pa,2,0.7408,0.5641,1.77,1.86,1.62,-0.0868,0.998,1.50-1.65
+OKC @ POR,game over 226.5 + Kenrich Williams 10+ pra,2,0.3658,0.3912,2.56,2.68,2.45,-0.0398,1.038,2.10-2.50
+OKC @ POR,game over 226.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3686,0.3876,2.58,2.71,2.47,-0.043,1.031,2.10-2.50
+OKC @ POR,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4513,0.4013,2.49,2.62,2.37,-0.0474,1.017,2.10-2.50
+OKC @ POR,OKC win + Kenrich Williams 5+ pa,2,0.5035,0.4515,2.21,2.33,2.08,-0.0621,1.011,1.85-2.10
+OKC @ POR,OKC win + Jared McCain 1+ 3pm,2,0.4896,0.4463,2.24,2.35,2.1,-0.0631,1.013,1.85-2.10
+OKC @ POR,Damian Lillard pts under 20.5 + Kenrich Williams 5+ pa,2,0.6561,0.4638,2.16,2.26,2.0,-0.0734,0.999,1.85-2.10
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra + Jared McCain 1+ 3pm,3,0.685,0.5305,1.89,1.98,1.61,-0.1481,1.002,1.50-1.65
