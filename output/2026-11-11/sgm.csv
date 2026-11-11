@@ -1,21 +1,21 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-WAS @ IND,game over 226.5 + Kyshawn George 10+ pts,2,0.5606,0.4096,2.44,2.56,2.29,-0.0603,1.034,2.10-2.50
-WAS @ IND,WAS +4.5 + Kyshawn George 10+ pts,2,0.3809,0.4085,2.45,2.57,2.29,-0.0627,1.037,2.10-2.50
-WAS @ IND,game over 226.5 + Anthony Davis 8+ reb,2,0.5626,0.4082,2.45,2.57,2.28,-0.0692,1.023,2.10-2.50
-WAS @ IND,game over 226.5 + Kyshawn George 10+ pa,2,0.6299,0.4643,2.15,2.26,1.98,-0.081,1.012,1.85-2.10
-WAS @ IND,Anthony Davis 13+ ra + Trae Young 1+ 3pm,2,0.569,0.4468,2.24,2.35,2.05,-0.0831,1.006,1.85-2.10
-WAS @ IND,game over 226.5 + Trae Young 1+ 3pm,2,0.591,0.444,2.25,2.36,2.06,-0.0852,1.011,1.85-2.10
-WAS @ IND,IND win + Kyshawn George 10+ pa,2,0.6412,0.5276,1.9,1.99,1.72,-0.0944,0.995,1.65-1.85
-WAS @ IND,IND win + Alex Sarr 5+ pa,2,0.6405,0.5423,1.84,1.94,1.66,-0.0994,0.994,1.65-1.85
-WAS @ IND,IND win + Trae Young 1+ 3pm,2,0.6007,0.5037,1.99,2.08,1.79,-0.1001,0.992,1.65-1.85
+WAS @ IND,game over 226.5 + Kyshawn George 10+ pts,2,0.5606,0.4079,2.45,2.57,2.37,-0.0346,1.034,2.10-2.50
+WAS @ IND,game over 226.5 + Anthony Davis 8+ reb,2,0.5626,0.4091,2.44,2.57,2.33,-0.0448,1.023,2.10-2.50
+WAS @ IND,game over 226.5 + Kyshawn George 15+ pra,2,0.6179,0.4501,2.22,2.33,2.11,-0.0497,1.018,2.10-2.50
+WAS @ IND,game over 226.5 + Kyshawn George 10+ pa,2,0.6299,0.4636,2.16,2.26,2.04,-0.0564,1.012,1.85-2.10
+WAS @ IND,game over 226.5 + Alex Sarr 10+ pra,2,0.6204,0.4708,2.12,2.23,1.99,-0.063,1.01,1.85-2.10
+WAS @ IND,IND win + Anthony Davis 8+ reb,2,0.5698,0.4638,2.16,2.26,1.99,-0.075,1.0,1.85-2.10
+WAS @ IND,IND win + Kyshawn George 10+ pa,2,0.6412,0.5284,1.89,1.99,1.74,-0.0813,0.995,1.65-1.85
+WAS @ IND,IND win + Kyshawn George 15+ pra,2,0.6238,0.5087,1.97,2.06,1.8,-0.0827,0.992,1.65-1.85
+WAS @ IND,IND win + Alex Sarr 10+ pra,2,0.6323,0.5372,1.86,1.95,1.7,-0.0868,0.994,1.65-1.85
 CLE @ NYK,James Harden pra under 27.5 + Karl-Anthony Towns 1+ 3pm,2,0.5408,0.39,2.56,2.69,2.36,-0.0781,0.998,2.10-2.50
-CLE @ NYK,Peyton Watson pr under 16.5 + Karl-Anthony Towns 1+ 3pm,2,0.5173,0.3768,2.65,2.79,2.45,-0.0782,1.0,2.10-2.50
 CLE @ NYK,James Harden pa under 22.5 + Karl-Anthony Towns 1+ 3pm,2,0.5285,0.3835,2.61,2.74,2.4,-0.0783,0.999,2.10-2.50
-CLE @ NYK,James Harden pra under 27.5 + Karl-Anthony Towns 8+ reb,2,0.6109,0.4466,2.24,2.35,2.06,-0.0807,0.998,1.85-2.10
-CLE @ NYK,Donovan Mitchell pa under 28.5 + Karl-Anthony Towns 8+ reb,2,0.6001,0.439,2.28,2.39,2.09,-0.0811,0.997,1.85-2.10
-CLE @ NYK,James Harden pra under 27.5 + OG Anunoby 15+ pr,2,0.5917,0.438,2.28,2.4,2.1,-0.0814,0.999,1.85-2.10
+CLE @ NYK,Karl-Anthony Towns 16+ ra + OG Anunoby 15+ pr,2,0.5844,0.4492,2.23,2.34,2.05,-0.0795,1.008,1.85-2.10
+CLE @ NYK,Jarrett Allen pr under 19.5 + Karl-Anthony Towns 1+ 3pm,2,0.52,0.3796,2.63,2.77,2.42,-0.0796,0.999,2.10-2.50
+CLE @ NYK,James Harden pra under 27.5 + Karl-Anthony Towns 8+ reb,2,0.6109,0.4455,2.24,2.36,2.06,-0.0803,0.998,1.85-2.10
+CLE @ NYK,Karl-Anthony Towns 16+ ra + OG Anunoby 10+ pts,2,0.588,0.4542,2.2,2.31,2.02,-0.0803,1.007,1.85-2.10
 CLE @ NYK,Evan Mobley reb under 8.5 + OG Anunoby 10+ pa,2,0.6466,0.4994,2.0,2.1,1.82,-0.0887,0.999,1.65-1.85
-CLE @ NYK,Karl-Anthony Towns 1+ 3pm + OG Anunoby 4+ reb,2,0.6671,0.571,1.75,1.84,1.57,-0.1044,1.0,1.50-1.65
+CLE @ NYK,Karl-Anthony Towns 1+ 3pm + OG Anunoby 4+ reb,2,0.6671,0.5712,1.75,1.84,1.57,-0.1045,1.0,1.50-1.65
 BOS @ TOR,BOS win + RJ Barrett pts under 24.5,2,0.467,0.3832,2.61,2.74,2.5,-0.0421,1.038,2.10-2.50
 BOS @ TOR,BOS win + RJ Barrett pr under 30.5,2,0.4539,0.3803,2.63,2.76,2.5,-0.0492,1.035,2.10-2.50
 BOS @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jayson Tatum 1+ 3pm,2,0.591,0.4294,2.33,2.45,2.15,-0.0777,0.999,2.10-2.50
@@ -28,47 +28,48 @@ BOS @ TOR,BOS win + RJ Barrett 4+ reb,2,0.6139,0.5704,1.75,1.84,1.58,-0.0961,1.0
 BOS @ TOR,RJ Barrett 4+ ast + Jayson Tatum 1+ 3pm,2,0.6239,0.5242,1.91,2.0,1.72,-0.0963,1.0,1.65-1.85
 BOS @ TOR,BOS win + Jayson Tatum 1+ 3pm + Ja'Kobe Walter 10+ pra,3,0.6417,0.5619,1.78,1.87,1.51,-0.149,0.999,1.50-1.65
 SAS @ CHI,SAS win + Caleb Wilson pts under 19.5,2,0.4972,0.4733,2.11,2.22,2.04,-0.0353,1.046,1.85-2.10
+SAS @ CHI,SAS win + Josh Giddey pra under 28.5,2,0.4665,0.4439,2.25,2.37,2.17,-0.0381,1.043,2.10-2.50
 SAS @ CHI,SAS win + Josh Giddey pa under 22.5,2,0.5049,0.4803,2.08,2.19,2.0,-0.0385,1.043,1.85-2.10
-SAS @ CHI,SAS win + Josh Giddey pra under 29.5,2,0.4986,0.4754,2.1,2.21,2.02,-0.0415,1.04,1.85-2.10
 SAS @ CHI,game over 239.5 + Caleb Wilson 4+ reb,2,0.3486,0.4144,2.41,2.53,2.3,-0.0461,1.039,2.10-2.50
 SAS @ CHI,SAS win + Jalen Smith pts under 11.5,2,0.4734,0.4516,2.21,2.32,2.11,-0.0465,1.035,2.10-2.50
-SAS @ CHI,SAS win + De'Aaron Fox 18+ pr,2,0.4546,0.438,2.28,2.4,2.18,-0.0465,1.032,2.10-2.50
+SAS @ CHI,SAS win + Jalen Smith pa under 13.5,2,0.4962,0.4729,2.11,2.22,2.02,-0.0466,1.034,1.85-2.10
 SAS @ CHI,Julian Champagnie 3pm under 2.5 + De'Aaron Fox 10+ pa,2,0.709,0.5369,1.86,1.96,1.7,-0.0853,0.998,1.65-1.85
 SAS @ CHI,Stephon Castle 11+ ra + De'Aaron Fox 10+ pa,2,0.5884,0.4916,2.03,2.14,1.83,-0.0987,0.999,1.65-1.85
-SAS @ CHI,Josh Giddey pra under 29.5 + Victor Wembanyama 6+ reb,2,0.5833,0.487,2.05,2.16,1.84,-0.1015,0.999,1.65-1.85
-SAS @ CHI,SAS win + Victor Wembanyama 1+ 3pm + Stephon Castle 1+ 3pm,3,0.5517,0.5552,1.8,1.89,1.54,-0.1432,1.004,1.50-1.65
-SAS @ CHI,SAS win + Victor Wembanyama 8+ reb + Stephon Castle 1+ 3pm,3,0.5606,0.5586,1.79,1.88,1.53,-0.1433,1.002,1.50-1.65
-SAS @ CHI,SAS win + Stephon Castle 1+ 3pm + Caleb Wilson 4+ reb,3,0.529,0.534,1.87,1.97,1.6,-0.1455,1.002,1.50-1.65
+SAS @ CHI,Jalen Smith pa under 13.5 + De'Aaron Fox 10+ pa,2,0.5826,0.4882,2.05,2.15,1.84,-0.1016,0.999,1.65-1.85
+SAS @ CHI,SAS win + Stephon Castle 1+ 3pm + Victor Wembanyama 1+ 3pm,3,0.5517,0.5534,1.81,1.9,1.55,-0.1427,1.004,1.50-1.65
+SAS @ CHI,SAS win + Victor Wembanyama 8+ reb + Stephon Castle 1+ 3pm,3,0.5606,0.5568,1.8,1.89,1.54,-0.1428,1.002,1.50-1.65
+SAS @ CHI,SAS win + Stephon Castle 1+ 3pm + Caleb Wilson 4+ reb,3,0.529,0.5323,1.88,1.97,1.61,-0.1451,1.002,1.50-1.65
 DEN @ MEM,game over 228.5 + Aaron Gordon 15+ pra,2,0.5953,0.3983,2.51,2.64,2.38,-0.0523,1.03,2.10-2.50
-DEN @ MEM,game over 228.5 + Aaron Gordon 10+ pa,2,0.6062,0.4075,2.45,2.58,2.31,-0.0573,1.025,2.10-2.50
-DEN @ MEM,DEN win + Aaron Gordon 10+ pa,2,0.5122,0.4897,2.04,2.14,1.92,-0.0594,1.028,1.85-2.10
-DEN @ MEM,game over 228.5 + Christian Braun 10+ pr,2,0.6352,0.4236,2.36,2.48,2.22,-0.0613,1.02,2.10-2.50
+DEN @ MEM,game over 228.5 + Aaron Gordon 10+ pa,2,0.6062,0.4071,2.46,2.58,2.32,-0.0571,1.025,2.10-2.50
+DEN @ MEM,DEN win + Aaron Gordon 10+ pa,2,0.5122,0.4892,2.04,2.15,1.92,-0.0592,1.028,1.85-2.10
+DEN @ MEM,game over 228.5 + Jamal Murray 20+ pr,2,0.6228,0.42,2.38,2.5,2.24,-0.0594,1.023,2.10-2.50
 DEN @ MEM,DEN win + Aaron Gordon 15+ pra,2,0.4985,0.4743,2.11,2.21,1.98,-0.0628,1.023,1.85-2.10
-DEN @ MEM,game over 228.5 + Christian Braun 10+ pra,2,0.6716,0.4452,2.25,2.36,2.09,-0.0697,1.009,1.85-2.10
-DEN @ MEM,DEN win + Nikola Jokic 6+ ast,2,0.5558,0.5225,1.91,2.01,1.78,-0.0699,1.013,1.65-1.85
+DEN @ MEM,DEN win + Jamal Murray 20+ pr,2,0.5249,0.5035,1.99,2.09,1.86,-0.0637,1.023,1.85-2.10
+DEN @ MEM,DEN win + Nikola Jokic 6+ ast,2,0.5558,0.524,1.91,2.0,1.77,-0.0703,1.013,1.65-1.85
 DEN @ MEM,DEN win + Christian Braun 10+ pr,2,0.5324,0.5049,1.98,2.08,1.84,-0.0708,1.014,1.65-1.85
 DEN @ MEM,DEN win + Christian Braun 10+ pra,2,0.5662,0.5338,1.87,1.97,1.74,-0.0737,1.01,1.65-1.85
-LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Kyle Kuzma 10+ pr,2,0.6997,0.4429,2.26,2.37,2.16,-0.0452,1.002,2.10-2.50
-LAL @ MIL,Jaime Jaquez Jr. 3+ ast + LAL win,2,0.5504,0.447,2.24,2.35,2.12,-0.0518,0.99,2.10-2.50
-LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Brayden Burries 10+ pra,2,0.7316,0.4964,2.01,2.12,1.9,-0.0572,1.001,1.85-2.10
-LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Jake LaRavia 5+ pr,2,0.6848,0.4675,2.14,2.25,2.02,-0.0572,1.002,1.85-2.10
-LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Luka Doncic 3+ 3pm,2,0.6344,0.4346,2.3,2.42,2.16,-0.0598,1.0,2.10-2.50
-LAL @ MIL,Kyle Kuzma 18+ pra + Jake LaRavia 5+ pr,2,0.6611,0.4564,2.19,2.3,2.06,-0.0615,1.004,1.85-2.10
-LAL @ MIL,Kyle Kuzma 7+ ra + Brayden Burries 10+ pra,2,0.6779,0.5087,1.97,2.06,1.8,-0.082,1.0,1.65-1.85
-LAL @ MIL,Matisse Thybulle 3pm under 1.5 + Brayden Burries 10+ pra,2,0.7278,0.5414,1.85,1.94,1.69,-0.0827,0.999,1.65-1.85
-LAL @ MIL,Kyle Kuzma 7+ ra + Luka Doncic 4+ ast,2,0.6531,0.5002,2.0,2.1,1.83,-0.0844,1.001,1.65-1.85
-LAL @ MIL,LAL win + Kyle Kuzma 10+ pr + Luka Doncic 3+ 3pm,3,0.5877,0.5378,1.86,1.95,1.62,-0.1269,1.007,1.50-1.65
-LAL @ MIL,LAL win + Jake LaRavia 5+ pr + Luka Doncic 3+ 3pm,3,0.5785,0.571,1.75,1.84,1.52,-0.1328,1.013,1.50-1.65
-LAL @ MIL,LAL win + Kyle Kuzma 10+ pr + Jake LaRavia 5+ pr,3,0.6269,0.5718,1.75,1.84,1.51,-0.1347,0.997,1.50-1.65
-BKN @ NOP,NOP win + Derik Queen 10+ pr,2,0.6138,0.481,2.08,2.18,1.94,-0.0652,1.015,1.85-2.10
-BKN @ NOP,NOP win + Herbert Jones 5+ pr,2,0.6101,0.4851,2.06,2.16,1.91,-0.0723,1.01,1.85-2.10
-BKN @ NOP,NOP win + Herbert Jones 5+ pra,2,0.6538,0.5241,1.91,2.0,1.76,-0.0756,1.008,1.65-1.85
-BKN @ NOP,Dejounte Murray 5+ ast + Derik Queen 10+ pr,2,0.5961,0.4513,2.22,2.33,2.05,-0.0758,1.006,1.85-2.10
+DEN @ MEM,Nikola Jokic 8+ reb + Christian Braun 10+ pr + Aaron Gordon 15+ pra,3,0.6624,0.5423,1.84,1.94,1.57,-0.1497,1.009,1.50-1.65
+LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Kyle Kuzma 10+ pr,2,0.6997,0.4357,2.3,2.41,2.17,-0.0527,1.002,2.10-2.50
+LAL @ MIL,Jaime Jaquez Jr. 3+ ast + LAL win,2,0.5504,0.443,2.26,2.37,2.12,-0.0604,0.99,2.10-2.50
+LAL @ MIL,Walker Kessler pts under 14.5 + Kyle Kuzma 10+ pr,2,0.658,0.4303,2.32,2.44,2.18,-0.0608,0.998,2.10-2.50
+LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Jake LaRavia 5+ pr,2,0.6848,0.4625,2.16,2.27,2.02,-0.0655,1.002,1.85-2.10
+LAL @ MIL,Kyle Kuzma 18+ pra + Jake LaRavia 5+ pr,2,0.6611,0.4534,2.21,2.32,2.06,-0.0659,1.004,1.85-2.10
+LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Brayden Burries 10+ pra,2,0.7316,0.4936,2.03,2.13,1.89,-0.0662,1.001,1.85-2.10
+LAL @ MIL,Kyle Kuzma 13+ pa + Brayden Burries 10+ pra,2,0.7314,0.51,1.96,2.06,1.83,-0.0685,1.0,1.65-1.85
+LAL @ MIL,Kyle Kuzma 7+ ra + Brayden Burries 10+ pra,2,0.6779,0.5105,1.96,2.06,1.8,-0.0825,1.0,1.65-1.85
+LAL @ MIL,Matisse Thybulle 3pm under 1.5 + Brayden Burries 10+ pra,2,0.7278,0.5434,1.84,1.93,1.69,-0.0832,0.999,1.65-1.85
+LAL @ MIL,LAL win + Kyle Kuzma 10+ pr + Luka Doncic 3+ 3pm,3,0.5877,0.5353,1.87,1.96,1.63,-0.1262,1.007,1.50-1.65
+LAL @ MIL,LAL win + Jake LaRavia 5+ pr + Luka Doncic 3+ 3pm,3,0.5785,0.5716,1.75,1.84,1.52,-0.1329,1.013,1.50-1.65
+LAL @ MIL,LAL win + Kyle Kuzma 10+ pr + Jake LaRavia 5+ pr,3,0.6269,0.5666,1.77,1.85,1.53,-0.1334,0.997,1.50-1.65
+BKN @ NOP,NOP win + Dejounte Murray 15+ pa,2,0.5996,0.4919,2.03,2.13,1.91,-0.0609,1.028,1.85-2.10
+BKN @ NOP,NOP win + Derik Queen 10+ pr,2,0.6138,0.4816,2.08,2.18,1.94,-0.0655,1.015,1.85-2.10
+BKN @ NOP,NOP win + Herbert Jones 5+ pr,2,0.6101,0.4819,2.08,2.18,1.93,-0.0713,1.01,1.85-2.10
+BKN @ NOP,NOP win + Herbert Jones 5+ pra,2,0.6538,0.5219,1.92,2.01,1.77,-0.0749,1.008,1.65-1.85
+BKN @ NOP,Dejounte Murray 10+ ra + Derik Queen 10+ pr,2,0.5797,0.4352,2.3,2.41,2.12,-0.0776,1.004,2.10-2.50
+BKN @ NOP,Michael Porter Jr. pr under 30.5 + Derik Queen 10+ pr,2,0.5468,0.3974,2.52,2.64,2.32,-0.0792,0.998,2.10-2.50
 BKN @ NOP,NOP win + Saddiq Bey 10+ pra,2,0.6823,0.5567,1.8,1.89,1.65,-0.0792,1.007,1.65-1.85
-BKN @ NOP,Michael Porter Jr. pts under 23.5 + Derik Queen 10+ pr,2,0.5646,0.4167,2.4,2.52,2.2,-0.0818,0.998,2.10-2.50
-BKN @ NOP,Michael Porter Jr. pr under 30.5 + Derik Queen 10+ pr,2,0.5468,0.4039,2.48,2.6,2.27,-0.082,0.998,2.10-2.50
-BKN @ NOP,Michael Porter Jr. pra under 32.5 + Derik Queen 10+ pr,2,0.5388,0.3987,2.51,2.63,2.3,-0.0828,0.998,2.10-2.50
-BKN @ NOP,Dejounte Murray 5+ ast + Saddiq Bey 10+ pra,2,0.6662,0.5251,1.9,2.0,1.74,-0.0847,1.003,1.65-1.85
+BKN @ NOP,Dejounte Murray 10+ ra + Herbert Jones 5+ pr,2,0.5786,0.4373,2.29,2.4,2.1,-0.0795,1.003,2.10-2.50
+BKN @ NOP,Dejounte Murray 5+ ast + Saddiq Bey 10+ pra,2,0.6662,0.5202,1.92,2.02,1.76,-0.0829,1.003,1.65-1.85
 ORL @ UTA,Desmond Bane 22+ pa + Wendell Carter Jr. 20+ pra,2,0.5575,0.3842,2.6,2.73,2.47,-0.0528,1.014,2.10-2.50
 ORL @ UTA,ORL win + Wendell Carter Jr. 20+ pra,2,0.5382,0.4536,2.2,2.31,2.08,-0.0565,1.028,1.85-2.10
 ORL @ UTA,Desmond Bane 22+ pa + Wendell Carter Jr. 10+ pa,2,0.6064,0.4281,2.34,2.45,2.2,-0.0578,1.012,2.10-2.50
@@ -90,12 +91,10 @@ GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 10+ pa,2,0.7579,0.5622,1.7
 GSW @ HOU,HOU win + De'Anthony Melton 5+ pr,2,0.6535,0.5692,1.76,1.84,1.61,-0.0832,0.995,1.50-1.65
 GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 1+ 3pm,2,0.7563,0.5785,1.73,1.81,1.58,-0.0859,1.0,1.50-1.65
 OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.553,0.4091,2.44,2.57,2.43,-0.0064,1.011,2.10-2.50
-OKC @ POR,OKC win + Isaiah Hartenstein 5+ pa,2,0.6067,0.4943,2.02,2.12,1.97,-0.0274,1.006,1.85-2.10
+OKC @ POR,OKC win + Isaiah Hartenstein 5+ pa,2,0.6067,0.4926,2.03,2.13,1.98,-0.0269,1.006,1.85-2.10
 OKC @ POR,OKC win + Isaiah Hartenstein 10+ pr,2,0.5904,0.4829,2.07,2.17,2.01,-0.0295,1.005,1.85-2.10
 OKC @ POR,Damian Lillard pts under 20.5 + Shai Gilgeous-Alexander 4+ ast,2,0.6482,0.3887,2.57,2.7,2.46,-0.043,0.998,2.10-2.50
-OKC @ POR,Damian Lillard pts under 20.5 + Isaiah Hartenstein 5+ pa,2,0.716,0.4729,2.11,2.22,1.99,-0.0567,1.0,1.85-2.10
-OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast + Isaiah Hartenstein 5+ pa,3,0.538,0.3792,2.64,2.77,2.48,-0.059,1.017,2.10-2.50
-OKC @ POR,Damian Lillard 3pm under 3.5 + Isaiah Hartenstein 10+ pr,2,0.7877,0.5643,1.77,1.86,1.64,-0.0727,1.001,1.50-1.65
-OKC @ POR,Damian Lillard 3pm under 3.5 + Isaiah Hartenstein 5+ pa,2,0.8068,0.5757,1.74,1.82,1.61,-0.0737,0.999,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 9+ ra + Isaiah Hartenstein 5+ pa,2,0.6752,0.5272,1.9,1.99,1.73,-0.0873,1.001,1.65-1.85
+OKC @ POR,Damian Lillard pts under 20.5 + Isaiah Hartenstein 5+ pa,2,0.716,0.4713,2.12,2.23,2.0,-0.0562,1.0,1.85-2.10
+OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast + Isaiah Hartenstein 5+ pa,3,0.538,0.378,2.65,2.78,2.49,-0.0585,1.017,2.10-2.50
+OKC @ POR,Shai Gilgeous-Alexander 9+ ra + Isaiah Hartenstein 5+ pa,2,0.6752,0.5254,1.9,2.0,1.74,-0.0868,1.001,1.65-1.85
 OKC @ POR,Shai Gilgeous-Alexander 9+ ra + Isaiah Hartenstein 10+ pr,2,0.6577,0.5155,1.94,2.04,1.77,-0.0885,1.0,1.65-1.85
