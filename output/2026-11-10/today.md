@@ -1,6 +1,6 @@
 # NBA model · Tue 10 Nov 2026 (US date)
 
-Updated **Wed 11 Nov, 10:55 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-10/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 11 Nov, 11:00 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-10/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -46,7 +46,7 @@ Game lines below assume every questionable player sits; each game's section show
 | BOS @ PHI | Wed 11 Nov 12:00 | 113.2–106.7 | BOS 67% | 1.48 / 3.07 | PHI +6.5 | 219.5 | PHI +2.5 covers 38%; o217.5 55% |
 | LAC @ PHX | Wed 11 Nov 13:00 | 114.6–111.9 | LAC 58% | 1.73 / 2.37 | PHX +2.5 | 226.5 | PHX -3.5 covers 33%; o224.5 54% |
 | MIA @ UTA | Wed 11 Nov 13:00 | 126.0–113.6 | MIA 81% | 1.23 / 5.29 | UTA +12.5 | 239.5 | UTA +9.5 covers 42%; o227.5 74% |
-| ORL @ SAC | Wed 11 Nov 14:00 | 112.1–112.0 | ORL 50% | 1.98 / 2.02 | SAC +0.5 | 224.5 | SAC +5.5 covers 64%; o222.5 53% |
+| ORL @ SAC | Wed 11 Nov 14:00 | 112.1–112.0 | ORL 50% | 1.98 / 2.02 | SAC +0.5 | 224.5 | SAC +5.5 covers 64%; o221.5 55% |
 | OKC @ POR | Wed 11 Nov 15:00 | 114.0–109.2 | OKC 63% | 1.58 / 2.71 | POR +5.5 | 222.5 | POR +1.5 covers 40%; o226.5 43% |
 
 ### MIL @ NYK
@@ -110,6 +110,12 @@ Out: Josh Hart (NYK), Tyler Herro (MIL)
 
 ### BOS @ PHI
 Out: Dominick Barlow (PHI), Adem Bona (PHI), Ariel Hukporti (PHI), Devin Carter (BOS)
+
+**Best player props (main lines)**
+
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Sam Hauser PR over 9.5 (10+) | BOS @ PHI | draftkings | 2.20 | 2.16 | 1.77 | 56.5% | 44.7% | 46.3% | +1.8% | +24.3% | 0.4% |
 
 <details><summary>BOS players (confirmed only)</summary>
 
@@ -178,7 +184,7 @@ Out: Mark Williams (PHX), Bradley Beal (LAC), Brandon Ingram (LAC)
 | Kris Dunn | 98% | 26.7<br><sub>31,27,30,35,24</sub> | 7.4<br><sub>5,12,12,5,14</sub> | 7.5 · –<br><sub>o 46% · u 54%</sub> | 3.5<br><sub>5,2,4,5,5</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 3.5<br><sub>7,4,1,3,4</sub> | 4.5<br><sub>o 41% · u 59%</sub> | 0.8<br><sub>0,0,1,1,2</sub> | 0.5<br><sub>o 57% · u 43%</sub> | 1.7 | 0.3 | 1.4 | 14.4 |
 | Brook Lopez | 98% | 24.0<br><sub>21,19,22,35,26</sub> | 11.9<br><sub>13,7,12,20,20</sub> | 12.5 · –<br><sub>o 46% · u 54%</sub> | 4.7<br><sub>6,2,6,8,7</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 1.4<br><sub>0,0,1,1,1</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.3<br><sub>1,1,1,2,1</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 0.6 | 1.2 | 1.1 | 17.9 |
 | Kobe Sanders | 98% | 21.9<br><sub>24,30,38,18,22</sub> | 9.3<br><sub>7,16,26,4,8</sub> | 7.5 · –<br><sub>o 51% · u 49%</sub> | 2.5<br><sub>4,3,4,2,2</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 1.8<br><sub>2,0,3,1,4</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.3<br><sub>1,4,5,0,2</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 0.9 | 0.2 | 1.5 | 13.6 |
-| Max Strus | 98% | 20.9<br><sub>-,-,23,23,19</sub> | 8.6<br><sub>-,-,11,9,7</sub> | 9.5 · –<br><sub>o 46% · u 54%</sub> | 3.6<br><sub>-,-,4,5,4</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 2.6<br><sub>-,-,6,5,2</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 1.4<br><sub>-,-,3,3,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.6 | 0.2 | 1.0 | 14.8 |
+| Max Strus | 98% | 20.9<br><sub>-,-,23,23,19</sub> | 8.6<br><sub>-,-,11,9,7</sub> | 9.5 · –<br><sub>o 46% · u 54%</sub> | 3.6<br><sub>-,-,4,5,4</sub> | 3.5<br><sub>o 56% · u 44%</sub> | 2.6<br><sub>-,-,6,5,2</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 1.4<br><sub>-,-,3,3,1</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.6 | 0.2 | 1.0 | 14.8 |
 | Keaton Wagler | 98% | 20.3<br><sub>25,19,24,16,18</sub> | 9.9<br><sub>12,7,6,11,15</sub> | 9.5 · –<br><sub>o 49% · u 51%</sub> | 3.0<br><sub>6,4,4,2,2</sub> | 2.5<br><sub>o 58% · u 42%</sub> | 2.8<br><sub>3,4,4,1,4</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.2<br><sub>1,0,0,3,3</sub> | 0.5<br><sub>o 64% · u 36%</sub> | 0.7 | 0.2 | 1.6 | 15.8 |
 | Isaiah Jackson | 98% | 16.1<br><sub>22,22,26,13,-</sub> | 6.9<br><sub>10,5,19,2,-</sub> |  | 4.8<br><sub>7,8,8,4,-</sub> |  | 1.3<br><sub>4,2,2,2,-</sub> |  | 0.0<br><sub>0,0,1,0,-</sub> |  | 0.8 | 0.8 | 1.2 | 13.1 |
 | Gradey Dick | 96% | 14.5<br><sub>12,3,29,7,17</sub> | 6.6<br><sub>3,0,12,4,15</sub> |  | 2.2<br><sub>0,1,4,2,4</sub> |  | 0.8<br><sub>1,0,3,1,0</sub> |  | 0.6<br><sub>1,0,0,0,2</sub> |  | 0.6 | 0.1 | 0.7 | 9.6 |
@@ -275,9 +281,9 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC), Paolo Banche
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 112.1–112.0 | ORL 50% | 1.98 / 2.02 | SAC +0.5 | 224.5 | SAC +5.5 covers 64%; o222.5 53% |
-| Expected (weighted by chance each plays) | 112.4–111.9 | ORL 52% | 1.94 / 2.06 | SAC +0.5 | 224.5 | SAC +5.5 covers 63%; o222.5 54% |
-| if Tristan da Silva plays | 112.6–111.9 | ORL 52% | 1.94 / 2.07 | SAC +1.5 | 224.5 | SAC +5.5 covers 63%; o222.5 54% |
+| Confirmed players only | 112.1–112.0 | ORL 50% | 1.98 / 2.02 | SAC +0.5 | 224.5 | SAC +5.5 covers 64%; o221.5 55% |
+| Expected (weighted by chance each plays) | 112.4–111.9 | ORL 52% | 1.94 / 2.06 | SAC +0.5 | 224.5 | SAC +5.5 covers 63%; o221.5 56% |
+| if Tristan da Silva plays | 112.6–111.9 | ORL 52% | 1.94 / 2.07 | SAC +1.5 | 224.5 | SAC +5.5 covers 63%; o221.5 56% |
 
 **Questionable players: chance to play, and their projection if they do**
 

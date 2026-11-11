@@ -15,20 +15,23 @@ BOS @ PHI,PHI win + LeBron James 10+ pts,2,0.289,0.3924,2.55,2.68,2.48,-0.0251,1
 BOS @ PHI,PHI win + LeBron James 20+ pra,2,0.2994,0.4155,2.41,2.53,2.33,-0.0314,1.036,2.10-2.50
 BOS @ PHI,PHI win + LeBron James 15+ pr,2,0.2963,0.4061,2.46,2.59,2.38,-0.0333,1.032,2.10-2.50
 BOS @ PHI,game over 217.5 + Joel Embiid 10+ pts,2,0.5206,0.4537,2.2,2.31,2.07,-0.0627,1.02,1.85-2.10
-BOS @ PHI,game over 217.5 + Joel Embiid 15+ pr,2,0.5317,0.4624,2.16,2.27,2.02,-0.0672,1.015,1.85-2.10
 BOS @ PHI,game over 217.5 + Payton Pritchard 10+ pra,2,0.524,0.4554,2.2,2.31,2.05,-0.0685,1.013,1.85-2.10
-BOS @ PHI,Anfernee Simons 3pm under 1.5 + Joel Embiid 15+ pr,2,0.6707,0.5076,1.97,2.07,1.8,-0.0841,1.0,1.65-1.85
+BOS @ PHI,game over 217.5 + Jayson Tatum 4+ reb,2,0.5234,0.4528,2.21,2.32,2.06,-0.069,1.012,1.85-2.10
 BOS @ PHI,Anfernee Simons 3pm under 1.5 + Payton Pritchard 10+ pra,2,0.6618,0.5005,2.0,2.1,1.83,-0.0844,0.999,1.65-1.85
 BOS @ PHI,Anfernee Simons 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.6612,0.4977,2.01,2.11,1.84,-0.0846,0.998,1.65-1.85
-LAC @ PHX,Rui Hachimura pr under 21.5 + Collin Gillespie 5+ pa,2,0.653,0.4655,2.15,2.26,1.99,-0.0731,0.999,1.85-2.10
+BOS @ PHI,Anfernee Simons 3pm under 1.5 + Joel Embiid 10+ pts,2,0.6509,0.4936,2.03,2.13,1.85,-0.088,0.996,1.65-1.85
+BOS @ PHI,Sam Hauser 5+ pr + LeBron James 10+ pts + Joel Embiid 10+ pts,3,0.729,0.564,1.77,1.86,1.51,-0.147,1.003,1.50-1.65
+BOS @ PHI,Sam Hauser 5+ pr + LeBron James 10+ pts + Jayson Tatum 4+ reb,3,0.7379,0.5666,1.76,1.85,1.51,-0.1471,1.001,1.50-1.65
+BOS @ PHI,Sam Hauser 5+ pr + LeBron James 10+ pts + Paul George 10+ pts,3,0.7015,0.545,1.83,1.93,1.56,-0.1476,1.003,1.50-1.65
 LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6347,0.4441,2.25,2.36,2.08,-0.0746,0.995,1.85-2.10
 LAC @ PHX,Rui Hachimura pr under 21.5 + Darius Garland 1+ 3pm,2,0.6374,0.4547,2.2,2.31,2.03,-0.0747,0.997,1.85-2.10
+LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pra,2,0.6607,0.471,2.12,2.23,1.96,-0.0749,0.997,1.85-2.10
 LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pa,2,0.6205,0.435,2.3,2.41,2.12,-0.0758,0.994,2.10-2.50
 LAC @ PHX,LAC +3.5 + Kobe Sanders 5+ pa,2,0.6013,0.4235,2.36,2.48,2.18,-0.076,1.014,2.10-2.50
 LAC @ PHX,Rui Hachimura pr under 21.5 + Dillon Brooks 1+ 3pm,2,0.5965,0.4261,2.35,2.46,2.17,-0.076,0.996,2.10-2.50
-LAC @ PHX,Kris Dunn ra under 8.5 + Collin Gillespie 5+ pa,2,0.6752,0.5065,1.97,2.07,1.81,-0.082,0.999,1.65-1.85
-LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pr,2,0.675,0.5063,1.98,2.07,1.81,-0.0824,0.998,1.65-1.85
-LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pra,2,0.6928,0.5196,1.92,2.02,1.77,-0.0825,0.998,1.65-1.85
+LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pr,2,0.675,0.513,1.95,2.05,1.79,-0.0841,0.998,1.65-1.85
+LAC @ PHX,Kris Dunn ra under 8.5 + Darius Garland 1+ 3pm,2,0.66,0.502,1.99,2.09,1.82,-0.0842,0.998,1.65-1.85
+LAC @ PHX,Kris Dunn ra under 8.5 + Kobe Sanders 5+ pra,2,0.6838,0.5198,1.92,2.02,1.76,-0.0846,0.998,1.65-1.85
 MIA @ UTA,MIA win + Bam Adebayo 18+ pts,2,0.5189,0.4066,2.46,2.58,2.38,-0.0304,1.024,2.10-2.50
 MIA @ UTA,MIA win + Bam Adebayo 31+ pra,2,0.5072,0.3936,2.54,2.67,2.46,-0.0333,1.027,2.10-2.50
 MIA @ UTA,MIA win + Andrew Wiggins 11+ pa,2,0.513,0.4177,2.39,2.51,2.29,-0.0445,1.021,2.10-2.50
@@ -41,18 +44,18 @@ MIA @ UTA,Klay Thompson 3pm under 3.5 + Ace Bailey 10+ pa,2,0.6481,0.5055,1.98,2
 MIA @ UTA,Klay Thompson 3pm under 3.5 + Bam Adebayo 10+ pts,2,0.6287,0.4916,2.03,2.14,1.84,-0.0943,0.995,1.65-1.85
 MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Bam Adebayo 10+ pts,3,0.6744,0.5404,1.85,1.94,1.64,-0.1112,1.016,1.50-1.65
 MIA @ UTA,MIA win + Bam Adebayo 25+ pra + Ace Bailey 10+ pts,3,0.6237,0.4943,2.02,2.12,1.79,-0.1143,1.011,1.65-1.85
-ORL @ SAC,ORL win + Wendell Carter Jr. 10+ pa,2,0.4574,0.5449,1.84,1.93,1.75,-0.0463,1.029,1.65-1.85
+ORL @ SAC,ORL win + Wendell Carter Jr. 10+ pa,2,0.4574,0.5441,1.84,1.93,1.75,-0.0477,1.029,1.65-1.85
 ORL @ SAC,Franz Wagner ra under 14.5 + Precious Achiuwa 10+ pr,2,0.6404,0.4131,2.42,2.54,2.28,-0.0572,0.997,2.10-2.50
 ORL @ SAC,SAC +5.5 + Precious Achiuwa 10+ pr,2,0.578,0.3916,2.55,2.68,2.39,-0.0628,1.011,2.10-2.50
-ORL @ SAC,ORL win + Wendell Carter Jr. 15+ pra,2,0.4833,0.5844,1.71,1.8,1.6,-0.0635,1.013,1.50-1.65
-ORL @ SAC,ORL win + Desmond Bane 15+ pra,2,0.4991,0.6161,1.62,1.7,1.52,-0.0641,1.015,1.50-1.65
+ORL @ SAC,ORL win + Wendell Carter Jr. 15+ pra,2,0.4833,0.5835,1.71,1.8,1.6,-0.0649,1.013,1.50-1.65
+ORL @ SAC,ORL win + Desmond Bane 15+ pra,2,0.4991,0.6151,1.63,1.71,1.52,-0.0655,1.015,1.50-1.65
 ORL @ SAC,Franz Wagner ast under 8.5 + Precious Achiuwa 10+ pr,2,0.6709,0.4521,2.21,2.32,2.07,-0.0664,0.998,1.85-2.10
 ORL @ SAC,Precious Achiuwa 8+ pts + Wendell Carter Jr. 10+ pa,2,0.6194,0.4396,2.27,2.39,2.12,-0.0671,1.003,2.10-2.50
 ORL @ SAC,Franz Wagner ra under 14.5 + Darius Acuff Jr. 4+ ast,2,0.6469,0.465,2.15,2.26,2.0,-0.0696,1.002,1.85-2.10
 ORL @ SAC,Precious Achiuwa 8+ pts + Wendell Carter Jr. 15+ pra,2,0.6643,0.4787,2.09,2.19,1.94,-0.07,1.002,1.85-2.10
-ORL @ SAC,ORL win + Precious Achiuwa 10+ pr,2,0.4602,0.5101,1.96,2.06,1.82,-0.0716,0.989,1.65-1.85
-ORL @ SAC,ORL win + Anthony Black 1+ stl,2,0.4246,0.5164,1.94,2.03,1.79,-0.0733,1.003,1.65-1.85
-ORL @ SAC,ORL win + Darius Acuff Jr. 4+ ast,2,0.461,0.5695,1.76,1.84,1.6,-0.0914,0.986,1.50-1.65
+ORL @ SAC,ORL win + Precious Achiuwa 10+ pr,2,0.4602,0.5094,1.96,2.06,1.82,-0.073,0.989,1.65-1.85
+ORL @ SAC,ORL win + Anthony Black 1+ stl,2,0.4246,0.5156,1.94,2.04,1.79,-0.0747,1.003,1.65-1.85
+ORL @ SAC,ORL win + Darius Acuff Jr. 4+ ast,2,0.461,0.5686,1.76,1.85,1.6,-0.0928,0.986,1.50-1.65
 OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5625,0.4083,2.45,2.57,2.44,-0.0034,1.012,2.10-2.50
 OKC @ POR,OKC win + Kenrich Williams 10+ pra,2,0.5157,0.4148,2.41,2.53,2.37,-0.0187,1.014,2.10-2.50
 OKC @ POR,OKC win + Aday Mara 5+ pa,2,0.5855,0.4672,2.14,2.25,2.1,-0.0198,1.011,1.85-2.10
