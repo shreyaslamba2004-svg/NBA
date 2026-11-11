@@ -121,7 +121,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909963,UTA,905041955,Darryn Peterson,,,1.0,,,
 401909963,UTA,1641729,Brice Sensabaugh,,,1.0,,,
 401909963,MIA,1628389,Bam Adebayo,,,1.0,,,
-401909963,MIA,203507,Giannis Antetokounmpo,Probable,Injury/Illness-RightWristSprain,0.93,Antetokounmpo is probable for Tuesday's game against the Jazz due to a right wrist sprain.,,
+401909963,MIA,203507,Giannis Antetokounmpo,Questionable,Injury/Illness-RightWristSprain,0.55,Antetokounmpo is probable for Tuesday's game against the Jazz due to a right wrist sprain.,,
 401909963,MIA,905107157,Ryan Conwell,,,1.0,,,
 401909963,MIA,904837356,Tre Donaldson,,,1.0,,,
 401909963,MIA,1631323,Simone Fontecchio,,,1.0,,,
