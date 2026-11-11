@@ -52,6 +52,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909961,PHI,1629731,Dean Wade,,,1.0,,,
 401909961,PHI,1631133,Jabari Walker,,,1.0,,,
 401909961,BOS,1642269,Devin Carter,Out,GLeague-Two-Way,0.0,,,
+401909961,BOS,905142621,Chris Cenac Jr.,Active,,1.0,,,
 401909961,BOS,201144,Mike Conley,Active,,1.0,,,
 401909961,BOS,1630568,Luka Garza,Active,,1.0,,,
 401909961,BOS,202331,Paul George,Active,,1.0,,,
