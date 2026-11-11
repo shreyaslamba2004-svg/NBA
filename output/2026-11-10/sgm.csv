@@ -1,26 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Sam Hauser 5+ pr,2,0.5568,0.3999,2.5,2.63,2.47,-0.0116,0.999,2.10-2.50
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Sam Hauser 5+ pra,2,0.5722,0.4265,2.34,2.46,2.3,-0.0176,0.999,2.10-2.50
-BOS @ PHI,PHI win + LeBron James 10+ pts,2,0.2984,0.3915,2.55,2.68,2.49,-0.027,1.036,2.10-2.50
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Jayson Tatum 4+ reb,2,0.5744,0.4702,2.13,2.23,2.05,-0.0351,0.997,1.85-2.10
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Payton Pritchard 10+ pra,2,0.5724,0.4711,2.12,2.23,2.05,-0.0363,0.997,1.85-2.10
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Joel Embiid 10+ pts,2,0.5604,0.4612,2.17,2.28,2.07,-0.0447,0.988,1.85-2.10
-BOS @ PHI,Sam Hauser 5+ pa + LeBron James 10+ pts,2,0.7077,0.5217,1.92,2.01,1.76,-0.0798,1.0,1.65-1.85
-BOS @ PHI,Sam Hauser 5+ pa + LeBron James 15+ pr,2,0.729,0.5446,1.84,1.93,1.69,-0.0815,1.001,1.65-1.85
-BOS @ PHI,Sam Hauser 5+ pa + Payton Pritchard 10+ pra,2,0.7811,0.5927,1.69,1.77,1.55,-0.082,1.003,1.50-1.65
-BOS @ PHI,Sam Hauser 5+ pa + Anfernee Simons 5+ pra,2,0.7095,0.5438,1.84,1.93,1.69,-0.0828,1.003,1.65-1.85
-BOS @ PHI,Sam Hauser 5+ pa + Jayson Tatum 4+ reb,2,0.7817,0.5899,1.7,1.78,1.55,-0.0833,1.0,1.50-1.65
-BOS @ PHI,Sam Hauser 5+ pa + Joel Embiid 10+ pts,2,0.7688,0.5833,1.71,1.8,1.57,-0.0851,0.999,1.50-1.65
 LAC @ PHX,LAC +3.5 + Kobe Sanders 5+ pa,2,0.6137,0.4233,2.36,2.48,2.18,-0.0752,1.013,2.10-2.50
 LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pa,2,0.6155,0.4347,2.3,2.42,2.13,-0.0752,0.996,2.10-2.50
-LAC @ PHX,Kris Dunn ra under 8.5 + Jalen Green 1+ 3pm,2,0.578,0.4319,2.32,2.43,2.14,-0.0758,1.003,2.10-2.50
-LAC @ PHX,PHX win + Dillon Brooks 1+ 3pm,2,0.3716,0.5089,1.97,2.06,1.82,-0.0759,1.018,1.65-1.85
-LAC @ PHX,PHX win + Jalen Green 1+ 3pm,2,0.3485,0.4701,2.13,2.23,1.96,-0.0774,1.014,1.85-2.10
+LAC @ PHX,Rui Hachimura pr under 21.5 + Dillon Brooks 1+ 3pm,2,0.5875,0.4246,2.35,2.47,2.18,-0.0758,0.999,2.10-2.50
 LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pra,2,0.6504,0.4697,2.13,2.24,1.96,-0.0775,0.997,1.85-2.10
-LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6265,0.444,2.25,2.37,2.08,-0.0779,0.994,1.85-2.10
+LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6265,0.4433,2.26,2.37,2.08,-0.0778,0.994,1.85-2.10
+LAC @ PHX,Miles Bridges pr under 23.5 + Kobe Sanders 5+ pr,2,0.6274,0.4522,2.21,2.32,2.04,-0.0784,0.997,1.85-2.10
 LAC @ PHX,Kris Dunn ra under 8.5 + Kobe Sanders 5+ pra,2,0.6781,0.5123,1.95,2.05,1.79,-0.0813,0.999,1.65-1.85
-LAC @ PHX,PHX win + Dillon Brooks 10+ pr,2,0.3999,0.5514,1.81,1.9,1.66,-0.0841,1.01,1.65-1.85
-LAC @ PHX,PHX win + Kobe Sanders 5+ pra,2,0.4008,0.5466,1.83,1.92,1.64,-0.101,0.99,1.50-1.65
+LAC @ PHX,Kris Dunn ra under 8.5 + Darius Garland 1+ 3pm,2,0.6507,0.4954,2.02,2.12,1.85,-0.0845,0.997,1.65-1.85
+LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pr,2,0.6612,0.5043,1.98,2.08,1.81,-0.0852,0.996,1.65-1.85
 MIA @ UTA,MIA win + Darryn Peterson 3pm under 2.5,2,0.4899,0.4058,2.46,2.59,2.35,-0.0484,1.016,2.10-2.50
 MIA @ UTA,UTA +9.5 + Ace Bailey 15+ pa,2,0.3717,0.3887,2.57,2.7,2.43,-0.0574,1.036,2.10-2.50
 MIA @ UTA,MIA win + Ace Bailey 1+ stl,2,0.5114,0.4148,2.41,2.53,2.26,-0.0607,0.997,2.10-2.50
