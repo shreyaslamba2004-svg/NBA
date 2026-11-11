@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5618,0.4114,2.43,2.55,2.42,-0.005,1.013,2.10-2.50
-OKC @ POR,Aday Mara 8+ pts + Shai Gilgeous-Alexander 4+ ast,2,0.5495,0.4089,2.45,2.57,2.42,-0.0111,1.003,2.10-2.50
-OKC @ POR,OKC win + Aday Mara 10+ pra,2,0.5712,0.4237,2.36,2.48,2.33,-0.0144,1.006,2.10-2.50
-OKC @ POR,Aday Mara 8+ pts + Scoot Henderson 5+ pra,2,0.614,0.4887,2.05,2.15,1.99,-0.0252,1.0,1.85-2.10
-OKC @ POR,Damian Lillard pts under 19.5 + Scoot Henderson 5+ pra,2,0.7019,0.4974,2.01,2.11,1.95,-0.029,0.998,1.85-2.10
-OKC @ POR,OKC win + Scoot Henderson 5+ pra,2,0.6203,0.486,2.06,2.16,1.99,-0.0307,0.998,1.85-2.10
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 10+ pra,2,0.7899,0.6021,1.66,1.74,1.52,-0.0867,1.0,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Sidy Cissoko 5+ pa,2,0.7663,0.5991,1.67,1.75,1.52,-0.0906,1.0,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 4+ reb,2,0.7528,0.5927,1.69,1.77,1.53,-0.0925,0.999,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 10+ pra + Sidy Cissoko 5+ pa,3,0.6887,0.4731,2.11,2.22,1.83,-0.1325,0.999,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 10+ pra + Sidy Cissoko 5+ pr,3,0.7292,0.5073,1.97,2.07,1.71,-0.1331,1.001,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 4+ reb + Sidy Cissoko 5+ pr,3,0.6952,0.4996,2.0,2.1,1.72,-0.1383,1.0,1.65-1.85
+OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5618,0.4188,2.39,2.51,2.37,-0.0081,1.013,2.10-2.50
+OKC @ POR,OKC win + Jared McCain 10+ pa,2,0.5332,0.4231,2.36,2.48,2.34,-0.0085,1.023,2.10-2.50
+OKC @ POR,OKC win + Bennett Stirtz 5+ pr,2,0.5601,0.4289,2.33,2.45,2.29,-0.0158,1.01,2.10-2.50
+OKC @ POR,OKC win + Bennett Stirtz 5+ pra,2,0.5902,0.4685,2.13,2.24,2.08,-0.025,1.007,1.85-2.10
+OKC @ POR,Sidy Cissoko 5+ pts + Bennett Stirtz 5+ pra,2,0.6818,0.4725,2.12,2.22,2.03,-0.0415,1.002,1.85-2.10
+OKC @ POR,Sidy Cissoko 5+ pts + Aday Mara 5+ pa,2,0.671,0.4629,2.16,2.27,2.07,-0.0423,1.0,1.85-2.10
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7063,0.587,1.7,1.79,1.53,-0.0998,1.0,1.50-1.65
+OKC @ POR,Kenrich Williams 10+ pra + Aday Mara 1+ blk,2,0.6746,0.5843,1.71,1.8,1.53,-0.1039,1.003,1.50-1.65
+OKC @ POR,Jared McCain 10+ pa + Aday Mara 1+ blk,2,0.6645,0.5879,1.7,1.79,1.52,-0.108,1.002,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Bennett Stirtz 5+ pr + Jared McCain 10+ pa,3,0.6388,0.4809,2.08,2.18,1.78,-0.1424,1.004,1.65-1.85
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra + Jared McCain 10+ pa,3,0.6096,0.4657,2.15,2.25,1.84,-0.1428,1.005,1.65-1.85
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 10+ pr + Jared McCain 10+ pa,3,0.6302,0.4847,2.06,2.17,1.77,-0.1436,1.006,1.65-1.85
