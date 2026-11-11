@@ -1,15 +1,15 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909965,POR,1630166,Deni Avdija,,,1.0,,,
-401909965,POR,1641739,Toumani Camara,,,1.0,,,
+401909965,POR,1630166,Deni Avdija,Starting,,1.0,,,1.0
+401909965,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
 401909965,POR,904592435,Branden Carlson,,,1.0,,,
-401909965,POR,1631321,Sidy Cissoko,,,1.0,,,
-401909965,POR,1642270,Donovan Clingan,,,1.0,,,
+401909965,POR,1631321,Sidy Cissoko,Starting,,1.0,,,1.0
+401909965,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
 401909965,POR,1642905,Yang Hansen,,,1.0,,,
 401909965,POR,1630703,Scoot Henderson,,,1.0,,,
 401909965,POR,201950,Jrue Holiday,,,1.0,,,
 401909965,POR,1643257,Jayson Kent,Out,GLeague-Two-Way,0.0,,,
 401909965,POR,1630249,Vit Krejci,Out,Injury/Illness-LeftAnkleFracture,0.0,"Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports.",,
-401909965,POR,203081,Damian Lillard,,,1.0,,,
+401909965,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
 401909965,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant ""may not be out for as long as we thought,"" Trail Blazers Insider Sean Highkin reports.",,
 401909965,POR,1630695,Micah Potter,,,1.0,,,
 401909965,POR,1631101,Shaedon Sharpe,Out,,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
@@ -20,12 +20,12 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909965,OKC,1627936,Alex Caruso,,,1.0,,,
 401909965,OKC,1642363,Nique Clifford,,,1.0,,,
 401909965,OKC,905105800,Josh Dix,,,1.0,,,
-401909965,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
-401909965,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
+401909965,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
+401909965,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
 401909965,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
 401909965,OKC,905174983,Aday Mara,,,1.0,,,
-401909965,OKC,1642272,Jared McCain,,,1.0,,,
-401909965,OKC,1642349,Ajay Mitchell,,,1.0,,,
+401909965,OKC,1642272,Jared McCain,Starting,,1.0,,,1.0
+401909965,OKC,1642349,Ajay Mitchell,Starting,,1.0,,,1.0
 401909965,OKC,904432185,Micah Peavy,,,1.0,,,
 401909965,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneesurgery,0.0,Sorber (knee) is out for Wednesday's game against the Cavaliers.,,
 401909965,OKC,905241364,Bennett Stirtz,,,1.0,,,
@@ -33,4 +33,4 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909965,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401909965,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
 401909965,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowBackSpasms,0.0,Williams (back) has been ruled out for Tuesday's game against the Trail Blazers.,,
-401909965,OKC,1629026,Kenrich Williams,,,1.0,,,
+401909965,OKC,1629026,Kenrich Williams,Starting,,1.0,,,1.0

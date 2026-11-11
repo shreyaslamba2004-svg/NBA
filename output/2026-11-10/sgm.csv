@@ -1,7 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ POR,OKC win + Alex Caruso 5+ pa,2,0.5598,0.4417,2.26,2.38,2.23,-0.0165,1.013,2.10-2.50
-OKC @ POR,OKC win + Kenrich Williams 10+ pra,2,0.5157,0.414,2.42,2.54,2.37,-0.0185,1.014,2.10-2.50
-OKC @ POR,OKC win + Aday Mara 5+ pa,2,0.5855,0.4654,2.15,2.26,2.11,-0.0192,1.011,2.10-2.50
-OKC @ POR,OKC win + Isaiah Hartenstein 10+ pr,2,0.6002,0.4859,2.06,2.16,2.0,-0.0283,1.005,1.85-2.10
-OKC @ POR,Donovan Clingan 11+ pts + Isaiah Hartenstein 10+ pr,2,0.4691,0.4698,2.13,2.23,2.03,-0.0474,1.001,1.85-2.10
-OKC @ POR,Damian Lillard pts under 18.5 + Isaiah Hartenstein 10+ pr,2,0.6121,0.4576,2.19,2.29,2.08,-0.0496,0.998,1.85-2.10
+OKC @ POR,OKC win + Jared McCain 10+ pa,2,0.5332,0.4173,2.4,2.52,2.38,-0.0062,1.023,2.10-2.50
+OKC @ POR,OKC win + Kenrich Williams 10+ pra,2,0.5344,0.4149,2.41,2.53,2.37,-0.0165,1.012,2.10-2.50
+OKC @ POR,OKC win + Kenrich Williams 5+ pa,2,0.5776,0.4493,2.23,2.34,2.19,-0.0178,1.011,2.10-2.50
+OKC @ POR,Sidy Cissoko 5+ pts + Aday Mara 5+ pa,2,0.671,0.4743,2.11,2.21,2.05,-0.0257,1.0,1.85-2.10
+OKC @ POR,Sidy Cissoko 5+ pts + Aday Mara 10+ pra,2,0.6593,0.4707,2.12,2.23,2.07,-0.0272,1.0,1.85-2.10
+OKC @ POR,Sidy Cissoko 5+ pts + Isaiah Hartenstein 10+ pr,2,0.6931,0.4986,2.01,2.11,1.95,-0.0281,1.0,1.85-2.10
+OKC @ POR,Kenrich Williams 10+ pra + Jared McCain 10+ pa,2,0.6926,0.5905,1.69,1.78,1.52,-0.1013,1.003,1.50-1.65
+OKC @ POR,Sidy Cissoko 5+ pra + Kenrich Williams 5+ pa + Jared McCain 10+ pa,3,0.7212,0.5438,1.84,1.93,1.57,-0.1438,1.002,1.50-1.65
+OKC @ POR,Sidy Cissoko 5+ pra + Kenrich Williams 10+ pra + Jared McCain 10+ pa,3,0.6664,0.5014,1.99,2.09,1.71,-0.1439,1.002,1.65-1.85
+OKC @ POR,Sidy Cissoko 5+ pra + Kenrich Williams 10+ pra + Aday Mara 10+ pr,3,0.6987,0.5305,1.88,1.98,1.61,-0.1448,1.002,1.50-1.65
+OKC @ POR,Kenrich Williams 10+ pra + Jared McCain 10+ pa + Aday Mara 10+ pr,3,0.6021,0.4803,2.08,2.19,1.78,-0.1467,1.008,1.65-1.85
+OKC @ POR,Kenrich Williams 10+ pra + Jared McCain 10+ pa + Aday Mara 10+ pra,3,0.6259,0.5076,1.97,2.07,1.68,-0.1494,1.008,1.65-1.85
