@@ -1,6 +1,6 @@
 # NBA model · Tue 10 Nov 2026 (US date)
 
-Updated **Wed 11 Nov, 11:25 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-10/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 11 Nov, 11:30 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-10/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -129,7 +129,7 @@ Out: Dominick Barlow (PHI), Adem Bona (PHI), Ariel Hukporti (PHI), Devin Carter 
 | Anfernee Simons PTS over 6.5 (7+) | BOS @ PHI | pointsbetau | 2.15 | 2.08 | 2.10 | 47.6% | 48.1% | 48.0% | +3.2% | +2.4% | 0.7% |
 | Tyrese Maxey PTS under 23.5 | BOS @ PHI | pointsbetau | 1.95 | 1.90 | 1.64 | 60.8% | 51.5% | 52.8% | +3.0% | +18.7% | 0.8% |
 | Jaylen Brown PTS under 21.5 | BOS @ PHI | betright | 2.00 | 1.97 | 1.79 | 55.8% | 50.1% | 50.8% | +1.7% | +11.5% | 0.4% |
-| Sam Hauser PTS over 5.5 (6+) | BOS @ PHI | ladbrokes_au | 1.80 | 1.79 | 1.52 | 65.6% | 54.3% | 55.8% | +0.4% | +18.1% | 0.1% |
+| Sam Hauser PTS over 5.5 (6+) | BOS @ PHI | neds | 1.80 | 1.79 | 1.52 | 65.6% | 54.3% | 55.8% | +0.4% | +18.1% | 0.1% |
 
 <details><summary>BOS players (confirmed only)</summary>
 
