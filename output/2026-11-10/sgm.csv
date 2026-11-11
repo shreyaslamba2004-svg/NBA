@@ -1,24 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ NYK,Andre Drummond 5+ pts + NYK win,2,0.429,0.4512,2.22,2.33,2.26,0.0215,1.024,2.10-2.50
-MIL @ NYK,Jalen Brunson 26+ pts + NYK win,2,0.41,0.4612,2.17,2.28,2.21,0.0188,1.041,2.10-2.50
-MIL @ NYK,Landry Shamet 10+ pts + NYK win,2,0.4964,0.4709,2.12,2.23,2.16,0.0154,1.025,2.10-2.50
-MIL @ NYK,AJ Green pts under 8.5 + NYK win,2,0.5029,0.4906,2.04,2.14,2.04,0.0011,1.034,1.85-2.10
-MIL @ NYK,AJ Green 3pm under 2.5 + NYK win,2,0.675,0.562,1.78,1.87,1.73,-0.0266,1.018,1.65-1.85
-MIL @ NYK,Landry Shamet 10+ pts + OG Anunoby 15+ pra,2,0.5743,0.4707,2.12,2.23,2.05,-0.035,1.006,1.85-2.10
-MIL @ NYK,Landry Shamet 10+ pts + Karl-Anthony Towns 8+ reb,2,0.5612,0.4593,2.18,2.29,2.09,-0.0391,1.001,1.85-2.10
-MIL @ NYK,AJ Green 3pm under 2.5 + Karl-Anthony Towns 8+ reb,2,0.7671,0.5512,1.81,1.9,1.68,-0.0739,1.0,1.65-1.85
-MIL @ NYK,AJ Green 3pm under 2.5 + Landry Shamet 1+ 3pm,2,0.7653,0.5477,1.83,1.92,1.69,-0.0739,0.999,1.65-1.85
-MIL @ NYK,AJ Green 3pm under 2.5 + OG Anunoby 15+ pra,2,0.7808,0.5618,1.78,1.87,1.65,-0.0749,0.999,1.50-1.65
-MIL @ NYK,NYK win + Myles Turner 1+ blk + Jalen Brunson 4+ ast,3,0.5984,0.5733,1.74,1.83,1.53,-0.1238,1.009,1.50-1.65
-MIL @ NYK,NYK win + Myles Turner 1+ blk + Brayden Burries 4+ reb,3,0.5588,0.5367,1.86,1.96,1.62,-0.1293,1.003,1.50-1.65
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Sam Hauser 5+ pra,2,0.5722,0.4456,2.24,2.36,2.2,-0.0213,0.999,2.10-2.50
-BOS @ PHI,PHI win + LeBron James 10+ pts,2,0.2984,0.3924,2.55,2.68,2.48,-0.0275,1.036,2.10-2.50
-BOS @ PHI,Tyrese Maxey pts under 23.5 + LeBron James 15+ pr,2,0.5348,0.4342,2.3,2.42,2.23,-0.0311,0.996,2.10-2.50
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Jayson Tatum 4+ reb,2,0.5744,0.4706,2.13,2.23,2.06,-0.0313,0.997,1.85-2.10
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Payton Pritchard 10+ pra,2,0.5724,0.4736,2.11,2.22,2.04,-0.0333,0.997,1.85-2.10
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Joel Embiid 10+ pts,2,0.5604,0.4619,2.17,2.27,2.08,-0.0412,0.988,1.85-2.10
-BOS @ PHI,Sam Hauser 5+ pra + LeBron James 10+ pts + Anfernee Simons 5+ pra,3,0.6955,0.5551,1.8,1.89,1.53,-0.1494,1.005,1.50-1.65
-BOS @ PHI,Sam Hauser 5+ pra + LeBron James 10+ pts + Tyrese Maxey 4+ ast,3,0.6423,0.5149,1.94,2.04,1.65,-0.1498,1.005,1.65-1.85
+MIL @ NYK,Jalen Brunson 26+ pts + NYK win,2,0.423,0.4652,2.15,2.26,2.21,0.0276,1.046,2.10-2.50
+MIL @ NYK,Andre Drummond 5+ pts + NYK win,2,0.4321,0.4514,2.22,2.33,2.26,0.0222,1.023,2.10-2.50
+MIL @ NYK,OG Anunoby 18+ pts + NYK win,2,0.4347,0.4531,2.21,2.32,2.21,0.0008,1.039,2.10-2.50
+MIL @ NYK,AJ Green pts under 8.5 + NYK win,2,0.4927,0.4878,2.05,2.15,2.04,-0.0047,1.031,1.85-2.10
+MIL @ NYK,AJ Green 3pm under 2.5 + NYK win,2,0.6637,0.5584,1.79,1.88,1.73,-0.0328,1.014,1.65-1.85
+MIL @ NYK,Jalen Brunson 26+ pts + OG Anunoby 10+ pa,2,0.4859,0.4617,2.17,2.27,2.07,-0.0447,1.004,1.85-2.10
+MIL @ NYK,Landry Shamet 10+ pts + Karl-Anthony Towns 8+ reb,2,0.4931,0.4511,2.22,2.33,2.09,-0.0564,1.002,1.85-2.10
+MIL @ NYK,AJ Green 3pm under 2.5 + Jalen Brunson 4+ ast,2,0.7291,0.5272,1.9,1.99,1.75,-0.0749,1.001,1.65-1.85
+MIL @ NYK,AJ Green 3pm under 2.5 + OG Anunoby 10+ pa,2,0.7842,0.5701,1.75,1.84,1.62,-0.0751,1.001,1.50-1.65
+MIL @ NYK,AJ Green 3pm under 2.5 + OG Anunoby 10+ pts,2,0.7462,0.5405,1.85,1.94,1.71,-0.0753,1.0,1.65-1.85
+MIL @ NYK,AJ Green 3pm under 2.5 + OG Anunoby 15+ pra,2,0.7743,0.561,1.78,1.87,1.65,-0.0763,0.999,1.50-1.65
+MIL @ NYK,Myles Turner 1+ blk + OG Anunoby 20+ pra,2,0.6619,0.5859,1.71,1.79,1.52,-0.1106,0.999,1.50-1.65
+BOS @ PHI,Tyrese Maxey pts under 23.5 + Sam Hauser 5+ pra,2,0.5793,0.4468,2.24,2.35,2.2,-0.0186,1.0,2.10-2.50
+BOS @ PHI,PHI win + VJ Edgecombe 10+ pa,2,0.3,0.3957,2.53,2.65,2.48,-0.0191,1.045,2.10-2.50
+BOS @ PHI,PHI win + LeBron James 10+ pts,2,0.2964,0.3946,2.53,2.66,2.48,-0.0221,1.044,2.10-2.50
+BOS @ PHI,Tyrese Maxey pts under 23.5 + VJ Edgecombe 10+ pra,2,0.6021,0.4852,2.06,2.16,2.0,-0.0279,0.998,1.85-2.10
+BOS @ PHI,Tyrese Maxey pts under 23.5 + Jayson Tatum 4+ reb,2,0.58,0.4711,2.12,2.23,2.06,-0.0303,0.997,1.85-2.10
+BOS @ PHI,Tyrese Maxey pts under 23.5 + Joel Embiid 10+ pts,2,0.5708,0.4659,2.15,2.25,2.08,-0.0329,0.995,1.85-2.10
+BOS @ PHI,Anfernee Simons 3pm under 1.5 + VJ Edgecombe 10+ pra,2,0.6922,0.517,1.93,2.03,1.78,-0.0821,1.0,1.65-1.85
+BOS @ PHI,Anfernee Simons 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.6673,0.5024,1.99,2.09,1.82,-0.0837,0.999,1.65-1.85
+BOS @ PHI,Anfernee Simons 3pm under 1.5 + Joel Embiid 10+ pts,2,0.6571,0.4971,2.01,2.11,1.84,-0.0856,0.998,1.65-1.85
+BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 10+ pa + LeBron James 10+ pts,3,0.6823,0.5357,1.87,1.96,1.59,-0.1467,1.006,1.50-1.65
+BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 15+ pra + LeBron James 10+ pts,3,0.6744,0.5344,1.87,1.96,1.6,-0.1474,1.006,1.50-1.65
+BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 10+ pa + LeBron James 15+ pr,3,0.6996,0.5559,1.8,1.89,1.53,-0.1494,1.004,1.50-1.65
 LAC @ PHX,Rui Hachimura pr under 21.5 + Collin Gillespie 5+ pa,2,0.653,0.4655,2.15,2.26,1.99,-0.0731,0.999,1.85-2.10
 LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6347,0.4441,2.25,2.36,2.08,-0.0746,0.995,1.85-2.10
 LAC @ PHX,Rui Hachimura pr under 21.5 + Darius Garland 1+ 3pm,2,0.6374,0.4547,2.2,2.31,2.03,-0.0747,0.997,1.85-2.10
