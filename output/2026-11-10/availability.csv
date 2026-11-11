@@ -1,9 +1,9 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909960,NYK,904683730,Jaden Akins,,,1.0,,,
 401909960,NYK,1630631,Jose Alvarado,,,1.0,,,
-401909960,NYK,1628384,OG Anunoby,,,1.0,,,
-401909960,NYK,1628969,Mikal Bridges,,,1.0,,,
-401909960,NYK,1628973,Jalen Brunson,,,1.0,,,
+401909960,NYK,1628384,OG Anunoby,Starting,,1.0,,,1.0
+401909960,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
+401909960,NYK,1628973,Jalen Brunson,Starting,,1.0,,,1.0
 401909960,NYK,203903,Jordan Clarkson,,,1.0,,,
 401909960,NYK,1642359,Pacome Dadiet,,,1.0,,,
 401909960,NYK,1642885,Mohamed Diawara,,,1.0,,,
@@ -13,26 +13,26 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909960,NYK,1642278,Tyler Kolek,,,1.0,,,
 401909960,NYK,1630540,Miles McBride,,,1.0,,,
 401909960,NYK,904838721,Tyler Nickel,,,1.0,,,
-401909960,NYK,1629013,Landry Shamet,,,1.0,,,
-401909960,NYK,1626157,Karl-Anthony Towns,,,1.0,,,
+401909960,NYK,1629013,Landry Shamet,Starting,,1.0,,,1.0
+401909960,NYK,1626157,Karl-Anthony Towns,Starting,,1.0,,,1.0
 401909960,NYK,1630164,James Wiseman,,,1.0,,,
 401909960,MIL,905164559,Nate Ament,,,1.0,,,
-401909960,MIL,905082206,Brayden Burries,,,1.0,,,
+401909960,MIL,905082206,Brayden Burries,Starting,,1.0,,,1.0
 401909960,MIL,1631172,Ousmane Dieng,,,1.0,,,
 401909960,MIL,1631260,AJ Green,,,1.0,,,
 401909960,MIL,1629639,Tyler Herro,Out,Injury/Illness-RightKneeContusion,0.0,Herro (knee) is listed as out for Tuesday's game against New York.,,
 401909960,MIL,905214640,Kasparas Jakucionis,,,1.0,,,
-401909960,MIL,1631170,Jaime Jaquez Jr.,,,1.0,,,
+401909960,MIL,1631170,Jaime Jaquez Jr.,Starting,,1.0,,,1.0
 401909960,MIL,1642880,Kam Jones,,,1.0,,,
-401909960,MIL,1628398,Kyle Kuzma,,,1.0,,,
+401909960,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
 401909960,MIL,1627747,Caris LeVert,,,1.0,,,
 401909960,MIL,905214989,Bogoljub Markovic,,,1.0,,,
 401909960,MIL,1631250,Pete Nance,,,1.0,,,
-401909960,MIL,1631157,Ryan Rollins,,,1.0,,,
+401909960,MIL,1631157,Ryan Rollins,Starting,,1.0,,,1.0
 401909960,MIL,1642504,Cormac Ryan,,,1.0,,,
 401909960,MIL,1630579,Jericho Sims,,,1.0,,,
 401909960,MIL,1629018,Gary Trent Jr.,,,1.0,,,
-401909960,MIL,1626167,Myles Turner,,,1.0,,,
+401909960,MIL,1626167,Myles Turner,Starting,,1.0,,,1.0
 401909960,MIL,905105623,Kel'el Ware,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
 401909961,PHI,1631230,Dominick Barlow,Out,,0.0,"Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports.",,
 401909961,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,Bona (back) is out for Tuesday's game against the Celtics.,,
