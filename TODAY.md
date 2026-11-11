@@ -1,6 +1,6 @@
 # NBA model · Wed 11 Nov 2026 (US date)
 
-Updated **Wed 11 Nov, 05:16 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-11/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 11 Nov, 05:46 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-11/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -43,10 +43,10 @@ Game lines below assume every questionable player sits; each game's section show
 | CLE @ NYK | Thu 12 Nov 11:00 | 108.9–115.0 | CLE 33% | 3.03 / 1.49 | NYK -6.5 | 223.5 | NYK -3.5 covers 58%; o221.5 55% |
 | BOS @ TOR | Thu 12 Nov 11:00 | 116.6–104.4 | BOS 81% | 1.24 / 5.16 | TOR +12.5 | 220.5 | TOR +7.5 covers 37%; o215.5 62% |
 | SAS @ CHI | Thu 12 Nov 12:00 | 122.9–110.3 | SAS 81% | 1.23 / 5.39 | CHI +12.5 | 233.5 | CHI +15.5 covers 58%; o240.5 35% |
-| DEN @ MEM | Thu 12 Nov 12:00 | 121.4–116.5 | DEN 64% | 1.57 / 2.77 | MEM +5.5 | 237.5 | MEM +3.5 covers 45%; o227.5 71% |
+| DEN @ MEM | Thu 12 Nov 12:00 | 121.4–116.5 | DEN 64% | 1.57 / 2.77 | MEM +5.5 | 237.5 | MEM +3.5 covers 45%; o228.5 69% |
 | LAL @ MIL | Thu 12 Nov 12:00 | 119.7–110.3 | LAL 75% | 1.34 / 3.97 | MIL +9.5 | 229.5 | MIL +11.5 covers 57%; o232.5 45% |
 | BKN @ NOP | Thu 12 Nov 12:00 | 109.5–117.3 | BKN 29% | 3.48 / 1.40 | NOP -7.5 | 226.5 | NOP -4.5 covers 60%; o229.5 43% |
-| ORL @ UTA | Thu 12 Nov 13:00 | 112.9–107.9 | ORL 64% | 1.57 / 2.75 | UTA +5.5 | 220.5 | UTA +4.5 covers 48%; o218.5 55% |
+| ORL @ UTA | Thu 12 Nov 13:00 | 112.9–107.9 | ORL 64% | 1.57 / 2.75 | UTA +5.5 | 220.5 | UTA +4.5 covers 48%; o217.5 57% |
 | GSW @ HOU | Thu 12 Nov 13:30 | 109.8–116.5 | GSW 32% | 3.17 / 1.46 | HOU -6.5 | 226.5 | HOU -6.5 covers 51%; o221.5 60% |
 | OKC @ POR | Thu 12 Nov 14:00 | 114.3–109.7 | OKC 62% | 1.60 / 2.66 | POR +4.5 | 223.5 |  |
 
@@ -210,9 +210,9 @@ Out: Scottie Barnes (TOR), Kawhi Leonard (TOR)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| RJ Barrett | 98% | 36.8<br><sub>32,37,33,37,36</sub> | 24.2<br><sub>22,26,22,27,19</sub> |  | 6.5<br><sub>10,6,5,7,3</sub> |  | 5.0<br><sub>5,3,3,5,2</sub> |  | 2.2<br><sub>4,2,3,0,1</sub> |  | 0.7 | 0.4 | 3.1 | 35.7 |
+| RJ Barrett | 98% | 36.8<br><sub>32,37,33,37,36</sub> | 24.2<br><sub>22,26,22,27,19</sub> |  | 6.5<br><sub>10,6,5,7,3</sub> |  | 5.0<br><sub>5,3,3,5,2</sub> |  | 2.2<br><sub>4,2,3,0,1</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 0.7 | 0.4 | 3.1 | 35.7 |
 | Jamal Shead | 98% | 33.6<br><sub>25,20,20,34,36</sub> | 12.3<br><sub>9,6,3,10,20</sub> |  | 2.6<br><sub>2,1,3,3,2</sub> |  | 9.5<br><sub>6,6,6,16,11</sub> |  | 1.7<br><sub>2,0,1,1,4</sub> |  | 1.2 | 0.2 | 2.7 | 24.5 |
-| Ja'Kobe Walter | 98% | 33.4<br><sub>33,35,27,29,34</sub> | 14.0<br><sub>11,10,8,7,12</sub> |  | 4.2<br><sub>4,6,1,6,6</sub> |  | 2.7<br><sub>2,5,2,2,0</sub> |  | 2.4<br><sub>3,0,1,1,2</sub> |  | 1.2 | 0.3 | 1.2 | 20.9 |
+| Ja'Kobe Walter | 98% | 33.4<br><sub>33,35,27,29,34</sub> | 14.0<br><sub>11,10,8,7,12</sub> |  | 4.2<br><sub>4,6,1,6,6</sub> |  | 2.7<br><sub>2,5,2,2,0</sub> |  | 2.4<br><sub>3,0,1,1,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.2 | 0.3 | 1.2 | 20.9 |
 | Jamison Battle | 98% | 30.8<br><sub>17,21,19,21,29</sub> | 14.6<br><sub>20,12,9,6,18</sub> |  | 4.0<br><sub>5,0,1,2,1</sub> |  | 1.5<br><sub>0,0,0,0,2</sub> |  | 2.8<br><sub>4,4,2,1,5</sub> |  | 0.4 | 0.2 | 1.1 | 20.1 |
 | Jakob Poeltl | 88% | 27.6<br><sub>-,-,19,31,31</sub> | 12.2<br><sub>-,-,8,19,18</sub> |  | 7.8<br><sub>-,-,5,11,8</sub> |  | 2.4<br><sub>-,-,1,1,2</sub> |  | 0.0<br><sub>-,-,0,0,0</sub> |  | 0.8 | 0.9 | 1.7 | 22.4 |
 | Alijah Martin | 91% | 24.2<br><sub>16,6,9,31,21</sub> | 9.9<br><sub>5,2,6,27,2</sub> |  | 3.2<br><sub>2,2,1,4,3</sub> |  | 2.5<br><sub>4,0,0,1,3</sub> |  | 1.2<br><sub>1,0,0,6,0</sub> |  | 0.9 | 0.4 | 1.6 | 15.7 |
@@ -245,9 +245,9 @@ Out: Scottie Barnes (TOR), Kawhi Leonard (TOR)
 | Ron Harper Jr. (BOS) | 64% | 6.3<br><sub>-,7,-,10,4</sub> | 2.6<br><sub>-,0,-,3,2</sub> |  | 0.8<br><sub>-,1,-,0,0</sub> |  | 0.5<br><sub>-,1,-,2,0</sub> |  | 0.3<br><sub>-,0,-,1,0</sub> |  | 0.2 | 0.1 | 0.2 | 4.0 |
 | Chris Cenac Jr. (BOS) | 52% | 5.8<br><sub>-,2,-,-,-</sub> | 2.8<br><sub>-,2,-,-,-</sub> |  | 1.4<br><sub>-,0,-,-,-</sub> |  | 0.5<br><sub>-,0,-,-,-</sub> |  | 0.2<br><sub>-,0,-,-,-</sub> |  | 0.1 | 0.2 | 0.7 | 4.6 |
 | Amari Williams (BOS) | 30% | 5.0<br><sub>-,-,-,-,-</sub> | 1.4<br><sub>-,-,-,-,-</sub> |  | 1.6<br><sub>-,-,-,-,-</sub> |  | 0.3<br><sub>-,-,-,-,-</sub> |  | 0.0<br><sub>-,-,-,-,-</sub> |  | 0.1 | 0.3 | 0.5 | 3.3 |
-| RJ Barrett (TOR) | 98% | 36.6<br><sub>32,37,33,37,36</sub> | 23.7<br><sub>22,26,22,27,19</sub> |  | 6.2<br><sub>10,6,5,7,3</sub> |  | 4.5<br><sub>5,3,3,5,2</sub> |  | 2.1<br><sub>4,2,3,0,1</sub> |  | 0.7 | 0.4 | 2.8 | 34.4 |
-| Immanuel Quickley (TOR) | 100% | 33.4<br><sub>33,38,32,-,-</sub> | 17.9<br><sub>12,27,13,-,-</sub> |  | 4.0<br><sub>6,4,1,-,-</sub> |  | 6.7<br><sub>7,2,7,-,-</sub> |  | 2.8<br><sub>3,1,2,-,-</sub> |  | 1.1 | 0.1 | 1.6 | 28.6 |
-| Ja'Kobe Walter (TOR) | 98% | 32.5<br><sub>33,35,27,29,34</sub> | 12.2<br><sub>11,10,8,7,12</sub> |  | 4.1<br><sub>4,6,1,6,6</sub> |  | 2.2<br><sub>2,5,2,2,0</sub> |  | 2.2<br><sub>3,0,1,1,2</sub> |  | 1.2 | 0.3 | 1.0 | 18.5 |
+| RJ Barrett (TOR) | 98% | 36.6<br><sub>32,37,33,37,36</sub> | 23.7<br><sub>22,26,22,27,19</sub> |  | 6.2<br><sub>10,6,5,7,3</sub> |  | 4.5<br><sub>5,3,3,5,2</sub> |  | 2.1<br><sub>4,2,3,0,1</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 0.7 | 0.4 | 2.8 | 34.4 |
+| Immanuel Quickley (TOR) | 100% | 33.4<br><sub>33,38,32,-,-</sub> | 17.9<br><sub>12,27,13,-,-</sub> |  | 4.0<br><sub>6,4,1,-,-</sub> |  | 6.7<br><sub>7,2,7,-,-</sub> |  | 2.8<br><sub>3,1,2,-,-</sub> | 2.5 | 1.1 | 0.1 | 1.6 | 28.6 |
+| Ja'Kobe Walter (TOR) | 98% | 32.5<br><sub>33,35,27,29,34</sub> | 12.2<br><sub>11,10,8,7,12</sub> |  | 4.1<br><sub>4,6,1,6,6</sub> |  | 2.2<br><sub>2,5,2,2,0</sub> |  | 2.2<br><sub>3,0,1,1,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.2 | 0.3 | 1.0 | 18.5 |
 | Jamal Shead (TOR) | 98% | 32.0<br><sub>25,20,20,34,36</sub> | 10.8<br><sub>9,6,3,10,20</sub> |  | 2.4<br><sub>2,1,3,3,2</sub> |  | 7.8<br><sub>6,6,6,16,11</sub> |  | 1.6<br><sub>2,0,1,1,4</sub> |  | 1.2 | 0.2 | 2.2 | 21.0 |
 | Jamison Battle (TOR) | 98% | 28.1<br><sub>17,21,19,21,29</sub> | 12.4<br><sub>20,12,9,6,18</sub> |  | 3.6<br><sub>5,0,1,2,1</sub> |  | 1.3<br><sub>0,0,0,0,2</sub> |  | 2.3<br><sub>4,4,2,1,5</sub> |  | 0.4 | 0.2 | 0.9 | 17.3 |
 | Jakob Poeltl (TOR) | 88% | 27.2<br><sub>-,-,19,31,31</sub> | 11.0<br><sub>-,-,8,19,18</sub> |  | 7.6<br><sub>-,-,5,11,8</sub> |  | 2.1<br><sub>-,-,1,1,2</sub> |  | 0.0<br><sub>-,-,0,0,0</sub> |  | 0.8 | 0.8 | 1.5 | 20.7 |
@@ -281,8 +281,8 @@ Out: Scottie Barnes (TOR), Kawhi Leonard (TOR)
 | Ron Harper Jr. (BOS) | 64% | 6.4<br><sub>-,7,-,10,4</sub> | 2.7<br><sub>-,0,-,3,2</sub> |  | 0.8<br><sub>-,1,-,0,0</sub> |  | 0.5<br><sub>-,1,-,2,0</sub> |  | 0.3<br><sub>-,0,-,1,0</sub> |  | 0.2 | 0.1 | 0.3 | 4.1 |
 | Chris Cenac Jr. (BOS) | 52% | 5.9<br><sub>-,2,-,-,-</sub> | 2.7<br><sub>-,2,-,-,-</sub> |  | 1.4<br><sub>-,0,-,-,-</sub> |  | 0.4<br><sub>-,0,-,-,-</sub> |  | 0.2<br><sub>-,0,-,-,-</sub> |  | 0.1 | 0.1 | 0.7 | 4.6 |
 | Amari Williams (BOS) | 30% | 5.0<br><sub>-,-,-,-,-</sub> | 1.5<br><sub>-,-,-,-,-</sub> |  | 1.6<br><sub>-,-,-,-,-</sub> |  | 0.3<br><sub>-,-,-,-,-</sub> |  | 0.0<br><sub>-,-,-,-,-</sub> |  | 0.1 | 0.3 | 0.5 | 3.4 |
-| RJ Barrett (TOR) | 98% | 36.7<br><sub>32,37,33,37,36</sub> | 23.9<br><sub>22,26,22,27,19</sub> |  | 6.2<br><sub>10,6,5,7,3</sub> |  | 5.0<br><sub>5,3,3,5,2</sub> |  | 2.1<br><sub>4,2,3,0,1</sub> |  | 0.7 | 0.4 | 3.0 | 35.1 |
-| Ja'Kobe Walter (TOR) | 98% | 33.7<br><sub>33,35,27,29,34</sub> | 13.5<br><sub>11,10,8,7,12</sub> |  | 4.2<br><sub>4,6,1,6,6</sub> |  | 2.5<br><sub>2,5,2,2,0</sub> |  | 2.4<br><sub>3,0,1,1,2</sub> |  | 1.2 | 0.3 | 1.2 | 20.1 |
+| RJ Barrett (TOR) | 98% | 36.7<br><sub>32,37,33,37,36</sub> | 23.9<br><sub>22,26,22,27,19</sub> |  | 6.2<br><sub>10,6,5,7,3</sub> |  | 5.0<br><sub>5,3,3,5,2</sub> |  | 2.1<br><sub>4,2,3,0,1</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 0.7 | 0.4 | 3.0 | 35.1 |
+| Ja'Kobe Walter (TOR) | 98% | 33.7<br><sub>33,35,27,29,34</sub> | 13.5<br><sub>11,10,8,7,12</sub> |  | 4.2<br><sub>4,6,1,6,6</sub> |  | 2.5<br><sub>2,5,2,2,0</sub> |  | 2.4<br><sub>3,0,1,1,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.2 | 0.3 | 1.2 | 20.1 |
 | Jamal Shead (TOR) | 98% | 33.3<br><sub>25,20,20,34,36</sub> | 11.6<br><sub>9,6,3,10,20</sub> |  | 2.5<br><sub>2,1,3,3,2</sub> |  | 8.6<br><sub>6,6,6,16,11</sub> |  | 1.7<br><sub>2,0,1,1,4</sub> |  | 1.2 | 0.2 | 2.4 | 22.7 |
 | Collin Murray-Boyles (TOR) | 100% | 30.0<br><sub>20,28,23,34,-</sub> | 13.7<br><sub>4,18,13,19,-</sub> |  | 6.6<br><sub>3,7,3,7,-</sub> |  | 2.7<br><sub>1,0,2,2,-</sub> |  | 0.5<br><sub>0,1,1,0,-</sub> |  | 1.1 | 0.8 | 2.0 | 23.0 |
 | Jamison Battle (TOR) | 98% | 28.6<br><sub>17,21,19,21,29</sub> | 12.6<br><sub>20,12,9,6,18</sub> |  | 3.5<br><sub>5,0,1,2,1</sub> |  | 1.3<br><sub>0,0,0,0,2</sub> |  | 2.5<br><sub>4,4,2,1,5</sub> |  | 0.4 | 0.2 | 0.9 | 17.5 |
@@ -427,8 +427,8 @@ Out: Scotty Pippen Jr. (MEM), Quinten Post (MEM), Julian Strawther (DEN)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 121.4–116.5 | DEN 64% | 1.57 / 2.77 | MEM +5.5 | 237.5 | MEM +3.5 covers 45%; o227.5 71% |
-| Expected (weighted by chance each plays) | 121.0–117.8 | DEN 60% | 1.68 / 2.48 | MEM +3.5 | 238.5 | MEM +3.5 covers 50%; o227.5 72% |
+| Confirmed players only | 121.4–116.5 | DEN 64% | 1.57 / 2.77 | MEM +5.5 | 237.5 | MEM +3.5 covers 45%; o228.5 69% |
+| Expected (weighted by chance each plays) | 121.0–117.8 | DEN 60% | 1.68 / 2.48 | MEM +3.5 | 238.5 | MEM +3.5 covers 50%; o228.5 71% |
 
 **Questionable players: chance to play, and their projection if they do**
 

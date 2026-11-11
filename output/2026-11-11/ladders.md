@@ -1,6 +1,6 @@
 # Line ladders · Wed 11 Nov 2026 (US date)
 
-Updated **Wed 11 Nov, 05:16 PM** Sydney time. Back to [TODAY.md](../../TODAY.md).
+Updated **Wed 11 Nov, 05:46 PM** Sydney time. Back to [TODAY.md](../../TODAY.md).
 
 For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: *book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for a player are left out. Use the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake.
 
@@ -378,6 +378,32 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | RA | 12.5 | 41% | 2.45 | 59% | 1.69 | est |
 | RA | 13.5 | 33% | 3.01 | 67% | 1.50 | est |
 | RA | 14.5 | 26% | 3.83 | 74% | 1.35 | est |
+
+</details>
+
+## BOS @ TOR
+
+<details><summary>RJ Barrett (TOR)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| 3PM | 0.5 | 88% | 1.14 | 12% | 8.30 | est |
+| 3PM | 1.5 | 64% | 1.57 | 36% | 2.76 | est |
+| 3PM | 2.5 ★ | 38% | 2.61 | 62% | 1.62 | book |
+| 3PM | 3.5 | 19% | 5.40 | 81% | 1.23 | est |
+| 3PM | 4.5 | 8% | 13.16 | 92% | 1.08 | est |
+
+</details>
+
+<details><summary>Ja'Kobe Walter (TOR)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| 3PM | 0.5 | 94% | 1.06 | 6% | 17.42 | est |
+| 3PM | 1.5 | 78% | 1.28 | 22% | 4.54 | est |
+| 3PM | 2.5 ★ | 51% | 1.94 | 49% | 2.06 | book |
+| 3PM | 3.5 | 26% | 3.81 | 74% | 1.36 | est |
+| 3PM | 4.5 | 10% | 9.88 | 90% | 1.11 | est |
 
 </details>
 

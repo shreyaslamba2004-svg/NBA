@@ -2856,11 +2856,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909968,BOS @ TOR,TOR,1629628,RJ Barrett,ast,5.5,False,0.3379,,model only,0.3379
 401909968,BOS @ TOR,TOR,1629628,RJ Barrett,ast,6.5,False,0.2126,,model only,0.2126
 401909968,BOS @ TOR,TOR,1629628,RJ Barrett,ast,7.5,False,0.1262,,model only,0.1262
-401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,0.5,False,0.8624,,model only,0.8624
-401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,1.5,False,0.6013,,model only,0.6013
-401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,2.5,False,0.3479,,model only,0.3479
-401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,3.5,False,0.1629,,model only,0.1629
-401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,4.5,False,0.0658,,model only,0.0658
+401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,0.5,False,0.8624,0.8821,est,0.8795
+401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,1.5,False,0.6013,0.6429,est,0.6374
+401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,2.5,True,0.3479,0.3891,book,0.3837
+401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,3.5,False,0.1629,0.1885,est,0.1851
+401909968,BOS @ TOR,TOR,1629628,RJ Barrett,fg3m,4.5,False,0.0658,0.0776,est,0.076
 401909968,BOS @ TOR,TOR,1629628,RJ Barrett,stl,0.5,False,0.4811,,model only,0.4811
 401909968,BOS @ TOR,TOR,1629628,RJ Barrett,stl,1.5,False,0.147,,model only,0.147
 401909968,BOS @ TOR,TOR,1629628,RJ Barrett,blk,0.5,False,0.3275,,model only,0.3275
@@ -3438,11 +3438,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,ast,3.5,False,0.2139,,model only,0.2139
 401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,ast,4.5,False,0.1005,,model only,0.1005
 401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,ast,5.5,False,0.0419,,model only,0.0419
-401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.9032,,model only,0.9032
-401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.665,,model only,0.665
-401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,False,0.3689,,model only,0.3689
-401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.1629,,model only,0.1629
-401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.0576,,model only,0.0576
+401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.9032,0.9486,est,0.9426
+401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.665,0.797,est,0.7796
+401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,True,0.3689,0.5363,book,0.5142
+401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.1629,0.278,est,0.2628
+401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.0576,0.1078,est,0.1012
 401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,stl,0.5,False,0.6839,,model only,0.6839
 401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,stl,1.5,False,0.3268,,model only,0.3268
 401909968,BOS @ TOR,TOR,1642266,Ja'Kobe Walter,stl,2.5,False,0.1271,,model only,0.1271
