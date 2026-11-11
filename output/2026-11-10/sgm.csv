@@ -1,26 +1,24 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ NYK,Jalen Brunson 26+ pts + NYK win,2,0.41,0.4617,2.17,2.27,2.21,0.02,1.041,2.10-2.50
-MIL @ NYK,Andre Drummond 5+ pts + NYK win,2,0.429,0.4495,2.22,2.34,2.26,0.0178,1.024,2.10-2.50
+MIL @ NYK,Andre Drummond 5+ pts + NYK win,2,0.429,0.4512,2.22,2.33,2.26,0.0215,1.024,2.10-2.50
+MIL @ NYK,Jalen Brunson 26+ pts + NYK win,2,0.41,0.4612,2.17,2.28,2.21,0.0188,1.041,2.10-2.50
 MIL @ NYK,Landry Shamet 10+ pts + NYK win,2,0.4964,0.4709,2.12,2.23,2.16,0.0154,1.025,2.10-2.50
-MIL @ NYK,AJ Green 3pm under 2.5 + NYK win,2,0.675,0.5676,1.76,1.85,1.71,-0.0286,1.018,1.65-1.85
-MIL @ NYK,Landry Shamet 10+ pts + Karl-Anthony Towns 8+ reb,2,0.5612,0.4586,2.18,2.29,2.1,-0.0389,1.001,1.85-2.10
-MIL @ NYK,Jalen Brunson 26+ pts + Kyle Kuzma 10+ pra,2,0.4744,0.4582,2.18,2.29,2.08,-0.0484,1.001,1.85-2.10
-MIL @ NYK,Kyle Kuzma 12+ pts + Karl-Anthony Towns 8+ reb,2,0.4997,0.4473,2.24,2.35,2.1,-0.0624,1.002,1.85-2.10
-MIL @ NYK,AJ Green 3pm under 2.5 + Karl-Anthony Towns 8+ reb,2,0.7671,0.5557,1.8,1.89,1.66,-0.0756,1.0,1.65-1.85
-MIL @ NYK,AJ Green 3pm under 2.5 + Landry Shamet 1+ 3pm,2,0.7653,0.5532,1.81,1.9,1.67,-0.0759,0.999,1.65-1.85
-MIL @ NYK,AJ Green 3pm under 2.5 + Kyle Kuzma 10+ pra,2,0.7958,0.5738,1.74,1.83,1.61,-0.0768,0.998,1.50-1.65
-MIL @ NYK,Myles Turner 1+ blk + Kyle Kuzma 15+ pra,2,0.676,0.5786,1.73,1.81,1.55,-0.1039,1.001,1.50-1.65
+MIL @ NYK,AJ Green pts under 8.5 + NYK win,2,0.5029,0.4906,2.04,2.14,2.04,0.0011,1.034,1.85-2.10
+MIL @ NYK,AJ Green 3pm under 2.5 + NYK win,2,0.675,0.562,1.78,1.87,1.73,-0.0266,1.018,1.65-1.85
+MIL @ NYK,Landry Shamet 10+ pts + OG Anunoby 15+ pra,2,0.5743,0.4707,2.12,2.23,2.05,-0.035,1.006,1.85-2.10
+MIL @ NYK,Landry Shamet 10+ pts + Karl-Anthony Towns 8+ reb,2,0.5612,0.4593,2.18,2.29,2.09,-0.0391,1.001,1.85-2.10
+MIL @ NYK,AJ Green 3pm under 2.5 + Karl-Anthony Towns 8+ reb,2,0.7671,0.5512,1.81,1.9,1.68,-0.0739,1.0,1.65-1.85
+MIL @ NYK,AJ Green 3pm under 2.5 + Landry Shamet 1+ 3pm,2,0.7653,0.5477,1.83,1.92,1.69,-0.0739,0.999,1.65-1.85
+MIL @ NYK,AJ Green 3pm under 2.5 + OG Anunoby 15+ pra,2,0.7808,0.5618,1.78,1.87,1.65,-0.0749,0.999,1.50-1.65
 MIL @ NYK,NYK win + Myles Turner 1+ blk + Jalen Brunson 4+ ast,3,0.5984,0.5733,1.74,1.83,1.53,-0.1238,1.009,1.50-1.65
+MIL @ NYK,NYK win + Myles Turner 1+ blk + Brayden Burries 4+ reb,3,0.5588,0.5367,1.86,1.96,1.62,-0.1293,1.003,1.50-1.65
 BOS @ PHI,Tyrese Maxey pts under 23.5 + Sam Hauser 5+ pra,2,0.5722,0.4456,2.24,2.36,2.2,-0.0213,0.999,2.10-2.50
 BOS @ PHI,PHI win + LeBron James 10+ pts,2,0.2984,0.3924,2.55,2.68,2.48,-0.0275,1.036,2.10-2.50
-BOS @ PHI,Tyrese Maxey pts under 23.5 + LeBron James 15+ pr,2,0.5348,0.4335,2.31,2.42,2.24,-0.0309,0.996,2.10-2.50
+BOS @ PHI,Tyrese Maxey pts under 23.5 + LeBron James 15+ pr,2,0.5348,0.4342,2.3,2.42,2.23,-0.0311,0.996,2.10-2.50
 BOS @ PHI,Tyrese Maxey pts under 23.5 + Jayson Tatum 4+ reb,2,0.5744,0.4706,2.13,2.23,2.06,-0.0313,0.997,1.85-2.10
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Payton Pritchard 10+ pra,2,0.5724,0.4728,2.12,2.22,2.05,-0.033,0.997,1.85-2.10
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Joel Embiid 4+ reb,2,0.5724,0.4782,2.09,2.2,2.02,-0.0341,0.998,1.85-2.10
-BOS @ PHI,Anfernee Simons 3pm under 1.5 + Payton Pritchard 10+ pra,2,0.6593,0.5041,1.98,2.08,1.81,-0.0864,0.999,1.65-1.85
-BOS @ PHI,Anfernee Simons 3pm under 1.5 + Joel Embiid 10+ pts,2,0.6512,0.4984,2.01,2.11,1.83,-0.0864,0.999,1.65-1.85
-BOS @ PHI,Anfernee Simons 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.6594,0.5002,2.0,2.1,1.82,-0.0878,0.997,1.65-1.85
+BOS @ PHI,Tyrese Maxey pts under 23.5 + Payton Pritchard 10+ pra,2,0.5724,0.4736,2.11,2.22,2.04,-0.0333,0.997,1.85-2.10
+BOS @ PHI,Tyrese Maxey pts under 23.5 + Joel Embiid 10+ pts,2,0.5604,0.4619,2.17,2.27,2.08,-0.0412,0.988,1.85-2.10
 BOS @ PHI,Sam Hauser 5+ pra + LeBron James 10+ pts + Anfernee Simons 5+ pra,3,0.6955,0.5551,1.8,1.89,1.53,-0.1494,1.005,1.50-1.65
+BOS @ PHI,Sam Hauser 5+ pra + LeBron James 10+ pts + Tyrese Maxey 4+ ast,3,0.6423,0.5149,1.94,2.04,1.65,-0.1498,1.005,1.65-1.85
 LAC @ PHX,Rui Hachimura pr under 21.5 + Collin Gillespie 5+ pa,2,0.653,0.4655,2.15,2.26,1.99,-0.0731,0.999,1.85-2.10
 LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6347,0.4441,2.25,2.36,2.08,-0.0746,0.995,1.85-2.10
 LAC @ PHX,Rui Hachimura pr under 21.5 + Darius Garland 1+ 3pm,2,0.6374,0.4547,2.2,2.31,2.03,-0.0747,0.997,1.85-2.10
@@ -30,18 +28,18 @@ LAC @ PHX,Rui Hachimura pr under 21.5 + Dillon Brooks 1+ 3pm,2,0.5965,0.4261,2.3
 LAC @ PHX,Kris Dunn ra under 8.5 + Collin Gillespie 5+ pa,2,0.6752,0.5132,1.95,2.05,1.79,-0.0837,0.999,1.65-1.85
 LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pr,2,0.675,0.513,1.95,2.05,1.79,-0.0841,0.998,1.65-1.85
 LAC @ PHX,Kris Dunn ra under 8.5 + Darius Garland 1+ 3pm,2,0.66,0.502,1.99,2.09,1.82,-0.0842,0.998,1.65-1.85
-MIA @ UTA,MIA win + Bam Adebayo 30+ pra,2,0.5511,0.4431,2.26,2.37,2.37,0.0524,1.017,2.10-2.50
-MIA @ UTA,MIA win + Andrew Wiggins 5+ ra,2,0.5483,0.442,2.26,2.38,2.34,0.0353,0.999,2.10-2.50
-MIA @ UTA,MIA win + Andrew Wiggins 10+ pra,2,0.714,0.6075,1.65,1.73,1.69,0.0277,1.003,1.65-1.85
-MIA @ UTA,MIA win + Bam Adebayo 20+ pr,2,0.7063,0.6358,1.57,1.65,1.6,0.0184,1.004,1.50-1.65
-MIA @ UTA,MIA win + Brice Sensabaugh 1+ 3pm,2,0.6811,0.6206,1.61,1.69,1.62,0.0058,0.994,1.50-1.65
-MIA @ UTA,MIA win + Ace Bailey 10+ pts,2,0.7175,0.6483,1.54,1.62,1.55,0.0054,0.992,1.50-1.65
-MIA @ UTA,MIA win + Ace Bailey 20+ pra,2,0.652,0.5717,1.75,1.84,1.75,0.0027,0.984,1.65-1.85
-MIA @ UTA,MIA win + Brice Sensabaugh 10+ pa,2,0.6354,0.5721,1.75,1.84,1.75,-0.0012,0.985,1.65-1.85
-MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Bam Adebayo 25+ pra,3,0.6215,0.47,2.13,2.23,2.11,-0.0086,1.016,2.10-2.50
-MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Bam Adebayo 20+ pr,3,0.6505,0.5068,1.97,2.07,1.93,-0.02,1.009,1.85-2.10
-MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Ace Bailey 10+ pts,3,0.6602,0.5164,1.94,2.03,1.87,-0.0334,0.996,1.85-2.10
-MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Brice Sensabaugh 1+ 3pm,3,0.6259,0.4937,2.03,2.13,1.96,-0.0342,0.997,1.85-2.10
+MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm,2,0.6177,0.5106,1.96,2.06,2.03,0.038,1.006,1.85-2.10
+MIA @ UTA,MIA win + Ace Bailey 1+ stl,2,0.4951,0.4218,2.37,2.49,2.42,0.0228,0.997,2.10-2.50
+MIA @ UTA,MIA win + Davion Mitchell 15+ pra,2,0.7381,0.671,1.49,1.56,1.52,0.0176,1.005,1.50-1.65
+MIA @ UTA,MIA win + Bam Adebayo 20+ pr,2,0.7063,0.6564,1.52,1.6,1.54,0.0129,1.004,1.50-1.65
+MIA @ UTA,MIA win + Brice Sensabaugh 1+ 3pm,2,0.6811,0.6218,1.61,1.69,1.62,0.0055,0.994,1.50-1.65
+MIA @ UTA,MIA win + Ace Bailey 15+ pa,2,0.6448,0.5681,1.76,1.85,1.76,-0.0001,0.982,1.65-1.85
+MIA @ UTA,MIA win + Ace Bailey 20+ pra,2,0.652,0.5821,1.72,1.8,1.72,-0.0004,0.984,1.65-1.85
+MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,3,0.5879,0.4495,2.22,2.34,2.2,-0.0113,1.013,2.10-2.50
+MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm + Davion Mitchell 4+ ast,3,0.5886,0.4594,2.18,2.29,2.14,-0.0148,1.012,2.10-2.50
+MIA @ UTA,MIA win + Davion Mitchell 15+ pra + Bam Adebayo 20+ pr,3,0.6719,0.5775,1.73,1.82,1.67,-0.0357,1.01,1.65-1.85
+MIA @ UTA,MIA win + Ace Bailey 15+ pa + Davion Mitchell 15+ pra,3,0.6137,0.5002,2.0,2.1,1.9,-0.0475,0.989,1.85-2.10
+MIA @ UTA,MIA win + Ace Bailey 20+ pra + Davion Mitchell 15+ pra,3,0.6202,0.5122,1.95,2.05,1.86,-0.0484,0.99,1.85-2.10
 ORL @ SAC,ORL win + Wendell Carter Jr. 10+ pa,2,0.4574,0.5418,1.85,1.94,1.76,-0.0471,1.029,1.65-1.85
 ORL @ SAC,game over 222.5 + Wendell Carter Jr. 10+ pa,2,0.4799,0.4114,2.43,2.55,2.31,-0.0486,1.034,2.10-2.50
 ORL @ SAC,game over 222.5 + Wendell Carter Jr. 15+ pra,2,0.5084,0.4442,2.25,2.36,2.11,-0.0638,1.021,2.10-2.50
