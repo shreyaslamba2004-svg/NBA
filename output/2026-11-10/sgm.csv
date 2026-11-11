@@ -1,13 +1,7 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ POR,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5625,0.4053,2.47,2.59,2.46,-0.002,1.012,2.10-2.50
-OKC @ POR,OKC win + Kenrich Williams 10+ pra,2,0.5157,0.4133,2.42,2.54,2.38,-0.0181,1.014,2.10-2.50
+OKC @ POR,OKC win + Alex Caruso 5+ pa,2,0.5598,0.4417,2.26,2.38,2.23,-0.0165,1.013,2.10-2.50
+OKC @ POR,OKC win + Kenrich Williams 10+ pra,2,0.5157,0.414,2.42,2.54,2.37,-0.0185,1.014,2.10-2.50
 OKC @ POR,OKC win + Aday Mara 5+ pa,2,0.5855,0.4654,2.15,2.26,2.11,-0.0192,1.011,2.10-2.50
-OKC @ POR,OKC win + Isaiah Hartenstein 10+ pr,2,0.6002,0.4864,2.06,2.16,2.0,-0.0285,1.005,1.85-2.10
-OKC @ POR,Damian Lillard pts under 18.5 + Isaiah Hartenstein 10+ pr,2,0.6121,0.4481,2.23,2.34,2.05,-0.0797,0.998,1.85-2.10
-OKC @ POR,Damian Lillard pr under 22.5 + Aday Mara 5+ pa,2,0.5994,0.4438,2.25,2.37,2.07,-0.0806,1.0,1.85-2.10
-OKC @ POR,Jrue Holiday 3pm under 2.5 + Aday Mara 5+ pa,2,0.6572,0.4963,2.02,2.12,1.84,-0.0849,0.999,1.65-1.85
-OKC @ POR,Jrue Holiday 3pm under 2.5 + Isaiah Hartenstein 10+ pr,2,0.6788,0.5227,1.91,2.01,1.75,-0.0867,1.0,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra,2,0.7115,0.5752,1.74,1.83,1.58,-0.0927,1.003,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7087,0.5781,1.73,1.82,1.56,-0.0967,1.0,1.50-1.65
-OKC @ POR,Kenrich Williams 10+ pra + Aday Mara 1+ blk,2,0.6493,0.5891,1.7,1.78,1.51,-0.1118,1.001,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 10+ pr + Alex Caruso 5+ pr,3,0.6939,0.5198,1.92,2.02,1.66,-0.1386,1.007,1.65-1.85
+OKC @ POR,OKC win + Isaiah Hartenstein 10+ pr,2,0.6002,0.4859,2.06,2.16,2.0,-0.0283,1.005,1.85-2.10
+OKC @ POR,Donovan Clingan 11+ pts + Isaiah Hartenstein 10+ pr,2,0.4691,0.4698,2.13,2.23,2.03,-0.0474,1.001,1.85-2.10
+OKC @ POR,Damian Lillard pts under 18.5 + Isaiah Hartenstein 10+ pr,2,0.6121,0.4576,2.19,2.29,2.08,-0.0496,0.998,1.85-2.10
