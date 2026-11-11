@@ -2,33 +2,31 @@ matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,
 LAC @ PHX,Kobe Sanders 8+ pts + Jalen Green 1+ 3pm,2,0.4812,0.3944,2.54,2.66,2.45,-0.0331,1.004,2.10-2.50
 LAC @ PHX,Kobe Sanders 8+ pts + Dillon Brooks 10+ pr,2,0.5502,0.4612,2.17,2.28,2.09,-0.0375,1.003,1.85-2.10
 LAC @ PHX,Kobe Sanders 8+ pts + Darius Garland 1+ 3pm,2,0.5375,0.4523,2.21,2.32,2.12,-0.0388,1.002,2.10-2.50
-LAC @ PHX,Kobe Sanders 8+ pts + Dillon Brooks 1+ 3pm,2,0.5026,0.4196,2.38,2.5,2.29,-0.0409,0.999,2.10-2.50
+LAC @ PHX,Kobe Sanders 8+ pts + Collin Gillespie 5+ pa,2,0.5521,0.4573,2.19,2.3,2.1,-0.0392,0.999,2.10-2.50
 LAC @ PHX,Miles Bridges pts under 16.5 + Kobe Sanders 5+ pr,2,0.6072,0.455,2.2,2.31,2.09,-0.0504,0.998,1.85-2.10
-LAC @ PHX,Miles Bridges pts under 16.5 + Kobe Sanders 5+ pra,2,0.628,0.4816,2.08,2.18,1.97,-0.053,0.999,1.85-2.10
-LAC @ PHX,Max Strus 3pm under 2.5 + Kobe Sanders 5+ pr,2,0.7747,0.5513,1.81,1.9,1.68,-0.0743,0.999,1.65-1.85
-LAC @ PHX,Max Strus 3pm under 2.5 + Kobe Sanders 5+ pa,2,0.7606,0.5395,1.85,1.95,1.72,-0.0744,0.998,1.65-1.85
-LAC @ PHX,Max Strus 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7934,0.5795,1.73,1.81,1.6,-0.0754,1.002,1.50-1.65
-LAC @ PHX,Max Strus 3pm under 2.5 + Dillon Brooks 1+ 3pm,2,0.7257,0.528,1.89,1.99,1.75,-0.0773,0.999,1.65-1.85
-LAC @ PHX,Max Strus 3pm under 2.5 + Kobe Sanders 5+ pra,2,0.8005,0.583,1.72,1.8,1.58,-0.0777,0.999,1.50-1.65
-LAC @ PHX,Max Strus 3pm under 2.5 + Darius Garland 1+ 3pm,2,0.7731,0.5669,1.76,1.85,1.62,-0.079,0.999,1.50-1.65
+LAC @ PHX,Miles Bridges pts under 16.5 + Kobe Sanders 5+ pra,2,0.628,0.4811,2.08,2.18,1.97,-0.0528,0.999,1.85-2.10
+LAC @ PHX,Kris Dunn ra under 8.5 + Collin Gillespie 5+ pa,2,0.6724,0.5125,1.95,2.05,1.79,-0.0825,1.001,1.65-1.85
+LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pr,2,0.6674,0.5148,1.94,2.04,1.78,-0.0845,1.001,1.65-1.85
+LAC @ PHX,Kris Dunn ra under 8.5 + Darius Garland 1+ 3pm,2,0.6524,0.5053,1.98,2.08,1.81,-0.0851,1.0,1.65-1.85
+LAC @ PHX,Jalen Green 1+ 3pm + Devin Booker 4+ ast,2,0.6543,0.5805,1.72,1.81,1.54,-0.1079,1.002,1.50-1.65
 MIA @ UTA,MIA win + Andrew Wiggins 9+ pts,2,0.506,0.3993,2.5,2.63,2.43,-0.0289,1.025,2.10-2.50
 MIA @ UTA,Giannis Antetokounmpo 29+ pts + Bam Adebayo 25+ pra,2,0.4249,0.392,2.55,2.68,2.46,-0.0374,1.017,2.10-2.50
-MIA @ UTA,Giannis Antetokounmpo 29+ pts + Andrew Wiggins 10+ pra,2,0.4504,0.3977,2.51,2.64,2.41,-0.0433,1.004,2.10-2.50
-MIA @ UTA,Giannis Antetokounmpo 29+ pts + Brice Sensabaugh 5+ pa,2,0.5037,0.4652,2.15,2.26,2.04,-0.0524,1.002,1.85-2.10
+MIA @ UTA,Giannis Antetokounmpo 29+ pts + Bam Adebayo 20+ pr,2,0.4548,0.4246,2.36,2.47,2.25,-0.0428,1.013,2.10-2.50
+MIA @ UTA,Giannis Antetokounmpo 29+ pts + Brice Sensabaugh 5+ pa,2,0.5037,0.4658,2.15,2.25,2.03,-0.0526,1.002,1.85-2.10
 MIA @ UTA,Giannis Antetokounmpo 29+ pts + Jaxson Hayes 10+ pra,2,0.4949,0.4588,2.18,2.29,2.06,-0.0532,1.001,1.85-2.10
-MIA @ UTA,Giannis Antetokounmpo 29+ pts + Jaxson Hayes 5+ pa,2,0.4994,0.4642,2.15,2.26,2.04,-0.0544,1.0,1.85-2.10
+MIA @ UTA,Giannis Antetokounmpo 29+ pts + Jaxson Hayes 5+ pa,2,0.4994,0.4653,2.15,2.26,2.03,-0.0547,1.0,1.85-2.10
 MIA @ UTA,MIA win + Andrew Wiggins 10+ pra,2,0.7081,0.5982,1.67,1.76,1.57,-0.0616,1.009,1.50-1.65
 MIA @ UTA,MIA win + Bam Adebayo 25+ pra,2,0.6632,0.5854,1.71,1.79,1.6,-0.0625,1.016,1.50-1.65
 MIA @ UTA,Andrew Wiggins 10+ pra + Bam Adebayo 25+ pra,2,0.7087,0.5882,1.7,1.79,1.54,-0.097,1.003,1.50-1.65
+MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Bam Adebayo 20+ pr,3,0.6251,0.4975,2.01,2.11,1.8,-0.103,1.022,1.65-1.85
 MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Brice Sensabaugh 10+ pra,3,0.6457,0.4965,2.01,2.11,1.79,-0.1115,1.007,1.65-1.85
 MIA @ UTA,MIA win + Brice Sensabaugh 10+ pra + Bam Adebayo 25+ pra,3,0.6047,0.4858,2.06,2.16,1.83,-0.1124,1.013,1.65-1.85
-MIA @ UTA,MIA win + Andrew Wiggins 10+ pra + Jaxson Hayes 10+ pr,3,0.6556,0.5116,1.95,2.05,1.73,-0.1147,1.006,1.65-1.85
 ORL @ SAC,ORL win + Wendell Carter Jr. 10+ pts,2,0.4208,0.525,1.9,2.0,1.84,-0.0345,1.047,1.65-1.85
-ORL @ SAC,game over 222.5 + Wendell Carter Jr. 10+ pts,2,0.4463,0.398,2.51,2.64,2.42,-0.0375,1.052,2.10-2.50
-ORL @ SAC,game over 222.5 + Jamal Cain 10+ pr,2,0.4889,0.3983,2.51,2.64,2.4,-0.0441,1.028,2.10-2.50
-ORL @ SAC,game over 222.5 + Desmond Bane 20+ pra,2,0.4773,0.4274,2.34,2.46,2.24,-0.0445,1.045,2.10-2.50
 ORL @ SAC,ORL win + Jamal Cain 10+ pr,2,0.4579,0.5218,1.92,2.01,1.83,-0.0475,1.018,1.65-1.85
 ORL @ SAC,ORL win + Desmond Bane 20+ pra,2,0.4466,0.5594,1.79,1.88,1.7,-0.049,1.032,1.65-1.85
+ORL @ SAC,Precious Achiuwa 15+ pra + Jamal Cain 10+ pr,2,0.6578,0.4241,2.36,2.48,2.23,-0.0548,1.0,2.10-2.50
+ORL @ SAC,Precious Achiuwa 15+ pra + Keegan Murray 10+ pra,2,0.624,0.4239,2.36,2.48,2.23,-0.0556,1.008,2.10-2.50
+ORL @ SAC,Precious Achiuwa 14+ pr + Jamal Cain 10+ pr,2,0.6462,0.4139,2.42,2.54,2.28,-0.0564,1.0,2.10-2.50
 ORL @ SAC,ORL win + Desmond Bane 15+ pr,2,0.468,0.5847,1.71,1.8,1.6,-0.0619,1.018,1.50-1.65
 ORL @ SAC,Precious Achiuwa 15+ pra + Desmond Bane 20+ pra,2,0.6345,0.4497,2.22,2.33,2.08,-0.0665,1.003,1.85-2.10
 ORL @ SAC,Precious Achiuwa 15+ pra + Wendell Carter Jr. 4+ reb,2,0.7095,0.5017,1.99,2.09,1.86,-0.0676,1.002,1.85-2.10
