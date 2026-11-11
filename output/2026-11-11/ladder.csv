@@ -260,168 +260,164 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909966,WAS @ IND,IND,1626204,Larry Nance Jr.,ra,5.5,False,0.252,,model only,0.252
 401909966,WAS @ IND,IND,1626204,Larry Nance Jr.,ra,6.5,False,0.1647,,model only,0.1647
 401909966,WAS @ IND,IND,1626204,Larry Nance Jr.,ra,7.5,False,0.1006,,model only,0.1006
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,14.5,False,0.6641,,model only,0.6641
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,15.5,False,0.6088,,model only,0.6088
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,16.5,False,0.5556,,model only,0.5556
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,17.5,False,0.5015,,model only,0.5015
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,18.5,False,0.4496,,model only,0.4496
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,19.5,False,0.3994,,model only,0.3994
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,20.5,False,0.3512,,model only,0.3512
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,21.5,False,0.305,,model only,0.305
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,22.5,False,0.2664,,model only,0.2664
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,0.5,False,0.9528,,model only,0.9528
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,1.5,False,0.8245,,model only,0.8245
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,2.5,False,0.6214,,model only,0.6214
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,3.5,False,0.415,,model only,0.415
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,4.5,False,0.243,,model only,0.243
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,5.5,False,0.1288,,model only,0.1288
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,6.5,False,0.0614,,model only,0.0614
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,6.5,False,0.8009,,model only,0.8009
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,7.5,False,0.7054,,model only,0.7054
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,8.5,False,0.597,,model only,0.597
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,9.5,False,0.4885,,model only,0.4885
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,10.5,False,0.3837,,model only,0.3837
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,11.5,False,0.297,,model only,0.297
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,12.5,False,0.2176,,model only,0.2176
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,0.5,False,0.8506,,model only,0.8506
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,1.5,False,0.5723,,model only,0.5723
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,2.5,False,0.2999,,model only,0.2999
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,3.5,False,0.1304,,model only,0.1304
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,4.5,False,0.0468,,model only,0.0468
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,12.5,False,0.7712,0.7269,est,0.7328
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,13.5,False,0.7181,0.668,est,0.6746
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,14.5,False,0.6641,0.6096,est,0.6168
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,15.5,False,0.6088,0.5514,est,0.5589
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,16.5,True,0.5556,0.4968,book,0.5046
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,17.5,False,0.5015,0.4427,est,0.4505
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,18.5,False,0.4496,0.3921,est,0.3997
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,19.5,False,0.3994,0.3443,est,0.3516
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pts,20.5,False,0.3512,0.2995,est,0.3064
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,0.5,False,0.9528,0.9413,est,0.9428
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,1.5,False,0.8245,0.7886,est,0.7934
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,2.5,True,0.6214,0.5659,book,0.5732
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,3.5,False,0.415,0.3709,book,0.3767
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,4.5,False,0.243,0.2144,book,0.2182
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,reb,5.5,False,0.1288,0.1183,book,0.1197
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,3.5,False,0.9713,0.8821,book,0.8939
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,4.5,False,0.9359,0.8066,book,0.8237
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,5.5,False,0.8796,0.6962,book,0.7204
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,6.5,True,0.8009,0.5652,book,0.5963
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,7.5,False,0.7054,0.4327,book,0.4687
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,8.5,False,0.597,0.3074,book,0.3456
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ast,9.5,False,0.4885,0.2063,book,0.2436
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,0.5,False,0.8506,0.8319,book,0.8344
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,1.5,True,0.5723,0.5872,book,0.5852
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,2.5,False,0.2999,0.3461,book,0.34
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,fg3m,3.5,False,0.1304,0.1773,book,0.1711
 401909966,WAS @ IND,IND,1629614,Andrew Nembhard,stl,0.5,False,0.6823,,model only,0.6823
 401909966,WAS @ IND,IND,1629614,Andrew Nembhard,stl,1.5,False,0.3347,,model only,0.3347
 401909966,WAS @ IND,IND,1629614,Andrew Nembhard,stl,2.5,False,0.1312,,model only,0.1312
 401909966,WAS @ IND,IND,1629614,Andrew Nembhard,blk,0.5,False,0.1649,,model only,0.1649
 401909966,WAS @ IND,IND,1629614,Andrew Nembhard,blk,1.5,False,0.0138,,model only,0.0138
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,26.5,False,0.6735,,model only,0.6735
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,27.5,False,0.6314,,model only,0.6314
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,28.5,False,0.5923,,model only,0.5923
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,29.5,False,0.549,,model only,0.549
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,30.5,False,0.5039,,model only,0.5039
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,31.5,False,0.4619,,model only,0.4619
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,32.5,False,0.4188,,model only,0.4188
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,33.5,False,0.3798,,model only,0.3798
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,34.5,False,0.3399,,model only,0.3399
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,35.5,False,0.3061,,model only,0.3061
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,36.5,False,0.2736,,model only,0.2736
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,17.5,False,0.6708,,model only,0.6708
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,18.5,False,0.6196,,model only,0.6196
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,19.5,False,0.568,,model only,0.568
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,20.5,False,0.5186,,model only,0.5186
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,21.5,False,0.4684,,model only,0.4684
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,22.5,False,0.419,,model only,0.419
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,23.5,False,0.3759,,model only,0.3759
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,24.5,False,0.3288,,model only,0.3288
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,25.5,False,0.2849,,model only,0.2849
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,23.5,False,0.6731,,model only,0.6731
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,24.5,False,0.6284,,model only,0.6284
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,25.5,False,0.5833,,model only,0.5833
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,26.5,False,0.5363,,model only,0.5363
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,27.5,False,0.4892,,model only,0.4892
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,28.5,False,0.4424,,model only,0.4424
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,29.5,False,0.4004,,model only,0.4004
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,30.5,False,0.3619,,model only,0.3619
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,31.5,False,0.3247,,model only,0.3247
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,10.5,False,0.6984,,model only,0.6984
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,11.5,False,0.6099,,model only,0.6099
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,12.5,False,0.5182,,model only,0.5182
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,13.5,False,0.4286,,model only,0.4286
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,14.5,False,0.3437,,model only,0.3437
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,15.5,False,0.2674,,model only,0.2674
-401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,16.5,False,0.2058,,model only,0.2058
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,11.5,False,0.71,,model only,0.71
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,12.5,False,0.6498,,model only,0.6498
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,13.5,False,0.5904,,model only,0.5904
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,14.5,False,0.5305,,model only,0.5305
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,15.5,False,0.4724,,model only,0.4724
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,16.5,False,0.4168,,model only,0.4168
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,17.5,False,0.3649,,model only,0.3649
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,18.5,False,0.3176,,model only,0.3176
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,19.5,False,0.2713,,model only,0.2713
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,1.5,False,0.8803,,model only,0.8803
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,2.5,False,0.7285,,model only,0.7285
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,3.5,False,0.5429,,model only,0.5429
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,4.5,False,0.3666,,model only,0.3666
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,5.5,False,0.2272,,model only,0.2272
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,6.5,False,0.1318,,model only,0.1318
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,7.5,False,0.0704,,model only,0.0704
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,21.5,False,0.8594,0.7632,est,0.7759
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,22.5,False,0.8294,0.7194,est,0.734
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,23.5,False,0.7953,0.672,est,0.6883
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,24.5,False,0.7555,0.6197,est,0.6377
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,25.5,False,0.7175,0.5725,est,0.5916
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,26.5,True,0.6735,0.521,book,0.5411
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,27.5,False,0.6314,0.4746,est,0.4953
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,28.5,False,0.5923,0.4338,est,0.4547
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,29.5,False,0.549,0.3909,est,0.4118
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,30.5,False,0.5039,0.3488,est,0.3693
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pra,31.5,False,0.4619,0.3116,est,0.3314
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,15.5,False,0.7701,0.7259,est,0.7317
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,16.5,False,0.7206,0.6709,est,0.6775
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,17.5,False,0.6708,0.617,est,0.6241
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,18.5,False,0.6196,0.5628,est,0.5703
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,19.5,True,0.568,0.5097,book,0.5174
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,20.5,False,0.5186,0.4599,est,0.4677
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,21.5,False,0.4684,0.4105,est,0.4182
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,22.5,False,0.419,0.3631,est,0.3705
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pr,23.5,False,0.3759,0.3226,est,0.3296
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,19.5,False,0.8312,0.7148,est,0.7302
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,20.5,False,0.7966,0.6659,est,0.6831
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,21.5,False,0.7581,0.6146,est,0.6336
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,22.5,False,0.7173,0.5635,est,0.5838
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,23.5,True,0.6731,0.5117,book,0.533
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,24.5,False,0.6284,0.4625,est,0.4844
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,25.5,False,0.5833,0.416,est,0.4381
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,26.5,False,0.5363,0.3704,est,0.3923
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,pa,27.5,False,0.4892,0.3277,est,0.349
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,7.5,False,0.9043,0.7697,est,0.7874
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,8.5,False,0.8488,0.6651,est,0.6893
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,9.5,False,0.7828,0.5605,est,0.5898
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,10.5,True,0.6984,0.4503,book,0.483
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,11.5,False,0.6099,0.3562,est,0.3897
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,12.5,False,0.5182,0.2756,est,0.3076
+401909966,WAS @ IND,IND,1629614,Andrew Nembhard,ra,13.5,False,0.4286,0.2097,est,0.2386
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,9.5,False,0.8189,0.7465,est,0.756
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,10.5,False,0.768,0.6831,est,0.6943
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,11.5,False,0.71,0.6146,est,0.6272
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,12.5,False,0.6498,0.5472,est,0.5607
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,13.5,True,0.5904,0.4842,book,0.4982
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,14.5,False,0.5305,0.4239,est,0.438
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,15.5,False,0.4724,0.3684,est,0.3821
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,16.5,False,0.4168,0.3176,est,0.3307
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pts,17.5,False,0.3649,0.2723,est,0.2846
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,0.5,False,0.9697,0.9599,est,0.9612
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,1.5,False,0.8803,0.8464,est,0.8509
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,2.5,False,0.7285,0.6505,book,0.6608
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,3.5,True,0.5429,0.4707,book,0.4802
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,4.5,False,0.3666,0.3074,book,0.3152
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,5.5,False,0.2272,0.1858,book,0.1913
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,reb,6.5,False,0.1318,0.1062,book,0.1096
 401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,0.5,False,0.8877,,model only,0.8877
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,1.5,False,0.6652,,model only,0.6652
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,2.5,False,0.421,,model only,0.421
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,3.5,False,0.2304,,model only,0.2304
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,4.5,False,0.1078,,model only,0.1078
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,5.5,False,0.0483,,model only,0.0483
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,0.5,False,0.8823,,model only,0.8823
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,1.5,False,0.6332,,model only,0.6332
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,2.5,False,0.3627,,model only,0.3627
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,3.5,False,0.1703,,model only,0.1703
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,4.5,False,0.0619,,model only,0.0619
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,1.5,False,0.6652,0.6043,book,0.6123
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,2.5,False,0.421,0.354,book,0.3628
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,3.5,False,0.2304,0.178,book,0.1849
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,4.5,False,0.1078,0.0857,book,0.0886
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ast,5.5,False,0.0483,0.0425,book,0.0433
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,0.5,False,0.8823,0.8567,book,0.8601
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,1.5,False,0.6332,0.636,book,0.6356
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,2.5,True,0.3627,0.3943,book,0.3901
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,3.5,False,0.1703,0.2105,book,0.2052
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,fg3m,4.5,False,0.0619,0.1062,book,0.1004
 401909966,WAS @ IND,IND,1630174,Aaron Nesmith,stl,0.5,False,0.5856,,model only,0.5856
 401909966,WAS @ IND,IND,1630174,Aaron Nesmith,stl,1.5,False,0.2403,,model only,0.2403
 401909966,WAS @ IND,IND,1630174,Aaron Nesmith,stl,2.5,False,0.0737,,model only,0.0737
 401909966,WAS @ IND,IND,1630174,Aaron Nesmith,blk,0.5,False,0.3718,,model only,0.3718
 401909966,WAS @ IND,IND,1630174,Aaron Nesmith,blk,1.5,False,0.0824,,model only,0.0824
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,16.5,False,0.7466,,model only,0.7466
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,17.5,False,0.6978,,model only,0.6978
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,18.5,False,0.6496,,model only,0.6496
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,19.5,False,0.5991,,model only,0.5991
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,20.5,False,0.548,,model only,0.548
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,21.5,False,0.4972,,model only,0.4972
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,22.5,False,0.4454,,model only,0.4454
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,23.5,False,0.3973,,model only,0.3973
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,24.5,False,0.3539,,model only,0.3539
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,25.5,False,0.312,,model only,0.312
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,26.5,False,0.2731,,model only,0.2731
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,15.5,False,0.6912,,model only,0.6912
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,16.5,False,0.6381,,model only,0.6381
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,17.5,False,0.5862,,model only,0.5862
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,18.5,False,0.5316,,model only,0.5316
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,19.5,False,0.4745,,model only,0.4745
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,20.5,False,0.4213,,model only,0.4213
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,21.5,False,0.3731,,model only,0.3731
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,22.5,False,0.3307,,model only,0.3307
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,23.5,False,0.2863,,model only,0.2863
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,13.5,False,0.7172,,model only,0.7172
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,14.5,False,0.6626,,model only,0.6626
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,15.5,False,0.6071,,model only,0.6071
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,16.5,False,0.5501,,model only,0.5501
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,17.5,False,0.4968,,model only,0.4968
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,18.5,False,0.4434,,model only,0.4434
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,19.5,False,0.3929,,model only,0.3929
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,20.5,False,0.3428,,model only,0.3428
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,21.5,False,0.2979,,model only,0.2979
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,3.5,False,0.839,,model only,0.839
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,4.5,False,0.7196,,model only,0.7196
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,5.5,False,0.5839,,model only,0.5839
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,6.5,False,0.4462,,model only,0.4462
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,7.5,False,0.3218,,model only,0.3218
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,8.5,False,0.2208,,model only,0.2208
-401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,9.5,False,0.1403,,model only,0.1403
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,5.5,False,0.7908,,model only,0.7908
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,6.5,False,0.7162,,model only,0.7162
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,7.5,False,0.6325,,model only,0.6325
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,8.5,False,0.5496,,model only,0.5496
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,9.5,False,0.4654,,model only,0.4654
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,10.5,False,0.3904,,model only,0.3904
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,11.5,False,0.3212,,model only,0.3212
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,12.5,False,0.2592,,model only,0.2592
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,13.5,False,0.2099,,model only,0.2099
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,0.5,False,0.9497,,model only,0.9497
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,1.5,False,0.8229,,model only,0.8229
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,2.5,False,0.6406,,model only,0.6406
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,3.5,False,0.4535,,model only,0.4535
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,4.5,False,0.2953,,model only,0.2953
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,5.5,False,0.1747,,model only,0.1747
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,6.5,False,0.0933,,model only,0.0933
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,14.5,False,0.8327,0.7227,book,0.7372
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,15.5,False,0.7907,0.6952,est,0.7078
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,16.5,False,0.7466,0.6401,est,0.6542
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,17.5,False,0.6978,0.5823,est,0.5975
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,18.5,False,0.6496,0.5281,est,0.5441
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,19.5,True,0.5991,0.4742,book,0.4907
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,20.5,False,0.548,0.4226,est,0.4391
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,21.5,False,0.4972,0.3738,est,0.3901
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,22.5,False,0.4454,0.3265,est,0.3422
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,23.5,False,0.3973,0.2846,est,0.2995
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pra,24.5,False,0.3539,0.2479,book,0.2619
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,12.5,False,0.8329,0.754,est,0.7644
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,13.5,False,0.7902,0.6983,est,0.7104
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,14.5,False,0.7402,0.6366,est,0.6503
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,15.5,False,0.6912,0.5791,est,0.5939
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,16.5,True,0.6381,0.5201,book,0.5357
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,17.5,False,0.5862,0.4655,est,0.4814
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,18.5,False,0.5316,0.411,est,0.4269
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,19.5,False,0.4745,0.3569,est,0.3724
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pr,20.5,False,0.4213,0.3091,est,0.3239
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,11.5,False,0.8216,0.7456,est,0.7557
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,12.5,False,0.7691,0.6795,est,0.6913
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,13.5,False,0.7172,0.6175,est,0.6307
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,14.5,False,0.6626,0.5556,est,0.5697
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,15.5,True,0.6071,0.4958,book,0.5105
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,16.5,False,0.5501,0.4376,est,0.4525
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,17.5,False,0.4968,0.3859,est,0.4005
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,18.5,False,0.4434,0.3365,est,0.3506
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,pa,19.5,False,0.3929,0.2917,est,0.3051
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,2.5,False,0.9248,0.8938,est,0.8979
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,3.5,False,0.839,0.7811,est,0.7887
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,4.5,False,0.7196,0.6373,est,0.6482
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,5.5,True,0.5839,0.4899,book,0.5023
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,6.5,False,0.4462,0.3554,est,0.3674
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,7.5,False,0.3218,0.2452,est,0.2553
+401909966,WAS @ IND,IND,1630174,Aaron Nesmith,ra,8.5,False,0.2208,0.1624,est,0.1701
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,4.5,False,0.8581,0.8375,est,0.8402
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,5.5,False,0.7908,0.7147,book,0.7248
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,6.5,False,0.7162,0.6827,est,0.6871
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,7.5,False,0.6325,0.5792,book,0.5862
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,8.5,True,0.5496,0.5098,book,0.5151
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,9.5,False,0.4654,0.445,book,0.4477
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,10.5,False,0.3904,0.3531,est,0.358
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,11.5,False,0.3212,0.3234,book,0.3231
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pts,12.5,False,0.2592,0.2298,est,0.2336
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,0.5,False,0.9497,0.9242,est,0.9276
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,1.5,False,0.8229,0.7501,est,0.7598
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,2.5,True,0.6406,0.5352,book,0.5491
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,3.5,False,0.4535,0.354,book,0.3671
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,4.5,False,0.2953,0.2148,book,0.2254
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,reb,5.5,False,0.1747,0.128,book,0.1342
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ast,0.5,False,0.7431,,model only,0.7431
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ast,1.5,False,0.4178,,model only,0.4178
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ast,2.5,False,0.1867,,model only,0.1867
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ast,3.5,False,0.0708,,model only,0.0708
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ast,4.5,False,0.0244,,model only,0.0244
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,fg3m,0.5,False,0.593,,model only,0.593
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,fg3m,1.5,False,0.2251,,model only,0.2251
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,fg3m,2.5,False,0.0588,,model only,0.0588
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,fg3m,3.5,False,0.0104,,model only,0.0104
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,fg3m,0.5,True,0.593,0.6246,book,0.6204
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,fg3m,1.5,False,0.2251,0.3147,book,0.3029
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,fg3m,2.5,False,0.0588,0.1335,book,0.1236
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,stl,0.5,False,0.5787,,model only,0.5787
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,stl,1.5,False,0.2327,,model only,0.2327
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,stl,2.5,False,0.0746,,model only,0.0746
@@ -438,15 +434,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pra,17.5,False,0.305,,model only,0.305
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pra,18.5,False,0.2581,,model only,0.2581
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pra,19.5,False,0.2154,,model only,0.2154
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,9.5,False,0.714,,model only,0.714
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,10.5,False,0.6463,,model only,0.6463
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,11.5,False,0.5752,,model only,0.5752
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,12.5,False,0.5062,,model only,0.5062
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,13.5,False,0.4398,,model only,0.4398
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,14.5,False,0.3761,,model only,0.3761
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,15.5,False,0.3233,,model only,0.3233
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,16.5,False,0.2701,,model only,0.2701
-401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,17.5,False,0.2253,,model only,0.2253
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,7.5,False,0.8343,0.7958,est,0.8008
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,8.5,False,0.7779,0.7305,est,0.7368
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,9.5,False,0.714,0.6282,book,0.6395
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,10.5,False,0.6463,0.5858,est,0.5938
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,11.5,True,0.5752,0.5117,book,0.5201
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,12.5,False,0.5062,0.4424,est,0.4508
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,13.5,False,0.4398,0.3779,est,0.3861
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,14.5,False,0.3761,0.3436,book,0.3479
+401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pr,15.5,False,0.3233,0.2699,est,0.277
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pa,7.5,False,0.7316,,model only,0.7316
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pa,8.5,False,0.656,,model only,0.656
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,pa,9.5,False,0.5828,,model only,0.5828
@@ -463,75 +459,74 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ra,6.5,False,0.2623,,model only,0.2623
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ra,7.5,False,0.1699,,model only,0.1699
 401909966,WAS @ IND,IND,1626162,Kelly Oubre Jr.,ra,8.5,False,0.1023,,model only,0.1023
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,20.5,False,0.6535,,model only,0.6535
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,21.5,False,0.6126,,model only,0.6126
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,22.5,False,0.5689,,model only,0.5689
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,23.5,False,0.5278,,model only,0.5278
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,24.5,False,0.4891,,model only,0.4891
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,25.5,False,0.4498,,model only,0.4498
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,26.5,False,0.4124,,model only,0.4124
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,27.5,False,0.3779,,model only,0.3779
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,28.5,False,0.3422,,model only,0.3422
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,4.5,False,0.8061,,model only,0.8061
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,5.5,False,0.6809,,model only,0.6809
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,6.5,False,0.552,,model only,0.552
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,7.5,False,0.4186,,model only,0.4186
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,8.5,False,0.3065,,model only,0.3065
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,9.5,False,0.2158,,model only,0.2158
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,10.5,False,0.1409,,model only,0.1409
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,2.5,False,0.8532,,model only,0.8532
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,3.5,False,0.7154,,model only,0.7154
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,4.5,False,0.5565,,model only,0.5565
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,5.5,False,0.4018,,model only,0.4018
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,6.5,False,0.2712,,model only,0.2712
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,7.5,False,0.1678,,model only,0.1678
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,8.5,False,0.0993,,model only,0.0993
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,0.5,False,0.8244,,model only,0.8244
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,1.5,False,0.5284,,model only,0.5284
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,2.5,False,0.2695,,model only,0.2695
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,3.5,False,0.1144,,model only,0.1144
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,4.5,False,0.0404,,model only,0.0404
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,17.5,False,0.7725,0.6827,book,0.6946
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,18.5,False,0.7358,0.6312,est,0.645
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,19.5,False,0.6937,0.5872,book,0.6013
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,20.5,False,0.6535,0.5368,est,0.5522
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,21.5,True,0.6126,0.4927,book,0.5085
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,22.5,False,0.5689,0.4478,est,0.4637
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,23.5,False,0.5278,0.4071,est,0.423
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,24.5,False,0.4891,0.3461,book,0.365
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pts,25.5,False,0.4498,0.3343,est,0.3495
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,3.5,False,0.8962,0.8272,book,0.8363
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,4.5,False,0.8061,0.725,book,0.7357
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,5.5,False,0.6809,0.5996,book,0.6103
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,6.5,True,0.552,0.4604,book,0.4725
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,7.5,False,0.4186,0.3338,book,0.345
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,8.5,False,0.3065,0.2296,book,0.2398
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,reb,9.5,False,0.2158,0.1505,book,0.1591
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,0.5,False,0.9881,0.9708,est,0.9731
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,1.5,False,0.9459,0.8746,est,0.884
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,2.5,False,0.8532,0.688,book,0.7098
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,3.5,True,0.7154,0.5009,book,0.5292
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,4.5,False,0.5565,0.3212,book,0.3523
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,5.5,False,0.4018,0.1888,book,0.2169
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ast,6.5,False,0.2712,0.105,book,0.1269
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,0.5,False,0.8244,0.7643,book,0.7722
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,1.5,True,0.5284,0.465,book,0.4734
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,2.5,False,0.2695,0.2331,book,0.2379
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,fg3m,3.5,False,0.1144,0.1027,book,0.1042
 401909966,WAS @ IND,IND,1627783,Pascal Siakam,stl,0.5,False,0.7057,,model only,0.7057
 401909966,WAS @ IND,IND,1627783,Pascal Siakam,stl,1.5,False,0.3641,,model only,0.3641
 401909966,WAS @ IND,IND,1627783,Pascal Siakam,stl,2.5,False,0.1477,,model only,0.1477
 401909966,WAS @ IND,IND,1627783,Pascal Siakam,blk,0.5,False,0.3146,,model only,0.3146
 401909966,WAS @ IND,IND,1627783,Pascal Siakam,blk,1.5,False,0.0591,,model only,0.0591
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,32.5,False,0.6403,,model only,0.6403
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,33.5,False,0.6051,,model only,0.6051
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,34.5,False,0.57,,model only,0.57
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,35.5,False,0.5349,,model only,0.5349
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,36.5,False,0.5027,,model only,0.5027
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,37.5,False,0.4669,,model only,0.4669
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,38.5,False,0.4322,,model only,0.4322
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,39.5,False,0.4012,,model only,0.4012
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,40.5,False,0.3697,,model only,0.3697
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,41.5,False,0.3387,,model only,0.3387
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,42.5,False,0.3117,,model only,0.3117
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,27.5,False,0.6467,,model only,0.6467
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,28.5,False,0.6097,,model only,0.6097
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,29.5,False,0.5719,,model only,0.5719
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,30.5,False,0.5334,,model only,0.5334
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,31.5,False,0.4957,,model only,0.4957
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,32.5,False,0.4589,,model only,0.4589
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,33.5,False,0.4236,,model only,0.4236
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,34.5,False,0.3911,,model only,0.3911
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,35.5,False,0.3584,,model only,0.3584
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,25.5,False,0.6456,,model only,0.6456
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,26.5,False,0.607,,model only,0.607
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,27.5,False,0.5699,,model only,0.5699
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,28.5,False,0.5298,,model only,0.5298
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,29.5,False,0.493,,model only,0.493
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,30.5,False,0.4584,,model only,0.4584
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,31.5,False,0.4231,,model only,0.4231
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,32.5,False,0.3881,,model only,0.3881
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,33.5,False,0.3549,,model only,0.3549
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,9.5,False,0.733,,model only,0.733
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,10.5,False,0.6422,,model only,0.6422
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,11.5,False,0.5479,,model only,0.5479
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,12.5,False,0.4511,,model only,0.4511
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,13.5,False,0.3603,,model only,0.3603
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,14.5,False,0.2769,,model only,0.2769
-401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,15.5,False,0.2074,,model only,0.2074
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,26.5,False,0.8336,0.7086,est,0.7251
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,27.5,False,0.8058,0.6682,est,0.6864
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,28.5,False,0.7758,0.6268,est,0.6465
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,29.5,False,0.7439,0.5851,est,0.606
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,30.5,False,0.7115,0.5448,est,0.5668
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,31.5,True,0.6766,0.5039,book,0.5267
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,32.5,False,0.6403,0.4636,est,0.4869
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,33.5,False,0.6051,0.4266,est,0.4501
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,34.5,False,0.57,0.3915,est,0.4151
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,35.5,False,0.5349,0.3583,est,0.3816
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pra,36.5,False,0.5027,0.3292,est,0.3521
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,23.5,False,0.7885,0.6834,est,0.6972
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,24.5,False,0.7549,0.6407,est,0.6558
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,25.5,False,0.721,0.5994,est,0.6154
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,26.5,False,0.6847,0.557,est,0.5739
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,27.5,True,0.6467,0.5145,book,0.5319
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,28.5,False,0.6097,0.4749,est,0.4927
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,29.5,False,0.5719,0.4362,est,0.4541
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,30.5,False,0.5334,0.3982,est,0.4161
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pr,31.5,False,0.4957,0.3627,est,0.3803
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,21.5,False,0.7937,0.6617,est,0.6791
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,22.5,False,0.7603,0.6173,est,0.6362
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,23.5,False,0.7253,0.5732,est,0.5933
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,24.5,False,0.6866,0.5269,est,0.548
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,25.5,True,0.6456,0.4809,book,0.5026
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,26.5,False,0.607,0.4399,est,0.4619
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,27.5,False,0.5699,0.4026,est,0.4247
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,28.5,False,0.5298,0.3643,est,0.3862
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,pa,29.5,False,0.493,0.3309,est,0.3523
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,6.5,False,0.9281,0.8472,est,0.8579
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,7.5,False,0.8785,0.7565,est,0.7726
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,8.5,False,0.8131,0.6514,est,0.6727
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,9.5,True,0.733,0.5411,book,0.5664
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,10.5,False,0.6422,0.4354,est,0.4627
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,11.5,False,0.5479,0.3424,est,0.3696
+401909966,WAS @ IND,IND,1627783,Pascal Siakam,ra,12.5,False,0.4511,0.2609,est,0.286
 401909966,WAS @ IND,IND,1641771,Jalen Slawson,pts,0.5,False,0.911,,model only,0.911
 401909966,WAS @ IND,IND,1641771,Jalen Slawson,pts,1.5,False,0.7843,,model only,0.7843
 401909966,WAS @ IND,IND,1641771,Jalen Slawson,pts,2.5,False,0.6367,,model only,0.6367
@@ -657,72 +652,71 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909966,WAS @ IND,IND,905105854,Braden Smith,ra,5.5,False,0.2688,,model only,0.2688
 401909966,WAS @ IND,IND,905105854,Braden Smith,ra,6.5,False,0.1808,,model only,0.1808
 401909966,WAS @ IND,IND,905105854,Braden Smith,ra,7.5,False,0.1174,,model only,0.1174
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,8.5,False,0.7284,,model only,0.7284
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,9.5,False,0.67,,model only,0.67
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,10.5,False,0.604,,model only,0.604
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,11.5,False,0.539,,model only,0.539
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,12.5,False,0.4755,,model only,0.4755
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,13.5,False,0.4182,,model only,0.4182
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,14.5,False,0.361,,model only,0.361
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,15.5,False,0.3097,,model only,0.3097
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,16.5,False,0.2662,,model only,0.2662
-401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,2.5,False,0.7959,,model only,0.7959
-401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,3.5,False,0.6564,,model only,0.6564
-401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,4.5,False,0.5091,,model only,0.5091
-401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,5.5,False,0.369,,model only,0.369
-401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,6.5,False,0.2564,,model only,0.2564
-401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,7.5,False,0.1674,,model only,0.1674
-401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,8.5,False,0.1043,,model only,0.1043
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,0.5,False,0.8611,,model only,0.8611
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,1.5,False,0.6262,,model only,0.6262
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,2.5,False,0.383,,model only,0.383
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,3.5,False,0.2057,,model only,0.2057
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,4.5,False,0.1008,,model only,0.1008
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,5.5,False,0.0425,,model only,0.0425
-401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,0.5,False,0.787,,model only,0.787
-401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,1.5,False,0.4773,,model only,0.4773
-401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,2.5,False,0.225,,model only,0.225
-401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,3.5,False,0.0884,,model only,0.0884
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,7.5,False,0.7849,0.7349,book,0.7415
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,8.5,False,0.7284,0.7013,est,0.7049
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,9.5,False,0.67,0.6231,book,0.6293
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,10.5,False,0.604,0.5718,est,0.5761
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,11.5,True,0.539,0.5059,book,0.5103
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,12.5,False,0.4755,0.4425,est,0.4469
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,13.5,False,0.4182,0.3863,est,0.3905
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,14.5,False,0.361,0.3436,book,0.3459
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pts,15.5,False,0.3097,0.282,est,0.2857
+401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,1.5,False,0.9097,0.9008,est,0.902
+401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,2.5,False,0.7959,0.7647,book,0.7688
+401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,3.5,False,0.6564,0.6302,book,0.6337
+401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,4.5,True,0.5091,0.4831,book,0.4865
+401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,5.5,False,0.369,0.3461,book,0.3491
+401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,6.5,False,0.2564,0.2342,book,0.2371
+401909966,WAS @ IND,IND,1630167,Obi Toppin,reb,7.5,False,0.1674,0.153,book,0.1549
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,0.5,False,0.8611,0.8323,est,0.8361
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,1.5,True,0.6262,0.573,book,0.58
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,2.5,False,0.383,0.3423,book,0.3477
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,3.5,False,0.2057,0.1843,book,0.1871
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ast,4.5,False,0.1008,0.0935,book,0.0945
+401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,0.5,False,0.787,0.765,book,0.7679
+401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,1.5,True,0.4773,0.4809,book,0.4804
+401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,2.5,False,0.225,0.2547,book,0.2508
+401909966,WAS @ IND,IND,1630167,Obi Toppin,fg3m,3.5,False,0.0884,0.123,book,0.1184
 401909966,WAS @ IND,IND,1630167,Obi Toppin,stl,0.5,False,0.4478,,model only,0.4478
 401909966,WAS @ IND,IND,1630167,Obi Toppin,stl,1.5,False,0.1382,,model only,0.1382
 401909966,WAS @ IND,IND,1630167,Obi Toppin,blk,0.5,False,0.2226,,model only,0.2226
 401909966,WAS @ IND,IND,1630167,Obi Toppin,blk,1.5,False,0.031,,model only,0.031
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,14.5,False,0.724,,model only,0.724
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,15.5,False,0.6784,,model only,0.6784
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,16.5,False,0.6301,,model only,0.6301
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,17.5,False,0.5808,,model only,0.5808
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,18.5,False,0.5342,,model only,0.5342
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,19.5,False,0.488,,model only,0.488
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,20.5,False,0.4464,,model only,0.4464
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,21.5,False,0.402,,model only,0.402
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,22.5,False,0.3581,,model only,0.3581
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,23.5,False,0.3176,,model only,0.3176
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,24.5,False,0.2822,,model only,0.2822
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,13.5,False,0.6807,,model only,0.6807
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,14.5,False,0.6313,,model only,0.6313
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,15.5,False,0.5818,,model only,0.5818
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,16.5,False,0.526,,model only,0.526
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,17.5,False,0.474,,model only,0.474
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,18.5,False,0.4258,,model only,0.4258
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,19.5,False,0.3812,,model only,0.3812
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,20.5,False,0.3381,,model only,0.3381
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,21.5,False,0.2973,,model only,0.2973
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,10.5,False,0.7211,,model only,0.7211
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,11.5,False,0.6674,,model only,0.6674
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,12.5,False,0.6063,,model only,0.6063
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,13.5,False,0.5499,,model only,0.5499
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,14.5,False,0.4945,,model only,0.4945
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,15.5,False,0.4386,,model only,0.4386
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,16.5,False,0.3851,,model only,0.3851
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,17.5,False,0.3386,,model only,0.3386
-401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,18.5,False,0.2925,,model only,0.2925
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,4.5,False,0.757,,model only,0.757
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,5.5,False,0.6442,,model only,0.6442
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,6.5,False,0.5317,,model only,0.5317
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,7.5,False,0.4185,,model only,0.4185
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,8.5,False,0.3201,,model only,0.3201
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,9.5,False,0.2344,,model only,0.2344
-401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,10.5,False,0.1683,,model only,0.1683
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,13.5,False,0.7668,0.7389,est,0.7426
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,14.5,False,0.724,0.6931,est,0.6972
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,15.5,False,0.6784,0.6449,est,0.6493
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,16.5,False,0.6301,0.5945,est,0.5992
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,17.5,False,0.5808,0.5439,est,0.5488
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,18.5,True,0.5342,0.4968,book,0.5017
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,19.5,False,0.488,0.4507,est,0.4556
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,20.5,False,0.4464,0.4097,est,0.4146
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,21.5,False,0.402,0.3666,est,0.3713
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,22.5,False,0.3581,0.3244,est,0.3289
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pra,23.5,False,0.3176,0.2861,est,0.2902
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,12.5,False,0.729,0.701,est,0.7047
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,13.5,False,0.6807,0.6501,est,0.6541
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,14.5,False,0.6313,0.5987,est,0.603
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,15.5,False,0.5818,0.548,est,0.5524
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,16.5,True,0.526,0.4917,book,0.4962
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,17.5,False,0.474,0.4399,est,0.4444
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,18.5,False,0.4258,0.3926,est,0.3969
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,19.5,False,0.3812,0.3493,est,0.3535
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pr,20.5,False,0.3381,0.3081,est,0.312
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,9.5,False,0.7732,0.725,book,0.7314
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,10.5,False,0.7211,0.6909,est,0.6949
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,11.5,False,0.6674,0.6342,est,0.6386
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,12.5,False,0.6063,0.5709,est,0.5756
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,13.5,True,0.5499,0.5136,book,0.5184
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,14.5,False,0.4945,0.4604,book,0.4649
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,15.5,False,0.4386,0.403,est,0.4077
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,16.5,False,0.3851,0.3511,est,0.3556
+401909966,WAS @ IND,IND,1630167,Obi Toppin,pa,17.5,False,0.3386,0.3067,est,0.3109
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,3.5,False,0.8482,0.8242,est,0.8274
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,4.5,False,0.757,0.7233,est,0.7277
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,5.5,False,0.6442,0.6029,est,0.6084
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,6.5,True,0.5317,0.4878,book,0.4936
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,7.5,False,0.4185,0.3765,est,0.382
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,8.5,False,0.3201,0.2831,est,0.288
+401909966,WAS @ IND,IND,1630167,Obi Toppin,ra,9.5,False,0.2344,0.2043,est,0.2083
 401909966,WAS @ IND,IND,1641716,Jarace Walker,pts,5.5,False,0.747,,model only,0.747
 401909966,WAS @ IND,IND,1641716,Jarace Walker,pts,6.5,False,0.6653,,model only,0.6653
 401909966,WAS @ IND,IND,1641716,Jarace Walker,pts,7.5,False,0.5823,,model only,0.5823
@@ -789,28 +783,28 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909966,WAS @ IND,IND,1641716,Jarace Walker,ra,8.5,False,0.3093,,model only,0.3093
 401909966,WAS @ IND,IND,1641716,Jarace Walker,ra,9.5,False,0.2253,,model only,0.2253
 401909966,WAS @ IND,IND,1641716,Jarace Walker,ra,10.5,False,0.1602,,model only,0.1602
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,7.5,False,0.7544,,model only,0.7544
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,8.5,False,0.6772,,model only,0.6772
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,9.5,False,0.6055,,model only,0.6055
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,10.5,False,0.5317,,model only,0.5317
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,11.5,False,0.463,,model only,0.463
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,12.5,False,0.3981,,model only,0.3981
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,13.5,False,0.3349,,model only,0.3349
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,14.5,False,0.2843,,model only,0.2843
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,15.5,False,0.2353,,model only,0.2353
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,6.5,False,0.7563,,model only,0.7563
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,7.5,False,0.6645,,model only,0.6645
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,8.5,False,0.5668,,model only,0.5668
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,9.5,False,0.472,,model only,0.472
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,10.5,False,0.3777,,model only,0.3777
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,11.5,False,0.2981,,model only,0.2981
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,12.5,False,0.2245,,model only,0.2245
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,0.5,False,0.8302,,model only,0.8302
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,1.5,False,0.5527,,model only,0.5527
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,2.5,False,0.3035,,model only,0.3035
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,3.5,False,0.1443,,model only,0.1443
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,4.5,False,0.0623,,model only,0.0623
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,5.5,False,0.0242,,model only,0.0242
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,8.5,False,0.6772,0.758,est,0.7473
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,9.5,False,0.6055,0.6962,est,0.6843
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,10.5,False,0.5317,0.629,est,0.6161
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,11.5,False,0.463,0.5628,est,0.5496
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,12.5,True,0.3981,0.4968,book,0.4838
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,13.5,False,0.3349,0.4292,est,0.4167
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,14.5,False,0.2843,0.3723,est,0.3607
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,15.5,False,0.2353,0.3148,est,0.3043
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pts,16.5,False,0.1911,0.2607,est,0.2515
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,6.5,False,0.7563,0.7634,book,0.7625
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,7.5,False,0.6645,0.6728,book,0.6717
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,8.5,False,0.5668,0.5737,book,0.5728
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,9.5,True,0.472,0.4742,book,0.4739
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,10.5,False,0.3777,0.3799,book,0.3796
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,11.5,False,0.2981,0.2958,book,0.2961
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,reb,12.5,False,0.2245,0.2215,book,0.2219
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,0.5,False,0.8302,0.8741,est,0.8683
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,1.5,False,0.5527,0.6369,est,0.6258
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,2.5,True,0.3035,0.3822,book,0.3718
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,3.5,False,0.1443,0.1955,book,0.1887
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,4.5,False,0.0623,0.0963,book,0.0918
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ast,5.5,False,0.0242,0.0502,book,0.0468
 401909966,WAS @ IND,IND,1627826,Ivica Zubac,fg3m,0.5,False,0.0,,model only,0.0
 401909966,WAS @ IND,IND,1627826,Ivica Zubac,fg3m,1.5,False,0.0,,model only,0.0
 401909966,WAS @ IND,IND,1627826,Ivica Zubac,fg3m,2.5,False,0.0,,model only,0.0
@@ -819,42 +813,42 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909966,WAS @ IND,IND,1627826,Ivica Zubac,blk,0.5,False,0.5505,,model only,0.5505
 401909966,WAS @ IND,IND,1627826,Ivica Zubac,blk,1.5,False,0.2072,,model only,0.2072
 401909966,WAS @ IND,IND,1627826,Ivica Zubac,blk,2.5,False,0.0587,,model only,0.0587
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,18.5,False,0.6931,,model only,0.6931
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,19.5,False,0.642,,model only,0.642
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,20.5,False,0.5974,,model only,0.5974
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,21.5,False,0.5486,,model only,0.5486
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,22.5,False,0.5016,,model only,0.5016
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,23.5,False,0.4546,,model only,0.4546
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,24.5,False,0.4084,,model only,0.4084
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,25.5,False,0.3623,,model only,0.3623
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,26.5,False,0.322,,model only,0.322
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,27.5,False,0.2859,,model only,0.2859
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,28.5,False,0.2518,,model only,0.2518
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,17.5,False,0.6575,,model only,0.6575
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,18.5,False,0.6045,,model only,0.6045
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,19.5,False,0.5535,,model only,0.5535
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,20.5,False,0.5044,,model only,0.5044
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,21.5,False,0.4547,,model only,0.4547
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,22.5,False,0.4086,,model only,0.4086
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,23.5,False,0.3597,,model only,0.3597
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,24.5,False,0.317,,model only,0.317
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,25.5,False,0.2787,,model only,0.2787
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,9.5,False,0.7282,,model only,0.7282
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,10.5,False,0.6625,,model only,0.6625
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,11.5,False,0.5962,,model only,0.5962
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,12.5,False,0.5289,,model only,0.5289
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,13.5,False,0.4619,,model only,0.4619
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,14.5,False,0.3989,,model only,0.3989
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,15.5,False,0.3433,,model only,0.3433
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,16.5,False,0.29,,model only,0.29
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,17.5,False,0.2448,,model only,0.2448
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,8.5,False,0.7246,,model only,0.7246
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,9.5,False,0.6378,,model only,0.6378
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,10.5,False,0.5502,,model only,0.5502
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,11.5,False,0.4652,,model only,0.4652
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,12.5,False,0.3855,,model only,0.3855
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,13.5,False,0.3117,,model only,0.3117
-401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,14.5,False,0.2431,,model only,0.2431
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,19.5,False,0.642,0.7136,book,0.7042
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,20.5,False,0.5974,0.6815,est,0.6704
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,21.5,False,0.5486,0.6367,est,0.6251
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,22.5,False,0.5016,0.5921,est,0.5801
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,23.5,False,0.4546,0.5459,est,0.5338
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,24.5,True,0.4084,0.4989,book,0.487
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,25.5,False,0.3623,0.4504,est,0.4388
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,26.5,False,0.322,0.4065,est,0.3954
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,27.5,False,0.2859,0.3661,est,0.3555
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,28.5,False,0.2518,0.3268,est,0.3169
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pra,29.5,False,0.2192,0.2885,book,0.2794
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,18.5,False,0.6045,0.6778,est,0.6681
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,19.5,False,0.5535,0.6305,est,0.6203
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,20.5,False,0.5044,0.5835,est,0.5731
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,21.5,False,0.4547,0.5344,est,0.5239
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,22.5,True,0.4086,0.4874,book,0.477
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,23.5,False,0.3597,0.436,est,0.426
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,24.5,False,0.317,0.3898,est,0.3802
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,25.5,False,0.2787,0.3472,est,0.3382
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pr,26.5,False,0.2424,0.3058,est,0.2974
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,10.5,False,0.6625,0.7629,est,0.7497
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,11.5,False,0.5962,0.7077,est,0.693
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,12.5,False,0.5289,0.6479,est,0.6322
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,13.5,False,0.4619,0.5846,est,0.5684
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,14.5,True,0.3989,0.521,book,0.5049
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,15.5,False,0.3433,0.4615,est,0.4459
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,16.5,False,0.29,0.4011,est,0.3864
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,17.5,False,0.2448,0.347,est,0.3335
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,pa,18.5,False,0.2029,0.2944,est,0.2824
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,8.5,False,0.7246,0.7462,est,0.7434
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,9.5,False,0.6378,0.6631,est,0.6597
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,10.5,False,0.5502,0.5774,est,0.5738
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,11.5,True,0.4652,0.4929,book,0.4892
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,12.5,False,0.3855,0.4121,est,0.4086
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,13.5,False,0.3117,0.336,est,0.3327
+401909966,WAS @ IND,IND,1627826,Ivica Zubac,ra,14.5,False,0.2431,0.2641,est,0.2613
 401909966,WAS @ IND,WAS,1629028,Deandre Ayton,pts,1.5,False,0.8625,,model only,0.8625
 401909966,WAS @ IND,WAS,1629028,Deandre Ayton,pts,2.5,False,0.7522,,model only,0.7522
 401909966,WAS @ IND,WAS,1629028,Deandre Ayton,pts,3.5,False,0.6312,,model only,0.6312
@@ -4149,15 +4143,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909968,BOS @ TOR,BOS,1628401,Derrick White,ra,9.5,False,0.2943,,model only,0.2943
 401909968,BOS @ TOR,BOS,1628401,Derrick White,ra,10.5,False,0.2077,,model only,0.2077
 401909968,BOS @ TOR,BOS,1628401,Derrick White,ra,11.5,False,0.1379,,model only,0.1379
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,9.5,False,0.7039,0.7217,book,0.7194
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,10.5,False,0.6378,0.694,est,0.6866
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,11.5,False,0.5718,0.6156,book,0.6098
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,12.5,False,0.5051,0.568,est,0.5597
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,13.5,True,0.4419,0.5049,book,0.4966
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,14.5,False,0.3849,0.445,book,0.4371
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,15.5,False,0.3315,0.3897,est,0.382
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,16.5,False,0.2825,0.3365,est,0.3294
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,17.5,False,0.2397,0.2939,book,0.2867
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,9.5,False,0.7039,0.7269,book,0.7239
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,10.5,False,0.6378,0.6957,est,0.6881
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,11.5,False,0.5718,0.621,book,0.6145
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,12.5,False,0.5051,0.5699,est,0.5614
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,13.5,True,0.4419,0.5069,book,0.4983
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,14.5,False,0.3849,0.4493,book,0.4408
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,15.5,False,0.3315,0.3916,est,0.3837
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,16.5,False,0.2825,0.3383,est,0.3309
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pts,17.5,False,0.2397,0.2986,book,0.2908
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,reb,1.5,False,0.9373,0.9362,est,0.9364
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,reb,2.5,False,0.8441,0.8178,book,0.8213
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,reb,3.5,False,0.707,0.6943,book,0.696
@@ -4179,26 +4173,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,blk,0.5,False,0.642,,model only,0.642
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,blk,1.5,False,0.2883,,model only,0.2883
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,blk,2.5,False,0.1005,,model only,0.1005
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,15.5,False,0.7158,0.757,est,0.7516
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,16.5,False,0.6645,0.7101,est,0.7041
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,17.5,False,0.6126,0.6617,est,0.6552
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,18.5,False,0.5617,0.6132,est,0.6064
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,19.5,False,0.5089,0.5592,book,0.5526
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,20.5,True,0.4595,0.5126,book,0.5056
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,21.5,False,0.4097,0.462,est,0.4551
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,22.5,False,0.3624,0.4128,est,0.4061
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,23.5,False,0.3178,0.3656,est,0.3593
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,24.5,False,0.277,0.3362,book,0.3284
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,25.5,False,0.2411,0.2821,est,0.2767
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,14.5,False,0.6829,0.6992,book,0.6971
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,15.5,False,0.6277,0.6737,est,0.6676
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,16.5,False,0.5701,0.619,est,0.6125
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,17.5,False,0.5176,0.5679,est,0.5613
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,18.5,True,0.462,0.5126,book,0.5059
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,19.5,False,0.4104,0.4604,book,0.4538
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,20.5,False,0.3596,0.4075,est,0.4012
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,21.5,False,0.3168,0.3622,est,0.3562
-401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,22.5,False,0.2725,0.3145,est,0.309
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,15.5,False,0.7158,0.7578,est,0.7522
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,16.5,False,0.6645,0.7109,est,0.7048
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,17.5,False,0.6126,0.6626,est,0.656
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,18.5,False,0.5617,0.6141,est,0.6072
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,19.5,False,0.5089,0.5607,book,0.5539
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,20.5,True,0.4595,0.5136,book,0.5065
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,21.5,False,0.4097,0.463,est,0.4559
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,22.5,False,0.3624,0.4137,est,0.407
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,23.5,False,0.3178,0.3665,est,0.3601
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,24.5,False,0.277,0.3374,book,0.3294
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pra,25.5,False,0.2411,0.2829,est,0.2774
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,14.5,False,0.6829,0.7015,book,0.699
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,15.5,False,0.6277,0.6754,est,0.6691
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,16.5,False,0.5701,0.6208,est,0.6141
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,17.5,False,0.5176,0.5698,est,0.5629
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,18.5,True,0.462,0.5145,book,0.5076
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,19.5,False,0.4104,0.465,book,0.4578
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,20.5,False,0.3596,0.4094,est,0.4028
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,21.5,False,0.3168,0.364,est,0.3577
+401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pr,22.5,False,0.2725,0.3161,est,0.3104
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pa,11.5,False,0.6837,0.7406,est,0.7331
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pa,12.5,False,0.6214,0.6844,est,0.676
 401909969,SAS @ CHI,CHI,1641824,Matas Buzelis,pa,13.5,False,0.5605,0.6275,est,0.6187
@@ -4375,35 +4369,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909969,SAS @ CHI,CHI,1630581,Josh Giddey,stl,2.5,False,0.0818,,model only,0.0818
 401909969,SAS @ CHI,CHI,1630581,Josh Giddey,blk,0.5,False,0.4088,,model only,0.4088
 401909969,SAS @ CHI,CHI,1630581,Josh Giddey,blk,1.5,False,0.1061,,model only,0.1061
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,24.5,False,0.6124,0.6833,book,0.6739
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,25.5,False,0.5663,0.6509,est,0.6397
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,26.5,False,0.5206,0.608,est,0.5964
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,27.5,False,0.4778,0.5665,est,0.5548
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,28.5,False,0.4324,0.521,est,0.5093
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,29.5,True,0.3914,0.4787,book,0.4672
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,30.5,False,0.3488,0.4334,est,0.4222
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,31.5,False,0.3123,0.3933,est,0.3826
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,32.5,False,0.2775,0.3542,est,0.3441
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,33.5,False,0.245,0.3166,est,0.3071
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,34.5,False,0.2141,0.2798,book,0.2711
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,16.5,False,0.6253,0.6962,est,0.6869
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,17.5,False,0.5655,0.6412,est,0.6312
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,18.5,False,0.5071,0.5856,est,0.5752
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,19.5,False,0.4518,0.5309,est,0.5205
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,20.5,True,0.3986,0.4765,book,0.4662
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,21.5,False,0.3488,0.4238,est,0.4139
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,22.5,False,0.301,0.3716,est,0.3623
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,23.5,False,0.2601,0.3255,est,0.3169
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,24.5,False,0.2212,0.2806,est,0.2727
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,18.5,False,0.5947,0.6786,est,0.6676
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,19.5,False,0.5406,0.6288,est,0.6171
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,20.5,False,0.4866,0.5769,est,0.565
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,21.5,False,0.436,0.5266,est,0.5146
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,22.5,True,0.3853,0.4742,book,0.4625
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,23.5,False,0.338,0.4235,est,0.4122
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,24.5,False,0.2959,0.3768,est,0.3662
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,25.5,False,0.2577,0.3331,est,0.3231
-401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,26.5,False,0.2215,0.2904,est,0.2813
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,23.5,False,0.6594,0.7329,est,0.7232
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,24.5,False,0.6124,0.6914,est,0.681
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,25.5,False,0.5663,0.6492,est,0.6383
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,26.5,False,0.5206,0.6063,est,0.595
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,27.5,False,0.4778,0.5647,est,0.5532
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,28.5,True,0.4324,0.5192,book,0.5077
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,29.5,False,0.3914,0.4769,est,0.4656
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,30.5,False,0.3488,0.4316,est,0.4207
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,31.5,False,0.3123,0.3916,est,0.3812
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,32.5,False,0.2775,0.3526,est,0.3426
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pra,33.5,False,0.245,0.315,est,0.3058
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,16.5,False,0.6253,0.6943,est,0.6852
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,17.5,False,0.5655,0.6391,est,0.6294
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,18.5,False,0.5071,0.5833,est,0.5733
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,19.5,False,0.4518,0.5286,est,0.5185
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,20.5,True,0.3986,0.4742,book,0.4642
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,21.5,False,0.3488,0.4216,est,0.412
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,22.5,False,0.301,0.3695,est,0.3604
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,23.5,False,0.2601,0.3235,est,0.3151
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pr,24.5,False,0.2212,0.2787,est,0.2711
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,17.5,False,0.648,0.723,est,0.7131
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,18.5,False,0.5947,0.6754,est,0.6648
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,19.5,False,0.5406,0.6253,est,0.6141
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,20.5,False,0.4866,0.5733,est,0.5619
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,21.5,True,0.436,0.5229,book,0.5114
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,22.5,False,0.3853,0.4705,est,0.4593
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,23.5,False,0.338,0.4199,est,0.4091
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,24.5,False,0.2959,0.3734,est,0.3632
+401909969,SAS @ CHI,CHI,1630581,Josh Giddey,pa,25.5,False,0.2577,0.3298,est,0.3203
 401909969,SAS @ CHI,CHI,1630581,Josh Giddey,ra,12.5,False,0.6667,0.7185,est,0.7117
 401909969,SAS @ CHI,CHI,1630581,Josh Giddey,ra,13.5,False,0.5897,0.6472,est,0.6396
 401909969,SAS @ CHI,CHI,1630581,Josh Giddey,ra,14.5,False,0.5121,0.5726,est,0.5646
@@ -4907,15 +4901,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pr,27.5,False,0.3364,0.4002,est,0.3918
 401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pr,28.5,False,0.3,0.3606,est,0.3526
 401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pr,29.5,False,0.2654,0.3222,est,0.3147
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,17.5,False,0.6269,0.6992,est,0.6897
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,18.5,False,0.5737,0.6507,est,0.6405
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,19.5,False,0.5238,0.6035,est,0.593
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,20.5,False,0.4739,0.5548,est,0.5442
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,21.5,True,0.4252,0.5059,book,0.4953
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,22.5,False,0.3805,0.4594,est,0.449
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,23.5,False,0.3376,0.4136,est,0.4036
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,24.5,False,0.301,0.3734,est,0.3639
-401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,25.5,False,0.2646,0.3324,est,0.3235
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,17.5,False,0.6269,0.6984,est,0.689
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,18.5,False,0.5737,0.6498,est,0.6397
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,19.5,False,0.5238,0.6025,est,0.5921
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,20.5,False,0.4739,0.5539,est,0.5433
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,21.5,True,0.4252,0.5049,book,0.4944
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,22.5,False,0.3805,0.4584,est,0.4481
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,23.5,False,0.3376,0.4127,est,0.4027
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,24.5,False,0.301,0.3725,est,0.3631
+401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,pa,25.5,False,0.2646,0.3315,est,0.3227
 401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,ra,5.5,False,0.8251,0.8063,est,0.8088
 401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,ra,6.5,False,0.7219,0.696,est,0.6995
 401909969,SAS @ CHI,CHI,905095151,Caleb Wilson,ra,7.5,False,0.608,0.5778,est,0.5817
@@ -5201,13 +5195,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,reb,4.5,False,0.3677,0.3268,book,0.3322
 401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,reb,5.5,False,0.2263,0.1988,book,0.2024
 401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,reb,6.5,False,0.1273,0.114,book,0.1157
-401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,2.5,False,0.9001,0.8901,book,0.8914
-401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,3.5,False,0.7944,0.81,book,0.8079
-401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,4.5,False,0.6606,0.6943,book,0.6898
-401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,5.5,True,0.5195,0.55,book,0.546
-401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,6.5,False,0.3855,0.4117,book,0.4082
-401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,7.5,False,0.2674,0.2858,book,0.2834
-401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,8.5,False,0.1767,0.1869,book,0.1855
+401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,2.5,False,0.9001,0.8921,book,0.8932
+401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,3.5,False,0.7944,0.8066,book,0.805
+401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,4.5,False,0.6606,0.6906,book,0.6866
+401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,5.5,True,0.5195,0.5523,book,0.548
+401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,6.5,False,0.3855,0.4135,book,0.4098
+401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,7.5,False,0.2674,0.2867,book,0.2842
+401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,ast,8.5,False,0.1767,0.188,book,0.1865
 401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,fg3m,0.5,False,0.7656,0.686,book,0.6965
 401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,fg3m,1.5,True,0.4324,0.3567,book,0.3667
 401909969,SAS @ CHI,SAS,1628368,De'Aaron Fox,fg3m,2.5,False,0.1817,0.1522,book,0.1561
@@ -5286,12 +5280,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,blk,0.5,False,0.2954,,model only,0.2954
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,blk,1.5,False,0.0511,,model only,0.0511
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,23.5,False,0.6351,0.6998,est,0.6912
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,24.5,False,0.5885,0.6522,book,0.6438
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,24.5,False,0.5885,0.6539,book,0.6453
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,25.5,False,0.5437,0.6148,est,0.6054
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,26.5,False,0.4962,0.5688,est,0.5592
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,27.5,False,0.4508,0.5237,est,0.5141
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,28.5,True,0.4089,0.4809,book,0.4714
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,29.5,False,0.3673,0.4367,book,0.4275
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,29.5,False,0.3673,0.4347,book,0.4258
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,30.5,False,0.3281,0.3954,est,0.3865
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,31.5,False,0.2948,0.3589,est,0.3505
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pra,32.5,False,0.2635,0.324,est,0.316
@@ -5305,15 +5299,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pr,25.5,False,0.3421,0.4123,est,0.4031
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pr,26.5,False,0.3045,0.3715,est,0.3626
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pr,27.5,False,0.267,0.3295,est,0.3213
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,17.5,False,0.673,0.7201,est,0.7139
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,18.5,False,0.6224,0.6732,est,0.6665
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,19.5,False,0.5696,0.6261,book,0.6186
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,20.5,False,0.5192,0.5743,est,0.5671
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,21.5,True,0.469,0.5247,book,0.5174
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,22.5,False,0.4202,0.4752,est,0.468
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,23.5,False,0.3733,0.4267,est,0.4196
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,24.5,False,0.3315,0.3784,book,0.3722
-401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,25.5,False,0.2892,0.3371,est,0.3308
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,18.5,False,0.6224,0.6723,est,0.6657
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,19.5,False,0.5696,0.6222,est,0.6153
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,20.5,False,0.5192,0.5733,est,0.5662
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,21.5,False,0.469,0.5237,est,0.5164
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,22.5,True,0.4202,0.4742,book,0.4671
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,23.5,False,0.3733,0.4257,est,0.4188
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,24.5,False,0.3315,0.3816,est,0.375
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,25.5,False,0.2892,0.3362,est,0.33
+401909969,SAS @ CHI,SAS,1642844,Dylan Harper,pa,26.5,False,0.2525,0.2959,est,0.2902
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,ra,7.5,False,0.7312,0.7788,est,0.7725
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,ra,8.5,False,0.6261,0.6843,est,0.6766
 401909969,SAS @ CHI,SAS,1642844,Dylan Harper,ra,9.5,False,0.518,0.5818,est,0.5734
