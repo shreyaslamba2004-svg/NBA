@@ -16,18 +16,18 @@ CLE @ NYK,Evan Mobley ra under 11.5 + Karl-Anthony Towns 6+ reb,2,0.6044,0.461,2
 CLE @ NYK,NYK win + Karl-Anthony Towns 6+ reb,2,0.5881,0.5637,1.77,1.86,1.63,-0.0838,1.0,1.50-1.65
 CLE @ NYK,Miles McBride 3pm under 1.5 + Karl-Anthony Towns 6+ reb,2,0.6688,0.523,1.91,2.01,1.74,-0.0893,1.0,1.65-1.85
 CLE @ NYK,Evan Mobley reb under 8.5 + Karl-Anthony Towns 6+ reb,2,0.6637,0.5204,1.92,2.02,1.75,-0.091,0.999,1.65-1.85
-BOS @ TOR,BOS win + Neemias Queta 5+ pa,2,0.614,0.6347,1.58,1.65,1.52,-0.0375,1.008,1.50-1.65
-BOS @ TOR,BOS win + Neemias Queta 10+ pra,2,0.6098,0.6263,1.6,1.68,1.54,-0.0381,1.006,1.50-1.65
-BOS @ TOR,BOS win + Jayson Tatum 1+ 3pm,2,0.6117,0.6282,1.59,1.67,1.53,-0.0394,1.005,1.50-1.65
-BOS @ TOR,BOS win + Collin Murray-Boyles 4+ reb,2,0.5496,0.5577,1.79,1.88,1.72,-0.0422,1.0,1.65-1.85
-BOS @ TOR,BOS win + RJ Barrett 4+ reb,2,0.5402,0.5436,1.84,1.93,1.76,-0.0424,0.998,1.65-1.85
-BOS @ TOR,game over 215.5 + Collin Murray-Boyles 10+ pa,2,0.4863,0.4035,2.48,2.6,2.36,-0.0478,1.044,2.10-2.50
-BOS @ TOR,game over 215.5 + Collin Murray-Boyles 15+ pra,2,0.4952,0.4057,2.46,2.59,2.34,-0.0488,1.041,2.10-2.50
-BOS @ TOR,BOS win + Collin Murray-Boyles 15+ pra,2,0.5254,0.5236,1.91,2.01,1.8,-0.0553,0.983,1.65-1.85
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Collin Murray-Boyles 4+ reb,2,0.5992,0.3996,2.5,2.63,2.36,-0.0583,1.001,2.10-2.50
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 1+ 3pm,2,0.6629,0.4474,2.24,2.35,2.1,-0.0612,1.0,1.85-2.10
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.6638,0.4479,2.23,2.34,2.09,-0.0623,0.999,1.85-2.10
-BOS @ TOR,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.6611,0.4491,2.23,2.34,2.08,-0.0656,0.996,1.85-2.10
+BOS @ TOR,BOS win + Jamal Shead 10+ pa,2,0.5907,0.5383,1.86,1.95,1.84,-0.0091,0.988,1.65-1.85
+BOS @ TOR,BOS win + Neemias Queta 5+ pa,2,0.614,0.6304,1.59,1.67,1.57,-0.01,1.008,1.50-1.65
+BOS @ TOR,Jamal Shead 16+ pra + Collin Murray-Boyles 10+ pa,2,0.6004,0.408,2.45,2.57,2.42,-0.011,1.012,2.10-2.50
+BOS @ TOR,Jamal Shead 16+ pra + Collin Murray-Boyles 15+ pra,2,0.6112,0.4073,2.46,2.58,2.43,-0.0113,1.008,2.10-2.50
+BOS @ TOR,BOS win + Neemias Queta 4+ reb,2,0.5828,0.5896,1.7,1.78,1.67,-0.0142,1.001,1.65-1.85
+BOS @ TOR,BOS win + RJ Barrett 4+ reb,2,0.5402,0.54,1.85,1.94,1.82,-0.0152,0.998,1.65-1.85
+BOS @ TOR,Jamal Shead 16+ pra + Collin Murray-Boyles 4+ reb,2,0.6262,0.4228,2.37,2.48,2.32,-0.0175,1.004,2.10-2.50
+BOS @ TOR,Jamal Shead 16+ pra + RJ Barrett 15+ pa,2,0.6956,0.4721,2.12,2.22,2.08,-0.0184,1.004,1.85-2.10
+BOS @ TOR,BOS win + Jayson Tatum 4+ reb,2,0.609,0.6232,1.6,1.68,1.57,-0.0191,0.998,1.50-1.65
+BOS @ TOR,BOS win + Collin Murray-Boyles 10+ pra,2,0.6234,0.634,1.58,1.66,1.54,-0.0226,0.993,1.50-1.65
+BOS @ TOR,Jamal Shead 16+ pra + Jayson Tatum 4+ reb,2,0.6928,0.4738,2.11,2.22,2.06,-0.023,1.0,1.85-2.10
+BOS @ TOR,Jamal Shead 16+ pra + Neemias Queta 5+ pa,2,0.6908,0.474,2.11,2.21,2.06,-0.0247,0.999,1.85-2.10
 SAS @ CHI,game under 239.5 + SAS win,2,0.4931,0.4511,2.22,2.33,2.15,-0.0312,1.025,2.10-2.50
 SAS @ CHI,SAS win + Matas Buzelis pts under 14.5,2,0.4671,0.4551,2.2,2.31,2.09,-0.0487,1.036,1.85-2.10
 SAS @ CHI,SAS win + Nic Claxton pts under 7.5,2,0.4537,0.4273,2.34,2.46,2.22,-0.0501,1.028,2.10-2.50
