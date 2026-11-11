@@ -1,37 +1,38 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Sam Hauser 5+ pra,2,0.5793,0.4468,2.24,2.35,2.2,-0.0186,1.0,2.10-2.50
+BOS @ PHI,Tyrese Maxey pts under 23.5 + Sam Hauser 5+ pra,2,0.5793,0.444,2.25,2.36,2.21,-0.0175,1.0,2.10-2.50
 BOS @ PHI,PHI win + VJ Edgecombe 10+ pa,2,0.3,0.3957,2.53,2.65,2.48,-0.0191,1.045,2.10-2.50
 BOS @ PHI,PHI win + LeBron James 10+ pts,2,0.2964,0.3946,2.53,2.66,2.48,-0.0221,1.044,2.10-2.50
 BOS @ PHI,Tyrese Maxey pts under 23.5 + VJ Edgecombe 10+ pra,2,0.6021,0.4852,2.06,2.16,2.0,-0.0279,0.998,1.85-2.10
-BOS @ PHI,Tyrese Maxey pts under 23.5 + Jayson Tatum 4+ reb,2,0.58,0.4711,2.12,2.23,2.06,-0.0303,0.997,1.85-2.10
+BOS @ PHI,Tyrese Maxey pts under 23.5 + Jayson Tatum 4+ reb,2,0.58,0.4722,2.12,2.22,2.05,-0.0306,0.997,1.85-2.10
 BOS @ PHI,Tyrese Maxey pts under 23.5 + Joel Embiid 10+ pts,2,0.5708,0.4659,2.15,2.25,2.08,-0.0329,0.995,1.85-2.10
 BOS @ PHI,Anfernee Simons 3pm under 1.5 + VJ Edgecombe 10+ pra,2,0.6922,0.517,1.93,2.03,1.78,-0.0821,1.0,1.65-1.85
-BOS @ PHI,Anfernee Simons 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.6673,0.5024,1.99,2.09,1.82,-0.0837,0.999,1.65-1.85
+BOS @ PHI,Anfernee Simons 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.6673,0.5035,1.99,2.09,1.82,-0.084,0.999,1.65-1.85
 BOS @ PHI,Anfernee Simons 3pm under 1.5 + Joel Embiid 10+ pts,2,0.6571,0.4971,2.01,2.11,1.84,-0.0856,0.998,1.65-1.85
-BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 10+ pa + LeBron James 10+ pts,3,0.6823,0.5357,1.87,1.96,1.59,-0.1467,1.006,1.50-1.65
-BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 15+ pra + LeBron James 10+ pts,3,0.6744,0.5344,1.87,1.96,1.6,-0.1474,1.006,1.50-1.65
-BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 10+ pa + LeBron James 15+ pr,3,0.6996,0.5559,1.8,1.89,1.53,-0.1494,1.004,1.50-1.65
-LAC @ PHX,Rui Hachimura pr under 21.5 + Collin Gillespie 5+ pa,2,0.653,0.4655,2.15,2.26,1.99,-0.0731,0.999,1.85-2.10
-LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6347,0.4441,2.25,2.36,2.08,-0.0746,0.995,1.85-2.10
-LAC @ PHX,Rui Hachimura pr under 21.5 + Darius Garland 1+ 3pm,2,0.6374,0.4547,2.2,2.31,2.03,-0.0747,0.997,1.85-2.10
-LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pa,2,0.6205,0.435,2.3,2.41,2.12,-0.0758,0.994,2.10-2.50
-LAC @ PHX,LAC +3.5 + Kobe Sanders 5+ pa,2,0.6013,0.4235,2.36,2.48,2.18,-0.076,1.014,2.10-2.50
-LAC @ PHX,Rui Hachimura pr under 21.5 + Dillon Brooks 1+ 3pm,2,0.5965,0.4261,2.35,2.46,2.17,-0.076,0.996,2.10-2.50
-LAC @ PHX,Kris Dunn ra under 8.5 + Collin Gillespie 5+ pa,2,0.6752,0.5132,1.95,2.05,1.79,-0.0837,0.999,1.65-1.85
-LAC @ PHX,Kris Dunn ra under 8.5 + Dillon Brooks 10+ pr,2,0.675,0.513,1.95,2.05,1.79,-0.0841,0.998,1.65-1.85
-LAC @ PHX,Kris Dunn ra under 8.5 + Darius Garland 1+ 3pm,2,0.66,0.502,1.99,2.09,1.82,-0.0842,0.998,1.65-1.85
-MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm,2,0.6177,0.5106,1.96,2.06,2.03,0.038,1.006,1.85-2.10
-MIA @ UTA,MIA win + Ace Bailey 1+ stl,2,0.4951,0.4218,2.37,2.49,2.42,0.0228,0.997,2.10-2.50
-MIA @ UTA,MIA win + Davion Mitchell 15+ pra,2,0.7381,0.671,1.49,1.56,1.52,0.0176,1.005,1.50-1.65
-MIA @ UTA,MIA win + Bam Adebayo 20+ pr,2,0.7063,0.6564,1.52,1.6,1.54,0.0129,1.004,1.50-1.65
-MIA @ UTA,MIA win + Brice Sensabaugh 1+ 3pm,2,0.6811,0.6218,1.61,1.69,1.62,0.0055,0.994,1.50-1.65
-MIA @ UTA,MIA win + Ace Bailey 15+ pa,2,0.6448,0.5681,1.76,1.85,1.76,-0.0001,0.982,1.65-1.85
-MIA @ UTA,MIA win + Ace Bailey 20+ pra,2,0.652,0.5821,1.72,1.8,1.72,-0.0004,0.984,1.65-1.85
-MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,3,0.5879,0.4495,2.22,2.34,2.2,-0.0113,1.013,2.10-2.50
-MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm + Davion Mitchell 4+ ast,3,0.5886,0.4594,2.18,2.29,2.14,-0.0148,1.012,2.10-2.50
-MIA @ UTA,MIA win + Davion Mitchell 15+ pra + Bam Adebayo 20+ pr,3,0.6719,0.5775,1.73,1.82,1.67,-0.0357,1.01,1.65-1.85
-MIA @ UTA,MIA win + Ace Bailey 15+ pa + Davion Mitchell 15+ pra,3,0.6137,0.5002,2.0,2.1,1.9,-0.0475,0.989,1.85-2.10
-MIA @ UTA,MIA win + Ace Bailey 20+ pra + Davion Mitchell 15+ pra,3,0.6202,0.5122,1.95,2.05,1.86,-0.0484,0.99,1.85-2.10
+BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 10+ pa + LeBron James 10+ pts,3,0.6823,0.5323,1.88,1.97,1.6,-0.1458,1.006,1.50-1.65
+BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 15+ pra + LeBron James 10+ pts,3,0.6744,0.5311,1.88,1.98,1.61,-0.1465,1.006,1.50-1.65
+BOS @ PHI,Sam Hauser 5+ pra + VJ Edgecombe 10+ pa + Neemias Queta 4+ reb,3,0.7235,0.5645,1.77,1.86,1.51,-0.1479,1.003,1.50-1.65
+LAC @ PHX,LAC +3.5 + Kobe Sanders 5+ pa,2,0.6137,0.4237,2.36,2.48,2.18,-0.0754,1.013,2.10-2.50
+LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pa,2,0.6155,0.4352,2.3,2.41,2.12,-0.0754,0.996,2.10-2.50
+LAC @ PHX,PHX win + Dillon Brooks 1+ 3pm,2,0.3716,0.5089,1.97,2.06,1.82,-0.0759,1.018,1.65-1.85
+LAC @ PHX,Rui Hachimura pr under 21.5 + Dillon Brooks 1+ 3pm,2,0.5875,0.4259,2.35,2.47,2.17,-0.0763,0.999,2.10-2.50
+LAC @ PHX,Rui Hachimura pr under 21.5 + Collin Gillespie 5+ pa,2,0.6383,0.4638,2.16,2.26,1.99,-0.0763,1.0,1.85-2.10
+LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pra,2,0.6504,0.4697,2.13,2.24,1.96,-0.0775,0.997,1.85-2.10
+LAC @ PHX,Rui Hachimura pr under 21.5 + Kobe Sanders 5+ pr,2,0.6265,0.4427,2.26,2.37,2.08,-0.0775,0.994,1.85-2.10
+LAC @ PHX,PHX win + Collin Gillespie 5+ pa,2,0.4011,0.5505,1.82,1.91,1.67,-0.082,1.012,1.65-1.85
+LAC @ PHX,PHX win + Dillon Brooks 10+ pr,2,0.3999,0.5496,1.82,1.91,1.67,-0.0836,1.01,1.65-1.85
+LAC @ PHX,PHX win + Kobe Sanders 5+ pra,2,0.4008,0.5466,1.83,1.92,1.64,-0.101,0.99,1.50-1.65
+MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm,2,0.6177,0.5047,1.98,2.08,2.06,0.0396,1.006,1.85-2.10
+MIA @ UTA,MIA win + Ace Bailey 1+ stl,2,0.4951,0.4202,2.38,2.5,2.44,0.0252,0.997,2.10-2.50
+MIA @ UTA,MIA win + Ace Bailey 1+ 3pm,2,0.7121,0.6558,1.52,1.6,1.53,0.0059,0.996,1.50-1.65
+MIA @ UTA,MIA win + Brice Sensabaugh 1+ 3pm,2,0.6811,0.6206,1.61,1.69,1.62,0.0058,0.994,1.50-1.65
+MIA @ UTA,MIA win + Ace Bailey 10+ pts,2,0.7175,0.6526,1.53,1.61,1.54,0.0043,0.992,1.50-1.65
+MIA @ UTA,MIA win + Ace Bailey 20+ pra,2,0.652,0.5811,1.72,1.81,1.72,-0.0001,0.984,1.65-1.85
+MIA @ UTA,MIA win + Ace Bailey 15+ pa,2,0.6448,0.5722,1.75,1.83,1.75,-0.0013,0.982,1.65-1.85
+MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm + Ace Bailey 1+ 3pm,3,0.5669,0.434,2.3,2.42,2.25,-0.0218,1.003,2.10-2.50
+MIA @ UTA,MIA win + Bam Adebayo 1+ 3pm + Ace Bailey 10+ pa,3,0.5971,0.4566,2.19,2.3,2.14,-0.022,1.002,2.10-2.50
+MIA @ UTA,MIA win + Brice Sensabaugh 1+ 3pm + Bam Adebayo 20+ pra,3,0.6532,0.57,1.75,1.84,1.66,-0.0513,0.996,1.65-1.85
+MIA @ UTA,MIA win + Ace Bailey 20+ pra + Brice Sensabaugh 1+ 3pm,3,0.5726,0.4731,2.11,2.22,1.99,-0.0586,0.98,1.85-2.10
+MIA @ UTA,MIA win + Ace Bailey 15+ pa + Brice Sensabaugh 1+ 3pm,3,0.5652,0.4651,2.15,2.26,2.02,-0.0616,0.976,1.85-2.10
 ORL @ SAC,ORL win + Wendell Carter Jr. 10+ pa,2,0.4574,0.5418,1.85,1.94,1.76,-0.0471,1.029,1.65-1.85
 ORL @ SAC,game over 222.5 + Wendell Carter Jr. 10+ pa,2,0.4799,0.4114,2.43,2.55,2.31,-0.0486,1.034,2.10-2.50
 ORL @ SAC,game over 222.5 + Wendell Carter Jr. 15+ pra,2,0.5084,0.4442,2.25,2.36,2.11,-0.0638,1.021,2.10-2.50
