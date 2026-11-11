@@ -1,16 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-WAS @ IND,game over 227.5 + Kyshawn George 10+ pts,2,0.5469,0.4011,2.49,2.62,2.37,-0.0481,1.033,2.10-2.50
-WAS @ IND,game over 227.5 + Anthony Davis 8+ reb,2,0.5516,0.3944,2.54,2.66,2.4,-0.0533,1.023,2.10-2.50
-WAS @ IND,WAS +2.5 + Kyshawn George 10+ pts,2,0.313,0.3986,2.51,2.63,2.37,-0.0541,1.041,2.10-2.50
-WAS @ IND,game over 227.5 + Kyshawn George 10+ pr,2,0.6182,0.4514,2.22,2.33,2.06,-0.0681,1.011,1.85-2.10
-WAS @ IND,game over 227.5 + Kyshawn George 10+ pa,2,0.6137,0.4551,2.2,2.31,2.05,-0.0691,1.012,1.85-2.10
-WAS @ IND,IND win + AJ Dybantsa 4+ reb,2,0.5931,0.4543,2.2,2.31,2.03,-0.0765,1.001,1.85-2.10
-WAS @ IND,IND win + Kyshawn George 10+ pr,2,0.665,0.503,1.99,2.09,1.83,-0.0799,0.995,1.65-1.85
-WAS @ IND,IND win + Kyshawn George 10+ pa,2,0.6583,0.5058,1.98,2.08,1.81,-0.0834,0.994,1.65-1.85
-WAS @ IND,AJ Dybantsa 3pm under 1.5 + Anthony Davis 8+ reb,2,0.6146,0.4952,2.02,2.12,1.83,-0.0958,1.0,1.65-1.85
-WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 10+ pr,2,0.6969,0.5733,1.74,1.83,1.57,-0.0994,0.999,1.50-1.65
-WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 15+ pra,2,0.673,0.554,1.81,1.9,1.63,-0.0995,0.999,1.50-1.65
-WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 10+ pa,2,0.6906,0.5771,1.73,1.82,1.56,-0.102,0.999,1.50-1.65
+WAS @ IND,game over 227.5 + Kyshawn George 10+ pts,2,0.5469,0.3987,2.51,2.63,2.39,-0.0472,1.033,2.10-2.50
+WAS @ IND,game over 227.5 + Anthony Davis 8+ reb,2,0.5516,0.3942,2.54,2.66,2.4,-0.0531,1.023,2.10-2.50
+WAS @ IND,WAS +2.5 + Kyshawn George 10+ pts,2,0.313,0.3961,2.52,2.65,2.39,-0.0532,1.041,2.10-2.50
+WAS @ IND,game over 227.5 + Kyshawn George 10+ pr,2,0.6182,0.4509,2.22,2.33,2.07,-0.0679,1.011,1.85-2.10
+WAS @ IND,game over 227.5 + Kyshawn George 10+ pa,2,0.6137,0.4533,2.21,2.32,2.06,-0.0684,1.012,1.85-2.10
+WAS @ IND,IND win + AJ Dybantsa 4+ reb,2,0.5931,0.4598,2.17,2.28,2.0,-0.0782,1.001,1.85-2.10
+WAS @ IND,IND win + Kyshawn George 10+ pr,2,0.665,0.5024,1.99,2.09,1.83,-0.0797,0.995,1.65-1.85
+WAS @ IND,IND win + Kyshawn George 10+ pa,2,0.6583,0.5037,1.99,2.08,1.82,-0.0827,0.994,1.65-1.85
+WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 10+ pr,2,0.6969,0.5639,1.77,1.86,1.6,-0.0968,0.999,1.50-1.65
+WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 15+ pra,2,0.673,0.5447,1.84,1.93,1.66,-0.0968,0.999,1.65-1.85
+WAS @ IND,AJ Dybantsa 3pm under 1.5 + Kyshawn George 10+ pa,2,0.6906,0.5659,1.77,1.86,1.59,-0.0989,0.999,1.50-1.65
 CLE @ NYK,CLE +4.5 + James Harden 10+ pr,2,0.4778,0.4582,2.18,2.29,2.05,-0.059,1.011,1.85-2.10
 CLE @ NYK,NYK -4.5 + Karl-Anthony Towns 1+ 3pm,2,0.4065,0.3901,2.56,2.69,2.39,-0.0677,1.02,2.10-2.50
 CLE @ NYK,NYK win + Landry Shamet 5+ pa,2,0.547,0.5216,1.92,2.01,1.79,-0.068,1.016,1.65-1.85
@@ -66,15 +65,15 @@ LAL @ MIL,Matisse Thybulle 3pm under 1.5 + Kyle Kuzma 10+ pra,2,0.7039,0.52,1.92
 LAL @ MIL,LAL win + Luka Doncic 3+ 3pm + Ziaire Williams 5+ pa,3,0.581,0.5731,1.74,1.83,1.51,-0.1321,1.02,1.50-1.65
 LAL @ MIL,LAL win + Luka Doncic 1+ stl + Jake LaRavia 5+ pr,3,0.5842,0.5591,1.79,1.88,1.54,-0.1379,1.008,1.50-1.65
 LAL @ MIL,LAL win + Luka Doncic 1+ stl + Ziaire Williams 5+ pa,3,0.5668,0.5504,1.82,1.91,1.56,-0.1389,1.009,1.50-1.65
-BKN @ NOP,NOP win + Dejounte Murray 4+ ast,2,0.5751,0.483,2.07,2.17,2.05,-0.011,1.018,1.85-2.10
-BKN @ NOP,NOP win + Herbert Jones 5+ pa,2,0.6003,0.5392,1.85,1.95,1.8,-0.0276,1.012,1.65-1.85
-BKN @ NOP,NOP win + Day'Ron Sharpe 6+ reb,2,0.5484,0.4698,2.13,2.23,2.07,-0.0284,1.003,1.85-2.10
-BKN @ NOP,NOP win + Saddiq Bey 10+ pr,2,0.6357,0.5666,1.76,1.85,1.71,-0.032,1.006,1.65-1.85
-BKN @ NOP,NOP win + Derik Queen 4+ reb,2,0.5891,0.5079,1.97,2.07,1.9,-0.0338,0.999,1.85-2.10
-BKN @ NOP,NOP win + Julius Randle 4+ reb,2,0.5972,0.5284,1.89,1.99,1.83,-0.0352,1.002,1.65-1.85
-BKN @ NOP,Derik Queen 17+ pr + Dejounte Murray 4+ ast,2,0.5763,0.39,2.56,2.69,2.42,-0.0567,1.009,2.10-2.50
-BKN @ NOP,NOP win + Dejounte Murray 4+ ast + Herbert Jones 5+ pa,3,0.5241,0.4203,2.38,2.5,2.24,-0.0568,1.031,2.10-2.50
-BKN @ NOP,Derik Queen 19+ pra + Dejounte Murray 4+ ast,2,0.6112,0.4143,2.41,2.53,2.27,-0.0583,1.007,2.10-2.50
+BKN @ NOP,NOP win + Dejounte Murray 4+ ast,2,0.5751,0.483,2.07,2.17,2.09,0.0073,1.018,1.85-2.10
+BKN @ NOP,NOP win + Herbert Jones 5+ pa,2,0.6003,0.5392,1.85,1.95,1.84,-0.0096,1.012,1.65-1.85
+BKN @ NOP,NOP win + Day'Ron Sharpe 6+ reb,2,0.5484,0.4698,2.13,2.23,2.11,-0.0103,1.003,2.10-2.50
+BKN @ NOP,NOP win + Saddiq Bey 10+ pr,2,0.6357,0.5666,1.76,1.85,1.74,-0.014,1.006,1.65-1.85
+BKN @ NOP,NOP win + Derik Queen 4+ reb,2,0.5891,0.5079,1.97,2.07,1.94,-0.0159,0.999,1.85-2.10
+BKN @ NOP,NOP win + Zion Williamson 4+ reb,2,0.5611,0.4911,2.04,2.14,2.0,-0.0161,1.001,1.85-2.10
+BKN @ NOP,NOP win + Michael Porter Jr. 4+ reb,2,0.6021,0.5416,1.85,1.94,1.81,-0.0216,1.0,1.65-1.85
+BKN @ NOP,NOP win + Dejounte Murray 4+ ast + Herbert Jones 5+ pa,3,0.5241,0.4203,2.38,2.5,2.29,-0.0393,1.031,2.10-2.50
+BKN @ NOP,NOP win + Dejounte Murray 4+ ast + Saddiq Bey 10+ pr,3,0.5551,0.4416,2.26,2.38,2.17,-0.0436,1.025,2.10-2.50
 BKN @ NOP,Dejounte Murray 4+ ast + Day'Ron Sharpe 6+ reb,2,0.7114,0.5782,1.73,1.82,1.56,-0.0954,1.001,1.50-1.65
 BKN @ NOP,Day'Ron Sharpe 6+ reb + Zion Williamson 4+ reb,2,0.7041,0.5964,1.68,1.76,1.5,-0.1035,1.0,1.50-1.65
 BKN @ NOP,Day'Ron Sharpe 6+ reb + Dejounte Murray 4+ reb,2,0.6716,0.5779,1.73,1.82,1.55,-0.1045,1.001,1.50-1.65
@@ -87,18 +86,18 @@ ORL @ UTA,ORL win + Desmond Bane 15+ pr,2,0.5691,0.532,1.88,1.97,1.76,-0.0661,1.
 ORL @ UTA,ORL win + Desmond Bane 10+ pts,2,0.5891,0.5482,1.82,1.92,1.7,-0.0667,1.009,1.65-1.85
 ORL @ UTA,ORL win + Wendell Carter Jr. 15+ pra,2,0.5639,0.534,1.87,1.97,1.75,-0.068,1.011,1.65-1.85
 ORL @ UTA,Darryn Peterson ra under 9.5 + Desmond Bane 10+ pts,2,0.67,0.4779,2.09,2.2,1.94,-0.0728,1.0,1.85-2.10
-GSW @ HOU,HOU win + Al Horford 3pm under 1.5,2,0.5859,0.4579,2.18,2.29,2.12,-0.0294,1.018,2.10-2.50
+GSW @ HOU,HOU win + Al Horford 3pm under 1.5,2,0.5859,0.4568,2.19,2.3,2.13,-0.029,1.018,2.10-2.50
 GSW @ HOU,HOU win + Jabari Smith Jr. 20+ pra,2,0.5388,0.4563,2.19,2.3,2.11,-0.0353,1.027,2.10-2.50
-GSW @ HOU,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pr,2,0.6128,0.3994,2.5,2.63,2.38,-0.0499,1.005,2.10-2.50
-GSW @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.6164,0.5463,1.83,1.92,1.73,-0.0546,1.014,1.65-1.85
+GSW @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5914,0.52,1.92,2.02,1.83,-0.0477,1.02,1.65-1.85
+GSW @ HOU,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pr,2,0.6128,0.3988,2.51,2.63,2.38,-0.0497,1.005,2.10-2.50
+GSW @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.6164,0.5456,1.83,1.92,1.73,-0.0544,1.014,1.65-1.85
 GSW @ HOU,GSW +6.5 + Yaxel Lendeborg 15+ pr,2,0.4649,0.4496,2.22,2.34,2.09,-0.0611,1.014,1.85-2.10
-GSW @ HOU,HOU win + Tari Eason 10+ pra,2,0.5879,0.5373,1.86,1.95,1.74,-0.0626,1.011,1.65-1.85
-GSW @ HOU,HOU win + Tari Eason 5+ pa,2,0.6252,0.5721,1.75,1.84,1.63,-0.0648,1.009,1.50-1.65
+GSW @ HOU,HOU win + Tari Eason 5+ pa,2,0.6252,0.5732,1.74,1.83,1.63,-0.0651,1.009,1.50-1.65
+GSW @ HOU,HOU win + Kevin Durant 1+ 3pm,2,0.5908,0.5464,1.83,1.92,1.71,-0.0676,1.007,1.65-1.85
 GSW @ HOU,game over 221.5 + Yaxel Lendeborg 15+ pr,2,0.5625,0.4522,2.21,2.32,2.06,-0.0681,1.022,1.85-2.10
 GSW @ HOU,HOU win + Jabari Smith Jr. 1+ 3pm,2,0.6296,0.5785,1.73,1.82,1.61,-0.0682,1.006,1.50-1.65
 GSW @ HOU,game over 221.5 + Yaxel Lendeborg 10+ pts,2,0.5579,0.4466,2.24,2.35,2.09,-0.0686,1.021,1.85-2.10
 GSW @ HOU,HOU win + Jabari Smith Jr. 4+ reb,2,0.6194,0.5703,1.75,1.84,1.62,-0.0738,1.0,1.50-1.65
-GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 15+ pr,2,0.7472,0.5418,1.85,1.94,1.7,-0.0796,0.998,1.65-1.85
 OKC @ POR,Damian Lillard pts under 19.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5862,0.3875,2.58,2.71,2.42,-0.0615,0.999,2.10-2.50
 OKC @ POR,game over 226.5 + Isaiah Hartenstein 10+ pr,2,0.3925,0.4397,2.27,2.39,2.13,-0.0639,1.019,2.10-2.50
 OKC @ POR,Damian Lillard pr under 23.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5907,0.3967,2.52,2.65,2.36,-0.0641,1.0,2.10-2.50
