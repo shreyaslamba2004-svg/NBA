@@ -1,27 +1,27 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909964,SAC,1630173,Precious Achiuwa,Starting,,1.0,,,1.0
-401909964,SAC,905142620,Darius Acuff Jr.,Starting,,1.0,,,1.0
+401909964,SAC,1630173,Precious Achiuwa,,,1.0,,,
+401909964,SAC,905142620,Darius Acuff Jr.,,,1.0,,,
 401909964,SAC,1641778,Leaky Black,,,1.0,,,
 401909964,SAC,1642928,Dylan Cardwell,,,1.0,,,
-401909964,SAC,1629631,De'Andre Hunter,Starting,,1.0,,,1.0
+401909964,SAC,1629631,De'Andre Hunter,,,1.0,,,
 401909964,SAC,904917149,Alex Karaban,,,1.0,,,
-401909964,SAC,203897,Zach LaVine,Starting,,1.0,,,1.0
+401909964,SAC,203897,Zach LaVine,,,1.0,,,
 401909964,SAC,905107897,Jonathan Mogbo,Out,GLeague-Two-Way,0.0,,,
 401909964,SAC,1628370,Malik Monk,,,1.0,,,
 401909964,SAC,1631099,Keegan Murray,Available,-,1.0,,,
 401909964,SAC,904709131,Sean Pedulla,Out,GLeague-Two-Way,0.0,,,
 401909964,SAC,1631342,Daeqwon Plowden,,,1.0,,,
 401909964,SAC,1642875,Maxime Raynaud,Out,,0.0,Raynaud (knee) has been ruled out for Tuesday's game against Orlando.,,
-401909964,SAC,1627734,Domantas Sabonis,Starting,-,1.0,,,1.0
+401909964,SAC,1627734,Domantas Sabonis,Available,-,1.0,,,
 401909964,SAC,905106058,Emanuel Sharp,,,1.0,,,
 401909964,SAC,1627732,Ben Simmons,Out,,0.0,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",,
 401909964,ORL,1631094,Paolo Banchero,Out,,0.0,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",,
-401909964,ORL,1630217,Desmond Bane,Starting,,1.0,,,1.0
+401909964,ORL,1630217,Desmond Bane,,,1.0,,,
 401909964,ORL,1629048,Goga Bitadze,,,1.0,,,
-401909964,ORL,1641710,Anthony Black,Starting,,1.0,,,1.0
-401909964,ORL,1631288,Jamal Cain,Starting,,1.0,,,1.0
+401909964,ORL,1641710,Anthony Black,,,1.0,,,
+401909964,ORL,1631288,Jamal Cain,,,1.0,,,
 401909964,ORL,1628975,Jevon Carter,,,1.0,,,
-401909964,ORL,1628976,Wendell Carter Jr.,Starting,,1.0,,,1.0
+401909964,ORL,1628976,Wendell Carter Jr.,,,1.0,,,
 401909964,ORL,1630658,Colin Castleton,,,1.0,,,
 401909964,ORL,1641783,Tristan da Silva,Out,"Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",0.0,"Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",,
 401909964,ORL,1628371,Jonathan Isaac,Out,,0.0,Isaac (knee) is out for Tuesday's game against Sacramento.,,
@@ -31,7 +31,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909964,ORL,1642859,Jase Richardson,,,1.0,,,
 401909964,ORL,1630591,Jalen Suggs,Out,,0.0,Suggs (knee) has been ruled out for Tuesday's game against the Kings.,,
 401909964,ORL,202696,Nikola Vucevic,,,1.0,,,
-401909964,ORL,1630532,Franz Wagner,Starting,,1.0,,,1.0
+401909964,ORL,1630532,Franz Wagner,,,1.0,,,
 401909965,POR,1630166,Deni Avdija,,,1.0,,,
 401909965,POR,1641739,Toumani Camara,,,1.0,,,
 401909965,POR,904592435,Branden Carlson,,,1.0,,,
