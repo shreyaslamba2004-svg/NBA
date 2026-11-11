@@ -31,15 +31,15 @@ SAS @ CHI,Julian Champagnie 3pm under 2.5 + Jalen Smith 10+ pr,2,0.6807,0.5216,1
 SAS @ CHI,SAS win + Victor Wembanyama 8+ reb + Stephon Castle 1+ 3pm,3,0.5717,0.5678,1.76,1.85,1.51,-0.1401,1.005,1.50-1.65
 SAS @ CHI,SAS win + Josh Giddey 4+ reb + Stephon Castle 1+ 3pm,3,0.5677,0.5682,1.76,1.85,1.51,-0.1422,1.004,1.50-1.65
 SAS @ CHI,SAS win + Matas Buzelis 1+ 3pm + Stephon Castle 1+ 3pm,3,0.5429,0.5469,1.83,1.92,1.56,-0.1482,0.998,1.50-1.65
-DEN @ MEM,DEN win + Nikola Jokic 25+ pa,2,0.5135,0.5171,1.93,2.03,1.84,-0.051,1.031,1.65-1.85
 DEN @ MEM,DEN win + Aaron Gordon 15+ pra,2,0.4784,0.4819,2.08,2.18,1.96,-0.0561,1.026,1.85-2.10
-DEN @ MEM,DEN win + Christian Braun 10+ pr,2,0.5126,0.512,1.95,2.05,1.83,-0.0632,1.017,1.65-1.85
-DEN @ MEM,DEN win + Jamal Murray 2+ 3pm,2,0.4791,0.4756,2.1,2.21,1.97,-0.0649,1.014,1.85-2.10
-DEN @ MEM,DEN win + Nikola Jokic 6+ ast,2,0.5292,0.5249,1.91,2.0,1.78,-0.0656,1.013,1.65-1.85
-DEN @ MEM,DEN -3.5 + Nikola Jokic 25+ pa,2,0.4276,0.4415,2.27,2.38,2.11,-0.0669,1.032,2.10-2.50
+DEN @ MEM,DEN win + Christian Braun 10+ pr,2,0.5126,0.5069,1.97,2.07,1.85,-0.0616,1.017,1.85-2.10
+DEN @ MEM,DEN win + Jamal Murray 2+ 3pm,2,0.4791,0.4773,2.1,2.2,1.96,-0.0654,1.014,1.85-2.10
+DEN @ MEM,DEN win + Nikola Jokic 6+ ast,2,0.5292,0.5253,1.9,2.0,1.78,-0.0657,1.013,1.65-1.85
+DEN @ MEM,DEN win + Christian Braun 10+ pra,2,0.5445,0.5382,1.86,1.95,1.73,-0.0677,1.01,1.65-1.85
+DEN @ MEM,DEN win + Nikola Jokic 20+ pa,2,0.5527,0.5536,1.81,1.9,1.68,-0.0691,1.011,1.65-1.85
 DEN @ MEM,DEN -3.5 + Aaron Gordon 15+ pra,2,0.3985,0.4116,2.43,2.55,2.26,-0.0716,1.027,2.10-2.50
-DEN @ MEM,DEN -3.5 + Jamal Murray 2+ 3pm,2,0.3995,0.4067,2.46,2.58,2.26,-0.0792,1.016,2.10-2.50
-DEN @ MEM,DEN -3.5 + Nikola Jokic 6+ ast,2,0.4412,0.4487,2.23,2.34,2.05,-0.0801,1.015,1.85-2.10
+DEN @ MEM,game over 230.5 + Aaron Gordon 15+ pra,2,0.568,0.4,2.5,2.63,2.31,-0.075,1.029,2.10-2.50
+DEN @ MEM,DEN -3.5 + Christian Braun 10+ pr,2,0.4267,0.4326,2.31,2.43,2.13,-0.0777,1.017,2.10-2.50
 LAL @ MIL,Kel'el Ware pts under 10.5 + LAL win,2,0.5678,0.4219,2.37,2.49,2.33,-0.0162,1.018,2.10-2.50
 LAL @ MIL,Kel'el Ware pr under 19.5 + LAL win,2,0.6242,0.4569,2.19,2.3,2.14,-0.0209,1.01,2.10-2.50
 LAL @ MIL,game over 230.5 + Kyle Kuzma 15+ pra,2,0.3845,0.396,2.53,2.65,2.43,-0.0373,1.057,2.10-2.50
@@ -52,18 +52,16 @@ LAL @ MIL,Jaime Jaquez Jr. 3+ ast + Jake LaRavia 5+ pr,2,0.6824,0.5176,1.93,2.03
 LAL @ MIL,Kyle Kuzma 15+ pra + Luka Doncic 1+ stl,2,0.6843,0.5948,1.68,1.77,1.5,-0.1063,1.001,1.50-1.65
 LAL @ MIL,LAL win + Luka Doncic 3+ 3pm + Matisse Thybulle 1+ stl,3,0.5544,0.5482,1.82,1.92,1.57,-0.1391,1.012,1.50-1.65
 LAL @ MIL,LAL win + Luka Doncic 3+ 3pm + Walker Kessler 8+ reb,3,0.5416,0.5337,1.87,1.97,1.61,-0.1396,1.011,1.50-1.65
-BKN @ NOP,NOP win + Dejounte Murray 4+ ast,2,0.5751,0.4749,2.11,2.21,2.09,-0.0081,1.018,1.85-2.10
-BKN @ NOP,NOP win + Saddiq Bey 10+ pts,2,0.571,0.5034,1.99,2.09,1.96,-0.0152,1.022,1.85-2.10
-BKN @ NOP,NOP win + Herbert Jones 5+ pa,2,0.6003,0.5354,1.87,1.96,1.82,-0.0265,1.012,1.65-1.85
+BKN @ NOP,NOP win + Saddiq Bey 10+ pts,2,0.571,0.5045,1.98,2.08,1.95,-0.0155,1.022,1.85-2.10
+BKN @ NOP,NOP win + Herbert Jones 5+ pa,2,0.6003,0.5392,1.85,1.95,1.8,-0.0276,1.012,1.65-1.85
+BKN @ NOP,NOP win + Day'Ron Sharpe 6+ reb,2,0.5484,0.4709,2.12,2.23,2.06,-0.0288,1.003,1.85-2.10
 BKN @ NOP,NOP win + Saddiq Bey 10+ pr,2,0.6357,0.5651,1.77,1.86,1.71,-0.0316,1.006,1.65-1.85
-BKN @ NOP,NOP win + Julius Randle 4+ reb,2,0.5972,0.5217,1.92,2.01,1.85,-0.0331,1.002,1.85-2.10
-BKN @ NOP,NOP win + Day'Ron Sharpe 4+ reb,2,0.6265,0.554,1.8,1.9,1.74,-0.0349,1.002,1.65-1.85
-BKN @ NOP,NOP win + Dejounte Murray 4+ ast + Saddiq Bey 10+ pts,3,0.4986,0.3858,2.59,2.72,2.48,-0.0418,1.041,2.10-2.50
-BKN @ NOP,Derik Queen 17+ pr + Dejounte Murray 4+ ast,2,0.5763,0.3806,2.63,2.76,2.49,-0.0522,1.009,2.10-2.50
-BKN @ NOP,NOP win + Dejounte Murray 4+ ast + Herbert Jones 5+ pa,3,0.5241,0.4103,2.44,2.56,2.31,-0.0528,1.031,2.10-2.50
-BKN @ NOP,Dejounte Murray 4+ ast + Saddiq Bey 10+ pts,2,0.7287,0.5993,1.67,1.75,1.51,-0.0953,1.003,1.50-1.65
-BKN @ NOP,Dejounte Murray 4+ ast + Zion Williamson 4+ reb,2,0.7294,0.599,1.67,1.75,1.51,-0.0969,1.001,1.50-1.65
-BKN @ NOP,Dejounte Murray 4+ ast + Derik Queen 4+ reb + Herbert Jones 5+ pa,3,0.6935,0.5267,1.9,1.99,1.63,-0.1417,1.006,1.50-1.65
+BKN @ NOP,NOP win + Julius Randle 4+ reb,2,0.5972,0.5229,1.91,2.01,1.85,-0.0334,1.002,1.65-1.85
+BKN @ NOP,NOP win + Derik Queen 4+ reb,2,0.5891,0.507,1.97,2.07,1.91,-0.0335,0.999,1.85-2.10
+BKN @ NOP,Derik Queen 19+ pra + Saddiq Bey 10+ pts,2,0.6083,0.4343,2.3,2.42,2.17,-0.059,1.014,2.10-2.50
+BKN @ NOP,Derik Queen 17+ pr + Saddiq Bey 10+ pts,2,0.5721,0.4073,2.46,2.58,2.31,-0.0611,1.013,2.10-2.50
+BKN @ NOP,Dejounte Murray 11+ ra + Saddiq Bey 10+ pts,2,0.5599,0.3938,2.54,2.67,2.38,-0.0611,1.008,2.10-2.50
+BKN @ NOP,Day'Ron Sharpe 6+ reb + Derik Queen 4+ reb + Julius Randle 4+ reb,3,0.6712,0.5215,1.92,2.01,1.63,-0.1488,1.001,1.50-1.65
 ORL @ UTA,ORL -4.5 + Wendell Carter Jr. 10+ pa,2,0.4291,0.4044,2.47,2.6,2.39,-0.0318,1.036,2.10-2.50
 ORL @ UTA,ORL -4.5 + Desmond Bane 2+ 3pm,2,0.4135,0.3941,2.54,2.66,2.41,-0.0497,1.019,2.10-2.50
 ORL @ UTA,ORL win + Wendell Carter Jr. 10+ pa,2,0.5269,0.4929,2.03,2.13,1.93,-0.0505,1.028,1.85-2.10
