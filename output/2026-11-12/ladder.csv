@@ -8,13 +8,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,pts,24.5,False,0.4337,0.4054,est,0.4092
 401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,pts,25.5,False,0.3968,0.3694,est,0.373
 401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,pts,26.5,False,0.3566,0.3304,est,0.3339
-401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,3.5,False,0.8714,0.882,est,0.8806
-401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,4.5,False,0.7587,0.7531,book,0.7538
-401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,5.5,False,0.6264,0.635,book,0.6339
-401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,6.5,True,0.4852,0.5098,book,0.5065
+401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,3.5,False,0.8714,0.8472,book,0.8504
+401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,4.5,False,0.7587,0.7542,book,0.7548
+401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,5.5,False,0.6264,0.636,book,0.6347
+401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,6.5,True,0.4852,0.5088,book,0.5057
 401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,7.5,False,0.349,0.383,book,0.3785
-401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,8.5,False,0.2421,0.2606,est,0.2582
-401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,9.5,False,0.157,0.1892,book,0.185
+401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,8.5,False,0.2421,0.2599,est,0.2575
+401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,reb,9.5,False,0.157,0.19,book,0.1856
 401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,ast,0.5,False,0.9817,0.9681,est,0.9699
 401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,ast,1.5,False,0.9152,0.8594,est,0.8668
 401909976,TOR @ PHI,PHI,1627759,Jaylen Brown,ast,2.5,False,0.7929,0.6713,book,0.6873
@@ -148,13 +148,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,reb,6.5,False,0.3917,0.4135,book,0.4106
 401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,reb,7.5,False,0.2708,0.2777,est,0.2768
 401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,reb,8.5,False,0.1714,0.1765,est,0.1758
-401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,0.5,False,0.9696,0.9554,est,0.9572
-401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,1.5,False,0.866,0.8126,est,0.8196
-401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,2.5,False,0.6986,0.6086,est,0.6205
-401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,3.5,True,0.5032,0.4046,book,0.4176
-401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,4.5,False,0.3247,0.2459,book,0.2563
-401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,5.5,False,0.1914,0.1425,book,0.149
-401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,6.5,False,0.1055,0.0733,est,0.0776
+401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,0.5,False,0.9696,0.9552,est,0.9571
+401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,1.5,False,0.866,0.812,est,0.8192
+401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,2.5,False,0.6986,0.6078,est,0.6198
+401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,3.5,True,0.5032,0.4037,book,0.4168
+401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,4.5,False,0.3247,0.2447,book,0.2553
+401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,5.5,False,0.1914,0.1418,book,0.1483
+401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,ast,6.5,False,0.1055,0.0731,est,0.0774
 401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,fg3m,0.5,False,0.8507,0.8364,est,0.8383
 401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,fg3m,1.5,True,0.5629,0.536,book,0.5395
 401909976,TOR @ PHI,PHI,1642845,VJ Edgecombe,fg3m,2.5,False,0.284,0.2624,est,0.2652
@@ -330,10 +330,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,ast,6.5,False,0.4058,0.421,book,0.419
 401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,ast,7.5,False,0.2834,0.2965,est,0.2948
 401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,ast,8.5,False,0.1896,0.2041,book,0.2022
-401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,0.5,False,0.927,0.8986,book,0.9023
-401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,1.5,False,0.739,0.7622,est,0.7591
+401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,0.5,False,0.927,0.8972,book,0.9011
+401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,1.5,False,0.739,0.745,book,0.7442
 401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,2.5,True,0.4981,0.5291,book,0.525
-401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,3.5,False,0.2876,0.3256,book,0.3206
+401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,3.5,False,0.2876,0.3245,book,0.3196
 401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,fg3m,4.5,False,0.14,0.1804,book,0.1751
 401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,stl,0.5,False,0.7501,,model only,0.7501
 401909976,TOR @ PHI,PHI,1630178,Tyrese Maxey,stl,1.5,False,0.4226,,model only,0.4226
@@ -777,11 +777,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909976,TOR @ PHI,TOR,1629628,RJ Barrett,ast,5.5,False,0.2919,,model only,0.2919
 401909976,TOR @ PHI,TOR,1629628,RJ Barrett,ast,6.5,False,0.1758,,model only,0.1758
 401909976,TOR @ PHI,TOR,1629628,RJ Barrett,ast,7.5,False,0.1001,,model only,0.1001
-401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,0.5,False,0.8556,,model only,0.8556
-401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,1.5,False,0.5953,,model only,0.5953
-401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,2.5,False,0.3308,,model only,0.3308
-401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,3.5,False,0.1552,,model only,0.1552
-401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,4.5,False,0.0594,,model only,0.0594
+401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,0.5,False,0.8556,0.7754,est,0.786
+401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,1.5,True,0.5953,0.4616,book,0.4792
+401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,2.5,False,0.3308,0.2237,est,0.2378
+401909976,TOR @ PHI,TOR,1629628,RJ Barrett,fg3m,3.5,False,0.1552,0.0967,est,0.1044
 401909976,TOR @ PHI,TOR,1629628,RJ Barrett,stl,0.5,False,0.5272,,model only,0.5272
 401909976,TOR @ PHI,TOR,1629628,RJ Barrett,stl,1.5,False,0.1887,,model only,0.1887
 401909976,TOR @ PHI,TOR,1629628,RJ Barrett,stl,2.5,False,0.0488,,model only,0.0488
@@ -1173,11 +1172,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,ast,7.5,False,0.3064,,model only,0.3064
 401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,ast,8.5,False,0.2082,,model only,0.2082
 401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,ast,9.5,False,0.1369,,model only,0.1369
-401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,0.5,False,0.9102,,model only,0.9102
-401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,1.5,False,0.7022,,model only,0.7022
-401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,2.5,False,0.4512,,model only,0.4512
-401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,3.5,False,0.2336,,model only,0.2336
-401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,4.5,False,0.1028,,model only,0.1028
+401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,0.5,False,0.9102,0.9127,est,0.9123
+401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,1.5,False,0.7022,0.7087,est,0.7078
+401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,2.5,True,0.4512,0.4589,book,0.4579
+401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,3.5,False,0.2336,0.2392,est,0.2385
+401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,fg3m,4.5,False,0.1028,0.1057,est,0.1053
 401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,stl,0.5,False,0.6786,,model only,0.6786
 401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,stl,1.5,False,0.3288,,model only,0.3288
 401909976,TOR @ PHI,TOR,1630193,Immanuel Quickley,stl,2.5,False,0.126,,model only,0.126
@@ -1308,11 +1307,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,ast,3.5,False,0.1819,,model only,0.1819
 401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,ast,4.5,False,0.0814,,model only,0.0814
 401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,ast,5.5,False,0.032,,model only,0.032
-401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.8816,,model only,0.8816
-401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.6125,,model only,0.6125
-401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,False,0.321,,model only,0.321
-401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.1279,,model only,0.1279
-401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.041,,model only,0.041
+401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.8816,0.9227,est,0.9173
+401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.6125,0.7171,est,0.7033
+401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,True,0.321,0.4312,book,0.4167
+401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.1279,0.1903,est,0.1821
+401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.041,0.0641,est,0.0611
 401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,stl,0.5,False,0.7202,,model only,0.7202
 401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,stl,1.5,False,0.38,,model only,0.38
 401909976,TOR @ PHI,TOR,1642266,Ja'Kobe Walter,stl,2.5,False,0.1606,,model only,0.1606
@@ -1964,21 +1963,21 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1628381,John Collins,pts,14.5,False,0.3421,0.3581,book,0.356
 401909977,DET @ WAS,DET,1628381,John Collins,pts,15.5,False,0.2869,0.2989,est,0.2973
 401909977,DET @ WAS,DET,1628381,John Collins,pts,16.5,False,0.2364,0.247,est,0.2456
-401909977,DET @ WAS,DET,1628381,John Collins,reb,3.5,False,0.8655,0.8496,book,0.8517
-401909977,DET @ WAS,DET,1628381,John Collins,reb,4.5,False,0.7577,0.7592,book,0.759
-401909977,DET @ WAS,DET,1628381,John Collins,reb,5.5,False,0.6338,0.6425,book,0.6414
-401909977,DET @ WAS,DET,1628381,John Collins,reb,6.5,True,0.5028,0.5126,book,0.5113
-401909977,DET @ WAS,DET,1628381,John Collins,reb,7.5,False,0.3786,0.3878,book,0.3866
-401909977,DET @ WAS,DET,1628381,John Collins,reb,8.5,False,0.272,0.279,book,0.2781
-401909977,DET @ WAS,DET,1628381,John Collins,reb,9.5,False,0.1874,0.1903,book,0.1899
-401909977,DET @ WAS,DET,1628381,John Collins,ast,0.5,False,0.6925,0.7536,est,0.7455
-401909977,DET @ WAS,DET,1628381,John Collins,ast,1.5,True,0.3461,0.4182,book,0.4087
-401909977,DET @ WAS,DET,1628381,John Collins,ast,2.5,False,0.1362,0.19,book,0.1829
-401909977,DET @ WAS,DET,1628381,John Collins,ast,3.5,False,0.0428,0.0806,book,0.0756
+401909977,DET @ WAS,DET,1628381,John Collins,reb,3.5,False,0.8655,0.8554,book,0.8567
+401909977,DET @ WAS,DET,1628381,John Collins,reb,4.5,False,0.7577,0.7612,book,0.7607
+401909977,DET @ WAS,DET,1628381,John Collins,reb,5.5,False,0.6338,0.6443,book,0.6429
+401909977,DET @ WAS,DET,1628381,John Collins,reb,6.5,True,0.5028,0.5164,book,0.5146
+401909977,DET @ WAS,DET,1628381,John Collins,reb,7.5,False,0.3786,0.3894,book,0.388
+401909977,DET @ WAS,DET,1628381,John Collins,reb,8.5,False,0.272,0.2798,book,0.2788
+401909977,DET @ WAS,DET,1628381,John Collins,reb,9.5,False,0.1874,0.1923,book,0.1917
+401909977,DET @ WAS,DET,1628381,John Collins,ast,0.5,False,0.6925,0.7557,est,0.7474
+401909977,DET @ WAS,DET,1628381,John Collins,ast,1.5,True,0.3461,0.421,book,0.4111
+401909977,DET @ WAS,DET,1628381,John Collins,ast,2.5,False,0.1362,0.1972,book,0.1891
+401909977,DET @ WAS,DET,1628381,John Collins,ast,3.5,False,0.0428,0.082,book,0.0768
 401909977,DET @ WAS,DET,1628381,John Collins,ast,4.5,False,0.0111,0.0406,book,0.0367
-401909977,DET @ WAS,DET,1628381,John Collins,fg3m,0.5,True,0.6711,0.6374,book,0.6418
-401909977,DET @ WAS,DET,1628381,John Collins,fg3m,1.5,False,0.3035,0.3084,book,0.3078
-401909977,DET @ WAS,DET,1628381,John Collins,fg3m,2.5,False,0.0973,0.1214,book,0.1182
+401909977,DET @ WAS,DET,1628381,John Collins,fg3m,0.5,True,0.6711,0.6336,book,0.6385
+401909977,DET @ WAS,DET,1628381,John Collins,fg3m,1.5,False,0.3035,0.3005,book,0.3009
+401909977,DET @ WAS,DET,1628381,John Collins,fg3m,2.5,False,0.0973,0.1198,book,0.1168
 401909977,DET @ WAS,DET,1628381,John Collins,stl,0.5,False,0.6022,,model only,0.6022
 401909977,DET @ WAS,DET,1628381,John Collins,stl,1.5,False,0.2489,,model only,0.2489
 401909977,DET @ WAS,DET,1628381,John Collins,stl,2.5,False,0.0796,,model only,0.0796
@@ -2220,15 +2219,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1641842,Ronald Holland II,ra,5.5,False,0.353,,model only,0.353
 401909977,DET @ WAS,DET,1641842,Ronald Holland II,ra,6.5,False,0.2485,,model only,0.2485
 401909977,DET @ WAS,DET,1641842,Ronald Holland II,ra,7.5,False,0.1675,,model only,0.1675
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,4.5,False,0.9338,0.864,est,0.8732
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,5.5,False,0.8908,0.7862,est,0.8
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,6.5,False,0.8308,0.6889,est,0.7076
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,7.5,False,0.7634,0.5926,est,0.6151
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,8.5,True,0.69,0.5009,book,0.5259
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,9.5,False,0.6111,0.4146,est,0.4406
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,10.5,False,0.5363,0.3428,est,0.3683
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,11.5,False,0.4639,0.2806,est,0.3048
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,12.5,False,0.397,0.2289,est,0.2511
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,4.5,False,0.9338,0.8672,est,0.876
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,5.5,False,0.8908,0.7908,est,0.804
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,6.5,False,0.8308,0.6948,est,0.7127
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,7.5,False,0.7634,0.5992,est,0.6209
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,8.5,True,0.69,0.5078,book,0.5319
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,9.5,False,0.6111,0.4214,est,0.4464
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,10.5,False,0.5363,0.349,est,0.3737
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,11.5,False,0.4639,0.2862,est,0.3097
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,pts,12.5,False,0.397,0.2338,est,0.2553
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,reb,0.5,False,0.9648,,model only,0.9648
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,reb,1.5,False,0.855,,model only,0.855
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,reb,2.5,False,0.6839,,model only,0.6839
@@ -2243,10 +2242,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,ast,4.5,False,0.2663,,model only,0.2663
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,ast,5.5,False,0.1501,,model only,0.1501
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,ast,6.5,False,0.0754,,model only,0.0754
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,0.5,False,0.8236,0.7582,book,0.7668
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,1.5,True,0.5028,0.4593,book,0.465
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,2.5,False,0.2285,0.2291,book,0.229
-401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,3.5,False,0.0795,0.1038,book,0.1006
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,0.5,False,0.8236,0.7559,book,0.7648
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,1.5,True,0.5028,0.4627,book,0.468
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,2.5,False,0.2285,0.2325,book,0.232
+401909977,DET @ WAS,DET,1628989,Kevin Huerter,fg3m,3.5,False,0.0795,0.105,book,0.1016
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,stl,0.5,False,0.697,,model only,0.697
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,stl,1.5,False,0.3595,,model only,0.3595
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,stl,2.5,False,0.1516,,model only,0.1516
@@ -2288,15 +2287,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,ra,8.5,False,0.2997,,model only,0.2997
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,ra,9.5,False,0.2087,,model only,0.2087
 401909977,DET @ WAS,DET,1628989,Kevin Huerter,ra,10.5,False,0.1387,,model only,0.1387
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,10.5,False,0.6825,0.7247,est,0.7191
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,11.5,False,0.616,0.6407,book,0.6374
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,12.5,False,0.5509,0.6003,est,0.5938
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,13.5,False,0.4859,0.5364,est,0.5297
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,14.5,True,0.4242,0.4742,book,0.4676
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,15.5,False,0.3662,0.4143,est,0.408
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,16.5,False,0.314,0.3592,est,0.3532
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,17.5,False,0.2655,0.3147,book,0.3082
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,18.5,False,0.222,0.259,est,0.2541
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,10.5,False,0.6825,0.7219,est,0.7167
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,11.5,False,0.616,0.6398,book,0.6367
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,12.5,False,0.5509,0.5969,est,0.5909
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,13.5,False,0.4859,0.5329,est,0.5267
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,14.5,True,0.4242,0.4707,book,0.4646
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,15.5,False,0.3662,0.4109,est,0.405
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,16.5,False,0.314,0.356,est,0.3504
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,17.5,False,0.2655,0.3095,book,0.3037
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pts,18.5,False,0.222,0.2563,est,0.2517
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,reb,0.5,False,0.9667,0.9565,est,0.9579
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,reb,1.5,False,0.8664,0.8308,est,0.8355
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,reb,2.5,False,0.7046,0.6311,book,0.6408
@@ -2304,13 +2303,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,reb,4.5,False,0.3306,0.2815,book,0.288
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,reb,5.5,False,0.1959,0.1663,book,0.1702
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,reb,6.5,False,0.1061,0.0944,book,0.0959
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,1.5,False,0.9527,0.9353,est,0.9376
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,2.5,False,0.8748,0.8178,book,0.8253
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,3.5,False,0.7529,0.6867,book,0.6954
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,4.5,True,0.6091,0.5282,book,0.5389
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,5.5,False,0.4593,0.3723,book,0.3838
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,6.5,False,0.3277,0.2486,book,0.259
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,7.5,False,0.2182,0.1547,book,0.1631
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,1.5,False,0.9527,0.9347,est,0.9371
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,2.5,False,0.8748,0.8192,book,0.8265
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,3.5,False,0.7529,0.6813,book,0.6907
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,4.5,True,0.6091,0.5256,book,0.5366
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,5.5,False,0.4593,0.3694,book,0.3813
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,6.5,False,0.3277,0.2403,book,0.2518
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ast,7.5,False,0.2182,0.1483,book,0.1575
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,fg3m,0.5,False,0.7986,0.7734,book,0.7767
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,fg3m,1.5,True,0.4741,0.4906,book,0.4884
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,fg3m,2.5,False,0.2178,0.2603,book,0.2547
@@ -2320,35 +2319,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,stl,2.5,False,0.0989,,model only,0.0989
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,blk,0.5,False,0.2413,,model only,0.2413
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,blk,1.5,False,0.0349,,model only,0.0349
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,17.5,False,0.754,0.7494,est,0.75
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,18.5,False,0.7062,0.701,est,0.7017
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,19.5,False,0.6578,0.6522,est,0.6529
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,20.5,False,0.6061,0.6002,est,0.6009
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,21.5,False,0.5554,0.5492,est,0.55
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,22.5,True,0.5051,0.4989,book,0.4997
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,23.5,False,0.4539,0.4477,est,0.4485
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,24.5,False,0.4096,0.4036,est,0.4044
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,25.5,False,0.3614,0.3556,est,0.3564
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,26.5,False,0.3193,0.3139,est,0.3146
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,27.5,False,0.2772,0.2722,est,0.2728
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,13.5,False,0.7077,0.7269,est,0.7244
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,14.5,False,0.6504,0.6717,est,0.6689
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,15.5,False,0.5919,0.6147,est,0.6117
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,16.5,False,0.5343,0.5579,est,0.5548
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,17.5,True,0.4762,0.4999,book,0.4968
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,18.5,False,0.4232,0.4465,est,0.4434
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,19.5,False,0.3688,0.3912,est,0.3883
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,20.5,False,0.3186,0.3396,est,0.3368
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,21.5,False,0.2749,0.2942,est,0.2917
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,15.5,False,0.6852,0.7008,est,0.6987
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,16.5,False,0.6298,0.6468,est,0.6445
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,17.5,False,0.5716,0.5895,est,0.5871
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,18.5,False,0.5167,0.535,est,0.5325
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,19.5,True,0.4604,0.4787,book,0.4763
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,20.5,False,0.4089,0.4267,est,0.4244
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,21.5,False,0.361,0.3781,est,0.3759
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,22.5,False,0.3137,0.3297,est,0.3276
-401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,23.5,False,0.2719,0.2867,est,0.2847
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,17.5,False,0.754,0.7478,est,0.7486
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,18.5,False,0.7062,0.6993,est,0.7002
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,19.5,False,0.6578,0.6503,est,0.6513
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,20.5,False,0.6061,0.5981,est,0.5992
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,21.5,False,0.5554,0.5471,est,0.5482
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,22.5,True,0.5051,0.4968,book,0.4979
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,23.5,False,0.4539,0.4456,est,0.4467
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,24.5,False,0.4096,0.4015,est,0.4026
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,25.5,False,0.3614,0.3537,est,0.3547
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,26.5,False,0.3193,0.3121,est,0.313
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pra,27.5,False,0.2772,0.2705,est,0.2714
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,13.5,False,0.7077,0.7253,est,0.723
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,14.5,False,0.6504,0.6699,est,0.6673
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,15.5,False,0.5919,0.6128,est,0.61
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,16.5,False,0.5343,0.5559,est,0.5531
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,17.5,True,0.4762,0.4979,book,0.495
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,18.5,False,0.4232,0.4446,est,0.4417
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,19.5,False,0.3688,0.3893,est,0.3866
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,20.5,False,0.3186,0.3378,est,0.3352
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pr,21.5,False,0.2749,0.2926,est,0.2903
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,14.5,False,0.7375,0.7381,est,0.738
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,15.5,False,0.6852,0.6858,est,0.6857
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,16.5,False,0.6298,0.6305,est,0.6304
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,17.5,False,0.5716,0.5723,est,0.5723
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,18.5,True,0.5167,0.5174,book,0.5173
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,19.5,False,0.4604,0.4612,est,0.4611
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,20.5,False,0.4089,0.4096,est,0.4095
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,21.5,False,0.361,0.3617,est,0.3616
+401909977,DET @ WAS,DET,1642450,Daniss Jenkins,pa,22.5,False,0.3137,0.3143,est,0.3142
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ra,5.5,False,0.8484,0.7901,est,0.7978
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ra,6.5,False,0.7622,0.6831,est,0.6936
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ra,7.5,False,0.6609,0.5672,est,0.5796
@@ -2356,15 +2355,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ra,9.5,False,0.4421,0.3477,est,0.3602
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ra,10.5,False,0.3466,0.2629,est,0.274
 401909977,DET @ WAS,DET,1642450,Daniss Jenkins,ra,11.5,False,0.2583,0.1897,est,0.1988
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,6.5,False,0.839,0.8069,est,0.8112
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,7.5,False,0.7784,0.738,est,0.7434
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,8.5,False,0.7127,0.6654,est,0.6717
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,9.5,False,0.6419,0.5897,est,0.5966
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,10.5,True,0.5721,0.5174,book,0.5246
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,11.5,False,0.5016,0.4466,est,0.4539
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,12.5,False,0.436,0.3827,est,0.3897
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,13.5,False,0.3736,0.3235,est,0.3302
-401909977,DET @ WAS,DET,1630194,Paul Reed,pts,14.5,False,0.3189,0.273,est,0.2791
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,6.5,False,0.839,0.8063,est,0.8106
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,7.5,False,0.7784,0.7373,est,0.7427
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,8.5,False,0.7127,0.6645,est,0.6709
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,9.5,False,0.6419,0.5888,est,0.5958
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,10.5,True,0.5721,0.5164,book,0.5238
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,11.5,False,0.5016,0.4456,est,0.453
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,12.5,False,0.436,0.3817,est,0.3889
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,13.5,False,0.3736,0.3227,est,0.3294
+401909977,DET @ WAS,DET,1630194,Paul Reed,pts,14.5,False,0.3189,0.2722,est,0.2784
 401909977,DET @ WAS,DET,1630194,Paul Reed,reb,4.5,False,0.8155,0.7977,book,0.8
 401909977,DET @ WAS,DET,1630194,Paul Reed,reb,5.5,False,0.7167,0.698,book,0.7005
 401909977,DET @ WAS,DET,1630194,Paul Reed,reb,6.5,False,0.6058,0.5845,book,0.5873
@@ -2386,26 +2385,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1630194,Paul Reed,blk,0.5,False,0.6845,,model only,0.6845
 401909977,DET @ WAS,DET,1630194,Paul Reed,blk,1.5,False,0.3432,,model only,0.3432
 401909977,DET @ WAS,DET,1630194,Paul Reed,blk,2.5,False,0.135,,model only,0.135
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,15.5,False,0.7823,0.7374,est,0.7434
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,16.5,False,0.7403,0.6902,est,0.6968
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,17.5,False,0.6946,0.64,est,0.6472
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,18.5,False,0.6452,0.587,est,0.5947
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,19.5,False,0.5967,0.5363,est,0.5443
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,20.5,True,0.5468,0.4853,book,0.4934
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,21.5,False,0.4999,0.4387,est,0.4468
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,22.5,False,0.4538,0.3937,est,0.4016
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,23.5,False,0.4102,0.3522,est,0.3598
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,24.5,False,0.3674,0.3123,est,0.3195
-401909977,DET @ WAS,DET,1630194,Paul Reed,pra,25.5,False,0.3275,0.2757,est,0.2825
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,14.5,False,0.7478,0.7043,est,0.71
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,15.5,False,0.7014,0.6536,est,0.6599
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,16.5,False,0.6488,0.5974,est,0.6042
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,17.5,False,0.5969,0.5433,est,0.5504
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,18.5,True,0.5441,0.4895,book,0.4967
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,19.5,False,0.4937,0.4392,est,0.4464
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,20.5,False,0.4462,0.3929,est,0.4
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,21.5,False,0.3981,0.347,est,0.3537
-401909977,DET @ WAS,DET,1630194,Paul Reed,pr,22.5,False,0.3513,0.3031,est,0.3095
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,15.5,False,0.7823,0.7399,est,0.7455
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,16.5,False,0.7403,0.693,est,0.6992
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,17.5,False,0.6946,0.643,est,0.6498
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,18.5,False,0.6452,0.5901,est,0.5974
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,19.5,False,0.5967,0.5395,est,0.547
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,20.5,True,0.5468,0.4885,book,0.4962
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,21.5,False,0.4999,0.4418,est,0.4495
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,22.5,False,0.4538,0.3967,est,0.4043
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,23.5,False,0.4102,0.3551,est,0.3624
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,24.5,False,0.3674,0.315,est,0.3219
+401909977,DET @ WAS,DET,1630194,Paul Reed,pra,25.5,False,0.3275,0.2783,est,0.2848
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,14.5,False,0.7478,0.7061,est,0.7116
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,15.5,False,0.7014,0.6555,est,0.6616
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,16.5,False,0.6488,0.5995,est,0.606
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,17.5,False,0.5969,0.5454,est,0.5522
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,18.5,True,0.5441,0.4916,book,0.4985
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,19.5,False,0.4937,0.4413,est,0.4482
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,20.5,False,0.4462,0.395,est,0.4017
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,21.5,False,0.3981,0.3489,est,0.3554
+401909977,DET @ WAS,DET,1630194,Paul Reed,pr,22.5,False,0.3513,0.3049,est,0.311
 401909977,DET @ WAS,DET,1630194,Paul Reed,pa,8.5,False,0.8214,0.7814,est,0.7867
 401909977,DET @ WAS,DET,1630194,Paul Reed,pa,9.5,False,0.765,0.7168,est,0.7232
 401909977,DET @ WAS,DET,1630194,Paul Reed,pa,10.5,False,0.7036,0.6486,est,0.6558
@@ -2437,11 +2436,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,reb,3.5,False,0.313,0.2447,book,0.2537
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,reb,4.5,False,0.1653,0.1246,book,0.13
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,reb,5.5,False,0.0788,0.0623,book,0.0645
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,0.5,False,0.9176,0.8875,est,0.8914
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,1.5,False,0.7244,0.6507,est,0.6604
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,2.5,True,0.4877,0.4028,book,0.414
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,3.5,False,0.2817,0.2153,book,0.2241
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,4.5,False,0.1461,0.11,book,0.1148
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,0.5,False,0.9176,0.8882,est,0.8921
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,1.5,False,0.7244,0.6524,est,0.6619
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,2.5,True,0.4877,0.4046,book,0.4156
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,3.5,False,0.2817,0.2204,book,0.2285
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,4.5,False,0.1461,0.1087,book,0.1136
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,ast,5.5,False,0.067,0.0543,book,0.056
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,fg3m,1.5,False,0.8328,0.8341,book,0.8339
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,fg3m,2.5,False,0.6199,0.6728,book,0.6658
@@ -2464,24 +2463,24 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,pra,23.5,False,0.384,0.3393,est,0.3452
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,pra,24.5,False,0.3403,0.2983,est,0.3038
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,pra,25.5,False,0.3006,0.2615,est,0.2667
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,13.5,False,0.7679,0.7489,est,0.7514
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,14.5,False,0.7159,0.6944,est,0.6972
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,15.5,False,0.6627,0.6393,est,0.6424
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,16.5,False,0.6073,0.5824,est,0.5857
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,17.5,True,0.5486,0.5229,book,0.5263
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,18.5,False,0.4976,0.4718,est,0.4752
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,19.5,False,0.4476,0.4222,est,0.4256
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,20.5,False,0.396,0.3716,est,0.3748
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,21.5,False,0.3491,0.326,est,0.3291
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,13.5,False,0.7632,0.7423,est,0.745
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,14.5,False,0.7105,0.6869,est,0.69
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,15.5,False,0.6558,0.63,est,0.6334
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,16.5,False,0.5986,0.5713,est,0.5749
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,17.5,True,0.5435,0.5155,book,0.5192
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,18.5,False,0.4903,0.4622,est,0.466
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,19.5,False,0.4402,0.4127,est,0.4164
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,20.5,False,0.3882,0.3619,est,0.3654
-401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,21.5,False,0.3419,0.317,est,0.3203
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,13.5,False,0.7679,0.7468,est,0.7496
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,14.5,False,0.7159,0.692,est,0.6951
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,15.5,False,0.6627,0.6367,est,0.6401
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,16.5,False,0.6073,0.5797,est,0.5834
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,17.5,True,0.5486,0.5201,book,0.5239
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,18.5,False,0.4976,0.469,est,0.4728
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,19.5,False,0.4476,0.4195,est,0.4232
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,20.5,False,0.396,0.369,est,0.3725
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pr,21.5,False,0.3491,0.3236,est,0.3269
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,13.5,False,0.7632,0.7415,est,0.7444
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,14.5,False,0.7105,0.686,est,0.6892
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,15.5,False,0.6558,0.6291,est,0.6326
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,16.5,False,0.5986,0.5703,est,0.574
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,17.5,True,0.5435,0.5145,book,0.5183
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,18.5,False,0.4903,0.4613,est,0.4651
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,19.5,False,0.4402,0.4118,est,0.4155
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,20.5,False,0.3882,0.3609,est,0.3646
+401909977,DET @ WAS,DET,1629130,Duncan Robinson,pa,21.5,False,0.3419,0.3162,est,0.3196
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,ra,1.5,False,0.96,0.9389,est,0.9417
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,ra,2.5,False,0.8854,0.8317,est,0.8388
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,ra,3.5,False,0.762,0.6719,est,0.6838
@@ -2489,15 +2488,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,ra,5.5,False,0.4587,0.3515,est,0.3656
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,ra,6.5,False,0.3135,0.2261,est,0.2376
 401909977,DET @ WAS,DET,1629130,Duncan Robinson,ra,7.5,False,0.2048,0.1415,est,0.1498
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,6.5,False,0.7835,0.8072,est,0.8041
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,7.5,False,0.7008,0.7274,book,0.7239
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,8.5,False,0.6189,0.6526,est,0.6481
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,9.5,False,0.5381,0.5806,book,0.575
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,10.5,True,0.4574,0.4937,book,0.4889
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,11.5,False,0.3842,0.4347,book,0.428
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,12.5,False,0.3174,0.3497,est,0.3455
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,13.5,False,0.2601,0.2891,est,0.2853
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,14.5,False,0.2105,0.2512,book,0.2458
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,6.5,False,0.7835,0.8171,est,0.8126
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,7.5,False,0.7008,0.7305,book,0.7266
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,8.5,False,0.6189,0.667,est,0.6607
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,9.5,False,0.5381,0.5935,book,0.5862
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,10.5,True,0.4574,0.5098,book,0.5029
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,11.5,False,0.3842,0.4472,book,0.4389
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,12.5,False,0.3174,0.3645,est,0.3583
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,13.5,False,0.2601,0.3025,est,0.2969
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pts,14.5,False,0.2105,0.2547,book,0.2489
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,reb,4.5,False,0.8537,0.8148,book,0.8199
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,reb,5.5,False,0.7613,0.7177,book,0.7234
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,reb,6.5,False,0.6546,0.6032,book,0.61
@@ -2521,35 +2520,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,blk,0.5,False,0.615,,model only,0.615
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,blk,1.5,False,0.2584,,model only,0.2584
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,blk,2.5,False,0.0815,,model only,0.0815
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,17.5,False,0.7574,0.768,est,0.7666
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,18.5,False,0.7075,0.7194,est,0.7179
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,19.5,False,0.6565,0.6652,book,0.6641
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,20.5,False,0.6051,0.619,est,0.6171
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,21.5,False,0.5532,0.5676,est,0.5657
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,22.5,True,0.499,0.5136,book,0.5117
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,23.5,False,0.447,0.4614,est,0.4595
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,24.5,False,0.3972,0.4117,book,0.4098
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,25.5,False,0.3511,0.3645,est,0.3627
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,26.5,False,0.3069,0.3194,est,0.3178
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,27.5,False,0.2662,0.2777,est,0.2762
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,14.5,False,0.7167,0.7115,book,0.7122
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,15.5,False,0.6587,0.6655,est,0.6646
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,16.5,False,0.5981,0.6054,est,0.6044
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,17.5,False,0.536,0.5436,est,0.5426
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,18.5,True,0.4777,0.4853,book,0.4843
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,19.5,False,0.4189,0.4287,book,0.4274
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,20.5,False,0.3641,0.3712,est,0.3702
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,21.5,False,0.3148,0.3215,est,0.3206
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,22.5,False,0.2698,0.2759,est,0.2751
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,11.5,False,0.6952,0.7385,est,0.7328
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,12.5,False,0.6275,0.676,est,0.6696
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,13.5,False,0.5586,0.6104,est,0.6036
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,14.5,False,0.4908,0.5441,est,0.5371
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,15.5,True,0.4236,0.4765,book,0.4695
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,16.5,False,0.3627,0.4134,est,0.4067
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,17.5,False,0.3052,0.3524,est,0.3462
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,18.5,False,0.2548,0.2975,est,0.2919
-401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,19.5,False,0.211,0.2488,est,0.2438
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,17.5,False,0.7574,0.774,est,0.7718
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,18.5,False,0.7075,0.7262,est,0.7237
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,19.5,False,0.6565,0.6735,book,0.6713
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,20.5,False,0.6051,0.6269,est,0.624
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,21.5,False,0.5532,0.5758,est,0.5728
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,22.5,True,0.499,0.522,book,0.519
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,23.5,False,0.447,0.4698,est,0.4668
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,24.5,False,0.3972,0.4191,book,0.4162
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,25.5,False,0.3511,0.3723,est,0.3695
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,26.5,False,0.3069,0.3268,est,0.3242
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pra,27.5,False,0.2662,0.2845,est,0.2821
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,14.5,False,0.7167,0.7136,book,0.714
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,15.5,False,0.6587,0.6748,est,0.6726
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,16.5,False,0.5981,0.6154,est,0.6131
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,17.5,False,0.536,0.554,est,0.5516
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,18.5,True,0.4777,0.4958,book,0.4934
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,19.5,False,0.4189,0.4408,book,0.4379
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,20.5,False,0.3641,0.381,est,0.3788
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,21.5,False,0.3148,0.3307,est,0.3286
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pr,22.5,False,0.2698,0.2843,est,0.2824
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,11.5,False,0.6952,0.7453,est,0.7387
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,12.5,False,0.6275,0.6836,est,0.6762
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,13.5,False,0.5586,0.6188,est,0.6108
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,14.5,False,0.4908,0.5529,est,0.5447
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,15.5,True,0.4236,0.4853,book,0.4772
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,16.5,False,0.3627,0.422,est,0.4141
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,17.5,False,0.3052,0.3605,est,0.3532
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,18.5,False,0.2548,0.3049,est,0.2983
+401909977,DET @ WAS,DET,1641709,Ausar Thompson,pa,19.5,False,0.211,0.2555,est,0.2496
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,ra,8.5,False,0.8017,0.7858,est,0.7879
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,ra,9.5,False,0.7287,0.7091,est,0.7117
 401909977,DET @ WAS,DET,1641709,Ausar Thompson,ra,10.5,False,0.642,0.6194,est,0.6224
