@@ -23,18 +23,18 @@ DET @ WAS,DET win + Anthony Davis 8+ reb,2,0.6242,0.5923,1.69,1.77,1.55,-0.0808,
 DET @ WAS,Ausar Thompson 7+ reb + Kyshawn George 10+ pr,2,0.6185,0.4994,2.0,2.1,1.82,-0.0899,1.001,1.65-1.85
 DET @ WAS,Cade Cunningham 3pm under 2.5 + Kyshawn George 10+ pr,2,0.6531,0.5186,1.93,2.02,1.75,-0.0921,1.001,1.65-1.85
 DET @ WAS,Ausar Thompson 7+ reb + Trae Young 10+ pr,2,0.6101,0.5085,1.97,2.06,1.79,-0.0922,1.003,1.65-1.85
-DAL @ MIN,Kyrie Irving 3pm under 3.5 + MIN win,2,0.5075,0.4123,2.43,2.55,2.34,-0.0363,1.023,2.10-2.50
-DAL @ MIN,MIN win + Cooper Flagg 3pm under 1.5,2,0.4306,0.3971,2.52,2.64,2.37,-0.0572,1.025,2.10-2.50
-DAL @ MIN,game over 227.5 + LaMelo Ball 2+ 3pm,2,0.4773,0.4158,2.41,2.53,2.23,-0.0742,1.025,2.10-2.50
-DAL @ MIN,DAL +5.5 + P.J. Washington 10+ pr,2,0.4963,0.4592,2.18,2.29,2.01,-0.0778,1.009,1.85-2.10
-DAL @ MIN,MIN win + LaMelo Ball 2+ 3pm,2,0.5459,0.5369,1.86,1.96,1.71,-0.0803,1.01,1.65-1.85
-DAL @ MIN,Kyrie Irving 3pm under 3.5 + Rudy Gobert 5+ pa,2,0.7326,0.5548,1.8,1.89,1.65,-0.0825,1.001,1.65-1.85
-DAL @ MIN,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7453,0.5627,1.78,1.87,1.63,-0.0827,1.0,1.50-1.65
-DAL @ MIN,Kyrie Irving 3pm under 3.5 + LaMelo Ball 2+ 3pm,2,0.6651,0.4984,2.01,2.11,1.84,-0.0828,0.999,1.65-1.85
-DAL @ MIN,MIN win + Rudy Gobert 5+ pa,2,0.5987,0.5952,1.68,1.76,1.54,-0.0839,1.008,1.50-1.65
-DAL @ MIN,Kyrie Irving 4+ reb + P.J. Washington 10+ pr,2,0.5681,0.4557,2.19,2.3,2.01,-0.0848,1.001,1.85-2.10
-DAL @ MIN,game over 227.5 + P.J. Washington 10+ pr,2,0.5284,0.4638,2.16,2.26,1.97,-0.0853,1.014,1.85-2.10
-DAL @ MIN,MIN win + P.J. Washington 10+ pr,2,0.6018,0.5964,1.68,1.76,1.52,-0.0952,0.995,1.50-1.65
+DAL @ MIN,Kyrie Irving 3pm under 3.5 + MIN win,2,0.5075,0.4108,2.43,2.56,2.35,-0.0355,1.023,2.10-2.50
+DAL @ MIN,game over 226.5 + LaMelo Ball 2+ 3pm,2,0.4963,0.4147,2.41,2.53,2.24,-0.072,1.024,2.10-2.50
+DAL @ MIN,game over 226.5 + Daniel Gafford 5+ pa,2,0.5067,0.4224,2.37,2.49,2.2,-0.0725,1.023,2.10-2.50
+DAL @ MIN,DAL +5.5 + P.J. Washington 10+ pr,2,0.4963,0.4586,2.18,2.29,2.01,-0.0776,1.009,1.85-2.10
+DAL @ MIN,game over 226.5 + P.J. Washington 10+ pr,2,0.5498,0.4589,2.18,2.29,2.0,-0.0811,1.014,1.85-2.10
+DAL @ MIN,MIN win + LaMelo Ball 2+ 3pm,2,0.5459,0.5408,1.85,1.94,1.7,-0.0814,1.01,1.65-1.85
+DAL @ MIN,Kyrie Irving 3pm under 3.5 + Rudy Gobert 5+ pa,2,0.7326,0.552,1.81,1.9,1.66,-0.0815,1.001,1.65-1.85
+DAL @ MIN,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7453,0.5599,1.79,1.88,1.64,-0.0817,1.0,1.50-1.65
+DAL @ MIN,game over 226.5 + Rudy Gobert 5+ pa,2,0.5397,0.4518,2.21,2.32,2.03,-0.0821,1.013,1.85-2.10
+DAL @ MIN,Kyrie Irving 3pm under 3.5 + LaMelo Ball 2+ 3pm,2,0.6651,0.5002,2.0,2.1,1.83,-0.0832,0.999,1.65-1.85
+DAL @ MIN,MIN win + Rudy Gobert 5+ pa,2,0.5987,0.5942,1.68,1.77,1.54,-0.0837,1.008,1.50-1.65
+DAL @ MIN,MIN win + P.J. Washington 10+ pr,2,0.6018,0.5955,1.68,1.76,1.52,-0.095,0.995,1.50-1.65
 CHA @ PHX,PHX win + Ryan Kalkbrenner 4+ reb,2,0.51,0.4592,2.18,2.29,2.09,-0.0389,1.001,1.85-2.10
 CHA @ PHX,Ryan Kalkbrenner 11+ pr + Jalen Green 1+ 3pm,2,0.6121,0.383,2.61,2.74,2.49,-0.0448,1.002,2.10-2.50
 CHA @ PHX,PHX win + Dillon Brooks 10+ pts,2,0.5018,0.5424,1.84,1.94,1.76,-0.0469,1.026,1.65-1.85
