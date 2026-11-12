@@ -23,18 +23,18 @@ DET @ WAS,DET win + AJ Dybantsa 4+ reb,2,0.6243,0.5872,1.7,1.79,1.56,-0.082,0.99
 DET @ WAS,Anthony Davis 2+ ast + Bilal Coulibaly 5+ pa,2,0.61,0.5004,2.0,2.1,1.82,-0.0872,1.006,1.65-1.85
 DET @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pr,2,0.6769,0.5494,1.82,1.91,1.66,-0.0905,1.0,1.65-1.85
 DET @ WAS,Anthony Davis 2+ ast + Paul Reed 4+ reb,2,0.6365,0.523,1.91,2.01,1.74,-0.0925,1.0,1.65-1.85
-DAL @ MIN,game over 227.5 + Terrence Shannon Jr. 10+ pra,2,0.4536,0.3952,2.53,2.66,2.35,-0.0705,1.03,2.10-2.50
-DAL @ MIN,MIN win + Terrence Shannon Jr. 10+ pra,2,0.5218,0.5133,1.95,2.05,1.81,-0.0713,1.02,1.65-1.85
-DAL @ MIN,DAL +5.5 + P.J. Washington 10+ pr,2,0.4963,0.4582,2.18,2.29,2.01,-0.0774,1.009,1.85-2.10
-DAL @ MIN,Kyrie Irving 4+ reb + Terrence Shannon Jr. 10+ pra,2,0.4846,0.3845,2.6,2.73,2.4,-0.0792,1.01,2.10-2.50
+DAL @ MIN,DAL +5.5 + Zaccharie Risacher 5+ pra,2,0.4449,0.389,2.57,2.7,2.4,-0.0671,1.011,2.10-2.50
+DAL @ MIN,game over 227.5 + Terrence Shannon Jr. 10+ pra,2,0.4536,0.3961,2.52,2.65,2.35,-0.0709,1.03,2.10-2.50
+DAL @ MIN,MIN win + Terrence Shannon Jr. 10+ pra,2,0.5218,0.5145,1.94,2.04,1.8,-0.0717,1.02,1.65-1.85
+DAL @ MIN,game over 227.5 + Zaccharie Risacher 5+ pra,2,0.4751,0.3941,2.54,2.66,2.36,-0.0717,1.02,2.10-2.50
+DAL @ MIN,DAL +5.5 + P.J. Washington 10+ pr,2,0.4963,0.4578,2.18,2.29,2.02,-0.0773,1.009,1.85-2.10
 DAL @ MIN,MIN win + Trey Lyles 5+ pr,2,0.5891,0.5606,1.78,1.87,1.64,-0.0812,1.004,1.50-1.65
-DAL @ MIN,Kyrie Irving 4+ reb + Trey Lyles 5+ pr,2,0.551,0.4229,2.36,2.48,2.17,-0.0825,1.001,2.10-2.50
-DAL @ MIN,MIN win + Rudy Gobert 5+ pa,2,0.5987,0.5902,1.69,1.78,1.55,-0.0826,1.008,1.50-1.65
-DAL @ MIN,game over 227.5 + Rudy Gobert 5+ pa,2,0.5187,0.4529,2.21,2.32,2.02,-0.0849,1.014,1.85-2.10
-DAL @ MIN,game over 227.5 + P.J. Washington 10+ pr,2,0.5284,0.4628,2.16,2.27,1.98,-0.0849,1.014,1.85-2.10
-DAL @ MIN,Trey Lyles 10+ pr + P.J. Washington 10+ pr,2,0.5874,0.4898,2.04,2.14,1.85,-0.0939,1.002,1.65-1.85
-DAL @ MIN,MIN win + P.J. Washington 10+ pr,2,0.6018,0.5951,1.68,1.76,1.52,-0.0948,0.995,1.50-1.65
-DAL @ MIN,MIN win + Trey Lyles 5+ pr + Rudy Gobert 5+ pa,3,0.5555,0.5047,1.98,2.08,1.73,-0.1283,1.012,1.65-1.85
+DAL @ MIN,MIN win + Rudy Gobert 5+ pa,2,0.5987,0.5932,1.69,1.77,1.55,-0.0833,1.008,1.50-1.65
+DAL @ MIN,game over 227.5 + P.J. Washington 10+ pr,2,0.5284,0.4624,2.16,2.27,1.98,-0.0848,1.014,1.85-2.10
+DAL @ MIN,game over 227.5 + Rudy Gobert 5+ pa,2,0.5187,0.4552,2.2,2.31,2.01,-0.0856,1.014,1.85-2.10
+DAL @ MIN,MIN win + Zaccharie Risacher 5+ pra,2,0.5364,0.5023,1.99,2.09,1.81,-0.0899,0.992,1.65-1.85
+DAL @ MIN,Terrence Shannon Jr. 3pm under 1.5 + Trey Lyles 5+ pr,2,0.6164,0.4921,2.03,2.13,1.84,-0.0935,1.0,1.65-1.85
+DAL @ MIN,MIN win + P.J. Washington 10+ pr,2,0.6018,0.5946,1.68,1.77,1.52,-0.0947,0.995,1.50-1.65
 CHA @ PHX,PHX win + Ryan Kalkbrenner 4+ reb,2,0.5087,0.4499,2.22,2.33,2.14,-0.037,1.001,2.10-2.50
 CHA @ PHX,Ryan Kalkbrenner 10+ pr + Jalen Green 1+ 3pm,2,0.6614,0.4089,2.45,2.57,2.34,-0.0424,1.001,2.10-2.50
 CHA @ PHX,Ryan Kalkbrenner 10+ pr + Coby White 10+ pts,2,0.6414,0.4108,2.43,2.56,2.33,-0.0442,1.005,2.10-2.50
