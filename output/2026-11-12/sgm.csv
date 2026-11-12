@@ -11,18 +11,18 @@ TOR @ PHI,PHI win + Dean Wade 3pm under 1.5 + Tyrese Maxey 4+ ast,3,0.3738,0.431
 TOR @ PHI,PHI win + Dean Wade 3pm under 1.5 + Jaylen Brown 1+ 3pm,3,0.373,0.4325,2.31,2.43,2.23,-0.037,0.988,2.10-2.50
 TOR @ PHI,PHI win + Jamison Battle 5+ pr + Tyrese Maxey 4+ ast,3,0.4263,0.5715,1.75,1.84,1.68,-0.0401,1.012,1.65-1.85
 TOR @ PHI,PHI win + Dean Wade 3pm under 1.5 + RJ Barrett 4+ reb,3,0.3684,0.4221,2.37,2.49,2.26,-0.0468,0.976,2.10-2.50
-DET @ WAS,AJ Dybantsa pts under 16.5 + DET win,2,0.5371,0.419,2.39,2.51,2.35,-0.0168,1.033,2.10-2.50
-DET @ WAS,DET win + AJ Dybantsa pra under 24.5,2,0.5097,0.4169,2.4,2.52,2.35,-0.0218,1.038,2.10-2.50
-DET @ WAS,DET win + AJ Dybantsa pr under 21.5,2,0.4879,0.3963,2.52,2.65,2.46,-0.0237,1.034,2.10-2.50
-DET @ WAS,WAS +10.5 + Kyshawn George 10+ pr,2,0.4859,0.4589,2.18,2.29,2.03,-0.0672,1.009,1.85-2.10
-DET @ WAS,DET win + Anthony Davis 1+ blk,2,0.6547,0.5896,1.7,1.78,1.57,-0.072,1.002,1.50-1.65
-DET @ WAS,DET win + Kevin Huerter 1+ 3pm,2,0.6413,0.6041,1.66,1.74,1.53,-0.0733,1.008,1.50-1.65
-DET @ WAS,DET win + Anthony Davis 2+ ast,2,0.5438,0.478,2.09,2.2,1.93,-0.076,0.987,1.85-2.10
-DET @ WAS,WAS +10.5 + Anthony Davis 6+ reb,2,0.467,0.4445,2.25,2.36,2.08,-0.0769,1.0,1.85-2.10
-DET @ WAS,DET win + AJ Dybantsa 4+ reb,2,0.6192,0.5858,1.71,1.79,1.57,-0.0809,1.001,1.50-1.65
-DET @ WAS,Anthony Davis 2+ ast + Bilal Coulibaly 5+ pa,2,0.6102,0.4932,2.03,2.13,1.85,-0.0877,1.002,1.65-1.85
-DET @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pr,2,0.6799,0.5498,1.82,1.91,1.65,-0.0907,0.999,1.65-1.85
-DET @ WAS,Anthony Davis 2+ ast + Kyshawn George 1+ 3pm,2,0.6277,0.5214,1.92,2.01,1.74,-0.0916,1.003,1.65-1.85
+DET @ WAS,AJ Dybantsa pts under 16.5 + DET win,2,0.5313,0.4182,2.39,2.51,2.35,-0.0187,1.034,2.10-2.50
+DET @ WAS,DET win + AJ Dybantsa pra under 24.5,2,0.5013,0.4163,2.4,2.52,2.35,-0.0233,1.04,2.10-2.50
+DET @ WAS,DET win + AJ Dybantsa pr under 21.5,2,0.4809,0.3963,2.52,2.65,2.46,-0.0238,1.038,2.10-2.50
+DET @ WAS,WAS +10.5 + Kyshawn George 10+ pr,2,0.4826,0.4576,2.19,2.29,2.03,-0.0697,1.006,1.85-2.10
+DET @ WAS,DET win + Kevin Huerter 1+ 3pm,2,0.6465,0.605,1.65,1.74,1.53,-0.0719,1.009,1.50-1.65
+DET @ WAS,DET win + Anthony Davis 1+ blk,2,0.6523,0.5887,1.7,1.78,1.57,-0.0734,1.001,1.50-1.65
+DET @ WAS,DET win + Anthony Davis 2+ ast,2,0.5421,0.4775,2.09,2.2,1.93,-0.0771,0.987,1.85-2.10
+DET @ WAS,AJ Dybantsa pts under 16.5 + Anthony Davis 6+ reb,2,0.618,0.4496,2.22,2.34,2.05,-0.0779,1.0,1.85-2.10
+DET @ WAS,DET win + AJ Dybantsa 4+ reb,2,0.6243,0.5854,1.71,1.79,1.57,-0.0815,0.999,1.50-1.65
+DET @ WAS,Anthony Davis 2+ ast + Bilal Coulibaly 5+ pa,2,0.61,0.4945,2.02,2.12,1.85,-0.0853,1.006,1.65-1.85
+DET @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pr,2,0.6769,0.5499,1.82,1.91,1.65,-0.0906,1.0,1.65-1.85
+DET @ WAS,Anthony Davis 2+ ast + Paul Reed 4+ reb,2,0.6365,0.523,1.91,2.01,1.74,-0.0925,1.0,1.65-1.85
 DAL @ MIN,game over 227.5 + Terrence Shannon Jr. 10+ pra,2,0.4536,0.3952,2.53,2.66,2.35,-0.0705,1.03,2.10-2.50
 DAL @ MIN,MIN win + Terrence Shannon Jr. 10+ pra,2,0.5218,0.5133,1.95,2.05,1.81,-0.0713,1.02,1.65-1.85
 DAL @ MIN,DAL +5.5 + P.J. Washington 10+ pr,2,0.4963,0.4582,2.18,2.29,2.01,-0.0774,1.009,1.85-2.10
