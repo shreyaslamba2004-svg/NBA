@@ -1,6 +1,6 @@
 # Line ladders · Thu 12 Nov 2026 (US date)
 
-Updated **Fri 13 Nov, 08:58 AM** Sydney time. Back to [TODAY.md](TODAY.md).
+Updated **Fri 13 Nov, 09:13 AM** Sydney time. Back to [TODAY.md](TODAY.md).
 
 For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: *book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for a player are left out. Use the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake.
 
@@ -1919,13 +1919,13 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | PTS | 7.5 | 36% | 2.76 | 64% | 1.57 | book |
 | PTS | 8.5 | 25% | 4.01 | 75% | 1.33 | est |
 | PTS | 9.5 | 23% | 4.30 | 77% | 1.30 | book |
-| REB | 0.5 | 97% | 1.03 | 3% | 30.49 | est |
-| REB | 1.5 | 89% | 1.13 | 11% | 8.71 | est |
-| REB | 2.5 | 74% | 1.36 | 26% | 3.78 | book |
-| REB | 3.5 ★ | 58% | 1.72 | 42% | 2.38 | book |
-| REB | 4.5 | 43% | 2.34 | 57% | 1.75 | book |
-| REB | 5.5 | 29% | 3.44 | 71% | 1.41 | est |
-| REB | 6.5 | 19% | 5.27 | 81% | 1.23 | book |
+| REB | 1.5 | 89% | 1.12 | 11% | 9.03 | est |
+| REB | 2.5 | 74% | 1.35 | 26% | 3.88 | book |
+| REB | 3.5 | 59% | 1.70 | 41% | 2.44 | book |
+| REB | 4.5 ★ | 44% | 2.30 | 56% | 1.77 | book |
+| REB | 5.5 | 30% | 3.35 | 70% | 1.42 | book |
+| REB | 6.5 | 20% | 5.12 | 80% | 1.24 | book |
+| REB | 7.5 | 12% | 8.11 | 88% | 1.14 | book |
 | AST | 1.5 | 35% | 2.82 | 65% | 1.55 | book |
 | 3PM | 0.5 ★ | 63% | 1.59 | 37% | 2.68 | book |
 | 3PM | 1.5 | 29% | 3.41 | 71% | 1.41 | book |
