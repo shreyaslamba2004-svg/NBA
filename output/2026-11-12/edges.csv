@@ -1,5 +1,8 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909979,CHA @ PHX,prop_ast,over,Devin Booker,1626164.0,9.5,draftkings,1860.0,19.6,0.0868,11.53,0.0477,0.0477,0.0391,,0.7005,0.0528,0.0357,0.0005,False,True,False,,,
 401909979,CHA @ PHX,prop_ast,over,Devin Booker,1626164.0,8.5,draftkings,1040.0,11.4,0.1486,6.73,0.082,0.082,0.0667,,0.6944,0.0908,0.0349,0.0008,False,False,False,,,
-401909979,CHA @ PHX,prop_ast,over,Devin Booker,1626164.0,7.5,draftkings,584.0,6.84,0.236,4.24,0.1366,0.1366,0.0993,,0.6139,0.1497,0.0243,0.001,False,True,False,,,
+401909979,CHA @ PHX,prop_ast,over,Moussa Diabate,1631217.0,4.5,draftkings,1180.0,12.8,0.1248,8.02,0.073,0.073,0.0517,,0.5968,0.0798,0.022,0.0005,False,False,False,,,
+401909979,CHA @ PHX,prop_ast,over,Devin Booker,1626164.0,7.5,draftkings,568.0,6.68,0.236,4.24,0.1399,0.1399,0.096,,0.5762,0.1526,0.0193,0.0008,False,True,False,,,
+401909977,DET @ WAS,prop_pts,over,Cade Cunningham,1630595.0,39.5,draftkings,1500.0,16.0,0.0973,10.28,0.0584,0.0584,0.0389,,0.5569,0.0635,0.0167,0.0003,False,True,False,,,
+401909979,CHA @ PHX,prop_ast,over,Moussa Diabate,1631217.0,3.5,draftkings,484.0,5.84,0.2515,3.98,0.16,0.16,0.0914,,0.4686,0.1721,0.0051,0.0003,False,True,False,,,
 401909979,CHA @ PHX,prop_ast,over,Devin Booker,1626164.0,10.5,draftkings,2800.0,29.0,0.0505,19.8,0.0322,0.0322,0.0183,,0.4643,0.0346,0.0045,0.0,False,False,False,,,
