@@ -6,7 +6,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909973,UTA,1641723,Kobe Bufkin,,,1.0,,,
 401909973,UTA,1642268,Isaiah Collier,,,1.0,,,
 401909973,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401909973,UTA,1641718,Keyonte George,Questionable,Injury/Illness-RightAnkleSprain,0.55,George (ankle) is questionable for Wednesday's game against Orlando.,,
+401909973,UTA,1641718,Keyonte George,Available,Injury/Illness-RightAnkleSprain,1.0,George (ankle) is questionable for Wednesday's game against Orlando.,,
 401909973,UTA,1630182,Josh Green,,,1.0,,,
 401909973,UTA,1629637,Jaxson Hayes,,,1.0,,,
 401909973,UTA,904433618,Harrison Ingram,,,1.0,,,
