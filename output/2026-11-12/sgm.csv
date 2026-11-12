@@ -36,14 +36,14 @@ DAL @ MIN,Kyrie Irving 4+ reb + LaMelo Ball 2+ 3pm,2,0.5077,0.4086,2.45,2.57,2.2
 DAL @ MIN,Cooper Flagg 3pm under 1.5 + Trey Lyles 5+ pra,2,0.6259,0.5201,1.92,2.02,1.73,-0.1008,0.999,1.65-1.85
 DAL @ MIN,Cooper Flagg 3pm under 1.5 + Rudy Gobert 5+ pa,2,0.6203,0.524,1.91,2.0,1.71,-0.1014,1.001,1.65-1.85
 CHA @ PHX,PHX win + Ryan Kalkbrenner 4+ reb,2,0.5087,0.4447,2.25,2.36,2.17,-0.0347,1.001,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 4+ reb + Jordan Goodwin 3pm under 1.5,2,0.6366,0.3891,2.57,2.7,2.45,-0.0485,0.999,2.10-2.50
-CHA @ PHX,game over 214.5 + Coby White 10+ pts,2,0.4973,0.3907,2.56,2.69,2.43,-0.0497,1.043,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 10+ pr + Sion James 10+ pra,2,0.7127,0.4585,2.18,2.29,2.07,-0.0504,1.002,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 10+ pr + Jalen Green 1+ 3pm,2,0.6614,0.4153,2.41,2.53,2.3,-0.046,1.001,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 10+ pr + Coby White 10+ pts,2,0.6414,0.4183,2.39,2.51,2.28,-0.0482,1.005,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 10+ pr + Collin Gillespie 5+ pr,2,0.7497,0.4822,2.07,2.18,1.97,-0.0495,1.002,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 10+ pr + Dillon Brooks 1+ 3pm,2,0.7017,0.4525,2.21,2.32,2.1,-0.0502,1.001,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 10+ pr + Collin Gillespie 5+ pa,2,0.7586,0.4904,2.04,2.14,1.94,-0.051,1.001,1.85-2.10
 CHA @ PHX,PHX win + Jalen Green 1+ 3pm,2,0.4969,0.5169,1.93,2.03,1.83,-0.0529,1.015,1.65-1.85
-CHA @ PHX,Ryan Kalkbrenner 10+ pr + Collin Gillespie 5+ pr,2,0.7497,0.4907,2.04,2.14,1.93,-0.0534,1.002,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 10+ pr + Dillon Brooks 1+ 3pm,2,0.7017,0.4605,2.17,2.28,2.05,-0.0541,1.001,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 10+ pr + Grayson Allen 10+ pr,2,0.7711,0.5128,1.95,2.05,1.84,-0.0556,1.002,1.65-1.85
-CHA @ PHX,PHX win + Ryan Kalkbrenner 5+ pr,2,0.5845,0.5888,1.7,1.78,1.59,-0.0629,0.999,1.50-1.65
+CHA @ PHX,PHX win + Ryan Kalkbrenner 5+ pr,2,0.5845,0.5863,1.71,1.79,1.6,-0.0622,0.999,1.50-1.65
 CHA @ PHX,PHX win + Dillon Brooks 1+ 3pm,2,0.5229,0.5587,1.79,1.88,1.67,-0.0647,1.007,1.65-1.85
-CHA @ PHX,PHX win + Collin Gillespie 5+ pa,2,0.5654,0.6059,1.65,1.73,1.54,-0.0654,1.006,1.50-1.65
+CHA @ PHX,PHX win + Collin Gillespie 5+ pa,2,0.5654,0.6056,1.65,1.73,1.54,-0.0654,1.006,1.50-1.65
 CHA @ PHX,PHX win + Collin Gillespie 5+ pr,2,0.5577,0.5943,1.68,1.77,1.57,-0.0655,1.005,1.50-1.65
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Ryan Kalkbrenner 5+ pr,2,0.7339,0.5147,1.94,2.04,1.8,-0.0725,0.999,1.65-1.85
