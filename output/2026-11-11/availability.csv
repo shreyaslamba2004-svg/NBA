@@ -39,32 +39,32 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909974,HOU,203991,Clint Capela,Out,Injury/Illness-RightAnkleSprain,0.0,"Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports.",,
 401909974,HOU,904683860,Quadir Copeland,Out,GLeague-Two-Way,0.0,,,
 401909974,HOU,1642384,Isaiah Crawford,,,1.0,,,
-401909974,HOU,201142,Kevin Durant,,,1.0,,,
+401909974,HOU,201142,Kevin Durant,Starting,,1.0,,,1.0
 401909974,HOU,1631106,Tari Eason,,,1.0,,,
 401909974,HOU,1641763,Julian Phillips,Out,GLeague-Two-Way,0.0,,,
-401909974,HOU,1630578,Alperen Sengun,,,1.0,,,
+401909974,HOU,1630578,Alperen Sengun,Starting,,1.0,,,1.0
 401909974,HOU,1642263,Reed Sheppard,,,1.0,,,
 401909974,HOU,203935,Marcus Smart,,,1.0,,,
-401909974,HOU,1631095,Jabari Smith Jr.,,,1.0,,,
+401909974,HOU,1631095,Jabari Smith Jr.,Starting,,1.0,,,1.0
 401909974,HOU,1630256,Jae'Sean Tate,,,1.0,,,
-401909974,HOU,1641708,Amen Thompson,,,1.0,,,
+401909974,HOU,1641708,Amen Thompson,Starting,,1.0,,,1.0
 401909974,HOU,905105837,Bruce Thornton,,,1.0,,,
 401909974,HOU,1631131,Oscar Tshiebwe,,,1.0,,,
-401909974,HOU,1627832,Fred VanVleet,,,1.0,,,
+401909974,HOU,1627832,Fred VanVleet,Starting,,1.0,,,1.0
 401909974,GSW,1629646,Charles Bassey,,,1.0,,,
 401909974,GSW,202710,Jimmy Butler III,Out,,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401909974,GSW,1643018,LJ Cryer,,,1.0,,,
-401909974,GSW,201939,Stephen Curry,,,1.0,,,
-401909974,GSW,203110,Draymond Green,,,1.0,,,
-401909974,GSW,201143,Al Horford,,,1.0,,,
+401909974,GSW,201939,Stephen Curry,Starting,,1.0,,,1.0
+401909974,GSW,203110,Draymond Green,Starting,,1.0,,,1.0
+401909974,GSW,201143,Al Horford,Starting,,1.0,,,1.0
 401909974,GSW,904703396,Graham Ike,,,1.0,,,
-401909974,GSW,905175737,Yaxel Lendeborg,,,1.0,,,
+401909974,GSW,905175737,Yaxel Lendeborg,Starting,,1.0,,,1.0
 401909974,GSW,1642502,Malevy Leons,,,1.0,,,
 401909974,GSW,1629001,De'Anthony Melton,,,1.0,,,
 401909974,GSW,1630541,Moses Moody,Out,,0.0,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",,
 401909974,GSW,1627777,Georges Niang,,,1.0,,,
 401909974,GSW,1627780,Gary Payton II,Out,,0.0,Payton (knee) is out for Wednesday's game against Houston.,,
-401909974,GSW,1641764,Brandin Podziemski,,,1.0,,,
+401909974,GSW,1641764,Brandin Podziemski,Starting,,1.0,,,1.0
 401909974,GSW,204001,Kristaps Porzingis,Out,NotWithTeam,0.0,Porzingis announced on his social media that he's stepping away from basketball.,,
 401909974,GSW,1642954,Will Richard,Available,Injury/Illness-LeftThumbUCLTear,1.0,,,
 401909974,GSW,1630611,Gui Santos,,,1.0,,,
