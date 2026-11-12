@@ -1,11 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-ORL @ UTA,Desmond Bane 20+ pts + Wendell Carter Jr. 10+ pa,2,0.5602,0.4237,2.36,2.48,2.36,-0.001,1.008,2.10-2.50
-ORL @ UTA,Desmond Bane 20+ pts + Jase Richardson 5+ pr,2,0.6167,0.4606,2.17,2.28,2.16,-0.0057,1.001,2.10-2.50
-ORL @ UTA,Desmond Bane 20+ pts + Anthony Black 15+ pr,2,0.5632,0.4402,2.27,2.39,2.25,-0.0082,1.006,2.10-2.50
-ORL @ UTA,Desmond Bane 20+ pts + Anthony Black 15+ pra,2,0.615,0.4809,2.08,2.18,2.05,-0.0128,1.001,1.85-2.10
-ORL @ UTA,Darryn Peterson pts under 18.5 + Anthony Black 15+ pra,2,0.65,0.4824,2.07,2.18,2.0,-0.0333,0.999,1.85-2.10
-ORL @ UTA,Darryn Peterson pts under 18.5 + Desmond Bane 15+ pr,2,0.6329,0.4626,2.16,2.27,2.09,-0.035,0.995,1.85-2.10
-ORL @ UTA,Darryn Peterson pra under 27.5 + Anthony Black 15+ pra,2,0.6798,0.4996,2.0,2.1,1.84,-0.0803,0.998,1.65-1.85
 GSW @ HOU,Draymond Green 5+ pts + Al Horford 5+ pra,2,0.6386,0.4407,2.27,2.38,2.22,-0.0228,1.002,2.10-2.50
 GSW @ HOU,Draymond Green 5+ pts + Fred VanVleet 10+ pr,2,0.5918,0.4134,2.42,2.54,2.36,-0.0235,1.003,2.10-2.50
 GSW @ HOU,Draymond Green 5+ pts + Jabari Smith Jr. 4+ reb,2,0.6166,0.4304,2.32,2.44,2.27,-0.0245,1.002,2.10-2.50
