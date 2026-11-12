@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 TOR @ PHI,PHI win + Jaylen Brown 4+ ast,2,0.3468,0.4107,2.43,2.56,2.46,0.0117,1.028,2.10-2.50
+TOR @ PHI,PHI win + Jaylen Brown 2+ 3pm,2,0.3245,0.4219,2.37,2.49,2.36,-0.0041,1.029,2.10-2.50
 TOR @ PHI,PHI win + game under 221.5,2,0.2741,0.3973,2.52,2.64,2.48,-0.0132,1.014,2.10-2.50
-TOR @ PHI,PHI win + Jaylen Brown 10+ ra,2,0.3424,0.4339,2.3,2.42,2.25,-0.0251,1.007,2.10-2.50
+TOR @ PHI,PHI win + Jaylen Brown 25+ pra,2,0.4635,0.6256,1.6,1.68,1.56,-0.0212,1.023,1.50-1.65
 TOR @ PHI,PHI win + Tyrese Maxey 1+ stl,2,0.4052,0.5264,1.9,1.99,1.85,-0.0279,1.004,1.65-1.85
 TOR @ PHI,PHI win + RJ Barrett 4+ reb,2,0.459,0.6246,1.6,1.68,1.53,-0.0416,1.003,1.50-1.65
 TOR @ PHI,PHI win + RJ Barrett 1+ 3pm,2,0.4503,0.6021,1.66,1.74,1.57,-0.0527,0.988,1.50-1.65
-TOR @ PHI,game over 220.5 + Jaylen Brown 20+ pr,2,0.4745,0.4482,2.23,2.34,2.1,-0.0598,1.04,1.85-2.10
-TOR @ PHI,PHI win + Tyrese Maxey 1+ stl + Jaylen Brown 20+ pr,3,0.3605,0.4488,2.23,2.34,2.07,-0.0702,1.021,1.85-2.10
-TOR @ PHI,PHI win + RJ Barrett 4+ reb + Jaylen Brown 20+ pr,3,0.4091,0.5335,1.87,1.97,1.72,-0.0816,1.021,1.65-1.85
-TOR @ PHI,PHI win + RJ Barrett 4+ reb + Jaylen Brown 1+ 3pm,3,0.3979,0.5166,1.94,2.03,1.76,-0.0907,1.01,1.65-1.85
-TOR @ PHI,Jaylen Brown 10+ ra + RJ Barrett 1+ 3pm,2,0.5367,0.4372,2.29,2.4,2.07,-0.0949,1.002,1.85-2.10
-TOR @ PHI,Tyrese Maxey 1+ stl + Jaylen Brown 20+ pr,2,0.6561,0.5663,1.77,1.85,1.59,-0.102,0.999,1.50-1.65
+TOR @ PHI,PHI win + Tyrese Maxey 1+ stl + Jaylen Brown 20+ pr,3,0.3605,0.4477,2.23,2.35,2.08,-0.0699,1.021,1.85-2.10
+TOR @ PHI,PHI win + Jaylen Brown 25+ pra + RJ Barrett 4+ reb,3,0.3961,0.5043,1.98,2.08,1.84,-0.0735,1.026,1.65-1.85
+TOR @ PHI,PHI win + RJ Barrett 4+ reb + Jaylen Brown 20+ pr,3,0.4091,0.5322,1.88,1.97,1.73,-0.0813,1.021,1.65-1.85
+TOR @ PHI,PHI win + RJ Barrett 1+ 3pm + Jaylen Brown 25+ pra,3,0.3882,0.4858,2.06,2.16,1.88,-0.0849,1.011,1.85-2.10
+TOR @ PHI,TOR +10.5 + Jaylen Brown 15+ pr,2,0.708,0.4698,2.13,2.24,1.94,-0.0876,0.996,1.85-2.10
 DET @ WAS,DET win + AJ Dybantsa pts under 15.5,2,0.4894,0.3962,2.52,2.65,2.49,-0.0144,1.043,2.10-2.50
 DET @ WAS,DET win + AJ Dybantsa pa under 18.5,2,0.5123,0.4302,2.32,2.44,2.27,-0.0214,1.042,2.10-2.50
 DET @ WAS,DET win + AJ Dybantsa pra under 23.5,2,0.4606,0.399,2.51,2.63,2.44,-0.0262,1.043,2.10-2.50
