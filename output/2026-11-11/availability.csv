@@ -68,15 +68,15 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909970,DEN,1630192,Zeke Nnaji,,,1.0,,,
 401909970,DEN,1631124,Julian Strawther,Out,Injury/Illness-LeftKneeSprain,0.0,"Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports.",,
 401909970,DEN,1641715,Cam Whitmore,,,1.0,,,
-401909971,MIL,905164559,Nate Ament,,,1.0,,,
-401909971,MIL,905082206,Brayden Burries,,,1.0,,,
+401909971,MIL,905164559,Nate Ament,Starting,,1.0,,,1.0
+401909971,MIL,905082206,Brayden Burries,Starting,,1.0,,,1.0
 401909971,MIL,1631172,Ousmane Dieng,,,1.0,,,
 401909971,MIL,1631260,AJ Green,,,1.0,,,
-401909971,MIL,1629639,Tyler Herro,Available,Injury/Illness-RightKneeContusion,1.0,Herro (knee) is listed as questionable for Wednesday's game against the Lakers.,,
+401909971,MIL,1629639,Tyler Herro,Starting,Injury/Illness-RightKneeContusion,1.0,Herro (knee) is listed as questionable for Wednesday's game against the Lakers.,,1.0
 401909971,MIL,905214640,Kasparas Jakucionis,,,1.0,,,
 401909971,MIL,1631170,Jaime Jaquez Jr.,,,1.0,,,
 401909971,MIL,1642880,Kam Jones,,,1.0,,,
-401909971,MIL,1628398,Kyle Kuzma,,,1.0,,,
+401909971,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
 401909971,MIL,1627747,Caris LeVert,,,1.0,,,
 401909971,MIL,905214989,Bogoljub Markovic,,,1.0,,,
 401909971,MIL,1631250,Pete Nance,,,1.0,,,
@@ -85,24 +85,24 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909971,MIL,1630579,Jericho Sims,,,1.0,,,
 401909971,MIL,1629018,Gary Trent Jr.,,,1.0,,,
 401909971,MIL,1626167,Myles Turner,Out,Rest,0.0,Turner has been ruled out for Wednesday's game against the Lakers due to rest.,,
-401909971,MIL,905105623,Kel'el Ware,,,1.0,,,
+401909971,MIL,905105623,Kel'el Ware,Starting,,1.0,,,1.0
 401909971,LAL,905113969,Cameron Carr,,,1.0,,,
 401909971,LAL,905105817,Carson Cooper,,,1.0,,,
-401909971,LAL,1629029,Luka Doncic,,,1.0,,,
+401909971,LAL,1629029,Luka Doncic,Starting,,1.0,,,1.0
 401909971,LAL,1629656,Quentin Grimes,Out,Injury/Illness-RightFingerSprain,0.0,Grimes (finger) has been ruled out for Wednesday's game against the Bucks.,,
 401909971,LAL,1630702,Jaden Hardy,,,1.0,,,
 401909971,LAL,904683774,Bronny James,,,1.0,,,
 401909971,LAL,904433599,Arthur Kaluma,,,1.0,,,
-401909971,LAL,1631117,Walker Kessler,Available,Injury/Illness-LeftFingerSplint,1.0,,,
-401909971,LAL,1631222,Jake LaRavia,,,1.0,,,
+401909971,LAL,1631117,Walker Kessler,Starting,Injury/Illness-LeftFingerSplint,1.0,,,1.0
+401909971,LAL,1631222,Jake LaRavia,Starting,,1.0,,,1.0
 401909971,LAL,1626172,Kevon Looney,,,1.0,,,
 401909971,LAL,1630572,Sandro Mamukelashvili,,,1.0,,,
 401909971,LAL,1643024,Chris Manon,,,1.0,,,
 401909971,LAL,905114350,AK Okereke,,,1.0,,,
-401909971,LAL,1630559,Austin Reaves,,,1.0,,,
+401909971,LAL,1630559,Austin Reaves,Starting,,1.0,,,1.0
 401909971,LAL,1629012,Collin Sexton,,,1.0,,,
 401909971,LAL,1642876,Adou Thiero,,,1.0,,,
-401909971,LAL,1629680,Matisse Thybulle,,,1.0,,,
+401909971,LAL,1629680,Matisse Thybulle,Starting,,1.0,,,1.0
 401909971,LAL,1629020,Jarred Vanderbilt,,,1.0,,,
 401909971,LAL,1630533,Ziaire Williams,,,1.0,,,
 401909972,NOP,1630180,Saddiq Bey,,,1.0,,,
