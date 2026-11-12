@@ -3,22 +3,22 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909976,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,"Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",,
 401909976,PHI,1627759,Jaylen Brown,,,1.0,,,
 401909976,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909976,PHI,1642845,VJ Edgecombe,,,1.0,,,
-401909976,PHI,1642348,Justin Edwards,,,1.0,,,
-401909976,PHI,203954,Joel Embiid,Available,,1.0,,,
+401909976,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
+401909976,PHI,1642348,Justin Edwards,Starting,,1.0,,,1.0
+401909976,PHI,203954,Joel Embiid,Starting,,1.0,,,1.0
 401909976,PHI,1629605,Tacko Fall,,,1.0,,,
 401909976,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
 401909976,PHI,2544,LeBron James,Out,,0.0,James (back) is out for Thursday's game against Toronto.,,
 401909976,PHI,904433144,Caleb Love,,,1.0,,,
-401909976,PHI,1630178,Tyrese Maxey,,,1.0,,,
+401909976,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
 401909976,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909976,PHI,1641712,Rayan Rupert,,,1.0,,,
 401909976,PHI,1629014,Anfernee Simons,,,1.0,,,
-401909976,PHI,1629731,Dean Wade,,,1.0,,,
+401909976,PHI,1629731,Dean Wade,Starting,,1.0,,,1.0
 401909976,PHI,1631133,Jabari Walker,,,1.0,,,
 401909976,TOR,203937,Kyle Anderson,,,1.0,,,
 401909976,TOR,1630567,Scottie Barnes,Out,Injury/Illness-LeftGroinStrain,0.0,Barnes (groin) is out for Thursday's game against Philadelphia.,,
-401909976,TOR,1629628,RJ Barrett,,,1.0,,,
+401909976,TOR,1629628,RJ Barrett,Starting,,1.0,,,1.0
 401909976,TOR,1642419,Jamison Battle,,,1.0,,,
 401909976,TOR,904432586,Nate Bittle,Out,,0.0,Bittle (foot) is listed as out for Monday's game against Memphis.,,
 401909976,TOR,904432737,Jaden Bradley,,,1.0,,,
@@ -27,12 +27,12 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909976,TOR,202695,Kawhi Leonard,Out,,0.0,"Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",,
 401909976,TOR,1642918,Alijah Martin,,,1.0,,,
 401909976,TOR,1641755,Kevin McCullar Jr.,Out,GLeague-Two-Way,0.0,,,
-401909976,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
-401909976,TOR,1627751,Jakob Poeltl,,,1.0,,,
-401909976,TOR,1630193,Immanuel Quickley,,,1.0,,,
+401909976,TOR,1642867,Collin Murray-Boyles,Starting,,1.0,,,1.0
+401909976,TOR,1627751,Jakob Poeltl,Starting,,1.0,,,1.0
+401909976,TOR,1630193,Immanuel Quickley,Starting,,1.0,,,1.0
 401909976,TOR,1642347,Jamal Shead,,,1.0,,,
 401909976,TOR,1641869,Malachi Smith,,,1.0,,,
-401909976,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
+401909976,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
 401909977,WAS,1629028,Deandre Ayton,,,1.0,,,
 401909977,WAS,904432187,Reece Beekman,Out,Injury/Illness-RightACJointInjury,0.0,The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.,,
 401909977,WAS,1642267,Bub Carrington,,,1.0,,,
