@@ -1,28 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-TOR @ PHI,PHI win + Jaylen Brown 25+ pra,2,0.449,0.6619,1.51,1.59,1.55,0.0229,1.022,1.50-1.65
-TOR @ PHI,PHI win + Tyrese Maxey 4+ ast,2,0.4426,0.6488,1.54,1.62,1.57,0.019,1.018,1.50-1.65
-TOR @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.4409,0.6443,1.55,1.63,1.58,0.0177,1.016,1.50-1.65
-TOR @ PHI,PHI win + Dean Wade 3pm under 1.5,2,0.4291,0.5134,1.95,2.05,1.97,0.0132,0.976,1.85-2.10
-TOR @ PHI,PHI win + RJ Barrett 1+ 3pm,2,0.4239,0.5989,1.67,1.75,1.66,-0.004,0.989,1.65-1.85
-TOR @ PHI,PHI win + Tyrese Maxey 4+ ast + Jaylen Brown 25+ pra,3,0.3952,0.5571,1.8,1.88,1.77,-0.0143,1.047,1.65-1.85
-TOR @ PHI,PHI win + Ja'Kobe Walter 2+ ast,2,0.2933,0.3999,2.5,2.63,2.46,-0.0161,0.969,2.10-2.50
-TOR @ PHI,PHI win + Jaylen Brown 25+ pra + Dean Wade 5+ pr,3,0.4089,0.5802,1.72,1.81,1.68,-0.0232,1.039,1.65-1.85
-TOR @ PHI,PHI win + RJ Barrett 10+ ra,2,0.3055,0.4163,2.4,2.52,2.34,-0.0239,0.961,2.10-2.50
-TOR @ PHI,PHI win + Dean Wade 3pm under 1.5 + Jaylen Brown 25+ pra,3,0.3795,0.4366,2.29,2.41,2.22,-0.0294,0.994,2.10-2.50
-TOR @ PHI,PHI win + RJ Barrett 1+ 3pm + Jaylen Brown 25+ pra,3,0.3767,0.5118,1.95,2.05,1.87,-0.0411,1.012,1.85-2.10
-TOR @ PHI,PHI win + RJ Barrett 1+ 3pm + Tyrese Maxey 4+ ast,3,0.3708,0.501,2.0,2.1,1.9,-0.0461,1.006,1.85-2.10
+TOR @ PHI,PHI win + Tyrese Maxey 4+ ast,2,0.4426,0.6508,1.54,1.61,1.56,0.0185,1.018,1.50-1.65
+TOR @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.4409,0.6432,1.55,1.63,1.58,0.018,1.016,1.50-1.65
+TOR @ PHI,PHI win + Dean Wade 5+ pr,2,0.4595,0.6754,1.48,1.55,1.5,0.0139,1.013,1.50-1.65
+TOR @ PHI,PHI win + Dean Wade 3pm under 1.5,2,0.4291,0.5185,1.93,2.03,1.95,0.0114,0.976,1.85-2.10
+TOR @ PHI,PHI win + Collin Murray-Boyles 4+ reb,2,0.3982,0.5844,1.71,1.8,1.72,0.0026,1.002,1.65-1.85
+TOR @ PHI,PHI win + RJ Barrett 1+ 3pm,2,0.4239,0.5985,1.67,1.75,1.66,-0.004,0.989,1.65-1.85
+TOR @ PHI,PHI win + Ja'Kobe Walter 2+ ast,2,0.2933,0.3992,2.5,2.63,2.47,-0.0143,0.969,2.10-2.50
+TOR @ PHI,PHI win + RJ Barrett 10+ ra,2,0.3055,0.4108,2.43,2.56,2.38,-0.0222,0.961,2.10-2.50
+TOR @ PHI,PHI win + Jaylen Brown 1+ 3pm + Tyrese Maxey 4+ ast,3,0.3857,0.5397,1.85,1.95,1.81,-0.0255,1.034,1.65-1.85
+TOR @ PHI,PHI win + Dean Wade 3pm under 1.5 + Jaylen Brown 1+ 3pm,3,0.373,0.4289,2.33,2.45,2.25,-0.0347,0.988,2.10-2.50
+TOR @ PHI,PHI win + RJ Barrett 4+ reb + Jaylen Brown 1+ 3pm,3,0.378,0.5189,1.93,2.02,1.85,-0.0399,1.015,1.85-2.10
+TOR @ PHI,PHI win + Collin Murray-Boyles 4+ reb + Tyrese Maxey 4+ ast,3,0.3482,0.4903,2.04,2.14,1.96,-0.0404,1.019,1.85-2.10
 DET @ WAS,DET win + AJ Dybantsa pa under 17.5,2,0.4761,0.403,2.48,2.61,2.43,-0.021,1.045,2.10-2.50
-DET @ WAS,DET win + AJ Dybantsa pts under 15.5,2,0.494,0.4151,2.41,2.53,2.35,-0.026,1.039,2.10-2.50
+DET @ WAS,DET win + AJ Dybantsa pts under 15.5,2,0.494,0.4207,2.38,2.5,2.31,-0.0285,1.039,2.10-2.50
 DET @ WAS,DET win + AJ Dybantsa pra under 23.5,2,0.4727,0.4087,2.45,2.57,2.38,-0.0289,1.041,2.10-2.50
-DET @ WAS,WAS +10.5 + Trae Young 15+ pa,2,0.4706,0.4624,2.16,2.27,2.03,-0.0591,1.024,1.85-2.10
-DET @ WAS,DET win + Kevin Huerter 1+ 3pm,2,0.6413,0.6009,1.66,1.75,1.54,-0.0725,1.008,1.50-1.65
-DET @ WAS,DET win + Anthony Davis 1+ blk,2,0.6547,0.5955,1.68,1.76,1.56,-0.0736,1.002,1.50-1.65
-DET @ WAS,WAS +10.5 + Anthony Davis 6+ reb,2,0.467,0.4472,2.24,2.35,2.06,-0.0778,1.0,1.85-2.10
+DET @ WAS,DET win + Anthony Davis 1+ blk,2,0.6547,0.5945,1.68,1.77,1.56,-0.0734,1.002,1.50-1.65
+DET @ WAS,DET win + Kevin Huerter 1+ 3pm,2,0.6413,0.6045,1.65,1.74,1.53,-0.0734,1.008,1.50-1.65
+DET @ WAS,WAS +10.5 + Bilal Coulibaly 5+ pr,2,0.4692,0.4565,2.19,2.3,2.02,-0.0766,1.007,1.85-2.10
 DET @ WAS,DET win + Cade Cunningham 3pm under 2.5,2,0.5215,0.4467,2.24,2.35,2.06,-0.0791,0.986,1.85-2.10
-DET @ WAS,Cade Cunningham 3pm under 2.5 + Ausar Thompson 4+ reb,2,0.6275,0.507,1.97,2.07,1.78,-0.0952,1.0,1.65-1.85
-DET @ WAS,Cade Cunningham 3pm under 2.5 + Anthony Davis 6+ reb,2,0.6325,0.5054,1.98,2.08,1.79,-0.0957,0.998,1.65-1.85
-DET @ WAS,Cade Cunningham 3pm under 2.5 + Ausar Thompson 10+ pr,2,0.6358,0.5194,1.93,2.02,1.74,-0.0968,1.0,1.65-1.85
-DET @ WAS,Anthony Davis 1+ blk + Kevin Huerter 1+ 3pm,2,0.6894,0.5833,1.71,1.8,1.54,-0.1036,0.999,1.50-1.65
+DET @ WAS,WAS +10.5 + Anthony Davis 6+ reb,2,0.467,0.4474,2.24,2.35,2.05,-0.081,1.0,1.85-2.10
+DET @ WAS,Anthony Davis 10+ reb + Paul Reed 10+ pra,2,0.5977,0.4997,2.0,2.1,1.82,-0.0924,1.003,1.65-1.85
+DET @ WAS,Cade Cunningham 3pm under 2.5 + Ausar Thompson 4+ reb,2,0.6275,0.5075,1.97,2.07,1.78,-0.0954,1.0,1.65-1.85
+DET @ WAS,Cade Cunningham 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.6327,0.5152,1.94,2.04,1.76,-0.0958,1.001,1.65-1.85
+DET @ WAS,Anthony Davis 1+ blk + Kevin Huerter 1+ 3pm,2,0.6894,0.5858,1.71,1.79,1.53,-0.1044,0.999,1.50-1.65
 DAL @ MIN,MIN win + Cooper Flagg 3pm under 1.5,2,0.4306,0.3914,2.55,2.68,2.41,-0.0549,1.025,2.10-2.50
 DAL @ MIN,game over 227.5 + LaMelo Ball 2+ 3pm,2,0.4773,0.4181,2.39,2.51,2.21,-0.075,1.025,2.10-2.50
 DAL @ MIN,DAL +5.5 + P.J. Washington 10+ pr,2,0.4963,0.4589,2.18,2.29,2.01,-0.0777,1.009,1.85-2.10
@@ -36,14 +36,14 @@ DAL @ MIN,Cooper Flagg 3pm under 1.5 + Rudy Gobert 5+ pa,2,0.6203,0.524,1.91,2.0
 DAL @ MIN,Cooper Flagg 3pm under 1.5 + P.J. Washington 10+ pr,2,0.6276,0.5299,1.89,1.98,1.69,-0.107,0.995,1.65-1.85
 DAL @ MIN,MIN win + P.J. Washington 10+ pr + Rudy Gobert 5+ pa,3,0.5676,0.5394,1.85,1.95,1.59,-0.1421,1.003,1.50-1.65
 CHA @ PHX,PHX win + Ryan Kalkbrenner 4+ reb,2,0.5087,0.4359,2.29,2.41,2.22,-0.0307,1.001,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Moussa Diabate 15+ pra,2,0.6143,0.3902,2.56,2.69,2.47,-0.0367,1.005,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 15+ pr,2,0.6001,0.3885,2.57,2.7,2.48,-0.037,1.008,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 5+ reb + Moussa Diabate 15+ pra,2,0.6101,0.3906,2.56,2.69,2.44,-0.046,1.004,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 15+ pr,2,0.6001,0.3923,2.55,2.68,2.43,-0.0464,1.008,2.10-2.50
 CHA @ PHX,Ryan Kalkbrenner 5+ reb + Grayson Allen 10+ pr,2,0.7075,0.4554,2.2,2.31,2.08,-0.0507,1.0,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Collin Gillespie 5+ pa,2,0.7013,0.4553,2.2,2.31,2.08,-0.0522,1.0,1.85-2.10
 CHA @ PHX,PHX win + Dillon Brooks 1+ 3pm,2,0.5229,0.5596,1.79,1.88,1.67,-0.0649,1.007,1.65-1.85
 CHA @ PHX,PHX win + Collin Gillespie 5+ pr,2,0.5577,0.5976,1.67,1.76,1.56,-0.0664,1.005,1.50-1.65
 CHA @ PHX,PHX win + Collin Gillespie 5+ pa,2,0.5654,0.6097,1.64,1.72,1.53,-0.0664,1.006,1.50-1.65
-CHA @ PHX,Miles Bridges pr under 22.5 + Moussa Diabate 5+ pa,2,0.6637,0.4716,2.12,2.23,1.97,-0.0722,1.0,1.85-2.10
-CHA @ PHX,Miles Bridges pr under 22.5 + Moussa Diabate 10+ pra,2,0.6831,0.4904,2.04,2.14,1.89,-0.0724,1.002,1.85-2.10
+CHA @ PHX,Miles Bridges pr under 22.5 + Moussa Diabate 10+ pra,2,0.6831,0.4891,2.04,2.15,1.9,-0.0719,1.002,1.85-2.10
 CHA @ PHX,PHX win + Moussa Diabate 6+ reb,2,0.5121,0.5544,1.8,1.89,1.67,-0.0753,0.997,1.65-1.85
 CHA @ PHX,PHX win + Grayson Allen 10+ pr,2,0.5678,0.6113,1.64,1.72,1.51,-0.0766,0.995,1.50-1.65
 CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Moussa Diabate 5+ pa,2,0.7061,0.5304,1.89,1.98,1.73,-0.0842,0.999,1.65-1.85
