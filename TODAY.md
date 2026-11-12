@@ -1,6 +1,6 @@
 # NBA model · Thu 12 Nov 2026 (US date)
 
-Updated **Fri 13 Nov, 08:53 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-12/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Fri 13 Nov, 08:58 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-12/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -190,7 +190,7 @@ Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Sergio de Larrea (DAL), Dere
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Cooper Flagg | 98% | 33.3<br><sub>40,40,33,28,39</sub> | 23.1<br><sub>17,19,21,25,43</sub> | 24.5 · –<br><sub>o 49% · u 51%</sub> | 6.6<br><sub>4,10,10,5,10</sub> | 6.5<br><sub>o 48% · u 52%</sub> | 5.3<br><sub>6,5,7,12,6</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 1.2<br><sub>0,0,1,3,3</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.4 | 0.8 | 2.8 | 34.9 |
 | Kyrie Irving | 98% | 33.2<br><sub>-,36,28,29,38</sub> | 21.9<br><sub>-,29,14,21,35</sub> | 21.5 · –<br><sub>o 51% · u 49%</sub> | 4.2<br><sub>-,7,2,3,0</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 3.9<br><sub>-,5,2,4,4</sub> | 4.5<br><sub>o 42% · u 58%</sub> | 2.4<br><sub>-,5,0,2,7</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.2 | 0.4 | 2.2 | 30.1 |
-| P.J. Washington | 98% | 31.4<br><sub>38,39,33,25,35</sub> | 13.4<br><sub>12,21,26,6,13</sub> | 13.5 · –<br><sub>o 47% · u 53%</sub> | 6.7<br><sub>5,10,6,5,9</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 1.4<br><sub>1,3,1,0,1</sub> |  | 1.5<br><sub>2,3,6,2,2</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.0 | 0.9 | 1.6 | 21.6 |
+| P.J. Washington | 98% | 31.4<br><sub>38,39,33,25,35</sub> | 13.4<br><sub>12,21,26,6,13</sub> | 12.5 · –<br><sub>o 52% · u 48%</sub> | 6.7<br><sub>5,10,6,5,9</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 1.4<br><sub>1,3,1,0,1</sub> |  | 1.5<br><sub>2,3,6,2,2</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 1.0 | 0.9 | 1.6 | 21.6 |
 | Naji Marshall | 91% | 23.5<br><sub>24,26,25,15,25</sub> | 11.3<br><sub>5,22,7,8,6</sub> | 9.5 · –<br><sub>o 49% · u 51%</sub> | 3.4<br><sub>2,5,1,1,5</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 2.9<br><sub>7,3,5,2,2</sub> | 2.5<br><sub>o 53% · u 47%</sub> | 0.7<br><sub>0,3,0,1,0</sub> |  | 0.9 | 0.1 | 1.6 | 17.7 |
 | Daniel Gafford | 98% | 19.9<br><sub>26,18,18,19,20</sub> | 8.9<br><sub>20,2,7,18,8</sub> | 8.5 · –<br><sub>o 48% · u 52%</sub> | 5.7<br><sub>7,4,1,5,2</sub> | 5.5<br><sub>o 49% · u 51%</sub> | 1.2<br><sub>0,1,1,2,3</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 1.4 | 1.1 | 15.8 |
 | Zaccharie Risacher | 96% | 17.6<br><sub>19,18,21,16,15</sub> | 5.5<br><sub>0,2,4,11,4</sub> |  | 3.3<br><sub>5,1,4,6,2</sub> |  | 0.9<br><sub>1,2,1,1,0</sub> |  | 0.5<br><sub>0,0,0,1,0</sub> |  | 0.7 | 0.7 | 0.8 | 9.7 |
