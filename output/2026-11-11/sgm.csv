@@ -1,13 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ HOU,Draymond Green 5+ pts + Al Horford 5+ pra,2,0.6386,0.4407,2.27,2.38,2.22,-0.0228,1.002,2.10-2.50
-GSW @ HOU,Draymond Green 5+ pts + Fred VanVleet 10+ pr,2,0.5918,0.4134,2.42,2.54,2.36,-0.0235,1.003,2.10-2.50
-GSW @ HOU,Draymond Green 5+ pts + Jabari Smith Jr. 4+ reb,2,0.6166,0.4304,2.32,2.44,2.27,-0.0245,1.002,2.10-2.50
-GSW @ HOU,Al Horford 5+ pts + Draymond Green 5+ pr,2,0.6057,0.4669,2.14,2.25,2.03,-0.0543,1.002,1.85-2.10
-GSW @ HOU,Al Horford 5+ pts + Jabari Smith Jr. 10+ pa,2,0.5762,0.4508,2.22,2.33,2.09,-0.0569,1.002,1.85-2.10
-GSW @ HOU,Fred VanVleet 12+ pts + Draymond Green 5+ pr,2,0.5369,0.4524,2.21,2.32,2.08,-0.0603,1.002,1.85-2.10
-GSW @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Jabari Smith Jr. 10+ pts,3,0.6462,0.5179,1.93,2.03,1.65,-0.1474,1.008,1.50-1.65
-GSW @ HOU,Al Horford 5+ pra + Alperen Sengun 6+ reb + Jabari Smith Jr. 10+ pts,3,0.6961,0.5512,1.81,1.9,1.55,-0.1482,1.005,1.50-1.65
-GSW @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Jabari Smith Jr. 10+ pa,3,0.707,0.5628,1.78,1.87,1.51,-0.1483,1.006,1.50-1.65
+GSW @ HOU,Draymond Green 5+ pts + Fred VanVleet 10+ pr,2,0.5918,0.4098,2.44,2.56,2.37,-0.0284,1.003,2.10-2.50
+GSW @ HOU,Draymond Green 5+ pts + Alperen Sengun 6+ reb,2,0.6077,0.4214,2.37,2.49,2.3,-0.0295,1.002,2.10-2.50
+GSW @ HOU,Draymond Green 5+ pts + Alperen Sengun 25+ pra,2,0.614,0.4214,2.37,2.49,2.3,-0.0295,1.0,2.10-2.50
+GSW @ HOU,Amen Thompson 15+ pts + Jabari Smith Jr. 15+ pra,2,0.5038,0.4522,2.21,2.32,2.09,-0.0536,1.011,1.85-2.10
+GSW @ HOU,Al Horford 5+ pts + Draymond Green 5+ pr,2,0.6057,0.4592,2.18,2.29,2.05,-0.0589,1.002,1.85-2.10
+GSW @ HOU,Amen Thompson 15+ pts + Draymond Green 5+ pr,2,0.5118,0.4512,2.22,2.33,2.08,-0.0599,1.001,1.85-2.10
+GSW @ HOU,Al Horford 3pm under 1.5 + Draymond Green 5+ pr,2,0.7297,0.514,1.95,2.04,1.8,-0.073,0.999,1.65-1.85
+GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 15+ pra,2,0.711,0.51,1.96,2.06,1.81,-0.0762,0.998,1.65-1.85
+GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 10+ pa,2,0.6944,0.5035,1.99,2.09,1.83,-0.0776,0.999,1.65-1.85
+GSW @ HOU,Alperen Sengun 25+ pra + Fred VanVleet 10+ pr + Jabari Smith Jr. 15+ pra,3,0.7349,0.5705,1.75,1.84,1.5,-0.1424,1.009,1.50-1.65
+GSW @ HOU,Alperen Sengun 25+ pra + Fred VanVleet 10+ pr + Jabari Smith Jr. 10+ pa,3,0.7174,0.5631,1.78,1.86,1.52,-0.144,1.009,1.50-1.65
+GSW @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Jabari Smith Jr. 15+ pra,3,0.7246,0.5684,1.76,1.85,1.5,-0.1457,1.007,1.50-1.65
 OKC @ POR,Damian Lillard pts under 20.5 + Shai Gilgeous-Alexander 4+ ast,2,0.6226,0.4075,2.45,2.58,2.31,-0.0594,1.0,2.10-2.50
 OKC @ POR,POR win + Robert Williams III 5+ pr,2,0.4308,0.4917,2.03,2.14,1.91,-0.0618,1.003,1.85-2.10
 OKC @ POR,Damian Lillard pr under 24.5 + Shai Gilgeous-Alexander 4+ ast,2,0.6241,0.4121,2.43,2.55,2.27,-0.0625,0.999,2.10-2.50
