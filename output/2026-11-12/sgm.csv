@@ -1,6 +1,11 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-TOR @ PHI,PHI win + game under 221.5,2,0.2318,0.394,2.54,2.67,2.35,-0.0724,1.012,2.10-2.50
-TOR @ PHI,PHI win + game over 221.5,2,0.2708,0.3791,2.64,2.77,2.4,-0.0917,0.99,2.10-2.50
+TOR @ PHI,PHI win + Jaylen Brown 27+ pa,2,0.2913,0.4076,2.45,2.58,2.43,-0.0101,1.084,2.10-2.50
+TOR @ PHI,PHI win + Jaylen Brown 23+ pts,2,0.2789,0.4074,2.45,2.58,2.41,-0.0195,1.079,2.10-2.50
+TOR @ PHI,PHI win + Jaylen Brown 33+ pra,2,0.3026,0.4314,2.32,2.43,2.27,-0.0198,1.078,2.10-2.50
+TOR @ PHI,game over 221.5 + Jaylen Brown 15+ pr,2,0.5306,0.4591,2.18,2.29,1.97,-0.0936,1.008,1.85-2.10
+TOR @ PHI,TOR +10.5 + Jaylen Brown 15+ pr,2,0.7372,0.473,2.11,2.22,1.89,-0.1044,0.997,1.85-2.10
+TOR @ PHI,game under 221.5 + Jaylen Brown 15+ pr,2,0.4373,0.4593,2.18,2.29,1.94,-0.1089,0.991,1.85-2.10
+TOR @ PHI,Jaylen Brown 15+ pr + Tyrese Maxey 4+ reb,2,0.5182,0.4875,2.05,2.15,1.82,-0.1129,1.001,1.65-1.85
 DET @ WAS,Kevin Huerter 9+ pts + DET win,2,0.5293,0.4169,2.4,2.52,2.31,-0.0364,1.024,2.10-2.50
 DET @ WAS,DET win + Duncan Robinson 21+ pra,2,0.4149,0.3962,2.52,2.65,2.4,-0.048,1.042,2.10-2.50
 DET @ WAS,DET win + Paul Reed 21+ pra,2,0.4216,0.4081,2.45,2.57,2.3,-0.0604,1.029,2.10-2.50
@@ -25,15 +30,13 @@ DAL @ MIN,Cooper Flagg ast under 6.5 + Daniel Gafford 5+ pa,2,0.6218,0.4651,2.15
 DAL @ MIN,MIN win + P.J. Washington 10+ pr,2,0.6007,0.5958,1.68,1.76,1.5,-0.1038,0.991,1.50-1.65
 DAL @ MIN,MIN win + Kyrie Irving 15+ pr,2,0.5725,0.5681,1.76,1.85,1.57,-0.1073,0.988,1.50-1.65
 DAL @ MIN,MIN win + Daniel Gafford 5+ pa,2,0.5488,0.5426,1.84,1.94,1.64,-0.1081,0.986,1.50-1.65
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 15+ pr,2,0.596,0.3926,2.55,2.67,2.42,-0.0481,1.006,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 10+ pts,2,0.6557,0.4304,2.32,2.44,2.21,-0.0504,1.003,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 15+ pa,2,0.6041,0.4037,2.48,2.6,2.35,-0.0509,1.006,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Collin Gillespie 5+ pa,2,0.6973,0.4567,2.19,2.3,2.07,-0.0525,1.001,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 5+ reb + Collin Gillespie 5+ pa,2,0.69,0.4654,2.15,2.26,2.01,-0.0635,0.998,1.85-2.10
-CHA @ PHX,PHX win + Dillon Brooks 10+ pts,2,0.5026,0.537,1.86,1.96,1.73,-0.072,1.026,1.65-1.85
-CHA @ PHX,Ryan Kalkbrenner 6+ pts + Grayson Allen 10+ pts,2,0.6083,0.4538,2.2,2.31,2.04,-0.0761,1.006,1.85-2.10
-CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Collin Gillespie 5+ pa,2,0.7066,0.5158,1.94,2.04,1.79,-0.0772,1.001,1.65-1.85
-CHA @ PHX,PHX win + Collin Gillespie 10+ pra,2,0.4867,0.5212,1.92,2.01,1.77,-0.0778,1.02,1.65-1.85
-CHA @ PHX,PHX win + Devin Booker 1+ 3pm,2,0.5242,0.5614,1.78,1.87,1.63,-0.0844,1.013,1.50-1.65
-CHA @ PHX,PHX win + Collin Gillespie 5+ pa,2,0.5662,0.5951,1.68,1.76,1.53,-0.0873,1.007,1.50-1.65
-CHA @ PHX,PHX win + Grayson Allen 10+ pts,2,0.5184,0.5461,1.83,1.92,1.63,-0.1094,0.983,1.50-1.65
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Ryan Kalkbrenner 4+ reb,2,0.6328,0.3886,2.57,2.7,2.45,-0.0475,1.001,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 15+ pr,2,0.596,0.3987,2.51,2.63,2.38,-0.0532,1.006,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 10+ pts,2,0.6557,0.4355,2.3,2.41,2.17,-0.055,1.003,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Royce O'Neale 5+ pr,2,0.6991,0.457,2.19,2.3,2.07,-0.0553,1.0,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Grayson Allen 15+ pra,2,0.6784,0.4553,2.2,2.31,2.07,-0.0554,1.005,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Collin Gillespie 5+ pa,2,0.6973,0.4615,2.17,2.28,2.04,-0.0568,1.001,1.85-2.10
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Collin Gillespie 5+ pa,2,0.7066,0.5154,1.94,2.04,1.79,-0.0769,1.001,1.65-1.85
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Royce O'Neale 5+ pr,2,0.707,0.5093,1.96,2.06,1.81,-0.0774,0.998,1.65-1.85
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Grayson Allen 10+ pr,2,0.7184,0.5281,1.89,1.99,1.74,-0.0785,1.0,1.65-1.85
+CHA @ PHX,Jalen Green 1+ 3pm + Grayson Allen 15+ pr,2,0.6485,0.5879,1.7,1.79,1.51,-0.1114,1.002,1.50-1.65
