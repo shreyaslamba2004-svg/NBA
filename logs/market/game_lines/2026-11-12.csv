@@ -1,0 +1,5 @@
+snapshot_utc,game_id,date,matchup,book,spread_home,total,over_price,under_price,ml_home,ml_away,spread_home_price,spread_away_price,spread_home_open,total_open
+2026-11-12T13:07Z,401909976,2026-11-12,TOR @ PHI,DraftKings,-9.5,221.5,-105.0,-115.0,-437,341,-117.0,-103.0,-9.5,221.5
+2026-11-12T13:07Z,401909977,2026-11-12,DET @ WAS,DraftKings,10.5,220.5,-112.0,-108.0,343,-440,-112.0,-108.0,9.5,220.5
+2026-11-12T13:07Z,401909978,2026-11-12,DAL @ MIN,DraftKings,-5.5,227.5,-110.0,,-222,184,-114.0,-106.0,-4.5,226.5
+2026-11-12T13:07Z,401909979,2026-11-12,CHA @ PHX,DraftKings,-6.5,213.5,-110.0,-110.0,-244,201,-108.0,-112.0,-7.5,213.5
