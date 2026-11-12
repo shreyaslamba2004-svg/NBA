@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ HOU,Draymond Green 5+ pts + Fred VanVleet 10+ pr,2,0.5918,0.4098,2.44,2.56,2.37,-0.0284,1.003,2.10-2.50
-GSW @ HOU,Draymond Green 5+ pts + Alperen Sengun 6+ reb,2,0.6077,0.4214,2.37,2.49,2.3,-0.0295,1.002,2.10-2.50
-GSW @ HOU,Draymond Green 5+ pts + Alperen Sengun 25+ pra,2,0.614,0.4214,2.37,2.49,2.3,-0.0295,1.0,2.10-2.50
-GSW @ HOU,Amen Thompson 15+ pts + Jabari Smith Jr. 15+ pra,2,0.5038,0.4522,2.21,2.32,2.09,-0.0536,1.011,1.85-2.10
-GSW @ HOU,Al Horford 5+ pts + Draymond Green 5+ pr,2,0.6057,0.4592,2.18,2.29,2.05,-0.0589,1.002,1.85-2.10
-GSW @ HOU,Amen Thompson 15+ pts + Draymond Green 5+ pr,2,0.5118,0.4512,2.22,2.33,2.08,-0.0599,1.001,1.85-2.10
-GSW @ HOU,Al Horford 3pm under 1.5 + Draymond Green 5+ pr,2,0.7297,0.514,1.95,2.04,1.8,-0.073,0.999,1.65-1.85
-GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 15+ pra,2,0.711,0.51,1.96,2.06,1.81,-0.0762,0.998,1.65-1.85
-GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 10+ pa,2,0.6944,0.5035,1.99,2.09,1.83,-0.0776,0.999,1.65-1.85
-GSW @ HOU,Alperen Sengun 25+ pra + Fred VanVleet 10+ pr + Jabari Smith Jr. 15+ pra,3,0.7349,0.5705,1.75,1.84,1.5,-0.1424,1.009,1.50-1.65
-GSW @ HOU,Alperen Sengun 25+ pra + Fred VanVleet 10+ pr + Jabari Smith Jr. 10+ pa,3,0.7174,0.5631,1.78,1.86,1.52,-0.144,1.009,1.50-1.65
-GSW @ HOU,Fred VanVleet 10+ pr + Alperen Sengun 6+ reb + Jabari Smith Jr. 15+ pra,3,0.7246,0.5684,1.76,1.85,1.5,-0.1457,1.007,1.50-1.65
-OKC @ POR,Kenrich Williams 9+ pts + Shai Gilgeous-Alexander 4+ ast,2,0.4547,0.392,2.55,2.68,2.47,-0.0328,1.008,2.10-2.50
-OKC @ POR,Damian Lillard pts under 20.5 + Shai Gilgeous-Alexander 4+ ast,2,0.6226,0.4064,2.46,2.58,2.36,-0.0396,1.0,2.10-2.50
-OKC @ POR,Toumani Camara pts under 12.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5207,0.389,2.57,2.7,2.47,-0.0401,0.998,2.10-2.50
-OKC @ POR,Kenrich Williams 9+ pts + Isaiah Hartenstein 10+ pr,2,0.4869,0.4607,2.17,2.28,2.05,-0.0538,1.002,1.85-2.10
-OKC @ POR,Toumani Camara pts under 12.5 + Isaiah Hartenstein 10+ pr,2,0.5616,0.4605,2.17,2.28,2.05,-0.0541,1.0,1.85-2.10
-OKC @ POR,Kenrich Williams 9+ pts + Aday Mara 4+ reb,2,0.4729,0.4524,2.21,2.32,2.08,-0.0579,0.999,1.85-2.10
-OKC @ POR,POR win + Aday Mara 4+ reb,2,0.4256,0.5037,1.99,2.08,1.85,-0.0705,0.999,1.65-1.85
-OKC @ POR,POR win + Isaiah Hartenstein 10+ pr,2,0.4343,0.5083,1.97,2.07,1.82,-0.0748,0.993,1.65-1.85
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7207,0.5937,1.68,1.77,1.52,-0.0978,1.001,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pa + Robert Williams III 5+ pr,3,0.765,0.5504,1.82,1.91,1.57,-0.1374,1.001,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pr + Robert Williams III 5+ pr,3,0.7794,0.5701,1.75,1.84,1.51,-0.1405,1.001,1.50-1.65
-OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pa + Aday Mara 1+ blk,3,0.675,0.5027,1.99,2.09,1.71,-0.1429,1.001,1.65-1.85
+GSW @ HOU,Draymond Green 5+ pts + Alperen Sengun 6+ reb,2,0.6077,0.4207,2.38,2.5,2.32,-0.0228,1.002,2.10-2.50
+GSW @ HOU,Draymond Green 5+ pts + Fred VanVleet 10+ pr,2,0.5918,0.4145,2.41,2.53,2.35,-0.0239,1.003,2.10-2.50
+GSW @ HOU,Draymond Green 5+ pts + Jabari Smith Jr. 4+ reb,2,0.6166,0.4292,2.33,2.45,2.27,-0.024,1.002,2.10-2.50
+GSW @ HOU,Fred VanVleet 12+ pts + Draymond Green 5+ pr,2,0.5369,0.4491,2.23,2.34,2.09,-0.0591,1.002,1.85-2.10
+GSW @ HOU,Al Horford 5+ pts + Draymond Green 5+ pr,2,0.6057,0.4605,2.17,2.28,2.04,-0.0593,1.002,1.85-2.10
+GSW @ HOU,Fred VanVleet 12+ pts + Alperen Sengun 10+ pts,2,0.5299,0.4535,2.2,2.32,2.07,-0.0602,1.005,1.85-2.10
+GSW @ HOU,Al Horford 3pm under 1.5 + Draymond Green 5+ pr,2,0.7297,0.5289,1.89,1.99,1.74,-0.0782,0.999,1.65-1.85
+GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 4+ reb,2,0.6959,0.5078,1.97,2.07,1.81,-0.079,0.999,1.65-1.85
+GSW @ HOU,Al Horford 3pm under 1.5 + Alperen Sengun 15+ pa,2,0.7252,0.5378,1.86,1.95,1.71,-0.0809,1.0,1.65-1.85
+GSW @ HOU,Alperen Sengun 6+ reb + Jabari Smith Jr. 4+ reb + Kevin Durant 4+ reb,3,0.6858,0.5318,1.88,1.97,1.61,-0.1452,1.005,1.50-1.65
+GSW @ HOU,Alperen Sengun 6+ reb + Kevin Durant 4+ reb + Georges Niang 5+ pr,3,0.6695,0.5268,1.9,1.99,1.62,-0.1458,1.007,1.50-1.65
+GSW @ HOU,Alperen Sengun 6+ reb + Kevin Durant 4+ reb + Jabari Smith Jr. 10+ pa,3,0.6856,0.542,1.84,1.94,1.57,-0.1466,1.007,1.50-1.65
+OKC @ POR,Alex Caruso 8+ pts + Robert Williams III 5+ pr,2,0.659,0.4367,2.29,2.4,2.21,-0.0346,1.002,2.10-2.50
+OKC @ POR,Alex Caruso 8+ pts + Aday Mara 1+ blk,2,0.599,0.4005,2.5,2.62,2.4,-0.0368,1.002,2.10-2.50
+OKC @ POR,Damian Lillard pts under 19.5 + Alex Caruso 5+ pa,2,0.6528,0.4289,2.33,2.45,2.24,-0.0376,1.0,2.10-2.50
+OKC @ POR,Toumani Camara pts under 12.5 + Isaiah Hartenstein 10+ pr,2,0.5757,0.4624,2.16,2.27,2.05,-0.0502,1.0,1.85-2.10
+OKC @ POR,POR win + Sidy Cissoko 10+ pra,2,0.3832,0.4559,2.19,2.3,2.08,-0.0507,1.022,1.85-2.10
+OKC @ POR,Toumani Camara pts under 12.5 + Aday Mara 4+ reb,2,0.5674,0.4549,2.2,2.31,2.08,-0.0527,0.997,1.85-2.10
+OKC @ POR,POR win + Aday Mara 4+ reb,2,0.4368,0.5065,1.97,2.07,1.85,-0.0655,1.001,1.65-1.85
+OKC @ POR,POR win + Isaiah Hartenstein 10+ pr,2,0.4385,0.5093,1.96,2.06,1.82,-0.073,0.994,1.65-1.85
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Aday Mara 1+ blk,2,0.7375,0.5954,1.68,1.76,1.52,-0.0951,1.0,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Sidy Cissoko 10+ pra,2,0.7104,0.5928,1.69,1.77,1.52,-0.0982,1.002,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pa + Robert Williams III 5+ pr,3,0.7914,0.5528,1.81,1.9,1.57,-0.1337,1.001,1.50-1.65
+OKC @ POR,Shai Gilgeous-Alexander 4+ ast + Alex Caruso 5+ pa + Aday Mara 1+ blk,3,0.7198,0.5073,1.97,2.07,1.71,-0.135,1.001,1.65-1.85

@@ -1100,3 +1100,5 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-12T02:23Z,OKC@POR,37,False,none
 2026-11-12T02:28Z,GSW@HOU,2,False,espn
 2026-11-12T02:28Z,OKC@POR,32,False,none
+2026-11-12T02:33Z,GSW@HOU,-3,False,espn
+2026-11-12T02:33Z,OKC@POR,27,False,espn
