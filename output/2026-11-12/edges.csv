@@ -12,15 +12,20 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,5.5,draftkings,176.0,2.76,0.6234,1.6,0.3386,0.3386,0.2847,,0.7204,0.3762,0.0383,0.0054,True,True,False,,,
 401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,11.5,draftkings,790.0,8.9,0.1906,5.25,0.105,0.105,0.0855,,0.696,0.1163,0.0351,0.0011,False,False,False,,,
 401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,14.5,draftkings,1860.0,19.6,0.0815,12.27,0.0477,0.0477,0.0338,,0.5969,0.0521,0.022,0.0003,False,True,False,,,
+401909976,TOR @ PHI,prop_ast,over,Immanuel Quickley,1630193.0,9.5,draftkings,1160.0,12.6,0.1266,7.9,0.0742,0.0742,0.0525,,0.5958,0.0811,0.0219,0.0005,False,True,False,,,
 401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,9.5,draftkings,400.0,5.0,0.3147,3.18,0.1869,0.1869,0.1278,,0.5734,0.2038,0.0189,0.0012,False,True,False,,,
-401909977,DET @ WAS,moneyline,WAS,,,,draftkings,360.0,4.6,0.2238,4.47,0.2088,0.221,0.0029,4.1,0.0297,0.221,0.0165,0.0011,False,True,True,,,
 401909977,DET @ WAS,moneyline,WAS,,,,sportsbet,360.0,4.6,0.2238,4.47,0.2083,0.221,0.0029,4.38,0.0297,0.221,0.0165,0.0011,False,True,True,,,
-401909976,TOR @ PHI,moneyline,PHI,,,,draftkings,-326.0,1.31,0.506,1.98,0.7353,0.7756,-0.2696,4.07,-0.3389,0.7756,0.0135,0.011,True,True,True,Joel Embiid,0.4756,0.534
+401909977,DET @ WAS,moneyline,WAS,,,,draftkings,360.0,4.6,0.2238,4.47,0.2088,0.221,0.0029,4.1,0.0297,0.221,0.0165,0.0011,False,True,True,,,
+401909976,TOR @ PHI,moneyline,PHI,,,,draftkings,-324.0,1.31,0.506,1.98,0.7339,0.7756,-0.2696,4.12,-0.3379,0.7756,0.0149,0.0121,True,True,True,Joel Embiid,0.4756,0.534
+401909976,TOR @ PHI,prop_ast,over,Immanuel Quickley,1630193.0,10.5,draftkings,1900.0,20.0,0.0765,13.07,0.0467,0.0467,0.0298,,0.5308,0.0507,0.0133,0.0002,False,False,False,,,
 401909976,TOR @ PHI,moneyline,TOR,,,,betfair_ex_au,351.50000000000006,4.52,0.494,2.02,0.2164,0.2244,0.2696,2.36,1.2306,0.2244,0.0133,0.0009,True,True,True,Joel Embiid,0.5245,0.466
 401909977,DET @ WAS,prop_pra,over,Paul Reed,1630194.0,34.5,draftkings,1540.0,16.4,0.0932,10.73,0.057,0.057,0.0362,,0.5277,0.0618,0.0129,0.0002,False,True,False,,,
 401909976,TOR @ PHI,moneyline,TOR,,,,sportsbet,350.0,4.5,0.494,2.02,0.2146,0.2244,0.2696,3.53,1.2232,0.2244,0.01,0.0007,True,True,True,Joel Embiid,0.5245,0.466
+401909976,TOR @ PHI,prop_ast,over,Immanuel Quickley,1630193.0,8.5,draftkings,670.0,7.7,0.1951,5.13,0.1214,0.1214,0.0737,,0.502,0.1311,0.0095,0.0004,False,False,False,,,
+401909976,TOR @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,6.5,draftkings,1040.0,11.4,0.1317,7.59,0.082,0.082,0.0497,,0.5015,0.0885,0.0094,0.0002,False,False,False,Joel Embiid,0.1757,0.0949
 401909977,DET @ WAS,prop_pra,over,Paul Reed,1630194.0,29.5,draftkings,650.0,7.5,0.1974,5.07,0.1246,0.1246,0.0728,,0.4806,0.1342,0.0067,0.0003,False,True,False,,,
 401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,4.5,draftkings,-103.0,1.97,0.7425,1.35,0.4742,0.4753,0.2672,,0.4634,0.5106,0.0063,0.0016,True,True,True,,,
+401909976,TOR @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,7.5,draftkings,1920.0,20.2,0.0732,13.66,0.0463,0.0463,0.0269,,0.4782,0.0498,0.0063,0.0001,False,True,False,Joel Embiid,0.1017,0.0472
 401909977,DET @ WAS,prop_pts,over,Cade Cunningham,1630595.0,44.5,draftkings,2700.0,28.0,0.0527,18.97,0.0334,0.0334,0.0193,,0.4759,0.0359,0.006,0.0001,False,True,False,,,
 401909979,CHA @ PHX,prop_ast,over,Devin Booker,1626164.0,8.5,draftkings,870.0,9.7,0.1516,6.59,0.0963,0.0963,0.0553,,0.4708,0.1036,0.0054,0.0002,False,False,False,,,
 401909977,DET @ WAS,prop_pts,over,Cade Cunningham,1630595.0,39.5,draftkings,1320.0,14.2,0.1032,9.69,0.0658,0.0658,0.0374,,0.4659,0.0708,0.0047,0.0001,False,True,False,,,
