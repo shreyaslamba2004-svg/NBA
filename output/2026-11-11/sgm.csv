@@ -1,42 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CLE @ NYK,Landry Shamet pts under 8.5 + Karl-Anthony Towns 1+ 3pm,2,0.4468,0.404,2.48,2.6,2.36,-0.0464,1.0,2.10-2.50
-CLE @ NYK,Landry Shamet pts under 8.5 + Karl-Anthony Towns 6+ reb,2,0.5343,0.4863,2.06,2.16,1.95,-0.0498,0.998,1.85-2.10
-CLE @ NYK,Landry Shamet pts under 8.5 + OG Anunoby 1+ 3pm,2,0.5017,0.4608,2.17,2.28,2.06,-0.0499,0.999,1.85-2.10
-CLE @ NYK,Jarrett Allen pts under 11.5 + Landry Shamet 5+ pr,2,0.5293,0.437,2.29,2.4,2.16,-0.0557,0.999,2.10-2.50
-CLE @ NYK,Jarrett Allen pts under 11.5 + Landry Shamet 5+ pa,2,0.5192,0.4286,2.33,2.45,2.2,-0.0565,0.998,2.10-2.50
-CLE @ NYK,Jarrett Allen pts under 11.5 + OG Anunoby 1+ 3pm,2,0.5333,0.4515,2.21,2.33,2.09,-0.0567,1.002,1.85-2.10
-BOS @ TOR,Neemias Queta pts under 9.5 + Jamal Shead 10+ pa,2,0.4508,0.3932,2.54,2.67,2.44,-0.0413,1.001,2.10-2.50
-BOS @ TOR,RJ Barrett 21+ pts + Jamal Shead 10+ pa,2,0.5466,0.4214,2.37,2.49,2.27,-0.043,1.008,2.10-2.50
-BOS @ TOR,Payton Pritchard pts under 15.5 + Jamal Shead 10+ pa,2,0.5026,0.4086,2.45,2.57,2.33,-0.0466,1.003,2.10-2.50
-BOS @ TOR,Ja'Kobe Walter pts under 12.5 + Jamal Shead 5+ pr,2,0.5794,0.4563,2.19,2.3,2.08,-0.0522,1.0,1.85-2.10
-BOS @ TOR,RJ Barrett 21+ pts + Jamal Shead 5+ pr,2,0.5694,0.4544,2.2,2.31,2.09,-0.0522,1.004,1.85-2.10
-BOS @ TOR,Jamal Shead 8+ pts + RJ Barrett 15+ pa,2,0.6403,0.4681,2.14,2.24,2.02,-0.0523,1.004,1.85-2.10
-BOS @ TOR,BOS win + Jamal Shead 5+ pr,2,0.6235,0.5635,1.77,1.86,1.65,-0.0718,0.997,1.50-1.65
-BOS @ TOR,BOS win + Collin Murray-Boyles 4+ reb,2,0.5496,0.5139,1.95,2.04,1.8,-0.0747,1.0,1.65-1.85
-BOS @ TOR,BOS win + Jamal Shead 10+ pa,2,0.5907,0.5159,1.94,2.04,1.79,-0.0748,0.988,1.65-1.85
-BOS @ TOR,BOS win + Mitchell Robinson 4+ reb,2,0.5534,0.5221,1.92,2.01,1.77,-0.0761,1.0,1.65-1.85
-BOS @ TOR,BOS win + Mitchell Robinson 5+ pr,2,0.6203,0.5907,1.69,1.78,1.56,-0.0764,1.001,1.50-1.65
-BOS @ TOR,BOS win + Jayson Tatum 4+ reb,2,0.609,0.5755,1.74,1.82,1.6,-0.0781,0.998,1.50-1.65
-SAS @ CHI,game under 236.5 + SAS win,2,0.4546,0.4533,2.21,2.32,2.15,-0.0266,1.032,2.10-2.50
-SAS @ CHI,SAS win + Matas Buzelis pa under 17.5,2,0.5063,0.4603,2.17,2.28,2.11,-0.0292,1.038,2.10-2.50
-SAS @ CHI,SAS win + Matas Buzelis pts under 15.5,2,0.512,0.4604,2.17,2.28,2.1,-0.0332,1.032,1.85-2.10
-SAS @ CHI,SAS win + Isaac Okoro pts under 7.5,2,0.4906,0.4528,2.21,2.32,2.12,-0.0407,1.029,2.10-2.50
-SAS @ CHI,Julian Champagnie 3pm under 2.5 + Josh Giddey 10+ pr,2,0.6805,0.4515,2.21,2.33,2.08,-0.0588,0.999,1.85-2.10
-SAS @ CHI,game over 236.5 + Josh Giddey 10+ pr,2,0.4341,0.4613,2.17,2.28,2.02,-0.0703,1.013,1.85-2.10
-SAS @ CHI,SAS win + De'Aaron Fox 15+ pa + Stephon Castle 4+ ast,3,0.5901,0.5599,1.79,1.88,1.58,-0.1136,1.023,1.50-1.65
-SAS @ CHI,SAS win + De'Aaron Fox 15+ pa + Stephon Castle 1+ 3pm,3,0.5634,0.5373,1.86,1.95,1.65,-0.1146,1.023,1.50-1.65
-SAS @ CHI,SAS win + Victor Wembanyama 8+ reb + De'Aaron Fox 15+ pa,3,0.6087,0.5678,1.76,1.85,1.55,-0.119,1.014,1.50-1.65
-SAS @ CHI,Victor Wembanyama 8+ reb + De'Aaron Fox 15+ pa + Stephon Castle 4+ ast,3,0.6491,0.5119,1.95,2.05,1.66,-0.1481,1.005,1.65-1.85
-SAS @ CHI,Victor Wembanyama 8+ reb + De'Aaron Fox 15+ pa + Stephon Castle 1+ 3pm,3,0.6198,0.4913,2.04,2.14,1.73,-0.149,1.005,1.65-1.85
-DEN @ MEM,DEN win + Aaron Gordon 10+ pa,2,0.4921,0.494,2.02,2.13,1.92,-0.0536,1.03,1.85-2.10
-DEN @ MEM,DEN -3.5 + Aaron Gordon 10+ pa,2,0.4106,0.4223,2.37,2.49,2.24,-0.056,1.033,2.10-2.50
-DEN @ MEM,DEN win + Christian Braun 10+ pr,2,0.5126,0.5071,1.97,2.07,1.85,-0.0639,1.017,1.65-1.85
-DEN @ MEM,DEN win + Jamal Murray 2+ 3pm,2,0.4791,0.4745,2.11,2.21,1.97,-0.0666,1.014,1.85-2.10
-DEN @ MEM,DEN win + Nikola Jokic 6+ ast,2,0.5292,0.5218,1.92,2.01,1.79,-0.0668,1.013,1.65-1.85
-DEN @ MEM,DEN -3.5 + Christian Braun 10+ pr,2,0.4267,0.4324,2.31,2.43,2.15,-0.0685,1.017,2.10-2.50
-DEN @ MEM,DEN win + Christian Braun 10+ pra,2,0.5445,0.5358,1.87,1.96,1.74,-0.0691,1.01,1.65-1.85
-DEN @ MEM,DEN -3.5 + Jamal Murray 2+ 3pm,2,0.3995,0.4054,2.47,2.59,2.3,-0.0695,1.016,2.10-2.50
-DEN @ MEM,DEN -3.5 + Nikola Jokic 6+ ast,2,0.4412,0.4456,2.24,2.36,2.09,-0.0699,1.015,1.85-2.10
+SAS @ CHI,game over 237.5 + Josh Giddey 15+ pr,2,0.3479,0.397,2.52,2.64,2.43,-0.0344,1.057,2.10-2.50
+SAS @ CHI,game over 237.5 + De'Aaron Fox 15+ pa,2,0.3476,0.4006,2.5,2.62,2.38,-0.0459,1.046,2.10-2.50
+SAS @ CHI,Julian Champagnie 3pm under 2.5 + SAS win,2,0.5706,0.4311,2.32,2.44,2.21,-0.0469,0.984,2.10-2.50
+SAS @ CHI,Julian Champagnie 3pm under 2.5 + Josh Giddey 10+ pr,2,0.6922,0.4527,2.21,2.32,2.08,-0.0564,0.999,1.85-2.10
+SAS @ CHI,SAS win + Stephon Castle 11+ ra,2,0.5317,0.4896,2.04,2.14,1.92,-0.0596,1.009,1.85-2.10
+SAS @ CHI,Josh Giddey 15+ ra + SAS win,2,0.5155,0.4474,2.23,2.35,2.07,-0.0723,0.985,1.85-2.10
+SAS @ CHI,Josh Giddey 15+ pr + De'Aaron Fox 15+ pa,2,0.6993,0.5908,1.69,1.78,1.52,-0.1022,1.001,1.50-1.65
+SAS @ CHI,Josh Giddey 15+ pr + Stephon Castle 1+ 3pm,2,0.6828,0.5847,1.71,1.8,1.53,-0.1053,0.999,1.50-1.65
+SAS @ CHI,SAS win + De'Aaron Fox 15+ pa + Stephon Castle 4+ ast,3,0.597,0.5563,1.8,1.89,1.58,-0.1193,1.017,1.50-1.65
+SAS @ CHI,SAS win + Josh Giddey 15+ pr + De'Aaron Fox 15+ pa,3,0.568,0.5198,1.92,2.02,1.67,-0.1313,1.0,1.65-1.85
+SAS @ CHI,SAS win + Josh Giddey 15+ pr + Stephon Castle 1+ 3pm,3,0.5521,0.5121,1.95,2.05,1.68,-0.1382,0.994,1.65-1.85
+SAS @ CHI,Josh Giddey 15+ pr + Victor Wembanyama 8+ reb + Stephon Castle 4+ ast,3,0.6415,0.5021,1.99,2.09,1.7,-0.1467,1.005,1.65-1.85
+DEN @ MEM,DEN win + Aaron Gordon 10+ pa,2,0.4848,0.4907,2.04,2.14,1.92,-0.0599,1.024,1.85-2.10
+DEN @ MEM,DEN -3.5 + Aaron Gordon 10+ pa,2,0.4062,0.42,2.38,2.5,2.24,-0.0611,1.028,2.10-2.50
+DEN @ MEM,DEN win + Christian Braun 10+ pr,2,0.5071,0.5062,1.98,2.07,1.85,-0.0624,1.019,1.85-2.10
+DEN @ MEM,DEN -3.5 + Christian Braun 10+ pr,2,0.4246,0.433,2.31,2.43,2.16,-0.0642,1.022,2.10-2.50
+DEN @ MEM,DEN win + Jamal Murray 2+ 3pm,2,0.4797,0.4754,2.1,2.21,1.97,-0.0649,1.015,1.85-2.10
+DEN @ MEM,DEN win + Nikola Jokic 6+ ast,2,0.528,0.5223,1.91,2.01,1.79,-0.0657,1.014,1.65-1.85
+DEN @ MEM,DEN win + Christian Braun 10+ pra,2,0.5398,0.5369,1.86,1.96,1.74,-0.0672,1.013,1.65-1.85
+DEN @ MEM,DEN -3.5 + Jamal Murray 2+ 3pm,2,0.4005,0.4055,2.47,2.59,2.3,-0.0693,1.016,2.10-2.50
+DEN @ MEM,DEN win + Nikola Jokic 8+ reb,2,0.5198,0.5085,1.97,2.06,1.81,-0.0775,0.999,1.65-1.85
 LAL @ MIL,Kel'el Ware pr under 18.5 + LAL win,2,0.5997,0.4503,2.22,2.33,2.2,-0.011,1.012,2.10-2.50
 LAL @ MIL,Kel'el Ware pts under 10.5 + LAL win,2,0.5678,0.4543,2.2,2.31,2.16,-0.0199,1.018,2.10-2.50
 LAL @ MIL,Kel'el Ware pra under 20.5 + LAL win,2,0.6217,0.4845,2.06,2.17,2.02,-0.0213,1.011,1.85-2.10
@@ -71,14 +54,14 @@ ORL @ UTA,Darryn Peterson ra under 9.5 + Desmond Bane 1+ 3pm,2,0.6736,0.5027,1.9
 ORL @ UTA,ORL win + Desmond Bane 15+ pr,2,0.5691,0.5351,1.87,1.96,1.72,-0.0821,1.011,1.65-1.85
 ORL @ UTA,ORL win + Desmond Bane 10+ pts,2,0.5891,0.5514,1.81,1.9,1.66,-0.0827,1.009,1.65-1.85
 ORL @ UTA,Josh Okogie 5+ pr + Ace Bailey 10+ pts + Jaxson Hayes 10+ pr,3,0.6192,0.5174,1.93,2.03,1.64,-0.1493,1.013,1.50-1.65
-GSW @ HOU,HOU win + Stephen Curry 3pm under 4.5,2,0.4388,0.3843,2.6,2.73,2.49,-0.0417,1.033,2.10-2.50
 GSW @ HOU,HOU win + Georges Niang 3pm under 1.5,2,0.4523,0.3968,2.52,2.65,2.39,-0.0504,1.024,2.10-2.50
 GSW @ HOU,HOU win + Jabari Smith Jr. 2+ ast,2,0.4347,0.382,2.62,2.75,2.49,-0.0506,1.018,2.10-2.50
+GSW @ HOU,game over 219.5 + Kevin Durant 25+ pra,2,0.5436,0.4032,2.48,2.6,2.35,-0.0543,1.045,2.10-2.50
 GSW @ HOU,HOU win + Kevin Durant 25+ pra,2,0.5766,0.5484,1.82,1.91,1.71,-0.0609,1.027,1.65-1.85
 GSW @ HOU,HOU win + Jabari Smith Jr. 10+ pts,2,0.5914,0.5547,1.8,1.89,1.69,-0.0652,1.02,1.65-1.85
 GSW @ HOU,Kevin Durant 4+ ast + Yaxel Lendeborg 10+ pts,2,0.6354,0.447,2.24,2.35,2.09,-0.0665,1.002,1.85-2.10
 GSW @ HOU,HOU win + Amen Thompson 1+ stl,2,0.544,0.4783,2.09,2.2,1.95,-0.0689,1.005,1.85-2.10
-GSW @ HOU,HOU win + Jabari Smith Jr. 10+ pa,2,0.6357,0.5979,1.67,1.76,1.55,-0.0719,1.013,1.50-1.65
+GSW @ HOU,HOU win + Jabari Smith Jr. 10+ pa,2,0.6357,0.5973,1.67,1.76,1.55,-0.0718,1.013,1.50-1.65
 GSW @ HOU,HOU win + Tari Eason 10+ pra,2,0.5879,0.5487,1.82,1.91,1.69,-0.073,1.011,1.65-1.85
 GSW @ HOU,game over 219.5 + Yaxel Lendeborg 10+ pts,2,0.5968,0.4419,2.26,2.38,2.09,-0.077,1.02,1.85-2.10
 GSW @ HOU,HOU win + Tari Eason 5+ pa,2,0.6252,0.5919,1.69,1.77,1.56,-0.0771,1.009,1.50-1.65
