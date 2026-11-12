@@ -1320,14 +1320,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,ORL,1630532,Franz Wagner,ra,15.5,False,0.2853,0.311,est,0.3076
 401909973,ORL @ UTA,ORL,1630532,Franz Wagner,ra,16.5,False,0.2177,0.2394,est,0.2366
 401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,17.5,False,0.706,0.6986,book,0.6996
-401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,18.5,False,0.6611,0.6505,est,0.6519
+401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,18.5,False,0.6611,0.6527,est,0.6538
 401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,19.5,False,0.6144,0.6089,book,0.6096
-401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,20.5,False,0.5703,0.5587,est,0.5603
-401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,21.5,True,0.5225,0.5107,book,0.5123
-401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,22.5,False,0.4776,0.4658,est,0.4674
-401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,23.5,False,0.4344,0.4229,est,0.4244
+401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,20.5,False,0.5703,0.5611,est,0.5623
+401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,21.5,True,0.5225,0.5131,book,0.5143
+401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,22.5,False,0.4776,0.4797,book,0.4794
+401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,23.5,False,0.4344,0.4252,est,0.4264
 401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,24.5,False,0.3926,0.3636,book,0.3674
-401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,25.5,False,0.3527,0.342,est,0.3434
+401909974,GSW @ HOU,HOU,201142,Kevin Durant,pts,25.5,False,0.3527,0.3442,est,0.3453
 401909974,GSW @ HOU,HOU,201142,Kevin Durant,reb,2.5,False,0.9335,0.8783,book,0.8856
 401909974,GSW @ HOU,HOU,201142,Kevin Durant,reb,3.5,False,0.8503,0.7826,book,0.7915
 401909974,GSW @ HOU,HOU,201142,Kevin Durant,reb,4.5,False,0.7269,0.6514,book,0.6614
@@ -1391,7 +1391,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,4.5,False,0.8541,0.8321,est,0.835
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,5.5,False,0.7791,0.6956,book,0.7066
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,6.5,False,0.692,0.6552,est,0.6601
-401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,7.5,False,0.6048,0.5484,book,0.5558
+401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,7.5,False,0.6048,0.5385,book,0.5472
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,8.5,True,0.5183,0.4765,book,0.482
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,9.5,False,0.4387,0.4063,book,0.4106
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,pts,10.5,False,0.3588,0.3213,est,0.3262
@@ -1453,15 +1453,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,ra,7.5,False,0.388,0.3507,est,0.3557
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,ra,8.5,False,0.2858,0.2542,est,0.2584
 401909974,GSW @ HOU,HOU,1631106,Tari Eason,ra,9.5,False,0.2032,0.1785,est,0.1817
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,15.5,False,0.7079,0.6824,est,0.6857
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,16.5,False,0.6553,0.6276,est,0.6312
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,15.5,False,0.7079,0.6919,est,0.694
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,16.5,False,0.6553,0.6379,est,0.6402
 401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,17.5,False,0.6049,0.5666,book,0.5717
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,18.5,False,0.5536,0.5237,est,0.5276
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,19.5,True,0.5054,0.4753,book,0.4793
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,20.5,False,0.4551,0.4254,est,0.4293
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,21.5,False,0.4096,0.3808,est,0.3846
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,22.5,False,0.3675,0.34,est,0.3436
-401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,23.5,False,0.3259,0.3,est,0.3034
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,18.5,False,0.5536,0.5348,est,0.5373
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,19.5,True,0.5054,0.4864,book,0.4889
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,20.5,False,0.4551,0.4363,est,0.4388
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,21.5,False,0.4096,0.3913,est,0.3937
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,22.5,False,0.3675,0.35,est,0.3524
+401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,pts,23.5,False,0.3259,0.3094,est,0.3116
 401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,reb,5.5,False,0.8977,0.8163,book,0.827
 401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,reb,6.5,False,0.825,0.7378,book,0.7493
 401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,reb,7.5,False,0.7309,0.6488,book,0.6596
@@ -1521,15 +1521,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,ra,16.5,False,0.4906,0.4433,est,0.4495
 401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,ra,17.5,False,0.4123,0.3671,est,0.3731
 401909974,GSW @ HOU,HOU,1630578,Alperen Sengun,ra,18.5,False,0.3395,0.2983,est,0.3037
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,4.5,False,0.8137,,model only,0.8137
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,5.5,False,0.731,,model only,0.731
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,6.5,False,0.6435,,model only,0.6435
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,7.5,False,0.5587,,model only,0.5587
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,8.5,False,0.4739,,model only,0.4739
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,9.5,False,0.3966,,model only,0.3966
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,10.5,False,0.3249,,model only,0.3249
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,11.5,False,0.2629,,model only,0.2629
-401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,12.5,False,0.2096,,model only,0.2096
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,4.5,False,0.8137,0.8329,est,0.8304
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,5.5,False,0.731,0.7563,est,0.753
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,6.5,False,0.6435,0.6734,est,0.6694
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,7.5,False,0.5587,0.5911,est,0.5868
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,8.5,True,0.4739,0.5071,book,0.5027
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,9.5,False,0.3966,0.4287,est,0.4245
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,10.5,False,0.3249,0.3546,est,0.3507
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,11.5,False,0.2629,0.2894,est,0.2859
+401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,pts,12.5,False,0.2096,0.2325,est,0.2294
 401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,reb,0.5,False,0.7773,,model only,0.7773
 401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,reb,1.5,False,0.4784,,model only,0.4784
 401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,reb,2.5,False,0.2468,,model only,0.2468
@@ -1586,15 +1586,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,ra,5.5,False,0.2569,,model only,0.2569
 401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,ra,6.5,False,0.1563,,model only,0.1563
 401909974,GSW @ HOU,HOU,1642263,Reed Sheppard,ra,7.5,False,0.0926,,model only,0.0926
-401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,2.5,False,0.9004,0.8806,est,0.8832
-401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,3.5,False,0.8201,0.7881,est,0.7924
-401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,4.5,False,0.7287,0.6867,est,0.6922
-401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,5.5,False,0.6227,0.5516,book,0.561
-401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,6.5,True,0.5169,0.4661,book,0.4728
+401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,2.5,False,0.9004,0.8862,est,0.8881
+401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,3.5,False,0.8201,0.7971,est,0.8001
+401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,4.5,False,0.7287,0.6983,est,0.7023
+401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,5.5,False,0.6227,0.5291,book,0.5414
+401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,6.5,True,0.5169,0.4797,book,0.4846
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,7.5,False,0.4212,0.396,book,0.3993
-401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,8.5,False,0.3366,0.2928,est,0.2986
+401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,8.5,False,0.3366,0.3042,est,0.3085
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,9.5,False,0.2595,0.2596,book,0.2596
-401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,10.5,False,0.1978,0.1675,est,0.1715
+401909974,GSW @ HOU,HOU,203935,Marcus Smart,pts,10.5,False,0.1978,0.1752,est,0.1782
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,reb,0.5,False,0.8569,,model only,0.8569
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,reb,1.5,False,0.6122,,model only,0.6122
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,reb,2.5,False,0.3735,0.3436,book,0.3475
@@ -1651,15 +1651,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,ra,5.5,False,0.3083,,model only,0.3083
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,ra,6.5,False,0.201,,model only,0.201
 401909974,GSW @ HOU,HOU,203935,Marcus Smart,ra,7.5,False,0.1227,,model only,0.1227
-401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,10.5,False,0.7958,0.7557,est,0.761
+401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,10.5,False,0.7958,0.7565,est,0.7617
 401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,11.5,False,0.7409,0.6676,book,0.6773
-401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,12.5,False,0.6805,0.6283,est,0.6352
-401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,13.5,False,0.6166,0.5607,est,0.568
-401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,14.5,True,0.5575,0.4999,book,0.5075
-401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,15.5,False,0.4938,0.4363,est,0.4439
-401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,16.5,False,0.4336,0.3779,est,0.3852
+401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,12.5,False,0.6805,0.6293,est,0.6361
+401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,13.5,False,0.6166,0.5617,est,0.569
+401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,14.5,True,0.5575,0.501,book,0.5085
+401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,15.5,False,0.4938,0.4374,est,0.4448
+401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,16.5,False,0.4336,0.3789,est,0.3861
 401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,17.5,False,0.3799,0.3386,book,0.3441
-401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,18.5,False,0.3262,0.2776,est,0.284
+401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,pts,18.5,False,0.3262,0.2785,est,0.2848
 401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,reb,3.5,False,0.906,0.8246,book,0.8353
 401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,reb,4.5,False,0.8138,0.7231,book,0.7351
 401909974,GSW @ HOU,HOU,1631095,Jabari Smith Jr.,reb,5.5,False,0.6952,0.6008,book,0.6133
@@ -1724,7 +1724,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,12.5,False,0.6647,0.6409,est,0.6441
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,13.5,False,0.6028,0.5774,est,0.5808
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,14.5,True,0.5417,0.5155,book,0.519
-401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,15.5,False,0.4832,0.457,est,0.4604
+401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,15.5,False,0.4832,0.4808,book,0.4811
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,16.5,False,0.423,0.3975,est,0.4009
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,17.5,False,0.3651,0.3474,book,0.3497
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,pts,18.5,False,0.3143,0.2921,est,0.295
@@ -1788,14 +1788,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,ra,12.5,False,0.3614,0.3055,est,0.3129
 401909974,GSW @ HOU,HOU,1641708,Amen Thompson,ra,13.5,False,0.2759,0.2286,est,0.2348
 401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,7.5,False,0.862,0.7542,book,0.7684
-401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,8.5,False,0.8075,0.7417,est,0.7504
+401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,8.5,False,0.8075,0.7399,est,0.7488
 401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,9.5,False,0.7433,0.6379,book,0.6518
-401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,10.5,False,0.6744,0.5865,est,0.5981
-401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,11.5,True,0.6048,0.5117,book,0.524
-401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,12.5,False,0.5343,0.4399,est,0.4524
-401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,13.5,False,0.4668,0.3748,est,0.3869
+401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,10.5,False,0.6744,0.5841,est,0.596
+401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,11.5,True,0.6048,0.5093,book,0.5219
+401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,12.5,False,0.5343,0.4376,est,0.4503
+401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,13.5,False,0.4668,0.3725,est,0.385
 401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,14.5,False,0.4043,0.3374,book,0.3462
-401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,15.5,False,0.3441,0.2643,est,0.2748
+401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,pts,15.5,False,0.3441,0.2624,est,0.2732
 401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,reb,0.5,False,0.955,0.9447,est,0.946
 401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,reb,1.5,False,0.8264,0.7931,est,0.7975
 401909974,GSW @ HOU,HOU,1627832,Fred VanVleet,reb,2.5,True,0.6309,0.5792,book,0.586
@@ -1919,15 +1919,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,1629646,Charles Bassey,ra,6.5,False,0.3888,,model only,0.3888
 401909974,GSW @ HOU,GSW,1629646,Charles Bassey,ra,7.5,False,0.2953,,model only,0.2953
 401909974,GSW @ HOU,GSW,1629646,Charles Bassey,ra,8.5,False,0.2182,,model only,0.2182
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,21.5,False,0.6606,0.669,est,0.6679
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,22.5,False,0.6207,0.6295,est,0.6284
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,23.5,False,0.5794,0.5886,est,0.5874
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,24.5,False,0.5424,0.5517,est,0.5505
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,25.5,True,0.5051,0.5145,book,0.5133
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,26.5,False,0.4676,0.477,est,0.4758
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,27.5,False,0.432,0.4413,est,0.4401
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,28.5,False,0.3967,0.4057,est,0.4045
-401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,29.5,False,0.3622,0.3709,est,0.3698
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,22.5,False,0.6207,0.6415,est,0.6388
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,23.5,False,0.5794,0.601,est,0.5982
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,24.5,False,0.5424,0.5644,est,0.5615
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,25.5,False,0.5051,0.5145,book,0.5133
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,26.5,True,0.4676,0.4899,book,0.487
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,27.5,False,0.432,0.4541,est,0.4511
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,28.5,False,0.3967,0.4182,est,0.4154
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,29.5,False,0.3622,0.3831,est,0.3803
+401909974,GSW @ HOU,GSW,201939,Stephen Curry,pts,30.5,False,0.3325,0.3526,est,0.3499
 401909974,GSW @ HOU,GSW,201939,Stephen Curry,reb,0.5,False,0.9734,0.9761,est,0.9757
 401909974,GSW @ HOU,GSW,201939,Stephen Curry,reb,1.5,False,0.8812,0.8921,est,0.8907
 401909974,GSW @ HOU,GSW,201939,Stephen Curry,reb,2.5,False,0.7195,0.7327,book,0.731
@@ -1988,15 +1988,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,201939,Stephen Curry,ra,9.5,False,0.3284,0.3696,est,0.3642
 401909974,GSW @ HOU,GSW,201939,Stephen Curry,ra,10.5,False,0.2356,0.2699,est,0.2654
 401909974,GSW @ HOU,GSW,201939,Stephen Curry,ra,11.5,False,0.1652,0.1918,est,0.1883
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,0.5,False,0.9914,0.9792,est,0.9808
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,1.5,False,0.9601,0.9074,est,0.9143
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,2.5,False,0.9019,0.7892,est,0.8041
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,3.5,False,0.8076,0.6309,est,0.6542
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,4.5,True,0.6984,0.4853,book,0.5134
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,5.5,False,0.5782,0.3582,est,0.3872
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,6.5,False,0.4645,0.261,est,0.2879
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,7.5,False,0.3574,0.1846,est,0.2074
-401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,8.5,False,0.2694,0.1306,est,0.1489
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,0.5,False,0.9914,0.9795,est,0.9811
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,1.5,False,0.9601,0.9087,est,0.9154
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,2.5,False,0.9019,0.7918,est,0.8063
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,3.5,False,0.8076,0.6344,est,0.6573
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,4.5,True,0.6984,0.4891,book,0.5167
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,5.5,False,0.5782,0.3617,est,0.3903
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,6.5,False,0.4645,0.264,est,0.2905
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,7.5,False,0.3574,0.1869,est,0.2094
+401909974,GSW @ HOU,GSW,203110,Draymond Green,pts,8.5,False,0.2694,0.1323,est,0.1504
 401909974,GSW @ HOU,GSW,203110,Draymond Green,reb,2.5,False,0.8183,0.8362,book,0.8338
 401909974,GSW @ HOU,GSW,203110,Draymond Green,reb,3.5,False,0.6629,0.7227,book,0.7148
 401909974,GSW @ HOU,GSW,203110,Draymond Green,reb,4.5,False,0.5007,0.5819,book,0.5712
@@ -2055,15 +2055,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,203110,Draymond Green,ra,12.5,False,0.2959,0.3829,est,0.3714
 401909974,GSW @ HOU,GSW,203110,Draymond Green,ra,13.5,False,0.2231,0.2976,est,0.2878
 401909974,GSW @ HOU,GSW,203110,Draymond Green,ra,14.5,False,0.1635,0.2238,est,0.2159
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,0.5,False,0.9606,0.9623,est,0.962
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,1.5,False,0.8805,0.8852,est,0.8846
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,2.5,False,0.7668,0.7749,est,0.7738
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,3.5,False,0.6399,0.6505,est,0.6491
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,4.5,True,0.5095,0.521,book,0.5195
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,5.5,False,0.3925,0.4035,est,0.402
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,6.5,False,0.2926,0.3022,est,0.3009
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,7.5,False,0.2127,0.2204,est,0.2194
-401909974,GSW @ HOU,GSW,201143,Al Horford,pts,8.5,False,0.1519,0.1579,est,0.1572
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,0.5,False,0.9606,0.9617,est,0.9615
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,1.5,False,0.8805,0.8836,est,0.8832
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,2.5,False,0.7668,0.7722,est,0.7714
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,3.5,False,0.6399,0.6469,est,0.646
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,4.5,True,0.5095,0.5171,book,0.5161
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,5.5,False,0.3925,0.4562,book,0.4478
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,6.5,False,0.2926,0.2989,est,0.2981
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,7.5,False,0.2127,0.2178,est,0.2171
+401909974,GSW @ HOU,GSW,201143,Al Horford,pts,8.5,False,0.1519,0.1559,est,0.1554
 401909974,GSW @ HOU,GSW,201143,Al Horford,reb,0.5,False,0.9288,0.9226,est,0.9234
 401909974,GSW @ HOU,GSW,201143,Al Horford,reb,1.5,False,0.7949,0.78,est,0.782
 401909974,GSW @ HOU,GSW,201143,Al Horford,reb,2.5,False,0.6185,0.6078,book,0.6092
@@ -2120,15 +2120,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,201143,Al Horford,ra,6.5,False,0.2926,,model only,0.2926
 401909974,GSW @ HOU,GSW,201143,Al Horford,ra,7.5,False,0.1992,,model only,0.1992
 401909974,GSW @ HOU,GSW,201143,Al Horford,ra,8.5,False,0.131,,model only,0.131
-401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,13.5,False,0.7722,0.7215,est,0.7282
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,14.5,False,0.7226,0.6548,book,0.6638
-401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,15.5,False,0.6732,0.6114,est,0.6196
-401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,16.5,False,0.6214,0.5563,est,0.5649
-401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,17.5,True,0.5708,0.5039,book,0.5127
-401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.5183,0.4511,est,0.46
+401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,15.5,False,0.6732,0.6504,est,0.6534
+401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,16.5,False,0.6214,0.5972,est,0.6004
+401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,17.5,False,0.5708,0.509,book,0.5172
+401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,18.5,True,0.5183,0.4929,book,0.4963
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.4704,0.3994,book,0.4088
-401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.4223,0.3583,est,0.3667
-401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,21.5,False,0.3761,0.3153,est,0.3233
+401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.4223,0.3977,est,0.4009
+401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,21.5,False,0.3761,0.3525,est,0.3556
+401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,pts,22.5,False,0.3343,0.3121,est,0.315
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,reb,3.5,False,0.8674,0.848,book,0.8506
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,reb,4.5,False,0.7569,0.7513,book,0.752
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,reb,5.5,False,0.6268,0.6321,book,0.6314
@@ -2188,15 +2188,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,ra,11.5,False,0.3274,0.3481,est,0.3454
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,ra,12.5,False,0.2434,0.2609,est,0.2586
 401909974,GSW @ HOU,GSW,905175737,Yaxel Lendeborg,ra,13.5,False,0.1767,0.1907,est,0.1888
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,4.5,False,0.8491,0.8403,est,0.8414
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,5.5,False,0.7737,0.7617,est,0.7633
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,6.5,False,0.6924,0.6779,est,0.6798
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,7.5,False,0.6048,0.5887,est,0.5908
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,8.5,True,0.5207,0.5039,book,0.5061
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,9.5,False,0.436,0.4196,est,0.4217
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.3655,0.3501,est,0.3521
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,11.5,False,0.2955,0.2817,est,0.2835
-401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,12.5,False,0.2378,0.2259,est,0.2274
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,4.5,False,0.8491,0.8416,est,0.8426
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,5.5,False,0.7737,0.7635,est,0.7648
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,6.5,False,0.6924,0.6801,est,0.6817
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,7.5,False,0.6048,0.5911,est,0.5929
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,8.5,True,0.5207,0.5064,book,0.5083
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,9.5,False,0.436,0.4929,book,0.4854
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.3655,0.3523,est,0.3541
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,11.5,False,0.2955,0.2837,est,0.2852
+401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,pts,12.5,False,0.2378,0.2276,est,0.229
 401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,reb,0.5,False,0.9438,0.9444,est,0.9443
 401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,reb,1.5,False,0.8004,0.8021,est,0.8019
 401909974,GSW @ HOU,GSW,1629001,De'Anthony Melton,reb,2.5,False,0.6078,0.6055,book,0.6058
@@ -2257,7 +2257,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,3.5,False,0.8443,0.8533,est,0.8521
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,4.5,False,0.7554,0.7681,est,0.7664
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,5.5,False,0.6569,0.621,book,0.6257
-401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,6.5,False,0.5568,0.574,est,0.5718
+401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,6.5,False,0.5568,0.5331,book,0.5362
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,7.5,True,0.4612,0.4787,book,0.4764
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,8.5,False,0.3747,0.3913,est,0.3891
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,pts,9.5,False,0.2945,0.335,book,0.3297
@@ -2318,15 +2318,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,ra,4.5,False,0.3375,0.3565,est,0.354
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,ra,5.5,False,0.2112,0.2255,est,0.2236
 401909974,GSW @ HOU,GSW,1627777,Georges Niang,ra,6.5,False,0.1231,0.1325,est,0.1312
-401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,10.5,False,0.7739,0.7541,est,0.7567
+401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,10.5,False,0.7739,0.7579,est,0.76
 401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,11.5,False,0.7152,0.6691,book,0.6752
-401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.653,0.6278,est,0.6311
-401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.5937,0.567,est,0.5705
-401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,14.5,True,0.5293,0.5019,book,0.5055
-401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.4671,0.4399,est,0.4435
-401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,16.5,False,0.4096,0.3833,est,0.3868
+401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.653,0.6326,est,0.6353
+401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.5937,0.5721,est,0.5749
+401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,14.5,True,0.5293,0.5071,book,0.51
+401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.4671,0.4881,book,0.4853
+401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,16.5,False,0.4096,0.3882,est,0.391
 401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.3558,0.3386,book,0.3409
-401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.306,0.2832,est,0.2862
+401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.306,0.2875,est,0.2899
 401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,reb,1.5,False,0.9458,0.9443,est,0.9445
 401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,reb,2.5,False,0.8523,0.822,book,0.826
 401909974,GSW @ HOU,GSW,1641764,Brandin Podziemski,reb,3.5,False,0.7078,0.6873,book,0.69
@@ -2449,14 +2449,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909974,GSW @ HOU,GSW,1642954,Will Richard,ra,3.5,False,0.2878,,model only,0.2878
 401909974,GSW @ HOU,GSW,1642954,Will Richard,ra,4.5,False,0.1583,,model only,0.1583
 401909974,GSW @ HOU,GSW,1642954,Will Richard,ra,5.5,False,0.0845,,model only,0.0845
-401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,3.5,False,0.7439,0.8356,est,0.8235
-401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,4.5,False,0.6358,0.7533,est,0.7378
+401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,3.5,False,0.7439,0.8392,est,0.8266
+401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,4.5,False,0.6358,0.7583,est,0.7421
 401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,5.5,False,0.5262,0.6134,book,0.6019
-401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,6.5,False,0.4227,0.5615,est,0.5432
-401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,7.5,True,0.332,0.465,book,0.4474
-401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,8.5,False,0.2556,0.3753,est,0.3595
+401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,6.5,False,0.4227,0.5681,est,0.5489
+401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,7.5,True,0.332,0.4717,book,0.4533
+401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,8.5,False,0.2556,0.3816,est,0.365
 401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,9.5,False,0.1918,0.3212,book,0.3041
-401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,10.5,False,0.1438,0.2271,est,0.2161
+401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,10.5,False,0.1438,0.2319,est,0.2203
 401909974,GSW @ HOU,GSW,1630611,Gui Santos,pts,11.5,False,0.1061,0.2072,book,0.1939
 401909974,GSW @ HOU,GSW,1630611,Gui Santos,reb,0.5,False,0.9185,0.9486,est,0.9446
 401909974,GSW @ HOU,GSW,1630611,Gui Santos,reb,1.5,False,0.7655,0.8426,est,0.8324
