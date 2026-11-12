@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ HOU,Tari Eason 8+ pts + HOU win,2,0.4286,0.3964,2.52,2.65,2.46,-0.0235,1.037,2.10-2.50
-GSW @ HOU,Al Horford 3pm under 1.5 + HOU win,2,0.5853,0.435,2.3,2.41,2.24,-0.0273,1.017,2.10-2.50
-GSW @ HOU,Stephen Curry pts under 25.5 + Jabari Smith Jr. 4+ reb,2,0.4477,0.4153,2.41,2.53,2.27,-0.0556,0.998,2.10-2.50
-GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 10+ pts,2,0.715,0.4857,2.06,2.16,1.93,-0.0627,1.002,1.85-2.10
-GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 10+ pa,2,0.7738,0.5273,1.9,1.99,1.78,-0.0633,1.002,1.65-1.85
-GSW @ HOU,Al Horford 3pm under 1.5 + Jabari Smith Jr. 4+ reb,2,0.7626,0.5162,1.94,2.03,1.81,-0.0638,1.0,1.65-1.85
-GSW @ HOU,Al Horford 3pm under 1.5 + Kevin Durant 4+ reb,2,0.7152,0.482,2.07,2.18,1.94,-0.0639,0.999,1.85-2.10
-GSW @ HOU,Al Horford 3pm under 1.5 + Georges Niang 5+ pr,2,0.7519,0.5112,1.96,2.05,1.83,-0.0646,1.0,1.65-1.85
-GSW @ HOU,Al Horford 3pm under 1.5 + Tari Eason 10+ pra,2,0.7157,0.4884,2.05,2.15,1.91,-0.0658,0.999,1.85-2.10
-GSW @ HOU,HOU win + Jabari Smith Jr. 10+ pa,2,0.6357,0.5942,1.68,1.77,1.56,-0.0725,1.013,1.50-1.65
-GSW @ HOU,HOU win + Tari Eason 5+ pa,2,0.6252,0.5899,1.7,1.78,1.56,-0.0781,1.009,1.50-1.65
-GSW @ HOU,HOU win + Jabari Smith Jr. 1+ 3pm,2,0.6296,0.6031,1.66,1.74,1.52,-0.083,1.006,1.50-1.65
 OKC @ POR,Alex Caruso 8+ pts + Aday Mara 1+ blk,2,0.599,0.3943,2.54,2.66,2.45,-0.0338,1.002,2.10-2.50
 OKC @ POR,Alex Caruso 8+ pts + Robert Williams III 5+ pr,2,0.659,0.4393,2.28,2.39,2.2,-0.0352,1.002,2.10-2.50
 OKC @ POR,Alex Caruso 8+ pts + Aday Mara 4+ reb,2,0.6696,0.4508,2.22,2.33,2.14,-0.0374,1.002,2.10-2.50
