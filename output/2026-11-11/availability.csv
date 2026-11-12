@@ -72,7 +72,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909971,MIL,905082206,Brayden Burries,Starting,,1.0,,,1.0
 401909971,MIL,1631172,Ousmane Dieng,,,1.0,,,
 401909971,MIL,1631260,AJ Green,,,1.0,,,
-401909971,MIL,1629639,Tyler Herro,Starting,Injury/Illness-RightKneeContusion,1.0,Herro (knee) is listed as questionable for Wednesday's game against the Lakers.,,1.0
+401909971,MIL,1629639,Tyler Herro,Starting,Injury/Illness-RightKneeContusion,1.0,,,1.0
 401909971,MIL,905214640,Kasparas Jakucionis,,,1.0,,,
 401909971,MIL,1631170,Jaime Jaquez Jr.,,,1.0,,,
 401909971,MIL,1642880,Kam Jones,,,1.0,,,
@@ -107,40 +107,40 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909971,LAL,1630533,Ziaire Williams,,,1.0,,,
 401909972,NOP,1630180,Saddiq Bey,,,1.0,,,
 401909972,NOP,904712862,Malik Dia,Out,GLeague-Two-Way,0.0,,,
-401909972,NOP,1642847,Jeremiah Fears,,,1.0,,,
+401909972,NOP,1642847,Jeremiah Fears,Starting,,1.0,,,1.0
 401909972,NOP,905170947,AJ Johnson,,,1.0,,,
-401909972,NOP,1630529,Herbert Jones,,,1.0,,,
+401909972,NOP,1630529,Herbert Jones,Starting,,1.0,,,1.0
 401909972,NOP,201599,DeAndre Jordan,,,1.0,,,
 401909972,NOP,1631097,Bennedict Mathurin,Out,Injury/Illness-RightThumbSprain,0.0,Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.,,
-401909972,NOP,1631255,Karlo Matkovic,,,1.0,,,
+401909972,NOP,1631255,Karlo Matkovic,Starting,,1.0,,,1.0
 401909972,NOP,1631121,Bryce McGowens,,,1.0,,,
 401909972,NOP,1642274,Yves Missi,Out,,0.0,Missi (knee) is out for Friday's game against Minnesota.,,
 401909972,NOP,1630530,Trey Murphy III,Out,,0.0,Murphy (knee) is listed as out for Wednesday's game against the Nets.,,
-401909972,NOP,1627749,Dejounte Murray,,,1.0,,,
+401909972,NOP,1627749,Dejounte Murray,Starting,,1.0,,,1.0
 401909972,NOP,904703115,Jaron Pierre Jr.,Available,GLeague-Two-Way,1.0,,,
 401909972,NOP,1629673,Jordan Poole,,,1.0,,,
 401909972,NOP,1642852,Derik Queen,,,1.0,,,
 401909972,NOP,904683742,Julian Reese,,,1.0,,,
 401909972,NOP,1630570,Trendon Watford,Out,Injury/Illness-RightAnkleSprain,0.0,Watford (ankle) is out for Wednesday's game against the Nets.,,
-401909972,NOP,1629627,Zion Williamson,,,1.0,,,
+401909972,NOP,1629627,Zion Williamson,Starting,,1.0,,,1.0
 401909972,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,,,
 401909972,BKN,905101761,Mikel Brown Jr.,Out,Injury/Illness-Illness,0.0,"Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports.",,
 401909972,BKN,1641730,Noah Clowney,,,1.0,,,
-401909972,BKN,1642856,Egor Demin,Available,Injury/Illness-RightBoneBruise,1.0,,,
+401909972,BKN,1642856,Egor Demin,Starting,Injury/Illness-RightBoneBruise,1.0,,,1.0
 401909972,BKN,1631165,Keon Ellis,,,1.0,,,
 401909972,BKN,904870564,Joshua Jefferson,Out,GLeague-OnAssignment,0.0,,,
 401909972,BKN,905174655,Chaney Johnson,,,1.0,,,
 401909972,BKN,1629611,Terance Mann,,,1.0,,,
 401909972,BKN,1631169,Josh Minott,,,1.0,,,
 401909972,BKN,1641761,Grant Nelson,Out,GLeague-Two-Way,0.0,,,
-401909972,BKN,1629008,Michael Porter Jr.,,,1.0,,,
+401909972,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
 401909972,BKN,1642962,Drake Powell,,,1.0,,,
-401909972,BKN,203944,Julius Randle,,,1.0,,,
+401909972,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
 401909972,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909972,BKN,1630549,Day'Ron Sharpe,,,1.0,,,
+401909972,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
 401909972,BKN,1642849,Nolan Traore,Out,,0.0,"Traore (calf) has been ruled out for Wednesday's game against the Pelicans, Ian Begley of SportsNet New York reports.",,
 401909972,BKN,1629021,Moritz Wagner,,,1.0,,,
-401909972,BKN,1642874,Danny Wolf,,,1.0,,,
+401909972,BKN,1642874,Danny Wolf,Starting,,1.0,,,1.0
 401909973,UTA,1641725,Trey Alexander,Out,GLeague-Two-Way,0.0,,,
 401909973,UTA,1642846,Ace Bailey,,,1.0,,,
 401909973,UTA,1628964,Mo Bamba,,,1.0,,,
