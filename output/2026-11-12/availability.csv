@@ -38,36 +38,36 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909977,WAS,1642267,Bub Carrington,,,1.0,,,
 401909977,WAS,1630551,Justin Champagnie,Out,Injury/Illness-RightFootSurgery,0.0,"Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",,
 401909977,WAS,1641731,Bilal Coulibaly,,,1.0,,,
-401909977,WAS,203076,Anthony Davis,,,1.0,,,
-401909977,WAS,905142718,AJ Dybantsa,,,1.0,,,
-401909977,WAS,1642273,Kyshawn George,,,1.0,,,
+401909977,WAS,203076,Anthony Davis,Starting,,1.0,,,1.0
+401909977,WAS,905142718,AJ Dybantsa,Starting,,1.0,,,1.0
+401909977,WAS,1642273,Kyshawn George,Starting,,1.0,,,1.0
 401909977,WAS,1630264,Anthony Gill,,,1.0,,,
 401909977,WAS,905238230,Tre Johnson,,,1.0,,,
 401909977,WAS,1630544,Tre Mann,,,1.0,,,
 401909977,WAS,203114,Khris Middleton,,,1.0,,,
 401909977,WAS,905105841,Felix Okpara,Out,GLeague-Two-Way,0.0,,,
 401909977,WAS,1642860,Will Riley,,,1.0,,,
-401909977,WAS,1642259,Alex Sarr,,,1.0,,,
+401909977,WAS,1642259,Alex Sarr,Starting,,1.0,,,1.0
 401909977,WAS,1641774,Tristan Vukcevic,Out,Injury/Illness-LeftHipImpingement,0.0,Vukcevic (hip) has been ruled out for Monday's game against Detroit.,,
 401909977,WAS,1642364,Jamir Watkins,Out,,0.0,The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.,,
-401909977,WAS,1629027,Trae Young,,,1.0,,,
-401909977,DET,1628381,John Collins,,,1.0,,,
-401909977,DET,1630595,Cade Cunningham,,,1.0,,,
+401909977,WAS,1629027,Trae Young,Starting,,1.0,,,1.0
+401909977,DET,1628381,John Collins,Starting,,1.0,,,1.0
+401909977,DET,1630595,Cade Cunningham,Starting,,1.0,,,1.0
 401909977,DET,1631105,Jalen Duren,Out,Injury/Illness-RightHamstringStrain,0.0,"Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",,
 401909977,DET,1629750,Javonte Green,,,1.0,,,
 401909977,DET,904397449,Elijah Harkless,Available,GLeague-Two-Way,1.0,,,
 401909977,DET,1641842,Ronald Holland II,,,1.0,,,
 401909977,DET,1628989,Kevin Huerter,,,1.0,,,
-401909977,DET,1642450,Daniss Jenkins,,,1.0,,,
+401909977,DET,1642450,Daniss Jenkins,Starting,,1.0,,,1.0
 401909977,DET,1630198,Isaiah Joe,Out,Injury/Illness-RightHipContusion,0.0,Joe (hip) is out for Monday against the Wizards.,,
 401909977,DET,905107818,Isaac Jones,Available,GLeague-Two-Way,1.0,,,
 401909977,DET,905258459,Ebuka Okorie,Out,GLeague-OnAssignment,0.0,,,
 401909977,DET,905037878,Ugonna Onyenso,Out,GLeague-Two-Way,0.0,Onyenso agreed to a two-way contract with the Pistons on Thursday.,,
 401909977,DET,1627752,Taurean Prince,,,1.0,,,
 401909977,DET,1630194,Paul Reed,,,1.0,,,
-401909977,DET,1629130,Duncan Robinson,,,1.0,,,
+401909977,DET,1629130,Duncan Robinson,Starting,,1.0,,,1.0
 401909977,DET,1642449,Tolu Smith,,,1.0,,,
-401909977,DET,1641709,Ausar Thompson,,,1.0,,,
+401909977,DET,1641709,Ausar Thompson,Starting,,1.0,,,1.0
 401909978,MIN,1630163,LaMelo Ball,,,1.0,,,
 401909978,MIN,1642866,Joan Beringer,Available,Injury/Illness-FaceMask,1.0,,,
 401909978,MIN,1641740,Jaylen Clark,,,1.0,,,
@@ -93,7 +93,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909978,DAL,1629655,Daniel Gafford,,,1.0,,,
 401909978,DAL,1641724,Jett Howard,,,1.0,,,
 401909978,DAL,202681,Kyrie Irving,,,1.0,,,
-401909978,DAL,1642358,Morez Johnson Jr.,Available,,1.0,Johnson (shin) is listed as probable for Thursday's game against Minnesota.,,
+401909978,DAL,1642358,Morez Johnson Jr.,Available,,1.0,,,
 401909978,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909978,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is listed as out for Thursday's game in Minnesota.,,
 401909978,DAL,1630230,Naji Marshall,,,1.0,,,
