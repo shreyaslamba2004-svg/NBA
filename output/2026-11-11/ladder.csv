@@ -1,13 +1,13 @@
 game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,market_source,p_over_blend
-401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,10.5,False,0.7321,0.7369,est,0.7363
+401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,10.5,False,0.7321,0.748,est,0.7459
 401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,11.5,False,0.6698,0.6597,book,0.661
-401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,12.5,False,0.6083,0.6142,est,0.6134
-401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,13.5,False,0.5446,0.5507,est,0.5499
-401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,14.5,True,0.4833,0.4895,book,0.4887
-401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,15.5,False,0.422,0.428,est,0.4272
-401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,16.5,False,0.3656,0.3714,est,0.3706
+401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,12.5,False,0.6083,0.6279,est,0.6253
+401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,13.5,False,0.5446,0.565,est,0.5623
+401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,14.5,True,0.4833,0.504,book,0.5013
+401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,15.5,False,0.422,0.4525,book,0.4485
+401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,16.5,False,0.3656,0.385,est,0.3825
 401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,17.5,False,0.3147,0.3212,book,0.3203
-401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,18.5,False,0.2675,0.2724,est,0.2717
+401909973,ORL @ UTA,UTA,1642846,Ace Bailey,pts,18.5,False,0.2675,0.284,est,0.2818
 401909973,ORL @ UTA,UTA,1642846,Ace Bailey,reb,2.5,False,0.8587,0.8706,book,0.869
 401909973,ORL @ UTA,UTA,1642846,Ace Bailey,reb,3.5,False,0.7248,0.7869,book,0.7787
 401909973,ORL @ UTA,UTA,1642846,Ace Bailey,reb,4.5,False,0.5634,0.6721,book,0.6578
@@ -261,15 +261,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,UTA,1642271,Kyle Filipowski,ra,7.5,False,0.3622,,model only,0.3622
 401909973,ORL @ UTA,UTA,1642271,Kyle Filipowski,ra,8.5,False,0.2685,,model only,0.2685
 401909973,ORL @ UTA,UTA,1642271,Kyle Filipowski,ra,9.5,False,0.1953,,model only,0.1953
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,17.5,False,0.6653,0.6756,est,0.6742
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,18.5,False,0.617,0.628,est,0.6265
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,19.5,False,0.573,0.5844,est,0.5829
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,20.5,False,0.5271,0.5387,est,0.5372
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,21.5,True,0.4801,0.4917,book,0.4902
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,22.5,False,0.4385,0.45,est,0.4484
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,23.5,False,0.3974,0.4086,est,0.4071
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,24.5,False,0.3584,0.3692,est,0.3678
-401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,25.5,False,0.3239,0.3342,est,0.3329
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,17.5,False,0.6653,0.6792,est,0.6773
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,18.5,False,0.617,0.6318,est,0.6298
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,19.5,False,0.573,0.5884,est,0.5863
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,20.5,False,0.5271,0.5091,book,0.5115
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,21.5,True,0.4801,0.4958,book,0.4937
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,22.5,False,0.4385,0.454,est,0.452
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,23.5,False,0.3974,0.4126,est,0.4105
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,24.5,False,0.3584,0.373,est,0.3711
+401909973,ORL @ UTA,UTA,1641718,Keyonte George,pts,25.5,False,0.3239,0.3379,est,0.336
 401909973,ORL @ UTA,UTA,1641718,Keyonte George,reb,0.5,False,0.9644,0.9726,est,0.9715
 401909973,ORL @ UTA,UTA,1641718,Keyonte George,reb,1.5,False,0.8507,0.882,est,0.8779
 401909973,ORL @ UTA,UTA,1641718,Keyonte George,reb,2.5,False,0.6684,0.6956,book,0.692
@@ -329,14 +329,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,UTA,1641718,Keyonte George,ra,10.5,False,0.3361,0.3808,est,0.3749
 401909973,ORL @ UTA,UTA,1641718,Keyonte George,ra,11.5,False,0.2507,0.289,est,0.2839
 401909973,ORL @ UTA,UTA,1641718,Keyonte George,ra,12.5,False,0.18,0.2105,est,0.2065
-401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,1.5,False,0.919,0.9491,est,0.9451
-401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,2.5,False,0.8141,0.878,est,0.8696
-401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,3.5,False,0.6848,0.7812,est,0.7685
-401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,4.5,False,0.5482,0.6659,est,0.6504
-401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,5.5,True,0.4162,0.5394,book,0.5231
-401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,6.5,False,0.3063,0.4205,est,0.4054
+401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,1.5,False,0.919,0.9437,est,0.9405
+401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,2.5,False,0.8141,0.8662,est,0.8593
+401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,3.5,False,0.6848,0.7626,est,0.7523
+401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,4.5,False,0.5482,0.6421,est,0.6297
+401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,5.5,True,0.4162,0.5131,book,0.5003
+401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,6.5,False,0.3063,0.395,est,0.3833
 401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,7.5,False,0.2169,0.3784,book,0.3571
-401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,8.5,False,0.1504,0.2253,est,0.2154
+401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,8.5,False,0.1504,0.2074,est,0.1999
 401909973,ORL @ UTA,UTA,1630182,Josh Green,pts,9.5,False,0.1019,0.236,book,0.2183
 401909973,ORL @ UTA,UTA,1630182,Josh Green,reb,0.5,False,0.8877,0.8875,est,0.8875
 401909973,ORL @ UTA,UTA,1630182,Josh Green,reb,1.5,False,0.6706,0.6701,est,0.6702
@@ -394,15 +394,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,UTA,1630182,Josh Green,ra,5.5,False,0.1982,,model only,0.1982
 401909973,ORL @ UTA,UTA,1630182,Josh Green,ra,6.5,False,0.1095,,model only,0.1095
 401909973,ORL @ UTA,UTA,1630182,Josh Green,ra,7.5,False,0.0552,,model only,0.0552
-401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,3.5,False,0.8946,0.8844,est,0.8858
-401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,4.5,False,0.8253,0.8098,est,0.8118
+401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,4.5,False,0.8253,0.8442,est,0.8417
 401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,5.5,False,0.7406,0.6974,book,0.7031
-401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,6.5,False,0.6454,0.6213,est,0.6245
-401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,7.5,True,0.5523,0.5265,book,0.5299
-401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,8.5,False,0.4617,0.436,est,0.4394
+401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,6.5,False,0.6454,0.6762,est,0.6721
+401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,7.5,False,0.5523,0.5265,book,0.5299
+401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,8.5,True,0.4617,0.496,book,0.4915
 401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,9.5,False,0.3761,0.3679,book,0.369
-401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,10.5,False,0.3037,0.2822,est,0.2851
+401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,10.5,False,0.3037,0.3335,est,0.3296
 401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,11.5,False,0.2369,0.2409,book,0.2404
+401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,pts,12.5,False,0.1853,0.2069,est,0.204
 401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,reb,2.5,False,0.884,0.8472,book,0.8521
 401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,reb,3.5,False,0.7707,0.7491,book,0.752
 401909973,ORL @ UTA,UTA,1629637,Jaxson Hayes,reb,4.5,False,0.6344,0.6302,book,0.6308
@@ -524,14 +524,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,UTA,1629004,Svi Mykhailiuk,ra,4.5,False,0.2359,,model only,0.2359
 401909973,ORL @ UTA,UTA,1629004,Svi Mykhailiuk,ra,5.5,False,0.1344,,model only,0.1344
 401909973,ORL @ UTA,UTA,1629004,Svi Mykhailiuk,ra,6.5,False,0.0724,,model only,0.0724
-401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,1.5,False,0.9168,0.9263,est,0.9251
-401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,2.5,False,0.8198,0.8386,est,0.8361
-401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,3.5,False,0.6902,0.7179,est,0.7142
-401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,4.5,False,0.5604,0.5928,est,0.5886
-401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,5.5,True,0.4322,0.465,book,0.4607
-401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,6.5,False,0.3185,0.348,est,0.3441
+401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,1.5,False,0.9168,0.9315,est,0.9296
+401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,2.5,False,0.8198,0.8489,est,0.8451
+401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,3.5,False,0.6902,0.7334,est,0.7277
+401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,4.5,False,0.5604,0.5209,book,0.5261
+401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,5.5,True,0.4322,0.4845,book,0.4776
+401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,6.5,False,0.3185,0.3659,est,0.3597
 401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,7.5,False,0.2317,0.3105,book,0.3001
-401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,8.5,False,0.165,0.1841,est,0.1816
+401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,8.5,False,0.165,0.1961,est,0.192
 401909973,ORL @ UTA,UTA,1629006,Josh Okogie,pts,9.5,False,0.1152,0.1884,book,0.1787
 401909973,ORL @ UTA,UTA,1629006,Josh Okogie,reb,0.5,False,0.9453,0.9199,est,0.9232
 401909973,ORL @ UTA,UTA,1629006,Josh Okogie,reb,1.5,False,0.8122,0.7418,est,0.7511
@@ -588,15 +588,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,UTA,1629006,Josh Okogie,ra,5.5,False,0.3433,,model only,0.3433
 401909973,ORL @ UTA,UTA,1629006,Josh Okogie,ra,6.5,False,0.231,,model only,0.231
 401909973,ORL @ UTA,UTA,1629006,Josh Okogie,ra,7.5,False,0.1454,,model only,0.1454
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,14.5,False,0.5381,0.6981,est,0.677
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,15.5,False,0.4803,0.6472,est,0.6252
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,16.5,False,0.4209,0.5906,est,0.5682
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,17.5,False,0.3668,0.5348,est,0.5127
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,18.5,True,0.3182,0.4809,book,0.4594
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,19.5,False,0.2755,0.4301,est,0.4097
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,20.5,False,0.2367,0.381,est,0.3619
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,21.5,False,0.2019,0.3343,est,0.3168
-401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,22.5,False,0.1696,0.2884,est,0.2727
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,14.5,False,0.5381,0.7107,est,0.6879
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,15.5,False,0.4803,0.6609,est,0.637
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,16.5,False,0.4209,0.6051,est,0.5808
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,17.5,False,0.3668,0.5498,est,0.5257
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,18.5,True,0.3182,0.496,book,0.4725
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,19.5,False,0.2755,0.445,est,0.4226
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,20.5,False,0.2367,0.3953,est,0.3744
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,21.5,False,0.2019,0.3478,est,0.3286
+401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,pts,22.5,False,0.1696,0.3009,est,0.2836
 401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,reb,1.5,False,0.8755,0.9095,est,0.905
 401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,reb,2.5,False,0.7164,0.7202,book,0.7197
 401909973,ORL @ UTA,UTA,905041955,Darryn Peterson,reb,3.5,False,0.53,0.5765,book,0.5704
@@ -720,15 +720,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,UTA,1641729,Brice Sensabaugh,ra,5.5,False,0.3114,,model only,0.3114
 401909973,ORL @ UTA,UTA,1641729,Brice Sensabaugh,ra,6.5,False,0.206,,model only,0.206
 401909973,ORL @ UTA,UTA,1641729,Brice Sensabaugh,ra,7.5,False,0.1275,,model only,0.1275
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,15.5,False,0.7419,0.711,est,0.715
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,16.5,False,0.6956,0.6616,est,0.6661
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,15.5,False,0.7419,0.708,est,0.7125
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,16.5,False,0.6956,0.6584,est,0.6633
 401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,17.5,False,0.6447,0.6078,book,0.6127
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,18.5,False,0.5979,0.56,est,0.565
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,19.5,True,0.5495,0.5107,book,0.5158
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,20.5,False,0.5025,0.4636,est,0.4688
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,21.5,False,0.457,0.4186,est,0.4237
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,22.5,False,0.411,0.3739,est,0.3788
-401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,23.5,False,0.3693,0.3338,est,0.3385
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,18.5,False,0.5979,0.5564,est,0.5619
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,19.5,True,0.5495,0.5071,book,0.5127
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,20.5,False,0.5025,0.4601,est,0.4657
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,21.5,False,0.457,0.4151,est,0.4207
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,22.5,False,0.411,0.3705,est,0.3759
+401909973,ORL @ UTA,ORL,1630217,Desmond Bane,pts,23.5,False,0.3693,0.3306,est,0.3357
 401909973,ORL @ UTA,ORL,1630217,Desmond Bane,reb,1.5,False,0.9183,0.9073,est,0.9088
 401909973,ORL @ UTA,ORL,1630217,Desmond Bane,reb,2.5,False,0.795,0.7535,book,0.759
 401909973,ORL @ UTA,ORL,1630217,Desmond Bane,reb,3.5,False,0.6276,0.5884,book,0.5936
@@ -853,15 +853,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,ORL,1629048,Goga Bitadze,ra,6.5,False,0.3538,,model only,0.3538
 401909973,ORL @ UTA,ORL,1629048,Goga Bitadze,ra,7.5,False,0.2621,,model only,0.2621
 401909973,ORL @ UTA,ORL,1629048,Goga Bitadze,ra,8.5,False,0.1923,,model only,0.1923
-401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,12.5,False,0.6895,0.7251,est,0.7204
-401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,13.5,False,0.63,0.6692,est,0.664
+401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,12.5,False,0.6895,0.7256,est,0.7208
+401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,13.5,False,0.63,0.6697,est,0.6645
 401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,14.5,False,0.572,0.6067,book,0.6021
-401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,15.5,False,0.5161,0.5589,est,0.5533
-401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,16.5,True,0.4569,0.4999,book,0.4942
+401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,15.5,False,0.5161,0.5226,book,0.5217
+401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,16.5,True,0.4569,0.5005,book,0.4947
 401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,17.5,False,0.407,0.4472,book,0.4419
-401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,18.5,False,0.3554,0.3958,est,0.3905
+401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,18.5,False,0.3554,0.3964,est,0.391
 401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,19.5,False,0.31,0.3474,book,0.3425
-401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,20.5,False,0.2672,0.3023,est,0.2977
+401909973,ORL @ UTA,ORL,1641710,Anthony Black,pts,20.5,False,0.2672,0.3028,est,0.2981
 401909973,ORL @ UTA,ORL,1641710,Anthony Black,reb,1.5,False,0.9247,0.9421,est,0.9398
 401909973,ORL @ UTA,ORL,1641710,Anthony Black,reb,2.5,False,0.8106,0.8246,book,0.8228
 401909973,ORL @ UTA,ORL,1641710,Anthony Black,reb,3.5,False,0.6536,0.7009,book,0.6947
@@ -984,15 +984,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,ORL,1628975,Jevon Carter,ra,3.5,False,0.2814,,model only,0.2814
 401909973,ORL @ UTA,ORL,1628975,Jevon Carter,ra,4.5,False,0.161,,model only,0.161
 401909973,ORL @ UTA,ORL,1628975,Jevon Carter,ra,5.5,False,0.0867,,model only,0.0867
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,9.5,False,0.7256,0.7443,est,0.7418
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,10.5,False,0.6546,0.676,est,0.6732
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,11.5,False,0.5837,0.6068,est,0.6038
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,12.5,False,0.5176,0.5415,est,0.5384
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,13.5,True,0.4504,0.4742,book,0.4711
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,14.5,False,0.388,0.411,est,0.408
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,15.5,False,0.3312,0.3528,est,0.3499
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,16.5,False,0.2781,0.2977,est,0.2951
-401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,17.5,False,0.2319,0.2494,est,0.2471
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,8.5,False,0.7883,0.7763,est,0.7778
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,9.5,False,0.7256,0.7113,est,0.7132
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,10.5,False,0.6546,0.6385,est,0.6406
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,11.5,False,0.5837,0.5664,est,0.5687
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,12.5,True,0.5176,0.5,book,0.5023
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,13.5,False,0.4504,0.4742,book,0.4711
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,14.5,False,0.388,0.3714,est,0.3736
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,15.5,False,0.3312,0.3157,est,0.3178
+401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,pts,16.5,False,0.2781,0.2641,est,0.266
 401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,reb,5.5,False,0.7998,0.8148,book,0.8128
 401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,reb,6.5,False,0.6902,0.737,book,0.7308
 401909973,ORL @ UTA,ORL,1628976,Wendell Carter Jr.,reb,7.5,False,0.5773,0.6407,book,0.6323
@@ -1246,15 +1246,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909973,ORL @ UTA,ORL,202696,Nikola Vucevic,ra,6.5,False,0.3133,,model only,0.3133
 401909973,ORL @ UTA,ORL,202696,Nikola Vucevic,ra,7.5,False,0.2282,,model only,0.2282
 401909973,ORL @ UTA,ORL,202696,Nikola Vucevic,ra,8.5,False,0.1594,,model only,0.1594
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,20.5,False,0.6302,0.6608,est,0.6567
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,21.5,False,0.5875,0.6195,est,0.6153
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,22.5,False,0.5458,0.5787,est,0.5744
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,23.5,False,0.5011,0.5344,est,0.53
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,24.5,True,0.4614,0.4948,book,0.4904
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,25.5,False,0.4206,0.4534,est,0.4491
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,26.5,False,0.3854,0.4175,est,0.4133
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,27.5,False,0.3492,0.3802,est,0.3761
-401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,28.5,False,0.3122,0.3416,est,0.3377
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,20.5,False,0.6302,0.6645,est,0.66
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,21.5,False,0.5875,0.6234,est,0.6187
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,22.5,False,0.5458,0.5828,est,0.5779
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,23.5,False,0.5011,0.5089,book,0.5079
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,24.5,True,0.4614,0.499,book,0.494
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,25.5,False,0.4206,0.4576,est,0.4527
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,26.5,False,0.3854,0.4216,est,0.4168
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,27.5,False,0.3492,0.3842,est,0.3796
+401909973,ORL @ UTA,ORL,1630532,Franz Wagner,pts,28.5,False,0.3122,0.3454,est,0.341
 401909973,ORL @ UTA,ORL,1630532,Franz Wagner,reb,3.5,False,0.7956,0.8048,book,0.8036
 401909973,ORL @ UTA,ORL,1630532,Franz Wagner,reb,4.5,False,0.6581,0.6937,book,0.689
 401909973,ORL @ UTA,ORL,1630532,Franz Wagner,reb,5.5,False,0.5069,0.5652,book,0.5575
