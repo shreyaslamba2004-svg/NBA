@@ -3436,11 +3436,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,reb,6.5,False,0.3536,0.3753,book,0.3724
 401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,reb,7.5,False,0.2532,0.2618,book,0.2607
 401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,reb,8.5,False,0.168,0.1753,book,0.1743
-401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,0.5,False,0.6815,0.7082,est,0.7047
-401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,1.5,True,0.3448,0.3738,book,0.37
-401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,2.5,False,0.1431,0.164,book,0.1612
-401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,3.5,False,0.0469,0.0529,est,0.0521
-401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,4.5,False,0.0153,0.0173,est,0.017
+401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,0.5,False,0.6815,0.719,est,0.714
+401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,1.5,True,0.3448,0.3862,book,0.3807
+401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,2.5,False,0.1431,0.1721,book,0.1683
+401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,3.5,False,0.0469,0.0719,book,0.0686
+401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,ast,4.5,False,0.0153,0.0346,book,0.032
 401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,fg3m,0.5,False,0.0112,,model only,0.0112
 401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,fg3m,1.5,False,0.0001,,model only,0.0001
 401909978,DAL @ MIN,DAL,1629655,Daniel Gafford,fg3m,2.5,False,0.0,,model only,0.0
