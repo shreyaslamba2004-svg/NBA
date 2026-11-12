@@ -11,18 +11,18 @@ TOR @ PHI,Collin Murray-Boyles 4+ reb + RJ Barrett 25+ pra,2,0.7107,0.5755,1.74,
 TOR @ PHI,Collin Murray-Boyles 2+ ast + Jaylen Brown 20+ pra,2,0.6136,0.5167,1.94,2.03,1.74,-0.102,1.0,1.65-1.85
 TOR @ PHI,PHI win + RJ Barrett 4+ reb + Jaylen Brown 25+ pra,3,0.3787,0.5292,1.89,1.98,1.68,-0.1123,1.04,1.65-1.85
 TOR @ PHI,PHI win + Collin Murray-Boyles 4+ reb + Jaylen Brown 1+ 3pm,3,0.3682,0.4783,2.09,2.2,1.83,-0.1251,1.012,1.65-1.85
-DET @ WAS,AJ Dybantsa pa under 18.5 + DET win,2,0.4685,0.4145,2.41,2.53,2.33,-0.0331,1.047,2.10-2.50
-DET @ WAS,DET win + Anthony Davis pts under 22.5,2,0.4643,0.4214,2.37,2.49,2.29,-0.0331,1.052,2.10-2.50
-DET @ WAS,AJ Dybantsa pts under 16.5 + DET win,2,0.4895,0.4242,2.36,2.48,2.27,-0.0383,1.037,2.10-2.50
-DET @ WAS,Kevin Huerter 10+ pts + Kyshawn George 10+ pr,2,0.5838,0.4387,2.28,2.39,2.09,-0.0821,1.001,1.85-2.10
-DET @ WAS,Kevin Huerter 10+ pts + Trae Young 10+ pr,2,0.5823,0.4455,2.24,2.36,2.05,-0.0846,1.001,1.85-2.10
-DET @ WAS,DET win + Kevin Huerter 1+ 3pm,2,0.6214,0.6056,1.65,1.73,1.51,-0.0858,1.007,1.50-1.65
-DET @ WAS,Kevin Huerter 10+ pts + Trae Young 15+ pa,2,0.5729,0.4406,2.27,2.38,2.07,-0.0861,1.001,1.85-2.10
-DET @ WAS,DET win + Anthony Davis 1+ blk,2,0.6257,0.6027,1.66,1.74,1.51,-0.0911,0.999,1.50-1.65
-DET @ WAS,DET win + Anthony Davis 8+ reb,2,0.6096,0.5968,1.68,1.76,1.52,-0.0932,0.999,1.50-1.65
-DET @ WAS,Cade Cunningham 3pm under 2.5 + Kyshawn George 10+ pr,2,0.6599,0.5254,1.9,2.0,1.73,-0.0936,1.0,1.65-1.85
-DET @ WAS,Cade Cunningham 3pm under 2.5 + Trae Young 10+ pr,2,0.6568,0.5324,1.88,1.97,1.69,-0.098,0.998,1.65-1.85
-DET @ WAS,Cade Cunningham 3pm under 2.5 + Trae Young 15+ pa,2,0.6471,0.5272,1.9,1.99,1.71,-0.0983,0.998,1.65-1.85
+DET @ WAS,DET win + Anthony Davis pts under 22.5,2,0.4643,0.4257,2.35,2.47,2.27,-0.0348,1.052,2.10-2.50
+DET @ WAS,DET win + AJ Dybantsa pa under 18.5,2,0.4685,0.4189,2.39,2.51,2.3,-0.035,1.047,2.10-2.50
+DET @ WAS,AJ Dybantsa pts under 16.5 + DET win,2,0.4895,0.4269,2.34,2.46,2.25,-0.0394,1.037,2.10-2.50
+DET @ WAS,Kevin Huerter 10+ pts + Kyshawn George 10+ pr,2,0.5838,0.4379,2.28,2.4,2.1,-0.0817,1.001,1.85-2.10
+DET @ WAS,Kevin Huerter 10+ pts + Trae Young 10+ pr,2,0.5823,0.4428,2.26,2.37,2.07,-0.0836,1.001,1.85-2.10
+DET @ WAS,DET win + Kevin Huerter 1+ 3pm,2,0.6214,0.6054,1.65,1.73,1.51,-0.0858,1.007,1.50-1.65
+DET @ WAS,game over 220.5 + Kyshawn George 10+ pr,2,0.6527,0.453,2.21,2.32,2.01,-0.0876,1.011,1.85-2.10
+DET @ WAS,DET win + AJ Dybantsa 4+ reb,2,0.6254,0.6053,1.65,1.73,1.5,-0.0902,1.001,1.50-1.65
+DET @ WAS,DET win + Anthony Davis 1+ blk,2,0.6257,0.6002,1.67,1.75,1.52,-0.0904,0.999,1.50-1.65
+DET @ WAS,Cade Cunningham 3pm under 2.5 + Kyshawn George 10+ pr,2,0.6599,0.5265,1.9,1.99,1.72,-0.094,1.0,1.65-1.85
+DET @ WAS,Cade Cunningham 3pm under 2.5 + Trae Young 10+ pr,2,0.6568,0.5313,1.88,1.98,1.7,-0.0977,0.998,1.65-1.85
+DET @ WAS,Cade Cunningham 3pm under 2.5 + Anthony Davis 6+ reb,2,0.6451,0.5236,1.91,2.01,1.72,-0.0989,0.997,1.65-1.85
 DAL @ MIN,Kyrie Irving 3pm under 3.5 + MIN win,2,0.5131,0.418,2.39,2.51,2.3,-0.0391,1.026,2.10-2.50
 DAL @ MIN,Kyrie Irving 3pm under 3.5 + LaMelo Ball 2+ 3pm,2,0.6679,0.5019,1.99,2.09,1.83,-0.0823,1.0,1.65-1.85
 DAL @ MIN,DAL +5.5 + Daniel Gafford 5+ pa,2,0.4595,0.4169,2.4,2.52,2.2,-0.0831,1.02,2.10-2.50
@@ -33,15 +33,13 @@ DAL @ MIN,Cooper Flagg pa under 30.5 + LaMelo Ball 2+ 3pm,2,0.5379,0.4331,2.31,2
 DAL @ MIN,Rudy Gobert pts under 10.5 + Daniel Gafford 5+ pa,2,0.5471,0.4413,2.27,2.38,2.05,-0.0947,1.0,1.85-2.10
 DAL @ MIN,Cooper Flagg pts under 24.5 + LaMelo Ball 2+ 3pm,2,0.522,0.4311,2.32,2.44,2.09,-0.0981,1.001,1.85-2.10
 DAL @ MIN,MIN win + Daniel Gafford 5+ pa,2,0.5488,0.5433,1.84,1.93,1.64,-0.1082,0.986,1.50-1.65
-CHA @ PHX,Grayson Allen 3pm under 3.5 + PHX win,2,0.4099,0.39,2.56,2.69,2.49,-0.0305,1.048,2.10-2.50
-CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Ryan Kalkbrenner 4+ reb,2,0.6328,0.39,2.56,2.69,2.44,-0.0482,1.001,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Jalen Green 1+ 3pm,2,0.6029,0.3878,2.58,2.71,2.45,-0.0501,1.002,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 11+ pr + Collin Gillespie 5+ pa,2,0.6973,0.452,2.21,2.32,2.1,-0.052,1.001,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 5+ reb + Collin Gillespie 5+ pa,2,0.69,0.4691,2.13,2.24,2.0,-0.063,0.998,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 4+ reb + PHX win,2,0.5021,0.4558,2.19,2.3,2.04,-0.0693,0.997,1.85-2.10
-CHA @ PHX,PHX win + Dillon Brooks 10+ pts,2,0.5026,0.5422,1.84,1.94,1.71,-0.0713,1.026,1.65-1.85
-CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Collin Gillespie 5+ pa,2,0.7066,0.515,1.94,2.04,1.79,-0.0766,1.001,1.65-1.85
-CHA @ PHX,PHX win + Collin Gillespie 10+ pra,2,0.4867,0.5271,1.9,1.99,1.75,-0.0773,1.02,1.65-1.85
-CHA @ PHX,PHX win + Dillon Brooks 1+ 3pm,2,0.5243,0.5627,1.78,1.87,1.63,-0.0847,1.011,1.50-1.65
-CHA @ PHX,PHX win + Collin Gillespie 5+ pa,2,0.5662,0.6078,1.65,1.73,1.5,-0.0882,1.007,1.50-1.65
-CHA @ PHX,Dillon Brooks 10+ pts + Collin Gillespie 10+ pra,2,0.6568,0.5933,1.69,1.77,1.51,-0.1049,1.008,1.50-1.65
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Ryan Kalkbrenner 4+ reb,2,0.6328,0.3891,2.57,2.7,2.45,-0.0477,1.001,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Jalen Green 1+ 3pm,2,0.6029,0.3863,2.59,2.72,2.46,-0.0492,1.002,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 11+ pr + Dillon Brooks 1+ 3pm,2,0.6436,0.4132,2.42,2.54,2.3,-0.0498,1.001,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 5+ reb + Collin Gillespie 5+ pa,2,0.69,0.4673,2.14,2.25,2.0,-0.0641,0.998,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 6+ pts + Collin Gillespie 5+ pa,2,0.6467,0.4654,2.15,2.26,1.99,-0.0717,1.003,1.85-2.10
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Dillon Brooks 1+ 3pm,2,0.6515,0.4721,2.12,2.22,1.96,-0.0763,1.0,1.85-2.10
+CHA @ PHX,Jordan Goodwin 3pm under 1.5 + Collin Gillespie 5+ pa,2,0.7066,0.5157,1.94,2.04,1.79,-0.0769,1.001,1.65-1.85
+CHA @ PHX,Dillon Brooks 10+ pts + Collin Gillespie 10+ pra,2,0.6568,0.5942,1.68,1.77,1.51,-0.1053,1.008,1.50-1.65
+CHA @ PHX,Jalen Green 1+ 3pm + Dillon Brooks 10+ pts,2,0.665,0.5876,1.7,1.79,1.52,-0.1071,1.003,1.50-1.65
+CHA @ PHX,Jalen Green 1+ 3pm + Collin Gillespie 10+ pra,2,0.647,0.5812,1.72,1.81,1.53,-0.1105,1.001,1.50-1.65

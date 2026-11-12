@@ -1,30 +1,30 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,9.5,draftkings,1240.0,13.4,0.1871,5.34,0.0697,0.0697,0.1174,,1.5071,0.0852,0.1422,0.0029,False,True,False,,,
-401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,10.5,draftkings,1840.0,19.4,0.1252,7.99,0.0482,0.0482,0.077,,1.4287,0.0583,0.1318,0.0018,False,False,False,,,
-401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,8.5,draftkings,780.0,8.8,0.2683,3.73,0.1062,0.1062,0.1621,,1.3614,0.1276,0.1229,0.0039,True,False,False,,,
+401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,10.5,draftkings,1900.0,20.0,0.1252,7.99,0.0467,0.0467,0.0785,,1.5038,0.0571,0.1417,0.0019,False,False,False,,,
+401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,9.5,draftkings,1200.0,13.0,0.1871,5.34,0.0719,0.0719,0.1152,,1.4323,0.0871,0.1323,0.0028,False,True,False,,,
+401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,8.5,draftkings,750.0,8.5,0.2683,3.73,0.11,0.11,0.1584,,1.2809,0.1309,0.1123,0.0037,True,False,False,,,
 401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,11.5,draftkings,2600.0,27.0,0.0794,12.6,0.0346,0.0346,0.0447,,1.1426,0.0405,0.094,0.0009,False,True,False,,,
-401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,7.5,draftkings,469.0,5.69,0.3672,2.72,0.1642,0.1642,0.2029,,1.0892,0.191,0.087,0.0046,True,True,False,,,
+401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,7.5,draftkings,446.0,5.46,0.3672,2.72,0.1712,0.1712,0.196,,1.0048,0.197,0.0758,0.0043,True,True,False,,,
 401909976,TOR @ PHI,prop_ast,over,Immanuel Quickley,1630193.0,9.5,draftkings,1340.0,14.4,0.1369,7.3,0.0649,0.0649,0.072,,0.972,0.0744,0.0715,0.0013,False,True,False,,,
 401909976,TOR @ PHI,prop_ast,over,Immanuel Quickley,1630193.0,10.5,draftkings,2200.0,23.0,0.0851,11.75,0.0406,0.0406,0.0445,,0.9571,0.0465,0.0696,0.0008,False,False,False,,,
 401909976,TOR @ PHI,prop_pts,over,Joel Embiid,203954.0,34.5,draftkings,1840.0,19.4,0.0966,10.35,0.0482,0.0482,0.0485,,0.8747,0.0546,0.0587,0.0008,False,True,False,Joel Embiid,0.0,0.1105
 401909976,TOR @ PHI,prop_ast,over,Joel Embiid,203954.0,7.5,draftkings,1860.0,19.6,0.0939,10.65,0.0477,0.0477,0.0462,,0.8406,0.0538,0.0542,0.0007,False,True,False,Joel Embiid,0.0,0.1138
 401909976,TOR @ PHI,prop_ast,over,Immanuel Quickley,1630193.0,8.5,draftkings,780.0,8.8,0.2082,4.8,0.1062,0.1062,0.102,,0.8319,0.1197,0.053,0.0017,False,False,False,,,
-401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,6.5,draftkings,273.0,3.73,0.4864,2.06,0.2506,0.2506,0.2359,,0.8143,0.2817,0.0507,0.0046,True,False,False,,,
+401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,11.5,draftkings,850.0,9.5,0.1916,5.22,0.0984,0.0984,0.0933,,0.8205,0.1107,0.0515,0.0015,False,False,False,,,
 401909976,TOR @ PHI,prop_ast,over,Joel Embiid,203954.0,6.5,draftkings,990.0,10.9,0.1652,6.05,0.0857,0.0857,0.0794,,0.8005,0.0962,0.0489,0.0012,False,False,False,Joel Embiid,0.0,0.1959
-401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,11.5,draftkings,820.0,9.2,0.1916,5.22,0.1016,0.1016,0.09,,0.763,0.1135,0.0439,0.0013,False,False,False,,,
+401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,6.5,draftkings,268.0,3.68,0.4864,2.06,0.254,0.254,0.2325,,0.79,0.2846,0.0475,0.0044,True,False,False,,,
 401909976,TOR @ PHI,prop_ast,over,Jaylen Brown,1627759.0,7.5,draftkings,1520.0,16.2,0.108,9.26,0.0577,0.0577,0.0503,,0.7493,0.0643,0.0421,0.0007,False,True,False,LeBron James,0.1997,0.088
 401909976,TOR @ PHI,prop_reb,over,Collin Murray-Boyles,1642867.0,10.5,draftkings,1580.0,16.8,0.1039,9.62,0.0556,0.0556,0.0483,,0.7462,0.062,0.0417,0.0007,False,False,False,,,
 401909976,TOR @ PHI,prop_reb,over,Collin Murray-Boyles,1642867.0,9.5,draftkings,970.0,10.7,0.1602,6.24,0.0873,0.0873,0.0729,,0.7145,0.097,0.0375,0.001,False,True,False,,,
 401909976,TOR @ PHI,prop_ast,over,Joel Embiid,203954.0,5.5,draftkings,512.0,6.12,0.2718,3.68,0.1527,0.1527,0.1191,,0.6635,0.1684,0.0308,0.0015,False,True,False,Joel Embiid,0.0,0.319
 401909976,TOR @ PHI,prop_reb,over,Collin Murray-Boyles,1642867.0,8.5,draftkings,586.0,6.86,0.242,4.13,0.1362,0.1362,0.1058,,0.6601,0.1502,0.0304,0.0013,False,False,False,,,
-401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,14.5,draftkings,2000.0,21.0,0.0786,12.72,0.0445,0.0445,0.0341,,0.6515,0.049,0.0292,0.0004,False,True,False,,,
 401909976,TOR @ PHI,prop_ast,over,Jaylen Brown,1627759.0,6.5,draftkings,790.0,8.9,0.1852,5.4,0.105,0.105,0.0802,,0.6482,0.1156,0.0288,0.0009,False,False,False,LeBron James,0.3095,0.1636
+401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,9.5,draftkings,420.0,5.2,0.3162,3.16,0.1797,0.1797,0.1365,,0.6443,0.1977,0.0283,0.0017,False,True,False,,,
 401909976,TOR @ PHI,prop_pts,over,RJ Barrett,1629628.0,39.5,draftkings,2400.0,25.0,0.0655,15.26,0.0374,0.0374,0.0281,,0.638,0.0411,0.0274,0.0003,False,True,False,,,
-401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,9.5,draftkings,416.0,5.16,0.3162,3.16,0.1811,0.1811,0.1351,,0.6316,0.199,0.0266,0.0016,False,True,False,,,
+401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,14.5,draftkings,1960.0,20.6,0.0786,12.72,0.0454,0.0454,0.0333,,0.6201,0.0498,0.0251,0.0003,False,True,False,,,
 401909976,TOR @ PHI,prop_pra,over,Immanuel Quickley,1630193.0,39.5,draftkings,1460.0,15.6,0.1038,9.64,0.0599,0.0599,0.0439,,0.6188,0.0657,0.0249,0.0004,False,True,False,,,
+401909977,DET @ WAS,prop_pra,over,Paul Reed,1630194.0,34.5,draftkings,1620.0,17.2,0.0938,10.66,0.0543,0.0543,0.0395,,0.6135,0.0595,0.0242,0.0004,False,True,False,,,
 401909976,TOR @ PHI,prop_pra,over,RJ Barrett,1629628.0,49.5,draftkings,1500.0,16.0,0.1005,9.95,0.0584,0.0584,0.0421,,0.6074,0.064,0.0234,0.0004,False,True,False,,,
 401909976,TOR @ PHI,prop_ast,over,Immanuel Quickley,1630193.0,7.5,draftkings,423.0,5.23,0.3064,3.26,0.1787,0.1787,0.1277,,0.6026,0.1956,0.0228,0.0013,False,True,False,,,
-401909977,DET @ WAS,prop_pra,over,Paul Reed,1630194.0,34.5,draftkings,1600.0,17.0,0.0938,10.66,0.055,0.055,0.0388,,0.5947,0.0601,0.0217,0.0003,False,True,False,,,
 401909976,TOR @ PHI,prop_pr,over,Joel Embiid,203954.0,44.5,draftkings,1480.0,15.8,0.1,10.0,0.0592,0.0592,0.0408,,0.58,0.0645,0.0198,0.0003,False,True,False,Joel Embiid,0.0,0.1128
 401909979,CHA @ PHX,prop_reb,over,Ryan Kalkbrenner,1641750.0,5.5,draftkings,158.0,2.58,0.6116,1.64,0.3622,0.3622,0.2494,,0.5779,0.3952,0.0195,0.0031,True,True,False,,,
 401909979,CHA @ PHX,prop_ast,over,Moussa Diabate,1631217.0,4.5,draftkings,1160.0,12.6,0.1248,8.02,0.0742,0.0742,0.0506,,0.5719,0.0808,0.0187,0.0004,False,False,False,,,
@@ -36,10 +36,12 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909976,TOR @ PHI,prop_ast,over,Jaylen Brown,1627759.0,5.5,draftkings,410.0,5.1,0.3001,3.33,0.1833,0.1833,0.1169,,0.5307,0.1987,0.0133,0.0008,False,True,False,LeBron James,0.4449,0.2756
 401909976,TOR @ PHI,prop_pts,over,Tyrese Maxey,1630178.0,39.5,draftkings,1560.0,16.6,0.0906,11.03,0.0563,0.0563,0.0343,,0.5043,0.0608,0.0098,0.0002,False,True,False,Joel Embiid,0.157,0.0793
 401909976,TOR @ PHI,prop_ast,over,Jaylen Brown,1627759.0,8.5,draftkings,2500.0,26.0,0.0578,17.29,0.0359,0.0359,0.0219,,0.5034,0.0388,0.0097,0.0001,False,False,False,LeBron James,0.119,0.0459
-401909977,DET @ WAS,prop_pra,over,Paul Reed,1630194.0,29.5,draftkings,660.0,7.6,0.1946,5.14,0.123,0.123,0.0717,,0.4792,0.1324,0.0065,0.0002,False,True,False,,,
+401909977,DET @ WAS,prop_pra,over,Paul Reed,1630194.0,29.5,draftkings,670.0,7.7,0.1946,5.14,0.1214,0.1214,0.0733,,0.4987,0.131,0.009,0.0003,False,True,False,,,
+401909977,DET @ WAS,prop_ast,over,Trae Young,1629027.0,13.5,draftkings,1440.0,15.4,0.0972,10.29,0.0607,0.0607,0.0365,,0.4961,0.0655,0.0087,0.0002,False,True,False,,,
+401909979,CHA @ PHX,prop_pr,over,Ryan Kalkbrenner,1641750.0,10.5,draftkings,-102.0,1.98,0.742,1.35,0.4719,0.4719,0.2701,,0.4694,0.5076,0.0052,0.0013,True,True,True,,,
+401909979,CHA @ PHX,prop_pr,over,Ryan Kalkbrenner,1641750.0,10.5,draftkings,-102.0,1.98,0.742,1.35,0.4719,0.4719,0.2701,,0.4694,0.5076,0.0052,0.0013,True,True,True,,,
 401909976,TOR @ PHI,prop_pra,over,Immanuel Quickley,1630193.0,34.5,draftkings,610.0,7.1,0.2065,4.84,0.1316,0.1316,0.0749,,0.4661,0.1415,0.0047,0.0002,False,True,False,,,
-401909979,CHA @ PHX,prop_pr,over,Ryan Kalkbrenner,1641750.0,10.5,draftkings,-103.0,1.97,0.742,1.35,0.4742,0.4742,0.2678,,0.4624,0.5095,0.0042,0.0011,True,True,True,,,
-401909979,CHA @ PHX,prop_pr,over,Ryan Kalkbrenner,1641750.0,10.5,draftkings,-103.0,1.97,0.742,1.35,0.4742,0.4742,0.2678,,0.4624,0.5095,0.0042,0.0011,True,True,True,,,
 401909979,CHA @ PHX,prop_ast,over,Moussa Diabate,1631217.0,3.5,draftkings,480.0,5.8,0.2515,3.98,0.1611,0.1611,0.0903,,0.4586,0.1731,0.0037,0.0002,False,True,False,,,
+401909977,DET @ WAS,prop_ast,over,Trae Young,1629027.0,12.5,draftkings,910.0,10.1,0.1439,6.95,0.0925,0.0925,0.0514,,0.4534,0.0993,0.0031,0.0001,False,False,False,,,
+401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,7.5,draftkings,199.0,2.99,0.4855,2.06,0.3126,0.3126,0.1729,,0.4517,0.3354,0.0028,0.0004,True,False,False,,,
 401909976,TOR @ PHI,prop_ast,over,Joel Embiid,203954.0,4.5,draftkings,247.0,3.47,0.4179,2.39,0.2693,0.2693,0.1486,,0.4501,0.2889,0.0026,0.0003,False,False,False,Joel Embiid,0.0,0.4766
-401909979,CHA @ PHX,prop_pts,over,Ryan Kalkbrenner,1641750.0,7.5,draftkings,196.0,2.96,0.4855,2.06,0.3157,0.3157,0.1698,,0.4371,0.3381,0.0009,0.0001,True,False,False,,,
