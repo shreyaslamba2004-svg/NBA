@@ -1,59 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAS @ CHI,Matas Buzelis pts under 15.5 + SAS win,2,0.5095,0.4686,2.13,2.24,2.15,0.0063,1.035,2.10-2.50
-SAS @ CHI,Nic Claxton pts under 7.5 + SAS win,2,0.4842,0.4559,2.19,2.3,2.2,0.003,1.025,2.10-2.50
-SAS @ CHI,Julian Champagnie pts under 11.5 + SAS win,2,0.5055,0.4573,2.19,2.3,2.14,-0.0224,0.978,2.10-2.50
-SAS @ CHI,Julian Champagnie pts under 11.5 + Caleb Wilson 15+ pra,2,0.6135,0.4705,2.13,2.23,2.08,-0.0229,1.001,1.85-2.10
-SAS @ CHI,De'Aaron Fox 14+ pts + SAS win,2,0.5065,0.4739,2.11,2.22,2.06,-0.0254,1.029,1.85-2.10
-SAS @ CHI,Julian Champagnie pts under 11.5 + Josh Giddey 10+ pr,2,0.6162,0.476,2.1,2.21,2.04,-0.0268,0.998,1.85-2.10
-SAS @ CHI,Caleb Wilson 5+ reb + SAS win,2,0.5985,0.5212,1.92,2.01,1.81,-0.0568,1.001,1.65-1.85
-SAS @ CHI,Dylan Harper 1+ stl + SAS win,2,0.5846,0.5199,1.92,2.02,1.81,-0.0592,1.0,1.65-1.85
-SAS @ CHI,Dylan Harper 1+ stl + Jalen Smith 4+ reb,2,0.665,0.5008,2.0,2.1,1.84,-0.078,1.003,1.65-1.85
-SAS @ CHI,SAS win + De'Aaron Fox 15+ pa + Stephon Castle 4+ ast,3,0.5966,0.5653,1.77,1.86,1.57,-0.1117,1.027,1.50-1.65
-SAS @ CHI,SAS win + Victor Wembanyama 8+ reb + De'Aaron Fox 15+ pa,3,0.617,0.572,1.75,1.84,1.55,-0.116,1.019,1.50-1.65
-SAS @ CHI,SAS win + Josh Giddey 4+ reb + De'Aaron Fox 15+ pa,3,0.6107,0.5627,1.78,1.87,1.57,-0.1171,1.016,1.50-1.65
-DEN @ MEM,Zach Edey 9+ pts + Nikola Jokic 8+ reb,2,0.4255,0.4403,2.27,2.38,2.19,-0.0367,1.007,2.10-2.50
-DEN @ MEM,Zach Edey 9+ pts + Aaron Gordon 10+ pa,2,0.389,0.4186,2.39,2.51,2.3,-0.0388,1.011,2.10-2.50
-DEN @ MEM,Zach Edey 9+ pts + Jamal Murray 2+ 3pm,2,0.3866,0.4061,2.46,2.59,2.37,-0.0391,1.007,2.10-2.50
-DEN @ MEM,Zach Edey 9+ pts + Christian Braun 10+ pra,2,0.433,0.4564,2.19,2.3,2.09,-0.0462,1.0,1.85-2.10
-DEN @ MEM,DEN win + Aaron Gordon 10+ pa,2,0.4848,0.4907,2.04,2.14,1.92,-0.0599,1.024,1.85-2.10
-DEN @ MEM,DEN win + Christian Braun 10+ pr,2,0.5071,0.5062,1.98,2.07,1.85,-0.0624,1.019,1.85-2.10
-DEN @ MEM,DEN win + Nikola Jokic 6+ ast,2,0.528,0.5223,1.91,2.01,1.79,-0.0657,1.014,1.65-1.85
-DEN @ MEM,DEN win + Christian Braun 10+ pra,2,0.5398,0.5352,1.87,1.96,1.74,-0.0668,1.013,1.65-1.85
-DEN @ MEM,DEN win + Nikola Jokic 8+ reb,2,0.5198,0.5059,1.98,2.08,1.83,-0.0766,0.999,1.65-1.85
-LAL @ MIL,Brayden Burries pts under 12.5 + LAL win,2,0.4897,0.4672,2.14,2.25,2.2,0.0259,1.033,2.10-2.50
-LAL @ MIL,Kel'el Ware pra under 21.5 + LAL win,2,0.6647,0.4705,2.13,2.23,2.15,0.0106,1.014,2.10-2.50
-LAL @ MIL,Kel'el Ware pr under 20.5 + LAL win,2,0.6669,0.4797,2.08,2.19,2.1,0.0054,1.013,1.85-2.10
-LAL @ MIL,Ryan Rollins pts under 10.5 + LAL win,2,0.3026,0.4431,2.26,2.37,2.26,0.0013,1.051,2.10-2.50
-LAL @ MIL,Kel'el Ware pra under 21.5 + Sandro Mamukelashvili 5+ pr,2,0.8652,0.4976,2.01,2.11,1.96,-0.0237,1.0,1.85-2.10
-LAL @ MIL,Kel'el Ware pra under 21.5 + Kyle Kuzma 10+ pra,2,0.8489,0.487,2.05,2.16,2.0,-0.0249,0.998,1.85-2.10
-LAL @ MIL,Sandro Mamukelashvili 10+ pra + Luka Doncic 1+ stl,2,0.7221,0.6003,1.67,1.75,1.51,-0.0959,1.005,1.50-1.65
-LAL @ MIL,Sandro Mamukelashvili 10+ pra + Ryan Rollins 1+ 3pm,2,0.7152,0.5911,1.69,1.78,1.52,-0.0999,0.999,1.50-1.65
-LAL @ MIL,Ryan Rollins 1+ 3pm + Luka Doncic 1+ stl,2,0.6978,0.5801,1.72,1.81,1.55,-0.1008,0.999,1.50-1.65
-LAL @ MIL,LAL win + Sandro Mamukelashvili 10+ pra + Luka Doncic 1+ stl,3,0.5385,0.5175,1.93,2.03,1.7,-0.1193,1.015,1.65-1.85
-LAL @ MIL,LAL win + Luka Doncic 1+ stl + Matisse Thybulle 1+ stl,3,0.5378,0.5223,1.91,2.01,1.66,-0.1334,1.001,1.65-1.85
-LAL @ MIL,LAL win + Sandro Mamukelashvili 10+ pra + Ryan Rollins 1+ 3pm,3,0.5262,0.5026,1.99,2.09,1.72,-0.135,0.996,1.65-1.85
-BKN @ NOP,Karlo Matkovic 8+ pts + Derik Queen 4+ reb,2,0.5887,0.427,2.34,2.46,2.28,-0.0274,1.003,2.10-2.50
-BKN @ NOP,Karlo Matkovic 8+ pts + Saddiq Bey 10+ pts,2,0.5575,0.4078,2.45,2.57,2.38,-0.0298,1.002,2.10-2.50
-BKN @ NOP,Karlo Matkovic 8+ pts + Julius Randle 4+ reb,2,0.5828,0.4264,2.34,2.46,2.27,-0.0319,1.0,2.10-2.50
-BKN @ NOP,Karlo Matkovic 8+ pts + Derik Queen 10+ pra,2,0.6354,0.4684,2.13,2.24,2.07,-0.0319,1.001,1.85-2.10
-BKN @ NOP,Karlo Matkovic 8+ pts + Saddiq Bey 10+ pr,2,0.622,0.4625,2.16,2.27,2.09,-0.0348,1.0,1.85-2.10
-BKN @ NOP,Michael Porter Jr. pts under 23.5 + Derik Queen 10+ pra,2,0.5487,0.4593,2.18,2.29,2.07,-0.0507,0.998,1.85-2.10
-BKN @ NOP,NOP win + Saddiq Bey 10+ pr,2,0.6209,0.5224,1.91,2.01,1.78,-0.071,1.007,1.65-1.85
-BKN @ NOP,NOP win + Day'Ron Sharpe 4+ reb,2,0.6065,0.5105,1.96,2.06,1.81,-0.0769,1.0,1.65-1.85
-BKN @ NOP,Saddiq Bey 6+ ra + Day'Ron Sharpe 4+ reb,2,0.6992,0.5172,1.93,2.03,1.78,-0.0779,0.999,1.65-1.85
-BKN @ NOP,Zion Williamson 4+ reb + Dejounte Murray 4+ ast,2,0.7277,0.5732,1.74,1.83,1.59,-0.0908,1.001,1.50-1.65
-BKN @ NOP,Zion Williamson 4+ reb + Saddiq Bey 10+ pts,2,0.7339,0.6017,1.66,1.75,1.5,-0.0965,1.002,1.50-1.65
-BKN @ NOP,Derik Queen 15+ pra + Dejounte Murray 4+ ast + Saddiq Bey 10+ pr,3,0.7388,0.5279,1.89,1.99,1.64,-0.1327,1.006,1.50-1.65
-ORL @ UTA,UTA +4.5 + Ace Bailey 10+ pts,2,0.4324,0.4165,2.4,2.52,2.26,-0.0585,1.029,2.10-2.50
-ORL @ UTA,UTA +4.5 + Jaxson Hayes 10+ pr,2,0.4262,0.4112,2.43,2.55,2.29,-0.06,1.027,2.10-2.50
-ORL @ UTA,game over 214.5 + Wendell Carter Jr. 10+ pa,2,0.5728,0.4132,2.42,2.54,2.27,-0.0616,1.036,2.10-2.50
-ORL @ UTA,ORL win + Wendell Carter Jr. 10+ pa,2,0.5269,0.4998,2.0,2.1,1.86,-0.068,1.028,1.85-2.10
-ORL @ UTA,Darryn Peterson pra under 28.5 + Desmond Bane 10+ pts,2,0.6454,0.4544,2.2,2.31,2.04,-0.071,0.999,1.85-2.10
-ORL @ UTA,Darryn Peterson pra under 28.5 + Desmond Bane 1+ 3pm,2,0.6496,0.4628,2.16,2.27,2.0,-0.0724,1.0,1.85-2.10
-ORL @ UTA,Darryn Peterson ra under 9.5 + Desmond Bane 1+ 3pm,2,0.6736,0.5024,1.99,2.09,1.83,-0.0803,0.999,1.65-1.85
+ORL @ UTA,UTA +4.5 + Ace Bailey 10+ pts,2,0.4324,0.4055,2.47,2.59,2.33,-0.0544,1.029,2.10-2.50
+ORL @ UTA,game over 214.5 + Wendell Carter Jr. 10+ pa,2,0.5728,0.4144,2.41,2.53,2.26,-0.062,1.036,2.10-2.50
+ORL @ UTA,game over 214.5 + Ace Bailey 10+ pts,2,0.5722,0.3964,2.52,2.65,2.36,-0.0634,1.027,2.10-2.50
+ORL @ UTA,ORL win + Wendell Carter Jr. 10+ pa,2,0.5269,0.5013,1.99,2.09,1.86,-0.0684,1.028,1.85-2.10
+ORL @ UTA,game over 214.5 + Desmond Bane 15+ pr,2,0.6201,0.4424,2.26,2.37,2.09,-0.0733,1.021,1.85-2.10
+ORL @ UTA,Josh Okogie 3+ reb + Jaxson Hayes 5+ pa,2,0.6202,0.4696,2.13,2.24,1.96,-0.0808,1.004,1.85-2.10
 ORL @ UTA,ORL win + Desmond Bane 15+ pr,2,0.5691,0.5338,1.87,1.97,1.72,-0.0818,1.011,1.65-1.85
-ORL @ UTA,ORL win + Desmond Bane 10+ pts,2,0.5891,0.5514,1.81,1.9,1.66,-0.0827,1.009,1.65-1.85
-ORL @ UTA,Josh Okogie 5+ pr + Ace Bailey 10+ pts + Jaxson Hayes 10+ pr,3,0.6192,0.5159,1.94,2.04,1.65,-0.1489,1.013,1.50-1.65
+ORL @ UTA,ORL win + Anthony Black 1+ stl,2,0.5179,0.4927,2.03,2.13,1.84,-0.0932,1.0,1.65-1.85
+ORL @ UTA,Desmond Bane 3+ ast + Jaxson Hayes 5+ pa,2,0.6333,0.5183,1.93,2.03,1.75,-0.0932,0.999,1.65-1.85
+ORL @ UTA,Josh Okogie 5+ pr + Jaxson Hayes 4+ reb,2,0.6955,0.5898,1.7,1.78,1.52,-0.1021,1.001,1.50-1.65
+ORL @ UTA,Ace Bailey 10+ pts + Jaxson Hayes 4+ reb,2,0.6623,0.5848,1.71,1.8,1.53,-0.105,1.005,1.50-1.65
+ORL @ UTA,Jaxson Hayes 4+ reb + Desmond Bane 2+ 3pm,2,0.6414,0.5897,1.7,1.78,1.5,-0.1149,1.0,1.50-1.65
 GSW @ HOU,HOU win + Georges Niang 3pm under 1.5,2,0.4542,0.3994,2.5,2.63,2.38,-0.0499,1.025,2.10-2.50
 GSW @ HOU,HOU win + Jabari Smith Jr. 2+ ast,2,0.4347,0.3841,2.6,2.73,2.45,-0.0579,1.018,2.10-2.50
 GSW @ HOU,Kevin Durant 10+ ra + Jabari Smith Jr. 10+ pts,2,0.5488,0.3869,2.58,2.71,2.43,-0.06,1.01,2.10-2.50
