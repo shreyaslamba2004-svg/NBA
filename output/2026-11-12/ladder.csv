@@ -2604,15 +2604,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pr,26.5,False,0.3955,0.4305,est,0.4259
 401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pr,27.5,False,0.3585,0.3924,est,0.3879
 401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pr,28.5,False,0.3229,0.3552,est,0.3509
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,23.5,False,0.6155,0.6599,est,0.6541
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,24.5,False,0.5725,0.6188,est,0.6127
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,25.5,False,0.5341,0.5816,est,0.5753
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,26.5,False,0.4942,0.5422,est,0.5358
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,27.5,True,0.4539,0.5019,book,0.4956
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,28.5,False,0.4167,0.4641,est,0.4578
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,29.5,False,0.379,0.4252,est,0.4191
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,30.5,False,0.3431,0.3877,est,0.3818
-401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,31.5,False,0.3094,0.352,est,0.3464
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,23.5,False,0.6155,0.6572,est,0.6517
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,24.5,False,0.5725,0.616,est,0.6102
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,25.5,False,0.5341,0.5786,est,0.5728
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,26.5,False,0.4942,0.5392,est,0.5332
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,27.5,True,0.4539,0.4989,book,0.493
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,28.5,False,0.4167,0.4611,est,0.4552
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,29.5,False,0.379,0.4222,est,0.4165
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,30.5,False,0.3431,0.3848,est,0.3793
+401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,pa,31.5,False,0.3094,0.3492,est,0.344
 401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,ra,7.5,False,0.7747,0.7876,est,0.7859
 401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,ra,8.5,False,0.6843,0.7003,est,0.6982
 401909978,DAL @ MIN,MIN,1630163,LaMelo Ball,ra,9.5,False,0.587,0.6051,est,0.6027
@@ -3014,31 +3014,30 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,MIN,1630228,Jonathan Kuminga,ra,8.5,False,0.3938,0.4251,est,0.421
 401909978,DAL @ MIN,MIN,1630228,Jonathan Kuminga,ra,9.5,False,0.2885,0.3158,est,0.3122
 401909978,DAL @ MIN,MIN,1630228,Jonathan Kuminga,ra,10.5,False,0.201,0.2226,est,0.2197
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,2.5,False,0.8817,,model only,0.8817
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,3.5,False,0.7965,,model only,0.7965
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,4.5,False,0.6919,,model only,0.6919
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,5.5,False,0.5845,,model only,0.5845
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,6.5,False,0.4787,,model only,0.4787
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,7.5,False,0.3828,,model only,0.3828
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,8.5,False,0.2983,,model only,0.2983
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,9.5,False,0.2269,,model only,0.2269
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,10.5,False,0.1707,,model only,0.1707
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,1.5,False,0.9086,,model only,0.9086
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,2.5,False,0.7878,,model only,0.7878
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,3.5,False,0.6404,,model only,0.6404
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,4.5,False,0.4882,,model only,0.4882
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,5.5,False,0.3449,,model only,0.3449
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,6.5,False,0.2317,,model only,0.2317
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,7.5,False,0.146,,model only,0.146
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,1.5,False,0.9474,0.9311,est,0.9333
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,2.5,False,0.8817,0.8483,est,0.8527
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,3.5,False,0.7965,0.7461,est,0.7527
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,4.5,False,0.6919,0.6276,est,0.6361
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,5.5,True,0.5845,0.5136,book,0.523
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,6.5,False,0.4787,0.408,est,0.4174
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,7.5,False,0.3828,0.3595,book,0.3626
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,8.5,False,0.2983,0.2419,est,0.2494
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pts,9.5,False,0.2269,0.2336,book,0.2327
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,0.5,False,0.9744,0.9661,est,0.9672
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,1.5,False,0.9086,0.8816,est,0.8852
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,2.5,False,0.7878,0.7278,book,0.7357
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,3.5,True,0.6404,0.5716,book,0.5807
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,4.5,False,0.4882,0.4191,book,0.4282
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,5.5,False,0.3449,0.2829,est,0.2911
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,reb,6.5,False,0.2317,0.1833,book,0.1897
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ast,0.5,False,0.6668,,model only,0.6668
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ast,1.5,False,0.319,,model only,0.319
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ast,1.5,False,0.319,0.3595,book,0.3541
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ast,2.5,False,0.1195,,model only,0.1195
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ast,3.5,False,0.0385,,model only,0.0385
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ast,4.5,False,0.0111,,model only,0.0111
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,fg3m,0.5,False,0.6039,,model only,0.6039
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,fg3m,1.5,False,0.212,,model only,0.212
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,fg3m,2.5,False,0.0513,,model only,0.0513
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,fg3m,3.5,False,0.0092,,model only,0.0092
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,fg3m,0.5,True,0.6039,0.6306,book,0.6271
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,fg3m,1.5,False,0.212,0.3054,book,0.2931
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,fg3m,2.5,False,0.0513,0.1246,book,0.1149
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,stl,0.5,False,0.4488,,model only,0.4488
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,stl,1.5,False,0.1321,,model only,0.1321
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,blk,0.5,False,0.2786,,model only,0.2786
@@ -3050,24 +3049,24 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,11.5,False,0.5501,,model only,0.5501
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,12.5,False,0.4781,,model only,0.4781
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,13.5,False,0.4074,,model only,0.4074
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,14.5,False,0.3468,,model only,0.3468
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,14.5,False,0.3468,0.3095,book,0.3144
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,15.5,False,0.2904,,model only,0.2904
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,16.5,False,0.2414,,model only,0.2414
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pra,17.5,False,0.1969,,model only,0.1969
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,7.5,False,0.7636,,model only,0.7636
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,8.5,False,0.6924,,model only,0.6924
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,9.5,False,0.6154,,model only,0.6154
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,10.5,False,0.5418,,model only,0.5418
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,11.5,False,0.4614,,model only,0.4614
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,12.5,False,0.3924,,model only,0.3924
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,13.5,False,0.3278,,model only,0.3278
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,14.5,False,0.2713,,model only,0.2713
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,15.5,False,0.2191,,model only,0.2191
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,6.5,False,0.8281,0.7814,est,0.7875
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,7.5,False,0.7636,0.7055,est,0.7132
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,8.5,False,0.6924,0.6255,est,0.6343
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,9.5,False,0.6154,0.5428,est,0.5524
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,10.5,True,0.5418,0.4673,book,0.4771
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,11.5,False,0.4614,0.3886,est,0.3982
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,12.5,False,0.3924,0.3239,est,0.3329
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,13.5,False,0.3278,0.2657,est,0.2739
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pr,14.5,False,0.2713,0.2165,est,0.2237
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,3.5,False,0.8663,,model only,0.8663
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,4.5,False,0.7832,,model only,0.7832
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,5.5,False,0.6917,,model only,0.6917
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,6.5,False,0.5929,,model only,0.5929
-401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,7.5,False,0.4975,,model only,0.4975
+401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,7.5,False,0.4975,0.4604,book,0.4653
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,8.5,False,0.4058,,model only,0.4058
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,9.5,False,0.3234,,model only,0.3234
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,pa,10.5,False,0.2522,,model only,0.2522
@@ -3079,15 +3078,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ra,7.5,False,0.2734,,model only,0.2734
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ra,8.5,False,0.1852,,model only,0.1852
 401909978,DAL @ MIN,MIN,1626168,Trey Lyles,ra,9.5,False,0.1231,,model only,0.1231
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,12.5,False,0.7024,0.7402,est,0.7352
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,13.5,False,0.6423,0.6844,est,0.6788
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,14.5,False,0.5824,0.6274,est,0.6215
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,15.5,False,0.5204,0.5672,est,0.561
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,16.5,True,0.4646,0.5117,book,0.5055
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,17.5,False,0.4073,0.4535,est,0.4474
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,18.5,False,0.3574,0.4017,est,0.3959
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,19.5,False,0.3101,0.3518,est,0.3463
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,20.5,False,0.2663,0.3048,est,0.2997
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,12.5,False,0.7024,0.7488,est,0.7427
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,13.5,False,0.6423,0.694,est,0.6871
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,14.5,False,0.5824,0.6378,est,0.6305
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,15.5,False,0.5204,0.5781,est,0.5705
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,16.5,True,0.4646,0.5229,book,0.5152
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,17.5,False,0.4073,0.4646,est,0.4571
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,18.5,False,0.3574,0.4126,est,0.4053
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,19.5,False,0.3101,0.3621,est,0.3552
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pts,20.5,False,0.2663,0.3144,est,0.308
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,reb,2.5,False,0.8857,0.8447,book,0.8501
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,reb,3.5,False,0.7651,0.7517,book,0.7535
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,reb,4.5,False,0.6142,0.635,book,0.6323
@@ -3102,45 +3101,45 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,ast,4.5,False,0.2371,0.2582,book,0.2554
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,ast,5.5,False,0.128,0.1447,book,0.1425
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,ast,6.5,False,0.0593,0.0792,book,0.0766
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,0.5,False,0.7639,0.7231,book,0.7285
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,1.5,True,0.4316,0.4055,book,0.4089
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,2.5,False,0.1854,0.1847,book,0.1848
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,3.5,False,0.0623,0.082,book,0.0794
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,0.5,False,0.7639,0.7296,book,0.7341
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,1.5,True,0.4316,0.4191,book,0.4208
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,2.5,False,0.1854,0.1939,book,0.1928
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,fg3m,3.5,False,0.0623,0.0834,book,0.0806
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,stl,0.5,False,0.6533,0.6597,book,0.6589
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,stl,1.5,False,0.3105,0.3302,book,0.3276
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,stl,2.5,False,0.1161,0.1316,book,0.1296
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,blk,0.5,False,0.6197,,model only,0.6197
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,blk,1.5,False,0.2662,,model only,0.2662
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,blk,2.5,False,0.0856,,model only,0.0856
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,21.5,False,0.6558,0.7137,est,0.7061
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,22.5,False,0.604,0.6662,est,0.6579
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,23.5,False,0.554,0.6191,est,0.6105
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,24.5,False,0.5066,0.5733,est,0.5645
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,25.5,False,0.4572,0.5243,est,0.5154
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,26.5,True,0.4103,0.4765,book,0.4678
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,27.5,False,0.3651,0.4294,est,0.4209
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,28.5,False,0.3227,0.384,est,0.3759
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,29.5,False,0.2821,0.3395,est,0.332
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,30.5,False,0.2489,0.3025,est,0.2954
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,31.5,False,0.2154,0.2643,est,0.2579
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,18.5,False,0.6556,0.7146,est,0.7068
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,19.5,False,0.6015,0.6651,est,0.6567
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,20.5,False,0.548,0.6147,est,0.6059
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,21.5,False,0.4947,0.563,est,0.554
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,22.5,True,0.4405,0.5088,book,0.4998
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,23.5,False,0.3917,0.4587,est,0.4498
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,24.5,False,0.3461,0.4105,est,0.402
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,25.5,False,0.3035,0.3643,est,0.3563
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,26.5,False,0.2645,0.3211,est,0.3137
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,16.5,False,0.644,0.6981,est,0.691
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,17.5,False,0.5893,0.6472,est,0.6395
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,18.5,False,0.5329,0.5932,est,0.5853
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,19.5,False,0.4796,0.5409,est,0.5328
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,20.5,True,0.4265,0.4874,book,0.4794
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,21.5,False,0.3756,0.4347,est,0.4269
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,22.5,False,0.33,0.3864,est,0.3789
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,23.5,False,0.2876,0.3404,est,0.3334
-401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,24.5,False,0.2494,0.2982,est,0.2917
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,21.5,False,0.6558,0.7243,est,0.7152
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,22.5,False,0.604,0.6776,est,0.6679
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,23.5,False,0.554,0.6313,est,0.621
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,24.5,False,0.5066,0.586,est,0.5755
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,25.5,False,0.4572,0.5373,est,0.5267
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,26.5,True,0.4103,0.4895,book,0.479
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,27.5,False,0.3651,0.4422,est,0.432
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,28.5,False,0.3227,0.3964,est,0.3867
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,29.5,False,0.2821,0.3513,est,0.3422
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,30.5,False,0.2489,0.3136,est,0.3051
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pra,31.5,False,0.2154,0.2746,est,0.2668
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,18.5,False,0.6556,0.7223,est,0.7135
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,19.5,False,0.6015,0.6735,est,0.664
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,20.5,False,0.548,0.6236,est,0.6137
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,21.5,False,0.4947,0.5723,est,0.5621
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,22.5,True,0.4405,0.5183,book,0.508
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,23.5,False,0.3917,0.4681,est,0.458
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,24.5,False,0.3461,0.4197,est,0.41
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,25.5,False,0.3035,0.3732,est,0.364
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pr,26.5,False,0.2645,0.3295,est,0.3209
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,16.5,False,0.644,0.699,est,0.6918
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,17.5,False,0.5893,0.6482,est,0.6404
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,18.5,False,0.5329,0.5943,est,0.5862
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,19.5,False,0.4796,0.542,est,0.5338
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,20.5,True,0.4265,0.4885,book,0.4803
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,21.5,False,0.3756,0.4358,est,0.4279
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,22.5,False,0.33,0.3874,est,0.3798
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,23.5,False,0.2876,0.3413,est,0.3342
+401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,pa,24.5,False,0.2494,0.2991,est,0.2925
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,ra,5.5,False,0.8299,0.8547,est,0.8514
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,ra,6.5,False,0.7311,0.7661,est,0.7615
 401909978,DAL @ MIN,MIN,1630183,Jaden McDaniels,ra,7.5,False,0.6165,0.6596,est,0.6539
@@ -3159,16 +3158,16 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pts,13.5,False,0.3031,0.2661,est,0.271
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,0.5,False,0.8955,,model only,0.8955
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,1.5,False,0.6884,,model only,0.6884
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,2.5,False,0.4634,,model only,0.4634
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,3.5,False,0.2732,,model only,0.2732
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,4.5,False,0.1479,,model only,0.1479
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,5.5,False,0.0713,,model only,0.0713
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,2.5,False,0.4634,0.4515,book,0.4531
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,3.5,False,0.2732,0.2693,book,0.2698
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,4.5,False,0.1479,0.1456,book,0.1459
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,reb,5.5,False,0.0713,0.0792,book,0.0782
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,0.5,False,0.8336,,model only,0.8336
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,1.5,False,0.5656,,model only,0.5656
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,2.5,False,0.3233,,model only,0.3233
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,3.5,False,0.163,,model only,0.163
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,4.5,False,0.0741,,model only,0.0741
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,5.5,False,0.0297,,model only,0.0297
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,1.5,False,0.5656,0.5452,book,0.5479
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,2.5,False,0.3233,0.3054,book,0.3078
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,3.5,False,0.163,0.1547,book,0.1558
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,4.5,False,0.0741,0.0766,book,0.0763
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,ast,5.5,False,0.0297,0.0425,book,0.0408
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,fg3m,0.5,False,0.6868,0.6785,book,0.6796
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,fg3m,1.5,True,0.3336,0.3601,book,0.3566
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,fg3m,2.5,False,0.1206,0.1584,book,0.1534
@@ -3188,17 +3187,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pra,18.5,False,0.3165,,model only,0.3165
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pra,19.5,False,0.274,,model only,0.274
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pra,20.5,False,0.2335,,model only,0.2335
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,9.5,False,0.7176,,model only,0.7176
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,9.5,False,0.7176,0.6597,book,0.6673
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,10.5,False,0.6523,,model only,0.6523
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,11.5,False,0.5885,,model only,0.5885
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,12.5,False,0.5256,,model only,0.5256
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,13.5,False,0.4647,,model only,0.4647
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,14.5,False,0.4073,,model only,0.4073
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,14.5,False,0.4073,0.3753,book,0.3795
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,15.5,False,0.3509,,model only,0.3509
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,16.5,False,0.2999,,model only,0.2999
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pr,17.5,False,0.2547,,model only,0.2547
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pa,8.5,False,0.7465,,model only,0.7465
-401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pa,9.5,False,0.682,,model only,0.682
+401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pa,9.5,False,0.682,0.6321,book,0.6387
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pa,10.5,False,0.6177,,model only,0.6177
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pa,11.5,False,0.5505,,model only,0.5505
 401909978,DAL @ MIN,MIN,1630545,Terrence Shannon Jr.,pa,12.5,False,0.4869,,model only,0.4869
@@ -3531,15 +3530,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pr,27.5,False,0.3964,0.4133,est,0.4111
 401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pr,28.5,False,0.355,0.3712,est,0.3691
 401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pr,29.5,False,0.3187,0.3341,est,0.3321
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,22.5,False,0.5986,0.6605,est,0.6523
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,23.5,False,0.5555,0.6198,est,0.6113
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,24.5,False,0.5101,0.5759,est,0.5672
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,25.5,False,0.4656,0.532,est,0.5232
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,26.5,True,0.4205,0.4863,book,0.4776
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,27.5,False,0.3836,0.448,est,0.4395
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,28.5,False,0.345,0.4073,est,0.399
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,29.5,False,0.3073,0.3666,est,0.3588
-401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,30.5,False,0.2744,0.3304,est,0.323
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,22.5,False,0.5986,0.6625,est,0.654
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,23.5,False,0.5555,0.6218,est,0.6131
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,24.5,False,0.5101,0.5781,est,0.5691
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,25.5,False,0.4656,0.5342,est,0.5251
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,26.5,True,0.4205,0.4885,book,0.4795
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,27.5,False,0.3836,0.4502,est,0.4414
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,28.5,False,0.345,0.4094,est,0.4009
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,29.5,False,0.3073,0.3687,est,0.3606
+401909978,DAL @ MIN,DAL,202681,Kyrie Irving,pa,30.5,False,0.2744,0.3323,est,0.3247
 401909978,DAL @ MIN,DAL,202681,Kyrie Irving,ra,4.5,False,0.8798,0.8671,est,0.8688
 401909978,DAL @ MIN,DAL,202681,Kyrie Irving,ra,5.5,False,0.7888,0.7689,est,0.7715
 401909978,DAL @ MIN,DAL,202681,Kyrie Irving,ra,6.5,False,0.673,0.647,est,0.6505
@@ -3561,7 +3560,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,DAL,1630230,Naji Marshall,reb,2.5,False,0.6296,0.5972,book,0.6015
 401909978,DAL @ MIN,DAL,1630230,Naji Marshall,reb,3.5,True,0.4358,0.4072,book,0.411
 401909978,DAL @ MIN,DAL,1630230,Naji Marshall,reb,4.5,False,0.2749,0.2479,book,0.2515
-401909978,DAL @ MIN,DAL,1630230,Naji Marshall,reb,5.5,False,0.1617,0.1456,book,0.1477
+401909978,DAL @ MIN,DAL,1630230,Naji Marshall,reb,5.5,False,0.1617,0.1453,book,0.1475
 401909978,DAL @ MIN,DAL,1630230,Naji Marshall,reb,6.5,False,0.0845,0.0834,book,0.0835
 401909978,DAL @ MIN,DAL,1630230,Naji Marshall,ast,0.5,False,0.9208,0.9193,est,0.9195
 401909978,DAL @ MIN,DAL,1630230,Naji Marshall,ast,1.5,False,0.7517,0.748,est,0.7485
@@ -3632,9 +3631,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,DAL,1628997,Caleb Martin,ast,2.5,False,0.1054,0.1915,book,0.1801
 401909978,DAL @ MIN,DAL,1628997,Caleb Martin,ast,3.5,False,0.0333,0.0792,book,0.0731
 401909978,DAL @ MIN,DAL,1628997,Caleb Martin,ast,4.5,False,0.0094,0.0374,book,0.0337
-401909978,DAL @ MIN,DAL,1628997,Caleb Martin,fg3m,0.5,True,0.2027,0.3919,book,0.3669
-401909978,DAL @ MIN,DAL,1628997,Caleb Martin,fg3m,1.5,False,0.0191,0.1087,book,0.0969
-401909978,DAL @ MIN,DAL,1628997,Caleb Martin,fg3m,2.5,False,0.0008,0.0359,book,0.0313
+401909978,DAL @ MIN,DAL,1628997,Caleb Martin,fg3m,0.5,True,0.2027,0.391,book,0.3661
+401909978,DAL @ MIN,DAL,1628997,Caleb Martin,fg3m,1.5,False,0.0191,0.1062,book,0.0947
+401909978,DAL @ MIN,DAL,1628997,Caleb Martin,fg3m,2.5,False,0.0008,0.0346,book,0.0301
 401909978,DAL @ MIN,DAL,1628997,Caleb Martin,stl,0.5,False,0.4337,,model only,0.4337
 401909978,DAL @ MIN,DAL,1628997,Caleb Martin,stl,1.5,False,0.1327,,model only,0.1327
 401909978,DAL @ MIN,DAL,1628997,Caleb Martin,blk,0.5,False,0.2112,,model only,0.2112
@@ -3761,7 +3760,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ast,3.5,False,0.0629,0.0935,book,0.0895
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ast,4.5,False,0.0185,0.0425,book,0.0393
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,fg3m,0.5,False,0.7777,0.8132,book,0.8085
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,fg3m,1.5,True,0.4479,0.5547,book,0.5406
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,fg3m,1.5,True,0.4479,0.5585,book,0.5439
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,fg3m,2.5,False,0.1907,0.3074,book,0.292
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,fg3m,3.5,False,0.0621,0.15,book,0.1384
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,stl,0.5,False,0.6115,0.6188,book,0.6178
@@ -3798,13 +3797,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,pa,16.5,False,0.3528,0.3855,est,0.3812
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,pa,17.5,False,0.2992,0.3295,est,0.3255
 401909978,DAL @ MIN,DAL,1629023,P.J. Washington,pa,18.5,False,0.2538,0.2814,est,0.2777
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,4.5,False,0.8692,0.8767,est,0.8757
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,5.5,False,0.7733,0.785,est,0.7834
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,6.5,False,0.6562,0.6714,est,0.6694
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,7.5,True,0.5372,0.5541,book,0.5519
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,8.5,False,0.4207,0.4374,est,0.4352
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,9.5,False,0.3111,0.3259,est,0.3239
-401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,10.5,False,0.2217,0.2337,est,0.2321
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,5.5,False,0.7733,0.7907,est,0.7884
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,6.5,False,0.6562,0.6789,est,0.6759
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,7.5,False,0.5372,0.5626,est,0.5592
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,8.5,True,0.4207,0.4459,book,0.4426
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,9.5,False,0.3111,0.3335,est,0.3305
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,10.5,False,0.2217,0.2399,est,0.2375
+401909978,DAL @ MIN,DAL,1629023,P.J. Washington,ra,11.5,False,0.1522,0.1659,est,0.1641
 401909979,CHA @ PHX,PHX,1626164,Devin Booker,pts,20.5,False,0.6186,0.6731,est,0.666
 401909979,CHA @ PHX,PHX,1626164,Devin Booker,pts,21.5,False,0.5766,0.6336,est,0.6261
 401909979,CHA @ PHX,PHX,1626164,Devin Booker,pts,22.5,False,0.5348,0.5935,est,0.5857
