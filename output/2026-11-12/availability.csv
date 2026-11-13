@@ -1,14 +1,14 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909979,PHX,1626164,Devin Booker,,,1.0,,,
+401909979,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
 401909979,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909979,PHX,1628970,Miles Bridges,,,1.0,,,
-401909979,PHX,1628415,Dillon Brooks,,,1.0,,,
+401909979,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
+401909979,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
 401909979,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909979,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909979,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909979,PHX,1630692,Jordan Goodwin,,,1.0,,,
-401909979,PHX,1630224,Jalen Green,,,1.0,,,
-401909979,PHX,1642345,Oso Ighodaro,,,1.0,,,
+401909979,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
+401909979,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
 401909979,PHX,1628379,Luke Kennard,,,1.0,,,
 401909979,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909979,PHX,905041953,Koa Peat,,,1.0,,,
@@ -17,20 +17,20 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909979,PHX,1631166,Drew Timme,Out,GLeague-Two-Way,0.0,,,
 401909979,PHX,1631109,Mark Williams,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",,
 401909979,CHA,905176517,Michael Ajayi,Out,GLeague-Two-Way,0.0,,,
-401909979,CHA,1628960,Grayson Allen,,,1.0,,,
+401909979,CHA,1628960,Grayson Allen,Starting,,1.0,,,1.0
 401909979,CHA,905060701,Christian Anderson,,,1.0,,,
 401909979,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
-401909979,CHA,1631217,Moussa Diabate,Available,,1.0,,,
+401909979,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
 401909979,CHA,1641790,PJ Hall,,,1.0,,,
-401909979,CHA,1642883,Sion James,,,1.0,,,
+401909979,CHA,1642883,Sion James,Starting,,1.0,,,1.0
 401909979,CHA,1641750,Ryan Kalkbrenner,,,1.0,,,
 401909979,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.,,
 401909979,CHA,1642862,Liam McNeeley,,,1.0,,,
 401909979,CHA,1641706,Brandon Miller,Out,Injury/Illness-RightHipStrain,0.0,Miller (groin) is listed as out for Thursday's game against Phoenix.,,
 401909979,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909979,CHA,1629675,Naz Reid,,,1.0,,,
+401909979,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
 401909979,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401909979,CHA,203471,Dennis Schroder,Out,Injury/Illness-LeftHamstringStrain,0.0,"Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",,
 401909979,CHA,905281370,Hannes Steinbach,Out,GLeague-OnAssignment,0.0,,,
-401909979,CHA,1629632,Coby White,,,1.0,,,
+401909979,CHA,1629632,Coby White,Starting,,1.0,,,1.0
 401909979,CHA,1629684,Grant Williams,Available,Injury/Illness-RightHamstringStrain,1.0,,,
