@@ -77,18 +77,18 @@ GSW @ SAS,GSW +12.5 + Yaxel Lendeborg 4+ reb,2,0.618,0.4444,2.25,2.36,2.05,-0.08
 GSW @ SAS,Al Horford 3pm under 1.5 + Stephon Castle 4+ ast,2,0.6322,0.4894,2.04,2.15,1.86,-0.0882,0.999,1.85-2.10
 GSW @ SAS,Dylan Harper 1+ 3pm + Yaxel Lendeborg 4+ reb,2,0.6987,0.5889,1.7,1.78,1.54,-0.0951,1.002,1.50-1.65
 GSW @ SAS,Dylan Harper 1+ 3pm + Brandin Podziemski 10+ pts,2,0.6885,0.5756,1.74,1.82,1.57,-0.0954,1.001,1.50-1.65
-POR @ SAC,POR win + Scoot Henderson 13+ pa,2,0.4709,0.4345,2.3,2.42,2.23,-0.0293,1.038,2.10-2.50
-POR @ SAC,POR win + Jrue Holiday 18+ pa,2,0.4501,0.4086,2.45,2.57,2.38,-0.0294,1.04,2.10-2.50
-POR @ SAC,POR win + Scoot Henderson 16+ pra,2,0.4375,0.3982,2.51,2.64,2.43,-0.0318,1.038,2.10-2.50
-POR @ SAC,POR win + Jrue Holiday 4+ ast,2,0.552,0.5048,1.98,2.08,1.87,-0.0557,1.013,1.85-2.10
-POR @ SAC,POR win + Toumani Camara 10+ pa,2,0.6119,0.6047,1.65,1.74,1.55,-0.0643,1.018,1.50-1.65
+POR @ SAC,POR win + Jrue Holiday 18+ pa,2,0.4501,0.4078,2.45,2.57,2.38,-0.0313,1.04,2.10-2.50
+POR @ SAC,POR win + Jrue Holiday 22+ pra,2,0.4381,0.4037,2.48,2.6,2.4,-0.0322,1.04,2.10-2.50
+POR @ SAC,POR win + Scoot Henderson 13+ pa,2,0.4709,0.4311,2.32,2.44,2.24,-0.0332,1.038,2.10-2.50
+POR @ SAC,POR win + Jrue Holiday 4+ ast,2,0.552,0.4977,2.01,2.11,1.9,-0.0532,1.013,1.85-2.10
+POR @ SAC,POR win + Toumani Camara 10+ pa,2,0.6119,0.6071,1.65,1.73,1.54,-0.0649,1.018,1.50-1.65
 POR @ SAC,game over 229.5 + De'Andre Hunter 10+ pra,2,0.5148,0.4566,2.19,2.3,2.05,-0.066,1.013,1.85-2.10
-POR @ SAC,game over 229.5 + Toumani Camara 10+ pra,2,0.5062,0.4504,2.22,2.33,2.07,-0.0665,1.013,1.85-2.10
-POR @ SAC,Sidy Cissoko 3pm under 1.5 + De'Andre Hunter 10+ pra,2,0.6603,0.5163,1.94,2.03,1.77,-0.0886,1.002,1.65-1.85
-POR @ SAC,Sidy Cissoko 3pm under 1.5 + Toumani Camara 10+ pra,2,0.6466,0.5073,1.97,2.07,1.79,-0.0926,0.998,1.65-1.85
-POR @ SAC,Sidy Cissoko 3pm under 1.5 + Scoot Henderson 5+ pa,2,0.6667,0.5261,1.9,2.0,1.72,-0.093,0.998,1.65-1.85
-POR @ SAC,Toumani Camara 10+ pa + De'Andre Hunter 10+ pa,2,0.6964,0.5964,1.68,1.76,1.51,-0.1015,1.004,1.50-1.65
-POR @ SAC,POR win + Toumani Camara 10+ pa + Scoot Henderson 5+ pa,3,0.5985,0.5586,1.79,1.88,1.58,-0.1155,1.021,1.50-1.65
+POR @ SAC,game over 229.5 + Toumani Camara 10+ pra,2,0.5062,0.4512,2.22,2.33,2.07,-0.0667,1.013,1.85-2.10
+POR @ SAC,Jrue Holiday 4+ ast + Scoot Henderson 10+ pra,2,0.6603,0.5036,1.99,2.08,1.82,-0.0851,1.001,1.65-1.85
+POR @ SAC,Jrue Holiday 4+ ast + De'Andre Hunter 1+ 3pm,2,0.6415,0.4997,2.0,2.1,1.83,-0.0855,1.004,1.65-1.85
+POR @ SAC,Jrue Holiday 4+ ast + Sidy Cissoko 5+ pa,2,0.6909,0.5352,1.87,1.96,1.71,-0.0862,1.003,1.65-1.85
+POR @ SAC,Jrue Holiday 4+ ast + De'Andre Hunter 10+ pra,2,0.7195,0.5617,1.78,1.87,1.62,-0.0883,1.002,1.50-1.65
+POR @ SAC,Jrue Holiday 4+ ast + Toumani Camara 10+ pra,2,0.7077,0.5552,1.8,1.89,1.64,-0.0886,1.002,1.50-1.65
 OKC @ LAC,Max Strus 3pm under 2.5 + OKC win,2,0.4952,0.4365,2.29,2.41,2.25,-0.0187,1.024,2.10-2.50
 OKC @ LAC,OKC win + Max Strus pra under 16.5,2,0.4123,0.3982,2.51,2.64,2.46,-0.0213,1.04,2.10-2.50
 OKC @ LAC,OKC -7.5 + Jared McCain 10+ pts,2,0.3312,0.395,2.53,2.66,2.44,-0.0374,1.047,2.10-2.50
