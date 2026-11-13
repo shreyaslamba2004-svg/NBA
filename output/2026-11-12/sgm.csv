@@ -1,28 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-TOR @ PHI,Jamison Battle 9+ pts + Jamal Shead 10+ pa,2,0.5626,0.4137,2.42,2.54,2.26,-0.0636,1.008,2.10-2.50
-TOR @ PHI,Jamison Battle 9+ pts + RJ Barrett 1+ 3pm,2,0.5411,0.3953,2.53,2.66,2.37,-0.0636,1.007,2.10-2.50
-TOR @ PHI,Jamison Battle 11+ pr + Jamal Shead 10+ pa,2,0.628,0.4455,2.24,2.36,2.1,-0.0646,1.008,1.85-2.10
-TOR @ PHI,Jamison Battle 9+ pts + Jamal Shead 4+ ast,2,0.5667,0.4291,2.33,2.45,2.18,-0.0658,1.01,2.10-2.50
-TOR @ PHI,Jamison Battle 11+ pr + Ja'Kobe Walter 10+ pra,2,0.6613,0.4643,2.15,2.26,2.01,-0.0689,1.002,1.85-2.10
-TOR @ PHI,Jamison Battle 11+ pr + Jamal Shead 4+ ast,2,0.6299,0.4601,2.17,2.28,2.02,-0.0707,1.007,1.85-2.10
-TOR @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.46,0.5789,1.73,1.81,1.6,-0.073,1.012,1.50-1.65
-TOR @ PHI,PHI win + Dean Wade 5+ pr,2,0.4848,0.6095,1.64,1.72,1.52,-0.074,1.011,1.50-1.65
-TOR @ PHI,Dean Wade 3pm under 1.5 + Ja'Kobe Walter 10+ pra,2,0.8055,0.5893,1.7,1.78,1.57,-0.0777,1.001,1.50-1.65
-TOR @ PHI,Dean Wade 3pm under 1.5 + RJ Barrett 1+ 3pm,2,0.7303,0.5364,1.86,1.96,1.71,-0.0802,0.999,1.65-1.85
-TOR @ PHI,Dean Wade 3pm under 1.5 + Jamison Battle 1+ 3pm,2,0.7387,0.5521,1.81,1.9,1.66,-0.0829,0.999,1.65-1.85
-TOR @ PHI,PHI win + RJ Barrett 1+ 3pm,2,0.445,0.5414,1.85,1.94,1.68,-0.0909,0.987,1.65-1.85
-DET @ WAS,AJ Dybantsa pts under 16.5 + DET win,2,0.5313,0.4284,2.33,2.45,2.36,0.0122,1.034,2.10-2.50
-DET @ WAS,Trae Young pts under 16.5 + DET win,2,0.4184,0.4152,2.41,2.53,2.4,-0.0015,1.045,2.10-2.50
-DET @ WAS,Kyshawn George pts under 14.5 + DET win,2,0.391,0.4112,2.43,2.55,2.42,-0.0065,1.049,2.10-2.50
-DET @ WAS,AJ Dybantsa pts under 16.5 + Anthony Davis 6+ reb,2,0.618,0.4616,2.17,2.27,2.07,-0.0441,1.0,1.85-2.10
-DET @ WAS,AJ Dybantsa pts under 16.5 + Ausar Thompson 4+ reb,2,0.607,0.4624,2.16,2.27,2.06,-0.0493,0.997,1.85-2.10
-DET @ WAS,Alex Sarr 9+ pts + Anthony Davis 6+ reb,2,0.568,0.4491,2.23,2.34,2.08,-0.0659,1.003,1.85-2.10
-DET @ WAS,DET win + Kevin Huerter 1+ 3pm,2,0.6465,0.6104,1.64,1.72,1.51,-0.0782,1.009,1.50-1.65
-DET @ WAS,DET win + Anthony Davis 1+ blk,2,0.6523,0.5957,1.68,1.76,1.54,-0.0803,1.001,1.50-1.65
-DET @ WAS,DET win + Kyshawn George 10+ pts,2,0.6307,0.5836,1.71,1.8,1.55,-0.0963,0.986,1.50-1.65
-DET @ WAS,DET win + Paul Reed 4+ reb + Anthony Davis 1+ blk,3,0.5893,0.4855,2.06,2.16,1.81,-0.1235,1.004,1.65-1.85
-DET @ WAS,DET win + Paul Reed 4+ reb + Kevin Huerter 1+ 3pm,3,0.5819,0.4956,2.02,2.12,1.77,-0.1248,1.008,1.65-1.85
-DET @ WAS,DET win + Anthony Davis 1+ blk + Ausar Thompson 4+ reb,3,0.6007,0.5213,1.92,2.01,1.66,-0.1333,1.001,1.65-1.85
 DAL @ MIN,MIN win + Joan Beringer 5+ pa,2,0.4411,0.3918,2.55,2.68,2.45,-0.0404,1.028,2.10-2.50
 DAL @ MIN,game over 226.5 + Terrence Shannon Jr. 10+ pra,2,0.4699,0.3866,2.59,2.72,2.43,-0.0611,1.033,2.10-2.50
 DAL @ MIN,game over 226.5 + Zaccharie Risacher 5+ pra,2,0.492,0.3883,2.58,2.7,2.4,-0.0668,1.019,2.10-2.50
