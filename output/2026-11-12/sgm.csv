@@ -1,12 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHA @ PHX,Ryan Kalkbrenner 5+ pts + Coby White 10+ pts,2,0.6603,0.3945,2.53,2.66,2.44,-0.0368,1.003,2.10-2.50
-CHA @ PHX,Ryan Kalkbrenner 10+ pr + Coby White 10+ pts,2,0.6869,0.419,2.39,2.51,2.29,-0.0398,1.001,2.10-2.50
-CHA @ PHX,Miles Bridges pts under 15.5 + Coby White 10+ pts,2,0.5726,0.3964,2.52,2.65,2.42,-0.0407,0.996,2.10-2.50
-CHA @ PHX,Miles Bridges pts under 15.5 + Ryan Kalkbrenner 5+ pr,2,0.6474,0.4645,2.15,2.26,2.06,-0.0447,0.998,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 10+ pr + Coby White 1+ 3pm,2,0.7018,0.4531,2.21,2.32,2.1,-0.0486,1.002,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 5+ pts + Moussa Diabate 5+ pa,2,0.72,0.4667,2.14,2.25,2.03,-0.0505,1.003,1.85-2.10
-CHA @ PHX,Ryan Kalkbrenner 5+ reb + Collin Gillespie 5+ pa,2,0.6957,0.5082,1.97,2.07,1.82,-0.0728,1.0,1.65-1.85
-CHA @ PHX,Ryan Kalkbrenner 5+ reb + Moussa Diabate 5+ pa,2,0.6953,0.5127,1.95,2.05,1.81,-0.0729,1.001,1.65-1.85
-CHA @ PHX,Collin Gillespie 10+ pra + Moussa Diabate 15+ pra,2,0.6604,0.591,1.69,1.78,1.5,-0.1127,0.998,1.50-1.65
-CHA @ PHX,Coby White 10+ pts + Dillon Brooks 1+ 3pm + Collin Gillespie 10+ pra,3,0.6148,0.4742,2.11,2.21,1.8,-0.1442,1.005,1.65-1.85
-CHA @ PHX,Ryan Kalkbrenner 5+ pr + Coby White 1+ 3pm + Collin Gillespie 10+ pra,3,0.7,0.5473,1.83,1.92,1.55,-0.1496,1.002,1.50-1.65
+CHA @ PHX,Jalen Green pts under 13.5 + Ryan Kalkbrenner 5+ pr,2,0.4815,0.4329,2.31,2.43,2.22,-0.0397,0.999,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 5+ pts + Moussa Diabate 15+ pra,2,0.649,0.412,2.43,2.55,2.32,-0.0447,1.004,2.10-2.50
+CHA @ PHX,Miles Bridges pts under 15.5 + Ryan Kalkbrenner 5+ pr,2,0.6427,0.4643,2.15,2.26,2.06,-0.045,1.0,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 5+ pts + Collin Gillespie 10+ pra,2,0.6392,0.4083,2.45,2.57,2.34,-0.0464,1.003,2.10-2.50
+CHA @ PHX,Ryan Kalkbrenner 5+ pts + Collin Gillespie 5+ pa,2,0.7432,0.4682,2.14,2.24,2.04,-0.0465,1.0,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 5+ pts + Moussa Diabate 5+ pa,2,0.7456,0.4729,2.11,2.22,2.02,-0.047,1.001,1.85-2.10
+CHA @ PHX,Ryan Kalkbrenner 5+ reb + Moussa Diabate 5+ pa,2,0.7087,0.5174,1.93,2.03,1.79,-0.0756,1.001,1.65-1.85
+CHA @ PHX,Ryan Kalkbrenner 5+ reb + Collin Gillespie 5+ pa,2,0.7053,0.5115,1.96,2.05,1.81,-0.0766,0.999,1.65-1.85
+CHA @ PHX,Ryan Kalkbrenner 5+ reb + Naz Reid 1+ 3pm,2,0.6701,0.4998,2.0,2.1,1.84,-0.0784,1.001,1.65-1.85
