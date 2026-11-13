@@ -192,3 +192,7 @@ game_id,game_date,home,away,book,spread_home,total,over_price,under_price,ml_hom
 401909973,2026-11-11,UTA,ORL,DraftKings,4.5,215.5,-110.0,-110.0,150,-179,-115.0,-105.0,4.5,218.5,"Marc Davis, Rodney Mott, Natalie Sago"
 401909974,2026-11-11,HOU,GSW,DraftKings,-6.5,219.5,-112.0,-108.0,-249,205,-110.0,-110.0,-5.5,222.5,"Eric Lewis, Mitchell Ervin, Brandon Adair"
 401909975,2026-11-11,POR,OKC,DraftKings,-2.5,224.5,-112.0,-108.0,-147,124,-115.0,-106.0,2.5,224.5,"Ben Taylor, Nate Green, Sha'Rae Mitchell"
+401909976,2026-11-12,PHI,TOR,DraftKings,-7.5,222.5,-115.0,-105.0,-277,226,-105.0,-115.0,-9.5,221.5,"Marat Kogut, Ray Acosta, Tyler Ricks"
+401909977,2026-11-12,WAS,DET,DraftKings,10.5,223.5,-105.0,-115.0,341,-438,-117.0,-103.0,9.5,220.5,"Aaron Smith, Jenna Schroeder, J.B. DeRosa"
+401909978,2026-11-12,MIN,DAL,DraftKings,-5.5,226.5,-110.0,-110.0,-223,185,-114.0,-106.0,-4.5,226.5,"James Capers, Sean Corbin, Brent Haskill"
+401909979,2026-11-12,PHX,CHA,DraftKings,-6.5,214.5,-112.0,-108.0,-217,180,-108.0,-112.0,-7.5,213.5,"Eric Dalen, Scott Foster, Matt Myers"
