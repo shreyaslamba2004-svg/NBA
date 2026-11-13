@@ -12,13 +12,14 @@ NYK @ IND,Karl-Anthony Towns 1+ 3pm + OG Anunoby 1+ 3pm,2,0.6832,0.5844,1.71,1.8
 MIL @ ORL,ORL win + game under 222.5,2,0.4311,0.3806,2.63,2.76,2.47,-0.0587,1.001,2.10-2.50
 MIL @ ORL,ORL win + game over 223.5,2,0.2478,0.3893,2.57,2.7,2.41,-0.0612,1.002,2.10-2.50
 CLE @ MIA,game over 236.5 + Donovan Mitchell 25+ pra,2,0.4959,0.4367,2.29,2.4,2.14,-0.0644,1.036,2.10-2.50
-CLE @ MIA,MIA win + Davion Mitchell 15+ pra,2,0.4935,0.4856,2.06,2.16,1.92,-0.0669,1.011,1.85-2.10
-CLE @ MIA,game over 236.5 + Donovan Mitchell 20+ pr,2,0.4977,0.4358,2.29,2.41,2.14,-0.0694,1.029,2.10-2.50
-CLE @ MIA,game over 236.5 + Donovan Mitchell 20+ pa,2,0.5001,0.445,2.25,2.36,2.09,-0.0704,1.031,1.85-2.10
+CLE @ MIA,MIA win + Davion Mitchell 15+ pra,2,0.4935,0.4849,2.06,2.17,1.92,-0.0666,1.011,1.85-2.10
+CLE @ MIA,game over 236.5 + Donovan Mitchell 20+ pr,2,0.4977,0.4362,2.29,2.41,2.13,-0.0697,1.029,2.10-2.50
 CLE @ MIA,CLE +2.5 + Donovan Mitchell 25+ pra,2,0.4986,0.4392,2.28,2.39,2.11,-0.0714,1.028,2.10-2.50
-CLE @ MIA,MIA -2.5 + Davion Mitchell 15+ pra,2,0.4395,0.4447,2.25,2.36,2.08,-0.0731,1.013,1.85-2.10
-CLE @ MIA,MIA win + Andrew Wiggins 5+ pr,2,0.5034,0.5027,1.99,2.09,1.84,-0.076,1.003,1.65-1.85
-CLE @ MIA,Bam Adebayo 13+ ra + Andrew Wiggins 5+ pr,2,0.6011,0.4944,2.02,2.12,1.83,-0.0975,1.0,1.65-1.85
+CLE @ MIA,MIA -2.5 + Davion Mitchell 15+ pra,2,0.4395,0.444,2.25,2.36,2.09,-0.0729,1.013,1.85-2.10
+CLE @ MIA,MIA win + Bam Adebayo 6+ reb,2,0.4699,0.4638,2.16,2.26,1.99,-0.0764,1.001,1.85-2.10
+CLE @ MIA,Jarrett Allen pts under 15.5 + Donovan Mitchell 15+ pr,2,0.6367,0.5005,2.0,2.1,1.83,-0.0855,0.998,1.65-1.85
+CLE @ MIA,Jarrett Allen pts under 15.5 + Donovan Mitchell 1+ 3pm,2,0.6233,0.4945,2.02,2.12,1.85,-0.0856,1.0,1.65-1.85
+CLE @ MIA,MIA win + Donovan Mitchell 15+ pr,2,0.4982,0.4965,2.01,2.11,1.84,-0.0864,0.992,1.65-1.85
 ATL @ CHI,Isaac Okoro pr under 11.5 + ATL win,2,0.468,0.3896,2.57,2.69,2.42,-0.0554,1.02,2.10-2.50
 ATL @ CHI,game over 245.5 + Matas Buzelis 4+ reb,2,0.39,0.3925,2.55,2.67,2.36,-0.0722,1.027,2.10-2.50
 ATL @ CHI,game over 245.5 + Jalen Smith 15+ pra,2,0.4317,0.4485,2.23,2.34,2.06,-0.0752,1.028,1.85-2.10
@@ -70,19 +71,20 @@ POR @ SAC,POR win + Damian Lillard 4+ ast,2,0.5596,0.5527,1.81,1.9,1.7,-0.0579,1
 POR @ SAC,POR win + Keegan Murray 3pm under 1.5,2,0.4975,0.493,2.03,2.13,1.91,-0.0587,1.019,1.85-2.10
 POR @ SAC,POR -10.5 + Sidy Cissoko 5+ pa,2,0.4036,0.4531,2.21,2.32,2.06,-0.0671,1.017,1.85-2.10
 POR @ SAC,POR -10.5 + Toumani Camara 10+ pr,2,0.3918,0.4493,2.23,2.34,2.07,-0.0693,1.018,1.85-2.10
+POR @ SAC,Damian Lillard 8+ ra + Domantas Sabonis 10+ pa,2,0.6203,0.4956,2.02,2.12,1.84,-0.0895,1.002,1.65-1.85
 POR @ SAC,Sidy Cissoko 3pm under 1.5 + Darius Acuff Jr. 20+ pra,2,0.6553,0.5177,1.93,2.03,1.75,-0.0923,1.0,1.65-1.85
-POR @ SAC,Damian Lillard 8+ ra + Zach LaVine 10+ pr,2,0.6216,0.5014,1.99,2.09,1.81,-0.0927,1.0,1.65-1.85
-POR @ SAC,Keegan Murray 3pm under 1.5 + Zach LaVine 10+ pr,2,0.6575,0.5495,1.82,1.91,1.64,-0.1015,0.999,1.50-1.65
 POR @ SAC,POR win + Sidy Cissoko 5+ pa + Toumani Camara 10+ pa,3,0.5581,0.561,1.78,1.87,1.59,-0.1094,1.035,1.50-1.65
 POR @ SAC,POR win + Darius Acuff Jr. 20+ pra + Toumani Camara 10+ pa,3,0.5661,0.5705,1.75,1.84,1.54,-0.1239,1.018,1.50-1.65
-OKC @ LAC,OKC win + Brook Lopez pa under 13.5,2,0.4151,0.403,2.48,2.61,2.49,0.0037,1.054,2.10-2.50
-OKC @ LAC,OKC win + Shai Gilgeous-Alexander 6+ ast,2,0.3958,0.4101,2.44,2.56,2.4,-0.0147,1.044,2.10-2.50
+POR @ SAC,POR win + Darius Acuff Jr. 4+ ast + Toumani Camara 10+ pa,3,0.5331,0.532,1.88,1.97,1.64,-0.1264,1.014,1.50-1.65
+OKC @ LAC,OKC win + Brook Lopez pa under 13.5,2,0.4151,0.4094,2.44,2.56,2.44,0.0008,1.054,2.10-2.50
+OKC @ LAC,OKC win + Kenrich Williams 9+ pa,2,0.4196,0.4176,2.39,2.51,2.39,-0.0034,1.049,2.10-2.50
 OKC @ LAC,OKC win + Derrick Jones Jr. pr under 15.5,2,0.3952,0.404,2.48,2.6,2.44,-0.0158,1.043,2.10-2.50
-OKC @ LAC,OKC win + Kenrich Williams 5+ pa,2,0.5645,0.6151,1.63,1.71,1.54,-0.0551,1.013,1.50-1.65
+OKC @ LAC,OKC -7.5 + Kris Dunn 5+ pr,2,0.361,0.4488,2.23,2.34,2.06,-0.0754,0.988,1.85-2.10
 OKC @ LAC,Brook Lopez reb under 5.5 + Derrick Jones Jr. 5+ pa,2,0.6558,0.4763,2.1,2.2,1.94,-0.0765,0.999,1.85-2.10
-OKC @ LAC,Brook Lopez reb under 5.5 + Kris Dunn 5+ pr,2,0.6451,0.4697,2.13,2.24,1.96,-0.0788,0.997,1.85-2.10
-OKC @ LAC,Brook Lopez pra under 18.5 + Derrick Jones Jr. 5+ pa,2,0.6144,0.4487,2.23,2.34,2.05,-0.0799,0.997,1.85-2.10
-OKC @ LAC,OKC win + Kenrich Williams 5+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.4984,0.5086,1.97,2.06,1.78,-0.0926,1.03,1.65-1.85
-OKC @ LAC,OKC win + Kenrich Williams 5+ pa + Kris Dunn 5+ pr,3,0.5181,0.5432,1.84,1.93,1.62,-0.1176,1.006,1.50-1.65
-OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kris Dunn 5+ pr,3,0.4895,0.5297,1.89,1.98,1.66,-0.1197,1.009,1.65-1.85
-OKC @ LAC,OKC win + Kenrich Williams 5+ pa + Derrick Jones Jr. 5+ pa,3,0.5233,0.5473,1.83,1.92,1.61,-0.121,1.002,1.50-1.65
+OKC @ LAC,Brook Lopez reb under 5.5 + Darius Garland 1+ 3pm,2,0.6291,0.4582,2.18,2.29,2.01,-0.0769,0.999,1.85-2.10
+OKC @ LAC,Kenrich Williams 9+ pa + Derrick Jones Jr. 5+ pa,2,0.6198,0.4931,2.03,2.13,1.84,-0.091,1.0,1.65-1.85
+OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Garland 1+ 3pm,3,0.477,0.5173,1.93,2.03,1.7,-0.1188,1.01,1.65-1.85
+OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kris Dunn 5+ pr,3,0.4895,0.5275,1.9,1.99,1.67,-0.1191,1.009,1.65-1.85
+OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Derrick Jones Jr. 5+ pa,3,0.4934,0.5337,1.87,1.97,1.64,-0.1251,1.003,1.50-1.65
+OKC @ LAC,OKC win + Kris Dunn 5+ pr + Darius Garland 1+ 3pm,3,0.4948,0.547,1.83,1.92,1.57,-0.1437,0.985,1.50-1.65
+OKC @ LAC,OKC win + Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa,3,0.5132,0.5657,1.77,1.86,1.51,-0.1476,0.98,1.50-1.65
