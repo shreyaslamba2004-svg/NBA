@@ -146,7 +146,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909300,NOP,1631121,Bryce McGowens,Out,Injury/Illness-LeftElbowInfection,0.0,McGowens (elbow) is listed as out for Friday's game against the Grizzlies.,,
 401909300,NOP,1642274,Yves Missi,Out,,0.0,Missi (knee) is out for Friday's game against the Grizzlies.,,
 401909300,NOP,1630530,Trey Murphy III,Out,,0.0,Murphy (knee) is out for Friday's game against Memphis.,,
-401909300,NOP,1627749,Dejounte Murray,Doubtful,Injury/Illness-LeftAnkleSprain,0.2,"Murray (ankle) requested a trade from the Pelicans on Friday, per Shams Charania of ESPN.",,
+401909300,NOP,1627749,Dejounte Murray,Out,Injury/Illness-LeftAnkleSprain,0.0,"Murray (ankle) requested a trade from the Pelicans on Friday, per Shams Charania of ESPN.",,
 401909300,NOP,904703115,Jaron Pierre Jr.,Available,GLeague-Two-Way,1.0,,,
 401909300,NOP,1629673,Jordan Poole,,,1.0,,,
 401909300,NOP,1642852,Derik Queen,,,1.0,,,
