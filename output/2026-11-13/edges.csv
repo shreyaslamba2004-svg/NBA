@@ -1,0 +1,20 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1360.0,14.6,0.1498,6.68,0.064,0.064,0.0858,,1.187,0.0753,0.0999,0.0018,False,False,False,,,
+401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2200.0,23.0,0.0924,10.83,0.0406,0.0406,0.0517,,1.1242,0.0475,0.0916,0.001,False,True,False,,,
+401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,750.0,8.5,0.2317,4.32,0.11,0.11,0.1217,,0.9692,0.126,0.0712,0.0024,False,True,False,,,
+401909301,UTA @ HOU,moneyline,UTA,,,,sportsbet,950.0,10.5,0.0966,10.36,0.0917,0.1004,-0.0038,3.86,0.0138,0.1004,0.054,0.0014,False,True,True,,,
+401909302,GSW @ SAS,moneyline,GSW,,,,pointsbetau,600.0,7.0,0.3397,2.94,0.1369,0.1501,0.1896,4.37,1.3779,0.1501,0.0505,0.0021,True,True,True,De'Aaron Fox,0.3733,0.33
+401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,8.5,draftkings,1920.0,20.2,0.0895,11.18,0.0463,0.0463,0.0432,,0.8069,0.052,0.0497,0.0006,False,False,False,,,
+401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,1060.0,11.6,0.1536,6.51,0.0806,0.0806,0.0731,,0.7821,0.0902,0.0465,0.0011,False,True,False,,,
+401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,6.5,draftkings,385.0,4.85,0.3451,2.9,0.1927,0.1927,0.1524,,0.6736,0.2128,0.0321,0.0021,True,False,False,,,
+401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,6.5,draftkings,547.0,6.47,0.252,3.97,0.1444,0.1444,0.1076,,0.6307,0.1586,0.0265,0.0012,False,False,False,,,
+401909296,NYK @ IND,moneyline,IND,,,,sportsbet,231.0,3.31,0.235,4.25,0.2896,0.3079,-0.0728,4.3,-0.222,0.3079,0.0191,0.0021,False,True,True,,,
+401909301,UTA @ HOU,prop_pr,over,Kevin Durant,201142.0,44.5,draftkings,1200.0,13.0,0.1194,8.38,0.0719,0.0719,0.0475,,0.5516,0.0782,0.016,0.0003,False,True,False,,,
+401909301,UTA @ HOU,prop_pts,over,Jabari Smith Jr.,1631095.0,24.5,draftkings,890.0,9.9,0.1542,6.49,0.0944,0.0944,0.0598,,0.5261,0.1023,0.0127,0.0004,False,True,False,,,
+401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,7.5,draftkings,1240.0,13.4,0.1095,9.13,0.0697,0.0697,0.0397,,0.4669,0.075,0.0048,0.0001,False,True,False,,,
+401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,6.5,draftkings,670.0,7.7,0.1904,5.25,0.1214,0.1214,0.069,,0.4658,0.1305,0.0047,0.0002,False,False,False,,,
+401909301,UTA @ HOU,moneyline,UTA,,,,draftkings,900.0,10.0,0.0966,10.36,0.0961,0.1004,-0.0038,4.05,-0.0345,0.1004,0.0038,0.0001,False,True,True,,,
+401909301,UTA @ HOU,prop_pts,over,Jabari Smith Jr.,1631095.0,29.5,draftkings,2300.0,24.0,0.0603,16.59,0.0389,0.0389,0.0213,,0.447,0.0418,0.0022,0.0,False,True,False,,,
+401909301,UTA @ HOU,prop_pr,over,Kevin Durant,201142.0,49.5,draftkings,2200.0,23.0,0.0629,15.9,0.0406,0.0406,0.0223,,0.4469,0.0436,0.0022,0.0,False,True,False,,,
+401909300,MEM @ NOP,moneyline,NOP,,,,unibet,145.0,2.45,0.4585,2.18,0.3874,0.4088,0.0497,5.36,0.1233,0.4088,0.0016,0.0003,False,True,True,Trey Murphy III,0.4354,0.4976
+401909300,MEM @ NOP,moneyline,NOP,,,,tabtouch,145.0,2.45,0.4585,2.18,0.3874,0.4088,0.0497,5.36,0.1233,0.4088,0.0016,0.0003,False,True,True,Trey Murphy III,0.4354,0.4976
