@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-TOR @ PHI,Immanuel Quickley 17+ pts + Collin Murray-Boyles 15+ pra,2,0.3972,0.3838,2.61,2.74,2.49,-0.0451,1.011,2.10-2.50
-TOR @ PHI,Immanuel Quickley pts under 16.5 + RJ Barrett 1+ 3pm,2,0.4502,0.3983,2.51,2.64,2.39,-0.0476,1.001,2.10-2.50
-TOR @ PHI,Immanuel Quickley pts under 16.5 + Collin Murray-Boyles 10+ pra,2,0.5228,0.4621,2.16,2.27,2.06,-0.0497,0.999,1.85-2.10
-TOR @ PHI,Immanuel Quickley pts under 16.5 + Ja'Kobe Walter 10+ pra,2,0.4958,0.4375,2.29,2.4,2.17,-0.0519,0.997,2.10-2.50
-TOR @ PHI,Immanuel Quickley pts under 16.5 + Jakob Poeltl 10+ pr,2,0.5048,0.4557,2.19,2.3,2.07,-0.0566,0.995,1.85-2.10
-TOR @ PHI,Immanuel Quickley 17+ pts + Jakob Poeltl 10+ pr,2,0.4369,0.4495,2.22,2.34,2.09,-0.0602,1.006,1.85-2.10
-TOR @ PHI,PHI win + Collin Murray-Boyles 4+ reb,2,0.4537,0.5284,1.89,1.99,1.76,-0.0718,1.0,1.65-1.85
-TOR @ PHI,PHI win + Dean Wade 5+ pr,2,0.4945,0.6133,1.63,1.71,1.51,-0.0748,1.008,1.50-1.65
-TOR @ PHI,PHI win + Collin Murray-Boyles 15+ pra,2,0.4454,0.5252,1.9,2.0,1.73,-0.0916,0.981,1.65-1.85
-TOR @ PHI,PHI win + Ja'Kobe Walter 10+ pra,2,0.486,0.5964,1.68,1.76,1.52,-0.0925,0.987,1.50-1.65
-TOR @ PHI,PHI win + RJ Barrett 1+ 3pm,2,0.4378,0.5386,1.86,1.95,1.68,-0.0956,0.984,1.65-1.85
-TOR @ PHI,Collin Murray-Boyles 4+ reb + Immanuel Quickley 4+ ast,2,0.6992,0.5783,1.73,1.82,1.56,-0.0988,1.001,1.50-1.65
+TOR @ PHI,Immanuel Quickley 17+ pts + Collin Murray-Boyles 15+ pra,2,0.3926,0.3849,2.6,2.73,2.49,-0.0425,1.016,2.10-2.50
+TOR @ PHI,Immanuel Quickley 17+ pts + Collin Murray-Boyles 10+ pa,2,0.3901,0.3928,2.55,2.67,2.44,-0.0433,1.02,2.10-2.50
+TOR @ PHI,Jaylen Brown 24+ pts + Collin Murray-Boyles 4+ reb,2,0.3976,0.3846,2.6,2.73,2.48,-0.047,1.006,2.10-2.50
+TOR @ PHI,Immanuel Quickley pts under 16.5 + Collin Murray-Boyles 10+ pra,2,0.5307,0.462,2.16,2.27,2.06,-0.0498,0.997,1.85-2.10
+TOR @ PHI,Immanuel Quickley pts under 16.5 + VJ Edgecombe 10+ pr,2,0.5214,0.4626,2.16,2.27,2.05,-0.0511,0.998,1.85-2.10
+TOR @ PHI,Jaylen Brown 24+ pts + VJ Edgecombe 10+ pr,2,0.4498,0.4643,2.15,2.26,2.03,-0.0567,1.007,1.85-2.10
+TOR @ PHI,PHI win + Dean Wade 5+ pr,2,0.4978,0.6137,1.63,1.71,1.51,-0.0742,1.007,1.50-1.65
+TOR @ PHI,PHI win + Collin Murray-Boyles 4+ reb,2,0.4505,0.527,1.9,1.99,1.76,-0.0743,0.998,1.65-1.85
+TOR @ PHI,PHI win + RJ Barrett 1+ 3pm,2,0.4384,0.5401,1.85,1.94,1.68,-0.0932,0.987,1.65-1.85
+TOR @ PHI,PHI win + Ja'Kobe Walter 10+ pra,2,0.4853,0.5955,1.68,1.76,1.52,-0.0938,0.985,1.50-1.65
+TOR @ PHI,PHI win + Collin Murray-Boyles 15+ pra,2,0.4438,0.5235,1.91,2.01,1.73,-0.0945,0.978,1.65-1.85
+TOR @ PHI,Collin Murray-Boyles 15+ pra + Immanuel Quickley 4+ ast,2,0.701,0.588,1.7,1.79,1.53,-0.0977,1.004,1.50-1.65
 DET @ WAS,AJ Dybantsa pts under 16.5 + DET win,2,0.5241,0.4262,2.35,2.46,2.38,0.0158,1.03,2.10-2.50
 DET @ WAS,Trae Young pts under 16.5 + DET win,2,0.4298,0.416,2.4,2.52,2.4,0.0004,1.043,2.10-2.50
 DET @ WAS,Kyshawn George pts under 14.5 + DET win,2,0.3973,0.4108,2.43,2.56,2.42,-0.0076,1.045,2.10-2.50

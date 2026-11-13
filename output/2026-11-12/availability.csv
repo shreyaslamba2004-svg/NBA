@@ -1,10 +1,10 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909976,PHI,1631230,Dominick Barlow,Out,,0.0,"Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports.",,
 401909976,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,"Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",,
-401909976,PHI,1627759,Jaylen Brown,,,1.0,,,
+401909976,PHI,1627759,Jaylen Brown,Starting,,1.0,,,1.0
 401909976,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
 401909976,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
-401909976,PHI,1642348,Justin Edwards,Starting,,1.0,,,1.0
+401909976,PHI,1642348,Justin Edwards,,,1.0,,,
 401909976,PHI,203954,Joel Embiid,Starting,,1.0,,,1.0
 401909976,PHI,1629605,Tacko Fall,,,1.0,,,
 401909976,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
