@@ -6,32 +6,32 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909296,IND,1631245,Quenton Jackson,,,1.0,,,
 401909296,IND,204456,T.J. McConnell,Available,Injury/Illness-RightHamstringStrain,1.0,,,
 401909296,IND,1626204,Larry Nance Jr.,,,1.0,,,
-401909296,IND,1629614,Andrew Nembhard,,,1.0,,,
-401909296,IND,1630174,Aaron Nesmith,Available,Injury/Illness-RightKneeSoreness,1.0,,,
-401909296,IND,1626162,Kelly Oubre Jr.,,,1.0,,,
+401909296,IND,1629614,Andrew Nembhard,Starting,,1.0,,,1.0
+401909296,IND,1630174,Aaron Nesmith,Starting,Injury/Illness-RightKneeSoreness,1.0,,,1.0
+401909296,IND,1626162,Kelly Oubre Jr.,Starting,,1.0,,,1.0
 401909296,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
-401909296,IND,1627783,Pascal Siakam,,,1.0,,,
+401909296,IND,1627783,Pascal Siakam,Starting,,1.0,,,1.0
 401909296,IND,1641771,Jalen Slawson,,,1.0,,,
 401909296,IND,905105854,Braden Smith,,,1.0,,,
 401909296,IND,1630167,Obi Toppin,,,1.0,,,
 401909296,IND,1641716,Jarace Walker,,,1.0,,,
-401909296,IND,1627826,Ivica Zubac,,,1.0,,,
+401909296,IND,1627826,Ivica Zubac,Starting,,1.0,,,1.0
 401909296,NYK,904683730,Jaden Akins,Active,,1.0,,,
 401909296,NYK,1630631,Jose Alvarado,Active,,1.0,,,
-401909296,NYK,1628384,OG Anunoby,Active,,1.0,,,
-401909296,NYK,1628969,Mikal Bridges,Active,,1.0,,,
-401909296,NYK,1628973,Jalen Brunson,Active,,1.0,,,
+401909296,NYK,1628384,OG Anunoby,Starting,,1.0,,,1.0
+401909296,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
+401909296,NYK,1628973,Jalen Brunson,Starting,,1.0,,,1.0
 401909296,NYK,203903,Jordan Clarkson,Active,,1.0,,,
 401909296,NYK,1642359,Pacome Dadiet,Active,,1.0,,,
 401909296,NYK,1642885,Mohamed Diawara,Active,,1.0,,,
 401909296,NYK,203083,Andre Drummond,Active,,1.0,,,
-401909296,NYK,1628404,Josh Hart,Active,,1.0,,,
+401909296,NYK,1628404,Josh Hart,Starting,,1.0,,,1.0
 401909296,NYK,1642261,Dalton Knecht,Active,,1.0,,,
 401909296,NYK,1642278,Tyler Kolek,Active,,1.0,,,
 401909296,NYK,1630540,Miles McBride,Active,,1.0,,,
 401909296,NYK,904838721,Tyler Nickel,Active,,1.0,,,
 401909296,NYK,1629013,Landry Shamet,Active,,1.0,,,
-401909296,NYK,1626157,Karl-Anthony Towns,Active,,1.0,,,
+401909296,NYK,1626157,Karl-Anthony Towns,Starting,,1.0,,,1.0
 401909296,NYK,1630164,James Wiseman,Active,,1.0,,,
 401909297,ORL,1631094,Paolo Banchero,Out,,0.0,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",,
 401909297,ORL,1630217,Desmond Bane,Starting,,1.0,,,1.0
