@@ -10,7 +10,7 @@ NYK @ IND,NYK win + Mikal Bridges 5+ pa + Jalen Brunson 1+ 3pm,3,0.6483,0.5618,1
 NYK @ IND,NYK win + Mikal Bridges 5+ pr + OG Anunoby 1+ 3pm,3,0.6485,0.5531,1.81,1.9,1.58,-0.1243,1.011,1.50-1.65
 MIL @ ORL,Brayden Burries pts under 11.5 + ORL win,2,0.532,0.4144,2.41,2.53,2.42,0.0033,1.031,2.10-2.50
 MIL @ ORL,Brayden Burries pra under 20.5 + ORL win,2,0.5558,0.4241,2.36,2.48,2.36,0.0029,1.026,2.10-2.50
-MIL @ ORL,ORL win + Myles Turner pa under 11.5,2,0.4407,0.402,2.49,2.61,2.45,-0.0144,1.046,2.10-2.50
+MIL @ ORL,Brayden Burries pr under 17.5 + ORL win,2,0.5473,0.432,2.31,2.43,2.3,-0.0074,1.023,2.10-2.50
 MIL @ ORL,ORL win + Brayden Burries ast under 3.5,2,0.5573,0.4757,2.1,2.21,2.04,-0.0317,1.015,1.85-2.10
 MIL @ ORL,Brayden Burries pa under 14.5 + Jaime Jaquez Jr. 10+ pr,2,0.7001,0.4515,2.21,2.33,2.09,-0.0555,0.995,1.85-2.10
 MIL @ ORL,Brayden Burries pra under 20.5 + Jaime Jaquez Jr. 10+ pr,2,0.7191,0.478,2.09,2.2,1.96,-0.0611,0.996,1.85-2.10
@@ -44,14 +44,14 @@ ATL @ CHI,ATL win + Matas Buzelis 4+ reb,2,0.5843,0.5246,1.91,2.0,1.74,-0.0859,0
 ATL @ CHI,ATL win + Jalen Smith 15+ pra,2,0.6399,0.5981,1.67,1.76,1.51,-0.098,0.991,1.50-1.65
 ATL @ CHI,ATL win + Josh Giddey 10+ pr + Dyson Daniels 1+ stl,3,0.6383,0.5596,1.79,1.88,1.54,-0.1403,1.001,1.50-1.65
 MEM @ NOP,game over 235.5 + Derik Queen 10+ pa,2,0.5576,0.4009,2.49,2.62,2.37,-0.0482,1.024,2.10-2.50
+MEM @ NOP,Isaiah Stewart pr under 16.5 + Derik Queen 10+ pa,2,0.6424,0.3946,2.53,2.66,2.41,-0.0497,0.995,2.10-2.50
 MEM @ NOP,game over 235.5 + Jaylen Wells 10+ pr,2,0.5439,0.3978,2.51,2.64,2.39,-0.0499,1.025,2.10-2.50
-MEM @ NOP,game over 235.5 + Cedric Coward 10+ pa,2,0.5691,0.4354,2.3,2.41,2.17,-0.0565,1.026,2.10-2.50
+MEM @ NOP,Isaiah Stewart pr under 16.5 + Herbert Jones 5+ pr,2,0.7072,0.4603,2.17,2.28,2.05,-0.0546,0.999,1.85-2.10
 MEM @ NOP,MEM win + Jaylen Wells 10+ pr,2,0.5246,0.4676,2.14,2.25,2.02,-0.0566,1.019,1.85-2.10
-MEM @ NOP,Isaiah Stewart pr under 16.5 + Herbert Jones 5+ pr,2,0.7072,0.476,2.1,2.21,1.97,-0.0617,0.999,1.85-2.10
-MEM @ NOP,Isaiah Stewart pr under 16.5 + Ty Jerome 1+ 3pm,2,0.6857,0.4663,2.14,2.25,2.01,-0.0638,0.999,1.85-2.10
+MEM @ NOP,Isaiah Stewart pr under 16.5 + Ty Jerome 1+ 3pm,2,0.6857,0.451,2.22,2.33,2.09,-0.0567,0.999,1.85-2.10
 MEM @ NOP,MEM win + Cedric Coward 10+ pa,2,0.5465,0.5095,1.96,2.06,1.83,-0.0672,1.015,1.65-1.85
 MEM @ NOP,MEM win + Cedric Coward 15+ pra,2,0.5581,0.5208,1.92,2.02,1.78,-0.0718,1.01,1.65-1.85
-MEM @ NOP,Isaiah Stewart reb under 5.5 + Herbert Jones 5+ pr,2,0.7137,0.5141,1.95,2.04,1.8,-0.0749,1.0,1.65-1.85
+MEM @ NOP,MEM win + Ty Jerome 1+ 3pm,2,0.5642,0.5293,1.89,1.98,1.74,-0.078,1.004,1.65-1.85
 MEM @ NOP,Derik Queen 10+ pa + Jaylen Wells 10+ pr + Herbert Jones 5+ pr,3,0.7271,0.5548,1.8,1.89,1.54,-0.1442,1.004,1.50-1.65
 MEM @ NOP,Jaylen Wells 10+ pr + Zion Williamson 4+ reb + Cedric Coward 10+ pa,3,0.6678,0.5315,1.88,1.98,1.61,-0.1458,1.009,1.50-1.65
 MEM @ NOP,Derik Queen 10+ pa + Jaylen Wells 10+ pr + Cedric Coward 15+ pra,3,0.6927,0.5312,1.88,1.98,1.61,-0.1462,1.002,1.50-1.65
