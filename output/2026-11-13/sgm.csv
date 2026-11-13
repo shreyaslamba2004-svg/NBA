@@ -47,18 +47,18 @@ MEM @ NOP,Zion Williamson 9+ ra + Saddiq Bey 15+ pra,2,0.6526,0.4985,2.01,2.11,1
 MEM @ NOP,Herbert Jones 10+ pra + Saddiq Bey 15+ pa,2,0.7205,0.6016,1.66,1.75,1.5,-0.0948,1.007,1.50-1.65
 MEM @ NOP,Zion Williamson 4+ reb + Saddiq Bey 15+ pa,2,0.7167,0.5993,1.67,1.75,1.5,-0.0998,1.002,1.50-1.65
 MEM @ NOP,Jaylen Wells 10+ pr + Saddiq Bey 15+ pa,2,0.7082,0.5952,1.68,1.76,1.51,-0.0998,1.002,1.50-1.65
-UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6321,0.4728,2.12,2.22,2.07,-0.0202,1.02,1.85-2.10
-UTA @ HOU,Darryn Peterson pra under 27.5 + HOU win,2,0.6626,0.4953,2.02,2.12,1.98,-0.0216,1.019,1.85-2.10
+UTA @ HOU,Darryn Peterson pra under 26.5 + HOU win,2,0.6275,0.4688,2.13,2.24,2.09,-0.02,1.02,1.85-2.10
+UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6321,0.4819,2.07,2.18,2.03,-0.0219,1.02,1.85-2.10
 UTA @ HOU,Darryn Peterson pr under 22.5 + HOU win,2,0.6258,0.4732,2.11,2.22,2.06,-0.0236,1.019,1.85-2.10
-UTA @ HOU,HOU win + Jabari Smith Jr. 15+ pts,2,0.5639,0.458,2.18,2.29,2.11,-0.0339,1.016,2.10-2.50
-UTA @ HOU,Kevin Durant 10+ ra + HOU win,2,0.5927,0.4583,2.18,2.29,2.1,-0.0376,1.007,2.10-2.50
-UTA @ HOU,Darryn Peterson pra under 27.5 + HOU win + Jabari Smith Jr. 10+ pts,3,0.5855,0.3856,2.59,2.72,2.44,-0.0603,1.025,2.10-2.50
-UTA @ HOU,HOU win + Jabari Smith Jr. 10+ pts + Kevin Durant 25+ pra,3,0.7025,0.5586,1.79,1.88,1.61,-0.0986,1.019,1.50-1.65
-UTA @ HOU,HOU win + Jabari Smith Jr. 10+ pts + Kevin Durant 20+ pa,3,0.695,0.5566,1.8,1.89,1.62,-0.1004,1.019,1.50-1.65
-UTA @ HOU,HOU win + Jabari Smith Jr. 10+ pts + Amen Thompson 15+ pa,3,0.6809,0.5508,1.82,1.91,1.63,-0.1034,1.017,1.50-1.65
-UTA @ HOU,Jabari Smith Jr. 10+ pts + Kevin Durant 25+ pra + Amen Thompson 15+ pa,3,0.6522,0.4807,2.08,2.18,1.81,-0.1315,1.013,1.65-1.85
-UTA @ HOU,Jabari Smith Jr. 10+ pts + Kevin Durant 20+ pa + Amen Thompson 15+ pa,3,0.6444,0.4783,2.09,2.2,1.81,-0.1343,1.011,1.65-1.85
-UTA @ HOU,Jabari Smith Jr. 10+ pts + Kevin Durant 25+ pra + Amen Thompson 20+ pra,3,0.6844,0.5101,1.96,2.06,1.7,-0.135,1.011,1.65-1.85
+UTA @ HOU,Kevin Durant 26+ pa + HOU win,2,0.5983,0.4564,2.19,2.3,2.13,-0.0282,1.016,2.10-2.50
+UTA @ HOU,Kevin Durant 22+ pts + HOU win,2,0.5694,0.4507,2.22,2.33,2.15,-0.0311,1.016,2.10-2.50
+UTA @ HOU,Kevin Durant 10+ ra + HOU win,2,0.5927,0.4534,2.21,2.32,2.13,-0.0345,1.007,2.10-2.50
+UTA @ HOU,Kevin Durant 4+ ast + Brice Sensabaugh 5+ pra,2,0.6904,0.5012,2.0,2.1,1.85,-0.0747,0.999,1.65-1.85
+UTA @ HOU,HOU win + Jabari Smith Jr. 10+ pts + Amen Thompson 15+ pa,3,0.6809,0.5591,1.79,1.88,1.6,-0.1058,1.017,1.50-1.65
+UTA @ HOU,HOU win + Jabari Smith Jr. 10+ pts + Kevin Durant 15+ pts,3,0.7078,0.5857,1.71,1.79,1.52,-0.1071,1.017,1.50-1.65
+UTA @ HOU,HOU win + Amen Thompson 15+ pa + Kevin Durant 15+ pts,3,0.6815,0.5794,1.73,1.81,1.54,-0.1102,1.018,1.50-1.65
+UTA @ HOU,Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts + Amen Thompson 15+ pa,3,0.6444,0.4736,2.11,2.22,1.83,-0.133,1.011,1.65-1.85
+UTA @ HOU,Jabari Smith Jr. 10+ pts + Amen Thompson 15+ pa + Kevin Durant 15+ pts,3,0.658,0.5037,1.99,2.08,1.71,-0.1383,1.011,1.65-1.85
 GSW @ SAS,SAS win + De'Anthony Melton pts under 12.5,2,0.4268,0.434,2.3,2.42,2.27,-0.017,1.045,2.10-2.50
 GSW @ SAS,SAS win + De'Anthony Melton pa under 15.5,2,0.427,0.4336,2.31,2.42,2.27,-0.0179,1.044,2.10-2.50
 GSW @ SAS,SAS win + De'Anthony Melton pra under 20.5,2,0.4527,0.4617,2.17,2.27,2.12,-0.0235,1.039,2.10-2.50
@@ -72,17 +72,17 @@ GSW @ SAS,Al Horford 3pm under 1.5 + Brandin Podziemski 15+ pra,2,0.735,0.5559,1
 GSW @ SAS,De'Anthony Melton 3pm under 2.5 + Brandin Podziemski 15+ pra,2,0.7547,0.5804,1.72,1.81,1.57,-0.0871,1.0,1.50-1.65
 GSW @ SAS,De'Anthony Melton 3pm under 2.5 + Yaxel Lendeborg 4+ reb,2,0.7114,0.5552,1.8,1.89,1.64,-0.0901,0.999,1.50-1.65
 POR @ SAC,POR win + Scoot Henderson 13+ pa,2,0.4709,0.4343,2.3,2.42,2.25,-0.0212,1.038,2.10-2.50
-POR @ SAC,POR win + Jrue Holiday 13+ pts,2,0.4425,0.4158,2.4,2.53,2.35,-0.0232,1.041,2.10-2.50
-POR @ SAC,POR win + Jrue Holiday 17+ pa,2,0.4891,0.4428,2.26,2.37,2.2,-0.0242,1.035,2.10-2.50
-POR @ SAC,POR win + Toumani Camara 10+ pa,2,0.6119,0.6143,1.63,1.71,1.53,-0.0596,1.018,1.50-1.65
-POR @ SAC,Domantas Sabonis 13+ pts + Darius Acuff Jr. 4+ ast,2,0.5708,0.4479,2.23,2.34,2.06,-0.0787,1.006,1.85-2.10
+POR @ SAC,POR win + Jrue Holiday 17+ pa,2,0.4891,0.4435,2.25,2.37,2.2,-0.0228,1.035,2.10-2.50
+POR @ SAC,POR win + Scoot Henderson 15+ pra,2,0.477,0.446,2.24,2.35,2.17,-0.0309,1.033,2.10-2.50
+POR @ SAC,POR win + Jrue Holiday 4+ ast,2,0.552,0.5078,1.97,2.07,1.87,-0.0493,1.013,1.85-2.10
+POR @ SAC,POR win + Toumani Camara 10+ pa,2,0.6119,0.6132,1.63,1.71,1.53,-0.0592,1.018,1.50-1.65
+POR @ SAC,SAC +10.5 + De'Andre Hunter 10+ pra,2,0.5376,0.4551,2.2,2.31,2.05,-0.0668,1.008,1.85-2.10
 POR @ SAC,POR win + Sidy Cissoko 3pm under 1.5,2,0.489,0.4472,2.24,2.35,2.06,-0.0809,0.978,1.85-2.10
-POR @ SAC,Scoot Henderson 15+ pra + Jrue Holiday 10+ pr,2,0.5783,0.4537,2.2,2.31,2.02,-0.0813,1.005,1.85-2.10
+POR @ SAC,Sidy Cissoko 3pm under 1.5 + De'Andre Hunter 10+ pra,2,0.6603,0.5172,1.93,2.03,1.76,-0.0889,1.002,1.65-1.85
 POR @ SAC,Sidy Cissoko 3pm under 1.5 + Jrue Holiday 10+ pa,2,0.6417,0.4961,2.02,2.12,1.84,-0.0895,0.999,1.65-1.85
-POR @ SAC,POR win + Jrue Holiday 15+ pra + Toumani Camara 10+ pa,3,0.5469,0.5004,2.0,2.1,1.81,-0.0938,1.034,1.65-1.85
-POR @ SAC,POR win + Jrue Holiday 15+ pra + Scoot Henderson 10+ pra,3,0.5832,0.5322,1.88,1.97,1.69,-0.0997,1.027,1.65-1.85
-POR @ SAC,Toumani Camara 10+ pa + De'Andre Hunter 10+ pa,2,0.6964,0.5985,1.67,1.75,1.5,-0.102,1.004,1.50-1.65
-POR @ SAC,POR win + Jrue Holiday 15+ pra + Sidy Cissoko 5+ pa,3,0.6069,0.5633,1.78,1.86,1.59,-0.106,1.023,1.50-1.65
+POR @ SAC,POR win + Jrue Holiday 15+ pra + Toumani Camara 10+ pa,3,0.5469,0.5014,1.99,2.09,1.81,-0.0941,1.034,1.65-1.85
+POR @ SAC,POR win + Jrue Holiday 15+ pra + Sidy Cissoko 5+ pa,3,0.6069,0.5655,1.77,1.86,1.58,-0.1065,1.023,1.50-1.65
+POR @ SAC,POR win + Jrue Holiday 15+ pra + Toumani Camara 10+ pr,3,0.5929,0.555,1.8,1.89,1.61,-0.1079,1.022,1.50-1.65
 OKC @ LAC,OKC win + Max Strus 3pm under 2.5,2,0.4952,0.4257,2.35,2.47,2.33,-0.0079,1.024,2.10-2.50
 OKC @ LAC,OKC win + Brook Lopez reb under 5.5,2,0.4266,0.3909,2.56,2.69,2.45,-0.0425,1.002,2.10-2.50
 OKC @ LAC,OKC win + Jared McCain 10+ pts,2,0.498,0.5431,1.84,1.93,1.76,-0.0428,1.033,1.65-1.85
