@@ -241,7 +241,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909302,GSW,1642954,Will Richard,,,1.0,,,
 401909302,GSW,1630611,Gui Santos,,,1.0,,,
 401909302,GSW,1630314,Brandon Williams,Out,Injury/Illness-LeftHamstringStrain,0.0,"Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com.",,
-401909303,SAC,1630173,Precious Achiuwa,Questionable,Injury/Illness-LeftAnkleSoreness,0.55,Achiuwa (ankle) is questionable to play Friday's game against the Trail Blazers.,,
+401909303,SAC,1630173,Precious Achiuwa,Out,Injury/Illness-LeftAnkleSoreness,0.0,Achiuwa (ankle) is questionable to play Friday's game against the Trail Blazers.,,
 401909303,SAC,905142620,Darius Acuff Jr.,,,1.0,,,
 401909303,SAC,1641778,Leaky Black,,,1.0,,,
 401909303,SAC,1642928,Dylan Cardwell,,,1.0,,,
