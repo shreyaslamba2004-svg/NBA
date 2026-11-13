@@ -1,98 +1,106 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,9.5,draftkings,1900.0,20.0,0.1651,6.06,0.0467,0.0467,0.1184,,2.3021,0.0624,0.2471,0.0033,False,True,False,Trey Murphy III,0.1784,0.1318
-401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,8.5,draftkings,1140.0,12.4,0.2509,3.99,0.0754,0.0754,0.1755,,2.111,0.0985,0.2219,0.0049,True,False,False,Trey Murphy III,0.268,0.2042
+401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,9.5,draftkings,1820.0,19.2,0.1651,6.06,0.0487,0.0487,0.1164,,2.1701,0.064,0.2297,0.0032,False,True,False,Trey Murphy III,0.1784,0.1318
+401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,8.5,draftkings,1100.0,12.0,0.2509,3.99,0.0779,0.0779,0.173,,2.0107,0.1007,0.2086,0.0047,True,False,False,Trey Murphy III,0.268,0.2042
 401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,10.5,draftkings,2700.0,28.0,0.106,9.44,0.0334,0.0334,0.0726,,1.9672,0.043,0.2029,0.0019,False,False,False,,,
-401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,7.5,draftkings,660.0,7.6,0.3578,2.8,0.123,0.123,0.2348,,1.7191,0.154,0.1701,0.0064,True,True,False,Trey Murphy III,0.3795,0.3023
+401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,7.5,draftkings,650.0,7.5,0.3578,2.8,0.1246,0.1246,0.2332,,1.6833,0.1554,0.1654,0.0064,True,True,False,Trey Murphy III,0.3795,0.3023
 401909303,POR @ SAC,moneyline,SAC,,,,sportsbet,460.0,5.6,0.2902,3.45,0.1716,0.2001,0.0902,4.06,0.6254,0.2001,0.1205,0.0065,False,True,True,,,
-401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,6.5,draftkings,375.0,4.75,0.4845,2.06,0.1968,0.1968,0.2878,,1.3016,0.2347,0.115,0.0077,True,False,False,Trey Murphy III,0.508,0.4273
+401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,6.5,draftkings,363.0,4.63,0.4845,2.06,0.2019,0.2019,0.2827,,1.2434,0.2392,0.1073,0.0074,True,False,False,Trey Murphy III,0.508,0.4273
 401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1400.0,15.0,0.1455,6.87,0.0623,0.0623,0.0832,,1.1821,0.0733,0.0992,0.0018,False,False,False,,,
 401909303,POR @ SAC,prop_ast,over,Scoot Henderson,1630703.0,5.5,draftkings,1560.0,16.6,0.1264,7.91,0.0563,0.0563,0.0701,,1.0976,0.0655,0.0881,0.0014,False,True,False,,,
-401909296,NYK @ IND,moneyline,IND,,,,sportsbet,285.0,3.85,0.235,4.25,0.2495,0.2813,-0.0462,4.09,-0.0951,0.2813,0.0829,0.0073,False,True,True,,,
+401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,1260.0,13.6,0.1536,6.51,0.0687,0.0687,0.0849,,1.0894,0.0799,0.087,0.0017,False,True,False,,,
 401909300,MEM @ NOP,prop_ast,over,Saddiq Bey,1630180.0,4.5,draftkings,1320.0,14.2,0.1424,7.02,0.0658,0.0658,0.0766,,1.0226,0.0759,0.0782,0.0015,False,False,False,Trey Murphy III,0.1584,0.1134
 401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2200.0,23.0,0.0876,11.41,0.0406,0.0406,0.047,,1.0155,0.0468,0.0773,0.0009,False,True,False,,,
 401909303,POR @ SAC,prop_ast,over,Scoot Henderson,1630703.0,4.5,draftkings,780.0,8.8,0.2288,4.37,0.1062,0.1062,0.1226,,1.0136,0.1224,0.077,0.0025,False,False,False,,,
-401909300,MEM @ NOP,prop_fg3m,over,Dejounte Murray,1627749.0,2.5,draftkings,630.0,7.3,0.2746,3.64,0.128,0.128,0.1466,,1.0045,0.1474,0.0758,0.003,False,True,False,Trey Murphy III,0.2889,0.2266
-401909300,MEM @ NOP,prop_fg3m,over,Dejounte Murray,1627749.0,3.5,draftkings,1700.0,18.0,0.1112,9.0,0.0519,0.0519,0.0592,,1.0008,0.0597,0.0753,0.0011,False,True,False,,,
-401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,1200.0,13.0,0.1536,6.51,0.0719,0.0719,0.0817,,0.9972,0.0827,0.0748,0.0016,False,True,False,,,
+401909296,NYK @ IND,moneyline,IND,,,,sportsbet,285.0,3.85,0.235,4.25,0.2495,0.2792,-0.0442,4.09,-0.0951,0.2792,0.0749,0.0066,False,True,True,,,
+401909300,MEM @ NOP,prop_fg3m,over,Dejounte Murray,1627749.0,3.5,draftkings,1680.0,17.8,0.1112,9.0,0.0525,0.0525,0.0587,,0.9786,0.0602,0.0724,0.0011,False,True,False,,,
+401909300,MEM @ NOP,prop_fg3m,over,Dejounte Murray,1627749.0,2.5,draftkings,620.0,7.2,0.2746,3.64,0.1298,0.1298,0.1448,,0.977,0.1489,0.0722,0.0029,False,True,False,Trey Murphy III,0.2889,0.2266
+401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,8.5,draftkings,2100.0,22.0,0.0895,11.18,0.0425,0.0425,0.047,,0.968,0.0487,0.071,0.0008,False,False,False,,,
 401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,740.0,8.4,0.229,4.37,0.1113,0.1113,0.1177,,0.9235,0.1268,0.0651,0.0022,False,True,False,,,
-401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,5.5,draftkings,203.0,3.03,0.6229,1.61,0.3084,0.3084,0.3145,,0.8874,0.35,0.0604,0.0074,True,True,False,Trey Murphy III,0.6415,0.5705
-401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,8.5,draftkings,2000.0,21.0,0.0895,11.18,0.0445,0.0445,0.0449,,0.8785,0.0504,0.0592,0.0007,False,False,False,,,
-401909298,CLE @ MIA,prop_pts,over,Donovan Mitchell,1628378.0,44.5,draftkings,2400.0,25.0,0.0748,13.38,0.0374,0.0374,0.0374,,0.869,0.0423,0.0579,0.0006,False,True,False,,,
-401909298,CLE @ MIA,prop_pra,over,Donovan Mitchell,1628378.0,54.5,draftkings,1700.0,18.0,0.1029,9.72,0.0519,0.0519,0.051,,0.8525,0.0587,0.0557,0.0008,False,True,False,,,
-401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,6.5,draftkings,630.0,7.3,0.252,3.97,0.128,0.128,0.124,,0.8398,0.1444,0.0541,0.0021,False,False,False,,,
-401909298,CLE @ MIA,prop_pts,over,Donovan Mitchell,1628378.0,39.5,draftkings,1220.0,13.2,0.1392,7.18,0.0708,0.0708,0.0684,,0.8375,0.0798,0.0538,0.0011,False,True,False,,,
-401909300,MEM @ NOP,prop_ast,over,Saddiq Bey,1630180.0,3.5,draftkings,557.0,6.57,0.2778,3.6,0.1422,0.1422,0.1356,,0.8253,0.1601,0.0522,0.0023,False,True,False,Trey Murphy III,0.3029,0.2352
-401909298,CLE @ MIA,prop_pa,over,Donovan Mitchell,1628378.0,49.5,draftkings,1900.0,20.0,0.0905,11.05,0.0467,0.0467,0.0438,,0.8103,0.0525,0.0502,0.0007,False,True,False,,,
-401909298,CLE @ MIA,prop_pr,over,Donovan Mitchell,1628378.0,49.5,draftkings,1960.0,20.6,0.0866,11.55,0.0454,0.0454,0.0412,,0.783,0.0508,0.0466,0.0006,False,True,False,,,
-401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,7.5,draftkings,1520.0,16.2,0.1095,9.13,0.0577,0.0577,0.0518,,0.7735,0.0645,0.0453,0.0007,False,True,False,,,
-401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,1600.0,17.0,0.1043,9.59,0.055,0.055,0.0493,,0.7731,0.0615,0.0453,0.0007,False,False,False,,,
-401909298,CLE @ MIA,prop_pr,over,Donovan Mitchell,1628378.0,44.5,draftkings,1040.0,11.4,0.1553,6.44,0.082,0.082,0.0733,,0.77,0.0917,0.0449,0.0011,False,True,False,,,
-401909301,UTA @ HOU,prop_pra,over,Kevin Durant,201142.0,54.5,draftkings,2400.0,25.0,0.0707,14.14,0.0374,0.0374,0.0334,,0.7685,0.0418,0.0447,0.0005,False,True,False,,,
+401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,6.5,draftkings,650.0,7.5,0.252,3.97,0.1246,0.1246,0.1274,,0.8903,0.1414,0.0607,0.0023,False,False,False,,,
+401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,5.5,draftkings,200.0,3.0,0.6229,1.61,0.3115,0.3115,0.3114,,0.8687,0.3526,0.0579,0.0072,True,True,False,Trey Murphy III,0.6415,0.5705
+401909301,UTA @ HOU,moneyline,UTA,,,,sportsbet,950.0,10.5,0.0966,10.36,0.0917,0.1007,-0.0042,3.86,0.0138,0.1007,0.0578,0.0015,False,True,True,,,
+401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,1680.0,17.8,0.1043,9.59,0.0525,0.0525,0.0518,,0.8565,0.0593,0.0563,0.0008,False,False,False,,,
+401909301,UTA @ HOU,prop_pra,over,Kevin Durant,201142.0,54.5,draftkings,2500.0,26.0,0.0707,14.14,0.0359,0.0359,0.0348,,0.8392,0.0405,0.054,0.0005,False,True,False,,,
+401909300,MEM @ NOP,prop_ast,over,Saddiq Bey,1630180.0,3.5,draftkings,548.0,6.48,0.2778,3.6,0.1442,0.1442,0.1336,,0.8003,0.1619,0.0489,0.0022,False,True,False,Trey Murphy III,0.3029,0.2352
+401909298,CLE @ MIA,prop_pts,over,Donovan Mitchell,1628378.0,44.5,draftkings,2300.0,24.0,0.0748,13.38,0.0389,0.0389,0.0358,,0.7943,0.0437,0.0481,0.0005,False,True,False,,,
+401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,980.0,10.8,0.1661,6.02,0.0865,0.0865,0.0795,,0.7934,0.097,0.0479,0.0012,False,True,False,,,
+401909298,CLE @ MIA,prop_pra,over,Donovan Mitchell,1628378.0,54.5,draftkings,1620.0,17.2,0.1029,9.72,0.0543,0.0543,0.0486,,0.7702,0.0607,0.0449,0.0007,False,True,False,,,
 401909304,OKC @ LAC,prop_ast,over,Kenrich Williams,1629026.0,3.5,draftkings,1160.0,12.6,0.14,7.14,0.0742,0.0742,0.0659,,0.7644,0.0829,0.0441,0.001,False,True,False,Ajay Mitchell,0.1698,0.1132
-401909303,POR @ SAC,prop_ast,over,Scoot Henderson,1630703.0,6.5,draftkings,2700.0,28.0,0.0629,15.9,0.0334,0.0334,0.0295,,0.7612,0.0373,0.0437,0.0004,False,False,False,,,
 401909300,MEM @ NOP,prop_ast,over,Saddiq Bey,1630180.0,5.5,draftkings,2600.0,27.0,0.0652,15.33,0.0346,0.0346,0.0306,,0.761,0.0387,0.0437,0.0004,False,True,False,,,
-401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,960.0,10.6,0.1661,6.02,0.0882,0.0882,0.0779,,0.7602,0.0984,0.0436,0.0011,False,True,False,,,
+401909303,POR @ SAC,prop_ast,over,Scoot Henderson,1630703.0,6.5,draftkings,2700.0,28.0,0.0629,15.9,0.0334,0.0334,0.0295,,0.7612,0.0373,0.0437,0.0004,False,False,False,,,
 401909302,GSW @ SAS,moneyline,GSW,,,,sportsbet,510.0,6.1,0.3397,2.94,0.1575,0.171,0.1687,4.11,1.0722,0.171,0.0433,0.0021,True,True,True,De'Aaron Fox,0.3733,0.33
-401909301,UTA @ HOU,moneyline,UTA,,,,sportsbet,950.0,10.5,0.0966,10.36,0.0917,0.099,-0.0025,3.86,0.0138,0.099,0.0399,0.0011,False,True,True,,,
-401909298,CLE @ MIA,prop_pa,over,Donovan Mitchell,1628378.0,44.5,draftkings,960.0,10.6,0.1619,6.18,0.0882,0.0882,0.0738,,0.7164,0.0979,0.0378,0.001,False,True,False,,,
+401909298,CLE @ MIA,prop_pts,over,Donovan Mitchell,1628378.0,39.5,draftkings,1160.0,12.6,0.1392,7.18,0.0742,0.0742,0.065,,0.754,0.0828,0.0427,0.0009,False,True,False,,,
+401909296,NYK @ IND,prop_pts,over,Jalen Brunson,1628973.0,44.5,draftkings,2600.0,27.0,0.0649,15.4,0.0346,0.0346,0.0303,,0.753,0.0386,0.0426,0.0004,False,True,False,,,
+401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,7.5,draftkings,1500.0,16.0,0.1095,9.13,0.0584,0.0584,0.0511,,0.7516,0.0652,0.0424,0.0007,False,True,False,,,
+401909298,CLE @ MIA,prop_pr,over,Donovan Mitchell,1628378.0,49.5,draftkings,1900.0,20.0,0.0866,11.55,0.0467,0.0467,0.0398,,0.731,0.052,0.0397,0.0005,False,True,False,,,
 401909303,POR @ SAC,prop_ast,over,Scoot Henderson,1630703.0,3.5,draftkings,345.0,4.45,0.3856,2.59,0.21,0.21,0.1756,,0.7161,0.2332,0.0377,0.0027,True,True,False,,,
-401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,6.5,draftkings,800.0,9.0,0.1904,5.25,0.1038,0.1038,0.0865,,0.7132,0.1153,0.0374,0.0012,False,False,False,,,
-401909298,CLE @ MIA,prop_pra,over,Donovan Mitchell,1628378.0,49.5,draftkings,860.0,9.6,0.1768,5.66,0.0974,0.0974,0.0794,,0.6969,0.1078,0.0352,0.001,False,True,False,,,
+401909298,CLE @ MIA,prop_pa,over,Donovan Mitchell,1628378.0,49.5,draftkings,1780.0,18.8,0.0905,11.05,0.0497,0.0497,0.0408,,0.7017,0.0551,0.0358,0.0005,False,True,False,,,
 401909303,POR @ SAC,prop_pts,over,Domantas Sabonis,1627734.0,24.5,draftkings,1900.0,20.0,0.0844,11.85,0.0467,0.0467,0.0377,,0.6882,0.0517,0.0341,0.0004,False,True,False,,,
+401909298,CLE @ MIA,prop_pr,over,Donovan Mitchell,1628378.0,44.5,draftkings,980.0,10.8,0.1553,6.44,0.0865,0.0865,0.0687,,0.6769,0.0956,0.0326,0.0008,False,True,False,,,
 401909297,MIL @ ORL,moneyline,MIL,,,,sportsbet,325.0,4.25,0.3083,3.24,0.2258,0.2426,0.0657,4.19,0.3103,0.2426,0.031,0.0024,False,True,True,Jalen Suggs,0.3844,0.3348
+401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,6.5,draftkings,770.0,8.7,0.1904,5.25,0.1074,0.1074,0.0829,,0.6561,0.1184,0.0298,0.001,False,False,False,,,
 401909303,POR @ SAC,prop_ast,over,Damian Lillard,203081.0,6.5,draftkings,383.0,4.83,0.3403,2.94,0.1935,0.1935,0.1468,,0.6436,0.2129,0.0282,0.0018,False,False,False,,,
 401909302,GSW @ SAS,moneyline,GSW,,,,draftkings,501.0,6.01,0.3397,2.94,0.1598,0.171,0.1687,4.14,1.0416,0.171,0.0279,0.0014,True,True,True,De'Aaron Fox,0.3733,0.33
-401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,5.5,draftkings,326.0,4.26,0.3838,2.61,0.2194,0.2194,0.1644,,0.635,0.2411,0.027,0.0021,True,True,False,,,
-401909300,MEM @ NOP,prop_ast,over,Zion Williamson,1629627.0,5.5,draftkings,850.0,9.5,0.1705,5.87,0.0984,0.0984,0.0721,,0.6197,0.1079,0.025,0.0007,False,True,False,,,
-401909300,MEM @ NOP,prop_fg3m,over,Dejounte Murray,1627749.0,1.5,draftkings,198.0,2.98,0.5404,1.85,0.3136,0.3136,0.2268,,0.6103,0.3435,0.0238,0.003,True,True,False,Trey Murphy III,0.5603,0.4911
-401909301,UTA @ HOU,prop_pts,over,Jabari Smith Jr.,1631095.0,24.5,draftkings,940.0,10.4,0.1542,6.49,0.0899,0.0899,0.0643,,0.6032,0.0983,0.0228,0.0006,False,True,False,,,
-401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,4.5,draftkings,107.0,2.07,0.7561,1.32,0.4515,0.4537,0.3024,,0.5652,0.4936,0.0218,0.0051,True,True,True,Trey Murphy III,0.7748,0.7097
+401909296,NYK @ IND,prop_pts,over,Jalen Brunson,1628973.0,39.5,draftkings,1260.0,13.6,0.1203,8.32,0.0687,0.0687,0.0515,,0.6356,0.0755,0.0271,0.0005,False,True,False,,,
+401909301,UTA @ HOU,prop_ast,over,Kevin Durant,201142.0,5.5,draftkings,324.0,4.24,0.3838,2.61,0.2204,0.2204,0.1634,,0.6273,0.242,0.026,0.002,True,True,False,,,
+401909298,CLE @ MIA,prop_pra,over,Donovan Mitchell,1628378.0,49.5,draftkings,820.0,9.2,0.1768,5.66,0.1016,0.1016,0.0752,,0.6262,0.1115,0.0259,0.0008,False,True,False,,,
+401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,8.5,draftkings,542.0,6.42,0.252,3.97,0.1456,0.1456,0.1064,,0.6176,0.1596,0.0247,0.0011,False,False,False,,,
+401909300,MEM @ NOP,prop_ast,over,Zion Williamson,1629627.0,5.5,draftkings,840.0,9.4,0.1705,5.87,0.0994,0.0994,0.0711,,0.6027,0.1088,0.0228,0.0007,False,True,False,,,
+401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,11.5,draftkings,2500.0,26.0,0.0611,16.37,0.0359,0.0359,0.0252,,0.5885,0.0393,0.0209,0.0002,False,True,False,,,
+401909298,CLE @ MIA,prop_pa,over,Donovan Mitchell,1628378.0,44.5,draftkings,880.0,9.8,0.1619,6.18,0.0954,0.0954,0.0666,,0.5868,0.1042,0.0207,0.0006,False,True,False,,,
+401909298,CLE @ MIA,prop_pra,over,Donovan Mitchell,1628378.0,59.5,draftkings,2600.0,27.0,0.0586,17.07,0.0346,0.0346,0.024,,0.5822,0.0378,0.0201,0.0002,False,True,False,,,
 401909300,MEM @ NOP,prop_pra,over,Derik Queen,1642852.0,29.5,draftkings,660.0,7.6,0.2081,4.81,0.123,0.123,0.0851,,0.5813,0.1342,0.0199,0.0008,False,True,False,Trey Murphy III,0.2444,0.1309
 401909304,OKC @ LAC,moneyline,LAC,,,,betfair_ex_au,232.75,3.33,0.3953,2.53,0.2918,0.3064,0.0889,2.99,0.3154,0.3064,0.0194,0.0021,False,True,True,,,
-401909297,MIL @ ORL,prop_pr,under,Nate Ament,905164559.0,12.5,draftkings,-103.0,1.97,0.7978,1.25,0.4742,0.4742,0.3236,,0.5723,0.5169,0.0188,0.0048,True,False,True,,,
-401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,8.5,draftkings,523.0,6.23,0.252,3.97,0.15,0.15,0.1019,,0.5697,0.1635,0.0184,0.0009,False,False,False,,,
+401909300,MEM @ NOP,prop_fg3m,over,Dejounte Murray,1627749.0,1.5,draftkings,191.0,2.91,0.5404,1.85,0.3212,0.3212,0.2192,,0.5725,0.3501,0.0188,0.0025,True,True,False,Trey Murphy III,0.5603,0.4911
 401909300,MEM @ NOP,prop_pra,over,Derik Queen,1642852.0,34.5,draftkings,1500.0,16.0,0.098,10.21,0.0584,0.0584,0.0396,,0.5677,0.0636,0.0182,0.0003,False,True,False,Trey Murphy III,0.1196,0.0531
-401909300,MEM @ NOP,prop_ast,over,Zion Williamson,1629627.0,6.5,draftkings,1700.0,18.0,0.0866,11.54,0.0519,0.0519,0.0347,,0.5593,0.0565,0.017,0.0003,False,False,False,,,
 401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,5.5,draftkings,396.0,4.96,0.3134,3.19,0.1884,0.1884,0.125,,0.5545,0.2049,0.0164,0.001,False,True,False,,,
 401909303,POR @ SAC,prop_pa,over,Jrue Holiday,201950.0,29.5,draftkings,1300.0,14.0,0.1109,9.02,0.0668,0.0668,0.0441,,0.5521,0.0726,0.0161,0.0003,False,True,False,,,
-401909300,MEM @ NOP,prop_pa,over,Dejounte Murray,1627749.0,18.5,draftkings,-106.0,1.94,0.7627,1.31,0.4809,0.4852,0.2775,,0.4823,0.5219,0.0142,0.0038,True,True,True,Trey Murphy III,0.8046,0.6846
-401909297,MIL @ ORL,prop_ast,over,Jalen Suggs,1630591.0,8.5,draftkings,1740.0,18.4,0.0831,12.04,0.0508,0.0508,0.0323,,0.5289,0.0551,0.013,0.0002,False,False,False,Jalen Suggs,0.0,0.1007
+401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,4.5,draftkings,105.0,2.05,0.7561,1.32,0.4559,0.4559,0.3002,,0.5501,0.4955,0.0158,0.0038,True,True,True,Trey Murphy III,0.7748,0.7097
+401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,4.5,draftkings,105.0,2.05,0.7561,1.32,0.4559,0.4559,0.3002,,0.5501,0.4955,0.0158,0.0038,True,True,True,Trey Murphy III,0.7748,0.7097
+401909301,UTA @ HOU,prop_reb,over,Tari Eason,1631106.0,9.5,draftkings,970.0,10.7,0.1441,6.94,0.0873,0.0873,0.0568,,0.5422,0.0948,0.0148,0.0004,False,True,False,,,
+401909301,UTA @ HOU,prop_pts,over,Jabari Smith Jr.,1631095.0,24.5,draftkings,900.0,10.0,0.1542,6.49,0.0935,0.0935,0.0607,,0.5415,0.1015,0.0147,0.0004,False,True,False,,,
+401909297,MIL @ ORL,prop_ast,over,Jalen Suggs,1630591.0,7.5,draftkings,990.0,10.9,0.1411,7.09,0.0857,0.0857,0.0553,,0.5379,0.093,0.0142,0.0004,False,True,False,Jalen Suggs,0.0,0.1705
+401909300,MEM @ NOP,prop_pra,over,Dejounte Murray,1627749.0,23.5,draftkings,-110.0,1.91,0.7763,1.29,0.4895,0.4937,0.2826,,0.482,0.531,0.0137,0.0038,True,True,True,Trey Murphy III,0.8173,0.7041
+401909300,MEM @ NOP,prop_pa,over,Dejounte Murray,1627749.0,18.5,draftkings,-107.0,1.93,0.7627,1.31,0.4831,0.4874,0.2754,,0.4756,0.5237,0.0132,0.0035,True,True,True,Trey Murphy III,0.8046,0.6846
+401909300,MEM @ NOP,prop_pts,over,Saddiq Bey,1630180.0,24.5,draftkings,940.0,10.4,0.147,6.8,0.0899,0.0899,0.0572,,0.5291,0.0974,0.0131,0.0003,False,True,False,Trey Murphy III,0.1735,0.1271
 401909301,UTA @ HOU,prop_ast,over,Amen Thompson,1641708.0,8.5,draftkings,2500.0,26.0,0.0588,17.01,0.0359,0.0359,0.0228,,0.5286,0.039,0.013,0.0001,False,False,False,,,
-401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,11.5,draftkings,2400.0,25.0,0.0611,16.37,0.0374,0.0374,0.0237,,0.5274,0.0405,0.0128,0.0001,False,True,False,,,
-401909297,MIL @ ORL,prop_ast,over,Jalen Suggs,1630591.0,7.5,draftkings,980.0,10.8,0.1411,7.09,0.0865,0.0865,0.0546,,0.5238,0.0937,0.0124,0.0003,False,True,False,Jalen Suggs,0.0,0.1705
-401909300,MEM @ NOP,prop_ast,over,Dejounte Murray,1627749.0,4.5,draftkings,105.0,2.05,0.7561,1.32,0.4559,0.4537,0.3024,,0.5501,0.4936,0.0119,0.0028,True,True,True,Trey Murphy III,0.7748,0.7097
+401909296,NYK @ IND,prop_pra,over,Jalen Brunson,1628973.0,54.5,draftkings,2000.0,21.0,0.0728,13.74,0.0445,0.0445,0.0283,,0.5285,0.0482,0.013,0.0002,False,True,False,,,
+401909300,MEM @ NOP,prop_ast,over,Zion Williamson,1629627.0,6.5,draftkings,1660.0,17.6,0.0866,11.54,0.0531,0.0531,0.0335,,0.5247,0.0575,0.0125,0.0002,False,False,False,,,
 401909304,OKC @ LAC,prop_ast,over,Kenrich Williams,1629026.0,2.5,draftkings,413.0,5.13,0.296,3.38,0.1822,0.1822,0.1138,,0.5186,0.1972,0.0117,0.0007,False,False,False,Ajay Mitchell,0.3449,0.2571
 401909303,POR @ SAC,prop_pts,over,Domantas Sabonis,1627734.0,19.5,draftkings,581.0,6.81,0.2227,4.49,0.1372,0.1372,0.0855,,0.5168,0.1485,0.0114,0.0005,False,True,False,,,
-401909298,CLE @ MIA,prop_pts,over,Donovan Mitchell,1628378.0,34.5,draftkings,524.0,6.24,0.2423,4.13,0.1498,0.1498,0.0926,,0.5121,0.162,0.0108,0.0005,False,True,False,,,
+401909297,MIL @ ORL,prop_ast,over,Jalen Suggs,1630591.0,8.5,draftkings,1720.0,18.2,0.0831,12.04,0.0514,0.0514,0.0317,,0.5123,0.0555,0.0108,0.0002,False,False,False,Jalen Suggs,0.0,0.1007
 401909303,POR @ SAC,prop_pa,over,Scoot Henderson,1630703.0,24.5,draftkings,1540.0,16.4,0.092,10.87,0.057,0.057,0.0351,,0.5094,0.0616,0.0105,0.0002,False,True,False,,,
-401909300,MEM @ NOP,prop_ast,over,Saddiq Bey,1630180.0,2.5,draftkings,215.0,3.15,0.4794,2.09,0.2967,0.2967,0.1827,,0.51,0.3208,0.0105,0.0012,True,False,False,Trey Murphy III,0.5066,0.4323
-401909301,UTA @ HOU,prop_pts,over,Jabari Smith Jr.,1631095.0,29.5,draftkings,2400.0,25.0,0.0603,16.59,0.0374,0.0374,0.0229,,0.5073,0.0404,0.0102,0.0001,False,True,False,,,
+401909300,MEM @ NOP,prop_ra,over,Dejounte Murray,1627749.0,9.5,draftkings,-103.0,1.97,0.7607,1.31,0.4747,0.4747,0.2859,6.88,0.4992,0.5125,0.01,0.0026,True,True,True,Trey Murphy III,0.7822,0.721
 401909304,OKC @ LAC,prop_ast,over,Kenrich Williams,1629026.0,4.5,draftkings,2500.0,26.0,0.0579,17.27,0.0359,0.0359,0.0219,,0.5051,0.0388,0.0099,0.0001,False,False,False,,,
-401909297,MIL @ ORL,prop_pa,under,Brayden Burries,905082206.0,14.5,draftkings,-103.0,1.97,0.7636,1.31,0.4742,0.4742,0.2895,,0.5051,0.5124,0.0099,0.0025,True,True,True,,,
+401909301,UTA @ HOU,moneyline,UTA,,,,betfair_ex_au,902.5,10.02,0.0966,10.36,0.0977,0.1007,-0.0042,2.1,-0.0321,0.1007,0.0099,0.0003,False,True,True,,,
 401909303,POR @ SAC,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,1100.0,12.0,0.1254,7.97,0.0779,0.0779,0.0475,,0.5047,0.0842,0.0098,0.0002,False,False,False,,,
 401909303,POR @ SAC,prop_pra,over,Scoot Henderson,1630703.0,24.5,draftkings,840.0,9.4,0.1592,6.28,0.0994,0.0994,0.0598,,0.4966,0.1073,0.0088,0.0003,False,True,False,,,
+401909300,MEM @ NOP,prop_ast,over,Saddiq Bey,1630180.0,2.5,draftkings,212.0,3.12,0.4794,2.09,0.2995,0.2995,0.1798,,0.4956,0.3233,0.0086,0.001,True,False,False,Trey Murphy III,0.5066,0.4323
 401909298,CLE @ MIA,prop_reb,over,James Harden,201935.0,7.5,draftkings,850.0,9.5,0.1571,6.37,0.0984,0.0984,0.0587,,0.4925,0.1061,0.0082,0.0002,False,True,False,,,
 401909303,POR @ SAC,prop_pra,over,Jrue Holiday,201950.0,34.5,draftkings,1320.0,14.2,0.105,9.52,0.0658,0.0658,0.0392,,0.4913,0.071,0.0081,0.0002,False,True,False,,,
 401909303,POR @ SAC,prop_pa,over,Scoot Henderson,1630703.0,19.5,draftkings,533.0,6.33,0.2357,4.24,0.1476,0.1476,0.088,,0.4919,0.1593,0.0081,0.0004,False,True,False,,,
 401909300,MEM @ NOP,prop_ast,over,Zion Williamson,1629627.0,4.5,draftkings,400.0,5.0,0.2979,3.36,0.1869,0.1869,0.111,,0.4895,0.2016,0.0078,0.0005,False,False,False,,,
-401909297,MIL @ ORL,prop_pra,under,Brayden Burries,905082206.0,20.5,draftkings,-111.0,1.9,0.7834,1.28,0.4917,0.4917,0.2917,,0.4891,0.5302,0.0078,0.0022,True,True,True,,,
-401909301,UTA @ HOU,prop_reb,over,Tari Eason,1631106.0,9.5,draftkings,930.0,10.3,0.1441,6.94,0.0907,0.0907,0.0534,,0.4845,0.0978,0.0072,0.0002,False,True,False,,,
-401909298,CLE @ MIA,prop_pr,over,Donovan Mitchell,1628378.0,39.5,draftkings,469.0,5.69,0.2607,3.84,0.1642,0.1642,0.0964,,0.4832,0.177,0.007,0.0004,False,True,False,,,
-401909300,MEM @ NOP,prop_ra,over,Dejounte Murray,1627749.0,9.5,draftkings,-107.0,1.93,0.7607,1.31,0.4838,0.4838,0.2769,6.85,0.4715,0.5203,0.0066,0.0018,True,True,True,Trey Murphy III,0.7822,0.721
+401909301,UTA @ HOU,moneyline,UTA,,,,unibet,900.0,10.0,0.0966,10.36,0.095,0.1007,-0.0042,5.24,-0.0345,0.1007,0.0074,0.0002,False,True,True,,,
+401909301,UTA @ HOU,prop_reb,over,Tari Eason,1631106.0,8.5,draftkings,581.0,6.81,0.2182,4.58,0.1372,0.1372,0.081,,0.4859,0.1479,0.0074,0.0003,False,False,False,,,
+401909301,UTA @ HOU,moneyline,UTA,,,,tabtouch,900.0,10.0,0.0966,10.36,0.095,0.1007,-0.0042,5.24,-0.0345,0.1007,0.0074,0.0002,False,True,True,,,
+401909301,UTA @ HOU,moneyline,UTA,,,,betr_au,900.0,10.0,0.0966,10.36,0.0958,0.1007,-0.0042,4.34,-0.0345,0.1007,0.0074,0.0002,False,True,True,,,
 401909299,ATL @ CHI,moneyline,CHI,,,,draftkings,236.0,3.36,0.2925,3.42,0.2858,0.2995,-0.007,4.12,-0.017,0.2995,0.0064,0.0007,False,True,True,,,
 401909297,MIL @ ORL,prop_pts,under,Nate Ament,905164559.0,9.5,draftkings,-123.0,1.81,0.813,1.23,0.5155,0.5155,0.2975,,0.4739,0.5548,0.0058,0.0018,True,False,True,,,
 401909303,POR @ SAC,prop_pa,over,Jrue Holiday,201950.0,24.5,draftkings,494.0,5.94,0.248,4.03,0.1573,0.1573,0.0907,,0.4734,0.1693,0.0057,0.0003,False,True,False,,,
-401909300,MEM @ NOP,prop_pra,over,Dejounte Murray,1627749.0,23.5,draftkings,-114.0,1.88,0.7763,1.29,0.4979,0.4989,0.2774,,0.4572,0.5355,0.0052,0.0015,True,True,True,Trey Murphy III,0.8173,0.7041
-401909303,POR @ SAC,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,630.0,7.3,0.1994,5.01,0.128,0.128,0.0714,,0.4558,0.1374,0.0034,0.0001,False,True,False,,,
 401909301,UTA @ HOU,prop_ast,over,Alperen Sengun,1630578.0,11.5,draftkings,1240.0,13.4,0.1087,9.2,0.0697,0.0697,0.0389,,0.4559,0.0749,0.0034,0.0001,False,True,False,,,
-401909300,MEM @ NOP,prop_pts,over,Saddiq Bey,1630180.0,24.5,draftkings,890.0,9.9,0.147,6.8,0.0944,0.0944,0.0526,,0.4556,0.1013,0.0034,0.0001,False,True,False,Trey Murphy III,0.1735,0.1271
-401909296,NYK @ IND,prop_pra,over,Jalen Brunson,1628973.0,54.5,draftkings,1900.0,20.0,0.0728,13.74,0.0467,0.0467,0.0261,,0.4557,0.0502,0.0034,0.0,False,True,False,,,
-401909296,NYK @ IND,moneyline,IND,,,,betfair_ex_au,256.5,3.56,0.235,4.25,0.272,0.2813,-0.0462,3.12,-0.162,0.2813,0.0028,0.0003,False,True,True,,,
-401909301,UTA @ HOU,prop_blk,over,Alperen Sengun,1630578.0,2.5,draftkings,850.0,9.5,0.1521,6.57,0.0984,0.0984,0.0537,,0.4451,0.1055,0.002,0.0001,False,True,False,,,
+401909303,POR @ SAC,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,630.0,7.3,0.1994,5.01,0.128,0.128,0.0714,,0.4558,0.1374,0.0034,0.0001,False,True,False,,,
+401909298,CLE @ MIA,prop_pr,over,Donovan Mitchell,1628378.0,39.5,draftkings,457.0,5.57,0.2607,3.84,0.1678,0.1678,0.0929,,0.4519,0.18,0.0029,0.0002,False,True,False,,,
+401909300,MEM @ NOP,prop_ast,over,Cam Spencer,1642285.0,9.5,draftkings,1420.0,15.2,0.0955,10.47,0.0615,0.0615,0.034,,0.4515,0.066,0.0028,0.0,False,True,False,,,
+401909298,CLE @ MIA,prop_reb,over,James Harden,201935.0,6.5,draftkings,465.0,5.65,0.2562,3.9,0.1654,0.1654,0.0908,,0.4476,0.1774,0.0023,0.0001,False,False,False,,,
+401909301,UTA @ HOU,prop_pts,over,Jabari Smith Jr.,1631095.0,29.5,draftkings,2300.0,24.0,0.0603,16.59,0.0389,0.0389,0.0213,,0.447,0.0418,0.0022,0.0,False,True,False,,,
+401909298,CLE @ MIA,prop_pts,over,Donovan Mitchell,1628378.0,34.5,draftkings,496.0,5.96,0.2423,4.13,0.1568,0.1568,0.0855,,0.4443,0.1681,0.0019,0.0001,False,True,False,,,
+401909300,MEM @ NOP,prop_pts,over,Saddiq Bey,1630180.0,29.5,draftkings,2400.0,25.0,0.0576,17.36,0.0374,0.0374,0.0202,,0.4404,0.0401,0.0014,0.0,False,True,False,,,
 401909303,POR @ SAC,prop_ast,over,Jrue Holiday,201950.0,9.5,draftkings,1860.0,19.6,0.0734,13.62,0.0477,0.0477,0.0257,,0.439,0.0511,0.0012,0.0,False,True,False,,,
+401909298,CLE @ MIA,prop_pr,under,Jaylon Tyson,1642281.0,16.5,draftkings,-103.0,1.97,0.7266,1.38,0.4747,0.4747,0.2519,6.88,0.432,0.508,0.0012,0.0003,True,True,True,,,
 401909301,UTA @ HOU,prop_reb,over,Tari Eason,1631106.0,10.5,draftkings,1480.0,15.8,0.091,10.99,0.0592,0.0592,0.0319,,0.4382,0.0634,0.0011,0.0,False,False,False,,,
-401909300,MEM @ NOP,prop_pra,over,Dejounte Murray,1627749.0,23.5,draftkings,-115.0,1.87,0.7763,1.29,0.4999,0.4989,0.2774,,0.4513,0.5355,0.0011,0.0003,True,True,True,Trey Murphy III,0.8173,0.7041
 401909303,POR @ SAC,prop_pra,over,Jrue Holiday,201950.0,29.5,draftkings,531.0,6.31,0.2279,4.39,0.1481,0.1481,0.0798,,0.4382,0.1586,0.0011,0.0,False,True,False,,,
-401909297,MIL @ ORL,prop_ast,over,Jalen Suggs,1630591.0,6.5,draftkings,518.0,6.18,0.2324,4.3,0.1512,0.1512,0.0811,,0.436,0.1619,0.0008,0.0,False,False,False,Jalen Suggs,0.0,0.267
-401909301,UTA @ HOU,prop_reb,over,Tari Eason,1631106.0,8.5,draftkings,557.0,6.57,0.2182,4.58,0.1422,0.1422,0.0759,,0.4335,0.1523,0.0004,0.0,False,False,False,,,
+401909297,MIL @ ORL,prop_ast,over,Jalen Suggs,1630591.0,6.5,draftkings,519.0,6.19,0.2324,4.3,0.151,0.151,0.0814,,0.4383,0.1617,0.0011,0.0001,False,False,False,Jalen Suggs,0.0,0.267
+401909304,OKC @ LAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,7.5,draftkings,294.0,3.94,0.3639,2.75,0.2372,0.2372,0.1267,,0.4337,0.2539,0.0005,0.0,False,True,False,Ajay Mitchell,0.386,0.3416
 401909298,CLE @ MIA,prop_pts,under,Jaylon Tyson,1642281.0,11.5,draftkings,-101.0,1.99,0.7196,1.39,0.4696,0.4696,0.25,,0.4322,0.5026,0.0003,0.0001,True,True,True,,,
+401909300,MEM @ NOP,prop_pts,over,Derik Queen,1642852.0,24.5,draftkings,2800.0,29.0,0.0494,20.25,0.0322,0.0322,0.0171,,0.4318,0.0345,0.0002,0.0,False,True,False,,,
+401909296,NYK @ IND,prop_pra,over,Jalen Brunson,1628973.0,49.5,draftkings,1020.0,11.2,0.1278,7.82,0.0834,0.0834,0.0444,,0.4316,0.0893,0.0002,0.0,False,True,False,,,
