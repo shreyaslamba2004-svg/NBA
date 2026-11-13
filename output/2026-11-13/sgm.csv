@@ -1,12 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 NYK @ IND,NYK win + Mikal Bridges 1+ stl,2,0.4544,0.3839,2.6,2.74,2.43,-0.0674,1.004,2.10-2.50
-NYK @ IND,game over 219.5 + Mikal Bridges 5+ pa,2,0.5706,0.4326,2.31,2.43,2.14,-0.0764,1.015,2.10-2.50
-NYK @ IND,game over 219.5 + Mikal Bridges 5+ pr,2,0.5813,0.4356,2.3,2.41,2.11,-0.0793,1.01,2.10-2.50
-NYK @ IND,Karl-Anthony Towns pts under 21.5 + Mikal Bridges 5+ pr,2,0.6151,0.4626,2.16,2.27,1.98,-0.0834,1.0,1.85-2.10
-NYK @ IND,Karl-Anthony Towns pa under 24.5 + Mikal Bridges 5+ pr,2,0.5773,0.4386,2.28,2.39,2.08,-0.0858,0.999,1.85-2.10
-NYK @ IND,Karl-Anthony Towns pr under 34.5 + Mikal Bridges 5+ pr,2,0.5887,0.454,2.2,2.31,2.01,-0.0861,1.002,1.85-2.10
-NYK @ IND,NYK win + Mikal Bridges 5+ pa + OG Anunoby 1+ 3pm,3,0.637,0.5494,1.82,1.91,1.6,-0.121,1.016,1.50-1.65
-NYK @ IND,NYK win + Mikal Bridges 5+ pr + OG Anunoby 1+ 3pm,3,0.6485,0.5529,1.81,1.9,1.58,-0.1243,1.011,1.50-1.65
+NYK @ IND,NYK win + Jalen Brunson 1+ stl,2,0.4846,0.4215,2.37,2.49,2.21,-0.0688,1.002,2.10-2.50
+NYK @ IND,game over 219.5 + Mikal Bridges 5+ pa,2,0.5706,0.4305,2.32,2.44,2.15,-0.0757,1.015,2.10-2.50
+NYK @ IND,Karl-Anthony Towns pts under 21.5 + Mikal Bridges 5+ pr,2,0.6151,0.4614,2.17,2.28,1.99,-0.0829,1.0,1.85-2.10
+NYK @ IND,Miles McBride 3pm under 1.5 + Mikal Bridges 5+ pra,2,0.5945,0.4461,2.24,2.35,2.05,-0.0846,0.997,1.85-2.10
+NYK @ IND,game over 219.5 + Mikal Bridges 5+ pra,2,0.5996,0.4546,2.2,2.31,2.01,-0.0854,1.005,1.85-2.10
+NYK @ IND,Jalen Brunson 1+ stl + Mikal Bridges 5+ pr,2,0.5916,0.511,1.96,2.05,1.76,-0.1002,1.002,1.65-1.85
+NYK @ IND,Jalen Brunson 1+ stl + Mikal Bridges 5+ pa,2,0.5785,0.5045,1.98,2.08,1.78,-0.1005,1.003,1.65-1.85
+NYK @ IND,Jalen Brunson 1+ stl + Mikal Bridges 5+ pra,2,0.6126,0.5367,1.86,1.96,1.67,-0.1032,1.001,1.65-1.85
+NYK @ IND,NYK win + Mikal Bridges 5+ pa + OG Anunoby 1+ 3pm,3,0.637,0.549,1.82,1.91,1.6,-0.1208,1.016,1.50-1.65
+NYK @ IND,NYK win + Mikal Bridges 5+ pr + OG Anunoby 1+ 3pm,3,0.6485,0.5537,1.81,1.9,1.58,-0.1244,1.011,1.50-1.65
+NYK @ IND,NYK win + Mikal Bridges 5+ pra + OG Anunoby 1+ 3pm,3,0.6716,0.5816,1.72,1.81,1.5,-0.1271,1.01,1.50-1.65
 MIL @ ORL,Brayden Burries pa under 14.5 + ORL win,2,0.545,0.4246,2.36,2.47,2.36,0.004,1.032,2.10-2.50
 MIL @ ORL,Brayden Burries pts under 11.5 + ORL win,2,0.532,0.4129,2.42,2.54,2.43,0.004,1.031,2.10-2.50
 MIL @ ORL,Brayden Burries pr under 17.5 + ORL win,2,0.5473,0.432,2.31,2.43,2.3,-0.0074,1.023,2.10-2.50
@@ -78,14 +82,14 @@ GSW @ SAS,De'Anthony Melton 3pm under 2.5 + Stephon Castle 4+ ast,2,0.6502,0.499
 GSW @ SAS,De'Anthony Melton 3pm under 2.5 + Brandin Podziemski 15+ pra,2,0.7547,0.5799,1.72,1.81,1.57,-0.087,1.0,1.50-1.65
 GSW @ SAS,De'Anthony Melton 3pm under 2.5 + Yaxel Lendeborg 4+ reb,2,0.7114,0.5552,1.8,1.89,1.64,-0.0901,0.999,1.50-1.65
 POR @ SAC,POR win + Jrue Holiday 21+ pra,2,0.4749,0.4324,2.31,2.43,2.27,-0.0178,1.037,2.10-2.50
+POR @ SAC,POR win + Scoot Henderson 13+ pa,2,0.4709,0.4331,2.31,2.42,2.25,-0.024,1.038,2.10-2.50
 POR @ SAC,POR win + Jrue Holiday 17+ pa,2,0.4891,0.4422,2.26,2.37,2.2,-0.0256,1.035,2.10-2.50
-POR @ SAC,POR win + Scoot Henderson 15+ pra,2,0.477,0.4395,2.28,2.39,2.2,-0.0316,1.033,2.10-2.50
 POR @ SAC,POR win + Toumani Camara 10+ pa,2,0.6119,0.6167,1.62,1.7,1.52,-0.0602,1.018,1.50-1.65
-POR @ SAC,SAC +10.5 + Domantas Sabonis 15+ pr,2,0.5335,0.4473,2.24,2.35,2.08,-0.0678,1.005,1.85-2.10
-POR @ SAC,Jrue Holiday 21+ pra + Sidy Cissoko 5+ pa,2,0.5825,0.4516,2.21,2.32,2.04,-0.0766,1.006,1.85-2.10
-POR @ SAC,Jrue Holiday 21+ pra + Domantas Sabonis 15+ pr,2,0.6024,0.4655,2.15,2.26,1.98,-0.0791,1.002,1.85-2.10
-POR @ SAC,Sidy Cissoko 3pm under 1.5 + Domantas Sabonis 15+ pr,2,0.6569,0.5097,1.96,2.06,1.79,-0.0876,1.001,1.65-1.85
+POR @ SAC,Keegan Murray 15+ pr + Darius Acuff Jr. 4+ ast,2,0.4947,0.4666,2.14,2.25,1.99,-0.07,1.006,1.85-2.10
+POR @ SAC,POR -10.5 + Toumani Camara 10+ pra,2,0.4257,0.4463,2.24,2.35,2.08,-0.0706,1.008,1.85-2.10
+POR @ SAC,Keegan Murray 15+ pr + Scoot Henderson 10+ pra,2,0.4762,0.4418,2.26,2.38,2.1,-0.0726,1.001,1.85-2.10
 POR @ SAC,Sidy Cissoko 3pm under 1.5 + Jrue Holiday 10+ pa,2,0.6417,0.4973,2.01,2.11,1.83,-0.0899,0.999,1.65-1.85
+POR @ SAC,Sidy Cissoko 3pm under 1.5 + Toumani Camara 10+ pra,2,0.6466,0.5053,1.98,2.08,1.8,-0.0919,0.998,1.65-1.85
 POR @ SAC,POR win + Jrue Holiday 15+ pra + Toumani Camara 10+ pa,3,0.5469,0.5049,1.98,2.08,1.79,-0.0951,1.034,1.65-1.85
 POR @ SAC,Toumani Camara 10+ pa + Domantas Sabonis 15+ pa,2,0.6675,0.5722,1.75,1.84,1.57,-0.1014,1.004,1.50-1.65
 POR @ SAC,Toumani Camara 10+ pa + De'Andre Hunter 10+ pa,2,0.6964,0.5974,1.67,1.76,1.5,-0.1018,1.004,1.50-1.65
