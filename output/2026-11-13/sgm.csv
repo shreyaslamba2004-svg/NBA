@@ -1,16 +1,12 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NYK @ IND,NYK win + Mikal Bridges 1+ stl,2,0.4544,0.3833,2.61,2.74,2.44,-0.0654,1.004,2.10-2.50
-NYK @ IND,NYK win + Jalen Brunson 1+ stl,2,0.4846,0.4215,2.37,2.49,2.21,-0.0688,1.002,2.10-2.50
-NYK @ IND,game over 219.5 + Mikal Bridges 5+ pa,2,0.5706,0.4311,2.32,2.44,2.14,-0.0759,1.015,2.10-2.50
-NYK @ IND,NYK -8.5 + Mikal Bridges 5+ pr,2,0.5146,0.4371,2.29,2.4,2.1,-0.0829,1.006,1.85-2.10
-NYK @ IND,Miles McBride 3pm under 1.5 + Mikal Bridges 5+ pra,2,0.5945,0.4443,2.25,2.36,2.06,-0.0838,0.997,1.85-2.10
-NYK @ IND,game over 219.5 + Mikal Bridges 5+ pra,2,0.5996,0.4546,2.2,2.31,2.01,-0.0854,1.005,1.85-2.10
-NYK @ IND,Jalen Brunson 1+ stl + Mikal Bridges 5+ pr,2,0.5916,0.5115,1.96,2.05,1.76,-0.1003,1.002,1.65-1.85
-NYK @ IND,Jalen Brunson 1+ stl + Mikal Bridges 5+ pa,2,0.5785,0.5051,1.98,2.08,1.78,-0.1007,1.003,1.65-1.85
-NYK @ IND,Jalen Brunson 1+ stl + OG Anunoby 1+ 3pm,2,0.5682,0.5008,2.0,2.1,1.79,-0.103,1.002,1.65-1.85
-NYK @ IND,NYK win + Mikal Bridges 5+ pa + OG Anunoby 1+ 3pm,3,0.637,0.5475,1.83,1.92,1.61,-0.1205,1.016,1.50-1.65
-NYK @ IND,NYK win + Mikal Bridges 5+ pr + OG Anunoby 1+ 3pm,3,0.6485,0.5519,1.81,1.9,1.59,-0.124,1.011,1.50-1.65
-NYK @ IND,NYK win + Mikal Bridges 5+ pra + OG Anunoby 1+ 3pm,3,0.6716,0.5793,1.73,1.81,1.51,-0.1266,1.01,1.50-1.65
+NYK @ IND,NYK win + Mikal Bridges 1+ stl,2,0.4544,0.3845,2.6,2.73,2.43,-0.066,1.004,2.10-2.50
+NYK @ IND,game over 219.5 + Mikal Bridges 5+ pa,2,0.5706,0.4326,2.31,2.43,2.14,-0.0764,1.015,2.10-2.50
+NYK @ IND,NYK -8.5 + Mikal Bridges 5+ pa,2,0.506,0.4355,2.3,2.41,2.12,-0.0788,1.013,2.10-2.50
+NYK @ IND,NYK -8.5 + Mikal Bridges 5+ pr,2,0.5146,0.4378,2.28,2.4,2.09,-0.0832,1.006,1.85-2.10
+NYK @ IND,Karl-Anthony Towns pr under 34.5 + Mikal Bridges 5+ pr,2,0.5887,0.4645,2.15,2.26,1.96,-0.0901,1.002,1.85-2.10
+NYK @ IND,Karl-Anthony Towns pa under 24.5 + Mikal Bridges 5+ pr,2,0.5773,0.4531,2.21,2.32,2.01,-0.0914,0.999,1.85-2.10
+NYK @ IND,NYK win + Mikal Bridges 5+ pa + OG Anunoby 1+ 3pm,3,0.637,0.5494,1.82,1.91,1.6,-0.121,1.016,1.50-1.65
+NYK @ IND,NYK win + Mikal Bridges 5+ pr + OG Anunoby 1+ 3pm,3,0.6485,0.5529,1.81,1.9,1.58,-0.1243,1.011,1.50-1.65
 MIL @ ORL,Brayden Burries pa under 14.5 + ORL win,2,0.545,0.4246,2.36,2.47,2.36,0.004,1.032,2.10-2.50
 MIL @ ORL,Brayden Burries pts under 11.5 + ORL win,2,0.532,0.4129,2.42,2.54,2.43,0.004,1.031,2.10-2.50
 MIL @ ORL,Brayden Burries pr under 17.5 + ORL win,2,0.5473,0.4308,2.32,2.44,2.31,-0.0068,1.023,2.10-2.50
