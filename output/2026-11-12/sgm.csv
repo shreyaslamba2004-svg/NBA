@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DAL @ MIN,Jaden McDaniels pts under 17.5 + Zaccharie Risacher 5+ pra,2,0.5056,0.4121,2.43,2.55,2.32,-0.0423,1.002,2.10-2.50
-DAL @ MIN,Jaden McDaniels pts under 17.5 + Trey Lyles 5+ pr,2,0.5497,0.4513,2.22,2.33,2.11,-0.0467,0.999,2.10-2.50
-DAL @ MIN,P.J. Washington pts under 12.5 + Trey Lyles 5+ pr,2,0.4702,0.4175,2.4,2.52,2.28,-0.0491,1.003,2.10-2.50
-DAL @ MIN,Jaden McDaniels pts under 17.5 + P.J. Washington 10+ pr,2,0.5648,0.4789,2.09,2.19,1.98,-0.0517,0.999,1.85-2.10
-DAL @ MIN,Jaden McDaniels pts under 17.5 + Rudy Gobert 5+ pa,2,0.5555,0.4747,2.11,2.21,1.99,-0.0547,0.997,1.85-2.10
-DAL @ MIN,Kyrie Irving pts under 22.5 + Rudy Gobert 5+ pa,2,0.5451,0.4588,2.18,2.29,2.05,-0.0572,0.998,1.85-2.10
-DAL @ MIN,MIN win + Terrence Shannon Jr. 10+ pra,2,0.5158,0.5156,1.94,2.04,1.8,-0.071,1.016,1.65-1.85
-DAL @ MIN,MIN win + Joan Beringer 5+ pr,2,0.5609,0.547,1.83,1.92,1.69,-0.0729,1.01,1.65-1.85
-DAL @ MIN,MIN win + Trey Lyles 5+ pr,2,0.5911,0.5684,1.76,1.85,1.63,-0.0743,1.006,1.50-1.65
-DAL @ MIN,MIN win + Joan Beringer 5+ pra,2,0.5697,0.561,1.78,1.87,1.65,-0.0749,1.009,1.50-1.65
-DAL @ MIN,MIN win + Rudy Gobert 5+ pa,2,0.6012,0.6017,1.66,1.75,1.54,-0.0761,1.011,1.50-1.65
-DAL @ MIN,MIN win + Zaccharie Risacher 5+ pra,2,0.535,0.5107,1.96,2.06,1.79,-0.0848,0.993,1.65-1.85
 CHA @ PHX,Ryan Kalkbrenner 11+ pr + Moussa Diabate 15+ pra,2,0.6181,0.4033,2.48,2.6,2.36,-0.0491,1.004,2.10-2.50
 CHA @ PHX,Ryan Kalkbrenner 11+ pr + Dillon Brooks 1+ 3pm,2,0.6593,0.4278,2.34,2.45,2.22,-0.0492,1.003,2.10-2.50
 CHA @ PHX,Ryan Kalkbrenner 11+ pr + Collin Gillespie 10+ pra,2,0.6087,0.3973,2.52,2.64,2.39,-0.0499,1.003,2.10-2.50
