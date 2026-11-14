@@ -1,24 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NYK @ IND,NYK win + Mikal Bridges 8+ pts,2,0.4228,0.4034,2.48,2.6,2.41,-0.0269,1.031,2.10-2.50
-NYK @ IND,game over 219.5 + Mikal Bridges 5+ pa,2,0.5793,0.4374,2.29,2.4,2.16,-0.0551,1.016,2.10-2.50
-NYK @ IND,game over 219.5 + Mikal Bridges 5+ pr,2,0.5889,0.4422,2.26,2.37,2.13,-0.0582,1.012,2.10-2.50
-NYK @ IND,Quenton Jackson 8+ pts + Mikal Bridges 5+ pa,2,0.5617,0.4526,2.21,2.32,2.07,-0.0608,1.003,1.85-2.10
-NYK @ IND,Quenton Jackson 8+ pts + Mikal Bridges 5+ pr,2,0.5724,0.4588,2.18,2.29,2.05,-0.0614,1.002,1.85-2.10
-NYK @ IND,Jalen Brunson 26+ pts + Mikal Bridges 5+ pra,2,0.4942,0.4567,2.19,2.3,2.05,-0.0639,1.004,1.85-2.10
-NYK @ IND,NYK win + Mikal Bridges 5+ pa + OG Anunoby 1+ 3pm,3,0.636,0.546,1.83,1.92,1.6,-0.125,1.013,1.50-1.65
-NYK @ IND,NYK win + Mikal Bridges 5+ pr + OG Anunoby 1+ 3pm,3,0.648,0.5533,1.81,1.9,1.58,-0.1258,1.011,1.50-1.65
-MIL @ ORL,Tyler Herro pts under 21.5 + ORL win,2,0.4611,0.4206,2.38,2.5,2.42,0.0159,1.051,2.10-2.50
-MIL @ ORL,Brayden Burries pts under 11.5 + Jalen Suggs 10+ pra,2,0.7041,0.4277,2.34,2.45,2.37,0.0144,1.0,2.10-2.50
-MIL @ ORL,Brayden Burries pts under 11.5 + Jalen Suggs 5+ pa,2,0.7363,0.4833,2.07,2.17,2.07,0.0011,1.0,1.85-2.10
-MIL @ ORL,Brayden Burries pts under 11.5 + Anthony Black 1+ 3pm,2,0.6253,0.4171,2.4,2.52,2.39,-0.0026,0.999,2.10-2.50
-MIL @ ORL,Brayden Burries pts under 11.5 + Ryan Rollins 5+ pr,2,0.7231,0.4821,2.07,2.18,2.06,-0.0048,0.997,1.85-2.10
-MIL @ ORL,Wendell Carter Jr. pts under 12.5 + Jalen Suggs 5+ pa,2,0.5772,0.4816,2.08,2.18,2.02,-0.0262,0.998,1.85-2.10
-MIL @ ORL,Jalen Suggs 11+ pr + Ryan Rollins 5+ pr,2,0.7271,0.5093,1.96,2.06,1.83,-0.0667,1.0,1.65-1.85
-MIL @ ORL,Jalen Suggs 12+ pa + Ryan Rollins 5+ pr,2,0.7216,0.5106,1.96,2.06,1.82,-0.0706,0.999,1.65-1.85
-MIL @ ORL,ORL win + Anthony Black 1+ 3pm,2,0.6067,0.6137,1.63,1.71,1.51,-0.0756,1.007,1.50-1.65
-MIL @ ORL,ORL win + Jalen Suggs 10+ pra + Anthony Black 1+ 3pm,3,0.5765,0.4995,2.0,2.1,1.79,-0.1078,1.014,1.65-1.85
-MIL @ ORL,ORL win + Jalen Suggs 10+ pra + Ryan Rollins 5+ pr,3,0.6609,0.5722,1.75,1.83,1.54,-0.1176,1.002,1.50-1.65
-MIL @ ORL,ORL win + Jalen Suggs 5+ pa + Anthony Black 1+ 3pm,3,0.5994,0.5611,1.78,1.87,1.56,-0.1246,1.008,1.50-1.65
 CLE @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.4159,0.4345,2.3,2.42,2.2,-0.0461,1.033,2.10-2.50
 CLE @ MIA,Bam Adebayo 22+ pa + Davion Mitchell 10+ pts,2,0.5486,0.3892,2.57,2.7,2.42,-0.0571,1.011,2.10-2.50
 CLE @ MIA,Bam Adebayo 22+ pa + Bobby Portis 10+ pra,2,0.574,0.3987,2.51,2.63,2.36,-0.0578,1.007,2.10-2.50
@@ -31,18 +11,18 @@ CLE @ MIA,Bobby Portis 10+ pra + Davion Mitchell 10+ pts + Bam Adebayo 6+ reb,3,
 CLE @ MIA,Bobby Portis 10+ pra + Davion Mitchell 10+ pts + Giannis Antetokounmpo 4+ ast,3,0.6645,0.4856,2.06,2.16,1.77,-0.1382,1.003,1.65-1.85
 CLE @ MIA,Bobby Portis 10+ pra + Davion Mitchell 10+ pts + James Harden 10+ pts,3,0.7128,0.5179,1.93,2.03,1.66,-0.1401,1.0,1.65-1.85
 CLE @ MIA,Davion Mitchell 10+ pts + Bobby Portis 5+ pa + Bam Adebayo 10+ pts,3,0.7545,0.5617,1.78,1.87,1.53,-0.1403,1.004,1.50-1.65
-ATL @ CHI,ATL win + Isaac Okoro pa under 10.5,2,0.4767,0.3893,2.57,2.7,2.48,-0.0358,1.03,2.10-2.50
-ATL @ CHI,game over 245.5 + CJ McCollum 10+ pts,2,0.3604,0.4017,2.49,2.61,2.39,-0.0384,1.048,2.10-2.50
-ATL @ CHI,game over 245.5 + Josh Giddey 20+ pra,2,0.4059,0.4508,2.22,2.33,2.11,-0.0498,1.035,2.10-2.50
-ATL @ CHI,game over 245.5 + Jalen Smith 15+ pra,2,0.4078,0.4518,2.21,2.32,2.09,-0.0546,1.03,1.85-2.10
-ATL @ CHI,game over 245.5 + Matas Buzelis 15+ pra,2,0.4134,0.4595,2.18,2.29,2.06,-0.0553,1.03,1.85-2.10
-ATL @ CHI,ATL win + CJ McCollum 10+ pts,2,0.5701,0.5296,1.89,1.98,1.76,-0.0704,1.015,1.65-1.85
-ATL @ CHI,ATL win + CJ McCollum 1+ 3pm,2,0.603,0.557,1.8,1.88,1.66,-0.0727,1.012,1.65-1.85
-ATL @ CHI,game over 245.5 + Dyson Daniels 1+ stl,2,0.4052,0.4469,2.24,2.35,2.06,-0.078,1.004,1.85-2.10
-ATL @ CHI,ATL win + Matas Buzelis 4+ reb,2,0.5828,0.5238,1.91,2.0,1.75,-0.0814,0.998,1.65-1.85
-ATL @ CHI,ATL win + Josh Giddey 4+ reb,2,0.6297,0.579,1.73,1.81,1.58,-0.0828,1.0,1.50-1.65
-ATL @ CHI,ATL win + Dyson Daniels 1+ stl,2,0.6588,0.6054,1.65,1.73,1.51,-0.0841,0.999,1.50-1.65
-ATL @ CHI,ATL win + Jalen Smith 15+ pra,2,0.6419,0.5925,1.69,1.77,1.53,-0.0908,0.992,1.50-1.65
+ATL @ CHI,game over 245.5 + Jalen Smith 6+ reb,2,0.3684,0.4013,2.49,2.62,2.36,-0.0532,1.03,2.10-2.50
+ATL @ CHI,game over 245.5 + Jalen Smith 15+ pra,2,0.41,0.4523,2.21,2.32,2.09,-0.0534,1.032,1.85-2.10
+ATL @ CHI,game over 245.5 + Matas Buzelis 4+ reb,2,0.3703,0.3954,2.53,2.66,2.39,-0.0544,1.025,2.10-2.50
+ATL @ CHI,game over 245.5 + Josh Giddey 4+ reb,2,0.3976,0.435,2.3,2.41,2.16,-0.0604,1.023,2.10-2.50
+ATL @ CHI,ATL win + CJ McCollum 1+ 3pm,2,0.5919,0.5579,1.79,1.88,1.66,-0.0713,1.012,1.65-1.85
+ATL @ CHI,game over 245.5 + Dyson Daniels 1+ stl,2,0.411,0.4499,2.22,2.33,2.06,-0.0717,1.011,1.85-2.10
+ATL @ CHI,ATL win + Matas Buzelis 4+ reb,2,0.5686,0.5252,1.9,2.0,1.75,-0.079,1.001,1.65-1.85
+ATL @ CHI,ATL win + Jalen Smith 6+ reb,2,0.5643,0.5317,1.88,1.97,1.73,-0.08,1.003,1.65-1.85
+ATL @ CHI,ATL win + Dyson Daniels 1+ stl,2,0.6393,0.6054,1.65,1.73,1.51,-0.0842,0.999,1.50-1.65
+ATL @ CHI,ATL win + Josh Giddey 4+ reb,2,0.611,0.578,1.73,1.82,1.58,-0.0843,0.999,1.50-1.65
+ATL @ CHI,ATL win + Jalen Smith 15+ pra,2,0.6206,0.5921,1.69,1.77,1.53,-0.0913,0.993,1.50-1.65
+ATL @ CHI,Nic Claxton pts under 8.5 + Dyson Daniels 1+ stl,2,0.555,0.4401,2.27,2.39,2.06,-0.0921,1.0,1.85-2.10
 MEM @ NOP,NOP +3.5 + Herbert Jones 10+ pra,2,0.4194,0.3956,2.53,2.65,2.41,-0.0463,1.026,2.10-2.50
 MEM @ NOP,NOP +3.5 + Karlo Matkovic 10+ pra,2,0.4497,0.4039,2.48,2.6,2.36,-0.0476,1.015,2.10-2.50
 MEM @ NOP,Karlo Matkovic 8+ pts + Herbert Jones 10+ pra,2,0.6144,0.405,2.47,2.59,2.35,-0.0491,1.003,2.10-2.50
@@ -59,14 +39,14 @@ UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6321,0.46,2.17,2.28,2.11,-
 UTA @ HOU,Darryn Peterson pra under 27.5 + HOU win,2,0.6626,0.4869,2.05,2.16,1.99,-0.0335,1.019,1.85-2.10
 UTA @ HOU,Darryn Peterson pr under 22.5 + HOU win,2,0.6258,0.4637,2.16,2.26,2.08,-0.0349,1.019,1.85-2.10
 UTA @ HOU,Darryn Peterson pts under 18.5 + HOU win,2,0.6337,0.4693,2.13,2.24,2.06,-0.0354,1.018,1.85-2.10
-UTA @ HOU,Kevin Durant 10+ ra + HOU win,2,0.5927,0.4374,2.29,2.4,2.19,-0.0422,1.007,2.10-2.50
 UTA @ HOU,game over 220.5 + Kevin Durant 25+ pra,2,0.5438,0.4167,2.4,2.52,2.29,-0.0469,1.038,2.10-2.50
-UTA @ HOU,Josh Okogie 5+ pra + Svi Mykhailiuk 5+ pra,2,0.7208,0.5881,1.7,1.79,1.54,-0.093,1.005,1.50-1.65
-UTA @ HOU,Josh Okogie 5+ pra + Isaiah Collier 5+ pr,2,0.7442,0.5964,1.68,1.76,1.52,-0.0953,0.999,1.50-1.65
-UTA @ HOU,Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,2,0.7261,0.5926,1.69,1.77,1.52,-0.0963,1.001,1.50-1.65
-UTA @ HOU,HOU win + Josh Okogie 5+ pra + Isaiah Collier 5+ pr,3,0.6682,0.5222,1.92,2.01,1.66,-0.1326,0.993,1.65-1.85
-UTA @ HOU,HOU win + Josh Okogie 5+ pra + Svi Mykhailiuk 5+ pra,3,0.6451,0.5133,1.95,2.05,1.69,-0.1332,0.995,1.65-1.85
-UTA @ HOU,HOU win + Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,3,0.6497,0.5172,1.93,2.03,1.67,-0.1364,0.992,1.65-1.85
+UTA @ HOU,Kevin Durant 10+ ra + HOU win,2,0.5927,0.4437,2.25,2.37,2.15,-0.047,1.007,2.10-2.50
+UTA @ HOU,Svi Mykhailiuk 5+ pra + Josh Okogie 5+ pra,2,0.7208,0.5999,1.67,1.75,1.51,-0.0961,1.005,1.50-1.65
+UTA @ HOU,Svi Mykhailiuk 5+ pra + Kevin Durant 20+ pa,2,0.7196,0.5979,1.67,1.76,1.51,-0.0995,1.001,1.50-1.65
+UTA @ HOU,HOU win + Kevin Durant 25+ pra + Jabari Smith Jr. 10+ pts,3,0.7025,0.5617,1.78,1.87,1.58,-0.1131,1.019,1.50-1.65
+UTA @ HOU,HOU win + Kevin Durant 25+ pra + Svi Mykhailiuk 5+ pra,3,0.6587,0.5284,1.89,1.99,1.65,-0.1269,1.004,1.65-1.85
+UTA @ HOU,HOU win + Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,3,0.6497,0.5159,1.94,2.04,1.67,-0.1361,0.992,1.65-1.85
+UTA @ HOU,Kevin Durant 25+ pra + Jabari Smith Jr. 10+ pts + Svi Mykhailiuk 5+ pra,3,0.6432,0.4795,2.09,2.19,1.8,-0.1366,1.009,1.65-1.85
 GSW @ SAS,De'Anthony Melton pa under 15.5 + SAS win,2,0.427,0.4547,2.2,2.31,2.11,-0.0389,1.044,2.10-2.50
 GSW @ SAS,SAS win + De'Anthony Melton pts under 12.5,2,0.4268,0.4594,2.18,2.29,2.09,-0.0396,1.045,1.85-2.10
 GSW @ SAS,SAS win + De'Anthony Melton pra under 19.5,2,0.4183,0.4498,2.22,2.33,2.13,-0.0422,1.042,2.10-2.50
