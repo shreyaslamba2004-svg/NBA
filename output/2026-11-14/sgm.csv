@@ -23,36 +23,30 @@ DAL @ CLE,Kyrie Irving 3pm under 3.5 + Jaylon Tyson 15+ pr,2,0.665,0.4957,2.02,2
 DAL @ CLE,DAL win + Jaylon Tyson 15+ pa,2,0.5538,0.5406,1.85,1.94,1.69,-0.0855,0.977,1.65-1.85
 DAL @ CLE,Kyrie Irving 3pm under 3.5 + Mario Hezonja 15+ pr,2,0.6303,0.4923,2.03,2.13,1.85,-0.0895,1.0,1.65-1.85
 DAL @ CLE,DAL win + Jaylon Tyson 15+ pr,2,0.5782,0.6029,1.66,1.74,1.51,-0.0899,0.984,1.50-1.65
-DET @ MIA,game over 228.5 + Duncan Robinson 15+ pra,2,0.4589,0.4027,2.48,2.61,2.36,-0.0487,1.045,2.10-2.50
-DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5679,0.477,2.1,2.2,1.99,-0.049,1.023,1.85-2.10
-DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5753,0.4862,2.06,2.16,1.95,-0.051,1.022,1.85-2.10
-DET @ MIA,Cade Cunningham 35+ pa + Duncan Robinson 10+ pts,2,0.4365,0.3846,2.6,2.73,2.46,-0.053,1.012,2.10-2.50
-DET @ MIA,game over 228.5 + Duncan Robinson 10+ pts,2,0.4625,0.4083,2.45,2.57,2.31,-0.0555,1.039,2.10-2.50
-DET @ MIA,DET win + Javonte Green 5+ pr,2,0.5442,0.4617,2.17,2.27,2.04,-0.0569,1.016,1.85-2.10
+DET @ MIA,DET win + Daniss Jenkins 1+ 3pm,2,0.5741,0.4761,2.1,2.21,1.98,-0.0578,1.011,1.85-2.10
+DET @ MIA,Bam Adebayo 27+ pr + Andrew Wiggins 10+ pra,2,0.5181,0.4105,2.44,2.56,2.29,-0.059,1.011,2.10-2.50
+DET @ MIA,game over 228.5 + Andrew Wiggins 10+ pra,2,0.4828,0.4116,2.43,2.55,2.28,-0.0607,1.027,2.10-2.50
+DET @ MIA,DET win + Duncan Robinson 10+ pr,2,0.6292,0.5319,1.88,1.97,1.77,-0.0612,1.011,1.65-1.85
+DET @ MIA,Bam Adebayo 21+ pa + Andrew Wiggins 10+ pra,2,0.5101,0.4163,2.4,2.52,2.25,-0.0624,1.011,2.10-2.50
+DET @ MIA,MIA +4.5 + Bam Adebayo 10+ pts,2,0.4178,0.4478,2.23,2.34,2.09,-0.0636,1.026,1.85-2.10
+DET @ MIA,Bam Adebayo 21+ pa + Davion Mitchell 15+ pra,2,0.5374,0.4518,2.21,2.32,2.06,-0.0671,1.011,1.85-2.10
 DET @ MIA,DET win + Bobby Portis 5+ pr,2,0.6415,0.5358,1.87,1.96,1.73,-0.0705,0.999,1.65-1.85
-DET @ MIA,DET win + Bam Adebayo 20+ pra,2,0.6207,0.5222,1.91,2.01,1.76,-0.0795,0.99,1.65-1.85
-DET @ MIA,DET win + Davion Mitchell 15+ pra,2,0.6198,0.5242,1.91,2.0,1.75,-0.0806,0.99,1.65-1.85
-DET @ MIA,Andrew Wiggins 1+ 3pm + Duncan Robinson 10+ pts,2,0.6895,0.597,1.68,1.76,1.5,-0.1036,1.003,1.50-1.65
-DET @ MIA,Andrew Wiggins 1+ 3pm + Javonte Green 5+ pr,2,0.6556,0.5699,1.75,1.84,1.57,-0.1044,1.003,1.50-1.65
-DET @ MIA,Andrew Wiggins 1+ 3pm + Duncan Robinson 15+ pra,2,0.6782,0.5837,1.71,1.8,1.53,-0.1049,1.001,1.50-1.65
-BKN @ MEM,Cam Spencer ra under 11.5 + Jaylen Wells 10+ pr,2,0.6722,0.4106,2.44,2.56,2.33,-0.0445,0.995,2.10-2.50
+DET @ MIA,DET win + Bam Adebayo 6+ reb,2,0.6022,0.5032,1.99,2.09,1.84,-0.0717,0.998,1.65-1.85
+DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7046,0.5637,1.77,1.86,1.62,-0.0891,1.004,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Bobby Portis 5+ pr,2,0.7205,0.5723,1.75,1.83,1.59,-0.091,1.001,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pr,2,0.6989,0.5619,1.78,1.87,1.62,-0.092,1.001,1.50-1.65
+BKN @ MEM,Cam Spencer ra under 11.5 + Jaylen Wells 10+ pr,2,0.6722,0.4101,2.44,2.56,2.33,-0.0443,0.995,2.10-2.50
 BKN @ MEM,Cam Spencer ra under 11.5 + Cameron Boozer 6+ reb,2,0.6717,0.4337,2.31,2.42,2.19,-0.0514,0.997,2.10-2.50
-BKN @ MEM,Cam Spencer ra under 11.5 + Jaylen Wells 1+ 3pm,2,0.6633,0.4256,2.35,2.47,2.23,-0.0523,0.995,2.10-2.50
-BKN @ MEM,Cam Spencer ast under 8.5 + Jaylen Wells 10+ pr,2,0.716,0.4706,2.12,2.23,1.99,-0.0636,0.995,1.85-2.10
+BKN @ MEM,Cam Spencer ra under 11.5 + Jaylen Wells 1+ 3pm,2,0.6633,0.425,2.35,2.47,2.23,-0.0522,0.995,2.10-2.50
+BKN @ MEM,Cam Spencer ast under 8.5 + Jaylen Wells 10+ pr,2,0.716,0.4701,2.13,2.23,1.99,-0.0634,0.995,1.85-2.10
 BKN @ MEM,Cam Spencer ast under 8.5 + Cameron Boozer 6+ reb,2,0.7157,0.4972,2.01,2.11,1.87,-0.0702,0.997,1.85-2.10
-BKN @ MEM,Cam Spencer ast under 8.5 + Jaylen Wells 1+ 3pm,2,0.7065,0.4878,2.05,2.15,1.9,-0.0714,0.994,1.85-2.10
-BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5901,0.5108,1.96,2.06,1.79,-0.0854,1.01,1.65-1.85
-BKN @ MEM,Cam Spencer 3pm under 2.5 + Jaylen Wells 10+ pr,2,0.6771,0.5017,1.99,2.09,1.82,-0.0857,0.995,1.65-1.85
-BKN @ MEM,Cam Spencer 3pm under 2.5 + Jaylen Wells 1+ 3pm,2,0.6705,0.5218,1.92,2.01,1.74,-0.0901,0.999,1.65-1.85
-CHI @ MIN,MIN win + Matas Buzelis 3pm under 2.5,2,0.6197,0.5493,1.82,1.91,1.7,-0.0653,1.012,1.65-1.85
-CHI @ MIN,CHI +16.5 + Josh Giddey 15+ pr,2,0.481,0.4154,2.41,2.53,2.24,-0.069,1.022,2.10-2.50
-CHI @ MIN,MIN win + Jaden McDaniels reb under 5.5,2,0.4651,0.4077,2.45,2.58,2.28,-0.0723,1.002,2.10-2.50
-CHI @ MIN,MIN -15.5 + Terrence Shannon Jr. 10+ pra,2,0.4184,0.4142,2.41,2.53,2.23,-0.0756,1.014,2.10-2.50
-CHI @ MIN,CHI +16.5 + Josh Giddey 20+ pra,2,0.504,0.4474,2.23,2.35,2.06,-0.0774,1.018,1.85-2.10
-CHI @ MIN,MIN win + LaMelo Ball ra under 11.5,2,0.5161,0.4521,2.21,2.32,2.03,-0.0811,0.992,1.85-2.10
-CHI @ MIN,MIN win + Jaden McDaniels ra under 9.5,2,0.5196,0.4601,2.17,2.28,2.0,-0.082,0.992,1.85-2.10
-CHI @ MIN,MIN win + Isaac Okoro 10+ pra,2,0.676,0.6059,1.65,1.73,1.51,-0.0857,0.992,1.50-1.65
-CHI @ MIN,MIN win + Isaac Okoro 10+ pr,2,0.5881,0.5239,1.91,2.0,1.74,-0.0868,0.989,1.65-1.85
-CHI @ MIN,Isaac Okoro 10+ pr + Josh Giddey 20+ pra,2,0.641,0.5313,1.88,1.98,1.71,-0.0906,1.01,1.65-1.85
-CHI @ MIN,Matas Buzelis 3pm under 2.5 + Isaac Okoro 5+ pr,2,0.6875,0.5515,1.81,1.9,1.64,-0.0973,0.997,1.50-1.65
-CHI @ MIN,MIN win + Isaac Okoro 10+ pra + Trey Lyles 5+ pr,3,0.6145,0.5283,1.89,1.99,1.64,-0.1341,0.998,1.50-1.65
+BKN @ MEM,Cam Spencer ast under 8.5 + Jaylen Wells 1+ 3pm,2,0.7065,0.4871,2.05,2.16,1.91,-0.0713,0.994,1.85-2.10
+BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5901,0.5101,1.96,2.06,1.79,-0.0853,1.01,1.65-1.85
+BKN @ MEM,Cam Spencer 3pm under 2.5 + Jaylen Wells 10+ pr,2,0.6771,0.5011,2.0,2.1,1.83,-0.0855,0.995,1.65-1.85
+BKN @ MEM,Cam Spencer 3pm under 2.5 + Jaylen Wells 1+ 3pm,2,0.6705,0.5211,1.92,2.02,1.75,-0.0899,0.999,1.65-1.85
+CHI @ MIN,MIN win + game over 234.5,2,0.4347,0.4403,2.27,2.38,2.11,-0.0715,1.008,2.10-2.50
+CHI @ MIN,game over 234.5 + Terrence Shannon Jr. 10+ pra,2,0.4394,0.4089,2.45,2.57,2.27,-0.0732,1.029,2.10-2.50
+CHI @ MIN,MIN -15.5 + Terrence Shannon Jr. 10+ pra,2,0.4184,0.4117,2.43,2.55,2.25,-0.0747,1.014,2.10-2.50
+CHI @ MIN,MIN win + LaMelo Ball ra under 11.5,2,0.5161,0.4597,2.18,2.28,2.0,-0.0827,0.992,1.85-2.10
+CHI @ MIN,MIN win + Jaden McDaniels ra under 9.5,2,0.5196,0.4669,2.14,2.25,1.96,-0.0846,0.992,1.85-2.10
+CHI @ MIN,MIN win + Rudy Gobert pr under 21.5,2,0.5031,0.4486,2.23,2.34,2.02,-0.0917,0.984,1.85-2.10
