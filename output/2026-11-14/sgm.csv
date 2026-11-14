@@ -1,6 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ NOP,DEN win + game under 235.5,2,0.3424,0.4195,2.38,2.5,2.21,-0.0746,1.009,2.10-2.50
-DEN @ NOP,DEN win + game over 235.5,2,0.4224,0.3955,2.53,2.65,2.3,-0.0889,0.993,2.10-2.50
+DEN @ NOP,DEN win + Jeremiah Fears pts under 18.5,2,0.4717,0.434,2.3,2.42,2.21,-0.0426,1.041,2.10-2.50
+DEN @ NOP,DEN win + Jamal Murray 25+ pts,2,0.4142,0.4221,2.37,2.49,2.23,-0.0574,1.043,2.10-2.50
+DEN @ NOP,DEN win + Christian Braun 12+ pts,2,0.4592,0.4447,2.25,2.36,2.12,-0.0589,1.038,2.10-2.50
+DEN @ NOP,DEN win + Jamal Murray 3+ 3pm,2,0.5019,0.5073,1.97,2.07,1.82,-0.0762,1.021,1.65-1.85
+DEN @ NOP,DEN win + Christian Braun 1+ 3pm,2,0.5835,0.5667,1.76,1.85,1.63,-0.078,1.012,1.50-1.65
+DEN @ NOP,DEN win + Cameron Johnson 10+ pts,2,0.5509,0.5571,1.79,1.88,1.65,-0.0798,1.017,1.65-1.85
+DEN @ NOP,DEN win + Cameron Johnson 2+ 3pm,2,0.4693,0.481,2.08,2.18,1.9,-0.0843,1.013,1.85-2.10
+DEN @ NOP,DEN win + Aaron Gordon 1+ 3pm,2,0.571,0.5816,1.72,1.81,1.57,-0.0895,1.007,1.50-1.65
+DEN @ NOP,Christian Braun 10+ pts + Cameron Johnson 10+ pts,2,0.5147,0.4436,2.25,2.37,2.02,-0.1016,1.004,1.85-2.10
+DEN @ NOP,Christian Braun 1+ 3pm + Aaron Gordon 1+ 3pm,2,0.5602,0.4892,2.04,2.15,1.83,-0.1051,1.003,1.65-1.85
+DEN @ NOP,Christian Braun 1+ 3pm + Jamal Murray 2+ 3pm,2,0.6313,0.5515,1.81,1.9,1.62,-0.1052,1.003,1.50-1.65
+DEN @ NOP,Cameron Johnson 10+ pts + Aaron Gordon 1+ 3pm,2,0.529,0.481,2.08,2.18,1.86,-0.1066,1.008,1.85-2.10
 DET @ MIA,game over 228.5 + Duncan Robinson 10+ pts,2,0.4806,0.419,2.39,2.51,2.22,-0.0712,1.034,2.10-2.50
 DET @ MIA,DET -4.5 + Duncan Robinson 10+ pts,2,0.4702,0.4134,2.42,2.54,2.24,-0.0721,1.031,2.10-2.50
 DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5654,0.5131,1.95,2.05,1.81,-0.073,1.024,1.65-1.85
@@ -11,8 +21,13 @@ DET @ MIA,game over 228.5 + Bam Adebayo 10+ pts,2,0.5298,0.4518,2.21,2.32,2.03,-
 DET @ MIA,DET win + Daniss Jenkins 1+ 3pm,2,0.5626,0.518,1.93,2.03,1.77,-0.0855,1.012,1.65-1.85
 DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pts,2,0.6589,0.5339,1.87,1.97,1.7,-0.0916,1.001,1.65-1.85
 DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 1+ 3pm,2,0.6906,0.5663,1.77,1.85,1.6,-0.0952,0.999,1.50-1.65
-BKN @ MEM,MEM win + Jaylen Wells 2+ 3pm,2,0.4273,0.385,2.6,2.73,2.42,-0.0694,1.029,2.10-2.50
-BKN @ MEM,MEM win + Cameron Boozer 2+ 3pm,2,0.387,0.3765,2.66,2.79,2.42,-0.0875,1.019,2.10-2.50
-BKN @ MEM,MEM win + Ty Jerome 3pm under 2.5,2,0.3489,0.359,2.79,2.93,2.4,-0.1392,0.971,2.10-2.50
+BKN @ MEM,MEM win + Michael Porter Jr. 3pm under 3.5,2,0.489,0.3884,2.57,2.7,2.44,-0.0509,1.03,2.10-2.50
+BKN @ MEM,MEM win + Jaylen Wells 2+ 3pm,2,0.4273,0.3861,2.59,2.72,2.42,-0.0668,1.029,2.10-2.50
+BKN @ MEM,MEM win + Julius Randle 3pm under 1.5,2,0.4723,0.388,2.58,2.71,2.39,-0.0719,1.013,2.10-2.50
+BKN @ MEM,Egor Demin pts under 11.5 + Ty Jerome 1+ 3pm,2,0.6473,0.4689,2.13,2.24,1.97,-0.0755,1.0,1.85-2.10
+BKN @ MEM,MEM win + Ty Jerome 2+ 3pm,2,0.5298,0.4541,2.2,2.31,2.03,-0.0782,1.013,1.85-2.10
+BKN @ MEM,Egor Demin pts under 11.5 + Jaylen Wells 1+ 3pm,2,0.6061,0.4431,2.26,2.37,2.08,-0.0783,0.999,1.85-2.10
+BKN @ MEM,Michael Porter Jr. 3pm under 3.5 + Ty Jerome 1+ 3pm,2,0.6129,0.4951,2.02,2.12,1.82,-0.0971,0.998,1.65-1.85
+BKN @ MEM,Jaylen Wells 2+ 3pm + Ty Jerome 1+ 3pm,2,0.5385,0.4949,2.02,2.12,1.8,-0.1074,1.003,1.65-1.85
 CHI @ MIN,MIN win + game under 236.5,2,0.4412,0.4354,2.3,2.41,2.12,-0.0778,1.005,2.10-2.50
 CHI @ MIN,MIN win + game over 236.5,2,0.3674,0.423,2.36,2.48,2.16,-0.0884,0.994,2.10-2.50
