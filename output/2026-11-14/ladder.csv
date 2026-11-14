@@ -2588,15 +2588,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909981,DAL @ CLE,DAL,1629023,P.J. Washington,ra,9.5,False,0.2985,,model only,0.2985
 401909981,DAL @ CLE,DAL,1629023,P.J. Washington,ra,10.5,False,0.2123,,model only,0.2123
 401909981,DAL @ CLE,DAL,1629023,P.J. Washington,ra,11.5,False,0.1446,,model only,0.1446
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,16.5,False,0.6715,,model only,0.6715
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,17.5,False,0.6231,,model only,0.6231
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,18.5,False,0.5721,,model only,0.5721
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,19.5,False,0.5213,,model only,0.5213
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,20.5,False,0.4739,,model only,0.4739
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,21.5,False,0.4245,,model only,0.4245
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,22.5,False,0.3796,,model only,0.3796
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,23.5,False,0.3353,,model only,0.3353
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,24.5,False,0.2955,,model only,0.2955
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,13.5,False,0.8112,0.7188,est,0.731
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,14.5,False,0.7671,0.6539,book,0.6688
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,15.5,False,0.7176,0.6018,est,0.6171
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,16.5,False,0.6715,0.5486,est,0.5648
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,17.5,True,0.6231,0.4958,book,0.5126
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,18.5,False,0.5721,0.4429,est,0.4599
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,19.5,False,0.5213,0.3894,book,0.4068
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,20.5,False,0.4739,0.3488,est,0.3653
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,pts,21.5,False,0.4245,0.3049,est,0.3207
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,reb,7.5,False,0.7427,,model only,0.7427
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,reb,8.5,False,0.6372,,model only,0.6372
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,reb,9.5,False,0.5282,,model only,0.5282
@@ -2611,10 +2611,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,ast,5.5,False,0.1979,,model only,0.1979
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,ast,6.5,False,0.1076,,model only,0.1076
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,ast,7.5,False,0.0549,,model only,0.0549
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,fg3m,0.5,False,0.785,,model only,0.785
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,fg3m,1.5,False,0.467,,model only,0.467
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,fg3m,2.5,False,0.2155,,model only,0.2155
-401909982,DET @ MIA,MIA,1628389,Bam Adebayo,fg3m,3.5,False,0.0774,,model only,0.0774
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,fg3m,0.5,True,0.785,0.6448,book,0.6633
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,fg3m,1.5,False,0.467,0.3147,book,0.3348
+401909982,DET @ MIA,MIA,1628389,Bam Adebayo,fg3m,2.5,False,0.2155,0.1202,est,0.1327
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,stl,1.5,False,0.5015,,model only,0.5015
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,stl,2.5,False,0.2483,,model only,0.2483
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,stl,3.5,False,0.1043,,model only,0.1043
@@ -2657,15 +2656,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,ra,15.5,False,0.3331,,model only,0.3331
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,ra,16.5,False,0.2597,,model only,0.2597
 401909982,DET @ MIA,MIA,1628389,Bam Adebayo,ra,17.5,False,0.1983,,model only,0.1983
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,25.5,False,0.6229,,model only,0.6229
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,26.5,False,0.5855,,model only,0.5855
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,27.5,False,0.5475,,model only,0.5475
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,28.5,False,0.5099,,model only,0.5099
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,29.5,False,0.4749,,model only,0.4749
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,30.5,False,0.4392,,model only,0.4392
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,31.5,False,0.4071,,model only,0.4071
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,32.5,False,0.3737,,model only,0.3737
-401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,33.5,False,0.3428,,model only,0.3428
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,24.5,False,0.6588,0.6333,est,0.6367
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,25.5,False,0.6229,0.5963,est,0.5998
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,26.5,False,0.5855,0.5581,est,0.5617
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,27.5,False,0.5475,0.5198,est,0.5234
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,28.5,True,0.5099,0.482,book,0.4857
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,29.5,False,0.4749,0.4472,est,0.4508
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,30.5,False,0.4392,0.4119,est,0.4155
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,31.5,False,0.4071,0.3805,est,0.384
+401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,pts,32.5,False,0.3737,0.348,est,0.3514
 401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,reb,10.5,False,0.689,,model only,0.689
 401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,reb,11.5,False,0.6002,,model only,0.6002
 401909982,DET @ MIA,MIA,203507,Giannis Antetokounmpo,reb,12.5,False,0.5091,,model only,0.5091
@@ -2981,15 +2980,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909982,DET @ MIA,MIA,1631107,Nikola Jovic,ra,4.5,False,0.3502,,model only,0.3502
 401909982,DET @ MIA,MIA,1631107,Nikola Jovic,ra,5.5,False,0.2409,,model only,0.2409
 401909982,DET @ MIA,MIA,1631107,Nikola Jovic,ra,6.5,False,0.1548,,model only,0.1548
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,11.5,False,0.6961,,model only,0.6961
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,12.5,False,0.6318,,model only,0.6318
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,13.5,False,0.567,,model only,0.567
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,14.5,False,0.5074,,model only,0.5074
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,15.5,False,0.4435,,model only,0.4435
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,16.5,False,0.3831,,model only,0.3831
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,17.5,False,0.3302,,model only,0.3302
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,18.5,False,0.2803,,model only,0.2803
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,19.5,False,0.2345,,model only,0.2345
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,9.5,False,0.8175,0.7327,book,0.7439
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,10.5,False,0.7592,0.7243,est,0.7289
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,11.5,False,0.6961,0.6261,book,0.6353
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,12.5,False,0.6318,0.5885,est,0.5942
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,13.5,True,0.567,0.5218,book,0.5278
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,14.5,False,0.5074,0.465,book,0.4706
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,15.5,False,0.4435,0.399,est,0.4049
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,16.5,False,0.3831,0.341,est,0.3466
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,pts,17.5,False,0.3302,0.3168,book,0.3186
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,reb,0.5,False,0.9425,,model only,0.9425
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,reb,1.5,False,0.7859,,model only,0.7859
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,reb,2.5,False,0.5603,,model only,0.5603
@@ -3004,11 +3003,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,ast,9.5,False,0.3086,,model only,0.3086
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,ast,10.5,False,0.2178,,model only,0.2178
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,ast,11.5,False,0.1466,,model only,0.1466
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,0.5,False,0.8802,,model only,0.8802
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,1.5,False,0.6174,,model only,0.6174
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,2.5,False,0.3386,,model only,0.3386
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,3.5,False,0.1446,,model only,0.1446
-401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,4.5,False,0.0502,,model only,0.0502
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,0.5,False,0.8802,0.8411,book,0.8463
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,1.5,False,0.6174,0.6188,book,0.6186
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,2.5,False,0.3386,0.3862,book,0.3799
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,3.5,False,0.1446,0.2134,book,0.2043
+401909982,DET @ MIA,MIA,1630558,Davion Mitchell,fg3m,4.5,False,0.0502,0.1113,book,0.1032
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,stl,0.5,False,0.7045,,model only,0.7045
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,stl,1.5,False,0.3625,,model only,0.3625
 401909982,DET @ MIA,MIA,1630558,Davion Mitchell,stl,2.5,False,0.1475,,model only,0.1475

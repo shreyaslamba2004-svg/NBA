@@ -1,6 +1,6 @@
 # NBA model · Sat 14 Nov 2026 (US date)
 
-Updated **Sat 14 Nov, 04:16 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 14 Nov, 05:26 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -10,19 +10,19 @@ All automatic checks passed (team minutes, player minutes vs recent games, team 
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
-_No market prices were available for this run._
+_No bets clear the edge threshold right now._
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
 Same rules as best bets, kept apart because the model's tails (big nights, rare outcomes) aren't proven yet. Expect long losing runs even if the edge is real.
 
-_No market prices were available for this run._
+_No long shots clear the edge threshold right now._
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
 Bets that pass the best-bets rules but that Sportsbet doesn't list as far as we know (e.g. odd-number assist milestones like 7+, alt-line unders, turnovers). Ladbrokes, TAB and others sometimes do. Graded in HEALTH.md.
 
-_No market prices were available for this run._
+_Nothing clears the edge threshold right now._
 
 ## Projections
 
@@ -32,11 +32,11 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| DEN @ NOP | Sun 15 Nov 11:00 | 124.2–113.9 | DEN 76% | 1.31 / 4.25 | NOP +10.5 | 238.5 | NOP +10.5 covers 50%; o234.5 58% |
-| DAL @ CLE | Sun 15 Nov 11:30 | 114.8–117.8 | DAL 41% | 2.41 / 1.71 | CLE -3.5 | 232.5 |  |
-| DET @ MIA | Sun 15 Nov 12:00 | 118.2–112.6 | DET 66% | 1.52 / 2.91 | MIA +5.5 | 230.5 | MIA +5.5 covers 49%; o226.5 59% |
-| BKN @ MEM | Sun 15 Nov 12:00 | 110.1–118.6 | BKN 27% | 3.67 / 1.37 | MEM -8.5 | 228.5 |  |
-| CHI @ MIN | Sun 15 Nov 12:00 | 111.2–123.8 | CHI 19% | 5.40 / 1.23 | MIN -12.5 | 235.5 |  |
+| DEN @ NOP | Sun 15 Nov 11:00 | 124.2–113.9 | DEN 76% | 1.31 / 4.25 | NOP +10.5 | 238.5 | NOP +11.5 covers 53%; o234.5 58% |
+| DAL @ CLE | Sun 15 Nov 11:30 | 114.8–117.8 | DAL 41% | 2.41 / 1.71 | CLE -3.5 | 232.5 | CLE -3.5 covers 49%; o231.5 52% |
+| DET @ MIA | Sun 15 Nov 12:00 | 118.2–112.6 | DET 66% | 1.52 / 2.91 | MIA +5.5 | 230.5 | MIA +4.5 covers 46%; o228.5 55% |
+| BKN @ MEM | Sun 15 Nov 12:00 | 110.1–118.6 | BKN 27% | 3.67 / 1.37 | MEM -8.5 | 228.5 | MEM -4.5 covers 62%; o226.5 55% |
+| CHI @ MIN | Sun 15 Nov 12:00 | 111.2–123.8 | CHI 19% | 5.40 / 1.23 | MIN -12.5 | 235.5 | MIN -14.5 covers 45%; o236.5 47% |
 
 ### DEN @ NOP
 Out: Bryce McGowens (NOP), Yves Missi (NOP), Trey Murphy III (NOP), Dejounte Murray (NOP), Trendon Watford (NOP), Julian Strawther (DEN), Cam Whitmore (DEN)
@@ -87,8 +87,8 @@ Out: Sam Merrill (CLE), Evan Mobley (CLE), Nae'Qwan Tomlin (CLE), Sergio de Larr
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 114.8–117.8 | DAL 41% | 2.41 / 1.71 | CLE -3.5 | 232.5 |  |
-| Expected (weighted by chance each plays) | 114.7–117.8 | DAL 41% | 2.43 / 1.70 | CLE -3.5 | 232.5 |  |
+| Confirmed players only | 114.8–117.8 | DAL 41% | 2.41 / 1.71 | CLE -3.5 | 232.5 | CLE -3.5 covers 49%; o231.5 52% |
+| Expected (weighted by chance each plays) | 114.7–117.8 | DAL 41% | 2.43 / 1.70 | CLE -3.5 | 232.5 | CLE -3.5 covers 50%; o231.5 52% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -144,8 +144,8 @@ Out: Pelle Larsson (MIA), Klay Thompson (MIA), Jalen Duren (DET), Isaiah Joe (DE
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 118.2–112.6 | DET 66% | 1.52 / 2.91 | MIA +5.5 | 230.5 | MIA +5.5 covers 49%; o226.5 59% |
-| Expected (weighted by chance each plays) | 118.3–112.6 | DET 66% | 1.52 / 2.93 | MIA +5.5 | 231.5 | MIA +5.5 covers 49%; o226.5 59% |
+| Confirmed players only | 118.2–112.6 | DET 66% | 1.52 / 2.91 | MIA +5.5 | 230.5 | MIA +4.5 covers 46%; o228.5 55% |
+| Expected (weighted by chance each plays) | 118.3–112.6 | DET 66% | 1.52 / 2.93 | MIA +5.5 | 231.5 | MIA +4.5 covers 46%; o228.5 55% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -176,9 +176,9 @@ Out: Pelle Larsson (MIA), Klay Thompson (MIA), Jalen Duren (DET), Isaiah Joe (DE
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Davion Mitchell | 98% | 38.3<br><sub>29,43,38,40,38</sub> | 15.3<br><sub>15,11,22,17,19</sub> |  | 3.0<br><sub>0,2,2,3,5</sub> |  | 8.1<br><sub>7,10,8,11,8</sub> |  | 2.0<br><sub>4,0,4,2,3</sub> |  | 1.3 | 0.3 | 2.8 | 26.4 |
-| Bam Adebayo | 98% | 37.0<br><sub>31,41,33,34,37</sub> | 20.9<br><sub>16,35,18,18,11</sub> |  | 10.0<br><sub>9,10,10,8,8</sub> |  | 3.8<br><sub>4,4,0,4,4</sub> |  | 1.6<br><sub>1,1,0,1,0</sub> |  | 1.7 | 0.9 | 2.0 | 34.7 |
-| Giannis Antetokounmpo | 98% | 36.1<br><sub>34,41,31,34,31</sub> | 30.2<br><sub>30,27,20,29,30</sub> |  | 12.9<br><sub>12,14,14,14,11</sub> |  | 6.5<br><sub>7,6,4,3,4</sub> |  | 0.6<br><sub>0,0,1,0,1</sub> |  | 1.1 | 1.1 | 4.0 | 49.5 |
+| Davion Mitchell | 98% | 38.3<br><sub>29,43,38,40,38</sub> | 15.3<br><sub>15,11,22,17,19</sub> | 13.5 · –<br><sub>o 53% · u 47%</sub> | 3.0<br><sub>0,2,2,3,5</sub> |  | 8.1<br><sub>7,10,8,11,8</sub> |  | 2.0<br><sub>4,0,4,2,3</sub> |  | 1.3 | 0.3 | 2.8 | 26.4 |
+| Bam Adebayo | 98% | 37.0<br><sub>31,41,33,34,37</sub> | 20.9<br><sub>16,35,18,18,11</sub> | 17.5 · –<br><sub>o 51% · u 49%</sub> | 10.0<br><sub>9,10,10,8,8</sub> |  | 3.8<br><sub>4,4,0,4,4</sub> |  | 1.6<br><sub>1,1,0,1,0</sub> | 0.5<br><sub>o 66% · u 34%</sub> | 1.7 | 0.9 | 2.0 | 34.7 |
+| Giannis Antetokounmpo | 98% | 36.1<br><sub>34,41,31,34,31</sub> | 30.2<br><sub>30,27,20,29,30</sub> | 28.5 · –<br><sub>o 49% · u 51%</sub> | 12.9<br><sub>12,14,14,14,11</sub> |  | 6.5<br><sub>7,6,4,3,4</sub> |  | 0.6<br><sub>0,0,1,0,1</sub> |  | 1.1 | 1.1 | 4.0 | 49.5 |
 | Andrew Wiggins | 98% | 29.0<br><sub>24,23,21,32,19</sub> | 11.8<br><sub>7,3,2,6,13</sub> |  | 4.0<br><sub>0,4,6,3,0</sub> |  | 1.8<br><sub>2,1,4,1,0</sub> |  | 1.7<br><sub>2,1,0,2,2</sub> |  | 0.9 | 1.0 | 1.3 | 17.6 |
 | Ryan Conwell | 88% | 24.7<br><sub>8,17,30,19,21</sub> | 8.1<br><sub>5,0,13,6,5</sub> |  | 2.6<br><sub>1,2,1,2,4</sub> |  | 2.0<br><sub>1,2,2,2,2</sub> |  | 1.3<br><sub>1,0,3,2,1</sub> |  | 0.9 | 0.1 | 1.0 | 12.7 |
 | Bobby Portis | 98% | 24.0<br><sub>18,18,14,20,17</sub> | 9.7<br><sub>2,4,0,4,5</sub> |  | 6.4<br><sub>3,10,5,1,1</sub> |  | 1.5<br><sub>2,5,0,1,1</sub> |  | 1.4<br><sub>0,0,0,1,1</sub> |  | 0.7 | 0.4 | 0.9 | 17.5 |
@@ -200,9 +200,9 @@ Out: Zach Edey (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Grant Nelson 
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.1–118.6 | BKN 27% | 3.67 / 1.37 | MEM -8.5 | 228.5 |  |
-| Expected (weighted by chance each plays) | 110.5–118.3 | BKN 29% | 3.49 / 1.40 | MEM -7.5 | 228.5 |  |
-| if Mikel Brown Jr. plays | 110.7–118.2 | BKN 30% | 3.38 / 1.42 | MEM -7.5 | 228.5 |  |
+| Confirmed players only | 110.1–118.6 | BKN 27% | 3.67 / 1.37 | MEM -8.5 | 228.5 | MEM -4.5 covers 62%; o226.5 55% |
+| Expected (weighted by chance each plays) | 110.5–118.3 | BKN 29% | 3.49 / 1.40 | MEM -7.5 | 228.5 | MEM -4.5 covers 60%; o226.5 54% |
+| if Mikel Brown Jr. plays | 110.7–118.2 | BKN 30% | 3.38 / 1.42 | MEM -7.5 | 228.5 | MEM -4.5 covers 59%; o226.5 55% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -292,9 +292,9 @@ Out: Donte DiVincenzo (MIN), Anthony Edwards (MIN), Tobe Awaka (CHI), Dailyn Swa
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 111.2–123.8 | CHI 19% | 5.40 / 1.23 | MIN -12.5 | 235.5 |  |
-| Expected (weighted by chance each plays) | 111.2–123.4 | CHI 19% | 5.23 / 1.24 | MIN -12.5 | 234.5 |  |
-| if Jalen Smith plays | 111.3–123.1 | CHI 20% | 5.02 / 1.25 | MIN -11.5 | 234.5 |  |
+| Confirmed players only | 111.2–123.8 | CHI 19% | 5.40 / 1.23 | MIN -12.5 | 235.5 | MIN -14.5 covers 45%; o236.5 47% |
+| Expected (weighted by chance each plays) | 111.2–123.4 | CHI 19% | 5.23 / 1.24 | MIN -12.5 | 234.5 | MIN -14.5 covers 44%; o236.5 46% |
+| if Jalen Smith plays | 111.3–123.1 | CHI 20% | 5.02 / 1.25 | MIN -11.5 | 234.5 | MIN -14.5 covers 43%; o236.5 46% |
 
 **Questionable players: chance to play, and their projection if they do**
 

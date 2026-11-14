@@ -1,3 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DEN @ NOP,DEN win + game under 234.5,2,0.3266,0.4114,2.43,2.55,2.25,-0.0734,1.011,2.10-2.50
 DEN @ NOP,DEN win + game over 234.5,2,0.4382,0.404,2.48,2.6,2.25,-0.0901,0.992,2.10-2.50
+DET @ MIA,MIA +4.5 + Davion Mitchell 10+ pts,2,0.3901,0.3858,2.59,2.72,2.46,-0.0523,1.046,2.10-2.50
+DET @ MIA,game over 228.5 + Davion Mitchell 10+ pts,2,0.473,0.3831,2.61,2.74,2.47,-0.0546,1.044,2.10-2.50
+DET @ MIA,Bam Adebayo 18+ pts + Davion Mitchell 10+ pts,2,0.5166,0.3867,2.59,2.72,2.4,-0.0703,1.014,2.10-2.50
+DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 10+ pts,2,0.6439,0.4951,2.02,2.12,1.85,-0.0828,1.003,1.85-2.10
+DET @ MIA,MIA +4.5 + Bam Adebayo 10+ pts,2,0.4351,0.4371,2.29,2.4,2.09,-0.0843,1.014,1.85-2.10
+DET @ MIA,Bam Adebayo 18+ pts + Davion Mitchell 1+ 3pm,2,0.5494,0.4345,2.3,2.42,2.09,-0.0899,1.002,1.85-2.10
+DET @ MIA,DET win + Bam Adebayo 10+ pts,2,0.6156,0.5446,1.84,1.93,1.66,-0.0974,0.993,1.65-1.85
+DET @ MIA,DET win + Davion Mitchell 1+ 3pm,2,0.5738,0.5279,1.89,1.99,1.69,-0.1063,0.989,1.65-1.85
+CHI @ MIN,MIN win + game under 236.5,2,0.4412,0.4354,2.3,2.41,2.12,-0.0778,1.005,2.10-2.50
+CHI @ MIN,MIN win + game over 236.5,2,0.3674,0.423,2.36,2.48,2.16,-0.0884,0.994,2.10-2.50
