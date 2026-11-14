@@ -1,16 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 UTA @ HOU,Darryn Peterson pts under 18.5 + HOU win,2,0.6457,0.4721,2.12,2.22,2.14,0.0092,1.015,2.10-2.50
 UTA @ HOU,Keyonte George pts under 20.5 + HOU win,2,0.5146,0.4554,2.2,2.31,2.19,-0.0027,1.02,2.10-2.50
-UTA @ HOU,Amen Thompson 17+ pts + HOU win,2,0.4582,0.4392,2.28,2.39,2.24,-0.014,1.02,2.10-2.50
-UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6466,0.4812,2.08,2.18,2.0,-0.0376,1.017,1.85-2.10
-UTA @ HOU,Darryn Peterson pra under 26.5 + HOU win,2,0.6406,0.4798,2.08,2.19,2.0,-0.0404,1.015,1.85-2.10
-UTA @ HOU,Darryn Peterson pr under 22.5 + HOU win,2,0.6392,0.4849,2.06,2.17,1.97,-0.0442,1.014,1.85-2.10
-UTA @ HOU,Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,2,0.715,0.5938,1.68,1.77,1.51,-0.101,0.999,1.50-1.65
-UTA @ HOU,HOU win + Jaxson Hayes 10+ pra + Jabari Smith Jr. 10+ pts,3,0.7041,0.5731,1.74,1.83,1.52,-0.1269,1.006,1.50-1.65
-UTA @ HOU,HOU win + Isaiah Collier 5+ pr + Jabari Smith Jr. 10+ pts,3,0.6751,0.5467,1.83,1.92,1.59,-0.1286,1.004,1.50-1.65
-UTA @ HOU,HOU win + Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,3,0.6408,0.519,1.93,2.02,1.66,-0.1396,0.991,1.65-1.85
-UTA @ HOU,Isaiah Collier 5+ pr + Jaxson Hayes 10+ pra + Jabari Smith Jr. 10+ pts,3,0.6718,0.5059,1.98,2.08,1.7,-0.1397,1.007,1.65-1.85
-UTA @ HOU,Isaiah Collier 5+ pr + Jaxson Hayes 10+ pra + Svi Mykhailiuk 5+ pra,3,0.643,0.4843,2.06,2.17,1.77,-0.1434,1.003,1.65-1.85
+UTA @ HOU,Amen Thompson 17+ pts + HOU win,2,0.4582,0.4441,2.25,2.36,2.24,-0.003,1.02,2.10-2.50
+UTA @ HOU,Kevin Durant 25+ pa + HOU win,2,0.5831,0.4766,2.1,2.2,2.06,-0.0203,1.02,1.85-2.10
+UTA @ HOU,Darryn Peterson pts under 18.5 + Alperen Sengun 15+ pr,2,0.6909,0.4829,2.07,2.17,2.02,-0.0268,0.999,1.85-2.10
+UTA @ HOU,Darryn Peterson pts under 18.5 + Brice Sensabaugh 5+ pra,2,0.681,0.4754,2.1,2.21,2.05,-0.0275,0.998,1.85-2.10
+UTA @ HOU,HOU win + Jaxson Hayes 10+ pra + Jabari Smith Jr. 10+ pts,3,0.7041,0.5733,1.74,1.83,1.52,-0.127,1.006,1.50-1.65
+UTA @ HOU,HOU win + Isaiah Collier 5+ pr + Jabari Smith Jr. 10+ pts,3,0.6751,0.5486,1.82,1.91,1.59,-0.1291,1.004,1.50-1.65
+UTA @ HOU,HOU win + Isaiah Collier 5+ pr + Jaxson Hayes 10+ pra,3,0.6955,0.5534,1.81,1.9,1.57,-0.1317,0.997,1.50-1.65
+UTA @ HOU,Isaiah Collier 5+ pr + Jaxson Hayes 10+ pra + Jabari Smith Jr. 10+ pts,3,0.6718,0.5061,1.98,2.07,1.7,-0.1398,1.007,1.65-1.85
 GSW @ SAS,De'Anthony Melton pa under 15.5 + SAS win,2,0.427,0.4547,2.2,2.31,2.11,-0.0389,1.044,2.10-2.50
 GSW @ SAS,SAS win + De'Anthony Melton pts under 12.5,2,0.4268,0.4594,2.18,2.29,2.09,-0.0396,1.045,1.85-2.10
 GSW @ SAS,SAS win + De'Anthony Melton pra under 19.5,2,0.4183,0.4498,2.22,2.33,2.13,-0.0422,1.042,2.10-2.50
@@ -35,15 +33,15 @@ POR @ SAC,Sidy Cissoko 3pm under 1.5 + Toumani Camara 10+ pra,2,0.6466,0.5066,1.
 POR @ SAC,Toumani Camara 10+ pa + Domantas Sabonis 15+ pa,2,0.6675,0.5684,1.76,1.85,1.58,-0.1003,1.004,1.50-1.65
 POR @ SAC,Toumani Camara 10+ pa + De'Andre Hunter 10+ pa,2,0.6964,0.5962,1.68,1.76,1.51,-0.1014,1.004,1.50-1.65
 POR @ SAC,POR win + Toumani Camara 10+ pa + Scoot Henderson 10+ pra,3,0.546,0.4932,2.03,2.13,1.82,-0.1043,1.028,1.65-1.85
-OKC @ LAC,Max Strus 3pm under 2.5 + OKC win,2,0.4952,0.4365,2.29,2.41,2.25,-0.0187,1.024,2.10-2.50
-OKC @ LAC,OKC win + Max Strus pra under 16.5,2,0.4123,0.3982,2.51,2.64,2.46,-0.0213,1.04,2.10-2.50
-OKC @ LAC,OKC -7.5 + Jared McCain 10+ pts,2,0.3312,0.395,2.53,2.66,2.44,-0.0374,1.047,2.10-2.50
-OKC @ LAC,OKC win + Jared McCain 10+ pts,2,0.498,0.5508,1.82,1.91,1.72,-0.0513,1.033,1.65-1.85
-OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.536,0.5814,1.72,1.81,1.61,-0.064,1.016,1.50-1.65
-OKC @ LAC,game over 222.5 + Derrick Jones Jr. 5+ pa,2,0.4902,0.4565,2.19,2.3,2.05,-0.0662,1.017,1.85-2.10
-OKC @ LAC,Max Strus 3pm under 2.5 + Alex Caruso 5+ pa,2,0.7412,0.5041,1.98,2.08,1.85,-0.0663,0.999,1.85-2.10
-OKC @ LAC,OKC win + Alex Caruso 5+ pa,2,0.5717,0.595,1.68,1.76,1.57,-0.0664,1.006,1.50-1.65
-OKC @ LAC,Max Strus 3pm under 2.5 + Kobe Sanders 5+ pa,2,0.7282,0.5078,1.97,2.07,1.83,-0.0707,0.999,1.65-1.85
-OKC @ LAC,Max Strus 3pm under 2.5 + Kobe Sanders 5+ pr,2,0.7382,0.5173,1.93,2.03,1.8,-0.0713,0.999,1.65-1.85
-OKC @ LAC,game over 222.5 + Kobe Sanders 5+ pra,2,0.5003,0.4576,2.19,2.29,2.03,-0.0722,1.008,1.85-2.10
-OKC @ LAC,OKC win + Kobe Sanders 5+ pr,2,0.561,0.6016,1.66,1.75,1.52,-0.0851,0.991,1.50-1.65
+OKC @ LAC,OKC win + Alex Caruso 7+ pts,2,0.4302,0.4018,2.49,2.61,2.44,-0.0189,1.036,2.10-2.50
+OKC @ LAC,Max Strus 3pm under 2.5 + OKC win,2,0.4952,0.44,2.27,2.39,2.23,-0.0203,1.024,2.10-2.50
+OKC @ LAC,OKC -7.5 + Jared McCain 10+ pts,2,0.3312,0.3952,2.53,2.66,2.44,-0.0375,1.047,2.10-2.50
+OKC @ LAC,OKC win + Jared McCain 10+ pts,2,0.498,0.551,1.81,1.91,1.72,-0.0514,1.033,1.65-1.85
+OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.536,0.5837,1.71,1.8,1.6,-0.0646,1.016,1.50-1.65
+OKC @ LAC,game over 222.5 + Derrick Jones Jr. 5+ pa,2,0.4902,0.4544,2.2,2.31,2.06,-0.0655,1.017,1.85-2.10
+OKC @ LAC,OKC win + Alex Caruso 5+ pa,2,0.5717,0.5982,1.67,1.76,1.56,-0.0673,1.006,1.50-1.65
+OKC @ LAC,Max Strus 3pm under 2.5 + Alex Caruso 5+ pa,2,0.7412,0.5109,1.96,2.06,1.82,-0.0687,0.999,1.65-1.85
+OKC @ LAC,game over 222.5 + Kobe Sanders 5+ pra,2,0.5003,0.4607,2.17,2.28,2.01,-0.0732,1.008,1.85-2.10
+OKC @ LAC,Max Strus 3pm under 2.5 + Kobe Sanders 5+ pa,2,0.7282,0.5166,1.94,2.03,1.79,-0.0738,0.999,1.65-1.85
+OKC @ LAC,Brook Lopez reb under 5.5 + Alex Caruso 5+ pa,2,0.6524,0.4666,2.14,2.25,1.98,-0.0764,0.999,1.85-2.10
+OKC @ LAC,OKC win + Kobe Sanders 5+ pr,2,0.561,0.6061,1.65,1.73,1.51,-0.0862,0.991,1.50-1.65
