@@ -42,7 +42,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909981,CLE,1630241,Sam Merrill,Out,Merrill (elbow) is listed as out for Wednesday's game against the Knicks.,0.0,Merrill (elbow) is listed as out for Wednesday's game against the Knicks.,,
 401909981,CLE,1642434,Riley Minix,,,1.0,,,
 401909981,CLE,1628378,Donovan Mitchell,,,1.0,,,
-401909981,CLE,1630596,Evan Mobley,Out,Mobley (toe) is out for Friday's game against the Heat.,0.0,Mobley (toe) is out for Friday's game against the Heat.,,
+401909981,CLE,1630596,Evan Mobley,Day-To-Day,Mobley (toe) is out for Friday's game against the Heat.,0.7,Mobley (toe) is out for Friday's game against the Heat.,,
 401909981,CLE,1641807,Norchad Omier,,,1.0,,,
 401909981,CLE,1641854,Craig Porter Jr.,,,1.0,,,
 401909981,CLE,1642878,Tyrese Proctor,,,1.0,,,
