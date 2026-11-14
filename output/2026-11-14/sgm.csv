@@ -3,26 +3,26 @@ DEN @ NOP,DEN win + Jeremiah Fears pa under 24.5,2,0.4762,0.4234,2.36,2.48,2.29,
 DEN @ NOP,DEN win + Jeremiah Fears pra under 29.5,2,0.4763,0.426,2.35,2.46,2.27,-0.032,1.045,2.10-2.50
 DEN @ NOP,DEN win + Jeremiah Fears pts under 18.5,2,0.4866,0.4311,2.32,2.44,2.24,-0.0332,1.042,2.10-2.50
 DEN @ NOP,game over 234.5 + Christian Braun 10+ pr,2,0.5408,0.449,2.23,2.34,2.06,-0.073,1.021,1.85-2.10
+DEN @ NOP,game over 234.5 + Saddiq Bey 10+ pts,2,0.5398,0.4598,2.18,2.28,2.01,-0.0748,1.023,1.85-2.10
 DEN @ NOP,game over 234.5 + Cameron Johnson 10+ pr,2,0.5273,0.4438,2.25,2.37,2.08,-0.0751,1.021,1.85-2.10
-DEN @ NOP,Herbert Jones 2+ ast + Saddiq Bey 15+ pa,2,0.5707,0.4428,2.26,2.37,2.08,-0.0796,1.006,1.85-2.10
-DEN @ NOP,Herbert Jones 2+ ast + Cameron Johnson 10+ pra,2,0.657,0.5136,1.95,2.04,1.78,-0.0848,1.001,1.65-1.85
+DEN @ NOP,Herbert Jones 2+ ast + Saddiq Bey 10+ pts,2,0.6354,0.4993,2.0,2.1,1.84,-0.0836,1.003,1.65-1.85
+DEN @ NOP,Herbert Jones 2+ ast + Cameron Johnson 10+ pra,2,0.657,0.5118,1.95,2.05,1.79,-0.0844,1.001,1.65-1.85
 DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pra,2,0.6683,0.5204,1.92,2.02,1.76,-0.0867,0.999,1.65-1.85
-DEN @ NOP,Herbert Jones 5+ ra + Christian Braun 10+ pr,2,0.624,0.4963,2.02,2.12,1.83,-0.0898,1.002,1.65-1.85
 DEN @ NOP,Herbert Jones 10+ pra + Zion Williamson 4+ reb,2,0.688,0.597,1.67,1.76,1.5,-0.1017,1.006,1.50-1.65
-DEN @ NOP,Herbert Jones 10+ pra + Saddiq Bey 15+ pa,2,0.6758,0.5856,1.71,1.79,1.53,-0.103,1.004,1.50-1.65
+DEN @ NOP,Herbert Jones 10+ pra + Cameron Johnson 10+ pa,2,0.6886,0.5939,1.68,1.77,1.51,-0.1062,1.0,1.50-1.65
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.6092,0.5567,1.8,1.89,1.58,-0.1199,1.022,1.50-1.65
-DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.3953,0.3937,2.54,2.67,2.43,-0.0445,1.035,2.10-2.50
-DAL @ CLE,CLE win + Donovan Mitchell 2+ 3pm,2,0.4392,0.3891,2.57,2.7,2.45,-0.0463,1.013,2.10-2.50
-DAL @ CLE,CLE win + James Harden 15+ pa,2,0.4994,0.461,2.17,2.28,2.07,-0.0469,1.019,1.85-2.10
-DAL @ CLE,CLE win + James Harden 10+ pts,2,0.494,0.4521,2.21,2.32,2.1,-0.0496,1.015,2.10-2.50
-DAL @ CLE,CLE win + Donovan Mitchell 20+ pra,2,0.5135,0.472,2.12,2.22,2.0,-0.0548,1.01,1.85-2.10
-DAL @ CLE,CLE win + James Harden 1+ 3pm,2,0.4987,0.4597,2.18,2.28,2.05,-0.0559,1.01,1.85-2.10
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pr,2,0.6799,0.5106,1.96,2.06,1.79,-0.0842,1.0,1.65-1.85
-DAL @ CLE,Cooper Flagg ast under 6.5 + James Harden 1+ 3pm,2,0.6343,0.5025,1.99,2.09,1.81,-0.0899,1.002,1.65-1.85
-DAL @ CLE,Cooper Flagg ra under 13.5 + Donovan Mitchell 20+ pra,2,0.6314,0.4957,2.02,2.12,1.84,-0.0901,1.0,1.65-1.85
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7082,0.5621,1.78,1.87,1.62,-0.0922,1.0,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Peyton Watson 10+ pra,2,0.7106,0.5609,1.78,1.87,1.62,-0.0923,0.999,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 20+ pra,2,0.7095,0.5613,1.78,1.87,1.62,-0.0923,0.999,1.50-1.65
+DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.3953,0.3973,2.52,2.64,2.43,-0.0357,1.035,2.10-2.50
+DAL @ CLE,CLE win + Donovan Mitchell 2+ 3pm,2,0.4392,0.3856,2.59,2.72,2.45,-0.0547,1.013,2.10-2.50
+DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr,2,0.4334,0.4142,2.41,2.53,2.28,-0.0549,1.006,2.10-2.50
+DAL @ CLE,CLE win + James Harden 15+ pa,2,0.4994,0.4569,2.19,2.3,2.07,-0.0553,1.019,1.85-2.10
+DAL @ CLE,DAL win + P.J. Washington 10+ pr,2,0.4519,0.4572,2.19,2.3,2.05,-0.0622,1.008,1.85-2.10
+DAL @ CLE,CLE win + Donovan Mitchell 20+ pra,2,0.5135,0.4672,2.14,2.25,2.01,-0.063,1.01,1.85-2.10
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pr,2,0.6799,0.5044,1.98,2.08,1.82,-0.082,1.0,1.65-1.85
+DAL @ CLE,Cooper Flagg ast under 6.5 + James Harden 1+ 3pm,2,0.6343,0.4951,2.02,2.12,1.84,-0.0873,1.002,1.65-1.85
+DAL @ CLE,Cooper Flagg ast under 6.5 + Donovan Mitchell 20+ pra,2,0.6521,0.5078,1.97,2.07,1.8,-0.0879,1.001,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 20+ pra,2,0.7095,0.5545,1.8,1.89,1.64,-0.0902,0.999,1.50-1.65
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Peyton Watson 10+ pra,2,0.7106,0.5545,1.8,1.89,1.64,-0.0902,0.999,1.50-1.65
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7082,0.556,1.8,1.89,1.64,-0.0902,1.0,1.50-1.65
 DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4515,0.4029,2.48,2.61,2.35,-0.0529,1.046,2.10-2.50
 DET @ MIA,game over 229.5 + Ausar Thompson 10+ pa,2,0.4552,0.4067,2.46,2.58,2.31,-0.0598,1.038,2.10-2.50
 DET @ MIA,DET win + Ausar Thompson 10+ pa,2,0.5945,0.5084,1.97,2.07,1.83,-0.0671,1.017,1.65-1.85
@@ -44,11 +44,9 @@ BKN @ MEM,MEM -4.5 + Ty Jerome 1+ 3pm,2,0.5617,0.449,2.23,2.34,2.06,-0.0728,1.00
 BKN @ MEM,Egor Demin pts under 11.5 + Ty Jerome 1+ 3pm,2,0.6399,0.4621,2.16,2.27,2.01,-0.0733,1.002,1.85-2.10
 BKN @ MEM,MEM -4.5 + Julius Randle 4+ reb,2,0.5316,0.4254,2.35,2.47,2.17,-0.0785,1.001,2.10-2.50
 BKN @ MEM,Egor Demin pts under 11.5 + Julius Randle 4+ reb,2,0.6052,0.4376,2.29,2.4,2.1,-0.0793,0.995,2.10-2.50
-CHI @ MIN,game over 235.5 + MIN win,2,0.4187,0.4311,2.32,2.44,2.25,-0.0313,0.995,2.10-2.50
 CHI @ MIN,Matas Buzelis pts under 16.5 + MIN win,2,0.5669,0.47,2.13,2.23,2.06,-0.0318,1.027,1.85-2.10
 CHI @ MIN,MIN win + Norman Powell pts under 21.5,2,0.5253,0.441,2.27,2.38,2.19,-0.0326,1.029,2.10-2.50
-CHI @ MIN,game over 235.5 + LaMelo Ball 2+ 3pm,2,0.4583,0.4212,2.37,2.49,2.29,-0.0356,1.015,2.10-2.50
+CHI @ MIN,game over 235.5 + MIN win,2,0.4187,0.4293,2.33,2.45,2.25,-0.0353,0.995,2.10-2.50
+CHI @ MIN,game under 235.5 + MIN win,2,0.412,0.4339,2.3,2.42,2.21,-0.0393,1.005,2.10-2.50
 CHI @ MIN,MIN win + Josh Giddey ast under 9.5,2,0.5879,0.5018,1.99,2.09,1.91,-0.042,1.022,1.85-2.10
-CHI @ MIN,MIN win + Matas Buzelis 3pm under 2.5,2,0.6333,0.5514,1.81,1.9,1.71,-0.0545,1.013,1.65-1.85
-CHI @ MIN,MIN win + Jaden McDaniels reb under 6.5,2,0.5591,0.4846,2.06,2.17,1.92,-0.0695,0.996,1.85-2.10
-CHI @ MIN,Matas Buzelis 3pm under 2.5 + LaMelo Ball 2+ 3pm,2,0.6723,0.5225,1.91,2.01,1.75,-0.087,1.002,1.65-1.85
+CHI @ MIN,MIN win + Jaden McDaniels reb under 6.5,2,0.5591,0.4784,2.09,2.19,1.95,-0.0672,0.996,1.85-2.10
