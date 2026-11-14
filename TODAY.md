@@ -1,6 +1,6 @@
 # NBA model · Fri 13 Nov 2026 (US date)
 
-Updated **Sat 14 Nov, 11:51 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-13/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 14 Nov, 11:56 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-13/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -22,20 +22,20 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kevin Durant PA over 44.5 (45+) | UTA @ HOU | draftkings | 26.00 | 22.47 | 9.91 | 10.1% | 3.6% | 4.5% | +15.8% | +162.3% | 0.2% |
+| Kevin Durant PA over 44.5 (45+) | UTA @ HOU | draftkings | 27.00 | 23.04 | 9.91 | 10.1% | 3.5% | 4.3% | +17.1% | +172.4% | 0.2% |
+| Kevin Durant PA over 39.5 (40+) | UTA @ HOU | draftkings | 14.80 | 12.64 | 5.44 | 18.4% | 6.3% | 7.9% | +17.0% | +172.1% | 0.3% |
 | Kevin Durant PRA over 49.5 (50+) | UTA @ HOU | draftkings | 20.20 | 17.48 | 7.73 | 12.9% | 4.6% | 5.7% | +15.6% | +161.3% | 0.2% |
 | Kevin Durant PTS over 39.5 (40+) | UTA @ HOU | draftkings | 28.00 | 24.39 | 11.01 | 9.1% | 3.3% | 4.1% | +14.7% | +154.3% | 0.1% |
-| Kevin Durant PA over 39.5 (40+) | UTA @ HOU | draftkings | 13.80 | 12.03 | 5.44 | 18.4% | 6.8% | 8.3% | +14.6% | +153.7% | 0.3% |
 | UTA to win | UTA @ HOU | betfair_ex_au | 9.55 | 8.41 | 10.36 | 9.7% | 11.9% | 11.9% | +13.6% | -7.8% | 0.4% |
 | Myron Gardner REB over 9.5 (10+) | CLE @ MIA | draftkings | 20.20 | 17.79 | 8.23 | 12.1% | 4.6% | 5.6% | +13.5% | +145.3% | 0.2% |
+| Kevin Durant PR over 44.5 (45+) | UTA @ HOU | draftkings | 20.00 | 17.76 | 8.38 | 11.9% | 4.7% | 5.6% | +12.6% | +138.7% | 0.2% |
 | Kevin Durant PRA over 44.5 (45+) | UTA @ HOU | draftkings | 10.50 | 9.33 | 4.41 | 22.7% | 8.9% | 10.7% | +12.5% | +137.8% | 0.3% |
 | Karlo Matkovic PRA over 24.5 (25+) | MEM @ NOP | draftkings | 14.60 | 13.00 | 6.18 | 16.2% | 6.4% | 7.7% | +12.3% | +136.3% | 0.2% |
 | Kevin Durant PTS over 34.5 (35+) | UTA @ HOU | draftkings | 13.40 | 11.99 | 5.78 | 17.3% | 7.0% | 8.3% | +11.7% | +131.8% | 0.2% |
-| Kevin Durant PR over 44.5 (45+) | UTA @ HOU | draftkings | 18.80 | 16.98 | 8.38 | 11.9% | 5.0% | 5.9% | +10.7% | +124.4% | 0.1% |
+| Kevin Durant PR over 39.5 (40+) | UTA @ HOU | draftkings | 10.30 | 9.34 | 4.66 | 21.5% | 9.1% | 10.7% | +10.3% | +121.2% | 0.3% |
 | Karlo Matkovic PTS over 14.5 (15+) | MEM @ NOP | draftkings | 11.00 | 9.99 | 5.01 | 20.0% | 8.5% | 10.0% | +10.1% | +119.8% | 0.2% |
 | Karlo Matkovic PR over 24.5 (25+) | MEM @ NOP | draftkings | 19.40 | 17.64 | 8.87 | 11.3% | 4.8% | 5.7% | +10.0% | +118.7% | 0.1% |
 | Kevin Durant AST over 7.5 (8+) | UTA @ HOU | draftkings | 13.80 | 12.64 | 6.51 | 15.4% | 6.8% | 7.9% | +9.1% | +112.0% | 0.2% |
-| Kevin Durant PR over 39.5 (40+) | UTA @ HOU | draftkings | 9.60 | 8.86 | 4.66 | 21.5% | 9.7% | 11.3% | +8.3% | +106.2% | 0.2% |
 | Myron Gardner REB over 7.5 (8+) | CLE @ MIA | draftkings | 7.40 | 6.87 | 3.67 | 27.3% | 12.6% | 14.6% | +7.8% | +101.9% | 0.3% |
 | Scoot Henderson AST over 5.5 (6+) | POR @ SAC | draftkings | 15.80 | 14.68 | 7.89 | 12.7% | 5.9% | 6.8% | +7.5% | +100.2% | 0.1% |
 | Cam Spencer AST over 9.5 (10+) | MEM @ NOP | draftkings | 22.00 | 20.62 | 11.34 | 8.8% | 4.2% | 4.9% | +6.7% | +94.0% | 0.1% |
