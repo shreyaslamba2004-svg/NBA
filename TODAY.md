@@ -1,6 +1,6 @@
 # NBA model · Fri 13 Nov 2026 (US date)
 
-Updated **Sat 14 Nov, 12:21 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-13/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 14 Nov, 12:26 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-13/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -23,10 +23,10 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | UTA to win | UTA @ HOU | betfair_ex_au | 9.55 | 8.41 | 10.36 | 9.7% | 11.9% | 11.9% | +13.6% | -7.8% | 0.4% |
-| Kevin Durant PA over 39.5 (40+) | UTA @ HOU | draftkings | 14.80 | 13.61 | 7.06 | 14.2% | 6.3% | 7.3% | +8.8% | +109.6% | 0.2% |
 | Kevin Durant AST over 7.5 (8+) | UTA @ HOU | draftkings | 14.40 | 13.25 | 6.88 | 14.5% | 6.5% | 7.5% | +8.8% | +109.3% | 0.2% |
+| Kevin Durant PA over 39.5 (40+) | UTA @ HOU | draftkings | 14.40 | 13.33 | 7.06 | 14.2% | 6.5% | 7.5% | +8.0% | +103.9% | 0.1% |
 | Scoot Henderson AST over 5.5 (6+) | POR @ SAC | draftkings | 15.80 | 14.68 | 7.89 | 12.7% | 5.9% | 6.8% | +7.5% | +100.2% | 0.1% |
-| Kevin Durant PA over 44.5 (45+) | UTA @ HOU | draftkings | 27.00 | 25.19 | 13.65 | 7.3% | 3.5% | 4.0% | +7.2% | +97.8% | 0.1% |
+| Kevin Durant PA over 44.5 (45+) | UTA @ HOU | draftkings | 26.00 | 24.45 | 13.65 | 7.3% | 3.6% | 4.1% | +6.3% | +90.5% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
