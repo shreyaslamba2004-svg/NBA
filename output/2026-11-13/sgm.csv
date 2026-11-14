@@ -2,15 +2,15 @@ matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,
 UTA @ HOU,Darryn Peterson pts under 18.5 + HOU win,2,0.6337,0.4717,2.12,2.23,2.14,0.0084,1.018,2.10-2.50
 UTA @ HOU,Amen Thompson 17+ pts + HOU win,2,0.4825,0.4465,2.24,2.35,2.24,0.0023,1.018,2.10-2.50
 UTA @ HOU,Keyonte George pts under 20.5 + HOU win,2,0.5062,0.4563,2.19,2.3,2.19,-0.0006,1.025,2.10-2.50
-UTA @ HOU,Kevin Durant 25+ pa + HOU win,2,0.6329,0.481,2.08,2.18,2.06,-0.0112,1.015,1.85-2.10
-UTA @ HOU,Kevin Durant 27+ pr + HOU win,2,0.6057,0.4718,2.12,2.23,2.07,-0.0222,1.015,1.85-2.10
 UTA @ HOU,Darryn Peterson pts under 18.5 + Brice Sensabaugh 5+ pra,2,0.6681,0.4741,2.11,2.21,2.05,-0.0303,0.999,1.85-2.10
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts,3,0.695,0.5567,1.8,1.89,1.59,-0.114,1.019,1.50-1.65
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Amen Thompson 15+ pa,3,0.6696,0.5498,1.82,1.91,1.61,-0.1161,1.02,1.50-1.65
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Amen Thompson 20+ pra,3,0.7011,0.576,1.74,1.82,1.53,-0.1199,1.016,1.50-1.65
-UTA @ HOU,Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts + Amen Thompson 15+ pa,3,0.6444,0.4942,2.02,2.12,1.74,-0.1392,1.011,1.65-1.85
-UTA @ HOU,Kevin Durant 20+ pa + Jaxson Hayes 10+ pra + Amen Thompson 15+ pa,3,0.6533,0.5,2.0,2.1,1.72,-0.1392,1.01,1.65-1.85
-UTA @ HOU,Kevin Durant 20+ pa + Jaxson Hayes 10+ pra + Jabari Smith Jr. 10+ pts,3,0.6763,0.505,1.98,2.08,1.7,-0.1395,1.006,1.65-1.85
+UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6321,0.4745,2.11,2.21,2.03,-0.0363,1.02,1.85-2.10
+UTA @ HOU,Tari Eason 9+ pts + HOU win,2,0.5775,0.4702,2.13,2.23,2.05,-0.0373,1.013,1.85-2.10
+UTA @ HOU,HOU win + Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts,3,0.695,0.5435,1.84,1.93,1.64,-0.1102,1.019,1.50-1.65
+UTA @ HOU,HOU win + Kevin Durant 20+ pa + Amen Thompson 20+ pra,3,0.7011,0.5646,1.77,1.86,1.56,-0.1169,1.016,1.50-1.65
+UTA @ HOU,HOU win + Kevin Durant 20+ pa + Isaiah Collier 5+ pr,3,0.6775,0.5216,1.92,2.01,1.69,-0.1201,1.005,1.65-1.85
+UTA @ HOU,HOU win + Kevin Durant 20+ pa + Jaxson Hayes 10+ pra,3,0.696,0.5431,1.84,1.93,1.62,-0.1211,1.006,1.50-1.65
+UTA @ HOU,Kevin Durant 20+ pa + Jaxson Hayes 10+ pra + Jabari Smith Jr. 10+ pts,3,0.6763,0.493,2.03,2.13,1.75,-0.1358,1.006,1.65-1.85
+UTA @ HOU,Kevin Durant 20+ pa + Isaiah Collier 5+ pr + Jaxson Hayes 10+ pra,3,0.6666,0.4784,2.09,2.19,1.81,-0.1359,1.003,1.65-1.85
 GSW @ SAS,De'Anthony Melton pa under 15.5 + SAS win,2,0.427,0.4547,2.2,2.31,2.11,-0.0389,1.044,2.10-2.50
 GSW @ SAS,SAS win + De'Anthony Melton pts under 12.5,2,0.4268,0.4594,2.18,2.29,2.09,-0.0396,1.045,1.85-2.10
 GSW @ SAS,SAS win + De'Anthony Melton pra under 19.5,2,0.4183,0.4498,2.22,2.33,2.13,-0.0422,1.042,2.10-2.50
