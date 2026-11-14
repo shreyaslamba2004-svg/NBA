@@ -1,6 +1,6 @@
 # NBA model · Fri 13 Nov 2026 (US date)
 
-Updated **Sat 14 Nov, 11:21 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-13/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 14 Nov, 11:26 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-13/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -18,23 +18,23 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kevin Durant PA over 44.5 (45+) | UTA @ HOU | draftkings | 25.00 | 21.83 | 9.91 | 10.1% | 3.7% | 4.6% | +14.4% | +152.2% | 0.1% |
+| Kevin Durant PA over 44.5 (45+) | UTA @ HOU | draftkings | 26.00 | 22.47 | 9.91 | 10.1% | 3.6% | 4.5% | +15.8% | +162.3% | 0.2% |
+| Kevin Durant PA over 39.5 (40+) | UTA @ HOU | draftkings | 13.80 | 12.03 | 5.44 | 18.4% | 6.8% | 8.3% | +14.6% | +153.7% | 0.3% |
 | Kevin Durant PRA over 49.5 (50+) | UTA @ HOU | draftkings | 19.20 | 16.86 | 7.73 | 12.9% | 4.9% | 5.9% | +13.9% | +148.4% | 0.2% |
 | UTA to win | UTA @ HOU | betfair_ex_au | 9.55 | 8.41 | 10.36 | 9.7% | 11.9% | 11.9% | +13.6% | -7.8% | 0.4% |
 | Kevin Durant PTS over 39.5 (40+) | UTA @ HOU | draftkings | 27.00 | 23.81 | 11.01 | 9.1% | 3.5% | 4.2% | +13.5% | +145.2% | 0.1% |
-| Kevin Durant PA over 39.5 (40+) | UTA @ HOU | draftkings | 13.20 | 11.67 | 5.44 | 18.4% | 7.1% | 8.6% | +13.2% | +142.7% | 0.3% |
 | Kevin Durant PRA over 44.5 (45+) | UTA @ HOU | draftkings | 10.00 | 9.01 | 4.41 | 22.7% | 9.3% | 11.1% | +11.0% | +126.5% | 0.3% |
 | Derik Queen PRA over 34.5 (35+) | MEM @ NOP | draftkings | 16.00 | 14.43 | 7.09 | 14.1% | 5.8% | 6.9% | +10.9% | +125.6% | 0.2% |
+| Kevin Durant PR over 44.5 (45+) | UTA @ HOU | draftkings | 18.80 | 16.98 | 8.38 | 11.9% | 5.0% | 5.9% | +10.7% | +124.4% | 0.1% |
 | Bam Adebayo PTS over 34.5 (35+) | CLE @ MIA | draftkings | 29.00 | 26.32 | 13.15 | 7.6% | 3.2% | 3.8% | +10.2% | +120.5% | 0.1% |
 | Kevin Durant PTS over 34.5 (35+) | UTA @ HOU | draftkings | 12.60 | 11.47 | 5.78 | 17.3% | 7.4% | 8.7% | +9.9% | +118.0% | 0.2% |
-| Kevin Durant PR over 44.5 (45+) | UTA @ HOU | draftkings | 18.20 | 16.58 | 8.38 | 11.9% | 5.1% | 6.0% | +9.8% | +117.2% | 0.1% |
 | Bam Adebayo PTS over 29.5 (30+) | CLE @ MIA | draftkings | 13.00 | 11.86 | 6.04 | 16.6% | 7.2% | 8.4% | +9.6% | +115.4% | 0.2% |
 | Cam Spencer AST over 9.5 (10+) | MEM @ NOP | draftkings | 22.00 | 20.12 | 10.27 | 9.7% | 4.2% | 5.0% | +9.4% | +114.3% | 0.1% |
 | Kevin Durant AST over 7.5 (8+) | UTA @ HOU | draftkings | 13.80 | 12.64 | 6.51 | 15.4% | 6.8% | 7.9% | +9.1% | +112.0% | 0.2% |
+| Kevin Durant PR over 39.5 (40+) | UTA @ HOU | draftkings | 9.60 | 8.86 | 4.66 | 21.5% | 9.7% | 11.3% | +8.3% | +106.2% | 0.2% |
 | Scoot Henderson AST over 5.5 (6+) | POR @ SAC | draftkings | 16.20 | 14.97 | 7.89 | 12.7% | 5.8% | 6.7% | +8.2% | +105.2% | 0.1% |
 | Derik Queen PRA over 29.5 (30+) | MEM @ NOP | draftkings | 7.20 | 6.68 | 3.58 | 28.0% | 13.0% | 15.0% | +7.7% | +101.4% | 0.3% |
 | Zion Williamson PA over 39.5 (40+) | MEM @ NOP | draftkings | 16.40 | 15.29 | 8.31 | 12.0% | 5.7% | 6.5% | +7.2% | +97.4% | 0.1% |
-| Kevin Durant PR over 39.5 (40+) | UTA @ HOU | draftkings | 9.00 | 8.44 | 4.66 | 21.5% | 10.4% | 11.8% | +6.6% | +93.3% | 0.2% |
 | Cam Spencer AST over 7.5 (8+) | MEM @ NOP | draftkings | 8.50 | 7.97 | 4.40 | 22.7% | 11.0% | 12.5% | +6.6% | +93.1% | 0.2% |
 | Derik Queen PTS over 24.5 (25+) | MEM @ NOP | draftkings | 29.00 | 27.47 | 15.65 | 6.4% | 3.2% | 3.6% | +5.6% | +85.3% | 0.1% |
 | Amen Thompson AST over 7.5 (8+) | UTA @ HOU | draftkings | 16.60 | 15.80 | 9.13 | 10.9% | 5.6% | 6.3% | +5.1% | +81.7% | 0.1% |
