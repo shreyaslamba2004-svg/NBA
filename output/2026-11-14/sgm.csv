@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DEN @ NOP,DEN win + Jeremiah Fears pa under 24.5,2,0.4593,0.4324,2.31,2.43,2.23,-0.0363,1.05,2.10-2.50
-DEN @ NOP,DEN win + Jeremiah Fears pra under 29.5,2,0.4579,0.4307,2.32,2.44,2.23,-0.04,1.046,2.10-2.50
+DEN @ NOP,DEN win + Jeremiah Fears pra under 29.5,2,0.4579,0.4243,2.36,2.47,2.27,-0.0373,1.046,2.10-2.50
 DEN @ NOP,DEN win + Jeremiah Fears pts under 18.5,2,0.4717,0.4387,2.28,2.39,2.18,-0.0424,1.041,2.10-2.50
-DEN @ NOP,Herbert Jones 2+ ast + Zion Williamson 4+ reb,2,0.5936,0.4487,2.23,2.34,2.05,-0.079,1.004,1.85-2.10
-DEN @ NOP,game over 233.5 + Christian Braun 10+ pr,2,0.5569,0.44,2.27,2.39,2.09,-0.0794,1.019,1.85-2.10
-DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pr,2,0.6375,0.4808,2.08,2.18,1.91,-0.0804,1.003,1.85-2.10
-DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pra,2,0.6713,0.5149,1.94,2.04,1.78,-0.0832,1.002,1.65-1.85
-DEN @ NOP,Herbert Jones 2+ ast + Cameron Johnson 10+ pra,2,0.6588,0.5081,1.97,2.07,1.8,-0.0838,1.003,1.65-1.85
-DEN @ NOP,Herbert Jones 5+ ra + Christian Braun 10+ pra,2,0.6573,0.5246,1.91,2.0,1.73,-0.0916,1.001,1.65-1.85
-DEN @ NOP,DEN win + Christian Braun 10+ pr + Cameron Johnson 10+ pa,3,0.5977,0.5579,1.79,1.88,1.57,-0.1233,1.021,1.50-1.65
-DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.5977,0.5684,1.76,1.85,1.54,-0.1258,1.022,1.50-1.65
-DEN @ NOP,DEN win + Zion Williamson 4+ reb + Christian Braun 10+ pa,3,0.5665,0.5291,1.89,1.98,1.65,-0.1278,1.016,1.50-1.65
+DEN @ NOP,DEN win + Cameron Johnson 2+ ast,2,0.524,0.5147,1.94,2.04,1.8,-0.076,1.013,1.65-1.85
+DEN @ NOP,Herbert Jones 2+ ast + Zion Williamson 4+ reb,2,0.5936,0.4519,2.21,2.32,2.03,-0.0805,1.004,1.85-2.10
+DEN @ NOP,Herbert Jones 2+ ast + Saddiq Bey 15+ pa,2,0.5637,0.4406,2.27,2.38,2.08,-0.0822,1.007,1.85-2.10
+DEN @ NOP,Herbert Jones 5+ ra + Zion Williamson 4+ reb,2,0.5836,0.4569,2.19,2.3,2.01,-0.083,1.007,1.85-2.10
+DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pra,2,0.6713,0.5194,1.93,2.02,1.76,-0.085,1.002,1.65-1.85
+DEN @ NOP,Herbert Jones 2+ ast + Cameron Johnson 10+ pra,2,0.6588,0.5154,1.94,2.04,1.77,-0.0864,1.003,1.65-1.85
+DEN @ NOP,Cameron Johnson 2+ ast + Christian Braun 10+ pra,2,0.6533,0.5587,1.79,1.88,1.61,-0.1019,1.002,1.50-1.65
+DEN @ NOP,Herbert Jones 10+ pra + Saddiq Bey 15+ pa,2,0.6659,0.584,1.71,1.8,1.54,-0.1027,1.006,1.50-1.65
+DEN @ NOP,DEN win + Christian Braun 10+ pr + Cameron Johnson 10+ pa,3,0.5977,0.5634,1.78,1.86,1.55,-0.1248,1.021,1.50-1.65
 DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 3pm under 1.5,2,0.6117,0.3872,2.58,2.71,2.45,-0.0507,1.003,2.10-2.50
 DAL @ CLE,Jaylon Tyson pts under 11.5 + Zaccharie Risacher 5+ pr,2,0.6686,0.4343,2.3,2.42,2.18,-0.0549,1.0,2.10-2.50
 DAL @ CLE,Jaylon Tyson pr under 16.5 + Zaccharie Risacher 5+ pr,2,0.6833,0.4498,2.22,2.33,2.1,-0.0573,1.001,1.85-2.10
@@ -35,12 +35,14 @@ DET @ MIA,DET win + Duncan Robinson 10+ pa,2,0.6145,0.5557,1.8,1.89,1.65,-0.0828
 DET @ MIA,DET win + Duncan Robinson 10+ pr,2,0.6181,0.5583,1.79,1.88,1.64,-0.0849,1.01,1.50-1.65
 DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7468,0.5817,1.72,1.8,1.57,-0.0882,1.0,1.50-1.65
 DET @ MIA,DET win + John Collins 5+ pa,2,0.6342,0.5743,1.74,1.83,1.59,-0.0886,1.006,1.50-1.65
-BKN @ MEM,Egor Demin pts under 11.5 + Ty Jerome 1+ 3pm,2,0.6473,0.4684,2.13,2.24,1.97,-0.0754,1.0,1.85-2.10
-BKN @ MEM,Egor Demin pts under 11.5 + Jaylen Wells 1+ 3pm,2,0.6061,0.4424,2.26,2.37,2.08,-0.0781,0.999,1.85-2.10
-BKN @ MEM,Julius Randle pa under 26.5 + Jaylen Wells 1+ 3pm,2,0.5877,0.432,2.32,2.43,2.13,-0.0787,1.0,2.10-2.50
-BKN @ MEM,Julius Randle pa under 26.5 + Ty Jerome 1+ 3pm,2,0.6256,0.4559,2.19,2.3,2.02,-0.0789,0.998,1.85-2.10
-BKN @ MEM,Egor Demin pr under 13.5 + Ty Jerome 1+ 3pm,2,0.5832,0.4316,2.32,2.43,2.13,-0.0808,0.999,2.10-2.50
-BKN @ MEM,Julius Randle pra under 32.5 + Ty Jerome 1+ 3pm,2,0.5852,0.4369,2.29,2.4,2.1,-0.0825,0.999,2.10-2.50
+BKN @ MEM,Julius Randle pa under 26.5 + Jaylen Wells 1+ 3pm,2,0.5877,0.4258,2.35,2.47,2.17,-0.0758,1.0,2.10-2.50
+BKN @ MEM,Egor Demin pts under 11.5 + Ty Jerome 1+ 3pm,2,0.6473,0.4698,2.13,2.23,1.97,-0.0759,1.0,1.85-2.10
+BKN @ MEM,Julius Randle pa under 26.5 + Ty Jerome 1+ 3pm,2,0.6256,0.4494,2.23,2.34,2.06,-0.0761,0.998,1.85-2.10
+BKN @ MEM,Julius Randle pa under 26.5 + Michael Porter Jr. 4+ reb,2,0.6129,0.4457,2.24,2.36,2.07,-0.0782,0.998,1.85-2.10
+BKN @ MEM,Julius Randle pts under 21.5 + Jaylen Wells 1+ 3pm,2,0.5878,0.4363,2.29,2.41,2.11,-0.08,1.0,2.10-2.50
+BKN @ MEM,Egor Demin pr under 13.5 + Ty Jerome 1+ 3pm,2,0.5832,0.4329,2.31,2.43,2.12,-0.0812,0.999,2.10-2.50
+BKN @ MEM,Julius Randle ast under 5.5 + Ty Jerome 1+ 3pm,2,0.6267,0.5031,1.99,2.09,1.8,-0.0945,1.0,1.65-1.85
+BKN @ MEM,Julius Randle ast under 5.5 + Michael Porter Jr. 4+ reb,2,0.6115,0.4971,2.01,2.11,1.81,-0.1001,0.996,1.65-1.85
 CHI @ MIN,Norman Powell pts under 21.5 + MIN win,2,0.5456,0.4503,2.22,2.33,2.14,-0.0342,1.028,2.10-2.50
 CHI @ MIN,Isaac Okoro pts under 7.5 + MIN win,2,0.4964,0.425,2.35,2.47,2.25,-0.044,1.025,2.10-2.50
 CHI @ MIN,Matas Buzelis pts under 16.5 + MIN win,2,0.5126,0.4578,2.18,2.29,2.08,-0.0469,1.03,1.85-2.10
