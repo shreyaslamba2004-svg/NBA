@@ -1250,3 +1250,7 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-14T00:45Z,ATL@CHI,15,False,espn
 2026-11-14T00:45Z,MEM@NOP,15,False,espn
 2026-11-14T00:45Z,UTA@HOU,45,False,none
+2026-11-14T00:50Z,CLE@MIA,10,False,espn
+2026-11-14T00:50Z,ATL@CHI,10,False,espn
+2026-11-14T00:50Z,MEM@NOP,10,False,espn
+2026-11-14T00:50Z,UTA@HOU,40,False,none
