@@ -20,10 +20,10 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909980,DEN @ NOP,prop_reb,over,Karlo Matkovic,1631255.0,7.5,draftkings,840.0,9.4,0.183,5.46,0.0994,0.0994,0.0836,,0.7206,0.1105,0.0383,0.0011,False,True,False,,,
 401909980,DEN @ NOP,prop_reb,over,Karlo Matkovic,1631255.0,8.5,draftkings,1400.0,15.0,0.1145,8.74,0.0623,0.0623,0.0522,,0.7171,0.0692,0.0379,0.0007,False,False,False,,,
 401909981,DAL @ CLE,prop_pa,over,James Harden,201935.0,34.5,draftkings,574.0,6.74,0.2486,4.02,0.1387,0.1387,0.1099,,0.6755,0.1532,0.0324,0.0014,False,True,False,James Harden,0.0,0.3839
-401909980,DEN @ NOP,prop_ast,over,DeMar DeRozan,201942.0,5.5,draftkings,1040.0,11.4,0.1438,6.95,0.082,0.082,0.0618,,0.6392,0.0901,0.0276,0.0007,False,True,False,,,
 401909980,DEN @ NOP,prop_reb,over,Karlo Matkovic,1631255.0,6.5,draftkings,486.0,5.86,0.2797,3.58,0.1595,0.1595,0.1202,,0.6389,0.1754,0.0276,0.0014,False,False,False,,,
-401909984,CHI @ MIN,moneyline,CHI,,,,betr_au,650.0,7.5,0.1452,6.89,0.1279,0.1358,0.0094,4.24,0.0892,0.1358,0.0185,0.0007,False,True,True,,,
+401909980,DEN @ NOP,prop_ast,over,DeMar DeRozan,201942.0,5.5,draftkings,1040.0,11.4,0.1438,6.95,0.082,0.082,0.0618,,0.6392,0.0901,0.0276,0.0007,False,True,False,,,
 401909984,CHI @ MIN,moneyline,CHI,,,,sportsbet,650.0,7.5,0.1452,6.89,0.1279,0.1358,0.0094,4.24,0.0892,0.1358,0.0185,0.0007,False,True,True,,,
+401909984,CHI @ MIN,moneyline,CHI,,,,betr_au,650.0,7.5,0.1452,6.89,0.1279,0.1358,0.0094,4.24,0.0892,0.1358,0.0185,0.0007,False,True,True,,,
 401909980,DEN @ NOP,prop_reb,over,Karlo Matkovic,1631255.0,5.5,draftkings,280.0,3.8,0.4082,2.45,0.2459,0.2459,0.1623,,0.5513,0.2674,0.016,0.0014,True,True,False,,,
 401909981,DAL @ CLE,prop_pts,over,Peyton Watson,1631212.0,19.5,draftkings,469.0,5.69,0.2724,3.67,0.1642,0.1642,0.1082,,0.55,0.1785,0.0158,0.0008,False,True,False,Peyton Watson,0.0,0.4956
 401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,34.5,draftkings,2200.0,23.0,0.066,15.15,0.0406,0.0406,0.0254,,0.5183,0.044,0.0116,0.0001,False,True,False,Peyton Watson,0.0,0.1616

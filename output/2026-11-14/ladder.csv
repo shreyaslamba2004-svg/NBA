@@ -3473,7 +3473,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pr,16.5,False,0.5986,0.5823,est,0.5845
 401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pr,17.5,True,0.5424,0.5256,book,0.5278
 401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pr,18.5,False,0.4837,0.4669,est,0.4692
-401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pr,19.5,False,0.4277,0.4112,est,0.4134
+401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pr,19.5,False,0.4277,0.4267,book,0.4268
 401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pr,20.5,False,0.3757,0.36,est,0.3621
 401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pr,21.5,False,0.3282,0.3135,est,0.3154
 401909982,DET @ MIA,DET,1642450,Daniss Jenkins,pa,15.5,False,0.7168,0.7258,est,0.7246
