@@ -1,42 +1,46 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909981,DAL @ CLE,moneyline,CLE,,,,draftkings,164.0,2.64,0.43,2.33,0.3639,0.5053,-0.0753,4.1,0.1353,0.5053,0.334,0.0509,False,True,True,,,
-401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,49.5,draftkings,2200.0,23.0,0.1156,8.65,0.0406,0.0406,0.0749,,1.658,0.0505,0.1621,0.0018,False,True,False,Donovan Mitchell,0.0,0.168
-401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,44.5,draftkings,1140.0,12.4,0.1901,5.26,0.0754,0.0754,0.1148,,1.3576,0.0905,0.1224,0.0027,False,True,False,Donovan Mitchell,0.0,0.2598
-401909981,DAL @ CLE,prop_pa,over,James Harden,201935.0,39.5,draftkings,1520.0,16.2,0.1365,7.33,0.0577,0.0577,0.0788,,1.211,0.0681,0.1031,0.0017,False,True,False,James Harden,0.0,0.2387
-401909981,DAL @ CLE,prop_pa,over,Peyton Watson,1631212.0,29.5,draftkings,1900.0,20.0,0.1036,9.66,0.0467,0.0467,0.0568,,1.0713,0.0542,0.0846,0.0011,False,True,False,Peyton Watson,0.0,0.2534
+401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,49.5,draftkings,2400.0,25.0,0.1156,8.65,0.0374,0.0374,0.0782,,1.8892,0.0477,0.1926,0.002,False,True,False,Donovan Mitchell,0.0,0.168
+401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,44.5,draftkings,1280.0,13.8,0.1901,5.26,0.0677,0.0677,0.1224,,1.6237,0.0839,0.1575,0.0031,False,True,False,Donovan Mitchell,0.0,0.2598
+401909981,DAL @ CLE,prop_pa,over,James Harden,201935.0,39.5,draftkings,1540.0,16.4,0.1365,7.33,0.057,0.057,0.0795,,1.2383,0.0675,0.1067,0.0017,False,True,False,James Harden,0.0,0.2387
+401909981,DAL @ CLE,prop_pa,over,Peyton Watson,1631212.0,29.5,draftkings,1860.0,19.6,0.1036,9.66,0.0477,0.0477,0.0559,,1.0299,0.0551,0.0792,0.0011,False,True,False,Peyton Watson,0.0,0.2534
 401909981,DAL @ CLE,prop_pra,over,Peyton Watson,1631212.0,34.5,draftkings,1540.0,16.4,0.1234,8.1,0.057,0.057,0.0664,,1.0235,0.0658,0.0783,0.0013,False,True,False,Peyton Watson,0.0,0.2806
-401909981,DAL @ CLE,prop_pts,over,James Harden,201935.0,34.5,draftkings,2200.0,23.0,0.0875,11.43,0.0406,0.0406,0.0468,,1.0118,0.0468,0.0768,0.0009,False,True,False,James Harden,0.0,0.1646
-401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,39.5,draftkings,530.0,6.3,0.3061,3.27,0.1483,0.1483,0.1578,,0.9287,0.1692,0.0658,0.0031,True,True,False,Donovan Mitchell,0.0,0.391
+401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,39.5,draftkings,554.0,6.54,0.3061,3.27,0.1429,0.1429,0.1632,,1.0022,0.1645,0.0755,0.0034,True,True,False,Donovan Mitchell,0.0,0.391
 401909984,CHI @ MIN,moneyline,CHI,,,,betfair_ex_au,683.9999999999999,7.84,0.1452,6.89,0.1253,0.1358,0.0094,1.76,0.1385,0.1358,0.0647,0.0024,False,True,True,,,
 401909980,DEN @ NOP,moneyline,NOP,,,,draftkings,483.0,5.83,0.2466,4.06,0.1647,0.1823,0.0643,4.17,0.4377,0.1823,0.0625,0.0032,False,True,True,,,
-401909981,DAL @ CLE,prop_pts,over,James Harden,201935.0,29.5,draftkings,960.0,10.6,0.1766,5.66,0.0882,0.0882,0.0884,,0.8717,0.0998,0.0583,0.0015,False,True,False,James Harden,0.0,0.2902
+401909981,DAL @ CLE,prop_pa,over,James Harden,201935.0,34.5,draftkings,660.0,7.6,0.2486,4.02,0.123,0.123,0.1256,,0.8893,0.1396,0.0606,0.0023,False,True,False,James Harden,0.0,0.3839
 401909983,BKN @ MEM,moneyline,MEM,,,,draftkings,-148.0,1.68,0.729,1.37,0.5731,0.6309,0.098,4.12,0.2215,0.6309,0.0573,0.0212,False,True,True,,,
-401909981,DAL @ CLE,prop_pa,over,James Harden,201935.0,34.5,draftkings,630.0,7.3,0.2486,4.02,0.128,0.128,0.1206,,0.8147,0.1439,0.0508,0.002,False,True,False,James Harden,0.0,0.3839
-401909981,DAL @ CLE,prop_pts,over,Peyton Watson,1631212.0,24.5,draftkings,1380.0,14.8,0.1224,8.17,0.0631,0.0631,0.0592,,0.8113,0.071,0.0503,0.0009,False,True,False,Peyton Watson,0.0,0.2769
+401909981,DAL @ CLE,prop_pts,over,Peyton Watson,1631212.0,24.5,draftkings,1420.0,15.2,0.1224,8.17,0.0615,0.0615,0.0609,,0.8603,0.0695,0.0568,0.001,False,True,False,Peyton Watson,0.0,0.2769
+401909981,DAL @ CLE,prop_pa,over,Peyton Watson,1631212.0,24.5,draftkings,740.0,8.4,0.217,4.61,0.1113,0.1113,0.1058,,0.8231,0.1252,0.0519,0.0018,False,True,False,Peyton Watson,0.0,0.4431
+401909981,DAL @ CLE,prop_pra,over,Peyton Watson,1631212.0,29.5,draftkings,630.0,7.3,0.2481,4.03,0.128,0.128,0.1201,,0.8114,0.1439,0.0503,0.002,False,True,False,Peyton Watson,0.0,0.462
 401909980,DEN @ NOP,moneyline,NOP,,,,betfair_ex_au,475.0,5.75,0.2466,4.06,0.1692,0.1823,0.0643,2.8,0.418,0.1823,0.0479,0.0025,False,True,True,,,
-401909981,DAL @ CLE,prop_pra,over,Peyton Watson,1631212.0,29.5,draftkings,620.0,7.2,0.2481,4.03,0.1298,0.1298,0.1183,,0.7866,0.1454,0.047,0.0019,False,True,False,Peyton Watson,0.0,0.462
 401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,29.5,draftkings,1080.0,11.8,0.1512,6.61,0.0792,0.0792,0.072,,0.7843,0.0887,0.0467,0.0011,False,True,False,Peyton Watson,0.0,0.3073
-401909981,DAL @ CLE,prop_pa,over,Peyton Watson,1631212.0,24.5,draftkings,720.0,8.2,0.217,4.61,0.114,0.114,0.1031,,0.7797,0.1276,0.0461,0.0016,False,True,False,Peyton Watson,0.0,0.4431
-401909981,DAL @ CLE,prop_ast,over,Peyton Watson,1631212.0,5.5,draftkings,1460.0,15.6,0.1122,8.91,0.0599,0.0599,0.0523,,0.7504,0.0668,0.0423,0.0007,False,True,False,Peyton Watson,0.0,0.2088
-401909981,DAL @ CLE,prop_ast,over,Peyton Watson,1631212.0,4.5,draftkings,690.0,7.9,0.2137,4.68,0.1183,0.1183,0.0954,,0.688,0.1309,0.034,0.0012,False,False,False,Peyton Watson,0.0,0.3402
+401909982,DET @ MIA,prop_pts,over,Cade Cunningham,1630595.0,44.5,draftkings,2500.0,26.0,0.0652,15.34,0.0359,0.0359,0.0293,,0.6951,0.0398,0.035,0.0003,False,True,False,,,
 401909984,CHI @ MIN,moneyline,CHI,,,,draftkings,660.0,7.6,0.1452,6.89,0.1262,0.1358,0.0094,4.23,0.1037,0.1358,0.0321,0.0012,False,True,True,,,
-401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,34.5,draftkings,2400.0,25.0,0.066,15.15,0.0374,0.0374,0.0286,,0.6503,0.0412,0.0291,0.0003,False,True,False,Peyton Watson,0.0,0.1616
-401909981,DAL @ CLE,prop_pa,over,Jarrett Allen,1628386.0,29.5,draftkings,1940.0,20.4,0.0784,12.76,0.0458,0.0458,0.0326,,0.5989,0.0501,0.0223,0.0003,False,True,False,Jarrett Allen,0.0,0.1403
-401909984,CHI @ MIN,moneyline,CHI,,,,betr_au,650.0,7.5,0.1452,6.89,0.1279,0.1358,0.0094,4.24,0.0892,0.1358,0.0185,0.0007,False,True,True,,,
+401909981,DAL @ CLE,prop_ast,over,Peyton Watson,1631212.0,5.5,draftkings,1360.0,14.6,0.1122,8.91,0.064,0.064,0.0482,,0.6382,0.0704,0.0275,0.0005,False,True,False,Peyton Watson,0.0,0.2088
+401909981,DAL @ CLE,prop_ast,over,Peyton Watson,1631212.0,4.5,draftkings,650.0,7.5,0.2137,4.68,0.1246,0.1246,0.0891,,0.6026,0.1364,0.0228,0.0009,False,False,False,Peyton Watson,0.0,0.3402
+401909982,DET @ MIA,prop_pts,over,Cade Cunningham,1630595.0,39.5,draftkings,1180.0,12.8,0.1247,8.02,0.073,0.073,0.0517,,0.5963,0.0798,0.0219,0.0005,False,True,False,,,
+401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,34.5,draftkings,2300.0,24.0,0.066,15.15,0.0389,0.0389,0.0271,,0.5843,0.0425,0.0203,0.0002,False,True,False,Peyton Watson,0.0,0.1616
+401909981,DAL @ CLE,prop_pa,over,Jarrett Allen,1628386.0,29.5,draftkings,1920.0,20.2,0.0784,12.76,0.0463,0.0463,0.0321,,0.5832,0.0505,0.0202,0.0003,False,True,False,Jarrett Allen,0.0,0.1403
 401909984,CHI @ MIN,moneyline,CHI,,,,sportsbet,650.0,7.5,0.1452,6.89,0.1279,0.1358,0.0094,4.24,0.0892,0.1358,0.0185,0.0007,False,True,True,,,
+401909984,CHI @ MIN,moneyline,CHI,,,,betr_au,650.0,7.5,0.1452,6.89,0.1279,0.1358,0.0094,4.24,0.0892,0.1358,0.0185,0.0007,False,True,True,,,
+401909982,DET @ MIA,prop_pa,over,Cade Cunningham,1630595.0,49.5,draftkings,1080.0,11.8,0.1326,7.54,0.0792,0.0792,0.0534,,0.565,0.0863,0.0178,0.0004,False,True,False,,,
 401909982,DET @ MIA,prop_pa,over,Cade Cunningham,1630595.0,54.5,draftkings,2100.0,22.0,0.0705,14.18,0.0425,0.0425,0.028,,0.5516,0.0462,0.016,0.0002,False,True,False,,,
+401909981,DAL @ CLE,prop_pts,over,Peyton Watson,1631212.0,19.5,draftkings,467.0,5.67,0.2724,3.67,0.1648,0.1648,0.1076,,0.5446,0.179,0.0151,0.0008,False,True,False,Peyton Watson,0.0,0.4956
+401909981,DAL @ CLE,prop_ast,over,James Harden,201935.0,11.5,draftkings,1900.0,20.0,0.0757,13.2,0.0467,0.0467,0.029,,0.5148,0.0506,0.0112,0.0001,False,True,False,James Harden,0.0,0.1094
 401909980,DEN @ NOP,prop_pts,over,Jamal Murray,1627750.0,39.5,draftkings,1360.0,14.6,0.1037,9.64,0.064,0.064,0.0397,,0.5143,0.0693,0.0111,0.0002,False,True,False,,,
-401909982,DET @ MIA,prop_pa,over,Cade Cunningham,1630595.0,49.5,draftkings,1040.0,11.4,0.1326,7.54,0.082,0.082,0.0506,,0.512,0.0887,0.0108,0.0003,False,True,False,,,
 401909980,DEN @ NOP,prop_pts,over,Jamal Murray,1627750.0,44.5,draftkings,2700.0,28.0,0.054,18.53,0.0334,0.0334,0.0206,,0.5111,0.0361,0.0107,0.0001,False,True,False,,,
-401909981,DAL @ CLE,prop_pts,over,James Harden,201935.0,24.5,draftkings,351.0,4.51,0.3312,3.02,0.2072,0.2072,0.1239,,0.4935,0.2236,0.0084,0.0006,False,True,False,James Harden,0.0,0.4688
-401909981,DAL @ CLE,prop_pts,over,Peyton Watson,1631212.0,19.5,draftkings,446.0,5.46,0.2724,3.67,0.1712,0.1712,0.1012,,0.4874,0.1845,0.0075,0.0004,False,True,False,Peyton Watson,0.0,0.4956
+401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,34.5,draftkings,234.0,3.34,0.4524,2.21,0.2798,0.2798,0.1726,,0.5112,0.3026,0.0107,0.0011,True,True,False,Donovan Mitchell,0.0,0.5436
+401909981,DAL @ CLE,prop_ast,over,James Harden,201935.0,10.5,draftkings,1140.0,12.4,0.1213,8.24,0.0754,0.0754,0.0459,,0.5041,0.0814,0.0098,0.0002,False,False,False,James Harden,0.0,0.1685
+401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,24.5,draftkings,393.0,4.93,0.3023,3.31,0.1896,0.1896,0.1128,,0.4905,0.2045,0.008,0.0005,False,True,False,Peyton Watson,0.0,0.512
+401909982,DET @ MIA,prop_pra,over,Cade Cunningham,1630595.0,59.5,draftkings,1680.0,17.8,0.0837,11.95,0.0525,0.0525,0.0312,,0.4895,0.0566,0.0078,0.0001,False,True,False,,,
 401909982,DET @ MIA,prop_reb,over,Davion Mitchell,1630558.0,4.5,draftkings,680.0,7.8,0.1902,5.26,0.1198,0.1198,0.0703,,0.4833,0.1291,0.007,0.0003,False,False,False,,,
 401909982,DET @ MIA,moneyline,MIA,,,,betfair_ex_au,167.19999999999996,2.67,0.3352,2.98,0.3629,0.3766,-0.0415,3.13,-0.1045,0.3766,0.0063,0.0009,False,True,True,Pelle Larsson,0.3287,0.3714
-401909981,DAL @ CLE,prop_pa,over,Jarrett Allen,1628386.0,24.5,draftkings,720.0,8.2,0.1795,5.57,0.114,0.114,0.0655,,0.4718,0.1226,0.0055,0.0002,False,True,False,Jarrett Allen,0.0,0.2794
-401909981,DAL @ CLE,prop_pa,over,Donovan Mitchell,1628378.0,34.5,draftkings,223.0,3.23,0.4524,2.21,0.2893,0.2893,0.1631,,0.4614,0.3109,0.0041,0.0005,True,True,False,Donovan Mitchell,0.0,0.5436
-401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,24.5,draftkings,382.0,4.82,0.3023,3.31,0.1939,0.1939,0.1084,,0.4572,0.2082,0.0036,0.0002,False,True,False,Peyton Watson,0.0,0.512
+401909981,DAL @ CLE,prop_pa,over,James Harden,201935.0,29.5,draftkings,250.0,3.5,0.4212,2.37,0.267,0.267,0.1541,,0.4741,0.2874,0.0058,0.0006,True,True,False,James Harden,0.0,0.5672
+401909982,DET @ MIA,prop_pra,over,Cade Cunningham,1630595.0,54.5,draftkings,900.0,10.0,0.1467,6.81,0.0935,0.0935,0.0533,,0.4675,0.1005,0.0049,0.0001,False,True,False,,,
+401909981,DAL @ CLE,prop_pa,over,Jarrett Allen,1628386.0,24.5,draftkings,710.0,8.1,0.1795,5.57,0.1154,0.1154,0.0641,,0.4538,0.1238,0.0031,0.0001,False,True,False,Jarrett Allen,0.0,0.2794
+401909981,DAL @ CLE,prop_pa,over,Peyton Watson,1631212.0,19.5,draftkings,244.0,3.44,0.4225,2.37,0.2717,0.2717,0.1509,,0.4535,0.2916,0.0031,0.0003,True,True,False,Peyton Watson,0.0,0.6716
 401909982,DET @ MIA,prop_reb,over,Davion Mitchell,1630558.0,5.5,draftkings,1500.0,16.0,0.0906,11.04,0.0584,0.0584,0.0322,,0.4498,0.0627,0.0026,0.0,False,True,False,,,
-401909981,DAL @ CLE,prop_pa,over,James Harden,201935.0,29.5,draftkings,244.0,3.44,0.4212,2.37,0.2717,0.2717,0.1495,,0.4488,0.2914,0.0025,0.0003,False,True,False,James Harden,0.0,0.5672
 401909980,DEN @ NOP,moneyline,NOP,,,,betr_au,450.0,5.5,0.2466,4.06,0.1742,0.1823,0.0643,4.39,0.3563,0.1823,0.0024,0.0001,False,True,True,,,
 401909980,DEN @ NOP,prop_ast,over,DeMar DeRozan,201942.0,5.5,draftkings,920.0,10.2,0.1414,7.07,0.0916,0.0916,0.0498,,0.4422,0.0982,0.0016,0.0,False,True,False,,,
-401909981,DAL @ CLE,prop_ast,over,Donovan Mitchell,1628378.0,8.5,draftkings,760.0,8.6,0.167,5.99,0.1087,0.1087,0.0584,,0.4365,0.1164,0.0008,0.0,False,False,False,Donovan Mitchell,0.0,0.205
+401909981,DAL @ CLE,prop_pra,over,Peyton Watson,1631212.0,24.5,draftkings,227.0,3.27,0.4404,2.27,0.2858,0.2858,0.1546,,0.4403,0.3062,0.0013,0.0001,True,True,False,Peyton Watson,0.0,0.6741
