@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ LAC,OKC win + Max Strus 3pm under 2.5,2,0.4992,0.4382,2.28,2.4,2.3,0.0078,1.022,2.10-2.50
-OKC @ LAC,OKC win + Jared McCain 10+ pts,2,0.5258,0.5781,1.73,1.82,1.67,-0.0343,1.021,1.65-1.85
+OKC @ LAC,OKC win + Max Strus 3pm under 2.5,2,0.4992,0.4464,2.24,2.35,2.25,0.0039,1.022,2.10-2.50
+OKC @ LAC,Aday Mara pts under 11.5 + Alex Caruso 5+ pa,2,0.5238,0.4357,2.3,2.41,2.3,0.0018,0.996,2.10-2.50
+OKC @ LAC,Aday Mara pts under 11.5 + Kobe Sanders 5+ pa,2,0.5041,0.4357,2.3,2.41,2.3,0.0006,1.002,2.10-2.50
 OKC @ LAC,OKC win + Kenrich Williams 10+ pra,2,0.537,0.5683,1.76,1.85,1.7,-0.0344,1.015,1.65-1.85
-OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5428,0.5934,1.69,1.77,1.62,-0.0374,1.017,1.50-1.65
+OKC @ LAC,OKC win + Jared McCain 10+ pts,2,0.5258,0.5809,1.72,1.81,1.66,-0.0351,1.021,1.65-1.85
+OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5428,0.5951,1.68,1.76,1.62,-0.0379,1.017,1.50-1.65
+OKC @ LAC,Alex Caruso 8+ pts + Kobe Sanders 5+ pr,2,0.6046,0.4596,2.18,2.28,2.09,-0.0381,1.003,1.85-2.10
 OKC @ LAC,OKC win + Kenrich Williams 5+ pa,2,0.5735,0.6084,1.64,1.73,1.58,-0.0387,1.011,1.50-1.65
-OKC @ LAC,Jared McCain 16+ pts + Kenrich Williams 10+ pra,2,0.463,0.4009,2.49,2.62,2.39,-0.0418,1.006,2.10-2.50
-OKC @ LAC,OKC win + Max Strus 3pm under 2.5 + Jared McCain 10+ pr,3,0.4754,0.395,2.53,2.66,2.42,-0.0429,1.03,2.10-2.50
-OKC @ LAC,Alex Caruso 8+ pts + Kenrich Williams 5+ pa,2,0.6104,0.4552,2.2,2.31,2.09,-0.0467,1.004,1.85-2.10
-OKC @ LAC,Keaton Wagler pts under 10.5 + Kenrich Williams 5+ pa,2,0.6029,0.4587,2.18,2.29,2.08,-0.0472,0.999,1.85-2.10
-OKC @ LAC,Alex Caruso 8+ pts + Kobe Sanders 5+ pr,2,0.6046,0.4603,2.17,2.28,2.06,-0.0505,1.003,1.85-2.10
-OKC @ LAC,OKC win + Isaiah Hartenstein 6+ reb,2,0.5464,0.6088,1.64,1.72,1.55,-0.0556,1.001,1.50-1.65
-OKC @ LAC,Max Strus 3pm under 2.5 + Kenrich Williams 5+ pa,2,0.758,0.5201,1.92,2.02,1.8,-0.0655,1.002,1.65-1.85
+OKC @ LAC,OKC win + Alex Caruso 5+ pa,2,0.5837,0.6054,1.65,1.73,1.59,-0.039,1.006,1.50-1.65
+OKC @ LAC,Alex Caruso 8+ pts + Jared McCain 10+ pr,2,0.6144,0.4786,2.09,2.19,2.0,-0.0428,1.003,1.85-2.10
+OKC @ LAC,Keaton Wagler pts under 10.5 + Alex Caruso 5+ pa,2,0.616,0.4582,2.18,2.29,2.09,-0.0438,0.999,1.85-2.10
+OKC @ LAC,Max Strus 3pm under 2.5 + Alex Caruso 5+ pa,2,0.773,0.5283,1.89,1.99,1.77,-0.0675,0.999,1.65-1.85
