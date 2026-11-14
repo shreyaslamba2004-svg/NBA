@@ -1,15 +1,16 @@
 # NBA model · Sat 14 Nov 2026 (US date)
 
-Updated **Sun 15 Nov, 10:40 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 15 Nov, 10:45 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
-3 flag(s). These numbers are unusual: there may be a good reason (injuries, a new role), but check them before betting on the players or games listed.
+4 flag(s). These numbers are unusual: there may be a good reason (injuries, a new role), but check them before betting on the players or games listed.
 
 | Game | Check | Detail | Likely reason |
 |---|---|---|---|
 | DAL @ CLE | team minutes | CLE players add up to 177 expected minutes (normal is about 240) | 39% of tonight's minutes go to players new to CLE since last season, and the team ratings still lean on last season; CLE out: Allen, Harden, Merrill, Mitchell |
 | DAL @ CLE | player minutes | Tyrese Proctor projected 32 min; most in his last 10 games is 27 | minutes 32 vs 18 this season; teammates out: Allen, Harden, Merrill, Mitchell (~190 min a game) |
+| DAL @ CLE | player points | Tyrese Proctor projected 21.6 pts vs DraftKings line 15.5 | minutes 32 vs 18 this season; scoring 0.68/min vs 0.45 this season, 0.50 last season; teammates out: Allen, Harden, Merrill, Mitchell (~190 min a game) |
 | DAL @ CLE | player points | Thomas Bryant projected 18.6 pts vs DraftKings line 13.5 | minutes 28 vs 13 this season; scoring 0.67/min vs 0.67 this season, 0.51 last season; teammates out: Allen, Harden, Merrill, Mitchell (~190 min a game) |
 
 ## Best bets (EV ≥ 5%, odds ≤ 4)
@@ -24,36 +25,20 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyrese Proctor PTS over 29.5 (30+) | DAL @ CLE | draftkings | 19.40 | 15.29 | 5.59 | 17.9% | 4.8% | 6.5% | +26.9% | +246.9% | 0.4% |
-| Tyrese Proctor PRA over 44.5 (45+) | DAL @ CLE | draftkings | 25.00 | 20.70 | 8.33 | 12.0% | 3.7% | 4.8% | +20.7% | +199.9% | 0.2% |
 | CHI to win | CHI @ MIN | sportsbet | 9.50 | 7.94 | 6.89 | 14.5% | 12.6% | 12.6% | +19.6% | +38.0% | 0.6% |
-| Tyrese Proctor PRA over 39.5 (40+) | DAL @ CLE | draftkings | 13.40 | 11.22 | 4.62 | 21.6% | 7.0% | 8.9% | +19.4% | +190.0% | 0.4% |
-| Tyrese Proctor PR over 34.5 (35+) | DAL @ CLE | draftkings | 14.60 | 12.53 | 5.44 | 18.4% | 6.4% | 8.0% | +16.5% | +168.2% | 0.3% |
-| Tyrese Proctor PR over 39.5 (40+) | DAL @ CLE | draftkings | 27.00 | 23.47 | 10.49 | 9.5% | 3.5% | 4.3% | +15.1% | +157.4% | 0.1% |
-| Thomas Bryant PA over 29.5 (30+) | DAL @ CLE | draftkings | 16.40 | 14.75 | 7.21 | 13.9% | 5.7% | 6.8% | +11.2% | +127.6% | 0.2% |
+| Jaylon Tyson PA over 34.5 (35+) | DAL @ CLE | draftkings | 18.20 | 16.42 | 8.10 | 12.3% | 5.1% | 6.1% | +10.8% | +124.7% | 0.2% |
 | Karlo Matkovic REB over 7.5 (8+) | DEN @ NOP | draftkings | 9.70 | 8.77 | 4.34 | 23.0% | 9.6% | 11.4% | +10.6% | +123.4% | 0.3% |
-| Jaylon Tyson PA over 34.5 (35+) | DAL @ CLE | draftkings | 18.00 | 16.29 | 8.10 | 12.3% | 5.2% | 6.1% | +10.4% | +122.2% | 0.1% |
-| Thomas Bryant PRA over 39.5 (40+) | DAL @ CLE | draftkings | 18.00 | 16.56 | 8.64 | 11.6% | 5.2% | 6.0% | +8.6% | +108.5% | 0.1% |
-| Thomas Bryant PR over 34.5 (35+) | DAL @ CLE | draftkings | 12.00 | 11.10 | 5.88 | 17.0% | 7.8% | 9.0% | +8.1% | +104.2% | 0.2% |
+| Jaylon Tyson PA over 29.5 (30+) | DAL @ CLE | draftkings | 8.20 | 7.59 | 4.02 | 24.9% | 11.4% | 13.2% | +8.0% | +103.8% | 0.3% |
 | Karlo Matkovic REB over 9.5 (10+) | DEN @ NOP | draftkings | 22.00 | 20.37 | 10.83 | 9.2% | 4.2% | 4.9% | +7.9% | +103.1% | 0.1% |
-| Jaylon Tyson PA over 29.5 (30+) | DAL @ CLE | draftkings | 8.10 | 7.52 | 4.02 | 24.9% | 11.5% | 13.3% | +7.7% | +101.4% | 0.3% |
-| Thomas Bryant PA over 24.5 (25+) | DAL @ CLE | draftkings | 7.00 | 6.54 | 3.58 | 28.0% | 13.4% | 15.3% | +7.0% | +95.7% | 0.3% |
-| Thomas Bryant PR over 39.5 (40+) | DAL @ CLE | draftkings | 22.00 | 20.66 | 11.42 | 8.8% | 4.2% | 4.8% | +6.6% | +92.6% | 0.1% |
+| Thomas Bryant PRA over 39.5 (40+) | DAL @ CLE | draftkings | 17.40 | 16.16 | 8.64 | 11.6% | 5.4% | 6.2% | +7.7% | +101.5% | 0.1% |
+| Thomas Bryant PR over 34.5 (35+) | DAL @ CLE | draftkings | 11.20 | 10.54 | 5.88 | 17.0% | 8.3% | 9.5% | +6.3% | +90.6% | 0.1% |
+| Thomas Bryant PR over 39.5 (40+) | DAL @ CLE | draftkings | 21.00 | 19.92 | 11.42 | 8.8% | 4.5% | 5.0% | +5.4% | +83.9% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
 Bets that pass the best-bets rules but that Sportsbet doesn't list as far as we know (e.g. odd-number assist milestones like 7+, alt-line unders, turnovers). Ladbrokes, TAB and others sometimes do. Graded in HEALTH.md.
 
 _Nothing clears the edge threshold right now._
-
-## Check news first
-
-The model and the no-vig market disagree by more than 15 points on these. That's usually late team news the model hasn't seen yet, so confirm before betting.
-
-| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyrese Proctor PTS over 19.5 (20+) | DAL @ CLE | draftkings | 3.42 | 3.24 | 1.86 | 53.9% | 27.3% | 30.8% | +5.4% | +84.2% | 0.6% |
-| Tyrese Proctor PA over 24.5 (25+) | DAL @ CLE | draftkings | 3.22 | 3.06 | 1.77 | 56.4% | 29.0% | 32.6% | +5.1% | +81.8% | 0.6% |
 
 ## Projections
 
@@ -66,7 +51,7 @@ Game lines below assume every questionable player sits; each game's section show
 | DEN @ NOP | Sun 15 Nov 11:00 | 124.6–113.7 | DEN 78% | 1.28 / 4.54 | NOP +11.5 | 238.5 | NOP +12.5 covers 54%; o235.5 56% |
 | DAL @ CLE | Sun 15 Nov 11:30 | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +8.5 covers 59%; o227.5 55% |
 | DET @ MIA | Sun 15 Nov 12:00 | 118.1–111.9 | DET 67% | 1.49 / 3.04 | MIA +6.5 | 229.5 | MIA +4.5 covers 44%; o228.5 53% |
-| BKN @ MEM | Sun 15 Nov 12:00 | 109.3–114.3 | BKN 36% | 2.78 / 1.56 | MEM -5.5 | 223.5 | MEM -3.5 covers 55%; o224.5 47% |
+| BKN @ MEM | Sun 15 Nov 12:00 | 109.3–114.3 | BKN 36% | 2.78 / 1.56 | MEM -5.5 | 223.5 | MEM -3.5 covers 55%; o225.5 45% |
 | CHI @ MIN | Sun 15 Nov 12:00 | 108.7–126.5 | CHI 10% | 9.83 / 1.11 | MIN -17.5 | 235.5 | MIN -15.5 covers 57%; o234.5 52% |
 
 ### DEN @ NOP
@@ -128,9 +113,9 @@ Out: Jarrett Allen (CLE), James Harden (CLE), Sam Merrill (CLE), Donovan Mitchel
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Cooper Flagg | 98% | 33.9<br><sub>40,33,28,39,27</sub> | 23.4<br><sub>19,21,25,43,12</sub> | 24.5 · –<br><sub>o 48% · u 52%</sub> | 6.8<br><sub>10,10,5,10,7</sub> | 6.5<br><sub>o 54% · u 46%</sub> | 5.6<br><sub>5,7,12,6,3</sub> | 6.5<br><sub>o 44% · u 56%</sub> | 1.3<br><sub>0,1,3,3,1</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 1.4 | 0.7 | 2.6 | 35.9 |
 | Kyrie Irving | 98% | 33.4<br><sub>36,28,29,38,27</sub> | 21.8<br><sub>29,14,21,35,10</sub> | 22.5 · –<br><sub>o 49% · u 51%</sub> | 4.0<br><sub>7,2,3,0,3</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 4.1<br><sub>5,2,4,4,4</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 2.6<br><sub>5,0,2,7,2</sub> | 3.5<br><sub>o 40% · u 60%</sub> | 1.1 | 0.4 | 1.9 | 29.9 |
-| P.J. Washington | 98% | 32.3<br><sub>39,33,25,35,16</sub> | 14.2<br><sub>21,26,6,13,10</sub> | 13.5 · –<br><sub>o 48% · u 52%</sub> | 6.6<br><sub>10,6,5,9,3</sub> | 6.5<br><sub>o 51% · u 49%</sub> | 1.5<br><sub>3,1,0,1,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.7<br><sub>3,6,2,2,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.0 | 0.8 | 1.4 | 22.3 |
+| P.J. Washington | 98% | 32.3<br><sub>39,33,25,35,16</sub> | 14.2<br><sub>21,26,6,13,10</sub> | 13.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>10,6,5,9,3</sub> | 6.5<br><sub>o 51% · u 49%</sub> | 1.5<br><sub>3,1,0,1,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.7<br><sub>3,6,2,2,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.0 | 0.8 | 1.4 | 22.3 |
 | Naji Marshall | 91% | 24.0<br><sub>26,25,15,25,23</sub> | 11.9<br><sub>22,7,8,6,13</sub> | 10.5 · –<br><sub>o 51% · u 49%</sub> | 3.3<br><sub>5,1,1,5,1</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 3.3<br><sub>3,5,2,2,4</sub> | 3.5<br><sub>o 40% · u 60%</sub> | 0.8<br><sub>3,0,1,0,1</sub> |  | 1.0 | 0.1 | 1.5 | 18.5 |
-| Zaccharie Risacher | 97% | 20.9<br><sub>18,21,16,15,25</sub> | 7.4<br><sub>2,4,11,4,22</sub> | 6.5 · –<br><sub>o 47% · u 53%</sub> | 3.9<br><sub>1,4,6,2,6</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 1.1<br><sub>2,1,1,0,3</sub> |  | 0.8<br><sub>0,0,1,0,4</sub> |  | 0.8 | 0.6 | 0.9 | 12.5 |
+| Zaccharie Risacher | 97% | 20.9<br><sub>18,21,16,15,25</sub> | 7.4<br><sub>2,4,11,4,22</sub> | 6.5 · –<br><sub>o 48% · u 52%</sub> | 3.9<br><sub>1,4,6,2,6</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 1.1<br><sub>2,1,1,0,3</sub> |  | 0.8<br><sub>0,0,1,0,4</sub> |  | 0.8 | 0.6 | 0.9 | 12.5 |
 | Daniel Gafford | 98% | 19.7<br><sub>18,18,19,20,16</sub> | 8.5<br><sub>2,7,18,8,3</sub> | 7.5 · –<br><sub>o 52% · u 48%</sub> | 5.6<br><sub>4,1,5,2,3</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 1.2<br><sub>1,1,2,3,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 1.1 | 0.9 | 15.4 |
 | Walter Clayton Jr. | 91% | 17.8<br><sub>21,23,16,25,22</sub> | 6.6<br><sub>8,12,5,6,5</sub> |  | 2.7<br><sub>6,4,4,6,1</sub> |  | 3.1<br><sub>5,2,6,4,4</sub> |  | 0.8<br><sub>2,1,1,1,0</sub> |  | 0.6 | 0.2 | 1.3 | 12.3 |
 | Caleb Martin | 98% | 16.2<br><sub>20,11,19,19,21</sub> | 4.1<br><sub>0,0,2,0,7</sub> | 4.5 · –<br><sub>o 49% · u 51%</sub> | 2.4<br><sub>3,0,2,3,2</sub> | 2.5<br><sub>o 54% · u 46%</sub> | 1.2<br><sub>2,0,2,5,5</sub> |  | 0.3<br><sub>0,0,0,0,1</sub> |  | 0.7 | 0.2 | 0.6 | 7.7 |
@@ -147,12 +132,12 @@ Out: Jarrett Allen (CLE), James Harden (CLE), Sam Merrill (CLE), Donovan Mitchel
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jaylon Tyson | 97% | 32.4<br><sub>-,-,-,23,30</sub> | 19.9<br><sub>-,-,-,3,16</sub> | 15.5 · –<br><sub>o 53% · u 47%</sub> | 5.6<br><sub>-,-,-,0,3</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.2<br><sub>-,-,-,1,1</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 2.3<br><sub>-,-,-,1,4</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 1.0 | 0.5 | 2.5 | 29.7 |
-| Tyrese Proctor | 93% | 31.5<br><sub>19,23,23,23,27</sub> | 21.6<br><sub>3,7,6,15,22</sub> |  | 4.6<br><sub>6,3,1,3,4</sub> |  | 5.6<br><sub>3,3,4,1,3</sub> |  | 2.4<br><sub>0,2,0,3,5</sub> |  | 1.2 | 0.1 | 2.0 | 31.8 |
-| Meleek Thomas | 91% | 29.4<br><sub>27,24,27,22,18</sub> | 20.6<br><sub>12,9,18,14,12</sub> | 17.5 · –<br><sub>o 50% · u 50%</sub> | 3.3<br><sub>1,4,3,4,0</sub> |  | 2.9<br><sub>3,0,3,1,3</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 2.5<br><sub>2,3,4,2,2</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 1.2 | 0.4 | 1.8 | 26.7 |
-| Mario Hezonja | 98% | 27.8<br><sub>27,19,17,7,9</sub> | 15.8<br><sub>15,0,10,0,4</sub> | 14.5 · –<br><sub>o 49% · u 51%</sub> | 7.6<br><sub>10,5,3,0,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 2.3<br><sub>1,1,0,0,0</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.7<br><sub>2,0,0,0,0</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.8 | 0.4 | 1.7 | 25.7 |
-| Thomas Bryant | 67% | 27.7<br><sub>16,15,15,-,16</sub> | 18.6<br><sub>13,5,11,-,9</sub> | 13.5 · –<br><sub>o 55% · u 45%</sub> | 7.1<br><sub>6,3,2,-,1</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 1.7<br><sub>0,1,0,-,1</sub> |  | 1.8<br><sub>1,1,2,-,0</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 0.8 | 0.9 | 1.7 | 27.5 |
-| Craig Porter Jr. | 72% | 26.3<br><sub>3,15,17,-,9</sub> | 7.4<br><sub>0,0,9,-,0</sub> | 8.5 · –<br><sub>o 47% · u 53%</sub> | 4.9<br><sub>0,1,2,-,2</sub> | 5.5<br><sub>o 46% · u 54%</sub> | 5.4<br><sub>0,1,4,-,2</sub> | 6.5<br><sub>o 43% · u 57%</sub> | 0.6<br><sub>0,0,0,-,0</sub> |  | 1.2 | 0.7 | 1.7 | 17.7 |
+| Jaylon Tyson | 97% | 32.4<br><sub>-,-,-,23,30</sub> | 19.9<br><sub>-,-,-,3,16</sub> | 15.5 · –<br><sub>o 53% · u 47%</sub> | 5.6<br><sub>-,-,-,0,3</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 4.2<br><sub>-,-,-,1,1</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 2.3<br><sub>-,-,-,1,4</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 1.0 | 0.5 | 2.5 | 29.7 |
+| Tyrese Proctor | 93% | 31.5<br><sub>19,23,23,23,27</sub> | 21.6<br><sub>3,7,6,15,22</sub> | 15.5 · –<br><sub>o 51% · u 49%</sub> | 4.6<br><sub>6,3,1,3,4</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 5.6<br><sub>3,3,4,1,3</sub> | 4.5<br><sub>o 54% · u 46%</sub> | 2.4<br><sub>0,2,0,3,5</sub> | 2.5<br><sub>o 40% · u 60%</sub> | 1.2 | 0.1 | 2.0 | 31.8 |
+| Meleek Thomas | 91% | 29.4<br><sub>27,24,27,22,18</sub> | 20.6<br><sub>12,9,18,14,12</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 3.3<br><sub>1,4,3,4,0</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 2.9<br><sub>3,0,3,1,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 2.5<br><sub>2,3,4,2,2</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 1.2 | 0.4 | 1.8 | 26.7 |
+| Mario Hezonja | 98% | 27.8<br><sub>27,19,17,7,9</sub> | 15.8<br><sub>15,0,10,0,4</sub> | 13.5 · –<br><sub>o 53% · u 47%</sub> | 7.6<br><sub>10,5,3,0,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 2.3<br><sub>1,1,0,0,0</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.7<br><sub>2,0,0,0,0</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 0.8 | 0.4 | 1.7 | 25.7 |
+| Thomas Bryant | 67% | 27.7<br><sub>16,15,15,-,16</sub> | 18.6<br><sub>13,5,11,-,9</sub> | 13.5 · –<br><sub>o 54% · u 46%</sub> | 7.1<br><sub>6,3,2,-,1</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 1.7<br><sub>0,1,0,-,1</sub> |  | 1.8<br><sub>1,1,2,-,0</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 0.8 | 0.9 | 1.7 | 27.5 |
+| Craig Porter Jr. | 72% | 26.3<br><sub>3,15,17,-,9</sub> | 7.4<br><sub>0,0,9,-,0</sub> | 8.5 · –<br><sub>o 47% · u 53%</sub> | 4.9<br><sub>0,1,2,-,2</sub> | 5.5<br><sub>o 46% · u 54%</sub> | 5.4<br><sub>0,1,4,-,2</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 0.6<br><sub>0,0,0,-,0</sub> |  | 1.2 | 0.7 | 1.7 | 17.7 |
 | Norchad Omier | 48% | 23.4<br><sub>3,-,12,-,-</sub> | 10.4<br><sub>0,-,0,-,-</sub> |  | 5.9<br><sub>2,-,3,-,-</sub> |  | 2.9<br><sub>1,-,2,-,-</sub> |  | 0.8<br><sub>0,-,0,-,-</sub> |  | 1.2 | 0.4 | 1.1 | 19.3 |
 | Riley Minix | 47% | 21.6<br><sub>-,10,17,-,-</sub> | 11.5<br><sub>-,8,2,-,-</sub> |  | 3.8<br><sub>-,3,2,-,-</sub> |  | 1.3<br><sub>-,0,0,-,-</sub> |  | 1.3<br><sub>-,2,0,-,-</sub> |  | 0.5 | 0.4 | 1.0 | 16.6 |
 | Khalifa Diop | 3% | 8.7 | 4.2 |  | 1.7 |  | 0.7 |  | 0.3 |  | 0.3 | 0.2 | 0.4 | 6.5 |
@@ -212,11 +197,11 @@ Out: Ty Jerome (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Grant Nelson 
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 109.3–114.3 | BKN 36% | 2.78 / 1.56 | MEM -5.5 | 223.5 | MEM -3.5 covers 55%; o224.5 47% |
-| Expected (weighted by chance each plays) | 109.5–115.4 | BKN 34% | 2.97 / 1.51 | MEM -6.5 | 224.5 | MEM -3.5 covers 58%; o224.5 50% |
-| if Zach Edey plays | 107.9–115.8 | BKN 29% | 3.49 / 1.40 | MEM -8.5 | 223.5 | MEM -3.5 covers 63%; o224.5 48% |
-| if Michael Porter Jr. plays | 110.6–114.0 | BKN 40% | 2.48 / 1.68 | MEM -3.5 | 224.5 | MEM -3.5 covers 50%; o224.5 50% |
-| if Jerami Grant plays | 108.4–115.9 | BKN 30% | 3.36 / 1.42 | MEM -7.5 | 224.5 | MEM -3.5 covers 62%; o224.5 49% |
+| Confirmed players only | 109.3–114.3 | BKN 36% | 2.78 / 1.56 | MEM -5.5 | 223.5 | MEM -3.5 covers 55%; o225.5 45% |
+| Expected (weighted by chance each plays) | 109.5–115.4 | BKN 34% | 2.97 / 1.51 | MEM -6.5 | 224.5 | MEM -3.5 covers 58%; o225.5 48% |
+| if Zach Edey plays | 107.9–115.8 | BKN 29% | 3.49 / 1.40 | MEM -8.5 | 223.5 | MEM -3.5 covers 63%; o225.5 45% |
+| if Michael Porter Jr. plays | 110.6–114.0 | BKN 40% | 2.48 / 1.68 | MEM -3.5 | 224.5 | MEM -3.5 covers 50%; o225.5 48% |
+| if Jerami Grant plays | 108.4–115.9 | BKN 30% | 3.36 / 1.42 | MEM -7.5 | 224.5 | MEM -3.5 covers 62%; o225.5 47% |
 
 **Questionable players: chance to play, and their projection if they do**
 
