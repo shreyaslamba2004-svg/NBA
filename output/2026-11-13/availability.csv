@@ -34,38 +34,38 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909298,CLE,905106261,Ernest Udeh Jr.,,,1.0,,,
 401909298,CLE,1631212,Peyton Watson,,,1.0,,,
 401909299,CHI,905105555,Tobe Awaka,Out,Injury/Illness-DiscIrritation,0.0,Awaka (back) has been ruled out for Friday's game against the Hawks.,,
-401909299,CHI,1641824,Matas Buzelis,,,1.0,,,
+401909299,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
 401909299,CHI,1629651,Nic Claxton,,,1.0,,,
 401909299,CHI,1628380,Zach Collins,,,1.0,,,
 401909299,CHI,1642855,Noa Essengue,,,1.0,,,
-401909299,CHI,1630581,Josh Giddey,,,1.0,,,
+401909299,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
 401909299,CHI,1641722,Jordan Hawkins,,,1.0,,,
 401909299,CHI,1627741,Buddy Hield,,,1.0,,,
 401909299,CHI,1630200,Tre Jones,,,1.0,,,
 401909299,CHI,1631159,Leonard Miller,,,1.0,,,
-401909299,CHI,1630171,Isaac Okoro,,,1.0,,,
-401909299,CHI,1626181,Norman Powell,Available,-,1.0,,,
+401909299,CHI,1630171,Isaac Okoro,Starting,,1.0,,,1.0
+401909299,CHI,1626181,Norman Powell,Starting,-,1.0,,,1.0
 401909299,CHI,1631115,Orlando Robinson,,,1.0,,,
 401909299,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
-401909299,CHI,1630188,Jalen Smith,,,1.0,,,
+401909299,CHI,1630188,Jalen Smith,Starting,,1.0,,,1.0
 401909299,CHI,904848625,Dailyn Swain,Out,Injury/Illness-RightDiscIrritation,0.0,Swain (back) is out for Friday's game against the Hawks.,,
 401909299,CHI,1630172,Patrick Williams,,,1.0,,,
 401909299,CHI,905095151,Caleb Wilson,Out,,0.0,"Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",,
-401909299,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
-401909299,ATL,1630700,Dyson Daniels,,,1.0,,,
+401909299,ATL,1629638,Nickeil Alexander-Walker,Starting,,1.0,,,1.0
+401909299,ATL,1630700,Dyson Daniels,Starting,,1.0,,,1.0
 401909299,ATL,1642484,RayJ Dennis,Available,GLeague-Two-Way,1.0,,,
 401909299,ATL,1629652,Luguentz Dort,,,1.0,,,
 401909299,ATL,905106262,Zuby Ejiofor,,,1.0,,,
 401909299,ATL,1627827,Dorian Finney-Smith,,,1.0,,,
-401909299,ATL,905149077,Kingston Flemings,Available,Injury/Illness-LumbarSpasm,1.0,,,
+401909299,ATL,905149077,Kingston Flemings,Starting,Injury/Illness-LumbarSpasm,1.0,,,1.0
 401909299,ATL,1642933,Keshon Gilbert,Out,Inflammation;Non-Surgical,0.0,Gilbert (knee) has been ruled out for Friday's game against the Bulls.,,
 401909299,ATL,1631243,Mouhamed Gueye,Out,Injury/Illness-LeftFootFracture,0.0,"Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",,
-401909299,ATL,1630552,Jalen Johnson,,,1.0,,,
+401909299,ATL,1630552,Jalen Johnson,Starting,,1.0,,,1.0
 401909299,ATL,1630557,Corey Kispert,,,1.0,,,
 401909299,ATL,1629111,Jock Landale,Available,Injury/Illness-FaceMask,1.0,,,
 401909299,ATL,203468,CJ McCollum,,,1.0,,,
 401909299,ATL,1642854,Asa Newell,Out,,0.0,Newell (toe) has been ruled out for Friday's game against Chicago.,,
-401909299,ATL,1630168,Onyeka Okongwu,,,1.0,,,
+401909299,ATL,1630168,Onyeka Okongwu,Starting,,1.0,,,1.0
 401909299,ATL,905105571,Henri Veesaar,Out,Injury/Illness-RightACLTear,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
 401909299,ATL,1630598,Aaron Wiggins,,,1.0,,,
 401909299,ATL,1630592,Jalen Wilson,Out,GLeague-Two-Way,0.0,,,
