@@ -1,49 +1,50 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+DEN @ NOP,DEN win + Jeremiah Fears pa under 24.5,2,0.4593,0.4277,2.34,2.45,2.25,-0.0365,1.05,2.10-2.50
+DEN @ NOP,DEN win + Jeremiah Fears pra under 29.5,2,0.4579,0.4261,2.35,2.46,2.25,-0.0402,1.046,2.10-2.50
 DEN @ NOP,DEN win + Jeremiah Fears pts under 18.5,2,0.4717,0.434,2.3,2.42,2.21,-0.0426,1.041,2.10-2.50
-DEN @ NOP,DEN win + Christian Braun 16+ pr,2,0.471,0.452,2.21,2.32,2.09,-0.0565,1.033,1.85-2.10
-DEN @ NOP,DEN win + Christian Braun 10+ pts,2,0.5675,0.5454,1.83,1.93,1.72,-0.0641,1.025,1.65-1.85
-DEN @ NOP,game over 234.5 + Christian Braun 10+ pa,2,0.5106,0.4072,2.46,2.58,2.29,-0.0683,1.032,2.10-2.50
-DEN @ NOP,DEN -11.5 + Christian Braun 10+ pa,2,0.4106,0.4147,2.41,2.53,2.24,-0.0714,1.029,2.10-2.50
 DEN @ NOP,DEN win + Cameron Johnson 2+ ast,2,0.524,0.5016,1.99,2.09,1.85,-0.0738,1.013,1.65-1.85
-DEN @ NOP,DEN win + Christian Braun 1+ 3pm,2,0.5835,0.5599,1.79,1.88,1.65,-0.0761,1.012,1.50-1.65
-DEN @ NOP,game over 234.5 + Nikola Jokic 25+ pr,2,0.5485,0.4481,2.23,2.34,2.04,-0.0838,1.019,1.85-2.10
-DEN @ NOP,DEN win + Cameron Johnson 6+ ra,2,0.4535,0.4404,2.27,2.38,2.08,-0.0838,1.003,1.85-2.10
-DEN @ NOP,Aaron Gordon 5+ reb + Cameron Johnson 10+ pra,2,0.5887,0.5023,1.99,2.09,1.8,-0.0975,1.003,1.65-1.85
-DEN @ NOP,Cameron Johnson 2+ ast + Nikola Jokic 30+ pra,2,0.6545,0.5571,1.8,1.88,1.61,-0.101,1.002,1.50-1.65
-DEN @ NOP,Christian Braun 10+ pts + Nikola Jokic 25+ pr,2,0.677,0.5816,1.72,1.81,1.54,-0.1019,1.004,1.50-1.65
-DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + Kyrie Irving 3pm under 3.5,2,0.6117,0.3986,2.51,2.63,2.37,-0.0564,1.003,2.10-2.50
-DAL @ CLE,Jaylon Tyson pts under 11.5 + Donovan Mitchell 2+ 3pm,2,0.591,0.3878,2.58,2.71,2.42,-0.0596,0.997,2.10-2.50
-DAL @ CLE,Jaylon Tyson pts under 11.5 + James Harden 1+ 3pm,2,0.6825,0.4629,2.16,2.27,2.03,-0.0601,1.002,1.85-2.10
-DAL @ CLE,Jaylon Tyson pts under 11.5 + James Harden 10+ pts,2,0.6753,0.4499,2.22,2.33,2.08,-0.0625,0.996,1.85-2.10
-DAL @ CLE,Jaylon Tyson 3pm under 1.5 + Donovan Mitchell 1+ 3pm,2,0.6188,0.4318,2.32,2.43,2.16,-0.0674,1.001,2.10-2.50
-DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + Donovan Mitchell 2+ 3pm,2,0.6641,0.4934,2.03,2.13,1.86,-0.0802,1.001,1.85-2.10
-DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 10+ pts,2,0.759,0.5725,1.75,1.83,1.6,-0.0828,1.001,1.50-1.65
-DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 1+ 3pm,2,0.7632,0.586,1.71,1.79,1.56,-0.0851,1.001,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + James Harden 10+ pts,2,0.688,0.5277,1.89,1.99,1.73,-0.0871,1.0,1.65-1.85
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + James Harden 1+ 3pm,2,0.6915,0.54,1.85,1.94,1.69,-0.0898,0.999,1.65-1.85
-DAL @ CLE,Donovan Mitchell 4+ reb + James Harden 10+ pts,2,0.6947,0.552,1.81,1.9,1.65,-0.0917,1.001,1.50-1.65
-DAL @ CLE,Zaccharie Risacher 3+ reb + James Harden 10+ pts,2,0.634,0.5252,1.9,2.0,1.72,-0.0976,1.001,1.65-1.85
-DET @ MIA,game over 229.5 + Giannis Antetokounmpo 4+ ast,2,0.4655,0.3764,2.66,2.79,2.49,-0.0627,1.028,2.10-2.50
-DET @ MIA,Bam Adebayo 30+ pra + Giannis Antetokounmpo 4+ ast,2,0.578,0.4022,2.49,2.61,2.33,-0.0631,1.004,2.10-2.50
-DET @ MIA,Giannis Antetokounmpo 4+ ast + MIA +4.5,2,0.3988,0.3802,2.63,2.76,2.46,-0.066,1.025,2.10-2.50
-DET @ MIA,Bam Adebayo 30+ pra + Davion Mitchell 15+ pra,2,0.6444,0.4729,2.11,2.22,1.96,-0.0709,1.005,1.85-2.10
-DET @ MIA,Bam Adebayo 30+ pra + Giannis Antetokounmpo 20+ pa,2,0.6401,0.4868,2.05,2.16,1.9,-0.0739,1.008,1.85-2.10
-DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5654,0.519,1.93,2.02,1.78,-0.0747,1.024,1.65-1.85
-DET @ MIA,Bam Adebayo 27+ pr + Davion Mitchell 15+ pra,2,0.623,0.46,2.17,2.28,2.01,-0.0749,1.006,1.85-2.10
-DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7468,0.584,1.71,1.8,1.56,-0.0887,1.0,1.50-1.65
-DET @ MIA,DET win + Bam Adebayo 6+ reb,2,0.5971,0.5304,1.89,1.98,1.72,-0.0896,1.002,1.65-1.85
-DET @ MIA,Bam Adebayo 1+ 3pm + Giannis Antetokounmpo 8+ reb,2,0.7095,0.5754,1.74,1.82,1.58,-0.0922,1.003,1.50-1.65
-DET @ MIA,Bam Adebayo 1+ 3pm + Ausar Thompson 4+ reb,2,0.7237,0.5812,1.72,1.81,1.56,-0.0931,1.0,1.50-1.65
-DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pts,2,0.6589,0.5343,1.87,1.97,1.7,-0.0932,1.001,1.65-1.85
-BKN @ MEM,MEM win + Michael Porter Jr. 3pm under 3.5,2,0.489,0.3843,2.6,2.73,2.47,-0.0515,1.03,2.10-2.50
-BKN @ MEM,MEM win + Julius Randle 3pm under 1.5,2,0.4723,0.3839,2.6,2.73,2.42,-0.0726,1.013,2.10-2.50
-BKN @ MEM,MEM win + Ty Jerome 2+ 3pm,2,0.5298,0.4485,2.23,2.34,2.05,-0.0785,1.013,1.85-2.10
-BKN @ MEM,Egor Demin pts under 11.5 + Ty Jerome 1+ 3pm,2,0.6473,0.4765,2.1,2.2,1.93,-0.0786,1.0,1.85-2.10
-BKN @ MEM,Julius Randle pts under 20.5 + Jaylen Wells 1+ 3pm,2,0.5503,0.4061,2.46,2.59,2.27,-0.0792,1.0,2.10-2.50
-BKN @ MEM,Egor Demin pts under 11.5 + Jaylen Wells 1+ 3pm,2,0.6061,0.4477,2.23,2.35,2.05,-0.0806,0.999,1.85-2.10
-BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.6227,0.5459,1.83,1.92,1.67,-0.087,1.01,1.65-1.85
-BKN @ MEM,Michael Porter Jr. 3pm under 3.5 + Ty Jerome 1+ 3pm,2,0.6129,0.4956,2.02,2.12,1.82,-0.0973,0.998,1.65-1.85
-BKN @ MEM,Ty Jerome 2+ 3pm + Jaylen Wells 1+ 3pm,2,0.6332,0.5534,1.81,1.9,1.61,-0.1088,0.999,1.50-1.65
+DEN @ NOP,Herbert Jones 2+ ast + Zion Williamson 4+ reb,2,0.5936,0.4483,2.23,2.34,2.05,-0.0789,1.004,1.85-2.10
+DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pr,2,0.6375,0.4833,2.07,2.17,1.9,-0.0812,1.003,1.85-2.10
+DEN @ NOP,Herbert Jones 2+ ast + Cameron Johnson 10+ pr,2,0.6228,0.4793,2.09,2.19,1.92,-0.082,1.004,1.85-2.10
+DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pra,2,0.6713,0.5156,1.94,2.04,1.78,-0.0834,1.002,1.65-1.85
+DEN @ NOP,Herbert Jones 2+ ast + Cameron Johnson 10+ pra,2,0.6588,0.5081,1.97,2.07,1.8,-0.0838,1.003,1.65-1.85
+DEN @ NOP,Cameron Johnson 2+ ast + Christian Braun 10+ pra,2,0.6533,0.5528,1.81,1.9,1.63,-0.1003,1.002,1.50-1.65
+DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.5977,0.5623,1.78,1.87,1.55,-0.126,1.022,1.50-1.65
+DEN @ NOP,DEN win + Christian Braun 10+ pa + Nikola Jokic 8+ reb,3,0.6001,0.5657,1.77,1.86,1.53,-0.1317,1.015,1.50-1.65
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + Kyrie Irving 3pm under 3.5,2,0.6117,0.394,2.54,2.66,2.4,-0.0542,1.003,2.10-2.50
+DAL @ CLE,Jaylon Tyson pts under 11.5 + James Harden 1+ 3pm,2,0.6825,0.4612,2.17,2.28,2.04,-0.0595,1.002,1.85-2.10
+DAL @ CLE,Jaylon Tyson pts under 11.5 + Donovan Mitchell 2+ 3pm,2,0.591,0.3889,2.57,2.7,2.42,-0.06,0.997,2.10-2.50
+DAL @ CLE,Jaylon Tyson pts under 11.5 + Peyton Watson 10+ pra,2,0.704,0.4741,2.11,2.21,1.98,-0.0616,0.999,1.85-2.10
+DAL @ CLE,Jaylon Tyson pr under 16.5 + Donovan Mitchell 2+ 3pm,2,0.6044,0.403,2.48,2.61,2.33,-0.0619,0.998,2.10-2.50
+DAL @ CLE,Jaylon Tyson pts under 11.5 + James Harden 10+ pts,2,0.6753,0.4484,2.23,2.34,2.09,-0.062,0.996,1.85-2.10
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 10+ pts,2,0.759,0.5706,1.75,1.84,1.61,-0.0823,1.001,1.50-1.65
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 1+ 3pm,2,0.7632,0.5839,1.71,1.8,1.57,-0.0845,1.001,1.50-1.65
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + James Harden 10+ pts,2,0.688,0.5199,1.92,2.02,1.76,-0.0845,1.0,1.65-1.85
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 15+ pa,2,0.761,0.5797,1.73,1.81,1.58,-0.0852,1.0,1.50-1.65
+DAL @ CLE,Cooper Flagg ra under 13.5 + Peyton Watson 10+ pra,2,0.6425,0.4958,2.02,2.12,1.84,-0.0861,1.001,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 20+ pra,2,0.7185,0.5496,1.82,1.91,1.66,-0.0862,1.0,1.65-1.85
+DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4579,0.3973,2.52,2.64,2.37,-0.0601,1.043,2.10-2.50
+DET @ MIA,game over 229.5 + Giannis Antetokounmpo 4+ ast,2,0.4655,0.3762,2.66,2.79,2.49,-0.0626,1.028,2.10-2.50
+DET @ MIA,Bam Adebayo 30+ pra + Giannis Antetokounmpo 4+ ast,2,0.578,0.4044,2.47,2.6,2.31,-0.0643,1.004,2.10-2.50
+DET @ MIA,Bam Adebayo 30+ pra + Davion Mitchell 15+ pra,2,0.6444,0.4753,2.1,2.21,1.95,-0.0721,1.005,1.85-2.10
+DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5577,0.5024,1.99,2.09,1.85,-0.0725,1.023,1.65-1.85
+DET @ MIA,Bam Adebayo 27+ pr + Davion Mitchell 15+ pra,2,0.623,0.4603,2.17,2.28,2.01,-0.0733,1.006,1.85-2.10
+DET @ MIA,Bam Adebayo 18+ pts + Davion Mitchell 15+ pra,2,0.596,0.4466,2.24,2.35,2.07,-0.0737,1.006,1.85-2.10
+DET @ MIA,DET win + Duncan Robinson 10+ pa,2,0.6145,0.5575,1.79,1.88,1.64,-0.0832,1.013,1.50-1.65
+DET @ MIA,DET win + Duncan Robinson 10+ pr,2,0.6181,0.5567,1.8,1.89,1.64,-0.0845,1.01,1.50-1.65
+DET @ MIA,DET win + John Collins 5+ pa,2,0.6342,0.5724,1.75,1.83,1.59,-0.0882,1.006,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 15+ pra,2,0.6513,0.5183,1.93,2.03,1.76,-0.089,1.003,1.65-1.85
+DET @ MIA,DET win + Bam Adebayo 6+ reb,2,0.5971,0.5323,1.88,1.97,1.71,-0.0902,1.002,1.65-1.85
+BKN @ MEM,MEM win + Michael Porter Jr. 3pm under 3.5,2,0.489,0.3896,2.57,2.7,2.43,-0.0539,1.03,2.10-2.50
+BKN @ MEM,game over 225.5 + Jaylen Wells 10+ pr,2,0.4972,0.4057,2.46,2.59,2.33,-0.056,1.039,2.10-2.50
+BKN @ MEM,Egor Demin pts under 11.5 + Jaylen Wells 10+ pr,2,0.5981,0.4172,2.4,2.52,2.23,-0.0687,1.002,2.10-2.50
+BKN @ MEM,MEM win + Jaylen Wells 10+ pr,2,0.6149,0.5091,1.96,2.06,1.82,-0.0745,1.014,1.65-1.85
+BKN @ MEM,Egor Demin pts under 11.5 + Ty Jerome 1+ 3pm,2,0.6473,0.476,2.1,2.21,1.94,-0.0785,1.0,1.85-2.10
+BKN @ MEM,Egor Demin pts under 11.5 + Jaylen Wells 1+ 3pm,2,0.6061,0.4484,2.23,2.34,2.05,-0.0808,0.999,1.85-2.10
+BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.6227,0.5468,1.83,1.92,1.67,-0.0872,1.01,1.65-1.85
+BKN @ MEM,Cedric Coward 13+ pts + Jaylen Wells 1+ 3pm,2,0.5227,0.4382,2.28,2.4,2.08,-0.0888,1.007,1.85-2.10
+BKN @ MEM,MEM win + Ty Jerome 1+ 3pm,2,0.6599,0.5759,1.74,1.82,1.58,-0.092,1.004,1.50-1.65
+BKN @ MEM,Michael Porter Jr. 3pm under 3.5 + Ty Jerome 1+ 3pm,2,0.6129,0.5019,1.99,2.09,1.79,-0.0994,0.998,1.65-1.85
 CHI @ MIN,MIN win + Terrence Shannon Jr. 11+ pts,2,0.4375,0.4302,2.32,2.44,2.18,-0.0603,1.033,2.10-2.50
 CHI @ MIN,MIN win + LaMelo Ball 4+ 3pm,2,0.4291,0.442,2.26,2.38,2.1,-0.0722,1.024,1.85-2.10
 CHI @ MIN,MIN win + game under 236.5,2,0.4412,0.4373,2.29,2.4,2.11,-0.0781,1.005,2.10-2.50
