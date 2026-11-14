@@ -33,12 +33,12 @@ DET @ MIA,DET win + Ausar Thompson 4+ reb,2,0.6109,0.5439,1.84,1.93,1.71,-0.0724
 DET @ MIA,DET win + Bobby Portis 5+ pr,2,0.6286,0.5562,1.8,1.89,1.66,-0.0745,0.997,1.65-1.85
 DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7043,0.581,1.72,1.81,1.56,-0.0953,1.002,1.50-1.65
 DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pr,2,0.7015,0.5801,1.72,1.81,1.56,-0.0958,1.002,1.50-1.65
-BKN @ MEM,MEM win + Jaylen Wells 10+ pr,2,0.5768,0.5156,1.94,2.04,2.12,0.0917,1.013,2.10-2.50
-BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5683,0.5313,1.88,1.98,2.03,0.079,1.008,1.85-2.10
-BKN @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.5662,0.5288,1.89,1.99,2.01,0.0651,0.995,1.85-2.10
-BKN @ MEM,MEM win + Jaylen Wells 10+ pr + Cameron Boozer 6+ reb,3,0.5101,0.4326,2.31,2.43,2.37,0.0249,1.009,2.10-2.50
-BKN @ MEM,MEM win + Cameron Boozer 6+ reb + Jaylen Wells 1+ 3pm,3,0.5016,0.4449,2.25,2.36,2.27,0.0111,1.003,2.10-2.50
-BKN @ MEM,Cam Spencer ast under 8.5 + Jaylen Wells 10+ pr,2,0.7161,0.4773,2.1,2.2,1.96,-0.0643,0.997,1.85-2.10
+BKN @ MEM,MEM win + Jaylen Wells 10+ pr,2,0.5768,0.5156,1.94,2.04,2.08,0.073,1.013,1.85-2.10
+BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5683,0.5313,1.88,1.98,2.0,0.0605,1.008,1.85-2.10
+BKN @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.5662,0.5288,1.89,1.99,1.98,0.0469,0.995,1.85-2.10
+BKN @ MEM,MEM win + Jaylen Wells 10+ pr + Cameron Boozer 6+ reb,3,0.5101,0.4326,2.31,2.43,2.33,0.0074,1.009,2.10-2.50
+BKN @ MEM,MEM win + Cameron Boozer 6+ reb + Jaylen Wells 1+ 3pm,3,0.5016,0.4449,2.25,2.36,2.23,-0.0062,1.003,2.10-2.50
+BKN @ MEM,Cam Spencer ra under 11.5 + Jaylen Wells 10+ pr,2,0.6706,0.4077,2.45,2.58,2.34,-0.0456,0.995,2.10-2.50
 CHI @ MIN,game over 235.5 + Josh Giddey 10+ pts,2,0.417,0.402,2.49,2.61,2.46,-0.0099,1.043,2.10-2.50
 CHI @ MIN,game over 235.5 + MIN win,2,0.4184,0.4375,2.29,2.4,2.25,-0.0169,1.008,2.10-2.50
 CHI @ MIN,game over 235.5 + Isaac Okoro 5+ pa,2,0.4639,0.4341,2.3,2.42,2.24,-0.0272,1.02,2.10-2.50

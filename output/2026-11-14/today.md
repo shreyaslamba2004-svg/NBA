@@ -1,6 +1,6 @@
 # NBA model · Sat 14 Nov 2026 (US date)
 
-Updated **Sun 15 Nov, 09:10 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 15 Nov, 09:15 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -17,7 +17,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| CLE to win | DAL @ CLE | draftkings | 2.70 | 1.98 | 2.33 | 43.0% | 50.5% | 50.5% | +36.4% | +16.1% | 2.0% |
+| CLE to win | DAL @ CLE | draftkings | 2.84 | 1.98 | 2.33 | 43.0% | 50.5% | 50.5% | +43.5% | +22.1% | 2.0% |
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
@@ -42,7 +42,7 @@ These look good but hinge on a questionable player. The model's chance is shown 
 
 | Bet | Game | Book | Odds | Wait for news on | Model if he sits | Model if he plays | EV now (blended odds he plays) |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| MEM to win | BKN @ MEM | draftkings | 1.80 | Zach Edey | 59.6% | 65.4% | +13.6% |
+| MEM to win | BKN @ MEM | draftkings | 1.77 | Zach Edey | 59.6% | 65.4% | +11.6% |
 
 ## Projections
 
@@ -53,7 +53,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | DEN @ NOP | Sun 15 Nov 11:00 | 124.0–114.2 | DEN 76% | 1.32 / 4.10 | NOP +9.5 | 238.5 | NOP +12.5 covers 57%; o235.5 56% |
-| DAL @ CLE | Sun 15 Nov 11:30 | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +4.5 covers 47%; o227.5 55% |
+| DAL @ CLE | Sun 15 Nov 11:30 | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
 | DET @ MIA | Sun 15 Nov 12:00 | 118.1–111.9 | DET 67% | 1.49 / 3.04 | MIA +6.5 | 229.5 | MIA +3.5 covers 41%; o229.5 51% |
 | BKN @ MEM | Sun 15 Nov 12:00 | 110.6–113.9 | BKN 40% | 2.48 / 1.68 | MEM -3.5 | 224.5 | MEM -1.5 covers 57%; o227.5 43% |
 | CHI @ MIN | Sun 15 Nov 12:00 | 108.7–126.5 | CHI 10% | 9.83 / 1.11 | MIN -17.5 | 235.5 | MIN -15.5 covers 57%; o234.5 52% |
@@ -118,12 +118,12 @@ Out: Sam Merrill (CLE), Evan Mobley (CLE), Nae'Qwan Tomlin (CLE), Sergio de Larr
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +4.5 covers 47%; o227.5 55% |
-| Expected (weighted by chance each plays) | 116.6–113.8 | DAL 57% | 1.75 / 2.33 | CLE +2.5 | 230.5 | CLE +4.5 covers 55%; o227.5 55% |
-| if Jarrett Allen plays | 117.5–112.1 | DAL 65% | 1.54 / 2.84 | CLE +5.5 | 229.5 | CLE +4.5 covers 47%; o227.5 55% |
-| if Donovan Mitchell plays | 117.5–112.1 | DAL 65% | 1.54 / 2.84 | CLE +5.5 | 229.5 | CLE +4.5 covers 47%; o227.5 55% |
-| if Peyton Watson plays | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +4.5 covers 47%; o227.5 55% |
-| if James Harden plays | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +4.5 covers 47%; o227.5 55% |
+| Confirmed players only | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
+| Expected (weighted by chance each plays) | 116.6–113.8 | DAL 57% | 1.75 / 2.33 | CLE +2.5 | 230.5 | CLE +5.5 covers 57%; o228.5 54% |
+| if Jarrett Allen plays | 117.5–112.1 | DAL 65% | 1.54 / 2.84 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
+| if Donovan Mitchell plays | 117.5–112.1 | DAL 65% | 1.54 / 2.84 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
+| if Peyton Watson plays | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
+| if James Harden plays | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -422,9 +422,9 @@ Out: Ty Jerome (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Grant Nelson 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Michael Porter Jr. | 98% | 31.9<br><sub>37,38,36,29,28</sub> | 20.2<br><sub>18,26,25,19,22</sub> | 22.5 · –<br><sub>o 47% · u 53%</sub> | 7.1<br><sub>5,10,9,9,6</sub> | 6.5<br><sub>o 54% · u 46%</sub> | 2.1<br><sub>2,0,1,0,3</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 2.8<br><sub>4,4,3,4,4</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.4 | 2.0 | 29.4 |
-| Julius Randle | 98% | 31.5<br><sub>36,31,34,30,29</sub> | 18.1<br><sub>21,22,19,13,17</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>11,3,7,4,4</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>2,4,8,4,5</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 1.2<br><sub>0,2,1,0,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.2 | 3.1 | 29.0 |
+| Julius Randle | 98% | 31.5<br><sub>36,31,34,30,29</sub> | 18.1<br><sub>21,22,19,13,17</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>11,3,7,4,4</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>2,4,8,4,5</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 1.2<br><sub>0,2,1,0,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.2 | 3.1 | 29.0 |
 | Egor Demin | 98% | 21.8<br><sub>-,-,-,-,23</sub> | 9.1<br><sub>-,-,-,-,22</sub> | 10.5 · –<br><sub>o 46% · u 54%</sub> | 2.7<br><sub>-,-,-,-,1</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>-,-,-,-,1</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.4<br><sub>-,-,-,-,4</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.8 | 0.3 | 1.3 | 14.6 |
-| Day'Ron Sharpe | 98% | 21.2<br><sub>22,27,32,20,19</sub> | 9.3<br><sub>4,6,12,6,15</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>6,5,10,4,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>3,8,13,6,5</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 0.3<br><sub>0,0,0,0,2</sub> |  | 1.0 | 1.1 | 1.8 | 19.9 |
+| Day'Ron Sharpe | 98% | 21.2<br><sub>22,27,32,20,19</sub> | 9.3<br><sub>4,6,12,6,15</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>6,5,10,4,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>3,8,13,6,5</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 0.3<br><sub>0,0,0,0,2</sub> |  | 1.0 | 1.1 | 1.8 | 19.9 |
 | Danny Wolf | 71% | 20.2<br><sub>-,19,31,36,29</sub> | 8.1<br><sub>-,12,11,10,10</sub> | 8.5 · –<br><sub>o 46% · u 54%</sub> | 5.3<br><sub>-,5,9,3,11</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 2.1<br><sub>-,3,1,2,4</sub> | 2.5<br><sub>o 40% · u 60%</sub> | 0.9<br><sub>-,2,2,1,1</sub> | 1.5<br><sub>o 36% · u 64%</sub> | 0.6 | 0.6 | 1.2 | 15.4 |
 | Mikel Brown Jr. | 90% | 20.2<br><sub>27,20,25,-,-</sub> | 10.7<br><sub>13,18,18,-,-</sub> | 12.5 · –<br><sub>o 45% · u 55%</sub> | 2.2<br><sub>2,2,1,-,-</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 3.2<br><sub>3,4,3,-,-</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 1.3<br><sub>1,3,3,-,-</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.8 | 0.2 | 1.7 | 16.1 |
 | Nolan Traore | 92% | 19.4<br><sub>24,27,23,21,-</sub> | 9.8<br><sub>17,16,19,14,-</sub> | 10.5 · –<br><sub>o 49% · u 51%</sub> | 1.9<br><sub>3,4,1,1,-</sub> |  | 3.0<br><sub>4,2,2,2,-</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.1<br><sub>5,2,2,2,-</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 0.9 | 0.4 | 1.9 | 14.7 |
@@ -462,9 +462,9 @@ Out: Ty Jerome (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Grant Nelson 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Michael Porter Jr. (BKN) | 98% | 31.9<br><sub>37,38,36,29,28</sub> | 20.2<br><sub>18,26,25,19,22</sub> | 22.5 · –<br><sub>o 47% · u 53%</sub> | 7.1<br><sub>5,10,9,9,6</sub> | 6.5<br><sub>o 54% · u 46%</sub> | 2.1<br><sub>2,0,1,0,3</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 2.8<br><sub>4,4,3,4,4</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 1.1 | 0.4 | 2.0 | 29.3 |
-| Julius Randle (BKN) | 98% | 31.3<br><sub>36,31,34,30,29</sub> | 17.8<br><sub>21,22,19,13,17</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>11,3,7,4,4</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>2,4,8,4,5</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 1.2<br><sub>0,2,1,0,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.2 | 3.1 | 28.8 |
+| Julius Randle (BKN) | 98% | 31.3<br><sub>36,31,34,30,29</sub> | 17.8<br><sub>21,22,19,13,17</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>11,3,7,4,4</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>2,4,8,4,5</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 1.2<br><sub>0,2,1,0,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.2 | 3.1 | 28.8 |
 | Egor Demin (BKN) | 98% | 21.8<br><sub>-,-,-,-,23</sub> | 9.1<br><sub>-,-,-,-,22</sub> | 10.5 · –<br><sub>o 46% · u 54%</sub> | 2.7<br><sub>-,-,-,-,1</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>-,-,-,-,1</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.4<br><sub>-,-,-,-,4</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.8 | 0.3 | 1.3 | 14.6 |
-| Day'Ron Sharpe (BKN) | 98% | 21.2<br><sub>22,27,32,20,19</sub> | 9.2<br><sub>4,6,12,6,15</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>6,5,10,4,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>3,8,13,6,5</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 0.3<br><sub>0,0,0,0,2</sub> |  | 1.0 | 1.1 | 1.8 | 19.8 |
+| Day'Ron Sharpe (BKN) | 98% | 21.2<br><sub>22,27,32,20,19</sub> | 9.2<br><sub>4,6,12,6,15</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>6,5,10,4,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>3,8,13,6,5</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 0.3<br><sub>0,0,0,0,2</sub> |  | 1.0 | 1.1 | 1.8 | 19.8 |
 | Danny Wolf (BKN) | 71% | 20.3<br><sub>-,19,31,36,29</sub> | 8.0<br><sub>-,12,11,10,10</sub> | 8.5 · –<br><sub>o 46% · u 54%</sub> | 5.2<br><sub>-,5,9,3,11</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 2.0<br><sub>-,3,1,2,4</sub> | 2.5<br><sub>o 40% · u 60%</sub> | 0.9<br><sub>-,2,2,1,1</sub> | 1.5<br><sub>o 36% · u 64%</sub> | 0.6 | 0.6 | 1.2 | 15.3 |
 | Mikel Brown Jr. (BKN) | 90% | 20.2<br><sub>27,20,25,-,-</sub> | 10.7<br><sub>13,18,18,-,-</sub> | 12.5 · –<br><sub>o 45% · u 55%</sub> | 2.2<br><sub>2,2,1,-,-</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 3.2<br><sub>3,4,3,-,-</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 1.4<br><sub>1,3,3,-,-</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.8 | 0.2 | 1.7 | 16.1 |
 | Nolan Traore (BKN) | 92% | 19.5<br><sub>24,27,23,21,-</sub> | 9.8<br><sub>17,16,19,14,-</sub> | 10.5 · –<br><sub>o 49% · u 51%</sub> | 2.0<br><sub>3,4,1,1,-</sub> |  | 3.0<br><sub>4,2,2,2,-</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.1<br><sub>5,2,2,2,-</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 0.9 | 0.4 | 1.9 | 14.8 |
@@ -496,9 +496,9 @@ Out: Ty Jerome (MEM), Scotty Pippen Jr. (MEM), Quinten Post (MEM), Grant Nelson 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Michael Porter Jr. (BKN) | 98% | 31.8<br><sub>37,38,36,29,28</sub> | 20.1<br><sub>18,26,25,19,22</sub> | 22.5 · –<br><sub>o 47% · u 53%</sub> | 7.1<br><sub>5,10,9,9,6</sub> | 6.5<br><sub>o 54% · u 46%</sub> | 2.0<br><sub>2,0,1,0,3</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 2.8<br><sub>4,4,3,4,4</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.4 | 2.0 | 29.2 |
-| Julius Randle (BKN) | 98% | 31.4<br><sub>36,31,34,30,29</sub> | 17.9<br><sub>21,22,19,13,17</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>11,3,7,4,4</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>2,4,8,4,5</sub> | 4.5<br><sub>o 51% · u 49%</sub> | 1.2<br><sub>0,2,1,0,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.3 | 3.1 | 28.9 |
+| Julius Randle (BKN) | 98% | 31.4<br><sub>36,31,34,30,29</sub> | 17.9<br><sub>21,22,19,13,17</sub> | 20.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>11,3,7,4,4</sub> | 6.5<br><sub>o 46% · u 54%</sub> | 4.4<br><sub>2,4,8,4,5</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 1.2<br><sub>0,2,1,0,0</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.0 | 0.3 | 3.1 | 28.9 |
 | Egor Demin (BKN) | 98% | 21.8<br><sub>-,-,-,-,23</sub> | 9.1<br><sub>-,-,-,-,22</sub> | 10.5 · –<br><sub>o 46% · u 54%</sub> | 2.7<br><sub>-,-,-,-,1</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 2.8<br><sub>-,-,-,-,1</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.4<br><sub>-,-,-,-,4</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 0.8 | 0.3 | 1.3 | 14.6 |
-| Day'Ron Sharpe (BKN) | 98% | 21.2<br><sub>22,27,32,20,19</sub> | 9.3<br><sub>4,6,12,6,15</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>6,5,10,4,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>3,8,13,6,5</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 0.3<br><sub>0,0,0,0,2</sub> |  | 1.0 | 1.1 | 1.8 | 19.9 |
+| Day'Ron Sharpe (BKN) | 98% | 21.2<br><sub>22,27,32,20,19</sub> | 9.3<br><sub>4,6,12,6,15</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 7.2<br><sub>6,5,10,4,4</sub> | 7.5<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>3,8,13,6,5</sub> | 3.5<br><sub>o 53% · u 47%</sub> | 0.3<br><sub>0,0,0,0,2</sub> |  | 1.0 | 1.1 | 1.8 | 19.9 |
 | Danny Wolf (BKN) | 71% | 20.3<br><sub>-,19,31,36,29</sub> | 8.1<br><sub>-,12,11,10,10</sub> | 8.5 · –<br><sub>o 46% · u 54%</sub> | 5.3<br><sub>-,5,9,3,11</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 2.1<br><sub>-,3,1,2,4</sub> | 2.5<br><sub>o 40% · u 60%</sub> | 0.9<br><sub>-,2,2,1,1</sub> | 1.5<br><sub>o 36% · u 64%</sub> | 0.6 | 0.6 | 1.2 | 15.5 |
 | Mikel Brown Jr. (BKN) | 90% | 20.2<br><sub>27,20,25,-,-</sub> | 10.8<br><sub>13,18,18,-,-</sub> | 12.5 · –<br><sub>o 45% · u 55%</sub> | 2.2<br><sub>2,2,1,-,-</sub> | 2.5<br><sub>o 42% · u 58%</sub> | 3.2<br><sub>3,4,3,-,-</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 1.4<br><sub>1,3,3,-,-</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.8 | 0.2 | 1.7 | 16.2 |
 | Nolan Traore (BKN) | 92% | 19.5<br><sub>24,27,23,21,-</sub> | 9.8<br><sub>17,16,19,14,-</sub> | 10.5 · –<br><sub>o 49% · u 51%</sub> | 1.9<br><sub>3,4,1,1,-</sub> |  | 3.0<br><sub>4,2,2,2,-</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 1.1<br><sub>5,2,2,2,-</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 0.9 | 0.4 | 1.9 | 14.8 |
