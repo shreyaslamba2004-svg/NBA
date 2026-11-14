@@ -1,28 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ SAS,Yaxel Lendeborg pts under 21.5 + SAS win,2,0.3562,0.4479,2.23,2.34,2.27,0.0158,1.072,2.10-2.50
+GSW @ SAS,Yaxel Lendeborg pts under 21.5 + SAS win,2,0.3562,0.4438,2.25,2.37,2.27,0.0064,1.072,2.10-2.50
+GSW @ SAS,Victor Wembanyama 28+ pts + SAS win,2,0.3392,0.4355,2.3,2.41,2.28,-0.0077,1.062,2.10-2.50
 GSW @ SAS,Dylan Harper 16+ pts + SAS win,2,0.3792,0.4366,2.29,2.4,2.27,-0.0098,1.055,2.10-2.50
-GSW @ SAS,De'Anthony Melton pts under 12.5 + SAS win,2,0.4164,0.4557,2.19,2.3,2.17,-0.0103,1.05,2.10-2.50
-GSW @ SAS,Georges Niang 7+ pts + De'Anthony Melton 10+ pra,2,0.6029,0.479,2.09,2.19,2.0,-0.0439,1.003,1.85-2.10
-GSW @ SAS,Georges Niang 7+ pts + Brandin Podziemski 15+ pra,2,0.6069,0.4859,2.06,2.16,1.97,-0.0445,1.004,1.85-2.10
-GSW @ SAS,Al Horford 3pm under 1.5 + SAS win,2,0.5662,0.5076,1.97,2.07,1.88,-0.0464,1.015,1.85-2.10
-GSW @ SAS,Will Richard 2+ reb + De'Anthony Melton 10+ pra,2,0.719,0.5212,1.92,2.01,1.77,-0.0753,1.001,1.65-1.85
-GSW @ SAS,Will Richard 2+ reb + Brandin Podziemski 15+ pra,2,0.7232,0.5283,1.89,1.99,1.75,-0.0765,1.001,1.65-1.85
-GSW @ SAS,Will Richard 2+ reb + De'Aaron Fox 10+ pa,2,0.7183,0.5295,1.89,1.98,1.74,-0.0773,1.001,1.65-1.85
-GSW @ SAS,Draymond Green 4+ ast + Devin Vassell 10+ pr,2,0.7145,0.5932,1.69,1.77,1.52,-0.099,1.001,1.50-1.65
-GSW @ SAS,SAS win + Georges Niang 5+ pr + Devin Vassell 10+ pr,3,0.5661,0.5394,1.85,1.95,1.61,-0.1303,1.005,1.50-1.65
-GSW @ SAS,SAS win + Georges Niang 5+ pr + Devin Vassell 1+ 3pm,3,0.5682,0.565,1.77,1.86,1.53,-0.1381,1.003,1.50-1.65
-POR @ SAC,POR win + Jrue Holiday 18+ pa,2,0.4501,0.4109,2.43,2.56,2.38,-0.024,1.04,2.10-2.50
-POR @ SAC,game over 229.5 + Domantas Sabonis 15+ pa,2,0.4508,0.3985,2.51,2.64,2.45,-0.0246,1.057,2.10-2.50
-POR @ SAC,POR win + Jrue Holiday 22+ pra,2,0.4381,0.4061,2.46,2.59,2.4,-0.0266,1.04,2.10-2.50
-POR @ SAC,POR win + Jrue Holiday 4+ ast,2,0.552,0.5009,2.0,2.1,1.89,-0.0544,1.013,1.85-2.10
+GSW @ SAS,Charles Bassey 5+ pts + Stephon Castle 10+ pa,2,0.6015,0.4863,2.06,2.16,1.96,-0.0483,1.003,1.85-2.10
+GSW @ SAS,De'Aaron Fox pts under 13.5 + Julian Champagnie 5+ pr,2,0.493,0.4709,2.12,2.23,2.02,-0.0487,0.999,1.85-2.10
+GSW @ SAS,Charles Bassey 5+ pts + Yaxel Lendeborg 15+ pa,2,0.5807,0.4674,2.14,2.25,2.03,-0.049,1.001,1.85-2.10
+GSW @ SAS,Draymond Green 4+ ast + Devin Vassell 10+ pr,2,0.7145,0.5945,1.68,1.77,1.52,-0.0992,1.001,1.50-1.65
+GSW @ SAS,Draymond Green 4+ ast + De'Anthony Melton 10+ pa,2,0.6912,0.5832,1.71,1.8,1.54,-0.1012,1.001,1.50-1.65
+GSW @ SAS,SAS win + Georges Niang 5+ pr + Devin Vassell 10+ pr,3,0.5661,0.5316,1.88,1.98,1.64,-0.128,1.005,1.50-1.65
+GSW @ SAS,SAS win + Draymond Green 4+ ast + Devin Vassell 10+ pr,3,0.5068,0.4906,2.04,2.14,1.76,-0.1364,1.001,1.65-1.85
+GSW @ SAS,Georges Niang 5+ pr + Draymond Green 4+ ast + De'Anthony Melton 10+ pa,3,0.6427,0.4793,2.09,2.19,1.8,-0.1373,1.008,1.65-1.85
+GSW @ SAS,Georges Niang 5+ pr + Draymond Green 4+ ast + Devin Vassell 10+ pr,3,0.6623,0.487,2.05,2.16,1.77,-0.1382,1.004,1.65-1.85
+POR @ SAC,Zach LaVine pts under 19.5 + POR win,2,0.4321,0.4219,2.37,2.49,2.46,0.036,1.062,2.10-2.50
+POR @ SAC,Keegan Murray pts under 11.5 + POR win,2,0.4264,0.4307,2.32,2.44,2.33,0.0052,1.052,2.10-2.50
+POR @ SAC,Darius Acuff Jr. pts under 24.5 + POR win,2,0.3755,0.4153,2.41,2.53,2.4,-0.0044,1.058,2.10-2.50
+POR @ SAC,Damian Lillard pts under 22.5 + De'Andre Hunter 10+ pra,2,0.6405,0.4786,2.09,2.19,2.05,-0.0212,0.999,1.85-2.10
+POR @ SAC,Damian Lillard pts under 22.5 + Toumani Camara 10+ pra,2,0.6288,0.4706,2.12,2.23,2.08,-0.023,0.998,1.85-2.10
+POR @ SAC,Zach LaVine pts under 19.5 + De'Andre Hunter 10+ pra,2,0.5348,0.4521,2.21,2.32,2.1,-0.0528,0.997,1.85-2.10
 POR @ SAC,POR win + Toumani Camara 10+ pa,2,0.6119,0.6038,1.66,1.74,1.55,-0.064,1.018,1.50-1.65
-POR @ SAC,game over 229.5 + De'Andre Hunter 10+ pra,2,0.5148,0.4566,2.19,2.3,2.05,-0.066,1.013,1.85-2.10
-POR @ SAC,game over 229.5 + Toumani Camara 10+ pra,2,0.5062,0.4498,2.22,2.33,2.08,-0.0663,1.013,1.85-2.10
-POR @ SAC,Sidy Cissoko 3pm under 1.5 + De'Andre Hunter 10+ pra,2,0.6603,0.5163,1.94,2.03,1.77,-0.0886,1.002,1.65-1.85
-POR @ SAC,Sidy Cissoko 3pm under 1.5 + Toumani Camara 10+ pra,2,0.6466,0.5066,1.97,2.07,1.79,-0.0924,0.998,1.65-1.85
 POR @ SAC,Toumani Camara 10+ pa + Domantas Sabonis 15+ pa,2,0.6675,0.5684,1.76,1.85,1.58,-0.1003,1.004,1.50-1.65
 POR @ SAC,Toumani Camara 10+ pa + De'Andre Hunter 10+ pa,2,0.6964,0.5962,1.68,1.76,1.51,-0.1014,1.004,1.50-1.65
 POR @ SAC,POR win + Toumani Camara 10+ pa + Scoot Henderson 10+ pra,3,0.546,0.4932,2.03,2.13,1.82,-0.1043,1.028,1.65-1.85
+POR @ SAC,POR win + Toumani Camara 10+ pa + Sidy Cissoko 5+ pa,3,0.5701,0.5251,1.9,2.0,1.7,-0.1078,1.027,1.65-1.85
+POR @ SAC,POR win + Toumani Camara 10+ pa + De'Andre Hunter 1+ 3pm,3,0.522,0.4812,2.08,2.18,1.83,-0.1189,1.015,1.65-1.85
 OKC @ LAC,OKC win + Alex Caruso 7+ pts,2,0.4302,0.4024,2.49,2.61,2.44,-0.0175,1.036,2.10-2.50
 OKC @ LAC,Max Strus 3pm under 2.5 + OKC win,2,0.4952,0.4348,2.3,2.42,2.26,-0.0179,1.024,2.10-2.50
 OKC @ LAC,OKC win + Max Strus pra under 16.5,2,0.4123,0.397,2.52,2.64,2.47,-0.0207,1.04,2.10-2.50
