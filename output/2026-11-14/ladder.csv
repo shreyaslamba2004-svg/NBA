@@ -1,13 +1,13 @@
 game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,market_source,p_over_blend
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,14.5,False,0.7095,0.7021,book,0.7031
-401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,15.5,False,0.6577,0.6651,est,0.6641
-401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,16.5,False,0.6045,0.6124,est,0.6114
-401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,17.5,False,0.5503,0.5622,book,0.5606
-401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,18.5,True,0.5015,0.5098,book,0.5087
+401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,15.5,False,0.6577,0.6554,est,0.6557
+401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,16.5,False,0.6045,0.6021,est,0.6024
+401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,17.5,False,0.5503,0.5474,book,0.5478
+401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,18.5,True,0.5015,0.499,book,0.4993
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,19.5,False,0.4527,0.4604,book,0.4594
-401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,20.5,False,0.406,0.414,est,0.4129
-401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,21.5,False,0.3599,0.3675,est,0.3665
-401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,22.5,False,0.3163,0.3235,est,0.3226
+401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,20.5,False,0.406,0.4035,est,0.4039
+401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,21.5,False,0.3599,0.3576,est,0.3579
+401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,pts,22.5,False,0.3163,0.3141,est,0.3144
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,reb,1.5,False,0.9575,0.9449,est,0.9466
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,reb,2.5,False,0.8805,0.822,book,0.8297
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,reb,3.5,False,0.7568,0.6925,book,0.701
@@ -67,15 +67,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,ra,8.5,False,0.4472,0.3587,est,0.3704
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,ra,9.5,False,0.332,0.2557,est,0.2658
 401909980,DEN @ NOP,NOP,1630180,Saddiq Bey,ra,10.5,False,0.2328,0.1734,est,0.1813
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,14.5,False,0.6223,0.7122,est,0.7003
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,15.5,False,0.5669,0.6628,est,0.6502
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,16.5,False,0.5106,0.6104,est,0.5972
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,17.5,False,0.455,0.5563,est,0.5429
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,18.5,True,0.4025,0.5029,book,0.4897
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,19.5,False,0.3546,0.4521,est,0.4392
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,20.5,False,0.3071,0.3996,est,0.3874
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,21.5,False,0.2626,0.3484,est,0.3371
-401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,22.5,False,0.2263,0.3052,est,0.2948
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,14.5,False,0.6223,0.7098,est,0.6983
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,15.5,False,0.5669,0.6602,est,0.6479
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,16.5,False,0.5106,0.6077,est,0.5949
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,17.5,False,0.455,0.5534,est,0.5404
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,18.5,True,0.4025,0.5,book,0.4871
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,19.5,False,0.3546,0.4492,est,0.4367
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,20.5,False,0.3071,0.3968,est,0.385
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,21.5,False,0.2626,0.3458,est,0.3348
+401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,pts,22.5,False,0.2263,0.3027,est,0.2926
 401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,reb,1.5,False,0.9327,0.9369,est,0.9364
 401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,reb,2.5,False,0.8246,0.8083,book,0.8105
 401909980,DEN @ NOP,NOP,1642847,Jeremiah Fears,reb,3.5,False,0.6712,0.6706,book,0.6707
@@ -268,7 +268,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,2.5,False,0.9689,0.9074,est,0.9155
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,3.5,False,0.9342,0.8171,est,0.8326
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,4.5,False,0.8855,0.7089,est,0.7322
-401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,5.5,False,0.8228,0.5938,est,0.624
+401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,5.5,False,0.8228,0.5321,book,0.5705
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,6.5,True,0.7481,0.4831,book,0.5181
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,7.5,False,0.6681,0.3879,est,0.4249
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,pts,8.5,False,0.5799,0.3029,est,0.3395
@@ -331,14 +331,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,ra,8.5,False,0.3038,,model only,0.3038
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,ra,9.5,False,0.2144,,model only,0.2144
 401909980,DEN @ NOP,NOP,1631255,Karlo Matkovic,ra,10.5,False,0.1459,,model only,0.1459
-401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,1.5,False,0.9317,0.9398,est,0.9387
-401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,2.5,False,0.8446,0.8613,est,0.8591
-401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,3.5,False,0.7408,0.7656,est,0.7623
-401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,4.5,False,0.6256,0.6563,est,0.6523
-401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,5.5,True,0.5069,0.5402,book,0.5358
-401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,6.5,False,0.4022,0.4347,est,0.4304
+401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,1.5,False,0.9317,0.9323,est,0.9322
+401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,2.5,False,0.8446,0.8457,est,0.8455
+401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,3.5,False,0.7408,0.7424,est,0.7422
+401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,4.5,False,0.6256,0.6276,est,0.6273
+401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,5.5,True,0.5069,0.509,book,0.5087
+401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,6.5,False,0.4022,0.4042,est,0.404
 401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,7.5,False,0.3085,0.3513,book,0.3457
-401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,8.5,False,0.2346,0.2595,est,0.2562
+401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,8.5,False,0.2346,0.2362,est,0.236
 401909980,DEN @ NOP,NOP,1642274,Yves Missi,pts,9.5,False,0.1739,0.2068,book,0.2025
 401909980,DEN @ NOP,NOP,1642274,Yves Missi,reb,2.5,False,0.888,0.8678,book,0.8705
 401909980,DEN @ NOP,NOP,1642274,Yves Missi,reb,3.5,False,0.7922,0.7751,book,0.7774
@@ -396,15 +396,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,NOP,1642274,Yves Missi,ra,8.5,False,0.3815,,model only,0.3815
 401909980,DEN @ NOP,NOP,1642274,Yves Missi,ra,9.5,False,0.2909,,model only,0.2909
 401909980,DEN @ NOP,NOP,1642274,Yves Missi,ra,10.5,False,0.2153,,model only,0.2153
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,6.5,False,0.7618,0.8043,est,0.7987
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,7.5,False,0.6827,0.7344,est,0.7276
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,8.5,False,0.6077,0.6656,est,0.658
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,9.5,False,0.5319,0.5935,est,0.5854
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,10.5,True,0.4557,0.5183,book,0.51
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,11.5,False,0.3848,0.4456,est,0.4376
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,12.5,False,0.324,0.3812,est,0.3736
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,13.5,False,0.2686,0.3206,est,0.3138
-401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,14.5,False,0.221,0.2671,est,0.261
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,6.5,False,0.7618,0.7952,est,0.7908
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,7.5,False,0.6827,0.7231,est,0.7177
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,8.5,False,0.6077,0.6528,est,0.6468
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,9.5,False,0.5319,0.5796,est,0.5733
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,10.5,True,0.4557,0.504,book,0.4976
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,11.5,False,0.3848,0.4315,est,0.4253
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,12.5,False,0.324,0.3678,est,0.362
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,13.5,False,0.2686,0.3083,est,0.3031
+401909980,DEN @ NOP,NOP,1629673,Jordan Poole,pts,14.5,False,0.221,0.2561,est,0.2514
 401909980,DEN @ NOP,NOP,1629673,Jordan Poole,reb,0.5,False,0.8688,,model only,0.8688
 401909980,DEN @ NOP,NOP,1629673,Jordan Poole,reb,1.5,False,0.6296,,model only,0.6296
 401909980,DEN @ NOP,NOP,1629673,Jordan Poole,reb,2.5,False,0.3915,,model only,0.3915
@@ -529,15 +529,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,NOP,1642852,Derik Queen,ra,11.5,False,0.3831,,model only,0.3831
 401909980,DEN @ NOP,NOP,1642852,Derik Queen,ra,12.5,False,0.3026,,model only,0.3026
 401909980,DEN @ NOP,NOP,1642852,Derik Queen,ra,13.5,False,0.2324,,model only,0.2324
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,16.5,False,0.734,0.7073,est,0.7108
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,17.5,False,0.6889,0.6597,est,0.6636
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,18.5,False,0.6451,0.6141,est,0.6182
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,19.5,False,0.5978,0.5654,est,0.5697
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,20.5,True,0.5514,0.5183,book,0.5227
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,21.5,False,0.5049,0.4717,est,0.4761
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,22.5,False,0.4605,0.4277,est,0.432
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,23.5,False,0.4187,0.3867,est,0.3909
-401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,24.5,False,0.376,0.3454,est,0.3494
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,17.5,False,0.6889,0.6785,est,0.6799
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,18.5,False,0.6451,0.6341,est,0.6355
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,19.5,False,0.5978,0.5862,est,0.5877
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,20.5,False,0.5514,0.518,book,0.5224
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,21.5,True,0.5049,0.4929,book,0.4945
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,22.5,False,0.4605,0.4562,book,0.4568
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,23.5,False,0.4187,0.407,est,0.4086
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,24.5,False,0.376,0.3648,est,0.3663
+401909980,DEN @ NOP,NOP,1629627,Zion Williamson,pts,25.5,False,0.3369,0.3262,est,0.3276
 401909980,DEN @ NOP,NOP,1629627,Zion Williamson,reb,2.5,False,0.9183,0.8592,book,0.867
 401909980,DEN @ NOP,NOP,1629627,Zion Williamson,reb,3.5,False,0.8242,0.7599,book,0.7684
 401909980,DEN @ NOP,NOP,1629627,Zion Williamson,reb,4.5,False,0.6926,0.6272,book,0.6358
@@ -661,14 +661,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,DEN,1628963,Marvin Bagley III,ra,6.5,False,0.2703,,model only,0.2703
 401909980,DEN @ NOP,DEN,1628963,Marvin Bagley III,ra,7.5,False,0.1907,,model only,0.1907
 401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,7.5,False,0.8503,0.7542,book,0.7669
-401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,8.5,False,0.7876,0.7342,est,0.7413
+401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,8.5,False,0.7876,0.7437,est,0.7495
 401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,9.5,False,0.7185,0.636,book,0.6469
-401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,10.5,False,0.6513,0.5819,est,0.591
-401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,11.5,True,0.5798,0.5069,book,0.5165
-401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,12.5,False,0.5105,0.4373,est,0.4469
-401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,13.5,False,0.4396,0.3688,est,0.3782
+401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,10.5,False,0.6513,0.5938,est,0.6014
+401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,11.5,True,0.5798,0.5192,book,0.5272
+401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,12.5,False,0.5105,0.4494,est,0.4575
+401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,13.5,False,0.4396,0.3804,est,0.3882
 401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,14.5,False,0.38,0.3223,book,0.3299
-401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,15.5,False,0.3216,0.261,est,0.269
+401909980,DEN @ NOP,DEN,1631128,Christian Braun,pts,15.5,False,0.3216,0.2706,est,0.2773
 401909980,DEN @ NOP,DEN,1631128,Christian Braun,reb,1.5,False,0.9198,0.9114,est,0.9125
 401909980,DEN @ NOP,DEN,1631128,Christian Braun,reb,2.5,False,0.7902,0.7484,book,0.7539
 401909980,DEN @ NOP,DEN,1631128,Christian Braun,reb,3.5,False,0.6248,0.5884,book,0.5932
@@ -791,15 +791,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,DEN,904698719,Trevon Brazile,ra,5.5,False,0.3723,,model only,0.3723
 401909980,DEN @ NOP,DEN,904698719,Trevon Brazile,ra,6.5,False,0.2669,,model only,0.2669
 401909980,DEN @ NOP,DEN,904698719,Trevon Brazile,ra,7.5,False,0.1838,,model only,0.1838
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,6.5,False,0.8151,0.7721,est,0.7778
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,7.5,False,0.7515,0.6992,est,0.7061
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,8.5,False,0.6848,0.6254,est,0.6333
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,9.5,False,0.6122,0.5482,est,0.5567
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,10.5,True,0.5422,0.4765,book,0.4852
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,11.5,False,0.4751,0.4103,est,0.4188
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,12.5,False,0.4119,0.35,est,0.3582
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,13.5,False,0.3507,0.2934,est,0.301
-401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,14.5,False,0.2959,0.2442,est,0.251
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,6.5,False,0.8151,0.7799,est,0.7845
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,7.5,False,0.7515,0.7086,est,0.7142
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,8.5,False,0.6848,0.6359,est,0.6423
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,9.5,False,0.6122,0.5593,est,0.5663
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,10.5,True,0.5422,0.4877,book,0.4949
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,11.5,False,0.4751,0.4211,est,0.4283
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,12.5,False,0.4119,0.3603,est,0.3671
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,13.5,False,0.3507,0.3028,est,0.3091
+401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,pts,14.5,False,0.2959,0.2525,est,0.2582
 401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,reb,0.5,False,0.8476,,model only,0.8476
 401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,reb,1.5,False,0.5892,,model only,0.5892
 401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,reb,2.5,False,0.3494,0.3291,book,0.3318
@@ -855,15 +855,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,ra,5.5,False,0.4415,0.3473,est,0.3597
 401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,ra,6.5,False,0.3147,0.2361,est,0.2464
 401909980,DEN @ NOP,DEN,201942,DeMar DeRozan,ra,7.5,False,0.2126,0.1538,est,0.1616
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,9.5,False,0.73,0.7581,est,0.7544
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,10.5,False,0.6619,0.6942,est,0.69
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,11.5,False,0.5948,0.63,est,0.6253
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,12.5,False,0.5288,0.5655,est,0.5607
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,13.5,True,0.4619,0.4989,book,0.494
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,14.5,False,0.4001,0.4361,est,0.4313
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,15.5,False,0.3446,0.3787,est,0.3742
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,16.5,False,0.2937,0.3253,est,0.3211
-401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,17.5,False,0.2479,0.2766,est,0.2728
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,9.5,False,0.73,0.7537,est,0.7506
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,10.5,False,0.6619,0.6891,est,0.6855
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,11.5,False,0.5948,0.6244,est,0.6205
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,12.5,False,0.5288,0.5596,est,0.5556
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,13.5,True,0.4619,0.4929,book,0.4888
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,14.5,False,0.4001,0.4302,est,0.4262
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,15.5,False,0.3446,0.3731,est,0.3693
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,16.5,False,0.2937,0.3201,est,0.3166
+401909980,DEN @ NOP,DEN,203932,Aaron Gordon,pts,17.5,False,0.2479,0.2718,est,0.2686
 401909980,DEN @ NOP,DEN,203932,Aaron Gordon,reb,1.5,False,0.9555,0.9426,est,0.9443
 401909980,DEN @ NOP,DEN,203932,Aaron Gordon,reb,2.5,False,0.8819,0.833,book,0.8394
 401909980,DEN @ NOP,DEN,203932,Aaron Gordon,reb,3.5,False,0.7622,0.7094,book,0.7164
@@ -922,15 +922,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,DEN,203932,Aaron Gordon,ra,8.5,False,0.4354,0.3802,est,0.3875
 401909980,DEN @ NOP,DEN,203932,Aaron Gordon,ra,9.5,False,0.3287,0.2803,est,0.2867
 401909980,DEN @ NOP,DEN,203932,Aaron Gordon,ra,10.5,False,0.2373,0.1984,est,0.2035
-401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,8.5,False,0.7851,0.787,est,0.7867
+401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,8.5,False,0.7851,0.7861,est,0.786
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,9.5,False,0.715,0.6912,book,0.6943
-401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,10.5,False,0.6455,0.648,est,0.6477
+401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,10.5,False,0.6455,0.6469,est,0.6467
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,11.5,False,0.5783,0.5695,book,0.5707
-401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,12.5,True,0.508,0.5107,book,0.5103
-401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,13.5,False,0.4431,0.4458,est,0.4454
+401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,12.5,True,0.508,0.5094,book,0.5092
+401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,13.5,False,0.4431,0.4797,book,0.4749
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,14.5,False,0.3829,0.3943,book,0.3928
-401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,15.5,False,0.3238,0.3262,est,0.3259
-401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,16.5,False,0.2686,0.2707,est,0.2704
+401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,15.5,False,0.3238,0.3251,est,0.3249
+401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,pts,16.5,False,0.2686,0.2697,est,0.2696
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,reb,0.5,False,0.9733,0.9666,est,0.9675
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,reb,1.5,False,0.8844,0.8589,est,0.8623
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,reb,2.5,False,0.7287,0.6706,book,0.6783
@@ -988,15 +988,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,ra,6.5,False,0.4533,0.3729,est,0.3835
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,ra,7.5,False,0.3243,0.2561,est,0.2651
 401909980,DEN @ NOP,DEN,1629661,Cameron Johnson,ra,8.5,False,0.2212,0.1692,est,0.1761
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,22.5,False,0.6711,0.6645,est,0.6653
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,23.5,False,0.634,0.627,est,0.6279
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,24.5,False,0.592,0.5847,est,0.5857
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,25.5,False,0.5534,0.5459,est,0.5469
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,26.5,True,0.5153,0.5078,book,0.5088
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,27.5,False,0.4794,0.4719,est,0.4729
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,28.5,False,0.4442,0.4368,est,0.4378
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,29.5,False,0.4074,0.4002,est,0.4011
-401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,30.5,False,0.3725,0.3655,est,0.3664
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,22.5,False,0.6711,0.6611,est,0.6624
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,23.5,False,0.634,0.6234,est,0.6248
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,24.5,False,0.592,0.581,est,0.5824
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,25.5,False,0.5534,0.5422,est,0.5437
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,26.5,True,0.5153,0.504,book,0.5055
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,27.5,False,0.4794,0.4892,book,0.4879
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,28.5,False,0.4442,0.433,est,0.4345
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,29.5,False,0.4074,0.3965,est,0.398
+401909980,DEN @ NOP,DEN,203999,Nikola Jokic,pts,30.5,False,0.3725,0.362,est,0.3634
 401909980,DEN @ NOP,DEN,203999,Nikola Jokic,reb,8.5,False,0.8346,0.7858,book,0.7922
 401909980,DEN @ NOP,DEN,203999,Nikola Jokic,reb,9.5,False,0.7622,0.7142,book,0.7205
 401909980,DEN @ NOP,DEN,203999,Nikola Jokic,reb,10.5,False,0.678,0.6292,book,0.6356
@@ -1057,15 +1057,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,DEN,203999,Nikola Jokic,ra,23.5,False,0.4631,0.4119,est,0.4186
 401909980,DEN @ NOP,DEN,203999,Nikola Jokic,ra,24.5,False,0.4008,0.3519,est,0.3584
 401909980,DEN @ NOP,DEN,203999,Nikola Jokic,ra,25.5,False,0.3424,0.2972,est,0.3032
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,0.5,False,0.9501,,model only,0.9501
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,1.5,False,0.858,,model only,0.858
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,2.5,False,0.7327,,model only,0.7327
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,3.5,False,0.5971,,model only,0.5971
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,4.5,False,0.4625,,model only,0.4625
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,5.5,False,0.3445,,model only,0.3445
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,6.5,False,0.2478,,model only,0.2478
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,7.5,False,0.1708,,model only,0.1708
-401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,8.5,False,0.1151,,model only,0.1151
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,0.5,False,0.9501,0.9579,est,0.9569
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,1.5,False,0.858,0.8784,est,0.8757
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,2.5,False,0.7327,0.7662,est,0.7618
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,3.5,False,0.5971,0.6392,est,0.6337
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,4.5,True,0.4625,0.5071,book,0.5012
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,5.5,False,0.3445,0.3859,est,0.3804
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,6.5,False,0.2478,0.2826,est,0.278
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,7.5,False,0.1708,0.1976,est,0.194
+401909980,DEN @ NOP,DEN,904592427,Spencer Jones,pts,8.5,False,0.1151,0.1346,est,0.1321
 401909980,DEN @ NOP,DEN,904592427,Spencer Jones,reb,0.5,False,0.893,,model only,0.893
 401909980,DEN @ NOP,DEN,904592427,Spencer Jones,reb,1.5,False,0.7029,,model only,0.7029
 401909980,DEN @ NOP,DEN,904592427,Spencer Jones,reb,2.5,False,0.4938,,model only,0.4938
@@ -1120,15 +1120,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909980,DEN @ NOP,DEN,904592427,Spencer Jones,ra,4.5,False,0.3114,,model only,0.3114
 401909980,DEN @ NOP,DEN,904592427,Spencer Jones,ra,5.5,False,0.192,,model only,0.192
 401909980,DEN @ NOP,DEN,904592427,Spencer Jones,ra,6.5,False,0.1136,,model only,0.1136
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,20.5,False,0.6902,0.6549,est,0.6595
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,21.5,False,0.6476,0.6103,est,0.6152
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,22.5,False,0.6042,0.5653,est,0.5705
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,23.5,False,0.5626,0.5228,est,0.5281
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,24.5,True,0.5209,0.4809,book,0.4862
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,25.5,False,0.4822,0.4424,est,0.4477
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,26.5,False,0.4434,0.4043,est,0.4095
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,27.5,False,0.4049,0.3669,est,0.3719
-401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,28.5,False,0.3661,0.3298,est,0.3346
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,19.5,False,0.7317,0.7015,book,0.7055
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,20.5,False,0.6902,0.6417,est,0.6481
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,21.5,False,0.6476,0.5964,est,0.6032
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,22.5,False,0.6042,0.5511,est,0.5581
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,23.5,True,0.5626,0.5084,book,0.5155
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,24.5,False,0.5209,0.491,book,0.495
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,25.5,False,0.4822,0.4282,est,0.4354
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,26.5,False,0.4434,0.3905,est,0.3975
+401909980,DEN @ NOP,DEN,1627750,Jamal Murray,pts,27.5,False,0.4049,0.3536,est,0.3604
 401909980,DEN @ NOP,DEN,1627750,Jamal Murray,reb,0.5,False,0.9828,0.9779,est,0.9785
 401909980,DEN @ NOP,DEN,1627750,Jamal Murray,reb,1.5,False,0.9171,0.8954,est,0.8983
 401909980,DEN @ NOP,DEN,1627750,Jamal Murray,reb,2.5,False,0.7915,0.7349,book,0.7424
