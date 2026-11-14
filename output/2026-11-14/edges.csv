@@ -1,3 +1,5 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401909982,DET @ MIA,prop_pts,over,Bam Adebayo,1628389.0,34.5,draftkings,2500.0,26.0,0.069,14.48,0.0359,0.0359,0.0331,,0.7953,0.0403,0.0482,0.0005,False,True,False,,,
-401909982,DET @ MIA,prop_pts,over,Bam Adebayo,1628389.0,24.5,draftkings,401.0,5.01,0.2955,3.38,0.1865,0.1865,0.109,,0.4807,0.2009,0.0067,0.0004,False,True,False,,,
+401909982,DET @ MIA,prop_pts,over,Bam Adebayo,1628389.0,29.5,draftkings,1080.0,11.8,0.1505,6.64,0.0792,0.0792,0.0713,,0.7762,0.0886,0.0457,0.0011,False,True,False,,,
+401909982,DET @ MIA,prop_fg3m,over,Bam Adebayo,1628389.0,2.5,draftkings,600.0,7.0,0.2155,4.64,0.1335,0.1335,0.082,,0.5085,0.1443,0.0103,0.0004,False,True,False,,,
+401909982,DET @ MIA,prop_pts,over,Bam Adebayo,1628389.0,24.5,draftkings,391.0,4.91,0.2955,3.38,0.1903,0.1903,0.1052,,0.4511,0.2042,0.0028,0.0002,False,True,False,,,
