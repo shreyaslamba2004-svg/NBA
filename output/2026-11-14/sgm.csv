@@ -1,40 +1,39 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+DEN @ NOP,DEN win + Jeremiah Fears pa under 24.5,2,0.4762,0.4282,2.34,2.45,2.26,-0.0313,1.047,2.10-2.50
 DEN @ NOP,DEN win + Jeremiah Fears pra under 29.5,2,0.4763,0.426,2.35,2.46,2.27,-0.032,1.045,2.10-2.50
-DEN @ NOP,DEN win + Jeremiah Fears pts under 18.5,2,0.4866,0.4311,2.32,2.44,2.24,-0.0332,1.042,2.10-2.50
 DEN @ NOP,DEN win + Jeremiah Fears pr under 23.5,2,0.4843,0.4336,2.31,2.42,2.22,-0.0357,1.041,2.10-2.50
-DEN @ NOP,game over 234.5 + Christian Braun 10+ pr,2,0.5408,0.4494,2.23,2.34,2.06,-0.0731,1.021,1.85-2.10
+DEN @ NOP,game over 234.5 + Christian Braun 10+ pr,2,0.5408,0.4485,2.23,2.34,2.07,-0.0727,1.021,1.85-2.10
+DEN @ NOP,NOP +12.5 + Saddiq Bey 15+ pra,2,0.5184,0.4603,2.17,2.28,2.01,-0.0728,1.01,1.85-2.10
 DEN @ NOP,game over 234.5 + Cameron Johnson 10+ pr,2,0.5273,0.4459,2.24,2.35,2.07,-0.0758,1.021,1.85-2.10
-DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pa,2,0.5983,0.4592,2.18,2.29,2.0,-0.0811,1.002,1.85-2.10
-DEN @ NOP,Herbert Jones 2+ ast + Cameron Johnson 10+ pra,2,0.657,0.5142,1.94,2.04,1.78,-0.085,1.001,1.65-1.85
-DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pra,2,0.6683,0.5187,1.93,2.02,1.76,-0.0863,0.999,1.65-1.85
-DEN @ NOP,Zion Williamson 9+ ra + Christian Braun 10+ pra,2,0.6263,0.5099,1.96,2.06,1.78,-0.0941,1.002,1.65-1.85
-DEN @ NOP,Herbert Jones 10+ pra + Zion Williamson 4+ reb,2,0.688,0.597,1.67,1.76,1.5,-0.1017,1.006,1.50-1.65
+DEN @ NOP,Herbert Jones 2+ ast + Saddiq Bey 15+ pra,2,0.6576,0.5084,1.97,2.07,1.8,-0.0834,1.002,1.65-1.85
+DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pra,2,0.6683,0.5148,1.94,2.04,1.78,-0.0862,0.999,1.65-1.85
+DEN @ NOP,Herbert Jones 5+ ra + Christian Braun 10+ pra,2,0.6554,0.5226,1.91,2.01,1.74,-0.0923,1.0,1.65-1.85
+DEN @ NOP,Saddiq Bey 15+ pa + Zion Williamson 4+ reb,2,0.6815,0.5958,1.68,1.76,1.5,-0.1034,1.005,1.50-1.65
+DEN @ NOP,Saddiq Bey 15+ pa + Herbert Jones 10+ pra,2,0.6758,0.5891,1.7,1.78,1.52,-0.1041,1.004,1.50-1.65
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.6092,0.5594,1.79,1.88,1.57,-0.1206,1.022,1.50-1.65
-DEN @ NOP,DEN win + Christian Braun 10+ pr + Cameron Johnson 10+ pa,3,0.6068,0.5547,1.8,1.89,1.58,-0.1215,1.02,1.50-1.65
-DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.3953,0.3973,2.52,2.64,2.43,-0.0357,1.035,2.10-2.50
-DAL @ CLE,CLE win + Donovan Mitchell 2+ 3pm,2,0.4392,0.3856,2.59,2.72,2.45,-0.0547,1.013,2.10-2.50
-DAL @ CLE,DAL +1.5 + P.J. Washington 10+ pa,2,0.4203,0.4096,2.44,2.56,2.31,-0.0549,1.034,2.10-2.50
-DAL @ CLE,DAL win + P.J. Washington 10+ pr,2,0.4519,0.4563,2.19,2.3,2.06,-0.062,1.008,1.85-2.10
-DAL @ CLE,CLE win + Donovan Mitchell 20+ pra,2,0.5135,0.4669,2.14,2.25,2.01,-0.0628,1.01,1.85-2.10
-DAL @ CLE,CLE win + James Harden 1+ 3pm,2,0.4987,0.4552,2.2,2.31,2.06,-0.0641,1.01,1.85-2.10
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pr,2,0.6799,0.5066,1.97,2.07,1.81,-0.0827,1.0,1.65-1.85
-DAL @ CLE,Cooper Flagg ast under 6.5 + James Harden 1+ 3pm,2,0.6343,0.4956,2.02,2.12,1.84,-0.0875,1.002,1.65-1.85
-DAL @ CLE,Cooper Flagg ast under 6.5 + Donovan Mitchell 15+ pr,2,0.6581,0.5115,1.95,2.05,1.78,-0.0877,1.001,1.65-1.85
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 15+ pr,2,0.7168,0.5591,1.79,1.88,1.63,-0.0891,1.0,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7082,0.555,1.8,1.89,1.64,-0.09,1.0,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 20+ pra,2,0.7095,0.5541,1.8,1.89,1.64,-0.0901,0.999,1.50-1.65
-DET @ MIA,MIA +4.5 + Davion Mitchell 10+ pts,2,0.351,0.3967,2.52,2.65,2.42,-0.0419,1.056,2.10-2.50
-DET @ MIA,game over 229.5 + Davion Mitchell 10+ pts,2,0.4346,0.3941,2.54,2.66,2.42,-0.0482,1.047,2.10-2.50
-DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4515,0.4078,2.45,2.58,2.33,-0.0484,1.046,2.10-2.50
-DET @ MIA,DET win + Ausar Thompson 10+ pa,2,0.5945,0.5094,1.96,2.06,1.83,-0.0674,1.017,1.65-1.85
-DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5852,0.5031,1.99,2.09,1.85,-0.0683,1.017,1.85-2.10
-DET @ MIA,game over 229.5 + Duncan Robinson 10+ pa,2,0.4905,0.4449,2.25,2.36,2.09,-0.0703,1.022,1.85-2.10
-DET @ MIA,game over 229.5 + Duncan Robinson 10+ pr,2,0.4925,0.4449,2.25,2.36,2.08,-0.0726,1.019,1.85-2.10
-DET @ MIA,DET win + Duncan Robinson 10+ pa,2,0.6451,0.5569,1.8,1.89,1.66,-0.0764,1.009,1.65-1.85
-DET @ MIA,DET win + Duncan Robinson 10+ pr,2,0.6484,0.5576,1.79,1.88,1.65,-0.0776,1.007,1.65-1.85
-DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pa,2,0.7179,0.586,1.71,1.79,1.55,-0.0914,1.0,1.50-1.65
-DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pr,2,0.7222,0.5874,1.7,1.79,1.55,-0.0917,0.999,1.50-1.65
-DET @ MIA,Ausar Thompson 1+ stl + Davion Mitchell 10+ pts,2,0.6563,0.5923,1.69,1.77,1.5,-0.1112,1.001,1.50-1.65
+DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.3953,0.3964,2.52,2.65,2.43,-0.0353,1.035,2.10-2.50
+DAL @ CLE,CLE win + Donovan Mitchell 20+ pr,2,0.4762,0.436,2.29,2.41,2.18,-0.0498,1.026,2.10-2.50
+DAL @ CLE,CLE win + Donovan Mitchell 2+ 3pm,2,0.4392,0.3844,2.6,2.73,2.46,-0.0542,1.013,2.10-2.50
+DAL @ CLE,CLE win + James Harden 15+ pa,2,0.4994,0.4549,2.2,2.31,2.08,-0.0546,1.019,1.85-2.10
+DAL @ CLE,DAL win + P.J. Washington 10+ pr,2,0.4519,0.4566,2.19,2.3,2.05,-0.062,1.008,1.85-2.10
+DAL @ CLE,CLE win + Donovan Mitchell 20+ pra,2,0.5135,0.4675,2.14,2.25,2.0,-0.0631,1.01,1.85-2.10
+DAL @ CLE,Zaccharie Risacher 3+ reb + James Harden 10+ pts,2,0.6349,0.5022,1.99,2.09,1.82,-0.0884,1.003,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + James Harden 10+ pts,2,0.6784,0.5252,1.9,2.0,1.73,-0.0899,0.998,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7082,0.5554,1.8,1.89,1.64,-0.09,1.0,1.50-1.65
+DAL @ CLE,Cooper Flagg ra under 13.5 + Donovan Mitchell 20+ pra,2,0.6314,0.4953,2.02,2.12,1.84,-0.09,1.0,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 20+ pra,2,0.7095,0.5548,1.8,1.89,1.64,-0.0903,0.999,1.50-1.65
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Peyton Watson 10+ pra,2,0.7106,0.5552,1.8,1.89,1.64,-0.0904,0.999,1.50-1.65
+DET @ MIA,MIA +4.5 + Davion Mitchell 10+ pts,2,0.351,0.3965,2.52,2.65,2.42,-0.0417,1.056,2.10-2.50
+DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4515,0.4041,2.47,2.6,2.34,-0.0533,1.046,2.10-2.50
+DET @ MIA,game over 229.5 + Davion Mitchell 10+ pts,2,0.4346,0.3916,2.55,2.68,2.42,-0.0534,1.047,2.10-2.50
+DET @ MIA,DET win + Ausar Thompson 10+ pa,2,0.5945,0.5097,1.96,2.06,1.83,-0.0674,1.017,1.65-1.85
+DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5852,0.5014,1.99,2.09,1.86,-0.0678,1.017,1.85-2.10
+DET @ MIA,game over 229.5 + Duncan Robinson 10+ pa,2,0.4905,0.442,2.26,2.38,2.09,-0.0754,1.022,1.85-2.10
+DET @ MIA,DET win + Duncan Robinson 10+ pa,2,0.6451,0.5565,1.8,1.89,1.66,-0.0762,1.009,1.65-1.85
+DET @ MIA,DET win + Duncan Robinson 10+ pr,2,0.6484,0.5568,1.8,1.89,1.66,-0.0774,1.007,1.65-1.85
+DET @ MIA,game over 229.5 + Duncan Robinson 10+ pr,2,0.4925,0.4418,2.26,2.38,2.09,-0.0776,1.019,1.85-2.10
+DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pa,2,0.7179,0.5856,1.71,1.79,1.55,-0.0913,1.0,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pr,2,0.7222,0.5865,1.71,1.79,1.55,-0.0915,0.999,1.50-1.65
 BKN @ MEM,MEM win + Ty Jerome 1+ 3pm,2,0.6645,0.5541,1.8,1.89,1.72,-0.0448,1.006,1.65-1.85
 BKN @ MEM,MEM win + Julius Randle 4+ reb,2,0.6296,0.5239,1.91,2.0,1.81,-0.0492,1.001,1.65-1.85
 BKN @ MEM,MEM win + Michael Porter Jr. 4+ reb,2,0.6531,0.5474,1.83,1.92,1.73,-0.052,1.0,1.65-1.85
