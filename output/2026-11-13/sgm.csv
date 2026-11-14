@@ -36,17 +36,17 @@ MEM @ NOP,Karlo Matkovic 10+ pr + Bennedict Mathurin 5+ pr,2,0.8109,0.5706,1.75,
 MEM @ NOP,Karlo Matkovic 10+ pr + Cameron Boozer 6+ reb,2,0.7694,0.5491,1.82,1.91,1.69,-0.0716,1.002,1.65-1.85
 MEM @ NOP,Karlo Matkovic 10+ pra + Cam Spencer 10+ pra,2,0.7865,0.5672,1.76,1.85,1.63,-0.0745,1.002,1.50-1.65
 UTA @ HOU,Darryn Peterson pts under 18.5 + HOU win,2,0.6337,0.4717,2.12,2.23,2.14,0.0084,1.018,2.10-2.50
-UTA @ HOU,Amen Thompson 17+ pts + HOU win,2,0.4825,0.4465,2.24,2.35,2.24,0.0023,1.018,2.10-2.50
 UTA @ HOU,Keyonte George pts under 20.5 + HOU win,2,0.5062,0.4537,2.2,2.31,2.19,-0.0064,1.025,2.10-2.50
+UTA @ HOU,Amen Thompson 17+ pts + HOU win,2,0.4825,0.4416,2.26,2.38,2.24,-0.0087,1.018,2.10-2.50
+UTA @ HOU,Kevin Durant 21+ pts + HOU win,2,0.6109,0.4833,2.07,2.17,2.01,-0.0298,1.014,1.85-2.10
+UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6321,0.4633,2.16,2.27,2.09,-0.0315,1.02,1.85-2.10
 UTA @ HOU,Darryn Peterson pr under 22.5 + HOU win,2,0.6258,0.4637,2.16,2.26,2.08,-0.0349,1.019,1.85-2.10
-UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6321,0.4714,2.12,2.23,2.05,-0.035,1.02,1.85-2.10
-UTA @ HOU,Tari Eason 9+ pts + HOU win,2,0.5775,0.4702,2.13,2.23,2.05,-0.0373,1.013,1.85-2.10
-UTA @ HOU,Svi Mykhailiuk 5+ pra + Josh Okogie 5+ pra,2,0.7208,0.5999,1.67,1.75,1.51,-0.0961,1.005,1.50-1.65
-UTA @ HOU,Kevin Durant 20+ pa + Svi Mykhailiuk 5+ pra,2,0.7196,0.5856,1.71,1.79,1.54,-0.0963,1.001,1.50-1.65
-UTA @ HOU,Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,2,0.7261,0.5957,1.68,1.76,1.52,-0.0972,1.001,1.50-1.65
-UTA @ HOU,HOU win + Kevin Durant 25+ pra + Svi Mykhailiuk 5+ pra,3,0.6587,0.5237,1.91,2.01,1.67,-0.1255,1.004,1.65-1.85
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Svi Mykhailiuk 5+ pra,3,0.6518,0.5173,1.93,2.03,1.69,-0.1258,1.004,1.65-1.85
-UTA @ HOU,Kevin Durant 25+ pra + Jabari Smith Jr. 10+ pts + Svi Mykhailiuk 5+ pra,3,0.6432,0.4752,2.1,2.21,1.82,-0.1352,1.009,1.65-1.85
+UTA @ HOU,Svi Mykhailiuk 5+ pra + Josh Okogie 5+ pra,2,0.7208,0.6008,1.66,1.75,1.5,-0.0963,1.005,1.50-1.65
+UTA @ HOU,Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,2,0.7261,0.5977,1.67,1.76,1.51,-0.0977,1.001,1.50-1.65
+UTA @ HOU,HOU win + Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts,3,0.695,0.5489,1.82,1.91,1.62,-0.1119,1.019,1.50-1.65
+UTA @ HOU,HOU win + Kevin Durant 20+ pa + Svi Mykhailiuk 5+ pra,3,0.6518,0.5191,1.93,2.02,1.68,-0.1263,1.004,1.65-1.85
+UTA @ HOU,Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts + Amen Thompson 15+ pa,3,0.6444,0.4855,2.06,2.16,1.78,-0.1367,1.011,1.65-1.85
+UTA @ HOU,Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts + Svi Mykhailiuk 5+ pra,3,0.635,0.4691,2.13,2.24,1.84,-0.1377,1.006,1.65-1.85
 GSW @ SAS,De'Anthony Melton pa under 15.5 + SAS win,2,0.427,0.4547,2.2,2.31,2.11,-0.0389,1.044,2.10-2.50
 GSW @ SAS,SAS win + De'Anthony Melton pts under 12.5,2,0.4268,0.4594,2.18,2.29,2.09,-0.0396,1.045,1.85-2.10
 GSW @ SAS,SAS win + De'Anthony Melton pra under 19.5,2,0.4183,0.4498,2.22,2.33,2.13,-0.0422,1.042,2.10-2.50
