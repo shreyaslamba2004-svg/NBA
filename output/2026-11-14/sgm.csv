@@ -11,18 +11,18 @@ DEN @ NOP,Herbert Jones 5+ ra + Christian Braun 10+ pra,2,0.6573,0.5246,1.91,2.0
 DEN @ NOP,DEN win + Christian Braun 10+ pr + Cameron Johnson 10+ pa,3,0.5977,0.5579,1.79,1.88,1.57,-0.1233,1.021,1.50-1.65
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.5977,0.5684,1.76,1.85,1.54,-0.1258,1.022,1.50-1.65
 DEN @ NOP,DEN win + Zion Williamson 4+ reb + Christian Braun 10+ pa,3,0.5665,0.5291,1.89,1.98,1.65,-0.1278,1.016,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 3pm under 1.5,2,0.6117,0.3877,2.58,2.71,2.45,-0.051,1.003,2.10-2.50
-DAL @ CLE,Jaylon Tyson pts under 11.5 + Zaccharie Risacher 5+ pr,2,0.6686,0.4338,2.31,2.42,2.18,-0.0547,1.0,2.10-2.50
-DAL @ CLE,Jaylon Tyson pr under 16.5 + Zaccharie Risacher 5+ pr,2,0.6833,0.4492,2.23,2.34,2.1,-0.0572,1.001,1.85-2.10
-DAL @ CLE,P.J. Washington 21+ pra + Donovan Mitchell 2+ 3pm,2,0.4261,0.3793,2.64,2.77,2.48,-0.0582,1.006,2.10-2.50
-DAL @ CLE,Jaylon Tyson pts under 11.5 + Peyton Watson 10+ pra,2,0.704,0.4738,2.11,2.22,1.98,-0.0615,0.999,1.85-2.10
-DAL @ CLE,Jaylon Tyson pts under 11.5 + James Harden 10+ pts,2,0.6753,0.4504,2.22,2.33,2.08,-0.0627,0.996,1.85-2.10
-DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 10+ pts,2,0.759,0.5709,1.75,1.84,1.61,-0.0821,1.001,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + James Harden 10+ pts,2,0.688,0.5158,1.94,2.04,1.78,-0.0829,1.0,1.65-1.85
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 20+ pra,2,0.7185,0.5429,1.84,1.93,1.69,-0.084,1.0,1.65-1.85
-DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + Peyton Watson 10+ pra,2,0.7882,0.5982,1.67,1.76,1.53,-0.0845,1.0,1.50-1.65
-DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 15+ pa,2,0.761,0.5786,1.73,1.81,1.58,-0.0847,1.0,1.50-1.65
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + James Harden 15+ pa,2,0.6903,0.5232,1.91,2.01,1.75,-0.0847,0.999,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 3pm under 1.5,2,0.6117,0.3872,2.58,2.71,2.45,-0.0507,1.003,2.10-2.50
+DAL @ CLE,Jaylon Tyson pts under 11.5 + Zaccharie Risacher 5+ pr,2,0.6686,0.4343,2.3,2.42,2.18,-0.0549,1.0,2.10-2.50
+DAL @ CLE,Jaylon Tyson pr under 16.5 + Zaccharie Risacher 5+ pr,2,0.6833,0.4498,2.22,2.33,2.1,-0.0573,1.001,1.85-2.10
+DAL @ CLE,Jaylon Tyson pts under 11.5 + Donovan Mitchell 2+ 3pm,2,0.591,0.3882,2.58,2.7,2.42,-0.0597,0.997,2.10-2.50
+DAL @ CLE,Jaylon Tyson pts under 11.5 + Peyton Watson 10+ pra,2,0.704,0.4741,2.11,2.21,1.98,-0.0616,0.999,1.85-2.10
+DAL @ CLE,Jaylon Tyson pts under 11.5 + James Harden 10+ pts,2,0.6753,0.4489,2.23,2.34,2.09,-0.0621,0.996,1.85-2.10
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 10+ pts,2,0.759,0.5683,1.76,1.85,1.62,-0.0813,1.001,1.50-1.65
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + James Harden 10+ pts,2,0.688,0.5142,1.94,2.04,1.78,-0.0824,1.0,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 20+ pra,2,0.7185,0.5426,1.84,1.94,1.69,-0.0839,1.0,1.65-1.85
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + Peyton Watson 10+ pra,2,0.7882,0.5978,1.67,1.76,1.53,-0.0844,1.0,1.50-1.65
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + P.J. Washington 10+ pa,2,0.667,0.5051,1.98,2.08,1.81,-0.0844,0.999,1.65-1.85
+DAL @ CLE,Zaccharie Risacher 3pm under 1.5 + James Harden 15+ pa,2,0.761,0.5782,1.73,1.82,1.58,-0.0845,1.0,1.50-1.65
 DET @ MIA,Bam Adebayo 30+ pra + Davion Mitchell 15+ pra,2,0.6444,0.471,2.12,2.23,1.97,-0.0703,1.005,1.85-2.10
 DET @ MIA,Giannis Antetokounmpo 18+ ra + Bam Adebayo 25+ pra,2,0.5251,0.3897,2.57,2.69,2.38,-0.0723,1.01,2.10-2.50
 DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5577,0.5024,1.99,2.09,1.85,-0.0725,1.023,1.65-1.85
@@ -41,13 +41,12 @@ BKN @ MEM,Julius Randle pa under 26.5 + Jaylen Wells 1+ 3pm,2,0.5877,0.432,2.32,
 BKN @ MEM,Julius Randle pa under 26.5 + Ty Jerome 1+ 3pm,2,0.6256,0.4559,2.19,2.3,2.02,-0.0789,0.998,1.85-2.10
 BKN @ MEM,Egor Demin pr under 13.5 + Ty Jerome 1+ 3pm,2,0.5832,0.4316,2.32,2.43,2.13,-0.0808,0.999,2.10-2.50
 BKN @ MEM,Julius Randle pra under 32.5 + Ty Jerome 1+ 3pm,2,0.5852,0.4369,2.29,2.4,2.1,-0.0825,0.999,2.10-2.50
-CHI @ MIN,Norman Powell pts under 21.5 + MIN win,2,0.5456,0.4435,2.25,2.37,2.18,-0.0312,1.028,2.10-2.50
+CHI @ MIN,Norman Powell pts under 21.5 + MIN win,2,0.5456,0.4503,2.22,2.33,2.14,-0.0342,1.028,2.10-2.50
 CHI @ MIN,Isaac Okoro pts under 7.5 + MIN win,2,0.4964,0.425,2.35,2.47,2.25,-0.044,1.025,2.10-2.50
 CHI @ MIN,Matas Buzelis pts under 16.5 + MIN win,2,0.5126,0.4578,2.18,2.29,2.08,-0.0469,1.03,1.85-2.10
+CHI @ MIN,Josh Giddey ast under 9.5 + MIN win,2,0.5741,0.4939,2.02,2.13,1.93,-0.0485,1.021,1.85-2.10
 CHI @ MIN,Norman Powell 3pm under 2.5 + MIN win,2,0.5228,0.4405,2.27,2.38,2.15,-0.0511,1.014,2.10-2.50
 CHI @ MIN,MIN win + Matas Buzelis 3pm under 2.5,2,0.5946,0.5509,1.82,1.91,1.7,-0.0653,1.017,1.65-1.85
-CHI @ MIN,MIN win + Norman Powell 3+ reb,2,0.5162,0.4994,2.0,2.1,1.82,-0.0897,0.997,1.65-1.85
-CHI @ MIN,MIN win + Nic Claxton reb under 5.5,2,0.5035,0.49,2.04,2.14,1.86,-0.0904,0.998,1.85-2.10
-CHI @ MIN,Matas Buzelis 3pm under 2.5 + LaMelo Ball 2+ 3pm,2,0.6392,0.5202,1.92,2.02,1.74,-0.0973,0.999,1.65-1.85
-CHI @ MIN,Norman Powell 3+ reb + LaMelo Ball 2+ 3pm,2,0.5667,0.4815,2.08,2.18,1.86,-0.1023,1.0,1.85-2.10
-CHI @ MIN,MIN win + LaMelo Ball 2+ 3pm + Ayo Dosunmu 1+ 3pm,3,0.5977,0.5733,1.74,1.83,1.5,-0.1397,1.008,1.50-1.65
+CHI @ MIN,Jaden McDaniels reb under 6.5 + MIN win,2,0.5466,0.4871,2.05,2.16,1.9,-0.0729,1.002,1.85-2.10
+CHI @ MIN,Matas Buzelis 3pm under 2.5 + LaMelo Ball 2+ 3pm,2,0.6392,0.5217,1.92,2.01,1.73,-0.0977,0.999,1.65-1.85
+CHI @ MIN,Matas Buzelis 3pm under 2.5 + Ayo Dosunmu 1+ 3pm,2,0.6004,0.5016,1.99,2.09,1.8,-0.0984,1.002,1.65-1.85
