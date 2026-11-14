@@ -1,6 +1,6 @@
 # NBA model · Sat 14 Nov 2026 (US date)
 
-Updated **Sun 15 Nov, 09:55 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 15 Nov, 10:00 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -48,7 +48,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| CLE to win | DAL @ CLE | draftkings | 2.90 | 1.98 | 2.84 | 35.2% | 50.5% | 50.5% | +46.5% | +2.1% | 2.0% |
+| CLE to win | DAL @ CLE | draftkings | 3.66 | 1.98 | 2.84 | 35.2% | 50.5% | 50.5% | +84.9% | +28.9% | 2.0% |
 
 ## Projections
 
@@ -59,8 +59,8 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | DEN @ NOP | Sun 15 Nov 11:00 | 124.6–113.7 | DEN 78% | 1.28 / 4.54 | NOP +11.5 | 238.5 | NOP +12.5 covers 54%; o235.5 56% |
-| DAL @ CLE | Sun 15 Nov 11:30 | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
-| DET @ MIA | Sun 15 Nov 12:00 | 118.1–111.9 | DET 67% | 1.49 / 3.04 | MIA +6.5 | 229.5 | MIA +3.5 covers 41%; o229.5 51% |
+| DAL @ CLE | Sun 15 Nov 11:30 | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +8.5 covers 59%; o228.5 53% |
+| DET @ MIA | Sun 15 Nov 12:00 | 118.1–111.9 | DET 67% | 1.49 / 3.04 | MIA +6.5 | 229.5 | MIA +3.5 covers 41%; o228.5 53% |
 | BKN @ MEM | Sun 15 Nov 12:00 | 110.6–113.9 | BKN 40% | 2.48 / 1.68 | MEM -3.5 | 224.5 | MEM -1.5 covers 57%; o227.5 43% |
 | CHI @ MIN | Sun 15 Nov 12:00 | 108.7–126.5 | CHI 10% | 9.83 / 1.11 | MIN -17.5 | 235.5 | MIN -15.5 covers 57%; o234.5 52% |
 
@@ -113,8 +113,8 @@ Out: Jarrett Allen (CLE), James Harden (CLE), Sam Merrill (CLE), Donovan Mitchel
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 53% |
-| Expected (weighted by chance each plays) | 117.5–112.0 | DAL 65% | 1.54 / 2.84 | CLE +5.5 | 229.5 | CLE +5.5 covers 50%; o228.5 52% |
+| Confirmed players only | 117.5–112.1 | DAL 65% | 1.54 / 2.85 | CLE +5.5 | 229.5 | CLE +8.5 covers 59%; o228.5 53% |
+| Expected (weighted by chance each plays) | 117.5–112.0 | DAL 65% | 1.54 / 2.84 | CLE +5.5 | 229.5 | CLE +8.5 covers 59%; o228.5 52% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -166,9 +166,9 @@ Out: Jalen Duren (DET), Isaiah Joe (DET)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 118.1–111.9 | DET 67% | 1.49 / 3.04 | MIA +6.5 | 229.5 | MIA +3.5 covers 41%; o229.5 51% |
-| Expected (weighted by chance each plays) | 118.1–112.1 | DET 66% | 1.50 / 2.98 | MIA +6.5 | 230.5 | MIA +3.5 covers 42%; o229.5 51% |
-| if Pelle Larsson plays | 117.7–113.1 | DET 63% | 1.59 / 2.69 | MIA +4.5 | 230.5 | MIA +3.5 covers 46%; o229.5 52% |
+| Confirmed players only | 118.1–111.9 | DET 67% | 1.49 / 3.04 | MIA +6.5 | 229.5 | MIA +3.5 covers 41%; o228.5 53% |
+| Expected (weighted by chance each plays) | 118.1–112.1 | DET 66% | 1.50 / 2.98 | MIA +6.5 | 230.5 | MIA +3.5 covers 42%; o228.5 53% |
+| if Pelle Larsson plays | 117.7–113.1 | DET 63% | 1.59 / 2.69 | MIA +4.5 | 230.5 | MIA +3.5 covers 46%; o228.5 55% |
 
 **Questionable players: chance to play, and their projection if they do**
 
