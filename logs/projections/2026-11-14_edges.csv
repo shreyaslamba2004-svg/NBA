@@ -1,0 +1,13 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in,snapshot_utc
+401909982,DET @ MIA,moneyline,MIA,,,,draftkings,152.0,2.52,0.3412,2.93,0.3812,0.3812,-0.04,4.1,-0.1402,0.3812,-0.0393,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909982,DET @ MIA,moneyline,DET,,,,draftkings,-181.0,1.55,0.6588,1.52,0.6188,0.6188,0.04,4.1,0.0228,0.6188,-0.0393,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909980,DEN @ NOP,moneyline,NOP,,,,draftkings,417.0,5.17,0.2351,4.25,0.1858,0.1858,0.0493,4.1,0.2155,0.1858,-0.0394,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909980,DEN @ NOP,moneyline,DEN,,,,draftkings,-556.0,1.18,0.7649,1.31,0.8142,0.8142,-0.0493,4.1,-0.0975,0.8142,-0.0394,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909980,DEN @ NOP,spread,DEN,,,-10.5,draftkings,-115.0,1.87,0.4951,2.02,0.5108,0.5108,-0.0157,4.71,-0.0744,0.5108,-0.045,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909980,DEN @ NOP,spread,NOP,,,10.5,draftkings,-105.0,1.95,0.5049,1.98,0.4892,0.4892,0.0157,4.71,-0.0142,0.4892,-0.045,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909982,DET @ MIA,spread,DET,,,-5.5,draftkings,-106.0,1.94,0.5106,1.96,0.4913,0.4913,0.0193,4.73,-0.0077,0.4913,-0.0451,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909982,DET @ MIA,spread,MIA,,,5.5,draftkings,-114.0,1.88,0.4894,2.04,0.5087,0.5087,-0.0193,4.73,-0.0813,0.5087,-0.0451,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909980,DEN @ NOP,total,over,,,234.5,draftkings,-110.0,1.91,0.5774,1.73,0.5,0.5,0.0774,4.76,0.1023,0.5,-0.0455,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909980,DEN @ NOP,total,under,,,234.5,draftkings,-110.0,1.91,0.4226,2.37,0.5,0.5,-0.0774,4.76,-0.1932,0.5,-0.0455,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909982,DET @ MIA,total,over,,,226.5,draftkings,-110.0,1.91,0.5923,1.69,0.5,0.5,0.0923,4.76,0.1308,0.5,-0.0455,0.0,False,True,True,,,,2026-11-14T05:15Z|live
+401909982,DET @ MIA,total,under,,,226.5,draftkings,-110.0,1.91,0.4077,2.45,0.5,0.5,-0.0923,4.76,-0.2217,0.5,-0.0455,0.0,False,True,True,,,,2026-11-14T05:15Z|live

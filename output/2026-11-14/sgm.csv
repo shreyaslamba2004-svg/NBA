@@ -1,0 +1,3 @@
+matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+DEN @ NOP,DEN win + game under 234.5,2,0.3266,0.4114,2.43,2.55,2.25,-0.0734,1.011,2.10-2.50
+DEN @ NOP,DEN win + game over 234.5,2,0.4382,0.404,2.48,2.6,2.25,-0.0901,0.992,2.10-2.50
