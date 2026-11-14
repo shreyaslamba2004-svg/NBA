@@ -11,34 +11,33 @@ DEN @ NOP,Herbert Jones 2+ ast + Christian Braun 10+ pra,2,0.6553,0.5087,1.97,2.
 DEN @ NOP,DEN win + Christian Braun 10+ pr + Cameron Johnson 10+ pa,3,0.6004,0.5597,1.79,1.88,1.57,-0.1194,1.023,1.50-1.65
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.5978,0.5599,1.79,1.88,1.57,-0.1196,1.023,1.50-1.65
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Nikola Jokic 8+ reb,3,0.5949,0.5589,1.79,1.88,1.56,-0.1276,1.015,1.50-1.65
-DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr,2,0.4044,0.4109,2.43,2.56,2.31,-0.0518,1.008,2.10-2.50
-DAL @ CLE,Jaylon Tyson pr under 15.5 + Zaccharie Risacher 5+ pr,2,0.6448,0.4339,2.3,2.42,2.16,-0.064,0.999,2.10-2.50
-DAL @ CLE,Jaylon Tyson pts under 11.5 + Zaccharie Risacher 5+ pr,2,0.6703,0.4518,2.21,2.32,2.07,-0.0649,0.999,1.85-2.10
-DAL @ CLE,Jaylon Tyson pra under 17.5 + Zaccharie Risacher 5+ pr,2,0.6254,0.4241,2.36,2.48,2.2,-0.0657,0.999,2.10-2.50
-DAL @ CLE,Jaylon Tyson pa under 13.5 + Zaccharie Risacher 5+ pr,2,0.6468,0.4434,2.26,2.37,2.1,-0.069,0.998,1.85-2.10
+DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr,2,0.4044,0.4101,2.44,2.56,2.31,-0.0516,1.008,2.10-2.50
+DAL @ CLE,Jaylon Tyson pr under 15.5 + Zaccharie Risacher 5+ pr,2,0.6448,0.4273,2.34,2.46,2.2,-0.0609,0.999,2.10-2.50
+DAL @ CLE,Jaylon Tyson pts under 11.5 + Zaccharie Risacher 5+ pr,2,0.6703,0.451,2.22,2.33,2.07,-0.0646,0.999,1.85-2.10
+DAL @ CLE,Jaylon Tyson pra under 17.5 + Zaccharie Risacher 5+ pr,2,0.6254,0.4234,2.36,2.48,2.21,-0.0654,0.999,2.10-2.50
+DAL @ CLE,Jaylon Tyson pr under 15.5 + Donovan Mitchell 1+ 3pm,2,0.6664,0.4673,2.14,2.25,1.99,-0.0694,1.0,1.85-2.10
 DAL @ CLE,DAL win + Donovan Mitchell 1+ 3pm,2,0.4127,0.4429,2.26,2.37,2.1,-0.072,0.996,1.85-2.10
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pr,2,0.6739,0.4983,2.01,2.11,1.84,-0.0828,0.998,1.65-1.85
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pr,2,0.6739,0.4974,2.01,2.11,1.84,-0.0825,0.998,1.65-1.85
 DAL @ CLE,Kyrie Irving 3pm under 3.5 + Donovan Mitchell 1+ 3pm,2,0.6956,0.5433,1.84,1.93,1.67,-0.092,0.997,1.65-1.85
 DAL @ CLE,Cooper Flagg ast under 6.5 + Donovan Mitchell 1+ 3pm,2,0.6433,0.507,1.97,2.07,1.79,-0.0922,0.999,1.65-1.85
 DET @ MIA,DET win + Davion Mitchell 3pm under 2.5,2,0.4688,0.3963,2.52,2.65,2.41,-0.0468,1.026,2.10-2.50
-DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4528,0.4033,2.48,2.6,2.36,-0.0489,1.044,2.10-2.50
-DET @ MIA,game over 229.5 + Ausar Thompson 10+ pa,2,0.4596,0.4084,2.45,2.57,2.31,-0.0553,1.036,2.10-2.50
-DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5522,0.5031,1.99,2.09,1.87,-0.0583,1.026,1.85-2.10
-DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5613,0.5166,1.94,2.03,1.82,-0.0622,1.024,1.65-1.85
-DET @ MIA,DET win + Ausar Thompson 10+ pa,2,0.5617,0.5106,1.96,2.06,1.84,-0.0627,1.021,1.65-1.85
-DET @ MIA,DET win + Duncan Robinson 10+ pa,2,0.6061,0.5562,1.8,1.89,1.67,-0.0698,1.015,1.65-1.85
-DET @ MIA,Duncan Robinson 5+ ra + Bam Adebayo 10+ pts,2,0.5731,0.4569,2.19,2.3,2.0,-0.0869,1.004,1.85-2.10
-DET @ MIA,DET -4.5 + Duncan Robinson 10+ pa,2,0.4967,0.4505,2.22,2.33,2.03,-0.0872,1.016,1.85-2.10
-DET @ MIA,Davion Mitchell 3pm under 2.5 + Duncan Robinson 10+ pra,2,0.6807,0.5633,1.78,1.86,1.6,-0.0998,0.999,1.50-1.65
-DET @ MIA,Bam Adebayo 1+ 3pm + Ausar Thompson 4+ reb,2,0.6829,0.5819,1.72,1.8,1.55,-0.0999,1.001,1.50-1.65
-DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pa,2,0.6848,0.587,1.7,1.79,1.53,-0.1002,1.001,1.50-1.65
-BKN @ MEM,MEM win + Julius Randle 4+ reb,2,0.6359,0.5246,1.91,2.0,1.81,-0.048,1.003,1.65-1.85
+DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4528,0.4028,2.48,2.61,2.36,-0.0487,1.044,2.10-2.50
+DET @ MIA,game over 229.5 + Ausar Thompson 10+ pa,2,0.4596,0.4075,2.45,2.58,2.32,-0.055,1.036,2.10-2.50
+DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5522,0.5025,1.99,2.09,1.87,-0.0581,1.026,1.85-2.10
+DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5613,0.5161,1.94,2.03,1.82,-0.062,1.024,1.65-1.85
+DET @ MIA,DET win + Ausar Thompson 10+ pa,2,0.5617,0.5094,1.96,2.06,1.84,-0.0624,1.021,1.65-1.85
+DET @ MIA,DET win + Duncan Robinson 10+ pa,2,0.6061,0.5573,1.79,1.88,1.67,-0.0701,1.015,1.65-1.85
+DET @ MIA,game over 229.5 + Duncan Robinson 10+ pr,2,0.4943,0.4423,2.26,2.37,2.1,-0.072,1.019,1.85-2.10
+DET @ MIA,Duncan Robinson 5+ ra + Davion Mitchell 15+ pra,2,0.5824,0.4647,2.15,2.26,1.97,-0.085,1.006,1.85-2.10
+DET @ MIA,Bam Adebayo 1+ 3pm + Ausar Thompson 4+ reb,2,0.6829,0.5811,1.72,1.81,1.55,-0.0997,1.001,1.50-1.65
+DET @ MIA,Davion Mitchell 3pm under 2.5 + Duncan Robinson 10+ pra,2,0.6807,0.5644,1.77,1.86,1.59,-0.1001,0.999,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pa,2,0.6848,0.5881,1.7,1.79,1.53,-0.1006,1.001,1.50-1.65
+BKN @ MEM,MEM win + Julius Randle 4+ reb,2,0.6359,0.5246,1.91,2.0,1.87,-0.0204,1.003,1.85-2.10
 BKN @ MEM,game over 227.5 + Julius Randle 4+ reb,2,0.4595,0.4314,2.32,2.43,2.16,-0.0691,1.019,2.10-2.50
 BKN @ MEM,MEM -4.5 + Julius Randle 4+ reb,2,0.5464,0.4243,2.36,2.47,2.18,-0.0764,1.003,2.10-2.50
 BKN @ MEM,Cameron Boozer pts under 17.5 + Julius Randle 4+ reb,2,0.5912,0.4354,2.3,2.41,2.11,-0.0797,0.999,2.10-2.50
-BKN @ MEM,Egor Demin pts under 11.5 + Julius Randle 4+ reb,2,0.6053,0.451,2.22,2.33,2.03,-0.085,0.996,1.85-2.10
-BKN @ MEM,Egor Demin pa under 14.5 + Julius Randle 4+ reb,2,0.5844,0.4457,2.24,2.36,2.04,-0.0893,0.996,1.85-2.10
-BKN @ MEM,Michael Porter Jr. pts under 23.5 + Julius Randle 4+ reb,2,0.5566,0.4321,2.31,2.43,2.1,-0.0939,0.994,1.85-2.10
+BKN @ MEM,Egor Demin pts under 11.5 + Julius Randle 4+ reb,2,0.6053,0.4457,2.24,2.36,2.06,-0.0828,0.996,1.85-2.10
+BKN @ MEM,Egor Demin pa under 14.5 + Julius Randle 4+ reb,2,0.5844,0.439,2.28,2.39,2.08,-0.0864,0.996,1.85-2.10
 CHI @ MIN,Josh Giddey ast under 8.5 + MIN win,2,0.5323,0.4226,2.37,2.48,2.31,-0.0218,1.026,2.10-2.50
 CHI @ MIN,game over 235.5 + MIN win,2,0.4178,0.4345,2.3,2.42,2.25,-0.0237,1.006,2.10-2.50
 CHI @ MIN,Matas Buzelis pa under 18.5 + MIN win,2,0.5858,0.47,2.13,2.23,2.08,-0.0244,1.026,1.85-2.10
