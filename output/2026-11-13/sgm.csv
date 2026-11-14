@@ -1,25 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-POR @ SAC,Zach LaVine pts under 19.5 + POR win,2,0.4321,0.4219,2.37,2.49,2.46,0.036,1.062,2.10-2.50
-POR @ SAC,Scoot Henderson 11+ pts + POR win,2,0.4198,0.4087,2.45,2.57,2.48,0.0135,1.039,2.10-2.50
-POR @ SAC,Keegan Murray pts under 11.5 + POR win,2,0.4264,0.4307,2.32,2.44,2.33,0.0052,1.052,2.10-2.50
-POR @ SAC,Damian Lillard pts under 22.5 + De'Andre Hunter 10+ pra,2,0.6405,0.4786,2.09,2.19,2.05,-0.0212,0.999,1.85-2.10
-POR @ SAC,Damian Lillard pts under 22.5 + Toumani Camara 10+ pra,2,0.6288,0.4703,2.13,2.23,2.08,-0.0228,0.998,1.85-2.10
-POR @ SAC,Zach LaVine pts under 19.5 + De'Andre Hunter 10+ pra,2,0.5348,0.4521,2.21,2.32,2.1,-0.0528,0.997,1.85-2.10
-POR @ SAC,POR win + Toumani Camara 10+ pa,2,0.6119,0.6049,1.65,1.74,1.55,-0.0643,1.018,1.50-1.65
-POR @ SAC,Toumani Camara 10+ pa + Domantas Sabonis 15+ pa,2,0.6675,0.5694,1.76,1.84,1.58,-0.1006,1.004,1.50-1.65
-POR @ SAC,Toumani Camara 10+ pa + De'Andre Hunter 10+ pa,2,0.6964,0.5973,1.67,1.76,1.5,-0.1017,1.004,1.50-1.65
-POR @ SAC,POR win + Scoot Henderson 10+ pra + Toumani Camara 10+ pa,3,0.546,0.4895,2.04,2.14,1.83,-0.1031,1.028,1.65-1.85
-POR @ SAC,POR win + Toumani Camara 10+ pa + Sidy Cissoko 5+ pa,3,0.5701,0.5204,1.92,2.02,1.72,-0.1066,1.027,1.65-1.85
-POR @ SAC,POR win + Toumani Camara 10+ pa + De'Andre Hunter 1+ 3pm,3,0.522,0.4821,2.07,2.18,1.83,-0.1192,1.015,1.65-1.85
-OKC @ LAC,OKC win + Max Strus 3pm under 2.5,2,0.4992,0.4339,2.3,2.42,2.33,0.0099,1.022,2.10-2.50
-OKC @ LAC,OKC win + Jared McCain 10+ pts,2,0.5258,0.5776,1.73,1.82,1.67,-0.0342,1.021,1.65-1.85
-OKC @ LAC,OKC win + Alex Caruso 10+ pra,2,0.5398,0.571,1.75,1.84,1.69,-0.0358,1.013,1.65-1.85
-OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5428,0.5906,1.69,1.78,1.63,-0.0366,1.017,1.50-1.65
-OKC @ LAC,OKC win + Kenrich Williams 10+ pra,2,0.537,0.5785,1.73,1.82,1.66,-0.0373,1.015,1.65-1.85
-OKC @ LAC,Jared McCain 16+ pts + Alex Caruso 10+ pra,2,0.4677,0.4049,2.47,2.59,2.38,-0.0383,1.01,2.10-2.50
-OKC @ LAC,OKC win + Kenrich Williams 5+ pa,2,0.5735,0.6137,1.63,1.71,1.56,-0.0401,1.011,1.50-1.65
-OKC @ LAC,OKC win + Max Strus 3pm under 2.5 + Jared McCain 10+ pr,3,0.4754,0.3917,2.55,2.68,2.45,-0.0412,1.03,2.10-2.50
-OKC @ LAC,Jared McCain 16+ pts + Isaiah Hartenstein 10+ pr,2,0.5102,0.4627,2.16,2.27,2.05,-0.0521,1.003,1.85-2.10
-OKC @ LAC,Keaton Wagler pts under 10.5 + Kenrich Williams 5+ pa,2,0.6029,0.4608,2.17,2.28,2.06,-0.0524,0.999,1.85-2.10
-OKC @ LAC,Alex Caruso pts under 8.5 + Kobe Sanders 5+ pra,2,0.4228,0.4706,2.13,2.23,2.01,-0.0543,1.0,1.85-2.10
-OKC @ LAC,OKC win + Kobe Sanders 5+ pr,2,0.5568,0.604,1.66,1.74,1.55,-0.0617,0.99,1.50-1.65
+OKC @ LAC,OKC win + Max Strus 3pm under 2.5,2,0.4992,0.4382,2.28,2.4,2.3,0.0078,1.022,2.10-2.50
+OKC @ LAC,OKC win + Jared McCain 10+ pts,2,0.5258,0.5781,1.73,1.82,1.67,-0.0343,1.021,1.65-1.85
+OKC @ LAC,OKC win + Kenrich Williams 10+ pra,2,0.537,0.5683,1.76,1.85,1.7,-0.0344,1.015,1.65-1.85
+OKC @ LAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5428,0.5934,1.69,1.77,1.62,-0.0374,1.017,1.50-1.65
+OKC @ LAC,OKC win + Kenrich Williams 5+ pa,2,0.5735,0.6084,1.64,1.73,1.58,-0.0387,1.011,1.50-1.65
+OKC @ LAC,Jared McCain 16+ pts + Kenrich Williams 10+ pra,2,0.463,0.4009,2.49,2.62,2.39,-0.0418,1.006,2.10-2.50
+OKC @ LAC,OKC win + Max Strus 3pm under 2.5 + Jared McCain 10+ pr,3,0.4754,0.395,2.53,2.66,2.42,-0.0429,1.03,2.10-2.50
+OKC @ LAC,Alex Caruso 8+ pts + Kenrich Williams 5+ pa,2,0.6104,0.4552,2.2,2.31,2.09,-0.0467,1.004,1.85-2.10
+OKC @ LAC,Keaton Wagler pts under 10.5 + Kenrich Williams 5+ pa,2,0.6029,0.4587,2.18,2.29,2.08,-0.0472,0.999,1.85-2.10
+OKC @ LAC,Alex Caruso 8+ pts + Kobe Sanders 5+ pr,2,0.6046,0.4603,2.17,2.28,2.06,-0.0505,1.003,1.85-2.10
+OKC @ LAC,OKC win + Isaiah Hartenstein 6+ reb,2,0.5464,0.6088,1.64,1.72,1.55,-0.0556,1.001,1.50-1.65
+OKC @ LAC,Max Strus 3pm under 2.5 + Kenrich Williams 5+ pa,2,0.758,0.5201,1.92,2.02,1.8,-0.0655,1.002,1.65-1.85
