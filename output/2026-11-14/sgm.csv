@@ -21,18 +21,18 @@ DAL @ CLE,Cooper Flagg 3pm under 1.5 + Zaccharie Risacher 5+ pr,2,0.5878,0.4545,
 DAL @ CLE,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7057,0.5553,1.8,1.89,1.64,-0.0916,0.999,1.50-1.65
 DAL @ CLE,Cooper Flagg ast under 6.5 + P.J. Washington 10+ pr,2,0.6517,0.52,1.92,2.02,1.74,-0.0932,1.0,1.65-1.85
 DAL @ CLE,Cooper Flagg ra under 13.5 + P.J. Washington 10+ pr,2,0.614,0.499,2.0,2.1,1.81,-0.0966,1.0,1.65-1.85
+DET @ MIA,DET -4.5 + Paul Reed 10+ pa,2,0.4555,0.3971,2.52,2.64,2.44,-0.0328,1.033,2.10-2.50
+DET @ MIA,DET -4.5 + Duncan Robinson 15+ pra,2,0.4679,0.4071,2.46,2.58,2.37,-0.0357,1.029,2.10-2.50
 DET @ MIA,DET win + Paul Reed 10+ pa,2,0.5488,0.4867,2.05,2.16,1.96,-0.0465,1.028,1.85-2.10
 DET @ MIA,game over 229.5 + Paul Reed 10+ pa,2,0.4302,0.3925,2.55,2.68,2.42,-0.0486,1.046,2.10-2.50
-DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4422,0.4027,2.48,2.61,2.36,-0.0507,1.043,2.10-2.50
 DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5621,0.4975,2.01,2.11,1.91,-0.0521,1.022,1.85-2.10
+DET @ MIA,DET -4.5 + Paul Reed 10+ pr,2,0.5287,0.456,2.19,2.3,2.07,-0.0579,1.004,1.85-2.10
 DET @ MIA,DET win + Duncan Robinson 10+ pr,2,0.6224,0.5519,1.81,1.9,1.7,-0.064,1.009,1.65-1.85
-DET @ MIA,DET win + Paul Reed 10+ pr,2,0.6405,0.5672,1.76,1.85,1.64,-0.0676,1.005,1.50-1.65
-DET @ MIA,DET win + Bam Adebayo 1+ 3pm,2,0.4966,0.4072,2.46,2.58,2.29,-0.0679,0.99,2.10-2.50
-DET @ MIA,game over 229.5 + Davion Mitchell 15+ pra,2,0.4875,0.4436,2.25,2.37,2.1,-0.0702,1.022,1.85-2.10
-DET @ MIA,DET win + Ausar Thompson 4+ reb,2,0.6109,0.5439,1.84,1.93,1.71,-0.0724,1.001,1.65-1.85
-DET @ MIA,DET win + Bobby Portis 5+ pr,2,0.6286,0.5562,1.8,1.89,1.66,-0.0745,0.997,1.65-1.85
+DET @ MIA,DET win + Daniss Jenkins 10+ pr,2,0.6219,0.5518,1.81,1.9,1.69,-0.0651,1.008,1.65-1.85
+DET @ MIA,DET win + Paul Reed 10+ pr,2,0.6405,0.5619,1.78,1.87,1.66,-0.0662,1.005,1.65-1.85
 DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7043,0.581,1.72,1.81,1.56,-0.0953,1.002,1.50-1.65
 DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pr,2,0.7015,0.5801,1.72,1.81,1.56,-0.0958,1.002,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Bobby Portis 5+ pr,2,0.7164,0.5912,1.69,1.78,1.53,-0.0959,1.001,1.50-1.65
 BKN @ MEM,MEM win + Jaylen Wells 10+ pr,2,0.5768,0.5156,1.94,2.04,2.08,0.073,1.013,1.85-2.10
 BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5683,0.5313,1.88,1.98,2.0,0.0605,1.008,1.85-2.10
 BKN @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.5662,0.5288,1.89,1.99,1.98,0.0469,0.995,1.85-2.10
