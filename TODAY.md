@@ -1,6 +1,6 @@
 # NBA model · Sat 14 Nov 2026 (US date)
 
-Updated **Sun 15 Nov, 12:20 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 15 Nov, 12:21 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-14/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -40,7 +40,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| DEN @ NOP | Sun 15 Nov 11:00 | 124.5–113.7 | DEN 78% | 1.29 / 4.50 | NOP +10.5 | 238.5 | NOP +11.5 covers 52%; o235.5 56% |
+| DEN @ NOP | Sun 15 Nov 11:00 | 124.5–113.7 | DEN 78% | 1.29 / 4.50 | NOP +10.5 | 238.5 | NOP +12.5 covers 54%; o235.5 56% |
 | DAL @ CLE | Sun 15 Nov 11:30 | 116.2–117.3 | DAL 47% | 2.13 / 1.89 | CLE -1.5 | 233.5 | CLE -1.5 covers 50%; o231.5 54% |
 | DET @ MIA | Sun 15 Nov 12:00 | 118.6–111.7 | DET 69% | 1.45 / 3.22 | MIA +7.5 | 230.5 | MIA +4.5 covers 42%; o228.5 54% |
 | BKN @ MEM | Sun 15 Nov 12:00 | 109.8–118.6 | BKN 26% | 3.78 / 1.36 | MEM -8.5 | 228.5 | MEM -4.5 covers 62%; o227.5 52% |
