@@ -25,6 +25,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909980,DEN @ NOP,prop_ast,over,DeMar DeRozan,201942.0,4.5,draftkings,523.0,6.23,0.2479,4.03,0.15,0.15,0.0979,,0.5442,0.1629,0.0151,0.0007,False,False,False,,,
 401909981,DAL @ CLE,prop_pts,over,Peyton Watson,1631212.0,19.5,draftkings,467.0,5.67,0.2724,3.67,0.1648,0.1648,0.1076,,0.5446,0.179,0.0151,0.0008,False,True,False,Peyton Watson,0.0,0.4956
 401909981,DAL @ CLE,prop_ast,over,Peyton Watson,1631212.0,5.5,draftkings,1260.0,13.6,0.1122,8.91,0.0687,0.0687,0.0435,,0.526,0.0745,0.0126,0.0003,False,True,False,Peyton Watson,0.0,0.2088
+401909983,BKN @ MEM,prop_ra,under,Cam Spencer,1642285.0,11.5,draftkings,-101.0,1.99,0.7586,1.32,0.4698,0.4698,0.2888,6.96,0.5097,0.5079,0.0108,0.0027,True,True,True,,,
 401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,24.5,draftkings,397.0,4.97,0.3023,3.31,0.188,0.188,0.1143,,0.5026,0.2031,0.0096,0.0006,False,True,False,Peyton Watson,0.0,0.512
 401909982,DET @ MIA,prop_reb,over,Davion Mitchell,1630558.0,4.5,draftkings,690.0,7.9,0.1902,5.26,0.1183,0.1183,0.0719,,0.5023,0.1278,0.0095,0.0003,False,False,False,,,
 401909980,DEN @ NOP,prop_pts,over,Jamal Murray,1627750.0,44.5,draftkings,2700.0,28.0,0.0536,18.67,0.0334,0.0334,0.0202,,0.4997,0.036,0.0092,0.0001,False,True,False,,,
@@ -32,9 +33,10 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909981,DAL @ CLE,prop_ast,over,Peyton Watson,1631212.0,4.5,draftkings,596.0,6.96,0.2137,4.68,0.1343,0.1343,0.0794,,0.4872,0.1448,0.0075,0.0003,False,False,False,Peyton Watson,0.0,0.3402
 401909982,DET @ MIA,prop_pa,over,Cade Cunningham,1630595.0,49.5,draftkings,1020.0,11.2,0.1326,7.54,0.0834,0.0834,0.0492,,0.4854,0.0899,0.0073,0.0002,False,True,False,,,
 401909982,DET @ MIA,prop_pa,over,Cade Cunningham,1630595.0,54.5,draftkings,2000.0,21.0,0.0705,14.18,0.0445,0.0445,0.026,,0.4811,0.0479,0.0067,0.0001,False,True,False,,,
+401909983,BKN @ MEM,prop_ast,over,Cedric Coward,1642907.0,6.5,draftkings,1400.0,15.0,0.0988,10.13,0.0623,0.0623,0.0364,,0.4813,0.0671,0.0067,0.0001,False,False,False,,,
 401909982,DET @ MIA,moneyline,MIA,,,,betfair_ex_au,167.19999999999996,2.67,0.3352,2.98,0.3629,0.3766,-0.0415,3.13,-0.1045,0.3766,0.0063,0.0009,False,True,True,Pelle Larsson,0.3287,0.3714
+401909983,BKN @ MEM,prop_ast,over,Cedric Coward,1642907.0,5.5,draftkings,710.0,8.1,0.1818,5.5,0.1154,0.1154,0.0664,,0.4722,0.1241,0.0055,0.0002,False,True,False,,,
 401909984,CHI @ MIN,total,over,,,235.5,tabtouch,100.0,2.0,0.4854,2.06,0.4746,0.5021,-0.0167,5.36,-0.0292,0.5021,0.0042,0.0011,False,True,True,,,
-401909983,BKN @ MEM,prop_ast,over,Cedric Coward,1642907.0,6.5,draftkings,1380.0,14.8,0.0988,10.13,0.0631,0.0631,0.0356,,0.4615,0.0678,0.0041,0.0001,False,False,False,,,
 401909980,DEN @ NOP,prop_ast,over,Zion Williamson,1629627.0,6.5,draftkings,1120.0,12.2,0.1192,8.39,0.0766,0.0766,0.0426,,0.454,0.0822,0.0031,0.0001,False,False,False,,,
 401909981,DAL @ CLE,prop_pr,over,Peyton Watson,1631212.0,34.5,draftkings,2100.0,22.0,0.066,15.15,0.0425,0.0425,0.0235,,0.4523,0.0456,0.0029,0.0,False,True,False,Peyton Watson,0.0,0.1616
 401909980,DEN @ NOP,moneyline,NOP,,,,betr_au,450.0,5.5,0.2323,4.3,0.1742,0.1823,0.05,4.39,0.2776,0.1823,0.0024,0.0001,False,True,True,,,
