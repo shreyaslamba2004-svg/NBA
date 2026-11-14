@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ NOP,Karlo Matkovic 10+ pr + DEN win,2,0.5907,0.4335,2.31,2.42,2.29,-0.0061,0.988,2.10-2.50
-DEN @ NOP,Karlo Matkovic 10+ pr + Christian Braun 10+ pa,2,0.6704,0.4254,2.35,2.47,2.33,-0.0108,1.002,2.10-2.50
-DEN @ NOP,Karlo Matkovic 10+ pr + Jamal Murray 2+ 3pm,2,0.6625,0.4283,2.33,2.45,2.31,-0.0123,1.004,2.10-2.50
-DEN @ NOP,Karlo Matkovic 10+ pr + Christian Braun 10+ pra,2,0.7514,0.4831,2.07,2.17,2.04,-0.0142,1.001,1.85-2.10
-DEN @ NOP,Karlo Matkovic 10+ pr + Nikola Jokic 30+ pra,2,0.7541,0.4905,2.04,2.14,2.01,-0.015,1.002,1.85-2.10
-DEN @ NOP,Karlo Matkovic 10+ pr + Cameron Johnson 10+ pra,2,0.7354,0.4816,2.08,2.18,2.04,-0.0159,1.002,1.85-2.10
-DEN @ NOP,Karlo Matkovic 6+ pts + Nikola Jokic 30+ pra,2,0.7508,0.5111,1.96,2.05,1.83,-0.0625,1.001,1.65-1.85
-DEN @ NOP,Karlo Matkovic 5+ pr + Herbert Jones 3pm under 1.5,2,0.6759,0.5203,1.92,2.02,1.75,-0.0869,1.001,1.65-1.85
-DEN @ NOP,Jamal Murray 4+ reb + Herbert Jones 5+ pa,2,0.5831,0.4935,2.03,2.13,1.84,-0.0944,1.002,1.65-1.85
-DEN @ NOP,Herbert Jones 3pm under 1.5 + Nikola Jokic 30+ pra,2,0.6708,0.5557,1.8,1.89,1.62,-0.0995,1.0,1.50-1.65
-DEN @ NOP,Herbert Jones 3pm under 1.5 + Christian Braun 10+ pra,2,0.6673,0.5465,1.83,1.92,1.65,-0.1001,0.997,1.50-1.65
-DEN @ NOP,Herbert Jones 3pm under 1.5 + Cameron Johnson 10+ pra,2,0.6521,0.5439,1.84,1.93,1.65,-0.1031,0.997,1.50-1.65
+DEN @ NOP,Karlo Matkovic 10+ pr + DEN win,2,0.5887,0.4324,2.31,2.43,2.29,-0.0086,0.986,2.10-2.50
+DEN @ NOP,Karlo Matkovic 10+ pr + Christian Braun 10+ pa,2,0.6681,0.4256,2.35,2.47,2.33,-0.0104,1.003,2.10-2.50
+DEN @ NOP,Karlo Matkovic 10+ pr + Zion Williamson 4+ reb,2,0.6383,0.4113,2.43,2.55,2.4,-0.0114,1.004,2.10-2.50
+DEN @ NOP,Karlo Matkovic 10+ pr + Christian Braun 10+ pra,2,0.7488,0.4823,2.07,2.18,2.04,-0.0158,1.0,1.85-2.10
+DEN @ NOP,Karlo Matkovic 10+ pr + Nikola Jokic 30+ pra,2,0.7499,0.4888,2.05,2.15,2.01,-0.0184,0.999,1.85-2.10
+DEN @ NOP,Karlo Matkovic 10+ pr + Cameron Johnson 10+ pra,2,0.7338,0.4802,2.08,2.19,2.04,-0.0186,0.999,1.85-2.10
+DEN @ NOP,Karlo Matkovic 6+ pts + Nikola Jokic 30+ pra,2,0.7444,0.5095,1.96,2.06,1.83,-0.0654,0.999,1.65-1.85
+DEN @ NOP,Herbert Jones 3pm under 1.5 + Karlo Matkovic 5+ pr,2,0.6785,0.5197,1.92,2.02,1.75,-0.088,0.999,1.65-1.85
+DEN @ NOP,Jamal Murray 4+ reb + Herbert Jones 5+ pa,2,0.5891,0.4954,2.02,2.12,1.84,-0.0909,1.005,1.65-1.85
+DEN @ NOP,Herbert Jones 3pm under 1.5 + Nikola Jokic 30+ pra,2,0.6749,0.5563,1.8,1.89,1.62,-0.0986,1.0,1.50-1.65
+DEN @ NOP,Herbert Jones 3pm under 1.5 + Christian Braun 10+ pra,2,0.6718,0.5472,1.83,1.92,1.65,-0.099,0.998,1.50-1.65
+DEN @ NOP,Herbert Jones 3pm under 1.5 + Cameron Johnson 10+ pra,2,0.66,0.5462,1.83,1.92,1.65,-0.0993,1.0,1.50-1.65
 DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.4876,0.3989,2.51,2.63,2.4,-0.0423,1.026,2.10-2.50
 DAL @ CLE,DAL win + P.J. Washington 15+ pr,2,0.4706,0.3895,2.57,2.7,2.45,-0.0457,1.024,2.10-2.50
 DAL @ CLE,game over 231.5 + P.J. Washington 15+ pr,2,0.4065,0.4082,2.45,2.57,2.33,-0.0494,1.054,2.10-2.50
@@ -21,33 +21,33 @@ DAL @ CLE,Cooper Flagg 3pm under 1.5 + Zaccharie Risacher 5+ pr,2,0.5878,0.4545,
 DAL @ CLE,Kyrie Irving 3pm under 3.5 + P.J. Washington 10+ pr,2,0.7057,0.5553,1.8,1.89,1.64,-0.0916,0.999,1.50-1.65
 DAL @ CLE,Cooper Flagg ast under 6.5 + P.J. Washington 10+ pr,2,0.6517,0.52,1.92,2.02,1.74,-0.0932,1.0,1.65-1.85
 DAL @ CLE,Cooper Flagg ra under 13.5 + P.J. Washington 10+ pr,2,0.614,0.499,2.0,2.1,1.81,-0.0966,1.0,1.65-1.85
-DET @ MIA,DET -4.5 + Paul Reed 10+ pa,2,0.4555,0.3971,2.52,2.64,2.44,-0.0328,1.033,2.10-2.50
-DET @ MIA,DET -4.5 + Duncan Robinson 15+ pra,2,0.4679,0.4071,2.46,2.58,2.37,-0.0357,1.029,2.10-2.50
-DET @ MIA,DET win + Paul Reed 10+ pa,2,0.5488,0.4867,2.05,2.16,1.96,-0.0465,1.028,1.85-2.10
-DET @ MIA,game over 229.5 + Paul Reed 10+ pa,2,0.4302,0.3925,2.55,2.68,2.42,-0.0486,1.046,2.10-2.50
-DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5621,0.4975,2.01,2.11,1.91,-0.0521,1.022,1.85-2.10
-DET @ MIA,DET -4.5 + Paul Reed 10+ pr,2,0.5287,0.456,2.19,2.3,2.07,-0.0579,1.004,1.85-2.10
-DET @ MIA,DET win + Duncan Robinson 10+ pr,2,0.6224,0.5519,1.81,1.9,1.7,-0.064,1.009,1.65-1.85
+DET @ MIA,DET -4.5 + Duncan Robinson 15+ pra,2,0.4679,0.4066,2.46,2.58,2.37,-0.0355,1.029,2.10-2.50
+DET @ MIA,game over 229.5 + Bam Adebayo 25+ pra,2,0.4335,0.3943,2.54,2.66,2.44,-0.0372,1.058,2.10-2.50
+DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4422,0.4022,2.49,2.61,2.36,-0.0505,1.043,2.10-2.50
+DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5621,0.4969,2.01,2.11,1.91,-0.0519,1.022,1.85-2.10
+DET @ MIA,Paul Reed 19+ pr + Bobby Portis 5+ pr,2,0.5709,0.4534,2.21,2.32,2.08,-0.0578,1.0,1.85-2.10
+DET @ MIA,Paul Reed 19+ pr + Davion Mitchell 15+ pra,2,0.5611,0.4493,2.23,2.34,2.1,-0.0587,1.0,1.85-2.10
+DET @ MIA,DET win + Ausar Thompson 15+ pra,2,0.5963,0.5255,1.9,2.0,1.79,-0.0616,1.011,1.65-1.85
 DET @ MIA,DET win + Daniss Jenkins 10+ pr,2,0.6219,0.5518,1.81,1.9,1.69,-0.0651,1.008,1.65-1.85
-DET @ MIA,DET win + Paul Reed 10+ pr,2,0.6405,0.5619,1.78,1.87,1.66,-0.0662,1.005,1.65-1.85
-DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7043,0.581,1.72,1.81,1.56,-0.0953,1.002,1.50-1.65
-DET @ MIA,Bam Adebayo 1+ 3pm + Duncan Robinson 10+ pr,2,0.7015,0.5801,1.72,1.81,1.56,-0.0958,1.002,1.50-1.65
-DET @ MIA,Bam Adebayo 1+ 3pm + Bobby Portis 5+ pr,2,0.7164,0.5912,1.69,1.78,1.53,-0.0959,1.001,1.50-1.65
+DET @ MIA,DET win + Ausar Thompson 4+ reb,2,0.6109,0.5409,1.85,1.94,1.72,-0.0716,1.001,1.65-1.85
+DET @ MIA,Bam Adebayo 1+ 3pm + Bobby Portis 5+ pr,2,0.7164,0.5847,1.71,1.8,1.55,-0.093,1.001,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Davion Mitchell 15+ pra,2,0.7043,0.5796,1.73,1.81,1.56,-0.0937,1.002,1.50-1.65
+DET @ MIA,Bam Adebayo 1+ 3pm + Ausar Thompson 15+ pra,2,0.67,0.5514,1.81,1.9,1.64,-0.0951,1.0,1.50-1.65
 BKN @ MEM,MEM win + Jaylen Wells 10+ pr,2,0.5768,0.5156,1.94,2.04,2.08,0.073,1.013,1.85-2.10
 BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5683,0.5313,1.88,1.98,2.0,0.0605,1.008,1.85-2.10
 BKN @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.5662,0.5288,1.89,1.99,1.98,0.0469,0.995,1.85-2.10
 BKN @ MEM,MEM win + Jaylen Wells 10+ pr + Cameron Boozer 6+ reb,3,0.5101,0.4326,2.31,2.43,2.33,0.0074,1.009,2.10-2.50
 BKN @ MEM,MEM win + Cameron Boozer 6+ reb + Jaylen Wells 1+ 3pm,3,0.5016,0.4449,2.25,2.36,2.23,-0.0062,1.003,2.10-2.50
 BKN @ MEM,Cam Spencer ra under 11.5 + Jaylen Wells 10+ pr,2,0.6706,0.4077,2.45,2.58,2.34,-0.0456,0.995,2.10-2.50
-CHI @ MIN,game over 235.5 + Josh Giddey 10+ pts,2,0.417,0.401,2.49,2.62,2.47,-0.0094,1.043,2.10-2.50
-CHI @ MIN,game over 235.5 + MIN win,2,0.4184,0.4375,2.29,2.4,2.25,-0.0169,1.008,2.10-2.50
-CHI @ MIN,game over 235.5 + Terrence Shannon Jr. 10+ pra,2,0.4226,0.4128,2.42,2.54,2.36,-0.0256,1.029,2.10-2.50
-CHI @ MIN,game over 235.5 + Isaac Okoro 5+ pra,2,0.4793,0.4635,2.16,2.27,2.06,-0.0456,1.006,1.85-2.10
-CHI @ MIN,MIN win + Matas Buzelis 3pm under 2.5,2,0.6197,0.5377,1.86,1.95,1.75,-0.0584,1.012,1.65-1.85
-CHI @ MIN,MIN win + LaMelo Ball ra under 11.5,2,0.5161,0.4484,2.23,2.34,2.06,-0.0763,0.992,1.85-2.10
-CHI @ MIN,MIN win + Jaden McDaniels ra under 9.5,2,0.5196,0.4549,2.2,2.31,2.03,-0.0767,0.992,1.85-2.10
-CHI @ MIN,Matas Buzelis 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.6697,0.5187,1.93,2.02,1.75,-0.0916,0.997,1.65-1.85
-CHI @ MIN,Matas Buzelis 3pm under 2.5 + Terrence Shannon Jr. 10+ pra,2,0.6086,0.4932,2.03,2.13,1.84,-0.0927,1.004,1.65-1.85
-CHI @ MIN,Matas Buzelis 3pm under 2.5 + Isaac Okoro 5+ pra,2,0.7022,0.5635,1.77,1.86,1.6,-0.0959,0.998,1.50-1.65
-CHI @ MIN,MIN win + LaMelo Ball 2+ 3pm + Terrence Shannon Jr. 10+ pra,3,0.6522,0.5831,1.72,1.8,1.5,-0.1251,1.012,1.50-1.65
-CHI @ MIN,MIN win + Isaac Okoro 5+ pa + Josh Giddey 10+ pts,3,0.6546,0.5554,1.8,1.89,1.56,-0.134,0.993,1.50-1.65
+CHI @ MIN,game over 235.5 + Josh Giddey 15+ pr,2,0.4367,0.4151,2.41,2.53,2.37,-0.0181,1.037,2.10-2.50
+CHI @ MIN,game over 235.5 + MIN win,2,0.4184,0.4357,2.3,2.41,2.25,-0.021,1.008,2.10-2.50
+CHI @ MIN,game over 235.5 + Terrence Shannon Jr. 10+ pra,2,0.4226,0.409,2.45,2.57,2.37,-0.0289,1.029,2.10-2.50
+CHI @ MIN,game over 235.5 + Isaac Okoro 5+ pra,2,0.4793,0.4609,2.17,2.28,2.06,-0.0494,1.006,1.85-2.10
+CHI @ MIN,MIN win + Matas Buzelis 3pm under 2.5,2,0.6197,0.5431,1.84,1.93,1.73,-0.06,1.012,1.65-1.85
+CHI @ MIN,MIN win + Isaac Okoro 11+ pr,2,0.5193,0.4439,2.25,2.37,2.09,-0.0713,0.987,1.85-2.10
+CHI @ MIN,game under 235.5 + Isaac Okoro 5+ pra,2,0.502,0.4554,2.2,2.31,2.03,-0.0743,0.994,1.85-2.10
+CHI @ MIN,MIN win + Isaac Okoro 10+ pra,2,0.676,0.5856,1.71,1.79,1.58,-0.0767,0.992,1.50-1.65
+CHI @ MIN,Matas Buzelis 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.6697,0.5239,1.91,2.0,1.73,-0.0932,0.997,1.65-1.85
+CHI @ MIN,Matas Buzelis 3pm under 2.5 + Terrence Shannon Jr. 10+ pra,2,0.6086,0.4956,2.02,2.12,1.83,-0.0935,1.004,1.65-1.85
+CHI @ MIN,Matas Buzelis 3pm under 2.5 + Isaac Okoro 5+ pra,2,0.7022,0.5682,1.76,1.85,1.59,-0.0972,0.998,1.50-1.65
+CHI @ MIN,MIN win + Terrence Shannon Jr. 10+ pra + LaMelo Ball 2+ 3pm,3,0.6522,0.5823,1.72,1.8,1.5,-0.1249,1.012,1.50-1.65
