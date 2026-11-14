@@ -11,28 +11,23 @@ DEN @ NOP,Zion Williamson 9+ ra + Cameron Johnson 10+ pra,2,0.5987,0.4895,2.04,2
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.6123,0.557,1.8,1.89,1.58,-0.1175,1.024,1.50-1.65
 DEN @ NOP,DEN win + Jamal Murray 2+ 3pm + Cameron Johnson 10+ pr,3,0.6001,0.5598,1.79,1.88,1.56,-0.1259,1.019,1.50-1.65
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Nikola Jokic 8+ reb,3,0.6075,0.5526,1.81,1.9,1.58,-0.1274,1.012,1.50-1.65
-DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.5493,0.4024,2.49,2.61,2.37,-0.0452,1.026,2.10-2.50
-DAL @ CLE,game over 231.5 + P.J. Washington 10+ pa,2,0.4004,0.4201,2.38,2.5,2.26,-0.0525,1.052,2.10-2.50
-DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr,2,0.6001,0.4147,2.41,2.53,2.28,-0.0553,1.005,2.10-2.50
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pr,2,0.6793,0.4924,2.03,2.13,1.87,-0.0774,1.0,1.85-2.10
-DAL @ CLE,Cooper Flagg ra under 13.5 + Zaccharie Risacher 5+ pr,2,0.5938,0.4382,2.28,2.4,2.1,-0.0816,0.999,1.85-2.10
-DAL @ CLE,Cooper Flagg ast under 6.5 + Zaccharie Risacher 5+ pr,2,0.6185,0.4645,2.15,2.26,1.97,-0.0849,0.999,1.85-2.10
+DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.5493,0.4035,2.48,2.6,2.37,-0.0456,1.026,2.10-2.50
+DAL @ CLE,game over 231.5 + P.J. Washington 10+ pa,2,0.4004,0.4212,2.37,2.49,2.25,-0.053,1.052,2.10-2.50
+DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr,2,0.6001,0.4165,2.4,2.52,2.27,-0.056,1.005,2.10-2.50
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pr,2,0.6793,0.5016,1.99,2.09,1.83,-0.0806,1.0,1.65-1.85
+DAL @ CLE,Cooper Flagg ast under 6.5 + Zaccharie Risacher 5+ pr,2,0.6185,0.4615,2.17,2.28,1.99,-0.0836,0.999,1.85-2.10
+DAL @ CLE,Cooper Flagg ra under 13.5 + Zaccharie Risacher 5+ pr,2,0.5938,0.451,2.22,2.33,2.03,-0.0865,0.999,1.85-2.10
+DAL @ CLE,Cooper Flagg pra under 38.5 + Zaccharie Risacher 5+ pr,2,0.5911,0.4456,2.24,2.36,2.05,-0.0877,0.996,1.85-2.10
 DET @ MIA,Andrew Wiggins 10+ pts + Bam Adebayo 20+ pra,2,0.527,0.449,2.23,2.34,2.13,-0.0416,1.01,2.10-2.50
 DET @ MIA,Andrew Wiggins 10+ pts + Bam Adebayo 6+ reb,2,0.5017,0.4243,2.36,2.47,2.26,-0.043,1.007,2.10-2.50
 DET @ MIA,game over 229.5 + Duncan Robinson 15+ pra,2,0.4422,0.39,2.56,2.69,2.45,-0.0444,1.043,2.10-2.50
 DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5621,0.4812,2.08,2.18,1.98,-0.0469,1.022,1.85-2.10
 DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5691,0.4933,2.03,2.13,1.93,-0.0496,1.021,1.85-2.10
 DET @ MIA,DET win + Daniss Jenkins 1+ 3pm,2,0.57,0.5008,2.0,2.1,1.87,-0.0614,1.011,1.85-2.10
-DET @ MIA,DET win + Daniss Jenkins 10+ pr,2,0.6219,0.5513,1.81,1.9,1.7,-0.065,1.008,1.65-1.85
+DET @ MIA,DET win + Ausar Thompson 10+ pr,2,0.6268,0.5534,1.81,1.9,1.69,-0.0661,1.006,1.65-1.85
 DET @ MIA,DET win + Bam Adebayo 6+ reb,2,0.5938,0.52,1.92,2.02,1.79,-0.07,1.001,1.65-1.85
 DET @ MIA,DET win + Ausar Thompson 4+ reb,2,0.6109,0.5422,1.84,1.94,1.71,-0.0719,1.001,1.65-1.85
 DET @ MIA,Duncan Robinson 10+ pts + Andrew Wiggins 1+ 3pm,2,0.6788,0.5885,1.7,1.78,1.51,-0.1084,0.998,1.50-1.65
-BKN @ MEM,MEM win + Jaylen Wells 10+ pr,2,0.5768,0.5156,1.94,2.04,2.08,0.073,1.013,1.85-2.10
-BKN @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5683,0.5313,1.88,1.98,2.0,0.0605,1.008,1.85-2.10
-BKN @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.5662,0.5288,1.89,1.99,1.98,0.0469,0.995,1.85-2.10
-BKN @ MEM,MEM win + Jaylen Wells 10+ pr + Cameron Boozer 6+ reb,3,0.5101,0.4326,2.31,2.43,2.33,0.0074,1.009,2.10-2.50
-BKN @ MEM,MEM win + Cameron Boozer 6+ reb + Jaylen Wells 1+ 3pm,3,0.5016,0.4449,2.25,2.36,2.23,-0.0062,1.003,2.10-2.50
-BKN @ MEM,Cam Spencer ra under 11.5 + Jaylen Wells 10+ pr,2,0.6706,0.4077,2.45,2.58,2.34,-0.0456,0.995,2.10-2.50
 CHI @ MIN,game over 235.5 + Josh Giddey 15+ pr,2,0.4367,0.4169,2.4,2.52,2.36,-0.014,1.037,2.10-2.50
 CHI @ MIN,game over 235.5 + MIN win,2,0.4184,0.4375,2.29,2.4,2.25,-0.0169,1.008,2.10-2.50
 CHI @ MIN,game over 235.5 + Terrence Shannon Jr. 10+ pra,2,0.4226,0.4136,2.42,2.54,2.36,-0.0259,1.029,2.10-2.50
