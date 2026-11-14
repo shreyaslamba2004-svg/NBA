@@ -1,28 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-UTA @ HOU,Darryn Peterson pts under 18.5 + HOU win,2,0.6337,0.4717,2.12,2.23,2.14,0.0084,1.018,2.10-2.50
-UTA @ HOU,Amen Thompson 17+ pts + HOU win,2,0.4825,0.4465,2.24,2.35,2.24,0.0023,1.018,2.10-2.50
-UTA @ HOU,Keyonte George pts under 20.5 + HOU win,2,0.5062,0.4563,2.19,2.3,2.19,-0.0006,1.025,2.10-2.50
-UTA @ HOU,Darryn Peterson pts under 18.5 + Brice Sensabaugh 5+ pra,2,0.6681,0.4741,2.11,2.21,2.05,-0.0303,0.999,1.85-2.10
-UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6321,0.4745,2.11,2.21,2.03,-0.0363,1.02,1.85-2.10
-UTA @ HOU,Tari Eason 9+ pts + HOU win,2,0.5775,0.4702,2.13,2.23,2.05,-0.0373,1.013,1.85-2.10
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Jabari Smith Jr. 10+ pts,3,0.695,0.5435,1.84,1.93,1.64,-0.1102,1.019,1.50-1.65
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Amen Thompson 20+ pra,3,0.7011,0.5646,1.77,1.86,1.56,-0.1169,1.016,1.50-1.65
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Isaiah Collier 5+ pr,3,0.6775,0.5216,1.92,2.01,1.69,-0.1201,1.005,1.65-1.85
-UTA @ HOU,HOU win + Kevin Durant 20+ pa + Jaxson Hayes 10+ pra,3,0.696,0.5431,1.84,1.93,1.62,-0.1211,1.006,1.50-1.65
-UTA @ HOU,Kevin Durant 20+ pa + Jaxson Hayes 10+ pra + Jabari Smith Jr. 10+ pts,3,0.6763,0.493,2.03,2.13,1.75,-0.1358,1.006,1.65-1.85
-UTA @ HOU,Kevin Durant 20+ pa + Isaiah Collier 5+ pr + Jaxson Hayes 10+ pra,3,0.6666,0.4784,2.09,2.19,1.81,-0.1359,1.003,1.65-1.85
-GSW @ SAS,De'Anthony Melton pa under 15.5 + SAS win,2,0.427,0.4547,2.2,2.31,2.11,-0.0389,1.044,2.10-2.50
-GSW @ SAS,SAS win + De'Anthony Melton pts under 12.5,2,0.4268,0.4594,2.18,2.29,2.09,-0.0396,1.045,1.85-2.10
-GSW @ SAS,SAS win + De'Anthony Melton pra under 19.5,2,0.4183,0.4498,2.22,2.33,2.13,-0.0422,1.042,2.10-2.50
-GSW @ SAS,SAS win + De'Anthony Melton pr under 16.5,2,0.4163,0.4511,2.22,2.33,2.11,-0.0466,1.039,2.10-2.50
-GSW @ SAS,Al Horford 3pm under 1.5 + SAS win,2,0.5145,0.5072,1.97,2.07,1.88,-0.0473,1.019,1.85-2.10
-GSW @ SAS,GSW +12.5 + Yaxel Lendeborg 15+ pa,2,0.6413,0.4555,2.2,2.31,2.05,-0.0643,1.016,1.85-2.10
-GSW @ SAS,Al Horford 3pm under 1.5 + Stephon Castle 10+ pa,2,0.739,0.5522,1.81,1.9,1.66,-0.0822,0.999,1.65-1.85
-GSW @ SAS,Al Horford 3pm under 1.5 + Yaxel Lendeborg 15+ pa,2,0.7069,0.5249,1.91,2.0,1.75,-0.0827,0.998,1.65-1.85
-GSW @ SAS,Al Horford 3pm under 1.5 + Brandin Podziemski 10+ pts,2,0.6841,0.5104,1.96,2.06,1.8,-0.0827,0.999,1.65-1.85
-GSW @ SAS,Brandin Podziemski blk under 0.5 + Yaxel Lendeborg 15+ pa,2,0.7054,0.5777,1.73,1.82,1.56,-0.0983,0.999,1.50-1.65
-GSW @ SAS,Brandin Podziemski blk under 0.5 + Julian Champagnie 1+ 3pm,2,0.6833,0.5719,1.75,1.84,1.57,-0.1001,1.001,1.50-1.65
-GSW @ SAS,SAS win + Stephon Castle 4+ ast + Julian Champagnie 1+ 3pm,3,0.4992,0.5655,1.77,1.86,1.53,-0.1325,1.019,1.50-1.65
+GSW @ SAS,De'Anthony Melton pa under 15.5 + SAS win,2,0.4632,0.4565,2.19,2.3,2.11,-0.0351,1.047,2.10-2.50
+GSW @ SAS,De'Anthony Melton pts under 12.5 + SAS win,2,0.4654,0.4607,2.17,2.28,2.09,-0.0367,1.046,1.85-2.10
+GSW @ SAS,De'Anthony Melton pra under 19.5 + SAS win,2,0.4545,0.4512,2.22,2.33,2.13,-0.0392,1.044,2.10-2.50
+GSW @ SAS,SAS win + De'Anthony Melton pr under 16.5,2,0.4552,0.4542,2.2,2.31,2.11,-0.0399,1.044,2.10-2.50
+GSW @ SAS,Al Horford 3pm under 1.5 + SAS win,2,0.553,0.5081,1.97,2.07,1.88,-0.0454,1.022,1.85-2.10
+GSW @ SAS,GSW +12.5 + Yaxel Lendeborg 15+ pa,2,0.595,0.4551,2.2,2.31,2.05,-0.0652,1.016,1.85-2.10
+GSW @ SAS,Julian Champagnie 3pm under 2.5 + Georges Niang 5+ pr,2,0.6962,0.5019,1.99,2.09,1.84,-0.077,1.0,1.65-1.85
+GSW @ SAS,SAS win + Brandin Podziemski blk under 0.5,2,0.5433,0.5474,1.83,1.92,1.68,-0.0815,1.001,1.65-1.85
+GSW @ SAS,Al Horford 3pm under 1.5 + Yaxel Lendeborg 15+ pa,2,0.7032,0.5243,1.91,2.0,1.75,-0.0837,0.998,1.65-1.85
+GSW @ SAS,Brandin Podziemski blk under 0.5 + Yaxel Lendeborg 15+ pa,2,0.7064,0.5776,1.73,1.82,1.56,-0.0984,0.999,1.50-1.65
+GSW @ SAS,SAS win + Georges Niang 5+ pr + Devin Vassell 1+ 3pm,3,0.5754,0.5635,1.77,1.86,1.53,-0.1354,1.004,1.50-1.65
 POR @ SAC,POR win + Jrue Holiday 18+ pa,2,0.4501,0.4109,2.43,2.56,2.38,-0.024,1.04,2.10-2.50
 POR @ SAC,game over 229.5 + Domantas Sabonis 15+ pa,2,0.4508,0.3985,2.51,2.64,2.45,-0.0246,1.057,2.10-2.50
 POR @ SAC,POR win + Jrue Holiday 22+ pra,2,0.4381,0.4061,2.46,2.59,2.4,-0.0266,1.04,2.10-2.50
