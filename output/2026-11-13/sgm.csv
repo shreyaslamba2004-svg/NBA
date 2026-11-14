@@ -38,15 +38,15 @@ MEM @ NOP,Karlo Matkovic 10+ pra + Herbert Jones 5+ pa,2,0.8859,0.6177,1.62,1.7,
 UTA @ HOU,Darryn Peterson pts under 18.5 + HOU win,2,0.6457,0.4721,2.12,2.22,2.14,0.0092,1.015,2.10-2.50
 UTA @ HOU,Keyonte George pts under 20.5 + HOU win,2,0.5146,0.4527,2.21,2.32,2.19,-0.0085,1.02,2.10-2.50
 UTA @ HOU,Darryn Peterson pts under 18.5 + Josh Okogie 5+ pra,2,0.6609,0.4187,2.39,2.51,2.36,-0.0115,0.998,2.10-2.50
+UTA @ HOU,Darryn Peterson pts under 18.5 + Brice Sensabaugh 5+ pra,2,0.681,0.4739,2.11,2.22,2.05,-0.027,0.998,1.85-2.10
 UTA @ HOU,Darryn Peterson pa under 22.5 + HOU win,2,0.6466,0.4639,2.16,2.26,2.09,-0.0302,1.017,1.85-2.10
 UTA @ HOU,Darryn Peterson pr under 22.5 + HOU win,2,0.6392,0.4636,2.16,2.26,2.08,-0.035,1.014,1.85-2.10
-UTA @ HOU,Kevin Durant 21+ pts + HOU win,2,0.5502,0.4775,2.09,2.2,2.01,-0.0414,1.019,1.85-2.10
 UTA @ HOU,Josh Okogie 5+ pra + Svi Mykhailiuk 5+ pra,2,0.7807,0.605,1.65,1.74,1.5,-0.0899,0.999,1.50-1.65
-UTA @ HOU,Svi Mykhailiuk 5+ pra + Kevin Durant 20+ pa,2,0.6866,0.5845,1.71,1.8,1.54,-0.1015,1.003,1.50-1.65
-UTA @ HOU,Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,2,0.715,0.5951,1.68,1.76,1.51,-0.1015,0.999,1.50-1.65
-UTA @ HOU,HOU win + Svi Mykhailiuk 5+ pra + Kevin Durant 20+ pa,3,0.6233,0.5175,1.93,2.03,1.68,-0.1289,1.008,1.65-1.85
-UTA @ HOU,Josh Okogie 5+ pra + Jabari Smith Jr. 10+ pts + Kevin Durant 20+ pa,3,0.6753,0.4858,2.06,2.16,1.79,-0.1319,1.008,1.65-1.85
-UTA @ HOU,Josh Okogie 5+ pra + Isaiah Collier 5+ pr + Jabari Smith Jr. 10+ pts,3,0.7013,0.4933,2.03,2.13,1.75,-0.1343,1.001,1.65-1.85
+UTA @ HOU,Isaiah Collier 5+ pr + Svi Mykhailiuk 5+ pra,2,0.715,0.591,1.69,1.78,1.52,-0.1004,0.999,1.50-1.65
+UTA @ HOU,HOU win + Josh Okogie 5+ pra + Jabari Smith Jr. 10+ pts,3,0.7393,0.5588,1.79,1.88,1.58,-0.1153,1.007,1.50-1.65
+UTA @ HOU,Josh Okogie 5+ pra + Isaiah Collier 5+ pr + Jabari Smith Jr. 10+ pts,3,0.7013,0.4899,2.04,2.14,1.77,-0.1332,1.001,1.65-1.85
+UTA @ HOU,Josh Okogie 5+ pra + Isaiah Collier 5+ pr + Alperen Sengun 6+ reb,3,0.7343,0.5169,1.93,2.03,1.67,-0.1346,1.001,1.65-1.85
+UTA @ HOU,Josh Okogie 5+ pra + Brice Sensabaugh 5+ pr + Svi Mykhailiuk 5+ pra,3,0.7461,0.5237,1.91,2.01,1.65,-0.1351,1.0,1.65-1.85
 GSW @ SAS,De'Anthony Melton pa under 15.5 + SAS win,2,0.427,0.4547,2.2,2.31,2.11,-0.0389,1.044,2.10-2.50
 GSW @ SAS,SAS win + De'Anthony Melton pts under 12.5,2,0.4268,0.4594,2.18,2.29,2.09,-0.0396,1.045,1.85-2.10
 GSW @ SAS,SAS win + De'Anthony Melton pra under 19.5,2,0.4183,0.4498,2.22,2.33,2.13,-0.0422,1.042,2.10-2.50
