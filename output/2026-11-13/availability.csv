@@ -36,13 +36,13 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909304,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909304,LAC,1642353,Cam Christie,,,1.0,,,
 401909304,LAC,1641711,Gradey Dick,,,1.0,,,
-401909304,LAC,1627739,Kris Dunn,,,1.0,,,
-401909304,LAC,1629636,Darius Garland,,,1.0,,,
-401909304,LAC,1629060,Rui Hachimura,,,1.0,,,
+401909304,LAC,1627739,Kris Dunn,Starting,,1.0,,,1.0
+401909304,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
+401909304,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
 401909304,LAC,1627742,Brandon Ingram,Out,Injury/Illness-RightHeelSurgery,0.0,"Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",,
 401909304,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401909304,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
-401909304,LAC,201572,Brook Lopez,,,1.0,,,
+401909304,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401909304,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
 401909304,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401909304,LAC,1641757,Baba Miller,,,1.0,,,
 401909304,LAC,905108024,Yanic Konan Niederhauser,Out,Injury/Illness-RightLisfrancSurgery,0.0,"Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",,
@@ -55,11 +55,11 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909304,OKC,1627936,Alex Caruso,,,1.0,,,
 401909304,OKC,1642363,Nique Clifford,,,1.0,,,
 401909304,OKC,905105800,Josh Dix,,,1.0,,,
-401909304,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
-401909304,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
+401909304,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
+401909304,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
 401909304,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
-401909304,OKC,905174983,Aday Mara,,,1.0,,,
-401909304,OKC,1642272,Jared McCain,,,1.0,,,
+401909304,OKC,905174983,Aday Mara,Starting,,1.0,,,1.0
+401909304,OKC,1642272,Jared McCain,Starting,,1.0,,,1.0
 401909304,OKC,1642349,Ajay Mitchell,Out,Injury/Illness-LeftAnkleSprain,0.0,Mitchell (ankle) has been ruled out for Friday's game against the Clippers.,,
 401909304,OKC,904432185,Micah Peavy,,,1.0,,,
 401909304,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,Sorber (knee) has been ruled out for Friday's game against the Clippers.,,
@@ -68,4 +68,4 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909304,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401909304,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
 401909304,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowBackSpasms,0.0,Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely.,,
-401909304,OKC,1629026,Kenrich Williams,,,1.0,,,
+401909304,OKC,1629026,Kenrich Williams,Starting,,1.0,,,1.0
