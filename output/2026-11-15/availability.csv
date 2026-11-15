@@ -1,38 +1,38 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909985,PHI,1631230,Dominick Barlow,Out,,0.0,"Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports.",,
 401909985,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,"Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",,
-401909985,PHI,1627759,Jaylen Brown,,,1.0,,,
+401909985,PHI,1627759,Jaylen Brown,Starting,,1.0,,,1.0
 401909985,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909985,PHI,1642845,VJ Edgecombe,,,1.0,,,
+401909985,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
 401909985,PHI,1642348,Justin Edwards,,,1.0,,,
 401909985,PHI,203954,Joel Embiid,Out,,0.0,Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers.,,
 401909985,PHI,1629605,Tacko Fall,,,1.0,,,
 401909985,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401909985,PHI,2544,LeBron James,,,1.0,,,
+401909985,PHI,2544,LeBron James,Starting,,1.0,,,1.0
 401909985,PHI,904433144,Caleb Love,,,1.0,,,
-401909985,PHI,1630178,Tyrese Maxey,,,1.0,,,
+401909985,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
 401909985,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909985,PHI,1641712,Rayan Rupert,,,1.0,,,
-401909985,PHI,1629014,Anfernee Simons,,,1.0,,,
+401909985,PHI,1629014,Anfernee Simons,Starting,,1.0,,,1.0
 401909985,PHI,1629731,Dean Wade,,,1.0,,,
 401909985,PHI,1631133,Jabari Walker,,,1.0,,,
 401909985,IND,1641738,Kobe Brown,,,1.0,,,
 401909985,IND,1642277,Johnny Furphy,Out,,0.0,"Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",,
 401909985,IND,1630169,Tyrese Haliburton,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports.",,
 401909985,IND,1630643,Jay Huff,,,1.0,,,
-401909985,IND,1631245,Quenton Jackson,,,1.0,,,
+401909985,IND,1631245,Quenton Jackson,Starting,,1.0,,,1.0
 401909985,IND,204456,T.J. McConnell,Available,Injury/Illness-RightHamstringStrain,1.0,,,
 401909985,IND,1626204,Larry Nance Jr.,,,1.0,,,
 401909985,IND,1629614,Andrew Nembhard,Out,,0.0,"Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports.",,
-401909985,IND,1630174,Aaron Nesmith,Available,Injury/Illness-LeftHandSprain,1.0,,,
-401909985,IND,1626162,Kelly Oubre Jr.,,,1.0,,,
+401909985,IND,1630174,Aaron Nesmith,Starting,Injury/Illness-LeftHandSprain,1.0,,,1.0
+401909985,IND,1626162,Kelly Oubre Jr.,Starting,,1.0,,,1.0
 401909985,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusTear,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
-401909985,IND,1627783,Pascal Siakam,,,1.0,,,
+401909985,IND,1627783,Pascal Siakam,Starting,,1.0,,,1.0
 401909985,IND,1641771,Jalen Slawson,,,1.0,,,
 401909985,IND,905105854,Braden Smith,,,1.0,,,
 401909985,IND,1630167,Obi Toppin,,,1.0,,,
 401909985,IND,1641716,Jarace Walker,,,1.0,,,
-401909985,IND,1627826,Ivica Zubac,,,1.0,,,
+401909985,IND,1627826,Ivica Zubac,Starting,,1.0,,,1.0
 401909986,PHX,1626164,Devin Booker,,,1.0,,,
 401909986,PHX,1631123,Jamaree Bouyea,,,1.0,,,
 401909986,PHX,1628970,Miles Bridges,,,1.0,,,
