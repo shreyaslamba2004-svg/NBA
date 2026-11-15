@@ -17,30 +17,28 @@ SAS @ UTA,Devin Vassell 10+ pa + Ace Bailey 15+ pr,2,0.7026,0.5969,1.68,1.76,1.5
 SAS @ UTA,SAS win + Josh Okogie 5+ pr + Ace Bailey 15+ pr,3,0.6287,0.5183,1.93,2.03,1.68,-0.1299,0.987,1.65-1.85
 SAS @ UTA,SAS win + Josh Okogie 5+ pr + Ace Bailey 10+ pts,3,0.6303,0.5227,1.91,2.01,1.66,-0.1339,0.983,1.65-1.85
 SAS @ UTA,Josh Okogie 5+ pr + Ace Bailey 1+ 3pm + Victor Wembanyama 1+ 3pm,3,0.7027,0.5115,1.96,2.05,1.69,-0.1365,1.005,1.65-1.85
-DAL @ BOS,Morez Johnson Jr. reb under 4.5 + BOS win,2,0.5891,0.4254,2.35,2.47,2.29,-0.0248,0.997,2.10-2.50
-DAL @ BOS,Morez Johnson Jr. pr under 11.5 + BOS win,2,0.548,0.4462,2.24,2.35,2.16,-0.0351,1.013,2.10-2.50
-DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Jayson Tatum 4+ reb,2,0.6905,0.4452,2.25,2.36,2.13,-0.0516,1.0,2.10-2.50
-DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 5+ pa,2,0.696,0.4517,2.21,2.32,2.1,-0.0533,0.999,1.85-2.10
-DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 10+ pra,2,0.6971,0.4567,2.19,2.3,2.07,-0.0534,1.001,1.85-2.10
-DAL @ BOS,BOS win + Zaccharie Risacher 3pm under 1.5,2,0.6285,0.5558,1.8,1.89,1.7,-0.0549,1.009,1.65-1.85
-DAL @ BOS,BOS win + Derrick White 1+ blk,2,0.5,0.4642,2.15,2.26,2.01,-0.0691,1.003,1.85-2.10
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7278,0.5747,1.74,1.83,1.58,-0.092,1.0,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 4+ reb,2,0.7181,0.5772,1.73,1.82,1.57,-0.0934,1.001,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7336,0.5831,1.71,1.8,1.55,-0.0934,0.999,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Cooper Flagg 4+ reb,2,0.6866,0.5434,1.84,1.93,1.67,-0.0937,0.998,1.65-1.85
-DAL @ BOS,Jayson Tatum 7+ reb + Neemias Queta 4+ reb,2,0.6013,0.4984,2.01,2.11,1.81,-0.0962,1.002,1.65-1.85
+DAL @ BOS,Morez Johnson Jr. reb under 4.5 + BOS win,2,0.5649,0.4207,2.38,2.5,2.29,-0.0356,1.001,2.10-2.50
+DAL @ BOS,game over 219.5 + Cooper Flagg 25+ pra,2,0.5682,0.4359,2.29,2.41,2.17,-0.0542,1.043,2.10-2.50
+DAL @ BOS,game over 219.5 + Cooper Flagg 4+ ast,2,0.5195,0.4011,2.49,2.62,2.34,-0.0606,1.037,2.10-2.50
+DAL @ BOS,BOS win + Jayson Tatum 7+ reb,2,0.5403,0.4751,2.1,2.21,1.96,-0.0673,1.0,1.85-2.10
+DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Cooper Flagg 20+ pra,2,0.6565,0.4564,2.19,2.3,2.04,-0.0685,0.999,1.85-2.10
+DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 10+ pra,2,0.6413,0.449,2.23,2.34,2.07,-0.0691,0.999,1.85-2.10
+DAL @ BOS,BOS win + P.J. Washington 10+ pts,2,0.6411,0.5539,1.81,1.9,1.66,-0.0821,0.982,1.65-1.85
+DAL @ BOS,Jayson Tatum 7+ reb + Neemias Queta 5+ pa,2,0.6155,0.5042,1.98,2.08,1.79,-0.0951,1.001,1.65-1.85
+DAL @ BOS,Jayson Tatum 7+ reb + Neemias Queta 10+ pra,2,0.6154,0.5088,1.97,2.06,1.78,-0.0968,1.001,1.65-1.85
+DAL @ BOS,BOS win + P.J. Washington 4+ reb + Cooper Flagg 4+ ast,3,0.5856,0.5452,1.83,1.93,1.56,-0.1485,0.988,1.50-1.65
 NYK @ TOR,NYK win + Ja'Kobe Walter 3pm under 2.5,2,0.4889,0.3856,2.59,2.72,2.5,-0.0373,1.027,2.10-2.50
-NYK @ TOR,TOR +4.5 + Ja'Kobe Walter 5+ pa,2,0.4421,0.4565,2.19,2.3,2.06,-0.061,1.008,1.85-2.10
-NYK @ TOR,TOR +4.5 + RJ Barrett 4+ reb,2,0.381,0.3924,2.55,2.68,2.38,-0.0675,1.001,2.10-2.50
+NYK @ TOR,TOR +4.5 + Ja'Kobe Walter 5+ pa,2,0.4421,0.4571,2.19,2.3,2.05,-0.0612,1.008,1.85-2.10
+NYK @ TOR,TOR +4.5 + RJ Barrett 4+ reb,2,0.381,0.3938,2.54,2.67,2.37,-0.068,1.001,2.10-2.50
+NYK @ TOR,TOR +4.5 + Karl-Anthony Towns 6+ reb,2,0.4395,0.4539,2.2,2.31,2.05,-0.0696,0.999,1.85-2.10
 NYK @ TOR,TOR +4.5 + Josh Hart 10+ pra,2,0.4355,0.4494,2.22,2.34,2.06,-0.073,0.995,1.85-2.10
-NYK @ TOR,game over 217.5 + RJ Barrett 4+ reb,2,0.4953,0.4049,2.47,2.59,2.29,-0.0733,1.022,2.10-2.50
-NYK @ TOR,NYK -4.5 + Jalen Brunson 1+ 3pm,2,0.4989,0.4468,2.24,2.35,2.05,-0.0821,1.007,1.85-2.10
+NYK @ TOR,Miles McBride 3pm under 1.5 + Ja'Kobe Walter 5+ pa,2,0.6018,0.4336,2.31,2.42,2.14,-0.0737,1.001,2.10-2.50
 NYK @ TOR,NYK win + Jalen Brunson 1+ 3pm,2,0.6054,0.559,1.79,1.88,1.64,-0.0842,1.004,1.50-1.65
 NYK @ TOR,NYK win + Josh Hart 10+ pra,2,0.632,0.5806,1.72,1.81,1.58,-0.0844,1.003,1.50-1.65
+NYK @ TOR,NYK win + Karl-Anthony Towns 6+ reb,2,0.633,0.582,1.72,1.8,1.57,-0.0879,1.0,1.50-1.65
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Josh Hart 10+ pra,2,0.6895,0.5404,1.85,1.94,1.68,-0.0899,1.0,1.65-1.85
-NYK @ TOR,NYK win + RJ Barrett 4+ reb,2,0.5459,0.5005,2.0,2.1,1.82,-0.0905,0.996,1.65-1.85
-NYK @ TOR,NYK win + Ja'Kobe Walter 5+ pa,2,0.6277,0.577,1.73,1.82,1.57,-0.0925,0.994,1.50-1.65
-NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jalen Brunson 1+ 3pm,2,0.6566,0.5173,1.93,2.03,1.75,-0.095,0.995,1.65-1.85
+NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Karl-Anthony Towns 6+ reb,2,0.6929,0.5435,1.84,1.93,1.67,-0.0904,1.0,1.65-1.85
+NYK @ TOR,NYK win + RJ Barrett 4+ reb,2,0.5459,0.5023,1.99,2.09,1.81,-0.091,0.996,1.65-1.85
 HOU @ WAS,Kevin Durant 32+ pra + Tari Eason 15+ pra,2,0.6023,0.4007,2.5,2.62,2.39,-0.0416,1.004,2.10-2.50
 HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 10+ pts,2,0.6131,0.4162,2.4,2.52,2.3,-0.0423,1.006,2.10-2.50
 HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 15+ pr,2,0.6374,0.4305,2.32,2.44,2.22,-0.0429,1.005,2.10-2.50
