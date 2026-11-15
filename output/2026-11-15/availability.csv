@@ -1,14 +1,14 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909986,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
+401909986,PHX,1626164,Devin Booker,,,1.0,,,
 401909986,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909986,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
-401909986,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
+401909986,PHX,1628970,Miles Bridges,,,1.0,,,
+401909986,PHX,1628415,Dillon Brooks,,,1.0,,,
 401909986,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909986,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909986,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909986,PHX,1630692,Jordan Goodwin,,,1.0,,,
-401909986,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
-401909986,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
+401909986,PHX,1630224,Jalen Green,,,1.0,,,
+401909986,PHX,1642345,Oso Ighodaro,,,1.0,,,
 401909986,PHX,1628379,Luke Kennard,,,1.0,,,
 401909986,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909986,PHX,905041953,Koa Peat,,,1.0,,,
@@ -18,13 +18,13 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909986,PHX,1631109,Mark Williams,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",,
 401909986,LAL,905113969,Cameron Carr,Out,Injury/Illness-Illness,0.0,,,
 401909986,LAL,905105817,Carson Cooper,,,1.0,,,
-401909986,LAL,1629029,Luka Doncic,Starting,,1.0,,,1.0
-401909986,LAL,1629656,Quentin Grimes,Starting,Injury/Illness-RightFingerSplint,1.0,,,1.0
+401909986,LAL,1629029,Luka Doncic,,,1.0,,,
+401909986,LAL,1629656,Quentin Grimes,Available,Injury/Illness-RightFingerSplint,1.0,,,
 401909986,LAL,1630702,Jaden Hardy,,,1.0,,,
 401909986,LAL,904683774,Bronny James,Available,Injury/Illness-Illness,1.0,,,
 401909986,LAL,904433599,Arthur Kaluma,,,1.0,,,
-401909986,LAL,1631117,Walker Kessler,Starting,,1.0,,,1.0
-401909986,LAL,1631222,Jake LaRavia,Starting,,1.0,,,1.0
+401909986,LAL,1631117,Walker Kessler,,,1.0,,,
+401909986,LAL,1631222,Jake LaRavia,,,1.0,,,
 401909986,LAL,1626172,Kevon Looney,,,1.0,,,
 401909986,LAL,1630572,Sandro Mamukelashvili,,,1.0,,,
 401909986,LAL,1643024,Chris Manon,,,1.0,,,
@@ -32,19 +32,19 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909986,LAL,1630559,Austin Reaves,Out,,0.0,"Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",,
 401909986,LAL,1629012,Collin Sexton,Available,,1.0,,,
 401909986,LAL,1642876,Adou Thiero,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
-401909986,LAL,1629680,Matisse Thybulle,Starting,,1.0,,,1.0
+401909986,LAL,1629680,Matisse Thybulle,,,1.0,,,
 401909986,LAL,1629020,Jarred Vanderbilt,,,1.0,,,
 401909986,LAL,1630533,Ziaire Williams,,,1.0,,,
 401909987,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909987,LAC,1642353,Cam Christie,,,1.0,,,
 401909987,LAC,1641711,Gradey Dick,,,1.0,,,
-401909987,LAC,1627739,Kris Dunn,,,1.0,,,
-401909987,LAC,1629636,Darius Garland,,,1.0,,,
-401909987,LAC,1629060,Rui Hachimura,,,1.0,,,
+401909987,LAC,1627739,Kris Dunn,Starting,,1.0,,,1.0
+401909987,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
+401909987,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
 401909987,LAC,1627742,Brandon Ingram,Out,Injury/Illness-RightHeelSurgery,0.0,"Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",,
 401909987,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401909987,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
-401909987,LAC,201572,Brook Lopez,,,1.0,,,
+401909987,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401909987,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
 401909987,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401909987,LAC,1641757,Baba Miller,,,1.0,,,
 401909987,LAC,905108024,Yanic Konan Niederhauser,Out,Injury/Illness-RightLisfrancSurgery,0.0,"Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",,
@@ -57,19 +57,19 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909987,CHA,1628960,Grayson Allen,,,1.0,,,
 401909987,CHA,905060701,Christian Anderson,,,1.0,,,
 401909987,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
-401909987,CHA,1631217,Moussa Diabate,,,1.0,,,
+401909987,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
 401909987,CHA,1641790,PJ Hall,,,1.0,,,
-401909987,CHA,1642883,Sion James,,,1.0,,,
+401909987,CHA,1642883,Sion James,Starting,,1.0,,,1.0
 401909987,CHA,1641750,Ryan Kalkbrenner,,,1.0,,,
 401909987,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.,,
 401909987,CHA,1642862,Liam McNeeley,,,1.0,,,
-401909987,CHA,1641706,Brandon Miller,,,1.0,,,
+401909987,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
 401909987,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909987,CHA,1629675,Naz Reid,,,1.0,,,
+401909987,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
 401909987,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401909987,CHA,203471,Dennis Schroder,Out,Injury/Illness-LeftHamstringStrain,0.0,"Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",,
 401909987,CHA,905281370,Hannes Steinbach,Out,GLeague-OnAssignment,0.0,,,
-401909987,CHA,1629632,Coby White,,,1.0,,,
+401909987,CHA,1629632,Coby White,Starting,,1.0,,,1.0
 401909987,CHA,1629684,Grant Williams,,,1.0,,,
 401909988,UTA,1641725,Trey Alexander,Out,GLeague-Two-Way,0.0,Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.,,
 401909988,UTA,1642846,Ace Bailey,,,1.0,,,
