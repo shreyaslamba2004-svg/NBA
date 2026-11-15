@@ -12,17 +12,17 @@ DEN @ NOP,DEN win + Christian Braun 10+ pa + Zion Williamson 20+ pra,3,0.6132,0.
 DEN @ NOP,DEN win + Christian Braun 10+ pa + Saddiq Bey 15+ pr,3,0.6147,0.5655,1.77,1.86,1.55,-0.1243,1.005,1.50-1.65
 DEN @ NOP,DEN win + Zion Williamson 4+ reb + Cameron Johnson 10+ pra,3,0.6086,0.5718,1.75,1.84,1.53,-0.1272,1.005,1.50-1.65
 DAL @ CLE,Zaccharie Risacher 6+ pts + DAL win,2,0.4241,0.4102,2.44,2.56,2.43,-0.0049,1.042,2.10-2.50
-DAL @ CLE,Mario Hezonja 15+ pts + Zaccharie Risacher 5+ pr,2,0.4837,0.4126,2.42,2.55,2.34,-0.0334,1.002,2.10-2.50
-DAL @ CLE,Mario Hezonja 15+ pts + Jaylon Tyson 10+ pa,2,0.5127,0.446,2.24,2.35,2.16,-0.0365,1.002,2.10-2.50
-DAL @ CLE,Kyrie Irving pts under 22.5 + Jaylon Tyson 10+ pa,2,0.5682,0.4579,2.18,2.29,2.09,-0.0445,0.997,1.85-2.10
-DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.5551,0.5983,1.67,1.76,1.57,-0.059,1.023,1.50-1.65
-DAL @ CLE,DAL win + P.J. Washington 15+ pr,2,0.534,0.5847,1.71,1.8,1.6,-0.0631,1.021,1.50-1.65
-DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr,2,0.6014,0.6171,1.62,1.7,1.51,-0.0669,1.006,1.50-1.65
-DAL @ CLE,game over 227.5 + Jaylon Tyson 10+ pa,2,0.5365,0.4522,2.21,2.32,2.06,-0.0696,1.006,1.85-2.10
-DAL @ CLE,Cooper Flagg pts under 25.5 + Jaylon Tyson 10+ pa,2,0.6183,0.4721,2.12,2.22,1.97,-0.0699,0.997,1.85-2.10
-DAL @ CLE,Kyrie Irving 3pm under 3.5 + Jaylon Tyson 10+ pa,2,0.7175,0.5367,1.86,1.96,1.71,-0.0832,0.999,1.65-1.85
-DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr + P.J. Washington 10+ pa,3,0.5158,0.5016,1.99,2.09,1.8,-0.0983,1.032,1.65-1.85
-DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr + P.J. Washington 15+ pr,3,0.4955,0.4896,2.04,2.14,1.83,-0.1035,1.028,1.65-1.85
+DAL @ CLE,Jaylon Tyson 16+ pts + Zaccharie Risacher 5+ pr,2,0.62,0.4432,2.26,2.37,2.19,-0.0299,1.0,2.10-2.50
+DAL @ CLE,Mario Hezonja 15+ pts + Zaccharie Risacher 5+ pr,2,0.4837,0.4099,2.44,2.56,2.36,-0.0324,1.002,2.10-2.50
+DAL @ CLE,Kyrie Irving pts under 22.5 + Jaylon Tyson 10+ pa,2,0.5682,0.4602,2.17,2.28,2.07,-0.0453,0.997,1.85-2.10
+DAL @ CLE,DAL win + P.J. Washington 10+ pa,2,0.5551,0.6008,1.66,1.75,1.57,-0.0597,1.023,1.50-1.65
+DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr,2,0.6014,0.6131,1.63,1.71,1.52,-0.0659,1.006,1.50-1.65
+DAL @ CLE,Kyrie Irving 23+ pts + Jaylon Tyson 10+ pa,2,0.4084,0.4436,2.25,2.37,2.1,-0.0706,1.005,1.85-2.10
+DAL @ CLE,Kyrie Irving 3pm under 3.5 + Jaylon Tyson 15+ pa,2,0.6404,0.4514,2.22,2.33,2.05,-0.0757,0.997,1.85-2.10
+DAL @ CLE,DAL win + Jaylon Tyson 15+ pa,2,0.5538,0.5462,1.83,1.92,1.67,-0.0872,0.977,1.65-1.85
+DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr + P.J. Washington 10+ pa,3,0.5158,0.5005,2.0,2.1,1.8,-0.098,1.032,1.65-1.85
+DAL @ CLE,DAL win + Mario Hezonja 10+ pts,2,0.5145,0.5605,1.78,1.87,1.6,-0.1023,0.978,1.50-1.65
+DAL @ CLE,DAL win + Zaccharie Risacher 5+ pr + Mario Hezonja 10+ pts,3,0.4783,0.4671,2.14,2.25,1.84,-0.1384,0.986,1.65-1.85
 DET @ MIA,game over 228.5 + Duncan Robinson 15+ pra,2,0.4589,0.4044,2.47,2.6,2.35,-0.0493,1.045,2.10-2.50
 DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5679,0.4791,2.09,2.19,1.98,-0.0496,1.023,1.85-2.10
 DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5753,0.4913,2.04,2.14,1.93,-0.0526,1.022,1.85-2.10
