@@ -6,14 +6,14 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909981,CLE,1626209,Mario Hezonja,,,1.0,,,
 401909981,CLE,1630241,Sam Merrill,Out,,0.0,Merrill (elbow) is listed as out for Wednesday's game against the Knicks.,,
 401909981,CLE,1642434,Riley Minix,,,1.0,,,
-401909981,CLE,1628378,Donovan Mitchell,Starting,,1.0,Mitchell (knee) has been ruled out for Saturday's game against the Mavericks.,,1.0
-401909981,CLE,1630596,Evan Mobley,Starting,Injury/Illness-LeftGreatToeSprain,1.0,Mobley (toe) has been ruled out for Saturday's meeting with Dallas.,,1.0
+401909981,CLE,1628378,Donovan Mitchell,Out,,0.0,Mitchell (knee) has been ruled out for Saturday's game against the Mavericks.,,
+401909981,CLE,1630596,Evan Mobley,Out,Injury/Illness-LeftGreatToeSprain,0.0,Mobley (toe) has been ruled out for Saturday's meeting with Dallas.,,
 401909981,CLE,1641807,Norchad Omier,,,1.0,,,
 401909981,CLE,1641854,Craig Porter Jr.,,,1.0,,,
-401909981,CLE,1642878,Tyrese Proctor,Starting,,1.0,,,1.0
-401909981,CLE,905041951,Meleek Thomas,Starting,,1.0,,,1.0
+401909981,CLE,1642878,Tyrese Proctor,,,1.0,,,
+401909981,CLE,905041951,Meleek Thomas,,,1.0,,,
 401909981,CLE,1641772,Nae'Qwan Tomlin,Out,,0.0,"Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",,
-401909981,CLE,1642281,Jaylon Tyson,Starting,,1.0,,,1.0
+401909981,CLE,1642281,Jaylon Tyson,,,1.0,,,
 401909981,CLE,905106261,Ernest Udeh Jr.,,,1.0,,,
 401909981,CLE,1631212,Peyton Watson,Out,,0.0,Watson (hamstring) has been ruled out for Saturday's game against the Mavericks.,,
 401909981,DAL,1630583,Santi Aldama,,,1.0,,,
@@ -22,18 +22,18 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909981,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909981,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909981,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) has been ruled out for Thursday's game at Minnesota.,0.0,De Larrea (knee) has been ruled out for Thursday's game at Minnesota.,,
-401909981,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
-401909981,DAL,1629655,Daniel Gafford,Starting,,1.0,,,1.0
+401909981,DAL,1642843,Cooper Flagg,,,1.0,,,
+401909981,DAL,1629655,Daniel Gafford,,,1.0,,,
 401909981,DAL,1641724,Jett Howard,,,1.0,,,
-401909981,DAL,202681,Kyrie Irving,Starting,,1.0,,,1.0
+401909981,DAL,202681,Kyrie Irving,,,1.0,,,
 401909981,DAL,1642358,Morez Johnson Jr.,Available,,1.0,,,
 401909981,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909981,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is listed as out for Thursday's game in Minnesota.,,
 401909981,DAL,1630230,Naji Marshall,,,1.0,,,
-401909981,DAL,1628997,Caleb Martin,Starting,Injury/Illness-RightThumbSplint,1.0,,,1.0
+401909981,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
 401909981,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909981,DAL,1631204,Marcus Sasser,,,1.0,,,
-401909981,DAL,1629023,P.J. Washington,Starting,,1.0,,,1.0
+401909981,DAL,1629023,P.J. Washington,,,1.0,,,
 401909982,MIA,1628389,Bam Adebayo,,,1.0,,,
 401909982,MIA,203507,Giannis Antetokounmpo,Available,Injury/Illness-RightWristSprain,1.0,,,
 401909982,MIA,905107157,Ryan Conwell,,,1.0,,,
@@ -104,35 +104,35 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909983,BKN,1642849,Nolan Traore,Available,,1.0,,,
 401909983,BKN,1629021,Moritz Wagner,,,1.0,,,
 401909983,BKN,1642874,Danny Wolf,,,1.0,,,
-401909984,MIN,1630163,LaMelo Ball,,,1.0,,,
+401909984,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
 401909984,MIN,1642866,Joan Beringer,Available,Injury/Illness-FaceMask,1.0,,,
 401909984,MIN,1641780,Johni Broome,,,1.0,,,
 401909984,MIN,1641740,Jaylen Clark,,,1.0,,,
 401909984,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",,
-401909984,MIN,1630245,Ayo Dosunmu,,,1.0,,,
+401909984,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
 401909984,MIN,1630162,Anthony Edwards,Out,,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909984,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909984,MIN,203497,Rudy Gobert,,,1.0,,,
+401909984,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
 401909984,MIN,1630538,Bones Hyland,,,1.0,,,
-401909984,MIN,1630228,Jonathan Kuminga,,,1.0,,,
+401909984,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
 401909984,MIN,1626168,Trey Lyles,,,1.0,,,
-401909984,MIN,1630183,Jaden McDaniels,,,1.0,,,
+401909984,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
 401909984,MIN,1642389,Zyon Pullin,,,1.0,,,
 401909984,MIN,1630545,Terrence Shannon Jr.,,,1.0,,,
 401909984,MIN,904895758,Cody Williams,,,1.0,,,
 401909984,MIN,1642911,Rocco Zikarsky,,,1.0,,,
 401909984,CHI,905105555,Tobe Awaka,Out,Injury/Illness-DiscIrritation,0.0,Awaka has been ruled out for Saturday's game against the Timberwolves.,,
-401909984,CHI,1641824,Matas Buzelis,,,1.0,,,
+401909984,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
 401909984,CHI,1629651,Nic Claxton,Out,,0.0,"Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports.",,
-401909984,CHI,1628380,Zach Collins,,,1.0,,,
+401909984,CHI,1628380,Zach Collins,Starting,,1.0,,,1.0
 401909984,CHI,1642855,Noa Essengue,,,1.0,,,
-401909984,CHI,1630581,Josh Giddey,,,1.0,,,
+401909984,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
 401909984,CHI,1641722,Jordan Hawkins,,,1.0,,,
 401909984,CHI,1627741,Buddy Hield,,,1.0,,,
 401909984,CHI,1630200,Tre Jones,,,1.0,,,
 401909984,CHI,1631159,Leonard Miller,,,1.0,,,
-401909984,CHI,1630171,Isaac Okoro,,,1.0,,,
-401909984,CHI,1626181,Norman Powell,Available,-,1.0,,,
+401909984,CHI,1630171,Isaac Okoro,Starting,,1.0,,,1.0
+401909984,CHI,1626181,Norman Powell,Starting,-,1.0,,,1.0
 401909984,CHI,1631115,Orlando Robinson,,,1.0,,,
 401909984,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
 401909984,CHI,1630188,Jalen Smith,Out,Injury/Illness-LeftFingerSprain,0.0,"Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports.",,
