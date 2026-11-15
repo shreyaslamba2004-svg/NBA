@@ -227,7 +227,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909991,WAS,1641774,Tristan Vukcevic,Out,Injury/Illness-LeftHipImpingement,0.0,Vukcevic (hip) has been ruled out for Monday's game against Detroit.,,
 401909991,WAS,1642364,Jamir Watkins,Out,,0.0,The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.,,
 401909991,WAS,1629027,Trae Young,,,1.0,,,
-401909991,HOU,203500,Steven Adams,Probable,Injury/Illness-RightSoleusStrain,0.93,Adams (calf) has been upgraded to probable for Sunday's game against the Wizards.,,
+401909991,HOU,203500,Steven Adams,Available,Injury/Illness-RightSoleusStrain,1.0,Adams (calf) has been upgraded to probable for Sunday's game against the Wizards.,,
 401909991,HOU,203992,Bogdan Bogdanovic,,,1.0,,,
 401909991,HOU,203991,Clint Capela,Out,Injury/Illness-RightAnkleSprain,0.0,Capela (ankle) has been ruled out for Sunday's game at Washington.,,
 401909991,HOU,904683860,Quadir Copeland,Out,GLeague-Two-Way,0.0,,,

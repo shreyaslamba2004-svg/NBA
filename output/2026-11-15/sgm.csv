@@ -1,31 +1,31 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-IND @ PHI,LeBron James 17+ pts + PHI win,2,0.4474,0.407,2.46,2.58,2.47,0.0071,1.053,2.10-2.50
-IND @ PHI,Tyrese Maxey 9+ ra + PHI win,2,0.4672,0.399,2.51,2.63,2.44,-0.0272,1.022,2.10-2.50
-IND @ PHI,Anfernee Simons pts under 10.5 + Jaylen Brown 1+ 3pm,2,0.5091,0.4102,2.44,2.56,2.37,-0.0288,1.001,2.10-2.50
-IND @ PHI,Anfernee Simons pts under 10.5 + VJ Edgecombe 10+ pr,2,0.5663,0.4649,2.15,2.26,2.07,-0.0354,0.998,1.85-2.10
-IND @ PHI,Jaylen Brown 24+ pts + LeBron James 15+ pr,2,0.5416,0.4543,2.2,2.31,2.08,-0.0548,1.003,1.85-2.10
-IND @ PHI,PHI win + Tyrese Maxey 4+ ast,2,0.5672,0.5577,1.79,1.88,1.68,-0.0615,1.015,1.65-1.85
-IND @ PHI,Kentavious Caldwell-Pope pts under 5.5 + VJ Edgecombe 10+ pr,2,0.5262,0.4558,2.19,2.3,2.04,-0.0681,0.998,1.85-2.10
-IND @ PHI,PHI win + VJ Edgecombe 15+ pr,2,0.5489,0.5633,1.78,1.86,1.65,-0.0689,1.014,1.65-1.85
-IND @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.5749,0.583,1.72,1.8,1.59,-0.0732,1.007,1.50-1.65
-IND @ PHI,VJ Edgecombe 3+ ast + LeBron James 10+ pts,2,0.7049,0.5334,1.87,1.97,1.72,-0.081,1.003,1.65-1.85
-IND @ PHI,PHI win + Jaylen Brown 4+ reb,2,0.5863,0.6061,1.65,1.73,1.51,-0.0823,1.001,1.50-1.65
-IND @ PHI,Tyrese Maxey 4+ ast + VJ Edgecombe 15+ pr,2,0.7053,0.59,1.69,1.78,1.53,-0.099,1.002,1.50-1.65
-LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4765,2.1,2.2,1.98,-0.0569,1.017,1.85-2.10
-LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.505,1.98,2.08,1.86,-0.0581,1.012,1.85-2.10
-LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.407,2.46,2.58,2.3,-0.0652,1.001,2.10-2.50
+IND @ PHI,LeBron James 17+ pts + PHI win,2,0.4474,0.4062,2.46,2.59,2.47,0.005,1.053,2.10-2.50
+IND @ PHI,PHI win + Tyrese Maxey 26+ pts,2,0.3881,0.4011,2.49,2.62,2.47,-0.0076,1.06,2.10-2.50
+IND @ PHI,Jaylen Brown 24+ pts + Tyrese Maxey 4+ ast,2,0.489,0.3928,2.55,2.67,2.47,-0.0301,1.01,2.10-2.50
+IND @ PHI,Jaylen Brown 24+ pts + LeBron James 15+ pr,2,0.5416,0.46,2.17,2.28,2.07,-0.0457,1.003,1.85-2.10
+IND @ PHI,Anfernee Simons pts under 10.5 + LeBron James 15+ pr,2,0.5546,0.4539,2.2,2.31,2.07,-0.0585,0.999,1.85-2.10
+IND @ PHI,Anfernee Simons pts under 10.5 + VJ Edgecombe 10+ pr,2,0.5663,0.4657,2.15,2.25,2.02,-0.0606,0.998,1.85-2.10
+IND @ PHI,PHI win + Tyrese Maxey 4+ ast,2,0.5672,0.5499,1.82,1.91,1.71,-0.0615,1.015,1.65-1.85
+IND @ PHI,PHI win + VJ Edgecombe 15+ pr,2,0.5489,0.5639,1.77,1.86,1.65,-0.0713,1.014,1.50-1.65
+IND @ PHI,PHI win + VJ Edgecombe 1+ 3pm,2,0.5719,0.5912,1.69,1.78,1.56,-0.0755,1.01,1.50-1.65
+IND @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.5749,0.5851,1.71,1.79,1.58,-0.076,1.007,1.50-1.65
+IND @ PHI,VJ Edgecombe 3+ ast + LeBron James 10+ pts,2,0.7049,0.5317,1.88,1.97,1.73,-0.0787,1.003,1.65-1.85
+IND @ PHI,VJ Edgecombe 3+ ast + LeBron James 15+ pr,2,0.7173,0.5451,1.83,1.93,1.69,-0.0801,1.002,1.65-1.85
+LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4737,2.11,2.22,1.99,-0.0559,1.017,1.85-2.10
+LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.506,1.98,2.08,1.86,-0.0584,1.012,1.85-2.10
 LAL @ PHX,LAL win + Walker Kessler 15+ pr,2,0.5195,0.5241,1.91,2.0,1.78,-0.0657,1.007,1.65-1.85
-LAL @ PHX,LAL win + Walker Kessler 15+ pra,2,0.5312,0.536,1.87,1.96,1.74,-0.0683,1.004,1.65-1.85
-LAL @ PHX,Quentin Grimes pts under 12.5 + Devin Booker 1+ 3pm,2,0.6379,0.4453,2.25,2.36,2.09,-0.0691,1.0,1.85-2.10
-LAL @ PHX,game over 226.5 + Walker Kessler 8+ reb,2,0.4165,0.4141,2.41,2.54,2.25,-0.0694,1.028,2.10-2.50
-LAL @ PHX,Quentin Grimes pa under 15.5 + Luka Doncic 1+ stl,2,0.5976,0.4191,2.39,2.51,2.21,-0.0719,0.999,2.10-2.50
-LAL @ PHX,Quentin Grimes pa under 15.5 + Walker Kessler 15+ pra,2,0.6916,0.5002,2.0,2.1,1.84,-0.0782,0.997,1.65-1.85
-CHA @ LAC,CHA win + Naz Reid 10+ pa,2,0.4027,0.4576,2.19,2.29,2.09,-0.0455,1.025,1.85-2.10
-CHA @ LAC,CHA win + Naz Reid 1+ 3pm,2,0.3765,0.4268,2.34,2.46,2.22,-0.0518,1.018,2.10-2.50
-CHA @ LAC,CHA -1.5 + Naz Reid 10+ pa,2,0.3737,0.4411,2.27,2.38,2.11,-0.0708,1.026,2.10-2.50
-CHA @ LAC,game over 214.5 + Naz Reid 10+ pa,2,0.5842,0.4514,2.22,2.33,2.06,-0.0719,1.014,1.85-2.10
-CHA @ LAC,LAC win + Max Strus 5+ pa,2,0.5312,0.4425,2.26,2.37,2.1,-0.0725,1.011,1.85-2.10
-CHA @ LAC,game over 214.5 + Naz Reid 1+ 3pm,2,0.5493,0.4233,2.36,2.48,2.19,-0.0728,1.013,2.10-2.50
+LAL @ PHX,LAL win + Walker Kessler 8+ reb,2,0.4809,0.4748,2.11,2.21,1.96,-0.0692,0.999,1.85-2.10
+LAL @ PHX,game over 226.5 + Walker Kessler 8+ reb,2,0.4165,0.4142,2.41,2.54,2.25,-0.0694,1.028,2.10-2.50
+LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.4166,2.4,2.52,2.23,-0.0695,1.001,2.10-2.50
+LAL @ PHX,game over 226.5 + Luka Doncic 3+ 3pm,2,0.4006,0.4059,2.46,2.59,2.28,-0.0727,1.028,2.10-2.50
+LAL @ PHX,LAL win + Collin Gillespie 5+ pr,2,0.5192,0.5239,1.91,2.0,1.76,-0.0778,0.994,1.65-1.85
+LAL @ PHX,Collin Gillespie 3pm under 2.5 + Matisse Thybulle 5+ pr,2,0.6948,0.5166,1.94,2.03,1.78,-0.0811,1.0,1.65-1.85
+CHA @ LAC,CHA win + Naz Reid 10+ pa,2,0.4027,0.457,2.19,2.3,2.09,-0.0453,1.025,1.85-2.10
+CHA @ LAC,CHA win + Naz Reid 1+ 3pm,2,0.3765,0.4263,2.35,2.46,2.22,-0.0516,1.018,2.10-2.50
+CHA @ LAC,CHA win + Ryan Kalkbrenner 5+ pr,2,0.382,0.4176,2.39,2.51,2.26,-0.0547,1.009,2.10-2.50
+CHA @ LAC,game over 214.5 + Ryan Kalkbrenner 5+ pr,2,0.5625,0.4181,2.39,2.51,2.23,-0.067,1.013,2.10-2.50
+CHA @ LAC,Ryan Kalkbrenner 10+ pr + Max Strus 5+ pr,2,0.507,0.4429,2.26,2.37,2.1,-0.0699,1.003,1.85-2.10
+CHA @ LAC,game over 214.5 + Naz Reid 10+ pa,2,0.5842,0.4507,2.22,2.33,2.06,-0.0717,1.014,1.85-2.10
 SAS @ UTA,game over 225.5 + SAS win,2,0.5118,0.4581,2.18,2.29,2.14,-0.0206,0.998,2.10-2.50
 SAS @ UTA,game over 225.5 + Devin Vassell 10+ pa,2,0.4853,0.4025,2.48,2.61,2.43,-0.0226,1.036,2.10-2.50
 SAS @ UTA,SAS win + Darryn Peterson pa under 22.5,2,0.5397,0.4587,2.18,2.29,2.12,-0.0284,1.027,2.10-2.50
@@ -62,18 +62,18 @@ NYK @ TOR,NYK win + Josh Hart 10+ pra,2,0.632,0.5801,1.72,1.81,1.58,-0.0843,1.00
 NYK @ TOR,NYK win + Josh Hart 5+ pa,2,0.6409,0.585,1.71,1.79,1.56,-0.0851,1.001,1.50-1.65
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Josh Hart 10+ pra,2,0.6895,0.5411,1.85,1.94,1.68,-0.0902,1.0,1.65-1.85
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Josh Hart 5+ pa,2,0.6998,0.5461,1.83,1.92,1.67,-0.0903,0.999,1.65-1.85
-HOU @ WAS,Kevin Durant 10+ ra + Tari Eason 15+ pra,2,0.6095,0.3885,2.57,2.7,2.46,-0.0455,1.006,2.10-2.50
-HOU @ WAS,game over 224.5 + Tari Eason 15+ pra,2,0.5419,0.3976,2.52,2.64,2.4,-0.0465,1.032,2.10-2.50
 HOU @ WAS,WAS +8.5 + Kyshawn George 10+ pts,2,0.4033,0.4081,2.45,2.57,2.34,-0.0466,1.032,2.10-2.50
-HOU @ WAS,Kevin Durant 4+ ast + Tari Eason 15+ pra,2,0.66,0.4591,2.18,2.29,2.04,-0.0627,1.001,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pr,2,0.6975,0.4925,2.03,2.13,1.9,-0.0643,1.002,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Kyshawn George 10+ pts,2,0.6463,0.4579,2.18,2.29,2.04,-0.0646,1.002,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Kyshawn George 10+ pr,2,0.7375,0.5301,1.89,1.98,1.76,-0.0675,1.002,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Anthony Davis 6+ reb,2,0.729,0.5218,1.92,2.01,1.79,-0.068,1.0,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.726,0.518,1.93,2.03,1.8,-0.0683,0.999,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ reb + Tari Eason 15+ pra,2,0.7338,0.5923,1.69,1.77,1.53,-0.0929,1.003,1.50-1.65
-HOU @ WAS,Tari Eason 15+ pra + Kyshawn George 10+ pts,2,0.7214,0.5976,1.67,1.76,1.51,-0.098,1.002,1.50-1.65
-HOU @ WAS,Kevin Durant 4+ reb + AJ Dybantsa 4+ reb,2,0.7103,0.586,1.71,1.79,1.54,-0.0986,1.0,1.50-1.65
+HOU @ WAS,game over 224.5 + Tari Eason 15+ pra,2,0.5407,0.397,2.52,2.64,2.4,-0.0479,1.031,2.10-2.50
+HOU @ WAS,Kevin Durant 10+ ra + Tari Eason 15+ pra,2,0.6066,0.3875,2.58,2.71,2.46,-0.0481,1.004,2.10-2.50
+HOU @ WAS,Kevin Durant 4+ ast + Tari Eason 15+ pra,2,0.6586,0.4594,2.18,2.29,2.04,-0.062,1.002,1.85-2.10
+HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pr,2,0.6979,0.493,2.03,2.13,1.9,-0.0634,1.003,1.85-2.10
+HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 15+ pra,2,0.6589,0.4509,2.22,2.33,2.07,-0.0646,1.003,1.85-2.10
+HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.7265,0.5189,1.93,2.02,1.8,-0.0668,1.001,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.715,0.5103,1.96,2.06,1.83,-0.067,1.001,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ ast + Anthony Davis 6+ reb,2,0.7279,0.5221,1.92,2.01,1.79,-0.0674,1.001,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ reb + Tari Eason 15+ pra,2,0.7312,0.5906,1.69,1.78,1.53,-0.0955,1.0,1.50-1.65
+HOU @ WAS,Tari Eason 15+ pra + Kyshawn George 10+ pts,2,0.7216,0.5982,1.67,1.76,1.51,-0.0971,1.003,1.50-1.65
+HOU @ WAS,Kevin Durant 4+ reb + AJ Dybantsa 4+ reb,2,0.7114,0.5868,1.7,1.79,1.54,-0.0974,1.002,1.50-1.65
 ATL @ MIL,ATL win + Brayden Burries pra under 20.5,2,0.4895,0.3916,2.55,2.68,2.46,-0.0368,1.022,2.10-2.50
 ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.383,0.4075,2.45,2.58,2.36,-0.0391,1.047,2.10-2.50
 ATL @ MIL,ATL win + Brayden Burries pr under 17.5,2,0.4983,0.4,2.5,2.62,2.4,-0.0406,1.019,2.10-2.50
