@@ -26,18 +26,18 @@ SAS @ UTA,Julian Champagnie 3pm under 2.5 + Ace Bailey 10+ pr,2,0.668,0.5078,1.9
 SAS @ UTA,Devin Vassell 10+ pa + Julian Champagnie 10+ pr,2,0.6678,0.5954,1.68,1.76,1.5,-0.1066,1.004,1.50-1.65
 SAS @ UTA,Ace Bailey 10+ pts + Devin Vassell 10+ pa,2,0.6671,0.5804,1.72,1.81,1.54,-0.1088,0.998,1.50-1.65
 SAS @ UTA,Ace Bailey 10+ pts + Julian Champagnie 10+ pr,2,0.6558,0.58,1.72,1.81,1.53,-0.1098,1.0,1.50-1.65
-DAL @ BOS,Paul George 19+ pts + BOS win,2,0.4071,0.4379,2.28,2.4,2.27,-0.0057,1.044,2.10-2.50
+DAL @ BOS,Paul George 19+ pts + BOS win,2,0.4071,0.4375,2.29,2.4,2.27,-0.0066,1.044,2.10-2.50
 DAL @ BOS,Morez Johnson Jr. reb under 4.5 + BOS win,2,0.5891,0.4254,2.35,2.47,2.29,-0.0248,0.997,2.10-2.50
 DAL @ BOS,Morez Johnson Jr. pr under 11.5 + BOS win,2,0.548,0.4384,2.28,2.4,2.21,-0.0316,1.013,2.10-2.50
 DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 10+ pra,2,0.6971,0.4544,2.2,2.31,2.08,-0.0526,1.001,1.85-2.10
-DAL @ BOS,BOS win + Zaccharie Risacher 3pm under 1.5,2,0.6285,0.5614,1.78,1.87,1.68,-0.0566,1.009,1.65-1.85
-DAL @ BOS,BOS win + Sam Hauser 10+ pr,2,0.4946,0.4557,2.19,2.3,2.07,-0.0583,1.011,1.85-2.10
-DAL @ BOS,Paul George 19+ pts + Neemias Queta 10+ pra,2,0.4625,0.4491,2.23,2.34,2.06,-0.0727,1.006,1.85-2.10
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Sam Hauser 5+ pr,2,0.7234,0.551,1.81,1.91,1.66,-0.0876,0.999,1.65-1.85
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7278,0.5818,1.72,1.8,1.56,-0.094,1.0,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 4+ reb,2,0.7181,0.5822,1.72,1.8,1.55,-0.0948,1.001,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 10+ pra,2,0.7345,0.5923,1.69,1.77,1.53,-0.0949,1.0,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Cooper Flagg 4+ reb,2,0.6866,0.5482,1.82,1.92,1.65,-0.0952,0.998,1.65-1.85
+DAL @ BOS,BOS win + Zaccharie Risacher 3pm under 1.5,2,0.6285,0.56,1.79,1.88,1.69,-0.0562,1.009,1.65-1.85
+DAL @ BOS,BOS win + Sam Hauser 10+ pr,2,0.4946,0.4577,2.18,2.29,2.05,-0.0607,1.011,1.85-2.10
+DAL @ BOS,Paul George 19+ pts + Jayson Tatum 4+ reb,2,0.4587,0.4427,2.26,2.37,2.1,-0.0722,1.006,1.85-2.10
+DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Sam Hauser 5+ pr,2,0.7234,0.5481,1.82,1.92,1.67,-0.0868,0.999,1.65-1.85
+DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7278,0.5823,1.72,1.8,1.56,-0.0942,1.0,1.50-1.65
+DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Cooper Flagg 4+ reb,2,0.6866,0.5453,1.83,1.93,1.66,-0.0944,0.998,1.65-1.85
+DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 4+ reb,2,0.7181,0.5808,1.72,1.81,1.56,-0.0945,1.001,1.50-1.65
+DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 10+ pra,2,0.7345,0.5908,1.69,1.78,1.53,-0.0945,1.0,1.50-1.65
 NYK @ TOR,NYK win + Ja'Kobe Walter 3pm under 2.5,2,0.4889,0.3917,2.55,2.68,2.45,-0.0402,1.027,2.10-2.50
 NYK @ TOR,TOR +4.5 + Ja'Kobe Walter 5+ pa,2,0.4421,0.4555,2.2,2.31,2.06,-0.0606,1.008,1.85-2.10
 NYK @ TOR,TOR +4.5 + RJ Barrett 4+ reb,2,0.381,0.3944,2.54,2.66,2.36,-0.0683,1.001,2.10-2.50
