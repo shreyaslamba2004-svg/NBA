@@ -1,22 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DEN @ NOP,Aaron Gordon 14+ pts + DEN win,2,0.3764,0.4224,2.37,2.49,2.38,0.0066,1.045,2.10-2.50
-DEN @ NOP,DEN win + Saddiq Bey pts under 18.5,2,0.4087,0.4376,2.29,2.4,2.28,-0.0012,1.051,2.10-2.50
-DEN @ NOP,DEN win + Jeremiah Fears pts under 18.5,2,0.4858,0.4419,2.26,2.38,2.24,-0.009,1.043,2.10-2.50
-DEN @ NOP,Karlo Matkovic 6+ pts + Zion Williamson 15+ pa,2,0.7603,0.4981,2.01,2.11,1.95,-0.0286,1.003,1.85-2.10
-DEN @ NOP,Karlo Matkovic 6+ pts + Cameron Johnson 10+ pr,2,0.7376,0.4825,2.07,2.18,2.01,-0.0294,1.002,1.85-2.10
-DEN @ NOP,Karlo Matkovic 6+ pts + Cameron Johnson 10+ pra,2,0.7807,0.5114,1.96,2.05,1.9,-0.03,1.002,1.85-2.10
-DEN @ NOP,Karlo Matkovic 4+ reb + Nikola Jokic 30+ pra,2,0.7222,0.5045,1.98,2.08,1.85,-0.0681,1.001,1.65-1.85
-DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pa,3,0.5809,0.5381,1.86,1.95,1.67,-0.1017,1.031,1.65-1.85
-DEN @ NOP,DEN win + Christian Braun 10+ pa + Jamal Murray 2+ 3pm,3,0.578,0.5332,1.88,1.97,1.67,-0.1078,1.024,1.65-1.85
-DEN @ NOP,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pr,3,0.6123,0.5659,1.77,1.86,1.58,-0.108,1.024,1.50-1.65
-DEN @ NOP,DEN win + Jamal Murray 2+ 3pm + Cameron Johnson 10+ pr,3,0.6001,0.5652,1.77,1.86,1.56,-0.1156,1.019,1.50-1.65
-DEN @ NOP,DEN win + Christian Braun 10+ pa + Nikola Jokic 8+ reb,3,0.6075,0.5653,1.77,1.86,1.56,-0.1189,1.012,1.50-1.65
-DAL @ CLE,Mario Hezonja pts under 14.5 + Zaccharie Risacher 5+ pr,2,0.787,0.4583,2.18,2.29,2.16,-0.0093,1.0,2.10-2.50
-DAL @ CLE,Mario Hezonja pa under 17.5 + Zaccharie Risacher 5+ pr,2,0.8142,0.4519,2.21,2.32,2.17,-0.0192,0.999,2.10-2.50
-DAL @ CLE,Mario Hezonja pts under 14.5 + P.J. Washington 10+ pa,2,0.7211,0.4415,2.27,2.38,2.22,-0.0197,0.998,2.10-2.50
-DAL @ CLE,Mario Hezonja pra under 25.5 + Zaccharie Risacher 5+ pr,2,0.816,0.465,2.15,2.26,2.1,-0.0256,1.0,1.85-2.10
-DAL @ CLE,Mario Hezonja pr under 22.5 + Zaccharie Risacher 5+ pr,2,0.7947,0.4655,2.15,2.26,2.08,-0.0317,1.001,1.85-2.10
-DAL @ CLE,Mario Hezonja ra under 10.5 + Zaccharie Risacher 5+ pr,2,0.743,0.4584,2.18,2.29,2.09,-0.0431,1.0,1.85-2.10
+DAL @ CLE,Meleek Thomas pts under 18.5 + Zaccharie Risacher 5+ pr,2,0.6276,0.4532,2.21,2.32,2.23,0.0093,0.996,2.10-2.50
+DAL @ CLE,Meleek Thomas pts under 18.5 + P.J. Washington 10+ pa,2,0.5792,0.4327,2.31,2.43,2.33,0.0087,1.001,2.10-2.50
+DAL @ CLE,Meleek Thomas pts under 18.5 + P.J. Washington 15+ pr,2,0.5571,0.4222,2.37,2.49,2.38,0.0041,0.999,2.10-2.50
+DAL @ CLE,Mario Hezonja pra under 25.5 + Zaccharie Risacher 5+ pr,2,0.816,0.4726,2.12,2.22,2.06,-0.0282,1.0,1.85-2.10
+DAL @ CLE,Mario Hezonja pa under 17.5 + Tyrese Proctor 1+ 3pm,2,0.8091,0.4816,2.08,2.18,2.01,-0.0297,1.001,1.85-2.10
+DAL @ CLE,Mario Hezonja pra under 25.5 + Tyrese Proctor 1+ 3pm,2,0.8099,0.4902,2.04,2.14,1.97,-0.0348,1.0,1.85-2.10
 DET @ MIA,game over 228.5 + Duncan Robinson 15+ pra,2,0.4589,0.403,2.48,2.61,2.36,-0.0487,1.045,2.10-2.50
 DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5679,0.4774,2.09,2.2,1.99,-0.0491,1.023,1.85-2.10
 DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5753,0.4889,2.05,2.15,1.94,-0.0518,1.022,1.85-2.10
