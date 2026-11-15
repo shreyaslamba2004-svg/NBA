@@ -21,11 +21,11 @@ LAL @ PHX,LAL win + Luka Doncic 2+ 3pm,2,0.5249,0.5263,1.9,2.0,1.76,-0.0747,1.00
 LAL @ PHX,LAL win + Walker Kessler 15+ pr,2,0.5195,0.5211,1.92,2.01,1.77,-0.076,1.007,1.65-1.85
 LAL @ PHX,Quentin Grimes pa under 15.5 + Walker Kessler 15+ pra,2,0.6916,0.5002,2.0,2.1,1.84,-0.0782,0.997,1.65-1.85
 CHA @ LAC,CHA win + Naz Reid 10+ pa,2,0.4027,0.4426,2.26,2.37,2.16,-0.0428,1.025,2.10-2.50
+CHA @ LAC,LAC win + Max Strus 5+ pa,2,0.5312,0.4552,2.2,2.31,2.09,-0.0474,1.011,1.85-2.10
 CHA @ LAC,CHA win + Naz Reid 1+ 3pm,2,0.3765,0.4129,2.42,2.54,2.3,-0.0491,1.018,2.10-2.50
 CHA @ LAC,LAC -1.5 + Max Strus 5+ pa,2,0.5064,0.4407,2.27,2.38,2.15,-0.0508,1.012,2.10-2.50
-CHA @ LAC,LAC win + Max Strus 5+ pa,2,0.5312,0.4552,2.2,2.31,2.08,-0.0533,1.011,1.85-2.10
+CHA @ LAC,LAC win + Max Strus 5+ pr,2,0.5418,0.4646,2.15,2.26,2.04,-0.0519,1.006,1.85-2.10
 CHA @ LAC,LAC -1.5 + Max Strus 5+ pr,2,0.516,0.4495,2.22,2.34,2.1,-0.0561,1.007,1.85-2.10
-CHA @ LAC,LAC win + Max Strus 5+ pr,2,0.5418,0.4646,2.15,2.26,2.03,-0.0577,1.006,1.85-2.10
 SAS @ UTA,SAS win + Darryn Peterson pa under 22.5,2,0.5397,0.459,2.18,2.29,2.1,-0.0361,1.027,2.10-2.50
 SAS @ UTA,SAS win + Darryn Peterson pts under 18.5,2,0.5442,0.4676,2.14,2.25,2.05,-0.0392,1.026,1.85-2.10
 SAS @ UTA,SAS win + Darryn Peterson pra under 27.5,2,0.5485,0.4811,2.08,2.18,1.99,-0.0425,1.026,1.85-2.10
@@ -75,17 +75,17 @@ HOU @ WAS,Kevin Durant 4+ ast + Tari Eason 4+ reb,2,0.7009,0.5054,1.98,2.08,1.83
 HOU @ WAS,HOU win + Kevin Durant 4+ reb,2,0.641,0.5664,1.77,1.85,1.62,-0.081,0.997,1.50-1.65
 HOU @ WAS,HOU win + AJ Dybantsa 4+ reb,2,0.6269,0.5727,1.75,1.83,1.6,-0.0849,0.998,1.50-1.65
 ATL @ MIL,Brayden Burries pts under 11.5 + ATL win,2,0.5156,0.3931,2.54,2.67,2.49,-0.0197,1.033,2.10-2.50
-ATL @ MIL,Brayden Burries pra under 20.5 + ATL win,2,0.5174,0.3973,2.52,2.64,2.46,-0.0243,1.03,2.10-2.50
-ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.3819,0.4137,2.42,2.54,2.31,-0.0464,1.044,2.10-2.50
+ATL @ MIL,Brayden Burries pra under 20.5 + ATL win,2,0.5174,0.4044,2.47,2.6,2.4,-0.0278,1.03,2.10-2.50
+ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.3819,0.4139,2.42,2.54,2.3,-0.0465,1.044,2.10-2.50
 ATL @ MIL,game over 233.5 + Jaime Jaquez Jr. 15+ pra,2,0.4145,0.4562,2.19,2.3,2.05,-0.0646,1.027,1.85-2.10
-ATL @ MIL,game over 233.5 + Onyeka Okongwu 15+ pra,2,0.4155,0.4577,2.18,2.29,2.04,-0.0659,1.025,1.85-2.10
-ATL @ MIL,game over 233.5 + Kyle Kuzma 10+ pr,2,0.4141,0.4542,2.2,2.31,2.05,-0.0698,1.02,1.85-2.10
-ATL @ MIL,ATL win + Aaron Wiggins 1+ 3pm,2,0.6409,0.6057,1.65,1.73,1.52,-0.0816,1.008,1.50-1.65
-ATL @ MIL,Brayden Burries ast under 3.5 + Aaron Wiggins 1+ 3pm,2,0.6311,0.4994,2.0,2.1,1.82,-0.0905,1.002,1.65-1.85
-ATL @ MIL,Brayden Burries ast under 3.5 + Kyle Kuzma 10+ pra,2,0.6841,0.5444,1.84,1.93,1.66,-0.0936,0.999,1.65-1.85
+ATL @ MIL,game over 233.5 + Onyeka Okongwu 15+ pra,2,0.4155,0.4568,2.19,2.3,2.05,-0.0656,1.025,1.85-2.10
+ATL @ MIL,game over 233.5 + Kyle Kuzma 10+ pr,2,0.4141,0.4556,2.19,2.3,2.04,-0.0703,1.02,1.85-2.10
+ATL @ MIL,Brayden Burries pra under 20.5 + Kyle Kuzma 10+ pra,2,0.6818,0.5032,1.99,2.09,1.83,-0.0801,0.999,1.65-1.85
+ATL @ MIL,ATL win + Aaron Wiggins 1+ 3pm,2,0.6409,0.6035,1.66,1.74,1.52,-0.0811,1.008,1.50-1.65
+ATL @ MIL,Brayden Burries ast under 3.5 + Aaron Wiggins 1+ 3pm,2,0.6311,0.4976,2.01,2.11,1.83,-0.0899,1.002,1.65-1.85
 ATL @ MIL,Brayden Burries ast under 3.5 + Dyson Daniels 4+ reb,2,0.6427,0.5117,1.95,2.05,1.77,-0.0937,0.999,1.65-1.85
-ATL @ MIL,ATL win + Myles Turner 1+ blk,2,0.5854,0.5642,1.77,1.86,1.61,-0.0941,0.997,1.50-1.65
-ATL @ MIL,ATL win + Kyle Kuzma 10+ pa,2,0.6106,0.5651,1.77,1.86,1.6,-0.0986,0.986,1.50-1.65
+ATL @ MIL,ATL win + Kyle Kuzma 10+ pa,2,0.6106,0.5693,1.76,1.84,1.58,-0.0998,0.986,1.50-1.65
+ATL @ MIL,ATL win + Kyle Kuzma 15+ pra,2,0.5844,0.5471,1.83,1.92,1.64,-0.1014,0.984,1.50-1.65
 OKC @ SAC,Darius Acuff Jr. pts under 23.5 + OKC win,2,0.4952,0.4052,2.47,2.59,2.39,-0.0304,1.042,2.10-2.50
 OKC @ SAC,Darius Acuff Jr. pr under 27.5 + OKC win,2,0.4947,0.4158,2.4,2.52,2.32,-0.0358,1.041,2.10-2.50
 OKC @ SAC,game over 221.5 + De'Andre Hunter 15+ pra,2,0.548,0.4003,2.5,2.62,2.37,-0.052,1.042,2.10-2.50
