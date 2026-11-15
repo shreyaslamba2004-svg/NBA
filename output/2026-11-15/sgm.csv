@@ -1,11 +1,12 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.6471,0.4192,2.39,2.5,2.34,-0.0209,0.997,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 12.5 + Devin Booker 1+ 3pm,2,0.6956,0.4636,2.16,2.26,2.11,-0.0222,1.001,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 12.5 + Dillon Brooks 1+ 3pm,2,0.687,0.4529,2.21,2.32,2.16,-0.023,0.998,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 12.5 + Dillon Brooks 10+ pr,2,0.7354,0.4946,2.02,2.12,1.97,-0.0262,0.998,1.85-2.10
-LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 2+ 3pm,2,0.7317,0.4921,2.03,2.13,1.98,-0.0265,0.998,1.85-2.10
-LAL @ PHX,Devin Booker pts under 24.5 + Walker Kessler 6+ reb,2,0.5215,0.4564,2.19,2.3,2.09,-0.0476,1.0,1.85-2.10
-LAL @ PHX,LAL win + Dillon Brooks 10+ pr,2,0.5095,0.5185,1.93,2.03,1.77,-0.0824,0.988,1.65-1.85
+LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.6006,0.4149,2.41,2.53,2.34,-0.0309,1.001,2.10-2.50
+LAL @ PHX,Quentin Grimes pts under 12.5 + Devin Booker 1+ 3pm,2,0.6426,0.4569,2.19,2.3,2.11,-0.0363,1.0,2.10-2.50
+LAL @ PHX,Quentin Grimes pts under 12.5 + Dillon Brooks 1+ 3pm,2,0.6287,0.4465,2.24,2.35,2.16,-0.0369,0.999,2.10-2.50
+LAL @ PHX,Quentin Grimes pts under 12.5 + Oso Ighodaro 5+ pa,2,0.6576,0.4696,2.13,2.24,2.05,-0.0377,1.0,1.85-2.10
+LAL @ PHX,Devin Booker pts under 24.5 + Walker Kessler 6+ reb,2,0.5272,0.4565,2.19,2.3,2.09,-0.0473,0.998,1.85-2.10
+LAL @ PHX,Sandro Mamukelashvili pts under 11.5 + Oso Ighodaro 5+ pa,2,0.5999,0.457,2.19,2.3,2.08,-0.0478,0.997,1.85-2.10
+LAL @ PHX,Collin Gillespie 3pm under 2.5 + Oso Ighodaro 5+ pa,2,0.6988,0.5107,1.96,2.06,1.8,-0.079,0.998,1.65-1.85
+LAL @ PHX,LAL win + Oso Ighodaro 5+ pa,2,0.4908,0.4972,2.01,2.11,1.84,-0.0843,0.986,1.65-1.85
 CHA @ LAC,CHA win + Ryan Kalkbrenner 5+ pr,2,0.3943,0.4181,2.39,2.51,2.26,-0.0536,1.01,2.10-2.50
 CHA @ LAC,CHA win + Sion James 5+ pr,2,0.4159,0.4404,2.27,2.38,2.15,-0.0538,1.01,2.10-2.50
 CHA @ LAC,CHA win + Grayson Allen 1+ 3pm,2,0.4128,0.4554,2.2,2.31,2.06,-0.062,1.008,1.85-2.10
