@@ -26,18 +26,18 @@ SAS @ UTA,Julian Champagnie 3pm under 2.5 + Ace Bailey 10+ pr,2,0.668,0.5078,1.9
 SAS @ UTA,Devin Vassell 10+ pa + Julian Champagnie 10+ pr,2,0.6678,0.5954,1.68,1.76,1.5,-0.1066,1.004,1.50-1.65
 SAS @ UTA,Ace Bailey 10+ pts + Devin Vassell 10+ pa,2,0.6671,0.5804,1.72,1.81,1.54,-0.1088,0.998,1.50-1.65
 SAS @ UTA,Ace Bailey 10+ pts + Julian Champagnie 10+ pr,2,0.6558,0.58,1.72,1.81,1.53,-0.1098,1.0,1.50-1.65
-DAL @ BOS,Paul George 19+ pts + BOS win,2,0.4071,0.4375,2.29,2.4,2.27,-0.0066,1.044,2.10-2.50
 DAL @ BOS,Morez Johnson Jr. reb under 4.5 + BOS win,2,0.5891,0.4254,2.35,2.47,2.29,-0.0248,0.997,2.10-2.50
 DAL @ BOS,Morez Johnson Jr. pr under 11.5 + BOS win,2,0.548,0.4384,2.28,2.4,2.21,-0.0316,1.013,2.10-2.50
-DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 10+ pra,2,0.6971,0.4544,2.2,2.31,2.08,-0.0526,1.001,1.85-2.10
+DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Sam Hauser 5+ pr,2,0.6876,0.4222,2.37,2.49,2.27,-0.0431,1.001,2.10-2.50
+DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 10+ pra,2,0.6971,0.4567,2.19,2.3,2.07,-0.0534,1.001,1.85-2.10
+DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 5+ pa,2,0.696,0.4538,2.2,2.31,2.08,-0.054,0.999,1.85-2.10
 DAL @ BOS,BOS win + Zaccharie Risacher 3pm under 1.5,2,0.6285,0.56,1.79,1.88,1.69,-0.0562,1.009,1.65-1.85
 DAL @ BOS,BOS win + Sam Hauser 10+ pr,2,0.4946,0.4577,2.18,2.29,2.05,-0.0607,1.011,1.85-2.10
-DAL @ BOS,Paul George 19+ pts + Jayson Tatum 4+ reb,2,0.4587,0.4427,2.26,2.37,2.1,-0.0722,1.006,1.85-2.10
 DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Sam Hauser 5+ pr,2,0.7234,0.5481,1.82,1.92,1.67,-0.0868,0.999,1.65-1.85
 DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7278,0.5823,1.72,1.8,1.56,-0.0942,1.0,1.50-1.65
 DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Cooper Flagg 4+ reb,2,0.6866,0.5453,1.83,1.93,1.66,-0.0944,0.998,1.65-1.85
 DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 4+ reb,2,0.7181,0.5808,1.72,1.81,1.56,-0.0945,1.001,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 10+ pra,2,0.7345,0.5908,1.69,1.78,1.53,-0.0945,1.0,1.50-1.65
+DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 10+ pra,2,0.7345,0.5937,1.68,1.77,1.52,-0.0953,1.0,1.50-1.65
 NYK @ TOR,NYK win + Ja'Kobe Walter 3pm under 2.5,2,0.4889,0.3917,2.55,2.68,2.45,-0.0402,1.027,2.10-2.50
 NYK @ TOR,TOR +4.5 + Ja'Kobe Walter 5+ pa,2,0.4421,0.4555,2.2,2.31,2.06,-0.0606,1.008,1.85-2.10
 NYK @ TOR,TOR +4.5 + RJ Barrett 4+ reb,2,0.381,0.3944,2.54,2.66,2.36,-0.0683,1.001,2.10-2.50
@@ -52,7 +52,7 @@ NYK @ TOR,Mikal Bridges 2+ ast + Josh Hart 10+ pra,2,0.599,0.5078,1.97,2.07,1.78
 NYK @ TOR,Mikal Bridges 2+ ast + Ja'Kobe Walter 5+ pa,2,0.5993,0.5064,1.97,2.07,1.78,-0.0966,1.002,1.65-1.85
 HOU @ WAS,Kevin Durant 32+ pra + Tari Eason 15+ pra,2,0.6023,0.4007,2.5,2.62,2.39,-0.0416,1.004,2.10-2.50
 HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 10+ pts,2,0.6131,0.4162,2.4,2.52,2.3,-0.0423,1.006,2.10-2.50
-HOU @ WAS,game over 224.5 + Alex Sarr 15+ pra,2,0.529,0.3913,2.56,2.68,2.45,-0.0427,1.04,2.10-2.50
+HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 15+ pr,2,0.6374,0.4305,2.32,2.44,2.22,-0.0429,1.005,2.10-2.50
 HOU @ WAS,Kevin Durant 4+ ast + Tari Eason 15+ pra,2,0.6646,0.453,2.21,2.32,2.07,-0.0615,1.001,1.85-2.10
 HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pts,2,0.6763,0.4704,2.13,2.23,1.99,-0.0625,1.003,1.85-2.10
 HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pr,2,0.703,0.4865,2.06,2.16,1.93,-0.0631,1.002,1.85-2.10
@@ -60,8 +60,8 @@ HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.7322,0.5125,1.95,2.
 HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.7214,0.5068,1.97,2.07,1.84,-0.065,1.003,1.65-1.85
 HOU @ WAS,Kevin Durant 4+ ast + Amen Thompson 20+ pra,2,0.7174,0.5116,1.95,2.05,1.82,-0.0675,1.002,1.65-1.85
 HOU @ WAS,Kevin Durant 4+ reb + Tari Eason 15+ pra,2,0.7371,0.5851,1.71,1.79,1.55,-0.0924,1.001,1.50-1.65
-HOU @ WAS,Tari Eason 15+ pra + Alex Sarr 15+ pra,2,0.7079,0.5831,1.71,1.8,1.55,-0.0965,1.003,1.50-1.65
 HOU @ WAS,Kevin Durant 4+ reb + Alex Sarr 15+ pra,2,0.6996,0.573,1.75,1.83,1.57,-0.0992,0.999,1.50-1.65
+HOU @ WAS,Kevin Durant 4+ reb + Jabari Smith Jr. 15+ pr + Tari Eason 4+ reb,3,0.7116,0.5244,1.91,2.0,1.64,-0.1419,1.001,1.50-1.65
 ATL @ MIL,ATL win + Brayden Burries pra under 20.5,2,0.4922,0.3944,2.54,2.66,2.46,-0.0298,1.03,2.10-2.50
 ATL @ MIL,ATL win + Brayden Burries pr under 17.5,2,0.5005,0.4023,2.49,2.61,2.4,-0.0352,1.025,2.10-2.50
 ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.3782,0.409,2.44,2.57,2.35,-0.0371,1.045,2.10-2.50

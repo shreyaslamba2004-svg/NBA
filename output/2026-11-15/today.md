@@ -1,6 +1,6 @@
 # NBA model · Sun 15 Nov 2026 (US date)
 
-Updated **Mon 16 Nov, 06:48 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 16 Nov, 06:53 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -45,7 +45,7 @@ Game lines below assume every questionable player sits; each game's section show
 | SAS @ UTA | Mon 16 Nov 09:00 | 122.2–106.7 | SAS 86% | 1.16 / 7.33 | UTA +15.5 | 228.5 | UTA +15.5 covers 50%; o224.5 60% |
 | DAL @ BOS | Mon 16 Nov 10:00 | 105.7–119.7 | DAL 16% | 6.37 / 1.19 | BOS -13.5 | 225.5 | BOS -14.5 covers 48%; o218.5 65% |
 | NYK @ TOR | Mon 16 Nov 10:00 | 114.3–107.9 | NYK 67% | 1.48 / 3.07 | TOR +6.5 | 221.5 | TOR +5.5 covers 48%; o217.5 59% |
-| HOU @ WAS | Mon 16 Nov 11:00 | 119.5–110.3 | HOU 74% | 1.34 / 3.91 | WAS +9.5 | 229.5 | WAS +7.5 covers 45%; o224.5 61% |
+| HOU @ WAS | Mon 16 Nov 11:00 | 119.5–110.3 | HOU 74% | 1.34 / 3.91 | WAS +9.5 | 229.5 | WAS +8.5 covers 48%; o223.5 63% |
 | ATL @ MIL | Mon 16 Nov 12:00 | 118.5–110.2 | ATL 72% | 1.38 / 3.60 | MIL +8.5 | 228.5 | MIL +8.5 covers 50%; o233.5 40% |
 | OKC @ SAC | Mon 16 Nov 13:00 | 119.4–107.3 | OKC 80% | 1.24 / 5.11 | SAC +12.5 | 226.5 | SAC +10.5 covers 46%; o223.5 57% |
 
@@ -280,11 +280,11 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jayson Tatum | 98% | 32.9<br><sub>-,29,29,32,38</sub> | 25.8<br><sub>-,34,21,21,24</sub> | 25.5 · –<br><sub>o 51% · u 49%</sub> | 8.1<br><sub>-,8,4,6,7</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 6.7<br><sub>-,9,6,4,8</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 3.0<br><sub>-,5,5,3,2</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.2 | 0.5 | 2.6 | 40.6 |
-| Paul George | 98% | 30.2<br><sub>35,22,28,30,-</sub> | 19.5<br><sub>25,8,27,36,-</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 4.9<br><sub>3,5,3,5,-</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 3.5<br><sub>5,1,1,1,-</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>5,2,5,6,-</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.6 | 0.5 | 2.4 | 27.9 |
+| Jayson Tatum | 98% | 32.9<br><sub>-,29,29,32,38</sub> | 25.8<br><sub>-,34,21,21,24</sub> | 25.5 · –<br><sub>o 50% · u 50%</sub> | 8.1<br><sub>-,8,4,6,7</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 6.7<br><sub>-,9,6,4,8</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 3.0<br><sub>-,5,5,3,2</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.2 | 0.5 | 2.6 | 40.6 |
+| Paul George | 98% | 30.2<br><sub>35,22,28,30,-</sub> | 19.5<br><sub>25,8,27,36,-</sub> | 18.5 · –<br><sub>o 51% · u 49%</sub> | 4.9<br><sub>3,5,3,5,-</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 3.5<br><sub>5,1,1,1,-</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>5,2,5,6,-</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.6 | 0.5 | 2.4 | 27.9 |
 | Derrick White | 98% | 30.1<br><sub>36,25,27,22,38</sub> | 13.4<br><sub>24,18,9,5,19</sub> | 14.5 · –<br><sub>o 46% · u 54%</sub> | 3.8<br><sub>4,4,3,1,1</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 4.9<br><sub>7,5,7,3,7</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 1.9<br><sub>1,4,1,1,3</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 1.0 | 1.0 | 1.6 | 22.0 |
 | Payton Pritchard | 98% | 27.3<br><sub>18,23,29,30,31</sub> | 14.2<br><sub>10,12,12,18,14</sub> | 14.5 · –<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>1,6,5,6,1</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 4.3<br><sub>5,5,4,5,1</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>0,4,4,4,2</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 0.7 | 0.1 | 1.3 | 21.9 |
-| Neemias Queta | 98% | 23.8<br><sub>29,15,22,22,31</sub> | 10.4<br><sub>9,4,13,4,11</sub> | 9.5 · –<br><sub>o 49% · u 51%</sub> | 8.3<br><sub>12,3,9,6,13</sub> | 7.5<br><sub>o 49% · u 51%</sub> | 1.9<br><sub>3,1,4,3,3</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.1<br><sub>0,0,0,0,1</sub> |  | 0.6 | 1.3 | 1.2 | 20.7 |
+| Neemias Queta | 98% | 23.8<br><sub>29,15,22,22,31</sub> | 10.4<br><sub>9,4,13,4,11</sub> | 9.5 · –<br><sub>o 52% · u 48%</sub> | 8.3<br><sub>12,3,9,6,13</sub> | 7.5<br><sub>o 49% · u 51%</sub> | 1.9<br><sub>3,1,4,3,3</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.1<br><sub>0,0,0,0,1</sub> |  | 0.6 | 1.3 | 1.2 | 20.7 |
 | Sam Hauser | 98% | 21.4<br><sub>30,17,23,18,24</sub> | 8.1<br><sub>11,9,7,12,8</sub> | 6.5 · –<br><sub>o 51% · u 49%</sub> | 3.6<br><sub>2,3,3,5,9</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.2<br><sub>0,3,1,2,0</sub> |  | 1.6<br><sub>3,3,1,4,2</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 0.4 | 0.2 | 0.5 | 12.9 |
 | Baylor Scheierman | 98% | 21.2<br><sub>29,15,19,18,29</sub> | 6.6<br><sub>9,5,7,5,9</sub> |  | 4.3<br><sub>11,4,1,3,7</sub> |  | 1.7<br><sub>1,2,0,2,3</sub> |  | 1.0<br><sub>3,1,1,1,3</sub> |  | 0.8 | 0.1 | 0.7 | 12.6 |
 | Mitchell Robinson | 98% | 15.0<br><sub>20,15,18,17,11</sub> | 5.2<br><sub>3,6,12,2,2</sub> |  | 6.0<br><sub>10,7,7,6,2</sub> |  | 0.7<br><sub>1,0,2,2,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 0.8 | 0.7 | 11.9 |
@@ -303,11 +303,11 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jayson Tatum (BOS) | 98% | 32.9<br><sub>-,29,29,32,38</sub> | 26.0<br><sub>-,34,21,21,24</sub> | 25.5 · –<br><sub>o 51% · u 49%</sub> | 8.1<br><sub>-,8,4,6,7</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 6.7<br><sub>-,9,6,4,8</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 3.0<br><sub>-,5,5,3,2</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.2 | 0.6 | 2.6 | 40.8 |
-| Paul George (BOS) | 98% | 30.2<br><sub>35,22,28,30,-</sub> | 19.6<br><sub>25,8,27,36,-</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 4.9<br><sub>3,5,3,5,-</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 3.5<br><sub>5,1,1,1,-</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>5,2,5,6,-</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.6 | 0.5 | 2.4 | 28.0 |
+| Jayson Tatum (BOS) | 98% | 32.9<br><sub>-,29,29,32,38</sub> | 26.0<br><sub>-,34,21,21,24</sub> | 25.5 · –<br><sub>o 50% · u 50%</sub> | 8.1<br><sub>-,8,4,6,7</sub> | 7.5<br><sub>o 45% · u 55%</sub> | 6.7<br><sub>-,9,6,4,8</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 3.0<br><sub>-,5,5,3,2</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 1.2 | 0.6 | 2.6 | 40.8 |
+| Paul George (BOS) | 98% | 30.2<br><sub>35,22,28,30,-</sub> | 19.6<br><sub>25,8,27,36,-</sub> | 18.5 · –<br><sub>o 51% · u 49%</sub> | 4.9<br><sub>3,5,3,5,-</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 3.5<br><sub>5,1,1,1,-</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 2.8<br><sub>5,2,5,6,-</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.6 | 0.5 | 2.4 | 28.0 |
 | Derrick White (BOS) | 98% | 30.1<br><sub>36,25,27,22,38</sub> | 13.3<br><sub>24,18,9,5,19</sub> | 14.5 · –<br><sub>o 46% · u 54%</sub> | 3.8<br><sub>4,4,3,1,1</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 4.9<br><sub>7,5,7,3,7</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 1.9<br><sub>1,4,1,1,3</sub> | 2.5<br><sub>o 38% · u 62%</sub> | 1.0 | 1.0 | 1.6 | 22.0 |
 | Payton Pritchard (BOS) | 98% | 27.3<br><sub>18,23,29,30,31</sub> | 14.2<br><sub>10,12,12,18,14</sub> | 14.5 · –<br><sub>o 47% · u 53%</sub> | 3.4<br><sub>1,6,5,6,1</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 4.2<br><sub>5,5,4,5,1</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>0,4,4,4,2</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 0.7 | 0.1 | 1.3 | 21.9 |
-| Neemias Queta (BOS) | 98% | 23.8<br><sub>29,15,22,22,31</sub> | 10.4<br><sub>9,4,13,4,11</sub> | 9.5 · –<br><sub>o 49% · u 51%</sub> | 8.4<br><sub>12,3,9,6,13</sub> | 7.5<br><sub>o 49% · u 51%</sub> | 1.9<br><sub>3,1,4,3,3</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.1<br><sub>0,0,0,0,1</sub> |  | 0.6 | 1.3 | 1.2 | 20.7 |
+| Neemias Queta (BOS) | 98% | 23.8<br><sub>29,15,22,22,31</sub> | 10.4<br><sub>9,4,13,4,11</sub> | 9.5 · –<br><sub>o 52% · u 48%</sub> | 8.4<br><sub>12,3,9,6,13</sub> | 7.5<br><sub>o 49% · u 51%</sub> | 1.9<br><sub>3,1,4,3,3</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.1<br><sub>0,0,0,0,1</sub> |  | 0.6 | 1.3 | 1.2 | 20.7 |
 | Sam Hauser (BOS) | 98% | 21.5<br><sub>30,17,23,18,24</sub> | 8.1<br><sub>11,9,7,12,8</sub> | 6.5 · –<br><sub>o 51% · u 49%</sub> | 3.6<br><sub>2,3,3,5,9</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.2<br><sub>0,3,1,2,0</sub> |  | 1.5<br><sub>3,3,1,4,2</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 0.4 | 0.2 | 0.4 | 12.9 |
 | Baylor Scheierman (BOS) | 98% | 21.2<br><sub>29,15,19,18,29</sub> | 6.5<br><sub>9,5,7,5,9</sub> |  | 4.3<br><sub>11,4,1,3,7</sub> |  | 1.7<br><sub>1,2,0,2,3</sub> |  | 1.0<br><sub>3,1,1,1,3</sub> |  | 0.7 | 0.1 | 0.7 | 12.5 |
 | Mitchell Robinson (BOS) | 98% | 15.0<br><sub>20,15,18,17,11</sub> | 5.2<br><sub>3,6,12,2,2</sub> |  | 6.0<br><sub>10,7,7,6,2</sub> |  | 0.7<br><sub>1,0,2,2,0</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 0.8 | 0.7 | 12.0 |
@@ -437,9 +437,9 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Clint
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 119.5–110.3 | HOU 74% | 1.34 / 3.91 | WAS +9.5 | 229.5 | WAS +7.5 covers 45%; o224.5 61% |
-| Expected (weighted by chance each plays) | 119.6–110.7 | HOU 74% | 1.35 / 3.90 | WAS +9.5 | 229.5 | WAS +7.5 covers 45%; o224.5 62% |
-| if Tre Johnson plays | 119.7–110.9 | HOU 74% | 1.36 / 3.78 | WAS +8.5 | 230.5 | WAS +7.5 covers 46%; o224.5 62% |
+| Confirmed players only | 119.5–110.3 | HOU 74% | 1.34 / 3.91 | WAS +9.5 | 229.5 | WAS +8.5 covers 48%; o223.5 63% |
+| Expected (weighted by chance each plays) | 119.6–110.7 | HOU 74% | 1.35 / 3.90 | WAS +9.5 | 229.5 | WAS +8.5 covers 49%; o223.5 64% |
+| if Tre Johnson plays | 119.7–110.9 | HOU 74% | 1.36 / 3.78 | WAS +8.5 | 230.5 | WAS +8.5 covers 49%; o223.5 64% |
 
 **Questionable players: chance to play, and their projection if they do**
 
