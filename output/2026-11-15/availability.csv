@@ -212,7 +212,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909991,HOU,1627832,Fred VanVleet,Out,,0.0,VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.,,
 401909992,MIL,905164559,Nate Ament,,,1.0,,,
 401909992,MIL,905082206,Brayden Burries,,,1.0,,,
-401909992,MIL,1631172,Ousmane Dieng,Out,Injury/Illness-LeftFingerSprain,0.0,Dieng (finger) has been ruled out for Sunday's game against the Hawks.,,
+401909992,MIL,1631172,Ousmane Dieng,Out,Injury/Illness-LeftFingerFracture,0.0,Dieng (finger) has been ruled out for Sunday's game against the Hawks.,,
 401909992,MIL,1631260,AJ Green,,,1.0,,,
 401909992,MIL,1629639,Tyler Herro,,,1.0,,,
 401909992,MIL,905214640,Kasparas Jakucionis,,,1.0,,,
