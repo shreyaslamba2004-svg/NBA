@@ -1,40 +1,40 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909982,MIA,1628389,Bam Adebayo,Starting,,1.0,,,1.0
-401909982,MIA,203507,Giannis Antetokounmpo,Starting,Injury/Illness-RightWristSprain,1.0,,,1.0
+401909982,MIA,1628389,Bam Adebayo,,,1.0,,,
+401909982,MIA,203507,Giannis Antetokounmpo,Available,Injury/Illness-RightWristSprain,1.0,,,
 401909982,MIA,905107157,Ryan Conwell,,,1.0,,,
 401909982,MIA,904837356,Tre Donaldson,,,1.0,,,
 401909982,MIA,1631323,Simone Fontecchio,,,1.0,,,
-401909982,MIA,1642066,Myron Gardner,Starting,,1.0,,,1.0
+401909982,MIA,1642066,Myron Gardner,,,1.0,,,
 401909982,MIA,1642884,Vladislav Goldin,Out,GLeague-Two-Way,0.0,,,
 401909982,MIA,203501,Tim Hardaway Jr.,,,1.0,,,
 401909982,MIA,1642352,Keshad Johnson,,,1.0,,,
 401909982,MIA,1631107,Nikola Jovic,,,1.0,,,
 401909982,MIA,1641796,Pelle Larsson,Out,Injury/Illness-Illness,0.0,Larsson (illness) has been ruled out for Saturday's game against the Pistons.,,
-401909982,MIA,1630558,Davion Mitchell,Starting,,1.0,,,1.0
+401909982,MIA,1630558,Davion Mitchell,,,1.0,,,
 401909982,MIA,1626171,Bobby Portis,,,1.0,,,
 401909982,MIA,1630208,Nick Richards,,,1.0,,,
 401909982,MIA,1630696,Dru Smith,,,1.0,,,
-401909982,MIA,202691,Klay Thompson,Starting,Injury/Illness-LeftAnkleSprain,1.0,,,1.0
+401909982,MIA,202691,Klay Thompson,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
 401909982,MIA,203952,Andrew Wiggins,,,1.0,,,
-401909982,DET,1628381,John Collins,Starting,,1.0,,,1.0
-401909982,DET,1630595,Cade Cunningham,Starting,,1.0,,,1.0
+401909982,DET,1628381,John Collins,,,1.0,,,
+401909982,DET,1630595,Cade Cunningham,,,1.0,,,
 401909982,DET,1631105,Jalen Duren,Out,Injury/Illness-RightHamstringStrain,0.0,"Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",,
 401909982,DET,1629750,Javonte Green,,,1.0,,,
 401909982,DET,904397449,Elijah Harkless,Available,GLeague-Two-Way,1.0,,,
 401909982,DET,1641842,Ronald Holland II,,,1.0,,,
 401909982,DET,1628989,Kevin Huerter,,,1.0,,,
-401909982,DET,1642450,Daniss Jenkins,Starting,,1.0,,,1.0
+401909982,DET,1642450,Daniss Jenkins,,,1.0,,,
 401909982,DET,1630198,Isaiah Joe,Out,Injury/Illness-RightHipContusion,0.0,Joe (hip) is out for Monday against the Wizards.,,
 401909982,DET,905107818,Isaac Jones,Available,GLeague-Two-Way,1.0,,,
 401909982,DET,905258459,Ebuka Okorie,Out,GLeague-OnAssignment,0.0,,,
 401909982,DET,905037878,Ugonna Onyenso,Out,GLeague-Two-Way,0.0,Onyenso agreed to a two-way contract with the Pistons on Thursday.,,
 401909982,DET,1627752,Taurean Prince,,,1.0,,,
 401909982,DET,1630194,Paul Reed,,,1.0,,,
-401909982,DET,1629130,Duncan Robinson,Starting,,1.0,,,1.0
+401909982,DET,1629130,Duncan Robinson,,,1.0,,,
 401909982,DET,1642449,Tolu Smith,,,1.0,,,
-401909982,DET,1641709,Ausar Thompson,Starting,,1.0,,,1.0
-401909983,MEM,905041935,Cameron Boozer,Starting,,1.0,,,1.0
-401909983,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
+401909982,DET,1641709,Ausar Thompson,,,1.0,,,
+401909983,MEM,905041935,Cameron Boozer,,,1.0,,,
+401909983,MEM,1642907,Cedric Coward,,,1.0,,,
 401909983,MEM,1641744,Zach Edey,Out,,0.0,Edey (ankle) is listed as out for Saturday's game against the Nets.,,
 401909983,MEM,203924,Jerami Grant,Out,Injury/Illness-HeadInjury,0.0,Grant (head) is out for Saturday's game against the Nets.,,
 401909983,MEM,1641707,Taylor Hendricks,,,1.0,,,
@@ -48,13 +48,13 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909983,MEM,1641765,Olivier-Maxence Prosper,,,1.0,,,
 401909983,MEM,905105462,Richie Saunders,Out,Injury/Illness-RightKneeSurgery,0.0,"Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",,
 401909983,MEM,1642914,Javon Small,,,1.0,,,
-401909983,MEM,1642285,Cam Spencer,Starting,,1.0,,,1.0
-401909983,MEM,1630191,Isaiah Stewart,Starting,,1.0,,,1.0
-401909983,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
+401909983,MEM,1642285,Cam Spencer,,,1.0,,,
+401909983,MEM,1630191,Isaiah Stewart,,,1.0,,,
+401909983,MEM,1642377,Jaylen Wells,,,1.0,,,
 401909983,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,,,
 401909983,BKN,905101761,Mikel Brown Jr.,Available,Injury/Illness-Illness,1.0,,,
-401909983,BKN,1641730,Noah Clowney,Starting,,1.0,,,1.0
-401909983,BKN,1642856,Egor Demin,Starting,,1.0,,,1.0
+401909983,BKN,1641730,Noah Clowney,,,1.0,,,
+401909983,BKN,1642856,Egor Demin,,,1.0,,,
 401909983,BKN,1631165,Keon Ellis,,,1.0,,,
 401909983,BKN,904870564,Joshua Jefferson,Out,GLeague-OnAssignment,0.0,,,
 401909983,BKN,905174655,Chaney Johnson,,,1.0,,,
@@ -63,41 +63,41 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909983,BKN,1641761,Grant Nelson,Out,GLeague-Two-Way,0.0,,,
 401909983,BKN,1629008,Michael Porter Jr.,Out,PersonalReasons,0.0,"Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports.",,
 401909983,BKN,1642962,Drake Powell,,,1.0,,,
-401909983,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
+401909983,BKN,203944,Julius Randle,,,1.0,,,
 401909983,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909983,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
+401909983,BKN,1630549,Day'Ron Sharpe,,,1.0,,,
 401909983,BKN,1642849,Nolan Traore,Available,,1.0,,,
 401909983,BKN,1629021,Moritz Wagner,,,1.0,,,
-401909983,BKN,1642874,Danny Wolf,Starting,,1.0,,,1.0
-401909984,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
+401909983,BKN,1642874,Danny Wolf,,,1.0,,,
+401909984,MIN,1630163,LaMelo Ball,,,1.0,,,
 401909984,MIN,1642866,Joan Beringer,Available,Injury/Illness-FaceMask,1.0,,,
 401909984,MIN,1641780,Johni Broome,,,1.0,,,
 401909984,MIN,1641740,Jaylen Clark,,,1.0,,,
 401909984,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",,
-401909984,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
+401909984,MIN,1630245,Ayo Dosunmu,,,1.0,,,
 401909984,MIN,1630162,Anthony Edwards,Out,,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909984,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909984,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
+401909984,MIN,203497,Rudy Gobert,,,1.0,,,
 401909984,MIN,1630538,Bones Hyland,,,1.0,,,
-401909984,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
+401909984,MIN,1630228,Jonathan Kuminga,,,1.0,,,
 401909984,MIN,1626168,Trey Lyles,,,1.0,,,
-401909984,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
+401909984,MIN,1630183,Jaden McDaniels,,,1.0,,,
 401909984,MIN,1642389,Zyon Pullin,,,1.0,,,
 401909984,MIN,1630545,Terrence Shannon Jr.,,,1.0,,,
 401909984,MIN,904895758,Cody Williams,,,1.0,,,
 401909984,MIN,1642911,Rocco Zikarsky,,,1.0,,,
 401909984,CHI,905105555,Tobe Awaka,Out,Injury/Illness-DiscIrritation,0.0,Awaka has been ruled out for Saturday's game against the Timberwolves.,,
-401909984,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
+401909984,CHI,1641824,Matas Buzelis,,,1.0,,,
 401909984,CHI,1629651,Nic Claxton,Out,,0.0,"Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports.",,
-401909984,CHI,1628380,Zach Collins,Starting,,1.0,,,1.0
+401909984,CHI,1628380,Zach Collins,,,1.0,,,
 401909984,CHI,1642855,Noa Essengue,,,1.0,,,
-401909984,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
+401909984,CHI,1630581,Josh Giddey,,,1.0,,,
 401909984,CHI,1641722,Jordan Hawkins,,,1.0,,,
 401909984,CHI,1627741,Buddy Hield,,,1.0,,,
 401909984,CHI,1630200,Tre Jones,,,1.0,,,
 401909984,CHI,1631159,Leonard Miller,,,1.0,,,
-401909984,CHI,1630171,Isaac Okoro,Starting,,1.0,,,1.0
-401909984,CHI,1626181,Norman Powell,Starting,-,1.0,,,1.0
+401909984,CHI,1630171,Isaac Okoro,,,1.0,,,
+401909984,CHI,1626181,Norman Powell,Available,-,1.0,,,
 401909984,CHI,1631115,Orlando Robinson,,,1.0,,,
 401909984,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
 401909984,CHI,1630188,Jalen Smith,Out,Injury/Illness-LeftFingerSprain,0.0,"Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports.",,

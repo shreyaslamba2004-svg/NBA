@@ -1,25 +1,31 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ MIA,Ausar Thompson pts under 10.5 + Andrew Wiggins 10+ pra,2,0.4558,0.4072,2.46,2.58,2.38,-0.0295,1.002,2.10-2.50
-DET @ MIA,Klay Thompson 13+ pts + Andrew Wiggins 10+ pra,2,0.4426,0.4226,2.37,2.48,2.29,-0.0302,1.011,2.10-2.50
-DET @ MIA,Ausar Thompson pts under 10.5 + Davion Mitchell 10+ pr,2,0.4664,0.4148,2.41,2.53,2.33,-0.0322,0.998,2.10-2.50
-DET @ MIA,Ausar Thompson pts under 10.5 + Duncan Robinson 10+ pra,2,0.509,0.4654,2.15,2.26,2.07,-0.0371,0.997,1.85-2.10
-DET @ MIA,Klay Thompson 13+ pts + Daniss Jenkins 10+ pr,2,0.4756,0.4665,2.14,2.25,2.05,-0.0439,1.001,1.85-2.10
-DET @ MIA,Giannis Antetokounmpo pts under 28.5 + Duncan Robinson 10+ pra,2,0.5903,0.4689,2.13,2.24,2.03,-0.0485,0.999,1.85-2.10
-DET @ MIA,DET win + Daniss Jenkins 10+ pr,2,0.6321,0.5397,1.85,1.95,1.73,-0.0668,1.006,1.65-1.85
-DET @ MIA,DET win + Bam Adebayo 6+ reb,2,0.5926,0.5058,1.98,2.08,1.83,-0.0741,0.999,1.65-1.85
-DET @ MIA,Duncan Robinson 15+ pra + Daniss Jenkins 10+ pts,2,0.6718,0.5944,1.68,1.77,1.51,-0.1043,1.006,1.50-1.65
-DET @ MIA,Duncan Robinson 15+ pra + Andrew Wiggins 1+ 3pm,2,0.6566,0.5814,1.72,1.81,1.53,-0.1088,1.001,1.50-1.65
-DET @ MIA,Daniss Jenkins 10+ pts + Andrew Wiggins 1+ 3pm,2,0.6429,0.5755,1.74,1.82,1.54,-0.1115,1.0,1.50-1.65
-DET @ MIA,Davion Mitchell 10+ pr + Andrew Wiggins 10+ pra + Duncan Robinson 15+ pra,3,0.6338,0.5016,1.99,2.09,1.7,-0.147,1.007,1.65-1.85
-BKN @ MEM,Day'Ron Sharpe 10+ pts + Noah Clowney 5+ pa,2,0.4979,0.4488,2.23,2.34,2.28,0.0211,1.005,2.10-2.50
-BKN @ MEM,Day'Ron Sharpe 10+ pts + Cameron Boozer 6+ reb,2,0.4989,0.4539,2.2,2.31,2.24,0.0182,1.004,2.10-2.50
-BKN @ MEM,Day'Ron Sharpe 10+ pts + Cedric Coward 1+ 3pm,2,0.4731,0.43,2.33,2.44,2.37,0.0172,1.003,2.10-2.50
-BKN @ MEM,Cedric Coward 15+ pts + Noah Clowney 5+ pr,2,0.615,0.4958,2.02,2.12,2.01,-0.0044,1.0,1.85-2.10
-BKN @ MEM,Egor Demin pts under 11.5 + Noah Clowney 5+ pr,2,0.593,0.4747,2.11,2.21,2.06,-0.0235,1.001,1.85-2.10
-BKN @ MEM,Julius Randle pts under 22.5 + Noah Clowney 5+ pr,2,0.6676,0.4764,2.1,2.2,2.01,-0.0433,0.999,1.85-2.10
-CHI @ MIN,Matas Buzelis pts under 16.5 + MIN win,2,0.5526,0.4777,2.09,2.2,2.06,-0.0136,1.025,1.85-2.10
-CHI @ MIN,Josh Giddey pts under 13.5 + MIN win,2,0.391,0.4418,2.26,2.38,2.21,-0.0241,1.03,2.10-2.50
-CHI @ MIN,Jaden McDaniels 18+ pts + MIN win,2,0.4048,0.4385,2.28,2.39,2.21,-0.0312,1.028,2.10-2.50
-CHI @ MIN,Tre Jones pts under 9.5 + MIN win,2,0.3516,0.4356,2.3,2.41,2.21,-0.0378,1.027,2.10-2.50
-CHI @ MIN,Matas Buzelis pts under 16.5 + Isaac Okoro 5+ pr,2,0.606,0.4713,2.12,2.23,2.0,-0.0576,0.997,1.85-2.10
-CHI @ MIN,Matas Buzelis pts under 16.5 + Isaac Okoro 5+ pa,2,0.5911,0.4597,2.18,2.28,2.05,-0.0579,0.996,1.85-2.10
+DET @ MIA,Ausar Thompson pts under 10.5 + Andrew Wiggins 10+ pra,2,0.4535,0.4052,2.47,2.59,2.38,-0.0343,0.996,2.10-2.50
+DET @ MIA,Ausar Thompson pts under 10.5 + Bobby Portis 5+ pr,2,0.4916,0.452,2.21,2.32,2.13,-0.0358,0.999,2.10-2.50
+DET @ MIA,Ausar Thompson pts under 10.5 + Davion Mitchell 10+ pr,2,0.4608,0.4132,2.42,2.54,2.33,-0.0358,0.995,2.10-2.50
+DET @ MIA,DET win + Duncan Robinson 15+ pra,2,0.5679,0.4782,2.09,2.2,1.99,-0.0494,1.023,1.85-2.10
+DET @ MIA,DET win + Duncan Robinson 10+ pts,2,0.5753,0.4887,2.05,2.15,1.94,-0.0517,1.022,1.85-2.10
+DET @ MIA,Bobby Portis 7+ pts + Bam Adebayo 20+ pra,2,0.571,0.453,2.21,2.32,2.09,-0.0519,1.003,1.85-2.10
+DET @ MIA,DET win + Bobby Portis 5+ pr,2,0.6415,0.5362,1.86,1.96,1.73,-0.0706,0.999,1.65-1.85
+DET @ MIA,DET win + Bam Adebayo 6+ reb,2,0.6022,0.5065,1.97,2.07,1.83,-0.0727,0.998,1.65-1.85
+DET @ MIA,DET win + Bam Adebayo 20+ pra,2,0.6207,0.5255,1.9,2.0,1.75,-0.0804,0.99,1.65-1.85
+DET @ MIA,Andrew Wiggins 1+ 3pm + Duncan Robinson 15+ pra,2,0.6782,0.5839,1.71,1.8,1.53,-0.105,1.001,1.50-1.65
+DET @ MIA,Andrew Wiggins 10+ pra + Davion Mitchell 10+ pr + Bam Adebayo 6+ reb,3,0.7208,0.5477,1.83,1.92,1.57,-0.1422,1.005,1.50-1.65
+DET @ MIA,Davion Mitchell 10+ pr + Andrew Wiggins 1+ 3pm + Bam Adebayo 6+ reb,3,0.6684,0.5197,1.92,2.02,1.65,-0.144,1.007,1.50-1.65
+BKN @ MEM,Day'Ron Sharpe 10+ pts + Nolan Traore 10+ pa,2,0.4388,0.411,2.43,2.55,2.49,0.0226,1.013,2.10-2.50
+BKN @ MEM,Day'Ron Sharpe 10+ pts + Moritz Wagner 5+ pa,2,0.4778,0.4432,2.26,2.37,2.29,0.0168,1.006,2.10-2.50
+BKN @ MEM,Day'Ron Sharpe 10+ pts + Julius Randle 4+ reb,2,0.4746,0.4476,2.23,2.35,2.27,0.0151,1.007,2.10-2.50
+BKN @ MEM,Cedric Coward 15+ pts + Moritz Wagner 5+ pr,2,0.6026,0.4879,2.05,2.15,2.05,-0.0021,1.003,1.85-2.10
+BKN @ MEM,Cedric Coward 15+ pts + Moritz Wagner 5+ pra,2,0.6103,0.495,2.02,2.12,2.02,-0.0025,1.003,1.85-2.10
+BKN @ MEM,Egor Demin pts under 11.5 + Moritz Wagner 5+ pr,2,0.5613,0.4622,2.16,2.27,2.1,-0.0315,0.998,1.85-2.10
+BKN @ MEM,Egor Demin 3pm under 2.5 + Moritz Wagner 5+ pra,2,0.6984,0.5092,1.96,2.06,1.81,-0.0792,0.998,1.65-1.85
+BKN @ MEM,Egor Demin 3pm under 2.5 + Moritz Wagner 5+ pr,2,0.6891,0.5016,1.99,2.09,1.84,-0.0794,0.997,1.65-1.85
+CHI @ MIN,Matas Buzelis pts under 16.5 + MIN win,2,0.5229,0.476,2.1,2.21,2.06,-0.017,1.031,1.85-2.10
+CHI @ MIN,Josh Giddey pts under 13.5 + MIN win,2,0.3672,0.4425,2.26,2.37,2.21,-0.0226,1.041,2.10-2.50
+CHI @ MIN,Jaden McDaniels 18+ pts + MIN win,2,0.408,0.4392,2.28,2.39,2.21,-0.0299,1.029,2.10-2.50
+CHI @ MIN,Tre Jones 10+ pts + Josh Giddey 15+ pr,2,0.5636,0.4147,2.41,2.53,2.3,-0.0477,1.007,2.10-2.50
+CHI @ MIN,Tre Jones 10+ pts + Norman Powell 15+ pra,2,0.5993,0.4567,2.19,2.3,2.07,-0.0536,1.007,1.85-2.10
+CHI @ MIN,Tre Jones 10+ pts + Isaac Okoro 5+ pr,2,0.6248,0.4615,2.17,2.28,2.05,-0.0536,1.002,1.85-2.10
+CHI @ MIN,Tre Jones 12+ pr + Isaac Okoro 5+ pra,2,0.6791,0.4998,2.0,2.1,1.84,-0.0783,1.001,1.65-1.85
+CHI @ MIN,MIN win + Josh Giddey 15+ pr + Terrence Shannon Jr. 10+ pra,3,0.6403,0.5535,1.81,1.9,1.56,-0.1357,1.0,1.50-1.65
+CHI @ MIN,Josh Giddey 15+ pr + Isaac Okoro 5+ pr + Terrence Shannon Jr. 10+ pra,3,0.7238,0.5629,1.78,1.87,1.51,-0.1489,1.001,1.50-1.65
+CHI @ MIN,Josh Giddey 15+ pr + Isaac Okoro 5+ pa + Terrence Shannon Jr. 10+ pra,3,0.7068,0.5489,1.82,1.91,1.55,-0.1493,1.001,1.50-1.65
