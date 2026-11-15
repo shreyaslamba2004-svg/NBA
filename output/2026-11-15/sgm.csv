@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DAL @ BOS,Cooper Flagg pts under 23.5 + BOS win,2,0.4327,0.4409,2.27,2.38,2.25,-0.0084,1.035,2.10-2.50
-DAL @ BOS,Zaccharie Risacher pts under 7.5 + BOS win,2,0.406,0.4136,2.42,2.54,2.36,-0.0232,1.029,2.10-2.50
-DAL @ BOS,Sam Hauser 8+ pts + BOS win,2,0.4271,0.4207,2.38,2.5,2.3,-0.0308,1.024,2.10-2.50
-DAL @ BOS,Payton Pritchard pts under 14.5 + Caleb Martin 5+ pr,2,0.5541,0.4612,2.17,2.28,2.03,-0.066,0.998,1.85-2.10
-DAL @ BOS,Jayson Tatum pts under 26.5 + Caleb Martin 5+ pr,2,0.6075,0.4528,2.21,2.32,2.06,-0.0676,0.999,1.85-2.10
-DAL @ BOS,Payton Pritchard pts under 14.5 + P.J. Washington 10+ pr,2,0.5676,0.4812,2.08,2.18,1.94,-0.0683,0.998,1.85-2.10
-DAL @ BOS,P.J. Washington 15+ pr + Cooper Flagg 4+ ast,2,0.6876,0.5912,1.69,1.78,1.52,-0.1014,1.004,1.50-1.65
-DAL @ BOS,BOS win + P.J. Washington 15+ pr + Caleb Martin 5+ pr,3,0.6799,0.5588,1.79,1.88,1.55,-0.1338,0.991,1.50-1.65
-DAL @ BOS,BOS win + P.J. Washington 15+ pr + Cooper Flagg 4+ reb,3,0.6374,0.5324,1.88,1.97,1.62,-0.1353,0.992,1.50-1.65
-DAL @ BOS,BOS win + P.J. Washington 15+ pr + Daniel Gafford 10+ pr,3,0.6055,0.5077,1.97,2.07,1.69,-0.1412,0.985,1.65-1.85
-DAL @ BOS,BOS win + P.J. Washington 15+ pr + Cooper Flagg 4+ ast,3,0.5778,0.49,2.04,2.14,1.75,-0.142,0.986,1.65-1.85
-DAL @ BOS,BOS win + Daniel Gafford 10+ pr + Cooper Flagg 4+ ast,3,0.5859,0.5127,1.95,2.05,1.67,-0.1456,0.987,1.65-1.85
+DAL @ BOS,Cooper Flagg pts under 23.5 + BOS win,2,0.4542,0.443,2.26,2.37,2.25,-0.0036,1.033,2.10-2.50
+DAL @ BOS,Zaccharie Risacher pts under 7.5 + BOS win,2,0.4223,0.4161,2.4,2.52,2.36,-0.0173,1.029,2.10-2.50
+DAL @ BOS,Naji Marshall 12+ pts + P.J. Washington 15+ pr,2,0.5858,0.395,2.53,2.66,2.49,-0.0176,1.011,2.10-2.50
+DAL @ BOS,Naji Marshall 12+ pts + Neemias Queta 5+ pa,2,0.6593,0.4657,2.15,2.25,2.07,-0.0358,1.0,1.85-2.10
+DAL @ BOS,Payton Pritchard pts under 14.5 + Caleb Martin 5+ pr,2,0.5679,0.4615,2.17,2.28,2.03,-0.0614,0.998,1.85-2.10
+DAL @ BOS,Derrick White pts under 13.5 + P.J. Washington 10+ pr,2,0.5892,0.4524,2.21,2.32,2.07,-0.0617,1.002,1.85-2.10
+DAL @ BOS,BOS win + Naji Marshall 15+ pra + Cooper Flagg 4+ reb,3,0.6798,0.5293,1.89,1.98,1.66,-0.1211,0.995,1.65-1.85
+DAL @ BOS,BOS win + Naji Marshall 15+ pra + Caleb Martin 5+ pr,3,0.7238,0.5512,1.81,1.91,1.59,-0.1217,0.991,1.50-1.65
+DAL @ BOS,BOS win + Naji Marshall 15+ pra + Neemias Queta 5+ pa,3,0.7237,0.573,1.75,1.83,1.53,-0.1224,0.997,1.50-1.65
+DAL @ BOS,BOS win + Naji Marshall 15+ pra + P.J. Washington 10+ pr,3,0.7408,0.576,1.74,1.82,1.52,-0.1248,0.991,1.50-1.65
+DAL @ BOS,BOS win + Naji Marshall 15+ pra + Daniel Gafford 10+ pr,3,0.642,0.5036,1.99,2.08,1.73,-0.1278,0.989,1.65-1.85
+DAL @ BOS,BOS win + Naji Marshall 10+ pr + P.J. Washington 15+ pr,3,0.663,0.5243,1.91,2.0,1.66,-0.13,0.989,1.65-1.85
 NYK @ TOR,NYK win + Josh Hart 10+ pra,2,0.611,0.5824,1.72,1.8,1.69,-0.0159,1.008,1.65-1.85
 NYK @ TOR,NYK win + Jalen Brunson 1+ 3pm,2,0.5848,0.5592,1.79,1.88,1.76,-0.0163,1.008,1.65-1.85
 NYK @ TOR,NYK win + Karl-Anthony Towns 6+ reb,2,0.611,0.5809,1.72,1.81,1.68,-0.0253,0.998,1.65-1.85
