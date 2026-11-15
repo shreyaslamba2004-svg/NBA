@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4741,2.11,2.21,1.99,-0.0561,1.017,1.85-2.10
-LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.5015,1.99,2.09,1.88,-0.057,1.012,1.85-2.10
-LAL @ PHX,LAL win + Jake LaRavia 5+ pr,2,0.529,0.5299,1.89,1.98,1.77,-0.0642,1.007,1.65-1.85
-LAL @ PHX,LAL win + Walker Kessler 15+ pr,2,0.5195,0.5213,1.92,2.01,1.79,-0.0649,1.007,1.65-1.85
+LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.5036,1.99,2.08,1.87,-0.0577,1.012,1.85-2.10
+LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.3991,2.51,2.63,2.35,-0.0615,1.001,2.10-2.50
+LAL @ PHX,LAL win + Jake LaRavia 5+ pr,2,0.529,0.5294,1.89,1.98,1.77,-0.0641,1.007,1.65-1.85
+LAL @ PHX,LAL win + Walker Kessler 15+ pr,2,0.5195,0.522,1.92,2.01,1.79,-0.0651,1.007,1.65-1.85
+LAL @ PHX,Quentin Grimes pts under 12.5 + Devin Booker 1+ 3pm,2,0.6379,0.4397,2.27,2.39,2.12,-0.0663,1.0,2.10-2.50
+LAL @ PHX,Quentin Grimes pts under 12.5 + Dillon Brooks 1+ 3pm,2,0.6274,0.4292,2.33,2.45,2.17,-0.0665,0.998,2.10-2.50
+LAL @ PHX,Quentin Grimes pts under 12.5 + Walker Kessler 6+ reb,2,0.6865,0.4751,2.1,2.21,1.96,-0.0672,1.0,1.85-2.10
 LAL @ PHX,LAL win + Walker Kessler 15+ pra,2,0.5312,0.5343,1.87,1.97,1.74,-0.0678,1.004,1.65-1.85
-LAL @ PHX,Quentin Grimes pa under 14.5 + Luka Doncic 1+ stl,2,0.5511,0.3799,2.63,2.76,2.45,-0.0685,0.998,2.10-2.50
-LAL @ PHX,LAL win + Walker Kessler 8+ reb,2,0.4809,0.4748,2.11,2.21,1.96,-0.0692,0.999,1.85-2.10
-LAL @ PHX,game over 226.5 + Walker Kessler 8+ reb,2,0.4165,0.4142,2.41,2.54,2.25,-0.0694,1.028,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.4161,2.4,2.52,2.24,-0.0694,1.001,2.10-2.50
 CHA @ LAC,CHA win + Naz Reid 10+ pa,2,0.4036,0.4557,2.19,2.3,2.08,-0.0514,1.019,1.85-2.10
 CHA @ LAC,CHA win + Ryan Kalkbrenner 5+ pr,2,0.3837,0.4181,2.39,2.51,2.26,-0.0555,1.008,2.10-2.50
 CHA @ LAC,CHA win + Sion James 5+ pr,2,0.4018,0.4373,2.29,2.4,2.15,-0.0579,1.006,2.10-2.50
 CHA @ LAC,game over 214.5 + Ryan Kalkbrenner 5+ pr,2,0.5583,0.4198,2.38,2.5,2.23,-0.065,1.016,2.10-2.50
 CHA @ LAC,game over 214.5 + Naz Reid 10+ pa,2,0.581,0.4527,2.21,2.32,2.05,-0.0711,1.015,1.85-2.10
 CHA @ LAC,LAC win + Max Strus 5+ pr,2,0.5401,0.4511,2.22,2.33,2.05,-0.0752,1.007,1.85-2.10
-SAS @ UTA,game over 225.5 + SAS win,2,0.5079,0.4593,2.18,2.29,2.14,-0.0182,1.0,2.10-2.50
-SAS @ UTA,game over 225.5 + Devin Vassell 10+ pa,2,0.4993,0.4095,2.44,2.56,2.39,-0.0224,1.032,2.10-2.50
-SAS @ UTA,game over 225.5 + Stephon Castle 15+ pr,2,0.5122,0.4229,2.36,2.48,2.31,-0.0246,1.031,2.10-2.50
+SAS @ UTA,SAS win + Darryn Peterson pa under 22.5,2,0.5462,0.4595,2.18,2.29,2.12,-0.0266,1.027,2.10-2.50
 SAS @ UTA,SAS win + Darryn Peterson pts under 18.5,2,0.5469,0.4663,2.14,2.25,2.07,-0.0334,1.023,1.85-2.10
 SAS @ UTA,SAS win + Darryn Peterson pra under 27.5,2,0.5499,0.4868,2.05,2.16,1.98,-0.0372,1.026,1.85-2.10
-SAS @ UTA,game over 225.5 + Ace Bailey 10+ pr,2,0.5744,0.4689,2.13,2.24,2.05,-0.0408,1.012,1.85-2.10
+SAS @ UTA,game under 226.5 + SAS win,2,0.3776,0.4564,2.19,2.3,2.11,-0.0375,1.0,2.10-2.50
+SAS @ UTA,SAS win + Darryn Peterson pr under 22.5,2,0.513,0.4594,2.18,2.29,2.09,-0.0397,1.025,1.85-2.10
+SAS @ UTA,SAS -16.5 + Devin Vassell 10+ pa,2,0.3987,0.3983,2.51,2.64,2.39,-0.0493,1.032,2.10-2.50
 SAS @ UTA,SAS win + Josh Okogie 3+ reb,2,0.6,0.5277,1.89,1.99,1.78,-0.061,0.998,1.65-1.85
 SAS @ UTA,SAS win + Julian Champagnie 3pm under 2.5,2,0.5885,0.5178,1.93,2.03,1.79,-0.0741,0.985,1.65-1.85
 SAS @ UTA,Josh Okogie 5+ pts + Stephon Castle 10+ pr,2,0.631,0.4981,2.01,2.11,1.83,-0.0894,1.001,1.65-1.85
