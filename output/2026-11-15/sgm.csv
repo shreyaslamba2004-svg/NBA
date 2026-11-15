@@ -11,15 +11,16 @@ IND @ PHI,VJ Edgecombe 3+ ast + LeBron James 10+ pts,2,0.7053,0.5356,1.87,1.96,1
 IND @ PHI,VJ Edgecombe 3+ ast + LeBron James 15+ pr,2,0.7195,0.5478,1.83,1.92,1.68,-0.081,1.002,1.65-1.85
 IND @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.5537,0.5639,1.77,1.86,1.63,-0.0823,1.006,1.50-1.65
 IND @ PHI,PHI win + VJ Edgecombe 1+ 3pm,2,0.5474,0.576,1.74,1.82,1.59,-0.0829,1.011,1.50-1.65
-LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.4007,2.5,2.62,2.34,-0.0622,1.001,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 12.5 + Devin Booker 1+ 3pm,2,0.6379,0.4412,2.27,2.38,2.11,-0.0669,1.0,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 12.5 + Walker Kessler 8+ reb,2,0.623,0.423,2.36,2.48,2.2,-0.0673,0.996,2.10-2.50
-LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4744,2.11,2.21,1.97,-0.0674,1.017,1.85-2.10
-LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.5013,1.99,2.09,1.86,-0.0682,1.012,1.85-2.10
-LAL @ PHX,Quentin Grimes pts under 12.5 + Matisse Thybulle 5+ pr,2,0.6498,0.4455,2.24,2.36,2.09,-0.0697,0.995,1.85-2.10
-LAL @ PHX,Collin Gillespie 3pm under 2.5 + Matisse Thybulle 5+ pr,2,0.6948,0.5177,1.93,2.03,1.77,-0.0814,1.0,1.65-1.85
-LAL @ PHX,Collin Gillespie 3pm under 2.5 + Devin Booker 1+ 3pm,2,0.6775,0.5092,1.96,2.06,1.8,-0.0849,0.998,1.65-1.85
-LAL @ PHX,Collin Gillespie 3pm under 2.5 + Walker Kessler 1+ blk,2,0.6653,0.5059,1.98,2.08,1.81,-0.0853,0.999,1.65-1.85
+LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.4059,2.46,2.59,2.3,-0.0649,1.001,2.10-2.50
+LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4707,2.12,2.23,1.98,-0.0663,1.017,1.85-2.10
+LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.5027,1.99,2.09,1.85,-0.0686,1.012,1.85-2.10
+LAL @ PHX,Quentin Grimes pts under 12.5 + Devin Booker 1+ 3pm,2,0.6379,0.4475,2.23,2.35,2.08,-0.0699,1.0,1.85-2.10
+LAL @ PHX,Quentin Grimes pa under 15.5 + Luka Doncic 1+ stl,2,0.5976,0.4144,2.41,2.53,2.24,-0.0699,0.999,2.10-2.50
+LAL @ PHX,Quentin Grimes pr under 15.5 + Luka Doncic 1+ stl,2,0.5617,0.3889,2.57,2.7,2.39,-0.0703,0.998,2.10-2.50
+LAL @ PHX,LAL win + Walker Kessler 15+ pr,2,0.5195,0.5221,1.92,2.01,1.77,-0.0762,1.007,1.65-1.85
+LAL @ PHX,LAL win + Walker Kessler 15+ pra,2,0.5312,0.533,1.88,1.97,1.73,-0.0786,1.004,1.65-1.85
+LAL @ PHX,Collin Gillespie 3pm under 2.5 + Matisse Thybulle 5+ pr,2,0.6948,0.522,1.92,2.01,1.76,-0.0829,1.0,1.65-1.85
+LAL @ PHX,Collin Gillespie 3pm under 2.5 + Walker Kessler 15+ pra,2,0.731,0.5575,1.79,1.88,1.64,-0.086,0.999,1.50-1.65
 CHA @ LAC,CHA win + Naz Reid 10+ pa,2,0.4027,0.4431,2.26,2.37,2.16,-0.0429,1.025,2.10-2.50
 CHA @ LAC,CHA win + Naz Reid 1+ 3pm,2,0.3765,0.4156,2.41,2.53,2.29,-0.0501,1.018,2.10-2.50
 CHA @ LAC,CHA win + Ryan Kalkbrenner 5+ pr,2,0.382,0.4114,2.43,2.55,2.3,-0.0549,1.009,2.10-2.50
@@ -74,9 +75,9 @@ HOU @ WAS,HOU win + Kevin Durant 25+ pra,2,0.6843,0.5908,1.69,1.78,1.59,-0.0621,
 HOU @ WAS,Kevin Durant 26+ pa + Jabari Smith Jr. 10+ pa,2,0.6494,0.4528,2.21,2.32,2.07,-0.0627,1.003,1.85-2.10
 HOU @ WAS,HOU win + Jabari Smith Jr. 10+ pts,2,0.668,0.6037,1.66,1.74,1.54,-0.0688,1.013,1.50-1.65
 HOU @ WAS,Kevin Durant 30+ pra + Jabari Smith Jr. 10+ pa,2,0.7109,0.5075,1.97,2.07,1.83,-0.0712,1.003,1.65-1.85
-HOU @ WAS,HOU win + Tari Eason 15+ pra,2,0.6531,0.5936,1.68,1.77,1.56,-0.0734,1.009,1.50-1.65
 HOU @ WAS,Kevin Durant 4+ ast + Tari Eason 4+ reb,2,0.7009,0.5019,1.99,2.09,1.85,-0.0734,0.999,1.65-1.85
 HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.7157,0.5171,1.93,2.03,1.79,-0.0751,0.999,1.65-1.85
+HOU @ WAS,HOU win + Anthony Davis 8+ reb,2,0.6364,0.564,1.77,1.86,1.63,-0.078,1.0,1.50-1.65
 ATL @ MIL,Brayden Burries pra under 20.5 + ATL win,2,0.5174,0.3973,2.52,2.64,2.46,-0.0243,1.03,2.10-2.50
 ATL @ MIL,MIL +7.5 + Kyle Kuzma 15+ pra,2,0.4152,0.4054,2.47,2.59,2.35,-0.0479,1.034,2.10-2.50
 ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.3819,0.4181,2.39,2.51,2.28,-0.0481,1.044,2.10-2.50
@@ -89,14 +90,13 @@ ATL @ MIL,Brayden Burries ast under 3.5 + Dyson Daniels 4+ reb,2,0.6427,0.5087,1
 ATL @ MIL,Brayden Burries ast under 3.5 + Kyle Kuzma 10+ pra,2,0.6841,0.5447,1.84,1.93,1.66,-0.0937,0.999,1.65-1.85
 ATL @ MIL,ATL win + Myles Turner 1+ blk,2,0.5854,0.5634,1.77,1.86,1.61,-0.0939,0.997,1.50-1.65
 ATL @ MIL,ATL win + Kyle Kuzma 10+ pa,2,0.6106,0.5702,1.75,1.84,1.58,-0.1,0.986,1.50-1.65
-OKC @ SAC,Darius Acuff Jr. pts under 23.5 + OKC win,2,0.4952,0.413,2.42,2.54,2.34,-0.034,1.042,2.10-2.50
+OKC @ SAC,Darius Acuff Jr. pts under 23.5 + OKC win,2,0.4952,0.4052,2.47,2.59,2.39,-0.0304,1.042,2.10-2.50
 OKC @ SAC,Darius Acuff Jr. pr under 27.5 + OKC win,2,0.4947,0.4158,2.4,2.52,2.32,-0.0358,1.041,2.10-2.50
-OKC @ SAC,game over 222.5 + De'Andre Hunter 15+ pra,2,0.5326,0.3917,2.55,2.68,2.42,-0.0509,1.044,2.10-2.50
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6545,0.6096,1.64,1.72,1.51,-0.081,1.011,1.50-1.65
-OKC @ SAC,OKC -10.5 + Jared McCain 1+ 3pm,2,0.5087,0.436,2.29,2.41,2.1,-0.0852,1.004,1.85-2.10
-OKC @ SAC,game over 221.5 + Jared McCain 1+ 3pm,2,0.6006,0.4457,2.24,2.36,2.05,-0.0856,1.007,1.85-2.10
-OKC @ SAC,De'Andre Hunter 6+ ra + Darius Acuff Jr. 4+ ast,2,0.5778,0.4691,2.13,2.24,1.94,-0.0895,1.005,1.85-2.10
-OKC @ SAC,De'Andre Hunter 15+ pra + Shai Gilgeous-Alexander 4+ ast,2,0.6832,0.5849,1.71,1.8,1.53,-0.103,1.002,1.50-1.65
-OKC @ SAC,OKC win + De'Andre Hunter 15+ pra,2,0.6388,0.5922,1.69,1.77,1.51,-0.1035,0.985,1.50-1.65
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.5845,0.5112,1.96,2.05,1.68,-0.1408,1.001,1.65-1.85
-OKC @ SAC,De'Andre Hunter 15+ pra + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.6185,0.4973,2.01,2.11,1.71,-0.1496,1.006,1.65-1.85
+OKC @ SAC,game over 222.5 + De'Andre Hunter 15+ pra,2,0.5326,0.3924,2.55,2.68,2.42,-0.0511,1.044,2.10-2.50
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6545,0.6101,1.64,1.72,1.51,-0.0811,1.011,1.50-1.65
+OKC @ SAC,OKC -10.5 + Jared McCain 1+ 3pm,2,0.5087,0.4371,2.29,2.4,2.09,-0.0856,1.004,1.85-2.10
+OKC @ SAC,game over 221.5 + Jared McCain 1+ 3pm,2,0.6006,0.4469,2.24,2.35,2.05,-0.086,1.007,1.85-2.10
+OKC @ SAC,De'Andre Hunter 6+ ra + Darius Acuff Jr. 4+ ast,2,0.5778,0.4696,2.13,2.24,1.94,-0.0896,1.005,1.85-2.10
+OKC @ SAC,De'Andre Hunter 15+ pra + Shai Gilgeous-Alexander 4+ ast,2,0.6832,0.5863,1.71,1.79,1.53,-0.1033,1.002,1.50-1.65
+OKC @ SAC,OKC win + De'Andre Hunter 15+ pra,2,0.6388,0.5932,1.69,1.77,1.51,-0.1038,0.985,1.50-1.65
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.5845,0.5122,1.95,2.05,1.68,-0.141,1.001,1.65-1.85
