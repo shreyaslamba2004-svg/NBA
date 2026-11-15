@@ -1,6 +1,6 @@
 # NBA model · Sun 15 Nov 2026 (US date)
 
-Updated **Mon 16 Nov, 05:54 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 16 Nov, 05:59 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -87,7 +87,7 @@ Out: Mark Williams (PHX), Austin Reaves (LAL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Luka Doncic | 98% | 37.7<br><sub>35,38,-,39,32</sub> | 38.6<br><sub>40,53,-,32,32</sub> | 35.5 · –<br><sub>o 49% · u 51%</sub> | 7.5<br><sub>9,5,-,8,5</sub> | 7.5<br><sub>o 50% · u 50%</sub> | 8.5<br><sub>7,5,-,10,5</sub> | 8.5<br><sub>o 47% · u 53%</sub> | 4.9<br><sub>6,5,-,3,5</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 1.9 | 0.6 | 5.5 | 54.6 |
+| Luka Doncic | 98% | 37.7<br><sub>35,38,-,39,32</sub> | 38.6<br><sub>40,53,-,32,32</sub> | 35.5 · –<br><sub>o 49% · u 51%</sub> | 7.5<br><sub>9,5,-,8,5</sub> | 7.5<br><sub>o 50% · u 50%</sub> | 8.5<br><sub>7,5,-,10,5</sub> | 8.5<br><sub>o 45% · u 55%</sub> | 4.9<br><sub>6,5,-,3,5</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 1.9 | 0.6 | 5.5 | 54.6 |
 | Walker Kessler | 98% | 32.4<br><sub>29,37,29,30,29</sub> | 14.1<br><sub>15,16,12,21,10</sub> | 13.5 · –<br><sub>o 48% · u 52%</sub> | 12.4<br><sub>8,12,16,10,11</sub> | 11.5<br><sub>o 47% · u 53%</sub> | 1.9<br><sub>0,2,4,4,3</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.2<br><sub>0,0,0,0,0</sub> |  | 0.9 | 2.2 | 2.2 | 28.5 |
 | Quentin Grimes | 98% | 29.3<br><sub>25,20,32,-,-</sub> | 11.2<br><sub>6,2,12,-,-</sub> | 12.5 · –<br><sub>o 46% · u 54%</sub> | 3.5<br><sub>1,0,1,-,-</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 2.7<br><sub>1,0,4,-,-</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.2<br><sub>0,0,2,-,-</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 0.9 | 0.3 | 1.8 | 17.4 |
 | Matisse Thybulle | 98% | 27.9<br><sub>23,24,28,23,23</sub> | 8.2<br><sub>3,2,4,6,8</sub> | 7.5 · –<br><sub>o 48% · u 52%</sub> | 2.8<br><sub>1,2,2,0,5</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 1.4<br><sub>2,0,0,1,1</sub> |  | 1.4<br><sub>1,0,0,2,2</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 2.4 | 0.7 | 1.3 | 12.4 |
@@ -130,7 +130,7 @@ Out: Mark Williams (PHX), Austin Reaves (LAL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Luka Doncic (LAL) | 98% | 37.1<br><sub>35,38,-,39,32</sub> | 37.2<br><sub>40,53,-,32,32</sub> | 35.5 · –<br><sub>o 49% · u 51%</sub> | 7.6<br><sub>9,5,-,8,5</sub> | 7.5<br><sub>o 50% · u 50%</sub> | 8.2<br><sub>7,5,-,10,5</sub> | 8.5<br><sub>o 47% · u 53%</sub> | 4.8<br><sub>6,5,-,3,5</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 1.8 | 0.6 | 5.0 | 53.0 |
+| Luka Doncic (LAL) | 98% | 37.1<br><sub>35,38,-,39,32</sub> | 37.2<br><sub>40,53,-,32,32</sub> | 35.5 · –<br><sub>o 49% · u 51%</sub> | 7.6<br><sub>9,5,-,8,5</sub> | 7.5<br><sub>o 50% · u 50%</sub> | 8.2<br><sub>7,5,-,10,5</sub> | 8.5<br><sub>o 45% · u 55%</sub> | 4.8<br><sub>6,5,-,3,5</sub> | 4.5<br><sub>o 50% · u 50%</sub> | 1.8 | 0.6 | 5.0 | 53.0 |
 | Walker Kessler (LAL) | 98% | 31.7<br><sub>29,37,29,30,29</sub> | 12.9<br><sub>15,16,12,21,10</sub> | 13.5 · –<br><sub>o 48% · u 52%</sub> | 12.3<br><sub>8,12,16,10,11</sub> | 11.5<br><sub>o 47% · u 53%</sub> | 1.8<br><sub>0,2,4,4,3</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.1<br><sub>0,0,0,0,0</sub> |  | 0.9 | 2.2 | 2.0 | 27.1 |
 | Quentin Grimes (LAL) | 98% | 27.7<br><sub>25,20,32,-,-</sub> | 9.9<br><sub>6,2,12,-,-</sub> | 12.5 · –<br><sub>o 46% · u 54%</sub> | 3.2<br><sub>1,0,1,-,-</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 2.5<br><sub>1,0,4,-,-</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.1<br><sub>0,0,2,-,-</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 0.9 | 0.3 | 1.5 | 15.6 |
 | Jake LaRavia (LAL) | 98% | 26.7<br><sub>21,25,29,32,21</sub> | 7.1<br><sub>9,7,5,4,0</sub> | 6.5 · –<br><sub>o 52% · u 48%</sub> | 4.4<br><sub>2,8,1,3,9</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 2.1<br><sub>2,3,2,3,6</sub> |  | 0.7<br><sub>2,2,0,0,0</sub> |  | 1.3 | 0.6 | 1.4 | 13.6 |
