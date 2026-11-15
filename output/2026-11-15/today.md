@@ -1,6 +1,6 @@
 # NBA model · Sun 15 Nov 2026 (US date)
 
-Updated **Mon 16 Nov, 08:53 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 16 Nov, 08:58 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -10,7 +10,9 @@ All automatic checks passed (team minutes, player minutes vs recent games, team 
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
-_No bets clear the edge threshold right now._
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Josh Okogie PTS over 4.5 (5+) | SAS @ UTA | draftkings | 1.98 | 1.88 | 1.60 | 62.6% | 51.9% | 53.3% | +5.6% | +24.0% | 1.4% |
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
@@ -18,7 +20,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| DAL to win | DAL @ BOS | draftkings | 7.90 | 6.41 | 5.75 | 17.4% | 15.6% | 15.6% | +23.3% | +37.4% | 0.9% |
+| DAL to win | DAL @ BOS | draftkings | 7.40 | 6.41 | 5.75 | 17.4% | 15.6% | 15.6% | +15.5% | +28.7% | 0.6% |
 | Kevin Durant AST over 7.5 (8+) | HOU @ WAS | draftkings | 12.60 | 10.93 | 4.86 | 20.6% | 7.4% | 9.2% | +15.3% | +159.1% | 0.3% |
 | Alperen Sengun PTS over 39.5 (40+) | HOU @ WAS | draftkings | 29.00 | 25.51 | 11.79 | 8.5% | 3.2% | 3.9% | +13.6% | +146.0% | 0.1% |
 | UTA to win | SAS @ UTA | betfair_ex_au | 10.02 | 8.94 | 7.33 | 13.6% | 11.2% | 11.2% | +12.1% | +36.8% | 0.3% |
@@ -44,7 +46,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | SAS @ UTA | Mon 16 Nov 09:00 | 122.2–106.7 | SAS 86% | 1.16 / 7.33 | UTA +15.5 | 228.5 | UTA +14.5 covers 47%; o222.5 64% |
-| DAL @ BOS | Mon 16 Nov 10:00 | 105.7–119.7 | DAL 16% | 6.37 / 1.19 | BOS -13.5 | 225.5 | BOS -15.5 covers 46%; o217.5 67% |
+| DAL @ BOS | Mon 16 Nov 10:00 | 105.7–119.7 | DAL 16% | 6.37 / 1.19 | BOS -13.5 | 225.5 | BOS -14.5 covers 48%; o217.5 67% |
 | NYK @ TOR | Mon 16 Nov 10:00 | 113.4–108.4 | NYK 64% | 1.57 / 2.77 | TOR +5.5 | 221.5 | TOR +4.5 covers 48%; o217.5 58% |
 | HOU @ WAS | Mon 16 Nov 11:00 | 119.5–110.3 | HOU 74% | 1.34 / 3.91 | WAS +9.5 | 229.5 | WAS +8.5 covers 48%; o223.5 63% |
 | ATL @ MIL | Mon 16 Nov 12:00 | 118.5–110.2 | ATL 72% | 1.38 / 3.60 | MIL +8.5 | 228.5 | MIL +8.5 covers 50%; o233.5 40% |
@@ -57,6 +59,7 @@ Out: Trey Alexander (UTA), Jaxson Hayes (UTA), Jaren Jackson Jr. (UTA), Lauri Ma
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Josh Okogie PTS over 4.5 (5+) | SAS @ UTA | draftkings | 1.98 | 1.88 | 1.60 | 62.6% | 51.9% | 53.3% | +5.6% | +24.0% | 1.4% |
 | Julian Champagnie PTS over 11.5 (12+) | SAS @ UTA | draftkings | 2.36 | 2.31 | 2.21 | 45.2% | 43.1% | 43.4% | +2.4% | +6.6% | 0.4% |
 | Keldon Johnson PTS over 9.5 (10+) | SAS @ UTA | pointsbetau | 1.90 | 1.87 | 1.74 | 57.4% | 52.8% | 53.4% | +1.6% | +9.2% | 0.4% |
 | Stephon Castle PTS over 16.5 (17+) | SAS @ UTA | unibet | 1.95 | 1.93 | 1.81 | 55.4% | 51.3% | 51.8% | +1.2% | +8.1% | 0.3% |
@@ -87,7 +90,7 @@ Out: Trey Alexander (UTA), Jaxson Hayes (UTA), Jaren Jackson Jr. (UTA), Lauri Ma
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Keyonte George | 100% | 34.0<br><sub>32,30,-,33,38</sub> | 21.0<br><sub>16,19,-,13,27</sub> | 19.5 · 19.5<br><sub>o 51% · u 49%</sub> | 4.2<br><sub>6,5,-,7,4</sub> | 3.5<br><sub>o 56% · u 44%</sub> | 5.9<br><sub>9,8,-,7,7</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 2.4<br><sub>1,0,-,2,4</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 0.9 | 0.2 | 3.2 | 31.0 |
 | Ace Bailey | 100% | 33.4<br><sub>29,32,35,31,35</sub> | 15.2<br><sub>12,7,23,18,21</sub> | 14.5 · 14.5<br><sub>o 48% · u 52%</sub> | 5.8<br><sub>6,2,7,7,3</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 2.0<br><sub>0,3,2,2,1</sub> |  | 2.2<br><sub>0,1,3,3,3</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 0.9 | 1.1 | 1.8 | 23.0 |
-| Darryn Peterson | 100% | 32.9<br><sub>30,35,31,33,34</sub> | 16.8<br><sub>21,26,25,22,28</sub> | 17.5 · 18.5<br><sub>o 47% · u 53%</sub> | 4.7<br><sub>2,6,4,4,7</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 4.0<br><sub>5,4,4,5,2</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>3,4,4,2,4</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 1.1 | 0.8 | 2.0 | 25.4 |
+| Darryn Peterson | 100% | 32.9<br><sub>30,35,31,33,34</sub> | 16.8<br><sub>21,26,25,22,28</sub> | 18.5 · 18.5<br><sub>o 47% · u 53%</sub> | 4.7<br><sub>2,6,4,4,7</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 4.0<br><sub>5,4,4,5,2</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 2.2<br><sub>3,4,4,2,4</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 1.1 | 0.8 | 2.0 | 25.4 |
 | Josh Green | 100% | 26.2<br><sub>24,28,30,26,14</sub> | 5.6<br><sub>3,10,2,3,2</sub> |  | 2.6<br><sub>3,0,5,2,0</sub> |  | 1.2<br><sub>1,1,4,1,0</sub> |  | 0.8<br><sub>1,1,0,1,0</sub> |  | 0.8 | 0.2 | 0.8 | 9.5 |
 | Brice Sensabaugh | 98% | 24.4<br><sub>10,13,14,23,27</sub> | 13.5<br><sub>0,2,5,19,7</sub> |  | 3.7<br><sub>2,3,4,3,3</sub> |  | 1.8<br><sub>2,0,4,1,1</sub> |  | 2.0<br><sub>0,0,1,3,1</sub> |  | 0.7 | 0.3 | 1.7 | 19.0 |
 | Mo Bamba | 100% | 24.2<br><sub>-,17,17,18,20</sub> | 7.9<br><sub>-,3,7,5,9</sub> | – · 7.5<br><sub>o 48% · u 52%</sub> | 8.4<br><sub>-,3,7,1,9</sub> |  | 1.2<br><sub>-,1,0,1,1</sub> |  | 0.3<br><sub>-,0,0,0,0</sub> |  | 0.5 | 1.9 | 1.1 | 17.5 |
@@ -105,8 +108,8 @@ Out: Max Christie (DAL), Sergio de Larrea (DAL), Kyrie Irving (DAL), Dereck Live
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 105.7–119.7 | DAL 16% | 6.37 / 1.19 | BOS -13.5 | 225.5 | BOS -15.5 covers 46%; o217.5 67% |
-| Expected (weighted by chance each plays) | 106.0–119.3 | DAL 17% | 5.75 / 1.21 | BOS -13.5 | 225.5 | BOS -15.5 covers 43%; o217.5 65% |
+| Confirmed players only | 105.7–119.7 | DAL 16% | 6.37 / 1.19 | BOS -13.5 | 225.5 | BOS -14.5 covers 48%; o217.5 67% |
+| Expected (weighted by chance each plays) | 106.0–119.3 | DAL 17% | 5.75 / 1.21 | BOS -13.5 | 225.5 | BOS -14.5 covers 46%; o217.5 65% |
 
 **Questionable players: chance to play, and their projection if they do**
 
