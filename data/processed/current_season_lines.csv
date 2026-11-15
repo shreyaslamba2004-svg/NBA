@@ -205,3 +205,8 @@ game_id,game_date,home,away,book,spread_home,total,over_price,under_price,ml_hom
 401909302,2026-11-13,SAS,GSW,Draft Kings,-12.5,217.5,-110.0,-110.0,-700,501,-112.0,-108.0,-11.5,234.5,"James Williams, Eric Dalen, Evan Scott"
 401909303,2026-11-13,SAC,POR,Draft Kings,10.5,229.5,-112.0,-108.0,361,-468,-115.0,-105.0,10.5,229.5,"Marc Davis, Andy Nagy, Biniam Maru"
 401909304,2026-11-13,LAC,OKC,Draft Kings,6.5,221.5,-105.0,-115.0,196,-237,-113.0,-107.0,7.5,221.5,"Scott Foster, Brandon Adair, Natalie Sago"
+401909980,2026-11-14,NOP,DEN,DraftKings,12.5,235.5,-108.0,-112.0,470,-650,-115.0,-105.0,10.5,234.5,"James Capers, Brent Barnaky, CJ Washington"
+401909981,2026-11-14,CLE,DAL,DraftKings,8.5,228.5,-108.0,-112.0,276,-344,-113.0,-107.0,-3.5,231.5,"Eric Lewis, Brian Forte, Tyler Ford, Jenna Schroeder"
+401909982,2026-11-14,MIA,DET,DraftKings,4.5,228.5,-113.0,-107.0,146,-173,-112.0,-108.0,5.5,226.5,"Mitchell Ervin, Suyash Mehta, Jonathan Sterling"
+401909983,2026-11-14,MEM,BKN,DraftKings,-4.5,223.5,-105.0,-115.0,-191,160,-101.0,-119.0,-5.5,225.5,"Josh Tiven, Michael Smith, Nate Green"
+401909984,2026-11-14,MIN,CHI,DraftKings,-16.5,237.5,-114.0,-106.0,-1080,690,-104.0,-116.0,-14.5,236.5,"Brian Forte, Nick Buchert, Scott Twardoski"
