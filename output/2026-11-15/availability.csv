@@ -13,9 +13,9 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909985,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
 401909985,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909985,PHI,1641712,Rayan Rupert,,,1.0,,,
-401909985,PHI,1629014,Anfernee Simons,Starting,,1.0,,,1.0
+401909985,PHI,1629014,Anfernee Simons,,,1.0,,,
 401909985,PHI,1629731,Dean Wade,,,1.0,,,
-401909985,PHI,1631133,Jabari Walker,,,1.0,,,
+401909985,PHI,1631133,Jabari Walker,Starting,,1.0,,,1.0
 401909985,IND,1641738,Kobe Brown,,,1.0,,,
 401909985,IND,1642277,Johnny Furphy,Out,,0.0,"Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",,
 401909985,IND,1630169,Tyrese Haliburton,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports.",,
@@ -79,7 +79,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909987,LAC,1630543,Isaiah Jackson,,,1.0,,,
 401909987,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
 401909987,LAC,201572,Brook Lopez,,,1.0,,,
-401909987,LAC,905105832,Nick Martinelli,,,1.0,,,
+401909987,LAC,905105832,Nick Martinelli,Questionable,GLeague-Two-Way,0.55,,,
 401909987,LAC,1641757,Baba Miller,,,1.0,,,
 401909987,LAC,905108024,Yanic Konan Niederhauser,Out,Injury/Illness-RightLisfrancSurgery,0.0,"Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",,
 401909987,LAC,1629618,Jalen Pickett,,,1.0,,,
@@ -273,7 +273,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909992,ATL,1631243,Mouhamed Gueye,Out,Injury/Illness-LeftFootFracture,0.0,"Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",,
 401909992,ATL,1630552,Jalen Johnson,,,1.0,,,
 401909992,ATL,1630557,Corey Kispert,,,1.0,,,
-401909992,ATL,1629111,Jock Landale,Available,Injury/Illness-FaceMask,1.0,,,
+401909992,ATL,1629111,Jock Landale,Questionable,,0.55,,,
 401909992,ATL,203468,CJ McCollum,,,1.0,,,
 401909992,ATL,1642854,Asa Newell,Out,,0.0,Newell (toe) has been ruled out for Friday's game against Chicago.,,
 401909992,ATL,1630168,Onyeka Okongwu,,,1.0,,,
@@ -293,7 +293,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909993,SAC,904709131,Sean Pedulla,Out,GLeague-Two-Way,0.0,,,
 401909993,SAC,1631342,Daeqwon Plowden,,,1.0,,,
 401909993,SAC,203486,Mason Plumlee,,,1.0,,,
-401909993,SAC,1642875,Maxime Raynaud,Out,Injury/Illness-RightPatella,0.0,Raynaud (knee) has been ruled out for Sunday's game against the Thunder.,,
+401909993,SAC,1642875,Maxime Raynaud,Out,,0.0,Raynaud (knee) has been ruled out for Sunday's game against the Thunder.,,
 401909993,SAC,1627734,Domantas Sabonis,,,1.0,,,
 401909993,SAC,905106058,Emanuel Sharp,,,1.0,,,
 401909993,SAC,1627732,Ben Simmons,Out,,0.0,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",,
