@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-HOU @ WAS,Kevin Durant 22+ pts + Jabari Smith Jr. 10+ pts,2,0.5685,0.4223,2.37,2.49,2.35,-0.009,1.007,2.10-2.50
-HOU @ WAS,Kevin Durant 22+ pts + Tari Eason 15+ pra,2,0.5539,0.4101,2.44,2.56,2.41,-0.0104,1.005,2.10-2.50
-HOU @ WAS,Kevin Durant 22+ pts + Anthony Davis 8+ reb,2,0.5484,0.4041,2.47,2.6,2.44,-0.0129,1.002,2.10-2.50
-HOU @ WAS,Bilal Coulibaly 7+ pts + Trae Young 20+ pra,2,0.6566,0.47,2.13,2.23,1.99,-0.0625,1.003,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Anthony Davis 8+ reb,2,0.6552,0.4594,2.18,2.29,2.04,-0.0637,1.002,1.85-2.10
-HOU @ WAS,Bilal Coulibaly 7+ pts + Tari Eason 4+ reb,2,0.6379,0.4619,2.16,2.27,2.03,-0.0638,1.004,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Trae Young 20+ pra,2,0.7202,0.5179,1.93,2.03,1.8,-0.0685,1.001,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Tari Eason 4+ reb,2,0.7006,0.5096,1.96,2.06,1.83,-0.0686,1.003,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.7193,0.5187,1.93,2.02,1.8,-0.0689,1.001,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ reb + Anthony Davis 8+ reb,2,0.729,0.5804,1.72,1.81,1.57,-0.0913,1.003,1.50-1.65
-HOU @ WAS,Anthony Davis 8+ reb + Tari Eason 15+ pra,2,0.7318,0.5874,1.7,1.79,1.55,-0.0917,1.003,1.50-1.65
-HOU @ WAS,Kevin Durant 4+ reb + Tari Eason 15+ pra,2,0.7332,0.5866,1.7,1.79,1.55,-0.0929,1.002,1.50-1.65
+HOU @ WAS,Kevin Durant 22+ pts + Steven Adams 4+ reb,2,0.5695,0.4094,2.44,2.56,2.42,-0.0108,1.0,2.10-2.50
+HOU @ WAS,Kevin Durant 22+ pts + Alperen Sengun 15+ pts,2,0.5278,0.4056,2.47,2.59,2.43,-0.0127,1.01,2.10-2.50
+HOU @ WAS,Alperen Sengun 21+ pts + Steven Adams 4+ reb,2,0.5693,0.398,2.51,2.64,2.48,-0.0149,1.0,2.10-2.50
+HOU @ WAS,Kevin Durant 22+ pts + Steven Adams 5+ pr,2,0.5976,0.4687,2.13,2.24,2.08,-0.0256,1.0,1.85-2.10
+HOU @ WAS,Trae Young 19+ pts + Steven Adams 5+ pr,2,0.5479,0.456,2.19,2.3,2.08,-0.0519,1.0,1.85-2.10
+HOU @ WAS,Anthony Davis pts under 22.5 + Steven Adams 5+ pr,2,0.544,0.4551,2.2,2.31,2.08,-0.0537,1.0,1.85-2.10
+HOU @ WAS,Steven Adams 4+ reb + AJ Dybantsa 4+ reb,2,0.7777,0.5853,1.71,1.79,1.57,-0.0825,1.002,1.50-1.65
+HOU @ WAS,Alperen Sengun 15+ pts + AJ Dybantsa 4+ reb,2,0.7137,0.5741,1.74,1.83,1.58,-0.0932,1.002,1.50-1.65
+HOU @ WAS,Alperen Sengun 15+ pts + Anthony Davis 8+ reb,2,0.7211,0.5811,1.72,1.81,1.56,-0.0933,1.002,1.50-1.65
+HOU @ WAS,Steven Adams 4+ reb + Alperen Sengun 6+ reb + Trae Young 6+ ast,3,0.7373,0.4934,2.03,2.13,1.77,-0.1246,1.004,1.65-1.85
+HOU @ WAS,Steven Adams 4+ reb + Alperen Sengun 6+ reb + AJ Dybantsa 4+ reb,3,0.7132,0.477,2.1,2.2,1.83,-0.1258,1.002,1.65-1.85
+HOU @ WAS,Steven Adams 4+ reb + Alperen Sengun 6+ reb + Anthony Davis 8+ reb,3,0.7193,0.4819,2.07,2.18,1.81,-0.1275,1.0,1.65-1.85
 ATL @ MIL,Brayden Burries pra under 22.5 + ATL win,2,0.518,0.3937,2.54,2.67,2.5,-0.0163,1.031,2.10-2.50
 ATL @ MIL,game over 233.5 + Jaime Jaquez Jr. 20+ pra,2,0.3469,0.4053,2.47,2.59,2.41,-0.0234,1.063,2.10-2.50
 ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.368,0.4164,2.4,2.52,2.31,-0.0383,1.041,2.10-2.50
