@@ -1,6 +1,6 @@
 # NBA model · Sun 15 Nov 2026 (US date)
 
-Updated **Mon 16 Nov, 05:39 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 16 Nov, 05:44 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-15/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -25,6 +25,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Kevin Durant PR over 44.5 (45+) | HOU @ WAS | draftkings | 20.00 | 16.89 | 7.07 | 14.1% | 4.7% | 5.9% | +18.5% | +182.8% | 0.2% |
 | Kevin Durant AST over 7.5 (8+) | HOU @ WAS | draftkings | 12.20 | 10.54 | 4.65 | 21.5% | 7.7% | 9.5% | +15.7% | +162.3% | 0.4% |
 | Alperen Sengun PTS over 34.5 (35+) | HOU @ WAS | draftkings | 15.40 | 13.46 | 6.10 | 16.4% | 6.1% | 7.4% | +14.5% | +152.6% | 0.2% |
+| UTA to win | SAS @ UTA | betfair_ex_au | 10.02 | 8.94 | 7.36 | 13.6% | 11.2% | 11.2% | +12.1% | +36.2% | 0.3% |
 | Alperen Sengun PTS over 39.5 (40+) | HOU @ WAS | draftkings | 29.00 | 25.91 | 12.45 | 8.0% | 3.2% | 3.9% | +11.9% | +132.8% | 0.1% |
 | Kevin Durant PR over 39.5 (40+) | HOU @ WAS | draftkings | 9.70 | 8.68 | 4.18 | 23.9% | 9.6% | 11.5% | +11.8% | +132.2% | 0.3% |
 | Kevin Durant AST over 9.5 (10+) | HOU @ WAS | draftkings | 30.00 | 27.03 | 13.31 | 7.5% | 3.1% | 3.7% | +10.9% | +125.4% | 0.1% |
@@ -32,7 +33,6 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Alperen Sengun PR over 44.5 (45+) | HOU @ WAS | draftkings | 10.70 | 9.78 | 4.99 | 20.0% | 8.7% | 10.2% | +9.4% | +114.2% | 0.2% |
 | DAL to win | DAL @ BOS | draftkings | 6.99 | 6.41 | 4.93 | 20.3% | 15.6% | 15.6% | +9.1% | +41.9% | 0.4% |
 | Tari Eason REB over 11.5 (12+) | HOU @ WAS | draftkings | 15.20 | 14.20 | 7.75 | 12.9% | 6.2% | 7.0% | +7.0% | +96.1% | 0.1% |
-| UTA to win | SAS @ UTA | betfair_ex_au | 10.02 | 9.41 | 7.36 | 13.6% | 10.6% | 10.6% | +6.5% | +36.2% | 0.2% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
@@ -58,7 +58,7 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | LAL @ PHX | Mon 16 Nov 08:00 | 112.2–112.1 | LAL 50% | 2.00 / 2.00 | PHX +0.5 | 224.5 | PHX +3.5 covers 59%; o226.5 45% |
 | CHA @ LAC | Mon 16 Nov 08:30 | 108.7–111.0 | CHA 44% | 2.29 / 1.77 | LAC -2.5 | 219.5 | LAC +1.5 covers 59%; o213.5 63% |
-| SAS @ UTA | Mon 16 Nov 09:00 | 122.2–106.7 | SAS 86% | 1.16 / 7.33 | UTA +15.5 | 228.5 | UTA +16.5 covers 53%; o224.5 60% |
+| SAS @ UTA | Mon 16 Nov 09:00 | 122.2–106.7 | SAS 86% | 1.16 / 7.33 | UTA +15.5 | 228.5 | UTA +15.5 covers 50%; o224.5 60% |
 | DAL @ BOS | Mon 16 Nov 10:00 | 105.7–119.7 | DAL 16% | 6.37 / 1.19 | BOS -13.5 | 225.5 | BOS -14.5 covers 48%; o218.5 65% |
 | NYK @ TOR | Mon 16 Nov 10:00 | 114.3–107.9 | NYK 67% | 1.48 / 3.07 | TOR +6.5 | 221.5 | TOR +5.5 covers 48%; o217.5 59% |
 | HOU @ WAS | Mon 16 Nov 11:00 | 120.2–109.4 | HOU 78% | 1.28 / 4.52 | WAS +10.5 | 229.5 | WAS +8.5 covers 43%; o224.5 61% |
@@ -108,9 +108,9 @@ Out: Mark Williams (PHX), Austin Reaves (LAL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Devin Booker | 98% | 34.5<br><sub>34,39,29,29,35</sub> | 24.4<br><sub>30,24,32,17,30</sub> | 24.5 · –<br><sub>o 49% · u 51%</sub> | 3.4<br><sub>1,2,2,3,1</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 5.9<br><sub>8,3,4,5,7</sub> | 5.5<br><sub>o 44% · u 56%</sub> | 2.3<br><sub>4,2,3,2,4</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 0.9 | 0.2 | 3.1 | 33.8 |
-| Dillon Brooks | 98% | 30.4<br><sub>29,37,26,22,30</sub> | 16.4<br><sub>24,11,7,8,15</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 3.8<br><sub>1,4,4,4,3</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.9<br><sub>1,1,0,2,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 2.1<br><sub>4,3,1,0,3</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 0.9 | 0.2 | 1.5 | 22.0 |
-| Miles Bridges | 98% | 28.2<br><sub>31,31,26,18,25</sub> | 13.3<br><sub>18,13,7,8,11</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 5.8<br><sub>13,10,5,4,6</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>5,7,0,2,3</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 1.6<br><sub>3,1,0,2,0</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.8 | 0.4 | 1.3 | 22.0 |
+| Devin Booker | 98% | 34.5<br><sub>34,39,29,29,35</sub> | 24.4<br><sub>30,24,32,17,30</sub> | 24.5 · –<br><sub>o 49% · u 51%</sub> | 3.4<br><sub>1,2,2,3,1</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 5.9<br><sub>8,3,4,5,7</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 2.3<br><sub>4,2,3,2,4</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 0.9 | 0.2 | 3.1 | 33.8 |
+| Dillon Brooks | 98% | 30.4<br><sub>29,37,26,22,30</sub> | 16.4<br><sub>24,11,7,8,15</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 3.8<br><sub>1,4,4,4,3</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.9<br><sub>1,1,0,2,1</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 2.1<br><sub>4,3,1,0,3</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 0.9 | 0.2 | 1.5 | 22.0 |
+| Miles Bridges | 98% | 28.2<br><sub>31,31,26,18,25</sub> | 13.3<br><sub>18,13,7,8,11</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 5.8<br><sub>13,10,5,4,6</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>5,7,0,2,3</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 1.6<br><sub>3,1,0,2,0</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.8 | 0.4 | 1.3 | 22.0 |
 | Jalen Green | 98% | 26.4<br><sub>24,34,24,21,21</sub> | 14.0<br><sub>6,16,6,13,12</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 3.5<br><sub>0,3,5,5,4</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 2.9<br><sub>3,6,4,1,0</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.7<br><sub>0,0,0,3,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 0.9 | 0.3 | 2.3 | 20.5 |
 | Oso Ighodaro | 98% | 24.2<br><sub>24,23,18,20,32</sub> | 6.5<br><sub>2,4,7,6,2</sub> | 6.5 · –<br><sub>o 46% · u 54%</sub> | 5.6<br><sub>5,6,4,8,3</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 3.1<br><sub>1,3,2,2,7</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.9 | 0.7 | 1.4 | 15.3 |
 | Collin Gillespie | 98% | 23.9<br><sub>24,20,24,22,27</sub> | 9.2<br><sub>6,7,6,12,13</sub> | 8.5 · –<br><sub>o 52% · u 48%</sub> | 2.9<br><sub>2,3,2,2,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 3.7<br><sub>2,4,3,8,1</sub> | 3.5<br><sub>o 47% · u 53%</sub> | 1.7<br><sub>2,1,2,4,3</sub> | 2.5<br><sub>o 40% · u 60%</sub> | 1.3 | 0.2 | 1.2 | 15.8 |
@@ -145,9 +145,9 @@ Out: Mark Williams (PHX), Austin Reaves (LAL)
 | Kevon Looney (LAL) | 43% | 7.8<br><sub>-,-,-,-,4</sub> | 1.6<br><sub>-,-,-,-,0</sub> |  | 2.9<br><sub>-,-,-,-,2</sub> |  | 0.5<br><sub>-,-,-,-,0</sub> |  | 0.0<br><sub>-,-,-,-,0</sub> |  | 0.3 | 0.2 | 0.3 | 5.0 |
 | Carson Cooper (LAL) | 38% | 7.2<br><sub>-,-,-,-,-</sub> | 2.8<br><sub>-,-,-,-,-</sub> |  | 3.6<br><sub>-,-,-,-,-</sub> |  | 1.0<br><sub>-,-,-,-,-</sub> |  | 0.0<br><sub>-,-,-,-,-</sub> |  | 0.2 | 0.3 | 1.4 | 7.5 |
 | Chris Manon (LAL) | 58% | 6.8<br><sub>-,-,-,-,-</sub> | 1.8<br><sub>-,-,-,-,-</sub> |  | 1.3<br><sub>-,-,-,-,-</sub> |  | 0.4<br><sub>-,-,-,-,-</sub> |  | 0.1<br><sub>-,-,-,-,-</sub> |  | 0.3 | 0.1 | 0.3 | 3.4 |
-| Devin Booker (PHX) | 98% | 34.5<br><sub>34,39,29,29,35</sub> | 24.4<br><sub>30,24,32,17,30</sub> | 24.5 · –<br><sub>o 49% · u 51%</sub> | 3.4<br><sub>1,2,2,3,1</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 5.9<br><sub>8,3,4,5,7</sub> | 5.5<br><sub>o 44% · u 56%</sub> | 2.3<br><sub>4,2,3,2,4</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.0 | 0.2 | 3.1 | 33.6 |
-| Dillon Brooks (PHX) | 98% | 30.4<br><sub>29,37,26,22,30</sub> | 16.4<br><sub>24,11,7,8,15</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 3.8<br><sub>1,4,4,4,3</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.9<br><sub>1,1,0,2,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 2.1<br><sub>4,3,1,0,3</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 0.9 | 0.2 | 1.5 | 22.1 |
-| Miles Bridges (PHX) | 98% | 28.1<br><sub>31,31,26,18,25</sub> | 13.3<br><sub>18,13,7,8,11</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 5.8<br><sub>13,10,5,4,6</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>5,7,0,2,3</sub> | 2.5<br><sub>o 48% · u 52%</sub> | 1.6<br><sub>3,1,0,2,0</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.8 | 0.4 | 1.3 | 21.9 |
+| Devin Booker (PHX) | 98% | 34.5<br><sub>34,39,29,29,35</sub> | 24.4<br><sub>30,24,32,17,30</sub> | 24.5 · –<br><sub>o 49% · u 51%</sub> | 3.4<br><sub>1,2,2,3,1</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 5.9<br><sub>8,3,4,5,7</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 2.3<br><sub>4,2,3,2,4</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.0 | 0.2 | 3.1 | 33.6 |
+| Dillon Brooks (PHX) | 98% | 30.4<br><sub>29,37,26,22,30</sub> | 16.4<br><sub>24,11,7,8,15</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 3.8<br><sub>1,4,4,4,3</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.9<br><sub>1,1,0,2,1</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 2.1<br><sub>4,3,1,0,3</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 0.9 | 0.2 | 1.5 | 22.1 |
+| Miles Bridges (PHX) | 98% | 28.1<br><sub>31,31,26,18,25</sub> | 13.3<br><sub>18,13,7,8,11</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 5.8<br><sub>13,10,5,4,6</sub> | 5.5<br><sub>o 53% · u 47%</sub> | 2.8<br><sub>5,7,0,2,3</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 1.6<br><sub>3,1,0,2,0</sub> | 1.5<br><sub>o 50% · u 50%</sub> | 0.8 | 0.4 | 1.3 | 21.9 |
 | Jalen Green (PHX) | 98% | 26.4<br><sub>24,34,24,21,21</sub> | 14.0<br><sub>6,16,6,13,12</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 3.5<br><sub>0,3,5,5,4</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 2.9<br><sub>3,6,4,1,0</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.6<br><sub>0,0,0,3,1</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 0.9 | 0.3 | 2.3 | 20.5 |
 | Oso Ighodaro (PHX) | 98% | 24.3<br><sub>24,23,18,20,32</sub> | 6.5<br><sub>2,4,7,6,2</sub> | 6.5 · –<br><sub>o 46% · u 54%</sub> | 5.6<br><sub>5,6,4,8,3</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 3.1<br><sub>1,3,2,2,7</sub> | 2.5<br><sub>o 55% · u 45%</sub> | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.9 | 0.7 | 1.4 | 15.2 |
 | Collin Gillespie (PHX) | 98% | 23.9<br><sub>24,20,24,22,27</sub> | 9.2<br><sub>6,7,6,12,13</sub> | 8.5 · –<br><sub>o 52% · u 48%</sub> | 2.9<br><sub>2,3,2,2,2</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 3.7<br><sub>2,4,3,8,1</sub> | 3.5<br><sub>o 47% · u 53%</sub> | 1.7<br><sub>2,1,2,4,3</sub> | 2.5<br><sub>o 40% · u 60%</sub> | 1.3 | 0.2 | 1.2 | 15.8 |
@@ -225,9 +225,9 @@ Out: Trey Alexander (UTA), Jaxson Hayes (UTA), Jaren Jackson Jr. (UTA), Lauri Ma
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 122.2–106.7 | SAS 86% | 1.16 / 7.33 | UTA +15.5 | 228.5 | UTA +16.5 covers 53%; o224.5 60% |
-| Expected (weighted by chance each plays) | 122.4–107.0 | SAS 86% | 1.16 / 7.36 | UTA +15.5 | 229.5 | UTA +16.5 covers 53%; o224.5 61% |
-| if De'Aaron Fox plays | 122.7–107.2 | SAS 86% | 1.16 / 7.41 | UTA +15.5 | 229.5 | UTA +16.5 covers 53%; o224.5 61% |
+| Confirmed players only | 122.2–106.7 | SAS 86% | 1.16 / 7.33 | UTA +15.5 | 228.5 | UTA +15.5 covers 50%; o224.5 60% |
+| Expected (weighted by chance each plays) | 122.4–107.0 | SAS 86% | 1.16 / 7.36 | UTA +15.5 | 229.5 | UTA +15.5 covers 50%; o224.5 61% |
+| if De'Aaron Fox plays | 122.7–107.2 | SAS 86% | 1.16 / 7.41 | UTA +15.5 | 229.5 | UTA +15.5 covers 50%; o224.5 61% |
 
 **Questionable players: chance to play, and their projection if they do**
 

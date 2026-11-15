@@ -1,28 +1,29 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4741,2.11,2.21,1.99,-0.0561,1.017,1.85-2.10
+LAL @ PHX,PHX +2.5 + Devin Booker 4+ ast,2,0.4244,0.3837,2.61,2.74,2.46,-0.0553,1.031,2.10-2.50
 LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.5036,1.99,2.08,1.87,-0.0577,1.012,1.85-2.10
 LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.3991,2.51,2.63,2.35,-0.0615,1.001,2.10-2.50
 LAL @ PHX,LAL win + Jake LaRavia 5+ pr,2,0.529,0.5294,1.89,1.98,1.77,-0.0641,1.007,1.65-1.85
 LAL @ PHX,LAL win + Walker Kessler 15+ pr,2,0.5195,0.522,1.92,2.01,1.79,-0.0651,1.007,1.65-1.85
 LAL @ PHX,Quentin Grimes pts under 12.5 + Devin Booker 1+ 3pm,2,0.6379,0.4397,2.27,2.39,2.12,-0.0663,1.0,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 12.5 + Dillon Brooks 1+ 3pm,2,0.6274,0.4292,2.33,2.45,2.17,-0.0665,0.998,2.10-2.50
 LAL @ PHX,Quentin Grimes pts under 12.5 + Walker Kessler 6+ reb,2,0.6865,0.4751,2.1,2.21,1.96,-0.0672,1.0,1.85-2.10
 LAL @ PHX,LAL win + Walker Kessler 15+ pra,2,0.5312,0.5343,1.87,1.97,1.74,-0.0678,1.004,1.65-1.85
+LAL @ PHX,Quentin Grimes pts under 12.5 + Matisse Thybulle 5+ pr,2,0.6498,0.4435,2.25,2.37,2.1,-0.069,0.995,1.85-2.10
+LAL @ PHX,Luka Doncic 1+ stl + Devin Booker 4+ ast,2,0.6664,0.5686,1.76,1.85,1.57,-0.1054,0.999,1.50-1.65
 CHA @ LAC,CHA win + Naz Reid 10+ pa,2,0.4036,0.4561,2.19,2.3,2.08,-0.0515,1.019,1.85-2.10
 CHA @ LAC,CHA win + Ryan Kalkbrenner 5+ pr,2,0.3837,0.4199,2.38,2.5,2.25,-0.0562,1.008,2.10-2.50
 CHA @ LAC,game over 214.5 + Ryan Kalkbrenner 5+ pr,2,0.5583,0.4216,2.37,2.49,2.22,-0.0657,1.016,2.10-2.50
 CHA @ LAC,CHA -1.5 + Naz Reid 10+ pa,2,0.3757,0.4439,2.25,2.37,2.1,-0.0677,1.022,1.85-2.10
 CHA @ LAC,LAC win + Max Strus 5+ pa,2,0.5281,0.4414,2.27,2.38,2.1,-0.071,1.012,2.10-2.50
 CHA @ LAC,game over 214.5 + Naz Reid 10+ pa,2,0.581,0.4531,2.21,2.32,2.05,-0.0712,1.015,1.85-2.10
-SAS @ UTA,SAS win + Darryn Peterson pa under 22.5,2,0.5462,0.4577,2.18,2.29,2.13,-0.0259,1.027,2.10-2.50
-SAS @ UTA,SAS win + Darryn Peterson pts under 18.5,2,0.5469,0.463,2.16,2.27,2.09,-0.0321,1.023,1.85-2.10
-SAS @ UTA,SAS win + Darryn Peterson pra under 27.5,2,0.5499,0.476,2.1,2.21,2.03,-0.0333,1.026,1.85-2.10
-SAS @ UTA,SAS win + Darryn Peterson pr under 22.5,2,0.513,0.4525,2.21,2.32,2.13,-0.037,1.025,2.10-2.50
-SAS @ UTA,game under 226.5 + SAS win,2,0.3776,0.4564,2.19,2.3,2.11,-0.0375,1.0,2.10-2.50
-SAS @ UTA,SAS win + Devin Vassell 6+ ra,2,0.5674,0.5165,1.94,2.03,1.83,-0.0573,1.007,1.65-1.85
-SAS @ UTA,SAS win + Victor Wembanyama 3+ ast,2,0.5304,0.4772,2.1,2.2,1.97,-0.0594,1.007,1.85-2.10
-SAS @ UTA,SAS win + Josh Okogie 3+ reb,2,0.6,0.535,1.87,1.96,1.75,-0.0634,0.998,1.65-1.85
-SAS @ UTA,SAS win + Julian Champagnie 3pm under 2.5,2,0.5885,0.5168,1.94,2.03,1.79,-0.0737,0.985,1.65-1.85
+SAS @ UTA,SAS win + Darryn Peterson pa under 22.5,2,0.5462,0.4549,2.2,2.31,2.13,-0.0319,1.027,2.10-2.50
+SAS @ UTA,SAS win + Darryn Peterson pts under 18.5,2,0.5469,0.4602,2.17,2.28,2.09,-0.0381,1.023,1.85-2.10
+SAS @ UTA,SAS win + Darryn Peterson pra under 27.5,2,0.5499,0.4731,2.11,2.22,2.03,-0.0392,1.026,1.85-2.10
+SAS @ UTA,SAS win + Darryn Peterson pr under 22.5,2,0.513,0.4497,2.22,2.33,2.13,-0.0429,1.025,2.10-2.50
+SAS @ UTA,game under 226.5 + SAS win,2,0.3776,0.4536,2.2,2.31,2.11,-0.0434,1.0,2.10-2.50
+SAS @ UTA,SAS win + Devin Vassell 6+ ra,2,0.5674,0.5134,1.95,2.05,1.83,-0.0631,1.007,1.65-1.85
+SAS @ UTA,SAS -16.5 + Devin Vassell 10+ pra,2,0.4461,0.4518,2.21,2.32,2.06,-0.0684,1.008,1.85-2.10
+SAS @ UTA,SAS win + Josh Okogie 3+ reb,2,0.6,0.5317,1.88,1.97,1.75,-0.0691,0.998,1.65-1.85
+SAS @ UTA,SAS win + Julian Champagnie 3pm under 2.5,2,0.5885,0.5136,1.95,2.04,1.79,-0.0794,0.985,1.65-1.85
 SAS @ UTA,Devin Vassell 10+ pa + Julian Champagnie 10+ pr,2,0.6678,0.5905,1.69,1.78,1.51,-0.1055,1.004,1.50-1.65
 SAS @ UTA,Devin Vassell 10+ pa + Stephon Castle 4+ ast,2,0.6649,0.587,1.7,1.79,1.52,-0.1056,1.004,1.50-1.65
 SAS @ UTA,Stephon Castle 4+ ast + Julian Champagnie 10+ pr,2,0.6523,0.5819,1.72,1.8,1.53,-0.1075,1.004,1.50-1.65
@@ -65,12 +66,12 @@ ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.3782,0.409,2.44,2.57,2.35,-0.
 ATL @ MIL,game over 233.5 + Jaime Jaquez Jr. 15+ pra,2,0.4028,0.449,2.23,2.34,2.1,-0.0592,1.026,1.85-2.10
 ATL @ MIL,game over 233.5 + Onyeka Okongwu 15+ pra,2,0.4032,0.448,2.23,2.34,2.1,-0.0613,1.023,1.85-2.10
 ATL @ MIL,game over 233.5 + Dyson Daniels 10+ pr,2,0.4035,0.4503,2.22,2.33,2.07,-0.0658,1.019,1.85-2.10
-ATL @ MIL,ATL win + Onyeka Okongwu 1+ 3pm,2,0.6018,0.564,1.77,1.86,1.63,-0.0791,1.005,1.50-1.65
+ATL @ MIL,ATL win + Onyeka Okongwu 15+ pr,2,0.6402,0.5933,1.69,1.77,1.56,-0.0734,1.01,1.50-1.65
 ATL @ MIL,ATL win + Aaron Wiggins 1+ 3pm,2,0.6558,0.6121,1.63,1.72,1.5,-0.0798,1.004,1.50-1.65
+ATL @ MIL,Brayden Burries pr under 17.5 + Onyeka Okongwu 10+ pr,2,0.655,0.4997,2.0,2.1,1.83,-0.087,0.998,1.65-1.85
 ATL @ MIL,ATL win + Kyle Kuzma 10+ pa,2,0.6385,0.5729,1.75,1.83,1.59,-0.0887,0.988,1.50-1.65
 ATL @ MIL,Nickeil Alexander-Walker 3+ ast + Onyeka Okongwu 15+ pra,2,0.6044,0.5075,1.97,2.07,1.79,-0.0929,1.005,1.65-1.85
 ATL @ MIL,Nickeil Alexander-Walker 3+ ast + Kyle Kuzma 10+ pr,2,0.6032,0.5032,1.99,2.09,1.8,-0.095,1.001,1.65-1.85
-ATL @ MIL,Nickeil Alexander-Walker 3+ ast + Dyson Daniels 10+ pr,2,0.6052,0.5103,1.96,2.06,1.77,-0.0967,1.001,1.65-1.85
 OKC @ SAC,OKC win + Darius Acuff Jr. pa under 30.5,2,0.4789,0.4176,2.39,2.51,2.32,-0.0316,1.053,2.10-2.50
 OKC @ SAC,Darius Acuff Jr. pts under 23.5 + OKC win,2,0.4952,0.4084,2.45,2.57,2.37,-0.0319,1.042,2.10-2.50
 OKC @ SAC,Darius Acuff Jr. pr under 27.5 + OKC win,2,0.4947,0.4173,2.4,2.52,2.31,-0.0366,1.041,2.10-2.50
