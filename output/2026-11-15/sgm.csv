@@ -7,12 +7,12 @@ LAL @ PHX,Quentin Grimes pts under 12.5 + Dillon Brooks 10+ pr,2,0.6743,0.486,2.
 LAL @ PHX,Devin Booker pts under 24.5 + Walker Kessler 6+ reb,2,0.5272,0.4558,2.19,2.3,2.09,-0.047,0.998,1.85-2.10
 LAL @ PHX,LAL win + Dillon Brooks 10+ pr,2,0.506,0.5176,1.93,2.03,1.77,-0.0815,0.99,1.65-1.85
 LAL @ PHX,LAL win + Oso Ighodaro 5+ pa,2,0.4908,0.4972,2.01,2.11,1.84,-0.0843,0.986,1.65-1.85
-CHA @ LAC,CHA win + Ryan Kalkbrenner 5+ pr,2,0.3943,0.4181,2.39,2.51,2.26,-0.0536,1.01,2.10-2.50
-CHA @ LAC,CHA win + Sion James 5+ pr,2,0.4159,0.4399,2.27,2.39,2.15,-0.0537,1.01,2.10-2.50
+CHA @ LAC,Moussa Diabate pts under 8.5 + Sion James 5+ pr,2,0.5233,0.4486,2.23,2.34,2.17,-0.0255,0.999,2.10-2.50
+CHA @ LAC,Moussa Diabate pts under 8.5 + Max Strus 5+ pa,2,0.5062,0.4507,2.22,2.33,2.16,-0.0271,1.004,2.10-2.50
+CHA @ LAC,Moussa Diabate pts under 8.5 + Ryan Kalkbrenner 5+ pr,2,0.4936,0.4242,2.36,2.48,2.29,-0.0305,0.995,2.10-2.50
+CHA @ LAC,Moussa Diabate pts under 8.5 + Grayson Allen 1+ 3pm,2,0.5188,0.4638,2.16,2.26,2.08,-0.0353,0.996,1.85-2.10
 CHA @ LAC,CHA win + Grayson Allen 1+ 3pm,2,0.4128,0.4554,2.2,2.31,2.06,-0.062,1.008,1.85-2.10
-CHA @ LAC,game over 213.5 + Ryan Kalkbrenner 5+ pr,2,0.5665,0.4193,2.39,2.5,2.23,-0.0645,1.013,2.10-2.50
-CHA @ LAC,game over 213.5 + Kris Dunn 5+ pa,2,0.5793,0.4459,2.24,2.35,2.1,-0.0653,1.018,1.85-2.10
-CHA @ LAC,LAC win + Kris Dunn 5+ pa,2,0.5214,0.4452,2.25,2.36,2.1,-0.0669,1.017,1.85-2.10
+CHA @ LAC,Derrick Jones Jr. pts under 10.5 + Sion James 5+ pr,2,0.5368,0.4535,2.21,2.32,2.06,-0.0636,1.0,1.85-2.10
 SAS @ UTA,SAS win + Darryn Peterson pa under 22.5,2,0.5521,0.4797,2.08,2.19,2.01,-0.036,1.03,1.85-2.10
 SAS @ UTA,game under 226.5 + SAS win,2,0.3902,0.4562,2.19,2.3,2.11,-0.0369,1.006,2.10-2.50
 SAS @ UTA,SAS win + Darryn Peterson pra under 26.5,2,0.5165,0.4607,2.17,2.28,2.08,-0.0402,1.03,1.85-2.10
@@ -33,8 +33,8 @@ DAL @ BOS,Morez Johnson Jr. reb under 4.5 + Neemias Queta 5+ pa,2,0.696,0.4573,2
 DAL @ BOS,BOS win + Zaccharie Risacher 3pm under 1.5,2,0.6285,0.5586,1.79,1.88,1.69,-0.0558,1.009,1.65-1.85
 DAL @ BOS,BOS win + Neemias Queta 9+ ra,2,0.5074,0.4736,2.11,2.22,1.97,-0.0674,1.004,1.85-2.10
 DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7278,0.5785,1.73,1.82,1.57,-0.0931,1.0,1.50-1.65
-DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Cooper Flagg 4+ reb,2,0.6866,0.5432,1.84,1.93,1.67,-0.0938,0.998,1.65-1.85
 DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 4+ reb,2,0.7181,0.5789,1.73,1.81,1.57,-0.094,1.001,1.50-1.65
+DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Cooper Flagg 4+ reb,2,0.6866,0.5454,1.83,1.93,1.66,-0.0944,0.998,1.65-1.85
 DAL @ BOS,Zaccharie Risacher 3pm under 1.5 + Neemias Queta 10+ pra,2,0.7345,0.5913,1.69,1.78,1.53,-0.0947,1.0,1.50-1.65
 DAL @ BOS,Neemias Queta 9+ ra + Jayson Tatum 4+ reb,2,0.5912,0.4936,2.03,2.13,1.83,-0.0986,1.001,1.65-1.85
 NYK @ TOR,NYK win + Ja'Kobe Walter 3pm under 2.5,2,0.4889,0.3856,2.59,2.72,2.5,-0.0373,1.027,2.10-2.50
