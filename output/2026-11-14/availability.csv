@@ -35,8 +35,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909982,DET,1641709,Ausar Thompson,Starting,,1.0,,,1.0
 401909983,MEM,905041935,Cameron Boozer,Starting,,1.0,,,1.0
 401909983,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
-401909983,MEM,1641744,Zach Edey,Out,,0.0,Edey (ankle) is listed as questionable for Saturday's game against Brooklyn.,,
-401909983,MEM,203924,Jerami Grant,Out,Injury/Illness-HeadInjury,0.0,Grant (head) is questionable for Saturday's game against the Nets.,,
+401909983,MEM,1641744,Zach Edey,Out,,0.0,Edey (ankle) is listed as out for Saturday's game against the Nets.,,
+401909983,MEM,203924,Jerami Grant,Out,Injury/Illness-HeadInjury,0.0,Grant (head) is out for Saturday's game against the Nets.,,
 401909983,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401909983,MEM,1641713,GG Jackson,,,1.0,,,
 401909983,MEM,1629660,Ty Jerome,Out,Injury/Illness-RightHipSoreness,0.0,Jerome (hip) has been ruled out for Saturday's game against the Nets.,,

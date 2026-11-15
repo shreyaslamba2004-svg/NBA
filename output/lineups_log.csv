@@ -1393,3 +1393,6 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-15T00:58Z,DET@MIA,1,False,espn
 2026-11-15T00:58Z,BKN@MEM,1,False,espn
 2026-11-15T00:58Z,CHI@MIN,1,False,espn
+2026-11-15T01:03Z,DET@MIA,-4,False,espn
+2026-11-15T01:03Z,BKN@MEM,-4,False,espn
+2026-11-15T01:03Z,CHI@MIN,-4,False,espn
