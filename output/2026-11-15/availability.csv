@@ -2,13 +2,13 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909987,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909987,LAC,1642353,Cam Christie,,,1.0,,,
 401909987,LAC,1641711,Gradey Dick,,,1.0,,,
-401909987,LAC,1627739,Kris Dunn,Starting,,1.0,,,1.0
-401909987,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
-401909987,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
+401909987,LAC,1627739,Kris Dunn,,,1.0,,,
+401909987,LAC,1629636,Darius Garland,,,1.0,,,
+401909987,LAC,1629060,Rui Hachimura,,,1.0,,,
 401909987,LAC,1627742,Brandon Ingram,Out,Injury/Illness-RightHeelSurgery,0.0,"Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",,
 401909987,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401909987,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
-401909987,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
+401909987,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
+401909987,LAC,201572,Brook Lopez,,,1.0,,,
 401909987,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401909987,LAC,1641757,Baba Miller,,,1.0,,,
 401909987,LAC,905108024,Yanic Konan Niederhauser,Out,Injury/Illness-RightLisfrancSurgery,0.0,"Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",,
@@ -21,29 +21,29 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909987,CHA,1628960,Grayson Allen,,,1.0,,,
 401909987,CHA,905060701,Christian Anderson,,,1.0,,,
 401909987,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
-401909987,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
+401909987,CHA,1631217,Moussa Diabate,,,1.0,,,
 401909987,CHA,1641790,PJ Hall,,,1.0,,,
-401909987,CHA,1642883,Sion James,Starting,,1.0,,,1.0
+401909987,CHA,1642883,Sion James,,,1.0,,,
 401909987,CHA,1641750,Ryan Kalkbrenner,,,1.0,,,
 401909987,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.,,
 401909987,CHA,1642862,Liam McNeeley,,,1.0,,,
-401909987,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
+401909987,CHA,1641706,Brandon Miller,,,1.0,,,
 401909987,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909987,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
+401909987,CHA,1629675,Naz Reid,,,1.0,,,
 401909987,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401909987,CHA,203471,Dennis Schroder,Out,Injury/Illness-LeftHamstringStrain,0.0,"Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",,
 401909987,CHA,905281370,Hannes Steinbach,Out,GLeague-OnAssignment,0.0,,,
-401909987,CHA,1629632,Coby White,Starting,,1.0,,,1.0
+401909987,CHA,1629632,Coby White,,,1.0,,,
 401909987,CHA,1629684,Grant Williams,,,1.0,,,
 401909988,UTA,1641725,Trey Alexander,Out,GLeague-Two-Way,0.0,Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.,,
-401909988,UTA,1642846,Ace Bailey,,,1.0,,,
-401909988,UTA,1628964,Mo Bamba,,,1.0,,,
+401909988,UTA,1642846,Ace Bailey,Starting,,1.0,,,1.0
+401909988,UTA,1628964,Mo Bamba,Starting,,1.0,,,1.0
 401909988,UTA,1628396,Tony Bradley,,,1.0,,,
 401909988,UTA,1641723,Kobe Bufkin,Out,GLeague-Two-Way,0.0,,,
 401909988,UTA,1642268,Isaiah Collier,,,1.0,,,
 401909988,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401909988,UTA,1641718,Keyonte George,,,1.0,,,
-401909988,UTA,1630182,Josh Green,,,1.0,,,
+401909988,UTA,1641718,Keyonte George,Starting,,1.0,,,1.0
+401909988,UTA,1630182,Josh Green,Starting,,1.0,,,1.0
 401909988,UTA,1629637,Jaxson Hayes,Out,Injury/Illness-LeftKneeStrain,0.0,Hayes (knee) has been ruled out for Sunday's game against the Spurs.,,
 401909988,UTA,904433618,Harrison Ingram,Out,GLeague-Two-Way,0.0,,,
 401909988,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
@@ -51,16 +51,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909988,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
 401909988,UTA,203994,Jusuf Nurkic,Out,,0.0,"Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",,
 401909988,UTA,1629006,Josh Okogie,,,1.0,,,
-401909988,UTA,905041955,Darryn Peterson,,,1.0,,,
+401909988,UTA,905041955,Darryn Peterson,Starting,,1.0,,,1.0
 401909988,UTA,1641729,Brice Sensabaugh,,,1.0,,,
 401909988,SAS,203084,Harrison Barnes,,,1.0,,,
 401909988,SAS,905105337,Maliq Brown,Out,GLeague-Two-Way,0.0,,,
 401909988,SAS,1642868,Carter Bryant,,,1.0,,,
-401909988,SAS,1642264,Stephon Castle,,,1.0,,,
-401909988,SAS,1630577,Julian Champagnie,,,1.0,,,
+401909988,SAS,1642264,Stephon Castle,Starting,,1.0,,,1.0
+401909988,SAS,1630577,Julian Champagnie,Starting,,1.0,,,1.0
 401909988,SAS,1628368,De'Aaron Fox,Out,Injury/Illness-LeftHipTightness,0.0,Fox (hip) has been ruled out for Sunday's game against the Jazz.,,
 401909988,SAS,905107968,Ja'Kobi Gillespie,Out,GLeague-Two-Way,0.0,,,
-401909988,SAS,1642844,Dylan Harper,,,1.0,,,
+401909988,SAS,1642844,Dylan Harper,Starting,,1.0,,,1.0
 401909988,SAS,202699,Tobias Harris,Out,Injury/Illness-LeftCalfStrain,0.0,"Harris (calf) is out for Wednesday's game against Chicago, Jared Weiss of The Athletic reports.",,
 401909988,SAS,1629640,Keldon Johnson,,,1.0,,,
 401909988,SAS,1642357,David Jones Garcia,,,1.0,,,
@@ -68,8 +68,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909988,SAS,1629162,Jordan McLaughlin,,,1.0,,,
 401909988,SAS,905101845,Jayden Quaintance,Out,Injury/Illness-RightKneeSurgery,0.0,"Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",,
 401909988,SAS,905105809,Tarris Reed Jr.,,,1.0,,,
-401909988,SAS,1630170,Devin Vassell,,,1.0,,,
-401909988,SAS,1641705,Victor Wembanyama,,,1.0,,,
+401909988,SAS,1630170,Devin Vassell,Starting,,1.0,,,1.0
+401909988,SAS,1641705,Victor Wembanyama,Starting,,1.0,,,1.0
 401909989,BOS,1642269,Devin Carter,Questionable,GLeague-Two-Way,0.55,,,
 401909989,BOS,905142621,Chris Cenac Jr.,Active,,1.0,,,
 401909989,BOS,201144,Mike Conley,Active,,1.0,,,
@@ -89,14 +89,14 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909989,BOS,1642873,Amari Williams,Questionable,GLeague-Two-Way,0.55,,,
 401909989,DAL,1630583,Santi Aldama,Questionable,Injury/Illness-LeftAnkleSprain,0.55,Aldama (ankle) is listed as questionable for Sunday's game in Boston.,,
 401909989,DAL,905148538,Tarik Biberovic,Out,Injury/Illness-RightHeelBursitis,0.0,Biberovic (heel) is out for Thursday's game against Minnesota.,,
-401909989,DAL,1631108,Max Christie,Out,Injury/Illness-LeftAnkleSprain,0.0,Christie (ankle) is doubtful to play Sunday's game against the Celtics.,,
+401909989,DAL,1631108,Max Christie,Out,Injury/Illness-LeftAnkleSprain,0.0,Christie (ankle) has been ruled out for Sunday's game against the Celtics.,,
 401909989,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909989,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909989,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) has been ruled out for Thursday's game at Minnesota.,0.0,De Larrea (knee) has been ruled out for Thursday's game at Minnesota.,,
 401909989,DAL,1642843,Cooper Flagg,,,1.0,,,
 401909989,DAL,1629655,Daniel Gafford,Probable,Injury/Illness-RightShoulderStinger,0.93,Gafford (shoulder) is probable to play in Sunday's game against the Celtics.,,
 401909989,DAL,1641724,Jett Howard,,,1.0,,,
-401909989,DAL,202681,Kyrie Irving,Out,,0.0,Irving (knee) is questionable to play in Sunday's game against the Celtics.,,
+401909989,DAL,202681,Kyrie Irving,Out,,0.0,Irving (knee) has been ruled out for Sunday's game against the Celtics.,,
 401909989,DAL,1642358,Morez Johnson Jr.,,,1.0,,,
 401909989,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909989,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is listed as out for Thursday's game in Minnesota.,,
