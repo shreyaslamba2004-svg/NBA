@@ -70,7 +70,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909989,DAL,1631204,Marcus Sasser,,,1.0,,,
 401909989,DAL,1629023,P.J. Washington,,,1.0,,,
 401909990,TOR,203937,Kyle Anderson,,,1.0,,,
-401909990,TOR,1630567,Scottie Barnes,Probable,Injury/Illness-LeftGroinStrain,0.93,"Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports.",,
+401909990,TOR,1630567,Scottie Barnes,Available,Injury/Illness-LeftGroinStrain,1.0,"Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports.",,
 401909990,TOR,1629628,RJ Barrett,,,1.0,,,
 401909990,TOR,1642419,Jamison Battle,,,1.0,,,
 401909990,TOR,904432586,Nate Bittle,Out,,0.0,"Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",,
