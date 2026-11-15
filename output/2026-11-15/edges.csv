@@ -14,9 +14,9 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909992,ATL @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,7.5,draftkings,1360.0,14.6,0.1338,7.47,0.064,0.064,0.0698,,0.9532,0.0732,0.069,0.0013,False,True,False,Ryan Rollins,0.1612,0.1149
 401909991,HOU @ WAS,prop_reb,over,Tari Eason,1631106.0,11.5,draftkings,1400.0,15.0,0.129,7.75,0.0623,0.0623,0.0667,,0.9351,0.0711,0.0667,0.0012,False,True,False,,,
 401909990,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,1480.0,15.8,0.1224,8.17,0.0592,0.0592,0.0632,,0.9333,0.0675,0.0664,0.0011,False,True,False,Scottie Barnes,0.0,0.1236
-401909988,SAS @ UTA,moneyline,UTA,,,,betfair_ex_au,902.5,10.02,0.1362,7.34,0.0985,0.1063,0.0299,1.3,0.3654,0.1063,0.0652,0.0018,False,True,True,,,
-401909988,SAS @ UTA,moneyline,UTA,,,,unibet,900.0,10.0,0.1362,7.34,0.095,0.1063,0.0299,5.24,0.362,0.1063,0.0625,0.0017,False,True,True,,,
-401909988,SAS @ UTA,moneyline,UTA,,,,tabtouch,900.0,10.0,0.1362,7.34,0.095,0.1063,0.0299,5.24,0.362,0.1063,0.0625,0.0017,False,True,True,,,
+401909988,SAS @ UTA,moneyline,UTA,,,,betfair_ex_au,902.5,10.02,0.1358,7.36,0.0985,0.1063,0.0296,1.3,0.3619,0.1063,0.0652,0.0018,False,True,True,,,
+401909988,SAS @ UTA,moneyline,UTA,,,,unibet,900.0,10.0,0.1358,7.36,0.095,0.1063,0.0296,5.24,0.3585,0.1063,0.0625,0.0017,False,True,True,,,
+401909988,SAS @ UTA,moneyline,UTA,,,,tabtouch,900.0,10.0,0.1358,7.36,0.095,0.1063,0.0296,5.24,0.3585,0.1063,0.0625,0.0017,False,True,True,,,
 401909990,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,2400.0,25.0,0.0759,13.17,0.0374,0.0374,0.0385,,0.8977,0.0425,0.0617,0.0006,False,False,False,Scottie Barnes,0.0,0.0752
 401909989,DAL @ BOS,moneyline,DAL,,,,sportsbet,580.0,6.8,0.203,4.93,0.1414,0.1561,0.0469,3.99,0.3804,0.1561,0.0616,0.0027,False,True,True,,,
 401909991,HOU @ WAS,prop_reb,over,Tari Eason,1631106.0,10.5,draftkings,890.0,9.9,0.1909,5.24,0.0944,0.0944,0.0965,,0.8896,0.1071,0.0606,0.0017,False,False,False,,,
@@ -41,7 +41,9 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909992,ATL @ MIL,prop_ast,over,Kyle Kuzma,1628398.0,5.5,draftkings,970.0,10.7,0.149,6.71,0.0873,0.0873,0.0617,,0.5945,0.0955,0.0217,0.0006,False,True,False,Ryan Rollins,0.1686,0.1274
 401909991,HOU @ WAS,prop_reb,over,Kevin Durant,201142.0,8.5,draftkings,650.0,7.5,0.2124,4.71,0.1246,0.1246,0.0878,,0.5929,0.1362,0.0215,0.0008,False,False,False,,,
 401909990,NYK @ TOR,prop_ast,over,Immanuel Quickley,1630193.0,8.5,draftkings,900.0,10.0,0.1592,6.28,0.0935,0.0935,0.0658,,0.5923,0.1021,0.0214,0.0006,False,False,False,Scottie Barnes,0.2163,0.1084
+401909988,SAS @ UTA,prop_ast,over,Stephon Castle,1642264.0,9.5,draftkings,1220.0,13.2,0.1199,8.34,0.0708,0.0708,0.0491,,0.5827,0.0773,0.0201,0.0004,False,True,False,De'Aaron Fox,0.1447,0.0971
 401909990,NYK @ TOR,prop_ast,over,Immanuel Quickley,1630193.0,10.5,draftkings,2400.0,25.0,0.0633,15.8,0.0374,0.0374,0.0259,,0.5819,0.0408,0.02,0.0002,False,False,False,Scottie Barnes,0.0912,0.035
+401909988,SAS @ UTA,prop_ast,over,Stephon Castle,1642264.0,10.5,draftkings,2000.0,21.0,0.0751,13.31,0.0445,0.0445,0.0306,,0.5774,0.0485,0.0194,0.0002,False,False,False,,,
 401909991,HOU @ WAS,prop_reb,over,Tari Eason,1631106.0,8.5,draftkings,328.0,4.28,0.3667,2.73,0.2184,0.2184,0.1484,,0.5697,0.2379,0.0184,0.0014,False,False,False,,,
 401909993,OKC @ SAC,moneyline,SAC,,,,betfair_ex_au,380.0,4.8,0.2153,4.65,0.2024,0.2119,0.0034,2.91,0.0334,0.2119,0.0172,0.0011,False,True,True,,,
 401909991,HOU @ WAS,prop_pra,over,Trae Young,1629027.0,39.5,draftkings,528.0,6.28,0.2482,4.03,0.1488,0.1488,0.0993,,0.5584,0.1619,0.0169,0.0008,False,True,False,Tre Johnson,0.3114,0.2639
@@ -49,12 +51,13 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909989,DAL @ BOS,moneyline,DAL,,,,betr_au,550.0,6.5,0.203,4.93,0.147,0.1561,0.0469,4.67,0.3195,0.1561,0.0148,0.0007,False,True,True,,,
 401909991,HOU @ WAS,prop_reb,over,Anthony Davis,203076.0,15.5,draftkings,810.0,9.1,0.1686,5.93,0.1027,0.1027,0.0659,,0.5345,0.1114,0.0138,0.0004,False,True,False,,,
 401909991,HOU @ WAS,prop_reb,over,Anthony Davis,203076.0,16.5,draftkings,1160.0,12.6,0.1218,8.21,0.0742,0.0742,0.0476,,0.5341,0.0805,0.0137,0.0003,False,False,False,,,
+401909988,SAS @ UTA,prop_ast,over,Stephon Castle,1642264.0,8.5,draftkings,710.0,8.1,0.1892,5.28,0.1154,0.1154,0.0739,,0.5328,0.1251,0.0135,0.0005,False,False,False,De'Aaron Fox,0.2218,0.1598
 401909991,HOU @ WAS,prop_reb,over,Tari Eason,1631106.0,13.5,draftkings,2900.0,30.0,0.0507,19.71,0.0312,0.0312,0.0196,,0.5219,0.0337,0.0121,0.0001,False,True,False,,,
 401909991,HOU @ WAS,prop_ast,over,Kevin Durant,201142.0,4.5,draftkings,146.0,2.46,0.6169,1.62,0.3799,0.3799,0.237,,0.5177,0.4112,0.0115,0.002,True,False,False,,,
 401909991,HOU @ WAS,prop_reb,over,Trae Young,1629027.0,5.5,draftkings,1180.0,12.8,0.1183,8.45,0.073,0.073,0.0453,,0.514,0.079,0.0111,0.0002,False,True,False,,,
 401909991,HOU @ WAS,prop_reb,over,Trae Young,1629027.0,4.5,draftkings,556.0,6.56,0.2301,4.35,0.1425,0.1425,0.0876,,0.5092,0.154,0.0104,0.0005,False,False,False,,,
-401909988,SAS @ UTA,moneyline,UTA,,,,pointsbetau,850.0,9.5,0.1362,7.34,0.1012,0.1063,0.0299,3.99,0.2939,0.1063,0.0094,0.0003,False,True,True,,,
-401909988,SAS @ UTA,moneyline,UTA,,,,sportsbet,850.0,9.5,0.1362,7.34,0.1012,0.1063,0.0299,3.99,0.2939,0.1063,0.0094,0.0003,False,True,True,,,
+401909988,SAS @ UTA,moneyline,UTA,,,,sportsbet,850.0,9.5,0.1358,7.36,0.1012,0.1063,0.0296,3.99,0.2906,0.1063,0.0094,0.0003,False,True,True,,,
+401909988,SAS @ UTA,moneyline,UTA,,,,pointsbetau,850.0,9.5,0.1358,7.36,0.1012,0.1063,0.0296,3.99,0.2906,0.1063,0.0094,0.0003,False,True,True,,,
 401909991,HOU @ WAS,prop_reb,over,Kevin Durant,201142.0,7.5,draftkings,373.0,4.73,0.3167,3.16,0.1976,0.1976,0.1191,,0.4979,0.2133,0.0089,0.0006,False,True,False,,,
 401909992,ATL @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,4.5,draftkings,200.0,3.0,0.4953,2.02,0.3115,0.3115,0.1837,,0.4858,0.3358,0.0073,0.0009,True,False,False,Ryan Rollins,0.5336,0.4598
 401909991,HOU @ WAS,prop_ast,over,Trae Young,1629027.0,13.5,draftkings,1140.0,12.4,0.1197,8.36,0.0754,0.0754,0.0443,,0.4837,0.0812,0.0071,0.0002,False,True,False,,,
@@ -65,18 +68,18 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909991,HOU @ WAS,prop_pr,over,Alperen Sengun,1630578.0,34.5,draftkings,196.0,2.96,0.499,2.0,0.3157,0.3157,0.1833,,0.4771,0.3399,0.0062,0.0008,True,True,False,,,
 401909991,HOU @ WAS,prop_reb,over,Anthony Davis,203076.0,14.5,draftkings,552.0,6.52,0.2265,4.41,0.1433,0.1433,0.0832,,0.4769,0.1543,0.0062,0.0003,False,False,False,,,
 401909990,NYK @ TOR,moneyline,TOR,,,,pointsbetau,175.0,2.75,0.3404,2.94,0.35,0.3659,-0.0254,3.9,-0.0638,0.3659,0.0061,0.0009,False,True,True,,,
-401909991,HOU @ WAS,prop_pra,over,Amen Thompson,1641708.0,44.5,draftkings,1320.0,14.2,0.1032,9.69,0.0658,0.0658,0.0374,,0.4661,0.0708,0.0047,0.0001,False,True,False,,,
 401909993,OKC @ SAC,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,7.5,draftkings,389.0,4.89,0.2997,3.34,0.1911,0.1911,0.1086,,0.4657,0.2055,0.0047,0.0003,False,True,False,Ajay Mitchell,0.3402,0.2627
+401909991,HOU @ WAS,prop_pra,over,Amen Thompson,1641708.0,44.5,draftkings,1320.0,14.2,0.1032,9.69,0.0658,0.0658,0.0374,,0.4661,0.0708,0.0047,0.0001,False,True,False,,,
 401909991,HOU @ WAS,prop_reb,over,Anthony Davis,203076.0,17.5,draftkings,1640.0,17.4,0.0837,11.95,0.0537,0.0537,0.03,,0.4565,0.0577,0.0035,0.0001,False,True,False,,,
 401909992,ATL @ MIL,prop_ast,over,Kyle Kuzma,1628398.0,6.5,draftkings,1820.0,19.2,0.0758,13.2,0.0487,0.0487,0.0271,,0.4549,0.0523,0.0033,0.0,False,False,False,,,
-401909988,SAS @ UTA,total,over,,,225.5,draftkings,-105.0,1.95,0.594,1.68,0.4892,0.5138,0.0801,4.71,0.1596,0.5138,0.0031,0.0008,False,True,True,,,
+401909988,SAS @ UTA,total,over,,,225.5,draftkings,-105.0,1.95,0.5876,1.7,0.4892,0.5138,0.0738,4.71,0.1473,0.5138,0.0031,0.0008,False,True,True,,,
 401909991,HOU @ WAS,moneyline,WAS,,,,betfair_ex_au,280.25,3.8,0.2459,4.07,0.2554,0.2638,-0.0178,2.96,-0.0648,0.2638,0.003,0.0003,False,True,True,,,
 401909991,HOU @ WAS,prop_pra,over,Jabari Smith Jr.,1631095.0,39.5,draftkings,1740.0,18.4,0.0789,12.67,0.0508,0.0508,0.0281,,0.4524,0.0545,0.0029,0.0,False,True,False,,,
 401909991,HOU @ WAS,moneyline,WAS,,,,tab,280.0,3.8,0.2459,4.07,0.252,0.2638,-0.0178,4.43,-0.0654,0.2638,0.0024,0.0002,False,True,True,,,
 401909991,HOU @ WAS,prop_ast,over,Trae Young,1629027.0,14.5,draftkings,1720.0,18.2,0.0796,12.57,0.0514,0.0514,0.0282,,0.4478,0.0551,0.0023,0.0,False,False,False,,,
 401909992,ATL @ MIL,prop_ast,over,Kyle Kuzma,1628398.0,4.5,draftkings,448.0,5.48,0.2641,3.79,0.1705,0.1705,0.0935,,0.447,0.1829,0.0022,0.0001,False,False,False,Ryan Rollins,0.2932,0.2364
 401909991,HOU @ WAS,prop_pra,over,Jabari Smith Jr.,1631095.0,34.5,draftkings,740.0,8.4,0.1715,5.83,0.1113,0.1113,0.0603,,0.441,0.1192,0.0014,0.0,False,True,False,,,
-401909991,HOU @ WAS,prop_ra,over,Kevin Durant,201142.0,9.5,draftkings,103.0,2.03,0.705,1.42,0.4609,0.4609,0.2442,6.89,0.4313,0.4931,0.001,0.0002,True,True,True,,,
 401909986,LAL @ PHX,prop_ast,over,Devin Booker,1626164.0,8.5,draftkings,740.0,8.4,0.1711,5.84,0.1113,0.1113,0.0599,,0.4376,0.1192,0.001,0.0,False,False,False,,,
+401909991,HOU @ WAS,prop_ra,over,Kevin Durant,201142.0,9.5,draftkings,103.0,2.03,0.705,1.42,0.4609,0.4609,0.2442,6.89,0.4313,0.4931,0.001,0.0002,True,True,True,,,
 401909986,LAL @ PHX,prop_ast,over,Devin Booker,1626164.0,9.5,draftkings,1260.0,13.6,0.1053,9.49,0.0687,0.0687,0.0366,,0.4325,0.0736,0.0003,0.0,False,True,False,,,
 401909987,CHA @ LAC,prop_fg3m,under,Max Strus,1629622.0,1.5,draftkings,132.0,2.32,0.6169,1.62,0.4028,0.4028,0.2141,,0.4312,0.4311,0.0001,0.0,True,True,True,,,
