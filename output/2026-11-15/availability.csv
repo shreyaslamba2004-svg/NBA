@@ -1,13 +1,13 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909988,UTA,1641725,Trey Alexander,Out,GLeague-Two-Way,0.0,Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.,,
-401909988,UTA,1642846,Ace Bailey,Starting,,1.0,,,1.0
-401909988,UTA,1628964,Mo Bamba,Starting,,1.0,,,1.0
+401909988,UTA,1642846,Ace Bailey,,,1.0,,,
+401909988,UTA,1628964,Mo Bamba,,,1.0,,,
 401909988,UTA,1628396,Tony Bradley,,,1.0,,,
 401909988,UTA,1641723,Kobe Bufkin,Out,GLeague-Two-Way,0.0,,,
 401909988,UTA,1642268,Isaiah Collier,,,1.0,,,
 401909988,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401909988,UTA,1641718,Keyonte George,Starting,,1.0,,,1.0
-401909988,UTA,1630182,Josh Green,Starting,,1.0,,,1.0
+401909988,UTA,1641718,Keyonte George,,,1.0,,,
+401909988,UTA,1630182,Josh Green,,,1.0,,,
 401909988,UTA,1629637,Jaxson Hayes,Out,Injury/Illness-LeftKneeStrain,0.0,Hayes (knee) has been ruled out for Sunday's game against the Spurs.,,
 401909988,UTA,904433618,Harrison Ingram,Out,GLeague-Two-Way,0.0,,,
 401909988,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
@@ -15,16 +15,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909988,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
 401909988,UTA,203994,Jusuf Nurkic,Out,,0.0,"Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",,
 401909988,UTA,1629006,Josh Okogie,,,1.0,,,
-401909988,UTA,905041955,Darryn Peterson,Starting,,1.0,,,1.0
+401909988,UTA,905041955,Darryn Peterson,,,1.0,,,
 401909988,UTA,1641729,Brice Sensabaugh,,,1.0,,,
 401909988,SAS,203084,Harrison Barnes,,,1.0,,,
 401909988,SAS,905105337,Maliq Brown,Out,GLeague-Two-Way,0.0,,,
 401909988,SAS,1642868,Carter Bryant,,,1.0,,,
-401909988,SAS,1642264,Stephon Castle,Starting,,1.0,,,1.0
-401909988,SAS,1630577,Julian Champagnie,Starting,,1.0,,,1.0
+401909988,SAS,1642264,Stephon Castle,,,1.0,,,
+401909988,SAS,1630577,Julian Champagnie,,,1.0,,,
 401909988,SAS,1628368,De'Aaron Fox,Out,Injury/Illness-LeftHipTightness,0.0,Fox (hip) has been ruled out for Sunday's game against the Jazz.,,
 401909988,SAS,905107968,Ja'Kobi Gillespie,Out,GLeague-Two-Way,0.0,,,
-401909988,SAS,1642844,Dylan Harper,Starting,,1.0,,,1.0
+401909988,SAS,1642844,Dylan Harper,,,1.0,,,
 401909988,SAS,202699,Tobias Harris,Out,Injury/Illness-LeftCalfStrain,0.0,"Harris (calf) is out for Wednesday's game against Chicago, Jared Weiss of The Athletic reports.",,
 401909988,SAS,1629640,Keldon Johnson,,,1.0,,,
 401909988,SAS,1642357,David Jones Garcia,,,1.0,,,
@@ -32,8 +32,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909988,SAS,1629162,Jordan McLaughlin,,,1.0,,,
 401909988,SAS,905101845,Jayden Quaintance,Out,Injury/Illness-RightKneeSurgery,0.0,"Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",,
 401909988,SAS,905105809,Tarris Reed Jr.,,,1.0,,,
-401909988,SAS,1630170,Devin Vassell,Starting,,1.0,,,1.0
-401909988,SAS,1641705,Victor Wembanyama,Starting,,1.0,,,1.0
+401909988,SAS,1630170,Devin Vassell,,,1.0,,,
+401909988,SAS,1641705,Victor Wembanyama,,,1.0,,,
 401909989,BOS,1642269,Devin Carter,Available,GLeague-Two-Way,1.0,,,
 401909989,BOS,905142621,Chris Cenac Jr.,Active,,1.0,,,
 401909989,BOS,201144,Mike Conley,Active,,1.0,,,
@@ -70,7 +70,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909989,DAL,1631204,Marcus Sasser,,,1.0,,,
 401909989,DAL,1629023,P.J. Washington,,,1.0,,,
 401909990,TOR,203937,Kyle Anderson,,,1.0,,,
-401909990,TOR,1630567,Scottie Barnes,Available,Injury/Illness-LeftGroinStrain,1.0,"Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports.",,
+401909990,TOR,1630567,Scottie Barnes,Available,Injury/Illness-LeftGroinStrain,1.0,Barnes (groin) is listed as probable to play in Sunday's game against the Knicks.,,
 401909990,TOR,1629628,RJ Barrett,,,1.0,,,
 401909990,TOR,1642419,Jamison Battle,,,1.0,,,
 401909990,TOR,904432586,Nate Bittle,Out,,0.0,"Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",,
