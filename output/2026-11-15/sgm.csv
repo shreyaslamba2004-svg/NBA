@@ -1,40 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NYK @ TOR,TOR +4.5 + Ja'Kobe Walter 5+ pa,2,0.462,0.4601,2.17,2.28,2.07,-0.047,1.016,1.85-2.10
-NYK @ TOR,NYK win + OG Anunoby 10+ pa,2,0.5971,0.5691,1.76,1.85,1.67,-0.0472,1.012,1.65-1.85
-NYK @ TOR,NYK win + Josh Hart 5+ pa,2,0.6251,0.5892,1.7,1.78,1.61,-0.0496,1.008,1.50-1.65
-NYK @ TOR,NYK win + Josh Hart 10+ pra,2,0.6169,0.5822,1.72,1.8,1.63,-0.0496,1.008,1.50-1.65
-NYK @ TOR,NYK win + Jalen Brunson 1+ 3pm,2,0.5884,0.5614,1.78,1.87,1.69,-0.0517,1.008,1.65-1.85
-NYK @ TOR,Karl-Anthony Towns pts under 19.5 + Josh Hart 5+ pa,2,0.5799,0.4582,2.18,2.29,2.06,-0.0539,0.998,1.85-2.10
-NYK @ TOR,Karl-Anthony Towns pts under 19.5 + Ja'Kobe Walter 5+ pa,2,0.5639,0.4519,2.21,2.32,2.09,-0.0545,1.0,1.85-2.10
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Josh Hart 10+ pra,2,0.565,0.4442,2.25,2.36,2.12,-0.058,1.001,2.10-2.50
-NYK @ TOR,Karl-Anthony Towns pts under 19.5 + Jalen Brunson 1+ 3pm,2,0.5444,0.4355,2.3,2.41,2.16,-0.0584,0.995,2.10-2.50
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Jalen Brunson 1+ 3pm,2,0.5394,0.4288,2.33,2.45,2.19,-0.0591,1.001,2.10-2.50
-NYK @ TOR,NYK win + Ja'Kobe Walter 5+ pa,2,0.596,0.5698,1.76,1.84,1.63,-0.0688,0.99,1.50-1.65
-NYK @ TOR,NYK win + Josh Hart 10+ pra + OG Anunoby 10+ pa,3,0.5781,0.5235,1.91,2.01,1.73,-0.0933,1.023,1.65-1.85
-HOU @ WAS,HOU -8.5 + Jabari Smith Jr. 10+ pts,2,0.4636,0.3969,2.52,2.65,2.4,-0.0455,1.019,2.10-2.50
-HOU @ WAS,Kevin Durant 10+ ra + Tari Eason 15+ pra,2,0.6124,0.3946,2.53,2.66,2.41,-0.0472,1.005,2.10-2.50
-HOU @ WAS,HOU -8.5 + Tari Eason 15+ pra,2,0.4521,0.3904,2.56,2.69,2.44,-0.048,1.018,2.10-2.50
-HOU @ WAS,Kevin Durant 32+ pra + Trae Young 20+ pra,2,0.6448,0.4475,2.23,2.35,2.09,-0.0658,1.004,1.85-2.10
-HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 10+ pa,2,0.6445,0.4497,2.22,2.33,2.08,-0.0659,1.004,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pts,2,0.6758,0.478,2.09,2.2,1.95,-0.066,1.002,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Alex Sarr 4+ reb,2,0.7056,0.5112,1.96,2.05,1.82,-0.0692,1.002,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Trae Young 20+ pra,2,0.7202,0.5171,1.93,2.03,1.8,-0.0694,1.001,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Anthony Davis 6+ reb,2,0.7328,0.5302,1.89,1.98,1.75,-0.0701,1.001,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ reb + Trae Young 6+ ast,2,0.7349,0.593,1.69,1.77,1.53,-0.0945,1.001,1.50-1.65
-HOU @ WAS,Kevin Durant 4+ reb + Tari Eason 15+ pra,2,0.7332,0.5972,1.67,1.76,1.51,-0.0956,1.002,1.50-1.65
-HOU @ WAS,Kevin Durant 4+ reb + Kyshawn George 10+ pts,2,0.7189,0.5933,1.69,1.77,1.52,-0.0983,1.001,1.50-1.65
-ATL @ MIL,ATL win + Brayden Burries pra under 20.5,2,0.4922,0.3944,2.54,2.66,2.46,-0.0298,1.03,2.10-2.50
-ATL @ MIL,ATL win + Brayden Burries pr under 17.5,2,0.5005,0.3999,2.5,2.63,2.42,-0.0342,1.025,2.10-2.50
-ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.3782,0.4061,2.46,2.59,2.37,-0.0359,1.045,2.10-2.50
-ATL @ MIL,game over 233.5 + Jaime Jaquez Jr. 15+ pra,2,0.4028,0.4499,2.22,2.33,2.09,-0.0595,1.026,1.85-2.10
-ATL @ MIL,game over 233.5 + Dyson Daniels 15+ pra,2,0.4008,0.4489,2.23,2.34,2.09,-0.0606,1.025,1.85-2.10
-ATL @ MIL,game over 233.5 + Onyeka Okongwu 15+ pra,2,0.4032,0.4484,2.23,2.34,2.09,-0.0616,1.023,1.85-2.10
-ATL @ MIL,ATL win + Onyeka Okongwu 1+ 3pm,2,0.6018,0.5629,1.78,1.87,1.64,-0.0788,1.005,1.50-1.65
-ATL @ MIL,Jaime Jaquez Jr. 9+ ra + Myles Turner 5+ pa,2,0.642,0.5007,2.0,2.1,1.82,-0.0876,1.0,1.65-1.85
-ATL @ MIL,ATL win + Kyle Kuzma 15+ pra,2,0.6189,0.5558,1.8,1.89,1.64,-0.089,0.987,1.50-1.65
-ATL @ MIL,ATL win + Kyle Kuzma 10+ pa,2,0.6385,0.574,1.74,1.83,1.59,-0.089,0.988,1.50-1.65
-ATL @ MIL,Dyson Daniels 7+ reb + Onyeka Okongwu 15+ pra,2,0.5854,0.4928,2.03,2.13,1.84,-0.0929,1.004,1.65-1.85
-ATL @ MIL,Kyle Kuzma 8+ ra + Myles Turner 5+ pa,2,0.598,0.4925,2.03,2.13,1.84,-0.0938,1.003,1.65-1.85
+HOU @ WAS,Kevin Durant 10+ ra + Anthony Davis 8+ reb,2,0.6094,0.3847,2.6,2.73,2.49,-0.0422,1.007,2.10-2.50
+HOU @ WAS,HOU -8.5 + Jabari Smith Jr. 10+ pts,2,0.4636,0.3963,2.52,2.65,2.41,-0.0453,1.019,2.10-2.50
+HOU @ WAS,Kevin Durant 10+ ra + Tari Eason 15+ pra,2,0.6124,0.3917,2.55,2.68,2.44,-0.046,1.005,2.10-2.50
+HOU @ WAS,Kevin Durant 4+ ast + Anthony Davis 8+ reb,2,0.6552,0.4549,2.2,2.31,2.05,-0.0685,1.002,1.85-2.10
+HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 10+ pa,2,0.6445,0.4495,2.22,2.34,2.07,-0.0696,1.004,1.85-2.10
+HOU @ WAS,Kevin Durant 32+ pra + Trae Young 20+ pra,2,0.6448,0.4478,2.23,2.34,2.08,-0.0697,1.004,1.85-2.10
+HOU @ WAS,Kevin Durant 4+ ast + Tari Eason 4+ reb,2,0.7006,0.5066,1.97,2.07,1.83,-0.0741,1.003,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ ast + Trae Young 20+ pra,2,0.7202,0.5157,1.94,2.04,1.8,-0.0742,1.001,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.7193,0.5172,1.93,2.03,1.79,-0.0749,1.001,1.65-1.85
+HOU @ WAS,Anthony Davis 8+ reb + Kevin Durant 4+ reb,2,0.729,0.5789,1.73,1.81,1.57,-0.0908,1.003,1.50-1.65
+HOU @ WAS,Anthony Davis 8+ reb + Tari Eason 15+ pra,2,0.7318,0.5875,1.7,1.79,1.55,-0.0917,1.003,1.50-1.65
+HOU @ WAS,Kevin Durant 4+ reb + Trae Young 6+ ast,2,0.7349,0.5861,1.71,1.79,1.55,-0.0926,1.001,1.50-1.65
+ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.368,0.4067,2.46,2.58,2.37,-0.0343,1.041,2.10-2.50
+ATL @ MIL,game over 233.5 + Jaime Jaquez Jr. 10+ pts,2,0.3571,0.4157,2.41,2.53,2.31,-0.04,1.044,2.10-2.50
+ATL @ MIL,game over 233.5 + Kyle Kuzma 10+ pa,2,0.3716,0.4136,2.42,2.54,2.3,-0.0492,1.026,2.10-2.50
+ATL @ MIL,Jaime Jaquez Jr. 4+ ast + Kyle Kuzma 10+ pr,2,0.6618,0.4491,2.23,2.34,2.09,-0.0604,1.002,1.85-2.10
+ATL @ MIL,Jaime Jaquez Jr. 4+ ast + Dyson Daniels 15+ pra,2,0.6605,0.4527,2.21,2.32,2.07,-0.061,1.003,1.85-2.10
+ATL @ MIL,game over 233.5 + Onyeka Okongwu 15+ pra,2,0.3859,0.4496,2.22,2.34,2.09,-0.0611,1.021,1.85-2.10
+ATL @ MIL,Jaime Jaquez Jr. 9+ ra + Myles Turner 5+ pa,2,0.6807,0.5052,1.98,2.08,1.82,-0.0795,1.0,1.65-1.85
+ATL @ MIL,ATL win + Kyle Kuzma 15+ pra,2,0.6365,0.5596,1.79,1.88,1.64,-0.0826,0.989,1.50-1.65
+ATL @ MIL,ATL win + Kyle Kuzma 10+ pa,2,0.6524,0.5778,1.73,1.82,1.59,-0.0831,0.99,1.50-1.65
+ATL @ MIL,Kyle Kuzma 8+ ra + Myles Turner 5+ pa,2,0.6417,0.4977,2.01,2.11,1.84,-0.0843,1.002,1.65-1.85
+ATL @ MIL,Dyson Daniels 7+ reb + Jaime Jaquez Jr. 15+ pra,2,0.6152,0.4971,2.01,2.11,1.84,-0.087,1.004,1.65-1.85
+ATL @ MIL,ATL win + Jaime Jaquez Jr. 10+ pts,2,0.6121,0.5668,1.76,1.85,1.59,-0.0963,0.983,1.50-1.65
 OKC @ SAC,Darius Acuff Jr. pts under 23.5 + OKC win,2,0.5248,0.4346,2.3,2.42,2.22,-0.0354,1.039,2.10-2.50
 OKC @ SAC,Darius Acuff Jr. pr under 26.5 + OKC win,2,0.4926,0.4082,2.45,2.57,2.36,-0.0367,1.038,2.10-2.50
 OKC @ SAC,OKC win + Zach LaVine pts under 19.5,2,0.5042,0.4304,2.32,2.44,2.23,-0.0411,1.039,2.10-2.50
