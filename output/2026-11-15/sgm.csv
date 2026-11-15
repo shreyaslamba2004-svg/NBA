@@ -11,27 +11,27 @@ DAL @ BOS,BOS win + Naji Marshall 15+ pra + Daniel Gafford 4+ reb,3,0.6163,0.501
 DAL @ BOS,BOS win + Naji Marshall 10+ pr + Daniel Gafford 4+ reb,3,0.6505,0.5485,1.82,1.91,1.58,-0.1308,0.998,1.50-1.65
 DAL @ BOS,Naji Marshall 15+ pra + Cooper Flagg 20+ pr + Daniel Gafford 4+ reb,3,0.6496,0.5124,1.95,2.05,1.67,-0.1459,1.007,1.65-1.85
 DAL @ BOS,Naji Marshall 15+ pra + Cooper Flagg 4+ reb + Daniel Gafford 4+ reb,3,0.6469,0.5054,1.98,2.08,1.69,-0.1469,1.004,1.65-1.85
-NYK @ TOR,NYK win + Josh Hart 10+ pra,2,0.611,0.5829,1.72,1.8,1.69,-0.016,1.008,1.65-1.85
-NYK @ TOR,NYK win + Josh Hart 5+ pa,2,0.6204,0.5877,1.7,1.79,1.67,-0.0175,1.005,1.65-1.85
+NYK @ TOR,NYK win + Josh Hart 10+ pra,2,0.611,0.5813,1.72,1.81,1.69,-0.0156,1.008,1.65-1.85
+NYK @ TOR,NYK win + Josh Hart 5+ pa,2,0.6204,0.5873,1.7,1.79,1.67,-0.0173,1.005,1.65-1.85
 NYK @ TOR,NYK win + Ja'Kobe Walter 5+ pa,2,0.597,0.5708,1.75,1.84,1.7,-0.0323,0.992,1.65-1.85
-NYK @ TOR,Karl-Anthony Towns pts under 19.5 + Josh Hart 5+ pa,2,0.5738,0.4573,2.19,2.3,2.06,-0.0567,0.997,1.85-2.10
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Josh Hart 5+ pa,2,0.5736,0.4503,2.22,2.33,2.09,-0.0572,1.001,1.85-2.10
+NYK @ TOR,Karl-Anthony Towns pts under 19.5 + Josh Hart 5+ pa,2,0.5738,0.4569,2.19,2.3,2.06,-0.0565,0.997,1.85-2.10
+NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Josh Hart 5+ pa,2,0.5736,0.45,2.22,2.33,2.1,-0.057,1.001,1.85-2.10
 NYK @ TOR,TOR +4.5 + Ja'Kobe Walter 5+ pa,2,0.4604,0.4546,2.2,2.31,2.07,-0.0583,1.012,1.85-2.10
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Josh Hart 10+ pra,2,0.5631,0.4452,2.25,2.36,2.11,-0.0588,1.001,2.10-2.50
-NYK @ TOR,Mikal Bridges 9+ pts + Josh Hart 10+ pra,2,0.499,0.4439,2.25,2.37,2.11,-0.0617,1.004,2.10-2.50
+NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Josh Hart 10+ pra,2,0.5631,0.444,2.25,2.36,2.12,-0.0584,1.001,2.10-2.50
+NYK @ TOR,Mikal Bridges 9+ pts + Josh Hart 10+ pra,2,0.499,0.4426,2.26,2.37,2.12,-0.0613,1.004,2.10-2.50
 NYK @ TOR,Mikal Bridges 9+ pts + Ja'Kobe Walter 5+ pa,2,0.4944,0.4408,2.27,2.38,2.12,-0.0641,1.002,2.10-2.50
-HOU @ WAS,HOU -8.5 + Jabari Smith Jr. 10+ pts,2,0.4611,0.3917,2.55,2.68,2.46,-0.0373,1.025,2.10-2.50
-HOU @ WAS,HOU -8.5 + Tari Eason 15+ pra,2,0.4487,0.3859,2.59,2.72,2.47,-0.0452,1.018,2.10-2.50
-HOU @ WAS,game over 223.5 + Kyshawn George 10+ pts,2,0.5489,0.4008,2.49,2.62,2.38,-0.0475,1.035,2.10-2.50
-HOU @ WAS,Kevin Durant 10+ ra + Anthony Davis 6+ reb,2,0.6723,0.4541,2.2,2.31,2.07,-0.0601,1.002,1.85-2.10
-HOU @ WAS,Kevin Durant 10+ ra + Kyshawn George 10+ pr,2,0.6815,0.46,2.17,2.28,2.04,-0.0614,1.001,1.85-2.10
-HOU @ WAS,Kevin Durant 32+ pra + Anthony Davis 6+ reb,2,0.6579,0.4601,2.17,2.28,2.03,-0.0639,1.002,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.719,0.5097,1.96,2.06,1.83,-0.0698,1.0,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Anthony Davis 6+ reb,2,0.7311,0.5282,1.89,1.99,1.76,-0.0713,1.002,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ ast + Alex Sarr 4+ reb,2,0.7033,0.5099,1.96,2.06,1.82,-0.0718,1.002,1.65-1.85
-HOU @ WAS,Jabari Smith Jr. 10+ pts + Tari Eason 15+ pra,2,0.7562,0.5989,1.67,1.75,1.52,-0.0897,1.003,1.50-1.65
-HOU @ WAS,Jabari Smith Jr. 10+ pts + Kevin Durant 4+ reb,2,0.7485,0.5948,1.68,1.77,1.52,-0.093,1.0,1.50-1.65
-HOU @ WAS,Jabari Smith Jr. 10+ pts + Trae Young 6+ ast,2,0.7519,0.5989,1.67,1.75,1.51,-0.0941,1.0,1.50-1.65
+HOU @ WAS,HOU -8.5 + Jabari Smith Jr. 10+ pts,2,0.4636,0.3969,2.52,2.65,2.4,-0.0455,1.019,2.10-2.50
+HOU @ WAS,Kevin Durant 10+ ra + Tari Eason 15+ pra,2,0.6124,0.3946,2.53,2.66,2.41,-0.0472,1.005,2.10-2.50
+HOU @ WAS,HOU -8.5 + Tari Eason 15+ pra,2,0.4521,0.3904,2.56,2.69,2.44,-0.048,1.018,2.10-2.50
+HOU @ WAS,Kevin Durant 32+ pra + Trae Young 20+ pra,2,0.6448,0.4475,2.23,2.35,2.09,-0.0658,1.004,1.85-2.10
+HOU @ WAS,Kevin Durant 32+ pra + Jabari Smith Jr. 10+ pa,2,0.6445,0.4497,2.22,2.33,2.08,-0.0659,1.004,1.85-2.10
+HOU @ WAS,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pts,2,0.6758,0.478,2.09,2.2,1.95,-0.066,1.002,1.85-2.10
+HOU @ WAS,Kevin Durant 4+ ast + Alex Sarr 4+ reb,2,0.7056,0.5112,1.96,2.05,1.82,-0.0692,1.002,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ ast + Trae Young 20+ pra,2,0.7202,0.5171,1.93,2.03,1.8,-0.0694,1.001,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ ast + Anthony Davis 6+ reb,2,0.7328,0.5302,1.89,1.98,1.75,-0.0701,1.001,1.65-1.85
+HOU @ WAS,Kevin Durant 4+ reb + Trae Young 6+ ast,2,0.7349,0.593,1.69,1.77,1.53,-0.0945,1.001,1.50-1.65
+HOU @ WAS,Kevin Durant 4+ reb + Tari Eason 15+ pra,2,0.7332,0.5972,1.67,1.76,1.51,-0.0956,1.002,1.50-1.65
+HOU @ WAS,Kevin Durant 4+ reb + Kyshawn George 10+ pts,2,0.7189,0.5933,1.69,1.77,1.52,-0.0983,1.001,1.50-1.65
 ATL @ MIL,ATL win + Brayden Burries pra under 20.5,2,0.4922,0.3944,2.54,2.66,2.46,-0.0298,1.03,2.10-2.50
 ATL @ MIL,ATL win + Brayden Burries pr under 17.5,2,0.5005,0.3999,2.5,2.63,2.42,-0.0342,1.025,2.10-2.50
 ATL @ MIL,game over 233.5 + Kyle Kuzma 15+ pra,2,0.3782,0.4061,2.46,2.59,2.37,-0.0359,1.045,2.10-2.50
