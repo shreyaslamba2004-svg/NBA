@@ -3,18 +3,18 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909989,BOS,905142621,Chris Cenac Jr.,Active,,1.0,,,
 401909989,BOS,201144,Mike Conley,Active,,1.0,,,
 401909989,BOS,1630568,Luka Garza,Active,,1.0,,,
-401909989,BOS,202331,Paul George,Starting,,1.0,,,1.0
+401909989,BOS,202331,Paul George,Active,,1.0,,,
 401909989,BOS,1642864,Hugo Gonzalez,Active,,1.0,,,
 401909989,BOS,1631199,Ron Harper Jr.,Active,,1.0,,,
 401909989,BOS,1630573,Sam Hauser,Active,,1.0,,,
 401909989,BOS,905106283,Dillon Mitchell,Available,GLeague-Two-Way,1.0,,,
 401909989,BOS,1630202,Payton Pritchard,Active,,1.0,,,
-401909989,BOS,1629674,Neemias Queta,Starting,,1.0,,,1.0
+401909989,BOS,1629674,Neemias Queta,Active,,1.0,,,
 401909989,BOS,1629011,Mitchell Robinson,Active,,1.0,,,
 401909989,BOS,1631248,Baylor Scheierman,Active,,1.0,,,
-401909989,BOS,1628369,Jayson Tatum,Starting,,1.0,,,1.0
-401909989,BOS,1641775,Jordan Walsh,Starting,,1.0,,,1.0
-401909989,BOS,1628401,Derrick White,Starting,,1.0,,,1.0
+401909989,BOS,1628369,Jayson Tatum,Active,,1.0,,,
+401909989,BOS,1641775,Jordan Walsh,Active,,1.0,,,
+401909989,BOS,1628401,Derrick White,Active,,1.0,,,
 401909989,BOS,1642873,Amari Williams,Available,GLeague-Two-Way,1.0,,,
 401909989,DAL,1630583,Santi Aldama,Out,Injury/Illness-LeftAnkleSprain,0.0,Aldama (ankle) is out for Sunday's game against the Celtics.,,
 401909989,DAL,905148538,Tarik Biberovic,Out,Injury/Illness-RightHeelBursitis,0.0,Biberovic (heel) is out for Thursday's game against Minnesota.,,
@@ -22,21 +22,21 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909989,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909989,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909989,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) has been ruled out for Thursday's game at Minnesota.,0.0,De Larrea (knee) has been ruled out for Thursday's game at Minnesota.,,
-401909989,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
-401909989,DAL,1629655,Daniel Gafford,Starting,Injury/Illness-RightShoulderStinger,1.0,,,1.0
+401909989,DAL,1642843,Cooper Flagg,,,1.0,,,
+401909989,DAL,1629655,Daniel Gafford,Available,Injury/Illness-RightShoulderStinger,1.0,,,
 401909989,DAL,1641724,Jett Howard,,,1.0,,,
 401909989,DAL,202681,Kyrie Irving,Out,,0.0,Irving (knee) has been ruled out for Sunday's game against the Celtics.,,
 401909989,DAL,1642358,Morez Johnson Jr.,,,1.0,,,
 401909989,DAL,905106040,Tobi Lawal,,,1.0,,,
 401909989,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is listed as out for Thursday's game in Minnesota.,,
-401909989,DAL,1630230,Naji Marshall,Starting,,1.0,,,1.0
-401909989,DAL,1628997,Caleb Martin,Starting,Injury/Illness-RightThumbSplint,1.0,,,1.0
+401909989,DAL,1630230,Naji Marshall,,,1.0,,,
+401909989,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
 401909989,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909989,DAL,1631204,Marcus Sasser,,,1.0,,,
-401909989,DAL,1629023,P.J. Washington,Starting,,1.0,,,1.0
+401909989,DAL,1629023,P.J. Washington,,,1.0,,,
 401909990,TOR,203937,Kyle Anderson,,,1.0,,,
-401909990,TOR,1630567,Scottie Barnes,Starting,Injury/Illness-LeftGroinStrain,1.0,,,1.0
-401909990,TOR,1629628,RJ Barrett,Starting,,1.0,,,1.0
+401909990,TOR,1630567,Scottie Barnes,Available,Injury/Illness-LeftGroinStrain,1.0,,,
+401909990,TOR,1629628,RJ Barrett,,,1.0,,,
 401909990,TOR,1642419,Jamison Battle,,,1.0,,,
 401909990,TOR,904432586,Nate Bittle,Out,,0.0,"Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",,
 401909990,TOR,904432737,Jaden Bradley,,,1.0,,,
@@ -45,28 +45,28 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909990,TOR,202695,Kawhi Leonard,Out,,0.0,"Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports.",,
 401909990,TOR,1642918,Alijah Martin,,,1.0,,,
 401909990,TOR,1641755,Kevin McCullar Jr.,Out,GLeague-Two-Way,0.0,"McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",,
-401909990,TOR,1642867,Collin Murray-Boyles,Starting,,1.0,,,1.0
+401909990,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
 401909990,TOR,1627751,Jakob Poeltl,,,1.0,,,
-401909990,TOR,1630193,Immanuel Quickley,Starting,,1.0,,,1.0
+401909990,TOR,1630193,Immanuel Quickley,,,1.0,,,
 401909990,TOR,1642347,Jamal Shead,,,1.0,,,
 401909990,TOR,1641869,Malachi Smith,Out,GLeague-Two-Way,0.0,,,
-401909990,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
+401909990,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
 401909990,NYK,904683730,Jaden Akins,Active,,1.0,,,
 401909990,NYK,1630631,Jose Alvarado,Active,,1.0,,,
-401909990,NYK,1628384,OG Anunoby,Starting,,1.0,,,1.0
-401909990,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
-401909990,NYK,1628973,Jalen Brunson,Starting,,1.0,,,1.0
+401909990,NYK,1628384,OG Anunoby,Active,,1.0,,,
+401909990,NYK,1628969,Mikal Bridges,Active,,1.0,,,
+401909990,NYK,1628973,Jalen Brunson,Active,,1.0,,,
 401909990,NYK,203903,Jordan Clarkson,Active,,1.0,,,
 401909990,NYK,1642359,Pacome Dadiet,Active,,1.0,,,
 401909990,NYK,1642885,Mohamed Diawara,Active,,1.0,,,
 401909990,NYK,203083,Andre Drummond,Active,,1.0,,,
-401909990,NYK,1628404,Josh Hart,Starting,,1.0,,,1.0
+401909990,NYK,1628404,Josh Hart,Active,,1.0,,,
 401909990,NYK,1642261,Dalton Knecht,Active,,1.0,,,
 401909990,NYK,1642278,Tyler Kolek,Active,,1.0,,,
 401909990,NYK,1630540,Miles McBride,Active,,1.0,,,
 401909990,NYK,904838721,Tyler Nickel,Active,,1.0,,,
 401909990,NYK,1629013,Landry Shamet,Active,,1.0,,,
-401909990,NYK,1626157,Karl-Anthony Towns,Starting,,1.0,,,1.0
+401909990,NYK,1626157,Karl-Anthony Towns,Active,,1.0,,,
 401909990,NYK,1630164,James Wiseman,Active,,1.0,,,
 401909991,WAS,1629028,Deandre Ayton,,,1.0,,,
 401909991,WAS,904432187,Reece Beekman,Out,Injury/Illness-RightACJointInjury,0.0,The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.,,
