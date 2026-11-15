@@ -11,15 +11,15 @@ IND @ PHI,PHI win + VJ Edgecombe 10+ pa,2,0.5977,0.6048,1.65,1.74,1.53,-0.0765,1
 IND @ PHI,PHI win + Jaylen Brown 25+ pra,2,0.5678,0.5907,1.69,1.78,1.56,-0.0807,1.012,1.50-1.65
 IND @ PHI,VJ Edgecombe 3+ ast + LeBron James 10+ pts,2,0.7053,0.5357,1.87,1.96,1.71,-0.0825,1.002,1.65-1.85
 IND @ PHI,PHI win + Jaylen Brown 1+ 3pm,2,0.5537,0.5673,1.76,1.85,1.62,-0.0832,1.006,1.50-1.65
-LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4753,2.1,2.21,1.96,-0.0664,1.017,1.85-2.10
-LAL @ PHX,Quentin Grimes pts under 11.5 + Luka Doncic 1+ stl,2,0.5426,0.3742,2.67,2.81,2.49,-0.0673,1.001,2.10-2.50
-LAL @ PHX,PHX +2.5 + Collin Gillespie 10+ pra,2,0.4367,0.4066,2.46,2.58,2.29,-0.0677,1.025,2.10-2.50
+LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 1+ stl,2,0.5936,0.3959,2.53,2.65,2.37,-0.0602,1.001,2.10-2.50
+LAL @ PHX,Quentin Grimes pa under 15.5 + Luka Doncic 1+ stl,2,0.5976,0.4046,2.47,2.6,2.31,-0.0655,0.999,2.10-2.50
+LAL @ PHX,LAL win + Luka Doncic 3+ 3pm,2,0.4709,0.4738,2.11,2.22,1.97,-0.066,1.017,1.85-2.10
+LAL @ PHX,Quentin Grimes pts under 12.5 + Walker Kessler 8+ reb,2,0.623,0.4217,2.37,2.49,2.21,-0.0667,0.996,2.10-2.50
 LAL @ PHX,LAL win + Matisse Thybulle 5+ pr,2,0.5087,0.5042,1.98,2.08,1.85,-0.0678,1.012,1.65-1.85
-LAL @ PHX,Quentin Grimes pa under 14.5 + Luka Doncic 1+ stl,2,0.5511,0.3818,2.62,2.75,2.44,-0.0701,0.998,2.10-2.50
-LAL @ PHX,Quentin Grimes pts under 11.5 + Walker Kessler 6+ reb,2,0.6271,0.4481,2.23,2.34,2.06,-0.0747,0.999,1.85-2.10
-LAL @ PHX,Quentin Grimes pa under 14.5 + Walker Kessler 6+ reb,2,0.638,0.4579,2.18,2.29,2.02,-0.0761,0.998,1.85-2.10
-LAL @ PHX,Collin Gillespie 3pm under 2.5 + Matisse Thybulle 5+ pr,2,0.6948,0.521,1.92,2.02,1.76,-0.0825,1.0,1.65-1.85
-LAL @ PHX,Collin Gillespie 3pm under 2.5 + Walker Kessler 1+ blk,2,0.6653,0.5076,1.97,2.07,1.8,-0.0858,0.999,1.65-1.85
+LAL @ PHX,Quentin Grimes pts under 12.5 + Luka Doncic 2+ 3pm,2,0.6751,0.4713,2.12,2.23,1.97,-0.0702,0.998,1.85-2.10
+LAL @ PHX,Quentin Grimes pts under 12.5 + Matisse Thybulle 5+ pr,2,0.6498,0.4476,2.23,2.35,2.08,-0.0705,0.995,1.85-2.10
+LAL @ PHX,LAL win + Walker Kessler 15+ pra,2,0.5312,0.5346,1.87,1.96,1.73,-0.0777,1.004,1.65-1.85
+LAL @ PHX,Collin Gillespie 3pm under 2.5 + Matisse Thybulle 5+ pr,2,0.6948,0.5151,1.94,2.04,1.79,-0.0805,1.0,1.65-1.85
 CHA @ LAC,CHA win + Naz Reid 10+ pa,2,0.4027,0.4422,2.26,2.37,2.17,-0.0426,1.025,2.10-2.50
 CHA @ LAC,LAC win + Brook Lopez 5+ pa,2,0.5563,0.4742,2.11,2.21,2.01,-0.047,1.005,1.85-2.10
 CHA @ LAC,CHA win + Naz Reid 1+ 3pm,2,0.3765,0.4143,2.41,2.53,2.29,-0.0496,1.018,2.10-2.50
@@ -89,12 +89,11 @@ ATL @ MIL,ATL win + Myles Turner 1+ blk,2,0.5854,0.5649,1.77,1.86,1.6,-0.0942,0.
 OKC @ SAC,Darius Acuff Jr. pts under 23.5 + OKC win,2,0.4952,0.413,2.42,2.54,2.34,-0.034,1.042,2.10-2.50
 OKC @ SAC,OKC win + Darius Acuff Jr. pr under 27.5,2,0.4947,0.4203,2.38,2.5,2.29,-0.0377,1.041,2.10-2.50
 OKC @ SAC,game under 221.5 + OKC win,2,0.2872,0.3942,2.54,2.66,2.38,-0.0612,1.008,2.10-2.50
-OKC @ SAC,SAC +10.5 + Darius Acuff Jr. 20+ pra,2,0.4335,0.4598,2.17,2.28,2.01,-0.0756,1.018,1.85-2.10
-OKC @ SAC,game over 221.5 + Darius Acuff Jr. 20+ pra,2,0.6024,0.4586,2.18,2.29,2.01,-0.0779,1.02,1.85-2.10
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6545,0.6078,1.65,1.73,1.51,-0.0804,1.011,1.50-1.65
-OKC @ SAC,SAC +10.5 + Domantas Sabonis 10+ pa,2,0.443,0.463,2.16,2.27,1.99,-0.0806,1.01,1.85-2.10
-OKC @ SAC,De'Andre Hunter 6+ ra + Darius Acuff Jr. 20+ pra,2,0.5953,0.4954,2.02,2.12,1.83,-0.0918,1.006,1.65-1.85
-OKC @ SAC,De'Andre Hunter 6+ ra + Domantas Sabonis 10+ pa,2,0.6101,0.5003,2.0,2.1,1.81,-0.0942,1.001,1.65-1.85
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6156,0.5385,1.86,1.95,1.62,-0.1286,1.015,1.50-1.65
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Domantas Sabonis 10+ pa,3,0.6224,0.5481,1.82,1.92,1.57,-0.1375,1.006,1.50-1.65
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.5845,0.5097,1.96,2.06,1.69,-0.1402,1.001,1.65-1.85
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6545,0.6083,1.64,1.73,1.51,-0.0806,1.011,1.50-1.65
+OKC @ SAC,SAC +10.5 + Domantas Sabonis 10+ pa,2,0.443,0.4637,2.16,2.26,1.98,-0.0808,1.01,1.85-2.10
+OKC @ SAC,game over 221.5 + Domantas Sabonis 10+ pa,2,0.6147,0.4618,2.17,2.27,1.98,-0.0844,1.011,1.85-2.10
+OKC @ SAC,OKC -10.5 + Jared McCain 1+ 3pm,2,0.5087,0.4378,2.28,2.4,2.09,-0.0859,1.004,1.85-2.10
+OKC @ SAC,De'Andre Hunter 6+ ra + Domantas Sabonis 10+ pa,2,0.6101,0.501,2.0,2.1,1.81,-0.0944,1.001,1.65-1.85
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6156,0.539,1.86,1.95,1.62,-0.1287,1.015,1.50-1.65
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Domantas Sabonis 10+ pa,3,0.6224,0.5493,1.82,1.91,1.57,-0.1377,1.006,1.50-1.65
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.5845,0.5085,1.97,2.06,1.69,-0.1398,1.001,1.65-1.85
