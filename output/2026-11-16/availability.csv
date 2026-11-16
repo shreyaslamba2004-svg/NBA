@@ -9,7 +9,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909994,BOS,1630573,Sam Hauser,,,1.0,,,
 401909994,BOS,905106283,Dillon Mitchell,,,1.0,,,
 401909994,BOS,1630202,Payton Pritchard,,,1.0,,,
-401909994,BOS,1629674,Neemias Queta,Questionable,Rest,0.55,Queta (rest) is questionable for Monday's game against the Magic.,,
+401909994,BOS,1629674,Neemias Queta,Out,Rest,0.0,"Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",,
 401909994,BOS,1629011,Mitchell Robinson,,,1.0,,,
 401909994,BOS,1631248,Baylor Scheierman,,,1.0,,,
 401909994,BOS,1628369,Jayson Tatum,,,1.0,,,
