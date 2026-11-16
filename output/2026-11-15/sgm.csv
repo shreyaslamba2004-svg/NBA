@@ -1,22 +1,23 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-ATL @ MIL,MIL +8.5 + Jaime Jaquez Jr. 15+ pa,2,0.4184,0.4032,2.48,2.6,2.39,-0.0345,1.045,2.10-2.50
-ATL @ MIL,MIL +8.5 + Kyle Kuzma 15+ pra,2,0.4451,0.4128,2.42,2.54,2.31,-0.0449,1.027,2.10-2.50
-ATL @ MIL,Tyler Herro 23+ pts + Kyle Kuzma 15+ pra,2,0.3945,0.3855,2.59,2.72,2.47,-0.0465,1.015,2.10-2.50
-ATL @ MIL,Jaime Jaquez Jr. 16+ pts + Kyle Kuzma 10+ pr,2,0.4879,0.4496,2.22,2.34,2.1,-0.0577,1.006,1.85-2.10
-ATL @ MIL,Brayden Burries pts under 12.5 + Onyeka Okongwu 15+ pra,2,0.64,0.4575,2.19,2.29,2.06,-0.0583,1.0,1.85-2.10
-ATL @ MIL,Jaime Jaquez Jr. 16+ pts + Onyeka Okongwu 15+ pra,2,0.4912,0.4507,2.22,2.33,2.09,-0.06,1.003,1.85-2.10
-ATL @ MIL,Kyle Kuzma 15+ pra + Jaime Jaquez Jr. 15+ pa,2,0.6987,0.5975,1.67,1.76,1.51,-0.0997,1.005,1.50-1.65
-ATL @ MIL,Kyle Kuzma 10+ pa + Dyson Daniels 4+ reb + Jaime Jaquez Jr. 15+ pa,3,0.6727,0.5367,1.86,1.96,1.59,-0.1445,1.011,1.50-1.65
-ATL @ MIL,Kyle Kuzma 10+ pa + Onyeka Okongwu 15+ pra + Jaime Jaquez Jr. 15+ pa,3,0.6846,0.5419,1.85,1.94,1.58,-0.145,1.009,1.50-1.65
-OKC @ SAC,game over 222.5 + Domantas Sabonis 4+ ast,2,0.504,0.3973,2.52,2.64,2.37,-0.0597,1.038,2.10-2.50
-OKC @ SAC,SAC +10.5 + Domantas Sabonis 4+ ast,2,0.3605,0.3967,2.52,2.65,2.37,-0.0611,1.034,2.10-2.50
-OKC @ SAC,OKC -10.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4781,0.3855,2.59,2.72,2.42,-0.0668,1.019,2.10-2.50
-OKC @ SAC,SAC +10.5 + Zach LaVine 10+ pts,2,0.4087,0.4563,2.19,2.3,2.02,-0.0763,1.02,1.85-2.10
-OKC @ SAC,Darius Acuff Jr. 7+ ast + Zach LaVine 10+ pts,2,0.5544,0.4429,2.26,2.37,2.08,-0.0792,1.008,1.85-2.10
-OKC @ SAC,game over 222.5 + Zach LaVine 10+ pts,2,0.5674,0.4538,2.2,2.31,2.02,-0.0814,1.017,1.85-2.10
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6759,0.6087,1.64,1.72,1.51,-0.0836,1.007,1.50-1.65
-OKC @ SAC,OKC win + Domantas Sabonis 4+ ast,2,0.6372,0.5899,1.7,1.78,1.52,-0.1041,0.989,1.50-1.65
-OKC @ SAC,Keegan Murray 1+ 3pm + Domantas Sabonis 4+ ast,2,0.6779,0.5959,1.68,1.76,1.5,-0.1059,1.003,1.50-1.65
-OKC @ SAC,OKC win + Keegan Murray 10+ pr + Shai Gilgeous-Alexander 4+ ast,3,0.6197,0.5075,1.97,2.07,1.71,-0.1342,1.002,1.65-1.85
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.6174,0.5142,1.94,2.04,1.68,-0.1348,1.005,1.65-1.85
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Keegan Murray 1+ 3pm,3,0.5683,0.4751,2.1,2.21,1.81,-0.1382,1.001,1.65-1.85
+ATL @ MIL,MIL +8.5 + Kyle Kuzma 15+ pra,2,0.4451,0.4119,2.43,2.55,2.35,-0.0316,1.027,2.10-2.50
+ATL @ MIL,MIL +8.5 + Kyle Kuzma 10+ pa,2,0.4564,0.4292,2.33,2.45,2.25,-0.0355,1.026,2.10-2.50
+ATL @ MIL,MIL +8.5 + Jaime Jaquez Jr. 15+ pr,2,0.4291,0.4112,2.43,2.55,2.34,-0.0368,1.028,2.10-2.50
+ATL @ MIL,MIL +8.5 + Kyle Kuzma 10+ pr,2,0.4757,0.4525,2.21,2.32,2.1,-0.0507,1.012,1.85-2.10
+ATL @ MIL,MIL +8.5 + Jaime Jaquez Jr. 15+ pra,2,0.4734,0.4539,2.2,2.31,2.09,-0.052,1.011,1.85-2.10
+ATL @ MIL,Brayden Burries pts under 12.5 + Onyeka Okongwu 15+ pra,2,0.64,0.4551,2.2,2.31,2.07,-0.0571,1.0,1.85-2.10
+ATL @ MIL,Kyle Kuzma 15+ pra + Onyeka Okongwu 15+ pra + Jaime Jaquez Jr. 15+ pr,3,0.6938,0.5426,1.84,1.94,1.58,-0.1451,1.007,1.50-1.65
+ATL @ MIL,Kyle Kuzma 15+ pra + Dyson Daniels 4+ reb + Jaime Jaquez Jr. 15+ pr,3,0.6811,0.5405,1.85,1.94,1.58,-0.1462,1.008,1.50-1.65
+ATL @ MIL,Kyle Kuzma 10+ pa + Onyeka Okongwu 15+ pra + Jaime Jaquez Jr. 15+ pr,3,0.7127,0.5664,1.77,1.85,1.51,-0.147,1.007,1.50-1.65
+ATL @ MIL,Kyle Kuzma 15+ pra + Jaime Jaquez Jr. 15+ pr + Myles Turner 4+ reb,3,0.6152,0.4939,2.02,2.13,1.72,-0.1483,1.008,1.65-1.85
+OKC @ SAC,game over 222.5 + Domantas Sabonis 4+ ast,2,0.504,0.3958,2.53,2.65,2.38,-0.0591,1.038,2.10-2.50
+OKC @ SAC,SAC +10.5 + Domantas Sabonis 4+ ast,2,0.3605,0.3952,2.53,2.66,2.38,-0.0605,1.034,2.10-2.50
+OKC @ SAC,SAC +10.5 + Darius Acuff Jr. 20+ pa,2,0.3974,0.4426,2.26,2.37,2.11,-0.0651,1.032,2.10-2.50
+OKC @ SAC,SAC +10.5 + Zach LaVine 15+ pra,2,0.4094,0.4541,2.2,2.31,2.04,-0.0751,1.02,1.85-2.10
+OKC @ SAC,game over 222.5 + Zach LaVine 15+ pra,2,0.5708,0.4536,2.2,2.31,2.04,-0.0762,1.021,1.85-2.10
+OKC @ SAC,game over 222.5 + Domantas Sabonis 8+ reb,2,0.5508,0.4408,2.27,2.38,2.09,-0.08,1.019,1.85-2.10
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6759,0.6101,1.64,1.72,1.5,-0.0839,1.007,1.50-1.65
+OKC @ SAC,OKC win + Domantas Sabonis 4+ ast,2,0.6372,0.5877,1.7,1.79,1.53,-0.1035,0.989,1.50-1.65
+OKC @ SAC,Keegan Murray 1+ 3pm + Domantas Sabonis 4+ ast,2,0.6779,0.5928,1.69,1.77,1.51,-0.1051,1.003,1.50-1.65
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.6174,0.5154,1.94,2.04,1.68,-0.1351,1.005,1.65-1.85
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Keegan Murray 1+ 3pm,3,0.5683,0.4755,2.1,2.21,1.81,-0.1383,1.001,1.65-1.85
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 20+ pa,3,0.5903,0.5109,1.96,2.06,1.67,-0.1477,0.996,1.65-1.85
