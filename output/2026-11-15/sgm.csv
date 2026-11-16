@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-HOU @ WAS,Kevin Durant 22+ pts + Jabari Smith Jr. 10+ pts,2,0.5685,0.4205,2.38,2.5,2.33,-0.0189,1.007,2.10-2.50
-HOU @ WAS,Kevin Durant 22+ pts + Anthony Davis 8+ reb,2,0.5484,0.3966,2.52,2.65,2.47,-0.0202,1.002,2.10-2.50
-HOU @ WAS,Kevin Durant 22+ pts + Tari Eason 15+ pra,2,0.5539,0.4087,2.45,2.57,2.4,-0.0204,1.005,2.10-2.50
-HOU @ WAS,Bilal Coulibaly 7+ pts + Trae Young 20+ pra,2,0.6566,0.4712,2.12,2.23,1.99,-0.0629,1.003,1.85-2.10
-HOU @ WAS,Bilal Coulibaly 7+ pts + Tari Eason 4+ reb,2,0.6379,0.4597,2.18,2.28,2.04,-0.0631,1.004,1.85-2.10
-HOU @ WAS,Bilal Coulibaly 7+ pts + Alex Sarr 4+ reb,2,0.6421,0.4626,2.16,2.27,2.02,-0.0637,1.003,1.85-2.10
-HOU @ WAS,Kevin Durant 4+ reb + Anthony Davis 8+ reb,2,0.729,0.5699,1.75,1.84,1.6,-0.0882,1.003,1.50-1.65
-HOU @ WAS,Anthony Davis 8+ reb + Tari Eason 15+ pra,2,0.7318,0.5852,1.71,1.79,1.55,-0.091,1.003,1.50-1.65
-HOU @ WAS,Kevin Durant 4+ reb + Tari Eason 15+ pra,2,0.7332,0.5847,1.71,1.8,1.55,-0.0922,1.002,1.50-1.65
-HOU @ WAS,Kevin Durant 4+ reb + Anthony Davis 8+ reb + Trae Young 20+ pra,3,0.6846,0.4917,2.03,2.14,1.76,-0.1338,1.005,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ reb + Anthony Davis 8+ reb + Tari Eason 4+ reb,3,0.6649,0.4796,2.08,2.19,1.81,-0.1342,1.006,1.65-1.85
-HOU @ WAS,Kevin Durant 4+ reb + Anthony Davis 8+ reb + Jabari Smith Jr. 4+ reb,3,0.6565,0.4701,2.13,2.23,1.84,-0.1356,1.003,1.65-1.85
 ATL @ MIL,Brayden Burries pts under 12.5 + ATL win,2,0.5192,0.4004,2.5,2.62,2.46,-0.015,1.036,2.10-2.50
 ATL @ MIL,Brayden Burries pra under 22.5 + ATL win,2,0.518,0.4026,2.48,2.61,2.43,-0.0208,1.031,2.10-2.50
 ATL @ MIL,game over 233.5 + Jaime Jaquez Jr. 15+ pa,2,0.3468,0.4016,2.49,2.61,2.43,-0.0245,1.06,2.10-2.50
