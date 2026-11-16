@@ -11,30 +11,27 @@ ORL @ BOS,Desmond Bane 3pm under 3.5 + Jayson Tatum 1+ 3pm,2,0.7306,0.5406,1.85,
 ORL @ BOS,BOS win + Jalen Suggs 10+ pra,2,0.6488,0.6083,1.64,1.73,1.52,-0.0752,0.99,1.50-1.65
 ORL @ BOS,BOS win + Jalen Suggs 10+ pra + Paul George 10+ pts,3,0.5903,0.5348,1.87,1.96,1.65,-0.1192,1.002,1.50-1.65
 ORL @ BOS,BOS win + Derrick White 1+ 3pm + Paul George 10+ pts,3,0.5752,0.5678,1.76,1.85,1.55,-0.1205,1.018,1.50-1.65
-CHI @ CLE,Tyrese Proctor 11+ pts + James Harden 20+ pra,2,0.6332,0.4625,2.16,2.27,2.21,0.0211,1.006,2.10-2.50
-CHI @ CLE,Tyrese Proctor 11+ pts + Mario Hezonja 10+ pr,2,0.5615,0.4115,2.43,2.55,2.48,0.0202,1.006,2.10-2.50
-CHI @ CLE,Tyrese Proctor 11+ pts + Isaac Okoro 5+ pa,2,0.6185,0.4489,2.23,2.34,2.27,0.0182,1.002,2.10-2.50
-CHI @ CLE,James Harden 18+ pts + Isaac Okoro 5+ pr,2,0.5801,0.4669,2.14,2.25,2.04,-0.0472,1.001,1.85-2.10
-CHI @ CLE,CLE win + Tyrese Proctor 15+ pra,2,0.6548,0.5657,1.77,1.86,1.68,-0.0498,1.013,1.65-1.85
-CHI @ CLE,James Harden 18+ pts + Matas Buzelis 10+ pr,2,0.5917,0.4804,2.08,2.19,1.98,-0.0503,1.0,1.85-2.10
-CHI @ CLE,Norman Powell pts under 22.5 + James Harden 20+ pra,2,0.5934,0.4628,2.16,2.27,2.05,-0.0526,0.998,1.85-2.10
-CHI @ CLE,CLE win + Donovan Mitchell 2+ 3pm,2,0.6176,0.5588,1.79,1.88,1.68,-0.0618,1.01,1.65-1.85
-CHI @ CLE,CLE win + Mario Hezonja 10+ pr,2,0.6198,0.5831,1.72,1.8,1.6,-0.0671,1.012,1.50-1.65
-CHI @ CLE,CLE win + Tyrese Proctor 1+ 3pm,2,0.6696,0.6091,1.64,1.72,1.53,-0.0702,1.002,1.50-1.65
-CHI @ CLE,Tyrese Proctor 4+ reb + Matas Buzelis 10+ pr,2,0.639,0.5012,2.0,2.09,1.83,-0.0809,1.001,1.65-1.85
-CHI @ CLE,Donovan Mitchell 2+ 3pm + Mario Hezonja 10+ pr,2,0.6809,0.5865,1.71,1.79,1.53,-0.1001,1.001,1.50-1.65
-MEM @ WAS,Jaylen Wells 12+ pts + Anthony Davis 8+ reb,2,0.5545,0.4112,2.43,2.55,2.37,-0.0271,1.006,2.10-2.50
-MEM @ WAS,Jaylen Wells 12+ pts + Cameron Boozer 25+ pra,2,0.5689,0.4365,2.29,2.41,2.22,-0.0292,1.011,2.10-2.50
-MEM @ WAS,Jaylen Wells 12+ pts + Cameron Boozer 6+ reb,2,0.5874,0.4307,2.32,2.44,2.25,-0.0298,1.001,2.10-2.50
-MEM @ WAS,AJ Dybantsa pts under 16.5 + Cameron Boozer 20+ pra,2,0.5964,0.4761,2.1,2.21,1.99,-0.0524,0.998,1.85-2.10
-MEM @ WAS,MEM win + Cameron Boozer 25+ pra,2,0.5728,0.4766,2.1,2.2,1.98,-0.0564,1.018,1.85-2.10
-MEM @ WAS,Anthony Davis pts under 23.5 + Cameron Boozer 20+ pra,2,0.5362,0.4572,2.19,2.3,2.06,-0.057,0.998,1.85-2.10
-MEM @ WAS,Cameron Boozer 6+ reb + Anthony Davis 8+ reb,2,0.7539,0.6022,1.66,1.74,1.51,-0.0892,0.998,1.50-1.65
-MEM @ WAS,Cameron Boozer 6+ reb + AJ Dybantsa 4+ reb,2,0.7532,0.6065,1.65,1.73,1.5,-0.0898,0.999,1.50-1.65
-MEM @ WAS,Anthony Davis 8+ reb + AJ Dybantsa 4+ reb,2,0.7086,0.5769,1.73,1.82,1.58,-0.0906,1.001,1.50-1.65
-MEM @ WAS,Jaylen Wells 10+ pr + Anthony Davis 8+ reb + Jerami Grant 10+ pr,3,0.6788,0.493,2.03,2.13,1.77,-0.1264,1.006,1.65-1.85
-MEM @ WAS,Jaylen Wells 10+ pr + Cameron Boozer 6+ reb + AJ Dybantsa 4+ reb,3,0.6851,0.489,2.04,2.15,1.78,-0.1273,1.001,1.65-1.85
-MEM @ WAS,Jaylen Wells 10+ pr + Cameron Boozer 6+ reb + Jerami Grant 10+ pr,3,0.7185,0.516,1.94,2.03,1.69,-0.1294,1.0,1.65-1.85
+CHI @ CLE,Tyrese Proctor 11+ pts + Isaac Okoro 5+ pa,2,0.6452,0.4524,2.21,2.32,2.27,0.026,1.001,2.10-2.50
+CHI @ CLE,Tyrese Proctor 11+ pts + Isaac Okoro 5+ pr,2,0.662,0.4659,2.15,2.25,2.2,0.0253,1.001,2.10-2.50
+CHI @ CLE,Tyrese Proctor 11+ pts + Isaac Okoro 5+ pra,2,0.6814,0.485,2.06,2.17,2.11,0.0218,1.0,2.10-2.50
+CHI @ CLE,Donovan Mitchell pts under 26.5 + Tyrese Proctor 10+ pra,2,0.547,0.4589,2.18,2.29,2.09,-0.0412,1.0,1.85-2.10
+CHI @ CLE,Norman Powell pts under 22.5 + Isaac Okoro 5+ pr,2,0.6312,0.4693,2.13,2.24,2.04,-0.0423,0.998,1.85-2.10
+CHI @ CLE,Norman Powell pts under 22.5 + Donovan Mitchell 1+ 3pm,2,0.6412,0.4819,2.08,2.18,1.99,-0.0424,1.0,1.85-2.10
+CHI @ CLE,Tyrese Proctor 4+ reb + Jalen Smith 10+ pr,2,0.669,0.5087,1.97,2.06,1.82,-0.073,1.002,1.65-1.85
+CHI @ CLE,Tyrese Proctor 4+ reb + Isaac Okoro 5+ pra,2,0.6752,0.5112,1.96,2.05,1.81,-0.0735,1.0,1.65-1.85
+CHI @ CLE,Tyrese Proctor 4+ reb + Donovan Mitchell 1+ 3pm,2,0.6637,0.5021,1.99,2.09,1.84,-0.0743,0.999,1.65-1.85
+MEM @ WAS,Zach Edey 8+ reb + Cameron Boozer 6+ reb,2,0.6613,0.3958,2.53,2.65,2.5,-0.0121,1.003,2.10-2.50
+MEM @ WAS,Zach Edey 8+ reb + Jaylen Wells 10+ pr,2,0.6639,0.3989,2.51,2.63,2.47,-0.0134,1.002,2.10-2.50
+MEM @ WAS,Zach Edey 8+ reb + Cameron Boozer 25+ pra,2,0.6297,0.3968,2.52,2.65,2.46,-0.0221,1.003,2.10-2.50
+MEM @ WAS,Jaylen Wells 12+ pts + Zach Edey 4+ reb,2,0.6016,0.4678,2.14,2.24,2.05,-0.0406,1.002,1.85-2.10
+MEM @ WAS,AJ Dybantsa pts under 16.5 + Zach Edey 4+ reb,2,0.6036,0.4628,2.16,2.27,2.07,-0.0428,1.0,1.85-2.10
+MEM @ WAS,Jaylen Wells 12+ pts + Zach Edey 5+ pa,2,0.5846,0.4616,2.17,2.27,2.07,-0.0442,1.002,1.85-2.10
+MEM @ WAS,Zach Edey 6+ reb + AJ Dybantsa 4+ reb,2,0.7438,0.5366,1.86,1.96,1.74,-0.0658,1.001,1.65-1.85
+MEM @ WAS,Cameron Boozer 6+ reb + Anthony Davis 8+ reb,2,0.7504,0.6028,1.66,1.74,1.51,-0.0882,1.0,1.50-1.65
+MEM @ WAS,Cameron Boozer 6+ reb + AJ Dybantsa 4+ reb,2,0.753,0.607,1.65,1.73,1.5,-0.089,1.0,1.50-1.65
+MEM @ WAS,Anthony Davis 8+ reb + AJ Dybantsa 4+ reb,2,0.7087,0.5764,1.73,1.82,1.58,-0.0914,0.999,1.50-1.65
+MEM @ WAS,Zach Edey 6+ reb + Jaylen Wells 10+ pr + Cameron Boozer 4+ reb,3,0.7733,0.5152,1.94,2.04,1.72,-0.1116,1.003,1.65-1.85
+MEM @ WAS,Zach Edey 6+ reb + AJ Dybantsa 4+ reb + Cameron Boozer 4+ reb,3,0.7276,0.4889,2.05,2.15,1.81,-0.1133,1.003,1.65-1.85
 PHI @ BKN,game over 226.5 + VJ Edgecombe 10+ pts,2,0.4186,0.3964,2.52,2.65,2.43,-0.0379,1.048,2.10-2.50
 PHI @ BKN,game over 226.5 + VJ Edgecombe 15+ pr,2,0.4226,0.4075,2.45,2.58,2.35,-0.0425,1.047,2.10-2.50
 PHI @ BKN,game over 226.5 + Dean Wade 5+ pa,2,0.4191,0.3924,2.55,2.68,2.42,-0.0496,1.033,2.10-2.50
