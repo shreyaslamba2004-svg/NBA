@@ -11,14 +11,15 @@ ATL @ MIL,ATL win + Jaime Jaquez Jr. 15+ pr,2,0.6087,0.5728,1.75,1.83,1.58,-0.09
 ATL @ MIL,ATL win + Jaime Jaquez Jr. 15+ pa,2,0.5835,0.5375,1.86,1.95,1.68,-0.0984,0.98,1.65-1.85
 ATL @ MIL,ATL win + Kyle Kuzma 10+ pa + Onyeka Okongwu 15+ pra,3,0.624,0.512,1.95,2.05,1.7,-0.1283,0.995,1.65-1.85
 ATL @ MIL,ATL win + Kyle Kuzma 10+ pa + Aaron Wiggins 1+ 3pm,3,0.5981,0.5015,1.99,2.09,1.74,-0.1286,0.998,1.65-1.85
-OKC @ SAC,Darius Acuff Jr. pts under 22.5 + OKC win,2,0.4933,0.408,2.45,2.57,2.37,-0.0328,1.042,2.10-2.50
-OKC @ SAC,Darius Acuff Jr. pr under 26.5 + OKC win,2,0.4926,0.4127,2.42,2.54,2.33,-0.0389,1.038,2.10-2.50
-OKC @ SAC,OKC win + Zach LaVine pts under 18.5,2,0.4641,0.4019,2.49,2.61,2.38,-0.043,1.04,2.10-2.50
-OKC @ SAC,game over 222.5 + Domantas Sabonis 20+ pra,2,0.5767,0.4519,2.21,2.32,2.05,-0.0727,1.024,1.85-2.10
-OKC @ SAC,SAC +10.5 + Domantas Sabonis 20+ pra,2,0.4348,0.4485,2.23,2.34,2.05,-0.0797,1.014,1.85-2.10
-OKC @ SAC,OKC -10.5 + Jared McCain 1+ 3pm,2,0.5002,0.4375,2.29,2.4,2.1,-0.0821,1.006,1.85-2.10
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6131,0.5436,1.84,1.93,1.6,-0.1316,1.014,1.50-1.65
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + De'Andre Hunter 10+ pra,3,0.629,0.5512,1.81,1.9,1.57,-0.1337,1.01,1.50-1.65
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Domantas Sabonis 20+ pra,3,0.6012,0.5341,1.87,1.97,1.61,-0.1389,1.006,1.50-1.65
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Darius Acuff Jr. 4+ ast,3,0.5856,0.5142,1.94,2.04,1.67,-0.1404,1.002,1.65-1.85
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Keegan Murray 10+ pr,3,0.5679,0.5043,1.98,2.08,1.7,-0.1435,1.001,1.65-1.85
+OKC @ SAC,game under 222.5 + OKC win,2,0.3044,0.3911,2.56,2.68,2.38,-0.0686,1.003,2.10-2.50
+OKC @ SAC,game over 222.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5228,0.3996,2.5,2.63,2.33,-0.0697,1.024,2.10-2.50
+OKC @ SAC,OKC -10.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4586,0.387,2.58,2.71,2.4,-0.0702,1.016,2.10-2.50
+OKC @ SAC,game over 222.5 + Domantas Sabonis 20+ pra,2,0.5857,0.4501,2.22,2.33,2.05,-0.0765,1.017,1.85-2.10
+OKC @ SAC,SAC +10.5 + Domantas Sabonis 20+ pra,2,0.4341,0.4497,2.22,2.34,2.05,-0.0774,1.014,1.85-2.10
+OKC @ SAC,SAC +10.5 + Darius Acuff Jr. 15+ pa,2,0.4437,0.4705,2.13,2.23,1.95,-0.0822,1.012,1.85-2.10
+OKC @ SAC,Shai Gilgeous-Alexander 3pm under 2.5 + Domantas Sabonis 20+ pra,2,0.6583,0.5338,1.87,1.97,1.7,-0.0945,1.002,1.65-1.85
+OKC @ SAC,Shai Gilgeous-Alexander 3pm under 2.5 + Keegan Murray 10+ pr,2,0.629,0.506,1.98,2.08,1.79,-0.0959,0.999,1.65-1.85
+OKC @ SAC,Shai Gilgeous-Alexander 3pm under 2.5 + Jared McCain 1+ 3pm,2,0.6545,0.5372,1.86,1.95,1.68,-0.0972,1.001,1.65-1.85
+OKC @ SAC,Shai Gilgeous-Alexander 3pm under 2.5 + Darius Acuff Jr. 15+ pa,2,0.6723,0.558,1.79,1.88,1.61,-0.1001,0.999,1.50-1.65
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6177,0.5436,1.84,1.93,1.6,-0.1316,1.013,1.50-1.65
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Domantas Sabonis 20+ pra,3,0.6151,0.5348,1.87,1.96,1.61,-0.1377,1.004,1.50-1.65
