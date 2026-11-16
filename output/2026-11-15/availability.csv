@@ -1,31 +1,31 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909993,SAC,1630173,Precious Achiuwa,Out,Injury/Illness-LeftAnkleSoreness,0.0,"Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",,
-401909993,SAC,905142620,Darius Acuff Jr.,Starting,,1.0,,,1.0
+401909993,SAC,905142620,Darius Acuff Jr.,,,1.0,,,
 401909993,SAC,1641778,Leaky Black,,,1.0,,,
-401909993,SAC,1642928,Dylan Cardwell,Starting,,1.0,,,1.0
+401909993,SAC,1642928,Dylan Cardwell,,,1.0,,,
 401909993,SAC,1629631,De'Andre Hunter,Out,,0.0,Hunter (hip) is out for Sunday's game against the Thunder.,,
 401909993,SAC,904917149,Alex Karaban,,,1.0,,,
 401909993,SAC,203897,Zach LaVine,Out,Injury/Illness-Illness,0.0,"LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports.",,
 401909993,SAC,905107897,Jonathan Mogbo,Out,GLeague-Two-Way,0.0,,,
-401909993,SAC,1628370,Malik Monk,Starting,,1.0,,,1.0
-401909993,SAC,1631099,Keegan Murray,Starting,-,1.0,,,1.0
+401909993,SAC,1628370,Malik Monk,,,1.0,,,
+401909993,SAC,1631099,Keegan Murray,Available,-,1.0,,,
 401909993,SAC,904709131,Sean Pedulla,Out,GLeague-Two-Way,0.0,,,
 401909993,SAC,1631342,Daeqwon Plowden,,,1.0,,,
 401909993,SAC,203486,Mason Plumlee,,,1.0,,,
 401909993,SAC,1642875,Maxime Raynaud,Out,,0.0,Raynaud (knee) has been ruled out for Sunday's game against the Thunder.,,
-401909993,SAC,1627734,Domantas Sabonis,Starting,,1.0,,,1.0
+401909993,SAC,1627734,Domantas Sabonis,,,1.0,,,
 401909993,SAC,905106058,Emanuel Sharp,,,1.0,,,
 401909993,SAC,1627732,Ben Simmons,Out,,0.0,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",,
 401909993,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401909993,OKC,1627936,Alex Caruso,,,1.0,,,
 401909993,OKC,1642363,Nique Clifford,,,1.0,,,
 401909993,OKC,905105800,Josh Dix,,,1.0,,,
-401909993,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
-401909993,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
+401909993,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
+401909993,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
 401909993,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
 401909993,OKC,905174983,Aday Mara,,,1.0,,,
-401909993,OKC,1642272,Jared McCain,Starting,,1.0,,,1.0
-401909993,OKC,1642349,Ajay Mitchell,Starting,Injury/Illness-LeftAnkleSprain,1.0,,,1.0
+401909993,OKC,1642272,Jared McCain,,,1.0,,,
+401909993,OKC,1642349,Ajay Mitchell,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
 401909993,OKC,904432185,Micah Peavy,,,1.0,,,
 401909993,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,Sorber (knee) has been ruled out for Friday's game against the Clippers.,,
 401909993,OKC,905241364,Bennett Stirtz,,,1.0,,,
@@ -33,4 +33,4 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909993,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401909993,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
 401909993,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowBackSpasms,0.0,Williams (back) has been ruled out for Sunday's game against the Kings.,,
-401909993,OKC,1629026,Kenrich Williams,Starting,,1.0,,,1.0
+401909993,OKC,1629026,Kenrich Williams,,,1.0,,,
