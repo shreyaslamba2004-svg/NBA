@@ -1,0 +1,45 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401910000,GSW @ NOP,prop_ast,over,Zion Williamson,1629627.0,6.5,draftkings,1780.0,18.8,0.1436,6.97,0.0497,0.0497,0.0939,,1.699,0.0621,0.1675,0.0024,False,False,False,,,
+401910000,GSW @ NOP,prop_pra,over,Derik Queen,1642852.0,34.5,draftkings,1800.0,19.0,0.1397,7.16,0.0492,0.0492,0.0905,,1.6547,0.0611,0.1616,0.0022,False,True,False,,,
+401910000,GSW @ NOP,prop_ast,over,Zion Williamson,1629627.0,5.5,draftkings,900.0,10.0,0.2479,4.03,0.0935,0.0935,0.1544,,1.479,0.1138,0.1384,0.0038,True,True,False,,,
+401910000,GSW @ NOP,prop_pra,over,Derik Queen,1642852.0,29.5,draftkings,780.0,8.8,0.2772,3.61,0.1062,0.1062,0.1709,,1.4389,0.1288,0.1332,0.0043,True,True,False,Jaron Pierre Jr.,0.3201,0.2635
+401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,6.5,draftkings,2000.0,21.0,0.1111,9.0,0.0445,0.0445,0.0666,,1.334,0.0533,0.1193,0.0015,False,False,False,,,
+401910000,GSW @ NOP,prop_pr,over,Derik Queen,1642852.0,29.5,draftkings,1420.0,15.2,0.1465,6.82,0.0615,0.0615,0.085,,1.2273,0.0727,0.1052,0.0019,False,True,False,,,
+401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,5.5,draftkings,1040.0,11.4,0.1949,5.13,0.082,0.082,0.113,,1.2223,0.0969,0.1046,0.0025,False,True,False,Jaron Pierre Jr.,0.2297,0.1852
+401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,19.5,draftkings,1100.0,12.0,0.1798,5.56,0.0779,0.0779,0.1019,,1.1574,0.0913,0.096,0.0022,False,True,False,,,
+401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,24.5,draftkings,2900.0,30.0,0.067,14.93,0.0312,0.0312,0.0358,,1.0088,0.0359,0.0764,0.0007,False,True,False,,,
+401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,17.5,draftkings,660.0,7.6,0.2527,3.96,0.123,0.123,0.1298,,0.9209,0.1401,0.0648,0.0025,False,False,False,Jaron Pierre Jr.,0.2796,0.2352
+401910000,GSW @ NOP,prop_pr,over,Derik Queen,1642852.0,24.5,draftkings,525.0,6.25,0.3065,3.26,0.1495,0.1495,0.157,,0.9155,0.1703,0.0641,0.0031,True,True,False,Jaron Pierre Jr.,0.3465,0.2925
+401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,4.5,draftkings,496.0,5.96,0.3182,3.14,0.1568,0.1568,0.1614,,0.8964,0.1781,0.0615,0.0031,True,False,False,Jaron Pierre Jr.,0.3661,0.3089
+401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,11.5,draftkings,1480.0,15.8,0.1177,8.5,0.0592,0.0592,0.0585,,0.8589,0.0669,0.0566,0.001,False,True,False,,,
+401910000,GSW @ NOP,prop_pra,over,Derik Queen,1642852.0,24.5,draftkings,278.0,3.78,0.4821,2.07,0.2472,0.2472,0.2349,,0.8223,0.2782,0.0518,0.0047,True,True,False,Jaron Pierre Jr.,0.5335,0.4655
+401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,5.5,draftkings,1320.0,14.2,0.1265,7.9,0.0658,0.0658,0.0607,,0.7968,0.0738,0.0484,0.0009,False,True,False,,,
+401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,10.5,draftkings,930.0,10.3,0.1741,5.74,0.0907,0.0907,0.0834,,0.7931,0.1017,0.0479,0.0013,False,False,False,,,
+401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,12.5,draftkings,2200.0,23.0,0.0768,13.02,0.0406,0.0406,0.0362,,0.767,0.0454,0.0445,0.0005,False,False,False,,,
+401910000,GSW @ NOP,prop_pa,over,Zion Williamson,1629627.0,39.5,draftkings,1540.0,16.4,0.1043,9.59,0.057,0.057,0.0473,,0.7103,0.0632,0.037,0.0006,False,True,False,,,
+401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,9.5,draftkings,576.0,6.76,0.2525,3.96,0.1383,0.1383,0.1143,,0.7072,0.1533,0.0366,0.0016,False,True,False,,,
+401909999,POR @ MIN,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,1340.0,14.4,0.1152,8.68,0.0649,0.0649,0.0503,,0.6593,0.0715,0.0302,0.0006,False,True,False,,,
+401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,4.5,draftkings,581.0,6.81,0.2396,4.17,0.1372,0.1372,0.1023,,0.6314,0.1507,0.0266,0.0011,False,False,False,,,
+401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,3.5,draftkings,222.0,3.22,0.4904,2.04,0.2902,0.2902,0.2001,,0.5791,0.3167,0.0197,0.0022,True,True,False,Jaron Pierre Jr.,0.5398,0.477
+401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,14.5,draftkings,293.0,3.93,0.4017,2.49,0.2378,0.2378,0.1639,,0.5786,0.2594,0.0196,0.0017,True,True,False,Jaron Pierre Jr.,0.4369,0.3842
+401909999,POR @ MIN,prop_ast,over,Jrue Holiday,201950.0,6.5,draftkings,720.0,8.2,0.191,5.23,0.114,0.114,0.0771,,0.5664,0.1241,0.018,0.0006,False,False,False,,,
+401910000,GSW @ NOP,prop_pr,over,Gui Santos,1630611.0,19.5,draftkings,1140.0,12.4,0.1261,7.93,0.0754,0.0754,0.0507,,0.5635,0.0821,0.0176,0.0004,False,True,False,Gui Santos,0.0,0.1243
+401909999,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1780.0,18.8,0.083,12.05,0.0497,0.0497,0.0333,,0.5598,0.0541,0.0171,0.0002,False,False,False,,,
+401909994,ORL @ BOS,prop_reb,over,Jayson Tatum,1628369.0,11.5,draftkings,990.0,10.9,0.1424,7.02,0.0857,0.0857,0.0567,,0.5526,0.0932,0.0162,0.0004,False,True,False,,,
+401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,8.5,draftkings,347.0,4.47,0.3461,2.89,0.2091,0.2091,0.137,,0.547,0.2272,0.0154,0.0011,False,False,False,,,
+401909999,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,970.0,10.7,0.1436,6.96,0.0873,0.0873,0.0563,,0.5366,0.0948,0.014,0.0004,False,True,False,,,
+401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,6.5,draftkings,2400.0,25.0,0.0613,16.31,0.0374,0.0374,0.0239,,0.5328,0.0405,0.0135,0.0001,False,False,False,,,
+401909994,ORL @ BOS,prop_reb,over,Jayson Tatum,1628369.0,12.5,draftkings,1540.0,16.4,0.0929,10.76,0.057,0.057,0.036,,0.5242,0.0617,0.0124,0.0002,False,False,False,,,
+401910000,GSW @ NOP,prop_pa,over,Saddiq Bey,1630180.0,34.5,draftkings,1580.0,16.8,0.0906,11.03,0.0556,0.0556,0.035,,0.5228,0.0603,0.0122,0.0002,False,True,False,,,
+401910000,GSW @ NOP,prop_pts,over,Brandin Podziemski,1641764.0,29.5,draftkings,1040.0,11.4,0.1334,7.5,0.082,0.082,0.0514,,0.5206,0.0888,0.0119,0.0003,False,True,False,,,
+401910000,GSW @ NOP,prop_pr,over,Derik Queen,1642852.0,19.5,draftkings,176.0,2.76,0.5471,1.83,0.3386,0.3386,0.2085,,0.5099,0.3661,0.0105,0.0015,True,True,False,Jaron Pierre Jr.,0.592,0.5354
+401910000,GSW @ NOP,prop_pra,over,Zion Williamson,1629627.0,49.5,draftkings,1980.0,20.8,0.0724,13.81,0.0449,0.0449,0.0275,,0.5058,0.0486,0.01,0.0001,False,True,False,,,
+401909994,ORL @ BOS,prop_reb,over,Jayson Tatum,1628369.0,10.5,draftkings,610.0,7.1,0.2115,4.73,0.1316,0.1316,0.0799,,0.502,0.1422,0.0095,0.0004,False,False,False,,,
+401910000,GSW @ NOP,prop_pts,over,Brandin Podziemski,1641764.0,34.5,draftkings,2400.0,25.0,0.0596,16.79,0.0374,0.0374,0.0222,,0.4892,0.0403,0.0078,0.0001,False,True,False,,,
+401909994,ORL @ BOS,prop_pra,over,Jayson Tatum,1628369.0,59.5,draftkings,1620.0,17.2,0.0865,11.56,0.0543,0.0543,0.0322,,0.4885,0.0586,0.0077,0.0001,False,True,False,,,
+401910000,GSW @ NOP,prop_pra,over,Zion Williamson,1629627.0,44.5,draftkings,990.0,10.9,0.1359,7.36,0.0857,0.0857,0.0501,,0.481,0.0924,0.0067,0.0002,False,True,False,,,
+401910000,GSW @ NOP,prop_reb,over,Gui Santos,1630611.0,6.5,draftkings,980.0,10.8,0.1366,7.32,0.0865,0.0865,0.0501,,0.4758,0.0931,0.006,0.0002,False,False,False,Gui Santos,0.0,0.1421
+401910000,GSW @ NOP,prop_ast,over,Draymond Green,203110.0,11.5,draftkings,1400.0,15.0,0.0967,10.34,0.0623,0.0623,0.0344,,0.4508,0.0668,0.0027,0.0,False,True,False,,,
+401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,13.5,draftkings,2900.0,30.0,0.0478,20.9,0.0312,0.0312,0.0167,,0.4353,0.0334,0.0007,0.0,False,True,False,,,
+401910000,GSW @ NOP,prop_ast,over,Draymond Green,203110.0,10.5,draftkings,880.0,9.8,0.146,6.85,0.0954,0.0954,0.0506,,0.4308,0.102,0.0001,0.0,False,False,False,,,
+401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,3.5,draftkings,251.0,3.51,0.4078,2.45,0.2663,0.2663,0.1415,,0.4313,0.2849,0.0001,0.0,False,True,False,,,
