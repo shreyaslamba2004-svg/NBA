@@ -4075,14 +4075,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909996,MEM @ WAS,MEM,1642377,Jaylen Wells,ra,6.5,False,0.2934,0.1974,est,0.2122
 401909996,MEM @ WAS,MEM,1642377,Jaylen Wells,ra,7.5,False,0.188,0.1206,est,0.131
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,7.5,False,0.6862,0.7227,book,0.7171
-401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,8.5,False,0.6098,0.6793,est,0.6686
+401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,8.5,False,0.6098,0.6988,est,0.6851
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,9.5,False,0.5308,0.5984,book,0.588
-401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,10.5,False,0.4558,0.5316,est,0.5199
-401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,11.5,True,0.3885,0.4627,book,0.4513
-401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,12.5,False,0.3253,0.3952,est,0.3844
-401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,13.5,False,0.2681,0.3318,est,0.322
+401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,10.5,False,0.4558,0.5542,est,0.5391
+401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,11.5,True,0.3885,0.4854,book,0.4705
+401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,12.5,False,0.3253,0.4171,est,0.403
+401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,13.5,False,0.2681,0.3523,est,0.3394
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,14.5,False,0.2188,0.2911,book,0.28
-401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,15.5,False,0.1778,0.2266,est,0.2191
+401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,pts,15.5,False,0.1778,0.243,est,0.233
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,reb,0.5,False,0.8881,0.8937,est,0.8929
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,reb,1.5,False,0.6741,0.6865,est,0.6846
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,reb,2.5,True,0.4396,0.4537,book,0.4515
@@ -4140,15 +4140,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,ra,6.5,False,0.3741,0.3953,est,0.392
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,ra,7.5,False,0.2615,0.2792,est,0.2765
 401909997,PHI @ BKN,BKN,905101761,Mikel Brown Jr.,ra,8.5,False,0.1758,0.1891,est,0.1871
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,2.5,False,0.9336,0.8969,est,0.9026
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,3.5,False,0.8775,0.8159,est,0.8253
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,4.5,False,0.7996,0.7116,est,0.7252
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,5.5,False,0.7124,0.605,est,0.6216
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,6.5,True,0.6178,0.4999,book,0.518
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,7.5,False,0.5283,0.4093,est,0.4276
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,8.5,False,0.4393,0.3264,est,0.3438
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,9.5,False,0.3586,0.257,est,0.2726
-401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,10.5,False,0.2853,0.198,est,0.2114
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,2.5,False,0.9336,0.8995,est,0.9048
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,3.5,False,0.8775,0.8201,est,0.829
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,4.5,False,0.7996,0.7175,est,0.7301
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,5.5,False,0.7124,0.6119,est,0.6274
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,6.5,True,0.6178,0.5071,book,0.5241
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,7.5,False,0.5283,0.4162,est,0.4335
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,8.5,False,0.4393,0.3328,est,0.3492
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,9.5,False,0.3586,0.2625,est,0.2773
+401909997,PHI @ BKN,BKN,1641730,Noah Clowney,pts,10.5,False,0.2853,0.2026,est,0.2153
 401909997,PHI @ BKN,BKN,1641730,Noah Clowney,reb,0.5,False,0.9633,0.9576,est,0.9585
 401909997,PHI @ BKN,BKN,1641730,Noah Clowney,reb,1.5,False,0.8674,0.8493,est,0.8521
 401909997,PHI @ BKN,BKN,1641730,Noah Clowney,reb,2.5,False,0.718,0.6847,book,0.6898
@@ -4206,14 +4206,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,1641730,Noah Clowney,ra,7.5,False,0.1891,,model only,0.1891
 401909997,PHI @ BKN,BKN,1641730,Noah Clowney,ra,8.5,False,0.1183,,model only,0.1183
 401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,5.5,False,0.8068,0.7901,book,0.7927
-401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,6.5,False,0.7289,0.7664,est,0.7607
+401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,6.5,False,0.7289,0.759,est,0.7544
 401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,7.5,False,0.6423,0.6713,book,0.6668
-401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,8.5,False,0.5536,0.6022,est,0.5947
-401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,9.5,True,0.4695,0.5192,book,0.5115
-401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,10.5,False,0.3968,0.4453,est,0.4379
+401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,8.5,False,0.5536,0.5924,est,0.5864
+401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,9.5,True,0.4695,0.509,book,0.5029
+401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,10.5,False,0.3968,0.4353,est,0.4294
 401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,11.5,False,0.3268,0.3846,book,0.3757
-401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,12.5,False,0.2646,0.3051,est,0.2989
-401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,13.5,False,0.2136,0.249,est,0.2435
+401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,12.5,False,0.2646,0.2965,est,0.2916
+401909997,PHI @ BKN,BKN,1642856,Egor Demin,pts,13.5,False,0.2136,0.2414,est,0.2371
 401909997,PHI @ BKN,BKN,1642856,Egor Demin,reb,0.5,False,0.9147,0.9262,est,0.9244
 401909997,PHI @ BKN,BKN,1642856,Egor Demin,reb,1.5,False,0.7309,0.7606,est,0.756
 401909997,PHI @ BKN,BKN,1642856,Egor Demin,reb,2.5,True,0.5053,0.5444,book,0.5384
@@ -4452,15 +4452,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,1629611,Terance Mann,ra,3.5,False,0.3239,,model only,0.3239
 401909997,PHI @ BKN,BKN,1629611,Terance Mann,ra,4.5,False,0.2041,,model only,0.2041
 401909997,PHI @ BKN,BKN,1629611,Terance Mann,ra,5.5,False,0.1171,,model only,0.1171
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,18.5,False,0.5512,0.6646,est,0.6472
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,19.5,False,0.4997,0.6171,est,0.599
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,20.5,False,0.4524,0.5713,est,0.553
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,21.5,False,0.4073,0.5258,est,0.5075
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,22.5,True,0.3658,0.482,book,0.4641
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,23.5,False,0.3256,0.4378,est,0.4205
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,24.5,False,0.2894,0.3965,est,0.38
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,25.5,False,0.2566,0.3577,est,0.3422
-401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,26.5,False,0.2262,0.3205,est,0.3059
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,17.5,False,0.596,0.6883,est,0.6741
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,18.5,False,0.5512,0.6477,est,0.6329
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,19.5,False,0.4997,0.5993,est,0.5839
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,20.5,False,0.4524,0.5529,est,0.5374
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,21.5,True,0.4073,0.5071,book,0.4917
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,22.5,False,0.3658,0.4803,book,0.4627
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,23.5,False,0.3256,0.4195,est,0.405
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,24.5,False,0.2894,0.3788,est,0.365
+401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,pts,25.5,False,0.2566,0.3407,est,0.3278
 401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,reb,3.5,False,0.8753,0.8411,book,0.8464
 401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,reb,4.5,False,0.7732,0.7538,book,0.7568
 401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,reb,5.5,False,0.6474,0.6443,book,0.6448
@@ -4519,15 +4519,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,ra,9.5,False,0.4029,0.4061,est,0.4056
 401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,ra,10.5,False,0.2988,0.3016,est,0.3011
 401909997,PHI @ BKN,BKN,1629008,Michael Porter Jr.,ra,11.5,False,0.2194,0.2217,est,0.2214
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,15.5,False,0.6111,0.6865,est,0.6749
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,16.5,False,0.5586,0.6382,est,0.6259
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,15.5,False,0.6111,0.6946,est,0.6818
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,16.5,False,0.5586,0.6469,est,0.6333
 401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,17.5,False,0.5067,0.5884,book,0.5758
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,18.5,False,0.4544,0.5371,est,0.5244
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,19.5,True,0.4076,0.4895,book,0.4769
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,20.5,False,0.3603,0.4398,est,0.4276
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,21.5,False,0.3183,0.3942,est,0.3825
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,22.5,False,0.2788,0.3501,est,0.3391
-401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,23.5,False,0.2435,0.3097,est,0.2995
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,18.5,False,0.4544,0.5466,est,0.5324
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,19.5,True,0.4076,0.499,book,0.4849
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,20.5,False,0.3603,0.4492,est,0.4355
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,21.5,False,0.3183,0.4033,est,0.3902
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,22.5,False,0.2788,0.3588,est,0.3465
+401909997,PHI @ BKN,BKN,203944,Julius Randle,pts,23.5,False,0.2435,0.3179,est,0.3064
 401909997,PHI @ BKN,BKN,203944,Julius Randle,reb,3.5,False,0.8539,0.8192,book,0.8246
 401909997,PHI @ BKN,BKN,203944,Julius Randle,reb,4.5,False,0.7365,0.7255,book,0.7272
 401909997,PHI @ BKN,BKN,203944,Julius Randle,reb,5.5,False,0.6039,0.6123,book,0.611
@@ -4587,15 +4587,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,203944,Julius Randle,ra,12.5,False,0.3227,0.3985,est,0.3868
 401909997,PHI @ BKN,BKN,203944,Julius Randle,ra,13.5,False,0.2462,0.3123,est,0.3021
 401909997,PHI @ BKN,BKN,203944,Julius Randle,ra,14.5,False,0.179,0.2325,est,0.2243
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,4.5,False,0.8803,0.8575,est,0.861
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,5.5,False,0.8165,0.7846,est,0.7895
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,6.5,False,0.7414,0.7012,est,0.7074
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,7.5,False,0.6568,0.6104,est,0.6175
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,8.5,True,0.5697,0.5201,book,0.5277
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,9.5,False,0.4906,0.4408,est,0.4485
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,10.5,False,0.4125,0.365,est,0.3723
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,11.5,False,0.3444,0.3007,est,0.3074
-401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,12.5,False,0.2795,0.241,est,0.2469
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,4.5,False,0.8803,0.8576,est,0.8611
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,5.5,False,0.8165,0.7847,est,0.7896
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,6.5,False,0.7414,0.7014,est,0.7075
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,7.5,False,0.6568,0.6106,est,0.6177
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,8.5,True,0.5697,0.5203,book,0.5279
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,9.5,False,0.4906,0.441,est,0.4487
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,10.5,False,0.4125,0.3652,est,0.3725
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,11.5,False,0.3444,0.3009,est,0.3076
+401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,pts,12.5,False,0.2795,0.2411,est,0.247
 401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,reb,5.5,False,0.7346,0.772,book,0.7662
 401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,reb,6.5,False,0.6282,0.6771,book,0.6696
 401909997,PHI @ BKN,BKN,1630549,Day'Ron Sharpe,reb,7.5,False,0.5188,0.5737,book,0.5652
@@ -4721,15 +4721,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,1642849,Nolan Traore,ra,6.5,False,0.2966,,model only,0.2966
 401909997,PHI @ BKN,BKN,1642849,Nolan Traore,ra,7.5,False,0.1984,,model only,0.1984
 401909997,PHI @ BKN,BKN,1642849,Nolan Traore,ra,8.5,False,0.126,,model only,0.126
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,4.5,False,0.7996,,model only,0.7996
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,5.5,False,0.7238,,model only,0.7238
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,6.5,False,0.6406,,model only,0.6406
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,7.5,False,0.5603,,model only,0.5603
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,8.5,False,0.4851,,model only,0.4851
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,9.5,False,0.4151,,model only,0.4151
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,10.5,False,0.3518,,model only,0.3518
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,11.5,False,0.2897,,model only,0.2897
-401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,12.5,False,0.2369,,model only,0.2369
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,4.5,False,0.7996,0.7961,est,0.7966
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,5.5,False,0.7238,0.7195,est,0.7201
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,6.5,False,0.6406,0.6356,est,0.6364
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,7.5,False,0.5603,0.555,est,0.5558
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,8.5,True,0.4851,0.4797,book,0.4805
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,9.5,False,0.4151,0.4099,est,0.4107
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,10.5,False,0.3518,0.3469,est,0.3476
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,11.5,False,0.2897,0.2853,est,0.286
+401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,pts,12.5,False,0.2369,0.233,est,0.2336
 401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,reb,1.5,False,0.8439,,model only,0.8439
 401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,reb,2.5,False,0.6975,,model only,0.6975
 401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,reb,3.5,False,0.5366,,model only,0.5366
@@ -4786,15 +4786,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,ra,6.5,False,0.3293,,model only,0.3293
 401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,ra,7.5,False,0.2358,,model only,0.2358
 401909997,PHI @ BKN,BKN,1629021,Moritz Wagner,ra,8.5,False,0.1618,,model only,0.1618
-401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,4.5,False,0.8629,0.8556,est,0.8568
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,5.5,False,0.794,0.7374,book,0.7461
-401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,6.5,False,0.7119,0.6993,est,0.7012
+401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,6.5,False,0.7119,0.7406,est,0.7362
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,7.5,False,0.6237,0.5947,book,0.5992
-401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,8.5,True,0.5351,0.5201,book,0.5224
-401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,9.5,False,0.4551,0.4493,book,0.4502
-401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,10.5,False,0.3751,0.361,est,0.3632
+401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,8.5,False,0.5351,0.5192,book,0.5217
+401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,9.5,True,0.4551,0.4911,book,0.4856
+401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,10.5,False,0.3751,0.4095,est,0.4042
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,11.5,False,0.3045,0.3201,book,0.3177
-401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,12.5,False,0.2464,0.2354,est,0.2371
+401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,12.5,False,0.2464,0.2742,est,0.2699
+401909997,PHI @ BKN,BKN,1642874,Danny Wolf,pts,13.5,False,0.1954,0.2191,est,0.2155
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,reb,2.5,False,0.8659,0.8697,book,0.8691
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,reb,3.5,False,0.7572,0.7811,book,0.7774
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,reb,4.5,False,0.6238,0.6652,book,0.6588
@@ -4852,15 +4852,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,ra,9.5,False,0.2977,0.3612,est,0.3514
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,ra,10.5,False,0.218,0.271,est,0.2629
 401909997,PHI @ BKN,BKN,1642874,Danny Wolf,ra,11.5,False,0.1535,0.1947,est,0.1884
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,18.5,False,0.7411,0.6903,est,0.6981
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,19.5,False,0.7012,0.6464,est,0.6548
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,20.5,False,0.6595,0.6014,est,0.6103
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,21.5,False,0.6188,0.5583,est,0.5676
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,22.5,True,0.5755,0.5136,book,0.5231
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,23.5,False,0.5333,0.4708,est,0.4805
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,24.5,False,0.4913,0.4292,est,0.4388
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,25.5,False,0.4517,0.3909,est,0.4003
-401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,26.5,False,0.4142,0.3551,est,0.3642
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,19.5,False,0.7012,0.6726,est,0.677
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,20.5,False,0.6595,0.629,est,0.6337
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,21.5,False,0.6188,0.5869,est,0.5918
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,22.5,False,0.5755,0.5071,book,0.5176
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,23.5,True,0.5333,0.5,book,0.5051
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,24.5,False,0.4913,0.458,est,0.4632
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,25.5,False,0.4517,0.419,est,0.424
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,26.5,False,0.4142,0.3823,est,0.3872
+401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,pts,27.5,False,0.379,0.3482,est,0.3529
 401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,reb,3.5,False,0.8496,0.8233,book,0.8273
 401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,reb,4.5,False,0.7314,0.7157,book,0.7181
 401909997,PHI @ BKN,PHI,1627759,Jaylen Brown,reb,5.5,False,0.5911,0.5872,book,0.5878
@@ -4987,13 +4987,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,PHI,203484,Kentavious Caldwell-Pope,ra,6.5,False,0.2242,,model only,0.2242
 401909997,PHI @ BKN,PHI,203484,Kentavious Caldwell-Pope,ra,7.5,False,0.1391,,model only,0.1391
 401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,9.5,False,0.8198,0.745,book,0.7565
-401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,10.5,False,0.7666,0.7182,est,0.7256
+401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,10.5,False,0.7666,0.7057,est,0.7151
 401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,11.5,False,0.7093,0.636,book,0.6473
-401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,12.5,False,0.6475,0.5877,est,0.5969
-401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,13.5,True,0.5818,0.5192,book,0.5288
+401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,12.5,False,0.6475,0.5729,est,0.5844
+401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,13.5,True,0.5818,0.504,book,0.516
 401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,14.5,False,0.5218,0.4559,book,0.466
-401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,15.5,False,0.4633,0.4011,est,0.4107
-401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,16.5,False,0.4056,0.3462,est,0.3553
+401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,15.5,False,0.4633,0.3866,est,0.3984
+401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,16.5,False,0.4056,0.3325,est,0.3438
 401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,pts,17.5,False,0.3509,0.2976,book,0.3058
 401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,reb,3.5,False,0.8207,0.8048,book,0.8072
 401909997,PHI @ BKN,PHI,1642845,VJ Edgecombe,reb,4.5,False,0.6913,0.698,book,0.697
@@ -5113,14 +5113,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,PHI,1642348,Justin Edwards,ra,3.5,False,0.2174,,model only,0.2174
 401909997,PHI @ BKN,PHI,1642348,Justin Edwards,ra,4.5,False,0.1184,,model only,0.1184
 401909997,PHI @ BKN,PHI,1642348,Justin Edwards,ra,5.5,False,0.0608,,model only,0.0608
-401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,21.5,False,0.6779,0.679,est,0.6788
-401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,22.5,False,0.6385,0.6396,est,0.6395
-401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,23.5,False,0.5983,0.5994,est,0.5993
+401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,21.5,False,0.6779,0.6637,est,0.6659
+401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,22.5,False,0.6385,0.6235,est,0.6258
+401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,23.5,False,0.5983,0.5827,est,0.5851
 401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,24.5,False,0.5576,0.5622,book,0.5615
-401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,25.5,True,0.5171,0.5183,book,0.5181
-401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,26.5,False,0.4779,0.4791,est,0.4789
-401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,27.5,False,0.441,0.4422,est,0.442
-401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,28.5,False,0.4049,0.4061,est,0.4059
+401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,25.5,True,0.5171,0.501,book,0.5035
+401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,26.5,False,0.4779,0.4958,book,0.493
+401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,27.5,False,0.441,0.4252,est,0.4277
+401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,28.5,False,0.4049,0.3895,est,0.3919
 401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,pts,29.5,False,0.371,0.3386,book,0.3436
 401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,reb,0.5,False,0.9732,0.9723,est,0.9725
 401909997,PHI @ BKN,PHI,1630178,Tyrese Maxey,reb,1.5,False,0.8796,0.8762,est,0.8768
@@ -5244,15 +5244,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,PHI,1641712,Rayan Rupert,ra,4.5,False,0.2363,,model only,0.2363
 401909997,PHI @ BKN,PHI,1641712,Rayan Rupert,ra,5.5,False,0.1474,,model only,0.1474
 401909997,PHI @ BKN,PHI,1641712,Rayan Rupert,ra,6.5,False,0.0851,,model only,0.0851
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,6.5,False,0.7958,0.8019,est,0.801
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,7.5,False,0.7274,0.7348,est,0.7337
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,8.5,False,0.6568,0.6653,est,0.664
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,9.5,False,0.585,0.5942,est,0.5928
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,10.5,True,0.5125,0.522,book,0.5205
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,11.5,False,0.442,0.4513,est,0.4499
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,12.5,False,0.3798,0.3888,est,0.3874
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,13.5,False,0.3234,0.3317,est,0.3305
-401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,14.5,False,0.2728,0.2804,est,0.2792
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,6.5,False,0.7958,0.7902,est,0.7911
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,7.5,False,0.7274,0.7206,est,0.7216
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,8.5,False,0.6568,0.6491,est,0.6503
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,9.5,False,0.585,0.5767,est,0.578
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,10.5,True,0.5125,0.504,book,0.5053
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,11.5,False,0.442,0.4791,book,0.4734
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,12.5,False,0.3798,0.3718,est,0.373
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,13.5,False,0.3234,0.316,est,0.3171
+401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,pts,14.5,False,0.2728,0.2661,est,0.2671
 401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,reb,0.5,False,0.8747,,model only,0.8747
 401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,reb,1.5,False,0.6409,,model only,0.6409
 401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,reb,2.5,False,0.4019,0.35,book,0.358
@@ -5310,14 +5310,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,ra,5.5,False,0.2648,,model only,0.2648
 401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,ra,6.5,False,0.1635,,model only,0.1635
 401909997,PHI @ BKN,PHI,1629014,Anfernee Simons,ra,7.5,False,0.0944,,model only,0.0944
-401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,1.5,False,0.9451,0.9481,est,0.9476
-401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,2.5,False,0.8681,0.8748,est,0.8737
-401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,3.5,False,0.7551,0.766,est,0.7643
-401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,4.5,False,0.627,0.6409,est,0.6387
-401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,5.5,True,0.4919,0.5068,book,0.5045
-401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,6.5,False,0.371,0.3851,est,0.3829
+401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,1.5,False,0.9451,0.9487,est,0.9482
+401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,2.5,False,0.8681,0.8762,est,0.875
+401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,3.5,False,0.7551,0.7684,est,0.7663
+401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,4.5,False,0.627,0.6439,est,0.6413
+401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,5.5,True,0.4919,0.5101,book,0.5073
+401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,6.5,False,0.371,0.4675,book,0.4526
 401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,7.5,False,0.2701,0.3608,book,0.3468
-401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,8.5,False,0.1897,0.1991,est,0.1977
+401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,8.5,False,0.1897,0.2012,est,0.1994
 401909997,PHI @ BKN,PHI,1629731,Dean Wade,pts,9.5,False,0.1272,0.223,book,0.2083
 401909997,PHI @ BKN,PHI,1629731,Dean Wade,reb,1.5,False,0.9469,0.9424,est,0.9431
 401909997,PHI @ BKN,PHI,1629731,Dean Wade,reb,2.5,False,0.8506,0.8083,book,0.8148
@@ -5442,143 +5442,143 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909997,PHI @ BKN,PHI,1631133,Jabari Walker,ra,8.5,False,0.3757,,model only,0.3757
 401909997,PHI @ BKN,PHI,1631133,Jabari Walker,ra,9.5,False,0.2824,,model only,0.2824
 401909997,PHI @ BKN,PHI,1631133,Jabari Walker,ra,10.5,False,0.2081,,model only,0.2081
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,16.5,False,0.6557,,model only,0.6557
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,17.5,False,0.6037,,model only,0.6037
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,18.5,False,0.5525,,model only,0.5525
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,19.5,False,0.5052,,model only,0.5052
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,20.5,False,0.4536,,model only,0.4536
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,21.5,False,0.4034,,model only,0.4034
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,22.5,False,0.3573,,model only,0.3573
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,23.5,False,0.3145,,model only,0.3145
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,24.5,False,0.2749,,model only,0.2749
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,7.5,False,0.7335,,model only,0.7335
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,8.5,False,0.6235,,model only,0.6235
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,9.5,False,0.5117,,model only,0.5117
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,10.5,False,0.4058,,model only,0.4058
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,11.5,False,0.3092,,model only,0.3092
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,12.5,False,0.2252,,model only,0.2252
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,13.5,False,0.1576,,model only,0.1576
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,1.5,False,0.8774,,model only,0.8774
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,2.5,False,0.7152,,model only,0.7152
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,3.5,False,0.5234,,model only,0.5234
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,4.5,False,0.3434,,model only,0.3434
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,5.5,False,0.2016,,model only,0.2016
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,6.5,False,0.1086,,model only,0.1086
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,7.5,False,0.054,,model only,0.054
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,14.5,False,0.752,0.7095,est,0.716
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,15.5,False,0.706,0.6591,est,0.6663
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,16.5,False,0.6557,0.6053,est,0.6131
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,17.5,False,0.6037,0.5215,book,0.5342
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,18.5,True,0.5525,0.4985,book,0.5068
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,19.5,False,0.5052,0.4512,est,0.4595
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,20.5,False,0.4536,0.4006,est,0.4088
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,21.5,False,0.4034,0.3525,est,0.3603
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pts,22.5,False,0.3573,0.3092,est,0.3167
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,5.5,False,0.8977,0.8148,book,0.8276
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,6.5,False,0.8265,0.726,book,0.7415
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,7.5,False,0.7335,0.6178,book,0.6356
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,8.5,True,0.6235,0.5009,book,0.5198
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,9.5,False,0.5117,0.391,book,0.4096
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,10.5,False,0.4058,0.2902,book,0.308
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,reb,11.5,False,0.3092,0.2068,book,0.2226
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,0.5,False,0.971,0.9596,est,0.9613
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,1.5,False,0.8774,0.8353,est,0.8418
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,2.5,False,0.7152,0.6251,book,0.639
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,3.5,True,0.5234,0.4377,book,0.4509
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,4.5,False,0.3434,0.2749,book,0.2855
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,5.5,False,0.2016,0.1609,book,0.1672
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ast,6.5,False,0.1086,0.0899,book,0.0928
 401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,fg3m,0.5,False,0.7585,,model only,0.7585
 401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,fg3m,1.5,False,0.4272,,model only,0.4272
 401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,fg3m,2.5,False,0.1868,,model only,0.1868
 401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,fg3m,3.5,False,0.0663,,model only,0.0663
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,stl,0.5,False,0.7937,,model only,0.7937
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,stl,1.5,False,0.4867,,model only,0.4867
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,stl,2.5,False,0.2424,,model only,0.2424
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,stl,0.5,False,0.7937,0.7981,book,0.7974
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,stl,1.5,False,0.4867,0.5192,book,0.5142
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,stl,2.5,False,0.2424,0.2741,book,0.2692
 401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,blk,0.5,False,0.531,,model only,0.531
 401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,blk,1.5,False,0.1877,,model only,0.1877
 401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,blk,2.5,False,0.0479,,model only,0.0479
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,28.5,False,0.6971,,model only,0.6971
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,29.5,False,0.6573,,model only,0.6573
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,30.5,False,0.6169,,model only,0.6169
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,31.5,False,0.5755,,model only,0.5755
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,32.5,False,0.5332,,model only,0.5332
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,33.5,False,0.4932,,model only,0.4932
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,34.5,False,0.452,,model only,0.452
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,35.5,False,0.4113,,model only,0.4113
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,36.5,False,0.375,,model only,0.375
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,37.5,False,0.3381,,model only,0.3381
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,38.5,False,0.3028,,model only,0.3028
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,25.5,False,0.6745,,model only,0.6745
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,26.5,False,0.6334,,model only,0.6334
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,27.5,False,0.5885,,model only,0.5885
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,28.5,False,0.5422,,model only,0.5422
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,29.5,False,0.4987,,model only,0.4987
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,30.5,False,0.4552,,model only,0.4552
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,31.5,False,0.4147,,model only,0.4147
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,32.5,False,0.3757,,model only,0.3757
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,33.5,False,0.3369,,model only,0.3369
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,19.5,False,0.6841,,model only,0.6841
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,20.5,False,0.6394,,model only,0.6394
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,21.5,False,0.5927,,model only,0.5927
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,22.5,False,0.5447,,model only,0.5447
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,23.5,False,0.4947,,model only,0.4947
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,24.5,False,0.4466,,model only,0.4466
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,25.5,False,0.4002,,model only,0.4002
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,26.5,False,0.3573,,model only,0.3573
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,27.5,False,0.3173,,model only,0.3173
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,10.5,False,0.7606,,model only,0.7606
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,11.5,False,0.6771,,model only,0.6771
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,12.5,False,0.5875,,model only,0.5875
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,13.5,False,0.4923,,model only,0.4923
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,14.5,False,0.4054,,model only,0.4054
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,15.5,False,0.3223,,model only,0.3223
-401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,16.5,False,0.2494,,model only,0.2494
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,24.5,False,0.6368,,model only,0.6368
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,25.5,False,0.5971,,model only,0.5971
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,26.5,False,0.5597,,model only,0.5597
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,27.5,False,0.5236,,model only,0.5236
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,28.5,False,0.4868,,model only,0.4868
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,29.5,False,0.451,,model only,0.451
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,30.5,False,0.4147,,model only,0.4147
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,31.5,False,0.3836,,model only,0.3836
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,32.5,False,0.3521,,model only,0.3521
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,9.5,False,0.7176,,model only,0.7176
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,10.5,False,0.6271,,model only,0.6271
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,11.5,False,0.5338,,model only,0.5338
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,12.5,False,0.4397,,model only,0.4397
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,13.5,False,0.35,,model only,0.35
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,14.5,False,0.272,,model only,0.272
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,15.5,False,0.2049,,model only,0.2049
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,3.5,False,0.8217,,model only,0.8217
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,4.5,False,0.6977,,model only,0.6977
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,5.5,False,0.5527,,model only,0.5527
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,6.5,False,0.409,,model only,0.409
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,7.5,False,0.2888,,model only,0.2888
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,8.5,False,0.1905,,model only,0.1905
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,9.5,False,0.1172,,model only,0.1172
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,fg3m,0.5,False,0.455,,model only,0.455
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,fg3m,1.5,False,0.1298,,model only,0.1298
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,fg3m,2.5,False,0.0253,,model only,0.0253
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,stl,0.5,False,0.641,,model only,0.641
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,stl,1.5,False,0.2877,,model only,0.2877
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,stl,2.5,False,0.1019,,model only,0.1019
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,blk,0.5,False,0.6432,,model only,0.6432
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,blk,1.5,False,0.2828,,model only,0.2828
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,blk,2.5,False,0.0947,,model only,0.0947
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,41.5,False,0.651,,model only,0.651
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,42.5,False,0.6198,,model only,0.6198
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,43.5,False,0.5886,,model only,0.5886
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,44.5,False,0.5579,,model only,0.5579
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,45.5,False,0.5291,,model only,0.5291
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,46.5,False,0.4987,,model only,0.4987
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,47.5,False,0.468,,model only,0.468
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,48.5,False,0.4397,,model only,0.4397
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,49.5,False,0.4117,,model only,0.4117
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,50.5,False,0.3834,,model only,0.3834
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,51.5,False,0.3576,,model only,0.3576
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,36.5,False,0.6224,,model only,0.6224
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,37.5,False,0.5916,,model only,0.5916
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,38.5,False,0.5591,,model only,0.5591
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,39.5,False,0.5266,,model only,0.5266
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,40.5,False,0.4958,,model only,0.4958
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,41.5,False,0.4632,,model only,0.4632
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,42.5,False,0.4323,,model only,0.4323
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,43.5,False,0.4026,,model only,0.4026
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,44.5,False,0.3722,,model only,0.3722
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,30.5,False,0.6299,,model only,0.6299
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,31.5,False,0.5961,,model only,0.5961
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,32.5,False,0.5589,,model only,0.5589
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,33.5,False,0.5232,,model only,0.5232
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,34.5,False,0.4905,,model only,0.4905
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,35.5,False,0.4569,,model only,0.4569
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,36.5,False,0.4258,,model only,0.4258
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,37.5,False,0.3956,,model only,0.3956
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,38.5,False,0.3644,,model only,0.3644
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,15.5,False,0.6781,,model only,0.6781
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,16.5,False,0.6056,,model only,0.6056
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,17.5,False,0.5301,,model only,0.5301
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,18.5,False,0.4554,,model only,0.4554
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,19.5,False,0.3859,,model only,0.3859
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,20.5,False,0.3245,,model only,0.3245
-401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,21.5,False,0.2643,,model only,0.2643
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,26.5,False,0.7703,0.699,est,0.71
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,27.5,False,0.7371,0.66,est,0.6719
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,28.5,False,0.6971,0.6144,est,0.6271
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,29.5,False,0.6573,0.5704,est,0.5838
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,30.5,False,0.6169,0.5271,est,0.5409
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,31.5,True,0.5755,0.4842,book,0.4983
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,32.5,False,0.5332,0.4416,est,0.4557
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,33.5,False,0.4932,0.4026,est,0.4165
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,34.5,False,0.452,0.3635,est,0.3771
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,35.5,False,0.4113,0.326,est,0.3391
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pra,36.5,False,0.375,0.2934,est,0.306
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,23.5,False,0.7538,0.6866,est,0.697
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,24.5,False,0.716,0.6434,est,0.6546
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,25.5,False,0.6745,0.5972,est,0.6091
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,26.5,False,0.6334,0.5529,est,0.5653
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,27.5,True,0.5885,0.5058,book,0.5185
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,28.5,False,0.5422,0.4588,est,0.4716
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,29.5,False,0.4987,0.4159,est,0.4286
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,30.5,False,0.4552,0.3743,est,0.3867
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pr,31.5,False,0.4147,0.3364,est,0.3485
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,18.5,False,0.7306,0.6877,est,0.6943
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,19.5,False,0.6841,0.6375,est,0.6446
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,20.5,False,0.6394,0.5901,est,0.5977
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,21.5,False,0.5927,0.5417,est,0.5495
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,22.5,True,0.5447,0.4927,book,0.5007
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,23.5,False,0.4947,0.4429,est,0.4509
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,24.5,False,0.4466,0.3959,est,0.4037
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,25.5,False,0.4002,0.3514,est,0.3589
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,pa,26.5,False,0.3573,0.311,est,0.3182
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,8.5,False,0.8952,0.8262,est,0.8368
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,9.5,False,0.8351,0.738,est,0.7529
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,10.5,False,0.7606,0.6387,est,0.6574
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,11.5,True,0.6771,0.5384,book,0.5598
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,12.5,False,0.5875,0.442,est,0.4644
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,13.5,False,0.4923,0.3503,est,0.3722
+401909998,HOU @ MIA,MIA,1628389,Bam Adebayo,ra,14.5,False,0.4054,0.2749,est,0.295
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,24.5,False,0.6368,0.6507,est,0.6486
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,25.5,False,0.5971,0.6116,est,0.6094
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,26.5,False,0.5597,0.5745,est,0.5722
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,27.5,False,0.5236,0.5192,book,0.5199
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,28.5,True,0.4868,0.5019,book,0.4996
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,29.5,False,0.451,0.466,est,0.4637
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,30.5,False,0.4147,0.4295,est,0.4272
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,31.5,False,0.3836,0.3981,est,0.3959
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pts,32.5,False,0.3521,0.3661,est,0.3639
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,7.5,False,0.8722,0.7841,book,0.7977
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,8.5,False,0.802,0.7003,book,0.716
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,9.5,False,0.7176,0.6101,book,0.6267
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,10.5,True,0.6271,0.5136,book,0.5311
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,11.5,False,0.5338,0.4117,book,0.4305
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,12.5,False,0.4397,0.3179,book,0.3367
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,reb,13.5,False,0.35,0.2396,book,0.2566
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,2.5,False,0.9174,0.8438,book,0.8551
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,3.5,False,0.8217,0.7305,book,0.7445
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,4.5,False,0.6977,0.5845,book,0.6019
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,5.5,True,0.5527,0.4248,book,0.4445
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,6.5,False,0.409,0.2893,book,0.3077
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,7.5,False,0.2888,0.1804,book,0.1971
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ast,8.5,False,0.1905,0.1113,book,0.1235
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,fg3m,0.5,True,0.455,0.4182,book,0.4239
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,fg3m,1.5,False,0.1298,0.128,book,0.1283
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,fg3m,2.5,False,0.0253,0.0406,book,0.0382
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,stl,0.5,False,0.641,0.6613,book,0.6582
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,stl,1.5,False,0.2877,0.3245,book,0.3188
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,stl,2.5,False,0.1019,0.1316,book,0.127
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,blk,0.5,False,0.6432,0.6505,book,0.6494
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,blk,1.5,False,0.2828,0.3136,book,0.3089
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,blk,2.5,False,0.0947,0.1246,book,0.12
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,39.5,False,0.7111,0.6771,book,0.6823
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,40.5,False,0.6808,0.6399,est,0.6462
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,41.5,False,0.651,0.6085,est,0.6151
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,42.5,False,0.6198,0.576,est,0.5827
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,43.5,False,0.5886,0.5439,est,0.5508
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,44.5,True,0.5579,0.5126,book,0.5196
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,45.5,False,0.5291,0.4836,est,0.4906
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,46.5,False,0.4987,0.4532,est,0.4602
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,47.5,False,0.468,0.423,est,0.4299
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,48.5,False,0.4397,0.3954,est,0.4022
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pra,49.5,False,0.4117,0.3461,book,0.3562
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,35.5,False,0.6559,0.637,est,0.6399
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,36.5,False,0.6224,0.6028,est,0.6058
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,37.5,False,0.5916,0.5715,est,0.5746
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,38.5,False,0.5591,0.5386,est,0.5417
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,39.5,True,0.5266,0.5059,book,0.5091
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,40.5,False,0.4958,0.4751,est,0.4783
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,41.5,False,0.4632,0.4427,est,0.4458
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,42.5,False,0.4323,0.4121,est,0.4152
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pr,43.5,False,0.4026,0.3828,est,0.3859
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,29.5,False,0.6652,0.6624,est,0.6628
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,30.5,False,0.6299,0.627,est,0.6275
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,31.5,False,0.5961,0.5931,est,0.5936
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,32.5,False,0.5589,0.5559,est,0.5563
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,33.5,True,0.5232,0.5201,book,0.5206
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,34.5,False,0.4905,0.4875,est,0.4879
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,35.5,False,0.4569,0.4539,est,0.4543
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,36.5,False,0.4258,0.4228,est,0.4233
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,pa,37.5,False,0.3956,0.3927,est,0.3931
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,12.5,False,0.8611,0.7708,est,0.7847
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,13.5,False,0.808,0.6955,est,0.7128
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,14.5,False,0.7495,0.6189,est,0.639
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,15.5,True,0.6781,0.5335,book,0.5558
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,16.5,False,0.6056,0.4546,est,0.4778
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,17.5,False,0.5301,0.3798,est,0.4029
+401909998,HOU @ MIA,MIA,203507,Giannis Antetokounmpo,ra,18.5,False,0.4554,0.3122,est,0.3343
 401909998,HOU @ MIA,MIA,905107157,Ryan Conwell,pts,4.5,False,0.8313,,model only,0.8313
 401909998,HOU @ MIA,MIA,905107157,Ryan Conwell,pts,5.5,False,0.7503,,model only,0.7503
 401909998,HOU @ MIA,MIA,905107157,Ryan Conwell,pts,6.5,False,0.6625,,model only,0.6625
@@ -5710,15 +5710,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,MIA,1631323,Simone Fontecchio,ra,4.5,False,0.2306,,model only,0.2306
 401909998,HOU @ MIA,MIA,1631323,Simone Fontecchio,ra,5.5,False,0.1359,,model only,0.1359
 401909998,HOU @ MIA,MIA,1631323,Simone Fontecchio,ra,6.5,False,0.0744,,model only,0.0744
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,0.5,False,0.9501,,model only,0.9501
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,1.5,False,0.8551,,model only,0.8551
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,2.5,False,0.7284,,model only,0.7284
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,3.5,False,0.5933,,model only,0.5933
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,4.5,False,0.4584,,model only,0.4584
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,5.5,False,0.3361,,model only,0.3361
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,6.5,False,0.2399,,model only,0.2399
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,7.5,False,0.171,,model only,0.171
-401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,8.5,False,0.12,,model only,0.12
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,0.5,False,0.9501,0.9624,est,0.9605
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,1.5,False,0.8551,0.888,est,0.883
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,2.5,False,0.7284,0.7828,est,0.7744
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,3.5,False,0.5933,0.6622,est,0.6516
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,4.5,True,0.4584,0.5321,book,0.5207
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,5.5,False,0.3361,0.4048,est,0.3943
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,6.5,False,0.2399,0.2979,est,0.2889
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,7.5,False,0.171,0.2171,est,0.21
+401909998,HOU @ MIA,MIA,1642066,Myron Gardner,pts,8.5,False,0.12,0.1549,est,0.1495
 401909998,HOU @ MIA,MIA,1642066,Myron Gardner,reb,1.5,False,0.8611,,model only,0.8611
 401909998,HOU @ MIA,MIA,1642066,Myron Gardner,reb,2.5,False,0.7312,,model only,0.7312
 401909998,HOU @ MIA,MIA,1642066,Myron Gardner,reb,3.5,False,0.5721,,model only,0.5721
@@ -5836,100 +5836,98 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,MIA,203501,Tim Hardaway Jr.,ra,3.5,False,0.267,,model only,0.267
 401909998,HOU @ MIA,MIA,203501,Tim Hardaway Jr.,ra,4.5,False,0.1457,,model only,0.1457
 401909998,HOU @ MIA,MIA,203501,Tim Hardaway Jr.,ra,5.5,False,0.0739,,model only,0.0739
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,10.5,False,0.7492,,model only,0.7492
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,11.5,False,0.6847,,model only,0.6847
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,12.5,False,0.6193,,model only,0.6193
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,13.5,False,0.5522,,model only,0.5522
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,14.5,False,0.4872,,model only,0.4872
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,15.5,False,0.4248,,model only,0.4248
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,16.5,False,0.3653,,model only,0.3653
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,17.5,False,0.3158,,model only,0.3158
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,18.5,False,0.2695,,model only,0.2695
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,0.5,False,0.951,,model only,0.951
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,1.5,False,0.8017,,model only,0.8017
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,2.5,False,0.5874,,model only,0.5874
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,3.5,False,0.377,,model only,0.377
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,4.5,False,0.2099,,model only,0.2099
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,5.5,False,0.1073,,model only,0.1073
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,6.5,False,0.0489,,model only,0.0489
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,6.5,False,0.743,,model only,0.743
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,7.5,False,0.6277,,model only,0.6277
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,8.5,False,0.5114,,model only,0.5114
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,9.5,False,0.4031,,model only,0.4031
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,10.5,False,0.3034,,model only,0.3034
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,11.5,False,0.22,,model only,0.22
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,12.5,False,0.1544,,model only,0.1544
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,0.5,False,0.8916,,model only,0.8916
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,1.5,False,0.645,,model only,0.645
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,2.5,False,0.3584,,model only,0.3584
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,3.5,False,0.1583,,model only,0.1583
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,4.5,False,0.0564,,model only,0.0564
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,stl,0.5,False,0.7085,,model only,0.7085
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,stl,1.5,False,0.3724,,model only,0.3724
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,stl,2.5,False,0.1483,,model only,0.1483
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,9.5,False,0.8058,0.7702,est,0.7757
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,10.5,False,0.7492,0.7069,est,0.7134
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,11.5,False,0.6847,0.6368,est,0.6442
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,12.5,False,0.6193,0.5678,est,0.5758
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,13.5,True,0.5522,0.499,book,0.5072
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,14.5,False,0.4872,0.4341,est,0.4423
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,15.5,False,0.4248,0.3736,est,0.3815
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,16.5,False,0.3653,0.3173,est,0.3247
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pts,17.5,False,0.3158,0.2716,est,0.2784
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,0.5,False,0.951,0.9109,est,0.9171
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,1.5,False,0.8017,0.6806,est,0.6992
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,2.5,True,0.5874,0.4287,book,0.4531
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,3.5,False,0.377,0.2409,book,0.2619
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,4.5,False,0.2099,0.1214,book,0.135
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,reb,5.5,False,0.1073,0.0599,book,0.0672
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,4.5,False,0.9079,0.8526,book,0.8611
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,5.5,False,0.8364,0.772,book,0.7819
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,6.5,False,0.743,0.6691,book,0.6805
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,7.5,True,0.6277,0.5468,book,0.5593
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,8.5,False,0.5114,0.4307,book,0.4431
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,9.5,False,0.4031,0.3179,book,0.331
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ast,10.5,False,0.3034,0.2241,book,0.2363
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,0.5,False,0.8916,0.8259,book,0.836
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,1.5,True,0.645,0.5852,book,0.5944
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,2.5,False,0.3584,0.3449,book,0.347
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,fg3m,3.5,False,0.1583,0.178,book,0.175
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,stl,0.5,False,0.7085,0.7027,book,0.7036
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,stl,1.5,False,0.3724,0.3753,book,0.3749
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,stl,2.5,False,0.1483,0.1657,book,0.163
 401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,blk,0.5,False,0.2587,,model only,0.2587
 401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,blk,1.5,False,0.0383,,model only,0.0383
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,21.5,False,0.7403,,model only,0.7403
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,22.5,False,0.6946,,model only,0.6946
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,23.5,False,0.6426,,model only,0.6426
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,24.5,False,0.5938,,model only,0.5938
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,25.5,False,0.5423,,model only,0.5423
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,26.5,False,0.4919,,model only,0.4919
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,27.5,False,0.4442,,model only,0.4442
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,28.5,False,0.399,,model only,0.399
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,29.5,False,0.3552,,model only,0.3552
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,30.5,False,0.3155,,model only,0.3155
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,31.5,False,0.2751,,model only,0.2751
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,13.5,False,0.7401,,model only,0.7401
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,14.5,False,0.6814,,model only,0.6814
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,15.5,False,0.6189,,model only,0.6189
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,16.5,False,0.5562,,model only,0.5562
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,17.5,False,0.494,,model only,0.494
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,18.5,False,0.4359,,model only,0.4359
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,19.5,False,0.3824,,model only,0.3824
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,20.5,False,0.3314,,model only,0.3314
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,21.5,False,0.2837,,model only,0.2837
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,19.5,False,0.6964,,model only,0.6964
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,20.5,False,0.6462,,model only,0.6462
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,21.5,False,0.5941,,model only,0.5941
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,22.5,False,0.54,,model only,0.54
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,23.5,False,0.4877,,model only,0.4877
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,24.5,False,0.4358,,model only,0.4358
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,25.5,False,0.3892,,model only,0.3892
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,26.5,False,0.3434,,model only,0.3434
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,27.5,False,0.3003,,model only,0.3003
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,9.5,False,0.716,,model only,0.716
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,10.5,False,0.6196,,model only,0.6196
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,11.5,False,0.5218,,model only,0.5218
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,12.5,False,0.4248,,model only,0.4248
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,13.5,False,0.3364,,model only,0.3364
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,14.5,False,0.2592,,model only,0.2592
-401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,15.5,False,0.1928,,model only,0.1928
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,4.5,False,0.7801,,model only,0.7801
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,5.5,False,0.69,,model only,0.69
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,6.5,False,0.5948,,model only,0.5948
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,7.5,False,0.5012,,model only,0.5012
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,8.5,False,0.4138,,model only,0.4138
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,9.5,False,0.3345,,model only,0.3345
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,10.5,False,0.2675,,model only,0.2675
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,11.5,False,0.2114,,model only,0.2114
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,12.5,False,0.1635,,model only,0.1635
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,2.5,False,0.831,,model only,0.831
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,3.5,False,0.7043,,model only,0.7043
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,4.5,False,0.5642,,model only,0.5642
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,5.5,False,0.426,,model only,0.426
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,6.5,False,0.3047,,model only,0.3047
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,7.5,False,0.2076,,model only,0.2076
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,8.5,False,0.1319,,model only,0.1319
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,19.5,False,0.8216,0.7207,book,0.7362
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,20.5,False,0.7834,0.707,est,0.7188
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,21.5,False,0.7403,0.6554,est,0.6685
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,22.5,False,0.6946,0.6028,est,0.6169
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,23.5,False,0.6426,0.5453,est,0.5603
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,24.5,True,0.5938,0.4937,book,0.5091
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,25.5,False,0.5423,0.4415,est,0.457
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,26.5,False,0.4919,0.3924,est,0.4078
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,27.5,False,0.4442,0.3477,est,0.3626
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,28.5,False,0.399,0.3069,est,0.3211
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pra,29.5,False,0.3552,0.279,book,0.2907
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,12.5,False,0.7921,0.7371,est,0.7455
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,13.5,False,0.7401,0.677,est,0.6867
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,14.5,False,0.6814,0.6115,est,0.6222
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,15.5,False,0.6189,0.5444,est,0.5559
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,16.5,True,0.5562,0.4798,book,0.4916
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,17.5,False,0.494,0.4181,est,0.4298
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,18.5,False,0.4359,0.3625,est,0.3738
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,19.5,False,0.3824,0.3131,est,0.3237
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pr,20.5,False,0.3314,0.2673,est,0.2772
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,18.5,False,0.7476,0.6967,est,0.7045
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,19.5,False,0.6964,0.6401,est,0.6488
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,20.5,False,0.6462,0.5862,est,0.5954
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,21.5,False,0.5941,0.5316,est,0.5412
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,22.5,True,0.54,0.4765,book,0.4863
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,23.5,False,0.4877,0.4247,est,0.4344
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,24.5,False,0.4358,0.3746,est,0.384
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,25.5,False,0.3892,0.3307,est,0.3397
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,pa,26.5,False,0.3434,0.2886,est,0.297
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,7.5,False,0.8716,0.7962,est,0.8078
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,8.5,False,0.7991,0.6959,est,0.7118
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,9.5,False,0.716,0.5919,est,0.6111
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,10.5,True,0.6196,0.4838,book,0.5047
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,11.5,False,0.5218,0.3857,est,0.4066
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,12.5,False,0.4248,0.2982,est,0.3177
+401909998,HOU @ MIA,MIA,1630558,Davion Mitchell,ra,13.5,False,0.3364,0.2258,est,0.2429
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,3.5,False,0.8631,0.8551,est,0.8563
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,4.5,False,0.7801,0.7685,est,0.7703
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,5.5,False,0.69,0.6757,est,0.6779
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,6.5,False,0.5948,0.5247,book,0.5355
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,7.5,True,0.5012,0.4847,book,0.4872
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,8.5,False,0.4138,0.3979,est,0.4003
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,9.5,False,0.3345,0.3199,est,0.3222
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,10.5,False,0.2675,0.2547,est,0.2567
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pts,11.5,False,0.2114,0.2005,est,0.2022
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,1.5,False,0.9236,0.8817,est,0.8882
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,2.5,False,0.831,0.7462,book,0.7593
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,3.5,False,0.7043,0.5996,book,0.6157
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,4.5,True,0.5642,0.444,book,0.4625
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,5.5,False,0.426,0.3084,book,0.3265
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,6.5,False,0.3047,0.2054,book,0.2207
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,reb,7.5,False,0.2076,0.1316,book,0.1433
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ast,0.5,False,0.7109,,model only,0.7109
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ast,1.5,False,0.3737,,model only,0.3737
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ast,2.5,False,0.1619,,model only,0.1619
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ast,3.5,False,0.0569,,model only,0.0569
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ast,4.5,False,0.0204,,model only,0.0204
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,0.5,False,0.6582,,model only,0.6582
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,1.5,False,0.2809,,model only,0.2809
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,2.5,False,0.0833,,model only,0.0833
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,3.5,False,0.0215,,model only,0.0215
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,0.5,False,0.6582,0.6629,book,0.6622
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,1.5,True,0.2809,0.3507,book,0.34
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,2.5,False,0.0833,0.1505,book,0.1402
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,fg3m,3.5,False,0.0215,0.0649,book,0.0582
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,stl,0.5,False,0.4183,,model only,0.4183
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,stl,1.5,False,0.1177,,model only,0.1177
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,blk,0.5,False,0.2649,,model only,0.2649
@@ -5945,15 +5943,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pra,17.5,False,0.3049,,model only,0.3049
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pra,18.5,False,0.2575,,model only,0.2575
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pra,19.5,False,0.2138,,model only,0.2138
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,9.5,False,0.7248,,model only,0.7248
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,10.5,False,0.6592,,model only,0.6592
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,11.5,False,0.5917,,model only,0.5917
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,12.5,False,0.5216,,model only,0.5216
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,13.5,False,0.4558,,model only,0.4558
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,14.5,False,0.3918,,model only,0.3918
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,15.5,False,0.3299,,model only,0.3299
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,16.5,False,0.2761,,model only,0.2761
-401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,17.5,False,0.2296,,model only,0.2296
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,7.5,False,0.8407,0.7759,est,0.7859
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,8.5,False,0.7863,0.7071,est,0.7193
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,9.5,False,0.7248,0.6335,est,0.6476
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,10.5,False,0.6592,0.5594,est,0.5747
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,11.5,True,0.5917,0.4874,book,0.5035
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,12.5,False,0.5216,0.417,est,0.4331
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,13.5,False,0.4558,0.3547,est,0.3703
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,14.5,False,0.3918,0.2971,est,0.3117
+401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pr,15.5,False,0.3299,0.2442,est,0.2574
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pa,5.5,False,0.7823,,model only,0.7823
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pa,6.5,False,0.7029,,model only,0.7029
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,pa,7.5,False,0.6165,,model only,0.6165
@@ -5970,15 +5968,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ra,7.5,False,0.3609,,model only,0.3609
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ra,8.5,False,0.2632,,model only,0.2632
 401909998,HOU @ MIA,MIA,1626171,Bobby Portis,ra,9.5,False,0.1846,,model only,0.1846
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,9.5,False,0.7334,,model only,0.7334
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,10.5,False,0.6654,,model only,0.6654
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,11.5,False,0.5964,,model only,0.5964
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,12.5,False,0.5264,,model only,0.5264
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,13.5,False,0.4621,,model only,0.4621
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,14.5,False,0.3954,,model only,0.3954
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,15.5,False,0.34,,model only,0.34
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,16.5,False,0.2877,,model only,0.2877
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,17.5,False,0.244,,model only,0.244
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,9.5,False,0.7334,0.7543,est,0.7511
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,10.5,False,0.6654,0.6894,est,0.6857
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,11.5,False,0.5964,0.6226,est,0.6186
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,12.5,False,0.5264,0.5187,book,0.5199
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,13.5,True,0.4621,0.4895,book,0.4853
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,14.5,False,0.3954,0.4219,est,0.4179
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,15.5,False,0.34,0.3651,est,0.3612
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,16.5,False,0.2877,0.3107,est,0.3072
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,pts,17.5,False,0.244,0.2648,est,0.2616
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,reb,0.5,False,0.8821,,model only,0.8821
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,reb,1.5,False,0.6417,,model only,0.6417
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,reb,2.5,False,0.3955,,model only,0.3955
@@ -5991,11 +5989,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,ast,3.5,False,0.1495,,model only,0.1495
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,ast,4.5,False,0.0607,,model only,0.0607
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,ast,5.5,False,0.0222,,model only,0.0222
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,1.5,False,0.8022,,model only,0.8022
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,2.5,False,0.5614,,model only,0.5614
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,3.5,False,0.3241,,model only,0.3241
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,4.5,False,0.1543,,model only,0.1543
-401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,5.5,False,0.0644,,model only,0.0644
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,1.5,False,0.8022,0.8148,book,0.8129
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,2.5,False,0.5614,0.647,book,0.6338
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,3.5,True,0.3241,0.457,book,0.4365
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,4.5,False,0.1543,0.2893,book,0.2685
+401909998,HOU @ MIA,MIA,202691,Klay Thompson,fg3m,5.5,False,0.0644,0.1687,book,0.1526
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,stl,0.5,False,0.4486,,model only,0.4486
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,stl,1.5,False,0.1306,,model only,0.1306
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,blk,0.5,False,0.4539,,model only,0.4539
@@ -6036,74 +6034,72 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,ra,5.5,False,0.2676,,model only,0.2676
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,ra,6.5,False,0.1574,,model only,0.1574
 401909998,HOU @ MIA,MIA,202691,Klay Thompson,ra,7.5,False,0.0909,,model only,0.0909
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,6.5,False,0.8025,,model only,0.8025
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,7.5,False,0.7304,,model only,0.7304
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,8.5,False,0.6498,,model only,0.6498
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,9.5,False,0.5694,,model only,0.5694
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,10.5,False,0.4879,,model only,0.4879
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,11.5,False,0.411,,model only,0.411
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,12.5,False,0.3415,,model only,0.3415
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,13.5,False,0.2816,,model only,0.2816
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,14.5,False,0.2288,,model only,0.2288
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,0.5,False,0.9632,,model only,0.9632
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,1.5,False,0.8489,,model only,0.8489
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,2.5,False,0.6732,,model only,0.6732
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,3.5,False,0.4772,,model only,0.4772
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,4.5,False,0.3044,,model only,0.3044
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,5.5,False,0.1776,,model only,0.1776
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,6.5,False,0.0948,,model only,0.0948
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,0.5,False,0.8352,,model only,0.8352
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,1.5,False,0.554,,model only,0.554
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,2.5,False,0.2989,,model only,0.2989
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,3.5,False,0.1367,,model only,0.1367
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,4.5,False,0.0544,,model only,0.0544
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,5.5,False,0.0194,,model only,0.0194
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,0.5,False,0.8057,,model only,0.8057
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,1.5,False,0.4622,,model only,0.4622
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,2.5,False,0.1898,,model only,0.1898
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,3.5,False,0.0573,,model only,0.0573
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,5.5,False,0.8664,0.7698,book,0.7847
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,6.5,False,0.8025,0.7469,est,0.7554
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,7.5,False,0.7304,0.6407,book,0.6545
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,8.5,False,0.6498,0.574,est,0.5856
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,9.5,True,0.5694,0.4899,book,0.5021
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,10.5,False,0.4879,0.409,est,0.4211
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,11.5,False,0.411,0.3622,book,0.3697
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,12.5,False,0.3415,0.2735,est,0.284
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pts,13.5,False,0.2816,0.2216,est,0.2308
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,0.5,False,0.9632,0.9452,est,0.948
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,1.5,False,0.8489,0.7874,est,0.7969
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,2.5,True,0.6732,0.5758,book,0.5908
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,3.5,False,0.4772,0.3815,book,0.3962
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,4.5,False,0.3044,0.2236,book,0.236
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,reb,5.5,False,0.1776,0.1214,book,0.1301
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,0.5,False,0.8352,0.769,est,0.7792
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,1.5,True,0.554,0.4493,book,0.4654
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,2.5,False,0.2989,0.2179,book,0.2304
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,3.5,False,0.1367,0.0963,book,0.1025
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ast,4.5,False,0.0544,0.0445,book,0.046
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,0.5,False,0.8057,0.7027,book,0.7186
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,1.5,True,0.4622,0.3807,book,0.3933
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,2.5,False,0.1898,0.1715,book,0.1743
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,fg3m,3.5,False,0.0573,0.0708,book,0.0687
 401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,stl,0.5,False,0.5728,,model only,0.5728
 401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,stl,1.5,False,0.2238,,model only,0.2238
 401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,stl,2.5,False,0.0707,,model only,0.0707
 401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,blk,0.5,False,0.565,,model only,0.565
 401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,blk,1.5,False,0.21,,model only,0.21
 401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,blk,2.5,False,0.0596,,model only,0.0596
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,11.5,False,0.7806,,model only,0.7806
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,12.5,False,0.7238,,model only,0.7238
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,13.5,False,0.6575,,model only,0.6575
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,14.5,False,0.59,,model only,0.59
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,15.5,False,0.5239,,model only,0.5239
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,16.5,False,0.4568,,model only,0.4568
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,17.5,False,0.3984,,model only,0.3984
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,18.5,False,0.3427,,model only,0.3427
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,19.5,False,0.2928,,model only,0.2928
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,20.5,False,0.2465,,model only,0.2465
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,21.5,False,0.2085,,model only,0.2085
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,10.5,False,0.7429,,model only,0.7429
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,11.5,False,0.6759,,model only,0.6759
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,12.5,False,0.6064,,model only,0.6064
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,13.5,False,0.5331,,model only,0.5331
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,14.5,False,0.4637,,model only,0.4637
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,15.5,False,0.3981,,model only,0.3981
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,16.5,False,0.3364,,model only,0.3364
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,17.5,False,0.2857,,model only,0.2857
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,18.5,False,0.24,,model only,0.24
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,8.5,False,0.7785,,model only,0.7785
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,9.5,False,0.7079,,model only,0.7079
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,10.5,False,0.6289,,model only,0.6289
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,11.5,False,0.5546,,model only,0.5546
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,12.5,False,0.4827,,model only,0.4827
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,13.5,False,0.4132,,model only,0.4132
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,14.5,False,0.3463,,model only,0.3463
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,15.5,False,0.2875,,model only,0.2875
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,16.5,False,0.2395,,model only,0.2395
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,2.5,False,0.8817,,model only,0.8817
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,3.5,False,0.7643,,model only,0.7643
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,4.5,False,0.6157,,model only,0.6157
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,5.5,False,0.4655,,model only,0.4655
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,6.5,False,0.3277,,model only,0.3277
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,7.5,False,0.2182,,model only,0.2182
-401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,8.5,False,0.1379,,model only,0.1379
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,9.5,False,0.8822,0.7726,book,0.7895
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,10.5,False,0.8359,0.7631,est,0.7743
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,11.5,False,0.7806,0.6922,est,0.7058
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,12.5,False,0.7238,0.6236,est,0.6391
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,13.5,False,0.6575,0.5483,est,0.5651
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,14.5,True,0.59,0.4764,book,0.4939
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,15.5,False,0.5239,0.4102,est,0.4277
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,16.5,False,0.4568,0.3471,est,0.364
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,17.5,False,0.3984,0.2951,est,0.311
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,18.5,False,0.3427,0.2479,est,0.2625
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pra,19.5,False,0.2928,0.2236,book,0.2343
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,8.5,False,0.86,0.8033,est,0.812
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,9.5,False,0.8056,0.6974,book,0.7141
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,10.5,False,0.7429,0.6575,est,0.6707
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,11.5,False,0.6759,0.5809,est,0.5955
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,12.5,True,0.6064,0.5059,book,0.5214
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,13.5,False,0.5331,0.4314,est,0.4471
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,14.5,False,0.4637,0.383,book,0.3954
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,15.5,False,0.3981,0.3053,est,0.3196
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pr,16.5,False,0.3364,0.252,est,0.265
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,7.5,False,0.8391,0.7861,est,0.7942
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,8.5,False,0.7785,0.7124,est,0.7226
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,9.5,False,0.7079,0.6089,book,0.6242
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,10.5,False,0.6289,0.5443,est,0.5573
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,11.5,True,0.5546,0.4673,book,0.4807
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,12.5,False,0.4827,0.3967,est,0.4099
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,13.5,False,0.4132,0.3316,est,0.3442
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,14.5,False,0.3463,0.2885,book,0.2974
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,pa,15.5,False,0.2875,0.2214,est,0.2315
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,1.5,False,0.9585,0.9301,est,0.9344
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,2.5,False,0.8817,0.811,est,0.8219
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,3.5,False,0.7643,0.651,est,0.6685
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,4.5,True,0.6157,0.4797,book,0.5006
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,5.5,False,0.4655,0.3339,est,0.3542
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,6.5,False,0.3277,0.2191,est,0.2358
+401909998,HOU @ MIA,MIA,203952,Andrew Wiggins,ra,7.5,False,0.2182,0.1384,est,0.1507
 401909998,HOU @ MIA,HOU,203992,Bogdan Bogdanovic,pts,5.5,False,0.7685,,model only,0.7685
 401909998,HOU @ MIA,HOU,203992,Bogdan Bogdanovic,pts,6.5,False,0.6816,,model only,0.6816
 401909998,HOU @ MIA,HOU,203992,Bogdan Bogdanovic,pts,7.5,False,0.5951,,model only,0.5951
@@ -6230,15 +6226,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,HOU,1642384,Isaiah Crawford,ra,3.5,False,0.3146,,model only,0.3146
 401909998,HOU @ MIA,HOU,1642384,Isaiah Crawford,ra,4.5,False,0.1904,,model only,0.1904
 401909998,HOU @ MIA,HOU,1642384,Isaiah Crawford,ra,5.5,False,0.1086,,model only,0.1086
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,21.5,False,0.6313,,model only,0.6313
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,22.5,False,0.5882,,model only,0.5882
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,23.5,False,0.5456,,model only,0.5456
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,24.5,False,0.5041,,model only,0.5041
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,25.5,False,0.4649,,model only,0.4649
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,26.5,False,0.4258,,model only,0.4258
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,27.5,False,0.3889,,model only,0.3889
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,28.5,False,0.3505,,model only,0.3505
-401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,29.5,False,0.3166,,model only,0.3166
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,18.5,False,0.757,0.6901,est,0.7004
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,19.5,False,0.7169,0.6442,est,0.6554
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,20.5,False,0.6759,0.5985,est,0.6104
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,21.5,False,0.6313,0.5504,est,0.5628
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,22.5,True,0.5882,0.5052,book,0.518
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,23.5,False,0.5456,0.5203,book,0.5242
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,24.5,False,0.5041,0.4209,est,0.4337
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,25.5,False,0.4649,0.3832,est,0.3958
+401909998,HOU @ MIA,HOU,201142,Kevin Durant,pts,26.5,False,0.4258,0.3465,est,0.3587
 401909998,HOU @ MIA,HOU,201142,Kevin Durant,reb,3.5,False,0.8498,,model only,0.8498
 401909998,HOU @ MIA,HOU,201142,Kevin Durant,reb,4.5,False,0.7336,,model only,0.7336
 401909998,HOU @ MIA,HOU,201142,Kevin Durant,reb,5.5,False,0.5927,,model only,0.5927
@@ -6300,15 +6296,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,HOU,201142,Kevin Durant,ra,13.5,False,0.3221,,model only,0.3221
 401909998,HOU @ MIA,HOU,201142,Kevin Durant,ra,14.5,False,0.2419,,model only,0.2419
 401909998,HOU @ MIA,HOU,201142,Kevin Durant,ra,15.5,False,0.1765,,model only,0.1765
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,8.5,False,0.7743,,model only,0.7743
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,9.5,False,0.7088,,model only,0.7088
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,10.5,False,0.6383,,model only,0.6383
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,11.5,False,0.5662,,model only,0.5662
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,12.5,False,0.4932,,model only,0.4932
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,13.5,False,0.4271,,model only,0.4271
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,14.5,False,0.3656,,model only,0.3656
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,15.5,False,0.3087,,model only,0.3087
-401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,16.5,False,0.2585,,model only,0.2585
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,9.5,False,0.7088,0.7807,est,0.7696
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,10.5,False,0.6383,0.7206,est,0.708
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,11.5,False,0.5662,0.6561,est,0.6423
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,12.5,False,0.4932,0.5873,est,0.5728
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,13.5,True,0.4271,0.5215,book,0.507
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,14.5,False,0.3656,0.4573,est,0.4432
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,15.5,False,0.3087,0.3951,est,0.3818
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,16.5,False,0.2585,0.3376,est,0.3254
+401909998,HOU @ MIA,HOU,1631106,Tari Eason,pts,17.5,False,0.2137,0.2844,est,0.2735
 401909998,HOU @ MIA,HOU,1631106,Tari Eason,reb,4.5,False,0.846,,model only,0.846
 401909998,HOU @ MIA,HOU,1631106,Tari Eason,reb,5.5,False,0.7442,,model only,0.7442
 401909998,HOU @ MIA,HOU,1631106,Tari Eason,reb,6.5,False,0.6248,,model only,0.6248
@@ -6368,15 +6364,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,HOU,1631106,Tari Eason,ra,10.5,False,0.3837,,model only,0.3837
 401909998,HOU @ MIA,HOU,1631106,Tari Eason,ra,11.5,False,0.2896,,model only,0.2896
 401909998,HOU @ MIA,HOU,1631106,Tari Eason,ra,12.5,False,0.2135,,model only,0.2135
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,19.5,False,0.6648,,model only,0.6648
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,20.5,False,0.6193,,model only,0.6193
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,21.5,False,0.5723,,model only,0.5723
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,22.5,False,0.5308,,model only,0.5308
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,23.5,False,0.4901,,model only,0.4901
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,24.5,False,0.4443,,model only,0.4443
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,25.5,False,0.4067,,model only,0.4067
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,26.5,False,0.3701,,model only,0.3701
-401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,27.5,False,0.3321,,model only,0.3321
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,16.5,False,0.7921,0.7051,est,0.7185
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,17.5,False,0.751,0.6544,est,0.6693
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,18.5,False,0.7081,0.6036,est,0.6197
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,19.5,False,0.6648,0.5545,est,0.5715
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,20.5,True,0.6193,0.5052,book,0.5228
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,21.5,False,0.5723,0.4929,book,0.5051
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,22.5,False,0.5308,0.4152,est,0.433
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,23.5,False,0.4901,0.3763,est,0.3938
+401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,pts,24.5,False,0.4443,0.3342,est,0.3511
 401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,reb,7.5,False,0.7693,,model only,0.7693
 401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,reb,8.5,False,0.6717,,model only,0.6717
 401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,reb,9.5,False,0.5679,,model only,0.5679
@@ -6437,15 +6433,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,ra,18.5,False,0.4063,,model only,0.4063
 401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,ra,19.5,False,0.3357,,model only,0.3357
 401909998,HOU @ MIA,HOU,1630578,Alperen Sengun,ra,20.5,False,0.2718,,model only,0.2718
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,11.5,False,0.6823,,model only,0.6823
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,12.5,False,0.6238,,model only,0.6238
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,13.5,False,0.5646,,model only,0.5646
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,14.5,False,0.5042,,model only,0.5042
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,15.5,False,0.4438,,model only,0.4438
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,16.5,False,0.3868,,model only,0.3868
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,17.5,False,0.3377,,model only,0.3377
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,18.5,False,0.2886,,model only,0.2886
-401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,19.5,False,0.2452,,model only,0.2452
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,7.5,False,0.8966,0.8075,est,0.8213
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,8.5,False,0.8523,0.7363,est,0.7541
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,9.5,False,0.801,0.6607,est,0.6823
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,10.5,False,0.7435,0.5837,est,0.6083
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,11.5,True,0.6823,0.5096,book,0.5362
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,12.5,False,0.6238,0.4451,est,0.4727
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,13.5,False,0.5646,0.3855,est,0.4131
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,14.5,False,0.5042,0.3298,est,0.3566
+401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,pts,15.5,False,0.4438,0.2785,est,0.304
 401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,reb,0.5,False,0.9351,,model only,0.9351
 401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,reb,1.5,False,0.7773,,model only,0.7773
 401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,reb,2.5,False,0.5557,,model only,0.5557
@@ -6506,15 +6502,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,ra,8.5,False,0.3246,,model only,0.3246
 401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,ra,9.5,False,0.2263,,model only,0.2263
 401909998,HOU @ MIA,HOU,1642263,Reed Sheppard,ra,10.5,False,0.1562,,model only,0.1562
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,13.5,False,0.6778,,model only,0.6778
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,14.5,False,0.6182,,model only,0.6182
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,15.5,False,0.5608,,model only,0.5608
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,16.5,False,0.5048,,model only,0.5048
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,17.5,False,0.4504,,model only,0.4504
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,18.5,False,0.3966,,model only,0.3966
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,19.5,False,0.3463,,model only,0.3463
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,20.5,False,0.3018,,model only,0.3018
-401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,21.5,False,0.2601,,model only,0.2601
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,11.5,False,0.7899,0.7386,est,0.7465
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,12.5,False,0.7356,0.6764,est,0.6855
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,13.5,False,0.6778,0.6125,est,0.6225
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,14.5,False,0.6182,0.5489,est,0.5595
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,15.5,True,0.5608,0.4897,book,0.5007
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,16.5,False,0.5048,0.5203,book,0.5179
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,17.5,False,0.4504,0.3811,est,0.3918
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,18.5,False,0.3966,0.3306,est,0.3408
+401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,pts,19.5,False,0.3463,0.2847,est,0.2942
 401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,reb,4.5,False,0.8328,,model only,0.8328
 401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,reb,5.5,False,0.7229,,model only,0.7229
 401909998,HOU @ MIA,HOU,1631095,Jabari Smith Jr.,reb,6.5,False,0.595,,model only,0.595
@@ -6701,15 +6697,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909998,HOU @ MIA,HOU,1631131,Oscar Tshiebwe,ra,9.5,False,0.3448,,model only,0.3448
 401909998,HOU @ MIA,HOU,1631131,Oscar Tshiebwe,ra,10.5,False,0.2718,,model only,0.2718
 401909998,HOU @ MIA,HOU,1631131,Oscar Tshiebwe,ra,11.5,False,0.2127,,model only,0.2127
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,12.5,False,0.7171,,model only,0.7171
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,13.5,False,0.6606,,model only,0.6606
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,14.5,False,0.6007,,model only,0.6007
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,15.5,False,0.5389,,model only,0.5389
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,16.5,False,0.4832,,model only,0.4832
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,17.5,False,0.4303,,model only,0.4303
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,18.5,False,0.3775,,model only,0.3775
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,19.5,False,0.3304,,model only,0.3304
-401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,20.5,False,0.2879,,model only,0.2879
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,10.5,False,0.8237,0.7299,est,0.7444
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,11.5,False,0.7742,0.6649,est,0.6817
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,12.5,False,0.7171,0.5946,est,0.6135
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,13.5,False,0.6606,0.5296,est,0.5498
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,14.5,True,0.6007,0.4653,book,0.4861
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,15.5,False,0.5389,0.4034,est,0.4243
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,16.5,False,0.4832,0.3511,est,0.3714
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,17.5,False,0.4303,0.3041,est,0.3235
+401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,pts,18.5,False,0.3775,0.2597,est,0.2779
 401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,reb,1.5,False,0.887,,model only,0.887
 401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,reb,2.5,False,0.7364,,model only,0.7364
 401909998,HOU @ MIA,HOU,1627832,Fred VanVleet,reb,3.5,False,0.5446,,model only,0.5446
