@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ SAC,Darius Acuff Jr. 7+ ast + Domantas Sabonis 25+ pra,2,0.5631,0.384,2.6,2.73,2.46,-0.0547,1.009,2.10-2.50
-OKC @ SAC,Domantas Sabonis 26+ pr + Keegan Murray 1+ 3pm,2,0.6162,0.4122,2.43,2.55,2.29,-0.056,1.005,2.10-2.50
-OKC @ SAC,Keegan Murray 17+ pr + Domantas Sabonis 25+ pra,2,0.6256,0.4178,2.39,2.51,2.26,-0.056,1.008,2.10-2.50
-OKC @ SAC,Domantas Sabonis 26+ pr + Darius Acuff Jr. 4+ ast,2,0.6493,0.4472,2.24,2.35,2.1,-0.0613,1.004,1.85-2.10
-OKC @ SAC,Domantas Sabonis 26+ pr + Darius Acuff Jr. 20+ pa,2,0.6476,0.4468,2.24,2.35,2.1,-0.0621,1.004,1.85-2.10
-OKC @ SAC,Domantas Sabonis 19+ pa + Darius Acuff Jr. 4+ ast,2,0.6508,0.4537,2.2,2.31,2.07,-0.0628,1.007,1.85-2.10
-OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6862,0.6082,1.64,1.73,1.51,-0.0823,1.013,1.50-1.65
-OKC @ SAC,OKC win + Domantas Sabonis 25+ pra,2,0.7504,0.6064,1.65,1.73,1.51,-0.0851,0.994,1.50-1.65
-OKC @ SAC,OKC win + Domantas Sabonis 4+ ast,2,0.6673,0.585,1.71,1.79,1.53,-0.1054,0.986,1.50-1.65
-OKC @ SAC,OKC win + Domantas Sabonis 25+ pra + Keegan Murray 1+ 3pm,3,0.6571,0.4742,2.11,2.21,1.83,-0.1306,0.992,1.65-1.85
-OKC @ SAC,OKC win + Keegan Murray 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.5979,0.4732,2.11,2.22,1.83,-0.1324,1.006,1.65-1.85
-OKC @ SAC,OKC win + Domantas Sabonis 8+ reb + Shai Gilgeous-Alexander 4+ ast,3,0.6281,0.5212,1.92,2.01,1.66,-0.1325,1.014,1.65-1.85
+OKC @ SAC,Domantas Sabonis 27+ pr + Keegan Murray 1+ 3pm,2,0.618,0.4044,2.47,2.6,2.33,-0.0582,1.0,2.10-2.50
+OKC @ SAC,SAC +10.5 + Darius Acuff Jr. 20+ pr,2,0.323,0.4327,2.31,2.43,2.18,-0.0582,1.039,2.10-2.50
+OKC @ SAC,Domantas Sabonis 14+ pts + Keegan Murray 1+ 3pm,2,0.6357,0.4227,2.37,2.48,2.23,-0.0594,1.003,2.10-2.50
+OKC @ SAC,Domantas Sabonis 14+ pts + Darius Acuff Jr. 4+ ast,2,0.6587,0.4616,2.17,2.27,2.03,-0.0648,1.006,1.85-2.10
+OKC @ SAC,Domantas Sabonis 19+ pa + Darius Acuff Jr. 4+ ast,2,0.6734,0.4763,2.1,2.2,1.96,-0.0659,1.007,1.85-2.10
+OKC @ SAC,Domantas Sabonis 32+ pra + Darius Acuff Jr. 4+ ast,2,0.6571,0.4603,2.17,2.28,2.03,-0.0674,1.009,1.85-2.10
+OKC @ SAC,Domantas Sabonis 19+ pa + Darius Acuff Jr. 1+ 3pm,2,0.6876,0.5022,1.99,2.09,1.85,-0.0724,1.005,1.65-1.85
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.704,0.5996,1.67,1.75,1.53,-0.0835,1.009,1.50-1.65
+OKC @ SAC,OKC win + Domantas Sabonis 8+ reb + Shai Gilgeous-Alexander 4+ ast,3,0.6501,0.5106,1.96,2.06,1.7,-0.1308,1.01,1.65-1.85
+OKC @ SAC,OKC win + Keegan Murray 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.6247,0.4701,2.13,2.23,1.85,-0.131,1.003,1.65-1.85
+OKC @ SAC,OKC win + Shai Gilgeous-Alexander 4+ ast + Domantas Sabonis 6+ reb,3,0.6885,0.5513,1.81,1.9,1.57,-0.1346,1.009,1.50-1.65
+OKC @ SAC,OKC win + Keegan Murray 1+ 3pm + Domantas Sabonis 8+ reb,3,0.706,0.5261,1.9,2.0,1.64,-0.1358,0.996,1.50-1.65
