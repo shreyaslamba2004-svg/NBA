@@ -1,6 +1,6 @@
 # Line ladders · Mon 16 Nov 2026 (US date)
 
-Updated **Tue 17 Nov, 08:13 AM** Sydney time. Back to [TODAY.md](TODAY.md).
+Updated **Tue 17 Nov, 08:18 AM** Sydney time. Back to [TODAY.md](TODAY.md).
 
 For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: *book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for a player are left out. Use the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake.
 
@@ -1436,13 +1436,13 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | PTS | 25.5 | 42% | 2.39 | 58% | 1.72 | est |
 | PTS | 26.5 | 38% | 2.62 | 62% | 1.62 | est |
 | PTS | 27.5 | 34% | 2.91 | 66% | 1.52 | est |
-| REB | 7.5 | 78% | 1.28 | 22% | 4.55 | book |
-| REB | 8.5 | 70% | 1.43 | 30% | 3.32 | book |
-| REB | 9.5 | 60% | 1.65 | 40% | 2.53 | book |
-| REB | 10.5 ★ | 51% | 1.98 | 49% | 2.02 | book |
-| REB | 11.5 | 41% | 2.43 | 59% | 1.70 | book |
-| REB | 12.5 | 33% | 3.07 | 67% | 1.48 | book |
-| REB | 13.5 | 25% | 4.06 | 75% | 1.33 | book |
+| REB | 7.5 | 78% | 1.28 | 22% | 4.63 | book |
+| REB | 8.5 | 70% | 1.42 | 30% | 3.37 | book |
+| REB | 9.5 | 61% | 1.64 | 39% | 2.56 | book |
+| REB | 10.5 ★ | 51% | 1.97 | 49% | 2.03 | book |
+| REB | 11.5 | 42% | 2.39 | 58% | 1.72 | book |
+| REB | 12.5 | 33% | 3.04 | 67% | 1.49 | book |
+| REB | 13.5 | 25% | 3.99 | 75% | 1.33 | book |
 | AST | 0.5 | 91% | 1.09 | 9% | 11.60 | est |
 | AST | 1.5 | 70% | 1.44 | 30% | 3.29 | est |
 | AST | 2.5 ★ | 46% | 2.18 | 54% | 1.84 | book |
@@ -1469,15 +1469,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | PRA | 40.5 | 38% | 2.61 | 62% | 1.62 | est |
 | PRA | 41.5 | 35% | 2.85 | 65% | 1.54 | est |
 | PRA | 42.5 | 32% | 3.11 | 68% | 1.47 | est |
-| PR | 30.5 | 65% | 1.53 | 35% | 2.89 | est |
-| PR | 31.5 | 62% | 1.62 | 38% | 2.61 | est |
-| PR | 32.5 | 58% | 1.73 | 42% | 2.38 | est |
-| PR | 33.5 | 54% | 1.84 | 46% | 2.19 | est |
-| PR | 34.5 ★ | 50% | 1.99 | 50% | 2.01 | book |
-| PR | 35.5 | 47% | 2.14 | 53% | 1.87 | est |
-| PR | 36.5 | 43% | 2.33 | 57% | 1.75 | est |
-| PR | 37.5 | 39% | 2.54 | 61% | 1.65 | est |
-| PR | 38.5 | 36% | 2.79 | 64% | 1.56 | est |
+| PR | 30.5 | 66% | 1.52 | 34% | 2.92 | est |
+| PR | 31.5 | 62% | 1.61 | 38% | 2.63 | est |
+| PR | 32.5 | 58% | 1.72 | 42% | 2.40 | est |
+| PR | 33.5 | 55% | 1.83 | 45% | 2.20 | est |
+| PR | 34.5 ★ | 51% | 1.97 | 49% | 2.03 | book |
+| PR | 35.5 | 47% | 2.13 | 53% | 1.89 | est |
+| PR | 36.5 | 43% | 2.31 | 57% | 1.76 | est |
+| PR | 37.5 | 40% | 2.52 | 60% | 1.66 | est |
+| PR | 38.5 | 36% | 2.76 | 64% | 1.57 | est |
 | PA | 22.5 | 66% | 1.51 | 34% | 2.96 | est |
 | PA | 23.5 | 62% | 1.62 | 38% | 2.62 | est |
 | PA | 24.5 | 57% | 1.74 | 43% | 2.35 | est |
