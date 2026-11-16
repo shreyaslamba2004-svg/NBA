@@ -172,7 +172,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909998,HOU,1641708,Amen Thompson,,,1.0,,,
 401909998,HOU,905105837,Bruce Thornton,,,1.0,,,
 401909998,HOU,1631131,Oscar Tshiebwe,,,1.0,,,
-401909998,HOU,1627832,Fred VanVleet,Out,VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.,0.0,VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.,,
+401909998,HOU,1627832,Fred VanVleet,Day-To-Day,VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.,0.7,VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards.,,
 401909999,MIN,1630163,LaMelo Ball,,,1.0,,,
 401909999,MIN,1642866,Joan Beringer,Available,Injury/Illness-FaceMask,1.0,,,
 401909999,MIN,1641780,Johni Broome,,,1.0,,,
