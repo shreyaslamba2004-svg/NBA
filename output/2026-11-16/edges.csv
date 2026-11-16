@@ -11,9 +11,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909997,PHI @ BKN,prop_ast,over,VJ Edgecombe,1642845.0,7.5,draftkings,1680.0,17.8,0.1165,8.58,0.0525,0.0525,0.064,,1.0734,0.0624,0.11,0.0016,False,True,False,Joel Embiid,0.148,0.0916
 401909998,HOU @ MIA,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,1020.0,11.2,0.1839,5.44,0.0834,0.0834,0.1005,,1.0602,0.0989,0.1079,0.0026,False,True,False,,,
 401909998,HOU @ MIA,prop_ast,over,Reed Sheppard,1642263.0,6.5,draftkings,1680.0,17.8,0.1148,8.71,0.0525,0.0525,0.0623,,1.0431,0.0621,0.1053,0.0016,False,False,False,Amen Thompson,0.1681,0.0726
-401910000,GSW @ NOP,prop_pr,over,Derik Queen,1642852.0,29.5,draftkings,1460.0,15.6,0.1301,7.69,0.0599,0.0599,0.0701,,1.0289,0.0707,0.1031,0.0018,False,True,False,,,
-401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,5.5,draftkings,1140.0,12.4,0.1603,6.24,0.0754,0.0754,0.0849,,0.9872,0.0884,0.0967,0.0021,False,True,False,,,
 401909998,HOU @ MIA,prop_pts,over,Alperen Sengun,1630578.0,34.5,draftkings,1520.0,16.2,0.1227,8.15,0.0577,0.0577,0.065,,0.9874,0.0677,0.0967,0.0016,False,True,False,Amen Thompson,0.1449,0.1013
+401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,5.5,draftkings,1140.0,12.4,0.1603,6.24,0.0754,0.0754,0.0849,,0.9872,0.0884,0.0967,0.0021,False,True,False,,,
 401909998,HOU @ MIA,prop_pra,over,Kevin Durant,201142.0,49.5,draftkings,1440.0,15.4,0.1268,7.89,0.0607,0.0607,0.0661,,0.9522,0.0709,0.0913,0.0016,False,True,False,Amen Thompson,0.1506,0.1081
 401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,11.5,draftkings,1600.0,17.0,0.1146,8.72,0.055,0.055,0.0596,,0.9486,0.0642,0.0907,0.0014,False,True,False,,,
 401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,10.5,draftkings,1040.0,11.4,0.1696,5.9,0.082,0.082,0.0876,,0.9329,0.0955,0.0883,0.0021,False,False,False,,,
@@ -22,31 +21,30 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910000,GSW @ NOP,prop_ast,over,Zion Williamson,1629627.0,6.5,draftkings,1380.0,14.8,0.1297,7.71,0.0631,0.0631,0.0665,,0.9192,0.0734,0.0862,0.0016,False,False,False,,,
 401909998,HOU @ MIA,prop_ast,over,Reed Sheppard,1642263.0,4.5,draftkings,475.0,5.75,0.328,3.05,0.1625,0.1625,0.1654,,0.8858,0.188,0.0811,0.0043,True,False,False,Amen Thompson,0.4278,0.2548
 401909997,PHI @ BKN,prop_ast,over,VJ Edgecombe,1642845.0,5.5,draftkings,478.0,5.78,0.3248,3.08,0.1617,0.1617,0.1631,,0.8772,0.1868,0.0797,0.0042,True,True,False,Joel Embiid,0.377,0.2826
-401910000,GSW @ NOP,prop_pr,over,Derik Queen,1642852.0,24.5,draftkings,578.0,6.78,0.2766,3.62,0.1378,0.1378,0.1388,,0.8754,0.1592,0.0795,0.0034,False,True,False,,,
 401909998,HOU @ MIA,prop_pts,over,Alperen Sengun,1630578.0,39.5,draftkings,3000.0,31.0,0.0601,16.63,0.0301,0.0301,0.03,,0.8646,0.0348,0.0778,0.0006,False,True,False,,,
 401910000,GSW @ NOP,prop_ast,over,Draymond Green,203110.0,11.5,draftkings,1840.0,19.4,0.0956,10.46,0.0482,0.0482,0.0474,,0.8548,0.0555,0.0763,0.001,False,True,False,,,
 401909996,MEM @ WAS,prop_reb,over,Zach Edey,1641744.0,9.5,draftkings,243.0,3.43,0.5396,1.85,0.2725,0.2725,0.2671,,0.8507,0.3136,0.0757,0.0078,True,True,False,Zach Edey,0.0,0.559
 401909998,HOU @ MIA,prop_ast,over,Amen Thompson,1641708.0,7.5,draftkings,1240.0,13.4,0.1381,7.24,0.0697,0.0697,0.0683,,0.8504,0.0803,0.0756,0.0015,False,True,False,Amen Thompson,0.0,0.1336
 401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,4.5,draftkings,561.0,6.61,0.2796,3.58,0.1414,0.1414,0.1382,,0.8482,0.1627,0.0753,0.0034,False,False,False,,,
+401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,5.5,draftkings,1680.0,17.8,0.1035,9.67,0.0525,0.0525,0.0509,,0.8414,0.0604,0.0742,0.0011,False,True,False,,,
 401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,9.5,draftkings,660.0,7.6,0.242,4.13,0.123,0.123,0.1191,,0.8395,0.1413,0.0739,0.0028,False,True,False,,,
 401910000,GSW @ NOP,prop_ast,over,Zion Williamson,1629627.0,5.5,draftkings,700.0,8.0,0.229,4.37,0.1168,0.1168,0.1122,,0.8319,0.1341,0.0728,0.0026,False,True,False,,,
 401909997,PHI @ BKN,prop_ast,over,VJ Edgecombe,1642845.0,8.5,draftkings,2700.0,28.0,0.0653,15.31,0.0334,0.0334,0.0319,,0.8284,0.0383,0.0722,0.0007,False,False,False,,,
 401909998,HOU @ MIA,prop_ast,over,Kevin Durant,201142.0,9.5,draftkings,2800.0,29.0,0.063,15.87,0.0322,0.0322,0.0308,,0.8278,0.037,0.0721,0.0006,False,True,False,,,
-401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,4.5,draftkings,780.0,8.8,0.2077,4.82,0.1062,0.1062,0.1015,,0.8274,0.1218,0.0721,0.0023,False,False,False,,,
 401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,12.5,draftkings,2300.0,24.0,0.0757,13.2,0.0389,0.0389,0.0368,,0.8178,0.0446,0.0706,0.0008,False,False,False,,,
-401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,5.5,draftkings,1640.0,17.4,0.1035,9.67,0.0537,0.0537,0.0497,,0.8,0.0614,0.0679,0.001,False,True,False,,,
+401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,4.5,draftkings,770.0,8.7,0.2077,4.82,0.1074,0.1074,0.1002,,0.8067,0.1229,0.0689,0.0022,False,False,False,,,
 401909998,HOU @ MIA,prop_pra,over,Kevin Durant,201142.0,44.5,draftkings,710.0,8.1,0.2205,4.53,0.1154,0.1154,0.1052,,0.7864,0.1316,0.0658,0.0023,False,True,False,Amen Thompson,0.2504,0.1926
+401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,19.5,draftkings,1080.0,11.8,0.1506,6.64,0.0792,0.0792,0.0714,,0.7767,0.0902,0.0643,0.0015,False,True,False,,,
 401910000,GSW @ NOP,prop_ast,over,Draymond Green,203110.0,10.5,draftkings,1120.0,12.2,0.1445,6.92,0.0766,0.0766,0.0679,,0.7624,0.0871,0.0621,0.0014,False,False,False,,,
-401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,19.5,draftkings,1060.0,11.6,0.1506,6.64,0.0806,0.0806,0.07,,0.7466,0.0913,0.0596,0.0014,False,True,False,,,
 401909996,MEM @ WAS,prop_blk,over,Anthony Davis,203076.0,3.5,draftkings,1040.0,11.4,0.1516,6.6,0.082,0.082,0.0696,,0.7286,0.0927,0.0569,0.0014,False,True,False,,,
-401909997,PHI @ BKN,prop_pr,over,Joel Embiid,203954.0,44.5,draftkings,1260.0,13.6,0.1265,7.91,0.0687,0.0687,0.0577,,0.7198,0.0776,0.0555,0.0011,False,True,False,Joel Embiid,0.0,0.127
+401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,17.5,draftkings,680.0,7.8,0.2199,4.55,0.1198,0.1198,0.1001,,0.7153,0.1352,0.0548,0.002,False,False,False,,,
 401909997,PHI @ BKN,prop_pr,over,Joel Embiid,203954.0,49.5,draftkings,2400.0,25.0,0.0685,14.59,0.0374,0.0374,0.0312,,0.7136,0.0422,0.0546,0.0006,False,True,False,Joel Embiid,0.0,0.0688
 401909995,CHI @ CLE,prop_pra,over,Donovan Mitchell,1628378.0,54.5,draftkings,1420.0,15.2,0.1125,8.89,0.0615,0.0615,0.051,,0.7099,0.0693,0.054,0.001,False,True,False,Peyton Watson,0.145,0.1004
 401909998,HOU @ MIA,prop_ast,over,Reed Sheppard,1642263.0,7.5,draftkings,2600.0,27.0,0.0633,15.81,0.0346,0.0346,0.0287,,0.7082,0.039,0.0537,0.0005,False,True,False,Amen Thompson,0.0972,0.035
 401909998,HOU @ MIA,prop_pra,over,Kevin Durant,201142.0,54.5,draftkings,2400.0,25.0,0.0681,14.69,0.0374,0.0374,0.0307,,0.7015,0.0421,0.0527,0.0005,False,True,False,,,
 401909998,HOU @ MIA,prop_ast,over,Amen Thompson,1641708.0,8.5,draftkings,2100.0,22.0,0.0771,12.97,0.0425,0.0425,0.0346,,0.696,0.0478,0.0518,0.0006,False,False,False,Amen Thompson,0.0,0.0754
+401909997,PHI @ BKN,prop_pr,over,Joel Embiid,203954.0,44.5,draftkings,1240.0,13.4,0.1265,7.91,0.0697,0.0697,0.0567,,0.6945,0.0785,0.0516,0.001,False,True,False,Joel Embiid,0.0,0.127
 401909996,MEM @ WAS,prop_pa,over,Cedric Coward,1642907.0,34.5,draftkings,1800.0,19.0,0.0891,11.22,0.0492,0.0492,0.0399,,0.6936,0.0553,0.0515,0.0007,False,True,False,,,
-401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,17.5,draftkings,670.0,7.7,0.2199,4.55,0.1214,0.1214,0.0985,,0.6933,0.1365,0.0514,0.0019,False,False,False,,,
 401909998,HOU @ MIA,prop_ast,over,Amen Thompson,1641708.0,6.5,draftkings,640.0,7.4,0.2282,4.38,0.1263,0.1263,0.1019,,0.6885,0.142,0.0507,0.002,False,False,False,Amen Thompson,0.0,0.2258
 401909998,HOU @ MIA,prop_pts,over,Alperen Sengun,1630578.0,29.5,draftkings,610.0,7.1,0.2369,4.22,0.1316,0.1316,0.1053,,0.6819,0.1478,0.0497,0.002,False,True,False,Amen Thompson,0.2646,0.2077
 401909996,MEM @ WAS,prop_ast,over,Trae Young,1629027.0,14.5,draftkings,1560.0,16.6,0.1005,9.95,0.0563,0.0563,0.0442,,0.6691,0.0631,0.0477,0.0008,False,False,False,,,
@@ -74,68 +72,67 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909996,MEM @ WAS,prop_ast,over,Trae Young,1629027.0,13.5,draftkings,1000.0,11.0,0.1448,6.91,0.085,0.085,0.0598,,0.5928,0.0942,0.0359,0.0009,False,True,False,,,
 401909997,PHI @ BKN,prop_ast,over,VJ Edgecombe,1642845.0,4.5,draftkings,231.0,3.31,0.4809,2.08,0.2824,0.2824,0.1986,,0.5919,0.3129,0.0358,0.0039,True,False,False,Joel Embiid,0.5361,0.434
 401909998,HOU @ MIA,prop_ast,over,Reed Sheppard,1642263.0,3.5,draftkings,223.0,3.23,0.4917,2.03,0.2893,0.2893,0.2023,,0.5881,0.3205,0.0352,0.0039,True,True,False,Amen Thompson,0.6024,0.4098
-401909997,PHI @ BKN,prop_ast,over,Joel Embiid,203954.0,7.5,draftkings,1200.0,13.0,0.1213,8.25,0.0719,0.0719,0.0494,,0.5765,0.0795,0.0334,0.0007,False,True,False,Joel Embiid,0.0,0.1208
-401909994,ORL @ BOS,prop_pts,over,Jayson Tatum,1628369.0,44.5,draftkings,2800.0,29.0,0.0543,18.41,0.0322,0.0322,0.0221,,0.5752,0.0356,0.0332,0.0003,False,True,False,,,
+401909997,PHI @ BKN,prop_pa,over,VJ Edgecombe,1642845.0,29.5,draftkings,1240.0,13.4,0.1175,8.51,0.0697,0.0697,0.0478,,0.5749,0.0771,0.0332,0.0007,False,True,False,Joel Embiid,0.1712,0.074
 401909996,MEM @ WAS,prop_reb,over,Anthony Davis,203076.0,14.5,draftkings,538.0,6.38,0.2466,4.06,0.1465,0.1465,0.1001,,0.5732,0.1619,0.0329,0.0015,False,False,False,Tre Johnson,0.2799,0.2307
 401909996,MEM @ WAS,prop_reb,over,AJ Dybantsa,905142718.0,10.5,draftkings,1700.0,18.0,0.0873,11.45,0.0519,0.0519,0.0354,,0.5718,0.0574,0.0327,0.0005,False,False,False,,,
 401909996,MEM @ WAS,prop_reb,over,Cedric Coward,1642907.0,13.5,draftkings,1680.0,17.8,0.0881,11.35,0.0525,0.0525,0.0356,,0.5676,0.058,0.0321,0.0005,False,True,False,,,
 401909996,MEM @ WAS,prop_ast,over,Anthony Davis,203076.0,5.5,draftkings,1440.0,15.4,0.1013,9.87,0.0607,0.0607,0.0406,,0.5601,0.0669,0.0309,0.0005,False,True,False,,,
 401910000,GSW @ NOP,prop_ast,over,Zion Williamson,1629627.0,4.5,draftkings,316.0,4.16,0.3732,2.68,0.2247,0.2247,0.1486,,0.5526,0.2475,0.0298,0.0024,False,False,False,,,
-401909997,PHI @ BKN,prop_pa,over,VJ Edgecombe,1642845.0,29.5,draftkings,1220.0,13.2,0.1175,8.51,0.0708,0.0708,0.0467,,0.5514,0.078,0.0296,0.0006,False,True,False,Joel Embiid,0.1712,0.074
+401909997,PHI @ BKN,prop_ast,over,Joel Embiid,203954.0,7.5,draftkings,1180.0,12.8,0.1213,8.25,0.073,0.073,0.0483,,0.5523,0.0804,0.0297,0.0006,False,True,False,Joel Embiid,0.0,0.1208
 401910001,PHX @ DEN,moneyline,PHX,,,,sportsbet,360.0,4.6,0.279,3.58,0.2083,0.2238,0.0552,4.38,0.2834,0.2238,0.0295,0.002,False,True,True,,,
-401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,3.5,draftkings,250.0,3.5,0.4424,2.26,0.267,0.267,0.1754,,0.5484,0.294,0.0291,0.0029,True,True,False,,,
 401909996,MEM @ WAS,prop_reb,over,AJ Dybantsa,905142718.0,8.5,draftkings,610.0,7.1,0.2181,4.59,0.1316,0.1316,0.0865,,0.5485,0.1449,0.0291,0.0012,False,False,False,,,
+401910000,GSW @ NOP,prop_ast,over,Derik Queen,1642852.0,3.5,draftkings,250.0,3.5,0.4424,2.26,0.267,0.267,0.1754,,0.5484,0.294,0.0291,0.0029,True,True,False,,,
 401909996,MEM @ WAS,prop_pa,over,Cedric Coward,1642907.0,29.5,draftkings,730.0,8.3,0.1863,5.37,0.1126,0.1126,0.0737,,0.5463,0.1239,0.0288,0.001,False,True,False,,,
 401909996,MEM @ WAS,prop_ast,over,Anthony Davis,203076.0,4.5,draftkings,660.0,7.6,0.2034,4.92,0.123,0.123,0.0804,,0.5456,0.1354,0.0287,0.0011,False,False,False,,,
 401909998,HOU @ MIA,prop_pr,over,Kevin Durant,201142.0,39.5,draftkings,670.0,7.7,0.2006,4.99,0.1214,0.1214,0.0792,,0.5444,0.1336,0.0285,0.0011,False,True,False,Amen Thompson,0.2271,0.1794
 401909996,MEM @ WAS,prop_reb,over,Cedric Coward,1642907.0,12.5,draftkings,1080.0,11.8,0.1308,7.64,0.0792,0.0792,0.0516,,0.5435,0.0871,0.0284,0.0007,False,False,False,,,
 401909998,HOU @ MIA,prop_ast,over,Amen Thompson,1641708.0,5.5,draftkings,332.0,4.32,0.3573,2.8,0.2163,0.2163,0.1409,,0.5434,0.238,0.0283,0.0021,False,True,False,Amen Thompson,0.0,0.355
+401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,3.5,draftkings,319.0,4.19,0.3669,2.73,0.223,0.223,0.1439,,0.5375,0.2452,0.0274,0.0021,False,True,False,,,
 401909996,MEM @ WAS,prop_reb,over,Jaylen Wells,1642377.0,5.5,draftkings,760.0,8.6,0.1787,5.6,0.1087,0.1087,0.07,,0.5365,0.1195,0.0273,0.0009,False,True,False,,,
-401909997,PHI @ BKN,prop_pr,over,Joel Embiid,203954.0,39.5,draftkings,573.0,6.73,0.228,4.39,0.1389,0.1389,0.0891,,0.5344,0.1526,0.027,0.0012,False,True,False,Joel Embiid,0.0,0.2285
-401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,3.5,draftkings,318.0,4.18,0.3669,2.73,0.2236,0.2236,0.1434,,0.5338,0.2457,0.0269,0.0021,False,True,False,,,
+401909997,PHI @ BKN,prop_pr,over,Tyrese Maxey,1630178.0,44.5,draftkings,1200.0,13.0,0.1176,8.51,0.0719,0.0719,0.0457,,0.5285,0.0789,0.026,0.0005,False,True,False,Joel Embiid,0.1578,0.085
 401910000,GSW @ NOP,prop_reb,over,Gui Santos,1630611.0,7.5,draftkings,1780.0,18.8,0.0811,12.33,0.0497,0.0497,0.0314,,0.5245,0.0545,0.0254,0.0004,False,True,False,Gui Santos,0.0,0.0787
+401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,14.5,draftkings,315.0,4.15,0.3661,2.73,0.2252,0.2252,0.1409,,0.5191,0.2469,0.0246,0.002,False,True,False,,,
 401910000,GSW @ NOP,prop_reb,over,Gui Santos,1630611.0,6.5,draftkings,1020.0,11.2,0.1356,7.37,0.0834,0.0834,0.0522,,0.5187,0.0915,0.0245,0.0006,False,False,False,Gui Santos,0.0,0.134
 401909997,PHI @ BKN,prop_ast,over,Joel Embiid,203954.0,8.5,draftkings,2100.0,22.0,0.069,14.49,0.0425,0.0425,0.0265,,0.518,0.0466,0.0244,0.0003,False,False,False,Joel Embiid,0.0,0.0687
 401910000,GSW @ NOP,prop_ast,over,Draymond Green,203110.0,8.5,draftkings,394.0,4.94,0.3065,3.26,0.1892,0.1892,0.1173,,0.5142,0.2073,0.0238,0.0015,False,False,False,,,
 401910000,GSW @ NOP,prop_ast,over,Herbert Jones,1630529.0,4.5,draftkings,1500.0,16.0,0.0946,10.57,0.0584,0.0584,0.0362,,0.5133,0.064,0.0237,0.0004,False,False,False,,,
 401909995,CHI @ CLE,prop_pra,over,Donovan Mitchell,1628378.0,49.5,draftkings,700.0,8.0,0.1887,5.3,0.1168,0.1168,0.0719,,0.5098,0.1279,0.0232,0.0008,False,True,False,Peyton Watson,0.2324,0.1749
 401909996,MEM @ WAS,prop_ast,over,Trae Young,1629027.0,12.5,draftkings,640.0,7.4,0.2036,4.91,0.1263,0.1263,0.0773,,0.5066,0.1382,0.0227,0.0009,False,False,False,Tre Johnson,0.2312,0.183
-401909997,PHI @ BKN,prop_pr,over,Tyrese Maxey,1630178.0,44.5,draftkings,1180.0,12.8,0.1176,8.51,0.073,0.073,0.0446,,0.505,0.0799,0.0224,0.0005,False,True,False,Joel Embiid,0.1578,0.085
 401909995,CHI @ CLE,prop_pr,over,Donovan Mitchell,1628378.0,44.5,draftkings,820.0,9.2,0.1632,6.13,0.1016,0.1016,0.0616,,0.5014,0.1111,0.0219,0.0007,False,True,False,Peyton Watson,0.2028,0.1481
-401910000,GSW @ NOP,prop_pr,over,Derik Queen,1642852.0,19.5,draftkings,196.0,2.96,0.5068,1.97,0.3157,0.3157,0.191,,0.5001,0.3452,0.0217,0.0028,True,True,False,,,
-401909994,ORL @ BOS,prop_pa,over,Jayson Tatum,1628369.0,49.5,draftkings,1800.0,19.0,0.0786,12.73,0.0492,0.0492,0.0294,,0.493,0.0537,0.0206,0.0003,False,True,False,,,
+401909997,PHI @ BKN,prop_pr,over,Tyrese Maxey,1630178.0,49.5,draftkings,2300.0,24.0,0.0625,16.0,0.0389,0.0389,0.0236,,0.4999,0.0426,0.0216,0.0002,False,True,False,Joel Embiid,0.0875,0.0428
 401909996,MEM @ WAS,prop_reb,over,Cedric Coward,1642907.0,11.5,draftkings,680.0,7.8,0.1913,5.23,0.1198,0.1198,0.0715,,0.4924,0.1308,0.0205,0.0008,False,True,False,,,
 401910000,GSW @ NOP,prop_ast,over,Herbert Jones,1630529.0,3.5,draftkings,630.0,7.3,0.2044,4.89,0.128,0.128,0.0763,,0.4918,0.1398,0.0204,0.0008,False,True,False,,,
 401909998,HOU @ MIA,prop_reb,over,Giannis Antetokounmpo,203507.0,17.5,draftkings,1420.0,15.2,0.0981,10.2,0.0615,0.0615,0.0366,,0.4906,0.0671,0.0202,0.0004,False,True,False,,,
-401909997,PHI @ BKN,prop_ast,over,Joel Embiid,203954.0,6.5,draftkings,630.0,7.3,0.2036,4.91,0.128,0.128,0.0756,,0.4865,0.1397,0.0196,0.0008,False,False,False,Joel Embiid,0.0,0.2016
 401909996,MEM @ WAS,prop_reb,over,Anthony Davis,203076.0,18.5,draftkings,2100.0,22.0,0.0676,14.8,0.0425,0.0425,0.0251,,0.4869,0.0463,0.0196,0.0002,False,False,False,,,
+401909997,PHI @ BKN,prop_ast,over,Joel Embiid,203954.0,6.5,draftkings,630.0,7.3,0.2036,4.91,0.128,0.128,0.0756,,0.4865,0.1397,0.0196,0.0008,False,False,False,Joel Embiid,0.0,0.2016
 401909996,MEM @ WAS,prop_reb,over,Jaylen Wells,1642377.0,6.5,draftkings,1460.0,15.6,0.0952,10.51,0.0599,0.0599,0.0352,,0.4844,0.0653,0.0193,0.0003,False,False,False,,,
 401909998,HOU @ MIA,prop_pr,over,Alperen Sengun,1630578.0,39.5,draftkings,440.0,5.4,0.2747,3.64,0.1731,0.1731,0.1016,,0.4833,0.1887,0.0191,0.0011,False,True,False,Amen Thompson,0.3023,0.2424
-401910000,GSW @ NOP,prop_pts,over,Derik Queen,1642852.0,14.5,draftkings,305.0,4.05,0.3661,2.73,0.2308,0.2308,0.1353,,0.4825,0.2516,0.019,0.0016,False,True,False,,,
 401910000,GSW @ NOP,prop_reb,over,Derik Queen,1642852.0,7.5,draftkings,239.0,3.39,0.4374,2.29,0.2757,0.2757,0.1617,,0.4827,0.3006,0.019,0.002,True,True,False,,,
-401909998,HOU @ MIA,prop_pra,over,Kevin Durant,201142.0,39.5,draftkings,322.0,4.22,0.3508,2.85,0.2215,0.2215,0.1293,,0.4802,0.2414,0.0186,0.0014,False,True,False,Amen Thompson,0.3974,0.3238
 401909996,MEM @ WAS,prop_reb,over,Anthony Davis,203076.0,13.5,draftkings,363.0,4.63,0.3198,3.13,0.2019,0.2019,0.1179,,0.4805,0.22,0.0186,0.0013,False,True,False,Tre Johnson,0.3569,0.3054
+401909998,HOU @ MIA,prop_pra,over,Kevin Durant,201142.0,39.5,draftkings,322.0,4.22,0.3508,2.85,0.2215,0.2215,0.1293,,0.4802,0.2414,0.0186,0.0014,False,True,False,Amen Thompson,0.3974,0.3238
 401910000,GSW @ NOP,prop_ast,over,Saddiq Bey,1630180.0,6.5,draftkings,2900.0,30.0,0.0492,20.34,0.0312,0.0312,0.018,,0.4747,0.0339,0.0178,0.0002,False,False,False,,,
-401909994,ORL @ BOS,prop_pra,over,Jayson Tatum,1628369.0,59.5,draftkings,1980.0,20.8,0.0708,14.12,0.0449,0.0449,0.0259,,0.4726,0.0489,0.0174,0.0002,False,True,False,,,
+401909994,ORL @ BOS,prop_fg3m,under,Sam Hauser,1630573.0,1.5,draftkings,125.0,2.25,0.6551,1.53,0.4154,0.4154,0.2398,,0.474,0.4523,0.0177,0.0035,True,True,True,,,
 401909998,HOU @ MIA,prop_pa,over,Giannis Antetokounmpo,203507.0,54.5,draftkings,2100.0,22.0,0.0669,14.95,0.0425,0.0425,0.0244,,0.4711,0.0462,0.0172,0.0002,False,True,False,,,
+401909994,ORL @ BOS,prop_pts,over,Jayson Tatum,1628369.0,44.5,draftkings,2600.0,27.0,0.0543,18.41,0.0346,0.0346,0.0197,,0.4666,0.0376,0.0165,0.0002,False,True,False,,,
 401910000,GSW @ NOP,prop_reb,over,Gui Santos,1630611.0,5.5,draftkings,554.0,6.54,0.2233,4.48,0.1429,0.1429,0.0804,,0.4606,0.1553,0.0156,0.0007,False,True,False,Gui Santos,0.0,0.2216
 401909998,HOU @ MIA,prop_reb,over,Davion Mitchell,1630558.0,3.5,draftkings,302.0,4.02,0.3634,2.75,0.2325,0.2325,0.1309,,0.4607,0.2526,0.0156,0.0013,False,True,False,,,
 401909995,CHI @ CLE,moneyline,CHI,,,,sportsbet,305.0,4.05,0.2739,3.65,0.2373,0.2505,0.0233,4.07,0.1091,0.2505,0.0147,0.0012,False,True,True,Peyton Watson,0.2905,0.2276
+401909997,PHI @ BKN,prop_pr,over,Joel Embiid,203954.0,39.5,draftkings,536.0,6.36,0.228,4.39,0.1469,0.1469,0.0811,,0.4501,0.1594,0.014,0.0007,False,True,False,Joel Embiid,0.0,0.2285
 401909998,HOU @ MIA,prop_reb,over,Giannis Antetokounmpo,203507.0,16.5,draftkings,960.0,10.6,0.1365,7.33,0.0882,0.0882,0.0483,,0.4468,0.0956,0.0135,0.0004,False,False,False,,,
-401909996,MEM @ WAS,prop_reb,over,AJ Dybantsa,905142718.0,7.5,draftkings,346.0,4.46,0.3235,3.09,0.2095,0.2095,0.1139,,0.4427,0.2271,0.0128,0.0009,False,True,False,Tre Johnson,0.3516,0.3071
 401909996,MEM @ WAS,prop_ast,over,Anthony Davis,203076.0,3.5,draftkings,295.0,3.95,0.3652,2.74,0.2366,0.2366,0.1286,,0.4426,0.2564,0.0128,0.0011,False,True,False,,,
+401909996,MEM @ WAS,prop_reb,over,AJ Dybantsa,905142718.0,7.5,draftkings,346.0,4.46,0.3235,3.09,0.2095,0.2095,0.1139,,0.4427,0.2271,0.0128,0.0009,False,True,False,Tre Johnson,0.3516,0.3071
 401909998,HOU @ MIA,prop_ast,over,Kevin Durant,201142.0,4.5,draftkings,145.0,2.45,0.5874,1.7,0.3815,0.3815,0.206,,0.4392,0.4132,0.0123,0.0021,True,False,False,Amen Thompson,0.618,0.5671
-401909997,PHI @ BKN,prop_pr,over,Tyrese Maxey,1630178.0,49.5,draftkings,2200.0,23.0,0.0625,16.0,0.0406,0.0406,0.0219,,0.4374,0.044,0.012,0.0001,False,True,False,Joel Embiid,0.0875,0.0428
-401909996,MEM @ WAS,prop_reb,over,Zach Edey,1641744.0,7.5,draftkings,-101.0,1.99,0.722,1.39,0.4696,0.4696,0.2524,,0.4368,0.5085,0.0119,0.003,True,True,True,Zach Edey,0.0,0.732
 401909998,HOU @ MIA,prop_reb,over,Kevin Durant,201142.0,9.5,draftkings,1080.0,11.8,0.1217,8.21,0.0792,0.0792,0.0425,,0.4365,0.0858,0.0119,0.0003,False,True,False,,,
 401909996,MEM @ WAS,prop_reb,over,Zach Edey,1641744.0,7.5,draftkings,-101.0,1.99,0.722,1.39,0.4696,0.4696,0.2524,,0.4368,0.5085,0.0119,0.003,True,True,True,Zach Edey,0.0,0.732
-401909994,ORL @ BOS,prop_fg3m,under,Tristan da Silva,1641783.0,2.5,draftkings,-117.0,1.85,0.7723,1.29,0.5039,0.5039,0.2684,,0.4325,0.5452,0.0113,0.0033,True,True,True,,,
+401909996,MEM @ WAS,prop_reb,over,Zach Edey,1641744.0,7.5,draftkings,-101.0,1.99,0.722,1.39,0.4696,0.4696,0.2524,,0.4368,0.5085,0.0119,0.003,True,True,True,Zach Edey,0.0,0.732
 401909998,HOU @ MIA,prop_pa,over,Amen Thompson,1641708.0,29.5,draftkings,730.0,8.3,0.1725,5.8,0.1126,0.1126,0.0599,,0.4314,0.1218,0.0111,0.0004,False,True,False,Amen Thompson,0.0,0.1696
 401910001,PHX @ DEN,moneyline,PHX,,,,betfair_ex_au,351.50000000000006,4.52,0.279,3.58,0.2164,0.2238,0.0552,2.36,0.2597,0.2238,0.0105,0.0007,False,True,True,,,
 401909998,HOU @ MIA,prop_reb,over,Bam Adebayo,1628389.0,13.5,draftkings,860.0,9.6,0.1486,6.73,0.0974,0.0974,0.0513,,0.427,0.1053,0.0104,0.0003,False,True,False,,,
+401909997,PHI @ BKN,prop_pa,over,VJ Edgecombe,1642845.0,24.5,draftkings,448.0,5.48,0.2603,3.84,0.1705,0.1705,0.0897,,0.4262,0.1844,0.0103,0.0006,False,True,False,Joel Embiid,0.3464,0.1938
 401909999,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,910.0,10.1,0.1411,7.09,0.0925,0.0925,0.0486,,0.4251,0.1,0.0101,0.0003,False,True,False,,,
 401909996,MEM @ WAS,prop_reb,over,Jaylen Wells,1642377.0,4.5,draftkings,366.0,4.66,0.3054,3.27,0.2006,0.2006,0.1049,,0.4234,0.2167,0.0099,0.0007,False,False,False,,,
 401910001,PHX @ DEN,prop_ast,over,Nikola Jokic,203999.0,16.5,draftkings,1740.0,18.4,0.0773,12.93,0.0508,0.0508,0.0265,,0.423,0.0549,0.0098,0.0001,False,False,False,,,
+401909994,ORL @ BOS,prop_fg3m,under,Tristan da Silva,1641783.0,2.5,draftkings,-119.0,1.84,0.7723,1.29,0.5078,0.5078,0.2645,,0.4214,0.5486,0.0095,0.0028,True,True,True,,,
 401909998,HOU @ MIA,prop_pra,over,Amen Thompson,1641708.0,39.5,draftkings,890.0,9.9,0.1435,6.97,0.0944,0.0944,0.0491,,0.4202,0.102,0.0094,0.0003,False,True,False,Amen Thompson,0.0,0.1398
 401909996,MEM @ WAS,prop_ra,over,Zach Edey,1641744.0,8.5,draftkings,-109.0,1.92,0.7271,1.38,0.4888,0.4888,0.2383,6.7,0.3941,0.5255,0.0076,0.0021,True,False,True,Zach Edey,0.0,0.7427
 401909998,HOU @ MIA,prop_reb,over,Bam Adebayo,1628389.0,14.5,draftkings,1300.0,14.0,0.1006,9.94,0.0668,0.0668,0.0339,,0.4088,0.072,0.0076,0.0001,False,False,False,,,
@@ -145,36 +142,34 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910001,PHX @ DEN,moneyline,PHX,,,,betr_au,350.0,4.5,0.279,3.58,0.2133,0.2238,0.0552,4.2,0.2555,0.2238,0.0071,0.0005,False,True,True,,,
 401909996,MEM @ WAS,prop_reb,over,Anthony Davis,203076.0,12.5,draftkings,245.0,3.45,0.4067,2.46,0.2709,0.2709,0.1358,,0.4031,0.2918,0.0067,0.0007,False,False,False,Tre Johnson,0.4481,0.3882
 401909995,CHI @ CLE,prop_blk,over,Jarrett Allen,1628386.0,2.5,draftkings,580.0,6.8,0.2061,4.85,0.1374,0.1374,0.0687,,0.4014,0.148,0.0065,0.0003,False,True,False,,,
-401909997,PHI @ BKN,prop_pa,over,VJ Edgecombe,1642845.0,24.5,draftkings,438.0,5.38,0.2603,3.84,0.1737,0.1737,0.0865,,0.4002,0.187,0.0063,0.0004,False,True,False,Joel Embiid,0.3464,0.1938
 401909998,HOU @ MIA,prop_reb,over,Giannis Antetokounmpo,203507.0,15.5,draftkings,640.0,7.4,0.1892,5.29,0.1263,0.1263,0.0629,,0.3998,0.136,0.0062,0.0002,False,True,False,,,
-401909997,PHI @ BKN,moneyline,BKN,,,,betfair_ex_au,190.0,2.9,0.444,2.25,0.3357,0.3469,0.0971,2.71,0.2876,0.3469,0.0061,0.0008,False,True,True,Joel Embiid,0.4772,0.4167
-401909997,PHI @ BKN,moneyline,BKN,,,,pointsbetau,190.0,2.9,0.444,2.25,0.3287,0.3469,0.0971,4.9,0.2876,0.3469,0.0061,0.0008,False,True,True,Joel Embiid,0.4772,0.4167
 401909998,HOU @ MIA,prop_pa,over,Giannis Antetokounmpo,203507.0,49.5,draftkings,1100.0,12.0,0.1166,8.58,0.0779,0.0779,0.0387,,0.3991,0.0838,0.0061,0.0001,False,True,False,,,
 401909998,HOU @ MIA,prop_stl,over,Reed Sheppard,1642263.0,2.5,draftkings,630.0,7.3,0.1915,5.22,0.128,0.128,0.0635,,0.398,0.1378,0.0059,0.0002,False,True,False,Amen Thompson,0.2236,0.169
 401909995,CHI @ CLE,prop_pra,over,James Harden,201935.0,44.5,draftkings,1120.0,12.2,0.1145,8.74,0.0766,0.0766,0.0378,,0.3963,0.0824,0.0057,0.0001,False,True,False,Peyton Watson,0.1555,0.1039
-401909994,ORL @ BOS,prop_fg3m,under,Sam Hauser,1630573.0,1.5,draftkings,113.0,2.13,0.6551,1.53,0.4388,0.4388,0.2164,,0.3954,0.4721,0.0055,0.0012,True,True,True,,,
 401909997,PHI @ BKN,prop_ast,over,Joel Embiid,203954.0,5.5,draftkings,320.0,4.2,0.3309,3.02,0.2225,0.2225,0.1084,,0.3898,0.2392,0.0047,0.0004,False,True,False,Joel Embiid,0.0,0.3237
 401909996,MEM @ WAS,prop_ast,over,Trae Young,1629027.0,11.5,draftkings,399.0,4.99,0.2783,3.59,0.1873,0.1873,0.091,,0.3885,0.2013,0.0045,0.0003,False,True,False,Tre Johnson,0.3085,0.2547
 401909998,HOU @ MIA,prop_pr,over,Kevin Durant,201142.0,49.5,draftkings,2400.0,25.0,0.0555,18.02,0.0374,0.0374,0.0181,,0.3876,0.0402,0.0043,0.0,False,True,False,,,
-401909998,HOU @ MIA,prop_reb,over,Bam Adebayo,1628389.0,12.5,draftkings,553.0,6.53,0.2118,4.72,0.1431,0.1431,0.0687,,0.3833,0.1537,0.0037,0.0002,False,False,False,,,
 401910000,GSW @ NOP,prop_ast,over,Brandin Podziemski,1641764.0,7.5,draftkings,780.0,8.8,0.1572,6.36,0.1062,0.1062,0.051,,0.3832,0.1141,0.0037,0.0001,False,True,False,,,
+401909998,HOU @ MIA,prop_reb,over,Bam Adebayo,1628389.0,12.5,draftkings,553.0,6.53,0.2118,4.72,0.1431,0.1431,0.0687,,0.3833,0.1537,0.0037,0.0002,False,False,False,,,
 401909996,MEM @ WAS,prop_reb,over,Cedric Coward,1642907.0,14.5,draftkings,2400.0,25.0,0.0553,18.09,0.0374,0.0374,0.0179,,0.3823,0.0401,0.0035,0.0,False,False,False,,,
 401910001,PHX @ DEN,prop_fg3m,under,Luke Kennard,1628379.0,1.5,draftkings,-111.0,1.9,0.7265,1.38,0.4917,0.4917,0.2349,,0.3811,0.5278,0.0033,0.0009,True,False,True,,,
-401909994,ORL @ BOS,prop_pra,over,Jayson Tatum,1628369.0,54.5,draftkings,1000.0,11.0,0.1255,7.97,0.085,0.085,0.0405,,0.3802,0.0912,0.0032,0.0001,False,True,False,,,
+401909997,PHI @ BKN,prop_ast,over,Tyrese Maxey,1630178.0,9.5,draftkings,830.0,9.3,0.1483,6.74,0.1005,0.1005,0.0478,,0.3793,0.1079,0.0031,0.0001,False,True,False,Joel Embiid,0.1817,0.1276
 401910000,GSW @ NOP,prop_ast,over,Brandin Podziemski,1641764.0,8.5,draftkings,1420.0,15.2,0.0907,11.02,0.0615,0.0615,0.0292,,0.3787,0.066,0.003,0.0001,False,False,False,,,
 401909994,ORL @ BOS,moneyline,ORL,,,,betfair_ex_au,304.0,4.04,0.2635,3.8,0.2399,0.2482,0.0153,3.16,0.0645,0.2482,0.0028,0.0002,False,True,True,,,
+401910000,GSW @ NOP,prop_pa,over,Zion Williamson,1629627.0,39.5,draftkings,1320.0,14.2,0.0969,10.32,0.0658,0.0658,0.0311,,0.3756,0.0706,0.0025,0.0,False,True,False,,,
 401909998,HOU @ MIA,prop_reb,over,Kevin Durant,201142.0,8.5,draftkings,610.0,7.1,0.1937,5.16,0.1316,0.1316,0.0621,,0.3753,0.1412,0.0025,0.0001,False,False,False,,,
+401909994,ORL @ BOS,prop_pra,over,Jayson Tatum,1628369.0,59.5,draftkings,1840.0,19.4,0.0708,14.12,0.0482,0.0482,0.0226,,0.3735,0.0517,0.0022,0.0,False,True,False,,,
 401909995,CHI @ CLE,moneyline,CHI,,,,playup,300.0,4.0,0.2739,3.65,0.2381,0.2505,0.0233,5.0,0.0954,0.2505,0.0021,0.0002,False,True,True,Peyton Watson,0.2905,0.2276
 401909995,CHI @ CLE,moneyline,CHI,,,,pointsbetau,300.0,4.0,0.2739,3.65,0.241,0.2505,0.0233,3.72,0.0954,0.2505,0.0021,0.0002,False,True,True,Peyton Watson,0.2905,0.2276
 401909998,HOU @ MIA,prop_reb,over,Giannis Antetokounmpo,203507.0,18.5,draftkings,1940.0,20.4,0.0672,14.89,0.0458,0.0458,0.0214,,0.3704,0.0491,0.0017,0.0,False,False,False,,,
 401910000,GSW @ NOP,prop_ra,over,Derik Queen,1642852.0,8.5,draftkings,102.0,2.02,0.6765,1.48,0.4629,0.4629,0.2136,6.95,0.3665,0.4958,0.0015,0.0004,True,True,True,,,
+401909998,HOU @ MIA,prop_ast,over,Jabari Smith Jr.,1631095.0,4.5,draftkings,1220.0,13.2,0.1036,9.65,0.0708,0.0708,0.0328,,0.3682,0.0759,0.0014,0.0,False,False,False,,,
 401910000,GSW @ NOP,prop_ast,over,Draymond Green,203110.0,7.5,draftkings,228.0,3.28,0.4173,2.4,0.2849,0.2849,0.1324,,0.3687,0.3053,0.0014,0.0002,False,True,False,,,
 401909998,HOU @ MIA,prop_ra,over,Kevin Durant,201142.0,9.5,draftkings,100.0,2.0,0.6772,1.48,0.4686,0.4686,0.2086,6.71,0.3544,0.5007,0.0014,0.0003,True,True,True,Amen Thompson,0.7062,0.6596
-401909998,HOU @ MIA,prop_ast,over,Jabari Smith Jr.,1631095.0,4.5,draftkings,1220.0,13.2,0.1036,9.65,0.0708,0.0708,0.0328,,0.3682,0.0759,0.0014,0.0,False,False,False,,,
 401909998,HOU @ MIA,prop_ast,over,Giannis Antetokounmpo,203507.0,9.5,draftkings,1300.0,14.0,0.0977,10.23,0.0668,0.0668,0.031,,0.3679,0.0715,0.0013,0.0,False,True,False,Pelle Larsson,0.1172,0.0742
 401909998,HOU @ MIA,prop_ast,over,Jabari Smith Jr.,1631095.0,3.5,draftkings,511.0,6.11,0.2237,4.47,0.153,0.153,0.0707,,0.3666,0.1638,0.0011,0.0001,False,True,False,Amen Thompson,0.2501,0.2019
-401909997,PHI @ BKN,prop_ast,over,VJ Edgecombe,1642845.0,3.5,draftkings,109.0,2.09,0.6537,1.53,0.4472,0.4472,0.2065,,0.3662,0.479,0.001,0.0002,True,True,True,Joel Embiid,0.7022,0.6119
 401909995,CHI @ CLE,prop_stl,over,Donovan Mitchell,1628378.0,2.5,draftkings,554.0,6.54,0.2088,4.79,0.1429,0.1429,0.0659,,0.3657,0.1531,0.001,0.0,False,True,False,,,
+401909997,PHI @ BKN,prop_ast,over,VJ Edgecombe,1642845.0,3.5,draftkings,109.0,2.09,0.6537,1.53,0.4472,0.4472,0.2065,,0.3662,0.479,0.001,0.0002,True,True,True,Joel Embiid,0.7022,0.6119
 401909997,PHI @ BKN,prop_ast,over,VJ Edgecombe,1642845.0,3.5,draftkings,109.0,2.09,0.6537,1.53,0.4472,0.4472,0.2065,,0.3662,0.479,0.001,0.0002,True,True,True,Joel Embiid,0.7022,0.6119
 401910001,PHX @ DEN,prop_ast,over,Nikola Jokic,203999.0,14.5,draftkings,770.0,8.7,0.1568,6.38,0.1074,0.1074,0.0494,,0.3643,0.115,0.0008,0.0,False,False,False,,,
 401910001,PHX @ DEN,prop_fg3m,under,Jordan Goodwin,1630692.0,1.5,draftkings,114.0,2.14,0.637,1.57,0.4367,0.4367,0.2003,,0.3632,0.4676,0.0006,0.0001,True,True,True,,,
