@@ -23,18 +23,18 @@ CHI @ CLE,CLE win + Donovan Mitchell 2+ 3pm,2,0.6052,0.5767,1.73,1.82,1.61,-0.06
 CHI @ CLE,James Harden 18+ pts + Isaac Okoro 5+ pra,2,0.5841,0.4915,2.03,2.14,1.84,-0.0942,1.003,1.65-1.85
 CHI @ CLE,CLE win + Tyrese Proctor 1+ 3pm + James Harden 10+ pts,3,0.6185,0.5305,1.89,1.98,1.68,-0.1087,1.013,1.65-1.85
 CHI @ CLE,CLE win + Tyrese Proctor 1+ 3pm + James Harden 20+ pra,3,0.6121,0.532,1.88,1.97,1.67,-0.1093,1.015,1.65-1.85
-MEM @ WAS,MEM win + Cedric Coward 15+ pa,2,0.5439,0.4717,2.12,2.23,2.03,-0.0406,1.024,1.85-2.10
-MEM @ WAS,MEM -3.5 + Cedric Coward 15+ pa,2,0.4701,0.4044,2.47,2.6,2.36,-0.0454,1.032,2.10-2.50
-MEM @ WAS,MEM win + Jaylen Wells 10+ pr,2,0.5925,0.4933,2.03,2.13,1.93,-0.0455,1.011,1.85-2.10
-MEM @ WAS,MEM win + Cameron Boozer 25+ pra,2,0.5689,0.4976,2.01,2.11,1.91,-0.0472,1.019,1.85-2.10
-MEM @ WAS,MEM -3.5 + Jaylen Wells 10+ pr,2,0.5093,0.4206,2.38,2.5,2.25,-0.0556,1.013,2.10-2.50
-MEM @ WAS,MEM -3.5 + Cameron Boozer 25+ pra,2,0.4897,0.425,2.35,2.47,2.22,-0.0557,1.023,2.10-2.50
-MEM @ WAS,MEM win + Cedric Coward 4+ reb,2,0.6075,0.5335,1.87,1.97,1.75,-0.0653,1.001,1.65-1.85
-MEM @ WAS,Jaylen Wells 3+ reb + Cedric Coward 4+ reb,2,0.6436,0.5013,1.99,2.09,1.84,-0.0793,1.0,1.65-1.85
-MEM @ WAS,AJ Dybantsa 4+ reb + Alex Sarr 1+ blk,2,0.689,0.5723,1.75,1.83,1.58,-0.096,0.999,1.50-1.65
-MEM @ WAS,Cedric Coward 15+ pa + Alex Sarr 1+ blk,2,0.6756,0.5791,1.73,1.81,1.55,-0.1013,0.999,1.50-1.65
-MEM @ WAS,Jaylen Wells 10+ pr + Cameron Boozer 6+ reb + Cedric Coward 15+ pa,3,0.6918,0.5106,1.96,2.06,1.71,-0.1289,1.006,1.65-1.85
-MEM @ WAS,AJ Dybantsa 4+ reb + Anthony Davis 8+ reb + Cedric Coward 4+ reb,3,0.6881,0.5282,1.89,1.99,1.63,-0.1372,1.005,1.50-1.65
+MEM @ WAS,MEM win + Cedric Coward 15+ pa,2,0.5439,0.4731,2.11,2.22,2.03,-0.0411,1.024,1.85-2.10
+MEM @ WAS,MEM win + Jaylen Wells 10+ pr,2,0.5925,0.4931,2.03,2.13,1.94,-0.0454,1.011,1.85-2.10
+MEM @ WAS,MEM -3.5 + Cedric Coward 15+ pa,2,0.4701,0.4056,2.47,2.59,2.35,-0.0459,1.032,2.10-2.50
+MEM @ WAS,MEM win + Cameron Boozer 25+ pra,2,0.5689,0.4995,2.0,2.1,1.91,-0.0478,1.019,1.85-2.10
+MEM @ WAS,MEM -3.5 + Jaylen Wells 10+ pr,2,0.5093,0.4205,2.38,2.5,2.25,-0.0555,1.013,2.10-2.50
+MEM @ WAS,MEM -3.5 + Cameron Boozer 25+ pra,2,0.4897,0.4266,2.34,2.46,2.21,-0.0563,1.023,2.10-2.50
+MEM @ WAS,AJ Dybantsa 4+ reb + Cedric Coward 15+ pa,2,0.7013,0.5808,1.72,1.81,1.56,-0.093,1.001,1.50-1.65
+MEM @ WAS,AJ Dybantsa 4+ reb + Alex Sarr 1+ blk,2,0.689,0.573,1.75,1.83,1.58,-0.0962,0.999,1.50-1.65
+MEM @ WAS,Cedric Coward 15+ pa + Alex Sarr 1+ blk,2,0.6756,0.585,1.71,1.79,1.53,-0.103,0.999,1.50-1.65
+MEM @ WAS,Cameron Boozer 6+ reb + Jaylen Wells 10+ pr + AJ Dybantsa 4+ reb,3,0.7037,0.4935,2.03,2.13,1.78,-0.1225,1.003,1.65-1.85
+MEM @ WAS,Cameron Boozer 6+ reb + Jaylen Wells 10+ pr + Cedric Coward 15+ pa,3,0.6918,0.5051,1.98,2.08,1.73,-0.1269,1.006,1.65-1.85
+MEM @ WAS,Jaylen Wells 10+ pr + AJ Dybantsa 4+ reb + Cedric Coward 15+ pa,3,0.6437,0.4737,2.11,2.22,1.84,-0.1297,1.004,1.65-1.85
 PHI @ BKN,game over 225.5 + VJ Edgecombe 10+ pts,2,0.4355,0.3929,2.55,2.67,2.45,-0.0377,1.048,2.10-2.50
 PHI @ BKN,game over 225.5 + VJ Edgecombe 15+ pr,2,0.4397,0.4038,2.48,2.6,2.37,-0.0421,1.046,2.10-2.50
 PHI @ BKN,game over 225.5 + Anfernee Simons 10+ pra,2,0.4269,0.3912,2.56,2.68,2.44,-0.0463,1.041,2.10-2.50
