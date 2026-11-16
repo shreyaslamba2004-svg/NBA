@@ -163,7 +163,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909998,HOU,1642384,Isaiah Crawford,,,1.0,,,
 401909998,HOU,201142,Kevin Durant,,,1.0,,,
 401909998,HOU,1631106,Tari Eason,,,1.0,,,
-401909998,HOU,1641763,Julian Phillips,,,1.0,,,
+401909998,HOU,1641763,Julian Phillips,Day-To-Day,Phillips (illness) is available for Wednesday's game against Dallas.,0.7,Phillips (illness) is available for Wednesday's game against Dallas.,,
 401909998,HOU,1630578,Alperen Sengun,,,1.0,,,
 401909998,HOU,1642263,Reed Sheppard,,,1.0,,,
 401909998,HOU,203935,Marcus Smart,Suspension,"Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",0.0,"Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",,
