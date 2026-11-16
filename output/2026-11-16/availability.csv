@@ -2,8 +2,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909994,BOS,1642269,Devin Carter,,,1.0,,,
 401909994,BOS,905142621,Chris Cenac Jr.,,,1.0,,,
 401909994,BOS,201144,Mike Conley,,,1.0,,,
-401909994,BOS,1630568,Luka Garza,,,1.0,,,
-401909994,BOS,202331,Paul George,,,1.0,,,
+401909994,BOS,1630568,Luka Garza,Starting,,1.0,,,1.0
+401909994,BOS,202331,Paul George,Starting,,1.0,,,1.0
 401909994,BOS,1642864,Hugo Gonzalez,,,1.0,,,
 401909994,BOS,1631199,Ron Harper Jr.,,,1.0,,,
 401909994,BOS,1630573,Sam Hauser,,,1.0,,,
@@ -12,17 +12,17 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909994,BOS,1629674,Neemias Queta,Out,Rest,0.0,"Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",,
 401909994,BOS,1629011,Mitchell Robinson,,,1.0,,,
 401909994,BOS,1631248,Baylor Scheierman,,,1.0,,,
-401909994,BOS,1628369,Jayson Tatum,,,1.0,,,
-401909994,BOS,1641775,Jordan Walsh,,,1.0,,,
-401909994,BOS,1628401,Derrick White,,,1.0,,,
+401909994,BOS,1628369,Jayson Tatum,Starting,,1.0,,,1.0
+401909994,BOS,1641775,Jordan Walsh,Starting,,1.0,,,1.0
+401909994,BOS,1628401,Derrick White,Starting,,1.0,,,1.0
 401909994,BOS,1642873,Amari Williams,,,1.0,,,
 401909994,ORL,1631094,Paolo Banchero,Out,,0.0,"Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports.",,
-401909994,ORL,1630217,Desmond Bane,,,1.0,,,
+401909994,ORL,1630217,Desmond Bane,Starting,,1.0,,,1.0
 401909994,ORL,1629048,Goga Bitadze,,,1.0,,,
-401909994,ORL,1641710,Anthony Black,,,1.0,,,
+401909994,ORL,1641710,Anthony Black,Starting,,1.0,,,1.0
 401909994,ORL,1631288,Jamal Cain,,,1.0,,,
 401909994,ORL,1628975,Jevon Carter,,,1.0,,,
-401909994,ORL,1628976,Wendell Carter Jr.,,,1.0,,,
+401909994,ORL,1628976,Wendell Carter Jr.,Starting,,1.0,,,1.0
 401909994,ORL,1630658,Colin Castleton,,,1.0,,,
 401909994,ORL,1641783,Tristan da Silva,,,1.0,,,
 401909994,ORL,1628371,Jonathan Isaac,Out,,0.0,Isaac (knee) has been ruled out for Monday's game against the Celtics.,,
@@ -30,9 +30,9 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909994,ORL,905107251,Izaiyah Nelson,Out,,0.0,"Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",,
 401909994,ORL,1642869,Noah Penda,Out,,0.0,"Penda (hamstring) is making progress but remains without a timetable to return to game action, Jason Beede of the Orlando Sentinel reports.",,
 401909994,ORL,1642859,Jase Richardson,,,1.0,,,
-401909994,ORL,1630591,Jalen Suggs,,,1.0,,,
+401909994,ORL,1630591,Jalen Suggs,Starting,,1.0,,,1.0
 401909994,ORL,202696,Nikola Vucevic,,,1.0,,,
-401909994,ORL,1630532,Franz Wagner,,,1.0,,,
+401909994,ORL,1630532,Franz Wagner,Starting,,1.0,,,1.0
 401909995,CLE,1628386,Jarrett Allen,,,1.0,,,
 401909995,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909995,CLE,904997530,Khalifa Diop,Available,-,1.0,,,
