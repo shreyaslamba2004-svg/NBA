@@ -64,7 +64,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909995,CHI,1626181,Norman Powell,Starting,,1.0,,,1.0
 401909995,CHI,1631115,Orlando Robinson,Out,GLeague-OnAssignment,0.0,,,
 401909995,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
-401909995,CHI,1630188,Jalen Smith,Starting,Injury/Illness-LeftFingerSprain,1.0,,,1.0
+401909995,CHI,1630188,Jalen Smith,Starting,-,1.0,,,1.0
 401909995,CHI,904848625,Dailyn Swain,,,1.0,,,
 401909995,CHI,1630172,Patrick Williams,,,1.0,,,
 401909995,CHI,905095151,Caleb Wilson,Out,,0.0,"Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",,
@@ -128,7 +128,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909997,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
 401909997,PHI,1642845,VJ Edgecombe,,,1.0,,,
 401909997,PHI,1642348,Justin Edwards,,,1.0,,,
-401909997,PHI,203954,Joel Embiid,Questionable,,0.55,Embiid (foot) is questionable for Monday's game against the Nets.,,
+401909997,PHI,203954,Joel Embiid,Available,,1.0,Embiid (foot) is questionable for Monday's game against the Nets.,,
 401909997,PHI,1629605,Tacko Fall,,,1.0,,,
 401909997,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
 401909997,PHI,2544,LeBron James,Out,,0.0,James (back) has been ruled out for Monday's game against the Nets.,,
@@ -169,7 +169,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909998,HOU,203935,Marcus Smart,Out,LeagueSuspension,0.0,"Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",,
 401909998,HOU,1631095,Jabari Smith Jr.,,,1.0,,,
 401909998,HOU,1630256,Jae'Sean Tate,,,1.0,,,
-401909998,HOU,1641708,Amen Thompson,Out,Injury/Illness-LeftKneeSoreness,0.0,Thompson (knee) is listed as questionable for Monday's game against the Heat.,,
+401909998,HOU,1641708,Amen Thompson,Out,Injury/Illness-LeftKneeSoreness,0.0,Thompson (knee) is out for Monday's game against the Heat.,,
 401909998,HOU,905105837,Bruce Thornton,,,1.0,,,
 401909998,HOU,1631131,Oscar Tshiebwe,,,1.0,,,
 401909998,HOU,1627832,Fred VanVleet,,,1.0,,,
