@@ -10,40 +10,40 @@ NYK @ TOR,NYK win + Jalen Brunson 1+ 3pm,2,0.5837,0.5045,1.98,2.08,1.84,-0.0703,
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jamal Shead 5+ pa,2,0.7345,0.5425,1.84,1.94,1.71,-0.0715,0.998,1.65-1.85
 POR @ MIN,MIN -2.5 + LaMelo Ball 2+ 3pm,2,0.4849,0.4146,2.41,2.53,2.32,-0.0392,1.015,2.10-2.50
 POR @ MIN,MIN -2.5 + Ayo Dosunmu 1+ 3pm,2,0.4569,0.3958,2.53,2.65,2.42,-0.0406,1.016,2.10-2.50
-POR @ MIN,MIN -2.5 + LaMelo Ball 10+ pts,2,0.5169,0.447,2.24,2.35,2.14,-0.0421,1.014,2.10-2.50
-POR @ MIN,MIN -2.5 + Jaden McDaniels 10+ pa,2,0.5282,0.4596,2.18,2.28,2.07,-0.0501,1.007,1.85-2.10
+POR @ MIN,MIN -2.5 + Jaden McDaniels 10+ pts,2,0.4924,0.4283,2.33,2.45,2.24,-0.0414,1.016,2.10-2.50
+POR @ MIN,MIN -2.5 + Jaden McDaniels 10+ pa,2,0.5282,0.4592,2.18,2.29,2.07,-0.0499,1.007,1.85-2.10
 POR @ MIN,MIN win + LaMelo Ball 2+ 3pm,2,0.5379,0.4514,2.22,2.33,2.08,-0.0628,1.013,1.85-2.10
-POR @ MIN,MIN win + Jaden McDaniels 15+ pr,2,0.5449,0.463,2.16,2.27,2.02,-0.0655,1.013,1.85-2.10
+POR @ MIN,MIN win + Jaden McDaniels 10+ pts,2,0.5463,0.4664,2.14,2.25,2.0,-0.0649,1.015,1.85-2.10
 POR @ MIN,Sidy Cissoko 3pm under 1.5 + LaMelo Ball 2+ 3pm,2,0.6628,0.5399,1.85,1.94,1.69,-0.0887,1.002,1.65-1.85
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + LaMelo Ball 10+ pts,2,0.7067,0.5823,1.72,1.8,1.56,-0.0913,1.002,1.50-1.65
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Rudy Gobert 15+ pr,2,0.6712,0.5492,1.82,1.91,1.65,-0.0919,1.0,1.65-1.85
-POR @ MIN,Damian Lillard 3pm under 3.5 + Rudy Gobert 15+ pr,2,0.6076,0.4946,2.02,2.12,1.84,-0.092,0.998,1.65-1.85
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Rudy Gobert 15+ pra,2,0.7054,0.5793,1.73,1.81,1.57,-0.0923,1.0,1.50-1.65
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 15+ pr,2,0.67,0.5526,1.81,1.9,1.64,-0.0932,1.0,1.50-1.65
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + LaMelo Ball 10+ pts,2,0.7067,0.5856,1.71,1.79,1.55,-0.0923,1.002,1.50-1.65
+POR @ MIN,Damian Lillard 3pm under 3.5 + Rudy Gobert 15+ pra,2,0.6388,0.5235,1.91,2.01,1.73,-0.0929,0.999,1.65-1.85
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + Ayo Dosunmu 1+ 3pm,2,0.6226,0.5139,1.95,2.04,1.77,-0.0929,1.0,1.65-1.85
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + Rudy Gobert 15+ pra,2,0.7054,0.5812,1.72,1.81,1.56,-0.0929,1.0,1.50-1.65
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 15+ pr,2,0.67,0.5519,1.81,1.9,1.64,-0.093,1.0,1.50-1.65
 DET @ SAS,SAS -9.5 + Stephon Castle 10+ pts,2,0.355,0.4139,2.42,2.54,2.32,-0.0417,1.04,2.10-2.50
 DET @ SAS,Julian Champagnie 3pm under 2.5 + Javonte Green 3pm under 1.5,2,0.6275,0.4088,2.45,2.57,2.34,-0.0418,1.003,2.10-2.50
 DET @ SAS,Javonte Green 3pm under 1.5 + SAS win,2,0.5259,0.5022,1.99,2.09,1.91,-0.0429,1.022,1.85-2.10
 DET @ SAS,DET +9.5 + Cade Cunningham 6+ ast,2,0.5052,0.3958,2.53,2.65,2.41,-0.0462,1.031,2.10-2.50
-DET @ SAS,Paul Reed 21+ pra + Daniss Jenkins 15+ pra,2,0.6119,0.4557,2.19,2.3,2.06,-0.0603,1.006,1.85-2.10
-DET @ SAS,Paul Reed 21+ pra + Stephon Castle 10+ pr,2,0.6332,0.4737,2.11,2.22,1.97,-0.0649,1.002,1.85-2.10
+DET @ SAS,DET +9.5 + Cade Cunningham 25+ pra,2,0.5652,0.451,2.22,2.33,2.07,-0.0644,1.015,1.85-2.10
 DET @ SAS,Julian Champagnie 3pm under 2.5 + Paul Reed 4+ reb,2,0.7675,0.552,1.81,1.9,1.69,-0.0655,0.999,1.65-1.85
-DET @ SAS,Julian Champagnie 3pm under 2.5 + Ausar Thompson 10+ pa,2,0.7115,0.5142,1.94,2.04,1.81,-0.068,0.998,1.65-1.85
-DET @ SAS,Julian Champagnie 3pm under 2.5 + Daniss Jenkins 15+ pra,2,0.7525,0.5537,1.81,1.9,1.68,-0.0693,1.0,1.65-1.85
+DET @ SAS,Victor Wembanyama pts under 28.5 + Paul Reed 4+ reb,2,0.6255,0.4499,2.22,2.33,2.08,-0.0655,0.999,1.85-2.10
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Ausar Thompson 10+ pa,2,0.7115,0.5164,1.94,2.03,1.8,-0.0688,0.998,1.65-1.85
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Daniss Jenkins 15+ pra,2,0.7525,0.5555,1.8,1.89,1.67,-0.0699,1.0,1.65-1.85
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Cade Cunningham 25+ pra,2,0.7629,0.5649,1.77,1.86,1.65,-0.07,1.0,1.50-1.65
 DET @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 10+ pr,2,0.7807,0.577,1.73,1.82,1.61,-0.0715,0.998,1.50-1.65
 DET @ SAS,Javonte Green 3pm under 1.5 + Stephon Castle 10+ pr,2,0.7379,0.5827,1.72,1.8,1.57,-0.0846,1.0,1.50-1.65
-DET @ SAS,Javonte Green 3pm under 1.5 + Daniss Jenkins 15+ pra,2,0.7086,0.557,1.8,1.88,1.64,-0.0859,0.997,1.50-1.65
-CHA @ LAL,LAL win + Coby White pr under 17.5,2,0.4129,0.4037,2.48,2.6,2.45,-0.0111,1.049,2.10-2.50
-CHA @ LAL,LAL -7.5 + Matisse Thybulle 5+ pa,2,0.3748,0.4164,2.4,2.52,2.35,-0.0219,1.024,2.10-2.50
-CHA @ LAL,LAL -7.5 + Quentin Grimes 1+ 3pm,2,0.3467,0.3981,2.51,2.64,2.43,-0.0308,1.022,2.10-2.50
-CHA @ LAL,LAL -7.5 + Matisse Thybulle 5+ pra,2,0.4076,0.4604,2.17,2.28,2.08,-0.0421,1.007,1.85-2.10
-CHA @ LAL,Sandro Mamukelashvili pra under 21.5 + Matisse Thybulle 5+ pra,2,0.6834,0.471,2.12,2.23,2.0,-0.0558,0.998,1.85-2.10
-CHA @ LAL,Sandro Mamukelashvili pr under 19.5 + Matisse Thybulle 5+ pra,2,0.6911,0.4791,2.09,2.19,1.97,-0.0558,0.999,1.85-2.10
-CHA @ LAL,LAL win + Matisse Thybulle 5+ pa,2,0.5552,0.5929,1.69,1.77,1.59,-0.0582,1.019,1.50-1.65
-CHA @ LAL,LAL win + Quentin Grimes 1+ 3pm,2,0.5118,0.5648,1.77,1.86,1.65,-0.07,1.013,1.50-1.65
+CHA @ LAL,Sandro Mamukelashvili pra under 21.5 + Luka Doncic 1+ stl,2,0.5889,0.3898,2.57,2.69,2.44,-0.0496,0.996,2.10-2.50
+CHA @ LAL,Sandro Mamukelashvili pr under 19.5 + Luka Doncic 1+ stl,2,0.5943,0.3961,2.52,2.65,2.39,-0.0515,0.995,2.10-2.50
+CHA @ LAL,Sandro Mamukelashvili pr under 19.5 + Matisse Thybulle 5+ pra,2,0.6911,0.4728,2.11,2.22,2.0,-0.0522,0.999,1.85-2.10
+CHA @ LAL,Sandro Mamukelashvili pra under 21.5 + Matisse Thybulle 5+ pra,2,0.6834,0.4644,2.15,2.26,2.04,-0.0522,0.998,1.85-2.10
+CHA @ LAL,Sandro Mamukelashvili pra under 21.5 + Matisse Thybulle 5+ pa,2,0.6161,0.4153,2.41,2.53,2.28,-0.0528,0.996,2.10-2.50
+CHA @ LAL,Sandro Mamukelashvili pra under 21.5 + Brandon Miller 10+ pa,2,0.6734,0.4659,2.15,2.25,2.03,-0.0554,0.998,1.85-2.10
 CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + Matisse Thybulle 5+ pra,2,0.6912,0.5093,1.96,2.06,1.83,-0.0703,0.999,1.65-1.85
-CHA @ LAL,Sandro Mamukelashvili pts under 13.5 + Grayson Allen 10+ pra,2,0.6782,0.5026,1.99,2.09,1.85,-0.0707,1.0,1.65-1.85
-CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + Grayson Allen 10+ pra,2,0.6837,0.5121,1.95,2.05,1.81,-0.0748,0.998,1.65-1.85
-CHA @ LAL,LAL win + Ryan Kalkbrenner 5+ pr,2,0.5474,0.5992,1.67,1.75,1.53,-0.086,0.994,1.50-1.65
+CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + Brandon Miller 10+ pa,2,0.6815,0.5113,1.96,2.05,1.81,-0.0729,1.0,1.65-1.85
+CHA @ LAL,Sion James 3pm under 1.5 + Matisse Thybulle 5+ pra,2,0.6799,0.5306,1.88,1.98,1.73,-0.0803,1.002,1.65-1.85
+CHA @ LAL,Luka Doncic 1+ stl + Quentin Grimes 1+ 3pm,2,0.6758,0.5844,1.71,1.8,1.53,-0.1036,0.998,1.50-1.65
+CHA @ LAL,Luka Doncic 1+ stl + Matisse Thybulle 5+ pa + Jake LaRavia 5+ pa,3,0.6673,0.5376,1.86,1.95,1.59,-0.1458,1.004,1.50-1.65
+CHA @ LAL,Luka Doncic 1+ stl + Matisse Thybulle 5+ pa + Grayson Allen 10+ pr,3,0.6497,0.5246,1.91,2.0,1.63,-0.1469,1.003,1.50-1.65
 UTA @ LAC,Rui Hachimura reb under 5.5 + LAC win,2,0.6001,0.395,2.53,2.66,2.37,-0.064,1.004,2.10-2.50
 UTA @ LAC,Darius Garland pts under 23.5 + Josh Okogie 5+ pr,2,0.5596,0.4215,2.37,2.49,2.19,-0.076,0.999,2.10-2.50
 UTA @ LAC,Darryn Peterson pts under 20.5 + Derrick Jones Jr. 10+ pr,2,0.5069,0.3877,2.58,2.71,2.38,-0.0761,1.002,2.10-2.50
