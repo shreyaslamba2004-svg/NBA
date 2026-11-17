@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHX @ DEN,Nikola Jokic 47+ pra + DEN win,2,0.439,0.4176,2.39,2.51,2.41,0.0063,1.05,2.10-2.50
-PHX @ DEN,Collin Gillespie 3pm under 2.5 + DEN win,2,0.5627,0.4645,2.15,2.26,2.12,-0.0136,1.022,2.10-2.50
-PHX @ DEN,DEN win + Miles Bridges pa under 16.5,2,0.4233,0.3952,2.53,2.66,2.49,-0.0164,1.048,2.10-2.50
+PHX @ DEN,Devin Booker pts under 22.5 + DEN win,2,0.4374,0.4178,2.39,2.51,2.45,0.025,1.059,2.10-2.50
+PHX @ DEN,Jordan Goodwin pts under 8.5 + DEN win,2,0.4392,0.4233,2.36,2.48,2.41,0.02,1.042,2.10-2.50
+PHX @ DEN,Miles Bridges pts under 14.5 + DEN win,2,0.4571,0.422,2.37,2.49,2.39,0.0082,1.039,2.10-2.50
+PHX @ DEN,Jordan Goodwin pts under 8.5 + Cameron Johnson 10+ pra,2,0.5492,0.4693,2.13,2.24,2.02,-0.0529,1.002,1.85-2.10
 PHX @ DEN,game over 229.5 + Christian Braun 10+ pra,2,0.4934,0.4658,2.15,2.25,2.03,-0.0536,1.015,1.85-2.10
 PHX @ DEN,game over 229.5 + Cameron Johnson 10+ pra,2,0.4874,0.4622,2.16,2.27,2.05,-0.0544,1.015,1.85-2.10
 PHX @ DEN,DEN win + Christian Braun 10+ pa,2,0.6091,0.6139,1.63,1.71,1.53,-0.0629,1.014,1.50-1.65
-PHX @ DEN,Collin Gillespie 3pm under 2.5 + Nikola Jokic 8+ reb,2,0.6836,0.4912,2.04,2.14,1.9,-0.065,0.999,1.85-2.10
 PHX @ DEN,Collin Gillespie 3pm under 2.5 + Cameron Johnson 10+ pra,2,0.7166,0.5244,1.91,2.0,1.78,-0.0673,1.0,1.65-1.85
 PHX @ DEN,Collin Gillespie 3pm under 2.5 + Christian Braun 10+ pra,2,0.7242,0.5276,1.9,1.99,1.77,-0.068,0.999,1.65-1.85
 PHX @ DEN,DEN win + Jalen Green 10+ pr,2,0.5977,0.5964,1.68,1.76,1.53,-0.086,0.987,1.50-1.65
-PHX @ DEN,Cameron Johnson 3pm under 2.5 + Jalen Green 10+ pr,2,0.6133,0.4936,2.03,2.13,1.84,-0.0895,0.999,1.65-1.85
-PHX @ DEN,Cameron Johnson 3pm under 2.5 + Christian Braun 10+ pra,2,0.7044,0.5744,1.74,1.83,1.58,-0.0916,0.999,1.50-1.65
+PHX @ DEN,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pa,3,0.5155,0.4954,2.02,2.12,1.82,-0.0974,1.036,1.65-1.85
+PHX @ DEN,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pra,3,0.5803,0.5549,1.8,1.89,1.61,-0.1084,1.023,1.50-1.65

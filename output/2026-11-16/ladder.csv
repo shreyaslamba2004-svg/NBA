@@ -63,14 +63,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,1628963,Marvin Bagley III,ra,6.5,False,0.2644,,model only,0.2644
 401910001,PHX @ DEN,DEN,1628963,Marvin Bagley III,ra,7.5,False,0.1837,,model only,0.1837
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,7.5,False,0.8262,0.7637,book,0.7733
-401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,8.5,False,0.7626,0.7459,est,0.7484
+401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,8.5,False,0.7626,0.7466,est,0.749
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,9.5,False,0.69,0.6488,book,0.6551
-401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,10.5,False,0.6138,0.5922,est,0.5955
-401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,11.5,True,0.5408,0.5183,book,0.5218
-401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,12.5,False,0.4686,0.4462,est,0.4497
-401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,13.5,False,0.4012,0.3797,est,0.383
+401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,10.5,False,0.6138,0.593,est,0.5962
+401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,11.5,True,0.5408,0.5192,book,0.5225
+401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,12.5,False,0.4686,0.4471,est,0.4504
+401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,13.5,False,0.4012,0.3806,est,0.3837
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,14.5,False,0.3396,0.3362,book,0.3367
-401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,15.5,False,0.2846,0.2666,est,0.2694
+401910001,PHX @ DEN,DEN,1631128,Christian Braun,pts,15.5,False,0.2846,0.2673,est,0.27
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,reb,1.5,False,0.9307,0.9193,est,0.921
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,reb,2.5,False,0.8211,0.7754,book,0.7824
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,reb,3.5,False,0.6658,0.622,book,0.6287
@@ -129,15 +129,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,ra,7.5,False,0.4058,0.3639,est,0.3704
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,ra,8.5,False,0.2901,0.2551,est,0.2605
 401910001,PHX @ DEN,DEN,1631128,Christian Braun,ra,9.5,False,0.1927,0.1666,est,0.1706
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,0.5,False,0.9581,0.9562,est,0.9565
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,1.5,False,0.8766,0.8713,est,0.8721
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,2.5,False,0.7658,0.757,est,0.7584
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,3.5,False,0.6417,0.6305,est,0.6322
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,4.5,True,0.514,0.5019,book,0.5038
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,5.5,False,0.3992,0.3877,est,0.3895
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,6.5,False,0.3059,0.2957,est,0.2973
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,7.5,False,0.2283,0.2199,est,0.2211
-401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,8.5,False,0.1663,0.1597,est,0.1607
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,0.5,False,0.9581,0.956,est,0.9563
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,1.5,False,0.8766,0.8709,est,0.8718
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,2.5,False,0.7658,0.7564,est,0.7578
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,3.5,False,0.6417,0.6297,est,0.6315
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,4.5,True,0.514,0.501,book,0.503
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,5.5,False,0.3992,0.3868,est,0.3887
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,6.5,False,0.3059,0.295,est,0.2967
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,7.5,False,0.2283,0.2192,est,0.2206
+401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,pts,8.5,False,0.1663,0.1592,est,0.1603
 401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,reb,0.5,False,0.9437,0.9464,est,0.946
 401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,reb,1.5,False,0.8323,0.8393,est,0.8382
 401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,reb,2.5,False,0.6832,0.698,book,0.6957
@@ -193,14 +193,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,ra,6.5,False,0.2456,,model only,0.2456
 401910001,PHX @ DEN,DEN,904698719,Trevon Brazile,ra,7.5,False,0.1642,,model only,0.1642
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,5.5,False,0.8566,0.7934,book,0.8031
-401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,6.5,False,0.7936,0.7549,est,0.7609
+401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,6.5,False,0.7936,0.7505,est,0.7572
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,7.5,False,0.7286,0.666,book,0.6756
-401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,8.5,False,0.6516,0.5997,est,0.6077
-401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,9.5,True,0.5778,0.5229,book,0.5313
-401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,10.5,False,0.5043,0.449,est,0.4576
+401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,8.5,False,0.6516,0.594,est,0.6029
+401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,9.5,True,0.5778,0.517,book,0.5264
+401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,10.5,False,0.5043,0.4797,book,0.4835
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,11.5,False,0.4354,0.3894,book,0.3965
-401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,12.5,False,0.3711,0.3209,est,0.3286
-401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,13.5,False,0.3144,0.2687,est,0.2757
+401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,12.5,False,0.3711,0.3158,est,0.3243
+401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,pts,13.5,False,0.3144,0.2641,est,0.2718
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,reb,0.5,False,0.8668,,model only,0.8668
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,reb,1.5,False,0.6296,,model only,0.6296
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,reb,2.5,False,0.3884,0.3753,book,0.3773
@@ -256,15 +256,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,ra,6.5,False,0.3192,,model only,0.3192
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,ra,7.5,False,0.2163,,model only,0.2163
 401910001,PHX @ DEN,DEN,201942,DeMar DeRozan,ra,8.5,False,0.1398,,model only,0.1398
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,9.5,False,0.7125,0.7394,est,0.7353
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,10.5,False,0.6407,0.6711,est,0.6665
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,11.5,False,0.5694,0.6022,est,0.5971
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,12.5,False,0.4988,0.5325,est,0.5274
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,13.5,True,0.4339,0.4673,book,0.4622
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,14.5,False,0.3744,0.4065,est,0.4016
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,15.5,False,0.3187,0.3487,est,0.3441
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,16.5,False,0.2664,0.2936,est,0.2894
-401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,17.5,False,0.2249,0.2493,est,0.2455
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,8.5,False,0.777,0.7924,est,0.7901
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,9.5,False,0.7125,0.7309,est,0.7281
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,10.5,False,0.6407,0.6615,est,0.6583
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,11.5,False,0.5694,0.5917,est,0.5883
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,12.5,True,0.4988,0.5217,book,0.5182
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,13.5,False,0.4339,0.4759,book,0.4694
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,14.5,False,0.3744,0.3961,est,0.3928
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,15.5,False,0.3187,0.3389,est,0.3357
+401910001,PHX @ DEN,DEN,203932,Aaron Gordon,pts,16.5,False,0.2664,0.2847,est,0.2819
 401910001,PHX @ DEN,DEN,203932,Aaron Gordon,reb,2.5,False,0.8776,0.8496,book,0.8539
 401910001,PHX @ DEN,DEN,203932,Aaron Gordon,reb,3.5,False,0.7565,0.7403,book,0.7428
 401910001,PHX @ DEN,DEN,203932,Aaron Gordon,reb,4.5,False,0.6093,0.5935,book,0.5959
@@ -322,15 +322,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,203932,Aaron Gordon,ra,8.5,False,0.4175,0.3792,est,0.3851
 401910001,PHX @ DEN,DEN,203932,Aaron Gordon,ra,9.5,False,0.3101,0.277,est,0.2821
 401910001,PHX @ DEN,DEN,203932,Aaron Gordon,ra,10.5,False,0.2208,0.1946,est,0.1986
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,8.5,False,0.7602,0.7788,est,0.776
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,9.5,False,0.6925,0.7145,est,0.7111
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,10.5,False,0.6223,0.6468,est,0.643
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,11.5,False,0.5468,0.5727,est,0.5687
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,12.5,True,0.4776,0.5039,book,0.4998
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,13.5,False,0.4095,0.4352,est,0.4313
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,14.5,False,0.3499,0.3742,est,0.3705
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,15.5,False,0.2921,0.3143,est,0.3109
-401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,16.5,False,0.2442,0.2641,est,0.2611
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,8.5,False,0.7602,0.7892,est,0.7847
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,9.5,False,0.6925,0.7268,est,0.7215
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,10.5,False,0.6223,0.6606,est,0.6547
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,11.5,False,0.5468,0.5876,est,0.5813
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,12.5,True,0.4776,0.5192,book,0.5128
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,13.5,False,0.4095,0.4783,book,0.4677
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,14.5,False,0.3499,0.3887,est,0.3827
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,15.5,False,0.2921,0.3276,est,0.3222
+401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,pts,16.5,False,0.2442,0.2762,est,0.2713
 401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,reb,0.5,False,0.9736,0.9685,est,0.9693
 401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,reb,1.5,False,0.8905,0.8716,est,0.8745
 401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,reb,2.5,False,0.7458,0.7055,book,0.7117
@@ -389,15 +389,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,ra,6.5,False,0.4751,0.3959,est,0.4081
 401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,ra,7.5,False,0.3453,0.2764,est,0.287
 401910001,PHX @ DEN,DEN,1629661,Cameron Johnson,ra,8.5,False,0.2411,0.187,est,0.1953
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,20.5,False,0.6989,0.6677,est,0.6725
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,21.5,False,0.6563,0.6231,est,0.6282
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,22.5,False,0.6166,0.582,est,0.5873
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,23.5,False,0.5771,0.5416,est,0.5471
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,24.5,True,0.5378,0.5019,book,0.5074
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,25.5,False,0.4973,0.4613,est,0.4669
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,26.5,False,0.4577,0.4222,est,0.4277
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,27.5,False,0.419,0.3844,est,0.3897
-401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,28.5,False,0.384,0.3506,est,0.3557
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,20.5,False,0.6989,0.6723,est,0.6764
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,21.5,False,0.6563,0.6279,est,0.6323
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,22.5,False,0.6166,0.5871,est,0.5916
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,23.5,False,0.5771,0.5468,est,0.5514
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,24.5,True,0.5378,0.5071,book,0.5118
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,25.5,False,0.4973,0.4775,book,0.4805
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,26.5,False,0.4577,0.4273,est,0.432
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,27.5,False,0.419,0.3893,est,0.3939
+401910001,PHX @ DEN,DEN,203999,Nikola Jokic,pts,28.5,False,0.384,0.3553,est,0.3597
 401910001,PHX @ DEN,DEN,203999,Nikola Jokic,reb,8.5,False,0.8445,0.77,book,0.7815
 401910001,PHX @ DEN,DEN,203999,Nikola Jokic,reb,9.5,False,0.7734,0.6962,book,0.7081
 401910001,PHX @ DEN,DEN,203999,Nikola Jokic,reb,10.5,False,0.6893,0.6089,book,0.6213
@@ -518,15 +518,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,904592427,Spencer Jones,ra,3.5,False,0.3078,,model only,0.3078
 401910001,PHX @ DEN,DEN,904592427,Spencer Jones,ra,4.5,False,0.1826,,model only,0.1826
 401910001,PHX @ DEN,DEN,904592427,Spencer Jones,ra,5.5,False,0.1008,,model only,0.1008
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,20.5,False,0.6463,0.6537,est,0.6526
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,21.5,False,0.6028,0.6106,est,0.6094
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,22.5,False,0.5604,0.5684,est,0.5672
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,23.5,False,0.5184,0.5265,est,0.5253
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,24.5,True,0.4772,0.4853,book,0.4841
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,25.5,False,0.4357,0.4437,est,0.4425
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,26.5,False,0.3958,0.4036,est,0.4024
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,27.5,False,0.3611,0.3687,est,0.3675
-401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,28.5,False,0.3233,0.3304,est,0.3293
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,20.5,False,0.6463,0.662,est,0.6596
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,21.5,False,0.6028,0.6193,est,0.6168
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,22.5,False,0.5604,0.5774,est,0.5748
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,23.5,False,0.5184,0.5217,book,0.5212
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,24.5,True,0.4772,0.4945,book,0.4918
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,25.5,False,0.4357,0.4529,est,0.4502
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,26.5,False,0.3958,0.4125,est,0.4099
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,27.5,False,0.3611,0.3773,est,0.3748
+401910001,PHX @ DEN,DEN,1627750,Jamal Murray,pts,28.5,False,0.3233,0.3386,est,0.3362
 401910001,PHX @ DEN,DEN,1627750,Jamal Murray,reb,1.5,False,0.941,0.9194,est,0.9227
 401910001,PHX @ DEN,DEN,1627750,Jamal Murray,reb,2.5,False,0.8392,0.7668,book,0.778
 401910001,PHX @ DEN,DEN,1627750,Jamal Murray,reb,3.5,False,0.6926,0.6089,book,0.6218
@@ -587,15 +587,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,DEN,1627750,Jamal Murray,ra,11.5,False,0.472,0.4104,est,0.4199
 401910001,PHX @ DEN,DEN,1627750,Jamal Murray,ra,12.5,False,0.3758,0.3193,est,0.328
 401910001,PHX @ DEN,DEN,1627750,Jamal Murray,ra,13.5,False,0.2871,0.2387,est,0.2462
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,18.5,False,0.6181,0.6813,est,0.6715
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,19.5,False,0.5699,0.6364,est,0.6262
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,20.5,False,0.521,0.5896,est,0.579
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,21.5,False,0.4736,0.5431,est,0.5324
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,22.5,True,0.4318,0.5009,book,0.4903
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,23.5,False,0.3905,0.4584,est,0.4479
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,24.5,False,0.3513,0.417,est,0.4068
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,25.5,False,0.3128,0.3754,est,0.3658
-401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,26.5,False,0.279,0.3382,est,0.3291
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,18.5,False,0.6181,0.6839,est,0.6737
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,19.5,False,0.5699,0.6392,est,0.6285
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,20.5,False,0.521,0.5925,est,0.5815
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,21.5,False,0.4736,0.5203,book,0.5131
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,22.5,True,0.4318,0.5039,book,0.4928
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,23.5,False,0.3905,0.4614,est,0.4504
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,24.5,False,0.3513,0.4199,est,0.4093
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,25.5,False,0.3128,0.3782,est,0.3681
+401910001,PHX @ DEN,PHX,1626164,Devin Booker,pts,26.5,False,0.279,0.3409,est,0.3314
 401910001,PHX @ DEN,PHX,1626164,Devin Booker,reb,0.5,False,0.958,0.9485,est,0.9499
 401910001,PHX @ DEN,PHX,1626164,Devin Booker,reb,1.5,False,0.8283,0.7957,est,0.8008
 401910001,PHX @ DEN,PHX,1626164,Devin Booker,reb,2.5,True,0.6291,0.5779,book,0.5858
@@ -654,15 +654,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,PHX,1626164,Devin Booker,ra,9.5,False,0.4471,0.3887,est,0.3977
 401910001,PHX @ DEN,PHX,1626164,Devin Booker,ra,10.5,False,0.3402,0.2885,est,0.2964
 401910001,PHX @ DEN,PHX,1626164,Devin Booker,ra,11.5,False,0.2505,0.2081,est,0.2146
-401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,10.5,False,0.6537,0.7232,est,0.7125
+401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,10.5,False,0.6537,0.7379,est,0.7249
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,11.5,False,0.5879,0.6488,book,0.6394
-401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,12.5,False,0.5188,0.5987,est,0.5864
-401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,13.5,False,0.4511,0.5321,est,0.5196
-401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,14.5,True,0.3946,0.4742,book,0.4619
-401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,15.5,False,0.3375,0.4135,est,0.4018
-401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,16.5,False,0.286,0.3566,est,0.3458
+401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,12.5,False,0.5188,0.6166,est,0.6015
+401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,13.5,False,0.4511,0.5071,book,0.4985
+401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,14.5,True,0.3946,0.4929,book,0.4778
+401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,15.5,False,0.3375,0.4318,est,0.4173
+401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,16.5,False,0.286,0.374,est,0.3604
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,17.5,False,0.2415,0.3157,book,0.3043
-401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,18.5,False,0.2021,0.2596,est,0.2507
+401910001,PHX @ DEN,PHX,1628970,Miles Bridges,pts,18.5,False,0.2021,0.2742,est,0.2631
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,reb,2.5,False,0.8809,0.8789,book,0.8792
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,reb,3.5,False,0.7668,0.7906,book,0.7869
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,reb,4.5,False,0.6264,0.6637,book,0.658
@@ -720,15 +720,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,ra,9.5,False,0.3478,0.3903,est,0.3837
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,ra,10.5,False,0.258,0.2945,est,0.2889
 401910001,PHX @ DEN,PHX,1628970,Miles Bridges,ra,11.5,False,0.184,0.213,est,0.2085
-401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,10.5,False,0.7452,0.7554,est,0.7538
 401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,11.5,False,0.6848,0.6764,book,0.6777
-401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,12.5,False,0.6227,0.6354,est,0.6334
-401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,13.5,False,0.5602,0.5735,est,0.5715
-401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,14.5,True,0.5009,0.5145,book,0.5124
-401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,15.5,False,0.4435,0.4569,est,0.4548
-401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,16.5,False,0.3864,0.3994,est,0.3974
+401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,12.5,False,0.6227,0.6628,est,0.6566
+401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,13.5,False,0.5602,0.6027,est,0.5961
+401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,14.5,False,0.5009,0.5209,book,0.5178
+401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,15.5,True,0.4435,0.4869,book,0.4802
+401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,16.5,False,0.3864,0.4286,est,0.4221
 401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,17.5,False,0.3374,0.3474,book,0.3459
-401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,18.5,False,0.2924,0.3037,est,0.302
+401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,18.5,False,0.2924,0.3298,est,0.324
+401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,pts,19.5,False,0.2492,0.2603,book,0.2586
 401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,reb,0.5,False,0.9612,0.9584,est,0.9588
 401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,reb,1.5,False,0.8479,0.838,est,0.8395
 401910001,PHX @ DEN,PHX,1628415,Dillon Brooks,reb,2.5,False,0.6689,0.647,book,0.6504
@@ -850,15 +850,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,PHX,1642346,Ryan Dunn,ra,6.5,False,0.2737,,model only,0.2737
 401910001,PHX @ DEN,PHX,1642346,Ryan Dunn,ra,7.5,False,0.188,,model only,0.188
 401910001,PHX @ DEN,PHX,1642346,Ryan Dunn,ra,8.5,False,0.1219,,model only,0.1219
-401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,5.5,False,0.7953,0.7695,book,0.7735
-401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,6.5,False,0.712,0.758,est,0.7509
+401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,6.5,False,0.712,0.7961,est,0.7832
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,7.5,False,0.6274,0.6589,book,0.6541
-401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,8.5,False,0.5413,0.5992,est,0.5903
-401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,9.5,True,0.4601,0.5192,book,0.5101
-401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,10.5,False,0.3839,0.4412,est,0.4323
+401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,8.5,False,0.5413,0.6508,est,0.6339
+401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,9.5,False,0.4601,0.5192,book,0.5101
+401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,10.5,True,0.3839,0.496,book,0.4787
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,11.5,False,0.3142,0.4011,book,0.3877
-401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,12.5,False,0.252,0.2992,est,0.2919
-401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,13.5,False,0.201,0.2417,est,0.2354
+401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,12.5,False,0.252,0.3474,est,0.3327
+401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,13.5,False,0.201,0.2843,est,0.2715
+401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,pts,14.5,False,0.1583,0.2486,book,0.2347
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,reb,0.5,False,0.9357,0.9392,est,0.9387
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,reb,1.5,False,0.7708,0.7811,est,0.7795
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,reb,2.5,True,0.5584,0.573,book,0.5708
@@ -918,15 +918,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,ra,7.5,False,0.3821,0.439,est,0.4302
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,ra,8.5,False,0.2777,0.3273,est,0.3196
 401910001,PHX @ DEN,PHX,1631221,Collin Gillespie,ra,9.5,False,0.1924,0.2316,est,0.2256
-401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,4.5,False,0.7864,0.8374,est,0.8295
+401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,4.5,False,0.7864,0.8328,est,0.8256
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,5.5,False,0.6991,0.7003,book,0.7001
-401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,6.5,False,0.6068,0.6834,est,0.6716
+401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,6.5,False,0.6068,0.6761,est,0.6654
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,7.5,False,0.5106,0.5765,book,0.5664
-401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,8.5,True,0.4198,0.5029,book,0.4901
+401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,8.5,True,0.4198,0.4945,book,0.483
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,9.5,False,0.3429,0.4408,book,0.4257
-401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,10.5,False,0.2761,0.3478,est,0.3367
+401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,10.5,False,0.2761,0.3402,est,0.3303
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,11.5,False,0.2166,0.3279,book,0.3108
-401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,12.5,False,0.1682,0.2205,est,0.2124
+401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,pts,12.5,False,0.1682,0.2147,est,0.2076
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,reb,1.5,False,0.8744,0.8839,est,0.8824
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,reb,2.5,False,0.7275,0.7314,book,0.7308
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,reb,3.5,False,0.5605,0.5779,book,0.5752
@@ -986,14 +986,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,ra,8.5,False,0.2298,,model only,0.2298
 401910001,PHX @ DEN,PHX,1630692,Jordan Goodwin,ra,9.5,False,0.1575,,model only,0.1575
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,7.5,False,0.7941,0.7319,book,0.7415
-401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,8.5,False,0.7269,0.7027,est,0.7064
+401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,8.5,False,0.7269,0.7114,est,0.7138
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,9.5,False,0.6585,0.6134,book,0.6203
-401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,10.5,False,0.5878,0.5587,est,0.5632
-401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,11.5,True,0.5171,0.4874,book,0.492
-401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,12.5,False,0.4498,0.4205,est,0.425
-401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,13.5,False,0.3877,0.3599,est,0.3642
+401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,10.5,False,0.5878,0.5692,est,0.572
+401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,11.5,True,0.5171,0.498,book,0.5009
+401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,12.5,False,0.4498,0.4309,est,0.4338
+401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,13.5,False,0.3877,0.3697,est,0.3725
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,14.5,False,0.3309,0.3105,book,0.3136
-401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,15.5,False,0.2813,0.2579,est,0.2615
+401910001,PHX @ DEN,PHX,1630224,Jalen Green,pts,15.5,False,0.2813,0.2661,est,0.2684
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,reb,0.5,False,0.9513,0.9365,est,0.9388
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,reb,1.5,False,0.8203,0.7753,est,0.7822
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,reb,2.5,True,0.6344,0.5674,book,0.5777
@@ -1051,14 +1051,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,ra,6.5,False,0.4048,0.3281,est,0.3399
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,ra,7.5,False,0.2847,0.2223,est,0.2319
 401910001,PHX @ DEN,PHX,1630224,Jalen Green,ra,8.5,False,0.194,0.1474,est,0.1546
-401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,1.5,False,0.9334,0.9328,est,0.9329
-401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8478,0.8466,est,0.8467
-401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7381,0.7363,est,0.7366
-401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.615,0.6128,est,0.6131
-401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,5.5,True,0.4897,0.4874,book,0.4878
-401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,6.5,False,0.3788,0.3767,est,0.377
+401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,1.5,False,0.9334,0.9364,est,0.9359
+401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8478,0.854,est,0.853
+401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7381,0.7475,est,0.746
+401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.615,0.6266,est,0.6248
+401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,5.5,True,0.4897,0.502,book,0.5001
+401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,6.5,False,0.3788,0.3905,est,0.3887
 401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,7.5,False,0.285,0.3015,book,0.299
-401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.21,0.2084,est,0.2087
+401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.21,0.2182,est,0.217
 401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,pts,9.5,False,0.1513,0.169,book,0.1663
 401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,reb,1.5,False,0.9043,0.9203,est,0.9178
 401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,reb,2.5,False,0.7854,0.8192,book,0.814
@@ -1116,14 +1116,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,ra,8.5,False,0.3813,0.4117,est,0.407
 401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,ra,9.5,False,0.2899,0.3168,est,0.3126
 401910001,PHX @ DEN,PHX,1642345,Oso Ighodaro,ra,10.5,False,0.2134,0.2355,est,0.2321
-401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,3.5,False,0.8373,0.8659,est,0.8615
-401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,4.5,False,0.7447,0.7853,est,0.7791
+401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,3.5,False,0.8373,0.8611,est,0.8574
+401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,4.5,False,0.7447,0.7784,est,0.7732
 401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,5.5,False,0.6515,0.6573,book,0.6564
-401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,6.5,False,0.5529,0.608,est,0.5995
-401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,7.5,True,0.4627,0.5192,book,0.5105
-401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,8.5,False,0.3789,0.4335,est,0.4251
+401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,6.5,False,0.5529,0.5982,est,0.5912
+401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,7.5,True,0.4627,0.509,book,0.5019
+401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,8.5,False,0.3789,0.4235,est,0.4166
 401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,9.5,False,0.3032,0.3768,book,0.3655
-401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,10.5,False,0.2362,0.2794,est,0.2727
+401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,10.5,False,0.2362,0.2712,est,0.2658
 401910001,PHX @ DEN,PHX,1628379,Luke Kennard,pts,11.5,False,0.1855,0.2596,book,0.2482
 401910001,PHX @ DEN,PHX,1628379,Luke Kennard,reb,0.5,False,0.8349,,model only,0.8349
 401910001,PHX @ DEN,PHX,1628379,Luke Kennard,reb,1.5,False,0.5785,,model only,0.5785
