@@ -1,1120 +1,1122 @@
 game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,market_source,p_over_blend
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,16.5,False,0.6467,0.6787,est,0.6738
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,17.5,False,0.5966,0.6306,est,0.6254
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,18.5,False,0.5481,0.5833,est,0.5779
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,19.5,False,0.4995,0.5353,est,0.5298
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,20.5,True,0.4517,0.4874,book,0.4819
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,21.5,False,0.4066,0.4416,est,0.4363
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,22.5,False,0.3655,0.3994,est,0.3942
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,23.5,False,0.3264,0.3587,est,0.3537
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,24.5,False,0.2879,0.3181,est,0.3135
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,2.5,False,0.9167,0.8776,book,0.8836
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,3.5,False,0.8199,0.7867,book,0.7918
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,4.5,False,0.6906,0.6613,book,0.6658
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,5.5,True,0.5458,0.5183,book,0.5225
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,6.5,False,0.4007,0.3784,book,0.3818
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,7.5,False,0.2754,0.2618,book,0.2639
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,8.5,False,0.1795,0.1718,book,0.173
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,0.5,False,0.9775,0.9717,est,0.9726
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,1.5,False,0.9053,0.8831,est,0.8865
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,2.5,False,0.7691,0.7126,book,0.7213
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,3.5,True,0.5955,0.5377,book,0.5466
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,4.5,False,0.418,0.3622,book,0.3708
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,5.5,False,0.2693,0.2199,book,0.2275
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,6.5,False,0.1615,0.123,book,0.1289
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,0.5,False,0.8183,0.7993,book,0.8022
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,1.5,True,0.5211,0.5238,book,0.5234
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,2.5,False,0.2601,0.2807,book,0.2775
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,3.5,False,0.109,0.1298,book,0.1266
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,stl,0.5,False,0.498,,model only,0.498
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,stl,1.5,False,0.1664,,model only,0.1664
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,blk,0.5,False,0.3194,,model only,0.3194
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,blk,1.5,False,0.0571,,model only,0.0571
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,25.5,False,0.6771,0.6875,est,0.6859
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,26.5,False,0.6351,0.6461,est,0.6444
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,27.5,False,0.5949,0.6065,est,0.6047
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,28.5,False,0.5538,0.5656,est,0.5638
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,29.5,False,0.5148,0.5268,est,0.5249
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,30.5,True,0.4743,0.4863,book,0.4845
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,31.5,False,0.4349,0.4468,est,0.445
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,32.5,False,0.3963,0.4079,est,0.4061
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,33.5,False,0.3623,0.3735,est,0.3718
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,34.5,False,0.3288,0.3395,est,0.3378
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,35.5,False,0.2953,0.3054,est,0.3039
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,22.5,False,0.6334,0.6572,est,0.6536
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,23.5,False,0.5912,0.6161,est,0.6123
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,24.5,False,0.5482,0.5738,est,0.5699
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,25.5,False,0.5033,0.5293,est,0.5253
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,26.5,True,0.4594,0.4853,book,0.4813
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,27.5,False,0.4191,0.4446,est,0.4406
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,28.5,False,0.3825,0.4073,est,0.4035
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,29.5,False,0.3447,0.3685,est,0.3649
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,30.5,False,0.3075,0.33,est,0.3266
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,20.5,False,0.6451,0.6626,est,0.6599
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,21.5,False,0.6026,0.621,est,0.6181
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,22.5,False,0.5581,0.5771,est,0.5742
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,23.5,False,0.5134,0.5327,est,0.5297
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,24.5,True,0.4702,0.4895,book,0.4865
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,25.5,False,0.4252,0.4442,est,0.4413
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,26.5,False,0.3847,0.4032,est,0.4004
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,27.5,False,0.3465,0.3643,est,0.3615
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,28.5,False,0.3084,0.3252,est,0.3226
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,6.5,False,0.847,0.819,est,0.8233
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,7.5,False,0.7613,0.7228,est,0.7287
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,8.5,False,0.6638,0.6174,est,0.6245
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,9.5,True,0.5572,0.5071,book,0.5148
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,10.5,False,0.4466,0.3975,est,0.4051
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,11.5,False,0.3488,0.3045,est,0.3113
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,12.5,False,0.264,0.2268,est,0.2325
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,3.5,False,0.7966,,model only,0.7966
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,4.5,False,0.7112,,model only,0.7112
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,5.5,False,0.6141,,model only,0.6141
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,6.5,False,0.521,,model only,0.521
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,7.5,False,0.4324,,model only,0.4324
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,8.5,False,0.354,,model only,0.354
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,9.5,False,0.2825,,model only,0.2825
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,10.5,False,0.2225,,model only,0.2225
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,11.5,False,0.1767,,model only,0.1767
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,0.5,False,0.832,,model only,0.832
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,1.5,False,0.58,,model only,0.58
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,2.5,False,0.3471,,model only,0.3471
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,3.5,False,0.1822,,model only,0.1822
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,4.5,False,0.0871,,model only,0.0871
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,5.5,False,0.0379,,model only,0.0379
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,0.5,False,0.4582,,model only,0.4582
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,1.5,False,0.1484,,model only,0.1484
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,2.5,False,0.0379,,model only,0.0379
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,3.5,False,0.0078,,model only,0.0078
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,0.5,False,0.6769,,model only,0.6769
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,1.5,False,0.3227,,model only,0.3227
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,2.5,False,0.116,,model only,0.116
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,3.5,False,0.0324,,model only,0.0324
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,stl,0.5,False,0.251,,model only,0.251
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,stl,1.5,False,0.041,,model only,0.041
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,blk,0.5,False,0.1387,,model only,0.1387
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,blk,1.5,False,0.0116,,model only,0.0116
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,4.5,False,0.8517,,model only,0.8517
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,5.5,False,0.7925,,model only,0.7925
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,6.5,False,0.7226,,model only,0.7226
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,7.5,False,0.648,,model only,0.648
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,8.5,False,0.5716,,model only,0.5716
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,9.5,False,0.4996,,model only,0.4996
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,10.5,False,0.4301,,model only,0.4301
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,11.5,False,0.3634,,model only,0.3634
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,12.5,False,0.3053,,model only,0.3053
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,13.5,False,0.25,,model only,0.25
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,14.5,False,0.2023,,model only,0.2023
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,5.5,False,0.7608,,model only,0.7608
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,6.5,False,0.6838,,model only,0.6838
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,7.5,False,0.6036,,model only,0.6036
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,8.5,False,0.5263,,model only,0.5263
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,9.5,False,0.4535,,model only,0.4535
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,10.5,False,0.3833,,model only,0.3833
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,11.5,False,0.3161,,model only,0.3161
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,12.5,False,0.2582,,model only,0.2582
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,13.5,False,0.2086,,model only,0.2086
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,3.5,False,0.8321,,model only,0.8321
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,4.5,False,0.755,,model only,0.755
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,5.5,False,0.6653,,model only,0.6653
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,6.5,False,0.5759,,model only,0.5759
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,7.5,False,0.4888,,model only,0.4888
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,8.5,False,0.4086,,model only,0.4086
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,9.5,False,0.3359,,model only,0.3359
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,10.5,False,0.2712,,model only,0.2712
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,11.5,False,0.2174,,model only,0.2174
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,0.5,False,0.8892,,model only,0.8892
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,1.5,False,0.7016,,model only,0.7016
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,2.5,False,0.4893,,model only,0.4893
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,3.5,False,0.3114,,model only,0.3114
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,4.5,False,0.1767,,model only,0.1767
-401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,5.5,False,0.0951,,model only,0.0951
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,0.5,False,0.9435,,model only,0.9435
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,1.5,False,0.8404,,model only,0.8404
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,2.5,False,0.7215,,model only,0.7215
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,3.5,False,0.5903,,model only,0.5903
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,4.5,False,0.4686,,model only,0.4686
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,5.5,False,0.3543,,model only,0.3543
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,6.5,False,0.261,,model only,0.261
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,7.5,False,0.1885,,model only,0.1885
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,8.5,False,0.1325,,model only,0.1325
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,0.5,False,0.875,,model only,0.875
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,1.5,False,0.6793,,model only,0.6793
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,2.5,False,0.4682,,model only,0.4682
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,3.5,False,0.2943,,model only,0.2943
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,4.5,False,0.1699,,model only,0.1699
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,5.5,False,0.0909,,model only,0.0909
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,0.5,False,0.5707,,model only,0.5707
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,1.5,False,0.2449,,model only,0.2449
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,2.5,False,0.0864,,model only,0.0864
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,3.5,False,0.0257,,model only,0.0257
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,4.5,False,0.0076,,model only,0.0076
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,fg3m,0.5,False,0.4055,,model only,0.4055
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,fg3m,1.5,False,0.0941,,model only,0.0941
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,fg3m,2.5,False,0.0144,,model only,0.0144
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,stl,0.5,False,0.3334,,model only,0.3334
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,stl,1.5,False,0.0764,,model only,0.0764
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,blk,0.5,False,0.267,,model only,0.267
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,blk,1.5,False,0.0483,,model only,0.0483
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,3.5,False,0.8453,,model only,0.8453
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,4.5,False,0.776,,model only,0.776
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,5.5,False,0.6933,,model only,0.6933
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,6.5,False,0.6087,,model only,0.6087
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,7.5,False,0.5245,,model only,0.5245
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,8.5,False,0.4426,,model only,0.4426
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,9.5,False,0.3644,,model only,0.3644
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,10.5,False,0.2961,,model only,0.2961
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,11.5,False,0.2379,,model only,0.2379
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,12.5,False,0.1865,,model only,0.1865
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,13.5,False,0.1442,,model only,0.1442
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,3.5,False,0.8048,,model only,0.8048
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,4.5,False,0.72,,model only,0.72
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,5.5,False,0.6276,,model only,0.6276
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,6.5,False,0.536,,model only,0.536
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,7.5,False,0.4457,,model only,0.4457
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,8.5,False,0.3605,,model only,0.3605
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,9.5,False,0.2858,,model only,0.2858
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,10.5,False,0.2229,,model only,0.2229
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,11.5,False,0.1716,,model only,0.1716
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,1.5,False,0.8893,,model only,0.8893
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,2.5,False,0.7946,,model only,0.7946
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,3.5,False,0.6856,,model only,0.6856
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,4.5,False,0.5713,,model only,0.5713
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,5.5,False,0.4642,,model only,0.4642
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,6.5,False,0.3629,,model only,0.3629
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,7.5,False,0.2759,,model only,0.2759
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,8.5,False,0.2056,,model only,0.2056
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,9.5,False,0.1531,,model only,0.1531
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,0.5,False,0.9252,,model only,0.9252
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,1.5,False,0.7933,,model only,0.7933
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,2.5,False,0.625,,model only,0.625
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,3.5,False,0.4581,,model only,0.4581
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,4.5,False,0.3156,,model only,0.3156
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,5.5,False,0.205,,model only,0.205
-401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,6.5,False,0.1233,,model only,0.1233
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,1.5,False,0.854,,model only,0.854
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,2.5,False,0.7447,,model only,0.7447
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,3.5,False,0.6264,,model only,0.6264
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,4.5,False,0.5074,,model only,0.5074
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,5.5,False,0.4055,,model only,0.4055
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,6.5,False,0.3159,,model only,0.3159
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,7.5,False,0.2377,,model only,0.2377
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,8.5,False,0.1775,,model only,0.1775
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pts,9.5,False,0.1312,,model only,0.1312
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,reb,0.5,False,0.7771,,model only,0.7771
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,reb,1.5,False,0.5073,,model only,0.5073
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,reb,2.5,False,0.2937,,model only,0.2937
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,reb,3.5,False,0.153,,model only,0.153
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,reb,4.5,False,0.073,,model only,0.073
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,reb,5.5,False,0.0309,,model only,0.0309
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ast,0.5,False,0.5622,,model only,0.5622
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ast,1.5,False,0.2472,,model only,0.2472
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ast,2.5,False,0.0869,,model only,0.0869
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ast,3.5,False,0.0267,,model only,0.0267
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ast,4.5,False,0.0081,,model only,0.0081
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,fg3m,0.5,False,0.4189,,model only,0.4189
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,fg3m,1.5,False,0.1111,,model only,0.1111
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,fg3m,2.5,False,0.0215,,model only,0.0215
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,stl,0.5,False,0.3764,,model only,0.3764
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,stl,1.5,False,0.1049,,model only,0.1049
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,blk,0.5,False,0.1883,,model only,0.1883
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,blk,1.5,False,0.0228,,model only,0.0228
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,2.5,False,0.8779,,model only,0.8779
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,3.5,False,0.8114,,model only,0.8114
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,4.5,False,0.7336,,model only,0.7336
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,5.5,False,0.6532,,model only,0.6532
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,6.5,False,0.5692,,model only,0.5692
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,7.5,False,0.4903,,model only,0.4903
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,8.5,False,0.413,,model only,0.413
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,9.5,False,0.343,,model only,0.343
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,10.5,False,0.2778,,model only,0.2778
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,11.5,False,0.2245,,model only,0.2245
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pra,12.5,False,0.1796,,model only,0.1796
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,2.5,False,0.8479,,model only,0.8479
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,3.5,False,0.7674,,model only,0.7674
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,4.5,False,0.6777,,model only,0.6777
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,5.5,False,0.5825,,model only,0.5825
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,6.5,False,0.496,,model only,0.496
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,7.5,False,0.4102,,model only,0.4102
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,8.5,False,0.3343,,model only,0.3343
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,9.5,False,0.2675,,model only,0.2675
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pr,10.5,False,0.2098,,model only,0.2098
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,2.5,False,0.8061,,model only,0.8061
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,3.5,False,0.7084,,model only,0.7084
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,4.5,False,0.5999,,model only,0.5999
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,5.5,False,0.5006,,model only,0.5006
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,6.5,False,0.409,,model only,0.409
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,7.5,False,0.3252,,model only,0.3252
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,8.5,False,0.253,,model only,0.253
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,9.5,False,0.1967,,model only,0.1967
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,pa,10.5,False,0.15,,model only,0.15
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ra,0.5,False,0.8704,,model only,0.8704
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ra,1.5,False,0.6838,,model only,0.6838
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ra,2.5,False,0.487,,model only,0.487
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ra,3.5,False,0.3182,,model only,0.3182
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ra,4.5,False,0.1959,,model only,0.1959
-401910002,NYK @ TOR,TOR,1642918,Alijah Martin,ra,5.5,False,0.1128,,model only,0.1128
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,6.5,False,0.8213,0.798,est,0.8016
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,7.5,False,0.7573,0.7284,est,0.7328
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,8.5,False,0.685,0.6515,est,0.6566
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,9.5,False,0.6111,0.5746,est,0.5802
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,10.5,True,0.5377,0.4999,book,0.5057
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,11.5,False,0.4655,0.4281,est,0.4339
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,12.5,False,0.3997,0.3639,est,0.3694
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,13.5,False,0.3394,0.3063,est,0.3114
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,14.5,False,0.2852,0.2554,est,0.26
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,3.5,False,0.7912,0.8178,book,0.8137
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,4.5,False,0.6565,0.7142,book,0.7053
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,5.5,False,0.5123,0.5935,book,0.581
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,6.5,True,0.3777,0.4685,book,0.4545
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,7.5,False,0.2658,0.35,book,0.337
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,8.5,False,0.18,0.2466,book,0.2363
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,9.5,False,0.1131,0.169,book,0.1604
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,0.5,False,0.8877,,model only,0.8877
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,1.5,False,0.6675,0.6188,book,0.6263
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,2.5,False,0.4295,0.3799,book,0.3875
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,3.5,False,0.2407,0.2023,book,0.2082
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,4.5,False,0.1164,0.1016,book,0.1039
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,5.5,False,0.055,0.0508,book,0.0514
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,0.5,False,0.3787,,model only,0.3787
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,1.5,False,0.0847,,model only,0.0847
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,2.5,False,0.013,,model only,0.013
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,stl,0.5,False,0.6483,0.6369,book,0.6387
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,stl,1.5,False,0.2993,0.2967,book,0.2971
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,stl,2.5,False,0.1097,0.1154,book,0.1145
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,0.5,False,0.684,0.6873,book,0.6868
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,1.5,True,0.3377,0.3615,book,0.3578
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,2.5,False,0.1322,0.155,book,0.1515
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,14.5,False,0.7588,0.7399,book,0.7428
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,15.5,False,0.7062,0.7047,est,0.7049
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,16.5,False,0.6535,0.6519,est,0.6522
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,17.5,False,0.603,0.6013,est,0.6016
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,18.5,False,0.5484,0.5466,est,0.5469
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,19.5,True,0.4935,0.4917,book,0.492
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,20.5,False,0.4406,0.4389,est,0.4392
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,21.5,False,0.3923,0.3906,est,0.3908
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,22.5,False,0.3464,0.3448,est,0.3451
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,23.5,False,0.3017,0.3002,est,0.3005
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,24.5,False,0.2626,0.2633,book,0.2632
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,13.5,False,0.7031,0.7089,est,0.708
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,14.5,False,0.6441,0.6505,est,0.6496
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,15.5,False,0.5841,0.591,est,0.5899
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,16.5,False,0.527,0.534,est,0.5329
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,17.5,True,0.4695,0.4765,book,0.4754
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,18.5,False,0.4167,0.4236,est,0.4225
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,19.5,False,0.3631,0.3696,est,0.3686
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,20.5,False,0.3144,0.3204,est,0.3195
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,21.5,False,0.267,0.2725,est,0.2716
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,9.5,False,0.7558,0.7077,book,0.7151
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,10.5,False,0.6931,,model only,0.6931
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,11.5,False,0.6264,,model only,0.6264
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,12.5,False,0.5633,,model only,0.5633
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,13.5,False,0.4967,,model only,0.4967
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,14.5,False,0.4343,0.391,book,0.3977
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,15.5,False,0.3733,,model only,0.3733
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,16.5,False,0.3223,,model only,0.3223
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,17.5,False,0.2733,,model only,0.2733
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,5.5,False,0.7753,,model only,0.7753
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,6.5,False,0.6671,,model only,0.6671
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,7.5,False,0.5553,,model only,0.5553
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,8.5,False,0.4454,,model only,0.4454
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,9.5,False,0.3417,,model only,0.3417
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,10.5,False,0.254,,model only,0.254
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,11.5,False,0.1837,,model only,0.1837
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,3.5,False,0.891,0.8671,est,0.8708
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,4.5,False,0.8214,0.7858,est,0.7913
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,5.5,False,0.7384,0.6652,book,0.6765
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,6.5,False,0.6476,0.5946,est,0.6027
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,7.5,True,0.5561,0.4999,book,0.5086
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,8.5,False,0.4671,0.4115,est,0.4201
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,9.5,False,0.3909,0.3474,book,0.3541
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,10.5,False,0.3203,0.2732,est,0.2805
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,11.5,False,0.258,0.2274,book,0.2321
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,2.5,False,0.8992,0.8402,book,0.8493
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,3.5,False,0.8095,0.7427,book,0.753
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,4.5,False,0.6899,0.6251,book,0.6351
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,5.5,True,0.5599,0.4999,book,0.5091
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,6.5,False,0.4314,0.383,book,0.3905
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,7.5,False,0.322,0.2807,book,0.2871
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,8.5,False,0.2298,0.1993,book,0.204
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,0.5,False,0.7786,,model only,0.7786
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,1.5,False,0.4709,,model only,0.4709
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,2.5,False,0.2372,,model only,0.2372
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,3.5,False,0.1036,,model only,0.1036
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,4.5,False,0.0387,,model only,0.0387
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,fg3m,0.5,False,0.0076,,model only,0.0076
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,fg3m,1.5,False,0.0,,model only,0.0
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,16.5,False,0.6108,0.6955,est,0.6824
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,17.5,False,0.557,0.6466,est,0.6328
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,18.5,False,0.5054,0.5978,est,0.5836
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,19.5,False,0.4557,0.5492,est,0.5348
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,20.5,True,0.4082,0.5009,book,0.4866
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,21.5,False,0.3654,0.4558,est,0.4419
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,22.5,False,0.3244,0.4112,est,0.3979
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,23.5,False,0.288,0.3704,est,0.3577
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pts,24.5,False,0.2529,0.33,est,0.3182
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,reb,3.5,False,0.8755,0.8554,book,0.8585
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,reb,4.5,False,0.7708,0.7745,book,0.7739
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,reb,5.5,False,0.6445,0.6676,book,0.664
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,reb,6.5,True,0.5085,0.5452,book,0.5395
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,reb,7.5,False,0.375,0.421,book,0.4139
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,reb,8.5,False,0.2599,0.3126,book,0.3045
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,reb,9.5,False,0.1722,0.2179,book,0.2109
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ast,1.5,False,0.9773,0.9544,est,0.9579
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ast,2.5,False,0.9285,0.8362,book,0.8504
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ast,3.5,False,0.8409,0.7121,book,0.7319
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ast,4.5,True,0.7177,0.5531,book,0.5785
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ast,5.5,False,0.5742,0.4028,book,0.4292
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ast,6.5,False,0.4347,0.2701,book,0.2955
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ast,7.5,False,0.3096,0.1657,book,0.1879
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,fg3m,0.5,True,0.5949,0.6605,book,0.6504
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,fg3m,1.5,False,0.2355,0.3291,book,0.3147
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,fg3m,2.5,False,0.0696,0.1347,book,0.1247
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,0.5,False,0.7265,0.7162,book,0.7178
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,1.5,True,0.3845,0.3878,book,0.3873
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,2.5,False,0.1608,0.1734,book,0.1715
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,blk,0.5,True,0.6648,0.6593,book,0.6602
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,blk,1.5,False,0.3128,0.3256,book,0.3236
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,27.5,False,0.6742,0.711,est,0.7053
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,28.5,False,0.6348,0.6739,est,0.6679
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,29.5,False,0.5947,0.6357,est,0.6294
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,30.5,False,0.5541,0.5964,est,0.5899
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,31.5,False,0.5139,0.557,est,0.5504
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,32.5,True,0.4731,0.5164,book,0.5097
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,33.5,False,0.4337,0.4767,est,0.47
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,34.5,False,0.3963,0.4384,est,0.4319
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,35.5,False,0.3597,0.4005,est,0.3942
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,36.5,False,0.3243,0.3634,est,0.3574
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,37.5,False,0.2927,0.3298,est,0.3241
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,23.5,False,0.5925,0.6856,est,0.6713
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,24.5,False,0.5456,0.643,est,0.628
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,25.5,False,0.4985,0.5986,est,0.5832
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,26.5,False,0.4549,0.5558,est,0.5403
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,27.5,True,0.4122,0.5126,book,0.4971
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,28.5,False,0.3732,0.4717,est,0.4566
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,29.5,False,0.336,0.4315,est,0.4168
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,30.5,False,0.2986,0.3897,est,0.3757
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,31.5,False,0.2664,0.3526,est,0.3393
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,21.5,False,0.6573,0.6909,est,0.6857
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,22.5,False,0.6142,0.6497,est,0.6442
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,23.5,False,0.5663,0.6035,est,0.5977
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,24.5,False,0.5213,0.5593,est,0.5534
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,25.5,True,0.4744,0.5126,book,0.5067
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,26.5,False,0.4326,0.4705,est,0.4647
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,27.5,False,0.3919,0.4288,est,0.4231
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,28.5,False,0.3533,0.3889,est,0.3834
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,29.5,False,0.3151,0.349,est,0.3438
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ra,8.5,False,0.8574,0.8133,est,0.8201
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ra,9.5,False,0.7878,0.7291,est,0.7381
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ra,10.5,False,0.7092,0.6387,est,0.6496
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ra,11.5,True,0.6174,0.5391,book,0.5512
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ra,12.5,False,0.5234,0.4432,est,0.4555
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ra,13.5,False,0.4317,0.3551,est,0.3669
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,ra,14.5,False,0.3503,0.281,est,0.2917
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,15.5,False,0.6383,0.6908,est,0.6827
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,16.5,False,0.5847,0.6406,est,0.632
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,17.5,False,0.5311,0.591,book,0.5818
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,18.5,False,0.4797,0.5386,est,0.5295
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,19.5,True,0.4289,0.4874,book,0.4784
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,20.5,False,0.3813,0.4383,est,0.4295
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,21.5,False,0.3364,0.391,est,0.3826
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,22.5,False,0.2953,0.3466,est,0.3387
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pts,23.5,False,0.257,0.3046,est,0.2972
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,2.5,False,0.9,0.8739,book,0.8779
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,3.5,False,0.7958,0.7804,book,0.7828
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,4.5,False,0.6579,0.6556,book,0.656
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,5.5,True,0.5053,0.5126,book,0.5115
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,6.5,False,0.3655,0.3753,book,0.3738
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,7.5,False,0.2478,0.2575,book,0.256
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,reb,8.5,False,0.1591,0.1657,book,0.1647
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,0.5,False,0.9723,0.9696,est,0.97
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,1.5,False,0.8837,0.8733,est,0.8749
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,2.5,False,0.7306,0.7027,book,0.707
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,3.5,True,0.5426,0.5183,book,0.522
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,4.5,False,0.3657,0.3411,book,0.3449
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,5.5,False,0.2259,0.2041,book,0.2075
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ast,6.5,False,0.1275,0.114,book,0.1161
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,0.5,False,0.7998,0.7973,book,0.7977
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,1.5,True,0.4915,0.5265,book,0.5211
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,2.5,False,0.2376,0.2815,book,0.2747
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,fg3m,3.5,False,0.0933,0.1345,book,0.1282
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,stl,0.5,False,0.4953,,model only,0.4953
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,stl,1.5,False,0.1558,,model only,0.1558
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,blk,0.5,False,0.3072,,model only,0.3072
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,blk,1.5,False,0.0534,,model only,0.0534
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,24.5,False,0.6497,0.6912,book,0.6848
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,25.5,False,0.6037,0.6482,est,0.6414
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,26.5,False,0.5586,0.6049,est,0.5978
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,27.5,False,0.5172,0.5644,est,0.5571
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,28.5,False,0.476,0.5236,est,0.5162
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,29.5,True,0.4337,0.4809,book,0.4736
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,30.5,False,0.3938,0.44,est,0.4328
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,31.5,False,0.3541,0.3987,est,0.3919
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,32.5,False,0.3192,0.3618,est,0.3553
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,33.5,False,0.2856,0.3259,est,0.3197
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,34.5,False,0.2519,0.2798,book,0.2755
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,21.5,False,0.6131,0.6682,est,0.6597
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,22.5,False,0.5654,0.6231,est,0.6142
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,23.5,False,0.5176,0.5769,est,0.5678
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,24.5,False,0.4728,0.5327,est,0.5234
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,25.5,True,0.43,0.4895,book,0.4803
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,26.5,False,0.3884,0.4466,est,0.4376
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,27.5,False,0.3451,0.4011,est,0.3925
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,28.5,False,0.3092,0.3626,est,0.3543
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,29.5,False,0.2723,0.3223,est,0.3146
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,19.5,False,0.6261,0.6749,est,0.6674
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,20.5,False,0.5781,0.6294,est,0.6215
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,21.5,False,0.529,0.582,est,0.5738
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,22.5,False,0.4798,0.5334,est,0.5252
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,23.5,True,0.433,0.4863,book,0.4781
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,24.5,False,0.3884,0.4405,est,0.4325
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,25.5,False,0.3467,0.3968,est,0.3891
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,26.5,False,0.3058,0.3532,est,0.3459
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pa,27.5,False,0.2701,0.3144,est,0.3076
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,6.5,False,0.8118,0.8069,est,0.8076
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,7.5,False,0.7169,0.7104,est,0.7114
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,8.5,False,0.6083,0.6007,est,0.6018
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,9.5,True,0.4968,0.4888,book,0.49
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,10.5,False,0.3933,0.3857,est,0.3869
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,11.5,False,0.2995,0.2929,est,0.2939
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,ra,12.5,False,0.2186,0.2132,est,0.214
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,2.5,False,0.8353,,model only,0.8353
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,3.5,False,0.734,,model only,0.734
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,4.5,False,0.6331,,model only,0.6331
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,5.5,False,0.5283,,model only,0.5283
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,6.5,False,0.4319,,model only,0.4319
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,7.5,False,0.3452,,model only,0.3452
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,8.5,False,0.2702,,model only,0.2702
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,9.5,False,0.2106,,model only,0.2106
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pts,10.5,False,0.1606,,model only,0.1606
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,0.5,False,0.7913,,model only,0.7913
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,1.5,False,0.522,,model only,0.522
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,2.5,False,0.2918,,model only,0.2918
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,3.5,False,0.1442,,model only,0.1442
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,4.5,False,0.066,,model only,0.066
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,reb,5.5,False,0.0274,,model only,0.0274
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,0.5,False,0.4077,,model only,0.4077
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,1.5,False,0.1138,,model only,0.1138
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,2.5,False,0.0258,,model only,0.0258
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ast,3.5,False,0.0048,,model only,0.0048
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,0.5,False,0.6216,,model only,0.6216
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,1.5,False,0.2523,,model only,0.2523
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,2.5,False,0.0744,,model only,0.0744
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,fg3m,3.5,False,0.0179,,model only,0.0179
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,stl,0.5,False,0.2245,,model only,0.2245
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,stl,1.5,False,0.0341,,model only,0.0341
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,blk,0.5,False,0.1222,,model only,0.1222
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,blk,1.5,False,0.0094,,model only,0.0094
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,3.5,False,0.8637,,model only,0.8637
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,4.5,False,0.7985,,model only,0.7985
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,5.5,False,0.721,,model only,0.721
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,6.5,False,0.6417,,model only,0.6417
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,7.5,False,0.557,,model only,0.557
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,8.5,False,0.4768,,model only,0.4768
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,9.5,False,0.3987,,model only,0.3987
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,10.5,False,0.3296,,model only,0.3296
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,11.5,False,0.2682,,model only,0.2682
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,12.5,False,0.2186,,model only,0.2186
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pra,13.5,False,0.174,,model only,0.174
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,4.5,False,0.7704,,model only,0.7704
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,5.5,False,0.6875,,model only,0.6875
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,6.5,False,0.6011,,model only,0.6011
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,7.5,False,0.5131,,model only,0.5131
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,8.5,False,0.4297,,model only,0.4297
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,9.5,False,0.352,,model only,0.352
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,10.5,False,0.2871,,model only,0.2871
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,11.5,False,0.2309,,model only,0.2309
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pr,12.5,False,0.1832,,model only,0.1832
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,2.5,False,0.8602,,model only,0.8602
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,3.5,False,0.7736,,model only,0.7736
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,4.5,False,0.6779,,model only,0.6779
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,5.5,False,0.5814,,model only,0.5814
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,6.5,False,0.4861,,model only,0.4861
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,7.5,False,0.3969,,model only,0.3969
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,8.5,False,0.3176,,model only,0.3176
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,9.5,False,0.2529,,model only,0.2529
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,pa,10.5,False,0.1975,,model only,0.1975
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,0.5,False,0.8578,,model only,0.8578
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,1.5,False,0.6374,,model only,0.6374
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,2.5,False,0.421,,model only,0.421
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,3.5,False,0.2451,,model only,0.2451
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,4.5,False,0.13,,model only,0.13
+401910002,NYK @ TOR,TOR,1642419,Jamison Battle,ra,5.5,False,0.0661,,model only,0.0661
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,0.5,False,0.9206,,model only,0.9206
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,1.5,False,0.8039,,model only,0.8039
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,2.5,False,0.664,,model only,0.664
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,3.5,False,0.5247,,model only,0.5247
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,4.5,False,0.3991,,model only,0.3991
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,5.5,False,0.2934,,model only,0.2934
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,6.5,False,0.2081,,model only,0.2081
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,7.5,False,0.143,,model only,0.143
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pts,8.5,False,0.0994,,model only,0.0994
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,0.5,False,0.8439,,model only,0.8439
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,1.5,False,0.635,,model only,0.635
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,2.5,False,0.4263,,model only,0.4263
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,3.5,False,0.2581,,model only,0.2581
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,4.5,False,0.1416,,model only,0.1416
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,reb,5.5,False,0.0715,,model only,0.0715
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,0.5,False,0.5316,,model only,0.5316
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,1.5,False,0.2079,,model only,0.2079
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,2.5,False,0.0701,,model only,0.0701
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,3.5,False,0.0201,,model only,0.0201
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ast,4.5,False,0.0049,,model only,0.0049
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,fg3m,0.5,False,0.3487,,model only,0.3487
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,fg3m,1.5,False,0.0684,,model only,0.0684
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,fg3m,2.5,False,0.0096,,model only,0.0096
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,stl,0.5,False,0.3047,,model only,0.3047
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,stl,1.5,False,0.0682,,model only,0.0682
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,blk,0.5,False,0.2386,,model only,0.2386
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,blk,1.5,False,0.0391,,model only,0.0391
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,2.5,False,0.8709,,model only,0.8709
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,3.5,False,0.8003,,model only,0.8003
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,4.5,False,0.7178,,model only,0.7178
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,5.5,False,0.6272,,model only,0.6272
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,6.5,False,0.5381,,model only,0.5381
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,7.5,False,0.4524,,model only,0.4524
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,8.5,False,0.371,,model only,0.371
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,9.5,False,0.2976,,model only,0.2976
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,10.5,False,0.2354,,model only,0.2354
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,11.5,False,0.1833,,model only,0.1833
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pra,12.5,False,0.1386,,model only,0.1386
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,2.5,False,0.8414,,model only,0.8414
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,3.5,False,0.755,,model only,0.755
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,4.5,False,0.658,,model only,0.658
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,5.5,False,0.5576,,model only,0.5576
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,6.5,False,0.466,,model only,0.466
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,7.5,False,0.3765,,model only,0.3765
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,8.5,False,0.2963,,model only,0.2963
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,9.5,False,0.2266,,model only,0.2266
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pr,10.5,False,0.1744,,model only,0.1744
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,1.5,False,0.8547,,model only,0.8547
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,2.5,False,0.744,,model only,0.744
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,3.5,False,0.6225,,model only,0.6225
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,4.5,False,0.5027,,model only,0.5027
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,5.5,False,0.3916,,model only,0.3916
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,6.5,False,0.2962,,model only,0.2962
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,7.5,False,0.2178,,model only,0.2178
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,8.5,False,0.1551,,model only,0.1551
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,pa,9.5,False,0.1112,,model only,0.1112
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,0.5,False,0.901,,model only,0.901
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,1.5,False,0.7512,,model only,0.7512
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,2.5,False,0.5721,,model only,0.5721
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,3.5,False,0.4084,,model only,0.4084
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,4.5,False,0.2675,,model only,0.2675
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,5.5,False,0.1678,,model only,0.1678
+401910002,NYK @ TOR,TOR,905149115,Allen Graves,ra,6.5,False,0.0952,,model only,0.0952
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,6.5,False,0.7649,0.7791,est,0.7769
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,7.5,False,0.6873,0.7045,est,0.7018
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,8.5,False,0.6041,0.6233,est,0.6203
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,9.5,False,0.5189,0.5391,est,0.536
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,10.5,True,0.4437,0.4638,book,0.4607
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,11.5,False,0.3728,0.3919,est,0.389
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,12.5,False,0.308,0.3255,est,0.3228
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,13.5,False,0.2514,0.2669,est,0.2645
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pts,14.5,False,0.2018,0.2152,est,0.2131
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,3.5,False,0.7451,0.8066,book,0.7971
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,4.5,False,0.5971,0.7009,book,0.6849
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,5.5,False,0.448,0.5751,book,0.5555
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,6.5,True,0.3169,0.4472,book,0.4271
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,7.5,False,0.212,0.3302,book,0.312
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,8.5,False,0.1359,0.2268,book,0.2128
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,9.5,False,0.0844,0.1547,book,0.1439
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,0.5,False,0.8646,,model only,0.8646
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,1.5,False,0.5989,0.6067,book,0.6055
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,2.5,False,0.3508,0.3622,book,0.3604
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,3.5,False,0.177,0.1884,book,0.1866
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,4.5,False,0.0775,0.0916,book,0.0894
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,5.5,False,0.0308,0.0467,book,0.0443
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,0.5,False,0.3453,,model only,0.3453
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,1.5,False,0.0661,,model only,0.0661
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,2.5,False,0.009,,model only,0.009
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,stl,0.5,False,0.6164,0.6199,book,0.6194
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,stl,1.5,False,0.2718,0.2858,book,0.2836
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,stl,2.5,False,0.0956,0.1087,book,0.1067
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,0.5,True,0.6577,0.6597,book,0.6594
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,1.5,False,0.312,0.3302,book,0.3274
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,13.5,False,0.7281,0.7788,est,0.771
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,14.5,False,0.6702,0.7276,est,0.7188
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,15.5,False,0.6117,0.6744,est,0.6647
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,16.5,False,0.5533,0.6195,est,0.6093
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,17.5,False,0.4936,0.5617,est,0.5512
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,18.5,True,0.4349,0.5029,book,0.4924
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,19.5,False,0.3807,0.447,est,0.4368
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,20.5,False,0.3299,0.3929,est,0.3832
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,21.5,False,0.2827,0.3413,est,0.3322
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,22.5,False,0.2391,0.2923,est,0.2841
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,23.5,False,0.2014,0.2489,est,0.2416
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,12.5,False,0.679,0.7415,est,0.7319
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,13.5,False,0.6153,0.6844,est,0.6737
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,14.5,False,0.548,0.6217,est,0.6104
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,15.5,False,0.4821,0.5579,est,0.5462
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,16.5,True,0.4194,0.4948,book,0.4832
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,17.5,False,0.3639,0.4368,est,0.4256
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,18.5,False,0.3142,0.3831,est,0.3725
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,19.5,False,0.2641,0.3273,est,0.3176
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,20.5,False,0.2214,0.2782,est,0.2695
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,8.5,False,0.7505,,model only,0.7505
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,9.5,False,0.6796,0.6778,book,0.6781
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,10.5,False,0.6051,,model only,0.6051
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,11.5,False,0.5302,,model only,0.5302
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,12.5,False,0.4567,,model only,0.4567
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,13.5,False,0.3892,,model only,0.3892
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,14.5,False,0.3272,0.3487,book,0.3454
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,15.5,False,0.2747,,model only,0.2747
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,16.5,False,0.2241,,model only,0.2241
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,4.5,False,0.8169,,model only,0.8169
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,5.5,False,0.7122,,model only,0.7122
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,6.5,False,0.592,,model only,0.592
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,7.5,False,0.4723,,model only,0.4723
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,8.5,False,0.3558,,model only,0.3558
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,9.5,False,0.262,,model only,0.262
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,10.5,False,0.1858,,model only,0.1858
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,2.5,False,0.93,0.8865,est,0.8932
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,3.5,False,0.866,0.7916,est,0.8031
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,4.5,False,0.7886,0.6868,est,0.7025
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,5.5,False,0.6946,0.5721,est,0.591
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,6.5,True,0.5987,0.4673,book,0.4875
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,7.5,False,0.5056,0.3755,est,0.3955
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,8.5,False,0.424,0.302,est,0.3208
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,9.5,False,0.3455,0.2368,est,0.2536
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,10.5,False,0.2768,0.1837,est,0.1981
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,2.5,False,0.8755,0.8132,book,0.8228
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,3.5,False,0.7676,0.7009,book,0.7112
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,4.5,False,0.6373,0.5723,book,0.5823
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,5.5,True,0.505,0.4493,book,0.4579
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,6.5,False,0.3751,0.3314,book,0.3381
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,7.5,False,0.2709,0.2354,book,0.2409
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,8.5,False,0.1863,0.1609,book,0.1648
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,0.5,False,0.742,,model only,0.742
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,1.5,False,0.4234,,model only,0.4234
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,2.5,False,0.1942,,model only,0.1942
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,3.5,False,0.0768,,model only,0.0768
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,4.5,False,0.0261,,model only,0.0261
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,fg3m,0.5,False,0.0079,,model only,0.0079
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,fg3m,1.5,False,0.0001,,model only,0.0001
 401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,fg3m,2.5,False,0.0,,model only,0.0
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,stl,0.5,False,0.4945,,model only,0.4945
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,stl,1.5,False,0.1691,,model only,0.1691
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,blk,0.5,False,0.5355,,model only,0.5355
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,blk,1.5,False,0.1942,,model only,0.1942
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,blk,2.5,False,0.057,,model only,0.057
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,11.5,False,0.7682,,model only,0.7682
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,12.5,False,0.7119,,model only,0.7119
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,13.5,False,0.6543,,model only,0.6543
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,14.5,False,0.5938,,model only,0.5938
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,15.5,False,0.5341,,model only,0.5341
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,16.5,False,0.4781,,model only,0.4781
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,17.5,False,0.4252,,model only,0.4252
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,18.5,False,0.3705,,model only,0.3705
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,19.5,False,0.3229,,model only,0.3229
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,20.5,False,0.2773,,model only,0.2773
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,21.5,False,0.2368,,model only,0.2368
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,9.5,False,0.8071,0.7546,est,0.7627
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,10.5,False,0.7519,0.6902,est,0.6997
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,11.5,False,0.6885,0.619,est,0.6297
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,12.5,False,0.6244,0.5499,est,0.5614
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,13.5,True,0.5576,0.4809,book,0.4927
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,14.5,False,0.4965,0.4202,est,0.432
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,15.5,False,0.4387,0.3649,est,0.3763
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,16.5,False,0.3811,0.3116,est,0.3223
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,17.5,False,0.3287,0.2646,est,0.2745
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,6.5,False,0.7648,,model only,0.7648
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,7.5,False,0.6871,,model only,0.6871
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,8.5,False,0.6043,,model only,0.6043
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,9.5,False,0.5217,,model only,0.5217
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,10.5,False,0.4475,,model only,0.4475
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,11.5,False,0.377,,model only,0.377
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,12.5,False,0.3139,,model only,0.3139
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,13.5,False,0.2571,,model only,0.2571
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,14.5,False,0.2078,,model only,0.2078
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,5.5,False,0.7302,,model only,0.7302
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,6.5,False,0.6231,,model only,0.6231
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,7.5,False,0.514,,model only,0.514
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,8.5,False,0.4043,,model only,0.4043
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,9.5,False,0.3091,,model only,0.3091
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,10.5,False,0.2315,,model only,0.2315
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,11.5,False,0.1668,,model only,0.1668
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,11.5,False,0.7338,0.7121,book,0.7154
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,12.5,False,0.6774,0.6759,est,0.6761
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,13.5,False,0.6191,0.6174,est,0.6177
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,14.5,False,0.5595,0.5547,book,0.5554
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,15.5,True,0.5036,0.5019,book,0.5022
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,16.5,False,0.4466,0.4449,est,0.4452
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,17.5,False,0.3952,0.3943,book,0.3944
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,18.5,False,0.3471,0.3455,est,0.3458
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,19.5,False,0.3026,0.2995,book,0.3
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,0.5,False,0.967,0.9681,est,0.9679
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,1.5,False,0.8601,0.8644,est,0.8638
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,2.5,False,0.6907,0.6764,book,0.6786
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,3.5,True,0.4947,0.5039,book,0.5025
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,4.5,False,0.3232,0.3423,book,0.3394
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,5.5,False,0.1908,0.2204,book,0.2158
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,6.5,False,0.1018,0.1335,book,0.1286
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,1.5,False,0.9596,0.9479,est,0.9497
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,2.5,False,0.8882,0.833,book,0.8415
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,3.5,False,0.7735,0.7126,book,0.722
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,4.5,True,0.6339,0.5702,book,0.58
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,5.5,False,0.4895,0.421,book,0.4315
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,6.5,False,0.3493,0.2911,book,0.3001
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,7.5,False,0.2381,0.1907,book,0.198
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,0.5,False,0.9032,0.8783,book,0.8821
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,1.5,False,0.6765,0.7032,book,0.6991
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,2.5,True,0.4172,0.4776,book,0.4683
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,3.5,False,0.2092,0.2824,book,0.2711
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,4.5,False,0.0866,0.1507,book,0.1408
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,stl,0.5,True,0.6359,0.6621,book,0.6581
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,stl,1.5,False,0.2818,0.3279,book,0.3208
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,blk,0.5,False,0.119,,model only,0.119
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,blk,1.5,False,0.0068,,model only,0.0068
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,19.5,False,0.7534,0.7241,book,0.7286
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,20.5,False,0.712,0.6964,est,0.6988
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,21.5,False,0.6647,0.6479,est,0.6505
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,22.5,False,0.6202,0.6024,est,0.6051
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,23.5,False,0.5707,0.5523,est,0.5551
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,24.5,True,0.5216,0.5029,book,0.5058
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,25.5,False,0.4764,0.4577,est,0.4606
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,26.5,False,0.4321,0.4138,est,0.4166
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,27.5,False,0.3885,0.3709,est,0.3736
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,28.5,False,0.3497,0.3328,est,0.3354
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,29.5,False,0.3132,0.2885,book,0.2923
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,15.5,False,0.7053,0.7059,est,0.7058
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,16.5,False,0.6504,0.6511,est,0.651
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,17.5,False,0.5963,0.597,est,0.5969
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,18.5,False,0.5427,0.5434,est,0.5433
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,19.5,True,0.4899,0.4906,book,0.4905
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,20.5,False,0.4383,0.439,est,0.4389
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,21.5,False,0.3892,0.3899,est,0.3898
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,22.5,False,0.3446,0.3452,est,0.3451
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,23.5,False,0.3023,0.303,est,0.3029
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,16.5,False,0.7388,0.7258,est,0.7278
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,17.5,False,0.6896,0.6752,est,0.6774
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,18.5,False,0.6393,0.6239,est,0.6262
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,19.5,False,0.5876,0.5714,est,0.5739
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,20.5,True,0.5358,0.5192,book,0.5218
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,21.5,False,0.4873,0.4707,est,0.4732
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,22.5,False,0.4415,0.4252,est,0.4277
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,23.5,False,0.3953,0.3795,est,0.3819
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,24.5,False,0.3521,0.3371,est,0.3394
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,5.5,False,0.8577,0.8355,est,0.8389
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,6.5,False,0.7772,0.7462,est,0.7509
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,7.5,False,0.678,0.6395,est,0.6455
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,8.5,True,0.5668,0.5244,book,0.5309
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,9.5,False,0.4601,0.418,est,0.4245
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,10.5,False,0.3559,0.3177,est,0.3236
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,11.5,False,0.2666,0.2346,est,0.2395
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,2.5,False,0.9364,0.9123,est,0.916
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,3.5,False,0.8722,0.8281,est,0.8349
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,4.5,False,0.7952,0.7328,est,0.7424
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,5.5,False,0.7065,0.6296,est,0.6414
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,6.5,True,0.6091,0.5238,book,0.5369
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,7.5,False,0.512,0.4255,est,0.4388
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,8.5,False,0.4236,0.3416,est,0.3542
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,9.5,False,0.3453,0.2713,est,0.2827
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,10.5,False,0.275,0.2113,est,0.2211
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,0.5,False,0.8195,,model only,0.8195
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,1.5,False,0.5411,,model only,0.5411
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,2.5,False,0.2986,,model only,0.2986
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,3.5,False,0.1358,,model only,0.1358
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,4.5,False,0.0536,,model only,0.0536
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,5.5,False,0.0194,,model only,0.0194
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,1.5,False,0.9447,0.9329,est,0.9347
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,2.5,False,0.8649,0.8307,book,0.836
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,3.5,False,0.7515,0.711,book,0.7172
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,4.5,True,0.6144,0.5644,book,0.5721
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,5.5,False,0.4783,0.4248,book,0.433
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,6.5,False,0.3495,0.2976,book,0.3056
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,7.5,False,0.2428,0.2023,book,0.2085
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,0.5,False,0.6782,0.6581,book,0.6612
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,1.5,False,0.2957,0.3362,book,0.33
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,2.5,False,0.0896,0.1469,book,0.1381
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,3.5,False,0.0224,0.0615,book,0.0555
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,stl,0.5,False,0.5884,,model only,0.5884
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,stl,1.5,False,0.2437,,model only,0.2437
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,stl,2.5,False,0.0782,,model only,0.0782
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,blk,0.5,False,0.1691,,model only,0.1691
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,blk,1.5,False,0.0168,,model only,0.0168
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,10.5,False,0.787,,model only,0.787
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,11.5,False,0.7303,,model only,0.7303
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,12.5,False,0.6677,,model only,0.6677
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,13.5,False,0.6043,,model only,0.6043
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,14.5,False,0.5397,,model only,0.5397
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,15.5,False,0.4785,,model only,0.4785
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,16.5,False,0.4203,,model only,0.4203
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,17.5,False,0.3624,,model only,0.3624
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,18.5,False,0.309,,model only,0.309
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,19.5,False,0.2641,,model only,0.2641
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,20.5,False,0.2215,,model only,0.2215
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,6.5,False,0.755,,model only,0.755
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,7.5,False,0.6722,,model only,0.6722
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,8.5,False,0.5836,,model only,0.5836
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,9.5,False,0.5021,,model only,0.5021
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,10.5,False,0.4255,,model only,0.4255
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,11.5,False,0.3506,,model only,0.3506
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,12.5,False,0.285,,model only,0.285
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,13.5,False,0.2282,,model only,0.2282
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,14.5,False,0.1799,,model only,0.1799
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,8.5,False,0.8148,0.7614,est,0.7696
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,9.5,False,0.7539,0.6897,est,0.6995
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,10.5,False,0.6934,0.6213,est,0.6324
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,11.5,False,0.6246,0.5469,est,0.5589
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,12.5,True,0.5542,0.4742,book,0.4865
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,13.5,False,0.4851,0.406,est,0.4182
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,14.5,False,0.4193,0.3437,est,0.3554
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,15.5,False,0.3592,0.2891,est,0.2999
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,16.5,False,0.3038,0.2404,est,0.2502
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,4.5,False,0.7982,,model only,0.7982
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,5.5,False,0.6955,,model only,0.6955
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,6.5,False,0.5795,,model only,0.5795
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,7.5,False,0.4664,,model only,0.4664
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,8.5,False,0.3575,,model only,0.3575
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,9.5,False,0.2633,,model only,0.2633
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,10.5,False,0.189,,model only,0.189
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,6.5,False,0.8045,0.8116,est,0.8105
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,7.5,False,0.7323,0.7412,est,0.7398
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,8.5,False,0.6524,0.6627,est,0.6611
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,9.5,False,0.5726,0.5838,est,0.5821
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,10.5,True,0.4934,0.5049,book,0.5031
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,11.5,False,0.4199,0.4311,est,0.4294
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,12.5,False,0.3498,0.3603,est,0.3586
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,13.5,False,0.2894,0.2989,est,0.2974
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,14.5,False,0.2361,0.2445,est,0.2432
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,0.5,False,0.9589,0.9616,est,0.9612
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,1.5,False,0.8377,0.8471,est,0.8457
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,2.5,False,0.6489,0.6539,book,0.6531
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,3.5,True,0.4462,0.4638,book,0.4611
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,4.5,False,0.2767,0.3015,book,0.2977
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,5.5,False,0.1551,0.1777,book,0.1742
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,6.5,False,0.0825,0.1027,book,0.0996
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,0.5,False,0.7991,,model only,0.7991
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,1.5,False,0.5009,,model only,0.5009
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,2.5,False,0.2506,,model only,0.2506
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,3.5,False,0.1059,,model only,0.1059
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,4.5,False,0.0411,,model only,0.0411
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,5.5,False,0.0136,,model only,0.0136
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.873,0.8678,book,0.8686
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.5887,0.6645,book,0.6528
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,True,0.2963,0.4267,book,0.4066
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.1185,0.2372,book,0.2189
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.0375,0.1214,book,0.1085
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,stl,0.5,True,0.6557,0.6496,book,0.6505
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,stl,1.5,False,0.3111,0.3136,book,0.3132
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,blk,0.5,False,0.2501,,model only,0.2501
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,blk,1.5,False,0.0382,,model only,0.0382
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,11.5,False,0.7642,,model only,0.7642
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,12.5,False,0.7033,,model only,0.7033
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,13.5,False,0.6379,,model only,0.6379
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,14.5,False,0.5727,,model only,0.5727
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,15.5,False,0.5082,,model only,0.5082
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,16.5,False,0.4447,,model only,0.4447
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,17.5,False,0.3845,,model only,0.3845
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,18.5,False,0.3306,,model only,0.3306
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,19.5,False,0.2791,,model only,0.2791
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,20.5,False,0.2356,,model only,0.2356
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,21.5,False,0.1953,,model only,0.1953
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,10.5,False,0.7365,0.7514,est,0.7491
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,11.5,False,0.6669,0.684,est,0.6814
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,12.5,False,0.5989,0.6176,est,0.6147
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,13.5,False,0.5291,0.5485,est,0.5455
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,14.5,True,0.4603,0.4798,book,0.4768
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,15.5,False,0.3967,0.4156,est,0.4127
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,16.5,False,0.3364,0.3541,est,0.3513
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,17.5,False,0.2833,0.2994,est,0.2969
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,18.5,False,0.2359,0.2503,est,0.2481
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,8.5,False,0.7657,,model only,0.7657
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,9.5,False,0.6923,,model only,0.6923
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,10.5,False,0.6193,,model only,0.6193
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,11.5,False,0.5446,,model only,0.5446
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,12.5,False,0.4723,,model only,0.4723
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,13.5,False,0.4057,,model only,0.4057
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,14.5,False,0.3432,,model only,0.3432
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,15.5,False,0.2863,,model only,0.2863
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,16.5,False,0.2369,,model only,0.2369
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,2.5,False,0.8596,,model only,0.8596
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,3.5,False,0.7234,,model only,0.7234
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,4.5,False,0.568,,model only,0.568
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,5.5,False,0.4179,,model only,0.4179
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,6.5,False,0.2836,,model only,0.2836
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,7.5,False,0.1732,,model only,0.1732
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,8.5,False,0.1037,,model only,0.1037
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,11.5,False,0.7748,0.7231,book,0.7311
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,12.5,False,0.722,0.6937,est,0.6981
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,13.5,False,0.6645,0.6333,est,0.6381
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,14.5,False,0.6047,0.5652,book,0.5713
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,15.5,True,0.5448,0.5107,book,0.5159
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,16.5,False,0.4877,0.4536,est,0.4589
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,17.5,False,0.4332,0.3977,book,0.4032
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,18.5,False,0.3799,0.3483,est,0.3531
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,19.5,False,0.3319,0.3015,book,0.3062
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,1.5,False,0.9554,0.9494,est,0.9503
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,2.5,False,0.8682,0.8246,book,0.8313
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,3.5,False,0.7376,0.7032,book,0.7085
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,4.5,True,0.5802,0.5475,book,0.5525
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,5.5,False,0.4194,0.4011,book,0.4039
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,6.5,False,0.2846,0.2733,book,0.275
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,7.5,False,0.1808,0.1784,book,0.1788
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,0.5,False,0.8334,0.847,est,0.8449
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,1.5,True,0.5473,0.5723,book,0.5684
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,2.5,False,0.2913,0.3234,book,0.3185
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,3.5,False,0.1306,0.1589,book,0.1545
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,4.5,False,0.0508,0.0754,book,0.0716
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,0.5,False,0.874,0.848,book,0.852
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,1.5,False,0.6114,0.6241,book,0.6222
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,2.5,True,0.3424,0.387,book,0.3801
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,3.5,False,0.1543,0.2023,book,0.1949
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,4.5,False,0.0579,0.0994,book,0.093
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,stl,0.5,False,0.7362,0.6906,book,0.6976
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,stl,1.5,True,0.3962,0.3658,book,0.3705
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,stl,2.5,False,0.1737,0.154,book,0.157
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,blk,0.5,False,0.5777,,model only,0.5777
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,blk,1.5,False,0.2213,,model only,0.2213
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,blk,2.5,False,0.0649,,model only,0.0649
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,17.5,False,0.7957,0.7709,est,0.7747
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,18.5,False,0.7493,0.7209,est,0.7252
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,19.5,False,0.701,0.6695,est,0.6743
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,20.5,False,0.6498,0.6158,est,0.6211
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,21.5,False,0.5973,0.5617,est,0.5672
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,22.5,True,0.549,0.5126,book,0.5182
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,23.5,False,0.4979,0.4614,est,0.4671
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,24.5,False,0.449,0.4132,est,0.4187
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,25.5,False,0.4018,0.3672,est,0.3725
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,26.5,False,0.3569,0.3241,est,0.3292
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,27.5,False,0.3161,0.2854,est,0.2901
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,16.5,False,0.761,0.7291,est,0.734
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,17.5,False,0.7152,0.6798,est,0.6852
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,18.5,False,0.6612,0.6226,est,0.6285
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,19.5,False,0.6085,0.5678,est,0.574
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,20.5,True,0.5554,0.5136,book,0.52
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,21.5,False,0.5042,0.4623,est,0.4687
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,22.5,False,0.4548,0.4135,est,0.4198
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,23.5,False,0.4063,0.3665,est,0.3726
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,24.5,False,0.3594,0.3216,est,0.3274
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,13.5,False,0.7596,0.7379,est,0.7413
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,14.5,False,0.7059,0.6728,book,0.6779
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,15.5,False,0.652,0.6254,est,0.6295
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,16.5,False,0.5933,0.5653,est,0.5696
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,17.5,True,0.5375,0.5088,book,0.5132
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,18.5,False,0.4798,0.4512,est,0.4556
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,19.5,False,0.4276,0.4081,book,0.4111
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,20.5,False,0.377,0.3504,est,0.3545
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,21.5,False,0.3305,0.3056,est,0.3094
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,3.5,False,0.9007,0.898,est,0.8984
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,4.5,False,0.8055,0.8008,est,0.8015
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,5.5,False,0.6843,0.6778,est,0.6788
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,6.5,True,0.5485,0.5411,book,0.5422
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,7.5,False,0.4169,0.4097,est,0.4108
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,8.5,False,0.3013,0.2951,est,0.296
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,9.5,False,0.2044,0.1996,est,0.2004
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,4.5,False,0.8672,0.8666,est,0.8667
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,5.5,False,0.7956,0.7948,est,0.7949
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,6.5,False,0.7094,0.7084,est,0.7086
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,7.5,False,0.6185,0.6174,est,0.6176
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,8.5,True,0.5286,0.5274,book,0.5276
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,9.5,False,0.441,0.4398,est,0.44
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,10.5,False,0.3608,0.3597,est,0.3598
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,11.5,False,0.2905,0.2896,est,0.2897
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,12.5,False,0.2304,0.2295,est,0.2297
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,0.5,False,0.9343,0.9352,est,0.9351
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,1.5,False,0.7763,0.7788,est,0.7784
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,2.5,True,0.5631,0.5666,book,0.5661
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,3.5,False,0.3653,0.3738,book,0.3725
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,4.5,False,0.2115,0.2252,book,0.2231
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,5.5,False,0.1101,0.1298,book,0.1268
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,0.5,False,0.8826,0.8941,est,0.8923
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,1.5,False,0.6556,0.6813,est,0.6774
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,2.5,True,0.4114,0.4398,book,0.4354
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,3.5,False,0.22,0.2466,book,0.2425
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,4.5,False,0.1034,0.1263,book,0.1228
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,5.5,False,0.0423,0.0631,book,0.0599
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,0.5,True,0.6449,0.6183,book,0.6224
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,1.5,False,0.2613,0.2773,book,0.2748
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,2.5,False,0.0735,0.105,book,0.1001
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,stl,0.5,False,0.5995,0.6629,book,0.6531
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,stl,1.5,False,0.247,0.3234,book,0.3116
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,stl,2.5,False,0.0794,0.1335,book,0.1252
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,blk,0.5,False,0.374,,model only,0.374
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,blk,1.5,False,0.087,,model only,0.087
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,9.5,False,0.817,0.7869,book,0.7915
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,10.5,False,0.7577,0.7694,est,0.7676
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,11.5,False,0.6937,0.7073,est,0.7052
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,12.5,False,0.6239,0.639,est,0.6367
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,13.5,False,0.5499,0.566,est,0.5635
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,14.5,True,0.4796,0.4958,book,0.4933
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,15.5,False,0.4139,0.4297,est,0.4273
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,16.5,False,0.351,0.3659,est,0.3636
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,17.5,False,0.2965,0.3102,est,0.3081
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,18.5,False,0.2441,0.2563,est,0.2544
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,19.5,False,0.1973,0.2354,book,0.2295
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,7.5,False,0.8252,0.8065,est,0.8094
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,8.5,False,0.7608,0.7374,est,0.741
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,9.5,False,0.6855,0.658,est,0.6622
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,10.5,False,0.6082,0.5782,est,0.5828
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,11.5,True,0.5317,0.5006,book,0.5054
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,12.5,False,0.4535,0.4228,est,0.4275
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,13.5,False,0.3805,0.3515,est,0.356
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,14.5,False,0.3162,0.2899,est,0.294
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,15.5,False,0.2608,0.2375,est,0.2411
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,7.5,False,0.79,0.7979,est,0.7967
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,8.5,False,0.714,0.7237,est,0.7222
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,9.5,False,0.6328,0.6438,est,0.6421
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,10.5,False,0.5524,0.5642,est,0.5624
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,11.5,True,0.4744,0.4863,book,0.4845
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,12.5,False,0.3969,0.4084,est,0.4066
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,13.5,False,0.3291,0.3397,est,0.3381
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,14.5,False,0.2698,0.2793,est,0.2779
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,15.5,False,0.216,0.2242,est,0.2229
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,2.5,False,0.8678,0.8788,est,0.8771
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,3.5,False,0.7435,0.762,est,0.7592
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,4.5,False,0.5963,0.6201,est,0.6164
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,5.5,True,0.4458,0.4706,book,0.4668
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,6.5,False,0.3099,0.3316,est,0.3283
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,7.5,False,0.2038,0.2204,est,0.2178
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,8.5,False,0.126,0.1374,est,0.1357
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,21.5,False,0.6475,0.6584,est,0.6567
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,22.5,False,0.6065,0.6179,est,0.6162
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,23.5,False,0.5646,0.5764,est,0.5746
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,24.5,False,0.524,0.536,est,0.5342
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,25.5,True,0.4827,0.4948,book,0.4929
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,26.5,False,0.4431,0.455,est,0.4532
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,27.5,False,0.405,0.4166,est,0.4148
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,28.5,False,0.3692,0.3805,est,0.3788
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,29.5,False,0.3339,0.3447,est,0.343
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,0.5,False,0.9426,0.935,est,0.9362
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,1.5,False,0.7897,0.7668,est,0.7703
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,2.5,True,0.5729,0.5402,book,0.5452
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,3.5,False,0.3634,0.3449,book,0.3478
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,4.5,False,0.1997,0.1927,book,0.1938
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,5.5,False,0.0979,0.1038,book,0.1029
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,3.5,False,0.8385,0.8638,book,0.8599
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,4.5,False,0.7137,0.7718,book,0.7629
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,5.5,False,0.5724,0.6505,book,0.6385
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,6.5,True,0.4289,0.5059,book,0.494
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,7.5,False,0.302,0.3709,book,0.3603
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,8.5,False,0.2022,0.2533,book,0.2454
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,9.5,False,0.1286,0.1657,book,0.16
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,0.5,False,0.9113,0.8697,book,0.8761
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,1.5,False,0.7131,0.6645,book,0.672
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,2.5,True,0.4742,0.4239,book,0.4316
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,3.5,False,0.2647,0.2331,book,0.238
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,4.5,False,0.1266,0.1154,book,0.1171
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,stl,0.5,False,0.5979,0.6434,book,0.6364
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,stl,1.5,False,0.2476,0.3054,book,0.2965
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,stl,2.5,False,0.0786,0.1214,book,0.1148
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,blk,0.5,False,0.1588,,model only,0.1588
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,blk,1.5,False,0.014,,model only,0.014
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,30.5,False,0.6433,0.6719,est,0.6675
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,31.5,False,0.6038,0.6337,est,0.6291
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,32.5,False,0.5672,0.5981,est,0.5934
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,33.5,False,0.5322,0.5637,est,0.5588
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,34.5,False,0.4972,0.5289,est,0.5241
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,35.5,True,0.46,0.4917,book,0.4868
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,36.5,False,0.425,0.4563,est,0.4515
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,37.5,False,0.3918,0.4225,est,0.4178
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,38.5,False,0.3592,0.3889,est,0.3843
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,39.5,False,0.3286,0.3572,est,0.3528
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,40.5,False,0.2999,0.3272,est,0.323
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,24.5,False,0.6448,0.6564,est,0.6546
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,25.5,False,0.6044,0.6166,est,0.6147
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,26.5,False,0.5611,0.5737,est,0.5717
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,27.5,False,0.5228,0.5355,est,0.5336
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,28.5,True,0.4841,0.4968,book,0.4948
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,29.5,False,0.4475,0.4601,est,0.4582
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,30.5,False,0.4095,0.4219,est,0.42
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,31.5,False,0.3742,0.3862,est,0.3843
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,32.5,False,0.3416,0.3531,est,0.3513
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,28.5,False,0.6092,0.6422,est,0.6371
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,29.5,False,0.5696,0.6037,est,0.5984
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,30.5,False,0.5314,0.5663,est,0.5609
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,31.5,False,0.4928,0.528,est,0.5226
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,32.5,True,0.4566,0.4917,book,0.4863
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,33.5,False,0.4212,0.4558,est,0.4505
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,34.5,False,0.3853,0.4191,est,0.4139
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,35.5,False,0.3551,0.3879,est,0.3829
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,36.5,False,0.324,0.3555,est,0.3507
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,6.5,False,0.7805,0.8087,est,0.8044
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,7.5,False,0.6725,0.7095,est,0.7038
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,8.5,False,0.5614,0.6035,est,0.597
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,9.5,True,0.4468,0.4899,book,0.4833
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,10.5,False,0.341,0.381,est,0.3748
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,11.5,False,0.2495,0.2833,est,0.2781
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,12.5,False,0.1751,0.2015,est,0.1975
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,3.5,False,0.8884,0.8735,est,0.8758
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,4.5,False,0.8133,0.7908,est,0.7943
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,5.5,False,0.7263,0.6425,book,0.6554
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,6.5,False,0.6272,0.5935,est,0.5987
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,7.5,True,0.5291,0.4937,book,0.4992
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,8.5,False,0.4342,0.3997,est,0.405
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,9.5,False,0.3459,0.3398,book,0.3407
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,10.5,False,0.2696,0.2426,est,0.2467
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,11.5,False,0.2062,0.2268,book,0.2236
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,2.5,False,0.921,0.8827,book,0.8886
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,3.5,False,0.8353,0.8011,book,0.8064
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,4.5,False,0.7185,0.6912,book,0.6954
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,5.5,True,0.5844,0.5607,book,0.5644
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,6.5,False,0.4481,0.4287,book,0.4317
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,7.5,False,0.3235,0.3136,book,0.3151
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,8.5,False,0.2213,0.2189,book,0.2193
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,0.5,False,0.9536,0.9561,est,0.9557
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,1.5,False,0.8308,0.8387,est,0.8375
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,2.5,False,0.6436,0.6488,book,0.648
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,3.5,True,0.4484,0.4627,book,0.4605
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,4.5,False,0.2806,0.3064,book,0.3024
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,5.5,False,0.1578,0.1851,book,0.1809
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,6.5,False,0.082,0.1074,book,0.1035
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,0.5,False,0.6872,0.698,book,0.6963
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,1.5,True,0.2868,0.3769,book,0.363
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,2.5,False,0.08,0.164,book,0.1511
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,3.5,False,0.0153,0.0687,book,0.0605
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,0.5,False,0.6772,0.6906,book,0.6885
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,1.5,True,0.3358,0.3644,book,0.36
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,2.5,False,0.1343,0.1611,book,0.157
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,blk,0.5,False,0.2455,,model only,0.2455
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,blk,1.5,False,0.0345,,model only,0.0345
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,12.5,False,0.8124,0.7968,est,0.7992
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,13.5,False,0.7575,0.7387,est,0.7416
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,14.5,False,0.7007,0.6794,est,0.6827
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,15.5,False,0.6412,0.6181,est,0.6216
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,16.5,False,0.5757,0.5513,est,0.555
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,17.5,True,0.5101,0.4853,book,0.4891
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,18.5,False,0.447,0.4225,est,0.4263
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,19.5,False,0.388,0.3646,est,0.3682
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,20.5,False,0.3308,0.3092,est,0.3125
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,21.5,False,0.2788,0.2593,est,0.2623
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,22.5,False,0.233,0.2157,est,0.2184
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,9.5,False,0.8232,0.7987,est,0.8025
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,10.5,False,0.7637,0.7337,est,0.7383
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,11.5,False,0.6969,0.6622,est,0.6675
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,12.5,False,0.626,0.5879,est,0.5938
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,13.5,True,0.5515,0.5117,book,0.5178
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,14.5,False,0.4766,0.437,est,0.4431
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,15.5,False,0.4074,0.3694,est,0.3753
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,16.5,False,0.3441,0.309,est,0.3144
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,17.5,False,0.2826,0.2514,est,0.2562
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,7.5,False,0.7996,0.7906,est,0.792
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,8.5,False,0.7254,0.7143,est,0.7161
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,9.5,False,0.6461,0.6334,est,0.6354
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,10.5,False,0.5653,0.5518,est,0.5539
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,11.5,True,0.481,0.4673,book,0.4694
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,12.5,False,0.4023,0.3892,est,0.3912
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,13.5,False,0.3305,0.3184,est,0.3203
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,14.5,False,0.2643,0.2538,est,0.2554
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,15.5,False,0.2117,0.2027,est,0.204
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,6.5,False,0.7991,0.7961,est,0.7965
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,7.5,False,0.711,0.707,est,0.7076
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,8.5,False,0.6125,0.608,est,0.6087
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,9.5,True,0.5048,0.5,book,0.5007
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,10.5,False,0.4008,0.3963,est,0.397
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,11.5,False,0.3108,0.3067,est,0.3074
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,12.5,False,0.2341,0.2307,est,0.2312
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,0.5,False,0.9279,,model only,0.9279
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,1.5,False,0.8051,,model only,0.8051
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,2.5,False,0.667,,model only,0.667
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,3.5,False,0.5258,,model only,0.5258
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,4.5,False,0.3944,,model only,0.3944
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,5.5,False,0.2877,,model only,0.2877
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,6.5,False,0.2033,,model only,0.2033
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,7.5,False,0.1396,,model only,0.1396
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,8.5,False,0.0953,,model only,0.0953
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,0.5,False,0.7767,,model only,0.7767
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,1.5,False,0.4998,,model only,0.4998
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,2.5,False,0.2783,,model only,0.2783
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,3.5,False,0.1386,,model only,0.1386
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,4.5,False,0.0622,,model only,0.0622
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,0.5,False,0.9151,,model only,0.9151
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,1.5,False,0.7801,,model only,0.7801
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,2.5,False,0.6219,,model only,0.6219
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,3.5,False,0.4615,,model only,0.4615
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,4.5,False,0.3216,,model only,0.3216
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,5.5,False,0.2067,,model only,0.2067
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,6.5,False,0.1309,,model only,0.1309
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,fg3m,0.5,False,0.3681,,model only,0.3681
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,fg3m,1.5,False,0.0743,,model only,0.0743
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,fg3m,2.5,False,0.0102,,model only,0.0102
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,stl,0.5,False,0.3374,,model only,0.3374
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,stl,1.5,False,0.0818,,model only,0.0818
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,blk,0.5,False,0.1284,,model only,0.1284
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,blk,1.5,False,0.0118,,model only,0.0118
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,4.5,False,0.8201,,model only,0.8201
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,5.5,False,0.7569,,model only,0.7569
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,6.5,False,0.6864,,model only,0.6864
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,7.5,False,0.6136,,model only,0.6136
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,8.5,False,0.5365,,model only,0.5365
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,9.5,False,0.4621,,model only,0.4621
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,10.5,False,0.3942,,model only,0.3942
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,11.5,False,0.3292,,model only,0.3292
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,12.5,False,0.2734,,model only,0.2734
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,13.5,False,0.225,,model only,0.225
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,14.5,False,0.1809,,model only,0.1809
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,1.5,False,0.897,,model only,0.897
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,2.5,False,0.8124,,model only,0.8124
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,3.5,False,0.7114,,model only,0.7114
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,4.5,False,0.603,,model only,0.603
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,5.5,False,0.4947,,model only,0.4947
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,6.5,False,0.3938,,model only,0.3938
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,7.5,False,0.3054,,model only,0.3054
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,8.5,False,0.2344,,model only,0.2344
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,9.5,False,0.1757,,model only,0.1757
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,3.5,False,0.8177,,model only,0.8177
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,4.5,False,0.7392,,model only,0.7392
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,5.5,False,0.6539,,model only,0.6539
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,6.5,False,0.5659,,model only,0.5659
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,7.5,False,0.4791,,model only,0.4791
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,8.5,False,0.3952,,model only,0.3952
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,9.5,False,0.3201,,model only,0.3201
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,10.5,False,0.2584,,model only,0.2584
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,11.5,False,0.2034,,model only,0.2034
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,2.5,False,0.7926,,model only,0.7926
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,3.5,False,0.6793,,model only,0.6793
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,4.5,False,0.559,,model only,0.559
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,5.5,False,0.4401,,model only,0.4401
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,6.5,False,0.3357,,model only,0.3357
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,7.5,False,0.2467,,model only,0.2467
-401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,8.5,False,0.1751,,model only,0.1751
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,2.5,False,0.8402,0.8872,est,0.8799
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,3.5,False,0.7373,0.8076,est,0.7968
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,4.5,False,0.6272,0.7156,est,0.702
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,5.5,False,0.5169,0.6154,est,0.6002
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,6.5,True,0.4139,0.5136,book,0.4982
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,7.5,False,0.324,0.4175,est,0.4031
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,8.5,False,0.2503,0.333,est,0.3203
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,9.5,False,0.1886,0.2578,est,0.2472
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,10.5,False,0.1387,0.1941,est,0.1855
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,0.5,False,0.7296,,model only,0.7296
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,1.5,False,0.411,,model only,0.411
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,2.5,False,0.1886,,model only,0.1886
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,3.5,False,0.0786,,model only,0.0786
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,4.5,False,0.0257,,model only,0.0257
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,0.5,False,0.659,,model only,0.659
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,1.5,False,0.3292,,model only,0.3292
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,2.5,False,0.1339,,model only,0.1339
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,3.5,False,0.0461,,model only,0.0461
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,4.5,False,0.0128,,model only,0.0128
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,0.5,False,0.6548,0.774,book,0.7556
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,1.5,True,0.2695,0.4937,book,0.4592
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,2.5,False,0.0798,0.2633,book,0.235
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,3.5,False,0.021,0.1263,book,0.1101
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,stl,0.5,False,0.4431,,model only,0.4431
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,stl,1.5,False,0.1332,,model only,0.1332
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,blk,0.5,False,0.1458,,model only,0.1458
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,blk,1.5,False,0.0121,,model only,0.0121
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,3.5,False,0.8831,,model only,0.8831
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,4.5,False,0.8188,0.8526,book,0.8474
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,5.5,False,0.7402,,model only,0.7402
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,6.5,False,0.6519,,model only,0.6519
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,7.5,False,0.5673,,model only,0.5673
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,8.5,False,0.4812,,model only,0.4812
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,9.5,False,0.403,0.5547,book,0.5313
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,10.5,False,0.3302,,model only,0.3302
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,11.5,False,0.2648,,model only,0.2648
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,12.5,False,0.2119,,model only,0.2119
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,13.5,False,0.166,,model only,0.166
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,3.5,False,0.8337,,model only,0.8337
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,4.5,False,0.7495,,model only,0.7495
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,5.5,False,0.654,,model only,0.654
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,6.5,False,0.5542,,model only,0.5542
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,7.5,False,0.4639,,model only,0.4639
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,8.5,False,0.378,,model only,0.378
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,9.5,False,0.3016,,model only,0.3016
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,10.5,False,0.2392,,model only,0.2392
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,stl,0.5,False,0.4696,,model only,0.4696
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,stl,1.5,False,0.1481,,model only,0.1481
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,blk,0.5,False,0.5211,,model only,0.5211
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,blk,1.5,False,0.1888,,model only,0.1888
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,blk,2.5,False,0.0513,,model only,0.0513
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,10.5,False,0.7692,,model only,0.7692
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,11.5,False,0.7115,,model only,0.7115
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,12.5,False,0.6509,,model only,0.6509
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,13.5,False,0.589,,model only,0.589
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,14.5,False,0.5278,,model only,0.5278
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,15.5,False,0.4686,,model only,0.4686
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,16.5,False,0.4073,,model only,0.4073
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,17.5,False,0.354,,model only,0.354
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,18.5,False,0.302,,model only,0.302
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,19.5,False,0.2541,,model only,0.2541
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pra,20.5,False,0.2176,,model only,0.2176
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,7.5,False,0.866,0.8004,est,0.8105
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,8.5,False,0.8158,0.7332,est,0.7459
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,9.5,False,0.76,0.6627,est,0.6777
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,10.5,False,0.6977,0.5889,est,0.6056
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,11.5,True,0.6299,0.5136,book,0.5315
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,12.5,False,0.5647,0.446,est,0.4643
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,13.5,False,0.4984,0.3814,est,0.3994
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,14.5,False,0.4353,0.3236,est,0.3408
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pr,15.5,False,0.3736,0.2701,est,0.2861
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,5.5,False,0.7972,,model only,0.7972
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,6.5,False,0.7194,,model only,0.7194
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,7.5,False,0.634,,model only,0.634
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,8.5,False,0.5465,,model only,0.5465
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,9.5,False,0.4635,,model only,0.4635
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,10.5,False,0.3891,,model only,0.3891
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,11.5,False,0.3203,,model only,0.3203
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,12.5,False,0.2595,,model only,0.2595
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pa,13.5,False,0.2062,,model only,0.2062
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,4.5,False,0.7781,,model only,0.7781
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,5.5,False,0.674,,model only,0.674
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,6.5,False,0.5551,,model only,0.5551
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,7.5,False,0.4441,,model only,0.4441
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,8.5,False,0.3391,,model only,0.3391
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,9.5,False,0.2508,,model only,0.2508
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ra,10.5,False,0.179,,model only,0.179
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,11.5,False,0.687,0.6986,book,0.6968
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,12.5,False,0.625,0.6576,est,0.6526
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,13.5,False,0.5638,0.5983,est,0.593
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,14.5,False,0.5051,0.5386,book,0.5334
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,15.5,True,0.4446,0.4798,book,0.4744
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,16.5,False,0.3901,0.4243,est,0.419
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,17.5,False,0.3386,0.3709,book,0.3659
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,18.5,False,0.2908,0.3209,est,0.3162
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,19.5,False,0.2489,0.2773,book,0.2729
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,0.5,False,0.961,0.9674,est,0.9664
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,1.5,False,0.8396,0.8632,est,0.8595
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,2.5,False,0.6572,0.6833,book,0.6793
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,3.5,True,0.4612,0.5078,book,0.5006
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,4.5,False,0.2862,0.3436,book,0.3348
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,5.5,False,0.1614,0.2173,book,0.2087
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,6.5,False,0.0867,0.1335,book,0.1263
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,1.5,False,0.9482,0.9463,est,0.9466
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,2.5,False,0.8619,0.8284,book,0.8336
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,3.5,False,0.7297,0.7121,book,0.7148
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,4.5,True,0.5753,0.5659,book,0.5673
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,5.5,False,0.4218,0.4172,book,0.4179
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,6.5,False,0.2936,0.2902,book,0.2907
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,7.5,False,0.1921,0.1888,book,0.1893
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,0.5,False,0.8864,0.8821,book,0.8828
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,1.5,False,0.6453,0.7115,book,0.7013
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,2.5,True,0.3702,0.4895,book,0.4711
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,3.5,False,0.177,0.2893,book,0.272
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,fg3m,4.5,False,0.0692,0.1555,book,0.1422
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,stl,0.5,True,0.6126,0.6609,book,0.6535
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,stl,1.5,False,0.2632,0.3268,book,0.317
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,blk,0.5,False,0.1116,,model only,0.1116
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,blk,1.5,False,0.0075,,model only,0.0075
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,19.5,False,0.688,0.7192,book,0.7144
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,20.5,False,0.6397,0.6796,est,0.6735
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,21.5,False,0.5944,0.6365,est,0.63
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,22.5,False,0.5432,0.5869,est,0.5802
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,23.5,False,0.4957,0.5401,est,0.5332
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,24.5,True,0.4484,0.4927,book,0.4859
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,25.5,False,0.4013,0.4446,est,0.438
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,26.5,False,0.3578,0.3996,est,0.3932
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,27.5,False,0.3181,0.3578,est,0.3517
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,28.5,False,0.2799,0.3171,est,0.3114
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,29.5,False,0.2448,0.2709,book,0.2669
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,15.5,False,0.6463,0.6984,est,0.6904
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,16.5,False,0.5879,0.6439,est,0.6353
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,17.5,False,0.533,0.5913,est,0.5823
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,18.5,False,0.4774,0.5366,est,0.5275
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,19.5,True,0.4244,0.4831,book,0.4741
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,20.5,False,0.3755,0.4325,est,0.4237
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,21.5,False,0.3285,0.3828,est,0.3744
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,22.5,False,0.2873,0.3382,est,0.3303
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,23.5,False,0.2485,0.2954,est,0.2882
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,16.5,False,0.6761,0.7062,est,0.7015
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,17.5,False,0.6233,0.6558,est,0.6508
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,18.5,False,0.5708,0.6049,est,0.5997
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,19.5,False,0.5205,0.5556,est,0.5502
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,20.5,True,0.4657,0.5009,book,0.4955
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,21.5,False,0.4148,0.4493,est,0.444
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,22.5,False,0.3682,0.4016,est,0.3965
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,23.5,False,0.3238,0.3554,est,0.3506
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,24.5,False,0.2844,0.314,est,0.3094
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,5.5,False,0.8214,0.8362,est,0.8339
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,6.5,False,0.7263,0.7466,est,0.7435
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,7.5,False,0.616,0.6405,est,0.6367
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,8.5,True,0.4962,0.5224,book,0.5184
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,9.5,False,0.39,0.4152,est,0.4113
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,10.5,False,0.2961,0.3184,est,0.3149
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,11.5,False,0.2158,0.2341,est,0.2313
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,2.5,False,0.9223,0.8909,est,0.8957
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,3.5,False,0.8521,0.7984,est,0.8067
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,4.5,False,0.7639,0.6899,est,0.7013
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,5.5,False,0.6672,0.5796,est,0.5931
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,6.5,True,0.5628,0.4696,book,0.484
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,7.5,False,0.4685,0.3774,est,0.3914
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,8.5,False,0.3797,0.2962,est,0.3091
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,9.5,False,0.3009,0.2284,est,0.2395
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,10.5,False,0.235,0.1744,est,0.1837
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,0.5,False,0.7993,,model only,0.7993
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,1.5,False,0.4974,,model only,0.4974
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,2.5,False,0.2612,,model only,0.2612
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,3.5,False,0.1129,,model only,0.1129
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,4.5,False,0.0429,,model only,0.0429
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,1.5,False,0.9315,0.9083,est,0.9119
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,2.5,False,0.8358,0.7915,book,0.7983
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,3.5,False,0.7049,0.6425,book,0.6521
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,4.5,True,0.5578,0.4787,book,0.4909
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,5.5,False,0.4149,0.3268,book,0.3404
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,6.5,False,0.29,0.2095,book,0.2219
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ast,7.5,False,0.1901,0.128,book,0.1376
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,0.5,False,0.6661,0.6369,book,0.6414
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,1.5,False,0.2729,0.3064,book,0.3012
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,2.5,False,0.0754,0.1263,book,0.1185
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,fg3m,3.5,False,0.0167,0.0537,book,0.048
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,stl,0.5,False,0.5726,,model only,0.5726
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,stl,1.5,False,0.2284,,model only,0.2284
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,stl,2.5,False,0.0705,,model only,0.0705
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,blk,0.5,False,0.1628,,model only,0.1628
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,blk,1.5,False,0.0147,,model only,0.0147
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,9.5,False,0.7992,,model only,0.7992
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,10.5,False,0.7403,,model only,0.7403
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,11.5,False,0.6736,,model only,0.6736
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,12.5,False,0.6042,,model only,0.6042
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,13.5,False,0.5355,,model only,0.5355
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,14.5,False,0.4706,,model only,0.4706
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,15.5,False,0.4118,,model only,0.4118
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,16.5,False,0.3524,,model only,0.3524
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,17.5,False,0.2991,,model only,0.2991
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,18.5,False,0.2502,,model only,0.2502
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pra,19.5,False,0.2066,,model only,0.2066
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,5.5,False,0.7986,,model only,0.7986
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,6.5,False,0.7152,,model only,0.7152
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,7.5,False,0.6245,,model only,0.6245
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,8.5,False,0.5365,,model only,0.5365
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,9.5,False,0.449,,model only,0.449
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,10.5,False,0.3713,,model only,0.3713
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,11.5,False,0.3009,,model only,0.3009
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,12.5,False,0.2387,,model only,0.2387
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pr,13.5,False,0.1874,,model only,0.1874
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,6.5,False,0.8879,0.8317,est,0.8404
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,7.5,False,0.8383,0.764,est,0.7754
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,8.5,False,0.7777,0.6859,est,0.7
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,9.5,False,0.7074,0.5972,book,0.6142
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,10.5,True,0.6345,0.5201,book,0.5377
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,11.5,False,0.5595,0.4423,est,0.4603
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,12.5,False,0.4877,0.3727,est,0.3904
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,13.5,False,0.4191,0.3105,est,0.3272
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pa,14.5,False,0.3577,0.2575,book,0.2729
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,4.5,False,0.756,,model only,0.756
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,5.5,False,0.6341,,model only,0.6341
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,6.5,False,0.511,,model only,0.511
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,7.5,False,0.3969,,model only,0.3969
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,8.5,False,0.2918,,model only,0.2918
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,9.5,False,0.2067,,model only,0.2067
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,10.5,False,0.141,,model only,0.141
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,6.5,False,0.7509,0.7973,est,0.7902
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,7.5,False,0.6672,0.7235,est,0.7148
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,8.5,False,0.578,0.6413,est,0.6315
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,9.5,False,0.4935,0.5597,est,0.5495
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,10.5,True,0.413,0.4787,book,0.4686
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,11.5,False,0.3386,0.4005,est,0.3909
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,12.5,False,0.2736,0.3296,est,0.321
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,13.5,False,0.2189,0.2678,est,0.2603
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,14.5,False,0.1729,0.2143,est,0.2079
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,0.5,False,0.9496,0.9573,est,0.9561
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,1.5,False,0.8137,0.8385,est,0.8347
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,2.5,False,0.6156,0.6425,book,0.6384
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,3.5,True,0.4091,0.4515,book,0.445
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,4.5,False,0.2424,0.2867,book,0.2799
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,5.5,False,0.1343,0.1669,book,0.1619
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,6.5,False,0.0667,0.0963,book,0.0917
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,0.5,False,0.7707,,model only,0.7707
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,1.5,False,0.4503,,model only,0.4503
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,2.5,False,0.2066,,model only,0.2066
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,3.5,False,0.0796,,model only,0.0796
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,4.5,False,0.0277,,model only,0.0277
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.8487,0.8638,book,0.8615
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.5226,0.6581,book,0.6372
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,True,0.2315,0.4239,book,0.3943
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.0798,0.2354,book,0.2114
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.0215,0.1168,book,0.1021
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,stl,0.5,True,0.6441,0.6374,book,0.6384
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,stl,1.5,False,0.2955,0.2986,book,0.2981
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,blk,0.5,False,0.2418,,model only,0.2418
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,blk,1.5,False,0.0324,,model only,0.0324
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,9.5,False,0.8212,,model only,0.8212
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,10.5,False,0.759,,model only,0.759
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,11.5,False,0.693,,model only,0.693
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,12.5,False,0.6251,,model only,0.6251
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,13.5,False,0.5534,,model only,0.5534
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,14.5,False,0.4853,,model only,0.4853
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,15.5,False,0.4181,,model only,0.4181
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,16.5,False,0.3545,,model only,0.3545
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,17.5,False,0.2989,,model only,0.2989
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,18.5,False,0.2451,,model only,0.2451
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pra,19.5,False,0.2022,,model only,0.2022
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,9.5,False,0.7374,0.7378,book,0.7377
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,10.5,False,0.664,0.7218,est,0.7129
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,11.5,False,0.591,0.6548,est,0.6449
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,12.5,False,0.5169,0.5841,est,0.5738
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,13.5,True,0.4467,0.5145,book,0.5041
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,14.5,False,0.378,0.4559,book,0.4439
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,15.5,False,0.3137,0.375,est,0.3655
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,16.5,False,0.2574,0.3127,est,0.3041
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pr,17.5,False,0.2104,0.2591,est,0.2516
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,7.5,False,0.7769,,model only,0.7769
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,8.5,False,0.6995,,model only,0.6995
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,9.5,False,0.6188,,model only,0.6188
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,10.5,False,0.5382,,model only,0.5382
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,11.5,False,0.4613,,model only,0.4613
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,12.5,False,0.3846,,model only,0.3846
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,13.5,False,0.3167,,model only,0.3167
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,14.5,False,0.2582,,model only,0.2582
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pa,15.5,False,0.2102,,model only,0.2102
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,2.5,False,0.8291,,model only,0.8291
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,3.5,False,0.6778,,model only,0.6778
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,4.5,False,0.5087,,model only,0.5087
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,5.5,False,0.354,,model only,0.354
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,6.5,False,0.2296,,model only,0.2296
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,7.5,False,0.1408,,model only,0.1408
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ra,8.5,False,0.0806,,model only,0.0806
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,11.5,False,0.7693,0.7212,book,0.7286
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,12.5,False,0.7153,0.6886,est,0.6927
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,13.5,False,0.6564,0.6271,est,0.6316
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,14.5,False,0.5967,0.5637,book,0.5688
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,15.5,True,0.5397,0.5078,book,0.5127
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,16.5,False,0.4827,0.4509,est,0.4558
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,17.5,False,0.4307,0.3977,book,0.4028
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,18.5,False,0.3758,0.3464,est,0.3509
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,19.5,False,0.3284,0.2986,book,0.3032
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,1.5,False,0.9542,0.9454,est,0.9467
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,2.5,False,0.871,0.8178,book,0.826
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,3.5,False,0.7428,0.6893,book,0.6975
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,4.5,True,0.5826,0.5369,book,0.5439
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,5.5,False,0.4226,0.3943,book,0.3987
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,6.5,False,0.2839,0.2709,book,0.2729
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,7.5,False,0.1765,0.1753,book,0.1755
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,0.5,False,0.8369,0.8479,est,0.8462
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,1.5,True,0.5525,0.573,book,0.5699
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,2.5,False,0.2925,0.3268,book,0.3215
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,3.5,False,0.1291,0.1631,book,0.1579
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,4.5,False,0.0492,0.0754,book,0.0714
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,0.5,False,0.8752,0.8511,book,0.8548
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,1.5,False,0.6164,0.6292,book,0.6272
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,2.5,True,0.3497,0.3854,book,0.3799
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,3.5,False,0.1564,0.2036,book,0.1963
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,fg3m,4.5,False,0.0585,0.0974,book,0.0914
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,stl,0.5,False,0.735,0.6854,book,0.693
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,stl,1.5,True,0.4019,0.354,book,0.3614
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,stl,2.5,False,0.1772,0.1507,book,0.1548
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,blk,0.5,False,0.5728,,model only,0.5728
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,blk,1.5,False,0.2211,,model only,0.2211
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,blk,2.5,False,0.0644,,model only,0.0644
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,17.5,False,0.7885,0.7645,est,0.7682
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,18.5,False,0.7439,0.7167,est,0.7209
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,19.5,False,0.6976,0.6676,est,0.6723
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,20.5,False,0.6475,0.6154,est,0.6203
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,21.5,False,0.5988,0.5651,est,0.5703
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,22.5,True,0.5443,0.5098,book,0.5151
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,23.5,False,0.4928,0.4583,est,0.4637
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,24.5,False,0.4447,0.4109,est,0.4161
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,25.5,False,0.3974,0.3648,est,0.3698
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,26.5,False,0.3526,0.3217,est,0.3265
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pra,27.5,False,0.3118,0.2829,est,0.2873
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,16.5,False,0.7571,0.7228,est,0.7281
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,17.5,False,0.7086,0.6704,est,0.6763
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,18.5,False,0.658,0.6168,est,0.6231
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,19.5,False,0.6068,0.5635,est,0.5702
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,20.5,True,0.5512,0.5068,book,0.5136
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,21.5,False,0.4984,0.4539,est,0.4607
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,22.5,False,0.4472,0.4036,est,0.4103
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,23.5,False,0.3989,0.3569,est,0.3634
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pr,24.5,False,0.3551,0.3154,est,0.3215
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,13.5,False,0.7548,0.738,est,0.7406
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,14.5,False,0.7011,0.6706,book,0.6753
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,15.5,False,0.6448,0.6242,est,0.6274
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,16.5,False,0.5909,0.5693,est,0.5727
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,17.5,True,0.5338,0.5117,book,0.5151
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,18.5,False,0.4798,0.4577,est,0.4611
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,19.5,False,0.4251,0.4046,book,0.4078
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,20.5,False,0.3748,0.3543,est,0.3574
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pa,21.5,False,0.3291,0.3098,est,0.3128
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,3.5,False,0.9003,0.8925,est,0.8937
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,4.5,False,0.8096,0.7963,est,0.7983
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,5.5,False,0.6874,0.6691,est,0.6719
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,6.5,True,0.5532,0.5323,book,0.5355
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,7.5,False,0.4197,0.3994,est,0.4025
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,8.5,False,0.2993,0.282,est,0.2846
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ra,9.5,False,0.2002,0.1871,est,0.1891
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,4.5,False,0.8671,0.8657,est,0.8659
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,5.5,False,0.7957,0.7937,est,0.794
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,6.5,False,0.7084,0.7059,est,0.7062
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,7.5,False,0.6177,0.6149,est,0.6153
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,8.5,True,0.5268,0.5238,book,0.5243
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,9.5,False,0.44,0.437,est,0.4375
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,10.5,False,0.3609,0.3581,est,0.3585
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,11.5,False,0.2904,0.2879,est,0.2883
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pts,12.5,False,0.2297,0.2276,est,0.2279
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,0.5,False,0.9378,0.9364,est,0.9366
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,1.5,False,0.7808,0.7767,est,0.7773
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,2.5,True,0.571,0.5652,book,0.5661
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,3.5,False,0.3641,0.3738,book,0.3723
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,4.5,False,0.2049,0.2263,book,0.223
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,5.5,False,0.1053,0.1298,book,0.126
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,0.5,False,0.883,0.899,est,0.8966
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,1.5,False,0.6482,0.6849,est,0.6793
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,2.5,True,0.4016,0.4419,book,0.4357
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,3.5,False,0.2157,0.2506,book,0.2452
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,4.5,False,0.1012,0.1263,book,0.1224
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,5.5,False,0.0417,0.0631,book,0.0598
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,0.5,True,0.6466,0.6183,book,0.6227
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,1.5,False,0.2622,0.2773,book,0.275
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,2.5,False,0.0722,0.1027,book,0.098
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,stl,0.5,False,0.5916,0.6613,book,0.6506
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,stl,1.5,False,0.2449,0.3245,book,0.3122
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,stl,2.5,False,0.0795,0.1335,book,0.1252
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,blk,0.5,False,0.37,,model only,0.37
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,blk,1.5,False,0.084,,model only,0.084
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,9.5,False,0.8171,0.7838,book,0.7889
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,10.5,False,0.7587,0.7707,est,0.7688
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,11.5,False,0.689,0.7031,est,0.7009
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,12.5,False,0.616,0.6317,est,0.6293
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,13.5,False,0.5444,0.5609,est,0.5583
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,14.5,True,0.4782,0.4948,book,0.4922
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,15.5,False,0.4136,0.4298,est,0.4273
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,16.5,False,0.347,0.3622,est,0.3599
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,17.5,False,0.2897,0.3036,est,0.3014
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,18.5,False,0.2407,0.2531,est,0.2512
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pra,19.5,False,0.1961,0.2319,book,0.2264
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,7.5,False,0.8292,0.8286,est,0.8287
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,8.5,False,0.7601,0.7593,est,0.7594
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,9.5,False,0.6853,0.6843,est,0.6844
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,10.5,False,0.6064,0.6053,est,0.6054
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,11.5,True,0.5276,0.5265,book,0.5267
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,12.5,False,0.4519,0.4507,est,0.4509
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,13.5,False,0.381,0.3799,est,0.38
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,14.5,False,0.3154,0.3144,est,0.3146
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pr,15.5,False,0.2583,0.2575,est,0.2576
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,7.5,False,0.7875,0.7976,est,0.7961
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,8.5,False,0.7105,0.723,est,0.721
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,9.5,False,0.63,0.6442,est,0.6421
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,10.5,False,0.5474,0.5626,est,0.5603
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,11.5,True,0.4699,0.4853,book,0.4829
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,12.5,False,0.3963,0.4111,est,0.4088
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,13.5,False,0.329,0.3427,est,0.3406
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,14.5,False,0.2663,0.2785,est,0.2766
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,pa,15.5,False,0.2139,0.2244,est,0.2228
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,2.5,False,0.8677,0.8815,est,0.8794
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,3.5,False,0.7463,0.7694,est,0.7659
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,4.5,False,0.5944,0.6244,est,0.6198
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,5.5,True,0.4393,0.4706,book,0.4658
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,6.5,False,0.3057,0.3332,est,0.3289
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,7.5,False,0.1975,0.2182,est,0.215
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,8.5,False,0.1201,0.1341,est,0.1319
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,21.5,False,0.6533,0.6587,est,0.6578
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,22.5,False,0.6135,0.6191,est,0.6182
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,23.5,False,0.5714,0.5772,est,0.5763
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,24.5,False,0.5305,0.5364,est,0.5355
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,25.5,True,0.4878,0.4937,book,0.4928
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,26.5,False,0.4504,0.4562,est,0.4553
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,27.5,False,0.4114,0.4171,est,0.4163
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,28.5,False,0.3757,0.3812,est,0.3804
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,29.5,False,0.3426,0.3479,est,0.3471
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,0.5,False,0.9437,0.9387,est,0.9395
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,1.5,False,0.7851,0.7695,est,0.7719
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,2.5,True,0.5642,0.5419,book,0.5453
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,3.5,False,0.3548,0.3423,book,0.3442
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,4.5,False,0.1975,0.1959,book,0.1961
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,5.5,False,0.0999,0.1038,book,0.1032
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,3.5,False,0.8402,0.8616,book,0.8583
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,4.5,False,0.7186,0.7695,book,0.7617
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,5.5,False,0.579,0.647,book,0.6365
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,6.5,True,0.4383,0.5049,book,0.4946
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,7.5,False,0.3121,0.3723,book,0.363
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,8.5,False,0.2105,0.2568,book,0.2497
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ast,9.5,False,0.1334,0.1637,book,0.159
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,0.5,False,0.9125,0.8669,book,0.8739
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,1.5,False,0.7126,0.6668,book,0.6739
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,2.5,True,0.4671,0.4277,book,0.4338
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,3.5,False,0.2578,0.2342,book,0.2378
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,fg3m,4.5,False,0.1231,0.1154,book,0.1166
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,stl,0.5,False,0.5959,0.6407,book,0.6338
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,stl,1.5,False,0.243,0.3005,book,0.2917
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,stl,2.5,False,0.0757,0.1168,book,0.1105
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,blk,0.5,False,0.1602,,model only,0.1602
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,blk,1.5,False,0.0157,,model only,0.0157
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,30.5,False,0.6499,0.6718,est,0.6684
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,31.5,False,0.6125,0.6354,est,0.6319
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,32.5,False,0.5763,0.5999,est,0.5962
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,33.5,False,0.5393,0.5634,est,0.5597
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,34.5,False,0.5053,0.5296,est,0.5259
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,35.5,True,0.4684,0.4927,book,0.489
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,36.5,False,0.4347,0.4588,est,0.4551
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,37.5,False,0.3989,0.4225,est,0.4189
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,38.5,False,0.3682,0.3911,est,0.3876
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,39.5,False,0.3387,0.3608,est,0.3574
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,40.5,False,0.3091,0.3303,est,0.3271
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,24.5,False,0.6493,0.6503,est,0.6502
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,25.5,False,0.6113,0.6125,est,0.6123
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,26.5,False,0.571,0.5722,est,0.572
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,27.5,False,0.5307,0.5319,est,0.5317
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,28.5,True,0.4925,0.4937,book,0.4935
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,29.5,False,0.4551,0.4563,est,0.4562
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,30.5,False,0.4162,0.4174,est,0.4172
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,31.5,False,0.3825,0.3836,est,0.3835
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,32.5,False,0.35,0.3511,est,0.3509
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,28.5,False,0.6156,0.6424,est,0.6383
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,29.5,False,0.5778,0.6056,est,0.6013
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,30.5,False,0.5408,0.5693,est,0.5649
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,31.5,False,0.503,0.5318,est,0.5273
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,32.5,True,0.4639,0.4927,book,0.4883
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,33.5,False,0.429,0.4575,est,0.4531
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,34.5,False,0.3936,0.4215,est,0.4172
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,35.5,False,0.3623,0.3894,est,0.3852
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,36.5,False,0.3319,0.358,est,0.354
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,6.5,False,0.784,0.8124,est,0.8081
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,7.5,False,0.6795,0.7168,est,0.711
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,8.5,False,0.5635,0.6064,est,0.5998
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,9.5,True,0.4459,0.4899,book,0.4831
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,10.5,False,0.3413,0.3821,est,0.3758
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,11.5,False,0.2528,0.2876,est,0.2823
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,12.5,False,0.1784,0.2058,est,0.2016
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,3.5,False,0.8947,0.8792,est,0.8816
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,4.5,False,0.8195,0.7955,est,0.7992
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,5.5,False,0.7305,0.6425,book,0.6561
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,6.5,False,0.634,0.5974,est,0.603
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,7.5,True,0.5292,0.4906,book,0.4966
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,8.5,False,0.4337,0.3962,est,0.402
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,9.5,False,0.3477,0.3423,book,0.3431
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,10.5,False,0.2698,0.2405,est,0.245
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,11.5,False,0.2067,0.2285,book,0.2251
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,2.5,False,0.9221,0.8802,book,0.8867
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,3.5,False,0.8341,0.7983,book,0.8038
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,4.5,False,0.7209,0.6854,book,0.6909
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,5.5,True,0.5886,0.5562,book,0.5612
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,6.5,False,0.4547,0.4287,book,0.4327
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,7.5,False,0.333,0.3147,book,0.3175
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,8.5,False,0.2277,0.2199,book,0.2211
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,0.5,False,0.9548,0.9585,est,0.9579
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,1.5,False,0.8271,0.8397,est,0.8378
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,2.5,False,0.6403,0.6452,book,0.6444
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,3.5,True,0.4369,0.4593,book,0.4559
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,4.5,False,0.2698,0.2995,book,0.2949
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,5.5,False,0.1554,0.1843,book,0.1799
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ast,6.5,False,0.0781,0.11,book,0.1051
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,0.5,False,0.6815,0.7009,book,0.6979
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,1.5,True,0.2912,0.3776,book,0.3643
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,2.5,False,0.0772,0.1657,book,0.1521
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,3.5,False,0.0146,0.0708,book,0.0622
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,0.5,False,0.6868,0.6943,book,0.6931
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,1.5,True,0.3338,0.3636,book,0.359
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,2.5,False,0.1328,0.1576,book,0.1538
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,blk,0.5,False,0.2372,,model only,0.2372
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,blk,1.5,False,0.0328,,model only,0.0328
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,12.5,False,0.8139,0.7976,est,0.8001
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,13.5,False,0.7597,0.7402,est,0.7432
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,14.5,False,0.7007,0.6785,est,0.6819
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,15.5,False,0.6409,0.6166,est,0.6204
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,16.5,False,0.5764,0.5507,est,0.5547
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,17.5,True,0.5123,0.4863,book,0.4903
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,18.5,False,0.4458,0.4202,est,0.4241
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,19.5,False,0.3842,0.3599,est,0.3636
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,20.5,False,0.3287,0.3062,est,0.3096
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,21.5,False,0.2797,0.2592,est,0.2624
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,22.5,False,0.233,0.215,est,0.2177
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,9.5,False,0.8284,0.7988,est,0.8033
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,10.5,False,0.7674,0.7306,est,0.7363
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,11.5,False,0.7013,0.6587,est,0.6653
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,12.5,False,0.6308,0.5841,est,0.5913
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,13.5,True,0.5585,0.5098,book,0.5173
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,14.5,False,0.4819,0.4333,est,0.4408
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,15.5,False,0.411,0.3646,est,0.3717
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,16.5,False,0.3461,0.3032,est,0.3098
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,17.5,False,0.2859,0.2477,est,0.2535
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,7.5,False,0.8024,0.7977,est,0.7985
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,8.5,False,0.726,0.7201,est,0.721
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,9.5,False,0.645,0.6383,est,0.6393
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,10.5,False,0.5593,0.552,est,0.5532
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,11.5,True,0.4769,0.4696,book,0.4707
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,12.5,False,0.3998,0.3928,est,0.3938
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,13.5,False,0.3272,0.3207,est,0.3217
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,14.5,False,0.2661,0.2604,est,0.2613
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,15.5,False,0.2103,0.2055,est,0.2062
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,6.5,False,0.8021,0.7967,est,0.7975
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,7.5,False,0.71,0.703,est,0.7041
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,8.5,False,0.6083,0.6002,est,0.6015
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,9.5,True,0.5053,0.4969,book,0.4982
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,10.5,False,0.4022,0.3941,est,0.3953
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,11.5,False,0.3106,0.3034,est,0.3045
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,ra,12.5,False,0.2321,0.2261,est,0.227
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,0.5,False,0.9231,,model only,0.9231
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,1.5,False,0.8058,,model only,0.8058
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,2.5,False,0.6627,,model only,0.6627
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,3.5,False,0.5207,,model only,0.5207
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,4.5,False,0.3937,,model only,0.3937
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,5.5,False,0.2859,,model only,0.2859
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,6.5,False,0.2002,,model only,0.2002
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,7.5,False,0.1375,,model only,0.1375
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pts,8.5,False,0.0934,,model only,0.0934
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,0.5,False,0.7668,,model only,0.7668
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,1.5,False,0.4963,,model only,0.4963
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,2.5,False,0.2778,,model only,0.2778
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,3.5,False,0.1369,,model only,0.1369
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,reb,4.5,False,0.0617,,model only,0.0617
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,0.5,False,0.9194,,model only,0.9194
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,1.5,False,0.7826,,model only,0.7826
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,2.5,False,0.6188,,model only,0.6188
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,3.5,False,0.4616,,model only,0.4616
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,4.5,False,0.3231,,model only,0.3231
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,5.5,False,0.2109,,model only,0.2109
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ast,6.5,False,0.1333,,model only,0.1333
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,fg3m,0.5,False,0.3706,,model only,0.3706
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,fg3m,1.5,False,0.0739,,model only,0.0739
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,fg3m,2.5,False,0.0103,,model only,0.0103
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,stl,0.5,False,0.336,,model only,0.336
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,stl,1.5,False,0.0812,,model only,0.0812
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,blk,0.5,False,0.1262,,model only,0.1262
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,blk,1.5,False,0.0101,,model only,0.0101
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,4.5,False,0.8163,,model only,0.8163
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,5.5,False,0.7496,,model only,0.7496
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,6.5,False,0.6805,,model only,0.6805
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,7.5,False,0.6066,,model only,0.6066
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,8.5,False,0.5354,,model only,0.5354
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,9.5,False,0.4661,,model only,0.4661
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,10.5,False,0.3951,,model only,0.3951
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,11.5,False,0.3321,,model only,0.3321
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,12.5,False,0.2749,,model only,0.2749
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,13.5,False,0.2245,,model only,0.2245
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pra,14.5,False,0.1814,,model only,0.1814
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,1.5,False,0.8972,,model only,0.8972
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,2.5,False,0.8063,,model only,0.8063
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,3.5,False,0.7051,,model only,0.7051
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,4.5,False,0.5968,,model only,0.5968
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,5.5,False,0.4928,,model only,0.4928
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,6.5,False,0.3953,,model only,0.3953
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,7.5,False,0.3065,,model only,0.3065
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,8.5,False,0.2339,,model only,0.2339
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pr,9.5,False,0.1714,,model only,0.1714
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,3.5,False,0.8182,,model only,0.8182
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,4.5,False,0.7345,,model only,0.7345
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,5.5,False,0.6497,,model only,0.6497
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,6.5,False,0.5638,,model only,0.5638
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,7.5,False,0.4761,,model only,0.4761
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,8.5,False,0.3953,,model only,0.3953
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,9.5,False,0.3226,,model only,0.3226
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,10.5,False,0.26,,model only,0.26
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,pa,11.5,False,0.204,,model only,0.204
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,2.5,False,0.79,,model only,0.79
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,3.5,False,0.6748,,model only,0.6748
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,4.5,False,0.5522,,model only,0.5522
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,5.5,False,0.4386,,model only,0.4386
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,6.5,False,0.336,,model only,0.336
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,7.5,False,0.2477,,model only,0.2477
+401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,8.5,False,0.1774,,model only,0.1774
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,2.5,False,0.8404,0.8863,est,0.8793
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,3.5,False,0.7389,0.8074,est,0.7968
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,4.5,False,0.6286,0.7148,est,0.7015
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,5.5,False,0.5169,0.6131,est,0.5983
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,6.5,True,0.4125,0.5098,book,0.4948
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,7.5,False,0.3226,0.4136,est,0.3996
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,8.5,False,0.2474,0.3274,est,0.3151
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,9.5,False,0.1847,0.2512,est,0.2409
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,10.5,False,0.137,0.1904,est,0.1822
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,0.5,False,0.728,,model only,0.728
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,1.5,False,0.4104,,model only,0.4104
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,2.5,False,0.1878,,model only,0.1878
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,3.5,False,0.079,,model only,0.079
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,4.5,False,0.029,,model only,0.029
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,0.5,False,0.6684,,model only,0.6684
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,1.5,False,0.3348,,model only,0.3348
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,2.5,False,0.135,,model only,0.135
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,3.5,False,0.0446,,model only,0.0446
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,4.5,False,0.0141,,model only,0.0141
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,0.5,False,0.6579,0.7715,book,0.754
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,1.5,True,0.2771,0.4937,book,0.4603
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,2.5,False,0.0818,0.2596,book,0.2322
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,3.5,False,0.0201,0.1246,book,0.1085
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,stl,0.5,False,0.443,,model only,0.443
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,stl,1.5,False,0.1353,,model only,0.1353
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,blk,0.5,False,0.1494,,model only,0.1494
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,blk,1.5,False,0.0134,,model only,0.0134
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,3.5,False,0.8843,,model only,0.8843
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,4.5,False,0.8166,0.8488,book,0.8438
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,5.5,False,0.74,,model only,0.74
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,6.5,False,0.6564,,model only,0.6564
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,7.5,False,0.5678,,model only,0.5678
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,8.5,False,0.4819,,model only,0.4819
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,9.5,False,0.4034,0.5484,book,0.5261
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,10.5,False,0.3289,,model only,0.3289
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,11.5,False,0.2659,,model only,0.2659
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,12.5,False,0.2113,,model only,0.2113
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,13.5,False,0.1654,,model only,0.1654
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,3.5,False,0.8325,,model only,0.8325
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,4.5,False,0.7476,,model only,0.7476
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,5.5,False,0.653,,model only,0.653
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,6.5,False,0.5548,,model only,0.5548
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,7.5,False,0.4628,,model only,0.4628
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,8.5,False,0.376,,model only,0.376
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,9.5,False,0.3002,,model only,0.3002
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,10.5,False,0.2363,,model only,0.2363
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pr,11.5,False,0.1827,,model only,0.1827
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,3.5,False,0.8192,,model only,0.8192
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,4.5,False,0.7294,,model only,0.7294
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,5.5,False,0.6327,,model only,0.6327
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,6.5,False,0.5349,,model only,0.5349
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,7.5,False,0.4377,,model only,0.4377
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,8.5,False,0.3521,,model only,0.3521
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,9.5,False,0.2795,,model only,0.2795
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,10.5,False,0.2183,,model only,0.2183
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,11.5,False,0.1656,,model only,0.1656
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,0.5,False,0.8865,,model only,0.8865
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,1.5,False,0.6858,,model only,0.6858
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,2.5,False,0.4743,,model only,0.4743
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,3.5,False,0.2868,,model only,0.2868
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,4.5,False,0.1558,,model only,0.1558
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,5.5,False,0.079,,model only,0.079
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,4.5,False,0.842,0.8529,est,0.8512
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,5.5,False,0.763,0.7779,est,0.7756
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,6.5,False,0.674,0.6922,est,0.6894
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,7.5,False,0.5796,0.6,est,0.5969
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,8.5,True,0.4925,0.5136,book,0.5103
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,9.5,False,0.4087,0.4293,est,0.4261
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,10.5,False,0.3302,0.3491,est,0.3462
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,11.5,False,0.2654,0.2822,est,0.2797
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,12.5,False,0.2105,0.2249,est,0.2227
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,0.5,False,0.8201,0.8787,est,0.8696
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,1.5,False,0.5292,0.641,est,0.6238
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,2.5,True,0.2837,0.3862,book,0.3704
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,3.5,False,0.127,0.2139,book,0.2005
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,4.5,False,0.0484,0.1074,book,0.0983
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,5.5,False,0.0167,0.0563,book,0.0502
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,0.5,False,0.7161,,model only,0.7161
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,1.5,False,0.3751,,model only,0.3751
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,2.5,False,0.1564,,model only,0.1564
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,3.5,False,0.0557,,model only,0.0557
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,4.5,False,0.0169,,model only,0.0169
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,0.5,False,0.8086,0.8116,book,0.8111
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,1.5,True,0.4657,0.5666,book,0.5511
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,2.5,False,0.1921,0.3386,book,0.316
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,3.5,False,0.062,0.1794,book,0.1613
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,stl,0.5,False,0.4514,,model only,0.4514
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,stl,1.5,False,0.1339,,model only,0.1339
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,blk,0.5,False,0.1674,,model only,0.1674
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,blk,1.5,False,0.0166,,model only,0.0166
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,7.5,False,0.8006,,model only,0.8006
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,8.5,False,0.731,,model only,0.731
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,9.5,False,0.6596,,model only,0.6596
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,10.5,False,0.5818,,model only,0.5818
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,11.5,False,0.5071,,model only,0.5071
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,12.5,False,0.4329,0.5039,book,0.493
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,3.5,False,0.8212,,model only,0.8212
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,4.5,False,0.7301,,model only,0.7301
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,5.5,False,0.6343,,model only,0.6343
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,6.5,False,0.5373,,model only,0.5373
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,7.5,False,0.439,,model only,0.439
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,8.5,False,0.3563,,model only,0.3563
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,9.5,False,0.28,,model only,0.28
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,10.5,False,0.2176,,model only,0.2176
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pa,11.5,False,0.1642,,model only,0.1642
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,0.5,False,0.888,,model only,0.888
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,1.5,False,0.6946,,model only,0.6946
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,2.5,False,0.4732,,model only,0.4732
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,3.5,False,0.2854,,model only,0.2854
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,4.5,False,0.16,,model only,0.16
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,ra,5.5,False,0.082,,model only,0.082
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,4.5,False,0.8395,0.8499,est,0.8483
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,5.5,False,0.7586,0.7728,est,0.7706
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,6.5,False,0.6676,0.6849,est,0.6823
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,7.5,False,0.5783,0.5974,est,0.5945
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,8.5,True,0.49,0.5098,book,0.5068
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,9.5,False,0.4059,0.4251,est,0.4222
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,10.5,False,0.3345,0.3524,est,0.3496
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,11.5,False,0.2679,0.2837,est,0.2813
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pts,12.5,False,0.2116,0.2251,est,0.223
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,0.5,False,0.8107,0.8742,est,0.8644
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,1.5,False,0.5238,0.6408,est,0.6228
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,2.5,True,0.2782,0.3846,book,0.3682
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,3.5,False,0.1263,0.2077,book,0.1952
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,4.5,False,0.0486,0.1074,book,0.0983
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,reb,5.5,False,0.0169,0.0563,book,0.0502
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,0.5,False,0.7054,,model only,0.7054
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,1.5,False,0.3693,,model only,0.3693
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,2.5,False,0.1552,,model only,0.1552
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,3.5,False,0.0552,,model only,0.0552
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ast,4.5,False,0.0166,,model only,0.0166
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,0.5,False,0.8079,0.81,book,0.8097
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,1.5,True,0.4598,0.5659,book,0.5496
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,2.5,False,0.187,0.3374,book,0.3142
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,fg3m,3.5,False,0.0587,0.1757,book,0.1577
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,stl,0.5,False,0.4449,,model only,0.4449
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,stl,1.5,False,0.1307,,model only,0.1307
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,blk,0.5,False,0.1676,,model only,0.1676
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,blk,1.5,False,0.0183,,model only,0.0183
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,7.5,False,0.7972,,model only,0.7972
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,8.5,False,0.7258,,model only,0.7258
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,9.5,False,0.653,,model only,0.653
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,10.5,False,0.5793,,model only,0.5793
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,11.5,False,0.5036,,model only,0.5036
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,12.5,False,0.4342,0.4958,book,0.4863
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,13.5,False,0.3647,,model only,0.3647
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,14.5,False,0.3047,,model only,0.3047
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,15.5,False,0.2486,,model only,0.2486
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,16.5,False,0.2006,,model only,0.2006
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,17.5,False,0.1632,,model only,0.1632
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,7.5,False,0.7226,0.772,est,0.7644
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,8.5,False,0.6416,0.6994,est,0.6905
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,9.5,False,0.5628,0.626,est,0.6163
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,10.5,False,0.4819,0.5473,est,0.5372
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,11.5,True,0.4051,0.4696,book,0.4597
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,12.5,False,0.3359,0.3968,est,0.3874
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,13.5,False,0.2722,0.3272,est,0.3187
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,14.5,False,0.22,0.2683,est,0.2609
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,15.5,False,0.1761,0.2174,est,0.2111
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,6.5,False,0.7693,,model only,0.7693
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,7.5,False,0.6874,,model only,0.6874
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,8.5,False,0.6021,,model only,0.6021
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,9.5,False,0.5193,,model only,0.5193
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,10.5,False,0.4392,,model only,0.4392
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,11.5,False,0.3659,,model only,0.3659
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,12.5,False,0.2972,,model only,0.2972
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,13.5,False,0.2397,,model only,0.2397
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,14.5,False,0.1912,,model only,0.1912
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,0.5,False,0.9431,,model only,0.9431
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,1.5,False,0.7911,,model only,0.7911
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,2.5,False,0.5831,,model only,0.5831
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,3.5,False,0.3855,,model only,0.3855
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,4.5,False,0.2299,,model only,0.2299
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,5.5,False,0.1232,,model only,0.1232
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,6.5,False,0.0585,,model only,0.0585
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,16.5,False,0.6265,0.7066,est,0.6942
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,17.5,False,0.5749,0.66,est,0.6469
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,18.5,False,0.523,0.6115,est,0.5979
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,19.5,False,0.4745,0.5645,est,0.5506
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,20.5,True,0.4238,0.5136,book,0.4998
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,21.5,False,0.3775,0.4654,est,0.4518
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,22.5,False,0.3331,0.4177,est,0.4046
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,23.5,False,0.2939,0.374,est,0.3616
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,24.5,False,0.2572,0.332,est,0.3205
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,9.5,False,0.775,0.7454,book,0.75
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,10.5,False,0.6944,0.6676,book,0.6717
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,11.5,False,0.6082,0.5845,book,0.5882
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,12.5,True,0.5183,0.4958,book,0.4993
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,13.5,False,0.4288,0.4081,book,0.4113
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,14.5,False,0.3496,0.3279,book,0.3312
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,15.5,False,0.2747,0.2568,book,0.2596
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,0.5,False,0.967,0.9579,est,0.9593
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,1.5,False,0.8649,0.8324,est,0.8374
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,2.5,False,0.698,0.6398,book,0.6488
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,3.5,True,0.503,0.4398,book,0.4495
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,4.5,False,0.319,0.2717,book,0.279
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,5.5,False,0.187,0.1512,book,0.1567
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,6.5,False,0.0993,0.082,book,0.0847
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,0.5,False,0.8144,0.8163,book,0.816
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,1.5,True,0.5112,0.5622,book,0.5543
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,2.5,False,0.2509,0.3201,book,0.3094
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,3.5,False,0.0974,0.1584,book,0.149
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,stl,0.5,False,0.6161,0.6621,book,0.655
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,stl,1.5,False,0.2611,0.3245,book,0.3147
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,stl,2.5,False,0.0877,0.1298,book,0.1233
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,blk,0.5,False,0.5129,,model only,0.5129
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,blk,1.5,False,0.1698,,model only,0.1698
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,blk,2.5,False,0.0418,,model only,0.0418
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,32.5,False,0.6305,0.679,est,0.6716
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,33.5,False,0.5888,0.6397,est,0.6319
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,34.5,False,0.5499,0.6024,est,0.5943
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,35.5,False,0.5094,0.5628,est,0.5546
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,36.5,False,0.4715,0.5251,est,0.5169
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,37.5,True,0.4341,0.4874,book,0.4792
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,38.5,False,0.3966,0.449,est,0.4409
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,39.5,False,0.363,0.414,est,0.4062
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,40.5,False,0.328,0.377,est,0.3695
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,41.5,False,0.295,0.3415,est,0.3344
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,42.5,False,0.2643,0.3082,est,0.3014
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,29.5,False,0.6075,0.6716,est,0.6617
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,30.5,False,0.5636,0.6305,est,0.6202
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,31.5,False,0.5222,0.5909,est,0.5803
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,32.5,False,0.4797,0.5492,est,0.5385
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,33.5,True,0.4385,0.5078,book,0.4971
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,34.5,False,0.4004,0.4687,est,0.4582
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,35.5,False,0.3637,0.4302,est,0.42
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,36.5,False,0.3284,0.3925,est,0.3826
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,37.5,False,0.2964,0.3576,est,0.3481
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,20.5,False,0.6046,0.6747,est,0.6639
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,21.5,False,0.5583,0.6316,est,0.6203
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,22.5,False,0.5091,0.5845,est,0.5729
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,23.5,False,0.4628,0.5389,est,0.5272
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,24.5,True,0.4163,0.4917,book,0.4801
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,25.5,False,0.3726,0.4461,est,0.4348
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,26.5,False,0.3317,0.4024,est,0.3915
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,27.5,False,0.2962,0.3634,est,0.353
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,28.5,False,0.2605,0.3233,est,0.3136
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,12.5,False,0.7888,0.7563,est,0.7613
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,13.5,False,0.7227,0.6841,est,0.6901
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,14.5,False,0.6479,0.6045,est,0.6112
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,15.5,True,0.5712,0.5253,book,0.5324
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,16.5,False,0.4896,0.4435,est,0.4506
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,17.5,False,0.4188,0.3745,est,0.3813
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,18.5,False,0.3445,0.304,est,0.3102
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,14.5,False,0.2981,,model only,0.2981
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,15.5,False,0.2462,,model only,0.2462
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,16.5,False,0.198,,model only,0.198
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,17.5,False,0.1593,,model only,0.1593
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,6.5,False,0.7944,0.8241,est,0.8195
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,7.5,False,0.7212,0.7583,est,0.7526
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,8.5,False,0.639,0.6822,est,0.6756
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,9.5,False,0.5585,0.6054,est,0.5981
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,10.5,True,0.48,0.5282,book,0.5208
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,11.5,False,0.4052,0.4525,est,0.4452
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,12.5,False,0.3371,0.3815,est,0.3747
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,13.5,False,0.2724,0.3123,est,0.3061
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,14.5,False,0.2191,0.2539,est,0.2485
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,6.5,False,0.7642,,model only,0.7642
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,7.5,False,0.6801,,model only,0.6801
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,8.5,False,0.6006,,model only,0.6006
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,9.5,False,0.5168,,model only,0.5168
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,10.5,False,0.4369,,model only,0.4369
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,11.5,False,0.3655,,model only,0.3655
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,12.5,False,0.2982,,model only,0.2982
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,13.5,False,0.239,,model only,0.239
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,14.5,False,0.1906,,model only,0.1906
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,0.5,False,0.9366,,model only,0.9366
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,1.5,False,0.7836,,model only,0.7836
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,2.5,False,0.5787,,model only,0.5787
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,3.5,False,0.3764,,model only,0.3764
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,4.5,False,0.2206,,model only,0.2206
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,5.5,False,0.1187,,model only,0.1187
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,ra,6.5,False,0.0587,,model only,0.0587
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,16.5,False,0.6172,0.6992,est,0.6866
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,17.5,False,0.5656,0.6525,est,0.6391
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,18.5,False,0.5144,0.6044,est,0.5905
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,19.5,False,0.4645,0.5557,est,0.5416
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,20.5,True,0.4142,0.5049,book,0.4909
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,21.5,False,0.3707,0.4593,est,0.4456
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,22.5,False,0.3281,0.4132,est,0.4001
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,23.5,False,0.2882,0.3686,est,0.3562
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,24.5,False,0.2526,0.3277,est,0.3161
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,9.5,False,0.7756,0.7438,book,0.7487
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,10.5,False,0.6935,0.6683,book,0.6722
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,11.5,False,0.6052,0.5832,book,0.5866
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,12.5,True,0.5103,0.4937,book,0.4963
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,13.5,False,0.419,0.4046,book,0.4068
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,14.5,False,0.3378,0.3234,book,0.3256
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,15.5,False,0.2655,0.2526,book,0.2546
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,0.5,False,0.9689,0.9604,est,0.9617
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,1.5,False,0.8659,0.8342,est,0.8391
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,2.5,False,0.6979,0.635,book,0.6447
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,3.5,True,0.5008,0.4388,book,0.4484
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,4.5,False,0.3246,0.2678,book,0.2765
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,5.5,False,0.1893,0.1517,book,0.1575
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,6.5,False,0.1005,0.082,book,0.0848
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,0.5,False,0.8139,0.8163,book,0.8159
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,1.5,True,0.524,0.5592,book,0.5538
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,2.5,False,0.2609,0.3147,book,0.3064
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,fg3m,3.5,False,0.1034,0.156,book,0.1479
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,stl,0.5,False,0.6114,0.6581,book,0.6509
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,stl,1.5,False,0.2612,0.3212,book,0.312
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,stl,2.5,False,0.0848,0.128,book,0.1214
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,blk,0.5,False,0.515,,model only,0.515
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,blk,1.5,False,0.1686,,model only,0.1686
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,blk,2.5,False,0.0413,,model only,0.0413
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,31.5,False,0.6603,0.7085,est,0.7011
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,32.5,False,0.6223,0.6733,est,0.6654
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,33.5,False,0.5835,0.6367,est,0.6285
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,34.5,False,0.543,0.5978,est,0.5894
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,35.5,False,0.5023,0.558,est,0.5494
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,36.5,True,0.4615,0.5174,book,0.5088
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,37.5,False,0.4229,0.4783,est,0.4698
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,38.5,False,0.3876,0.4419,est,0.4335
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,39.5,False,0.3546,0.4074,est,0.3992
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,40.5,False,0.3209,0.3715,est,0.3637
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pra,41.5,False,0.2913,0.3396,est,0.3322
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,29.5,False,0.5993,0.6623,est,0.6526
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,30.5,False,0.5552,0.6207,est,0.6106
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,31.5,False,0.5133,0.5803,est,0.57
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,32.5,False,0.4733,0.5409,est,0.5305
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,33.5,True,0.4336,0.5009,book,0.4905
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,34.5,False,0.3933,0.4595,est,0.4493
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,35.5,False,0.3558,0.42,est,0.4101
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,36.5,False,0.3222,0.384,est,0.3745
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,37.5,False,0.2887,0.3474,est,0.3383
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,20.5,False,0.5999,0.6716,est,0.6606
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,21.5,False,0.549,0.6241,est,0.6125
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,22.5,False,0.5009,0.5779,est,0.566
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,23.5,False,0.453,0.5304,est,0.5185
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,24.5,True,0.4066,0.4831,book,0.4713
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,25.5,False,0.365,0.4395,est,0.428
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,26.5,False,0.3245,0.3958,est,0.3848
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,27.5,False,0.2896,0.3574,est,0.347
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,28.5,False,0.2535,0.3166,est,0.3069
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,12.5,False,0.7887,0.7628,est,0.7668
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,13.5,False,0.7193,0.6882,est,0.693
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,14.5,False,0.6435,0.6086,est,0.614
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,15.5,True,0.5642,0.5273,book,0.533
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,16.5,False,0.4844,0.4474,est,0.4531
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,17.5,False,0.41,0.3745,est,0.38
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,18.5,False,0.3388,0.3062,est,0.3112
 401910003,POR @ MIN,MIN,1630163,LaMelo Ball,pts,15.5,False,0.7108,0.6991,est,0.7009
 401910003,POR @ MIN,MIN,1630163,LaMelo Ball,pts,16.5,False,0.6635,0.6509,est,0.6528
 401910003,POR @ MIN,MIN,1630163,LaMelo Ball,pts,17.5,False,0.6118,0.5922,book,0.5952
@@ -3674,15 +3676,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,24.5,False,0.1811,0.359,est,0.3316
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,25.5,False,0.1523,0.3127,est,0.288
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,26.5,False,0.125,0.2658,est,0.2441
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,15.5,False,0.5057,0.7223,est,0.6889
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,16.5,False,0.4452,0.671,est,0.6363
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,17.5,False,0.3857,0.6148,est,0.5795
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,18.5,False,0.3338,0.5601,est,0.5253
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,19.5,True,0.2847,0.5029,book,0.4693
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,20.5,False,0.2416,0.4474,est,0.4157
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,21.5,False,0.2033,0.3934,est,0.3642
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,22.5,False,0.1701,0.3426,est,0.316
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,23.5,False,0.1406,0.2937,est,0.2701
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,15.5,False,0.5057,0.7232,est,0.6897
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,16.5,False,0.4452,0.672,est,0.6371
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,17.5,False,0.3857,0.6158,est,0.5804
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,18.5,False,0.3338,0.5612,est,0.5262
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,19.5,True,0.2847,0.504,book,0.4702
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,20.5,False,0.2416,0.4485,est,0.4166
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,21.5,False,0.2033,0.3945,est,0.3651
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,22.5,False,0.1701,0.3436,est,0.3169
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,23.5,False,0.1406,0.2946,est,0.2709
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,11.5,False,0.5535,0.7298,est,0.7027
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,12.5,False,0.4823,0.6699,est,0.641
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,13.5,False,0.4148,0.607,est,0.5774
@@ -4531,15 +4533,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1629632,Coby White,pra,23.5,False,0.2772,0.3747,est,0.3597
 401910005,CHA @ LAL,CHA,1629632,Coby White,pra,24.5,False,0.2432,0.3342,est,0.3202
 401910005,CHA @ LAL,CHA,1629632,Coby White,pra,25.5,False,0.2126,0.2967,est,0.2837
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,13.5,False,0.5736,0.6838,est,0.6668
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,14.5,False,0.5189,0.6311,book,0.6138
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,15.5,False,0.465,0.5828,est,0.5647
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,16.5,False,0.4151,0.5329,est,0.5147
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,17.5,True,0.3687,0.4842,book,0.4664
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,18.5,False,0.3233,0.4343,est,0.4172
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,19.5,False,0.282,0.391,book,0.3742
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,20.5,False,0.2437,0.3412,est,0.3262
-401910005,CHA @ LAL,CHA,1629632,Coby White,pr,21.5,False,0.2105,0.3,est,0.2862
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,13.5,False,0.5736,0.6852,est,0.668
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,14.5,False,0.5189,0.6356,est,0.6177
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,15.5,False,0.465,0.5844,est,0.566
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,16.5,False,0.4151,0.5344,est,0.5161
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,17.5,True,0.3687,0.4858,book,0.4678
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,18.5,False,0.3233,0.4359,est,0.4186
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,19.5,False,0.282,0.3885,est,0.3721
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,20.5,False,0.2437,0.3426,est,0.3274
+401910005,CHA @ LAL,CHA,1629632,Coby White,pr,21.5,False,0.2105,0.3013,est,0.2874
 401910005,CHA @ LAL,CHA,1629632,Coby White,pa,14.5,False,0.5637,0.6711,est,0.6546
 401910005,CHA @ LAL,CHA,1629632,Coby White,pa,15.5,False,0.5103,0.6221,est,0.6049
 401910005,CHA @ LAL,CHA,1629632,Coby White,pa,16.5,False,0.4573,0.571,est,0.5535
