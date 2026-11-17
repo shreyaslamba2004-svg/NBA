@@ -11,48 +11,51 @@ NYK @ TOR,NYK win + Collin Murray-Boyles 10+ pra,2,0.6037,0.5158,1.94,2.04,1.77,
 NYK @ TOR,Josh Hart 3pm under 1.5 + OG Anunoby 10+ pa,2,0.6582,0.5581,1.79,1.88,1.61,-0.1002,0.998,1.50-1.65
 NYK @ TOR,Josh Hart 3pm under 1.5 + Collin Murray-Boyles 10+ pra,2,0.6693,0.5737,1.74,1.83,1.57,-0.1004,1.0,1.50-1.65
 NYK @ TOR,Josh Hart 3pm under 1.5 + Karl-Anthony Towns 8+ reb,2,0.6409,0.5468,1.83,1.92,1.64,-0.102,0.997,1.50-1.65
-POR @ MIN,game over 227.5 + Rudy Gobert 15+ pr,2,0.3626,0.4346,2.3,2.42,2.18,-0.051,1.046,2.10-2.50
 POR @ MIN,MIN -2.5 + Ayo Dosunmu 1+ 3pm,2,0.4569,0.3893,2.57,2.7,2.43,-0.0533,1.016,2.10-2.50
 POR @ MIN,MIN -2.5 + LaMelo Ball 2+ 3pm,2,0.4849,0.4117,2.43,2.55,2.3,-0.0538,1.015,2.10-2.50
+POR @ MIN,MIN -2.5 + Jaden McDaniels 10+ pts,2,0.4924,0.4219,2.37,2.49,2.24,-0.0545,1.016,2.10-2.50
+POR @ MIN,MIN -2.5 + Jaden McDaniels 10+ pa,2,0.5282,0.4529,2.21,2.32,2.07,-0.063,1.007,1.85-2.10
 POR @ MIN,MIN win + LaMelo Ball 2+ 3pm,2,0.5379,0.4545,2.2,2.31,2.06,-0.0642,1.013,1.85-2.10
-POR @ MIN,MIN win + Jaden McDaniels 15+ pr,2,0.5449,0.46,2.17,2.28,2.03,-0.0644,1.013,1.85-2.10
 POR @ MIN,MIN win + Jaden McDaniels 10+ pts,2,0.5463,0.4659,2.15,2.25,2.01,-0.0647,1.015,1.85-2.10
-POR @ MIN,LaMelo Ball 2+ 3pm + Ayo Dosunmu 1+ 3pm + Jaden McDaniels 4+ reb,3,0.5911,0.4971,2.01,2.11,1.71,-0.1477,1.011,1.65-1.85
-POR @ MIN,Jaden McDaniels 15+ pr + LaMelo Ball 2+ 3pm + Ayo Dosunmu 1+ 3pm,3,0.6426,0.5366,1.86,1.96,1.59,-0.1488,1.008,1.50-1.65
-POR @ MIN,Rudy Gobert 15+ pr + LaMelo Ball 2+ 3pm + Ayo Dosunmu 1+ 3pm,3,0.643,0.5346,1.87,1.96,1.59,-0.1491,1.007,1.50-1.65
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + LaMelo Ball 2+ 3pm,2,0.6628,0.5384,1.86,1.95,1.69,-0.088,1.002,1.65-1.85
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + LaMelo Ball 10+ pts,2,0.7067,0.5767,1.73,1.82,1.58,-0.0893,1.002,1.50-1.65
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + Ayo Dosunmu 1+ 3pm,2,0.6226,0.5075,1.97,2.07,1.79,-0.0904,1.0,1.65-1.85
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 15+ pr,2,0.67,0.5459,1.83,1.92,1.67,-0.0908,1.0,1.65-1.85
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 15+ pra,2,0.7192,0.5861,1.71,1.79,1.55,-0.0911,1.0,1.50-1.65
+POR @ MIN,Toumani Camara 3pm under 2.5 + LaMelo Ball 10+ pts,2,0.6811,0.5586,1.79,1.88,1.63,-0.0914,1.001,1.50-1.65
 DET @ SAS,DET +9.5 + Daniss Jenkins 15+ pa,2,0.4977,0.3947,2.53,2.66,2.43,-0.0411,1.039,2.10-2.50
 DET @ SAS,DET +9.5 + Daniss Jenkins 10+ pts,2,0.5078,0.4015,2.49,2.62,2.38,-0.0445,1.035,2.10-2.50
-DET @ SAS,SAS -9.5 + Devin Vassell 10+ pr,2,0.3491,0.3992,2.51,2.63,2.37,-0.053,1.023,2.10-2.50
+DET @ SAS,DET +9.5 + Cade Cunningham 6+ ast,2,0.5052,0.4,2.5,2.62,2.38,-0.0481,1.031,2.10-2.50
 DET @ SAS,Paul Reed 21+ pra + Daniss Jenkins 15+ pra,2,0.6119,0.4513,2.22,2.33,2.07,-0.0642,1.006,1.85-2.10
+DET @ SAS,DET +9.5 + Cade Cunningham 25+ pra,2,0.5652,0.4513,2.22,2.33,2.07,-0.0646,1.015,1.85-2.10
 DET @ SAS,Paul Reed 19+ pr + Daniss Jenkins 15+ pra,2,0.6056,0.4468,2.24,2.35,2.09,-0.0653,1.005,1.85-2.10
-DET @ SAS,Victor Wembanyama pr under 40.5 + Paul Reed 4+ reb,2,0.6164,0.4466,2.24,2.35,2.09,-0.0675,1.0,1.85-2.10
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Daniss Jenkins 15+ pra,2,0.7525,0.5522,1.81,1.9,1.69,-0.0688,1.0,1.65-1.85
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Ausar Thompson 10+ pa,2,0.7115,0.5193,1.93,2.02,1.79,-0.0697,0.998,1.65-1.85
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Cade Cunningham 25+ pra,2,0.7629,0.5643,1.77,1.86,1.65,-0.0698,1.0,1.50-1.65
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Victor Wembanyama 2+ blk,2,0.7358,0.5411,1.85,1.94,1.72,-0.0707,0.998,1.65-1.85
 DET @ SAS,SAS win + Devin Vassell 10+ pr,2,0.5702,0.6059,1.65,1.73,1.53,-0.0726,1.013,1.50-1.65
-DET @ SAS,Devin Vassell 10+ pr + Daniss Jenkins 15+ pa,2,0.6773,0.5925,1.69,1.77,1.51,-0.104,1.0,1.50-1.65
-DET @ SAS,SAS win + Daniss Jenkins 10+ pts,2,0.5368,0.5773,1.73,1.82,1.54,-0.1136,0.971,1.50-1.65
-DET @ SAS,SAS win + Paul Reed 4+ reb + Devin Vassell 10+ pr,3,0.5388,0.5231,1.91,2.01,1.69,-0.1167,1.015,1.65-1.85
-DET @ SAS,SAS win + Devin Vassell 10+ pr + Victor Wembanyama 2+ blk,3,0.5171,0.5203,1.92,2.02,1.69,-0.1231,1.015,1.65-1.85
-DET @ SAS,SAS win + Devin Vassell 10+ pr + Cade Cunningham 1+ 3pm,3,0.5134,0.5175,1.93,2.03,1.69,-0.1279,1.01,1.65-1.85
+DET @ SAS,Cade Cunningham 6+ ast + Daniss Jenkins 15+ pa,2,0.6674,0.5916,1.69,1.77,1.52,-0.1027,1.004,1.50-1.65
 CHA @ LAL,LAL win + Coby White pts under 14.5,2,0.4051,0.3992,2.51,2.63,2.49,-0.0073,1.056,2.10-2.50
 CHA @ LAL,LAL win + Coby White pr under 17.5,2,0.4129,0.4033,2.48,2.6,2.45,-0.0121,1.049,2.10-2.50
 CHA @ LAL,LAL -7.5 + Jake LaRavia 10+ pra,2,0.3549,0.398,2.51,2.64,2.46,-0.0195,1.029,2.10-2.50
 CHA @ LAL,LAL -7.5 + Matisse Thybulle 5+ pra,2,0.4076,0.4645,2.15,2.26,2.06,-0.0437,1.007,1.85-2.10
-CHA @ LAL,Sandro Mamukelashvili pr under 20.5 + Jake LaRavia 5+ pa,2,0.6892,0.4587,2.18,2.29,2.08,-0.0477,0.998,1.85-2.10
-CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + Matisse Thybulle 5+ pra,2,0.6912,0.4685,2.13,2.24,2.03,-0.0494,0.999,1.85-2.10
+CHA @ LAL,Sandro Mamukelashvili pr under 19.5 + Sion James 5+ pa,2,0.6586,0.4519,2.21,2.32,2.09,-0.0534,0.999,1.85-2.10
+CHA @ LAL,Sandro Mamukelashvili pr under 19.5 + Matisse Thybulle 5+ pra,2,0.6911,0.4751,2.1,2.21,1.99,-0.0534,0.999,1.85-2.10
 CHA @ LAL,LAL win + Jake LaRavia 10+ pra,2,0.5245,0.5652,1.77,1.86,1.67,-0.0581,1.021,1.65-1.85
 CHA @ LAL,LAL win + Jake LaRavia 5+ pa,2,0.5756,0.6166,1.62,1.7,1.52,-0.0636,1.013,1.50-1.65
 CHA @ LAL,LAL win + Matisse Thybulle 5+ pa,2,0.5552,0.6108,1.64,1.72,1.53,-0.0637,1.019,1.50-1.65
 CHA @ LAL,LAL win + Quentin Grimes 1+ 3pm,2,0.5118,0.5533,1.81,1.9,1.69,-0.0662,1.013,1.65-1.85
-CHA @ LAL,LAL win + Luka Doncic 1+ stl,2,0.5199,0.5569,1.8,1.89,1.66,-0.078,0.998,1.65-1.85
+CHA @ LAL,Quentin Grimes pts under 13.5 + Matisse Thybulle 5+ pra,2,0.6612,0.4994,2.0,2.1,1.85,-0.0766,0.998,1.65-1.85
 CHA @ LAL,LAL win + Matisse Thybulle 1+ stl,2,0.5547,0.6064,1.65,1.73,1.52,-0.0804,0.999,1.50-1.65
-UTA @ LAC,Darius Garland pr under 26.5 + Josh Okogie 5+ pr,2,0.5704,0.4262,2.35,2.46,2.17,-0.0755,0.998,2.10-2.50
-UTA @ LAC,Darius Garland pr under 26.5 + Ace Bailey 1+ 3pm,2,0.548,0.4169,2.4,2.52,2.22,-0.0757,1.001,2.10-2.50
-UTA @ LAC,Darryn Peterson pts under 20.5 + Josh Okogie 5+ pr,2,0.5678,0.4216,2.37,2.49,2.19,-0.0769,0.995,2.10-2.50
-UTA @ LAC,Darryn Peterson pts under 20.5 + Ace Bailey 10+ pr,2,0.5948,0.4538,2.2,2.31,2.03,-0.0792,0.998,1.85-2.10
-UTA @ LAC,Rui Hachimura pr under 19.5 + Josh Okogie 5+ pr,2,0.5959,0.4596,2.18,2.28,2.0,-0.0797,1.001,1.85-2.10
-UTA @ LAC,Darryn Peterson pa under 25.5 + Josh Okogie 5+ pr,2,0.5875,0.4418,2.26,2.38,2.08,-0.0817,0.993,1.85-2.10
-UTA @ LAC,LAC win + Derrick Jones Jr. 10+ pr,2,0.7104,0.5304,1.89,1.98,1.73,-0.0823,1.011,1.65-1.85
+UTA @ LAC,Darryn Peterson pts under 20.5 + Josh Okogie 5+ pr,2,0.5678,0.4199,2.38,2.5,2.2,-0.0762,0.995,2.10-2.50
+UTA @ LAC,Rui Hachimura pr under 19.5 + Josh Okogie 5+ pr,2,0.5959,0.4529,2.21,2.32,2.04,-0.0765,1.001,1.85-2.10
+UTA @ LAC,Darryn Peterson pts under 20.5 + Derrick Jones Jr. 10+ pr,2,0.5069,0.3901,2.56,2.69,2.37,-0.0771,1.002,2.10-2.50
+UTA @ LAC,Brook Lopez 2+ ast + Ace Bailey 10+ pts,2,0.4942,0.3859,2.59,2.72,2.39,-0.0773,1.004,2.10-2.50
+UTA @ LAC,Darryn Peterson pts under 20.5 + Ace Bailey 10+ pr,2,0.5948,0.452,2.21,2.32,2.04,-0.0784,0.998,1.85-2.10
+UTA @ LAC,Brice Sensabaugh 17+ pr + Josh Okogie 5+ pr,2,0.5814,0.4571,2.19,2.3,2.01,-0.0816,1.003,1.85-2.10
+UTA @ LAC,LAC win + Derrick Jones Jr. 10+ pr,2,0.7104,0.5307,1.88,1.98,1.73,-0.0823,1.011,1.65-1.85
 UTA @ LAC,LAC win + Josh Okogie 5+ pr,2,0.7908,0.5677,1.76,1.85,1.61,-0.0871,0.998,1.50-1.65
-UTA @ LAC,LAC win + Keyonte George 1+ 3pm,2,0.774,0.5677,1.76,1.85,1.6,-0.0913,0.997,1.50-1.65
+UTA @ LAC,LAC win + Keyonte George 1+ 3pm,2,0.774,0.5682,1.76,1.85,1.6,-0.0915,0.997,1.50-1.65
 UTA @ LAC,LAC win + Ace Bailey 1+ 3pm,2,0.7562,0.5527,1.81,1.9,1.64,-0.0916,0.996,1.50-1.65
-UTA @ LAC,LAC win + Ace Bailey 10+ pts,2,0.7013,0.5052,1.98,2.08,1.79,-0.0969,0.988,1.65-1.85
-UTA @ LAC,LAC win + Ace Bailey 15+ pr,2,0.7007,0.5117,1.95,2.05,1.76,-0.0973,0.99,1.65-1.85
+UTA @ LAC,LAC win + Brice Sensabaugh 1+ 3pm,2,0.7435,0.5484,1.82,1.91,1.65,-0.0938,0.996,1.65-1.85
+UTA @ LAC,LAC win + Ace Bailey 15+ pr,2,0.7007,0.5097,1.96,2.06,1.77,-0.0965,0.99,1.65-1.85
