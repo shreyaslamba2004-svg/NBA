@@ -1,19 +1,7 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-POR @ MIN,Damian Lillard pts under 20.5 + Jaden McDaniels 15+ pr,2,0.5109,0.4171,2.4,2.52,2.26,-0.0579,1.001,2.10-2.50
-POR @ MIN,Damian Lillard pts under 20.5 + Jaden McDaniels 10+ pts,2,0.5159,0.423,2.36,2.48,2.23,-0.0581,1.001,2.10-2.50
-POR @ MIN,Damian Lillard pts under 20.5 + Toumani Camara 5+ pa,2,0.5743,0.4684,2.13,2.24,2.01,-0.0588,0.999,1.85-2.10
-POR @ MIN,Damian Lillard pts under 20.5 + Rudy Gobert 15+ pr,2,0.4718,0.3854,2.59,2.72,2.44,-0.0606,0.998,2.10-2.50
-POR @ MIN,Damian Lillard pts under 20.5 + Scoot Henderson 5+ pr,2,0.5652,0.4636,2.16,2.26,2.02,-0.0612,0.998,1.85-2.10
-POR @ MIN,Damian Lillard pts under 20.5 + Jonathan Kuminga 10+ pr,2,0.5513,0.4511,2.22,2.33,2.07,-0.0643,0.994,1.85-2.10
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 10+ pts,2,0.6902,0.5339,1.87,1.97,1.73,-0.0784,1.002,1.65-1.85
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Toumani Camara 10+ pra,2,0.7293,0.5612,1.78,1.87,1.64,-0.0788,1.0,1.50-1.65
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Toumani Camara 5+ pa,2,0.7683,0.5911,1.69,1.78,1.56,-0.0792,1.0,1.50-1.65
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Scoot Henderson 10+ pra,2,0.6635,0.5043,1.98,2.08,1.82,-0.08,0.996,1.65-1.85
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 15+ pr,2,0.682,0.5252,1.9,2.0,1.75,-0.0802,0.999,1.65-1.85
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jonathan Kuminga 10+ pr,2,0.7403,0.5714,1.75,1.84,1.61,-0.081,0.998,1.50-1.65
 PHX @ DEN,Nikola Jokic 47+ pra + DEN win,2,0.439,0.4176,2.39,2.51,2.41,0.0063,1.05,2.10-2.50
-PHX @ DEN,DEN win + Devin Booker pts under 22.5,2,0.4374,0.4118,2.43,2.55,2.41,-0.0078,1.059,2.10-2.50
 PHX @ DEN,Collin Gillespie 3pm under 2.5 + DEN win,2,0.5627,0.4645,2.15,2.26,2.12,-0.0136,1.022,2.10-2.50
+PHX @ DEN,DEN win + Miles Bridges pa under 16.5,2,0.4233,0.3952,2.53,2.66,2.49,-0.0164,1.048,2.10-2.50
 PHX @ DEN,game over 229.5 + Christian Braun 10+ pra,2,0.4934,0.4658,2.15,2.25,2.03,-0.0536,1.015,1.85-2.10
 PHX @ DEN,game over 229.5 + Cameron Johnson 10+ pra,2,0.4874,0.4622,2.16,2.27,2.05,-0.0544,1.015,1.85-2.10
 PHX @ DEN,DEN win + Christian Braun 10+ pa,2,0.6091,0.6139,1.63,1.71,1.53,-0.0629,1.014,1.50-1.65
