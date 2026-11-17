@@ -26,9 +26,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,fg3m,1.5,True,0.2355,0.3326,book,0.3176
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,fg3m,2.5,False,0.0696,0.1358,book,0.1256
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,fg3m,3.5,False,0.0163,0.0563,book,0.0501
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,0.5,False,0.7265,0.7157,book,0.7174
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,1.5,True,0.3845,0.3952,book,0.3936
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,2.5,False,0.1608,0.1787,book,0.1759
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,0.5,False,0.7265,0.7094,book,0.712
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,1.5,True,0.3845,0.391,book,0.39
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,stl,2.5,False,0.1608,0.1763,book,0.1739
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,blk,0.5,True,0.6648,0.6564,book,0.6577
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,blk,1.5,False,0.3128,0.3245,book,0.3227
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,28.5,False,0.6348,0.6805,est,0.6735
@@ -42,15 +42,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,36.5,False,0.3243,0.3704,est,0.3633
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,37.5,False,0.2927,0.3365,est,0.3297
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pra,38.5,False,0.2623,0.3035,est,0.2972
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,24.5,False,0.5456,0.6514,est,0.6351
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,25.5,False,0.4985,0.6074,est,0.5906
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,26.5,False,0.4549,0.5649,est,0.5479
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,27.5,False,0.4122,0.5218,est,0.5049
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,28.5,True,0.3732,0.4809,book,0.4643
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,29.5,False,0.336,0.4405,est,0.4244
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,30.5,False,0.2986,0.3985,est,0.3831
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,31.5,False,0.2664,0.361,est,0.3465
-401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,32.5,False,0.2366,0.3254,est,0.3117
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,23.5,False,0.5925,0.6905,est,0.6754
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,24.5,False,0.5456,0.6482,est,0.6324
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,25.5,False,0.4985,0.604,est,0.5878
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,26.5,False,0.4549,0.5615,est,0.545
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,27.5,True,0.4122,0.5183,book,0.502
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,28.5,False,0.3732,0.4774,est,0.4614
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,29.5,False,0.336,0.4371,est,0.4215
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,30.5,False,0.2986,0.3951,est,0.3803
+401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pr,31.5,False,0.2664,0.3578,est,0.3437
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,22.5,False,0.6142,0.6572,est,0.6505
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,23.5,False,0.5663,0.6113,est,0.6044
 401910002,NYK @ TOR,TOR,1630567,Scottie Barnes,pa,24.5,False,0.5213,0.5673,est,0.5603
@@ -98,17 +98,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1629628,RJ Barrett,stl,1.5,False,0.1558,,model only,0.1558
 401910002,NYK @ TOR,TOR,1629628,RJ Barrett,blk,0.5,False,0.3072,,model only,0.3072
 401910002,NYK @ TOR,TOR,1629628,RJ Barrett,blk,1.5,False,0.0534,,model only,0.0534
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,24.5,False,0.6497,0.698,book,0.6906
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,25.5,False,0.6037,0.656,est,0.648
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,26.5,False,0.5586,0.6131,est,0.6047
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,27.5,False,0.5172,0.5728,est,0.5643
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,28.5,False,0.476,0.5321,est,0.5235
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,29.5,True,0.4337,0.4895,book,0.4809
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,30.5,False,0.3938,0.4485,est,0.44
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,31.5,False,0.3541,0.407,est,0.3989
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,32.5,False,0.3192,0.3698,est,0.362
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,33.5,False,0.2856,0.3335,est,0.3262
-401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,34.5,False,0.2519,0.2849,book,0.2798
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,24.5,False,0.6497,0.6986,book,0.6911
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,25.5,False,0.6037,0.6551,est,0.6472
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,26.5,False,0.5586,0.6121,est,0.6039
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,27.5,False,0.5172,0.5719,est,0.5634
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,28.5,False,0.476,0.5311,est,0.5227
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,29.5,True,0.4337,0.4885,book,0.4801
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,30.5,False,0.3938,0.4475,est,0.4392
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,31.5,False,0.3541,0.4061,est,0.3981
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,32.5,False,0.3192,0.3689,est,0.3612
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,33.5,False,0.2856,0.3326,est,0.3254
+401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pra,34.5,False,0.2519,0.2841,book,0.2791
 401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,21.5,False,0.6131,0.6729,est,0.6636
 401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,22.5,False,0.5654,0.6281,est,0.6184
 401910002,NYK @ TOR,TOR,1629628,RJ Barrett,pr,23.5,False,0.5176,0.5821,est,0.5722
@@ -276,11 +276,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,8.5,False,0.1359,0.2396,book,0.2236
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,reb,9.5,False,0.0844,0.1623,book,0.1503
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,0.5,False,0.8646,,model only,0.8646
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,1.5,False,0.5989,0.622,book,0.6184
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,2.5,False,0.3508,0.3753,book,0.3715
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,3.5,False,0.177,0.1997,book,0.1962
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,4.5,False,0.0775,0.0963,book,0.0934
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,5.5,False,0.0308,0.0482,book,0.0455
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,1.5,False,0.5989,,model only,0.5989
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,2.5,False,0.3508,0.3784,book,0.3741
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,3.5,False,0.177,0.2019,book,0.1981
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,4.5,False,0.0775,0.0954,book,0.0926
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ast,5.5,False,0.0308,0.0477,book,0.0451
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,0.5,False,0.3453,,model only,0.3453
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,1.5,False,0.0661,,model only,0.0661
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,fg3m,2.5,False,0.009,,model only,0.009
@@ -290,17 +290,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,0.5,False,0.6577,0.6683,book,0.6667
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,1.5,True,0.312,0.335,book,0.3315
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,blk,2.5,False,0.1153,0.136,book,0.1328
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,14.5,False,0.6702,0.7366,book,0.7264
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,15.5,False,0.6117,0.7018,est,0.6879
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,16.5,False,0.5533,0.6491,est,0.6344
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,17.5,False,0.4936,0.5929,est,0.5776
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,18.5,False,0.4349,0.5348,est,0.5194
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,19.5,True,0.3807,0.4787,book,0.4636
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,20.5,False,0.3299,0.4238,est,0.4093
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,21.5,False,0.2827,0.3705,est,0.357
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,22.5,False,0.2391,0.3194,est,0.307
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,23.5,False,0.2014,0.2736,est,0.2624
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,24.5,False,0.1697,0.2453,book,0.2337
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,14.5,False,0.6702,0.7345,book,0.7246
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,15.5,False,0.6117,0.7036,est,0.6895
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,16.5,False,0.5533,0.6511,est,0.6361
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,17.5,False,0.4936,0.595,est,0.5794
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,18.5,False,0.4349,0.537,est,0.5212
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,19.5,True,0.3807,0.4809,book,0.4655
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,20.5,False,0.3299,0.4259,est,0.4111
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,21.5,False,0.2827,0.3726,est,0.3587
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,22.5,False,0.2391,0.3213,est,0.3087
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,23.5,False,0.2014,0.2753,est,0.2639
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pra,24.5,False,0.1697,0.2415,book,0.2304
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,12.5,False,0.679,0.7617,est,0.749
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,13.5,False,0.6153,0.7073,est,0.6931
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,14.5,False,0.548,0.6469,est,0.6316
@@ -311,12 +311,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,19.5,False,0.2641,0.3516,est,0.3382
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pr,20.5,False,0.2214,0.3005,est,0.2883
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,8.5,False,0.7505,,model only,0.7505
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,9.5,False,0.6796,0.7083,book,0.7039
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,9.5,False,0.6796,0.7061,book,0.702
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,10.5,False,0.6051,,model only,0.6051
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,11.5,False,0.5302,,model only,0.5302
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,12.5,False,0.4567,,model only,0.4567
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,13.5,False,0.3892,,model only,0.3892
-401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,14.5,False,0.3272,0.3862,book,0.3771
+401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,14.5,False,0.3272,0.383,book,0.3744
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,15.5,False,0.2747,,model only,0.2747
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,pa,16.5,False,0.2241,,model only,0.2241
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,4.5,False,0.8169,,model only,0.8169
@@ -326,22 +326,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,8.5,False,0.3558,,model only,0.3558
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,9.5,False,0.262,,model only,0.262
 401910002,NYK @ TOR,TOR,1642867,Collin Murray-Boyles,ra,10.5,False,0.1858,,model only,0.1858
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,2.5,False,0.93,0.891,est,0.897
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,3.5,False,0.866,0.7991,est,0.8094
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,4.5,False,0.7886,0.6966,est,0.7107
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,5.5,False,0.6946,0.5833,est,0.6004
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,6.5,True,0.5987,0.4787,book,0.4972
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,7.5,False,0.5056,0.3863,est,0.4046
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,8.5,False,0.424,0.3117,est,0.329
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,9.5,False,0.3455,0.2452,est,0.2606
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,10.5,False,0.2768,0.1907,est,0.2039
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,2.5,False,0.93,0.8902,est,0.8963
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,3.5,False,0.866,0.7977,est,0.8082
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,4.5,False,0.7886,0.6947,est,0.7092
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,5.5,False,0.6946,0.5811,est,0.5986
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,6.5,True,0.5987,0.4765,book,0.4953
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,7.5,False,0.5056,0.3842,est,0.4029
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,8.5,False,0.424,0.3099,est,0.3274
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,9.5,False,0.3455,0.2436,est,0.2593
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,pts,10.5,False,0.2768,0.1893,est,0.2028
 401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,2.5,False,0.8755,0.8116,book,0.8214
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,3.5,False,0.7676,0.6998,book,0.7102
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,4.5,False,0.6373,0.5737,book,0.5835
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,3.5,False,0.7676,0.6992,book,0.7097
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,4.5,False,0.6373,0.5751,book,0.5847
 401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,5.5,True,0.505,0.445,book,0.4542
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,6.5,False,0.3751,0.3314,book,0.3381
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,6.5,False,0.3751,0.3302,book,0.3371
 401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,7.5,False,0.2709,0.2348,book,0.2404
-401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,8.5,False,0.1863,0.1611,book,0.165
+401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,reb,8.5,False,0.1863,0.1609,book,0.1648
 401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,0.5,False,0.742,,model only,0.742
 401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,1.5,False,0.4234,,model only,0.4234
 401910002,NYK @ TOR,TOR,1627751,Jakob Poeltl,ast,2.5,False,0.1942,,model only,0.1942
@@ -400,13 +400,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,17.5,False,0.3386,0.3815,book,0.3749
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,18.5,False,0.2908,0.3275,est,0.3219
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pts,19.5,False,0.2489,0.2885,book,0.2824
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,0.5,False,0.961,0.9664,est,0.9656
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,1.5,False,0.8396,0.8594,est,0.8563
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,2.5,False,0.6572,0.6721,book,0.6698
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,3.5,True,0.4612,0.4999,book,0.4939
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,4.5,False,0.2862,0.3374,book,0.3295
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,5.5,False,0.1614,0.2095,book,0.2021
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,6.5,False,0.0867,0.128,book,0.1216
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,0.5,False,0.961,0.9667,est,0.9658
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,1.5,False,0.8396,0.8603,est,0.8571
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,2.5,False,0.6572,0.6757,book,0.6729
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,3.5,True,0.4612,0.5019,book,0.4956
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,4.5,False,0.2862,0.3411,book,0.3326
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,5.5,False,0.1614,0.2144,book,0.2062
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,reb,6.5,False,0.0867,0.1298,book,0.1232
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,1.5,False,0.9482,0.9466,est,0.9469
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,2.5,False,0.8619,0.8341,book,0.8384
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ast,3.5,False,0.7297,0.7126,book,0.7152
@@ -424,34 +424,34 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,blk,0.5,False,0.1116,,model only,0.1116
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,blk,1.5,False,0.0075,,model only,0.0075
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,19.5,False,0.688,0.7241,book,0.7185
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,20.5,False,0.6397,0.6805,est,0.6742
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,21.5,False,0.5944,0.6374,est,0.6308
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,22.5,False,0.5432,0.5879,est,0.581
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,23.5,False,0.4957,0.5411,est,0.5341
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,24.5,True,0.4484,0.4937,book,0.4867
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,25.5,False,0.4013,0.4456,est,0.4388
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,26.5,False,0.3578,0.4006,est,0.394
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,27.5,False,0.3181,0.3588,est,0.3525
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,28.5,False,0.2799,0.318,est,0.3121
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,29.5,False,0.2448,0.279,book,0.2737
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,15.5,False,0.6463,0.6975,est,0.6896
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,16.5,False,0.5879,0.6429,est,0.6344
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,17.5,False,0.533,0.5902,est,0.5814
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,18.5,False,0.4774,0.5355,est,0.5266
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,19.5,True,0.4244,0.482,book,0.4731
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,20.5,False,0.3755,0.4314,est,0.4228
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,21.5,False,0.3285,0.3817,est,0.3735
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,22.5,False,0.2873,0.3372,est,0.3295
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,23.5,False,0.2485,0.2945,est,0.2874
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,16.5,False,0.6761,0.7095,est,0.7043
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,17.5,False,0.6233,0.6594,est,0.6539
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,18.5,False,0.5708,0.6088,est,0.6029
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,19.5,False,0.5205,0.5595,est,0.5535
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,20.5,True,0.4657,0.5049,book,0.4989
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,21.5,False,0.4148,0.4533,est,0.4474
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,22.5,False,0.3682,0.4054,est,0.3997
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,23.5,False,0.3238,0.3591,est,0.3537
-401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,24.5,False,0.2844,0.3174,est,0.3123
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,20.5,False,0.6397,0.6815,est,0.675
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,21.5,False,0.5944,0.6384,est,0.6316
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,22.5,False,0.5432,0.589,est,0.5819
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,23.5,False,0.4957,0.5422,est,0.535
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,24.5,True,0.4484,0.4948,book,0.4877
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,25.5,False,0.4013,0.4467,est,0.4397
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,26.5,False,0.3578,0.4016,est,0.3949
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,27.5,False,0.3181,0.3598,est,0.3533
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,28.5,False,0.2799,0.3189,est,0.3129
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pra,29.5,False,0.2448,0.2815,book,0.2759
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,15.5,False,0.6463,0.6984,est,0.6904
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,16.5,False,0.5879,0.6439,est,0.6353
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,17.5,False,0.533,0.5913,est,0.5823
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,18.5,False,0.4774,0.5366,est,0.5275
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,19.5,True,0.4244,0.4831,book,0.4741
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,20.5,False,0.3755,0.4325,est,0.4237
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,21.5,False,0.3285,0.3828,est,0.3744
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,22.5,False,0.2873,0.3382,est,0.3303
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pr,23.5,False,0.2485,0.2954,est,0.2882
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,16.5,False,0.6761,0.7103,est,0.705
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,17.5,False,0.6233,0.6603,est,0.6546
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,18.5,False,0.5708,0.6097,est,0.6037
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,19.5,False,0.5205,0.5605,est,0.5543
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,20.5,True,0.4657,0.5059,book,0.4997
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,21.5,False,0.4148,0.4543,est,0.4482
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,22.5,False,0.3682,0.4064,est,0.4005
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,23.5,False,0.3238,0.36,est,0.3545
+401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,pa,24.5,False,0.2844,0.3183,est,0.3131
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,5.5,False,0.8214,0.8317,est,0.8301
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,6.5,False,0.7263,0.7404,est,0.7382
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,7.5,False,0.616,0.6329,est,0.6303
@@ -459,15 +459,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,9.5,False,0.39,0.4072,est,0.4046
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,10.5,False,0.2961,0.3113,est,0.3089
 401910002,NYK @ TOR,TOR,1630193,Immanuel Quickley,ra,11.5,False,0.2158,0.2283,est,0.2263
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,2.5,False,0.9223,0.8891,est,0.8942
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,3.5,False,0.8521,0.7954,est,0.8042
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,4.5,False,0.7639,0.6859,est,0.6979
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,5.5,False,0.6672,0.5751,est,0.5893
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,6.5,True,0.5628,0.465,book,0.4801
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,7.5,False,0.4685,0.3731,est,0.3878
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,8.5,False,0.3797,0.2924,est,0.3058
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,9.5,False,0.3009,0.2251,est,0.2368
-401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,10.5,False,0.235,0.1718,est,0.1815
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,2.5,False,0.9223,0.89,est,0.895
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,3.5,False,0.8521,0.7969,est,0.8054
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,4.5,False,0.7639,0.6879,est,0.6996
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,5.5,False,0.6672,0.5774,est,0.5912
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,6.5,True,0.5628,0.4673,book,0.482
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,7.5,False,0.4685,0.3752,est,0.3896
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,8.5,False,0.3797,0.2943,est,0.3074
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,9.5,False,0.3009,0.2267,est,0.2382
+401910002,NYK @ TOR,TOR,1642347,Jamal Shead,pts,10.5,False,0.235,0.1731,est,0.1826
 401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,0.5,False,0.7993,,model only,0.7993
 401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,1.5,False,0.4974,,model only,0.4974
 401910002,NYK @ TOR,TOR,1642347,Jamal Shead,reb,2.5,False,0.2612,,model only,0.2612
@@ -525,15 +525,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,8.5,False,0.2918,,model only,0.2918
 401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,9.5,False,0.2067,,model only,0.2067
 401910002,NYK @ TOR,TOR,1642347,Jamal Shead,ra,10.5,False,0.141,,model only,0.141
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,6.5,False,0.7509,0.7959,est,0.789
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,7.5,False,0.6672,0.7217,est,0.7133
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,8.5,False,0.578,0.6392,est,0.6298
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,9.5,False,0.4935,0.5575,est,0.5477
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,10.5,True,0.413,0.4765,book,0.4667
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,11.5,False,0.3386,0.3983,est,0.3891
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,12.5,False,0.2736,0.3276,est,0.3193
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,13.5,False,0.2189,0.2661,est,0.2588
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,14.5,False,0.1729,0.2128,est,0.2067
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,6.5,False,0.7509,0.7944,est,0.7877
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,7.5,False,0.6672,0.7198,est,0.7117
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,8.5,False,0.578,0.6371,est,0.628
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,9.5,False,0.4935,0.5553,est,0.5458
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,10.5,True,0.413,0.4742,book,0.4648
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,11.5,False,0.3386,0.3961,est,0.3873
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,12.5,False,0.2736,0.3256,est,0.3176
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,13.5,False,0.2189,0.2643,est,0.2573
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,pts,14.5,False,0.1729,0.2113,est,0.2054
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,0.5,False,0.9496,0.9603,est,0.9587
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,1.5,False,0.8137,0.8487,est,0.8433
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,reb,2.5,False,0.6156,0.6589,book,0.6522
@@ -546,11 +546,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,2.5,False,0.2066,,model only,0.2066
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,3.5,False,0.0796,,model only,0.0796
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,ast,4.5,False,0.0277,,model only,0.0277
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.8487,0.8669,book,0.8641
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.5226,0.6645,book,0.6426
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,True,0.2315,0.4287,book,0.3983
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.0798,0.2372,book,0.213
-401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.0215,0.1198,book,0.1047
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,0.5,False,0.8487,0.8648,book,0.8623
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,1.5,False,0.5226,0.6629,book,0.6413
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,2.5,True,0.2315,0.4219,book,0.3926
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,3.5,False,0.0798,0.2336,book,0.2099
+401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,fg3m,4.5,False,0.0215,0.1168,book,0.1021
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,stl,0.5,True,0.6441,0.6402,book,0.6408
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,stl,1.5,False,0.2955,0.3074,book,0.3056
 401910002,NYK @ TOR,TOR,1642266,Ja'Kobe Walter,blk,0.5,False,0.2418,,model only,0.2418
@@ -600,13 +600,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,17.5,False,0.4307,0.3994,book,0.4042
 401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,18.5,False,0.3758,0.3455,est,0.3502
 401910002,NYK @ TOR,NYK,1628384,OG Anunoby,pts,19.5,False,0.3284,0.3025,book,0.3065
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,1.5,False,0.9542,0.9452,est,0.9466
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,2.5,False,0.871,0.8163,book,0.8247
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,3.5,False,0.7428,0.6873,book,0.6959
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,4.5,True,0.5826,0.536,book,0.5432
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,5.5,False,0.4226,0.391,book,0.3959
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,6.5,False,0.2839,0.2663,book,0.269
-401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,7.5,False,0.1765,0.1702,book,0.1712
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,1.5,False,0.9542,0.9456,est,0.9469
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,2.5,False,0.871,0.8192,book,0.8272
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,3.5,False,0.7428,0.6912,book,0.6992
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,4.5,True,0.5826,0.5377,book,0.5446
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,5.5,False,0.4226,0.3927,book,0.3973
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,6.5,False,0.2839,0.2686,book,0.271
+401910002,NYK @ TOR,NYK,1628384,OG Anunoby,reb,7.5,False,0.1765,0.174,book,0.1744
 401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,0.5,False,0.8369,0.8505,est,0.8484
 401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,1.5,True,0.5525,0.5779,book,0.574
 401910002,NYK @ TOR,NYK,1628384,OG Anunoby,ast,2.5,False,0.2925,0.3326,book,0.3264
@@ -673,12 +673,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,3.5,False,0.3641,0.3753,book,0.3736
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,4.5,False,0.2049,0.2247,book,0.2217
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,reb,5.5,False,0.1053,0.128,book,0.1245
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,0.5,False,0.883,0.8986,est,0.8962
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,1.5,False,0.6482,0.684,est,0.6785
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,2.5,True,0.4016,0.4408,book,0.4348
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,3.5,False,0.2157,0.2486,book,0.2435
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,4.5,False,0.1012,0.1263,book,0.1224
-401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,5.5,False,0.0417,0.0631,book,0.0598
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,0.5,False,0.883,0.8994,est,0.8969
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,1.5,False,0.6482,0.6858,est,0.68
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,2.5,True,0.4016,0.4429,book,0.4365
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,3.5,False,0.2157,0.2512,book,0.2457
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,4.5,False,0.1012,0.1298,book,0.1254
+401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ast,5.5,False,0.0417,0.0658,book,0.0621
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,0.5,True,0.6466,0.602,book,0.6089
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,1.5,False,0.2622,0.2678,book,0.2669
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,fg3m,2.5,False,0.0722,0.0974,book,0.0935
@@ -723,15 +723,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,6.5,False,0.3057,0.3306,est,0.3268
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,7.5,False,0.1975,0.2163,est,0.2134
 401910002,NYK @ TOR,NYK,1628969,Mikal Bridges,ra,8.5,False,0.1201,0.1327,est,0.1308
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,21.5,False,0.6533,0.6721,est,0.6692
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,22.5,False,0.6135,0.6332,est,0.6302
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,23.5,False,0.5714,0.5918,est,0.5887
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,24.5,False,0.5305,0.5514,est,0.5482
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,25.5,True,0.4878,0.5088,book,0.5056
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,26.5,False,0.4504,0.4713,est,0.468
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,27.5,False,0.4114,0.4319,est,0.4287
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,28.5,False,0.3757,0.3956,est,0.3925
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,29.5,False,0.3426,0.3618,est,0.3588
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,21.5,False,0.6533,0.6747,est,0.6714
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,22.5,False,0.6135,0.6359,est,0.6324
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,23.5,False,0.5714,0.5946,est,0.5911
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,24.5,False,0.5305,0.5543,est,0.5506
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,25.5,True,0.4878,0.5117,book,0.508
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,26.5,False,0.4504,0.4742,est,0.4705
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,27.5,False,0.4114,0.4347,est,0.4311
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,28.5,False,0.3757,0.3984,est,0.3949
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pts,29.5,False,0.3426,0.3644,est,0.3611
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,0.5,False,0.9437,0.9379,est,0.9388
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,1.5,False,0.7851,0.7671,est,0.7699
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,reb,2.5,True,0.5642,0.5386,book,0.5425
@@ -755,35 +755,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,stl,2.5,False,0.0757,0.1126,book,0.1069
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,blk,0.5,False,0.1602,,model only,0.1602
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,blk,1.5,False,0.0157,,model only,0.0157
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,30.5,False,0.6499,0.6689,est,0.666
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,31.5,False,0.6125,0.6324,est,0.6293
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,32.5,False,0.5763,0.5968,est,0.5936
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,33.5,False,0.5393,0.5602,est,0.557
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,34.5,False,0.5053,0.5264,est,0.5232
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,35.5,True,0.4684,0.4895,book,0.4862
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,36.5,False,0.4347,0.4556,est,0.4524
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,37.5,False,0.3989,0.4194,est,0.4163
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,38.5,False,0.3682,0.3881,est,0.385
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,39.5,False,0.3387,0.3579,est,0.3549
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,40.5,False,0.3091,0.3275,est,0.3247
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,24.5,False,0.6493,0.6614,est,0.6595
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,25.5,False,0.6113,0.624,est,0.622
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,26.5,False,0.571,0.5841,est,0.582
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,27.5,False,0.5307,0.544,est,0.542
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,28.5,True,0.4925,0.5059,book,0.5038
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,29.5,False,0.4551,0.4685,est,0.4664
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,30.5,False,0.4162,0.4293,est,0.4273
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,31.5,False,0.3825,0.3953,est,0.3933
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,32.5,False,0.35,0.3623,est,0.3604
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,28.5,False,0.6156,0.6434,est,0.6391
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,29.5,False,0.5778,0.6066,est,0.6022
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,30.5,False,0.5408,0.5703,est,0.5657
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,31.5,False,0.503,0.5327,est,0.5282
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,32.5,True,0.4639,0.4937,book,0.4891
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,33.5,False,0.429,0.4585,est,0.4539
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,34.5,False,0.3936,0.4225,est,0.418
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,35.5,False,0.3623,0.3903,est,0.386
-401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,36.5,False,0.3319,0.3589,est,0.3548
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,30.5,False,0.6499,0.6726,est,0.6691
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,31.5,False,0.6125,0.6363,est,0.6326
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,32.5,False,0.5763,0.6008,est,0.5971
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,33.5,False,0.5393,0.5644,est,0.5605
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,34.5,False,0.5053,0.5306,est,0.5267
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,35.5,True,0.4684,0.4937,book,0.4898
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,36.5,False,0.4347,0.4598,est,0.4559
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,37.5,False,0.3989,0.4235,est,0.4197
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,38.5,False,0.3682,0.3921,est,0.3884
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,39.5,False,0.3387,0.3617,est,0.3582
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pra,40.5,False,0.3091,0.3312,est,0.3278
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,24.5,False,0.6493,0.6648,est,0.6624
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,25.5,False,0.6113,0.6275,est,0.6251
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,26.5,False,0.571,0.5877,est,0.5852
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,27.5,False,0.5307,0.5478,est,0.5452
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,28.5,True,0.4925,0.5097,book,0.5071
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,29.5,False,0.4551,0.4723,est,0.4696
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,30.5,False,0.4162,0.433,est,0.4304
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,31.5,False,0.3825,0.3989,est,0.3964
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pr,32.5,False,0.35,0.3658,est,0.3634
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,28.5,False,0.6156,0.6462,est,0.6415
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,29.5,False,0.5778,0.6095,est,0.6047
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,30.5,False,0.5408,0.5733,est,0.5683
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,31.5,False,0.503,0.5358,est,0.5308
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,32.5,True,0.4639,0.4968,book,0.4917
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,33.5,False,0.429,0.4615,est,0.4565
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,34.5,False,0.3936,0.4255,est,0.4206
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,35.5,False,0.3623,0.3933,est,0.3885
+401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,pa,36.5,False,0.3319,0.3618,est,0.3572
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,6.5,False,0.784,0.7914,est,0.7903
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,7.5,False,0.6795,0.6891,est,0.6877
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,8.5,False,0.5635,0.5744,est,0.5727
@@ -791,14 +791,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,10.5,False,0.3413,0.3514,est,0.3498
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,11.5,False,0.2528,0.2613,est,0.26
 401910002,NYK @ TOR,NYK,1628973,Jalen Brunson,ra,12.5,False,0.1784,0.185,est,0.184
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,3.5,False,0.8947,0.8792,est,0.8816
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,4.5,False,0.8195,0.7955,est,0.7992
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,3.5,False,0.8947,0.8774,est,0.88
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,4.5,False,0.8195,0.7927,est,0.7968
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,5.5,False,0.7305,0.6434,book,0.6568
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,6.5,False,0.634,0.5974,est,0.603
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,7.5,True,0.5292,0.4906,book,0.4966
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,8.5,False,0.4337,0.3962,est,0.402
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,6.5,False,0.634,0.5932,est,0.5995
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,7.5,True,0.5292,0.4863,book,0.4929
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,8.5,False,0.4337,0.3921,est,0.3985
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,9.5,False,0.3477,0.3411,book,0.3421
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,10.5,False,0.2698,0.2405,est,0.245
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,10.5,False,0.2698,0.2373,est,0.2423
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,pts,11.5,False,0.2067,0.2215,book,0.2192
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,2.5,False,0.9221,0.8809,book,0.8872
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,reb,3.5,False,0.8341,0.7973,book,0.803
@@ -818,31 +818,31 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,1.5,True,0.2912,0.3567,book,0.3466
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,2.5,False,0.0772,0.1532,book,0.1415
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,fg3m,3.5,False,0.0146,0.0649,book,0.0572
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,0.5,False,0.6868,0.6813,book,0.6821
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,1.5,True,0.3338,0.3554,book,0.3521
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,2.5,False,0.1328,0.1498,book,0.1472
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,0.5,False,0.6868,0.682,book,0.6827
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,1.5,True,0.3338,0.3581,book,0.3544
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,stl,2.5,False,0.1328,0.154,book,0.1507
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,blk,0.5,False,0.2372,,model only,0.2372
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,blk,1.5,False,0.0328,,model only,0.0328
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,12.5,False,0.8139,0.797,est,0.7996
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,13.5,False,0.7597,0.7394,est,0.7425
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,14.5,False,0.7007,0.6776,est,0.6812
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,15.5,False,0.6409,0.6157,est,0.6196
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,16.5,False,0.5764,0.5498,est,0.5539
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,17.5,True,0.5123,0.4853,book,0.4895
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,18.5,False,0.4458,0.4192,est,0.4233
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,19.5,False,0.3842,0.359,est,0.3629
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,20.5,False,0.3287,0.3053,est,0.3089
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,21.5,False,0.2797,0.2584,est,0.2617
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,22.5,False,0.233,0.2143,est,0.2172
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,9.5,False,0.8284,0.7956,est,0.8006
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,10.5,False,0.7674,0.7267,est,0.733
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,11.5,False,0.7013,0.6543,est,0.6615
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,12.5,False,0.6308,0.5794,est,0.5873
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,13.5,True,0.5585,0.5049,book,0.5131
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,14.5,False,0.4819,0.4285,est,0.4368
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,15.5,False,0.411,0.36,est,0.3679
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,16.5,False,0.3461,0.2991,est,0.3063
-401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,17.5,False,0.2859,0.244,est,0.2505
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,12.5,False,0.8139,0.7948,est,0.7978
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,13.5,False,0.7597,0.7369,est,0.7404
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,14.5,False,0.7007,0.6747,est,0.6787
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,15.5,False,0.6409,0.6126,est,0.6169
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,16.5,False,0.5764,0.5465,est,0.5511
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,17.5,True,0.5123,0.482,book,0.4867
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,18.5,False,0.4458,0.416,est,0.4206
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,19.5,False,0.3842,0.3559,est,0.3603
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,20.5,False,0.3287,0.3025,est,0.3066
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,21.5,False,0.2797,0.2559,est,0.2596
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pra,22.5,False,0.233,0.2121,est,0.2153
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,9.5,False,0.8284,0.793,est,0.7984
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,10.5,False,0.7674,0.7236,est,0.7303
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,11.5,False,0.7013,0.6507,est,0.6585
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,12.5,False,0.6308,0.5755,est,0.584
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,13.5,True,0.5585,0.5009,book,0.5098
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,14.5,False,0.4819,0.4246,est,0.4334
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,15.5,False,0.411,0.3564,est,0.3648
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,16.5,False,0.3461,0.2958,est,0.3035
+401910002,NYK @ TOR,NYK,1628404,Josh Hart,pr,17.5,False,0.2859,0.2411,est,0.248
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,6.5,False,0.8666,0.8545,est,0.8564
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,7.5,False,0.8024,0.786,est,0.7885
 401910002,NYK @ TOR,NYK,1628404,Josh Hart,pa,8.5,False,0.726,0.7055,est,0.7087
@@ -923,15 +923,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,6.5,False,0.336,,model only,0.336
 401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,7.5,False,0.2477,,model only,0.2477
 401910002,NYK @ TOR,NYK,1642278,Tyler Kolek,ra,8.5,False,0.1774,,model only,0.1774
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,2.5,False,0.8404,0.8852,est,0.8783
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,3.5,False,0.7389,0.8056,est,0.7953
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,4.5,False,0.6286,0.7124,est,0.6995
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,5.5,False,0.5169,0.6104,est,0.596
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,6.5,True,0.4125,0.5069,book,0.4924
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,7.5,False,0.3226,0.4108,est,0.3972
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,8.5,False,0.2474,0.3248,est,0.3129
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,9.5,False,0.1847,0.249,est,0.2391
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,10.5,False,0.137,0.1886,est,0.1807
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,2.5,False,0.8404,0.8839,est,0.8772
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,3.5,False,0.7389,0.8037,est,0.7937
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,4.5,False,0.6286,0.71,est,0.6974
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,5.5,False,0.5169,0.6075,est,0.5936
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,6.5,True,0.4125,0.5039,book,0.4898
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,7.5,False,0.3226,0.4079,est,0.3948
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,8.5,False,0.2474,0.3222,est,0.3107
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,9.5,False,0.1847,0.2468,est,0.2372
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pts,10.5,False,0.137,0.1868,est,0.1791
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,0.5,False,0.728,,model only,0.728
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,1.5,False,0.4104,,model only,0.4104
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,reb,2.5,False,0.1878,,model only,0.1878
@@ -944,19 +944,19 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,ast,4.5,False,0.0141,,model only,0.0141
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,0.5,False,0.6579,0.7621,book,0.7461
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,1.5,True,0.2771,0.4765,book,0.4458
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,2.5,False,0.0818,0.2519,book,0.2257
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,3.5,False,0.0201,0.1168,book,0.1019
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,2.5,False,0.0818,0.2486,book,0.2229
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,fg3m,3.5,False,0.0201,0.1154,book,0.1007
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,stl,0.5,False,0.443,,model only,0.443
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,stl,1.5,False,0.1353,,model only,0.1353
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,blk,0.5,False,0.1494,,model only,0.1494
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,blk,1.5,False,0.0134,,model only,0.0134
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,3.5,False,0.8843,,model only,0.8843
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,4.5,False,0.8166,0.848,book,0.8432
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,4.5,False,0.8166,0.8488,book,0.8438
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,5.5,False,0.74,,model only,0.74
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,6.5,False,0.6564,,model only,0.6564
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,7.5,False,0.5678,,model only,0.5678
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,8.5,False,0.4819,,model only,0.4819
-401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,9.5,False,0.4034,0.5452,book,0.5234
+401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,9.5,False,0.4034,0.5435,book,0.5219
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,10.5,False,0.3289,,model only,0.3289
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,11.5,False,0.2659,,model only,0.2659
 401910002,NYK @ TOR,NYK,1630540,Miles McBride,pra,12.5,False,0.2113,,model only,0.2113
@@ -1015,24 +1015,24 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,blk,1.5,False,0.0183,,model only,0.0183
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,7.5,False,0.7972,,model only,0.7972
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,8.5,False,0.7258,,model only,0.7258
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,9.5,False,0.653,0.6721,book,0.6692
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,9.5,False,0.653,0.6683,book,0.6659
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,10.5,False,0.5793,,model only,0.5793
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,11.5,False,0.5036,,model only,0.5036
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,12.5,False,0.4342,,model only,0.4342
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,13.5,False,0.3647,,model only,0.3647
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,14.5,False,0.2981,0.3709,book,0.3597
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,14.5,False,0.2981,0.3723,book,0.3609
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,15.5,False,0.2462,,model only,0.2462
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,16.5,False,0.198,,model only,0.198
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pra,17.5,False,0.1593,,model only,0.1593
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,6.5,False,0.7944,0.8221,est,0.8178
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,7.5,False,0.7212,0.7557,est,0.7504
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,8.5,False,0.639,0.6792,est,0.673
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,9.5,False,0.5585,0.602,est,0.5953
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,10.5,True,0.48,0.5247,book,0.5178
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,11.5,False,0.4052,0.449,est,0.4423
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,12.5,False,0.3371,0.3782,est,0.3719
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,13.5,False,0.2724,0.3093,est,0.3036
-401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,14.5,False,0.2191,0.2512,est,0.2463
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,6.5,False,0.7944,0.8216,est,0.8174
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,7.5,False,0.7212,0.7551,est,0.7498
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,8.5,False,0.639,0.6784,est,0.6723
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,9.5,False,0.5585,0.6011,est,0.5946
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,10.5,True,0.48,0.5238,book,0.5171
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,11.5,False,0.4052,0.4481,est,0.4415
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,12.5,False,0.3371,0.3774,est,0.3712
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,13.5,False,0.2724,0.3085,est,0.3029
+401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pr,14.5,False,0.2191,0.2505,est,0.2457
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,6.5,False,0.7642,,model only,0.7642
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,7.5,False,0.6801,,model only,0.6801
 401910002,NYK @ TOR,NYK,1629013,Landry Shamet,pa,8.5,False,0.6006,,model only,0.6006
@@ -1058,13 +1058,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,22.5,False,0.3281,0.4024,est,0.3909
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,23.5,False,0.2882,0.3582,est,0.3474
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pts,24.5,False,0.2526,0.3179,est,0.3078
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,9.5,False,0.7756,0.7423,book,0.7474
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,10.5,False,0.6935,0.6621,book,0.6669
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,11.5,False,0.6052,0.5765,book,0.5809
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,9.5,False,0.7756,0.745,book,0.7497
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,10.5,False,0.6935,0.6645,book,0.669
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,11.5,False,0.6052,0.5779,book,0.5821
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,12.5,True,0.5103,0.4863,book,0.49
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,13.5,False,0.419,0.4011,book,0.4039
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,14.5,False,0.3378,0.319,book,0.3219
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,15.5,False,0.2655,0.2492,book,0.2517
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,14.5,False,0.3378,0.3168,book,0.32
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,reb,15.5,False,0.2655,0.2472,book,0.25
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,0.5,False,0.9689,0.9614,est,0.9625
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,1.5,False,0.8659,0.8377,est,0.842
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ast,2.5,False,0.6979,0.6434,book,0.6518
@@ -1102,15 +1102,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,35.5,False,0.3558,0.4089,est,0.4007
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,36.5,False,0.3222,0.3732,est,0.3654
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pr,37.5,False,0.2887,0.3371,est,0.3296
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,19.5,False,0.6481,0.7099,est,0.7003
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,20.5,False,0.5999,0.6657,est,0.6556
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,21.5,False,0.549,0.6178,est,0.6072
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,22.5,False,0.5009,0.5714,est,0.5606
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,23.5,True,0.453,0.5238,book,0.5129
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,24.5,False,0.4066,0.4765,est,0.4657
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,25.5,False,0.365,0.433,est,0.4225
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,26.5,False,0.3245,0.3895,est,0.3795
-401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,27.5,False,0.2896,0.3513,est,0.3418
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,20.5,False,0.5999,0.6637,est,0.6539
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,21.5,False,0.549,0.6157,est,0.6054
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,22.5,False,0.5009,0.5692,est,0.5586
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,23.5,False,0.453,0.5215,est,0.5109
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,24.5,True,0.4066,0.4742,book,0.4638
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,25.5,False,0.365,0.4307,est,0.4206
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,26.5,False,0.3245,0.3873,est,0.3776
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,27.5,False,0.2896,0.3492,est,0.3401
+401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,pa,28.5,False,0.2535,0.3089,est,0.3004
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,12.5,False,0.7887,0.7628,est,0.7668
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,13.5,False,0.7193,0.6882,est,0.693
 401910002,NYK @ TOR,NYK,1626157,Karl-Anthony Towns,ra,14.5,False,0.6435,0.6086,est,0.614
@@ -3544,15 +3544,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pra,22.5,False,0.2331,0.3474,est,0.3298
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pra,23.5,False,0.1931,0.2953,est,0.2795
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pra,24.5,False,0.1586,0.2773,book,0.259
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,13.5,False,0.5899,0.7321,est,0.7102
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,14.5,False,0.5162,0.6261,book,0.6092
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,15.5,False,0.4481,0.6067,est,0.5823
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,16.5,False,0.3822,0.5403,est,0.516
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,17.5,True,0.3231,0.4756,book,0.4521
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,18.5,False,0.2679,0.4102,est,0.3883
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,19.5,False,0.2204,0.3554,book,0.3346
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,20.5,False,0.1795,0.2937,est,0.2761
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,21.5,False,0.1473,0.2471,est,0.2318
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,13.5,False,0.5899,0.731,est,0.7093
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,14.5,False,0.5162,0.6684,est,0.645
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,15.5,False,0.4481,0.6054,est,0.5811
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,16.5,False,0.3822,0.5389,est,0.5148
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,17.5,True,0.3231,0.4742,book,0.4509
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,18.5,False,0.2679,0.4088,est,0.3871
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,19.5,False,0.2204,0.3481,est,0.3284
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,20.5,False,0.1795,0.2925,est,0.2751
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pr,21.5,False,0.1473,0.2461,est,0.2309
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pa,12.5,False,0.5961,0.7442,est,0.7214
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pa,13.5,False,0.5228,0.6836,est,0.6588
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pa,14.5,False,0.4531,0.6203,est,0.5945
@@ -3611,15 +3611,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pra,17.5,False,0.2677,0.2845,est,0.2819
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pra,18.5,False,0.2167,0.2313,est,0.2291
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pra,19.5,False,0.1739,0.2077,book,0.2025
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,7.5,False,0.8381,0.8398,est,0.8395
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,8.5,False,0.7676,0.7698,est,0.7694
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,9.5,False,0.6878,0.6904,est,0.69
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,10.5,False,0.6089,0.6118,est,0.6114
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,11.5,True,0.5215,0.5245,book,0.524
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,12.5,False,0.439,0.442,est,0.4416
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,13.5,False,0.3607,0.3635,est,0.363
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,14.5,False,0.2949,0.2974,est,0.297
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,15.5,False,0.2368,0.239,est,0.2387
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,7.5,False,0.8381,0.8359,est,0.8362
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,8.5,False,0.7676,0.7647,est,0.7651
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,9.5,False,0.6878,0.6843,est,0.6849
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,10.5,False,0.6089,0.605,est,0.6056
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,11.5,True,0.5215,0.5174,book,0.518
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,12.5,False,0.439,0.435,est,0.4356
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,13.5,False,0.3607,0.3569,est,0.3575
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,14.5,False,0.2949,0.2915,est,0.292
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pr,15.5,False,0.2368,0.2339,est,0.2343
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pa,5.5,False,0.8472,0.86,est,0.8581
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pa,6.5,False,0.7689,0.7867,est,0.7839
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pa,7.5,False,0.6822,0.7041,est,0.7007
@@ -4203,15 +4203,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1642883,Sion James,pra,17.5,False,0.2466,0.2785,est,0.2736
 401910005,CHA @ LAL,CHA,1642883,Sion James,pra,18.5,False,0.1996,0.2274,est,0.2231
 401910005,CHA @ LAL,CHA,1642883,Sion James,pra,19.5,False,0.1563,0.2105,book,0.2022
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,6.5,False,0.845,0.8506,est,0.8497
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,7.5,False,0.7709,0.7785,est,0.7773
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,8.5,False,0.6866,0.6959,est,0.6945
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,9.5,False,0.5973,0.6077,est,0.6061
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,10.5,True,0.5056,0.5164,book,0.5147
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,11.5,False,0.4199,0.4305,est,0.4288
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,12.5,False,0.3404,0.3502,est,0.3487
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,13.5,False,0.2738,0.2825,est,0.2811
-401910005,CHA @ LAL,CHA,1642883,Sion James,pr,14.5,False,0.216,0.2235,est,0.2223
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,6.5,False,0.845,0.8482,est,0.8477
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,7.5,False,0.7709,0.7753,est,0.7746
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,8.5,False,0.6866,0.6919,est,0.6911
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,9.5,False,0.5973,0.6032,est,0.6023
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,10.5,True,0.5056,0.5117,book,0.5108
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,11.5,False,0.4199,0.4259,est,0.4249
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,12.5,False,0.3404,0.3459,est,0.3451
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,13.5,False,0.2738,0.2787,est,0.2779
+401910005,CHA @ LAL,CHA,1642883,Sion James,pr,14.5,False,0.216,0.2202,est,0.2196
 401910005,CHA @ LAL,CHA,1642883,Sion James,pa,6.5,False,0.7884,0.8145,est,0.8105
 401910005,CHA @ LAL,CHA,1642883,Sion James,pa,7.5,False,0.7043,0.7373,est,0.7322
 401910005,CHA @ LAL,CHA,1642883,Sion James,pa,8.5,False,0.6068,0.6452,est,0.6393
