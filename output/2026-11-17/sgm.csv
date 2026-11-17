@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 NYK @ TOR,Miles McBride 3pm under 1.5 + Scottie Barnes 4+ ast,2,0.6062,0.3925,2.55,2.68,2.43,-0.0446,0.997,2.10-2.50
 NYK @ TOR,game over 216.5 + Scottie Barnes 4+ ast,2,0.4922,0.3798,2.63,2.76,2.49,-0.0525,1.024,2.10-2.50
-NYK @ TOR,NYK win + OG Anunoby 10+ pts,2,0.5631,0.4802,2.08,2.19,1.97,-0.0561,1.022,1.85-2.10
+NYK @ TOR,NYK win + OG Anunoby 10+ pts,2,0.5631,0.4802,2.08,2.19,1.97,-0.053,1.022,1.85-2.10
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Scottie Barnes 4+ ast,2,0.6435,0.4383,2.28,2.4,2.15,-0.0584,0.996,2.10-2.50
 NYK @ TOR,Miles McBride 3pm under 1.5 + Jamal Shead 5+ pa,2,0.6907,0.485,2.06,2.17,1.94,-0.0597,0.998,1.85-2.10
 NYK @ TOR,Miles McBride 3pm under 1.5 + OG Anunoby 10+ pa,2,0.6653,0.4692,2.13,2.24,2.0,-0.0607,0.998,1.85-2.10
-NYK @ TOR,NYK win + OG Anunoby 10+ pa,2,0.5948,0.509,1.96,2.06,1.84,-0.064,1.014,1.65-1.85
+NYK @ TOR,NYK win + OG Anunoby 10+ pa,2,0.5948,0.509,1.96,2.06,1.84,-0.0609,1.014,1.65-1.85
+NYK @ TOR,NYK win + Jalen Brunson 1+ 3pm,2,0.5837,0.5045,1.98,2.08,1.84,-0.0703,1.006,1.65-1.85
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jamal Shead 5+ pa,2,0.7345,0.5425,1.84,1.94,1.71,-0.0715,0.998,1.65-1.85
-NYK @ TOR,Scottie Barnes 5+ ast + Jamal Shead 5+ pa,2,0.6887,0.524,1.91,2.0,1.77,-0.0718,1.002,1.65-1.85
 POR @ MIN,MIN -2.5 + LaMelo Ball 2+ 3pm,2,0.4849,0.4146,2.41,2.53,2.32,-0.0392,1.015,2.10-2.50
 POR @ MIN,MIN -2.5 + Ayo Dosunmu 1+ 3pm,2,0.4569,0.3958,2.53,2.65,2.42,-0.0406,1.016,2.10-2.50
 POR @ MIN,MIN -2.5 + LaMelo Ball 10+ pts,2,0.5169,0.447,2.24,2.35,2.14,-0.0421,1.014,2.10-2.50
