@@ -1,28 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHI @ BKN,Egor Demin pts under 9.5 + Jaylen Brown 1+ 3pm,2,0.4576,0.3951,2.53,2.66,2.45,-0.0314,1.001,2.10-2.50
-PHI @ BKN,Anfernee Simons pts under 10.5 + VJ Edgecombe 10+ pa,2,0.535,0.4479,2.23,2.34,2.16,-0.0342,0.999,2.10-2.50
-PHI @ BKN,Anfernee Simons pts under 10.5 + VJ Edgecombe 10+ pr,2,0.5514,0.4659,2.15,2.25,2.07,-0.0349,1.0,1.85-2.10
-PHI @ BKN,Egor Demin pts under 9.5 + VJ Edgecombe 10+ pr,2,0.5131,0.4537,2.2,2.31,2.12,-0.0366,1.001,2.10-2.50
-PHI @ BKN,Anfernee Simons pts under 10.5 + Joel Embiid 20+ pra,2,0.551,0.4692,2.13,2.24,2.05,-0.0376,0.998,1.85-2.10
-PHI @ BKN,Anfernee Simons pts under 10.5 + Joel Embiid 4+ reb,2,0.5416,0.4652,2.15,2.26,2.06,-0.0406,0.997,1.85-2.10
-PHI @ BKN,Kentavious Caldwell-Pope 3pm under 1.5 + Jaylen Brown 1+ 3pm,2,0.7095,0.5106,1.96,2.06,1.84,-0.0612,1.004,1.65-1.85
-PHI @ BKN,Dean Wade 3pm under 1.5 + VJ Edgecombe 10+ pa,2,0.7443,0.5331,1.88,1.97,1.76,-0.0614,1.002,1.65-1.85
-PHI @ BKN,Dean Wade 3pm under 1.5 + VJ Edgecombe 10+ pr,2,0.7654,0.5533,1.81,1.9,1.69,-0.0642,1.001,1.65-1.85
-PHI @ BKN,Kentavious Caldwell-Pope 3pm under 1.5 + VJ Edgecombe 10+ pr,2,0.7929,0.5845,1.71,1.8,1.59,-0.0691,1.0,1.50-1.65
-PHI @ BKN,Kentavious Caldwell-Pope 3pm under 1.5 + Joel Embiid 20+ pra,2,0.7921,0.5885,1.7,1.78,1.58,-0.0719,0.999,1.50-1.65
-PHI @ BKN,Kentavious Caldwell-Pope 3pm under 1.5 + Anfernee Simons 5+ pr,2,0.7717,0.5759,1.74,1.82,1.61,-0.0723,0.999,1.50-1.65
-HOU @ MIA,Davion Mitchell 14+ pts + Andrew Wiggins 10+ pra,2,0.49,0.4075,2.45,2.58,2.39,-0.028,1.006,2.10-2.50
-HOU @ MIA,Davion Mitchell 14+ pts + Jabari Smith Jr. 1+ 3pm,2,0.5132,0.4258,2.35,2.47,2.27,-0.0317,1.001,2.10-2.50
-HOU @ MIA,Davion Mitchell 14+ pts + Giannis Antetokounmpo 8+ reb,2,0.4841,0.4105,2.44,2.56,2.36,-0.0323,1.005,2.10-2.50
-HOU @ MIA,HOU win + Jabari Smith Jr. 15+ pr,2,0.444,0.4646,2.15,2.26,2.08,-0.0332,1.017,1.85-2.10
-HOU @ MIA,Davion Mitchell 14+ pts + Andrew Wiggins 5+ pa,2,0.533,0.4589,2.18,2.29,2.1,-0.0385,1.002,1.85-2.10
-HOU @ MIA,HOU win + Jabari Smith Jr. 15+ pra,2,0.4608,0.4847,2.06,2.17,1.98,-0.0386,1.012,1.85-2.10
-HOU @ MIA,Jabari Smith Jr. 2+ ast + Andrew Wiggins 5+ pa,2,0.6712,0.5064,1.97,2.07,1.83,-0.0736,1.0,1.65-1.85
-HOU @ MIA,Jabari Smith Jr. 1+ 3pm + Andrew Wiggins 10+ pra + Kevin Durant 4+ reb,3,0.6969,0.5187,1.93,2.02,1.67,-0.1342,1.002,1.65-1.85
-HOU @ MIA,Jabari Smith Jr. 1+ 3pm + Andrew Wiggins 10+ pra + Giannis Antetokounmpo 8+ reb,3,0.7156,0.5404,1.85,1.94,1.6,-0.1363,1.002,1.50-1.65
-HOU @ MIA,Jabari Smith Jr. 1+ 3pm + Andrew Wiggins 10+ pra + Bam Adebayo 6+ reb,3,0.737,0.5591,1.79,1.88,1.54,-0.1366,1.003,1.50-1.65
-HOU @ MIA,Andrew Wiggins 10+ pra + Kevin Durant 4+ reb + Jabari Smith Jr. 15+ pr,3,0.6882,0.5179,1.93,2.03,1.67,-0.1369,1.001,1.65-1.85
-HOU @ MIA,Jabari Smith Jr. 1+ 3pm + Kevin Durant 4+ reb + Giannis Antetokounmpo 8+ reb,3,0.6895,0.5232,1.91,2.01,1.65,-0.137,1.002,1.50-1.65
 POR @ MIN,Bones Hyland pts under 10.5 + Sidy Cissoko 5+ pa,2,0.5381,0.4156,2.41,2.53,2.27,-0.0574,0.997,2.10-2.50
 POR @ MIN,Damian Lillard pts under 20.5 + Sidy Cissoko 5+ pa,2,0.527,0.4146,2.41,2.53,2.27,-0.0597,0.991,2.10-2.50
 POR @ MIN,Damian Lillard pts under 20.5 + Sidy Cissoko 5+ pra,2,0.572,0.4651,2.15,2.26,2.02,-0.0601,0.998,1.85-2.10
@@ -35,18 +11,18 @@ POR @ MIN,Toumani Camara 3pm under 2.5 + LaMelo Ball 2+ 3pm,2,0.6369,0.4983,2.01
 POR @ MIN,LaMelo Ball 1+ stl + Rudy Gobert 15+ pr,2,0.6482,0.5777,1.73,1.82,1.55,-0.107,1.001,1.50-1.65
 POR @ MIN,Sidy Cissoko 5+ pa + Rudy Gobert 15+ pr + LaMelo Ball 2+ 3pm,3,0.6368,0.5181,1.93,2.03,1.65,-0.146,1.006,1.50-1.65
 POR @ MIN,Sidy Cissoko 5+ pa + LaMelo Ball 1+ stl + Rudy Gobert 5+ pa,3,0.6907,0.5617,1.78,1.87,1.51,-0.1492,1.002,1.50-1.65
-GSW @ NOP,Derik Queen 11+ pts + Draymond Green 4+ ast,2,0.5457,0.4076,2.45,2.58,2.43,-0.0109,1.005,2.10-2.50
-GSW @ NOP,Derik Queen 11+ pts + Yves Missi 5+ pa,2,0.5236,0.4059,2.46,2.59,2.42,-0.0184,1.005,2.10-2.50
-GSW @ NOP,Derik Queen 11+ pts + Georges Niang 5+ pr,2,0.5657,0.4467,2.24,2.35,2.19,-0.02,1.007,2.10-2.50
-GSW @ NOP,De'Anthony Melton pts under 13.5 + Derik Queen 10+ pr,2,0.5856,0.4556,2.19,2.3,2.07,-0.0557,0.998,1.85-2.10
-GSW @ NOP,Yaxel Lendeborg pts under 23.5 + Georges Niang 5+ pr,2,0.5732,0.4515,2.21,2.33,2.08,-0.0603,0.997,1.85-2.10
-GSW @ NOP,Derik Queen 19+ pra + Georges Niang 5+ pr,2,0.6516,0.4812,2.08,2.18,1.95,-0.0606,1.004,1.85-2.10
-GSW @ NOP,GSW win + Georges Niang 5+ pr,2,0.6537,0.519,1.93,2.02,1.78,-0.075,1.006,1.65-1.85
-GSW @ NOP,GSW win + Derik Queen 10+ pr,2,0.6565,0.5049,1.98,2.08,1.82,-0.0805,0.994,1.65-1.85
-GSW @ NOP,GSW win + Yves Missi 4+ reb,2,0.6341,0.5071,1.97,2.07,1.81,-0.0833,0.999,1.65-1.85
-GSW @ NOP,Yves Missi 1+ blk + Jeremiah Fears 1+ 3pm,2,0.6566,0.5833,1.71,1.8,1.53,-0.109,0.997,1.50-1.65
-GSW @ NOP,Derik Queen 10+ pr + Yves Missi 5+ pa + Jeremiah Fears 1+ 3pm,3,0.6396,0.5231,1.91,2.01,1.63,-0.147,1.006,1.50-1.65
-GSW @ NOP,Derik Queen 10+ pr + Yves Missi 1+ blk + Will Richard 5+ pr,3,0.6904,0.5523,1.81,1.9,1.54,-0.1472,1.001,1.50-1.65
+GSW @ NOP,Derik Queen 11+ pts + Draymond Green 4+ ast,2,0.5457,0.4056,2.47,2.59,2.38,-0.0342,1.005,2.10-2.50
+GSW @ NOP,Derik Queen 11+ pts + Yves Missi 5+ pa,2,0.5236,0.4054,2.47,2.59,2.36,-0.0421,1.005,2.10-2.50
+GSW @ NOP,Derik Queen 11+ pts + Jeremiah Fears 1+ 3pm,2,0.4909,0.3877,2.58,2.71,2.47,-0.0422,1.009,2.10-2.50
+GSW @ NOP,Will Richard 5+ pts + Draymond Green 4+ ast,2,0.6527,0.4529,2.21,2.32,2.09,-0.0549,1.003,1.85-2.10
+GSW @ NOP,De'Anthony Melton pts under 13.5 + Derik Queen 10+ pr,2,0.5856,0.4551,2.2,2.31,2.07,-0.0575,0.998,1.85-2.10
+GSW @ NOP,Yaxel Lendeborg pts under 23.5 + Georges Niang 5+ pr,2,0.5732,0.452,2.21,2.32,2.08,-0.0605,0.997,1.85-2.10
+GSW @ NOP,GSW win + Georges Niang 5+ pr,2,0.6537,0.5195,1.92,2.02,1.78,-0.0751,1.006,1.65-1.85
+GSW @ NOP,GSW win + Derik Queen 10+ pr,2,0.6565,0.5053,1.98,2.08,1.82,-0.0807,0.994,1.65-1.85
+GSW @ NOP,GSW win + Saddiq Bey 1+ 3pm,2,0.6417,0.5076,1.97,2.07,1.8,-0.0866,0.993,1.65-1.85
+GSW @ NOP,Yves Missi 1+ blk + Jeremiah Fears 1+ 3pm,2,0.6566,0.5823,1.72,1.8,1.53,-0.1089,0.997,1.50-1.65
+GSW @ NOP,Derik Queen 15+ pra + Yves Missi 5+ pa + Georges Niang 5+ pr,3,0.6812,0.5246,1.91,2.0,1.64,-0.1383,1.003,1.50-1.65
+GSW @ NOP,Derik Queen 10+ pr + Yves Missi 5+ pa + Jeremiah Fears 1+ 3pm,3,0.6396,0.5201,1.92,2.02,1.64,-0.1461,1.006,1.50-1.65
 PHX @ DEN,Nikola Jokic 47+ pra + DEN win,2,0.437,0.4158,2.41,2.53,2.41,0.0019,1.046,2.10-2.50
 PHX @ DEN,Collin Gillespie 3pm under 2.5 + DEN win,2,0.5594,0.4553,2.2,2.31,2.17,-0.0132,1.02,2.10-2.50
 PHX @ DEN,DEN win + Miles Bridges pa under 17.5,2,0.4589,0.4263,2.35,2.46,2.3,-0.0177,1.047,2.10-2.50

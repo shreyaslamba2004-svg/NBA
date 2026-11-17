@@ -1644,3 +1644,6 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-17T00:35Z,GSW@NOP,24,False,none
 2026-11-17T00:40Z,POR@MIN,19,False,espn
 2026-11-17T00:40Z,GSW@NOP,19,False,espn
+2026-11-17T00:45Z,POR@MIN,14,False,espn
+2026-11-17T00:45Z,GSW@NOP,14,False,espn
+2026-11-17T00:45Z,PHX@DEN,74,False,none
