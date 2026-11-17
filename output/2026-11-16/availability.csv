@@ -2,100 +2,100 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909997,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,,,
 401909997,BKN,905101761,Mikel Brown Jr.,Active,,1.0,,,
 401909997,BKN,1641730,Noah Clowney,Active,,1.0,,,
-401909997,BKN,1642856,Egor Demin,Starting,,1.0,,,1.0
+401909997,BKN,1642856,Egor Demin,Active,,1.0,,,
 401909997,BKN,1631165,Keon Ellis,Active,,1.0,,,
 401909997,BKN,904870564,Joshua Jefferson,Out,GLeague-OnAssignment,0.0,,,
 401909997,BKN,905174655,Chaney Johnson,Active,,1.0,,,
 401909997,BKN,1629611,Terance Mann,Active,,1.0,,,
 401909997,BKN,1631169,Josh Minott,Active,,1.0,,,
 401909997,BKN,1641761,Grant Nelson,Out,GLeague-Two-Way,0.0,,,
-401909997,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
+401909997,BKN,1629008,Michael Porter Jr.,Active,,1.0,,,
 401909997,BKN,1642962,Drake Powell,Out,GLeague-OnAssignment,0.0,,,
-401909997,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
+401909997,BKN,203944,Julius Randle,Active,,1.0,,,
 401909997,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909997,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
-401909997,BKN,1642849,Nolan Traore,Starting,,1.0,,,1.0
+401909997,BKN,1630549,Day'Ron Sharpe,Active,,1.0,,,
+401909997,BKN,1642849,Nolan Traore,Active,,1.0,,,
 401909997,BKN,1629021,Moritz Wagner,Active,,1.0,,,
 401909997,BKN,1642874,Danny Wolf,Active,,1.0,,,
 401909997,PHI,1631230,Dominick Barlow,Out,,0.0,"Barlow (back) will be re-evaluated later in the week and is thought to be nearing his 2026-27 season debut, Tony Jones of The Athletic reports.",,
 401909997,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,"Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",,
-401909997,PHI,1627759,Jaylen Brown,Starting,,1.0,,,1.0
+401909997,PHI,1627759,Jaylen Brown,,,1.0,,,
 401909997,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909997,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
+401909997,PHI,1642845,VJ Edgecombe,,,1.0,,,
 401909997,PHI,1642348,Justin Edwards,,,1.0,,,
-401909997,PHI,203954,Joel Embiid,Starting,,1.0,,,1.0
+401909997,PHI,203954,Joel Embiid,Available,,1.0,,,
 401909997,PHI,1629605,Tacko Fall,,,1.0,,,
 401909997,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
 401909997,PHI,2544,LeBron James,Out,,0.0,James (back) has been ruled out for Monday's game against the Nets.,,
 401909997,PHI,904433144,Caleb Love,,,1.0,,,
-401909997,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
+401909997,PHI,1630178,Tyrese Maxey,,,1.0,,,
 401909997,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909997,PHI,1641712,Rayan Rupert,,,1.0,,,
 401909997,PHI,1629014,Anfernee Simons,,,1.0,,,
-401909997,PHI,1629731,Dean Wade,Starting,,1.0,,,1.0
+401909997,PHI,1629731,Dean Wade,,,1.0,,,
 401909997,PHI,1631133,Jabari Walker,,,1.0,,,
-401909998,MIA,1628389,Bam Adebayo,Starting,,1.0,,,1.0
-401909998,MIA,203507,Giannis Antetokounmpo,Starting,,1.0,,,1.0
+401909998,MIA,1628389,Bam Adebayo,,,1.0,,,
+401909998,MIA,203507,Giannis Antetokounmpo,,,1.0,,,
 401909998,MIA,905107157,Ryan Conwell,,,1.0,,,
 401909998,MIA,904837356,Tre Donaldson,,,1.0,,,
 401909998,MIA,1631323,Simone Fontecchio,,,1.0,,,
-401909998,MIA,1642066,Myron Gardner,Starting,,1.0,,,1.0
+401909998,MIA,1642066,Myron Gardner,,,1.0,,,
 401909998,MIA,1642884,Vladislav Goldin,Out,GLeague-Two-Way,0.0,,,
 401909998,MIA,203501,Tim Hardaway Jr.,,,1.0,,,
 401909998,MIA,1642352,Keshad Johnson,,,1.0,,,
 401909998,MIA,1631107,Nikola Jovic,Out,Injury/Illness-Illness,0.0,Jovic (illness) is out for Monday's game against Houston.,,
 401909998,MIA,1641796,Pelle Larsson,Out,Injury/Illness-Illness,0.0,"Larsson won't play in Monday's game against the Rockets due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",,
-401909998,MIA,1630558,Davion Mitchell,Starting,,1.0,,,1.0
+401909998,MIA,1630558,Davion Mitchell,,,1.0,,,
 401909998,MIA,1626171,Bobby Portis,,,1.0,,,
 401909998,MIA,1630208,Nick Richards,,,1.0,,,
 401909998,MIA,1630696,Dru Smith,,,1.0,,,
-401909998,MIA,202691,Klay Thompson,Starting,Injury/Illness-LeftAnkleSprain,1.0,,,1.0
+401909998,MIA,202691,Klay Thompson,Available,Injury/Illness-LeftAnkleSprain,1.0,,,
 401909998,MIA,203952,Andrew Wiggins,,,1.0,,,
 401909998,HOU,203500,Steven Adams,Out,,0.0,Adams (calf) is out for Monday's game against the Heat.,,
 401909998,HOU,203992,Bogdan Bogdanovic,,,1.0,,,
 401909998,HOU,203991,Clint Capela,Out,Injury/Illness-RightAnkleSprain,0.0,Capela (ankle) is out for Monday's game against the Heat.,,
 401909998,HOU,904683860,Quadir Copeland,Out,GLeague-Two-Way,0.0,,,
 401909998,HOU,1642384,Isaiah Crawford,,,1.0,,,
-401909998,HOU,201142,Kevin Durant,Starting,,1.0,,,1.0
-401909998,HOU,1631106,Tari Eason,Starting,,1.0,,,1.0
+401909998,HOU,201142,Kevin Durant,,,1.0,,,
+401909998,HOU,1631106,Tari Eason,,,1.0,,,
 401909998,HOU,1641763,Julian Phillips,Out,GLeague-Two-Way,0.0,Phillips (illness) is available for Wednesday's game against Dallas.,,
-401909998,HOU,1630578,Alperen Sengun,Starting,,1.0,,,1.0
+401909998,HOU,1630578,Alperen Sengun,,,1.0,,,
 401909998,HOU,1642263,Reed Sheppard,,,1.0,,,
 401909998,HOU,203935,Marcus Smart,Out,LeagueSuspension,0.0,"Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",,
-401909998,HOU,1631095,Jabari Smith Jr.,Starting,,1.0,,,1.0
+401909998,HOU,1631095,Jabari Smith Jr.,,,1.0,,,
 401909998,HOU,1630256,Jae'Sean Tate,,,1.0,,,
-401909998,HOU,1641708,Amen Thompson,Out,Injury/Illness-LeftKneeSoreness,0.0,Thompson (knee) is out for Monday's game against the Heat.,,0.0
+401909998,HOU,1641708,Amen Thompson,Out,Injury/Illness-LeftKneeSoreness,0.0,Thompson (knee) is out for Monday's game against the Heat.,,
 401909998,HOU,905105837,Bruce Thornton,,,1.0,,,
 401909998,HOU,1631131,Oscar Tshiebwe,,,1.0,,,
-401909998,HOU,1627832,Fred VanVleet,Starting,,1.0,,,1.0
-401909999,MIN,1630163,LaMelo Ball,,,1.0,,,
+401909998,HOU,1627832,Fred VanVleet,,,1.0,,,
+401909999,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
 401909999,MIN,1642866,Joan Beringer,Available,Injury/Illness-FaceMask,1.0,,,
 401909999,MIN,1641780,Johni Broome,,,1.0,,,
 401909999,MIN,1641740,Jaylen Clark,Out,Injury/Illness-RightHamstringStrain,0.0,Clark (hamstring) has been ruled out for the next two weeks.,,
 401909999,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",,
-401909999,MIN,1630245,Ayo Dosunmu,,,1.0,,,
+401909999,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
 401909999,MIN,1630162,Anthony Edwards,Out,,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909999,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909999,MIN,203497,Rudy Gobert,,,1.0,,,
+401909999,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
 401909999,MIN,1630538,Bones Hyland,,,1.0,,,
-401909999,MIN,1630228,Jonathan Kuminga,,,1.0,,,
+401909999,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
 401909999,MIN,1626168,Trey Lyles,,,1.0,,,
-401909999,MIN,1630183,Jaden McDaniels,,,1.0,,,
+401909999,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
 401909999,MIN,1642389,Zyon Pullin,,,1.0,,,
 401909999,MIN,1630545,Terrence Shannon Jr.,,,1.0,,,
 401909999,MIN,904895758,Cody Williams,,,1.0,,,
 401909999,MIN,1642911,Rocco Zikarsky,,,1.0,,,
-401909999,POR,1630166,Deni Avdija,,,1.0,,,
-401909999,POR,1641739,Toumani Camara,,,1.0,,,
+401909999,POR,1630166,Deni Avdija,Starting,,1.0,,,1.0
+401909999,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
 401909999,POR,904592435,Branden Carlson,,,1.0,,,
-401909999,POR,1631321,Sidy Cissoko,,,1.0,,,
-401909999,POR,1642270,Donovan Clingan,,,1.0,,,
+401909999,POR,1631321,Sidy Cissoko,Starting,,1.0,,,1.0
+401909999,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
 401909999,POR,1642905,Yang Hansen,,,1.0,,,
 401909999,POR,1630703,Scoot Henderson,,,1.0,,,
 401909999,POR,201950,Jrue Holiday,,,1.0,,,
 401909999,POR,1643257,Jayson Kent,,,1.0,,,
 401909999,POR,1630249,Vit Krejci,Out,Injury/Illness-LeftAnkleFracture,0.0,"Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",,
-401909999,POR,203081,Damian Lillard,,,1.0,,,
+401909999,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
 401909999,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant ""may not be out for as long as we thought,"" Trail Blazers Insider Sean Highkin reports.",,
 401909999,POR,1630695,Micah Potter,,,1.0,,,
 401909999,POR,1631101,Shaedon Sharpe,Out,Injury/Illness-RightKneeSurgery,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
