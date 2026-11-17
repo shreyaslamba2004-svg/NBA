@@ -4,30 +4,34 @@ NYK @ TOR,Miles McBride 3pm under 1.5 + Karl-Anthony Towns 8+ reb,2,0.6566,0.422
 NYK @ TOR,Miles McBride 3pm under 1.5 + Josh Hart 10+ pr,2,0.6001,0.3916,2.55,2.68,2.45,-0.0396,0.998,2.10-2.50
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Scottie Barnes 4+ ast,2,0.6435,0.4624,2.16,2.27,2.01,-0.0697,0.996,1.85-2.10
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Karl-Anthony Towns 6+ reb,2,0.7457,0.5683,1.76,1.85,1.62,-0.0768,1.0,1.50-1.65
-NYK @ TOR,NYK win + OG Anunoby 15+ pr,2,0.5508,0.4854,2.06,2.16,1.9,-0.0769,1.023,1.85-2.10
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jamal Shead 5+ pa,2,0.7345,0.5559,1.8,1.89,1.66,-0.077,0.998,1.65-1.85
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + RJ Barrett 4+ reb,2,0.6117,0.4692,2.13,2.24,1.97,-0.0777,1.0,1.85-2.10
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jalen Brunson 1+ 3pm,2,0.7015,0.5385,1.86,1.95,1.71,-0.0777,1.0,1.65-1.85
+NYK @ TOR,NYK win + Josh Hart 10+ pr,2,0.5359,0.4668,2.14,2.25,1.97,-0.0787,1.018,1.85-2.10
 NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Collin Murray-Boyles 5+ pa,2,0.7323,0.5622,1.78,1.87,1.64,-0.0794,0.999,1.50-1.65
-NYK @ TOR,NYK win + OG Anunoby 15+ pra,2,0.5812,0.5089,1.96,2.06,1.81,-0.0796,1.019,1.65-1.85
+NYK @ TOR,NYK win + OG Anunoby 15+ pra,2,0.5812,0.5119,1.95,2.05,1.8,-0.0806,1.019,1.65-1.85
 NYK @ TOR,Josh Hart 3pm under 1.5 + Jamal Shead 5+ pa,2,0.6738,0.557,1.8,1.88,1.63,-0.094,1.0,1.50-1.65
-DET @ SAS,Ausar Thompson 15+ pa + Paul Reed 15+ pr,2,0.486,0.3853,2.6,2.73,2.42,-0.0673,1.014,2.10-2.50
-DET @ SAS,Victor Wembanyama pr under 40.5 + Daniss Jenkins 10+ pr,2,0.6148,0.4486,2.23,2.34,2.08,-0.0686,0.999,1.85-2.10
-DET @ SAS,Victor Wembanyama pr under 40.5 + Paul Reed 15+ pr,2,0.5437,0.3863,2.59,2.72,2.41,-0.0689,0.994,2.10-2.50
-DET @ SAS,Daniss Jenkins 22+ pra + Paul Reed 15+ pr,2,0.5276,0.4126,2.42,2.54,2.26,-0.0689,1.014,2.10-2.50
-DET @ SAS,Victor Wembanyama pr under 40.5 + Daniss Jenkins 10+ pa,2,0.6243,0.4627,2.16,2.27,2.01,-0.0721,0.999,1.85-2.10
-DET @ SAS,Victor Wembanyama pra under 43.5 + Daniss Jenkins 10+ pr,2,0.6009,0.4467,2.24,2.35,2.08,-0.0724,1.0,1.85-2.10
-DET @ SAS,SAS win + Keldon Johnson 10+ pr,2,0.5498,0.5763,1.74,1.82,1.61,-0.0727,1.018,1.50-1.65
-DET @ SAS,SAS win + Devin Vassell 10+ pr,2,0.5671,0.6059,1.65,1.73,1.52,-0.0792,1.015,1.50-1.65
-DET @ SAS,Dylan Harper ra under 10.5 + Daniss Jenkins 10+ pa,2,0.6089,0.4943,2.02,2.12,1.84,-0.0904,0.998,1.65-1.85
-DET @ SAS,SAS win + Paul Reed 15+ pr,2,0.5476,0.5591,1.79,1.88,1.61,-0.0975,0.986,1.50-1.65
-DET @ SAS,SAS win + Keldon Johnson 10+ pr + Paul Reed 10+ pr,3,0.5306,0.5191,1.93,2.02,1.69,-0.125,1.014,1.65-1.85
-DET @ SAS,SAS win + Keldon Johnson 10+ pr + Daniss Jenkins 10+ pr,3,0.5131,0.498,2.01,2.11,1.75,-0.1285,1.009,1.65-1.85
-CHA @ LAL,LAL win + Luka Doncic 36+ pts,2,0.3668,0.3966,2.52,2.65,2.46,-0.0239,1.071,2.10-2.50
-CHA @ LAL,Ziaire Williams 8+ pts + LAL win,2,0.4147,0.4027,2.48,2.61,2.42,-0.0244,1.047,2.10-2.50
-CHA @ LAL,Ziaire Williams 1+ 3pm + LAL win,2,0.5033,0.5064,1.97,2.07,1.86,-0.0556,1.016,1.85-2.10
-CHA @ LAL,Sandro Mamukelashvili pts under 13.5 + Luka Doncic 2+ 3pm,2,0.6602,0.4663,2.14,2.25,2.02,-0.0593,0.999,1.85-2.10
-CHA @ LAL,LAL win + Jake LaRavia 1+ 3pm,2,0.3976,0.4302,2.32,2.44,2.16,-0.0705,1.019,2.10-2.50
-CHA @ LAL,LAL win + Luka Doncic 3+ 3pm,2,0.5257,0.588,1.7,1.79,1.57,-0.0796,1.017,1.50-1.65
-CHA @ LAL,Ziaire Williams 1+ 3pm + Luka Doncic 3+ 3pm,2,0.6584,0.5417,1.85,1.94,1.68,-0.0876,1.0,1.65-1.85
-CHA @ LAL,Quentin Grimes pts under 12.5 + Luka Doncic 2+ 3pm,2,0.5761,0.4522,2.21,2.32,2.02,-0.0878,0.994,1.85-2.10
+DET @ SAS,Victor Wembanyama pr under 40.5 + Daniss Jenkins 10+ pr,2,0.6148,0.441,2.27,2.38,2.12,-0.0648,0.999,2.10-2.50
+DET @ SAS,Victor Wembanyama pr under 40.5 + Ausar Thompson 10+ pa,2,0.5669,0.405,2.47,2.59,2.3,-0.0667,0.997,2.10-2.50
+DET @ SAS,Victor Wembanyama pr under 40.5 + Paul Reed 10+ pr,2,0.6317,0.4586,2.18,2.29,2.03,-0.0679,0.999,1.85-2.10
+DET @ SAS,Victor Wembanyama pts under 28.5 + Daniss Jenkins 10+ pr,2,0.6244,0.4582,2.18,2.29,2.03,-0.0686,1.001,1.85-2.10
+DET @ SAS,Victor Wembanyama pr under 40.5 + Paul Reed 4+ reb,2,0.6148,0.4517,2.21,2.32,2.06,-0.0687,1.0,1.85-2.10
+DET @ SAS,Victor Wembanyama pr under 40.5 + Cade Cunningham 20+ pr,2,0.5831,0.4252,2.35,2.47,2.19,-0.0691,0.998,2.10-2.50
+DET @ SAS,SAS win + Keldon Johnson 10+ pr,2,0.5498,0.5809,1.72,1.81,1.6,-0.0724,1.018,1.50-1.65
+DET @ SAS,Dylan Harper ra under 10.5 + Paul Reed 10+ pr,2,0.6172,0.496,2.02,2.12,1.84,-0.0872,1.0,1.65-1.85
+DET @ SAS,Keldon Johnson 10+ pr + John Collins 15+ pra,2,0.6545,0.5712,1.75,1.84,1.57,-0.1019,1.002,1.50-1.65
+DET @ SAS,SAS win + Ausar Thompson 10+ pa,2,0.5662,0.5918,1.69,1.77,1.51,-0.1051,0.98,1.50-1.65
+DET @ SAS,SAS win + Keldon Johnson 10+ pr + Paul Reed 10+ pr,3,0.5306,0.522,1.92,2.01,1.68,-0.1244,1.014,1.65-1.85
+DET @ SAS,SAS win + Keldon Johnson 10+ pr + Paul Reed 4+ reb,3,0.5161,0.5138,1.95,2.04,1.7,-0.1256,1.015,1.65-1.85
+CHA @ LAL,Sandro Mamukelashvili reb under 7.5 + LAL win,2,0.5096,0.4052,2.47,2.59,2.44,-0.0106,1.008,2.10-2.50
+CHA @ LAL,LAL win + Coby White pa under 17.5,2,0.3919,0.4073,2.46,2.58,2.4,-0.0206,1.066,2.10-2.50
+CHA @ LAL,Ziaire Williams 8+ pts + LAL win,2,0.4147,0.4008,2.49,2.62,2.43,-0.0252,1.047,2.10-2.50
+CHA @ LAL,Sandro Mamukelashvili reb under 7.5 + Brandon Miller 10+ pa,2,0.7727,0.5023,1.99,2.09,1.92,-0.0362,1.001,1.85-2.10
+CHA @ LAL,Sandro Mamukelashvili reb under 7.5 + Grayson Allen 10+ pra,2,0.7756,0.4996,2.0,2.1,1.93,-0.0363,0.999,1.85-2.10
+CHA @ LAL,Sandro Mamukelashvili reb under 7.5 + Brandon Miller 10+ pts,2,0.7269,0.471,2.12,2.23,2.05,-0.0364,1.0,1.85-2.10
+CHA @ LAL,Ziaire Williams 1+ 3pm + LAL win,2,0.5033,0.5081,1.97,2.07,1.85,-0.0613,1.016,1.65-1.85
+CHA @ LAL,LAL win + Luka Doncic 6+ ast,2,0.5147,0.5833,1.71,1.8,1.58,-0.0785,1.021,1.50-1.65
+CHA @ LAL,LAL win + Luka Doncic 3+ 3pm,2,0.5257,0.5865,1.71,1.79,1.57,-0.0792,1.017,1.50-1.65
+CHA @ LAL,LAL win + Quentin Grimes 1+ 3pm,2,0.5118,0.5784,1.73,1.82,1.58,-0.0854,1.013,1.50-1.65
+CHA @ LAL,Sandro Mamukelashvili ast under 2.5 + Grayson Allen 10+ pra,2,0.6721,0.5472,1.83,1.92,1.66,-0.0901,1.001,1.65-1.85
+CHA @ LAL,Sandro Mamukelashvili ast under 2.5 + Brandon Miller 10+ pts,2,0.6286,0.5148,1.94,2.04,1.76,-0.092,1.0,1.65-1.85
