@@ -1,6 +1,6 @@
 # NBA model · Tue 17 Nov 2026 (US date)
 
-Updated **Wed 18 Nov, 09:46 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-17/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 18 Nov, 09:56 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-17/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -10,9 +10,7 @@ All automatic checks passed (team minutes, player minutes vs recent games, team 
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
-| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| TOR to win | NYK @ TOR | draftkings | 2.50 | 2.35 | 2.84 | 35.3% | 42.6% | 42.6% | +6.6% | -11.8% | 1.1% |
+_No bets clear the edge threshold right now._
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
@@ -34,7 +32,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| NYK @ TOR | Wed 18 Nov 11:30 | 112.7–106.8 | NYK 66% | 1.51 / 2.94 | TOR +5.5 | 219.5 | TOR +4.5 covers 46%; o214.5 60% |
+| NYK @ TOR | Wed 18 Nov 11:30 | 112.7–106.8 | NYK 66% | 1.51 / 2.94 | TOR +5.5 | 219.5 | TOR +2.5 covers 40%; o214.5 60% |
 | POR @ MIN | Wed 18 Nov 12:00 | 108.0–112.5 | POR 37% | 2.70 / 1.59 | MIN -4.5 | 220.5 | MIN -2.5 covers 57%; o225.5 39% |
 | DET @ SAS | Wed 18 Nov 12:00 | 107.4–113.5 | DET 33% | 3.03 / 1.49 | SAS -6.5 | 220.5 | SAS -9.5 covers 41%; o221.5 49% |
 | CHA @ LAL | Wed 18 Nov 15:00 | 107.4–111.9 | CHA 38% | 2.66 / 1.60 | LAL -4.5 | 219.5 | LAL -7.5 covers 42%; o222.5 43% |
@@ -45,9 +43,9 @@ Out: Kawhi Leonard (TOR), Malachi Smith (TOR)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 112.7–106.8 | NYK 66% | 1.51 / 2.94 | TOR +5.5 | 219.5 | TOR +4.5 covers 46%; o214.5 60% |
-| Expected (weighted by chance each plays) | 112.6–107.2 | NYK 65% | 1.54 / 2.84 | TOR +5.5 | 219.5 | TOR +4.5 covers 47%; o214.5 61% |
-| if Scottie Barnes plays | 112.5–107.5 | NYK 64% | 1.57 / 2.75 | TOR +4.5 | 219.5 | TOR +4.5 covers 49%; o214.5 61% |
+| Confirmed players only | 112.7–106.8 | NYK 66% | 1.51 / 2.94 | TOR +5.5 | 219.5 | TOR +2.5 covers 40%; o214.5 60% |
+| Expected (weighted by chance each plays) | 112.6–107.2 | NYK 65% | 1.54 / 2.84 | TOR +5.5 | 219.5 | TOR +2.5 covers 41%; o214.5 61% |
+| if Scottie Barnes plays | 112.5–107.5 | NYK 64% | 1.57 / 2.75 | TOR +4.5 | 219.5 | TOR +2.5 covers 42%; o214.5 61% |
 
 **Questionable players: chance to play, and their projection if they do**
 

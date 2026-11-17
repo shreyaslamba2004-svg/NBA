@@ -2,7 +2,6 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,1480.0,15.8,0.1279,7.82,0.0592,0.0592,0.0688,,1.021,0.0697,0.1019,0.0017,False,True,False,Scottie Barnes,0.0,0.1294
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,2400.0,25.0,0.0793,12.61,0.0374,0.0374,0.0419,,0.9818,0.0438,0.0959,0.001,False,False,False,Scottie Barnes,0.0,0.0808
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,8.5,draftkings,850.0,9.5,0.1996,5.01,0.0984,0.0984,0.1013,,0.8965,0.114,0.0827,0.0024,False,False,False,Scottie Barnes,0.0,0.203
-401910002,NYK @ TOR,moneyline,TOR,,,,draftkings,150.0,2.5,0.3526,2.84,0.384,0.4262,-0.0735,4.16,-0.1184,0.4262,0.0655,0.0109,False,True,True,,,
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,7.5,draftkings,461.0,5.61,0.2975,3.36,0.1666,0.1666,0.131,,0.6692,0.1868,0.0477,0.0026,False,True,False,Scottie Barnes,0.0,0.3033
 401910004,DET @ SAS,prop_pts,over,Paul Reed,1630194.0,19.5,draftkings,870.0,9.7,0.17,5.88,0.0963,0.0963,0.0736,,0.6488,0.1077,0.0446,0.0013,False,True,False,,,
 401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,12.5,draftkings,1120.0,12.2,0.1297,7.71,0.0766,0.0766,0.0531,,0.5819,0.0848,0.0343,0.0008,False,False,False,,,
