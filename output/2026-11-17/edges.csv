@@ -10,25 +10,24 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910003,POR @ MIN,prop_pra,under,Terrence Shannon Jr.,1630545.0,22.5,draftkings,-114.0,1.88,0.8196,1.22,0.4979,0.4979,0.3217,,0.5386,0.5474,0.0276,0.0079,True,True,True,Jonathan Kuminga,0.769,0.8386
 401910002,NYK @ TOR,prop_fg3m,under,Miles McBride,1630540.0,1.5,draftkings,109.0,2.09,0.7267,1.38,0.4472,0.4472,0.2795,,0.5187,0.4902,0.0245,0.0056,True,True,True,,,
 401910003,POR @ MIN,prop_pa,under,Terrence Shannon Jr.,1630545.0,18.5,draftkings,-115.0,1.87,0.8085,1.24,0.4999,0.4999,0.3086,,0.5115,0.5474,0.0234,0.0067,True,True,True,Jonathan Kuminga,0.7619,0.8267
-401910005,CHA @ LAL,prop_pr,under,Sandro Mamukelashvili,1630572.0,20.5,draftkings,-104.0,1.96,0.7584,1.32,0.4765,0.4765,0.282,,0.4877,0.5199,0.0198,0.0051,True,True,True,,,
 401910003,POR @ MIN,prop_pr,under,Terrence Shannon Jr.,1630545.0,19.5,draftkings,-117.0,1.85,0.7997,1.25,0.5039,0.5039,0.2958,,0.4833,0.5495,0.0191,0.0056,True,True,True,Jonathan Kuminga,0.7463,0.8186
 401910003,POR @ MIN,prop_pts,under,Terrence Shannon Jr.,1630545.0,15.5,draftkings,-113.0,1.88,0.7838,1.28,0.4958,0.4958,0.288,,0.4774,0.5402,0.0182,0.0051,True,True,True,Jonathan Kuminga,0.7358,0.8014
 401910003,POR @ MIN,prop_ast,over,Scoot Henderson,1630703.0,4.5,draftkings,1040.0,11.4,0.1291,7.75,0.082,0.082,0.0471,,0.4719,0.0892,0.0173,0.0004,False,False,False,,,
 401910004,DET @ SAS,prop_pa,over,Cade Cunningham,1630595.0,54.5,draftkings,2100.0,22.0,0.0666,15.03,0.0425,0.0425,0.0241,,0.4641,0.0462,0.0161,0.0002,False,True,False,,,
-401910005,CHA @ LAL,prop_reb,under,Sandro Mamukelashvili,1630572.0,6.5,draftkings,103.0,2.03,0.7151,1.4,0.4604,0.4604,0.2548,,0.4518,0.4996,0.0142,0.0035,True,True,True,,,
 401910003,POR @ MIN,prop_ra,under,Terrence Shannon Jr.,1630545.0,6.5,draftkings,-107.0,1.93,0.7467,1.34,0.4838,0.4838,0.2629,6.85,0.4446,0.5243,0.0142,0.0038,True,False,True,Jonathan Kuminga,0.6905,0.7681
+401910005,CHA @ LAL,prop_reb,under,Sandro Mamukelashvili,1630572.0,6.5,draftkings,103.0,2.03,0.7151,1.4,0.4604,0.4604,0.2548,,0.4518,0.4996,0.0142,0.0035,True,True,True,,,
 401910004,DET @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,7.5,draftkings,1300.0,14.0,0.1033,9.68,0.0668,0.0668,0.0365,,0.4459,0.0724,0.0133,0.0003,False,True,False,,,
 401910002,NYK @ TOR,prop_ast,over,Jamal Shead,1642347.0,6.5,draftkings,398.0,4.98,0.29,3.45,0.1877,0.1877,0.1023,,0.444,0.2034,0.013,0.0008,False,False,False,,,
 401910003,POR @ MIN,prop_ast,under,Terrence Shannon Jr.,1630545.0,2.5,draftkings,109.0,2.09,0.6905,1.45,0.4472,0.4472,0.2433,,0.4431,0.4846,0.0129,0.003,True,True,True,Jonathan Kuminga,0.6458,0.7035
 401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,3.5,draftkings,452.0,5.52,0.2595,3.85,0.1693,0.1693,0.0902,,0.4323,0.1832,0.0112,0.0006,False,True,False,,,
 401910004,DET @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,6.5,draftkings,700.0,8.0,0.1784,5.6,0.1168,0.1168,0.0616,,0.4276,0.1263,0.0105,0.0004,False,True,False,,,
 401910005,CHA @ LAL,prop_pr,over,Luka Doncic,1629029.0,59.5,draftkings,680.0,7.8,0.1829,5.47,0.1198,0.1198,0.0631,,0.4269,0.1295,0.0104,0.0004,False,True,False,,,
+401910005,CHA @ LAL,prop_pr,under,Sandro Mamukelashvili,1630572.0,20.5,draftkings,-114.0,1.88,0.7584,1.32,0.4979,0.4979,0.2606,,0.4237,0.538,0.0099,0.0028,True,True,True,,,
 401910004,DET @ SAS,prop_pts,over,Cade Cunningham,1630595.0,44.5,draftkings,2100.0,22.0,0.0646,15.47,0.0425,0.0425,0.0221,,0.4217,0.0459,0.0096,0.0001,False,True,False,,,
-401910004,DET @ SAS,prop_pr,over,Cade Cunningham,1630595.0,49.5,draftkings,1740.0,18.4,0.0771,12.97,0.0508,0.0508,0.0263,,0.419,0.0548,0.0092,0.0001,False,True,False,,,
 401910004,DET @ SAS,prop_pts,over,Cade Cunningham,1630595.0,39.5,draftkings,1060.0,11.6,0.122,8.19,0.0806,0.0806,0.0415,,0.4155,0.087,0.0086,0.0002,False,True,False,,,
-401910005,CHA @ LAL,prop_pts,under,Sandro Mamukelashvili,1630572.0,13.5,draftkings,-102.0,1.98,0.708,1.41,0.4719,0.4719,0.2361,,0.4022,0.5083,0.0066,0.0017,True,True,True,,,
+401910004,DET @ SAS,prop_pr,over,Cade Cunningham,1630595.0,49.5,draftkings,1720.0,18.2,0.0771,12.97,0.0514,0.0514,0.0258,,0.4036,0.0553,0.0068,0.0001,False,True,False,,,
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,6.5,draftkings,221.0,3.21,0.4347,2.3,0.2911,0.2911,0.1436,,0.3955,0.3133,0.0056,0.0006,False,False,False,,,
+401910004,DET @ SAS,prop_pr,over,Cade Cunningham,1630595.0,44.5,draftkings,890.0,9.9,0.1409,7.1,0.0944,0.0944,0.0465,,0.3947,0.1016,0.0054,0.0002,False,True,False,,,
 401910005,CHA @ LAL,prop_reb,over,Matisse Thybulle,1629680.0,4.5,draftkings,525.0,6.25,0.2228,4.49,0.1495,0.1495,0.0733,,0.3925,0.1608,0.0051,0.0002,False,False,False,,,
 401910003,POR @ MIN,prop_ast,over,Scoot Henderson,1630703.0,3.5,draftkings,449.0,5.49,0.2516,3.98,0.1702,0.1702,0.0813,,0.3811,0.1828,0.0033,0.0002,False,True,False,,,
 401910003,POR @ MIN,prop_ast,over,Scoot Henderson,1630703.0,5.5,draftkings,2100.0,22.0,0.0624,16.02,0.0425,0.0425,0.0199,,0.3733,0.0456,0.0021,0.0,False,True,False,,,
-401910004,DET @ SAS,prop_pr,over,Cade Cunningham,1630595.0,44.5,draftkings,870.0,9.7,0.1409,7.1,0.0963,0.0963,0.0445,,0.3665,0.1032,0.0011,0.0,False,True,False,,,
