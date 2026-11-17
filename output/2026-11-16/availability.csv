@@ -1,48 +1,48 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909999,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
+401909999,MIN,1630163,LaMelo Ball,,,1.0,,,
 401909999,MIN,1642866,Joan Beringer,Available,Injury/Illness-FaceMask,1.0,,,
 401909999,MIN,1641780,Johni Broome,,,1.0,,,
 401909999,MIN,1641740,Jaylen Clark,Out,Injury/Illness-RightHamstringStrain,0.0,Clark (hamstring) has been ruled out for the next two weeks.,,
 401909999,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",,
-401909999,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
+401909999,MIN,1630245,Ayo Dosunmu,,,1.0,,,
 401909999,MIN,1630162,Anthony Edwards,Out,,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909999,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909999,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
+401909999,MIN,203497,Rudy Gobert,,,1.0,,,
 401909999,MIN,1630538,Bones Hyland,,,1.0,,,
-401909999,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
+401909999,MIN,1630228,Jonathan Kuminga,,,1.0,,,
 401909999,MIN,1626168,Trey Lyles,,,1.0,,,
-401909999,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
+401909999,MIN,1630183,Jaden McDaniels,,,1.0,,,
 401909999,MIN,1642389,Zyon Pullin,,,1.0,,,
 401909999,MIN,1630545,Terrence Shannon Jr.,,,1.0,,,
 401909999,MIN,904895758,Cody Williams,,,1.0,,,
 401909999,MIN,1642911,Rocco Zikarsky,,,1.0,,,
-401909999,POR,1630166,Deni Avdija,Starting,,1.0,,,1.0
-401909999,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
+401909999,POR,1630166,Deni Avdija,,,1.0,,,
+401909999,POR,1641739,Toumani Camara,,,1.0,,,
 401909999,POR,904592435,Branden Carlson,,,1.0,,,
-401909999,POR,1631321,Sidy Cissoko,Starting,,1.0,,,1.0
-401909999,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
+401909999,POR,1631321,Sidy Cissoko,,,1.0,,,
+401909999,POR,1642270,Donovan Clingan,,,1.0,,,
 401909999,POR,1642905,Yang Hansen,,,1.0,,,
 401909999,POR,1630703,Scoot Henderson,,,1.0,,,
 401909999,POR,201950,Jrue Holiday,,,1.0,,,
 401909999,POR,1643257,Jayson Kent,,,1.0,,,
 401909999,POR,1630249,Vit Krejci,Out,Injury/Illness-LeftAnkleFracture,0.0,"Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",,
-401909999,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
+401909999,POR,203081,Damian Lillard,,,1.0,,,
 401909999,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant ""may not be out for as long as we thought,"" Trail Blazers Insider Sean Highkin reports.",,
 401909999,POR,1630695,Micah Potter,,,1.0,,,
 401909999,POR,1631101,Shaedon Sharpe,Out,Injury/Illness-RightKneeSurgery,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
 401909999,POR,904593043,John Tonje,,,1.0,,,
 401909999,POR,1629057,Robert Williams III,,,1.0,,,
 401909999,POR,1642959,Chris Youngblood,Out,,0.0,Youngblood (foot) is out for Monday's game against the Timberwolves.,,
-401910000,NOP,1630180,Saddiq Bey,Starting,,1.0,,,1.0
+401910000,NOP,1630180,Saddiq Bey,,,1.0,,,
 401910000,NOP,904712862,Malik Dia,Available,GLeague-Two-Way,1.0,,,
-401910000,NOP,1642847,Jeremiah Fears,Starting,,1.0,,,1.0
+401910000,NOP,1642847,Jeremiah Fears,,,1.0,,,
 401910000,NOP,905170947,AJ Johnson,,,1.0,,,
-401910000,NOP,1630529,Herbert Jones,Starting,,1.0,,,1.0
+401910000,NOP,1630529,Herbert Jones,,,1.0,,,
 401910000,NOP,201599,DeAndre Jordan,,,1.0,,,
 401910000,NOP,1631097,Bennedict Mathurin,Out,Injury/Illness-LeftPlantarFasciitis,0.0,Mathurin (foot) has been ruled out for Monday's game against the Warriors.,,
 401910000,NOP,1631255,Karlo Matkovic,,,1.0,,,
 401910000,NOP,1631121,Bryce McGowens,Out,Injury/Illness-LeftElbowInfection,0.0,McGowens (elbow) has been ruled out for Monday's game against the Warriors.,,
-401910000,NOP,1642274,Yves Missi,Starting,,1.0,,,1.0
+401910000,NOP,1642274,Yves Missi,,,1.0,,,
 401910000,NOP,1630530,Trey Murphy III,Out,,0.0,Murphy (knees) has been ruled out for Monday's game against Golden State.,,
 401910000,NOP,1627749,Dejounte Murray,Out,Injury/Illness-LeftAnkleSprain,0.0,Murray (ankle) is out for Friday's game against Memphis.,,
 401910000,NOP,904703115,Jaron Pierre Jr.,Available,GLeague-Two-Way,1.0,,,
@@ -50,21 +50,21 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910000,NOP,1642852,Derik Queen,,,1.0,,,
 401910000,NOP,904683742,Julian Reese,Available,GLeague-Two-Way,1.0,,,
 401910000,NOP,1630570,Trendon Watford,Out,Injury/Illness-RightAnkleSprain,0.0,Watford (ankle) has been ruled out for Monday's game against Golden State.,,
-401910000,NOP,1629627,Zion Williamson,Starting,,1.0,,,1.0
+401910000,NOP,1629627,Zion Williamson,,,1.0,,,
 401910000,GSW,1629646,Charles Bassey,,,1.0,,,
 401910000,GSW,202710,Jimmy Butler III,Out,,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
-401910000,GSW,1643018,LJ Cryer,Starting,,1.0,,,1.0
+401910000,GSW,1643018,LJ Cryer,,,1.0,,,
 401910000,GSW,201939,Stephen Curry,Out,Injury/Illness-RightObliqueTear,0.0,"Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",,
-401910000,GSW,203110,Draymond Green,Starting,,1.0,,,1.0
-401910000,GSW,201143,Al Horford,Starting,,1.0,,,1.0
+401910000,GSW,203110,Draymond Green,,,1.0,,,
+401910000,GSW,201143,Al Horford,,,1.0,,,
 401910000,GSW,904703396,Graham Ike,,,1.0,,,
-401910000,GSW,905175737,Yaxel Lendeborg,Starting,,1.0,,,1.0
+401910000,GSW,905175737,Yaxel Lendeborg,,,1.0,,,
 401910000,GSW,1642502,Malevy Leons,,,1.0,,,
 401910000,GSW,1629001,De'Anthony Melton,,,1.0,,,
 401910000,GSW,1630541,Moses Moody,Out,,0.0,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",,
 401910000,GSW,1627777,Georges Niang,,,1.0,,,
 401910000,GSW,1627780,Gary Payton II,,,1.0,,,
-401910000,GSW,1641764,Brandin Podziemski,Starting,,1.0,,,1.0
+401910000,GSW,1641764,Brandin Podziemski,,,1.0,,,
 401910000,GSW,204001,Kristaps Porzingis,Out,NotWithTeam,0.0,Porzingis announced on his social media that he's stepping away from basketball.,,
 401910000,GSW,1642954,Will Richard,,,1.0,,,
 401910000,GSW,1630611,Gui Santos,Available,,1.0,,,
