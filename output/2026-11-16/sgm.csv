@@ -23,30 +23,30 @@ HOU @ MIA,Kevin Durant 4+ reb + Tari Eason 1+ 3pm,2,0.6908,0.5919,1.69,1.77,1.52
 HOU @ MIA,Fred VanVleet 15+ pa + Jabari Smith Jr. 1+ 3pm + Kevin Durant 4+ reb,3,0.6645,0.5034,1.99,2.09,1.72,-0.1354,1.004,1.65-1.85
 HOU @ MIA,Fred VanVleet 15+ pa + Kevin Durant 4+ reb + Andrew Wiggins 10+ pra,3,0.6265,0.4853,2.06,2.16,1.78,-0.138,1.006,1.65-1.85
 HOU @ MIA,Fred VanVleet 15+ pa + Kevin Durant 4+ reb + Alperen Sengun 6+ reb,3,0.6613,0.5094,1.96,2.06,1.69,-0.1388,1.003,1.65-1.85
-POR @ MIN,Damian Lillard pts under 20.5 + Jaden McDaniels 15+ pr,2,0.5109,0.4164,2.4,2.52,2.26,-0.0575,1.001,2.10-2.50
-POR @ MIN,Damian Lillard pts under 20.5 + Jaden McDaniels 10+ pts,2,0.5159,0.4225,2.37,2.49,2.23,-0.0578,1.001,2.10-2.50
+POR @ MIN,Damian Lillard pts under 20.5 + Jaden McDaniels 15+ pr,2,0.5109,0.4171,2.4,2.52,2.26,-0.0579,1.001,2.10-2.50
 POR @ MIN,Damian Lillard pts under 20.5 + Toumani Camara 5+ pa,2,0.5743,0.4684,2.13,2.24,2.01,-0.0588,0.999,1.85-2.10
-POR @ MIN,Damian Lillard pts under 20.5 + LaMelo Ball 2+ 3pm,2,0.5083,0.4155,2.41,2.53,2.26,-0.0596,0.999,2.10-2.50
+POR @ MIN,Bones Hyland pts under 10.5 + LaMelo Ball 1+ stl,2,0.4714,0.3854,2.59,2.72,2.44,-0.0596,1.007,2.10-2.50
+POR @ MIN,Damian Lillard pts under 20.5 + LaMelo Ball 2+ 3pm,2,0.5083,0.4176,2.39,2.51,2.25,-0.0604,0.999,2.10-2.50
 POR @ MIN,Damian Lillard pts under 20.5 + Scoot Henderson 5+ pr,2,0.5652,0.4636,2.16,2.26,2.02,-0.0612,0.998,1.85-2.10
 POR @ MIN,Bones Hyland pts under 10.5 + Scoot Henderson 5+ pr,2,0.5646,0.4615,2.17,2.27,2.02,-0.0655,1.0,1.85-2.10
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 10+ pts,2,0.6902,0.5331,1.88,1.97,1.73,-0.0781,1.002,1.65-1.85
 POR @ MIN,Sidy Cissoko 3pm under 1.5 + Toumani Camara 10+ pra,2,0.7293,0.5612,1.78,1.87,1.64,-0.0788,1.0,1.50-1.65
 POR @ MIN,Sidy Cissoko 3pm under 1.5 + Toumani Camara 5+ pa,2,0.7683,0.5911,1.69,1.78,1.56,-0.0792,1.0,1.50-1.65
-POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 15+ pr,2,0.682,0.5244,1.91,2.0,1.75,-0.0799,0.999,1.65-1.85
 POR @ MIN,Sidy Cissoko 3pm under 1.5 + Scoot Henderson 10+ pra,2,0.6635,0.5043,1.98,2.08,1.82,-0.08,0.996,1.65-1.85
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + Jaden McDaniels 15+ pr,2,0.682,0.5252,1.9,2.0,1.75,-0.0802,0.999,1.65-1.85
 POR @ MIN,Sidy Cissoko 3pm under 1.5 + Scoot Henderson 5+ pr,2,0.7564,0.5852,1.71,1.79,1.57,-0.0813,0.999,1.50-1.65
-GSW @ NOP,Derik Queen 11+ pts + Draymond Green 4+ ast,2,0.5445,0.4072,2.46,2.58,2.42,-0.0134,1.003,2.10-2.50
-GSW @ NOP,Derik Queen 11+ pts + Draymond Green 10+ pra,2,0.5864,0.4503,2.22,2.33,2.18,-0.0187,1.003,2.10-2.50
-GSW @ NOP,Derik Queen 11+ pts + Saddiq Bey 1+ 3pm,2,0.5662,0.4415,2.27,2.38,2.22,-0.0192,1.005,2.10-2.50
-GSW @ NOP,Jeremiah Fears 18+ pts + Draymond Green 5+ pr,2,0.4783,0.4519,2.21,2.32,2.09,-0.055,1.001,1.85-2.10
-GSW @ NOP,Derik Queen 19+ pra + Will Richard 5+ pr,2,0.6482,0.4628,2.16,2.27,2.04,-0.0569,1.001,1.85-2.10
-GSW @ NOP,Derik Queen 19+ pra + Draymond Green 10+ pra,2,0.6751,0.4861,2.06,2.16,1.94,-0.0574,1.002,1.85-2.10
-GSW @ NOP,GSW win + Draymond Green 10+ pra,2,0.6709,0.5235,1.91,2.01,1.77,-0.0731,1.005,1.65-1.85
-GSW @ NOP,GSW win + Georges Niang 5+ pr,2,0.6637,0.5197,1.92,2.02,1.78,-0.0748,1.004,1.65-1.85
-GSW @ NOP,GSW win + Draymond Green 5+ pr,2,0.6818,0.5358,1.87,1.96,1.72,-0.0761,1.003,1.65-1.85
-GSW @ NOP,Derik Queen 10+ pr + Will Richard 5+ pr + Zion Williamson 4+ reb,3,0.7167,0.5699,1.75,1.84,1.5,-0.1437,1.004,1.50-1.65
-GSW @ NOP,Derik Queen 4+ reb + Will Richard 5+ pr + Zion Williamson 4+ reb,3,0.6715,0.5411,1.85,1.94,1.58,-0.1452,1.005,1.50-1.65
-GSW @ NOP,Derik Queen 10+ pr + Will Richard 5+ pr + Jeremiah Fears 1+ 3pm,3,0.681,0.5494,1.82,1.91,1.55,-0.1471,1.003,1.50-1.65
+POR @ MIN,Sidy Cissoko 3pm under 1.5 + LaMelo Ball 2+ 3pm,2,0.6778,0.5252,1.9,2.0,1.74,-0.0838,0.996,1.65-1.85
+GSW @ NOP,Derik Queen 11+ pts + Draymond Green 4+ ast,2,0.5445,0.4067,2.46,2.58,2.43,-0.0131,1.003,2.10-2.50
+GSW @ NOP,Derik Queen 11+ pts + Saddiq Bey 1+ 3pm,2,0.5662,0.4421,2.26,2.38,2.22,-0.0195,1.005,2.10-2.50
+GSW @ NOP,Derik Queen 11+ pts + Jeremiah Fears 10+ pts,2,0.5603,0.4413,2.27,2.38,2.22,-0.0196,1.007,2.10-2.50
+GSW @ NOP,Georges Niang 8+ pts + Derik Queen 4+ reb,2,0.5224,0.4529,2.21,2.32,2.1,-0.0511,1.004,1.85-2.10
+GSW @ NOP,Georges Niang 8+ pts + Derik Queen 10+ pr,2,0.5567,0.4773,2.09,2.2,1.99,-0.0513,1.002,1.85-2.10
+GSW @ NOP,Georges Niang 8+ pts + Will Richard 5+ pr,2,0.5362,0.4625,2.16,2.27,2.04,-0.055,0.999,1.85-2.10
+GSW @ NOP,GSW win + Georges Niang 5+ pr,2,0.6637,0.5191,1.93,2.02,1.78,-0.0747,1.004,1.65-1.85
+GSW @ NOP,GSW win + Derik Queen 10+ pr,2,0.661,0.5059,1.98,2.08,1.82,-0.0787,0.995,1.65-1.85
+GSW @ NOP,GSW win + Saddiq Bey 1+ 3pm,2,0.6394,0.5073,1.97,2.07,1.8,-0.0858,0.994,1.65-1.85
+GSW @ NOP,Yves Missi 1+ blk + Jeremiah Fears 1+ 3pm,2,0.635,0.5807,1.72,1.81,1.53,-0.113,0.999,1.50-1.65
+GSW @ NOP,Will Richard 5+ pr + Derik Queen 4+ reb + Zion Williamson 4+ reb,3,0.6715,0.5423,1.84,1.94,1.58,-0.1457,1.005,1.50-1.65
+GSW @ NOP,Derik Queen 10+ pr + Will Richard 5+ pr + Jeremiah Fears 1+ 3pm,3,0.681,0.5489,1.82,1.91,1.55,-0.147,1.003,1.50-1.65
 PHX @ DEN,Nikola Jokic 47+ pra + DEN win,2,0.437,0.4158,2.41,2.53,2.41,0.0019,1.046,2.10-2.50
 PHX @ DEN,Collin Gillespie 3pm under 2.5 + DEN win,2,0.5594,0.4553,2.2,2.31,2.17,-0.0132,1.02,2.10-2.50
 PHX @ DEN,DEN win + Miles Bridges pa under 17.5,2,0.4589,0.4263,2.35,2.46,2.3,-0.0177,1.047,2.10-2.50
