@@ -3,36 +3,34 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,8.5,draftkings,800.0,9.0,0.2071,4.83,0.1038,0.1038,0.1032,,0.8636,0.1197,0.0776,0.0024,False,False,False,,,
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,2200.0,23.0,0.0802,12.47,0.0406,0.0406,0.0396,,0.8443,0.0467,0.0747,0.0008,False,False,False,,,
 401910004,DET @ SAS,prop_pts,over,Paul Reed,1630194.0,19.5,draftkings,930.0,10.3,0.17,5.88,0.0907,0.0907,0.0792,,0.7508,0.1029,0.0603,0.0016,False,True,False,,,
-401910005,CHA @ LAL,prop_pa,over,Luka Doncic,1629029.0,59.5,draftkings,740.0,8.4,0.2065,4.84,0.1113,0.1113,0.0952,,0.7343,0.1259,0.0577,0.002,False,True,False,,,
-401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,12.5,draftkings,1220.0,13.2,0.1297,7.71,0.0708,0.0708,0.0589,,0.7116,0.0799,0.0542,0.0011,False,False,False,,,
+401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,12.5,draftkings,1240.0,13.4,0.1297,7.71,0.0697,0.0697,0.0599,,0.7375,0.079,0.0582,0.0012,False,False,False,,,
+401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,13.5,draftkings,1840.0,19.4,0.087,11.49,0.0482,0.0482,0.0388,,0.6879,0.0542,0.0506,0.0007,False,True,False,,,
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,7.5,draftkings,444.0,5.44,0.3096,3.23,0.1718,0.1718,0.1378,,0.6841,0.193,0.05,0.0028,False,True,False,,,
-401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,13.5,draftkings,1820.0,19.2,0.087,11.49,0.0487,0.0487,0.0383,,0.6705,0.0546,0.0479,0.0007,False,True,False,,,
-401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,11.5,draftkings,780.0,8.8,0.1858,5.38,0.1062,0.1062,0.0796,,0.6349,0.1185,0.0424,0.0014,False,True,False,,,
+401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,11.5,draftkings,800.0,9.0,0.1858,5.38,0.1038,0.1038,0.0819,,0.672,0.1165,0.0481,0.0015,False,True,False,,,
 401910004,DET @ SAS,prop_pts,over,Paul Reed,1630194.0,17.5,draftkings,560.0,6.6,0.2459,4.07,0.1416,0.1416,0.1043,,0.6228,0.1577,0.0406,0.0018,False,False,False,,,
 401910004,DET @ SAS,prop_pts,over,Paul Reed,1630194.0,24.5,draftkings,2700.0,28.0,0.0579,17.27,0.0334,0.0334,0.0245,,0.6212,0.0372,0.0403,0.0004,False,True,False,,,
+401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,10.5,draftkings,507.0,6.07,0.2606,3.84,0.154,0.154,0.1066,,0.5815,0.1704,0.0342,0.0017,False,False,False,,,
 401910004,DET @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,7.5,draftkings,1380.0,14.8,0.1046,9.56,0.0631,0.0631,0.0415,,0.5487,0.0695,0.0292,0.0005,False,True,False,,,
+401910003,POR @ MIN,prop_ast,over,Scoot Henderson,1630703.0,4.5,draftkings,790.0,8.9,0.1732,5.77,0.105,0.105,0.0682,,0.5415,0.1155,0.028,0.0009,False,False,False,Deni Avdija,0.233,0.1185
 401910005,CHA @ LAL,prop_stl,over,Luka Doncic,1629029.0,3.5,draftkings,950.0,10.5,0.1467,6.82,0.089,0.089,0.0576,,0.5399,0.0979,0.0278,0.0007,False,True,False,,,
 401910002,NYK @ TOR,prop_pts,under,Ja'Kobe Walter,1642266.0,10.5,tab,-105.0,1.95,0.587,1.7,0.4797,0.5152,0.0718,6.78,0.146,0.5262,0.0274,0.0072,False,True,True,,,
-401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,10.5,draftkings,488.0,5.88,0.2606,3.84,0.1589,0.1589,0.1016,,0.532,0.1746,0.0266,0.0014,False,False,False,,,
-401910003,POR @ MIN,prop_ast,over,Scoot Henderson,1630703.0,4.5,draftkings,780.0,8.8,0.1732,5.77,0.1062,0.1062,0.067,,0.5242,0.1165,0.0254,0.0008,False,False,False,Deni Avdija,0.233,0.1185
+401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,14.5,draftkings,2600.0,27.0,0.0567,17.63,0.0346,0.0346,0.0221,,0.5317,0.038,0.0265,0.0003,False,False,False,,,
+401910003,POR @ MIN,prop_ast,over,Scoot Henderson,1630703.0,5.5,draftkings,1600.0,17.0,0.0897,11.15,0.055,0.055,0.0347,,0.5249,0.0603,0.0255,0.0004,False,True,False,Deni Avdija,0.1262,0.0544
 401910004,DET @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,6.5,draftkings,740.0,8.4,0.1812,5.52,0.1113,0.1113,0.07,,0.5225,0.122,0.0251,0.0008,False,True,False,,,
-401910003,POR @ MIN,prop_ast,over,Scoot Henderson,1630703.0,5.5,draftkings,1580.0,16.8,0.0897,11.15,0.0556,0.0556,0.0341,,0.5069,0.0609,0.0227,0.0004,False,True,False,Deni Avdija,0.1262,0.0544
-401910003,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1440.0,15.4,0.0977,10.24,0.0607,0.0607,0.037,,0.5042,0.0664,0.0223,0.0004,False,False,False,Deni Avdija,0.1478,0.0585
-401910003,POR @ MIN,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,940.0,10.4,0.1445,6.92,0.0899,0.0899,0.0546,,0.5024,0.0983,0.022,0.0006,False,True,False,Deni Avdija,0.1981,0.0999
 401910002,NYK @ TOR,prop_ast,over,Scottie Barnes,1630567.0,6.5,draftkings,243.0,3.43,0.4347,2.3,0.2725,0.2725,0.1623,,0.4911,0.2975,0.0203,0.0021,True,False,False,,,
 401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,4.5,draftkings,1000.0,11.0,0.1353,7.39,0.085,0.085,0.0503,,0.4881,0.0927,0.0198,0.0005,False,True,False,,,
-401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,14.5,draftkings,2500.0,26.0,0.0567,17.63,0.0359,0.0359,0.0208,,0.4749,0.0391,0.0178,0.0002,False,False,False,,,
 401910005,CHA @ LAL,prop_pr,over,Luka Doncic,1629029.0,59.5,draftkings,700.0,8.0,0.1829,5.47,0.1168,0.1168,0.0661,,0.4635,0.127,0.016,0.0006,False,True,False,,,
 401910002,NYK @ TOR,prop_ast,over,Jamal Shead,1642347.0,9.5,draftkings,1880.0,19.8,0.0736,13.58,0.0472,0.0472,0.0264,,0.4579,0.0513,0.0152,0.0002,False,True,False,,,
 401910004,DET @ SAS,moneyline,DET,,,,sportsbet,355.0,4.55,0.3304,3.03,0.2114,0.223,0.1074,3.96,0.5033,0.223,0.0147,0.001,False,True,True,,,
-401910003,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,790.0,8.9,0.1626,6.15,0.105,0.105,0.0576,,0.4474,0.1139,0.0135,0.0004,False,True,False,Deni Avdija,0.229,0.1086
+401910003,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1380.0,14.8,0.0977,10.24,0.0631,0.0631,0.0345,,0.4456,0.0685,0.0133,0.0002,False,False,False,Deni Avdija,0.1478,0.0585
+401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,9.5,draftkings,311.0,4.11,0.3516,2.84,0.2274,0.2274,0.1242,,0.445,0.2465,0.0132,0.0011,False,True,False,,,
 401910002,NYK @ TOR,prop_ast,over,Jamal Shead,1642347.0,8.5,draftkings,1100.0,12.0,0.1201,8.33,0.0779,0.0779,0.0422,,0.4411,0.0844,0.0126,0.0003,False,False,False,,,
-401910003,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,2400.0,25.0,0.0574,17.43,0.0374,0.0374,0.02,,0.4344,0.0405,0.0116,0.0001,False,True,False,Deni Avdija,0.0894,0.0332
 401910005,CHA @ LAL,prop_stl,over,Luka Doncic,1629029.0,2.5,draftkings,358.0,4.58,0.3114,3.21,0.2041,0.2041,0.1074,,0.4264,0.2206,0.0103,0.0007,False,True,False,,,
-401910003,POR @ MIN,prop_ast,over,Jrue Holiday,201950.0,6.5,draftkings,520.0,6.2,0.2293,4.36,0.1507,0.1507,0.0785,,0.4215,0.1628,0.0096,0.0005,False,False,False,Deni Avdija,0.3025,0.1723
-401910004,DET @ SAS,prop_reb,over,Paul Reed,1630194.0,9.5,draftkings,303.0,4.03,0.3516,2.84,0.2319,0.2319,0.1197,,0.4169,0.2503,0.0089,0.0007,False,True,False,,,
-401910003,POR @ MIN,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,1560.0,16.6,0.0852,11.74,0.0563,0.0563,0.0289,,0.4145,0.0608,0.0085,0.0001,False,False,False,Deni Avdija,0.1237,0.0537
+401910003,POR @ MIN,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,880.0,9.8,0.1445,6.92,0.0954,0.0954,0.0491,,0.4157,0.1029,0.0087,0.0002,False,True,False,Deni Avdija,0.1981,0.0999
 401910004,DET @ SAS,prop_pts,over,Paul Reed,1630194.0,14.5,draftkings,249.0,3.49,0.4009,2.49,0.2678,0.2678,0.1331,,0.399,0.2883,0.0061,0.0006,False,True,False,,,
+401910003,POR @ MIN,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,760.0,8.6,0.1626,6.15,0.1087,0.1087,0.054,,0.3986,0.117,0.006,0.0002,False,True,False,Deni Avdija,0.229,0.1086
 401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,3.5,draftkings,433.0,5.33,0.2595,3.85,0.1753,0.1753,0.0841,,0.383,0.1883,0.0036,0.0002,False,True,False,,,
+401910003,POR @ MIN,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,1520.0,16.2,0.0852,11.74,0.0577,0.0577,0.0275,,0.3805,0.0619,0.0032,0.0001,False,False,False,Deni Avdija,0.1237,0.0537
 401910004,DET @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,5.5,draftkings,373.0,4.73,0.2906,3.44,0.1976,0.1976,0.093,,0.3746,0.2119,0.0023,0.0002,False,True,False,,,
 401910002,NYK @ TOR,prop_pts,under,Andre Drummond,203083.0,4.5,tab,100.0,2.0,0.687,1.46,0.4669,0.4669,0.2201,7.08,0.3741,0.5008,0.0017,0.0004,True,False,True,,,
+401910003,POR @ MIN,prop_fg3m,under,Bones Hyland,1630538.0,1.5,draftkings,141.0,2.41,0.5664,1.77,0.3878,0.3878,0.1786,,0.365,0.4153,0.0009,0.0002,True,True,True,,,
