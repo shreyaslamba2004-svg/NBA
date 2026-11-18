@@ -1,18 +1,37 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-HOU @ IND,HOU win + Jabari Smith Jr. 2+ 3pm,2,0.4103,0.4537,2.2,2.31,2.06,-0.0675,1.024,1.85-2.10
 HOU @ IND,HOU win + Kevin Durant 2+ 3pm,2,0.367,0.4151,2.41,2.53,2.25,-0.0676,1.026,2.10-2.50
-HOU @ IND,HOU -7.5 + Kevin Durant 1+ 3pm,2,0.3447,0.4094,2.44,2.56,2.22,-0.0914,1.012,2.10-2.50
-HOU @ IND,game over 224.5 + Kevin Durant 1+ 3pm,2,0.5696,0.4204,2.38,2.5,2.16,-0.0919,1.012,2.10-2.50
-HOU @ IND,Jabari Smith Jr. 2+ 3pm + Kevin Durant 1+ 3pm,2,0.5693,0.5216,1.92,2.01,1.71,-0.107,1.002,1.65-1.85
-MIL @ MIA,MIA win + game under 236.5,2,0.464,0.4219,2.37,2.49,2.24,-0.0566,1.013,2.10-2.50
-MIL @ MIA,game over 236.5 + MIA win,2,0.3572,0.4273,2.34,2.46,2.18,-0.07,0.983,2.10-2.50
-MIL @ MIA,MIA win + Davion Mitchell 2+ 3pm,2,0.4981,0.5141,1.95,2.04,1.8,-0.0771,1.015,1.65-1.85
-MIL @ MIA,MIA win + Andrew Wiggins 3pm under 1.5,2,0.4061,0.4682,2.14,2.24,1.87,-0.124,0.982,1.85-2.10
-ATL @ OKC,Ajay Mitchell 3pm under 1.5 + Alex Caruso 3pm under 1.5,2,0.5122,0.3921,2.55,2.68,2.36,-0.0728,1.0,2.10-2.50
-ATL @ OKC,Ajay Mitchell 3pm under 1.5 + OKC win,2,0.5429,0.4439,2.25,2.37,2.07,-0.0815,0.986,1.85-2.10
-ATL @ OKC,Jared McCain 3pm under 2.5 + OKC win,2,0.4864,0.393,2.54,2.67,2.33,-0.0826,0.985,2.10-2.50
-ATL @ OKC,OKC win + Alex Caruso 3pm under 1.5,2,0.5011,0.4326,2.31,2.43,2.09,-0.0946,0.985,1.85-2.10
-ATL @ OKC,OKC win + Shai Gilgeous-Alexander 2+ 3pm,2,0.4023,0.4212,2.37,2.49,2.14,-0.0985,1.017,2.10-2.50
+HOU @ IND,HOU win + Jabari Smith Jr. 2+ 3pm,2,0.4103,0.4536,2.2,2.32,2.05,-0.0711,1.024,1.85-2.10
+HOU @ IND,game over 224.5 + Jabari Smith Jr. 1+ 3pm,2,0.5962,0.4413,2.27,2.38,2.07,-0.0881,1.012,1.85-2.10
+HOU @ IND,game over 224.5 + Kevin Durant 1+ 3pm,2,0.5696,0.4294,2.33,2.45,2.12,-0.0915,1.012,2.10-2.50
+HOU @ IND,HOU -7.5 + Kevin Durant 1+ 3pm,2,0.3447,0.4221,2.37,2.49,2.15,-0.092,1.012,2.10-2.50
+HOU @ IND,Kevin Durant 23+ pts + Jabari Smith Jr. 1+ 3pm,2,0.4959,0.434,2.3,2.42,2.08,-0.0958,1.007,1.85-2.10
+HOU @ IND,Jabari Smith Jr. 2+ 3pm + Kevin Durant 1+ 3pm,2,0.5693,0.5214,1.92,2.01,1.71,-0.1105,1.002,1.65-1.85
+HOU @ IND,Kevin Durant 1+ 3pm + Jabari Smith Jr. 3pm under 2.5,2,0.5252,0.5094,1.96,2.06,1.71,-0.1264,0.995,1.65-1.85
+MIL @ MIA,Brayden Burries pts under 11.5 + MIA win,2,0.5807,0.45,2.22,2.33,2.21,-0.0074,1.028,2.10-2.50
+MIL @ MIA,game over 236.5 + Jaime Jaquez Jr. 10+ pts,2,0.376,0.4085,2.45,2.57,2.38,-0.0284,1.054,2.10-2.50
+MIL @ MIA,MIA win + Tyler Herro pts under 21.5,2,0.5177,0.4514,2.22,2.33,2.15,-0.03,1.033,2.10-2.50
+MIL @ MIA,MIA win + Jaime Jaquez Jr. 1+ 3pm,2,0.6444,0.6112,1.64,1.72,1.5,-0.0828,0.995,1.50-1.65
+MIL @ MIA,Ryan Rollins 1+ 3pm + Andrew Wiggins 1+ 3pm,2,0.6918,0.5773,1.73,1.82,1.57,-0.094,1.002,1.50-1.65
+MIL @ MIA,Ryan Rollins 1+ 3pm + Jaime Jaquez Jr. 1+ 3pm,2,0.6667,0.5572,1.79,1.88,1.63,-0.0943,1.002,1.50-1.65
+MIL @ MIA,Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 1+ 3pm,2,0.6447,0.5395,1.85,1.95,1.67,-0.0974,0.999,1.65-1.85
+MIL @ MIA,MIA win + Ryan Rollins 1+ 3pm + Andrew Wiggins 1+ 3pm,3,0.5694,0.4923,2.03,2.13,1.79,-0.1191,1.004,1.65-1.85
+MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 1+ 3pm,3,0.5286,0.4583,2.18,2.29,1.91,-0.1259,0.997,1.85-2.10
+MIL @ MIA,MIA win + Ryan Rollins 1+ 3pm + Jaime Jaquez Jr. 1+ 3pm,3,0.5428,0.4701,2.13,2.23,1.85,-0.1289,0.993,1.85-2.10
+MIL @ MIA,MIA win + Jaime Jaquez Jr. 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.5626,0.5115,1.95,2.05,1.7,-0.1299,1.002,1.65-1.85
+MIL @ MIA,Ryan Rollins 1+ 3pm + Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 1+ 3pm,3,0.5454,0.4167,2.4,2.52,2.07,-0.1392,1.001,1.85-2.10
+PHI @ ORL,Dean Wade 3pm under 1.5 + Desmond Bane 3pm under 3.5,2,0.5755,0.4042,2.47,2.6,2.33,-0.0595,1.002,2.10-2.50
+PHI @ ORL,PHI win + Tyrese Maxey 1+ 3pm,2,0.4635,0.4829,2.07,2.17,1.94,-0.0617,1.009,1.85-2.10
+PHI @ ORL,Dean Wade 3pm under 1.5 + Kentavious Caldwell-Pope 3pm under 1.5,2,0.6052,0.4329,2.31,2.43,2.16,-0.0635,1.002,2.10-2.50
+PHI @ ORL,Dean Wade 3pm under 1.5 + Anfernee Simons 3pm under 2.5,2,0.5435,0.4057,2.46,2.59,2.29,-0.0692,1.005,2.10-2.50
+PHI @ ORL,PHI -1.5 + Tyrese Maxey 1+ 3pm,2,0.4347,0.4532,2.21,2.32,2.05,-0.0731,1.01,1.85-2.10
+PHI @ ORL,Dean Wade 3pm under 1.5 + Tyrese Maxey 1+ 3pm,2,0.7415,0.5891,1.7,1.78,1.55,-0.0861,0.999,1.50-1.65
+PHI @ ORL,game over 222.5 + Tyrese Maxey 1+ 3pm,2,0.4853,0.4432,2.26,2.37,2.05,-0.0935,1.009,1.85-2.10
+PHI @ ORL,Desmond Bane 3pm under 3.5 + Tyrese Maxey 1+ 3pm,2,0.6642,0.55,1.82,1.91,1.65,-0.0945,0.999,1.50-1.65
+PHI @ ORL,Kentavious Caldwell-Pope 3pm under 1.5 + Tyrese Maxey 1+ 3pm,2,0.6994,0.5899,1.7,1.78,1.53,-0.0972,1.0,1.50-1.65
+CHI @ BKN,Isaac Okoro 3pm under 1.5 + Egor Demin 3pm under 2.5,2,0.5881,0.4152,2.41,2.53,2.27,-0.057,0.999,2.10-2.50
+ATL @ OKC,OKC win + Aaron Wiggins 3pm under 2.5,2,0.4772,0.3972,2.52,2.64,2.38,-0.0564,1.025,2.10-2.50
+ATL @ OKC,Ajay Mitchell 3pm under 1.5 + Alex Caruso 3pm under 1.5,2,0.5122,0.3784,2.64,2.77,2.46,-0.0673,1.0,2.10-2.50
+ATL @ OKC,Ajay Mitchell 3pm under 1.5 + OKC win,2,0.5429,0.429,2.33,2.45,2.15,-0.079,0.986,2.10-2.50
 BOS @ DEN,Derrick White pa under 18.5 + Jayson Tatum 4+ reb,2,0.5927,0.4654,2.15,2.26,1.97,-0.0825,1.001,1.85-2.10
 BOS @ DEN,Jayson Tatum 7+ reb + Christian Braun 10+ pr,2,0.5637,0.4618,2.17,2.27,1.99,-0.0832,1.008,1.85-2.10
 BOS @ DEN,Jayson Tatum 7+ reb + Christian Braun 10+ pa,2,0.5066,0.4195,2.38,2.5,2.18,-0.0843,1.009,2.10-2.50
@@ -22,5 +41,6 @@ BOS @ DEN,Payton Pritchard pts under 13.5 + Christian Braun 10+ pr,2,0.5098,0.40
 BOS @ DEN,Jayson Tatum 7+ reb + Jamal Murray 1+ 3pm,2,0.5966,0.4958,2.02,2.12,1.84,-0.0896,1.004,1.65-1.85
 BOS @ DEN,Jayson Tatum 7+ reb + Nikola Jokic 6+ reb,2,0.6113,0.5058,1.98,2.08,1.8,-0.0914,1.001,1.65-1.85
 BOS @ DEN,BOS win + Jayson Tatum 1+ 3pm,2,0.5754,0.4978,2.01,2.11,1.82,-0.0921,1.005,1.65-1.85
-UTA @ LAL,LAL win + game under 231.5,2,0.437,0.4071,2.46,2.58,2.28,-0.072,1.014,2.10-2.50
-UTA @ LAL,LAL win + game over 231.5,2,0.4236,0.4118,2.43,2.55,2.19,-0.097,0.986,2.10-2.50
+UTA @ LAL,LAL win + game under 232.5,2,0.4541,0.4171,2.4,2.52,2.23,-0.0706,1.013,2.10-2.50
+UTA @ LAL,LAL win + game over 232.5,2,0.4066,0.3886,2.57,2.7,2.33,-0.0956,0.986,2.10-2.50
+PHX @ SAC,PHX win + Darius Acuff Jr. 3+ 3pm,2,0.3407,0.3872,2.58,2.71,2.22,-0.1409,0.969,2.10-2.50

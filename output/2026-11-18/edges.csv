@@ -1,7 +1,9 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401910009,MIL @ MIA,moneyline,MIL,,,,pointsbetau,600.0,7.0,0.1787,5.59,0.1369,0.1491,0.0297,4.37,0.2512,0.1491,0.0437,0.0018,False,True,True,,,
+401910009,MIL @ MIA,prop_pts,over,Bam Adebayo,1628389.0,29.5,draftkings,1160.0,12.6,0.1156,8.65,0.0742,0.0742,0.0414,,0.4568,0.0806,0.015,0.0003,False,True,False,,,
 401910014,ATL @ OKC,prop_fg3m,under,Kenrich Williams,1629026.0,1.5,draftkings,-118.0,1.85,0.7565,1.32,0.5071,0.5071,0.2494,6.74,0.3976,0.5455,0.0078,0.0023,True,True,True,,,
 401910015,BOS @ DEN,prop_ast,over,Nikola Jokic,203999.0,15.5,draftkings,1580.0,16.8,0.0839,11.92,0.0556,0.0556,0.0283,,0.4094,0.06,0.0077,0.0001,False,True,False,,,
 401910009,MIL @ MIA,moneyline,MIL,,,,betright,575.0,6.75,0.1787,5.59,0.1412,0.1491,0.0297,4.9,0.2066,0.1491,0.0064,0.0003,False,True,True,,,
 401910015,BOS @ DEN,prop_ast,over,Nikola Jokic,203999.0,14.5,draftkings,1040.0,11.4,0.1226,8.16,0.082,0.082,0.0406,,0.3978,0.0882,0.0059,0.0001,False,False,False,,,
+401910008,HOU @ IND,prop_pts,over,Alperen Sengun,1630578.0,39.5,draftkings,2700.0,28.0,0.0498,20.09,0.0334,0.0334,0.0164,,0.3938,0.0359,0.0053,0.0,False,True,False,,,
 401910015,BOS @ DEN,prop_ast,over,Nikola Jokic,203999.0,16.5,draftkings,2400.0,25.0,0.0551,18.15,0.0374,0.0374,0.0177,,0.377,0.0401,0.0027,0.0,False,False,False,,,
