@@ -1,16 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-HOU @ IND,HOU win + Kevin Durant 2+ 3pm,2,0.367,0.4133,2.42,2.54,2.25,-0.0716,1.026,2.10-2.50
-HOU @ IND,HOU -7.5 + Kevin Durant 1+ 3pm,2,0.3447,0.4083,2.45,2.57,2.23,-0.0909,1.012,2.10-2.50
-HOU @ IND,game over 224.5 + Kevin Durant 1+ 3pm,2,0.5696,0.4192,2.39,2.5,2.17,-0.0915,1.012,2.10-2.50
-HOU @ IND,Kevin Durant 1+ 3pm + Jabari Smith Jr. 3pm under 2.5,2,0.5252,0.5066,1.97,2.07,1.73,-0.1255,0.995,1.65-1.85
-HOU @ IND,HOU win + Jabari Smith Jr. 3pm under 2.5,2,0.3612,0.4216,2.37,2.49,2.07,-0.129,0.97,1.85-2.10
+HOU @ IND,HOU win + Jabari Smith Jr. 2+ 3pm,2,0.4103,0.4537,2.2,2.31,2.06,-0.0675,1.024,1.85-2.10
+HOU @ IND,HOU win + Kevin Durant 2+ 3pm,2,0.367,0.4151,2.41,2.53,2.25,-0.0676,1.026,2.10-2.50
+HOU @ IND,HOU -7.5 + Kevin Durant 1+ 3pm,2,0.3447,0.4094,2.44,2.56,2.22,-0.0914,1.012,2.10-2.50
+HOU @ IND,game over 224.5 + Kevin Durant 1+ 3pm,2,0.5696,0.4204,2.38,2.5,2.16,-0.0919,1.012,2.10-2.50
+HOU @ IND,Jabari Smith Jr. 2+ 3pm + Kevin Durant 1+ 3pm,2,0.5693,0.5216,1.92,2.01,1.71,-0.107,1.002,1.65-1.85
 MIL @ MIA,MIA win + game under 236.5,2,0.464,0.4219,2.37,2.49,2.24,-0.0566,1.013,2.10-2.50
 MIL @ MIA,game over 236.5 + MIA win,2,0.3572,0.4273,2.34,2.46,2.18,-0.07,0.983,2.10-2.50
 MIL @ MIA,MIA win + Davion Mitchell 2+ 3pm,2,0.4981,0.5141,1.95,2.04,1.8,-0.0771,1.015,1.65-1.85
 MIL @ MIA,MIA win + Andrew Wiggins 3pm under 1.5,2,0.4061,0.4682,2.14,2.24,1.87,-0.124,0.982,1.85-2.10
-CHI @ BKN,Isaac Okoro 3pm under 1.5 + Egor Demin 3pm under 2.5,2,0.5881,0.4218,2.37,2.49,2.23,-0.0604,0.999,2.10-2.50
-CHI @ BKN,Isaac Okoro 3pm under 1.5 + Noah Clowney 1+ 3pm,2,0.5503,0.4308,2.32,2.44,2.14,-0.0778,0.997,2.10-2.50
-CHI @ BKN,Egor Demin 3pm under 2.5 + Noah Clowney 1+ 3pm,2,0.52,0.4103,2.44,2.56,2.25,-0.0781,1.0,2.10-2.50
 ATL @ OKC,Ajay Mitchell 3pm under 1.5 + Alex Caruso 3pm under 1.5,2,0.5122,0.3921,2.55,2.68,2.36,-0.0728,1.0,2.10-2.50
 ATL @ OKC,Ajay Mitchell 3pm under 1.5 + OKC win,2,0.5429,0.4439,2.25,2.37,2.07,-0.0815,0.986,1.85-2.10
 ATL @ OKC,Jared McCain 3pm under 2.5 + OKC win,2,0.4864,0.393,2.54,2.67,2.33,-0.0826,0.985,2.10-2.50
