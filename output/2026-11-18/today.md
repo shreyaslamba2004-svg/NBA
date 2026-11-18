@@ -1,6 +1,6 @@
 # NBA model · Wed 18 Nov 2026 (US date)
 
-Updated **Wed 18 Nov, 04:46 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-18/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 18 Nov, 05:16 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-18/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -41,7 +41,7 @@ Game lines below assume every questionable player sits; each game's section show
 | DET @ NOP | Thu 19 Nov 12:00 | 117.9–108.4 | DET 75% | 1.34 / 3.98 | NOP +9.5 | 226.5 | NOP +7.5 covers 44%; o229.5 43% |
 | ATL @ OKC | Thu 19 Nov 12:00 | 109.4–118.3 | ATL 27% | 3.76 / 1.36 | OKC -8.5 | 227.5 | OKC -6.5 covers 57%; o228.5 48% |
 | BOS @ DEN | Thu 19 Nov 13:30 | 112.8–108.5 | BOS 61% | 1.63 / 2.59 | DEN +4.5 | 221.5 | DEN +2.5 covers 45%; o221.5 49% |
-| GSW @ DAL | Thu 19 Nov 12:00 | 114.1–116.4 | GSW 43% | 2.31 / 1.76 | DAL -2.5 | 230.5 | DAL -5.5 covers 41%; o221.5 68% |
+| GSW @ DAL | Thu 19 Nov 12:00 | 114.1–116.4 | GSW 43% | 2.31 / 1.76 | DAL -2.5 | 230.5 | DAL -5.5 covers 41%; o222.5 66% |
 | UTA @ LAL | Thu 19 Nov 14:00 | 108.1–123.3 | UTA 14% | 7.18 / 1.16 | LAL -15.5 | 231.5 |  |
 | PHX @ SAC | Thu 19 Nov 14:00 | 120.0–112.3 | PHX 71% | 1.40 / 3.49 | SAC +7.5 | 232.5 | SAC +6.5 covers 46%; o228.5 58% |
 
@@ -637,10 +637,10 @@ Out: Julian Strawther (DEN), Cam Whitmore (DEN)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jayson Tatum | 98% | 33.8<br><sub>29,32,38,30,36</sub> | 24.1<br><sub>21,21,24,32,24</sub> | 25.5 · –<br><sub>o 47% · u 53%</sub> | 7.8<br><sub>4,6,7,6,12</sub> | 6.5<br><sub>o 55% · u 45%</sub> | 6.8<br><sub>6,4,8,6,4</sub> | 6.5<br><sub>o 55% · u 45%</sub> | 2.8<br><sub>5,3,2,5,3</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.1 | 0.5 | 2.5 | 38.7 |
+| Jayson Tatum | 98% | 33.8<br><sub>29,32,38,30,36</sub> | 24.1<br><sub>21,21,24,32,24</sub> | 25.5 · –<br><sub>o 47% · u 53%</sub> | 7.8<br><sub>4,6,7,6,12</sub> | 6.5<br><sub>o 55% · u 45%</sub> | 6.8<br><sub>6,4,8,6,4</sub> | 6.5<br><sub>o 55% · u 45%</sub> | 2.8<br><sub>5,3,2,5,3</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.1 | 0.5 | 2.5 | 38.7 |
 | Paul George | 98% | 30.2<br><sub>28,30,-,25,36</sub> | 18.0<br><sub>27,36,-,7,22</sub> | 18.5 · –<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>3,5,-,7,8</sub> | 4.5<br><sub>o 55% · u 45%</sub> | 3.6<br><sub>1,1,-,6,3</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 2.7<br><sub>5,6,-,1,5</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.5 | 0.4 | 2.0 | 26.6 |
-| Derrick White | 98% | 29.9<br><sub>27,22,38,23,32</sub> | 12.6<br><sub>9,5,19,16,9</sub> | 13.5 · –<br><sub>o 48% · u 52%</sub> | 3.4<br><sub>3,1,1,4,3</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 4.3<br><sub>7,3,7,2,2</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 1.9<br><sub>1,1,3,4,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 0.9 | 0.8 | 1.3 | 20.3 |
-| Payton Pritchard | 98% | 26.5<br><sub>29,30,31,19,32</sub> | 13.1<br><sub>12,18,14,10,21</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 3.1<br><sub>5,6,1,1,4</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 3.8<br><sub>4,5,1,6,5</sub> | 4.5<br><sub>o 41% · u 59%</sub> | 2.0<br><sub>4,4,2,2,4</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 0.6 | 0.1 | 1.0 | 20.0 |
+| Derrick White | 98% | 29.9<br><sub>27,22,38,23,32</sub> | 12.6<br><sub>9,5,19,16,9</sub> | 13.5 · –<br><sub>o 48% · u 52%</sub> | 3.4<br><sub>3,1,1,4,3</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 4.3<br><sub>7,3,7,2,2</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 1.9<br><sub>1,1,3,4,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 0.9 | 0.8 | 1.3 | 20.3 |
+| Payton Pritchard | 98% | 26.5<br><sub>29,30,31,19,32</sub> | 13.1<br><sub>12,18,14,10,21</sub> | 13.5 · –<br><sub>o 50% · u 50%</sub> | 3.1<br><sub>5,6,1,1,4</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 3.8<br><sub>4,5,1,6,5</sub> | 4.5<br><sub>o 41% · u 59%</sub> | 2.0<br><sub>4,4,2,2,4</sub> | 2.5<br><sub>o 41% · u 59%</sub> | 0.6 | 0.1 | 1.0 | 20.0 |
 | Neemias Queta | 98% | 20.5<br><sub>22,22,31,15,-</sub> | 8.0<br><sub>13,4,11,8,-</sub> |  | 6.6<br><sub>9,6,13,6,-</sub> |  | 1.6<br><sub>4,3,3,2,-</sub> |  | 0.1<br><sub>0,0,1,1,-</sub> |  | 0.5 | 0.9 | 0.9 | 16.3 |
 | Sam Hauser | 98% | 20.1<br><sub>23,18,24,11,25</sub> | 7.8<br><sub>7,12,8,8,12</sub> |  | 3.1<br><sub>3,5,9,1,1</sub> |  | 1.1<br><sub>1,2,0,0,2</sub> |  | 1.4<br><sub>1,4,2,2,4</sub> |  | 0.4 | 0.2 | 0.3 | 12.1 |
 | Baylor Scheierman | 98% | 15.8<br><sub>19,18,29,18,11</sub> | 5.0<br><sub>7,5,9,12,0</sub> |  | 2.9<br><sub>1,3,7,5,1</sub> |  | 1.2<br><sub>0,2,3,3,1</sub> |  | 0.7<br><sub>1,1,3,2,0</sub> |  | 0.6 | 0.1 | 0.5 | 9.2 |
@@ -661,7 +661,7 @@ Out: Julian Strawther (DEN), Cam Whitmore (DEN)
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Nikola Jokic | 98% | 37.2<br><sub>36,39,37,37,38</sub> | 24.5<br><sub>19,25,27,26,28</sub> | 23.5 · –<br><sub>o 49% · u 51%</sub> | 12.0<br><sub>13,16,11,8,15</sub> | 11.5<br><sub>o 52% · u 48%</sub> | 10.0<br><sub>8,9,8,10,7</sub> | 9.5<br><sub>o 47% · u 53%</sub> | 1.6<br><sub>1,1,1,1,2</sub> | 1.5<br><sub>o 38% · u 62%</sub> | 1.3 | 0.8 | 3.7 | 46.6 |
 | Jamal Murray | 98% | 37.0<br><sub>34,39,32,38,35</sub> | 22.9<br><sub>16,38,30,23,28</sub> | 22.5 · –<br><sub>o 49% · u 51%</sub> | 4.6<br><sub>6,2,4,7,4</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 6.5<br><sub>8,2,8,9,4</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 2.8<br><sub>2,5,4,0,1</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 0.8 | 0.5 | 2.5 | 34.0 |
-| Christian Braun | 98% | 32.7<br><sub>29,32,37,28,33</sub> | 11.9<br><sub>6,4,12,17,10</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 4.4<br><sub>4,5,5,7,3</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 2.3<br><sub>1,3,4,1,3</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.3<br><sub>0,0,2,1,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.0 | 0.4 | 0.9 | 18.6 |
+| Christian Braun | 98% | 32.7<br><sub>29,32,37,28,33</sub> | 11.9<br><sub>6,4,12,17,10</sub> | 11.5 · –<br><sub>o 49% · u 51%</sub> | 4.4<br><sub>4,5,5,7,3</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 2.3<br><sub>1,3,4,1,3</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.3<br><sub>0,0,2,1,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.0 | 0.4 | 0.9 | 18.6 |
 | Cameron Johnson | 98% | 29.9<br><sub>29,31,30,31,27</sub> | 12.4<br><sub>18,8,23,12,9</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 3.8<br><sub>4,2,4,5,0</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 2.2<br><sub>1,1,3,2,1</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.9<br><sub>2,2,4,1,0</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 0.7 | 0.3 | 1.0 | 18.3 |
 | Aaron Gordon | 98% | 29.3<br><sub>27,30,27,33,24</sub> | 12.0<br><sub>12,3,9,11,11</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 5.1<br><sub>5,5,3,5,1</sub> | 4.5<br><sub>o 55% · u 45%</sub> | 2.4<br><sub>0,2,2,1,1</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.3<br><sub>0,0,1,1,2</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 0.5 | 0.4 | 1.2 | 19.4 |
 | DeMar DeRozan | 91% | 20.4<br><sub>22,19,20,24,14</sub> | 9.5<br><sub>11,7,8,9,2</sub> | 9.5 · –<br><sub>o 47% · u 53%</sub> | 1.9<br><sub>1,4,1,3,1</sub> |  | 2.6<br><sub>5,2,4,2,1</sub> |  | 0.2<br><sub>0,0,0,0,0</sub> |  | 0.5 | 0.2 | 1.0 | 14.0 |
@@ -681,10 +681,10 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), Jimmy Butler III (GSW), Ste
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 114.1–116.4 | GSW 43% | 2.31 / 1.76 | DAL -2.5 | 230.5 | DAL -5.5 covers 41%; o221.5 68% |
-| Expected (weighted by chance each plays) | 115.0–116.6 | GSW 45% | 2.22 / 1.82 | DAL -2.5 | 231.5 | DAL -5.5 covers 39%; o221.5 70% |
-| if Draymond Green plays | 115.0–116.2 | GSW 46% | 2.15 / 1.87 | DAL -1.5 | 231.5 | DAL -5.5 covers 38%; o221.5 70% |
-| if Al Horford plays | 114.5–115.9 | GSW 46% | 2.17 / 1.85 | DAL -1.5 | 230.5 | DAL -5.5 covers 39%; o221.5 68% |
+| Confirmed players only | 114.1–116.4 | GSW 43% | 2.31 / 1.76 | DAL -2.5 | 230.5 | DAL -5.5 covers 41%; o222.5 66% |
+| Expected (weighted by chance each plays) | 115.0–116.6 | GSW 45% | 2.22 / 1.82 | DAL -2.5 | 231.5 | DAL -5.5 covers 39%; o222.5 68% |
+| if Draymond Green plays | 115.0–116.2 | GSW 46% | 2.15 / 1.87 | DAL -1.5 | 231.5 | DAL -5.5 covers 38%; o222.5 68% |
+| if Al Horford plays | 114.5–115.9 | GSW 46% | 2.17 / 1.85 | DAL -1.5 | 230.5 | DAL -5.5 covers 39%; o222.5 66% |
 
 **Questionable players: chance to play, and their projection if they do**
 
