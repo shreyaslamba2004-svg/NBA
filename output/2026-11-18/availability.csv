@@ -261,7 +261,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910014,OKC,1642260,Nikola Topic,,,1.0,,,
 401910014,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401910014,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
-401910014,OKC,1631119,Jaylin Williams,Questionable,Injury/Illness-LowBackSpasms,0.55,"Williams (back) is listed as questionable for Wednesday's game against the Hawks, Clemente Almanza of USA Today reports.",,
+401910014,OKC,1631119,Jaylin Williams,Available,Injury/Illness-LowBackSpasms,1.0,"Williams (back) is listed as questionable for Wednesday's game against the Hawks, Clemente Almanza of USA Today reports.",,
 401910014,OKC,1629026,Kenrich Williams,,,1.0,,,
 401910014,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
 401910014,ATL,904684443,Rafael Castro,Out,GLeague-Two-Way,0.0,,,
