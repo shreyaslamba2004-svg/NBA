@@ -1,7 +1,7 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401910006,UTA @ LAC,prop_pa,over,Derrick Jones Jr.,1627884.0,10.5,draftkings,100.0,2.0,0.5821,1.72,0.4669,0.5002,0.0819,7.08,0.1642,0.5128,0.0256,0.0064,False,True,True,,,
 401910005,CHA @ LAL,prop_stl,over,Luka Doncic,1629029.0,3.5,draftkings,940.0,10.4,0.1467,6.82,0.0899,0.0899,0.0568,,0.5252,0.0986,0.0255,0.0007,False,True,False,,,
 401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,4.5,draftkings,1020.0,11.2,0.1353,7.39,0.0834,0.0834,0.0518,,0.5151,0.0914,0.024,0.0006,False,True,False,,,
 401910005,CHA @ LAL,prop_pr,over,Luka Doncic,1629029.0,59.5,draftkings,690.0,7.9,0.1829,5.47,0.1183,0.1183,0.0646,,0.4452,0.1283,0.0132,0.0005,False,True,False,,,
 401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,3.5,draftkings,440.0,5.4,0.2595,3.85,0.1731,0.1731,0.0864,,0.4011,0.1864,0.0064,0.0004,False,True,False,,,
 401910005,CHA @ LAL,prop_stl,over,Luka Doncic,1629029.0,2.5,draftkings,343.0,4.43,0.3114,3.21,0.211,0.211,0.1005,,0.3797,0.2264,0.0031,0.0002,False,True,False,,,
+401910006,UTA @ LAC,prop_pa,over,Derrick Jones Jr.,1627884.0,11.5,draftkings,100.0,2.0,0.5071,1.97,0.4673,0.4998,0.0073,6.9,0.0141,0.5009,0.0018,0.0004,False,True,True,,,
