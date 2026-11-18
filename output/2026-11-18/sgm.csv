@@ -21,18 +21,18 @@ HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pr,2,0.5766,0.4789,2.09,2.1
 HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.603,0.4999,2.0,2.1,1.83,-0.0875,1.003,1.65-1.85
 HOU @ IND,HOU win + Kevin Durant 4+ reb,2,0.4859,0.5411,1.85,1.94,1.69,-0.0877,0.997,1.65-1.85
 HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 1+ 3pm,2,0.5997,0.4972,2.01,2.11,1.83,-0.0888,1.001,1.65-1.85
-MIL @ MIA,Brayden Burries pts under 11.5 + MIA win,2,0.5151,0.4309,2.32,2.44,2.25,-0.0286,1.031,2.10-2.50
 MIL @ MIA,game over 235.5 + Kyle Kuzma 15+ pra,2,0.3742,0.3985,2.51,2.63,2.43,-0.0308,1.044,2.10-2.50
-MIL @ MIA,Bam Adebayo 30+ pra + MIA win,2,0.5224,0.4491,2.23,2.34,2.15,-0.035,1.025,2.10-2.50
-MIL @ MIA,Andrew Wiggins 13+ pr + MIA win,2,0.567,0.4614,2.17,2.28,2.08,-0.0386,1.014,1.85-2.10
-MIL @ MIA,MIA -12.5 + Kel'el Ware 5+ pr,2,0.531,0.4592,2.18,2.29,2.06,-0.0556,0.999,1.85-2.10
-MIL @ MIA,MIA win + Davion Mitchell 3+ reb,2,0.5426,0.4509,2.22,2.33,2.08,-0.0604,1.0,1.85-2.10
+MIL @ MIA,Brayden Burries pts under 11.5 + MIA win,2,0.5151,0.4309,2.32,2.44,2.24,-0.034,1.031,2.10-2.50
+MIL @ MIA,game over 235.5 + Jaime Jaquez Jr. 10+ pts,2,0.3758,0.409,2.44,2.57,2.35,-0.0384,1.04,2.10-2.50
+MIL @ MIA,Andrew Wiggins 13+ pr + MIA win,2,0.567,0.4614,2.17,2.28,2.07,-0.0439,1.014,1.85-2.10
+MIL @ MIA,Davion Mitchell 3+ reb + MIA win,2,0.5426,0.4509,2.22,2.33,2.07,-0.0656,1.0,1.85-2.10
+MIL @ MIA,Kyle Kuzma 15+ pa + Jaime Jaquez Jr. 15+ pra,2,0.5729,0.4456,2.24,2.36,2.09,-0.0693,1.005,1.85-2.10
 MIL @ MIA,Kyle Kuzma 15+ pra + Andrew Wiggins 1+ 3pm,2,0.7019,0.5815,1.72,1.81,1.56,-0.0909,1.004,1.50-1.65
 MIL @ MIA,Kyle Kuzma 15+ pra + Myles Turner 4+ reb,2,0.7127,0.5904,1.69,1.78,1.54,-0.0935,1.001,1.50-1.65
 MIL @ MIA,Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 10+ pts,2,0.7062,0.5978,1.67,1.76,1.51,-0.0966,1.002,1.50-1.65
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Bam Adebayo 6+ reb,3,0.6416,0.5129,1.95,2.05,1.73,-0.1123,1.001,1.65-1.85
-MIL @ MIA,MIA win + Kel'el Ware 4+ reb + Andrew Wiggins 1+ 3pm,3,0.6184,0.5062,1.98,2.07,1.75,-0.1129,1.006,1.65-1.85
-MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bam Adebayo 6+ reb,3,0.6121,0.5223,1.91,2.01,1.69,-0.1158,1.011,1.65-1.85
+MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Andrew Wiggins 1+ 3pm,3,0.6051,0.4807,2.08,2.18,1.84,-0.1152,1.002,1.65-1.85
+MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Bam Adebayo 6+ reb,3,0.6416,0.5129,1.95,2.05,1.72,-0.1172,1.001,1.65-1.85
+MIL @ MIA,MIA win + Kel'el Ware 4+ reb + Andrew Wiggins 1+ 3pm,3,0.6184,0.5062,1.98,2.07,1.74,-0.1178,1.006,1.65-1.85
 PHI @ ORL,PHI win + VJ Edgecombe 15+ pr,2,0.409,0.4147,2.41,2.53,2.37,-0.019,1.04,2.10-2.50
 PHI @ ORL,PHI -1.5 + VJ Edgecombe 15+ pr,2,0.3831,0.3922,2.55,2.68,2.47,-0.0298,1.041,2.10-2.50
 PHI @ ORL,PHI win + VJ Edgecombe 1+ 3pm,2,0.4239,0.4248,2.35,2.47,2.26,-0.0419,1.014,2.10-2.50
@@ -45,18 +45,18 @@ PHI @ ORL,Kentavious Caldwell-Pope 3pm under 1.5 + Jalen Suggs 10+ pra,2,0.6838,
 PHI @ ORL,Kentavious Caldwell-Pope 3pm under 1.5 + Anfernee Simons 1+ 3pm,2,0.6568,0.5232,1.91,2.01,1.74,-0.0882,0.998,1.65-1.85
 PHI @ ORL,Kentavious Caldwell-Pope 3pm under 1.5 + Joel Embiid 4+ reb,2,0.6909,0.5564,1.8,1.89,1.64,-0.0887,0.999,1.50-1.65
 PHI @ ORL,Kentavious Caldwell-Pope 3pm under 1.5 + Wendell Carter Jr. 10+ pr,2,0.6877,0.5549,1.8,1.89,1.64,-0.0888,0.999,1.50-1.65
-CHI @ BKN,BKN win + Noah Clowney 5+ pr,2,0.542,0.5058,1.98,2.08,1.94,-0.0191,1.003,1.85-2.10
-CHI @ BKN,BKN win + Isaac Okoro 5+ pa,2,0.5261,0.5122,1.95,2.05,1.87,-0.0416,0.988,1.85-2.10
-CHI @ BKN,BKN win + Matas Buzelis 15+ pra,2,0.5021,0.4873,2.05,2.15,1.96,-0.0438,0.985,1.85-2.10
-CHI @ BKN,Norman Powell 3pm under 2.5 + Noah Clowney 5+ pr,2,0.5694,0.4203,2.38,2.5,2.21,-0.0704,1.0,2.10-2.50
-CHI @ BKN,Isaac Okoro 3pm under 1.5 + Noah Clowney 5+ pr,2,0.7511,0.5681,1.76,1.85,1.63,-0.0757,1.0,1.50-1.65
-CHI @ BKN,Nolan Traore ast under 4.5 + Noah Clowney 5+ pr,2,0.6697,0.5154,1.94,2.04,1.79,-0.0778,1.002,1.65-1.85
-CHI @ BKN,Norman Powell 3pm under 2.5 + Matas Buzelis 15+ pra,2,0.5355,0.4111,2.43,2.55,2.24,-0.0801,0.997,2.10-2.50
-CHI @ BKN,Tre Jones pts under 11.5 + Noah Clowney 5+ pr,2,0.5569,0.4302,2.32,2.44,2.14,-0.0809,0.999,2.10-2.50
-CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 10+ pa,2,0.722,0.568,1.76,1.85,1.61,-0.0841,0.999,1.50-1.65
-CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 10+ pts,2,0.6776,0.5324,1.88,1.97,1.72,-0.0842,0.998,1.65-1.85
-CHI @ BKN,Nolan Traore ast under 4.5 + Matas Buzelis 15+ pra,2,0.6313,0.5053,1.98,2.08,1.81,-0.0853,1.001,1.65-1.85
-CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 15+ pra,2,0.7065,0.5557,1.8,1.89,1.65,-0.0853,0.997,1.50-1.65
+CHI @ BKN,BKN win + Noah Clowney 5+ pr,2,0.542,0.5054,1.98,2.08,1.94,-0.0189,1.003,1.85-2.10
+CHI @ BKN,BKN win + Day'Ron Sharpe 10+ pr,2,0.5282,0.5146,1.94,2.04,1.89,-0.0261,1.004,1.85-2.10
+CHI @ BKN,BKN win + Matas Buzelis 10+ pa,2,0.5118,0.4983,2.01,2.11,1.92,-0.0455,0.984,1.85-2.10
+CHI @ BKN,Norman Powell 3pm under 2.5 + Noah Clowney 5+ pr,2,0.5694,0.42,2.38,2.5,2.21,-0.0703,1.0,2.10-2.50
+CHI @ BKN,Isaac Okoro 3pm under 1.5 + Noah Clowney 5+ pr,2,0.7511,0.5676,1.76,1.85,1.63,-0.0756,1.0,1.50-1.65
+CHI @ BKN,Norman Powell 3pm under 2.5 + Day'Ron Sharpe 10+ pr,2,0.5546,0.4273,2.34,2.46,2.16,-0.0777,1.001,2.10-2.50
+CHI @ BKN,Norman Powell 3pm under 2.5 + Matas Buzelis 10+ pa,2,0.5459,0.4204,2.38,2.5,2.18,-0.0817,0.996,2.10-2.50
+CHI @ BKN,Isaac Okoro 3pm under 1.5 + Day'Ron Sharpe 10+ pr,2,0.731,0.5771,1.73,1.82,1.59,-0.0837,1.0,1.50-1.65
+CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 10+ pa,2,0.722,0.5697,1.76,1.84,1.61,-0.0846,0.999,1.50-1.65
+CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 10+ pts,2,0.6776,0.5345,1.87,1.96,1.71,-0.0848,0.998,1.65-1.85
+CHI @ BKN,Isaac Okoro 3pm under 1.5 + Noah Clowney 5+ pr + Matas Buzelis 10+ pts,3,0.6464,0.4727,2.12,2.22,1.84,-0.1303,1.001,1.65-1.85
+CHI @ BKN,Isaac Okoro 3pm under 1.5 + Noah Clowney 5+ pr + Matas Buzelis 10+ pa,3,0.6878,0.5031,1.99,2.09,1.73,-0.1314,0.999,1.65-1.85
 WAS @ TOR,TOR win + Jamal Shead 10+ pra,2,0.6788,0.6245,1.6,1.68,1.55,-0.0306,1.007,1.50-1.65
 WAS @ TOR,TOR win + AJ Dybantsa 4+ reb,2,0.584,0.5254,1.9,2.0,1.84,-0.032,1.002,1.65-1.85
 WAS @ TOR,TOR win + Anthony Davis 6+ reb,2,0.6556,0.598,1.67,1.76,1.61,-0.0366,0.999,1.50-1.65
