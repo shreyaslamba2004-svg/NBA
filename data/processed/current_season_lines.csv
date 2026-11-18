@@ -227,3 +227,8 @@ game_id,game_date,home,away,book,spread_home,total,over_price,under_price,ml_hom
 401909999,2026-11-16,MIN,POR,DraftKings,-2.5,227.5,-110.0,-110.0,-130,110,-106.0,-114.0,-3.5,228.5,"Eric Dalen, Tyler Ford, JD Ralls"
 401910000,2026-11-16,NOP,GSW,DraftKings,3.5,223.5,-110.0,-110.0,142,-170,-108.0,-111.0,2.5,226.5,"Brian Forte, Mark Lindsay, Michael Smith"
 401910001,2026-11-16,DEN,PHX,DraftKings,-9.5,229.5,-106.0,-114.0,-426,333,-114.0,-106.0,-10.5,228.5,"Dedric Taylor, Nick Buchert, Suyash Mehta"
+401910002,2026-11-17,TOR,NYK,DraftKings,2.5,215.5,-115.0,-106.0,114,-135,-117.0,-103.0,3.5,216.5,"Eric Lewis, Mitchell Ervin, Evan Scott"
+401910003,2026-11-17,MIN,POR,DraftKings,-4.5,225.5,-110.0,-110.0,-179,150,-113.0,-107.0,-2.5,226.5,"Derrick Collins, Brent Barnaky, Josh Tiven"
+401910004,2026-11-17,SAS,DET,DraftKings,-9.5,221.5,-113.0,-107.0,-437,340,-116.0,-105.0,-7.5,220.5,"James Capers, Che Flores, Biniam Maru"
+401910006,2026-11-17,LAC,UTA,DraftKings,-5.5,227.5,-106.0,-114.0,-229,190,-117.0,-103.0,-5.5,223.5,"James Williams, Andy Nagy, Agon Abazi"
+401910005,2026-11-17,LAL,CHA,DraftKings,-6.5,221.5,-112.0,-108.0,-289,236,-119.0,-101.0,-10.5,218.5,"Zach Zarba, Nick Buchert, Jonathan Sterling"
