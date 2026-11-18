@@ -1,25 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHA @ LAL,Moussa Diabate 9+ pts + Sion James 10+ pra,2,0.432,0.4104,2.44,2.56,2.37,-0.0273,1.014,2.10-2.50
-CHA @ LAL,Moussa Diabate 9+ pts + Ryan Kalkbrenner 5+ pr,2,0.4387,0.4141,2.41,2.54,2.33,-0.0363,1.003,2.10-2.50
-CHA @ LAL,Moussa Diabate 9+ pts + Jake LaRavia 10+ pra,2,0.4044,0.3943,2.54,2.66,2.44,-0.0371,1.009,2.10-2.50
-CHA @ LAL,Quentin Grimes pts under 13.5 + Matisse Thybulle 1+ stl,2,0.5823,0.4568,2.19,2.3,2.08,-0.0478,1.001,1.85-2.10
-CHA @ LAL,Quentin Grimes pts under 13.5 + Matisse Thybulle 5+ pra,2,0.6258,0.4832,2.07,2.17,1.97,-0.0481,0.997,1.85-2.10
-CHA @ LAL,Quentin Grimes pts under 13.5 + Matisse Thybulle 5+ pr,2,0.6042,0.463,2.16,2.27,2.05,-0.0495,0.995,1.85-2.10
-CHA @ LAL,Matisse Thybulle 5+ pa + Ryan Kalkbrenner 5+ pr + Luka Doncic 1+ stl,3,0.6576,0.5094,1.96,2.06,1.69,-0.1413,1.002,1.65-1.85
-CHA @ LAL,Ryan Kalkbrenner 5+ pr + Luka Doncic 1+ stl + Sion James 10+ pra,3,0.6736,0.5282,1.89,1.99,1.62,-0.1421,1.003,1.50-1.65
-CHA @ LAL,Matisse Thybulle 5+ pa + Ryan Kalkbrenner 5+ pr + Sion James 10+ pra,3,0.7005,0.5447,1.84,1.93,1.57,-0.1421,1.002,1.50-1.65
-CHA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl + Sion James 10+ pra,3,0.6405,0.4992,2.0,2.1,1.72,-0.1429,1.001,1.65-1.85
-CHA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl + Jake LaRavia 5+ pa,3,0.6657,0.5266,1.9,1.99,1.63,-0.1441,1.003,1.50-1.65
-CHA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl + Jake LaRavia 10+ pra,3,0.6046,0.4837,2.07,2.17,1.77,-0.1443,1.005,1.65-1.85
-UTA @ LAC,Brice Sensabaugh 14+ pts + Ace Bailey 15+ pra,2,0.5,0.4202,2.38,2.5,2.35,-0.0119,1.012,2.10-2.50
-UTA @ LAC,Brice Sensabaugh 14+ pts + Ace Bailey 10+ pa,2,0.5052,0.4235,2.36,2.48,2.32,-0.0161,1.007,2.10-2.50
-UTA @ LAC,Brice Sensabaugh 14+ pts + Josh Okogie 5+ pr,2,0.5158,0.4261,2.35,2.46,2.31,-0.0174,1.003,2.10-2.50
-UTA @ LAC,Brice Sensabaugh 14+ pts + Max Strus 5+ pr,2,0.5302,0.4621,2.16,2.27,2.1,-0.0296,1.001,1.85-2.10
-UTA @ LAC,Rui Hachimura pts under 13.5 + Max Strus 5+ pr,2,0.5218,0.4557,2.19,2.3,2.1,-0.043,0.998,1.85-2.10
-UTA @ LAC,Ace Bailey 15+ pts + Max Strus 5+ pr,2,0.517,0.4543,2.2,2.31,2.1,-0.0461,1.001,1.85-2.10
-UTA @ LAC,LAC win + Josh Okogie 5+ pr,2,0.79,0.5607,1.78,1.87,1.64,-0.0785,0.997,1.50-1.65
-UTA @ LAC,LAC win + Ace Bailey 1+ 3pm,2,0.7575,0.5469,1.83,1.92,1.68,-0.0818,0.997,1.65-1.85
-UTA @ LAC,LAC win + Ace Bailey 10+ pr,2,0.8236,0.6042,1.66,1.74,1.52,-0.0834,0.998,1.50-1.65
-UTA @ LAC,LAC win + Ace Bailey 10+ pa,2,0.7673,0.5527,1.81,1.9,1.66,-0.0849,0.993,1.65-1.85
-UTA @ LAC,LAC win + Keyonte George 1+ 3pm,2,0.7673,0.5647,1.77,1.86,1.62,-0.0854,0.997,1.50-1.65
-UTA @ LAC,LAC win + Ace Bailey 15+ pra,2,0.7559,0.5458,1.83,1.92,1.68,-0.0854,0.993,1.65-1.85
+CHA @ LAL,Moussa Diabate 9+ pts + Sion James 5+ pa,2,0.4617,0.4351,2.3,2.41,2.22,-0.0325,1.004,2.10-2.50
+CHA @ LAL,Moussa Diabate 9+ pts + Ryan Kalkbrenner 5+ pr,2,0.4387,0.4149,2.41,2.53,2.33,-0.0345,1.003,2.10-2.50
+CHA @ LAL,Moussa Diabate 9+ pts + Jake LaRavia 10+ pra,2,0.4044,0.3947,2.53,2.66,2.44,-0.0352,1.009,2.10-2.50
+CHA @ LAL,Sandro Mamukelashvili pts under 12.5 + Sion James 5+ pa,2,0.6502,0.4596,2.18,2.28,2.06,-0.0523,1.0,1.85-2.10
+CHA @ LAL,Sandro Mamukelashvili pts under 12.5 + Matisse Thybulle 5+ pra,2,0.6528,0.4711,2.12,2.23,2.0,-0.0583,0.997,1.85-2.10
+CHA @ LAL,CHA +7.5 + Sion James 5+ pa,2,0.5348,0.4565,2.19,2.3,2.06,-0.0587,1.01,1.85-2.10
+CHA @ LAL,LAL win + Matisse Thybulle 5+ pa,2,0.5736,0.5793,1.73,1.81,1.62,-0.0623,1.017,1.50-1.65
+CHA @ LAL,LAL win + Jake LaRavia 10+ pra,2,0.5506,0.5698,1.75,1.84,1.63,-0.069,1.014,1.50-1.65
+CHA @ LAL,LAL win + Jake LaRavia 5+ pa,2,0.6041,0.6179,1.62,1.7,1.5,-0.0718,1.009,1.50-1.65
+CHA @ LAL,LAL win + Luka Doncic 1+ stl,2,0.5417,0.5434,1.84,1.93,1.7,-0.0763,1.0,1.65-1.85
+CHA @ LAL,LAL win + Matisse Thybulle 5+ pa + Jake LaRavia 5+ pa,3,0.5332,0.505,1.98,2.08,1.77,-0.1039,1.027,1.65-1.85
+CHA @ LAL,LAL win + Coby White 10+ pts,2,0.5066,0.5256,1.9,2.0,1.7,-0.1053,0.975,1.65-1.85
