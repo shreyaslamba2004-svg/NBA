@@ -1,37 +1,23 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Jalen Brunson 1+ 3pm,2,0.5361,0.4587,2.18,2.29,2.12,-0.0259,1.001,2.10-2.50
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Landry Shamet 5+ pra,2,0.5551,0.4778,2.09,2.2,2.03,-0.0283,1.0,1.85-2.10
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + OG Anunoby 10+ pa,2,0.5402,0.4619,2.17,2.27,2.1,-0.0288,0.998,2.10-2.50
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + OG Anunoby 10+ pts,2,0.5056,0.43,2.33,2.44,2.25,-0.0314,0.994,2.10-2.50
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Collin Murray-Boyles 5+ pa,2,0.5582,0.4848,2.06,2.17,1.99,-0.0329,0.997,1.85-2.10
-NYK @ TOR,Jamal Shead 6+ pts + OG Anunoby 10+ pts,2,0.5796,0.4539,2.2,2.31,2.08,-0.0573,1.003,1.85-2.10
-NYK @ TOR,Miles McBride 3pm under 1.5 + Collin Murray-Boyles 5+ pa,2,0.6885,0.5089,1.97,2.06,1.83,-0.0706,0.998,1.65-1.85
-NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + OG Anunoby 10+ pa,2,0.7078,0.5292,1.89,1.98,1.75,-0.0739,0.998,1.65-1.85
-NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Landry Shamet 5+ pra,2,0.7265,0.5469,1.83,1.92,1.69,-0.0743,0.999,1.65-1.85
-POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 4+ reb,2,0.5362,0.415,2.41,2.53,2.35,-0.024,1.005,2.10-2.50
-POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 15+ pra,2,0.6102,0.463,2.16,2.27,2.11,-0.024,1.001,2.10-2.50
-POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 8+ reb,2,0.56,0.4236,2.36,2.48,2.3,-0.0244,1.0,2.10-2.50
-POR @ MIN,Scoot Henderson 11+ pts + LaMelo Ball 10+ pts,2,0.6115,0.4725,2.12,2.22,2.06,-0.0264,1.002,1.85-2.10
-POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 10+ pa,2,0.6275,0.4854,2.06,2.16,2.0,-0.028,1.001,1.85-2.10
-POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 5+ pa,2,0.6326,0.4869,2.05,2.16,1.99,-0.0289,0.999,1.85-2.10
-POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 15+ pra,2,0.7703,0.555,1.8,1.89,1.68,-0.0654,0.999,1.65-1.85
-POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 8+ reb,2,0.7067,0.5076,1.97,2.07,1.84,-0.066,0.998,1.65-1.85
-POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 5+ pa,2,0.801,0.5854,1.71,1.79,1.59,-0.0672,1.0,1.50-1.65
-POR @ MIN,Bones Hyland 3pm under 2.5 + LaMelo Ball 2+ 3pm,2,0.7235,0.5279,1.89,1.99,1.77,-0.0681,0.999,1.65-1.85
-POR @ MIN,Bones Hyland 3pm under 2.5 + Jaden McDaniels 10+ pa,2,0.7924,0.5822,1.72,1.8,1.6,-0.0688,0.999,1.50-1.65
-POR @ MIN,Bones Hyland 3pm under 2.5 + LaMelo Ball 10+ pts,2,0.7699,0.5649,1.77,1.86,1.65,-0.0702,0.998,1.50-1.65
-DET @ SAS,Stephon Castle 16+ pts + SAS win,2,0.3582,0.4138,2.42,2.54,2.47,0.02,1.064,2.10-2.50
-DET @ SAS,Kevin Huerter pts under 12.5 + SAS win,2,0.3854,0.4156,2.41,2.53,2.45,0.0197,1.063,2.10-2.50
-DET @ SAS,Keldon Johnson 9+ pts + SAS win,2,0.3924,0.4283,2.33,2.45,2.35,0.0063,1.046,2.10-2.50
-DET @ SAS,Paul Reed 11+ pts + Daniss Jenkins 15+ pra,2,0.6156,0.4682,2.14,2.24,2.06,-0.0371,1.006,1.85-2.10
-DET @ SAS,John Collins 12+ pts + Stephon Castle 10+ pr,2,0.563,0.4615,2.17,2.28,2.08,-0.0415,1.002,1.85-2.10
-DET @ SAS,Victor Wembanyama pts under 28.5 + Paul Reed 4+ reb,2,0.6255,0.46,2.17,2.28,2.08,-0.0415,0.999,1.85-2.10
-DET @ SAS,Julian Champagnie 3pm under 2.5 + Paul Reed 4+ reb,2,0.7675,0.5505,1.82,1.91,1.7,-0.065,0.999,1.65-1.85
-DET @ SAS,Julian Champagnie 3pm under 2.5 + Ausar Thompson 10+ pa,2,0.7115,0.5139,1.95,2.04,1.81,-0.0679,0.998,1.65-1.85
-DET @ SAS,Julian Champagnie 3pm under 2.5 + Daniss Jenkins 15+ pra,2,0.7525,0.5549,1.8,1.89,1.68,-0.0697,1.0,1.65-1.85
-DET @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 10+ pr,2,0.7807,0.577,1.73,1.82,1.61,-0.0715,0.998,1.50-1.65
-DET @ SAS,SAS win + Paul Reed 4+ reb + Stephon Castle 10+ pts,3,0.5463,0.5508,1.82,1.91,1.64,-0.0994,1.028,1.50-1.65
-DET @ SAS,SAS win + Cade Cunningham 6+ ast,2,0.5383,0.5905,1.69,1.78,1.52,-0.1007,0.975,1.50-1.65
+POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 4+ reb,2,0.5362,0.4129,2.42,2.54,2.37,-0.023,1.005,2.10-2.50
+POR @ MIN,Scoot Henderson 11+ pts + Ayo Dosunmu 1+ 3pm,2,0.5391,0.4174,2.4,2.52,2.34,-0.0247,1.005,2.10-2.50
+POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 15+ pr,2,0.581,0.446,2.24,2.35,2.19,-0.025,1.002,2.10-2.50
+POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 15+ pra,2,0.6102,0.4698,2.13,2.23,2.07,-0.0269,1.001,1.85-2.10
+POR @ MIN,Scoot Henderson 11+ pts + LaMelo Ball 10+ pts,2,0.6115,0.4743,2.11,2.21,2.05,-0.0271,1.002,1.85-2.10
+POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 10+ pa,2,0.6275,0.4864,2.06,2.16,2.0,-0.0284,1.001,1.85-2.10
+POR @ MIN,MIN win + Jaden McDaniels 10+ pa,2,0.608,0.5109,1.96,2.06,1.82,-0.0693,1.008,1.65-1.85
+DET @ SAS,Keldon Johnson 9+ pts + SAS win,2,0.3806,0.4241,2.36,2.48,2.35,-0.0034,1.04,2.10-2.50
+DET @ SAS,Devin Vassell 10+ pts + SAS win,2,0.4039,0.4391,2.28,2.39,2.26,-0.0068,1.041,2.10-2.50
+DET @ SAS,Victor Wembanyama pts under 28.5 + Paul Reed 4+ reb,2,0.6292,0.4596,2.18,2.28,2.12,-0.0253,0.997,2.10-2.50
+DET @ SAS,Victor Wembanyama pts under 28.5 + Kevin Huerter 10+ pra,2,0.6548,0.4878,2.05,2.15,2.0,-0.0259,1.0,1.85-2.10
+DET @ SAS,Victor Wembanyama pts under 28.5 + Daniss Jenkins 15+ pra,2,0.6244,0.4641,2.15,2.26,2.09,-0.0285,0.997,1.85-2.10
+DET @ SAS,Paul Reed 11+ pts + Daniss Jenkins 15+ pra,2,0.5983,0.4657,2.15,2.25,2.06,-0.0422,1.007,1.85-2.10
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Paul Reed 4+ reb,2,0.7549,0.5482,1.82,1.92,1.7,-0.069,0.998,1.65-1.85
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Ausar Thompson 10+ pa,2,0.706,0.5143,1.94,2.04,1.81,-0.0698,0.998,1.65-1.85
+DET @ SAS,Julian Champagnie 3pm under 2.5 + Daniss Jenkins 15+ pra,2,0.7499,0.5541,1.8,1.89,1.68,-0.0711,0.999,1.65-1.85
+DET @ SAS,SAS win + Kevin Huerter 15+ pra,2,0.5385,0.5786,1.73,1.81,1.56,-0.096,0.976,1.50-1.65
+DET @ SAS,SAS win + Cade Cunningham 6+ ast,2,0.5369,0.5865,1.7,1.79,1.54,-0.0965,0.979,1.50-1.65
+DET @ SAS,Kevin Huerter 15+ pra + Daniss Jenkins 15+ pa,2,0.6712,0.5872,1.7,1.79,1.54,-0.097,1.008,1.50-1.65
 CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + LAL win,2,0.4512,0.4041,2.47,2.6,2.39,-0.033,1.011,2.10-2.50
 CHA @ LAL,Sandro Mamukelashvili ra under 8.5 + LAL win,2,0.4324,0.3936,2.54,2.67,2.43,-0.0425,1.004,2.10-2.50
 CHA @ LAL,CHA +7.5 + Brandon Miller 10+ pts,2,0.5318,0.4465,2.24,2.35,2.11,-0.056,1.02,2.10-2.50
