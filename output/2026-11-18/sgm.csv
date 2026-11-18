@@ -10,28 +10,28 @@ MEM @ CLE,CLE win + James Harden 4+ ast,2,0.5563,0.5474,1.83,1.92,1.7,-0.0702,1.
 MEM @ CLE,CLE win + Tyrese Proctor 1+ 3pm,2,0.5551,0.5416,1.85,1.94,1.71,-0.0725,1.009,1.65-1.85
 MEM @ CLE,CLE win + Meleek Thomas 10+ pra,2,0.5878,0.5725,1.75,1.83,1.62,-0.0743,1.007,1.50-1.65
 MEM @ CLE,CLE win + Donovan Mitchell 1+ 3pm,2,0.5866,0.5696,1.76,1.84,1.62,-0.0773,1.003,1.50-1.65
-HOU @ IND,HOU win + Kevin Durant 4+ ast,2,0.4149,0.4234,2.36,2.48,2.25,-0.0454,1.022,2.10-2.50
-HOU @ IND,HOU win + Jabari Smith Jr. 2+ ast,2,0.366,0.4,2.5,2.62,2.37,-0.0502,1.03,2.10-2.50
-HOU @ IND,game over 224.5 + Kevin Durant 4+ reb,2,0.5376,0.3913,2.56,2.68,2.4,-0.0613,1.02,2.10-2.50
-HOU @ IND,HOU -7.5 + Jabari Smith Jr. 10+ pa,2,0.3637,0.439,2.28,2.39,2.1,-0.0795,1.029,1.85-2.10
-HOU @ IND,HOU win + Kevin Durant 1+ 3pm,2,0.5244,0.5944,1.68,1.77,1.55,-0.0796,1.009,1.50-1.65
-HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.596,0.4987,2.01,2.11,1.83,-0.0879,1.006,1.65-1.85
-HOU @ IND,HOU win + Kevin Durant 4+ reb,2,0.4859,0.5452,1.83,1.93,1.67,-0.0891,0.997,1.65-1.85
-HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 1+ 3pm,2,0.5997,0.5026,1.99,2.09,1.81,-0.0923,1.001,1.65-1.85
-HOU @ IND,Kevin Durant 33+ pra + Jabari Smith Jr. 10+ pa,2,0.5029,0.4423,2.26,2.37,2.05,-0.0951,1.007,1.85-2.10
-HOU @ IND,HOU -7.5 + Jabari Smith Jr. 1+ 3pm,2,0.3609,0.4364,2.29,2.41,2.07,-0.0965,1.01,1.85-2.10
-MIL @ MIA,game over 235.5 + Kyle Kuzma 15+ pra,2,0.3742,0.3982,2.51,2.64,2.43,-0.0306,1.044,2.10-2.50
-MIL @ MIA,Brayden Burries pts under 11.5 + MIA win,2,0.5151,0.4309,2.32,2.44,2.24,-0.034,1.031,2.10-2.50
-MIL @ MIA,game over 235.5 + Kel'el Ware 10+ pr,2,0.3805,0.3862,2.59,2.72,2.5,-0.0354,1.029,2.10-2.50
-MIL @ MIA,Andrew Wiggins 13+ pr + MIA win,2,0.567,0.4628,2.16,2.27,2.06,-0.0445,1.014,1.85-2.10
-MIL @ MIA,Davion Mitchell 3+ reb + MIA win,2,0.5426,0.4509,2.22,2.33,2.07,-0.0656,1.0,1.85-2.10
-MIL @ MIA,Kel'el Ware 15+ pr + Jaime Jaquez Jr. 15+ pra,2,0.597,0.4506,2.22,2.33,2.06,-0.0708,1.005,1.85-2.10
-MIL @ MIA,Kyle Kuzma 15+ pra + Andrew Wiggins 1+ 3pm,2,0.7019,0.5825,1.72,1.8,1.56,-0.0911,1.004,1.50-1.65
-MIL @ MIA,Kyle Kuzma 15+ pra + Jaime Jaquez Jr. 10+ pts,2,0.7248,0.602,1.66,1.74,1.51,-0.0921,1.003,1.50-1.65
-MIL @ MIA,Kyle Kuzma 15+ pra + Myles Turner 4+ reb,2,0.7127,0.5859,1.71,1.79,1.55,-0.0921,1.001,1.50-1.65
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Andrew Wiggins 1+ 3pm,3,0.6051,0.4831,2.07,2.17,1.83,-0.1162,1.002,1.65-1.85
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Bam Adebayo 6+ reb,3,0.6416,0.5145,1.94,2.04,1.71,-0.1179,1.001,1.65-1.85
-MIL @ MIA,MIA win + Kel'el Ware 4+ reb + Andrew Wiggins 1+ 3pm,3,0.6184,0.5095,1.96,2.06,1.73,-0.119,1.006,1.65-1.85
+HOU @ IND,HOU win + Kevin Durant 4+ ast,2,0.4388,0.4242,2.36,2.48,2.25,-0.0438,1.023,2.10-2.50
+HOU @ IND,HOU win + Jabari Smith Jr. 2+ ast,2,0.3823,0.3984,2.51,2.64,2.37,-0.0541,1.026,2.10-2.50
+HOU @ IND,game over 224.5 + Kevin Durant 4+ reb,2,0.5329,0.3929,2.55,2.67,2.4,-0.0574,1.025,2.10-2.50
+HOU @ IND,HOU win + Kevin Durant 1+ 3pm,2,0.5492,0.5948,1.68,1.77,1.55,-0.0789,1.011,1.50-1.65
+HOU @ IND,HOU -7.5 + Jabari Smith Jr. 10+ pa,2,0.3871,0.4365,2.29,2.41,2.1,-0.0847,1.023,1.85-2.10
+HOU @ IND,HOU win + Kevin Durant 4+ reb,2,0.5112,0.5474,1.83,1.92,1.67,-0.0854,1.002,1.65-1.85
+HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pa,2,0.5999,0.4987,2.01,2.11,1.83,-0.088,1.004,1.65-1.85
+HOU @ IND,Kevin Durant 33+ pra + Jabari Smith Jr. 10+ pa,2,0.5077,0.4451,2.25,2.36,2.05,-0.0894,1.013,1.85-2.10
+HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 1+ 3pm,2,0.6042,0.5027,1.99,2.09,1.81,-0.0921,1.0,1.65-1.85
+HOU @ IND,Kevin Durant 29+ pr + Jabari Smith Jr. 10+ pa,2,0.484,0.4377,2.28,2.4,2.07,-0.0937,1.012,1.85-2.10
+MIL @ MIA,game over 235.5 + Kyle Kuzma 15+ pra,2,0.3742,0.3927,2.55,2.67,2.48,-0.0277,1.044,2.10-2.50
+MIL @ MIA,Brayden Burries pa under 15.5 + MIA win,2,0.539,0.4582,2.18,2.29,2.1,-0.0364,1.033,2.10-2.50
+MIL @ MIA,Brayden Burries pts under 12.5 + MIA win,2,0.572,0.4749,2.11,2.21,2.03,-0.0365,1.027,1.85-2.10
+MIL @ MIA,game over 235.5 + Kyle Kuzma 10+ pa,2,0.3829,0.4095,2.44,2.56,2.35,-0.0392,1.036,2.10-2.50
+MIL @ MIA,Bam Adebayo 12+ ra + MIA win,2,0.5332,0.4517,2.21,2.32,2.08,-0.0605,1.005,1.85-2.10
+MIL @ MIA,Andrew Wiggins 13+ pr + Bam Adebayo 20+ pra,2,0.6268,0.4692,2.13,2.24,1.99,-0.0657,1.006,1.85-2.10
+MIL @ MIA,Jaime Jaquez Jr. 4+ ast + Myles Turner 5+ pa,2,0.6198,0.4996,2.0,2.1,1.84,-0.0826,1.002,1.65-1.85
+MIL @ MIA,Kyle Kuzma 10+ pa + Andrew Wiggins 1+ 3pm,2,0.7242,0.599,1.67,1.75,1.52,-0.0903,1.004,1.50-1.65
+MIL @ MIA,Andrew Wiggins 1+ 3pm + Bam Adebayo 6+ reb,2,0.7268,0.6055,1.65,1.73,1.5,-0.0917,1.004,1.50-1.65
+MIL @ MIA,Andrew Wiggins 1+ 3pm + Myles Turner 4+ reb,2,0.6946,0.5809,1.72,1.81,1.56,-0.0958,1.0,1.50-1.65
+MIL @ MIA,MIA win + Kel'el Ware 4+ reb + Andrew Wiggins 1+ 3pm,3,0.6184,0.5034,1.99,2.09,1.75,-0.1168,1.006,1.65-1.85
+MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bam Adebayo 6+ reb,3,0.6121,0.5145,1.94,2.04,1.71,-0.118,1.011,1.65-1.85
 PHI @ ORL,PHI win + VJ Edgecombe 15+ pr,2,0.409,0.4168,2.4,2.52,2.35,-0.02,1.04,2.10-2.50
 PHI @ ORL,PHI -1.5 + VJ Edgecombe 15+ pr,2,0.3831,0.3942,2.54,2.66,2.46,-0.0308,1.041,2.10-2.50
 PHI @ ORL,PHI win + VJ Edgecombe 1+ 3pm,2,0.4239,0.4255,2.35,2.47,2.25,-0.0422,1.014,2.10-2.50
@@ -87,18 +87,18 @@ ATL @ OKC,Kenrich Williams 3pm under 1.5 + Alex Caruso 5+ pr,2,0.6966,0.5176,1.9
 ATL @ OKC,Kenrich Williams 3pm under 1.5 + Dyson Daniels 15+ pra,2,0.7209,0.5426,1.84,1.93,1.71,-0.0741,1.0,1.65-1.85
 ATL @ OKC,OKC win + Jalen Johnson 6+ reb,2,0.6513,0.584,1.71,1.8,1.57,-0.0805,1.0,1.50-1.65
 ATL @ OKC,OKC win + Dyson Daniels 15+ pra,2,0.6991,0.6119,1.63,1.72,1.5,-0.0811,0.995,1.50-1.65
-BOS @ DEN,BOS win + Jayson Tatum 1+ 3pm,2,0.5743,0.5094,1.96,2.06,1.82,-0.074,1.004,1.65-1.85
-BOS @ DEN,BOS win + Nikola Jokic 6+ reb,2,0.5867,0.5123,1.95,2.05,1.8,-0.0757,0.999,1.65-1.85
-BOS @ DEN,BOS win + Jayson Tatum 4+ reb,2,0.5681,0.5017,1.99,2.09,1.84,-0.0785,0.998,1.65-1.85
-BOS @ DEN,BOS win + Jamal Murray 1+ 3pm,2,0.5703,0.494,2.02,2.13,1.86,-0.0804,0.993,1.85-2.10
-BOS @ DEN,BOS win + Cameron Johnson 1+ 3pm,2,0.5311,0.4684,2.13,2.24,1.95,-0.0844,0.992,1.85-2.10
-BOS @ DEN,Nikola Jokic 21+ ra + Christian Braun 10+ pr,2,0.5071,0.4218,2.37,2.49,2.17,-0.0852,1.008,2.10-2.50
-BOS @ DEN,Payton Pritchard pa under 18.5 + Christian Braun 10+ pr,2,0.5669,0.4468,2.24,2.35,2.05,-0.0858,0.998,1.85-2.10
-BOS @ DEN,Neemias Queta blk under 1.5 + Christian Braun 10+ pr,2,0.6881,0.5549,1.8,1.89,1.64,-0.088,1.001,1.50-1.65
-BOS @ DEN,Paul George pa under 22.5 + Christian Braun 10+ pr,2,0.5201,0.4166,2.4,2.52,2.19,-0.0887,0.999,2.10-2.50
-BOS @ DEN,Nikola Jokic 21+ ra + Jamal Murray 4+ ast,2,0.4925,0.422,2.37,2.49,2.16,-0.0895,1.009,2.10-2.50
-BOS @ DEN,Neemias Queta blk under 1.5 + Nikola Jokic 6+ ast,2,0.698,0.572,1.75,1.84,1.59,-0.091,1.001,1.50-1.65
-BOS @ DEN,Neemias Queta blk under 1.5 + Nikola Jokic 8+ reb,2,0.6727,0.5509,1.82,1.91,1.65,-0.0914,1.0,1.50-1.65
+BOS @ DEN,Payton Pritchard pa under 18.5 + Christian Braun 10+ pr,2,0.5669,0.4205,2.38,2.5,2.21,-0.0727,0.998,2.10-2.50
+BOS @ DEN,Payton Pritchard pa under 18.5 + Cameron Johnson 1+ 3pm,2,0.5609,0.4239,2.36,2.48,2.18,-0.0748,1.0,2.10-2.50
+BOS @ DEN,Neemias Queta blk under 1.5 + Christian Braun 10+ pr,2,0.6881,0.523,1.91,2.01,1.77,-0.0758,1.001,1.65-1.85
+BOS @ DEN,Payton Pritchard pa under 18.5 + Nikola Jokic 6+ ast,2,0.5747,0.4331,2.31,2.42,2.13,-0.0762,0.998,2.10-2.50
+BOS @ DEN,BOS win + Nikola Jokic 6+ reb,2,0.5867,0.5152,1.94,2.04,1.79,-0.0768,0.999,1.65-1.85
+BOS @ DEN,Payton Pritchard pa under 18.5 + Nikola Jokic 6+ reb,2,0.6139,0.4659,2.15,2.25,1.98,-0.0771,0.998,1.85-2.10
+BOS @ DEN,Payton Pritchard pa under 18.5 + Jamal Murray 1+ 3pm,2,0.6002,0.4546,2.2,2.31,2.03,-0.0774,0.997,1.85-2.10
+BOS @ DEN,Payton Pritchard pa under 18.5 + Jayson Tatum 4+ reb,2,0.5952,0.4556,2.19,2.3,2.02,-0.0782,0.999,1.85-2.10
+BOS @ DEN,Neemias Queta blk under 1.5 + Nikola Jokic 6+ ast,2,0.698,0.5389,1.86,1.95,1.71,-0.0788,1.001,1.65-1.85
+BOS @ DEN,Neemias Queta blk under 1.5 + Nikola Jokic 6+ reb,2,0.7457,0.5798,1.72,1.81,1.59,-0.0796,1.001,1.50-1.65
+BOS @ DEN,Neemias Queta blk under 1.5 + Jayson Tatum 4+ reb,2,0.7222,0.5663,1.77,1.85,1.62,-0.0817,1.001,1.50-1.65
+BOS @ DEN,Neemias Queta blk under 1.5 + Jamal Murray 1+ 3pm,2,0.7268,0.5639,1.77,1.86,1.63,-0.0828,0.997,1.50-1.65
 GSW @ DAL,game over 222.5 + Brandin Podziemski 20+ pra,2,0.6175,0.4211,2.37,2.49,2.22,-0.0648,1.029,2.10-2.50
 GSW @ DAL,DAL win + P.J. Washington 10+ pr,2,0.5243,0.6,1.67,1.75,1.55,-0.068,1.006,1.50-1.65
 GSW @ DAL,game over 222.5 + Brandin Podziemski 15+ pr,2,0.6314,0.4335,2.31,2.42,2.14,-0.0724,1.022,2.10-2.50

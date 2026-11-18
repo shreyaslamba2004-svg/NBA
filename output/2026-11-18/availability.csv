@@ -42,7 +42,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910008,IND,1631245,Quenton Jackson,,,1.0,,,
 401910008,IND,204456,T.J. McConnell,Probable,Injury/Illness-RightHamstringStrain,0.93,McConnell (hamstring) is probable to play Wednesday against the Rockets.,,
 401910008,IND,1626204,Larry Nance Jr.,,,1.0,,,
-401910008,IND,1629614,Andrew Nembhard,Questionable,,0.55,Nembhard (hip) is questionable for Wednesday's game against Houston.,,
+401910008,IND,1629614,Andrew Nembhard,Out,,0.0,Nembhard (hip) is questionable for Wednesday's game against Houston.,,
 401910008,IND,1630174,Aaron Nesmith,,,1.0,,,
 401910008,IND,1626162,Kelly Oubre Jr.,,,1.0,,,
 401910008,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
