@@ -1,13 +1,13 @@
 game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,market_source,p_over_blend
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,32.5,False,0.6369,0.6207,est,0.6232
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,33.5,False,0.6063,0.5897,est,0.5922
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,34.5,False,0.5769,0.5599,est,0.5625
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,35.5,False,0.5489,0.5316,est,0.5343
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,36.5,True,0.5192,0.5019,book,0.5046
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,37.5,False,0.491,0.4737,est,0.4764
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,38.5,False,0.4638,0.4466,est,0.4492
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,39.5,False,0.4349,0.418,est,0.4206
-401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,40.5,False,0.4095,0.3929,est,0.3954
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,32.5,False,0.6369,0.6199,est,0.6225
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,33.5,False,0.6063,0.5888,est,0.5915
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,34.5,False,0.5769,0.559,est,0.5617
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,35.5,False,0.5489,0.5308,est,0.5335
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,36.5,True,0.5192,0.501,book,0.5038
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,37.5,False,0.491,0.4735,book,0.4762
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,38.5,False,0.4638,0.4457,est,0.4485
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,39.5,False,0.4349,0.4171,est,0.4198
+401910005,CHA @ LAL,LAL,1629029,Luka Doncic,pts,40.5,False,0.4095,0.392,est,0.3947
 401910005,CHA @ LAL,LAL,1629029,Luka Doncic,reb,4.5,False,0.8055,0.8372,book,0.8323
 401910005,CHA @ LAL,LAL,1629029,Luka Doncic,reb,5.5,False,0.6872,0.748,book,0.7386
 401910005,CHA @ LAL,LAL,1629029,Luka Doncic,reb,6.5,False,0.5537,0.635,book,0.6225
@@ -68,15 +68,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1629029,Luka Doncic,ra,16.5,False,0.3996,0.4394,est,0.4333
 401910005,CHA @ LAL,LAL,1629029,Luka Doncic,ra,17.5,False,0.3262,0.3632,est,0.3575
 401910005,CHA @ LAL,LAL,1629029,Luka Doncic,ra,18.5,False,0.2611,0.2939,est,0.2888
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,9.5,False,0.6134,0.7576,est,0.7354
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,10.5,False,0.5296,0.6892,est,0.6646
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,11.5,False,0.4501,0.6171,est,0.5914
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,12.5,False,0.3806,0.5475,est,0.5218
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,13.5,True,0.317,0.4776,book,0.4529
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,14.5,False,0.2559,0.4038,est,0.3811
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,15.5,False,0.2057,0.3377,est,0.3174
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,16.5,False,0.1639,0.2785,est,0.2609
-401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,17.5,False,0.1295,0.2267,est,0.2117
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,8.5,False,0.6932,0.7936,est,0.7781
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,9.5,False,0.6134,0.7298,est,0.7119
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,10.5,False,0.5296,0.6571,est,0.6375
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,11.5,False,0.4501,0.5821,est,0.5618
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,12.5,True,0.3806,0.5112,book,0.4911
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,13.5,False,0.317,0.4783,book,0.4535
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,14.5,False,0.2559,0.3693,est,0.3518
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,15.5,False,0.2057,0.3059,est,0.2905
+401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,pts,16.5,False,0.1639,0.2502,est,0.2369
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,reb,0.5,False,0.9699,0.9715,est,0.9712
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,reb,1.5,False,0.873,0.8789,est,0.878
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,reb,2.5,False,0.709,0.7072,book,0.7075
@@ -135,14 +135,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,ra,7.5,False,0.3652,0.3693,est,0.3687
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,ra,8.5,False,0.2536,0.2569,est,0.2564
 401910005,CHA @ LAL,LAL,1629656,Quentin Grimes,ra,9.5,False,0.1667,0.1691,est,0.1688
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,3.5,False,0.8753,0.8773,est,0.877
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,4.5,False,0.7832,0.7864,est,0.7859
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,3.5,False,0.8753,0.881,est,0.8801
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,4.5,False,0.7832,0.7921,est,0.7908
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,5.5,False,0.6792,0.6321,book,0.6394
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,6.5,False,0.5697,0.5743,est,0.5736
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,7.5,True,0.4662,0.4708,book,0.4701
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,8.5,False,0.3696,0.3739,est,0.3733
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,6.5,False,0.5697,0.5827,est,0.5807
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,7.5,True,0.4662,0.4794,book,0.4774
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,8.5,False,0.3696,0.382,est,0.3801
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,9.5,False,0.2884,0.3179,book,0.3134
-401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,10.5,False,0.2198,0.223,est,0.2225
+401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,10.5,False,0.2198,0.229,est,0.2276
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,pts,11.5,False,0.1643,0.2019,book,0.1961
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,reb,1.5,False,0.9203,0.9191,est,0.9193
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,reb,2.5,False,0.7959,0.7809,book,0.7832
@@ -202,15 +202,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,ra,7.5,False,0.3787,0.3942,est,0.3918
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,ra,8.5,False,0.265,0.2779,est,0.2759
 401910005,CHA @ LAL,LAL,1631222,Jake LaRavia,ra,9.5,False,0.177,0.1867,est,0.1852
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,8.5,False,0.6397,0.7542,est,0.7366
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,9.5,False,0.5642,0.6911,est,0.6715
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,10.5,False,0.4887,0.6229,est,0.6022
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,11.5,False,0.413,0.5487,est,0.5278
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,12.5,True,0.345,0.4765,book,0.4563
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,13.5,False,0.2892,0.4128,est,0.3938
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,14.5,False,0.2385,0.3512,est,0.3338
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,15.5,False,0.1964,0.2969,est,0.2814
-401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,16.5,False,0.1592,0.2465,est,0.233
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,8.5,False,0.6397,0.7676,est,0.7479
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,9.5,False,0.5642,0.7066,est,0.6847
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,10.5,False,0.4887,0.64,est,0.6167
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,11.5,False,0.413,0.5668,est,0.5431
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,12.5,True,0.345,0.4949,book,0.4718
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,13.5,False,0.2892,0.4308,est,0.409
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,14.5,False,0.2385,0.3681,est,0.3482
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,15.5,False,0.1964,0.3125,est,0.2946
+401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,16.5,False,0.1592,0.2604,est,0.2448
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,2.5,False,0.8456,0.8849,book,0.8788
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,3.5,False,0.7143,0.7991,book,0.786
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,4.5,False,0.5611,0.6806,book,0.6622
@@ -268,15 +268,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,8.5,False,0.3062,0.4274,est,0.4087
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,9.5,False,0.216,0.3178,est,0.3021
 401910005,CHA @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,10.5,False,0.1469,0.2254,est,0.2133
-401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,10.5,False,0.7078,0.7137,est,0.7128
+401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,10.5,False,0.7078,0.7301,est,0.7266
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,11.5,False,0.6484,0.6505,book,0.6502
-401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,12.5,False,0.5917,0.5986,est,0.5975
-401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,13.5,False,0.5298,0.537,est,0.5359
-401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,14.5,True,0.4705,0.4776,book,0.4765
-401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,15.5,False,0.4122,0.4191,est,0.418
-401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,16.5,False,0.3593,0.3659,est,0.3649
+401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,12.5,False,0.5917,0.618,est,0.614
+401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,13.5,False,0.5298,0.5572,est,0.553
+401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,14.5,True,0.4705,0.498,book,0.4938
+401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,15.5,False,0.4122,0.4791,book,0.4688
+401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,16.5,False,0.3593,0.3851,est,0.3811
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,17.5,False,0.3128,0.3179,book,0.3171
-401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,18.5,False,0.2697,0.2754,est,0.2745
+401910005,CHA @ LAL,LAL,1629012,Collin Sexton,pts,18.5,False,0.2697,0.292,est,0.2886
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,reb,0.5,False,0.9035,,model only,0.9035
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,reb,1.5,False,0.6952,,model only,0.6952
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,reb,2.5,False,0.457,0.4117,book,0.4187
@@ -334,14 +334,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,ra,6.5,False,0.3476,0.3028,est,0.3097
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,ra,7.5,False,0.2371,0.2021,est,0.2075
 401910005,CHA @ LAL,LAL,1629012,Collin Sexton,ra,8.5,False,0.1589,0.1335,est,0.1374
-401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,3.5,False,0.8755,0.8704,est,0.8712
-401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,4.5,False,0.7891,0.7814,est,0.7826
+401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,3.5,False,0.8755,0.881,est,0.8801
+401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,4.5,False,0.7891,0.7976,est,0.7963
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,5.5,False,0.6887,0.6188,book,0.6296
-401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,6.5,False,0.5823,0.5712,est,0.5729
-401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,7.5,True,0.4775,0.4661,book,0.4679
-401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,8.5,False,0.384,0.3733,est,0.3749
+401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,6.5,False,0.5823,0.5947,est,0.5928
+401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,7.5,True,0.4775,0.4903,book,0.4883
+401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,8.5,False,0.384,0.3963,est,0.3944
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,9.5,False,0.3028,0.3074,book,0.3067
-401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,10.5,False,0.233,0.225,est,0.2262
+401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,10.5,False,0.233,0.2423,est,0.2409
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,pts,11.5,False,0.1761,0.1988,book,0.1953
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,reb,0.5,False,0.942,0.9224,est,0.9254
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,reb,1.5,False,0.7927,0.737,est,0.7456
@@ -400,14 +400,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,ra,5.5,False,0.309,,model only,0.309
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,ra,6.5,False,0.1923,,model only,0.1923
 401910005,CHA @ LAL,LAL,1629680,Matisse Thybulle,ra,7.5,False,0.1123,,model only,0.1123
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,0.5,False,0.8743,,model only,0.8743
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,1.5,False,0.6888,,model only,0.6888
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,2.5,False,0.5068,,model only,0.5068
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,3.5,False,0.3416,,model only,0.3416
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,4.5,False,0.2207,,model only,0.2207
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,5.5,False,0.1382,,model only,0.1382
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,6.5,False,0.0823,,model only,0.0823
-401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,7.5,False,0.0493,,model only,0.0493
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,0.5,False,0.8743,0.9252,est,0.9173
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,1.5,False,0.6888,0.7973,est,0.7806
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,2.5,False,0.5068,0.6462,est,0.6247
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,3.5,True,0.3416,0.4797,book,0.4584
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,4.5,False,0.2207,0.3348,est,0.3173
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,5.5,False,0.1382,0.2218,est,0.209
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,6.5,False,0.0823,0.1374,est,0.1289
+401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,pts,7.5,False,0.0493,0.0844,est,0.079
 401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,reb,0.5,False,0.9293,,model only,0.9293
 401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,reb,1.5,False,0.8082,,model only,0.8082
 401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,reb,2.5,False,0.6517,,model only,0.6517
@@ -463,15 +463,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,ra,5.5,False,0.3678,,model only,0.3678
 401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,ra,6.5,False,0.2656,,model only,0.2656
 401910005,CHA @ LAL,LAL,1629020,Jarred Vanderbilt,ra,7.5,False,0.185,,model only,0.185
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,4.5,False,0.8756,0.8669,est,0.8682
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,5.5,False,0.8049,0.7924,est,0.7943
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,6.5,False,0.7237,0.7079,est,0.7104
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,7.5,False,0.6359,0.6178,est,0.6205
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,8.5,True,0.5475,0.5282,book,0.5312
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,9.5,False,0.4661,0.4469,est,0.4498
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,10.5,False,0.3901,0.3718,est,0.3746
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,11.5,False,0.3169,0.3003,est,0.3029
-401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,12.5,False,0.2579,0.2433,est,0.2455
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,5.5,False,0.8049,0.8212,est,0.8187
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,6.5,False,0.7237,0.7447,est,0.7414
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,7.5,False,0.6359,0.6604,est,0.6566
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,8.5,False,0.5475,0.5304,book,0.533
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,9.5,True,0.4661,0.4929,book,0.4888
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,10.5,False,0.3901,0.4159,est,0.4119
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,11.5,False,0.3169,0.3406,est,0.3369
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,12.5,False,0.2579,0.279,est,0.2757
+401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,pts,13.5,False,0.2056,0.2237,est,0.2209
 401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,reb,0.5,False,0.9261,0.9195,est,0.9205
 401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,reb,1.5,False,0.7535,0.736,est,0.7387
 401910005,CHA @ LAL,LAL,1630533,Ziaire Williams,reb,2.5,True,0.5327,0.5098,book,0.5133
@@ -659,15 +659,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1631217,Moussa Diabate,ra,12.5,False,0.4184,0.408,est,0.4096
 401910005,CHA @ LAL,CHA,1631217,Moussa Diabate,ra,13.5,False,0.3348,0.3253,est,0.3267
 401910005,CHA @ LAL,CHA,1631217,Moussa Diabate,ra,14.5,False,0.2614,0.2532,est,0.2545
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,2.5,False,0.9511,0.9252,est,0.9292
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,3.5,False,0.8983,0.8489,est,0.8565
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,4.5,False,0.8237,0.7483,est,0.7599
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,5.5,False,0.7368,0.6404,est,0.6553
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,6.5,True,0.6319,0.522,book,0.5389
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,7.5,False,0.5261,0.4139,est,0.4312
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,8.5,False,0.4277,0.3221,est,0.3384
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,9.5,False,0.3411,0.2477,est,0.2621
-401910005,CHA @ LAL,CHA,1642883,Sion James,pts,10.5,False,0.2669,0.188,est,0.2002
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,3.5,False,0.8983,0.8867,est,0.8885
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,4.5,False,0.8237,0.8055,est,0.8083
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,5.5,False,0.7368,0.7128,est,0.7165
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,6.5,False,0.6319,0.522,book,0.5389
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,7.5,True,0.5261,0.496,book,0.5006
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,8.5,False,0.4277,0.3984,est,0.4029
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,9.5,False,0.3411,0.3146,est,0.3187
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,10.5,False,0.2669,0.244,est,0.2475
+401910005,CHA @ LAL,CHA,1642883,Sion James,pts,11.5,False,0.2043,0.1854,est,0.1883
 401910005,CHA @ LAL,CHA,1642883,Sion James,reb,1.5,False,0.909,0.903,est,0.9039
 401910005,CHA @ LAL,CHA,1642883,Sion James,reb,2.5,False,0.777,0.748,book,0.7525
 401910005,CHA @ LAL,CHA,1642883,Sion James,reb,3.5,False,0.6084,0.5859,book,0.5894
@@ -727,15 +727,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1642883,Sion James,ra,8.5,False,0.416,0.3906,est,0.3945
 401910005,CHA @ LAL,CHA,1642883,Sion James,ra,9.5,False,0.3081,0.286,est,0.2894
 401910005,CHA @ LAL,CHA,1642883,Sion James,ra,10.5,False,0.2181,0.2006,est,0.2033
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,0.5,False,0.978,0.9639,est,0.9661
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,1.5,False,0.9307,0.8895,est,0.8959
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,2.5,False,0.8479,0.7697,est,0.7817
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,3.5,False,0.7354,0.6249,est,0.6419
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,4.5,True,0.6113,0.4853,book,0.5047
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,5.5,False,0.4916,0.367,est,0.3862
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,6.5,False,0.3818,0.2703,est,0.2874
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,7.5,False,0.2888,0.1958,est,0.2101
-401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,8.5,False,0.2117,0.1387,est,0.1499
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,0.5,False,0.978,0.966,est,0.9679
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,1.5,False,0.9307,0.8955,est,0.901
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,2.5,False,0.8479,0.7806,est,0.791
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,3.5,False,0.7354,0.6395,est,0.6543
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,4.5,True,0.6113,0.501,book,0.518
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,5.5,False,0.4916,0.4669,book,0.4707
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,6.5,False,0.3818,0.2828,est,0.2981
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,7.5,False,0.2888,0.2059,est,0.2186
+401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,pts,8.5,False,0.2117,0.1464,est,0.1564
 401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,reb,1.5,False,0.9321,0.896,est,0.9016
 401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,reb,2.5,False,0.8452,0.7502,book,0.7648
 401910005,CHA @ LAL,CHA,1641750,Ryan Kalkbrenner,reb,3.5,False,0.7216,0.6112,book,0.6282
@@ -856,14 +856,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1642862,Liam McNeeley,ra,5.5,False,0.1605,,model only,0.1605
 401910005,CHA @ LAL,CHA,1642862,Liam McNeeley,ra,6.5,False,0.095,,model only,0.095
 401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,14.5,False,0.7092,0.6771,book,0.682
-401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,15.5,False,0.6574,0.6503,est,0.6514
-401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,16.5,False,0.6071,0.5995,est,0.6007
+401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,15.5,False,0.6574,0.6613,est,0.6607
+401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,16.5,False,0.6071,0.6112,est,0.6106
 401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,17.5,False,0.5552,0.5402,book,0.5425
-401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,18.5,True,0.5037,0.4958,book,0.497
-401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,19.5,False,0.4577,0.4493,book,0.4506
-401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,20.5,False,0.4132,0.4056,est,0.4068
-401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,21.5,False,0.3705,0.3631,est,0.3643
-401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,22.5,False,0.3294,0.3224,est,0.3235
+401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,18.5,True,0.5037,0.508,book,0.5073
+401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,19.5,False,0.4577,0.4694,book,0.4676
+401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,20.5,False,0.4132,0.4174,est,0.4168
+401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,21.5,False,0.3705,0.3745,est,0.3739
+401910005,CHA @ LAL,CHA,1641706,Brandon Miller,pts,22.5,False,0.3294,0.3331,est,0.3326
 401910005,CHA @ LAL,CHA,1641706,Brandon Miller,reb,0.5,False,0.9826,0.9788,est,0.9794
 401910005,CHA @ LAL,CHA,1641706,Brandon Miller,reb,1.5,False,0.9141,0.8966,est,0.8993
 401910005,CHA @ LAL,CHA,1641706,Brandon Miller,reb,2.5,False,0.7878,0.726,book,0.7355
@@ -988,15 +988,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1626220,Royce O'Neale,ra,6.5,False,0.2607,,model only,0.2607
 401910005,CHA @ LAL,CHA,1626220,Royce O'Neale,ra,7.5,False,0.1629,,model only,0.1629
 401910005,CHA @ LAL,CHA,1626220,Royce O'Neale,ra,8.5,False,0.0985,,model only,0.0985
-401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,13.5,False,0.7105,0.7185,est,0.7173
+401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,13.5,False,0.7105,0.7205,est,0.719
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,14.5,False,0.6585,0.6589,book,0.6588
-401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,15.5,False,0.6036,0.6129,est,0.6115
-401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,16.5,False,0.55,0.5596,est,0.5581
-401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,17.5,True,0.498,0.5078,book,0.5063
-401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,18.5,False,0.4505,0.4602,est,0.4587
+401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,15.5,False,0.6036,0.6153,est,0.6135
+401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,16.5,False,0.55,0.5621,est,0.5602
+401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,17.5,True,0.498,0.5103,book,0.5084
+401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,18.5,False,0.4505,0.4797,book,0.4752
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,19.5,False,0.4009,0.4063,book,0.4055
-401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,20.5,False,0.3572,0.3662,est,0.3649
-401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,21.5,False,0.3145,0.323,est,0.3217
+401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,20.5,False,0.3572,0.3686,est,0.3668
+401910005,CHA @ LAL,CHA,1629675,Naz Reid,pts,21.5,False,0.3145,0.3252,est,0.3235
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,reb,4.5,False,0.8083,0.8066,book,0.8069
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,reb,5.5,False,0.6972,0.711,book,0.7089
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,reb,6.5,False,0.5649,0.5984,book,0.5932
@@ -1056,15 +1056,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,ra,11.5,False,0.3327,0.3578,est,0.354
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,ra,12.5,False,0.253,0.2747,est,0.2713
 401910005,CHA @ LAL,CHA,1629675,Naz Reid,ra,13.5,False,0.1829,0.2001,est,0.1975
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,1.5,False,0.8814,,model only,0.8814
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,2.5,False,0.7823,,model only,0.7823
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,3.5,False,0.665,,model only,0.665
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,4.5,False,0.5474,,model only,0.5474
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,5.5,False,0.4413,,model only,0.4413
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,6.5,False,0.3434,,model only,0.3434
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,7.5,False,0.2617,,model only,0.2617
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,8.5,False,0.1946,,model only,0.1946
-401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,9.5,False,0.1431,,model only,0.1431
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,0.5,False,0.9568,0.9468,est,0.9483
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,1.5,False,0.8814,0.8566,est,0.8604
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,2.5,False,0.7823,0.7428,est,0.7488
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,3.5,False,0.665,0.6147,est,0.6225
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,4.5,True,0.5474,0.4929,book,0.5013
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,5.5,False,0.4413,0.3883,est,0.3964
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,6.5,False,0.3434,0.2959,est,0.3033
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,7.5,False,0.2617,0.2217,est,0.2278
+401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,pts,8.5,False,0.1946,0.1626,est,0.1675
 401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,reb,0.5,False,0.909,,model only,0.909
 401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,reb,1.5,False,0.7543,,model only,0.7543
 401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,reb,2.5,False,0.5694,,model only,0.5694
@@ -1119,15 +1119,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,ra,4.5,False,0.3462,,model only,0.3462
 401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,ra,5.5,False,0.229,,model only,0.229
 401910005,CHA @ LAL,CHA,1642275,Tidjane Salaun,ra,6.5,False,0.1442,,model only,0.1442
-401910005,CHA @ LAL,CHA,1629632,Coby White,pts,10.5,False,0.7118,0.7375,est,0.7335
 401910005,CHA @ LAL,CHA,1629632,Coby White,pts,11.5,False,0.6576,0.6799,book,0.6765
-401910005,CHA @ LAL,CHA,1629632,Coby White,pts,12.5,False,0.5995,0.6301,est,0.6254
-401910005,CHA @ LAL,CHA,1629632,Coby White,pts,13.5,False,0.5398,0.5716,est,0.5667
-401910005,CHA @ LAL,CHA,1629632,Coby White,pts,14.5,True,0.487,0.5192,book,0.5142
-401910005,CHA @ LAL,CHA,1629632,Coby White,pts,15.5,False,0.4304,0.4623,est,0.4574
-401910005,CHA @ LAL,CHA,1629632,Coby White,pts,16.5,False,0.3813,0.4122,est,0.4075
+401910005,CHA @ LAL,CHA,1629632,Coby White,pts,12.5,False,0.5995,0.6582,est,0.6492
+401910005,CHA @ LAL,CHA,1629632,Coby White,pts,13.5,False,0.5398,0.6013,est,0.5919
+401910005,CHA @ LAL,CHA,1629632,Coby White,pts,14.5,False,0.487,0.5192,book,0.5142
+401910005,CHA @ LAL,CHA,1629632,Coby White,pts,15.5,True,0.4304,0.4929,book,0.4833
+401910005,CHA @ LAL,CHA,1629632,Coby White,pts,16.5,False,0.3813,0.4422,est,0.4328
 401910005,CHA @ LAL,CHA,1629632,Coby White,pts,17.5,False,0.3329,0.3679,book,0.3625
-401910005,CHA @ LAL,CHA,1629632,Coby White,pts,18.5,False,0.2886,0.3158,est,0.3116
+401910005,CHA @ LAL,CHA,1629632,Coby White,pts,18.5,False,0.2886,0.3429,est,0.3346
+401910005,CHA @ LAL,CHA,1629632,Coby White,pts,19.5,False,0.2508,0.2824,book,0.2775
 401910005,CHA @ LAL,CHA,1629632,Coby White,reb,0.5,False,0.9109,0.8998,est,0.9015
 401910005,CHA @ LAL,CHA,1629632,Coby White,reb,1.5,False,0.7223,0.6956,est,0.6997
 401910005,CHA @ LAL,CHA,1629632,Coby White,reb,2.5,True,0.495,0.4627,book,0.4677
@@ -1185,15 +1185,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910005,CHA @ LAL,CHA,1629632,Coby White,ra,6.5,False,0.4551,0.4227,est,0.4277
 401910005,CHA @ LAL,CHA,1629632,Coby White,ra,7.5,False,0.3391,0.3102,est,0.3146
 401910005,CHA @ LAL,CHA,1629632,Coby White,ra,8.5,False,0.2424,0.219,est,0.2226
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,3.5,False,0.8514,,model only,0.8514
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,4.5,False,0.7643,,model only,0.7643
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,5.5,False,0.6731,,model only,0.6731
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,6.5,False,0.5751,,model only,0.5751
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,7.5,False,0.4844,,model only,0.4844
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,8.5,False,0.4002,,model only,0.4002
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,9.5,False,0.3233,,model only,0.3233
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,10.5,False,0.258,,model only,0.258
-401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,11.5,False,0.2017,,model only,0.2017
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,4.5,False,0.7643,0.8175,est,0.8093
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,5.5,False,0.6731,0.7399,est,0.7296
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,6.5,False,0.5751,0.6516,est,0.6398
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,7.5,False,0.4844,0.5648,est,0.5524
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,8.5,True,0.4002,0.4797,book,0.4675
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,9.5,False,0.3233,0.3977,est,0.3862
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,10.5,False,0.258,0.3245,est,0.3142
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,11.5,False,0.2017,0.2588,est,0.25
+401910005,CHA @ LAL,CHA,1629684,Grant Williams,pts,12.5,False,0.1555,0.2028,est,0.1956
 401910005,CHA @ LAL,CHA,1629684,Grant Williams,reb,0.5,False,0.9408,,model only,0.9408
 401910005,CHA @ LAL,CHA,1629684,Grant Williams,reb,1.5,False,0.8036,,model only,0.8036
 401910005,CHA @ LAL,CHA,1629684,Grant Williams,reb,2.5,False,0.6174,,model only,0.6174
