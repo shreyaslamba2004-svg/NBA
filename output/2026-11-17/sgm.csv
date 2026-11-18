@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHA @ LAL,Moussa Diabate 9+ pts + Sion James 5+ pr,2,0.4666,0.4324,2.31,2.43,2.23,-0.0344,1.001,2.10-2.50
-CHA @ LAL,Moussa Diabate 9+ pts + Ryan Kalkbrenner 5+ pr,2,0.4387,0.4147,2.41,2.53,2.32,-0.0366,1.003,2.10-2.50
-CHA @ LAL,Moussa Diabate 9+ pts + Matisse Thybulle 5+ pa,2,0.417,0.3896,2.57,2.7,2.47,-0.0368,1.001,2.10-2.50
-CHA @ LAL,Quentin Grimes pts under 13.5 + Sion James 5+ pr,2,0.6311,0.4704,2.13,2.23,2.04,-0.042,0.998,1.85-2.10
-CHA @ LAL,Sion James 13+ pra + Ryan Kalkbrenner 5+ pr,2,0.6577,0.4593,2.18,2.29,2.08,-0.0456,1.006,1.85-2.10
-CHA @ LAL,Sion James 10+ pr + Ryan Kalkbrenner 5+ pr,2,0.641,0.4542,2.2,2.31,2.09,-0.049,1.006,1.85-2.10
-CHA @ LAL,Luka Doncic 1+ stl + Quentin Grimes 1+ 3pm,2,0.682,0.5938,1.68,1.77,1.51,-0.1036,1.0,1.50-1.65
-CHA @ LAL,Sion James 5+ pr + Matisse Thybulle 5+ pa + Luka Doncic 1+ stl,3,0.6999,0.5289,1.89,1.99,1.63,-0.138,1.0,1.50-1.65
-CHA @ LAL,Sion James 5+ pr + Luka Doncic 1+ stl + Ryan Kalkbrenner 5+ pr,3,0.7349,0.5619,1.78,1.87,1.53,-0.1396,1.001,1.50-1.65
-CHA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl + Ryan Kalkbrenner 5+ pr,3,0.6576,0.5069,1.97,2.07,1.7,-0.1405,1.002,1.65-1.85
-CHA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl + Jake LaRavia 10+ pra,3,0.6046,0.4824,2.07,2.18,1.77,-0.1438,1.005,1.65-1.85
-CHA @ LAL,Matisse Thybulle 5+ pa + Ryan Kalkbrenner 5+ pr + Quentin Grimes 1+ 3pm,3,0.6483,0.5142,1.94,2.04,1.66,-0.1446,1.003,1.65-1.85
+CHA @ LAL,Moussa Diabate 9+ pts + Matisse Thybulle 5+ pa,2,0.4438,0.3956,2.53,2.65,2.47,-0.0219,1.007,2.10-2.50
+CHA @ LAL,Moussa Diabate 9+ pts + Ryan Kalkbrenner 5+ pr,2,0.4705,0.4204,2.38,2.5,2.32,-0.0233,1.006,2.10-2.50
+CHA @ LAL,Moussa Diabate 9+ pts + Sion James 5+ pr,2,0.4894,0.4352,2.3,2.41,2.23,-0.0283,1.0,2.10-2.50
+CHA @ LAL,Sion James 13+ pra + Ryan Kalkbrenner 5+ pr,2,0.6841,0.4613,2.17,2.28,2.08,-0.0414,1.002,1.85-2.10
+CHA @ LAL,Sion James 10+ pr + Ryan Kalkbrenner 5+ pr,2,0.6681,0.4559,2.19,2.3,2.09,-0.0454,1.001,1.85-2.10
+CHA @ LAL,Sion James 9+ pa + Ryan Kalkbrenner 5+ pr,2,0.6988,0.476,2.1,2.21,2.01,-0.0455,1.003,1.85-2.10
+CHA @ LAL,Luka Doncic 1+ stl + Quentin Grimes 1+ 3pm,2,0.6813,0.5952,1.68,1.76,1.51,-0.1016,1.002,1.50-1.65
+CHA @ LAL,Sion James 5+ pr + Matisse Thybulle 5+ pa + Luka Doncic 1+ stl,3,0.7091,0.5307,1.88,1.98,1.63,-0.1351,1.002,1.50-1.65
+CHA @ LAL,Sion James 5+ pr + Ryan Kalkbrenner 5+ pr + Luka Doncic 1+ stl,3,0.7516,0.5638,1.77,1.86,1.53,-0.1366,1.001,1.50-1.65
+CHA @ LAL,Matisse Thybulle 5+ pa + Ryan Kalkbrenner 5+ pr + Luka Doncic 1+ stl,3,0.6765,0.5089,1.97,2.06,1.7,-0.1372,1.001,1.65-1.85
+CHA @ LAL,Matisse Thybulle 5+ pa + Ryan Kalkbrenner 5+ pr + Quentin Grimes 1+ 3pm,3,0.6651,0.5171,1.93,2.03,1.66,-0.1398,1.004,1.65-1.85
+CHA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl + Quentin Grimes 1+ 3pm,3,0.5966,0.4709,2.12,2.23,1.82,-0.1427,1.004,1.65-1.85
