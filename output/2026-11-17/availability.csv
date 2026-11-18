@@ -1,7 +1,7 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910002,TOR,203937,Kyle Anderson,,,1.0,,,
-401910002,TOR,1630567,Scottie Barnes,Starting,Injury/Illness-Illness,1.0,,,1.0
-401910002,TOR,1629628,RJ Barrett,Starting,,1.0,,,1.0
+401910002,TOR,1630567,Scottie Barnes,Available,Injury/Illness-Illness,1.0,,,
+401910002,TOR,1629628,RJ Barrett,,,1.0,,,
 401910002,TOR,1642419,Jamison Battle,,,1.0,,,
 401910002,TOR,904432586,Nate Bittle,Out,,0.0,"Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",,
 401910002,TOR,904432737,Jaden Bradley,,,1.0,,,
@@ -10,28 +10,28 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910002,TOR,202695,Kawhi Leonard,Out,,0.0,"Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com reports.",,
 401910002,TOR,1642918,Alijah Martin,,,1.0,,,
 401910002,TOR,1641755,Kevin McCullar Jr.,Out,GLeague-Two-Way,0.0,"McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",,
-401910002,TOR,1642867,Collin Murray-Boyles,Starting,,1.0,,,1.0
+401910002,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
 401910002,TOR,1627751,Jakob Poeltl,,,1.0,,,
-401910002,TOR,1630193,Immanuel Quickley,Starting,,1.0,,,1.0
+401910002,TOR,1630193,Immanuel Quickley,,,1.0,,,
 401910002,TOR,1642347,Jamal Shead,,,1.0,,,
 401910002,TOR,1641869,Malachi Smith,Out,GLeague-Two-Way,0.0,,,
-401910002,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
+401910002,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
 401910002,NYK,904683730,Jaden Akins,Active,,1.0,,,
 401910002,NYK,1630631,Jose Alvarado,Active,,1.0,,,
-401910002,NYK,1628384,OG Anunoby,Starting,,1.0,,,1.0
-401910002,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
-401910002,NYK,1628973,Jalen Brunson,Starting,,1.0,,,1.0
+401910002,NYK,1628384,OG Anunoby,Active,,1.0,,,
+401910002,NYK,1628969,Mikal Bridges,Active,,1.0,,,
+401910002,NYK,1628973,Jalen Brunson,Active,,1.0,,,
 401910002,NYK,203903,Jordan Clarkson,Active,,1.0,,,
 401910002,NYK,1642359,Pacome Dadiet,Active,,1.0,,,
 401910002,NYK,1642885,Mohamed Diawara,Active,,1.0,,,
 401910002,NYK,203083,Andre Drummond,Active,,1.0,,,
-401910002,NYK,1628404,Josh Hart,Starting,,1.0,,,1.0
+401910002,NYK,1628404,Josh Hart,Active,,1.0,,,
 401910002,NYK,1642261,Dalton Knecht,Active,,1.0,,,
 401910002,NYK,1642278,Tyler Kolek,Active,,1.0,,,
 401910002,NYK,1630540,Miles McBride,Active,,1.0,,,
 401910002,NYK,904838721,Tyler Nickel,Active,,1.0,,,
 401910002,NYK,1629013,Landry Shamet,Active,,1.0,,,
-401910002,NYK,1626157,Karl-Anthony Towns,Starting,,1.0,,,1.0
+401910002,NYK,1626157,Karl-Anthony Towns,Active,,1.0,,,
 401910002,NYK,1630164,James Wiseman,Active,,1.0,,,
 401910003,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
 401910003,MIN,1642866,Joan Beringer,Available,Injury/Illness-FaceMask,1.0,,,
