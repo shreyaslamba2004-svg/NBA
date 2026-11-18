@@ -1,10 +1,33 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401910010,PHI @ ORL,prop_pts,over,Tyrese Maxey,1630178.0,39.5,draftkings,1660.0,17.6,0.1035,9.66,0.0531,0.0531,0.0504,,0.8219,0.0609,0.0712,0.0011,False,True,False,,,
+401910008,HOU @ IND,prop_ast,over,Andrew Nembhard,1629614.0,11.5,draftkings,1240.0,13.4,0.1319,7.58,0.0697,0.0697,0.0622,,0.7676,0.0793,0.0629,0.0013,False,True,False,Andrew Nembhard,0.0,0.1268
+401910008,HOU @ IND,prop_ast,over,Andrew Nembhard,1629614.0,10.5,draftkings,760.0,8.6,0.1945,5.14,0.1087,0.1087,0.0859,,0.6731,0.1219,0.0483,0.0016,False,False,False,Andrew Nembhard,0.0,0.1888
 401910009,MIL @ MIA,moneyline,MIL,,,,pointsbetau,600.0,7.0,0.1787,5.59,0.1369,0.1491,0.0297,4.37,0.2512,0.1491,0.0437,0.0018,False,True,True,,,
-401910007,MEM @ CLE,prop_ast,over,Tyrese Proctor,1642878.0,3.5,draftkings,105.0,2.05,0.5292,1.89,0.4559,0.4995,0.0298,6.76,0.085,0.5041,0.0334,0.0079,False,True,True,Peyton Watson,0.6039,0.5578
-401910014,ATL @ OKC,prop_fg3m,under,Kenrich Williams,1629026.0,1.5,draftkings,-112.0,1.89,0.7565,1.32,0.4949,0.4949,0.2616,6.75,0.432,0.5352,0.013,0.0037,True,True,True,,,
+401910007,MEM @ CLE,prop_ast,over,Tyrese Proctor,1642878.0,3.5,draftkings,106.0,2.06,0.5292,1.89,0.4537,0.499,0.0303,6.53,0.0903,0.5037,0.0375,0.0088,False,True,True,Peyton Watson,0.6039,0.5578
+401910008,HOU @ IND,prop_pa,over,Pascal Siakam,1627783.0,39.5,draftkings,1320.0,14.2,0.1108,9.02,0.0658,0.0658,0.045,,0.5735,0.0727,0.033,0.0006,False,True,False,,,
+401910008,HOU @ IND,prop_pr,over,Kevin Durant,201142.0,44.5,draftkings,1420.0,15.2,0.0997,10.03,0.0615,0.0615,0.0383,,0.5161,0.0674,0.0241,0.0004,False,True,False,Amen Thompson,0.1266,0.0859
+401910008,HOU @ IND,prop_ast,over,Andrew Nembhard,1629614.0,9.5,draftkings,443.0,5.43,0.2787,3.59,0.1721,0.1721,0.1066,,0.5135,0.1885,0.0237,0.0013,False,True,False,Andrew Nembhard,0.0,0.2706
+401910008,HOU @ IND,prop_ast,over,Andrew Nembhard,1629614.0,13.5,draftkings,2700.0,28.0,0.054,18.52,0.0334,0.0334,0.0206,,0.512,0.0366,0.0235,0.0002,False,True,False,Andrew Nembhard,0.0,0.0496
+401910008,HOU @ IND,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,1120.0,12.2,0.1236,8.09,0.0766,0.0766,0.047,,0.5074,0.0838,0.0228,0.0005,False,True,False,,,
+401910008,HOU @ IND,prop_ast,over,Kevin Durant,201142.0,6.5,draftkings,586.0,6.86,0.2133,4.69,0.1362,0.1362,0.077,,0.463,0.1481,0.016,0.0007,False,False,False,,,
+401910010,PHI @ ORL,prop_pts,over,Tyrese Maxey,1630178.0,34.5,draftkings,660.0,7.6,0.1919,5.21,0.123,0.123,0.069,,0.4587,0.1336,0.0153,0.0006,False,True,False,,,
+401910010,PHI @ ORL,prop_ast,over,Joel Embiid,203954.0,6.5,draftkings,1080.0,11.8,0.1227,8.15,0.0792,0.0792,0.0435,,0.4478,0.0859,0.0136,0.0003,False,False,False,,,
+401910008,HOU @ IND,prop_ast,over,Amen Thompson,1641708.0,6.5,draftkings,900.0,10.0,0.1447,6.91,0.0935,0.0935,0.0513,,0.4473,0.1014,0.0135,0.0004,False,False,False,Amen Thompson,0.0,0.1424
+401910008,HOU @ IND,prop_pa,over,Pascal Siakam,1627783.0,44.5,draftkings,2500.0,26.0,0.0553,18.08,0.0359,0.0359,0.0194,,0.4384,0.0389,0.0122,0.0001,False,True,False,,,
+401910014,ATL @ OKC,prop_fg3m,under,Kenrich Williams,1629026.0,1.5,draftkings,-112.0,1.89,0.7565,1.32,0.4937,0.4937,0.2628,,0.432,0.5342,0.0112,0.0031,True,True,True,,,
+401910008,HOU @ IND,prop_ast,over,Kevin Durant,201142.0,8.5,draftkings,2000.0,21.0,0.0679,14.72,0.0445,0.0445,0.0234,,0.4266,0.0481,0.0103,0.0001,False,False,False,,,
+401910014,ATL @ OKC,prop_pts,over,Dyson Daniels,1630700.0,19.5,draftkings,1300.0,14.0,0.1016,9.85,0.0668,0.0668,0.0348,,0.422,0.0721,0.0096,0.0002,False,True,False,,,
+401910008,HOU @ IND,prop_ast,over,Amen Thompson,1641708.0,5.5,draftkings,457.0,5.57,0.255,3.92,0.1678,0.1678,0.0872,,0.4204,0.1812,0.0094,0.0005,False,True,False,Amen Thompson,0.0,0.2556
+401910008,HOU @ IND,prop_pa,over,Andrew Nembhard,1629614.0,34.5,draftkings,1140.0,12.4,0.1143,8.75,0.0754,0.0754,0.0389,,0.417,0.0814,0.0089,0.0002,False,True,False,Andrew Nembhard,0.0,0.1142
+401910010,PHI @ ORL,prop_ast,over,Joel Embiid,203954.0,5.5,draftkings,537.0,6.37,0.221,4.52,0.1467,0.1467,0.0743,,0.408,0.1582,0.0075,0.0003,False,True,False,,,
 401910009,MIL @ MIA,moneyline,MIL,,,,betright,575.0,6.75,0.1787,5.59,0.1412,0.1491,0.0297,4.9,0.2066,0.1491,0.0064,0.0003,False,True,True,,,
+401910014,ATL @ OKC,prop_pts,over,Dyson Daniels,1630700.0,17.5,draftkings,760.0,8.6,0.1614,6.2,0.1087,0.1087,0.0527,,0.3882,0.1168,0.0044,0.0001,False,False,False,,,
 401910009,MIL @ MIA,prop_pts,over,Bam Adebayo,1628389.0,29.5,draftkings,1100.0,12.0,0.1156,8.65,0.0779,0.0779,0.0377,,0.3874,0.0837,0.0043,0.0001,False,True,False,,,
+401910008,HOU @ IND,prop_ast,over,Amen Thompson,1641708.0,7.5,draftkings,1720.0,18.2,0.0761,13.14,0.0514,0.0514,0.0247,,0.3849,0.0552,0.0039,0.0001,False,True,False,Amen Thompson,0.0,0.0761
 401910009,MIL @ MIA,prop_pts,over,Bam Adebayo,1628389.0,34.5,draftkings,2700.0,28.0,0.0494,20.23,0.0334,0.0334,0.0161,,0.3844,0.0359,0.0038,0.0,False,True,False,,,
 401910018,PHX @ SAC,prop_fg3m,under,Collin Gillespie,1631221.0,2.5,draftkings,-105.0,1.95,0.7012,1.43,0.4797,0.4797,0.2215,6.78,0.369,0.5138,0.0031,0.0008,True,True,True,,,
 401910015,BOS @ DEN,prop_ast,over,Nikola Jokic,203999.0,15.5,draftkings,1540.0,16.4,0.0839,11.92,0.057,0.057,0.0269,,0.3758,0.0611,0.0025,0.0,False,True,False,,,
+401910007,MEM @ CLE,prop_pra,over,Donovan Mitchell,1628378.0,59.5,draftkings,2600.0,27.0,0.0509,19.64,0.0346,0.0346,0.0163,,0.3749,0.0371,0.0024,0.0,False,True,False,,,
 401910018,PHX @ SAC,prop_fg3m,under,Luke Kennard,1628379.0,1.5,draftkings,-103.0,1.97,0.6883,1.45,0.4756,0.4756,0.2127,6.69,0.3566,0.5083,0.0019,0.0005,True,False,True,,,
+401910007,MEM @ CLE,prop_ast,over,Tyrese Proctor,1642878.0,6.5,draftkings,940.0,10.4,0.1313,7.62,0.0899,0.0899,0.0414,,0.365,0.0962,0.0009,0.0,False,False,False,,,
+401910008,HOU @ IND,prop_ast,over,Andrew Nembhard,1629614.0,8.5,draftkings,259.0,3.59,0.3791,2.64,0.2603,0.2603,0.1188,,0.3609,0.2786,0.0002,0.0,False,False,False,Andrew Nembhard,0.0,0.3734
