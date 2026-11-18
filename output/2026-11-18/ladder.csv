@@ -10278,73 +10278,73 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,DEN,1628963,Marvin Bagley III,ra,5.5,False,0.3169,,model only,0.3169
 401910015,BOS @ DEN,DEN,1628963,Marvin Bagley III,ra,6.5,False,0.2221,,model only,0.2221
 401910015,BOS @ DEN,DEN,1628963,Marvin Bagley III,ra,7.5,False,0.1503,,model only,0.1503
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,7.5,False,0.7907,,model only,0.7907
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,8.5,False,0.7143,,model only,0.7143
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,9.5,False,0.6369,,model only,0.6369
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,10.5,False,0.5593,,model only,0.5593
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,11.5,False,0.4812,,model only,0.4812
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,12.5,False,0.4073,,model only,0.4073
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,13.5,False,0.3392,,model only,0.3392
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,14.5,False,0.2805,,model only,0.2805
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,15.5,False,0.2297,,model only,0.2297
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,1.5,False,0.9112,,model only,0.9112
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,2.5,False,0.7845,,model only,0.7845
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,3.5,False,0.6133,,model only,0.6133
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,4.5,False,0.4375,,model only,0.4375
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,5.5,False,0.2845,,model only,0.2845
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,6.5,False,0.1691,,model only,0.1691
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,7.5,False,0.0948,,model only,0.0948
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,0.5,False,0.8899,,model only,0.8899
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,1.5,False,0.6622,,model only,0.6622
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,2.5,False,0.4062,,model only,0.4062
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,3.5,False,0.2126,,model only,0.2126
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,4.5,False,0.0956,,model only,0.0956
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,5.5,False,0.0388,,model only,0.0388
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,0.5,False,0.744,,model only,0.744
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,1.5,False,0.3845,,model only,0.3845
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,2.5,False,0.1423,,model only,0.1423
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,3.5,False,0.0395,,model only,0.0395
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,7.5,False,0.7907,0.7592,book,0.764
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,8.5,False,0.7143,0.7429,est,0.7385
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,9.5,False,0.6369,0.6452,book,0.6439
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,10.5,False,0.5593,0.5946,est,0.5892
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,11.5,True,0.4812,0.5174,book,0.5118
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,12.5,False,0.4073,0.4426,est,0.4372
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,13.5,False,0.3392,0.3724,est,0.3673
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,14.5,False,0.2805,0.3362,book,0.3276
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pts,15.5,False,0.2297,0.2563,est,0.2522
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,1.5,False,0.9112,0.9072,est,0.9079
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,2.5,False,0.7845,0.7528,book,0.7577
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,3.5,False,0.6133,0.591,book,0.5944
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,4.5,True,0.4375,0.4258,book,0.4276
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,5.5,False,0.2845,0.2781,book,0.2791
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,6.5,False,0.1691,0.1737,book,0.173
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,reb,7.5,False,0.0948,0.1038,book,0.1024
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,0.5,False,0.8899,0.881,est,0.8824
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,1.5,False,0.6622,0.6424,est,0.6454
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,2.5,True,0.4062,0.3854,book,0.3886
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,3.5,False,0.2126,0.2045,book,0.2057
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,4.5,False,0.0956,0.1005,book,0.0997
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ast,5.5,False,0.0388,0.0508,book,0.049
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,0.5,False,0.744,0.731,book,0.733
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,1.5,True,0.3845,0.4238,book,0.4177
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,2.5,False,0.1423,0.1972,book,0.1888
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,fg3m,3.5,False,0.0395,0.0873,book,0.0799
 401910015,BOS @ DEN,DEN,1631128,Christian Braun,stl,0.5,False,0.6047,,model only,0.6047
 401910015,BOS @ DEN,DEN,1631128,Christian Braun,stl,1.5,False,0.25,,model only,0.25
 401910015,BOS @ DEN,DEN,1631128,Christian Braun,stl,2.5,False,0.082,,model only,0.082
 401910015,BOS @ DEN,DEN,1631128,Christian Braun,blk,0.5,False,0.3241,,model only,0.3241
 401910015,BOS @ DEN,DEN,1631128,Christian Braun,blk,1.5,False,0.0642,,model only,0.0642
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,13.5,False,0.7767,,model only,0.7767
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,14.5,False,0.7208,,model only,0.7208
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,15.5,False,0.6602,,model only,0.6602
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,16.5,False,0.5938,,model only,0.5938
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,17.5,False,0.5292,,model only,0.5292
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,18.5,False,0.4689,,model only,0.4689
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,19.5,False,0.407,,model only,0.407
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,20.5,False,0.3513,,model only,0.3513
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,21.5,False,0.2992,,model only,0.2992
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,22.5,False,0.2519,,model only,0.2519
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,23.5,False,0.2108,,model only,0.2108
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,12.5,False,0.7113,,model only,0.7113
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,13.5,False,0.649,,model only,0.649
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,14.5,False,0.5789,,model only,0.5789
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,15.5,False,0.5088,,model only,0.5088
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,16.5,False,0.4423,,model only,0.4423
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,17.5,False,0.3803,,model only,0.3803
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,18.5,False,0.3255,,model only,0.3255
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,19.5,False,0.2718,,model only,0.2718
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,20.5,False,0.2251,,model only,0.2251
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,10.5,False,0.7244,,model only,0.7244
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,11.5,False,0.6514,,model only,0.6514
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,12.5,False,0.5778,,model only,0.5778
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,13.5,False,0.5062,,model only,0.5062
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,14.5,False,0.4374,,model only,0.4374
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,15.5,False,0.3713,,model only,0.3713
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,16.5,False,0.3096,,model only,0.3096
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,17.5,False,0.258,,model only,0.258
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,18.5,False,0.2125,,model only,0.2125
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,3.5,False,0.8762,,model only,0.8762
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,4.5,False,0.7653,,model only,0.7653
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,5.5,False,0.6353,,model only,0.6353
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,6.5,False,0.4945,,model only,0.4945
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,7.5,False,0.36,,model only,0.36
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,8.5,False,0.2482,,model only,0.2482
-401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,9.5,False,0.162,,model only,0.162
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,13.5,False,0.7767,0.7934,est,0.7909
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,14.5,False,0.7208,0.7044,book,0.7069
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,15.5,False,0.6602,0.6821,est,0.6787
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,16.5,False,0.5938,0.6174,est,0.6138
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,17.5,False,0.5292,0.5538,est,0.55
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,18.5,True,0.4689,0.4937,book,0.4899
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,19.5,False,0.407,0.4429,book,0.4374
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,20.5,False,0.3513,0.3743,est,0.3707
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,21.5,False,0.2992,0.3204,est,0.3172
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,22.5,False,0.2519,0.271,est,0.2681
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pra,23.5,False,0.2108,0.2278,est,0.2252
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,12.5,False,0.7113,0.7421,est,0.7374
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,13.5,False,0.649,0.6835,est,0.6782
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,14.5,False,0.5789,0.6162,est,0.6105
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,15.5,False,0.5088,0.5475,est,0.5415
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,16.5,True,0.4423,0.4809,book,0.475
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,17.5,False,0.3803,0.4175,est,0.4118
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,18.5,False,0.3255,0.3605,est,0.3551
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,19.5,False,0.2718,0.3036,est,0.2987
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pr,20.5,False,0.2251,0.2533,est,0.249
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,10.5,False,0.7244,0.753,est,0.7486
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,11.5,False,0.6514,0.6843,est,0.6793
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,12.5,False,0.5778,0.6135,est,0.608
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,13.5,False,0.5062,0.5432,est,0.5375
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,14.5,True,0.4374,0.4742,book,0.4685
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,15.5,False,0.3713,0.4065,est,0.4011
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,16.5,False,0.3096,0.3421,est,0.3371
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,17.5,False,0.258,0.2874,est,0.2828
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,pa,18.5,False,0.2125,0.2384,est,0.2344
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,3.5,False,0.8762,0.8631,est,0.8651
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,4.5,False,0.7653,0.744,est,0.7473
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,5.5,False,0.6353,0.6081,est,0.6123
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,6.5,True,0.4945,0.4657,book,0.4701
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,7.5,False,0.36,0.3338,est,0.3378
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,8.5,False,0.2482,0.2273,est,0.2305
+401910015,BOS @ DEN,DEN,1631128,Christian Braun,ra,9.5,False,0.162,0.1469,est,0.1493
 401910015,BOS @ DEN,DEN,904698719,Trevon Brazile,pts,1.5,False,0.8848,,model only,0.8848
 401910015,BOS @ DEN,DEN,904698719,Trevon Brazile,pts,2.5,False,0.7729,,model only,0.7729
 401910015,BOS @ DEN,DEN,904698719,Trevon Brazile,pts,3.5,False,0.6457,,model only,0.6457
@@ -10408,15 +10408,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,DEN,904698719,Trevon Brazile,ra,5.5,False,0.3627,,model only,0.3627
 401910015,BOS @ DEN,DEN,904698719,Trevon Brazile,ra,6.5,False,0.2533,,model only,0.2533
 401910015,BOS @ DEN,DEN,904698719,Trevon Brazile,ra,7.5,False,0.1677,,model only,0.1677
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,5.5,False,0.769,,model only,0.769
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,6.5,False,0.6867,,model only,0.6867
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,7.5,False,0.6008,,model only,0.6008
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,8.5,False,0.5183,,model only,0.5183
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,9.5,False,0.4372,,model only,0.4372
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,10.5,False,0.3655,,model only,0.3655
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,11.5,False,0.2997,,model only,0.2997
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,12.5,False,0.2452,,model only,0.2452
-401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,13.5,False,0.1984,,model only,0.1984
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,5.5,False,0.769,0.7637,book,0.7645
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,6.5,False,0.6867,0.717,est,0.7123
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,7.5,False,0.6008,0.6188,book,0.616
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,8.5,False,0.5183,0.5543,est,0.5488
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,9.5,True,0.4372,0.4731,book,0.4676
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,10.5,False,0.3655,0.3998,est,0.3945
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,11.5,False,0.2997,0.3338,book,0.3285
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,12.5,False,0.2452,0.2731,est,0.2688
+401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,pts,13.5,False,0.1984,0.2225,est,0.2188
 401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,reb,0.5,False,0.823,,model only,0.823
 401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,reb,1.5,False,0.5446,,model only,0.5446
 401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,reb,2.5,False,0.3008,,model only,0.3008
@@ -10472,209 +10472,206 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,ra,5.5,False,0.3141,,model only,0.3141
 401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,ra,6.5,False,0.2047,,model only,0.2047
 401910015,BOS @ DEN,DEN,201942,DeMar DeRozan,ra,7.5,False,0.1252,,model only,0.1252
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,7.5,False,0.7798,,model only,0.7798
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,8.5,False,0.7066,,model only,0.7066
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,9.5,False,0.6318,,model only,0.6318
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,10.5,False,0.5539,,model only,0.5539
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,11.5,False,0.4816,,model only,0.4816
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,12.5,False,0.4114,,model only,0.4114
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,13.5,False,0.3468,,model only,0.3468
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,14.5,False,0.2872,,model only,0.2872
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,15.5,False,0.2384,,model only,0.2384
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,2.5,False,0.8472,,model only,0.8472
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,3.5,False,0.7118,,model only,0.7118
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,4.5,False,0.5516,,model only,0.5516
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,5.5,False,0.3961,,model only,0.3961
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,6.5,False,0.2589,,model only,0.2589
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,7.5,False,0.1652,,model only,0.1652
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,8.5,False,0.0985,,model only,0.0985
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,0.5,False,0.8897,,model only,0.8897
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,1.5,False,0.6641,,model only,0.6641
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,2.5,False,0.4151,,model only,0.4151
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,3.5,False,0.2218,,model only,0.2218
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,4.5,False,0.1071,,model only,0.1071
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,5.5,False,0.0449,,model only,0.0449
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,0.5,False,0.7459,,model only,0.7459
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,1.5,False,0.3902,,model only,0.3902
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,2.5,False,0.1477,,model only,0.1477
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,3.5,False,0.0437,,model only,0.0437
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,7.5,False,0.7798,0.7615,book,0.7643
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,8.5,False,0.7066,0.7367,est,0.7321
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,9.5,False,0.6318,0.647,book,0.6447
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,10.5,False,0.5539,0.5907,est,0.585
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,11.5,True,0.4816,0.5192,book,0.5134
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,12.5,False,0.4114,0.4482,est,0.4425
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,13.5,False,0.3468,0.3815,est,0.3762
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,14.5,False,0.2872,0.3279,book,0.3216
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pts,15.5,False,0.2384,0.2668,est,0.2624
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,1.5,False,0.9428,0.9419,est,0.9421
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,2.5,False,0.8472,0.8284,book,0.8313
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,3.5,False,0.7118,0.6992,book,0.7011
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,4.5,True,0.5516,0.5476,book,0.5482
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,5.5,False,0.3961,0.3977,book,0.3975
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,6.5,False,0.2589,0.2693,book,0.2677
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,reb,7.5,False,0.1652,0.1705,book,0.1697
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,0.5,False,0.8897,0.8543,est,0.8597
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,1.5,True,0.6641,0.5897,book,0.6012
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,2.5,False,0.4151,0.3404,est,0.3519
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,3.5,False,0.2218,0.1716,est,0.1794
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ast,4.5,False,0.1071,0.0802,est,0.0844
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,0.5,False,0.7459,0.7378,book,0.739
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,1.5,True,0.3902,0.4337,book,0.427
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,2.5,False,0.1477,0.1984,book,0.1906
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,fg3m,3.5,False,0.0437,0.085,book,0.0786
 401910015,BOS @ DEN,DEN,203932,Aaron Gordon,stl,0.5,False,0.3889,,model only,0.3889
 401910015,BOS @ DEN,DEN,203932,Aaron Gordon,stl,1.5,False,0.0943,,model only,0.0943
 401910015,BOS @ DEN,DEN,203932,Aaron Gordon,blk,0.5,False,0.319,,model only,0.319
 401910015,BOS @ DEN,DEN,203932,Aaron Gordon,blk,1.5,False,0.0624,,model only,0.0624
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,14.5,False,0.7471,,model only,0.7471
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,15.5,False,0.6908,,model only,0.6908
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,16.5,False,0.6309,,model only,0.6309
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,17.5,False,0.5696,,model only,0.5696
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,18.5,False,0.5129,,model only,0.5129
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,19.5,False,0.4562,,model only,0.4562
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,20.5,False,0.3993,,model only,0.3993
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,21.5,False,0.3476,,model only,0.3476
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,22.5,False,0.2998,,model only,0.2998
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,23.5,False,0.2549,,model only,0.2549
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,24.5,False,0.2158,,model only,0.2158
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,12.5,False,0.7434,,model only,0.7434
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,13.5,False,0.6808,,model only,0.6808
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,14.5,False,0.6169,,model only,0.6169
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,15.5,False,0.554,,model only,0.554
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,16.5,False,0.4909,,model only,0.4909
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,17.5,False,0.4277,,model only,0.4277
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,18.5,False,0.3716,,model only,0.3716
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,19.5,False,0.3175,,model only,0.3175
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,20.5,False,0.2716,,model only,0.2716
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,10.5,False,0.719,,model only,0.719
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,11.5,False,0.6495,,model only,0.6495
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,12.5,False,0.5776,,model only,0.5776
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,13.5,False,0.5062,,model only,0.5062
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,14.5,False,0.4406,,model only,0.4406
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,15.5,False,0.379,,model only,0.379
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,16.5,False,0.3208,,model only,0.3208
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,17.5,False,0.2692,,model only,0.2692
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,18.5,False,0.2227,,model only,0.2227
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,4.5,False,0.818,,model only,0.818
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,5.5,False,0.7107,,model only,0.7107
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,6.5,False,0.586,,model only,0.586
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,7.5,False,0.4569,,model only,0.4569
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,8.5,False,0.3429,,model only,0.3429
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,9.5,False,0.2449,,model only,0.2449
-401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,10.5,False,0.1656,,model only,0.1656
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,8.5,False,0.7292,,model only,0.7292
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,9.5,False,0.6547,,model only,0.6547
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,10.5,False,0.581,,model only,0.581
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,11.5,False,0.507,,model only,0.507
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,12.5,False,0.4367,,model only,0.4367
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,13.5,False,0.3709,,model only,0.3709
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,14.5,False,0.3105,,model only,0.3105
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,15.5,False,0.2567,,model only,0.2567
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,16.5,False,0.2119,,model only,0.2119
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,1.5,False,0.8687,,model only,0.8687
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,2.5,False,0.6992,,model only,0.6992
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,3.5,False,0.5083,,model only,0.5083
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,4.5,False,0.3297,,model only,0.3297
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,5.5,False,0.194,,model only,0.194
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,6.5,False,0.109,,model only,0.109
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,7.5,False,0.0572,,model only,0.0572
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,0.5,False,0.8721,,model only,0.8721
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,1.5,False,0.6254,,model only,0.6254
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,2.5,False,0.3734,,model only,0.3734
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,3.5,False,0.1905,,model only,0.1905
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,4.5,False,0.0845,,model only,0.0845
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,5.5,False,0.0325,,model only,0.0325
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,0.5,False,0.8687,,model only,0.8687
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,1.5,False,0.5868,,model only,0.5868
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,2.5,False,0.3009,,model only,0.3009
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,3.5,False,0.1158,,model only,0.1158
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,4.5,False,0.0387,,model only,0.0387
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,13.5,False,0.8002,0.8087,est,0.8074
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,14.5,False,0.7471,0.7573,est,0.7557
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,15.5,False,0.6908,0.7024,est,0.7006
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,16.5,False,0.6309,0.6435,est,0.6415
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,17.5,False,0.5696,0.583,est,0.5809
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,18.5,True,0.5129,0.5265,book,0.5244
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,19.5,False,0.4562,0.4698,est,0.4677
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,20.5,False,0.3993,0.4125,est,0.4105
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,21.5,False,0.3476,0.3601,est,0.3582
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,22.5,False,0.2998,0.3114,est,0.3097
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pra,23.5,False,0.2549,0.2654,est,0.2638
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,12.5,False,0.7434,0.769,est,0.7651
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,13.5,False,0.6808,0.7102,est,0.7057
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,14.5,False,0.6169,0.6492,est,0.6442
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,15.5,False,0.554,0.588,est,0.5828
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,16.5,True,0.4909,0.5256,book,0.5203
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,17.5,False,0.4277,0.4619,est,0.4567
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,18.5,False,0.3716,0.4045,est,0.3995
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,19.5,False,0.3175,0.3483,est,0.3436
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pr,20.5,False,0.2716,0.2999,est,0.2955
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,9.5,False,0.7839,0.7963,est,0.7944
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,10.5,False,0.719,0.7338,est,0.7315
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,11.5,False,0.6495,0.6662,est,0.6636
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,12.5,False,0.5776,0.5956,est,0.5929
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,13.5,True,0.5062,0.5247,book,0.5218
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,14.5,False,0.4406,0.4589,est,0.4561
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,15.5,False,0.379,0.3966,est,0.3939
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,16.5,False,0.3208,0.3372,est,0.3347
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,pa,17.5,False,0.2692,0.2841,est,0.2818
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,3.5,False,0.9034,0.8879,est,0.8902
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,4.5,False,0.818,0.7919,est,0.7959
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,5.5,False,0.7107,0.6753,est,0.6808
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,6.5,True,0.586,0.5451,book,0.5514
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,7.5,False,0.4569,0.4159,est,0.4222
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,8.5,False,0.3429,0.3064,est,0.312
+401910015,BOS @ DEN,DEN,203932,Aaron Gordon,ra,9.5,False,0.2449,0.2154,est,0.2199
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,7.5,False,0.7945,0.7524,book,0.7589
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,8.5,False,0.7292,0.7336,est,0.7329
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,9.5,False,0.6547,0.6398,book,0.6421
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,10.5,False,0.581,0.5865,est,0.5856
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,11.5,True,0.507,0.5126,book,0.5117
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,12.5,False,0.4367,0.4423,est,0.4414
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,13.5,False,0.3709,0.3762,est,0.3754
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,14.5,False,0.3105,0.3374,book,0.3333
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pts,15.5,False,0.2567,0.261,est,0.2603
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,0.5,False,0.9684,0.9686,est,0.9686
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,1.5,False,0.8687,0.8694,est,0.8693
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,2.5,False,0.6992,0.6912,book,0.6924
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,3.5,True,0.5083,0.5098,book,0.5096
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,4.5,False,0.3297,0.335,book,0.3342
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,5.5,False,0.194,0.2059,book,0.2041
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,reb,6.5,False,0.109,0.1168,book,0.1156
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,0.5,False,0.8721,0.8612,est,0.8628
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,1.5,True,0.6254,0.6031,book,0.6065
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,2.5,False,0.3734,0.3516,est,0.355
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,3.5,False,0.1905,0.1764,est,0.1786
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ast,4.5,False,0.0845,0.0775,est,0.0786
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,0.5,False,0.8687,0.8411,book,0.8454
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,1.5,True,0.5868,0.6112,book,0.6074
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,2.5,False,0.3009,0.3679,book,0.3576
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,fg3m,3.5,False,0.1158,0.1927,book,0.1809
 401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,stl,0.5,False,0.5002,,model only,0.5002
 401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,stl,1.5,False,0.1702,,model only,0.1702
 401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,stl,2.5,False,0.0449,,model only,0.0449
 401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,blk,0.5,False,0.2785,,model only,0.2785
 401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,blk,1.5,False,0.0457,,model only,0.0457
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,13.5,False,0.744,,model only,0.744
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,14.5,False,0.6851,,model only,0.6851
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,15.5,False,0.6255,,model only,0.6255
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,16.5,False,0.5665,,model only,0.5665
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,17.5,False,0.5068,,model only,0.5068
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,18.5,False,0.4464,,model only,0.4464
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,19.5,False,0.3919,,model only,0.3919
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,20.5,False,0.3389,,model only,0.3389
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,21.5,False,0.2901,,model only,0.2901
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,22.5,False,0.2491,,model only,0.2491
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,23.5,False,0.2085,,model only,0.2085
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,11.5,False,0.7504,,model only,0.7504
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,12.5,False,0.6864,,model only,0.6864
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,13.5,False,0.6212,,model only,0.6212
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,14.5,False,0.5564,,model only,0.5564
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,15.5,False,0.4947,,model only,0.4947
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,16.5,False,0.4326,,model only,0.4326
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,17.5,False,0.3705,,model only,0.3705
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,18.5,False,0.3186,,model only,0.3186
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,19.5,False,0.2721,,model only,0.2721
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,10.5,False,0.7238,,model only,0.7238
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,11.5,False,0.6569,,model only,0.6569
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,12.5,False,0.5869,,model only,0.5869
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,13.5,False,0.5196,,model only,0.5196
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,14.5,False,0.4543,,model only,0.4543
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,15.5,False,0.392,,model only,0.392
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,16.5,False,0.3339,,model only,0.3339
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,17.5,False,0.282,,model only,0.282
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,18.5,False,0.2362,,model only,0.2362
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,3.5,False,0.811,,model only,0.811
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,4.5,False,0.6762,,model only,0.6762
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,5.5,False,0.5312,,model only,0.5312
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,6.5,False,0.3893,,model only,0.3893
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,7.5,False,0.2696,,model only,0.2696
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,8.5,False,0.1768,,model only,0.1768
-401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,9.5,False,0.1102,,model only,0.1102
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,19.5,False,0.6675,,model only,0.6675
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,20.5,False,0.6234,,model only,0.6234
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,21.5,False,0.581,,model only,0.581
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,22.5,False,0.5386,,model only,0.5386
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,23.5,False,0.4929,,model only,0.4929
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,24.5,False,0.4505,,model only,0.4505
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,25.5,False,0.4108,,model only,0.4108
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,26.5,False,0.3713,,model only,0.3713
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,27.5,False,0.336,,model only,0.336
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,9.5,False,0.7067,,model only,0.7067
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,10.5,False,0.6124,,model only,0.6124
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,11.5,False,0.5133,,model only,0.5133
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,12.5,False,0.418,,model only,0.418
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,13.5,False,0.3314,,model only,0.3314
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,14.5,False,0.2577,,model only,0.2577
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,15.5,False,0.1913,,model only,0.1913
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,7.5,False,0.7336,,model only,0.7336
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,8.5,False,0.6315,,model only,0.6315
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,9.5,False,0.5278,,model only,0.5278
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,10.5,False,0.4204,,model only,0.4204
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,11.5,False,0.326,,model only,0.326
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,12.5,False,0.2433,,model only,0.2433
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,13.5,False,0.1754,,model only,0.1754
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,0.5,False,0.7767,,model only,0.7767
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,1.5,False,0.4567,,model only,0.4567
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,2.5,False,0.2083,,model only,0.2083
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,3.5,False,0.077,,model only,0.077
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,12.5,False,0.7982,0.8019,est,0.8014
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,13.5,False,0.744,0.7484,est,0.7477
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,14.5,False,0.6851,0.6901,est,0.6894
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,15.5,False,0.6255,0.631,est,0.6301
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,16.5,False,0.5665,0.5721,est,0.5713
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,17.5,True,0.5068,0.5126,book,0.5117
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,18.5,False,0.4464,0.4521,est,0.4512
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,19.5,False,0.3919,0.3974,est,0.3966
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,20.5,False,0.3389,0.3441,est,0.3433
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,21.5,False,0.2901,0.2949,est,0.2941
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pra,22.5,False,0.2491,0.2534,est,0.2527
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,11.5,False,0.7504,0.7601,est,0.7586
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,12.5,False,0.6864,0.6976,est,0.6959
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,13.5,False,0.6212,0.6335,est,0.6316
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,14.5,False,0.5564,0.5693,est,0.5673
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,15.5,True,0.4947,0.5078,book,0.5058
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,16.5,False,0.4326,0.4455,est,0.4435
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,17.5,False,0.3705,0.3828,est,0.3809
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,18.5,False,0.3186,0.33,est,0.3283
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pr,19.5,False,0.2721,0.2826,est,0.2809
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,9.5,False,0.7889,0.7935,est,0.7928
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,10.5,False,0.7238,0.7293,est,0.7284
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,11.5,False,0.6569,0.6631,est,0.6622
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,12.5,False,0.5869,0.5936,est,0.5926
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,13.5,True,0.5196,0.5265,book,0.5254
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,14.5,False,0.4543,0.4612,est,0.4602
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,15.5,False,0.392,0.3986,est,0.3976
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,16.5,False,0.3339,0.3401,est,0.3392
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,pa,17.5,False,0.282,0.2877,est,0.2868
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,2.5,False,0.9092,0.9058,est,0.9063
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,3.5,False,0.811,0.8047,est,0.8057
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,4.5,False,0.6762,0.6673,est,0.6686
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,5.5,True,0.5312,0.5212,book,0.5227
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,6.5,False,0.3893,0.3798,est,0.3812
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,7.5,False,0.2696,0.2618,est,0.263
+401910015,BOS @ DEN,DEN,1629661,Cameron Johnson,ra,8.5,False,0.1768,0.171,est,0.1719
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,19.5,False,0.6675,0.6626,est,0.6633
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,20.5,False,0.6234,0.6182,est,0.619
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,21.5,False,0.581,0.5757,est,0.5765
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,22.5,False,0.5386,0.5331,est,0.5339
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,23.5,True,0.4929,0.4874,book,0.4882
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,24.5,False,0.4505,0.445,est,0.4459
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,25.5,False,0.4108,0.4055,est,0.4063
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,26.5,False,0.3713,0.3662,est,0.367
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pts,27.5,False,0.336,0.3311,est,0.3319
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,8.5,False,0.7943,0.7709,book,0.7745
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,9.5,False,0.7067,0.6949,book,0.6967
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,10.5,False,0.6124,0.6089,book,0.6094
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,11.5,True,0.5133,0.5183,book,0.5175
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,12.5,False,0.418,0.4248,book,0.4238
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,13.5,False,0.3314,0.3374,book,0.3365
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,reb,14.5,False,0.2577,0.264,book,0.263
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,6.5,False,0.8251,0.7729,book,0.7809
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,7.5,False,0.7336,0.6833,book,0.691
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,8.5,False,0.6315,0.5737,book,0.5826
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,9.5,True,0.5278,0.4593,book,0.4699
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,10.5,False,0.4204,0.35,book,0.3608
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,11.5,False,0.326,0.2512,book,0.2627
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ast,12.5,False,0.2433,0.1753,book,0.1858
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,0.5,False,0.7767,0.688,book,0.7017
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,1.5,True,0.4567,0.3651,book,0.3792
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,2.5,False,0.2083,0.1563,book,0.1643
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,fg3m,3.5,False,0.077,0.0649,book,0.0668
 401910015,BOS @ DEN,DEN,203999,Nikola Jokic,stl,0.5,False,0.7017,,model only,0.7017
 401910015,BOS @ DEN,DEN,203999,Nikola Jokic,stl,1.5,False,0.3572,,model only,0.3572
 401910015,BOS @ DEN,DEN,203999,Nikola Jokic,stl,2.5,False,0.1435,,model only,0.1435
 401910015,BOS @ DEN,DEN,203999,Nikola Jokic,blk,0.5,False,0.5366,,model only,0.5366
 401910015,BOS @ DEN,DEN,203999,Nikola Jokic,blk,1.5,False,0.1862,,model only,0.1862
 401910015,BOS @ DEN,DEN,203999,Nikola Jokic,blk,2.5,False,0.0474,,model only,0.0474
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,40.5,False,0.6639,,model only,0.6639
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,41.5,False,0.6304,,model only,0.6304
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,42.5,False,0.5959,,model only,0.5959
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,43.5,False,0.5607,,model only,0.5607
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,44.5,False,0.526,,model only,0.526
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,45.5,False,0.4916,,model only,0.4916
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,46.5,False,0.4603,,model only,0.4603
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,47.5,False,0.429,,model only,0.429
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,48.5,False,0.3998,,model only,0.3998
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,49.5,False,0.3688,,model only,0.3688
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,50.5,False,0.3412,,model only,0.3412
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,31.5,False,0.6461,,model only,0.6461
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,32.5,False,0.6093,,model only,0.6093
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,33.5,False,0.5703,,model only,0.5703
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,34.5,False,0.5321,,model only,0.5321
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,35.5,False,0.4933,,model only,0.4933
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,36.5,False,0.4561,,model only,0.4561
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,37.5,False,0.4199,,model only,0.4199
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,38.5,False,0.385,,model only,0.385
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,39.5,False,0.3537,,model only,0.3537
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,29.5,False,0.6496,,model only,0.6496
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,30.5,False,0.6093,,model only,0.6093
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,31.5,False,0.573,,model only,0.573
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,32.5,False,0.5347,,model only,0.5347
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,33.5,False,0.496,,model only,0.496
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,34.5,False,0.4578,,model only,0.4578
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,35.5,False,0.4209,,model only,0.4209
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,36.5,False,0.3835,,model only,0.3835
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,37.5,False,0.3506,,model only,0.3506
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,19.5,False,0.6415,,model only,0.6415
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,20.5,False,0.575,,model only,0.575
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,21.5,False,0.5078,,model only,0.5078
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,22.5,False,0.441,,model only,0.441
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,23.5,False,0.3788,,model only,0.3788
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,24.5,False,0.321,,model only,0.321
-401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,25.5,False,0.268,,model only,0.268
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,39.5,False,0.6986,0.6706,book,0.6749
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,40.5,False,0.6639,0.6501,est,0.6523
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,41.5,False,0.6304,0.6161,est,0.6183
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,42.5,False,0.5959,0.5811,est,0.5834
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,43.5,False,0.5607,0.5456,est,0.5479
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,44.5,True,0.526,0.5107,book,0.5131
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,45.5,False,0.4916,0.4763,est,0.4786
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,46.5,False,0.4603,0.4452,est,0.4475
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,47.5,False,0.429,0.4141,est,0.4164
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,48.5,False,0.3998,0.3853,est,0.3875
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pra,49.5,False,0.3688,0.3487,book,0.3518
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,31.5,False,0.6461,0.6484,est,0.6481
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,32.5,False,0.6093,0.6117,est,0.6113
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,33.5,False,0.5703,0.5727,est,0.5724
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,34.5,False,0.5321,0.5346,est,0.5342
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,35.5,True,0.4933,0.4958,book,0.4954
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,36.5,False,0.4561,0.4586,est,0.4583
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,37.5,False,0.4199,0.4223,est,0.4219
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,38.5,False,0.385,0.3873,est,0.387
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pr,39.5,False,0.3537,0.356,est,0.3557
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,28.5,False,0.6859,0.6665,est,0.6695
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,29.5,False,0.6496,0.6292,est,0.6323
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,30.5,False,0.6093,0.5881,est,0.5913
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,31.5,False,0.573,0.5512,est,0.5546
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,32.5,True,0.5347,0.5126,book,0.516
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,33.5,False,0.496,0.4739,est,0.4773
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,34.5,False,0.4578,0.4359,est,0.4392
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,35.5,False,0.4209,0.3995,est,0.4028
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,pa,36.5,False,0.3835,0.3628,est,0.366
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,18.5,False,0.7068,0.6804,est,0.6845
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,19.5,False,0.6415,0.6124,est,0.6169
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,20.5,False,0.575,0.5444,est,0.5491
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,21.5,True,0.5078,0.4768,book,0.4816
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,22.5,False,0.441,0.4106,est,0.4153
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,23.5,False,0.3788,0.35,est,0.3544
+401910015,BOS @ DEN,DEN,203999,Nikola Jokic,ra,24.5,False,0.321,0.2946,est,0.2987
 401910015,BOS @ DEN,DEN,904592427,Spencer Jones,pts,0.5,False,0.939,,model only,0.939
 401910015,BOS @ DEN,DEN,904592427,Spencer Jones,pts,1.5,False,0.8248,,model only,0.8248
 401910015,BOS @ DEN,DEN,904592427,Spencer Jones,pts,2.5,False,0.6757,,model only,0.6757
@@ -10738,75 +10735,75 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,DEN,904592427,Spencer Jones,ra,4.5,False,0.2576,,model only,0.2576
 401910015,BOS @ DEN,DEN,904592427,Spencer Jones,ra,5.5,False,0.1485,,model only,0.1485
 401910015,BOS @ DEN,DEN,904592427,Spencer Jones,ra,6.5,False,0.083,,model only,0.083
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,18.5,False,0.6501,,model only,0.6501
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,19.5,False,0.6023,,model only,0.6023
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,20.5,False,0.5551,,model only,0.5551
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,21.5,False,0.5115,,model only,0.5115
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,22.5,False,0.4673,,model only,0.4673
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,23.5,False,0.4256,,model only,0.4256
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,24.5,False,0.3857,,model only,0.3857
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,25.5,False,0.3479,,model only,0.3479
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,26.5,False,0.3113,,model only,0.3113
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,1.5,False,0.9279,,model only,0.9279
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,2.5,False,0.8097,,model only,0.8097
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,3.5,False,0.6467,,model only,0.6467
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,4.5,False,0.4715,,model only,0.4715
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,5.5,False,0.3127,,model only,0.3127
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,6.5,False,0.1898,,model only,0.1898
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,7.5,False,0.1067,,model only,0.1067
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,3.5,False,0.8588,,model only,0.8588
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,4.5,False,0.7424,,model only,0.7424
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,5.5,False,0.6069,,model only,0.6069
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,6.5,False,0.4659,,model only,0.4659
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,7.5,False,0.34,,model only,0.34
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,8.5,False,0.2305,,model only,0.2305
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,9.5,False,0.1498,,model only,0.1498
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,1.5,False,0.7678,,model only,0.7678
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,2.5,False,0.5381,,model only,0.5381
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,3.5,False,0.3258,,model only,0.3258
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,4.5,False,0.1649,,model only,0.1649
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,5.5,False,0.0717,,model only,0.0717
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,18.5,False,0.6501,0.6765,est,0.6724
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,19.5,False,0.6023,0.6302,est,0.6259
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,20.5,False,0.5551,0.584,est,0.5796
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,21.5,False,0.5115,0.541,est,0.5364
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,22.5,True,0.4673,0.4968,book,0.4923
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,23.5,False,0.4256,0.4547,est,0.4503
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,24.5,False,0.3857,0.4141,est,0.4097
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,25.5,False,0.3479,0.3752,est,0.371
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pts,26.5,False,0.3113,0.3372,est,0.3332
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,1.5,False,0.9279,0.9158,est,0.9177
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,2.5,False,0.8097,0.7618,book,0.7692
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,3.5,False,0.6467,0.5996,book,0.6069
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,4.5,True,0.4715,0.4297,book,0.4361
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,5.5,False,0.3127,0.2798,book,0.2849
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,6.5,False,0.1898,0.1702,book,0.1732
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,reb,7.5,False,0.1067,0.1027,book,0.1033
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,3.5,False,0.8588,0.8511,book,0.8523
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,4.5,False,0.7424,0.7582,book,0.7558
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,5.5,False,0.6069,0.6331,book,0.6291
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,6.5,True,0.4659,0.4948,book,0.4903
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,7.5,False,0.34,0.3581,book,0.3553
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,8.5,False,0.2305,0.2453,book,0.243
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ast,9.5,False,0.1498,0.1592,book,0.1577
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,0.5,False,0.9357,0.8888,book,0.896
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,1.5,False,0.7678,0.7115,book,0.7202
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,2.5,True,0.5381,0.4917,book,0.4989
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,3.5,False,0.3258,0.2967,book,0.3012
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,fg3m,4.5,False,0.1649,0.1623,book,0.1627
 401910015,BOS @ DEN,DEN,1627750,Jamal Murray,stl,0.5,False,0.5439,,model only,0.5439
 401910015,BOS @ DEN,DEN,1627750,Jamal Murray,stl,1.5,False,0.1998,,model only,0.1998
 401910015,BOS @ DEN,DEN,1627750,Jamal Murray,stl,2.5,False,0.0557,,model only,0.0557
 401910015,BOS @ DEN,DEN,1627750,Jamal Murray,blk,0.5,False,0.4115,,model only,0.4115
 401910015,BOS @ DEN,DEN,1627750,Jamal Murray,blk,1.5,False,0.1053,,model only,0.1053
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,28.5,False,0.6737,,model only,0.6737
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,29.5,False,0.6342,,model only,0.6342
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,30.5,False,0.5944,,model only,0.5944
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,31.5,False,0.5556,,model only,0.5556
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,32.5,False,0.5153,,model only,0.5153
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,33.5,False,0.4761,,model only,0.4761
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,34.5,False,0.4363,,model only,0.4363
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,35.5,False,0.3995,,model only,0.3995
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,36.5,False,0.3646,,model only,0.3646
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,37.5,False,0.3333,,model only,0.3333
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,38.5,False,0.3035,,model only,0.3035
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,22.5,False,0.6668,,model only,0.6668
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,23.5,False,0.6228,,model only,0.6228
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,24.5,False,0.577,,model only,0.577
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,25.5,False,0.5337,,model only,0.5337
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,26.5,False,0.4911,,model only,0.4911
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,27.5,False,0.452,,model only,0.452
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,28.5,False,0.4122,,model only,0.4122
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,29.5,False,0.3755,,model only,0.3755
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,30.5,False,0.3418,,model only,0.3418
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,24.5,False,0.6611,,model only,0.6611
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,25.5,False,0.6175,,model only,0.6175
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,26.5,False,0.5765,,model only,0.5765
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,27.5,False,0.5363,,model only,0.5363
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,28.5,False,0.4931,,model only,0.4931
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,29.5,False,0.4515,,model only,0.4515
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,30.5,False,0.4131,,model only,0.4131
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,31.5,False,0.3749,,model only,0.3749
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,32.5,False,0.3392,,model only,0.3392
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,8.5,False,0.7382,,model only,0.7382
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,9.5,False,0.636,,model only,0.636
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,10.5,False,0.5283,,model only,0.5283
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,11.5,False,0.4261,,model only,0.4261
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,12.5,False,0.3318,,model only,0.3318
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,13.5,False,0.2491,,model only,0.2491
-401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,14.5,False,0.182,,model only,0.182
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,28.5,False,0.6737,0.6993,est,0.6954
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,29.5,False,0.6342,0.6614,est,0.6572
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,30.5,False,0.5944,0.6228,est,0.6184
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,31.5,False,0.5556,0.5849,est,0.5804
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,32.5,False,0.5153,0.545,est,0.5404
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,33.5,True,0.4761,0.5059,book,0.5013
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,34.5,False,0.4363,0.4658,est,0.4612
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,35.5,False,0.3995,0.4284,est,0.424
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,36.5,False,0.3646,0.3927,est,0.3883
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,37.5,False,0.3333,0.3603,est,0.3561
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pra,38.5,False,0.3035,0.3293,est,0.3253
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,22.5,False,0.6668,0.6889,est,0.6855
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,23.5,False,0.6228,0.6462,est,0.6426
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,24.5,False,0.577,0.6014,est,0.5977
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,25.5,False,0.5337,0.5587,est,0.5549
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,26.5,True,0.4911,0.5164,book,0.5125
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,27.5,False,0.452,0.4772,est,0.4733
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,28.5,False,0.4122,0.4369,est,0.4331
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,29.5,False,0.3755,0.3995,est,0.3958
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pr,30.5,False,0.3418,0.3649,est,0.3614
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,25.5,False,0.6175,0.6539,est,0.6483
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,26.5,False,0.5765,0.6143,est,0.6085
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,27.5,False,0.5363,0.5751,est,0.5691
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,28.5,False,0.4931,0.5323,est,0.5263
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,29.5,True,0.4515,0.4906,book,0.4846
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,30.5,False,0.4131,0.4516,est,0.4457
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,31.5,False,0.3749,0.4124,est,0.4066
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,32.5,False,0.3392,0.3752,est,0.3697
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,pa,33.5,False,0.3071,0.3415,est,0.3362
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,7.5,False,0.8228,0.8197,est,0.8202
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,8.5,False,0.7382,0.7342,est,0.7348
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,9.5,False,0.636,0.6312,est,0.632
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,10.5,True,0.5283,0.5232,book,0.524
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,11.5,False,0.4261,0.4211,est,0.4219
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,12.5,False,0.3318,0.3273,est,0.328
+401910015,BOS @ DEN,DEN,1627750,Jamal Murray,ra,13.5,False,0.2491,0.2453,est,0.2459
 401910015,BOS @ DEN,BOS,1630568,Luka Garza,pts,2.5,False,0.8126,,model only,0.8126
 401910015,BOS @ DEN,BOS,1630568,Luka Garza,pts,3.5,False,0.7142,,model only,0.7142
 401910015,BOS @ DEN,BOS,1630568,Luka Garza,pts,4.5,False,0.6113,,model only,0.6113
@@ -10871,75 +10868,75 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,BOS,1630568,Luka Garza,ra,5.5,False,0.3213,,model only,0.3213
 401910015,BOS @ DEN,BOS,1630568,Luka Garza,ra,6.5,False,0.2223,,model only,0.2223
 401910015,BOS @ DEN,BOS,1630568,Luka Garza,ra,7.5,False,0.1491,,model only,0.1491
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,13.5,False,0.6824,,model only,0.6824
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,14.5,False,0.6283,,model only,0.6283
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,15.5,False,0.5766,,model only,0.5766
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,16.5,False,0.5241,,model only,0.5241
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,17.5,False,0.474,,model only,0.474
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,18.5,False,0.425,,model only,0.425
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,19.5,False,0.376,,model only,0.376
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,20.5,False,0.3315,,model only,0.3315
-401910015,BOS @ DEN,BOS,202331,Paul George,pts,21.5,False,0.2918,,model only,0.2918
-401910015,BOS @ DEN,BOS,202331,Paul George,reb,2.5,False,0.847,,model only,0.847
-401910015,BOS @ DEN,BOS,202331,Paul George,reb,3.5,False,0.7064,,model only,0.7064
-401910015,BOS @ DEN,BOS,202331,Paul George,reb,4.5,False,0.5438,,model only,0.5438
-401910015,BOS @ DEN,BOS,202331,Paul George,reb,5.5,False,0.386,,model only,0.386
-401910015,BOS @ DEN,BOS,202331,Paul George,reb,6.5,False,0.2562,,model only,0.2562
-401910015,BOS @ DEN,BOS,202331,Paul George,reb,7.5,False,0.1602,,model only,0.1602
-401910015,BOS @ DEN,BOS,202331,Paul George,reb,8.5,False,0.0935,,model only,0.0935
-401910015,BOS @ DEN,BOS,202331,Paul George,ast,0.5,False,0.9637,,model only,0.9637
-401910015,BOS @ DEN,BOS,202331,Paul George,ast,1.5,False,0.8549,,model only,0.8549
-401910015,BOS @ DEN,BOS,202331,Paul George,ast,2.5,False,0.6716,,model only,0.6716
-401910015,BOS @ DEN,BOS,202331,Paul George,ast,3.5,False,0.4726,,model only,0.4726
-401910015,BOS @ DEN,BOS,202331,Paul George,ast,4.5,False,0.305,,model only,0.305
-401910015,BOS @ DEN,BOS,202331,Paul George,ast,5.5,False,0.1813,,model only,0.1813
-401910015,BOS @ DEN,BOS,202331,Paul George,ast,6.5,False,0.0954,,model only,0.0954
-401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,1.5,False,0.7602,,model only,0.7602
-401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,2.5,False,0.517,,model only,0.517
-401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,3.5,False,0.2933,,model only,0.2933
-401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,4.5,False,0.1396,,model only,0.1396
-401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,5.5,False,0.0605,,model only,0.0605
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,14.5,False,0.6283,0.684,est,0.6755
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,15.5,False,0.5766,0.6356,est,0.6265
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,16.5,False,0.5241,0.5851,est,0.5757
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,17.5,False,0.474,0.5357,est,0.5262
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,18.5,True,0.425,0.4863,book,0.4769
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,19.5,False,0.376,0.4356,est,0.4264
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,20.5,False,0.3315,0.3884,est,0.3796
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,21.5,False,0.2918,0.3454,est,0.3372
+401910015,BOS @ DEN,BOS,202331,Paul George,pts,22.5,False,0.2533,0.3028,est,0.2952
+401910015,BOS @ DEN,BOS,202331,Paul George,reb,1.5,False,0.9423,0.9448,est,0.9444
+401910015,BOS @ DEN,BOS,202331,Paul George,reb,2.5,False,0.847,0.8341,book,0.8361
+401910015,BOS @ DEN,BOS,202331,Paul George,reb,3.5,False,0.7064,0.7061,book,0.7061
+401910015,BOS @ DEN,BOS,202331,Paul George,reb,4.5,True,0.5438,0.5554,book,0.5536
+401910015,BOS @ DEN,BOS,202331,Paul George,reb,5.5,False,0.386,0.3994,book,0.3973
+401910015,BOS @ DEN,BOS,202331,Paul George,reb,6.5,False,0.2562,0.2686,book,0.2667
+401910015,BOS @ DEN,BOS,202331,Paul George,reb,7.5,False,0.1602,0.1696,book,0.1681
+401910015,BOS @ DEN,BOS,202331,Paul George,ast,0.5,False,0.9637,0.9676,est,0.967
+401910015,BOS @ DEN,BOS,202331,Paul George,ast,1.5,False,0.8549,0.8689,est,0.8667
+401910015,BOS @ DEN,BOS,202331,Paul George,ast,2.5,False,0.6716,0.6949,book,0.6913
+401910015,BOS @ DEN,BOS,202331,Paul George,ast,3.5,True,0.4726,0.5019,book,0.4974
+401910015,BOS @ DEN,BOS,202331,Paul George,ast,4.5,False,0.305,0.3268,book,0.3234
+401910015,BOS @ DEN,BOS,202331,Paul George,ast,5.5,False,0.1813,0.1947,book,0.1926
+401910015,BOS @ DEN,BOS,202331,Paul George,ast,6.5,False,0.0954,0.1087,book,0.1066
+401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,0.5,False,0.9389,0.91,book,0.9145
+401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,1.5,False,0.7602,0.7754,book,0.7731
+401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,2.5,True,0.517,0.5852,book,0.5747
+401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,3.5,False,0.2933,0.3878,book,0.3732
+401910015,BOS @ DEN,BOS,202331,Paul George,fg3m,4.5,False,0.1396,0.2302,book,0.2163
 401910015,BOS @ DEN,BOS,202331,Paul George,stl,0.5,False,0.7643,,model only,0.7643
 401910015,BOS @ DEN,BOS,202331,Paul George,stl,1.5,False,0.4408,,model only,0.4408
 401910015,BOS @ DEN,BOS,202331,Paul George,stl,2.5,False,0.206,,model only,0.206
 401910015,BOS @ DEN,BOS,202331,Paul George,blk,0.5,False,0.3086,,model only,0.3086
 401910015,BOS @ DEN,BOS,202331,Paul George,blk,1.5,False,0.054,,model only,0.054
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,21.5,False,0.6825,,model only,0.6825
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,22.5,False,0.6388,,model only,0.6388
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,23.5,False,0.5944,,model only,0.5944
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,24.5,False,0.55,,model only,0.55
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,25.5,False,0.5052,,model only,0.5052
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,26.5,False,0.4603,,model only,0.4603
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,27.5,False,0.418,,model only,0.418
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,28.5,False,0.3796,,model only,0.3796
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,29.5,False,0.3422,,model only,0.3422
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,30.5,False,0.3054,,model only,0.3054
-401910015,BOS @ DEN,BOS,202331,Paul George,pra,31.5,False,0.2725,,model only,0.2725
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,18.5,False,0.6666,,model only,0.6666
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,19.5,False,0.6187,,model only,0.6187
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,20.5,False,0.5731,,model only,0.5731
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,21.5,False,0.5255,,model only,0.5255
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,22.5,False,0.4755,,model only,0.4755
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,23.5,False,0.4331,,model only,0.4331
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,24.5,False,0.3885,,model only,0.3885
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,25.5,False,0.3466,,model only,0.3466
-401910015,BOS @ DEN,BOS,202331,Paul George,pr,26.5,False,0.3089,,model only,0.3089
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,17.5,False,0.6503,,model only,0.6503
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,18.5,False,0.602,,model only,0.602
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,19.5,False,0.5548,,model only,0.5548
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,20.5,False,0.5036,,model only,0.5036
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,21.5,False,0.4554,,model only,0.4554
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,22.5,False,0.4086,,model only,0.4086
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,23.5,False,0.3665,,model only,0.3665
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,24.5,False,0.3268,,model only,0.3268
-401910015,BOS @ DEN,BOS,202331,Paul George,pa,25.5,False,0.2906,,model only,0.2906
-401910015,BOS @ DEN,BOS,202331,Paul George,ra,5.5,False,0.8187,,model only,0.8187
-401910015,BOS @ DEN,BOS,202331,Paul George,ra,6.5,False,0.717,,model only,0.717
-401910015,BOS @ DEN,BOS,202331,Paul George,ra,7.5,False,0.6,,model only,0.6
-401910015,BOS @ DEN,BOS,202331,Paul George,ra,8.5,False,0.479,,model only,0.479
-401910015,BOS @ DEN,BOS,202331,Paul George,ra,9.5,False,0.3729,,model only,0.3729
-401910015,BOS @ DEN,BOS,202331,Paul George,ra,10.5,False,0.2758,,model only,0.2758
-401910015,BOS @ DEN,BOS,202331,Paul George,ra,11.5,False,0.1981,,model only,0.1981
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,22.5,False,0.6388,0.7024,est,0.6926
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,23.5,False,0.5944,0.6617,est,0.6513
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,24.5,False,0.55,0.62,est,0.6092
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,25.5,False,0.5052,0.5768,est,0.5658
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,26.5,False,0.4603,0.5324,est,0.5213
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,27.5,True,0.418,0.4895,book,0.4785
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,28.5,False,0.3796,0.4495,est,0.4387
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,29.5,False,0.3422,0.4098,est,0.3994
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,30.5,False,0.3054,0.3698,est,0.3599
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,31.5,False,0.2725,0.3333,est,0.3239
+401910015,BOS @ DEN,BOS,202331,Paul George,pra,32.5,False,0.2425,0.2994,est,0.2906
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,19.5,False,0.6187,0.6735,book,0.6651
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,20.5,False,0.5731,0.6317,est,0.6227
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,21.5,False,0.5255,0.5859,est,0.5766
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,22.5,False,0.4755,0.5366,est,0.5272
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,23.5,True,0.4331,0.4939,book,0.4845
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,24.5,False,0.3885,0.4472,book,0.4382
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,25.5,False,0.3466,0.4039,est,0.3951
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,26.5,False,0.3089,0.3635,est,0.3551
+401910015,BOS @ DEN,BOS,202331,Paul George,pr,27.5,False,0.273,0.3242,est,0.3163
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,18.5,False,0.602,0.6718,est,0.661
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,19.5,False,0.5548,0.6277,est,0.6165
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,20.5,False,0.5036,0.5785,est,0.567
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,21.5,False,0.4554,0.5308,est,0.5192
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,22.5,True,0.4086,0.4831,book,0.4716
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,23.5,False,0.3665,0.439,est,0.4279
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,24.5,False,0.3268,0.3964,est,0.3857
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,25.5,False,0.2906,0.3567,est,0.3465
+401910015,BOS @ DEN,BOS,202331,Paul George,pa,26.5,False,0.256,0.3176,est,0.3081
+401910015,BOS @ DEN,BOS,202331,Paul George,ra,5.5,False,0.8187,0.8337,est,0.8314
+401910015,BOS @ DEN,BOS,202331,Paul George,ra,6.5,False,0.717,0.7377,est,0.7345
+401910015,BOS @ DEN,BOS,202331,Paul George,ra,7.5,False,0.6,0.6247,est,0.6209
+401910015,BOS @ DEN,BOS,202331,Paul George,ra,8.5,True,0.479,0.5051,book,0.5011
+401910015,BOS @ DEN,BOS,202331,Paul George,ra,9.5,False,0.3729,0.3976,est,0.3938
+401910015,BOS @ DEN,BOS,202331,Paul George,ra,10.5,False,0.2758,0.2971,est,0.2938
+401910015,BOS @ DEN,BOS,202331,Paul George,ra,11.5,False,0.1981,0.2152,est,0.2126
 401910015,BOS @ DEN,BOS,1630573,Sam Hauser,pts,3.5,False,0.8426,,model only,0.8426
 401910015,BOS @ DEN,BOS,1630573,Sam Hauser,pts,4.5,False,0.7588,,model only,0.7588
 401910015,BOS @ DEN,BOS,1630573,Sam Hauser,pts,5.5,False,0.6632,,model only,0.6632
@@ -11005,74 +11002,72 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,BOS,1630573,Sam Hauser,ra,5.5,False,0.2757,,model only,0.2757
 401910015,BOS @ DEN,BOS,1630573,Sam Hauser,ra,6.5,False,0.1739,,model only,0.1739
 401910015,BOS @ DEN,BOS,1630573,Sam Hauser,ra,7.5,False,0.103,,model only,0.103
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,8.5,False,0.7533,,model only,0.7533
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,9.5,False,0.6877,,model only,0.6877
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,10.5,False,0.622,,model only,0.622
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,11.5,False,0.5514,,model only,0.5514
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,12.5,False,0.4845,,model only,0.4845
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,13.5,False,0.4198,,model only,0.4198
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,14.5,False,0.3594,,model only,0.3594
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,15.5,False,0.3051,,model only,0.3051
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,16.5,False,0.2569,,model only,0.2569
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,0.5,False,0.9381,,model only,0.9381
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,1.5,False,0.781,,model only,0.781
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,2.5,False,0.5744,,model only,0.5744
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,3.5,False,0.3708,,model only,0.3708
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,4.5,False,0.2136,,model only,0.2136
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,5.5,False,0.1105,,model only,0.1105
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,6.5,False,0.0526,,model only,0.0526
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,1.5,False,0.8629,,model only,0.8629
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,2.5,False,0.698,,model only,0.698
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,3.5,False,0.5157,,model only,0.5157
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,4.5,False,0.3424,,model only,0.3424
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,5.5,False,0.21,,model only,0.21
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,6.5,False,0.1192,,model only,0.1192
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,7.5,False,0.0615,,model only,0.0615
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,0.5,False,0.8758,,model only,0.8758
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,1.5,False,0.6062,,model only,0.6062
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,2.5,False,0.3298,,model only,0.3298
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,3.5,False,0.1439,,model only,0.1439
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,4.5,False,0.0537,,model only,0.0537
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,9.5,False,0.6877,0.7647,est,0.7528
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,10.5,False,0.622,0.7083,est,0.695
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,11.5,False,0.5514,0.6447,est,0.6303
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,12.5,False,0.4845,0.5811,est,0.5662
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,13.5,True,0.4198,0.5164,book,0.5015
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,14.5,False,0.3594,0.453,est,0.4386
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,15.5,False,0.3051,0.3932,est,0.3796
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,16.5,False,0.2569,0.3379,est,0.3254
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pts,17.5,False,0.2146,0.2873,est,0.2761
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,0.5,False,0.9381,0.9421,est,0.9415
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,1.5,False,0.781,0.7929,est,0.791
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,2.5,True,0.5744,0.5916,book,0.589
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,3.5,False,0.3708,0.4063,book,0.4008
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,4.5,False,0.2136,0.2486,book,0.2432
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,reb,5.5,False,0.1105,0.1447,book,0.1394
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,1.5,False,0.8629,0.8989,est,0.8933
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,2.5,False,0.698,0.7566,book,0.7476
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,3.5,False,0.5157,0.596,book,0.5836
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,4.5,True,0.3424,0.4239,book,0.4114
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,5.5,False,0.21,0.2781,book,0.2676
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,6.5,False,0.1192,0.1709,book,0.1629
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ast,7.5,False,0.0615,0.1016,book,0.0954
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,0.5,False,0.8758,0.8402,book,0.8457
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,1.5,True,0.6062,0.6156,book,0.6142
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,2.5,False,0.3298,0.3768,book,0.3696
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,fg3m,3.5,False,0.1439,0.1488,est,0.148
 401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,stl,0.5,False,0.4369,,model only,0.4369
 401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,stl,1.5,False,0.1263,,model only,0.1263
 401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,blk,0.5,False,0.0934,,model only,0.0934
 401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,blk,1.5,False,0.0053,,model only,0.0053
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,14.5,False,0.7528,,model only,0.7528
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,15.5,False,0.7013,,model only,0.7013
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,16.5,False,0.6457,,model only,0.6457
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,17.5,False,0.5934,,model only,0.5934
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,18.5,False,0.5379,,model only,0.5379
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,19.5,False,0.4851,,model only,0.4851
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,20.5,False,0.4324,,model only,0.4324
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,21.5,False,0.381,,model only,0.381
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,22.5,False,0.3339,,model only,0.3339
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,23.5,False,0.29,,model only,0.29
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,24.5,False,0.2499,,model only,0.2499
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,11.5,False,0.7355,,model only,0.7355
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,12.5,False,0.677,,model only,0.677
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,13.5,False,0.6146,,model only,0.6146
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,14.5,False,0.5526,,model only,0.5526
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,15.5,False,0.494,,model only,0.494
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,16.5,False,0.4334,,model only,0.4334
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,17.5,False,0.3769,,model only,0.3769
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,18.5,False,0.3248,,model only,0.3248
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,19.5,False,0.2763,,model only,0.2763
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,12.5,False,0.7129,,model only,0.7129
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,13.5,False,0.6564,,model only,0.6564
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,14.5,False,0.5975,,model only,0.5975
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,15.5,False,0.536,,model only,0.536
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,16.5,False,0.4762,,model only,0.4762
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,17.5,False,0.4182,,model only,0.4182
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,18.5,False,0.3648,,model only,0.3648
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,19.5,False,0.3167,,model only,0.3167
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,20.5,False,0.2737,,model only,0.2737
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,4.5,False,0.7689,,model only,0.7689
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,5.5,False,0.6491,,model only,0.6491
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,6.5,False,0.516,,model only,0.516
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,7.5,False,0.3946,,model only,0.3946
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,8.5,False,0.2813,,model only,0.2813
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,9.5,False,0.1932,,model only,0.1932
-401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,10.5,False,0.1271,,model only,0.1271
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,16.5,False,0.6457,0.7443,est,0.7291
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,17.5,False,0.5934,0.6999,est,0.6835
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,18.5,False,0.5379,0.6503,est,0.633
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,19.5,False,0.4851,0.6008,est,0.583
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,20.5,False,0.4324,0.5489,est,0.531
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,21.5,True,0.381,0.4958,book,0.4781
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,22.5,False,0.3339,0.4447,est,0.4276
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,23.5,False,0.29,0.3949,est,0.3787
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,24.5,False,0.2499,0.3474,est,0.3324
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,25.5,False,0.2158,0.3054,est,0.2916
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pra,26.5,False,0.1851,0.2662,est,0.2537
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,13.5,False,0.6146,0.7076,est,0.6933
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,14.5,False,0.5526,0.6522,est,0.6368
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,15.5,False,0.494,0.597,est,0.5812
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,16.5,False,0.4334,0.5373,est,0.5213
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,17.5,True,0.3769,0.4787,book,0.463
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,18.5,False,0.3248,0.422,est,0.407
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,19.5,False,0.2763,0.3669,est,0.353
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,20.5,False,0.2354,0.3185,est,0.3057
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pr,21.5,False,0.1981,0.2727,est,0.2612
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,14.5,False,0.5975,0.7072,est,0.6903
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,15.5,False,0.536,0.6527,est,0.6347
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,16.5,False,0.4762,0.5966,est,0.5781
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,17.5,False,0.4182,0.539,est,0.5204
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,18.5,True,0.3648,0.4831,book,0.4649
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,19.5,False,0.3167,0.43,est,0.4125
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,20.5,False,0.2737,0.3802,est,0.3638
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,21.5,False,0.2352,0.3335,est,0.3184
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,pa,22.5,False,0.1972,0.2856,est,0.272
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,4.5,False,0.7689,0.8177,est,0.8102
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,5.5,False,0.6491,0.7138,est,0.7038
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,6.5,False,0.516,0.5897,est,0.5783
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,7.5,True,0.3946,0.4677,book,0.4564
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,8.5,False,0.2813,0.3454,est,0.3356
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,9.5,False,0.1932,0.244,est,0.2362
+401910015,BOS @ DEN,BOS,1630202,Payton Pritchard,ra,10.5,False,0.1271,0.1641,est,0.1584
 401910015,BOS @ DEN,BOS,1629674,Neemias Queta,pts,3.5,False,0.8483,,model only,0.8483
 401910015,BOS @ DEN,BOS,1629674,Neemias Queta,pts,4.5,False,0.7665,,model only,0.7665
 401910015,BOS @ DEN,BOS,1629674,Neemias Queta,pts,5.5,False,0.6752,,model only,0.6752
@@ -11266,75 +11261,75 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,BOS,1631248,Baylor Scheierman,ra,5.5,False,0.2728,,model only,0.2728
 401910015,BOS @ DEN,BOS,1631248,Baylor Scheierman,ra,6.5,False,0.1776,,model only,0.1776
 401910015,BOS @ DEN,BOS,1631248,Baylor Scheierman,ra,7.5,False,0.11,,model only,0.11
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,19.5,False,0.6512,,model only,0.6512
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,20.5,False,0.6073,,model only,0.6073
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,21.5,False,0.5613,,model only,0.5613
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,22.5,False,0.516,,model only,0.516
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,23.5,False,0.4732,,model only,0.4732
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,24.5,False,0.4303,,model only,0.4303
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,25.5,False,0.3909,,model only,0.3909
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,26.5,False,0.3548,,model only,0.3548
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,27.5,False,0.3177,,model only,0.3177
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,5.5,False,0.754,,model only,0.754
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,6.5,False,0.6354,,model only,0.6354
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,7.5,False,0.5049,,model only,0.5049
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,8.5,False,0.3843,,model only,0.3843
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,9.5,False,0.279,,model only,0.279
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,10.5,False,0.1934,,model only,0.1934
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,11.5,False,0.1281,,model only,0.1281
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,4.5,False,0.7664,,model only,0.7664
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,5.5,False,0.6392,,model only,0.6392
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,6.5,False,0.5016,,model only,0.5016
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,7.5,False,0.3751,,model only,0.3751
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,8.5,False,0.2654,,model only,0.2654
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,9.5,False,0.1794,,model only,0.1794
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,10.5,False,0.1135,,model only,0.1135
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,1.5,False,0.7582,,model only,0.7582
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,2.5,False,0.5261,,model only,0.5261
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,3.5,False,0.3096,,model only,0.3096
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,4.5,False,0.1605,,model only,0.1605
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,5.5,False,0.071,,model only,0.071
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,21.5,False,0.5613,0.6565,est,0.6418
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,22.5,False,0.516,0.6143,est,0.5991
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,23.5,False,0.4732,0.573,est,0.5577
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,24.5,False,0.4303,0.5301,est,0.5148
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,25.5,True,0.3909,0.4895,book,0.4743
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,26.5,False,0.3548,0.451,est,0.4362
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,27.5,False,0.3177,0.4102,est,0.396
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,28.5,False,0.2857,0.3741,est,0.3605
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pts,29.5,False,0.2541,0.3373,est,0.3245
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,3.5,False,0.9292,0.8659,book,0.8757
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,4.5,False,0.8546,0.7804,book,0.7918
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,5.5,False,0.754,0.666,book,0.6796
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,6.5,True,0.6354,0.536,book,0.5513
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,7.5,False,0.5049,0.4081,book,0.423
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,8.5,False,0.3843,0.2939,book,0.3078
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,reb,9.5,False,0.279,0.2059,book,0.2172
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,3.5,False,0.8723,0.8789,book,0.8779
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,4.5,False,0.7664,0.8003,book,0.7951
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,5.5,False,0.6392,0.6886,book,0.681
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,6.5,True,0.5016,0.5531,book,0.5452
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,7.5,False,0.3751,0.4229,book,0.4155
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,8.5,False,0.2654,0.3044,book,0.2984
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ast,9.5,False,0.1794,0.205,book,0.2011
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,0.5,False,0.9325,0.9293,est,0.9298
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,1.5,False,0.7582,0.7489,est,0.7503
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,2.5,True,0.5261,0.5136,book,0.5155
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,3.5,False,0.3096,0.3084,book,0.3086
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,fg3m,4.5,False,0.1605,0.1672,book,0.1662
 401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,stl,0.5,False,0.6375,,model only,0.6375
 401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,stl,1.5,False,0.2823,,model only,0.2823
 401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,stl,2.5,False,0.0979,,model only,0.0979
 401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,blk,0.5,False,0.3906,,model only,0.3906
 401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,blk,1.5,False,0.0938,,model only,0.0938
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,33.5,False,0.6481,,model only,0.6481
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,34.5,False,0.6121,,model only,0.6121
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,35.5,False,0.5738,,model only,0.5738
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,36.5,False,0.5383,,model only,0.5383
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,37.5,False,0.5004,,model only,0.5004
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,38.5,False,0.4639,,model only,0.4639
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,39.5,False,0.4304,,model only,0.4304
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,40.5,False,0.3964,,model only,0.3964
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,41.5,False,0.3634,,model only,0.3634
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,42.5,False,0.3311,,model only,0.3311
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,43.5,False,0.3026,,model only,0.3026
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,27.5,False,0.6285,,model only,0.6285
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,28.5,False,0.5903,,model only,0.5903
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,29.5,False,0.5506,,model only,0.5506
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,30.5,False,0.5103,,model only,0.5103
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,31.5,False,0.471,,model only,0.471
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,32.5,False,0.4337,,model only,0.4337
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,33.5,False,0.3965,,model only,0.3965
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,34.5,False,0.36,,model only,0.36
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,35.5,False,0.327,,model only,0.327
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,26.5,False,0.6299,,model only,0.6299
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,27.5,False,0.5874,,model only,0.5874
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,28.5,False,0.5472,,model only,0.5472
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,29.5,False,0.5069,,model only,0.5069
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,30.5,False,0.4672,,model only,0.4672
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,31.5,False,0.4311,,model only,0.4311
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,32.5,False,0.3927,,model only,0.3927
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,33.5,False,0.3571,,model only,0.3571
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,34.5,False,0.324,,model only,0.324
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,11.5,False,0.7364,,model only,0.7364
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,12.5,False,0.6541,,model only,0.6541
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,13.5,False,0.5662,,model only,0.5662
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,14.5,False,0.477,,model only,0.477
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,15.5,False,0.3981,,model only,0.3981
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,16.5,False,0.3225,,model only,0.3225
-401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,17.5,False,0.2558,,model only,0.2558
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,34.5,False,0.6121,0.6761,est,0.6663
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,35.5,False,0.5738,0.6404,est,0.6301
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,36.5,False,0.5383,0.6066,est,0.5961
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,37.5,False,0.5004,0.5698,est,0.5591
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,38.5,False,0.4639,0.5337,est,0.5229
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,39.5,True,0.4304,0.4999,book,0.4892
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,40.5,False,0.3964,0.4649,est,0.4543
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,41.5,False,0.3634,0.4302,est,0.4199
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,42.5,False,0.3311,0.3957,est,0.3857
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,43.5,False,0.3026,0.3647,est,0.3551
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pra,44.5,False,0.2762,0.3279,book,0.3199
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,28.5,False,0.5903,0.6491,est,0.64
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,29.5,False,0.5506,0.6114,est,0.602
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,30.5,False,0.5103,0.5722,est,0.5627
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,31.5,False,0.471,0.5334,est,0.5238
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,32.5,True,0.4337,0.4958,book,0.4862
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,33.5,False,0.3965,0.4576,est,0.4482
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,34.5,False,0.36,0.4194,est,0.4102
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,35.5,False,0.327,0.3841,est,0.3753
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pr,36.5,False,0.2975,0.3522,est,0.3438
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,28.5,False,0.5472,0.6504,est,0.6345
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,29.5,False,0.5069,0.6127,est,0.5964
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,30.5,False,0.4672,0.5744,est,0.5579
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,31.5,False,0.4311,0.5385,est,0.5219
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,32.5,True,0.3927,0.4989,book,0.4826
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,33.5,False,0.3571,0.4609,est,0.4449
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,34.5,False,0.324,0.4245,est,0.409
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,35.5,False,0.2913,0.3875,est,0.3727
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,pa,36.5,False,0.2625,0.354,est,0.3399
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,10.5,False,0.8103,0.7878,est,0.7912
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,11.5,False,0.7364,0.7082,est,0.7125
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,12.5,False,0.6541,0.6216,est,0.6266
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,13.5,True,0.5662,0.5314,book,0.5368
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,14.5,False,0.477,0.442,est,0.4474
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,15.5,False,0.3981,0.3649,est,0.37
+401910015,BOS @ DEN,BOS,1628369,Jayson Tatum,ra,16.5,False,0.3225,0.2925,est,0.2971
 401910015,BOS @ DEN,BOS,1641775,Jordan Walsh,pts,0.5,False,0.9257,,model only,0.9257
 401910015,BOS @ DEN,BOS,1641775,Jordan Walsh,pts,1.5,False,0.8065,,model only,0.8065
 401910015,BOS @ DEN,BOS,1641775,Jordan Walsh,pts,2.5,False,0.6666,,model only,0.6666
@@ -11397,76 +11392,74 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910015,BOS @ DEN,BOS,1641775,Jordan Walsh,ra,4.5,False,0.27,,model only,0.27
 401910015,BOS @ DEN,BOS,1641775,Jordan Walsh,ra,5.5,False,0.1667,,model only,0.1667
 401910015,BOS @ DEN,BOS,1641775,Jordan Walsh,ra,6.5,False,0.0958,,model only,0.0958
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,8.5,False,0.7378,,model only,0.7378
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,9.5,False,0.6691,,model only,0.6691
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,10.5,False,0.5969,,model only,0.5969
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,11.5,False,0.5246,,model only,0.5246
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,12.5,False,0.4526,,model only,0.4526
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,13.5,False,0.3888,,model only,0.3888
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,14.5,False,0.3283,,model only,0.3283
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,15.5,False,0.2751,,model only,0.2751
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,16.5,False,0.2286,,model only,0.2286
-401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,0.5,False,0.9555,,model only,0.9555
-401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,1.5,False,0.8338,,model only,0.8338
-401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,2.5,False,0.6423,,model only,0.6423
-401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,3.5,False,0.4328,,model only,0.4328
-401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,4.5,False,0.2619,,model only,0.2619
-401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,5.5,False,0.1458,,model only,0.1458
-401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,6.5,False,0.074,,model only,0.074
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,1.5,False,0.8984,,model only,0.8984
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,2.5,False,0.7644,,model only,0.7644
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,3.5,False,0.5895,,model only,0.5895
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,4.5,False,0.4207,,model only,0.4207
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,5.5,False,0.2765,,model only,0.2765
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,6.5,False,0.1665,,model only,0.1665
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,7.5,False,0.0945,,model only,0.0945
-401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,0.5,False,0.8599,,model only,0.8599
-401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,1.5,False,0.5783,,model only,0.5783
-401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,2.5,False,0.296,,model only,0.296
-401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,3.5,False,0.1206,,model only,0.1206
-401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,4.5,False,0.0397,,model only,0.0397
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,9.5,False,0.6691,0.7561,est,0.7427
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,10.5,False,0.5969,0.6942,est,0.6792
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,11.5,False,0.5246,0.6285,est,0.6125
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,12.5,False,0.4526,0.559,est,0.5426
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,13.5,True,0.3888,0.4937,book,0.4775
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,14.5,False,0.3283,0.4283,est,0.4129
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,15.5,False,0.2751,0.3678,est,0.3535
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,16.5,False,0.2286,0.3123,est,0.2994
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pts,17.5,False,0.1866,0.2602,est,0.2489
+401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,0.5,False,0.9555,0.9449,est,0.9465
+401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,1.5,False,0.8338,0.8003,est,0.8054
+401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,2.5,True,0.6423,0.5891,book,0.5973
+401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,3.5,False,0.4328,0.3878,book,0.3947
+401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,4.5,False,0.2619,0.2208,est,0.2271
+401910015,BOS @ DEN,BOS,1628401,Derrick White,reb,5.5,False,0.1458,0.1199,est,0.1239
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,1.5,False,0.8984,0.9189,est,0.9158
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,2.5,False,0.7644,0.8029,book,0.797
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,3.5,False,0.5895,0.6531,book,0.6433
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,4.5,True,0.4207,0.482,book,0.4726
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,5.5,False,0.2765,0.3291,book,0.321
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,6.5,False,0.1665,0.2063,book,0.2002
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ast,7.5,False,0.0945,0.1214,book,0.1173
+401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,0.5,False,0.8599,0.8456,book,0.8478
+401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,1.5,True,0.5783,0.6123,book,0.6071
+401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,2.5,False,0.296,0.3679,book,0.3568
+401910015,BOS @ DEN,BOS,1628401,Derrick White,fg3m,3.5,False,0.1206,0.1873,book,0.177
 401910015,BOS @ DEN,BOS,1628401,Derrick White,stl,0.5,False,0.5899,,model only,0.5899
 401910015,BOS @ DEN,BOS,1628401,Derrick White,stl,1.5,False,0.2365,,model only,0.2365
 401910015,BOS @ DEN,BOS,1628401,Derrick White,stl,2.5,False,0.0738,,model only,0.0738
 401910015,BOS @ DEN,BOS,1628401,Derrick White,blk,0.5,False,0.5512,,model only,0.5512
 401910015,BOS @ DEN,BOS,1628401,Derrick White,blk,1.5,False,0.2022,,model only,0.2022
 401910015,BOS @ DEN,BOS,1628401,Derrick White,blk,2.5,False,0.0568,,model only,0.0568
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,15.5,False,0.7237,,model only,0.7237
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,16.5,False,0.6716,,model only,0.6716
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,17.5,False,0.6156,,model only,0.6156
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,18.5,False,0.5557,,model only,0.5557
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,19.5,False,0.5007,,model only,0.5007
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,20.5,False,0.4474,,model only,0.4474
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,21.5,False,0.3973,,model only,0.3973
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,22.5,False,0.3478,,model only,0.3478
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,23.5,False,0.3025,,model only,0.3025
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,24.5,False,0.2588,,model only,0.2588
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,25.5,False,0.2216,,model only,0.2216
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,11.5,False,0.7402,,model only,0.7402
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,12.5,False,0.6805,,model only,0.6805
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,13.5,False,0.6129,,model only,0.6129
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,14.5,False,0.5462,,model only,0.5462
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,15.5,False,0.4801,,model only,0.4801
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,16.5,False,0.4197,,model only,0.4197
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,17.5,False,0.3638,,model only,0.3638
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,18.5,False,0.3125,,model only,0.3125
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,19.5,False,0.268,,model only,0.268
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,12.5,False,0.7278,,model only,0.7278
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,13.5,False,0.6652,,model only,0.6652
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,14.5,False,0.6023,,model only,0.6023
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,15.5,False,0.5398,,model only,0.5398
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,16.5,False,0.4798,,model only,0.4798
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,17.5,False,0.4171,,model only,0.4171
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,18.5,False,0.3627,,model only,0.3627
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,19.5,False,0.3108,,model only,0.3108
-401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,20.5,False,0.265,,model only,0.265
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,4.5,False,0.8363,,model only,0.8363
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,5.5,False,0.7337,,model only,0.7337
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,6.5,False,0.6112,,model only,0.6112
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,7.5,False,0.4867,,model only,0.4867
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,8.5,False,0.3741,,model only,0.3741
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,9.5,False,0.2715,,model only,0.2715
-401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,10.5,False,0.1895,,model only,0.1895
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,16.5,False,0.6716,0.7477,est,0.736
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,17.5,False,0.6156,0.6988,est,0.686
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,18.5,False,0.5557,0.6444,est,0.6308
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,19.5,False,0.5007,0.5923,est,0.5782
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,20.5,False,0.4474,0.5399,est,0.5256
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,21.5,True,0.3973,0.4885,book,0.4745
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,22.5,False,0.3478,0.4359,est,0.4223
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,23.5,False,0.3025,0.3859,est,0.3731
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,24.5,False,0.2588,0.3359,est,0.324
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,25.5,False,0.2216,0.292,est,0.2811
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pra,26.5,False,0.1887,0.252,est,0.2423
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,12.5,False,0.6805,0.7524,est,0.7413
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,13.5,False,0.6129,0.6931,est,0.6808
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,14.5,False,0.5462,0.632,est,0.6187
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,15.5,False,0.4801,0.5685,est,0.5549
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,16.5,True,0.4197,0.5078,book,0.4942
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,17.5,False,0.3638,0.4493,est,0.4361
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,18.5,False,0.3125,0.3934,est,0.3809
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,19.5,False,0.268,0.3431,est,0.3316
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pr,20.5,False,0.2244,0.2922,est,0.2817
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,14.5,False,0.6023,0.7167,est,0.6991
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,15.5,False,0.5398,0.6621,est,0.6433
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,16.5,False,0.4798,0.6064,est,0.5869
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,17.5,False,0.4171,0.5445,est,0.5249
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,18.5,True,0.3627,0.4874,book,0.4682
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,19.5,False,0.3108,0.4296,est,0.4113
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,20.5,False,0.265,0.3758,est,0.3588
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,21.5,False,0.2242,0.3256,est,0.31
+401910015,BOS @ DEN,BOS,1628401,Derrick White,pa,22.5,False,0.1888,0.2799,est,0.2659
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,4.5,False,0.8363,0.8424,est,0.8415
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,5.5,False,0.7337,0.7425,est,0.7411
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,6.5,False,0.6112,0.6219,est,0.6202
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,7.5,True,0.4867,0.498,book,0.4963
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,8.5,False,0.3741,0.3848,est,0.3831
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,9.5,False,0.2715,0.2805,est,0.2791
+401910015,BOS @ DEN,BOS,1628401,Derrick White,ra,10.5,False,0.1895,0.1965,est,0.1954
 401910016,GSW @ DAL,DAL,1630583,Santi Aldama,pts,2.5,False,0.8242,,model only,0.8242
 401910016,GSW @ DAL,DAL,1630583,Santi Aldama,pts,3.5,False,0.7403,,model only,0.7403
 401910016,GSW @ DAL,DAL,1630583,Santi Aldama,pts,4.5,False,0.6417,,model only,0.6417

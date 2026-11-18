@@ -1,3 +1,12 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 MIL @ MIA,MIA win + game under 236.5,2,0.464,0.4219,2.37,2.49,2.24,-0.0566,1.013,2.10-2.50
 MIL @ MIA,game over 236.5 + MIA win,2,0.3572,0.4273,2.34,2.46,2.18,-0.07,0.983,2.10-2.50
+BOS @ DEN,Derrick White pa under 18.5 + Jayson Tatum 4+ reb,2,0.5927,0.4654,2.15,2.26,1.97,-0.0825,1.001,1.85-2.10
+BOS @ DEN,Payton Pritchard pa under 18.5 + Nikola Jokic 30+ pra,2,0.5934,0.4719,2.12,2.22,1.94,-0.0857,1.0,1.85-2.10
+BOS @ DEN,Derrick White pts under 13.5 + Jayson Tatum 4+ reb,2,0.5679,0.4512,2.22,2.33,2.03,-0.0858,1.0,1.85-2.10
+BOS @ DEN,Jayson Tatum 7+ reb + Christian Braun 10+ pra,2,0.6017,0.496,2.02,2.12,1.84,-0.0863,1.006,1.65-1.85
+BOS @ DEN,Payton Pritchard pts under 13.5 + Nikola Jokic 30+ pra,2,0.5409,0.4327,2.31,2.43,2.11,-0.0889,0.998,2.10-2.50
+BOS @ DEN,Jayson Tatum 7+ reb + Jamal Murray 1+ 3pm,2,0.5966,0.4958,2.02,2.12,1.84,-0.0896,1.004,1.65-1.85
+BOS @ DEN,Payton Pritchard pts under 13.5 + Jayson Tatum 4+ reb,2,0.5371,0.4279,2.34,2.45,2.13,-0.0898,0.996,2.10-2.50
+BOS @ DEN,Payton Pritchard pts under 13.5 + Nikola Jokic 6+ ast,2,0.5176,0.4181,2.39,2.51,2.18,-0.0902,0.998,2.10-2.50
+BOS @ DEN,Payton Pritchard pr under 17.5 + Nikola Jokic 6+ reb,2,0.5982,0.4906,2.04,2.14,1.85,-0.093,0.999,1.65-1.85
