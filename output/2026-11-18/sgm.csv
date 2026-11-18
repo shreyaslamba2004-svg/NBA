@@ -20,17 +20,17 @@ HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 1+ 3pm,2,0.5997,0.4937,2.03,2.1
 HOU @ IND,HOU -7.5 + Jabari Smith Jr. 1+ 3pm,2,0.3609,0.4352,2.3,2.41,2.08,-0.096,1.01,1.85-2.10
 HOU @ IND,Kevin Durant 33+ pra + Jabari Smith Jr. 10+ pa,2,0.5029,0.4425,2.26,2.37,2.03,-0.1004,1.007,1.85-2.10
 MIL @ MIA,Brayden Burries pts under 11.5 + MIA win,2,0.5151,0.4309,2.32,2.44,2.25,-0.0286,1.031,2.10-2.50
-MIL @ MIA,game over 235.5 + Kyle Kuzma 15+ pra,2,0.3742,0.395,2.53,2.66,2.46,-0.0289,1.044,2.10-2.50
+MIL @ MIA,game over 235.5 + Kyle Kuzma 15+ pra,2,0.3742,0.3985,2.51,2.63,2.43,-0.0308,1.044,2.10-2.50
 MIL @ MIA,Bam Adebayo 30+ pra + MIA win,2,0.5224,0.4491,2.23,2.34,2.15,-0.035,1.025,2.10-2.50
 MIL @ MIA,Andrew Wiggins 13+ pr + MIA win,2,0.567,0.4614,2.17,2.28,2.08,-0.0386,1.014,1.85-2.10
-MIL @ MIA,MIA win + Bam Adebayo 12+ ra,2,0.5332,0.4532,2.21,2.32,2.08,-0.0557,1.005,1.85-2.10
-MIL @ MIA,MIA win + Kel'el Ware 6+ reb,2,0.603,0.5072,1.97,2.07,1.86,-0.0573,1.002,1.85-2.10
-MIL @ MIA,Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 10+ pts,2,0.7062,0.5978,1.67,1.76,1.51,-0.0965,1.002,1.50-1.65
-MIL @ MIA,Andrew Wiggins 1+ 3pm + Myles Turner 4+ reb,2,0.6946,0.5861,1.71,1.79,1.54,-0.0974,1.0,1.50-1.65
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Andrew Wiggins 1+ 3pm,3,0.6051,0.4934,2.03,2.13,1.79,-0.1152,1.002,1.65-1.85
-MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bam Adebayo 6+ reb,3,0.6121,0.5213,1.92,2.01,1.7,-0.1154,1.011,1.65-1.85
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Bam Adebayo 6+ reb,3,0.6416,0.5245,1.91,2.0,1.68,-0.1166,1.001,1.65-1.85
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Jaime Jaquez Jr. 15+ pra,3,0.6865,0.5629,1.78,1.87,1.56,-0.1231,0.994,1.50-1.65
+MIL @ MIA,MIA -12.5 + Kel'el Ware 5+ pr,2,0.531,0.4592,2.18,2.29,2.06,-0.0556,0.999,1.85-2.10
+MIL @ MIA,MIA win + Davion Mitchell 3+ reb,2,0.5426,0.4509,2.22,2.33,2.08,-0.0604,1.0,1.85-2.10
+MIL @ MIA,Kyle Kuzma 15+ pra + Andrew Wiggins 1+ 3pm,2,0.7019,0.5815,1.72,1.81,1.56,-0.0909,1.004,1.50-1.65
+MIL @ MIA,Kyle Kuzma 15+ pra + Myles Turner 4+ reb,2,0.7127,0.5904,1.69,1.78,1.54,-0.0935,1.001,1.50-1.65
+MIL @ MIA,Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 10+ pts,2,0.7062,0.5978,1.67,1.76,1.51,-0.0966,1.002,1.50-1.65
+MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Bam Adebayo 6+ reb,3,0.6416,0.5129,1.95,2.05,1.73,-0.1123,1.001,1.65-1.85
+MIL @ MIA,MIA win + Kel'el Ware 4+ reb + Andrew Wiggins 1+ 3pm,3,0.6184,0.5062,1.98,2.07,1.75,-0.1129,1.006,1.65-1.85
+MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bam Adebayo 6+ reb,3,0.6121,0.5223,1.91,2.01,1.69,-0.1158,1.011,1.65-1.85
 PHI @ ORL,PHI win + VJ Edgecombe 15+ pr,2,0.409,0.4147,2.41,2.53,2.37,-0.019,1.04,2.10-2.50
 PHI @ ORL,PHI -1.5 + VJ Edgecombe 15+ pr,2,0.3831,0.3922,2.55,2.68,2.47,-0.0298,1.041,2.10-2.50
 PHI @ ORL,PHI win + VJ Edgecombe 1+ 3pm,2,0.4239,0.4245,2.36,2.47,2.26,-0.0417,1.014,2.10-2.50
