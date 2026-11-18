@@ -1,51 +1,50 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 MEM @ CLE,game over 235.5 + Cameron Boozer 6+ reb,2,0.427,0.4094,2.44,2.56,2.32,-0.0513,1.03,2.10-2.50
-MEM @ CLE,game over 235.5 + James Harden 10+ pts,2,0.4674,0.4442,2.25,2.36,2.12,-0.0579,1.021,2.10-2.50
-MEM @ CLE,CLE -5.5 + James Harden 10+ pts,2,0.4424,0.4332,2.31,2.42,2.17,-0.0589,1.013,2.10-2.50
+MEM @ CLE,CLE -5.5 + James Harden 4+ ast,2,0.427,0.4285,2.33,2.45,2.2,-0.059,1.017,2.10-2.50
+MEM @ CLE,game over 235.5 + James Harden 10+ pts,2,0.4674,0.447,2.24,2.35,2.1,-0.059,1.021,2.10-2.50
+MEM @ CLE,game over 235.5 + James Harden 15+ pa,2,0.473,0.4568,2.19,2.3,2.06,-0.0592,1.023,1.85-2.10
 MEM @ CLE,game over 235.5 + Meleek Thomas 10+ pra,2,0.4756,0.4591,2.18,2.29,2.04,-0.0646,1.017,1.85-2.10
-MEM @ CLE,CLE win + James Harden 10+ pts,2,0.5783,0.5544,1.8,1.89,1.68,-0.0669,1.012,1.65-1.85
 MEM @ CLE,CLE -5.5 + Meleek Thomas 10+ pra,2,0.4495,0.4471,2.24,2.35,2.09,-0.0669,1.007,1.85-2.10
-MEM @ CLE,CLE -5.5 + Donovan Mitchell 1+ 3pm,2,0.4493,0.4457,2.24,2.36,2.09,-0.0682,1.005,1.85-2.10
-MEM @ CLE,CLE win + James Harden 4+ ast,2,0.5563,0.5474,1.83,1.92,1.7,-0.0702,1.013,1.65-1.85
-MEM @ CLE,CLE win + Tyrese Proctor 1+ 3pm,2,0.5551,0.5416,1.85,1.94,1.71,-0.0725,1.009,1.65-1.85
-MEM @ CLE,CLE win + Meleek Thomas 10+ pra,2,0.5878,0.5725,1.75,1.83,1.62,-0.0743,1.007,1.50-1.65
-MEM @ CLE,CLE win + Donovan Mitchell 1+ 3pm,2,0.5866,0.5696,1.76,1.84,1.62,-0.0773,1.003,1.50-1.65
-HOU @ IND,HOU win + Quenton Jackson 3pm under 1.5,2,0.4253,0.4068,2.46,2.58,2.37,-0.0342,1.031,2.10-2.50
-HOU @ IND,HOU win + Kevin Durant 4+ ast,2,0.4406,0.4257,2.35,2.47,2.26,-0.0379,1.028,2.10-2.50
+MEM @ CLE,CLE win + James Harden 10+ pts,2,0.5783,0.5564,1.8,1.89,1.67,-0.0705,1.012,1.65-1.85
+MEM @ CLE,CLE win + James Harden 4+ ast,2,0.5563,0.5451,1.83,1.93,1.7,-0.0725,1.013,1.65-1.85
+MEM @ CLE,CLE win + James Harden 15+ pa,2,0.5839,0.5673,1.76,1.85,1.63,-0.0728,1.011,1.50-1.65
+MEM @ CLE,Mario Hezonja 3pm under 1.5 + James Harden 10+ pts,2,0.6994,0.5295,1.89,1.98,1.75,-0.0746,1.001,1.65-1.85
+MEM @ CLE,CLE win + Meleek Thomas 10+ pra,2,0.5878,0.571,1.75,1.84,1.62,-0.0768,1.007,1.50-1.65
+MEM @ CLE,CLE win + Donovan Mitchell 1+ 3pm,2,0.5866,0.5681,1.76,1.85,1.62,-0.0798,1.003,1.50-1.65
+HOU @ IND,Kevin Durant 4+ ast + HOU win,2,0.4406,0.4177,2.39,2.51,2.32,-0.0321,1.028,2.10-2.50
+HOU @ IND,HOU win + Quenton Jackson 3pm under 1.5,2,0.4253,0.4061,2.46,2.59,2.37,-0.0358,1.031,2.10-2.50
 HOU @ IND,game over 224.5 + Kevin Durant 25+ pra,2,0.5649,0.412,2.43,2.55,2.32,-0.0436,1.038,2.10-2.50
-HOU @ IND,HOU win + Jabari Smith Jr. 10+ pts,2,0.5266,0.5566,1.8,1.89,1.7,-0.0563,1.031,1.65-1.85
+HOU @ IND,HOU win + Jabari Smith Jr. 10+ pts,2,0.5266,0.5601,1.79,1.87,1.68,-0.0575,1.031,1.65-1.85
 HOU @ IND,HOU win + Kevin Durant 25+ pra,2,0.5492,0.5817,1.72,1.8,1.62,-0.0595,1.028,1.50-1.65
-HOU @ IND,HOU win + Jabari Smith Jr. 15+ pra,2,0.5872,0.6156,1.62,1.71,1.51,-0.072,1.012,1.50-1.65
-HOU @ IND,Kevin Durant 32+ pra + Jabari Smith Jr. 15+ pra,2,0.5502,0.4429,2.26,2.37,2.09,-0.0744,1.009,1.85-2.10
-HOU @ IND,HOU win + Kevin Durant 1+ 3pm,2,0.5511,0.594,1.68,1.77,1.55,-0.0802,1.009,1.50-1.65
-HOU @ IND,Kevin Durant 32+ pra + Jabari Smith Jr. 4+ reb,2,0.5403,0.4386,2.28,2.39,2.1,-0.0804,1.004,1.85-2.10
-HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pts,2,0.5426,0.4435,2.25,2.37,2.07,-0.0808,1.008,1.85-2.10
-HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 15+ pra,2,0.6129,0.4969,2.01,2.11,1.84,-0.0843,1.002,1.65-1.85
-HOU @ IND,Kevin Durant 4+ ast + Jabari Smith Jr. 4+ reb,2,0.6056,0.495,2.02,2.12,1.85,-0.0847,1.004,1.65-1.85
+HOU @ IND,HOU win + Jabari Smith Jr. 10+ pa,2,0.5748,0.6101,1.64,1.72,1.53,-0.068,1.019,1.50-1.65
+HOU @ IND,game over 224.5 + Quenton Jackson 10+ pra,2,0.6217,0.4573,2.19,2.3,2.04,-0.0683,1.013,1.85-2.10
+HOU @ IND,HOU win + Jabari Smith Jr. 15+ pra,2,0.5872,0.6166,1.62,1.7,1.5,-0.0724,1.012,1.50-1.65
+HOU @ IND,IND +7.5 + Quenton Jackson 10+ pra,2,0.548,0.4565,2.19,2.3,2.03,-0.0743,1.011,1.85-2.10
+HOU @ IND,Kevin Durant 32+ pra + Jabari Smith Jr. 15+ pra,2,0.5502,0.4444,2.25,2.36,2.08,-0.0771,1.009,1.85-2.10
+HOU @ IND,Kevin Durant 4+ ast + Quenton Jackson 10+ pra,2,0.6359,0.5154,1.94,2.04,1.78,-0.0834,1.001,1.65-1.85
+HOU @ IND,HOU win + Kevin Durant 25+ pra + Jabari Smith Jr. 10+ pa,3,0.4955,0.4984,2.01,2.11,1.82,-0.0947,1.048,1.65-1.85
 MIL @ MIA,Brayden Burries pts under 12.5 + MIA win,2,0.572,0.4641,2.15,2.26,2.09,-0.0313,1.027,1.85-2.10
 MIL @ MIA,Brayden Burries pa under 15.5 + MIA win,2,0.539,0.4478,2.23,2.34,2.16,-0.0313,1.033,2.10-2.50
-MIL @ MIA,game over 235.5 + Nate Ament 5+ pa,2,0.3731,0.4026,2.48,2.61,2.4,-0.0341,1.043,2.10-2.50
 MIL @ MIA,Andrew Wiggins 12+ pa + MIA win,2,0.532,0.4259,2.35,2.47,2.26,-0.036,1.019,2.10-2.50
-MIL @ MIA,Bam Adebayo 26+ pr + MIA win,2,0.5361,0.4597,2.18,2.28,2.09,-0.0404,1.023,1.85-2.10
+MIL @ MIA,MIA -12.5 + Andrew Wiggins 10+ pra,2,0.4979,0.4129,2.42,2.54,2.33,-0.0364,1.011,2.10-2.50
 MIL @ MIA,Kel'el Ware 7+ ra + MIA win,2,0.598,0.4838,2.07,2.17,1.95,-0.055,1.0,1.85-2.10
+MIL @ MIA,Kel'el Ware 7+ ra + Andrew Wiggins 10+ pra,2,0.6545,0.4645,2.15,2.26,2.02,-0.0598,1.002,1.85-2.10
 MIL @ MIA,Kyle Kuzma 10+ pa + Andrew Wiggins 1+ 3pm,2,0.7242,0.5983,1.67,1.76,1.52,-0.0901,1.004,1.50-1.65
-MIL @ MIA,Myles Turner 4+ reb + Nate Ament 5+ pa,2,0.7115,0.5958,1.68,1.76,1.52,-0.0951,1.001,1.50-1.65
-MIL @ MIA,Andrew Wiggins 1+ 3pm + Nate Ament 5+ pa,2,0.6986,0.5854,1.71,1.79,1.55,-0.0953,1.001,1.50-1.65
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Andrew Wiggins 10+ pra,3,0.6682,0.5182,1.93,2.03,1.71,-0.1122,1.001,1.65-1.85
-MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Andrew Wiggins 1+ 3pm,3,0.6051,0.4852,2.06,2.16,1.82,-0.117,1.002,1.65-1.85
+MIL @ MIA,Kel'el Ware 5+ pa + Andrew Wiggins 1+ 3pm,2,0.7389,0.6041,1.66,1.74,1.5,-0.0927,0.999,1.50-1.65
+MIL @ MIA,Myles Turner 4+ reb + Andrew Wiggins 1+ 3pm,2,0.6946,0.5816,1.72,1.81,1.55,-0.096,1.0,1.50-1.65
+MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Andrew Wiggins 10+ pra,3,0.6682,0.5212,1.92,2.01,1.7,-0.1133,1.001,1.65-1.85
 MIL @ MIA,MIA win + Kel'el Ware 4+ reb + Andrew Wiggins 1+ 3pm,3,0.6184,0.5059,1.98,2.08,1.74,-0.1178,1.006,1.65-1.85
-PHI @ ORL,PHI win + VJ Edgecombe 15+ pr,2,0.4032,0.4172,2.4,2.52,2.41,0.0033,1.034,2.10-2.50
-PHI @ ORL,PHI win + VJ Edgecombe 1+ 3pm,2,0.4063,0.4267,2.34,2.46,2.3,-0.0194,1.013,2.10-2.50
-PHI @ ORL,PHI win + Kentavious Caldwell-Pope 5+ pr,2,0.4336,0.4536,2.2,2.32,2.16,-0.0212,1.011,2.10-2.50
+MIL @ MIA,MIA win + Kel'el Ware 10+ pr + Andrew Wiggins 1+ 3pm,3,0.6051,0.4881,2.05,2.15,1.81,-0.118,1.002,1.65-1.85
+PHI @ ORL,PHI win + VJ Edgecombe 1+ 3pm,2,0.4063,0.4443,2.25,2.36,2.19,-0.0271,1.013,2.10-2.50
+PHI @ ORL,PHI win + Joel Embiid 4+ reb,2,0.4382,0.482,2.07,2.18,1.99,-0.0417,0.999,1.85-2.10
 PHI @ ORL,PHI win + Wendell Carter Jr. 10+ pr,2,0.4294,0.475,2.11,2.21,2.0,-0.0513,0.99,1.85-2.10
-PHI @ ORL,VJ Edgecombe 17+ pa + Kentavious Caldwell-Pope 5+ pr,2,0.6074,0.4553,2.2,2.31,2.05,-0.0682,1.009,1.85-2.10
-PHI @ ORL,LeBron James 17+ pts + Kentavious Caldwell-Pope 5+ pr,2,0.5986,0.4509,2.22,2.33,2.06,-0.0702,1.004,1.85-2.10
-PHI @ ORL,Anthony Black ra under 9.5 + Joel Embiid 4+ reb,2,0.6123,0.4974,2.01,2.11,1.83,-0.0885,0.999,1.65-1.85
+PHI @ ORL,ORL win + Jalen Suggs 10+ pa,2,0.4635,0.3815,2.62,2.75,2.47,-0.0577,1.032,2.10-2.50
+PHI @ ORL,Joel Embiid 4+ ast + Jalen Suggs 10+ pa,2,0.5338,0.3896,2.57,2.7,2.41,-0.0612,1.004,2.10-2.50
+PHI @ ORL,Joel Embiid 4+ ast + Wendell Carter Jr. 10+ pr,2,0.5966,0.4471,2.24,2.35,2.07,-0.0726,0.997,1.85-2.10
+PHI @ ORL,Anthony Black ra under 9.5 + Joel Embiid 4+ reb,2,0.6123,0.4988,2.0,2.11,1.83,-0.089,0.999,1.65-1.85
+PHI @ ORL,Desmond Bane 3pm under 3.5 + VJ Edgecombe 1+ 3pm,2,0.6191,0.5063,1.98,2.07,1.8,-0.0897,1.002,1.65-1.85
+PHI @ ORL,Desmond Bane 3pm under 3.5 + Wendell Carter Jr. 10+ pr,2,0.6691,0.5536,1.81,1.9,1.64,-0.0922,1.001,1.50-1.65
 PHI @ ORL,Anthony Black ra under 9.5 + Wendell Carter Jr. 10+ pr,2,0.6027,0.4939,2.02,2.13,1.83,-0.0939,0.995,1.65-1.85
-PHI @ ORL,Franz Wagner ra under 13.5 + Joel Embiid 4+ reb,2,0.5976,0.4954,2.02,2.12,1.83,-0.0952,0.996,1.65-1.85
-PHI @ ORL,VJ Edgecombe 15+ pr + Jalen Suggs 10+ pa,2,0.7055,0.5993,1.67,1.75,1.5,-0.0982,1.001,1.50-1.65
-PHI @ ORL,VJ Edgecombe 15+ pr + Joel Embiid 6+ reb,2,0.686,0.5864,1.71,1.79,1.54,-0.0987,1.001,1.50-1.65
-PHI @ ORL,VJ Edgecombe 15+ pr + Kentavious Caldwell-Pope 5+ pr + Anfernee Simons 1+ 3pm,3,0.7277,0.5609,1.78,1.87,1.54,-0.1358,1.007,1.50-1.65
 CHI @ BKN,BKN win + Noah Clowney 5+ pr,2,0.542,0.5054,1.98,2.08,1.94,-0.0189,1.003,1.85-2.10
 CHI @ BKN,BKN win + Jalen Smith 4+ reb,2,0.5357,0.522,1.92,2.01,1.86,-0.0284,1.002,1.85-2.10
 CHI @ BKN,BKN win + Matas Buzelis 10+ pa,2,0.512,0.4959,2.02,2.12,1.93,-0.0452,0.983,1.85-2.10
@@ -58,16 +57,18 @@ CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 10+ pts,2,0.6805,0.532,1.88,
 CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 10+ pa,2,0.7226,0.5665,1.77,1.85,1.62,-0.0851,0.997,1.50-1.65
 CHI @ BKN,Isaac Okoro 3pm under 1.5 + Matas Buzelis 15+ pr,2,0.6671,0.5232,1.91,2.01,1.75,-0.0851,0.997,1.65-1.85
 CHI @ BKN,Tre Jones pa under 16.5 + Jalen Smith 4+ reb,2,0.6041,0.494,2.02,2.13,1.84,-0.0902,1.001,1.65-1.85
-WAS @ TOR,TOR win + AJ Dybantsa 4+ reb,2,0.5781,0.529,1.89,1.98,1.93,0.0189,1.004,1.85-2.10
-WAS @ TOR,TOR win + Anthony Davis 6+ reb,2,0.6472,0.5999,1.67,1.75,1.69,0.011,0.998,1.65-1.85
-WAS @ TOR,TOR win + Kyshawn George 10+ pr,2,0.6681,0.6113,1.64,1.72,1.65,0.0107,0.996,1.65-1.85
-WAS @ TOR,TOR win + Bilal Coulibaly 5+ pr,2,0.6326,0.5909,1.69,1.78,1.7,0.0052,0.994,1.65-1.85
-WAS @ TOR,TOR win + Kyshawn George 10+ pa,2,0.6574,0.6099,1.64,1.72,1.65,0.0043,0.992,1.50-1.65
-WAS @ TOR,TOR win + Kyshawn George 10+ pts,2,0.5617,0.5204,1.92,2.02,1.9,-0.0099,0.978,1.85-2.10
-WAS @ TOR,game over 227.5 + Kyshawn George 10+ pts,2,0.4346,0.4084,2.45,2.57,2.36,-0.0371,1.051,2.10-2.50
-WAS @ TOR,TOR win + AJ Dybantsa 4+ reb + Kyshawn George 10+ pr,3,0.5485,0.473,2.11,2.22,2.03,-0.0394,1.001,1.85-2.10
-WAS @ TOR,TOR win + AJ Dybantsa 4+ reb + Kyshawn George 15+ pra,3,0.5161,0.4519,2.21,2.32,2.1,-0.049,0.994,2.10-2.50
-WAS @ TOR,game over 227.5 + Kyshawn George 15+ pra,2,0.4734,0.4461,2.24,2.35,2.12,-0.0528,1.034,2.10-2.50
+WAS @ TOR,TOR win + Collin Murray-Boyles 10+ pts,2,0.6382,0.5505,1.82,1.91,1.9,0.0451,1.017,1.85-2.10
+WAS @ TOR,TOR win + Ja'Kobe Walter 10+ pts,2,0.603,0.5337,1.87,1.97,1.95,0.042,1.02,1.85-2.10
+WAS @ TOR,TOR win + AJ Dybantsa 4+ reb,2,0.5781,0.5286,1.89,1.99,1.93,0.019,1.004,1.85-2.10
+WAS @ TOR,TOR win + Ja'Kobe Walter 10+ pr,2,0.6762,0.6222,1.61,1.69,1.64,0.0181,1.004,1.50-1.65
+WAS @ TOR,TOR win + Collin Murray-Boyles 10+ pts + Ja'Kobe Walter 10+ pts,3,0.5478,0.4307,2.32,2.44,2.36,0.018,1.042,2.10-2.50
+WAS @ TOR,TOR win + Ja'Kobe Walter 1+ 3pm,2,0.6585,0.6154,1.63,1.71,1.65,0.0133,1.002,1.50-1.65
+WAS @ TOR,TOR win + Kyshawn George 10+ pr,2,0.6681,0.611,1.64,1.72,1.65,0.0108,0.996,1.65-1.85
+WAS @ TOR,TOR win + Anthony Davis 6+ reb,2,0.6472,0.6004,1.67,1.75,1.68,0.0108,0.998,1.65-1.85
+WAS @ TOR,TOR win + Kyshawn George 10+ pa,2,0.6574,0.6094,1.64,1.72,1.65,0.0045,0.992,1.50-1.65
+WAS @ TOR,TOR win + Kyshawn George 15+ pra,2,0.628,0.5826,1.72,1.8,1.72,-0.0002,0.988,1.65-1.85
+WAS @ TOR,TOR win + Collin Murray-Boyles 10+ pts + AJ Dybantsa 4+ reb,3,0.5236,0.4254,2.35,2.47,2.33,-0.0073,1.023,2.10-2.50
+WAS @ TOR,TOR win + Ja'Kobe Walter 10+ pts + AJ Dybantsa 4+ reb,3,0.496,0.4134,2.42,2.54,2.4,-0.0076,1.027,2.10-2.50
 DET @ NOP,DET win + Derik Queen 4+ reb,2,0.5824,0.5569,1.8,1.89,1.84,0.0245,1.001,1.65-1.85
 DET @ NOP,DET win + Daniss Jenkins 1+ 3pm,2,0.6112,0.6012,1.66,1.75,1.7,0.0237,1.005,1.65-1.85
 DET @ NOP,DET win + Kevin Huerter 1+ 3pm,2,0.6057,0.6005,1.67,1.75,1.7,0.0215,1.005,1.65-1.85
@@ -76,18 +77,18 @@ DET @ NOP,DET win + Derik Queen 4+ reb + Daniss Jenkins 1+ 3pm,3,0.5313,0.4792,2
 DET @ NOP,DET win + Derik Queen 4+ reb + Kevin Huerter 1+ 3pm,3,0.5267,0.4788,2.09,2.19,2.03,-0.0275,1.007,1.85-2.10
 DET @ NOP,DET win + Derik Queen 4+ reb + Yves Missi 1+ blk,3,0.4843,0.4376,2.29,2.4,2.21,-0.033,1.0,2.10-2.50
 DET @ NOP,DET win + Derik Queen 10+ pr + Yves Missi 1+ blk,3,0.5129,0.4577,2.18,2.29,2.1,-0.037,0.993,2.10-2.50
-DET @ NOP,Jeremiah Fears ast under 6.5 + Derik Queen 10+ pr,2,0.63,0.4206,2.38,2.5,2.25,-0.0529,0.995,2.10-2.50
+DET @ NOP,Yves Missi reb under 8.5 + Derik Queen 10+ pr,2,0.6527,0.4452,2.25,2.36,2.13,-0.0536,1.0,2.10-2.50
 ATL @ OKC,game over 228.5 + Onyeka Okongwu 6+ reb,2,0.4046,0.3933,2.54,2.67,2.43,-0.044,1.037,2.10-2.50
-ATL @ OKC,game over 228.5 + Shai Gilgeous-Alexander 4+ ast,2,0.3954,0.396,2.53,2.65,2.39,-0.0546,1.032,2.10-2.50
-ATL @ OKC,Ajay Mitchell pra under 25.5 + Onyeka Okongwu 15+ pra,2,0.6493,0.4493,2.23,2.34,2.1,-0.0558,1.0,2.10-2.50
-ATL @ OKC,Ajay Mitchell pr under 22.5 + Onyeka Okongwu 15+ pra,2,0.6899,0.4819,2.08,2.18,1.96,-0.057,1.001,1.85-2.10
-ATL @ OKC,Ajay Mitchell pts under 18.5 + Onyeka Okongwu 15+ pra,2,0.6798,0.4775,2.09,2.2,1.97,-0.0585,1.001,1.85-2.10
-ATL @ OKC,game over 228.5 + Onyeka Okongwu 15+ pra,2,0.468,0.4501,2.22,2.33,2.09,-0.0585,1.019,1.85-2.10
-ATL @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.6008,0.5383,1.86,1.95,1.74,-0.0653,1.017,1.65-1.85
+ATL @ OKC,game over 228.5 + Dyson Daniels 4+ ast,2,0.412,0.4122,2.43,2.55,2.31,-0.0473,1.039,2.10-2.50
+ATL @ OKC,ATL +6.5 + Dyson Daniels 4+ ast,2,0.357,0.4095,2.44,2.56,2.31,-0.0535,1.032,2.10-2.50
+ATL @ OKC,Ajay Mitchell pr under 22.5 + Onyeka Okongwu 15+ pra,2,0.6899,0.4811,2.08,2.18,1.96,-0.0567,1.001,1.85-2.10
+ATL @ OKC,game over 228.5 + Onyeka Okongwu 15+ pra,2,0.468,0.4493,2.23,2.34,2.1,-0.0582,1.019,1.85-2.10
+ATL @ OKC,Ajay Mitchell pts under 18.5 + Onyeka Okongwu 15+ pra,2,0.6798,0.4825,2.07,2.18,1.95,-0.0609,1.001,1.85-2.10
 ATL @ OKC,OKC win + Alex Caruso 5+ pr,2,0.6814,0.5899,1.7,1.78,1.57,-0.0711,1.003,1.50-1.65
 ATL @ OKC,Kenrich Williams 3pm under 1.5 + Alex Caruso 5+ pr,2,0.6966,0.5186,1.93,2.02,1.79,-0.0723,1.0,1.65-1.85
-ATL @ OKC,Kenrich Williams 3pm under 1.5 + Onyeka Okongwu 15+ pra,2,0.7251,0.5364,1.86,1.96,1.73,-0.0727,0.998,1.65-1.85
-ATL @ OKC,OKC win + Onyeka Okongwu 15+ pra,2,0.7058,0.6072,1.65,1.73,1.52,-0.076,0.997,1.50-1.65
+ATL @ OKC,Kenrich Williams 3pm under 1.5 + Onyeka Okongwu 15+ pra,2,0.7251,0.5355,1.87,1.96,1.73,-0.0724,0.998,1.65-1.85
+ATL @ OKC,OKC win + Onyeka Okongwu 6+ reb,2,0.6014,0.5229,1.91,2.01,1.77,-0.0753,1.0,1.65-1.85
+ATL @ OKC,OKC win + Onyeka Okongwu 15+ pra,2,0.7058,0.6062,1.65,1.73,1.52,-0.0757,0.997,1.50-1.65
 ATL @ OKC,OKC win + Jalen Johnson 6+ reb,2,0.6513,0.5812,1.72,1.81,1.58,-0.0797,1.0,1.50-1.65
 BOS @ DEN,Sam Hauser 3pm under 2.5 + Neemias Queta blk under 1.5,2,0.6427,0.4047,2.47,2.59,2.38,-0.037,1.001,2.10-2.50
 BOS @ DEN,Sam Hauser 3pm under 2.5 + Christian Braun 10+ pr,2,0.7279,0.5375,1.86,1.95,1.73,-0.0719,0.998,1.65-1.85
@@ -101,17 +102,17 @@ BOS @ DEN,Sam Hauser 3pm under 2.5 + Jamal Murray 15+ pr,2,0.7684,0.5789,1.73,1.
 BOS @ DEN,Payton Pritchard pa under 18.5 + Christian Braun 10+ pr,2,0.5669,0.4271,2.34,2.46,2.16,-0.076,0.998,2.10-2.50
 BOS @ DEN,Payton Pritchard pa under 18.5 + Nikola Jokic 30+ pra,2,0.598,0.4542,2.2,2.31,2.03,-0.0773,0.998,1.85-2.10
 BOS @ DEN,Payton Pritchard pa under 18.5 + Jayson Tatum 4+ reb,2,0.5952,0.4579,2.18,2.29,2.01,-0.0794,0.999,1.85-2.10
-GSW @ DAL,Zaccharie Risacher 10+ pr + De'Anthony Melton 10+ pr,2,0.5259,0.3754,2.66,2.8,2.5,-0.0628,1.002,2.10-2.50
-GSW @ DAL,Zaccharie Risacher 6+ pts + De'Anthony Melton 10+ pr,2,0.5606,0.4101,2.44,2.56,2.28,-0.0651,1.003,2.10-2.50
-GSW @ DAL,De'Anthony Melton 15+ pr + Brandin Podziemski 20+ pra,2,0.5388,0.416,2.4,2.52,2.25,-0.0656,1.015,2.10-2.50
-GSW @ DAL,DAL win + P.J. Washington 10+ pr,2,0.5243,0.6008,1.66,1.75,1.55,-0.0683,1.006,1.50-1.65
-GSW @ DAL,DAL win + De'Anthony Melton 10+ pr,2,0.472,0.494,2.02,2.13,1.88,-0.0704,0.986,1.85-2.10
-GSW @ DAL,DAL win + De'Anthony Melton 10+ pra,2,0.5132,0.5591,1.79,1.88,1.66,-0.0711,0.993,1.65-1.85
-GSW @ DAL,Caleb Martin ast under 2.5 + De'Anthony Melton 10+ pr,2,0.6117,0.4475,2.23,2.35,2.07,-0.0716,0.998,1.85-2.10
-GSW @ DAL,DAL win + Yaxel Lendeborg 4+ reb,2,0.5095,0.5762,1.74,1.82,1.61,-0.075,0.997,1.50-1.65
-GSW @ DAL,Zaccharie Risacher 6+ pts + De'Anthony Melton 10+ pra,2,0.6028,0.459,2.18,2.29,2.01,-0.076,1.0,1.85-2.10
-GSW @ DAL,DAL win + Brandin Podziemski 15+ pra,2,0.5329,0.5992,1.67,1.75,1.54,-0.0765,0.994,1.50-1.65
-GSW @ DAL,Caleb Martin ast under 2.5 + Brandin Podziemski 15+ pra,2,0.6868,0.5398,1.85,1.95,1.7,-0.0828,1.001,1.65-1.85
+GSW @ DAL,DAL win + Zaccharie Risacher 5+ pr,2,0.5094,0.5454,1.83,1.93,1.73,-0.0569,1.005,1.65-1.85
+GSW @ DAL,De'Anthony Melton 15+ pr + Brandin Podziemski 20+ pra,2,0.5388,0.4152,2.41,2.53,2.26,-0.0631,1.015,2.10-2.50
+GSW @ DAL,Zaccharie Risacher 10+ pr + De'Anthony Melton 10+ pr,2,0.5259,0.3781,2.64,2.78,2.47,-0.0644,1.002,2.10-2.50
+GSW @ DAL,De'Anthony Melton 15+ pr + Zaccharie Risacher 5+ pr,2,0.5574,0.4127,2.42,2.54,2.26,-0.067,1.003,2.10-2.50
+GSW @ DAL,DAL win + P.J. Washington 10+ pr,2,0.5243,0.5985,1.67,1.75,1.56,-0.0676,1.006,1.50-1.65
+GSW @ DAL,DAL win + Brandin Podziemski 4+ reb,2,0.4339,0.4946,2.02,2.12,1.88,-0.0693,1.004,1.85-2.10
+GSW @ DAL,DAL win + De'Anthony Melton 10+ pr,2,0.472,0.4956,2.02,2.12,1.87,-0.071,0.986,1.85-2.10
+GSW @ DAL,DAL win + De'Anthony Melton 10+ pra,2,0.5132,0.5624,1.78,1.87,1.65,-0.0722,0.993,1.50-1.65
+GSW @ DAL,Caleb Martin ast under 2.5 + De'Anthony Melton 10+ pr,2,0.6117,0.4489,2.23,2.34,2.07,-0.0722,0.998,1.85-2.10
+GSW @ DAL,DAL win + Yaxel Lendeborg 4+ reb,2,0.5095,0.5783,1.73,1.82,1.6,-0.0756,0.997,1.50-1.65
+GSW @ DAL,Caleb Martin ast under 2.5 + De'Anthony Melton 10+ pra,2,0.6606,0.506,1.98,2.08,1.82,-0.0796,0.999,1.65-1.85
 GSW @ DAL,Caleb Martin ast under 2.5 + Brandin Podziemski 10+ pts,2,0.6434,0.507,1.97,2.07,1.81,-0.0846,0.999,1.65-1.85
 UTA @ LAL,LAL win + Keyonte George pra under 33.5,2,0.5735,0.4222,2.37,2.49,2.3,-0.0273,1.028,2.10-2.50
 UTA @ LAL,Quentin Grimes pr under 19.5 + LAL win,2,0.6243,0.4107,2.43,2.56,2.34,-0.0388,0.989,2.10-2.50
@@ -127,13 +128,13 @@ UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Brice Sensabaugh 1+ 3pm,3,0.6876,0.
 UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Walker Kessler 6+ reb,3,0.7162,0.5425,1.84,1.94,1.63,-0.1174,1.005,1.50-1.65
 PHX @ SAC,PHX win + Jalen Green 15+ pra,2,0.546,0.5372,1.86,1.95,1.75,-0.0585,1.023,1.65-1.85
 PHX @ SAC,Collin Gillespie 3pm under 2.5 + Darius Acuff Jr. 4+ ast,2,0.6321,0.4573,2.19,2.3,2.06,-0.0602,1.005,1.85-2.10
-PHX @ SAC,SAC +6.5 + Darius Acuff Jr. 4+ ast,2,0.47,0.4304,2.32,2.44,2.18,-0.0609,1.015,2.10-2.50
 PHX @ SAC,Collin Gillespie 3pm under 2.5 + Precious Achiuwa 4+ reb,2,0.5752,0.4045,2.47,2.6,2.32,-0.0615,0.998,2.10-2.50
-PHX @ SAC,Collin Gillespie 3pm under 2.5 + Dillon Brooks 1+ 3pm,2,0.6112,0.4254,2.35,2.47,2.2,-0.0634,0.994,2.10-2.50
+PHX @ SAC,Collin Gillespie 3pm under 2.5 + Dillon Brooks 1+ 3pm,2,0.6112,0.4234,2.36,2.48,2.21,-0.0626,0.994,2.10-2.50
+PHX @ SAC,PHX win + Dillon Brooks 1+ 3pm,2,0.5784,0.5537,1.81,1.9,1.69,-0.0658,1.009,1.65-1.85
 PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 1+ 3pm,2,0.6214,0.4526,2.21,2.32,2.06,-0.0665,0.999,1.85-2.10
-PHX @ SAC,PHX win + Dillon Brooks 1+ 3pm,2,0.5784,0.5564,1.8,1.89,1.68,-0.0667,1.009,1.65-1.85
+PHX @ SAC,Collin Gillespie 3pm under 2.5 + Jalen Green 15+ pra,2,0.5697,0.4056,2.47,2.59,2.3,-0.0669,0.994,2.10-2.50
 PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 20+ pra,2,0.6721,0.4928,2.03,2.13,1.89,-0.0675,1.0,1.85-2.10
 PHX @ SAC,PHX win + Devin Booker 1+ 3pm,2,0.5857,0.5895,1.7,1.78,1.57,-0.0737,1.011,1.50-1.65
 PHX @ SAC,PHX win + Oso Ighodaro 10+ pra,2,0.5652,0.5634,1.78,1.86,1.64,-0.0769,1.005,1.50-1.65
-PHX @ SAC,PHX win + Miles Bridges 1+ 3pm,2,0.5399,0.548,1.82,1.92,1.68,-0.0785,1.007,1.65-1.85
+PHX @ SAC,PHX win + Precious Achiuwa 4+ reb,2,0.5362,0.5211,1.92,2.02,1.77,-0.0789,0.998,1.65-1.85
 PHX @ SAC,PHX win + Darius Acuff Jr. 4+ ast,2,0.579,0.5788,1.73,1.81,1.57,-0.0936,0.988,1.50-1.65
