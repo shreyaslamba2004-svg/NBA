@@ -22,16 +22,16 @@ HOU @ IND,HOU -7.5 + Jabari Smith Jr. 1+ 3pm,2,0.3609,0.4364,2.29,2.41,2.07,-0.0
 HOU @ IND,Jabari Smith Jr. 2+ ast + Kevin Durant 1+ 3pm,2,0.5012,0.4489,2.23,2.34,2.0,-0.1014,1.0,1.85-2.10
 MIL @ MIA,Brayden Burries pts under 11.5 + MIA win,2,0.5151,0.4309,2.32,2.44,2.25,-0.0286,1.031,2.10-2.50
 MIL @ MIA,game over 235.5 + Kyle Kuzma 15+ pra,2,0.3742,0.3961,2.52,2.65,2.45,-0.0295,1.044,2.10-2.50
-MIL @ MIA,Andrew Wiggins 10+ pts + MIA win,2,0.5332,0.4375,2.29,2.4,2.2,-0.036,1.017,2.10-2.50
+MIL @ MIA,Bam Adebayo 30+ pra + MIA win,2,0.5224,0.4491,2.23,2.34,2.15,-0.035,1.025,2.10-2.50
 MIL @ MIA,Andrew Wiggins 13+ pr + MIA win,2,0.567,0.4614,2.17,2.28,2.08,-0.0386,1.014,1.85-2.10
 MIL @ MIA,MIA win + Bam Adebayo 12+ ra,2,0.5332,0.4532,2.21,2.32,2.08,-0.0557,1.005,1.85-2.10
-MIL @ MIA,game over 235.5 + Bam Adebayo 20+ pra,2,0.4039,0.4498,2.22,2.33,2.09,-0.0582,1.024,1.85-2.10
-MIL @ MIA,Jaime Jaquez Jr. 9+ ra + Bam Adebayo 20+ pra,2,0.6408,0.5013,1.99,2.09,1.84,-0.0784,1.003,1.65-1.85
+MIL @ MIA,game over 235.5 + Bam Adebayo 20+ pra,2,0.4039,0.4494,2.23,2.34,2.1,-0.058,1.024,1.85-2.10
+MIL @ MIA,Jaime Jaquez Jr. 9+ ra + Bam Adebayo 20+ pra,2,0.6408,0.5009,2.0,2.1,1.84,-0.0782,1.003,1.65-1.85
 MIL @ MIA,Jaime Jaquez Jr. 9+ ra + Myles Turner 5+ pa,2,0.6589,0.5112,1.96,2.05,1.8,-0.0789,1.001,1.65-1.85
 MIL @ MIA,Jaime Jaquez Jr. 4+ ast + Myles Turner 5+ pa,2,0.6198,0.4998,2.0,2.1,1.84,-0.0827,1.002,1.65-1.85
-MIL @ MIA,Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 10+ pts,2,0.7062,0.5972,1.67,1.76,1.51,-0.0964,1.002,1.50-1.65
-MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bam Adebayo 20+ pra,3,0.6517,0.5687,1.76,1.85,1.55,-0.1189,1.012,1.50-1.65
-MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 15+ pra,3,0.653,0.5572,1.79,1.88,1.57,-0.1244,1.001,1.50-1.65
+MIL @ MIA,Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 10+ pts,2,0.7062,0.5974,1.67,1.76,1.51,-0.0966,1.002,1.50-1.65
+MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bam Adebayo 20+ pra,3,0.6517,0.5685,1.76,1.85,1.55,-0.1188,1.012,1.50-1.65
+MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Jaime Jaquez Jr. 15+ pra,3,0.653,0.5538,1.81,1.9,1.58,-0.1234,1.001,1.50-1.65
 PHI @ ORL,PHI win + VJ Edgecombe 15+ pr,2,0.409,0.4147,2.41,2.53,2.37,-0.019,1.04,2.10-2.50
 PHI @ ORL,PHI -1.5 + VJ Edgecombe 15+ pr,2,0.3831,0.3922,2.55,2.68,2.47,-0.0298,1.041,2.10-2.50
 PHI @ ORL,PHI win + VJ Edgecombe 1+ 3pm,2,0.4239,0.4242,2.36,2.48,2.26,-0.0415,1.014,2.10-2.50
@@ -124,15 +124,15 @@ UTA @ LAL,Keyonte George ast under 7.5 + Luka Doncic 2+ 3pm,2,0.6363,0.5234,1.91
 UTA @ LAL,Darryn Peterson pa under 22.5 + Luka Doncic 2+ 3pm,2,0.5463,0.4525,2.21,2.32,2.01,-0.0922,1.002,1.85-2.10
 UTA @ LAL,LAL win + Luka Doncic 1+ stl + Ace Bailey 1+ 3pm,3,0.6382,0.4763,2.1,2.2,1.84,-0.1222,0.993,1.65-1.85
 UTA @ LAL,LAL win + Ace Bailey 1+ 3pm + Luka Doncic 3+ 3pm,3,0.6643,0.5386,1.86,1.95,1.61,-0.1328,0.998,1.50-1.65
-PHX @ SAC,game over 227.5 + Jalen Green 15+ pra,2,0.4993,0.4,2.5,2.63,2.39,-0.0428,1.04,2.10-2.50
-PHX @ SAC,game over 227.5 + Devin Booker 4+ ast,2,0.5037,0.3886,2.57,2.7,2.45,-0.0482,1.026,2.10-2.50
-PHX @ SAC,game over 227.5 + Oso Ighodaro 10+ pra,2,0.5199,0.4154,2.41,2.53,2.27,-0.056,1.025,2.10-2.50
-PHX @ SAC,PHX win + Devin Booker 4+ ast,2,0.5656,0.5318,1.88,1.97,1.77,-0.0609,1.016,1.65-1.85
-PHX @ SAC,PHX win + Jalen Green 15+ pra,2,0.557,0.5437,1.84,1.93,1.73,-0.0619,1.023,1.65-1.85
-PHX @ SAC,Collin Gillespie 3pm under 2.5 + Darius Acuff Jr. 4+ ast,2,0.6354,0.459,2.18,2.29,2.04,-0.0647,1.0,1.85-2.10
-PHX @ SAC,game over 227.5 + Darius Acuff Jr. 20+ pra,2,0.5764,0.4664,2.14,2.25,2.0,-0.0665,1.016,1.85-2.10
-PHX @ SAC,PHX win + Dillon Brooks 1+ 3pm,2,0.5915,0.5566,1.8,1.89,1.68,-0.0672,1.01,1.65-1.85
-PHX @ SAC,Collin Gillespie 3pm under 2.5 + Darius Acuff Jr. 20+ pra,2,0.6703,0.4926,2.03,2.13,1.89,-0.0673,1.0,1.85-2.10
-PHX @ SAC,PHX win + Oso Ighodaro 10+ pra,2,0.5819,0.5665,1.77,1.85,1.64,-0.0717,1.012,1.50-1.65
-PHX @ SAC,PHX win + Devin Booker 1+ 3pm,2,0.5965,0.5872,1.7,1.79,1.57,-0.0795,1.005,1.50-1.65
-PHX @ SAC,PHX win + Darius Acuff Jr. 4+ ast,2,0.6028,0.5843,1.71,1.8,1.55,-0.0926,0.988,1.50-1.65
+PHX @ SAC,game over 227.5 + Jalen Green 15+ pra,2,0.5148,0.3995,2.5,2.63,2.39,-0.0439,1.038,2.10-2.50
+PHX @ SAC,game over 227.5 + Devin Booker 4+ ast,2,0.5176,0.3881,2.58,2.71,2.45,-0.0495,1.025,2.10-2.50
+PHX @ SAC,game over 227.5 + Precious Achiuwa 10+ pr,2,0.5336,0.4053,2.47,2.59,2.34,-0.0527,1.024,2.10-2.50
+PHX @ SAC,PHX win + Devin Booker 4+ ast,2,0.5523,0.5319,1.88,1.97,1.77,-0.0606,1.016,1.65-1.85
+PHX @ SAC,PHX win + Jalen Green 15+ pra,2,0.546,0.5443,1.84,1.93,1.73,-0.0609,1.023,1.65-1.85
+PHX @ SAC,Collin Gillespie 3pm under 2.5 + Darius Acuff Jr. 4+ ast,2,0.6321,0.4605,2.17,2.28,2.04,-0.0615,1.005,1.85-2.10
+PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 1+ 3pm,2,0.6214,0.4535,2.2,2.32,2.06,-0.0669,0.999,1.85-2.10
+PHX @ SAC,PHX win + Dillon Brooks 1+ 3pm,2,0.5784,0.5568,1.8,1.89,1.68,-0.0669,1.009,1.65-1.85
+PHX @ SAC,Collin Gillespie 3pm under 2.5 + Jalen Green 10+ pra,2,0.6751,0.4904,2.04,2.14,1.9,-0.0673,0.998,1.85-2.10
+PHX @ SAC,PHX win + Devin Booker 1+ 3pm,2,0.5857,0.5907,1.69,1.78,1.57,-0.074,1.011,1.50-1.65
+PHX @ SAC,PHX win + Oso Ighodaro 10+ pra,2,0.5652,0.5634,1.78,1.86,1.64,-0.0769,1.005,1.50-1.65
+PHX @ SAC,PHX win + Darius Acuff Jr. 4+ ast,2,0.579,0.5829,1.72,1.8,1.55,-0.0949,0.988,1.50-1.65
