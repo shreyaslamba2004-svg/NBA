@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Jalen Brunson 1+ 3pm,2,0.5524,0.4612,2.17,2.28,2.12,-0.0219,1.0,2.10-2.50
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Jamal Shead 5+ pa,2,0.5767,0.4801,2.08,2.19,2.04,-0.0219,1.0,1.85-2.10
+NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Jalen Brunson 1+ 3pm,2,0.5524,0.4607,2.17,2.28,2.12,-0.0216,1.0,2.10-2.50
 NYK @ TOR,Ja'Kobe Walter pts under 10.5 + OG Anunoby 10+ pts,2,0.5222,0.4335,2.31,2.42,2.25,-0.0234,0.997,2.10-2.50
+NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Karl-Anthony Towns 1+ 3pm,2,0.4914,0.4187,2.39,2.51,2.33,-0.0235,1.002,2.10-2.50
 NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Landry Shamet 5+ pra,2,0.5705,0.48,2.08,2.19,2.03,-0.0238,1.0,1.85-2.10
-NYK @ TOR,Ja'Kobe Walter pts under 10.5 + OG Anunoby 10+ pa,2,0.555,0.4642,2.15,2.26,2.1,-0.0239,0.998,2.10-2.50
 NYK @ TOR,Ja'Kobe Walter pts under 10.5 + Collin Murray-Boyles 5+ pa,2,0.5764,0.4874,2.05,2.15,1.99,-0.0278,0.996,1.85-2.10
+NYK @ TOR,Scottie Barnes pts under 20.5 + Landry Shamet 5+ pra,2,0.5868,0.4605,2.17,2.28,2.04,-0.059,0.999,1.85-2.10
 NYK @ TOR,Jamal Shead 6+ pts + Collin Murray-Boyles 5+ pa,2,0.6291,0.5082,1.97,2.07,1.84,-0.0654,1.001,1.65-1.85
 NYK @ TOR,Miles McBride 3pm under 1.5 + Collin Murray-Boyles 5+ pa,2,0.6929,0.5089,1.96,2.06,1.83,-0.0706,0.997,1.65-1.85
-NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jalen Brunson 1+ 3pm,2,0.7024,0.5251,1.9,2.0,1.77,-0.0732,0.999,1.65-1.85
-POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 8+ reb,2,0.4929,0.4162,2.4,2.52,2.3,-0.0414,1.007,2.10-2.50
-POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 15+ pra,2,0.539,0.454,2.2,2.31,2.11,-0.043,1.005,2.10-2.50
-POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 4+ reb,2,0.471,0.4062,2.46,2.58,2.35,-0.0447,1.007,2.10-2.50
-POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 10+ pa,2,0.5533,0.4751,2.1,2.21,2.0,-0.0488,1.002,1.85-2.10
-POR @ MIN,Scoot Henderson 11+ pts + LaMelo Ball 10+ pts,2,0.5377,0.4616,2.17,2.27,2.06,-0.0488,1.002,1.85-2.10
-POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 5+ pa,2,0.5572,0.4765,2.1,2.2,1.99,-0.0495,1.001,1.85-2.10
-POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 8+ reb,2,0.6918,0.507,1.97,2.07,1.84,-0.0671,1.001,1.65-1.85
-POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 15+ pra,2,0.7561,0.5527,1.81,1.9,1.68,-0.0692,0.999,1.65-1.85
-POR @ MIN,MIN win + Jaden McDaniels 10+ pa,2,0.5869,0.5094,1.96,2.06,1.83,-0.0699,1.007,1.65-1.85
-POR @ MIN,Bones Hyland 3pm under 2.5 + Jaden McDaniels 10+ pa,2,0.7788,0.5804,1.72,1.81,1.6,-0.0717,1.0,1.50-1.65
-POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 5+ pa,2,0.7848,0.5825,1.72,1.8,1.59,-0.0718,0.999,1.50-1.65
-POR @ MIN,Bones Hyland 3pm under 2.5 + LaMelo Ball 10+ pts,2,0.7553,0.5628,1.78,1.87,1.65,-0.0736,0.998,1.50-1.65
+NYK @ TOR,Ja'Kobe Walter 3pm under 2.5 + Jalen Brunson 1+ 3pm,2,0.7024,0.5245,1.91,2.0,1.77,-0.0729,0.999,1.65-1.85
+POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 4+ reb,2,0.5362,0.415,2.41,2.53,2.35,-0.024,1.005,2.10-2.50
+POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 15+ pra,2,0.6102,0.463,2.16,2.27,2.11,-0.024,1.001,2.10-2.50
+POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 8+ reb,2,0.56,0.4236,2.36,2.48,2.3,-0.0244,1.0,2.10-2.50
+POR @ MIN,Scoot Henderson 11+ pts + LaMelo Ball 10+ pts,2,0.6115,0.4725,2.12,2.22,2.06,-0.0264,1.002,1.85-2.10
+POR @ MIN,Scoot Henderson 11+ pts + Jaden McDaniels 10+ pa,2,0.6275,0.4854,2.06,2.16,2.0,-0.028,1.001,1.85-2.10
+POR @ MIN,Scoot Henderson 11+ pts + Rudy Gobert 5+ pa,2,0.6326,0.4869,2.05,2.16,1.99,-0.0289,0.999,1.85-2.10
+POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 15+ pra,2,0.7703,0.555,1.8,1.89,1.68,-0.0654,0.999,1.65-1.85
+POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 8+ reb,2,0.7067,0.5076,1.97,2.07,1.84,-0.066,0.998,1.65-1.85
+POR @ MIN,Bones Hyland 3pm under 2.5 + Rudy Gobert 5+ pa,2,0.801,0.5854,1.71,1.79,1.59,-0.0672,1.0,1.50-1.65
+POR @ MIN,Bones Hyland 3pm under 2.5 + LaMelo Ball 2+ 3pm,2,0.7235,0.5279,1.89,1.99,1.77,-0.0681,0.999,1.65-1.85
+POR @ MIN,Bones Hyland 3pm under 2.5 + Jaden McDaniels 10+ pa,2,0.7924,0.5822,1.72,1.8,1.6,-0.0688,0.999,1.50-1.65
+POR @ MIN,Bones Hyland 3pm under 2.5 + LaMelo Ball 10+ pts,2,0.7699,0.5649,1.77,1.86,1.65,-0.0702,0.998,1.50-1.65
 DET @ SAS,Stephon Castle 16+ pts + SAS win,2,0.3582,0.4138,2.42,2.54,2.47,0.02,1.064,2.10-2.50
 DET @ SAS,Kevin Huerter pts under 12.5 + SAS win,2,0.3854,0.4156,2.41,2.53,2.45,0.0197,1.063,2.10-2.50
 DET @ SAS,Keldon Johnson 9+ pts + SAS win,2,0.3924,0.4283,2.33,2.45,2.35,0.0063,1.046,2.10-2.50
@@ -37,8 +37,8 @@ CHA @ LAL,Sandro Mamukelashvili ra under 8.5 + LAL win,2,0.4324,0.3936,2.54,2.67
 CHA @ LAL,CHA +7.5 + Brandon Miller 10+ pts,2,0.5318,0.4465,2.24,2.35,2.11,-0.056,1.02,2.10-2.50
 CHA @ LAL,Sandro Mamukelashvili pr under 19.5 + Matisse Thybulle 5+ pra,2,0.6911,0.4873,2.05,2.15,1.93,-0.0605,0.999,1.85-2.10
 CHA @ LAL,LAL win + Matisse Thybulle 5+ pa,2,0.5552,0.5852,1.71,1.79,1.61,-0.0605,1.019,1.50-1.65
+CHA @ LAL,Sandro Mamukelashvili pr under 19.5 + Ryan Kalkbrenner 5+ pr,2,0.6312,0.4471,2.24,2.35,2.1,-0.0613,0.999,1.85-2.10
 CHA @ LAL,Sandro Mamukelashvili pra under 21.5 + Matisse Thybulle 5+ pra,2,0.6834,0.4828,2.07,2.17,1.94,-0.0619,0.998,1.85-2.10
-CHA @ LAL,CHA +7.5 + Brandon Miller 15+ pra,2,0.5364,0.4509,2.22,2.33,2.08,-0.062,1.014,1.85-2.10
 CHA @ LAL,LAL win + Jake LaRavia 5+ pa,2,0.5756,0.6187,1.62,1.7,1.5,-0.069,1.013,1.50-1.65
 CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + Matisse Thybulle 5+ pra,2,0.6912,0.5084,1.97,2.07,1.83,-0.0699,0.999,1.65-1.85
 CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + Grayson Allen 10+ pra,2,0.6837,0.5126,1.95,2.05,1.8,-0.075,0.998,1.65-1.85
