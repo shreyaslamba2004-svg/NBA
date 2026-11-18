@@ -27,9 +27,9 @@ DET @ SAS,Julian Champagnie 3pm under 2.5 + SAS win,2,0.5345,0.4844,2.06,2.17,1.
 DET @ SAS,Julian Champagnie 3pm under 2.5 + Paul Reed 4+ reb,2,0.7675,0.5534,1.81,1.9,1.69,-0.0659,0.999,1.65-1.85
 DET @ SAS,Julian Champagnie 3pm under 2.5 + Ausar Thompson 10+ pa,2,0.7115,0.5131,1.95,2.05,1.82,-0.0676,0.998,1.65-1.85
 DET @ SAS,Julian Champagnie 3pm under 2.5 + Daniss Jenkins 15+ pra,2,0.7525,0.5549,1.8,1.89,1.68,-0.0697,1.0,1.65-1.85
-DET @ SAS,Julian Champagnie 3pm under 2.5 + Kevin Huerter 10+ pra,2,0.7823,0.5806,1.72,1.81,1.6,-0.0713,0.999,1.50-1.65
 DET @ SAS,Julian Champagnie 3pm under 2.5 + Stephon Castle 10+ pr,2,0.7807,0.577,1.73,1.82,1.61,-0.0715,0.998,1.50-1.65
 DET @ SAS,Javonte Green 3pm under 1.5 + Paul Reed 4+ reb,2,0.7244,0.5581,1.79,1.88,1.65,-0.0804,0.999,1.50-1.65
+DET @ SAS,Javonte Green 3pm under 1.5 + Stephon Castle 10+ pr,2,0.7379,0.5827,1.72,1.8,1.57,-0.0846,1.0,1.50-1.65
 CHA @ LAL,LAL win + Coby White pr under 17.5,2,0.4129,0.3957,2.53,2.65,2.49,-0.0133,1.049,2.10-2.50
 CHA @ LAL,Sandro Mamukelashvili reb under 6.5 + LAL win,2,0.4512,0.4041,2.47,2.6,2.39,-0.033,1.011,2.10-2.50
 CHA @ LAL,Sandro Mamukelashvili ra under 8.5 + LAL win,2,0.4324,0.3936,2.54,2.67,2.43,-0.0425,1.004,2.10-2.50
@@ -45,12 +45,12 @@ CHA @ LAL,LAL win + Matisse Thybulle 1+ stl,2,0.5547,0.5989,1.67,1.75,1.53,-0.08
 UTA @ LAC,LAC -6.5 + Josh Okogie 5+ pr,2,0.6665,0.4169,2.4,2.52,2.24,-0.0681,0.997,2.10-2.50
 UTA @ LAC,LAC -6.5 + Kris Dunn 5+ pra,2,0.6976,0.4543,2.2,2.31,2.05,-0.0703,1.002,1.85-2.10
 UTA @ LAC,LAC -6.5 + Keyonte George 1+ 3pm,2,0.6519,0.417,2.4,2.52,2.22,-0.0733,0.996,2.10-2.50
-UTA @ LAC,LAC -6.5 + Ace Bailey 10+ pr,2,0.6958,0.4473,2.24,2.35,2.07,-0.0735,0.996,1.85-2.10
-UTA @ LAC,LAC -6.5 + Ace Bailey 1+ 3pm,2,0.6355,0.4039,2.48,2.6,2.29,-0.0751,0.992,2.10-2.50
-UTA @ LAC,Darryn Peterson pts under 20.5 + Ace Bailey 10+ pr,2,0.5948,0.4534,2.21,2.32,2.03,-0.0789,0.998,1.85-2.10
+UTA @ LAC,LAC -6.5 + Ace Bailey 10+ pr,2,0.6958,0.4477,2.23,2.35,2.07,-0.0738,0.996,1.85-2.10
+UTA @ LAC,Darius Garland pr under 26.5 + Ace Bailey 1+ 3pm,2,0.548,0.4157,2.41,2.53,2.23,-0.0751,1.001,2.10-2.50
+UTA @ LAC,Darryn Peterson pts under 20.5 + Ace Bailey 10+ pr,2,0.5948,0.4538,2.2,2.31,2.03,-0.0792,0.998,1.85-2.10
 UTA @ LAC,LAC win + Josh Okogie 5+ pr,2,0.7908,0.5639,1.77,1.86,1.63,-0.0793,0.998,1.50-1.65
 UTA @ LAC,LAC win + Keyonte George 1+ 3pm,2,0.774,0.5645,1.77,1.86,1.62,-0.0837,0.997,1.50-1.65
-UTA @ LAC,LAC win + Ace Bailey 10+ pr,2,0.8264,0.6056,1.65,1.73,1.51,-0.0837,0.998,1.50-1.65
-UTA @ LAC,LAC win + Ace Bailey 15+ pra,2,0.7591,0.5499,1.82,1.91,1.66,-0.0867,0.993,1.65-1.85
+UTA @ LAC,LAC win + Ace Bailey 10+ pr,2,0.8264,0.6062,1.65,1.73,1.51,-0.084,0.998,1.50-1.65
+UTA @ LAC,LAC win + Ace Bailey 15+ pra,2,0.7591,0.5483,1.82,1.92,1.67,-0.0862,0.993,1.65-1.85
 UTA @ LAC,LAC win + Brice Sensabaugh 1+ 3pm,2,0.7435,0.5515,1.81,1.9,1.65,-0.0883,0.996,1.65-1.85
 UTA @ LAC,LAC win + Ace Bailey 10+ pts,2,0.7013,0.5031,1.99,2.09,1.81,-0.0896,0.988,1.65-1.85
