@@ -1,5 +1,6 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
 401910005,CHA @ LAL,prop_stl,over,Luka Doncic,1629029.0,3.5,draftkings,930.0,10.3,0.1467,6.82,0.0907,0.0907,0.0559,,0.5105,0.0993,0.0233,0.0006,False,True,False,,,
-401910005,CHA @ LAL,prop_pr,over,Luka Doncic,1629029.0,59.5,draftkings,700.0,8.0,0.1829,5.47,0.1168,0.1168,0.0661,,0.4635,0.127,0.016,0.0006,False,True,False,,,
-401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,4.5,draftkings,980.0,10.8,0.1353,7.39,0.0865,0.0865,0.0487,,0.461,0.094,0.0157,0.0004,False,True,False,,,
+401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,4.5,draftkings,1000.0,11.0,0.1353,7.39,0.085,0.085,0.0503,,0.4881,0.0927,0.0198,0.0005,False,True,False,,,
+401910005,CHA @ LAL,prop_pr,over,Luka Doncic,1629029.0,59.5,draftkings,680.0,7.8,0.1829,5.47,0.1198,0.1198,0.0631,,0.4269,0.1295,0.0104,0.0004,False,True,False,,,
+401910005,CHA @ LAL,prop_stl,over,Matisse Thybulle,1629680.0,3.5,draftkings,438.0,5.38,0.2595,3.85,0.1737,0.1737,0.0858,,0.396,0.1869,0.0056,0.0003,False,True,False,,,
 401910005,CHA @ LAL,prop_stl,over,Luka Doncic,1629029.0,2.5,draftkings,342.0,4.42,0.3114,3.21,0.2114,0.2114,0.1,,0.3766,0.2268,0.0027,0.0002,False,True,False,,,
