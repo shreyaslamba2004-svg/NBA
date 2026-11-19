@@ -1,6 +1,6 @@
 # NBA model · Wed 18 Nov 2026 (US date)
 
-Updated **Thu 19 Nov, 01:54 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-18/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Thu 19 Nov, 01:59 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-18/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -10,9 +10,7 @@ All automatic checks passed (team minutes, player minutes vs recent games, team 
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
-| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
-|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Keegan Murray PR over 14.5 (15+) | PHX @ SAC | draftkings | 2.38 | 2.22 | 2.17 | 46.2% | 44.8% | 45.0% | +7.2% | +9.8% | 1.3% |
+_No bets clear the edge threshold right now._
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
@@ -38,7 +36,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Quentin Grimes PTS under 15.5 | UTA @ LAL | betright | 2.00 | 1.90 | 1.41 | 70.8% | 49.5% | 52.8% | +5.5% | +41.7% | 1.4% |
+| Quentin Grimes PTS under 15.5 | UTA @ LAL | pointsbetau | 2.00 | 1.90 | 1.41 | 70.8% | 49.5% | 52.8% | +5.5% | +41.7% | 1.4% |
 
 ## Projections
 
@@ -114,7 +112,6 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC), Pat Spencer 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Keegan Murray PR over 14.5 (15+) | PHX @ SAC | draftkings | 2.38 | 2.22 | 2.17 | 46.2% | 44.8% | 45.0% | +7.2% | +9.8% | 1.3% |
 | Miles Bridges PTS under 14.5 | PHX @ SAC | draftkings | 1.93 | 1.92 | 1.76 | 56.9% | 51.3% | 52.2% | +0.5% | +9.5% | 0.1% |
 | Keegan Murray PTS over 9.5 (10+) | PHX @ SAC | pointsbetau | 2.05 | 2.05 | 1.89 | 52.8% | 48.1% | 48.8% | +0.1% | +8.2% | 0.0% |
 
