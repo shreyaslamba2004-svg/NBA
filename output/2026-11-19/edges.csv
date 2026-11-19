@@ -1,53 +1,47 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401910020,POR @ MIL,prop_pa,over,Deni Avdija,1630166.0,44.5,draftkings,1440.0,15.4,0.1654,6.05,0.0607,0.0607,0.1047,,1.5466,0.0768,0.1828,0.0032,False,True,False,Deni Avdija,0.0,0.1894
+401910020,POR @ MIL,prop_pa,over,Deni Avdija,1630166.0,44.5,draftkings,1480.0,15.8,0.1654,6.05,0.0592,0.0592,0.1062,,1.6127,0.0755,0.193,0.0033,False,True,False,Deni Avdija,0.0,0.1894
 401910022,LAC @ SAS,prop_pr,over,Victor Wembanyama,1641705.0,59.5,draftkings,1580.0,16.8,0.1313,7.62,0.0556,0.0556,0.0756,,1.2054,0.0673,0.1303,0.0021,False,True,False,,,
-401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,10.5,draftkings,1620.0,17.2,0.1132,8.84,0.0543,0.0543,0.0588,,0.9467,0.0634,0.0905,0.0014,False,False,False,Deni Avdija,0.0,0.1237
 401910022,LAC @ SAS,prop_pr,over,Victor Wembanyama,1641705.0,54.5,draftkings,820.0,9.2,0.2074,4.82,0.1016,0.1016,0.1059,,0.9084,0.1179,0.0846,0.0026,False,True,False,,,
 401910020,POR @ MIL,prop_pa,over,Deni Avdija,1630166.0,39.5,draftkings,600.0,7.0,0.2723,3.67,0.1335,0.1335,0.1388,,0.9059,0.1549,0.0842,0.0035,False,True,False,Deni Avdija,0.0,0.3081
 401910020,POR @ MIL,moneyline,MIL,,,,draftkings,378.0,4.78,0.2551,3.92,0.201,0.2265,0.0286,4.09,0.2194,0.2265,0.0827,0.0055,False,True,True,Deni Avdija,0.3132,0.2304
-401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,9.5,draftkings,970.0,10.7,0.1747,5.72,0.0873,0.0873,0.0874,,0.8696,0.1008,0.0786,0.002,False,True,False,Deni Avdija,0.0,0.1892
+401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,10.5,draftkings,1560.0,16.6,0.1132,8.84,0.0563,0.0563,0.0569,,0.8788,0.0651,0.08,0.0013,False,False,False,Deni Avdija,0.0,0.1237
 401910022,LAC @ SAS,prop_ast,over,Devin Vassell,1630170.0,5.5,draftkings,1240.0,13.4,0.1359,7.36,0.0697,0.0697,0.0661,,0.8209,0.0799,0.0711,0.0014,False,True,False,,,
-401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,1040.0,11.4,0.1529,6.54,0.082,0.082,0.0709,,0.7426,0.0929,0.059,0.0014,False,False,False,Deni Avdija,0.2235,0.1259
+401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,9.5,draftkings,940.0,10.4,0.1747,5.72,0.0899,0.0899,0.0849,,0.8172,0.1029,0.0705,0.0019,False,True,False,Deni Avdija,0.0,0.1892
 401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,11.5,draftkings,2500.0,26.0,0.0663,15.09,0.0359,0.0359,0.0303,,0.7231,0.0406,0.056,0.0006,False,True,False,Deni Avdija,0.0,0.0748
-401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,9.5,draftkings,1660.0,17.6,0.0965,10.37,0.0531,0.0531,0.0434,,0.698,0.0598,0.0521,0.0008,False,True,False,Deni Avdija,0.1484,0.0733
-401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,8.5,draftkings,545.0,6.45,0.2626,3.81,0.1449,0.1449,0.1177,,0.694,0.163,0.0515,0.0024,False,False,False,Deni Avdija,0.0,0.2809
+401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,9.5,draftkings,1680.0,17.8,0.0965,10.37,0.0525,0.0525,0.044,,0.7173,0.0593,0.0551,0.0008,False,True,False,Deni Avdija,0.1484,0.0733
+401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,8.5,draftkings,542.0,6.42,0.2626,3.81,0.1456,0.1456,0.1171,,0.6861,0.1636,0.0503,0.0023,False,False,False,Deni Avdija,0.0,0.2809
 401910022,LAC @ SAS,prop_ast,over,Devin Vassell,1630170.0,4.5,draftkings,564.0,6.64,0.2535,3.95,0.1407,0.1407,0.1127,,0.683,0.1581,0.0498,0.0022,False,False,False,,,
-401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,7.5,draftkings,1560.0,16.6,0.0995,10.05,0.0563,0.0563,0.0432,,0.6513,0.0629,0.0449,0.0007,False,True,False,,,
-401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,586.0,6.86,0.2383,4.2,0.1362,0.1362,0.1021,,0.6349,0.152,0.0424,0.0018,False,True,False,Deni Avdija,0.3264,0.2037
+401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,7.5,draftkings,1580.0,16.8,0.0995,10.05,0.0556,0.0556,0.0438,,0.6712,0.0624,0.048,0.0008,False,True,False,,,
+401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,8.5,draftkings,990.0,10.9,0.1529,6.54,0.0857,0.0857,0.0671,,0.6662,0.0961,0.0472,0.0012,False,False,False,Deni Avdija,0.2235,0.1259
 401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,6.5,draftkings,830.0,9.3,0.1737,5.76,0.1005,0.1005,0.0732,,0.6152,0.1118,0.0394,0.0012,False,False,False,,,
+401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,7.5,draftkings,577.0,6.77,0.2383,4.2,0.138,0.138,0.1003,,0.6135,0.1535,0.0391,0.0017,False,True,False,Deni Avdija,0.3264,0.2037
 401910022,LAC @ SAS,prop_ast,over,Devin Vassell,1630170.0,6.5,draftkings,2300.0,24.0,0.0671,14.91,0.0389,0.0389,0.0281,,0.61,0.0433,0.0386,0.0004,False,False,False,,,
 401910022,LAC @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,18.5,draftkings,1280.0,13.8,0.1161,8.62,0.0677,0.0677,0.0483,,0.6015,0.0752,0.0373,0.0007,False,False,False,,,
 401910020,POR @ MIL,prop_ast,over,Damian Lillard,203081.0,8.5,draftkings,1040.0,11.4,0.1376,7.27,0.082,0.082,0.0557,,0.569,0.0906,0.0323,0.0008,False,False,False,Deni Avdija,0.1812,0.1095
 401910022,LAC @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,19.5,draftkings,1800.0,19.0,0.0822,12.17,0.0492,0.0492,0.033,,0.5609,0.0543,0.031,0.0004,False,True,False,,,
 401910022,LAC @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,17.5,draftkings,880.0,9.8,0.158,6.33,0.0954,0.0954,0.0626,,0.548,0.105,0.0291,0.0008,False,True,False,,,
 401910022,LAC @ SAS,prop_pr,over,Victor Wembanyama,1641705.0,49.5,draftkings,393.0,4.93,0.3139,3.19,0.1896,0.1896,0.1243,,0.5475,0.2087,0.029,0.0018,False,True,False,,,
-401910020,POR @ MIL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,1800.0,19.0,0.0814,12.29,0.0492,0.0492,0.0322,,0.5464,0.0541,0.0288,0.0004,False,True,False,Deni Avdija,0.1106,0.061
-401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,5.5,draftkings,430.0,5.3,0.2884,3.47,0.1763,0.1763,0.1121,,0.5285,0.1936,0.026,0.0015,False,True,False,,,
+401910020,POR @ MIL,prop_ast,over,Damian Lillard,203081.0,9.5,draftkings,1780.0,18.8,0.0814,12.29,0.0497,0.0497,0.0317,,0.5301,0.0546,0.0263,0.0004,False,True,False,Deni Avdija,0.1106,0.061
 401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,10.5,draftkings,2500.0,26.0,0.0583,17.15,0.0359,0.0359,0.0224,,0.5161,0.0394,0.0241,0.0002,False,False,False,Deni Avdija,0.0928,0.0425
+401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,5.5,draftkings,424.0,5.24,0.2884,3.47,0.1784,0.1784,0.11,,0.5112,0.1953,0.0234,0.0014,False,True,False,,,
 401910022,LAC @ SAS,prop_pa,over,Devin Vassell,1630170.0,24.5,draftkings,940.0,10.4,0.145,6.9,0.0899,0.0899,0.0552,,0.5083,0.0984,0.0229,0.0006,False,True,False,,,
+401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,7.5,draftkings,303.0,4.03,0.3722,2.69,0.2319,0.2319,0.1403,,0.4999,0.2535,0.0216,0.0018,False,True,False,Deni Avdija,0.0,0.396
 401910022,LAC @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,16.5,draftkings,600.0,7.0,0.2139,4.68,0.1335,0.1335,0.0804,,0.4972,0.1459,0.0212,0.0009,False,False,False,,,
 401910022,LAC @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,6.5,draftkings,1000.0,11.0,0.1353,7.39,0.085,0.085,0.0504,,0.4887,0.0927,0.0199,0.0005,False,True,False,,,
-401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,7.5,draftkings,300.0,4.0,0.3722,2.69,0.2336,0.2336,0.1385,,0.4887,0.255,0.0199,0.0017,False,True,False,Deni Avdija,0.0,0.396
 401910020,POR @ MIL,moneyline,MIL,,,,pointsbetau,350.0,4.5,0.2551,3.92,0.2133,0.2265,0.0286,4.2,0.148,0.2265,0.0193,0.0014,False,True,True,Deni Avdija,0.3132,0.2304
 401910020,POR @ MIL,prop_ast,over,Jrue Holiday,201950.0,6.5,draftkings,321.0,4.21,0.3506,2.85,0.222,0.222,0.1286,,0.476,0.2418,0.018,0.0014,False,False,False,Deni Avdija,0.4525,0.3175
-401910021,NYK @ MIN,prop_pra,over,Jalen Brunson,1628973.0,54.5,draftkings,1720.0,18.2,0.0802,12.48,0.0514,0.0514,0.0288,,0.4588,0.0558,0.0153,0.0002,False,True,False,,,
 401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,8.5,draftkings,2600.0,27.0,0.0538,18.57,0.0346,0.0346,0.0192,,0.4537,0.0376,0.0145,0.0001,False,False,False,,,
 401910020,POR @ MIL,prop_ast,over,Damian Lillard,203081.0,7.5,draftkings,577.0,6.77,0.2146,4.66,0.138,0.138,0.0765,,0.4525,0.1498,0.0143,0.0006,False,True,False,Deni Avdija,0.2744,0.1812
 401910022,LAC @ SAS,prop_ast,over,Victor Wembanyama,1641705.0,6.5,draftkings,1060.0,11.6,0.1245,8.03,0.0806,0.0806,0.044,,0.4445,0.0873,0.0131,0.0003,False,False,False,,,
-401910020,POR @ MIL,spread,MIL,,,10.5,draftkings,-103.0,1.97,0.5364,1.86,0.4848,0.5134,0.0229,4.66,0.0571,0.5134,0.0119,0.0031,False,True,True,Deni Avdija,0.6056,0.5114
-401910020,POR @ MIL,prop_pts,over,Scoot Henderson,1630703.0,19.5,draftkings,610.0,7.1,0.2001,5.0,0.1316,0.1316,0.0685,,0.421,0.1422,0.0095,0.0004,False,True,False,Deni Avdija,0.3376,0.1634
 401910022,LAC @ SAS,prop_ast,over,Devin Vassell,1630170.0,3.5,draftkings,236.0,3.36,0.4228,2.36,0.2781,0.2781,0.1447,,0.4208,0.3004,0.0095,0.001,False,True,False,,,
+401910020,POR @ MIL,prop_pa,over,Deni Avdija,1630166.0,34.5,draftkings,236.0,3.36,0.4216,2.37,0.2781,0.2781,0.1435,,0.4167,0.3002,0.0088,0.0009,False,True,False,Deni Avdija,0.0,0.468
+401910020,POR @ MIL,prop_pts,over,Ryan Rollins,1631157.0,19.5,draftkings,640.0,7.4,0.1912,5.23,0.1263,0.1263,0.0649,,0.4148,0.1363,0.0085,0.0003,False,True,False,,,
 401910022,LAC @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,5.5,draftkings,504.0,6.04,0.2342,4.27,0.1547,0.1547,0.0795,,0.4148,0.167,0.0085,0.0004,False,True,False,,,
 401910022,LAC @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,15.5,draftkings,412.0,5.12,0.276,3.62,0.1825,0.1825,0.0935,,0.4133,0.1969,0.0083,0.0005,False,True,False,,,
-401910021,NYK @ MIN,prop_pra,over,Jalen Brunson,1628973.0,49.5,draftkings,880.0,9.8,0.1435,6.97,0.0954,0.0954,0.0481,,0.4059,0.1028,0.0072,0.0002,False,True,False,,,
 401910022,LAC @ SAS,prop_ast,over,Victor Wembanyama,1641705.0,5.5,draftkings,529.0,6.29,0.2232,4.48,0.1486,0.1486,0.0746,,0.4041,0.1601,0.0069,0.0003,False,True,False,,,
-401910020,POR @ MIL,prop_ast,over,Toumani Camara,1641739.0,3.5,draftkings,690.0,7.9,0.1772,5.64,0.1183,0.1183,0.0589,,0.3997,0.1274,0.0062,0.0002,False,True,False,Toumani Camara,0.0,0.2246
-401910020,POR @ MIL,prop_ast,over,Toumani Camara,1641739.0,4.5,draftkings,1660.0,17.6,0.0789,12.67,0.0531,0.0531,0.0258,,0.3888,0.0571,0.0045,0.0001,False,False,False,Toumani Camara,0.0,0.1038
-401910020,POR @ MIL,prop_pa,over,Deni Avdija,1630166.0,34.5,draftkings,229.0,3.29,0.4216,2.37,0.2841,0.2841,0.1376,,0.3872,0.3053,0.0043,0.0005,False,True,False,Deni Avdija,0.0,0.468
+401910020,POR @ MIL,prop_pts,over,Scoot Henderson,1630703.0,19.5,draftkings,600.0,7.0,0.2001,5.0,0.1335,0.1335,0.0666,,0.401,0.1438,0.0064,0.0003,False,True,False,Deni Avdija,0.3376,0.1634
 401910022,LAC @ SAS,prop_fg3m,under,Julian Champagnie,1630577.0,2.5,draftkings,103.0,2.03,0.6822,1.47,0.4604,0.4604,0.2218,,0.3848,0.4945,0.0039,0.001,True,True,True,,,
 401910022,LAC @ SAS,prop_reb,over,Devin Vassell,1630170.0,6.5,draftkings,640.0,7.4,0.1866,5.36,0.1263,0.1263,0.0603,,0.3807,0.1356,0.0033,0.0001,False,False,False,,,
-401910020,POR @ MIL,prop_pts,over,Scoot Henderson,1630703.0,17.5,draftkings,398.0,4.98,0.2769,3.61,0.1877,0.1877,0.0892,,0.3789,0.2014,0.003,0.0002,False,False,False,Deni Avdija,0.4341,0.2378
-401910020,POR @ MIL,prop_pts,over,Scoot Henderson,1630703.0,24.5,draftkings,1620.0,17.2,0.08,12.5,0.0543,0.0543,0.0257,,0.3759,0.0583,0.0025,0.0,False,True,False,Deni Avdija,0.1628,0.0576
 401910022,LAC @ SAS,prop_pa,over,Devin Vassell,1630170.0,19.5,draftkings,297.0,3.97,0.3457,2.89,0.2354,0.2354,0.1103,,0.3723,0.2524,0.002,0.0002,False,True,False,,,
-401910020,POR @ MIL,prop_ast,over,Scoot Henderson,1630703.0,5.5,draftkings,1040.0,11.4,0.12,8.33,0.082,0.082,0.038,,0.3679,0.0878,0.0013,0.0,False,True,False,Deni Avdija,0.1944,0.0907
 401910020,POR @ MIL,moneyline,MIL,,,,betfair_ex_au,342.0,4.42,0.2551,3.92,0.22,0.2265,0.0286,2.83,0.1275,0.2265,0.0011,0.0001,False,True,True,Deni Avdija,0.3132,0.2304
+401910021,NYK @ MIN,prop_pa,over,Jalen Brunson,1628973.0,54.5,draftkings,2600.0,27.0,0.0506,19.78,0.0346,0.0346,0.0159,,0.3651,0.0371,0.0009,0.0,False,True,False,,,
