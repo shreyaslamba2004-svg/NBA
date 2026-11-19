@@ -1,49 +1,49 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ MEM,MEM win + Cameron Boozer 5+ ast,2,0.3753,0.3917,2.55,2.68,2.49,-0.0227,1.046,2.10-2.50
-GSW @ MEM,game over 226.5 + Cedric Coward 10+ pts,2,0.5718,0.4072,2.46,2.58,2.35,-0.043,1.031,2.10-2.50
-GSW @ MEM,game over 226.5 + Jerami Grant 10+ pra,2,0.5599,0.3978,2.51,2.64,2.4,-0.0454,1.028,2.10-2.50
-GSW @ MEM,MEM win + Cedric Coward 10+ pts,2,0.4958,0.5344,1.87,1.96,1.78,-0.05,1.025,1.65-1.85
-GSW @ MEM,MEM win + Jerami Grant 10+ pra,2,0.4833,0.5197,1.92,2.02,1.82,-0.0566,1.017,1.65-1.85
-GSW @ MEM,MEM win + Jaylen Wells 10+ pra,2,0.5144,0.555,1.8,1.89,1.7,-0.0578,1.017,1.65-1.85
-GSW @ MEM,game over 226.5 + Jerami Grant 5+ pa,2,0.636,0.4641,2.15,2.26,2.01,-0.0694,1.007,1.85-2.10
-GSW @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.5002,0.5705,1.75,1.84,1.63,-0.0704,1.014,1.50-1.65
-GSW @ MEM,game over 226.5 + Jerami Grant 5+ pr,2,0.6408,0.4683,2.14,2.24,1.98,-0.0711,1.006,1.85-2.10
-GSW @ MEM,game over 226.5 + Yaxel Lendeborg 15+ pr,2,0.6372,0.4766,2.1,2.2,1.95,-0.0724,1.009,1.85-2.10
-GSW @ MEM,MEM win + Jerami Grant 5+ pa,2,0.5535,0.6114,1.64,1.72,1.52,-0.0726,1.006,1.50-1.65
-GSW @ MEM,MEM win + Jerami Grant 5+ pr,2,0.5574,0.6167,1.62,1.7,1.5,-0.0748,1.003,1.50-1.65
-POR @ MIL,Tyler Herro pts under 19.5 + POR win,2,0.4735,0.4076,2.45,2.58,2.42,-0.0125,1.046,2.10-2.50
-POR @ MIL,Tyler Herro pa under 23.5 + POR win,2,0.4594,0.4053,2.47,2.59,2.43,-0.0134,1.051,2.10-2.50
+GSW @ MEM,MEM win + Yaxel Lendeborg ast under 4.5,2,0.3937,0.3928,2.55,2.67,2.48,-0.0261,1.034,2.10-2.50
+GSW @ MEM,game over 226.5 + Cedric Coward 20+ pra,2,0.5581,0.4065,2.46,2.58,2.36,-0.0393,1.04,2.10-2.50
+GSW @ MEM,game over 226.5 + Jaylen Wells 10+ pra,2,0.5962,0.4224,2.37,2.49,2.26,-0.0451,1.027,2.10-2.50
+GSW @ MEM,MEM win + Cedric Coward 20+ pra,2,0.4796,0.5287,1.89,1.99,1.79,-0.0549,1.024,1.65-1.85
+GSW @ MEM,MEM win + Jaylen Wells 10+ pra,2,0.5144,0.5516,1.81,1.9,1.71,-0.0566,1.017,1.65-1.85
+GSW @ MEM,MEM win + Jerami Grant 10+ pra,2,0.4833,0.5214,1.92,2.01,1.81,-0.0572,1.017,1.65-1.85
+GSW @ MEM,game over 226.5 + Jerami Grant 5+ pa,2,0.636,0.4627,2.16,2.27,2.01,-0.0688,1.007,1.85-2.10
+GSW @ MEM,game over 226.5 + Jerami Grant 5+ pr,2,0.6408,0.469,2.13,2.24,1.98,-0.0713,1.006,1.85-2.10
+GSW @ MEM,MEM win + Jerami Grant 5+ pa,2,0.5535,0.6096,1.64,1.72,1.52,-0.072,1.006,1.50-1.65
+GSW @ MEM,Jaylen Wells 10+ pts + Jerami Grant 5+ pa,2,0.6092,0.463,2.16,2.27,2.0,-0.072,1.001,1.85-2.10
+GSW @ MEM,MEM win + Yaxel Lendeborg 4+ reb,2,0.5183,0.5905,1.69,1.78,1.56,-0.0802,1.003,1.50-1.65
+GSW @ MEM,Jerami Grant 10+ pra + Cedric Coward 20+ pra,2,0.673,0.5777,1.73,1.82,1.56,-0.0966,1.005,1.50-1.65
+POR @ MIL,Tyler Herro pts under 20.5 + POR win,2,0.5033,0.4347,2.3,2.42,2.26,-0.0174,1.042,2.10-2.50
 POR @ MIL,Jrue Holiday 19+ pa + POR win,2,0.4992,0.4088,2.45,2.57,2.4,-0.0184,1.032,2.10-2.50
-POR @ MIL,Jrue Holiday 23+ pra + Sidy Cissoko 5+ pa,2,0.657,0.4563,2.19,2.3,2.07,-0.0541,1.008,1.85-2.10
-POR @ MIL,MIL +10.5 + Myles Turner 5+ pa,2,0.5378,0.4661,2.15,2.25,2.02,-0.0574,1.011,1.85-2.10
-POR @ MIL,Jrue Holiday 14+ pts + Sidy Cissoko 5+ pa,2,0.6302,0.4519,2.21,2.32,2.08,-0.0594,1.008,1.85-2.10
+POR @ MIL,Tyler Herro pr under 24.5 + POR win,2,0.4936,0.4339,2.3,2.42,2.25,-0.0227,1.04,2.10-2.50
+POR @ MIL,Jrue Holiday 23+ pra + Sidy Cissoko 5+ pa,2,0.657,0.4548,2.2,2.31,2.08,-0.0534,1.008,1.85-2.10
+POR @ MIL,MIL +10.5 + Myles Turner 5+ pa,2,0.5378,0.467,2.14,2.25,2.02,-0.0577,1.011,1.85-2.10
+POR @ MIL,Jrue Holiday 14+ pts + Sidy Cissoko 5+ pa,2,0.6302,0.4504,2.22,2.33,2.09,-0.0587,1.008,1.85-2.10
 POR @ MIL,POR win + Scoot Henderson 1+ 3pm,2,0.6032,0.6076,1.65,1.73,1.52,-0.0788,1.01,1.50-1.65
-POR @ MIL,POR win + Myles Turner 10+ pr,2,0.5857,0.5927,1.69,1.77,1.52,-0.1018,0.985,1.50-1.65
-POR @ MIL,POR win + Sidy Cissoko 5+ pa + Scoot Henderson 1+ 3pm,3,0.5754,0.527,1.9,1.99,1.67,-0.1178,1.016,1.65-1.85
+POR @ MIL,POR win + Sidy Cissoko 5+ pa + Scoot Henderson 1+ 3pm,3,0.5754,0.5253,1.9,2.0,1.68,-0.1171,1.016,1.65-1.85
 POR @ MIL,POR win + Jrue Holiday 1+ 3pm + Scoot Henderson 1+ 3pm,3,0.5682,0.5361,1.87,1.96,1.63,-0.1267,1.012,1.50-1.65
-POR @ MIL,POR win + Sidy Cissoko 5+ pa + Myles Turner 10+ pr,3,0.5588,0.5143,1.94,2.04,1.67,-0.1394,0.992,1.65-1.85
-POR @ MIL,POR win + Scoot Henderson 1+ 3pm + Myles Turner 10+ pra,3,0.5313,0.5131,1.95,2.05,1.68,-0.1403,1.0,1.65-1.85
-NYK @ MIN,NYK win + Jalen Brunson 20+ pr,2,0.5422,0.4376,2.29,2.4,2.19,-0.0395,1.027,2.10-2.50
-NYK @ MIN,NYK -1.5 + Jalen Brunson 20+ pr,2,0.5165,0.4215,2.37,2.49,2.27,-0.0424,1.027,2.10-2.50
-NYK @ MIN,NYK win + OG Anunoby 15+ pra,2,0.5546,0.4478,2.23,2.34,2.12,-0.049,1.017,2.10-2.50
-NYK @ MIN,NYK win + Josh Hart 5+ pa,2,0.5977,0.474,2.11,2.22,1.99,-0.0552,1.007,1.85-2.10
+POR @ MIL,POR win + Scoot Henderson 1+ 3pm + Myles Turner 5+ pa,3,0.565,0.5435,1.84,1.93,1.59,-0.1368,1.004,1.50-1.65
+POR @ MIL,POR win + Sidy Cissoko 5+ pa + Myles Turner 10+ pr,3,0.5588,0.5195,1.92,2.02,1.65,-0.141,0.992,1.65-1.85
+POR @ MIL,POR win + Scoot Henderson 1+ 3pm + Myles Turner 10+ pra,3,0.5313,0.5167,1.94,2.03,1.66,-0.1414,1.0,1.65-1.85
+NYK @ MIN,NYK win + OG Anunoby 15+ pra,2,0.5546,0.4465,2.24,2.35,2.13,-0.0485,1.017,2.10-2.50
+NYK @ MIN,NYK -1.5 + OG Anunoby 15+ pra,2,0.5291,0.4308,2.32,2.44,2.21,-0.05,1.019,2.10-2.50
+NYK @ MIN,MIN win + Terrence Shannon Jr. 10+ pr,2,0.322,0.3816,2.62,2.75,2.48,-0.0531,1.032,2.10-2.50
+NYK @ MIN,NYK win + Josh Hart 5+ pa,2,0.5977,0.4733,2.11,2.22,2.0,-0.0549,1.007,1.85-2.10
+NYK @ MIN,NYK win + Jalen Brunson 15+ pr,2,0.5976,0.4815,2.08,2.18,1.96,-0.0556,1.009,1.85-2.10
 NYK @ MIN,NYK win + Karl-Anthony Towns 20+ pr,2,0.5876,0.4716,2.12,2.23,2.0,-0.0566,1.007,1.85-2.10
-NYK @ MIN,NYK win + OG Anunoby 10+ pr,2,0.6014,0.4812,2.08,2.18,1.96,-0.0584,1.005,1.85-2.10
-NYK @ MIN,LaMelo Ball stl under 1.5 + OG Anunoby 10+ pr,2,0.6229,0.5012,2.0,2.09,1.82,-0.0869,1.001,1.65-1.85
+NYK @ MIN,LaMelo Ball stl under 1.5 + OG Anunoby 10+ pr,2,0.6229,0.4998,2.0,2.1,1.83,-0.0863,1.001,1.65-1.85
 NYK @ MIN,Josh Hart 3pm under 1.5 + OG Anunoby 10+ pr,2,0.7153,0.5733,1.74,1.83,1.59,-0.088,0.999,1.50-1.65
-NYK @ MIN,Josh Hart 3pm under 1.5 + LaMelo Ball 10+ pts,2,0.6694,0.5415,1.85,1.94,1.68,-0.0886,1.0,1.65-1.85
-NYK @ MIN,Josh Hart 3pm under 1.5 + LaMelo Ball 15+ pra,2,0.7081,0.5729,1.75,1.83,1.59,-0.0889,1.0,1.50-1.65
-NYK @ MIN,Josh Hart 3pm under 1.5 + Jalen Brunson 15+ pr,2,0.7079,0.5717,1.75,1.84,1.59,-0.089,1.0,1.50-1.65
-NYK @ MIN,LaMelo Ball stl under 1.5 + Jalen Brunson 15+ pr,2,0.6143,0.498,2.01,2.11,1.82,-0.0912,0.998,1.65-1.85
-LAC @ SAS,SAS win + Devin Vassell 15+ pa,2,0.5204,0.4813,2.08,2.18,2.07,-0.0048,1.034,1.85-2.10
-LAC @ SAS,SAS win + Devin Vassell 13+ pts,2,0.4559,0.439,2.28,2.39,2.26,-0.0085,1.038,2.10-2.50
+NYK @ MIN,Josh Hart 3pm under 1.5 + Terrence Shannon Jr. 10+ pra,2,0.6585,0.5296,1.89,1.98,1.72,-0.0885,0.999,1.65-1.85
+NYK @ MIN,Josh Hart 3pm under 1.5 + Jalen Brunson 15+ pr,2,0.7079,0.5714,1.75,1.84,1.59,-0.0889,1.0,1.50-1.65
+NYK @ MIN,LaMelo Ball stl under 1.5 + Jalen Brunson 15+ pr,2,0.6143,0.4964,2.01,2.12,1.83,-0.0905,0.998,1.65-1.85
+NYK @ MIN,Josh Hart 3pm under 1.5 + Karl-Anthony Towns 20+ pr,2,0.6947,0.5586,1.79,1.88,1.63,-0.0916,0.996,1.50-1.65
+LAC @ SAS,Max Strus 3pm under 1.5 + SAS win,2,0.5304,0.4349,2.3,2.41,2.33,0.0115,1.025,2.10-2.50
+LAC @ SAS,SAS win + Devin Vassell 15+ pa,2,0.5204,0.4835,2.07,2.17,2.05,-0.0078,1.034,1.85-2.10
 LAC @ SAS,SAS win + Devin Vassell 19+ pra,2,0.5293,0.4835,2.07,2.17,2.04,-0.0116,1.028,1.85-2.10
-LAC @ SAS,Devin Vassell 3+ ast + SAS win,2,0.5011,0.4484,2.23,2.34,2.2,-0.0117,1.02,2.10-2.50
-LAC @ SAS,SAS win + Devin Vassell 17+ pr,2,0.4761,0.4499,2.22,2.33,2.18,-0.0176,1.031,2.10-2.50
-LAC @ SAS,SAS win + Devin Vassell 2+ 3pm,2,0.5136,0.4941,2.02,2.13,1.97,-0.0275,1.022,1.85-2.10
-LAC @ SAS,SAS win + Derrick Jones Jr. 3pm under 1.5,2,0.5667,0.5352,1.87,1.96,1.81,-0.032,1.016,1.65-1.85
-LAC @ SAS,SAS win + Brook Lopez reb under 5.5,2,0.5339,0.5163,1.94,2.03,1.85,-0.0457,1.007,1.65-1.85
-LAC @ SAS,Derrick Jones Jr. 3pm under 1.5 + Devin Vassell 10+ pr,2,0.6716,0.5167,1.94,2.03,1.78,-0.0817,0.998,1.65-1.85
-LAC @ SAS,Derrick Jones Jr. 3pm under 1.5 + Brook Lopez 5+ pa,2,0.693,0.5549,1.8,1.89,1.65,-0.0868,1.0,1.50-1.65
-LAC @ SAS,SAS win + De'Aaron Fox 10+ pts + Stephon Castle 1+ 3pm,3,0.5657,0.5788,1.73,1.81,1.54,-0.1069,1.021,1.50-1.65
-LAC @ SAS,SAS win + Victor Wembanyama 2+ blk + De'Aaron Fox 15+ pr,3,0.5561,0.5706,1.75,1.84,1.56,-0.1073,1.021,1.50-1.65
+LAC @ SAS,SAS win + Devin Vassell 13+ pts,2,0.4559,0.4364,2.29,2.41,2.26,-0.0144,1.038,2.10-2.50
+LAC @ SAS,SAS win + Devin Vassell 3+ ast,2,0.5011,0.4534,2.21,2.32,2.16,-0.0188,1.02,2.10-2.50
+LAC @ SAS,SAS win + Devin Vassell 2+ 3pm,2,0.5136,0.4934,2.03,2.13,1.97,-0.0288,1.022,1.85-2.10
+LAC @ SAS,SAS win + Derrick Jones Jr. 3pm under 1.5,2,0.5667,0.5341,1.87,1.97,1.81,-0.0317,1.016,1.65-1.85
+LAC @ SAS,Derrick Jones Jr. 3pm under 1.5 + Devin Vassell 10+ pr,2,0.6716,0.5173,1.93,2.03,1.77,-0.0819,0.998,1.65-1.85
+LAC @ SAS,Derrick Jones Jr. 3pm under 1.5 + Brook Lopez 5+ pa,2,0.693,0.5528,1.81,1.9,1.65,-0.0863,1.0,1.65-1.85
+LAC @ SAS,SAS win + Victor Wembanyama 2+ blk + De'Aaron Fox 10+ pts,3,0.5997,0.5937,1.68,1.77,1.51,-0.1034,1.018,1.50-1.65
+LAC @ SAS,SAS win + De'Aaron Fox 10+ pts + Stephon Castle 1+ 3pm,3,0.5657,0.5779,1.73,1.82,1.55,-0.1065,1.021,1.50-1.65
+LAC @ SAS,SAS win + Victor Wembanyama 2+ blk + Stephon Castle 1+ 3pm,3,0.5825,0.5804,1.72,1.81,1.53,-0.1148,1.007,1.50-1.65
