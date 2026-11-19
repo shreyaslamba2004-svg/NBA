@@ -1,22 +1,23 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ NOP,Paul Reed 12+ pts + Derik Queen 10+ pr,2,0.6965,0.4561,2.19,2.3,2.27,0.0338,1.001,2.10-2.50
-DET @ NOP,Paul Reed 12+ pts + Yves Missi 1+ blk,2,0.6515,0.4321,2.31,2.43,2.39,0.0313,1.001,2.10-2.50
-DET @ NOP,Paul Reed 12+ pts + Derik Queen 4+ reb,2,0.6579,0.4359,2.29,2.41,2.37,0.0313,1.001,2.10-2.50
-DET @ NOP,Paul Reed 12+ pts + Herbert Jones 5+ pr,2,0.711,0.4912,2.04,2.14,2.08,0.0233,1.001,1.85-2.10
-DET @ NOP,Daniss Jenkins 18+ pts + Herbert Jones 5+ pr,2,0.5626,0.4675,2.14,2.25,2.08,-0.026,1.001,1.85-2.10
-DET @ NOP,Javonte Green 8+ pts + Derik Queen 10+ pr,2,0.7144,0.4698,2.13,2.24,2.04,-0.0417,1.0,1.85-2.10
-DET @ NOP,DET win + Ausar Thompson 4+ ast,2,0.546,0.52,1.92,2.02,1.81,-0.0571,1.016,1.65-1.85
-DET @ NOP,DET win + Daniss Jenkins 1+ 3pm,2,0.5764,0.5393,1.85,1.95,1.74,-0.0593,1.01,1.65-1.85
-DET @ NOP,DET win + Ausar Thompson 1+ stl,2,0.542,0.5137,1.95,2.04,1.82,-0.0667,1.005,1.65-1.85
-DET @ NOP,DET win + Herbert Jones 5+ pr,2,0.584,0.5622,1.78,1.87,1.64,-0.0797,0.994,1.50-1.65
-DET @ NOP,Derik Queen 10+ pr + Yves Missi 1+ blk + Daniss Jenkins 1+ 3pm,3,0.7181,0.5698,1.76,1.84,1.5,-0.1447,1.003,1.50-1.65
-DET @ NOP,Derik Queen 10+ pr + Yves Missi 1+ blk + Ausar Thompson 4+ ast,3,0.6775,0.5472,1.83,1.92,1.56,-0.146,1.004,1.50-1.65
-ATL @ OKC,Dyson Daniels 11+ pts + Onyeka Okongwu 1+ 3pm,2,0.4726,0.4147,2.41,2.53,2.36,-0.021,1.011,2.10-2.50
-ATL @ OKC,Dyson Daniels 11+ pts + Onyeka Okongwu 15+ pra,2,0.5236,0.4438,2.25,2.37,2.21,-0.0214,1.004,2.10-2.50
-ATL @ OKC,Dyson Daniels 11+ pts + Aday Mara 1+ blk,2,0.4577,0.3927,2.55,2.67,2.49,-0.0236,1.004,2.10-2.50
-ATL @ OKC,Ajay Mitchell pts under 18.5 + Onyeka Okongwu 15+ pra,2,0.704,0.4829,2.07,2.17,1.99,-0.0404,1.0,1.85-2.10
-ATL @ OKC,Ajay Mitchell pts under 18.5 + Luguentz Dort 5+ pa,2,0.6683,0.4645,2.15,2.26,2.06,-0.0421,1.001,1.85-2.10
-ATL @ OKC,Ajay Mitchell pts under 18.5 + Luguentz Dort 5+ pr,2,0.6976,0.4859,2.06,2.16,1.97,-0.0425,1.001,1.85-2.10
+DET @ NOP,Javonte Green 8+ pts + Derik Queen 10+ pr,2,0.6585,0.5182,1.93,2.03,2.05,0.0623,1.002,1.85-2.10
+DET @ NOP,Javonte Green 8+ pts + Derik Queen 4+ reb,2,0.6188,0.4948,2.02,2.12,2.14,0.0594,1.003,2.10-2.50
+DET @ NOP,Javonte Green 8+ pts + Ausar Thompson 4+ ast,2,0.6128,0.4947,2.02,2.12,2.14,0.0591,1.004,2.10-2.50
+DET @ NOP,Javonte Green 8+ pts + Ausar Thompson 6+ reb,2,0.5742,0.4758,2.1,2.21,2.22,0.0585,1.009,2.10-2.50
+DET @ NOP,Javonte Green 8+ pts + Daniss Jenkins 1+ 3pm,2,0.6484,0.5296,1.89,1.98,1.99,0.0526,1.001,1.85-2.10
+DET @ NOP,Javonte Green 8+ pts + Ausar Thompson 1+ stl,2,0.6152,0.5094,1.96,2.06,2.06,0.0517,1.002,1.85-2.10
+DET @ NOP,Yves Missi ra under 10.5 + Ausar Thompson 4+ reb,2,0.6865,0.5107,1.96,2.06,1.82,-0.0723,0.998,1.65-1.85
+DET @ NOP,Derik Queen 10+ pr + Ausar Thompson 4+ ast + Javonte Green 1+ 3pm,3,0.6686,0.526,1.9,2.0,1.62,-0.1452,1.0,1.50-1.65
+DET @ NOP,Derik Queen 10+ pr + Javonte Green 1+ 3pm + Daniss Jenkins 1+ 3pm,3,0.7106,0.5656,1.77,1.86,1.51,-0.1467,1.001,1.50-1.65
+DET @ NOP,Derik Queen 10+ pr + Ausar Thompson 4+ ast + Yves Missi 1+ blk,3,0.6626,0.5281,1.89,1.99,1.61,-0.1474,1.0,1.50-1.65
+DET @ NOP,Derik Queen 10+ pr + Javonte Green 1+ 3pm + Ausar Thompson 6+ reb,3,0.6247,0.5045,1.98,2.08,1.69,-0.1482,1.002,1.65-1.85
+DET @ NOP,Derik Queen 4+ reb + Ausar Thompson 4+ ast + Javonte Green 1+ 3pm,3,0.6275,0.5016,1.99,2.09,1.7,-0.1488,0.999,1.65-1.85
+ATL @ OKC,Dyson Daniels 11+ pts + Onyeka Okongwu 15+ pra,2,0.557,0.4495,2.22,2.34,2.2,-0.0118,1.006,2.10-2.50
+ATL @ OKC,Dyson Daniels 11+ pts + Luguentz Dort 5+ pa,2,0.5323,0.4357,2.3,2.41,2.26,-0.0139,1.007,2.10-2.50
+ATL @ OKC,Dyson Daniels 11+ pts + Onyeka Okongwu 4+ reb,2,0.5497,0.4571,2.19,2.3,2.15,-0.0184,1.005,2.10-2.50
+ATL @ OKC,Dyson Daniels 11+ pts + Luguentz Dort 5+ pra,2,0.5633,0.4675,2.14,2.25,2.1,-0.0198,1.004,1.85-2.10
+ATL @ OKC,Aday Mara pts under 9.5 + Luguentz Dort 5+ pra,2,0.5475,0.4712,2.12,2.23,2.05,-0.0361,1.0,1.85-2.10
+ATL @ OKC,Ajay Mitchell pts under 18.5 + Onyeka Okongwu 15+ pra,2,0.704,0.4839,2.07,2.17,1.98,-0.0411,1.0,1.85-2.10
+ATL @ OKC,Ajay Mitchell pr under 21.5 + Luguentz Dort 5+ pra,2,0.6885,0.5055,1.98,2.08,1.84,-0.0694,0.999,1.65-1.85
 BOS @ DEN,game over 219.5 + Nikola Jokic 35+ pra,2,0.4702,0.433,2.31,2.42,2.28,-0.0116,1.064,2.10-2.50
 BOS @ DEN,game over 219.5 + Christian Braun 10+ pr,2,0.4847,0.4372,2.29,2.4,2.21,-0.035,1.034,2.10-2.50
 BOS @ DEN,game over 219.5 + Nikola Jokic 6+ ast,2,0.4888,0.4375,2.29,2.4,2.2,-0.0392,1.028,2.10-2.50
@@ -27,15 +28,18 @@ BOS @ DEN,BOS win + Nikola Jokic 6+ reb,2,0.5867,0.5098,1.96,2.06,1.8,-0.0814,0.
 BOS @ DEN,BOS win + Jayson Tatum 4+ reb,2,0.5681,0.4983,2.01,2.11,1.84,-0.0839,0.998,1.65-1.85
 BOS @ DEN,Nikola Jokic 20+ ra + Jamal Murray 20+ pra,2,0.6018,0.4959,2.02,2.12,1.85,-0.0849,1.007,1.65-1.85
 BOS @ DEN,Sam Hauser 5+ pr + Christian Braun 10+ pr + Nikola Jokic 35+ pra,3,0.6738,0.5614,1.78,1.87,1.52,-0.1462,1.01,1.50-1.65
-GSW @ DAL,Cooper Flagg pts under 23.5 + Charles Bassey 4+ reb,2,0.5838,0.4397,2.27,2.39,2.23,-0.0183,1.001,2.10-2.50
-GSW @ DAL,Cooper Flagg pts under 23.5 + Draymond Green 10+ pra,2,0.5818,0.4336,2.31,2.42,2.26,-0.0201,0.997,2.10-2.50
-GSW @ DAL,Cooper Flagg pts under 23.5 + Draymond Green 5+ pr,2,0.5944,0.4449,2.25,2.36,2.2,-0.0204,0.997,2.10-2.50
-GSW @ DAL,Cooper Flagg pts under 23.5 + Brandin Podziemski 15+ pra,2,0.599,0.4722,2.12,2.22,2.06,-0.0278,1.0,1.85-2.10
-GSW @ DAL,Zaccharie Risacher 6+ pts + Draymond Green 5+ pr,2,0.6109,0.4607,2.17,2.28,2.07,-0.0478,1.0,1.85-2.10
-GSW @ DAL,Zaccharie Risacher 6+ pts + Charles Bassey 4+ reb,2,0.5974,0.4534,2.21,2.32,2.1,-0.0499,0.999,1.85-2.10
-GSW @ DAL,Draymond Green 5+ pr + De'Anthony Melton 10+ pr + Brandin Podziemski 15+ pa,3,0.7143,0.5706,1.75,1.84,1.5,-0.1436,1.005,1.50-1.65
-GSW @ DAL,Zaccharie Risacher 5+ pr + Draymond Green 4+ ast + Brandin Podziemski 20+ pra,3,0.6786,0.5454,1.83,1.93,1.56,-0.1466,1.003,1.50-1.65
-GSW @ DAL,Zaccharie Risacher 5+ pr + Draymond Green 4+ ast + De'Anthony Melton 10+ pr,3,0.6637,0.5315,1.88,1.98,1.6,-0.147,1.002,1.50-1.65
+GSW @ DAL,Cooper Flagg pts under 23.5 + Draymond Green 5+ pr,2,0.5682,0.4433,2.26,2.37,2.19,-0.0281,0.998,2.10-2.50
+GSW @ DAL,Cooper Flagg pts under 23.5 + Draymond Green 10+ pra,2,0.5567,0.4323,2.31,2.43,2.25,-0.0287,0.997,2.10-2.50
+GSW @ DAL,Cooper Flagg pts under 23.5 + De'Anthony Melton 10+ pr,2,0.5163,0.4081,2.45,2.57,2.38,-0.0301,0.999,2.10-2.50
+GSW @ DAL,Draymond Green 5+ pts + De'Anthony Melton 10+ pra,2,0.6301,0.4714,2.12,2.23,2.03,-0.0408,1.003,1.85-2.10
+GSW @ DAL,Draymond Green 5+ pts + Brandin Podziemski 10+ pts,2,0.6088,0.4575,2.19,2.3,2.09,-0.0434,1.001,1.85-2.10
+GSW @ DAL,Zaccharie Risacher 6+ pts + Draymond Green 5+ pr,2,0.6154,0.4642,2.15,2.26,2.06,-0.0449,1.003,1.85-2.10
+GSW @ DAL,Draymond Green 4+ ast + De'Anthony Melton 10+ pa + Brandin Podziemski 20+ pra,3,0.6433,0.5019,1.99,2.09,1.72,-0.1348,1.011,1.65-1.85
+GSW @ DAL,Draymond Green 5+ pr + Zaccharie Risacher 5+ pr + De'Anthony Melton 10+ pa,3,0.7473,0.5607,1.78,1.87,1.54,-0.1354,1.002,1.50-1.65
+GSW @ DAL,Draymond Green 4+ ast + De'Anthony Melton 10+ pa + Brandin Podziemski 15+ pa,3,0.6477,0.5073,1.97,2.07,1.7,-0.1363,1.01,1.65-1.85
+GSW @ DAL,Zaccharie Risacher 5+ pr + Draymond Green 4+ ast + De'Anthony Melton 10+ pa,3,0.6708,0.5107,1.96,2.06,1.69,-0.1366,1.004,1.65-1.85
+GSW @ DAL,De'Anthony Melton 10+ pr + Zaccharie Risacher 5+ pr + Draymond Green 4+ ast,3,0.6996,0.5309,1.88,1.98,1.63,-0.1367,1.003,1.50-1.65
+GSW @ DAL,Draymond Green 5+ pr + De'Anthony Melton 10+ pa + Brandin Podziemski 20+ pra,3,0.713,0.5482,1.82,1.92,1.57,-0.138,1.004,1.50-1.65
 UTA @ LAL,game over 230.5 + Matisse Thybulle 5+ pa,2,0.4733,0.3958,2.53,2.65,2.45,-0.0317,1.028,2.10-2.50
 UTA @ LAL,LAL win + Keyonte George pra under 32.5,2,0.5391,0.4169,2.4,2.52,2.3,-0.0407,1.029,2.10-2.50
 UTA @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6629,0.4426,2.26,2.37,2.16,-0.044,0.99,2.10-2.50
