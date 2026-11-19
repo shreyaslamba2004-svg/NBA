@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ DEN,Derrick White pts under 13.5 + Nikola Jokic 6+ reb,2,0.5858,0.4838,2.07,2.17,2.03,-0.0192,0.997,1.85-2.10
-BOS @ DEN,Derrick White pts under 13.5 + Nikola Jokic 6+ ast,2,0.547,0.4452,2.25,2.36,2.2,-0.0194,0.994,2.10-2.50
-BOS @ DEN,Derrick White pts under 13.5 + Nikola Jokic 30+ pra,2,0.5697,0.4693,2.13,2.24,2.09,-0.0201,0.996,1.85-2.10
-BOS @ DEN,Derrick White pts under 13.5 + Jamal Murray 15+ pr,2,0.5717,0.4769,2.1,2.2,2.05,-0.0204,0.998,1.85-2.10
-BOS @ DEN,Aaron Gordon 12+ pts + Nikola Jokic 35+ pra,2,0.4045,0.404,2.48,2.6,2.42,-0.0219,1.02,2.10-2.50
-BOS @ DEN,Derrick White pts under 13.5 + Christian Braun 10+ pr,2,0.538,0.4409,2.27,2.38,2.22,-0.0229,0.992,2.10-2.50
-BOS @ DEN,Sam Hauser 3pm under 2.5 + Nikola Jokic 6+ ast,2,0.7384,0.5424,1.84,1.94,1.71,-0.071,0.998,1.65-1.85
-BOS @ DEN,Sam Hauser 3pm under 2.5 + Christian Braun 10+ pr,2,0.7279,0.5384,1.86,1.95,1.72,-0.0723,0.998,1.65-1.85
-BOS @ DEN,Sam Hauser 3pm under 2.5 + Nikola Jokic 30+ pra,2,0.7682,0.5712,1.75,1.84,1.62,-0.0727,0.999,1.50-1.65
-BOS @ DEN,Sam Hauser 3pm under 2.5 + Nikola Jokic 8+ reb,2,0.7116,0.5259,1.9,2.0,1.76,-0.0728,0.997,1.65-1.85
-BOS @ DEN,Baylor Scheierman 3pm under 1.5 + Nikola Jokic 6+ ast,2,0.7624,0.5679,1.76,1.85,1.63,-0.0733,0.999,1.50-1.65
-BOS @ DEN,Baylor Scheierman 3pm under 1.5 + Christian Braun 10+ pr,2,0.7518,0.5638,1.77,1.86,1.64,-0.0743,0.999,1.50-1.65
 UTA @ LAL,Quentin Grimes pts under 15.5 + LAL win,2,0.6179,0.4196,2.38,2.5,2.4,0.007,0.988,2.10-2.50
 UTA @ LAL,Darryn Peterson pts under 18.5 + LAL win,2,0.5314,0.4287,2.33,2.45,2.34,0.0043,1.022,2.10-2.50
 UTA @ LAL,Quentin Grimes pts under 15.5 + Matisse Thybulle 5+ pa,2,0.6086,0.4084,2.45,2.57,2.46,0.0042,0.998,2.10-2.50
