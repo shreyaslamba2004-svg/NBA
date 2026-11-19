@@ -1,6 +1,6 @@
 # NBA model · Wed 18 Nov 2026 (US date)
 
-Updated **Thu 19 Nov, 01:39 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-18/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Thu 19 Nov, 01:44 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-18/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -38,7 +38,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Neemias Queta BLK over 1.5 (2+) | BOS @ DEN | draftkings | 2.72 | 2.19 | 4.51 | 22.2% | 49.9% | 45.7% | +24.2% | -39.7% | 2.0% |
-| Quentin Grimes PTS under 15.5 | UTA @ LAL | pointsbetau | 2.00 | 1.90 | 1.41 | 70.8% | 49.5% | 52.8% | +5.5% | +41.7% | 1.4% |
+| Quentin Grimes PTS under 15.5 | UTA @ LAL | betright | 2.00 | 1.90 | 1.41 | 70.8% | 49.5% | 52.8% | +5.5% | +41.7% | 1.4% |
 
 ## Projections
 

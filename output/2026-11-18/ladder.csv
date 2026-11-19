@@ -2603,15 +2603,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pra,19.5,False,0.3238,,model only,0.3238
 401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pra,20.5,False,0.2757,,model only,0.2757
 401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pra,21.5,False,0.2344,,model only,0.2344
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,9.5,False,0.8232,0.7395,book,0.7524
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,10.5,False,0.7706,0.7021,est,0.7126
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,11.5,False,0.7168,0.6397,est,0.6515
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,12.5,False,0.6551,0.5712,est,0.5841
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,13.5,True,0.5927,0.5051,book,0.5186
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,14.5,False,0.5318,0.4472,book,0.4602
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,15.5,False,0.4707,0.3842,est,0.3975
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,16.5,False,0.4121,0.3296,est,0.3423
-401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,17.5,False,0.3533,0.2771,est,0.2888
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,9.5,False,0.8232,0.7647,est,0.7737
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,10.5,False,0.7706,0.7011,est,0.7118
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,11.5,False,0.7168,0.6385,est,0.6506
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,12.5,False,0.6551,0.57,est,0.5831
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,13.5,True,0.5927,0.5039,book,0.5176
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,14.5,False,0.5318,0.4422,est,0.456
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,15.5,False,0.4707,0.383,est,0.3965
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,16.5,False,0.4121,0.3285,est,0.3414
+401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pr,17.5,False,0.3533,0.2761,est,0.288
 401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pa,6.5,False,0.7765,,model only,0.7765
 401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pa,7.5,False,0.6996,,model only,0.6996
 401910018,PHX @ SAC,SAC,1630173,Precious Achiuwa,pa,8.5,False,0.6233,,model only,0.6233
@@ -2801,15 +2801,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pra,15.5,False,0.2981,,model only,0.2981
 401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pra,16.5,False,0.2521,,model only,0.2521
 401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pra,17.5,False,0.209,,model only,0.209
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,6.5,False,0.7868,0.778,est,0.7794
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,7.5,False,0.7248,0.7144,est,0.716
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,8.5,False,0.659,0.6473,est,0.6491
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,9.5,False,0.5857,0.5731,est,0.575
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,10.5,True,0.5135,0.5006,book,0.5026
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,11.5,False,0.4404,0.4277,est,0.4297
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,12.5,False,0.3758,0.3638,est,0.3656
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,13.5,False,0.3168,0.3057,est,0.3074
-401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,14.5,False,0.2655,0.2555,est,0.257
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,6.5,False,0.7868,0.771,est,0.7735
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,7.5,False,0.7248,0.7061,est,0.709
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,8.5,False,0.659,0.6381,est,0.6413
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,9.5,False,0.5857,0.5633,est,0.5667
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,10.5,True,0.5135,0.4906,book,0.4941
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,11.5,False,0.4404,0.418,est,0.4214
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,12.5,False,0.3758,0.3546,est,0.3578
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,13.5,False,0.3168,0.2973,est,0.3003
+401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pr,14.5,False,0.2655,0.248,est,0.2506
 401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pa,2.5,False,0.8552,,model only,0.8552
 401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pa,3.5,False,0.7665,,model only,0.7665
 401910018,PHX @ SAC,SAC,1642928,Dylan Cardwell,pa,4.5,False,0.6603,,model only,0.6603
@@ -3125,15 +3125,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pra,17.5,False,0.3655,0.2935,est,0.3046
 401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pra,18.5,False,0.3107,0.2453,est,0.2553
 401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pra,19.5,False,0.2607,0.2241,book,0.2297
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,8.5,False,0.8557,0.8059,est,0.8136
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,9.5,False,0.7994,0.7362,est,0.7459
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,10.5,False,0.7357,0.6609,est,0.6724
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,11.5,False,0.6694,0.5864,est,0.5992
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,12.5,True,0.6004,0.5126,book,0.5261
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,13.5,False,0.5308,0.4419,est,0.4556
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,14.5,False,0.4615,0.375,est,0.3883
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,15.5,False,0.3965,0.315,est,0.3276
-401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,16.5,False,0.3387,0.2639,est,0.2755
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,8.5,False,0.8557,0.8035,est,0.8115
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,9.5,False,0.7994,0.7332,est,0.7434
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,10.5,False,0.7357,0.6575,est,0.6695
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,11.5,False,0.6694,0.5827,est,0.5961
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,12.5,True,0.6004,0.5088,book,0.5229
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,13.5,False,0.5308,0.4382,est,0.4524
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,14.5,False,0.4615,0.3714,est,0.3853
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,15.5,False,0.3965,0.3117,est,0.3248
+401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pr,16.5,False,0.3387,0.261,est,0.273
 401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pa,6.5,False,0.8519,0.8197,est,0.8247
 401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pa,7.5,False,0.7869,0.7448,est,0.7512
 401910018,PHX @ SAC,SAC,1631099,Keegan Murray,pa,8.5,False,0.7142,0.6639,est,0.6716
@@ -3719,12 +3719,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pra,22.5,False,0.4434,0.3671,est,0.3788
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pra,23.5,False,0.4002,0.327,est,0.3383
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pra,24.5,False,0.3567,0.2824,book,0.2938
-401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,14.5,False,0.7084,0.6321,book,0.6438
+401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,14.5,False,0.7084,0.6379,book,0.6487
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,15.5,False,0.6551,,model only,0.6551
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,16.5,False,0.6018,,model only,0.6018
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,17.5,False,0.5502,,model only,0.5502
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,18.5,False,0.496,,model only,0.496
-401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,19.5,False,0.4445,0.3723,book,0.3834
+401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,19.5,False,0.4445,0.3679,book,0.3797
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,20.5,False,0.3951,,model only,0.3951
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,21.5,False,0.3496,,model only,0.3496
 401910018,PHX @ SAC,PHX,1630224,Jalen Green,pr,22.5,False,0.3046,,model only,0.3046
