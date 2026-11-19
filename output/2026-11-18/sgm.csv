@@ -1,37 +1,37 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ DEN,game over 219.5 + Jamal Murray 25+ pra,2,0.4611,0.4251,2.35,2.47,2.33,-0.0088,1.067,2.10-2.50
-BOS @ DEN,game over 219.5 + Nikola Jokic 35+ pra,2,0.4702,0.433,2.31,2.42,2.28,-0.0116,1.064,2.10-2.50
-BOS @ DEN,game over 219.5 + Christian Braun 10+ pr,2,0.4847,0.436,2.29,2.41,2.21,-0.0344,1.034,2.10-2.50
-BOS @ DEN,game over 219.5 + Jayson Tatum 4+ reb,2,0.4988,0.4582,2.18,2.29,2.06,-0.0574,1.014,1.85-2.10
+BOS @ DEN,DEN +2.5 + Jamal Murray 25+ pra,2,0.3809,0.4106,2.44,2.56,2.35,-0.0338,1.048,2.10-2.50
+BOS @ DEN,DEN +2.5 + Nikola Jokic 35+ pra,2,0.388,0.4177,2.39,2.51,2.3,-0.0378,1.044,2.10-2.50
+BOS @ DEN,DEN +2.5 + Christian Braun 10+ pr,2,0.4035,0.4243,2.36,2.47,2.24,-0.0515,1.024,2.10-2.50
 BOS @ DEN,Baylor Scheierman 3pm under 1.5 + Nikola Jokic 6+ ast,2,0.7624,0.563,1.78,1.86,1.65,-0.0717,0.999,1.50-1.65
 BOS @ DEN,Baylor Scheierman 3pm under 1.5 + Christian Braun 10+ pr,2,0.7518,0.5579,1.79,1.88,1.66,-0.0722,0.999,1.65-1.85
 BOS @ DEN,Baylor Scheierman 3pm under 1.5 + Nikola Jokic 30+ pra,2,0.7931,0.5964,1.68,1.76,1.55,-0.0745,0.999,1.50-1.65
 BOS @ DEN,Baylor Scheierman 3pm under 1.5 + Nikola Jokic 6+ reb,2,0.8146,0.6142,1.63,1.71,1.51,-0.0748,1.0,1.50-1.65
+BOS @ DEN,DEN +2.5 + Jayson Tatum 4+ reb,2,0.4147,0.4455,2.24,2.36,2.08,-0.0751,1.003,1.85-2.10
 BOS @ DEN,Nikola Jokic 9+ ast + Christian Braun 10+ pr,2,0.5605,0.4439,2.25,2.37,2.08,-0.0751,1.011,1.85-2.10
 BOS @ DEN,Baylor Scheierman 3pm under 1.5 + Jamal Murray 4+ ast,2,0.7292,0.5524,1.81,1.9,1.67,-0.076,0.999,1.65-1.85
-BOS @ DEN,DEN +2.5 + Jayson Tatum 4+ reb,2,0.4147,0.4446,2.25,2.36,2.08,-0.0771,1.003,1.85-2.10
+BOS @ DEN,Nikola Jokic 20+ ra + Christian Braun 10+ pr,2,0.5674,0.4569,2.19,2.3,2.01,-0.0807,1.008,1.85-2.10
 BOS @ DEN,BOS win + Nikola Jokic 6+ reb,2,0.5867,0.5103,1.96,2.06,1.8,-0.0816,0.999,1.65-1.85
-UTA @ LAL,game over 230.5 + Matisse Thybulle 5+ pa,2,0.4733,0.3941,2.54,2.66,2.46,-0.0308,1.028,2.10-2.50
-UTA @ LAL,Keyonte George pra under 33.5 + LAL win,2,0.5735,0.4409,2.27,2.38,2.18,-0.0408,1.028,2.10-2.50
-UTA @ LAL,LAL win + Keyonte George pts under 21.5,2,0.5236,0.4071,2.46,2.58,2.35,-0.0416,1.03,2.10-2.50
-UTA @ LAL,Quentin Grimes pts under 16.5 + Matisse Thybulle 5+ pr,2,0.6978,0.4649,2.15,2.26,2.05,-0.0481,0.999,1.85-2.10
-UTA @ LAL,Quentin Grimes pr under 20.5 + Matisse Thybulle 5+ pr,2,0.6982,0.4662,2.14,2.25,2.04,-0.0489,0.999,1.85-2.10
-UTA @ LAL,Quentin Grimes pr under 20.5 + Walker Kessler 1+ blk,2,0.6754,0.4622,2.16,2.27,2.05,-0.0509,1.002,1.85-2.10
+UTA @ LAL,Keyonte George pra under 33.5 + LAL win,2,0.5735,0.4355,2.3,2.41,2.21,-0.0383,1.028,2.10-2.50
+UTA @ LAL,Keyonte George pa under 29.5 + LAL win,2,0.5687,0.4367,2.29,2.4,2.2,-0.0394,1.029,2.10-2.50
+UTA @ LAL,Quentin Grimes pts under 15.5 + LAL win,2,0.6189,0.4017,2.49,2.61,2.39,-0.0408,0.986,2.10-2.50
+UTA @ LAL,Quentin Grimes pr under 20.5 + Matisse Thybulle 5+ pr,2,0.6982,0.4656,2.15,2.25,2.04,-0.0486,0.999,1.85-2.10
+UTA @ LAL,Quentin Grimes pr under 20.5 + Walker Kessler 1+ blk,2,0.6754,0.4635,2.16,2.27,2.05,-0.0514,1.002,1.85-2.10
+UTA @ LAL,Quentin Grimes pr under 20.5 + Matisse Thybulle 1+ stl,2,0.6782,0.4617,2.17,2.27,2.05,-0.0519,1.0,1.85-2.10
 UTA @ LAL,LAL win + Matisse Thybulle 5+ pa,2,0.7655,0.6152,1.63,1.71,1.51,-0.0701,1.006,1.50-1.65
-UTA @ LAL,LAL win + Matisse Thybulle 1+ 3pm,2,0.7075,0.6092,1.64,1.72,1.5,-0.0838,1.005,1.50-1.65
-UTA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl,2,0.7101,0.5794,1.73,1.81,1.57,-0.0895,1.002,1.50-1.65
-UTA @ LAL,Walker Kessler 2+ blk + Ace Bailey 10+ pr,2,0.6312,0.5173,1.93,2.03,1.76,-0.0919,0.998,1.65-1.85
-UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Luka Doncic 3+ 3pm,3,0.6607,0.4951,2.02,2.12,1.79,-0.1137,1.013,1.65-1.85
-UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Walker Kessler 1+ blk,3,0.6823,0.5105,1.96,2.06,1.72,-0.1196,1.006,1.65-1.85
-PHX @ SAC,PHX -7.5 + Jalen Green 15+ pra,2,0.3777,0.3826,2.61,2.74,2.49,-0.0477,1.032,2.10-2.50
-PHX @ SAC,game over 226.5 + Jalen Green 15+ pra,2,0.5309,0.3987,2.51,2.63,2.37,-0.0568,1.035,2.10-2.50
-PHX @ SAC,PHX win + Jalen Green 15+ pra,2,0.546,0.5446,1.84,1.93,1.73,-0.0576,1.023,1.65-1.85
-PHX @ SAC,PHX win + Devin Booker 4+ ast,2,0.5523,0.5402,1.85,1.94,1.74,-0.0601,1.016,1.65-1.85
+UTA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl,2,0.7101,0.5804,1.72,1.81,1.57,-0.0897,1.002,1.50-1.65
+UTA @ LAL,Matisse Thybulle 5+ pa + Sandro Mamukelashvili 10+ pr,2,0.6948,0.5829,1.72,1.8,1.56,-0.0918,1.005,1.50-1.65
+UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Luka Doncic 3+ 3pm,3,0.6607,0.497,2.01,2.11,1.78,-0.1142,1.013,1.65-1.85
+UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Walker Kessler 1+ blk,3,0.6823,0.512,1.95,2.05,1.72,-0.1201,1.006,1.65-1.85
+UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Brice Sensabaugh 1+ 3pm,3,0.6876,0.5229,1.91,2.01,1.68,-0.1237,1.004,1.65-1.85
+PHX @ SAC,PHX win + Darius Acuff Jr. 3pm under 3.5,2,0.4894,0.432,2.31,2.43,2.23,-0.0352,1.02,2.10-2.50
+PHX @ SAC,PHX -7.5 + Jalen Green 15+ pra,2,0.3777,0.3837,2.61,2.74,2.48,-0.0482,1.032,2.10-2.50
+PHX @ SAC,game over 226.5 + Jalen Green 15+ pra,2,0.5309,0.3998,2.5,2.63,2.36,-0.0573,1.035,2.10-2.50
+PHX @ SAC,PHX win + Jalen Green 15+ pra,2,0.546,0.5461,1.83,1.92,1.72,-0.0581,1.023,1.65-1.85
+PHX @ SAC,PHX win + Devin Booker 4+ ast,2,0.5523,0.5388,1.86,1.95,1.75,-0.0596,1.016,1.65-1.85
 PHX @ SAC,Collin Gillespie 3pm under 2.5 + Darius Acuff Jr. 4+ ast,2,0.6321,0.4573,2.19,2.3,2.06,-0.0602,1.005,1.85-2.10
-PHX @ SAC,Collin Gillespie 3pm under 2.5 + Precious Achiuwa 4+ reb,2,0.5752,0.4024,2.49,2.61,2.33,-0.0605,0.998,2.10-2.50
-PHX @ SAC,PHX win + Dillon Brooks 1+ 3pm,2,0.5784,0.5611,1.78,1.87,1.67,-0.0649,1.009,1.65-1.85
-PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 1+ 3pm,2,0.6214,0.4507,2.22,2.33,2.07,-0.0657,0.999,1.85-2.10
-PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 20+ pra,2,0.6721,0.4932,2.03,2.13,1.89,-0.0676,1.0,1.85-2.10
-PHX @ SAC,PHX win + Devin Booker 1+ 3pm,2,0.5857,0.5948,1.68,1.77,1.56,-0.0719,1.011,1.50-1.65
-PHX @ SAC,PHX win + Oso Ighodaro 5+ pa,2,0.5947,0.6061,1.65,1.73,1.52,-0.0762,1.007,1.50-1.65
+PHX @ SAC,PHX win + Dillon Brooks 1+ 3pm,2,0.5784,0.5588,1.79,1.88,1.68,-0.0641,1.009,1.65-1.85
+PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 1+ 3pm,2,0.6214,0.4512,2.22,2.33,2.07,-0.0659,0.999,1.85-2.10
+PHX @ SAC,Collin Gillespie 3pm under 2.5 + Jalen Green 10+ pra,2,0.6751,0.4904,2.04,2.14,1.9,-0.0673,0.998,1.85-2.10
+PHX @ SAC,PHX win + Devin Booker 1+ 3pm,2,0.5857,0.5955,1.68,1.76,1.56,-0.0721,1.011,1.50-1.65
+PHX @ SAC,PHX win + Oso Ighodaro 5+ pa,2,0.5947,0.6043,1.65,1.74,1.53,-0.0757,1.007,1.50-1.65
 PHX @ SAC,PHX win + Oso Ighodaro 10+ pra,2,0.5652,0.577,1.73,1.82,1.6,-0.0779,1.005,1.50-1.65
