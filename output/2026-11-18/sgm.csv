@@ -9,20 +9,20 @@ BOS @ DEN,BOS win + Nikola Jokic 6+ reb,2,0.5867,0.5098,1.96,2.06,1.8,-0.0814,0.
 BOS @ DEN,BOS win + Jayson Tatum 4+ reb,2,0.5681,0.4983,2.01,2.11,1.84,-0.0839,0.998,1.65-1.85
 BOS @ DEN,Nikola Jokic 20+ ra + Jamal Murray 20+ pra,2,0.6018,0.4959,2.02,2.12,1.85,-0.0849,1.007,1.65-1.85
 BOS @ DEN,Sam Hauser 5+ pr + Christian Braun 10+ pr + Nikola Jokic 35+ pra,3,0.6738,0.5615,1.78,1.87,1.52,-0.1463,1.01,1.50-1.65
-UTA @ LAL,game over 230.5 + Matisse Thybulle 5+ pa,2,0.4733,0.3958,2.53,2.65,2.45,-0.0317,1.028,2.10-2.50
-UTA @ LAL,LAL win + Keyonte George pra under 32.5,2,0.5391,0.4169,2.4,2.52,2.3,-0.0407,1.029,2.10-2.50
-UTA @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6629,0.4426,2.26,2.37,2.16,-0.044,0.99,2.10-2.50
-UTA @ LAL,Quentin Grimes pts under 16.5 + Matisse Thybulle 5+ pr,2,0.6978,0.4643,2.15,2.26,2.05,-0.0478,0.999,1.85-2.10
-UTA @ LAL,Quentin Grimes pr under 20.5 + Matisse Thybulle 5+ pr,2,0.6982,0.4656,2.15,2.25,2.04,-0.0486,0.999,1.85-2.10
+UTA @ LAL,game over 230.5 + Matisse Thybulle 5+ pa,2,0.4733,0.3941,2.54,2.66,2.46,-0.0308,1.028,2.10-2.50
+UTA @ LAL,Keyonte George pra under 33.5 + LAL win,2,0.5735,0.4409,2.27,2.38,2.18,-0.0408,1.028,2.10-2.50
+UTA @ LAL,LAL win + Keyonte George pts under 21.5,2,0.5236,0.4071,2.46,2.58,2.35,-0.0416,1.03,2.10-2.50
+UTA @ LAL,Quentin Grimes pts under 16.5 + Matisse Thybulle 5+ pr,2,0.6978,0.4649,2.15,2.26,2.05,-0.0481,0.999,1.85-2.10
+UTA @ LAL,Quentin Grimes pr under 20.5 + Matisse Thybulle 5+ pr,2,0.6982,0.4662,2.14,2.25,2.04,-0.0489,0.999,1.85-2.10
 UTA @ LAL,Quentin Grimes pr under 20.5 + Walker Kessler 1+ blk,2,0.6754,0.4622,2.16,2.27,2.05,-0.0509,1.002,1.85-2.10
-UTA @ LAL,LAL win + Matisse Thybulle 5+ pa,2,0.7655,0.6178,1.62,1.7,1.5,-0.0709,1.006,1.50-1.65
+UTA @ LAL,LAL win + Matisse Thybulle 5+ pa,2,0.7655,0.6152,1.63,1.71,1.51,-0.0701,1.006,1.50-1.65
 UTA @ LAL,LAL win + Matisse Thybulle 1+ 3pm,2,0.7075,0.6092,1.64,1.72,1.5,-0.0838,1.005,1.50-1.65
-UTA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl,2,0.7101,0.5857,1.71,1.79,1.55,-0.0913,1.002,1.50-1.65
-UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Luka Doncic 3+ 3pm,3,0.6607,0.495,2.02,2.12,1.79,-0.1136,1.013,1.65-1.85
-UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Walker Kessler 1+ blk,3,0.6823,0.5127,1.95,2.05,1.72,-0.1204,1.006,1.65-1.85
-UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Brice Sensabaugh 1+ 3pm,3,0.6876,0.5211,1.92,2.02,1.68,-0.1231,1.004,1.65-1.85
+UTA @ LAL,Matisse Thybulle 5+ pa + Luka Doncic 1+ stl,2,0.7101,0.5794,1.73,1.81,1.57,-0.0895,1.002,1.50-1.65
+UTA @ LAL,Walker Kessler 2+ blk + Ace Bailey 10+ pr,2,0.6312,0.5173,1.93,2.03,1.76,-0.0919,0.998,1.65-1.85
+UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Luka Doncic 3+ 3pm,3,0.6607,0.4951,2.02,2.12,1.79,-0.1137,1.013,1.65-1.85
+UTA @ LAL,LAL win + Matisse Thybulle 5+ pa + Walker Kessler 1+ blk,3,0.6823,0.5105,1.96,2.06,1.72,-0.1196,1.006,1.65-1.85
 PHX @ SAC,PHX -7.5 + Jalen Green 15+ pra,2,0.3777,0.3826,2.61,2.74,2.49,-0.0477,1.032,2.10-2.50
-PHX @ SAC,game over 226.5 + Jalen Green 15+ pra,2,0.5309,0.399,2.51,2.63,2.37,-0.0561,1.035,2.10-2.50
+PHX @ SAC,game over 226.5 + Jalen Green 15+ pra,2,0.5309,0.3987,2.51,2.63,2.37,-0.0568,1.035,2.10-2.50
 PHX @ SAC,PHX win + Jalen Green 15+ pra,2,0.546,0.5446,1.84,1.93,1.73,-0.0576,1.023,1.65-1.85
 PHX @ SAC,PHX win + Devin Booker 4+ ast,2,0.5523,0.5402,1.85,1.94,1.74,-0.0601,1.016,1.65-1.85
 PHX @ SAC,Collin Gillespie 3pm under 2.5 + Darius Acuff Jr. 4+ ast,2,0.6321,0.4573,2.19,2.3,2.06,-0.0602,1.005,1.85-2.10
@@ -32,4 +32,4 @@ PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 1+ 3pm,2,0.6214,0.4507,2
 PHX @ SAC,Collin Gillespie 3pm under 2.5 + Devin Booker 20+ pra,2,0.6721,0.4932,2.03,2.13,1.89,-0.0676,1.0,1.85-2.10
 PHX @ SAC,PHX win + Devin Booker 1+ 3pm,2,0.5857,0.5948,1.68,1.77,1.56,-0.0719,1.011,1.50-1.65
 PHX @ SAC,PHX win + Oso Ighodaro 5+ pa,2,0.5947,0.6061,1.65,1.73,1.52,-0.0762,1.007,1.50-1.65
-PHX @ SAC,PHX win + Oso Ighodaro 10+ pra,2,0.5652,0.5741,1.74,1.83,1.61,-0.0769,1.005,1.50-1.65
+PHX @ SAC,PHX win + Oso Ighodaro 10+ pra,2,0.5652,0.577,1.73,1.82,1.6,-0.0779,1.005,1.50-1.65
