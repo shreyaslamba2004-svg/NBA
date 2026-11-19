@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHI @ BKN,Egor Demin pts under 10.5 + Noah Clowney 5+ pr,2,0.5314,0.4375,2.29,2.4,2.2,-0.0363,1.001,2.10-2.50
-CHI @ BKN,Egor Demin pts under 10.5 + Matas Buzelis 10+ pts,2,0.4835,0.4131,2.42,2.54,2.32,-0.0402,1.005,2.10-2.50
-CHI @ BKN,Egor Demin pts under 10.5 + Matas Buzelis 10+ pa,2,0.5162,0.4401,2.27,2.39,2.18,-0.0408,1.004,2.10-2.50
-CHI @ BKN,Isaac Okoro pts under 9.5 + Noah Clowney 5+ pr,2,0.5229,0.4552,2.2,2.31,2.1,-0.045,0.999,1.85-2.10
-CHI @ BKN,Isaac Okoro pts under 9.5 + Day'Ron Sharpe 10+ pr,2,0.5163,0.4636,2.16,2.26,2.05,-0.0496,1.001,1.85-2.10
-CHI @ BKN,Josh Giddey pts under 12.5 + Noah Clowney 5+ pr,2,0.5063,0.4647,2.15,2.26,2.04,-0.0508,0.998,1.85-2.10
+CHI @ BKN,Egor Demin pts under 10.5 + Noah Clowney 5+ pr,2,0.5314,0.4378,2.28,2.4,2.2,-0.0364,1.001,2.10-2.50
+CHI @ BKN,Egor Demin pts under 10.5 + Matas Buzelis 10+ pts,2,0.4835,0.4108,2.43,2.56,2.34,-0.0392,1.005,2.10-2.50
+CHI @ BKN,Egor Demin pts under 10.5 + Matas Buzelis 10+ pa,2,0.5162,0.4395,2.28,2.39,2.18,-0.0405,1.004,2.10-2.50
+CHI @ BKN,Isaac Okoro pts under 9.5 + Noah Clowney 5+ pr,2,0.5229,0.4556,2.2,2.3,2.1,-0.0452,0.999,1.85-2.10
+CHI @ BKN,Isaac Okoro pts under 9.5 + Day'Ron Sharpe 10+ pr,2,0.5163,0.4645,2.15,2.26,2.05,-0.05,1.001,1.85-2.10
+CHI @ BKN,Josh Giddey pts under 12.5 + Noah Clowney 5+ pr,2,0.5063,0.4651,2.15,2.26,2.04,-0.051,0.998,1.85-2.10
 WAS @ TOR,Collin Murray-Boyles 15+ pts + Jamison Battle 10+ pr,2,0.5486,0.4241,2.36,2.48,2.44,0.0331,1.006,2.10-2.50
 WAS @ TOR,Collin Murray-Boyles 15+ pts + Kyshawn George 10+ pr,2,0.5588,0.4703,2.13,2.23,2.16,0.0144,1.005,2.10-2.50
 WAS @ TOR,Collin Murray-Boyles 15+ pts + Immanuel Quickley 4+ ast,2,0.5379,0.4554,2.2,2.31,2.23,0.0141,1.006,2.10-2.50
