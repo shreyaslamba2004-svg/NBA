@@ -1,28 +1,27 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ MEM,MEM win + game over 225.5,2,0.333,0.3705,2.7,2.83,2.48,-0.081,1.003,2.10-2.50
-GSW @ MEM,MEM win + game under 225.5,2,0.2047,0.368,2.72,2.85,2.48,-0.0872,0.996,2.10-2.50
-POR @ MIL,Brayden Burries pts under 12.5 + POR win,2,0.472,0.4199,2.38,2.5,2.35,-0.0115,1.04,2.10-2.50
-POR @ MIL,POR win + Tyler Herro pts under 20.5,2,0.3978,0.4096,2.44,2.56,2.41,-0.0127,1.069,2.10-2.50
-POR @ MIL,Kyle Kuzma pts under 12.5 + POR win,2,0.403,0.3964,2.52,2.65,2.48,-0.0154,1.058,2.10-2.50
-POR @ MIL,Brayden Burries 3pm under 1.5 + POR win,2,0.4829,0.4793,2.09,2.19,1.96,-0.0623,1.015,1.85-2.10
-NYK @ MIN,Landry Shamet 3pm under 1.5 + OG Anunoby 10+ pr,2,0.6129,0.4459,2.24,2.35,2.09,-0.067,0.999,1.85-2.10
-NYK @ MIN,Landry Shamet 3pm under 1.5 + Josh Hart 5+ pa,2,0.6045,0.4346,2.3,2.42,2.15,-0.0672,0.997,2.10-2.50
+GSW @ MEM,MEM win + game under 226.5,2,0.2154,0.3757,2.66,2.8,2.44,-0.0837,0.999,2.10-2.50
+POR @ MIL,Brayden Burries pts under 12.5 + POR win,2,0.472,0.4218,2.37,2.49,2.34,-0.0119,1.04,2.10-2.50
+POR @ MIL,Tyler Herro pts under 20.5 + POR win,2,0.3978,0.4114,2.43,2.55,2.4,-0.0131,1.069,2.10-2.50
+POR @ MIL,Kyle Kuzma pts under 12.5 + POR win,2,0.403,0.3982,2.51,2.64,2.47,-0.0158,1.058,2.10-2.50
+POR @ MIL,Brayden Burries 3pm under 1.5 + POR win,2,0.4829,0.4815,2.08,2.18,1.95,-0.0627,1.015,1.85-2.10
+NYK @ MIN,Landry Shamet 3pm under 1.5 + OG Anunoby 10+ pr,2,0.6129,0.4446,2.25,2.36,2.1,-0.0664,0.999,1.85-2.10
+NYK @ MIN,Landry Shamet 3pm under 1.5 + Josh Hart 5+ pa,2,0.6045,0.4362,2.29,2.41,2.14,-0.0679,0.997,2.10-2.50
 NYK @ MIN,Landry Shamet 3pm under 1.5 + OG Anunoby 10+ pa,2,0.5742,0.4203,2.38,2.5,2.22,-0.0687,0.999,2.10-2.50
-NYK @ MIN,Landry Shamet 3pm under 1.5 + OG Anunoby 15+ pra,2,0.5581,0.4069,2.46,2.58,2.29,-0.0699,0.997,2.10-2.50
-NYK @ MIN,NYK win + OG Anunoby 15+ pra,2,0.5571,0.4565,2.19,2.3,2.02,-0.0761,1.02,1.85-2.10
-NYK @ MIN,LaMelo Ball 3pm under 3.5 + Josh Hart 5+ pa,2,0.584,0.447,2.24,2.35,2.06,-0.0774,1.001,1.85-2.10
-NYK @ MIN,Ayo Dosunmu ast under 4.5 + Josh Hart 5+ pa,2,0.6504,0.5319,1.88,1.97,1.71,-0.0907,1.001,1.65-1.85
-NYK @ MIN,Jalen Brunson 3+ reb + Josh Hart 5+ pa,2,0.6,0.4914,2.03,2.14,1.85,-0.0913,1.001,1.65-1.85
-NYK @ MIN,Ayo Dosunmu ast under 4.5 + OG Anunoby 10+ pr,2,0.6563,0.5431,1.84,1.93,1.67,-0.0948,0.999,1.65-1.85
-NYK @ MIN,Josh Hart 3pm under 1.5 + OG Anunoby 10+ pr,2,0.7184,0.6028,1.66,1.74,1.5,-0.0955,1.001,1.50-1.65
+NYK @ MIN,Landry Shamet 3pm under 1.5 + Karl-Anthony Towns 8+ reb,2,0.577,0.4228,2.37,2.48,2.2,-0.069,0.998,2.10-2.50
+NYK @ MIN,NYK win + OG Anunoby 15+ pra,2,0.5571,0.4554,2.2,2.31,2.03,-0.0757,1.02,1.85-2.10
+NYK @ MIN,LaMelo Ball 3pm under 3.5 + Josh Hart 5+ pa,2,0.584,0.4486,2.23,2.34,2.05,-0.0781,1.001,1.85-2.10
+NYK @ MIN,Jalen Brunson 3+ reb + Josh Hart 5+ pa,2,0.6,0.4945,2.02,2.12,1.84,-0.0924,1.001,1.65-1.85
+NYK @ MIN,Josh Hart 3pm under 1.5 + OG Anunoby 10+ pr,2,0.7184,0.601,1.66,1.75,1.51,-0.095,1.001,1.50-1.65
+NYK @ MIN,Rudy Gobert pra under 21.5 + OG Anunoby 10+ pr,2,0.5914,0.4947,2.02,2.12,1.83,-0.096,1.0,1.65-1.85
+NYK @ MIN,Jalen Brunson 3+ reb + Karl-Anthony Towns 20+ pr,2,0.5893,0.4935,2.03,2.13,1.83,-0.0962,1.0,1.65-1.85
+NYK @ MIN,Josh Hart 3pm under 1.5 + Karl-Anthony Towns 8+ reb,2,0.6765,0.5717,1.75,1.84,1.58,-0.0972,1.0,1.50-1.65
 NYK @ MIN,Josh Hart 3pm under 1.5 + OG Anunoby 10+ pa,2,0.6726,0.5678,1.76,1.85,1.59,-0.0978,1.0,1.50-1.65
-NYK @ MIN,Josh Hart 3pm under 1.5 + Karl-Anthony Towns 20+ pr,2,0.6974,0.5886,1.7,1.78,1.53,-0.0979,0.999,1.50-1.65
-LAC @ SAS,Max Strus 3pm under 1.5 + SAS win,2,0.5226,0.4407,2.27,2.38,2.22,-0.0213,1.02,2.10-2.50
-LAC @ SAS,Darius Garland ra under 9.5 + SAS win,2,0.44,0.4266,2.34,2.46,2.25,-0.0388,1.035,2.10-2.50
+LAC @ SAS,Max Strus 3pm under 1.5 + SAS win,2,0.5226,0.4424,2.26,2.37,2.21,-0.0223,1.02,2.10-2.50
+LAC @ SAS,Devin Vassell 20+ pra + SAS win,2,0.4865,0.4852,2.06,2.16,1.98,-0.0399,1.039,1.85-2.10
+LAC @ SAS,Darius Garland ra under 9.5 + SAS win,2,0.44,0.4343,2.3,2.42,2.21,-0.0401,1.035,2.10-2.50
 LAC @ SAS,Derrick Jones Jr. 3pm under 1.5 + SAS win,2,0.5684,0.5203,1.92,2.02,1.84,-0.0449,1.015,1.65-1.85
 LAC @ SAS,Derrick Jones Jr. pr under 13.5 + SAS win,2,0.4704,0.4656,2.15,2.26,2.05,-0.0453,1.034,1.85-2.10
 LAC @ SAS,Devin Vassell 3+ ast + SAS win,2,0.4994,0.4987,2.01,2.11,1.9,-0.0504,1.025,1.85-2.10
-LAC @ SAS,Max Strus 3pm under 1.5 + Devin Vassell 15+ pra,2,0.5648,0.3818,2.62,2.75,2.48,-0.0524,0.998,2.10-2.50
-LAC @ SAS,Devin Vassell 2+ 3pm + SAS win,2,0.5125,0.5129,1.95,2.05,1.85,-0.0531,1.023,1.65-1.85
-LAC @ SAS,Derrick Jones Jr. 3pm under 1.5 + Devin Vassell 15+ pra,2,0.6197,0.4547,2.2,2.31,2.05,-0.0673,1.003,1.85-2.10
+LAC @ SAS,Max Strus 3pm under 1.5 + Devin Vassell 15+ pra,2,0.5648,0.3833,2.61,2.74,2.47,-0.0534,0.998,2.10-2.50
 LAC @ SAS,Derrick Jones Jr. 3pm under 1.5 + Devin Vassell 10+ pr,2,0.6775,0.5074,1.97,2.07,1.83,-0.0709,1.003,1.65-1.85
+LAC @ SAS,Brook Lopez reb under 5.5 + SAS win,2,0.5263,0.5049,1.98,2.08,1.84,-0.0732,0.996,1.65-1.85
