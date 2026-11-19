@@ -1,28 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ MEM,game over 226.5 + Jaylen Wells 10+ pra,2,0.5789,0.4215,2.37,2.49,2.24,-0.0559,1.021,2.10-2.50
-GSW @ MEM,MEM win + Jaylen Wells 10+ pra,2,0.5308,0.557,1.8,1.89,1.69,-0.0564,1.015,1.65-1.85
-GSW @ MEM,game over 226.5 + Yaxel Lendeborg 20+ pr,2,0.5549,0.4324,2.31,2.43,2.18,-0.0589,1.031,2.10-2.50
+GSW @ MEM,game over 226.5 + Jaylen Wells 10+ pra,2,0.5789,0.4224,2.37,2.49,2.23,-0.0562,1.021,2.10-2.50
+GSW @ MEM,MEM win + Jaylen Wells 10+ pra,2,0.5308,0.5581,1.79,1.88,1.69,-0.0568,1.015,1.65-1.85
 GSW @ MEM,game over 226.5 + Cameron Boozer 6+ reb,2,0.5457,0.4214,2.37,2.49,2.21,-0.0676,1.02,2.10-2.50
-GSW @ MEM,game over 226.5 + Yaxel Lendeborg 20+ pra,2,0.596,0.4656,2.15,2.26,2.0,-0.0702,1.019,1.85-2.10
-GSW @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.512,0.5722,1.75,1.84,1.62,-0.0732,1.009,1.50-1.65
+GSW @ MEM,Cameron Boozer 14+ ra + Jaylen Wells 10+ pra,2,0.5237,0.3918,2.55,2.68,2.37,-0.0698,1.003,2.10-2.50
+GSW @ MEM,game over 226.5 + Yaxel Lendeborg 20+ pra,2,0.596,0.4667,2.14,2.25,1.99,-0.0706,1.019,1.85-2.10
 GSW @ MEM,Jaylen Wells 10+ pts + Cameron Boozer 6+ reb,2,0.5632,0.4422,2.26,2.37,2.1,-0.0735,1.007,1.85-2.10
-GSW @ MEM,game over 226.5 + Yaxel Lendeborg 4+ reb,2,0.5798,0.4436,2.25,2.37,2.09,-0.074,1.011,1.85-2.10
-GSW @ MEM,MEM win + Yaxel Lendeborg 4+ reb,2,0.5298,0.5842,1.71,1.8,1.58,-0.0777,1.002,1.50-1.65
+GSW @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.512,0.5754,1.74,1.82,1.61,-0.0742,1.009,1.50-1.65
+GSW @ MEM,game over 226.5 + Yaxel Lendeborg 4+ reb,2,0.5798,0.4449,2.25,2.36,2.08,-0.0745,1.011,1.85-2.10
+GSW @ MEM,MEM win + Yaxel Lendeborg 4+ reb,2,0.5298,0.5859,1.71,1.79,1.57,-0.0782,1.002,1.50-1.65
 GSW @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.4943,0.55,1.82,1.91,1.67,-0.0795,1.002,1.65-1.85
-GSW @ MEM,Jaylen Wells 13+ pr + Yaxel Lendeborg 15+ pr,2,0.6321,0.5055,1.98,2.08,1.81,-0.0863,1.0,1.65-1.85
-GSW @ MEM,MEM win + Yaxel Lendeborg 20+ pra,2,0.5328,0.5998,1.67,1.75,1.51,-0.0941,0.988,1.50-1.65
+GSW @ MEM,MEM win + Yaxel Lendeborg 20+ pra,2,0.5328,0.6012,1.66,1.75,1.51,-0.0944,0.988,1.50-1.65
+GSW @ MEM,Cameron Boozer 5+ ast + Yaxel Lendeborg 20+ pra,2,0.5978,0.4917,2.03,2.14,1.84,-0.0947,1.0,1.65-1.85
+POR @ MIL,Jrue Holiday 19+ pa + POR win,2,0.5062,0.411,2.43,2.55,2.39,-0.0175,1.03,2.10-2.50
 POR @ MIL,Jrue Holiday 23+ pra + POR win,2,0.517,0.4143,2.41,2.53,2.37,-0.0181,1.026,2.10-2.50
-POR @ MIL,Jrue Holiday 19+ pa + POR win,2,0.5062,0.4152,2.41,2.53,2.36,-0.0201,1.03,2.10-2.50
-POR @ MIL,Tyler Herro pts under 19.5 + POR win,2,0.4541,0.3978,2.51,2.64,2.46,-0.0225,1.044,2.10-2.50
+POR @ MIL,Jrue Holiday 14+ pts + POR win,2,0.4976,0.418,2.39,2.51,2.33,-0.0257,1.028,2.10-2.50
 POR @ MIL,Jrue Holiday 23+ pra + Sidy Cissoko 5+ pa,2,0.6591,0.4557,2.19,2.3,2.09,-0.0489,1.008,1.85-2.10
-POR @ MIL,Jrue Holiday 19+ pa + Sidy Cissoko 5+ pa,2,0.6427,0.4548,2.2,2.31,2.08,-0.0547,1.007,1.85-2.10
-POR @ MIL,Jrue Holiday 18+ pr + Sidy Cissoko 5+ pa,2,0.6505,0.4681,2.14,2.24,2.01,-0.0578,1.006,1.85-2.10
-POR @ MIL,POR win + Scoot Henderson 1+ 3pm,2,0.6081,0.6073,1.65,1.73,1.51,-0.0841,1.006,1.50-1.65
+POR @ MIL,Jrue Holiday 14+ pts + Sidy Cissoko 5+ pa,2,0.6329,0.4586,2.18,2.29,2.05,-0.0585,1.007,1.85-2.10
+POR @ MIL,Jrue Holiday 23+ pra + Myles Turner 10+ pra,2,0.6301,0.4508,2.22,2.33,2.09,-0.0592,1.004,1.85-2.10
+POR @ MIL,POR win + Scoot Henderson 1+ 3pm,2,0.6081,0.6053,1.65,1.73,1.51,-0.0834,1.006,1.50-1.65
 POR @ MIL,POR win + Myles Turner 10+ pr,2,0.613,0.598,1.67,1.76,1.51,-0.0951,0.989,1.50-1.65
-POR @ MIL,POR win + Sidy Cissoko 5+ pa + Scoot Henderson 1+ 3pm,3,0.5813,0.5292,1.89,1.98,1.66,-0.1237,1.011,1.65-1.85
-POR @ MIL,POR win + Sidy Cissoko 5+ pa + Donovan Clingan 8+ reb,3,0.6245,0.5735,1.74,1.83,1.52,-0.1286,1.007,1.50-1.65
-POR @ MIL,POR win + Jrue Holiday 1+ 3pm + Scoot Henderson 1+ 3pm,3,0.5722,0.5279,1.89,1.99,1.65,-0.1288,1.008,1.65-1.85
-POR @ MIL,POR win + Sidy Cissoko 5+ pa + Myles Turner 10+ pr,3,0.5857,0.5208,1.92,2.02,1.66,-0.1347,0.994,1.65-1.85
+POR @ MIL,POR win + Sidy Cissoko 5+ pa + Jrue Holiday 1+ 3pm,3,0.6586,0.5842,1.71,1.8,1.5,-0.1219,1.008,1.50-1.65
+POR @ MIL,POR win + Sidy Cissoko 5+ pa + Scoot Henderson 1+ 3pm,3,0.5813,0.5274,1.9,1.99,1.66,-0.1231,1.011,1.65-1.85
+POR @ MIL,POR win + Jrue Holiday 1+ 3pm + Scoot Henderson 1+ 3pm,3,0.5722,0.5246,1.91,2.0,1.66,-0.1277,1.008,1.65-1.85
+POR @ MIL,POR win + Scoot Henderson 1+ 3pm + Donovan Clingan 8+ reb,3,0.5423,0.5133,1.95,2.05,1.69,-0.1343,1.007,1.65-1.85
 NYK @ MIN,game over 217.5 + OG Anunoby 15+ pr,2,0.5156,0.391,2.56,2.69,2.5,-0.0242,1.04,2.10-2.50
 NYK @ MIN,game over 217.5 + Josh Hart 10+ pr,2,0.5235,0.3919,2.55,2.68,2.47,-0.0325,1.028,2.10-2.50
 NYK @ MIN,game over 217.5 + OG Anunoby 10+ pts,2,0.5206,0.3987,2.51,2.63,2.42,-0.0365,1.029,2.10-2.50
