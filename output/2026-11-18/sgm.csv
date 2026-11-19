@@ -17,18 +17,18 @@ WAS @ TOR,TOR win + Jakob Poeltl 10+ pr,2,0.6789,0.5579,1.79,1.88,1.67,-0.0674,1
 WAS @ TOR,Ja'Kobe Walter 10+ pts + AJ Dybantsa 4+ reb,2,0.6528,0.5892,1.7,1.78,1.51,-0.1098,1.0,1.50-1.65
 WAS @ TOR,Jamison Battle 10+ pr + Collin Murray-Boyles 10+ pts + Jakob Poeltl 4+ reb,3,0.7515,0.5734,1.74,1.83,1.51,-0.1366,1.004,1.50-1.65
 WAS @ TOR,Jamison Battle 10+ pr + Collin Murray-Boyles 10+ pts + Immanuel Quickley 4+ ast,3,0.729,0.5663,1.77,1.85,1.52,-0.1381,1.005,1.50-1.65
-DET @ NOP,Paul Reed 12+ pts + John Collins 15+ pr,2,0.5679,0.4077,2.45,2.58,2.49,0.0138,1.014,2.10-2.50
-DET @ NOP,Paul Reed 12+ pts + Derik Queen 10+ pr,2,0.6597,0.4435,2.25,2.37,2.28,0.012,0.999,2.10-2.50
-DET @ NOP,Paul Reed 12+ pts + Daniss Jenkins 1+ 3pm,2,0.6468,0.4447,2.25,2.36,2.27,0.0079,1.0,2.10-2.50
-DET @ NOP,Zion Williamson pts under 21.5 + John Collins 10+ pr,2,0.5635,0.4627,2.16,2.27,2.06,-0.0447,0.997,1.85-2.10
-DET @ NOP,Saddiq Bey pts under 19.5 + Daniss Jenkins 1+ 3pm,2,0.5996,0.4529,2.21,2.32,2.09,-0.0518,0.998,1.85-2.10
-DET @ NOP,Derik Queen 10+ pts + Kevin Huerter 1+ 3pm,2,0.5779,0.4574,2.19,2.3,2.07,-0.0525,1.004,1.85-2.10
-DET @ NOP,DET win + Daniss Jenkins 1+ 3pm,2,0.6112,0.5273,1.9,1.99,1.78,-0.0609,1.005,1.65-1.85
-DET @ NOP,DET win + Daniss Jenkins 10+ pts,2,0.6111,0.5482,1.82,1.92,1.71,-0.0616,1.012,1.65-1.85
-DET @ NOP,DET win + Derik Queen 10+ pr,2,0.6167,0.5202,1.92,2.02,1.79,-0.0674,0.994,1.65-1.85
-DET @ NOP,Derik Queen 10+ pr + Daniss Jenkins 1+ 3pm + Yves Missi 1+ blk,3,0.6978,0.5517,1.81,1.9,1.55,-0.1465,1.0,1.50-1.65
-DET @ NOP,Derik Queen 10+ pr + Daniss Jenkins 1+ 3pm + Zion Williamson 4+ reb,3,0.6941,0.555,1.8,1.89,1.54,-0.1477,1.0,1.50-1.65
-DET @ NOP,Derik Queen 10+ pr + Daniss Jenkins 10+ pts + John Collins 15+ pr,3,0.6585,0.5508,1.82,1.91,1.55,-0.149,1.008,1.50-1.65
+DET @ NOP,Paul Reed 12+ pts + Kevin Huerter 10+ pts,2,0.6602,0.4224,2.37,2.49,2.44,0.0318,1.006,2.10-2.50
+DET @ NOP,Paul Reed 12+ pts + John Collins 15+ pr,2,0.6341,0.4134,2.42,2.54,2.49,0.0279,1.006,2.10-2.50
+DET @ NOP,Paul Reed 12+ pts + Derik Queen 4+ reb,2,0.6602,0.4301,2.32,2.44,2.39,0.0264,1.004,2.10-2.50
+DET @ NOP,Derik Queen 10+ pts + Daniss Jenkins 10+ pts,2,0.6019,0.4608,2.17,2.28,2.06,-0.0499,1.0,1.85-2.10
+DET @ NOP,Saddiq Bey pts under 19.5 + Daniss Jenkins 1+ 3pm,2,0.6029,0.4536,2.2,2.31,2.09,-0.0503,0.999,1.85-2.10
+DET @ NOP,Saddiq Bey pts under 19.5 + Daniss Jenkins 10+ pts,2,0.6199,0.4711,2.12,2.23,2.01,-0.052,0.999,1.85-2.10
+DET @ NOP,Kevin Huerter 10+ pts + Derik Queen 4+ reb + John Collins 15+ pr,3,0.6292,0.4794,2.09,2.19,1.81,-0.1316,1.009,1.65-1.85
+DET @ NOP,Kevin Huerter 10+ pts + John Collins 15+ pr + Ausar Thompson 4+ ast,3,0.6221,0.4834,2.07,2.17,1.79,-0.1348,1.01,1.65-1.85
+DET @ NOP,Kevin Huerter 10+ pts + John Collins 15+ pr + Daniss Jenkins 1+ 3pm,3,0.6584,0.5027,1.99,2.09,1.72,-0.135,1.006,1.65-1.85
+DET @ NOP,Kevin Huerter 10+ pts + Derik Queen 4+ reb + Daniss Jenkins 20+ pra,3,0.684,0.5289,1.89,1.99,1.63,-0.1365,1.007,1.50-1.65
+DET @ NOP,Kevin Huerter 10+ pts + Derik Queen 10+ pr + Daniss Jenkins 1+ 3pm,3,0.7271,0.5467,1.83,1.92,1.58,-0.1368,1.001,1.50-1.65
+DET @ NOP,Kevin Huerter 10+ pts + Derik Queen 10+ pr + Daniss Jenkins 20+ pra,3,0.7251,0.5525,1.81,1.9,1.56,-0.1375,1.003,1.50-1.65
 ATL @ OKC,Aday Mara pts under 9.5 + Onyeka Okongwu 15+ pra,2,0.5394,0.4529,2.21,2.32,2.14,-0.0322,0.999,2.10-2.50
 ATL @ OKC,Dyson Daniels 11+ pts + Onyeka Okongwu 15+ pra,2,0.557,0.4418,2.26,2.38,2.19,-0.0322,1.006,2.10-2.50
 ATL @ OKC,Aday Mara pts under 9.5 + Alex Caruso 5+ pr,2,0.5099,0.4285,2.33,2.45,2.26,-0.0332,0.999,2.10-2.50
