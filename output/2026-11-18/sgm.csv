@@ -1,15 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ MIA,Brayden Burries pts under 12.5 + MIA win,2,0.572,0.4559,2.19,2.3,2.3,0.0474,1.027,2.10-2.50
-MIL @ MIA,Brayden Burries pts under 12.5 + Andrew Wiggins 10+ pra,2,0.6083,0.4308,2.32,2.44,2.34,0.0084,1.0,2.10-2.50
-MIL @ MIA,Brayden Burries pts under 12.5 + Myles Turner 4+ reb,2,0.5608,0.4127,2.42,2.54,2.43,0.0017,1.002,2.10-2.50
-MIL @ MIA,Andrew Wiggins 9+ pts + MIA win,2,0.5993,0.4739,2.11,2.22,2.09,-0.0105,1.016,1.85-2.10
-MIL @ MIA,Kyle Kuzma 10+ pa + Andrew Wiggins 1+ 3pm,2,0.7242,0.5993,1.67,1.75,1.52,-0.0905,1.004,1.50-1.65
-MIL @ MIA,Andrew Wiggins 1+ 3pm + Myles Turner 4+ reb,2,0.6946,0.5856,1.71,1.79,1.54,-0.0972,1.0,1.50-1.65
-MIL @ MIA,MIA win + Andrew Wiggins 10+ pra + Bobby Portis 5+ pa,3,0.6748,0.5501,1.82,1.91,1.62,-0.1095,1.013,1.50-1.65
-MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bam Adebayo 6+ reb,3,0.6121,0.5124,1.95,2.05,1.73,-0.116,1.011,1.65-1.85
-MIL @ MIA,MIA win + Andrew Wiggins 1+ 3pm + Bobby Portis 5+ pa,3,0.6094,0.5129,1.95,2.05,1.72,-0.1163,1.012,1.65-1.85
-MIL @ MIA,MIA win + Andrew Wiggins 10+ pra + Myles Turner 4+ reb,3,0.6437,0.5244,1.91,2.0,1.68,-0.1189,1.002,1.65-1.85
-MIL @ MIA,Kyle Kuzma 10+ pa + Andrew Wiggins 1+ 3pm + Myles Turner 4+ reb,3,0.6101,0.4651,2.15,2.26,1.86,-0.1349,1.006,1.85-2.10
 CHI @ BKN,Egor Demin pts under 10.5 + Noah Clowney 5+ pr,2,0.5314,0.4375,2.29,2.4,2.2,-0.0363,1.001,2.10-2.50
 CHI @ BKN,Egor Demin pts under 10.5 + Matas Buzelis 10+ pts,2,0.4835,0.4131,2.42,2.54,2.32,-0.0402,1.005,2.10-2.50
 CHI @ BKN,Egor Demin pts under 10.5 + Matas Buzelis 10+ pa,2,0.5162,0.4401,2.27,2.39,2.18,-0.0408,1.004,2.10-2.50
@@ -52,17 +41,15 @@ ATL @ OKC,OKC win + Alex Caruso 5+ pr,2,0.6798,0.5746,1.74,1.83,1.61,-0.0735,1.0
 ATL @ OKC,Kenrich Williams 3pm under 1.5 + Onyeka Okongwu 1+ 3pm,2,0.6655,0.5127,1.95,2.05,1.8,-0.0771,1.002,1.65-1.85
 ATL @ OKC,OKC win + Onyeka Okongwu 15+ pra,2,0.7114,0.6008,1.66,1.75,1.53,-0.0825,0.995,1.50-1.65
 ATL @ OKC,OKC win + Onyeka Okongwu 1+ 3pm,2,0.6383,0.5611,1.78,1.87,1.62,-0.0911,0.993,1.50-1.65
-BOS @ DEN,game over 219.5 + Jamal Murray 25+ pra,2,0.4611,0.4251,2.35,2.47,2.33,-0.0088,1.067,2.10-2.50
-BOS @ DEN,game over 219.5 + Nikola Jokic 35+ pra,2,0.4702,0.4309,2.32,2.44,2.3,-0.0107,1.064,2.10-2.50
-BOS @ DEN,DEN +2.5 + Jamal Murray 25+ pra,2,0.3809,0.4097,2.44,2.56,2.35,-0.0359,1.048,2.10-2.50
-BOS @ DEN,BOS win + Sam Hauser 5+ pr,2,0.5611,0.4776,2.09,2.2,1.95,-0.0687,1.01,1.85-2.10
-BOS @ DEN,Nikola Jokic 9+ ast + Christian Braun 10+ pr,2,0.5605,0.4515,2.21,2.33,2.04,-0.0782,1.011,1.85-2.10
-BOS @ DEN,Payton Pritchard pa under 18.5 + Sam Hauser 5+ pr,2,0.5802,0.4406,2.27,2.38,2.09,-0.0793,0.997,1.85-2.10
+BOS @ DEN,game over 219.5 + Nikola Jokic 35+ pra,2,0.4702,0.433,2.31,2.42,2.28,-0.0116,1.064,2.10-2.50
+BOS @ DEN,game over 219.5 + Christian Braun 10+ pr,2,0.4847,0.4434,2.26,2.37,2.17,-0.0376,1.034,2.10-2.50
+BOS @ DEN,game over 219.5 + Nikola Jokic 6+ ast,2,0.4888,0.4375,2.29,2.4,2.2,-0.0392,1.028,2.10-2.50
+BOS @ DEN,game over 219.5 + Jamal Murray 20+ pra,2,0.5095,0.469,2.13,2.24,2.03,-0.0474,1.025,1.85-2.10
+BOS @ DEN,game over 219.5 + Jayson Tatum 4+ reb,2,0.4988,0.4596,2.18,2.28,2.05,-0.0579,1.014,1.85-2.10
+BOS @ DEN,DEN +2.5 + Jamal Murray 20+ pra,2,0.4255,0.4569,2.19,2.3,2.05,-0.0634,1.018,1.85-2.10
 BOS @ DEN,BOS win + Nikola Jokic 6+ reb,2,0.5867,0.5104,1.96,2.06,1.8,-0.0827,0.999,1.65-1.85
-BOS @ DEN,BOS win + Jamal Murray 20+ pra,2,0.5677,0.4988,2.0,2.1,1.81,-0.0955,0.987,1.65-1.85
-BOS @ DEN,Christian Braun 10+ pr + Nikola Jokic 35+ pra + Jamal Murray 25+ pra,3,0.6134,0.5335,1.87,1.97,1.61,-0.1436,1.022,1.50-1.65
-BOS @ DEN,Sam Hauser 5+ pr + Nikola Jokic 35+ pra + Jamal Murray 25+ pra,3,0.6243,0.5302,1.89,1.98,1.61,-0.1454,1.015,1.50-1.65
-BOS @ DEN,Sam Hauser 5+ pr + Christian Braun 10+ pr + Nikola Jokic 35+ pra,3,0.6738,0.5678,1.76,1.85,1.5,-0.1481,1.01,1.50-1.65
+BOS @ DEN,Nikola Jokic 20+ ra + Jamal Murray 20+ pra,2,0.6018,0.4959,2.02,2.12,1.85,-0.0849,1.007,1.65-1.85
+BOS @ DEN,BOS win + Jayson Tatum 4+ reb,2,0.5681,0.4989,2.0,2.1,1.83,-0.0851,0.998,1.65-1.85
 GSW @ DAL,Draymond Green 11+ pa + De'Anthony Melton 10+ pr,2,0.5953,0.4044,2.47,2.6,2.36,-0.0437,1.003,2.10-2.50
 GSW @ DAL,Draymond Green 16+ pra + De'Anthony Melton 10+ pr,2,0.6028,0.3983,2.51,2.64,2.4,-0.0452,1.004,2.10-2.50
 GSW @ DAL,Draymond Green 11+ pa + De'Anthony Melton 10+ pa,2,0.572,0.3971,2.52,2.64,2.4,-0.0454,1.006,2.10-2.50
