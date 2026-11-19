@@ -598,22 +598,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910019,GSW @ MEM,MEM,1642377,Jaylen Wells,ra,5.5,False,0.3468,0.3577,est,0.356
 401910019,GSW @ MEM,MEM,1642377,Jaylen Wells,ra,6.5,False,0.2208,0.2292,est,0.2279
 401910019,GSW @ MEM,MEM,1642377,Jaylen Wells,ra,7.5,False,0.1333,0.1389,est,0.138
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,4.5,False,0.7999,0.8226,est,0.8191
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,5.5,False,0.7209,0.7498,est,0.7453
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,6.5,False,0.6378,0.6714,est,0.6662
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,7.5,False,0.5521,0.5885,est,0.5829
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,8.5,True,0.4707,0.5078,book,0.5021
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,9.5,False,0.3977,0.4338,est,0.4283
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,10.5,False,0.3316,0.3653,est,0.3601
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,11.5,False,0.2735,0.304,est,0.2993
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,12.5,False,0.2232,0.25,est,0.2459
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,3.5,False,0.8214,0.854,book,0.849
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,4.5,False,0.7267,0.7683,book,0.7619
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,5.5,False,0.6216,0.6645,book,0.6579
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,6.5,True,0.5085,0.5476,book,0.5416
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,7.5,False,0.403,0.4307,book,0.4264
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,8.5,False,0.3066,0.3234,book,0.3208
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,9.5,False,0.2293,0.2354,book,0.2345
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,4.5,False,0.7999,0.8292,est,0.8247
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,5.5,False,0.7209,0.7583,est,0.7525
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,6.5,False,0.6378,0.6814,est,0.6747
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,7.5,False,0.5521,0.5995,est,0.5922
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,8.5,True,0.4707,0.5192,book,0.5117
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,9.5,False,0.3977,0.4451,est,0.4378
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,10.5,False,0.3316,0.3759,est,0.3691
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,11.5,False,0.2735,0.3138,est,0.3076
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pts,12.5,False,0.2232,0.2586,est,0.2532
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,3.5,False,0.8214,0.8567,book,0.8513
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,4.5,False,0.7267,0.7723,book,0.7653
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,5.5,False,0.6216,0.6706,book,0.6631
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,6.5,True,0.5085,0.5515,book,0.5449
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,7.5,False,0.403,0.4388,book,0.4333
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,8.5,False,0.3066,0.3302,book,0.3266
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,reb,9.5,False,0.2293,0.2409,book,0.2391
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,ast,0.5,False,0.5826,,model only,0.5826
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,ast,1.5,False,0.2445,0.4673,book,0.433
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,ast,2.5,False,0.0829,0.2336,book,0.2104
@@ -638,15 +638,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pra,19.5,False,0.3345,,model only,0.3345
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pra,20.5,False,0.2933,,model only,0.2933
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pra,21.5,False,0.2564,,model only,0.2564
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,11.5,False,0.7021,0.7382,est,0.7326
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,12.5,False,0.645,0.6849,est,0.6787
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,13.5,False,0.5904,0.6329,est,0.6264
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,14.5,False,0.5335,0.5777,est,0.5709
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,15.5,True,0.4791,0.5238,book,0.5169
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,16.5,False,0.4283,0.4726,est,0.4658
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,17.5,False,0.3765,0.4193,est,0.4127
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,18.5,False,0.3324,0.3733,est,0.367
-401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,19.5,False,0.2902,0.3284,est,0.3225
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,12.5,False,0.645,0.6901,est,0.6831
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,13.5,False,0.5904,0.6386,est,0.6312
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,14.5,False,0.5335,0.5922,book,0.5832
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,15.5,False,0.4791,0.5299,est,0.522
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,16.5,True,0.4283,0.4787,book,0.4709
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,17.5,False,0.3765,0.4253,est,0.4178
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,18.5,False,0.3324,0.379,est,0.3718
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,19.5,False,0.2902,0.3256,book,0.3201
+401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pr,20.5,False,0.2508,0.291,est,0.2848
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pa,5.5,False,0.776,,model only,0.776
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pa,6.5,False,0.7025,,model only,0.7025
 401910019,GSW @ MEM,GSW,1629646,Charles Bassey,pa,7.5,False,0.6241,,model only,0.6241
@@ -792,15 +792,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910019,GSW @ MEM,GSW,904703396,Graham Ike,ra,5.5,False,0.3711,,model only,0.3711
 401910019,GSW @ MEM,GSW,904703396,Graham Ike,ra,6.5,False,0.2705,,model only,0.2705
 401910019,GSW @ MEM,GSW,904703396,Graham Ike,ra,7.5,False,0.1907,,model only,0.1907
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,17.5,False,0.6468,0.6643,est,0.6616
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.5992,0.6176,est,0.6147
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.5519,0.5709,est,0.568
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.5083,0.5275,est,0.5246
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,21.5,True,0.4606,0.4798,book,0.4768
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,22.5,False,0.4173,0.4362,est,0.4333
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,23.5,False,0.3771,0.3954,est,0.3926
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,24.5,False,0.3349,0.3523,est,0.3496
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,25.5,False,0.2992,0.3156,est,0.3131
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,17.5,False,0.6468,0.6602,est,0.6582
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.5992,0.6133,est,0.6111
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.5519,0.5665,est,0.5643
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.5083,0.5231,est,0.5208
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,21.5,True,0.4606,0.4753,book,0.473
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,22.5,False,0.4173,0.4318,est,0.4296
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,23.5,False,0.3771,0.3911,est,0.389
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,24.5,False,0.3349,0.3481,est,0.3461
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pts,25.5,False,0.2992,0.3117,est,0.3098
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,reb,3.5,False,0.8967,0.858,book,0.864
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,reb,4.5,False,0.806,0.765,book,0.7713
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,reb,5.5,False,0.6887,0.647,book,0.6534
@@ -836,15 +836,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pra,35.5,False,0.3577,0.3782,est,0.3751
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pra,36.5,False,0.3265,0.3463,est,0.3432
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pra,37.5,False,0.2941,0.3128,est,0.31
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,24.5,False,0.6407,0.6453,est,0.6446
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,25.5,False,0.6017,0.6065,est,0.6058
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,26.5,False,0.5589,0.5639,est,0.5631
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,27.5,False,0.516,0.521,est,0.5203
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,28.5,True,0.4737,0.4787,book,0.4779
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,29.5,False,0.4332,0.4382,est,0.4374
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,30.5,False,0.3937,0.3985,est,0.3977
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,31.5,False,0.3567,0.3613,est,0.3606
-401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,32.5,False,0.3237,0.3281,est,0.3274
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,23.5,False,0.6807,0.6834,est,0.683
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,24.5,False,0.6407,0.6443,book,0.6437
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,25.5,False,0.6017,0.6047,est,0.6043
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,26.5,False,0.5589,0.5621,est,0.5616
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,27.5,True,0.516,0.5192,book,0.5187
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,28.5,False,0.4737,0.4769,est,0.4764
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,29.5,False,0.4332,0.4307,book,0.4311
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,30.5,False,0.3937,0.3967,est,0.3963
+401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pr,31.5,False,0.3567,0.3596,est,0.3592
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pa,21.5,False,0.6321,0.6684,est,0.6628
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pa,22.5,False,0.5882,0.6263,est,0.6204
 401910019,GSW @ MEM,GSW,905175737,Yaxel Lendeborg,pa,23.5,False,0.5446,0.5839,est,0.5779
@@ -1119,15 +1119,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910019,GSW @ MEM,GSW,1627780,Gary Payton II,ra,5.5,False,0.349,,model only,0.349
 401910019,GSW @ MEM,GSW,1627780,Gary Payton II,ra,6.5,False,0.238,,model only,0.238
 401910019,GSW @ MEM,GSW,1627780,Gary Payton II,ra,7.5,False,0.1569,,model only,0.1569
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.7718,0.7116,est,0.7209
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.7196,0.6518,est,0.6622
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,14.5,False,0.666,0.5926,est,0.6039
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.6105,0.5334,est,0.5453
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,16.5,True,0.5551,0.4765,book,0.4886
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.5003,0.4221,est,0.4341
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.4489,0.3727,est,0.3844
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,19.5,False,0.3969,0.3244,est,0.3356
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,20.5,False,0.351,0.2829,est,0.2934
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,12.5,False,0.7718,0.7087,est,0.7184
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,13.5,False,0.7196,0.6486,est,0.6595
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,14.5,False,0.666,0.5892,est,0.601
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.6105,0.5299,est,0.5423
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,16.5,True,0.5551,0.473,book,0.4856
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.5003,0.4187,est,0.4312
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.4489,0.3694,est,0.3816
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,19.5,False,0.3969,0.3213,est,0.333
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pts,20.5,False,0.351,0.2801,est,0.291
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,reb,1.5,False,0.9575,0.9471,est,0.9487
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,reb,2.5,False,0.876,0.8296,book,0.8367
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,reb,3.5,False,0.7544,0.698,book,0.7067
@@ -1163,15 +1163,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pra,28.5,False,0.4602,0.3623,est,0.3774
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pra,29.5,False,0.4168,0.3226,est,0.3371
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pra,30.5,False,0.3785,0.2887,est,0.3025
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,17.5,False,0.7612,0.6929,est,0.7034
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,18.5,False,0.7148,0.6395,est,0.6511
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,19.5,False,0.6679,0.5874,est,0.5998
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,20.5,False,0.6166,0.5324,est,0.5453
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,21.5,True,0.5679,0.482,book,0.4952
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,22.5,False,0.5194,0.4334,est,0.4467
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,23.5,False,0.4697,0.3854,est,0.3984
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,24.5,False,0.4236,0.3423,est,0.3548
-401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,25.5,False,0.3776,0.3005,est,0.3124
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,17.5,False,0.7612,0.6901,est,0.7011
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,18.5,False,0.7148,0.6365,est,0.6485
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,19.5,False,0.6679,0.5842,est,0.5971
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,20.5,False,0.6166,0.5291,est,0.5425
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,21.5,True,0.5679,0.4787,book,0.4924
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,22.5,False,0.5194,0.4302,est,0.4439
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,23.5,False,0.4697,0.3823,est,0.3958
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,24.5,False,0.4236,0.3393,est,0.3523
+401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pr,25.5,False,0.3776,0.2977,est,0.31
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pa,16.5,False,0.7799,0.7116,est,0.7221
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pa,17.5,False,0.7353,0.6592,est,0.6709
 401910019,GSW @ MEM,GSW,1641764,Brandin Podziemski,pa,18.5,False,0.6866,0.604,est,0.6167
@@ -1264,13 +1264,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910019,GSW @ MEM,GSW,1630611,Gui Santos,pts,10.5,False,0.311,0.3132,est,0.3128
 401910019,GSW @ MEM,GSW,1630611,Gui Santos,pts,11.5,False,0.2516,0.2611,book,0.2596
 401910019,GSW @ MEM,GSW,1630611,Gui Santos,pts,12.5,False,0.2012,0.2029,est,0.2027
-401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,1.5,False,0.8604,0.8746,est,0.8724
-401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,2.5,False,0.7122,0.7419,book,0.7373
-401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,3.5,False,0.5486,0.5845,book,0.579
-401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,4.5,True,0.3884,0.4182,book,0.4136
-401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,5.5,False,0.2609,0.279,book,0.2762
-401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,6.5,False,0.1635,0.1715,book,0.1703
-401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,7.5,False,0.0962,0.105,book,0.1036
+401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,0.5,False,0.9603,0.9651,est,0.9643
+401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,1.5,False,0.8604,0.8756,est,0.8732
+401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,2.5,False,0.7122,0.7399,book,0.7356
+401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,3.5,True,0.5486,0.5812,book,0.5762
+401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,4.5,False,0.3884,0.4154,book,0.4112
+401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,5.5,False,0.2609,0.2765,book,0.2741
+401910019,GSW @ MEM,GSW,1630611,Gui Santos,reb,6.5,False,0.1635,0.1696,book,0.1687
 401910019,GSW @ MEM,GSW,1630611,Gui Santos,ast,0.5,False,0.8531,0.8705,est,0.8678
 401910019,GSW @ MEM,GSW,1630611,Gui Santos,ast,1.5,False,0.6129,0.6469,est,0.6417
 401910019,GSW @ MEM,GSW,1630611,Gui Santos,ast,2.5,True,0.3725,0.4072,book,0.4019
@@ -4574,17 +4574,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910022,LAC @ SAS,LAC,1629636,Darius Garland,stl,2.5,False,0.0811,0.0916,book,0.09
 401910022,LAC @ SAS,LAC,1629636,Darius Garland,blk,0.5,False,0.2034,,model only,0.2034
 401910022,LAC @ SAS,LAC,1629636,Darius Garland,blk,1.5,False,0.0235,,model only,0.0235
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,24.5,False,0.6692,0.6792,book,0.6777
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,25.5,False,0.6303,0.6547,est,0.6509
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,26.5,False,0.588,0.6135,est,0.6095
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,27.5,False,0.5471,0.5732,est,0.5692
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,28.5,False,0.5062,0.5327,est,0.5286
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,29.5,True,0.4672,0.4937,book,0.4896
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,30.5,False,0.4282,0.4544,est,0.4504
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,31.5,False,0.3909,0.4165,est,0.4125
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,32.5,False,0.3557,0.3804,est,0.3766
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,33.5,False,0.3209,0.3445,est,0.3408
-401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,34.5,False,0.2908,0.3034,book,0.3015
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,24.5,False,0.6692,0.6806,book,0.6789
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,25.5,False,0.6303,0.6557,est,0.6518
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,26.5,False,0.588,0.6145,est,0.6104
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,27.5,False,0.5471,0.5743,est,0.5701
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,28.5,False,0.5062,0.5338,est,0.5295
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,29.5,True,0.4672,0.4948,book,0.4905
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,30.5,False,0.4282,0.4555,est,0.4513
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,31.5,False,0.3909,0.4176,est,0.4135
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,32.5,False,0.3557,0.3814,est,0.3775
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,33.5,False,0.3209,0.3455,est,0.3417
+401910022,LAC @ SAS,LAC,1629636,Darius Garland,pra,34.5,False,0.2908,0.3054,book,0.3032
 401910022,LAC @ SAS,LAC,1629636,Darius Garland,pr,18.5,False,0.6661,0.6684,est,0.668
 401910022,LAC @ SAS,LAC,1629636,Darius Garland,pr,19.5,False,0.6189,0.6214,est,0.621
 401910022,LAC @ SAS,LAC,1629636,Darius Garland,pr,20.5,False,0.5735,0.576,est,0.5756
@@ -4740,15 +4740,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910022,LAC @ SAS,LAC,1630543,Isaiah Jackson,ra,6.5,False,0.3828,,model only,0.3828
 401910022,LAC @ SAS,LAC,1630543,Isaiah Jackson,ra,7.5,False,0.2842,,model only,0.2842
 401910022,LAC @ SAS,LAC,1630543,Isaiah Jackson,ra,8.5,False,0.2029,,model only,0.2029
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,5.5,False,0.7815,0.7484,book,0.7535
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.6937,0.7376,est,0.7308
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,7.5,False,0.5997,0.6145,book,0.6122
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.5112,0.5648,est,0.5565
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,9.5,True,0.423,0.4764,book,0.4682
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,10.5,False,0.3473,0.3977,est,0.3899
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.2805,0.3411,book,0.3318
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,12.5,False,0.2188,0.2579,est,0.2519
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,13.5,False,0.171,0.2038,est,0.1988
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,5.5,False,0.7815,0.7435,book,0.7494
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.6937,0.7305,est,0.7248
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,7.5,False,0.5997,0.6089,book,0.6075
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.5112,0.5558,est,0.5489
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,9.5,True,0.423,0.4673,book,0.4605
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,10.5,False,0.3473,0.389,est,0.3825
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.2805,0.3374,book,0.3286
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,12.5,False,0.2188,0.251,est,0.2461
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pts,13.5,False,0.171,0.1979,est,0.1938
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,reb,0.5,False,0.9623,0.973,est,0.9714
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,reb,1.5,False,0.8499,0.8888,est,0.8828
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,reb,2.5,False,0.6748,0.7349,book,0.7256
@@ -4771,35 +4771,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,blk,0.5,False,0.547,0.5039,book,0.5105
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,blk,1.5,False,0.2,0.1815,book,0.1843
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,blk,2.5,False,0.056,0.0631,book,0.062
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,9.5,False,0.785,0.7865,book,0.7863
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,10.5,False,0.7184,0.775,est,0.7663
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,11.5,False,0.6473,0.7125,est,0.7024
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,12.5,False,0.5727,0.6441,est,0.6331
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,13.5,False,0.5011,0.5756,est,0.5641
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,14.5,True,0.4331,0.5078,book,0.4963
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,15.5,False,0.367,0.4391,est,0.428
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,16.5,False,0.3073,0.3746,est,0.3643
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,17.5,False,0.2535,0.3144,est,0.3051
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,18.5,False,0.2078,0.2616,est,0.2533
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,19.5,False,0.1671,0.2492,book,0.2366
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,9.5,False,0.7133,0.7744,est,0.765
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,10.5,False,0.6398,0.7101,est,0.6993
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,11.5,False,0.559,0.6362,est,0.6243
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,12.5,False,0.4839,0.564,est,0.5517
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,13.5,True,0.41,0.4895,book,0.4773
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,14.5,False,0.3462,0.4221,est,0.4104
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,15.5,False,0.2867,0.3567,est,0.3459
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,16.5,False,0.2325,0.2947,est,0.2852
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,17.5,False,0.1861,0.2398,est,0.2315
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,9.5,False,0.785,0.7819,book,0.7824
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,10.5,False,0.7184,0.773,est,0.7646
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,11.5,False,0.6473,0.7101,est,0.7004
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,12.5,False,0.5727,0.6415,est,0.6309
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,13.5,False,0.5011,0.5728,est,0.5617
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,14.5,True,0.4331,0.5049,book,0.4938
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,15.5,False,0.367,0.4362,est,0.4256
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,16.5,False,0.3073,0.3719,est,0.362
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,17.5,False,0.2535,0.312,est,0.303
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,18.5,False,0.2078,0.2593,est,0.2514
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pra,19.5,False,0.1671,0.2447,book,0.2327
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,9.5,False,0.7133,0.7699,est,0.7612
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,10.5,False,0.6398,0.7048,est,0.6948
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,11.5,False,0.559,0.6303,est,0.6193
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,12.5,False,0.4839,0.5577,est,0.5463
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,13.5,True,0.41,0.4831,book,0.4718
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,14.5,False,0.3462,0.4159,est,0.4052
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,15.5,False,0.2867,0.3508,est,0.3409
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,16.5,False,0.2325,0.2895,est,0.2807
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pr,17.5,False,0.1861,0.2352,est,0.2276
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,6.5,False,0.7815,,model only,0.7815
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,7.5,False,0.7022,,model only,0.7022
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,8.5,False,0.6146,,model only,0.6146
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,9.5,False,0.5293,0.5666,book,0.5609
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,9.5,False,0.5293,0.5592,book,0.5546
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,10.5,False,0.447,,model only,0.447
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,11.5,False,0.3712,,model only,0.3712
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,12.5,False,0.3034,,model only,0.3034
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,13.5,False,0.2449,,model only,0.2449
-401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,14.5,False,0.1927,0.2655,book,0.2543
+401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,pa,14.5,False,0.1927,0.2596,book,0.2493
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,ra,2.5,False,0.8296,,model only,0.8296
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,ra,3.5,False,0.6818,,model only,0.6818
 401910022,LAC @ SAS,LAC,1627884,Derrick Jones Jr.,ra,4.5,False,0.5156,,model only,0.5156

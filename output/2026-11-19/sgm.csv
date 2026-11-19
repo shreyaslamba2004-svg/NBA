@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 GSW @ MEM,game over 226.5 + Jaylen Wells 10+ pra,2,0.5962,0.4185,2.39,2.51,2.31,-0.0333,1.027,2.10-2.50
 GSW @ MEM,game over 226.5 + Cedric Coward 10+ pts,2,0.5718,0.4173,2.4,2.52,2.31,-0.0376,1.031,2.10-2.50
+GSW @ MEM,MEM win + Cameron Boozer 4+ ast,2,0.4535,0.4787,2.09,2.19,2.0,-0.0439,1.027,1.85-2.10
 GSW @ MEM,game over 226.5 + Cameron Boozer 6+ reb,2,0.559,0.4129,2.42,2.54,2.29,-0.0554,1.014,2.10-2.50
 GSW @ MEM,MEM win + Cedric Coward 10+ pts,2,0.4958,0.5552,1.8,1.89,1.7,-0.0571,1.025,1.65-1.85
 GSW @ MEM,MEM win + Jaylen Wells 10+ pra,2,0.5144,0.554,1.8,1.9,1.7,-0.0575,1.017,1.65-1.85
+GSW @ MEM,game over 226.5 + Yaxel Lendeborg 15+ pr,2,0.6372,0.47,2.13,2.23,2.0,-0.06,1.009,1.85-2.10
 GSW @ MEM,game over 226.5 + Jerami Grant 5+ pa,2,0.636,0.4705,2.13,2.23,1.99,-0.0619,1.007,1.85-2.10
 GSW @ MEM,MEM win + Yaxel Lendeborg 4+ reb,2,0.5183,0.5878,1.7,1.79,1.57,-0.0793,1.003,1.50-1.65
-GSW @ MEM,Jaylen Wells 10+ pts + Jerami Grant 5+ pa,2,0.6092,0.4903,2.04,2.14,1.87,-0.0854,1.001,1.85-2.10
-GSW @ MEM,Jaylen Wells 15+ pra + Jerami Grant 5+ pa,2,0.5763,0.4788,2.09,2.19,1.91,-0.0858,1.001,1.85-2.10
 GSW @ MEM,MEM win + Cameron Boozer 6+ reb,2,0.4781,0.5419,1.85,1.94,1.68,-0.0869,0.995,1.65-1.85
 GSW @ MEM,Cedric Coward stl under 1.5 + Yaxel Lendeborg 4+ reb,2,0.6418,0.5524,1.81,1.9,1.63,-0.1003,1.001,1.50-1.65
-GSW @ MEM,Cedric Coward stl under 1.5 + Jerami Grant 5+ pa,2,0.6837,0.589,1.7,1.78,1.53,-0.1007,1.0,1.50-1.65
+GSW @ MEM,Cedric Coward stl under 1.5 + Yaxel Lendeborg 15+ pr,2,0.6837,0.5873,1.7,1.79,1.53,-0.1005,1.0,1.50-1.65
 POR @ MIL,Jrue Holiday 19+ pa + POR win,2,0.4992,0.4044,2.47,2.6,2.45,-0.0111,1.032,2.10-2.50
 POR @ MIL,Tyler Herro pts under 19.5 + POR win,2,0.4735,0.4076,2.45,2.58,2.42,-0.0125,1.046,2.10-2.50
 POR @ MIL,Jrue Holiday 23+ pra + POR win,2,0.5079,0.409,2.44,2.57,2.41,-0.0134,1.026,2.10-2.50
