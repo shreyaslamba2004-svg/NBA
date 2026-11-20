@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHA @ ATL,ATL win + Sion James 3pm under 1.5,2,0.4411,0.3923,2.55,2.68,2.47,-0.0305,1.035,2.10-2.50
-CHA @ ATL,Luguentz Dort 10+ pr + ATL win,2,0.4823,0.4254,2.35,2.47,2.25,-0.0413,1.022,2.10-2.50
-CHA @ ATL,ATL win + Luguentz Dort 10+ pra,2,0.533,0.4718,2.12,2.23,2.02,-0.0467,1.017,1.85-2.10
-CHA @ ATL,Luguentz Dort 13+ pra + Dyson Daniels 4+ ast,2,0.5259,0.397,2.52,2.65,2.36,-0.0617,1.014,2.10-2.50
-CHA @ ATL,ATL win + Dyson Daniels 4+ ast,2,0.5264,0.5221,1.92,2.01,1.79,-0.068,1.018,1.65-1.85
-CHA @ ATL,Luguentz Dort 13+ pra + Sion James 5+ pa,2,0.6091,0.4535,2.21,2.32,2.05,-0.0684,1.004,1.85-2.10
-CHA @ ATL,Luguentz Dort 13+ pra + Dyson Daniels 15+ pra,2,0.6,0.4521,2.21,2.32,2.06,-0.0688,1.006,1.85-2.10
-CHA @ ATL,ATL win + Jalen Johnson 4+ ast,2,0.5854,0.5798,1.72,1.81,1.6,-0.074,1.011,1.50-1.65
-CHA @ ATL,ATL win + Dyson Daniels 15+ pra,2,0.5998,0.5938,1.68,1.77,1.56,-0.0762,1.009,1.50-1.65
-CHA @ ATL,ATL win + Luguentz Dort 5+ pr,2,0.6163,0.5959,1.68,1.76,1.55,-0.077,1.003,1.50-1.65
-CHA @ ATL,Luguentz Dort 8+ pts + Dyson Daniels 10+ pr,2,0.6356,0.4981,2.01,2.11,1.84,-0.0819,1.001,1.65-1.85
-CHA @ ATL,Sion James 3pm under 1.5 + Luguentz Dort 5+ pr,2,0.6537,0.5069,1.97,2.07,1.81,-0.0827,0.998,1.65-1.85
+CHA @ ATL,Luguentz Dort 10+ pr + ATL win,2,0.4687,0.4301,2.32,2.44,2.25,-0.0306,1.027,2.10-2.50
+CHA @ ATL,ATL win + Sion James 3pm under 1.5,2,0.4053,0.3906,2.56,2.69,2.47,-0.0346,1.034,2.10-2.50
+CHA @ ATL,Luguentz Dort 10+ pra + ATL win,2,0.5125,0.4753,2.1,2.21,2.02,-0.0396,1.02,1.85-2.10
+CHA @ ATL,Luguentz Dort 13+ pra + Onyeka Okongwu 20+ pra,2,0.5675,0.3913,2.56,2.68,2.44,-0.0464,1.01,2.10-2.50
+CHA @ ATL,ATL win + Onyeka Okongwu 20+ pra,2,0.5052,0.515,1.94,2.04,1.84,-0.0522,1.027,1.65-1.85
+CHA @ ATL,Luguentz Dort 13+ pra + Dyson Daniels 10+ pa,2,0.6368,0.4509,2.22,2.33,2.09,-0.0567,1.004,1.85-2.10
+CHA @ ATL,ATL win + Onyeka Okongwu 10+ pts,2,0.5158,0.5353,1.87,1.96,1.76,-0.0579,1.025,1.65-1.85
+CHA @ ATL,Luguentz Dort 13+ pra + Dyson Daniels 15+ pra,2,0.6453,0.4569,2.19,2.3,2.06,-0.059,1.002,1.85-2.10
+CHA @ ATL,ATL win + Dyson Daniels 4+ ast,2,0.5102,0.524,1.91,2.0,1.79,-0.0646,1.015,1.65-1.85
+CHA @ ATL,ATL win + Dyson Daniels 10+ pa,2,0.5615,0.5877,1.7,1.79,1.58,-0.0715,1.012,1.50-1.65
+CHA @ ATL,ATL win + Jalen Johnson 4+ ast,2,0.5559,0.5793,1.73,1.81,1.6,-0.0747,1.007,1.50-1.65
+CHA @ ATL,ATL win + Dyson Daniels 15+ pra,2,0.5678,0.5943,1.68,1.77,1.56,-0.0756,1.007,1.50-1.65
 ORL @ BKN,Mikel Brown Jr. 3pm under 1.5 + Anthony Black 1+ stl,2,0.5277,0.392,2.55,2.68,2.38,-0.0674,1.004,2.10-2.50
 ORL @ BKN,Julius Randle ra under 10.5 + Desmond Bane 10+ pts,2,0.5865,0.4335,2.31,2.42,2.15,-0.0699,0.998,2.10-2.50
 ORL @ BKN,Mikel Brown Jr. 3pm under 1.5 + Wendell Carter Jr. 10+ pa,2,0.5111,0.387,2.58,2.71,2.4,-0.0705,1.004,2.10-2.50
@@ -57,15 +57,15 @@ WAS @ CHI,Anthony Davis 8+ reb + Kyshawn George 20+ pra,2,0.6589,0.5932,1.69,1.7
 NOP @ OKC,Jeremiah Fears pra under 27.5 + OKC win,2,0.5558,0.4441,2.25,2.36,2.2,-0.0233,1.028,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pa under 22.5,2,0.5542,0.4526,2.21,2.32,2.15,-0.0262,1.031,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pts under 16.5,2,0.544,0.4406,2.27,2.38,2.21,-0.0274,1.027,2.10-2.50
+NOP @ OKC,OKC win + Jaylin Williams 3pm under 1.5,2,0.6545,0.5373,1.86,1.95,1.74,-0.0639,0.992,1.65-1.85
 NOP @ OKC,Ajay Mitchell pts under 18.5 + Herbert Jones 5+ pr,2,0.5967,0.4424,2.26,2.37,2.1,-0.0723,0.998,1.85-2.10
 NOP @ OKC,Jeremiah Fears pra under 27.5 + Kenrich Williams 5+ pa,2,0.595,0.4526,2.21,2.32,2.05,-0.0738,1.003,1.85-2.10
 NOP @ OKC,Ajay Mitchell pr under 22.5 + Saddiq Bey 1+ 3pm,2,0.5849,0.4415,2.27,2.38,2.1,-0.0744,1.001,1.85-2.10
-NOP @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra,2,0.6673,0.5899,1.7,1.78,1.52,-0.1035,1.003,1.50-1.65
-NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa,3,0.6273,0.5372,1.86,1.95,1.65,-0.1122,1.017,1.65-1.85
-NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra,3,0.5585,0.4852,2.06,2.16,1.82,-0.1153,1.016,1.65-1.85
-NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Saddiq Bey 1+ 3pm,3,0.6248,0.5338,1.87,1.97,1.65,-0.1209,1.007,1.50-1.65
-NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6437,0.5711,1.75,1.84,1.54,-0.122,1.013,1.50-1.65
-NOP @ OKC,Shai Gilgeous-Alexander 4+ ast + Saddiq Bey 1+ 3pm + Kenrich Williams 10+ pra,3,0.6095,0.5029,1.99,2.09,1.69,-0.1497,1.004,1.65-1.85
+NOP @ OKC,Jaylin Williams 3pm under 1.5 + Kenrich Williams 5+ pa,2,0.7234,0.5653,1.77,1.86,1.62,-0.0835,0.999,1.50-1.65
+NOP @ OKC,Jaylin Williams 3pm under 1.5 + Saddiq Bey 1+ 3pm,2,0.7274,0.5671,1.76,1.85,1.62,-0.0837,0.998,1.50-1.65
+NOP @ OKC,Jaylin Williams 3pm under 1.5 + Herbert Jones 5+ pr,2,0.7557,0.5983,1.67,1.76,1.53,-0.0843,1.001,1.50-1.65
+NOP @ OKC,Jaylin Williams 3pm under 1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.6562,0.5104,1.96,2.06,1.79,-0.0851,0.996,1.65-1.85
+NOP @ OKC,Jaylin Williams 3pm under 1.5 + Kenrich Williams 10+ pra,2,0.6441,0.5107,1.96,2.06,1.79,-0.0865,0.999,1.65-1.85
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 1+ 3pm,2,0.6457,0.4401,2.27,2.39,2.16,-0.0515,1.0,2.10-2.50
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Ace Bailey 10+ pts,2,0.6349,0.4339,2.3,2.42,2.18,-0.0529,0.999,2.10-2.50
 PHX @ UTA,game over 225.5 + Ace Bailey 10+ pts,2,0.6042,0.3898,2.57,2.69,2.43,-0.0531,1.03,2.10-2.50
