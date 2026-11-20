@@ -11,8 +11,8 @@ CHA @ ATL,ATL win + Dyson Daniels 4+ ast,2,0.5264,0.5206,1.92,2.02,1.79,-0.0675,
 CHA @ ATL,ATL win + Dyson Daniels 15+ pra,2,0.5998,0.592,1.69,1.77,1.56,-0.0756,1.009,1.50-1.65
 CHA @ ATL,ATL win + Luguentz Dort 5+ pr,2,0.6163,0.5959,1.68,1.76,1.55,-0.077,1.003,1.50-1.65
 CHA @ ATL,ATL win + Dyson Daniels 10+ pr,2,0.6069,0.5983,1.67,1.75,1.54,-0.0786,1.005,1.50-1.65
-ORL @ BKN,Franz Wagner reb under 6.5 + Anthony Black 1+ stl,2,0.5261,0.3886,2.57,2.7,2.4,-0.0672,1.003,2.10-2.50
 ORL @ BKN,Mikel Brown Jr. 3pm under 1.5 + Anthony Black 1+ stl,2,0.5277,0.392,2.55,2.68,2.38,-0.0674,1.004,2.10-2.50
+ORL @ BKN,Franz Wagner ra under 13.5 + Anthony Black 1+ stl,2,0.5082,0.3733,2.68,2.81,2.5,-0.0686,0.998,2.10-2.50
 ORL @ BKN,Mikel Brown Jr. 3pm under 1.5 + Wendell Carter Jr. 10+ pa,2,0.5111,0.3856,2.59,2.72,2.41,-0.0698,1.004,2.10-2.50
 ORL @ BKN,Egor Demin 3pm under 2.5 + Anthony Black 1+ stl,2,0.6159,0.473,2.11,2.22,1.95,-0.0799,0.998,1.85-2.10
 ORL @ BKN,Egor Demin 3pm under 2.5 + Jalen Suggs 1+ stl,2,0.6015,0.4651,2.15,2.26,1.98,-0.0803,0.999,1.85-2.10
@@ -89,12 +89,12 @@ HOU @ DEN,Cameron Johnson 10+ pr + Christian Braun 10+ pr + Nikola Jokic 6+ ast,
 SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.5914,0.4337,2.31,2.42,2.21,-0.0407,0.988,2.10-2.50
 SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6026,0.4466,2.24,2.35,2.14,-0.0422,0.989,2.10-2.50
 SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5954,0.4369,2.29,2.4,2.19,-0.0422,0.987,2.10-2.50
-SAC @ LAL,LAL win + Malik Monk pts under 11.5,2,0.5424,0.4594,2.18,2.29,2.08,-0.0457,1.017,1.85-2.10
-SAC @ LAL,LAL win + Malik Monk pa under 15.5,2,0.5339,0.4557,2.19,2.3,2.09,-0.0461,1.019,1.85-2.10
-SAC @ LAL,Quentin Grimes pa under 20.5 + LAL win,2,0.6231,0.471,2.12,2.23,2.02,-0.0495,0.987,1.85-2.10
-SAC @ LAL,Quentin Grimes pa under 20.5 + Keegan Murray 5+ pa,2,0.7005,0.5129,1.95,2.05,1.82,-0.0665,1.001,1.65-1.85
-SAC @ LAL,Quentin Grimes pa under 20.5 + Darius Acuff Jr. 20+ pra,2,0.687,0.5039,1.98,2.08,1.85,-0.068,1.0,1.65-1.85
-SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6635,0.5187,1.93,2.02,1.77,-0.0804,1.002,1.65-1.85
+SAC @ LAL,LAL win + Malik Monk pts under 11.5,2,0.5424,0.465,2.15,2.26,2.05,-0.0482,1.017,1.85-2.10
+SAC @ LAL,Matisse Thybulle 3pm under 1.5 + LAL win,2,0.5951,0.4658,2.15,2.25,2.03,-0.0533,0.991,1.85-2.10
+SAC @ LAL,Quentin Grimes pra under 23.5 + Keegan Murray 5+ pa,2,0.6636,0.4712,2.12,2.23,2.0,-0.0596,1.0,1.85-2.10
+SAC @ LAL,Matisse Thybulle 3pm under 1.5 + Keegan Murray 5+ pa,2,0.6649,0.504,1.98,2.08,1.83,-0.076,0.999,1.65-1.85
+SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6635,0.5185,1.93,2.03,1.77,-0.0803,1.002,1.65-1.85
+SAC @ LAL,Quentin Grimes 3pm under 2.5 + Darius Acuff Jr. 20+ pra,2,0.6495,0.5092,1.96,2.06,1.8,-0.0837,0.999,1.65-1.85
+SAC @ LAL,Luka Doncic 3+ 3pm + Walker Kessler 8+ reb,2,0.6967,0.599,1.67,1.75,1.5,-0.101,1.0,1.50-1.65
 SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Matisse Thybulle 5+ pr,3,0.666,0.5697,1.76,1.84,1.55,-0.1177,1.01,1.50-1.65
-SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Darius Acuff Jr. 4+ ast,3,0.6715,0.567,1.76,1.85,1.54,-0.1242,1.0,1.50-1.65
-SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Keegan Murray 10+ pr,3,0.6572,0.5583,1.79,1.88,1.57,-0.1255,0.999,1.50-1.65
+SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Keegan Murray 10+ pr,3,0.6572,0.5576,1.79,1.88,1.57,-0.1252,0.999,1.50-1.65
