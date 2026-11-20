@@ -8,8 +8,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,7.5,draftkings,1960.0,20.6,0.0995,10.05,0.0454,0.0454,0.0541,,1.0491,0.0537,0.1062,0.0014,False,True,False,,,
 401910020,POR @ MIL,prop_pa,over,Deni Avdija,1630166.0,39.5,draftkings,610.0,7.1,0.2723,3.67,0.1316,0.1316,0.1406,,0.9331,0.1533,0.0884,0.0036,False,True,False,Deni Avdija,0.0,0.3081
 401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,10.5,draftkings,1560.0,16.6,0.1132,8.84,0.0563,0.0563,0.0569,,0.8788,0.0651,0.08,0.0013,False,False,False,Deni Avdija,0.0,0.1237
-401910021,NYK @ MIN,prop_pr,over,Joan Beringer,1642866.0,19.5,draftkings,1100.0,12.0,0.1556,6.43,0.0779,0.0779,0.0777,,0.8668,0.0898,0.0781,0.0018,False,True,False,Jonathan Kuminga,0.222,0.1031
 401910021,NYK @ MIN,prop_pra,over,Joan Beringer,1642866.0,19.5,draftkings,950.0,10.5,0.1778,5.62,0.089,0.089,0.0888,,0.8667,0.1027,0.0781,0.0021,False,True,False,Jonathan Kuminga,0.2528,0.1191
+401910021,NYK @ MIN,prop_pr,over,Joan Beringer,1642866.0,19.5,draftkings,1100.0,12.0,0.1556,6.43,0.0779,0.0779,0.0777,,0.8668,0.0898,0.0781,0.0018,False,True,False,Jonathan Kuminga,0.222,0.1031
 401910020,POR @ MIL,prop_ast,over,Deni Avdija,1630166.0,9.5,draftkings,960.0,10.6,0.1747,5.72,0.0882,0.0882,0.0866,,0.8521,0.1015,0.0759,0.002,False,True,False,Deni Avdija,0.0,0.1892
 401910020,POR @ MIL,prop_ast,over,Jaime Jaquez Jr.,1631170.0,5.5,draftkings,541.0,6.41,0.2884,3.47,0.1458,0.1458,0.1426,,0.8486,0.1678,0.0753,0.0035,False,True,False,,,
 401910022,LAC @ SAS,prop_ast,over,Devin Vassell,1630170.0,5.5,draftkings,1220.0,13.2,0.1359,7.36,0.0708,0.0708,0.0651,,0.7938,0.0808,0.0669,0.0014,False,True,False,,,
@@ -61,10 +61,10 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910019,GSW @ MEM,prop_reb,over,Jaylen Wells,1642377.0,6.5,draftkings,1900.0,20.0,0.069,14.5,0.0467,0.0467,0.0223,,0.3797,0.0502,0.0031,0.0,False,False,False,,,
 401910020,POR @ MIL,prop_pa,over,Deni Avdija,1630166.0,34.5,draftkings,227.0,3.27,0.4216,2.37,0.2858,0.2858,0.1358,,0.3788,0.3067,0.003,0.0003,False,True,False,Deni Avdija,0.0,0.468
 401910022,LAC @ SAS,moneyline,LAC,,,,pointsbetau,700.0,8.0,0.2231,4.48,0.1199,0.1253,0.0978,4.24,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
+401910022,LAC @ SAS,moneyline,LAC,,,,unibet,700.0,8.0,0.2231,4.48,0.1189,0.1253,0.0978,5.09,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
+401910022,LAC @ SAS,moneyline,LAC,,,,sportsbet,700.0,8.0,0.2231,4.48,0.1199,0.1253,0.0978,4.24,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
 401910022,LAC @ SAS,moneyline,LAC,,,,tabtouch,700.0,8.0,0.2231,4.48,0.118,0.1253,0.0978,5.96,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
 401910022,LAC @ SAS,moneyline,LAC,,,,tab,700.0,8.0,0.2231,4.48,0.1199,0.1253,0.0978,4.24,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
-401910022,LAC @ SAS,moneyline,LAC,,,,sportsbet,700.0,8.0,0.2231,4.48,0.1199,0.1253,0.0978,4.24,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
-401910022,LAC @ SAS,moneyline,LAC,,,,unibet,700.0,8.0,0.2231,4.48,0.1189,0.1253,0.0978,5.09,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
 401910022,LAC @ SAS,moneyline,LAC,,,,betr_au,700.0,8.0,0.2231,4.48,0.1199,0.1253,0.0978,4.24,0.7852,0.1253,0.0028,0.0001,False,True,True,,,
 401910020,POR @ MIL,prop_pts,over,Scoot Henderson,1630703.0,17.5,draftkings,395.0,4.95,0.2769,3.61,0.1888,0.1888,0.0881,,0.3706,0.2024,0.0017,0.0001,False,False,False,Deni Avdija,0.4341,0.2378
 401910022,LAC @ SAS,prop_ast,over,Victor Wembanyama,1641705.0,6.5,draftkings,1000.0,11.0,0.1245,8.03,0.085,0.085,0.0396,,0.3698,0.0911,0.0016,0.0,False,False,False,,,

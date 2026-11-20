@@ -1,15 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+GSW @ MEM,game over 225.5 + Jerami Grant 10+ pra,2,0.553,0.4126,2.42,2.55,2.36,-0.0274,1.023,2.10-2.50
+GSW @ MEM,game over 225.5 + Jaylen Wells 10+ pra,2,0.5697,0.4212,2.37,2.49,2.31,-0.0285,1.02,2.10-2.50
+GSW @ MEM,game over 225.5 + De'Anthony Melton 10+ pa,2,0.5116,0.4066,2.46,2.58,2.38,-0.0328,1.03,2.10-2.50
 GSW @ MEM,MEM win + Jerami Grant 10+ pra,2,0.4898,0.5435,1.84,1.93,1.76,-0.0413,1.017,1.65-1.85
 GSW @ MEM,MEM win + Jaylen Wells 10+ pra,2,0.5044,0.5545,1.8,1.89,1.73,-0.0429,1.013,1.65-1.85
-GSW @ MEM,game over 226.5 + Jerami Grant 10+ pra,2,0.5359,0.4154,2.41,2.53,2.3,-0.0465,1.025,2.10-2.50
-GSW @ MEM,game over 226.5 + Jaylen Wells 10+ pra,2,0.5513,0.4234,2.36,2.48,2.25,-0.049,1.02,2.10-2.50
-GSW @ MEM,game over 226.5 + De'Anthony Melton 10+ pa,2,0.4952,0.4088,2.45,2.57,2.32,-0.0532,1.03,2.10-2.50
+GSW @ MEM,game over 225.5 + Yaxel Lendeborg 4+ reb,2,0.5751,0.4583,2.18,2.29,2.08,-0.0449,1.018,1.85-2.10
+GSW @ MEM,game over 225.5 + Jerami Grant 5+ pa,2,0.6059,0.4669,2.14,2.25,2.03,-0.0505,1.005,1.85-2.10
+GSW @ MEM,game over 225.5 + Al Horford 5+ pra,2,0.5853,0.4653,2.15,2.26,2.03,-0.0537,1.008,1.85-2.10
 GSW @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.4863,0.5599,1.79,1.88,1.69,-0.0562,1.009,1.65-1.85
 GSW @ MEM,MEM win + Jerami Grant 5+ pa,2,0.5393,0.6181,1.62,1.7,1.52,-0.0594,1.004,1.50-1.65
-GSW @ MEM,game over 226.5 + Yaxel Lendeborg 4+ reb,2,0.5567,0.4609,2.17,2.28,2.03,-0.0647,1.018,1.85-2.10
 GSW @ MEM,MEM win + Yaxel Lendeborg 4+ reb,2,0.5037,0.5968,1.68,1.76,1.56,-0.0692,1.0,1.50-1.65
-GSW @ MEM,game over 226.5 + Jerami Grant 5+ pa,2,0.5862,0.4693,2.13,2.24,1.98,-0.0708,1.005,1.85-2.10
-GSW @ MEM,MEM win + Jaylen Wells 10+ pra + Jerami Grant 10+ pra,3,0.4473,0.4456,2.24,2.36,2.08,-0.0714,1.032,1.85-2.10
 GSW @ MEM,MEM win + Al Horford 5+ pra,2,0.5158,0.6099,1.64,1.72,1.52,-0.072,0.997,1.50-1.65
 POR @ MIL,Tyler Herro pts under 20.5 + POR win,2,0.4741,0.4031,2.48,2.6,2.43,-0.0188,1.045,2.10-2.50
 POR @ MIL,Jrue Holiday 19+ pa + POR win,2,0.5186,0.4231,2.36,2.48,2.31,-0.0218,1.029,2.10-2.50
