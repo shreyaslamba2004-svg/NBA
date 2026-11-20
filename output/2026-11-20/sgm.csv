@@ -37,8 +37,8 @@ TOR @ DET,Paul Reed 18+ pr + Jamal Shead 5+ pr,2,0.6475,0.4538,2.2,2.31,2.08,-0.
 TOR @ DET,Paul Reed 20+ pra + Jamal Shead 5+ pr,2,0.6472,0.4519,2.21,2.32,2.09,-0.0572,1.002,1.85-2.10
 TOR @ DET,Paul Reed 20+ pra + Javonte Green 5+ pr,2,0.6427,0.4612,2.17,2.28,2.04,-0.0601,1.004,1.85-2.10
 TOR @ DET,DET win + Kevin Huerter 10+ pa,2,0.6255,0.6002,1.67,1.75,1.56,-0.0622,1.017,1.50-1.65
-TOR @ DET,DET win + Daniss Jenkins 10+ pts,2,0.614,0.5903,1.69,1.78,1.59,-0.0627,1.016,1.50-1.65
 TOR @ DET,DET win + Javonte Green 5+ pr,2,0.6654,0.618,1.62,1.7,1.51,-0.0676,1.004,1.50-1.65
+TOR @ DET,DET win + Jamal Shead 5+ pr,2,0.665,0.6009,1.66,1.75,1.54,-0.0717,0.994,1.50-1.65
 TOR @ DET,DET win + Scottie Barnes 4+ ast,2,0.603,0.5268,1.9,1.99,1.76,-0.0725,0.986,1.65-1.85
 TOR @ DET,Jamison Battle 3pm under 2.5 + Jamal Shead 5+ pr,2,0.6602,0.5096,1.96,2.06,1.8,-0.0809,1.0,1.65-1.85
 WAS @ CHI,WAS +2.5 + Kyshawn George 20+ pra,2,0.3415,0.3922,2.55,2.68,2.44,-0.0415,1.048,2.10-2.50
@@ -54,15 +54,15 @@ WAS @ CHI,Anthony Davis 8+ reb + Kyshawn George 20+ pra,2,0.6589,0.5937,1.68,1.7
 NOP @ OKC,OKC win + Jeremiah Fears pa under 22.5,2,0.5542,0.4526,2.21,2.32,2.15,-0.0262,1.031,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pra under 27.5,2,0.5558,0.4508,2.22,2.33,2.16,-0.0267,1.028,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pts under 16.5,2,0.544,0.446,2.24,2.35,2.17,-0.03,1.027,2.10-2.50
-NOP @ OKC,Yves Missi reb under 7.5 + OKC win,2,0.5848,0.4661,2.15,2.25,2.04,-0.047,1.003,1.85-2.10
-NOP @ OKC,Ajay Mitchell pts under 18.5 + Saddiq Bey 10+ pa,2,0.5924,0.4447,2.25,2.36,2.08,-0.0748,0.998,1.85-2.10
-NOP @ OKC,Ajay Mitchell pr under 22.5 + Saddiq Bey 1+ 3pm,2,0.5849,0.4434,2.26,2.37,2.09,-0.0752,1.001,1.85-2.10
-NOP @ OKC,Yves Missi reb under 7.5 + Jared McCain 1+ 3pm,2,0.6599,0.5188,1.93,2.02,1.77,-0.0819,1.001,1.65-1.85
-NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 10+ pa,2,0.6596,0.5134,1.95,2.05,1.78,-0.0853,0.995,1.65-1.85
-NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 15+ pra,2,0.643,0.5007,2.0,2.1,1.83,-0.0857,0.995,1.65-1.85
-NOP @ OKC,OKC win + Kenrich Williams 5+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.6273,0.543,1.84,1.93,1.63,-0.114,1.017,1.50-1.65
-NOP @ OKC,OKC win + Saddiq Bey 1+ 3pm + Shai Gilgeous-Alexander 4+ ast,3,0.6248,0.5426,1.84,1.94,1.62,-0.1237,1.007,1.50-1.65
-NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6437,0.5779,1.73,1.82,1.52,-0.1239,1.013,1.50-1.65
+NOP @ OKC,Yves Missi reb under 7.5 + OKC win,2,0.5848,0.4605,2.17,2.28,2.08,-0.0444,1.003,1.85-2.10
+NOP @ OKC,Ajay Mitchell pts under 19.5 + Saddiq Bey 1+ 3pm,2,0.6171,0.4645,2.15,2.26,2.0,-0.0733,1.001,1.85-2.10
+NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 1+ 3pm,2,0.6433,0.4811,2.08,2.18,1.92,-0.0741,0.999,1.85-2.10
+NOP @ OKC,Yves Missi reb under 7.5 + Jared McCain 1+ 3pm,2,0.6599,0.5125,1.95,2.05,1.8,-0.0793,1.001,1.65-1.85
+NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 10+ pa,2,0.6596,0.5063,1.98,2.07,1.81,-0.0824,0.995,1.65-1.85
+NOP @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra,2,0.6673,0.5899,1.7,1.78,1.52,-0.1035,1.003,1.50-1.65
+NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa,3,0.6273,0.5372,1.86,1.95,1.65,-0.1122,1.017,1.65-1.85
+NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Saddiq Bey 1+ 3pm,3,0.6248,0.5338,1.87,1.97,1.65,-0.1209,1.007,1.50-1.65
+NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6437,0.5711,1.75,1.84,1.54,-0.122,1.013,1.50-1.65
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 1+ 3pm,2,0.6457,0.4401,2.27,2.39,2.16,-0.0515,1.0,2.10-2.50
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Ace Bailey 10+ pts,2,0.6349,0.4339,2.3,2.42,2.18,-0.0529,0.999,2.10-2.50
 PHX @ UTA,game over 225.5 + Ace Bailey 10+ pts,2,0.6042,0.3898,2.57,2.69,2.43,-0.0531,1.03,2.10-2.50
@@ -87,15 +87,15 @@ HOU @ DEN,Cameron Johnson 10+ pr + Christian Braun 10+ pr + Nikola Jokic 8+ reb,
 HOU @ DEN,Cameron Johnson 10+ pr + Christian Braun 10+ pr + Jamal Murray 4+ ast,3,0.6379,0.5038,1.98,2.08,1.71,-0.141,1.006,1.65-1.85
 HOU @ DEN,Cameron Johnson 10+ pr + Christian Braun 10+ pr + Jabari Smith Jr. 10+ pts,3,0.6434,0.5165,1.94,2.03,1.66,-0.1441,1.006,1.65-1.85
 HOU @ DEN,Cameron Johnson 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 8+ reb,3,0.6088,0.4907,2.04,2.14,1.74,-0.1441,1.006,1.65-1.85
-SAC @ LAL,LAL win + Malik Monk pts under 11.5,2,0.548,0.4617,2.17,2.27,2.08,-0.0409,1.02,1.85-2.10
-SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.5887,0.4334,2.31,2.42,2.21,-0.0412,0.987,2.10-2.50
-SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5939,0.4371,2.29,2.4,2.19,-0.0419,0.987,2.10-2.50
-SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6011,0.4465,2.24,2.35,2.14,-0.0423,0.989,2.10-2.50
-SAC @ LAL,LAL win + Malik Monk pa under 15.5,2,0.5397,0.4573,2.19,2.3,2.09,-0.0428,1.019,1.85-2.10
-SAC @ LAL,Quentin Grimes pa under 20.5 + LAL win,2,0.6207,0.4711,2.12,2.23,2.02,-0.0492,0.987,1.85-2.10
-SAC @ LAL,Quentin Grimes pa under 20.5 + Keegan Murray 5+ pa,2,0.6987,0.5126,1.95,2.05,1.82,-0.0671,1.001,1.65-1.85
-SAC @ LAL,Quentin Grimes pa under 20.5 + Darius Acuff Jr. 20+ pra,2,0.6847,0.5028,1.99,2.09,1.85,-0.07,0.998,1.65-1.85
-SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6607,0.5183,1.93,2.03,1.77,-0.0811,1.002,1.65-1.85
-SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Matisse Thybulle 5+ pr,3,0.6602,0.5699,1.75,1.84,1.55,-0.1175,1.011,1.50-1.65
-SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Darius Acuff Jr. 4+ ast,3,0.6659,0.5664,1.77,1.85,1.54,-0.1252,0.999,1.50-1.65
-SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Keegan Murray 10+ pr,3,0.6449,0.5577,1.79,1.88,1.57,-0.1264,1.001,1.50-1.65
+SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.5914,0.4337,2.31,2.42,2.21,-0.0407,0.988,2.10-2.50
+SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6026,0.4466,2.24,2.35,2.14,-0.0422,0.989,2.10-2.50
+SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5954,0.4369,2.29,2.4,2.19,-0.0422,0.987,2.10-2.50
+SAC @ LAL,LAL win + Malik Monk pts under 11.5,2,0.5424,0.4594,2.18,2.29,2.08,-0.0457,1.017,1.85-2.10
+SAC @ LAL,LAL win + Malik Monk pa under 15.5,2,0.5339,0.4557,2.19,2.3,2.09,-0.0461,1.019,1.85-2.10
+SAC @ LAL,Quentin Grimes pa under 20.5 + LAL win,2,0.6231,0.471,2.12,2.23,2.02,-0.0495,0.987,1.85-2.10
+SAC @ LAL,Quentin Grimes pa under 20.5 + Keegan Murray 5+ pa,2,0.7005,0.5129,1.95,2.05,1.82,-0.0665,1.001,1.65-1.85
+SAC @ LAL,Quentin Grimes pa under 20.5 + Darius Acuff Jr. 20+ pra,2,0.687,0.5039,1.98,2.08,1.85,-0.068,1.0,1.65-1.85
+SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6635,0.5187,1.93,2.02,1.77,-0.0804,1.002,1.65-1.85
+SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Matisse Thybulle 5+ pr,3,0.666,0.5697,1.76,1.84,1.55,-0.1177,1.01,1.50-1.65
+SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Darius Acuff Jr. 4+ ast,3,0.6715,0.567,1.76,1.85,1.54,-0.1242,1.0,1.50-1.65
+SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Keegan Murray 10+ pr,3,0.6572,0.5583,1.79,1.88,1.57,-0.1255,0.999,1.50-1.65
