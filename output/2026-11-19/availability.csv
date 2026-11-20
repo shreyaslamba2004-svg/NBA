@@ -1,9 +1,9 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401910019,MEM,905041935,Cameron Boozer,,,1.0,,,
-401910019,MEM,1642907,Cedric Coward,,,1.0,,,
+401910019,MEM,905041935,Cameron Boozer,Starting,,1.0,,,1.0
+401910019,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
 401910019,MEM,1641744,Zach Edey,Out,,0.0,Edey (hip) has been ruled out for Thursday's game against the Warriors.,,
 401910019,MEM,203924,Jerami Grant,,,1.0,,,
-401910019,MEM,1641707,Taylor Hendricks,,,1.0,,,
+401910019,MEM,1641707,Taylor Hendricks,Starting,,1.0,,,1.0
 401910019,MEM,1641713,GG Jackson,Out,,0.0,Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.,,
 401910019,MEM,1629660,Ty Jerome,Out,,0.0,Jerome (hip) has been ruled out for Thursday's game against the Warriors.,,
 401910019,MEM,905231919,Karim Lopez,,,1.0,,,
@@ -14,56 +14,56 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910019,MEM,1641765,Olivier-Maxence Prosper,,,1.0,,,
 401910019,MEM,905105462,Richie Saunders,Out,Injury/Illness-RightKneeSurgery,0.0,"Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",,
 401910019,MEM,1642914,Javon Small,,,1.0,,,
-401910019,MEM,1642285,Cam Spencer,,,1.0,,,
+401910019,MEM,1642285,Cam Spencer,Starting,,1.0,,,1.0
 401910019,MEM,1630191,Isaiah Stewart,Available,Injury/Illness-Illness,1.0,,,
-401910019,MEM,1642377,Jaylen Wells,,,1.0,,,
-401910019,GSW,1629646,Charles Bassey,,,1.0,,,
+401910019,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
+401910019,GSW,1629646,Charles Bassey,Starting,,1.0,,,1.0
 401910019,GSW,202710,Jimmy Butler III,Out,,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401910019,GSW,1643018,LJ Cryer,Available,,1.0,,,
 401910019,GSW,201939,Stephen Curry,Out,Injury/Illness-RightObliqueTear,0.0,"Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",,
 401910019,GSW,203110,Draymond Green,Out,,0.0,Green (elbow) is out for Thursday's game against the Grizzlies.,,
 401910019,GSW,201143,Al Horford,,,1.0,,,
 401910019,GSW,904703396,Graham Ike,,,1.0,,,
-401910019,GSW,905175737,Yaxel Lendeborg,,,1.0,,,
+401910019,GSW,905175737,Yaxel Lendeborg,Starting,,1.0,,,1.0
 401910019,GSW,1642502,Malevy Leons,,,1.0,,,
-401910019,GSW,1629001,De'Anthony Melton,,,1.0,,,
+401910019,GSW,1629001,De'Anthony Melton,Starting,,1.0,,,1.0
 401910019,GSW,1630541,Moses Moody,Out,,0.0,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",,
 401910019,GSW,1627777,Georges Niang,,,1.0,,,
 401910019,GSW,1627780,Gary Payton II,,,1.0,,,
-401910019,GSW,1641764,Brandin Podziemski,,,1.0,,,
+401910019,GSW,1641764,Brandin Podziemski,Starting,,1.0,,,1.0
 401910019,GSW,204001,Kristaps Porzingis,Out,NotWithTeam,0.0,Porzingis announced on his social media that he's stepping away from basketball.,,
 401910019,GSW,1642954,Will Richard,,,1.0,,,
-401910019,GSW,1630611,Gui Santos,,,1.0,,,
+401910019,GSW,1630611,Gui Santos,Starting,,1.0,,,1.0
 401910019,GSW,1630314,Brandon Williams,Out,Injury/Illness-LeftHamstringStrain,0.0,Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.,,
-401910020,MIL,905164559,Nate Ament,,,1.0,,,
-401910020,MIL,905082206,Brayden Burries,,,1.0,,,
+401910020,MIL,905164559,Nate Ament,Starting,,1.0,,,1.0
+401910020,MIL,905082206,Brayden Burries,Starting,,1.0,,,1.0
 401910020,MIL,1631172,Ousmane Dieng,Out,Injury/Illness-LeftFingerFracture,0.0,"Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports.",,
 401910020,MIL,1631260,AJ Green,,,1.0,,,
-401910020,MIL,1629639,Tyler Herro,,,1.0,,,
+401910020,MIL,1629639,Tyler Herro,Starting,,1.0,,,1.0
 401910020,MIL,905214640,Kasparas Jakucionis,,,1.0,,,
 401910020,MIL,1631170,Jaime Jaquez Jr.,,,1.0,,,
 401910020,MIL,1642880,Kam Jones,,,1.0,,,
 401910020,MIL,1628398,Kyle Kuzma,Out,,0.0,Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion.,,
 401910020,MIL,1627747,Caris LeVert,,,1.0,,,
 401910020,MIL,905214989,Bogoljub Markovic,,,1.0,,,
-401910020,MIL,1631250,Pete Nance,,,1.0,,,
+401910020,MIL,1631250,Pete Nance,Starting,,1.0,,,1.0
 401910020,MIL,1631157,Ryan Rollins,,,1.0,,,
 401910020,MIL,1642504,Cormac Ryan,,,1.0,,,
 401910020,MIL,1630579,Jericho Sims,,,1.0,,,
 401910020,MIL,1629018,Gary Trent Jr.,,,1.0,,,
 401910020,MIL,1626167,Myles Turner,Out,,0.0,"Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",,
-401910020,MIL,905105623,Kel'el Ware,,,1.0,,,
+401910020,MIL,905105623,Kel'el Ware,Starting,,1.0,,,1.0
 401910020,POR,1630166,Deni Avdija,Out,,0.0,Avdija (foot) is listed as out for Thursday's game against the Bucks.,,
-401910020,POR,1641739,Toumani Camara,Available,Injury/Illness-AbdominalSoreness,1.0,,,
+401910020,POR,1641739,Toumani Camara,Starting,Injury/Illness-AbdominalSoreness,1.0,,,1.0
 401910020,POR,904592435,Branden Carlson,Available,Injury/Illness-FaceMask,1.0,,,
-401910020,POR,1631321,Sidy Cissoko,,,1.0,,,
-401910020,POR,1642270,Donovan Clingan,,,1.0,,,
+401910020,POR,1631321,Sidy Cissoko,Starting,,1.0,,,1.0
+401910020,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
 401910020,POR,1642905,Yang Hansen,,,1.0,,,
 401910020,POR,1630703,Scoot Henderson,,,1.0,,,
 401910020,POR,201950,Jrue Holiday,,,1.0,,,
-401910020,POR,1643257,Jayson Kent,,,1.0,,,
+401910020,POR,1643257,Jayson Kent,Starting,,1.0,,,1.0
 401910020,POR,1630249,Vit Krejci,Out,Injury/Illness-LeftAnkleFracture,0.0,"Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",,
-401910020,POR,203081,Damian Lillard,,,1.0,,,
+401910020,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
 401910020,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant ""may not be out for as long as we thought,"" Trail Blazers Insider Sean Highkin reports.",,
 401910020,POR,1630695,Micah Potter,,,1.0,,,
 401910020,POR,1631101,Shaedon Sharpe,Out,,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
@@ -80,7 +80,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910021,MIN,905061585,Isaiah Evans,,,1.0,,,
 401910021,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
 401910021,MIN,1630538,Bones Hyland,,,1.0,,,
-401910021,MIN,1630228,Jonathan Kuminga,Starting,,1.0,"Kuminga (shoulder) is questionable for Thursday's game against the Knicks, Charlie Walton of ZoneCoverage.com reports.",,1.0
+401910021,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
 401910021,MIN,1626168,Trey Lyles,,,1.0,,,
 401910021,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
 401910021,MIN,1642389,Zyon Pullin,Available,Injury/Illness-RightQuadriceps,1.0,,,
