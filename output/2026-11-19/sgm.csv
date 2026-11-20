@@ -34,14 +34,12 @@ NYK @ MIN,Miles McBride 3pm under 1.5 + Joan Beringer 5+ pr,2,0.7559,0.5411,1.85
 NYK @ MIN,Miles McBride 3pm under 1.5 + Joan Beringer 5+ pra,2,0.7646,0.5511,1.81,1.91,1.7,-0.0655,0.999,1.65-1.85
 NYK @ MIN,Miles McBride 3pm under 1.5 + Terrence Shannon Jr. 5+ pa,2,0.7995,0.5832,1.71,1.8,1.6,-0.0663,1.0,1.50-1.65
 NYK @ MIN,Miles McBride 3pm under 1.5 + OG Anunoby 10+ pr,2,0.8046,0.5827,1.72,1.8,1.6,-0.067,0.998,1.50-1.65
-LAC @ SAS,Derrick Jones Jr. pts under 8.5 + SAS win,2,0.3975,0.4448,2.25,2.36,2.28,0.0157,1.047,2.10-2.50
-LAC @ SAS,Victor Wembanyama 29+ pts + SAS win,2,0.4345,0.4498,2.22,2.33,2.23,0.0022,1.043,2.10-2.50
-LAC @ SAS,Devin Vassell 13+ pts + SAS win,2,0.4559,0.4455,2.24,2.36,2.23,-0.0074,1.038,2.10-2.50
-LAC @ SAS,Devin Vassell 15+ pa + SAS win,2,0.5204,0.4765,2.1,2.2,2.07,-0.0154,1.034,1.85-2.10
-LAC @ SAS,Devin Vassell 16+ pr + SAS win,2,0.5221,0.4855,2.06,2.16,2.01,-0.0264,1.026,1.85-2.10
-LAC @ SAS,Devin Vassell 19+ pra + SAS win,2,0.5293,0.4728,2.11,2.22,2.06,-0.0268,1.028,1.85-2.10
-LAC @ SAS,SAS win + Devin Vassell 10+ pa + De'Aaron Fox 10+ pts,3,0.6165,0.5935,1.68,1.77,1.51,-0.1009,1.029,1.50-1.65
-LAC @ SAS,SAS win + Devin Vassell 10+ pa + Stephon Castle 1+ 3pm,3,0.5989,0.5769,1.73,1.82,1.54,-0.1112,1.017,1.50-1.65
-LAC @ SAS,SAS win + De'Aaron Fox 10+ pts + Stephon Castle 1+ 3pm,3,0.5657,0.5772,1.73,1.82,1.53,-0.1179,1.021,1.50-1.65
-LAC @ SAS,SAS win + Devin Vassell 10+ pa + Victor Wembanyama 2+ blk + De'Aaron Fox 10+ pts,4,0.551,0.4949,2.02,2.12,1.73,-0.1447,1.033,1.65-1.85
-LAC @ SAS,SAS win + Devin Vassell 10+ pa + De'Aaron Fox 10+ pts + Stephon Castle 1+ 3pm,4,0.5193,0.4768,2.1,2.2,1.79,-0.1469,1.035,1.65-1.85
+LAC @ SAS,Derrick Jones Jr. pts under 8.5 + SAS win,2,0.4058,0.4425,2.26,2.37,2.28,0.0105,1.036,2.10-2.50
+LAC @ SAS,Rui Hachimura pts under 11.5 + SAS win,2,0.4126,0.4497,2.22,2.34,2.23,0.0019,1.045,2.10-2.50
+LAC @ SAS,Victor Wembanyama 29+ pts + SAS win,2,0.4164,0.4473,2.24,2.35,2.23,-0.0034,1.045,2.10-2.50
+LAC @ SAS,Devin Vassell 15+ pa + SAS win,2,0.505,0.473,2.11,2.22,2.07,-0.0228,1.031,1.85-2.10
+LAC @ SAS,Devin Vassell 16+ pr + SAS win,2,0.5101,0.4825,2.07,2.18,2.01,-0.0324,1.024,1.85-2.10
+LAC @ SAS,Derrick Jones Jr. 9+ pts + De'Aaron Fox 10+ pr,2,0.4742,0.4664,2.14,2.25,2.02,-0.0601,1.001,1.85-2.10
+LAC @ SAS,SAS win + Devin Vassell 10+ pa + Darius Garland 4+ ast,3,0.5924,0.5718,1.75,1.84,1.53,-0.1255,1.001,1.50-1.65
+LAC @ SAS,SAS win + Devin Vassell 1+ 3pm + Darius Garland 4+ ast,3,0.5873,0.5749,1.74,1.83,1.51,-0.1335,0.995,1.50-1.65
+LAC @ SAS,Devin Vassell 1+ 3pm + Derrick Jones Jr. 5+ pa + Darius Garland 4+ ast,3,0.6902,0.5667,1.76,1.85,1.5,-0.1472,1.006,1.50-1.65
