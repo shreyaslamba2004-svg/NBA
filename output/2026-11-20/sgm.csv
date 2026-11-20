@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHA @ ATL,CHA +6.5 + Sion James 10+ pra,2,0.5027,0.4284,2.33,2.45,2.26,-0.0329,1.021,2.10-2.50
-CHA @ ATL,CHA +6.5 + Royce O'Neale 5+ pa,2,0.4937,0.4254,2.35,2.47,2.27,-0.0354,1.02,2.10-2.50
-CHA @ ATL,Luguentz Dort 10+ pr + ATL win,2,0.4823,0.4219,2.37,2.49,2.28,-0.0396,1.022,2.10-2.50
-CHA @ ATL,CHA +6.5 + Sion James 5+ pa,2,0.5318,0.4587,2.18,2.29,2.08,-0.0454,1.01,1.85-2.10
-CHA @ ATL,Luguentz Dort 10+ pra + ATL win,2,0.533,0.4701,2.13,2.23,2.03,-0.046,1.017,1.85-2.10
-CHA @ ATL,CHA +6.5 + Luguentz Dort 5+ pr,2,0.5331,0.4532,2.21,2.32,2.08,-0.0554,0.997,1.85-2.10
-CHA @ ATL,ATL win + Onyeka Okongwu 20+ pra,2,0.5213,0.5125,1.95,2.05,1.83,-0.0613,1.024,1.65-1.85
-CHA @ ATL,ATL win + Dyson Daniels 4+ ast,2,0.5264,0.5204,1.92,2.02,1.79,-0.0674,1.018,1.65-1.85
-CHA @ ATL,ATL win + Jalen Johnson 4+ ast,2,0.5854,0.5771,1.73,1.82,1.61,-0.0732,1.011,1.50-1.65
-CHA @ ATL,ATL win + Luguentz Dort 5+ pr,2,0.6163,0.5946,1.68,1.77,1.55,-0.0766,1.003,1.50-1.65
-CHA @ ATL,ATL win + Luguentz Dort 5+ pra,2,0.6239,0.6107,1.64,1.72,1.5,-0.081,1.001,1.50-1.65
-CHA @ ATL,ATL win + Moussa Diabate 8+ reb,2,0.511,0.4998,2.0,2.1,1.83,-0.0837,0.998,1.65-1.85
+CHA @ ATL,ATL win + Sion James 3pm under 1.5,2,0.4411,0.3923,2.55,2.68,2.47,-0.0305,1.035,2.10-2.50
+CHA @ ATL,CHA +6.5 + Sion James 10+ pra,2,0.5027,0.4306,2.32,2.44,2.24,-0.0339,1.021,2.10-2.50
+CHA @ ATL,CHA +6.5 + Royce O'Neale 5+ pa,2,0.4937,0.4284,2.33,2.45,2.25,-0.0368,1.02,2.10-2.50
+CHA @ ATL,Luguentz Dort 10+ pra + ATL win,2,0.533,0.4684,2.14,2.24,2.04,-0.0451,1.017,1.85-2.10
+CHA @ ATL,CHA +6.5 + Sion James 5+ pa,2,0.5318,0.4624,2.16,2.27,2.06,-0.047,1.01,1.85-2.10
+CHA @ ATL,CHA +6.5 + Luguentz Dort 5+ pra,2,0.5417,0.4651,2.15,2.26,2.03,-0.0555,0.999,1.85-2.10
+CHA @ ATL,ATL win + Onyeka Okongwu 10+ pts,2,0.5349,0.5291,1.89,1.98,1.77,-0.0635,1.023,1.65-1.85
+CHA @ ATL,ATL win + Dyson Daniels 4+ ast,2,0.5264,0.52,1.92,2.02,1.79,-0.0673,1.018,1.65-1.85
+CHA @ ATL,ATL win + Jalen Johnson 4+ ast,2,0.5854,0.5798,1.72,1.81,1.6,-0.074,1.011,1.50-1.65
+CHA @ ATL,ATL win + Dyson Daniels 15+ pra,2,0.5998,0.5951,1.68,1.76,1.55,-0.0766,1.009,1.50-1.65
+CHA @ ATL,ATL win + Luguentz Dort 5+ pra,2,0.6239,0.608,1.64,1.73,1.51,-0.0802,1.001,1.50-1.65
+CHA @ ATL,Sion James 3pm under 1.5 + Luguentz Dort 5+ pra,2,0.6633,0.5184,1.93,2.03,1.77,-0.0839,0.999,1.65-1.85
 ORL @ BKN,Julius Randle ra under 10.5 + Desmond Bane 10+ pts,2,0.5865,0.4274,2.34,2.46,2.19,-0.0645,0.998,2.10-2.50
 ORL @ BKN,Julius Randle ra under 10.5 + Jalen Suggs 1+ 3pm,2,0.5269,0.3833,2.61,2.74,2.43,-0.0668,0.995,2.10-2.50
 ORL @ BKN,Mikel Brown Jr. 3pm under 1.5 + Wendell Carter Jr. 10+ pa,2,0.5111,0.3861,2.59,2.72,2.41,-0.0701,1.004,2.10-2.50
@@ -29,13 +29,13 @@ IND @ CLE,CLE -6.5 + Donovan Mitchell 2+ 3pm,2,0.4247,0.3975,2.52,2.64,2.35,-0.0
 IND @ CLE,CLE -6.5 + James Harden 10+ pts,2,0.4783,0.4535,2.21,2.32,2.06,-0.0661,1.015,1.85-2.10
 IND @ CLE,CLE -6.5 + James Harden 1+ 3pm,2,0.4867,0.4565,2.19,2.3,2.03,-0.072,1.007,1.85-2.10
 IND @ CLE,James Harden 2+ 3pm + Donovan Mitchell 2+ 3pm,2,0.6053,0.5271,1.9,1.99,1.71,-0.0988,1.005,1.65-1.85
-TOR @ DET,DET win + Paul Reed 15+ pra,2,0.628,0.5401,1.85,1.94,1.76,-0.0479,1.009,1.65-1.85
-TOR @ DET,Paul Reed 20+ pra + Scottie Barnes 4+ ast,2,0.5902,0.3919,2.55,2.68,2.43,-0.0486,1.0,2.10-2.50
-TOR @ DET,Jamal Shead 10+ pr + Paul Reed 15+ pra,2,0.5668,0.3911,2.56,2.68,2.43,-0.0494,1.005,2.10-2.50
-TOR @ DET,Jamal Shead 13+ pa + Paul Reed 15+ pra,2,0.6053,0.4081,2.45,2.57,2.33,-0.0504,1.004,2.10-2.50
-TOR @ DET,Paul Reed 20+ pra + Javonte Green 5+ pr,2,0.6427,0.4539,2.2,2.31,2.08,-0.0562,1.004,1.85-2.10
+TOR @ DET,Paul Reed 20+ pra + Scottie Barnes 4+ ast,2,0.5902,0.3932,2.54,2.67,2.43,-0.0453,1.0,2.10-2.50
+TOR @ DET,Paul Reed 18+ pr + Scottie Barnes 4+ ast,2,0.5895,0.3964,2.52,2.65,2.41,-0.0459,1.0,2.10-2.50
+TOR @ DET,DET win + Paul Reed 15+ pra,2,0.628,0.5422,1.84,1.94,1.75,-0.0487,1.009,1.65-1.85
+TOR @ DET,Paul Reed 18+ pr + Jamal Shead 5+ pr,2,0.6475,0.4505,2.22,2.33,2.11,-0.0492,1.003,2.10-2.50
+TOR @ DET,Paul Reed 20+ pra + Javonte Green 5+ pr,2,0.6427,0.4554,2.2,2.31,2.08,-0.053,1.004,1.85-2.10
+TOR @ DET,Paul Reed 18+ pr + Javonte Green 5+ pr,2,0.6421,0.4591,2.18,2.29,2.06,-0.0534,1.004,1.85-2.10
 TOR @ DET,Jamal Shead 8+ pts + Paul Reed 10+ pra,2,0.6318,0.4556,2.2,2.3,2.07,-0.0568,1.002,1.85-2.10
-TOR @ DET,Paul Reed 18+ pr + Javonte Green 5+ pr,2,0.6421,0.4568,2.19,2.3,2.06,-0.0581,1.004,1.85-2.10
 TOR @ DET,DET win + Daniss Jenkins 10+ pts,2,0.614,0.5862,1.71,1.79,1.6,-0.0614,1.016,1.50-1.65
 TOR @ DET,DET win + Javonte Green 5+ pr,2,0.6654,0.6204,1.61,1.69,1.5,-0.0683,1.004,1.50-1.65
 TOR @ DET,DET win + Jamal Shead 5+ pr,2,0.665,0.6033,1.66,1.74,1.54,-0.0726,0.994,1.50-1.65
@@ -74,27 +74,26 @@ PHX @ UTA,Darryn Peterson ast under 4.5 + Jalen Green 10+ pa,2,0.625,0.5074,1.97
 PHX @ UTA,PHX win + Ace Bailey 10+ pr,2,0.6222,0.5518,1.81,1.9,1.65,-0.0916,0.993,1.50-1.65
 PHX @ UTA,Devin Booker 4+ ast + Jalen Green 1+ 3pm,2,0.6862,0.5884,1.7,1.78,1.53,-0.1007,1.0,1.50-1.65
 PHX @ UTA,Devin Booker 4+ ast + Miles Bridges 1+ 3pm,2,0.6689,0.5863,1.71,1.79,1.53,-0.1035,1.001,1.50-1.65
-HOU @ DEN,DEN win + Cameron Johnson 10+ pr,2,0.5016,0.4134,2.42,2.54,2.28,-0.0574,1.023,2.10-2.50
 HOU @ DEN,HOU +1.5 + Kevin Durant 1+ 3pm,2,0.3985,0.422,2.37,2.49,2.22,-0.0618,1.019,2.10-2.50
 HOU @ DEN,HOU win + Kevin Durant 1+ 3pm,2,0.3735,0.4032,2.48,2.6,2.32,-0.0633,1.019,2.10-2.50
+HOU @ DEN,DEN win + Jamal Murray 4+ ast,2,0.4824,0.4147,2.41,2.53,2.25,-0.0676,1.021,2.10-2.50
 HOU @ DEN,DEN win + Nikola Jokic 6+ ast,2,0.5128,0.4456,2.24,2.36,2.08,-0.0739,1.016,1.85-2.10
-HOU @ DEN,Cameron Johnson 16+ pra + Christian Braun 10+ pr,2,0.5542,0.4408,2.27,2.38,2.1,-0.0762,1.007,1.85-2.10
 HOU @ DEN,HOU +1.5 + Nikola Jokic 6+ reb,2,0.434,0.4539,2.2,2.31,2.03,-0.0779,0.999,1.85-2.10
-HOU @ DEN,Aaron Gordon 18+ pra + Nikola Jokic 20+ pa,2,0.5878,0.4977,2.01,2.11,1.83,-0.0905,1.006,1.65-1.85
+HOU @ DEN,DEN win + Nikola Jokic 20+ pa,2,0.5492,0.4843,2.06,2.17,1.9,-0.079,1.013,1.85-2.10
 HOU @ DEN,Tari Eason 11+ pa + Jamal Murray 1+ 3pm,2,0.5982,0.4921,2.03,2.13,1.85,-0.0909,1.001,1.65-1.85
 HOU @ DEN,Tari Eason 11+ pa + Nikola Jokic 20+ pa,2,0.604,0.5004,2.0,2.1,1.82,-0.0916,1.002,1.65-1.85
-HOU @ DEN,Cameron Johnson 10+ pr + Christian Braun 10+ pr + Nikola Jokic 6+ ast,3,0.6801,0.5414,1.85,1.94,1.58,-0.1439,1.004,1.50-1.65
-HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 8+ reb,3,0.6412,0.5293,1.89,1.98,1.61,-0.1462,1.009,1.50-1.65
-HOU @ DEN,Cameron Johnson 10+ pr + Christian Braun 10+ pr + Kevin Durant 1+ 3pm,3,0.661,0.5344,1.87,1.96,1.59,-0.1487,1.001,1.50-1.65
-SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6011,0.4405,2.27,2.38,2.18,-0.0388,0.989,2.10-2.50
+HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 8+ reb,3,0.6412,0.5262,1.9,2.0,1.62,-0.1451,1.009,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Tari Eason 4+ reb + Nikola Jokic 8+ reb,3,0.6333,0.5221,1.92,2.01,1.63,-0.1477,1.007,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 6+ ast,3,0.656,0.5415,1.85,1.94,1.57,-0.1496,1.005,1.50-1.65
 SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5939,0.4371,2.29,2.4,2.19,-0.0419,0.987,2.10-2.50
 SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.5887,0.435,2.3,2.41,2.2,-0.0421,0.987,2.10-2.50
+SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6011,0.4465,2.24,2.35,2.14,-0.0423,0.989,2.10-2.50
 SAC @ LAL,LAL win + Malik Monk pts under 11.5,2,0.548,0.4659,2.15,2.25,2.05,-0.0428,1.02,1.85-2.10
 SAC @ LAL,LAL win + Malik Monk pa under 15.5,2,0.5397,0.4587,2.18,2.29,2.09,-0.0436,1.019,1.85-2.10
-SAC @ LAL,Quentin Grimes pr under 20.5 + Keegan Murray 5+ pa,2,0.6755,0.478,2.09,2.2,1.97,-0.0584,1.001,1.85-2.10
+SAC @ LAL,game over 228.5 + Keegan Murray 10+ pra,2,0.4644,0.4586,2.18,2.29,2.05,-0.0591,1.028,1.85-2.10
 SAC @ LAL,LAL win + Matisse Thybulle 3pm under 1.5,2,0.5906,0.51,1.96,2.06,1.82,-0.074,0.99,1.65-1.85
-SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6607,0.5111,1.96,2.05,1.8,-0.0782,1.002,1.65-1.85
-SAC @ LAL,Quentin Grimes 3pm under 2.5 + Darius Acuff Jr. 20+ pra,2,0.6477,0.5024,1.99,2.09,1.83,-0.0812,0.999,1.65-1.85
-SAC @ LAL,Matisse Thybulle 3pm under 1.5 + Keegan Murray 5+ pa,2,0.6621,0.5521,1.81,1.9,1.64,-0.0952,1.0,1.50-1.65
-SAC @ LAL,Walker Kessler 8+ reb + Luka Doncic 1+ stl,2,0.6644,0.5919,1.69,1.77,1.51,-0.1046,1.003,1.50-1.65
-SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Darius Acuff Jr. 4+ ast,3,0.6659,0.5709,1.75,1.84,1.53,-0.1266,0.999,1.50-1.65
+SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6607,0.5106,1.96,2.06,1.81,-0.0781,1.002,1.65-1.85
+SAC @ LAL,Quentin Grimes 3pm under 2.5 + Darius Acuff Jr. 20+ pra,2,0.6477,0.503,1.99,2.09,1.83,-0.0814,0.999,1.65-1.85
+SAC @ LAL,Matisse Thybulle 3pm under 1.5 + Keegan Murray 5+ pa,2,0.6621,0.5516,1.81,1.9,1.64,-0.095,1.0,1.50-1.65
+SAC @ LAL,Walker Kessler 8+ reb + Luka Doncic 1+ stl,2,0.6644,0.5956,1.68,1.76,1.5,-0.1056,1.003,1.50-1.65
+SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Darius Acuff Jr. 4+ ast,3,0.6659,0.5714,1.75,1.84,1.53,-0.1268,0.999,1.50-1.65
