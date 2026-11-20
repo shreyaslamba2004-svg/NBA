@@ -244,3 +244,7 @@ game_id,game_date,home,away,book,spread_home,total,over_price,under_price,ml_hom
 401910015,2026-11-18,DEN,BOS,DraftKings,2.5,218.5,-113.0,-107.0,115,-136,-114.0,-106.0,2.5,219.5,"John Goble, Eric Dalen, Chelisa Painter"
 401910017,2026-11-18,LAL,UTA,DraftKings,-11.5,229.5,-108.0,-112.0,-545,411,-115.0,-105.0,-12.5,231.5,"Tre Maddox, Karl Lane, Dannica Baroody"
 401910018,2026-11-18,SAC,PHX,DraftKings,7.5,226.5,-115.0,-105.0,231,-283,-109.0,-111.0,6.5,229.5,"Zach Zarba, Jonathan Sterling, John Butler"
+401910019,2026-11-19,MEM,GSW,DraftKings,-5.5,225.5,-107.0,-113.0,-205,171,-108.0,-112.0,-8.5,225.5,"Marat Kogut, Jacyn Goble, Scott Twardoski"
+401910020,2026-11-19,MIL,POR,DraftKings,9.5,230.5,-107.0,-113.0,301,-380,-112.0,-108.0,9.5,225.5,"Mitchell Ervin, Justin Van Duyne, Kladji Mulla"
+401910021,2026-11-19,MIN,NYK,DraftKings,1.5,216.5,-110.0,-110.0,-104,-113,-114.0,-106.0,1.5,217.5,"J.B. DeRosa, Ray Acosta, Nate Cearley"
+401910022,2026-11-19,SAS,LAC,DraftKings,-15.5,224.5,-107.0,-113.0,-1020,660,-108.0,-112.0,-16.5,225.5,"Brian Forte, Kevin Cutler, Brandon Schwab"
