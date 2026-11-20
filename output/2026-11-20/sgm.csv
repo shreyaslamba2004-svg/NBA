@@ -49,17 +49,18 @@ WAS @ CHI,AJ Dybantsa pts under 18.5 + Bilal Coulibaly 5+ pr,2,0.6004,0.4617,2.1
 WAS @ CHI,Isaac Okoro 3pm under 1.5 + Alex Sarr 10+ pr,2,0.6737,0.5294,1.89,1.98,1.73,-0.0833,1.0,1.65-1.85
 WAS @ CHI,Isaac Okoro 3pm under 1.5 + Anthony Davis 6+ reb,2,0.6668,0.5208,1.92,2.02,1.76,-0.084,0.998,1.65-1.85
 WAS @ CHI,Isaac Okoro 3pm under 1.5 + Trae Young 10+ pts,2,0.6358,0.5032,1.99,2.09,1.82,-0.0846,1.0,1.65-1.85
-NOP @ OKC,Jeremiah Fears pts under 16.5 + OKC win,2,0.5448,0.4196,2.38,2.5,2.35,-0.0126,1.03,2.10-2.50
-NOP @ OKC,Jeremiah Fears pr under 21.5 + OKC win,2,0.5503,0.4209,2.38,2.49,2.34,-0.0143,1.027,2.10-2.50
-NOP @ OKC,Jeremiah Fears pra under 28.5 + OKC win,2,0.5891,0.4537,2.2,2.31,2.17,-0.0167,1.026,2.10-2.50
-NOP @ OKC,Yves Missi reb under 7.5 + OKC win,2,0.584,0.4637,2.16,2.26,2.05,-0.0493,1.0,1.85-2.10
-NOP @ OKC,Jeremiah Fears pra under 28.5 + Kenrich Williams 5+ pa,2,0.6299,0.4672,2.14,2.25,1.99,-0.0708,1.0,1.85-2.10
-NOP @ OKC,Jeremiah Fears pa under 23.5 + Kenrich Williams 5+ pa,2,0.6277,0.4696,2.13,2.24,1.97,-0.0726,1.0,1.85-2.10
-NOP @ OKC,Yves Missi reb under 7.5 + Jared McCain 1+ 3pm,2,0.6631,0.5193,1.93,2.02,1.77,-0.0782,1.004,1.65-1.85
-NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 15+ pra,2,0.6469,0.4983,2.01,2.11,1.85,-0.0796,0.999,1.65-1.85
+NOP @ OKC,Jeremiah Fears pa under 22.5 + OKC win,2,0.5529,0.4322,2.31,2.43,2.28,-0.0144,1.032,2.10-2.50
+NOP @ OKC,Jeremiah Fears pra under 27.5 + OKC win,2,0.5577,0.4362,2.29,2.41,2.25,-0.0177,1.029,2.10-2.50
+NOP @ OKC,Jeremiah Fears pts under 16.5 + OKC win,2,0.5448,0.4288,2.33,2.45,2.29,-0.0179,1.03,2.10-2.50
+NOP @ OKC,Yves Missi reb under 7.5 + OKC win,2,0.584,0.4592,2.18,2.29,2.08,-0.0472,1.0,1.85-2.10
+NOP @ OKC,Jeremiah Fears pa under 22.5 + Kenrich Williams 5+ pa,2,0.5885,0.443,2.26,2.37,2.09,-0.0728,1.001,1.85-2.10
+NOP @ OKC,Jeremiah Fears pra under 27.5 + Kenrich Williams 5+ pa,2,0.5951,0.4482,2.23,2.34,2.07,-0.0736,1.001,1.85-2.10
+NOP @ OKC,Yves Missi reb under 7.5 + Herbert Jones 5+ pr,2,0.6686,0.5049,1.98,2.08,1.83,-0.0758,0.999,1.65-1.85
+NOP @ OKC,Yves Missi reb under 7.5 + Jared McCain 1+ 3pm,2,0.6631,0.5142,1.94,2.04,1.8,-0.0762,1.004,1.65-1.85
+NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 10+ pa,2,0.6618,0.508,1.97,2.07,1.81,-0.0794,0.998,1.65-1.85
 NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa,3,0.6273,0.539,1.86,1.95,1.65,-0.1127,1.017,1.50-1.65
 NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Jared McCain 1+ 3pm,3,0.6437,0.5665,1.77,1.85,1.55,-0.1205,1.013,1.50-1.65
-NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Saddiq Bey 1+ 3pm,3,0.6238,0.5369,1.86,1.96,1.63,-0.123,1.006,1.50-1.65
+NOP @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast + Herbert Jones 5+ pr,3,0.6475,0.5549,1.8,1.89,1.58,-0.1221,1.006,1.50-1.65
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Brice Sensabaugh 10+ pr,2,0.6463,0.4416,2.26,2.38,2.14,-0.0552,0.998,2.10-2.50
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pts,2,0.658,0.4499,2.22,2.33,2.1,-0.0564,0.997,1.85-2.10
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 1+ 3pm,2,0.6457,0.4531,2.21,2.32,2.08,-0.0577,1.0,1.85-2.10
