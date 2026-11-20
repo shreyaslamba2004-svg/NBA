@@ -1,6 +1,6 @@
 # NBA model · Thu 19 Nov 2026 (US date)
 
-Updated **Fri 20 Nov, 10:58 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-19/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Fri 20 Nov, 11:03 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-19/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -43,7 +43,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| GSW @ MEM | Fri 20 Nov 12:00 | 114.3–116.0 | GSW 45% | 2.21 / 1.83 | MEM -2.5 | 230.5 | MEM -5.5 covers 40%; o225.5 60% |
+| GSW @ MEM | Fri 20 Nov 12:00 | 114.3–116.0 | GSW 45% | 2.21 / 1.83 | MEM -2.5 | 230.5 | MEM -5.5 covers 40%; o224.5 62% |
 | POR @ MIL | Fri 20 Nov 12:00 | 116.9–110.1 | POR 69% | 1.46 / 3.19 | MIL +6.5 | 226.5 | MIL +11.5 covers 63%; o230.5 42% |
 | NYK @ MIN | Fri 20 Nov 12:00 | 113.3–108.8 | NYK 63% | 1.60 / 2.67 | MIN +4.5 | 221.5 | MIN +1.5 covers 40%; o216.5 61% |
 | LAC @ SAS | Fri 20 Nov 12:00 | 107.4–118.1 | LAC 22% | 4.48 / 1.29 | SAS -10.5 | 225.5 | SAS -15.5 covers 37%; o224.5 52% |
@@ -53,8 +53,8 @@ Out: Zach Edey (MEM), GG Jackson (MEM), Ty Jerome (MEM), Scotty Pippen Jr. (MEM)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 114.3–116.0 | GSW 45% | 2.21 / 1.83 | MEM -2.5 | 230.5 | MEM -5.5 covers 40%; o225.5 60% |
-| Expected (weighted by chance each plays) | 114.8–116.7 | GSW 45% | 2.24 / 1.81 | MEM -2.5 | 231.5 | MEM -5.5 covers 41%; o225.5 62% |
+| Confirmed players only | 114.3–116.0 | GSW 45% | 2.21 / 1.83 | MEM -2.5 | 230.5 | MEM -5.5 covers 40%; o224.5 62% |
+| Expected (weighted by chance each plays) | 114.8–116.7 | GSW 45% | 2.24 / 1.81 | MEM -2.5 | 231.5 | MEM -5.5 covers 41%; o224.5 64% |
 
 **Questionable players: chance to play, and their projection if they do**
 
