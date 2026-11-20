@@ -48,12 +48,11 @@ TOR @ DET,Scottie Barnes 5+ ast + Jamal Shead 5+ pr,2,0.7182,0.5168,1.94,2.03,1.
 TOR @ DET,DET win + Jamal Shead 5+ pr,2,0.665,0.5887,1.7,1.78,1.58,-0.0689,0.994,1.50-1.65
 TOR @ DET,Scottie Barnes 5+ ast + Javonte Green 5+ pr,2,0.7103,0.5226,1.91,2.01,1.77,-0.0728,0.998,1.65-1.85
 WAS @ CHI,WAS +1.5 + Kyshawn George 20+ pra,2,0.3512,0.3861,2.59,2.72,2.47,-0.0458,1.043,2.10-2.50
-WAS @ CHI,WAS +2.5 + Kyshawn George 15+ pa,2,0.3872,0.414,2.42,2.54,2.3,-0.049,1.038,2.10-2.50
-WAS @ CHI,Josh Giddey 21+ pr + Kyshawn George 20+ pra,2,0.4217,0.3843,2.6,2.73,2.47,-0.0504,1.014,2.10-2.50
-WAS @ CHI,Nic Claxton pr under 17.5 + Kyshawn George 10+ pa,2,0.6613,0.4632,2.16,2.27,2.03,-0.0585,0.998,1.85-2.10
-WAS @ CHI,Nic Claxton pr under 17.5 + Kyshawn George 15+ pra,2,0.6427,0.4485,2.23,2.34,2.1,-0.0586,0.998,1.85-2.10
-WAS @ CHI,CHI win + Matas Buzelis 1+ 3pm,2,0.5558,0.4817,2.08,2.18,1.95,-0.0587,1.006,1.85-2.10
-WAS @ CHI,Tre Jones pts under 13.5 + Kyshawn George 10+ pa,2,0.612,0.4926,2.03,2.13,1.85,-0.0888,0.999,1.65-1.85
+WAS @ CHI,WAS +2.5 + Kyshawn George 15+ pa,2,0.3872,0.4149,2.41,2.53,2.29,-0.0493,1.038,2.10-2.50
+WAS @ CHI,CHI win + Matas Buzelis 10+ pts,2,0.5485,0.4753,2.1,2.21,1.99,-0.0524,1.012,1.85-2.10
+WAS @ CHI,CHI win + Matas Buzelis 1+ 3pm,2,0.5558,0.4805,2.08,2.19,1.96,-0.0582,1.006,1.85-2.10
+WAS @ CHI,CHI win + AJ Dybantsa 4+ reb,2,0.5373,0.4559,2.19,2.3,2.06,-0.0598,1.0,1.85-2.10
+WAS @ CHI,CHI win + Anthony Davis 8+ reb,2,0.5021,0.4293,2.33,2.45,2.19,-0.0609,1.001,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pts under 15.5,2,0.504,0.4306,2.32,2.44,2.31,-0.0064,1.037,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pr under 20.5,2,0.518,0.4305,2.32,2.44,2.31,-0.0065,1.031,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pra under 26.5,2,0.531,0.4448,2.25,2.36,2.23,-0.0068,1.032,2.10-2.50
@@ -68,16 +67,16 @@ NOP @ OKC,Jaylin Williams 3pm under 1.5 + Herbert Jones 5+ pra,2,0.7659,0.5998,1
 NOP @ OKC,Jaylin Williams 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.7484,0.5939,1.68,1.77,1.54,-0.084,1.001,1.50-1.65
 PHX @ UTA,UTA +4.5 + Ace Bailey 10+ pts,2,0.3917,0.3943,2.54,2.66,2.4,-0.0535,1.037,2.10-2.50
 PHX @ UTA,PHX win + Dillon Brooks 15+ pra,2,0.5634,0.5032,1.99,2.09,1.87,-0.0587,1.021,1.85-2.10
-PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 1+ 3pm,2,0.6457,0.4557,2.19,2.3,2.06,-0.0601,1.0,1.85-2.10
+PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 1+ 3pm,2,0.6457,0.4574,2.19,2.3,2.05,-0.0608,1.0,1.85-2.10
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Ace Bailey 10+ pts,2,0.6349,0.4504,2.22,2.33,2.08,-0.062,0.999,1.85-2.10
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7343,0.5282,1.89,1.99,1.77,-0.0659,0.998,1.65-1.85
-PHX @ UTA,UTA +4.5 + Brice Sensabaugh 10+ pr,2,0.3938,0.3958,2.53,2.65,2.36,-0.0665,1.023,2.10-2.50
-PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 10+ pa,2,0.7139,0.5173,1.93,2.03,1.8,-0.0679,0.997,1.65-1.85
+PHX @ UTA,Collin Gillespie 3pm under 2.5 + Keyonte George 1+ 3pm,2,0.7215,0.5231,1.91,2.01,1.79,-0.066,0.999,1.65-1.85
+PHX @ UTA,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pra,2,0.7532,0.5462,1.83,1.92,1.71,-0.0664,0.999,1.65-1.85
 PHX @ UTA,UTA +4.5 + Ace Bailey 10+ pa,2,0.4241,0.435,2.3,2.41,2.14,-0.0692,1.024,2.10-2.50
-PHX @ UTA,PHX win + Dillon Brooks 10+ pr,2,0.6256,0.5619,1.78,1.87,1.65,-0.0712,1.008,1.65-1.85
-PHX @ UTA,PHX win + Brice Sensabaugh 5+ pr,2,0.6403,0.5767,1.73,1.82,1.6,-0.0795,1.0,1.50-1.65
-PHX @ UTA,Brice Sensabaugh 10+ pr + Ace Bailey 10+ pts,2,0.6865,0.5924,1.69,1.77,1.53,-0.0958,1.007,1.50-1.65
-PHX @ UTA,Brice Sensabaugh 10+ pr + Devin Booker 4+ ast,2,0.6908,0.5971,1.67,1.76,1.51,-0.0994,1.003,1.50-1.65
+PHX @ UTA,Darryn Peterson pra under 27.5 + Jalen Green 1+ 3pm,2,0.5317,0.4012,2.49,2.62,2.31,-0.0746,1.001,2.10-2.50
+PHX @ UTA,Ace Bailey 10+ pts + Devin Booker 4+ ast,2,0.6764,0.5857,1.71,1.79,1.53,-0.1011,1.001,1.50-1.65
+PHX @ UTA,Jalen Green 1+ 3pm + Ace Bailey 10+ pts,2,0.6796,0.5865,1.7,1.79,1.53,-0.1017,1.0,1.50-1.65
+PHX @ UTA,Jalen Green 1+ 3pm + Devin Booker 4+ ast,2,0.6862,0.5932,1.69,1.77,1.51,-0.1023,1.0,1.50-1.65
 HOU @ DEN,HOU win + Kevin Durant 1+ 3pm,2,0.3735,0.3977,2.51,2.64,2.36,-0.0596,1.019,2.10-2.50
 HOU @ DEN,DEN win + Cameron Johnson 10+ pr,2,0.5016,0.4314,2.32,2.43,2.18,-0.0601,1.023,2.10-2.50
 HOU @ DEN,DEN -1.5 + Cameron Johnson 10+ pr,2,0.4775,0.4107,2.43,2.56,2.28,-0.0641,1.025,2.10-2.50
