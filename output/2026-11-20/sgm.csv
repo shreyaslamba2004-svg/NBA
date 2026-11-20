@@ -54,8 +54,8 @@ NOP @ OKC,OKC win + Jeremiah Fears pa under 22.5,2,0.5542,0.4526,2.21,2.32,2.15,
 NOP @ OKC,OKC win + Jeremiah Fears pra under 27.5,2,0.5558,0.4508,2.22,2.33,2.16,-0.0267,1.028,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pts under 16.5,2,0.544,0.446,2.24,2.35,2.17,-0.03,1.027,2.10-2.50
 NOP @ OKC,Yves Missi reb under 7.5 + OKC win,2,0.5848,0.4605,2.17,2.28,2.08,-0.0444,1.003,1.85-2.10
-NOP @ OKC,Ajay Mitchell pts under 19.5 + Saddiq Bey 1+ 3pm,2,0.6171,0.4645,2.15,2.26,2.0,-0.0733,1.001,1.85-2.10
 NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 1+ 3pm,2,0.6433,0.4811,2.08,2.18,1.92,-0.0741,0.999,1.85-2.10
+NOP @ OKC,Ajay Mitchell pr under 22.5 + Saddiq Bey 1+ 3pm,2,0.5849,0.4415,2.27,2.38,2.1,-0.0744,1.001,1.85-2.10
 NOP @ OKC,Yves Missi reb under 7.5 + Jared McCain 1+ 3pm,2,0.6599,0.5125,1.95,2.05,1.8,-0.0793,1.001,1.65-1.85
 NOP @ OKC,Yves Missi reb under 7.5 + Saddiq Bey 10+ pa,2,0.6596,0.5063,1.98,2.07,1.81,-0.0824,0.995,1.65-1.85
 NOP @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra,2,0.6673,0.5899,1.7,1.78,1.52,-0.1035,1.003,1.50-1.65
@@ -89,9 +89,9 @@ HOU @ DEN,Cameron Johnson 10+ pr + Christian Braun 10+ pr + Nikola Jokic 6+ ast,
 SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.5914,0.4337,2.31,2.42,2.21,-0.0407,0.988,2.10-2.50
 SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6026,0.4466,2.24,2.35,2.14,-0.0422,0.989,2.10-2.50
 SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5954,0.4369,2.29,2.4,2.19,-0.0422,0.987,2.10-2.50
-SAC @ LAL,LAL win + Malik Monk pts under 11.5,2,0.5424,0.465,2.15,2.26,2.05,-0.0482,1.017,1.85-2.10
 SAC @ LAL,Matisse Thybulle 3pm under 1.5 + LAL win,2,0.5951,0.4658,2.15,2.25,2.03,-0.0533,0.991,1.85-2.10
 SAC @ LAL,Quentin Grimes pra under 23.5 + Keegan Murray 5+ pa,2,0.6636,0.4712,2.12,2.23,2.0,-0.0596,1.0,1.85-2.10
+SAC @ LAL,Quentin Grimes pts under 16.5 + Keegan Murray 5+ pa,2,0.6688,0.4753,2.1,2.21,1.98,-0.0601,1.0,1.85-2.10
 SAC @ LAL,Matisse Thybulle 3pm under 1.5 + Keegan Murray 5+ pa,2,0.6649,0.504,1.98,2.08,1.83,-0.076,0.999,1.65-1.85
 SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6635,0.5185,1.93,2.03,1.77,-0.0803,1.002,1.65-1.85
 SAC @ LAL,Quentin Grimes 3pm under 2.5 + Darius Acuff Jr. 20+ pra,2,0.6495,0.5092,1.96,2.06,1.8,-0.0837,0.999,1.65-1.85
