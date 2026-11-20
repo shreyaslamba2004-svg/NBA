@@ -50,8 +50,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909305,CHA @ ATL,moneyline,CHA,,,,draftkings,205.0,3.05,0.3677,2.72,0.3149,0.3342,0.0335,4.13,0.1216,0.3342,0.0193,0.0024,False,True,True,,,
 401909313,SAC @ LAL,moneyline,SAC,,,,betfair_ex_au,627.0,7.27,0.1252,7.98,0.1348,0.1401,-0.0149,2.01,-0.0894,0.1401,0.0187,0.0007,False,True,True,,,
 401909310,NOP @ OKC,prop_ast,over,Trey Murphy III,1630530.0,4.5,draftkings,486.0,5.86,0.2525,3.96,0.1595,0.1595,0.093,,0.4794,0.1738,0.0185,0.001,False,False,False,Trey Murphy III,0.0,0.2586
-401909311,PHX @ UTA,prop_ast,over,Devin Booker,1626164.0,8.5,draftkings,680.0,7.8,0.1888,5.3,0.1198,0.1198,0.069,,0.4729,0.1304,0.0175,0.0006,False,False,False,,,
 401909313,SAC @ LAL,prop_ast,over,Darius Acuff Jr.,905142620.0,10.5,draftkings,920.0,10.2,0.1444,6.92,0.0916,0.0916,0.0528,,0.4731,0.0998,0.0175,0.0005,False,False,False,,,
+401909311,PHX @ UTA,prop_ast,over,Devin Booker,1626164.0,8.5,draftkings,680.0,7.8,0.1888,5.3,0.1198,0.1198,0.069,,0.4729,0.1304,0.0175,0.0006,False,False,False,,,
 401909312,HOU @ DEN,prop_pa,over,Nikola Jokic,203999.0,49.5,draftkings,1160.0,12.6,0.1169,8.56,0.0742,0.0742,0.0427,,0.4726,0.0807,0.0174,0.0004,False,True,False,,,
 401909308,TOR @ DET,prop_reb,over,Paul Reed,1630194.0,9.5,draftkings,349.0,4.49,0.3276,3.05,0.2081,0.2081,0.1194,,0.4707,0.2265,0.0171,0.0012,False,True,False,Ronald Holland II,0.3412,0.2699
 401909308,TOR @ DET,prop_pts,over,Jamal Shead,1642347.0,11.5,draftkings,359.0,4.59,0.3197,3.13,0.2036,0.2036,0.1161,,0.4676,0.2215,0.0167,0.0012,False,False,False,,,
@@ -88,7 +88,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909312,HOU @ DEN,prop_ast,over,Jamal Murray,1627750.0,9.5,draftkings,1100.0,12.0,0.1151,8.69,0.0779,0.0779,0.0372,,0.3815,0.0836,0.0034,0.0001,False,True,False,,,
 401909312,HOU @ DEN,prop_ast,over,Jamal Murray,1627750.0,8.5,draftkings,630.0,7.3,0.1888,5.3,0.128,0.128,0.0607,,0.3779,0.1374,0.0029,0.0001,False,False,False,,,
 401909308,TOR @ DET,prop_pts,over,Jamal Shead,1642347.0,9.5,draftkings,192.0,2.92,0.4712,2.12,0.3201,0.3201,0.1511,,0.3758,0.3433,0.0025,0.0003,True,True,False,,,
-401909311,PHX @ UTA,prop_ast,over,Devin Booker,1626164.0,7.5,draftkings,377.0,4.77,0.2868,3.49,0.1959,0.1959,0.0909,,0.3681,0.2099,0.0013,0.0001,False,True,False,,,
 401909307,IND @ CLE,prop_ast,over,Andrew Nembhard,1629614.0,10.5,draftkings,594.0,6.94,0.1971,5.07,0.1347,0.1347,0.0624,,0.3679,0.1443,0.0013,0.0001,False,False,False,Andrew Nembhard,0.0,0.2178
+401909311,PHX @ UTA,prop_ast,over,Devin Booker,1626164.0,7.5,draftkings,377.0,4.77,0.2868,3.49,0.1959,0.1959,0.0909,,0.3681,0.2099,0.0013,0.0001,False,True,False,,,
 401909308,TOR @ DET,prop_reb,over,Paul Reed,1630194.0,8.5,draftkings,220.0,3.2,0.4272,2.34,0.2921,0.2921,0.1352,,0.3671,0.3129,0.0012,0.0001,False,False,False,Ronald Holland II,0.4417,0.363
 401909307,IND @ CLE,prop_ast,over,Andrew Nembhard,1629614.0,13.5,draftkings,2300.0,24.0,0.0568,17.6,0.0389,0.0389,0.0179,,0.3638,0.0417,0.0007,0.0,False,True,False,Andrew Nembhard,0.0,0.0622
