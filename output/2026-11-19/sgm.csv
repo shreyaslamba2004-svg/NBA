@@ -1,38 +1,39 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-GSW @ MEM,Cameron Boozer pts under 18.5 + De'Anthony Melton 10+ pa,2,0.5082,0.3898,2.57,2.69,2.49,-0.0305,1.001,2.10-2.50
-GSW @ MEM,Cameron Boozer pts under 18.5 + Jaylen Wells 10+ pra,2,0.5262,0.4003,2.5,2.62,2.41,-0.0347,0.995,2.10-2.50
-GSW @ MEM,Cameron Boozer pts under 18.5 + Charles Bassey 10+ pr,2,0.5495,0.4218,2.37,2.49,2.29,-0.0348,0.997,2.10-2.50
-GSW @ MEM,De'Anthony Melton 11+ pts + Charles Bassey 10+ pr,2,0.5894,0.459,2.18,2.29,2.1,-0.0383,1.002,1.85-2.10
-GSW @ MEM,De'Anthony Melton 11+ pts + Charles Bassey 4+ reb,2,0.5921,0.4684,2.13,2.24,2.04,-0.0435,0.999,1.85-2.10
-GSW @ MEM,De'Anthony Melton 11+ pts + Jerami Grant 5+ pa,2,0.6066,0.4898,2.04,2.14,1.95,-0.0465,1.0,1.85-2.10
-GSW @ MEM,Taylor Hendricks 4+ reb + Jerami Grant 5+ pa,2,0.7099,0.5228,1.91,2.01,1.78,-0.0678,1.0,1.65-1.85
-GSW @ MEM,Taylor Hendricks 4+ reb + Yaxel Lendeborg 4+ reb,2,0.675,0.505,1.98,2.08,1.84,-0.0705,1.0,1.65-1.85
-GSW @ MEM,Charles Bassey 7+ reb + Jerami Grant 5+ pa,2,0.6938,0.526,1.9,2.0,1.76,-0.0731,1.0,1.65-1.85
-GSW @ MEM,Jaylen Wells 10+ pra + Gui Santos 10+ pra + Charles Bassey 10+ pr,3,0.7375,0.557,1.8,1.89,1.55,-0.136,1.003,1.50-1.65
-GSW @ MEM,Jaylen Wells 10+ pra + De'Anthony Melton 10+ pa + Charles Bassey 10+ pr,3,0.7144,0.5423,1.84,1.94,1.59,-0.1361,1.004,1.50-1.65
-GSW @ MEM,Gui Santos 10+ pra + De'Anthony Melton 10+ pa + Charles Bassey 10+ pr,3,0.709,0.5399,1.85,1.94,1.6,-0.1363,1.004,1.50-1.65
-POR @ MIL,Tyler Herro pts under 20.5 + POR win,2,0.478,0.4252,2.35,2.47,2.47,0.0497,1.051,2.10-2.50
-POR @ MIL,Jrue Holiday 14+ pts + POR win,2,0.5126,0.4388,2.28,2.39,2.32,0.0186,1.029,2.10-2.50
+GSW @ MEM,Cameron Boozer pts under 18.5 + Gui Santos 10+ pra,2,0.522,0.3935,2.54,2.67,2.49,-0.0208,0.995,2.10-2.50
+GSW @ MEM,Cameron Boozer pts under 18.5 + De'Anthony Melton 10+ pa,2,0.5082,0.3976,2.52,2.64,2.46,-0.0223,1.001,2.10-2.50
+GSW @ MEM,Cameron Boozer pts under 18.5 + Jaylen Wells 10+ pra,2,0.5262,0.3998,2.5,2.63,2.44,-0.0224,0.995,2.10-2.50
+GSW @ MEM,De'Anthony Melton 11+ pts + Charles Bassey 10+ pr,2,0.5894,0.4607,2.17,2.28,2.09,-0.039,1.002,1.85-2.10
+GSW @ MEM,De'Anthony Melton 11+ pts + Charles Bassey 4+ reb,2,0.5921,0.4647,2.15,2.26,2.06,-0.0421,0.999,1.85-2.10
+GSW @ MEM,Charles Bassey 7+ reb + Gui Santos 10+ pra,2,0.6434,0.4519,2.21,2.32,2.1,-0.0513,1.004,1.85-2.10
+GSW @ MEM,Jaylen Wells 10+ pra + Brandin Podziemski 20+ pra,2,0.7372,0.6021,1.66,1.74,1.51,-0.0898,1.002,1.50-1.65
+GSW @ MEM,Brandin Podziemski 20+ pra + De'Anthony Melton 10+ pa,2,0.71,0.597,1.67,1.76,1.52,-0.0923,1.005,1.50-1.65
+GSW @ MEM,Brandin Podziemski 20+ pra + Jerami Grant 10+ pra,2,0.6915,0.5876,1.7,1.79,1.54,-0.0975,1.002,1.50-1.65
+GSW @ MEM,Gui Santos 10+ pra + Brandin Podziemski 20+ pra + De'Anthony Melton 10+ pa,3,0.6314,0.4723,2.12,2.22,1.85,-0.1284,1.01,1.65-1.85
+GSW @ MEM,Jaylen Wells 10+ pra + Brandin Podziemski 20+ pra + De'Anthony Melton 10+ pa,3,0.6358,0.4794,2.09,2.19,1.81,-0.1308,1.008,1.65-1.85
+GSW @ MEM,Gui Santos 10+ pra + Brandin Podziemski 20+ pra + Charles Bassey 10+ pr,3,0.6829,0.5085,1.97,2.06,1.71,-0.1309,1.006,1.65-1.85
+POR @ MIL,Tyler Herro pts under 20.5 + POR win,2,0.478,0.4289,2.33,2.45,2.43,0.0441,1.051,2.10-2.50
+POR @ MIL,Jrue Holiday 14+ pts + POR win,2,0.5126,0.4444,2.25,2.36,2.32,0.0318,1.029,2.10-2.50
 POR @ MIL,Scoot Henderson 11+ pts + POR win,2,0.522,0.4529,2.21,2.32,2.24,0.0163,1.029,2.10-2.50
-POR @ MIL,Tyler Herro pts under 20.5 + Jrue Holiday 10+ pa,2,0.6259,0.4706,2.12,2.23,2.05,-0.0347,1.0,1.85-2.10
-POR @ MIL,Ryan Rollins 12+ pts + Jrue Holiday 15+ pra,2,0.5736,0.4606,2.17,2.28,2.09,-0.0362,1.003,1.85-2.10
-POR @ MIL,POR win + Jrue Holiday 15+ pa,2,0.6379,0.6053,1.65,1.73,1.59,-0.0385,1.019,1.50-1.65
-POR @ MIL,Scoot Henderson 11+ pts + Jrue Holiday 15+ pra,2,0.6854,0.4995,2.0,2.1,1.92,-0.041,1.003,1.85-2.10
-POR @ MIL,POR win + Jrue Holiday 10+ pts,2,0.639,0.6135,1.63,1.71,1.55,-0.0462,1.013,1.50-1.65
-POR @ MIL,POR win + Toumani Camara 15+ pra,2,0.6098,0.6121,1.63,1.72,1.55,-0.0512,1.018,1.50-1.65
-POR @ MIL,POR win + Jrue Holiday 10+ pts + Toumani Camara 10+ pa,3,0.5698,0.503,1.99,2.09,1.84,-0.0759,1.034,1.65-1.85
-POR @ MIL,POR win + Jrue Holiday 10+ pts + Sidy Cissoko 10+ pra,3,0.5851,0.5058,1.98,2.08,1.82,-0.0814,1.023,1.65-1.85
-POR @ MIL,POR win + Sidy Cissoko 10+ pra + Toumani Camara 15+ pra,3,0.5582,0.5046,1.98,2.08,1.81,-0.0862,1.027,1.65-1.85
-NYK @ MIN,Joan Beringer 5+ pts + Terrence Shannon Jr. 10+ pra,2,0.5149,0.4169,2.4,2.52,2.34,-0.0262,1.008,2.10-2.50
-NYK @ MIN,Joan Beringer 5+ pts + Trey Lyles 5+ pr,2,0.5493,0.4366,2.29,2.4,2.23,-0.0271,1.003,2.10-2.50
-NYK @ MIN,Joan Beringer 5+ pts + OG Anunoby 15+ pr,2,0.4928,0.3908,2.56,2.69,2.49,-0.0279,1.002,2.10-2.50
-NYK @ MIN,Karl-Anthony Towns pts under 20.5 + OG Anunoby 10+ pr,2,0.5184,0.4601,2.17,2.28,2.05,-0.0585,0.995,1.85-2.10
-NYK @ MIN,Mikal Bridges pts under 9.5 + OG Anunoby 10+ pr,2,0.5332,0.465,2.15,2.26,2.02,-0.0619,0.997,1.85-2.10
-NYK @ MIN,Miles McBride 3pm under 1.5 + Trey Lyles 5+ pr,2,0.7575,0.5453,1.83,1.93,1.72,-0.0642,1.0,1.65-1.85
-NYK @ MIN,Miles McBride 3pm under 1.5 + Joan Beringer 5+ pr,2,0.7559,0.5394,1.85,1.95,1.73,-0.0645,0.998,1.65-1.85
-NYK @ MIN,Ayo Dosunmu pts under 17.5 + OG Anunoby 10+ pr,2,0.5408,0.4637,2.16,2.26,2.02,-0.0646,1.0,1.85-2.10
-NYK @ MIN,Miles McBride 3pm under 1.5 + Joan Beringer 5+ pra,2,0.7646,0.5494,1.82,1.91,1.7,-0.0648,0.999,1.65-1.85
-NYK @ MIN,Miles McBride 3pm under 1.5 + OG Anunoby 10+ pr,2,0.8046,0.5809,1.72,1.81,1.61,-0.0663,0.998,1.50-1.65
+POR @ MIL,Jrue Holiday 14+ pts + Brayden Burries 10+ pr,2,0.6336,0.4659,2.15,2.25,2.08,-0.0292,1.002,1.85-2.10
+POR @ MIL,Jrue Holiday 14+ pts + Toumani Camara 10+ pa,2,0.6159,0.4652,2.15,2.26,2.09,-0.0294,1.007,1.85-2.10
+POR @ MIL,Jrue Holiday 14+ pts + Toumani Camara 10+ pr,2,0.6646,0.4972,2.01,2.11,1.95,-0.0321,1.003,1.85-2.10
+POR @ MIL,POR win + Scoot Henderson 1+ 3pm,2,0.6042,0.6184,1.62,1.7,1.51,-0.0636,1.008,1.50-1.65
+POR @ MIL,POR win + Ryan Rollins 15+ pra,2,0.6036,0.5892,1.7,1.78,1.57,-0.0765,0.985,1.50-1.65
+POR @ MIL,POR win + Sidy Cissoko 10+ pra + Toumani Camara 15+ pra,3,0.5582,0.524,1.91,2.0,1.73,-0.0928,1.027,1.65-1.85
+POR @ MIL,Ryan Rollins 15+ pra + Scoot Henderson 1+ 3pm,2,0.7241,0.594,1.68,1.77,1.53,-0.093,0.999,1.50-1.65
+POR @ MIL,POR win + Sidy Cissoko 10+ pra + Toumani Camara 10+ pa,3,0.5798,0.5455,1.83,1.92,1.66,-0.0933,1.027,1.65-1.85
+POR @ MIL,POR win + Sidy Cissoko 10+ pra + Scoot Henderson 1+ 3pm,3,0.5526,0.5016,1.99,2.09,1.8,-0.0963,1.017,1.65-1.85
+NYK @ MIN,Joan Beringer 5+ pts + Trey Lyles 5+ pr,2,0.5493,0.4383,2.28,2.4,2.21,-0.0331,1.003,2.10-2.50
+NYK @ MIN,Joan Beringer 5+ pts + OG Anunoby 15+ pr,2,0.4928,0.3923,2.55,2.68,2.46,-0.0338,1.002,2.10-2.50
+NYK @ MIN,Joan Beringer 5+ pts + OG Anunoby 10+ pts,2,0.5062,0.4052,2.47,2.59,2.38,-0.0344,1.002,2.10-2.50
+NYK @ MIN,Joan Beringer 5+ pts + Terrence Shannon Jr. 5+ pa,2,0.5789,0.4666,2.14,2.25,2.07,-0.0358,1.002,1.85-2.10
+NYK @ MIN,Karl-Anthony Towns pts under 20.5 + Terrence Shannon Jr. 5+ pa,2,0.5163,0.4618,2.17,2.27,2.05,-0.055,0.999,1.85-2.10
+NYK @ MIN,Karl-Anthony Towns pts under 20.5 + OG Anunoby 10+ pr,2,0.5184,0.4604,2.17,2.28,2.05,-0.0578,0.995,1.85-2.10
+NYK @ MIN,Miles McBride 3pm under 1.5 + Trey Lyles 5+ pr,2,0.7575,0.5471,1.83,1.92,1.71,-0.0649,1.0,1.65-1.85
+NYK @ MIN,Miles McBride 3pm under 1.5 + Joan Beringer 5+ pr,2,0.7559,0.5411,1.85,1.94,1.73,-0.0652,0.998,1.65-1.85
+NYK @ MIN,Miles McBride 3pm under 1.5 + Joan Beringer 5+ pra,2,0.7646,0.5511,1.81,1.91,1.7,-0.0655,0.999,1.65-1.85
+NYK @ MIN,Miles McBride 3pm under 1.5 + Terrence Shannon Jr. 5+ pa,2,0.7995,0.5832,1.71,1.8,1.6,-0.0663,1.0,1.50-1.65
+NYK @ MIN,Miles McBride 3pm under 1.5 + OG Anunoby 10+ pr,2,0.8046,0.5827,1.72,1.8,1.6,-0.067,0.998,1.50-1.65
 LAC @ SAS,Derrick Jones Jr. pts under 8.5 + SAS win,2,0.3975,0.4448,2.25,2.36,2.28,0.0157,1.047,2.10-2.50
 LAC @ SAS,Victor Wembanyama 29+ pts + SAS win,2,0.4345,0.4498,2.22,2.33,2.23,0.0022,1.043,2.10-2.50
 LAC @ SAS,Devin Vassell 13+ pts + SAS win,2,0.4559,0.4455,2.24,2.36,2.23,-0.0074,1.038,2.10-2.50
