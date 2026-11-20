@@ -48,20 +48,19 @@ TOR @ DET,DET win + Jamal Shead 10+ pra,2,0.6401,0.5617,1.78,1.87,1.65,-0.0716,0
 TOR @ DET,DET win + Scottie Barnes 4+ reb,2,0.6482,0.6076,1.65,1.73,1.52,-0.0754,0.998,1.50-1.65
 WAS @ CHI,WAS +2.5 + Kyshawn George 20+ pra,2,0.3415,0.403,2.48,2.61,2.38,-0.0394,1.048,2.10-2.50
 WAS @ CHI,WAS +2.5 + Kyshawn George 15+ pa,2,0.3532,0.4165,2.4,2.52,2.3,-0.0434,1.044,2.10-2.50
-WAS @ CHI,Nic Claxton pr under 17.5 + Kyshawn George 15+ pra,2,0.6789,0.4541,2.2,2.31,2.1,-0.0468,0.998,1.85-2.10
-WAS @ CHI,Nic Claxton pr under 17.5 + Alex Sarr 4+ reb,2,0.6466,0.441,2.27,2.38,2.16,-0.0473,1.001,2.10-2.50
-WAS @ CHI,Nic Claxton pr under 17.5 + Kyshawn George 10+ pa,2,0.6961,0.4687,2.13,2.24,2.03,-0.0474,0.998,1.85-2.10
-WAS @ CHI,Nic Claxton pr under 17.5 + Anthony Davis 6+ reb,2,0.6798,0.4622,2.16,2.27,2.06,-0.0494,0.998,1.85-2.10
+WAS @ CHI,Nic Claxton pr under 17.5 + Kyshawn George 15+ pra,2,0.6789,0.4538,2.2,2.31,2.1,-0.0476,0.998,1.85-2.10
+WAS @ CHI,Nic Claxton pr under 17.5 + Alex Sarr 4+ reb,2,0.6466,0.4406,2.27,2.38,2.16,-0.0481,1.001,2.10-2.50
+WAS @ CHI,Nic Claxton pr under 17.5 + Kyshawn George 10+ pa,2,0.6961,0.4683,2.14,2.24,2.03,-0.0482,0.998,1.85-2.10
+WAS @ CHI,Nic Claxton pra under 20.5 + Kyshawn George 15+ pra,2,0.6971,0.4714,2.12,2.23,2.02,-0.0497,0.999,1.85-2.10
 WAS @ CHI,Tre Jones pts under 13.5 + Kyshawn George 10+ pa,2,0.6374,0.4962,2.02,2.12,1.85,-0.0822,0.999,1.65-1.85
 WAS @ CHI,Nic Claxton ast under 2.5 + Kyshawn George 10+ pa,2,0.6265,0.4994,2.0,2.1,1.83,-0.0858,1.0,1.65-1.85
-WAS @ CHI,Isaac Okoro 3pm under 1.5 + Kyshawn George 15+ pra,2,0.6486,0.5134,1.95,2.05,1.78,-0.0864,0.999,1.65-1.85
-NOP @ OKC,Jeremiah Fears pa under 21.5 + OKC win,2,0.5093,0.4257,2.35,2.47,2.28,-0.0276,1.038,2.10-2.50
-NOP @ OKC,Jeremiah Fears pts under 15.5 + OKC win,2,0.494,0.411,2.43,2.55,2.36,-0.0295,1.035,2.10-2.50
-NOP @ OKC,Jeremiah Fears pra under 26.5 + OKC win,2,0.5158,0.4285,2.33,2.45,2.26,-0.0299,1.035,2.10-2.50
+NOP @ OKC,OKC win + Jeremiah Fears pa under 21.5,2,0.5093,0.4252,2.35,2.47,2.34,-0.0057,1.038,2.10-2.50
+NOP @ OKC,OKC win + Jeremiah Fears pts under 15.5,2,0.494,0.4105,2.44,2.56,2.42,-0.0076,1.035,2.10-2.50
+NOP @ OKC,OKC win + Jeremiah Fears pra under 26.5,2,0.5158,0.428,2.34,2.45,2.32,-0.008,1.035,2.10-2.50
+NOP @ OKC,OKC win + Jaylin Williams 3pm under 1.5,2,0.6382,0.525,1.9,2.0,1.81,-0.0511,0.988,1.65-1.85
 NOP @ OKC,NOP +11.5 + Saddiq Bey 15+ pra,2,0.4424,0.4462,2.24,2.35,2.09,-0.0656,1.016,1.85-2.10
 NOP @ OKC,NOP +11.5 + Herbert Jones 5+ pr,2,0.4527,0.451,2.22,2.33,2.06,-0.0694,1.01,1.85-2.10
 NOP @ OKC,NOP +11.5 + Saddiq Bey 10+ pa,2,0.4518,0.4584,2.18,2.29,2.03,-0.0707,1.012,1.85-2.10
-NOP @ OKC,Jaylin Williams 3pm under 1.5 + OKC win,2,0.6382,0.5257,1.9,2.0,1.77,-0.0721,0.988,1.65-1.85
 NOP @ OKC,Jaylin Williams 3pm under 1.5 + Saddiq Bey 1+ 3pm,2,0.7248,0.5531,1.81,1.9,1.67,-0.078,1.0,1.65-1.85
 NOP @ OKC,Jaylin Williams 3pm under 1.5 + Kenrich Williams 5+ pa,2,0.7317,0.5521,1.81,1.9,1.67,-0.0786,0.997,1.65-1.85
 NOP @ OKC,Jaylin Williams 3pm under 1.5 + Herbert Jones 5+ pr,2,0.7497,0.5817,1.72,1.81,1.58,-0.081,1.0,1.50-1.65

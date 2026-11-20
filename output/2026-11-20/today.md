@@ -1,6 +1,6 @@
 # NBA model · Fri 20 Nov 2026 (US date)
 
-Updated **Sat 21 Nov, 10:37 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-20/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 21 Nov, 10:42 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-20/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -19,7 +19,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Scottie Barnes AST over 9.5 (10+) | TOR @ DET | draftkings | 14.80 | 12.69 | 6.07 | 16.5% | 6.3% | 7.9% | +16.6% | +144.0% | 0.3% |
-| NOP to win | NOP @ OKC | sportsbet | 6.10 | 5.47 | 5.33 | 18.7% | 18.3% | 18.3% | +11.4% | +14.3% | 0.6% |
+| NOP to win | NOP @ OKC | sportsbet | 6.10 | 5.44 | 5.33 | 18.7% | 18.4% | 18.4% | +12.0% | +14.3% | 0.6% |
 | Luka Doncic PA over 59.5 (60+) | SAC @ LAL | draftkings | 9.30 | 8.56 | 4.84 | 20.6% | 10.1% | 11.7% | +8.6% | +92.0% | 0.3% |
 | Shai Gilgeous-Alexander AST over 9.5 (10+) | NOP @ OKC | draftkings | 12.20 | 11.48 | 6.90 | 14.5% | 7.7% | 8.7% | +6.3% | +76.9% | 0.1% |
 | Jamal Shead AST over 9.5 (10+) | TOR @ DET | draftkings | 13.80 | 13.00 | 7.87 | 12.7% | 6.8% | 7.7% | +6.1% | +75.3% | 0.1% |
@@ -53,7 +53,7 @@ Game lines below assume every questionable player sits; each game's section show
 | IND @ CLE | Sat 21 Nov 11:30 | 114.0–119.9 | IND 34% | 2.96 / 1.51 | CLE -6.5 | 233.5 | CLE -5.5 covers 52%; o234.5 48% |
 | TOR @ DET | Sat 21 Nov 11:30 | 105.7–113.3 | TOR 30% | 3.39 / 1.42 | DET -7.5 | 218.5 | DET -6.5 covers 53%; o216.5 55% |
 | WAS @ CHI | Sat 21 Nov 12:00 | 117.0–120.8 | WAS 39% | 2.57 / 1.64 | CHI -4.5 | 237.5 | CHI -1.5 covers 58%; o238.5 48% |
-| NOP @ OKC | Sat 21 Nov 12:00 | 106.0–119.2 | NOP 17% | 5.81 / 1.21 | OKC -13.5 | 225.5 | OKC -11.5 covers 54%; o227.5 45% |
+| NOP @ OKC | Sat 21 Nov 12:00 | 106.0–119.2 | NOP 17% | 5.81 / 1.21 | OKC -13.5 | 225.5 | OKC -11.5 covers 54%; o229.5 41% |
 | PHX @ UTA | Sat 21 Nov 13:30 | 121.0–115.2 | PHX 65% | 1.53 / 2.90 | UTA +5.5 | 236.5 | UTA +4.5 covers 46%; o225.5 72% |
 | HOU @ DEN | Sat 21 Nov 14:00 | 111.2–115.6 | HOU 38% | 2.67 / 1.60 | DEN -4.5 | 226.5 | DEN -1.5 covers 59%; o228.5 46% |
 | SAC @ LAL | Sat 21 Nov 14:00 | 105.7–122.8 | SAC 11% | 8.85 / 1.13 | LAL -17.5 | 228.5 | LAL -14.5 covers 57%; o229.5 48% |
@@ -383,9 +383,9 @@ Out: Alex Caruso (OKC), Chet Holmgren (OKC), Nikola Topic (OKC), Cason Wallace (
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 106.0–119.2 | NOP 17% | 5.81 / 1.21 | OKC -13.5 | 225.5 | OKC -11.5 covers 54%; o227.5 45% |
-| Expected (weighted by chance each plays) | 106.6–118.9 | NOP 19% | 5.33 / 1.23 | OKC -12.5 | 225.5 | OKC -11.5 covers 52%; o227.5 46% |
-| if Trey Murphy III plays | 107.4–118.8 | NOP 21% | 4.84 / 1.26 | OKC -11.5 | 225.5 | OKC -11.5 covers 49%; o227.5 47% |
+| Confirmed players only | 106.0–119.2 | NOP 17% | 5.81 / 1.21 | OKC -13.5 | 225.5 | OKC -11.5 covers 54%; o229.5 41% |
+| Expected (weighted by chance each plays) | 106.6–118.9 | NOP 19% | 5.33 / 1.23 | OKC -12.5 | 225.5 | OKC -11.5 covers 52%; o229.5 42% |
+| if Trey Murphy III plays | 107.4–118.8 | NOP 21% | 4.84 / 1.26 | OKC -11.5 | 225.5 | OKC -11.5 covers 49%; o229.5 43% |
 
 **Questionable players: chance to play, and their projection if they do**
 

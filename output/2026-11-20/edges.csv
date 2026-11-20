@@ -5,7 +5,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909308,TOR @ DET,prop_ast,over,Scottie Barnes,1630567.0,9.5,draftkings,1380.0,14.8,0.1648,6.07,0.0631,0.0631,0.1017,,1.4397,0.0788,0.1664,0.003,False,True,False,,,
 401909308,TOR @ DET,prop_ast,over,Scottie Barnes,1630567.0,10.5,draftkings,2200.0,23.0,0.1044,9.58,0.0406,0.0406,0.0637,,1.4002,0.0504,0.1603,0.0018,False,False,False,,,
 401909308,TOR @ DET,prop_ast,over,Scottie Barnes,1630567.0,8.5,draftkings,780.0,8.8,0.2495,4.01,0.1062,0.1062,0.1433,,1.1959,0.1283,0.1288,0.0041,False,False,False,,,
-401909310,NOP @ OKC,moneyline,NOP,,,,sportsbet,510.0,6.1,0.1874,5.33,0.1575,0.1827,0.0048,4.11,0.1434,0.1827,0.1143,0.0056,False,True,True,,,
+401909310,NOP @ OKC,moneyline,NOP,,,,sportsbet,510.0,6.1,0.1874,5.33,0.1575,0.1837,0.0038,4.11,0.1434,0.1837,0.1205,0.0059,False,True,True,,,
 401909313,SAC @ LAL,prop_pa,over,Luka Doncic,1629029.0,59.5,draftkings,830.0,9.3,0.2064,4.84,0.1005,0.1005,0.106,,0.92,0.1168,0.0863,0.0026,False,True,False,,,
 401909308,TOR @ DET,prop_ast,over,Scottie Barnes,1630567.0,7.5,draftkings,429.0,5.29,0.3575,2.8,0.1767,0.1767,0.1809,,0.8914,0.2045,0.0819,0.0048,True,True,False,,,
 401909310,NOP @ OKC,prop_ast,over,Trey Murphy III,1630530.0,5.5,draftkings,1220.0,13.2,0.1389,7.2,0.0708,0.0708,0.0681,,0.8336,0.0813,0.073,0.0015,False,True,False,Trey Murphy III,0.0,0.1412
@@ -16,10 +16,10 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909310,NOP @ OKC,prop_ast,over,Trey Murphy III,1630530.0,4.5,draftkings,589.0,6.89,0.2533,3.95,0.1356,0.1356,0.1176,,0.745,0.1538,0.0594,0.0025,False,False,False,Trey Murphy III,0.0,0.2586
 401909308,TOR @ DET,prop_pra,over,Paul Reed,1630194.0,34.5,draftkings,1360.0,14.6,0.1194,8.38,0.064,0.064,0.0554,,0.7432,0.0725,0.0591,0.0011,False,True,False,,,
 401909308,TOR @ DET,prop_pra,over,Paul Reed,1630194.0,29.5,draftkings,591.0,6.91,0.2518,3.97,0.1353,0.1353,0.1166,,0.7402,0.1532,0.0586,0.0025,False,True,False,Ronald Holland II,0.2651,0.2021
+401909310,NOP @ OKC,moneyline,NOP,,,,betfair_ex_au,475.0,5.75,0.1874,5.33,0.1703,0.1837,0.0038,2.09,0.0778,0.1837,0.0562,0.003,False,True,True,,,
 401909308,TOR @ DET,prop_pra,over,Jamal Shead,1642347.0,24.5,draftkings,980.0,10.8,0.1595,6.27,0.0865,0.0865,0.073,,0.7228,0.0978,0.056,0.0014,False,True,False,,,
 401909305,CHA @ ATL,prop_pts,over,Jalen Wilson,1630592.0,1.5,tab,110.0,2.1,0.8194,1.22,0.4445,0.4445,0.3749,7.13,0.7208,0.5022,0.0547,0.0124,True,False,True,,,
 401909308,TOR @ DET,prop_ast,over,Jamal Shead,1642347.0,8.5,draftkings,770.0,8.7,0.1955,5.11,0.1074,0.1074,0.0881,,0.7011,0.121,0.0526,0.0017,False,False,False,,,
-401909310,NOP @ OKC,moneyline,NOP,,,,betfair_ex_au,475.0,5.75,0.1874,5.33,0.1703,0.1827,0.0048,2.09,0.0778,0.1827,0.0503,0.0026,False,True,True,,,
 401909309,WAS @ CHI,prop_ast,over,Anthony Davis,203076.0,4.5,draftkings,810.0,9.1,0.1839,5.44,0.1027,0.1027,0.0812,,0.6734,0.1152,0.0484,0.0015,False,False,False,,,
 401909308,TOR @ DET,prop_ast,over,Jamal Shead,1642347.0,10.5,draftkings,2000.0,21.0,0.0789,12.67,0.0445,0.0445,0.0344,,0.6569,0.0498,0.0458,0.0006,False,False,False,,,
 401909309,WAS @ CHI,prop_ast,over,Anthony Davis,203076.0,5.5,draftkings,1720.0,18.2,0.0907,11.02,0.0514,0.0514,0.0394,,0.6512,0.0574,0.0449,0.0007,False,True,False,,,
@@ -51,8 +51,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909308,TOR @ DET,prop_pra,over,Paul Reed,1630194.0,24.5,draftkings,230.0,3.3,0.4446,2.25,0.2832,0.2832,0.1614,,0.4672,0.3081,0.0166,0.0018,True,True,False,Ronald Holland II,0.4637,0.3792
 401909312,HOU @ DEN,prop_pa,over,Nikola Jokic,203999.0,54.5,draftkings,2200.0,23.0,0.0637,15.7,0.0406,0.0406,0.0231,,0.4654,0.0442,0.0163,0.0002,False,True,False,,,
 401909305,CHA @ ATL,prop_reb,over,Royce O'Neale,1626220.0,7.5,draftkings,1200.0,13.0,0.1125,8.89,0.0719,0.0719,0.0406,,0.462,0.0781,0.0158,0.0003,False,True,False,,,
-401909307,IND @ CLE,prop_ast,over,Quenton Jackson,1631245.0,5.5,draftkings,1040.0,11.4,0.1279,7.82,0.082,0.082,0.0459,,0.4579,0.089,0.0152,0.0004,False,True,False,,,
 401909312,HOU @ DEN,prop_ast,over,Amen Thompson,1641708.0,6.5,draftkings,750.0,8.5,0.1716,5.83,0.11,0.11,0.0616,,0.4583,0.1194,0.0152,0.0005,False,False,False,,,
+401909307,IND @ CLE,prop_ast,over,Quenton Jackson,1631245.0,5.5,draftkings,1040.0,11.4,0.1279,7.82,0.082,0.082,0.0459,,0.4579,0.089,0.0152,0.0004,False,True,False,,,
 401909311,PHX @ UTA,prop_pa,over,Jalen Green,1630224.0,29.5,draftkings,1280.0,13.8,0.1056,9.47,0.0677,0.0677,0.0379,,0.4577,0.0736,0.0151,0.0003,False,True,False,,,
 401909307,IND @ CLE,prop_ast,over,Quenton Jackson,1631245.0,4.5,draftkings,533.0,6.33,0.2299,4.35,0.1476,0.1476,0.0823,,0.4553,0.1603,0.0148,0.0007,False,False,False,,,
 401909312,HOU @ DEN,prop_ast,over,Nikola Jokic,203999.0,14.5,draftkings,1300.0,14.0,0.1035,9.66,0.0668,0.0668,0.0368,,0.4494,0.0724,0.0139,0.0003,False,False,False,,,
@@ -64,25 +64,25 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401909312,HOU @ DEN,prop_ast,over,Kevin Durant,201142.0,7.5,draftkings,900.0,10.0,0.1434,6.97,0.0935,0.0935,0.05,,0.4344,0.1012,0.0115,0.0003,False,True,False,Alperen Sengun,0.1871,0.1098
 401909312,HOU @ DEN,prop_ast,over,Nikola Jokic,203999.0,13.5,draftkings,840.0,9.4,0.1524,6.56,0.0994,0.0994,0.053,,0.4328,0.1076,0.0113,0.0003,False,True,False,,,
 401909313,SAC @ LAL,prop_reb,over,Walker Kessler,1631117.0,15.5,draftkings,720.0,8.2,0.1745,5.73,0.114,0.114,0.0606,,0.4313,0.1233,0.0111,0.0004,False,True,False,,,
-401909309,WAS @ CHI,prop_pr,under,Nic Claxton,1629651.0,17.5,draftkings,-103.0,1.97,0.7231,1.38,0.4747,0.4747,0.2483,6.88,0.4251,0.513,0.011,0.0028,True,True,True,Jalen Smith,0.6913,0.738
 401909312,HOU @ DEN,prop_ast,over,Amen Thompson,1641708.0,7.5,draftkings,1400.0,15.0,0.0953,10.49,0.0623,0.0623,0.033,,0.4297,0.0674,0.0108,0.0002,False,True,False,,,
 401909310,NOP @ OKC,prop_ast,over,Zion Williamson,1629627.0,5.5,draftkings,990.0,10.9,0.131,7.64,0.0857,0.0857,0.0452,,0.4274,0.0927,0.0105,0.0003,False,True,False,,,
+401909310,NOP @ OKC,moneyline,NOP,,,,pointsbetau,450.0,5.5,0.1874,5.33,0.1742,0.1837,0.0038,4.39,0.031,0.1837,0.0103,0.0006,False,True,True,,,
+401909310,NOP @ OKC,moneyline,NOP,,,,betr_au,450.0,5.5,0.1874,5.33,0.1742,0.1837,0.0038,4.39,0.031,0.1837,0.0103,0.0006,False,True,True,,,
 401909308,TOR @ DET,prop_reb,over,Paul Reed,1630194.0,11.5,draftkings,740.0,8.4,0.1697,5.89,0.1113,0.1113,0.0584,,0.4254,0.1203,0.0102,0.0003,False,True,False,Ronald Holland II,0.1806,0.134
+401909309,WAS @ CHI,prop_pr,under,Nic Claxton,1629651.0,17.5,draftkings,-103.0,1.97,0.7231,1.38,0.4742,0.4742,0.2489,,0.4251,0.5125,0.0101,0.0026,True,True,True,Jalen Smith,0.6913,0.738
 401909313,SAC @ LAL,prop_reb,over,Walker Kessler,1631117.0,18.5,draftkings,2100.0,22.0,0.0645,15.5,0.0425,0.0425,0.022,,0.4196,0.0459,0.0093,0.0001,False,False,False,,,
 401909313,SAC @ LAL,prop_pa,over,Luka Doncic,1629029.0,54.5,draftkings,384.0,4.84,0.2932,3.41,0.1931,0.1931,0.1002,,0.4193,0.2085,0.0092,0.0006,False,True,False,,,
 401909313,SAC @ LAL,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,549.0,6.49,0.2186,4.58,0.144,0.144,0.0746,,0.4184,0.1555,0.0091,0.0004,False,True,False,,,
 401909305,CHA @ ATL,prop_reb,over,Ryan Kalkbrenner,1641750.0,6.5,draftkings,344.0,4.44,0.3189,3.14,0.2105,0.2105,0.1084,,0.4159,0.2272,0.0087,0.0006,False,False,False,,,
 401909308,TOR @ DET,prop_pts,over,Jamal Shead,1642347.0,14.5,draftkings,780.0,8.8,0.1604,6.24,0.1062,0.1062,0.0542,,0.4113,0.1145,0.008,0.0003,False,True,False,,,
 401909312,HOU @ DEN,prop_ast,over,Amen Thompson,1641708.0,5.5,draftkings,388.0,4.88,0.2889,3.46,0.1915,0.1915,0.0973,,0.4096,0.2065,0.0077,0.0005,False,True,False,Alperen Sengun,0.3033,0.2507
-401909312,HOU @ DEN,prop_ast,over,Kevin Durant,201142.0,8.5,draftkings,1580.0,16.8,0.0835,11.97,0.0556,0.0556,0.0279,,0.4033,0.0599,0.0068,0.0001,False,False,False,Alperen Sengun,0.114,0.0596
 401909309,WAS @ CHI,prop_pra,under,Nic Claxton,1629651.0,20.5,draftkings,-112.0,1.89,0.7415,1.35,0.4937,0.4937,0.2478,,0.4036,0.5319,0.0068,0.0019,True,True,True,Jalen Smith,0.7144,0.7575
+401909312,HOU @ DEN,prop_ast,over,Kevin Durant,201142.0,8.5,draftkings,1580.0,16.8,0.0835,11.97,0.0556,0.0556,0.0279,,0.4033,0.0599,0.0068,0.0001,False,False,False,Alperen Sengun,0.114,0.0596
 401909310,NOP @ OKC,prop_ast,over,Ajay Mitchell,1642349.0,6.5,draftkings,562.0,6.62,0.2115,4.73,0.1412,0.1412,0.0703,,0.4002,0.152,0.0063,0.0003,False,False,False,,,
 401909312,HOU @ DEN,prop_ast,over,Jamal Murray,1627750.0,8.5,draftkings,640.0,7.4,0.1888,5.3,0.1263,0.1263,0.0625,,0.3968,0.1359,0.0058,0.0002,False,False,False,,,
 401909308,TOR @ DET,prop_pts,over,Jamal Shead,1642347.0,11.5,draftkings,337.0,4.37,0.3197,3.13,0.2139,0.2139,0.1059,,0.3973,0.2302,0.0058,0.0004,False,False,False,,,
 401909310,NOP @ OKC,prop_ast,over,Ajay Mitchell,1642349.0,8.5,draftkings,1920.0,20.2,0.069,14.49,0.0463,0.0463,0.0227,,0.3937,0.0498,0.0053,0.0001,False,False,False,,,
 401909308,TOR @ DET,prop_reb,over,Paul Reed,1630194.0,10.5,draftkings,481.0,5.81,0.2398,4.17,0.1609,0.1609,0.079,,0.3933,0.173,0.0052,0.0003,False,False,False,Ronald Holland II,0.252,0.1931
-401909310,NOP @ OKC,moneyline,NOP,,,,betr_au,450.0,5.5,0.1874,5.33,0.1742,0.1827,0.0048,4.39,0.031,0.1827,0.0047,0.0003,False,True,True,,,
-401909310,NOP @ OKC,moneyline,NOP,,,,pointsbetau,450.0,5.5,0.1874,5.33,0.1742,0.1827,0.0048,4.39,0.031,0.1827,0.0047,0.0003,False,True,True,,,
 401909307,IND @ CLE,prop_ast,over,Sam Merrill,1630241.0,3.5,draftkings,880.0,9.8,0.1417,7.06,0.0954,0.0954,0.0463,,0.3886,0.1025,0.0045,0.0001,False,True,False,,,
 401909309,WAS @ CHI,prop_pa,under,Nic Claxton,1629651.0,13.5,draftkings,-112.0,1.89,0.7329,1.36,0.4937,0.4937,0.2392,,0.3873,0.5306,0.0043,0.0012,True,True,True,Jalen Smith,0.7067,0.7502
 401909313,SAC @ LAL,prop_reb,over,Walker Kessler,1631117.0,14.5,draftkings,506.0,6.06,0.2287,4.37,0.1542,0.1542,0.0745,,0.3862,0.1657,0.0041,0.0002,False,False,False,,,
