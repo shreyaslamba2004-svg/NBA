@@ -1,7 +1,7 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910024,NYK,904683730,Jaden Akins,,,1.0,,,
 401910024,NYK,1630631,Jose Alvarado,,,1.0,,,
-401910024,NYK,1628384,OG Anunoby,Doubtful,Injury/Illness-LeftCalfTightness,0.2,Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers.,,
+401910024,NYK,1628384,OG Anunoby,Out,Injury/Illness-LeftCalfTightness,0.0,Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers.,,
 401910024,NYK,1628969,Mikal Bridges,,,1.0,,,
 401910024,NYK,1628973,Jalen Brunson,,,1.0,,,
 401910024,NYK,203903,Jordan Clarkson,Out,Injury/Illness-RightPlantarFasciitis,0.0,Clarkson (foot) won't play in Saturday's game against Portland.,,
