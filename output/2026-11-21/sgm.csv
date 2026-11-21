@@ -1,6 +1,9 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ PHI,PHI win + game over 229.5,2,0.2776,0.4169,2.4,2.52,2.2,-0.0816,1.001,2.10-2.50
-MIL @ PHI,PHI win + game under 229.5,2,0.44,0.4159,2.4,2.52,2.2,-0.0838,0.999,2.10-2.50
+MIL @ PHI,Tyler Herro pts under 20.5 + PHI win,2,0.5527,0.4764,2.1,2.2,2.08,-0.0071,1.027,1.85-2.10
+MIL @ PHI,Brayden Burries pts under 10.5 + PHI win,2,0.4855,0.4315,2.32,2.43,2.3,-0.0091,1.033,2.10-2.50
+MIL @ PHI,Myles Turner pts under 9.5 + PHI win,2,0.487,0.4458,2.24,2.36,2.2,-0.0179,1.032,2.10-2.50
+MIL @ PHI,Myles Turner 3pm under 1.5 + PHI win,2,0.502,0.4373,2.29,2.4,2.24,-0.0193,1.025,2.10-2.50
+MIL @ PHI,Brayden Burries 3pm under 1.5 + PHI win,2,0.5542,0.5357,1.87,1.96,1.77,-0.0514,1.015,1.65-1.85
 NOP @ SAS,SAS win + game under 227.5,2,0.403,0.4543,2.2,2.31,2.03,-0.077,1.006,1.85-2.10
 NOP @ SAS,SAS win + game over 227.5,2,0.377,0.4484,2.23,2.34,2.03,-0.0891,0.993,1.85-2.10
 BOS @ SAC,BOS win + game under 217.5,2,0.3162,0.4247,2.35,2.47,2.19,-0.0699,1.014,2.10-2.50

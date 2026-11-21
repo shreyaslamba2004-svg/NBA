@@ -721,15 +721,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ra,5.5,False,0.2258,,model only,0.2258
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ra,6.5,False,0.1364,,model only,0.1364
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ra,7.5,False,0.0762,,model only,0.0762
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,4.5,False,0.8309,,model only,0.8309
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,5.5,False,0.7565,,model only,0.7565
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,6.5,False,0.6722,,model only,0.6722
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,7.5,False,0.5843,,model only,0.5843
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,8.5,False,0.4989,,model only,0.4989
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,9.5,False,0.4161,,model only,0.4161
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,10.5,False,0.345,,model only,0.345
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,11.5,False,0.28,,model only,0.28
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,12.5,False,0.2227,,model only,0.2227
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,6.5,False,0.6722,0.812,est,0.7905
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,7.5,False,0.5843,0.7476,est,0.7224
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,8.5,False,0.4989,0.6772,est,0.6497
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,9.5,False,0.4161,0.6003,est,0.5719
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,10.5,True,0.345,0.526,book,0.4981
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,11.5,False,0.28,0.4503,est,0.4241
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,12.5,False,0.2227,0.3765,est,0.3528
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,13.5,False,0.178,0.3134,est,0.2925
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,14.5,False,0.1404,0.256,est,0.2382
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,1.5,False,0.9082,,model only,0.9082
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,2.5,False,0.7908,,model only,0.7908
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,3.5,False,0.6387,,model only,0.6387
@@ -743,10 +743,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,3.5,False,0.1878,,model only,0.1878
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,4.5,False,0.0874,,model only,0.0874
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,5.5,False,0.0369,,model only,0.0369
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,0.5,False,0.6095,,model only,0.6095
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,1.5,False,0.239,,model only,0.239
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,2.5,False,0.0656,,model only,0.0656
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,3.5,False,0.014,,model only,0.014
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,0.5,False,0.6095,0.7599,est,0.7368
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,1.5,True,0.239,0.3891,book,0.366
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,2.5,False,0.0656,0.1246,est,0.1155
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,3.5,False,0.014,0.0279,est,0.0258
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,stl,0.5,False,0.4972,,model only,0.4972
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,stl,1.5,False,0.1684,,model only,0.1684
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,blk,0.5,False,0.1625,,model only,0.1625
@@ -787,15 +787,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,7.5,False,0.3825,,model only,0.3825
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,8.5,False,0.2807,,model only,0.2807
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,9.5,False,0.1982,,model only,0.1982
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,11.5,False,0.7124,,model only,0.7124
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,12.5,False,0.6554,,model only,0.6554
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,13.5,False,0.5955,,model only,0.5955
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,14.5,False,0.5387,,model only,0.5387
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,15.5,False,0.4852,,model only,0.4852
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,16.5,False,0.4291,,model only,0.4291
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,17.5,False,0.3791,,model only,0.3791
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,18.5,False,0.3329,,model only,0.3329
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,19.5,False,0.2889,,model only,0.2889
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,16.5,False,0.4291,0.6734,est,0.6358
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,17.5,False,0.3791,0.6261,est,0.5881
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,18.5,False,0.3329,0.5778,est,0.5401
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,19.5,False,0.2889,0.5269,est,0.4903
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,20.5,True,0.2505,0.4782,book,0.4431
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,21.5,False,0.2119,0.4245,est,0.3917
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,22.5,False,0.1805,0.3766,est,0.3464
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,23.5,False,0.1536,0.3324,est,0.3049
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,24.5,False,0.1291,0.289,est,0.2643
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,1.5,False,0.8749,,model only,0.8749
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,2.5,False,0.719,,model only,0.719
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,3.5,False,0.5342,,model only,0.5342
@@ -810,11 +810,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,4.5,False,0.3144,,model only,0.3144
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,5.5,False,0.1846,,model only,0.1846
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,6.5,False,0.103,,model only,0.103
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,0.5,False,0.8499,,model only,0.8499
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,1.5,False,0.5715,,model only,0.5715
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,2.5,False,0.3043,,model only,0.3043
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,3.5,False,0.1303,,model only,0.1303
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,4.5,False,0.0478,,model only,0.0478
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,0.5,False,0.8499,0.9249,est,0.9134
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,1.5,False,0.5715,0.7438,est,0.7172
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,2.5,True,0.3043,0.4878,book,0.4595
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,3.5,False,0.1303,0.2459,est,0.2281
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,4.5,False,0.0478,0.0985,est,0.0907
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,stl,0.5,False,0.4931,,model only,0.4931
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,stl,1.5,False,0.151,,model only,0.151
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,blk,0.5,False,0.2473,,model only,0.2473
@@ -855,15 +855,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,8.5,False,0.3657,,model only,0.3657
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,9.5,False,0.2632,,model only,0.2632
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,10.5,False,0.1805,,model only,0.1805
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,3.5,False,0.8325,,model only,0.8325
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,4.5,False,0.7513,,model only,0.7513
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,5.5,False,0.6656,,model only,0.6656
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,6.5,False,0.5763,,model only,0.5763
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,7.5,False,0.4899,,model only,0.4899
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,8.5,False,0.4106,,model only,0.4106
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,9.5,False,0.3373,,model only,0.3373
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,10.5,False,0.2727,,model only,0.2727
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,11.5,False,0.2172,,model only,0.2172
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,4.5,False,0.7513,0.8238,est,0.8126
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,5.5,False,0.6656,0.755,est,0.7412
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,6.5,False,0.5763,0.678,est,0.6623
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,7.5,False,0.4899,0.5978,est,0.5812
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,8.5,True,0.4106,0.5188,book,0.5021
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,9.5,False,0.3373,0.4407,est,0.4248
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,10.5,False,0.2727,0.3672,est,0.3527
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,11.5,False,0.2172,0.3004,est,0.2876
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,12.5,False,0.1742,0.2462,est,0.2351
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,reb,0.5,False,0.8511,,model only,0.8511
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,reb,1.5,False,0.6125,,model only,0.6125
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,reb,2.5,False,0.383,,model only,0.383
@@ -877,10 +877,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ast,4.5,False,0.2059,,model only,0.2059
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ast,5.5,False,0.1158,,model only,0.1158
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ast,6.5,False,0.0605,,model only,0.0605
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,0.5,False,0.5729,,model only,0.5729
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,1.5,False,0.2115,,model only,0.2115
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,2.5,False,0.0587,,model only,0.0587
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,3.5,False,0.0122,,model only,0.0122
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,0.5,False,0.5729,0.7364,est,0.7112
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,1.5,True,0.2115,0.3583,book,0.3357
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,2.5,False,0.0587,0.115,est,0.1063
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,3.5,False,0.0122,0.0251,est,0.0231
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,stl,0.5,False,0.4235,,model only,0.4235
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,stl,1.5,False,0.1258,,model only,0.1258
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,blk,0.5,False,0.1193,,model only,0.1193
@@ -988,15 +988,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,8.5,False,0.3243,,model only,0.3243
 401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,9.5,False,0.2327,,model only,0.2327
 401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,10.5,False,0.1625,,model only,0.1625
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,7.5,False,0.7401,,model only,0.7401
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,8.5,False,0.6638,,model only,0.6638
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,9.5,False,0.5884,,model only,0.5884
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,10.5,False,0.5129,,model only,0.5129
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,11.5,False,0.4381,,model only,0.4381
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,12.5,False,0.3692,,model only,0.3692
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,13.5,False,0.3108,,model only,0.3108
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,14.5,False,0.2585,,model only,0.2585
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,15.5,False,0.2117,,model only,0.2117
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,7.5,False,0.7401,0.7736,est,0.7685
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,8.5,False,0.6638,0.7032,est,0.6971
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,9.5,False,0.5884,0.6317,est,0.6251
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,10.5,False,0.5129,0.5582,est,0.5512
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,11.5,True,0.4381,0.4833,book,0.4763
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,12.5,False,0.3692,0.4125,est,0.4059
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,13.5,False,0.3108,0.3511,est,0.3449
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,14.5,False,0.2585,0.2949,est,0.2893
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,15.5,False,0.2117,0.2438,est,0.2388
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,1.5,False,0.9021,,model only,0.9021
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,2.5,False,0.7701,,model only,0.7701
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,3.5,False,0.6069,,model only,0.6069
@@ -1010,10 +1010,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,3.5,False,0.1963,,model only,0.1963
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,4.5,False,0.0891,,model only,0.0891
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,5.5,False,0.0362,,model only,0.0362
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,0.5,False,0.7182,,model only,0.7182
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,1.5,False,0.3595,,model only,0.3595
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,2.5,False,0.1337,,model only,0.1337
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,3.5,False,0.0379,,model only,0.0379
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,0.5,False,0.7182,0.8158,est,0.8008
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,1.5,True,0.3595,0.4939,book,0.4732
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,2.5,False,0.1337,0.2116,est,0.1996
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,3.5,False,0.0379,0.0642,est,0.0601
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,stl,0.5,False,0.4351,,model only,0.4351
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,stl,1.5,False,0.1233,,model only,0.1233
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,blk,0.5,False,0.3386,,model only,0.3386
@@ -1247,15 +1247,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,1642504,Cormac Ryan,ra,3.5,False,0.2516,,model only,0.2516
 401910023,MIL @ PHI,MIL,1642504,Cormac Ryan,ra,4.5,False,0.1401,,model only,0.1401
 401910023,MIL @ PHI,MIL,1642504,Cormac Ryan,ra,5.5,False,0.0736,,model only,0.0736
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,4.5,False,0.7916,,model only,0.7916
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,5.5,False,0.7,,model only,0.7
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,6.5,False,0.6075,,model only,0.6075
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,7.5,False,0.5116,,model only,0.5116
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,8.5,False,0.4225,,model only,0.4225
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,9.5,False,0.3422,,model only,0.3422
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,10.5,False,0.2706,,model only,0.2706
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,11.5,False,0.2086,,model only,0.2086
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,12.5,False,0.1614,,model only,0.1614
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,5.5,False,0.7,0.8214,est,0.8027
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,6.5,False,0.6075,0.7531,est,0.7306
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,7.5,False,0.5116,0.6736,est,0.6487
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,8.5,False,0.4225,0.5904,est,0.5646
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,9.5,True,0.3422,0.5062,book,0.4809
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,10.5,False,0.2706,0.4223,est,0.399
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,11.5,False,0.2086,0.3418,est,0.3213
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,12.5,False,0.1614,0.275,est,0.2575
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,13.5,False,0.1224,0.2156,est,0.2012
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,2.5,False,0.8179,,model only,0.8179
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,3.5,False,0.6754,,model only,0.6754
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,4.5,False,0.5171,,model only,0.5171
@@ -1269,10 +1269,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,3.5,False,0.1219,,model only,0.1219
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,4.5,False,0.0481,,model only,0.0481
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,5.5,False,0.0166,,model only,0.0166
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,0.5,False,0.6992,,model only,0.6992
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,1.5,False,0.3174,,model only,0.3174
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,2.5,False,0.1006,,model only,0.1006
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,3.5,False,0.0238,,model only,0.0238
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,0.5,False,0.6992,0.8432,est,0.821
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,1.5,True,0.3174,0.5183,book,0.4874
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,2.5,False,0.1006,0.2055,est,0.1894
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,3.5,False,0.0238,0.0535,est,0.0489
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,stl,0.5,False,0.3812,,model only,0.3812
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,stl,1.5,False,0.0942,,model only,0.0942
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,blk,0.5,False,0.7551,,model only,0.7551

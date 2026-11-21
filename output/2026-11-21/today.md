@@ -1,6 +1,6 @@
 # NBA model · Sat 21 Nov 2026 (US date)
 
-Updated **Sat 21 Nov, 04:11 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 21 Nov, 04:41 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -10,19 +10,19 @@ All automatic checks passed (team minutes, player minutes vs recent games, team 
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
-_No market prices were available for this run._
+_No bets clear the edge threshold right now._
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
 Same rules as best bets, kept apart because the model's tails (big nights, rare outcomes) aren't proven yet. Expect long losing runs even if the edge is real.
 
-_No market prices were available for this run._
+_No long shots clear the edge threshold right now._
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
 Bets that pass the best-bets rules but that Sportsbet doesn't list as far as we know (e.g. odd-number assist milestones like 7+, alt-line unders, turnovers). Ladbrokes, TAB and others sometimes do. Graded in HEALTH.md.
 
-_No market prices were available for this run._
+_Nothing clears the edge threshold right now._
 
 ## Projections
 
@@ -35,7 +35,7 @@ Game lines below assume every questionable player sits; each game's section show
 | MIL @ PHI | Sun 22 Nov 05:00 | 108.0–114.7 | MIL 32% | 3.15 / 1.47 | PHI -6.5 | 222.5 | PHI -11.5 covers 37%; o229.5 35% |
 | POR @ NYK | Sun 22 Nov 11:30 | 106.7–114.6 | POR 29% | 3.50 / 1.40 | NYK -7.5 | 221.5 | NYK -5.5 covers 57%; o217.5 58% |
 | LAC @ DAL | Sun 22 Nov 12:00 | 116.7–117.0 | LAC 49% | 2.03 / 1.97 | DAL +0.5 | 233.5 | DAL -5.5 covers 36%; o229.5 59% |
-| MEM @ MIN | Sun 22 Nov 12:00 | 111.4–119.0 | MEM 29% | 3.43 / 1.41 | MIN -7.5 | 230.5 | MIN -5.5 covers 56%; o227.5 56% |
+| MEM @ MIN | Sun 22 Nov 12:00 | 111.4–119.0 | MEM 29% | 3.43 / 1.41 | MIN -7.5 | 230.5 | MIN -4.5 covers 59%; o227.5 56% |
 | NOP @ SAS | Sun 22 Nov 12:00 | 108.0–119.0 | NOP 22% | 4.55 / 1.28 | SAS -11.5 | 226.5 | SAS -16.5 covers 35%; o227.5 49% |
 | BOS @ SAC | Sun 22 Nov 14:00 | 116.6–104.5 | BOS 80% | 1.25 / 5.05 | SAC +12.5 | 221.5 | SAC +12.5 covers 51%; o217.5 57% |
 
@@ -58,15 +58,15 @@ Out: Adem Bona (PHI), Jaylen Brown (PHI), Ariel Hukporti (PHI), Dean Wade (PHI),
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyler Herro | 98% | 27.6<br><sub>35,34,20,24,31</sub> | 16.2<br><sub>27,18,5,8,19</sub> |  | 3.9<br><sub>2,1,5,2,4</sub> |  | 3.7<br><sub>7,2,3,4,3</sub> |  | 1.9<br><sub>2,2,0,0,4</sub> |  | 0.7 | 0.3 | 2.1 | 23.9 |
-| Kyle Kuzma | 98% | 24.8<br><sub>24,31,22,30,-</sub> | 11.5<br><sub>9,14,14,26,-</sub> |  | 4.4<br><sub>1,4,6,5,-</sub> |  | 2.2<br><sub>1,2,2,1,-</sub> |  | 1.3<br><sub>1,1,3,2,-</sub> |  | 0.6 | 0.4 | 1.6 | 18.1 |
+| Tyler Herro | 98% | 27.6<br><sub>35,34,20,24,31</sub> | 16.2<br><sub>27,18,5,8,19</sub> | 20.5 · –<br><sub>o 44% · u 56%</sub> | 3.9<br><sub>2,1,5,2,4</sub> |  | 3.7<br><sub>7,2,3,4,3</sub> |  | 1.9<br><sub>2,2,0,0,4</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 0.7 | 0.3 | 2.1 | 23.9 |
+| Kyle Kuzma | 98% | 24.8<br><sub>24,31,22,30,-</sub> | 11.5<br><sub>9,14,14,26,-</sub> | 11.5 · –<br><sub>o 48% · u 52%</sub> | 4.4<br><sub>1,4,6,5,-</sub> |  | 2.2<br><sub>1,2,2,1,-</sub> |  | 1.3<br><sub>1,1,3,2,-</sub> | 1.5<br><sub>o 47% · u 53%</sub> | 0.6 | 0.4 | 1.6 | 18.1 |
 | Jaime Jaquez Jr. | 99% | 23.7<br><sub>30,28,30,23,22</sub> | 12.2<br><sub>25,22,6,10,9</sub> |  | 4.2<br><sub>5,6,5,2,1</sub> |  | 3.1<br><sub>3,4,4,5,2</sub> |  | 1.1<br><sub>2,5,2,1,1</sub> |  | 0.6 | 0.2 | 1.7 | 19.4 |
-| Myles Turner | 98% | 23.2<br><sub>-,31,23,21,-</sub> | 8.3<br><sub>-,14,8,4,-</sub> |  | 4.9<br><sub>-,11,7,5,-</sub> |  | 1.8<br><sub>-,3,1,4,-</sub> |  | 1.1<br><sub>-,4,1,0,-</sub> |  | 0.5 | 1.5 | 1.1 | 15.0 |
+| Myles Turner | 98% | 23.2<br><sub>-,31,23,21,-</sub> | 8.3<br><sub>-,14,8,4,-</sub> | 9.5 · –<br><sub>o 48% · u 52%</sub> | 4.9<br><sub>-,11,7,5,-</sub> |  | 1.8<br><sub>-,3,1,4,-</sub> |  | 1.1<br><sub>-,4,1,0,-</sub> | 1.5<br><sub>o 49% · u 51%</sub> | 0.5 | 1.5 | 1.1 | 15.0 |
 | Ryan Rollins | 98% | 22.0<br><sub>24,29,-,-,21</sub> | 10.8<br><sub>8,8,-,-,15</sub> |  | 3.7<br><sub>7,10,-,-,3</sub> |  | 3.8<br><sub>4,2,-,-,6</sub> |  | 1.4<br><sub>2,0,-,-,1</sub> |  | 0.9 | 0.3 | 2.1 | 18.2 |
-| Brayden Burries | 98% | 21.9<br><sub>23,19,29,25,28</sub> | 9.2<br><sub>8,3,13,20,14</sub> |  | 4.7<br><sub>5,4,8,7,3</sub> |  | 2.1<br><sub>1,3,4,1,3</sub> |  | 0.9<br><sub>1,1,2,3,2</sub> |  | 0.7 | 0.2 | 1.4 | 16.1 |
+| Brayden Burries | 98% | 21.9<br><sub>23,19,29,25,28</sub> | 9.2<br><sub>8,3,13,20,14</sub> | 10.5 · –<br><sub>o 50% · u 50%</sub> | 4.7<br><sub>5,4,8,7,3</sub> |  | 2.1<br><sub>1,3,4,1,3</sub> |  | 0.9<br><sub>1,1,2,3,2</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 0.7 | 0.2 | 1.4 | 16.1 |
 | Nate Ament | 96% | 18.6<br><sub>22,22,17,17,35</sub> | 7.3<br><sub>2,9,5,7,18</sub> |  | 3.0<br><sub>4,3,2,4,9</sub> |  | 0.8<br><sub>1,1,1,1,0</sub> |  | 0.8<br><sub>0,2,1,0,2</sub> |  | 0.5 | 0.3 | 0.9 | 11.1 |
 | Kel'el Ware | 98% | 17.5<br><sub>23,17,25,17,26</sub> | 7.7<br><sub>8,10,8,11,11</sub> |  | 5.5<br><sub>5,6,11,3,5</sub> |  | 1.0<br><sub>1,1,2,1,0</sub> |  | 0.7<br><sub>0,2,1,1,2</sub> |  | 0.5 | 0.9 | 1.2 | 14.1 |
-| Kasparas Jakucionis | 88% | 17.3<br><sub>4,-,26,26,22</sub> | 8.2<br><sub>4,-,25,20,18</sub> |  | 2.3<br><sub>2,-,5,3,3</sub> |  | 2.9<br><sub>0,-,5,5,2</sub> |  | 0.9<br><sub>0,-,4,3,3</sub> |  | 0.6 | 0.1 | 1.4 | 13.4 |
+| Kasparas Jakucionis | 88% | 17.3<br><sub>4,-,26,26,22</sub> | 8.2<br><sub>4,-,25,20,18</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 2.3<br><sub>2,-,5,3,3</sub> |  | 2.9<br><sub>0,-,5,5,2</sub> |  | 0.9<br><sub>0,-,4,3,3</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 0.6 | 0.1 | 1.4 | 13.4 |
 | Pete Nance | 96% | 15.9<br><sub>4,-,-,-,28</sub> | 5.0<br><sub>3,-,-,-,7</sub> |  | 2.5<br><sub>1,-,-,-,3</sub> |  | 1.1<br><sub>1,-,-,-,3</sub> |  | 0.6<br><sub>0,-,-,-,1</sub> |  | 0.3 | 0.3 | 0.5 | 8.6 |
 | Cormac Ryan | 52% | 13.9<br><sub>-,-,-,-,-</sub> | 7.0<br><sub>-,-,-,-,-</sub> |  | 1.4<br><sub>-,-,-,-,-</sub> |  | 1.0<br><sub>-,-,-,-,-</sub> |  | 0.8<br><sub>-,-,-,-,-</sub> |  | 0.6 | 0.2 | 1.0 | 9.4 |
 | Gary Trent Jr. | 80% | 11.7<br><sub>4,16,30,16,7</sub> | 5.2<br><sub>6,1,18,1,0</sub> |  | 0.9<br><sub>1,0,2,1,1</sub> |  | 0.6<br><sub>0,0,1,0,0</sub> |  | 0.8<br><sub>2,0,4,0,0</sub> |  | 0.4 | 0.1 | 0.4 | 6.7 |
@@ -99,15 +99,15 @@ Out: Adem Bona (PHI), Jaylen Brown (PHI), Ariel Hukporti (PHI), Dean Wade (PHI),
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Tyler Herro (MIL) | 98% | 27.6<br><sub>35,34,20,24,31</sub> | 16.2<br><sub>27,18,5,8,19</sub> |  | 3.9<br><sub>2,1,5,2,4</sub> |  | 3.7<br><sub>7,2,3,4,3</sub> |  | 1.9<br><sub>2,2,0,0,4</sub> |  | 0.7 | 0.3 | 2.1 | 23.8 |
-| Kyle Kuzma (MIL) | 98% | 24.8<br><sub>24,31,22,30,-</sub> | 11.4<br><sub>9,14,14,26,-</sub> |  | 4.4<br><sub>1,4,6,5,-</sub> |  | 2.2<br><sub>1,2,2,1,-</sub> |  | 1.3<br><sub>1,1,3,2,-</sub> |  | 0.6 | 0.4 | 1.6 | 18.1 |
+| Tyler Herro (MIL) | 98% | 27.6<br><sub>35,34,20,24,31</sub> | 16.2<br><sub>27,18,5,8,19</sub> | 20.5 · –<br><sub>o 44% · u 56%</sub> | 3.9<br><sub>2,1,5,2,4</sub> |  | 3.7<br><sub>7,2,3,4,3</sub> |  | 1.9<br><sub>2,2,0,0,4</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 0.7 | 0.3 | 2.1 | 23.8 |
+| Kyle Kuzma (MIL) | 98% | 24.8<br><sub>24,31,22,30,-</sub> | 11.4<br><sub>9,14,14,26,-</sub> | 11.5 · –<br><sub>o 48% · u 52%</sub> | 4.4<br><sub>1,4,6,5,-</sub> |  | 2.2<br><sub>1,2,2,1,-</sub> |  | 1.3<br><sub>1,1,3,2,-</sub> | 1.5<br><sub>o 47% · u 53%</sub> | 0.6 | 0.4 | 1.6 | 18.1 |
 | Jaime Jaquez Jr. (MIL) | 99% | 23.7<br><sub>30,28,30,23,22</sub> | 12.3<br><sub>25,22,6,10,9</sub> |  | 4.1<br><sub>5,6,5,2,1</sub> |  | 3.0<br><sub>3,4,4,5,2</sub> |  | 1.2<br><sub>2,5,2,1,1</sub> |  | 0.6 | 0.2 | 1.7 | 19.5 |
-| Myles Turner (MIL) | 98% | 23.2<br><sub>-,31,23,21,-</sub> | 8.3<br><sub>-,14,8,4,-</sub> |  | 4.9<br><sub>-,11,7,5,-</sub> |  | 1.8<br><sub>-,3,1,4,-</sub> |  | 1.1<br><sub>-,4,1,0,-</sub> |  | 0.5 | 1.5 | 1.1 | 14.9 |
+| Myles Turner (MIL) | 98% | 23.2<br><sub>-,31,23,21,-</sub> | 8.3<br><sub>-,14,8,4,-</sub> | 9.5 · –<br><sub>o 48% · u 52%</sub> | 4.9<br><sub>-,11,7,5,-</sub> |  | 1.8<br><sub>-,3,1,4,-</sub> |  | 1.1<br><sub>-,4,1,0,-</sub> | 1.5<br><sub>o 49% · u 51%</sub> | 0.5 | 1.5 | 1.1 | 14.9 |
 | Ryan Rollins (MIL) | 98% | 22.1<br><sub>24,29,-,-,21</sub> | 10.8<br><sub>8,8,-,-,15</sub> |  | 3.7<br><sub>7,10,-,-,3</sub> |  | 3.8<br><sub>4,2,-,-,6</sub> |  | 1.4<br><sub>2,0,-,-,1</sub> |  | 0.9 | 0.3 | 2.1 | 18.3 |
-| Brayden Burries (MIL) | 98% | 21.9<br><sub>23,19,29,25,28</sub> | 9.2<br><sub>8,3,13,20,14</sub> |  | 4.7<br><sub>5,4,8,7,3</sub> |  | 2.1<br><sub>1,3,4,1,3</sub> |  | 0.9<br><sub>1,1,2,3,2</sub> |  | 0.7 | 0.2 | 1.4 | 16.0 |
+| Brayden Burries (MIL) | 98% | 21.9<br><sub>23,19,29,25,28</sub> | 9.2<br><sub>8,3,13,20,14</sub> | 10.5 · –<br><sub>o 50% · u 50%</sub> | 4.7<br><sub>5,4,8,7,3</sub> |  | 2.1<br><sub>1,3,4,1,3</sub> |  | 0.9<br><sub>1,1,2,3,2</sub> | 1.5<br><sub>o 37% · u 63%</sub> | 0.7 | 0.2 | 1.4 | 16.0 |
 | Nate Ament (MIL) | 96% | 18.7<br><sub>22,22,17,17,35</sub> | 7.4<br><sub>2,9,5,7,18</sub> |  | 3.1<br><sub>4,3,2,4,9</sub> |  | 0.8<br><sub>1,1,1,1,0</sub> |  | 0.8<br><sub>0,2,1,0,2</sub> |  | 0.5 | 0.3 | 1.0 | 11.3 |
 | Kel'el Ware (MIL) | 98% | 17.5<br><sub>23,17,25,17,26</sub> | 7.8<br><sub>8,10,8,11,11</sub> |  | 5.4<br><sub>5,6,11,3,5</sub> |  | 1.0<br><sub>1,1,2,1,0</sub> |  | 0.7<br><sub>0,2,1,1,2</sub> |  | 0.5 | 0.9 | 1.2 | 14.1 |
-| Kasparas Jakucionis (MIL) | 88% | 17.4<br><sub>4,-,26,26,22</sub> | 8.1<br><sub>4,-,25,20,18</sub> |  | 2.3<br><sub>2,-,5,3,3</sub> |  | 2.9<br><sub>0,-,5,5,2</sub> |  | 0.9<br><sub>0,-,4,3,3</sub> |  | 0.6 | 0.1 | 1.4 | 13.3 |
+| Kasparas Jakucionis (MIL) | 88% | 17.4<br><sub>4,-,26,26,22</sub> | 8.1<br><sub>4,-,25,20,18</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 2.3<br><sub>2,-,5,3,3</sub> |  | 2.9<br><sub>0,-,5,5,2</sub> |  | 0.9<br><sub>0,-,4,3,3</sub> | 1.5<br><sub>o 34% · u 66%</sub> | 0.6 | 0.1 | 1.4 | 13.3 |
 | Pete Nance (MIL) | 96% | 15.9<br><sub>4,-,-,-,28</sub> | 5.0<br><sub>3,-,-,-,7</sub> |  | 2.5<br><sub>1,-,-,-,3</sub> |  | 1.1<br><sub>1,-,-,-,3</sub> |  | 0.6<br><sub>0,-,-,-,1</sub> |  | 0.3 | 0.3 | 0.5 | 8.6 |
 | Cormac Ryan (MIL) | 52% | 13.8<br><sub>-,-,-,-,-</sub> | 6.8<br><sub>-,-,-,-,-</sub> |  | 1.5<br><sub>-,-,-,-,-</sub> |  | 1.0<br><sub>-,-,-,-,-</sub> |  | 0.8<br><sub>-,-,-,-,-</sub> |  | 0.6 | 0.2 | 1.0 | 9.2 |
 | Gary Trent Jr. (MIL) | 80% | 11.6<br><sub>4,16,30,16,7</sub> | 5.2<br><sub>6,1,18,1,0</sub> |  | 0.9<br><sub>1,0,2,1,1</sub> |  | 0.6<br><sub>0,0,1,0,0</sub> |  | 0.8<br><sub>2,0,4,0,0</sub> |  | 0.4 | 0.1 | 0.4 | 6.7 |
