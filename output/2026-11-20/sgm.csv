@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-HOU @ DEN,DEN win + Jamal Murray 4+ ast,2,0.4631,0.4183,2.39,2.51,2.49,0.04,1.024,2.10-2.50
-HOU @ DEN,DEN win + Christian Braun 10+ pr,2,0.5015,0.4474,2.23,2.35,2.32,0.038,1.019,2.10-2.50
-HOU @ DEN,DEN win + Nikola Jokic 6+ ast,2,0.4936,0.4529,2.21,2.32,2.29,0.0373,1.024,2.10-2.50
-HOU @ DEN,Cameron Johnson 11+ pts + Kevin Durant 20+ pra,2,0.5272,0.4674,2.14,2.25,2.03,-0.0515,1.005,1.85-2.10
-HOU @ DEN,Christian Braun 12+ pts + Jamal Murray 1+ 3pm,2,0.5042,0.4509,2.22,2.33,2.1,-0.0553,1.007,1.85-2.10
-HOU @ DEN,Cameron Johnson 11+ pts + Jamal Murray 1+ 3pm,2,0.5345,0.4736,2.11,2.22,1.99,-0.0568,0.999,1.85-2.10
-HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Jamal Murray 4+ ast,3,0.6384,0.5147,1.94,2.04,1.67,-0.1394,1.012,1.65-1.85
-HOU @ DEN,Tari Eason 10+ pr + Christian Braun 10+ pr + Jamal Murray 4+ ast,3,0.646,0.5096,1.96,2.06,1.69,-0.1412,1.005,1.65-1.85
-HOU @ DEN,Tari Eason 10+ pr + Christian Braun 10+ pr + Cameron Johnson 10+ pr,3,0.6623,0.5217,1.92,2.01,1.64,-0.1424,1.004,1.50-1.65
-HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 6+ ast,3,0.6621,0.5431,1.84,1.93,1.58,-0.1424,1.012,1.50-1.65
-HOU @ DEN,Tari Eason 10+ pr + Cameron Johnson 10+ pr + Jamal Murray 4+ ast,3,0.6099,0.4864,2.06,2.16,1.76,-0.1431,1.005,1.65-1.85
-HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 8+ reb,3,0.6455,0.5223,1.91,2.01,1.64,-0.144,1.007,1.50-1.65
+HOU @ DEN,DEN win + Cameron Johnson 10+ pr,2,0.4718,0.427,2.34,2.46,2.42,0.0355,1.019,2.10-2.50
+HOU @ DEN,DEN win + Jamal Murray 4+ ast,2,0.4596,0.4163,2.4,2.52,2.49,0.035,1.019,2.10-2.50
+HOU @ DEN,DEN win + Nikola Jokic 6+ ast,2,0.4924,0.4517,2.21,2.32,2.29,0.0345,1.021,2.10-2.50
+HOU @ DEN,Cameron Johnson 11+ pts + Amen Thompson 15+ pra,2,0.5425,0.4723,2.12,2.22,2.01,-0.0517,1.001,1.85-2.10
+HOU @ DEN,Amen Thompson pts under 15.5 + Nikola Jokic 6+ reb,2,0.504,0.4728,2.11,2.22,1.98,-0.0652,0.999,1.85-2.10
+HOU @ DEN,Aaron Gordon pts under 11.5 + Nikola Jokic 6+ reb,2,0.455,0.4493,2.23,2.34,2.08,-0.0654,0.999,1.85-2.10
+HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Jamal Murray 4+ ast,3,0.6313,0.5117,1.95,2.05,1.67,-0.1445,1.007,1.65-1.85
+HOU @ DEN,Christian Braun 10+ pr + Amen Thompson 4+ reb + Cameron Johnson 10+ pr,3,0.6972,0.56,1.79,1.88,1.53,-0.1445,1.005,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Amen Thompson 10+ pts,3,0.637,0.5176,1.93,2.03,1.65,-0.1449,1.007,1.65-1.85
+HOU @ DEN,Christian Braun 10+ pr + Amen Thompson 4+ reb + Jamal Murray 4+ ast,3,0.6791,0.5459,1.83,1.92,1.57,-0.145,1.005,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Nikola Jokic 8+ reb,3,0.6554,0.5342,1.87,1.97,1.6,-0.1461,1.006,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Amen Thompson 10+ pts,3,0.6196,0.5039,1.98,2.08,1.69,-0.1466,1.005,1.65-1.85
 SAC @ LAL,Malik Monk pts under 10.5 + LAL win,2,0.5392,0.4628,2.16,2.27,2.18,0.0098,1.021,2.10-2.50
 SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5861,0.4572,2.19,2.3,2.19,0.0021,0.986,2.10-2.50
 SAC @ LAL,Keegan Murray pts under 11.5 + LAL win,2,0.5306,0.4627,2.16,2.27,2.15,-0.0034,1.02,2.10-2.50
