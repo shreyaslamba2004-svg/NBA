@@ -25,9 +25,9 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910028,BOS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,11.5,draftkings,1600.0,17.0,0.1066,9.38,0.055,0.055,0.0517,,0.813,0.0629,0.0699,0.0011,False,True,False,,,
 401910027,NOP @ SAS,prop_pts,over,Victor Wembanyama,1641705.0,49.5,draftkings,2400.0,25.0,0.0724,13.82,0.0374,0.0374,0.035,,0.8089,0.0428,0.0692,0.0007,False,True,False,,,
 401910027,NOP @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,15.5,draftkings,489.0,5.89,0.3006,3.33,0.1587,0.1587,0.1419,,0.7705,0.1805,0.0633,0.0032,False,True,False,,,
-401910027,NOP @ SAS,moneyline,NOP,,,,unibet,900.0,10.0,0.1613,6.2,0.095,0.1063,0.055,5.24,0.613,0.1063,0.0625,0.0017,False,True,True,,,
 401910027,NOP @ SAS,moneyline,NOP,,,,draftkings,900.0,10.0,0.1613,6.2,0.0961,0.1063,0.055,4.05,0.613,0.1063,0.0625,0.0017,False,True,True,,,
 401910027,NOP @ SAS,moneyline,NOP,,,,tabtouch,900.0,10.0,0.1613,6.2,0.095,0.1063,0.055,5.24,0.613,0.1063,0.0625,0.0017,False,True,True,,,
+401910027,NOP @ SAS,moneyline,NOP,,,,unibet,900.0,10.0,0.1613,6.2,0.095,0.1063,0.055,5.24,0.613,0.1063,0.0625,0.0017,False,True,True,,,
 401910023,MIL @ PHI,prop_pa,over,VJ Edgecombe,1642845.0,29.5,draftkings,1060.0,11.6,0.1517,6.59,0.0806,0.0806,0.0711,,0.7598,0.0915,0.0617,0.0015,False,True,False,Tyrese Maxey,0.2202,0.093
 401910023,MIL @ PHI,prop_pa,over,Joel Embiid,203954.0,49.5,draftkings,2300.0,24.0,0.0726,13.78,0.0389,0.0389,0.0336,,0.7415,0.0441,0.0588,0.0006,False,True,False,Tyrese Maxey,0.1032,0.0479
 401910027,NOP @ SAS,prop_pa,over,Victor Wembanyama,1641705.0,54.5,draftkings,2400.0,25.0,0.0694,14.41,0.0374,0.0374,0.032,,0.7353,0.0423,0.0579,0.0006,False,True,False,,,
@@ -62,6 +62,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910023,MIL @ PHI,prop_ast,over,Joel Embiid,203954.0,7.5,draftkings,920.0,10.2,0.1559,6.41,0.0916,0.0916,0.0643,,0.5901,0.1015,0.0355,0.001,False,True,False,Tyrese Maxey,0.2015,0.1215
 401910023,MIL @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,8.5,draftkings,600.0,7.0,0.2256,4.43,0.1335,0.1335,0.0921,,0.5795,0.1477,0.0339,0.0014,False,False,False,Tyrese Maxey,0.0,0.227
 401910023,MIL @ PHI,prop_reb,over,Joel Embiid,203954.0,14.5,draftkings,1700.0,18.0,0.0878,11.4,0.0519,0.0519,0.0358,,0.5796,0.0574,0.0339,0.0005,False,False,False,,,
+401910023,MIL @ PHI,prop_pr,over,VJ Edgecombe,1642845.0,34.5,draftkings,1520.0,16.2,0.0955,10.47,0.0577,0.0577,0.0378,,0.5467,0.0635,0.0289,0.0005,False,True,False,Tyrese Maxey,0.1419,0.0562
 401910024,POR @ NYK,prop_stl,over,OG Anunoby,1628384.0,3.5,draftkings,1280.0,13.8,0.112,8.93,0.0677,0.0677,0.0443,,0.5456,0.0745,0.0287,0.0006,False,True,False,OG Anunoby,0.0,0.1103
 401910023,MIL @ PHI,prop_ast,over,VJ Edgecombe,1642845.0,8.5,draftkings,1840.0,19.4,0.0796,12.57,0.0482,0.0482,0.0314,,0.5439,0.053,0.0284,0.0004,False,False,False,Tyrese Maxey,0.1088,0.0547
 401910023,MIL @ PHI,prop_pts,over,VJ Edgecombe,1642845.0,24.5,draftkings,1060.0,11.6,0.1328,7.53,0.0806,0.0806,0.0523,,0.5408,0.0886,0.0279,0.0007,False,True,False,Tyrese Maxey,0.1915,0.0853
@@ -86,37 +87,38 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910027,NOP @ SAS,moneyline,NOP,,,,betfair_ex_au,854.9999999999999,9.55,0.1613,6.2,0.1021,0.1063,0.055,2.59,0.5404,0.1063,0.0147,0.0004,False,True,True,,,
 401910027,NOP @ SAS,prop_pra,over,Victor Wembanyama,1641705.0,54.5,draftkings,392.0,4.92,0.2952,3.39,0.19,0.19,0.1053,,0.4524,0.2062,0.0143,0.0009,False,True,False,,,
 401910024,POR @ NYK,prop_pr,over,Karl-Anthony Towns,1626157.0,49.5,draftkings,970.0,10.7,0.1357,7.37,0.0873,0.0873,0.0484,,0.4523,0.0948,0.0143,0.0004,False,True,False,OG Anunoby,0.1616,0.1069
+401910023,MIL @ PHI,prop_pr,over,VJ Edgecombe,1642845.0,29.5,draftkings,590.0,6.9,0.2098,4.77,0.1354,0.1354,0.0743,,0.4475,0.1469,0.0136,0.0006,False,True,False,Tyrese Maxey,0.2917,0.1421
 401910026,MEM @ MIN,prop_reb,over,Jonathan Kuminga,1630228.0,9.5,draftkings,1080.0,11.8,0.1226,8.16,0.0792,0.0792,0.0434,,0.4468,0.0859,0.0135,0.0003,False,True,False,,,
 401910024,POR @ NYK,prop_ast,over,Karl-Anthony Towns,1626157.0,4.5,draftkings,210.0,3.1,0.461,2.17,0.3015,0.3015,0.1595,,0.429,0.326,0.0107,0.0013,True,False,False,,,
 401910023,MIL @ PHI,prop_ast,over,Tyrese Maxey,1630178.0,11.5,draftkings,2600.0,27.0,0.0528,18.93,0.0346,0.0346,0.0182,,0.4261,0.0374,0.0103,0.0001,False,True,False,Tyrese Maxey,0.0,0.0555
-401910023,MIL @ PHI,prop_reb,over,Joel Embiid,203954.0,15.5,draftkings,2400.0,25.0,0.057,17.54,0.0374,0.0374,0.0196,,0.4253,0.0404,0.0102,0.0001,False,True,False,,,
 401910026,MEM @ MIN,prop_reb,over,Jonathan Kuminga,1630228.0,8.5,draftkings,640.0,7.4,0.1926,5.19,0.1263,0.1263,0.0663,,0.4254,0.1365,0.0102,0.0004,False,False,False,,,
+401910023,MIL @ PHI,prop_reb,over,Joel Embiid,203954.0,15.5,draftkings,2400.0,25.0,0.057,17.54,0.0374,0.0374,0.0196,,0.4253,0.0404,0.0102,0.0001,False,True,False,,,
 401910023,MIL @ PHI,prop_pa,over,VJ Edgecombe,1642845.0,24.5,draftkings,356.0,4.56,0.3122,3.2,0.205,0.205,0.1072,,0.4234,0.2215,0.0099,0.0007,False,True,False,Tyrese Maxey,0.4183,0.2266
 401910023,MIL @ PHI,prop_pra,under,Tyler Herro,1629639.0,28.5,draftkings,-105.0,1.95,0.728,1.37,0.4787,0.4787,0.2493,,0.4213,0.5171,0.0095,0.0025,True,True,True,,,
 401910024,POR @ NYK,prop_pr,over,Karl-Anthony Towns,1626157.0,54.5,draftkings,1900.0,20.0,0.071,14.09,0.0467,0.0467,0.0242,,0.4192,0.0505,0.0092,0.0001,False,True,False,,,
-401910023,MIL @ PHI,moneyline,MIL,,,,betfair_ex_au,475.0,5.75,0.2823,3.54,0.1703,0.1755,0.1068,2.09,0.6232,0.1755,0.009,0.0005,False,True,True,Tyrese Maxey,0.3178,0.2521
 401910027,NOP @ SAS,prop_blk,over,Victor Wembanyama,1641705.0,4.5,draftkings,241.0,3.41,0.4158,2.41,0.2741,0.2741,0.1417,,0.4178,0.2959,0.009,0.0009,False,True,False,,,
 401910023,MIL @ PHI,moneyline,MIL,,,,pointsbetau,475.0,5.75,0.2823,3.54,0.1655,0.1755,0.1068,5.11,0.6232,0.1755,0.009,0.0005,False,True,True,Tyrese Maxey,0.3178,0.2521
+401910023,MIL @ PHI,moneyline,MIL,,,,betfair_ex_au,475.0,5.75,0.2823,3.54,0.1703,0.1755,0.1068,2.09,0.6232,0.1755,0.009,0.0005,False,True,True,Tyrese Maxey,0.3178,0.2521
 401910023,MIL @ PHI,prop_pra,under,Brayden Burries,905082206.0,19.5,draftkings,-104.0,1.96,0.722,1.39,0.4765,0.4765,0.2455,,0.4162,0.5143,0.0087,0.0023,True,True,True,,,
 401910026,MEM @ MIN,prop_ast,over,Cam Spencer,1642285.0,5.5,draftkings,111.0,2.11,0.6708,1.49,0.4429,0.4429,0.2279,,0.4153,0.478,0.0086,0.0019,True,True,True,,,
-401910026,MEM @ MIN,prop_ast,over,Cam Spencer,1642285.0,5.5,draftkings,111.0,2.11,0.6708,1.49,0.4429,0.4429,0.2279,,0.4153,0.478,0.0086,0.0019,True,True,True,,,
-401910023,MIL @ PHI,prop_pts,over,VJ Edgecombe,1642845.0,29.5,draftkings,2600.0,27.0,0.0524,19.08,0.0346,0.0346,0.0178,,0.4154,0.0374,0.0086,0.0001,False,True,False,Tyrese Maxey,0.0824,0.0283
 401910027,NOP @ SAS,prop_ast,over,Zion Williamson,1629627.0,4.5,draftkings,534.0,6.34,0.2232,4.48,0.1474,0.1474,0.0758,,0.4153,0.1591,0.0086,0.0004,False,False,False,,,
+401910023,MIL @ PHI,prop_pts,over,VJ Edgecombe,1642845.0,29.5,draftkings,2600.0,27.0,0.0524,19.08,0.0346,0.0346,0.0178,,0.4154,0.0374,0.0086,0.0001,False,True,False,Tyrese Maxey,0.0824,0.0283
+401910026,MEM @ MIN,prop_ast,over,Cam Spencer,1642285.0,5.5,draftkings,111.0,2.11,0.6708,1.49,0.4429,0.4429,0.2279,,0.4153,0.478,0.0086,0.0019,True,True,True,,,
 401910023,MIL @ PHI,prop_pra,over,LeBron James,2544.0,49.5,draftkings,1620.0,17.2,0.0819,12.21,0.0543,0.0543,0.0275,,0.4082,0.0586,0.0075,0.0001,False,True,False,Tyrese Maxey,0.1218,0.0494
 401910023,MIL @ PHI,prop_pa,under,Brayden Burries,905082206.0,14.5,draftkings,-113.0,1.88,0.7466,1.34,0.4958,0.4958,0.2508,,0.4074,0.5344,0.0074,0.0021,True,True,True,,,
 401910023,MIL @ PHI,prop_reb,over,Joel Embiid,203954.0,11.5,draftkings,442.0,5.42,0.259,3.86,0.1724,0.1724,0.0866,,0.404,0.1858,0.0069,0.0004,False,True,False,Tyrese Maxey,0.2919,0.2367
-401910026,MEM @ MIN,prop_pra,over,Cam Spencer,1642285.0,19.5,draftkings,104.0,2.04,0.6874,1.45,0.4581,0.4581,0.2293,,0.4024,0.4934,0.0066,0.0016,True,True,False,,,
 401910023,MIL @ PHI,prop_pa,under,Tyler Herro,1629639.0,24.5,draftkings,-113.0,1.88,0.7439,1.34,0.4958,0.4958,0.2481,,0.4023,0.534,0.0066,0.0019,True,True,True,,,
+401910026,MEM @ MIN,prop_pra,over,Cam Spencer,1642285.0,19.5,draftkings,104.0,2.04,0.6874,1.45,0.4581,0.4581,0.2293,,0.4024,0.4934,0.0066,0.0016,True,True,False,,,
 401910026,MEM @ MIN,prop_reb,over,Rudy Gobert,203497.0,12.5,draftkings,264.0,3.64,0.3851,2.6,0.2568,0.2568,0.1283,,0.4017,0.2765,0.0065,0.0006,False,False,False,,,
-401910024,POR @ NYK,prop_ast,over,Jalen Brunson,1628973.0,10.5,draftkings,1440.0,15.4,0.091,10.99,0.0607,0.0607,0.0303,,0.4009,0.0653,0.0064,0.0001,False,False,False,,,
 401910023,MIL @ PHI,prop_pa,over,Joel Embiid,203954.0,39.5,draftkings,538.0,6.38,0.2196,4.55,0.1465,0.1465,0.0731,,0.4008,0.1577,0.0064,0.0003,False,True,False,Tyrese Maxey,0.2864,0.1723
-401910026,MEM @ MIN,prop_reb,over,Ayo Dosunmu,1630245.0,7.5,draftkings,1080.0,11.8,0.1187,8.43,0.0792,0.0792,0.0395,,0.4005,0.0853,0.0063,0.0001,False,True,False,,,
+401910024,POR @ NYK,prop_ast,over,Jalen Brunson,1628973.0,10.5,draftkings,1440.0,15.4,0.091,10.99,0.0607,0.0607,0.0303,,0.4009,0.0653,0.0064,0.0001,False,False,False,,,
 401910028,BOS @ SAC,prop_ast,under,Paul George,202331.0,4.5,draftkings,110.0,2.1,0.6669,1.5,0.445,0.445,0.2218,,0.4005,0.4792,0.0063,0.0014,True,True,True,Jayson Tatum,0.5307,0.6836
-401910028,BOS @ SAC,prop_pra,under,Paul George,202331.0,33.5,draftkings,-109.0,1.92,0.7303,1.37,0.4874,0.4874,0.2429,,0.4004,0.5248,0.0063,0.0017,True,True,True,Jayson Tatum,0.6029,0.7694
 401910026,MEM @ MIN,prop_pts,over,Cam Spencer,1642285.0,14.5,draftkings,276.0,3.76,0.3724,2.69,0.2486,0.2486,0.1238,,0.4002,0.2676,0.0063,0.0006,False,True,False,,,
+401910028,BOS @ SAC,prop_pra,under,Paul George,202331.0,33.5,draftkings,-109.0,1.92,0.7303,1.37,0.4874,0.4874,0.2429,,0.4004,0.5248,0.0063,0.0017,True,True,True,Jayson Tatum,0.6029,0.7694
+401910026,MEM @ MIN,prop_reb,over,Ayo Dosunmu,1630245.0,7.5,draftkings,1080.0,11.8,0.1187,8.43,0.0792,0.0792,0.0395,,0.4005,0.0853,0.0063,0.0001,False,True,False,,,
 401910026,MEM @ MIN,prop_pa,over,Cam Spencer,1642285.0,15.5,draftkings,-114.0,1.88,0.7268,1.38,0.4979,0.5009,0.2259,,0.3644,0.5357,0.0056,0.0016,True,True,True,,,
-401910027,NOP @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,12.5,draftkings,155.0,2.55,0.547,1.83,0.3665,0.3665,0.1805,,0.3948,0.3943,0.0055,0.0009,True,False,False,,,
 401910026,MEM @ MIN,prop_ra,over,Cam Spencer,1642285.0,8.5,draftkings,102.0,2.02,0.6894,1.45,0.4629,0.4629,0.2266,6.95,0.3926,0.4978,0.0055,0.0013,True,True,True,,,
+401910027,NOP @ SAS,prop_reb,over,Victor Wembanyama,1641705.0,12.5,draftkings,155.0,2.55,0.547,1.83,0.3665,0.3665,0.1805,,0.3948,0.3943,0.0055,0.0009,True,False,False,,,
 401910023,MIL @ PHI,prop_reb,over,Kentavious Caldwell-Pope,203484.0,3.5,draftkings,162.0,2.62,0.5318,1.88,0.3567,0.3567,0.1751,,0.3933,0.3837,0.0052,0.0008,True,True,False,Tyrese Maxey,0.5652,0.496
 401910023,MIL @ PHI,prop_pra,over,VJ Edgecombe,1642845.0,29.5,draftkings,242.0,3.42,0.4066,2.46,0.2733,0.2733,0.1333,,0.3906,0.2938,0.0048,0.0005,False,True,False,Tyrese Maxey,0.5203,0.3126
 401910026,MEM @ MIN,prop_pra,over,Cam Spencer,1642285.0,18.5,draftkings,-118.0,1.85,0.7339,1.36,0.5059,0.5088,0.2251,,0.3559,0.5435,0.004,0.0012,True,True,True,,,
