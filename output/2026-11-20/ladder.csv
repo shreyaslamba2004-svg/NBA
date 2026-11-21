@@ -1187,13 +1187,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1629029,Luka Doncic,pts,38.5,False,0.4684,0.4365,est,0.4414
 401909313,SAC @ LAL,LAL,1629029,Luka Doncic,pts,39.5,False,0.4399,0.4084,est,0.4132
 401909313,SAC @ LAL,LAL,1629029,Luka Doncic,pts,40.5,False,0.4114,0.3806,est,0.3854
-401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,3.5,False,0.8683,0.8706,book,0.8702
-401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,4.5,False,0.7572,0.7892,book,0.7843
-401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,5.5,False,0.6235,0.6728,book,0.6652
+401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,3.5,False,0.8683,0.8714,book,0.8709
+401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,4.5,False,0.7572,0.7888,book,0.7839
+401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,5.5,False,0.6235,0.6735,book,0.6658
 401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,6.5,True,0.485,0.5352,book,0.5275
-401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,7.5,False,0.3518,0.4046,book,0.3965
-401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,8.5,False,0.2433,0.2911,book,0.2837
-401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,9.5,False,0.1579,0.1935,book,0.188
+401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,7.5,False,0.3518,0.4063,book,0.3979
+401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,8.5,False,0.2433,0.2893,book,0.2822
+401909313,SAC @ LAL,LAL,1629029,Luka Doncic,reb,9.5,False,0.1579,0.1931,book,0.1877
 401909313,SAC @ LAL,LAL,1629029,Luka Doncic,ast,5.5,False,0.7756,0.822,book,0.8149
 401909313,SAC @ LAL,LAL,1629029,Luka Doncic,ast,6.5,False,0.6629,0.7278,book,0.7178
 401909313,SAC @ LAL,LAL,1629029,Luka Doncic,ast,7.5,False,0.5404,0.6078,book,0.5974
@@ -1280,17 +1280,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,stl,2.5,False,0.0991,,model only,0.0991
 401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,blk,0.5,False,0.2637,,model only,0.2637
 401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,blk,1.5,False,0.0409,,model only,0.0409
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,18.5,False,0.5733,0.758,est,0.7295
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,19.5,False,0.5177,0.7144,est,0.6841
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,20.5,False,0.461,0.6659,est,0.6343
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,21.5,False,0.4093,0.6176,est,0.5855
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,22.5,False,0.3608,0.5681,est,0.5362
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,23.5,True,0.315,0.5173,book,0.4861
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,24.5,False,0.2729,0.4666,est,0.4367
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,25.5,False,0.2352,0.4175,est,0.3895
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,26.5,False,0.2019,0.3709,est,0.3449
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,27.5,False,0.1702,0.3235,est,0.2999
-401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,28.5,False,0.1451,0.2835,est,0.2622
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,18.5,False,0.5733,0.7587,est,0.7302
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,19.5,False,0.5177,0.7152,est,0.6848
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,20.5,False,0.461,0.6668,est,0.6351
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,21.5,False,0.4093,0.6185,est,0.5863
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,22.5,False,0.3608,0.5691,est,0.537
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,23.5,True,0.315,0.5183,book,0.487
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,24.5,False,0.2729,0.4676,est,0.4376
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,25.5,False,0.2352,0.4185,est,0.3903
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,26.5,False,0.2019,0.3719,est,0.3457
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,27.5,False,0.1702,0.3244,est,0.3006
+401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pra,28.5,False,0.1451,0.2843,est,0.2628
 401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pr,16.5,False,0.5151,0.7124,est,0.682
 401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pr,17.5,False,0.4575,0.6629,est,0.6313
 401909313,SAC @ LAL,LAL,1629656,Quentin Grimes,pr,18.5,False,0.4033,0.6117,est,0.5796
@@ -1357,15 +1357,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pra,28.5,False,0.341,0.3537,est,0.3518
 401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pra,29.5,False,0.2991,0.311,est,0.3092
 401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pra,30.5,False,0.2629,0.2739,est,0.2722
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,19.5,False,0.6933,0.7183,est,0.7144
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,20.5,False,0.6412,0.6684,est,0.6642
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,21.5,False,0.5904,0.6192,est,0.6147
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,22.5,False,0.5368,0.5665,est,0.5619
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,23.5,True,0.4845,0.5145,book,0.5099
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,24.5,False,0.4374,0.4672,est,0.4626
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,25.5,False,0.3855,0.4144,est,0.4099
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,26.5,False,0.3421,0.3696,est,0.3654
-401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,27.5,False,0.2993,0.3251,est,0.3212
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,19.5,False,0.6933,0.7191,est,0.7151
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,20.5,False,0.6412,0.6693,est,0.665
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,21.5,False,0.5904,0.6201,est,0.6155
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,22.5,False,0.5368,0.5675,est,0.5627
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,23.5,True,0.4845,0.5155,book,0.5107
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,24.5,False,0.4374,0.4682,est,0.4635
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,25.5,False,0.3855,0.4154,est,0.4108
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,26.5,False,0.3421,0.3706,est,0.3662
+401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pr,27.5,False,0.2993,0.326,est,0.3219
 401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pa,10.5,False,0.7067,0.7698,est,0.7601
 401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pa,11.5,False,0.6397,0.7114,est,0.7004
 401909313,SAC @ LAL,LAL,1631117,Walker Kessler,pa,12.5,False,0.5711,0.6489,est,0.6369
@@ -1404,9 +1404,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,ast,3.5,False,0.1938,,model only,0.1938
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,ast,4.5,False,0.0881,,model only,0.0881
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,ast,5.5,False,0.0351,,model only,0.0351
-401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,fg3m,0.5,True,0.5086,0.536,book,0.5318
-401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,fg3m,1.5,False,0.1426,0.2114,book,0.2008
-401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,fg3m,2.5,False,0.0234,0.0708,book,0.0635
+401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,fg3m,0.5,True,0.5086,0.5369,book,0.5325
+401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,fg3m,1.5,False,0.1426,0.2124,book,0.2016
+401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,fg3m,2.5,False,0.0234,0.0719,book,0.0644
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,stl,0.5,False,0.6998,0.7105,book,0.7089
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,stl,1.5,False,0.37,0.3878,book,0.3851
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,stl,2.5,False,0.1612,0.1715,book,0.1699
@@ -1448,30 +1448,30 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,ra,7.5,False,0.3032,,model only,0.3032
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,ra,8.5,False,0.2071,,model only,0.2071
 401909313,SAC @ LAL,LAL,1631222,Jake LaRavia,ra,9.5,False,0.1379,,model only,0.1379
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,5.5,False,0.7869,0.7712,book,0.7736
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,5.5,False,0.7869,0.7698,book,0.7724
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,6.5,False,0.7042,0.7383,est,0.7331
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,7.5,False,0.62,0.647,book,0.6428
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,7.5,False,0.62,0.6443,book,0.6406
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,8.5,False,0.5382,0.5801,est,0.5736
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,9.5,True,0.4576,0.5,book,0.4935
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,10.5,False,0.385,0.4259,est,0.4196
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,11.5,False,0.3174,0.3846,book,0.3743
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,11.5,False,0.3174,0.3815,book,0.3716
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,12.5,False,0.2612,0.2953,est,0.2901
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pts,13.5,False,0.2086,0.2381,est,0.2336
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,1.5,False,0.8763,0.9149,est,0.909
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,2.5,False,0.7366,0.7979,book,0.7885
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,3.5,False,0.5696,0.6652,book,0.6505
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,2.5,False,0.7366,0.7969,book,0.7876
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,3.5,False,0.5696,0.6645,book,0.6499
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,4.5,True,0.412,0.5155,book,0.4996
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,5.5,False,0.2723,0.3709,book,0.3557
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,6.5,False,0.1674,0.2506,book,0.2378
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,6.5,False,0.1674,0.2512,book,0.2383
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,reb,7.5,False,0.0979,0.162,book,0.1521
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,0.5,False,0.7849,,model only,0.7849
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,1.5,False,0.4824,0.5531,book,0.5422
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,2.5,False,0.2474,0.3105,book,0.3008
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,3.5,False,0.103,0.1505,book,0.1432
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,1.5,False,0.4824,0.5547,book,0.5436
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,2.5,False,0.2474,0.3115,book,0.3016
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,3.5,False,0.103,0.1507,book,0.1434
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ast,4.5,False,0.0391,0.0719,book,0.0669
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,fg3m,0.5,False,0.7223,0.6962,book,0.7002
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,fg3m,1.5,True,0.3585,0.3761,book,0.3734
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,fg3m,2.5,False,0.1315,0.1709,book,0.1648
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,fg3m,0.5,False,0.7223,0.6943,book,0.6986
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,fg3m,1.5,True,0.3585,0.3753,book,0.3727
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,fg3m,2.5,False,0.1315,0.1693,book,0.1635
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,fg3m,3.5,False,0.0377,0.0719,book,0.0666
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,stl,0.5,False,0.5274,,model only,0.5274
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,stl,1.5,False,0.1918,,model only,0.1918
@@ -1482,30 +1482,30 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,11.5,False,0.7054,,model only,0.7054
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,12.5,False,0.6471,,model only,0.6471
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,13.5,False,0.587,,model only,0.587
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,14.5,False,0.524,0.6078,book,0.5949
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,14.5,False,0.524,0.6067,book,0.594
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,15.5,False,0.4633,,model only,0.4633
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,16.5,False,0.4065,,model only,0.4065
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,17.5,False,0.3523,,model only,0.3523
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,18.5,False,0.3035,,model only,0.3035
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,19.5,False,0.259,0.3487,book,0.3349
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,19.5,False,0.259,0.3474,book,0.3338
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pra,20.5,False,0.2193,,model only,0.2193
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,10.5,False,0.6775,0.7484,est,0.7375
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,11.5,False,0.6139,0.6924,est,0.6803
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,12.5,False,0.5477,0.6315,est,0.6186
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,13.5,False,0.4818,0.5683,est,0.555
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,14.5,True,0.4197,0.5059,book,0.4926
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,15.5,False,0.3592,0.4425,est,0.4297
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,16.5,False,0.3072,0.3857,est,0.3736
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,17.5,False,0.2586,0.3306,est,0.3195
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,18.5,False,0.2165,0.2812,est,0.2712
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,10.5,False,0.6775,0.7469,est,0.7362
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,11.5,False,0.6139,0.6907,est,0.6789
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,12.5,False,0.5477,0.6297,est,0.617
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,13.5,False,0.4818,0.5663,est,0.5533
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,14.5,True,0.4197,0.5039,book,0.4909
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,15.5,False,0.3592,0.4405,est,0.428
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,16.5,False,0.3072,0.3838,est,0.372
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,17.5,False,0.2586,0.3288,est,0.318
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pr,18.5,False,0.2165,0.2796,est,0.2698
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,7.5,False,0.7363,,model only,0.7363
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,8.5,False,0.6629,,model only,0.6629
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,9.5,False,0.5851,0.6379,book,0.6298
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,9.5,False,0.5851,0.636,book,0.6282
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,10.5,False,0.5134,,model only,0.5134
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,11.5,False,0.4396,0.5098,book,0.499
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,11.5,False,0.4396,0.5078,book,0.4973
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,12.5,False,0.372,,model only,0.372
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,13.5,False,0.3144,,model only,0.3144
-401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,14.5,False,0.2605,0.3338,book,0.3225
+401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,14.5,False,0.2605,0.3314,book,0.3205
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,pa,15.5,False,0.2103,,model only,0.2103
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,3.5,False,0.774,,model only,0.774
 401909313,SAC @ LAL,LAL,1630572,Sandro Mamukelashvili,ra,4.5,False,0.6409,,model only,0.6409
@@ -1605,7 +1605,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,fg3m,2.5,False,0.0908,0.2396,book,0.2167
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,fg3m,3.5,False,0.0212,0.1074,book,0.0941
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,stl,1.5,False,0.6542,0.6272,book,0.6314
-401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,stl,2.5,True,0.4211,0.3831,book,0.389
+401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,stl,2.5,True,0.4211,0.3791,book,0.3856
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,stl,3.5,False,0.2376,0.2001,book,0.2059
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,blk,0.5,False,0.5253,,model only,0.5253
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,blk,1.5,False,0.188,,model only,0.188
@@ -1630,7 +1630,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pr,11.5,False,0.2984,0.3253,est,0.3211
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pr,12.5,False,0.2379,0.2614,est,0.2578
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pr,13.5,False,0.1849,0.2046,est,0.2015
-401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pa,4.5,False,0.8151,0.8005,book,0.8027
+401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pa,4.5,False,0.8151,0.7957,book,0.7987
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pa,5.5,False,0.7282,,model only,0.7282
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pa,6.5,False,0.6278,,model only,0.6278
 401909313,SAC @ LAL,LAL,1629680,Matisse Thybulle,pa,7.5,False,0.5268,,model only,0.5268
@@ -1748,15 +1748,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pra,14.5,False,0.2905,,model only,0.2905
 401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pra,15.5,False,0.2392,,model only,0.2392
 401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pra,16.5,False,0.1939,,model only,0.1939
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,6.5,False,0.7629,0.8001,est,0.7943
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,7.5,False,0.687,0.7318,est,0.7249
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,8.5,False,0.6103,0.6607,est,0.6529
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,9.5,False,0.5289,0.5827,est,0.5744
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,10.5,True,0.4545,0.5088,book,0.5004
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,11.5,False,0.381,0.4335,est,0.4254
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,12.5,False,0.316,0.3648,est,0.3573
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,13.5,False,0.2586,0.3026,est,0.2958
-401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,14.5,False,0.2081,0.2463,est,0.2404
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,6.5,False,0.7629,0.8007,est,0.7949
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,7.5,False,0.687,0.7326,est,0.7256
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,8.5,False,0.6103,0.6616,est,0.6537
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,9.5,False,0.5289,0.5836,est,0.5752
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,10.5,True,0.4545,0.5098,book,0.5013
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,11.5,False,0.381,0.4345,est,0.4262
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,12.5,False,0.316,0.3658,est,0.3581
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,13.5,False,0.2586,0.3034,est,0.2965
+401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pr,14.5,False,0.2081,0.247,est,0.241
 401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pa,5.5,False,0.7897,,model only,0.7897
 401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pa,6.5,False,0.7054,,model only,0.7054
 401909313,SAC @ LAL,LAL,1630533,Ziaire Williams,pa,7.5,False,0.6228,,model only,0.6228
@@ -1913,17 +1913,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,2.5,False,0.7229,0.7369,est,0.7347
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,3.5,False,0.5881,0.6052,est,0.6025
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,4.5,True,0.4608,0.4785,book,0.4758
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,5.5,False,0.347,0.396,book,0.3885
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,5.5,False,0.347,0.3977,book,0.3899
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,6.5,False,0.2534,0.2671,est,0.265
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,7.5,False,0.1799,0.2285,book,0.221
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,7.5,False,0.1799,0.2291,book,0.2215
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pts,8.5,False,0.1229,0.1307,est,0.1295
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,1.5,False,0.9025,0.8902,est,0.8921
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,2.5,False,0.8117,0.7906,book,0.7939
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,3.5,False,0.6993,0.6728,book,0.6769
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,4.5,True,0.5739,0.5411,book,0.5461
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,1.5,False,0.9025,0.8905,est,0.8923
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,2.5,False,0.8117,0.7901,book,0.7934
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,3.5,False,0.6993,0.6698,book,0.6743
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,4.5,True,0.5739,0.5419,book,0.5468
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,5.5,False,0.4502,0.4154,book,0.4208
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,6.5,False,0.34,0.3025,book,0.3083
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,7.5,False,0.2506,0.2119,book,0.2179
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,6.5,False,0.34,0.3044,book,0.3099
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,reb,7.5,False,0.2506,0.2124,book,0.2183
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,ast,0.5,False,0.6449,,model only,0.6449
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,ast,1.5,False,0.3147,,model only,0.3147
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,ast,2.5,False,0.1257,,model only,0.1257
@@ -1948,15 +1948,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pra,14.5,False,0.276,,model only,0.276
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pra,15.5,False,0.2297,,model only,0.2297
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pra,16.5,False,0.1883,,model only,0.1883
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,5.5,False,0.7975,0.7847,est,0.7867
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,6.5,False,0.7306,0.7151,est,0.7175
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,7.5,False,0.657,0.6393,est,0.642
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,8.5,False,0.5825,0.5635,est,0.5664
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,9.5,True,0.5111,0.4917,book,0.4947
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,10.5,False,0.4378,0.4188,est,0.4217
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,11.5,False,0.3697,0.3518,est,0.3546
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,12.5,False,0.31,0.2936,est,0.2961
-401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,13.5,False,0.2548,0.2403,est,0.2426
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,5.5,False,0.7975,0.7854,est,0.7873
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,6.5,False,0.7306,0.7159,est,0.7182
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,7.5,False,0.657,0.6402,est,0.6428
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,8.5,False,0.5825,0.5645,est,0.5673
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,9.5,True,0.5111,0.4927,book,0.4955
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,10.5,False,0.4378,0.4197,est,0.4225
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,11.5,False,0.3697,0.3527,est,0.3553
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,12.5,False,0.31,0.2945,est,0.2968
+401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pr,13.5,False,0.2548,0.2411,est,0.2432
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pa,1.5,False,0.9073,,model only,0.9073
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pa,2.5,False,0.8146,,model only,0.8146
 401909313,SAC @ LAL,SAC,1642928,Dylan Cardwell,pa,3.5,False,0.7061,,model only,0.7061
@@ -2026,12 +2026,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pr,21.5,False,0.3231,0.268,est,0.2765
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,12.5,False,0.6977,,model only,0.6977
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,13.5,False,0.6344,,model only,0.6344
-401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,14.5,False,0.5718,0.5265,book,0.5335
+401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,14.5,False,0.5718,0.5282,book,0.5349
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,15.5,False,0.5104,,model only,0.5104
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,16.5,False,0.4518,,model only,0.4518
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,17.5,False,0.3927,,model only,0.3927
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,18.5,False,0.3397,,model only,0.3397
-401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,19.5,False,0.2899,0.2725,book,0.2752
+401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,19.5,False,0.2899,0.2741,book,0.2765
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,pa,20.5,False,0.2462,,model only,0.2462
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,ra,3.5,False,0.8532,,model only,0.8532
 401909313,SAC @ LAL,SAC,1629631,De'Andre Hunter,ra,4.5,False,0.7374,,model only,0.7374
@@ -2110,29 +2110,29 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,6.5,False,0.7248,0.7766,est,0.7686
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,7.5,False,0.6469,0.6479,book,0.6477
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,8.5,False,0.5654,0.6319,est,0.6217
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,9.5,False,0.4908,0.5174,book,0.5133
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,9.5,False,0.4908,0.5155,book,0.5117
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,10.5,True,0.4206,0.4892,book,0.4786
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,11.5,False,0.3577,0.4869,book,0.467
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,12.5,False,0.2974,0.3583,est,0.3489
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,13.5,False,0.2461,0.3011,est,0.2926
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,14.5,False,0.2021,0.2274,book,0.2235
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pts,14.5,False,0.2021,0.2285,book,0.2244
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,reb,0.5,False,0.8021,,model only,0.8021
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,reb,1.5,False,0.5112,,model only,0.5112
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,reb,2.5,False,0.2686,,model only,0.2686
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,reb,3.5,False,0.1226,,model only,0.1226
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,reb,4.5,False,0.0503,,model only,0.0503
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,reb,5.5,False,0.0201,,model only,0.0201
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,0.5,False,0.9509,0.9496,est,0.9498
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,1.5,False,0.8337,0.8299,est,0.8305
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,2.5,False,0.6643,0.6637,book,0.6638
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,3.5,True,0.4877,0.4809,book,0.4819
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,4.5,False,0.3293,0.3168,book,0.3187
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,5.5,False,0.2105,0.1892,book,0.1925
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,6.5,False,0.1245,0.11,book,0.1122
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,0.5,False,0.748,0.7177,book,0.7224
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,1.5,True,0.4055,0.421,book,0.4186
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,2.5,False,0.1635,0.2014,book,0.1956
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,3.5,False,0.0532,0.0925,book,0.0865
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,0.5,False,0.9509,0.95,est,0.9502
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,1.5,False,0.8337,0.8312,est,0.8316
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,2.5,False,0.6643,0.6652,book,0.6651
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,3.5,True,0.4877,0.4831,book,0.4838
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,4.5,False,0.3293,0.319,book,0.3206
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,5.5,False,0.2105,0.1931,book,0.1958
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,ast,6.5,False,0.1245,0.1126,book,0.1144
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,0.5,False,0.748,0.7202,book,0.7245
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,1.5,True,0.4055,0.4229,book,0.4202
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,2.5,False,0.1635,0.2036,book,0.1974
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,fg3m,3.5,False,0.0532,0.0899,book,0.0843
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,stl,0.5,False,0.4365,,model only,0.4365
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,stl,1.5,False,0.1279,,model only,0.1279
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,blk,0.5,False,0.2374,,model only,0.2374
@@ -2157,15 +2157,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pr,13.5,False,0.3526,,model only,0.3526
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pr,14.5,False,0.2984,,model only,0.2984
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,pr,15.5,False,0.2519,,model only,0.2519
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,9.5,False,0.7278,0.7283,book,0.7282
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,10.5,False,0.6657,0.6779,est,0.6761
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,11.5,False,0.6056,0.6187,est,0.6167
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,12.5,False,0.5425,0.5562,est,0.5541
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,13.5,True,0.482,0.4958,book,0.4937
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,14.5,False,0.4206,0.4327,book,0.4308
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,15.5,False,0.3643,0.3772,est,0.3752
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,16.5,False,0.3114,0.3234,est,0.3216
-401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,17.5,False,0.2647,0.2756,est,0.2739
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,9.5,False,0.7278,0.7305,book,0.7301
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,10.5,False,0.6657,0.6815,est,0.6791
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,11.5,False,0.6056,0.6226,est,0.62
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,12.5,False,0.5425,0.5602,est,0.5575
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,13.5,True,0.482,0.4999,book,0.4971
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,14.5,False,0.4206,0.4408,book,0.4377
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,15.5,False,0.3643,0.3811,est,0.3785
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,16.5,False,0.3114,0.327,est,0.3246
+401909313,SAC @ LAL,SAC,1628370,Malik Monk,pa,17.5,False,0.2647,0.2789,est,0.2767
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,ra,2.5,False,0.8496,,model only,0.8496
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,ra,3.5,False,0.727,,model only,0.727
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,ra,4.5,False,0.5903,,model only,0.5903
@@ -2173,15 +2173,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,ra,6.5,False,0.3377,,model only,0.3377
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,ra,7.5,False,0.2376,,model only,0.2376
 401909313,SAC @ LAL,SAC,1628370,Malik Monk,ra,8.5,False,0.1563,,model only,0.1563
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,6.5,False,0.8327,0.8204,est,0.8223
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,7.5,False,0.7653,0.7021,book,0.7118
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,8.5,False,0.6902,0.6716,est,0.6745
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,9.5,False,0.6121,0.5779,book,0.5832
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,10.5,True,0.5312,0.5098,book,0.5131
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,6.5,False,0.8327,0.8181,est,0.8204
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,7.5,False,0.7653,0.7009,book,0.7108
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,8.5,False,0.6902,0.6681,est,0.6715
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,9.5,False,0.6121,0.5723,book,0.5784
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,10.5,True,0.5312,0.5059,book,0.5098
 401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,11.5,False,0.4569,0.4822,book,0.4783
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,12.5,False,0.3862,0.3661,est,0.3692
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,13.5,False,0.325,0.3065,est,0.3094
-401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,14.5,False,0.2669,0.2765,book,0.275
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,12.5,False,0.3862,0.3625,est,0.3661
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,13.5,False,0.325,0.3032,est,0.3066
+401909313,SAC @ LAL,SAC,1631099,Keegan Murray,pts,14.5,False,0.2669,0.2725,book,0.2716
 401909313,SAC @ LAL,SAC,1631099,Keegan Murray,reb,1.5,False,0.9175,0.9131,est,0.9138
 401909313,SAC @ LAL,SAC,1631099,Keegan Murray,reb,2.5,False,0.7967,0.7609,book,0.7664
 401909313,SAC @ LAL,SAC,1631099,Keegan Murray,reb,3.5,False,0.6311,0.6067,book,0.6105
@@ -2271,17 +2271,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,stl,2.5,False,0.0547,0.11,book,0.1015
 401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,blk,0.5,False,0.2017,,model only,0.2017
 401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,blk,1.5,False,0.0233,,model only,0.0233
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,23.5,False,0.745,0.7318,est,0.7338
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,24.5,False,0.7038,0.6894,est,0.6916
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,25.5,False,0.6594,0.6439,est,0.6463
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,26.5,False,0.6173,0.601,est,0.6035
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,27.5,False,0.574,0.5572,est,0.5598
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,28.5,True,0.5269,0.5098,book,0.5124
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,29.5,False,0.4859,0.4689,est,0.4715
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,30.5,False,0.4422,0.4254,est,0.428
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,31.5,False,0.3997,0.3834,est,0.3859
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,32.5,False,0.36,0.3444,est,0.3468
-401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,33.5,False,0.3227,0.308,est,0.3103
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,23.5,False,0.745,0.7294,est,0.7318
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,24.5,False,0.7038,0.6868,est,0.6894
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,25.5,False,0.6594,0.6411,est,0.644
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,26.5,False,0.6173,0.5981,est,0.601
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,27.5,False,0.574,0.5542,est,0.5572
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,28.5,True,0.5269,0.5068,book,0.5099
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,29.5,False,0.4859,0.4659,est,0.469
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,30.5,False,0.4422,0.4225,est,0.4255
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,31.5,False,0.3997,0.3806,est,0.3835
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,32.5,False,0.36,0.3417,est,0.3445
+401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pra,33.5,False,0.3227,0.3054,est,0.3081
 401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pr,19.5,False,0.7293,0.7058,est,0.7094
 401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pr,20.5,False,0.6838,0.6581,est,0.6621
 401909313,SAC @ LAL,SAC,1627734,Domantas Sabonis,pr,21.5,False,0.6342,0.6068,est,0.611

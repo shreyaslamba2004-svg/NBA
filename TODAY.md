@@ -1,6 +1,6 @@
 # NBA model · Fri 20 Nov 2026 (US date)
 
-Updated **Sat 21 Nov, 02:06 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-20/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 21 Nov, 02:11 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-20/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -109,8 +109,8 @@ Out: Austin Reaves (LAL), Precious Achiuwa (SAC), Jonathan Mogbo (SAC), Maxime R
 | Malik Monk PTS over 11.5 (12+) | SAC @ LAL | draftkings | 2.42 | 2.14 | 2.80 | 35.8% | 48.7% | 46.7% | +13.0% | -13.5% | 2.0% |
 | Domantas Sabonis PTS over 12.5 (13+) | SAC @ LAL | pointsbetau | 2.00 | 1.96 | 1.91 | 52.3% | 50.7% | 51.0% | +1.9% | +4.6% | 0.5% |
 | Walker Kessler PTS under 13.5 | SAC @ LAL | tab | 1.95 | 1.92 | 1.61 | 62.2% | 50.1% | 52.0% | +1.5% | +21.4% | 0.4% |
+| Keegan Murray PTS over 11.5 (12+) | SAC @ LAL | draftkings | 2.12 | 2.09 | 2.19 | 45.7% | 48.2% | 47.8% | +1.4% | -3.1% | 0.3% |
 | Sandro Mamukelashvili PTS under 9.5 | SAC @ LAL | tab | 2.00 | 1.97 | 1.84 | 54.2% | 50.0% | 50.6% | +1.3% | +8.5% | 0.3% |
-| Keegan Murray PTS over 11.5 (12+) | SAC @ LAL | draftkings | 2.10 | 2.09 | 2.19 | 45.7% | 48.2% | 47.8% | +0.4% | -4.0% | 0.1% |
 | Quentin Grimes PTS under 15.5 | SAC @ LAL | sportsbet | 1.96 | 1.95 | 1.57 | 63.7% | 48.9% | 51.2% | +0.4% | +24.9% | 0.1% |
 | Malik Monk PTS under 10.5 | SAC @ LAL | unibet | 1.93 | 1.92 | 1.73 | 57.9% | 51.1% | 52.1% | +0.4% | +11.6% | 0.1% |
 
