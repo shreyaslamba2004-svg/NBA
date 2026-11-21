@@ -5559,7 +5559,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,ast,4.5,False,0.0464,0.0658,book,0.0628
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,ast,5.5,False,0.016,0.0359,book,0.0328
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,fg3m,0.5,False,0.8696,0.833,book,0.8386
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,fg3m,1.5,True,0.6034,0.5947,book,0.596
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,fg3m,1.5,True,0.6034,0.591,book,0.5929
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,fg3m,2.5,False,0.3175,0.3513,book,0.3461
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,fg3m,3.5,False,0.1328,0.1811,book,0.1737
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,stl,0.5,False,0.477,,model only,0.477
@@ -5586,15 +5586,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pr,19.5,False,0.3938,0.3994,est,0.3985
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pr,20.5,False,0.343,0.3483,est,0.3475
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pr,21.5,False,0.2983,0.3032,est,0.3025
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,11.5,False,0.7119,0.7319,est,0.7288
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,12.5,False,0.649,0.6714,est,0.6679
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,13.5,False,0.5837,0.6077,est,0.604
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,14.5,False,0.5216,0.5465,est,0.5426
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,15.5,True,0.4593,0.4842,book,0.4804
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,16.5,False,0.4,0.4242,est,0.4204
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,17.5,False,0.3448,0.3677,est,0.3642
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,18.5,False,0.2938,0.3149,est,0.3117
-401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,19.5,False,0.2481,0.2672,est,0.2642
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,11.5,False,0.7119,0.7302,est,0.7274
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,12.5,False,0.649,0.6694,est,0.6663
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,13.5,False,0.5837,0.6056,est,0.6023
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,14.5,False,0.5216,0.5443,est,0.5408
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,15.5,True,0.4593,0.482,book,0.4785
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,16.5,False,0.4,0.422,est,0.4186
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,17.5,False,0.3448,0.3657,est,0.3624
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,18.5,False,0.2938,0.313,est,0.3101
+401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,pa,19.5,False,0.2481,0.2655,est,0.2628
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,ra,3.5,False,0.8544,0.8495,est,0.8503
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,ra,4.5,False,0.7368,0.7293,est,0.7305
 401910028,BOS @ SAC,SAC,1629631,De'Andre Hunter,ra,5.5,False,0.6003,0.591,est,0.5924
@@ -5734,15 +5734,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,SAC,1628370,Malik Monk,ra,5.5,False,0.316,,model only,0.316
 401910028,BOS @ SAC,SAC,1628370,Malik Monk,ra,6.5,False,0.2159,,model only,0.2159
 401910028,BOS @ SAC,SAC,1628370,Malik Monk,ra,7.5,False,0.1413,,model only,0.1413
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,8.5,False,0.7122,0.7512,est,0.7452
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,9.5,False,0.6361,0.6807,est,0.6738
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,10.5,False,0.5593,0.6075,est,0.6
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,11.5,False,0.4854,0.5349,est,0.5273
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,12.5,True,0.4184,0.4673,book,0.4598
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,13.5,False,0.3544,0.401,est,0.3938
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,14.5,False,0.2968,0.3398,est,0.3332
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,15.5,False,0.2451,0.2837,est,0.2777
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,16.5,False,0.1975,0.2308,est,0.2257
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,7.5,False,0.7818,0.7549,book,0.759
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,8.5,False,0.7122,0.7348,est,0.7313
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,9.5,False,0.6361,0.6379,book,0.6376
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,10.5,False,0.5593,0.5869,est,0.5826
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,11.5,True,0.4854,0.5136,book,0.5093
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,12.5,False,0.4184,0.4461,est,0.4418
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,13.5,False,0.3544,0.3806,est,0.3766
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,14.5,False,0.2968,0.3362,book,0.3301
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pts,15.5,False,0.2451,0.2666,est,0.2633
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,reb,1.5,False,0.932,0.9301,est,0.9304
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,reb,2.5,False,0.8221,0.7925,book,0.7971
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,reb,3.5,False,0.6724,0.6505,book,0.6539
@@ -5776,15 +5776,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pra,21.5,False,0.3007,,model only,0.3007
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pra,22.5,False,0.2571,,model only,0.2571
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pra,23.5,False,0.2161,,model only,0.2161
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,12.5,False,0.7286,0.7578,est,0.7533
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,13.5,False,0.6662,0.6993,est,0.6942
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,14.5,False,0.6028,0.6388,est,0.6333
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,15.5,False,0.538,0.5757,est,0.5699
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,16.5,True,0.4754,0.5136,book,0.5077
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,17.5,False,0.4161,0.4537,est,0.4479
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,18.5,False,0.3596,0.3955,est,0.39
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,19.5,False,0.3083,0.3418,est,0.3367
-401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,20.5,False,0.2605,0.2911,est,0.2864
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,12.5,False,0.7286,0.7476,est,0.7447
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,13.5,False,0.6662,0.6876,est,0.6843
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,14.5,False,0.6028,0.6261,est,0.6225
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,15.5,False,0.538,0.5623,est,0.5586
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,16.5,True,0.4754,0.4999,book,0.4961
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,17.5,False,0.4161,0.4402,est,0.4365
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,18.5,False,0.3596,0.3825,est,0.379
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,19.5,False,0.3083,0.3296,est,0.3263
+401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pr,20.5,False,0.2605,0.2799,est,0.2769
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pa,9.5,False,0.7476,,model only,0.7476
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pa,10.5,False,0.6806,,model only,0.6806
 401910028,BOS @ SAC,SAC,1631099,Keegan Murray,pa,11.5,False,0.6091,,model only,0.6091
@@ -5832,15 +5832,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,blk,0.5,False,0.2146,,model only,0.2146
 401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,blk,1.5,False,0.027,,model only,0.027
 401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,24.5,False,0.7169,0.7077,book,0.7091
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,25.5,False,0.6725,0.6828,est,0.6812
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,26.5,False,0.6279,0.6388,est,0.6372
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,27.5,False,0.5833,0.5947,est,0.593
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,28.5,False,0.5375,0.5492,est,0.5474
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,29.5,True,0.4891,0.5009,book,0.4991
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,30.5,False,0.4429,0.4546,est,0.4528
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,31.5,False,0.3982,0.4096,est,0.4079
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,32.5,False,0.3591,0.37,est,0.3683
-401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,33.5,False,0.3192,0.3296,est,0.328
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,25.5,False,0.6725,0.6863,est,0.6841
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,26.5,False,0.6279,0.6425,est,0.6403
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,27.5,False,0.5833,0.5986,est,0.5962
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,28.5,False,0.5375,0.5532,est,0.5507
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,29.5,True,0.4891,0.5049,book,0.5025
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,30.5,False,0.4429,0.4586,est,0.4562
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,31.5,False,0.3982,0.4135,est,0.4111
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,32.5,False,0.3591,0.3737,est,0.3715
+401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,33.5,False,0.3192,0.3331,est,0.331
 401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pra,34.5,False,0.2836,0.2986,book,0.2963
 401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pr,20.5,False,0.6924,0.6962,est,0.6956
 401910028,BOS @ SAC,SAC,1627734,Domantas Sabonis,pr,21.5,False,0.6416,0.6456,est,0.645
