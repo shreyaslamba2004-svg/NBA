@@ -11,18 +11,18 @@ MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 10+ pa,2,0.7835,0.5599,1.
 MIL @ PHI,Brayden Burries ast under 3.5 + Joel Embiid 6+ reb,2,0.7008,0.5079,1.97,2.07,1.84,-0.0652,1.0,1.65-1.85
 MIL @ PHI,PHI win + VJ Edgecombe 20+ pra + Anfernee Simons 1+ 3pm,3,0.5981,0.5622,1.78,1.87,1.61,-0.0975,1.018,1.50-1.65
 MIL @ PHI,PHI win + VJ Edgecombe 10+ pts + Anfernee Simons 1+ 3pm,3,0.6015,0.5799,1.72,1.81,1.55,-0.1022,1.018,1.50-1.65
-POR @ NYK,NYK win + Jalen Brunson 30+ pra,2,0.5199,0.4993,2.0,2.1,1.88,-0.0609,1.034,1.85-2.10
-POR @ NYK,Mikal Bridges 17+ pra + Jalen Brunson 30+ pra,2,0.4949,0.3905,2.56,2.69,2.4,-0.0612,1.022,2.10-2.50
-POR @ NYK,POR +5.5 + Jrue Holiday 15+ pra,2,0.4518,0.413,2.42,2.54,2.27,-0.0642,1.026,2.10-2.50
-POR @ NYK,Mikal Bridges 14+ pr + Jalen Brunson 30+ pra,2,0.5111,0.4068,2.46,2.58,2.29,-0.0683,1.021,2.10-2.50
-POR @ NYK,NYK win + Jalen Brunson 4+ ast,2,0.5562,0.5288,1.89,1.99,1.75,-0.0729,1.019,1.65-1.85
-POR @ NYK,Mikal Bridges 14+ pr + Josh Hart 4+ reb,2,0.5828,0.4462,2.24,2.35,2.07,-0.0748,1.006,1.85-2.10
-POR @ NYK,POR +5.5 + Jrue Holiday 10+ pa,2,0.4803,0.4437,2.25,2.37,2.08,-0.0754,1.016,1.85-2.10
-POR @ NYK,Jrue Holiday stl under 1.5 + Josh Hart 4+ reb,2,0.7131,0.5637,1.77,1.86,1.62,-0.0855,1.0,1.50-1.65
-POR @ NYK,NYK win + Josh Hart 4+ reb,2,0.5813,0.5371,1.86,1.96,1.7,-0.0855,1.0,1.65-1.85
-POR @ NYK,Jrue Holiday stl under 1.5 + Jalen Brunson 4+ ast,2,0.6699,0.5449,1.84,1.93,1.67,-0.0897,1.001,1.65-1.85
-POR @ NYK,NYK win + Jrue Holiday 10+ pra,2,0.6216,0.5903,1.69,1.78,1.54,-0.0935,0.996,1.50-1.65
-POR @ NYK,NYK win + Sidy Cissoko 5+ pr,2,0.5994,0.5795,1.73,1.81,1.56,-0.096,0.997,1.50-1.65
+POR @ NYK,Jrue Holiday stl under 1.5 + NYK win,2,0.5038,0.4316,2.32,2.43,2.16,-0.0687,1.002,2.10-2.50
+POR @ NYK,Mikal Bridges 11+ pts + Josh Hart 4+ reb,2,0.5448,0.4122,2.43,2.55,2.25,-0.0719,1.005,2.10-2.50
+POR @ NYK,NYK win + Jalen Brunson 4+ ast,2,0.5562,0.5274,1.9,1.99,1.76,-0.0724,1.019,1.65-1.85
+POR @ NYK,Jrue Holiday stl under 1.5 + Josh Hart 6+ reb,2,0.5522,0.4041,2.47,2.6,2.29,-0.0725,0.998,2.10-2.50
+POR @ NYK,Mikal Bridges 13+ pa + Josh Hart 4+ reb,2,0.5886,0.4565,2.19,2.3,2.03,-0.0754,1.006,1.85-2.10
+POR @ NYK,NYK win + Jalen Brunson 25+ pra,2,0.5908,0.5705,1.75,1.84,1.62,-0.0764,1.018,1.50-1.65
+POR @ NYK,NYK win + Jalen Brunson 20+ pr,2,0.5839,0.5661,1.77,1.85,1.63,-0.0776,1.018,1.50-1.65
+POR @ NYK,Mikal Bridges 14+ pr + Jalen Brunson 20+ pr,2,0.577,0.4572,2.19,2.3,2.01,-0.079,1.01,1.85-2.10
+POR @ NYK,Mikal Bridges 17+ pra + Jalen Brunson 20+ pr,2,0.5581,0.4422,2.26,2.37,2.08,-0.0791,1.01,1.85-2.10
+POR @ NYK,NYK win + Josh Hart 4+ reb,2,0.5813,0.5364,1.86,1.96,1.71,-0.0853,1.0,1.65-1.85
+POR @ NYK,Jrue Holiday stl under 1.5 + Jalen Brunson 4+ ast,2,0.6699,0.5406,1.85,1.94,1.69,-0.0882,1.001,1.65-1.85
+POR @ NYK,Jrue Holiday stl under 1.5 + Jalen Brunson 25+ pra,2,0.7117,0.5848,1.71,1.8,1.55,-0.0919,1.0,1.50-1.65
 LAC @ DAL,Max Strus 3pm under 2.5 + DAL win,2,0.4236,0.3997,2.5,2.63,2.46,-0.0186,1.025,2.10-2.50
 LAC @ DAL,Max Strus pts under 11.5 + Kris Dunn 5+ pa,2,0.6206,0.4173,2.4,2.52,2.27,-0.0542,0.996,2.10-2.50
 LAC @ DAL,Max Strus pra under 19.5 + Kris Dunn 5+ pa,2,0.626,0.4205,2.38,2.5,2.25,-0.055,0.995,2.10-2.50
@@ -35,18 +35,18 @@ LAC @ DAL,Max Strus 3pm under 2.5 + Keaton Wagler 5+ pr,2,0.7443,0.5435,1.84,1.9
 LAC @ DAL,DAL win + Naji Marshall 10+ pra,2,0.5037,0.5862,1.71,1.79,1.57,-0.0807,1.006,1.50-1.65
 LAC @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.4846,0.5731,1.75,1.83,1.6,-0.0815,1.008,1.50-1.65
 LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5041,0.5749,1.74,1.83,1.59,-0.0886,0.993,1.50-1.65
-MEM @ MIN,MEM +5.5 + Cam Spencer 4+ ast,2,0.3946,0.3903,2.56,2.69,2.47,-0.0343,1.025,2.10-2.50
-MEM @ MIN,Cam Spencer 9+ ra + Rudy Gobert 15+ pr,2,0.5879,0.3941,2.54,2.66,2.44,-0.039,1.008,2.10-2.50
-MEM @ MIN,Cam Spencer 20+ pra + Rudy Gobert 15+ pr,2,0.5862,0.3917,2.55,2.68,2.45,-0.0401,1.008,2.10-2.50
-MEM @ MIN,Cam Spencer 16+ pa + Jaylen Wells 10+ pra,2,0.649,0.4571,2.19,2.3,2.07,-0.0538,1.006,1.85-2.10
-MEM @ MIN,MIN win + Rudy Gobert 15+ pr,2,0.6072,0.5132,1.95,2.05,1.84,-0.0568,1.01,1.65-1.85
-MEM @ MIN,Cam Spencer 16+ pa + Rudy Gobert 6+ reb,2,0.6829,0.4817,2.08,2.18,1.96,-0.0573,1.002,1.85-2.10
-MEM @ MIN,MIN win + Cam Spencer 15+ pra,2,0.6221,0.4813,2.08,2.18,1.95,-0.0613,0.986,1.85-2.10
-MEM @ MIN,MIN win + Cam Spencer 10+ pa,2,0.6698,0.548,1.82,1.92,1.7,-0.0669,0.992,1.65-1.85
+MEM @ MIN,MEM +5.5 + Cam Spencer 4+ ast,2,0.3946,0.3905,2.56,2.69,2.47,-0.0344,1.025,2.10-2.50
+MEM @ MIN,Cam Spencer 20+ pra + Rudy Gobert 15+ pr,2,0.5862,0.3891,2.57,2.7,2.47,-0.0383,1.008,2.10-2.50
+MEM @ MIN,Cam Spencer 20+ pra + Jaylen Wells 10+ pr,2,0.5757,0.3879,2.58,2.71,2.48,-0.0387,1.01,2.10-2.50
+MEM @ MIN,MIN win + Rudy Gobert 15+ pr,2,0.6072,0.5137,1.95,2.04,1.84,-0.057,1.01,1.65-1.85
+MEM @ MIN,Cam Spencer 16+ pa + Jaylen Wells 10+ pra,2,0.649,0.455,2.2,2.31,2.07,-0.0581,1.006,1.85-2.10
+MEM @ MIN,MIN win + Cam Spencer 15+ pra,2,0.6221,0.4777,2.09,2.2,1.97,-0.0596,0.986,1.85-2.10
+MEM @ MIN,Cam Spencer 16+ pa + Rudy Gobert 6+ reb,2,0.6829,0.4795,2.09,2.19,1.96,-0.0616,1.002,1.85-2.10
+MEM @ MIN,MIN win + Cam Spencer 10+ pa,2,0.6698,0.5465,1.83,1.92,1.71,-0.0663,0.992,1.65-1.85
 MEM @ MIN,MIN win + Rudy Gobert 6+ reb,2,0.6662,0.5782,1.73,1.82,1.61,-0.0708,1.0,1.50-1.65
 MEM @ MIN,MIN win + Cam Spencer 1+ 3pm,2,0.5819,0.5093,1.96,2.06,1.81,-0.0791,0.993,1.65-1.85
-MEM @ MIN,Cam Spencer 4+ ast + Rudy Gobert 15+ pr,2,0.7473,0.5907,1.69,1.78,1.55,-0.0828,1.003,1.50-1.65
-MEM @ MIN,Cam Spencer 4+ ast + Jaylen Wells 10+ pr,2,0.7324,0.5871,1.7,1.79,1.56,-0.0848,1.003,1.50-1.65
+MEM @ MIN,Cam Spencer 4+ ast + Rudy Gobert 15+ pr,2,0.7473,0.5915,1.69,1.78,1.55,-0.0832,1.003,1.50-1.65
+MEM @ MIN,Cam Spencer 4+ ast + Jaylen Wells 10+ pr,2,0.7324,0.5886,1.7,1.78,1.55,-0.0853,1.003,1.50-1.65
 NOP @ SAS,game under 228.5 + SAS win,2,0.4438,0.4607,2.17,2.28,2.11,-0.0282,1.009,2.10-2.50
 NOP @ SAS,SAS win + Devin Vassell 16+ pa,2,0.5034,0.4637,2.16,2.26,2.09,-0.0305,1.032,1.85-2.10
 NOP @ SAS,SAS win + Zion Williamson pts under 19.5,2,0.5115,0.4646,2.15,2.26,2.08,-0.0331,1.033,1.85-2.10
