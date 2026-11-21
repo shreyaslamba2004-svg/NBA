@@ -1,15 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 MIL @ PHI,Brayden Burries pts under 11.5 + PHI win,2,0.5562,0.4412,2.27,2.38,2.36,0.0412,1.022,2.10-2.50
+MIL @ PHI,Tyler Herro pts under 20.5 + PHI win,2,0.5856,0.4551,2.2,2.31,2.26,0.0286,1.027,2.10-2.50
 MIL @ PHI,Kyle Kuzma pts under 11.5 + PHI win,2,0.4468,0.4208,2.38,2.5,2.44,0.0275,1.036,2.10-2.50
-MIL @ PHI,Tyler Herro pts under 20.5 + PHI win,2,0.5856,0.4545,2.2,2.31,2.26,0.0272,1.027,2.10-2.50
 MIL @ PHI,Brayden Burries pts under 11.5 + VJ Edgecombe 15+ pra,2,0.6893,0.4759,2.1,2.21,2.07,-0.0127,0.999,1.85-2.10
+MIL @ PHI,Brayden Burries pts under 11.5 + VJ Edgecombe 10+ pa,2,0.6882,0.4788,2.09,2.19,2.06,-0.0128,1.001,1.85-2.10
 MIL @ PHI,Brayden Burries pts under 11.5 + Tyrese Maxey 1+ 3pm,2,0.6845,0.4803,2.08,2.19,2.05,-0.0177,0.998,1.85-2.10
-MIL @ PHI,Brayden Burries pts under 11.5 + LeBron James 4+ reb,2,0.6537,0.4665,2.14,2.25,2.1,-0.0212,0.997,1.85-2.10
-MIL @ PHI,Kentavious Caldwell-Pope 3+ reb + VJ Edgecombe 15+ pra,2,0.6862,0.5069,1.97,2.07,1.84,-0.0683,1.001,1.65-1.85
-MIL @ PHI,Kentavious Caldwell-Pope 3+ reb + Tyrese Maxey 1+ 3pm,2,0.6828,0.5126,1.95,2.05,1.81,-0.0709,1.001,1.65-1.85
-MIL @ PHI,PHI win + VJ Edgecombe 15+ pra + Tyrese Maxey 4+ ast,3,0.624,0.5906,1.69,1.78,1.51,-0.1074,1.022,1.50-1.65
-MIL @ PHI,PHI win + Anfernee Simons 1+ 3pm + Tyrese Maxey 4+ ast,3,0.6209,0.5814,1.72,1.81,1.53,-0.1095,1.018,1.50-1.65
-MIL @ PHI,PHI win + Tyrese Maxey 4+ ast + VJ Edgecombe 1+ 3pm,3,0.5782,0.5538,1.81,1.9,1.6,-0.1125,1.019,1.50-1.65
+MIL @ PHI,PHI win + Tyrese Maxey 4+ ast + VJ Edgecombe 10+ pts,3,0.5375,0.5016,1.99,2.09,1.81,-0.0924,1.036,1.65-1.85
+MIL @ PHI,PHI win + Kentavious Caldwell-Pope 5+ pr + VJ Edgecombe 10+ pts,3,0.595,0.5429,1.84,1.93,1.66,-0.0985,1.025,1.65-1.85
+MIL @ PHI,PHI win + Kentavious Caldwell-Pope 5+ pr + Tyrese Maxey 4+ ast,3,0.6252,0.556,1.8,1.89,1.62,-0.1018,1.016,1.50-1.65
+MIL @ PHI,PHI win + Tyrese Maxey 4+ ast + VJ Edgecombe 10+ pa,3,0.6234,0.5821,1.72,1.8,1.54,-0.1032,1.024,1.50-1.65
+MIL @ PHI,PHI win + Anfernee Simons 1+ 3pm + VJ Edgecombe 10+ pts,3,0.5902,0.5546,1.8,1.89,1.62,-0.1035,1.025,1.50-1.65
+MIL @ PHI,PHI win + Tyrese Maxey 4+ ast + VJ Edgecombe 4+ reb,3,0.5646,0.5314,1.88,1.98,1.67,-0.1142,1.013,1.65-1.85
 POR @ NYK,NYK win + Toumani Camara stl under 1.5,2,0.4805,0.3884,2.57,2.7,2.43,-0.0546,1.007,2.10-2.50
 POR @ NYK,NYK win + Jrue Holiday stl under 1.5,2,0.5038,0.4003,2.5,2.62,2.36,-0.0557,1.002,2.10-2.50
 POR @ NYK,NYK win + Josh Hart 10+ pa,2,0.5206,0.4616,2.17,2.27,2.04,-0.056,1.024,1.85-2.10
@@ -23,8 +24,8 @@ POR @ NYK,Jrue Holiday stl under 1.5 + Josh Hart 4+ reb,2,0.7131,0.5908,1.69,1.7
 POR @ NYK,Jrue Holiday stl under 1.5 + Josh Hart 10+ pr,2,0.7283,0.5995,1.67,1.75,1.51,-0.0943,0.998,1.50-1.65
 POR @ NYK,Toumani Camara stl under 1.5 + Jrue Holiday 1+ 3pm,2,0.6673,0.5499,1.82,1.91,1.65,-0.095,0.998,1.50-1.65
 LAC @ DAL,Max Strus 3pm under 2.5 + DAL win,2,0.4236,0.3997,2.5,2.63,2.49,-0.005,1.025,2.10-2.50
-LAC @ DAL,DAL -5.5 + Naji Marshall 15+ pra,2,0.304,0.3872,2.58,2.71,2.46,-0.0493,1.037,2.10-2.50
 LAC @ DAL,DAL win + Naji Marshall 15+ pra,2,0.4264,0.4991,2.0,2.1,1.9,-0.0497,1.027,1.85-2.10
+LAC @ DAL,DAL -5.5 + Naji Marshall 15+ pra,2,0.304,0.3864,2.59,2.72,2.46,-0.0512,1.037,2.10-2.50
 LAC @ DAL,Max Strus pra under 19.5 + Kris Dunn 5+ pa,2,0.626,0.4195,2.38,2.5,2.25,-0.0543,0.995,2.10-2.50
 LAC @ DAL,Max Strus pts under 11.5 + Kris Dunn 5+ pra,2,0.6701,0.4675,2.14,2.25,2.01,-0.0584,0.999,1.85-2.10
 LAC @ DAL,Max Strus pra under 19.5 + Kris Dunn 5+ pra,2,0.6755,0.4693,2.13,2.24,2.01,-0.0589,0.997,1.85-2.10
