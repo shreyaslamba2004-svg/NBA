@@ -11,18 +11,18 @@ POR @ NYK,Jrue Holiday 10+ pr + Mikal Bridges 10+ pa + Josh Hart 10+ pa,3,0.6879
 POR @ NYK,Jrue Holiday 10+ pr + Mikal Bridges 10+ pa + Landry Shamet 10+ pr,3,0.673,0.519,1.93,2.02,1.67,-0.1338,1.009,1.65-1.85
 POR @ NYK,Scoot Henderson 10+ pra + Mikal Bridges 10+ pa + Toumani Camara 10+ pr,3,0.7006,0.5312,1.88,1.98,1.63,-0.1349,1.005,1.50-1.65
 POR @ NYK,Scoot Henderson 10+ pra + Toumani Camara 10+ pr + Sidy Cissoko 5+ pa,3,0.7101,0.5525,1.81,1.9,1.56,-0.1357,1.009,1.50-1.65
-LAC @ DAL,Max Strus pts under 12.5 + Kris Dunn 5+ pr,2,0.6698,0.434,2.3,2.42,2.2,-0.0446,0.996,2.10-2.50
-LAC @ DAL,Max Strus pa under 15.5 + Kris Dunn 5+ pr,2,0.6496,0.4237,2.36,2.48,2.25,-0.0456,0.997,2.10-2.50
-LAC @ DAL,Max Strus pr under 16.5 + Kris Dunn 5+ pr,2,0.636,0.4129,2.42,2.54,2.31,-0.0465,0.995,2.10-2.50
-LAC @ DAL,DAL win + Zaccharie Risacher 5+ pa,2,0.4535,0.5231,1.91,2.01,1.82,-0.0492,1.021,1.65-1.85
-LAC @ DAL,Max Strus pts under 12.5 + Kris Dunn 5+ pra,2,0.7284,0.498,2.01,2.11,1.9,-0.0526,0.999,1.85-2.10
-LAC @ DAL,Max Strus pts under 12.5 + Caleb Martin 5+ pr,2,0.6807,0.4692,2.13,2.24,2.02,-0.0534,1.0,1.85-2.10
-LAC @ DAL,Max Strus pr under 16.5 + Kris Dunn 5+ pra,2,0.6919,0.474,2.11,2.22,2.0,-0.0539,0.998,1.85-2.10
-LAC @ DAL,DAL win + Caleb Martin 5+ pr,2,0.4752,0.5549,1.8,1.89,1.69,-0.0626,1.009,1.65-1.85
-LAC @ DAL,DAL win + Zaccharie Risacher 5+ pra,2,0.5044,0.5925,1.69,1.77,1.58,-0.065,1.008,1.50-1.65
-LAC @ DAL,Max Strus 3pm under 2.5 + Zaccharie Risacher 5+ pra,2,0.75,0.5443,1.84,1.93,1.72,-0.0653,1.0,1.65-1.85
-LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5023,0.5818,1.72,1.8,1.59,-0.0733,0.996,1.50-1.65
-LAC @ DAL,DAL win + Keaton Wagler 5+ pa,2,0.4948,0.5803,1.72,1.81,1.59,-0.0757,0.996,1.50-1.65
+LAC @ DAL,Max Strus pr under 16.5 + Kris Dunn 5+ pr,2,0.6412,0.4136,2.42,2.54,2.31,-0.0448,0.995,2.10-2.50
+LAC @ DAL,Max Strus pa under 15.5 + Kris Dunn 5+ pr,2,0.6525,0.4241,2.36,2.48,2.25,-0.0448,0.997,2.10-2.50
+LAC @ DAL,Max Strus pts under 12.5 + Kris Dunn 5+ pr,2,0.6709,0.4337,2.31,2.42,2.2,-0.0453,0.995,2.10-2.50
+LAC @ DAL,DAL win + Zaccharie Risacher 5+ pa,2,0.4603,0.5238,1.91,2.0,1.82,-0.0479,1.022,1.65-1.85
+LAC @ DAL,Max Strus pr under 16.5 + Zaccharie Risacher 5+ pra,2,0.6992,0.4798,2.08,2.19,1.98,-0.0513,1.001,1.85-2.10
+LAC @ DAL,Max Strus pr under 16.5 + Kris Dunn 5+ pra,2,0.6991,0.4751,2.1,2.21,2.0,-0.0517,0.998,1.85-2.10
+LAC @ DAL,Max Strus pts under 12.5 + Zaccharie Risacher 5+ pra,2,0.7315,0.5031,1.99,2.09,1.88,-0.0518,1.001,1.85-2.10
+LAC @ DAL,DAL win + Caleb Martin 5+ pr,2,0.4843,0.5568,1.8,1.89,1.69,-0.0595,1.011,1.65-1.85
+LAC @ DAL,Max Strus 3pm under 2.5 + Caleb Martin 5+ pr,2,0.7108,0.51,1.96,2.06,1.84,-0.0626,1.001,1.65-1.85
+LAC @ DAL,DAL win + Zaccharie Risacher 5+ pra,2,0.5129,0.5933,1.69,1.77,1.58,-0.0638,1.008,1.50-1.65
+LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5077,0.5816,1.72,1.81,1.59,-0.0737,0.995,1.50-1.65
+LAC @ DAL,DAL win + Keaton Wagler 5+ pr,2,0.5004,0.5808,1.72,1.81,1.59,-0.0767,0.995,1.50-1.65
 MEM @ MIN,Cam Spencer 19+ pra + Rudy Gobert 15+ pr,2,0.6192,0.4123,2.43,2.55,2.32,-0.0422,1.005,2.10-2.50
 MEM @ MIN,game over 230.5 + Rudy Gobert 15+ pr,2,0.4362,0.3996,2.5,2.63,2.4,-0.0424,1.042,2.10-2.50
 MEM @ MIN,Cam Spencer 16+ pa + Rudy Gobert 15+ pr,2,0.6123,0.4138,2.42,2.54,2.31,-0.0427,1.004,2.10-2.50
