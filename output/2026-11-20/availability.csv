@@ -1,39 +1,39 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909305,ATL,1629638,Nickeil Alexander-Walker,Starting,,1.0,,,1.0
+401909305,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
 401909305,ATL,904684443,Rafael Castro,Out,GLeague-Two-Way,0.0,,,
-401909305,ATL,1630700,Dyson Daniels,Starting,,1.0,,,1.0
+401909305,ATL,1630700,Dyson Daniels,,,1.0,,,
 401909305,ATL,1642484,RayJ Dennis,Available,GLeague-Two-Way,1.0,,,
 401909305,ATL,1629652,Luguentz Dort,,,1.0,,,
 401909305,ATL,905106262,Zuby Ejiofor,,,1.0,,,
 401909305,ATL,1627827,Dorian Finney-Smith,,,1.0,,,
 401909305,ATL,905149077,Kingston Flemings,Out,Injury/Illness-LumbarStrain,0.0,"Flemings (back) is out for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports.",,
 401909305,ATL,1631243,Mouhamed Gueye,Out,Injury/Illness-LeftFootFracture,0.0,"Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",,
-401909305,ATL,1630552,Jalen Johnson,Starting,,1.0,,,1.0
+401909305,ATL,1630552,Jalen Johnson,,,1.0,,,
 401909305,ATL,1630557,Corey Kispert,,,1.0,,,
 401909305,ATL,1629111,Jock Landale,Out,Injury/Illness-RightGreatToeSprain,0.0,"Landale (hip) won't play in Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports.",,
 401909305,ATL,203468,CJ McCollum,Out,Injury/Illness-LeftCalfStrain,0.0,"McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network.",,
 401909305,ATL,1642854,Asa Newell,Out,Injury/Illness-LeftGreatToeSurgery,0.0,"Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he will be re-evaluated in approximately four months, Brad Rowland of the Locked On Podcast Network reports.",,
-401909305,ATL,1630168,Onyeka Okongwu,Starting,,1.0,,,1.0
+401909305,ATL,1630168,Onyeka Okongwu,,,1.0,,,
 401909305,ATL,905105571,Henri Veesaar,Out,Injury/Illness-RightACLTear,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
-401909305,ATL,1630598,Aaron Wiggins,Starting,,1.0,,,1.0
+401909305,ATL,1630598,Aaron Wiggins,,,1.0,,,
 401909305,ATL,1630592,Jalen Wilson,Available,GLeague-Two-Way,1.0,,,
 401909305,CHA,905176517,Michael Ajayi,Out,GLeague-Two-Way,0.0,,,
 401909305,CHA,1628960,Grayson Allen,Out,ConcussionProtocol,0.0,Allen (concussion) has been ruled out for Friday's game against Atlanta.,,
 401909305,CHA,905060701,Christian Anderson,,,1.0,,,
 401909305,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
-401909305,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
+401909305,CHA,1631217,Moussa Diabate,,,1.0,,,
 401909305,CHA,1641790,PJ Hall,,,1.0,,,
-401909305,CHA,1642883,Sion James,Starting,,1.0,,,1.0
+401909305,CHA,1642883,Sion James,,,1.0,,,
 401909305,CHA,1641750,Ryan Kalkbrenner,,,1.0,,,
 401909305,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.,,
 401909305,CHA,1642862,Liam McNeeley,,,1.0,,,
-401909305,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
+401909305,CHA,1641706,Brandon Miller,,,1.0,,,
 401909305,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909305,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
+401909305,CHA,1629675,Naz Reid,,,1.0,,,
 401909305,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401909305,CHA,203471,Dennis Schroder,Out,Injury/Illness-LeftHamstringStrain,0.0,"Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",,
 401909305,CHA,905281370,Hannes Steinbach,,,1.0,,,
-401909305,CHA,1629632,Coby White,Starting,,1.0,,,1.0
+401909305,CHA,1629632,Coby White,,,1.0,,,
 401909305,CHA,1629684,Grant Williams,Out,,0.0,Williams (hamstring) is listed as out for Friday's game versus the Hawks.,,
 401909306,BKN,905105626,Tyler Bilodeau,,,1.0,,,
 401909306,BKN,905101761,Mikel Brown Jr.,,,1.0,,,
@@ -144,7 +144,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909309,CHI,1641824,Matas Buzelis,,,1.0,,,
 401909309,CHI,1629651,Nic Claxton,,,1.0,,,
 401909309,CHI,1628380,Zach Collins,,,1.0,,,
-401909309,CHI,1642855,Noa Essengue,Available,-,1.0,Essengue is listed as probable for Friday's game against Washington due to bilateral wrist soreness.,,
+401909309,CHI,1642855,Noa Essengue,Available,-,1.0,,,
 401909309,CHI,1630581,Josh Giddey,,,1.0,,,
 401909309,CHI,1641722,Jordan Hawkins,,,1.0,,,
 401909309,CHI,1627741,Buddy Hield,,,1.0,,,
