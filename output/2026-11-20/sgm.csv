@@ -47,24 +47,24 @@ TOR @ DET,DET win + Javonte Green 5+ pr,2,0.6654,0.6025,1.66,1.74,1.55,-0.0637,1
 TOR @ DET,Scottie Barnes 5+ ast + Jamal Shead 5+ pr,2,0.7182,0.5168,1.94,2.03,1.81,-0.067,1.0,1.65-1.85
 TOR @ DET,DET win + Jamal Shead 5+ pr,2,0.665,0.5887,1.7,1.78,1.58,-0.0689,0.994,1.50-1.65
 TOR @ DET,Scottie Barnes 5+ ast + Javonte Green 5+ pr,2,0.7103,0.5226,1.91,2.01,1.77,-0.0728,0.998,1.65-1.85
-WAS @ CHI,WAS +1.5 + Kyshawn George 20+ pra,2,0.3512,0.3861,2.59,2.72,2.47,-0.0458,1.043,2.10-2.50
-WAS @ CHI,WAS +2.5 + Kyshawn George 15+ pa,2,0.3872,0.4149,2.41,2.53,2.29,-0.0493,1.038,2.10-2.50
+WAS @ CHI,WAS +1.5 + Kyshawn George 20+ pra,2,0.3512,0.3849,2.6,2.73,2.48,-0.0443,1.043,2.10-2.50
+WAS @ CHI,WAS +1.5 + Kyshawn George 15+ pa,2,0.3625,0.3984,2.51,2.64,2.39,-0.0489,1.038,2.10-2.50
 WAS @ CHI,CHI win + Matas Buzelis 10+ pts,2,0.5485,0.4753,2.1,2.21,1.99,-0.0524,1.012,1.85-2.10
 WAS @ CHI,CHI win + Matas Buzelis 1+ 3pm,2,0.5558,0.4805,2.08,2.19,1.96,-0.0582,1.006,1.85-2.10
 WAS @ CHI,CHI win + AJ Dybantsa 4+ reb,2,0.5373,0.4559,2.19,2.3,2.06,-0.0598,1.0,1.85-2.10
 WAS @ CHI,CHI win + Anthony Davis 8+ reb,2,0.5021,0.4293,2.33,2.45,2.19,-0.0609,1.001,2.10-2.50
-NOP @ OKC,OKC win + Jeremiah Fears pts under 15.5,2,0.504,0.4306,2.32,2.44,2.31,-0.0064,1.037,2.10-2.50
+NOP @ OKC,OKC win + Jeremiah Fears pts under 15.5,2,0.504,0.4228,2.36,2.48,2.36,-0.0021,1.037,2.10-2.50
+NOP @ OKC,OKC win + Jeremiah Fears pa under 21.5,2,0.5217,0.4395,2.28,2.39,2.27,-0.0028,1.038,2.10-2.50
 NOP @ OKC,OKC win + Jeremiah Fears pr under 20.5,2,0.518,0.4305,2.32,2.44,2.31,-0.0065,1.031,2.10-2.50
-NOP @ OKC,OKC win + Jeremiah Fears pra under 26.5,2,0.531,0.4448,2.25,2.36,2.23,-0.0068,1.032,2.10-2.50
 NOP @ OKC,Trey Murphy III 6+ ra + OKC win,2,0.6035,0.4787,2.09,2.19,2.02,-0.0331,0.99,1.85-2.10
-NOP @ OKC,OKC win + Jaylin Williams 3pm under 1.5,2,0.6232,0.5262,1.9,2.0,1.8,-0.0506,0.989,1.65-1.85
-NOP @ OKC,OKC win + Trey Murphy III 2+ 3pm,2,0.5559,0.4807,2.08,2.18,1.96,-0.0558,0.983,1.85-2.10
+NOP @ OKC,OKC win + Jaylin Williams 3pm under 1.5,2,0.6232,0.5249,1.91,2.0,1.81,-0.0499,0.989,1.65-1.85
 NOP @ OKC,Trey Murphy III 6+ ra + Saddiq Bey 1+ 3pm,2,0.6986,0.4921,2.03,2.13,1.92,-0.0568,1.002,1.85-2.10
+NOP @ OKC,Trey Murphy III 6+ ra + Kenrich Williams 5+ pa,2,0.7109,0.5042,1.98,2.08,1.87,-0.0583,1.002,1.85-2.10
 NOP @ OKC,Trey Murphy III 6+ ra + Herbert Jones 5+ pra,2,0.7401,0.5444,1.84,1.93,1.71,-0.068,0.998,1.65-1.85
-NOP @ OKC,Trey Murphy III 6+ ra + Jared McCain 1+ 3pm,2,0.7221,0.5383,1.86,1.95,1.73,-0.0705,0.998,1.65-1.85
-NOP @ OKC,Jaylin Williams 3pm under 1.5 + Trey Murphy III 10+ pra,2,0.7784,0.5857,1.71,1.79,1.58,-0.0755,1.0,1.50-1.65
-NOP @ OKC,Jaylin Williams 3pm under 1.5 + Herbert Jones 5+ pra,2,0.7659,0.5998,1.67,1.75,1.53,-0.0829,0.999,1.50-1.65
-NOP @ OKC,Jaylin Williams 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.7484,0.5939,1.68,1.77,1.54,-0.084,1.001,1.50-1.65
+NOP @ OKC,Trey Murphy III 19+ pra + Herbert Jones 5+ pra,2,0.6805,0.5077,1.97,2.07,1.83,-0.0704,1.001,1.65-1.85
+NOP @ OKC,Jaylin Williams 3pm under 1.5 + Herbert Jones 5+ pra,2,0.7659,0.5982,1.67,1.76,1.53,-0.0823,0.999,1.50-1.65
+NOP @ OKC,Jaylin Williams 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.7484,0.5924,1.69,1.77,1.55,-0.0834,1.001,1.50-1.65
+NOP @ OKC,OKC win + Kenrich Williams 5+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.6299,0.5605,1.78,1.87,1.61,-0.0968,1.019,1.50-1.65
 PHX @ UTA,UTA +4.5 + Ace Bailey 10+ pts,2,0.3917,0.3943,2.54,2.66,2.4,-0.0535,1.037,2.10-2.50
 PHX @ UTA,PHX win + Dillon Brooks 15+ pra,2,0.5634,0.5032,1.99,2.09,1.87,-0.0587,1.021,1.85-2.10
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 1+ 3pm,2,0.6457,0.4574,2.19,2.3,2.05,-0.0608,1.0,1.85-2.10
