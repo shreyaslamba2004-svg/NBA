@@ -15,23 +15,23 @@ HOU @ DEN,DEN win + Jamal Murray 4+ ast,2,0.4631,0.4211,2.37,2.49,2.44,0.0285,1.
 HOU @ DEN,DEN win + Christian Braun 10+ pr,2,0.5015,0.4474,2.23,2.35,2.3,0.0278,1.019,2.10-2.50
 HOU @ DEN,DEN win + Nikola Jokic 6+ ast,2,0.4936,0.4529,2.21,2.32,2.27,0.0271,1.024,2.10-2.50
 HOU @ DEN,DEN win + Nikola Jokic 6+ reb,2,0.525,0.481,2.08,2.18,2.09,0.0054,1.002,1.85-2.10
-HOU @ DEN,Kevin Durant 9+ ra + Christian Braun 10+ pr,2,0.5765,0.4471,2.24,2.35,2.06,-0.077,1.003,1.85-2.10
-HOU @ DEN,HOU +1.5 + Kevin Durant 20+ pra,2,0.4519,0.4484,2.23,2.34,2.05,-0.0798,1.019,1.85-2.10
-HOU @ DEN,Tari Eason 5+ reb + Kevin Durant 20+ pra,2,0.608,0.501,2.0,2.1,1.81,-0.0914,1.001,1.65-1.85
-HOU @ DEN,Tari Eason 5+ reb + Jamal Murray 1+ 3pm,2,0.6197,0.5098,1.96,2.06,1.78,-0.0916,1.001,1.65-1.85
+HOU @ DEN,Cameron Johnson 11+ pts + Kevin Durant 20+ pra,2,0.5272,0.4664,2.14,2.25,2.03,-0.051,1.005,1.85-2.10
+HOU @ DEN,Cameron Johnson 11+ pts + Jamal Murray 1+ 3pm,2,0.5345,0.4721,2.12,2.22,2.0,-0.0562,0.999,1.85-2.10
 HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Jamal Murray 4+ ast,3,0.6384,0.5182,1.93,2.03,1.66,-0.1405,1.012,1.65-1.85
+HOU @ DEN,Tari Eason 10+ pr + Christian Braun 10+ pr + Jamal Murray 4+ ast,3,0.646,0.5106,1.96,2.06,1.68,-0.1414,1.005,1.65-1.85
+HOU @ DEN,Tari Eason 10+ pr + Christian Braun 10+ pr + Cameron Johnson 10+ pr,3,0.6623,0.5193,1.93,2.02,1.65,-0.1415,1.004,1.65-1.85
 HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 6+ ast,3,0.6621,0.5467,1.83,1.92,1.57,-0.1435,1.012,1.50-1.65
+HOU @ DEN,Tari Eason 10+ pr + Christian Braun 10+ pr + Nikola Jokic 6+ ast,3,0.6871,0.548,1.82,1.92,1.56,-0.1443,1.004,1.50-1.65
 HOU @ DEN,Christian Braun 10+ pr + Nikola Jokic 8+ reb + Jamal Murray 4+ ast,3,0.6455,0.5258,1.9,2.0,1.63,-0.1451,1.007,1.50-1.65
-HOU @ DEN,Tari Eason 10+ pr + Cameron Johnson 10+ pr + Nikola Jokic 6+ ast,3,0.6494,0.5237,1.91,2.01,1.63,-0.1454,1.005,1.50-1.65
-SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.584,0.4343,2.3,2.42,2.21,-0.0393,0.986,2.10-2.50
-SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.5947,0.4468,2.24,2.35,2.14,-0.0418,0.986,2.10-2.50
-SAC @ LAL,Quentin Grimes pa under 19.5 + LAL win,2,0.5769,0.4288,2.33,2.45,2.23,-0.0424,0.983,2.10-2.50
-SAC @ LAL,Matisse Thybulle 3pm under 1.5 + LAL win,2,0.5869,0.467,2.14,2.25,2.03,-0.0508,0.991,1.85-2.10
-SAC @ LAL,LAL win + Quentin Grimes 3pm under 2.5,2,0.5857,0.479,2.09,2.19,1.97,-0.0583,0.99,1.85-2.10
-SAC @ LAL,Quentin Grimes pa under 19.5 + Keegan Murray 5+ pa,2,0.6559,0.4615,2.17,2.28,2.04,-0.0591,0.999,1.85-2.10
+SAC @ LAL,Malik Monk pts under 10.5 + LAL win,2,0.5124,0.4601,2.17,2.28,2.18,0.004,1.023,2.10-2.50
+SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5854,0.4571,2.19,2.3,2.19,0.002,0.984,2.10-2.50
+SAC @ LAL,Domantas Sabonis 13+ pts + Keegan Murray 10+ pr,2,0.4588,0.4157,2.41,2.53,2.38,-0.0107,1.009,2.10-2.50
+SAC @ LAL,Quentin Grimes pts under 16.5 + Keegan Murray 5+ pa,2,0.6656,0.4919,2.03,2.13,2.0,-0.0156,1.0,1.85-2.10
+SAC @ LAL,Quentin Grimes pts under 16.5 + Darius Acuff Jr. 15+ pr,2,0.6431,0.4822,2.07,2.18,2.03,-0.0191,0.999,1.85-2.10
+SAC @ LAL,Sandro Mamukelashvili pts under 9.5 + Keegan Murray 5+ pa,2,0.5254,0.4633,2.16,2.27,2.07,-0.0414,1.002,1.85-2.10
 SAC @ LAL,Quentin Grimes 3pm under 2.5 + Keegan Murray 5+ pa,2,0.6605,0.5113,1.96,2.05,1.8,-0.0822,0.998,1.65-1.85
 SAC @ LAL,Quentin Grimes 3pm under 2.5 + Darius Acuff Jr. 15+ pr,2,0.64,0.5025,1.99,2.09,1.82,-0.083,1.0,1.65-1.85
-SAC @ LAL,Darius Acuff Jr. 10+ ra + Keegan Murray 5+ pa,2,0.5977,0.4978,2.01,2.11,1.83,-0.0889,1.005,1.65-1.85
+SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Walker Kessler 8+ reb,3,0.6075,0.5204,1.92,2.02,1.7,-0.1157,1.006,1.65-1.85
 SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Keegan Murray 10+ pr,3,0.6396,0.5441,1.84,1.93,1.62,-0.1198,1.0,1.50-1.65
 SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Darius Acuff Jr. 4+ ast,3,0.6683,0.5745,1.74,1.83,1.53,-0.1201,1.002,1.50-1.65
 SAC @ LAL,LAL win + Luka Doncic 3+ 3pm + Keegan Murray 10+ pra,3,0.6731,0.578,1.73,1.82,1.52,-0.1201,1.002,1.50-1.65
