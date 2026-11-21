@@ -15,7 +15,7 @@ POR @ NYK,NYK win + Toumani Camara stl under 1.5,2,0.4805,0.3884,2.57,2.7,2.43,-
 POR @ NYK,NYK win + Jrue Holiday stl under 1.5,2,0.5038,0.4003,2.5,2.62,2.36,-0.0557,1.002,2.10-2.50
 POR @ NYK,NYK win + Josh Hart 10+ pa,2,0.5206,0.4616,2.17,2.27,2.04,-0.056,1.024,1.85-2.10
 POR @ NYK,POR +3.5 + Jrue Holiday 15+ pra,2,0.3974,0.4198,2.38,2.5,2.24,-0.0583,1.028,2.10-2.50
-POR @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5389,0.4652,2.15,2.26,2.02,-0.0586,1.016,1.85-2.10
+POR @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5389,0.4653,2.15,2.26,2.02,-0.0587,1.016,1.85-2.10
 POR @ NYK,NYK win + Mikal Bridges 10+ pr,2,0.5616,0.4795,2.09,2.19,1.96,-0.0622,1.01,1.85-2.10
 POR @ NYK,NYK win + Mikal Bridges 10+ pra,2,0.6039,0.5262,1.9,2.0,1.77,-0.0712,1.004,1.65-1.85
 POR @ NYK,NYK win + Josh Hart 10+ pr,2,0.5971,0.5192,1.93,2.02,1.79,-0.0713,1.004,1.65-1.85
@@ -35,30 +35,30 @@ LAC @ DAL,Max Strus 3pm under 2.5 + Keaton Wagler 5+ pr,2,0.7443,0.5435,1.84,1.9
 LAC @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.4846,0.5712,1.75,1.84,1.63,-0.0683,1.008,1.50-1.65
 LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5041,0.5758,1.74,1.82,1.6,-0.0762,0.993,1.50-1.65
 LAC @ DAL,DAL win + Keaton Wagler 5+ pr,2,0.4986,0.5791,1.73,1.81,1.59,-0.0773,0.995,1.50-1.65
-MEM @ MIN,Cam Spencer 20+ pra + Rudy Gobert 15+ pr,2,0.5862,0.3877,2.58,2.71,2.48,-0.0376,1.008,2.10-2.50
-MEM @ MIN,Cam Spencer 9+ ra + Rudy Gobert 15+ pr,2,0.5879,0.3931,2.54,2.67,2.45,-0.0386,1.008,2.10-2.50
-MEM @ MIN,Cam Spencer 20+ pra + Jaylen Wells 10+ pr,2,0.5757,0.3888,2.57,2.7,2.47,-0.039,1.01,2.10-2.50
-MEM @ MIN,Cam Spencer 16+ pa + Rudy Gobert 6+ reb,2,0.6829,0.4762,2.1,2.2,1.99,-0.0528,1.002,1.85-2.10
-MEM @ MIN,Cam Spencer 14+ pr + Rudy Gobert 6+ reb,2,0.6185,0.4568,2.19,2.3,2.05,-0.0648,1.004,1.85-2.10
-MEM @ MIN,Bones Hyland 3pm under 1.5 + Cam Spencer 5+ pr,2,0.6219,0.4508,2.22,2.33,2.07,-0.0658,1.0,1.85-2.10
-MEM @ MIN,Ayo Dosunmu 4+ reb + Cam Spencer 10+ pra,2,0.653,0.5118,1.95,2.05,1.8,-0.0787,1.002,1.65-1.85
-MEM @ MIN,Rudy Gobert 10+ reb + Cam Spencer 5+ pr,2,0.6541,0.5176,1.93,2.03,1.78,-0.0802,1.001,1.65-1.85
-MEM @ MIN,Ayo Dosunmu 4+ reb + Cam Spencer 5+ pr,2,0.6581,0.5242,1.91,2.0,1.75,-0.0826,1.001,1.65-1.85
-MEM @ MIN,Cam Spencer 4+ ast + Rudy Gobert 15+ pr,2,0.7473,0.5921,1.69,1.77,1.55,-0.0834,1.003,1.50-1.65
-MEM @ MIN,Cam Spencer 4+ ast + Jaylen Wells 10+ pr,2,0.7324,0.5925,1.69,1.77,1.54,-0.0866,1.003,1.50-1.65
-MEM @ MIN,Cam Spencer 4+ ast + Rudy Gobert 1+ blk,2,0.7164,0.5749,1.74,1.83,1.59,-0.0882,1.0,1.50-1.65
-NOP @ SAS,SAS win + Zion Williamson pr under 25.5,2,0.5247,0.4692,2.13,2.24,2.08,-0.0234,1.031,1.85-2.10
-NOP @ SAS,SAS win + Zion Williamson pts under 19.5,2,0.5115,0.4625,2.16,2.27,2.11,-0.0243,1.033,2.10-2.50
-NOP @ SAS,SAS win + Zion Williamson pra under 28.5,2,0.5157,0.4797,2.08,2.19,2.02,-0.0304,1.033,1.85-2.10
+MEM @ MIN,Cam Spencer 16+ pa + Rudy Gobert 15+ pr,2,0.6186,0.4036,2.48,2.6,2.39,-0.0361,1.006,2.10-2.50
+MEM @ MIN,game over 230.5 + Jaylen Wells 10+ pr,2,0.4317,0.4041,2.47,2.6,2.38,-0.0364,1.053,2.10-2.50
+MEM @ MIN,Cam Spencer 16+ pa + Jaylen Wells 10+ pr,2,0.6071,0.4052,2.47,2.59,2.37,-0.0383,1.008,2.10-2.50
+MEM @ MIN,Cam Spencer 16+ pa + Rudy Gobert 6+ reb,2,0.6829,0.4583,2.18,2.29,2.08,-0.0449,1.002,1.85-2.10
+MEM @ MIN,Cam Spencer 19+ pra + Rudy Gobert 6+ reb,2,0.6893,0.4671,2.14,2.25,2.04,-0.0477,1.002,1.85-2.10
+MEM @ MIN,Cam Spencer 5+ ast + Rudy Gobert 15+ pr,2,0.6659,0.467,2.14,2.25,2.02,-0.0559,1.002,1.85-2.10
+MEM @ MIN,Cam Spencer 5+ ast + Rudy Gobert 6+ reb,2,0.7365,0.5312,1.88,1.98,1.76,-0.0627,1.001,1.65-1.85
+MEM @ MIN,Rudy Gobert 10+ reb + Cam Spencer 10+ pra,2,0.648,0.5018,1.99,2.09,1.84,-0.0768,1.0,1.65-1.85
+MEM @ MIN,Rudy Gobert 10+ reb + Cam Spencer 5+ pr,2,0.6541,0.5161,1.94,2.03,1.78,-0.0797,1.001,1.65-1.85
+MEM @ MIN,Rudy Gobert 15+ pr + Jaylen Wells 10+ pr,2,0.7031,0.6011,1.66,1.75,1.5,-0.0979,1.002,1.50-1.65
+MEM @ MIN,Rudy Gobert 15+ pr + Jaden McDaniels 4+ reb,2,0.6917,0.5897,1.7,1.78,1.53,-0.0982,1.001,1.50-1.65
+MEM @ MIN,Jaden McDaniels 4+ reb + Jaylen Wells 10+ pr,2,0.68,0.593,1.69,1.77,1.52,-0.0988,1.005,1.50-1.65
+NOP @ SAS,SAS win + Jeremiah Fears pa under 21.5,2,0.5004,0.4672,2.14,2.25,2.08,-0.0276,1.037,1.85-2.10
 NOP @ SAS,Victor Wembanyama 15+ ra + SAS win,2,0.5726,0.4736,2.11,2.22,2.05,-0.031,1.004,1.85-2.10
-NOP @ SAS,SAS win + De'Aaron Fox 15+ pts,2,0.4845,0.4583,2.18,2.29,2.11,-0.0333,1.026,2.10-2.50
-NOP @ SAS,Victor Wembanyama 12+ reb + SAS win,2,0.5307,0.4392,2.28,2.39,2.19,-0.0369,0.998,2.10-2.50
-NOP @ SAS,SAS win + Victor Wembanyama 10+ reb,2,0.6654,0.6068,1.65,1.73,1.55,-0.0586,0.998,1.50-1.65
-NOP @ SAS,SAS win + De'Aaron Fox 10+ pts + Devin Vassell 15+ pra,3,0.6229,0.5625,1.78,1.87,1.61,-0.0925,1.029,1.50-1.65
-NOP @ SAS,SAS win + Victor Wembanyama 10+ reb + Devin Vassell 10+ pa,3,0.6091,0.515,1.94,2.04,1.75,-0.0972,1.01,1.65-1.85
-NOP @ SAS,SAS win + Victor Wembanyama 10+ reb + Devin Vassell 10+ pr,3,0.626,0.534,1.87,1.97,1.68,-0.1013,1.007,1.65-1.85
-NOP @ SAS,SAS win + Victor Wembanyama 10+ reb + Devin Vassell 1+ 3pm,3,0.5923,0.505,1.98,2.08,1.78,-0.1031,1.005,1.65-1.85
-NOP @ SAS,SAS win + Victor Wembanyama 10+ reb + De'Aaron Fox 15+ pra,3,0.635,0.5461,1.83,1.92,1.64,-0.1051,1.004,1.50-1.65
+NOP @ SAS,SAS win + Victor Wembanyama 45+ pra,2,0.4836,0.4655,2.15,2.26,2.08,-0.031,1.024,1.85-2.10
+NOP @ SAS,Victor Wembanyama 12+ reb + SAS win,2,0.5307,0.44,2.27,2.39,2.19,-0.0351,0.998,2.10-2.50
+NOP @ SAS,SAS win + game under 228.5,2,0.4438,0.4539,2.2,2.31,2.12,-0.038,1.009,2.10-2.50
+NOP @ SAS,game over 228.5 + Devin Vassell 15+ pra,2,0.4214,0.4075,2.45,2.58,2.35,-0.041,1.044,2.10-2.50
+NOP @ SAS,SAS win + Victor Wembanyama 10+ reb,2,0.6654,0.6055,1.65,1.73,1.56,-0.0582,0.998,1.50-1.65
+NOP @ SAS,SAS win + Victor Wembanyama 3+ blk,2,0.6406,0.5973,1.67,1.76,1.57,-0.0647,0.997,1.50-1.65
+NOP @ SAS,Victor Wembanyama 3+ blk + Devin Vassell 15+ pra,2,0.6526,0.522,1.92,2.01,1.75,-0.0841,1.004,1.65-1.85
+NOP @ SAS,Victor Wembanyama 3+ blk + De'Aaron Fox 10+ pts,2,0.6538,0.5227,1.91,2.01,1.75,-0.0843,1.003,1.65-1.85
+NOP @ SAS,Victor Wembanyama 3+ blk + Devin Vassell 10+ pa,2,0.6947,0.56,1.79,1.87,1.63,-0.0873,1.002,1.50-1.65
+NOP @ SAS,Victor Wembanyama 3+ blk + Devin Vassell 1+ 3pm,2,0.6792,0.5502,1.82,1.91,1.66,-0.0879,1.002,1.65-1.85
 BOS @ SAC,BOS win + Darius Acuff Jr. pr under 26.5,2,0.5034,0.4501,2.22,2.33,2.18,-0.0186,1.042,2.10-2.50
 BOS @ SAC,Neemias Queta 2+ reb + BOS win,2,0.7852,0.601,1.66,1.75,1.63,-0.0215,1.0,1.50-1.65
 BOS @ SAC,Paul George ra under 10.5 + BOS win,2,0.5795,0.4523,2.21,2.32,2.16,-0.0218,1.002,2.10-2.50
