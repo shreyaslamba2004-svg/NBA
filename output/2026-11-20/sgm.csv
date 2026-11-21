@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 PHX @ UTA,UTA +4.5 + Ace Bailey 10+ pts,2,0.3978,0.3942,2.54,2.66,2.43,-0.0407,1.038,2.10-2.50
-PHX @ UTA,UTA +4.5 + Brice Sensabaugh 10+ pr,2,0.403,0.3925,2.55,2.68,2.42,-0.0496,1.025,2.10-2.50
+PHX @ UTA,UTA +4.5 + Brice Sensabaugh 10+ pr,2,0.403,0.3948,2.53,2.66,2.4,-0.0508,1.025,2.10-2.50
 PHX @ UTA,PHX win + Dillon Brooks 15+ pra,2,0.553,0.5063,1.98,2.07,1.86,-0.0587,1.022,1.85-2.10
-PHX @ UTA,PHX win + Devin Booker 4+ ast,2,0.549,0.4904,2.04,2.14,1.92,-0.0591,1.016,1.85-2.10
-PHX @ UTA,Collin Gillespie 3pm under 2.5 + Brice Sensabaugh 10+ pr,2,0.6331,0.452,2.21,2.32,2.07,-0.063,1.0,1.85-2.10
+PHX @ UTA,PHX win + Devin Booker 4+ ast,2,0.549,0.4905,2.04,2.14,1.92,-0.0592,1.016,1.85-2.10
+PHX @ UTA,PHX win + Jalen Green 1+ 3pm,2,0.5449,0.488,2.05,2.15,1.92,-0.0633,1.012,1.85-2.10
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Keyonte George 1+ 3pm,2,0.707,0.5214,1.92,2.01,1.79,-0.0689,1.0,1.65-1.85
 PHX @ UTA,Collin Gillespie 3pm under 2.5 + Ace Bailey 10+ pr,2,0.7258,0.5345,1.87,1.96,1.74,-0.0696,0.999,1.65-1.85
-PHX @ UTA,PHX win + Dillon Brooks 10+ pr,2,0.6161,0.5642,1.77,1.86,1.65,-0.0707,1.009,1.50-1.65
-PHX @ UTA,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7161,0.5272,1.9,1.99,1.76,-0.0712,0.998,1.65-1.85
-PHX @ UTA,Darryn Peterson pra under 27.5 + Devin Booker 4+ ast,2,0.5426,0.4025,2.48,2.61,2.31,-0.0719,1.0,2.10-2.50
-PHX @ UTA,PHX win + Brice Sensabaugh 5+ pr,2,0.6297,0.5751,1.74,1.83,1.6,-0.0807,0.997,1.50-1.65
+PHX @ UTA,PHX win + Dillon Brooks 10+ pr,2,0.6161,0.5623,1.78,1.87,1.65,-0.07,1.009,1.65-1.85
+PHX @ UTA,Darryn Peterson pra under 27.5 + Devin Booker 4+ ast,2,0.5426,0.4026,2.48,2.61,2.3,-0.072,1.0,2.10-2.50
+PHX @ UTA,PHX win + Brice Sensabaugh 5+ pr,2,0.6297,0.5754,1.74,1.82,1.6,-0.0807,0.997,1.50-1.65
 PHX @ UTA,PHX win + Ace Bailey 10+ pr,2,0.6158,0.5642,1.77,1.86,1.63,-0.0819,0.997,1.50-1.65
+PHX @ UTA,Brice Sensabaugh 10+ pr + Jalen Green 1+ 3pm,2,0.6937,0.5949,1.68,1.76,1.51,-0.0997,1.001,1.50-1.65
 HOU @ DEN,HOU +1.5 + Kevin Durant 20+ pa,2,0.3808,0.3948,2.53,2.66,2.44,-0.0379,1.05,2.10-2.50
 HOU @ DEN,Tari Eason 16+ pra + Kevin Durant 20+ pa,2,0.5493,0.3941,2.54,2.66,2.43,-0.044,1.02,2.10-2.50
 HOU @ DEN,HOU +1.5 + Jabari Smith Jr. 10+ pts,2,0.3922,0.404,2.48,2.6,2.35,-0.0509,1.035,2.10-2.50
