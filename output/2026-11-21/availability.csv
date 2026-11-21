@@ -50,7 +50,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910025,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
 401910025,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401910025,DAL,1631204,Marcus Sasser,,,1.0,,,
-401910025,DAL,1629023,P.J. Washington,Questionable,,0.55,Washington (shoulder) is listed as questionable for Saturday's game versus the Clippers.,,
+401910025,DAL,1629023,P.J. Washington,Doubtful,Injury/Illness-Illness,0.2,Washington (shoulder) is listed as questionable for Saturday's game versus the Clippers.,,
 401910025,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401910025,LAC,1642353,Cam Christie,,,1.0,,,
 401910025,LAC,1641711,Gradey Dick,,,1.0,,,
