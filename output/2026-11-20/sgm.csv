@@ -1,28 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-PHX @ UTA,Darryn Peterson pts under 18.5 + Jalen Green 1+ 3pm,2,0.5163,0.407,2.46,2.58,2.4,-0.0236,1.0,2.10-2.50
-PHX @ UTA,Darryn Peterson pts under 18.5 + Devin Booker 4+ ast,2,0.5175,0.407,2.46,2.58,2.4,-0.0241,0.999,2.10-2.50
-PHX @ UTA,Darryn Peterson pts under 18.5 + Dillon Brooks 10+ pr,2,0.5851,0.4702,2.13,2.23,2.07,-0.0281,0.999,1.85-2.10
-PHX @ UTA,Darryn Peterson pts under 18.5 + Brice Sensabaugh 5+ pr,2,0.605,0.4867,2.05,2.16,2.0,-0.0283,0.999,1.85-2.10
-PHX @ UTA,Darryn Peterson pts under 18.5 + Dillon Brooks 10+ pra,2,0.6005,0.4852,2.06,2.16,2.0,-0.029,0.999,1.85-2.10
-PHX @ UTA,Darryn Peterson pts under 18.5 + Dillon Brooks 1+ 3pm,2,0.5436,0.4367,2.29,2.4,2.22,-0.0305,0.996,2.10-2.50
-PHX @ UTA,Collin Gillespie 3pm under 2.5 + Keyonte George 1+ 3pm,2,0.707,0.5214,1.92,2.01,1.79,-0.0689,1.0,1.65-1.85
-PHX @ UTA,PHX win + Dillon Brooks 10+ pr,2,0.6161,0.5623,1.78,1.87,1.65,-0.07,1.009,1.65-1.85
-PHX @ UTA,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7161,0.5253,1.9,2.0,1.77,-0.0705,0.998,1.65-1.85
-PHX @ UTA,PHX win + Brice Sensabaugh 5+ pr,2,0.6297,0.5754,1.74,1.82,1.6,-0.0807,0.997,1.50-1.65
-PHX @ UTA,Brice Sensabaugh 10+ pr + Jalen Green 1+ 3pm,2,0.6937,0.5945,1.68,1.77,1.51,-0.0996,1.001,1.50-1.65
-PHX @ UTA,Devin Booker 4+ ast + Ace Bailey 10+ pts,2,0.6784,0.5847,1.71,1.8,1.54,-0.1005,1.001,1.50-1.65
+PHX @ UTA,Darryn Peterson pts under 18.5 + Devin Booker 4+ ast,2,0.504,0.4053,2.47,2.59,2.4,-0.0281,0.999,2.10-2.50
+PHX @ UTA,Darryn Peterson pts under 18.5 + Jalen Green 1+ 3pm,2,0.5077,0.4042,2.47,2.6,2.4,-0.0302,0.995,2.10-2.50
+PHX @ UTA,Darryn Peterson pts under 18.5 + Dillon Brooks 1+ 3pm,2,0.5331,0.4368,2.29,2.4,2.22,-0.0304,1.0,2.10-2.50
+PHX @ UTA,Darryn Peterson pts under 18.5 + Dillon Brooks 10+ pr,2,0.5741,0.4688,2.13,2.24,2.07,-0.0309,0.999,1.85-2.10
+PHX @ UTA,Darryn Peterson pts under 18.5 + Jalen Green 10+ pa,2,0.5602,0.461,2.17,2.28,2.1,-0.0339,0.998,1.85-2.10
+PHX @ UTA,Darryn Peterson pts under 18.5 + Ace Bailey 10+ pr,2,0.5766,0.4756,2.1,2.21,2.03,-0.0356,0.996,1.85-2.10
+PHX @ UTA,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7385,0.529,1.89,1.99,1.77,-0.064,0.999,1.65-1.85
+PHX @ UTA,Collin Gillespie 3pm under 2.5 + Ace Bailey 10+ pr,2,0.7436,0.538,1.86,1.95,1.74,-0.0663,0.998,1.65-1.85
+PHX @ UTA,Collin Gillespie 3pm under 2.5 + Jalen Green 10+ pa,2,0.7196,0.5193,1.93,2.02,1.79,-0.0684,0.996,1.65-1.85
+PHX @ UTA,PHX win + Ace Bailey 10+ pr,2,0.614,0.5646,1.77,1.86,1.62,-0.0842,0.995,1.50-1.65
+PHX @ UTA,Jalen Green 1+ 3pm + Devin Booker 4+ ast,2,0.6998,0.5965,1.68,1.76,1.51,-0.0996,1.0,1.50-1.65
+PHX @ UTA,Jalen Green 1+ 3pm + Ace Bailey 10+ pts,2,0.6774,0.5844,1.71,1.8,1.54,-0.1005,1.001,1.50-1.65
 HOU @ DEN,DEN win + Jamal Murray 4+ ast,2,0.4631,0.4211,2.37,2.49,2.44,0.0285,1.024,2.10-2.50
 HOU @ DEN,DEN win + Christian Braun 10+ pr,2,0.5015,0.4474,2.23,2.35,2.3,0.0278,1.019,2.10-2.50
 HOU @ DEN,DEN win + Nikola Jokic 6+ ast,2,0.4936,0.4529,2.21,2.32,2.27,0.0271,1.024,2.10-2.50
-HOU @ DEN,DEN win + Nikola Jokic 6+ reb,2,0.525,0.4803,2.08,2.19,2.09,0.0057,1.002,1.85-2.10
-HOU @ DEN,HOU +1.5 + Kevin Durant 20+ pra,2,0.4519,0.4503,2.22,2.33,2.04,-0.0805,1.019,1.85-2.10
-HOU @ DEN,Tari Eason 5+ reb + Christian Braun 10+ pr,2,0.5978,0.4742,2.11,2.21,1.94,-0.0817,1.004,1.85-2.10
+HOU @ DEN,DEN win + Nikola Jokic 6+ reb,2,0.525,0.481,2.08,2.18,2.09,0.0054,1.002,1.85-2.10
+HOU @ DEN,Kevin Durant 9+ ra + Christian Braun 10+ pr,2,0.5765,0.4471,2.24,2.35,2.06,-0.077,1.003,1.85-2.10
+HOU @ DEN,HOU +1.5 + Kevin Durant 20+ pra,2,0.4519,0.4484,2.23,2.34,2.05,-0.0798,1.019,1.85-2.10
+HOU @ DEN,Tari Eason 5+ reb + Kevin Durant 20+ pra,2,0.608,0.501,2.0,2.1,1.81,-0.0914,1.001,1.65-1.85
 HOU @ DEN,Tari Eason 5+ reb + Jamal Murray 1+ 3pm,2,0.6197,0.5098,1.96,2.06,1.78,-0.0916,1.001,1.65-1.85
-HOU @ DEN,Tari Eason 5+ reb + Kevin Durant 20+ pra,2,0.608,0.5031,1.99,2.09,1.8,-0.0921,1.001,1.65-1.85
 HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Jamal Murray 4+ ast,3,0.6384,0.5182,1.93,2.03,1.66,-0.1405,1.012,1.65-1.85
 HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 6+ ast,3,0.6621,0.5467,1.83,1.92,1.57,-0.1435,1.012,1.50-1.65
-HOU @ DEN,Tari Eason 10+ pr + Cameron Johnson 10+ pr + Nikola Jokic 6+ ast,3,0.6494,0.5224,1.91,2.01,1.64,-0.1449,1.005,1.50-1.65
-HOU @ DEN,Christian Braun 10+ pr + Nikola Jokic 8+ reb + Jamal Murray 4+ ast,3,0.6455,0.5261,1.9,2.0,1.62,-0.1452,1.007,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Nikola Jokic 8+ reb + Jamal Murray 4+ ast,3,0.6455,0.5258,1.9,2.0,1.63,-0.1451,1.007,1.50-1.65
+HOU @ DEN,Tari Eason 10+ pr + Cameron Johnson 10+ pr + Nikola Jokic 6+ ast,3,0.6494,0.5237,1.91,2.01,1.63,-0.1454,1.005,1.50-1.65
 SAC @ LAL,LAL win + Malik Monk pts under 11.5,2,0.5662,0.4678,2.14,2.24,2.07,-0.032,1.02,1.85-2.10
 SAC @ LAL,LAL win + Malik Monk pa under 15.5,2,0.5603,0.464,2.16,2.26,2.09,-0.0325,1.02,1.85-2.10
 SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.584,0.4343,2.3,2.42,2.21,-0.0393,0.986,2.10-2.50
