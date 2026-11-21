@@ -1,16 +1,16 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401910023,PHI,1631230,Dominick Barlow,Probable,,0.93,,,
+401910023,PHI,1631230,Dominick Barlow,Available,,1.0,,,
 401910023,PHI,1641737,Adem Bona,Out,Injury/Illness-CervicalSpineSprain,0.0,"Bona (back) participated in Friday's practice, though he still needs to go through a full practice with contact before being cleared to return to game action, Adam Aaronson of PhillyVoice.com reports.",,
 401910023,PHI,1627759,Jaylen Brown,Out,Injury/Illness-LeftHamstringStrain,0.0,"Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The Athletic reports.",,
-401910023,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401910023,PHI,1642845,VJ Edgecombe,,,1.0,,,
+401910023,PHI,203484,Kentavious Caldwell-Pope,Starting,,1.0,,,1.0
+401910023,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
 401910023,PHI,1642348,Justin Edwards,,,1.0,,,
-401910023,PHI,203954,Joel Embiid,,,1.0,,,
+401910023,PHI,203954,Joel Embiid,Starting,,1.0,,,1.0
 401910023,PHI,1629605,Tacko Fall,,,1.0,,,
 401910023,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401910023,PHI,2544,LeBron James,,,1.0,,,
+401910023,PHI,2544,LeBron James,Starting,,1.0,,,1.0
 401910023,PHI,904433144,Caleb Love,,,1.0,,,
-401910023,PHI,1630178,Tyrese Maxey,Questionable,Injury/Illness-RightFootSprain,0.55,,,
+401910023,PHI,1630178,Tyrese Maxey,Starting,Injury/Illness-RightFootSprain,1.0,,,1.0
 401910023,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401910023,PHI,1641712,Rayan Rupert,,,1.0,,,
 401910023,PHI,1629014,Anfernee Simons,,,1.0,,,
@@ -20,19 +20,19 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910023,MIL,905082206,Brayden Burries,,,1.0,,,
 401910023,MIL,1631172,Ousmane Dieng,Out,Injury/Illness-LeftFingerFracture,0.0,"Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports.",,
 401910023,MIL,1631260,AJ Green,,,1.0,,,
-401910023,MIL,1629639,Tyler Herro,,,1.0,,,
+401910023,MIL,1629639,Tyler Herro,Starting,,1.0,,,1.0
 401910023,MIL,905214640,Kasparas Jakucionis,,,1.0,,,
-401910023,MIL,1631170,Jaime Jaquez Jr.,,,1.0,,,
+401910023,MIL,1631170,Jaime Jaquez Jr.,Starting,,1.0,,,1.0
 401910023,MIL,1642880,Kam Jones,Out,GLeague-Two-Way,0.0,,,
-401910023,MIL,1628398,Kyle Kuzma,,,1.0,,,
+401910023,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
 401910023,MIL,1627747,Caris LeVert,,,1.0,,,
 401910023,MIL,905214989,Bogoljub Markovic,Out,GLeague-OnAssignment,0.0,,,
 401910023,MIL,1631250,Pete Nance,,,1.0,,,
-401910023,MIL,1631157,Ryan Rollins,,,1.0,,,
+401910023,MIL,1631157,Ryan Rollins,Starting,,1.0,,,1.0
 401910023,MIL,1642504,Cormac Ryan,,,1.0,,,
 401910023,MIL,1630579,Jericho Sims,,,1.0,,,
 401910023,MIL,1629018,Gary Trent Jr.,,,1.0,,,
-401910023,MIL,1626167,Myles Turner,,,1.0,,,
+401910023,MIL,1626167,Myles Turner,Starting,,1.0,,,1.0
 401910023,MIL,905105623,Kel'el Ware,,,1.0,,,
 401910024,NYK,904683730,Jaden Akins,,,1.0,,,
 401910024,NYK,1630631,Jose Alvarado,,,1.0,,,

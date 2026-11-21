@@ -1,16 +1,15 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ PHI,Brayden Burries pts under 11.5 + PHI win,2,0.533,0.4456,2.24,2.36,2.36,0.0515,1.031,2.10-2.50
-MIL @ PHI,Kyle Kuzma pts under 11.5 + PHI win,2,0.4213,0.4215,2.37,2.49,2.44,0.0292,1.044,2.10-2.50
-MIL @ PHI,Tyler Herro pts under 20.5 + PHI win,2,0.5527,0.4524,2.21,2.32,2.26,0.0225,1.027,2.10-2.50
-MIL @ PHI,Brayden Burries pts under 11.5 + Anfernee Simons 1+ 3pm,2,0.6955,0.4758,2.1,2.21,2.09,-0.0056,1.0,1.85-2.10
-MIL @ PHI,Brayden Burries pts under 11.5 + VJ Edgecombe 10+ pa,2,0.6955,0.483,2.07,2.17,2.05,-0.008,1.0,1.85-2.10
-MIL @ PHI,Anfernee Simons 12+ pts + VJ Edgecombe 10+ pa,2,0.6798,0.4839,2.07,2.17,2.02,-0.0238,1.003,1.85-2.10
-MIL @ PHI,PHI win + VJ Edgecombe 20+ pra,2,0.6174,0.6138,1.63,1.71,1.54,-0.0536,1.016,1.50-1.65
-MIL @ PHI,PHI win + Anfernee Simons 10+ pa,2,0.648,0.6277,1.59,1.67,1.51,-0.0548,1.009,1.50-1.65
-MIL @ PHI,Anfernee Simons 10+ pa + VJ Edgecombe 20+ pra,2,0.7633,0.5836,1.71,1.8,1.59,-0.0727,1.007,1.50-1.65
-MIL @ PHI,PHI win + Anfernee Simons 10+ pr + VJ Edgecombe 10+ pts,3,0.5716,0.4977,2.01,2.11,1.84,-0.0847,1.024,1.65-1.85
-MIL @ PHI,PHI win + VJ Edgecombe 20+ pra + Anfernee Simons 1+ 3pm,3,0.5981,0.5462,1.83,1.92,1.65,-0.0985,1.018,1.65-1.85
-MIL @ PHI,PHI win + VJ Edgecombe 20+ pra + Joel Embiid 6+ reb,3,0.5318,0.4964,2.01,2.12,1.8,-0.106,1.014,1.65-1.85
+MIL @ PHI,Brayden Burries pts under 11.5 + PHI win,2,0.5562,0.4412,2.27,2.38,2.36,0.0412,1.022,2.10-2.50
+MIL @ PHI,Kyle Kuzma pts under 11.5 + PHI win,2,0.4468,0.4208,2.38,2.5,2.44,0.0275,1.036,2.10-2.50
+MIL @ PHI,Tyler Herro pts under 20.5 + PHI win,2,0.5856,0.4545,2.2,2.31,2.26,0.0272,1.027,2.10-2.50
+MIL @ PHI,Brayden Burries pts under 11.5 + VJ Edgecombe 15+ pra,2,0.6893,0.4759,2.1,2.21,2.07,-0.0127,0.999,1.85-2.10
+MIL @ PHI,Brayden Burries pts under 11.5 + Tyrese Maxey 1+ 3pm,2,0.6845,0.4803,2.08,2.19,2.05,-0.0177,0.998,1.85-2.10
+MIL @ PHI,Brayden Burries pts under 11.5 + LeBron James 4+ reb,2,0.6537,0.4665,2.14,2.25,2.1,-0.0212,0.997,1.85-2.10
+MIL @ PHI,Kentavious Caldwell-Pope 3+ reb + VJ Edgecombe 15+ pra,2,0.6862,0.5069,1.97,2.07,1.84,-0.0683,1.001,1.65-1.85
+MIL @ PHI,Kentavious Caldwell-Pope 3+ reb + Tyrese Maxey 1+ 3pm,2,0.6828,0.5126,1.95,2.05,1.81,-0.0709,1.001,1.65-1.85
+MIL @ PHI,PHI win + VJ Edgecombe 15+ pra + Tyrese Maxey 4+ ast,3,0.624,0.5906,1.69,1.78,1.51,-0.1074,1.022,1.50-1.65
+MIL @ PHI,PHI win + Anfernee Simons 1+ 3pm + Tyrese Maxey 4+ ast,3,0.6209,0.5814,1.72,1.81,1.53,-0.1095,1.018,1.50-1.65
+MIL @ PHI,PHI win + Tyrese Maxey 4+ ast + VJ Edgecombe 1+ 3pm,3,0.5782,0.5538,1.81,1.9,1.6,-0.1125,1.019,1.50-1.65
 POR @ NYK,NYK win + Toumani Camara stl under 1.5,2,0.4805,0.3884,2.57,2.7,2.43,-0.0546,1.007,2.10-2.50
 POR @ NYK,NYK win + Josh Hart 10+ pa,2,0.5206,0.4593,2.18,2.29,2.06,-0.0551,1.024,1.85-2.10
 POR @ NYK,NYK win + Jrue Holiday stl under 1.5,2,0.5038,0.4003,2.5,2.62,2.36,-0.0557,1.002,2.10-2.50
@@ -23,18 +22,18 @@ POR @ NYK,Landry Shamet 3pm under 2.5 + Jrue Holiday 1+ 3pm,2,0.655,0.5005,2.0,2
 POR @ NYK,Jrue Holiday stl under 1.5 + Josh Hart 10+ pr,2,0.7283,0.599,1.67,1.75,1.51,-0.0941,0.998,1.50-1.65
 POR @ NYK,Jrue Holiday stl under 1.5 + Josh Hart 4+ reb,2,0.7131,0.594,1.68,1.77,1.52,-0.095,1.0,1.50-1.65
 POR @ NYK,Toumani Camara stl under 1.5 + Josh Hart 10+ pr,2,0.6926,0.5794,1.73,1.81,1.56,-0.0957,1.0,1.50-1.65
-LAC @ DAL,Max Strus 3pm under 2.5 + DAL win,2,0.4236,0.404,2.48,2.6,2.46,-0.0062,1.025,2.10-2.50
-LAC @ DAL,DAL win + Naji Marshall 15+ pra,2,0.4264,0.502,1.99,2.09,1.89,-0.0495,1.027,1.85-2.10
+LAC @ DAL,Max Strus 3pm under 2.5 + DAL win,2,0.4236,0.4036,2.48,2.6,2.46,-0.0073,1.025,2.10-2.50
 LAC @ DAL,DAL -5.5 + Naji Marshall 15+ pra,2,0.304,0.3889,2.57,2.7,2.44,-0.0501,1.037,2.10-2.50
+LAC @ DAL,DAL win + Naji Marshall 15+ pra,2,0.4264,0.5014,1.99,2.09,1.89,-0.0505,1.027,1.85-2.10
 LAC @ DAL,Max Strus pts under 11.5 + Kris Dunn 5+ pa,2,0.6206,0.416,2.4,2.52,2.27,-0.0536,0.996,2.10-2.50
 LAC @ DAL,Max Strus pts under 11.5 + Kris Dunn 5+ pra,2,0.6701,0.4673,2.14,2.25,2.02,-0.0583,0.999,1.85-2.10
 LAC @ DAL,Max Strus pa under 14.5 + Kris Dunn 5+ pra,2,0.6498,0.456,2.19,2.3,2.06,-0.0603,0.998,1.85-2.10
-LAC @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.4846,0.5714,1.75,1.84,1.63,-0.0671,1.008,1.50-1.65
 LAC @ DAL,Max Strus 3pm under 2.5 + Kris Dunn 5+ pra,2,0.7536,0.5461,1.83,1.92,1.71,-0.0677,0.998,1.65-1.85
+LAC @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.4846,0.5708,1.75,1.84,1.63,-0.0681,1.008,1.50-1.65
 LAC @ DAL,Max Strus 3pm under 2.5 + Naji Marshall 10+ pra,2,0.7458,0.5527,1.81,1.9,1.68,-0.0689,1.001,1.65-1.85
 LAC @ DAL,Max Strus 3pm under 2.5 + Keaton Wagler 5+ pr,2,0.7443,0.5498,1.82,1.91,1.69,-0.0704,0.999,1.65-1.85
-LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5041,0.5761,1.74,1.82,1.61,-0.0751,0.993,1.50-1.65
-LAC @ DAL,DAL win + Keaton Wagler 5+ pr,2,0.4986,0.5808,1.72,1.81,1.59,-0.0766,0.995,1.50-1.65
+LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5041,0.5755,1.74,1.82,1.61,-0.0761,0.993,1.50-1.65
+LAC @ DAL,DAL win + Keaton Wagler 5+ pr,2,0.4986,0.5801,1.72,1.81,1.59,-0.0776,0.995,1.50-1.65
 MEM @ MIN,Cam Spencer 20+ pra + Rudy Gobert 15+ pr,2,0.5862,0.3877,2.58,2.71,2.48,-0.0376,1.008,2.10-2.50
 MEM @ MIN,Cam Spencer 9+ ra + Rudy Gobert 15+ pr,2,0.5879,0.3931,2.54,2.67,2.45,-0.0386,1.008,2.10-2.50
 MEM @ MIN,Cam Spencer 20+ pra + Jaylen Wells 10+ pr,2,0.5757,0.3888,2.57,2.7,2.47,-0.039,1.01,2.10-2.50
