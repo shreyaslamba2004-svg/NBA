@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+POR @ NYK,NYK win + Josh Hart 10+ pa,2,0.492,0.4811,2.08,2.18,2.32,0.1156,1.03,2.10-2.50
 POR @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5119,0.4864,2.06,2.16,2.29,0.1153,1.024,2.10-2.50
-POR @ NYK,NYK win + Josh Hart 10+ pa,2,0.492,0.4843,2.07,2.17,2.3,0.1143,1.03,2.10-2.50
+POR @ NYK,NYK win + Landry Shamet 10+ pr,2,0.4781,0.4717,2.12,2.23,2.35,0.1073,1.024,2.10-2.50
 POR @ NYK,NYK win + Scoot Henderson 5+ pr,2,0.5475,0.533,1.88,1.97,2.03,0.0806,0.997,1.85-2.10
-POR @ NYK,NYK win + Jrue Holiday 10+ pr,2,0.5011,0.4649,2.15,2.26,2.32,0.0773,0.984,2.10-2.50
-POR @ NYK,Andre Drummond ra under 14.5 + Toumani Camara 10+ pr,2,0.7065,0.4631,2.16,2.27,2.07,-0.0416,0.998,1.85-2.10
-POR @ NYK,Andre Drummond ra under 14.5 + Scoot Henderson 5+ pr,2,0.7709,0.514,1.95,2.04,1.86,-0.0427,1.0,1.85-2.10
-POR @ NYK,Miles McBride 9+ pr + Scoot Henderson 5+ pr,2,0.644,0.5025,1.99,2.09,1.83,-0.0798,1.001,1.65-1.85
-POR @ NYK,Jrue Holiday 10+ pr + Scoot Henderson 10+ pra + Toumani Camara 10+ pr,3,0.7141,0.5241,1.91,2.0,1.66,-0.1283,1.006,1.65-1.85
-POR @ NYK,Jrue Holiday 10+ pr + Scoot Henderson 10+ pra + Mikal Bridges 10+ pa,3,0.7058,0.5143,1.94,2.04,1.69,-0.1292,1.003,1.65-1.85
-POR @ NYK,Scoot Henderson 10+ pra + Mikal Bridges 10+ pa + Toumani Camara 10+ pr,3,0.7006,0.5266,1.9,1.99,1.65,-0.1332,1.005,1.50-1.65
-POR @ NYK,Scoot Henderson 10+ pra + Toumani Camara 10+ pr + Sidy Cissoko 5+ pa,3,0.7101,0.5496,1.82,1.91,1.57,-0.1346,1.009,1.50-1.65
-POR @ NYK,Scoot Henderson 10+ pra + Mikal Bridges 10+ pa + Toumani Camara 10+ pra,3,0.731,0.5568,1.8,1.89,1.55,-0.1372,1.003,1.50-1.65
+POR @ NYK,NYK win + Josh Hart 4+ reb,2,0.5216,0.5245,1.91,2.0,2.06,0.0779,1.0,1.85-2.10
+POR @ NYK,Andre Drummond ra under 14.5 + Toumani Camara 10+ pr,2,0.7065,0.4646,2.15,2.26,2.06,-0.0423,0.998,1.85-2.10
+POR @ NYK,Landry Shamet 3pm under 2.5 + Scoot Henderson 5+ pr,2,0.6563,0.5034,1.99,2.09,1.83,-0.0782,1.0,1.65-1.85
+POR @ NYK,Jrue Holiday 10+ pr + Scoot Henderson 10+ pra + Mikal Bridges 10+ pa,3,0.7058,0.5189,1.93,2.02,1.67,-0.1309,1.003,1.65-1.85
+POR @ NYK,Jrue Holiday 10+ pr + Mikal Bridges 10+ pa + Josh Hart 10+ pa,3,0.6879,0.5259,1.9,2.0,1.65,-0.1331,1.009,1.50-1.65
+POR @ NYK,Jrue Holiday 10+ pr + Mikal Bridges 10+ pa + Landry Shamet 10+ pr,3,0.673,0.519,1.93,2.02,1.67,-0.1338,1.009,1.65-1.85
+POR @ NYK,Scoot Henderson 10+ pra + Mikal Bridges 10+ pa + Toumani Camara 10+ pr,3,0.7006,0.5312,1.88,1.98,1.63,-0.1349,1.005,1.50-1.65
+POR @ NYK,Scoot Henderson 10+ pra + Toumani Camara 10+ pr + Sidy Cissoko 5+ pa,3,0.7101,0.5525,1.81,1.9,1.56,-0.1357,1.009,1.50-1.65
 LAC @ DAL,Max Strus pra under 19.5 + Kris Dunn 5+ pr,2,0.6213,0.4037,2.48,2.6,2.36,-0.0463,0.996,2.10-2.50
 LAC @ DAL,Max Strus pa under 15.5 + Kris Dunn 5+ pr,2,0.6496,0.4288,2.33,2.45,2.22,-0.0486,0.997,2.10-2.50
 LAC @ DAL,Max Strus pr under 16.5 + Kris Dunn 5+ pr,2,0.636,0.4184,2.39,2.51,2.27,-0.0497,0.995,2.10-2.50
@@ -23,18 +23,18 @@ LAC @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.4889,0.5669,1.76,1.85,1.65,-0.063,1
 LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5023,0.5783,1.73,1.82,1.6,-0.0721,0.996,1.50-1.65
 LAC @ DAL,DAL win + Keaton Wagler 5+ pr,2,0.4947,0.5771,1.73,1.82,1.6,-0.0749,0.996,1.50-1.65
 LAC @ DAL,DAL win + Darius Garland 1+ 3pm,2,0.4883,0.5716,1.75,1.84,1.62,-0.0767,0.994,1.50-1.65
-MEM @ MIN,Cam Spencer 8+ ra + Trey Lyles 5+ pra,2,0.7315,0.4369,2.29,2.4,2.26,-0.0143,1.0,2.10-2.50
-MEM @ MIN,Cam Spencer 8+ ra + Jaylen Wells 10+ pra,2,0.6908,0.419,2.39,2.51,2.35,-0.0153,1.002,2.10-2.50
-MEM @ MIN,Cam Spencer 8+ ra + Rudy Gobert 6+ reb,2,0.7282,0.4432,2.26,2.37,2.22,-0.0176,1.001,2.10-2.50
-MEM @ MIN,Cam Spencer 19+ pra + Trey Lyles 5+ pra,2,0.6868,0.4573,2.19,2.3,2.09,-0.0447,1.001,1.85-2.10
-MEM @ MIN,Cam Spencer 16+ pa + Trey Lyles 5+ pra,2,0.6798,0.4633,2.16,2.27,2.04,-0.0566,1.001,1.85-2.10
-MEM @ MIN,Cam Spencer 13+ pr + Trey Lyles 5+ pra,2,0.6732,0.4866,2.05,2.16,1.92,-0.0661,1.001,1.85-2.10
-MEM @ MIN,MIN win + Rudy Gobert 15+ pr,2,0.6072,0.5229,1.91,2.01,1.78,-0.0673,1.01,1.65-1.85
-MEM @ MIN,MIN win + Cam Spencer 10+ pa,2,0.6697,0.5554,1.8,1.89,1.66,-0.0757,0.993,1.65-1.85
-MEM @ MIN,MIN win + Trey Lyles 5+ pra,2,0.6712,0.5841,1.71,1.8,1.58,-0.0758,1.003,1.50-1.65
-MEM @ MIN,MIN win + Rudy Gobert 8+ reb,2,0.5871,0.5028,1.99,2.09,1.84,-0.077,0.998,1.65-1.85
-MEM @ MIN,MIN win + Cam Spencer 10+ pra,2,0.6961,0.6015,1.66,1.75,1.53,-0.0787,0.998,1.50-1.65
-MEM @ MIN,MIN win + Jaylen Wells 10+ pra,2,0.6251,0.5524,1.81,1.9,1.65,-0.0895,0.991,1.50-1.65
+MEM @ MIN,Cam Spencer 19+ pra + Rudy Gobert 15+ pr,2,0.6192,0.4123,2.43,2.55,2.32,-0.0422,1.005,2.10-2.50
+MEM @ MIN,game over 230.5 + Rudy Gobert 15+ pr,2,0.4362,0.3996,2.5,2.63,2.4,-0.0424,1.042,2.10-2.50
+MEM @ MIN,Cam Spencer 16+ pa + Rudy Gobert 15+ pr,2,0.6123,0.4138,2.42,2.54,2.31,-0.0427,1.004,2.10-2.50
+MEM @ MIN,Cam Spencer 16+ pa + Trey Lyles 5+ pra,2,0.6798,0.465,2.15,2.26,2.05,-0.0478,1.001,1.85-2.10
+MEM @ MIN,Cam Spencer 19+ pra + Trey Lyles 5+ pra,2,0.6868,0.463,2.16,2.27,2.06,-0.0481,1.001,1.85-2.10
+MEM @ MIN,Cam Spencer 8+ ra + Rudy Gobert 15+ pr,2,0.6597,0.4573,2.19,2.3,2.08,-0.0491,1.005,1.85-2.10
+MEM @ MIN,Cam Spencer 8+ ra + Trey Lyles 5+ pra,2,0.7315,0.5133,1.95,2.05,1.84,-0.0553,1.0,1.65-1.85
+MEM @ MIN,Cam Spencer 8+ ra + Rudy Gobert 6+ reb,2,0.7282,0.5198,1.92,2.02,1.81,-0.0581,1.001,1.65-1.85
+MEM @ MIN,MIN win + Rudy Gobert 15+ pr,2,0.6072,0.5213,1.92,2.01,1.79,-0.0667,1.01,1.65-1.85
+MEM @ MIN,MIN win + Trey Lyles 5+ pra,2,0.6712,0.5834,1.71,1.8,1.58,-0.0756,1.003,1.50-1.65
+MEM @ MIN,MIN win + Cam Spencer 10+ pra,2,0.6961,0.5991,1.67,1.75,1.54,-0.078,0.998,1.50-1.65
+MEM @ MIN,MIN win + Rudy Gobert 6+ reb,2,0.6662,0.589,1.7,1.78,1.56,-0.0811,1.0,1.50-1.65
 NOP @ SAS,Victor Wembanyama 15+ ra + SAS win,2,0.5959,0.4643,2.15,2.26,2.09,-0.0293,1.002,1.85-2.10
 NOP @ SAS,SAS win + Devin Vassell 16+ pa,2,0.5286,0.4669,2.14,2.25,2.06,-0.0365,1.018,1.85-2.10
 NOP @ SAS,Victor Wembanyama 11+ reb + SAS win,2,0.6293,0.5108,1.96,2.06,1.87,-0.0437,0.999,1.85-2.10
