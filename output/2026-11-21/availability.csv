@@ -14,7 +14,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910024,NYK,1630540,Miles McBride,,,1.0,,,
 401910024,NYK,904838721,Tyler Nickel,,,1.0,,,
 401910024,NYK,1629013,Landry Shamet,,,1.0,,,
-401910024,NYK,1626157,Karl-Anthony Towns,Questionable,Injury/Illness-Illness,0.55,Towns is questionable for Saturday's game against the Trail Blazers due to an illness.,,
+401910024,NYK,1626157,Karl-Anthony Towns,Out,Injury/Illness-Illness,0.0,Towns is questionable for Saturday's game against the Trail Blazers due to an illness.,,
 401910024,NYK,1630164,James Wiseman,,,1.0,,,
 401910024,POR,1630166,Deni Avdija,Questionable,Injury/Illness-LeftFootContusion,0.55,Avdija (foot) is listed as questionable for Saturday's game against the Knicks.,,
 401910024,POR,1641739,Toumani Camara,,,1.0,,,
