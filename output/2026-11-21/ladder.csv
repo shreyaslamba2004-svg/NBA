@@ -656,22 +656,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,PHI,1631133,Jabari Walker,ra,8.5,False,0.3447,,model only,0.3447
 401910023,MIL @ PHI,PHI,1631133,Jabari Walker,ra,9.5,False,0.2647,,model only,0.2647
 401910023,MIL @ PHI,PHI,1631133,Jabari Walker,ra,10.5,False,0.1921,,model only,0.1921
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,3.5,False,0.8171,,model only,0.8171
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,4.5,False,0.7228,,model only,0.7228
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,5.5,False,0.6206,,model only,0.6206
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,6.5,False,0.5161,,model only,0.5161
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,7.5,False,0.4194,,model only,0.4194
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,8.5,False,0.3335,,model only,0.3335
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,9.5,False,0.2644,,model only,0.2644
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,10.5,False,0.2053,,model only,0.2053
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,11.5,False,0.1567,,model only,0.1567
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,0.5,False,0.9193,,model only,0.9193
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,1.5,False,0.7532,,model only,0.7532
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,2.5,False,0.5574,,model only,0.5574
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,3.5,False,0.366,,model only,0.366
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,4.5,False,0.2173,,model only,0.2173
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,5.5,False,0.1221,,model only,0.1221
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,6.5,False,0.0647,,model only,0.0647
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,5.5,False,0.6206,0.7502,book,0.7302
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,6.5,False,0.5161,0.7325,est,0.6992
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,7.5,False,0.4194,0.6145,book,0.5845
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,8.5,False,0.3335,0.5622,est,0.527
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,9.5,True,0.2644,0.4798,book,0.4466
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,10.5,False,0.2053,0.3987,est,0.3689
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,11.5,False,0.1567,0.3436,book,0.3148
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,12.5,False,0.1174,0.2546,est,0.2335
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pts,13.5,False,0.0873,0.1971,est,0.1802
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,0.5,False,0.9193,0.9598,est,0.9536
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,1.5,False,0.7532,0.8648,est,0.8476
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,2.5,False,0.5574,0.7121,book,0.6883
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,3.5,True,0.366,0.5476,book,0.5196
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,4.5,False,0.2173,0.3894,book,0.3629
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,5.5,False,0.1221,0.2519,book,0.2319
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,reb,6.5,False,0.0647,0.1563,book,0.1422
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ast,0.5,False,0.5273,,model only,0.5273
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ast,1.5,False,0.1985,,model only,0.1985
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ast,2.5,False,0.0567,,model only,0.0567
@@ -696,15 +696,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,pra,13.5,False,0.3025,,model only,0.3025
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,pra,14.5,False,0.2483,,model only,0.2483
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,pra,15.5,False,0.1984,,model only,0.1984
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,6.5,False,0.7587,,model only,0.7587
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,7.5,False,0.6824,,model only,0.6824
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,8.5,False,0.5963,,model only,0.5963
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,9.5,False,0.5177,,model only,0.5177
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,10.5,False,0.4393,,model only,0.4393
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,11.5,False,0.3685,,model only,0.3685
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,12.5,False,0.3076,,model only,0.3076
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,13.5,False,0.2503,,model only,0.2503
-401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,14.5,False,0.1983,,model only,0.1983
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,9.5,False,0.5177,0.7504,est,0.7145
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,10.5,False,0.4393,0.6869,est,0.6488
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,11.5,False,0.3685,0.6203,est,0.5815
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,12.5,False,0.3076,0.5543,est,0.5163
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,13.5,True,0.2503,0.4831,book,0.4472
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,14.5,False,0.1983,0.4092,est,0.3767
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,15.5,False,0.1547,0.3387,est,0.3104
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,16.5,False,0.1237,0.2832,est,0.2587
+401910023,MIL @ PHI,MIL,905164559,Nate Ament,pr,17.5,False,0.0941,0.2252,est,0.205
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,pa,3.5,False,0.8617,,model only,0.8617
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,pa,4.5,False,0.781,,model only,0.781
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,pa,5.5,False,0.6893,,model only,0.6893
@@ -721,149 +721,150 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ra,5.5,False,0.2258,,model only,0.2258
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ra,6.5,False,0.1364,,model only,0.1364
 401910023,MIL @ PHI,MIL,905164559,Nate Ament,ra,7.5,False,0.0762,,model only,0.0762
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,6.5,False,0.6722,0.812,est,0.7905
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,7.5,False,0.5843,0.7476,est,0.7224
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,8.5,False,0.4989,0.6772,est,0.6497
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,9.5,False,0.4161,0.6003,est,0.5719
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,10.5,True,0.345,0.526,book,0.4981
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,11.5,False,0.28,0.4503,est,0.4241
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,12.5,False,0.2227,0.3765,est,0.3528
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,13.5,False,0.178,0.3134,est,0.2925
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,14.5,False,0.1404,0.256,est,0.2382
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,1.5,False,0.9082,,model only,0.9082
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,2.5,False,0.7908,,model only,0.7908
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,3.5,False,0.6387,,model only,0.6387
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,4.5,False,0.481,,model only,0.481
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,5.5,False,0.3349,,model only,0.3349
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,6.5,False,0.2204,,model only,0.2204
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,7.5,False,0.136,,model only,0.136
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,0.5,False,0.853,,model only,0.853
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,1.5,False,0.6017,,model only,0.6017
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,2.5,False,0.3577,,model only,0.3577
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,3.5,False,0.1878,,model only,0.1878
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,4.5,False,0.0874,,model only,0.0874
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,5.5,False,0.0369,,model only,0.0369
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,0.5,False,0.6095,0.7599,est,0.7368
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,1.5,True,0.239,0.3891,book,0.366
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,2.5,False,0.0656,0.1246,est,0.1155
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,3.5,False,0.014,0.0279,est,0.0258
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,7.5,False,0.5843,0.731,book,0.7084
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,8.5,False,0.4989,0.7044,est,0.6727
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,9.5,False,0.4161,0.6089,book,0.5792
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,10.5,False,0.345,0.5576,est,0.5249
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,11.5,True,0.28,0.482,book,0.4509
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,12.5,False,0.2227,0.4068,est,0.3784
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,13.5,False,0.178,0.3414,est,0.3162
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,14.5,False,0.1404,0.3054,book,0.28
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pts,15.5,False,0.1087,0.226,est,0.2079
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,2.5,False,0.7908,0.848,book,0.8392
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,3.5,False,0.6387,0.734,book,0.7193
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,4.5,False,0.481,0.5922,book,0.5751
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,5.5,True,0.3349,0.4482,book,0.4308
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,6.5,False,0.2204,0.3201,book,0.3047
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,7.5,False,0.136,0.2095,book,0.1982
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,reb,8.5,False,0.0815,0.1347,book,0.1265
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,0.5,False,0.853,0.9471,est,0.9326
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,1.5,False,0.6017,0.8233,est,0.7892
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,2.5,False,0.3577,0.6167,book,0.5768
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,3.5,True,0.1878,0.4163,book,0.3811
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,4.5,False,0.0874,0.2519,book,0.2266
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,5.5,False,0.0369,0.1447,book,0.1281
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ast,6.5,False,0.0129,0.0806,book,0.0702
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,0.5,False,0.6095,0.7671,est,0.7428
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,1.5,True,0.239,0.3986,book,0.374
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,2.5,False,0.0656,0.129,est,0.1192
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,fg3m,3.5,False,0.014,0.029,est,0.0267
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,stl,0.5,False,0.4972,,model only,0.4972
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,stl,1.5,False,0.1684,,model only,0.1684
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,blk,0.5,False,0.1625,,model only,0.1625
 401910023,MIL @ PHI,MIL,905082206,Brayden Burries,blk,1.5,False,0.0141,,model only,0.0141
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,10.5,False,0.7825,,model only,0.7825
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,11.5,False,0.7282,,model only,0.7282
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,12.5,False,0.6709,,model only,0.6709
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,13.5,False,0.6079,,model only,0.6079
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,14.5,False,0.5499,,model only,0.5499
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,15.5,False,0.4892,,model only,0.4892
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,16.5,False,0.4297,,model only,0.4297
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,17.5,False,0.3747,,model only,0.3747
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,18.5,False,0.3231,,model only,0.3231
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,19.5,False,0.278,,model only,0.278
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,20.5,False,0.2331,,model only,0.2331
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,9.5,False,0.7422,,model only,0.7422
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,10.5,False,0.6763,,model only,0.6763
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,11.5,False,0.6127,,model only,0.6127
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,12.5,False,0.5431,,model only,0.5431
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,13.5,False,0.4777,,model only,0.4777
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,14.5,False,0.4131,,model only,0.4131
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,15.5,False,0.3572,,model only,0.3572
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,16.5,False,0.3014,,model only,0.3014
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,17.5,False,0.2528,,model only,0.2528
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,7.5,False,0.735,,model only,0.735
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,8.5,False,0.6618,,model only,0.6618
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,9.5,False,0.5877,,model only,0.5877
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,10.5,False,0.5102,,model only,0.5102
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,11.5,False,0.4379,,model only,0.4379
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,12.5,False,0.3669,,model only,0.3669
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,13.5,False,0.3077,,model only,0.3077
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,14.5,False,0.2534,,model only,0.2534
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,15.5,False,0.2068,,model only,0.2068
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,3.5,False,0.8437,,model only,0.8437
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,4.5,False,0.7403,,model only,0.7403
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,5.5,False,0.6217,,model only,0.6217
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,6.5,False,0.4989,,model only,0.4989
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,7.5,False,0.3825,,model only,0.3825
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,8.5,False,0.2807,,model only,0.2807
-401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,9.5,False,0.1982,,model only,0.1982
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,16.5,False,0.4291,0.6734,est,0.6358
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,17.5,False,0.3791,0.6261,est,0.5881
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,18.5,False,0.3329,0.5778,est,0.5401
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,19.5,False,0.2889,0.5269,est,0.4903
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,20.5,True,0.2505,0.4782,book,0.4431
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,21.5,False,0.2119,0.4245,est,0.3917
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,22.5,False,0.1805,0.3766,est,0.3464
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,23.5,False,0.1536,0.3324,est,0.3049
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,24.5,False,0.1291,0.289,est,0.2643
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,1.5,False,0.8749,,model only,0.8749
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,2.5,False,0.719,,model only,0.719
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,3.5,False,0.5342,,model only,0.5342
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,4.5,False,0.3613,,model only,0.3613
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,5.5,False,0.2237,,model only,0.2237
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,6.5,False,0.127,,model only,0.127
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,7.5,False,0.0674,,model only,0.0674
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,0.5,False,0.9642,,model only,0.9642
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,1.5,False,0.8581,,model only,0.8581
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,2.5,False,0.6841,,model only,0.6841
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,3.5,False,0.4876,,model only,0.4876
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,4.5,False,0.3144,,model only,0.3144
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,5.5,False,0.1846,,model only,0.1846
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,6.5,False,0.103,,model only,0.103
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,0.5,False,0.8499,0.9249,est,0.9134
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,1.5,False,0.5715,0.7438,est,0.7172
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,2.5,True,0.3043,0.4878,book,0.4595
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,3.5,False,0.1303,0.2459,est,0.2281
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,4.5,False,0.0478,0.0985,est,0.0907
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,14.5,False,0.5499,0.7589,book,0.7267
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,15.5,False,0.4892,0.733,est,0.6955
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,16.5,False,0.4297,0.6835,est,0.6444
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,17.5,False,0.3747,0.6321,est,0.5924
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,18.5,False,0.3231,0.5778,est,0.5386
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,19.5,True,0.278,0.5247,book,0.4867
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,20.5,False,0.2331,0.4656,est,0.4298
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,21.5,False,0.1955,0.4105,est,0.3774
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,22.5,False,0.1645,0.3608,est,0.3306
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,23.5,False,0.1344,0.308,est,0.2813
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pra,24.5,False,0.1109,0.2893,book,0.2618
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,12.5,False,0.5431,0.7428,est,0.7121
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,13.5,False,0.4777,0.6896,est,0.657
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,14.5,False,0.4131,0.631,est,0.5974
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,15.5,False,0.3572,0.5745,est,0.541
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,16.5,True,0.3014,0.5117,book,0.4793
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,17.5,False,0.2528,0.4511,est,0.4205
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,18.5,False,0.209,0.3909,est,0.3629
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,19.5,False,0.1724,0.336,est,0.3108
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pr,20.5,False,0.1418,0.2865,est,0.2642
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,10.5,False,0.5102,0.76,est,0.7216
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,11.5,False,0.4379,0.7031,est,0.6622
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,12.5,False,0.3669,0.6379,est,0.5962
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,13.5,False,0.3077,0.5747,est,0.5335
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,14.5,True,0.2534,0.5078,book,0.4686
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,15.5,False,0.2068,0.4421,est,0.4058
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,16.5,False,0.1685,0.3813,est,0.3485
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,17.5,False,0.1347,0.3212,est,0.2924
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,pa,18.5,False,0.1056,0.2641,est,0.2397
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,5.5,False,0.6217,0.8018,est,0.7741
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,6.5,False,0.4989,0.7102,est,0.6777
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,7.5,False,0.3825,0.6039,est,0.5698
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,8.5,True,0.2807,0.4899,book,0.4577
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,9.5,False,0.1982,0.3783,est,0.3506
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,10.5,False,0.1348,0.2771,est,0.2552
+401910023,MIL @ PHI,MIL,905082206,Brayden Burries,ra,11.5,False,0.089,0.1938,est,0.1776
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,15.5,False,0.4852,0.7133,est,0.6782
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,16.5,False,0.4291,0.6649,est,0.6286
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,17.5,False,0.3791,0.6112,book,0.5755
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,18.5,False,0.3329,0.5685,est,0.5322
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,19.5,True,0.2889,0.5174,book,0.4822
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,20.5,False,0.2505,0.4687,est,0.4351
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,21.5,False,0.2119,0.4151,est,0.3838
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,22.5,False,0.1805,0.3676,est,0.3388
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pts,23.5,False,0.1536,0.3239,est,0.2977
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,1.5,False,0.8749,0.901,est,0.897
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,2.5,False,0.719,0.751,book,0.7461
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,3.5,False,0.5342,0.5872,book,0.579
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,4.5,True,0.3613,0.4238,book,0.4142
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,5.5,False,0.2237,0.279,book,0.2705
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,6.5,False,0.127,0.1744,book,0.1671
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,reb,7.5,False,0.0674,0.105,book,0.0992
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,1.5,False,0.8581,0.9076,est,0.9
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,2.5,False,0.6841,0.7579,book,0.7465
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,3.5,False,0.4876,0.5922,book,0.5761
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,4.5,True,0.3144,0.4268,book,0.4095
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,5.5,False,0.1846,0.2765,book,0.2623
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,6.5,False,0.103,0.1666,book,0.1568
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ast,7.5,False,0.0538,0.0954,book,0.089
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,0.5,False,0.8499,0.8796,book,0.875
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,1.5,False,0.5715,0.7061,book,0.6854
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,2.5,True,0.3043,0.4863,book,0.4583
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,3.5,False,0.1303,0.2939,book,0.2687
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,fg3m,4.5,False,0.0478,0.1609,book,0.1435
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,stl,0.5,False,0.4931,,model only,0.4931
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,stl,1.5,False,0.151,,model only,0.151
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,blk,0.5,False,0.2473,,model only,0.2473
 401910023,MIL @ PHI,MIL,1629639,Tyler Herro,blk,1.5,False,0.0368,,model only,0.0368
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,18.5,False,0.705,,model only,0.705
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,19.5,False,0.6606,,model only,0.6606
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,20.5,False,0.6138,,model only,0.6138
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,21.5,False,0.5651,,model only,0.5651
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,22.5,False,0.5195,,model only,0.5195
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,23.5,False,0.472,,model only,0.472
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,24.5,False,0.4274,,model only,0.4274
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,25.5,False,0.3855,,model only,0.3855
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,26.5,False,0.3453,,model only,0.3453
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,27.5,False,0.3078,,model only,0.3078
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,28.5,False,0.272,,model only,0.272
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,15.5,False,0.6891,,model only,0.6891
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,16.5,False,0.6371,,model only,0.6371
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,17.5,False,0.5881,,model only,0.5881
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,18.5,False,0.534,,model only,0.534
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,19.5,False,0.4822,,model only,0.4822
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,20.5,False,0.4337,,model only,0.4337
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,21.5,False,0.3894,,model only,0.3894
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,22.5,False,0.3441,,model only,0.3441
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,23.5,False,0.3047,,model only,0.3047
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,15.5,False,0.6768,,model only,0.6768
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,16.5,False,0.6246,,model only,0.6246
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,17.5,False,0.5758,,model only,0.5758
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,18.5,False,0.5224,,model only,0.5224
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,19.5,False,0.4713,,model only,0.4713
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,20.5,False,0.4244,,model only,0.4244
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,21.5,False,0.3778,,model only,0.3778
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,22.5,False,0.3338,,model only,0.3338
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,23.5,False,0.2943,,model only,0.2943
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,4.5,False,0.8287,,model only,0.8287
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,5.5,False,0.7252,,model only,0.7252
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,6.5,False,0.6083,,model only,0.6083
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,7.5,False,0.486,,model only,0.486
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,8.5,False,0.3657,,model only,0.3657
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,9.5,False,0.2632,,model only,0.2632
-401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,10.5,False,0.1805,,model only,0.1805
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,4.5,False,0.7513,0.8238,est,0.8126
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,5.5,False,0.6656,0.755,est,0.7412
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,6.5,False,0.5763,0.678,est,0.6623
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,7.5,False,0.4899,0.5978,est,0.5812
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,8.5,True,0.4106,0.5188,book,0.5021
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,9.5,False,0.3373,0.4407,est,0.4248
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,10.5,False,0.2727,0.3672,est,0.3527
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,11.5,False,0.2172,0.3004,est,0.2876
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,12.5,False,0.1742,0.2462,est,0.2351
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,23.5,False,0.472,0.7085,est,0.6721
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,24.5,False,0.4274,0.6699,est,0.6325
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,25.5,False,0.3855,0.6304,est,0.5926
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,26.5,False,0.3453,0.5891,est,0.5515
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,27.5,False,0.3078,0.5473,est,0.5104
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,28.5,True,0.272,0.5039,book,0.4682
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,29.5,False,0.2368,0.4575,est,0.4235
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,30.5,False,0.2054,0.4128,est,0.3808
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,31.5,False,0.1771,0.3691,est,0.3395
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,32.5,False,0.1509,0.3257,est,0.2987
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pra,33.5,False,0.1307,0.2902,est,0.2657
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,20.5,False,0.4337,0.6745,est,0.6374
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,21.5,False,0.3894,0.6331,est,0.5956
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,22.5,False,0.3441,0.5867,est,0.5494
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,23.5,False,0.3047,0.5425,est,0.5059
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,24.5,True,0.2666,0.4958,book,0.4605
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,25.5,False,0.2291,0.4458,est,0.4124
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,26.5,False,0.1972,0.3993,est,0.3681
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,27.5,False,0.1696,0.356,est,0.3273
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pr,28.5,False,0.1433,0.3115,est,0.2856
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,20.5,False,0.4244,0.6763,est,0.6375
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,21.5,False,0.3778,0.6324,est,0.5932
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,22.5,False,0.3338,0.5867,est,0.5477
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,23.5,False,0.2943,0.5416,est,0.5036
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,24.5,True,0.2561,0.4937,book,0.4571
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,25.5,False,0.2217,0.4466,est,0.412
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,26.5,False,0.1913,0.4013,est,0.369
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,27.5,False,0.1628,0.3553,est,0.3256
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,pa,28.5,False,0.1384,0.3127,est,0.2858
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,5.5,False,0.7252,0.8022,est,0.7903
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,6.5,False,0.6083,0.7047,est,0.6899
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,7.5,False,0.486,0.5923,est,0.576
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,8.5,True,0.3657,0.4698,book,0.4538
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,9.5,False,0.2632,0.3544,est,0.3404
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,10.5,False,0.1805,0.2528,est,0.2417
+401910023,MIL @ PHI,MIL,1629639,Tyler Herro,ra,11.5,False,0.121,0.1746,est,0.1663
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,4.5,False,0.7513,0.7962,est,0.7893
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,5.5,False,0.6656,0.7203,est,0.7119
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,6.5,False,0.5763,0.6376,est,0.6282
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,7.5,False,0.4899,0.5541,est,0.5442
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,8.5,True,0.4106,0.474,book,0.4642
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,9.5,False,0.3373,0.3971,est,0.3879
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,10.5,False,0.2727,0.3266,est,0.3183
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,11.5,False,0.2172,0.2641,est,0.2569
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,pts,12.5,False,0.1742,0.2144,est,0.2082
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,reb,0.5,False,0.8511,,model only,0.8511
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,reb,1.5,False,0.6125,,model only,0.6125
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,reb,2.5,False,0.383,,model only,0.383
@@ -877,10 +878,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ast,4.5,False,0.2059,,model only,0.2059
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ast,5.5,False,0.1158,,model only,0.1158
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ast,6.5,False,0.0605,,model only,0.0605
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,0.5,False,0.5729,0.7364,est,0.7112
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,1.5,True,0.2115,0.3583,book,0.3357
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,2.5,False,0.0587,0.115,est,0.1063
-401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,3.5,False,0.0122,0.0251,est,0.0231
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,0.5,True,0.5729,0.6583,book,0.6451
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,1.5,False,0.2115,0.2781,est,0.2678
+401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,fg3m,2.5,False,0.0587,0.0823,est,0.0786
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,stl,0.5,False,0.4235,,model only,0.4235
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,stl,1.5,False,0.1258,,model only,0.1258
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,blk,0.5,False,0.1193,,model only,0.1193
@@ -921,139 +921,138 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ra,6.5,False,0.298,,model only,0.298
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ra,7.5,False,0.2064,,model only,0.2064
 401910023,MIL @ PHI,MIL,905214640,Kasparas Jakucionis,ra,8.5,False,0.1392,,model only,0.1392
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,7.5,False,0.7726,,model only,0.7726
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,8.5,False,0.7019,,model only,0.7019
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,9.5,False,0.634,,model only,0.634
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,10.5,False,0.5611,,model only,0.5611
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,11.5,False,0.4915,,model only,0.4915
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,12.5,False,0.4291,,model only,0.4291
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,13.5,False,0.3697,,model only,0.3697
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,14.5,False,0.3165,,model only,0.3165
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,15.5,False,0.2672,,model only,0.2672
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,1.5,False,0.8824,,model only,0.8824
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,2.5,False,0.7402,,model only,0.7402
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,3.5,False,0.5645,,model only,0.5645
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,4.5,False,0.3983,,model only,0.3983
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,5.5,False,0.2635,,model only,0.2635
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,6.5,False,0.1571,,model only,0.1571
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,7.5,False,0.0879,,model only,0.0879
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,0.5,False,0.9297,,model only,0.9297
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,1.5,False,0.7707,,model only,0.7707
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,2.5,False,0.5602,,model only,0.5602
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,3.5,False,0.3673,,model only,0.3673
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,4.5,False,0.2168,,model only,0.2168
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,5.5,False,0.117,,model only,0.117
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,6.5,False,0.0574,,model only,0.0574
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,0.5,False,0.6863,,model only,0.6863
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,1.5,False,0.3276,,model only,0.3276
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,2.5,False,0.1118,,model only,0.1118
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,3.5,False,0.0311,,model only,0.0311
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,8.5,False,0.7019,0.7719,est,0.7611
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,9.5,False,0.634,0.7134,est,0.7012
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,10.5,False,0.5611,0.6475,est,0.6342
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,11.5,False,0.4915,0.5814,est,0.5676
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,12.5,True,0.4291,0.5192,book,0.5053
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,13.5,False,0.3697,0.4573,est,0.4439
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,14.5,False,0.3165,0.3995,est,0.3868
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,15.5,False,0.2672,0.3438,est,0.332
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pts,16.5,False,0.2234,0.2924,est,0.2818
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,1.5,False,0.8824,0.9071,est,0.9033
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,2.5,False,0.7402,0.7674,book,0.7632
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,3.5,False,0.5645,0.6178,book,0.6096
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,4.5,True,0.3983,0.4627,book,0.4528
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,5.5,False,0.2635,0.3201,book,0.3114
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,6.5,False,0.1571,0.2124,book,0.2039
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,reb,7.5,False,0.0879,0.1316,book,0.1249
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,0.5,False,0.9297,0.9378,est,0.9365
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,1.5,False,0.7707,0.7931,est,0.7896
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,2.5,True,0.5602,0.5922,book,0.5873
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,3.5,False,0.3673,0.3994,book,0.3945
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,4.5,False,0.2168,0.2453,book,0.2409
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ast,5.5,False,0.117,0.1412,book,0.1375
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,0.5,False,0.6863,0.682,book,0.6827
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,1.5,True,0.3276,0.3636,book,0.3581
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,2.5,False,0.1118,0.1584,book,0.1512
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,fg3m,3.5,False,0.0311,0.0668,book,0.0613
 401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,stl,0.5,False,0.4159,,model only,0.4159
 401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,stl,1.5,False,0.1196,,model only,0.1196
 401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,blk,0.5,False,0.1887,,model only,0.1887
 401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,blk,1.5,False,0.0204,,model only,0.0204
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,14.5,False,0.7161,,model only,0.7161
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,15.5,False,0.6671,,model only,0.6671
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,16.5,False,0.613,,model only,0.613
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,17.5,False,0.5593,,model only,0.5593
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,18.5,False,0.5059,,model only,0.5059
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,19.5,False,0.4551,,model only,0.4551
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,20.5,False,0.4061,,model only,0.4061
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,21.5,False,0.3614,,model only,0.3614
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,22.5,False,0.317,,model only,0.317
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,23.5,False,0.2771,,model only,0.2771
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,24.5,False,0.2418,,model only,0.2418
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,12.5,False,0.6842,,model only,0.6842
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,13.5,False,0.6219,,model only,0.6219
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,14.5,False,0.5624,,model only,0.5624
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,15.5,False,0.5031,,model only,0.5031
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,16.5,False,0.4471,,model only,0.4471
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,17.5,False,0.3942,,model only,0.3942
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,18.5,False,0.3439,,model only,0.3439
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,19.5,False,0.2976,,model only,0.2976
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,20.5,False,0.2571,,model only,0.2571
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,11.5,False,0.6781,,model only,0.6781
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,12.5,False,0.6179,,model only,0.6179
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,13.5,False,0.5604,,model only,0.5604
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,14.5,False,0.5004,,model only,0.5004
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,15.5,False,0.4411,,model only,0.4411
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,16.5,False,0.3865,,model only,0.3865
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,17.5,False,0.3361,,model only,0.3361
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,18.5,False,0.2907,,model only,0.2907
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,19.5,False,0.247,,model only,0.247
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,4.5,False,0.7805,,model only,0.7805
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,5.5,False,0.6666,,model only,0.6666
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,6.5,False,0.5478,,model only,0.5478
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,7.5,False,0.4306,,model only,0.4306
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,8.5,False,0.3243,,model only,0.3243
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,9.5,False,0.2327,,model only,0.2327
-401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,10.5,False,0.1625,,model only,0.1625
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,7.5,False,0.7401,0.7736,est,0.7685
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,8.5,False,0.6638,0.7032,est,0.6971
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,9.5,False,0.5884,0.6317,est,0.6251
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,10.5,False,0.5129,0.5582,est,0.5512
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,11.5,True,0.4381,0.4833,book,0.4763
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,12.5,False,0.3692,0.4125,est,0.4059
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,13.5,False,0.3108,0.3511,est,0.3449
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,14.5,False,0.2585,0.2949,est,0.2893
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,15.5,False,0.2117,0.2438,est,0.2388
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,1.5,False,0.9021,,model only,0.9021
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,2.5,False,0.7701,,model only,0.7701
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,3.5,False,0.6069,,model only,0.6069
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,4.5,False,0.4381,,model only,0.4381
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,5.5,False,0.2943,,model only,0.2943
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,6.5,False,0.1872,,model only,0.1872
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,7.5,False,0.1113,,model only,0.1113
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,0.5,False,0.8692,,model only,0.8692
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,1.5,False,0.6224,,model only,0.6224
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,2.5,False,0.3758,,model only,0.3758
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,3.5,False,0.1963,,model only,0.1963
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,4.5,False,0.0891,,model only,0.0891
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,5.5,False,0.0362,,model only,0.0362
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,0.5,False,0.7182,0.8158,est,0.8008
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,1.5,True,0.3595,0.4939,book,0.4732
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,2.5,False,0.1337,0.2116,est,0.1996
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,3.5,False,0.0379,0.0642,est,0.0601
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,15.5,False,0.6671,0.7485,est,0.736
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,16.5,False,0.613,0.7018,est,0.6881
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,17.5,False,0.5593,0.6534,est,0.6389
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,18.5,False,0.5059,0.6033,est,0.5883
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,19.5,False,0.4551,0.5537,est,0.5385
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,20.5,True,0.4061,0.5039,book,0.4888
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,21.5,False,0.3614,0.4568,est,0.4421
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,22.5,False,0.317,0.4082,est,0.3941
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,23.5,False,0.2771,0.3628,est,0.3496
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,24.5,False,0.2418,0.3215,est,0.3093
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pra,25.5,False,0.2099,0.2831,est,0.2718
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,13.5,False,0.6219,0.7114,est,0.6976
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,14.5,False,0.5624,0.6582,est,0.6435
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,15.5,False,0.5031,0.6028,est,0.5874
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,16.5,False,0.4471,0.5479,est,0.5323
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,17.5,True,0.3942,0.4937,book,0.4784
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,18.5,False,0.3439,0.44,est,0.4252
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,19.5,False,0.2976,0.3883,est,0.3743
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,20.5,False,0.2571,0.3416,est,0.3286
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pr,21.5,False,0.2207,0.298,est,0.2861
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,12.5,False,0.6179,0.7021,est,0.6892
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,13.5,False,0.5604,0.6501,est,0.6363
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,14.5,False,0.5004,0.5934,est,0.5791
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,15.5,False,0.4411,0.535,est,0.5205
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,16.5,True,0.3865,0.4787,book,0.4645
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,17.5,False,0.3361,0.4245,est,0.4109
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,18.5,False,0.2907,0.3739,est,0.3611
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,19.5,False,0.247,0.3234,est,0.3117
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,pa,20.5,False,0.2086,0.2776,est,0.267
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,4.5,False,0.7805,0.8216,est,0.8153
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,5.5,False,0.6666,0.7215,est,0.713
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,6.5,False,0.5478,0.6108,est,0.6011
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,7.5,True,0.4306,0.4949,book,0.485
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,8.5,False,0.3243,0.3834,est,0.3743
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,9.5,False,0.2327,0.282,est,0.2744
+401910023,MIL @ PHI,MIL,1631170,Jaime Jaquez Jr.,ra,10.5,False,0.1625,0.2009,est,0.195
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,7.5,False,0.7401,0.7287,book,0.7305
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,8.5,False,0.6638,0.7066,est,0.7
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,9.5,False,0.5884,0.6089,book,0.6057
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,10.5,False,0.5129,0.5622,est,0.5546
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,11.5,True,0.4381,0.4874,book,0.4798
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,12.5,False,0.3692,0.4165,est,0.4092
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,13.5,False,0.3108,0.3548,est,0.348
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,14.5,False,0.2585,0.3095,book,0.3016
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pts,15.5,False,0.2117,0.2468,est,0.2414
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,1.5,False,0.9021,0.9196,est,0.9169
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,2.5,False,0.7701,0.7865,book,0.784
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,3.5,False,0.6069,0.6461,book,0.6401
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,4.5,True,0.4381,0.4917,book,0.4834
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,5.5,False,0.2943,0.3513,book,0.3425
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,6.5,False,0.1872,0.2348,book,0.2275
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,reb,7.5,False,0.1113,0.1486,book,0.1429
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,0.5,False,0.8692,0.8923,est,0.8887
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,1.5,False,0.6224,0.6726,est,0.6649
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,2.5,True,0.3758,0.4287,book,0.4205
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,3.5,False,0.1963,0.2409,book,0.234
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,4.5,False,0.0891,0.1263,book,0.1206
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ast,5.5,False,0.0362,0.0447,est,0.0434
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,0.5,False,0.7182,0.7775,book,0.7684
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,1.5,True,0.3595,0.4989,book,0.4774
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,2.5,False,0.1337,0.2596,book,0.2402
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,fg3m,3.5,False,0.0379,0.123,book,0.1099
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,stl,0.5,False,0.4351,,model only,0.4351
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,stl,1.5,False,0.1233,,model only,0.1233
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,blk,0.5,False,0.3386,,model only,0.3386
 401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,blk,1.5,False,0.0704,,model only,0.0704
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,12.5,False,0.7722,,model only,0.7722
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,13.5,False,0.7191,,model only,0.7191
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,14.5,False,0.6608,,model only,0.6608
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,15.5,False,0.6028,,model only,0.6028
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,16.5,False,0.5458,,model only,0.5458
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,17.5,False,0.4881,,model only,0.4881
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,18.5,False,0.4306,,model only,0.4306
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,19.5,False,0.3777,,model only,0.3777
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,20.5,False,0.33,,model only,0.33
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,21.5,False,0.2841,,model only,0.2841
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,22.5,False,0.2447,,model only,0.2447
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,11.5,False,0.7253,,model only,0.7253
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,12.5,False,0.6645,,model only,0.6645
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,13.5,False,0.6012,,model only,0.6012
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,14.5,False,0.5372,,model only,0.5372
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,15.5,False,0.4728,,model only,0.4728
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,16.5,False,0.4135,,model only,0.4135
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,17.5,False,0.3571,,model only,0.3571
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,18.5,False,0.3061,,model only,0.3061
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,19.5,False,0.2623,,model only,0.2623
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,9.5,False,0.7311,,model only,0.7311
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,10.5,False,0.6624,,model only,0.6624
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,11.5,False,0.5951,,model only,0.5951
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,12.5,False,0.5257,,model only,0.5257
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,13.5,False,0.4577,,model only,0.4577
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,14.5,False,0.3948,,model only,0.3948
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,15.5,False,0.3356,,model only,0.3356
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,16.5,False,0.2841,,model only,0.2841
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,17.5,False,0.2371,,model only,0.2371
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,3.5,False,0.8412,,model only,0.8412
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,4.5,False,0.7356,,model only,0.7356
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,5.5,False,0.605,,model only,0.605
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,6.5,False,0.4747,,model only,0.4747
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,7.5,False,0.354,,model only,0.354
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,8.5,False,0.2548,,model only,0.2548
-401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,9.5,False,0.1755,,model only,0.1755
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,13.5,False,0.7191,0.7697,est,0.762
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,14.5,False,0.6608,0.7178,est,0.709
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,15.5,False,0.6028,0.6646,est,0.6551
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,16.5,False,0.5458,0.6107,est,0.6007
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,17.5,False,0.4881,0.5546,est,0.5444
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,18.5,True,0.4306,0.4968,book,0.4866
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,19.5,False,0.3777,0.4421,est,0.4322
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,20.5,False,0.33,0.3914,est,0.382
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,21.5,False,0.2841,0.3413,est,0.3325
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,22.5,False,0.2447,0.2972,est,0.2891
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pra,23.5,False,0.2082,0.2556,est,0.2483
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,12.5,False,0.6645,0.7179,est,0.7097
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,13.5,False,0.6012,0.6595,est,0.6505
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,14.5,False,0.5372,0.5986,est,0.5891
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,15.5,False,0.4728,0.5354,est,0.5257
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,16.5,True,0.4135,0.4753,book,0.4658
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,17.5,False,0.3571,0.4165,est,0.4073
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,18.5,False,0.3061,0.3618,est,0.3532
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,19.5,False,0.2623,0.3136,est,0.3057
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pr,20.5,False,0.2221,0.2684,est,0.2613
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,9.5,False,0.7311,0.7431,book,0.7413
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,10.5,False,0.6624,0.7113,est,0.7038
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,11.5,False,0.5951,0.6486,est,0.6403
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,12.5,False,0.5257,0.5819,est,0.5732
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,13.5,True,0.4577,0.5145,book,0.5057
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,14.5,False,0.3948,0.4537,book,0.4446
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,15.5,False,0.3356,0.3881,est,0.38
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,16.5,False,0.2841,0.3326,est,0.3252
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,pa,17.5,False,0.2371,0.2807,est,0.274
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,3.5,False,0.8412,0.8727,est,0.8679
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,4.5,False,0.7356,0.7826,est,0.7754
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,5.5,False,0.605,0.6647,est,0.6555
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,6.5,True,0.4747,0.5391,book,0.5292
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,7.5,False,0.354,0.4149,est,0.4055
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,8.5,False,0.2548,0.3067,est,0.2987
+401910023,MIL @ PHI,MIL,1628398,Kyle Kuzma,ra,9.5,False,0.1755,0.216,est,0.2097
 401910023,MIL @ PHI,MIL,1631250,Pete Nance,pts,0.5,False,0.9525,,model only,0.9525
 401910023,MIL @ PHI,MIL,1631250,Pete Nance,pts,1.5,False,0.8664,,model only,0.8664
 401910023,MIL @ PHI,MIL,1631250,Pete Nance,pts,2.5,False,0.7453,,model only,0.7453
@@ -1247,73 +1246,72 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910023,MIL @ PHI,MIL,1642504,Cormac Ryan,ra,3.5,False,0.2516,,model only,0.2516
 401910023,MIL @ PHI,MIL,1642504,Cormac Ryan,ra,4.5,False,0.1401,,model only,0.1401
 401910023,MIL @ PHI,MIL,1642504,Cormac Ryan,ra,5.5,False,0.0736,,model only,0.0736
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,5.5,False,0.7,0.8214,est,0.8027
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,6.5,False,0.6075,0.7531,est,0.7306
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,7.5,False,0.5116,0.6736,est,0.6487
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,8.5,False,0.4225,0.5904,est,0.5646
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,9.5,True,0.3422,0.5062,book,0.4809
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,10.5,False,0.2706,0.4223,est,0.399
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,11.5,False,0.2086,0.3418,est,0.3213
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,12.5,False,0.1614,0.275,est,0.2575
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,13.5,False,0.1224,0.2156,est,0.2012
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,2.5,False,0.8179,,model only,0.8179
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,3.5,False,0.6754,,model only,0.6754
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,4.5,False,0.5171,,model only,0.5171
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,5.5,False,0.3751,,model only,0.3751
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,6.5,False,0.2514,,model only,0.2514
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,7.5,False,0.1606,,model only,0.1606
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,8.5,False,0.1004,,model only,0.1004
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,0.5,False,0.8016,,model only,0.8016
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,1.5,False,0.5112,,model only,0.5112
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,2.5,False,0.2665,,model only,0.2665
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,3.5,False,0.1219,,model only,0.1219
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,4.5,False,0.0481,,model only,0.0481
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,5.5,False,0.0166,,model only,0.0166
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,0.5,False,0.6992,0.8432,est,0.821
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,1.5,True,0.3174,0.5183,book,0.4874
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,2.5,False,0.1006,0.2055,est,0.1894
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,3.5,False,0.0238,0.0535,est,0.0489
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,5.5,False,0.7,0.7689,book,0.7583
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,6.5,False,0.6075,0.755,est,0.7323
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,7.5,False,0.5116,0.6461,book,0.6254
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,8.5,False,0.4225,0.5929,est,0.5667
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,9.5,True,0.3422,0.5088,book,0.4831
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,10.5,False,0.2706,0.4249,est,0.4011
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,11.5,False,0.2086,0.3738,book,0.3484
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,12.5,False,0.1614,0.2771,est,0.2593
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pts,13.5,False,0.1224,0.2173,est,0.2027
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,1.5,False,0.9247,0.938,est,0.9359
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,2.5,False,0.8179,0.833,book,0.8307
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,3.5,False,0.6754,0.7136,book,0.7077
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,4.5,True,0.5171,0.5688,book,0.5608
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,5.5,False,0.3751,0.4248,book,0.4171
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,6.5,False,0.2514,0.3025,book,0.2946
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,reb,7.5,False,0.1606,0.201,book,0.1948
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,0.5,False,0.8016,0.846,est,0.8392
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,1.5,True,0.5112,0.5871,book,0.5754
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,2.5,False,0.2665,0.3487,book,0.336
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,3.5,False,0.1219,0.179,book,0.1702
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ast,4.5,False,0.0481,0.085,book,0.0793
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,0.5,False,0.6992,0.8446,est,0.8222
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,1.5,True,0.3174,0.521,book,0.4896
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,2.5,False,0.1006,0.2073,est,0.1909
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,fg3m,3.5,False,0.0238,0.1353,book,0.1181
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,stl,0.5,False,0.3812,,model only,0.3812
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,stl,1.5,False,0.0942,,model only,0.0942
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,blk,0.5,False,0.7551,,model only,0.7551
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,blk,1.5,False,0.4335,,model only,0.4335
 401910023,MIL @ PHI,MIL,1626167,Myles Turner,blk,2.5,False,0.2021,,model only,0.2021
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,9.5,False,0.8056,,model only,0.8056
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,10.5,False,0.7472,,model only,0.7472
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,11.5,False,0.6848,,model only,0.6848
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,12.5,False,0.6189,,model only,0.6189
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,13.5,False,0.5541,,model only,0.5541
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,14.5,False,0.4883,,model only,0.4883
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,15.5,False,0.425,,model only,0.425
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,16.5,False,0.3627,,model only,0.3627
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,17.5,False,0.3091,,model only,0.3091
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,18.5,False,0.2607,,model only,0.2607
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,19.5,False,0.2174,,model only,0.2174
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,9.5,False,0.7164,,model only,0.7164
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,10.5,False,0.6472,,model only,0.6472
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,11.5,False,0.5763,,model only,0.5763
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,12.5,False,0.5053,,model only,0.5053
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,13.5,False,0.433,,model only,0.433
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,14.5,False,0.3682,,model only,0.3682
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,15.5,False,0.3098,,model only,0.3098
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,16.5,False,0.2565,,model only,0.2565
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,17.5,False,0.2085,,model only,0.2085
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,5.5,False,0.8183,,model only,0.8183
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,6.5,False,0.7446,,model only,0.7446
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,7.5,False,0.6603,,model only,0.6603
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,8.5,False,0.5756,,model only,0.5756
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,9.5,False,0.4921,,model only,0.4921
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,10.5,False,0.4113,,model only,0.4113
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,11.5,False,0.3383,,model only,0.3383
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,12.5,False,0.2721,,model only,0.2721
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,13.5,False,0.2188,,model only,0.2188
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,3.5,False,0.8405,,model only,0.8405
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,4.5,False,0.733,,model only,0.733
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,5.5,False,0.6111,,model only,0.6111
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,6.5,False,0.4832,,model only,0.4832
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,7.5,False,0.3657,,model only,0.3657
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,8.5,False,0.266,,model only,0.266
-401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,9.5,False,0.1861,,model only,0.1861
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,11.5,False,0.6848,0.8094,est,0.7902
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,12.5,False,0.6189,0.7603,est,0.7386
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,13.5,False,0.5541,0.7083,est,0.6846
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,14.5,False,0.4883,0.6509,est,0.6259
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,15.5,False,0.425,0.5908,est,0.5653
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,16.5,True,0.3627,0.5265,book,0.5013
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,17.5,False,0.3091,0.4665,est,0.4422
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,18.5,False,0.2607,0.4079,est,0.3853
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,19.5,False,0.2174,0.3518,est,0.3311
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,20.5,False,0.1762,0.2948,est,0.2765
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pra,21.5,False,0.1446,0.2483,est,0.2323
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,10.5,False,0.6472,0.7752,est,0.7555
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,11.5,False,0.5763,0.7189,est,0.697
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,12.5,False,0.5053,0.6576,est,0.6341
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,13.5,False,0.433,0.5895,est,0.5654
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,14.5,True,0.3682,0.5229,book,0.4991
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,15.5,False,0.3098,0.4578,est,0.435
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,16.5,False,0.2565,0.3935,est,0.3724
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,17.5,False,0.2085,0.3312,est,0.3123
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pr,18.5,False,0.1705,0.2788,est,0.2621
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,7.5,False,0.6603,0.8005,est,0.7789
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,8.5,False,0.5756,0.7369,est,0.7121
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,9.5,False,0.4921,0.6667,est,0.6398
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,10.5,False,0.4113,0.5906,est,0.563
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,11.5,True,0.3383,0.5136,book,0.4866
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,12.5,False,0.2721,0.4356,est,0.4104
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,13.5,False,0.2188,0.3665,est,0.3437
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,14.5,False,0.1725,0.3008,est,0.2811
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,pa,15.5,False,0.1347,0.2433,est,0.2266
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,4.5,False,0.733,0.7972,est,0.7873
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,5.5,False,0.6111,0.6923,est,0.6798
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,6.5,False,0.4832,0.5725,est,0.5587
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,7.5,True,0.3657,0.4523,book,0.439
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,8.5,False,0.266,0.3417,est,0.33
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,9.5,False,0.1861,0.2466,est,0.2373
+401910023,MIL @ PHI,MIL,1626167,Myles Turner,ra,10.5,False,0.1243,0.169,est,0.1621
 401910023,MIL @ PHI,MIL,905105623,Kel'el Ware,pts,3.5,False,0.8161,,model only,0.8161
 401910023,MIL @ PHI,MIL,905105623,Kel'el Ware,pts,4.5,False,0.7334,,model only,0.7334
 401910023,MIL @ PHI,MIL,905105623,Kel'el Ware,pts,5.5,False,0.6364,,model only,0.6364
