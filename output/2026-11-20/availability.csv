@@ -1,16 +1,16 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909309,CHI,905105555,Tobe Awaka,Out,GLeague-Two-Way,0.0,Awaka (back) has been ruled out for Wednesday's game against the Nets.,,
-401909309,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
-401909309,CHI,1629651,Nic Claxton,Starting,,1.0,,,1.0
+401909309,CHI,1641824,Matas Buzelis,,,1.0,,,
+401909309,CHI,1629651,Nic Claxton,,,1.0,,,
 401909309,CHI,1628380,Zach Collins,,,1.0,,,
 401909309,CHI,1642855,Noa Essengue,Available,-,1.0,,,
-401909309,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
+401909309,CHI,1630581,Josh Giddey,,,1.0,,,
 401909309,CHI,1641722,Jordan Hawkins,,,1.0,,,
 401909309,CHI,1627741,Buddy Hield,,,1.0,,,
 401909309,CHI,1630200,Tre Jones,,,1.0,,,
 401909309,CHI,1631159,Leonard Miller,,,1.0,,,
-401909309,CHI,1630171,Isaac Okoro,Starting,,1.0,,,1.0
-401909309,CHI,1626181,Norman Powell,Starting,,1.0,,,1.0
+401909309,CHI,1630171,Isaac Okoro,,,1.0,,,
+401909309,CHI,1626181,Norman Powell,,,1.0,,,
 401909309,CHI,1631115,Orlando Robinson,Out,GLeague-OnAssignment,0.0,,,
 401909309,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
 401909309,CHI,1630188,Jalen Smith,Out,Injury/Illness-GastrointestinalIllness,0.0,"Smith (illness) is out for Friday's game against the Wizards, Joel Lorenzi of The Athletic reports.",,
@@ -22,29 +22,29 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909309,WAS,1642267,Bub Carrington,,,1.0,,,
 401909309,WAS,1630551,Justin Champagnie,Out,Injury/Illness-RightFootSurgery,0.0,"Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic.",,
 401909309,WAS,1641731,Bilal Coulibaly,,,1.0,,,
-401909309,WAS,203076,Anthony Davis,Starting,,1.0,,,1.0
-401909309,WAS,905142718,AJ Dybantsa,Starting,,1.0,,,1.0
-401909309,WAS,1642273,Kyshawn George,Starting,,1.0,,,1.0
+401909309,WAS,203076,Anthony Davis,,,1.0,,,
+401909309,WAS,905142718,AJ Dybantsa,,,1.0,,,
+401909309,WAS,1642273,Kyshawn George,,,1.0,,,
 401909309,WAS,1630264,Anthony Gill,,,1.0,,,
 401909309,WAS,905238230,Tre Johnson,,,1.0,,,
 401909309,WAS,1630544,Tre Mann,,,1.0,,,
 401909309,WAS,203114,Khris Middleton,,,1.0,,,
 401909309,WAS,905105841,Felix Okpara,Out,GLeague-Two-Way,0.0,Okpara (illness) is available for Friday's game against Toronto.,,
 401909309,WAS,1642860,Will Riley,,,1.0,,,
-401909309,WAS,1642259,Alex Sarr,Starting,,1.0,,,1.0
+401909309,WAS,1642259,Alex Sarr,,,1.0,,,
 401909309,WAS,1641774,Tristan Vukcevic,Out,Injury/Illness-LeftHipImpingement,0.0,Vukcevic (hip) has been ruled out for Monday's game against Memphis.,,
 401909309,WAS,1642364,Jamir Watkins,Out,,0.0,The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL.,,
-401909309,WAS,1629027,Trae Young,Starting,,1.0,,,1.0
+401909309,WAS,1629027,Trae Young,,,1.0,,,
 401909310,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401909310,OKC,1627936,Alex Caruso,Out,Injury/Illness-RightHipSoreness,0.0,Caruso (hip) is listed as out for Friday's game against the Pelicans.,,
 401909310,OKC,1642363,Nique Clifford,,,1.0,,,
 401909310,OKC,905105800,Josh Dix,,,1.0,,,
-401909310,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
-401909310,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
+401909310,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
+401909310,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
 401909310,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
-401909310,OKC,905174983,Aday Mara,Starting,,1.0,,,1.0
-401909310,OKC,1642272,Jared McCain,Starting,,1.0,,,1.0
-401909310,OKC,1642349,Ajay Mitchell,Starting,,1.0,,,1.0
+401909310,OKC,905174983,Aday Mara,,,1.0,,,
+401909310,OKC,1642272,Jared McCain,,,1.0,,,
+401909310,OKC,1642349,Ajay Mitchell,,,1.0,,,
 401909310,OKC,904432185,Micah Peavy,,,1.0,,,
 401909310,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,"Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports.",,
 401909310,OKC,905241364,Bennett Stirtz,,,1.0,,,
@@ -53,16 +53,16 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909310,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
 401909310,OKC,1631119,Jaylin Williams,,,1.0,,,
 401909310,OKC,1629026,Kenrich Williams,,,1.0,,,
-401909310,NOP,1630180,Saddiq Bey,Starting,,1.0,,,1.0
+401909310,NOP,1630180,Saddiq Bey,,,1.0,,,
 401909310,NOP,904712862,Malik Dia,Out,GLeague-Two-Way,0.0,,,
-401909310,NOP,1642847,Jeremiah Fears,Starting,,1.0,,,1.0
+401909310,NOP,1642847,Jeremiah Fears,,,1.0,,,
 401909310,NOP,905170947,AJ Johnson,,,1.0,,,
-401909310,NOP,1630529,Herbert Jones,Starting,,1.0,,,1.0
+401909310,NOP,1630529,Herbert Jones,,,1.0,,,
 401909310,NOP,201599,DeAndre Jordan,,,1.0,,,
 401909310,NOP,1631097,Bennedict Mathurin,Out,Injury/Illness-LeftPlantarFasciitis,0.0,Mathurin (foot) has been ruled out for Friday's game against the Thunder.,,
 401909310,NOP,1631255,Karlo Matkovic,,,1.0,,,
 401909310,NOP,1631121,Bryce McGowens,Out,Injury/Illness-LeftElbowInfection,0.0,McGowens (elbow) has been ruled out for Friday's game against the Thunder.,,
-401909310,NOP,1642274,Yves Missi,Starting,,1.0,,,1.0
+401909310,NOP,1642274,Yves Missi,,,1.0,,,
 401909310,NOP,1630530,Trey Murphy III,Available,,1.0,,,
 401909310,NOP,1627749,Dejounte Murray,Out,Injury/Illness-LeftAnkleSprain,0.0,Murray (ankle) is out for Friday's game against Memphis.,,
 401909310,NOP,904703115,Jaron Pierre Jr.,Available,GLeague-Two-Way,1.0,,,
@@ -70,7 +70,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909310,NOP,1642852,Derik Queen,,,1.0,,,
 401909310,NOP,904683742,Julian Reese,Out,GLeague-Two-Way,0.0,,,
 401909310,NOP,1630570,Trendon Watford,Out,Injury/Illness-RightAnkleSprain,0.0,Watford (ankle) has been ruled out for Friday's game against Oklahoma City.,,
-401909310,NOP,1629627,Zion Williamson,Starting,,1.0,,,1.0
+401909310,NOP,1629627,Zion Williamson,,,1.0,,,
 401909311,UTA,904684682,Jonas Aidoo,Out,GLeague-Two-Way,0.0,,,
 401909311,UTA,1642846,Ace Bailey,,,1.0,,,
 401909311,UTA,1628964,Mo Bamba,,,1.0,,,
