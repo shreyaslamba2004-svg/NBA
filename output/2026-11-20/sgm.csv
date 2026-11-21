@@ -11,18 +11,18 @@ PHX @ UTA,Collin Gillespie 3pm under 2.5 + Dillon Brooks 10+ pr,2,0.7161,0.5272,
 PHX @ UTA,Darryn Peterson pra under 27.5 + Devin Booker 4+ ast,2,0.5426,0.4025,2.48,2.61,2.31,-0.0719,1.0,2.10-2.50
 PHX @ UTA,PHX win + Brice Sensabaugh 5+ pr,2,0.6297,0.5751,1.74,1.83,1.6,-0.0807,0.997,1.50-1.65
 PHX @ UTA,PHX win + Ace Bailey 10+ pr,2,0.6158,0.5642,1.77,1.86,1.63,-0.0819,0.997,1.50-1.65
-HOU @ DEN,HOU win + Jabari Smith Jr. 10+ pts,2,0.3672,0.386,2.59,2.72,2.48,-0.0436,1.033,2.10-2.50
-HOU @ DEN,HOU +1.5 + Jabari Smith Jr. 10+ pts,2,0.3922,0.408,2.45,2.57,2.32,-0.0526,1.035,2.10-2.50
-HOU @ DEN,HOU win + Kevin Durant 1+ 3pm,2,0.3735,0.3961,2.52,2.65,2.38,-0.0588,1.019,2.10-2.50
-HOU @ DEN,DEN win + Christian Braun 10+ pr,2,0.5224,0.4467,2.24,2.35,2.09,-0.0673,1.015,1.85-2.10
-HOU @ DEN,DEN win + Nikola Jokic 6+ ast,2,0.5128,0.4516,2.21,2.33,2.06,-0.0712,1.016,1.85-2.10
-HOU @ DEN,DEN win + Jamal Murray 1+ 3pm,2,0.5394,0.4774,2.09,2.2,1.92,-0.0831,1.004,1.85-2.10
-HOU @ DEN,Kevin Durant 4+ ast + Jabari Smith Jr. 10+ pts,2,0.5797,0.4922,2.03,2.13,1.85,-0.0912,1.008,1.65-1.85
-HOU @ DEN,Kevin Durant 4+ ast + Cameron Johnson 10+ pr,2,0.5912,0.4903,2.04,2.14,1.85,-0.0944,1.0,1.65-1.85
-HOU @ DEN,Kevin Durant 4+ ast + Christian Braun 10+ pr,2,0.62,0.5118,1.95,2.05,1.77,-0.0951,0.998,1.65-1.85
-HOU @ DEN,Kevin Durant 4+ ast + Jamal Murray 1+ 3pm,2,0.6479,0.5536,1.81,1.9,1.63,-0.0996,1.0,1.50-1.65
-HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Nikola Jokic 8+ reb,3,0.6644,0.546,1.83,1.92,1.56,-0.1463,1.008,1.50-1.65
-HOU @ DEN,Christian Braun 10+ pr + Jamal Murray 4+ ast + Nikola Jokic 8+ reb,3,0.6412,0.5316,1.88,1.98,1.6,-0.1468,1.009,1.50-1.65
+HOU @ DEN,HOU +1.5 + Kevin Durant 20+ pa,2,0.3808,0.3948,2.53,2.66,2.44,-0.0379,1.05,2.10-2.50
+HOU @ DEN,Tari Eason 16+ pra + Kevin Durant 20+ pa,2,0.5493,0.3941,2.54,2.66,2.43,-0.044,1.02,2.10-2.50
+HOU @ DEN,HOU +1.5 + Jabari Smith Jr. 10+ pts,2,0.3922,0.404,2.48,2.6,2.35,-0.0509,1.035,2.10-2.50
+HOU @ DEN,Tari Eason 16+ pra + Kevin Durant 20+ pra,2,0.6315,0.4544,2.2,2.31,2.08,-0.0547,1.009,1.85-2.10
+HOU @ DEN,Tari Eason 14+ pr + Kevin Durant 20+ pra,2,0.6579,0.488,2.05,2.15,1.92,-0.0631,1.008,1.85-2.10
+HOU @ DEN,Tari Eason 11+ pa + Kevin Durant 20+ pra,2,0.5956,0.4462,2.24,2.35,2.1,-0.0631,1.01,1.85-2.10
+HOU @ DEN,Tari Eason 6+ ra + Kevin Durant 20+ pra,2,0.6902,0.518,1.93,2.03,1.8,-0.0657,1.006,1.65-1.85
+HOU @ DEN,Jabari Smith Jr. 10+ pts + Kevin Durant 20+ pa,2,0.667,0.5976,1.67,1.76,1.5,-0.1025,1.006,1.50-1.65
+HOU @ DEN,Jamal Murray 4+ ast + Kevin Durant 20+ pa,2,0.6578,0.5837,1.71,1.8,1.53,-0.1051,1.002,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Jamal Murray 4+ ast,3,0.6379,0.5095,1.96,2.06,1.68,-0.1429,1.006,1.65-1.85
+HOU @ DEN,Christian Braun 10+ pr + Cameron Johnson 10+ pr + Nikola Jokic 8+ reb,3,0.6644,0.5372,1.86,1.95,1.59,-0.1436,1.008,1.50-1.65
+HOU @ DEN,Christian Braun 10+ pr + Nikola Jokic 8+ reb + Kevin Durant 20+ pa,3,0.6204,0.5149,1.94,2.04,1.66,-0.1451,1.011,1.65-1.85
 SAC @ LAL,Quentin Grimes pra under 23.5 + LAL win,2,0.5914,0.435,2.3,2.41,2.21,-0.0378,0.988,2.10-2.50
 SAC @ LAL,Quentin Grimes pr under 20.5 + LAL win,2,0.6026,0.4479,2.23,2.34,2.14,-0.0393,0.989,2.10-2.50
 SAC @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5954,0.4383,2.28,2.4,2.19,-0.0393,0.987,2.10-2.50
