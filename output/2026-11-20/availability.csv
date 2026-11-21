@@ -1,32 +1,32 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909311,UTA,904684682,Jonas Aidoo,Out,GLeague-Two-Way,0.0,,,
-401909311,UTA,1642846,Ace Bailey,Starting,,1.0,,,1.0
+401909311,UTA,1642846,Ace Bailey,,,1.0,,,
 401909311,UTA,1628964,Mo Bamba,,,1.0,,,
 401909311,UTA,1628396,Tony Bradley,,,1.0,,,
 401909311,UTA,1641723,Kobe Bufkin,Out,GLeague-Two-Way,0.0,,,
 401909311,UTA,1642268,Isaiah Collier,,,1.0,,,
 401909311,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401909311,UTA,1641718,Keyonte George,Starting,,1.0,,,1.0
-401909311,UTA,1630182,Josh Green,Starting,,1.0,,,1.0
-401909311,UTA,1629637,Jaxson Hayes,Starting,,1.0,,,1.0
+401909311,UTA,1641718,Keyonte George,,,1.0,,,
+401909311,UTA,1630182,Josh Green,,,1.0,,,
+401909311,UTA,1629637,Jaxson Hayes,,,1.0,,,
 401909311,UTA,904433618,Harrison Ingram,Out,GLeague-Two-Way,0.0,,,
 401909311,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
 401909311,UTA,1628374,Lauri Markkanen,Out,Injury/Illness-RightHandFracture,0.0,"Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",,
 401909311,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
 401909311,UTA,203994,Jusuf Nurkic,Out,,0.0,Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week.,,
 401909311,UTA,1629006,Josh Okogie,,,1.0,,,
-401909311,UTA,905041955,Darryn Peterson,Starting,,1.0,,,1.0
+401909311,UTA,905041955,Darryn Peterson,,,1.0,,,
 401909311,UTA,1641729,Brice Sensabaugh,,,1.0,,,
-401909311,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
+401909311,PHX,1626164,Devin Booker,,,1.0,,,
 401909311,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909311,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
-401909311,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
+401909311,PHX,1628970,Miles Bridges,,,1.0,,,
+401909311,PHX,1628415,Dillon Brooks,,,1.0,,,
 401909311,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909311,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909311,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909311,PHX,1630692,Jordan Goodwin,,,1.0,,,
-401909311,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
-401909311,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
+401909311,PHX,1630224,Jalen Green,,,1.0,,,
+401909311,PHX,1642345,Oso Ighodaro,,,1.0,,,
 401909311,PHX,1628379,Luke Kennard,,,1.0,,,
 401909311,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909311,PHX,905041953,Koa Peat,,,1.0,,,
@@ -70,12 +70,12 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909312,HOU,1627832,Fred VanVleet,,,1.0,,,
 401909313,LAL,905113969,Cameron Carr,,,1.0,,,
 401909313,LAL,905105817,Carson Cooper,,,1.0,,,
-401909313,LAL,1629029,Luka Doncic,,,1.0,,,
-401909313,LAL,1629656,Quentin Grimes,Available,Injury/Illness-RightFingerSplint,1.0,,,
+401909313,LAL,1629029,Luka Doncic,Starting,,1.0,,,1.0
+401909313,LAL,1629656,Quentin Grimes,Starting,Injury/Illness-RightFingerSplint,1.0,,,1.0
 401909313,LAL,1630702,Jaden Hardy,,,1.0,,,
 401909313,LAL,904683774,Bronny James,,,1.0,,,
 401909313,LAL,904433599,Arthur Kaluma,,,1.0,,,
-401909313,LAL,1631117,Walker Kessler,,,1.0,,,
+401909313,LAL,1631117,Walker Kessler,Starting,,1.0,,,1.0
 401909313,LAL,1631222,Jake LaRavia,,,1.0,,,
 401909313,LAL,1626172,Kevon Looney,,,1.0,,,
 401909313,LAL,1630572,Sandro Mamukelashvili,,,1.0,,,
@@ -84,23 +84,23 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909313,LAL,1630559,Austin Reaves,Out,,0.0,"Head coach JJ Redick said he expects Reaves (heel) to return for Monday's matchup with Utah or Friday's game in San Antonio, Mark Medina of TheSportingTribune.com reports.",,
 401909313,LAL,1629012,Collin Sexton,,,1.0,,,
 401909313,LAL,1642876,Adou Thiero,,,1.0,,,
-401909313,LAL,1629680,Matisse Thybulle,,,1.0,,,
+401909313,LAL,1629680,Matisse Thybulle,Starting,,1.0,,,1.0
 401909313,LAL,1629020,Jarred Vanderbilt,,,1.0,,,
-401909313,LAL,1630533,Ziaire Williams,,,1.0,,,
+401909313,LAL,1630533,Ziaire Williams,Starting,,1.0,,,1.0
 401909313,SAC,1630173,Precious Achiuwa,Out,,0.0,Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers.,,
-401909313,SAC,905142620,Darius Acuff Jr.,,,1.0,,,
+401909313,SAC,905142620,Darius Acuff Jr.,Starting,,1.0,,,1.0
 401909313,SAC,1641778,Leaky Black,,,1.0,,,
 401909313,SAC,1642928,Dylan Cardwell,,,1.0,,,
-401909313,SAC,1629631,De'Andre Hunter,Available,-,1.0,,,
+401909313,SAC,1629631,De'Andre Hunter,Starting,-,1.0,,,1.0
 401909313,SAC,904917149,Alex Karaban,,,1.0,,,
-401909313,SAC,203897,Zach LaVine,,,1.0,,,
+401909313,SAC,203897,Zach LaVine,Starting,,1.0,,,1.0
 401909313,SAC,905107897,Jonathan Mogbo,Out,GLeague-Two-Way,0.0,,,
 401909313,SAC,1628370,Malik Monk,,,1.0,,,
-401909313,SAC,1631099,Keegan Murray,,,1.0,,,
+401909313,SAC,1631099,Keegan Murray,Starting,,1.0,,,1.0
 401909313,SAC,904709131,Sean Pedulla,Out,GLeague-Two-Way,0.0,,,
 401909313,SAC,1631342,Daeqwon Plowden,,,1.0,,,
 401909313,SAC,203486,Mason Plumlee,,,1.0,,,
 401909313,SAC,1642875,Maxime Raynaud,Out,,0.0,Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.,,
-401909313,SAC,1627734,Domantas Sabonis,,,1.0,,,
+401909313,SAC,1627734,Domantas Sabonis,Starting,,1.0,,,1.0
 401909313,SAC,905106058,Emanuel Sharp,,,1.0,,,
 401909313,SAC,1627732,Ben Simmons,Out,,0.0,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",,
