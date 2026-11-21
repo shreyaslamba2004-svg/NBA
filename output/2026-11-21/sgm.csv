@@ -1,0 +1,7 @@
+matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+MIL @ PHI,PHI win + game over 229.5,2,0.2776,0.4169,2.4,2.52,2.2,-0.0816,1.001,2.10-2.50
+MIL @ PHI,PHI win + game under 229.5,2,0.44,0.4159,2.4,2.52,2.2,-0.0838,0.999,2.10-2.50
+NOP @ SAS,SAS win + game under 227.5,2,0.403,0.4543,2.2,2.31,2.03,-0.077,1.006,1.85-2.10
+NOP @ SAS,SAS win + game over 227.5,2,0.377,0.4484,2.23,2.34,2.03,-0.0891,0.993,1.85-2.10
+BOS @ SAC,BOS win + game under 217.5,2,0.3162,0.4247,2.35,2.47,2.19,-0.0699,1.014,2.10-2.50
+BOS @ SAC,BOS win + game over 217.5,2,0.4974,0.4154,2.41,2.53,2.19,-0.0904,0.991,2.10-2.50
