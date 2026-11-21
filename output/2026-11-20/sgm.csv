@@ -1,58 +1,22 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-ORL @ BKN,Mikel Brown Jr. pts under 10.5 + Noah Clowney 5+ pr,2,0.5448,0.4305,2.32,2.44,2.23,-0.04,0.996,2.10-2.50
-ORL @ BKN,Mikel Brown Jr. pts under 10.5 + Jalen Suggs 1+ 3pm,2,0.5089,0.4113,2.43,2.55,2.33,-0.0402,1.0,2.10-2.50
-ORL @ BKN,Mikel Brown Jr. pts under 10.5 + Anthony Black 1+ stl,2,0.4939,0.4014,2.49,2.62,2.39,-0.0414,1.0,2.10-2.50
-ORL @ BKN,ORL win + Wendell Carter Jr. 10+ pa,2,0.5272,0.5381,1.86,1.95,1.77,-0.0499,1.031,1.65-1.85
-ORL @ BKN,Nolan Traore pts under 11.5 + Moritz Wagner 5+ pra,2,0.5914,0.4633,2.16,2.27,2.02,-0.0628,0.995,1.85-2.10
-ORL @ BKN,Nolan Traore pts under 11.5 + Moritz Wagner 5+ pr,2,0.5732,0.4501,2.22,2.33,2.08,-0.063,0.995,1.85-2.10
-ORL @ BKN,Jalen Suggs pts under 12.5 + Moritz Wagner 5+ pra,2,0.5777,0.4685,2.13,2.24,2.0,-0.0635,1.0,1.85-2.10
-ORL @ BKN,ORL win + Jalen Suggs 1+ 3pm,2,0.5492,0.552,1.81,1.9,1.69,-0.0673,1.01,1.65-1.85
-ORL @ BKN,ORL win + Anthony Black 1+ 3pm,2,0.5442,0.5569,1.8,1.89,1.67,-0.0718,1.008,1.65-1.85
-ORL @ BKN,ORL win + Noah Clowney 5+ pr,2,0.5799,0.57,1.75,1.84,1.61,-0.0796,0.992,1.50-1.65
-ORL @ BKN,ORL win + Moritz Wagner 5+ pra,2,0.5945,0.5979,1.67,1.76,1.54,-0.0813,0.994,1.50-1.65
-ORL @ BKN,ORL win + Moritz Wagner 5+ pr,2,0.5747,0.5791,1.73,1.81,1.58,-0.0841,0.992,1.50-1.65
-IND @ CLE,Tyrese Proctor 11+ pts + Quenton Jackson 5+ pr,2,0.4673,0.4469,2.24,2.35,2.13,-0.0469,1.002,2.10-2.50
-IND @ CLE,Tyrese Proctor 11+ pts + Sam Merrill 5+ pr,2,0.4556,0.4365,2.29,2.41,2.18,-0.0484,1.001,2.10-2.50
-IND @ CLE,Tyrese Proctor 11+ pts + Sam Merrill 1+ 3pm,2,0.41,0.4087,2.45,2.57,2.32,-0.0517,1.006,2.10-2.50
-IND @ CLE,Tyrese Proctor 11+ pts + James Harden 1+ 3pm,2,0.4581,0.4644,2.15,2.26,2.03,-0.0589,1.001,1.85-2.10
-IND @ CLE,CLE win + Meleek Thomas 10+ pra,2,0.6048,0.533,1.88,1.97,1.75,-0.0659,1.015,1.65-1.85
-IND @ CLE,Quenton Jackson 5+ ra + Sam Merrill 5+ pr,2,0.6217,0.4543,2.2,2.31,2.05,-0.067,1.0,1.85-2.10
-IND @ CLE,Quenton Jackson 13+ pra + Sam Merrill 5+ pr,2,0.6077,0.4469,2.24,2.35,2.08,-0.0684,1.002,1.85-2.10
-IND @ CLE,CLE win + Sam Merrill 5+ pr,2,0.6475,0.5587,1.79,1.88,1.67,-0.069,1.007,1.65-1.85
-IND @ CLE,CLE win + Sam Merrill 1+ 3pm,2,0.5832,0.5236,1.91,2.01,1.77,-0.0713,1.013,1.65-1.85
-IND @ CLE,CLE win + James Harden 1+ 3pm,2,0.6516,0.595,1.68,1.76,1.55,-0.0784,1.008,1.50-1.65
-IND @ CLE,CLE win + Quenton Jackson 5+ pr,2,0.6563,0.5652,1.77,1.86,1.63,-0.0786,0.996,1.50-1.65
-IND @ CLE,Sam Merrill 5+ pr + Meleek Thomas 10+ pra + T.J. McConnell 5+ pr,3,0.6611,0.5421,1.84,1.94,1.57,-0.1496,1.003,1.50-1.65
-TOR @ DET,Allen Graves 2+ reb + Paul Reed 15+ pra,2,0.7964,0.4363,2.29,2.41,2.3,0.0022,0.999,2.10-2.50
-TOR @ DET,Allen Graves 2+ reb + Jamal Shead 10+ pra,2,0.8179,0.4762,2.1,2.2,2.08,-0.0088,1.001,1.85-2.10
-TOR @ DET,Allen Graves 2+ reb + Jamal Shead 5+ pr,2,0.8463,0.4941,2.02,2.13,2.0,-0.0107,1.0,1.85-2.10
-TOR @ DET,Jamal Shead 8+ pts + Scottie Barnes 25+ pra,2,0.5872,0.431,2.32,2.44,2.29,-0.0113,1.007,2.10-2.50
-TOR @ DET,Allen Graves 2+ reb + Javonte Green 5+ pr,2,0.849,0.5005,2.0,2.1,1.97,-0.0126,1.0,1.85-2.10
-TOR @ DET,Jamal Shead 8+ pts + Javonte Green 5+ pr,2,0.6129,0.4391,2.28,2.39,2.25,-0.0133,1.0,2.10-2.50
-TOR @ DET,Paul Reed 15+ pra + Jamal Shead 10+ pra + Kevin Huerter 10+ pa,3,0.7295,0.5167,1.94,2.03,1.7,-0.1203,1.007,1.65-1.85
-TOR @ DET,Paul Reed 15+ pra + Jamal Shead 10+ pra + Kevin Huerter 15+ pra,3,0.66,0.4756,2.1,2.21,1.84,-0.1227,1.008,1.65-1.85
-TOR @ DET,Paul Reed 15+ pra + Jamal Shead 5+ pr + Kevin Huerter 15+ pra,3,0.6823,0.493,2.03,2.13,1.77,-0.1251,1.005,1.65-1.85
-TOR @ DET,Jamal Shead 10+ pra + Javonte Green 5+ pr + Kevin Huerter 15+ pra,3,0.7012,0.5437,1.84,1.93,1.58,-0.1386,1.005,1.50-1.65
-TOR @ DET,Jamal Shead 5+ pr + Javonte Green 5+ pr + Kevin Huerter 15+ pra,3,0.7259,0.5644,1.77,1.86,1.52,-0.1397,1.004,1.50-1.65
-TOR @ DET,Jamal Shead 10+ pra + Paul Reed 4+ reb + Kevin Huerter 15+ pra,3,0.6848,0.5387,1.86,1.95,1.6,-0.1403,1.006,1.50-1.65
-WAS @ CHI,Norman Powell pts under 23.5 + Anthony Davis 6+ reb,2,0.5592,0.4714,2.12,2.23,2.08,-0.018,1.001,1.85-2.10
-WAS @ CHI,Norman Powell pts under 23.5 + Kyshawn George 10+ pa,2,0.5714,0.4761,2.1,2.21,2.06,-0.0181,0.999,1.85-2.10
-WAS @ CHI,Norman Powell pts under 23.5 + Kyshawn George 15+ pra,2,0.5566,0.4612,2.17,2.28,2.13,-0.0186,0.997,2.10-2.50
-WAS @ CHI,Norman Powell pts under 23.5 + Alex Sarr 4+ reb,2,0.5267,0.446,2.24,2.35,2.2,-0.0206,1.0,2.10-2.50
-WAS @ CHI,Norman Powell pts under 23.5 + AJ Dybantsa 4+ reb,2,0.5263,0.4396,2.27,2.39,2.23,-0.021,0.997,2.10-2.50
-WAS @ CHI,AJ Dybantsa pts under 18.5 + Kyshawn George 15+ pra,2,0.5998,0.4614,2.17,2.28,2.08,-0.0414,0.996,1.85-2.10
-NOP @ OKC,Jeremiah Fears pts under 15.5 + OKC win,2,0.5041,0.4408,2.27,2.38,2.35,0.0355,1.037,2.10-2.50
-NOP @ OKC,Kenrich Williams 8+ pts + OKC win,2,0.4797,0.4477,2.23,2.35,2.26,0.0117,1.022,2.10-2.50
-NOP @ OKC,OKC win + Zion Williamson pts under 19.5,2,0.534,0.4496,2.22,2.34,2.22,-0.0036,1.03,2.10-2.50
-NOP @ OKC,OKC win + Trey Murphy III 6+ ra,2,0.5891,0.4733,2.11,2.22,2.04,-0.0333,0.993,1.85-2.10
-NOP @ OKC,OKC win + Jaylin Williams 3pm under 1.5,2,0.6286,0.5179,1.93,2.03,1.84,-0.0463,0.987,1.65-1.85
-NOP @ OKC,Jeremiah Fears pts under 15.5 + Jared McCain 1+ 3pm,2,0.5771,0.4732,2.11,2.22,2.01,-0.0476,1.0,1.85-2.10
-NOP @ OKC,Jeremiah Fears pts under 15.5 + Herbert Jones 5+ pra,2,0.5918,0.4787,2.09,2.19,1.99,-0.048,0.997,1.85-2.10
-NOP @ OKC,Jaylin Williams 3pm under 1.5 + Trey Murphy III 10+ pa,2,0.7276,0.5165,1.94,2.03,1.81,-0.0638,1.0,1.65-1.85
-NOP @ OKC,Trey Murphy III 6+ ra + Herbert Jones 5+ pra,2,0.7256,0.5394,1.85,1.95,1.73,-0.0674,1.002,1.65-1.85
-NOP @ OKC,Jaylin Williams 3pm under 1.5 + Herbert Jones 5+ pra,2,0.7775,0.5926,1.69,1.77,1.56,-0.0761,1.001,1.50-1.65
-NOP @ OKC,Jaylin Williams 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.7559,0.5839,1.71,1.8,1.58,-0.0787,1.0,1.50-1.65
-NOP @ OKC,OKC win + Kenrich Williams 5+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.6212,0.5596,1.79,1.88,1.6,-0.1043,1.013,1.50-1.65
+WAS @ CHI,Norman Powell pts under 23.5 + Kyshawn George 10+ pa,2,0.5374,0.4708,2.12,2.23,2.06,-0.0289,0.998,1.85-2.10
+WAS @ CHI,Norman Powell pts under 23.5 + Alex Sarr 4+ reb,2,0.4982,0.4418,2.26,2.38,2.2,-0.0298,1.0,2.10-2.50
+WAS @ CHI,Norman Powell pts under 23.5 + Kyshawn George 15+ pra,2,0.5212,0.4552,2.2,2.31,2.13,-0.0312,0.995,2.10-2.50
+WAS @ CHI,Norman Powell pts under 23.5 + Anthony Davis 6+ reb,2,0.5236,0.4646,2.15,2.26,2.08,-0.0321,0.998,1.85-2.10
+WAS @ CHI,Norman Powell pts under 23.5 + AJ Dybantsa 4+ reb,2,0.493,0.4342,2.3,2.42,2.23,-0.0329,0.995,2.10-2.50
+WAS @ CHI,AJ Dybantsa pts under 18.5 + Matas Buzelis 1+ 3pm,2,0.5856,0.4629,2.16,2.27,2.07,-0.0405,1.003,1.85-2.10
+NOP @ OKC,Zion Williamson pts under 19.5 + OKC win,2,0.534,0.4496,2.22,2.34,2.33,0.0467,1.03,2.10-2.50
+NOP @ OKC,Saddiq Bey pts under 15.5 + OKC win,2,0.4294,0.4306,2.32,2.44,2.37,0.021,1.042,2.10-2.50
+NOP @ OKC,Jeremiah Fears pts under 15.5 + OKC win,2,0.5041,0.4408,2.27,2.38,2.3,0.0129,1.037,2.10-2.50
+NOP @ OKC,Zion Williamson pts under 19.5 + Jaylin Williams 5+ pra,2,0.6021,0.4652,2.15,2.26,2.09,-0.0281,0.999,1.85-2.10
+NOP @ OKC,Zion Williamson pts under 19.5 + Jared McCain 1+ 3pm,2,0.6158,0.4815,2.08,2.18,2.02,-0.0285,1.001,1.85-2.10
+NOP @ OKC,Zion Williamson pts under 19.5 + Aday Mara 5+ pa,2,0.6196,0.4891,2.04,2.15,1.98,-0.0312,1.0,1.85-2.10
+NOP @ OKC,Trey Murphy III 6+ ra + Jared McCain 1+ 3pm,2,0.7046,0.5106,1.96,2.06,1.84,-0.0628,1.001,1.65-1.85
+NOP @ OKC,Trey Murphy III 6+ ra + Aday Mara 5+ pa,2,0.7081,0.518,1.93,2.03,1.8,-0.0665,0.999,1.65-1.85
+NOP @ OKC,OKC win + Trey Murphy III 10+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.6075,0.5087,1.97,2.06,1.77,-0.0984,1.005,1.65-1.85
+NOP @ OKC,OKC win + Kenrich Williams 5+ pa + Shai Gilgeous-Alexander 4+ ast,3,0.6212,0.55,1.82,1.91,1.63,-0.1012,1.013,1.50-1.65
+NOP @ OKC,OKC win + Trey Murphy III 1+ 3pm + Kenrich Williams 5+ pa,3,0.6681,0.5597,1.79,1.88,1.6,-0.1032,1.0,1.50-1.65
+NOP @ OKC,OKC win + Kenrich Williams 5+ pa + Jaylin Williams 5+ pr,3,0.6444,0.5663,1.77,1.85,1.58,-0.1057,1.007,1.50-1.65
 PHX @ UTA,UTA +4.5 + Ace Bailey 10+ pts,2,0.3917,0.3943,2.54,2.66,2.43,-0.0405,1.037,2.10-2.50
 PHX @ UTA,UTA +4.5 + Brice Sensabaugh 10+ pr,2,0.3938,0.3916,2.55,2.68,2.42,-0.0516,1.023,2.10-2.50
 PHX @ UTA,UTA +4.5 + Ace Bailey 10+ pa,2,0.4241,0.4337,2.31,2.42,2.18,-0.0559,1.024,2.10-2.50
