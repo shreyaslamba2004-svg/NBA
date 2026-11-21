@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ PHI,Tyler Herro pa under 24.5 + PHI win,2,0.5519,0.4491,2.23,2.34,2.27,0.0191,1.034,2.10-2.50
-MIL @ PHI,Brayden Burries pa under 14.5 + PHI win,2,0.5511,0.444,2.25,2.36,2.29,0.0166,1.028,2.10-2.50
-MIL @ PHI,Tyler Herro pr under 24.5 + PHI win,2,0.5407,0.4464,2.24,2.35,2.26,0.0085,1.027,2.10-2.50
-MIL @ PHI,Brayden Burries ast under 3.5 + PHI win,2,0.5885,0.5194,1.93,2.02,1.88,-0.0258,1.01,1.85-2.10
+MIL @ PHI,Brayden Burries pa under 14.5 + PHI win,2,0.5511,0.444,2.25,2.36,2.31,0.0245,1.028,2.10-2.50
+MIL @ PHI,Tyler Herro pa under 24.5 + PHI win,2,0.5519,0.4551,2.2,2.31,2.25,0.0232,1.034,2.10-2.50
+MIL @ PHI,Tyler Herro pra under 28.5 + PHI win,2,0.5398,0.4452,2.25,2.36,2.3,0.0227,1.033,2.10-2.50
+MIL @ PHI,Brayden Burries ast under 3.5 + PHI win,2,0.5885,0.5111,1.96,2.05,1.93,-0.0142,1.01,1.85-2.10
 MIL @ PHI,Brayden Burries pa under 14.5 + Anfernee Simons 1+ 3pm,2,0.7206,0.4642,2.15,2.26,2.07,-0.0387,0.999,1.85-2.10
-MIL @ PHI,Brayden Burries pa under 14.5 + VJ Edgecombe 10+ pa,2,0.7208,0.4698,2.13,2.23,2.04,-0.04,1.0,1.85-2.10
-MIL @ PHI,PHI win + VJ Edgecombe 20+ pra,2,0.6174,0.6283,1.59,1.67,1.51,-0.0515,1.016,1.50-1.65
-MIL @ PHI,Brayden Burries ast under 3.5 + Anfernee Simons 1+ 3pm,2,0.7856,0.5544,1.8,1.89,1.7,-0.0595,1.001,1.65-1.85
-MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 10+ pa,2,0.7835,0.5593,1.79,1.88,1.67,-0.0638,0.999,1.65-1.85
-MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 4+ reb,2,0.7146,0.5147,1.94,2.04,1.81,-0.0661,0.998,1.65-1.85
-MIL @ PHI,Anfernee Simons 10+ pa + VJ Edgecombe 20+ pra,2,0.7633,0.585,1.71,1.79,1.58,-0.0731,1.007,1.50-1.65
-MIL @ PHI,Anfernee Simons 10+ pa + VJ Edgecombe 10+ pts,2,0.7665,0.6021,1.66,1.74,1.53,-0.0793,1.005,1.50-1.65
+MIL @ PHI,Brayden Burries pa under 14.5 + VJ Edgecombe 10+ pa,2,0.7208,0.4713,2.12,2.23,2.04,-0.0407,1.0,1.85-2.10
+MIL @ PHI,PHI win + VJ Edgecombe 20+ pra,2,0.6174,0.6283,1.59,1.67,1.52,-0.0442,1.016,1.50-1.65
+MIL @ PHI,Brayden Burries ast under 3.5 + Anfernee Simons 1+ 3pm,2,0.7856,0.5455,1.83,1.92,1.73,-0.0556,1.001,1.65-1.85
+MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 10+ pa,2,0.7835,0.5522,1.81,1.9,1.7,-0.0605,0.999,1.65-1.85
+MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 1+ 3pm,2,0.7309,0.5206,1.92,2.02,1.8,-0.0623,0.999,1.65-1.85
+MIL @ PHI,Anfernee Simons 10+ pa + VJ Edgecombe 20+ pra,2,0.7633,0.5836,1.71,1.8,1.59,-0.0727,1.007,1.50-1.65
+MIL @ PHI,Anfernee Simons 10+ pa + VJ Edgecombe 10+ pts,2,0.7665,0.5981,1.67,1.76,1.54,-0.078,1.005,1.50-1.65
 POR @ NYK,NYK win + Jrue Holiday stl under 1.5,2,0.5038,0.4229,2.36,2.48,2.41,0.0193,1.002,2.10-2.50
 POR @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5389,0.5022,1.99,2.09,2.01,0.0111,1.016,1.85-2.10
 POR @ NYK,NYK win + Mikal Bridges 10+ pr,2,0.5616,0.5172,1.93,2.03,1.95,0.0075,1.01,1.85-2.10
