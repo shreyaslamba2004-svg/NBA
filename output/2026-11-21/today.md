@@ -1,6 +1,6 @@
 # NBA model · Sat 21 Nov 2026 (US date)
 
-Updated **Sat 21 Nov, 09:11 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 21 Nov, 09:36 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -458,9 +458,9 @@ Out: Dylan Harper (SAS), Tobias Harris (SAS), Bennedict Mathurin (NOP), Bryce Mc
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Saddiq Bey | 98% | 31.5<br><sub>29,35,41,33,42</sub> | 14.8<br><sub>15,30,16,23,10</sub> |  | 4.7<br><sub>1,10,6,6,8</sub> |  | 2.6<br><sub>2,0,4,3,6</sub> |  | 2.0<br><sub>3,6,2,5,2</sub> |  | 0.8 | 0.2 | 1.0 | 22.1 |
-| Zion Williamson | 98% | 30.4<br><sub>30,33,31,25,32</sub> | 18.4<br><sub>29,22,24,16,24</sub> |  | 5.4<br><sub>4,5,6,6,7</sub> |  | 2.8<br><sub>2,4,2,2,1</sub> |  | 0.3<br><sub>1,0,2,0,0</sub> |  | 1.1 | 0.5 | 2.0 | 26.6 |
+| Zion Williamson | 98% | 30.4<br><sub>30,33,31,25,32</sub> | 18.4<br><sub>29,22,24,16,24</sub> | 19.5 · –<br><sub>o 49% · u 51%</sub> | 5.4<br><sub>4,5,6,6,7</sub> |  | 2.8<br><sub>2,4,2,2,1</sub> |  | 0.3<br><sub>1,0,2,0,0</sub> |  | 1.1 | 0.5 | 2.0 | 26.6 |
 | Trey Murphy III | 98% | 30.3<br><sub>-,-,-,-,-</sub> | 14.5<br><sub>-,-,-,-,-</sub> |  | 4.3<br><sub>-,-,-,-,-</sub> |  | 3.1<br><sub>-,-,-,-,-</sub> |  | 2.1<br><sub>-,-,-,-,-</sub> |  | 1.0 | 0.4 | 1.4 | 22.0 |
-| Jeremiah Fears | 99% | 29.5<br><sub>28,34,33,29,31</sub> | 15.1<br><sub>14,18,13,19,16</sub> |  | 4.4<br><sub>4,5,4,10,5</sub> |  | 4.9<br><sub>5,7,7,10,4</sub> |  | 1.4<br><sub>2,0,1,1,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.1 | 0.5 | 2.6 | 24.4 |
+| Jeremiah Fears | 99% | 29.5<br><sub>28,34,33,29,31</sub> | 15.1<br><sub>14,18,13,19,16</sub> | 16.5 · –<br><sub>o 47% · u 53%</sub> | 4.4<br><sub>4,5,4,10,5</sub> |  | 4.9<br><sub>5,7,7,10,4</sub> |  | 1.4<br><sub>2,0,1,1,2</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.1 | 0.5 | 2.6 | 24.4 |
 | Herbert Jones | 98% | 24.6<br><sub>25,32,27,24,32</sub> | 7.7<br><sub>2,8,10,8,9</sub> |  | 2.8<br><sub>2,2,2,2,1</sub> |  | 2.0<br><sub>3,3,1,3,3</sub> |  | 1.0<br><sub>0,0,2,2,3</sub> |  | 1.1 | 0.4 | 1.1 | 12.5 |
 | Jordan Poole | 86% | 23.6<br><sub>21,21,24,31,30</sub> | 11.0<br><sub>14,13,14,11,22</sub> |  | 2.3<br><sub>0,2,2,2,1</sub> |  | 3.3<br><sub>1,5,5,5,5</sub> |  | 1.6<br><sub>2,1,1,1,3</sub> |  | 0.7 | 0.4 | 1.6 | 16.6 |
 | Derik Queen | 99% | 21.5<br><sub>14,23,25,21,19</sub> | 10.4<br><sub>9,10,10,17,9</sub> |  | 5.9<br><sub>0,6,5,10,5</sub> |  | 2.4<br><sub>0,2,4,0,0</sub> |  | 0.6<br><sub>1,0,2,4,0</sub> |  | 0.9 | 0.7 | 1.9 | 18.7 |
