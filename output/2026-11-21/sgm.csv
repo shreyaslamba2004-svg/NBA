@@ -1,24 +1,24 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ PHI,Tyler Herro pra under 28.5 + PHI win,2,0.5398,0.4452,2.25,2.36,2.28,0.0148,1.033,2.10-2.50
-MIL @ PHI,Tyler Herro pts under 19.5 + PHI win,2,0.5272,0.4366,2.29,2.4,2.32,0.0136,1.033,2.10-2.50
-MIL @ PHI,Tyler Herro pa under 24.5 + PHI win,2,0.5519,0.4624,2.16,2.27,2.19,0.011,1.034,2.10-2.50
-MIL @ PHI,Brayden Burries ast under 3.5 + PHI win,2,0.5885,0.5194,1.93,2.02,1.88,-0.0258,1.01,1.85-2.10
-MIL @ PHI,Brayden Burries ra under 8.5 + PHI win,2,0.5199,0.4639,2.16,2.26,2.09,-0.0288,1.007,1.85-2.10
-MIL @ PHI,Tyler Herro pra under 28.5 + Anfernee Simons 1+ 3pm,2,0.7038,0.4667,2.14,2.25,2.05,-0.0442,1.001,1.85-2.10
-MIL @ PHI,PHI win + VJ Edgecombe 20+ pra,2,0.6174,0.6314,1.58,1.66,1.5,-0.0525,1.016,1.50-1.65
-MIL @ PHI,Brayden Burries ast under 3.5 + Anfernee Simons 1+ 3pm,2,0.7856,0.5575,1.79,1.88,1.69,-0.0606,1.001,1.65-1.85
-MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 10+ pa,2,0.7835,0.5609,1.78,1.87,1.67,-0.0643,0.999,1.65-1.85
-MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 1+ 3pm,2,0.7309,0.528,1.89,1.99,1.77,-0.0659,0.999,1.65-1.85
-MIL @ PHI,PHI win + VJ Edgecombe 20+ pra + Anfernee Simons 1+ 3pm,3,0.5981,0.5649,1.77,1.86,1.6,-0.0985,1.018,1.50-1.65
-MIL @ PHI,PHI win + VJ Edgecombe 10+ pts + Anfernee Simons 1+ 3pm,3,0.6015,0.5789,1.73,1.81,1.55,-0.102,1.018,1.50-1.65
-POR @ NYK,NYK -5.5 + Karl-Anthony Towns 15+ pts,2,0.4642,0.4031,2.48,2.6,2.35,-0.0507,1.029,2.10-2.50
+MIL @ PHI,Tyler Herro pra under 28.5 + PHI win,2,0.5398,0.4405,2.27,2.38,2.31,0.0177,1.033,2.10-2.50
+MIL @ PHI,Tyler Herro pa under 24.5 + PHI win,2,0.5519,0.4551,2.2,2.31,2.23,0.0153,1.034,2.10-2.50
+MIL @ PHI,Brayden Burries pa under 14.5 + PHI win,2,0.5511,0.4531,2.21,2.32,2.23,0.0109,1.028,2.10-2.50
+MIL @ PHI,Brayden Burries ast under 3.5 + PHI win,2,0.5885,0.5139,1.95,2.04,1.9,-0.0232,1.01,1.85-2.10
+MIL @ PHI,Tyler Herro pra under 28.5 + Anfernee Simons 1+ 3pm,2,0.7038,0.4609,2.17,2.28,2.08,-0.041,1.001,1.85-2.10
+MIL @ PHI,Brayden Burries pra under 19.5 + VJ Edgecombe 10+ pa,2,0.6967,0.4611,2.17,2.28,2.07,-0.0444,0.999,1.85-2.10
+MIL @ PHI,Brayden Burries ast under 3.5 + Anfernee Simons 1+ 3pm,2,0.7856,0.5505,1.82,1.91,1.71,-0.0576,1.001,1.65-1.85
+MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 10+ pa,2,0.7835,0.5555,1.8,1.89,1.69,-0.0619,0.999,1.65-1.85
+MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 4+ reb,2,0.7146,0.5085,1.97,2.06,1.84,-0.0632,0.998,1.65-1.85
+MIL @ PHI,PHI win + VJ Edgecombe 20+ pra + Anfernee Simons 1+ 3pm,3,0.5981,0.5644,1.77,1.86,1.6,-0.0983,1.018,1.50-1.65
+MIL @ PHI,PHI win + VJ Edgecombe 10+ pts + Anfernee Simons 1+ 3pm,3,0.6015,0.5778,1.73,1.82,1.55,-0.1016,1.018,1.50-1.65
+MIL @ PHI,PHI win + VJ Edgecombe 20+ pra + LeBron James 4+ reb,3,0.5633,0.5556,1.8,1.89,1.61,-0.1075,1.017,1.50-1.65
 POR @ NYK,NYK win + Damian Lillard 3pm under 3.5,2,0.4836,0.4034,2.48,2.6,2.35,-0.0511,1.031,2.10-2.50
 POR @ NYK,Karl-Anthony Towns 4+ ast + Jrue Holiday 15+ pra,2,0.5474,0.4026,2.48,2.61,2.34,-0.0586,1.007,2.10-2.50
-POR @ NYK,NYK win + Karl-Anthony Towns 15+ pts,2,0.5826,0.5201,1.92,2.02,1.78,-0.0724,1.022,1.65-1.85
+POR @ NYK,Karl-Anthony Towns 4+ ast + Jrue Holiday 10+ pr,2,0.5816,0.4284,2.33,2.45,2.19,-0.0609,1.005,2.10-2.50
 POR @ NYK,POR +5.5 + Jrue Holiday 10+ pa,2,0.4287,0.4442,2.25,2.36,2.08,-0.0744,1.017,1.85-2.10
 POR @ NYK,Josh Hart 3pm under 1.5 + Jrue Holiday 10+ pr,2,0.5951,0.4623,2.16,2.27,1.99,-0.0796,1.002,1.85-2.10
 POR @ NYK,NYK win + Karl-Anthony Towns 25+ pr,2,0.6074,0.5387,1.86,1.95,1.71,-0.0798,1.012,1.65-1.85
 POR @ NYK,NYK -5.5 + Jrue Holiday 10+ pra,2,0.5232,0.4537,2.2,2.31,2.03,-0.0801,0.997,1.85-2.10
+POR @ NYK,NYK win + Jalen Brunson 4+ ast,2,0.5898,0.5308,1.88,1.98,1.73,-0.0832,1.011,1.65-1.85
 POR @ NYK,NYK win + Karl-Anthony Towns 15+ pa,2,0.6461,0.5729,1.75,1.83,1.6,-0.0834,1.008,1.50-1.65
 POR @ NYK,Josh Hart 3pm under 1.5 + Karl-Anthony Towns 20+ pr,2,0.6307,0.4969,2.01,2.11,1.84,-0.0854,0.998,1.65-1.85
 POR @ NYK,Jrue Holiday stl under 1.5 + Karl-Anthony Towns 15+ pa,2,0.7341,0.5966,1.68,1.76,1.52,-0.0906,1.0,1.50-1.65
