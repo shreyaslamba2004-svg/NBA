@@ -1,16 +1,22 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401910023,MIL @ PHI,prop_pts,over,Tyrese Maxey,1630178.0,39.5,draftkings,1740.0,18.4,0.1096,9.12,0.0508,0.0508,0.0588,,1.0173,0.0599,0.1013,0.0015,False,True,False,Tyrese Maxey,0.0,0.1096
 401910026,MEM @ MIN,prop_pts,over,Cam Spencer,1642285.0,19.5,draftkings,1200.0,13.0,0.1524,6.56,0.0719,0.0719,0.0805,,0.9808,0.0843,0.0957,0.002,False,True,False,,,
 401910026,MEM @ MIN,prop_pts,over,Cam Spencer,1642285.0,17.5,draftkings,760.0,8.6,0.2233,4.48,0.1087,0.1087,0.1146,,0.9205,0.1263,0.0864,0.0028,False,False,False,,,
-401910023,MIL @ PHI,prop_pts,over,Tyrese Maxey,1630178.0,39.5,draftkings,1600.0,17.0,0.1096,9.12,0.055,0.055,0.0547,,0.8638,0.0634,0.0777,0.0012,False,True,False,Tyrese Maxey,0.0,0.1096
+401910024,POR @ NYK,prop_ast,over,Karl-Anthony Towns,1626157.0,6.5,draftkings,860.0,9.6,0.1916,5.22,0.0974,0.0974,0.0942,,0.8392,0.1119,0.0739,0.0021,False,False,False,,,
+401910023,MIL @ PHI,prop_reb,over,Kentavious Caldwell-Pope,203484.0,5.5,draftkings,730.0,8.3,0.2159,4.63,0.1126,0.1126,0.1033,,0.7922,0.1285,0.0667,0.0023,False,True,False,Tyrese Maxey,0.2434,0.1921
+401910023,MIL @ PHI,prop_reb,over,Kentavious Caldwell-Pope,203484.0,6.5,draftkings,1420.0,15.2,0.1172,8.53,0.0615,0.0615,0.0557,,0.7815,0.0701,0.065,0.0011,False,False,False,,,
 401910026,MEM @ MIN,prop_pts,over,Cam Spencer,1642285.0,14.5,draftkings,354.0,4.54,0.3747,2.67,0.2059,0.2059,0.1688,,0.701,0.2319,0.0526,0.0037,True,True,False,,,
-401910023,MIL @ PHI,prop_pts,over,Tyrese Maxey,1630178.0,34.5,draftkings,650.0,7.5,0.2017,4.96,0.1246,0.1246,0.0771,,0.513,0.1365,0.0236,0.0009,False,True,False,Tyrese Maxey,0.0,0.2023
-401910024,POR @ NYK,prop_pts,over,Jalen Brunson,1628973.0,44.5,draftkings,1780.0,18.8,0.0804,12.44,0.0497,0.0497,0.0307,,0.5116,0.0544,0.0234,0.0003,False,True,False,,,
-401910023,MIL @ PHI,prop_pts,over,VJ Edgecombe,1642845.0,24.5,draftkings,990.0,10.9,0.1328,7.53,0.0857,0.0857,0.0471,,0.4478,0.093,0.0136,0.0003,False,True,False,Tyrese Maxey,0.1915,0.0853
+401910023,MIL @ PHI,prop_reb,over,Kentavious Caldwell-Pope,203484.0,7.5,draftkings,2400.0,25.0,0.0631,15.85,0.0374,0.0374,0.0257,,0.5771,0.0413,0.0335,0.0003,False,True,False,,,
+401910023,MIL @ PHI,prop_pts,over,Tyrese Maxey,1630178.0,34.5,draftkings,640.0,7.4,0.2017,4.96,0.1263,0.1263,0.0754,,0.4928,0.1379,0.0205,0.0008,False,True,False,Tyrese Maxey,0.0,0.2023
+401910023,MIL @ PHI,prop_reb,over,Anfernee Simons,1629014.0,4.5,draftkings,566.0,6.66,0.2197,4.55,0.1403,0.1403,0.0794,,0.4632,0.1526,0.016,0.0007,False,False,False,Tyrese Maxey,0.259,0.1885
+401910023,MIL @ PHI,prop_pts,over,VJ Edgecombe,1642845.0,24.5,draftkings,970.0,10.7,0.1328,7.53,0.0873,0.0873,0.0455,,0.4212,0.0943,0.0095,0.0002,False,True,False,Tyrese Maxey,0.1915,0.0853
 401910023,MIL @ PHI,prop_pa,under,Tyler Herro,1629639.0,24.5,draftkings,-110.0,1.91,0.7439,1.34,0.4895,0.4895,0.2544,,0.4203,0.5287,0.0094,0.0026,True,True,True,,,
 401910023,MIL @ PHI,prop_pa,under,Brayden Burries,905082206.0,14.5,draftkings,-111.0,1.9,0.7466,1.34,0.4917,0.4917,0.255,,0.4193,0.5309,0.0092,0.0026,True,True,True,,,
-401910023,MIL @ PHI,prop_pts,over,VJ Edgecombe,1642845.0,29.5,draftkings,2600.0,27.0,0.0524,19.08,0.0346,0.0346,0.0178,,0.4154,0.0374,0.0086,0.0001,False,True,False,Tyrese Maxey,0.0824,0.0283
-401910023,MIL @ PHI,prop_pra,under,Tyler Herro,1629639.0,28.5,draftkings,-106.0,1.94,0.728,1.37,0.4809,0.4809,0.2471,,0.4148,0.519,0.0085,0.0023,True,True,True,,,
 401910023,MIL @ PHI,prop_pts,under,Tyler Herro,1629639.0,20.5,draftkings,-114.0,1.88,0.7495,1.33,0.4979,0.4979,0.2517,,0.407,0.5366,0.0073,0.0021,True,True,True,,,
 401910023,MIL @ PHI,prop_pr,under,Tyler Herro,1629639.0,24.5,draftkings,-111.0,1.9,0.7334,1.36,0.4917,0.4917,0.2418,,0.3942,0.5289,0.0054,0.0015,True,True,True,,,
-401910023,MIL @ PHI,prop_pra,under,Brayden Burries,905082206.0,20.5,draftkings,-123.0,1.81,0.7669,1.3,0.5155,0.5155,0.2514,,0.3904,0.5542,0.0048,0.0015,True,True,True,,,
-401910023,MIL @ PHI,prop_ra,under,Brayden Burries,905082206.0,8.5,draftkings,-112.0,1.89,0.7193,1.39,0.4949,0.4949,0.2244,6.75,0.3616,0.5295,0.0022,0.0006,True,True,True,,,
+401910023,MIL @ PHI,prop_reb,over,Kentavious Caldwell-Pope,203484.0,3.5,draftkings,162.0,2.62,0.5318,1.88,0.3567,0.3567,0.1751,,0.3933,0.3837,0.0052,0.0008,True,True,False,Tyrese Maxey,0.5652,0.496
+401910023,MIL @ PHI,prop_reb,over,Joel Embiid,203954.0,14.5,draftkings,1480.0,15.8,0.0878,11.4,0.0592,0.0592,0.0286,,0.3865,0.0636,0.0042,0.0001,False,False,False,,,
+401910023,MIL @ PHI,prop_pra,under,Brayden Burries,905082206.0,20.5,draftkings,-125.0,1.8,0.7669,1.3,0.5192,0.5192,0.2477,,0.3804,0.5574,0.0032,0.001,True,True,True,,,
+401910023,MIL @ PHI,prop_reb,over,Anfernee Simons,1629014.0,3.5,draftkings,261.0,3.61,0.3806,2.63,0.2589,0.2589,0.1217,,0.3738,0.2776,0.0022,0.0002,False,True,False,Tyrese Maxey,0.4296,0.3388
+401910023,MIL @ PHI,prop_pra,under,Tyler Herro,1629639.0,29.5,draftkings,-125.0,1.8,0.7632,1.31,0.5192,0.5192,0.244,,0.3738,0.5568,0.0022,0.0007,True,True,True,,,
+401910023,MIL @ PHI,prop_reb,over,Joel Embiid,203954.0,13.5,draftkings,960.0,10.6,0.1291,7.75,0.0882,0.0882,0.0409,,0.3681,0.0945,0.0013,0.0,False,True,False,,,

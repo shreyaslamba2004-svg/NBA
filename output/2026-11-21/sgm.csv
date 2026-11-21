@@ -1,43 +1,46 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 MIL @ PHI,Tyler Herro pa under 24.5 + PHI win,2,0.5519,0.455,2.2,2.31,2.2,0.0023,1.034,2.10-2.50
-MIL @ PHI,Tyler Herro pra under 28.5 + PHI win,2,0.5398,0.4464,2.24,2.35,2.24,0.001,1.033,2.10-2.50
 MIL @ PHI,Brayden Burries pa under 14.5 + PHI win,2,0.5511,0.4546,2.2,2.31,2.19,-0.0029,1.028,2.10-2.50
-MIL @ PHI,Brayden Burries pra under 20.5 + PHI win,2,0.5611,0.4704,2.13,2.23,2.09,-0.0159,1.019,1.85-2.10
-MIL @ PHI,Brayden Burries ast under 3.5 + PHI win,2,0.5885,0.518,1.93,2.03,1.86,-0.0378,1.01,1.85-2.10
-MIL @ PHI,Tyler Herro pa under 24.5 + Anfernee Simons 1+ 3pm,2,0.7187,0.4735,2.11,2.22,2.02,-0.043,1.0,1.85-2.10
-MIL @ PHI,Brayden Burries ast under 3.5 + Anfernee Simons 1+ 3pm,2,0.7856,0.5526,1.81,1.9,1.7,-0.0581,1.001,1.65-1.85
-MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 1+ 3pm,2,0.7309,0.5226,1.91,2.01,1.79,-0.0632,0.999,1.65-1.85
-MIL @ PHI,PHI win + VJ Edgecombe 10+ pts + Anfernee Simons 1+ 3pm,3,0.6015,0.5855,1.71,1.79,1.51,-0.1161,1.018,1.50-1.65
+MIL @ PHI,Tyler Herro pts under 20.5 + PHI win,2,0.5527,0.4591,2.18,2.29,2.17,-0.0057,1.027,2.10-2.50
+MIL @ PHI,Tyler Herro pra under 29.5 + PHI win,2,0.5631,0.4765,2.1,2.2,2.08,-0.0103,1.028,1.85-2.10
+MIL @ PHI,Brayden Burries pra under 20.5 + PHI win,2,0.5611,0.4731,2.11,2.22,2.08,-0.0174,1.019,1.85-2.10
+MIL @ PHI,Tyler Herro 3pm under 2.5 + PHI win,2,0.5104,0.4664,2.14,2.25,2.07,-0.0348,1.022,1.85-2.10
+MIL @ PHI,Brayden Burries ast under 3.5 + Anfernee Simons 1+ 3pm,2,0.7856,0.5516,1.81,1.9,1.71,-0.0578,1.001,1.65-1.85
+MIL @ PHI,Brayden Burries ast under 3.5 + VJ Edgecombe 1+ 3pm,2,0.7309,0.5231,1.91,2.01,1.79,-0.0633,0.999,1.65-1.85
+MIL @ PHI,Brayden Burries ast under 3.5 + Joel Embiid 6+ reb,2,0.7008,0.5069,1.97,2.07,1.85,-0.0641,1.0,1.65-1.85
+MIL @ PHI,PHI win + VJ Edgecombe 10+ pts + Anfernee Simons 1+ 3pm,3,0.6015,0.5885,1.7,1.78,1.5,-0.1169,1.018,1.50-1.65
+MIL @ PHI,PHI win + VJ Edgecombe 10+ pts + LeBron James 4+ reb,3,0.5666,0.5747,1.74,1.83,1.52,-0.1246,1.017,1.50-1.65
+MIL @ PHI,PHI win + VJ Edgecombe 10+ pts + Joel Embiid 6+ reb,3,0.5353,0.5394,1.85,1.95,1.62,-0.1249,1.015,1.50-1.65
 POR @ NYK,NYK win + Damian Lillard 3pm under 3.5,2,0.4804,0.3987,2.51,2.63,2.38,-0.0518,1.031,2.10-2.50
 POR @ NYK,NYK win + Toumani Camara 3pm under 2.5,2,0.4644,0.3966,2.52,2.65,2.37,-0.0587,1.029,2.10-2.50
-POR @ NYK,NYK win + Sidy Cissoko 3pm under 1.5,2,0.4898,0.4211,2.37,2.49,2.21,-0.0676,1.021,2.10-2.50
-POR @ NYK,NYK win + Karl-Anthony Towns 1+ 3pm,2,0.5854,0.5307,1.88,1.98,1.71,-0.0902,1.007,1.65-1.85
-POR @ NYK,Damian Lillard 3pm under 3.5 + Karl-Anthony Towns 1+ 3pm,2,0.5818,0.4958,2.02,2.12,1.82,-0.0984,1.001,1.65-1.85
-POR @ NYK,Josh Hart 3pm under 1.5 + Karl-Anthony Towns 1+ 3pm,2,0.5589,0.4696,2.13,2.24,1.92,-0.099,0.997,1.85-2.10
-POR @ NYK,Toumani Camara 3pm under 2.5 + Karl-Anthony Towns 1+ 3pm,2,0.5649,0.4956,2.02,2.12,1.81,-0.1008,1.004,1.65-1.85
-POR @ NYK,Toumani Camara pts under 12.5 + Karl-Anthony Towns 1+ 3pm,2,0.4809,0.4317,2.32,2.43,2.07,-0.107,1.002,1.85-2.10
-LAC @ DAL,Max Strus 3pm under 2.5 + DAL win,2,0.4209,0.4259,2.35,2.47,2.26,-0.0364,1.03,2.10-2.50
-LAC @ DAL,DAL win + Naji Marshall 10+ pts,2,0.3844,0.4437,2.25,2.37,2.15,-0.0448,1.05,2.10-2.50
-LAC @ DAL,DAL win + Derrick Jones Jr. 3pm under 1.5,2,0.3848,0.4285,2.33,2.45,2.2,-0.0566,1.029,2.10-2.50
-LAC @ DAL,Max Strus 3pm under 2.5 + Darius Garland 2+ 3pm,2,0.5981,0.4405,2.27,2.38,2.1,-0.0755,0.995,1.85-2.10
-LAC @ DAL,Max Strus pts under 10.5 + Darius Garland 1+ 3pm,2,0.5906,0.449,2.23,2.34,2.06,-0.0761,1.0,1.85-2.10
+POR @ NYK,NYK win + Sidy Cissoko 3pm under 1.5,2,0.4898,0.4161,2.4,2.52,2.25,-0.0652,1.021,2.10-2.50
+POR @ NYK,NYK win + Jalen Brunson 4+ ast,2,0.5886,0.5342,1.87,1.97,1.71,-0.0841,1.014,1.65-1.85
+POR @ NYK,Josh Hart 3pm under 1.5 + Jrue Holiday 1+ 3pm,2,0.5927,0.4805,2.08,2.19,1.9,-0.0875,1.003,1.85-2.10
+POR @ NYK,NYK win + Karl-Anthony Towns 1+ 3pm,2,0.5854,0.5315,1.88,1.98,1.71,-0.0904,1.007,1.65-1.85
+POR @ NYK,NYK win + Jrue Holiday 1+ 3pm,2,0.6102,0.5338,1.87,1.97,1.7,-0.0941,0.995,1.65-1.85
+POR @ NYK,Josh Hart 3pm under 1.5 + Karl-Anthony Towns 1+ 3pm,2,0.5589,0.4704,2.13,2.23,1.92,-0.0992,0.997,1.85-2.10
+POR @ NYK,Jalen Brunson 6+ ast + Jrue Holiday 1+ 3pm,2,0.5322,0.4605,2.17,2.28,1.95,-0.0999,1.003,1.85-2.10
+LAC @ DAL,Max Strus 3pm under 2.5 + DAL win,2,0.4209,0.4192,2.39,2.5,2.3,-0.0356,1.03,2.10-2.50
+LAC @ DAL,DAL win + Derrick Jones Jr. 3pm under 1.5,2,0.3848,0.4217,2.37,2.49,2.24,-0.0558,1.029,2.10-2.50
+LAC @ DAL,Max Strus 3pm under 2.5 + Derrick Jones Jr. 3pm under 1.5,2,0.5506,0.401,2.49,2.62,2.33,-0.0666,1.002,2.10-2.50
+LAC @ DAL,Max Strus pts under 10.5 + Darius Garland 1+ 3pm,2,0.5906,0.444,2.25,2.36,2.09,-0.0737,1.0,1.85-2.10
 LAC @ DAL,Max Strus 3pm under 2.5 + Brook Lopez 1+ 3pm,2,0.619,0.4854,2.06,2.16,1.89,-0.0833,0.999,1.85-2.10
-LAC @ DAL,DAL win + Darius Garland 1+ 3pm,2,0.491,0.5764,1.74,1.82,1.56,-0.0991,0.994,1.50-1.65
-LAC @ DAL,Kyrie Irving 3pm under 3.5 + Darius Garland 1+ 3pm,2,0.6065,0.5274,1.9,1.99,1.7,-0.1031,1.0,1.65-1.85
+LAC @ DAL,Kris Dunn 5+ pts + Brook Lopez 1+ 3pm,2,0.5293,0.4334,2.31,2.42,2.1,-0.09,1.0,1.85-2.10
+LAC @ DAL,DAL win + Darius Garland 1+ 3pm,2,0.491,0.5672,1.76,1.85,1.59,-0.0983,0.994,1.50-1.65
 LAC @ DAL,Derrick Jones Jr. 3pm under 1.5 + Brook Lopez 1+ 3pm,2,0.5643,0.4868,2.05,2.16,1.84,-0.1052,0.996,1.65-1.85
-LAC @ DAL,DAL win + Brook Lopez 1+ 3pm,2,0.4153,0.4978,2.01,2.11,1.79,-0.1105,0.985,1.65-1.85
-MEM @ MIN,Cam Spencer 10+ pts + Ayo Dosunmu 1+ 3pm,2,0.6224,0.4493,2.23,2.34,2.09,-0.0589,1.005,1.85-2.10
-MEM @ MIN,Cam Spencer 10+ pts + Jaden McDaniels 10+ pts,2,0.6294,0.4521,2.21,2.32,2.08,-0.0608,1.002,1.85-2.10
-MEM @ MIN,Cam Spencer 10+ pts + Ayo Dosunmu 10+ pts,2,0.6396,0.4602,2.17,2.28,2.03,-0.0636,0.999,1.85-2.10
-MEM @ MIN,Cam Spencer 10+ pts + LaMelo Ball 2+ 3pm,2,0.6091,0.4398,2.27,2.39,2.13,-0.0647,0.999,2.10-2.50
-MEM @ MIN,Bones Hyland 3pm under 1.5 + Cam Spencer 1+ 3pm,2,0.5211,0.3792,2.64,2.77,2.47,-0.0649,1.002,2.10-2.50
-MEM @ MIN,Bones Hyland 3pm under 1.5 + Ayo Dosunmu 1+ 3pm,2,0.5543,0.4092,2.44,2.57,2.28,-0.068,1.001,2.10-2.50
-MEM @ MIN,MIN win + Jaden McDaniels 10+ pts,2,0.6417,0.5696,1.76,1.84,1.61,-0.0844,1.012,1.50-1.65
-MEM @ MIN,MIN win + Ayo Dosunmu 10+ pts,2,0.6533,0.5808,1.72,1.81,1.57,-0.0855,1.011,1.50-1.65
-MEM @ MIN,MIN win + LaMelo Ball 2+ 3pm,2,0.6223,0.5552,1.8,1.89,1.65,-0.0863,1.01,1.50-1.65
-MEM @ MIN,MIN win + Cam Spencer 1+ 3pm,2,0.5813,0.5113,1.96,2.05,1.75,-0.103,0.989,1.65-1.85
-MEM @ MIN,Jaylen Wells 10+ pts + Ayo Dosunmu 1+ 3pm,2,0.5519,0.4927,2.03,2.13,1.82,-0.1038,1.004,1.65-1.85
-MEM @ MIN,Jaylen Wells 10+ pts + Jaden McDaniels 10+ pts,2,0.5588,0.4964,2.01,2.12,1.8,-0.1046,1.003,1.65-1.85
+LAC @ DAL,DAL win + Brook Lopez 1+ 3pm,2,0.4153,0.4899,2.04,2.14,1.82,-0.1098,0.985,1.65-1.85
+MEM @ MIN,Cam Spencer 10+ pts + Ayo Dosunmu 1+ 3pm,2,0.6224,0.4502,2.22,2.33,2.09,-0.0592,1.005,1.85-2.10
+MEM @ MIN,Cam Spencer 10+ pts + LaMelo Ball 10+ pts,2,0.6558,0.4688,2.13,2.24,2.0,-0.0617,1.0,1.85-2.10
+MEM @ MIN,Cam Spencer 10+ pts + Jaden McDaniels 10+ pts,2,0.6294,0.4548,2.2,2.31,2.06,-0.0618,1.002,1.85-2.10
+MEM @ MIN,Bones Hyland 3pm under 1.5 + Cam Spencer 1+ 3pm,2,0.5211,0.376,2.66,2.79,2.49,-0.0629,1.002,2.10-2.50
+MEM @ MIN,Cam Spencer 10+ pts + LaMelo Ball 2+ 3pm,2,0.6091,0.4387,2.28,2.39,2.13,-0.0643,0.999,2.10-2.50
+MEM @ MIN,Bones Hyland 3pm under 1.5 + LaMelo Ball 2+ 3pm,2,0.5455,0.3986,2.51,2.63,2.34,-0.0664,1.0,2.10-2.50
+MEM @ MIN,MIN win + Jaden McDaniels 10+ pts,2,0.6417,0.573,1.75,1.83,1.6,-0.0854,1.012,1.50-1.65
+MEM @ MIN,MIN win + LaMelo Ball 2+ 3pm,2,0.6223,0.5538,1.81,1.9,1.65,-0.0859,1.01,1.65-1.85
+MEM @ MIN,MIN win + LaMelo Ball 10+ pts,2,0.6681,0.5902,1.69,1.78,1.55,-0.0859,1.009,1.50-1.65
+MEM @ MIN,MIN win + Ayo Dosunmu 10+ pts,2,0.6533,0.5839,1.71,1.8,1.56,-0.0865,1.011,1.50-1.65
+MEM @ MIN,MIN win + Cam Spencer 1+ 3pm,2,0.5813,0.5108,1.96,2.06,1.76,-0.1028,0.989,1.65-1.85
+MEM @ MIN,Ayo Dosunmu 2+ 3pm + Jaden McDaniels 10+ pts,2,0.5747,0.5298,1.89,1.98,1.69,-0.1051,1.007,1.65-1.85
 NOP @ SAS,SAS win + game under 227.5,2,0.403,0.4501,2.22,2.33,2.05,-0.0766,1.006,1.85-2.10
 NOP @ SAS,SAS win + game over 227.5,2,0.377,0.4442,2.25,2.36,2.05,-0.0888,0.993,1.85-2.10
 BOS @ SAC,BOS win + game under 217.5,2,0.3162,0.4247,2.35,2.47,2.19,-0.0699,1.014,2.10-2.50
