@@ -1,14 +1,28 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401910030,OKC @ MIA,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,9.5,draftkings,1360.0,14.6,0.1723,5.8,0.064,0.064,0.1083,,1.5152,0.0807,0.178,0.0033,False,True,False,Shai Gilgeous-Alexander,0.0,0.1726
+401910030,OKC @ MIA,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,10.5,draftkings,2100.0,22.0,0.1089,9.18,0.0425,0.0425,0.0664,,1.396,0.0527,0.1596,0.0019,False,False,False,Shai Gilgeous-Alexander,0.0,0.1096
+401910030,OKC @ MIA,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,8.5,draftkings,780.0,8.8,0.2564,3.9,0.1062,0.1062,0.1502,,1.256,0.1293,0.1381,0.0044,True,False,False,Shai Gilgeous-Alexander,0.0,0.2612
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,24.5,draftkings,1520.0,16.2,0.1228,8.14,0.0577,0.0577,0.0652,,0.99,0.0677,0.0971,0.0016,False,True,False,,,
+401910032,DEN @ CHI,prop_pa,over,Jamal Murray,1627750.0,44.5,draftkings,1300.0,14.0,0.1382,7.23,0.0668,0.0668,0.0715,,0.9352,0.0778,0.0887,0.0017,False,True,False,,,
+401910030,OKC @ MIA,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,7.5,draftkings,413.0,5.13,0.3659,2.73,0.1822,0.1822,0.1837,,0.8771,0.2105,0.0797,0.0048,True,True,False,Shai Gilgeous-Alexander,0.0,0.3743
+401910032,DEN @ CHI,prop_pa,over,Jamal Murray,1627750.0,49.5,draftkings,2400.0,25.0,0.0746,13.41,0.0374,0.0374,0.0372,,0.8649,0.0431,0.0779,0.0008,False,True,False,,,
 401910034,IND @ NYK,prop_pts,over,Jalen Brunson,1628973.0,49.5,draftkings,2500.0,26.0,0.0666,15.0,0.0359,0.0359,0.0307,,0.7328,0.0407,0.0575,0.0006,False,True,False,Jordan Clarkson,0.1211,0.0782
 401910034,IND @ NYK,prop_pts,over,Jalen Brunson,1628973.0,44.5,draftkings,1340.0,14.4,0.1168,8.56,0.0649,0.0649,0.0519,,0.6815,0.0729,0.0496,0.0009,False,True,False,Jordan Clarkson,0.1945,0.1351
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,19.5,draftkings,534.0,6.34,0.265,3.77,0.1474,0.1474,0.1176,,0.6799,0.1655,0.0494,0.0023,False,True,False,,,
-401910029,DET @ ATL,prop_pa,over,Jalen Johnson,1630552.0,44.5,draftkings,2000.0,21.0,0.073,13.69,0.0445,0.0445,0.0285,,0.5338,0.0489,0.0269,0.0003,False,True,False,,,
-401910029,DET @ ATL,prop_pts,over,Jalen Johnson,1630552.0,34.5,draftkings,1660.0,17.6,0.0863,11.58,0.0531,0.0531,0.0332,,0.5195,0.0582,0.0247,0.0004,False,True,False,,,
+401910032,DEN @ CHI,prop_ast,over,DeMar DeRozan,201942.0,5.5,draftkings,1440.0,15.4,0.1087,9.2,0.0607,0.0607,0.048,,0.6732,0.0681,0.0483,0.0008,False,True,False,,,
+401910032,DEN @ CHI,prop_pa,over,Jamal Murray,1627750.0,39.5,draftkings,587.0,6.87,0.2396,4.17,0.136,0.136,0.1035,,0.6459,0.152,0.0441,0.0019,False,True,False,,,
+401910030,OKC @ MIA,prop_ast,over,Ajay Mitchell,1642349.0,8.5,draftkings,1440.0,15.4,0.105,9.52,0.0607,0.0607,0.0443,,0.617,0.0675,0.0397,0.0007,False,False,False,Shai Gilgeous-Alexander,0.1473,0.0696
+401910030,OKC @ MIA,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,6.5,draftkings,226.0,3.26,0.4949,2.02,0.2867,0.2867,0.2082,,0.6134,0.3187,0.0391,0.0043,True,False,False,Shai Gilgeous-Alexander,0.0,0.5055
+401910030,OKC @ MIA,prop_ast,over,Ajay Mitchell,1642349.0,7.5,draftkings,750.0,8.5,0.1782,5.61,0.11,0.11,0.0683,,0.515,0.1205,0.024,0.0008,False,True,False,Shai Gilgeous-Alexander,0.2353,0.1242
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,17.5,draftkings,336.0,4.36,0.3472,2.88,0.2144,0.2144,0.1328,,0.5137,0.2348,0.0238,0.0018,False,False,False,,,
-401910029,DET @ ATL,prop_pa,over,Jalen Johnson,1630552.0,39.5,draftkings,920.0,10.2,0.1448,6.91,0.0916,0.0916,0.0531,,0.4765,0.0998,0.018,0.0005,False,True,False,Kingston Flemings,0.1919,0.1332
+401910030,OKC @ MIA,prop_ast,over,Ajay Mitchell,1642349.0,9.5,draftkings,2300.0,24.0,0.0624,16.03,0.0389,0.0389,0.0235,,0.4976,0.0426,0.0213,0.0002,False,True,False,Shai Gilgeous-Alexander,0.0896,0.0385
 401910034,IND @ NYK,prop_pts,over,Jalen Brunson,1628973.0,39.5,draftkings,620.0,7.2,0.1993,5.02,0.1298,0.1298,0.0695,,0.4348,0.1405,0.0116,0.0005,False,True,False,Jordan Clarkson,0.2972,0.2256
 401910029,DET @ ATL,prop_fg3m,under,Isaiah Joe,1630198.0,1.5,draftkings,108.0,2.08,0.6744,1.48,0.4493,0.4493,0.2251,,0.4028,0.484,0.0067,0.0015,True,True,True,,,
 401910029,DET @ ATL,prop_pa,over,Paul Reed,1630194.0,19.5,draftkings,425.0,5.25,0.267,3.75,0.178,0.178,0.089,,0.4016,0.1917,0.0065,0.0004,False,True,False,,,
 401910030,OKC @ MIA,prop_fg3m,under,Klay Thompson,202691.0,3.5,draftkings,-103.0,1.97,0.705,1.42,0.4747,0.4747,0.2303,6.88,0.3895,0.5102,0.0055,0.0014,True,True,True,Giannis Antetokounmpo,0.6299,0.7651
+401910030,OKC @ MIA,prop_reb,over,Jared McCain,1642272.0,5.5,draftkings,555.0,6.55,0.2122,4.71,0.1427,0.1427,0.0695,,0.3896,0.1534,0.0047,0.0002,False,True,False,Shai Gilgeous-Alexander,0.2436,0.1882
+401910030,OKC @ MIA,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,5.5,draftkings,119.0,2.19,0.6343,1.58,0.4267,0.4267,0.2075,,0.3891,0.4587,0.0046,0.001,True,True,True,Shai Gilgeous-Alexander,0.0,0.6417
+401910030,OKC @ MIA,prop_ast,over,Shai Gilgeous-Alexander,1628983.0,5.5,draftkings,119.0,2.19,0.6343,1.58,0.4267,0.4267,0.2075,,0.3891,0.4587,0.0046,0.001,True,True,True,Shai Gilgeous-Alexander,0.0,0.6417
+401910029,DET @ ATL,prop_pa,over,Jalen Johnson,1630552.0,44.5,draftkings,1800.0,19.0,0.073,13.69,0.0492,0.0492,0.0238,,0.3877,0.0529,0.0044,0.0001,False,True,False,,,
+401910030,OKC @ MIA,prop_ast,over,Ajay Mitchell,1642349.0,6.5,draftkings,409.0,5.09,0.2719,3.68,0.1836,0.1836,0.0883,,0.3839,0.1972,0.0038,0.0002,False,False,False,Shai Gilgeous-Alexander,0.3473,0.2058
 401910029,DET @ ATL,prop_pa,over,Paul Reed,1630194.0,24.5,draftkings,1160.0,12.6,0.109,9.17,0.0742,0.0742,0.0348,,0.3735,0.0795,0.0022,0.0,False,True,False,,,
