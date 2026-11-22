@@ -42,18 +42,18 @@ DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 10+ pra,2,0.6491,0.5113,1.
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6986,0.5611,1.78,1.87,1.63,-0.0847,1.0,1.50-1.65
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7079,0.5635,1.77,1.86,1.62,-0.0865,0.999,1.50-1.65
 DEN @ CHI,DEN win + Josh Giddey 15+ pr,2,0.5667,0.5588,1.79,1.88,1.6,-0.1058,0.985,1.50-1.65
-DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3824,0.4056,2.47,2.59,2.47,0.0,1.026,2.10-2.50
-DAL @ UTA,UTA win + Ace Bailey 10+ pa,2,0.3911,0.4355,2.3,2.41,2.27,-0.0113,1.024,2.10-2.50
+DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3824,0.4037,2.48,2.6,2.48,0.001,1.026,2.10-2.50
+DAL @ UTA,UTA win + Ace Bailey 10+ pa,2,0.3911,0.433,2.31,2.42,2.29,-0.0102,1.024,2.10-2.50
 DAL @ UTA,UTA win + Ace Bailey 15+ pra,2,0.382,0.4236,2.36,2.48,2.33,-0.0127,1.022,2.10-2.50
-DAL @ UTA,Caleb Martin ast under 2.5 + Brice Sensabaugh 10+ pa,2,0.6514,0.4752,2.1,2.21,1.96,-0.0689,1.0,1.85-2.10
+DAL @ UTA,Caleb Martin ast under 2.5 + Brice Sensabaugh 10+ pa,2,0.6514,0.473,2.11,2.22,1.97,-0.0681,1.0,1.85-2.10
 DAL @ UTA,Caleb Martin ast under 2.5 + Brice Sensabaugh 10+ pr,2,0.6869,0.505,1.98,2.08,1.84,-0.0691,1.001,1.65-1.85
-DAL @ UTA,UTA +1.5 + Ace Bailey 10+ pr,2,0.4449,0.4723,2.12,2.22,1.97,-0.0701,1.008,1.85-2.10
-DAL @ UTA,UTA +1.5 + Keyonte George 1+ 3pm,2,0.431,0.4589,2.18,2.29,2.02,-0.0711,1.008,1.85-2.10
-DAL @ UTA,Caleb Martin ast under 2.5 + Keyonte George 1+ 3pm,2,0.7002,0.5338,1.87,1.97,1.73,-0.0741,1.003,1.65-1.85
-DAL @ UTA,Caleb Martin ast under 2.5 + Ace Bailey 10+ pr,2,0.7207,0.5478,1.83,1.92,1.69,-0.0759,1.0,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.752,0.5726,1.75,1.83,1.61,-0.0786,0.999,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5682,1.76,1.85,1.62,-0.0813,1.0,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Ace Bailey 1+ 3pm,2,0.7221,0.572,1.75,1.84,1.6,-0.0838,1.001,1.50-1.65
+DAL @ UTA,UTA +1.5 + Keyonte George 1+ 3pm,2,0.431,0.4595,2.18,2.29,2.02,-0.0713,1.008,1.85-2.10
+DAL @ UTA,Naji Marshall ra under 7.5 + Brice Sensabaugh 10+ pa,2,0.5981,0.4499,2.22,2.33,2.06,-0.0725,1.001,1.85-2.10
+DAL @ UTA,Caleb Martin ast under 2.5 + Brice Sensabaugh 1+ 3pm,2,0.6658,0.5012,2.0,2.09,1.85,-0.0732,1.001,1.65-1.85
+DAL @ UTA,Caleb Martin ast under 2.5 + Keyonte George 1+ 3pm,2,0.7002,0.5344,1.87,1.96,1.73,-0.0744,1.003,1.65-1.85
+DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.752,0.5732,1.74,1.83,1.61,-0.0789,0.999,1.50-1.65
+DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5696,1.76,1.84,1.61,-0.0818,1.0,1.50-1.65
+DAL @ UTA,Josh Green 3pm under 1.5 + Ace Bailey 1+ 3pm,2,0.7221,0.5704,1.75,1.84,1.61,-0.0834,1.001,1.50-1.65
 IND @ NYK,NYK win + Jalen Brunson 3+ 3pm,2,0.4273,0.3909,2.56,2.69,2.46,-0.0375,1.021,2.10-2.50
 IND @ NYK,Josh Hart reb under 8.5 + Jalen Brunson 1+ 3pm,2,0.6215,0.4463,2.24,2.35,2.1,-0.0621,1.001,2.10-2.50
 IND @ NYK,NYK -8.5 + Jalen Brunson 1+ 3pm,2,0.4733,0.455,2.2,2.31,2.04,-0.0712,1.009,1.85-2.10
