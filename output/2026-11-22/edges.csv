@@ -11,75 +11,76 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910032,DEN @ CHI,prop_pa,over,Jamal Murray,1627750.0,49.5,draftkings,2200.0,23.0,0.0777,12.88,0.0406,0.0406,0.037,,0.7863,0.0463,0.0657,0.0007,False,True,False,,,
 401910034,IND @ NYK,prop_ast,over,Karl-Anthony Towns,1626157.0,5.5,draftkings,518.0,6.18,0.2884,3.47,0.1512,0.1512,0.1371,,0.7821,0.1723,0.0651,0.0031,False,True,False,Karl-Anthony Towns,0.0,0.2942
 401910032,DEN @ CHI,prop_pra,over,Jamal Murray,1627750.0,54.5,draftkings,2100.0,22.0,0.0806,12.41,0.0425,0.0425,0.0381,,0.7735,0.0484,0.0638,0.0008,False,True,False,,,
+401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,12.5,draftkings,1400.0,15.0,0.1181,8.47,0.0623,0.0623,0.0558,,0.7718,0.0709,0.0635,0.0011,False,False,False,,,
 401910032,DEN @ CHI,prop_pra,over,Jamal Murray,1627750.0,49.5,draftkings,1100.0,12.0,0.1462,6.84,0.0779,0.0779,0.0683,,0.7543,0.0884,0.0608,0.0014,False,True,False,,,
+401910035,BOS @ GSW,prop_pra,over,Jayson Tatum,1628369.0,59.5,draftkings,1560.0,16.6,0.1053,9.5,0.0563,0.0563,0.049,,0.748,0.0638,0.0598,0.001,False,True,False,,,
 401910033,DAL @ UTA,prop_pts,over,Daniel Gafford,1629655.0,19.5,draftkings,2200.0,23.0,0.0755,13.25,0.0406,0.0406,0.0348,,0.7356,0.046,0.0579,0.0007,False,True,False,P.J. Washington,0.0946,0.0474
+401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,11.5,draftkings,870.0,9.7,0.177,5.65,0.0963,0.0963,0.0807,,0.7172,0.1088,0.0551,0.0016,False,True,False,,,
 401910033,DAL @ UTA,prop_pts,over,Daniel Gafford,1629655.0,14.5,draftkings,620.0,7.2,0.2379,4.2,0.1298,0.1298,0.1081,,0.7131,0.1465,0.0545,0.0022,False,True,False,P.J. Washington,0.2704,0.1789
 401910033,DAL @ UTA,prop_pr,over,Daniel Gafford,1629655.0,29.5,draftkings,2300.0,24.0,0.0711,14.06,0.0389,0.0389,0.0322,,0.7066,0.0439,0.0535,0.0006,False,True,False,P.J. Washington,0.0899,0.045
-401910035,BOS @ GSW,prop_pra,over,Jayson Tatum,1628369.0,59.5,draftkings,1500.0,16.0,0.1053,9.5,0.0584,0.0584,0.0469,,0.6848,0.0656,0.0501,0.0008,False,True,False,,,
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,24.5,draftkings,1260.0,13.6,0.1221,8.19,0.0687,0.0687,0.0534,,0.6605,0.0769,0.0464,0.0009,False,True,False,,,
 401910034,IND @ NYK,prop_pra,over,Karl-Anthony Towns,1626157.0,59.5,draftkings,2300.0,24.0,0.0691,14.47,0.0389,0.0389,0.0302,,0.6582,0.0436,0.046,0.0005,False,True,False,Karl-Anthony Towns,0.0,0.067
 401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,5.5,draftkings,730.0,8.3,0.1969,5.08,0.1126,0.1126,0.0843,,0.6343,0.1256,0.0423,0.0015,False,True,False,Pascal Siakam,0.0,0.1948
 401910033,DAL @ UTA,prop_pa,over,Daniel Gafford,1629655.0,14.5,draftkings,367.0,4.67,0.3456,2.89,0.2001,0.2001,0.1455,,0.614,0.2225,0.0392,0.0027,False,True,False,P.J. Washington,0.3972,0.2753
 401910033,DAL @ UTA,prop_reb,over,Daniel Gafford,1629655.0,11.5,draftkings,1300.0,14.0,0.1151,8.69,0.0668,0.0668,0.0483,,0.6109,0.0742,0.0387,0.0007,False,True,False,P.J. Washington,0.1358,0.0891
-401910035,BOS @ GSW,prop_pra,over,Jayson Tatum,1628369.0,64.5,draftkings,2600.0,27.0,0.0596,16.77,0.0346,0.0346,0.025,,0.6097,0.0385,0.0386,0.0004,False,True,False,,,
-401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,12.5,draftkings,1260.0,13.6,0.1181,8.47,0.0687,0.0687,0.0494,,0.6064,0.0763,0.038,0.0008,False,False,False,,,
+401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,10.5,draftkings,536.0,6.36,0.2527,3.96,0.1469,0.1469,0.1057,,0.607,0.1632,0.0381,0.0018,False,False,False,,,
 401910032,DEN @ CHI,prop_pts,over,Jamal Murray,1627750.0,34.5,draftkings,730.0,8.3,0.1919,5.21,0.1126,0.1126,0.0793,,0.5928,0.1248,0.0359,0.0012,False,True,False,,,
+401910035,BOS @ GSW,prop_pa,over,Jayson Tatum,1628369.0,49.5,draftkings,1340.0,14.4,0.1103,9.06,0.0649,0.0649,0.0454,,0.5888,0.0719,0.0353,0.0007,False,True,False,,,
 401910033,DAL @ UTA,prop_pr,over,Daniel Gafford,1629655.0,19.5,draftkings,296.0,3.96,0.4004,2.5,0.236,0.236,0.1643,,0.5854,0.2613,0.0348,0.0029,True,True,False,P.J. Washington,0.454,0.3173
 401910033,DAL @ UTA,prop_reb,over,Daniel Gafford,1629655.0,10.5,draftkings,830.0,9.3,0.1703,5.87,0.1005,0.1005,0.0698,,0.5835,0.1112,0.0345,0.001,False,False,False,P.J. Washington,0.1997,0.1331
-401910035,BOS @ GSW,prop_pa,over,Jayson Tatum,1628369.0,54.5,draftkings,2500.0,26.0,0.0608,16.45,0.0359,0.0359,0.0248,,0.5805,0.0398,0.0341,0.0003,False,True,False,,,
+401910035,BOS @ GSW,prop_pr,over,Jayson Tatum,1628369.0,54.5,draftkings,2000.0,21.0,0.0749,13.35,0.0445,0.0445,0.0304,,0.5736,0.0492,0.033,0.0004,False,True,False,,,
+401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,13.5,draftkings,1060.0,11.6,0.135,7.41,0.0806,0.0806,0.0544,,0.5656,0.0889,0.0318,0.0007,False,True,False,,,
 401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,6.5,draftkings,1400.0,15.0,0.1044,9.58,0.0623,0.0623,0.0421,,0.5655,0.0688,0.0317,0.0006,False,False,False,Pascal Siakam,0.0,0.1068
+401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,13.5,draftkings,2000.0,21.0,0.0745,13.43,0.0445,0.0445,0.03,,0.5639,0.0491,0.0315,0.0004,False,True,False,,,
 401910033,DAL @ UTA,prop_reb,over,Daniel Gafford,1629655.0,12.5,draftkings,1940.0,20.4,0.0766,13.06,0.0458,0.0458,0.0308,,0.5622,0.0506,0.0312,0.0004,False,False,False,,,
 401910033,DAL @ UTA,prop_pa,over,Brice Sensabaugh,1641729.0,29.5,draftkings,1780.0,18.8,0.0829,12.06,0.0497,0.0497,0.0332,,0.5588,0.0548,0.0307,0.0004,False,True,False,,,
-401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,11.5,draftkings,780.0,8.8,0.177,5.65,0.1062,0.1062,0.0708,,0.5578,0.1171,0.0306,0.001,False,True,False,,,
-401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,13.5,draftkings,1980.0,20.8,0.0745,13.43,0.0449,0.0449,0.0295,,0.549,0.0495,0.0292,0.0004,False,True,False,,,
 401910033,DAL @ UTA,prop_pa,over,Brice Sensabaugh,1641729.0,24.5,draftkings,730.0,8.3,0.1861,5.37,0.1126,0.1126,0.0735,,0.5447,0.1239,0.0285,0.001,False,True,False,,,
-401910035,BOS @ GSW,prop_pa,over,Jayson Tatum,1628369.0,49.5,draftkings,1300.0,14.0,0.1103,9.06,0.0668,0.0668,0.0436,,0.5447,0.0735,0.0285,0.0005,False,True,False,,,
-401910035,BOS @ GSW,prop_pr,over,Jayson Tatum,1628369.0,54.5,draftkings,1960.0,20.6,0.0749,13.35,0.0454,0.0454,0.0296,,0.5436,0.0499,0.0284,0.0004,False,True,False,,,
 401910034,IND @ NYK,prop_reb,over,Karl-Anthony Towns,1626157.0,19.5,draftkings,990.0,10.9,0.1415,7.06,0.0857,0.0857,0.0558,,0.5428,0.0943,0.0283,0.0007,False,True,False,Karl-Anthony Towns,0.0,0.1454
 401910035,BOS @ GSW,prop_pr,over,Jayson Tatum,1628369.0,49.5,draftkings,1060.0,11.6,0.133,7.52,0.0806,0.0806,0.0524,,0.5425,0.0886,0.0282,0.0007,False,True,False,,,
+401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,14.5,draftkings,1520.0,16.2,0.0951,10.51,0.0577,0.0577,0.0374,,0.541,0.0635,0.028,0.0005,False,False,False,,,
+401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,12.5,draftkings,690.0,7.9,0.1936,5.17,0.1183,0.1183,0.0753,,0.5294,0.1299,0.0262,0.0009,False,False,False,,,
 401910033,DAL @ UTA,prop_pr,over,Brice Sensabaugh,1641729.0,29.5,draftkings,1140.0,12.4,0.1234,8.11,0.0754,0.0754,0.048,,0.5297,0.0828,0.0262,0.0006,False,True,False,,,
 401910034,IND @ NYK,prop_ast,over,Karl-Anthony Towns,1626157.0,4.5,draftkings,246.0,3.46,0.4408,2.27,0.2701,0.2701,0.1707,,0.5252,0.2964,0.0255,0.0026,True,False,False,Karl-Anthony Towns,0.0,0.4473
+401910035,BOS @ GSW,prop_pa,over,Jayson Tatum,1628369.0,54.5,draftkings,2400.0,25.0,0.0608,16.45,0.0374,0.0374,0.0234,,0.5197,0.041,0.0247,0.0003,False,True,False,,,
 401910034,IND @ NYK,prop_ast,over,Andrew Nembhard,1629614.0,12.5,draftkings,1560.0,16.6,0.0913,10.95,0.0563,0.0563,0.035,,0.5154,0.0617,0.024,0.0004,False,False,False,,,
 401910035,BOS @ GSW,prop_pra,over,Jayson Tatum,1628369.0,54.5,draftkings,760.0,8.6,0.176,5.68,0.1087,0.1087,0.0673,,0.5132,0.119,0.0237,0.0008,False,True,False,,,
 401910033,DAL @ UTA,prop_pra,over,Daniel Gafford,1629655.0,19.5,draftkings,202.0,3.02,0.5006,2.0,0.3095,0.3095,0.1911,,0.5118,0.3389,0.0235,0.0029,True,True,False,P.J. Washington,0.5649,0.4128
 401910033,DAL @ UTA,prop_reb,over,Daniel Gafford,1629655.0,9.5,draftkings,515.0,6.15,0.2457,4.07,0.152,0.152,0.0938,,0.5113,0.1664,0.0234,0.0011,False,True,False,P.J. Washington,0.2806,0.1939
 401910034,IND @ NYK,prop_ast,over,Andrew Nembhard,1629614.0,11.5,draftkings,980.0,10.8,0.1397,7.16,0.0865,0.0865,0.0532,,0.509,0.0947,0.023,0.0006,False,True,False,,,
 401910034,IND @ NYK,prop_reb,over,Karl-Anthony Towns,1626157.0,18.5,draftkings,710.0,8.1,0.1859,5.38,0.1154,0.1154,0.0705,,0.5059,0.1262,0.0226,0.0008,False,False,False,Karl-Anthony Towns,0.0,0.19
-401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,10.5,draftkings,487.0,5.87,0.2527,3.96,0.1592,0.1592,0.0935,,0.4832,0.1736,0.0191,0.001,False,False,False,,,
+401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,11.5,draftkings,458.0,5.58,0.2648,3.78,0.1675,0.1675,0.0973,,0.4777,0.1825,0.0182,0.001,False,True,False,,,
+401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,9.5,draftkings,322.0,4.22,0.3495,2.86,0.2215,0.2215,0.128,,0.4748,0.2412,0.0178,0.0014,False,True,False,,,
 401910032,DEN @ CHI,prop_pra,over,Jamal Murray,1627750.0,44.5,draftkings,503.0,6.03,0.2442,4.09,0.155,0.155,0.0892,,0.4727,0.1687,0.0174,0.0009,False,True,False,,,
 401910031,ORL @ WAS,prop_pts,over,Franz Wagner,1630532.0,44.5,draftkings,2500.0,26.0,0.0566,17.66,0.0359,0.0359,0.0207,,0.472,0.0391,0.0173,0.0002,False,True,False,,,
 401910031,ORL @ WAS,prop_ast,over,Jalen Suggs,1630591.0,7.5,draftkings,1020.0,11.2,0.13,7.69,0.0834,0.0834,0.0465,,0.4557,0.0906,0.0148,0.0004,False,True,False,,,
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,29.5,draftkings,2800.0,29.0,0.0502,19.93,0.0322,0.0322,0.0179,,0.4551,0.035,0.0147,0.0001,False,True,False,,,
 401910032,DEN @ CHI,prop_pa,over,Jamal Murray,1627750.0,39.5,draftkings,499.0,5.99,0.2423,4.13,0.156,0.156,0.0863,,0.4516,0.1693,0.0142,0.0007,False,True,False,,,
-401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,14.5,draftkings,1420.0,15.2,0.0951,10.51,0.0615,0.0615,0.0336,,0.4459,0.0667,0.0133,0.0002,False,False,False,,,
 401910031,ORL @ WAS,prop_stl,over,Anthony Black,1641710.0,3.5,draftkings,930.0,10.3,0.1393,7.18,0.0907,0.0907,0.0485,,0.4346,0.0982,0.0116,0.0003,False,True,False,,,
 401910034,IND @ NYK,prop_reb,over,Karl-Anthony Towns,1626157.0,17.5,draftkings,485.0,5.85,0.2448,4.08,0.1598,0.1598,0.0851,,0.4322,0.1729,0.0112,0.0006,False,True,False,Karl-Anthony Towns,0.0,0.2479
 401910032,DEN @ CHI,prop_stl,over,Christian Braun,1631128.0,2.5,draftkings,513.0,6.13,0.2331,4.29,0.1525,0.1525,0.0806,,0.4286,0.1649,0.0107,0.0005,False,True,False,,,
 401910031,ORL @ WAS,prop_blk,over,Anthony Davis,203076.0,2.5,draftkings,452.0,5.52,0.257,3.89,0.1693,0.1693,0.0877,,0.4185,0.1828,0.0091,0.0005,False,True,False,,,
-401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,13.5,draftkings,950.0,10.5,0.135,7.41,0.089,0.089,0.046,,0.4172,0.0961,0.0089,0.0002,False,True,False,,,
 401910033,DAL @ UTA,prop_ast,over,Daniel Gafford,1629655.0,3.5,draftkings,1080.0,11.8,0.1198,8.35,0.0792,0.0792,0.0406,,0.414,0.0855,0.0084,0.0002,False,True,False,P.J. Washington,0.1469,0.1059
+401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,14.5,draftkings,2900.0,30.0,0.0471,21.23,0.0312,0.0312,0.016,,0.4132,0.0336,0.0083,0.0001,False,False,False,,,
 401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,4.5,draftkings,329.0,4.29,0.3292,3.04,0.2179,0.2179,0.1113,,0.4122,0.235,0.0081,0.0006,False,False,False,Pascal Siakam,0.0,0.3323
-401910035,BOS @ GSW,prop_pra,under,Baylor Scheierman,1631248.0,13.5,draftkings,-104.0,1.96,0.7199,1.39,0.4765,0.4765,0.2435,,0.4122,0.5139,0.0081,0.0021,True,False,True,,,
 401910033,DAL @ UTA,prop_reb,over,Daniel Gafford,1629655.0,8.5,draftkings,319.0,4.19,0.3366,2.97,0.223,0.223,0.1136,,0.4105,0.2405,0.0079,0.0006,False,False,False,P.J. Washington,0.3807,0.2763
+401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,15.5,draftkings,2100.0,22.0,0.0641,15.6,0.0425,0.0425,0.0216,,0.41,0.0458,0.0078,0.0001,False,True,False,,,
 401910031,ORL @ WAS,prop_ast,over,Jalen Suggs,1630591.0,6.5,draftkings,540.0,6.4,0.2201,4.54,0.146,0.146,0.0741,,0.4087,0.1574,0.0076,0.0004,False,False,False,,,
 401910033,DAL @ UTA,prop_pts,over,Daniel Gafford,1629655.0,11.5,draftkings,241.0,3.41,0.4126,2.42,0.2741,0.2741,0.1385,,0.4068,0.2954,0.0073,0.0008,False,False,False,P.J. Washington,0.459,0.3397
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,19.5,draftkings,430.0,5.3,0.2653,3.77,0.1763,0.1763,0.089,,0.4062,0.19,0.0072,0.0004,False,True,False,,,
-401910032,DEN @ CHI,moneyline,CHI,,,,sportsbet,355.0,4.55,0.2873,3.48,0.2114,0.221,0.0663,3.96,0.3072,0.221,0.0055,0.0004,False,True,True,,,
+401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,10.5,draftkings,300.0,4.0,0.3496,2.86,0.2336,0.2336,0.116,,0.3985,0.2515,0.006,0.0005,False,False,False,,,
 401910031,ORL @ WAS,prop_ast,over,Jalen Suggs,1630591.0,8.5,draftkings,1800.0,19.0,0.0734,13.62,0.0492,0.0492,0.0243,,0.3953,0.0529,0.0055,0.0001,False,False,False,,,
-401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,12.5,draftkings,620.0,7.2,0.1936,5.17,0.1298,0.1298,0.0638,,0.3939,0.1396,0.0053,0.0002,False,False,False,,,
+401910032,DEN @ CHI,moneyline,CHI,,,,sportsbet,355.0,4.55,0.2873,3.48,0.2114,0.221,0.0663,3.96,0.3072,0.221,0.0055,0.0004,False,True,True,,,
 401910031,ORL @ WAS,prop_blk,over,Anthony Davis,203076.0,3.5,draftkings,1220.0,13.2,0.1055,9.48,0.0708,0.0708,0.0347,,0.3928,0.0761,0.0051,0.0001,False,True,False,,,
+401910035,BOS @ GSW,prop_pra,under,Baylor Scheierman,1631248.0,13.5,draftkings,-108.0,1.93,0.7199,1.39,0.4853,0.4853,0.2347,,0.3865,0.5214,0.0042,0.0011,True,False,True,,,
 401910034,IND @ NYK,prop_ast,over,Andrew Nembhard,1629614.0,10.5,draftkings,576.0,6.76,0.2051,4.88,0.1383,0.1383,0.0668,,0.3862,0.1485,0.0041,0.0002,False,False,False,Pascal Siakam,0.2374,0.1971
-401910035,BOS @ GSW,prop_ast,over,Payton Pritchard,1630202.0,7.5,draftkings,890.0,9.9,0.1398,7.15,0.0944,0.0944,0.0454,,0.3844,0.1014,0.0038,0.0001,False,True,False,,,
-401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,9.5,draftkings,296.0,3.96,0.3495,2.86,0.236,0.236,0.1135,,0.3839,0.2535,0.0038,0.0003,False,True,False,,,
-401910035,BOS @ GSW,prop_pa,under,Baylor Scheierman,1631248.0,9.5,draftkings,-116.0,1.86,0.7419,1.35,0.5019,0.5019,0.2399,,0.3814,0.5389,0.0034,0.001,True,False,True,,,
 401910033,DAL @ UTA,prop_pr,over,Brice Sensabaugh,1641729.0,24.5,draftkings,449.0,5.49,0.2517,3.97,0.1702,0.1702,0.0815,,0.3818,0.1828,0.0034,0.0002,False,True,False,,,
 401910034,IND @ NYK,prop_reb,over,Karl-Anthony Towns,1626157.0,16.5,draftkings,340.0,4.4,0.3128,3.2,0.2124,0.2124,0.1004,,0.3764,0.2279,0.0026,0.0002,False,False,False,Karl-Anthony Towns,0.0,0.3151
 401910034,IND @ NYK,prop_ast,over,Andrew Nembhard,1629614.0,13.5,draftkings,2300.0,24.0,0.0573,17.46,0.0389,0.0389,0.0183,,0.3745,0.0418,0.0023,0.0,False,True,False,,,
 401910035,BOS @ GSW,prop_fg3m,under,Baylor Scheierman,1631248.0,1.5,draftkings,-133.0,1.75,0.7832,1.28,0.5335,0.5335,0.2497,,0.3721,0.5719,0.002,0.0006,True,True,True,,,
 401910032,DEN @ CHI,prop_stl,over,Christian Braun,1631128.0,3.5,draftkings,1340.0,14.4,0.0952,10.5,0.0649,0.0649,0.0303,,0.3711,0.0696,0.0018,0.0,False,True,False,,,
 401910035,BOS @ GSW,moneyline,GSW,,,,sportsbet,285.0,3.85,0.3017,3.31,0.2495,0.26,0.0417,4.09,0.1615,0.26,0.0012,0.0001,False,True,True,,,
-401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,14.5,draftkings,2800.0,29.0,0.0471,21.23,0.0322,0.0322,0.0149,,0.3661,0.0345,0.001,0.0,False,False,False,,,
 401910033,DAL @ UTA,prop_ast,over,Daniel Gafford,1629655.0,2.5,draftkings,402.0,5.02,0.2718,3.68,0.1862,0.1862,0.0856,,0.3645,0.1994,0.0008,0.0,False,False,False,P.J. Washington,0.3168,0.2452
 401910031,ORL @ WAS,prop_ast,over,Trae Young,1629027.0,14.5,draftkings,1920.0,20.2,0.0675,14.81,0.0463,0.0463,0.0213,,0.3642,0.0495,0.0007,0.0,False,False,False,,,
 401910033,DAL @ UTA,prop_reb,over,Daniel Gafford,1629655.0,13.5,draftkings,2700.0,28.0,0.0487,20.55,0.0334,0.0334,0.0153,,0.3628,0.0357,0.0005,0.0,False,True,False,,,
 401910033,DAL @ UTA,prop_pts,over,Keyonte George,1641718.0,39.5,draftkings,1840.0,19.4,0.0701,14.26,0.0482,0.0482,0.022,,0.3606,0.0516,0.0002,0.0,False,True,False,,,
+401910035,BOS @ GSW,prop_pa,under,Baylor Scheierman,1631248.0,9.5,draftkings,-120.0,1.83,0.7419,1.35,0.5098,0.5098,0.2321,,0.3601,0.5455,0.0001,0.0,True,False,True,,,
