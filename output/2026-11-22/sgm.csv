@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ATL,ATL +1.5 + Onyeka Okongwu 10+ pts,2,0.3736,0.4042,2.47,2.6,2.34,-0.0546,1.03,2.10-2.50
-DET @ ATL,ATL +1.5 + Onyeka Okongwu 10+ pa,2,0.4071,0.4395,2.28,2.39,2.13,-0.0653,1.018,2.10-2.50
-DET @ ATL,DET win + Paul Reed 4+ reb,2,0.5519,0.4712,2.12,2.23,1.98,-0.0669,1.001,1.85-2.10
-DET @ ATL,DET win + Ausar Thompson 10+ pr,2,0.5644,0.4997,2.0,2.1,1.86,-0.0683,1.006,1.85-2.10
-DET @ ATL,Paul Reed 19+ pr + Onyeka Okongwu 10+ pts,2,0.5331,0.3997,2.5,2.63,2.33,-0.0694,1.004,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Paul Reed 4+ reb,2,0.6244,0.4188,2.39,2.51,2.28,-0.0466,1.001,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 10+ pra,2,0.639,0.4371,2.29,2.4,2.18,-0.0475,1.003,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 1+ 3pm,2,0.6107,0.4197,2.38,2.5,2.26,-0.0518,1.0,2.10-2.50
+DET @ ATL,DET win + Paul Reed 4+ reb,2,0.5519,0.4719,2.12,2.23,1.98,-0.0672,1.001,1.85-2.10
 DET @ ATL,ATL +1.5 + Dyson Daniels 15+ pra,2,0.4089,0.4518,2.21,2.32,2.06,-0.0715,1.015,1.85-2.10
-DET @ ATL,Paul Reed 7+ reb + Onyeka Okongwu 10+ pa,2,0.6142,0.4951,2.02,2.12,1.84,-0.0888,1.0,1.65-1.85
-DET @ ATL,Paul Reed 7+ reb + Aaron Wiggins 1+ 3pm,2,0.6057,0.4968,2.01,2.11,1.83,-0.0894,1.003,1.65-1.85
-DET @ ATL,Paul Reed 7+ reb + Ausar Thompson 10+ pr,2,0.6301,0.5219,1.92,2.01,1.74,-0.0897,1.004,1.65-1.85
+DET @ ATL,ATL +1.5 + Aaron Wiggins 10+ pra,2,0.4153,0.4537,2.2,2.31,2.05,-0.072,1.012,1.85-2.10
+DET @ ATL,Nickeil Alexander-Walker 3+ ast + Dyson Daniels 15+ pra,2,0.5981,0.5072,1.97,2.07,1.79,-0.0928,1.006,1.65-1.85
+DET @ ATL,Nickeil Alexander-Walker 3+ ast + Jalen Johnson 4+ ast,2,0.5825,0.4959,2.02,2.12,1.83,-0.0936,1.006,1.65-1.85
+DET @ ATL,Nickeil Alexander-Walker 3+ ast + Aaron Wiggins 10+ pra,2,0.6067,0.5086,1.97,2.06,1.78,-0.0945,1.002,1.65-1.85
 OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 10+ pra,2,0.5844,0.3951,2.53,2.66,2.45,-0.0328,1.018,2.10-2.50
 OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 5+ pa,2,0.6241,0.4259,2.35,2.47,2.25,-0.0404,1.012,2.10-2.50
 OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.3939,0.464,2.16,2.26,2.07,-0.0415,1.031,1.85-2.10
@@ -56,27 +56,20 @@ DAL @ UTA,Caleb Martin ast under 2.5 + Keyonte George 1+ 3pm,2,0.7002,0.5351,1.8
 DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.752,0.5741,1.74,1.83,1.6,-0.0791,0.999,1.50-1.65
 DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5698,1.76,1.84,1.61,-0.0818,1.0,1.50-1.65
 DAL @ UTA,Josh Green 3pm under 1.5 + Ace Bailey 1+ 3pm,2,0.7221,0.5713,1.75,1.84,1.6,-0.0836,1.001,1.50-1.65
-IND @ NYK,NYK win + Jalen Brunson 28+ pts,2,0.448,0.4003,2.5,2.62,2.47,-0.0118,1.05,2.10-2.50
-IND @ NYK,NYK win + Jalen Brunson 38+ pra,2,0.4452,0.4011,2.49,2.62,2.46,-0.0137,1.052,2.10-2.50
-IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4702,2.13,2.23,2.05,-0.036,1.027,1.85-2.10
-IND @ NYK,game over 214.5 + Josh Hart 10+ pa,2,0.5146,0.3919,2.55,2.68,2.44,-0.0456,1.04,2.10-2.50
-IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.611,0.5574,1.79,1.88,1.7,-0.0525,1.015,1.65-1.85
-IND @ NYK,NYK win + Josh Hart 10+ pa,2,0.5784,0.571,1.75,1.84,1.65,-0.0594,1.023,1.50-1.65
-IND @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.6063,0.5993,1.67,1.75,1.56,-0.0623,1.02,1.50-1.65
-IND @ NYK,game over 214.5 + Josh Hart 10+ pr,2,0.5882,0.4485,2.23,2.34,2.08,-0.066,1.018,1.85-2.10
-IND @ NYK,game over 214.5 + Landry Shamet 1+ 3pm,2,0.5925,0.4477,2.23,2.35,2.07,-0.0712,1.01,1.85-2.10
-IND @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.5801,0.5705,1.75,1.84,1.63,-0.0718,1.009,1.50-1.65
-IND @ NYK,Landry Shamet 10+ pts + Jalen Brunson 25+ pa,2,0.624,0.5249,1.91,2.0,1.74,-0.0869,1.011,1.65-1.85
-IND @ NYK,Landry Shamet 10+ pts + Josh Hart 10+ pr,2,0.6511,0.5491,1.82,1.91,1.66,-0.0907,1.007,1.65-1.85
+IND @ NYK,NYK win + Jalen Brunson 3+ 3pm,2,0.4273,0.4118,2.43,2.55,2.31,-0.0498,1.021,2.10-2.50
+IND @ NYK,game over 214.5 + Jalen Brunson 2+ 3pm,2,0.5151,0.3879,2.58,2.71,2.43,-0.0588,1.023,2.10-2.50
+IND @ NYK,NYK -8.5 + Jalen Brunson 2+ 3pm,2,0.4028,0.3875,2.58,2.71,2.43,-0.0599,1.022,2.10-2.50
+IND @ NYK,IND +8.5 + Jalen Brunson 1+ 3pm,2,0.471,0.4497,2.22,2.33,2.0,-0.1018,0.991,1.85-2.10
+IND @ NYK,game under 214.5 + Jalen Brunson 1+ 3pm,2,0.3416,0.4491,2.23,2.34,1.98,-0.1108,0.989,1.85-2.10
 BOS @ GSW,Baylor Scheierman ra under 6.5 + BOS win,2,0.5208,0.4095,2.44,2.56,2.37,-0.0314,0.998,2.10-2.50
 BOS @ GSW,Baylor Scheierman pr under 11.5 + BOS win,2,0.514,0.3917,2.55,2.68,2.47,-0.0328,0.99,2.10-2.50
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + BOS win,2,0.5574,0.4238,2.36,2.48,2.28,-0.0347,0.987,2.10-2.50
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Draymond Green 5+ pr,2,0.7515,0.4936,2.03,2.13,1.94,-0.0422,1.0,1.85-2.10
-BOS @ GSW,Baylor Scheierman pa under 9.5 + Draymond Green 5+ pr,2,0.7042,0.4642,2.15,2.26,2.06,-0.0433,1.0,1.85-2.10
-BOS @ GSW,Baylor Scheierman pra under 13.5 + Brandin Podziemski 15+ pra,2,0.6924,0.4603,2.17,2.28,2.07,-0.0449,0.998,1.85-2.10
+BOS @ GSW,Baylor Scheierman pra under 13.5 + Brandin Podziemski 15+ pra,2,0.6924,0.46,2.17,2.28,2.08,-0.0447,0.998,1.85-2.10
+BOS @ GSW,Baylor Scheierman pa under 9.5 + Draymond Green 5+ pr,2,0.7042,0.4699,2.13,2.23,2.03,-0.0465,1.0,1.85-2.10
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7666,0.5222,1.92,2.01,1.82,-0.0517,0.997,1.65-1.85
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 10+ pra,2,0.7662,0.5276,1.9,1.99,1.79,-0.0544,0.997,1.65-1.85
-BOS @ GSW,Baylor Scheierman pts under 7.5 + Neemias Queta 10+ pra,2,0.7147,0.5092,1.96,2.06,1.84,-0.0626,0.997,1.65-1.85
+BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 5+ pr,2,0.7391,0.5324,1.88,1.97,1.76,-0.0646,1.001,1.65-1.85
+BOS @ GSW,Baylor Scheierman reb under 4.5 + Draymond Green 5+ pr,2,0.6826,0.5051,1.98,2.08,1.84,-0.0696,1.002,1.65-1.85
 BOS @ GSW,Baylor Scheierman ast under 2.5 + Neemias Queta 5+ pa,2,0.7539,0.5632,1.78,1.86,1.64,-0.0737,0.998,1.50-1.65
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Neemias Queta 10+ pra,2,0.7539,0.5693,1.76,1.84,1.62,-0.076,0.997,1.50-1.65
-BOS @ GSW,BOS win + Neemias Queta 15+ pra,2,0.551,0.5713,1.75,1.84,1.62,-0.0764,1.014,1.50-1.65
+BOS @ GSW,BOS win + Draymond Green 5+ pr + Neemias Queta 5+ pa,3,0.6046,0.5734,1.74,1.83,1.51,-0.1356,0.999,1.50-1.65
+BOS @ GSW,BOS win + Draymond Green 5+ pr + Yaxel Lendeborg 4+ reb,3,0.5718,0.5468,1.83,1.92,1.58,-0.1367,0.999,1.50-1.65
