@@ -42,8 +42,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910031,ORL @ WAS,prop_stl,over,Anthony Black,1641710.0,3.5,draftkings,990.0,10.9,0.1417,7.06,0.0857,0.0857,0.0559,,0.5441,0.0944,0.0284,0.0007,False,True,False,,,
 401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,5.5,draftkings,690.0,7.9,0.1953,5.12,0.1183,0.1183,0.077,,0.5427,0.1302,0.0282,0.001,False,True,False,Pascal Siakam,0.0,0.1948
 401910033,DAL @ UTA,prop_reb,over,Zaccharie Risacher,905211175.0,8.5,draftkings,1840.0,19.4,0.0789,12.68,0.0482,0.0482,0.0307,,0.5306,0.0529,0.0264,0.0004,False,False,False,P.J. Washington,0.1053,0.0614
-401910033,DAL @ UTA,moneyline,UTA,,,,pointsbetau,105.0,2.05,0.4313,2.32,0.4675,0.5,-0.0687,4.34,-0.1158,0.5,0.025,0.006,False,True,True,,,
 401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,6.5,draftkings,1320.0,14.2,0.1072,9.33,0.0658,0.0658,0.0414,,0.522,0.0722,0.025,0.0005,False,False,False,Pascal Siakam,0.0,0.1068
+401910033,DAL @ UTA,moneyline,UTA,,,,pointsbetau,105.0,2.05,0.4313,2.32,0.4675,0.5,-0.0687,4.34,-0.1158,0.5,0.025,0.006,False,True,True,,,
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,24.5,draftkings,1180.0,12.8,0.1188,8.42,0.073,0.073,0.0458,,0.5207,0.0801,0.0248,0.0005,False,True,False,,,
 401910030,OKC @ MIA,prop_pts,over,Andrew Wiggins,203952.0,17.5,draftkings,700.0,8.0,0.1897,5.27,0.1168,0.1168,0.0729,,0.5179,0.1281,0.0244,0.0009,False,False,False,Giannis Antetokounmpo,0.2867,0.1227
 401910034,IND @ NYK,prop_pa,over,Jalen Brunson,1628973.0,49.5,draftkings,1040.0,11.4,0.1315,7.61,0.082,0.082,0.0495,,0.4989,0.0896,0.0215,0.0005,False,True,False,,,
@@ -79,8 +79,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910030,OKC @ MIA,prop_fg3m,under,Klay Thompson,202691.0,3.5,draftkings,101.0,2.01,0.7023,1.42,0.465,0.465,0.2373,,0.4116,0.5015,0.008,0.002,True,True,True,Giannis Antetokounmpo,0.6334,0.7614
 401910031,ORL @ WAS,prop_ast,over,Trae Young,1629027.0,14.5,draftkings,2100.0,22.0,0.0639,15.65,0.0425,0.0425,0.0214,,0.4054,0.0458,0.0071,0.0001,False,False,False,,,
 401910034,IND @ NYK,prop_pra,over,Pascal Siakam,1627783.0,44.5,draftkings,1220.0,13.2,0.1055,9.47,0.0708,0.0708,0.0347,,0.3932,0.0762,0.0052,0.0001,False,True,False,Pascal Siakam,0.0,0.103
-401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,4.5,draftkings,324.0,4.24,0.3273,3.06,0.2204,0.2204,0.1069,,0.3876,0.2369,0.0044,0.0003,False,False,False,Pascal Siakam,0.0,0.3323
 401910034,IND @ NYK,prop_pts,over,Andrew Nembhard,1629614.0,24.5,draftkings,940.0,10.4,0.1335,7.49,0.0899,0.0899,0.0436,,0.3882,0.0966,0.0044,0.0001,False,True,False,Pascal Siakam,0.1661,0.1008
+401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,4.5,draftkings,324.0,4.24,0.3273,3.06,0.2204,0.2204,0.1069,,0.3876,0.2369,0.0044,0.0003,False,False,False,Pascal Siakam,0.0,0.3323
 401910031,ORL @ WAS,prop_blk,over,Alex Sarr,1642259.0,2.5,draftkings,463.0,5.63,0.2462,4.06,0.166,0.166,0.0802,,0.3861,0.1784,0.0041,0.0002,False,True,False,,,
 401910030,OKC @ MIA,prop_reb,over,Jared McCain,1642272.0,6.5,draftkings,1100.0,12.0,0.1154,8.67,0.0779,0.0779,0.0375,,0.3844,0.0837,0.0039,0.0001,False,False,False,Shai Gilgeous-Alexander,0.1437,0.0967
 401910032,DEN @ CHI,prop_pts,over,Jamal Murray,1627750.0,29.5,draftkings,310.0,4.1,0.3365,2.97,0.2279,0.2279,0.1086,,0.3798,0.2447,0.0031,0.0003,False,True,False,,,
