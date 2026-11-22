@@ -68,8 +68,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910033,DAL @ UTA,prop_pts,over,Daniel Gafford,1629655.0,11.5,draftkings,241.0,3.41,0.4126,2.42,0.2741,0.2741,0.1385,,0.4068,0.2954,0.0073,0.0008,False,False,False,P.J. Washington,0.459,0.3397
 401910033,DAL @ UTA,prop_pts,over,Brice Sensabaugh,1641729.0,19.5,draftkings,430.0,5.3,0.2653,3.77,0.1763,0.1763,0.089,,0.4062,0.19,0.0072,0.0004,False,True,False,,,
 401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,10.5,draftkings,300.0,4.0,0.3496,2.86,0.2336,0.2336,0.116,,0.3985,0.2515,0.006,0.0005,False,False,False,,,
-401910031,ORL @ WAS,prop_ast,over,Jalen Suggs,1630591.0,8.5,draftkings,1800.0,19.0,0.0734,13.62,0.0492,0.0492,0.0243,,0.3953,0.0529,0.0055,0.0001,False,False,False,,,
 401910032,DEN @ CHI,moneyline,CHI,,,,sportsbet,355.0,4.55,0.2873,3.48,0.2114,0.221,0.0663,3.96,0.3072,0.221,0.0055,0.0004,False,True,True,,,
+401910031,ORL @ WAS,prop_ast,over,Jalen Suggs,1630591.0,8.5,draftkings,1800.0,19.0,0.0734,13.62,0.0492,0.0492,0.0243,,0.3953,0.0529,0.0055,0.0001,False,False,False,,,
 401910031,ORL @ WAS,prop_blk,over,Anthony Davis,203076.0,3.5,draftkings,1220.0,13.2,0.1055,9.48,0.0708,0.0708,0.0347,,0.3928,0.0761,0.0051,0.0001,False,True,False,,,
 401910035,BOS @ GSW,prop_pra,under,Baylor Scheierman,1631248.0,13.5,draftkings,-108.0,1.93,0.7199,1.39,0.4853,0.4853,0.2347,,0.3865,0.5214,0.0042,0.0011,True,False,True,,,
 401910034,IND @ NYK,prop_ast,over,Andrew Nembhard,1629614.0,10.5,draftkings,576.0,6.76,0.2051,4.88,0.1383,0.1383,0.0668,,0.3862,0.1485,0.0041,0.0002,False,False,False,Pascal Siakam,0.2374,0.1971
