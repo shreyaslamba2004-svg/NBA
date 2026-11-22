@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 10+ pra,2,0.5692,0.4088,2.45,2.57,2.34,-0.0437,1.019,2.10-2.50
-OKC @ MIA,Andrew Wiggins 12+ pa + Bobby Portis 10+ pra,2,0.5351,0.3879,2.58,2.71,2.46,-0.0461,1.021,2.10-2.50
-OKC @ MIA,Andrew Wiggins 15+ pra + Davion Mitchell 10+ pts,2,0.5703,0.4049,2.47,2.59,2.35,-0.0485,1.011,2.10-2.50
-OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.4648,0.4732,2.11,2.22,2.01,-0.05,1.029,1.85-2.10
-OKC @ MIA,MIA win + Andrew Wiggins 10+ pra,2,0.51,0.4777,2.09,2.2,1.99,-0.0517,1.01,1.85-2.10
-OKC @ MIA,Andrew Wiggins 15+ pra + Aday Mara 15+ pra,2,0.6393,0.4649,2.15,2.26,2.02,-0.0597,1.004,1.85-2.10
-OKC @ MIA,MIA win + Bobby Portis 5+ pa,2,0.4913,0.5072,1.97,2.07,1.84,-0.0645,1.016,1.65-1.85
-OKC @ MIA,MIA win + Jared McCain 10+ pts,2,0.5181,0.5364,1.86,1.96,1.7,-0.0876,0.992,1.65-1.85
-OKC @ MIA,MIA win + Aday Mara 15+ pra,2,0.5043,0.526,1.9,2.0,1.73,-0.0913,0.989,1.65-1.85
-OKC @ MIA,Andrew Wiggins 1+ 3pm + Davion Mitchell 10+ pts,2,0.6753,0.5858,1.71,1.79,1.54,-0.0965,1.007,1.50-1.65
-OKC @ MIA,Davion Mitchell 10+ pts + Bobby Portis 10+ pra,2,0.669,0.5882,1.7,1.79,1.53,-0.0975,1.008,1.50-1.65
-OKC @ MIA,Andrew Wiggins 1+ 3pm + Bobby Portis 10+ pra,2,0.6671,0.5856,1.71,1.79,1.54,-0.1011,1.004,1.50-1.65
+OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 10+ pra,2,0.7118,0.421,2.38,2.49,2.34,-0.0153,1.001,2.10-2.50
+OKC @ MIA,Andrew Wiggins 12+ pa + Bobby Portis 10+ pra,2,0.6788,0.4,2.5,2.62,2.46,-0.0162,1.001,2.10-2.50
+OKC @ MIA,Andrew Wiggins 15+ pra + Davion Mitchell 10+ pts,2,0.674,0.4162,2.4,2.52,2.35,-0.022,1.003,2.10-2.50
+OKC @ MIA,Andrew Wiggins 15+ pra + Aday Mara 15+ pra,2,0.7351,0.4791,2.09,2.19,2.02,-0.0311,1.004,1.85-2.10
+OKC @ MIA,Andrew Wiggins 15+ pra + Jared McCain 10+ pts,2,0.7506,0.4854,2.06,2.16,1.99,-0.0333,1.001,1.85-2.10
+OKC @ MIA,Andrew Wiggins 13+ pr + Bobby Portis 5+ pa,2,0.7446,0.4722,2.12,2.22,2.05,-0.0337,1.0,1.85-2.10
+OKC @ MIA,MIA win + Bobby Portis 5+ pa,2,0.4939,0.5094,1.96,2.06,1.84,-0.0603,1.011,1.65-1.85
+OKC @ MIA,MIA win + Davion Mitchell 1+ 3pm,2,0.476,0.5259,1.9,2.0,1.76,-0.0723,1.012,1.65-1.85
+OKC @ MIA,Bobby Portis 6+ ra + Jared McCain 10+ pts,2,0.6628,0.5154,1.94,2.04,1.79,-0.076,1.003,1.65-1.85
+OKC @ MIA,Andrew Wiggins 1+ 3pm + Davion Mitchell 10+ pts,2,0.7381,0.593,1.69,1.77,1.54,-0.0855,1.003,1.50-1.65
+OKC @ MIA,Andrew Wiggins 10+ pra + Bobby Portis 5+ pa + Aday Mara 10+ pa,3,0.7645,0.5351,1.87,1.96,1.64,-0.1232,1.001,1.50-1.65
+OKC @ MIA,Andrew Wiggins 10+ pra + Davion Mitchell 10+ pts + Aday Mara 15+ pra,3,0.7508,0.5373,1.86,1.95,1.63,-0.1248,1.003,1.50-1.65
 ORL @ WAS,game over 219.5 + Trae Young 15+ pr,2,0.6282,0.3905,2.56,2.69,2.43,-0.05,1.034,2.10-2.50
 ORL @ WAS,game over 219.5 + Kyshawn George 15+ pr,2,0.6395,0.4022,2.49,2.61,2.34,-0.0569,1.029,2.10-2.50
 ORL @ WAS,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.6299,0.3933,2.54,2.67,2.4,-0.0579,1.026,2.10-2.50
@@ -23,18 +23,18 @@ ORL @ WAS,Anthony Davis 2+ ast + Bilal Coulibaly 5+ pr,2,0.7188,0.5636,1.77,1.86
 ORL @ WAS,ORL win + AJ Dybantsa 4+ reb,2,0.6173,0.537,1.86,1.96,1.71,-0.0825,0.998,1.65-1.85
 ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6619,0.5801,1.72,1.81,1.58,-0.0862,0.996,1.50-1.65
 ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6433,0.5667,1.76,1.85,1.61,-0.0892,0.993,1.50-1.65
-DEN @ CHI,DEN win + Nikola Jokic 39+ pr,2,0.4156,0.4031,2.48,2.6,2.41,-0.0278,1.044,2.10-2.50
-DEN @ CHI,DEN win + Aaron Gordon 2+ ast,2,0.5098,0.4848,2.06,2.17,1.96,-0.0481,1.012,1.85-2.10
-DEN @ CHI,DEN win + game under 235.5,2,0.306,0.3904,2.56,2.69,2.43,-0.0498,1.007,2.10-2.50
-DEN @ CHI,DEN -10.5 + Jamal Murray 2+ 3pm,2,0.3393,0.3768,2.65,2.79,2.5,-0.0584,1.025,2.10-2.50
-DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5679,0.5962,1.68,1.76,1.56,-0.0713,1.013,1.50-1.65
-DEN @ CHI,Josh Giddey 19+ pr + Isaac Okoro 10+ pra,2,0.5734,0.4442,2.25,2.36,2.09,-0.0729,1.007,1.85-2.10
-DEN @ CHI,CHI +10.5 + Matas Buzelis 10+ pts,2,0.5311,0.4461,2.24,2.35,2.08,-0.0735,1.02,1.85-2.10
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 10+ pra,2,0.6606,0.5115,1.95,2.05,1.8,-0.0799,1.001,1.65-1.85
-DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 10+ pra,2,0.641,0.5078,1.97,2.07,1.81,-0.0828,0.998,1.65-1.85
-DEN @ CHI,Aaron Gordon 2+ ast + Nikola Jokic 8+ reb,2,0.6382,0.513,1.95,2.05,1.79,-0.0829,1.001,1.65-1.85
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7156,0.5626,1.78,1.87,1.63,-0.0838,1.0,1.50-1.65
-DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6954,0.5592,1.79,1.88,1.64,-0.0855,0.998,1.50-1.65
+DEN @ CHI,DEN win + Jamal Murray 35+ pra,2,0.418,0.408,2.45,2.57,2.39,-0.0247,1.049,2.10-2.50
+DEN @ CHI,DEN win + game under 235.5,2,0.3048,0.39,2.56,2.69,2.43,-0.0507,1.007,2.10-2.50
+DEN @ CHI,DEN win + Aaron Gordon 2+ ast,2,0.5168,0.4874,2.05,2.15,1.94,-0.0529,1.012,1.85-2.10
+DEN @ CHI,DEN win + Nikola Jokic 12+ reb,2,0.4076,0.3952,2.53,2.66,2.36,-0.0674,1.001,2.10-2.50
+DEN @ CHI,Josh Giddey 27+ pra + Jalen Smith 15+ pr,2,0.5634,0.4462,2.24,2.35,2.07,-0.0754,1.005,1.85-2.10
+DEN @ CHI,Josh Giddey 27+ pra + Isaac Okoro 10+ pra,2,0.5562,0.4423,2.26,2.37,2.09,-0.0765,1.005,1.85-2.10
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 15+ pr,2,0.657,0.5127,1.95,2.05,1.79,-0.0812,1.001,1.65-1.85
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 10+ pa,2,0.6514,0.5098,1.96,2.06,1.8,-0.0813,1.002,1.65-1.85
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 15+ pra,2,0.6842,0.5386,1.86,1.95,1.7,-0.0825,1.002,1.65-1.85
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7115,0.5636,1.77,1.86,1.62,-0.0846,1.0,1.50-1.65
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pr,2,0.7209,0.571,1.75,1.84,1.6,-0.0851,1.0,1.50-1.65
+DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6962,0.5656,1.77,1.86,1.61,-0.0869,1.003,1.50-1.65
 DAL @ UTA,Daniel Gafford 15+ pra + Josh Green 3pm under 1.5,2,0.6321,0.4313,2.32,2.43,2.19,-0.0553,1.0,2.10-2.50
 DAL @ UTA,DAL win + Daniel Gafford 10+ pr,2,0.5045,0.4394,2.28,2.39,2.15,-0.0572,1.007,2.10-2.50
 DAL @ UTA,Josh Green 3pm under 1.5 + Caleb Martin ast under 2.5,2,0.5621,0.3909,2.56,2.69,2.41,-0.0591,1.001,2.10-2.50
