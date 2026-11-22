@@ -1,6 +1,6 @@
 # NBA model · Sat 21 Nov 2026 (US date)
 
-Updated **Sun 22 Nov, 11:55 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 22 Nov, 12:00 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -24,19 +24,25 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Derik Queen PRA over 39.5 (40+) | NOP @ SAS | draftkings | 18.80 | 15.70 | 7.12 | 14.0% | 5.0% | 6.4% | +19.7% | +163.9% | 0.3% |
 | Cam Spencer AST over 11.5 (12+) | MEM @ MIN | draftkings | 24.00 | 20.75 | 10.12 | 9.9% | 3.9% | 4.8% | +15.6% | +137.1% | 0.2% |
+| Derik Queen PR over 34.5 (35+) | NOP @ SAS | draftkings | 16.00 | 13.87 | 6.78 | 14.8% | 5.8% | 7.2% | +15.4% | +136.0% | 0.3% |
+| Saddiq Bey AST over 5.5 (6+) | NOP @ SAS | draftkings | 15.00 | 13.11 | 6.54 | 15.3% | 6.2% | 7.6% | +14.4% | +129.4% | 0.3% |
 | Cam Spencer AST over 9.5 (10+) | MEM @ MIN | draftkings | 10.20 | 8.99 | 4.57 | 21.9% | 9.2% | 11.1% | +13.5% | +123.3% | 0.4% |
 | Cam Spencer PRA over 34.5 (35+) | MEM @ MIN | draftkings | 20.00 | 18.12 | 9.86 | 10.1% | 4.7% | 5.5% | +10.3% | +102.9% | 0.1% |
 | Cam Spencer PA over 29.5 (30+) | MEM @ MIN | draftkings | 17.80 | 16.13 | 8.78 | 11.4% | 5.2% | 6.2% | +10.3% | +102.6% | 0.1% |
 | NOP to win | NOP @ SAS | betfair_ex_au | 10.98 | 9.96 | 10.67 | 9.4% | 10.0% | 10.0% | +10.2% | +2.8% | 0.2% |
-| Victor Wembanyama REB over 17.5 (18+) | NOP @ SAS | draftkings | 12.20 | 11.14 | 6.17 | 16.2% | 7.7% | 9.0% | +9.5% | +97.6% | 0.2% |
 | Cam Spencer PRA over 29.5 (30+) | MEM @ MIN | draftkings | 8.80 | 8.04 | 4.45 | 22.4% | 10.6% | 12.4% | +9.5% | +97.5% | 0.3% |
 | Darius Acuff Jr. AST over 11.5 (12+) | BOS @ SAC | draftkings | 17.20 | 15.75 | 8.77 | 11.4% | 5.4% | 6.3% | +9.3% | +96.1% | 0.1% |
+| Victor Wembanyama REB over 17.5 (18+) | NOP @ SAS | draftkings | 12.00 | 11.01 | 6.17 | 16.2% | 7.8% | 9.1% | +9.0% | +94.4% | 0.2% |
 | Cam Spencer PA over 24.5 (25+) | MEM @ MIN | draftkings | 7.40 | 6.80 | 3.82 | 26.2% | 12.6% | 14.7% | +8.9% | +93.6% | 0.4% |
+| Victor Wembanyama PRA over 64.5 (65+) | NOP @ SAS | draftkings | 16.20 | 14.93 | 8.47 | 11.8% | 5.8% | 6.7% | +8.5% | +91.2% | 0.1% |
 | Victor Wembanyama REB over 19.5 (20+) | NOP @ SAS | draftkings | 22.00 | 20.33 | 11.59 | 8.6% | 4.2% | 4.9% | +8.3% | +89.9% | 0.1% |
-| Victor Wembanyama PRA over 64.5 (65+) | NOP @ SAS | draftkings | 15.80 | 14.66 | 8.47 | 11.8% | 5.9% | 6.8% | +7.8% | +86.4% | 0.1% |
-| Victor Wembanyama REB over 15.5 (16+) | NOP @ SAS | draftkings | 6.32 | 5.92 | 3.52 | 28.4% | 14.8% | 16.9% | +6.7% | +79.5% | 0.3% |
-| Victor Wembanyama PRA over 69.5 (70+) | NOP @ SAS | draftkings | 24.00 | 22.78 | 14.11 | 7.1% | 3.9% | 4.4% | +5.2% | +70.0% | 0.1% |
+| Derik Queen REB over 11.5 (12+) | NOP @ SAS | draftkings | 8.40 | 7.77 | 4.46 | 22.4% | 11.1% | 12.9% | +8.1% | +88.5% | 0.3% |
+| Victor Wembanyama REB over 15.5 (16+) | NOP @ SAS | draftkings | 6.39 | 5.97 | 3.52 | 28.4% | 14.6% | 16.8% | +7.0% | +81.5% | 0.3% |
+| Derik Queen REB over 13.5 (14+) | NOP @ SAS | draftkings | 16.80 | 15.75 | 9.35 | 10.7% | 5.6% | 6.3% | +6.7% | +79.7% | 0.1% |
+| Victor Wembanyama PRA over 69.5 (70+) | NOP @ SAS | draftkings | 25.00 | 23.53 | 14.11 | 7.1% | 3.7% | 4.2% | +6.3% | +77.1% | 0.1% |
+| Victor Wembanyama PTS over 49.5 (50+) | NOP @ SAS | draftkings | 25.00 | 23.58 | 14.30 | 7.0% | 3.7% | 4.2% | +6.0% | +74.9% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
@@ -50,6 +56,7 @@ The model and the no-vig market disagree by more than 15 points on these. That's
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Derik Queen PR over 24.5 (25+) | NOP @ SAS | draftkings | 3.51 | 3.31 | 2.00 | 50.1% | 26.6% | 30.2% | +6.1% | +75.8% | 0.6% |
 | Derik Queen PTS over 9.5 (10+) | NOP @ SAS | sportsbet | 1.88 | 1.78 | 1.18 | 84.5% | 50.9% | 56.1% | +5.3% | +58.7% | 1.5% |
 
 ## Projections
@@ -62,8 +69,8 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | LAC @ DAL | Sun 22 Nov 12:00 | 116.3–117.3 | LAC 47% | 2.12 / 1.89 | DAL -1.5 | 233.5 | DAL -4.5 covers 40%; o230.5 56% |
 | MEM @ MIN | Sun 22 Nov 12:00 | 111.4–119.0 | MEM 29% | 3.45 / 1.41 | MIN -7.5 | 230.5 | MIN -5.5 covers 56%; o227.5 56% |
-| NOP @ SAS | Sun 22 Nov 12:00 | 103.9–122.6 | NOP 9% | 10.67 / 1.10 | SAS -18.5 | 226.5 | SAS -19.5 covers 48%; o227.5 48% |
-| BOS @ SAC | Sun 22 Nov 14:00 | 115.0–104.6 | BOS 77% | 1.31 / 4.26 | SAC +10.5 | 219.5 | SAC +12.5 covers 56%; o215.5 58% |
+| NOP @ SAS | Sun 22 Nov 12:00 | 103.9–122.6 | NOP 9% | 10.67 / 1.10 | SAS -18.5 | 226.5 | SAS -19.5 covers 48%; o226.5 50% |
+| BOS @ SAC | Sun 22 Nov 14:00 | 115.0–104.6 | BOS 77% | 1.31 / 4.26 | SAC +10.5 | 219.5 | SAC +11.5 covers 53%; o215.5 58% |
 
 ### LAC @ DAL
 Out: Sergio de Larrea (DAL), Dereck Lively II (DAL), P.J. Washington (DAL), Bradley Beal (LAC), Brandon Ingram (LAC)
@@ -174,7 +181,7 @@ Out: Dylan Harper (SAS), Tobias Harris (SAS), Bennedict Mathurin (NOP), Bryce Mc
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jeremiah Fears PTS over 16.5 (17+) | NOP @ SAS | betright | 2.00 | 1.98 | 1.69 | 59.3% | 49.0% | 50.6% | +1.2% | +18.6% | 0.3% |
+| Jeremiah Fears PTS over 16.5 (17+) | NOP @ SAS | betright | 2.00 | 1.97 | 1.69 | 59.3% | 49.1% | 50.7% | +1.4% | +18.6% | 0.3% |
 | Julian Champagnie PTS over 11.5 (12+) | NOP @ SAS | pointsbetau | 2.05 | 2.04 | 2.02 | 49.6% | 49.0% | 49.1% | +0.6% | +1.7% | 0.1% |
 | Stephon Castle PTS over 17.5 (18+) | NOP @ SAS | pointsbetau | 2.00 | 1.99 | 1.97 | 50.7% | 50.1% | 50.2% | +0.5% | +1.5% | 0.1% |
 | Jeremiah Fears PTS over 15.5 (16+) | NOP @ SAS | pointsbetau | 1.87 | 1.87 | 1.55 | 64.6% | 51.6% | 53.6% | +0.2% | +20.7% | 0.1% |
@@ -183,12 +190,12 @@ Out: Dylan Harper (SAS), Tobias Harris (SAS), Bennedict Mathurin (NOP), Bryce Mc
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Saddiq Bey | 100% | 36.5<br><sub>35,41,33,42,37</sub> | 19.5<br><sub>30,16,23,10,21</sub> | – · 16.5<br><sub>o 53% · u 47%</sub> | 5.5<br><sub>10,6,6,8,6</sub> |  | 3.4<br><sub>0,4,3,6,3</sub> |  | 2.5<br><sub>6,2,5,2,4</sub> |  | 0.9 | 0.2 | 1.4 | 28.5 |
-| Jeremiah Fears | 100% | 33.8<br><sub>34,33,29,31,38</sub> | 19.2<br><sub>18,13,19,16,22</sub> | – · 15.5<br><sub>o 51% · u 49%</sub> | 5.1<br><sub>5,4,10,5,7</sub> |  | 6.0<br><sub>7,7,10,4,5</sub> |  | 1.7<br><sub>0,1,1,2,3</sub> |  | 1.2 | 0.5 | 3.4 | 30.3 |
-| Herbert Jones | 100% | 31.9<br><sub>32,27,24,32,33</sub> | 11.1<br><sub>8,10,8,9,14</sub> |  | 3.4<br><sub>2,2,2,1,2</sub> |  | 2.9<br><sub>3,1,3,3,3</sub> |  | 1.6<br><sub>0,2,2,3,4</sub> |  | 1.4 | 0.5 | 1.7 | 17.4 |
-| Derik Queen | 100% | 31.7<br><sub>23,25,21,19,18</sub> | 16.5<br><sub>10,10,17,9,11</sub> | – · 9.5<br><sub>o 56% · u 44%</sub> | 9.0<br><sub>6,5,10,5,7</sub> |  | 3.9<br><sub>2,4,0,0,3</sub> |  | 1.0<br><sub>0,2,4,0,0</sub> |  | 1.2 | 1.1 | 2.8 | 29.4 |
-| Jordan Poole | 88% | 27.8<br><sub>21,24,31,30,13</sub> | 13.8<br><sub>13,14,11,22,6</sub> | – · 10.5<br><sub>o 53% · u 47%</sub> | 2.6<br><sub>2,2,2,1,0</sub> |  | 3.9<br><sub>5,5,5,5,1</sub> |  | 2.2<br><sub>1,1,1,3,2</sub> |  | 0.8 | 0.4 | 1.8 | 20.4 |
-| Yves Missi | 100% | 26.1<br><sub>-,22,23,17,23</sub> | 8.5<br><sub>-,3,6,4,4</sub> | – · 5.5<br><sub>o 54% · u 46%</sub> | 7.8<br><sub>-,8,14,5,7</sub> |  | 1.9<br><sub>-,1,1,2,0</sub> |  | 0.0<br><sub>-,0,0,0,0</sub> |  | 0.5 | 1.5 | 1.2 | 18.2 |
+| Saddiq Bey | 100% | 36.5<br><sub>35,41,33,42,37</sub> | 19.5<br><sub>30,16,23,10,21</sub> | 17.5 · 16.5<br><sub>o 50% · u 50%</sub> | 5.5<br><sub>10,6,6,8,6</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 3.4<br><sub>0,4,3,6,3</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 2.5<br><sub>6,2,5,2,4</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 0.9 | 0.2 | 1.4 | 28.5 |
+| Jeremiah Fears | 100% | 33.8<br><sub>34,33,29,31,38</sub> | 19.2<br><sub>18,13,19,16,22</sub> | 16.5 · 15.5<br><sub>o 51% · u 49%</sub> | 5.1<br><sub>5,4,10,5,7</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 6.0<br><sub>7,7,10,4,5</sub> | 5.5<br><sub>o 50% · u 50%</sub> | 1.7<br><sub>0,1,1,2,3</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 1.2 | 0.5 | 3.4 | 30.3 |
+| Herbert Jones | 100% | 31.9<br><sub>32,27,24,32,33</sub> | 11.1<br><sub>8,10,8,9,14</sub> | 8.5 · –<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>2,2,2,1,2</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 2.9<br><sub>3,1,3,3,3</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 1.6<br><sub>0,2,2,3,4</sub> | 1.5<br><sub>o 43% · u 57%</sub> | 1.4 | 0.5 | 1.7 | 17.4 |
+| Derik Queen | 100% | 31.7<br><sub>23,25,21,19,18</sub> | 16.5<br><sub>10,10,17,9,11</sub> | 12.5 · 9.5<br><sub>o 56% · u 44%</sub> | 9.0<br><sub>6,5,10,5,7</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 3.9<br><sub>2,4,0,0,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 1.0<br><sub>0,2,4,0,0</sub> |  | 1.2 | 1.1 | 2.8 | 29.4 |
+| Jordan Poole | 88% | 27.8<br><sub>21,24,31,30,13</sub> | 13.8<br><sub>13,14,11,22,6</sub> | 11.5 · 10.5<br><sub>o 53% · u 47%</sub> | 2.6<br><sub>2,2,2,1,0</sub> |  | 3.9<br><sub>5,5,5,5,1</sub> |  | 2.2<br><sub>1,1,1,3,2</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 0.8 | 0.4 | 1.8 | 20.4 |
+| Yves Missi | 100% | 26.1<br><sub>-,22,23,17,23</sub> | 8.5<br><sub>-,3,6,4,4</sub> | 6.5 · 5.5<br><sub>o 54% · u 46%</sub> | 7.8<br><sub>-,8,14,5,7</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.9<br><sub>-,1,1,2,0</sub> |  | 0.0<br><sub>-,0,0,0,0</sub> |  | 0.5 | 1.5 | 1.2 | 18.2 |
 | Karlo Matkovic | 98% | 25.2<br><sub>19,14,20,10,8</sub> | 9.2<br><sub>1,5,3,0,0</sub> |  | 5.3<br><sub>3,3,2,2,2</sub> |  | 1.5<br><sub>0,1,0,0,0</sub> |  | 1.2<br><sub>0,1,0,0,0</sub> |  | 0.7 | 0.9 | 1.1 | 16.0 |
 | Jaron Pierre Jr. | 96% | 19.3<br><sub>4,23,19,17,4</sub> | 7.4<br><sub>0,13,10,7,3</sub> |  | 2.5<br><sub>0,2,4,1,2</sub> |  | 1.1<br><sub>0,0,0,1,0</sub> |  | 1.1<br><sub>0,2,2,1,1</sub> |  | 0.6 | 0.2 | 1.0 | 11.1 |
 | DeAndre Jordan | 48% | 16.0<br><sub>17,-,-,10,-</sub> | 4.8<br><sub>6,-,-,8,-</sub> |  | 5.7<br><sub>8,-,-,2,-</sub> |  | 1.1<br><sub>1,-,-,1,-</sub> |  | 0.0<br><sub>0,-,-,0,-</sub> |  | 0.3 | 0.6 | 0.8 | 11.5 |
@@ -200,12 +207,12 @@ Out: Dylan Harper (SAS), Tobias Harris (SAS), Bennedict Mathurin (NOP), Bryce Mc
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Devin Vassell | 100% | 32.6<br><sub>-,23,32,36,32</sub> | 14.0<br><sub>-,7,6,12,15</sub> | 12.5 · 12.5<br><sub>o 51% · u 49%</sub> | 4.3<br><sub>-,2,6,5,4</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 3.2<br><sub>-,2,1,4,4</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 2.0<br><sub>-,0,0,2,1</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 1.4 | 0.5 | 1.1 | 21.5 |
-| Victor Wembanyama | 100% | 32.1<br><sub>32,21,35,34,33</sub> | 30.6<br><sub>32,12,26,25,32</sub> | 29.5 · 28.5<br><sub>o 49% · u 51%</sub> | 13.1<br><sub>9,12,10,18,11</sub> | 10.5<br><sub>o 57% · u 43%</sub> | 3.8<br><sub>1,6,6,4,3</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 2.2<br><sub>2,0,4,1,2</sub> | 1.5<br><sub>o 62% · u 38%</sub> | 1.2 | 4.2 | 2.4 | 47.4 |
+| Devin Vassell | 100% | 32.6<br><sub>-,23,32,36,32</sub> | 14.0<br><sub>-,7,6,12,15</sub> | 12.5 · 12.5<br><sub>o 51% · u 49%</sub> | 4.3<br><sub>-,2,6,5,4</sub> | 3.5<br><sub>o 59% · u 41%</sub> | 3.2<br><sub>-,2,1,4,4</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 2.0<br><sub>-,0,0,2,1</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 1.4 | 0.5 | 1.1 | 21.5 |
+| Victor Wembanyama | 100% | 32.1<br><sub>32,21,35,34,33</sub> | 30.6<br><sub>32,12,26,25,32</sub> | 29.5 · 28.5<br><sub>o 49% · u 51%</sub> | 13.1<br><sub>9,12,10,18,11</sub> | 10.5<br><sub>o 56% · u 44%</sub> | 3.8<br><sub>1,6,6,4,3</sub> | 3.5<br><sub>o 44% · u 56%</sub> | 2.2<br><sub>2,0,4,1,2</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 1.2 | 4.2 | 2.4 | 47.4 |
 | De'Aaron Fox | 100% | 31.8<br><sub>31,17,-,34,32</sub> | 16.4<br><sub>17,7,-,6,10</sub> | 14.5 · 14.5<br><sub>o 51% · u 49%</sub> | 3.9<br><sub>4,5,-,2,2</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 6.4<br><sub>9,1,-,2,5</sub> | 6.5<br><sub>o 44% · u 56%</sub> | 1.4<br><sub>2,0,-,0,0</sub> | 1.5<br><sub>o 39% · u 61%</sub> | 1.4 | 0.4 | 2.2 | 26.7 |
 | Stephon Castle | 100% | 31.5<br><sub>29,25,35,31,33</sub> | 18.7<br><sub>11,32,20,10,21</sub> | 17.5 · 17.5<br><sub>o 50% · u 50%</sub> | 5.1<br><sub>1,5,4,2,6</sub> | 4.5<br><sub>o 56% · u 44%</sub> | 7.2<br><sub>3,6,9,7,12</sub> | 6.5<br><sub>o 56% · u 44%</sub> | 1.8<br><sub>1,5,0,2,2</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.1 | 0.3 | 2.9 | 31.0 |
 | Julian Champagnie | 100% | 30.4<br><sub>35,23,24,30,29</sub> | 12.2<br><sub>12,7,4,14,20</sub> | 11.5 · 11.5<br><sub>o 49% · u 51%</sub> | 5.6<br><sub>0,8,5,6,4</sub> | 4.5<br><sub>o 57% · u 43%</sub> | 1.8<br><sub>2,3,1,0,1</sub> | 1.5<br><sub>o 46% · u 54%</sub> | 2.4<br><sub>3,1,1,4,4</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 1.0 | 0.7 | 0.9 | 19.5 |
-| Keldon Johnson | 99% | 25.6<br><sub>28,25,29,15,27</sub> | 11.4<br><sub>10,18,11,4,10</sub> | 11.5 · 11.5<br><sub>o 49% · u 51%</sub> | 5.8<br><sub>6,4,10,2,5</sub> | 4.5<br><sub>o 58% · u 42%</sub> | 2.2<br><sub>4,4,2,1,3</sub> |  | 0.7<br><sub>0,2,1,0,0</sub> |  | 0.7 | 0.2 | 1.1 | 19.4 |
+| Keldon Johnson | 99% | 25.6<br><sub>28,25,29,15,27</sub> | 11.4<br><sub>10,18,11,4,10</sub> | 11.5 · 11.5<br><sub>o 49% · u 51%</sub> | 5.8<br><sub>6,4,10,2,5</sub> | 5.5<br><sub>o 44% · u 56%</sub> | 2.2<br><sub>4,4,2,1,3</sub> |  | 0.7<br><sub>0,2,1,0,0</sub> |  | 0.7 | 0.2 | 1.1 | 19.4 |
 | Harrison Barnes | 91% | 16.2<br><sub>13,21,14,10,16</sub> | 5.9<br><sub>3,11,0,0,9</sub> | 6.5 · 5.5<br><sub>o 52% · u 48%</sub> | 1.9<br><sub>1,1,0,3,2</sub> |  | 1.0<br><sub>0,1,2,4,1</sub> |  | 0.8<br><sub>1,3,0,0,1</sub> |  | 0.4 | 0.2 | 0.5 | 8.8 |
 | Luke Kornet | 99% | 16.0<br><sub>14,16,13,14,15</sub> | 4.3<br><sub>7,6,2,2,4</sub> |  | 4.7<br><sub>5,7,2,1,0</sub> |  | 1.4<br><sub>1,2,0,1,3</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.4 | 0.9 | 0.5 | 10.4 |
 | Jordan McLaughlin | 71% | 13.8<br><sub>2,14,19,-,11</sub> | 4.5<br><sub>4,4,10,-,0</sub> |  | 1.9<br><sub>0,6,1,-,1</sub> |  | 2.4<br><sub>0,2,2,-,5</sub> |  | 0.5<br><sub>0,0,2,-,0</sub> |  | 0.9 | 0.1 | 0.6 | 8.8 |
@@ -221,9 +228,9 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC), Mitchell Rob
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 115.0–104.6 | BOS 77% | 1.31 / 4.26 | SAC +10.5 | 219.5 | SAC +12.5 covers 56%; o215.5 58% |
-| Expected (weighted by chance each plays) | 115.1–104.8 | BOS 76% | 1.31 / 4.20 | SAC +10.5 | 220.5 | SAC +12.5 covers 56%; o215.5 59% |
-| if Precious Achiuwa plays | 115.1–105.0 | BOS 76% | 1.32 / 4.12 | SAC +10.5 | 220.5 | SAC +12.5 covers 56%; o215.5 60% |
+| Confirmed players only | 115.0–104.6 | BOS 77% | 1.31 / 4.26 | SAC +10.5 | 219.5 | SAC +11.5 covers 53%; o215.5 58% |
+| Expected (weighted by chance each plays) | 115.1–104.8 | BOS 76% | 1.31 / 4.20 | SAC +10.5 | 220.5 | SAC +11.5 covers 53%; o215.5 59% |
+| if Precious Achiuwa plays | 115.1–105.0 | BOS 76% | 1.32 / 4.12 | SAC +10.5 | 220.5 | SAC +11.5 covers 54%; o215.5 60% |
 
 **Questionable players: chance to play, and their projection if they do**
 
