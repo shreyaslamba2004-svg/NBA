@@ -42,18 +42,18 @@ DEN @ CHI,Aaron Gordon 2+ ast + Nikola Jokic 8+ reb,2,0.6432,0.5124,1.95,2.05,1.
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 10+ pra,2,0.6491,0.5098,1.96,2.06,1.8,-0.0841,1.0,1.65-1.85
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6986,0.5614,1.78,1.87,1.63,-0.0848,1.0,1.50-1.65
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jamal Murray 1+ 3pm,2,0.6923,0.5569,1.8,1.89,1.64,-0.0865,1.002,1.50-1.65
-DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3978,0.4058,2.46,2.59,2.45,-0.0057,1.024,2.10-2.50
-DAL @ UTA,UTA win + Ace Bailey 15+ pra,2,0.4038,0.4262,2.35,2.46,2.33,-0.0082,1.028,2.10-2.50
-DAL @ UTA,UTA win + Brice Sensabaugh 10+ pr,2,0.4159,0.427,2.34,2.46,2.31,-0.0125,1.018,2.10-2.50
-DAL @ UTA,UTA +1.5 + Daniel Gafford 5+ pa,2,0.4511,0.4498,2.22,2.33,2.08,-0.0643,0.989,1.85-2.10
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 15+ pra,2,0.6321,0.4501,2.22,2.33,2.08,-0.0644,1.0,1.85-2.10
-DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5288,0.448,2.23,2.34,2.08,-0.0694,1.01,1.85-2.10
-DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pa,2,0.7131,0.5439,1.84,1.93,1.69,-0.079,0.999,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5706,1.75,1.84,1.61,-0.0824,1.0,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 4+ reb,2,0.727,0.5691,1.76,1.84,1.61,-0.0833,0.999,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Ace Bailey 15+ pra,2,0.7204,0.5686,1.76,1.85,1.61,-0.0856,0.998,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Ace Bailey 10+ pts,2,0.6667,0.5245,1.91,2.0,1.74,-0.0857,0.998,1.65-1.85
-DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 10+ pa,2,0.6607,0.5212,1.92,2.01,1.75,-0.0858,0.999,1.65-1.85
+DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3978,0.4033,2.48,2.6,2.47,-0.0045,1.024,2.10-2.50
+DAL @ UTA,UTA win + Ace Bailey 15+ pra,2,0.4038,0.4232,2.36,2.48,2.35,-0.0068,1.028,2.10-2.50
+DAL @ UTA,UTA win + Brice Sensabaugh 10+ pr,2,0.4159,0.4248,2.35,2.47,2.33,-0.0115,1.018,2.10-2.50
+DAL @ UTA,UTA +1.5 + Daniel Gafford 5+ pa,2,0.4511,0.4467,2.24,2.35,2.1,-0.063,0.989,1.85-2.10
+DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5288,0.4449,2.25,2.36,2.09,-0.0681,1.01,1.85-2.10
+DAL @ UTA,Zaccharie Risacher 4+ reb + Daniel Gafford 10+ pr,2,0.6381,0.4864,2.06,2.16,1.91,-0.0715,1.006,1.85-2.10
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pr,2,0.7516,0.567,1.76,1.85,1.63,-0.0762,1.0,1.50-1.65
+DAL @ UTA,Zaccharie Risacher 4+ reb + Daniel Gafford 10+ pra,2,0.6573,0.5097,1.96,2.06,1.81,-0.0767,1.004,1.65-1.85
+DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pa,2,0.7131,0.5411,1.85,1.94,1.7,-0.0781,0.999,1.65-1.85
+DAL @ UTA,Zaccharie Risacher 4+ reb + Daniel Gafford 5+ pa,2,0.6641,0.515,1.94,2.04,1.79,-0.0785,1.002,1.65-1.85
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 5+ pa,2,0.786,0.6032,1.66,1.74,1.53,-0.0788,1.0,1.50-1.65
+DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5704,1.75,1.84,1.61,-0.0823,1.0,1.50-1.65
 IND @ NYK,NYK win + Jalen Brunson 32+ pr,2,0.4334,0.4039,2.48,2.6,2.45,-0.0093,1.051,2.10-2.50
 IND @ NYK,NYK win + Landry Shamet 12+ pts,2,0.4294,0.3922,2.55,2.68,2.49,-0.0229,1.04,2.10-2.50
 IND @ NYK,game over 214.5 + Landry Shamet 10+ pr,2,0.542,0.4021,2.49,2.61,2.36,-0.0515,1.028,2.10-2.50
