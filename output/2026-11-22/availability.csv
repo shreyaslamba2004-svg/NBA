@@ -1,5 +1,5 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401910030,MIA,1628389,Bam Adebayo,Starting,,1.0,,,1.0
+401910030,MIA,1628389,Bam Adebayo,,,1.0,,,
 401910030,MIA,203507,Giannis Antetokounmpo,Out,Injury/Illness-RightGrointendinitis,0.0,"Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports.",,
 401910030,MIA,905107157,Ryan Conwell,,,1.0,,,
 401910030,MIA,904837356,Tre Donaldson,,,1.0,,,
@@ -9,31 +9,31 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910030,MIA,203501,Tim Hardaway Jr.,,,1.0,,,
 401910030,MIA,1642352,Keshad Johnson,Available,GLeague-Two-Way,1.0,,,
 401910030,MIA,1631107,Nikola Jovic,,,1.0,,,
-401910030,MIA,1641796,Pelle Larsson,Starting,,1.0,,,1.0
-401910030,MIA,1630558,Davion Mitchell,Starting,,1.0,,,1.0
-401910030,MIA,1626171,Bobby Portis,Starting,,1.0,,,1.0
+401910030,MIA,1641796,Pelle Larsson,,,1.0,,,
+401910030,MIA,1630558,Davion Mitchell,,,1.0,,,
+401910030,MIA,1626171,Bobby Portis,,,1.0,,,
 401910030,MIA,1630208,Nick Richards,,,1.0,,,
 401910030,MIA,1630696,Dru Smith,,,1.0,,,
-401910030,MIA,202691,Klay Thompson,Starting,,1.0,,,1.0
+401910030,MIA,202691,Klay Thompson,,,1.0,,,
 401910030,MIA,203952,Andrew Wiggins,,,1.0,,,
 401910030,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401910030,OKC,1627936,Alex Caruso,Out,Injury/Illness-RightHipSoreness,0.0,Caruso (hip) won't play Sunday against the Heat.,,
 401910030,OKC,1642363,Nique Clifford,,,1.0,,,
 401910030,OKC,905105800,Josh Dix,,,1.0,,,
 401910030,OKC,1628983,Shai Gilgeous-Alexander,Out,,0.0,Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.,,
-401910030,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
+401910030,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
 401910030,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
 401910030,OKC,905174983,Aday Mara,Out,Injury/Illness-RightShinContusion,0.0,Mara (shin) is listed as out for Sunday's game versus Miami.,,
-401910030,OKC,1642272,Jared McCain,Starting,,1.0,,,1.0
-401910030,OKC,1642349,Ajay Mitchell,Starting,,1.0,,,1.0
-401910030,OKC,904432185,Micah Peavy,Starting,,1.0,,,1.0
+401910030,OKC,1642272,Jared McCain,,,1.0,,,
+401910030,OKC,1642349,Ajay Mitchell,,,1.0,,,
+401910030,OKC,904432185,Micah Peavy,,,1.0,,,
 401910030,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,"Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports.",,
 401910030,OKC,905241364,Bennett Stirtz,,,1.0,,,
 401910030,OKC,1642260,Nikola Topic,Out,Injury/Illness-LeftHipStrain,0.0,Topic (hip) is listed as out for Sunday's game versus the Heat.,,
 401910030,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401910030,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (leg) underwent successful surgery Wednesday to ""address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation."" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports.",,
 401910030,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowBackSpasms,0.0,Williams (back) is listed as out for Sunday's game against Miami.,,
-401910030,OKC,1629026,Kenrich Williams,Starting,,1.0,,,1.0
+401910030,OKC,1629026,Kenrich Williams,,,1.0,,,
 401910031,WAS,1629028,Deandre Ayton,Available,Injury/Illness-Illness,1.0,Ayton (illness) is questionable to play in Sunday's game against Orlando.,,
 401910031,WAS,904432187,Reece Beekman,Out,,0.0,The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks.,,
 401910031,WAS,1642267,Bub Carrington,Available,Injury/Illness-Illness,1.0,Carrington (illness) has been downgraded to questionable for Sunday's game against the Magic.,,
