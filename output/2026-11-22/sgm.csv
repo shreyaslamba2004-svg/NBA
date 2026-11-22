@@ -9,11 +9,11 @@ DET @ ATL,DET win + Onyeka Okongwu 4+ reb,2,0.5622,0.4942,2.02,2.12,1.84,-0.0891
 DET @ ATL,Paul Reed 7+ reb + Jalen Johnson 4+ ast,2,0.6051,0.5014,1.99,2.09,1.81,-0.0917,1.005,1.65-1.85
 DET @ ATL,Nickeil Alexander-Walker 3+ ast + Dyson Daniels 15+ pra,2,0.5981,0.5116,1.95,2.05,1.77,-0.0922,1.006,1.65-1.85
 OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.3939,0.4673,2.14,2.25,2.05,-0.0428,1.031,1.85-2.10
-OKC @ MIA,game over 231.5 + Davion Mitchell 10+ pts,2,0.5174,0.4004,2.5,2.62,2.39,-0.0434,1.036,2.10-2.50
-OKC @ MIA,game over 231.5 + Isaiah Hartenstein 15+ pr,2,0.5238,0.4093,2.44,2.57,2.32,-0.0509,1.03,2.10-2.50
-OKC @ MIA,game over 231.5 + Isaiah Hartenstein 8+ reb,2,0.5111,0.4052,2.47,2.59,2.33,-0.057,1.026,2.10-2.50
-OKC @ MIA,game over 231.5 + Isaiah Hartenstein 15+ pra,2,0.5724,0.4518,2.21,2.32,2.07,-0.066,1.016,1.85-2.10
+OKC @ MIA,game over 231.5 + Davion Mitchell 10+ pts,2,0.5174,0.3962,2.52,2.65,2.39,-0.0534,1.036,2.10-2.50
+OKC @ MIA,MIA -3.5 + Davion Mitchell 10+ pts,2,0.3204,0.4005,2.5,2.62,2.35,-0.0604,1.037,2.10-2.50
+OKC @ MIA,game over 231.5 + Isaiah Hartenstein 15+ pr,2,0.5238,0.4051,2.47,2.59,2.32,-0.0608,1.03,2.10-2.50
 OKC @ MIA,MIA win + Isaiah Hartenstein 8+ reb,2,0.384,0.4667,2.14,2.25,2.0,-0.069,1.008,1.85-2.10
+OKC @ MIA,game over 231.5 + Isaiah Hartenstein 15+ pra,2,0.5724,0.4471,2.24,2.35,2.07,-0.0758,1.016,1.85-2.10
 OKC @ MIA,MIA win + Isaiah Hartenstein 15+ pra,2,0.4304,0.5208,1.92,2.02,1.77,-0.077,0.998,1.65-1.85
 OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 15+ pr,2,0.5985,0.5052,1.98,2.08,1.8,-0.0922,1.006,1.65-1.85
 OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 15+ pra,2,0.6625,0.565,1.77,1.86,1.6,-0.095,1.005,1.50-1.65
@@ -23,55 +23,53 @@ ORL @ WAS,ORL -5.5 + Wendell Carter Jr. 10+ pa,2,0.4323,0.3922,2.55,2.68,2.42,-0
 ORL @ WAS,WAS +4.5 + Kyshawn George 15+ pr,2,0.3749,0.3847,2.6,2.73,2.46,-0.0525,1.038,2.10-2.50
 ORL @ WAS,WAS +4.5 + Kyshawn George 10+ pts,2,0.3946,0.4062,2.46,2.59,2.32,-0.0588,1.032,2.10-2.50
 ORL @ WAS,ORL win + Wendell Carter Jr. 10+ pa,2,0.5496,0.5013,1.99,2.09,1.86,-0.0685,1.02,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + AJ Dybantsa 4+ reb,2,0.6835,0.5084,1.97,2.07,1.83,-0.07,1.001,1.65-1.85
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pr,2,0.6185,0.4743,2.11,2.21,1.96,-0.0702,1.007,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7098,0.5387,1.86,1.95,1.72,-0.0723,1.003,1.65-1.85
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pts,2,0.6539,0.503,1.99,2.09,1.84,-0.0723,1.006,1.65-1.85
 ORL @ WAS,game over 220.5 + Kyshawn George 15+ pra,2,0.6918,0.4442,2.25,2.36,2.08,-0.0743,1.017,1.85-2.10
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pr,2,0.6185,0.4848,2.06,2.17,1.91,-0.075,1.007,1.85-2.10
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7098,0.5505,1.82,1.91,1.68,-0.077,1.003,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pts,2,0.6539,0.5141,1.95,2.04,1.8,-0.0771,1.006,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 1+ 3pm,2,0.6887,0.5332,1.88,1.97,1.73,-0.0778,1.002,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + Bilal Coulibaly 5+ pr,2,0.712,0.558,1.79,1.88,1.65,-0.0814,1.0,1.50-1.65
 ORL @ WAS,ORL win + Anthony Davis 6+ reb,2,0.6206,0.5742,1.74,1.83,1.59,-0.0898,0.999,1.50-1.65
 ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6382,0.5825,1.72,1.8,1.56,-0.0913,0.995,1.50-1.65
-ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6175,0.5689,1.76,1.85,1.59,-0.0933,0.995,1.50-1.65
 DEN @ CHI,DEN win + Nikola Jokic 36+ pa,2,0.4294,0.405,2.47,2.59,2.39,-0.0307,1.053,2.10-2.50
-DEN @ CHI,DEN win + Jamal Murray 30+ pa,2,0.4273,0.4102,2.44,2.56,2.35,-0.0372,1.048,2.10-2.50
 DEN @ CHI,Jamal Murray 29+ pr + DEN win,2,0.4086,0.3868,2.59,2.71,2.49,-0.0376,1.044,2.10-2.50
+DEN @ CHI,DEN win + Jamal Murray 24+ pts,2,0.4166,0.3954,2.53,2.66,2.43,-0.0379,1.047,2.10-2.50
 DEN @ CHI,Aaron Gordon 2+ ast + DEN win,2,0.5089,0.4717,2.12,2.23,1.99,-0.0626,1.011,1.85-2.10
 DEN @ CHI,DEN -8.5 + Jamal Murray 15+ pts,2,0.4334,0.4438,2.25,2.37,2.09,-0.0743,1.019,1.85-2.10
-DEN @ CHI,DEN -8.5 + Nikola Jokic 6+ ast,2,0.4318,0.4427,2.26,2.37,2.08,-0.0793,1.013,1.85-2.10
+DEN @ CHI,game over 237.5 + Matas Buzelis 15+ pra,2,0.5218,0.4417,2.26,2.38,2.09,-0.0747,1.021,1.85-2.10
 DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5711,0.5729,1.75,1.83,1.6,-0.0815,1.013,1.50-1.65
 DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 15+ pts,2,0.6445,0.5392,1.85,1.95,1.7,-0.0853,1.006,1.65-1.85
 DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 20+ pr,2,0.6256,0.5233,1.91,2.01,1.75,-0.0861,1.005,1.65-1.85
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7003,0.5654,1.77,1.86,1.61,-0.0873,1.001,1.50-1.65
 DEN @ CHI,Aaron Gordon 2+ ast + Matas Buzelis 1+ 3pm,2,0.6462,0.5391,1.85,1.95,1.69,-0.0883,1.002,1.65-1.85
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Josh Giddey 10+ pr,2,0.6904,0.5593,1.79,1.88,1.63,-0.0889,1.0,1.50-1.65
-DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3887,0.4129,2.42,2.54,2.4,-0.011,1.023,2.10-2.50
-DAL @ UTA,UTA win + Ace Bailey 15+ pra,2,0.3929,0.4234,2.36,2.48,2.33,-0.0131,1.024,2.10-2.50
-DAL @ UTA,UTA win + Brice Sensabaugh 10+ pr,2,0.4048,0.4314,2.32,2.43,2.27,-0.0206,1.014,2.10-2.50
+DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3887,0.4131,2.42,2.54,2.39,-0.0111,1.023,2.10-2.50
+DAL @ UTA,UTA win + Josh Green 5+ pr,2,0.3818,0.4096,2.44,2.56,2.4,-0.0179,1.018,2.10-2.50
+DAL @ UTA,UTA win + Brice Sensabaugh 10+ pr,2,0.4048,0.4306,2.32,2.44,2.28,-0.0203,1.014,2.10-2.50
 DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5369,0.4488,2.23,2.34,2.07,-0.0703,1.009,1.85-2.10
-DAL @ UTA,DAL win + Daniel Gafford 10+ pra,2,0.5311,0.4451,2.25,2.36,2.09,-0.0718,1.008,1.85-2.10
-DAL @ UTA,game over 225.5 + Daniel Gafford 10+ pra,2,0.706,0.4436,2.25,2.37,2.09,-0.0735,1.007,1.85-2.10
+DAL @ UTA,DAL win + Daniel Gafford 10+ pra,2,0.5311,0.4443,2.25,2.36,2.09,-0.0715,1.008,1.85-2.10
+DAL @ UTA,game over 225.5 + Daniel Gafford 10+ pra,2,0.706,0.4428,2.26,2.37,2.09,-0.0732,1.007,1.85-2.10
 DAL @ UTA,Caleb Martin ast under 2.5 + Daniel Gafford 5+ pa,2,0.6675,0.5256,1.9,2.0,1.74,-0.0861,0.998,1.65-1.85
-DAL @ UTA,Daniel Gafford 10+ pa + Brice Sensabaugh 10+ pr,2,0.6207,0.5013,1.99,2.09,1.82,-0.0865,1.003,1.65-1.85
-DAL @ UTA,Caleb Martin ast under 2.5 + Brice Sensabaugh 10+ pr,2,0.6343,0.5056,1.98,2.08,1.8,-0.0879,0.998,1.65-1.85
-DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 10+ pr,2,0.6901,0.5709,1.75,1.84,1.59,-0.0916,1.002,1.50-1.65
-DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 1+ 3pm,2,0.6719,0.5557,1.8,1.89,1.63,-0.0923,1.002,1.50-1.65
-DAL @ UTA,Daniel Gafford 15+ pra + Ace Bailey 15+ pra,2,0.6628,0.5547,1.8,1.89,1.63,-0.094,1.002,1.50-1.65
-IND @ NYK,Josh Hart pr under 17.5 + Landry Shamet 5+ pr,2,0.6381,0.4582,2.18,2.29,2.04,-0.0658,0.997,1.85-2.10
-IND @ NYK,game over 214.5 + Landry Shamet 5+ pr,2,0.6439,0.4598,2.17,2.28,2.01,-0.0759,1.004,1.85-2.10
+DAL @ UTA,Daniel Gafford 10+ pa + Brice Sensabaugh 10+ pr,2,0.6207,0.5004,2.0,2.1,1.83,-0.0862,1.003,1.65-1.85
+DAL @ UTA,Caleb Martin ast under 2.5 + Brice Sensabaugh 10+ pr,2,0.6343,0.5047,1.98,2.08,1.81,-0.0876,0.998,1.65-1.85
+DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 10+ pr,2,0.6901,0.5692,1.76,1.84,1.6,-0.0911,1.002,1.50-1.65
+DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 1+ 3pm,2,0.6719,0.5535,1.81,1.9,1.64,-0.0916,1.002,1.50-1.65
+IND @ NYK,Josh Hart pr under 17.5 + Landry Shamet 5+ pr,2,0.6381,0.4617,2.17,2.27,2.02,-0.0674,0.997,1.85-2.10
+IND @ NYK,Josh Hart pra under 21.5 + Landry Shamet 5+ pr,2,0.6277,0.4599,2.17,2.28,2.02,-0.071,0.996,1.85-2.10
 IND @ NYK,NYK win + Landry Shamet 3pm under 2.5,2,0.488,0.408,2.45,2.57,2.26,-0.0764,0.977,2.10-2.50
-IND @ NYK,Josh Hart pts under 9.5 + Landry Shamet 5+ pr,2,0.5973,0.4507,2.22,2.33,2.05,-0.0768,0.997,1.85-2.10
+IND @ NYK,game over 214.5 + Landry Shamet 5+ pr,2,0.6439,0.4615,2.17,2.28,2.0,-0.0765,1.004,1.85-2.10
 IND @ NYK,NYK win + Mikal Bridges pts under 11.5,2,0.4426,0.367,2.72,2.86,2.49,-0.0864,0.965,2.10-2.50
 IND @ NYK,NYK win + Mikal Bridges pra under 17.5,2,0.4315,0.3691,2.71,2.84,2.46,-0.0924,0.965,2.10-2.50
-IND @ NYK,Mikal Bridges pa under 14.5 + Landry Shamet 5+ pr,2,0.5977,0.4921,2.03,2.13,1.83,-0.0977,0.994,1.65-1.85
-IND @ NYK,Mikal Bridges 3pm under 1.5 + Landry Shamet 5+ pr,2,0.6289,0.5471,1.83,1.92,1.63,-0.1055,0.997,1.50-1.65
-BOS @ GSW,Payton Pritchard 8+ ra + Neemias Queta 15+ pra,2,0.6593,0.4036,2.48,2.6,2.43,-0.0183,1.008,2.10-2.50
-BOS @ GSW,Sam Hauser 12+ pr + Neemias Queta 15+ pra,2,0.7097,0.4433,2.26,2.37,2.19,-0.0301,1.003,2.10-2.50
-BOS @ GSW,Payton Pritchard 8+ ra + Neemias Queta 6+ reb,2,0.6267,0.4016,2.49,2.61,2.41,-0.0311,1.005,2.10-2.50
-BOS @ GSW,Payton Pritchard 8+ ra + Neemias Queta 5+ pa,2,0.7103,0.466,2.15,2.25,2.06,-0.0387,1.002,1.85-2.10
-BOS @ GSW,Payton Pritchard 8+ ra + Baylor Scheierman 5+ pr,2,0.6901,0.4632,2.16,2.27,2.07,-0.041,1.004,1.85-2.10
-BOS @ GSW,Sam Hauser 12+ pr + Baylor Scheierman 5+ pa,2,0.6989,0.4764,2.1,2.2,2.0,-0.0454,1.005,1.85-2.10
-BOS @ GSW,Neemias Queta 10+ pa + Payton Pritchard 15+ pa,2,0.7264,0.5156,1.94,2.04,1.83,-0.0565,1.008,1.65-1.85
-BOS @ GSW,Payton Pritchard 4+ ast + Sam Hauser 1+ 3pm,2,0.7546,0.5613,1.78,1.87,1.65,-0.0715,1.001,1.65-1.85
-BOS @ GSW,Payton Pritchard 4+ ast + Draymond Green 5+ pr,2,0.7379,0.5571,1.79,1.88,1.66,-0.0728,1.002,1.65-1.85
-BOS @ GSW,Neemias Queta 10+ pa + Sam Hauser 1+ 3pm,2,0.7623,0.5776,1.73,1.82,1.6,-0.074,1.002,1.50-1.65
-BOS @ GSW,Payton Pritchard 4+ ast + Baylor Scheierman 5+ pr,2,0.7633,0.5819,1.72,1.8,1.59,-0.0749,1.002,1.50-1.65
-BOS @ GSW,Neemias Queta 10+ pa + Draymond Green 5+ pr,2,0.7447,0.5727,1.75,1.83,1.61,-0.0762,1.003,1.50-1.65
+IND @ NYK,Mikal Bridges pa under 14.5 + Landry Shamet 5+ pr,2,0.5977,0.4938,2.02,2.13,1.83,-0.0984,0.994,1.65-1.85
+BOS @ GSW,Payton Pritchard 8+ ra + Neemias Queta 15+ pra,2,0.6593,0.4084,2.45,2.57,2.4,-0.0217,1.008,2.10-2.50
+BOS @ GSW,Sam Hauser 12+ pr + Neemias Queta 15+ pra,2,0.7097,0.4384,2.28,2.4,2.22,-0.0275,1.003,2.10-2.50
+BOS @ GSW,Payton Pritchard 24+ pra + Neemias Queta 15+ pra,2,0.6247,0.4021,2.49,2.61,2.42,-0.0279,1.009,2.10-2.50
+BOS @ GSW,Payton Pritchard 8+ ra + Neemias Queta 5+ pa,2,0.7103,0.4735,2.11,2.22,2.02,-0.0429,1.002,1.85-2.10
+BOS @ GSW,Sam Hauser 12+ pr + Baylor Scheierman 5+ pa,2,0.6989,0.4724,2.12,2.22,2.02,-0.0433,1.005,1.85-2.10
+BOS @ GSW,Sam Hauser 12+ pr + Neemias Queta 5+ pa,2,0.7678,0.5104,1.96,2.06,1.87,-0.0445,1.001,1.85-2.10
+BOS @ GSW,Neemias Queta 10+ pa + Payton Pritchard 15+ pa,2,0.7264,0.5128,1.95,2.05,1.84,-0.0554,1.008,1.65-1.85
+BOS @ GSW,Payton Pritchard 4+ ast + Neemias Queta 6+ reb,2,0.6919,0.5059,1.98,2.08,1.84,-0.0682,1.001,1.65-1.85
+BOS @ GSW,Neemias Queta 10+ pa + Sam Hauser 1+ 3pm,2,0.7623,0.5733,1.74,1.83,1.62,-0.0725,1.002,1.50-1.65
+BOS @ GSW,Payton Pritchard 4+ ast + Sam Hauser 1+ 3pm,2,0.7546,0.5647,1.77,1.86,1.64,-0.0728,1.001,1.50-1.65
+BOS @ GSW,Neemias Queta 10+ pa + Baylor Scheierman 5+ pa,2,0.7216,0.5548,1.8,1.89,1.67,-0.0744,1.005,1.65-1.85
+BOS @ GSW,Payton Pritchard 4+ ast + Draymond Green 5+ pr,2,0.7379,0.5647,1.77,1.86,1.64,-0.0755,1.002,1.50-1.65
