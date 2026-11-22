@@ -1,28 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ MIA,Bennett Stirtz 12+ pts + Andrew Wiggins 1+ 3pm,2,0.6042,0.4218,2.37,2.49,2.4,0.0112,1.002,2.10-2.50
-OKC @ MIA,Bennett Stirtz 12+ pts + Jared McCain 2+ 3pm,2,0.5853,0.4288,2.33,2.45,2.34,0.0054,1.005,2.10-2.50
-OKC @ MIA,Bennett Stirtz 12+ pts + Kenrich Williams 10+ pr,2,0.6606,0.4807,2.08,2.18,2.09,0.0032,1.002,1.85-2.10
-OKC @ MIA,Bennett Stirtz 12+ pts + Kenrich Williams 1+ 3pm,2,0.5777,0.4272,2.34,2.46,2.34,0.0011,1.003,2.10-2.50
-OKC @ MIA,Kenrich Williams 11+ pts + Bennett Stirtz 1+ 3pm,2,0.6641,0.4662,2.15,2.25,2.09,-0.0269,1.002,1.85-2.10
-OKC @ MIA,Kenrich Williams 11+ pts + Davion Mitchell 15+ pa,2,0.6626,0.4802,2.08,2.19,2.01,-0.0328,1.002,1.85-2.10
-OKC @ MIA,Bobby Portis ra under 9.5 + Kenrich Williams 10+ pr,2,0.6893,0.5187,1.93,2.02,1.79,-0.0721,0.998,1.65-1.85
-OKC @ MIA,Bobby Portis ra under 9.5 + Davion Mitchell 15+ pa,2,0.6676,0.5099,1.96,2.06,1.82,-0.0739,0.999,1.65-1.85
-OKC @ MIA,Bennett Stirtz 10+ pa + Andrew Wiggins 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.7129,0.5309,1.88,1.98,1.63,-0.1333,1.002,1.50-1.65
-OKC @ MIA,Bennett Stirtz 10+ pa + Andrew Wiggins 1+ 3pm + Jared McCain 2+ 3pm,3,0.6631,0.5016,1.99,2.09,1.73,-0.134,1.005,1.65-1.85
-OKC @ MIA,Bennett Stirtz 10+ pr + Andrew Wiggins 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.7108,0.5323,1.88,1.97,1.63,-0.1346,1.002,1.50-1.65
-OKC @ MIA,Bennett Stirtz 10+ pa + Andrew Wiggins 1+ 3pm + Davion Mitchell 15+ pa,3,0.7255,0.5533,1.81,1.9,1.56,-0.1367,1.003,1.50-1.65
-ORL @ WAS,game over 219.5 + Trae Young 15+ pr,2,0.609,0.3897,2.57,2.69,2.43,-0.052,1.032,2.10-2.50
-ORL @ WAS,WAS +4.5 + Trae Young 15+ pr,2,0.3691,0.3877,2.58,2.71,2.44,-0.0524,1.048,2.10-2.50
+ORL @ WAS,game over 219.5 + Kyshawn George 15+ pr,2,0.6225,0.3951,2.53,2.66,2.4,-0.051,1.032,2.10-2.50
+ORL @ WAS,Anthony Davis 2+ ast + ORL win,2,0.5093,0.3874,2.58,2.71,2.44,-0.0539,0.99,2.10-2.50
 ORL @ WAS,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.6223,0.3905,2.56,2.69,2.42,-0.0547,1.025,2.10-2.50
 ORL @ WAS,ORL win + Wendell Carter Jr. 10+ pa,2,0.5582,0.4976,2.01,2.11,1.89,-0.0574,1.025,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + Anthony Black 1+ stl,2,0.6348,0.4732,2.11,2.22,1.97,-0.0701,1.002,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + Wendell Carter Jr. 10+ pa,2,0.6266,0.4753,2.1,2.21,1.95,-0.0734,1.002,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 1+ 3pm,2,0.6962,0.535,1.87,1.96,1.73,-0.0746,1.003,1.65-1.85
-ORL @ WAS,Anthony Davis 2+ ast + AJ Dybantsa 4+ reb,2,0.6912,0.528,1.89,1.99,1.75,-0.0753,1.001,1.65-1.85
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pr,2,0.7432,0.5715,1.75,1.84,1.62,-0.0758,1.002,1.50-1.65
-ORL @ WAS,Anthony Davis 2+ ast + Trae Young 1+ 3pm,2,0.6886,0.5342,1.87,1.97,1.72,-0.0787,1.001,1.65-1.85
-ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6433,0.5813,1.72,1.81,1.57,-0.0865,0.996,1.50-1.65
-ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6226,0.5682,1.76,1.85,1.6,-0.0884,0.996,1.50-1.65
+ORL @ WAS,Anthony Davis 2+ ast + Anthony Black 1+ stl,2,0.6348,0.4655,2.15,2.26,2.01,-0.0632,1.002,1.85-2.10
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pr,2,0.6261,0.4718,2.12,2.23,1.98,-0.0635,1.007,1.85-2.10
+ORL @ WAS,Anthony Davis 2+ ast + AJ Dybantsa 4+ reb,2,0.6912,0.5116,1.95,2.05,1.83,-0.0657,1.001,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 1+ 3pm,2,0.6962,0.5226,1.91,2.01,1.79,-0.0664,1.003,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7172,0.537,1.86,1.96,1.74,-0.0669,1.002,1.65-1.85
+ORL @ WAS,ORL win + Anthony Davis 6+ reb,2,0.6207,0.5614,1.78,1.87,1.63,-0.0853,0.998,1.50-1.65
+ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6433,0.5781,1.73,1.82,1.58,-0.0856,0.996,1.50-1.65
+ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6226,0.5604,1.78,1.87,1.63,-0.086,0.996,1.50-1.65
 DEN @ CHI,DEN win + Nikola Jokic 49+ pra,2,0.4176,0.4121,2.43,2.55,2.36,-0.0274,1.051,2.10-2.50
 DEN @ CHI,game under 235.5 + DEN win,2,0.3048,0.3886,2.57,2.7,2.43,-0.0541,1.007,2.10-2.50
 DEN @ CHI,DEN win + Aaron Gordon 2+ ast,2,0.5168,0.4903,2.04,2.14,1.92,-0.0565,1.012,1.85-2.10
@@ -57,15 +45,15 @@ IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4483,2.23,2.34,2.05,-0.0809
 IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4358,0.4433,2.26,2.37,2.07,-0.0826,0.994,1.85-2.10
 IND @ NYK,Josh Hart reb under 8.5 + Jalen Brunson 1+ 3pm,2,0.6215,0.4993,2.0,2.1,1.83,-0.0869,1.001,1.65-1.85
 IND @ NYK,Landry Shamet 10+ pr + Jalen Brunson 2+ 3pm,2,0.6608,0.592,1.69,1.77,1.51,-0.1069,1.002,1.50-1.65
-BOS @ GSW,BOS win + Yaxel Lendeborg pra under 31.5,2,0.4629,0.4158,2.4,2.53,2.36,-0.017,1.051,2.10-2.50
+BOS @ GSW,Yaxel Lendeborg pa under 24.5 + BOS win,2,0.4775,0.4213,2.37,2.49,2.35,-0.011,1.053,2.10-2.50
 BOS @ GSW,BOS win + Yaxel Lendeborg pr under 27.5,2,0.464,0.415,2.41,2.53,2.36,-0.019,1.047,2.10-2.50
-BOS @ GSW,game over 210.5 + Brandin Podziemski 15+ pr,2,0.5416,0.4021,2.49,2.61,2.4,-0.0343,1.049,2.10-2.50
+BOS @ GSW,Neemias Queta 21+ pra + BOS win,2,0.4433,0.3895,2.57,2.7,2.49,-0.0311,1.03,2.10-2.50
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Draymond Green 5+ pr,2,0.7207,0.4811,2.08,2.18,1.98,-0.0466,1.0,1.85-2.10
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7435,0.5045,1.98,2.08,1.88,-0.0497,1.0,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Brandin Podziemski 10+ pr,2,0.7555,0.5156,1.94,2.04,1.84,-0.0507,1.0,1.65-1.85
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Payton Pritchard 10+ pr,2,0.7464,0.5088,1.97,2.06,1.86,-0.0511,0.999,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Brandin Podziemski 15+ pra,2,0.7223,0.4944,2.02,2.12,1.92,-0.0515,1.0,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7629,0.5201,1.92,2.02,1.82,-0.0518,0.999,1.65-1.85
-BOS @ GSW,Neemias Queta 8+ reb + Payton Pritchard 10+ pr,2,0.622,0.5024,1.99,2.09,1.82,-0.0841,1.002,1.65-1.85
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Brandin Podziemski 10+ pr,2,0.7555,0.5151,1.94,2.04,1.84,-0.0505,1.0,1.65-1.85
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Payton Pritchard 10+ pr,2,0.7464,0.5082,1.97,2.07,1.87,-0.0509,0.999,1.85-2.10
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7629,0.5191,1.93,2.02,1.83,-0.0515,0.999,1.65-1.85
+BOS @ GSW,BOS win + Neemias Queta 6+ reb,2,0.5873,0.5636,1.77,1.86,1.64,-0.0776,1.0,1.50-1.65
+BOS @ GSW,Neemias Queta 8+ reb + Payton Pritchard 10+ pr,2,0.622,0.5012,2.0,2.09,1.83,-0.0821,1.002,1.65-1.85
 BOS @ GSW,BOS win + Draymond Green 10+ pra,2,0.598,0.6001,1.67,1.75,1.51,-0.0939,0.991,1.50-1.65
-BOS @ GSW,BOS win + Brandin Podziemski 15+ pr,2,0.5561,0.5523,1.81,1.9,1.63,-0.0988,0.984,1.50-1.65
-BOS @ GSW,BOS win + Jayson Tatum 4+ reb + Sam Hauser 1+ 3pm,3,0.6165,0.5795,1.73,1.81,1.51,-0.126,1.01,1.50-1.65
+BOS @ GSW,BOS win + Brandin Podziemski 15+ pr,2,0.5561,0.5532,1.81,1.9,1.63,-0.099,0.984,1.50-1.65
