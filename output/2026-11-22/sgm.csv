@@ -1,7 +1,7 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+ORL @ WAS,Franz Wagner 26+ pts + Wendell Carter Jr. 10+ pa,2,0.4027,0.3857,2.59,2.72,2.49,-0.039,1.02,2.10-2.50
+ORL @ WAS,Alex Sarr 11+ pts + Kyshawn George 15+ pr,2,0.4242,0.3814,2.62,2.75,2.5,-0.0477,1.017,2.10-2.50
 ORL @ WAS,game over 219.5 + Kyshawn George 15+ pr,2,0.6225,0.3951,2.53,2.66,2.4,-0.051,1.032,2.10-2.50
-ORL @ WAS,Anthony Davis 2+ ast + ORL win,2,0.5093,0.3874,2.58,2.71,2.44,-0.0539,0.99,2.10-2.50
-ORL @ WAS,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.6223,0.3905,2.56,2.69,2.42,-0.0547,1.025,2.10-2.50
 ORL @ WAS,ORL win + Wendell Carter Jr. 10+ pa,2,0.5582,0.4976,2.01,2.11,1.89,-0.0574,1.025,1.85-2.10
 ORL @ WAS,Anthony Davis 2+ ast + Anthony Black 1+ stl,2,0.6348,0.4655,2.15,2.26,2.01,-0.0632,1.002,1.85-2.10
 ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pr,2,0.6261,0.4718,2.12,2.23,1.98,-0.0635,1.007,1.85-2.10
@@ -11,38 +11,33 @@ ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7172,0.537,1.86,1.96
 ORL @ WAS,ORL win + Anthony Davis 6+ reb,2,0.6207,0.5614,1.78,1.87,1.63,-0.0853,0.998,1.50-1.65
 ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6433,0.5781,1.73,1.82,1.58,-0.0856,0.996,1.50-1.65
 ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6226,0.5604,1.78,1.87,1.63,-0.086,0.996,1.50-1.65
-DEN @ CHI,DEN win + Nikola Jokic 49+ pra,2,0.4176,0.4121,2.43,2.55,2.36,-0.0274,1.051,2.10-2.50
-DEN @ CHI,game under 235.5 + DEN win,2,0.3048,0.3886,2.57,2.7,2.43,-0.0541,1.007,2.10-2.50
-DEN @ CHI,DEN win + Aaron Gordon 2+ ast,2,0.5168,0.4903,2.04,2.14,1.92,-0.0565,1.012,1.85-2.10
-DEN @ CHI,DEN -10.5 + Jamal Murray 2+ 3pm,2,0.3453,0.3765,2.66,2.79,2.5,-0.0601,1.024,2.10-2.50
-DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5715,0.5941,1.68,1.77,1.56,-0.0755,1.013,1.50-1.65
-DEN @ CHI,Josh Giddey 19+ pr + Matas Buzelis 1+ 3pm,2,0.5672,0.4554,2.2,2.31,2.03,-0.0771,1.006,1.85-2.10
-DEN @ CHI,Josh Giddey 19+ pr + Jalen Smith 15+ pra,2,0.5782,0.4567,2.19,2.3,2.02,-0.0773,1.002,1.85-2.10
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 15+ pr,2,0.657,0.5127,1.95,2.05,1.79,-0.0812,1.001,1.65-1.85
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 10+ pa,2,0.6514,0.5098,1.96,2.06,1.8,-0.0813,1.002,1.65-1.85
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 15+ pra,2,0.6842,0.5374,1.86,1.95,1.71,-0.0821,1.002,1.65-1.85
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7115,0.5656,1.77,1.86,1.62,-0.0853,1.0,1.50-1.65
-DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6962,0.5731,1.74,1.83,1.59,-0.0878,1.003,1.50-1.65
-DAL @ UTA,DAL win + Daniel Gafford 10+ pr,2,0.5156,0.4355,2.3,2.41,2.18,-0.0489,1.012,2.10-2.50
-DAL @ UTA,Daniel Gafford 15+ pra + Josh Green 3pm under 1.5,2,0.6261,0.4149,2.41,2.53,2.29,-0.0506,0.998,2.10-2.50
-DAL @ UTA,Daniel Gafford 9+ pts + Brice Sensabaugh 10+ pa,2,0.554,0.3863,2.59,2.72,2.45,-0.0544,1.004,2.10-2.50
-DAL @ UTA,DAL win + Daniel Gafford 10+ pra,2,0.5311,0.4585,2.18,2.29,2.06,-0.057,1.008,1.85-2.10
-DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5369,0.4687,2.13,2.24,2.01,-0.0581,1.009,1.85-2.10
-DAL @ UTA,Daniel Gafford 10+ pa + Brice Sensabaugh 10+ pr,2,0.6207,0.4465,2.24,2.35,2.1,-0.0625,1.003,1.85-2.10
-DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 10+ pr,2,0.6901,0.5047,1.98,2.08,1.85,-0.0665,1.002,1.65-1.85
-DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 1+ 3pm,2,0.6719,0.5042,1.98,2.08,1.84,-0.0721,1.002,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pr,2,0.75,0.5512,1.81,1.91,1.68,-0.0733,0.997,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pra,2,0.7762,0.583,1.72,1.8,1.58,-0.0767,0.998,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 5+ pa,2,0.7837,0.5952,1.68,1.76,1.55,-0.0791,0.998,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Ace Bailey 15+ pra,2,0.7166,0.5607,1.78,1.87,1.64,-0.083,1.0,1.50-1.65
+DEN @ CHI,Jamal Murray 24+ pts + DEN win,2,0.4169,0.4115,2.43,2.55,2.49,0.0261,1.049,2.10-2.50
+DEN @ CHI,Aaron Gordon 14+ pts + DEN win,2,0.3615,0.4053,2.47,2.59,2.49,0.0105,1.054,2.10-2.50
+DEN @ CHI,Cameron Johnson 14+ pts + DEN win,2,0.359,0.3992,2.5,2.63,2.49,-0.0045,1.052,2.10-2.50
+DEN @ CHI,Jamal Murray 24+ pts + Isaac Okoro 5+ pa,2,0.5411,0.4634,2.16,2.27,2.06,-0.0442,1.001,1.85-2.10
+DEN @ CHI,Josh Giddey 13+ pts + Isaac Okoro 5+ pa,2,0.564,0.4607,2.17,2.28,2.03,-0.0636,1.0,1.85-2.10
+DEN @ CHI,Aaron Gordon 14+ pts + Isaac Okoro 5+ pa,2,0.4665,0.4538,2.2,2.31,2.06,-0.0641,1.0,1.85-2.10
+DEN @ CHI,DEN win + Nikola Jokic 8+ reb + Jalen Smith 15+ pra,3,0.5884,0.5571,1.79,1.88,1.55,-0.1368,0.994,1.50-1.65
+DEN @ CHI,DEN win + Jalen Smith 15+ pr + Nikola Jokic 8+ reb,3,0.5644,0.531,1.88,1.98,1.63,-0.1369,0.993,1.50-1.65
+DEN @ CHI,DEN win + Nikola Jokic 8+ reb + Isaac Okoro 10+ pra,3,0.5567,0.5293,1.89,1.98,1.63,-0.1396,0.992,1.50-1.65
+DAL @ UTA,Daniel Gafford 9+ pts + Brice Sensabaugh 10+ pa,2,0.554,0.418,2.39,2.51,2.29,-0.0411,1.004,2.10-2.50
+DAL @ UTA,Daniel Gafford 9+ pts + Brice Sensabaugh 10+ pr,2,0.5822,0.4432,2.26,2.37,2.16,-0.0428,1.004,2.10-2.50
+DAL @ UTA,Daniel Gafford 9+ pts + Brice Sensabaugh 1+ 3pm,2,0.5669,0.444,2.25,2.36,2.14,-0.0489,1.003,2.10-2.50
+DAL @ UTA,Zaccharie Risacher 9+ pts + Daniel Gafford 5+ pa,2,0.479,0.4544,2.2,2.31,2.09,-0.052,1.007,1.85-2.10
+DAL @ UTA,Daniel Gafford 9+ pts + Ace Bailey 10+ pr,2,0.6113,0.4818,2.08,2.18,1.97,-0.053,1.0,1.85-2.10
+DAL @ UTA,Brice Sensabaugh 13+ pts + Daniel Gafford 10+ pra,2,0.5788,0.4546,2.2,2.31,2.07,-0.0583,1.001,1.85-2.10
+DAL @ UTA,Brice Sensabaugh 10+ pa + Ace Bailey 10+ pts,2,0.6942,0.6,1.67,1.75,1.5,-0.0989,1.003,1.50-1.65
+DAL @ UTA,Brice Sensabaugh 10+ pa + Daniel Gafford 10+ pra + Ace Bailey 15+ pra,3,0.7091,0.5613,1.78,1.87,1.53,-0.1429,1.004,1.50-1.65
+DAL @ UTA,Brice Sensabaugh 10+ pa + Daniel Gafford 4+ reb + Ace Bailey 15+ pra,3,0.6642,0.5306,1.88,1.98,1.61,-0.1456,1.003,1.50-1.65
+DAL @ UTA,Brice Sensabaugh 10+ pa + Daniel Gafford 4+ reb + Ace Bailey 10+ pts,3,0.6127,0.4917,2.03,2.14,1.73,-0.1479,1.001,1.65-1.85
 IND @ NYK,NYK win + Jalen Brunson 32+ pr,2,0.4334,0.3917,2.55,2.68,2.49,-0.0237,1.051,2.10-2.50
 IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4675,2.14,2.25,2.04,-0.0449,1.027,1.85-2.10
 IND @ NYK,NYK win + Josh Hart reb under 8.5,2,0.4767,0.3939,2.54,2.67,2.4,-0.0555,1.001,2.10-2.50
 IND @ NYK,game over 213.5 + Landry Shamet 10+ pr,2,0.5575,0.3942,2.54,2.66,2.38,-0.0609,1.027,2.10-2.50
 IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.611,0.5639,1.77,1.86,1.66,-0.0644,1.015,1.65-1.85
 IND @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.5801,0.5504,1.82,1.91,1.68,-0.0746,1.009,1.65-1.85
-IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4483,2.23,2.34,2.05,-0.0809,1.005,1.85-2.10
-IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4358,0.4433,2.26,2.37,2.07,-0.0826,0.994,1.85-2.10
+IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4481,2.23,2.34,2.05,-0.0808,1.005,1.85-2.10
+IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4358,0.4431,2.26,2.37,2.07,-0.0825,0.994,1.85-2.10
 IND @ NYK,Josh Hart reb under 8.5 + Jalen Brunson 1+ 3pm,2,0.6215,0.4993,2.0,2.1,1.83,-0.0869,1.001,1.65-1.85
 IND @ NYK,Landry Shamet 10+ pr + Jalen Brunson 2+ 3pm,2,0.6608,0.592,1.69,1.77,1.51,-0.1069,1.002,1.50-1.65
 BOS @ GSW,Yaxel Lendeborg pa under 24.5 + BOS win,2,0.4775,0.4213,2.37,2.49,2.35,-0.011,1.053,2.10-2.50
