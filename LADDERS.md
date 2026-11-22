@@ -1,6 +1,6 @@
 # Line ladders · Sat 21 Nov 2026 (US date)
 
-Updated **Sun 22 Nov, 01:20 PM** Sydney time. Back to [TODAY.md](TODAY.md).
+Updated **Sun 22 Nov, 01:25 PM** Sydney time. Back to [TODAY.md](TODAY.md).
 
 For price shopping when a book's line differs from DraftKings'. **Over / Under** are the blended chances (model 25%, market 75%, the same as the bets on TODAY.md) if he plays; **Min odds** is the break-even price, so any price at or above it is +EV. ★ marks DraftKings' main line. *Market*: *book* = a bookie prices that exact line; *est* = the main line's market-vs-model gap carried over. Stats with no DraftKings market for a player are left out. Use the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) for the stake.
 
@@ -10,15 +10,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 1.5 | 93% | 1.08 | 7% | 14.08 | est |
-| PTS | 2.5 | 84% | 1.19 | 16% | 6.18 | est |
-| PTS | 3.5 | 73% | 1.37 | 27% | 3.72 | est |
-| PTS | 4.5 | 61% | 1.64 | 39% | 2.57 | est |
-| PTS | 5.5 ★ | 50% | 2.00 | 50% | 2.00 | book |
-| PTS | 6.5 | 40% | 2.50 | 60% | 1.67 | est |
+| PTS | 0.5 | 98% | 1.03 | 2% | 40.65 | est |
+| PTS | 1.5 | 91% | 1.09 | 9% | 11.70 | est |
+| PTS | 2.5 | 81% | 1.24 | 19% | 5.25 | est |
+| PTS | 3.5 | 69% | 1.45 | 31% | 3.24 | est |
+| PTS | 4.5 ★ | 57% | 1.77 | 43% | 2.30 | book |
+| PTS | 5.5 | 50% | 2.00 | 50% | 2.00 | book |
+| PTS | 6.5 | 36% | 2.78 | 64% | 1.56 | est |
 | PTS | 7.5 | 34% | 2.99 | 66% | 1.50 | book |
-| PTS | 8.5 | 25% | 4.07 | 75% | 1.33 | est |
-| PTS | 9.5 | 21% | 4.77 | 79% | 1.27 | book |
+| PTS | 8.5 | 22% | 4.62 | 78% | 1.28 | est |
 | REB | 1.5 | 89% | 1.12 | 11% | 9.17 | est |
 | REB | 2.5 | 73% | 1.38 | 27% | 3.65 | book |
 | REB | 3.5 | 59% | 1.68 | 41% | 2.47 | book |
@@ -45,15 +45,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 17.5 | 68% | 1.47 | 32% | 3.15 | book |
-| PTS | 18.5 | 64% | 1.55 | 36% | 2.81 | est |
+| PTS | 18.5 | 66% | 1.51 | 34% | 2.95 | est |
 | PTS | 19.5 | 60% | 1.67 | 40% | 2.49 | book |
-| PTS | 20.5 | 55% | 1.81 | 45% | 2.23 | est |
-| PTS | 21.5 ★ | 51% | 1.97 | 49% | 2.03 | book |
-| PTS | 22.5 | 46% | 2.16 | 54% | 1.86 | est |
-| PTS | 23.5 | 42% | 2.38 | 58% | 1.72 | est |
+| PTS | 20.5 | 57% | 1.75 | 43% | 2.33 | est |
+| PTS | 21.5 | 51% | 1.95 | 49% | 2.05 | book |
+| PTS | 22.5 ★ | 48% | 2.08 | 52% | 1.93 | book |
+| PTS | 23.5 | 44% | 2.28 | 56% | 1.78 | est |
 | PTS | 24.5 | 38% | 2.61 | 62% | 1.62 | book |
-| PTS | 25.5 | 34% | 2.93 | 66% | 1.52 | est |
+| PTS | 25.5 | 36% | 2.79 | 64% | 1.56 | est |
+| PTS | 26.5 | 32% | 3.11 | 68% | 1.47 | est |
 | REB | 0.5 | 95% | 1.05 | 5% | 21.93 | est |
 | REB | 1.5 | 81% | 1.23 | 19% | 5.36 | est |
 | REB | 2.5 | 60% | 1.67 | 40% | 2.49 | book |
@@ -114,19 +114,49 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 </details>
 
+<details><summary>Leaky Black (SAC)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 0.5 | 94% | 1.06 | 6% | 18.15 | est |
+| PTS | 1.5 | 83% | 1.20 | 17% | 5.90 | est |
+| PTS | 2.5 | 68% | 1.47 | 32% | 3.11 | est |
+| PTS | 3.5 ★ | 53% | 1.90 | 47% | 2.11 | book |
+| PTS | 4.5 | 38% | 2.61 | 62% | 1.62 | est |
+| PTS | 5.5 | 27% | 3.70 | 73% | 1.37 | est |
+| PTS | 6.5 | 18% | 5.46 | 82% | 1.22 | est |
+| PTS | 7.5 | 12% | 8.20 | 88% | 1.14 | est |
+
+</details>
+
+<details><summary>Dylan Cardwell (SAC)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 0.5 | 92% | 1.08 | 8% | 12.92 | est |
+| PTS | 1.5 | 80% | 1.26 | 20% | 4.92 | est |
+| PTS | 2.5 | 65% | 1.54 | 35% | 2.86 | est |
+| PTS | 3.5 ★ | 50% | 1.99 | 50% | 2.01 | book |
+| PTS | 4.5 | 37% | 2.70 | 63% | 1.59 | est |
+| PTS | 5.5 | 26% | 3.84 | 74% | 1.35 | est |
+| PTS | 6.5 | 18% | 5.52 | 82% | 1.22 | est |
+| PTS | 7.5 | 12% | 8.13 | 88% | 1.14 | est |
+
+</details>
+
 <details><summary>De'Andre Hunter (SAC)</summary>
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 9.5 | 75% | 1.33 | 25% | 4.06 | est |
-| PTS | 10.5 | 69% | 1.46 | 31% | 3.18 | est |
-| PTS | 11.5 | 62% | 1.62 | 38% | 2.61 | est |
-| PTS | 12.5 | 55% | 1.83 | 45% | 2.21 | est |
-| PTS | 13.5 ★ | 48% | 2.07 | 52% | 1.94 | book |
-| PTS | 14.5 | 42% | 2.38 | 58% | 1.73 | est |
-| PTS | 15.5 | 36% | 2.77 | 64% | 1.57 | est |
-| PTS | 16.5 | 31% | 3.26 | 69% | 1.44 | est |
-| PTS | 17.5 | 26% | 3.86 | 74% | 1.35 | est |
+| PTS | 9.5 | 75% | 1.33 | 25% | 4.03 | est |
+| PTS | 10.5 | 68% | 1.46 | 32% | 3.16 | est |
+| PTS | 11.5 | 61% | 1.63 | 39% | 2.59 | est |
+| PTS | 12.5 | 52% | 1.93 | 48% | 2.07 | book |
+| PTS | 13.5 ★ | 48% | 2.08 | 52% | 1.92 | book |
+| PTS | 14.5 | 42% | 2.39 | 58% | 1.72 | est |
+| PTS | 15.5 | 36% | 2.79 | 64% | 1.56 | est |
+| PTS | 16.5 | 30% | 3.29 | 70% | 1.44 | est |
+| PTS | 17.5 | 26% | 3.89 | 74% | 1.35 | est |
 | REB | 1.5 | 91% | 1.10 | 9% | 11.47 | est |
 | REB | 2.5 | 76% | 1.32 | 24% | 4.12 | book |
 | REB | 3.5 | 60% | 1.66 | 40% | 2.51 | book |
@@ -188,15 +218,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 13.5 | 69% | 1.44 | 31% | 3.26 | est |
+| PTS | 13.5 | 70% | 1.43 | 30% | 3.33 | est |
 | PTS | 14.5 | 63% | 1.58 | 37% | 2.73 | book |
-| PTS | 15.5 | 59% | 1.71 | 41% | 2.41 | est |
-| PTS | 16.5 | 53% | 1.88 | 47% | 2.13 | est |
-| PTS | 17.5 ★ | 48% | 2.10 | 52% | 1.91 | book |
-| PTS | 18.5 | 42% | 2.36 | 58% | 1.74 | est |
+| PTS | 15.5 | 59% | 1.69 | 41% | 2.46 | est |
+| PTS | 16.5 | 54% | 1.86 | 46% | 2.17 | est |
+| PTS | 17.5 ★ | 49% | 2.06 | 51% | 1.94 | book |
+| PTS | 18.5 | 43% | 2.31 | 57% | 1.76 | est |
 | PTS | 19.5 | 38% | 2.64 | 62% | 1.61 | book |
-| PTS | 20.5 | 33% | 3.04 | 67% | 1.49 | est |
-| PTS | 21.5 | 29% | 3.49 | 71% | 1.40 | est |
+| PTS | 20.5 | 34% | 2.97 | 66% | 1.51 | est |
+| PTS | 21.5 | 29% | 3.41 | 71% | 1.41 | est |
 | REB | 0.5 | 94% | 1.06 | 6% | 17.92 | est |
 | REB | 1.5 | 79% | 1.26 | 21% | 4.85 | est |
 | REB | 2.5 ★ | 58% | 1.72 | 42% | 2.38 | book |
@@ -255,19 +285,35 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 </details>
 
+<details><summary>Malik Monk (SAC)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 3.5 | 84% | 1.19 | 16% | 6.35 | est |
+| PTS | 4.5 | 77% | 1.30 | 23% | 4.33 | est |
+| PTS | 5.5 | 69% | 1.45 | 31% | 3.22 | est |
+| PTS | 6.5 | 61% | 1.65 | 39% | 2.54 | est |
+| PTS | 7.5 ★ | 52% | 1.91 | 48% | 2.10 | book |
+| PTS | 8.5 | 44% | 2.25 | 56% | 1.80 | est |
+| PTS | 9.5 | 37% | 2.70 | 63% | 1.59 | est |
+| PTS | 10.5 | 30% | 3.29 | 70% | 1.44 | est |
+| PTS | 11.5 | 25% | 4.08 | 75% | 1.32 | est |
+
+</details>
+
 <details><summary>Keegan Murray (SAC)</summary>
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
 | PTS | 7.5 | 75% | 1.34 | 25% | 3.97 | book |
-| PTS | 8.5 | 71% | 1.40 | 29% | 3.49 | est |
+| PTS | 8.5 | 72% | 1.39 | 28% | 3.54 | est |
 | PTS | 9.5 | 62% | 1.60 | 38% | 2.66 | book |
-| PTS | 10.5 | 56% | 1.78 | 44% | 2.28 | est |
-| PTS | 11.5 ★ | 49% | 2.04 | 51% | 1.96 | book |
-| PTS | 12.5 | 42% | 2.39 | 58% | 1.72 | est |
-| PTS | 13.5 | 35% | 2.84 | 65% | 1.54 | est |
+| PTS | 10.5 | 57% | 1.76 | 43% | 2.31 | est |
+| PTS | 11.5 ★ | 49% | 2.02 | 51% | 1.98 | book |
+| PTS | 12.5 | 42% | 2.36 | 58% | 1.73 | est |
+| PTS | 13.5 | 36% | 2.80 | 64% | 1.55 | est |
 | PTS | 14.5 | 31% | 3.18 | 69% | 1.46 | book |
-| PTS | 15.5 | 24% | 4.13 | 76% | 1.32 | est |
+| PTS | 15.5 | 25% | 4.06 | 75% | 1.33 | est |
 | REB | 1.5 | 93% | 1.08 | 7% | 13.85 | est |
 | REB | 2.5 | 80% | 1.26 | 20% | 4.88 | book |
 | REB | 3.5 | 65% | 1.54 | 35% | 2.86 | book |
@@ -299,15 +345,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 8.5 | 76% | 1.31 | 24% | 4.18 | est |
-| PTS | 9.5 | 69% | 1.44 | 31% | 3.26 | est |
-| PTS | 10.5 | 62% | 1.61 | 38% | 2.65 | est |
-| PTS | 11.5 | 55% | 1.81 | 45% | 2.23 | est |
-| PTS | 12.5 ★ | 48% | 2.08 | 52% | 1.93 | book |
-| PTS | 13.5 | 42% | 2.41 | 58% | 1.71 | est |
-| PTS | 14.5 | 35% | 2.83 | 65% | 1.55 | est |
-| PTS | 15.5 | 30% | 3.35 | 70% | 1.43 | est |
-| PTS | 16.5 | 25% | 4.01 | 75% | 1.33 | est |
+| PTS | 8.5 | 76% | 1.32 | 24% | 4.16 | est |
+| PTS | 9.5 | 69% | 1.45 | 31% | 3.24 | est |
+| PTS | 10.5 | 62% | 1.61 | 38% | 2.64 | est |
+| PTS | 11.5 | 55% | 1.82 | 45% | 2.23 | est |
+| PTS | 12.5 ★ | 48% | 2.09 | 52% | 1.92 | book |
+| PTS | 13.5 | 41% | 2.41 | 59% | 1.71 | est |
+| PTS | 14.5 | 35% | 2.84 | 65% | 1.54 | est |
+| PTS | 15.5 | 30% | 3.36 | 70% | 1.42 | est |
+| PTS | 16.5 | 25% | 4.02 | 75% | 1.33 | est |
 | REB | 8.5 | 73% | 1.37 | 27% | 3.74 | book |
 | REB | 9.5 | 65% | 1.54 | 35% | 2.85 | book |
 | REB | 10.5 | 56% | 1.79 | 44% | 2.26 | book |
@@ -363,19 +409,80 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 </details>
 
+<details><summary>Emanuel Sharp (SAC)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 0.5 | 94% | 1.06 | 6% | 17.33 | est |
+| PTS | 1.5 | 85% | 1.18 | 15% | 6.71 | est |
+| PTS | 2.5 | 74% | 1.36 | 26% | 3.80 | est |
+| PTS | 3.5 | 61% | 1.64 | 39% | 2.56 | est |
+| PTS | 4.5 ★ | 49% | 2.05 | 51% | 1.95 | book |
+| PTS | 5.5 | 38% | 2.65 | 62% | 1.61 | est |
+| PTS | 6.5 | 28% | 3.57 | 72% | 1.39 | est |
+| PTS | 7.5 | 21% | 4.87 | 79% | 1.26 | est |
+| PTS | 8.5 | 14% | 6.93 | 86% | 1.17 | est |
+
+</details>
+
+<details><summary>Devin Carter (BOS)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 0.5 | 94% | 1.07 | 6% | 15.50 | est |
+| PTS | 1.5 | 78% | 1.28 | 22% | 4.60 | est |
+| PTS | 2.5 ★ | 60% | 1.68 | 40% | 2.48 | book |
+| PTS | 3.5 | 46% | 2.19 | 54% | 1.84 | est |
+| PTS | 4.5 | 35% | 2.88 | 65% | 1.53 | est |
+| PTS | 5.5 | 27% | 3.71 | 73% | 1.37 | est |
+| PTS | 6.5 | 21% | 4.69 | 79% | 1.27 | est |
+
+</details>
+
+<details><summary>Mike Conley (BOS)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 0.5 | 93% | 1.08 | 7% | 13.37 | est |
+| PTS | 1.5 | 80% | 1.25 | 20% | 4.98 | est |
+| PTS | 2.5 | 66% | 1.52 | 34% | 2.91 | est |
+| PTS | 3.5 ★ | 51% | 1.95 | 49% | 2.05 | book |
+| PTS | 4.5 | 39% | 2.58 | 61% | 1.63 | est |
+| PTS | 5.5 | 27% | 3.65 | 73% | 1.38 | est |
+| PTS | 6.5 | 19% | 5.14 | 81% | 1.24 | est |
+| PTS | 7.5 | 13% | 7.55 | 87% | 1.15 | est |
+
+</details>
+
+<details><summary>Luka Garza (BOS)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 6.5 | 73% | 1.36 | 27% | 3.77 | est |
+| PTS | 7.5 | 66% | 1.51 | 34% | 2.95 | est |
+| PTS | 8.5 | 59% | 1.70 | 41% | 2.43 | est |
+| PTS | 9.5 | 51% | 1.95 | 49% | 2.05 | est |
+| PTS | 10.5 ★ | 44% | 2.25 | 56% | 1.80 | book |
+| PTS | 11.5 | 38% | 2.66 | 62% | 1.60 | est |
+| PTS | 12.5 | 32% | 3.14 | 68% | 1.47 | est |
+| PTS | 13.5 | 26% | 3.80 | 74% | 1.36 | est |
+| PTS | 14.5 | 21% | 4.68 | 79% | 1.27 | est |
+
+</details>
+
 <details><summary>Paul George (BOS)</summary>
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 20.5 | 65% | 1.53 | 35% | 2.88 | est |
-| PTS | 21.5 | 61% | 1.64 | 39% | 2.57 | est |
-| PTS | 22.5 | 57% | 1.76 | 43% | 2.32 | est |
-| PTS | 23.5 | 53% | 1.90 | 47% | 2.11 | est |
-| PTS | 24.5 ★ | 49% | 2.06 | 51% | 1.94 | book |
-| PTS | 25.5 | 45% | 2.24 | 55% | 1.81 | est |
-| PTS | 26.5 | 41% | 2.44 | 59% | 1.69 | est |
-| PTS | 27.5 | 37% | 2.68 | 63% | 1.59 | est |
-| PTS | 28.5 | 34% | 2.96 | 66% | 1.51 | est |
+| PTS | 20.5 | 65% | 1.55 | 35% | 2.83 | est |
+| PTS | 21.5 | 61% | 1.65 | 39% | 2.53 | est |
+| PTS | 22.5 | 56% | 1.78 | 44% | 2.28 | est |
+| PTS | 23.5 | 52% | 1.92 | 48% | 2.08 | est |
+| PTS | 24.5 ★ | 48% | 2.09 | 52% | 1.92 | book |
+| PTS | 25.5 | 44% | 2.27 | 56% | 1.79 | est |
+| PTS | 26.5 | 40% | 2.48 | 60% | 1.68 | est |
+| PTS | 27.5 | 37% | 2.73 | 63% | 1.58 | est |
+| PTS | 28.5 | 33% | 3.01 | 67% | 1.50 | est |
 | REB | 2.5 | 88% | 1.14 | 12% | 8.08 | book |
 | REB | 3.5 | 77% | 1.29 | 23% | 4.41 | book |
 | REB | 4.5 | 63% | 1.58 | 37% | 2.73 | book |
@@ -439,19 +546,35 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 </details>
 
+<details><summary>Hugo Gonzalez (BOS)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 2.5 | 89% | 1.12 | 11% | 9.07 | est |
+| PTS | 3.5 | 80% | 1.25 | 20% | 4.93 | est |
+| PTS | 4.5 | 69% | 1.44 | 31% | 3.25 | est |
+| PTS | 5.5 | 58% | 1.71 | 42% | 2.40 | est |
+| PTS | 6.5 ★ | 47% | 2.11 | 53% | 1.90 | book |
+| PTS | 7.5 | 38% | 2.65 | 62% | 1.60 | est |
+| PTS | 8.5 | 29% | 3.44 | 71% | 1.41 | est |
+| PTS | 9.5 | 22% | 4.48 | 78% | 1.29 | est |
+| PTS | 10.5 | 17% | 5.89 | 83% | 1.20 | est |
+
+</details>
+
 <details><summary>Sam Hauser (BOS)</summary>
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
 | PTS | 7.5 | 76% | 1.32 | 24% | 4.08 | book |
-| PTS | 8.5 | 71% | 1.40 | 29% | 3.49 | est |
+| PTS | 8.5 | 71% | 1.40 | 29% | 3.47 | est |
 | PTS | 9.5 | 62% | 1.61 | 38% | 2.64 | book |
-| PTS | 10.5 | 57% | 1.76 | 43% | 2.31 | est |
+| PTS | 10.5 | 57% | 1.77 | 43% | 2.30 | est |
 | PTS | 11.5 ★ | 49% | 2.03 | 51% | 1.97 | book |
-| PTS | 12.5 | 42% | 2.36 | 58% | 1.74 | est |
-| PTS | 13.5 | 36% | 2.81 | 64% | 1.55 | est |
+| PTS | 12.5 | 46% | 2.17 | 54% | 1.85 | book |
+| PTS | 13.5 | 35% | 2.82 | 65% | 1.55 | est |
 | PTS | 14.5 | 32% | 3.12 | 68% | 1.47 | book |
-| PTS | 15.5 | 24% | 4.14 | 76% | 1.32 | est |
+| PTS | 15.5 | 24% | 4.16 | 76% | 1.32 | est |
 | REB | 0.5 | 97% | 1.03 | 3% | 34.97 | est |
 | REB | 1.5 | 88% | 1.13 | 12% | 8.58 | est |
 | REB | 2.5 | 73% | 1.37 | 27% | 3.68 | book |
@@ -482,15 +605,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 17.5 | 65% | 1.54 | 35% | 2.86 | est |
-| PTS | 18.5 | 60% | 1.66 | 40% | 2.51 | est |
-| PTS | 19.5 | 55% | 1.80 | 45% | 2.24 | est |
-| PTS | 20.5 | 51% | 1.97 | 49% | 2.03 | est |
-| PTS | 21.5 ★ | 46% | 2.16 | 54% | 1.86 | book |
-| PTS | 22.5 | 42% | 2.40 | 58% | 1.71 | est |
-| PTS | 23.5 | 38% | 2.66 | 62% | 1.60 | est |
-| PTS | 24.5 | 33% | 3.00 | 67% | 1.50 | est |
-| PTS | 25.5 | 30% | 3.38 | 70% | 1.42 | est |
+| PTS | 17.5 | 65% | 1.53 | 35% | 2.88 | est |
+| PTS | 18.5 | 60% | 1.65 | 40% | 2.53 | est |
+| PTS | 19.5 | 56% | 1.79 | 44% | 2.26 | est |
+| PTS | 20.5 | 51% | 1.96 | 49% | 2.04 | est |
+| PTS | 21.5 ★ | 47% | 2.15 | 53% | 1.87 | book |
+| PTS | 22.5 | 42% | 2.39 | 58% | 1.72 | est |
+| PTS | 23.5 | 38% | 2.64 | 62% | 1.61 | est |
+| PTS | 24.5 | 34% | 2.98 | 66% | 1.51 | est |
+| PTS | 25.5 | 30% | 3.34 | 70% | 1.43 | est |
 | REB | 0.5 | 96% | 1.04 | 4% | 27.62 | est |
 | REB | 1.5 | 85% | 1.18 | 15% | 6.57 | est |
 | REB | 2.5 | 67% | 1.50 | 33% | 2.99 | book |
@@ -555,15 +678,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 8.5 | 75% | 1.34 | 25% | 3.95 | est |
-| PTS | 9.5 | 67% | 1.48 | 33% | 3.07 | est |
-| PTS | 10.5 | 60% | 1.66 | 40% | 2.51 | est |
-| PTS | 11.5 | 53% | 1.88 | 47% | 2.14 | est |
-| PTS | 12.5 ★ | 46% | 2.16 | 54% | 1.86 | book |
-| PTS | 13.5 | 40% | 2.51 | 60% | 1.66 | est |
-| PTS | 14.5 | 34% | 2.95 | 66% | 1.51 | est |
-| PTS | 15.5 | 28% | 3.52 | 72% | 1.40 | est |
-| PTS | 16.5 | 24% | 4.17 | 76% | 1.32 | est |
+| PTS | 8.5 | 76% | 1.32 | 24% | 4.13 | est |
+| PTS | 9.5 | 69% | 1.45 | 31% | 3.20 | est |
+| PTS | 10.5 | 62% | 1.62 | 38% | 2.60 | est |
+| PTS | 11.5 | 54% | 1.87 | 46% | 2.15 | book |
+| PTS | 12.5 ★ | 48% | 2.10 | 52% | 1.91 | book |
+| PTS | 13.5 | 41% | 2.42 | 59% | 1.71 | est |
+| PTS | 14.5 | 35% | 2.83 | 65% | 1.55 | est |
+| PTS | 15.5 | 30% | 3.37 | 70% | 1.42 | est |
+| PTS | 16.5 | 25% | 3.98 | 75% | 1.34 | est |
 | REB | 5.5 | 79% | 1.26 | 21% | 4.84 | book |
 | REB | 6.5 | 70% | 1.43 | 30% | 3.34 | book |
 | REB | 7.5 | 60% | 1.68 | 40% | 2.47 | book |
@@ -625,15 +748,15 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 
 | Stat | Line | Over | Min odds over | Under | Min odds under | Market |
 |---|--:|--:|--:|--:|--:|--:|
-| PTS | 4.5 | 84% | 1.18 | 16% | 6.43 | est |
-| PTS | 5.5 | 76% | 1.31 | 24% | 4.24 | est |
-| PTS | 6.5 | 68% | 1.47 | 32% | 3.11 | est |
-| PTS | 7.5 | 59% | 1.70 | 41% | 2.42 | est |
-| PTS | 8.5 ★ | 50% | 2.01 | 50% | 1.99 | book |
-| PTS | 9.5 | 41% | 2.43 | 59% | 1.70 | est |
-| PTS | 10.5 | 33% | 3.01 | 67% | 1.50 | est |
-| PTS | 11.5 | 26% | 3.82 | 74% | 1.35 | est |
-| PTS | 12.5 | 20% | 4.92 | 80% | 1.26 | est |
+| PTS | 4.5 | 84% | 1.19 | 16% | 6.31 | est |
+| PTS | 5.5 | 76% | 1.32 | 24% | 4.17 | est |
+| PTS | 6.5 | 67% | 1.48 | 33% | 3.07 | est |
+| PTS | 7.5 | 58% | 1.72 | 42% | 2.39 | est |
+| PTS | 8.5 ★ | 49% | 2.03 | 51% | 1.97 | book |
+| PTS | 9.5 | 44% | 2.26 | 56% | 1.79 | book |
+| PTS | 10.5 | 33% | 3.06 | 67% | 1.49 | est |
+| PTS | 11.5 | 26% | 3.88 | 74% | 1.35 | est |
+| PTS | 12.5 | 20% | 5.01 | 80% | 1.25 | est |
 | REB | 2.5 | 82% | 1.22 | 18% | 5.46 | book |
 | REB | 3.5 | 70% | 1.42 | 30% | 3.36 | book |
 | REB | 4.5 | 57% | 1.75 | 43% | 2.33 | book |
@@ -687,5 +810,21 @@ For price shopping when a book's line differs from DraftKings'. **Over / Under**
 | RA | 9.5 | 32% | 3.12 | 68% | 1.47 | est |
 | RA | 10.5 | 22% | 4.50 | 78% | 1.29 | est |
 | RA | 11.5 | 15% | 6.59 | 85% | 1.18 | est |
+
+</details>
+
+<details><summary>Jordan Walsh (BOS)</summary>
+
+| Stat | Line | Over | Min odds over | Under | Min odds under | Market |
+|---|--:|--:|--:|--:|--:|--:|
+| PTS | 3.5 | 86% | 1.16 | 14% | 7.17 | est |
+| PTS | 4.5 | 78% | 1.29 | 22% | 4.46 | est |
+| PTS | 5.5 | 68% | 1.47 | 32% | 3.11 | est |
+| PTS | 6.5 | 53% | 1.89 | 47% | 2.13 | book |
+| PTS | 7.5 ★ | 48% | 2.10 | 52% | 1.91 | book |
+| PTS | 8.5 | 39% | 2.59 | 61% | 1.63 | est |
+| PTS | 9.5 | 31% | 3.27 | 69% | 1.44 | est |
+| PTS | 10.5 | 23% | 4.26 | 77% | 1.31 | est |
+| PTS | 11.5 | 18% | 5.57 | 82% | 1.22 | est |
 
 </details>
