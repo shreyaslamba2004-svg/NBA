@@ -1,6 +1,6 @@
 # NBA model · Sun 22 Nov 2026 (US date)
 
-Updated **Mon 23 Nov, 09:45 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-22/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 23 Nov, 09:50 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-22/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -60,7 +60,7 @@ Game lines below assume every questionable player sits; each game's section show
 | ORL @ WAS | Mon 23 Nov 11:00 | 119.5–111.9 | ORL 70% | 1.42 / 3.38 | WAS +7.5 | 231.5 | WAS +4.5 covers 41%; o219.5 73% |
 | DEN @ CHI | Mon 23 Nov 11:00 | 123.6–115.8 | DEN 71% | 1.40 / 3.48 | CHI +7.5 | 239.5 | CHI +10.5 covers 57%; o236.5 55% |
 | DAL @ UTA | Mon 23 Nov 11:00 | 119.4–117.9 | DAL 54% | 1.84 / 2.19 | UTA +1.5 | 236.5 | UTA +2.5 covers 52%; o225.5 73% |
-| IND @ NYK | Mon 23 Nov 12:00 | 105.9–113.6 | IND 29% | 3.43 / 1.41 | NYK -7.5 | 219.5 | NYK -7.5 covers 51%; o213.5 62% |
+| IND @ NYK | Mon 23 Nov 12:00 | 105.9–113.6 | IND 29% | 3.43 / 1.41 | NYK -7.5 | 219.5 | NYK -7.5 covers 51%; o212.5 64% |
 | BOS @ GSW | Mon 23 Nov 12:30 | 112.2–104.9 | BOS 70% | 1.43 / 3.31 | GSW +7.5 | 216.5 | GSW +7.5 covers 50%; o210.5 64% |
 
 ### OKC @ MIA
@@ -340,10 +340,10 @@ Out: OG Anunoby (NYK), Jordan Clarkson (NYK), Johnny Furphy (IND), Tyrese Halibu
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 105.9–113.6 | IND 29% | 3.43 / 1.41 | NYK -7.5 | 219.5 | NYK -7.5 covers 51%; o213.5 62% |
-| Expected (weighted by chance each plays) | 106.5–114.7 | IND 28% | 3.63 / 1.38 | NYK -8.5 | 220.5 | NYK -7.5 covers 53%; o213.5 65% |
-| if Karl-Anthony Towns plays | 106.3–115.6 | IND 25% | 3.93 / 1.34 | NYK -9.5 | 221.5 | NYK -7.5 covers 55%; o213.5 67% |
-| if Pascal Siakam plays | 106.8–114.1 | IND 30% | 3.31 / 1.43 | NYK -7.5 | 220.5 | NYK -7.5 covers 49%; o213.5 65% |
+| Confirmed players only | 105.9–113.6 | IND 29% | 3.43 / 1.41 | NYK -7.5 | 219.5 | NYK -7.5 covers 51%; o212.5 64% |
+| Expected (weighted by chance each plays) | 106.5–114.7 | IND 28% | 3.63 / 1.38 | NYK -8.5 | 220.5 | NYK -7.5 covers 53%; o212.5 67% |
+| if Karl-Anthony Towns plays | 106.3–115.6 | IND 25% | 3.93 / 1.34 | NYK -9.5 | 221.5 | NYK -7.5 covers 55%; o212.5 69% |
+| if Pascal Siakam plays | 106.8–114.1 | IND 30% | 3.31 / 1.43 | NYK -7.5 | 220.5 | NYK -7.5 covers 49%; o212.5 67% |
 
 **Questionable players: chance to play, and their projection if they do**
 

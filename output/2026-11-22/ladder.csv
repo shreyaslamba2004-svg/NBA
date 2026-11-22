@@ -3254,7 +3254,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,ast,0.5,False,0.8276,,model only,0.8276
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,ast,1.5,False,0.5429,,model only,0.5429
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,ast,2.5,False,0.2945,,model only,0.2945
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,ast,3.5,False,0.1373,,model only,0.1373
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,ast,3.5,False,0.1373,0.5531,book,0.4891
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,ast,4.5,False,0.0575,,model only,0.0575
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,ast,5.5,False,0.0203,,model only,0.0203
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,fg3m,0.5,False,0.7105,0.6785,book,0.6834
