@@ -1,6 +1,6 @@
 # NBA model · Sat 21 Nov 2026 (US date)
 
-Updated **Sun 22 Nov, 12:15 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 22 Nov, 12:20 PM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-21/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -55,7 +55,7 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC), Mitchell Rob
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Paul George | 98% | 31.9<br><sub>30,-,25,36,23</sub> | 22.3<br><sub>36,-,7,22,10</sub> | 24.5 · –<br><sub>o 48% · u 52%</sub> | 5.4<br><sub>5,-,7,8,4</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 4.4<br><sub>1,-,6,3,1</sub> | 5.5<br><sub>o 41% · u 59%</sub> | 3.1<br><sub>6,-,1,5,1</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.8 | 0.4 | 2.5 | 32.1 |
+| Paul George | 98% | 31.9<br><sub>30,-,25,36,23</sub> | 22.3<br><sub>36,-,7,22,10</sub> | 24.5 · –<br><sub>o 48% · u 52%</sub> | 5.4<br><sub>5,-,7,8,4</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 4.4<br><sub>1,-,6,3,1</sub> | 5.5<br><sub>o 41% · u 59%</sub> | 3.1<br><sub>6,-,1,5,1</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 1.8 | 0.4 | 2.5 | 32.1 |
 | Payton Pritchard | 99% | 31.0<br><sub>30,31,19,32,30</sub> | 19.5<br><sub>18,14,10,21,15</sub> | 21.5 · –<br><sub>o 47% · u 53%</sub> | 3.7<br><sub>6,1,1,4,1</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 5.4<br><sub>5,1,6,5,2</sub> | 6.5<br><sub>o 44% · u 56%</sub> | 2.8<br><sub>4,2,2,4,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 0.8 | 0.1 | 1.6 | 28.5 |
 | Neemias Queta | 98% | 27.2<br><sub>22,31,15,-,27</sub> | 13.0<br><sub>4,11,8,-,17</sub> | 12.5 · –<br><sub>o 49% · u 51%</sub> | 9.7<br><sub>6,13,6,-,10</sub> | 8.5<br><sub>o 54% · u 46%</sub> | 2.5<br><sub>3,3,2,-,3</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 0.2<br><sub>0,1,1,-,0</sub> |  | 0.8 | 1.2 | 1.4 | 25.2 |
 | Sam Hauser | 99% | 26.5<br><sub>18,24,11,25,17</sub> | 11.2<br><sub>12,8,8,12,9</sub> | 11.5 · –<br><sub>o 49% · u 51%</sub> | 4.0<br><sub>5,9,1,1,2</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 1.6<br><sub>2,0,0,2,2</sub> |  | 2.3<br><sub>4,2,2,4,3</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 0.7 | 0.2 | 0.5 | 16.8 |
@@ -93,7 +93,7 @@ Out: Jonathan Mogbo (SAC), Maxime Raynaud (SAC), Ben Simmons (SAC), Mitchell Rob
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Paul George (BOS) | 98% | 31.9<br><sub>30,-,25,36,23</sub> | 22.5<br><sub>36,-,7,22,10</sub> | 24.5 · –<br><sub>o 48% · u 52%</sub> | 5.4<br><sub>5,-,7,8,4</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 4.4<br><sub>1,-,6,3,1</sub> | 5.5<br><sub>o 41% · u 59%</sub> | 3.1<br><sub>6,-,1,5,1</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 1.8 | 0.4 | 2.5 | 32.3 |
+| Paul George (BOS) | 98% | 31.9<br><sub>30,-,25,36,23</sub> | 22.5<br><sub>36,-,7,22,10</sub> | 24.5 · –<br><sub>o 48% · u 52%</sub> | 5.4<br><sub>5,-,7,8,4</sub> | 5.5<br><sub>o 55% · u 45%</sub> | 4.4<br><sub>1,-,6,3,1</sub> | 5.5<br><sub>o 41% · u 59%</sub> | 3.1<br><sub>6,-,1,5,1</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 1.8 | 0.4 | 2.5 | 32.3 |
 | Payton Pritchard (BOS) | 99% | 31.1<br><sub>30,31,19,32,30</sub> | 19.4<br><sub>18,14,10,21,15</sub> | 21.5 · –<br><sub>o 47% · u 53%</sub> | 3.7<br><sub>6,1,1,4,1</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 5.4<br><sub>5,1,6,5,2</sub> | 6.5<br><sub>o 44% · u 56%</sub> | 2.8<br><sub>4,2,2,4,3</sub> | 2.5<br><sub>o 57% · u 43%</sub> | 0.8 | 0.1 | 1.6 | 28.5 |
 | Neemias Queta (BOS) | 98% | 27.1<br><sub>22,31,15,-,27</sub> | 13.0<br><sub>4,11,8,-,17</sub> | 12.5 · –<br><sub>o 49% · u 51%</sub> | 9.7<br><sub>6,13,6,-,10</sub> | 8.5<br><sub>o 54% · u 46%</sub> | 2.5<br><sub>3,3,2,-,3</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 0.2<br><sub>0,1,1,-,0</sub> |  | 0.8 | 1.2 | 1.4 | 25.1 |
 | Sam Hauser (BOS) | 99% | 26.5<br><sub>18,24,11,25,17</sub> | 11.2<br><sub>12,8,8,12,9</sub> | 11.5 · –<br><sub>o 49% · u 51%</sub> | 4.0<br><sub>5,9,1,1,2</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 1.6<br><sub>2,0,0,2,2</sub> |  | 2.2<br><sub>4,2,2,4,3</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 0.7 | 0.2 | 0.5 | 16.7 |

@@ -3,18 +3,19 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910028,BOS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,10.5,draftkings,1000.0,11.0,0.174,5.75,0.085,0.085,0.0891,,0.9142,0.0987,0.0854,0.0021,False,False,False,,,
 401910028,BOS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,12.5,draftkings,2400.0,25.0,0.0715,13.99,0.0374,0.0374,0.0341,,0.7869,0.0426,0.0658,0.0007,False,False,False,,,
 401910028,BOS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,9.5,draftkings,591.0,6.91,0.2522,3.97,0.1353,0.1353,0.1169,,0.7427,0.1533,0.059,0.0025,False,True,False,Precious Achiuwa,0.2709,0.2309
-401910028,BOS @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,11.5,draftkings,730.0,8.3,0.1951,5.13,0.1126,0.1126,0.0825,,0.6191,0.1253,0.04,0.0014,False,False,False,Precious Achiuwa,0.0,0.1959
 401910028,BOS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,19.5,draftkings,710.0,8.1,0.1992,5.02,0.1154,0.1154,0.0838,,0.6132,0.1283,0.0391,0.0014,False,True,False,Precious Achiuwa,0.0,0.2007
 401910028,BOS @ SAC,prop_pr,over,Precious Achiuwa,1630173.0,19.5,draftkings,960.0,10.6,0.1521,6.58,0.0882,0.0882,0.0639,,0.6118,0.098,0.0389,0.001,False,True,False,Precious Achiuwa,0.0,0.1529
-401910028,BOS @ SAC,prop_pr,over,Precious Achiuwa,1630173.0,14.5,draftkings,310.0,4.1,0.3801,2.63,0.2279,0.2279,0.1522,,0.5586,0.2514,0.0307,0.0025,True,True,False,Precious Achiuwa,0.0,0.3811
-401910028,BOS @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,9.5,draftkings,394.0,4.94,0.3148,3.18,0.1892,0.1892,0.1256,,0.5549,0.2085,0.0301,0.0019,False,True,False,Precious Achiuwa,0.0,0.318
+401910028,BOS @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,11.5,draftkings,720.0,8.2,0.1951,5.13,0.114,0.114,0.0811,,0.5996,0.1265,0.037,0.0013,False,False,False,Precious Achiuwa,0.0,0.1959
+401910028,BOS @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,14.5,draftkings,1660.0,17.6,0.0909,11.01,0.0531,0.0531,0.0378,,0.599,0.0589,0.0369,0.0006,False,True,False,Precious Achiuwa,0.0,0.0899
+401910028,BOS @ SAC,prop_pr,over,Precious Achiuwa,1630173.0,14.5,draftkings,309.0,4.09,0.3801,2.63,0.2285,0.2285,0.1516,,0.5548,0.2519,0.0301,0.0024,True,True,False,Precious Achiuwa,0.0,0.3811
+401910028,BOS @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,9.5,draftkings,392.0,4.92,0.3148,3.18,0.19,0.19,0.1248,,0.5486,0.2092,0.0291,0.0019,False,True,False,Precious Achiuwa,0.0,0.318
 401910028,BOS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,8.5,draftkings,340.0,4.4,0.3519,2.84,0.2124,0.2124,0.1395,,0.5486,0.2339,0.0291,0.0021,False,False,False,Precious Achiuwa,0.3727,0.326
-401910028,BOS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,14.5,draftkings,235.0,3.35,0.4524,2.21,0.279,0.279,0.1735,,0.5157,0.3057,0.0241,0.0026,True,True,False,Precious Achiuwa,0.0,0.4531
+401910028,BOS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,14.5,draftkings,234.0,3.34,0.4524,2.21,0.2798,0.2798,0.1726,,0.5111,0.3064,0.0234,0.0025,True,True,False,Precious Achiuwa,0.0,0.4531
 401910028,BOS @ SAC,moneyline,SAC,,,,betfair_ex_au,551.0,6.51,0.2381,4.2,0.1504,0.1563,0.0818,2.17,0.55,0.1563,0.0175,0.0008,False,True,True,,,
 401910028,BOS @ SAC,prop_pra,over,Precious Achiuwa,1630173.0,24.5,draftkings,1800.0,19.0,0.077,12.98,0.0492,0.0492,0.0278,,0.4635,0.0535,0.016,0.0002,False,True,False,Precious Achiuwa,0.0,0.0754
 401910028,BOS @ SAC,moneyline,SAC,,,,pointsbetau,550.0,6.5,0.2381,4.2,0.1481,0.1563,0.0818,3.88,0.5476,0.1563,0.0159,0.0007,False,True,True,,,
-401910028,BOS @ SAC,moneyline,SAC,,,,betr_au,550.0,6.5,0.2381,4.2,0.147,0.1563,0.0818,4.67,0.5476,0.1563,0.0159,0.0007,False,True,True,,,
 401910028,BOS @ SAC,moneyline,SAC,,,,tab,550.0,6.5,0.2381,4.2,0.1481,0.1563,0.0818,3.88,0.5476,0.1563,0.0159,0.0007,False,True,True,,,
+401910028,BOS @ SAC,moneyline,SAC,,,,betr_au,550.0,6.5,0.2381,4.2,0.147,0.1563,0.0818,4.67,0.5476,0.1563,0.0159,0.0007,False,True,True,,,
 401910028,BOS @ SAC,prop_pts,over,Precious Achiuwa,1630173.0,7.5,draftkings,201.0,3.01,0.4737,2.11,0.3105,0.3105,0.1632,,0.4259,0.3356,0.0102,0.0013,True,False,False,Precious Achiuwa,0.0,0.4771
 401910028,BOS @ SAC,prop_ast,over,Darius Acuff Jr.,905142620.0,7.5,draftkings,196.0,2.96,0.4681,2.14,0.3157,0.3157,0.1524,,0.3856,0.3392,0.004,0.0005,True,True,False,Precious Achiuwa,0.4885,0.4408
 401910028,BOS @ SAC,moneyline,SAC,,,,sportsbet,540.0,6.4,0.2381,4.2,0.1501,0.1563,0.0818,4.12,0.5238,0.1563,0.0003,0.0,False,True,True,,,
