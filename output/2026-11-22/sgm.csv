@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ MIA,Bennett Stirtz 12+ pts + Andrew Wiggins 10+ pr,2,0.6374,0.436,2.29,2.41,2.38,0.0396,0.999,2.10-2.50
-OKC @ MIA,Bennett Stirtz 12+ pts + Andrew Wiggins 1+ 3pm,2,0.6042,0.4247,2.35,2.47,2.44,0.0362,1.002,2.10-2.50
-OKC @ MIA,Bennett Stirtz 12+ pts + Isaiah Hartenstein 8+ reb,2,0.5981,0.4356,2.3,2.41,2.37,0.034,1.007,2.10-2.50
-OKC @ MIA,Bennett Stirtz 12+ pts + Andrew Wiggins 5+ pa,2,0.6849,0.499,2.0,2.1,2.06,0.0265,0.999,1.85-2.10
-OKC @ MIA,Kenrich Williams 11+ pts + Andrew Wiggins 5+ pa,2,0.7101,0.4945,2.02,2.12,1.96,-0.0331,1.0,1.85-2.10
-OKC @ MIA,Kenrich Williams 11+ pts + Davion Mitchell 1+ 3pm,2,0.649,0.4586,2.18,2.29,2.1,-0.0375,0.998,1.85-2.10
-OKC @ MIA,Andrew Wiggins 1+ 3pm + Jared McCain 15+ pts,2,0.7067,0.5886,1.7,1.78,1.54,-0.0935,1.002,1.50-1.65
-OKC @ MIA,Andrew Wiggins 10+ pr + Bennett Stirtz 10+ pr + Jared McCain 15+ pts,3,0.6757,0.4805,2.08,2.19,1.82,-0.1242,1.004,1.65-1.85
-OKC @ MIA,Andrew Wiggins 10+ pr + Bennett Stirtz 10+ pa + Jared McCain 15+ pts,3,0.6771,0.4884,2.05,2.15,1.79,-0.1274,1.003,1.65-1.85
-OKC @ MIA,Bennett Stirtz 10+ pa + Andrew Wiggins 1+ 3pm + Jared McCain 15+ pts,3,0.6433,0.4769,2.1,2.2,1.83,-0.1284,1.008,1.65-1.85
-OKC @ MIA,Bennett Stirtz 10+ pr + Andrew Wiggins 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.7108,0.5309,1.88,1.98,1.63,-0.1341,1.002,1.50-1.65
-OKC @ MIA,Bennett Stirtz 10+ pa + Andrew Wiggins 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.7129,0.5401,1.85,1.94,1.6,-0.1366,1.002,1.50-1.65
+OKC @ MIA,Isaiah Hartenstein 11+ pts + Pelle Larsson 10+ pr,2,0.4923,0.414,2.42,2.54,2.46,0.0167,1.0,2.10-2.50
+OKC @ MIA,Isaiah Hartenstein 11+ pts + Andrew Wiggins 1+ 3pm,2,0.4774,0.4136,2.42,2.54,2.46,0.0162,1.006,2.10-2.50
+OKC @ MIA,Isaiah Hartenstein 11+ pts + Kenrich Williams 1+ 3pm,2,0.4721,0.4154,2.41,2.53,2.44,0.0143,1.007,2.10-2.50
+OKC @ MIA,Bennett Stirtz 12+ pts + Bobby Portis 10+ pr,2,0.6328,0.4786,2.09,2.19,2.1,0.005,1.002,1.85-2.10
+OKC @ MIA,Kenrich Williams 11+ pts + Bobby Portis 10+ pr,2,0.7019,0.4883,2.05,2.15,2.0,-0.0253,1.001,1.85-2.10
+OKC @ MIA,Bam Adebayo pts under 21.5 + Bobby Portis 10+ pr,2,0.6414,0.4728,2.11,2.22,2.05,-0.0307,0.999,1.85-2.10
+OKC @ MIA,Pelle Larsson 10+ pr + Bobby Portis 1+ 3pm + Andrew Wiggins 1+ 3pm,3,0.6575,0.5135,1.95,2.04,1.68,-0.1392,1.006,1.65-1.85
+OKC @ MIA,Pelle Larsson 10+ pr + Andrew Wiggins 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.6738,0.5396,1.85,1.95,1.59,-0.1421,1.007,1.50-1.65
+OKC @ MIA,Pelle Larsson 10+ pr + Bobby Portis 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.6973,0.5534,1.81,1.9,1.55,-0.1428,1.005,1.50-1.65
+OKC @ MIA,Pelle Larsson 10+ pr + Andrew Wiggins 1+ 3pm + Bobby Portis 10+ pr,3,0.7171,0.5685,1.76,1.85,1.51,-0.143,1.004,1.50-1.65
+OKC @ MIA,Bobby Portis 1+ 3pm + Pelle Larsson 10+ pa + Andrew Wiggins 1+ 3pm,3,0.6434,0.5145,1.94,2.04,1.67,-0.143,1.006,1.65-1.85
+OKC @ MIA,Pelle Larsson 10+ pr + Andrew Wiggins 1+ 3pm + Kenrich Williams 1+ 3pm,3,0.6255,0.5006,2.0,2.1,1.71,-0.1439,1.005,1.65-1.85
 ORL @ WAS,game over 219.5 + Trae Young 15+ pr,2,0.6282,0.3905,2.56,2.69,2.43,-0.05,1.034,2.10-2.50
 ORL @ WAS,game over 219.5 + Kyshawn George 15+ pr,2,0.6395,0.4022,2.49,2.61,2.34,-0.0569,1.029,2.10-2.50
 ORL @ WAS,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.6299,0.3933,2.54,2.67,2.4,-0.0579,1.026,2.10-2.50
@@ -35,18 +35,18 @@ DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 10+ pa,2,0.6514,0.5098,1.9
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Nikola Jokic 8+ reb,2,0.6546,0.5114,1.96,2.05,1.8,-0.0818,1.001,1.65-1.85
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7115,0.5656,1.77,1.86,1.62,-0.0853,1.0,1.50-1.65
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6962,0.5731,1.74,1.83,1.59,-0.0878,1.003,1.50-1.65
-DAL @ UTA,Kyrie Irving 28+ pa + Daniel Gafford 10+ pr,2,0.4811,0.414,2.42,2.54,2.29,-0.051,1.011,2.10-2.50
-DAL @ UTA,Daniel Gafford 15+ pra + Josh Green 3pm under 1.5,2,0.6321,0.4283,2.33,2.45,2.21,-0.0538,1.0,2.10-2.50
-DAL @ UTA,DAL win + Daniel Gafford 10+ pr,2,0.5045,0.4383,2.28,2.4,2.15,-0.0567,1.007,2.10-2.50
-DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5288,0.473,2.11,2.22,1.99,-0.0593,1.01,1.85-2.10
-DAL @ UTA,DAL win + Daniel Gafford 10+ pra,2,0.5203,0.462,2.16,2.27,2.03,-0.0619,1.006,1.85-2.10
-DAL @ UTA,Daniel Gafford 15+ pr + Brice Sensabaugh 10+ pr,2,0.6178,0.4459,2.24,2.35,2.1,-0.0658,0.998,1.85-2.10
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pr,2,0.7516,0.5591,1.79,1.88,1.66,-0.0736,1.0,1.65-1.85
-DAL @ UTA,Daniel Gafford 15+ pra + Ace Bailey 15+ pra,2,0.6713,0.5162,1.94,2.03,1.79,-0.075,1.004,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pa,2,0.7131,0.5376,1.86,1.95,1.72,-0.0769,0.999,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pra,2,0.7763,0.5901,1.69,1.78,1.56,-0.0774,1.0,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 5+ pa,2,0.786,0.6019,1.66,1.74,1.53,-0.0784,1.0,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5716,1.75,1.84,1.6,-0.0827,1.0,1.50-1.65
+DAL @ UTA,Daniel Gafford 15+ pra + Josh Green 3pm under 1.5,2,0.6321,0.4163,2.4,2.52,2.29,-0.0474,1.0,2.10-2.50
+DAL @ UTA,DAL win + Daniel Gafford 10+ pr,2,0.5045,0.4331,2.31,2.42,2.18,-0.0542,1.007,2.10-2.50
+DAL @ UTA,Daniel Gafford 9+ pts + Brice Sensabaugh 10+ pa,2,0.5524,0.385,2.6,2.73,2.45,-0.0576,1.001,2.10-2.50
+DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5288,0.4689,2.13,2.24,2.01,-0.0577,1.01,1.85-2.10
+DAL @ UTA,DAL win + Daniel Gafford 10+ pra,2,0.5203,0.4571,2.19,2.3,2.06,-0.0598,1.006,1.85-2.10
+DAL @ UTA,Daniel Gafford 15+ pr + Ace Bailey 10+ pr,2,0.6548,0.4742,2.11,2.21,1.98,-0.0635,1.002,1.85-2.10
+DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 10+ pr,2,0.6948,0.504,1.98,2.08,1.85,-0.0679,0.999,1.65-1.85
+DAL @ UTA,Daniel Gafford 15+ pra + Ace Bailey 10+ pr,2,0.736,0.5496,1.82,1.91,1.69,-0.0703,1.002,1.65-1.85
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pr,2,0.7516,0.5524,1.81,1.9,1.68,-0.0712,1.0,1.65-1.85
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pra,2,0.7763,0.5839,1.71,1.8,1.58,-0.0754,1.0,1.50-1.65
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 5+ pa,2,0.786,0.5967,1.68,1.76,1.55,-0.0768,1.0,1.50-1.65
+DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5723,1.75,1.83,1.6,-0.083,1.0,1.50-1.65
 IND @ NYK,NYK win + Jalen Brunson 32+ pr,2,0.4334,0.3917,2.55,2.68,2.49,-0.0237,1.051,2.10-2.50
 IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4662,2.14,2.25,2.05,-0.0443,1.027,1.85-2.10
 IND @ NYK,NYK win + Josh Hart reb under 8.5,2,0.4767,0.3939,2.54,2.67,2.4,-0.0555,1.001,2.10-2.50
