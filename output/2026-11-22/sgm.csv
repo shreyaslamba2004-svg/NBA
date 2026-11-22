@@ -8,14 +8,13 @@ DET @ ATL,Paul Reed 18+ pr + Onyeka Okongwu 10+ pa,2,0.6307,0.4706,2.12,2.23,1.9
 DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 10+ pa,2,0.6463,0.513,1.95,2.05,1.79,-0.0839,1.002,1.65-1.85
 DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 15+ pra,2,0.6665,0.5297,1.89,1.98,1.73,-0.0851,1.001,1.65-1.85
 DET @ ATL,Kevin Huerter reb under 4.5 + Paul Reed 4+ reb,2,0.6461,0.5117,1.95,2.05,1.78,-0.0878,0.997,1.65-1.85
-OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.3922,0.4458,2.24,2.36,2.09,-0.0675,1.029,1.85-2.10
-OKC @ MIA,MIA -2.5 + Davion Mitchell 10+ pts,2,0.343,0.4003,2.5,2.62,2.32,-0.0704,1.031,2.10-2.50
-OKC @ MIA,Jared McCain 6+ ra + Isaiah Hartenstein 15+ pr,2,0.4824,0.3959,2.53,2.65,2.32,-0.0817,1.009,2.10-2.50
-OKC @ MIA,Ajay Mitchell 5+ ast + Isaiah Hartenstein 15+ pr,2,0.4664,0.3712,2.69,2.83,2.47,-0.0839,1.005,2.10-2.50
+OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.3922,0.4454,2.25,2.36,2.09,-0.0673,1.029,1.85-2.10
+OKC @ MIA,game over 231.5 + Isaiah Hartenstein 15+ pr,2,0.5229,0.4046,2.47,2.59,2.3,-0.0699,1.03,2.10-2.50
+OKC @ MIA,MIA -2.5 + Davion Mitchell 10+ pts,2,0.343,0.3999,2.5,2.63,2.33,-0.0702,1.031,2.10-2.50
+OKC @ MIA,game over 231.5 + Davion Mitchell 10+ pts,2,0.5132,0.3997,2.5,2.63,2.33,-0.0707,1.031,2.10-2.50
+OKC @ MIA,game over 231.5 + Isaiah Hartenstein 15+ pra,2,0.5726,0.4501,2.22,2.33,2.03,-0.0857,1.016,1.85-2.10
 OKC @ MIA,Jared McCain 6+ ra + Isaiah Hartenstein 15+ pra,2,0.5333,0.4464,2.24,2.35,2.04,-0.0892,1.004,1.85-2.10
-OKC @ MIA,Ajay Mitchell pts under 21.5 + Isaiah Hartenstein 10+ pr,2,0.5963,0.4849,2.06,2.17,1.87,-0.0925,0.997,1.85-2.10
-OKC @ MIA,MIA win + Isaiah Hartenstein 10+ pr,2,0.448,0.5131,1.95,2.05,1.76,-0.0994,0.996,1.65-1.85
-OKC @ MIA,Jared McCain 3pm under 3.5 + Isaiah Hartenstein 10+ pr,2,0.6452,0.5486,1.82,1.91,1.64,-0.1006,0.998,1.50-1.65
+OKC @ MIA,MIA win + Isaiah Hartenstein 6+ reb,2,0.4323,0.5014,1.99,2.09,1.8,-0.0987,0.999,1.65-1.85
 OKC @ MIA,MIA win + Isaiah Hartenstein 15+ pra,2,0.4274,0.4898,2.04,2.14,1.83,-0.1039,0.991,1.65-1.85
 OKC @ MIA,Jared McCain 3pm under 3.5 + Isaiah Hartenstein 15+ pra,2,0.6163,0.5243,1.91,2.0,1.71,-0.1039,0.994,1.65-1.85
 ORL @ WAS,ORL win + Jalen Suggs 4+ ast,2,0.4472,0.3916,2.55,2.68,2.42,-0.0507,1.028,2.10-2.50
