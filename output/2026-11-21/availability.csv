@@ -2,31 +2,31 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910024,NYK,904683730,Jaden Akins,,,1.0,,,
 401910024,NYK,1630631,Jose Alvarado,,,1.0,,,
 401910024,NYK,1628384,OG Anunoby,Out,Injury/Illness-LeftCalfTightness,0.0,Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.,,
-401910024,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
-401910024,NYK,1628973,Jalen Brunson,Starting,,1.0,,,1.0
+401910024,NYK,1628969,Mikal Bridges,,,1.0,,,
+401910024,NYK,1628973,Jalen Brunson,,,1.0,,,
 401910024,NYK,203903,Jordan Clarkson,Out,Injury/Illness-RightPlantarFasciitis,0.0,Clarkson (foot) won't play in Saturday's game against Portland.,,
 401910024,NYK,1642359,Pacome Dadiet,,,1.0,,,
 401910024,NYK,1642885,Mohamed Diawara,,,1.0,,,
-401910024,NYK,203083,Andre Drummond,Starting,,1.0,,,1.0
-401910024,NYK,1628404,Josh Hart,Starting,,1.0,,,1.0
+401910024,NYK,203083,Andre Drummond,,,1.0,,,
+401910024,NYK,1628404,Josh Hart,,,1.0,,,
 401910024,NYK,1642261,Dalton Knecht,,,1.0,,,
 401910024,NYK,1642278,Tyler Kolek,,,1.0,,,
 401910024,NYK,1630540,Miles McBride,,,1.0,,,
 401910024,NYK,904838721,Tyler Nickel,,,1.0,,,
-401910024,NYK,1629013,Landry Shamet,Starting,,1.0,,,1.0
+401910024,NYK,1629013,Landry Shamet,,,1.0,,,
 401910024,NYK,1626157,Karl-Anthony Towns,Out,Injury/Illness-Illness,0.0,Towns (illness) won't play in Saturday's game versus the Trail Blazers.,,
 401910024,NYK,1630164,James Wiseman,,,1.0,,,
-401910024,POR,1630166,Deni Avdija,Starting,Injury/Illness-LeftFootContusion,1.0,,,1.0
-401910024,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
+401910024,POR,1630166,Deni Avdija,Available,Injury/Illness-LeftFootContusion,1.0,,,
+401910024,POR,1641739,Toumani Camara,,,1.0,,,
 401910024,POR,904592435,Branden Carlson,Available,Injury/Illness-FaceMask,1.0,,,
-401910024,POR,1631321,Sidy Cissoko,Starting,,1.0,,,1.0
-401910024,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
+401910024,POR,1631321,Sidy Cissoko,,,1.0,,,
+401910024,POR,1642270,Donovan Clingan,,,1.0,,,
 401910024,POR,1642905,Yang Hansen,,,1.0,,,
 401910024,POR,1630703,Scoot Henderson,,,1.0,,,
 401910024,POR,201950,Jrue Holiday,,,1.0,,,
 401910024,POR,1643257,Jayson Kent,,,1.0,,,
 401910024,POR,1630249,Vit Krejci,Out,Injury/Illness-LeftAnkleFracture,0.0,"Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",,
-401910024,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
+401910024,POR,203081,Damian Lillard,,,1.0,,,
 401910024,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant ""may not be out for as long as we thought,"" Trail Blazers Insider Sean Highkin reports.",,
 401910024,POR,1630695,Micah Potter,,,1.0,,,
 401910024,POR,1631101,Shaedon Sharpe,Out,,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
@@ -39,34 +39,34 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910025,DAL,1630619,Moussa Cisse,,,1.0,,,
 401910025,DAL,904896372,Walter Clayton Jr.,Available,Injury/Illness-LeftPatellarTendinitis,1.0,,,
 401910025,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) is listed as out for Wednesday's game against the Warriors.,0.0,De Larrea (knee) is listed as out for Wednesday's game against the Warriors.,,
-401910025,DAL,1642843,Cooper Flagg,,,1.0,,,
-401910025,DAL,1629655,Daniel Gafford,,,1.0,,,
+401910025,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
+401910025,DAL,1629655,Daniel Gafford,Starting,,1.0,,,1.0
 401910025,DAL,1641724,Jett Howard,Out,GLeague-Two-Way,0.0,,,
-401910025,DAL,202681,Kyrie Irving,,,1.0,,,
+401910025,DAL,202681,Kyrie Irving,Starting,,1.0,,,1.0
 401910025,DAL,1642358,Morez Johnson Jr.,,,1.0,,,
 401910025,DAL,905106040,Tobi Lawal,Out,Injury/Illness-RightGroinStrain,0.0,Lawal (groin) is out for Saturday's game against the Clippers.,,
 401910025,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,"Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's ""close"" to returning, Mike Curtis of The Dallas Morning News reports.",,
 401910025,DAL,1630230,Naji Marshall,,,1.0,,,
-401910025,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
-401910025,DAL,905211175,Zaccharie Risacher,,,1.0,,,
+401910025,DAL,1628997,Caleb Martin,Starting,Injury/Illness-RightThumbSplint,1.0,,,1.0
+401910025,DAL,905211175,Zaccharie Risacher,Starting,,1.0,,,1.0
 401910025,DAL,1631204,Marcus Sasser,,,1.0,,,
 401910025,DAL,1629023,P.J. Washington,Out,Injury/Illness-Illness,0.0,Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers.,,
 401910025,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401910025,LAC,1642353,Cam Christie,,,1.0,,,
 401910025,LAC,1641711,Gradey Dick,,,1.0,,,
 401910025,LAC,1627739,Kris Dunn,,,1.0,,,
-401910025,LAC,1629636,Darius Garland,,,1.0,,,
-401910025,LAC,1629060,Rui Hachimura,,,1.0,,,
+401910025,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
+401910025,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
 401910025,LAC,1627742,Brandon Ingram,Out,Injury/Illness-RightHeelSurgery,0.0,"Ingram (Achilles) is expected to make his season and team debut Monday against the Rockets, per Shams Charania of ESPN.",,
 401910025,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401910025,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
-401910025,LAC,201572,Brook Lopez,,,1.0,,,
+401910025,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401910025,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
 401910025,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401910025,LAC,1641757,Baba Miller,,,1.0,,,
 401910025,LAC,905108024,Yanic Konan Niederhauser,,,1.0,,,
 401910025,LAC,1629618,Jalen Pickett,Out,GLeague-Two-Way,0.0,,,
 401910025,LAC,1642920,Kobe Sanders,,,1.0,,,
-401910025,LAC,1629622,Max Strus,,,1.0,,,
+401910025,LAC,1629622,Max Strus,Starting,,1.0,,,1.0
 401910025,LAC,905254165,Keaton Wagler,,,1.0,,,
 401910025,LAC,1631104,Blake Wesley,,,1.0,,,
 401910026,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
