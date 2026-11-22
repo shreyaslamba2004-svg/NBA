@@ -1,6 +1,6 @@
 # NBA model · Sun 22 Nov 2026 (US date)
 
-Updated **Mon 23 Nov, 12:30 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-22/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 23 Nov, 12:40 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-22/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -57,7 +57,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| DET @ ATL | Mon 23 Nov 07:30 | 112.9–108.7 | DET 62% | 1.62 / 2.62 | ATL +4.5 | 221.5 | ATL +1.5 covers 41%; o224.5 44% |
+| DET @ ATL | Mon 23 Nov 07:30 | 112.9–108.7 | DET 62% | 1.62 / 2.62 | ATL +4.5 | 221.5 | ATL +2.5 covers 44%; o224.5 44% |
 | OKC @ MIA | Mon 23 Nov 10:00 | 117.2–117.4 | OKC 50% | 2.02 / 1.98 | MIA +0.5 | 234.5 | MIA -3.5 covers 41%; o231.5 56% |
 | ORL @ WAS | Mon 23 Nov 11:00 | 119.2–113.0 | ORL 67% | 1.49 / 3.02 | WAS +6.5 | 232.5 | WAS +4.5 covers 45%; o220.5 73% |
 | DEN @ CHI | Mon 23 Nov 11:00 | 124.9–114.2 | DEN 78% | 1.28 / 4.53 | CHI +10.5 | 238.5 | CHI +8.5 covers 43%; o237.5 53% |
@@ -70,9 +70,9 @@ Out: Mouhamed Gueye (ATL), Jock Landale (ATL), CJ McCollum (ATL), Asa Newell (AT
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 112.9–108.7 | DET 62% | 1.62 / 2.62 | ATL +4.5 | 221.5 | ATL +1.5 covers 41%; o224.5 44% |
-| Expected (weighted by chance each plays) | 113.8–110.4 | DET 60% | 1.68 / 2.48 | ATL +3.5 | 224.5 | ATL +1.5 covers 43%; o224.5 50% |
-| if Kingston Flemings plays | 113.1–109.9 | DET 59% | 1.69 / 2.45 | ATL +3.5 | 222.5 | ATL +1.5 covers 44%; o224.5 47% |
+| Confirmed players only | 112.9–108.7 | DET 62% | 1.62 / 2.62 | ATL +4.5 | 221.5 | ATL +2.5 covers 44%; o224.5 44% |
+| Expected (weighted by chance each plays) | 113.8–110.4 | DET 60% | 1.68 / 2.48 | ATL +3.5 | 224.5 | ATL +2.5 covers 46%; o224.5 50% |
+| if Kingston Flemings plays | 113.1–109.9 | DET 59% | 1.69 / 2.45 | ATL +3.5 | 222.5 | ATL +2.5 covers 47%; o224.5 47% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -288,10 +288,10 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Paolo
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Franz Wagner | 99% | 33.8<br><sub>39,36,38,36,36</sub> | 26.4<br><sub>38,35,21,27,35</sub> | 25.5 · –<br><sub>o 49% · u 51%</sub> | 6.1<br><sub>8,9,8,8,5</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 6.8<br><sub>1,12,9,11,7</sub> | 6.5<br><sub>o 55% · u 45%</sub> | 1.5<br><sub>3,3,0,1,2</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 1.3 | 0.4 | 2.6 | 39.3 |
+| Franz Wagner | 99% | 33.8<br><sub>39,36,38,36,36</sub> | 26.4<br><sub>38,35,21,27,35</sub> | 25.5 · –<br><sub>o 49% · u 51%</sub> | 6.1<br><sub>8,9,8,8,5</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 6.8<br><sub>1,12,9,11,7</sub> | 7.5<br><sub>o 43% · u 57%</sub> | 1.5<br><sub>3,3,0,1,2</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 1.3 | 0.4 | 2.6 | 39.3 |
 | Desmond Bane | 98% | 32.9<br><sub>34,35,39,38,31</sub> | 20.0<br><sub>25,21,24,15,21</sub> | 18.5 · –<br><sub>o 52% · u 48%</sub> | 4.1<br><sub>3,5,8,3,2</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 3.5<br><sub>2,3,5,3,3</sub> | 2.5<br><sub>o 60% · u 40%</sub> | 3.1<br><sub>7,6,3,5,7</sub> | 3.5<br><sub>o 41% · u 59%</sub> | 1.4 | 0.4 | 1.7 | 27.6 |
 | Anthony Black | 98% | 32.2<br><sub>39,37,33,37,37</sub> | 16.0<br><sub>22,5,20,15,13</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.3<br><sub>7,2,2,2,7</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 5.0<br><sub>8,5,7,6,6</sub> | 5.5<br><sub>o 42% · u 58%</sub> | 1.6<br><sub>3,1,3,2,2</sub> | 1.5<br><sub>o 47% · u 53%</sub> | 1.9 | 0.7 | 2.2 | 25.2 |
-| Wendell Carter Jr. | 99% | 30.1<br><sub>28,30,28,32,35</sub> | 13.3<br><sub>9,12,10,15,8</sub> | 11.5 · –<br><sub>o 53% · u 47%</sub> | 8.3<br><sub>7,8,3,8,8</sub> | 8.5<br><sub>o 46% · u 54%</sub> | 1.9<br><sub>3,0,1,3,2</sub> |  | 0.8<br><sub>0,1,1,2,0</sub> |  | 0.8 | 0.8 | 1.4 | 23.5 |
+| Wendell Carter Jr. | 99% | 30.1<br><sub>28,30,28,32,35</sub> | 13.3<br><sub>9,12,10,15,8</sub> | 11.5 · –<br><sub>o 54% · u 46%</sub> | 8.3<br><sub>7,8,3,8,8</sub> | 8.5<br><sub>o 45% · u 55%</sub> | 1.9<br><sub>3,0,1,3,2</sub> |  | 0.8<br><sub>0,1,1,2,0</sub> |  | 0.8 | 0.8 | 1.4 | 23.5 |
 | Jalen Suggs | 98% | 28.0<br><sub>-,21,25,31,30</sub> | 12.0<br><sub>-,3,12,18,8</sub> | 12.5 · –<br><sub>o 46% · u 54%</sub> | 3.9<br><sub>-,2,6,8,6</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 4.7<br><sub>-,3,4,4,2</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 1.7<br><sub>-,1,2,5,2</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.6 | 0.6 | 2.2 | 20.5 |
 | Tristan da Silva | 88% | 26.2<br><sub>-,31,31,27,24</sub> | 11.6<br><sub>-,12,13,12,6</sub> | 11.5 · –<br><sub>o 47% · u 53%</sub> | 3.8<br><sub>-,6,6,2,1</sub> | 3.5<br><sub>o 55% · u 45%</sub> | 1.8<br><sub>-,2,3,0,2</sub> |  | 1.8<br><sub>-,2,3,2,2</sub> | 2.5<br><sub>o 37% · u 63%</sub> | 0.8 | 0.3 | 1.0 | 17.2 |
 | Goga Bitadze | 91% | 15.6<br><sub>20,18,20,20,15</sub> | 6.5<br><sub>4,12,10,8,4</sub> |  | 5.5<br><sub>7,4,6,3,4</sub> |  | 1.2<br><sub>0,1,1,1,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 1.1 | 0.7 | 13.1 |
@@ -308,12 +308,12 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Paolo
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| AJ Dybantsa | 98% | 35.1<br><sub>44,30,32,38,37</sub> | 16.6<br><sub>5,16,21,23,20</sub> | 17.5 · –<br><sub>o 49% · u 51%</sub> | 7.2<br><sub>8,7,5,12,10</sub> | 6.5<br><sub>o 48% · u 52%</sub> | 2.8<br><sub>4,1,3,2,6</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 1.2<br><sub>1,2,1,0,2</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.2 | 0.6 | 2.3 | 26.5 |
-| Anthony Davis | 99% | 34.6<br><sub>44,31,35,34,34</sub> | 23.5<br><sub>30,14,23,25,36</sub> | 23.5 · –<br><sub>o 50% · u 50%</sub> | 10.9<br><sub>15,8,4,14,11</sub> | 10.5<br><sub>o 51% · u 49%</sub> | 2.9<br><sub>4,5,0,2,3</sub> | 1.5<br><sub>o 62% · u 38%</sub> | 0.7<br><sub>0,0,0,2,0</sub> |  | 1.2 | 1.7 | 2.2 | 37.3 |
+| AJ Dybantsa | 98% | 35.1<br><sub>44,30,32,38,37</sub> | 16.6<br><sub>5,16,21,23,20</sub> | 17.5 · –<br><sub>o 49% · u 51%</sub> | 7.2<br><sub>8,7,5,12,10</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.8<br><sub>4,1,3,2,6</sub> | 2.5<br><sub>o 46% · u 54%</sub> | 1.2<br><sub>1,2,1,0,2</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.2 | 0.6 | 2.3 | 26.5 |
+| Anthony Davis | 99% | 34.6<br><sub>44,31,35,34,34</sub> | 23.5<br><sub>30,14,23,25,36</sub> | 23.5 · –<br><sub>o 50% · u 50%</sub> | 10.9<br><sub>15,8,4,14,11</sub> | 10.5<br><sub>o 50% · u 50%</sub> | 2.9<br><sub>4,5,0,2,3</sub> | 1.5<br><sub>o 61% · u 39%</sub> | 0.7<br><sub>0,0,0,2,0</sub> |  | 1.2 | 1.7 | 2.2 | 37.3 |
 | Trae Young | 99% | 34.6<br><sub>45,26,33,32,35</sub> | 18.3<br><sub>37,0,13,11,16</sub> | 17.5 · –<br><sub>o 49% · u 51%</sub> | 2.8<br><sub>2,1,2,1,2</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 8.7<br><sub>14,8,12,8,5</sub> | 8.5<br><sub>o 46% · u 54%</sub> | 2.2<br><sub>4,0,2,1,4</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 1.3 | 0.2 | 3.2 | 29.7 |
-| Kyshawn George | 99% | 34.0<br><sub>26,30,38,40,35</sub> | 16.7<br><sub>14,11,18,20,11</sub> | 15.5 · –<br><sub>o 52% · u 48%</sub> | 4.6<br><sub>1,2,6,2,7</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 4.3<br><sub>5,4,1,4,5</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 2.3<br><sub>3,1,2,4,1</sub> | 1.5<br><sub>o 62% · u 38%</sub> | 1.1 | 1.2 | 2.3 | 25.6 |
-| Alex Sarr | 98% | 26.2<br><sub>44,27,31,22,20</sub> | 11.5<br><sub>30,25,6,13,3</sub> | 10.5 · –<br><sub>o 48% · u 52%</sub> | 6.4<br><sub>9,9,4,2,3</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 2.0<br><sub>2,2,1,3,0</sub> |  | 1.2<br><sub>4,3,1,3,1</sub> | 1.5<br><sub>o 35% · u 65%</sub> | 0.8 | 1.7 | 1.4 | 19.8 |
-| Bilal Coulibaly | 99% | 23.0<br><sub>29,21,16,26,24</sub> | 7.6<br><sub>4,9,11,3,2</sub> | 6.5 · –<br><sub>o 51% · u 49%</sub> | 3.8<br><sub>7,2,5,8,5</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 1.3<br><sub>0,0,0,2,0</sub> |  | 0.6<br><sub>0,1,1,0,0</sub> |  | 1.0 | 0.9 | 1.1 | 12.8 |
+| Kyshawn George | 99% | 34.0<br><sub>26,30,38,40,35</sub> | 16.7<br><sub>14,11,18,20,11</sub> | 15.5 · –<br><sub>o 52% · u 48%</sub> | 4.6<br><sub>1,2,6,2,7</sub> | 4.5<br><sub>o 44% · u 56%</sub> | 4.3<br><sub>5,4,1,4,5</sub> | 3.5<br><sub>o 58% · u 42%</sub> | 2.3<br><sub>3,1,2,4,1</sub> | 1.5<br><sub>o 62% · u 38%</sub> | 1.1 | 1.2 | 2.3 | 25.6 |
+| Alex Sarr | 98% | 26.2<br><sub>44,27,31,22,20</sub> | 11.5<br><sub>30,25,6,13,3</sub> | 10.5 · –<br><sub>o 48% · u 52%</sub> | 6.4<br><sub>9,9,4,2,3</sub> | 6.5<br><sub>o 48% · u 52%</sub> | 2.0<br><sub>2,2,1,3,0</sub> |  | 1.2<br><sub>4,3,1,3,1</sub> | 1.5<br><sub>o 35% · u 65%</sub> | 0.8 | 1.7 | 1.4 | 19.8 |
+| Bilal Coulibaly | 99% | 23.0<br><sub>29,21,16,26,24</sub> | 7.6<br><sub>4,9,11,3,2</sub> | 6.5 · –<br><sub>o 51% · u 49%</sub> | 3.8<br><sub>7,2,5,8,5</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 1.3<br><sub>0,0,0,2,0</sub> |  | 0.6<br><sub>0,1,1,0,0</sub> |  | 1.0 | 0.9 | 1.1 | 12.8 |
 | Khris Middleton | 64% | 17.6<br><sub>-,9,18,20,28</sub> | 6.0<br><sub>-,8,9,8,5</sub> |  | 2.5<br><sub>-,0,3,4,2</sub> |  | 1.6<br><sub>-,2,3,1,3</sub> |  | 0.6<br><sub>-,2,2,1,0</sub> |  | 0.6 | 0.1 | 1.1 | 10.1 |
 | Tre Johnson | 96% | 13.1<br><sub>30,-,21,8,4</sub> | 5.3<br><sub>13,-,9,0,2</sub> |  | 1.3<br><sub>4,-,1,2,1</sub> |  | 0.6<br><sub>2,-,3,0,0</sub> |  | 0.6<br><sub>1,-,2,0,0</sub> |  | 0.4 | 0.1 | 0.6 | 7.2 |
 | Bub Carrington | 84% | 12.6<br><sub>16,23,2,-,6</sub> | 3.9<br><sub>2,11,0,-,3</sub> |  | 1.4<br><sub>0,0,0,-,0</sub> |  | 1.6<br><sub>2,4,0,-,0</sub> |  | 0.5<br><sub>0,3,0,-,1</sub> |  | 0.3 | 0.1 | 0.8 | 6.9 |
