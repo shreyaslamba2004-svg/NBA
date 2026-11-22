@@ -1,50 +1,50 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Paul Reed 4+ reb,2,0.6244,0.4183,2.39,2.51,2.28,-0.0463,1.001,2.10-2.50
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 10+ pra,2,0.639,0.4355,2.3,2.41,2.19,-0.0469,1.003,2.10-2.50
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 1+ 3pm,2,0.6107,0.4211,2.37,2.49,2.25,-0.0524,1.0,2.10-2.50
-DET @ ATL,Paul Reed 19+ pr + Dyson Daniels 15+ pra,2,0.5914,0.4542,2.2,2.31,2.04,-0.0745,1.004,1.85-2.10
-DET @ ATL,Paul Reed 19+ pr + Dyson Daniels 10+ pa,2,0.5793,0.4481,2.23,2.34,2.07,-0.0745,1.005,1.85-2.10
-DET @ ATL,Paul Reed 19+ pr + Aaron Wiggins 1+ 3pm,2,0.5772,0.4437,2.25,2.37,2.08,-0.0755,1.003,1.85-2.10
-DET @ ATL,Nickeil Alexander-Walker 3+ ast + Dyson Daniels 10+ pa,2,0.5873,0.5074,1.97,2.07,1.8,-0.0882,1.01,1.65-1.85
-DET @ ATL,Paul Reed 7+ reb + Jalen Johnson 4+ ast,2,0.6051,0.5012,2.0,2.1,1.82,-0.0891,1.005,1.65-1.85
-DET @ ATL,DET win + Onyeka Okongwu 4+ reb,2,0.5622,0.4948,2.02,2.12,1.84,-0.0892,1.001,1.65-1.85
-DET @ ATL,Aaron Wiggins 2+ ast + Dyson Daniels 15+ pra,2,0.6335,0.5514,1.81,1.9,1.64,-0.0943,1.002,1.50-1.65
-OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.3939,0.4578,2.18,2.29,2.1,-0.0389,1.031,1.85-2.10
-OKC @ MIA,Andrew Wiggins 10+ pts + Davion Mitchell 10+ pts,2,0.5493,0.3879,2.58,2.71,2.46,-0.0455,1.009,2.10-2.50
-OKC @ MIA,game over 231.5 + Davion Mitchell 10+ pts,2,0.5174,0.3881,2.58,2.71,2.45,-0.0495,1.036,2.10-2.50
-OKC @ MIA,Andrew Wiggins 13+ pr + Davion Mitchell 10+ pts,2,0.583,0.4065,2.46,2.58,2.34,-0.0504,1.01,2.10-2.50
-OKC @ MIA,Andrew Wiggins 10+ pts + Isaiah Hartenstein 15+ pra,2,0.6163,0.451,2.22,2.33,2.09,-0.0578,1.003,1.85-2.10
-OKC @ MIA,Andrew Wiggins 13+ pr + Isaiah Hartenstein 15+ pra,2,0.6538,0.4725,2.12,2.22,1.98,-0.0631,1.003,1.85-2.10
+DET @ ATL,DET win + Paul Reed 10+ pa,2,0.5075,0.413,2.42,2.54,2.3,-0.0521,1.026,2.10-2.50
+DET @ ATL,DET -1.5 + Paul Reed 10+ pa,2,0.4827,0.3863,2.59,2.72,2.44,-0.0571,1.028,2.10-2.50
+DET @ ATL,ATL +2.5 + Onyeka Okongwu 10+ pts,2,0.3979,0.4111,2.43,2.55,2.28,-0.0643,1.03,2.10-2.50
+DET @ ATL,Paul Reed 21+ pra + Dyson Daniels 10+ pr,2,0.6067,0.4747,2.11,2.21,1.94,-0.0769,1.003,1.85-2.10
+DET @ ATL,Paul Reed 19+ pr + Dyson Daniels 10+ pr,2,0.6013,0.4669,2.14,2.25,1.98,-0.0771,1.003,1.85-2.10
+DET @ ATL,Paul Reed 19+ pr + Dyson Daniels 4+ reb,2,0.5794,0.4534,2.21,2.32,2.03,-0.0774,1.005,1.85-2.10
+DET @ ATL,DET win + Onyeka Okongwu 4+ reb,2,0.5622,0.4959,2.02,2.12,1.84,-0.0896,1.001,1.65-1.85
+DET @ ATL,Paul Reed 6+ reb + Onyeka Okongwu 10+ pts,2,0.6481,0.5418,1.85,1.94,1.67,-0.0939,1.002,1.65-1.85
+DET @ ATL,DET win + Dyson Daniels 10+ pr,2,0.5587,0.4906,2.04,2.14,1.84,-0.0956,0.994,1.65-1.85
+DET @ ATL,Paul Reed 6+ reb + Onyeka Okongwu 1+ 3pm,2,0.6578,0.5582,1.79,1.88,1.62,-0.0965,1.002,1.50-1.65
+DET @ ATL,Paul Reed 6+ reb + Aaron Wiggins 1+ 3pm,2,0.7026,0.5999,1.67,1.75,1.5,-0.0976,1.002,1.50-1.65
+DET @ ATL,Paul Reed 6+ reb + Aaron Wiggins 1+ 3pm + Dyson Daniels 15+ pra,3,0.6534,0.539,1.86,1.95,1.58,-0.1487,1.005,1.50-1.65
+OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.3939,0.4638,2.16,2.26,2.07,-0.0414,1.031,1.85-2.10
+OKC @ MIA,Andrew Wiggins 13+ pr + Davion Mitchell 10+ pts,2,0.583,0.4151,2.41,2.53,2.3,-0.0455,1.01,2.10-2.50
+OKC @ MIA,game over 231.5 + Davion Mitchell 10+ pts,2,0.5174,0.3933,2.54,2.67,2.41,-0.052,1.036,2.10-2.50
+OKC @ MIA,Andrew Wiggins 13+ pr + Isaiah Hartenstein 15+ pr,2,0.5897,0.4225,2.37,2.49,2.24,-0.0531,1.003,2.10-2.50
+OKC @ MIA,Andrew Wiggins 13+ pr + Isaiah Hartenstein 15+ pra,2,0.6538,0.4762,2.1,2.21,1.98,-0.0558,1.003,1.85-2.10
+OKC @ MIA,MIA win + Isaiah Hartenstein 8+ reb,2,0.384,0.4622,2.16,2.27,2.02,-0.0673,1.008,1.85-2.10
 OKC @ MIA,MIA win + Isaiah Hartenstein 15+ pra,2,0.4304,0.5183,1.93,2.03,1.78,-0.0762,0.998,1.65-1.85
-OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 15+ pr,2,0.5985,0.4996,2.0,2.1,1.82,-0.0903,1.006,1.65-1.85
-OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 15+ pra,2,0.6625,0.5622,1.78,1.87,1.61,-0.0942,1.005,1.50-1.65
-OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 8+ reb,2,0.5837,0.4951,2.02,2.12,1.82,-0.0969,1.002,1.65-1.85
-OKC @ MIA,Davion Mitchell 10+ pts + Isaiah Hartenstein 15+ pr,2,0.6894,0.5956,1.68,1.76,1.51,-0.1006,1.002,1.50-1.65
-OKC @ MIA,Davion Mitchell 10+ pts + Isaiah Hartenstein 8+ reb,2,0.6742,0.5919,1.69,1.77,1.51,-0.1047,1.0,1.50-1.65
-ORL @ WAS,ORL -5.5 + Wendell Carter Jr. 10+ pa,2,0.4323,0.3919,2.55,2.68,2.42,-0.0513,1.028,2.10-2.50
-ORL @ WAS,WAS +4.5 + Kyshawn George 15+ pr,2,0.3749,0.3847,2.6,2.73,2.46,-0.0525,1.038,2.10-2.50
+OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 15+ pr,2,0.5985,0.5017,1.99,2.09,1.81,-0.0911,1.006,1.65-1.85
+OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 15+ pra,2,0.6625,0.5646,1.77,1.86,1.6,-0.095,1.005,1.50-1.65
+OKC @ MIA,Ajay Mitchell 4+ ast + Isaiah Hartenstein 8+ reb,2,0.5837,0.4972,2.01,2.11,1.81,-0.0977,1.002,1.65-1.85
+ORL @ WAS,ORL -5.5 + Wendell Carter Jr. 10+ pa,2,0.4323,0.3899,2.56,2.69,2.44,-0.0504,1.028,2.10-2.50
+ORL @ WAS,WAS +4.5 + Kyshawn George 15+ pr,2,0.3749,0.3824,2.61,2.75,2.48,-0.0513,1.038,2.10-2.50
 ORL @ WAS,WAS +4.5 + Kyshawn George 10+ pts,2,0.3946,0.4046,2.47,2.6,2.33,-0.0582,1.032,2.10-2.50
-ORL @ WAS,ORL win + Wendell Carter Jr. 10+ pa,2,0.5496,0.5009,2.0,2.1,1.86,-0.0684,1.02,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + Anthony Black 1+ stl,2,0.6319,0.4741,2.11,2.21,1.96,-0.0711,1.001,1.85-2.10
+ORL @ WAS,ORL win + Wendell Carter Jr. 10+ pa,2,0.5496,0.4983,2.01,2.11,1.87,-0.0675,1.02,1.85-2.10
+ORL @ WAS,Anthony Davis 2+ ast + Anthony Black 1+ stl,2,0.6319,0.4734,2.11,2.22,1.96,-0.0724,1.001,1.85-2.10
 ORL @ WAS,ORL win + Anthony Davis 1+ blk,2,0.54,0.461,2.17,2.28,2.01,-0.0733,1.001,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pts,2,0.6539,0.5128,1.95,2.05,1.8,-0.0751,1.006,1.65-1.85
-ORL @ WAS,Anthony Davis 2+ ast + AJ Dybantsa 4+ reb,2,0.6835,0.5257,1.9,2.0,1.76,-0.0754,1.001,1.65-1.85
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7098,0.5514,1.81,1.9,1.68,-0.0757,1.003,1.65-1.85
-ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6382,0.5818,1.72,1.8,1.56,-0.091,0.995,1.50-1.65
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pts,2,0.6539,0.5121,1.95,2.05,1.8,-0.0765,1.006,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + AJ Dybantsa 4+ reb,2,0.6835,0.5249,1.9,2.0,1.76,-0.0767,1.001,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7098,0.5505,1.82,1.91,1.68,-0.077,1.003,1.65-1.85
+ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6382,0.5825,1.72,1.8,1.56,-0.0913,0.995,1.50-1.65
 ORL @ WAS,Anthony Davis 1+ blk + AJ Dybantsa 4+ reb,2,0.7245,0.5964,1.68,1.76,1.52,-0.0927,1.0,1.50-1.65
 ORL @ WAS,Anthony Davis 1+ blk + Kyshawn George 10+ pts,2,0.6914,0.5803,1.72,1.81,1.56,-0.0948,1.002,1.50-1.65
-DEN @ CHI,Jamal Murray 30+ pa + DEN win,2,0.4273,0.4057,2.46,2.59,2.38,-0.0329,1.048,2.10-2.50
+DEN @ CHI,DEN win + Nikola Jokic 36+ pa,2,0.4294,0.4063,2.46,2.58,2.38,-0.0314,1.053,2.10-2.50
 DEN @ CHI,Jamal Murray 35+ pra + DEN win,2,0.4167,0.3919,2.55,2.68,2.47,-0.0338,1.045,2.10-2.50
-DEN @ CHI,DEN win + Nikola Jokic 48+ pra,2,0.4362,0.4115,2.43,2.55,2.34,-0.0378,1.046,2.10-2.50
-DEN @ CHI,Aaron Gordon 2+ ast + DEN win,2,0.5089,0.4624,2.16,2.27,2.03,-0.062,1.011,1.85-2.10
-DEN @ CHI,DEN -9.5 + Jamal Murray 1+ 3pm,2,0.423,0.4484,2.23,2.34,2.08,-0.0657,1.003,1.85-2.10
-DEN @ CHI,CHI +9.5 + Isaac Okoro 5+ pa,2,0.5362,0.4665,2.14,2.25,2.0,-0.066,1.007,1.85-2.10
-DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 15+ pts,2,0.6445,0.5279,1.89,1.99,1.73,-0.0845,1.006,1.65-1.85
-DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 25+ pra,2,0.6339,0.5217,1.92,2.01,1.75,-0.0862,1.005,1.65-1.85
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7003,0.562,1.78,1.87,1.63,-0.0863,1.001,1.50-1.65
-DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 20+ pa,2,0.6504,0.537,1.86,1.96,1.7,-0.0864,1.005,1.65-1.85
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jamal Murray 1+ 3pm,2,0.6911,0.5547,1.8,1.89,1.64,-0.0883,0.999,1.50-1.65
-DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6832,0.5579,1.79,1.88,1.63,-0.089,1.0,1.50-1.65
+DEN @ CHI,DEN win + Nikola Jokic 48+ pra,2,0.4362,0.4141,2.42,2.54,2.32,-0.039,1.046,2.10-2.50
+DEN @ CHI,Aaron Gordon 2+ ast + DEN win,2,0.5089,0.4627,2.16,2.27,2.03,-0.0612,1.011,1.85-2.10
+DEN @ CHI,DEN -9.5 + Jamal Murray 1+ 3pm,2,0.423,0.449,2.23,2.34,2.08,-0.066,1.003,1.85-2.10
+DEN @ CHI,CHI +9.5 + Isaac Okoro 5+ pa,2,0.5362,0.4671,2.14,2.25,2.0,-0.0663,1.007,1.85-2.10
+DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5711,0.5701,1.75,1.84,1.61,-0.0807,1.013,1.50-1.65
+DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 15+ pts,2,0.6445,0.529,1.89,1.98,1.73,-0.0839,1.006,1.65-1.85
+DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 25+ pra,2,0.6339,0.5238,1.91,2.0,1.74,-0.0861,1.005,1.65-1.85
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7003,0.5628,1.78,1.87,1.62,-0.0866,1.001,1.50-1.65
+DEN @ CHI,Aaron Gordon 2+ ast + Matas Buzelis 1+ 3pm,2,0.6462,0.5289,1.89,1.99,1.73,-0.0869,1.002,1.65-1.85
+DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6832,0.5592,1.79,1.88,1.63,-0.0885,1.0,1.50-1.65
 DAL @ UTA,UTA win + Ace Bailey 10+ pts,2,0.3609,0.4031,2.48,2.6,2.49,0.0026,1.042,2.10-2.50
 DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3824,0.4094,2.44,2.56,2.43,-0.0047,1.026,2.10-2.50
 DAL @ UTA,UTA win + Josh Green 5+ pr,2,0.3733,0.4141,2.42,2.54,2.38,-0.0164,1.021,2.10-2.50
