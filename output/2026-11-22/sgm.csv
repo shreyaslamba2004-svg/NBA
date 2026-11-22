@@ -1,20 +1,21 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 10+ pra,2,0.639,0.4358,2.29,2.41,2.19,-0.0469,1.003,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 10+ pra,2,0.639,0.4355,2.3,2.41,2.19,-0.0469,1.003,2.10-2.50
 DET @ ATL,Isaiah Joe 3pm under 1.5 + Paul Reed 4+ reb,2,0.6244,0.4205,2.38,2.5,2.27,-0.0473,1.001,2.10-2.50
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Onyeka Okongwu 10+ pa,2,0.6196,0.4127,2.42,2.54,2.31,-0.0483,0.997,2.10-2.50
-DET @ ATL,Paul Reed 19+ pr + Onyeka Okongwu 15+ pra,2,0.6042,0.4446,2.25,2.36,2.09,-0.0697,1.0,1.85-2.10
-DET @ ATL,Paul Reed 19+ pr + Dyson Daniels 10+ pr,2,0.6013,0.4539,2.2,2.31,2.05,-0.071,1.003,1.85-2.10
-DET @ ATL,Paul Reed 21+ pra + Onyeka Okongwu 15+ pra,2,0.6098,0.4553,2.2,2.31,2.04,-0.0728,1.0,1.85-2.10
-DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 10+ pa,2,0.6463,0.5151,1.94,2.04,1.78,-0.0849,1.002,1.65-1.85
-DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 15+ pra,2,0.6665,0.5342,1.87,1.97,1.71,-0.0869,1.001,1.65-1.85
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Paul Reed 5+ pa,2,0.6633,0.4475,2.23,2.35,2.13,-0.0485,1.0,2.10-2.50
+DET @ ATL,Paul Reed 19+ pr + Onyeka Okongwu 15+ pra,2,0.6042,0.4455,2.24,2.36,2.09,-0.0701,1.0,1.85-2.10
+DET @ ATL,Paul Reed 21+ pra + Onyeka Okongwu 15+ pra,2,0.6098,0.4562,2.19,2.3,2.03,-0.0732,1.0,1.85-2.10
+DET @ ATL,Paul Reed 19+ pr + Aaron Wiggins 10+ pra,2,0.5995,0.4489,2.23,2.34,2.06,-0.0737,0.999,1.85-2.10
+DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 10+ pa,2,0.6463,0.5168,1.93,2.03,1.77,-0.0855,1.002,1.65-1.85
+DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 15+ pra,2,0.6665,0.5353,1.87,1.96,1.71,-0.0873,1.001,1.65-1.85
 DET @ ATL,Kevin Huerter reb under 4.5 + Paul Reed 5+ pa,2,0.6888,0.556,1.8,1.89,1.64,-0.0892,1.0,1.50-1.65
 DET @ ATL,DET win + Paul Reed 5+ pa,2,0.588,0.5033,1.99,2.09,1.81,-0.0898,1.003,1.65-1.85
-OKC @ MIA,Davion Mitchell 3pm under 2.5 + Bam Adebayo 3pm under 1.5,2,0.3751,0.3658,2.73,2.87,2.43,-0.1093,1.009,2.10-2.50
+OKC @ MIA,Jared McCain 3pm under 3.5 + Ajay Mitchell 3pm under 1.5,2,0.42,0.3698,2.7,2.84,2.46,-0.0914,1.009,2.10-2.50
+OKC @ MIA,Davion Mitchell 3pm under 2.5 + Ajay Mitchell 3pm under 1.5,2,0.405,0.3755,2.66,2.8,2.4,-0.0993,1.011,2.10-2.50
 ORL @ WAS,ORL win + AJ Dybantsa 3pm under 1.5,2,0.4432,0.3911,2.56,2.68,2.39,-0.0648,1.022,2.10-2.50
+ORL @ WAS,WAS +5.5 + Kyshawn George 10+ pts,2,0.4219,0.4168,2.4,2.52,2.23,-0.0714,1.031,2.10-2.50
+ORL @ WAS,game over 222.5 + Kyshawn George 10+ pts,2,0.6102,0.4147,2.41,2.53,2.23,-0.076,1.026,2.10-2.50
 ORL @ WAS,AJ Dybantsa pts under 18.5 + Kyshawn George 1+ 3pm,2,0.595,0.4535,2.2,2.32,2.03,-0.0776,0.999,1.85-2.10
-ORL @ WAS,WAS +5.5 + Trae Young 10+ pts,2,0.4407,0.4364,2.29,2.41,2.11,-0.0783,1.024,2.10-2.50
 ORL @ WAS,AJ Dybantsa pts under 18.5 + Trae Young 1+ 3pm,2,0.5891,0.4546,2.2,2.31,2.02,-0.0808,0.998,1.85-2.10
-ORL @ WAS,game over 222.5 + Trae Young 10+ pts,2,0.6384,0.4349,2.3,2.41,2.11,-0.0814,1.02,2.10-2.50
 ORL @ WAS,ORL win + Desmond Bane 10+ pts,2,0.6225,0.5842,1.71,1.8,1.57,-0.084,1.014,1.50-1.65
 ORL @ WAS,AJ Dybantsa pts under 18.5 + Desmond Bane 10+ pts,2,0.6084,0.4769,2.1,2.2,1.92,-0.0841,0.998,1.85-2.10
 ORL @ WAS,ORL win + Kyshawn George 1+ 3pm,2,0.5961,0.544,1.84,1.93,1.66,-0.0968,0.994,1.65-1.85
@@ -24,6 +25,15 @@ ORL @ WAS,Kyshawn George 2+ 3pm + Desmond Bane 10+ pts,2,0.6258,0.5503,1.82,1.91
 ORL @ WAS,ORL win + Trae Young 10+ pts,2,0.5889,0.5443,1.84,1.93,1.64,-0.1055,0.987,1.50-1.65
 DEN @ CHI,DEN win + game under 237.5,2,0.3119,0.3876,2.58,2.71,2.42,-0.0627,1.022,2.10-2.50
 DEN @ CHI,DEN win + game over 237.5,2,0.3944,0.373,2.68,2.82,2.42,-0.098,0.983,2.10-2.50
+DAL @ UTA,UTA +1.5 + Ace Bailey 10+ pts,2,0.354,0.3843,2.6,2.73,2.46,-0.0563,1.043,2.10-2.50
+DAL @ UTA,Brice Sensabaugh 12+ pts + Ace Bailey 10+ pts,2,0.5544,0.4142,2.41,2.54,2.25,-0.0688,1.012,2.10-2.50
+DAL @ UTA,game over 225.5 + Ace Bailey 10+ pts,2,0.6075,0.3857,2.59,2.72,2.4,-0.0739,1.024,2.10-2.50
+DAL @ UTA,Brice Sensabaugh 12+ pts + Keyonte George 1+ 3pm,2,0.6263,0.4806,2.08,2.18,1.91,-0.0813,1.003,1.85-2.10
+DAL @ UTA,Brice Sensabaugh 12+ pts + Kyrie Irving 1+ 3pm,2,0.6462,0.4992,2.0,2.1,1.83,-0.0842,1.002,1.65-1.85
+DAL @ UTA,UTA +1.5 + Keyonte George 1+ 3pm,2,0.3897,0.4344,2.3,2.42,2.09,-0.0929,1.008,1.85-2.10
+DAL @ UTA,game over 225.5 + Keyonte George 1+ 3pm,2,0.6808,0.444,2.25,2.36,2.04,-0.0935,1.008,1.85-2.10
+DAL @ UTA,DAL win + Kyrie Irving 1+ 3pm,2,0.5824,0.4901,2.04,2.14,1.85,-0.0947,1.004,1.65-1.85
+DAL @ UTA,Darryn Peterson 3pm under 2.5 + Ace Bailey 1+ 3pm,2,0.5808,0.4952,2.02,2.12,1.82,-0.0993,1.0,1.65-1.85
 IND @ NYK,NYK win + game over 217.5,2,0.4618,0.3789,2.64,2.77,2.45,-0.0733,1.01,2.10-2.50
 IND @ NYK,NYK win + game under 217.5,2,0.3092,0.386,2.59,2.72,2.34,-0.0962,0.985,2.10-2.50
 BOS @ GSW,BOS win + game under 212.5,2,0.2876,0.3892,2.57,2.7,2.37,-0.0757,1.008,2.10-2.50
