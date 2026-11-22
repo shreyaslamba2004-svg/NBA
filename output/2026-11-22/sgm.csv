@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 10+ pra,2,0.5637,0.3882,2.58,2.7,2.49,-0.033,1.02,2.10-2.50
-OKC @ MIA,Andrew Wiggins 10+ pts + Bobby Portis 10+ pra,2,0.536,0.3875,2.58,2.71,2.48,-0.0394,1.021,2.10-2.50
-OKC @ MIA,Andrew Wiggins 13+ pr + Bobby Portis 10+ pra,2,0.5713,0.4063,2.46,2.58,2.36,-0.0406,1.018,2.10-2.50
-OKC @ MIA,MIA win + Andrew Wiggins 10+ pra,2,0.4387,0.4704,2.13,2.23,2.03,-0.0434,1.014,1.85-2.10
+OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 10+ pra,2,0.5637,0.3904,2.56,2.69,2.48,-0.032,1.02,2.10-2.50
+OKC @ MIA,Andrew Wiggins 15+ pra + Davion Mitchell 10+ pts,2,0.5668,0.3955,2.53,2.66,2.43,-0.0393,1.013,2.10-2.50
+OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 5+ pa,2,0.6079,0.4235,2.36,2.48,2.27,-0.0398,1.012,2.10-2.50
+OKC @ MIA,MIA win + Andrew Wiggins 10+ pra,2,0.4387,0.472,2.12,2.22,2.03,-0.0441,1.014,1.85-2.10
+OKC @ MIA,Andrew Wiggins 11+ pa + Bobby Portis 5+ pa,2,0.6299,0.4542,2.2,2.31,2.1,-0.0467,1.013,1.85-2.10
 OKC @ MIA,MIA win + Davion Mitchell 10+ pts,2,0.3963,0.4765,2.1,2.2,1.98,-0.0548,1.026,1.85-2.10
-OKC @ MIA,Andrew Wiggins 13+ pr + Davion Mitchell 15+ pa,2,0.6278,0.4592,2.18,2.29,2.06,-0.055,1.009,1.85-2.10
-OKC @ MIA,MIA win + Davion Mitchell 15+ pa,2,0.4338,0.5305,1.88,1.98,1.77,-0.0597,1.024,1.65-1.85
-OKC @ MIA,MIA win + Bam Adebayo 6+ reb,2,0.4062,0.5018,1.99,2.09,1.82,-0.0886,0.995,1.65-1.85
+OKC @ MIA,MIA win + Davion Mitchell 15+ pa,2,0.4338,0.5313,1.88,1.98,1.77,-0.06,1.024,1.65-1.85
+OKC @ MIA,MIA win + Bam Adebayo 6+ reb,2,0.4062,0.5,2.0,2.1,1.82,-0.0879,0.995,1.65-1.85
 OKC @ MIA,MIA win + Isaiah Hartenstein 15+ pra,2,0.4345,0.5298,1.89,1.98,1.72,-0.0899,0.991,1.65-1.85
-OKC @ MIA,Bobby Portis 10+ pra + Davion Mitchell 10+ pts,2,0.6653,0.5853,1.71,1.79,1.54,-0.097,1.009,1.50-1.65
-OKC @ MIA,Bobby Portis 10+ pra + Isaiah Hartenstein 15+ pr,2,0.6757,0.5965,1.68,1.76,1.5,-0.1049,1.001,1.50-1.65
-OKC @ MIA,Bobby Portis 10+ pra + Isaiah Hartenstein 8+ reb,2,0.6658,0.5936,1.68,1.77,1.51,-0.105,1.003,1.50-1.65
+OKC @ MIA,Bobby Portis 10+ pra + Davion Mitchell 10+ pts,2,0.6653,0.5875,1.7,1.79,1.54,-0.0977,1.009,1.50-1.65
+OKC @ MIA,Bobby Portis 10+ pra + Isaiah Hartenstein 8+ reb,2,0.6658,0.5959,1.68,1.76,1.5,-0.1057,1.003,1.50-1.65
+OKC @ MIA,Andrew Wiggins 10+ pra + Bobby Portis 5+ pa + Bam Adebayo 6+ reb,3,0.6972,0.5348,1.87,1.96,1.62,-0.1348,1.006,1.50-1.65
 ORL @ WAS,game over 219.5 + Trae Young 15+ pr,2,0.6282,0.3905,2.56,2.69,2.43,-0.05,1.034,2.10-2.50
 ORL @ WAS,game over 219.5 + Kyshawn George 15+ pr,2,0.6395,0.4009,2.49,2.62,2.35,-0.0562,1.029,2.10-2.50
 ORL @ WAS,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.6299,0.3933,2.54,2.67,2.4,-0.0579,1.026,2.10-2.50
@@ -23,16 +23,16 @@ ORL @ WAS,Anthony Davis 2+ ast + Bilal Coulibaly 5+ pr,2,0.7188,0.5636,1.77,1.86
 ORL @ WAS,ORL win + AJ Dybantsa 4+ reb,2,0.6173,0.537,1.86,1.96,1.71,-0.0825,0.998,1.65-1.85
 ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6619,0.5789,1.73,1.81,1.58,-0.0858,0.996,1.50-1.65
 ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6433,0.5667,1.76,1.85,1.61,-0.0892,0.993,1.50-1.65
-DEN @ CHI,DEN win + Nikola Jokic 27+ pts,2,0.4031,0.4004,2.5,2.62,2.45,-0.0208,1.049,2.10-2.50
+DEN @ CHI,DEN win + Jamal Murray 35+ pra,2,0.4138,0.4073,2.45,2.58,2.41,-0.0175,1.051,2.10-2.50
+DEN @ CHI,DEN win + Nikola Jokic 38+ pr,2,0.4382,0.4222,2.37,2.49,2.29,-0.0313,1.039,2.10-2.50
 DEN @ CHI,game under 235.5 + DEN win,2,0.306,0.3924,2.55,2.68,2.43,-0.0448,1.007,2.10-2.50
 DEN @ CHI,DEN win + Aaron Gordon 2+ ast,2,0.5098,0.4836,2.07,2.17,1.96,-0.0505,1.012,1.85-2.10
-DEN @ CHI,game over 235.5 + Isaac Okoro 10+ pra,2,0.5229,0.4237,2.36,2.48,2.21,-0.064,1.024,2.10-2.50
-DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5679,0.595,1.68,1.76,1.56,-0.0709,1.013,1.50-1.65
-DEN @ CHI,game over 235.5 + Matas Buzelis 15+ pra,2,0.5371,0.4485,2.23,2.34,2.07,-0.0737,1.019,1.85-2.10
+DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5679,0.5947,1.68,1.77,1.56,-0.0708,1.013,1.50-1.65
+DEN @ CHI,game over 235.5 + Matas Buzelis 15+ pra,2,0.5371,0.4489,2.23,2.34,2.06,-0.0738,1.019,1.85-2.10
 DEN @ CHI,Josh Giddey 19+ pr + Isaac Okoro 10+ pra,2,0.5734,0.4435,2.25,2.37,2.09,-0.0742,1.007,1.85-2.10
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 10+ pra,2,0.6606,0.5157,1.94,2.04,1.78,-0.0816,1.001,1.65-1.85
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Nikola Jokic 8+ reb,2,0.6554,0.5193,1.93,2.02,1.76,-0.0849,1.001,1.65-1.85
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 10+ pra,2,0.641,0.5065,1.97,2.07,1.81,-0.085,0.998,1.65-1.85
-DEN @ CHI,Cameron Johnson 3pm under 2.5 + Nikola Jokic 8+ reb,2,0.6554,0.5214,1.92,2.01,1.75,-0.0855,1.001,1.65-1.85
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7156,0.5685,1.76,1.85,1.61,-0.0859,1.0,1.50-1.65
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6954,0.5591,1.79,1.88,1.63,-0.0881,0.998,1.50-1.65
 DAL @ UTA,Daniel Gafford 10+ pa + Josh Green 3pm under 1.5,2,0.5677,0.3821,2.62,2.75,2.48,-0.0517,1.001,2.10-2.50
@@ -58,15 +58,15 @@ IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4497,2.22,2.33,2.04,-0.0815
 IND @ NYK,Josh Hart stl under 1.5 + Jalen Brunson 1+ 3pm,2,0.5689,0.4956,2.02,2.12,1.81,-0.1037,0.999,1.65-1.85
 IND @ NYK,Josh Hart stl under 1.5 + Landry Shamet 1+ 3pm,2,0.5575,0.4882,2.05,2.15,1.84,-0.1039,1.0,1.65-1.85
 IND @ NYK,Landry Shamet 10+ pr + Jalen Brunson 2+ 3pm,2,0.6608,0.5926,1.69,1.77,1.51,-0.1072,1.002,1.50-1.65
-BOS @ GSW,Yaxel Lendeborg pa under 24.5 + BOS win,2,0.4764,0.4211,2.37,2.49,2.35,-0.0113,1.054,2.10-2.50
-BOS @ GSW,Yaxel Lendeborg pra under 31.5 + BOS win,2,0.4591,0.4126,2.42,2.54,2.38,-0.017,1.052,2.10-2.50
-BOS @ GSW,Yaxel Lendeborg pr under 27.5 + BOS win,2,0.4587,0.4146,2.41,2.53,2.36,-0.0229,1.047,2.10-2.50
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Draymond Green 5+ pr,2,0.7515,0.4974,2.01,2.11,1.92,-0.044,1.0,1.85-2.10
-BOS @ GSW,Baylor Scheierman pra under 13.5 + Draymond Green 5+ pr,2,0.697,0.4616,2.17,2.27,2.07,-0.0442,1.0,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Brandin Podziemski 10+ pa,2,0.7714,0.5304,1.89,1.98,1.79,-0.0509,1.0,1.65-1.85
-BOS @ GSW,Baylor Scheierman ra under 6.5 + Draymond Green 5+ pr,2,0.6949,0.4808,2.08,2.18,1.97,-0.0515,1.001,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7666,0.5255,1.9,2.0,1.8,-0.0531,0.997,1.65-1.85
-BOS @ GSW,Baylor Scheierman ra under 6.5 + Neemias Queta 5+ pa,2,0.7088,0.5079,1.97,2.07,1.85,-0.0604,0.998,1.65-1.85
-BOS @ GSW,Sam Hauser 3pm under 2.5 + Brandin Podziemski 10+ pa,2,0.6922,0.5691,1.76,1.84,1.59,-0.0924,1.0,1.50-1.65
-BOS @ GSW,Sam Hauser 3pm under 2.5 + Neemias Queta 5+ pa,2,0.6861,0.5623,1.78,1.87,1.61,-0.0969,0.994,1.50-1.65
-BOS @ GSW,BOS win + Draymond Green 5+ pr + Payton Pritchard 1+ 3pm,3,0.5834,0.5562,1.8,1.89,1.55,-0.1382,1.0,1.50-1.65
+BOS @ GSW,game over 210.5 + Payton Pritchard 15+ pa,2,0.5489,0.4006,2.5,2.62,2.39,-0.0431,1.034,2.10-2.50
+BOS @ GSW,Sam Hauser 12+ pr + Payton Pritchard 15+ pa,2,0.6113,0.4289,2.33,2.45,2.23,-0.0441,1.015,2.10-2.50
+BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 15+ pra,2,0.5748,0.3888,2.57,2.7,2.45,-0.0457,1.007,2.10-2.50
+BOS @ GSW,Payton Pritchard 8+ ra + Neemias Queta 5+ pa,2,0.6345,0.4581,2.18,2.29,2.05,-0.0624,1.002,1.85-2.10
+BOS @ GSW,Sam Hauser 12+ pr + Payton Pritchard 1+ 3pm,2,0.6666,0.4906,2.04,2.14,1.91,-0.0628,1.005,1.85-2.10
+BOS @ GSW,Neemias Queta 20+ pra + Draymond Green 5+ pr,2,0.6321,0.4612,2.17,2.28,2.03,-0.0635,1.003,1.85-2.10
+BOS @ GSW,Neemias Queta 10+ pa + Payton Pritchard 15+ pa,2,0.6701,0.509,1.96,2.06,1.84,-0.0655,1.013,1.65-1.85
+BOS @ GSW,Sam Hauser 12+ pr + Neemias Queta 5+ pa,2,0.693,0.5046,1.98,2.08,1.85,-0.0666,0.999,1.65-1.85
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.6942,0.5143,1.94,2.04,1.8,-0.0733,0.998,1.65-1.85
+BOS @ GSW,Neemias Queta 10+ pa + Draymond Green 5+ pr,2,0.7226,0.566,1.77,1.86,1.63,-0.0803,1.003,1.50-1.65
+BOS @ GSW,Neemias Queta 10+ pa + Sam Hauser 1+ 3pm,2,0.727,0.5709,1.75,1.84,1.61,-0.0818,1.002,1.50-1.65
+BOS @ GSW,Neemias Queta 10+ pa + Payton Pritchard 1+ 3pm,2,0.732,0.5832,1.71,1.8,1.57,-0.0822,1.005,1.50-1.65
