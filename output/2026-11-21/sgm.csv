@@ -38,22 +38,22 @@ MEM @ MIN,Rudy Gobert 15+ pr + Jaden McDaniels 4+ reb,2,0.6917,0.5876,1.7,1.79,1
 NOP @ SAS,Stephon Castle 18+ pts + SAS win,2,0.4764,0.4648,2.15,2.26,2.17,0.0092,1.023,2.10-2.50
 NOP @ SAS,Saddiq Bey pts under 16.5 + SAS win,2,0.5043,0.4584,2.18,2.29,2.17,-0.0049,1.024,2.10-2.50
 NOP @ SAS,Julian Champagnie 12+ pts + SAS win,2,0.412,0.4466,2.24,2.35,2.23,-0.0063,1.025,2.10-2.50
-NOP @ SAS,Victor Wembanyama 15+ ra + SAS win,2,0.5959,0.4643,2.15,2.26,2.09,-0.0293,1.002,1.85-2.10
 NOP @ SAS,Victor Wembanyama 11+ reb + SAS win,2,0.6293,0.5096,1.96,2.06,1.87,-0.046,0.999,1.85-2.10
 NOP @ SAS,Zion Williamson 8+ ra + SAS win,2,0.6247,0.5011,2.0,2.1,1.9,-0.047,0.992,1.85-2.10
+NOP @ SAS,Zion Williamson 3+ ast + SAS win,2,0.6029,0.4557,2.19,2.3,2.09,-0.0474,0.985,1.85-2.10
 NOP @ SAS,SAS win + Devin Vassell 15+ pra + De'Aaron Fox 10+ pts,3,0.6579,0.5673,1.76,1.85,1.58,-0.1046,1.017,1.50-1.65
 NOP @ SAS,SAS win + Victor Wembanyama 8+ reb + De'Aaron Fox 10+ pts,3,0.6991,0.5927,1.69,1.77,1.5,-0.1089,1.009,1.50-1.65
 NOP @ SAS,SAS win + Victor Wembanyama 8+ reb + Devin Vassell 15+ pra,3,0.6942,0.5856,1.71,1.79,1.52,-0.1114,1.005,1.50-1.65
 NOP @ SAS,Victor Wembanyama 8+ reb + Devin Vassell 15+ pra + De'Aaron Fox 10+ pts,3,0.6717,0.5154,1.94,2.04,1.68,-0.1351,1.007,1.65-1.85
-NOP @ SAS,Victor Wembanyama 8+ reb + Devin Vassell 15+ pra + Derik Queen 4+ reb,3,0.6677,0.5111,1.96,2.05,1.69,-0.1386,1.002,1.65-1.85
-NOP @ SAS,Victor Wembanyama 2+ blk + Devin Vassell 15+ pra + De'Aaron Fox 10+ pts,3,0.6643,0.5172,1.93,2.03,1.66,-0.1389,1.005,1.65-1.85
+NOP @ SAS,Victor Wembanyama 8+ reb + Devin Vassell 15+ pra + Derik Queen 4+ reb,3,0.6677,0.5105,1.96,2.06,1.69,-0.1384,1.002,1.65-1.85
+NOP @ SAS,Devin Vassell 15+ pra + Derik Queen 4+ reb + De'Aaron Fox 10+ pts,3,0.6255,0.4887,2.05,2.15,1.76,-0.1418,1.003,1.65-1.85
 BOS @ SAC,Baylor Scheierman ra under 7.5 + BOS win,2,0.4774,0.4034,2.48,2.6,2.4,-0.0305,0.992,2.10-2.50
-BOS @ SAC,Paul George ra under 11.5 + BOS win,2,0.5266,0.452,2.21,2.32,2.13,-0.0368,0.991,2.10-2.50
-BOS @ SAC,Baylor Scheierman pra under 17.5 + BOS win,2,0.5151,0.4373,2.29,2.4,2.18,-0.0461,0.979,2.10-2.50
+BOS @ SAC,Paul George ra under 11.5 + BOS win,2,0.5266,0.4593,2.18,2.29,2.09,-0.039,0.991,1.85-2.10
+BOS @ SAC,Baylor Scheierman pra under 17.5 + BOS win,2,0.5151,0.4428,2.26,2.37,2.15,-0.0492,0.979,2.10-2.50
+BOS @ SAC,BOS win + Paul George pra under 36.5,2,0.5112,0.448,2.23,2.34,2.11,-0.0559,0.977,2.10-2.50
 BOS @ SAC,BOS win + Payton Pritchard ast under 6.5,2,0.5155,0.4658,2.15,2.25,2.02,-0.0571,0.983,1.85-2.10
-BOS @ SAC,Paul George ra under 11.5 + Darius Acuff Jr. 4+ ast,2,0.6341,0.4513,2.22,2.33,2.08,-0.0629,0.999,1.85-2.10
-BOS @ SAC,Payton Pritchard pra under 32.5 + Darius Acuff Jr. 4+ ast,2,0.6282,0.4537,2.2,2.31,2.06,-0.0648,1.001,1.85-2.10
-BOS @ SAC,Payton Pritchard ast under 6.5 + Domantas Sabonis 6+ reb,2,0.6502,0.5129,1.95,2.05,1.78,-0.0845,0.999,1.65-1.85
-BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Neemias Queta 6+ reb,3,0.5932,0.5759,1.74,1.82,1.52,-0.1254,0.992,1.50-1.65
-BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Keegan Murray 1+ 3pm,3,0.555,0.5454,1.83,1.93,1.59,-0.1341,0.984,1.50-1.65
-BOS @ SAC,BOS win + Neemias Queta 6+ reb + Keegan Murray 1+ 3pm,3,0.5282,0.54,1.85,1.94,1.6,-0.1368,0.989,1.50-1.65
+BOS @ SAC,BOS win + Payton Pritchard pa under 28.5,2,0.51,0.4473,2.24,2.35,2.1,-0.0607,0.972,1.85-2.10
+BOS @ SAC,Payton Pritchard ast under 6.5 + Domantas Sabonis 6+ reb,2,0.6502,0.5114,1.96,2.05,1.79,-0.0839,0.999,1.65-1.85
+BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Neemias Queta 6+ reb,3,0.5932,0.58,1.72,1.81,1.51,-0.1267,0.992,1.50-1.65
+BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Keegan Murray 1+ 3pm,3,0.555,0.5471,1.83,1.92,1.58,-0.1347,0.984,1.50-1.65
+BOS @ SAC,BOS win + Neemias Queta 6+ reb + Keegan Murray 1+ 3pm,3,0.5282,0.5441,1.84,1.93,1.58,-0.1381,0.989,1.50-1.65
