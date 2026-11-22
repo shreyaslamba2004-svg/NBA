@@ -1,28 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-POR @ NYK,NYK win + Josh Hart 10+ pa,2,0.492,0.4831,2.07,2.17,2.39,0.1534,1.03,2.10-2.50
-POR @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5119,0.4919,2.03,2.13,2.34,0.1514,1.024,2.10-2.50
-POR @ NYK,NYK win + Landry Shamet 10+ pr,2,0.4781,0.4617,2.17,2.27,2.49,0.1505,1.024,2.10-2.50
-POR @ NYK,NYK win + Scoot Henderson 5+ pr,2,0.5475,0.5352,1.87,1.96,2.09,0.1171,0.997,1.85-2.10
-POR @ NYK,NYK win + Jrue Holiday 10+ pra,2,0.544,0.5332,1.88,1.97,2.09,0.1142,0.995,1.85-2.10
-POR @ NYK,Andre Drummond ra under 14.5 + Mikal Bridges 10+ pa,2,0.6997,0.4597,2.18,2.28,2.08,-0.0446,0.998,1.85-2.10
-POR @ NYK,Jrue Holiday 15+ pra + Scoot Henderson 10+ pra,2,0.7403,0.5969,1.68,1.76,1.53,-0.0859,1.004,1.50-1.65
-POR @ NYK,Jrue Holiday 15+ pra + Landry Shamet 10+ pr,2,0.7018,0.5804,1.72,1.81,1.57,-0.09,1.004,1.50-1.65
-POR @ NYK,Jrue Holiday 15+ pra + Scoot Henderson 1+ 3pm,2,0.6816,0.5654,1.77,1.86,1.61,-0.0922,1.003,1.50-1.65
-POR @ NYK,Jrue Holiday 15+ pra + Scoot Henderson 10+ pra + Toumani Camara 10+ pr,3,0.6672,0.4994,2.0,2.1,1.74,-0.1289,1.009,1.65-1.85
-POR @ NYK,Jrue Holiday 15+ pra + Scoot Henderson 10+ pra + Mikal Bridges 10+ pa,3,0.6596,0.4904,2.04,2.14,1.77,-0.1297,1.007,1.65-1.85
-POR @ NYK,Jrue Holiday 15+ pra + Scoot Henderson 10+ pra + Toumani Camara 10+ pra,3,0.6966,0.5261,1.9,2.0,1.65,-0.1314,1.008,1.65-1.85
-LAC @ DAL,Naji Marshall pts under 13.5 + Zaccharie Risacher 5+ pa,2,0.5139,0.4206,2.38,2.5,2.34,-0.0178,0.997,2.10-2.50
-LAC @ DAL,Naji Marshall pts under 13.5 + Kris Dunn 5+ pr,2,0.4861,0.4165,2.4,2.52,2.34,-0.0269,0.997,2.10-2.50
-LAC @ DAL,Naji Marshall pts under 13.5 + Zaccharie Risacher 5+ pra,2,0.547,0.4808,2.08,2.18,2.02,-0.029,1.0,1.85-2.10
-LAC @ DAL,Zaccharie Risacher 8+ pts + Kris Dunn 5+ pr,2,0.5825,0.4027,2.48,2.61,2.41,-0.0312,1.001,2.10-2.50
-LAC @ DAL,Naji Marshall pts under 13.5 + Kris Dunn 5+ pra,2,0.5308,0.4737,2.11,2.22,2.04,-0.0332,0.999,1.85-2.10
-LAC @ DAL,Naji Marshall pts under 13.5 + Daniel Gafford 5+ pa,2,0.5151,0.4617,2.17,2.27,2.09,-0.035,0.998,1.85-2.10
-LAC @ DAL,DAL win + Zaccharie Risacher 5+ pa,2,0.5008,0.5259,1.9,2.0,1.82,-0.0416,1.011,1.65-1.85
-LAC @ DAL,Zaccharie Risacher 11+ pr + Kris Dunn 5+ pra,2,0.7437,0.515,1.94,2.04,1.84,-0.0537,1.0,1.65-1.85
-LAC @ DAL,Zaccharie Risacher 11+ pr + Keaton Wagler 5+ pa,2,0.7287,0.5114,1.96,2.05,1.85,-0.0559,1.0,1.65-1.85
-LAC @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.4999,0.575,1.74,1.83,1.63,-0.0623,1.008,1.50-1.65
-LAC @ DAL,DAL win + Zaccharie Risacher 5+ pra,2,0.5256,0.5928,1.69,1.77,1.58,-0.0657,1.001,1.50-1.65
-LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5092,0.5831,1.72,1.8,1.59,-0.0713,0.998,1.50-1.65
+LAC @ DAL,Zaccharie Risacher 8+ pts + Kris Dunn 5+ pr,2,0.5825,0.4072,2.46,2.58,2.41,-0.019,1.001,2.10-2.50
+LAC @ DAL,Zaccharie Risacher 8+ pts + Kris Dunn 5+ pa,2,0.589,0.4146,2.41,2.53,2.36,-0.0207,1.001,2.10-2.50
+LAC @ DAL,Zaccharie Risacher 8+ pts + Caleb Martin 5+ pr,2,0.6148,0.4411,2.27,2.38,2.22,-0.023,1.002,2.10-2.50
+LAC @ DAL,Naji Marshall pts under 13.5 + Kris Dunn 5+ pra,2,0.5308,0.471,2.12,2.23,2.06,-0.032,0.999,1.85-2.10
+LAC @ DAL,Zaccharie Risacher 8+ pts + Keaton Wagler 5+ pr,2,0.622,0.4619,2.16,2.27,2.1,-0.0321,1.0,1.85-2.10
+LAC @ DAL,Naji Marshall pts under 13.5 + Keaton Wagler 5+ pa,2,0.5198,0.4696,2.13,2.24,2.05,-0.0355,0.999,1.85-2.10
+LAC @ DAL,DAL win + Zaccharie Risacher 5+ pa,2,0.5008,0.5545,1.8,1.89,1.71,-0.0522,1.011,1.65-1.85
+LAC @ DAL,DAL win + Caleb Martin 5+ pr,2,0.4968,0.5575,1.79,1.88,1.69,-0.0593,1.007,1.65-1.85
+LAC @ DAL,DAL win + Daniel Gafford 5+ pa,2,0.4999,0.5826,1.72,1.8,1.61,-0.0647,1.008,1.50-1.65
+LAC @ DAL,DAL win + Kris Dunn 5+ pra,2,0.5092,0.5798,1.72,1.81,1.6,-0.0702,0.998,1.50-1.65
+LAC @ DAL,DAL win + Kris Dunn 5+ pr,2,0.4623,0.5055,1.98,2.08,1.84,-0.0724,0.987,1.65-1.85
+LAC @ DAL,DAL win + Keaton Wagler 5+ pr,2,0.497,0.5773,1.73,1.82,1.6,-0.0785,0.993,1.50-1.65
 MEM @ MIN,Jaylen Wells 11+ pts + Cam Spencer 10+ pa,2,0.5038,0.4136,2.42,2.54,2.34,-0.0327,1.004,2.10-2.50
 MEM @ MIN,Cedric Coward pts under 15.5 + Cam Spencer 10+ pa,2,0.5575,0.4185,2.39,2.51,2.3,-0.0354,0.997,2.10-2.50
 MEM @ MIN,Cam Spencer 18+ pra + Ty Jerome 4+ ast,2,0.627,0.4214,2.37,2.49,2.27,-0.0433,1.005,2.10-2.50
@@ -35,18 +23,16 @@ MEM @ MIN,Cam Spencer 5+ ast + Rudy Gobert 5+ pa,2,0.7476,0.543,1.84,1.93,1.72,-
 MEM @ MIN,Jonathan Kuminga 4+ reb + Cam Spencer 1+ 3pm,2,0.6764,0.579,1.73,1.81,1.56,-0.0975,1.003,1.50-1.65
 MEM @ MIN,Jonathan Kuminga 4+ reb + Ty Jerome 4+ ast,2,0.6607,0.5682,1.76,1.85,1.59,-0.0983,1.003,1.50-1.65
 MEM @ MIN,Cam Spencer 1+ 3pm + Jaden McDaniels 4+ reb,2,0.6716,0.583,1.72,1.8,1.55,-0.0987,1.005,1.50-1.65
-NOP @ SAS,Stephon Castle 18+ pts + SAS win,2,0.4785,0.4622,2.16,2.27,2.17,0.0035,1.019,2.10-2.50
-NOP @ SAS,Derik Queen 10+ pts + SAS win,2,0.7023,0.4914,2.04,2.14,2.04,0.0012,0.991,1.85-2.10
-NOP @ SAS,Derik Queen 19+ pra + SAS win,2,0.735,0.481,2.08,2.18,2.08,0.0012,0.994,1.85-2.10
-NOP @ SAS,Derik Queen 10+ pts + Saddiq Bey 15+ pa,2,0.6735,0.4209,2.38,2.49,2.37,-0.0024,1.008,2.10-2.50
-NOP @ SAS,Derik Queen 9+ ra + SAS win,2,0.6749,0.4588,2.18,2.29,2.17,-0.0038,0.997,2.10-2.50
-NOP @ SAS,Derik Queen 16+ pr + SAS win,2,0.7399,0.5003,2.0,2.1,1.98,-0.008,0.994,1.85-2.10
-NOP @ SAS,Saddiq Bey 15+ pa + Devin Vassell 15+ pra,2,0.7329,0.5955,1.68,1.76,1.53,-0.0892,1.002,1.50-1.65
-NOP @ SAS,Saddiq Bey 15+ pa + De'Aaron Fox 10+ pts,2,0.7316,0.6005,1.67,1.75,1.52,-0.09,1.003,1.50-1.65
-NOP @ SAS,SAS win + Derik Queen 4+ reb + Devin Vassell 15+ pra,3,0.7242,0.5662,1.77,1.85,1.59,-0.1009,1.006,1.50-1.65
-NOP @ SAS,SAS win + Derik Queen 4+ reb + Saddiq Bey 15+ pa,3,0.7141,0.5404,1.85,1.94,1.65,-0.1059,0.993,1.65-1.85
-NOP @ SAS,SAS win + Saddiq Bey 15+ pa + Devin Vassell 15+ pra,3,0.6636,0.5353,1.87,1.96,1.66,-0.1113,1.001,1.65-1.85
-NOP @ SAS,Derik Queen 4+ reb + Saddiq Bey 15+ pa + Victor Wembanyama 8+ reb,3,0.7247,0.5008,2.0,2.1,1.76,-0.1191,1.003,1.65-1.85
+NOP @ SAS,Derik Queen 10+ pts + SAS win,2,0.7612,0.5014,1.99,2.09,2.04,0.0216,0.994,1.85-2.10
+NOP @ SAS,Derik Queen 10+ pts + Victor Wembanyama 8+ reb,2,0.7648,0.4619,2.17,2.27,2.17,0.0025,1.001,2.10-2.50
+NOP @ SAS,Derik Queen 10+ pts + Devin Vassell 15+ pra,2,0.7093,0.4386,2.28,2.39,2.28,0.002,1.005,2.10-2.50
+NOP @ SAS,Stephon Castle 18+ pts + SAS win,2,0.4694,0.4614,2.17,2.28,2.17,0.0017,1.021,2.10-2.50
+NOP @ SAS,Derik Queen 10+ pts + Devin Vassell 10+ pr,2,0.7847,0.4897,2.04,2.14,2.04,-0.0029,1.002,1.85-2.10
+NOP @ SAS,Derik Queen 10+ pts + Victor Wembanyama 2+ blk,2,0.7632,0.4869,2.05,2.16,2.04,-0.0072,1.002,1.85-2.10
+NOP @ SAS,Victor Wembanyama 11+ reb + De'Aaron Fox 15+ pra,2,0.6556,0.5079,1.97,2.07,1.82,-0.0776,1.003,1.65-1.85
+NOP @ SAS,SAS win + Devin Vassell 15+ pra + De'Aaron Fox 10+ pts,3,0.6476,0.5593,1.79,1.88,1.6,-0.108,1.019,1.50-1.65
+NOP @ SAS,Devin Vassell 15+ pra + De'Aaron Fox 10+ pts + Stephon Castle 10+ pts,3,0.6338,0.5328,1.88,1.97,1.6,-0.1485,1.009,1.50-1.65
+NOP @ SAS,Devin Vassell 15+ pra + De'Aaron Fox 10+ pts + Victor Wembanyama 6+ reb,3,0.6841,0.5622,1.78,1.87,1.51,-0.1496,1.004,1.50-1.65
 BOS @ SAC,Baylor Scheierman ra under 7.5 + BOS win,2,0.4774,0.4034,2.48,2.6,2.4,-0.0305,0.992,2.10-2.50
 BOS @ SAC,Paul George ra under 11.5 + BOS win,2,0.5266,0.4593,2.18,2.29,2.09,-0.039,0.991,1.85-2.10
 BOS @ SAC,Baylor Scheierman pra under 17.5 + BOS win,2,0.5151,0.4428,2.26,2.37,2.15,-0.0492,0.979,2.10-2.50
