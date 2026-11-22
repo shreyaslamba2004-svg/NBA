@@ -1,13 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ SAC,Precious Achiuwa 5+ pts + BOS win,2,0.5677,0.4672,2.14,2.25,2.19,0.0247,0.981,2.10-2.50
-BOS @ SAC,Precious Achiuwa 5+ pts + Darius Acuff Jr. 4+ ast,2,0.6881,0.473,2.11,2.22,2.16,0.0223,1.005,2.10-2.50
-BOS @ SAC,Darius Acuff Jr. pts under 21.5 + BOS win,2,0.4524,0.4311,2.32,2.44,2.37,0.0196,1.049,2.10-2.50
-BOS @ SAC,Precious Achiuwa 5+ pts + De'Andre Hunter 10+ pra,2,0.7203,0.5132,1.95,2.05,1.97,0.013,1.003,1.85-2.10
-BOS @ SAC,Precious Achiuwa 5+ pts + Payton Pritchard 1+ 3pm,2,0.7243,0.5168,1.93,2.03,1.96,0.0105,1.001,1.85-2.10
-BOS @ SAC,Precious Achiuwa 5+ pts + Sam Hauser 10+ pra,2,0.7077,0.501,2.0,2.1,2.01,0.0091,0.998,1.85-2.10
-BOS @ SAC,Precious Achiuwa 10+ pra + De'Andre Hunter 10+ pra,2,0.7176,0.5282,1.89,1.99,1.77,-0.0652,1.003,1.65-1.85
-BOS @ SAC,Precious Achiuwa 10+ pra + Payton Pritchard 1+ 3pm,2,0.7214,0.5319,1.88,1.97,1.75,-0.0676,1.001,1.65-1.85
-BOS @ SAC,Precious Achiuwa 10+ pra + Sam Hauser 10+ pra,2,0.705,0.5157,1.94,2.04,1.81,-0.0688,0.998,1.65-1.85
-BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Neemias Queta 6+ reb,3,0.619,0.5545,1.8,1.89,1.6,-0.1124,1.0,1.50-1.65
-BOS @ SAC,BOS win + Precious Achiuwa 5+ pra + Neemias Queta 6+ reb,3,0.6266,0.5706,1.75,1.84,1.55,-0.1155,1.0,1.50-1.65
-BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Darius Acuff Jr. 4+ ast,3,0.636,0.5731,1.74,1.83,1.53,-0.1228,0.989,1.50-1.65
+BOS @ SAC,Precious Achiuwa 5+ pts + BOS win,2,0.5759,0.4696,2.13,2.24,2.21,0.0367,0.983,2.10-2.50
+BOS @ SAC,Precious Achiuwa 5+ pts + Darius Acuff Jr. 4+ ast,2,0.703,0.474,2.11,2.22,2.16,0.0245,1.003,2.10-2.50
+BOS @ SAC,Precious Achiuwa 5+ pts + Neemias Queta 6+ reb,2,0.6686,0.4522,2.21,2.32,2.26,0.022,1.001,2.10-2.50
+BOS @ SAC,Precious Achiuwa 10+ pra + BOS win,2,0.5839,0.4877,2.05,2.15,1.98,-0.0348,0.99,1.85-2.10
+BOS @ SAC,Precious Achiuwa 10+ pra + Darius Acuff Jr. 4+ ast,2,0.7092,0.4897,2.04,2.14,1.94,-0.0511,1.004,1.85-2.10
+BOS @ SAC,Sam Hauser pts under 12.5 + Precious Achiuwa 5+ pra,2,0.6206,0.4581,2.18,2.29,2.07,-0.0511,1.001,1.85-2.10
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Neemias Queta 10+ pa,3,0.595,0.5553,1.8,1.89,1.61,-0.1047,1.01,1.50-1.65
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pra + Neemias Queta 10+ pa,3,0.6024,0.5716,1.75,1.84,1.56,-0.1073,1.011,1.50-1.65
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Neemias Queta 6+ reb,3,0.6195,0.5523,1.81,1.9,1.61,-0.1103,0.995,1.50-1.65
