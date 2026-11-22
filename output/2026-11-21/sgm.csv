@@ -1,13 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ SAC,Baylor Scheierman ra under 8.5 + BOS win,2,0.5569,0.486,2.06,2.16,1.99,-0.0337,0.997,1.85-2.10
-BOS @ SAC,BOS win + Baylor Scheierman reb under 5.5,2,0.5317,0.4733,2.11,2.22,2.04,-0.0357,1.002,1.85-2.10
-BOS @ SAC,Paul George ra under 11.5 + BOS win,2,0.5266,0.4593,2.18,2.29,2.09,-0.039,0.991,1.85-2.10
-BOS @ SAC,Baylor Scheierman pra under 17.5 + BOS win,2,0.5151,0.4373,2.29,2.4,2.18,-0.0461,0.979,2.10-2.50
-BOS @ SAC,Baylor Scheierman pr under 14.5 + BOS win,2,0.4896,0.424,2.36,2.48,2.24,-0.0515,0.979,2.10-2.50
-BOS @ SAC,Paul George pra under 35.5 + BOS win,2,0.488,0.4178,2.39,2.51,2.27,-0.0528,0.975,2.10-2.50
-BOS @ SAC,Baylor Scheierman ra under 8.5 + Domantas Sabonis 15+ pr,2,0.6747,0.5095,1.96,2.06,1.82,-0.0722,1.0,1.65-1.85
-BOS @ SAC,Baylor Scheierman ra under 8.5 + Domantas Sabonis 6+ reb,2,0.6925,0.5261,1.9,2.0,1.76,-0.0745,0.999,1.65-1.85
-BOS @ SAC,Baylor Scheierman ra under 8.5 + Neemias Queta 15+ pra,2,0.6655,0.5074,1.97,2.07,1.82,-0.0753,0.998,1.65-1.85
-BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Neemias Queta 6+ reb,3,0.5932,0.58,1.72,1.81,1.51,-0.1267,0.992,1.50-1.65
-BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Keegan Murray 1+ 3pm,3,0.555,0.5471,1.83,1.92,1.58,-0.1347,0.984,1.50-1.65
-BOS @ SAC,BOS win + Neemias Queta 6+ reb + Keegan Murray 1+ 3pm,3,0.5282,0.5441,1.84,1.93,1.58,-0.1381,0.989,1.50-1.65
+BOS @ SAC,Baylor Scheierman ra under 7.5 + BOS win,2,0.479,0.4045,2.47,2.6,2.4,-0.0277,0.994,2.10-2.50
+BOS @ SAC,Precious Achiuwa 10+ pr + BOS win,2,0.5407,0.4462,2.24,2.35,2.17,-0.0307,0.986,2.10-2.50
+BOS @ SAC,Precious Achiuwa 10+ pra + BOS win,2,0.5839,0.4942,2.02,2.12,1.95,-0.0338,0.99,1.85-2.10
+BOS @ SAC,Precious Achiuwa 6+ pts + BOS win,2,0.5054,0.4112,2.43,2.55,2.34,-0.0358,0.977,2.10-2.50
+BOS @ SAC,Payton Pritchard pa under 28.5 + Precious Achiuwa 5+ pr,2,0.6648,0.4519,2.21,2.32,2.1,-0.0532,1.001,1.85-2.10
+BOS @ SAC,Precious Achiuwa 10+ pra + Darius Acuff Jr. 4+ ast,2,0.7092,0.497,2.01,2.11,1.9,-0.0547,1.004,1.85-2.10
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Darius Acuff Jr. 4+ ast,3,0.6472,0.5771,1.73,1.82,1.54,-0.1105,0.99,1.50-1.65
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Neemias Queta 6+ reb,3,0.6195,0.5693,1.76,1.84,1.56,-0.1116,0.995,1.50-1.65
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pra + Neemias Queta 6+ reb,3,0.6274,0.5858,1.71,1.79,1.51,-0.1138,0.996,1.50-1.65
