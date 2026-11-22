@@ -1,6 +1,6 @@
 # NBA model · Sun 22 Nov 2026 (US date)
 
-Updated **Mon 23 Nov, 10:45 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-22/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Mon 23 Nov, 10:50 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-22/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -95,7 +95,7 @@ Out: Nic Claxton (CHI), Norman Powell (CHI), Caleb Wilson (CHI), Bryce Hopkins (
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Jamal Murray PTS over 23.5 (24+) | DEN @ CHI | sportsbet | 2.00 | 1.99 | 1.85 | 54.0% | 49.6% | 50.3% | +0.5% | +8.0% | 0.1% |
+| Jamal Murray PTS over 23.5 (24+) | DEN @ CHI | pointsbetau | 2.00 | 1.99 | 1.85 | 54.0% | 49.6% | 50.3% | +0.5% | +8.0% | 0.1% |
 | DeMar DeRozan PTS under 11.5 | DEN @ CHI | tab | 2.00 | 1.99 | 1.81 | 55.1% | 49.3% | 50.2% | +0.4% | +10.3% | 0.1% |
 
 <details><summary>DEN players (confirmed only)</summary>

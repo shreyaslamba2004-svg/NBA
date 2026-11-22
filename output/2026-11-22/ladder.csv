@@ -1227,15 +1227,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pra,27.5,False,0.3693,0.3896,est,0.3864
 401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pra,28.5,False,0.3315,0.3509,est,0.3479
 401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pra,29.5,False,0.2967,0.3168,book,0.3137
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,19.5,False,0.6366,0.6682,est,0.6633
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,20.5,False,0.5866,0.6199,est,0.6148
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,21.5,False,0.5364,0.5708,est,0.5655
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,22.5,False,0.491,0.5259,est,0.5205
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,23.5,True,0.4451,0.4798,book,0.4745
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,24.5,False,0.3997,0.4335,est,0.4283
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,25.5,False,0.3568,0.3893,est,0.3843
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,26.5,False,0.3192,0.3503,est,0.3455
-401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,27.5,False,0.2833,0.3124,est,0.308
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,19.5,False,0.6366,0.6702,est,0.665
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,20.5,False,0.5866,0.622,est,0.6165
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,21.5,False,0.5364,0.573,est,0.5674
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,22.5,False,0.491,0.5281,est,0.5224
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,23.5,True,0.4451,0.482,book,0.4763
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,24.5,False,0.3997,0.4357,est,0.4301
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,25.5,False,0.3568,0.3914,est,0.3861
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,26.5,False,0.3192,0.3523,est,0.3472
+401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pr,27.5,False,0.2833,0.3143,est,0.3096
 401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pa,15.5,False,0.6728,0.6961,est,0.6925
 401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pa,16.5,False,0.6206,0.6455,est,0.6417
 401910032,DEN @ CHI,CHI,1641824,Matas Buzelis,pa,17.5,False,0.5645,0.5907,est,0.5866
@@ -1822,15 +1822,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pra,16.5,False,0.2977,,model only,0.2977
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pra,17.5,False,0.2469,,model only,0.2469
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pra,18.5,False,0.2024,,model only,0.2024
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,7.5,False,0.7915,0.8007,est,0.7993
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,8.5,False,0.7188,0.7302,est,0.7285
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,9.5,False,0.6486,0.6616,est,0.6596
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,10.5,False,0.5706,0.5845,est,0.5824
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,11.5,True,0.4945,0.5088,book,0.5066
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,12.5,False,0.4186,0.4326,est,0.4304
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,13.5,False,0.3526,0.3658,est,0.3637
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,14.5,False,0.2905,0.3024,est,0.3006
-401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,15.5,False,0.2367,0.2472,est,0.2456
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,7.5,False,0.7915,0.801,est,0.7995
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,8.5,False,0.7188,0.7305,est,0.7287
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,9.5,False,0.6486,0.6619,est,0.6599
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,10.5,False,0.5706,0.5849,est,0.5827
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,11.5,True,0.4945,0.5092,book,0.5069
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,12.5,False,0.4186,0.433,est,0.4308
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,13.5,False,0.3526,0.3661,est,0.364
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,14.5,False,0.2905,0.3027,est,0.3008
+401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pr,15.5,False,0.2367,0.2475,est,0.2459
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pa,6.5,False,0.7805,,model only,0.7805
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pa,7.5,False,0.7022,,model only,0.7022
 401910032,DEN @ CHI,CHI,1630172,Patrick Williams,pa,8.5,False,0.6131,,model only,0.6131
@@ -1953,12 +1953,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pra,24.5,False,0.2296,0.2876,est,0.2787
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pra,25.5,False,0.194,0.2459,est,0.2379
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,13.5,False,0.7048,0.7701,est,0.76
-401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,14.5,False,0.6414,0.6893,book,0.6819
+401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,14.5,False,0.6414,0.6886,book,0.6813
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,15.5,False,0.5734,0.6535,est,0.6411
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,16.5,False,0.5068,0.5904,est,0.5776
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,17.5,True,0.4421,0.5265,book,0.5135
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,18.5,False,0.3809,0.4633,est,0.4506
-401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,19.5,False,0.3254,0.4172,book,0.4031
+401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,19.5,False,0.3254,0.4229,book,0.4079
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,20.5,False,0.2743,0.3465,est,0.3354
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pr,21.5,False,0.231,0.2965,est,0.2864
 401910032,DEN @ CHI,DEN,1631128,Christian Braun,pa,11.5,False,0.7128,0.7686,est,0.76
@@ -2346,10 +2346,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pra,12.5,False,0.1038,,model only,0.1038
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,2.5,False,0.8543,,model only,0.8543
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,3.5,False,0.7577,,model only,0.7577
-401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,4.5,False,0.649,0.7182,book,0.7075
+401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,4.5,False,0.649,0.7157,book,0.7054
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,5.5,False,0.5383,,model only,0.5383
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,6.5,False,0.4301,,model only,0.4301
-401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,7.5,False,0.3312,0.4809,book,0.4578
+401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,7.5,False,0.3312,0.4831,book,0.4597
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,8.5,False,0.2462,,model only,0.2462
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,9.5,False,0.1822,0.3398,book,0.3155
 401910032,DEN @ CHI,DEN,904592427,Spencer Jones,pr,10.5,False,0.1306,,model only,0.1306
