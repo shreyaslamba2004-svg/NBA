@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ MIA,Isaiah Hartenstein 11+ pts + Pelle Larsson 10+ pr,2,0.4923,0.414,2.42,2.54,2.46,0.0167,1.0,2.10-2.50
-OKC @ MIA,Isaiah Hartenstein 11+ pts + Andrew Wiggins 1+ 3pm,2,0.4774,0.4136,2.42,2.54,2.46,0.0162,1.006,2.10-2.50
-OKC @ MIA,Isaiah Hartenstein 11+ pts + Kenrich Williams 1+ 3pm,2,0.4721,0.4154,2.41,2.53,2.44,0.0143,1.007,2.10-2.50
-OKC @ MIA,Bennett Stirtz 12+ pts + Bobby Portis 10+ pr,2,0.6328,0.4786,2.09,2.19,2.1,0.005,1.002,1.85-2.10
-OKC @ MIA,Kenrich Williams 11+ pts + Bobby Portis 10+ pr,2,0.7019,0.4883,2.05,2.15,2.0,-0.0253,1.001,1.85-2.10
-OKC @ MIA,Bam Adebayo pts under 21.5 + Bobby Portis 10+ pr,2,0.6414,0.4728,2.11,2.22,2.05,-0.0307,0.999,1.85-2.10
-OKC @ MIA,Pelle Larsson 10+ pr + Bobby Portis 1+ 3pm + Andrew Wiggins 1+ 3pm,3,0.6575,0.5135,1.95,2.04,1.68,-0.1392,1.006,1.65-1.85
-OKC @ MIA,Pelle Larsson 10+ pr + Andrew Wiggins 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.6738,0.5396,1.85,1.95,1.59,-0.1421,1.007,1.50-1.65
-OKC @ MIA,Pelle Larsson 10+ pr + Bobby Portis 1+ 3pm + Davion Mitchell 1+ 3pm,3,0.6973,0.5534,1.81,1.9,1.55,-0.1428,1.005,1.50-1.65
-OKC @ MIA,Pelle Larsson 10+ pr + Andrew Wiggins 1+ 3pm + Bobby Portis 10+ pr,3,0.7171,0.5685,1.76,1.85,1.51,-0.143,1.004,1.50-1.65
-OKC @ MIA,Bobby Portis 1+ 3pm + Pelle Larsson 10+ pa + Andrew Wiggins 1+ 3pm,3,0.6434,0.5145,1.94,2.04,1.67,-0.143,1.006,1.65-1.85
-OKC @ MIA,Pelle Larsson 10+ pr + Andrew Wiggins 1+ 3pm + Kenrich Williams 1+ 3pm,3,0.6255,0.5006,2.0,2.1,1.71,-0.1439,1.005,1.65-1.85
+OKC @ MIA,Bennett Stirtz 12+ pts + Pelle Larsson 10+ pr,2,0.58,0.422,2.37,2.49,2.38,0.0027,1.003,2.10-2.50
+OKC @ MIA,Bennett Stirtz 12+ pts + Pelle Larsson 10+ pa,2,0.5673,0.4199,2.38,2.5,2.38,-0.0006,1.003,2.10-2.50
+OKC @ MIA,Bennett Stirtz 12+ pts + Bobby Portis 1+ 3pm,2,0.5788,0.4262,2.35,2.46,2.34,-0.0024,1.001,2.10-2.50
+OKC @ MIA,Bennett Stirtz 12+ pts + Kenrich Williams 10+ pr,2,0.6324,0.4772,2.1,2.2,2.09,-0.0041,1.004,1.85-2.10
+OKC @ MIA,Kenrich Williams 11+ pts + Bennett Stirtz 1+ 3pm,2,0.6645,0.4659,2.15,2.25,2.09,-0.0259,1.002,1.85-2.10
+OKC @ MIA,Kenrich Williams 11+ pts + Bobby Portis 4+ reb,2,0.6669,0.4741,2.11,2.21,2.05,-0.0283,1.002,1.85-2.10
+OKC @ MIA,Bennett Stirtz 10+ pr + Pelle Larsson 10+ pr + Bobby Portis 1+ 3pm,3,0.6831,0.5093,1.96,2.06,1.7,-0.132,1.005,1.65-1.85
+OKC @ MIA,Bennett Stirtz 10+ pr + Pelle Larsson 10+ pr + Andrew Wiggins 1+ 3pm,3,0.6581,0.4955,2.02,2.12,1.75,-0.1339,1.004,1.65-1.85
+OKC @ MIA,Bennett Stirtz 10+ pr + Bobby Portis 1+ 3pm + Pelle Larsson 10+ pa,3,0.6681,0.5066,1.97,2.07,1.71,-0.135,1.005,1.65-1.85
+OKC @ MIA,Bennett Stirtz 10+ pr + Pelle Larsson 10+ pr + Davion Mitchell 1+ 3pm,3,0.698,0.5343,1.87,1.97,1.61,-0.1374,1.003,1.50-1.65
+OKC @ MIA,Bennett Stirtz 10+ pr + Pelle Larsson 10+ pr + Kenrich Williams 10+ pr,3,0.7428,0.5675,1.76,1.85,1.52,-0.1377,1.003,1.50-1.65
+OKC @ MIA,Bennett Stirtz 10+ pr + Pelle Larsson 10+ pa + Kenrich Williams 10+ pr,3,0.7282,0.5659,1.77,1.86,1.52,-0.1386,1.005,1.50-1.65
 ORL @ WAS,game over 219.5 + Trae Young 15+ pr,2,0.6282,0.3913,2.56,2.68,2.43,-0.048,1.034,2.10-2.50
 ORL @ WAS,WAS +4.5 + Trae Young 15+ pr,2,0.3619,0.3893,2.57,2.7,2.44,-0.0484,1.05,2.10-2.50
 ORL @ WAS,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.6299,0.3913,2.56,2.68,2.42,-0.0544,1.026,2.10-2.50
@@ -48,15 +48,14 @@ DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pra,2,0.7763,0.5839,1.71
 DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 5+ pa,2,0.786,0.5967,1.68,1.76,1.55,-0.0768,1.0,1.50-1.65
 DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5723,1.75,1.83,1.6,-0.083,1.0,1.50-1.65
 IND @ NYK,NYK win + Jalen Brunson 32+ pr,2,0.4334,0.3917,2.55,2.68,2.49,-0.0237,1.051,2.10-2.50
-IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4662,2.14,2.25,2.05,-0.0443,1.027,1.85-2.10
+IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4701,2.13,2.23,2.03,-0.046,1.027,1.85-2.10
 IND @ NYK,NYK win + Josh Hart reb under 8.5,2,0.4767,0.3939,2.54,2.67,2.4,-0.0555,1.001,2.10-2.50
-IND @ NYK,game over 213.5 + Landry Shamet 10+ pr,2,0.5575,0.3953,2.53,2.66,2.37,-0.0615,1.027,2.10-2.50
-IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.611,0.5656,1.77,1.86,1.65,-0.0649,1.015,1.65-1.85
-IND @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.5801,0.5494,1.82,1.91,1.69,-0.0743,1.009,1.65-1.85
-IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4487,2.23,2.34,2.05,-0.0811,1.005,1.85-2.10
-IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4358,0.4437,2.25,2.37,2.07,-0.0828,0.994,1.85-2.10
-IND @ NYK,Josh Hart stl under 1.5 + Landry Shamet 1+ 3pm,2,0.5575,0.4872,2.05,2.16,1.84,-0.1035,1.0,1.65-1.85
-IND @ NYK,Landry Shamet 10+ pr + Jalen Brunson 2+ 3pm,2,0.6608,0.5926,1.69,1.77,1.51,-0.107,1.002,1.50-1.65
+IND @ NYK,game over 213.5 + Landry Shamet 10+ pr,2,0.5575,0.3956,2.53,2.65,2.37,-0.0616,1.027,2.10-2.50
+IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.611,0.5659,1.77,1.86,1.65,-0.065,1.015,1.65-1.85
+IND @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.5801,0.5517,1.81,1.9,1.68,-0.0751,1.009,1.65-1.85
+IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4483,2.23,2.34,2.05,-0.0809,1.005,1.85-2.10
+IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4358,0.4433,2.26,2.37,2.07,-0.0826,0.994,1.85-2.10
+IND @ NYK,Josh Hart reb under 8.5 + Jalen Brunson 1+ 3pm,2,0.6215,0.4993,2.0,2.1,1.83,-0.0869,1.001,1.65-1.85
 BOS @ GSW,BOS win + Sam Hauser 9+ pts,2,0.4389,0.3936,2.54,2.67,2.48,-0.0251,1.042,2.10-2.50
 BOS @ GSW,BOS win + Neemias Queta 19+ pr,2,0.4446,0.4025,2.48,2.61,2.4,-0.0343,1.03,2.10-2.50
 BOS @ GSW,BOS win + Neemias Queta 21+ pra,2,0.4433,0.3961,2.52,2.65,2.44,-0.0348,1.03,2.10-2.50
