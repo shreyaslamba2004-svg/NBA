@@ -5137,75 +5137,73 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910032,DEN @ CHI,DEN,1627750,Jamal Murray,ra,11.5,False,0.4328,0.383,est,0.3906
 401910032,DEN @ CHI,DEN,1627750,Jamal Murray,ra,12.5,False,0.3408,0.296,est,0.3029
 401910032,DEN @ CHI,DEN,1627750,Jamal Murray,ra,13.5,False,0.2547,0.2175,est,0.2232
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,11.5,False,0.6968,,model only,0.6968
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,12.5,False,0.6318,,model only,0.6318
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,13.5,False,0.5673,,model only,0.5673
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,14.5,False,0.507,,model only,0.507
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,15.5,False,0.4488,,model only,0.4488
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,16.5,False,0.3937,,model only,0.3937
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,17.5,False,0.3408,,model only,0.3408
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,18.5,False,0.2941,,model only,0.2941
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,19.5,False,0.25,,model only,0.25
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,2.5,False,0.8916,,model only,0.8916
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,3.5,False,0.7785,,model only,0.7785
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,4.5,False,0.6347,,model only,0.6347
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,5.5,False,0.4818,,model only,0.4818
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,6.5,False,0.3408,,model only,0.3408
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,7.5,False,0.2246,,model only,0.2246
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,8.5,False,0.1392,,model only,0.1392
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,0.5,False,0.8752,,model only,0.8752
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,1.5,False,0.6338,,model only,0.6338
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,2.5,False,0.3792,,model only,0.3792
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,3.5,False,0.1958,,model only,0.1958
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,4.5,False,0.0867,,model only,0.0867
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,5.5,False,0.0332,,model only,0.0332
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,0.5,False,0.8715,,model only,0.8715
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,1.5,False,0.6168,,model only,0.6168
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,2.5,False,0.3474,,model only,0.3474
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,3.5,False,0.1548,,model only,0.1548
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,4.5,False,0.0553,,model only,0.0553
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,10.5,False,0.7546,0.7331,est,0.7364
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,11.5,False,0.6968,0.6496,book,0.6569
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,12.5,False,0.6318,0.6051,est,0.6092
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,13.5,False,0.5673,0.5393,est,0.5436
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,14.5,True,0.507,0.4787,book,0.4831
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,15.5,False,0.4488,0.421,est,0.4253
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,16.5,False,0.3937,0.367,est,0.3711
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,17.5,False,0.3408,0.3168,book,0.3205
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pts,18.5,False,0.2941,0.2712,est,0.2747
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,2.5,False,0.8916,0.8472,book,0.854
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,3.5,False,0.7785,0.7323,book,0.7394
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,4.5,False,0.6347,0.5935,book,0.5998
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,5.5,True,0.4818,0.4493,book,0.4543
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,6.5,False,0.3408,0.319,book,0.3224
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,7.5,False,0.2246,0.2129,book,0.2147
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,reb,8.5,False,0.1392,0.1383,book,0.1384
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,0.5,False,0.8752,0.867,est,0.8682
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,1.5,True,0.6338,0.6167,book,0.6193
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,2.5,False,0.3792,0.3622,est,0.3648
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,3.5,False,0.1958,0.1845,est,0.1862
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ast,4.5,False,0.0867,0.0811,est,0.082
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,0.5,False,0.8715,0.8284,book,0.835
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,1.5,True,0.6168,0.5772,book,0.5833
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,2.5,False,0.3474,0.3302,book,0.3329
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,fg3m,3.5,False,0.1548,0.166,book,0.1643
 401910033,DAL @ UTA,UTA,1642846,Ace Bailey,stl,0.5,False,0.6165,,model only,0.6165
 401910033,DAL @ UTA,UTA,1642846,Ace Bailey,stl,1.5,False,0.2638,,model only,0.2638
 401910033,DAL @ UTA,UTA,1642846,Ace Bailey,stl,2.5,False,0.0872,,model only,0.0872
 401910033,DAL @ UTA,UTA,1642846,Ace Bailey,blk,0.5,False,0.583,,model only,0.583
 401910033,DAL @ UTA,UTA,1642846,Ace Bailey,blk,1.5,False,0.2272,,model only,0.2272
 401910033,DAL @ UTA,UTA,1642846,Ace Bailey,blk,2.5,False,0.0694,,model only,0.0694
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,18.5,False,0.703,,model only,0.703
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,19.5,False,0.6534,,model only,0.6534
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,20.5,False,0.603,,model only,0.603
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,21.5,False,0.5524,,model only,0.5524
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,22.5,False,0.5014,,model only,0.5014
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,23.5,False,0.4531,,model only,0.4531
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,24.5,False,0.4024,,model only,0.4024
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,25.5,False,0.3562,,model only,0.3562
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,26.5,False,0.3154,,model only,0.3154
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,27.5,False,0.2774,,model only,0.2774
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,28.5,False,0.243,,model only,0.243
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,16.5,False,0.7021,,model only,0.7021
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,17.5,False,0.6493,,model only,0.6493
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,18.5,False,0.5982,,model only,0.5982
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,19.5,False,0.5438,,model only,0.5438
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,20.5,False,0.489,,model only,0.489
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,21.5,False,0.4367,,model only,0.4367
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,22.5,False,0.3882,,model only,0.3882
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,23.5,False,0.3417,,model only,0.3417
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,24.5,False,0.2986,,model only,0.2986
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,13.5,False,0.6957,,model only,0.6957
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,14.5,False,0.637,,model only,0.637
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,15.5,False,0.58,,model only,0.58
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,16.5,False,0.5184,,model only,0.5184
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,17.5,False,0.462,,model only,0.462
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,18.5,False,0.4089,,model only,0.4089
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,19.5,False,0.3585,,model only,0.3585
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,20.5,False,0.3105,,model only,0.3105
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,21.5,False,0.2691,,model only,0.2691
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,5.5,False,0.7529,,model only,0.7529
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,6.5,False,0.6349,,model only,0.6349
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,7.5,False,0.5108,,model only,0.5108
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,8.5,False,0.3891,,model only,0.3891
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,9.5,False,0.2832,,model only,0.2832
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,10.5,False,0.1958,,model only,0.1958
-401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,11.5,False,0.1329,,model only,0.1329
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,16.5,False,0.7949,0.7683,est,0.7724
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,17.5,False,0.7485,0.718,est,0.7227
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,18.5,False,0.703,0.6694,est,0.6746
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,19.5,False,0.6534,0.6089,book,0.6158
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,20.5,False,0.603,0.5651,est,0.571
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,21.5,True,0.5524,0.5136,book,0.5196
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,22.5,False,0.5014,0.4625,est,0.4685
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,23.5,False,0.4531,0.4148,est,0.4207
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,24.5,False,0.4024,0.3768,book,0.3807
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,25.5,False,0.3562,0.3213,est,0.3267
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pra,26.5,False,0.3154,0.2827,est,0.2878
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,15.5,False,0.753,0.7236,est,0.7282
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,16.5,False,0.7021,0.6693,est,0.6744
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,17.5,False,0.6493,0.6139,est,0.6193
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,18.5,False,0.5982,0.5611,est,0.5668
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,19.5,True,0.5438,0.5059,book,0.5117
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,20.5,False,0.489,0.4511,est,0.4569
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,21.5,False,0.4367,0.3997,est,0.4054
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,22.5,False,0.3882,0.3527,est,0.3581
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pr,23.5,False,0.3417,0.3083,est,0.3134
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,12.5,False,0.7533,0.7337,est,0.7367
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,13.5,False,0.6957,0.6735,est,0.6769
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,14.5,False,0.637,0.6043,book,0.6093
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,15.5,False,0.58,0.5547,est,0.5586
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,16.5,True,0.5184,0.4927,book,0.4967
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,17.5,False,0.462,0.4365,est,0.4404
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,18.5,False,0.4089,0.3843,est,0.3881
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,19.5,False,0.3585,0.335,book,0.3386
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,pa,20.5,False,0.3105,0.2889,est,0.2922
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,4.5,False,0.8555,0.8378,est,0.8405
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,5.5,False,0.7529,0.7267,est,0.7308
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,6.5,False,0.6349,0.6029,est,0.6078
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,7.5,True,0.5108,0.4768,book,0.482
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,8.5,False,0.3891,0.3573,est,0.3622
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,9.5,False,0.2832,0.2565,est,0.2606
+401910033,DAL @ UTA,UTA,1642846,Ace Bailey,ra,10.5,False,0.1958,0.1753,est,0.1784
 401910033,DAL @ UTA,UTA,1628964,Mo Bamba,pts,3.5,False,0.8566,,model only,0.8566
 401910033,DAL @ UTA,UTA,1628964,Mo Bamba,pts,4.5,False,0.7736,,model only,0.7736
 401910033,DAL @ UTA,UTA,1628964,Mo Bamba,pts,5.5,False,0.6794,,model only,0.6794
@@ -5336,99 +5334,99 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910033,DAL @ UTA,UTA,1642268,Isaiah Collier,ra,6.5,False,0.3848,,model only,0.3848
 401910033,DAL @ UTA,UTA,1642268,Isaiah Collier,ra,7.5,False,0.2945,,model only,0.2945
 401910033,DAL @ UTA,UTA,1642268,Isaiah Collier,ra,8.5,False,0.2178,,model only,0.2178
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,19.5,False,0.6513,,model only,0.6513
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,20.5,False,0.607,,model only,0.607
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,21.5,False,0.5628,,model only,0.5628
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,22.5,False,0.5189,,model only,0.5189
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,23.5,False,0.4733,,model only,0.4733
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,24.5,False,0.4317,,model only,0.4317
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,25.5,False,0.3916,,model only,0.3916
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,26.5,False,0.3535,,model only,0.3535
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,27.5,False,0.318,,model only,0.318
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,1.5,False,0.91,,model only,0.91
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,2.5,False,0.7722,,model only,0.7722
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,3.5,False,0.5974,,model only,0.5974
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,4.5,False,0.4151,,model only,0.4151
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,5.5,False,0.265,,model only,0.265
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,6.5,False,0.154,,model only,0.154
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,7.5,False,0.083,,model only,0.083
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,4.5,False,0.8323,,model only,0.8323
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,5.5,False,0.7241,,model only,0.7241
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,6.5,False,0.5954,,model only,0.5954
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,7.5,False,0.4663,,model only,0.4663
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,8.5,False,0.3501,,model only,0.3501
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,9.5,False,0.2465,,model only,0.2465
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,10.5,False,0.1672,,model only,0.1672
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,0.5,False,0.9219,,model only,0.9219
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,1.5,False,0.7381,,model only,0.7381
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,2.5,False,0.4981,,model only,0.4981
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,3.5,False,0.285,,model only,0.285
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,4.5,False,0.142,,model only,0.142
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,19.5,False,0.6513,0.6552,est,0.6546
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,20.5,False,0.607,0.6111,est,0.6105
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,21.5,False,0.5628,0.5671,est,0.5664
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,22.5,False,0.5189,0.5232,est,0.5225
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,23.5,True,0.4733,0.4776,book,0.4769
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,24.5,False,0.4317,0.4359,est,0.4353
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,25.5,False,0.3916,0.3957,est,0.3951
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,26.5,False,0.3535,0.3575,est,0.3569
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pts,27.5,False,0.318,0.3218,est,0.3212
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,0.5,False,0.9794,0.973,est,0.974
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,1.5,False,0.91,0.8848,est,0.8887
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,2.5,False,0.7722,0.7121,book,0.7214
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,3.5,True,0.5974,0.53,book,0.5404
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,4.5,False,0.4151,0.3527,book,0.3623
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,5.5,False,0.265,0.2158,book,0.2234
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,reb,6.5,False,0.154,0.123,book,0.1278
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,4.5,False,0.8323,0.8392,book,0.8381
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,5.5,False,0.7241,0.7446,book,0.7414
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,6.5,False,0.5954,0.6272,book,0.6223
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,7.5,True,0.4663,0.4989,book,0.4939
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,8.5,False,0.3501,0.3679,book,0.3652
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,9.5,False,0.2465,0.2582,book,0.2564
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ast,10.5,False,0.1672,0.1734,book,0.1724
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,0.5,False,0.9219,0.8832,book,0.8892
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,1.5,False,0.7381,0.6974,book,0.7037
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,2.5,True,0.4981,0.4707,book,0.4749
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,3.5,False,0.285,0.2733,book,0.2751
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,fg3m,4.5,False,0.142,0.1414,book,0.1415
 401910033,DAL @ UTA,UTA,1641718,Keyonte George,stl,0.5,False,0.6387,,model only,0.6387
 401910033,DAL @ UTA,UTA,1641718,Keyonte George,stl,1.5,False,0.2911,,model only,0.2911
 401910033,DAL @ UTA,UTA,1641718,Keyonte George,stl,2.5,False,0.0999,,model only,0.0999
 401910033,DAL @ UTA,UTA,1641718,Keyonte George,blk,0.5,False,0.2109,,model only,0.2109
 401910033,DAL @ UTA,UTA,1641718,Keyonte George,blk,1.5,False,0.0255,,model only,0.0255
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,30.5,False,0.66,,model only,0.66
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,31.5,False,0.6198,,model only,0.6198
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,32.5,False,0.5805,,model only,0.5805
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,33.5,False,0.5424,,model only,0.5424
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,34.5,False,0.5051,,model only,0.5051
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,35.5,False,0.4698,,model only,0.4698
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,36.5,False,0.4353,,model only,0.4353
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,37.5,False,0.4008,,model only,0.4008
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,38.5,False,0.3672,,model only,0.3672
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,39.5,False,0.336,,model only,0.336
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,40.5,False,0.3053,,model only,0.3053
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,23.5,False,0.6548,,model only,0.6548
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,24.5,False,0.6122,,model only,0.6122
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,25.5,False,0.5683,,model only,0.5683
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,26.5,False,0.5273,,model only,0.5273
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,27.5,False,0.4877,,model only,0.4877
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,28.5,False,0.4472,,model only,0.4472
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,29.5,False,0.4079,,model only,0.4079
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,30.5,False,0.3723,,model only,0.3723
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,31.5,False,0.3373,,model only,0.3373
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,26.5,False,0.657,,model only,0.657
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,27.5,False,0.6153,,model only,0.6153
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,28.5,False,0.576,,model only,0.576
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,29.5,False,0.5365,,model only,0.5365
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,30.5,False,0.4963,,model only,0.4963
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,31.5,False,0.4576,,model only,0.4576
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,32.5,False,0.4222,,model only,0.4222
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,33.5,False,0.3862,,model only,0.3862
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,34.5,False,0.3505,,model only,0.3505
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,8.5,False,0.785,,model only,0.785
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,9.5,False,0.6954,,model only,0.6954
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,10.5,False,0.599,,model only,0.599
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,11.5,False,0.497,,model only,0.497
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,12.5,False,0.4024,,model only,0.4024
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,13.5,False,0.313,,model only,0.313
-401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,14.5,False,0.2333,,model only,0.2333
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,2.5,False,0.8686,,model only,0.8686
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,3.5,False,0.7629,,model only,0.7629
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,4.5,False,0.646,,model only,0.646
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,5.5,False,0.5259,,model only,0.5259
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,6.5,False,0.4098,,model only,0.4098
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,7.5,False,0.3112,,model only,0.3112
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,8.5,False,0.2299,,model only,0.2299
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,9.5,False,0.1652,,model only,0.1652
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,10.5,False,0.1161,,model only,0.1161
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,29.5,False,0.6955,0.705,book,0.7035
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,30.5,False,0.66,0.6676,est,0.6664
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,31.5,False,0.6198,0.6277,est,0.6265
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,32.5,False,0.5805,0.5888,est,0.5875
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,33.5,False,0.5424,0.5508,est,0.5495
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,34.5,True,0.5051,0.5136,book,0.5123
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,35.5,False,0.4698,0.4783,est,0.477
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,36.5,False,0.4353,0.4436,est,0.4424
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,37.5,False,0.4008,0.409,est,0.4077
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,38.5,False,0.3672,0.3751,est,0.3739
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pra,39.5,False,0.336,0.3126,book,0.3162
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,23.5,False,0.6548,0.6497,est,0.6505
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,24.5,False,0.6122,0.6068,est,0.6076
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,25.5,False,0.5683,0.5627,est,0.5636
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,26.5,False,0.5273,0.5216,est,0.5225
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,27.5,True,0.4877,0.482,book,0.4829
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,28.5,False,0.4472,0.4416,est,0.4425
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,29.5,False,0.4079,0.4024,est,0.4032
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,30.5,False,0.3723,0.367,est,0.3678
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pr,31.5,False,0.3373,0.3322,est,0.333
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,26.5,False,0.657,0.6758,est,0.6729
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,27.5,False,0.6153,0.6351,est,0.6321
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,28.5,False,0.576,0.5965,est,0.5933
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,29.5,False,0.5365,0.5575,est,0.5543
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,30.5,True,0.4963,0.5174,book,0.5141
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,31.5,False,0.4576,0.4787,est,0.4754
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,32.5,False,0.4222,0.443,est,0.4398
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,33.5,False,0.3862,0.4065,est,0.4034
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,pa,34.5,False,0.3505,0.37,est,0.367
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,8.5,False,0.785,0.7745,est,0.7761
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,9.5,False,0.6954,0.6823,est,0.6843
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,10.5,False,0.599,0.5842,est,0.5865
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,11.5,True,0.497,0.4817,book,0.4841
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,12.5,False,0.4024,0.3878,est,0.39
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,13.5,False,0.313,0.2999,est,0.302
+401910033,DAL @ UTA,UTA,1641718,Keyonte George,ra,14.5,False,0.2333,0.2225,est,0.2242
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,1.5,False,0.9441,0.9397,est,0.9403
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,2.5,False,0.8686,0.8591,est,0.8606
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,3.5,False,0.7629,0.748,est,0.7503
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,4.5,False,0.646,0.6274,est,0.6302
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,5.5,True,0.5259,0.5058,book,0.5089
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,6.5,False,0.4098,0.3905,est,0.3935
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,7.5,False,0.3112,0.3386,book,0.3344
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,8.5,False,0.2299,0.216,est,0.2182
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pts,9.5,False,0.1652,0.2036,book,0.1977
 401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,0.5,False,0.8888,,model only,0.8888
 401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,1.5,False,0.6663,,model only,0.6663
-401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,2.5,False,0.4258,,model only,0.4258
-401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,3.5,False,0.2333,,model only,0.2333
-401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,4.5,False,0.1151,,model only,0.1151
-401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,5.5,False,0.0519,,model only,0.0519
+401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,2.5,False,0.4258,0.5265,book,0.511
+401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,3.5,False,0.2333,0.3291,book,0.3144
+401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,4.5,False,0.1151,0.1858,book,0.1749
+401910033,DAL @ UTA,UTA,1630182,Josh Green,reb,5.5,False,0.0519,0.0984,book,0.0912
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ast,0.5,False,0.7105,,model only,0.7105
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ast,1.5,False,0.3713,,model only,0.3713
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ast,2.5,False,0.1573,,model only,0.1573
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ast,3.5,False,0.053,,model only,0.053
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ast,4.5,False,0.0164,,model only,0.0164
-401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,0.5,False,0.5666,,model only,0.5666
-401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,1.5,False,0.1741,,model only,0.1741
-401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,2.5,False,0.0327,,model only,0.0327
-401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,3.5,False,0.0047,,model only,0.0047
+401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,0.5,False,0.5666,0.666,book,0.6507
+401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,1.5,True,0.1741,0.3326,book,0.3082
+401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,2.5,False,0.0327,0.1316,book,0.1164
+401910033,DAL @ UTA,UTA,1630182,Josh Green,fg3m,3.5,False,0.0047,0.0537,book,0.0462
 401910033,DAL @ UTA,UTA,1630182,Josh Green,stl,0.5,False,0.5597,,model only,0.5597
 401910033,DAL @ UTA,UTA,1630182,Josh Green,stl,1.5,False,0.2243,,model only,0.2243
 401910033,DAL @ UTA,UTA,1630182,Josh Green,stl,2.5,False,0.0687,,model only,0.0687
@@ -5445,12 +5443,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pra,12.5,False,0.2575,,model only,0.2575
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pra,13.5,False,0.1967,,model only,0.1967
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pra,14.5,False,0.1491,,model only,0.1491
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,4.5,False,0.844,,model only,0.844
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,4.5,False,0.844,0.8029,book,0.8092
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,5.5,False,0.7602,,model only,0.7602
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,6.5,False,0.6657,,model only,0.6657
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,7.5,False,0.5654,,model only,0.5654
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,8.5,False,0.466,,model only,0.466
-401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,9.5,False,0.3704,,model only,0.3704
+401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,9.5,False,0.3704,0.4154,book,0.4085
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,10.5,False,0.2885,,model only,0.2885
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,11.5,False,0.2226,,model only,0.2226
 401910033,DAL @ UTA,UTA,1630182,Josh Green,pr,12.5,False,0.1664,,model only,0.1664
@@ -5470,27 +5468,27 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ra,4.5,False,0.3248,,model only,0.3248
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ra,5.5,False,0.1949,,model only,0.1949
 401910033,DAL @ UTA,UTA,1630182,Josh Green,ra,6.5,False,0.1091,,model only,0.1091
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,6.5,False,0.7702,,model only,0.7702
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,7.5,False,0.6901,,model only,0.6901
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,8.5,False,0.6139,,model only,0.6139
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,9.5,False,0.5388,,model only,0.5388
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,10.5,False,0.4594,,model only,0.4594
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,11.5,False,0.3885,,model only,0.3885
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,12.5,False,0.3219,,model only,0.3219
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,13.5,False,0.2652,,model only,0.2652
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,14.5,False,0.2158,,model only,0.2158
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,3.5,False,0.8558,,model only,0.8558
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,4.5,False,0.7487,,model only,0.7487
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,5.5,False,0.6263,,model only,0.6263
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,6.5,False,0.4982,,model only,0.4982
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,7.5,False,0.3805,,model only,0.3805
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,8.5,False,0.2752,,model only,0.2752
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,9.5,False,0.19,,model only,0.19
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,5.5,False,0.8425,0.8003,book,0.8068
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,6.5,False,0.7702,0.756,est,0.7582
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,7.5,False,0.6901,0.6668,book,0.6704
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,8.5,False,0.6139,0.5951,est,0.598
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,9.5,True,0.5388,0.5192,book,0.5222
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,10.5,False,0.4594,0.44,est,0.443
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,11.5,False,0.3885,0.3753,book,0.3773
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,12.5,False,0.3219,0.305,est,0.3076
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pts,13.5,False,0.2652,0.2502,est,0.2525
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,3.5,False,0.8558,0.8259,book,0.8305
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,4.5,False,0.7487,0.7222,book,0.7263
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,5.5,False,0.6263,0.6008,book,0.6047
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,6.5,True,0.4982,0.473,book,0.4769
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,7.5,False,0.3805,0.3581,book,0.3616
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,8.5,False,0.2752,0.2533,book,0.2567
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,reb,9.5,False,0.19,0.1731,book,0.1757
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,0.5,False,0.7254,,model only,0.7254
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,1.5,False,0.389,,model only,0.389
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,2.5,False,0.165,,model only,0.165
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,3.5,False,0.0606,,model only,0.0606
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,4.5,False,0.0187,,model only,0.0187
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,1.5,False,0.389,0.4917,book,0.4759
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,2.5,False,0.165,0.2547,book,0.2409
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,3.5,False,0.0606,0.1154,book,0.107
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ast,4.5,False,0.0187,0.0531,book,0.0478
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,fg3m,0.5,False,0.0083,,model only,0.0083
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,fg3m,1.5,False,0.0,,model only,0.0
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,fg3m,2.5,False,0.0,,model only,0.0
@@ -5500,34 +5498,34 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,blk,0.5,False,0.7118,,model only,0.7118
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,blk,1.5,False,0.3743,,model only,0.3743
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,blk,2.5,False,0.1531,,model only,0.1531
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,13.5,False,0.7576,,model only,0.7576
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,14.5,False,0.7048,,model only,0.7048
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,15.5,False,0.6501,,model only,0.6501
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,16.5,False,0.5923,,model only,0.5923
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,17.5,False,0.5369,,model only,0.5369
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,18.5,False,0.4805,,model only,0.4805
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,19.5,False,0.4255,,model only,0.4255
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,20.5,False,0.376,,model only,0.376
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,21.5,False,0.3286,,model only,0.3286
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,22.5,False,0.2829,,model only,0.2829
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,23.5,False,0.2425,,model only,0.2425
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,13.5,False,0.6935,,model only,0.6935
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,14.5,False,0.6347,,model only,0.6347
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,15.5,False,0.5742,,model only,0.5742
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,16.5,False,0.5148,,model only,0.5148
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,17.5,False,0.4565,,model only,0.4565
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,18.5,False,0.4012,,model only,0.4012
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,19.5,False,0.3537,,model only,0.3537
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,20.5,False,0.3044,,model only,0.3044
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,21.5,False,0.2614,,model only,0.2614
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,12.5,False,0.805,0.7961,est,0.7974
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,13.5,False,0.7576,0.7472,est,0.7488
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,14.5,False,0.7048,0.6929,est,0.6948
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,15.5,False,0.6501,0.6372,est,0.6392
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,16.5,False,0.5923,0.5787,est,0.5808
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,17.5,True,0.5369,0.5229,book,0.5251
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,18.5,False,0.4805,0.4665,est,0.4687
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,19.5,False,0.4255,0.4118,est,0.4139
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,20.5,False,0.376,0.3629,est,0.3649
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,21.5,False,0.3286,0.3163,est,0.3182
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pra,22.5,False,0.2829,0.2716,est,0.2734
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,12.5,False,0.7475,0.722,est,0.7259
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,13.5,False,0.6935,0.6649,est,0.6693
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,14.5,False,0.6347,0.5972,book,0.603
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,15.5,False,0.5742,0.5418,est,0.5467
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,16.5,True,0.5148,0.482,book,0.4871
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,17.5,False,0.4565,0.4242,est,0.4292
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,18.5,False,0.4012,0.37,est,0.3748
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,19.5,False,0.3537,0.3234,book,0.3281
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pr,20.5,False,0.3044,0.2773,est,0.2815
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,7.5,False,0.7781,,model only,0.7781
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,8.5,False,0.7084,,model only,0.7084
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,9.5,False,0.6369,,model only,0.6369
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,9.5,False,0.6369,0.6311,book,0.632
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,10.5,False,0.5643,,model only,0.5643
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,11.5,False,0.4908,,model only,0.4908
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,12.5,False,0.421,,model only,0.421
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,13.5,False,0.3556,,model only,0.3556
-401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,14.5,False,0.2945,,model only,0.2945
+401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,14.5,False,0.2945,0.2976,book,0.2971
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,pa,15.5,False,0.2435,,model only,0.2435
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ra,5.5,False,0.7574,,model only,0.7574
 401910033,DAL @ UTA,UTA,1629637,Jaxson Hayes,ra,6.5,False,0.6538,,model only,0.6538
@@ -5667,103 +5665,102 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910033,DAL @ UTA,UTA,1629006,Josh Okogie,ra,5.5,False,0.2836,,model only,0.2836
 401910033,DAL @ UTA,UTA,1629006,Josh Okogie,ra,6.5,False,0.1787,,model only,0.1787
 401910033,DAL @ UTA,UTA,1629006,Josh Okogie,ra,7.5,False,0.1077,,model only,0.1077
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,13.5,False,0.7157,,model only,0.7157
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,14.5,False,0.6607,,model only,0.6607
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,15.5,False,0.6079,,model only,0.6079
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,16.5,False,0.5539,,model only,0.5539
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,17.5,False,0.498,,model only,0.498
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,18.5,False,0.447,,model only,0.447
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,19.5,False,0.3981,,model only,0.3981
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,20.5,False,0.3543,,model only,0.3543
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,21.5,False,0.3117,,model only,0.3117
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,1.5,False,0.9333,,model only,0.9333
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,2.5,False,0.819,,model only,0.819
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,3.5,False,0.6682,,model only,0.6682
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,4.5,False,0.4959,,model only,0.4959
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,5.5,False,0.3441,,model only,0.3441
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,6.5,False,0.2219,,model only,0.2219
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,7.5,False,0.1336,,model only,0.1336
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,1.5,False,0.9117,,model only,0.9117
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,2.5,False,0.7841,,model only,0.7841
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,3.5,False,0.6155,,model only,0.6155
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,4.5,False,0.4441,,model only,0.4441
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,5.5,False,0.2947,,model only,0.2947
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,6.5,False,0.1806,,model only,0.1806
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,7.5,False,0.1005,,model only,0.1005
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,0.5,False,0.8661,,model only,0.8661
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,1.5,False,0.6028,,model only,0.6028
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,2.5,False,0.3396,,model only,0.3396
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,3.5,False,0.1554,,model only,0.1554
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,4.5,False,0.0589,,model only,0.0589
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,stl,0.5,False,0.6637,,model only,0.6637
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,stl,1.5,False,0.3123,,model only,0.3123
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,stl,2.5,False,0.1149,,model only,0.1149
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,14.5,False,0.6607,0.6997,est,0.6937
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,15.5,False,0.6079,0.6497,est,0.6433
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,16.5,False,0.5539,0.5977,est,0.591
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,17.5,False,0.498,0.5428,est,0.5359
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,18.5,True,0.447,0.4917,book,0.4848
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,19.5,False,0.3981,0.4418,est,0.4351
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,20.5,False,0.3543,0.3964,est,0.3899
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,21.5,False,0.3117,0.3515,est,0.3454
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pts,22.5,False,0.2737,0.3108,est,0.3051
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,1.5,False,0.9333,0.9425,est,0.9411
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,2.5,False,0.819,0.8246,book,0.8237
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,3.5,False,0.6682,0.6949,book,0.6908
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,4.5,True,0.4959,0.5352,book,0.5291
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,5.5,False,0.3441,0.3815,book,0.3757
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,6.5,False,0.2219,0.2519,book,0.2473
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,reb,7.5,False,0.1336,0.1547,book,0.1514
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,1.5,False,0.9117,0.9148,est,0.9143
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,2.5,False,0.7841,0.7883,book,0.7877
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,3.5,False,0.6155,0.6282,book,0.6262
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,4.5,True,0.4441,0.4537,book,0.4522
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,5.5,False,0.2947,0.2967,book,0.2964
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,6.5,False,0.1806,0.1851,book,0.1844
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ast,7.5,False,0.1005,0.1027,book,0.1024
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,0.5,False,0.8661,0.8648,book,0.865
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,1.5,False,0.6028,0.6581,book,0.6496
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,2.5,True,0.3396,0.4172,book,0.4053
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,3.5,False,0.1554,0.2291,book,0.2178
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,fg3m,4.5,False,0.0589,0.1168,book,0.1079
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,stl,0.5,False,0.6637,0.6867,book,0.6832
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,stl,1.5,True,0.3123,0.3567,book,0.3499
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,stl,2.5,False,0.1149,0.1481,book,0.143
 401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,blk,0.5,False,0.5035,,model only,0.5035
 401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,blk,1.5,False,0.1639,,model only,0.1639
 401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,blk,2.5,False,0.0416,,model only,0.0416
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,22.5,False,0.686,,model only,0.686
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,23.5,False,0.642,,model only,0.642
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,24.5,False,0.5965,,model only,0.5965
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,25.5,False,0.5508,,model only,0.5508
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,26.5,False,0.5075,,model only,0.5075
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,27.5,False,0.4646,,model only,0.4646
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,28.5,False,0.4224,,model only,0.4224
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,29.5,False,0.3844,,model only,0.3844
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,30.5,False,0.3462,,model only,0.3462
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,31.5,False,0.3086,,model only,0.3086
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,32.5,False,0.2746,,model only,0.2746
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,18.5,False,0.6807,,model only,0.6807
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,19.5,False,0.635,,model only,0.635
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,20.5,False,0.5854,,model only,0.5854
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,21.5,False,0.5349,,model only,0.5349
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,22.5,False,0.4866,,model only,0.4866
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,23.5,False,0.4412,,model only,0.4412
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,24.5,False,0.3969,,model only,0.3969
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,25.5,False,0.3572,,model only,0.3572
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,26.5,False,0.317,,model only,0.317
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,18.5,False,0.6667,,model only,0.6667
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,19.5,False,0.6178,,model only,0.6178
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,20.5,False,0.5681,,model only,0.5681
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,21.5,False,0.5209,,model only,0.5209
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,22.5,False,0.4731,,model only,0.4731
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,23.5,False,0.4258,,model only,0.4258
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,24.5,False,0.3821,,model only,0.3821
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,25.5,False,0.3409,,model only,0.3409
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,26.5,False,0.305,,model only,0.305
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,6.5,False,0.7577,,model only,0.7577
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,7.5,False,0.6544,,model only,0.6544
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,8.5,False,0.5419,,model only,0.5419
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,9.5,False,0.4303,,model only,0.4303
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,10.5,False,0.3314,,model only,0.3314
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,11.5,False,0.2442,,model only,0.2442
-401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,12.5,False,0.1756,,model only,0.1756
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,11.5,False,0.6779,,model only,0.6779
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,12.5,False,0.6197,,model only,0.6197
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,13.5,False,0.5636,,model only,0.5636
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,14.5,False,0.5039,,model only,0.5039
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,15.5,False,0.4519,,model only,0.4519
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,16.5,False,0.3988,,model only,0.3988
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,17.5,False,0.35,,model only,0.35
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,18.5,False,0.3049,,model only,0.3049
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,19.5,False,0.2653,,model only,0.2653
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,22.5,False,0.686,0.7296,est,0.7229
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,23.5,False,0.642,0.689,est,0.6818
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,24.5,False,0.5965,0.6462,est,0.6385
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,25.5,False,0.5508,0.6023,est,0.5944
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,26.5,False,0.5075,0.56,est,0.552
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,27.5,True,0.4646,0.5173,book,0.5092
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,28.5,False,0.4224,0.4746,est,0.4666
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,29.5,False,0.3844,0.4354,est,0.4275
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,30.5,False,0.3462,0.3954,est,0.3878
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,31.5,False,0.3086,0.3554,est,0.3482
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pra,32.5,False,0.2746,0.3186,est,0.3118
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,19.5,False,0.635,0.6834,est,0.6759
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,20.5,False,0.5854,0.6365,est,0.6286
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,21.5,False,0.5349,0.5879,est,0.5798
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,22.5,False,0.4866,0.5403,est,0.5321
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,23.5,True,0.4412,0.4948,book,0.4865
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,24.5,False,0.3969,0.4495,est,0.4414
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,25.5,False,0.3572,0.408,est,0.4002
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,26.5,False,0.317,0.3653,est,0.3579
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pr,27.5,False,0.2821,0.3277,est,0.3207
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,18.5,False,0.6667,0.7071,est,0.7009
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,19.5,False,0.6178,0.6611,est,0.6545
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,20.5,False,0.5681,0.6135,est,0.6065
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,21.5,False,0.5209,0.5675,est,0.5603
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,22.5,True,0.4731,0.5201,book,0.5129
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,23.5,False,0.4258,0.4723,est,0.4652
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,24.5,False,0.3821,0.4274,est,0.4204
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,25.5,False,0.3409,0.3843,est,0.3776
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,pa,26.5,False,0.305,0.3463,est,0.34
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,6.5,False,0.7577,0.7863,est,0.7819
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,7.5,False,0.6544,0.6902,est,0.6847
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,8.5,False,0.5419,0.5819,est,0.5757
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,9.5,True,0.4303,0.4706,book,0.4644
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,10.5,False,0.3314,0.3683,est,0.3626
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,11.5,False,0.2442,0.2755,est,0.2707
+401910033,DAL @ UTA,UTA,905041955,Darryn Peterson,ra,12.5,False,0.1756,0.2004,est,0.1966
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,8.5,False,0.8361,0.7533,est,0.766
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,9.5,False,0.7873,0.6683,book,0.6866
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,10.5,False,0.7338,0.6226,est,0.6397
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,11.5,False,0.6779,0.55,book,0.5697
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,12.5,True,0.6197,0.4937,book,0.5131
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,13.5,False,0.5636,0.4359,est,0.4555
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,14.5,False,0.5039,0.383,book,0.4016
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,15.5,False,0.4519,0.3303,est,0.349
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pts,16.5,False,0.3988,0.2841,est,0.3018
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,1.5,False,0.8715,,model only,0.8715
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,2.5,False,0.7217,,model only,0.7217
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,3.5,False,0.5428,,model only,0.5428
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,4.5,False,0.3749,,model only,0.3749
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,5.5,False,0.2378,,model only,0.2378
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,6.5,False,0.1407,,model only,0.1407
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,7.5,False,0.0789,,model only,0.0789
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,2.5,False,0.7217,0.6918,book,0.6964
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,3.5,False,0.5428,0.5192,book,0.5228
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,4.5,False,0.3749,0.3608,book,0.363
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,5.5,False,0.2378,0.2348,book,0.2353
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,6.5,False,0.1407,0.1442,book,0.1437
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,reb,7.5,False,0.0789,0.0865,book,0.0853
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,0.5,False,0.8627,,model only,0.8627
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,1.5,False,0.6133,,model only,0.6133
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,2.5,False,0.3707,,model only,0.3707
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,3.5,False,0.1934,,model only,0.1934
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,4.5,False,0.0894,,model only,0.0894
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,5.5,False,0.0364,,model only,0.0364
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,0.5,False,0.8836,,model only,0.8836
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,1.5,False,0.6427,,model only,0.6427
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,2.5,False,0.3844,,model only,0.3844
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,3.5,False,0.194,,model only,0.194
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,4.5,False,0.08,,model only,0.08
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,1.5,False,0.6133,0.5972,book,0.5997
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,2.5,False,0.3707,0.354,book,0.3566
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,3.5,False,0.1934,0.1811,book,0.183
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,4.5,False,0.0894,0.0907,book,0.0905
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ast,5.5,False,0.0364,0.0477,book,0.046
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,0.5,False,0.8836,0.8178,book,0.8279
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,1.5,True,0.6427,0.5674,book,0.579
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,2.5,False,0.3844,0.3314,book,0.3396
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,fg3m,3.5,False,0.194,0.1654,book,0.1698
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,stl,0.5,False,0.5116,,model only,0.5116
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,stl,1.5,False,0.1775,,model only,0.1775
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,stl,2.5,False,0.0477,,model only,0.0477
@@ -5781,21 +5778,21 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pra,25.5,False,0.3046,,model only,0.3046
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pra,26.5,False,0.2697,,model only,0.2697
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,15.5,False,0.6604,,model only,0.6604
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,16.5,False,0.608,,model only,0.608
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,16.5,False,0.608,0.4895,book,0.5077
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,17.5,False,0.56,,model only,0.56
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,18.5,False,0.5084,,model only,0.5084
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,19.5,False,0.4596,,model only,0.4596
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,19.5,False,0.4596,0.3487,book,0.3658
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,20.5,False,0.4116,,model only,0.4116
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,21.5,False,0.3655,,model only,0.3655
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,22.5,False,0.3245,,model only,0.3245
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pr,23.5,False,0.2858,,model only,0.2858
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,13.5,False,0.6761,,model only,0.6761
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,14.5,False,0.6232,,model only,0.6232
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,14.5,False,0.6232,0.5019,book,0.5206
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,15.5,False,0.5687,,model only,0.5687
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,16.5,False,0.5153,,model only,0.5153
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,17.5,False,0.4639,,model only,0.4639
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,18.5,False,0.4165,,model only,0.4165
-401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,19.5,False,0.3697,,model only,0.3697
+401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,19.5,False,0.3697,0.2582,book,0.2754
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,20.5,False,0.3258,,model only,0.3258
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,pa,21.5,False,0.2838,,model only,0.2838
 401910033,DAL @ UTA,UTA,1641729,Brice Sensabaugh,ra,3.5,False,0.8112,,model only,0.8112
