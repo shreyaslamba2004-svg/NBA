@@ -1,16 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-OKC @ MIA,Andrew Wiggins 15+ pra + Bobby Portis 10+ pra,2,0.7118,0.421,2.38,2.49,2.34,-0.0153,1.001,2.10-2.50
-OKC @ MIA,Andrew Wiggins 12+ pa + Bobby Portis 10+ pra,2,0.6788,0.4,2.5,2.62,2.46,-0.0162,1.001,2.10-2.50
-OKC @ MIA,Andrew Wiggins 15+ pra + Davion Mitchell 10+ pts,2,0.674,0.4162,2.4,2.52,2.35,-0.022,1.003,2.10-2.50
-OKC @ MIA,Andrew Wiggins 15+ pra + Aday Mara 15+ pra,2,0.7351,0.4791,2.09,2.19,2.02,-0.0311,1.004,1.85-2.10
-OKC @ MIA,Andrew Wiggins 15+ pra + Jared McCain 10+ pts,2,0.7506,0.4854,2.06,2.16,1.99,-0.0333,1.001,1.85-2.10
-OKC @ MIA,Andrew Wiggins 13+ pr + Bobby Portis 5+ pa,2,0.7446,0.4722,2.12,2.22,2.05,-0.0337,1.0,1.85-2.10
-OKC @ MIA,MIA win + Bobby Portis 5+ pa,2,0.4939,0.5094,1.96,2.06,1.84,-0.0603,1.011,1.65-1.85
-OKC @ MIA,MIA win + Davion Mitchell 1+ 3pm,2,0.476,0.5259,1.9,2.0,1.76,-0.0723,1.012,1.65-1.85
-OKC @ MIA,Bobby Portis 6+ ra + Jared McCain 10+ pts,2,0.6628,0.5154,1.94,2.04,1.79,-0.076,1.003,1.65-1.85
-OKC @ MIA,Andrew Wiggins 1+ 3pm + Davion Mitchell 10+ pts,2,0.7381,0.593,1.69,1.77,1.54,-0.0855,1.003,1.50-1.65
-OKC @ MIA,Andrew Wiggins 10+ pra + Bobby Portis 5+ pa + Aday Mara 10+ pa,3,0.7645,0.5351,1.87,1.96,1.64,-0.1232,1.001,1.50-1.65
-OKC @ MIA,Andrew Wiggins 10+ pra + Davion Mitchell 10+ pts + Aday Mara 15+ pra,3,0.7508,0.5373,1.86,1.95,1.63,-0.1248,1.003,1.50-1.65
+OKC @ MIA,game over 231.5 + Jared McCain 15+ pts,2,0.4797,0.3918,2.55,2.68,2.4,-0.0592,1.045,2.10-2.50
+OKC @ MIA,OKC +3.5 + Jared McCain 15+ pts,2,0.4659,0.383,2.61,2.74,2.46,-0.0595,1.038,2.10-2.50
+OKC @ MIA,game over 231.5 + Aday Mara 10+ pa,2,0.5143,0.4234,2.36,2.48,2.2,-0.0692,1.035,2.10-2.50
+OKC @ MIA,Kenrich Williams 11+ pts + Bennett Stirtz 1+ 3pm,2,0.5464,0.4458,2.24,2.36,2.06,-0.0798,1.01,1.85-2.10
+OKC @ MIA,Isaiah Hartenstein ast under 5.5 + Jared McCain 10+ pts,2,0.6576,0.5054,1.98,2.08,1.82,-0.0801,0.998,1.65-1.85
+OKC @ MIA,Isaiah Hartenstein ast under 5.5 + Bennett Stirtz 1+ 3pm,2,0.6176,0.4794,2.09,2.19,1.92,-0.0805,1.0,1.85-2.10
+OKC @ MIA,Isaiah Hartenstein ast under 5.5 + Aday Mara 10+ pa,2,0.5925,0.4604,2.17,2.28,1.99,-0.0829,0.998,1.85-2.10
+OKC @ MIA,Isaiah Hartenstein ast under 5.5 + Aday Mara 15+ pra,2,0.6405,0.5019,1.99,2.09,1.82,-0.0852,0.997,1.65-1.85
+OKC @ MIA,MIA win + Jared McCain 10+ pts,2,0.4886,0.5343,1.87,1.97,1.7,-0.0911,0.989,1.65-1.85
 ORL @ WAS,game over 219.5 + Trae Young 15+ pr,2,0.6282,0.3905,2.56,2.69,2.43,-0.05,1.034,2.10-2.50
 ORL @ WAS,game over 219.5 + Kyshawn George 15+ pr,2,0.6395,0.4022,2.49,2.61,2.34,-0.0569,1.029,2.10-2.50
 ORL @ WAS,game over 219.5 + Wendell Carter Jr. 10+ pa,2,0.6299,0.3933,2.54,2.67,2.4,-0.0579,1.026,2.10-2.50
@@ -35,18 +32,18 @@ DEN @ CHI,Cameron Johnson 3pm under 2.5 + Jalen Smith 15+ pra,2,0.6842,0.5386,1.
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.7115,0.5636,1.77,1.86,1.62,-0.0846,1.0,1.50-1.65
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pr,2,0.7209,0.571,1.75,1.84,1.6,-0.0851,1.0,1.50-1.65
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6962,0.5656,1.77,1.86,1.61,-0.0869,1.003,1.50-1.65
-DAL @ UTA,Daniel Gafford 15+ pra + Josh Green 3pm under 1.5,2,0.6321,0.4313,2.32,2.43,2.19,-0.0553,1.0,2.10-2.50
-DAL @ UTA,DAL win + Daniel Gafford 10+ pr,2,0.5045,0.4394,2.28,2.39,2.15,-0.0572,1.007,2.10-2.50
-DAL @ UTA,Josh Green 3pm under 1.5 + Caleb Martin ast under 2.5,2,0.5621,0.3909,2.56,2.69,2.41,-0.0591,1.001,2.10-2.50
-DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5288,0.473,2.11,2.22,1.99,-0.0593,1.01,1.85-2.10
-DAL @ UTA,DAL win + Daniel Gafford 10+ pra,2,0.5203,0.4624,2.16,2.27,2.03,-0.062,1.006,1.85-2.10
-DAL @ UTA,Daniel Gafford 15+ pr + Brice Sensabaugh 10+ pr,2,0.6178,0.4543,2.2,2.31,2.05,-0.0698,0.998,1.85-2.10
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pr,2,0.7516,0.5616,1.78,1.87,1.65,-0.0745,1.0,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pra,2,0.7763,0.5918,1.69,1.77,1.56,-0.0779,1.0,1.50-1.65
-DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pa,2,0.7131,0.5407,1.85,1.94,1.71,-0.0779,0.999,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 5+ pa,2,0.786,0.6031,1.66,1.74,1.53,-0.0788,1.0,1.50-1.65
-DAL @ UTA,Daniel Gafford 15+ pra + Brice Sensabaugh 1+ 3pm,2,0.6752,0.5198,1.92,2.02,1.77,-0.0806,0.999,1.65-1.85
-DAL @ UTA,Josh Green 3pm under 1.5 + Cooper Flagg 1+ stl,2,0.6588,0.5179,1.93,2.03,1.77,-0.0823,1.001,1.65-1.85
+DAL @ UTA,Daniel Gafford 15+ pra + Josh Green 3pm under 1.5,2,0.6321,0.4275,2.34,2.46,2.21,-0.0534,1.0,2.10-2.50
+DAL @ UTA,DAL win + Daniel Gafford 10+ pr,2,0.5045,0.4383,2.28,2.4,2.15,-0.0567,1.007,2.10-2.50
+DAL @ UTA,Josh Green 3pm under 1.5 + Caleb Martin ast under 2.5,2,0.5621,0.3894,2.57,2.7,2.42,-0.0583,1.001,2.10-2.50
+DAL @ UTA,DAL win + Daniel Gafford 5+ pa,2,0.5288,0.4719,2.12,2.22,1.99,-0.0589,1.01,1.85-2.10
+DAL @ UTA,DAL win + Daniel Gafford 10+ pra,2,0.5203,0.462,2.16,2.27,2.03,-0.0619,1.006,1.85-2.10
+DAL @ UTA,Daniel Gafford 15+ pr + Brice Sensabaugh 10+ pr,2,0.6178,0.4471,2.24,2.35,2.09,-0.0664,0.998,1.85-2.10
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pr,2,0.7516,0.558,1.79,1.88,1.66,-0.0732,1.0,1.65-1.85
+DAL @ UTA,Daniel Gafford 10+ pa + Ace Bailey 10+ pr,2,0.6606,0.5023,1.99,2.09,1.84,-0.074,1.002,1.65-1.85
+DAL @ UTA,Daniel Gafford 15+ pra + Ace Bailey 15+ pra,2,0.6713,0.5146,1.94,2.04,1.8,-0.0745,1.004,1.65-1.85
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 10+ pra,2,0.7763,0.589,1.7,1.78,1.57,-0.077,1.0,1.50-1.65
+DAL @ UTA,Daniel Gafford 15+ pra + Ace Bailey 10+ pr,2,0.736,0.5678,1.76,1.85,1.63,-0.0772,1.002,1.50-1.65
+DAL @ UTA,Josh Green 3pm under 1.5 + Daniel Gafford 5+ pa,2,0.786,0.5993,1.67,1.75,1.54,-0.0776,1.0,1.50-1.65
 IND @ NYK,NYK win + Jalen Brunson 32+ pr,2,0.4334,0.3917,2.55,2.68,2.49,-0.0237,1.051,2.10-2.50
 IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4662,2.14,2.25,2.05,-0.0443,1.027,1.85-2.10
 IND @ NYK,NYK win + Josh Hart reb under 8.5,2,0.4767,0.3939,2.54,2.67,2.4,-0.0555,1.001,2.10-2.50
