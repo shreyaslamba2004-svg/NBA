@@ -1,12 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 BOS @ SAC,game under 217.5 + BOS win,2,0.3403,0.4261,2.35,2.46,2.26,-0.0355,1.01,2.10-2.50
-BOS @ SAC,Baylor Scheierman ra under 7.5 + BOS win,2,0.479,0.4032,2.48,2.6,2.39,-0.037,0.994,2.10-2.50
 BOS @ SAC,Precious Achiuwa 10+ pr + BOS win,2,0.5407,0.4419,2.26,2.38,2.17,-0.0389,0.986,2.10-2.50
 BOS @ SAC,Precious Achiuwa 10+ pra + BOS win,2,0.5839,0.4899,2.04,2.14,1.96,-0.0421,0.99,1.85-2.10
-BOS @ SAC,Precious Achiuwa 10+ pra + Darius Acuff Jr. 4+ ast,2,0.7092,0.4933,2.03,2.13,1.92,-0.0527,1.004,1.85-2.10
-BOS @ SAC,Precious Achiuwa 10+ pra + Neemias Queta 6+ reb,2,0.6734,0.4659,2.15,2.25,2.03,-0.0549,1.001,1.85-2.10
+BOS @ SAC,Baylor Scheierman ra under 8.5 + BOS win,2,0.5552,0.4791,2.09,2.19,2.0,-0.0437,0.994,1.85-2.10
+BOS @ SAC,Precious Achiuwa 6+ pts + Darius Acuff Jr. 4+ ast,2,0.6224,0.4214,2.37,2.49,2.27,-0.0447,1.006,2.10-2.50
+BOS @ SAC,Baylor Scheierman reb under 5.5 + BOS win,2,0.5258,0.4675,2.14,2.25,2.04,-0.0457,1.0,1.85-2.10
 BOS @ SAC,Precious Achiuwa 10+ pra + Domantas Sabonis 6+ reb,2,0.7306,0.5328,1.88,1.97,1.75,-0.065,1.0,1.65-1.85
-BOS @ SAC,Payton Pritchard ast under 6.5 + Domantas Sabonis 6+ reb,2,0.648,0.5001,2.0,2.1,1.84,-0.0805,0.998,1.65-1.85
-BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Neemias Queta 10+ pa,3,0.595,0.5529,1.81,1.9,1.61,-0.1098,1.01,1.50-1.65
-BOS @ SAC,BOS win + Precious Achiuwa 5+ pra + Neemias Queta 10+ pa,3,0.6024,0.5695,1.76,1.84,1.56,-0.1125,1.011,1.50-1.65
+BOS @ SAC,Baylor Scheierman ra under 8.5 + Domantas Sabonis 6+ reb,2,0.6914,0.5186,1.93,2.02,1.79,-0.0709,1.0,1.65-1.85
+BOS @ SAC,Baylor Scheierman reb under 5.5 + Domantas Sabonis 6+ reb,2,0.6497,0.502,1.99,2.09,1.83,-0.0802,0.999,1.65-1.85
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Neemias Queta 10+ pa,3,0.595,0.5553,1.8,1.89,1.6,-0.1106,1.01,1.50-1.65
+BOS @ SAC,BOS win + Precious Achiuwa 5+ pra + Neemias Queta 10+ pa,3,0.6024,0.572,1.75,1.84,1.55,-0.1132,1.011,1.50-1.65
 BOS @ SAC,BOS win + Precious Achiuwa 5+ pr + Neemias Queta 6+ reb,3,0.6195,0.5501,1.82,1.91,1.61,-0.1155,0.995,1.50-1.65
