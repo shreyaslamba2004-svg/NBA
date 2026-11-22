@@ -35,18 +35,18 @@ ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pts,2,0.6579,0.5137,1.95,2.0
 ORL @ WAS,Anthony Davis 2+ ast + Bilal Coulibaly 5+ pr,2,0.7159,0.5592,1.79,1.88,1.64,-0.0807,1.0,1.50-1.65
 ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6452,0.5824,1.72,1.8,1.56,-0.0915,0.994,1.50-1.65
 ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6279,0.5708,1.75,1.84,1.59,-0.0916,0.995,1.50-1.65
-DEN @ CHI,Jamal Murray 35+ pra + DEN win,2,0.408,0.3936,2.54,2.67,2.48,-0.0253,1.053,2.10-2.50
-DEN @ CHI,DEN win + Jamal Murray 30+ pa,2,0.42,0.4065,2.46,2.58,2.38,-0.0309,1.053,2.10-2.50
-DEN @ CHI,Nikola Jokic 39+ pr + DEN win,2,0.4039,0.3894,2.57,2.7,2.49,-0.0313,1.046,2.10-2.50
-DEN @ CHI,DEN -9.5 + Jamal Murray 1+ 3pm,2,0.4029,0.4524,2.21,2.32,2.08,-0.0591,1.012,1.85-2.10
+DEN @ CHI,Jamal Murray 30+ pa + DEN win,2,0.42,0.4098,2.44,2.56,2.37,-0.027,1.053,2.10-2.50
+DEN @ CHI,Jamal Murray 24+ pts + DEN win,2,0.4111,0.3875,2.58,2.71,2.5,-0.0315,1.046,2.10-2.50
+DEN @ CHI,Tre Jones pa under 18.5 + DEN win,2,0.4295,0.3947,2.53,2.66,2.43,-0.0395,1.034,2.10-2.50
+DEN @ CHI,DEN -9.5 + Jamal Murray 1+ 3pm,2,0.4029,0.4518,2.21,2.32,2.08,-0.0588,1.012,1.85-2.10
 DEN @ CHI,Aaron Gordon 2+ ast + DEN win,2,0.4991,0.4723,2.12,2.22,1.99,-0.0595,1.014,1.85-2.10
-DEN @ CHI,CHI +9.5 + Isaac Okoro 5+ pa,2,0.5549,0.4654,2.15,2.26,2.01,-0.0655,1.008,1.85-2.10
-DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5584,0.5726,1.75,1.83,1.61,-0.0791,1.014,1.50-1.65
-DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 25+ pra,2,0.6369,0.5294,1.89,1.98,1.72,-0.088,1.002,1.65-1.85
+DEN @ CHI,DEN -9.5 + Aaron Gordon 10+ pr,2,0.3985,0.4513,2.22,2.33,2.07,-0.0639,1.008,1.85-2.10
+DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5584,0.5731,1.74,1.83,1.61,-0.0792,1.014,1.50-1.65
+DEN @ CHI,Aaron Gordon 2+ ast + Nikola Jokic 8+ reb,2,0.6372,0.5228,1.91,2.01,1.75,-0.0877,1.0,1.65-1.85
 DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 15+ pts,2,0.6429,0.5302,1.89,1.98,1.72,-0.0884,1.0,1.65-1.85
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6818,0.5668,1.76,1.85,1.61,-0.0888,1.001,1.50-1.65
-DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 20+ pa,2,0.6493,0.5422,1.84,1.94,1.68,-0.0896,1.001,1.65-1.85
-DEN @ CHI,DEN win + Nikola Jokic 1+ 3pm,2,0.5553,0.5845,1.71,1.8,1.56,-0.0902,1.007,1.50-1.65
+DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 25+ pra,2,0.6369,0.5324,1.88,1.97,1.71,-0.0889,1.002,1.65-1.85
+DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.6906,0.5657,1.77,1.86,1.61,-0.0906,1.001,1.50-1.65
 DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3824,0.4095,2.44,2.56,2.44,-0.0019,1.026,2.10-2.50
 DAL @ UTA,UTA win + Ace Bailey 10+ pa,2,0.3911,0.4351,2.3,2.41,2.27,-0.0111,1.024,2.10-2.50
 DAL @ UTA,UTA win + Josh Green 5+ pr,2,0.3733,0.4151,2.41,2.53,2.38,-0.014,1.021,2.10-2.50
