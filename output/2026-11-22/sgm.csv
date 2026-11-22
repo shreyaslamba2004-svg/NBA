@@ -1,19 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 10+ pra,2,0.639,0.4412,2.27,2.38,2.15,-0.0504,1.003,2.10-2.50
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Onyeka Okongwu 10+ pa,2,0.6196,0.4162,2.4,2.52,2.28,-0.051,0.997,2.10-2.50
-DET @ ATL,Isaiah Joe 3pm under 1.5 + Paul Reed 4+ reb,2,0.6244,0.4264,2.35,2.46,2.23,-0.051,1.001,2.10-2.50
-DET @ ATL,Paul Reed 19+ pr + Onyeka Okongwu 15+ pra,2,0.6042,0.4453,2.25,2.36,2.09,-0.0702,1.0,1.85-2.10
-DET @ ATL,Paul Reed 21+ pra + Onyeka Okongwu 15+ pra,2,0.6098,0.4567,2.19,2.3,2.03,-0.0715,1.0,1.85-2.10
-DET @ ATL,Paul Reed 11+ pts + Onyeka Okongwu 10+ pa,2,0.5992,0.4505,2.22,2.33,2.06,-0.0734,1.002,1.85-2.10
-DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 10+ pa,2,0.6463,0.5116,1.95,2.05,1.79,-0.0837,1.002,1.65-1.85
-DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 15+ pr,2,0.6359,0.5032,1.99,2.09,1.82,-0.0847,1.001,1.65-1.85
-DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 15+ pra,2,0.6665,0.533,1.88,1.97,1.71,-0.0866,1.001,1.65-1.85
-DET @ ATL,Onyeka Okongwu 10+ pts + Jalen Johnson 15+ pts,2,0.6693,0.5823,1.72,1.8,1.56,-0.0941,1.01,1.50-1.65
-DET @ ATL,Onyeka Okongwu 6+ reb + Jalen Johnson 15+ pts,2,0.6349,0.5745,1.74,1.83,1.55,-0.1084,1.002,1.50-1.65
-DET @ ATL,Onyeka Okongwu 10+ pts + Aaron Wiggins 10+ pra + Jalen Johnson 15+ pts,3,0.6359,0.5243,1.91,2.0,1.64,-0.1395,1.016,1.50-1.65
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 10+ pra,2,0.639,0.4428,2.26,2.37,2.14,-0.0511,1.003,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Paul Reed 4+ reb,2,0.6244,0.427,2.34,2.46,2.22,-0.0513,1.001,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Onyeka Okongwu 10+ pa,2,0.6196,0.419,2.39,2.51,2.26,-0.0523,0.997,2.10-2.50
+DET @ ATL,Paul Reed 19+ pr + Onyeka Okongwu 15+ pra,2,0.6042,0.445,2.25,2.36,2.09,-0.0701,1.0,1.85-2.10
+DET @ ATL,Paul Reed 19+ pr + Dyson Daniels 10+ pr,2,0.6013,0.4563,2.19,2.3,2.03,-0.0721,1.003,1.85-2.10
+DET @ ATL,Paul Reed 11+ pts + Onyeka Okongwu 10+ pa,2,0.5992,0.4543,2.2,2.31,2.04,-0.0731,1.002,1.85-2.10
+DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 10+ pa,2,0.6463,0.5151,1.94,2.04,1.78,-0.0849,1.002,1.65-1.85
+DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 15+ pra,2,0.6665,0.5326,1.88,1.97,1.72,-0.0864,1.001,1.65-1.85
+DET @ ATL,Kevin Huerter reb under 4.5 + Aaron Wiggins 10+ pra,2,0.6615,0.5402,1.85,1.94,1.68,-0.0907,1.0,1.65-1.85
 DEN @ CHI,DEN win + game under 237.5,2,0.3119,0.3876,2.58,2.71,2.42,-0.0627,1.022,2.10-2.50
 DEN @ CHI,DEN win + game over 237.5,2,0.3944,0.373,2.68,2.82,2.42,-0.098,0.983,2.10-2.50
-IND @ NYK,NYK win + game over 218.5,2,0.4446,0.3876,2.58,2.71,2.39,-0.0733,1.011,2.10-2.50
-IND @ NYK,NYK win + game under 218.5,2,0.3263,0.378,2.65,2.78,2.39,-0.0962,0.986,2.10-2.50
+IND @ NYK,NYK win + game over 217.5,2,0.4618,0.3873,2.58,2.71,2.39,-0.0739,1.01,2.10-2.50
+IND @ NYK,NYK win + game under 217.5,2,0.3092,0.3778,2.65,2.78,2.39,-0.0966,0.985,2.10-2.50
 BOS @ GSW,BOS win + game under 212.5,2,0.292,0.3885,2.57,2.7,2.37,-0.0775,1.006,2.10-2.50
 BOS @ GSW,BOS win + game over 212.5,2,0.3719,0.3844,2.6,2.73,2.37,-0.0873,0.995,2.10-2.50
