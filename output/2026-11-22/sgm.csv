@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ATL,ATL +2.5 + Onyeka Okongwu 10+ pts,2,0.3979,0.4109,2.43,2.56,2.28,-0.0642,1.03,2.10-2.50
+DET @ ATL,ATL +1.5 + Onyeka Okongwu 10+ pts,2,0.3736,0.4042,2.47,2.6,2.34,-0.0546,1.03,2.10-2.50
+DET @ ATL,ATL +1.5 + Onyeka Okongwu 10+ pa,2,0.4071,0.4395,2.28,2.39,2.13,-0.0653,1.018,2.10-2.50
 DET @ ATL,DET win + Paul Reed 4+ reb,2,0.5519,0.4712,2.12,2.23,1.98,-0.0669,1.001,1.85-2.10
 DET @ ATL,DET win + Ausar Thompson 10+ pr,2,0.5644,0.4997,2.0,2.1,1.86,-0.0683,1.006,1.85-2.10
 DET @ ATL,Paul Reed 19+ pr + Onyeka Okongwu 10+ pts,2,0.5331,0.3997,2.5,2.63,2.33,-0.0694,1.004,2.10-2.50
-DET @ ATL,Paul Reed 21+ pra + Onyeka Okongwu 10+ pts,2,0.5385,0.4066,2.46,2.58,2.29,-0.0701,1.005,2.10-2.50
-DET @ ATL,DET win + Onyeka Okongwu 4+ reb,2,0.5622,0.4948,2.02,2.12,1.88,-0.0717,1.001,1.85-2.10
+DET @ ATL,ATL +1.5 + Dyson Daniels 15+ pra,2,0.4089,0.4518,2.21,2.32,2.06,-0.0715,1.015,1.85-2.10
 DET @ ATL,Paul Reed 7+ reb + Onyeka Okongwu 10+ pa,2,0.6142,0.4951,2.02,2.12,1.84,-0.0888,1.0,1.65-1.85
 DET @ ATL,Paul Reed 7+ reb + Aaron Wiggins 1+ 3pm,2,0.6057,0.4968,2.01,2.11,1.83,-0.0894,1.003,1.65-1.85
 DET @ ATL,Paul Reed 7+ reb + Ausar Thompson 10+ pr,2,0.6301,0.5219,1.92,2.01,1.74,-0.0897,1.004,1.65-1.85
@@ -35,14 +35,14 @@ ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.6279,0.5708,1.75,1.84,1.59,-0.0916
 DEN @ CHI,Jamal Murray 30+ pa + DEN win,2,0.42,0.4098,2.44,2.56,2.37,-0.027,1.053,2.10-2.50
 DEN @ CHI,Jamal Murray 24+ pts + DEN win,2,0.4111,0.3875,2.58,2.71,2.5,-0.0315,1.046,2.10-2.50
 DEN @ CHI,Tre Jones pa under 18.5 + DEN win,2,0.4295,0.3947,2.53,2.66,2.43,-0.0395,1.034,2.10-2.50
-DEN @ CHI,DEN -9.5 + Jamal Murray 1+ 3pm,2,0.4029,0.4518,2.21,2.32,2.08,-0.0588,1.012,1.85-2.10
+DEN @ CHI,DEN -9.5 + Jamal Murray 1+ 3pm,2,0.4029,0.4527,2.21,2.32,2.08,-0.0569,1.012,1.85-2.10
 DEN @ CHI,Aaron Gordon 2+ ast + DEN win,2,0.4991,0.4723,2.12,2.22,1.99,-0.0595,1.014,1.85-2.10
-DEN @ CHI,DEN -9.5 + Aaron Gordon 10+ pr,2,0.3985,0.4513,2.22,2.33,2.07,-0.0639,1.008,1.85-2.10
+DEN @ CHI,DEN -9.5 + Aaron Gordon 10+ pr,2,0.3985,0.4517,2.21,2.32,2.08,-0.0618,1.008,1.85-2.10
 DEN @ CHI,DEN win + Jamal Murray 2+ 3pm,2,0.5584,0.5731,1.74,1.83,1.61,-0.0792,1.014,1.50-1.65
-DEN @ CHI,Aaron Gordon 2+ ast + Nikola Jokic 8+ reb,2,0.6372,0.5228,1.91,2.01,1.75,-0.0877,1.0,1.65-1.85
-DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 15+ pts,2,0.6429,0.5302,1.89,1.98,1.72,-0.0884,1.0,1.65-1.85
+DEN @ CHI,Aaron Gordon 2+ ast + Nikola Jokic 8+ reb,2,0.6372,0.5203,1.92,2.02,1.75,-0.0868,1.0,1.65-1.85
 DEN @ CHI,Aaron Gordon 2+ ast + Isaac Okoro 5+ pa,2,0.6818,0.5668,1.76,1.85,1.61,-0.0888,1.001,1.50-1.65
 DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 25+ pra,2,0.6369,0.5324,1.88,1.97,1.71,-0.0889,1.002,1.65-1.85
+DEN @ CHI,Aaron Gordon 2+ ast + Jamal Murray 15+ pts,2,0.6429,0.5319,1.88,1.97,1.71,-0.089,1.0,1.65-1.85
 DEN @ CHI,Cameron Johnson 3pm under 2.5 + Isaac Okoro 5+ pa,2,0.6906,0.5657,1.77,1.86,1.61,-0.0906,1.001,1.50-1.65
 DAL @ UTA,UTA win + Brice Sensabaugh 10+ pa,2,0.3824,0.4054,2.47,2.59,2.47,0.0001,1.026,2.10-2.50
 DAL @ UTA,UTA win + Ace Bailey 10+ pa,2,0.3911,0.4359,2.29,2.41,2.27,-0.0114,1.024,2.10-2.50
@@ -56,13 +56,18 @@ DAL @ UTA,Caleb Martin ast under 2.5 + Keyonte George 1+ 3pm,2,0.7002,0.5351,1.8
 DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.752,0.5741,1.74,1.83,1.6,-0.0791,0.999,1.50-1.65
 DAL @ UTA,Josh Green 3pm under 1.5 + Brice Sensabaugh 1+ 3pm,2,0.7299,0.5698,1.76,1.84,1.61,-0.0818,1.0,1.50-1.65
 DAL @ UTA,Josh Green 3pm under 1.5 + Ace Bailey 1+ 3pm,2,0.7221,0.5713,1.75,1.84,1.6,-0.0836,1.001,1.50-1.65
-IND @ NYK,NYK win + Josh Hart reb under 7.5,2,0.4647,0.3807,2.63,2.76,2.49,-0.0523,0.998,2.10-2.50
-IND @ NYK,Josh Hart pr under 17.5 + NYK win,2,0.4868,0.3843,2.6,2.73,2.44,-0.0624,0.979,2.10-2.50
-IND @ NYK,NYK win + Josh Hart ra under 11.5,2,0.4559,0.3841,2.6,2.73,2.43,-0.0666,0.987,2.10-2.50
-IND @ NYK,game over 214.5 + Landry Shamet 5+ pr,2,0.6439,0.4627,2.16,2.27,1.99,-0.077,1.004,1.85-2.10
-IND @ NYK,NYK -8.5 + Landry Shamet 5+ pr,2,0.5084,0.4618,2.17,2.27,1.99,-0.0788,1.005,1.85-2.10
-IND @ NYK,Josh Hart pr under 17.5 + Landry Shamet 5+ pr,2,0.6381,0.4875,2.05,2.15,1.89,-0.0797,0.997,1.85-2.10
-IND @ NYK,Mikal Bridges 3pm under 1.5 + Landry Shamet 5+ pr,2,0.6289,0.5402,1.85,1.94,1.66,-0.1031,0.997,1.65-1.85
+IND @ NYK,NYK win + Jalen Brunson 28+ pts,2,0.448,0.4003,2.5,2.62,2.47,-0.0118,1.05,2.10-2.50
+IND @ NYK,NYK win + Jalen Brunson 38+ pra,2,0.4452,0.4011,2.49,2.62,2.46,-0.0137,1.052,2.10-2.50
+IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4702,2.13,2.23,2.05,-0.036,1.027,1.85-2.10
+IND @ NYK,game over 214.5 + Josh Hart 10+ pa,2,0.5146,0.3919,2.55,2.68,2.44,-0.0456,1.04,2.10-2.50
+IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.611,0.5574,1.79,1.88,1.7,-0.0525,1.015,1.65-1.85
+IND @ NYK,NYK win + Josh Hart 10+ pa,2,0.5784,0.571,1.75,1.84,1.65,-0.0594,1.023,1.50-1.65
+IND @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.6063,0.5993,1.67,1.75,1.56,-0.0623,1.02,1.50-1.65
+IND @ NYK,game over 214.5 + Josh Hart 10+ pr,2,0.5882,0.4485,2.23,2.34,2.08,-0.066,1.018,1.85-2.10
+IND @ NYK,game over 214.5 + Landry Shamet 1+ 3pm,2,0.5925,0.4477,2.23,2.35,2.07,-0.0712,1.01,1.85-2.10
+IND @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.5801,0.5705,1.75,1.84,1.63,-0.0718,1.009,1.50-1.65
+IND @ NYK,Landry Shamet 10+ pts + Jalen Brunson 25+ pa,2,0.624,0.5249,1.91,2.0,1.74,-0.0869,1.011,1.65-1.85
+IND @ NYK,Landry Shamet 10+ pts + Josh Hart 10+ pr,2,0.6511,0.5491,1.82,1.91,1.66,-0.0907,1.007,1.65-1.85
 BOS @ GSW,Baylor Scheierman ra under 6.5 + BOS win,2,0.5208,0.4095,2.44,2.56,2.37,-0.0314,0.998,2.10-2.50
 BOS @ GSW,Baylor Scheierman pr under 11.5 + BOS win,2,0.514,0.3917,2.55,2.68,2.47,-0.0328,0.99,2.10-2.50
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + BOS win,2,0.5574,0.4238,2.36,2.48,2.28,-0.0347,0.987,2.10-2.50
