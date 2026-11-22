@@ -1,0 +1,7 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401910029,DET @ ATL,prop_pts,over,Jalen Johnson,1630552.0,34.5,draftkings,1680.0,17.8,0.0863,11.58,0.0525,0.0525,0.0338,,0.5368,0.0577,0.0273,0.0004,False,True,False,,,
+401910029,DET @ ATL,prop_pa,over,Jalen Johnson,1630552.0,44.5,draftkings,2000.0,21.0,0.073,13.69,0.0445,0.0445,0.0285,,0.5338,0.0489,0.0269,0.0003,False,True,False,,,
+401910029,DET @ ATL,prop_pa,over,Jalen Johnson,1630552.0,39.5,draftkings,940.0,10.4,0.1448,6.91,0.0899,0.0899,0.0549,,0.5055,0.0983,0.0225,0.0006,False,True,False,Kingston Flemings,0.1919,0.1332
+401910029,DET @ ATL,prop_pa,over,Cade Cunningham,1630595.0,54.5,draftkings,2000.0,21.0,0.0663,15.08,0.0445,0.0445,0.0218,,0.3929,0.0479,0.0052,0.0001,False,True,False,,,
+401910029,DET @ ATL,prop_pa,over,Paul Reed,1630194.0,19.5,draftkings,418.0,5.18,0.267,3.75,0.1804,0.1804,0.0866,,0.3829,0.1938,0.0036,0.0002,False,True,False,,,
+401910029,DET @ ATL,prop_fg3m,under,Isaiah Joe,1630198.0,1.5,draftkings,104.0,2.04,0.6744,1.48,0.4581,0.4581,0.2163,,0.3758,0.4914,0.0025,0.0006,True,True,True,,,

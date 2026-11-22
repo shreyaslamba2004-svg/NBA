@@ -1,0 +1,19 @@
+matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Aaron Wiggins 10+ pra,2,0.639,0.4412,2.27,2.38,2.15,-0.0504,1.003,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Paul Reed 4+ reb,2,0.6244,0.4264,2.35,2.46,2.23,-0.051,1.001,2.10-2.50
+DET @ ATL,Isaiah Joe 3pm under 1.5 + Onyeka Okongwu 10+ pa,2,0.6196,0.4208,2.38,2.5,2.25,-0.0531,0.997,2.10-2.50
+DET @ ATL,Paul Reed 21+ pra + Onyeka Okongwu 10+ pa,2,0.5912,0.4431,2.26,2.37,2.1,-0.0709,1.001,1.85-2.10
+DET @ ATL,Paul Reed 19+ pr + Onyeka Okongwu 15+ pra,2,0.6042,0.4469,2.24,2.35,2.08,-0.0709,1.0,1.85-2.10
+DET @ ATL,Paul Reed 21+ pra + Onyeka Okongwu 15+ pra,2,0.6098,0.4583,2.18,2.29,2.02,-0.0722,1.0,1.85-2.10
+DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 10+ pa,2,0.6463,0.5172,1.93,2.03,1.77,-0.0857,1.002,1.65-1.85
+DET @ ATL,Kevin Huerter reb under 4.5 + Onyeka Okongwu 15+ pra,2,0.6665,0.5349,1.87,1.96,1.71,-0.0872,1.001,1.65-1.85
+DET @ ATL,Kevin Huerter reb under 4.5 + Aaron Wiggins 10+ pra,2,0.6615,0.5383,1.86,1.95,1.69,-0.0901,1.0,1.65-1.85
+DET @ ATL,Onyeka Okongwu 10+ pts + Jalen Johnson 15+ pts,2,0.6693,0.5926,1.69,1.77,1.52,-0.0972,1.01,1.50-1.65
+DET @ ATL,Onyeka Okongwu 6+ reb + Jalen Johnson 15+ pts,2,0.6349,0.5745,1.74,1.83,1.55,-0.1084,1.002,1.50-1.65
+DET @ ATL,Onyeka Okongwu 10+ pts + Aaron Wiggins 10+ pra + Jalen Johnson 15+ pts,3,0.6359,0.5336,1.87,1.97,1.61,-0.1425,1.016,1.50-1.65
+DEN @ CHI,DEN win + game under 237.5,2,0.3119,0.3876,2.58,2.71,2.42,-0.0627,1.022,2.10-2.50
+DEN @ CHI,DEN win + game over 237.5,2,0.3944,0.373,2.68,2.82,2.42,-0.098,0.983,2.10-2.50
+IND @ NYK,NYK win + game over 218.5,2,0.4446,0.3876,2.58,2.71,2.39,-0.0733,1.011,2.10-2.50
+IND @ NYK,NYK win + game under 218.5,2,0.3263,0.378,2.65,2.78,2.39,-0.0962,0.986,2.10-2.50
+BOS @ GSW,BOS win + game under 212.5,2,0.292,0.3819,2.62,2.75,2.41,-0.078,1.006,2.10-2.50
+BOS @ GSW,BOS win + game over 212.5,2,0.3719,0.3779,2.65,2.78,2.41,-0.0877,0.995,2.10-2.50
