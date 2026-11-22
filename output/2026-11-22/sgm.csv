@@ -58,15 +58,15 @@ IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4497,2.22,2.33,2.04,-0.0815
 IND @ NYK,Josh Hart stl under 1.5 + Jalen Brunson 1+ 3pm,2,0.5689,0.4956,2.02,2.12,1.81,-0.1037,0.999,1.65-1.85
 IND @ NYK,Josh Hart stl under 1.5 + Landry Shamet 1+ 3pm,2,0.5575,0.4882,2.05,2.15,1.84,-0.1039,1.0,1.65-1.85
 IND @ NYK,Landry Shamet 10+ pr + Jalen Brunson 2+ 3pm,2,0.6608,0.5926,1.69,1.77,1.51,-0.1072,1.002,1.50-1.65
-BOS @ GSW,game over 210.5 + Payton Pritchard 15+ pa,2,0.5489,0.4006,2.5,2.62,2.39,-0.0431,1.034,2.10-2.50
-BOS @ GSW,Sam Hauser 12+ pr + Payton Pritchard 15+ pa,2,0.6113,0.4289,2.33,2.45,2.23,-0.0441,1.015,2.10-2.50
-BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 15+ pra,2,0.5748,0.3888,2.57,2.7,2.45,-0.0457,1.007,2.10-2.50
-BOS @ GSW,Payton Pritchard 8+ ra + Neemias Queta 5+ pa,2,0.6345,0.4581,2.18,2.29,2.05,-0.0624,1.002,1.85-2.10
-BOS @ GSW,Sam Hauser 12+ pr + Payton Pritchard 1+ 3pm,2,0.6666,0.4906,2.04,2.14,1.91,-0.0628,1.005,1.85-2.10
-BOS @ GSW,Neemias Queta 20+ pra + Draymond Green 5+ pr,2,0.6321,0.4612,2.17,2.28,2.03,-0.0635,1.003,1.85-2.10
-BOS @ GSW,Neemias Queta 10+ pa + Payton Pritchard 15+ pa,2,0.6701,0.509,1.96,2.06,1.84,-0.0655,1.013,1.65-1.85
-BOS @ GSW,Sam Hauser 12+ pr + Neemias Queta 5+ pa,2,0.693,0.5046,1.98,2.08,1.85,-0.0666,0.999,1.65-1.85
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.6942,0.5143,1.94,2.04,1.8,-0.0733,0.998,1.65-1.85
-BOS @ GSW,Neemias Queta 10+ pa + Draymond Green 5+ pr,2,0.7226,0.566,1.77,1.86,1.63,-0.0803,1.003,1.50-1.65
-BOS @ GSW,Neemias Queta 10+ pa + Sam Hauser 1+ 3pm,2,0.727,0.5709,1.75,1.84,1.61,-0.0818,1.002,1.50-1.65
-BOS @ GSW,Neemias Queta 10+ pa + Payton Pritchard 1+ 3pm,2,0.732,0.5832,1.71,1.8,1.57,-0.0822,1.005,1.50-1.65
+BOS @ GSW,BOS win + Yaxel Lendeborg pa under 24.5,2,0.4775,0.4202,2.38,2.5,2.39,0.0051,1.053,2.10-2.50
+BOS @ GSW,BOS win + Yaxel Lendeborg pra under 31.5,2,0.4629,0.4121,2.43,2.55,2.43,0.0002,1.051,2.10-2.50
+BOS @ GSW,BOS win + Neemias Queta 10+ pts,2,0.4624,0.4036,2.48,2.6,2.47,-0.0012,1.044,2.10-2.50
+BOS @ GSW,BOS win + Payton Pritchard 15+ pa,2,0.5886,0.5751,1.74,1.83,1.66,-0.0437,1.024,1.65-1.85
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Draymond Green 5+ pr,2,0.7207,0.493,2.03,2.13,1.92,-0.0525,1.0,1.85-2.10
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7629,0.5246,1.91,2.0,1.8,-0.0547,0.999,1.65-1.85
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Sam Hauser 1+ 3pm,2,0.7193,0.4962,2.02,2.12,1.9,-0.0561,0.998,1.85-2.10
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Payton Pritchard 1+ 3pm,2,0.7275,0.5071,1.97,2.07,1.86,-0.0562,1.0,1.85-2.10
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7435,0.5191,1.93,2.02,1.82,-0.0563,1.0,1.65-1.85
+BOS @ GSW,BOS win + Neemias Queta 6+ reb,2,0.5873,0.5741,1.74,1.83,1.63,-0.0668,1.0,1.50-1.65
+BOS @ GSW,Payton Pritchard 15+ pa + Neemias Queta 6+ reb,2,0.6953,0.5913,1.69,1.78,1.53,-0.095,1.005,1.50-1.65
+BOS @ GSW,BOS win + Sam Hauser 1+ 3pm + Payton Pritchard 1+ 3pm,3,0.6071,0.5715,1.75,1.84,1.56,-0.1072,1.016,1.50-1.65
