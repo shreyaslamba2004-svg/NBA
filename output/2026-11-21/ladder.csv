@@ -4827,13 +4827,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,BOS,202331,Paul George,pts,26.5,False,0.2922,0.4188,est,0.3993
 401910028,BOS @ SAC,BOS,202331,Paul George,pts,27.5,False,0.2602,0.3803,est,0.3618
 401910028,BOS @ SAC,BOS,202331,Paul George,pts,28.5,False,0.2303,0.343,est,0.3256
+401910028,BOS @ SAC,BOS,202331,Paul George,reb,2.5,False,0.8753,0.8956,book,0.8925
 401910028,BOS @ SAC,BOS,202331,Paul George,reb,3.5,False,0.7478,0.8206,book,0.8094
 401910028,BOS @ SAC,BOS,202331,Paul George,reb,4.5,False,0.5999,0.705,book,0.6888
-401910028,BOS @ SAC,BOS,202331,Paul George,reb,5.5,False,0.4433,0.5709,book,0.5513
-401910028,BOS @ SAC,BOS,202331,Paul George,reb,6.5,True,0.3045,0.4287,book,0.4096
+401910028,BOS @ SAC,BOS,202331,Paul George,reb,5.5,True,0.4433,0.5688,book,0.5495
+401910028,BOS @ SAC,BOS,202331,Paul George,reb,6.5,False,0.3045,0.4287,book,0.4096
 401910028,BOS @ SAC,BOS,202331,Paul George,reb,7.5,False,0.1988,0.2976,book,0.2824
 401910028,BOS @ SAC,BOS,202331,Paul George,reb,8.5,False,0.1236,0.1963,book,0.1851
-401910028,BOS @ SAC,BOS,202331,Paul George,reb,9.5,False,0.0685,0.123,book,0.1146
 401910028,BOS @ SAC,BOS,202331,Paul George,ast,2.5,False,0.7821,0.8592,book,0.8473
 401910028,BOS @ SAC,BOS,202331,Paul George,ast,3.5,False,0.6131,0.7423,book,0.7224
 401910028,BOS @ SAC,BOS,202331,Paul George,ast,4.5,False,0.4378,0.5897,book,0.5663
@@ -5226,13 +5226,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pts,11.5,False,0.2093,0.3423,book,0.3218
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pts,12.5,False,0.1605,0.2451,est,0.2321
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pts,13.5,False,0.124,0.1939,est,0.1831
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,2.5,False,0.7796,0.8296,book,0.8219
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,3.5,False,0.6169,0.7182,book,0.7026
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,4.5,False,0.4485,0.5872,book,0.5658
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,5.5,True,0.3033,0.4515,book,0.4287
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,6.5,False,0.1968,0.335,book,0.3137
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,7.5,False,0.1171,0.239,book,0.2202
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,8.5,False,0.0665,0.164,book,0.149
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,2.5,False,0.7796,0.8272,book,0.8199
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,3.5,False,0.6169,0.7177,book,0.7022
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,4.5,False,0.4485,0.5897,book,0.568
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,5.5,True,0.3033,0.4627,book,0.4382
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,6.5,False,0.1968,0.3436,book,0.321
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,7.5,False,0.1171,0.2472,book,0.2272
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,reb,8.5,False,0.0665,0.1721,book,0.1558
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ast,0.5,False,0.8655,0.9182,est,0.91
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ast,1.5,False,0.6264,0.745,est,0.7268
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ast,2.5,True,0.3817,0.5183,book,0.4973
@@ -5248,26 +5248,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,stl,2.5,False,0.1204,,model only,0.1204
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,blk,0.5,False,0.1061,,model only,0.1061
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,blk,1.5,False,0.0071,,model only,0.0071
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,12.5,False,0.6314,0.7868,est,0.7629
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,13.5,False,0.5637,0.7357,est,0.7092
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,14.5,False,0.4967,0.6801,est,0.6519
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,15.5,False,0.4285,0.6177,est,0.5886
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,16.5,False,0.3663,0.5547,est,0.5257
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,17.5,True,0.3098,0.4916,book,0.4636
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,18.5,False,0.259,0.4295,est,0.4033
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,19.5,False,0.2135,0.3691,est,0.3451
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,20.5,False,0.1754,0.3143,est,0.2929
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,21.5,False,0.1406,0.2607,est,0.2422
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,22.5,False,0.1107,0.2115,est,0.196
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,10.5,False,0.6268,0.7638,est,0.7427
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,11.5,False,0.5501,0.7019,est,0.6785
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,12.5,False,0.4774,0.6376,est,0.613
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,13.5,False,0.407,0.5694,est,0.5444
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,14.5,True,0.3435,0.5019,book,0.4775
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,15.5,False,0.2825,0.4313,est,0.4084
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,16.5,False,0.2298,0.365,est,0.3441
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,17.5,False,0.186,0.3056,est,0.2872
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,18.5,False,0.1467,0.2488,est,0.2331
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,12.5,False,0.6314,0.7923,est,0.7675
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,13.5,False,0.5637,0.7421,est,0.7147
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,14.5,False,0.4967,0.6873,est,0.6579
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,15.5,False,0.4285,0.6255,est,0.5952
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,16.5,False,0.3663,0.5629,est,0.5326
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,17.5,True,0.3098,0.4999,book,0.4706
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,18.5,False,0.259,0.4377,est,0.4102
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,19.5,False,0.2135,0.3768,est,0.3517
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,20.5,False,0.1754,0.3215,est,0.299
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,21.5,False,0.1406,0.2671,est,0.2477
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pra,22.5,False,0.1107,0.2171,est,0.2007
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,10.5,False,0.6268,0.7701,est,0.7481
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,11.5,False,0.5501,0.7092,est,0.6847
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,12.5,False,0.4774,0.6457,est,0.6198
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,13.5,False,0.407,0.578,est,0.5516
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,14.5,True,0.3435,0.5107,book,0.4849
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,15.5,False,0.2825,0.4399,est,0.4157
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,16.5,False,0.2298,0.3731,est,0.3511
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,17.5,False,0.186,0.3131,est,0.2935
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pr,18.5,False,0.1467,0.2554,est,0.2387
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pa,7.5,False,0.7067,0.8224,est,0.8046
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pa,8.5,False,0.621,0.759,est,0.7377
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pa,9.5,False,0.5358,0.6892,est,0.6656
@@ -5277,13 +5277,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pa,13.5,False,0.2429,0.3814,est,0.3601
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pa,14.5,False,0.1937,0.3158,est,0.297
 401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,pa,15.5,False,0.1532,0.258,est,0.2419
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,4.5,False,0.7406,0.8545,est,0.837
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,5.5,False,0.6162,0.7676,est,0.7443
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,6.5,False,0.4829,0.6577,est,0.6308
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,7.5,True,0.3681,0.5451,book,0.5178
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,8.5,False,0.2665,0.4277,est,0.4029
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,9.5,False,0.1837,0.3164,est,0.296
-401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,10.5,False,0.1201,0.2192,est,0.204
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,5.5,False,0.6162,0.7835,est,0.7578
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,6.5,False,0.4829,0.678,est,0.648
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,7.5,False,0.3681,0.5677,est,0.537
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,8.5,True,0.2665,0.4503,book,0.422
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,9.5,False,0.1837,0.3365,est,0.313
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,10.5,False,0.1201,0.2353,est,0.2176
+401910028,BOS @ SAC,BOS,1631248,Baylor Scheierman,ra,11.5,False,0.0773,0.1589,est,0.1464
 401910028,BOS @ SAC,BOS,1641775,Jordan Walsh,pts,3.5,False,0.8206,,model only,0.8206
 401910028,BOS @ SAC,BOS,1641775,Jordan Walsh,pts,4.5,False,0.7216,,model only,0.7216
 401910028,BOS @ SAC,BOS,1641775,Jordan Walsh,pts,5.5,False,0.6174,,model only,0.6174

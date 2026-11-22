@@ -33,13 +33,15 @@ NOP @ SAS,Victor Wembanyama 11+ reb + De'Aaron Fox 15+ pra,2,0.6556,0.5079,1.97,
 NOP @ SAS,SAS win + Devin Vassell 15+ pra + De'Aaron Fox 10+ pts,3,0.6476,0.5593,1.79,1.88,1.6,-0.108,1.019,1.50-1.65
 NOP @ SAS,Devin Vassell 15+ pra + De'Aaron Fox 10+ pts + Stephon Castle 10+ pts,3,0.6338,0.5328,1.88,1.97,1.6,-0.1485,1.009,1.50-1.65
 NOP @ SAS,Devin Vassell 15+ pra + De'Aaron Fox 10+ pts + Victor Wembanyama 6+ reb,3,0.6841,0.5622,1.78,1.87,1.51,-0.1496,1.004,1.50-1.65
-BOS @ SAC,Baylor Scheierman ra under 7.5 + BOS win,2,0.4774,0.4034,2.48,2.6,2.4,-0.0305,0.992,2.10-2.50
+BOS @ SAC,Baylor Scheierman ra under 8.5 + BOS win,2,0.5569,0.486,2.06,2.16,1.99,-0.0337,0.997,1.85-2.10
+BOS @ SAC,BOS win + Baylor Scheierman reb under 5.5,2,0.5317,0.4733,2.11,2.22,2.04,-0.0357,1.002,1.85-2.10
 BOS @ SAC,Paul George ra under 11.5 + BOS win,2,0.5266,0.4593,2.18,2.29,2.09,-0.039,0.991,1.85-2.10
-BOS @ SAC,Baylor Scheierman pra under 17.5 + BOS win,2,0.5151,0.4428,2.26,2.37,2.15,-0.0492,0.979,2.10-2.50
+BOS @ SAC,Baylor Scheierman pra under 17.5 + BOS win,2,0.5151,0.4373,2.29,2.4,2.18,-0.0461,0.979,2.10-2.50
+BOS @ SAC,Baylor Scheierman pr under 14.5 + BOS win,2,0.4896,0.424,2.36,2.48,2.24,-0.0515,0.979,2.10-2.50
 BOS @ SAC,BOS win + Paul George pra under 36.5,2,0.5112,0.448,2.23,2.34,2.11,-0.0559,0.977,2.10-2.50
-BOS @ SAC,BOS win + Payton Pritchard ast under 6.5,2,0.5155,0.4658,2.15,2.25,2.02,-0.0571,0.983,1.85-2.10
-BOS @ SAC,BOS win + Payton Pritchard pa under 28.5,2,0.51,0.4473,2.24,2.35,2.1,-0.0607,0.972,1.85-2.10
-BOS @ SAC,Payton Pritchard ast under 6.5 + Domantas Sabonis 6+ reb,2,0.6502,0.5114,1.96,2.05,1.79,-0.0839,0.999,1.65-1.85
+BOS @ SAC,Baylor Scheierman ra under 8.5 + Domantas Sabonis 15+ pr,2,0.6747,0.5091,1.96,2.06,1.82,-0.0721,1.0,1.65-1.85
+BOS @ SAC,Baylor Scheierman ra under 8.5 + Domantas Sabonis 6+ reb,2,0.6925,0.5261,1.9,2.0,1.76,-0.0745,0.999,1.65-1.85
+BOS @ SAC,Baylor Scheierman ra under 8.5 + Neemias Queta 15+ pra,2,0.6655,0.5074,1.97,2.07,1.82,-0.0753,0.998,1.65-1.85
 BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Neemias Queta 6+ reb,3,0.5932,0.58,1.72,1.81,1.51,-0.1267,0.992,1.50-1.65
 BOS @ SAC,BOS win + Darius Acuff Jr. 4+ ast + Keegan Murray 1+ 3pm,3,0.555,0.5471,1.83,1.92,1.58,-0.1347,0.984,1.50-1.65
 BOS @ SAC,BOS win + Neemias Queta 6+ reb + Keegan Murray 1+ 3pm,3,0.5282,0.5441,1.84,1.93,1.58,-0.1381,0.989,1.50-1.65
