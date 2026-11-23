@@ -1,6 +1,6 @@
 # NBA model · Mon 23 Nov 2026 (US date)
 
-Updated **Tue 24 Nov, 12:19 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-23/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Tue 24 Nov, 12:20 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-23/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -73,8 +73,8 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | MEM @ CHA | Tue 24 Nov 11:00 | 111.0–110.2 | MEM 52% | 1.91 / 2.10 | CHA +1.5 | 221.5 | CHA +3.5 covers 57%; o214.5 64% |
-| POR @ PHI | Tue 24 Nov 11:00 | 114.7–116.2 | POR 46% | 2.17 / 1.85 | PHI -1.5 | 230.5 | PHI -3.5 covers 45%; o229.5 53% |
-| OKC @ IND | Tue 24 Nov 11:30 | 115.1–113.9 | OKC 54% | 1.87 / 2.15 | IND +1.5 | 228.5 | IND +5.5 covers 62%; o222.5 63% |
+| POR @ PHI | Tue 24 Nov 11:00 | 114.7–116.2 | POR 46% | 2.17 / 1.85 | PHI -1.5 | 230.5 | PHI -3.5 covers 45%; o230.5 51% |
+| OKC @ IND | Tue 24 Nov 11:30 | 115.1–113.9 | OKC 54% | 1.87 / 2.15 | IND +1.5 | 228.5 | IND +4.5 covers 59%; o222.5 63% |
 | MIL @ TOR | Tue 24 Nov 11:30 | 107.2–116.3 | MIL 26% | 3.92 / 1.34 | TOR -9.5 | 223.5 | TOR -10.5 covers 46%; o223.5 50% |
 | BKN @ MIN | Tue 24 Nov 11:30 | 105.6–115.5 | BKN 24% | 4.13 / 1.32 | MIN -10.5 | 220.5 | MIN -11.5 covers 46%; o224.5 42% |
 | CLE @ CHI | Tue 24 Nov 12:00 | 125.5–117.9 | CLE 70% | 1.42 / 3.36 | CHI +7.5 | 243.5 | CHI +8.5 covers 52%; o240.5 55% |
