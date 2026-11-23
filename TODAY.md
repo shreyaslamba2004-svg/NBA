@@ -1,6 +1,6 @@
 # NBA model · Mon 23 Nov 2026 (US date)
 
-Updated **Tue 24 Nov, 09:48 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-23/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Tue 24 Nov, 09:53 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-23/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -14,7 +14,9 @@ Updated **Tue 24 Nov, 09:48 AM** Sydney time. Decimal odds. Stakes are quarter-K
 
 DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Australian books are priced about 40 minutes before each tip. **A DraftKings bet is an early flag:** Aussie lines usually sit close, so check Sportsbet's line and price. **Min odds** is the break-even price on the Blend: any price at or above it is +EV, and the [bet tracker](https://claude.ai/artifact/RBrHraqai6JDQ9iUtz2SKt) works out the stake at the price you actually find.
 
-_No bets clear the edge threshold right now._
+| Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| PHI to win | POR @ PHI | draftkings | 1.87 | 1.66 | 2.09 | 47.9% | 60.1% | 60.1% | +12.4% | -10.5% | 2.0% |
 
 ## Long shots (EV ≥ 5%, odds above 4)
 
@@ -33,8 +35,8 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Andrew Nembhard PTS over 29.5 (30+) | OKC @ IND | draftkings | 22.00 | 19.65 | 11.23 | 8.9% | 4.2% | 5.1% | +12.0% | +96.0% | 0.1% |
 | Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ IND | draftkings | 14.60 | 13.19 | 7.74 | 12.9% | 6.4% | 7.6% | +10.7% | +88.5% | 0.2% |
 | Jaylen Brown PA over 44.5 (45+) | POR @ PHI | draftkings | 26.00 | 23.64 | 14.03 | 7.1% | 3.6% | 4.2% | +10.1% | +85.4% | 0.1% |
-| Jaylen Brown PRA over 44.5 (45+) | POR @ PHI | draftkings | 10.40 | 9.45 | 5.62 | 17.8% | 9.0% | 10.6% | +10.0% | +85.0% | 0.3% |
 | Jaylen Brown PRA over 49.5 (50+) | POR @ PHI | draftkings | 19.20 | 17.45 | 10.38 | 9.6% | 4.9% | 5.7% | +10.0% | +85.0% | 0.1% |
+| Jaylen Brown PRA over 44.5 (45+) | POR @ PHI | draftkings | 10.40 | 9.45 | 5.62 | 17.8% | 9.0% | 10.6% | +10.0% | +85.0% | 0.3% |
 | Ryan Kalkbrenner REB over 7.5 (8+) | MEM @ CHA | draftkings | 7.60 | 6.94 | 4.17 | 24.0% | 12.3% | 14.4% | +9.5% | +82.3% | 0.4% |
 | Derik Queen REB over 11.5 (12+) | PHX @ NOP | draftkings | 15.40 | 14.16 | 8.68 | 11.5% | 6.1% | 7.1% | +8.7% | +77.5% | 0.1% |
 | Kevin Durant AST over 7.5 (8+) | LAC @ HOU | draftkings | 13.00 | 12.05 | 7.51 | 13.3% | 7.2% | 8.3% | +7.9% | +73.0% | 0.2% |
@@ -72,7 +74,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | MEM @ CHA | Tue 24 Nov 11:00 | 110.8–110.3 | MEM 51% | 1.95 / 2.05 | CHA +0.5 | 220.5 | CHA +2.5 covers 55%; o212.5 68% |
-| POR @ PHI | Tue 24 Nov 11:00 | 115.4–114.6 | POR 52% | 1.92 / 2.09 | PHI +1.5 | 229.5 | PHI -2.5 covers 42%; o231.5 47% |
+| POR @ PHI | Tue 24 Nov 11:00 | 115.4–114.6 | POR 52% | 1.92 / 2.09 | PHI +1.5 | 229.5 | PHI -1.5 covers 45%; o230.5 49% |
 | OKC @ IND | Tue 24 Nov 11:30 | 115.7–109.6 | OKC 67% | 1.50 / 3.01 | IND +6.5 | 225.5 | IND +5.5 covers 48%; o224.5 51% |
 | MIL @ TOR | Tue 24 Nov 11:30 | 107.4–115.6 | MIL 28% | 3.62 / 1.38 | TOR -8.5 | 222.5 | TOR -10.5 covers 43%; o222.5 51% |
 | BKN @ MIN | Tue 24 Nov 11:30 | 104.8–115.4 | BKN 23% | 4.42 / 1.29 | MIN -10.5 | 219.5 | MIN -10.5 covers 51%; o222.5 44% |
@@ -506,7 +508,7 @@ Out: Bradley Beal (LAC)
 | Derrick Jones Jr. | 98% | 26.8<br><sub>29,26,28,27,26</sub> | 9.5<br><sub>14,13,5,8,4</sub> | 8.5 · –<br><sub>o 47% · u 53%</sub> | 3.7<br><sub>5,4,1,2,7</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.2<br><sub>0,1,1,1,1</sub> |  | 1.1<br><sub>4,3,0,0,1</sub> | 0.5<br><sub>o 63% · u 37%</sub> | 1.0 | 0.8 | 0.9 | 14.3 |
 | Brook Lopez | 99% | 25.1<br><sub>31,29,23,27,25</sub> | 13.1<br><sub>26,7,23,23,21</sub> | 11.5 · –<br><sub>o 53% · u 47%</sub> | 4.6<br><sub>7,5,6,3,6</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 1.9<br><sub>4,8,2,4,0</sub> |  | 1.5<br><sub>3,1,4,5,1</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 0.6 | 1.1 | 1.2 | 19.6 |
 | Max Strus | 98% | 24.6<br><sub>23,25,21,32,29</sub> | 9.0<br><sub>3,14,3,18,5</sub> | 8.5 · –<br><sub>o 52% · u 48%</sub> | 3.8<br><sub>2,3,2,5,6</sub> | 3.5<br><sub>o 56% · u 44%</sub> | 2.5<br><sub>3,4,1,4,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.6<br><sub>0,4,1,5,1</sub> | 2.5<br><sub>o 35% · u 65%</sub> | 0.7 | 0.2 | 1.1 | 15.4 |
-| Brandon Ingram | 8% | 23.5 | 13.7 | 12.5 · –<br><sub>o 49% · u 51%</sub> | 3.7 | 3.5<br><sub>o 44% · u 56%</sub> | 2.4 | 2.5<br><sub>o 44% · u 56%</sub> | 1.0 | 0.5<br><sub>o 56% · u 44%</sub> | 0.7 | 0.5 | 1.7 | 19.7 |
+| Brandon Ingram | 8% | 23.5 | 13.7 | 12.5 · –<br><sub>o 49% · u 51%</sub> | 3.7 | 3.5<br><sub>o 43% · u 57%</sub> | 2.4 | 2.5<br><sub>o 44% · u 56%</sub> | 1.0 | 0.5<br><sub>o 56% · u 44%</sub> | 0.7 | 0.5 | 1.7 | 19.7 |
 | Kris Dunn | 99% | 22.3<br><sub>20,18,26,20,19</sub> | 6.1<br><sub>2,7,2,6,3</sub> |  | 2.9<br><sub>3,3,5,2,4</sub> |  | 3.1<br><sub>6,1,5,2,5</sub> |  | 0.6<br><sub>0,0,0,1,1</sub> |  | 1.5 | 0.3 | 1.1 | 12.0 |
 | Keaton Wagler | 98% | 19.7<br><sub>18,28,18,17,19</sub> | 9.8<br><sub>14,12,15,7,7</sub> | 8.5 · –<br><sub>o 50% · u 50%</sub> | 2.9<br><sub>2,4,2,5,7</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 2.5<br><sub>1,5,0,2,3</sub> |  | 1.1<br><sub>2,2,1,1,1</sub> | 0.5<br><sub>o 64% · u 36%</sub> | 0.7 | 0.2 | 1.7 | 15.2 |
 | Kobe Sanders | 98% | 18.7<br><sub>15,20,18,14,19</sub> | 7.0<br><sub>5,2,5,0,9</sub> |  | 2.0<br><sub>0,6,1,1,3</sub> |  | 1.7<br><sub>1,4,3,1,1</sub> |  | 0.9<br><sub>1,0,0,0,3</sub> |  | 0.8 | 0.1 | 1.1 | 10.7 |
