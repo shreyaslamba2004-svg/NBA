@@ -1,6 +1,6 @@
 # NBA model · Mon 23 Nov 2026 (US date)
 
-Updated **Tue 24 Nov, 08:19 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-23/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Tue 24 Nov, 08:24 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-23/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -26,7 +26,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Scottie Barnes AST over 11.5 (12+) | MIL @ TOR | draftkings | 26.00 | 23.42 | 13.68 | 7.3% | 3.6% | 4.3% | +10.9% | +90.1% | 0.1% |
 | Shai Gilgeous-Alexander AST over 9.5 (10+) | OKC @ IND | draftkings | 14.40 | 13.07 | 7.74 | 12.9% | 6.5% | 7.6% | +10.2% | +85.9% | 0.2% |
 | Ryan Kalkbrenner REB over 9.5 (10+) | MEM @ CHA | draftkings | 17.80 | 16.26 | 9.76 | 10.2% | 5.2% | 6.2% | +9.5% | +82.3% | 0.1% |
-| Kevin Durant AST over 7.5 (8+) | LAC @ HOU | draftkings | 13.40 | 12.32 | 7.51 | 13.3% | 7.0% | 8.1% | +8.8% | +78.4% | 0.2% |
+| Kevin Durant AST over 7.5 (8+) | LAC @ HOU | draftkings | 13.20 | 12.18 | 7.51 | 13.3% | 7.1% | 8.2% | +8.3% | +75.7% | 0.2% |
 | Scottie Barnes PTS over 39.5 (40+) | MIL @ TOR | draftkings | 17.60 | 16.34 | 10.19 | 9.8% | 5.3% | 6.1% | +7.8% | +72.7% | 0.1% |
 | Derik Queen REB over 11.5 (12+) | PHX @ NOP | draftkings | 14.60 | 13.64 | 8.68 | 11.5% | 6.4% | 7.3% | +7.0% | +68.3% | 0.1% |
 | LAC to win | LAC @ HOU | betfair_ex_au | 6.13 | 5.74 | 3.80 | 26.3% | 17.4% | 17.4% | +6.8% | +61.3% | 0.3% |
@@ -78,7 +78,7 @@ Game lines below assume every questionable player sits; each game's section show
 | CLE @ CHI | Tue 24 Nov 12:00 | 124.8–117.5 | CLE 69% | 1.44 / 3.27 | CHI +7.5 | 242.5 | CHI +8.5 covers 53%; o241.5 51% |
 | PHX @ NOP | Tue 24 Nov 12:00 | 121.4–115.7 | PHX 66% | 1.52 / 2.91 | NOP +5.5 | 236.5 | NOP +3.5 covers 43%; o232.5 59% |
 | LAC @ HOU | Tue 24 Nov 12:30 | 109.0–118.0 | LAC 26% | 3.80 / 1.36 | HOU -8.5 | 226.5 | HOU -12.5 covers 40%; o223.5 57% |
-| UTA @ LAL | Tue 24 Nov 14:00 | 108.5–123.5 | UTA 14% | 7.17 / 1.16 | LAL -15.5 | 232.5 | LAL -13.5 covers 54%; o224.5 66% |
+| UTA @ LAL | Tue 24 Nov 14:00 | 108.5–123.5 | UTA 14% | 7.17 / 1.16 | LAL -15.5 | 232.5 | LAL -13.5 covers 54%; o225.5 64% |
 | SAS @ SAC | Tue 24 Nov 14:00 | 116.9–108.2 | SAS 73% | 1.37 / 3.70 | SAC +8.5 | 225.5 | SAC +12.5 covers 61%; o224.5 51% |
 
 ### MEM @ CHA
@@ -548,8 +548,8 @@ Out: Bradley Beal (LAC)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Darius Garland | 99% | 32.7<br><sub>37,35,30,35,32</sub> | 21.0<br><sub>24,27,20,23,16</sub> | 18.5 · –<br><sub>o 49% · u 51%</sub> | 2.4<br><sub>4,6,3,0,1</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 6.3<br><sub>7,7,7,5,2</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 2.6<br><sub>3,3,2,3,2</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 1.1 | 0.2 | 3.4 | 29.8 |
-| Rui Hachimura | 98% | 28.6<br><sub>32,22,27,32,29</sub> | 13.6<br><sub>7,4,20,17,19</sub> | 12.5 · –<br><sub>o 50% · u 50%</sub> | 4.5<br><sub>11,2,5,7,8</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 1.3<br><sub>3,0,1,2,1</sub> |  | 1.7<br><sub>1,0,4,2,4</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 0.8 | 0.3 | 1.2 | 19.4 |
+| Darius Garland | 99% | 32.7<br><sub>37,35,30,35,32</sub> | 21.0<br><sub>24,27,20,23,16</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 2.4<br><sub>4,6,3,0,1</sub> | 2.5<br><sub>o 43% · u 57%</sub> | 6.3<br><sub>7,7,7,5,2</sub> | 6.5<br><sub>o 45% · u 55%</sub> | 2.6<br><sub>3,3,2,3,2</sub> | 2.5<br><sub>o 47% · u 53%</sub> | 1.1 | 0.2 | 3.4 | 29.8 |
+| Rui Hachimura | 98% | 28.6<br><sub>32,22,27,32,29</sub> | 13.6<br><sub>7,4,20,17,19</sub> | 12.5 · –<br><sub>o 48% · u 52%</sub> | 4.5<br><sub>11,2,5,7,8</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 1.3<br><sub>3,0,1,2,1</sub> |  | 1.7<br><sub>1,0,4,2,4</sub> | 1.5<br><sub>o 55% · u 45%</sub> | 0.8 | 0.3 | 1.2 | 19.4 |
 | Derrick Jones Jr. | 98% | 26.8<br><sub>29,26,28,27,26</sub> | 9.5<br><sub>14,13,5,8,4</sub> | 8.5 · –<br><sub>o 48% · u 52%</sub> | 3.7<br><sub>5,4,1,2,7</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 1.2<br><sub>0,1,1,1,1</sub> |  | 1.1<br><sub>4,3,0,0,1</sub> | 0.5<br><sub>o 63% · u 37%</sub> | 1.0 | 0.8 | 0.9 | 14.3 |
 | Brook Lopez | 99% | 25.1<br><sub>31,29,23,27,25</sub> | 13.1<br><sub>26,7,23,23,21</sub> | 11.5 · –<br><sub>o 52% · u 48%</sub> | 4.6<br><sub>7,5,6,3,6</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 1.9<br><sub>4,8,2,4,0</sub> |  | 1.5<br><sub>3,1,4,5,1</sub> | 1.5<br><sub>o 44% · u 56%</sub> | 0.6 | 1.1 | 1.2 | 19.6 |
 | Max Strus | 98% | 24.6<br><sub>23,25,21,32,29</sub> | 9.0<br><sub>3,14,3,18,5</sub> | 9.5 · –<br><sub>o 46% · u 54%</sub> | 3.8<br><sub>2,3,2,5,6</sub> | 4.5<br><sub>o 43% · u 57%</sub> | 2.5<br><sub>3,4,1,4,3</sub> | 2.5<br><sub>o 52% · u 48%</sub> | 1.6<br><sub>0,4,1,5,1</sub> | 2.5<br><sub>o 35% · u 65%</sub> | 0.7 | 0.2 | 1.1 | 15.4 |
@@ -570,7 +570,7 @@ Out: Bradley Beal (LAC)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Kevin Durant | 99% | 36.0<br><sub>33,30,29,32,35</sub> | 22.7<br><sub>22,25,22,21,16</sub> | 21.5 · –<br><sub>o 49% · u 51%</sub> | 5.6<br><sub>3,4,2,2,4</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 4.8<br><sub>6,5,3,3,4</sub> | 3.5<br><sub>o 56% · u 44%</sub> | 1.9<br><sub>2,2,2,4,0</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.8 | 0.9 | 3.1 | 33.0 |
+| Kevin Durant | 99% | 36.0<br><sub>33,30,29,32,35</sub> | 22.7<br><sub>22,25,22,21,16</sub> | 21.5 · –<br><sub>o 49% · u 51%</sub> | 5.6<br><sub>3,4,2,2,4</sub> | 5.5<br><sub>o 45% · u 55%</sub> | 4.8<br><sub>6,5,3,3,4</sub> | 3.5<br><sub>o 57% · u 43%</sub> | 1.9<br><sub>2,2,2,4,0</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.8 | 0.9 | 3.1 | 33.0 |
 | Amen Thompson | 88% | 34.9<br><sub>41,29,-,31,26</sub> | 17.1<br><sub>12,26,-,15,22</sub> | 15.5 · –<br><sub>o 50% · u 50%</sub> | 7.3<br><sub>10,7,-,9,6</sub> | 6.5<br><sub>o 50% · u 50%</sub> | 4.2<br><sub>3,7,-,3,0</sub> | 2.5<br><sub>o 61% · u 39%</sub> | 0.3<br><sub>0,3,-,0,0</sub> |  | 1.5 | 0.8 | 2.2 | 28.6 |
 | Alperen Sengun | 96% | 34.6<br><sub>37,28,30,14,36</sub> | 21.5<br><sub>43,19,23,7,28</sub> | 21.5 · –<br><sub>o 48% · u 52%</sub> | 9.8<br><sub>12,8,7,7,11</sub> | 9.5<br><sub>o 47% · u 53%</sub> | 6.8<br><sub>5,8,2,1,10</sub> | 6.5<br><sub>o 54% · u 46%</sub> | 0.8<br><sub>1,1,1,1,1</sub> | 0.5<br><sub>o 49% · u 51%</sub> | 1.2 | 1.0 | 3.0 | 38.1 |
 | Jabari Smith Jr. | 99% | 34.5<br><sub>24,28,32,26,32</sub> | 15.6<br><sub>6,9,12,17,21</sub> | 13.5 · –<br><sub>o 51% · u 49%</sub> | 6.8<br><sub>3,6,10,4,4</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.1<br><sub>0,5,1,2,3</sub> |  | 2.2<br><sub>1,1,1,3,3</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 0.7 | 0.8 | 1.3 | 24.5 |
