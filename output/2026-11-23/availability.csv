@@ -109,7 +109,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910039,TOR,1629628,RJ Barrett,Out,Injury/Illness-RightHamstringStrain,0.0,"Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports.",,
 401910039,TOR,1642419,Jamison Battle,,,1.0,,,
 401910039,TOR,904432586,Nate Bittle,Out,GLeague-Two-Way,0.0,"Bittle (foot) has been ruled out for Monday's game against the Bucks, Blake Murphy of Sportsnet.ca reports.",,
-401910039,TOR,904432737,Jaden Bradley,Day-To-Day,,0.7,,,
+401910039,TOR,904432737,Jaden Bradley,Questionable,Injury/Illness-RightAnkleSprain,0.55,"Bradley is questionable for Monday's game against the Bucks due to an ankle sprain, Blake Murphy of Sportsnet.ca reports.",,
 401910039,TOR,905149115,Allen Graves,,,1.0,,,
 401910039,TOR,1631218,Trayce Jackson-Davis,,,1.0,,,
 401910039,TOR,202695,Kawhi Leonard,Out,,0.0,"Leonard (knee) could return in the next few weeks, per Shams Charania of ESPN.",,
