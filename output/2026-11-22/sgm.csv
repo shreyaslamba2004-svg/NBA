@@ -32,16 +32,17 @@ DAL @ UTA,Brice Sensabaugh 13+ pts + Daniel Gafford 10+ pra,2,0.5478,0.4526,2.21
 DAL @ UTA,Daniel Gafford 10+ pra + Brice Sensabaugh 10+ pa + Ace Bailey 15+ pra,3,0.6908,0.5578,1.79,1.88,1.53,-0.1441,1.007,1.50-1.65
 DAL @ UTA,Daniel Gafford 5+ pa + Brice Sensabaugh 10+ pa + Ace Bailey 15+ pra,3,0.6951,0.5669,1.76,1.85,1.51,-0.1452,1.007,1.50-1.65
 DAL @ UTA,Daniel Gafford 4+ reb + Brice Sensabaugh 10+ pa + Ace Bailey 15+ pra,3,0.6502,0.5252,1.9,2.0,1.63,-0.1463,1.004,1.50-1.65
-IND @ NYK,NYK win + Jalen Brunson 32+ pr,2,0.4334,0.3922,2.55,2.68,2.49,-0.0222,1.051,2.10-2.50
-IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.528,0.4675,2.14,2.25,2.04,-0.0449,1.027,1.85-2.10
-IND @ NYK,NYK -7.5 + Landry Shamet 10+ pr,2,0.4452,0.3952,2.53,2.66,2.39,-0.0542,1.018,2.10-2.50
-IND @ NYK,NYK -7.5 + Jalen Brunson 2+ 3pm,2,0.4258,0.3902,2.56,2.69,2.41,-0.0585,1.02,2.10-2.50
-IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.611,0.5639,1.77,1.86,1.66,-0.0644,1.015,1.65-1.85
-IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4888,0.4481,2.23,2.34,2.07,-0.0722,1.005,1.85-2.10
-IND @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.5801,0.5529,1.81,1.9,1.67,-0.0754,1.009,1.65-1.85
-IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4358,0.4431,2.26,2.37,2.07,-0.0825,0.994,1.85-2.10
-IND @ NYK,Josh Hart reb under 8.5 + Jalen Brunson 1+ 3pm,2,0.6215,0.5105,1.96,2.06,1.78,-0.0912,1.001,1.65-1.85
-IND @ NYK,Landry Shamet 10+ pr + Jalen Brunson 2+ 3pm,2,0.6608,0.5946,1.68,1.77,1.5,-0.1076,1.002,1.50-1.65
+IND @ NYK,NYK win + Jalen Brunson 32+ pr,2,0.4504,0.3938,2.54,2.67,2.49,-0.0184,1.043,2.10-2.50
+IND @ NYK,NYK win + Landry Shamet 10+ pts,2,0.5456,0.4695,2.13,2.24,2.04,-0.0409,1.021,1.85-2.10
+IND @ NYK,NYK -7.5 + Josh Hart 10+ pa,2,0.4303,0.3992,2.5,2.63,2.4,-0.0437,1.033,2.10-2.50
+IND @ NYK,NYK -7.5 + Mikal Bridges 10+ pa,2,0.4444,0.4131,2.42,2.54,2.3,-0.0481,1.028,2.10-2.50
+IND @ NYK,NYK win + Josh Hart 10+ pa,2,0.5967,0.5685,1.76,1.85,1.66,-0.056,1.027,1.65-1.85
+IND @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.6155,0.5875,1.7,1.79,1.6,-0.0615,1.021,1.50-1.65
+IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.6216,0.5654,1.77,1.86,1.66,-0.0618,1.011,1.65-1.85
+IND @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.5809,0.5573,1.79,1.88,1.67,-0.068,1.015,1.65-1.85
+IND @ NYK,NYK -7.5 + Landry Shamet 1+ 3pm,2,0.4775,0.4478,2.23,2.34,2.07,-0.0728,1.003,1.85-2.10
+IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4552,0.4448,2.25,2.36,2.07,-0.079,0.997,1.85-2.10
+IND @ NYK,Josh Hart 10+ pa + Jalen Brunson 2+ 3pm,2,0.658,0.5941,1.68,1.77,1.5,-0.1076,1.002,1.50-1.65
 BOS @ GSW,Yaxel Lendeborg pts under 19.5 + BOS win,2,0.4472,0.396,2.53,2.65,2.5,-0.0108,1.054,2.10-2.50
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 6+ reb,2,0.6579,0.4306,2.32,2.44,2.22,-0.044,0.999,2.10-2.50
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + BOS win,2,0.5358,0.4103,2.44,2.56,2.32,-0.0467,0.98,2.10-2.50
