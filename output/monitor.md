@@ -1,13 +1,13 @@
-# Model monitor (2026-11-16)
+# Model monitor (2026-11-23)
 
 ## Probability accuracy (lower logloss is better)
 
 | market     | window      |   bets graded |   logloss model |   logloss market (no-vig) |   logloss blend |
 |:-----------|:------------|--------------:|----------------:|--------------------------:|----------------:|
-| game lines | last 7 days |          4129 |          0.6628 |                    0.6341 |          0.6341 |
-| game lines | season      |          9033 |          0.6742 |                    0.6391 |          0.6392 |
-| props      | last 7 days |         56532 |          0.5362 |                    0.5286 |          0.528  |
-| props      | season      |        117463 |          0.5273 |                    0.5198 |          0.5194 |
+| game lines | last 7 days |          3998 |          0.713  |                    0.6758 |          0.6758 |
+| game lines | season      |         12871 |          0.6895 |                    0.6523 |          0.6523 |
+| props      | last 7 days |         54355 |          0.5387 |                    0.5317 |          0.5311 |
+| props      | season      |        169254 |          0.5309 |                    0.5236 |          0.5232 |
 
 ## Best bets (EV ≥ 5%, odds ≤ 4) as listed in TODAY.md
 
@@ -15,14 +15,14 @@ CLV compares the price you'd have taken with the final no-vig market before tip.
 
 | market     | window      |   bets |   win % |   ROI % (1 unit each) |   avg CLV % |   beat closing % |
 |:-----------|:------------|-------:|--------:|----------------------:|------------:|-----------------:|
-| game lines | last 7 days |     12 |    41.7 |                  -4.3 |         1.1 |             50   |
-| props      | last 7 days |     18 |    66.7 |                  51.4 |        10.3 |             94.4 |
-| game lines | season      |     63 |    14.3 |                 -67.9 |        -4.8 |             12.7 |
-| props      | season      |     73 |    41.1 |                  12.7 |         4.5 |             58.9 |
+| game lines | last 7 days |     10 |    30   |                 -36.9 |         3.8 |             70   |
+| props      | last 7 days |     21 |    28.6 |                 -42.1 |         7.8 |             81   |
+| game lines | season      |     72 |    16.7 |                 -63.2 |        -3.8 |             19.4 |
+| props      | season      |     92 |    38   |                   0.4 |         5.4 |             64.1 |
 
-Blend weights refit from logged results: props 0.154, game_logged 0.0
+Blend weights refit from logged results: props 0.181, game_logged 0.0
 
 ## Weekly retrain
 
-Safety check (model trained on past seasons, tested on this season): games 149, minutes MAE 4.43, pts MAE 4.42, margin MAE 11.77
-Retrained on all games through 2026-11-16 and saved.
+Safety check (model trained on past seasons, tested on this season): games 200, minutes MAE 4.36, pts MAE 4.41, margin MAE 11.43
+Retrained on all games through 2026-11-23 and saved.
