@@ -1,25 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.6069,0.5478,1.83,1.92,1.8,-0.015,1.02,1.65-1.85
-IND @ NYK,NYK win + Karl-Anthony Towns 12+ reb,2,0.5179,0.4252,2.35,2.47,2.31,-0.0199,0.994,2.10-2.50
-IND @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5942,0.5696,1.76,1.84,1.72,-0.0221,1.025,1.65-1.85
-IND @ NYK,NYK win + Jalen Brunson 25+ pa,2,0.6365,0.6139,1.63,1.71,1.59,-0.0268,1.021,1.50-1.65
-IND @ NYK,NYK win + Mikal Bridges 10+ pr,2,0.6181,0.5839,1.71,1.8,1.66,-0.029,1.015,1.65-1.85
-IND @ NYK,NYK win + Karl-Anthony Towns 15+ pa,2,0.6738,0.6327,1.58,1.66,1.53,-0.0312,1.011,1.50-1.65
-IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pa,2,0.4658,0.3974,2.52,2.64,2.41,-0.0402,1.017,2.10-2.50
-IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pr,2,0.4872,0.4098,2.44,2.56,2.34,-0.0416,1.013,2.10-2.50
-IND @ NYK,NYK win + Landry Shamet 10+ pr + Jalen Brunson 25+ pa,3,0.5443,0.4744,2.11,2.21,2.0,-0.049,1.047,1.85-2.10
-IND @ NYK,NYK win + Landry Shamet 10+ pr + Karl-Anthony Towns 15+ pa,3,0.5735,0.4866,2.06,2.16,1.94,-0.0577,1.032,1.85-2.10
-IND @ NYK,NYK win + Mikal Bridges 10+ pa + Jalen Brunson 25+ pa,3,0.5305,0.4911,2.04,2.14,1.91,-0.0599,1.047,1.85-2.10
-IND @ NYK,Landry Shamet 10+ pr + Mikal Bridges 10+ pa,2,0.6809,0.5905,1.69,1.78,1.53,-0.0983,1.004,1.50-1.65
-BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 6+ reb,2,0.5089,0.3938,2.54,2.67,2.47,-0.0288,1.003,2.10-2.50
-BOS @ GSW,Sam Hauser 9+ pts + Payton Pritchard 10+ pr,2,0.5792,0.4659,2.15,2.25,2.08,-0.0324,1.007,1.85-2.10
-BOS @ GSW,Sam Hauser 9+ pts + Brandin Podziemski 15+ pr,2,0.4896,0.3924,2.55,2.68,2.46,-0.0361,1.002,2.10-2.50
-BOS @ GSW,Sam Hauser 9+ pts + Draymond Green 10+ pra,2,0.5225,0.42,2.38,2.5,2.29,-0.0365,1.002,2.10-2.50
-BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 5+ pa,2,0.5904,0.4771,2.1,2.2,2.02,-0.0367,1.003,1.85-2.10
-BOS @ GSW,Sam Hauser 9+ pts + Jayson Tatum 4+ reb,2,0.5732,0.4599,2.17,2.28,2.09,-0.0377,1.001,1.85-2.10
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 10+ pra,2,0.6935,0.5214,1.92,2.01,1.78,-0.0704,1.004,1.65-1.85
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 5+ pa,2,0.758,0.5699,1.75,1.84,1.63,-0.0716,1.003,1.50-1.65
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Jayson Tatum 4+ reb,2,0.7591,0.5696,1.76,1.84,1.63,-0.0736,1.0,1.50-1.65
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Payton Pritchard 10+ pr,2,0.7627,0.5738,1.74,1.83,1.61,-0.0737,1.001,1.50-1.65
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Brandin Podziemski 15+ pra,2,0.7367,0.5575,1.79,1.88,1.66,-0.076,0.999,1.65-1.85
-BOS @ GSW,Jayson Tatum 7+ reb + Payton Pritchard 10+ pr,2,0.6724,0.5253,1.9,2.0,1.76,-0.0775,1.003,1.65-1.85
+BOS @ GSW,Hugo Gonzalez 5+ pts + Charles Bassey 10+ pr,2,0.5186,0.4114,2.43,2.55,2.41,-0.0097,1.001,2.10-2.50
+BOS @ GSW,Hugo Gonzalez 5+ pts + Neemias Queta 6+ reb,2,0.4951,0.3959,2.53,2.65,2.5,-0.0102,1.002,2.10-2.50
+BOS @ GSW,Hugo Gonzalez 5+ pts + Draymond Green 10+ pra,2,0.5248,0.424,2.36,2.48,2.33,-0.0129,1.002,2.10-2.50
+BOS @ GSW,Hugo Gonzalez 5+ pts + Brandin Podziemski 10+ pr,2,0.5753,0.472,2.12,2.22,2.08,-0.0166,1.001,1.85-2.10
+BOS @ GSW,Sam Hauser 9+ pts + Jayson Tatum 4+ reb,2,0.5856,0.4622,2.16,2.27,2.09,-0.0329,1.002,1.85-2.10
+BOS @ GSW,Sam Hauser 3pm under 3.5 + Charles Bassey 10+ pr,2,0.7139,0.4831,2.07,2.17,1.96,-0.0527,0.998,1.85-2.10
+BOS @ GSW,Sam Hauser 3pm under 3.5 + Draymond Green 5+ pa,2,0.7842,0.543,1.84,1.93,1.74,-0.0557,1.0,1.65-1.85
+BOS @ GSW,Sam Hauser 3pm under 3.5 + Jayson Tatum 4+ reb,2,0.7842,0.5452,1.83,1.93,1.73,-0.057,0.999,1.65-1.85
+BOS @ GSW,Sam Hauser 3pm under 3.5 + Brandin Podziemski 10+ pr,2,0.7931,0.5552,1.8,1.89,1.7,-0.0579,0.999,1.65-1.85
+BOS @ GSW,Charles Bassey 10+ pr + Neemias Queta 6+ reb,2,0.7157,0.6013,1.66,1.75,1.5,-0.0953,1.002,1.50-1.65
+BOS @ GSW,Neemias Queta 6+ reb + Brandin Podziemski 15+ pr,2,0.6627,0.5756,1.74,1.82,1.56,-0.1002,1.003,1.50-1.65
+BOS @ GSW,Charles Bassey 10+ pr + Brandin Podziemski 15+ pr,2,0.6938,0.5977,1.67,1.76,1.51,-0.1003,1.001,1.50-1.65
