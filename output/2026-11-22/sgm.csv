@@ -2,15 +2,15 @@ matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,
 ORL @ WAS,Alex Sarr 11+ pts + Kyshawn George 15+ pr,2,0.4361,0.3835,2.61,2.74,2.5,-0.0426,1.018,2.10-2.50
 ORL @ WAS,Alex Sarr 11+ pts + Kyshawn George 10+ pts,2,0.4582,0.4058,2.46,2.59,2.35,-0.0458,1.016,2.10-2.50
 ORL @ WAS,Alex Sarr 11+ pts + Kyshawn George 15+ pra,2,0.4948,0.4348,2.3,2.42,2.19,-0.0498,1.01,2.10-2.50
-ORL @ WAS,AJ Dybantsa pts under 17.5 + Bilal Coulibaly 5+ pr,2,0.5694,0.4471,2.24,2.35,2.09,-0.0637,0.999,1.85-2.10
+ORL @ WAS,Alex Sarr 11+ pts + Trae Young 10+ pr,2,0.504,0.448,2.23,2.34,2.1,-0.0601,1.002,1.85-2.10
+ORL @ WAS,Franz Wagner 26+ pts + Trae Young 10+ pr,2,0.4468,0.4502,2.22,2.33,2.08,-0.0649,1.001,1.85-2.10
 ORL @ WAS,AJ Dybantsa pts under 17.5 + Kyshawn George 10+ pr,2,0.5917,0.4605,2.17,2.28,2.03,-0.065,0.996,1.85-2.10
-ORL @ WAS,Anthony Davis pts under 23.5 + Bilal Coulibaly 5+ pr,2,0.5243,0.4543,2.2,2.31,2.06,-0.0657,1.0,1.85-2.10
 ORL @ WAS,Anthony Davis 2+ ast + Alex Sarr 10+ pr,2,0.6864,0.5234,1.91,2.01,1.78,-0.0699,1.004,1.65-1.85
 ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.6988,0.5347,1.87,1.96,1.74,-0.0709,1.003,1.65-1.85
 ORL @ WAS,Anthony Davis 2+ ast + AJ Dybantsa 4+ reb,2,0.6714,0.5081,1.97,2.07,1.83,-0.0721,1.0,1.65-1.85
-ORL @ WAS,ORL win + Anthony Davis 6+ reb,2,0.6208,0.5623,1.78,1.87,1.63,-0.0838,1.0,1.50-1.65
+ORL @ WAS,ORL win + Anthony Davis 6+ reb,2,0.6208,0.5618,1.78,1.87,1.63,-0.0837,1.0,1.50-1.65
 ORL @ WAS,ORL win + Kyshawn George 10+ pr,2,0.6414,0.577,1.73,1.82,1.58,-0.0874,0.994,1.50-1.65
-ORL @ WAS,ORL win + Bilal Coulibaly 5+ pr,2,0.616,0.5591,1.79,1.88,1.63,-0.0881,0.995,1.50-1.65
+ORL @ WAS,ORL win + Trae Young 10+ pr,2,0.634,0.5756,1.74,1.82,1.58,-0.091,0.992,1.50-1.65
 DEN @ CHI,Jamal Murray 24+ pts + DEN win,2,0.4024,0.4081,2.45,2.57,2.49,0.0176,1.046,2.10-2.50
 DEN @ CHI,Aaron Gordon 14+ pts + DEN win,2,0.3559,0.4041,2.47,2.6,2.49,0.0077,1.054,2.10-2.50
 DEN @ CHI,Buddy Hield pts under 11.5 + DEN win,2,0.3596,0.4174,2.4,2.52,2.38,-0.0064,1.048,2.10-2.50
@@ -43,14 +43,14 @@ IND @ NYK,IND +7.5 + Landry Shamet 1+ 3pm,2,0.4358,0.4431,2.26,2.37,2.07,-0.0825
 IND @ NYK,Josh Hart reb under 8.5 + Jalen Brunson 1+ 3pm,2,0.6215,0.5105,1.96,2.06,1.78,-0.0912,1.001,1.65-1.85
 IND @ NYK,Landry Shamet 10+ pr + Jalen Brunson 2+ 3pm,2,0.6608,0.5946,1.68,1.77,1.5,-0.1076,1.002,1.50-1.65
 BOS @ GSW,Yaxel Lendeborg pts under 19.5 + BOS win,2,0.4472,0.396,2.53,2.65,2.5,-0.0108,1.054,2.10-2.50
-BOS @ GSW,game over 210.5 + Brandin Podziemski 15+ pr,2,0.5416,0.4033,2.48,2.6,2.39,-0.0349,1.049,2.10-2.50
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 6+ reb,2,0.6579,0.4306,2.32,2.44,2.22,-0.044,0.999,2.10-2.50
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + BOS win,2,0.5358,0.4103,2.44,2.56,2.32,-0.0467,0.98,2.10-2.50
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Draymond Green 5+ pr,2,0.7207,0.483,2.07,2.17,1.97,-0.0474,1.0,1.85-2.10
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Jayson Tatum 4+ reb,2,0.7435,0.5048,1.98,2.08,1.88,-0.0498,1.0,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Payton Pritchard 10+ pr,2,0.7464,0.508,1.97,2.07,1.87,-0.0507,0.999,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Brandin Podziemski 10+ pr,2,0.7555,0.5167,1.94,2.03,1.84,-0.0511,1.0,1.65-1.85
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Payton Pritchard 10+ pr,2,0.7464,0.5091,1.96,2.06,1.86,-0.0511,0.999,1.85-2.10
 BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7629,0.5183,1.93,2.03,1.83,-0.0512,0.999,1.65-1.85
+BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Payton Pritchard 10+ pa,2,0.7571,0.5207,1.92,2.02,1.82,-0.052,1.0,1.65-1.85
 BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 5+ pr,2,0.7366,0.5462,1.83,1.92,1.7,-0.0703,1.001,1.65-1.85
 BOS @ GSW,Baylor Scheierman ast under 2.5 + Jayson Tatum 4+ reb,2,0.7591,0.5703,1.75,1.84,1.62,-0.0738,1.0,1.50-1.65
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Payton Pritchard 10+ pr,2,0.7627,0.5744,1.74,1.83,1.61,-0.0738,1.001,1.50-1.65
 BOS @ GSW,Baylor Scheierman ast under 2.5 + Neemias Queta 5+ pa,2,0.7798,0.5861,1.71,1.79,1.58,-0.074,1.0,1.50-1.65
+BOS @ GSW,Baylor Scheierman ast under 2.5 + Payton Pritchard 10+ pr,2,0.7627,0.5756,1.74,1.82,1.61,-0.0742,1.001,1.50-1.65
