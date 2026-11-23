@@ -49,9 +49,9 @@ MIL @ TOR,TOR win + Jamal Shead 4+ ast,2,0.5908,0.6219,1.61,1.69,1.51,-0.0631,1.
 BKN @ MIN,Mikel Brown Jr. pa under 17.5 + MIN win,2,0.5304,0.4511,2.22,2.33,2.19,-0.011,1.036,2.10-2.50
 BKN @ MIN,Mikel Brown Jr. pra under 19.5 + MIN win,2,0.5111,0.4405,2.27,2.38,2.24,-0.0143,1.037,2.10-2.50
 BKN @ MIN,Mikel Brown Jr. pts under 13.5 + MIN win,2,0.5226,0.4573,2.19,2.3,2.14,-0.02,1.035,2.10-2.50
-BKN @ MIN,MIN -11.5 + LaMelo Ball 15+ pa,2,0.4463,0.4503,2.22,2.33,2.1,-0.0557,1.016,1.85-2.10
-BKN @ MIN,game over 223.5 + LaMelo Ball 20+ pra,2,0.3907,0.4496,2.22,2.34,2.1,-0.0566,1.036,1.85-2.10
 BKN @ MIN,MIN win + Mikel Brown Jr. ra under 6.5,2,0.5015,0.4772,2.1,2.2,1.98,-0.0573,1.016,1.85-2.10
+BKN @ MIN,game over 224.5 + LaMelo Ball 15+ pa,2,0.3801,0.4497,2.22,2.34,2.08,-0.0658,1.026,1.85-2.10
+BKN @ MIN,Mikel Brown Jr. pa under 17.5 + Rudy Gobert 6+ reb,2,0.6039,0.469,2.13,2.24,1.99,-0.069,1.001,1.85-2.10
 BKN @ MIN,Mikel Brown Jr. ra under 6.5 + Rudy Gobert 6+ reb,2,0.5822,0.5058,1.98,2.08,1.79,-0.0952,1.0,1.65-1.85
 BKN @ MIN,Mikel Brown Jr. ra under 6.5 + LaMelo Ball 15+ pa,2,0.5877,0.5087,1.97,2.06,1.78,-0.0953,0.999,1.65-1.85
 BKN @ MIN,Mikel Brown Jr. ra under 6.5 + Rudy Gobert 5+ pa,2,0.5997,0.5204,1.92,2.02,1.74,-0.0955,1.0,1.65-1.85
@@ -106,15 +106,15 @@ UTA @ LAL,Keyonte George ra under 11.5 + Ace Bailey 10+ pr,2,0.6216,0.5051,1.98,
 UTA @ LAL,Jake LaRavia 5+ pa + Luka Doncic 1+ stl,2,0.7103,0.5867,1.7,1.79,1.56,-0.0857,1.001,1.50-1.65
 UTA @ LAL,LAL win + Brice Sensabaugh 10+ pr + Jake LaRavia 5+ pa,3,0.6336,0.4938,2.02,2.13,1.82,-0.1023,1.0,1.65-1.85
 UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Matisse Thybulle 5+ pr,3,0.6738,0.5496,1.82,1.91,1.63,-0.103,1.011,1.50-1.65
-SAS @ SAC,SAS win + Keegan Murray pa under 14.5,2,0.4802,0.4297,2.33,2.44,2.28,-0.0202,1.046,2.10-2.50
 SAS @ SAC,SAS win + Keegan Murray pts under 12.5,2,0.4671,0.415,2.41,2.53,2.36,-0.0207,1.044,2.10-2.50
-SAS @ SAC,SAS win + Keegan Murray pra under 19.5,2,0.4611,0.4112,2.43,2.55,2.38,-0.0207,1.045,2.10-2.50
-SAS @ SAC,SAS win + Devin Vassell 2+ 3pm,2,0.5137,0.4609,2.17,2.28,2.06,-0.05,1.012,1.85-2.10
+SAS @ SAC,SAS win + Keegan Murray pra under 19.5,2,0.4611,0.4157,2.41,2.53,2.35,-0.0234,1.045,2.10-2.50
+SAS @ SAC,SAS win + Keegan Murray pa under 14.5,2,0.4802,0.435,2.3,2.41,2.24,-0.0234,1.046,2.10-2.50
+SAS @ SAC,SAS win + Devin Vassell 2+ 3pm,2,0.5137,0.4744,2.11,2.21,1.99,-0.0551,1.012,1.85-2.10
 SAS @ SAC,SAS win + Devin Vassell 7+ ra,2,0.4992,0.462,2.16,2.27,2.03,-0.0632,1.008,1.85-2.10
-SAS @ SAC,Darius Acuff Jr. 10+ ra + Stephon Castle 10+ pts,2,0.6026,0.4685,2.13,2.24,1.99,-0.0669,1.001,1.85-2.10
-SAS @ SAC,SAS win + Devin Vassell 10+ pts,2,0.6405,0.6164,1.62,1.7,1.51,-0.0688,1.013,1.50-1.65
-SAS @ SAC,Devin Vassell 2+ 3pm + Stephon Castle 15+ pr,2,0.5931,0.5011,2.0,2.1,1.83,-0.085,1.004,1.65-1.85
-SAS @ SAC,Devin Vassell 2+ 3pm + Stephon Castle 10+ pts,2,0.6064,0.5103,1.96,2.06,1.79,-0.0853,1.002,1.65-1.85
-SAS @ SAC,Devin Vassell 7+ ra + Stephon Castle 15+ pr,2,0.5818,0.507,1.97,2.07,1.8,-0.0892,1.009,1.65-1.85
-SAS @ SAC,SAS win + Devin Vassell 10+ pts + Stephon Castle 10+ pts,3,0.5992,0.5536,1.81,1.9,1.6,-0.1125,1.023,1.50-1.65
-SAS @ SAC,SAS win + Devin Vassell 10+ pts + Stephon Castle 15+ pr,3,0.5845,0.5423,1.84,1.94,1.63,-0.1145,1.022,1.50-1.65
+SAS @ SAC,Darius Acuff Jr. 10+ ra + Stephon Castle 10+ pts,2,0.6026,0.4693,2.13,2.24,1.99,-0.0672,1.001,1.85-2.10
+SAS @ SAC,Devin Vassell 2+ 3pm + Darius Acuff Jr. 4+ ast,2,0.5959,0.4996,2.0,2.1,1.84,-0.0822,1.004,1.65-1.85
+SAS @ SAC,Devin Vassell 7+ ra + Stephon Castle 15+ pr,2,0.5818,0.5089,1.96,2.06,1.79,-0.0899,1.009,1.65-1.85
+SAS @ SAC,Devin Vassell 2+ 3pm + Stephon Castle 10+ pts,2,0.6064,0.526,1.9,2.0,1.73,-0.0905,1.002,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 10+ pts + Stephon Castle 10+ pts,3,0.5992,0.562,1.78,1.87,1.57,-0.1156,1.023,1.50-1.65
+SAS @ SAC,SAS win + Devin Vassell 10+ pts + Stephon Castle 15+ pr,3,0.5845,0.5517,1.81,1.9,1.6,-0.118,1.022,1.50-1.65
+SAS @ SAC,SAS win + Devin Vassell 10+ pts + Keegan Murray 10+ pra,3,0.5972,0.5671,1.76,1.85,1.53,-0.1309,1.008,1.50-1.65
