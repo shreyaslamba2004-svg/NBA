@@ -25,7 +25,6 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910034,IND @ NYK,prop_ast,over,Andrew Nembhard,1629614.0,12.5,draftkings,1560.0,16.6,0.0991,10.09,0.0563,0.0563,0.0428,,0.6445,0.0629,0.0439,0.0007,False,False,False,,,
 401910034,IND @ NYK,prop_ast,over,Karl-Anthony Towns,1626157.0,4.5,draftkings,263.0,3.63,0.4491,2.23,0.2575,0.2575,0.1916,,0.6302,0.287,0.0417,0.004,True,False,False,Karl-Anthony Towns,0.0,0.4501
 401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,14.5,draftkings,1600.0,17.0,0.0951,10.51,0.055,0.055,0.0401,,0.6171,0.0612,0.0397,0.0006,False,False,False,,,
-401910035,BOS @ GSW,prop_pts,over,Jayson Tatum,1628369.0,44.5,draftkings,2000.0,21.0,0.0769,13.01,0.0445,0.0445,0.0324,,0.6142,0.0495,0.0392,0.0005,False,True,False,,,
 401910034,IND @ NYK,prop_ast,over,Pascal Siakam,1627783.0,6.5,draftkings,1380.0,14.8,0.1087,9.2,0.0631,0.0631,0.0456,,0.6092,0.0702,0.0385,0.0007,False,False,False,Pascal Siakam,0.0,0.1102
 401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,10.5,draftkings,531.0,6.31,0.2527,3.96,0.1481,0.1481,0.1046,,0.5944,0.1642,0.0362,0.0017,False,False,False,,,
 401910035,BOS @ GSW,prop_reb,over,Neemias Queta,1629674.0,13.5,draftkings,1080.0,11.8,0.135,7.41,0.0792,0.0792,0.0558,,0.5926,0.0878,0.0359,0.0008,False,True,False,,,
@@ -33,8 +32,8 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910034,IND @ NYK,prop_pts,over,Landry Shamet,1629013.0,19.5,draftkings,780.0,8.8,0.1785,5.6,0.1062,0.1062,0.0723,,0.5705,0.1173,0.0325,0.001,False,True,False,Karl-Anthony Towns,0.234,0.1308
 401910035,BOS @ GSW,prop_pr,over,Jayson Tatum,1628369.0,49.5,draftkings,1080.0,11.8,0.133,7.52,0.0792,0.0792,0.0538,,0.5691,0.0875,0.0323,0.0007,False,True,False,,,
 401910034,IND @ NYK,prop_ast,over,Andrew Nembhard,1629614.0,11.5,draftkings,950.0,10.5,0.1493,6.7,0.089,0.089,0.0603,,0.5681,0.0983,0.0321,0.0008,False,True,False,Pascal Siakam,0.1737,0.1294
-401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,13.5,draftkings,2000.0,21.0,0.0745,13.43,0.0445,0.0445,0.03,,0.5639,0.0491,0.0315,0.0004,False,True,False,,,
 401910034,IND @ NYK,prop_pts,over,Jalen Brunson,1628973.0,34.5,draftkings,295.0,3.95,0.3959,2.53,0.2366,0.2366,0.1593,,0.5638,0.2611,0.0315,0.0027,True,True,False,Karl-Anthony Towns,0.4382,0.3674
+401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,13.5,draftkings,2000.0,21.0,0.0745,13.43,0.0445,0.0445,0.03,,0.5639,0.0491,0.0315,0.0004,False,True,False,,,
 401910034,IND @ NYK,prop_pr,over,Landry Shamet,1629013.0,24.5,draftkings,1220.0,13.2,0.1178,8.49,0.0708,0.0708,0.047,,0.5544,0.078,0.03,0.0006,False,True,False,Karl-Anthony Towns,0.1666,0.0797
 401910034,IND @ NYK,prop_pts,over,Landry Shamet,1629013.0,17.5,draftkings,498.0,5.98,0.2596,3.85,0.1563,0.1563,0.1033,,0.5522,0.1722,0.0297,0.0015,False,False,False,Karl-Anthony Towns,0.3249,0.2013
 401910034,IND @ NYK,prop_reb,over,Karl-Anthony Towns,1626157.0,15.5,draftkings,291.0,3.91,0.3968,2.52,0.239,0.239,0.1578,,0.5516,0.2633,0.0296,0.0025,True,True,False,Karl-Anthony Towns,0.0,0.3906
@@ -65,9 +64,7 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910034,IND @ NYK,prop_pa,over,Jalen Brunson,1628973.0,39.5,draftkings,219.0,3.19,0.4451,2.25,0.293,0.293,0.1521,,0.4198,0.3164,0.0093,0.0011,True,True,False,Karl-Anthony Towns,0.4882,0.4181
 401910035,BOS @ GSW,prop_reb,over,Jayson Tatum,1628369.0,14.5,draftkings,2900.0,30.0,0.0471,21.23,0.0312,0.0312,0.016,,0.4132,0.0336,0.0083,0.0001,False,False,False,,,
 401910034,IND @ NYK,prop_pts,over,Landry Shamet,1629013.0,14.5,draftkings,239.0,3.39,0.4156,2.41,0.2757,0.2757,0.1399,,0.4087,0.2972,0.0076,0.0008,False,True,False,Karl-Anthony Towns,0.4928,0.3522
-401910035,BOS @ GSW,prop_pts,over,Jayson Tatum,1628369.0,39.5,draftkings,890.0,9.9,0.142,7.04,0.0944,0.0944,0.0476,,0.4061,0.1017,0.0072,0.0002,False,True,False,,,
 401910035,BOS @ GSW,prop_pra,under,Baylor Scheierman,1631248.0,13.5,draftkings,-106.0,1.94,0.7199,1.39,0.4809,0.4809,0.239,,0.3991,0.5177,0.0061,0.0016,True,False,True,,,
-401910035,BOS @ GSW,prop_pa,over,Neemias Queta,1629674.0,19.5,draftkings,650.0,7.5,0.1866,5.36,0.1246,0.1246,0.0619,,0.3992,0.1341,0.0061,0.0002,False,True,False,,,
 401910035,BOS @ GSW,prop_pa,under,Baylor Scheierman,1631248.0,9.5,draftkings,-113.0,1.88,0.7419,1.35,0.4958,0.4958,0.246,,0.3984,0.5337,0.006,0.0017,True,False,True,,,
 401910035,BOS @ GSW,prop_fg3m,under,Baylor Scheierman,1631248.0,1.5,draftkings,-129.0,1.78,0.7832,1.28,0.5265,0.5265,0.2567,,0.3903,0.566,0.0048,0.0015,True,True,True,,,
 401910034,IND @ NYK,prop_reb,over,Jalen Brunson,1628973.0,4.5,draftkings,354.0,4.54,0.3059,3.27,0.2059,0.2059,0.1001,,0.3889,0.2213,0.0045,0.0003,False,False,False,,,
@@ -76,3 +73,4 @@ game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,
 401910034,IND @ NYK,prop_ast,over,Mikal Bridges,1628969.0,4.5,draftkings,600.0,7.0,0.1956,5.11,0.1335,0.1335,0.0621,,0.369,0.1431,0.0015,0.0001,False,False,False,Karl-Anthony Towns,0.2293,0.1656
 401910035,BOS @ GSW,moneyline,GSW,,,,sportsbet,285.0,3.85,0.3017,3.31,0.2495,0.26,0.0417,4.09,0.1615,0.26,0.0012,0.0001,False,True,True,,,
 401910035,BOS @ GSW,prop_pts,under,Baylor Scheierman,1631248.0,7.5,draftkings,-115.0,1.87,0.7288,1.37,0.4999,0.4999,0.2289,,0.3625,0.5351,0.0005,0.0001,True,False,True,,,
+401910035,BOS @ GSW,prop_pa,over,Neemias Queta,1629674.0,19.5,draftkings,630.0,7.3,0.1866,5.36,0.128,0.128,0.0585,,0.3618,0.137,0.0004,0.0,False,True,False,,,
