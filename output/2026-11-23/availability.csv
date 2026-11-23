@@ -35,34 +35,34 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910036,MEM,1642285,Cam Spencer,,,1.0,,,
 401910036,MEM,1630191,Isaiah Stewart,,,1.0,,,
 401910036,MEM,1642377,Jaylen Wells,,,1.0,,,
-401910037,PHI,1631230,Dominick Barlow,,,1.0,,,
+401910037,PHI,1631230,Dominick Barlow,Starting,,1.0,,,1.0
 401910037,PHI,1641737,Adem Bona,Available,Injury/Illness-CervicalSpineSprain,1.0,,,
-401910037,PHI,1627759,Jaylen Brown,Available,Injury/Illness-LeftHamstringStrain,1.0,,,
+401910037,PHI,1627759,Jaylen Brown,Starting,Injury/Illness-LeftHamstringStrain,1.0,,,1.0
 401910037,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401910037,PHI,1642845,VJ Edgecombe,,,1.0,,,
+401910037,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
 401910037,PHI,1642348,Justin Edwards,,,1.0,,,
 401910037,PHI,203954,Joel Embiid,Out,Injury/Illness-Illness,0.0,"Embiid (illness) is out for Monday's game against Portland, Austin Krell of OnPattison.com reports.",,
 401910037,PHI,1629605,Tacko Fall,,,1.0,,,
 401910037,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401910037,PHI,2544,LeBron James,,,1.0,,,
+401910037,PHI,2544,LeBron James,Starting,,1.0,,,1.0
 401910037,PHI,904433144,Caleb Love,,,1.0,,,
-401910037,PHI,1630178,Tyrese Maxey,,,1.0,,,
+401910037,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
 401910037,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401910037,PHI,1641712,Rayan Rupert,,,1.0,,,
 401910037,PHI,1629014,Anfernee Simons,,,1.0,,,
-401910037,PHI,1629731,Dean Wade,Probable,,0.93,,,
+401910037,PHI,1629731,Dean Wade,Available,,1.0,,,
 401910037,PHI,1631133,Jabari Walker,,,1.0,,,
-401910037,POR,1630166,Deni Avdija,,,1.0,,,
-401910037,POR,1641739,Toumani Camara,,,1.0,,,
+401910037,POR,1630166,Deni Avdija,Starting,,1.0,,,1.0
+401910037,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
 401910037,POR,904592435,Branden Carlson,,,1.0,,,
-401910037,POR,1631321,Sidy Cissoko,,,1.0,,,
-401910037,POR,1642270,Donovan Clingan,,,1.0,,,
+401910037,POR,1631321,Sidy Cissoko,Starting,,1.0,,,1.0
+401910037,POR,1642270,Donovan Clingan,Starting,,1.0,,,1.0
 401910037,POR,1642905,Yang Hansen,,,1.0,,,
 401910037,POR,1630703,Scoot Henderson,,,1.0,,,
 401910037,POR,201950,Jrue Holiday,,,1.0,,,
 401910037,POR,1643257,Jayson Kent,,,1.0,,,
 401910037,POR,1630249,Vit Krejci,Out,Injury/Illness-LeftAnkleFracture,0.0,"Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports.",,
-401910037,POR,203081,Damian Lillard,,,1.0,,,
+401910037,POR,203081,Damian Lillard,Starting,,1.0,,,1.0
 401910037,POR,1629630,Ja Morant,Out,Injury/Illness-LeftHamstringStrain,0.0,"Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant ""may not be out for as long as we thought,"" Trail Blazers Insider Sean Highkin reports.",,
 401910037,POR,1630695,Micah Potter,,,1.0,,,
 401910037,POR,1631101,Shaedon Sharpe,Out,Injury/Illness-RightMeniscus,0.0,"Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN.",,
