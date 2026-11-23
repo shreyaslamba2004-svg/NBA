@@ -1,18 +1,18 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401910035,GSW,1629646,Charles Bassey,Starting,,1.0,,,1.0
+401910035,GSW,1629646,Charles Bassey,,,1.0,,,
 401910035,GSW,202710,Jimmy Butler III,Out,,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401910035,GSW,1643018,LJ Cryer,,,1.0,,,
 401910035,GSW,201939,Stephen Curry,Out,Injury/Illness-RightObliqueTear,0.0,"Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",,
-401910035,GSW,203110,Draymond Green,Starting,,1.0,,,1.0
+401910035,GSW,203110,Draymond Green,,,1.0,,,
 401910035,GSW,201143,Al Horford,,,1.0,,,
 401910035,GSW,904703396,Graham Ike,,,1.0,,,
-401910035,GSW,905175737,Yaxel Lendeborg,Starting,,1.0,,,1.0
+401910035,GSW,905175737,Yaxel Lendeborg,,,1.0,,,
 401910035,GSW,1642502,Malevy Leons,,,1.0,,,
-401910035,GSW,1629001,De'Anthony Melton,Starting,,1.0,,,1.0
+401910035,GSW,1629001,De'Anthony Melton,,,1.0,,,
 401910035,GSW,1630541,Moses Moody,Out,,0.0,"Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports.",,
 401910035,GSW,1627777,Georges Niang,,,1.0,,,
 401910035,GSW,1627780,Gary Payton II,,,1.0,,,
-401910035,GSW,1641764,Brandin Podziemski,Starting,,1.0,,,1.0
+401910035,GSW,1641764,Brandin Podziemski,,,1.0,,,
 401910035,GSW,204001,Kristaps Porzingis,Out,NotWithTeam,0.0,Porzingis announced on his social media that he's stepping away from basketball.,,
 401910035,GSW,1642954,Will Richard,,,1.0,,,
 401910035,GSW,1630611,Gui Santos,,,1.0,,,
@@ -22,15 +22,15 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910035,BOS,201144,Mike Conley,,,1.0,,,
 401910035,BOS,1630568,Luka Garza,,,1.0,,,
 401910035,BOS,202331,Paul George,Out,Rest,0.0,"George (rest) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.",,
-401910035,BOS,1642864,Hugo Gonzalez,Starting,,1.0,,,1.0
+401910035,BOS,1642864,Hugo Gonzalez,,,1.0,,,
 401910035,BOS,1631199,Ron Harper Jr.,,,1.0,,,
-401910035,BOS,1630573,Sam Hauser,Starting,,1.0,,,1.0
+401910035,BOS,1630573,Sam Hauser,,,1.0,,,
 401910035,BOS,905106283,Dillon Mitchell,Out,GLeague-Two-Way,0.0,,,
 401910035,BOS,1630202,Payton Pritchard,,,1.0,,,
-401910035,BOS,1629674,Neemias Queta,Starting,,1.0,,,1.0
+401910035,BOS,1629674,Neemias Queta,,,1.0,,,
 401910035,BOS,1629011,Mitchell Robinson,Out,Injury/Illness-Illness,0.0,"Robinson (illness) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.",,
 401910035,BOS,1631248,Baylor Scheierman,,,1.0,,,
-401910035,BOS,1628369,Jayson Tatum,Starting,,1.0,,,1.0
+401910035,BOS,1628369,Jayson Tatum,,,1.0,,,
 401910035,BOS,1641775,Jordan Walsh,,,1.0,,,
-401910035,BOS,1628401,Derrick White,Starting,,1.0,,,1.0
+401910035,BOS,1628401,Derrick White,,,1.0,,,
 401910035,BOS,1642873,Amari Williams,Out,GLeague-Two-Way,0.0,,,
