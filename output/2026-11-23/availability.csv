@@ -41,7 +41,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910037,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
 401910037,PHI,1642845,VJ Edgecombe,,,1.0,,,
 401910037,PHI,1642348,Justin Edwards,,,1.0,,,
-401910037,PHI,203954,Joel Embiid,Questionable,Injury/Illness-Illness,0.55,Embiid (knee) has been downgraded to questionable for Monday's game against Portland.,,
+401910037,PHI,203954,Joel Embiid,Out,Injury/Illness-Illness,0.0,Embiid (knee) has been downgraded to questionable for Monday's game against Portland.,,
 401910037,PHI,1629605,Tacko Fall,,,1.0,,,
 401910037,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
 401910037,PHI,2544,LeBron James,,,1.0,,,
