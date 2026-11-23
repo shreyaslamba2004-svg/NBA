@@ -11,15 +11,15 @@ IND @ NYK,Kelly Oubre Jr. pts under 12.5 + Karl-Anthony Towns 15+ pa,2,0.6318,0.
 IND @ NYK,NYK win + Karl-Anthony Towns 10+ reb,2,0.6114,0.5408,1.85,1.94,1.76,-0.0466,0.997,1.65-1.85
 IND @ NYK,Kelly Oubre Jr. pts under 12.5 + Jalen Brunson 20+ pr,2,0.6192,0.463,2.16,2.27,2.05,-0.0522,0.997,1.85-2.10
 IND @ NYK,Kelly Oubre Jr. pts under 12.5 + Jalen Brunson 25+ pra,2,0.6234,0.4685,2.13,2.24,2.02,-0.0523,0.997,1.85-2.10
-BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 6+ reb,2,0.5089,0.3935,2.54,2.67,2.47,-0.0285,1.003,2.10-2.50
-BOS @ GSW,Sam Hauser 9+ pts + Draymond Green 5+ pr,2,0.5561,0.4392,2.28,2.39,2.2,-0.0338,1.001,2.10-2.50
-BOS @ GSW,Sam Hauser 9+ pts + Brandin Podziemski 15+ pr,2,0.4896,0.3911,2.56,2.68,2.47,-0.0355,1.002,2.10-2.50
-BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 5+ pa,2,0.5904,0.4755,2.1,2.21,2.03,-0.0361,1.003,1.85-2.10
-BOS @ GSW,Sam Hauser 9+ pts + Jayson Tatum 4+ reb,2,0.5732,0.4615,2.17,2.28,2.08,-0.0383,1.001,1.85-2.10
-BOS @ GSW,Sam Hauser 9+ pts + Draymond Green 5+ pa,2,0.571,0.4601,2.17,2.28,2.09,-0.0385,1.001,1.85-2.10
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Brandin Podziemski 10+ pr,2,0.7555,0.5162,1.94,2.03,1.84,-0.0509,1.0,1.65-1.85
-BOS @ GSW,Baylor Scheierman 3pm under 1.5 + Neemias Queta 5+ pa,2,0.7629,0.5194,1.93,2.02,1.83,-0.0516,0.999,1.65-1.85
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 5+ pr,2,0.7366,0.5441,1.84,1.93,1.71,-0.0696,1.001,1.65-1.85
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 5+ pa,2,0.758,0.5714,1.75,1.84,1.62,-0.072,1.003,1.50-1.65
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Jayson Tatum 4+ reb,2,0.7591,0.5715,1.75,1.84,1.62,-0.0742,1.0,1.50-1.65
-BOS @ GSW,Baylor Scheierman ast under 2.5 + Neemias Queta 5+ pa,2,0.7798,0.5874,1.7,1.79,1.58,-0.0745,1.0,1.50-1.65
+BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 6+ reb,2,0.5089,0.3938,2.54,2.67,2.47,-0.0288,1.003,2.10-2.50
+BOS @ GSW,Sam Hauser 9+ pts + Payton Pritchard 10+ pr,2,0.5792,0.4659,2.15,2.25,2.08,-0.0324,1.007,1.85-2.10
+BOS @ GSW,Sam Hauser 9+ pts + Brandin Podziemski 15+ pr,2,0.4896,0.3924,2.55,2.68,2.46,-0.0361,1.002,2.10-2.50
+BOS @ GSW,Sam Hauser 9+ pts + Draymond Green 10+ pra,2,0.5225,0.42,2.38,2.5,2.29,-0.0365,1.002,2.10-2.50
+BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 5+ pa,2,0.5904,0.4771,2.1,2.2,2.02,-0.0367,1.003,1.85-2.10
+BOS @ GSW,Sam Hauser 9+ pts + Jayson Tatum 4+ reb,2,0.5732,0.4599,2.17,2.28,2.09,-0.0377,1.001,1.85-2.10
+BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 10+ pra,2,0.6935,0.5214,1.92,2.01,1.78,-0.0704,1.004,1.65-1.85
+BOS @ GSW,Baylor Scheierman ast under 2.5 + Draymond Green 5+ pa,2,0.758,0.5699,1.75,1.84,1.63,-0.0716,1.003,1.50-1.65
+BOS @ GSW,Baylor Scheierman ast under 2.5 + Jayson Tatum 4+ reb,2,0.7591,0.5696,1.76,1.84,1.63,-0.0736,1.0,1.50-1.65
+BOS @ GSW,Baylor Scheierman ast under 2.5 + Payton Pritchard 10+ pr,2,0.7627,0.5738,1.74,1.83,1.61,-0.0737,1.001,1.50-1.65
+BOS @ GSW,Baylor Scheierman ast under 2.5 + Brandin Podziemski 15+ pra,2,0.7367,0.5575,1.79,1.88,1.66,-0.076,0.999,1.65-1.85
+BOS @ GSW,Jayson Tatum 7+ reb + Payton Pritchard 10+ pr,2,0.6724,0.5253,1.9,2.0,1.76,-0.0775,1.003,1.65-1.85
