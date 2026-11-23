@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ GSW,Hugo Gonzalez 5+ pts + Charles Bassey 10+ pr,2,0.5186,0.4114,2.43,2.55,2.41,-0.0097,1.001,2.10-2.50
-BOS @ GSW,Hugo Gonzalez 5+ pts + Neemias Queta 6+ reb,2,0.4951,0.3959,2.53,2.65,2.5,-0.0102,1.002,2.10-2.50
-BOS @ GSW,Hugo Gonzalez 5+ pts + Draymond Green 10+ pra,2,0.5248,0.424,2.36,2.48,2.33,-0.0129,1.002,2.10-2.50
-BOS @ GSW,Hugo Gonzalez 5+ pts + Brandin Podziemski 10+ pr,2,0.5753,0.472,2.12,2.22,2.08,-0.0166,1.001,1.85-2.10
-BOS @ GSW,Sam Hauser 9+ pts + Jayson Tatum 4+ reb,2,0.5856,0.4622,2.16,2.27,2.09,-0.0329,1.002,1.85-2.10
-BOS @ GSW,Sam Hauser 3pm under 3.5 + Charles Bassey 10+ pr,2,0.7139,0.4831,2.07,2.17,1.96,-0.0527,0.998,1.85-2.10
-BOS @ GSW,Sam Hauser 3pm under 3.5 + Draymond Green 5+ pa,2,0.7842,0.543,1.84,1.93,1.74,-0.0557,1.0,1.65-1.85
-BOS @ GSW,Sam Hauser 3pm under 3.5 + Jayson Tatum 4+ reb,2,0.7842,0.5452,1.83,1.93,1.73,-0.057,0.999,1.65-1.85
-BOS @ GSW,Sam Hauser 3pm under 3.5 + Brandin Podziemski 10+ pr,2,0.7931,0.5552,1.8,1.89,1.7,-0.0579,0.999,1.65-1.85
-BOS @ GSW,Charles Bassey 10+ pr + Neemias Queta 6+ reb,2,0.7157,0.6013,1.66,1.75,1.5,-0.0953,1.002,1.50-1.65
-BOS @ GSW,Neemias Queta 6+ reb + Brandin Podziemski 15+ pr,2,0.6627,0.5756,1.74,1.82,1.56,-0.1002,1.003,1.50-1.65
-BOS @ GSW,Charles Bassey 10+ pr + Brandin Podziemski 15+ pr,2,0.6938,0.5977,1.67,1.76,1.51,-0.1003,1.001,1.50-1.65
+BOS @ GSW,Hugo Gonzalez 5+ pts + Charles Bassey 10+ pr,2,0.5186,0.4104,2.44,2.56,2.41,-0.0092,1.001,2.10-2.50
+BOS @ GSW,Hugo Gonzalez 5+ pts + Draymond Green 10+ pra,2,0.5248,0.4224,2.37,2.49,2.34,-0.0122,1.002,2.10-2.50
+BOS @ GSW,Hugo Gonzalez 5+ pts + Jayson Tatum 2+ 3pm,2,0.4921,0.4029,2.48,2.61,2.45,-0.0143,1.003,2.10-2.50
+BOS @ GSW,Hugo Gonzalez 5+ pts + Brandin Podziemski 10+ pr,2,0.5753,0.4738,2.11,2.22,2.07,-0.0173,1.001,1.85-2.10
+BOS @ GSW,Neemias Queta 11+ pts + Brandin Podziemski 10+ pr,2,0.4974,0.4536,2.2,2.31,2.09,-0.0497,1.004,1.85-2.10
+BOS @ GSW,Derrick White pts under 14.5 + Brandin Podziemski 10+ pr,2,0.5182,0.4547,2.2,2.31,2.07,-0.057,0.998,1.85-2.10
+BOS @ GSW,Charles Bassey 10+ pr + Neemias Queta 6+ reb,2,0.7157,0.5945,1.68,1.77,1.53,-0.0931,1.002,1.50-1.65
+BOS @ GSW,Neemias Queta 6+ reb + Brandin Podziemski 15+ pr,2,0.6627,0.5694,1.76,1.84,1.58,-0.0982,1.003,1.50-1.65
+BOS @ GSW,Neemias Queta 6+ reb + Jayson Tatum 2+ 3pm,2,0.6784,0.5829,1.72,1.8,1.55,-0.0989,1.002,1.50-1.65
+BOS @ GSW,Charles Bassey 10+ pr + Neemias Queta 6+ reb + Draymond Green 10+ pra,3,0.6277,0.483,2.07,2.17,1.78,-0.1384,1.004,1.65-1.85
+BOS @ GSW,Charles Bassey 10+ pr + Draymond Green 10+ pra + Brandin Podziemski 15+ pr,3,0.61,0.4849,2.06,2.17,1.77,-0.1424,1.006,1.65-1.85
+BOS @ GSW,Neemias Queta 6+ reb + Draymond Green 10+ pra + Jayson Tatum 2+ 3pm,3,0.5946,0.4733,2.11,2.22,1.81,-0.1445,1.003,1.65-1.85
