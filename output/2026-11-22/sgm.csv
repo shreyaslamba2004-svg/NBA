@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-IND @ NYK,NYK win + Jalen Brunson 30+ pra,2,0.6004,0.5662,1.77,1.85,1.71,-0.0316,1.026,1.65-1.85
-IND @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.603,0.5723,1.75,1.83,1.68,-0.0358,1.023,1.65-1.85
-IND @ NYK,Mikal Bridges 12+ pts + Jalen Brunson 30+ pra,2,0.4189,0.3947,2.53,2.66,2.44,-0.0366,1.019,2.10-2.50
-IND @ NYK,NYK win + Jalen Brunson 20+ pts,2,0.6168,0.5886,1.7,1.78,1.63,-0.0397,1.02,1.50-1.65
-IND @ NYK,Kelly Oubre Jr. pts under 12.5 + Karl-Anthony Towns 10+ reb,2,0.5792,0.4015,2.49,2.62,2.39,-0.0402,0.994,2.10-2.50
-IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pa,2,0.4601,0.399,2.51,2.63,2.4,-0.0408,1.017,2.10-2.50
-IND @ NYK,NYK win + Karl-Anthony Towns 15+ pa,2,0.674,0.6333,1.58,1.66,1.51,-0.0431,1.013,1.50-1.65
-IND @ NYK,NYK win + Mikal Bridges 10+ pr,2,0.6212,0.5885,1.7,1.78,1.62,-0.0442,1.014,1.50-1.65
-IND @ NYK,Kelly Oubre Jr. pts under 12.5 + Karl-Anthony Towns 15+ pa,2,0.6318,0.4652,2.15,2.26,2.05,-0.0466,0.999,1.85-2.10
-IND @ NYK,NYK win + Karl-Anthony Towns 10+ reb,2,0.6114,0.5408,1.85,1.94,1.76,-0.0466,0.997,1.65-1.85
-IND @ NYK,Kelly Oubre Jr. pts under 12.5 + Jalen Brunson 20+ pr,2,0.6192,0.463,2.16,2.27,2.05,-0.0522,0.997,1.85-2.10
-IND @ NYK,Kelly Oubre Jr. pts under 12.5 + Jalen Brunson 25+ pra,2,0.6234,0.4685,2.13,2.24,2.02,-0.0523,0.997,1.85-2.10
+IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.6069,0.5478,1.83,1.92,1.8,-0.015,1.02,1.65-1.85
+IND @ NYK,NYK win + Karl-Anthony Towns 12+ reb,2,0.5179,0.4252,2.35,2.47,2.31,-0.0199,0.994,2.10-2.50
+IND @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5942,0.5696,1.76,1.84,1.72,-0.0221,1.025,1.65-1.85
+IND @ NYK,NYK win + Jalen Brunson 25+ pa,2,0.6365,0.6139,1.63,1.71,1.59,-0.0268,1.021,1.50-1.65
+IND @ NYK,NYK win + Mikal Bridges 10+ pr,2,0.6181,0.5839,1.71,1.8,1.66,-0.029,1.015,1.65-1.85
+IND @ NYK,NYK win + Karl-Anthony Towns 15+ pa,2,0.6738,0.6327,1.58,1.66,1.53,-0.0312,1.011,1.50-1.65
+IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pa,2,0.4658,0.3974,2.52,2.64,2.41,-0.0402,1.017,2.10-2.50
+IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pr,2,0.4872,0.4098,2.44,2.56,2.34,-0.0416,1.013,2.10-2.50
+IND @ NYK,NYK win + Landry Shamet 10+ pr + Jalen Brunson 25+ pa,3,0.5443,0.4744,2.11,2.21,2.0,-0.049,1.047,1.85-2.10
+IND @ NYK,NYK win + Landry Shamet 10+ pr + Karl-Anthony Towns 15+ pa,3,0.5735,0.4866,2.06,2.16,1.94,-0.0577,1.032,1.85-2.10
+IND @ NYK,NYK win + Mikal Bridges 10+ pa + Jalen Brunson 25+ pa,3,0.5305,0.4911,2.04,2.14,1.91,-0.0599,1.047,1.85-2.10
+IND @ NYK,Landry Shamet 10+ pr + Mikal Bridges 10+ pa,2,0.6809,0.5905,1.69,1.78,1.53,-0.0983,1.004,1.50-1.65
 BOS @ GSW,Sam Hauser 9+ pts + Neemias Queta 6+ reb,2,0.5089,0.3938,2.54,2.67,2.47,-0.0288,1.003,2.10-2.50
 BOS @ GSW,Sam Hauser 9+ pts + Payton Pritchard 10+ pr,2,0.5792,0.4659,2.15,2.25,2.08,-0.0324,1.007,1.85-2.10
 BOS @ GSW,Sam Hauser 9+ pts + Brandin Podziemski 15+ pr,2,0.4896,0.3924,2.55,2.68,2.46,-0.0361,1.002,2.10-2.50
