@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-IND @ NYK,NYK -7.5 + Jalen Brunson 25+ pr,2,0.4328,0.3928,2.55,2.67,2.45,-0.0368,1.043,2.10-2.50
+IND @ NYK,NYK -7.5 + Jalen Brunson 25+ pr,2,0.4328,0.3926,2.55,2.67,2.45,-0.0367,1.043,2.10-2.50
 IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pa,2,0.4658,0.3972,2.52,2.64,2.42,-0.0376,1.017,2.10-2.50
-IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pr,2,0.4872,0.4123,2.43,2.55,2.33,-0.0402,1.013,2.10-2.50
-IND @ NYK,Jalen Brunson 29+ pts + Landry Shamet 5+ pr,2,0.5568,0.4638,2.16,2.26,2.05,-0.0486,1.001,1.85-2.10
-IND @ NYK,NYK win + Jalen Brunson 25+ pr,2,0.5924,0.5521,1.81,1.9,1.72,-0.0527,1.026,1.65-1.85
-IND @ NYK,Mikal Bridges 12+ pts + Landry Shamet 5+ pr,2,0.4942,0.4597,2.18,2.28,2.05,-0.057,1.001,1.85-2.10
-IND @ NYK,Karl-Anthony Towns 16+ ra + Landry Shamet 5+ pr,2,0.7156,0.4976,2.01,2.11,1.89,-0.0571,0.999,1.85-2.10
+IND @ NYK,Jalen Brunson 29+ pts + Mikal Bridges 10+ pr,2,0.4872,0.41,2.44,2.56,2.34,-0.0392,1.013,2.10-2.50
+IND @ NYK,NYK win + Jalen Brunson 25+ pr,2,0.5924,0.5519,1.81,1.9,1.72,-0.0527,1.026,1.65-1.85
+IND @ NYK,NYK win + Landry Shamet 10+ pr,2,0.6069,0.5524,1.81,1.9,1.71,-0.0544,1.02,1.65-1.85
+IND @ NYK,NYK win + Josh Hart 10+ pa,2,0.5787,0.5521,1.81,1.9,1.71,-0.0569,1.027,1.65-1.85
 IND @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5942,0.5707,1.75,1.84,1.65,-0.0599,1.025,1.50-1.65
 IND @ NYK,NYK win + Jalen Brunson 20+ pts,2,0.6258,0.5974,1.67,1.76,1.57,-0.0609,1.022,1.50-1.65
-IND @ NYK,NYK win + Karl-Anthony Towns 10+ reb,2,0.6157,0.5408,1.85,1.94,1.73,-0.067,0.999,1.65-1.85
-IND @ NYK,NYK win + Mikal Bridges 10+ pr,2,0.6181,0.589,1.7,1.78,1.58,-0.0678,1.015,1.50-1.65
-IND @ NYK,NYK win + Jalen Brunson 25+ pr + Karl-Anthony Towns 15+ pa,3,0.56,0.4907,2.04,2.14,1.85,-0.0933,1.039,1.65-1.85
+IND @ NYK,NYK -7.5 + Karl-Anthony Towns 15+ pa,2,0.4866,0.4463,2.24,2.35,2.1,-0.0639,1.015,1.85-2.10
+IND @ NYK,NYK win + Mikal Bridges 10+ pr,2,0.6181,0.5857,1.71,1.79,1.59,-0.0668,1.015,1.50-1.65
+IND @ NYK,Jalen Brunson 38+ pra + Karl-Anthony Towns 15+ pa,2,0.5595,0.4402,2.27,2.39,2.1,-0.0766,1.008,1.85-2.10
+IND @ NYK,Mikal Bridges pts under 11.5 + Jalen Brunson 20+ pr,2,0.4596,0.4391,2.28,2.39,2.09,-0.0805,0.994,1.85-2.10
 BOS @ GSW,Yaxel Lendeborg pts under 19.5 + BOS win,2,0.4472,0.396,2.53,2.65,2.5,-0.0108,1.054,2.10-2.50
 BOS @ GSW,BOS win + Yaxel Lendeborg pa under 23.5,2,0.4467,0.4009,2.49,2.62,2.47,-0.0111,1.057,2.10-2.50
 BOS @ GSW,Sam Hauser 9+ pts + BOS win,2,0.4389,0.4002,2.5,2.62,2.45,-0.0208,1.042,2.10-2.50
