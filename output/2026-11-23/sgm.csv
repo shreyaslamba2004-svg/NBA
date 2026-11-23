@@ -22,30 +22,30 @@ POR @ PHI,Scoot Henderson 10+ pa + Toumani Camara 10+ pts,2,0.5496,0.3979,2.51,2
 POR @ PHI,Damian Lillard 3pm under 3.5 + Scoot Henderson 5+ pa,2,0.6539,0.5122,1.95,2.05,1.81,-0.0742,0.999,1.65-1.85
 POR @ PHI,Toumani Camara 10+ pr + Anfernee Simons 5+ pa + Donovan Clingan 8+ reb,3,0.7022,0.5697,1.76,1.84,1.51,-0.1403,1.004,1.50-1.65
 POR @ PHI,Toumani Camara 10+ pr + Donovan Clingan 8+ reb + Jrue Holiday 1+ 3pm,3,0.6767,0.5626,1.78,1.87,1.52,-0.1433,1.006,1.50-1.65
-OKC @ IND,OKC -5.5 + Ajay Mitchell 20+ pra,2,0.4096,0.3939,2.54,2.67,2.45,-0.0354,1.04,2.10-2.50
-OKC @ IND,game over 223.5 + Ajay Mitchell 20+ pra,2,0.4846,0.3977,2.51,2.64,2.41,-0.0433,1.051,2.10-2.50
-OKC @ IND,OKC win + Ajay Mitchell 20+ pra,2,0.5291,0.4982,2.01,2.11,1.92,-0.0434,1.03,1.85-2.10
-OKC @ IND,OKC -5.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4221,0.3913,2.56,2.68,2.44,-0.0437,1.022,2.10-2.50
-OKC @ IND,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5478,0.4972,2.01,2.11,1.92,-0.0473,1.017,1.85-2.10
-OKC @ IND,OKC win + Ajay Mitchell 10+ pts,2,0.5904,0.5645,1.77,1.86,1.67,-0.0588,1.017,1.65-1.85
-OKC @ IND,game over 223.5 + Ajay Mitchell 10+ pts,2,0.5335,0.4446,2.25,2.36,2.09,-0.0713,1.024,1.85-2.10
+OKC @ IND,OKC -5.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4221,0.3922,2.55,2.68,2.44,-0.0442,1.022,2.10-2.50
+OKC @ IND,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5478,0.4984,2.01,2.11,1.91,-0.0478,1.017,1.85-2.10
+OKC @ IND,Shai Gilgeous-Alexander 10+ ra + Ajay Mitchell 10+ pts,2,0.5515,0.4242,2.36,2.48,2.23,-0.0559,1.009,2.10-2.50
+OKC @ IND,Ajay Mitchell 8+ ra + Shai Gilgeous-Alexander 4+ ast,2,0.5044,0.38,2.63,2.76,2.48,-0.0561,1.006,2.10-2.50
+OKC @ IND,OKC win + Ajay Mitchell 10+ pts,2,0.5904,0.5638,1.77,1.86,1.67,-0.0585,1.017,1.65-1.85
+OKC @ IND,OKC -5.5 + Ajay Mitchell 15+ pra,2,0.4702,0.4548,2.2,2.31,2.06,-0.061,1.014,1.85-2.10
+OKC @ IND,OKC win + Ajay Mitchell 15+ pra,2,0.6116,0.5793,1.73,1.81,1.62,-0.0623,1.011,1.50-1.65
+OKC @ IND,Ajay Mitchell 8+ ra + Jared McCain 1+ 3pm,2,0.5653,0.4488,2.23,2.34,2.07,-0.0697,1.004,1.85-2.10
 OKC @ IND,OKC win + Jared McCain 1+ 3pm,2,0.6072,0.5822,1.72,1.8,1.59,-0.0716,1.004,1.50-1.65
-OKC @ IND,OKC win + Isaiah Hartenstein 6+ reb,2,0.6045,0.5834,1.71,1.8,1.58,-0.0762,1.0,1.50-1.65
-OKC @ IND,Ajay Mitchell 4+ ast + Isaiah Hartenstein 6+ reb,2,0.5933,0.5019,1.99,2.09,1.82,-0.0875,1.004,1.65-1.85
-OKC @ IND,Ajay Mitchell 4+ ast + Jared McCain 1+ 3pm,2,0.5926,0.4981,2.01,2.11,1.83,-0.0881,1.002,1.65-1.85
-OKC @ IND,Shai Gilgeous-Alexander 4+ ast + Ajay Mitchell 20+ pra,2,0.6696,0.5786,1.73,1.81,1.57,-0.0913,1.006,1.50-1.65
+OKC @ IND,OKC win + Isaiah Hartenstein 6+ reb,2,0.6045,0.5828,1.72,1.8,1.59,-0.076,1.0,1.50-1.65
+OKC @ IND,Shai Gilgeous-Alexander 4+ reb + Ajay Mitchell 10+ pts,2,0.5791,0.4973,2.01,2.11,1.84,-0.0858,1.005,1.65-1.85
+OKC @ IND,Shai Gilgeous-Alexander 4+ reb + Ajay Mitchell 15+ pra,2,0.6017,0.5126,1.95,2.05,1.78,-0.0866,1.002,1.65-1.85
 MIL @ TOR,Brayden Burries pra under 19.5 + TOR win,2,0.5188,0.4259,2.35,2.47,2.38,0.0152,1.028,2.10-2.50
+MIL @ TOR,Brayden Burries pa under 14.5 + TOR win,2,0.5278,0.4431,2.26,2.37,2.29,0.0131,1.033,2.10-2.50
 MIL @ TOR,Tyler Herro pa under 24.5 + TOR win,2,0.5076,0.4406,2.27,2.38,2.3,0.0114,1.042,2.10-2.50
-MIL @ TOR,Brayden Burries pr under 16.5 + TOR win,2,0.4998,0.4163,2.4,2.52,2.43,0.0104,1.028,2.10-2.50
 MIL @ TOR,Brayden Burries 3pm under 1.5 + TOR win,2,0.5525,0.4913,2.04,2.14,1.98,-0.0258,1.011,1.85-2.10
-MIL @ TOR,Brayden Burries ra under 8.5 + TOR win,2,0.5221,0.4636,2.16,2.26,2.1,-0.0279,1.007,1.85-2.10
-MIL @ TOR,Brayden Burries pra under 19.5 + Ja'Kobe Walter 10+ pra,2,0.6734,0.4808,2.08,2.18,1.98,-0.0468,0.999,1.85-2.10
-MIL @ TOR,TOR win + Scottie Barnes 30+ pra,2,0.602,0.6277,1.59,1.67,1.51,-0.055,1.022,1.50-1.65
-MIL @ TOR,TOR win + Scottie Barnes 25+ pr,2,0.5807,0.6106,1.64,1.72,1.54,-0.0569,1.022,1.50-1.65
-MIL @ TOR,Myles Turner 3pm under 1.5 + Ja'Kobe Walter 10+ pra,2,0.7015,0.5292,1.89,1.98,1.77,-0.0634,0.999,1.65-1.85
-MIL @ TOR,Myles Turner 3pm under 1.5 + Scottie Barnes 4+ reb,2,0.6718,0.5102,1.96,2.06,1.83,-0.0643,0.999,1.65-1.85
-MIL @ TOR,Myles Turner 3pm under 1.5 + Scottie Barnes 20+ pa,2,0.6648,0.5062,1.98,2.07,1.85,-0.0647,0.999,1.65-1.85
-MIL @ TOR,Brayden Burries 3pm under 1.5 + Ja'Kobe Walter 10+ pra,2,0.7295,0.5641,1.77,1.86,1.65,-0.0696,0.999,1.50-1.65
+MIL @ TOR,Brayden Burries pra under 19.5 + Ja'Kobe Walter 10+ pra,2,0.6734,0.4827,2.07,2.18,1.97,-0.0477,0.999,1.85-2.10
+MIL @ TOR,Brayden Burries pra under 19.5 + Jakob Poeltl 4+ reb,2,0.6542,0.4729,2.11,2.22,2.01,-0.0477,1.001,1.85-2.10
+MIL @ TOR,Myles Turner 3pm under 1.5 + Jakob Poeltl 4+ reb,2,0.6817,0.5207,1.92,2.02,1.8,-0.0641,1.001,1.65-1.85
+MIL @ TOR,Myles Turner 3pm under 1.5 + Ja'Kobe Walter 10+ pra,2,0.7015,0.5313,1.88,1.98,1.76,-0.0643,0.999,1.65-1.85
+MIL @ TOR,Myles Turner 3pm under 1.5 + Scottie Barnes 4+ reb,2,0.6718,0.5133,1.95,2.05,1.82,-0.0656,0.999,1.65-1.85
+MIL @ TOR,Brayden Burries 3pm under 1.5 + Ja'Kobe Walter 10+ pra,2,0.7295,0.5663,1.77,1.85,1.64,-0.0705,0.999,1.50-1.65
+MIL @ TOR,TOR win + Scottie Barnes 4+ ast + Jakob Poeltl 4+ reb,3,0.592,0.5888,1.7,1.78,1.5,-0.1154,1.013,1.50-1.65
+MIL @ TOR,TOR win + Scottie Barnes 4+ ast + Myles Turner 5+ pa,3,0.5539,0.5409,1.85,1.94,1.62,-0.1255,0.997,1.50-1.65
 BKN @ MIN,Mikel Brown Jr. pa under 17.5 + MIN win,2,0.5304,0.4403,2.27,2.38,2.25,-0.0114,1.036,2.10-2.50
 BKN @ MIN,Mikel Brown Jr. pra under 19.5 + MIN win,2,0.5111,0.4292,2.33,2.45,2.3,-0.0141,1.037,2.10-2.50
 BKN @ MIN,Mikel Brown Jr. pts under 13.5 + MIN win,2,0.5226,0.4399,2.27,2.39,2.24,-0.0166,1.035,2.10-2.50
@@ -99,21 +99,22 @@ UTA @ LAL,Darryn Peterson pra under 28.5 + LAL win,2,0.6073,0.4792,2.09,2.19,2.0
 UTA @ LAL,Darryn Peterson pts under 18.5 + LAL win,2,0.5785,0.4632,2.16,2.27,2.14,-0.0108,1.026,2.10-2.50
 UTA @ LAL,Darryn Peterson pr under 23.5 + LAL win,2,0.5979,0.4782,2.09,2.2,2.06,-0.0131,1.023,1.85-2.10
 UTA @ LAL,Keyonte George pra under 33.5 + LAL win,2,0.551,0.4542,2.2,2.31,2.17,-0.0137,1.031,2.10-2.50
-UTA @ LAL,Darryn Peterson ra under 9.5 + LAL win,2,0.5582,0.4701,2.13,2.23,2.05,-0.0366,1.013,1.85-2.10
-UTA @ LAL,Jake LaRavia 5+ pa + Luka Doncic 1+ stl,2,0.7007,0.5817,1.72,1.8,1.57,-0.0881,0.999,1.50-1.65
-UTA @ LAL,Jake LaRavia 5+ pa + Collin Sexton 10+ pa,2,0.675,0.5754,1.74,1.82,1.58,-0.0908,1.003,1.50-1.65
-UTA @ LAL,Luka Doncic 1+ stl + Collin Sexton 10+ pa,2,0.6694,0.5901,1.69,1.78,1.53,-0.0994,1.001,1.50-1.65
-UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Collin Sexton 10+ pa,3,0.5758,0.498,2.01,2.11,1.81,-0.101,1.021,1.65-1.85
-UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Luka Doncic 1+ stl,3,0.5914,0.4982,2.01,2.11,1.79,-0.1079,1.007,1.65-1.85
-UTA @ LAL,LAL win + Luka Doncic 1+ stl + Collin Sexton 10+ pa,3,0.5656,0.5059,1.98,2.08,1.74,-0.118,1.01,1.65-1.85
+UTA @ LAL,Quentin Grimes pts under 17.5 + LAL win,2,0.6147,0.4696,2.13,2.24,2.06,-0.0344,0.987,1.85-2.10
+UTA @ LAL,Jake LaRavia 5+ pa + Luka Doncic 1+ stl,2,0.7007,0.5804,1.72,1.81,1.57,-0.0876,0.999,1.50-1.65
+UTA @ LAL,Jake LaRavia 5+ pa + Collin Sexton 10+ pa,2,0.675,0.5715,1.75,1.84,1.59,-0.0894,1.003,1.50-1.65
+UTA @ LAL,Luka Doncic 1+ stl + Collin Sexton 10+ pa,2,0.6694,0.5875,1.7,1.79,1.53,-0.0986,1.001,1.50-1.65
+UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Collin Sexton 10+ pa,3,0.5758,0.4947,2.02,2.12,1.82,-0.0996,1.021,1.65-1.85
+UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Matisse Thybulle 5+ pr,3,0.649,0.5417,1.85,1.94,1.66,-0.1009,1.013,1.65-1.85
+UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Luka Doncic 1+ stl,3,0.5914,0.497,2.01,2.11,1.8,-0.1073,1.007,1.65-1.85
 SAS @ SAC,SAS win + Domantas Sabonis pra under 31.5,2,0.4501,0.4097,2.44,2.56,2.37,-0.0288,1.042,2.10-2.50
-SAS @ SAC,SAS win + Domantas Sabonis pr under 26.5,2,0.4485,0.4052,2.47,2.59,2.39,-0.0305,1.038,2.10-2.50
 SAS @ SAC,SAS win + Keegan Murray pts under 12.5,2,0.4612,0.4236,2.36,2.48,2.28,-0.034,1.039,2.10-2.50
+SAS @ SAC,SAS win + Domantas Sabonis pr under 27.5,2,0.4826,0.4408,2.27,2.38,2.19,-0.0356,1.035,2.10-2.50
 SAS @ SAC,SAS win + Devin Vassell 2+ 3pm,2,0.5102,0.4634,2.16,2.27,2.03,-0.0578,1.01,1.85-2.10
+SAS @ SAC,SAS win + Devin Vassell 10+ pts,2,0.6442,0.6188,1.62,1.7,1.51,-0.068,1.013,1.50-1.65
+SAS @ SAC,Julian Champagnie pts under 13.5 + Darius Acuff Jr. 4+ ast,2,0.5823,0.4534,2.21,2.32,2.05,-0.0684,1.004,1.85-2.10
 SAS @ SAC,Darius Acuff Jr. 10+ ra + Devin Vassell 1+ 3pm,2,0.5844,0.4493,2.23,2.34,2.07,-0.0688,0.998,1.85-2.10
-SAS @ SAC,Julian Champagnie pts under 13.5 + Darius Acuff Jr. 4+ ast,2,0.5823,0.4544,2.2,2.31,2.05,-0.0689,1.004,1.85-2.10
 SAS @ SAC,Darius Acuff Jr. 10+ ra + Domantas Sabonis 10+ pa,2,0.6164,0.5051,1.98,2.08,1.83,-0.0745,1.007,1.65-1.85
-SAS @ SAC,Darius Acuff Jr. 10+ ra + Keegan Murray 10+ pra,2,0.6201,0.5051,1.98,2.08,1.83,-0.0755,1.005,1.65-1.85
-SAS @ SAC,Devin Vassell 2+ 3pm + Keegan Murray 10+ pra,2,0.612,0.5257,1.9,2.0,1.72,-0.0936,1.001,1.65-1.85
-SAS @ SAC,SAS win + Devin Vassell 10+ pts + Keegan Murray 10+ pra,3,0.6024,0.5632,1.78,1.86,1.55,-0.1279,1.008,1.50-1.65
-SAS @ SAC,SAS win + Devin Vassell 10+ pts + Domantas Sabonis 10+ pa,3,0.5962,0.5606,1.78,1.87,1.55,-0.1308,1.006,1.50-1.65
+SAS @ SAC,Darius Acuff Jr. 10+ ra + Keegan Murray 10+ pra,2,0.6201,0.5056,1.98,2.08,1.83,-0.0757,1.005,1.65-1.85
+SAS @ SAC,Devin Vassell 2+ 3pm + Keegan Murray 10+ pra,2,0.612,0.5262,1.9,2.0,1.72,-0.0938,1.001,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 10+ pts + Keegan Murray 10+ pra,3,0.6024,0.5609,1.78,1.87,1.56,-0.127,1.008,1.50-1.65
+SAS @ SAC,SAS win + Devin Vassell 10+ pts + Domantas Sabonis 10+ pa,3,0.5962,0.5579,1.79,1.88,1.56,-0.1297,1.006,1.50-1.65
