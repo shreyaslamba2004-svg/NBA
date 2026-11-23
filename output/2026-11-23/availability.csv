@@ -3,30 +3,30 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910036,CHA,1628960,Grayson Allen,Out,ConcussionProtocol,0.0,Allen (concussion) has been ruled out for Monday's game against the Grizzlies.,,
 401910036,CHA,905060701,Christian Anderson,,,1.0,,,
 401910036,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
-401910036,CHA,1631217,Moussa Diabate,,,1.0,,,
+401910036,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
 401910036,CHA,1641790,PJ Hall,,,1.0,,,
-401910036,CHA,1642883,Sion James,,,1.0,,,
+401910036,CHA,1642883,Sion James,Starting,,1.0,,,1.0
 401910036,CHA,1641750,Ryan Kalkbrenner,,,1.0,,,
 401910036,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.,,
 401910036,CHA,1642862,Liam McNeeley,,,1.0,,,
-401910036,CHA,1641706,Brandon Miller,Available,,1.0,,,
+401910036,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
 401910036,CHA,1626220,Royce O'Neale,,,1.0,,,
-401910036,CHA,1629675,Naz Reid,,,1.0,,,
+401910036,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
 401910036,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401910036,CHA,203471,Dennis Schroder,Out,Injury/Illness-LeftHamstringStrain,0.0,"Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",,
 401910036,CHA,905281370,Hannes Steinbach,,,1.0,,,
-401910036,CHA,1629632,Coby White,,,1.0,,,
+401910036,CHA,1629632,Coby White,Starting,,1.0,,,1.0
 401910036,CHA,1629684,Grant Williams,Out,,0.0,Williams (hamstring) won't play Monday's game against the Grizzlies.,,
 401910036,MEM,905041935,Cameron Boozer,Out,Injury/Illness-RightAnkleSprain,0.0,"Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports.",,
-401910036,MEM,1642907,Cedric Coward,,,1.0,,,
-401910036,MEM,1641744,Zach Edey,,,1.0,,,
+401910036,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
+401910036,MEM,1641744,Zach Edey,Starting,,1.0,,,1.0
 401910036,MEM,203924,Jerami Grant,Out,Injury/Illness-LeftCalfStrain,0.0,Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.,,
 401910036,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401910036,MEM,1641713,GG Jackson,Out,,0.0,Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.,,
-401910036,MEM,1629660,Ty Jerome,,,1.0,,,
+401910036,MEM,1629660,Ty Jerome,Starting,,1.0,,,1.0
 401910036,MEM,905231919,Karim Lopez,,,1.0,,,
 401910036,MEM,1642942,Jahmai Mashack,,,1.0,,,
-401910036,MEM,1631200,Kris Murray,,,1.0,,,
+401910036,MEM,1631200,Kris Murray,Starting,,1.0,,,1.0
 401910036,MEM,1630590,Scotty Pippen Jr.,Out,,0.0,Pippen (back) is progressing in his recovery but is still considered week-to-week.,,
 401910036,MEM,904593016,Quinten Post,,,1.0,,,
 401910036,MEM,1641765,Olivier-Maxence Prosper,,,1.0,,,
@@ -34,7 +34,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910036,MEM,1642914,Javon Small,,,1.0,,,
 401910036,MEM,1642285,Cam Spencer,,,1.0,,,
 401910036,MEM,1630191,Isaiah Stewart,,,1.0,,,
-401910036,MEM,1642377,Jaylen Wells,,,1.0,,,
+401910036,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
 401910037,PHI,1631230,Dominick Barlow,Starting,,1.0,,,1.0
 401910037,PHI,1641737,Adem Bona,Available,Injury/Illness-CervicalSpineSprain,1.0,,,
 401910037,PHI,1627759,Jaylen Brown,Starting,Injury/Illness-LeftHamstringStrain,1.0,,,1.0
@@ -80,7 +80,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910038,IND,1630174,Aaron Nesmith,Out,Injury/Illness-RightFootSoreness,0.0,Nesmith is out for Monday's game against the Thunder due to right foot soreness.,,
 401910038,IND,1626162,Kelly Oubre Jr.,,,1.0,,,
 401910038,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
-401910038,IND,1627783,Pascal Siakam,Questionable,,0.55,,,
+401910038,IND,1627783,Pascal Siakam,Available,,1.0,,,
 401910038,IND,1641771,Jalen Slawson,,,1.0,,,
 401910038,IND,905105854,Braden Smith,,,1.0,,,
 401910038,IND,1630167,Obi Toppin,,,1.0,,,
@@ -176,7 +176,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910040,BKN,1642874,Danny Wolf,,,1.0,,,
 401910041,CHI,905105555,Tobe Awaka,,,1.0,,,
 401910041,CHI,1641824,Matas Buzelis,,,1.0,,,
-401910041,CHI,1629651,Nic Claxton,Questionable,Injury/Illness-Illness,0.55,,,
+401910041,CHI,1629651,Nic Claxton,Available,-,1.0,,,
 401910041,CHI,1628380,Zach Collins,,,1.0,,,
 401910041,CHI,1642855,Noa Essengue,,,1.0,,,
 401910041,CHI,1630581,Josh Giddey,,,1.0,,,
@@ -188,7 +188,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910041,CHI,1626181,Norman Powell,Out,Injury/Illness-RightHamstringStrain,0.0,Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week.,,
 401910041,CHI,1631115,Orlando Robinson,,,1.0,,,
 401910041,CHI,904898010,Jaylin Sellers,,,1.0,,,
-401910041,CHI,1630188,Jalen Smith,Probable,Injury/Illness-GastrointestinalIllness,0.93,,,
+401910041,CHI,1630188,Jalen Smith,Available,-,1.0,,,
 401910041,CHI,904848625,Dailyn Swain,,,1.0,,,
 401910041,CHI,1630172,Patrick Williams,,,1.0,,,
 401910041,CHI,905095151,Caleb Wilson,Out,,0.0,"Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",,
@@ -242,8 +242,8 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910042,PHX,1642863,Khaman Maluach,,,1.0,,,
 401910042,PHX,905041953,Koa Peat,,,1.0,,,
 401910042,PHX,1641871,Duop Reath,,,1.0,,,
-401910042,PHX,1630311,Pat Spencer,,,1.0,,,
-401910042,PHX,1631166,Drew Timme,,,1.0,,,
+401910042,PHX,1630311,Pat Spencer,Out,GLeague-Two-Way,0.0,,,
+401910042,PHX,1631166,Drew Timme,Out,GLeague-Two-Way,0.0,,,
 401910042,PHX,1631109,Mark Williams,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports.",,
 401910043,HOU,203500,Steven Adams,Active,,1.0,,,
 401910043,HOU,203992,Bogdan Bogdanovic,Active,,1.0,,,
