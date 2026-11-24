@@ -4,28 +4,28 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910043,HOU,203991,Clint Capela,Active,,1.0,,,
 401910043,HOU,904683860,Quadir Copeland,Out,GLeague-Two-Way,0.0,,,
 401910043,HOU,1642384,Isaiah Crawford,Active,,1.0,,,
-401910043,HOU,201142,Kevin Durant,Starting,,1.0,,,1.0
+401910043,HOU,201142,Kevin Durant,Active,,1.0,,,
 401910043,HOU,1631106,Tari Eason,Active,,1.0,,,
 401910043,HOU,1641763,Julian Phillips,Out,GLeague-Two-Way,0.0,,,
-401910043,HOU,1630578,Alperen Sengun,Starting,,1.0,,,1.0
+401910043,HOU,1630578,Alperen Sengun,Active,,1.0,,,
 401910043,HOU,1642263,Reed Sheppard,Active,,1.0,,,
 401910043,HOU,203935,Marcus Smart,Active,,1.0,,,
-401910043,HOU,1631095,Jabari Smith Jr.,Starting,,1.0,,,1.0
+401910043,HOU,1631095,Jabari Smith Jr.,Active,,1.0,,,
 401910043,HOU,1630256,Jae'Sean Tate,Active,,1.0,,,
-401910043,HOU,1641708,Amen Thompson,Starting,,1.0,,,1.0
+401910043,HOU,1641708,Amen Thompson,Active,,1.0,,,
 401910043,HOU,905105837,Bruce Thornton,Active,,1.0,,,
 401910043,HOU,1631131,Oscar Tshiebwe,Active,,1.0,,,
-401910043,HOU,1627832,Fred VanVleet,Starting,,1.0,,,1.0
+401910043,HOU,1627832,Fred VanVleet,Active,,1.0,,,
 401910043,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401910043,LAC,1642353,Cam Christie,Out,GLeague-Two-Way,0.0,,,
 401910043,LAC,1641711,Gradey Dick,,,1.0,,,
 401910043,LAC,1627739,Kris Dunn,,,1.0,,,
-401910043,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
-401910043,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
-401910043,LAC,1627742,Brandon Ingram,Starting,,1.0,,,1.0
+401910043,LAC,1629636,Darius Garland,,,1.0,,,
+401910043,LAC,1629060,Rui Hachimura,,,1.0,,,
+401910043,LAC,1627742,Brandon Ingram,,,1.0,,,
 401910043,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401910043,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
-401910043,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
+401910043,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
+401910043,LAC,201572,Brook Lopez,,,1.0,,,
 401910043,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401910043,LAC,1641757,Baba Miller,,,1.0,,,
 401910043,LAC,905108024,Yanic Konan Niederhauser,,,1.0,,,
@@ -47,7 +47,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910044,LAL,1630572,Sandro Mamukelashvili,,,1.0,,,
 401910044,LAL,1643024,Chris Manon,,,1.0,,,
 401910044,LAL,905114350,AK Okereke,,,1.0,,,
-401910044,LAL,1630559,Austin Reaves,Out,,0.0,"Reaves (heel) has been ruled out for Monday's game against the Jazz, Jovan Buha of The Athletic reports.",,
+401910044,LAL,1630559,Austin Reaves,Out,,0.0,"Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Friday's game against San Antonio, Daniel Starkand of LakersNation.com reports.",,
 401910044,LAL,1629012,Collin Sexton,,,1.0,,,
 401910044,LAL,1642876,Adou Thiero,,,1.0,,,
 401910044,LAL,1629680,Matisse Thybulle,,,1.0,,,

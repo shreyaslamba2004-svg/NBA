@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAC @ HOU,Darius Garland pts under 17.5 + HOU win,2,0.4384,0.4322,2.31,2.43,2.32,0.0028,1.049,2.10-2.50
-LAC @ HOU,Amen Thompson 16+ pts + HOU win,2,0.3958,0.4302,2.32,2.44,2.32,-0.002,1.046,2.10-2.50
-LAC @ HOU,Darius Garland pra under 26.5 + HOU win,2,0.4752,0.4433,2.26,2.37,2.24,-0.0051,1.05,2.10-2.50
-LAC @ HOU,Amen Thompson 10+ ra + HOU win,2,0.4916,0.4646,2.15,2.26,2.06,-0.0432,1.012,1.85-2.10
-LAC @ HOU,Brandon Ingram 15+ pr + Jabari Smith Jr. 15+ pra,2,0.6486,0.4698,2.13,2.24,2.02,-0.0498,1.002,1.85-2.10
-LAC @ HOU,Brandon Ingram 15+ pr + Derrick Jones Jr. 5+ pa,2,0.6287,0.4631,2.16,2.27,2.05,-0.0505,1.006,1.85-2.10
-LAC @ HOU,Brandon Ingram 3+ reb + HOU win,2,0.556,0.5165,1.94,2.03,1.83,-0.0545,0.998,1.65-1.85
-LAC @ HOU,Brandon Ingram 3+ reb + Jabari Smith Jr. 15+ pra,2,0.682,0.5222,1.91,2.01,1.79,-0.0675,1.002,1.65-1.85
-LAC @ HOU,Brandon Ingram 15+ pra + HOU win,2,0.598,0.561,1.78,1.87,1.66,-0.0676,0.985,1.65-1.85
-LAC @ HOU,Jabari Smith Jr. 15+ pr + Kris Dunn 5+ pa,2,0.6836,0.5985,1.67,1.75,1.51,-0.0958,1.004,1.50-1.65
-LAC @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Fred VanVleet 10+ pr,3,0.5652,0.5557,1.8,1.89,1.61,-0.1071,1.024,1.50-1.65
-LAC @ HOU,HOU win + Fred VanVleet 10+ pr + Jabari Smith Jr. 10+ pa,3,0.5986,0.5941,1.68,1.77,1.5,-0.1075,1.026,1.50-1.65
+LAC @ HOU,Jabari Smith Jr. 14+ pts + HOU win,2,0.4441,0.4498,2.22,2.33,2.21,-0.0082,1.043,2.10-2.50
+LAC @ HOU,Kevin Durant 21+ pts + HOU win,2,0.4255,0.4543,2.2,2.31,2.17,-0.0148,1.049,2.10-2.50
+LAC @ HOU,Jabari Smith Jr. 16+ pa + HOU win,2,0.4459,0.4428,2.26,2.37,2.21,-0.0194,1.045,2.10-2.50
+LAC @ HOU,Kevin Durant 4+ ast + HOU win,2,0.5091,0.4882,2.05,2.15,1.97,-0.0404,1.02,1.85-2.10
+LAC @ HOU,Kevin Durant 9+ ra + HOU win,2,0.5002,0.476,2.1,2.21,2.0,-0.0477,1.01,1.85-2.10
+LAC @ HOU,Darius Garland 18+ pts + Jabari Smith Jr. 15+ pra,2,0.5693,0.4557,2.19,2.3,2.07,-0.0545,1.003,1.85-2.10
+LAC @ HOU,Kris Dunn 5+ pr + Jabari Smith Jr. 10+ pts,2,0.7038,0.5686,1.76,1.85,1.62,-0.0798,1.002,1.50-1.65
+LAC @ HOU,Kris Dunn 5+ pr + Max Strus 10+ pra,2,0.7086,0.5807,1.72,1.81,1.58,-0.0811,1.004,1.50-1.65
+LAC @ HOU,Kris Dunn 5+ pr + Jabari Smith Jr. 15+ pr,2,0.7328,0.5916,1.69,1.77,1.55,-0.0813,1.0,1.50-1.65
+LAC @ HOU,HOU win + Derrick Jones Jr. 5+ pa + Jabari Smith Jr. 10+ pts,3,0.5623,0.5282,1.89,1.99,1.69,-0.1084,1.011,1.65-1.85
+LAC @ HOU,HOU win + Kris Dunn 5+ pr + Jabari Smith Jr. 15+ pr,3,0.5413,0.4942,2.02,2.12,1.8,-0.1098,1.002,1.65-1.85
+LAC @ HOU,HOU win + Kris Dunn 5+ pr + Jabari Smith Jr. 10+ pa,3,0.567,0.5204,1.92,2.02,1.71,-0.1114,1.002,1.65-1.85
 UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.3981,2.51,2.64,2.44,-0.0281,1.001,2.10-2.50
 UTA @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5848,0.4357,2.3,2.41,2.22,-0.0326,0.985,2.10-2.50
 UTA @ LAL,Quentin Grimes pa under 20.5 + Brice Sensabaugh 10+ pr,2,0.6103,0.4116,2.43,2.55,2.35,-0.0331,1.001,2.10-2.50
@@ -23,14 +23,15 @@ UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pa,2,0.6882,0.5194,1.93,2.0
 UTA @ LAL,LAL win + Brice Sensabaugh 10+ pts,2,0.6187,0.5199,1.92,2.02,1.8,-0.0646,0.986,1.65-1.85
 UTA @ LAL,Josh Green 3pm under 1.5 + Matisse Thybulle 5+ pr,2,0.7402,0.5696,1.76,1.84,1.63,-0.0693,1.0,1.50-1.65
 UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.7553,0.5886,1.7,1.78,1.58,-0.071,1.001,1.50-1.65
-SAS @ SAC,Precious Achiuwa 6+ pts + Devin Vassell 1+ 3pm,2,0.6721,0.4431,2.26,2.37,2.21,-0.022,1.002,2.10-2.50
-SAS @ SAC,Precious Achiuwa 6+ pts + Devin Vassell 15+ pa,2,0.6109,0.4054,2.47,2.59,2.41,-0.0227,1.003,2.10-2.50
-SAS @ SAC,SAS win + Devin Vassell 20+ pa,2,0.441,0.4408,2.27,2.38,2.22,-0.0231,1.05,2.10-2.50
+SAS @ SAC,SAS win + Keegan Murray pa under 14.5,2,0.4506,0.4507,2.22,2.33,2.45,0.1022,1.047,2.10-2.50
+SAS @ SAC,SAS win + Devin Vassell 3+ ast,2,0.527,0.4962,2.02,2.12,2.2,0.0918,1.02,2.10-2.50
+SAS @ SAC,SAS win + Precious Achiuwa 11+ pr,2,0.5122,0.4355,2.3,2.41,2.49,0.0867,0.986,2.10-2.50
+SAS @ SAC,SAS win + Devin Vassell 15+ pa,2,0.6104,0.6433,1.55,1.63,1.65,0.0613,1.022,1.50-1.65
+SAS @ SAC,SAS win + Devin Vassell 1+ 3pm,2,0.6621,0.6934,1.44,1.51,1.51,0.0471,1.007,1.50-1.65
+SAS @ SAC,SAS win + Devin Vassell 15+ pa + Stephon Castle 1+ 3pm,3,0.5355,0.5421,1.84,1.94,1.86,0.0104,1.031,1.85-2.10
+SAS @ SAC,SAS win + Devin Vassell 15+ pa + Darius Acuff Jr. 4+ ast,3,0.5511,0.548,1.82,1.92,1.83,0.0002,1.017,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 1+ 3pm + Stephon Castle 1+ 3pm,3,0.58,0.5835,1.71,1.8,1.71,-0.0045,1.015,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 15+ pa + Keegan Murray 10+ pra,3,0.5716,0.5841,1.71,1.8,1.7,-0.0073,1.016,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 15+ pra + Stephon Castle 1+ 3pm,3,0.6034,0.6273,1.59,1.67,1.58,-0.0108,1.016,1.50-1.65
 SAS @ SAC,Precious Achiuwa 6+ pts + Devin Vassell 15+ pra,2,0.6992,0.4765,2.1,2.2,2.04,-0.028,1.003,1.85-2.10
 SAS @ SAC,Precious Achiuwa 6+ pts + Keegan Murray 10+ pra,2,0.7032,0.4858,2.06,2.16,1.99,-0.0317,1.003,1.85-2.10
-SAS @ SAC,Devin Vassell 3+ ast + SAS win,2,0.527,0.4962,2.02,2.12,1.95,-0.0342,1.02,1.85-2.10
-SAS @ SAC,Devin Vassell 3+ ast + Darius Acuff Jr. 4+ ast,2,0.6431,0.5047,1.98,2.08,1.84,-0.0717,1.001,1.65-1.85
-SAS @ SAC,Devin Vassell 3+ ast + Keegan Murray 10+ pra,2,0.6668,0.5378,1.86,1.95,1.71,-0.079,0.999,1.65-1.85
-SAS @ SAC,Darius Acuff Jr. 10+ ra + Devin Vassell 15+ pra,2,0.6026,0.4981,2.01,2.11,1.85,-0.08,1.005,1.65-1.85
-SAS @ SAC,SAS win + Devin Vassell 15+ pa + Stephon Castle 1+ 3pm,3,0.5355,0.5421,1.84,1.94,1.65,-0.1062,1.031,1.50-1.65
-SAS @ SAC,SAS win + Devin Vassell 1+ 3pm + Stephon Castle 1+ 3pm,3,0.58,0.5835,1.71,1.8,1.51,-0.1194,1.015,1.50-1.65
