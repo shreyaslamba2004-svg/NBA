@@ -1,37 +1,37 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pts,2,0.5315,0.4175,2.4,2.51,2.24,-0.0634,1.01,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Ausar Thompson 10+ pa,2,0.5622,0.431,2.32,2.44,2.17,-0.0635,1.004,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.541,0.4165,2.4,2.52,2.24,-0.0658,1.003,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Ausar Thompson 15+ pra,2,0.5862,0.4595,2.18,2.29,2.03,-0.0662,1.007,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Ausar Thompson 10+ pr,2,0.6129,0.4817,2.08,2.18,1.93,-0.0696,1.004,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Wendell Carter Jr. 5+ pa,2,0.6282,0.4872,2.05,2.15,1.91,-0.0698,1.0,1.85-2.10
-DET @ ORL,Desmond Bane 3pm under 3.5 + Wendell Carter Jr. 5+ pa,2,0.638,0.5201,1.92,2.02,1.76,-0.0841,0.999,1.65-1.85
-DET @ ORL,Paul Reed 17+ pr + Wendell Carter Jr. 5+ pa,2,0.6065,0.4987,2.01,2.11,1.83,-0.0852,1.001,1.65-1.85
-DET @ ORL,Desmond Bane 3pm under 3.5 + Ausar Thompson 10+ pr,2,0.6212,0.5131,1.95,2.05,1.78,-0.0857,1.0,1.65-1.85
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.6755,0.565,1.77,1.86,1.61,-0.09,0.999,1.50-1.65
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + Desmond Bane 10+ pr,2,0.6746,0.5688,1.76,1.85,1.6,-0.0913,0.999,1.50-1.65
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + John Collins 5+ pa,2,0.6525,0.5527,1.81,1.9,1.64,-0.0936,0.998,1.50-1.65
-BOS @ WAS,AJ Dybantsa pa under 19.5 + BOS win,2,0.4657,0.4402,2.27,2.39,2.21,-0.0293,1.048,2.10-2.50
-BOS @ WAS,AJ Dybantsa pts under 16.5 + BOS win,2,0.4699,0.4433,2.26,2.37,2.18,-0.0327,1.044,2.10-2.50
-BOS @ WAS,Anthony Davis 13+ ra + Bilal Coulibaly 5+ pa,2,0.5469,0.3933,2.54,2.67,2.43,-0.0428,1.009,2.10-2.50
-BOS @ WAS,Payton Pritchard 7+ ra + BOS win,2,0.4686,0.4482,2.23,2.34,2.1,-0.0592,1.019,1.85-2.10
-BOS @ WAS,Kyshawn George 4+ reb + BOS win,2,0.5144,0.4849,2.06,2.17,1.92,-0.0698,1.004,1.85-2.10
-BOS @ WAS,BOS win + Payton Pritchard 15+ pra,2,0.604,0.6068,1.65,1.73,1.53,-0.0708,1.019,1.50-1.65
-BOS @ WAS,Bilal Coulibaly 11+ pr + Anthony Davis 6+ reb,2,0.5597,0.449,2.23,2.34,2.06,-0.0738,1.006,1.85-2.10
-BOS @ WAS,Anthony Davis 10+ reb + Kyshawn George 10+ pr,2,0.6317,0.5054,1.98,2.08,1.83,-0.0749,1.002,1.65-1.85
-BOS @ WAS,Trae Young stl under 1.5 + Bilal Coulibaly 5+ pa,2,0.6614,0.5172,1.93,2.03,1.79,-0.0751,0.999,1.65-1.85
-BOS @ WAS,Anthony Davis 10+ reb + Kyshawn George 10+ pa,2,0.6258,0.5036,1.99,2.08,1.83,-0.0765,1.002,1.65-1.85
-BOS @ WAS,Trae Young stl under 1.5 + Anthony Davis 6+ reb,2,0.7077,0.5794,1.73,1.81,1.58,-0.084,1.0,1.50-1.65
-BOS @ WAS,Trae Young stl under 1.5 + Kyshawn George 10+ pr,2,0.7208,0.5907,1.69,1.78,1.55,-0.0843,1.0,1.50-1.65
-DAL @ DEN,Kyrie Irving pa under 27.5 + Jamal Murray 1+ 3pm,2,0.6429,0.4601,2.17,2.28,2.07,-0.0477,1.0,1.85-2.10
-DAL @ DEN,Kyrie Irving pa under 27.5 + Nikola Jokic 6+ ast,2,0.6359,0.4609,2.17,2.28,2.06,-0.0484,1.002,1.85-2.10
-DAL @ DEN,Kyrie Irving pts under 23.5 + Jamal Murray 1+ 3pm,2,0.6694,0.4848,2.06,2.17,1.96,-0.0499,1.002,1.85-2.10
-DAL @ DEN,Kyrie Irving pa under 27.5 + Cameron Johnson 10+ pa,2,0.5706,0.4127,2.42,2.54,2.29,-0.055,0.995,2.10-2.50
-DAL @ DEN,Kyrie Irving pa under 27.5 + Nikola Jokic 8+ reb,2,0.6088,0.4411,2.27,2.38,2.14,-0.0553,0.995,2.10-2.50
-DAL @ DEN,Kyrie Irving pa under 27.5 + Jamal Murray 4+ ast,2,0.5999,0.4411,2.27,2.38,2.14,-0.0561,0.998,2.10-2.50
-DAL @ DEN,Daniel Gafford reb under 7.5 + Jamal Murray 1+ 3pm,2,0.6399,0.5069,1.97,2.07,1.83,-0.0745,1.001,1.65-1.85
-DAL @ DEN,Daniel Gafford reb under 7.5 + Naji Marshall 5+ pa,2,0.6567,0.5255,1.9,2.0,1.76,-0.0776,1.0,1.65-1.85
-DAL @ DEN,Daniel Gafford reb under 7.5 + Nikola Jokic 6+ ast,2,0.6306,0.5059,1.98,2.08,1.82,-0.0786,1.0,1.65-1.85
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Naji Marshall 5+ pa,2,0.7029,0.5686,1.76,1.85,1.61,-0.0833,0.997,1.50-1.65
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Cameron Johnson 10+ pra,2,0.6846,0.5566,1.8,1.89,1.65,-0.0837,0.998,1.50-1.65
-DAL @ DEN,Zaccharie Risacher 5+ pa + Naji Marshall 10+ pra + Cameron Johnson 10+ pa,3,0.6506,0.5614,1.78,1.87,1.52,-0.1477,1.01,1.50-1.65
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pts,2,0.5315,0.4146,2.41,2.53,2.26,-0.062,1.01,2.10-2.50
+DET @ ORL,Desmond Bane 3pm under 3.5 + Ausar Thompson 10+ pa,2,0.5695,0.427,2.34,2.46,2.2,-0.0621,1.0,2.10-2.50
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.541,0.4098,2.44,2.56,2.29,-0.0622,1.003,2.10-2.50
+DET @ ORL,Paul Reed 10+ pts + Ausar Thompson 15+ pra,2,0.5862,0.4581,2.18,2.29,2.04,-0.0655,1.007,1.85-2.10
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pr,2,0.6163,0.4836,2.07,2.17,1.93,-0.0676,1.006,1.85-2.10
+DET @ ORL,Desmond Bane 3pm under 3.5 + Wendell Carter Jr. 5+ pa,2,0.638,0.4886,2.05,2.15,1.91,-0.068,0.999,1.85-2.10
+DET @ ORL,Ausar Thompson 4+ ast + Wendell Carter Jr. 5+ pa,2,0.6533,0.5387,1.86,1.95,1.7,-0.0838,1.002,1.65-1.85
+DET @ ORL,Ausar Thompson 4+ ast + John Collins 5+ pa,2,0.6326,0.5263,1.9,2.0,1.74,-0.0845,1.003,1.65-1.85
+DET @ ORL,Ausar Thompson 4+ ast + Desmond Bane 15+ pra,2,0.6173,0.5125,1.95,2.05,1.78,-0.0853,1.002,1.65-1.85
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.6755,0.5616,1.78,1.87,1.62,-0.0885,0.999,1.50-1.65
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Anthony Black 10+ pr,2,0.6603,0.5533,1.81,1.9,1.65,-0.089,1.0,1.50-1.65
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Desmond Bane 10+ pr,2,0.6746,0.5642,1.77,1.86,1.61,-0.0895,0.999,1.50-1.65
+BOS @ WAS,Anthony Davis pts under 21.5 + BOS win,2,0.4309,0.4076,2.45,2.58,2.41,-0.0194,1.059,2.10-2.50
+BOS @ WAS,AJ Dybantsa pts under 15.5 + BOS win,2,0.428,0.4041,2.47,2.6,2.41,-0.0278,1.049,2.10-2.50
+BOS @ WAS,Payton Pritchard 7+ ra + BOS win,2,0.4686,0.446,2.24,2.35,2.12,-0.0552,1.019,2.10-2.50
+BOS @ WAS,Anthony Davis 13+ ra + Kyshawn George 10+ pr,2,0.5917,0.4579,2.18,2.29,2.04,-0.0653,1.003,1.85-2.10
+BOS @ WAS,Anthony Davis 13+ ra + Kyshawn George 10+ pa,2,0.5872,0.4576,2.19,2.29,2.04,-0.0654,1.005,1.85-2.10
+BOS @ WAS,Anthony Davis 10+ reb + BOS win,2,0.4815,0.45,2.22,2.33,2.07,-0.0692,1.002,1.85-2.10
+BOS @ WAS,BOS win + Payton Pritchard 15+ pra,2,0.604,0.6053,1.65,1.73,1.54,-0.0702,1.019,1.50-1.65
+BOS @ WAS,Trae Young stl under 1.5 + BOS win,2,0.5464,0.5193,1.93,2.02,1.77,-0.0806,0.994,1.65-1.85
+BOS @ WAS,BOS win + Jayson Tatum 2+ 3pm,2,0.5988,0.6029,1.66,1.74,1.52,-0.0822,1.007,1.50-1.65
+BOS @ WAS,BOS win + Anthony Davis 8+ reb,2,0.607,0.5965,1.68,1.76,1.54,-0.0832,1.0,1.50-1.65
+BOS @ WAS,Payton Pritchard 7+ ra + Kyshawn George 10+ pr,2,0.6043,0.5028,1.99,2.09,1.82,-0.0834,1.002,1.65-1.85
+BOS @ WAS,Payton Pritchard 7+ ra + Kyshawn George 10+ pa,2,0.5997,0.5025,1.99,2.09,1.82,-0.0835,1.003,1.65-1.85
+DAL @ DEN,Kyrie Irving pts under 23.5 + Nikola Jokic 8+ ast,2,0.568,0.4048,2.47,2.59,2.36,-0.0451,1.002,2.10-2.50
+DAL @ DEN,Kyrie Irving pts under 23.5 + Jamal Murray 1+ 3pm,2,0.6694,0.4794,2.09,2.19,1.99,-0.0464,1.002,1.85-2.10
+DAL @ DEN,Kyrie Irving pa under 28.5 + Nikola Jokic 8+ ast,2,0.5739,0.4106,2.44,2.56,2.32,-0.0466,1.001,2.10-2.50
+DAL @ DEN,Kyrie Irving pa under 28.5 + Jamal Murray 1+ 3pm,2,0.6756,0.4857,2.06,2.16,1.96,-0.0489,1.0,1.85-2.10
+DAL @ DEN,Kyrie Irving pra under 32.5 + Nikola Jokic 8+ ast,2,0.561,0.4031,2.48,2.6,2.36,-0.049,1.0,2.10-2.50
+DAL @ DEN,Kyrie Irving pr under 27.5 + Jamal Murray 1+ 3pm,2,0.6535,0.4739,2.11,2.22,2.01,-0.0495,1.002,1.85-2.10
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + Jamal Murray 1+ 3pm,2,0.6854,0.5379,1.86,1.95,1.72,-0.0743,0.999,1.65-1.85
+DAL @ DEN,Daniel Gafford reb under 7.5 + Jamal Murray 1+ 3pm,2,0.6399,0.5084,1.97,2.07,1.82,-0.0753,1.001,1.65-1.85
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pra,2,0.7064,0.5591,1.79,1.88,1.65,-0.0765,0.999,1.65-1.85
+DAL @ DEN,Nikola Jokic 8+ ast + Jamal Murray 1+ 3pm + Cameron Johnson 10+ pa,3,0.6365,0.5438,1.84,1.93,1.57,-0.1454,1.01,1.50-1.65
+DAL @ DEN,Nikola Jokic 8+ ast + Naji Marshall 5+ pa + Cameron Johnson 10+ pa,3,0.6529,0.5637,1.77,1.86,1.51,-0.1487,1.009,1.50-1.65
+DAL @ DEN,Nikola Jokic 8+ ast + Jamal Murray 1+ 3pm + Zaccharie Risacher 5+ pa,3,0.6588,0.5565,1.8,1.89,1.53,-0.149,1.003,1.50-1.65
