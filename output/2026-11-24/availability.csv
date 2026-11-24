@@ -17,14 +17,14 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909314,ORL,202696,Nikola Vucevic,,,1.0,,,
 401909314,ORL,1630532,Franz Wagner,Starting,,1.0,,,1.0
 401909314,DET,1628381,John Collins,Starting,,1.0,,,1.0
-401909314,DET,1630595,Cade Cunningham,Starting,Injury/Illness-RightKneeSoreness,1.0,Cunningham (knee) is probable for Tuesday's game against the Orlando.,,1.0
+401909314,DET,1630595,Cade Cunningham,Out,Injury/Illness-RightKneeSoreness,0.0,Cunningham (knee) is listed as out for Tuesday's game against Orlando.,,
 401909314,DET,1631105,Jalen Duren,Out,Injury/Illness-RightHamstringStrain,0.0,"Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",,
 401909314,DET,1629750,Javonte Green,,,1.0,,,
 401909314,DET,904397449,Elijah Harkless,,,1.0,,,
 401909314,DET,1641842,Ronald Holland II,,,1.0,,,
 401909314,DET,1628989,Kevin Huerter,Starting,,1.0,,,1.0
 401909314,DET,1642450,Daniss Jenkins,Starting,,1.0,,,1.0
-401909314,DET,1630198,Isaiah Joe,,,1.0,,,
+401909314,DET,1630198,Isaiah Joe,Starting,,1.0,,,1.0
 401909314,DET,905107818,Isaac Jones,Out,GLeague-Two-Way,0.0,,,
 401909314,DET,1642404,Chaz Lanier,,,1.0,,,
 401909314,DET,905258459,Ebuka Okorie,Out,Injury/Illness-LeftObliqueStrain,0.0,"The Pistons announced Tuesday that Okorie (oblique) will miss at least two weeks, per Eric Vincent of ClutchPoints.com.",,
