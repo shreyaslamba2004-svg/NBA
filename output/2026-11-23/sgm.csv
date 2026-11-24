@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAC @ HOU,Jabari Smith Jr. 14+ pts + HOU win,2,0.4441,0.4498,2.22,2.33,2.21,-0.0082,1.043,2.10-2.50
-LAC @ HOU,Kevin Durant 21+ pts + HOU win,2,0.4255,0.4543,2.2,2.31,2.17,-0.0148,1.049,2.10-2.50
-LAC @ HOU,Jabari Smith Jr. 16+ pa + HOU win,2,0.4459,0.4428,2.26,2.37,2.21,-0.0194,1.045,2.10-2.50
-LAC @ HOU,Kevin Durant 4+ ast + HOU win,2,0.5091,0.4882,2.05,2.15,1.97,-0.0404,1.02,1.85-2.10
-LAC @ HOU,Kevin Durant 9+ ra + HOU win,2,0.5002,0.476,2.1,2.21,2.0,-0.0477,1.01,1.85-2.10
-LAC @ HOU,Darius Garland 18+ pts + Jabari Smith Jr. 15+ pra,2,0.5693,0.4557,2.19,2.3,2.07,-0.0545,1.003,1.85-2.10
-LAC @ HOU,Kris Dunn 5+ pr + Jabari Smith Jr. 10+ pts,2,0.7038,0.5686,1.76,1.85,1.62,-0.0798,1.002,1.50-1.65
-LAC @ HOU,Kris Dunn 5+ pr + Max Strus 10+ pra,2,0.7086,0.5807,1.72,1.81,1.58,-0.0811,1.004,1.50-1.65
-LAC @ HOU,Kris Dunn 5+ pr + Jabari Smith Jr. 15+ pr,2,0.7328,0.5916,1.69,1.77,1.55,-0.0813,1.0,1.50-1.65
-LAC @ HOU,HOU win + Derrick Jones Jr. 5+ pa + Jabari Smith Jr. 10+ pts,3,0.5623,0.5282,1.89,1.99,1.69,-0.1084,1.011,1.65-1.85
-LAC @ HOU,HOU win + Kris Dunn 5+ pr + Jabari Smith Jr. 15+ pr,3,0.5413,0.4942,2.02,2.12,1.8,-0.1098,1.002,1.65-1.85
-LAC @ HOU,HOU win + Kris Dunn 5+ pr + Jabari Smith Jr. 10+ pa,3,0.567,0.5204,1.92,2.02,1.71,-0.1114,1.002,1.65-1.85
 UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.3981,2.51,2.64,2.44,-0.0281,1.001,2.10-2.50
 UTA @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5848,0.4357,2.3,2.41,2.22,-0.0326,0.985,2.10-2.50
 UTA @ LAL,Quentin Grimes pa under 20.5 + Brice Sensabaugh 10+ pr,2,0.6103,0.4116,2.43,2.55,2.35,-0.0331,1.001,2.10-2.50
