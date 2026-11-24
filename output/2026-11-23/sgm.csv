@@ -1,17 +1,17 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.3928,2.55,2.67,2.48,-0.0246,1.001,2.10-2.50
-UTA @ LAL,Quentin Grimes pa under 20.5 + Brice Sensabaugh 10+ pr,2,0.6103,0.4062,2.46,2.58,2.39,-0.0297,1.001,2.10-2.50
-UTA @ LAL,Quentin Grimes pra under 24.5 + Brice Sensabaugh 10+ pr,2,0.5969,0.3958,2.53,2.65,2.45,-0.0304,0.999,2.10-2.50
-UTA @ LAL,LAL win + Keyonte George ast under 7.5,2,0.5658,0.478,2.09,2.2,2.01,-0.037,1.019,1.85-2.10
+UTA @ LAL,Darryn Peterson pts under 17.5 + LAL win,2,0.5176,0.459,2.18,2.29,2.23,0.0239,1.029,2.10-2.50
+UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.4046,2.47,2.6,2.48,0.0048,1.001,2.10-2.50
+UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 1+ 3pm,2,0.6072,0.4252,2.35,2.47,2.34,-0.0037,1.002,2.10-2.50
 UTA @ LAL,Quentin Grimes pr under 21.5 + LAL win,2,0.6146,0.4693,2.13,2.24,2.05,-0.0383,0.988,1.85-2.10
-UTA @ LAL,LAL win + Keyonte George ra under 11.5,2,0.5718,0.4825,2.07,2.18,1.99,-0.0404,1.014,1.85-2.10
-UTA @ LAL,Josh Green 3pm under 1.5 + LAL win,2,0.7031,0.5841,1.71,1.8,1.64,-0.0426,1.008,1.50-1.65
-UTA @ LAL,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.7022,0.5133,1.95,2.05,1.83,-0.0589,0.998,1.65-1.85
-UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pa,2,0.6882,0.5164,1.94,2.03,1.82,-0.0626,1.001,1.65-1.85
-UTA @ LAL,Brice Sensabaugh 10+ pts + LAL win,2,0.6187,0.514,1.95,2.04,1.82,-0.0632,0.986,1.65-1.85
-UTA @ LAL,Josh Green 3pm under 1.5 + Matisse Thybulle 5+ pr,2,0.7402,0.5696,1.76,1.84,1.63,-0.0693,1.0,1.50-1.65
-UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.7553,0.5864,1.71,1.79,1.59,-0.0701,1.001,1.50-1.65
-SAS @ SAC,SAS win + Precious Achiuwa 6+ pts,2,0.5337,0.4389,2.28,2.39,2.5,0.0959,0.983,2.10-2.50
+UTA @ LAL,Quentin Grimes pr under 21.5 + Matisse Thybulle 5+ pr,2,0.6579,0.4654,2.15,2.26,2.04,-0.0493,0.997,1.85-2.10
+UTA @ LAL,Quentin Grimes pr under 21.5 + Svi Mykhailiuk 1+ 3pm,2,0.6496,0.4611,2.17,2.28,2.06,-0.0494,0.998,1.85-2.10
+UTA @ LAL,Jake LaRavia 5+ pa + Brice Sensabaugh 1+ 3pm,2,0.7451,0.6026,1.66,1.74,1.53,-0.0807,1.001,1.50-1.65
+UTA @ LAL,Jake LaRavia 5+ pa + Josh Green 5+ pr,2,0.7145,0.5824,1.72,1.8,1.58,-0.0816,1.002,1.50-1.65
+UTA @ LAL,Jake LaRavia 5+ pa + Luka Doncic 1+ stl,2,0.7103,0.5823,1.72,1.8,1.57,-0.0839,1.001,1.50-1.65
+UTA @ LAL,LAL win + Brice Sensabaugh 10+ pr + Jake LaRavia 5+ pa,3,0.6336,0.4888,2.05,2.15,1.85,-0.0972,1.0,1.65-1.85
+UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Luka Doncic 1+ stl,3,0.6155,0.4996,2.0,2.1,1.8,-0.1022,1.008,1.65-1.85
+UTA @ LAL,LAL win + Jake LaRavia 5+ pa + Brice Sensabaugh 1+ 3pm,3,0.6433,0.5151,1.94,2.04,1.74,-0.1023,1.004,1.65-1.85
+SAS @ SAC,SAS win + Precious Achiuwa 6+ pts,2,0.5337,0.4417,2.26,2.38,2.5,0.1029,0.983,2.10-2.50
 SAS @ SAC,SAS win + Keldon Johnson 2+ ast,2,0.5617,0.5182,1.93,2.03,2.11,0.0927,1.012,2.10-2.50
 SAS @ SAC,SAS win + Precious Achiuwa 11+ pr,2,0.5122,0.4493,2.23,2.34,2.4,0.079,0.986,2.10-2.50
 SAS @ SAC,SAS win + Devin Vassell 15+ pa,2,0.6104,0.65,1.54,1.62,1.63,0.0595,1.022,1.50-1.65
