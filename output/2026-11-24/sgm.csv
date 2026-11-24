@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pts,2,0.5315,0.4146,2.41,2.53,2.26,-0.062,1.01,2.10-2.50
-DET @ ORL,Desmond Bane 3pm under 3.5 + Ausar Thompson 10+ pa,2,0.5695,0.427,2.34,2.46,2.2,-0.0621,1.0,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.541,0.4098,2.44,2.56,2.29,-0.0622,1.003,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Ausar Thompson 15+ pra,2,0.5862,0.4581,2.18,2.29,2.04,-0.0655,1.007,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pr,2,0.6163,0.4836,2.07,2.17,1.93,-0.0676,1.006,1.85-2.10
-DET @ ORL,Desmond Bane 3pm under 3.5 + Wendell Carter Jr. 5+ pa,2,0.638,0.4886,2.05,2.15,1.91,-0.068,0.999,1.85-2.10
-DET @ ORL,Ausar Thompson 4+ ast + Wendell Carter Jr. 5+ pa,2,0.6533,0.5387,1.86,1.95,1.7,-0.0838,1.002,1.65-1.85
-DET @ ORL,Ausar Thompson 4+ ast + John Collins 5+ pa,2,0.6326,0.5263,1.9,2.0,1.74,-0.0845,1.003,1.65-1.85
-DET @ ORL,Ausar Thompson 4+ ast + Desmond Bane 15+ pra,2,0.6173,0.5125,1.95,2.05,1.78,-0.0853,1.002,1.65-1.85
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.6755,0.5616,1.78,1.87,1.62,-0.0885,0.999,1.50-1.65
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + Anthony Black 10+ pr,2,0.6603,0.5533,1.81,1.9,1.65,-0.089,1.0,1.50-1.65
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + Desmond Bane 10+ pr,2,0.6746,0.5642,1.77,1.86,1.61,-0.0895,0.999,1.50-1.65
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pts,2,0.5315,0.4187,2.39,2.51,2.23,-0.0647,1.01,2.10-2.50
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.541,0.4186,2.39,2.51,2.23,-0.0675,1.003,2.10-2.50
+DET @ ORL,Paul Reed 10+ pts + Jalen Suggs 1+ 3pm,2,0.5479,0.432,2.31,2.43,2.16,-0.0682,1.007,2.10-2.50
+DET @ ORL,Paul Reed 10+ pts + Ausar Thompson 15+ pra,2,0.5862,0.4675,2.14,2.25,1.99,-0.0705,1.007,1.85-2.10
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pr,2,0.6163,0.4907,2.04,2.14,1.89,-0.0713,1.006,1.85-2.10
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pa,2,0.6181,0.4929,2.03,2.13,1.88,-0.0722,1.005,1.85-2.10
+DET @ ORL,Ausar Thompson 4+ ast + Wendell Carter Jr. 5+ pa,2,0.6533,0.5386,1.86,1.95,1.71,-0.0815,1.002,1.65-1.85
+DET @ ORL,Ausar Thompson 4+ ast + John Collins 5+ pa,2,0.6326,0.5271,1.9,1.99,1.74,-0.0825,1.003,1.65-1.85
+DET @ ORL,Ausar Thompson 4+ ast + Desmond Bane 10+ pts,2,0.6006,0.5011,2.0,2.1,1.83,-0.0832,1.003,1.65-1.85
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.6755,0.5604,1.78,1.87,1.63,-0.088,0.999,1.50-1.65
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Anthony Black 10+ pr,2,0.6603,0.5548,1.8,1.89,1.64,-0.0895,1.0,1.50-1.65
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Anthony Black 10+ pa,2,0.6613,0.5565,1.8,1.89,1.63,-0.0915,0.999,1.50-1.65
 BOS @ WAS,Anthony Davis pts under 21.5 + BOS win,2,0.4309,0.4076,2.45,2.58,2.41,-0.0194,1.059,2.10-2.50
 BOS @ WAS,AJ Dybantsa pts under 15.5 + BOS win,2,0.428,0.4041,2.47,2.6,2.41,-0.0278,1.049,2.10-2.50
 BOS @ WAS,Payton Pritchard 7+ ra + BOS win,2,0.4686,0.446,2.24,2.35,2.12,-0.0552,1.019,2.10-2.50
@@ -34,4 +34,4 @@ DAL @ DEN,Daniel Gafford reb under 7.5 + Jamal Murray 1+ 3pm,2,0.6399,0.5084,1.9
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pra,2,0.7064,0.5591,1.79,1.88,1.65,-0.0765,0.999,1.65-1.85
 DAL @ DEN,Nikola Jokic 8+ ast + Jamal Murray 1+ 3pm + Cameron Johnson 10+ pa,3,0.6365,0.5438,1.84,1.93,1.57,-0.1454,1.01,1.50-1.65
 DAL @ DEN,Nikola Jokic 8+ ast + Naji Marshall 5+ pa + Cameron Johnson 10+ pa,3,0.6529,0.5637,1.77,1.86,1.51,-0.1487,1.009,1.50-1.65
-DAL @ DEN,Nikola Jokic 8+ ast + Jamal Murray 1+ 3pm + Zaccharie Risacher 5+ pa,3,0.6588,0.5565,1.8,1.89,1.53,-0.149,1.003,1.50-1.65
+DAL @ DEN,Nikola Jokic 8+ ast + Jamal Murray 1+ 3pm + Zaccharie Risacher 5+ pa,3,0.6588,0.5573,1.79,1.88,1.53,-0.1493,1.003,1.50-1.65
