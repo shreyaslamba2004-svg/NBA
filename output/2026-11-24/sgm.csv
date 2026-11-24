@@ -14,6 +14,8 @@ DET @ ORL,Ausar Thompson 10+ pa + Anthony Black 10+ pts + John Collins 5+ pa,3,0
 BOS @ WAS,Anthony Davis pts under 21.5 + BOS win,2,0.4309,0.4252,2.35,2.47,2.3,-0.0216,1.059,2.10-2.50
 BOS @ WAS,AJ Dybantsa pts under 16.5 + BOS win,2,0.4699,0.4426,2.26,2.37,2.21,-0.0241,1.044,2.10-2.50
 BOS @ WAS,BOS win + Alex Sarr pts under 10.5,2,0.4151,0.4331,2.31,2.42,2.21,-0.0415,1.049,2.10-2.50
-BOS @ WAS,BOS win + Kyshawn George 3pm under 2.5,2,0.4371,0.4839,2.07,2.17,1.91,-0.0755,1.034,1.85-2.10
-BOS @ WAS,BOS win + Trae Young 2+ 3pm,2,0.4568,0.4719,2.12,2.22,1.88,-0.1125,0.977,1.85-2.10
-DAL @ DEN,DEN win + game under 232.5,2,0.3156,0.3762,2.66,2.79,2.42,-0.0879,0.994,2.10-2.50
+BOS @ WAS,BOS win + Jayson Tatum 3+ 3pm,2,0.4577,0.4473,2.24,2.35,2.1,-0.0612,1.019,1.85-2.10
+BOS @ WAS,BOS win + Trae Young 2+ 3pm,2,0.4568,0.4673,2.14,2.25,1.91,-0.1091,0.977,1.85-2.10
+DAL @ DEN,DEN win + Jamal Murray 3+ 3pm,2,0.4082,0.3822,2.62,2.75,2.47,-0.0573,1.024,2.10-2.50
+DAL @ DEN,Aaron Gordon 3pm under 1.5 + DEN win,2,0.4738,0.4178,2.39,2.51,2.2,-0.0787,0.986,2.10-2.50
+DAL @ DEN,DEN win + game under 232.5,2,0.3156,0.3726,2.68,2.82,2.45,-0.0883,0.994,2.10-2.50
