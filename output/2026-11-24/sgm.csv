@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DET @ ORL,ORL +2.5 + Anthony Black 10+ pts,2,0.417,0.4054,2.47,2.59,2.32,-0.0603,1.036,2.10-2.50
-DET @ ORL,game over 212.5 + Desmond Bane 15+ pr,2,0.554,0.4081,2.45,2.57,2.3,-0.0605,1.041,2.10-2.50
 DET @ ORL,DET win + Daniss Jenkins 10+ pa,2,0.5375,0.5158,1.94,2.04,1.82,-0.0621,1.013,1.65-1.85
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 1+ 3pm,2,0.633,0.4726,2.12,2.22,1.98,-0.0632,0.997,1.85-2.10
 DET @ ORL,game over 212.5 + Anthony Black 10+ pts,2,0.5394,0.3928,2.55,2.67,2.38,-0.0649,1.033,2.10-2.50
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 10+ pts,2,0.6202,0.4757,2.1,2.21,1.96,-0.0663,1.0,1.85-2.10
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pr,2,0.7389,0.566,1.77,1.86,1.65,-0.0667,1.0,1.50-1.65
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 15+ pra,2,0.7002,0.5362,1.86,1.96,1.74,-0.0672,0.999,1.65-1.85
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.7396,0.5668,1.76,1.85,1.65,-0.0673,0.999,1.50-1.65
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Jalen Suggs 1+ 3pm,2,0.6353,0.4878,2.05,2.15,1.91,-0.0683,0.999,1.85-2.10
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pts,2,0.6797,0.5224,1.91,2.01,1.78,-0.0686,0.998,1.65-1.85
-DET @ ORL,Anthony Black 1+ 3pm + Desmond Bane 15+ pra + Jalen Suggs 1+ 3pm,3,0.6328,0.5385,1.86,1.95,1.58,-0.1497,1.004,1.50-1.65
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.7396,0.567,1.76,1.85,1.64,-0.0674,0.999,1.50-1.65
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.5383,0.4189,2.39,2.51,2.22,-0.068,1.002,2.10-2.50
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Paul Reed 4+ reb,2,0.6711,0.5205,1.92,2.02,1.79,-0.0681,1.001,1.65-1.85
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Jalen Suggs 1+ 3pm,2,0.6353,0.4877,2.05,2.15,1.91,-0.0682,0.999,1.85-2.10
+DET @ ORL,Anthony Black 1+ 3pm + Desmond Bane 15+ pra + Jalen Suggs 1+ 3pm,3,0.6328,0.5384,1.86,1.95,1.58,-0.1496,1.004,1.50-1.65
 BOS @ WAS,BOS win + AJ Dybantsa pts under 15.5,2,0.4365,0.4043,2.47,2.6,2.46,-0.0044,1.056,2.10-2.50
 BOS @ WAS,WAS +10.5 + Trae Young 6+ ast,2,0.4716,0.3904,2.56,2.69,2.49,-0.0264,1.031,2.10-2.50
 BOS @ WAS,WAS +10.5 + Kyshawn George 10+ pts,2,0.4743,0.401,2.49,2.62,2.43,-0.0272,1.035,2.10-2.50
@@ -24,14 +24,14 @@ BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7411,0.5631,1.78,1
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Alex Sarr 10+ pra,2,0.7339,0.5695,1.76,1.84,1.63,-0.0695,1.001,1.50-1.65
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Trae Young 1+ 3pm,2,0.6916,0.5373,1.86,1.95,1.73,-0.0703,1.0,1.65-1.85
 DAL @ DEN,Cooper Flagg pra under 37.5 + DEN win,2,0.4798,0.4046,2.47,2.6,2.46,-0.0043,1.051,2.10-2.50
-DAL @ DEN,Kyrie Irving pr under 26.5 + DEN win,2,0.4895,0.4025,2.48,2.61,2.47,-0.0055,1.042,2.10-2.50
 DAL @ DEN,Cooper Flagg pts under 24.5 + DEN win,2,0.472,0.4022,2.49,2.61,2.46,-0.0102,1.047,2.10-2.50
-DAL @ DEN,Kyrie Irving pa under 27.5 + Jamal Murray 1+ 3pm,2,0.6418,0.4631,2.16,2.27,2.05,-0.0516,0.998,1.85-2.10
-DAL @ DEN,Kyrie Irving pa under 27.5 + Zaccharie Risacher 5+ pra,2,0.6603,0.4755,2.1,2.21,1.99,-0.0522,0.997,1.85-2.10
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + DEN win,2,0.5327,0.4487,2.23,2.34,2.15,-0.0333,1.02,2.10-2.50
+DAL @ DEN,Kyrie Irving pa under 27.5 + Jamal Murray 1+ 3pm,2,0.6418,0.4635,2.16,2.27,2.05,-0.0517,0.998,1.85-2.10
 DAL @ DEN,Kyrie Irving pa under 27.5 + Nikola Jokic 6+ ast,2,0.6343,0.4639,2.16,2.26,2.04,-0.0534,0.999,1.85-2.10
+DAL @ DEN,Kyrie Irving pa under 27.5 + Cameron Johnson 10+ pra,2,0.6389,0.4674,2.14,2.25,2.02,-0.0554,0.997,1.85-2.10
 DAL @ DEN,DEN win + Nikola Jokic 8+ ast,2,0.582,0.5721,1.75,1.84,1.63,-0.0681,1.022,1.50-1.65
 DAL @ DEN,DEN win + Cameron Johnson 10+ pa,2,0.605,0.5985,1.67,1.75,1.55,-0.0741,1.017,1.50-1.65
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Jamal Murray 1+ 3pm,2,0.6891,0.5433,1.84,1.93,1.7,-0.0742,1.0,1.65-1.85
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Zaccharie Risacher 5+ pra,2,0.7094,0.5581,1.79,1.88,1.66,-0.0742,0.999,1.65-1.85
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5192,1.93,2.02,1.78,-0.0764,0.999,1.65-1.85
-DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5956,1.68,1.76,1.51,-0.0978,0.987,1.50-1.65
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + Jamal Murray 1+ 3pm,2,0.6891,0.5437,1.84,1.93,1.7,-0.0743,1.0,1.65-1.85
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5184,1.93,2.03,1.78,-0.0761,0.999,1.65-1.85
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 6+ ast,2,0.6803,0.5435,1.84,1.93,1.7,-0.077,1.0,1.65-1.85
+DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5876,1.7,1.79,1.54,-0.0949,0.987,1.50-1.65
