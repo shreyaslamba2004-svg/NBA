@@ -3195,7 +3195,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,ast,8.5,False,0.1523,0.2204,book,0.2081
 401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,ast,9.5,False,0.0919,0.1399,book,0.1312
 401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,fg3m,0.5,False,0.7795,0.7928,book,0.7904
-401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,fg3m,1.5,True,0.4594,0.5192,book,0.5084
+401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,fg3m,1.5,True,0.4594,0.5155,book,0.5054
 401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,fg3m,2.5,False,0.2094,0.2765,book,0.2644
 401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,fg3m,3.5,False,0.0806,0.1316,book,0.1224
 401909316,DAL @ DEN,DAL,1642843,Cooper Flagg,stl,0.5,False,0.6941,,model only,0.6941
@@ -3256,11 +3256,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,reb,7.5,False,0.3233,0.4154,book,0.3987
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,reb,8.5,False,0.2258,0.3074,book,0.2926
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,reb,9.5,False,0.152,0.2204,book,0.208
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,0.5,False,0.8073,0.814,est,0.8128
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,1.5,True,0.5139,0.5247,book,0.5228
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,2.5,False,0.2639,0.2724,est,0.2709
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,3.5,False,0.1159,0.1204,est,0.1196
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,4.5,False,0.0443,0.0615,book,0.0584
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,0.5,False,0.8073,0.8247,est,0.8215
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,1.5,True,0.5139,0.5427,book,0.5375
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,2.5,False,0.2639,0.287,est,0.2828
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,3.5,False,0.1159,0.1283,est,0.126
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ast,4.5,False,0.0443,0.0687,book,0.0643
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,fg3m,0.5,False,0.0242,,model only,0.0242
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,fg3m,1.5,False,0.0003,,model only,0.0003
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,fg3m,2.5,False,0.0,,model only,0.0
@@ -3269,17 +3269,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,blk,0.5,False,0.6767,,model only,0.6767
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,blk,1.5,False,0.3347,,model only,0.3347
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,blk,2.5,False,0.1324,,model only,0.1324
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,12.5,False,0.7641,0.7897,est,0.7851
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,13.5,False,0.7129,0.7422,est,0.7369
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,14.5,False,0.6548,0.6874,est,0.6815
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,15.5,False,0.6,0.6349,est,0.6286
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,16.5,False,0.544,0.5804,est,0.5738
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,17.5,True,0.4877,0.5247,book,0.518
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,18.5,False,0.434,0.4707,est,0.464
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,19.5,False,0.3797,0.4151,est,0.4087
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,20.5,False,0.3312,0.3647,est,0.3586
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,21.5,False,0.2847,0.3157,est,0.3101
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,22.5,False,0.2441,0.2724,est,0.2673
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,13.5,False,0.7129,0.7449,est,0.7391
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,14.5,False,0.6548,0.6905,est,0.684
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,15.5,False,0.6,0.6382,est,0.6313
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,16.5,False,0.544,0.5839,est,0.5766
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,17.5,False,0.4877,0.5282,est,0.5209
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,18.5,True,0.434,0.4742,book,0.4669
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,19.5,False,0.3797,0.4186,est,0.4116
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,20.5,False,0.3312,0.368,est,0.3613
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,21.5,False,0.2847,0.3188,est,0.3126
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,22.5,False,0.2441,0.2752,est,0.2696
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pra,23.5,False,0.2089,0.2369,est,0.2318
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pr,12.5,False,0.6846,0.7156,est,0.71
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pr,13.5,False,0.6225,0.6566,est,0.6504
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pr,14.5,False,0.5617,0.5976,est,0.5911
@@ -3289,22 +3289,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pr,18.5,False,0.3313,0.3647,est,0.3587
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pr,19.5,False,0.281,0.3118,est,0.3062
 401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pr,20.5,False,0.2381,0.266,est,0.2609
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,6.5,False,0.8216,0.8221,est,0.822
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,7.5,False,0.7545,0.7551,est,0.755
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,8.5,False,0.6793,0.68,est,0.6799
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,9.5,False,0.6042,0.6049,est,0.6048
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,10.5,True,0.5319,0.5326,book,0.5325
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,11.5,False,0.4602,0.4609,est,0.4608
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,12.5,False,0.3918,0.3925,est,0.3924
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,13.5,False,0.3301,0.3308,est,0.3307
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,14.5,False,0.2744,0.275,est,0.2749
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,5.5,False,0.7429,0.8035,est,0.7925
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,6.5,False,0.6384,0.7142,est,0.7005
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,7.5,False,0.5277,0.6126,est,0.5972
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,8.5,True,0.4179,0.504,book,0.4884
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,9.5,False,0.3212,0.4011,est,0.3866
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,10.5,False,0.2376,0.3061,est,0.2937
-401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,11.5,False,0.1718,0.227,est,0.217
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,7.5,False,0.7545,0.7581,est,0.7574
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,8.5,False,0.6793,0.6835,est,0.6828
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,9.5,False,0.6042,0.6088,est,0.608
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,10.5,False,0.5319,0.5367,est,0.5358
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,11.5,True,0.4602,0.465,book,0.4641
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,12.5,False,0.3918,0.3965,est,0.3956
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,13.5,False,0.3301,0.3344,est,0.3337
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,14.5,False,0.2744,0.2783,est,0.2776
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,pa,15.5,False,0.2263,0.2298,est,0.2291
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,5.5,False,0.7429,0.8111,est,0.7987
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,6.5,False,0.6384,0.7241,est,0.7086
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,7.5,False,0.5277,0.6241,est,0.6067
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,8.5,True,0.4179,0.5162,book,0.4984
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,9.5,False,0.3212,0.4129,est,0.3963
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,10.5,False,0.2376,0.3166,est,0.3023
+401909316,DAL @ DEN,DAL,1629655,Daniel Gafford,ra,11.5,False,0.1718,0.2356,est,0.2241
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pts,18.5,False,0.5061,0.6818,est,0.65
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pts,19.5,False,0.4566,0.6373,est,0.6046
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pts,20.5,False,0.4105,0.5927,est,0.5597
@@ -3338,17 +3338,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,stl,2.5,False,0.1159,,model only,0.1159
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,blk,0.5,False,0.3136,,model only,0.3136
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,blk,1.5,False,0.0555,,model only,0.0555
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,26.5,False,0.5279,0.6967,est,0.6661
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,27.5,False,0.4864,0.6604,est,0.6289
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,28.5,False,0.4447,0.6219,est,0.5898
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,29.5,False,0.4046,0.5826,est,0.5504
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,30.5,False,0.3667,0.5432,est,0.5112
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,31.5,True,0.3336,0.5069,book,0.4755
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,32.5,False,0.2984,0.4663,est,0.4359
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,33.5,False,0.2665,0.4273,est,0.3982
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,34.5,False,0.2378,0.3905,est,0.3628
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,35.5,False,0.2114,0.3551,est,0.3291
-401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,36.5,False,0.1867,0.3204,est,0.2962
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,26.5,False,0.5279,0.6974,est,0.6668
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,27.5,False,0.4864,0.6612,est,0.6296
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,28.5,False,0.4447,0.6227,est,0.5905
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,29.5,False,0.4046,0.5835,est,0.5511
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,30.5,False,0.3667,0.5441,est,0.512
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,31.5,True,0.3336,0.5078,book,0.4763
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,32.5,False,0.2984,0.4672,est,0.4366
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,33.5,False,0.2665,0.4282,est,0.3989
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,34.5,False,0.2378,0.3913,est,0.3635
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,35.5,False,0.2114,0.3559,est,0.3298
+401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pra,36.5,False,0.1867,0.3212,est,0.2968
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pr,22.5,False,0.5123,0.6748,est,0.6454
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pr,23.5,False,0.4676,0.6343,est,0.6041
 401909316,DAL @ DEN,DAL,202681,Kyrie Irving,pr,24.5,False,0.4229,0.5913,est,0.5608
