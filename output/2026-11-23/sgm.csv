@@ -13,25 +13,24 @@ LAC @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Fred VanVleet 10+ pr,3,0.5652,0.55
 LAC @ HOU,HOU win + Fred VanVleet 10+ pr + Jabari Smith Jr. 10+ pa,3,0.5986,0.5941,1.68,1.77,1.5,-0.1075,1.026,1.50-1.65
 UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.3981,2.51,2.64,2.44,-0.0281,1.001,2.10-2.50
 UTA @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5848,0.4357,2.3,2.41,2.22,-0.0326,0.985,2.10-2.50
-UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 1+ 3pm,2,0.6072,0.4132,2.42,2.54,2.34,-0.0331,1.002,2.10-2.50
+UTA @ LAL,Quentin Grimes pa under 20.5 + Brice Sensabaugh 10+ pr,2,0.6103,0.4116,2.43,2.55,2.35,-0.0331,1.001,2.10-2.50
 UTA @ LAL,Quentin Grimes pr under 21.5 + LAL win,2,0.6146,0.4699,2.13,2.23,2.05,-0.0371,0.988,1.85-2.10
 UTA @ LAL,LAL win + Keyonte George ast under 7.5,2,0.5658,0.4848,2.06,2.17,1.98,-0.039,1.019,1.85-2.10
 UTA @ LAL,Josh Green 3pm under 1.5 + LAL win,2,0.7031,0.5848,1.71,1.8,1.64,-0.0414,1.008,1.50-1.65
 UTA @ LAL,LAL win + Keyonte George ra under 11.5,2,0.5718,0.4893,2.04,2.15,1.96,-0.0417,1.014,1.85-2.10
 UTA @ LAL,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.7022,0.5202,1.92,2.02,1.8,-0.0622,0.998,1.65-1.85
 UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pa,2,0.6882,0.5194,1.93,2.02,1.8,-0.0641,1.001,1.65-1.85
-UTA @ LAL,LAL win + Brice Sensabaugh 10+ pts,2,0.6187,0.5225,1.91,2.01,1.79,-0.0659,0.986,1.65-1.85
+UTA @ LAL,LAL win + Brice Sensabaugh 10+ pts,2,0.6187,0.5199,1.92,2.02,1.8,-0.0646,0.986,1.65-1.85
 UTA @ LAL,Josh Green 3pm under 1.5 + Matisse Thybulle 5+ pr,2,0.7402,0.5696,1.76,1.84,1.63,-0.0693,1.0,1.50-1.65
 UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.7553,0.5886,1.7,1.78,1.58,-0.071,1.001,1.50-1.65
-SAS @ SAC,SAS win + Keegan Murray pts under 12.5,2,0.4671,0.437,2.29,2.4,2.23,-0.0274,1.044,2.10-2.50
-SAS @ SAC,Precious Achiuwa 6+ pts + Devin Vassell 1+ 3pm,2,0.6627,0.4443,2.25,2.36,2.19,-0.0275,1.002,2.10-2.50
-SAS @ SAC,SAS win + Keegan Murray pra under 19.5,2,0.4611,0.4331,2.31,2.42,2.25,-0.0276,1.045,2.10-2.50
-SAS @ SAC,SAS win + Keegan Murray pr under 18.5,2,0.4924,0.4632,2.16,2.27,2.09,-0.0339,1.038,1.85-2.10
-SAS @ SAC,Precious Achiuwa 6+ pts + Domantas Sabonis 10+ pa,2,0.6922,0.4901,2.04,2.14,1.97,-0.035,1.007,1.85-2.10
-SAS @ SAC,Precious Achiuwa 6+ pts + Keegan Murray 10+ pra,2,0.6941,0.4896,2.04,2.14,1.97,-0.0372,1.004,1.85-2.10
-SAS @ SAC,Darius Acuff Jr. 3+ reb + Devin Vassell 1+ 3pm,2,0.6355,0.5044,1.98,2.08,1.83,-0.0775,0.998,1.65-1.85
-SAS @ SAC,Darius Acuff Jr. 3+ reb + Stephon Castle 10+ pts,2,0.6577,0.5434,1.84,1.93,1.68,-0.085,1.0,1.65-1.85
-SAS @ SAC,Darius Acuff Jr. 3+ reb + Keegan Murray 10+ pra,2,0.6668,0.5568,1.8,1.89,1.64,-0.0851,1.002,1.50-1.65
-SAS @ SAC,Darius Acuff Jr. 3+ reb + Stephon Castle 15+ pr,2,0.6426,0.5334,1.87,1.97,1.71,-0.0855,1.0,1.65-1.85
-SAS @ SAC,Darius Acuff Jr. 3+ reb + Domantas Sabonis 10+ pa,2,0.6626,0.5555,1.8,1.89,1.64,-0.0863,1.002,1.50-1.65
-SAS @ SAC,SAS win + Devin Vassell 1+ 3pm + Darius Acuff Jr. 4+ ast,3,0.629,0.5732,1.74,1.83,1.52,-0.1293,0.995,1.50-1.65
+SAS @ SAC,Precious Achiuwa 6+ pts + Devin Vassell 1+ 3pm,2,0.6721,0.4431,2.26,2.37,2.21,-0.022,1.002,2.10-2.50
+SAS @ SAC,Precious Achiuwa 6+ pts + Devin Vassell 15+ pa,2,0.6109,0.4054,2.47,2.59,2.41,-0.0227,1.003,2.10-2.50
+SAS @ SAC,SAS win + Devin Vassell 20+ pa,2,0.441,0.4408,2.27,2.38,2.22,-0.0231,1.05,2.10-2.50
+SAS @ SAC,Precious Achiuwa 6+ pts + Devin Vassell 15+ pra,2,0.6992,0.4765,2.1,2.2,2.04,-0.028,1.003,1.85-2.10
+SAS @ SAC,Precious Achiuwa 6+ pts + Keegan Murray 10+ pra,2,0.7032,0.4858,2.06,2.16,1.99,-0.0317,1.003,1.85-2.10
+SAS @ SAC,Devin Vassell 3+ ast + SAS win,2,0.527,0.4962,2.02,2.12,1.95,-0.0342,1.02,1.85-2.10
+SAS @ SAC,Devin Vassell 3+ ast + Darius Acuff Jr. 4+ ast,2,0.6431,0.5047,1.98,2.08,1.84,-0.0717,1.001,1.65-1.85
+SAS @ SAC,Devin Vassell 3+ ast + Keegan Murray 10+ pra,2,0.6668,0.5378,1.86,1.95,1.71,-0.079,0.999,1.65-1.85
+SAS @ SAC,Darius Acuff Jr. 10+ ra + Devin Vassell 15+ pra,2,0.6026,0.4981,2.01,2.11,1.85,-0.08,1.005,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 15+ pa + Stephon Castle 1+ 3pm,3,0.5355,0.5421,1.84,1.94,1.65,-0.1062,1.031,1.50-1.65
+SAS @ SAC,SAS win + Devin Vassell 1+ 3pm + Stephon Castle 1+ 3pm,3,0.58,0.5835,1.71,1.8,1.51,-0.1194,1.015,1.50-1.65
