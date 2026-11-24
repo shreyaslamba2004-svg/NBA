@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ORL,DET win + Ausar Thompson 10+ pr,2,0.5316,0.5112,1.96,2.05,1.83,-0.0643,1.011,1.65-1.85
-DET @ ORL,ORL +2.5 + Desmond Bane 15+ pr,2,0.4231,0.4158,2.4,2.52,2.24,-0.0673,1.031,2.10-2.50
+DET @ ORL,ORL +2.5 + Anthony Black 10+ pts,2,0.417,0.4093,2.44,2.57,2.29,-0.0625,1.036,2.10-2.50
+DET @ ORL,DET win + Ausar Thompson 10+ pr,2,0.5316,0.5108,1.96,2.06,1.83,-0.064,1.011,1.65-1.85
+DET @ ORL,ORL +2.5 + Desmond Bane 15+ pr,2,0.4231,0.4161,2.4,2.52,2.24,-0.0674,1.031,2.10-2.50
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 1+ 3pm,2,0.633,0.4828,2.07,2.18,1.93,-0.0686,0.997,1.85-2.10
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.7396,0.5718,1.75,1.84,1.63,-0.0699,0.999,1.50-1.65
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pr,2,0.7389,0.5736,1.74,1.83,1.62,-0.0703,1.0,1.50-1.65
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 15+ pra,2,0.7002,0.5438,1.84,1.93,1.71,-0.0708,0.999,1.65-1.85
+DET @ ORL,Paul Reed 17+ pr + Anthony Black 1+ 3pm,2,0.5236,0.4194,2.38,2.5,2.22,-0.071,1.003,2.10-2.50
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 10+ pts,2,0.6202,0.4861,2.06,2.16,1.91,-0.0718,1.0,1.85-2.10
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Ausar Thompson 10+ pr,2,0.7188,0.5649,1.77,1.86,1.64,-0.0727,1.0,1.50-1.65
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 10+ pr,2,0.7224,0.5642,1.77,1.86,1.64,-0.0728,0.998,1.50-1.65
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pts,2,0.6797,0.5325,1.88,1.97,1.74,-0.0734,0.998,1.65-1.85
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.5383,0.4258,2.35,2.47,2.18,-0.0735,1.002,2.10-2.50
-DET @ ORL,Paul Reed 17+ pr + Anthony Black 1+ 3pm,2,0.5236,0.4181,2.39,2.51,2.22,-0.0737,1.003,2.10-2.50
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Jalen Suggs 1+ 3pm,2,0.6353,0.5,2.0,2.1,1.85,-0.0743,0.999,1.85-2.10
-DET @ ORL,ORL +2.5 + Desmond Bane 15+ pra,2,0.4627,0.45,2.22,2.33,2.05,-0.0777,1.017,1.85-2.10
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Jalen Suggs 1+ 3pm,2,0.6353,0.4989,2.0,2.1,1.86,-0.0738,0.999,1.85-2.10
 BOS @ WAS,BOS win + AJ Dybantsa pts under 15.5,2,0.4365,0.4043,2.47,2.6,2.46,-0.0044,1.056,2.10-2.50
 BOS @ WAS,WAS +10.5 + Trae Young 6+ ast,2,0.4716,0.3904,2.56,2.69,2.49,-0.0264,1.031,2.10-2.50
 BOS @ WAS,WAS +10.5 + Kyshawn George 10+ pts,2,0.4743,0.401,2.49,2.62,2.43,-0.0272,1.035,2.10-2.50
