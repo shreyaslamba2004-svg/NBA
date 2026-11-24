@@ -1,13 +1,13 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910044,LAL,905113969,Cameron Carr,,,1.0,,,
 401910044,LAL,905105817,Carson Cooper,,,1.0,,,
-401910044,LAL,1629029,Luka Doncic,,,1.0,,,
-401910044,LAL,1629656,Quentin Grimes,Available,Injury/Illness-RightFingerSplint,1.0,,,
+401910044,LAL,1629029,Luka Doncic,Starting,,1.0,,,1.0
+401910044,LAL,1629656,Quentin Grimes,Starting,Injury/Illness-RightFingerSplint,1.0,,,1.0
 401910044,LAL,1630702,Jaden Hardy,,,1.0,,,
 401910044,LAL,904683774,Bronny James,,,1.0,,,
 401910044,LAL,904433599,Arthur Kaluma,,,1.0,,,
-401910044,LAL,1631117,Walker Kessler,,,1.0,,,
-401910044,LAL,1631222,Jake LaRavia,,,1.0,,,
+401910044,LAL,1631117,Walker Kessler,Starting,,1.0,,,1.0
+401910044,LAL,1631222,Jake LaRavia,Starting,,1.0,,,1.0
 401910044,LAL,1626172,Kevon Looney,,,1.0,,,
 401910044,LAL,1630572,Sandro Mamukelashvili,,,1.0,,,
 401910044,LAL,1643024,Chris Manon,,,1.0,,,
@@ -15,18 +15,18 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910044,LAL,1630559,Austin Reaves,Out,,0.0,"Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Friday's game against San Antonio, Daniel Starkand of LakersNation.com reports.",,
 401910044,LAL,1629012,Collin Sexton,,,1.0,,,
 401910044,LAL,1642876,Adou Thiero,,,1.0,,,
-401910044,LAL,1629680,Matisse Thybulle,,,1.0,,,
+401910044,LAL,1629680,Matisse Thybulle,Starting,,1.0,,,1.0
 401910044,LAL,1629020,Jarred Vanderbilt,,,1.0,,,
 401910044,LAL,1630533,Ziaire Williams,,,1.0,,,
 401910044,UTA,904684682,Jonas Aidoo,,,1.0,,,
-401910044,UTA,1642846,Ace Bailey,,,1.0,,,
-401910044,UTA,1628964,Mo Bamba,,,1.0,,,
+401910044,UTA,1642846,Ace Bailey,Starting,,1.0,,,1.0
+401910044,UTA,1628964,Mo Bamba,Starting,,1.0,,,1.0
 401910044,UTA,1628396,Tony Bradley,,,1.0,,,
 401910044,UTA,1641723,Kobe Bufkin,,,1.0,,,
 401910044,UTA,1642268,Isaiah Collier,,,1.0,,,
 401910044,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401910044,UTA,1641718,Keyonte George,,,1.0,,,
-401910044,UTA,1630182,Josh Green,,,1.0,,,
+401910044,UTA,1641718,Keyonte George,Starting,,1.0,,,1.0
+401910044,UTA,1630182,Josh Green,Starting,,1.0,,,1.0
 401910044,UTA,1629637,Jaxson Hayes,Out,Injury/Illness-LeftKneeStrain,0.0,Hayes (knee) has been ruled out for Monday's game against the Lakers.,,
 401910044,UTA,904433618,Harrison Ingram,,,1.0,,,
 401910044,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
@@ -34,40 +34,40 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401910044,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
 401910044,UTA,203994,Jusuf Nurkic,Out,Injury/Illness-Right2ndPlantar,0.0,Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week.,,
 401910044,UTA,1629006,Josh Okogie,,,1.0,,,
-401910044,UTA,905041955,Darryn Peterson,,,1.0,,,
+401910044,UTA,905041955,Darryn Peterson,Starting,,1.0,,,1.0
 401910044,UTA,1641729,Brice Sensabaugh,,,1.0,,,
 401910045,SAC,1630173,Precious Achiuwa,,,1.0,,,
-401910045,SAC,905142620,Darius Acuff Jr.,,,1.0,,,
+401910045,SAC,905142620,Darius Acuff Jr.,Starting,,1.0,,,1.0
 401910045,SAC,1641778,Leaky Black,,,1.0,,,
 401910045,SAC,1642928,Dylan Cardwell,,,1.0,,,
-401910045,SAC,1629631,De'Andre Hunter,,,1.0,,,
+401910045,SAC,1629631,De'Andre Hunter,Starting,,1.0,,,1.0
 401910045,SAC,904917149,Alex Karaban,,,1.0,,,
-401910045,SAC,203897,Zach LaVine,,,1.0,,,
+401910045,SAC,203897,Zach LaVine,Starting,,1.0,,,1.0
 401910045,SAC,905107897,Jonathan Mogbo,Out,GLeague-Two-Way,0.0,,,
 401910045,SAC,1628370,Malik Monk,,,1.0,,,
-401910045,SAC,1631099,Keegan Murray,,,1.0,,,
+401910045,SAC,1631099,Keegan Murray,Starting,,1.0,,,1.0
 401910045,SAC,904709131,Sean Pedulla,Out,GLeague-Two-Way,0.0,,,
 401910045,SAC,1631342,Daeqwon Plowden,,,1.0,,,
 401910045,SAC,203486,Mason Plumlee,,,1.0,,,
 401910045,SAC,1642875,Maxime Raynaud,Out,,0.0,Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.,,
-401910045,SAC,1627734,Domantas Sabonis,,,1.0,,,
+401910045,SAC,1627734,Domantas Sabonis,Starting,,1.0,,,1.0
 401910045,SAC,905106058,Emanuel Sharp,,,1.0,,,
 401910045,SAC,1627732,Ben Simmons,Out,,0.0,"Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports.",,
 401910045,SAC,1629216,Gabe Vincent,,,1.0,,,
-401910045,SAS,203084,Harrison Barnes,,,1.0,,,
+401910045,SAS,203084,Harrison Barnes,Starting,,1.0,,,1.0
 401910045,SAS,905105337,Maliq Brown,,,1.0,,,
 401910045,SAS,1642868,Carter Bryant,,,1.0,,,
-401910045,SAS,1642264,Stephon Castle,,,1.0,,,
-401910045,SAS,1630577,Julian Champagnie,,,1.0,,,
+401910045,SAS,1642264,Stephon Castle,Starting,,1.0,,,1.0
+401910045,SAS,1630577,Julian Champagnie,Starting,,1.0,,,1.0
 401910045,SAS,1628368,De'Aaron Fox,Out,Injury/Illness-RightShinContusion,0.0,"Fox (shin) has been ruled out for Monday's game against the Kings, Jeff McDonald of the San Antonio Express-News reports.",,
 401910045,SAS,905107968,Ja'Kobi Gillespie,,,1.0,,,
 401910045,SAS,1642844,Dylan Harper,Out,,0.0,"Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports.",,
 401910045,SAS,202699,Tobias Harris,Out,Injury/Illness-LeftCalfStrain,0.0,"Harris (calf) is likely to be sidelined until early December, per Jeff Garcia of KENS 5 San Antonio.",,
 401910045,SAS,1629640,Keldon Johnson,,,1.0,,,
 401910045,SAS,1642357,David Jones Garcia,,,1.0,,,
-401910045,SAS,1628436,Luke Kornet,,,1.0,,,
+401910045,SAS,1628436,Luke Kornet,Starting,,1.0,,,1.0
 401910045,SAS,1629162,Jordan McLaughlin,Available,-,1.0,,,
 401910045,SAS,905101845,Jayden Quaintance,Out,Injury/Illness-RightKneeSurgery,0.0,"Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",,
 401910045,SAS,905105809,Tarris Reed Jr.,,,1.0,,,
-401910045,SAS,1630170,Devin Vassell,,,1.0,,,
+401910045,SAS,1630170,Devin Vassell,Starting,,1.0,,,1.0
 401910045,SAS,1641705,Victor Wembanyama,Out,,0.0,"Wembanyama (back) won't play Monday against the Kings, Jeff McDonald of the San Antonio Express-News reports.",,
