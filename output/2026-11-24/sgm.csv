@@ -1,21 +1,20 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DET @ ORL,game over 212.5 + Desmond Bane 15+ pr,2,0.554,0.4079,2.45,2.57,2.31,-0.0563,1.041,2.10-2.50
-DET @ ORL,ORL +2.5 + Anthony Black 10+ pts,2,0.417,0.4037,2.48,2.6,2.33,-0.0594,1.036,2.10-2.50
-DET @ ORL,game over 212.5 + Anthony Black 10+ pts,2,0.5394,0.3925,2.55,2.68,2.39,-0.0607,1.033,2.10-2.50
-DET @ ORL,DET win + Daniss Jenkins 10+ pa,2,0.5375,0.5151,1.94,2.04,1.82,-0.0618,1.013,1.65-1.85
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 1+ 3pm,2,0.633,0.4755,2.1,2.21,1.97,-0.065,0.997,1.85-2.10
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 10+ pts,2,0.6202,0.477,2.1,2.2,1.96,-0.0673,1.0,1.85-2.10
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pr,2,0.7389,0.5697,1.76,1.84,1.64,-0.0684,1.0,1.50-1.65
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 15+ pra,2,0.7002,0.539,1.86,1.95,1.73,-0.0686,0.999,1.65-1.85
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.7396,0.5693,1.76,1.84,1.64,-0.0686,0.999,1.50-1.65
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Jalen Suggs 1+ 3pm,2,0.6353,0.4896,2.04,2.14,1.9,-0.0694,0.999,1.85-2.10
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pts,2,0.6797,0.5274,1.9,1.99,1.76,-0.071,0.998,1.65-1.85
-DET @ ORL,Isaiah Joe 3pm under 2.5 + Daniss Jenkins 10+ pa,2,0.7246,0.5651,1.77,1.86,1.64,-0.072,0.999,1.50-1.65
+DET @ ORL,ORL +2.5 + Anthony Black 10+ pts,2,0.417,0.4004,2.5,2.62,2.35,-0.0576,1.036,2.10-2.50
+DET @ ORL,game over 212.5 + Anthony Black 10+ pts,2,0.5394,0.3893,2.57,2.7,2.42,-0.0589,1.033,2.10-2.50
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 1+ 3pm,2,0.633,0.473,2.11,2.22,1.98,-0.0636,0.997,1.85-2.10
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 10+ pts,2,0.6202,0.4707,2.12,2.23,1.99,-0.0641,1.0,1.85-2.10
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pr,2,0.7389,0.5667,1.76,1.85,1.65,-0.0671,1.0,1.50-1.65
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 15+ pra,2,0.7002,0.5361,1.87,1.96,1.74,-0.0672,0.999,1.65-1.85
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.7396,0.5662,1.77,1.85,1.65,-0.0673,0.999,1.50-1.65
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Jalen Suggs 1+ 3pm,2,0.6353,0.4891,2.04,2.15,1.9,-0.0689,0.999,1.85-2.10
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Desmond Bane 10+ pts,2,0.6797,0.5238,1.91,2.0,1.78,-0.0693,0.998,1.65-1.85
+DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 10+ pa,2,0.7222,0.5565,1.8,1.89,1.67,-0.0705,0.997,1.65-1.85
+DET @ ORL,Anthony Black 10+ pts + Desmond Bane 15+ pra + Jalen Suggs 1+ 3pm,3,0.6219,0.5365,1.86,1.96,1.59,-0.1472,1.01,1.50-1.65
 BOS @ WAS,BOS win + AJ Dybantsa pts under 15.5,2,0.4365,0.4043,2.47,2.6,2.46,-0.0044,1.056,2.10-2.50
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Trae Young stl under 1.5,2,0.5966,0.4241,2.36,2.48,2.25,-0.0442,1.006,2.10-2.50
-BOS @ WAS,Anthony Davis 13+ ra + Bilal Coulibaly 5+ pa,2,0.5425,0.3903,2.56,2.69,2.45,-0.0455,1.005,2.10-2.50
+BOS @ WAS,WAS +10.5 + Trae Young 6+ ast,2,0.4716,0.3904,2.56,2.69,2.46,-0.04,1.031,2.10-2.50
+BOS @ WAS,WAS +10.5 + Kyshawn George 10+ pts,2,0.4743,0.401,2.49,2.62,2.39,-0.0408,1.035,2.10-2.50
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6958,0.5053,1.98,2.08,1.87,-0.0553,1.0,1.85-2.10
-BOS @ WAS,BOS win + Trae Young stl under 1.5,2,0.5539,0.5168,1.94,2.03,1.82,-0.0574,1.002,1.65-1.85
 BOS @ WAS,Sam Hauser 3pm under 2.5 + BOS win,2,0.5682,0.4971,2.01,2.11,1.89,-0.0593,0.983,1.85-2.10
 BOS @ WAS,Trae Young 8+ ast + Anthony Davis 6+ reb,2,0.594,0.4584,2.18,2.29,2.05,-0.0599,1.004,1.85-2.10
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Kyshawn George 10+ pr,2,0.756,0.5739,1.74,1.83,1.63,-0.0655,1.0,1.50-1.65
@@ -23,6 +22,7 @@ BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.705,0.5358,1.87,1.96
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Alex Sarr 5+ pa,2,0.7528,0.5769,1.73,1.82,1.62,-0.0671,1.0,1.50-1.65
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7411,0.5631,1.78,1.86,1.66,-0.0671,0.998,1.65-1.85
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Alex Sarr 10+ pra,2,0.7339,0.5682,1.76,1.85,1.64,-0.0691,1.001,1.50-1.65
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Trae Young 1+ 3pm,2,0.6916,0.5373,1.86,1.95,1.73,-0.0703,1.0,1.65-1.85
 DAL @ DEN,Cooper Flagg pra under 37.5 + DEN win,2,0.4798,0.4046,2.47,2.6,2.46,-0.0043,1.051,2.10-2.50
 DAL @ DEN,Cooper Flagg pts under 24.5 + DEN win,2,0.472,0.4022,2.49,2.61,2.46,-0.0102,1.047,2.10-2.50
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + DEN win,2,0.5327,0.4487,2.23,2.34,2.15,-0.0333,1.02,2.10-2.50
@@ -34,4 +34,4 @@ DAL @ DEN,DEN win + Cameron Johnson 10+ pa,2,0.605,0.5985,1.67,1.75,1.55,-0.0741
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Jamal Murray 1+ 3pm,2,0.6891,0.5437,1.84,1.93,1.7,-0.0743,1.0,1.65-1.85
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5184,1.93,2.03,1.78,-0.0761,0.999,1.65-1.85
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 6+ ast,2,0.6803,0.5435,1.84,1.93,1.7,-0.077,1.0,1.65-1.85
-DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5876,1.7,1.79,1.54,-0.0949,0.987,1.50-1.65
+DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5866,1.7,1.79,1.54,-0.0945,0.987,1.50-1.65
