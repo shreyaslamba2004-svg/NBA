@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.5383,0.4195,2.38,2.5,2.22,-0.068,1.002,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Desmond Bane 15+ pra,2,0.5938,0.4696,2.13,2.24,1.98,-0.0721,1.001,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Wendell Carter Jr. 5+ pa,2,0.6267,0.4945,2.02,2.12,1.88,-0.0724,1.0,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Desmond Bane 15+ pr,2,0.5369,0.4297,2.33,2.44,2.16,-0.0725,1.004,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Jalen Suggs 1+ 3pm,2,0.5399,0.4317,2.32,2.43,2.15,-0.073,1.003,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + Desmond Bane 10+ pts,2,0.576,0.4575,2.19,2.3,2.02,-0.0746,1.0,1.85-2.10
+DET @ ORL,DET win + Ausar Thompson 10+ pr,2,0.5316,0.5097,1.96,2.06,1.84,-0.0636,1.011,1.65-1.85
+DET @ ORL,Paul Reed 17+ pr + Anthony Black 1+ 3pm,2,0.5236,0.4136,2.42,2.54,2.25,-0.0693,1.003,2.10-2.50
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.5383,0.4207,2.38,2.5,2.21,-0.0707,1.002,2.10-2.50
 DET @ ORL,DET win + Wendell Carter Jr. 5+ pa,2,0.539,0.5092,1.96,2.06,1.82,-0.0747,0.996,1.65-1.85
-DET @ ORL,DET win + Desmond Bane 10+ pr,2,0.5377,0.5091,1.96,2.06,1.81,-0.0761,0.995,1.65-1.85
-DET @ ORL,DET win + Anthony Black 10+ pr,2,0.5227,0.4979,2.01,2.11,1.84,-0.0839,0.988,1.65-1.85
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + Desmond Bane 10+ pr,2,0.6762,0.5641,1.77,1.86,1.62,-0.0871,1.001,1.50-1.65
+DET @ ORL,Paul Reed 17+ pr + Ausar Thompson 10+ pr,2,0.5944,0.486,2.06,2.16,1.9,-0.0748,1.005,1.85-2.10
+DET @ ORL,Paul Reed 17+ pr + Wendell Carter Jr. 5+ pa,2,0.6093,0.4908,2.04,2.14,1.88,-0.0758,1.001,1.85-2.10
+DET @ ORL,Paul Reed 10+ pts + Ausar Thompson 10+ pr,2,0.6112,0.4943,2.02,2.12,1.87,-0.076,1.005,1.85-2.10
+DET @ ORL,Paul Reed 17+ pr + Desmond Bane 15+ pr,2,0.5217,0.4264,2.35,2.46,2.17,-0.0764,1.003,2.10-2.50
+DET @ ORL,DET win + Desmond Bane 10+ pr,2,0.5377,0.5099,1.96,2.06,1.81,-0.0765,0.995,1.65-1.85
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Desmond Bane 10+ pr,2,0.6762,0.5649,1.77,1.86,1.62,-0.0874,1.001,1.50-1.65
 DET @ ORL,Daniss Jenkins 3pm under 2.5 + Wendell Carter Jr. 5+ pa,2,0.6764,0.563,1.78,1.87,1.62,-0.0876,1.0,1.50-1.65
-DET @ ORL,Daniss Jenkins 3pm under 2.5 + Anthony Black 10+ pa,2,0.6621,0.5577,1.79,1.88,1.63,-0.0897,1.001,1.50-1.65
+DET @ ORL,Daniss Jenkins 3pm under 2.5 + Anthony Black 10+ pa,2,0.6621,0.5572,1.79,1.88,1.63,-0.0894,1.001,1.50-1.65
 BOS @ WAS,AJ Dybantsa pa under 19.5 + BOS win,2,0.466,0.4163,2.4,2.52,2.4,0.0011,1.052,2.10-2.50
 BOS @ WAS,AJ Dybantsa pts under 16.5 + BOS win,2,0.4738,0.4277,2.34,2.45,2.32,-0.0064,1.047,2.10-2.50
 BOS @ WAS,BOS win + AJ Dybantsa pra under 26.5,2,0.4493,0.424,2.36,2.48,2.31,-0.019,1.046,2.10-2.50
