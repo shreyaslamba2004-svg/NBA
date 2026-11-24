@@ -10,18 +10,18 @@ DET @ ORL,Isaiah Joe 3pm under 2.5 + Jalen Suggs 1+ 3pm,2,0.6353,0.4803,2.08,2.1
 DET @ ORL,Paul Reed 10+ pts + Anthony Black 1+ 3pm,2,0.5383,0.4168,2.4,2.52,2.23,-0.0685,1.002,2.10-2.50
 DET @ ORL,Anthony Black 1+ 3pm + Desmond Bane 15+ pra + Jalen Suggs 1+ 3pm,3,0.6328,0.5389,1.86,1.95,1.58,-0.1496,1.004,1.50-1.65
 DET @ ORL,Anthony Black 10+ pts + Desmond Bane 10+ pts + Jalen Suggs 1+ 3pm,3,0.6048,0.5312,1.88,1.98,1.6,-0.1499,1.011,1.50-1.65
-BOS @ WAS,Trae Young 8+ ast + Bilal Coulibaly 5+ pa,2,0.558,0.403,2.48,2.61,2.38,-0.042,1.006,2.10-2.50
-BOS @ WAS,Trae Young 10+ ra + Bilal Coulibaly 5+ pa,2,0.6028,0.4319,2.32,2.43,2.21,-0.0443,1.006,2.10-2.50
+BOS @ WAS,Trae Young 10+ ra + Bilal Coulibaly 5+ pa,2,0.6028,0.4307,2.32,2.44,2.22,-0.0437,1.006,2.10-2.50
+BOS @ WAS,Trae Young 25+ pra + Bilal Coulibaly 5+ pa,2,0.5433,0.3915,2.55,2.68,2.44,-0.0451,1.006,2.10-2.50
 BOS @ WAS,Anthony Davis 13+ ra + BOS win,2,0.4448,0.3855,2.59,2.72,2.48,-0.0458,0.991,2.10-2.50
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6958,0.4956,2.02,2.12,1.92,-0.0504,1.0,1.85-2.10
-BOS @ WAS,Trae Young 8+ ast + Bilal Coulibaly 5+ pr,2,0.5984,0.4528,2.21,2.32,2.08,-0.0565,1.003,1.85-2.10
-BOS @ WAS,Bilal Coulibaly 12+ pra + Trae Young 15+ pra,2,0.5966,0.4501,2.22,2.33,2.09,-0.0574,1.007,1.85-2.10
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.7478,0.5581,1.79,1.88,1.68,-0.0628,0.998,1.65-1.85
-BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.705,0.5303,1.89,1.98,1.76,-0.0645,0.998,1.65-1.85
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Kyshawn George 10+ pr,2,0.756,0.5738,1.74,1.83,1.63,-0.0654,1.0,1.50-1.65
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Trae Young 15+ pra,2,0.7516,0.5709,1.75,1.84,1.64,-0.0663,0.999,1.50-1.65
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7411,0.5629,1.78,1.87,1.66,-0.0669,0.998,1.65-1.85
-BOS @ WAS,BOS win + Bilal Coulibaly 5+ pa,2,0.6428,0.6018,1.66,1.74,1.55,-0.0686,0.991,1.50-1.65
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6958,0.4928,2.03,2.13,1.93,-0.049,1.0,1.85-2.10
+BOS @ WAS,Sam Hauser 3pm under 2.5 + BOS win,2,0.5682,0.495,2.02,2.12,1.9,-0.0581,0.983,1.85-2.10
+BOS @ WAS,Bilal Coulibaly 12+ pra + Trae Young 15+ pra,2,0.5966,0.4531,2.21,2.32,2.08,-0.0592,1.007,1.85-2.10
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.7478,0.5579,1.79,1.88,1.68,-0.0627,0.998,1.65-1.85
+BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.705,0.5304,1.89,1.98,1.76,-0.0645,0.998,1.65-1.85
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Trae Young 15+ pra,2,0.7516,0.5689,1.76,1.85,1.64,-0.0653,0.999,1.50-1.65
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Alex Sarr 5+ pa,2,0.7528,0.5741,1.74,1.83,1.63,-0.0659,1.0,1.50-1.65
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7411,0.5618,1.78,1.87,1.66,-0.0665,0.998,1.65-1.85
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Alex Sarr 10+ pra,2,0.7339,0.5653,1.77,1.86,1.65,-0.0678,1.001,1.50-1.65
 DAL @ DEN,Kyrie Irving pra under 31.5 + DEN win,2,0.4971,0.405,2.47,2.59,2.47,0.0008,1.046,2.10-2.50
 DAL @ DEN,Cooper Flagg pra under 38.5 + DEN win,2,0.5014,0.4076,2.45,2.58,2.45,-0.0008,1.043,2.10-2.50
 DAL @ DEN,Kyrie Irving pr under 26.5 + DEN win,2,0.4895,0.4025,2.48,2.61,2.47,-0.0055,1.042,2.10-2.50
