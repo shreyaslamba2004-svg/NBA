@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.3971,2.52,2.64,2.45,-0.0274,1.001,2.10-2.50
-UTA @ LAL,Quentin Grimes pa under 20.5 + Brice Sensabaugh 10+ pr,2,0.6103,0.4106,2.44,2.56,2.36,-0.0324,1.001,2.10-2.50
-UTA @ LAL,Quentin Grimes pra under 24.5 + Brice Sensabaugh 10+ pr,2,0.5969,0.4001,2.5,2.62,2.42,-0.0331,0.999,2.10-2.50
+UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.3928,2.55,2.67,2.48,-0.0246,1.001,2.10-2.50
+UTA @ LAL,Quentin Grimes pa under 20.5 + Brice Sensabaugh 10+ pr,2,0.6103,0.4062,2.46,2.58,2.39,-0.0297,1.001,2.10-2.50
+UTA @ LAL,Quentin Grimes pra under 24.5 + Brice Sensabaugh 10+ pr,2,0.5969,0.3958,2.53,2.65,2.45,-0.0304,0.999,2.10-2.50
+UTA @ LAL,LAL win + Keyonte George ast under 7.5,2,0.5658,0.478,2.09,2.2,2.01,-0.037,1.019,1.85-2.10
 UTA @ LAL,Quentin Grimes pr under 21.5 + LAL win,2,0.6146,0.4693,2.13,2.24,2.05,-0.0383,0.988,1.85-2.10
-UTA @ LAL,LAL win + Keyonte George ast under 7.5,2,0.5658,0.4841,2.07,2.17,1.98,-0.0402,1.019,1.85-2.10
 UTA @ LAL,LAL win + Keyonte George ra under 11.5,2,0.5718,0.4825,2.07,2.18,1.99,-0.0404,1.014,1.85-2.10
 UTA @ LAL,Josh Green 3pm under 1.5 + LAL win,2,0.7031,0.5841,1.71,1.8,1.64,-0.0426,1.008,1.50-1.65
-UTA @ LAL,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.7022,0.519,1.93,2.02,1.81,-0.0615,0.998,1.65-1.85
+UTA @ LAL,Josh Green 3pm under 1.5 + Brice Sensabaugh 10+ pr,2,0.7022,0.5133,1.95,2.05,1.83,-0.0589,0.998,1.65-1.85
 UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pa,2,0.6882,0.5164,1.94,2.03,1.82,-0.0626,1.001,1.65-1.85
 UTA @ LAL,Brice Sensabaugh 10+ pts + LAL win,2,0.6187,0.514,1.95,2.04,1.82,-0.0632,0.986,1.65-1.85
 UTA @ LAL,Josh Green 3pm under 1.5 + Matisse Thybulle 5+ pr,2,0.7402,0.5696,1.76,1.84,1.63,-0.0693,1.0,1.50-1.65
-UTA @ LAL,Josh Green 3pm under 1.5 + Svi Mykhailiuk 1+ 3pm,2,0.7299,0.5636,1.77,1.86,1.65,-0.0707,0.999,1.50-1.65
+UTA @ LAL,Josh Green 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.7553,0.5864,1.71,1.79,1.59,-0.0701,1.001,1.50-1.65
+SAS @ SAC,SAS win + Precious Achiuwa 6+ pts,2,0.5337,0.4389,2.28,2.39,2.5,0.0959,0.983,2.10-2.50
 SAS @ SAC,SAS win + Keldon Johnson 2+ ast,2,0.5617,0.5182,1.93,2.03,2.11,0.0927,1.012,2.10-2.50
-SAS @ SAC,SAS win + Precious Achiuwa 11+ pr,2,0.5122,0.4487,2.23,2.34,2.4,0.0776,0.986,2.10-2.50
-SAS @ SAC,SAS win + Devin Vassell 15+ pa,2,0.6104,0.6477,1.54,1.62,1.64,0.0603,1.022,1.50-1.65
-SAS @ SAC,SAS win + Stephon Castle ra under 14.5,2,0.4673,0.428,2.34,2.45,2.48,0.0599,0.982,2.10-2.50
-SAS @ SAC,SAS win + Keldon Johnson 15+ pr,2,0.5819,0.6304,1.59,1.67,1.67,0.0503,1.017,1.65-1.85
-SAS @ SAC,SAS win + Keldon Johnson 4+ reb,2,0.58,0.6379,1.57,1.65,1.61,0.0279,0.999,1.50-1.65
-SAS @ SAC,SAS win + Devin Vassell 15+ pa + Keldon Johnson 15+ pr,3,0.4867,0.4943,2.02,2.12,2.06,0.0178,1.039,1.85-2.10
-SAS @ SAC,SAS win + Devin Vassell 1+ 3pm + Keldon Johnson 15+ pr,3,0.5304,0.5384,1.86,1.95,1.87,0.0078,1.029,1.85-2.10
-SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 15+ pa,3,0.5511,0.5467,1.83,1.92,1.83,0.0016,1.017,1.65-1.85
-SAS @ SAC,SAS win + Keldon Johnson 15+ pr + Devin Vassell 15+ pra,3,0.5489,0.5696,1.76,1.84,1.75,-0.0011,1.025,1.65-1.85
-SAS @ SAC,SAS win + Devin Vassell 15+ pa + Keldon Johnson 4+ reb,3,0.486,0.501,2.0,2.1,1.99,-0.0023,1.022,1.85-2.10
-SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 15+ pra,3,0.6201,0.6284,1.59,1.67,1.56,-0.0194,1.001,1.50-1.65
+SAS @ SAC,SAS win + Precious Achiuwa 11+ pr,2,0.5122,0.4493,2.23,2.34,2.4,0.079,0.986,2.10-2.50
+SAS @ SAC,SAS win + Devin Vassell 15+ pa,2,0.6104,0.65,1.54,1.62,1.63,0.0595,1.022,1.50-1.65
+SAS @ SAC,SAS win + Keldon Johnson 15+ pr,2,0.5819,0.6333,1.58,1.66,1.66,0.0492,1.017,1.65-1.85
+SAS @ SAC,SAS win + Keldon Johnson 4+ reb,2,0.58,0.6354,1.57,1.65,1.62,0.0288,0.999,1.50-1.65
+SAS @ SAC,SAS win + Devin Vassell 15+ pa + Keldon Johnson 15+ pr,3,0.4867,0.4984,2.01,2.11,2.04,0.0159,1.039,1.85-2.10
+SAS @ SAC,SAS win + Devin Vassell 1+ 3pm + Keldon Johnson 15+ pr,3,0.5304,0.5409,1.85,1.94,1.86,0.0067,1.029,1.85-2.10
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 15+ pa,3,0.5511,0.5469,1.83,1.92,1.83,0.0015,1.017,1.65-1.85
+SAS @ SAC,SAS win + Devin Vassell 15+ pa + Keldon Johnson 4+ reb,3,0.486,0.5009,2.0,2.1,1.99,-0.0021,1.022,1.85-2.10
+SAS @ SAC,SAS win + Devin Vassell 15+ pra + Keldon Johnson 15+ pr,3,0.5489,0.5727,1.75,1.83,1.74,-0.0024,1.025,1.65-1.85
+SAS @ SAC,SAS win + Darius Acuff Jr. 4+ ast + Devin Vassell 15+ pra,3,0.6201,0.6269,1.6,1.67,1.56,-0.0189,1.001,1.50-1.65
