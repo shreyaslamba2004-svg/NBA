@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 LAC @ HOU,Darius Garland pts under 17.5 + HOU win,2,0.4384,0.4322,2.31,2.43,2.32,0.0028,1.049,2.10-2.50
 LAC @ HOU,Amen Thompson 16+ pts + HOU win,2,0.3958,0.4302,2.32,2.44,2.32,-0.002,1.046,2.10-2.50
-LAC @ HOU,Darius Garland pra under 26.5 + HOU win,2,0.4752,0.4449,2.25,2.36,2.23,-0.006,1.05,2.10-2.50
+LAC @ HOU,Darius Garland pra under 26.5 + HOU win,2,0.4752,0.4433,2.26,2.37,2.24,-0.0051,1.05,2.10-2.50
 LAC @ HOU,Amen Thompson 10+ ra + HOU win,2,0.4916,0.4646,2.15,2.26,2.06,-0.0432,1.012,1.85-2.10
-LAC @ HOU,Brandon Ingram 3+ reb + HOU win,2,0.556,0.5121,1.95,2.05,1.85,-0.0502,0.998,1.85-2.10
-LAC @ HOU,Fred VanVleet pts under 13.5 + Brandon Ingram 10+ pra,2,0.4968,0.4572,2.19,2.3,2.07,-0.0547,0.999,1.85-2.10
-LAC @ HOU,Brandon Ingram 3+ reb + Jabari Smith Jr. 15+ pra,2,0.682,0.5177,1.93,2.03,1.81,-0.0633,1.002,1.65-1.85
-LAC @ HOU,Brandon Ingram 3+ reb + Jabari Smith Jr. 10+ pa,2,0.671,0.5114,1.96,2.05,1.83,-0.0638,1.003,1.65-1.85
-LAC @ HOU,Brandon Ingram 3+ reb + Fred VanVleet 10+ pr,2,0.6767,0.5167,1.94,2.03,1.81,-0.0652,1.001,1.65-1.85
-LAC @ HOU,HOU win + Jabari Smith Jr. 10+ pa + Fred VanVleet 10+ pr,3,0.5986,0.594,1.68,1.77,1.5,-0.1074,1.026,1.50-1.65
-LAC @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Fred VanVleet 10+ pr,3,0.5652,0.56,1.79,1.87,1.59,-0.1088,1.024,1.50-1.65
-LAC @ HOU,HOU win + Brandon Ingram 10+ pr + Jabari Smith Jr. 10+ pa,3,0.6077,0.5726,1.75,1.83,1.55,-0.1104,1.009,1.50-1.65
+LAC @ HOU,Brandon Ingram 15+ pr + Jabari Smith Jr. 15+ pra,2,0.6486,0.4698,2.13,2.24,2.02,-0.0498,1.002,1.85-2.10
+LAC @ HOU,Brandon Ingram 15+ pr + Derrick Jones Jr. 5+ pa,2,0.6287,0.4631,2.16,2.27,2.05,-0.0505,1.006,1.85-2.10
+LAC @ HOU,Brandon Ingram 3+ reb + HOU win,2,0.556,0.5165,1.94,2.03,1.83,-0.0545,0.998,1.65-1.85
+LAC @ HOU,Brandon Ingram 3+ reb + Jabari Smith Jr. 15+ pra,2,0.682,0.5222,1.91,2.01,1.79,-0.0675,1.002,1.65-1.85
+LAC @ HOU,Brandon Ingram 15+ pra + HOU win,2,0.598,0.561,1.78,1.87,1.66,-0.0676,0.985,1.65-1.85
+LAC @ HOU,Jabari Smith Jr. 15+ pr + Kris Dunn 5+ pa,2,0.6836,0.5985,1.67,1.75,1.51,-0.0958,1.004,1.50-1.65
+LAC @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Fred VanVleet 10+ pr,3,0.5652,0.5557,1.8,1.89,1.61,-0.1071,1.024,1.50-1.65
+LAC @ HOU,HOU win + Fred VanVleet 10+ pr + Jabari Smith Jr. 10+ pa,3,0.5986,0.5941,1.68,1.77,1.5,-0.1075,1.026,1.50-1.65
 UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 10+ pr,2,0.5998,0.3981,2.51,2.64,2.44,-0.0281,1.001,2.10-2.50
 UTA @ LAL,Quentin Grimes pts under 16.5 + LAL win,2,0.5848,0.4357,2.3,2.41,2.22,-0.0326,0.985,2.10-2.50
 UTA @ LAL,Quentin Grimes pts under 16.5 + Brice Sensabaugh 1+ 3pm,2,0.6072,0.4132,2.42,2.54,2.34,-0.0331,1.002,2.10-2.50
