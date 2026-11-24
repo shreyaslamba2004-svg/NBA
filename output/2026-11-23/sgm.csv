@@ -1,47 +1,28 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MEM @ CHA,Ryan Kalkbrenner 5+ pts + Sion James 10+ pra,2,0.5537,0.4214,2.37,2.49,2.39,0.0084,1.008,2.10-2.50
-MEM @ CHA,Ryan Kalkbrenner 5+ pts + Sion James 5+ pa,2,0.5879,0.4586,2.18,2.29,2.18,-0.0015,1.004,2.10-2.50
-MEM @ CHA,Ryan Kalkbrenner 5+ pts + Naz Reid 20+ pr,2,0.5362,0.42,2.38,2.5,2.38,-0.0023,1.005,2.10-2.50
-MEM @ CHA,Cam Spencer 10+ pts + Sion James 5+ pa,2,0.6009,0.4774,2.09,2.2,2.06,-0.0169,1.001,1.85-2.10
-MEM @ CHA,Cam Spencer 10+ pts + Naz Reid 20+ pra,2,0.5846,0.4689,2.13,2.24,2.09,-0.0212,0.999,1.85-2.10
-MEM @ CHA,Cam Spencer 10+ pts + Moussa Diabate 6+ reb,2,0.5783,0.4739,2.11,2.22,2.06,-0.0228,1.003,1.85-2.10
-MEM @ CHA,Sion James 10+ pra + Naz Reid 6+ reb + Cam Spencer 1+ 3pm,3,0.6234,0.4939,2.02,2.13,1.75,-0.1348,1.004,1.65-1.85
-MEM @ CHA,Sion James 10+ pra + Naz Reid 6+ reb + Moussa Diabate 6+ reb,3,0.698,0.5531,1.81,1.9,1.56,-0.1351,1.004,1.50-1.65
-MEM @ CHA,Sion James 10+ pra + Naz Reid 20+ pra + Cam Spencer 1+ 3pm,3,0.6927,0.544,1.84,1.93,1.59,-0.136,1.0,1.50-1.65
-MEM @ CHA,Sion James 10+ pra + Cam Spencer 1+ 3pm + Moussa Diabate 6+ reb,3,0.6839,0.5486,1.82,1.91,1.57,-0.1392,1.002,1.50-1.65
-POR @ PHI,Scoot Henderson 10+ pts + Toumani Camara 10+ pr,2,0.5851,0.445,2.25,2.36,2.21,-0.0169,1.008,2.10-2.50
-POR @ PHI,Scoot Henderson 10+ pts + Sidy Cissoko 5+ pr,2,0.5991,0.455,2.2,2.31,2.15,-0.0228,1.002,2.10-2.50
-POR @ PHI,Scoot Henderson 10+ pts + Anfernee Simons 5+ pa,2,0.5981,0.4532,2.21,2.32,2.16,-0.023,1.001,2.10-2.50
-POR @ PHI,Scoot Henderson 10+ pts + Toumani Camara 5+ pa,2,0.626,0.4846,2.06,2.17,2.01,-0.026,1.003,1.85-2.10
-POR @ PHI,Scoot Henderson 10+ pts + Donovan Clingan 15+ pra,2,0.5971,0.4701,2.13,2.23,2.06,-0.0317,1.001,1.85-2.10
-POR @ PHI,Scoot Henderson 10+ pts + Jaylen Brown 15+ pa,2,0.5938,0.4687,2.13,2.24,2.06,-0.0323,1.001,1.85-2.10
-POR @ PHI,Anfernee Simons 5+ pa + Toumani Camara 10+ pr + Jaylen Brown 1+ 3pm,3,0.7242,0.5717,1.75,1.84,1.51,-0.136,1.002,1.50-1.65
-POR @ PHI,Sidy Cissoko 5+ pr + Toumani Camara 10+ pr + Jaylen Brown 1+ 3pm,3,0.7236,0.5725,1.75,1.83,1.51,-0.138,1.0,1.50-1.65
-POR @ PHI,Toumani Camara 10+ pr + Jaylen Brown 1+ 3pm + Donovan Clingan 15+ pr,3,0.6917,0.563,1.78,1.86,1.52,-0.1417,1.003,1.50-1.65
-OKC @ IND,Quenton Jackson pts under 9.5 + Bennett Stirtz 1+ 3pm,2,0.4843,0.4185,2.39,2.51,2.34,-0.0194,1.0,2.10-2.50
-OKC @ IND,Quenton Jackson pts under 9.5 + Pascal Siakam 4+ reb,2,0.4827,0.4159,2.4,2.52,2.36,-0.0202,0.998,2.10-2.50
-OKC @ IND,Quenton Jackson pts under 9.5 + Andrew Nembhard 4+ ast,2,0.5202,0.444,2.25,2.36,2.21,-0.0207,0.996,2.10-2.50
-OKC @ IND,Andrew Nembhard 10+ ra + Kenrich Williams 5+ pa,2,0.6381,0.4605,2.17,2.28,2.07,-0.0448,1.004,1.85-2.10
-OKC @ IND,Andrew Nembhard 10+ ra + Isaiah Hartenstein 6+ reb,2,0.6302,0.4576,2.19,2.29,2.08,-0.0482,1.002,1.85-2.10
-OKC @ IND,Andrew Nembhard 24+ pra + Ivica Zubac 6+ reb,2,0.6196,0.4608,2.17,2.28,2.06,-0.051,1.006,1.85-2.10
-OKC @ IND,Andrew Nembhard 7+ ast + Kenrich Williams 5+ pa,2,0.6613,0.5188,1.93,2.02,1.79,-0.0692,1.004,1.65-1.85
-OKC @ IND,Andrew Nembhard 7+ ast + Isaiah Hartenstein 6+ reb,2,0.6538,0.5161,1.94,2.03,1.8,-0.0714,1.003,1.65-1.85
-OKC @ IND,Andrew Nembhard 7+ ast + Isaiah Hartenstein 15+ pra,2,0.6442,0.5069,1.97,2.07,1.83,-0.0715,1.002,1.65-1.85
-OKC @ IND,Shai Gilgeous-Alexander 4+ ast + Andrew Nembhard 1+ 3pm + Pascal Siakam 4+ reb,3,0.659,0.5226,1.91,2.01,1.65,-0.1395,0.999,1.50-1.65
-OKC @ IND,Shai Gilgeous-Alexander 4+ ast + Andrew Nembhard 4+ ast + Pascal Siakam 4+ reb,3,0.7025,0.5629,1.78,1.87,1.53,-0.1396,1.001,1.50-1.65
-OKC @ IND,Shai Gilgeous-Alexander 4+ ast + Andrew Nembhard 1+ 3pm + Bennett Stirtz 1+ 3pm,3,0.6604,0.5253,1.9,2.0,1.64,-0.1399,0.999,1.50-1.65
+OKC @ IND,Quenton Jackson pts under 9.5 + Andrew Nembhard 15+ pra,2,0.5335,0.4519,2.21,2.32,2.18,-0.0135,1.0,2.10-2.50
+OKC @ IND,Quenton Jackson pts under 9.5 + Bennett Stirtz 1+ 3pm,2,0.4843,0.4157,2.41,2.53,2.37,-0.0167,1.0,2.10-2.50
+OKC @ IND,Quenton Jackson pts under 9.5 + Andrew Nembhard 10+ pts,2,0.4761,0.399,2.51,2.63,2.46,-0.0197,0.991,2.10-2.50
+OKC @ IND,OKC win + Jared McCain 15+ pr,2,0.5058,0.4825,2.07,2.18,1.96,-0.0521,1.028,1.85-2.10
+OKC @ IND,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.5362,0.4964,2.01,2.12,1.9,-0.0558,1.017,1.85-2.10
+OKC @ IND,Pascal Siakam pts under 21.5 + Jared McCain 10+ pr,2,0.5152,0.4524,2.21,2.32,2.08,-0.0589,0.997,1.85-2.10
+OKC @ IND,OKC win + Bennett Stirtz 1+ 3pm,2,0.5487,0.5182,1.93,2.03,1.8,-0.0681,1.009,1.65-1.85
+OKC @ IND,OKC win + Andrew Nembhard 15+ pra,2,0.5954,0.5549,1.8,1.89,1.66,-0.079,0.994,1.65-1.85
+OKC @ IND,OKC win + Pascal Siakam 4+ reb,2,0.5414,0.5153,1.94,2.04,1.78,-0.0804,0.997,1.65-1.85
+OKC @ IND,Shai Gilgeous-Alexander 4+ ast + Andrew Nembhard 1+ 3pm + Bennett Stirtz 1+ 3pm,3,0.6604,0.5327,1.88,1.97,1.61,-0.1429,0.999,1.50-1.65
+OKC @ IND,Shai Gilgeous-Alexander 4+ ast + Bennett Stirtz 1+ 3pm + Pascal Siakam 4+ reb,3,0.6513,0.5315,1.88,1.98,1.61,-0.1432,1.001,1.50-1.65
+OKC @ IND,Shai Gilgeous-Alexander 4+ ast + Andrew Nembhard 1+ 3pm + Pascal Siakam 4+ reb,3,0.659,0.5357,1.87,1.96,1.6,-0.1447,0.999,1.50-1.65
 MIL @ TOR,Tyler Herro pts under 20.5 + TOR win,2,0.522,0.4404,2.27,2.38,2.42,0.0661,1.031,2.10-2.50
+MIL @ TOR,Brayden Burries pts under 10.5 + TOR win,2,0.4779,0.4179,2.39,2.51,2.48,0.0362,1.04,2.10-2.50
 MIL @ TOR,Ryan Rollins pts under 11.5 + TOR win,2,0.4132,0.411,2.43,2.55,2.48,0.0191,1.036,2.10-2.50
-MIL @ TOR,Brayden Burries pts under 10.5 + TOR win,2,0.4779,0.411,2.43,2.56,2.48,0.019,1.04,2.10-2.50
-MIL @ TOR,Tyler Herro pts under 20.5 + Immanuel Quickley 1+ 3pm,2,0.655,0.4903,2.04,2.14,2.05,0.0071,0.999,1.85-2.10
-MIL @ TOR,Tyler Herro pts under 20.5 + Ja'Kobe Walter 10+ pra,2,0.6644,0.4982,2.01,2.11,2.02,0.0062,0.999,1.85-2.10
-MIL @ TOR,Tyler Herro pts under 20.5 + Ja'Kobe Walter 1+ 3pm,2,0.6476,0.4907,2.04,2.14,2.05,0.0037,0.999,1.85-2.10
-MIL @ TOR,Myles Turner 3pm under 1.5 + Immanuel Quickley 1+ 3pm,2,0.6866,0.5134,1.95,2.05,1.83,-0.0598,1.0,1.65-1.85
-MIL @ TOR,Myles Turner 3pm under 1.5 + Ja'Kobe Walter 10+ pra,2,0.6963,0.5215,1.92,2.01,1.8,-0.0608,0.999,1.65-1.85
-MIL @ TOR,Myles Turner 3pm under 1.5 + Kyle Kuzma 5+ pa,2,0.7012,0.5278,1.89,1.99,1.78,-0.0616,0.999,1.65-1.85
-MIL @ TOR,TOR win + Jaime Jaquez Jr. 10+ pa,2,0.5828,0.598,1.67,1.76,1.5,-0.1008,0.982,1.50-1.65
-MIL @ TOR,TOR win + Scottie Barnes 4+ ast + Ja'Kobe Walter 10+ pra,3,0.6096,0.5838,1.71,1.8,1.52,-0.1151,1.017,1.50-1.65
-MIL @ TOR,TOR win + Scottie Barnes 4+ ast + Immanuel Quickley 1+ 3pm,3,0.5992,0.5728,1.75,1.83,1.54,-0.1171,1.015,1.50-1.65
+MIL @ TOR,Tyler Herro pts under 20.5 + Immanuel Quickley 1+ 3pm,2,0.655,0.4838,2.07,2.17,2.09,0.0102,0.999,1.85-2.10
+MIL @ TOR,Tyler Herro pts under 20.5 + Ja'Kobe Walter 1+ 3pm,2,0.6476,0.4865,2.06,2.16,2.07,0.0057,0.999,1.85-2.10
+MIL @ TOR,Tyler Herro pts under 20.5 + Jakob Poeltl 4+ reb,2,0.645,0.4874,2.05,2.15,2.06,0.0028,0.997,1.85-2.10
+MIL @ TOR,Jaime Jaquez Jr. reb under 5.5 + Immanuel Quickley 1+ 3pm,2,0.7046,0.5263,1.9,2.0,1.79,-0.0595,1.001,1.65-1.85
+MIL @ TOR,Jaime Jaquez Jr. reb under 5.5 + Ja'Kobe Walter 1+ 3pm,2,0.6964,0.529,1.89,1.98,1.77,-0.0639,1.0,1.65-1.85
+MIL @ TOR,Jaime Jaquez Jr. reb under 5.5 + Jakob Poeltl 4+ reb,2,0.6956,0.5315,1.88,1.98,1.76,-0.0641,1.001,1.65-1.85
+MIL @ TOR,TOR win + Jamal Shead 4+ ast,2,0.5751,0.6013,1.66,1.75,1.54,-0.074,1.016,1.50-1.65
+MIL @ TOR,TOR win + Scottie Barnes 4+ ast + Immanuel Quickley 1+ 3pm,3,0.5992,0.5579,1.79,1.88,1.59,-0.1115,1.015,1.50-1.65
+MIL @ TOR,TOR win + Immanuel Quickley 1+ 3pm + Ja'Kobe Walter 10+ pa,3,0.5849,0.5634,1.77,1.86,1.57,-0.1148,1.019,1.50-1.65
 BKN @ MIN,Michael Porter Jr. pts under 19.5 + MIN win,2,0.4814,0.4293,2.33,2.45,2.36,0.0132,1.042,2.10-2.50
 BKN @ MIN,Mikel Brown Jr. pts under 14.5 + MIN win,2,0.5018,0.4369,2.29,2.4,2.3,0.004,1.034,2.10-2.50
 BKN @ MIN,Julius Randle pts under 20.5 + MIN win,2,0.4806,0.4359,2.29,2.41,2.3,0.0017,1.048,2.10-2.50
@@ -52,18 +33,18 @@ BKN @ MIN,MIN win + Danny Wolf 10+ pr + LaMelo Ball 2+ 3pm,3,0.5464,0.5123,1.95,
 BKN @ MIN,MIN win + LaMelo Ball 2+ 3pm + Day'Ron Sharpe 10+ pr,3,0.603,0.5742,1.74,1.83,1.5,-0.1362,1.004,1.50-1.65
 BKN @ MIN,MIN win + Danny Wolf 10+ pr + LaMelo Ball 15+ pa,3,0.5733,0.5467,1.83,1.92,1.57,-0.1394,1.0,1.50-1.65
 BKN @ MIN,MIN win + Danny Wolf 10+ pr + Rudy Gobert 5+ pa,3,0.5852,0.5556,1.8,1.89,1.55,-0.1415,0.997,1.50-1.65
-CLE @ CHI,James Harden ast under 7.5 + Jalen Smith 15+ pr,2,0.6046,0.4281,2.34,2.45,2.23,-0.0467,1.002,2.10-2.50
-CLE @ CHI,CHI +8.5 + Jalen Smith 15+ pr,2,0.513,0.3957,2.53,2.65,2.4,-0.051,1.011,2.10-2.50
 CLE @ CHI,CLE win + game under 241.5,2,0.3212,0.3818,2.62,2.75,2.48,-0.0532,1.009,2.10-2.50
-CLE @ CHI,Jalen Smith 21+ pr + Tre Jones 5+ pr,2,0.6046,0.4603,2.17,2.28,2.05,-0.0574,1.005,1.85-2.10
-CLE @ CHI,Jalen Smith 21+ pr + Meleek Thomas 5+ pa,2,0.6043,0.4539,2.2,2.31,2.08,-0.0576,1.002,1.85-2.10
-CLE @ CHI,Jalen Smith 21+ pr + Matas Buzelis 15+ pra,2,0.59,0.4523,2.21,2.32,2.08,-0.0598,1.004,1.85-2.10
-CLE @ CHI,CLE win + Meleek Thomas 10+ pra,2,0.5297,0.5709,1.75,1.84,1.64,-0.0648,1.02,1.50-1.65
-CLE @ CHI,CLE win + Jalen Smith 15+ pr,2,0.5813,0.5779,1.73,1.82,1.6,-0.074,0.99,1.50-1.65
-CLE @ CHI,James Harden ra under 12.5 + Isaac Okoro 5+ pa,2,0.6377,0.5064,1.97,2.07,1.82,-0.0779,0.997,1.65-1.85
-CLE @ CHI,CLE win + Jalen Smith 1+ 3pm,2,0.5718,0.5977,1.67,1.76,1.53,-0.0839,0.992,1.50-1.65
-CLE @ CHI,Jalen Smith 2+ 3pm + Isaac Okoro 5+ pa,2,0.603,0.5003,2.0,2.1,1.83,-0.0859,1.001,1.65-1.85
-CLE @ CHI,CLE win + Jalen Smith 4+ reb + Meleek Thomas 10+ pra,3,0.4961,0.5046,1.98,2.08,1.76,-0.1099,1.025,1.65-1.85
+CLE @ CHI,game over 241.5 + Meleek Thomas 10+ pra,2,0.4244,0.3848,2.6,2.73,2.45,-0.0556,1.042,2.10-2.50
+CLE @ CHI,CHI +8.5 + Jalen Smith 1+ 3pm,2,0.5054,0.4083,2.45,2.57,2.3,-0.0588,1.014,2.10-2.50
+CLE @ CHI,James Harden ast under 7.5 + Jalen Smith 4+ reb,2,0.6313,0.4792,2.09,2.19,1.95,-0.0644,1.0,1.85-2.10
+CLE @ CHI,CLE win + Meleek Thomas 10+ pra,2,0.5297,0.5705,1.75,1.84,1.64,-0.0645,1.02,1.50-1.65
+CLE @ CHI,James Harden ast under 7.5 + Meleek Thomas 5+ pa,2,0.6327,0.4789,2.09,2.19,1.95,-0.065,0.999,1.85-2.10
+CLE @ CHI,Jalen Smith 13+ pts + Tre Jones 5+ pr,2,0.6249,0.4906,2.04,2.14,1.9,-0.067,1.007,1.85-2.10
+CLE @ CHI,CLE win + Jalen Smith 1+ 3pm,2,0.5718,0.5954,1.68,1.76,1.54,-0.0831,0.992,1.50-1.65
+CLE @ CHI,CLE win + Josh Giddey 1+ 3pm,2,0.5318,0.5655,1.77,1.86,1.61,-0.0912,0.988,1.50-1.65
+CLE @ CHI,CLE win + Jalen Smith 4+ reb + Meleek Thomas 10+ pra,3,0.4961,0.5042,1.98,2.08,1.77,-0.1096,1.025,1.65-1.85
+CLE @ CHI,CLE win + Meleek Thomas 10+ pra + James Harden 1+ 3pm,3,0.4947,0.5093,1.96,2.06,1.74,-0.1113,1.026,1.65-1.85
+CLE @ CHI,CLE win + Meleek Thomas 10+ pra + Tre Jones 5+ pr,3,0.4901,0.5042,1.98,2.08,1.74,-0.1235,1.012,1.65-1.85
 PHX @ NOP,Derik Queen 9+ ra + Jalen Green 10+ pa,2,0.5767,0.4309,2.32,2.44,2.2,-0.0527,1.004,2.10-2.50
 PHX @ NOP,Derik Queen 9+ ra + Herbert Jones 5+ pa,2,0.5537,0.4128,2.42,2.54,2.29,-0.0531,1.003,2.10-2.50
 PHX @ NOP,Derik Queen 9+ ra + Dillon Brooks 10+ pr,2,0.598,0.4408,2.27,2.38,2.15,-0.0532,1.001,2.10-2.50
