@@ -8,13 +8,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pts,19.5,False,0.3733,0.3977,book,0.3933
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pts,20.5,False,0.3256,0.3467,est,0.3429
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pts,21.5,False,0.2825,0.302,est,0.2985
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,0.5,False,0.9728,0.9779,est,0.977
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,1.5,False,0.8816,0.902,est,0.8983
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,2.5,False,0.7233,0.7636,est,0.7563
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,3.5,True,0.5317,0.5839,book,0.5745
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,4.5,False,0.3548,0.4117,book,0.4014
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,5.5,False,0.2115,0.2663,book,0.2564
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,6.5,False,0.1164,0.14,est,0.1358
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,0.5,False,0.9728,0.9777,est,0.9768
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,1.5,False,0.8816,0.9013,est,0.8977
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,2.5,False,0.7233,0.7484,book,0.7439
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,3.5,True,0.5317,0.5819,book,0.5728
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,4.5,False,0.3548,0.4081,book,0.3984
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,5.5,False,0.2115,0.2611,book,0.2521
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,reb,6.5,False,0.1164,0.1581,book,0.1506
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,ast,0.5,False,0.9493,0.9376,est,0.9397
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,ast,1.5,False,0.8137,0.778,est,0.7844
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,ast,2.5,True,0.6112,0.5577,book,0.5674
@@ -42,15 +42,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pra,27.5,False,0.3516,0.3752,est,0.371
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pra,28.5,False,0.3103,0.3327,est,0.3286
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pra,29.5,False,0.2734,0.2939,book,0.2902
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,17.5,False,0.6817,0.7151,est,0.7091
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,18.5,False,0.6293,0.6655,est,0.659
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,19.5,False,0.5752,0.6078,book,0.6019
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,20.5,False,0.5256,0.565,est,0.5578
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,21.5,True,0.4702,0.5098,book,0.5026
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,22.5,False,0.4227,0.4618,est,0.4547
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,23.5,False,0.3757,0.4136,est,0.4067
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,24.5,False,0.3304,0.3723,book,0.3647
-401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,25.5,False,0.2903,0.324,est,0.3179
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,17.5,False,0.6817,0.7127,est,0.7071
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,18.5,False,0.6293,0.6628,est,0.6568
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,19.5,False,0.5752,0.6008,book,0.5962
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,20.5,False,0.5256,0.562,est,0.5554
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,21.5,True,0.4702,0.5068,book,0.5002
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,22.5,False,0.4227,0.4588,est,0.4523
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,23.5,False,0.3757,0.4107,est,0.4044
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,24.5,False,0.3304,0.3679,book,0.3611
+401909314,DET @ ORL,ORL,1630217,Desmond Bane,pr,25.5,False,0.2903,0.3214,est,0.3158
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pa,16.5,False,0.6996,0.7132,est,0.7107
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pa,17.5,False,0.644,0.6588,est,0.6561
 401909314,DET @ ORL,ORL,1630217,Desmond Bane,pa,18.5,False,0.5943,0.6099,est,0.6071
@@ -141,13 +141,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1641710,Anthony Black,pts,16.5,False,0.3878,0.3672,est,0.3709
 401909314,DET @ ORL,ORL,1641710,Anthony Black,pts,17.5,False,0.335,0.3157,est,0.3192
 401909314,DET @ ORL,ORL,1641710,Anthony Black,pts,18.5,False,0.2858,0.2682,est,0.2714
-401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,1.5,False,0.9065,0.9389,est,0.9331
-401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,2.5,False,0.7739,0.822,book,0.8133
-401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,3.5,False,0.5993,0.7034,est,0.6846
-401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,4.5,True,0.4165,0.5309,book,0.5102
-401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,5.5,False,0.265,0.3799,book,0.3591
-401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,6.5,False,0.1546,0.2547,book,0.2366
-401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,7.5,False,0.084,0.1603,book,0.1465
+401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,1.5,False,0.9065,0.9383,est,0.9326
+401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,2.5,False,0.7739,0.8178,book,0.8099
+401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,3.5,False,0.5993,0.6893,book,0.673
+401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,4.5,True,0.4165,0.5282,book,0.508
+401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,5.5,False,0.265,0.3753,book,0.3553
+401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,6.5,False,0.1546,0.2492,book,0.2321
+401909314,DET @ ORL,ORL,1641710,Anthony Black,reb,7.5,False,0.084,0.1563,book,0.1432
 401909314,DET @ ORL,ORL,1641710,Anthony Black,ast,1.5,False,0.9166,0.9412,est,0.9368
 401909314,DET @ ORL,ORL,1641710,Anthony Black,ast,2.5,False,0.7914,0.8469,est,0.8368
 401909314,DET @ ORL,ORL,1641710,Anthony Black,ast,3.5,False,0.6277,0.6956,book,0.6833
@@ -272,13 +272,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pts,12.5,False,0.3626,0.374,est,0.372
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pts,13.5,False,0.3008,0.3113,est,0.3094
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pts,14.5,False,0.2418,0.2725,book,0.2669
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,4.5,False,0.8124,0.8628,est,0.8537
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,5.5,False,0.6947,0.7677,est,0.7545
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,6.5,False,0.5716,0.6595,est,0.6436
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,7.5,True,0.4442,0.5371,book,0.5203
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,8.5,False,0.3313,0.421,book,0.4048
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,9.5,False,0.2366,0.3179,book,0.3032
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,10.5,False,0.1612,0.2313,book,0.2186
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,4.5,False,0.8124,0.8402,book,0.8352
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,5.5,False,0.6947,0.7592,book,0.7475
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,6.5,False,0.5716,0.6597,book,0.6437
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,7.5,True,0.4442,0.5484,book,0.5295
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,8.5,False,0.3313,0.4388,book,0.4193
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,9.5,False,0.2366,0.3338,book,0.3162
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,reb,10.5,False,0.1612,0.2466,book,0.2311
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ast,0.5,False,0.8133,0.7714,est,0.779
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ast,1.5,True,0.5119,0.4482,book,0.4597
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ast,2.5,False,0.2649,0.2139,book,0.2231
@@ -293,26 +293,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,blk,0.5,False,0.585,,model only,0.585
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,blk,1.5,False,0.2319,,model only,0.2319
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,blk,2.5,False,0.0692,,model only,0.0692
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,15.5,False,0.744,0.7775,est,0.7715
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,16.5,False,0.6879,0.726,est,0.7191
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,17.5,False,0.6283,0.6702,est,0.6626
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,18.5,False,0.5682,0.6127,est,0.6046
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,19.5,False,0.509,0.5548,est,0.5465
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,20.5,True,0.452,0.4979,book,0.4896
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,21.5,False,0.3992,0.4441,est,0.436
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,22.5,False,0.3482,0.391,est,0.3833
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,23.5,False,0.3031,0.3434,est,0.3361
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,24.5,False,0.26,0.297,est,0.2903
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,25.5,False,0.2222,0.2556,est,0.2496
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,14.5,False,0.7101,0.7269,book,0.7239
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,15.5,False,0.6493,0.6997,est,0.6906
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,16.5,False,0.5886,0.6428,est,0.633
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,17.5,False,0.5269,0.5835,est,0.5733
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,18.5,True,0.4656,0.5229,book,0.5125
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,19.5,False,0.4076,0.4696,book,0.4584
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,20.5,False,0.3542,0.4083,est,0.3985
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,21.5,False,0.3049,0.3556,est,0.3464
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,22.5,False,0.2614,0.3081,est,0.2997
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,15.5,False,0.744,0.7823,est,0.7754
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,16.5,False,0.6879,0.7315,est,0.7236
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,17.5,False,0.6283,0.6763,est,0.6676
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,18.5,False,0.5682,0.6193,est,0.61
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,19.5,False,0.509,0.5531,book,0.5451
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,20.5,True,0.452,0.5049,book,0.4953
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,21.5,False,0.3992,0.451,est,0.4416
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,22.5,False,0.3482,0.3977,est,0.3888
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,23.5,False,0.3031,0.3497,est,0.3413
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,24.5,False,0.26,0.3064,book,0.298
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pra,25.5,False,0.2222,0.261,est,0.254
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,15.5,False,0.6493,0.7082,est,0.6976
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,16.5,False,0.5886,0.6522,est,0.6407
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,17.5,False,0.5269,0.5935,est,0.5814
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,18.5,False,0.4656,0.5331,est,0.5209
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,19.5,True,0.4076,0.4742,book,0.4621
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,20.5,False,0.3542,0.4183,est,0.4067
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,21.5,False,0.3049,0.365,est,0.3541
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,22.5,False,0.2614,0.317,est,0.3069
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pr,23.5,False,0.2207,0.2707,est,0.2616
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pa,8.5,False,0.7825,0.7858,est,0.7852
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pa,9.5,False,0.7102,0.6833,book,0.6882
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pa,10.5,False,0.6369,0.6413,est,0.6405
@@ -322,13 +322,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pa,14.5,False,0.3543,0.3587,est,0.3579
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pa,15.5,False,0.2967,0.3008,est,0.3001
 401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,pa,16.5,False,0.2424,0.2459,est,0.2453
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,6.5,False,0.7486,0.7868,est,0.7798
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,7.5,False,0.6428,0.6904,est,0.6817
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,8.5,False,0.5338,0.5865,est,0.577
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,9.5,True,0.4267,0.4797,book,0.4701
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,10.5,False,0.3248,0.3734,est,0.3646
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,11.5,False,0.2396,0.2808,est,0.2733
-401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,12.5,False,0.1749,0.2079,est,0.202
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,6.5,False,0.7486,0.8013,est,0.7918
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,7.5,False,0.6428,0.7091,est,0.6971
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,8.5,False,0.5338,0.608,est,0.5946
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,9.5,True,0.4267,0.502,book,0.4884
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,10.5,False,0.3248,0.3945,est,0.3819
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,11.5,False,0.2396,0.2991,est,0.2883
+401909314,DET @ ORL,ORL,1628976,Wendell Carter Jr.,ra,12.5,False,0.1749,0.223,est,0.2143
 401909314,DET @ ORL,ORL,1641783,Tristan da Silva,pts,6.5,False,0.7801,0.8042,est,0.7998
 401909314,DET @ ORL,ORL,1641783,Tristan da Silva,pts,7.5,False,0.7055,0.735,est,0.7297
 401909314,DET @ ORL,ORL,1641783,Tristan da Silva,pts,8.5,False,0.6254,0.6591,est,0.653
@@ -465,13 +465,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1630591,Jalen Suggs,pts,13.5,False,0.2675,0.3288,est,0.3177
 401909314,DET @ ORL,ORL,1630591,Jalen Suggs,pts,14.5,False,0.2166,0.2921,book,0.2784
 401909314,DET @ ORL,ORL,1630591,Jalen Suggs,pts,15.5,False,0.1746,0.2209,est,0.2125
-401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,1.5,False,0.867,0.9059,est,0.8989
-401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,2.5,False,0.7021,0.7768,est,0.7633
-401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,3.5,False,0.5171,0.6126,est,0.5953
-401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,4.5,True,0.3424,0.4347,book,0.418
-401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,5.5,False,0.2038,0.2885,book,0.2732
-401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,6.5,False,0.1148,0.1773,book,0.166
-401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,7.5,False,0.0578,0.083,est,0.0785
+401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,1.5,False,0.867,0.9049,est,0.898
+401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,2.5,False,0.7021,0.7609,book,0.7503
+401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,3.5,False,0.5171,0.6008,book,0.5856
+401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,4.5,True,0.3424,0.4317,book,0.4155
+401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,5.5,False,0.2038,0.2841,book,0.2696
+401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,6.5,False,0.1148,0.1731,book,0.1625
+401909314,DET @ ORL,ORL,1630591,Jalen Suggs,reb,7.5,False,0.0578,0.1027,book,0.0946
 401909314,DET @ ORL,ORL,1630591,Jalen Suggs,ast,0.5,False,0.9718,0.9725,est,0.9724
 401909314,DET @ ORL,ORL,1630591,Jalen Suggs,ast,1.5,False,0.8845,0.8868,est,0.8864
 401909314,DET @ ORL,ORL,1630591,Jalen Suggs,ast,2.5,False,0.7336,0.7391,book,0.7381
@@ -597,13 +597,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,ORL,1630532,Franz Wagner,pts,25.5,False,0.397,0.3941,est,0.3946
 401909314,DET @ ORL,ORL,1630532,Franz Wagner,pts,26.5,False,0.3589,0.3561,est,0.3566
 401909314,DET @ ORL,ORL,1630532,Franz Wagner,pts,27.5,False,0.3254,0.3227,est,0.3232
-401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,3.5,False,0.8555,0.8543,est,0.8545
-401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,4.5,False,0.738,0.736,est,0.7364
-401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,5.5,False,0.5973,0.5859,book,0.588
-401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,6.5,True,0.4518,0.4493,book,0.4498
-401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,7.5,False,0.3277,0.3254,est,0.3259
-401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,8.5,False,0.2225,0.2189,book,0.2196
-401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,9.5,False,0.1426,0.1413,est,0.1416
+401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,3.5,False,0.8555,0.8259,book,0.8313
+401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,4.5,False,0.738,0.7167,book,0.7206
+401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,5.5,False,0.5973,0.5792,book,0.5825
+401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,6.5,True,0.4518,0.4461,book,0.4471
+401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,7.5,False,0.3277,0.3179,book,0.3197
+401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,8.5,False,0.2225,0.2148,book,0.2162
+401909314,DET @ ORL,ORL,1630532,Franz Wagner,reb,9.5,False,0.1426,0.1389,book,0.1396
 401909314,DET @ ORL,ORL,1630532,Franz Wagner,ast,3.5,False,0.8371,0.8882,est,0.8789
 401909314,DET @ ORL,ORL,1630532,Franz Wagner,ast,4.5,False,0.7184,0.786,book,0.7738
 401909314,DET @ ORL,ORL,1630532,Franz Wagner,ast,5.5,False,0.5731,0.6747,est,0.6563
@@ -929,12 +929,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,DET,1628989,Kevin Huerter,pts,13.5,False,0.3302,0.3782,est,0.3695
 401909314,DET @ ORL,DET,1628989,Kevin Huerter,pts,14.5,False,0.2734,0.3326,book,0.3219
 401909314,DET @ ORL,DET,1628989,Kevin Huerter,pts,15.5,False,0.2243,0.2629,est,0.2559
-401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,0.5,False,0.9504,0.9654,est,0.9627
-401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,1.5,False,0.8132,0.8638,est,0.8546
-401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,2.5,False,0.6165,0.6912,book,0.6777
-401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,3.5,True,0.4108,0.5039,book,0.487
-401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,4.5,False,0.2432,0.3314,book,0.3154
-401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,5.5,False,0.1321,0.2019,book,0.1893
+401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,0.5,False,0.9504,0.9658,est,0.963
+401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,1.5,False,0.8132,0.8652,est,0.8557
+401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,2.5,False,0.6165,0.6949,book,0.6807
+401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,3.5,True,0.4108,0.5068,book,0.4894
+401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,4.5,False,0.2432,0.3386,book,0.3213
+401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,5.5,False,0.1321,0.205,book,0.1918
 401909314,DET @ ORL,DET,1628989,Kevin Huerter,reb,6.5,False,0.064,0.1168,book,0.1072
 401909314,DET @ ORL,DET,1628989,Kevin Huerter,ast,0.5,False,0.9275,0.9316,est,0.9309
 401909314,DET @ ORL,DET,1628989,Kevin Huerter,ast,1.5,False,0.7565,0.768,est,0.7659
@@ -996,13 +996,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pts,17.5,False,0.3041,0.3688,est,0.3571
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pts,18.5,False,0.2568,0.316,est,0.3053
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pts,19.5,False,0.2168,0.2702,est,0.2605
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,1.5,False,0.8767,0.9102,est,0.9041
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,2.5,False,0.7131,0.7562,book,0.7484
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,3.5,False,0.5197,0.596,book,0.5822
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,4.5,True,0.3411,0.4248,book,0.4097
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,5.5,False,0.1995,0.2773,book,0.2632
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,6.5,False,0.111,0.1702,book,0.1595
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,7.5,False,0.0568,0.0984,book,0.0909
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,0.5,False,0.9708,0.9764,est,0.9754
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,1.5,False,0.8767,0.8986,est,0.8947
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,2.5,False,0.7131,0.7446,book,0.7389
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,3.5,True,0.5197,0.5744,book,0.5645
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,4.5,False,0.3411,0.4046,book,0.3931
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,5.5,False,0.1995,0.2603,book,0.2493
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,reb,6.5,False,0.111,0.1571,book,0.1487
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ast,1.5,False,0.9365,0.9413,est,0.9404
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ast,2.5,False,0.8331,0.8341,book,0.8339
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ast,3.5,False,0.6879,0.7044,book,0.7014
@@ -1020,26 +1020,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,stl,2.5,False,0.1316,,model only,0.1316
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,blk,0.5,False,0.2344,,model only,0.2344
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,blk,1.5,False,0.0317,,model only,0.0317
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,19.5,False,0.6706,0.7374,book,0.7253
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,20.5,False,0.6196,0.7013,est,0.6865
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,21.5,False,0.5663,0.653,est,0.6373
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,22.5,False,0.5131,0.603,est,0.5867
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,23.5,False,0.4606,0.5517,est,0.5352
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,24.5,True,0.4134,0.5039,book,0.4875
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,25.5,False,0.3632,0.4512,est,0.4353
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,26.5,False,0.3192,0.4032,est,0.388
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,27.5,False,0.2801,0.3593,est,0.3449
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,28.5,False,0.2417,0.3148,est,0.3016
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,29.5,False,0.2089,0.2757,book,0.2636
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,15.5,False,0.6424,0.7216,est,0.7073
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,16.5,False,0.5817,0.6674,est,0.6519
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,17.5,False,0.5233,0.613,est,0.5968
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,18.5,False,0.4657,0.557,est,0.5405
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,19.5,True,0.4083,0.4989,book,0.4825
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,20.5,False,0.3569,0.4447,est,0.4288
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,21.5,False,0.3104,0.3937,est,0.3786
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,22.5,False,0.2682,0.3458,est,0.3318
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,23.5,False,0.2273,0.2979,est,0.2851
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,19.5,False,0.6706,0.7301,book,0.7193
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,20.5,False,0.6196,0.6953,est,0.6816
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,21.5,False,0.5663,0.6465,est,0.632
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,22.5,False,0.5131,0.5961,est,0.5811
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,23.5,False,0.4606,0.5446,est,0.5294
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,24.5,True,0.4134,0.4968,book,0.4817
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,25.5,False,0.3632,0.4442,est,0.4295
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,26.5,False,0.3192,0.3964,est,0.3824
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,27.5,False,0.2801,0.3528,est,0.3396
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,28.5,False,0.2417,0.3087,est,0.2966
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pra,29.5,False,0.2089,0.2678,book,0.2571
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,15.5,False,0.6424,0.7191,est,0.7052
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,16.5,False,0.5817,0.6646,est,0.6496
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,17.5,False,0.5233,0.61,est,0.5943
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,18.5,False,0.4657,0.554,est,0.538
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,19.5,True,0.4083,0.4958,book,0.48
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,20.5,False,0.3569,0.4416,est,0.4263
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,21.5,False,0.3104,0.3908,est,0.3762
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,22.5,False,0.2682,0.343,est,0.3295
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pr,23.5,False,0.2273,0.2953,est,0.283
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pa,16.5,False,0.6366,0.7017,est,0.6899
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pa,17.5,False,0.5804,0.65,est,0.6374
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pa,18.5,False,0.5239,0.5964,est,0.5832
@@ -1049,13 +1049,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pa,22.5,False,0.3164,0.3832,est,0.3711
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pa,23.5,False,0.2732,0.3354,est,0.3242
 401909314,DET @ ORL,DET,1642450,Daniss Jenkins,pa,24.5,False,0.2343,0.2911,est,0.2808
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,6.5,False,0.7317,0.7844,est,0.7749
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,7.5,False,0.612,0.6778,est,0.6659
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,8.5,False,0.4933,0.5649,est,0.5519
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,9.5,True,0.3763,0.4459,book,0.4333
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,10.5,False,0.2757,0.3368,est,0.3257
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,11.5,False,0.1935,0.2424,est,0.2336
-401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,12.5,False,0.1299,0.166,est,0.1595
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,5.5,False,0.8277,0.8567,est,0.8514
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,6.5,False,0.7317,0.7724,est,0.765
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,7.5,False,0.612,0.6624,est,0.6533
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,8.5,True,0.4933,0.5477,book,0.5379
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,9.5,False,0.3763,0.4287,est,0.4193
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,10.5,False,0.2757,0.3214,est,0.3131
+401909314,DET @ ORL,DET,1642450,Daniss Jenkins,ra,11.5,False,0.1935,0.2299,est,0.2233
 401909314,DET @ ORL,DET,1630198,Isaiah Joe,pts,5.5,False,0.777,0.7602,book,0.7632
 401909314,DET @ ORL,DET,1630198,Isaiah Joe,pts,6.5,False,0.6989,0.7388,est,0.7316
 401909314,DET @ ORL,DET,1630198,Isaiah Joe,pts,7.5,False,0.6217,0.6488,book,0.6439
