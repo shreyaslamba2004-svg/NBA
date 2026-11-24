@@ -1,6 +1,6 @@
 # NBA model · Tue 24 Nov 2026 (US date)
 
-Updated **Wed 25 Nov, 08:22 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-24/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 25 Nov, 08:37 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-24/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -41,7 +41,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| DET @ ORL | Wed 25 Nov 11:00 | 111.0–108.7 | DET 57% | 1.76 / 2.31 | ORL +2.5 | 219.5 | ORL +2.5 covers 49%; o212.5 65% |
+| DET @ ORL | Wed 25 Nov 11:00 | 111.0–108.7 | DET 57% | 1.76 / 2.31 | ORL +2.5 | 219.5 | ORL +1.5 covers 46%; o212.5 65% |
 | BOS @ WAS | Wed 25 Nov 12:00 | 115.8–107.0 | BOS 74% | 1.36 / 3.78 | WAS +8.5 | 222.5 | WAS +10.5 covers 55%; o218.5 59% |
 | DAL @ DEN | Wed 25 Nov 14:00 | 113.3–121.9 | DAL 27% | 3.66 / 1.38 | DEN -8.5 | 234.5 | DEN -8.5 covers 51%; o234.5 51% |
 
@@ -50,8 +50,8 @@ Out: Paolo Banchero (ORL), Colin Castleton (ORL), Jonathan Isaac (ORL), Noah Pen
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 111.0–108.7 | DET 57% | 1.76 / 2.31 | ORL +2.5 | 219.5 | ORL +2.5 covers 49%; o212.5 65% |
-| Expected (weighted by chance each plays) | 110.8–108.8 | DET 56% | 1.79 / 2.27 | ORL +2.5 | 219.5 | ORL +2.5 covers 50%; o212.5 64% |
+| Confirmed players only | 111.0–108.7 | DET 57% | 1.76 / 2.31 | ORL +2.5 | 219.5 | ORL +1.5 covers 46%; o212.5 65% |
+| Expected (weighted by chance each plays) | 110.8–108.8 | DET 56% | 1.79 / 2.27 | ORL +2.5 | 219.5 | ORL +1.5 covers 47%; o212.5 64% |
 
 **Questionable players: chance to play, and their projection if they do**
 
@@ -193,7 +193,7 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Nikola Jokic | 99% | 35.7<br><sub>37,38,39,38,42</sub> | 26.6<br><sub>26,28,24,26,37</sub> | 25.5 · –<br><sub>o 49% · u 51%</sub> | 12.7<br><sub>8,15,8,7,18</sub> | 11.5<br><sub>o 53% · u 47%</sub> | 11.0<br><sub>10,7,9,11,11</sub> | 9.5<br><sub>o 54% · u 46%</sub> | 1.5<br><sub>1,2,3,2,1</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.5 | 0.9 | 3.4 | 50.3 |
+| Nikola Jokic | 99% | 35.7<br><sub>37,38,39,38,42</sub> | 26.6<br><sub>26,28,24,26,37</sub> | 25.5 · –<br><sub>o 49% · u 51%</sub> | 12.7<br><sub>8,15,8,7,18</sub> | 11.5<br><sub>o 54% · u 46%</sub> | 11.0<br><sub>10,7,9,11,11</sub> | 9.5<br><sub>o 54% · u 46%</sub> | 1.5<br><sub>1,2,3,2,1</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.5 | 0.9 | 3.4 | 50.3 |
 | Jamal Murray | 99% | 35.5<br><sub>38,35,38,36,45</sub> | 25.0<br><sub>23,28,21,14,45</sub> | 23.5 · –<br><sub>o 48% · u 52%</sub> | 4.7<br><sub>7,4,7,2,5</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 6.8<br><sub>9,4,2,7,7</sub> | 6.5<br><sub>o 48% · u 52%</sub> | 3.0<br><sub>0,1,2,1,6</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.0 | 0.6 | 2.4 | 36.5 |
 | Christian Braun | 99% | 31.1<br><sub>28,33,35,31,38</sub> | 13.1<br><sub>17,10,15,19,21</sub> | 12.5 · –<br><sub>o 51% · u 49%</sub> | 4.6<br><sub>7,3,5,5,8</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 2.6<br><sub>1,3,3,3,3</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 1.4<br><sub>1,2,1,3,3</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 1.3 | 0.4 | 1.0 | 20.3 |
 | Cameron Johnson | 98% | 28.4<br><sub>31,27,26,29,36</sub> | 13.4<br><sub>12,9,8,19,16</sub> | 12.5 · –<br><sub>o 51% · u 49%</sub> | 3.7<br><sub>5,0,5,3,2</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 2.5<br><sub>2,1,1,6,5</sub> |  | 1.8<br><sub>1,0,0,2,4</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.9 | 0.3 | 1.1 | 19.6 |
@@ -231,7 +231,7 @@ Out: Sergio de Larrea (DAL), Dereck Lively II (DAL)
 | Marcus Sasser (DAL) | 52% | 7.9<br><sub>-,18,4,-,-</sub> | 2.8<br><sub>-,5,0,-,-</sub> |  | 0.7<br><sub>-,1,2,-,-</sub> |  | 1.1<br><sub>-,2,1,-,-</sub> |  | 0.3<br><sub>-,1,0,-,-</sub> |  | 0.2 | 0.1 | 0.4 | 4.6 |
 | Moussa Cisse (DAL) | 52% | 6.4<br><sub>-,4,4,-,-</sub> | 2.2<br><sub>-,1,0,-,-</sub> |  | 2.2<br><sub>-,1,1,-,-</sub> |  | 0.2<br><sub>-,0,0,-,-</sub> |  | 0.0<br><sub>-,0,0,-,-</sub> |  | 0.2 | 0.4 | 0.3 | 4.6 |
 | Jett Howard (DAL) | 52% | 5.8<br><sub>-,7,-,-,-</sub> | 2.9<br><sub>-,0,-,-,-</sub> |  | 0.7<br><sub>-,0,-,-,-</sub> |  | 0.5<br><sub>-,1,-,-,-</sub> |  | 0.2<br><sub>-,0,-,-,-</sub> |  | 0.2 | 0.1 | 0.2 | 4.0 |
-| Nikola Jokic (DEN) | 99% | 35.7<br><sub>37,38,39,38,42</sub> | 26.6<br><sub>26,28,24,26,37</sub> | 25.5 · –<br><sub>o 49% · u 51%</sub> | 12.7<br><sub>8,15,8,7,18</sub> | 11.5<br><sub>o 53% · u 47%</sub> | 11.0<br><sub>10,7,9,11,11</sub> | 9.5<br><sub>o 54% · u 46%</sub> | 1.5<br><sub>1,2,3,2,1</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.5 | 0.9 | 3.4 | 50.3 |
+| Nikola Jokic (DEN) | 99% | 35.7<br><sub>37,38,39,38,42</sub> | 26.6<br><sub>26,28,24,26,37</sub> | 25.5 · –<br><sub>o 49% · u 51%</sub> | 12.7<br><sub>8,15,8,7,18</sub> | 11.5<br><sub>o 54% · u 46%</sub> | 11.0<br><sub>10,7,9,11,11</sub> | 9.5<br><sub>o 54% · u 46%</sub> | 1.5<br><sub>1,2,3,2,1</sub> | 1.5<br><sub>o 42% · u 58%</sub> | 1.5 | 0.9 | 3.4 | 50.3 |
 | Jamal Murray (DEN) | 99% | 35.6<br><sub>38,35,38,36,45</sub> | 25.1<br><sub>23,28,21,14,45</sub> | 23.5 · –<br><sub>o 48% · u 52%</sub> | 4.7<br><sub>7,4,7,2,5</sub> | 4.5<br><sub>o 46% · u 54%</sub> | 6.8<br><sub>9,4,2,7,7</sub> | 6.5<br><sub>o 48% · u 52%</sub> | 3.0<br><sub>0,1,2,1,6</sub> | 2.5<br><sub>o 51% · u 49%</sub> | 1.1 | 0.6 | 2.4 | 36.6 |
 | Christian Braun (DEN) | 99% | 31.0<br><sub>28,33,35,31,38</sub> | 13.0<br><sub>17,10,15,19,21</sub> | 12.5 · –<br><sub>o 51% · u 49%</sub> | 4.6<br><sub>7,3,5,5,8</sub> | 4.5<br><sub>o 49% · u 51%</sub> | 2.6<br><sub>1,3,3,3,3</sub> | 2.5<br><sub>o 49% · u 51%</sub> | 1.4<br><sub>1,2,1,3,3</sub> | 1.5<br><sub>o 45% · u 55%</sub> | 1.3 | 0.4 | 1.0 | 20.2 |
 | Cameron Johnson (DEN) | 98% | 28.6<br><sub>31,27,26,29,36</sub> | 13.3<br><sub>12,9,8,19,16</sub> | 12.5 · –<br><sub>o 51% · u 49%</sub> | 3.7<br><sub>5,0,5,3,2</sub> | 3.5<br><sub>o 51% · u 49%</sub> | 2.6<br><sub>2,1,1,6,5</sub> |  | 1.7<br><sub>1,0,0,2,4</sub> | 1.5<br><sub>o 59% · u 41%</sub> | 0.9 | 0.3 | 1.1 | 19.6 |

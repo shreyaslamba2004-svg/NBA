@@ -1,6 +1,6 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+DET @ ORL,ORL +1.5 + Anthony Black 10+ pts,2,0.3951,0.3906,2.56,2.69,2.41,-0.0577,1.038,2.10-2.50
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 1+ 3pm,2,0.633,0.4634,2.16,2.27,2.03,-0.058,0.997,1.85-2.10
-DET @ ORL,ORL +2.5 + Anthony Black 10+ pts,2,0.417,0.4026,2.48,2.61,2.34,-0.0588,1.036,2.10-2.50
 DET @ ORL,Isaiah Joe 3pm under 2.5 + Anthony Black 10+ pts,2,0.6202,0.4635,2.16,2.27,2.03,-0.0597,1.0,1.85-2.10
 DET @ ORL,game over 212.5 + Anthony Black 10+ pts,2,0.5394,0.3914,2.55,2.68,2.4,-0.0601,1.033,2.10-2.50
 DET @ ORL,DET win + Daniss Jenkins 10+ pa,2,0.5375,0.5144,1.94,2.04,1.82,-0.0615,1.013,1.65-1.85
@@ -29,7 +29,7 @@ DAL @ DEN,Kyrie Irving pa under 27.5 + Jamal Murray 1+ 3pm,2,0.6418,0.4635,2.16,
 DAL @ DEN,Kyrie Irving pa under 27.5 + Cameron Johnson 10+ pra,2,0.6389,0.4674,2.14,2.25,2.02,-0.0554,0.997,1.85-2.10
 DAL @ DEN,DEN win + Cameron Johnson 10+ pa,2,0.605,0.5983,1.67,1.75,1.55,-0.0712,1.017,1.50-1.65
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Jamal Murray 1+ 3pm,2,0.6891,0.5506,1.82,1.91,1.68,-0.0775,1.0,1.65-1.85
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5219,1.92,2.01,1.77,-0.0781,0.999,1.65-1.85
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 6+ ast,2,0.6803,0.5454,1.83,1.93,1.69,-0.0783,1.0,1.65-1.85
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5249,1.91,2.0,1.75,-0.0793,0.999,1.65-1.85
 DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.579,1.73,1.81,1.57,-0.089,0.987,1.50-1.65
 DAL @ DEN,DEN win + Nikola Jokic 6+ ast + Jamal Murray 25+ pra,3,0.5906,0.5602,1.79,1.87,1.58,-0.1135,1.029,1.50-1.65
