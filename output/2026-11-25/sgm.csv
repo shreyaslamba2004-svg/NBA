@@ -1,28 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+CHI @ CHA,Josh Giddey 20+ pr + Tre Jones 15+ pra,2,0.5182,0.4026,2.48,2.61,2.44,-0.0172,1.01,2.10-2.50
+CHI @ CHA,Josh Giddey 20+ pr + Isaac Okoro 10+ pra,2,0.5412,0.4251,2.35,2.47,2.3,-0.0216,1.008,2.10-2.50
 CHI @ CHA,Josh Giddey 13+ pts + Tre Jones 15+ pra,2,0.5331,0.4114,2.43,2.55,2.38,-0.0227,1.011,2.10-2.50
-CHI @ CHA,Josh Giddey 13+ pts + Naz Reid 6+ reb,2,0.5368,0.4246,2.36,2.47,2.28,-0.0309,1.008,2.10-2.50
-CHI @ CHA,Josh Giddey 13+ pts + Isaac Okoro 10+ pra,2,0.5541,0.4323,2.31,2.43,2.24,-0.0317,1.004,2.10-2.50
+CHI @ CHA,Josh Giddey 20+ pr + Isaac Okoro 5+ pa,2,0.5973,0.4742,2.11,2.21,2.05,-0.0294,1.003,1.85-2.10
 CHI @ CHA,Josh Giddey 13+ pts + Sion James 5+ pa,2,0.6013,0.4653,2.15,2.26,2.08,-0.0338,1.0,1.85-2.10
 CHI @ CHA,Josh Giddey 13+ pts + Isaac Okoro 5+ pa,2,0.6133,0.4836,2.07,2.17,1.99,-0.0366,1.001,1.85-2.10
-CHI @ CHA,Tre Jones 12+ pts + Isaac Okoro 5+ pa,2,0.6222,0.4536,2.2,2.31,2.09,-0.0533,1.001,1.85-2.10
 CHI @ CHA,Royce O'Neale 3pm under 1.5 + Isaac Okoro 5+ pa,2,0.6601,0.5062,1.98,2.07,1.84,-0.0685,0.999,1.65-1.85
-CHI @ CHA,Josh Giddey 1+ 3pm + Naz Reid 6+ reb,2,0.6838,0.5998,1.67,1.75,1.5,-0.0984,1.002,1.50-1.65
-CHI @ CHA,Tre Jones 15+ pra + Sion James 10+ pra + Isaac Okoro 10+ pra,3,0.6368,0.503,1.99,2.09,1.73,-0.1308,1.008,1.65-1.85
-CHI @ CHA,Tre Jones 15+ pra + Josh Giddey 1+ 3pm + Isaac Okoro 10+ pra,3,0.5943,0.4731,2.11,2.22,1.84,-0.1317,1.009,1.65-1.85
-CHI @ CHA,Sion James 5+ pa + Josh Giddey 1+ 3pm + Isaac Okoro 10+ pra,3,0.6744,0.5384,1.86,1.95,1.6,-0.1362,1.004,1.50-1.65
-CHI @ CHA,Sion James 5+ pa + Josh Giddey 1+ 3pm + Naz Reid 6+ reb,3,0.6496,0.5258,1.9,2.0,1.63,-0.1403,1.003,1.50-1.65
-CLE @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5665,0.449,2.23,2.34,2.13,-0.045,1.024,2.10-2.50
-CLE @ NYK,NYK win + Landry Shamet 10+ pa,2,0.5585,0.4399,2.27,2.39,2.17,-0.0459,1.021,2.10-2.50
-CLE @ NYK,NYK win + Landry Shamet 10+ pr,2,0.5603,0.4379,2.28,2.4,2.18,-0.0467,1.018,2.10-2.50
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Andre Drummond 5+ pr,2,0.6067,0.456,2.19,2.3,2.06,-0.0625,0.999,1.85-2.10
-CLE @ NYK,Donovan Mitchell pa under 29.5 + Andre Drummond 5+ pr,2,0.6228,0.4692,2.13,2.24,2.0,-0.0634,0.999,1.85-2.10
-CLE @ NYK,Donovan Mitchell pra under 33.5 + Andre Drummond 5+ pr,2,0.611,0.4628,2.16,2.27,2.02,-0.0647,0.999,1.85-2.10
-CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Andre Drummond 4+ reb,2,0.6227,0.5027,1.99,2.09,1.83,-0.0799,1.001,1.65-1.85
-CLE @ NYK,James Harden ast under 6.5 + Landry Shamet 1+ 3pm,2,0.6177,0.5044,1.98,2.08,1.82,-0.083,1.0,1.65-1.85
-CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Landry Shamet 1+ 3pm,2,0.6674,0.5526,1.81,1.9,1.65,-0.0861,1.0,1.65-1.85
-CLE @ NYK,Landry Shamet 10+ pr + Mikal Bridges 10+ pa + Andre Drummond 5+ pr,3,0.6984,0.5696,1.76,1.84,1.5,-0.1435,1.001,1.50-1.65
-CLE @ NYK,Landry Shamet 10+ pa + Mikal Bridges 10+ pa + Andre Drummond 4+ reb,3,0.6488,0.533,1.88,1.97,1.61,-0.1435,1.003,1.50-1.65
-CLE @ NYK,Landry Shamet 10+ pr + Mikal Bridges 10+ pa + Andre Drummond 4+ reb,3,0.6509,0.5307,1.88,1.98,1.61,-0.1442,1.0,1.50-1.65
+CHI @ CHA,Josh Giddey 1+ 3pm + Naz Reid 6+ reb,2,0.6838,0.5998,1.67,1.75,1.5,-0.0983,1.002,1.50-1.65
+CHI @ CHA,Josh Giddey 15+ pr + Tre Jones 15+ pra + Sion James 5+ pa,3,0.6723,0.5052,1.98,2.08,1.74,-0.1229,1.005,1.65-1.85
+CHI @ CHA,Josh Giddey 15+ pr + Tre Jones 15+ pra + Isaac Okoro 5+ pa,3,0.687,0.526,1.9,2.0,1.67,-0.124,1.008,1.65-1.85
+CHI @ CHA,Josh Giddey 15+ pr + Sion James 5+ pa + Isaac Okoro 10+ pra,3,0.7017,0.5331,1.88,1.97,1.64,-0.1275,1.002,1.50-1.65
+CHI @ CHA,Sion James 5+ pa + Josh Giddey 1+ 3pm + Isaac Okoro 10+ pra,3,0.6744,0.5382,1.86,1.95,1.61,-0.1362,1.004,1.50-1.65
+CLE @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5665,0.4468,2.24,2.35,2.14,-0.0438,1.024,2.10-2.50
+CLE @ NYK,Donovan Mitchell pts under 24.5 + Mikal Bridges 10+ pa,2,0.5564,0.413,2.42,2.54,2.27,-0.0611,0.998,2.10-2.50
+CLE @ NYK,NYK win + Mikal Bridges 1+ 3pm,2,0.5241,0.4248,2.35,2.47,2.21,-0.0627,1.01,2.10-2.50
+CLE @ NYK,Donovan Mitchell pts under 24.5 + Andre Drummond 5+ pr,2,0.6067,0.4569,2.19,2.3,2.05,-0.0629,0.999,1.85-2.10
+CLE @ NYK,Donovan Mitchell pra under 33.5 + Andre Drummond 5+ pr,2,0.611,0.4607,2.17,2.28,2.03,-0.0633,0.999,1.85-2.10
+CLE @ NYK,Donovan Mitchell pa under 29.5 + Andre Drummond 5+ pr,2,0.6228,0.4702,2.13,2.23,1.99,-0.0638,0.999,1.85-2.10
+CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Andre Drummond 4+ reb,2,0.6227,0.5046,1.98,2.08,1.82,-0.0808,1.001,1.65-1.85
+CLE @ NYK,James Harden ast under 6.5 + Landry Shamet 1+ 3pm,2,0.6177,0.5022,1.99,2.09,1.83,-0.082,1.0,1.65-1.85
+CLE @ NYK,Andre Drummond 7+ reb + Landry Shamet 1+ 3pm,2,0.5932,0.4949,2.02,2.12,1.85,-0.0864,1.0,1.65-1.85
 MIN @ OKC,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4709,0.4006,2.5,2.62,2.37,-0.0492,1.027,2.10-2.50
 MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pr,2,0.5725,0.4129,2.42,2.54,2.29,-0.0531,1.0,2.10-2.50
 MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pra,2,0.6017,0.4423,2.26,2.37,2.14,-0.055,1.003,2.10-2.50
@@ -35,10 +32,9 @@ MIN @ OKC,Bennett Stirtz 10+ pra + Rudy Gobert 5+ pa,2,0.6027,0.4998,2.0,2.1,1.8
 MIN @ OKC,Shai Gilgeous-Alexander 10+ ra + Rudy Gobert 5+ pa,2,0.5757,0.4929,2.03,2.13,1.85,-0.0892,1.003,1.65-1.85
 MIN @ OKC,Bennett Stirtz 5+ pa + Jaden McDaniels 4+ reb,2,0.7112,0.6001,1.67,1.75,1.51,-0.091,1.0,1.50-1.65
 MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa,3,0.7048,0.5255,1.9,2.0,1.67,-0.1241,1.002,1.65-1.85
-LAC @ MEM,Cam Spencer 15+ pa + MEM win,2,0.3896,0.4041,2.47,2.6,2.48,0.0009,1.052,2.10-2.50
 LAC @ MEM,Brandon Ingram pra under 25.5 + MEM win,2,0.3828,0.4009,2.49,2.62,2.49,-0.0,1.056,2.10-2.50
 LAC @ MEM,Cam Spencer 5+ ast + MEM win,2,0.4052,0.4154,2.41,2.53,2.38,-0.0096,1.038,2.10-2.50
-LAC @ MEM,MEM win + Cam Spencer 10+ pa,2,0.51,0.5814,1.72,1.81,1.62,-0.0589,1.016,1.50-1.65
+LAC @ MEM,Jaylen Wells 14+ pra + MEM win,2,0.3767,0.3977,2.51,2.64,2.47,-0.0181,1.041,2.10-2.50
 LAC @ MEM,Cam Spencer 8+ ra + Rui Hachimura 10+ pra,2,0.5972,0.4564,2.19,2.3,2.06,-0.0615,1.002,1.85-2.10
 LAC @ MEM,Cam Spencer 8+ ra + Cedric Coward 4+ reb,2,0.5936,0.4533,2.21,2.32,2.07,-0.0623,1.001,1.85-2.10
 LAC @ MEM,Cam Spencer 8+ ra + Darius Garland 1+ 3pm,2,0.5854,0.4489,2.23,2.34,2.09,-0.0627,1.001,1.85-2.10
@@ -47,6 +43,7 @@ LAC @ MEM,MEM win + Cam Spencer 1+ 3pm,2,0.4527,0.5322,1.88,1.97,1.75,-0.0701,1.
 LAC @ MEM,Cam Spencer 5+ ast + Rui Hachimura 10+ pra,2,0.6495,0.5145,1.94,2.04,1.81,-0.0711,1.003,1.65-1.85
 LAC @ MEM,Jaylen Wells 1+ 3pm + Max Strus 10+ pra,2,0.6768,0.5993,1.67,1.75,1.5,-0.1005,1.001,1.50-1.65
 LAC @ MEM,MEM win + Rui Hachimura 10+ pr,2,0.491,0.5955,1.68,1.76,1.51,-0.1006,0.985,1.50-1.65
+LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm,2,0.6739,0.5961,1.68,1.76,1.51,-0.1006,1.001,1.50-1.65
 BKN @ MIL,Brayden Burries pra under 22.5 + Noah Clowney 5+ pa,2,0.6457,0.4483,2.23,2.34,2.14,-0.0428,0.999,2.10-2.50
 BKN @ MIL,Brayden Burries pa under 16.5 + Noah Clowney 5+ pa,2,0.6401,0.4431,2.26,2.37,2.16,-0.0433,0.997,2.10-2.50
 BKN @ MIL,Brayden Burries pr under 19.5 + Noah Clowney 5+ pa,2,0.6501,0.4555,2.2,2.31,2.1,-0.0448,0.999,1.85-2.10
