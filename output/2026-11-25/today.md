@@ -1,6 +1,6 @@
 # NBA model · Wed 25 Nov 2026 (US date)
 
-Updated **Thu 26 Nov, 10:26 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-25/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Thu 26 Nov, 10:31 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-25/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -61,7 +61,7 @@ Game lines below assume every questionable player sits; each game's section show
 |---|--:|--:|--:|--:|--:|--:|--:|
 | CHI @ CHA | Thu 26 Nov 11:00 | 112.2–114.9 | CHI 42% | 2.37 / 1.73 | CHA -2.5 | 226.5 | CHA -4.5 covers 45%; o217.5 69% |
 | CLE @ NYK | Thu 26 Nov 11:30 | 108.9–113.8 | CLE 36% | 2.78 / 1.56 | NYK -5.5 | 222.5 | NYK -4.5 covers 52%; o219.5 57% |
-| MIN @ OKC | Thu 26 Nov 11:30 | 112.6–115.4 | MIN 42% | 2.36 / 1.74 | OKC -2.5 | 227.5 | OKC -2.5 covers 51%; o222.5 61% |
+| MIN @ OKC | Thu 26 Nov 11:30 | 112.6–115.4 | MIN 42% | 2.36 / 1.74 | OKC -2.5 | 227.5 | OKC -2.5 covers 51%; o223.5 59% |
 | LAC @ MEM | Thu 26 Nov 12:00 | 115.6–117.7 | LAC 44% | 2.27 / 1.79 | MEM -2.5 | 233.5 | MEM -7.5 covers 35%; o227.5 62% |
 | BKN @ MIL | Thu 26 Nov 12:00 | 108.5–115.5 | BKN 31% | 3.24 / 1.45 | MIL -7.5 | 223.5 | MIL -1.5 covers 66%; o234.5 28% |
 | PHX @ HOU | Thu 26 Nov 12:30 | 111.2–117.6 | PHX 32% | 3.11 / 1.47 | HOU -6.5 | 228.5 | HOU -9.5 covers 41%; o222.5 63% |
