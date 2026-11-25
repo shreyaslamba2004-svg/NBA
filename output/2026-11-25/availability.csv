@@ -3,31 +3,31 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909318,CHA,1628960,Grayson Allen,Out,ConcussionProtocol,0.0,Allen (concussion) has been ruled out for Wednesday's game against Chicago.,,
 401909318,CHA,905060701,Christian Anderson,,,1.0,,,
 401909318,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
-401909318,CHA,1631217,Moussa Diabate,,,1.0,,,
+401909318,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
 401909318,CHA,1641790,PJ Hall,,,1.0,,,
-401909318,CHA,1642883,Sion James,Available,Injury/Illness-LeftThighSoreness,1.0,,,
+401909318,CHA,1642883,Sion James,Starting,Injury/Illness-LeftThighSoreness,1.0,,,1.0
 401909318,CHA,1641750,Ryan Kalkbrenner,Out,,0.0,Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.,,
 401909318,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.,,
 401909318,CHA,1642862,Liam McNeeley,,,1.0,,,
-401909318,CHA,1641706,Brandon Miller,,,1.0,,,
+401909318,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
 401909318,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909318,CHA,1629675,Naz Reid,,,1.0,,,
+401909318,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
 401909318,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401909318,CHA,203471,Dennis Schroder,Out,Injury/Illness-LeftHamstringStrain,0.0,Schroder (hamstring) is out for Wednesday's game the Bulls.,,
 401909318,CHA,905281370,Hannes Steinbach,,,1.0,,,
-401909318,CHA,1629632,Coby White,,,1.0,,,
+401909318,CHA,1629632,Coby White,Starting,,1.0,,,1.0
 401909318,CHA,1629684,Grant Williams,,,1.0,,,
 401909318,CHI,905105555,Tobe Awaka,Out,GLeague-Two-Way,0.0,,,
-401909318,CHI,1641824,Matas Buzelis,,,1.0,,,
-401909318,CHI,1629651,Nic Claxton,,,1.0,,,
+401909318,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
+401909318,CHI,1629651,Nic Claxton,Starting,,1.0,,,1.0
 401909318,CHI,1628380,Zach Collins,,,1.0,,,
 401909318,CHI,1642855,Noa Essengue,,,1.0,,,
-401909318,CHI,1630581,Josh Giddey,,,1.0,,,
+401909318,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
 401909318,CHI,1641722,Jordan Hawkins,,,1.0,,,
-401909318,CHI,1627741,Buddy Hield,,,1.0,,,
+401909318,CHI,1627741,Buddy Hield,Starting,,1.0,,,1.0
 401909318,CHI,1630200,Tre Jones,,,1.0,,,
 401909318,CHI,1631159,Leonard Miller,,,1.0,,,
-401909318,CHI,1630171,Isaac Okoro,,,1.0,,,
+401909318,CHI,1630171,Isaac Okoro,Starting,,1.0,,,1.0
 401909318,CHI,1626181,Norman Powell,Out,Injury/Illness-RightHamstringStrain,0.0,Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week.,,
 401909318,CHI,1631115,Orlando Robinson,,,1.0,,,
 401909318,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
@@ -37,7 +37,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909318,CHI,905095151,Caleb Wilson,Out,,0.0,"Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",,
 401909319,NYK,904683730,Jaden Akins,,,1.0,,,
 401909319,NYK,1630631,Jose Alvarado,,,1.0,,,
-401909319,NYK,1628384,OG Anunoby,Out,Injury/Illness-LeftCalfStrain,0.0,Anunoby (calf) is out for Wednesday's game against Cleveland.,,
+401909319,NYK,1628384,OG Anunoby,Out,Injury/Illness-LeftCalfStrain,0.0,"Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",,
 401909319,NYK,1628969,Mikal Bridges,,,1.0,,,
 401909319,NYK,1628973,Jalen Brunson,Probable,Injury/Illness-Illness,0.93,,,
 401909319,NYK,203903,Jordan Clarkson,Out,Injury/Illness-RightPlantarFasciitis,0.0,Clarkson (foot) is out for Wednesday's game against Cleveland.,,
