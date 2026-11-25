@@ -33,4 +33,4 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909316,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
 401909316,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909316,DAL,1631204,Marcus Sasser,,,1.0,,,
-401909316,DAL,1629023,P.J. Washington,Questionable,Injury/Illness-Illness,0.55,Washington (illness) is questionable for Tuesday's game against the Nuggets.,,
+401909316,DAL,1629023,P.J. Washington,Available,Injury/Illness-Illness,1.0,Washington (illness) is questionable for Tuesday's game against the Nuggets.,,
