@@ -65,7 +65,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909318,CHI,1626181,Norman Powell,Out,Injury/Illness-RightHamstringStrain,0.0,Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week.,,
 401909318,CHI,1631115,Orlando Robinson,,,1.0,,,
 401909318,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
-401909318,CHI,1630188,Jalen Smith,Questionable,Injury/Illness-GastrointestinalIllness,0.55,Smith (illness) is listed as questionable for Wednesday's game against the Hornets.,,
+401909318,CHI,1630188,Jalen Smith,Out,Injury/Illness-GastrointestinalIllness,0.0,Smith (illness) is listed as questionable for Wednesday's game against the Hornets.,,
 401909318,CHI,904848625,Dailyn Swain,,,1.0,,,
 401909318,CHI,1630172,Patrick Williams,,,1.0,,,
 401909318,CHI,905095151,Caleb Wilson,Out,,0.0,"Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",,
