@@ -1,25 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 BOS @ WAS,BOS win + Anthony Davis pts under 20.5,2,0.3895,0.4195,2.38,2.5,2.45,0.0294,1.06,2.10-2.50
 BOS @ WAS,BOS win + AJ Dybantsa pts under 15.5,2,0.4255,0.4268,2.34,2.46,2.4,0.0239,1.054,2.10-2.50
-BOS @ WAS,Bilal Coulibaly 7+ pts + Anthony Davis 6+ reb,2,0.5803,0.4445,2.25,2.36,2.19,-0.0287,1.006,2.10-2.50
-BOS @ WAS,Bilal Coulibaly 7+ pts + Trae Young 4+ ast,2,0.5868,0.461,2.17,2.28,2.09,-0.0378,1.002,1.85-2.10
+BOS @ WAS,BOS win + Anthony Davis 10+ reb,2,0.4813,0.4234,2.36,2.48,2.3,-0.0281,0.998,2.10-2.50
+BOS @ WAS,Bilal Coulibaly 7+ pts + Trae Young 4+ ast,2,0.5868,0.4623,2.16,2.27,2.08,-0.0384,1.002,1.85-2.10
 BOS @ WAS,BOS win + Sam Hauser 3pm under 2.5,2,0.5651,0.4926,2.03,2.13,1.94,-0.0445,0.982,1.85-2.10
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6948,0.4913,2.04,2.14,1.93,-0.0508,0.997,1.85-2.10
-BOS @ WAS,BOS win + Bilal Coulibaly 5+ pa,2,0.641,0.6009,1.66,1.75,1.57,-0.0546,0.991,1.50-1.65
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6948,0.4907,2.04,2.14,1.94,-0.0504,0.997,1.85-2.10
+BOS @ WAS,BOS win + Bilal Coulibaly 5+ pa,2,0.641,0.6002,1.67,1.75,1.58,-0.0543,0.991,1.50-1.65
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.7479,0.5538,1.81,1.9,1.7,-0.0597,1.0,1.65-1.85
 BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.7116,0.5299,1.89,1.98,1.77,-0.0618,0.999,1.65-1.85
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7416,0.5554,1.8,1.89,1.69,-0.0633,0.999,1.65-1.85
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7416,0.5561,1.8,1.89,1.68,-0.0636,0.999,1.65-1.85
 BOS @ WAS,BOS win + Jayson Tatum 6+ reb,2,0.5993,0.6125,1.63,1.71,1.52,-0.0691,0.997,1.50-1.65
 BOS @ WAS,BOS win + Kyshawn George 10+ pts,2,0.5952,0.5881,1.7,1.79,1.57,-0.0752,0.983,1.50-1.65
-DAL @ DEN,Cooper Flagg pra under 38.5 + DEN win,2,0.5014,0.4075,2.45,2.58,2.49,0.013,1.043,2.10-2.50
-DAL @ DEN,DEN win + Nikola Jokic 10+ ast,2,0.455,0.4073,2.46,2.58,2.44,-0.0056,1.045,2.10-2.50
-DAL @ DEN,DEN win + Kyrie Irving 3pm under 3.5,2,0.5327,0.4476,2.23,2.35,2.19,-0.0193,1.02,2.10-2.50
+DAL @ DEN,Cooper Flagg pra under 38.5 + DEN win,2,0.5014,0.4066,2.46,2.58,2.49,0.0109,1.043,2.10-2.50
+DAL @ DEN,DEN win + Nikola Jokic 10+ ast,2,0.455,0.4064,2.46,2.58,2.44,-0.0077,1.045,2.10-2.50
+DAL @ DEN,DEN win + Kyrie Irving 3pm under 3.5,2,0.5327,0.4466,2.24,2.35,2.19,-0.0213,1.02,2.10-2.50
 DAL @ DEN,Kyrie Irving pa under 27.5 + Jamal Murray 1+ 3pm,2,0.6418,0.4673,2.14,2.25,2.02,-0.054,0.998,1.85-2.10
 DAL @ DEN,Kyrie Irving pts under 22.5 + Nikola Jokic 6+ ast,2,0.624,0.463,2.16,2.27,2.04,-0.0568,1.001,1.85-2.10
 DAL @ DEN,Kyrie Irving pa under 27.5 + Cameron Johnson 10+ pra,2,0.6389,0.4706,2.12,2.23,2.0,-0.0574,0.997,1.85-2.10
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Jamal Murray 1+ 3pm,2,0.6891,0.5464,1.83,1.92,1.69,-0.0756,1.0,1.65-1.85
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5206,1.92,2.02,1.77,-0.0772,0.999,1.65-1.85
-DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5754,1.74,1.82,1.6,-0.0777,0.987,1.50-1.65
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Cameron Johnson 10+ pra,2,0.6855,0.5498,1.82,1.91,1.67,-0.0796,0.998,1.65-1.85
-DAL @ DEN,DEN win + Jamal Murray 1+ 3pm + Nikola Jokic 6+ ast,3,0.6319,0.5839,1.71,1.8,1.52,-0.1125,1.013,1.50-1.65
-DAL @ DEN,DEN win + Jamal Murray 1+ 3pm + Nikola Jokic 8+ reb,3,0.606,0.5602,1.79,1.87,1.58,-0.1176,1.007,1.50-1.65
+DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5742,1.74,1.83,1.6,-0.0796,0.987,1.50-1.65
+DAL @ DEN,DEN win + Jamal Murray 1+ 3pm + Nikola Jokic 6+ ast,3,0.6319,0.5827,1.72,1.8,1.52,-0.1143,1.013,1.50-1.65
+DAL @ DEN,DEN win + Jamal Murray 1+ 3pm + Nikola Jokic 8+ reb,3,0.606,0.559,1.79,1.88,1.58,-0.1195,1.007,1.50-1.65
