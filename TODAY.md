@@ -1,6 +1,6 @@
 # NBA model · Tue 24 Nov 2026 (US date)
 
-Updated **Wed 25 Nov, 11:47 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-24/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 25 Nov, 11:57 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-24/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -22,7 +22,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Nikola Jokic AST over 15.5 (16+) | DAL @ DEN | draftkings | 14.40 | 12.85 | 7.35 | 13.6% | 6.5% | 7.8% | +12.0% | +96.0% | 0.2% |
 | Nikola Jokic AST over 17.5 (18+) | DAL @ DEN | draftkings | 29.00 | 26.18 | 15.35 | 6.5% | 3.2% | 3.8% | +10.7% | +88.9% | 0.1% |
 | Trae Young AST over 11.5 (12+) | BOS @ WAS | draftkings | 8.10 | 7.45 | 4.55 | 22.0% | 11.5% | 13.4% | +8.7% | +77.8% | 0.3% |
-| WAS to win | BOS @ WAS | tabtouch | 5.00 | 4.67 | 3.72 | 26.9% | 21.4% | 21.4% | +7.1% | +34.6% | 0.4% |
+| WAS to win | BOS @ WAS | unibet | 5.00 | 4.67 | 3.72 | 26.9% | 21.4% | 21.4% | +7.1% | +34.6% | 0.4% |
 | Jamal Murray PA over 44.5 (45+) | DAL @ DEN | draftkings | 13.80 | 12.89 | 8.18 | 12.2% | 6.8% | 7.8% | +7.1% | +68.7% | 0.1% |
 | Trae Young PRA over 39.5 (40+) | BOS @ WAS | draftkings | 17.00 | 15.90 | 10.12 | 9.9% | 5.5% | 6.3% | +7.0% | +68.0% | 0.1% |
 | Trae Young PRA over 34.5 (35+) | BOS @ WAS | draftkings | 7.70 | 7.27 | 4.76 | 21.0% | 12.1% | 13.8% | +5.9% | +61.9% | 0.2% |
