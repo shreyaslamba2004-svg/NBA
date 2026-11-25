@@ -1,17 +1,17 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909316,DEN,1628963,Marvin Bagley III,Active,,1.0,,,
-401909316,DEN,1631128,Christian Braun,Starting,,1.0,,,1.0
+401909316,DEN,1631128,Christian Braun,Active,,1.0,,,
 401909316,DEN,904698719,Trevon Brazile,Active,,1.0,,,
 401909316,DEN,201942,DeMar DeRozan,Active,,1.0,,,
 401909316,DEN,904065813,Alpha Diallo,Active,,1.0,,,
-401909316,DEN,203932,Aaron Gordon,Starting,,1.0,,,1.0
+401909316,DEN,203932,Aaron Gordon,Active,,1.0,,,
 401909316,DEN,1641747,DaRon Holmes II,Active,,1.0,,,
 401909316,DEN,904565698,Bryce Hopkins,Active,,1.0,,,
-401909316,DEN,1629661,Cameron Johnson,Starting,,1.0,,,1.0
-401909316,DEN,203999,Nikola Jokic,Starting,,1.0,,,1.0
+401909316,DEN,1629661,Cameron Johnson,Active,,1.0,,,
+401909316,DEN,203999,Nikola Jokic,Active,,1.0,,,
 401909316,DEN,904592427,Spencer Jones,Active,,1.0,,,
 401909316,DEN,1626145,Tyus Jones,Active,,1.0,,,
-401909316,DEN,1627750,Jamal Murray,Starting,,1.0,,,1.0
+401909316,DEN,1627750,Jamal Murray,Active,,1.0,,,
 401909316,DEN,904433629,Ryan Nembhard,Active,,1.0,,,
 401909316,DEN,1630192,Zeke Nnaji,Active,,1.0,,,
 401909316,DEN,1631124,Julian Strawther,Active,,1.0,,,
@@ -22,15 +22,15 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909316,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909316,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909316,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) is listed as out for Wednesday's game against the Warriors.,0.0,De Larrea (knee) is listed as out for Wednesday's game against the Warriors.,,
-401909316,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
-401909316,DAL,1629655,Daniel Gafford,Starting,,1.0,,,1.0
+401909316,DAL,1642843,Cooper Flagg,,,1.0,,,
+401909316,DAL,1629655,Daniel Gafford,,,1.0,,,
 401909316,DAL,1641724,Jett Howard,,,1.0,,,
-401909316,DAL,202681,Kyrie Irving,Starting,,1.0,,,1.0
+401909316,DAL,202681,Kyrie Irving,,,1.0,,,
 401909316,DAL,1642358,Morez Johnson Jr.,,,1.0,,,
 401909316,DAL,905106040,Tobi Lawal,Out,Injury/Illness-RightGroinStrain,0.0,Lawal (groin) is out for Tuesday's game against Denver.,,
 401909316,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,"Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's ""close"" to returning, Mike Curtis of The Dallas Morning News reports.",,
 401909316,DAL,1630230,Naji Marshall,,,1.0,,,
-401909316,DAL,1628997,Caleb Martin,Starting,Injury/Illness-RightThumbSplint,1.0,,,1.0
-401909316,DAL,905211175,Zaccharie Risacher,Starting,,1.0,,,1.0
+401909316,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
+401909316,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909316,DAL,1631204,Marcus Sasser,,,1.0,,,
 401909316,DAL,1629023,P.J. Washington,Available,Injury/Illness-Illness,1.0,,,
