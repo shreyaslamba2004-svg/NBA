@@ -1,15 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 MIA @ PHI,PHI -1.5 + VJ Edgecombe 1+ 3pm,2,0.3999,0.4025,2.48,2.61,2.34,-0.0581,1.012,2.10-2.50
-MIA @ PHI,PHI -1.5 + Anfernee Simons 1+ 3pm,2,0.39,0.4061,2.46,2.59,2.31,-0.0604,1.017,2.10-2.50
-MIA @ PHI,PHI -1.5 + VJ Edgecombe 15+ pra,2,0.435,0.4435,2.25,2.37,2.12,-0.0607,1.012,2.10-2.50
-MIA @ PHI,PHI win + VJ Edgecombe 15+ pra,2,0.4654,0.4651,2.15,2.26,2.0,-0.0702,1.012,1.85-2.10
-MIA @ PHI,Davion Mitchell pra under 27.5 + VJ Edgecombe 15+ pra,2,0.5929,0.4683,2.14,2.24,1.98,-0.0748,1.0,1.85-2.10
-MIA @ PHI,Anfernee Simons 9+ pts + Bam Adebayo 6+ reb,2,0.558,0.4507,2.22,2.33,2.05,-0.0761,1.003,1.85-2.10
-MIA @ PHI,Anfernee Simons 10+ pr + VJ Edgecombe 15+ pra,2,0.6522,0.5247,1.91,2.0,1.75,-0.0791,1.001,1.65-1.85
-MIA @ PHI,Davion Mitchell 3pm under 2.5 + VJ Edgecombe 1+ 3pm,2,0.6253,0.51,1.96,2.06,1.8,-0.0803,1.003,1.65-1.85
-MIA @ PHI,Davion Mitchell 3pm under 2.5 + LeBron James 4+ reb,2,0.6342,0.5227,1.91,2.01,1.75,-0.0849,1.001,1.65-1.85
-MIA @ PHI,Davion Mitchell 3pm under 2.5 + VJ Edgecombe 15+ pra,2,0.6773,0.5594,1.79,1.88,1.63,-0.0869,0.999,1.50-1.65
-MIA @ PHI,LeBron James 4+ reb + Jaylen Brown 1+ 3pm + Bam Adebayo 6+ reb,3,0.6678,0.557,1.8,1.89,1.53,-0.1465,1.003,1.50-1.65
+MIA @ PHI,PHI -1.5 + Anfernee Simons 1+ 3pm,2,0.39,0.4045,2.47,2.6,2.32,-0.0596,1.017,2.10-2.50
+MIA @ PHI,PHI -1.5 + VJ Edgecombe 15+ pra,2,0.435,0.4428,2.26,2.37,2.12,-0.0604,1.012,2.10-2.50
+MIA @ PHI,PHI -1.5 + LeBron James 15+ pr,2,0.427,0.4478,2.23,2.34,2.09,-0.0634,1.016,1.85-2.10
+MIA @ PHI,PHI win + VJ Edgecombe 15+ pra,2,0.4654,0.4644,2.15,2.26,2.0,-0.0698,1.012,1.85-2.10
+MIA @ PHI,Davion Mitchell 3pm under 2.5 + VJ Edgecombe 1+ 3pm,2,0.6253,0.4959,2.02,2.12,1.87,-0.0734,1.003,1.85-2.10
+MIA @ PHI,Anfernee Simons 10+ pr + VJ Edgecombe 15+ pra,2,0.6522,0.5197,1.92,2.02,1.78,-0.0768,1.001,1.65-1.85
+MIA @ PHI,Davion Mitchell 3pm under 2.5 + LeBron James 4+ reb,2,0.6342,0.5074,1.97,2.07,1.82,-0.0778,1.001,1.65-1.85
+MIA @ PHI,Davion Mitchell 3pm under 2.5 + VJ Edgecombe 15+ pra,2,0.6773,0.5432,1.84,1.93,1.69,-0.0797,0.999,1.65-1.85
+MIA @ PHI,LeBron James 4+ reb + Bam Adebayo 6+ reb + Jaylen Brown 1+ 3pm,3,0.6678,0.5546,1.8,1.89,1.54,-0.1456,1.003,1.50-1.65
+MIA @ PHI,LeBron James 4+ reb + Bam Adebayo 6+ reb + Anfernee Simons 1+ 3pm,3,0.6539,0.5519,1.81,1.9,1.54,-0.149,1.003,1.50-1.65
+MIA @ PHI,VJ Edgecombe 1+ 3pm + Jaylen Brown 1+ 3pm + Anfernee Simons 1+ 3pm,3,0.6247,0.5227,1.91,2.01,1.63,-0.1496,1.0,1.50-1.65
 CHI @ CHA,game over 221.5 + Josh Giddey 15+ pr,2,0.5245,0.3949,2.53,2.66,2.43,-0.0421,1.04,2.10-2.50
 CHI @ CHA,game over 221.5 + Isaac Okoro 10+ pra,2,0.536,0.4231,2.36,2.48,2.22,-0.0592,1.033,2.10-2.50
 CHI @ CHA,CHA -3.5 + Josh Giddey 4+ reb,2,0.4142,0.4175,2.4,2.52,2.24,-0.0644,1.0,2.10-2.50
@@ -48,12 +49,12 @@ MIN @ OKC,Shai Gilgeous-Alexander 10+ ra + Isaiah Hartenstein 15+ pra,2,0.5766,0
 LAC @ MEM,Cam Spencer 8+ ra + Jaylen Wells 10+ pra,2,0.5632,0.3955,2.53,2.65,2.44,-0.0366,1.005,2.10-2.50
 LAC @ MEM,Cam Spencer 18+ pra + Jaylen Wells 10+ pra,2,0.5667,0.4122,2.43,2.55,2.32,-0.0421,1.009,2.10-2.50
 LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pa,2,0.5926,0.4219,2.37,2.49,2.26,-0.0446,1.0,2.10-2.50
-LAC @ MEM,Cam Spencer 8+ ra + Jaylen Wells 5+ pr,2,0.6319,0.4623,2.16,2.27,2.05,-0.0501,1.001,1.85-2.10
 LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pra,2,0.6289,0.4615,2.17,2.28,2.06,-0.0509,1.001,1.85-2.10
 LAC @ MEM,Cam Spencer 8+ ra + Ty Jerome 1+ 3pm,2,0.6015,0.4531,2.21,2.32,2.08,-0.0556,1.002,1.85-2.10
-LAC @ MEM,Cam Spencer 5+ ast + Jaylen Wells 5+ pr,2,0.6866,0.5158,1.94,2.04,1.82,-0.0608,1.001,1.65-1.85
+LAC @ MEM,Cam Spencer 8+ ra + Rui Hachimura 10+ pra,2,0.5972,0.4501,2.22,2.33,2.1,-0.056,1.002,1.85-2.10
 LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pra,2,0.6835,0.515,1.94,2.04,1.82,-0.0613,1.001,1.65-1.85
 LAC @ MEM,Cam Spencer 5+ ast + Ty Jerome 1+ 3pm,2,0.6544,0.5061,1.98,2.07,1.85,-0.0651,1.003,1.65-1.85
+LAC @ MEM,Brandon Ingram pts under 17.5 + Max Strus 5+ pra,2,0.6439,0.5021,1.99,2.09,1.85,-0.0719,1.0,1.65-1.85
 LAC @ MEM,Jaylen Wells 10+ pra + Cam Spencer 1+ 3pm,2,0.6995,0.597,1.68,1.76,1.52,-0.0919,1.002,1.50-1.65
 LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm,2,0.6739,0.5972,1.67,1.76,1.51,-0.1009,1.001,1.50-1.65
 LAC @ MEM,Cam Spencer 10+ pa + Jaylen Wells 10+ pra + Max Strus 5+ pa,3,0.7214,0.5429,1.84,1.93,1.61,-0.1269,1.001,1.50-1.65
@@ -78,7 +79,7 @@ PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6217,0.4815,2.08,2.18,1.9
 PHX @ HOU,Kevin Durant 9+ ra + Collin Gillespie 5+ pr,2,0.6604,0.5217,1.92,2.01,1.78,-0.0732,1.0,1.65-1.85
 PHX @ HOU,Kevin Durant 9+ ra + Jalen Green 10+ pr,2,0.6372,0.5075,1.97,2.07,1.83,-0.0737,1.001,1.65-1.85
 PHX @ HOU,Dillon Brooks 5+ ra + Collin Gillespie 5+ pr,2,0.6258,0.5216,1.92,2.01,1.75,-0.0859,1.002,1.65-1.85
-PHX @ HOU,HOU win + Jalen Green 15+ pra,2,0.5537,0.5818,1.72,1.8,1.57,-0.0868,0.982,1.50-1.65
+PHX @ HOU,HOU win + Jalen Green 15+ pra,2,0.5537,0.5852,1.71,1.79,1.56,-0.088,0.982,1.50-1.65
 PHX @ HOU,HOU win + Dillon Brooks 10+ pts,2,0.5413,0.5726,1.75,1.83,1.58,-0.093,0.976,1.50-1.65
 SAC @ GSW,GSW win + Draymond Green 5+ ast,2,0.5123,0.4029,2.48,2.61,2.4,-0.0317,1.024,2.10-2.50
 SAC @ GSW,SAC +6.5 + Darius Acuff Jr. 20+ pra,2,0.4208,0.4636,2.16,2.26,2.03,-0.0569,1.022,1.85-2.10
@@ -92,15 +93,15 @@ SAC @ GSW,GSW win + Brandin Podziemski 15+ pr,2,0.6521,0.579,1.73,1.81,1.6,-0.07
 SAC @ GSW,GSW win + Brandin Podziemski 10+ pts,2,0.6696,0.595,1.68,1.76,1.56,-0.0729,1.011,1.50-1.65
 SAC @ GSW,Domantas Sabonis reb under 13.5 + Darius Acuff Jr. 20+ pra,2,0.6365,0.5037,1.99,2.08,1.83,-0.079,0.995,1.65-1.85
 SAC @ GSW,Draymond Green 5+ ast + Darius Acuff Jr. 4+ ast,2,0.6279,0.5255,1.9,2.0,1.74,-0.0846,1.003,1.65-1.85
-SAS @ POR,Julian Champagnie 2+ reb + Toumani Camara 10+ pr,2,0.8317,0.4544,2.2,2.31,2.31,0.0488,1.001,2.10-2.50
-SAS @ POR,Julian Champagnie 2+ reb + Jrue Holiday 10+ pr,2,0.8609,0.471,2.12,2.23,2.22,0.047,1.0,2.10-2.50
-SAS @ POR,Julian Champagnie 2+ reb + Sidy Cissoko 5+ pr,2,0.8656,0.4832,2.07,2.17,2.16,0.0425,1.0,2.10-2.50
-SAS @ POR,Julian Champagnie 2+ reb + Stephon Castle 10+ pts,2,0.8557,0.4943,2.02,2.12,2.09,0.0352,1.001,1.85-2.10
-SAS @ POR,game over 225.5 + Stephon Castle 10+ pts,2,0.4473,0.4514,2.22,2.33,2.07,-0.0678,1.023,1.85-2.10
-SAS @ POR,Stephon Castle ast under 7.5 + Jrue Holiday 10+ pr,2,0.5983,0.4628,2.16,2.27,2.01,-0.0689,1.002,1.85-2.10
-SAS @ POR,SAS win + Stephon Castle 10+ pts,2,0.4986,0.5141,1.94,2.04,1.79,-0.0777,1.01,1.65-1.85
-SAS @ POR,SAS win + Sidy Cissoko 5+ pr,2,0.494,0.4921,2.03,2.13,1.85,-0.0904,0.988,1.65-1.85
-SAS @ POR,SAS win + Toumani Camara 1+ 3pm,2,0.4762,0.4928,2.03,2.13,1.84,-0.0939,0.993,1.65-1.85
-SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 10+ pr + Donovan Clingan 8+ reb,3,0.6937,0.5425,1.84,1.94,1.6,-0.1302,1.006,1.50-1.65
-SAS @ POR,Toumani Camara 10+ pr + Sidy Cissoko 5+ pr + Donovan Clingan 8+ reb,3,0.6956,0.5551,1.8,1.89,1.56,-0.1361,1.004,1.50-1.65
-SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 10+ pr + Devin Vassell 1+ 3pm,3,0.7079,0.5727,1.75,1.83,1.5,-0.1396,1.003,1.50-1.65
+SAS @ POR,Julian Champagnie 2+ reb + Toumani Camara 10+ pr,2,0.8317,0.4548,2.2,2.31,2.31,0.0491,1.001,2.10-2.50
+SAS @ POR,Julian Champagnie 2+ reb + Jrue Holiday 10+ pr,2,0.8609,0.4706,2.12,2.23,2.23,0.0479,1.0,2.10-2.50
+SAS @ POR,Julian Champagnie 2+ reb + Sidy Cissoko 5+ pr,2,0.8656,0.4797,2.08,2.19,2.18,0.0449,1.0,2.10-2.50
+SAS @ POR,Julian Champagnie 3pm under 2.5 + Donovan Clingan 6+ reb,2,0.6191,0.4647,2.15,2.26,2.02,-0.0603,1.001,1.85-2.10
+SAS @ POR,game over 225.5 + Stephon Castle 10+ pts,2,0.4473,0.4508,2.22,2.33,2.07,-0.0674,1.023,1.85-2.10
+SAS @ POR,Stephon Castle ast under 7.5 + Jrue Holiday 10+ pr,2,0.5983,0.464,2.16,2.26,2.01,-0.0694,1.002,1.85-2.10
+SAS @ POR,SAS win + Stephon Castle 10+ pts,2,0.4986,0.5134,1.95,2.05,1.8,-0.0774,1.01,1.65-1.85
+SAS @ POR,SAS win + Toumani Camara 1+ 3pm,2,0.4762,0.494,2.02,2.13,1.83,-0.0945,0.993,1.65-1.85
+SAS @ POR,SAS win + Jrue Holiday 1+ 3pm,2,0.475,0.4888,2.05,2.15,1.85,-0.0958,0.989,1.65-1.85
+SAS @ POR,Toumani Camara 10+ pr + Sidy Cissoko 5+ pr + Donovan Clingan 8+ reb,3,0.6956,0.5605,1.78,1.87,1.54,-0.1382,1.004,1.50-1.65
+SAS @ POR,Toumani Camara 10+ pr + Donovan Clingan 8+ reb + Jrue Holiday 1+ 3pm,3,0.6687,0.5587,1.79,1.88,1.53,-0.1443,1.006,1.50-1.65
+SAS @ POR,Toumani Camara 10+ pr + Donovan Clingan 8+ reb + Devin Vassell 1+ 3pm,3,0.6461,0.5439,1.84,1.93,1.57,-0.1476,1.004,1.50-1.65
