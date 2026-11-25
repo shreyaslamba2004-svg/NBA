@@ -4648,12 +4648,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,6.5,False,0.7685,,model only,0.7685
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,7.5,False,0.6905,,model only,0.6905
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,8.5,False,0.6083,,model only,0.6083
-401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,9.5,False,0.5234,0.4367,book,0.4524
+401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,9.5,False,0.5234,0.4429,book,0.4575
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,10.5,False,0.442,,model only,0.442
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,11.5,False,0.3664,,model only,0.3664
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,12.5,False,0.2998,,model only,0.2998
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,13.5,False,0.2422,,model only,0.2422
-401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,14.5,False,0.1909,0.1829,book,0.1843
+401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pr,14.5,False,0.1909,0.1865,book,0.1873
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pa,5.5,False,0.8055,,model only,0.8055
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pa,6.5,False,0.7262,,model only,0.7262
 401909320,MIN @ OKC,OKC,905241364,Bennett Stirtz,pa,7.5,False,0.6422,,model only,0.6422
@@ -9203,15 +9203,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pra,13.5,False,0.3012,,model only,0.3012
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pra,14.5,False,0.2504,,model only,0.2504
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pra,15.5,False,0.2078,,model only,0.2078
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,7.5,False,0.6698,0.7822,est,0.7619
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,8.5,False,0.5973,0.7242,est,0.7012
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,9.5,False,0.5189,0.6563,est,0.6315
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,10.5,False,0.4436,0.5854,est,0.5597
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,11.5,True,0.3762,0.5164,book,0.491
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,12.5,False,0.3141,0.4478,est,0.4236
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,13.5,False,0.2618,0.3858,est,0.3633
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,14.5,False,0.215,0.3265,est,0.3064
-401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,15.5,False,0.1744,0.2722,est,0.2545
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,7.5,False,0.6698,0.779,est,0.7593
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,8.5,False,0.5973,0.7204,est,0.6981
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,9.5,False,0.5189,0.6521,est,0.628
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,10.5,False,0.4436,0.5808,est,0.556
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,11.5,True,0.3762,0.5117,book,0.4872
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,12.5,False,0.3141,0.4431,est,0.4198
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,13.5,False,0.2618,0.3813,est,0.3597
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,14.5,False,0.215,0.3224,est,0.303
+401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pr,15.5,False,0.1744,0.2685,est,0.2515
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pa,2.5,False,0.8379,,model only,0.8379
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pa,3.5,False,0.7403,,model only,0.7403
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,pa,4.5,False,0.6316,,model only,0.6316
