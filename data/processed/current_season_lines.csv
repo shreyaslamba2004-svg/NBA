@@ -280,3 +280,6 @@ game_id,game_date,home,away,book,spread_home,total,over_price,under_price,ml_hom
 401910043,2026-11-23,HOU,LAC,DraftKings,-13.5,222.5,-113.0,-107.0,-700,504,-105.0,-115.0,-13.5,225.5,"Justin Van Duyne, Jonathan Sterling, Mousa Dagher"
 401910044,2026-11-23,LAL,UTA,DraftKings,-13.5,224.5,-113.0,-107.0,-750,530,-103.0,-117.0,-12.5,230.5,"Mark Lindsay, Sean Corbin, Simone Jelks"
 401910045,2026-11-23,SAC,SAS,DraftKings,8.5,222.5,-115.0,-105.0,249,-308,-115.0,-105.0,10.5,224.5,"Brent Barnaky, J.T. Orr, CJ Washington"
+401909314,2026-11-24,ORL,DET,Draft Kings,-3.5,210.5,-110.0,-110.0,-150,126,-106.0,-114.0,1.5,214.5,"John Goble, Karl Lane, Evan Scott"
+401909315,2026-11-24,WAS,BOS,Draft Kings,10.5,218.5,-112.0,-108.0,351,-452,-104.0,-116.0,5.5,230.5,"Marat Kogut, Ben Taylor, Jenna Reneau"
+401909316,2026-11-24,DEN,DAL,Draft Kings,-7.5,234.5,-108.0,-112.0,-277,227,-113.0,-107.0,-8.5,236.5,"Andy Nagy, Justin Van Duyne, Nate Green"
