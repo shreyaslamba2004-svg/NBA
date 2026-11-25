@@ -1,28 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ORL,John Collins 11+ pts + Paul Reed 4+ reb,2,0.5585,0.449,2.23,2.34,2.25,0.0108,1.003,2.10-2.50
-DET @ ORL,John Collins 11+ pts + Kevin Huerter 10+ pra,2,0.5929,0.4802,2.08,2.19,2.1,0.0091,1.004,2.10-2.50
-DET @ ORL,John Collins 11+ pts + Anthony Black 10+ pts,2,0.4964,0.4043,2.47,2.6,2.49,0.0086,1.004,2.10-2.50
-DET @ ORL,John Collins 11+ pts + Wendell Carter Jr. 5+ pa,2,0.585,0.4784,2.09,2.19,2.1,0.0026,0.999,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Daniss Jenkins 1+ 3pm,2,0.6717,0.4622,2.16,2.27,2.1,-0.0295,1.003,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pr,2,0.7161,0.5045,1.98,2.08,1.91,-0.0358,1.002,1.85-2.10
-DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm,2,0.704,0.5935,1.68,1.77,1.53,-0.0918,0.999,1.50-1.65
-DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Daniss Jenkins 1+ 3pm,3,0.6238,0.4936,2.03,2.13,1.75,-0.1382,1.0,1.65-1.85
-DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Paul Reed 4+ reb,3,0.6467,0.5125,1.95,2.05,1.68,-0.1389,0.999,1.65-1.85
-DET @ ORL,Kevin Huerter 15+ pra + Daniss Jenkins 1+ 3pm + Paul Reed 4+ reb,3,0.6915,0.5575,1.79,1.88,1.54,-0.1392,1.003,1.50-1.65
-DET @ ORL,Kevin Huerter 15+ pra + Daniss Jenkins 1+ 3pm + Anthony Black 10+ pts,3,0.6149,0.5021,1.99,2.09,1.71,-0.1408,1.005,1.65-1.85
-DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Desmond Bane 15+ pra,3,0.6463,0.523,1.91,2.01,1.64,-0.1408,1.002,1.50-1.65
-BOS @ WAS,BOS win + Anthony Davis 10+ reb,2,0.4818,0.4223,2.37,2.49,2.3,-0.027,1.001,2.10-2.50
-BOS @ WAS,Anthony Davis 12+ ra + BOS win,2,0.5068,0.4383,2.28,2.4,2.2,-0.035,0.989,2.10-2.50
-BOS @ WAS,Anthony Davis 12+ ra + Bilal Coulibaly 5+ pa,2,0.62,0.4374,2.29,2.4,2.19,-0.0408,1.006,2.10-2.50
-BOS @ WAS,BOS win + Sam Hauser 3pm under 2.5,2,0.5682,0.4929,2.03,2.13,1.94,-0.0439,0.983,1.85-2.10
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6958,0.4923,2.03,2.13,1.93,-0.0487,1.0,1.85-2.10
-BOS @ WAS,Anthony Davis 12+ ra + Bilal Coulibaly 5+ pr,2,0.6652,0.4921,2.03,2.13,1.92,-0.0551,1.003,1.85-2.10
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.7478,0.5548,1.8,1.89,1.69,-0.0613,0.998,1.65-1.85
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7411,0.5552,1.8,1.89,1.69,-0.0636,0.998,1.65-1.85
-BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.705,0.5289,1.89,1.99,1.77,-0.0637,0.998,1.65-1.85
-BOS @ WAS,BOS win + Jayson Tatum 6+ reb,2,0.602,0.6134,1.63,1.71,1.52,-0.0679,0.999,1.50-1.65
-BOS @ WAS,BOS win + Kyshawn George 10+ pts,2,0.5981,0.5874,1.7,1.79,1.57,-0.0763,0.981,1.50-1.65
-BOS @ WAS,Kyshawn George 10+ pts + Jayson Tatum 6+ reb,2,0.6829,0.5967,1.68,1.76,1.51,-0.0972,1.002,1.50-1.65
+BOS @ WAS,BOS win + Anthony Davis 10+ reb,2,0.4813,0.4216,2.37,2.49,2.3,-0.0287,0.998,2.10-2.50
+BOS @ WAS,Anthony Davis 12+ ra + BOS win,2,0.5111,0.4399,2.27,2.39,2.2,-0.0315,0.99,2.10-2.50
+BOS @ WAS,Anthony Davis 12+ ra + Bilal Coulibaly 5+ pa,2,0.627,0.4378,2.28,2.4,2.19,-0.0399,1.004,2.10-2.50
+BOS @ WAS,BOS win + Sam Hauser 3pm under 2.5,2,0.5651,0.4926,2.03,2.13,1.94,-0.0445,0.982,1.85-2.10
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6948,0.4913,2.04,2.14,1.93,-0.0508,0.997,1.85-2.10
+BOS @ WAS,Anthony Davis 12+ ra + Bilal Coulibaly 5+ pr,2,0.6729,0.4934,2.03,2.13,1.92,-0.0525,1.003,1.85-2.10
+BOS @ WAS,BOS win + Bilal Coulibaly 5+ pa,2,0.641,0.6009,1.66,1.75,1.57,-0.0546,0.991,1.50-1.65
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.7479,0.5554,1.8,1.89,1.69,-0.0604,1.0,1.65-1.85
+BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.7116,0.5299,1.89,1.98,1.77,-0.0618,0.999,1.65-1.85
+BOS @ WAS,Sam Hauser 3pm under 2.5 + Anthony Davis 6+ reb,2,0.7416,0.5554,1.8,1.89,1.69,-0.0633,0.999,1.65-1.85
+BOS @ WAS,BOS win + Jayson Tatum 6+ reb,2,0.5993,0.6125,1.63,1.71,1.52,-0.0691,0.997,1.50-1.65
+BOS @ WAS,BOS win + Kyshawn George 10+ pts,2,0.5952,0.5881,1.7,1.79,1.57,-0.0752,0.983,1.50-1.65
 DAL @ DEN,Cooper Flagg pra under 38.5 + DEN win,2,0.5014,0.4075,2.45,2.58,2.49,0.013,1.043,2.10-2.50
 DAL @ DEN,DEN win + Nikola Jokic 10+ ast,2,0.455,0.4073,2.46,2.58,2.44,-0.0056,1.045,2.10-2.50
 DAL @ DEN,DEN win + Kyrie Irving 3pm under 3.5,2,0.5327,0.4476,2.23,2.35,2.19,-0.0193,1.02,2.10-2.50
