@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ WAS,AJ Dybantsa pts under 15.5 + BOS win,2,0.4255,0.4268,2.34,2.46,2.44,0.0423,1.054,2.10-2.50
-BOS @ WAS,BOS win + Anthony Davis pts under 20.5,2,0.3895,0.4195,2.38,2.5,2.45,0.0294,1.06,2.10-2.50
-BOS @ WAS,Sam Hauser 7+ pts + BOS win,2,0.4393,0.4296,2.33,2.44,2.35,0.0094,1.026,2.10-2.50
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.7479,0.5065,1.97,2.07,1.91,-0.0336,1.0,1.85-2.10
-BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.7116,0.4825,2.07,2.18,2.0,-0.0347,0.999,1.85-2.10
-BOS @ WAS,Sam Hauser 3pm under 2.5 + Kyshawn George 10+ pr,2,0.7566,0.5187,1.93,2.02,1.86,-0.0369,0.999,1.85-2.10
-BOS @ WAS,BOS win + Bilal Coulibaly 5+ pa,2,0.641,0.6018,1.66,1.74,1.57,-0.055,0.991,1.50-1.65
-BOS @ WAS,BOS win + Jayson Tatum 2+ 3pm,2,0.6039,0.6094,1.64,1.72,1.55,-0.0552,1.009,1.50-1.65
-BOS @ WAS,Anthony Davis 12+ ra + Kyshawn George 10+ pr,2,0.6815,0.5109,1.96,2.06,1.85,-0.0573,1.003,1.65-1.85
-BOS @ WAS,Anthony Davis 12+ ra + Trae Young 15+ pra,2,0.677,0.5087,1.97,2.06,1.85,-0.0597,1.001,1.65-1.85
-BOS @ WAS,BOS win + Trae Young 10+ pts,2,0.6002,0.5874,1.7,1.79,1.58,-0.0724,0.983,1.50-1.65
-BOS @ WAS,BOS win + AJ Dybantsa 4+ reb + Jayson Tatum 2+ 3pm,3,0.5475,0.5066,1.97,2.07,1.78,-0.0973,1.011,1.65-1.85
 DAL @ DEN,Cooper Flagg pra under 38.5 + DEN win,2,0.5014,0.4066,2.46,2.58,2.49,0.0109,1.043,2.10-2.50
 DAL @ DEN,DEN win + Nikola Jokic 10+ ast,2,0.455,0.4064,2.46,2.58,2.44,-0.0077,1.045,2.10-2.50
 DAL @ DEN,DEN win + Kyrie Irving 3pm under 3.5,2,0.5327,0.4466,2.24,2.35,2.19,-0.0213,1.02,2.10-2.50
