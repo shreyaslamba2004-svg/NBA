@@ -18,18 +18,17 @@ CHI @ CHA,CHA win + Josh Giddey 4+ reb,2,0.4985,0.4998,2.0,2.1,1.83,-0.0845,1.00
 CHI @ CHA,Moussa Diabate 2+ ast + Royce O'Neale 5+ pra,2,0.6524,0.5557,1.8,1.89,1.64,-0.0862,1.003,1.50-1.65
 CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.6748,0.571,1.75,1.84,1.6,-0.087,1.001,1.50-1.65
 CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pr,2,0.686,0.5813,1.72,1.81,1.57,-0.0872,1.001,1.50-1.65
-CLE @ NYK,Sam Merrill 3pm under 1.5 + Andre Drummond 4+ reb,2,0.5895,0.4019,2.49,2.61,2.39,-0.0381,0.998,2.10-2.50
-CLE @ NYK,Sam Merrill 3pm under 1.5 + Andre Drummond 5+ pr,2,0.6233,0.4334,2.31,2.42,2.21,-0.0413,0.999,2.10-2.50
-CLE @ NYK,Sam Merrill 3pm under 1.5 + Landry Shamet 10+ pr,2,0.574,0.4005,2.5,2.62,2.39,-0.0434,0.998,2.10-2.50
-CLE @ NYK,NYK win + Landry Shamet 10+ pr,2,0.5456,0.4525,2.21,2.32,2.09,-0.0534,1.012,1.85-2.10
-CLE @ NYK,NYK win + Landry Shamet 10+ pra,2,0.5775,0.4845,2.06,2.17,1.94,-0.0597,1.009,1.85-2.10
-CLE @ NYK,NYK win + Andre Drummond 4+ reb,2,0.5529,0.448,2.23,2.34,2.1,-0.0609,0.999,1.85-2.10
-CLE @ NYK,Andre Drummond 10+ pr + Mikal Bridges 15+ pra,2,0.6489,0.5102,1.96,2.06,1.84,-0.0618,1.013,1.65-1.85
-CLE @ NYK,Andre Drummond 10+ pr + Landry Shamet 10+ pr,2,0.7121,0.5504,1.82,1.91,1.7,-0.0639,1.007,1.65-1.85
-CLE @ NYK,Andre Drummond 10+ pr + Landry Shamet 10+ pra,2,0.7545,0.59,1.69,1.78,1.58,-0.0691,1.004,1.50-1.65
-CLE @ NYK,Andre Drummond 10+ pr + Landry Shamet 2+ 3pm,2,0.6347,0.5108,1.96,2.06,1.81,-0.0737,1.006,1.65-1.85
-CLE @ NYK,Andre Drummond 10+ pr + James Harden 10+ pts,2,0.7065,0.5681,1.76,1.85,1.63,-0.0754,1.004,1.50-1.65
-CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Mikal Bridges 10+ pra,2,0.6788,0.5625,1.78,1.87,1.62,-0.0862,1.001,1.50-1.65
+CLE @ NYK,Sam Merrill 3pm under 1.5 + Andre Drummond 5+ pr,2,0.612,0.4328,2.31,2.43,2.21,-0.0428,1.002,2.10-2.50
+CLE @ NYK,Sam Merrill 3pm under 1.5 + Andre Drummond 4+ reb,2,0.5684,0.3989,2.51,2.63,2.39,-0.0453,0.997,2.10-2.50
+CLE @ NYK,Sam Merrill 3pm under 1.5 + Mikal Bridges 10+ pra,2,0.6211,0.447,2.24,2.35,2.13,-0.0474,1.001,2.10-2.50
+CLE @ NYK,NYK win + Landry Shamet 10+ pr,2,0.5603,0.4522,2.21,2.32,2.09,-0.054,1.018,1.85-2.10
+CLE @ NYK,NYK win + Landry Shamet 10+ pra,2,0.5977,0.4839,2.07,2.17,1.94,-0.061,1.011,1.85-2.10
+CLE @ NYK,NYK win + Mikal Bridges 10+ pra,2,0.6175,0.5016,1.99,2.09,1.87,-0.0639,1.009,1.85-2.10
+CLE @ NYK,James Harden ra under 11.5 + Andre Drummond 5+ pr,2,0.6278,0.5059,1.98,2.08,1.82,-0.0789,0.999,1.65-1.85
+CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Andre Drummond 4+ reb,2,0.6227,0.5039,1.98,2.08,1.82,-0.0807,1.001,1.65-1.85
+CLE @ NYK,James Harden ast under 6.5 + Mikal Bridges 10+ pra,2,0.6269,0.5091,1.96,2.06,1.8,-0.0818,1.0,1.65-1.85
+CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Mikal Bridges 10+ pra,2,0.6769,0.5617,1.78,1.87,1.62,-0.0875,0.999,1.50-1.65
+CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Landry Shamet 1+ 3pm,2,0.6674,0.5578,1.79,1.88,1.63,-0.0883,1.0,1.50-1.65
 MIN @ OKC,game over 222.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5292,0.3938,2.54,2.67,2.42,-0.0472,1.031,2.10-2.50
 MIN @ OKC,game over 222.5 + Bennett Stirtz 5+ pa,2,0.5482,0.3995,2.5,2.63,2.38,-0.0474,1.025,2.10-2.50
 MIN @ OKC,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4709,0.3997,2.5,2.63,2.38,-0.0498,1.027,2.10-2.50
@@ -54,15 +53,15 @@ LAC @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.4764,0.5585,1.79,1.88,1.67,-0.0652,1
 LAC @ MEM,MEM win + Cam Spencer 1+ 3pm,2,0.4527,0.5322,1.88,1.97,1.75,-0.0701,1.011,1.65-1.85
 LAC @ MEM,MEM win + Max Strus 5+ pa,2,0.5083,0.5828,1.72,1.8,1.57,-0.0856,0.988,1.50-1.65
 LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm,2,0.6739,0.595,1.68,1.76,1.51,-0.1002,1.001,1.50-1.65
-BKN @ MIL,Mikel Brown Jr. pts under 16.5 + Noah Clowney 5+ pa,2,0.6568,0.4278,2.34,2.45,2.27,-0.0272,0.995,2.10-2.50
-BKN @ MIL,Mikel Brown Jr. pts under 16.5 + Noah Clowney 5+ pr,2,0.7009,0.4647,2.15,2.26,2.09,-0.0292,0.998,1.85-2.10
-BKN @ MIL,Mikel Brown Jr. pra under 23.5 + Noah Clowney 5+ pa,2,0.6349,0.4203,2.38,2.5,2.3,-0.0313,0.996,2.10-2.50
-BKN @ MIL,Brayden Burries pra under 22.5 + Noah Clowney 5+ pa,2,0.6457,0.4313,2.32,2.43,2.25,-0.0317,0.999,2.10-2.50
+BKN @ MIL,Mikel Brown Jr. pts under 16.5 + Noah Clowney 5+ pr,2,0.7009,0.473,2.11,2.22,2.04,-0.0334,0.998,1.85-2.10
 BKN @ MIL,Mikel Brown Jr. pts under 16.5 + Noah Clowney 5+ pra,2,0.7133,0.4839,2.07,2.17,2.0,-0.0343,0.998,1.85-2.10
-BKN @ MIL,Brayden Burries pra under 22.5 + Noah Clowney 5+ pr,2,0.6887,0.4681,2.14,2.24,2.06,-0.0344,1.0,1.85-2.10
+BKN @ MIL,Mikel Brown Jr. pra under 23.5 + Noah Clowney 5+ pr,2,0.6769,0.4643,2.15,2.26,2.07,-0.0385,0.998,1.85-2.10
+BKN @ MIL,Mikel Brown Jr. pts under 16.5 + Myles Turner 1+ blk,2,0.6134,0.429,2.33,2.45,2.24,-0.0391,1.0,2.10-2.50
+BKN @ MIL,Mikel Brown Jr. pts under 16.5 + Egor Demin 1+ 3pm,2,0.6504,0.4509,2.22,2.33,2.13,-0.0402,0.997,2.10-2.50
+BKN @ MIL,Mikel Brown Jr. pra under 23.5 + Myles Turner 1+ blk,2,0.5922,0.421,2.38,2.49,2.27,-0.0445,1.0,2.10-2.50
+BKN @ MIL,Brayden Burries ra under 9.5 + Noah Clowney 5+ pr,2,0.6815,0.5158,1.94,2.04,1.81,-0.0644,0.999,1.65-1.85
 BKN @ MIL,Brayden Burries ra under 9.5 + Noah Clowney 5+ pra,2,0.6933,0.5275,1.9,1.99,1.77,-0.0655,0.999,1.65-1.85
-BKN @ MIL,Brayden Burries ra under 9.5 + Day'Ron Sharpe 10+ pr,2,0.6591,0.5184,1.93,2.03,1.79,-0.07,1.002,1.65-1.85
-BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Myles Turner 1+ blk,3,0.669,0.5494,1.82,1.91,1.56,-0.1439,1.002,1.50-1.65
+BKN @ MIL,Brayden Burries ra under 9.5 + Day'Ron Sharpe 10+ pr,2,0.6591,0.5156,1.94,2.04,1.81,-0.0689,1.002,1.65-1.85
 PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4321,2.31,2.43,2.29,-0.0121,1.032,2.10-2.50
 PHX @ HOU,Kevin Durant 9+ ra + HOU win,2,0.4757,0.4496,2.22,2.34,2.14,-0.0377,1.02,2.10-2.50
 PHX @ HOU,Jabari Smith Jr. 2+ ast + HOU win,2,0.4129,0.4046,2.47,2.6,2.37,-0.043,1.024,2.10-2.50
