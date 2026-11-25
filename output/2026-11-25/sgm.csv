@@ -53,13 +53,14 @@ LAC @ MEM,Cam Spencer 5+ ast + Cedric Coward 10+ pa,2,0.6652,0.5223,1.91,2.01,1.
 LAC @ MEM,MEM win + Max Strus 5+ pa,2,0.5083,0.5841,1.71,1.8,1.56,-0.0861,0.988,1.50-1.65
 LAC @ MEM,Cam Spencer 1+ 3pm + Jaylen Wells 1+ 3pm,2,0.6739,0.5955,1.68,1.76,1.51,-0.1003,1.001,1.50-1.65
 BKN @ MIL,Brayden Burries pra under 22.5 + Noah Clowney 5+ pa,2,0.6457,0.4424,2.26,2.37,2.17,-0.0378,0.999,2.10-2.50
+BKN @ MIL,Brayden Burries pra under 22.5 + Egor Demin 5+ pa,2,0.7052,0.4959,2.02,2.12,1.93,-0.042,1.001,1.85-2.10
+BKN @ MIL,Brayden Burries pra under 22.5 + Egor Demin 5+ pr,2,0.7028,0.4918,2.03,2.14,1.95,-0.0422,0.999,1.85-2.10
 BKN @ MIL,Brayden Burries pra under 22.5 + Noah Clowney 5+ pra,2,0.7001,0.4921,2.03,2.13,1.95,-0.0426,1.0,1.85-2.10
 BKN @ MIL,Brayden Burries pa under 16.5 + Noah Clowney 5+ pa,2,0.6401,0.4437,2.25,2.37,2.16,-0.0428,0.997,2.10-2.50
 BKN @ MIL,Brayden Burries pra under 22.5 + Egor Demin 1+ 3pm,2,0.6384,0.453,2.21,2.32,2.11,-0.0457,0.999,2.10-2.50
-BKN @ MIL,Brayden Burries pa under 16.5 + Noah Clowney 5+ pra,2,0.6948,0.494,2.02,2.13,1.93,-0.0466,0.999,1.85-2.10
-BKN @ MIL,Brayden Burries pts under 13.5 + Noah Clowney 5+ pa,2,0.6438,0.4539,2.2,2.31,2.1,-0.0469,0.998,1.85-2.10
-BKN @ MIL,Brayden Burries 3pm under 1.5 + Noah Clowney 5+ pra,2,0.6865,0.5278,1.89,1.99,1.76,-0.0688,0.999,1.65-1.85
-BKN @ MIL,Brayden Burries 3pm under 1.5 + Day'Ron Sharpe 10+ pr,2,0.6523,0.5103,1.96,2.06,1.82,-0.0704,1.002,1.65-1.85
+BKN @ MIL,Brayden Burries pr under 19.5 + Egor Demin 5+ pa,2,0.7092,0.5155,1.94,2.04,1.84,-0.0523,1.0,1.65-1.85
+BKN @ MIL,Brayden Burries 3pm under 1.5 + Egor Demin 5+ pr,2,0.6894,0.5277,1.89,1.99,1.77,-0.068,0.999,1.65-1.85
+BKN @ MIL,Brayden Burries 3pm under 1.5 + Egor Demin 5+ pa,2,0.6914,0.5318,1.88,1.97,1.75,-0.0683,1.0,1.65-1.85
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Myles Turner 1+ blk,3,0.669,0.5605,1.78,1.87,1.52,-0.1481,1.002,1.50-1.65
 PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4321,2.31,2.43,2.29,-0.0121,1.032,2.10-2.50
 PHX @ HOU,Kevin Durant 9+ ra + HOU win,2,0.4757,0.4496,2.22,2.34,2.14,-0.0377,1.02,2.10-2.50

@@ -1,6 +1,6 @@
 # NBA model · Wed 25 Nov 2026 (US date)
 
-Updated **Thu 26 Nov, 08:41 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-25/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Thu 26 Nov, 08:46 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-25/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -66,7 +66,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| MIA @ PHI | Thu 26 Nov 09:00 | 121.2–120.7 | MIA 51% | 1.95 / 2.05 | PHI +0.5 | 241.5 | PHI +1.5 covers 52%; o238.5 57% |
+| MIA @ PHI | Thu 26 Nov 09:00 | 121.2–120.7 | MIA 51% | 1.95 / 2.05 | PHI +0.5 | 241.5 | PHI +1.5 covers 52%; o237.5 59% |
 | CHI @ CHA | Thu 26 Nov 11:00 | 112.2–114.9 | CHI 42% | 2.37 / 1.73 | CHA -2.5 | 226.5 | CHA -3.5 covers 48%; o219.5 65% |
 | CLE @ NYK | Thu 26 Nov 11:30 | 108.9–113.8 | CLE 36% | 2.78 / 1.56 | NYK -5.5 | 222.5 | NYK -2.5 covers 58%; o216.5 63% |
 | MIN @ OKC | Thu 26 Nov 11:30 | 112.6–115.4 | MIN 42% | 2.36 / 1.74 | OKC -2.5 | 227.5 | OKC -1.5 covers 55%; o222.5 61% |
