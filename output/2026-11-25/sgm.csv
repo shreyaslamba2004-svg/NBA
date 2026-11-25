@@ -1,14 +1,14 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHI @ CHA,CHI +3.5 + Tre Jones 15+ pra,2,0.4445,0.3946,2.53,2.66,2.46,-0.0274,1.035,2.10-2.50
-CHI @ CHA,CHI +3.5 + Isaac Okoro 10+ pra,2,0.4576,0.4107,2.43,2.56,2.32,-0.0456,1.018,2.10-2.50
-CHI @ CHA,CHI +3.5 + Josh Giddey 1+ 3pm,2,0.4265,0.3827,2.61,2.74,2.49,-0.0472,1.017,2.10-2.50
-CHI @ CHA,CHI +3.5 + Isaac Okoro 5+ pa,2,0.5021,0.4554,2.2,2.31,2.07,-0.0589,1.007,1.85-2.10
-CHI @ CHA,Josh Giddey 13+ pts + Sion James 5+ pa,2,0.6013,0.4543,2.2,2.31,2.07,-0.0606,1.0,1.85-2.10
-CHI @ CHA,Nic Claxton reb under 6.5 + Sion James 5+ pa,2,0.625,0.4651,2.15,2.26,2.02,-0.0616,0.999,1.85-2.10
-CHI @ CHA,CHA win + Sion James 5+ pa,2,0.554,0.5283,1.89,1.99,1.76,-0.0685,1.01,1.65-1.85
+CHI @ CHA,Josh Giddey 13+ pts + Tre Jones 15+ pra,2,0.5331,0.4114,2.43,2.55,2.38,-0.0227,1.011,2.10-2.50
+CHI @ CHA,Josh Giddey 13+ pts + Naz Reid 6+ reb,2,0.5368,0.4246,2.36,2.47,2.28,-0.0309,1.008,2.10-2.50
+CHI @ CHA,Josh Giddey 13+ pts + Isaac Okoro 10+ pra,2,0.5541,0.4323,2.31,2.43,2.24,-0.0317,1.004,2.10-2.50
+CHI @ CHA,Josh Giddey 13+ pts + Sion James 5+ pa,2,0.6013,0.4653,2.15,2.26,2.08,-0.0338,1.0,1.85-2.10
+CHI @ CHA,Josh Giddey 13+ pts + Isaac Okoro 5+ pa,2,0.6133,0.4836,2.07,2.17,1.99,-0.0366,1.001,1.85-2.10
+CHI @ CHA,Tre Jones 12+ pts + Isaac Okoro 5+ pa,2,0.6222,0.4536,2.2,2.31,2.09,-0.0533,1.001,1.85-2.10
 CHI @ CHA,Royce O'Neale 3pm under 1.5 + Isaac Okoro 5+ pa,2,0.6601,0.5062,1.98,2.07,1.84,-0.0685,0.999,1.65-1.85
-CHI @ CHA,CHA win + Isaac Okoro 5+ pa,2,0.556,0.5402,1.85,1.94,1.69,-0.0862,0.996,1.65-1.85
 CHI @ CHA,Josh Giddey 1+ 3pm + Naz Reid 6+ reb,2,0.6838,0.5998,1.67,1.75,1.5,-0.0984,1.002,1.50-1.65
+CHI @ CHA,Tre Jones 15+ pra + Sion James 10+ pra + Isaac Okoro 10+ pra,3,0.6368,0.503,1.99,2.09,1.73,-0.1308,1.008,1.65-1.85
+CHI @ CHA,Tre Jones 15+ pra + Josh Giddey 1+ 3pm + Isaac Okoro 10+ pra,3,0.5943,0.4731,2.11,2.22,1.84,-0.1317,1.009,1.65-1.85
 CHI @ CHA,Sion James 5+ pa + Josh Giddey 1+ 3pm + Isaac Okoro 10+ pra,3,0.6744,0.5384,1.86,1.95,1.6,-0.1362,1.004,1.50-1.65
 CHI @ CHA,Sion James 5+ pa + Josh Giddey 1+ 3pm + Naz Reid 6+ reb,3,0.6496,0.5258,1.9,2.0,1.63,-0.1403,1.003,1.50-1.65
 CLE @ NYK,NYK win + Mikal Bridges 10+ pa,2,0.5665,0.449,2.23,2.34,2.13,-0.045,1.024,2.10-2.50
@@ -23,18 +23,18 @@ CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Landry Shamet 1+ 3pm,2,0.6674,0.5526,1.
 CLE @ NYK,Landry Shamet 10+ pr + Mikal Bridges 10+ pa + Andre Drummond 5+ pr,3,0.6984,0.5696,1.76,1.84,1.5,-0.1435,1.001,1.50-1.65
 CLE @ NYK,Landry Shamet 10+ pa + Mikal Bridges 10+ pa + Andre Drummond 4+ reb,3,0.6488,0.533,1.88,1.97,1.61,-0.1435,1.003,1.50-1.65
 CLE @ NYK,Landry Shamet 10+ pr + Mikal Bridges 10+ pa + Andre Drummond 4+ reb,3,0.6509,0.5307,1.88,1.98,1.61,-0.1442,1.0,1.50-1.65
-MIN @ OKC,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4709,0.4004,2.5,2.62,2.37,-0.0491,1.027,2.10-2.50
+MIN @ OKC,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4709,0.4006,2.5,2.62,2.37,-0.0492,1.027,2.10-2.50
 MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pr,2,0.5725,0.4129,2.42,2.54,2.29,-0.0531,1.0,2.10-2.50
-MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pra,2,0.6017,0.4419,2.26,2.38,2.14,-0.0548,1.003,2.10-2.50
-MIN @ OKC,Bones Hyland 3pm under 1.5 + Bennett Stirtz 5+ pra,2,0.5963,0.4463,2.24,2.35,2.09,-0.0651,0.997,1.85-2.10
-MIN @ OKC,Bones Hyland 3pm under 1.5 + Kenrich Williams 5+ pa,2,0.5918,0.4482,2.23,2.34,2.08,-0.0657,0.999,1.85-2.10
-MIN @ OKC,LaMelo Ball pa under 25.5 + Bennett Stirtz 5+ pra,2,0.5922,0.4493,2.23,2.34,2.08,-0.0663,1.0,1.85-2.10
-MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast,2,0.7563,0.6128,1.63,1.71,1.5,-0.0804,1.002,1.50-1.65
-MIN @ OKC,Bennett Stirtz 5+ pa + Shai Gilgeous-Alexander 4+ ast,2,0.7365,0.6018,1.66,1.74,1.53,-0.0818,1.002,1.50-1.65
+MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pra,2,0.6017,0.4423,2.26,2.37,2.14,-0.055,1.003,2.10-2.50
+MIN @ OKC,Bones Hyland 3pm under 1.5 + Bennett Stirtz 5+ pra,2,0.5963,0.4467,2.24,2.35,2.09,-0.0654,0.997,1.85-2.10
+MIN @ OKC,Bones Hyland 3pm under 1.5 + Kenrich Williams 5+ pa,2,0.5918,0.4495,2.22,2.34,2.08,-0.0663,0.999,1.85-2.10
+MIN @ OKC,LaMelo Ball pa under 25.5 + Bennett Stirtz 5+ pra,2,0.5922,0.4498,2.22,2.33,2.08,-0.0665,1.0,1.85-2.10
+MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast,2,0.7563,0.6131,1.63,1.71,1.5,-0.0804,1.002,1.50-1.65
+MIN @ OKC,Bennett Stirtz 5+ pa + Shai Gilgeous-Alexander 4+ ast,2,0.7365,0.603,1.66,1.74,1.52,-0.0822,1.002,1.50-1.65
 MIN @ OKC,Bennett Stirtz 10+ pra + Rudy Gobert 5+ pa,2,0.6027,0.4998,2.0,2.1,1.83,-0.0848,1.002,1.65-1.85
 MIN @ OKC,Shai Gilgeous-Alexander 10+ ra + Rudy Gobert 5+ pa,2,0.5757,0.4929,2.03,2.13,1.85,-0.0892,1.003,1.65-1.85
-MIN @ OKC,Bennett Stirtz 5+ pa + Jaden McDaniels 4+ reb,2,0.7112,0.5992,1.67,1.75,1.52,-0.0906,1.0,1.50-1.65
-MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa,3,0.7048,0.5239,1.91,2.0,1.67,-0.1234,1.002,1.65-1.85
+MIN @ OKC,Bennett Stirtz 5+ pa + Jaden McDaniels 4+ reb,2,0.7112,0.6001,1.67,1.75,1.51,-0.091,1.0,1.50-1.65
+MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa,3,0.7048,0.5255,1.9,2.0,1.67,-0.1241,1.002,1.65-1.85
 LAC @ MEM,Cam Spencer 15+ pa + MEM win,2,0.3896,0.4041,2.47,2.6,2.48,0.0009,1.052,2.10-2.50
 LAC @ MEM,Brandon Ingram pra under 25.5 + MEM win,2,0.3828,0.4009,2.49,2.62,2.49,-0.0,1.056,2.10-2.50
 LAC @ MEM,Cam Spencer 5+ ast + MEM win,2,0.4052,0.4154,2.41,2.53,2.38,-0.0096,1.038,2.10-2.50
@@ -46,7 +46,7 @@ LAC @ MEM,MEM win + Jaylen Wells 1+ 3pm,2,0.4764,0.5596,1.79,1.88,1.67,-0.0656,1
 LAC @ MEM,MEM win + Cam Spencer 1+ 3pm,2,0.4527,0.5322,1.88,1.97,1.75,-0.0701,1.011,1.65-1.85
 LAC @ MEM,Cam Spencer 5+ ast + Rui Hachimura 10+ pra,2,0.6495,0.5145,1.94,2.04,1.81,-0.0711,1.003,1.65-1.85
 LAC @ MEM,Jaylen Wells 1+ 3pm + Max Strus 10+ pra,2,0.6768,0.5993,1.67,1.75,1.5,-0.1005,1.001,1.50-1.65
-LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm,2,0.6739,0.5961,1.68,1.76,1.51,-0.1006,1.001,1.50-1.65
+LAC @ MEM,MEM win + Rui Hachimura 10+ pr,2,0.491,0.5955,1.68,1.76,1.51,-0.1006,0.985,1.50-1.65
 BKN @ MIL,Brayden Burries pra under 22.5 + Noah Clowney 5+ pa,2,0.6457,0.4483,2.23,2.34,2.14,-0.0428,0.999,2.10-2.50
 BKN @ MIL,Brayden Burries pa under 16.5 + Noah Clowney 5+ pa,2,0.6401,0.4431,2.26,2.37,2.16,-0.0433,0.997,2.10-2.50
 BKN @ MIL,Brayden Burries pr under 19.5 + Noah Clowney 5+ pa,2,0.6501,0.4555,2.2,2.31,2.1,-0.0448,0.999,1.85-2.10
@@ -59,18 +59,18 @@ BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Day'Ron Sharpe 6+ reb,3,0.625
 BKN @ MIL,Noah Clowney 5+ pa + Julius Randle 4+ reb + Day'Ron Sharpe 6+ reb,3,0.6033,0.5029,1.99,2.09,1.7,-0.1475,1.001,1.65-1.85
 BKN @ MIL,Noah Clowney 5+ pa + Julius Randle 4+ reb + Day'Ron Sharpe 15+ pra,3,0.6649,0.5587,1.79,1.88,1.53,-0.1476,1.003,1.50-1.65
 BKN @ MIL,Noah Clowney 5+ pa + Day'Ron Sharpe 6+ reb + Myles Turner 1+ blk,3,0.5873,0.4907,2.04,2.14,1.73,-0.1499,0.999,1.65-1.85
-PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4193,2.38,2.5,2.36,-0.012,1.032,2.10-2.50
+PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4174,2.4,2.52,2.38,-0.0046,1.032,2.10-2.50
 PHX @ HOU,Kevin Durant 9+ ra + HOU win,2,0.4757,0.4358,2.29,2.41,2.23,-0.0301,1.02,2.10-2.50
 PHX @ HOU,Jabari Smith Jr. 2+ ast + HOU win,2,0.4129,0.4052,2.47,2.59,2.37,-0.0415,1.024,2.10-2.50
-PHX @ HOU,Kevin Durant 4+ ast + Dillon Brooks 10+ pa,2,0.6006,0.4489,2.23,2.34,2.1,-0.0593,1.001,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6217,0.4663,2.14,2.25,2.01,-0.0607,1.001,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Collin Gillespie 5+ pr,2,0.6438,0.4802,2.08,2.19,1.95,-0.0615,0.999,1.85-2.10
+PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6217,0.4641,2.15,2.26,2.04,-0.0536,1.001,1.85-2.10
+PHX @ HOU,Kevin Durant 4+ ast + Collin Gillespie 5+ pr,2,0.6438,0.478,2.09,2.2,1.98,-0.0545,0.999,1.85-2.10
+PHX @ HOU,Kevin Durant 9+ ra + Alperen Sengun 6+ reb,2,0.6152,0.4685,2.13,2.24,2.0,-0.062,1.003,1.85-2.10
 PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.5726,0.6003,1.67,1.75,1.56,-0.0622,1.023,1.50-1.65
 PHX @ HOU,Kevin Durant 9+ ra + Collin Gillespie 5+ pr,2,0.6604,0.506,1.98,2.08,1.85,-0.066,1.0,1.65-1.85
+PHX @ HOU,Khaman Maluach reb under 5.5 + Collin Gillespie 5+ pr,2,0.6247,0.5124,1.95,2.05,1.79,-0.0852,0.999,1.65-1.85
 PHX @ HOU,Dillon Brooks 5+ ra + Collin Gillespie 5+ pr,2,0.6258,0.5218,1.92,2.01,1.75,-0.086,1.002,1.65-1.85
-PHX @ HOU,Khaman Maluach reb under 5.5 + Collin Gillespie 5+ pr,2,0.6247,0.5146,1.94,2.04,1.78,-0.0862,0.999,1.65-1.85
-PHX @ HOU,Dillon Brooks 15+ pra + Jalen Green 15+ pra,2,0.6789,0.5901,1.69,1.78,1.54,-0.0907,1.008,1.50-1.65
-PHX @ HOU,Jalen Green 15+ pra + Dillon Brooks 10+ pts,2,0.6829,0.6004,1.67,1.75,1.51,-0.0953,1.006,1.50-1.65
+PHX @ HOU,HOU win + Dillon Brooks 1+ 3pm,2,0.5747,0.5991,1.67,1.75,1.52,-0.0874,0.994,1.50-1.65
+PHX @ HOU,Dillon Brooks 15+ pra + Jalen Green 15+ pra,2,0.6789,0.5923,1.69,1.77,1.53,-0.0915,1.008,1.50-1.65
 SAC @ GSW,GSW win + Darius Acuff Jr. pr under 28.5,2,0.4631,0.3877,2.58,2.71,2.5,-0.0318,1.045,2.10-2.50
 SAC @ GSW,SAC +7.5 + Domantas Sabonis 15+ pa,2,0.3663,0.4093,2.44,2.57,2.36,-0.0334,1.047,2.10-2.50
 SAC @ GSW,game over 215.5 + Domantas Sabonis 15+ pa,2,0.5467,0.4084,2.45,2.57,2.36,-0.0354,1.045,2.10-2.50
