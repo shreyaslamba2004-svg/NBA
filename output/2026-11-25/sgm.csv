@@ -2,24 +2,25 @@ matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,
 MIA @ PHI,MIA win + Davion Mitchell 15+ pa,2,0.4471,0.4279,2.34,2.45,2.22,-0.0498,1.023,2.10-2.50
 MIA @ PHI,MIA win + Bam Adebayo 10+ pts,2,0.4631,0.4343,2.3,2.42,2.18,-0.0548,1.013,2.10-2.50
 MIA @ PHI,PHI win + VJ Edgecombe 15+ pr,2,0.4296,0.4087,2.45,2.57,2.31,-0.0574,1.026,2.10-2.50
+MIA @ PHI,Bam Adebayo 13+ ra + VJ Edgecombe 15+ pra,2,0.5761,0.4455,2.24,2.36,2.09,-0.0687,0.999,1.85-2.10
+MIA @ PHI,PHI win + VJ Edgecombe 15+ pra,2,0.4834,0.4621,2.16,2.27,2.01,-0.0706,1.012,1.85-2.10
 MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 6+ reb,2,0.5873,0.4497,2.22,2.33,2.06,-0.0725,0.995,1.85-2.10
-MIA @ PHI,Bam Adebayo 13+ ra + Davion Mitchell 4+ ast,2,0.5807,0.4641,2.15,2.26,2.0,-0.073,1.002,1.85-2.10
-MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 10+ pts,2,0.6185,0.4881,2.05,2.15,1.9,-0.0737,1.001,1.85-2.10
 MIA @ PHI,LeBron James ast under 7.5 + VJ Edgecombe 10+ pr,2,0.6386,0.5019,1.99,2.09,1.85,-0.0739,1.0,1.65-1.85
 MIA @ PHI,LeBron James ast under 7.5 + Davion Mitchell 4+ ast,2,0.6218,0.5021,1.99,2.09,1.84,-0.0776,1.002,1.65-1.85
-MIA @ PHI,VJ Edgecombe 15+ pr + LeBron James 4+ reb + Jaylen Brown 1+ 3pm,3,0.6113,0.5169,1.93,2.03,1.65,-0.1467,1.006,1.65-1.85
+MIA @ PHI,Jaylen Brown 2+ 3pm + Davion Mitchell 4+ ast,2,0.5483,0.492,2.03,2.13,1.83,-0.0993,0.999,1.65-1.85
 MIA @ PHI,VJ Edgecombe 15+ pr + Jaylen Brown 1+ 3pm + Bam Adebayo 10+ pts,3,0.6566,0.5569,1.8,1.89,1.53,-0.149,1.004,1.50-1.65
 MIA @ PHI,VJ Edgecombe 15+ pr + LeBron James 4+ reb + Bam Adebayo 10+ pts,3,0.6676,0.5659,1.77,1.86,1.5,-0.1497,1.003,1.50-1.65
-CHI @ CHA,CHI +3.5 + Isaac Okoro 10+ pra,2,0.4292,0.4257,2.35,2.47,2.21,-0.0602,1.026,2.10-2.50
-CHI @ CHA,game over 221.5 + Moussa Diabate 15+ pr,2,0.5408,0.4106,2.44,2.56,2.28,-0.0633,1.031,2.10-2.50
-CHI @ CHA,game over 221.5 + Isaac Okoro 10+ pra,2,0.56,0.4227,2.37,2.48,2.21,-0.067,1.026,2.10-2.50
-CHI @ CHA,game over 221.5 + Matas Buzelis 15+ pra,2,0.5929,0.4516,2.21,2.32,2.06,-0.07,1.024,1.85-2.10
-CHI @ CHA,CHI +3.5 + Matas Buzelis 15+ pra,2,0.4507,0.4512,2.22,2.33,2.06,-0.0709,1.017,1.85-2.10
-CHI @ CHA,CHI +3.5 + Isaac Okoro 5+ pa,2,0.48,0.4708,2.12,2.23,1.97,-0.0719,1.011,1.85-2.10
-CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.676,0.563,1.78,1.87,1.63,-0.0825,1.002,1.50-1.65
-CHI @ CHA,Moussa Diabate 2+ ast + Josh Giddey 4+ reb,2,0.6186,0.5175,1.93,2.03,1.77,-0.0826,1.003,1.65-1.85
-CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 10+ pra,2,0.5955,0.5014,1.99,2.09,1.82,-0.0849,1.002,1.65-1.85
-CHI @ CHA,Moussa Diabate 2+ ast + Matas Buzelis 15+ pra,2,0.6309,0.5361,1.87,1.96,1.7,-0.0873,1.001,1.65-1.85
+CHI @ CHA,game over 221.5 + Moussa Diabate 15+ pr,2,0.5408,0.4114,2.43,2.55,2.3,-0.0544,1.031,2.10-2.50
+CHI @ CHA,game over 221.5 + Naz Reid 6+ reb,2,0.5282,0.4006,2.5,2.62,2.35,-0.06,1.024,2.10-2.50
+CHI @ CHA,game over 221.5 + Josh Giddey 4+ reb,2,0.5725,0.4266,2.34,2.46,2.18,-0.0689,1.01,2.10-2.50
+CHI @ CHA,CHI +3.5 + Isaac Okoro 5+ pa,2,0.48,0.4697,2.13,2.24,1.98,-0.0714,1.011,1.85-2.10
+CHI @ CHA,Josh Giddey 13+ pts + Isaac Okoro 5+ pa,2,0.5754,0.4636,2.16,2.27,2.0,-0.0715,1.005,1.85-2.10
+CHI @ CHA,game over 221.5 + Isaac Okoro 5+ pa,2,0.624,0.4635,2.16,2.27,2.0,-0.0717,1.007,1.85-2.10
+CHI @ CHA,Moussa Diabate 2+ ast + Josh Giddey 4+ reb,2,0.6186,0.5201,1.92,2.02,1.76,-0.0867,1.003,1.65-1.85
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.676,0.5666,1.76,1.85,1.61,-0.0869,1.002,1.50-1.65
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pr,2,0.6872,0.5767,1.73,1.82,1.58,-0.0874,1.002,1.50-1.65
+CHI @ CHA,CHA win + Isaac Okoro 5+ pr,2,0.5873,0.5328,1.88,1.97,1.71,-0.0906,0.997,1.65-1.85
+CHI @ CHA,CHA win + Naz Reid 4+ reb,2,0.5685,0.5241,1.91,2.0,1.73,-0.0928,0.998,1.65-1.85
 CLE @ NYK,Landry Shamet 15+ pa + Mikal Bridges 10+ pa,2,0.5293,0.3929,2.55,2.67,2.46,-0.0328,1.022,2.10-2.50
 CLE @ NYK,Mikal Bridges 18+ pra + Landry Shamet 10+ pa,2,0.5531,0.3989,2.51,2.63,2.42,-0.0348,1.019,2.10-2.50
 CLE @ NYK,Mikal Bridges 18+ pra + Landry Shamet 10+ pr,2,0.5539,0.4009,2.49,2.62,2.4,-0.0373,1.017,2.10-2.50
@@ -43,40 +44,40 @@ MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pr,2,0.6719,0.57
 MIN @ OKC,Isaiah Hartenstein reb under 11.5 + Rudy Gobert 10+ pr,2,0.5716,0.4911,2.04,2.14,1.84,-0.0963,0.998,1.65-1.85
 MIN @ OKC,Terrence Shannon Jr. ast under 2.5 + Rudy Gobert 10+ pr,2,0.5649,0.4923,2.03,2.13,1.82,-0.1036,0.994,1.65-1.85
 MIN @ OKC,Jaden McDaniels 4+ reb + Kenrich Williams 10+ pr,2,0.6498,0.5902,1.69,1.78,1.51,-0.1068,1.0,1.50-1.65
-LAC @ MEM,MEM win + Brandon Ingram ast under 3.5,2,0.3829,0.4008,2.49,2.62,2.41,-0.0355,1.031,2.10-2.50
-LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pa,2,0.5925,0.4251,2.35,2.47,2.24,-0.0469,1.002,2.10-2.50
-LAC @ MEM,Cam Spencer 8+ ra + Cedric Coward 4+ reb,2,0.5911,0.4389,2.28,2.39,2.15,-0.055,1.001,2.10-2.50
-LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pra,2,0.6261,0.4647,2.15,2.26,2.03,-0.0552,1.001,1.85-2.10
-LAC @ MEM,Cam Spencer 15+ pa + Max Strus 5+ pa,2,0.6027,0.4535,2.21,2.32,2.08,-0.0562,1.002,1.85-2.10
-LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pa,2,0.6411,0.4748,2.11,2.21,1.99,-0.0568,0.999,1.85-2.10
-LAC @ MEM,MEM win + Cam Spencer 10+ pa,2,0.5117,0.5602,1.79,1.87,1.67,-0.0632,1.013,1.65-1.85
-LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pra,2,0.678,0.5194,1.93,2.02,1.8,-0.0642,1.0,1.65-1.85
-LAC @ MEM,Cam Spencer 5+ ast + Ty Jerome 1+ 3pm,2,0.6455,0.5072,1.97,2.07,1.84,-0.0683,1.001,1.65-1.85
-LAC @ MEM,MEM win + Max Strus 5+ pa,2,0.5175,0.5711,1.75,1.84,1.6,-0.0863,0.99,1.50-1.65
-LAC @ MEM,MEM win + Cedric Coward 4+ reb,2,0.5193,0.5931,1.69,1.77,1.54,-0.0887,0.996,1.50-1.65
+LAC @ MEM,Cam Spencer 8+ ra + Jaylen Wells 10+ pra,2,0.5639,0.3995,2.5,2.63,2.4,-0.0419,1.005,2.10-2.50
+LAC @ MEM,Cam Spencer 18+ pra + Jaylen Wells 10+ pra,2,0.5599,0.4045,2.47,2.6,2.35,-0.0476,1.006,2.10-2.50
+LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pa,2,0.5925,0.4284,2.33,2.45,2.22,-0.0502,1.002,2.10-2.50
+LAC @ MEM,MEM win + Jaylen Wells 10+ pra,2,0.506,0.5477,1.83,1.92,1.73,-0.0535,1.021,1.65-1.85
+LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pra,2,0.6261,0.4674,2.14,2.25,2.02,-0.0579,1.001,1.85-2.10
+LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pa,2,0.6411,0.4741,2.11,2.21,1.98,-0.0594,0.999,1.85-2.10
+LAC @ MEM,Cam Spencer 15+ pa + Max Strus 5+ pa,2,0.6027,0.4533,2.21,2.32,2.07,-0.0616,1.002,1.85-2.10
+LAC @ MEM,MEM win + Cam Spencer 10+ pa,2,0.5117,0.5588,1.79,1.88,1.68,-0.0626,1.013,1.65-1.85
+LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pra,2,0.678,0.5177,1.93,2.03,1.8,-0.0663,1.0,1.65-1.85
+LAC @ MEM,MEM win + Max Strus 5+ pa,2,0.5175,0.5717,1.75,1.84,1.6,-0.0866,0.99,1.50-1.65
+LAC @ MEM,MEM win + Cedric Coward 4+ reb,2,0.5193,0.5943,1.68,1.77,1.53,-0.0891,0.996,1.50-1.65
 LAC @ MEM,MEM win + Darius Garland 1+ 3pm,2,0.5097,0.5943,1.68,1.77,1.52,-0.0974,0.991,1.50-1.65
-BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pa,2,0.6113,0.4228,2.37,2.48,2.26,-0.0453,0.995,2.10-2.50
+BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pa,2,0.6113,0.4219,2.37,2.49,2.26,-0.0448,0.995,2.10-2.50
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pr,2,0.6529,0.4581,2.18,2.29,2.08,-0.0458,0.998,1.85-2.10
-BKN @ MIL,Tyler Herro pa under 28.5 + Noah Clowney 5+ pa,2,0.6157,0.4313,2.32,2.43,2.21,-0.0465,0.998,2.10-2.50
-BKN @ MIL,Tyler Herro pra under 32.5 + Noah Clowney 5+ pa,2,0.5929,0.4162,2.4,2.52,2.29,-0.0474,0.997,2.10-2.50
+BKN @ MIL,Tyler Herro pa under 28.5 + Noah Clowney 5+ pa,2,0.6157,0.4304,2.32,2.44,2.22,-0.0459,0.998,2.10-2.50
+BKN @ MIL,Tyler Herro pra under 32.5 + Noah Clowney 5+ pa,2,0.5929,0.4154,2.41,2.53,2.29,-0.0468,0.997,2.10-2.50
 BKN @ MIL,Mikel Brown Jr. pr under 18.5 + Noah Clowney 5+ pr,2,0.6678,0.474,2.11,2.22,2.01,-0.0488,0.998,1.85-2.10
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pra,2,0.6645,0.475,2.11,2.21,2.0,-0.0496,0.999,1.85-2.10
-BKN @ MIL,Kel'el Ware reb under 6.5 + Noah Clowney 5+ pra,2,0.6986,0.5215,1.92,2.01,1.8,-0.0616,0.999,1.65-1.85
-BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Myles Turner 1+ blk,3,0.669,0.5536,1.81,1.9,1.54,-0.1455,1.002,1.50-1.65
-BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Day'Ron Sharpe 10+ pa,3,0.6382,0.532,1.88,1.97,1.6,-0.1472,1.002,1.50-1.65
-BKN @ MIL,Noah Clowney 5+ pa + Myles Turner 1+ blk + Day'Ron Sharpe 10+ pa,3,0.599,0.501,2.0,2.1,1.7,-0.1493,1.0,1.65-1.85
-PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4276,2.34,2.46,2.35,0.0034,1.032,2.10-2.50
-PHX @ HOU,Kevin Durant 9+ ra + HOU win,2,0.4757,0.4454,2.25,2.36,2.2,-0.0196,1.02,2.10-2.50
-PHX @ HOU,HOU win + Jabari Smith Jr. 2+ ast,2,0.4129,0.4127,2.42,2.54,2.35,-0.0314,1.024,2.10-2.50
-PHX @ HOU,Kevin Durant 4+ ast + Alperen Sengun 6+ reb,2,0.6018,0.4522,2.21,2.32,2.1,-0.0526,1.005,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Collin Gillespie 5+ pr,2,0.6438,0.485,2.06,2.17,1.94,-0.0592,0.999,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6217,0.4735,2.11,2.22,1.99,-0.0596,1.001,1.85-2.10
-PHX @ HOU,Kevin Durant 9+ ra + Collin Gillespie 5+ pr,2,0.6604,0.5122,1.95,2.05,1.82,-0.0681,1.0,1.65-1.85
-PHX @ HOU,HOU win + Jalen Green 1+ 3pm,2,0.5519,0.5751,1.74,1.83,1.61,-0.0761,0.991,1.50-1.65
+BKN @ MIL,Kel'el Ware reb under 6.5 + Noah Clowney 5+ pra,2,0.6986,0.5202,1.92,2.02,1.81,-0.061,0.999,1.65-1.85
+BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Myles Turner 1+ blk,3,0.669,0.5525,1.81,1.9,1.55,-0.145,1.002,1.50-1.65
+BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Day'Ron Sharpe 10+ pa,3,0.6382,0.5309,1.88,1.98,1.61,-0.1467,1.002,1.50-1.65
+BKN @ MIL,Noah Clowney 5+ pa + Myles Turner 1+ blk + Day'Ron Sharpe 10+ pa,3,0.599,0.4999,2.0,2.1,1.7,-0.1488,1.0,1.65-1.85
+PHX @ HOU,HOU win + Kevin Durant 25+ pa,2,0.4168,0.4204,2.38,2.5,2.37,-0.0019,1.06,2.10-2.50
+PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4324,2.31,2.43,2.3,-0.0036,1.032,2.10-2.50
+PHX @ HOU,HOU win + Kevin Durant 31+ pra,2,0.4054,0.4031,2.48,2.6,2.47,-0.0061,1.056,2.10-2.50
+PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.5726,0.6074,1.65,1.73,1.56,-0.0504,1.023,1.50-1.65
+PHX @ HOU,Kevin Durant 4+ ast + Alperen Sengun 6+ reb,2,0.6018,0.4566,2.19,2.3,2.06,-0.059,1.005,1.85-2.10
+PHX @ HOU,Kevin Durant 4+ ast + Dillon Brooks 10+ pa,2,0.6006,0.4601,2.17,2.28,2.03,-0.0643,1.001,1.85-2.10
+PHX @ HOU,game over 223.5 + Collin Gillespie 5+ pr,2,0.5879,0.4527,2.21,2.32,2.06,-0.0653,1.009,1.85-2.10
+PHX @ HOU,HOU win + Jalen Green 1+ 3pm,2,0.5519,0.5761,1.74,1.82,1.6,-0.0764,0.991,1.50-1.65
 PHX @ HOU,HOU win + Dillon Brooks 1+ 3pm,2,0.5747,0.6098,1.64,1.72,1.51,-0.0772,0.994,1.50-1.65
-PHX @ HOU,Devin Booker 5+ ast + Collin Gillespie 5+ pr,2,0.6383,0.5161,1.94,2.03,1.78,-0.0799,1.001,1.65-1.85
-PHX @ HOU,Devin Booker 8+ ra + Collin Gillespie 5+ pr,2,0.6312,0.5116,1.95,2.05,1.8,-0.0801,1.001,1.65-1.85
-PHX @ HOU,HOU win + Collin Gillespie 10+ pra,2,0.5754,0.6027,1.66,1.74,1.52,-0.0838,0.984,1.50-1.65
+PHX @ HOU,Devin Booker 5+ ast + Collin Gillespie 5+ pr,2,0.6383,0.5169,1.93,2.03,1.78,-0.079,1.001,1.65-1.85
+PHX @ HOU,Alperen Sengun 9+ reb + Collin Gillespie 5+ pr,2,0.6047,0.5013,1.99,2.09,1.84,-0.0802,1.001,1.65-1.85
+PHX @ HOU,Devin Booker 8+ ra + Collin Gillespie 5+ pr,2,0.6312,0.5119,1.95,2.05,1.8,-0.0802,1.001,1.65-1.85
 SAC @ GSW,GSW win + Draymond Green 4+ ast,2,0.6022,0.5142,1.94,2.04,1.83,-0.0592,1.017,1.65-1.85
 SAC @ GSW,SAC +6.5 + Keegan Murray 1+ 3pm,2,0.3608,0.3907,2.56,2.69,2.41,-0.0594,1.023,2.10-2.50
 SAC @ GSW,GSW -6.5 + Draymond Green 4+ ast,2,0.4634,0.3843,2.6,2.73,2.45,-0.0602,1.024,2.10-2.50
@@ -89,15 +90,15 @@ SAC @ GSW,GSW win + Draymond Green 10+ pra,2,0.6745,0.5945,1.68,1.77,1.56,-0.075
 SAC @ GSW,GSW win + Keegan Murray 10+ pra,2,0.6964,0.6071,1.65,1.73,1.51,-0.0846,0.994,1.50-1.65
 SAC @ GSW,GSW win + Keegan Murray 1+ 3pm,2,0.5772,0.4995,2.0,2.1,1.83,-0.0878,0.989,1.65-1.85
 SAC @ GSW,Domantas Sabonis ra under 18.5 + Keegan Murray 10+ pra,2,0.5906,0.4934,2.03,2.13,1.85,-0.0896,0.998,1.65-1.85
-SAS @ POR,Julian Champagnie 2+ reb + Toumani Camara 10+ pr,2,0.8317,0.4521,2.21,2.32,2.33,0.0513,1.001,2.10-2.50
-SAS @ POR,Julian Champagnie 2+ reb + Jrue Holiday 10+ pr,2,0.8609,0.4701,2.13,2.23,2.23,0.0488,1.0,2.10-2.50
-SAS @ POR,Julian Champagnie 2+ reb + Sidy Cissoko 5+ pr,2,0.8656,0.4764,2.1,2.2,2.2,0.0472,1.0,2.10-2.50
-SAS @ POR,Julian Champagnie 2+ reb + Donovan Clingan 6+ reb,2,0.8824,0.5043,1.98,2.08,2.06,0.0387,1.001,1.85-2.10
-SAS @ POR,Julian Champagnie 3pm under 2.5 + Donovan Clingan 6+ reb,2,0.6191,0.4683,2.14,2.24,2.0,-0.0621,1.001,1.85-2.10
-SAS @ POR,Stephon Castle ast under 7.5 + Jrue Holiday 10+ pr,2,0.5983,0.46,2.17,2.28,2.03,-0.0672,1.002,1.85-2.10
+SAS @ POR,Julian Champagnie 2+ reb + Toumani Camara 10+ pr,2,0.8317,0.4505,2.22,2.33,2.34,0.0528,1.001,2.10-2.50
+SAS @ POR,Julian Champagnie 2+ reb + Jrue Holiday 10+ pr,2,0.8609,0.4695,2.13,2.24,2.24,0.0498,1.0,2.10-2.50
+SAS @ POR,Julian Champagnie 2+ reb + Sidy Cissoko 5+ pr,2,0.8656,0.4748,2.11,2.21,2.21,0.0488,1.0,2.10-2.50
+SAS @ POR,Julian Champagnie 2+ reb + Donovan Clingan 6+ reb,2,0.8824,0.5032,1.99,2.09,2.07,0.04,1.001,1.85-2.10
+SAS @ POR,Julian Champagnie 3pm under 2.5 + Donovan Clingan 6+ reb,2,0.6191,0.4689,2.13,2.24,2.0,-0.0623,1.001,1.85-2.10
+SAS @ POR,Stephon Castle ast under 7.5 + Jrue Holiday 10+ pr,2,0.5983,0.461,2.17,2.28,2.02,-0.0677,1.002,1.85-2.10
 SAS @ POR,SAS win + Stephon Castle 10+ pts,2,0.4986,0.5127,1.95,2.05,1.79,-0.0818,1.01,1.65-1.85
-SAS @ POR,SAS win + Donovan Clingan 6+ reb,2,0.509,0.5206,1.92,2.02,1.75,-0.0903,0.999,1.65-1.85
+SAS @ POR,SAS win + Donovan Clingan 6+ reb,2,0.509,0.5212,1.92,2.01,1.74,-0.0905,0.999,1.65-1.85
 SAS @ POR,SAS win + Toumani Camara 1+ 3pm,2,0.4762,0.4893,2.04,2.15,1.85,-0.0972,0.993,1.65-1.85
-SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 10+ pr + Donovan Clingan 8+ reb,3,0.6937,0.5626,1.78,1.87,1.53,-0.1376,1.006,1.50-1.65
-SAS @ POR,Toumani Camara 10+ pr + Sidy Cissoko 5+ pr + Donovan Clingan 8+ reb,3,0.6956,0.5688,1.76,1.85,1.51,-0.141,1.004,1.50-1.65
-SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 1+ 3pm + Donovan Clingan 8+ reb,3,0.6687,0.5615,1.78,1.87,1.52,-0.1451,1.006,1.50-1.65
+SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 10+ pr + Donovan Clingan 8+ reb,3,0.6937,0.5649,1.77,1.86,1.53,-0.1384,1.006,1.50-1.65
+SAS @ POR,Toumani Camara 10+ pr + Sidy Cissoko 5+ pr + Donovan Clingan 8+ reb,3,0.6956,0.5698,1.76,1.84,1.51,-0.1414,1.004,1.50-1.65
+SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 1+ 3pm + Donovan Clingan 8+ reb,3,0.6687,0.5635,1.77,1.86,1.52,-0.1459,1.006,1.50-1.65
