@@ -1,22 +1,22 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIA @ PHI,PHI win + VJ Edgecombe 1+ 3pm,2,0.4271,0.421,2.38,2.49,2.43,0.0248,1.011,2.10-2.50
-MIA @ PHI,PHI win + Anfernee Simons 1+ 3pm,2,0.4169,0.4234,2.36,2.48,2.42,0.024,1.017,2.10-2.50
-MIA @ PHI,PHI win + VJ Edgecombe 15+ pra,2,0.4654,0.4639,2.16,2.26,2.21,0.0239,1.012,2.10-2.50
-MIA @ PHI,Davion Mitchell 3pm under 2.5 + VJ Edgecombe 1+ 3pm,2,0.6253,0.4959,2.02,2.12,1.87,-0.0734,1.003,1.85-2.10
-MIA @ PHI,Anfernee Simons 10+ pr + VJ Edgecombe 1+ 3pm,2,0.5987,0.4718,2.12,2.23,1.96,-0.0758,0.999,1.85-2.10
-MIA @ PHI,Anfernee Simons 9+ pts + Bam Adebayo 6+ reb,2,0.558,0.4476,2.23,2.35,2.06,-0.0759,1.003,1.85-2.10
-MIA @ PHI,Anfernee Simons 10+ pr + VJ Edgecombe 15+ pra,2,0.6522,0.5197,1.92,2.02,1.78,-0.0768,1.001,1.65-1.85
-MIA @ PHI,Davion Mitchell 3pm under 2.5 + LeBron James 4+ reb,2,0.6342,0.5074,1.97,2.07,1.82,-0.0778,1.001,1.65-1.85
-MIA @ PHI,Davion Mitchell 3pm under 2.5 + VJ Edgecombe 15+ pra,2,0.6773,0.5432,1.84,1.93,1.69,-0.0797,0.999,1.65-1.85
-MIA @ PHI,LeBron James 4+ reb + Bam Adebayo 6+ reb + Jaylen Brown 1+ 3pm,3,0.6678,0.5546,1.8,1.89,1.54,-0.1456,1.003,1.50-1.65
-MIA @ PHI,LeBron James 4+ reb + Bam Adebayo 6+ reb + Anfernee Simons 1+ 3pm,3,0.6539,0.5519,1.81,1.9,1.54,-0.149,1.003,1.50-1.65
-MIA @ PHI,VJ Edgecombe 1+ 3pm + Jaylen Brown 1+ 3pm + Anfernee Simons 1+ 3pm,3,0.6247,0.5227,1.91,2.01,1.63,-0.1496,1.0,1.50-1.65
+MIA @ PHI,PHI win + VJ Edgecombe 15+ pra,2,0.4654,0.4646,2.15,2.26,2.2,0.0235,1.012,2.10-2.50
+MIA @ PHI,PHI win + LeBron James 10+ pts,2,0.4516,0.4647,2.15,2.26,2.2,0.0228,1.019,2.10-2.50
+MIA @ PHI,PHI win + Anfernee Simons 1+ 3pm,2,0.4169,0.4272,2.34,2.46,2.39,0.0219,1.017,2.10-2.50
+MIA @ PHI,Anfernee Simons 9+ pts + LeBron James 4+ reb,2,0.5567,0.4449,2.25,2.36,2.07,-0.0773,1.001,1.85-2.10
+MIA @ PHI,Anfernee Simons 10+ pr + VJ Edgecombe 15+ pra,2,0.6522,0.5247,1.91,2.0,1.75,-0.0791,1.001,1.65-1.85
+MIA @ PHI,Anfernee Simons 9+ pts + Bam Adebayo 6+ reb,2,0.558,0.4537,2.2,2.31,2.03,-0.0792,1.003,1.85-2.10
+MIA @ PHI,Anfernee Simons 10+ pr + LeBron James 4+ reb,2,0.6083,0.4852,2.06,2.16,1.9,-0.0794,0.998,1.85-2.10
+MIA @ PHI,Anfernee Simons 10+ pr + LeBron James 15+ pr,2,0.6388,0.5237,1.91,2.0,1.75,-0.0817,1.002,1.65-1.85
+MIA @ PHI,Anfernee Simons 10+ pr + LeBron James 10+ pts,2,0.6309,0.5231,1.91,2.01,1.75,-0.0827,1.004,1.65-1.85
+MIA @ PHI,Davion Mitchell 3pm under 2.5 + VJ Edgecombe 15+ pra,2,0.6773,0.561,1.78,1.87,1.63,-0.0876,0.999,1.50-1.65
+MIA @ PHI,Davion Mitchell 3pm under 2.5 + LeBron James 15+ pr,2,0.6613,0.5582,1.79,1.88,1.63,-0.0929,0.998,1.50-1.65
+MIA @ PHI,Davion Mitchell 3pm under 2.5 + LeBron James 10+ pts,2,0.651,0.5558,1.8,1.89,1.63,-0.0969,0.996,1.50-1.65
+CHI @ CHA,CHI +3.5 + Isaac Okoro 10+ pra,2,0.4546,0.4125,2.42,2.55,2.28,-0.0579,1.022,2.10-2.50
 CHI @ CHA,game over 221.5 + Isaac Okoro 10+ pra,2,0.536,0.4231,2.36,2.48,2.22,-0.0592,1.033,2.10-2.50
 CHI @ CHA,CHA -3.5 + Josh Giddey 4+ reb,2,0.4142,0.4153,2.41,2.53,2.26,-0.0633,1.0,2.10-2.50
 CHI @ CHA,game over 221.5 + Matas Buzelis 15+ pra,2,0.5644,0.453,2.21,2.32,2.06,-0.0671,1.028,1.85-2.10
-CHI @ CHA,game over 221.5 + Naz Reid 6+ reb,2,0.5272,0.4211,2.37,2.49,2.21,-0.0684,1.026,2.10-2.50
 CHI @ CHA,CHA -3.5 + Isaac Okoro 5+ pr,2,0.4584,0.4597,2.18,2.28,2.03,-0.0689,0.994,1.85-2.10
-CHI @ CHA,CHA -3.5 + Isaac Okoro 5+ pa,2,0.4492,0.4519,2.21,2.32,2.05,-0.0732,0.99,1.85-2.10
+CHI @ CHA,CHI +3.5 + Isaac Okoro 5+ pa,2,0.5093,0.4602,2.17,2.28,2.02,-0.0693,1.009,1.85-2.10
 CHI @ CHA,Josh Giddey 19+ pr + Isaac Okoro 5+ pa,2,0.6045,0.4982,2.01,2.11,1.84,-0.0809,1.005,1.65-1.85
 CHI @ CHA,Josh Giddey 19+ pr + Isaac Okoro 5+ pr,2,0.6131,0.5037,1.99,2.08,1.82,-0.0823,1.003,1.65-1.85
 CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 10+ pra,2,0.5957,0.5074,1.97,2.07,1.8,-0.0873,1.003,1.65-1.85
@@ -59,13 +59,14 @@ LAC @ MEM,Jaylen Wells 10+ pra + Cam Spencer 1+ 3pm,2,0.6995,0.591,1.69,1.78,1.5
 LAC @ MEM,Cam Spencer 1+ 3pm + Jaylen Wells 1+ 3pm,2,0.6739,0.5953,1.68,1.76,1.51,-0.1003,1.001,1.50-1.65
 LAC @ MEM,Jaylen Wells 10+ pra + Cam Spencer 10+ pa + Max Strus 5+ pa,3,0.7214,0.5398,1.85,1.95,1.62,-0.1256,1.001,1.50-1.65
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pr,2,0.6529,0.4438,2.25,2.37,2.17,-0.0364,0.998,2.10-2.50
-BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pra,2,0.6645,0.4593,2.18,2.29,2.09,-0.0398,0.999,1.85-2.10
-BKN @ MIL,Brayden Burries pra under 21.5 + Noah Clowney 5+ pr,2,0.6478,0.4502,2.22,2.33,2.13,-0.0412,1.0,2.10-2.50
+BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pra,2,0.6645,0.4589,2.18,2.29,2.09,-0.0396,0.999,1.85-2.10
 BKN @ MIL,Mikel Brown Jr. pa under 20.5 + Noah Clowney 5+ pr,2,0.6681,0.4634,2.16,2.27,2.06,-0.0431,0.998,1.85-2.10
-BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Myles Turner 1+ blk,2,0.5713,0.4059,2.46,2.59,2.36,-0.0441,1.001,2.10-2.50
+BKN @ MIL,Brayden Burries pa under 15.5 + Noah Clowney 5+ pr,2,0.6362,0.4472,2.24,2.35,2.14,-0.0431,0.999,2.10-2.50
+BKN @ MIL,Brayden Burries pts under 12.5 + Noah Clowney 5+ pr,2,0.6331,0.4429,2.26,2.37,2.16,-0.0432,1.0,2.10-2.50
 BKN @ MIL,Mikel Brown Jr. pr under 18.5 + Noah Clowney 5+ pr,2,0.6678,0.4666,2.14,2.25,2.05,-0.0444,0.998,1.85-2.10
-BKN @ MIL,Kel'el Ware reb under 6.5 + Noah Clowney 5+ pra,2,0.6986,0.5124,1.95,2.05,1.84,-0.0569,0.999,1.65-1.85
-BKN @ MIL,Noah Clowney 5+ pr + Myles Turner 1+ blk + Day'Ron Sharpe 10+ pa,3,0.6388,0.5367,1.86,1.96,1.59,-0.149,1.001,1.50-1.65
+BKN @ MIL,Kel'el Ware reb under 6.5 + Noah Clowney 5+ pra,2,0.6986,0.5158,1.94,2.04,1.82,-0.0587,0.999,1.65-1.85
+BKN @ MIL,Kel'el Ware reb under 6.5 + Day'Ron Sharpe 10+ pr,2,0.6621,0.5068,1.97,2.07,1.84,-0.067,0.999,1.65-1.85
+BKN @ MIL,Noah Clowney 5+ pr + Myles Turner 1+ blk + Day'Ron Sharpe 10+ pa,3,0.6388,0.5375,1.86,1.95,1.58,-0.1493,1.001,1.50-1.65
 PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4347,2.3,2.42,2.3,0.0017,1.032,2.10-2.50
 PHX @ HOU,HOU -9.5 + Jabari Smith Jr. 15+ pr,2,0.3546,0.3963,2.52,2.65,2.46,-0.0235,1.042,2.10-2.50
 PHX @ HOU,HOU win + Kevin Durant 9+ ra,2,0.4757,0.4524,2.21,2.32,2.16,-0.0243,1.02,2.10-2.50
