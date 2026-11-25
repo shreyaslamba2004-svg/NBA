@@ -1,10 +1,10 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-BOS @ WAS,BOS win + Anthony Davis 10+ reb,2,0.4813,0.4216,2.37,2.49,2.3,-0.0287,0.998,2.10-2.50
-BOS @ WAS,Anthony Davis 12+ ra + BOS win,2,0.5111,0.4399,2.27,2.39,2.2,-0.0315,0.99,2.10-2.50
-BOS @ WAS,Anthony Davis 12+ ra + Bilal Coulibaly 5+ pa,2,0.627,0.4378,2.28,2.4,2.19,-0.0399,1.004,2.10-2.50
+BOS @ WAS,BOS win + Anthony Davis pts under 20.5,2,0.3895,0.4195,2.38,2.5,2.45,0.0294,1.06,2.10-2.50
+BOS @ WAS,BOS win + AJ Dybantsa pts under 15.5,2,0.4255,0.4268,2.34,2.46,2.4,0.0239,1.054,2.10-2.50
+BOS @ WAS,Bilal Coulibaly 7+ pts + Anthony Davis 6+ reb,2,0.5803,0.4445,2.25,2.36,2.19,-0.0287,1.006,2.10-2.50
+BOS @ WAS,Bilal Coulibaly 7+ pts + Trae Young 4+ ast,2,0.5868,0.461,2.17,2.28,2.09,-0.0378,1.002,1.85-2.10
 BOS @ WAS,BOS win + Sam Hauser 3pm under 2.5,2,0.5651,0.4926,2.03,2.13,1.94,-0.0445,0.982,1.85-2.10
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pa,2,0.6948,0.4913,2.04,2.14,1.93,-0.0508,0.997,1.85-2.10
-BOS @ WAS,Anthony Davis 12+ ra + Bilal Coulibaly 5+ pr,2,0.6729,0.4934,2.03,2.13,1.92,-0.0525,1.003,1.85-2.10
 BOS @ WAS,BOS win + Bilal Coulibaly 5+ pa,2,0.641,0.6009,1.66,1.75,1.57,-0.0546,0.991,1.50-1.65
 BOS @ WAS,Sam Hauser 3pm under 2.5 + Bilal Coulibaly 5+ pr,2,0.7479,0.5554,1.8,1.89,1.69,-0.0604,1.0,1.65-1.85
 BOS @ WAS,Sam Hauser 3pm under 2.5 + AJ Dybantsa 4+ reb,2,0.7116,0.5299,1.89,1.98,1.77,-0.0618,0.999,1.65-1.85
