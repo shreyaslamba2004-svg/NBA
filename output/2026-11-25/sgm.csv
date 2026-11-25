@@ -26,18 +26,18 @@ CLE @ NYK,Donovan Mitchell pts under 25.5 + James Harden 10+ pts,2,0.5905,0.4559
 CLE @ NYK,Mikal Bridges 12+ pts + James Harden 10+ pts,2,0.5162,0.427,2.34,2.46,2.16,-0.0759,1.0,2.10-2.50
 CLE @ NYK,Donovan Mitchell 3pm under 2.5 + James Harden 10+ pts,2,0.5183,0.4195,2.38,2.5,2.19,-0.0832,0.997,2.10-2.50
 CLE @ NYK,Tyrese Proctor 3pm under 1.5 + James Harden 10+ pts,2,0.6154,0.5355,1.87,1.96,1.68,-0.1008,0.996,1.65-1.85
-MIN @ OKC,game over 223.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5111,0.3905,2.56,2.69,2.48,-0.0306,1.032,2.10-2.50
-MIN @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.4962,0.4018,2.49,2.61,2.39,-0.0384,1.026,2.10-2.50
-MIN @ OKC,game over 223.5 + Jaden McDaniels 4+ reb,2,0.4909,0.3969,2.52,2.65,2.39,-0.0513,1.024,2.10-2.50
-MIN @ OKC,game over 223.5 + Jaden McDaniels 10+ pts,2,0.5486,0.4506,2.22,2.33,2.1,-0.0538,1.025,1.85-2.10
-MIN @ OKC,game over 223.5 + LaMelo Ball 15+ pra,2,0.5694,0.478,2.09,2.2,1.95,-0.0672,1.016,1.85-2.10
-MIN @ OKC,game over 223.5 + Jared McCain 10+ pr,2,0.5594,0.4684,2.13,2.24,1.99,-0.0686,1.014,1.85-2.10
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 4+ reb,2,0.6838,0.5627,1.78,1.87,1.63,-0.084,1.002,1.50-1.65
-MIN @ OKC,Shai Gilgeous-Alexander 10+ ra + LaMelo Ball 15+ pra,2,0.5923,0.4971,2.01,2.11,1.84,-0.0854,1.002,1.65-1.85
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 1+ 3pm,2,0.6997,0.5851,1.71,1.79,1.56,-0.0874,1.002,1.50-1.65
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pr,2,0.6719,0.5755,1.74,1.82,1.58,-0.0931,1.001,1.50-1.65
-MIN @ OKC,Kenrich Williams reb under 5.5 + LaMelo Ball 15+ pra,2,0.5653,0.4888,2.05,2.15,1.85,-0.0973,0.999,1.65-1.85
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 4+ reb + Trey Lyles 5+ pr,3,0.6131,0.4731,2.11,2.22,1.84,-0.1298,1.003,1.65-1.85
+MIN @ OKC,game over 223.5 + Shai Gilgeous-Alexander 4+ ast,2,0.5111,0.4032,2.48,2.6,2.39,-0.0384,1.032,2.10-2.50
+MIN @ OKC,game over 223.5 + Jaden McDaniels 15+ pa,2,0.5101,0.4267,2.34,2.46,2.25,-0.0404,1.044,2.10-2.50
+MIN @ OKC,OKC win + Shai Gilgeous-Alexander 4+ ast,2,0.4962,0.4149,2.41,2.53,2.3,-0.0461,1.026,2.10-2.50
+MIN @ OKC,game over 223.5 + Jaden McDaniels 10+ pts,2,0.5486,0.4531,2.21,2.32,2.09,-0.055,1.025,1.85-2.10
+MIN @ OKC,game over 223.5 + Isaiah Hartenstein 15+ pra,2,0.5545,0.4605,2.17,2.28,2.03,-0.0653,1.016,1.85-2.10
+MIN @ OKC,game over 223.5 + LaMelo Ball 15+ pra,2,0.5694,0.4778,2.09,2.2,1.95,-0.0671,1.016,1.85-2.10
+MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Trey Lyles 5+ pr + Jaden McDaniels 4+ reb,3,0.6131,0.4908,2.04,2.14,1.76,-0.1378,1.003,1.65-1.85
+MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 4+ reb + Ayo Dosunmu 1+ 3pm,3,0.6037,0.4877,2.05,2.15,1.77,-0.139,1.004,1.65-1.85
+MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Trey Lyles 5+ pr + Jaden McDaniels 15+ pa,3,0.6273,0.5151,1.94,2.04,1.67,-0.1395,1.007,1.65-1.85
+MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Trey Lyles 5+ pr + Ayo Dosunmu 1+ 3pm,3,0.6627,0.5314,1.88,1.98,1.62,-0.1401,1.001,1.50-1.65
+MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 4+ reb + Jared McCain 10+ pr,3,0.6412,0.5302,1.89,1.98,1.61,-0.1438,1.004,1.50-1.65
+MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 4+ reb + Isaiah Hartenstein 15+ pra,3,0.6333,0.5201,1.92,2.02,1.65,-0.1442,1.002,1.50-1.65
 LAC @ MEM,Brook Lopez 3pm under 1.5 + MEM win,2,0.3591,0.381,2.62,2.76,2.5,-0.0487,1.027,2.10-2.50
 LAC @ MEM,MEM -6.5 + Cam Spencer 1+ 3pm,2,0.3169,0.3815,2.62,2.75,2.44,-0.0694,1.025,2.10-2.50
 LAC @ MEM,MEM win + Cam Spencer 1+ 3pm,2,0.4596,0.5171,1.93,2.03,1.79,-0.0739,1.014,1.65-1.85
@@ -56,9 +56,18 @@ BKN @ MIL,Kyle Kuzma pts under 14.5 + Noah Clowney 1+ 3pm,2,0.4882,0.3815,2.62,2
 BKN @ MIL,Mikel Brown Jr. 3pm under 2.5 + Egor Demin 1+ 3pm,2,0.5863,0.446,2.24,2.35,2.09,-0.0682,0.996,1.85-2.10
 BKN @ MIL,Brayden Burries 3pm under 1.5 + Egor Demin 1+ 3pm,2,0.6258,0.4923,2.03,2.13,1.88,-0.0745,0.998,1.85-2.10
 BKN @ MIL,Noah Clowney 1+ 3pm + Egor Demin 1+ 3pm,2,0.6899,0.5924,1.69,1.77,1.53,-0.0927,1.003,1.50-1.65
-PHX @ HOU,HOU win + Jabari Smith Jr. 2+ 3pm,2,0.4387,0.4496,2.22,2.34,2.1,-0.056,1.027,1.85-2.10
-PHX @ HOU,game over 224.5 + HOU win,2,0.3952,0.3789,2.64,2.77,2.45,-0.0724,0.995,2.10-2.50
-PHX @ HOU,HOU win + game under 225.5,2,0.2977,0.3998,2.5,2.63,2.31,-0.0768,1.006,2.10-2.50
+PHX @ HOU,game over 224.5 + Dillon Brooks 10+ pts,2,0.4976,0.4037,2.48,2.6,2.37,-0.0441,1.04,2.10-2.50
+PHX @ HOU,Kevin Durant 2+ 3pm + HOU win,2,0.4066,0.3952,2.53,2.66,2.39,-0.0537,1.018,2.10-2.50
+PHX @ HOU,game over 224.5 + Jalen Green 1+ 3pm,2,0.4886,0.3815,2.62,2.75,2.47,-0.0571,1.017,2.10-2.50
+PHX @ HOU,HOU win + Jabari Smith Jr. 2+ 3pm,2,0.4387,0.4572,2.19,2.3,2.06,-0.0596,1.027,1.85-2.10
+PHX @ HOU,Jalen Green 14+ pts + Devin Booker 1+ 3pm,2,0.506,0.437,2.29,2.4,2.08,-0.0896,1.006,1.85-2.10
+PHX @ HOU,Jalen Green 1+ 3pm + Jabari Smith Jr. 2+ 3pm,2,0.516,0.4379,2.28,2.4,2.08,-0.0906,0.999,1.85-2.10
+PHX @ HOU,Jalen Green 1+ 3pm + Dillon Brooks 1+ 3pm,2,0.7001,0.5928,1.69,1.77,1.53,-0.0907,1.002,1.50-1.65
+PHX @ HOU,HOU win + Dillon Brooks 1+ 3pm,2,0.5747,0.5974,1.67,1.76,1.52,-0.0923,0.994,1.50-1.65
+PHX @ HOU,HOU win + Jalen Green 1+ 3pm,2,0.5519,0.5666,1.76,1.85,1.6,-0.0923,0.991,1.50-1.65
+PHX @ HOU,Jalen Green 1+ 3pm + Dillon Brooks 1+ 3pm + Collin Gillespie 1+ 3pm,3,0.5912,0.4831,2.07,2.17,1.78,-0.1394,1.006,1.65-1.85
+PHX @ HOU,Jalen Green 1+ 3pm + Dillon Brooks 1+ 3pm + Devin Booker 1+ 3pm,3,0.6072,0.4897,2.04,2.14,1.76,-0.14,1.002,1.65-1.85
+PHX @ HOU,Jalen Green 1+ 3pm + Dillon Brooks 10+ pts + Devin Booker 1+ 3pm,3,0.5834,0.4828,2.07,2.17,1.77,-0.1435,1.004,1.65-1.85
 SAC @ GSW,SAC +5.5 + Keegan Murray 1+ 3pm,2,0.3371,0.3774,2.65,2.78,2.45,-0.0756,1.022,2.10-2.50
 SAC @ GSW,game over 218.5 + Keegan Murray 1+ 3pm,2,0.4712,0.386,2.59,2.72,2.39,-0.0757,1.023,2.10-2.50
 SAC @ GSW,game over 218.5 + Brandin Podziemski 10+ pts,2,0.5348,0.4504,2.22,2.33,2.04,-0.0813,1.023,1.85-2.10
