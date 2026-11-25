@@ -10,15 +10,15 @@ MIA @ PHI,Anfernee Simons 10+ pr + VJ Edgecombe 15+ pra,2,0.6212,0.5217,1.92,2.0
 MIA @ PHI,Anfernee Simons 9+ pts + Davion Mitchell 4+ ast,2,0.5649,0.4883,2.05,2.15,1.85,-0.0967,0.999,1.65-1.85
 MIA @ PHI,VJ Edgecombe 1+ 3pm + Jaylen Brown 1+ 3pm + Anfernee Simons 1+ 3pm,3,0.6054,0.5218,1.92,2.01,1.63,-0.1498,1.007,1.50-1.65
 CHI @ CHA,game over 221.5 + Josh Giddey 15+ pr,2,0.5245,0.3949,2.53,2.66,2.43,-0.0421,1.04,2.10-2.50
-CHI @ CHA,game over 221.5 + Isaac Okoro 10+ pra,2,0.536,0.4256,2.35,2.47,2.21,-0.0604,1.033,2.10-2.50
+CHI @ CHA,game over 221.5 + Isaac Okoro 10+ pra,2,0.536,0.4231,2.36,2.48,2.22,-0.0592,1.033,2.10-2.50
 CHI @ CHA,CHA -3.5 + Josh Giddey 4+ reb,2,0.4142,0.4175,2.4,2.52,2.24,-0.0644,1.0,2.10-2.50
 CHI @ CHA,game over 221.5 + Matas Buzelis 15+ pra,2,0.5644,0.453,2.21,2.32,2.06,-0.0671,1.028,1.85-2.10
 CHI @ CHA,CHA -3.5 + Josh Giddey 10+ pr,2,0.4535,0.4524,2.21,2.32,2.06,-0.0682,0.994,1.85-2.10
 CHI @ CHA,CHA -3.5 + Moussa Diabate 6+ reb,2,0.4378,0.45,2.22,2.33,2.07,-0.0684,1.0,1.85-2.10
 CHI @ CHA,Moussa Diabate 2+ ast + Naz Reid 6+ reb,2,0.5911,0.5077,1.97,2.07,1.8,-0.0858,1.004,1.65-1.85
 CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pr,2,0.686,0.58,1.72,1.81,1.58,-0.0858,1.001,1.50-1.65
-CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.6748,0.5734,1.74,1.83,1.59,-0.0869,1.001,1.50-1.65
-CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 10+ pra,2,0.5957,0.5112,1.96,2.05,1.79,-0.0872,1.003,1.65-1.85
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 10+ pra,2,0.5957,0.5081,1.97,2.07,1.8,-0.086,1.003,1.65-1.85
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.6748,0.5721,1.75,1.84,1.6,-0.0864,1.001,1.50-1.65
 CHI @ CHA,Moussa Diabate 2+ ast + Josh Giddey 4+ reb,2,0.6162,0.5245,1.91,2.0,1.74,-0.0873,1.001,1.65-1.85
 CHI @ CHA,Moussa Diabate 2+ ast + Matas Buzelis 1+ 3pm,2,0.635,0.5498,1.82,1.91,1.65,-0.0934,0.998,1.50-1.65
 CLE @ NYK,NYK win + Mikal Bridges 15+ pra,2,0.4972,0.4488,2.23,2.34,2.22,-0.0051,1.019,2.10-2.50
@@ -44,18 +44,18 @@ MIN @ OKC,Bennett Stirtz 10+ pra + Isaiah Hartenstein 15+ pra,2,0.6055,0.4972,2.
 MIN @ OKC,Bennett Stirtz 10+ pra + Jared McCain 10+ pr,2,0.6113,0.5022,1.99,2.09,1.83,-0.082,1.002,1.65-1.85
 MIN @ OKC,Bennett Stirtz 5+ pr + Jaden McDaniels 4+ reb,2,0.7306,0.6004,1.67,1.75,1.52,-0.085,1.0,1.50-1.65
 MIN @ OKC,Shai Gilgeous-Alexander 10+ ra + Rudy Gobert 5+ pa,2,0.5757,0.4933,2.03,2.13,1.85,-0.0894,1.003,1.65-1.85
-LAC @ MEM,Brandon Ingram pa under 21.5 + Cam Spencer 4+ ast,2,0.5677,0.3854,2.59,2.72,2.49,-0.0405,0.997,2.10-2.50
-LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pa,2,0.5926,0.4166,2.4,2.52,2.3,-0.0431,1.0,2.10-2.50
-LAC @ MEM,Jaylen Wells 10+ pts + Cam Spencer 4+ ast,2,0.5178,0.3823,2.62,2.75,2.5,-0.0448,1.012,2.10-2.50
-LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pra,2,0.6289,0.4572,2.19,2.3,2.08,-0.0503,1.001,1.85-2.10
-LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pa,2,0.6427,0.4638,2.16,2.26,2.04,-0.0519,0.998,1.85-2.10
-LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pra,2,0.6835,0.5101,1.96,2.06,1.85,-0.057,1.001,1.65-1.85
-LAC @ MEM,Cam Spencer 5+ ast + Cedric Coward 4+ reb,2,0.6459,0.485,2.06,2.16,1.94,-0.0575,1.002,1.85-2.10
-LAC @ MEM,Brandon Ingram pa under 21.5 + Max Strus 5+ pra,2,0.6769,0.5088,1.97,2.06,1.84,-0.0629,0.999,1.65-1.85
-LAC @ MEM,Isaiah Stewart reb under 4.5 + Max Strus 5+ pra,2,0.6553,0.5096,1.96,2.06,1.82,-0.0712,1.0,1.65-1.85
-LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm,2,0.6739,0.5966,1.68,1.76,1.51,-0.1008,1.001,1.50-1.65
-LAC @ MEM,Max Strus 5+ pa + Cam Spencer 1+ 3pm + Cedric Coward 4+ reb,3,0.6813,0.5593,1.79,1.88,1.53,-0.1446,1.001,1.50-1.65
-LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm + Cedric Coward 4+ reb,3,0.6239,0.5262,1.9,2.0,1.62,-0.1468,1.005,1.50-1.65
+LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pa,2,0.5926,0.4219,2.37,2.49,2.26,-0.0446,1.0,2.10-2.50
+LAC @ MEM,Jaylen Wells 13+ pr + Cam Spencer 10+ pa,2,0.5646,0.4241,2.36,2.48,2.24,-0.0487,1.009,2.10-2.50
+LAC @ MEM,Cam Spencer 8+ ra + Jaylen Wells 1+ 3pm,2,0.5405,0.3941,2.54,2.66,2.41,-0.0498,1.001,2.10-2.50
+LAC @ MEM,Cam Spencer 8+ ra + Max Strus 5+ pra,2,0.6289,0.4615,2.17,2.28,2.06,-0.0509,1.001,1.85-2.10
+LAC @ MEM,Cam Spencer 8+ ra + Ty Jerome 1+ 3pm,2,0.6015,0.4531,2.21,2.32,2.08,-0.0556,1.002,1.85-2.10
+LAC @ MEM,Cam Spencer 8+ ra + Rui Hachimura 10+ pra,2,0.5972,0.4501,2.22,2.33,2.1,-0.056,1.002,1.85-2.10
+LAC @ MEM,Cam Spencer 5+ ast + Max Strus 5+ pra,2,0.6835,0.515,1.94,2.04,1.82,-0.0613,1.001,1.65-1.85
+LAC @ MEM,Cam Spencer 5+ ast + Ty Jerome 1+ 3pm,2,0.6544,0.5061,1.98,2.07,1.85,-0.0651,1.003,1.65-1.85
+LAC @ MEM,Brandon Ingram pts under 17.5 + Max Strus 5+ pra,2,0.6439,0.5021,1.99,2.09,1.85,-0.0719,1.0,1.65-1.85
+LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm,2,0.6739,0.5972,1.67,1.76,1.51,-0.1009,1.001,1.50-1.65
+LAC @ MEM,Max Strus 5+ pa + Cam Spencer 1+ 3pm + Cedric Coward 4+ reb,3,0.6813,0.5618,1.78,1.87,1.52,-0.1455,1.001,1.50-1.65
+LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm + Cedric Coward 4+ reb,3,0.6239,0.5267,1.9,1.99,1.62,-0.147,1.005,1.50-1.65
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pa,2,0.6113,0.4081,2.45,2.57,2.36,-0.0351,0.995,2.10-2.50
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pr,2,0.6529,0.4438,2.25,2.37,2.17,-0.0364,0.998,2.10-2.50
 BKN @ MIL,Brayden Burries pra under 21.5 + Noah Clowney 5+ pa,2,0.6077,0.4148,2.41,2.53,2.32,-0.0379,0.999,2.10-2.50
