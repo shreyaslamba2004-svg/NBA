@@ -23,16 +23,16 @@ CLE @ NYK,Mikal Bridges 6+ ra + Landry Shamet 1+ 3pm,2,0.5811,0.5012,2.0,2.09,1.
 CLE @ NYK,Tyrese Proctor 3pm under 1.5 + Landry Shamet 1+ 3pm,2,0.6674,0.5639,1.77,1.86,1.61,-0.0908,1.0,1.50-1.65
 MIN @ OKC,OKC -1.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4709,0.401,2.49,2.62,2.37,-0.0494,1.027,2.10-2.50
 MIN @ OKC,OKC -1.5 + Bennett Stirtz 5+ pa,2,0.4849,0.4048,2.47,2.59,2.33,-0.0553,1.016,2.10-2.50
-MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pr,2,0.5725,0.418,2.39,2.51,2.26,-0.0564,1.0,2.10-2.50
+MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pr,2,0.5725,0.4196,2.38,2.5,2.25,-0.0573,1.0,2.10-2.50
 MIN @ OKC,LaMelo Ball 3pm under 3.5 + Bennett Stirtz 5+ pra,2,0.6017,0.4487,2.23,2.34,2.1,-0.0588,1.003,1.85-2.10
 MIN @ OKC,LaMelo Ball 3pm under 3.5 + Kenrich Williams 5+ pa,2,0.5921,0.4478,2.23,2.35,2.08,-0.0678,0.997,1.85-2.10
 MIN @ OKC,Bennett Stirtz 2+ reb + Kenrich Williams 5+ pa,2,0.5976,0.4625,2.16,2.27,2.01,-0.0695,1.001,1.85-2.10
-MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast,2,0.7563,0.6113,1.64,1.72,1.51,-0.0797,1.002,1.50-1.65
 MIN @ OKC,Bennett Stirtz 5+ pa + Shai Gilgeous-Alexander 4+ ast,2,0.7365,0.6002,1.67,1.75,1.53,-0.0811,1.002,1.50-1.65
 MIN @ OKC,Bennett Stirtz 10+ pra + Isaiah Hartenstein 15+ pra,2,0.6055,0.4992,2.0,2.1,1.84,-0.0821,1.003,1.65-1.85
 MIN @ OKC,Bennett Stirtz 10+ pra + LaMelo Ball 15+ pra,2,0.6221,0.5155,1.94,2.04,1.78,-0.0824,1.004,1.65-1.85
 MIN @ OKC,Bennett Stirtz 5+ pa + Jaden McDaniels 4+ reb,2,0.7112,0.5989,1.67,1.75,1.52,-0.0905,1.0,1.50-1.65
 MIN @ OKC,Shai Gilgeous-Alexander 10+ ra + Isaiah Hartenstein 15+ pra,2,0.5766,0.4967,2.01,2.11,1.83,-0.0923,1.001,1.65-1.85
+MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 10+ pts,3,0.6871,0.5292,1.89,1.98,1.65,-0.1293,1.003,1.50-1.65
 LAC @ MEM,Cam Spencer 15+ pa + MEM win,2,0.3896,0.4046,2.47,2.6,2.47,-0.0012,1.052,2.10-2.50
 LAC @ MEM,Cam Spencer 5+ ast + MEM win,2,0.4052,0.4183,2.39,2.51,2.37,-0.0087,1.038,2.10-2.50
 LAC @ MEM,Jaylen Wells 14+ pra + MEM win,2,0.3767,0.3977,2.51,2.64,2.47,-0.0181,1.041,2.10-2.50
@@ -50,13 +50,13 @@ BKN @ MIL,Brayden Burries pa under 16.5 + Noah Clowney 5+ pa,2,0.6401,0.4431,2.2
 BKN @ MIL,Brayden Burries pr under 19.5 + Noah Clowney 5+ pa,2,0.6501,0.4555,2.2,2.31,2.1,-0.0448,0.999,1.85-2.10
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pa,2,0.6113,0.4254,2.35,2.47,2.24,-0.0471,0.995,2.10-2.50
 BKN @ MIL,Brayden Burries pts under 13.5 + Noah Clowney 5+ pa,2,0.6438,0.454,2.2,2.31,2.1,-0.0478,0.998,1.85-2.10
-BKN @ MIL,Brayden Burries pa under 16.5 + Egor Demin 5+ pr,2,0.6982,0.5014,1.99,2.09,1.9,-0.0493,1.0,1.85-2.10
-BKN @ MIL,Brayden Burries pr under 19.5 + Egor Demin 5+ pr,2,0.7067,0.5138,1.95,2.04,1.84,-0.0539,0.999,1.65-1.85
-BKN @ MIL,Brayden Burries pts under 13.5 + Egor Demin 5+ pr,2,0.7016,0.5134,1.95,2.05,1.84,-0.0546,1.0,1.65-1.85
+BKN @ MIL,Brayden Burries pa under 16.5 + Noah Clowney 5+ pra,2,0.6948,0.4981,2.01,2.11,1.91,-0.0494,0.999,1.85-2.10
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Julius Randle 4+ reb,3,0.6875,0.5662,1.77,1.85,1.51,-0.1422,1.005,1.50-1.65
-BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 5+ pr + Day'Ron Sharpe 6+ reb,3,0.6884,0.563,1.78,1.87,1.52,-0.1445,1.0,1.50-1.65
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Myles Turner 1+ blk,3,0.669,0.552,1.81,1.9,1.55,-0.1449,1.002,1.50-1.65
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Day'Ron Sharpe 6+ reb,3,0.6257,0.5155,1.94,2.04,1.66,-0.1458,1.0,1.65-1.85
+BKN @ MIL,Noah Clowney 5+ pa + Julius Randle 4+ reb + Day'Ron Sharpe 6+ reb,3,0.6033,0.5029,1.99,2.09,1.7,-0.1475,1.001,1.65-1.85
+BKN @ MIL,Noah Clowney 5+ pa + Julius Randle 4+ reb + Day'Ron Sharpe 15+ pra,3,0.6649,0.5587,1.79,1.88,1.53,-0.1476,1.003,1.50-1.65
+BKN @ MIL,Noah Clowney 5+ pa + Day'Ron Sharpe 6+ reb + Myles Turner 1+ blk,3,0.5873,0.4905,2.04,2.14,1.73,-0.1498,0.999,1.65-1.85
 PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4702,0.4141,2.41,2.54,2.39,-0.0084,1.032,2.10-2.50
 PHX @ HOU,Kevin Durant 9+ ra + HOU win,2,0.4757,0.4358,2.29,2.41,2.23,-0.0301,1.02,2.10-2.50
 PHX @ HOU,Jabari Smith Jr. 2+ ast + HOU win,2,0.4129,0.4052,2.47,2.59,2.37,-0.0415,1.024,2.10-2.50
