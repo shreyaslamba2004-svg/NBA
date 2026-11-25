@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DET @ ORL,John Collins 11+ pts + Paul Reed 4+ reb,2,0.5584,0.4489,2.23,2.34,2.25,0.0105,1.003,2.10-2.50
-DET @ ORL,John Collins 11+ pts + Kevin Huerter 10+ pra,2,0.5964,0.4801,2.08,2.19,2.1,0.01,1.003,2.10-2.50
-DET @ ORL,John Collins 11+ pts + Kevin Huerter 1+ 3pm,2,0.5276,0.4257,2.35,2.47,2.37,0.007,1.0,2.10-2.50
-DET @ ORL,Paul Reed 10+ pts + John Collins 10+ pra,2,0.7094,0.5038,1.99,2.08,1.91,-0.0358,1.005,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pr,2,0.7099,0.5017,1.99,2.09,1.92,-0.0365,1.003,1.85-2.10
-DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pa,2,0.7115,0.505,1.98,2.08,1.9,-0.0385,1.002,1.85-2.10
-DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Paul Reed 4+ reb,3,0.6576,0.5141,1.95,2.04,1.69,-0.1311,1.005,1.65-1.85
-DET @ ORL,Kevin Huerter 15+ pra + Paul Reed 4+ reb + Anthony Black 10+ pts,3,0.6435,0.5187,1.93,2.02,1.67,-0.1358,1.007,1.65-1.85
-DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Daniss Jenkins 1+ 3pm,3,0.6316,0.5047,1.98,2.08,1.71,-0.1369,1.003,1.65-1.85
-DET @ ORL,Anthony Black 1+ 3pm + Paul Reed 4+ reb + Kevin Huerter 1+ 3pm,3,0.6587,0.5433,1.84,1.93,1.57,-0.1454,1.001,1.50-1.65
-DET @ ORL,Paul Reed 4+ reb + Kevin Huerter 1+ 3pm + Anthony Black 10+ pts,3,0.6466,0.55,1.82,1.91,1.55,-0.1473,1.007,1.50-1.65
-DET @ ORL,Anthony Black 1+ 3pm + Paul Reed 4+ reb + Daniss Jenkins 1+ 3pm,3,0.6682,0.5612,1.78,1.87,1.51,-0.1499,1.0,1.50-1.65
+DET @ ORL,John Collins 11+ pts + Paul Reed 4+ reb,2,0.5585,0.449,2.23,2.34,2.25,0.0108,1.003,2.10-2.50
+DET @ ORL,John Collins 11+ pts + Kevin Huerter 10+ pra,2,0.5929,0.4802,2.08,2.19,2.1,0.0091,1.004,2.10-2.50
+DET @ ORL,John Collins 11+ pts + Anthony Black 10+ pts,2,0.4964,0.4043,2.47,2.6,2.49,0.0086,1.004,2.10-2.50
+DET @ ORL,John Collins 11+ pts + Wendell Carter Jr. 5+ pa,2,0.585,0.4784,2.09,2.19,2.1,0.0026,0.999,1.85-2.10
+DET @ ORL,Paul Reed 10+ pts + Daniss Jenkins 1+ 3pm,2,0.6717,0.4622,2.16,2.27,2.1,-0.0295,1.003,1.85-2.10
+DET @ ORL,Paul Reed 10+ pts + Anthony Black 10+ pr,2,0.7161,0.5045,1.98,2.08,1.91,-0.0358,1.002,1.85-2.10
+DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm,2,0.704,0.5935,1.68,1.77,1.53,-0.0918,0.999,1.50-1.65
+DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Daniss Jenkins 1+ 3pm,3,0.6238,0.4936,2.03,2.13,1.75,-0.1382,1.0,1.65-1.85
+DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Paul Reed 4+ reb,3,0.6467,0.5125,1.95,2.05,1.68,-0.1389,0.999,1.65-1.85
+DET @ ORL,Kevin Huerter 15+ pra + Daniss Jenkins 1+ 3pm + Paul Reed 4+ reb,3,0.6915,0.5575,1.79,1.88,1.54,-0.1392,1.003,1.50-1.65
+DET @ ORL,Kevin Huerter 15+ pra + Daniss Jenkins 1+ 3pm + Anthony Black 10+ pts,3,0.6149,0.5021,1.99,2.09,1.71,-0.1408,1.005,1.65-1.85
+DET @ ORL,Kevin Huerter 15+ pra + Anthony Black 1+ 3pm + Desmond Bane 15+ pra,3,0.6463,0.523,1.91,2.01,1.64,-0.1408,1.002,1.50-1.65
 BOS @ WAS,BOS win + Anthony Davis 10+ reb,2,0.4818,0.4223,2.37,2.49,2.3,-0.027,1.001,2.10-2.50
 BOS @ WAS,Anthony Davis 12+ ra + BOS win,2,0.5068,0.4383,2.28,2.4,2.2,-0.035,0.989,2.10-2.50
 BOS @ WAS,Anthony Davis 12+ ra + Bilal Coulibaly 5+ pa,2,0.62,0.4374,2.29,2.4,2.19,-0.0408,1.006,2.10-2.50
