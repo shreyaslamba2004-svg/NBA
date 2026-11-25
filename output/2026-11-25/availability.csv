@@ -235,7 +235,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909324,SAC,1642928,Dylan Cardwell,,,1.0,,,
 401909324,SAC,1629631,De'Andre Hunter,,,1.0,,,
 401909324,SAC,904917149,Alex Karaban,,,1.0,,,
-401909324,SAC,203897,Zach LaVine,Questionable,Injury/Illness-RightKneeSoreness,0.55,LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State.,,
+401909324,SAC,203897,Zach LaVine,Out,Injury/Illness-RightKneeSoreness,0.0,LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State.,,
 401909324,SAC,905107897,Jonathan Mogbo,Out,GLeague-Two-Way,0.0,,,
 401909324,SAC,1628370,Malik Monk,,,1.0,,,
 401909324,SAC,1631099,Keegan Murray,,,1.0,,,
