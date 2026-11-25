@@ -1,6 +1,6 @@
 # NBA model · Tue 24 Nov 2026 (US date)
 
-Updated **Wed 25 Nov, 11:07 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-24/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Wed 25 Nov, 11:12 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-24/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -12,7 +12,7 @@ DraftKings prices refresh every 5 to 30 minutes (5 within 3 hours of tip). Austr
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| DET to win | DET @ ORL | draftkings | 2.24 | 1.83 | 2.15 | 46.4% | 54.5% | 54.5% | +22.1% | +4.0% | 2.0% |
+| DET to win | DET @ ORL | draftkings | 2.26 | 1.83 | 2.15 | 46.4% | 54.5% | 54.5% | +23.2% | +4.9% | 2.0% |
 | John Collins PTS over 10.5 (11+) | DET @ ORL | sportsbet | 2.05 | 1.93 | 1.65 | 60.6% | 49.9% | 51.8% | +6.3% | +24.2% | 1.5% |
 
 ## Long shots (EV ≥ 5%, odds above 4)
@@ -27,7 +27,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Trae Young AST over 11.5 (12+) | BOS @ WAS | draftkings | 8.20 | 7.49 | 4.50 | 22.2% | 11.4% | 13.4% | +9.5% | +82.0% | 0.3% |
 | Jamal Murray PA over 44.5 (45+) | DAL @ DEN | draftkings | 14.40 | 13.28 | 8.18 | 12.2% | 6.5% | 7.5% | +8.4% | +76.0% | 0.2% |
 | Paul Reed PTS over 24.5 (25+) | DET @ ORL | draftkings | 22.00 | 20.53 | 13.01 | 7.7% | 4.2% | 4.9% | +7.2% | +69.1% | 0.1% |
-| WAS to win | BOS @ WAS | unibet | 5.00 | 4.67 | 3.76 | 26.6% | 21.4% | 21.4% | +7.1% | +32.9% | 0.4% |
+| WAS to win | BOS @ WAS | tabtouch | 5.00 | 4.67 | 3.76 | 26.6% | 21.4% | 21.4% | +7.1% | +32.9% | 0.4% |
 | Paul Reed PTS over 19.5 (20+) | DET @ ORL | draftkings | 8.10 | 7.66 | 5.02 | 19.9% | 11.5% | 13.1% | +5.7% | +61.2% | 0.2% |
 | Trae Young PRA over 39.5 (40+) | BOS @ WAS | draftkings | 17.00 | 16.08 | 10.56 | 9.5% | 5.5% | 6.2% | +5.7% | +61.1% | 0.1% |
 | Jamal Murray PRA over 49.5 (50+) | DAL @ DEN | draftkings | 12.60 | 11.96 | 7.92 | 12.6% | 7.4% | 8.4% | +5.3% | +59.1% | 0.1% |
