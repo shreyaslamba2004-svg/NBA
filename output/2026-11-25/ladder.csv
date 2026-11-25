@@ -1444,14 +1444,14 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1631217,Moussa Diabate,ra,14.5,False,0.3834,,model only,0.3834
 401909318,CHI @ CHA,CHA,1631217,Moussa Diabate,ra,15.5,False,0.3108,,model only,0.3108
 401909318,CHI @ CHA,CHA,1631217,Moussa Diabate,ra,16.5,False,0.2493,,model only,0.2493
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,1.5,False,0.9692,0.953,est,0.9559
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,2.5,False,0.9199,0.8808,est,0.8879
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,3.5,False,0.8407,0.7725,est,0.7848
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,4.5,False,0.7428,0.6502,est,0.6669
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,5.5,True,0.6266,0.5192,book,0.5386
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,6.5,False,0.5178,0.4086,est,0.4284
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,7.5,False,0.4153,0.3581,book,0.3685
-401909318,CHI @ CHA,CHA,1642883,Sion James,pts,8.5,False,0.3256,0.237,est,0.253
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,1.5,False,0.9692,0.9518,est,0.9549
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,2.5,False,0.9199,0.878,est,0.8856
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,3.5,False,0.8407,0.7678,est,0.781
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,4.5,False,0.7428,0.6441,est,0.662
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,5.5,True,0.6266,0.5126,book,0.5332
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,6.5,False,0.5178,0.4022,est,0.4232
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,7.5,False,0.4153,0.3595,book,0.3696
+401909318,CHI @ CHA,CHA,1642883,Sion James,pts,8.5,False,0.3256,0.2322,est,0.2491
 401909318,CHI @ CHA,CHA,1642883,Sion James,pts,9.5,False,0.2508,0.2163,book,0.2225
 401909318,CHI @ CHA,CHA,1642883,Sion James,reb,1.5,False,0.8902,,model only,0.8902
 401909318,CHI @ CHA,CHA,1642883,Sion James,reb,2.5,False,0.7445,,model only,0.7445
@@ -1467,10 +1467,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1642883,Sion James,ast,4.5,False,0.2279,,model only,0.2279
 401909318,CHI @ CHA,CHA,1642883,Sion James,ast,5.5,False,0.1216,,model only,0.1216
 401909318,CHI @ CHA,CHA,1642883,Sion James,ast,6.5,False,0.0623,,model only,0.0623
-401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,0.5,False,0.6855,0.7126,book,0.7077
-401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,1.5,True,0.2702,0.3943,book,0.3718
-401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,2.5,False,0.0696,0.1767,book,0.1573
-401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,3.5,False,0.0131,0.073,book,0.0622
+401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,0.5,False,0.6855,0.7083,book,0.7042
+401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,1.5,True,0.2702,0.3854,book,0.3646
+401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,2.5,False,0.0696,0.175,book,0.1559
+401909318,CHI @ CHA,CHA,1642883,Sion James,fg3m,3.5,False,0.0131,0.0719,book,0.0613
 401909318,CHI @ CHA,CHA,1642883,Sion James,stl,0.5,False,0.6563,,model only,0.6563
 401909318,CHI @ CHA,CHA,1642883,Sion James,stl,1.5,False,0.3105,,model only,0.3105
 401909318,CHI @ CHA,CHA,1642883,Sion James,stl,2.5,False,0.1155,,model only,0.1155
@@ -1574,15 +1574,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1642862,Liam McNeeley,ra,3.5,False,0.3174,,model only,0.3174
 401909318,CHI @ CHA,CHA,1642862,Liam McNeeley,ra,4.5,False,0.1967,,model only,0.1967
 401909318,CHI @ CHA,CHA,1642862,Liam McNeeley,ra,5.5,False,0.1161,,model only,0.1161
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,17.5,False,0.6279,0.6778,book,0.6688
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,18.5,False,0.5809,0.6331,est,0.6237
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,19.5,False,0.5368,0.5872,book,0.5781
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,20.5,False,0.4882,0.5429,est,0.533
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,21.5,True,0.4412,0.4958,book,0.4859
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,22.5,False,0.3998,0.4534,est,0.4437
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,23.5,False,0.359,0.4109,est,0.4015
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,24.5,False,0.3248,0.3608,book,0.3543
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,25.5,False,0.288,0.335,est,0.3265
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,17.5,False,0.6279,0.6847,book,0.6744
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,18.5,False,0.5809,0.636,est,0.626
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,19.5,False,0.5368,0.5972,book,0.5863
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,20.5,False,0.4882,0.546,est,0.5355
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,21.5,True,0.4412,0.4989,book,0.4885
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,22.5,False,0.3998,0.4565,est,0.4462
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,23.5,False,0.359,0.4139,est,0.404
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,24.5,False,0.3248,0.3636,book,0.3566
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,pts,25.5,False,0.288,0.3378,est,0.3288
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,reb,1.5,False,0.9254,,model only,0.9254
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,reb,2.5,False,0.8146,,model only,0.8146
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,reb,3.5,False,0.6578,,model only,0.6578
@@ -1597,11 +1597,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,ast,4.5,False,0.2516,,model only,0.2516
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,ast,5.5,False,0.139,,model only,0.139
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,ast,6.5,False,0.0698,,model only,0.0698
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,1.5,False,0.8167,0.8178,book,0.8176
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,2.5,False,0.6135,0.6461,book,0.6402
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,3.5,True,0.3916,0.4482,book,0.438
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,4.5,False,0.2243,0.2773,book,0.2677
-401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,5.5,False,0.1123,0.1603,book,0.1516
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,1.5,False,0.8167,0.822,book,0.821
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,2.5,False,0.6135,0.6514,book,0.6445
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,3.5,True,0.3916,0.4504,book,0.4398
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,4.5,False,0.2243,0.2824,book,0.2719
+401909318,CHI @ CHA,CHA,1641706,Brandon Miller,fg3m,5.5,False,0.1123,0.1631,book,0.1539
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,stl,0.5,False,0.634,,model only,0.634
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,stl,1.5,False,0.2828,,model only,0.2828
 401909318,CHI @ CHA,CHA,1641706,Brandon Miller,stl,2.5,False,0.0993,,model only,0.0993
@@ -1708,15 +1708,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1626220,Royce O'Neale,ra,5.5,False,0.3054,,model only,0.3054
 401909318,CHI @ CHA,CHA,1626220,Royce O'Neale,ra,6.5,False,0.2017,,model only,0.2017
 401909318,CHI @ CHA,CHA,1626220,Royce O'Neale,ra,7.5,False,0.1251,,model only,0.1251
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,15.5,False,0.6398,0.6906,est,0.6814
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,16.5,False,0.5871,0.6411,est,0.6313
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,17.5,False,0.5375,0.5947,book,0.5843
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,18.5,False,0.4858,0.5428,est,0.5325
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,19.5,True,0.437,0.4937,book,0.4834
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,20.5,False,0.3908,0.4463,est,0.4362
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,21.5,False,0.3475,0.4009,est,0.3913
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,22.5,False,0.3061,0.3566,est,0.3474
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,23.5,False,0.267,0.314,est,0.3055
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,15.5,False,0.6398,0.6976,est,0.6871
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,16.5,False,0.5871,0.6486,est,0.6375
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,17.5,False,0.5375,0.6008,book,0.5893
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,18.5,False,0.4858,0.5509,est,0.5391
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,19.5,True,0.437,0.5019,book,0.4901
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,20.5,False,0.3908,0.4544,est,0.4429
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,21.5,False,0.3475,0.4088,est,0.3977
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,22.5,False,0.3061,0.3641,est,0.3536
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,pts,23.5,False,0.267,0.3211,est,0.3113
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,reb,5.5,False,0.7988,,model only,0.7988
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,reb,6.5,False,0.6937,,model only,0.6937
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,reb,7.5,False,0.578,,model only,0.578
@@ -1731,11 +1731,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,ast,4.5,False,0.1607,,model only,0.1607
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,ast,5.5,False,0.0726,,model only,0.0726
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,ast,6.5,False,0.0324,,model only,0.0324
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,0.5,False,0.9086,0.8849,book,0.8892
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,1.5,False,0.6918,0.726,est,0.7198
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,2.5,True,0.4354,0.4765,book,0.4691
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,3.5,False,0.2309,0.2773,book,0.2689
-401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,4.5,False,0.1025,0.1465,book,0.1385
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,0.5,False,0.9086,0.8832,book,0.8878
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,1.5,False,0.6918,0.7055,book,0.703
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,2.5,True,0.4354,0.4787,book,0.4709
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,3.5,False,0.2309,0.2757,book,0.2676
+401909318,CHI @ CHA,CHA,1629675,Naz Reid,fg3m,4.5,False,0.1025,0.141,book,0.134
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,stl,0.5,False,0.6488,,model only,0.6488
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,stl,1.5,False,0.2877,,model only,0.2877
 401909318,CHI @ CHA,CHA,1629675,Naz Reid,stl,2.5,False,0.1061,,model only,0.1061
@@ -1841,15 +1841,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1642275,Tidjane Salaun,ra,5.5,False,0.2578,,model only,0.2578
 401909318,CHI @ CHA,CHA,1642275,Tidjane Salaun,ra,6.5,False,0.171,,model only,0.171
 401909318,CHI @ CHA,CHA,1642275,Tidjane Salaun,ra,7.5,False,0.108,,model only,0.108
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,14.5,False,0.6111,0.7035,est,0.6868
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,15.5,False,0.56,0.6577,est,0.64
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,16.5,False,0.5122,0.6131,est,0.5949
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,17.5,False,0.4628,0.5653,est,0.5467
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,18.5,True,0.417,0.5192,book,0.5007
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,19.5,False,0.3707,0.4707,est,0.4526
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,20.5,False,0.3288,0.4251,est,0.4076
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,21.5,False,0.2913,0.3829,est,0.3664
-401909318,CHI @ CHA,CHA,1629632,Coby White,pts,22.5,False,0.2552,0.3409,est,0.3254
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,14.5,False,0.6111,0.7019,est,0.6855
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,15.5,False,0.56,0.656,est,0.6386
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,16.5,False,0.5122,0.6113,est,0.5934
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,17.5,False,0.4628,0.5634,est,0.5452
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,18.5,True,0.417,0.5173,book,0.4991
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,19.5,False,0.3707,0.4688,est,0.4511
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,20.5,False,0.3288,0.4232,est,0.4061
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,21.5,False,0.2913,0.3811,est,0.3649
+401909318,CHI @ CHA,CHA,1629632,Coby White,pts,22.5,False,0.2552,0.3392,est,0.324
 401909318,CHI @ CHA,CHA,1629632,Coby White,reb,0.5,False,0.9398,,model only,0.9398
 401909318,CHI @ CHA,CHA,1629632,Coby White,reb,1.5,False,0.7947,,model only,0.7947
 401909318,CHI @ CHA,CHA,1629632,Coby White,reb,2.5,False,0.5937,,model only,0.5937
@@ -1864,11 +1864,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1629632,Coby White,ast,5.5,False,0.2916,,model only,0.2916
 401909318,CHI @ CHA,CHA,1629632,Coby White,ast,6.5,False,0.1859,,model only,0.1859
 401909318,CHI @ CHA,CHA,1629632,Coby White,ast,7.5,False,0.1101,,model only,0.1101
-401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,0.5,False,0.8774,0.848,book,0.8533
-401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,1.5,False,0.642,0.6231,book,0.6265
-401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,2.5,True,0.3892,0.3838,book,0.3848
-401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,3.5,False,0.2023,0.205,book,0.2045
-401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,4.5,False,0.0912,0.1027,book,0.1006
+401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,0.5,False,0.8774,0.8464,book,0.852
+401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,1.5,False,0.642,0.6241,book,0.6273
+401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,2.5,True,0.3892,0.383,book,0.3841
+401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,3.5,False,0.2023,0.2077,book,0.2067
+401909318,CHI @ CHA,CHA,1629632,Coby White,fg3m,4.5,False,0.0912,0.1016,book,0.0997
 401909318,CHI @ CHA,CHA,1629632,Coby White,stl,0.5,False,0.493,,model only,0.493
 401909318,CHI @ CHA,CHA,1629632,Coby White,stl,1.5,False,0.1629,,model only,0.1629
 401909318,CHI @ CHA,CHA,1629632,Coby White,blk,0.5,False,0.1845,,model only,0.1845
@@ -1975,15 +1975,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHA,1629684,Grant Williams,ra,6.5,False,0.3068,,model only,0.3068
 401909318,CHI @ CHA,CHA,1629684,Grant Williams,ra,7.5,False,0.2051,,model only,0.2051
 401909318,CHI @ CHA,CHA,1629684,Grant Williams,ra,8.5,False,0.1331,,model only,0.1331
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,12.5,False,0.7301,0.7344,est,0.7336
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,13.5,False,0.6775,0.6822,est,0.6813
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,14.5,False,0.6255,0.6305,est,0.6296
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,15.5,False,0.5677,0.573,est,0.5721
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,16.5,True,0.511,0.5164,book,0.5154
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,17.5,False,0.4558,0.4612,est,0.4602
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,18.5,False,0.4031,0.4083,est,0.4074
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,19.5,False,0.358,0.363,est,0.3621
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,20.5,False,0.3132,0.3179,est,0.3171
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,12.5,False,0.7301,0.7314,est,0.7312
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,13.5,False,0.6775,0.6789,est,0.6786
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,14.5,False,0.6255,0.627,est,0.6267
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,15.5,False,0.5677,0.5693,est,0.569
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,16.5,True,0.511,0.5126,book,0.5123
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,17.5,False,0.4558,0.4574,est,0.4571
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,18.5,False,0.4031,0.4046,est,0.4044
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,19.5,False,0.358,0.3595,est,0.3592
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,pts,20.5,False,0.3132,0.3146,est,0.3144
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,reb,2.5,False,0.8622,,model only,0.8622
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,reb,3.5,False,0.7325,,model only,0.7325
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,reb,4.5,False,0.5782,,model only,0.5782
@@ -1998,10 +1998,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,ast,4.5,False,0.0576,,model only,0.0576
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,ast,5.5,False,0.0226,,model only,0.0226
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,0.5,False,0.9042,0.8747,book,0.88
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,1.5,False,0.6881,0.6827,book,0.6837
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,2.5,True,0.4347,0.4526,book,0.4494
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,3.5,False,0.227,0.2663,book,0.2592
-401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,4.5,False,0.0996,0.136,book,0.1294
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,1.5,False,0.6881,0.6806,book,0.682
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,2.5,True,0.4347,0.4493,book,0.4467
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,3.5,False,0.227,0.2589,book,0.2531
+401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,fg3m,4.5,False,0.0996,0.1362,book,0.1296
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,stl,0.5,False,0.5481,,model only,0.5481
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,stl,1.5,False,0.1941,,model only,0.1941
 401909318,CHI @ CHA,CHI,1641824,Matas Buzelis,stl,2.5,False,0.0563,,model only,0.0563
@@ -2236,15 +2236,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHI,1642855,Noa Essengue,ra,4.5,False,0.2727,,model only,0.2727
 401909318,CHI @ CHA,CHI,1642855,Noa Essengue,ra,5.5,False,0.1697,,model only,0.1697
 401909318,CHI @ CHA,CHI,1642855,Noa Essengue,ra,6.5,False,0.1014,,model only,0.1014
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,8.5,False,0.8344,0.7707,est,0.7823
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,9.5,False,0.7816,0.7048,est,0.7187
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,10.5,False,0.7205,0.6323,est,0.6483
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,11.5,False,0.6537,0.5574,est,0.5748
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,12.5,True,0.5887,0.4885,book,0.5066
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,13.5,False,0.5254,0.4248,est,0.443
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,14.5,False,0.4616,0.3638,est,0.3815
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,15.5,False,0.4009,0.3086,est,0.3253
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,16.5,False,0.3484,0.2629,est,0.2784
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,8.5,False,0.8344,0.7744,est,0.7853
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,9.5,False,0.7816,0.7091,est,0.7222
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,10.5,False,0.7205,0.6372,est,0.6522
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,11.5,False,0.6537,0.5625,est,0.579
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,12.5,True,0.5887,0.4937,book,0.5109
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,13.5,False,0.5254,0.4299,est,0.4471
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,14.5,False,0.4616,0.3687,est,0.3855
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,15.5,False,0.4009,0.3131,est,0.329
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,pts,16.5,False,0.3484,0.267,est,0.2817
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,reb,4.5,False,0.7781,,model only,0.7781
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,reb,5.5,False,0.6563,,model only,0.6563
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,reb,6.5,False,0.525,,model only,0.525
@@ -2259,10 +2259,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,ast,10.5,False,0.3143,,model only,0.3143
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,ast,11.5,False,0.2364,,model only,0.2364
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,ast,12.5,False,0.1709,,model only,0.1709
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,0.5,False,0.8038,0.7126,book,0.7291
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,1.5,True,0.4829,0.3943,book,0.4103
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,2.5,False,0.2222,0.1815,book,0.1889
-401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,3.5,False,0.0801,0.0754,book,0.0763
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,0.5,False,0.8038,0.7131,book,0.7295
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,1.5,True,0.4829,0.3969,book,0.4125
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,2.5,False,0.2222,0.1847,book,0.1915
+401909318,CHI @ CHA,CHI,1630581,Josh Giddey,fg3m,3.5,False,0.0801,0.0806,book,0.0805
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,stl,0.5,False,0.598,,model only,0.598
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,stl,1.5,False,0.2482,,model only,0.2482
 401909318,CHI @ CHA,CHI,1630581,Josh Giddey,stl,2.5,False,0.0804,,model only,0.0804
@@ -2567,15 +2567,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHI,1631159,Leonard Miller,ra,5.5,False,0.252,,model only,0.252
 401909318,CHI @ CHA,CHI,1631159,Leonard Miller,ra,6.5,False,0.1667,,model only,0.1667
 401909318,CHI @ CHA,CHI,1631159,Leonard Miller,ra,7.5,False,0.1021,,model only,0.1021
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,5.5,False,0.8378,0.7775,book,0.7884
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,6.5,False,0.7658,0.7663,est,0.7662
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,7.5,False,0.6832,0.6539,book,0.6592
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,8.5,False,0.5984,0.599,est,0.5989
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,9.5,True,0.5138,0.5145,book,0.5144
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,10.5,False,0.4328,0.4335,est,0.4334
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,11.5,False,0.358,0.3753,book,0.3722
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,12.5,False,0.2926,0.2932,est,0.2931
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,13.5,False,0.2364,0.2368,est,0.2368
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,5.5,False,0.8378,0.7811,book,0.7914
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,6.5,False,0.7658,0.7677,est,0.7673
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,7.5,False,0.6832,0.6573,book,0.662
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,8.5,False,0.5984,0.6008,est,0.6004
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,9.5,True,0.5138,0.5164,book,0.5159
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,10.5,False,0.4328,0.4354,est,0.4349
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,11.5,False,0.358,0.383,book,0.3785
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,12.5,False,0.2926,0.2947,est,0.2944
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,pts,13.5,False,0.2364,0.2382,est,0.2379
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,reb,0.5,False,0.9431,,model only,0.9431
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,reb,1.5,False,0.7882,,model only,0.7882
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,reb,2.5,False,0.5737,,model only,0.5737
@@ -2589,10 +2589,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,ast,3.5,False,0.1563,,model only,0.1563
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,ast,4.5,False,0.0653,,model only,0.0653
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,ast,5.5,False,0.0237,,model only,0.0237
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,0.5,False,0.7638,0.7301,book,0.7362
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,1.5,True,0.3975,0.4173,book,0.4137
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,2.5,False,0.142,0.1947,book,0.1852
-401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,3.5,False,0.038,0.085,book,0.0765
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,0.5,False,0.7638,0.7292,book,0.7355
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,1.5,True,0.3975,0.421,book,0.4167
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,2.5,False,0.142,0.1931,book,0.1839
+401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,fg3m,3.5,False,0.038,0.082,book,0.074
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,stl,0.5,False,0.6041,,model only,0.6041
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,stl,1.5,False,0.2492,,model only,0.2492
 401909318,CHI @ CHA,CHI,1630171,Isaac Okoro,stl,2.5,False,0.0804,,model only,0.0804
@@ -4061,25 +4061,25 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,6.5,False,0.488,0.568,est,0.5535
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,7.5,True,0.391,0.4696,book,0.4554
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,8.5,False,0.3132,0.3862,est,0.373
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,9.5,False,0.2387,0.3268,book,0.3108
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,9.5,False,0.2387,0.3279,book,0.3117
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,10.5,False,0.1804,0.2329,est,0.2234
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,11.5,False,0.1349,0.2114,book,0.1975
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,0.5,False,0.9124,0.9074,est,0.9083
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,1.5,False,0.7393,0.7274,est,0.7296
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,2.5,True,0.5287,0.5136,book,0.5163
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,3.5,False,0.3393,0.3314,book,0.3328
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,4.5,False,0.1991,0.1911,book,0.1926
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,5.5,False,0.1048,0.1062,book,0.106
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pts,11.5,False,0.1349,0.2148,book,0.2003
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,0.5,False,0.9124,0.9105,est,0.9108
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,1.5,False,0.7393,0.7348,est,0.7356
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,2.5,True,0.5287,0.5229,book,0.5239
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,3.5,False,0.3393,0.3338,book,0.3348
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,4.5,False,0.1991,0.1915,book,0.1929
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,reb,5.5,False,0.1048,0.1038,book,0.104
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,ast,0.5,False,0.8327,,model only,0.8327
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,ast,1.5,False,0.562,,model only,0.562
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,ast,2.5,False,0.3257,,model only,0.3257
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,ast,3.5,False,0.1651,,model only,0.1651
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,ast,4.5,False,0.0752,,model only,0.0752
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,ast,5.5,False,0.0341,,model only,0.0341
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,0.5,False,0.5861,0.7061,book,0.6844
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,1.5,True,0.2072,0.3886,book,0.3558
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,2.5,False,0.0563,0.1808,book,0.1583
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,3.5,False,0.011,0.0792,book,0.0669
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,0.5,False,0.5861,0.7083,book,0.6862
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,1.5,True,0.2072,0.3919,book,0.3585
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,2.5,False,0.0563,0.1825,book,0.1597
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,fg3m,3.5,False,0.011,0.0806,book,0.068
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,stl,0.5,False,0.6371,,model only,0.6371
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,stl,1.5,False,0.307,,model only,0.307
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,stl,2.5,False,0.1217,,model only,0.1217
@@ -4096,15 +4096,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pra,14.5,False,0.2921,,model only,0.2921
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pra,15.5,False,0.2415,,model only,0.2415
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pra,16.5,False,0.1982,,model only,0.1982
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,6.5,False,0.7299,0.7738,est,0.7659
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,7.5,False,0.6475,0.6994,est,0.69
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,8.5,False,0.5645,0.6214,est,0.6111
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,9.5,False,0.4828,0.5417,est,0.5311
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,10.5,True,0.407,0.465,book,0.4545
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,11.5,False,0.3345,0.3889,est,0.3791
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,12.5,False,0.2724,0.3216,est,0.3127
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,13.5,False,0.2193,0.2623,est,0.2545
-401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,14.5,False,0.1712,0.2073,est,0.2008
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,6.5,False,0.7299,0.7754,est,0.7672
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,7.5,False,0.6475,0.7013,est,0.6916
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,8.5,False,0.5645,0.6236,est,0.6129
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,9.5,False,0.4828,0.544,est,0.5329
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,10.5,True,0.407,0.4673,book,0.4564
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,11.5,False,0.3345,0.3911,est,0.3809
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,12.5,False,0.2724,0.3236,est,0.3144
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,13.5,False,0.2193,0.2641,est,0.256
+401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pr,14.5,False,0.1712,0.2088,est,0.202
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pa,4.5,False,0.8281,,model only,0.8281
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pa,5.5,False,0.7535,,model only,0.7535
 401909320,MIN @ OKC,OKC,1627936,Alex Caruso,pa,6.5,False,0.6675,,model only,0.6675
@@ -4247,15 +4247,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,905105800,Josh Dix,ra,4.5,False,0.25,,model only,0.25
 401909320,MIN @ OKC,OKC,905105800,Josh Dix,ra,5.5,False,0.1474,,model only,0.1474
 401909320,MIN @ OKC,OKC,905105800,Josh Dix,ra,6.5,False,0.08,,model only,0.08
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,27.5,False,0.6211,0.6309,est,0.6291
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,28.5,False,0.5861,0.5962,est,0.5944
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,29.5,False,0.5507,0.5611,est,0.5592
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,30.5,False,0.5168,0.5273,est,0.5254
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,31.5,True,0.4853,0.4958,book,0.4939
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,32.5,False,0.4518,0.4622,est,0.4603
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,33.5,False,0.4206,0.4309,est,0.429
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,34.5,False,0.3903,0.4003,est,0.3985
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,35.5,False,0.3627,0.3724,est,0.3707
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,27.5,False,0.6211,0.6347,est,0.6322
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,28.5,False,0.5861,0.6001,est,0.5976
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,29.5,False,0.5507,0.5651,est,0.5625
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,30.5,False,0.5168,0.5314,est,0.5288
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,31.5,True,0.4853,0.4999,book,0.4973
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,32.5,False,0.4518,0.4663,est,0.4636
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,33.5,False,0.4206,0.4349,est,0.4323
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,34.5,False,0.3903,0.4043,est,0.4017
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pts,35.5,False,0.3627,0.3763,est,0.3738
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,reb,1.5,False,0.9315,0.9308,est,0.9309
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,reb,2.5,False,0.8211,0.7977,book,0.8019
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,reb,3.5,False,0.6584,0.6479,book,0.6498
@@ -4281,17 +4281,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,blk,0.5,False,0.5952,,model only,0.5952
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,blk,1.5,False,0.2358,,model only,0.2358
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,blk,2.5,False,0.0701,,model only,0.0701
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,36.5,False,0.6664,0.6536,est,0.6559
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,37.5,False,0.6365,0.6233,est,0.6257
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,38.5,False,0.6069,0.5933,est,0.5958
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,39.5,False,0.5768,0.5628,est,0.5654
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,40.5,False,0.5468,0.5327,est,0.5352
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,41.5,True,0.5151,0.5009,book,0.5035
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,42.5,False,0.4849,0.4708,est,0.4733
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,43.5,False,0.4551,0.4411,est,0.4436
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,44.5,False,0.4278,0.4139,est,0.4164
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,45.5,False,0.4013,0.3877,est,0.3902
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,46.5,False,0.3752,0.362,est,0.3643
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,36.5,False,0.6664,0.6572,est,0.6589
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,37.5,False,0.6365,0.627,est,0.6288
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,38.5,False,0.6069,0.5972,est,0.5989
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,39.5,False,0.5768,0.5668,est,0.5686
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,40.5,False,0.5468,0.5366,est,0.5385
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,41.5,True,0.5151,0.5049,book,0.5067
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,42.5,False,0.4849,0.4748,est,0.4766
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,43.5,False,0.4551,0.445,est,0.4469
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,44.5,False,0.4278,0.4178,est,0.4196
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,45.5,False,0.4013,0.3915,est,0.3933
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pra,46.5,False,0.3752,0.3657,est,0.3674
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pr,32.5,False,0.6039,0.6212,est,0.618
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pr,33.5,False,0.5712,0.5889,est,0.5857
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pr,34.5,False,0.5371,0.5551,est,0.5518
@@ -4301,15 +4301,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pr,38.5,False,0.4137,0.4314,est,0.4282
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pr,39.5,False,0.386,0.4033,est,0.4002
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pr,40.5,False,0.3579,0.3747,est,0.3717
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,32.5,False,0.6529,0.6437,est,0.6454
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,33.5,False,0.6229,0.6134,est,0.6151
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,34.5,False,0.5907,0.602,book,0.5999
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,35.5,False,0.5595,0.5496,est,0.5514
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,36.5,True,0.5284,0.5183,book,0.5201
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,37.5,False,0.4974,0.4873,est,0.4891
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,38.5,False,0.4643,0.4542,est,0.4561
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,39.5,False,0.4352,0.396,book,0.4031
-401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,40.5,False,0.4068,0.397,est,0.3988
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,33.5,False,0.6229,0.6153,est,0.6167
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,34.5,False,0.5907,0.5828,est,0.5842
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,35.5,False,0.5595,0.5515,est,0.553
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,36.5,False,0.5284,0.5203,est,0.5217
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,37.5,True,0.4974,0.4893,book,0.4908
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,38.5,False,0.4643,0.4562,est,0.4577
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,39.5,False,0.4352,0.4273,est,0.4287
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,40.5,False,0.4068,0.3989,est,0.4004
+401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,pa,41.5,False,0.3786,0.371,est,0.3723
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,ra,6.5,False,0.8836,0.8336,est,0.8426
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,ra,7.5,False,0.8113,0.7392,est,0.7523
 401909320,MIN @ OKC,OKC,1628983,Shai Gilgeous-Alexander,ra,8.5,False,0.7235,0.6332,est,0.6495
@@ -4394,13 +4394,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pts,17.5,False,0.3668,0.3795,est,0.3772
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pts,18.5,False,0.32,0.3319,est,0.3298
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pts,19.5,False,0.2762,0.2872,est,0.2852
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,0.5,False,0.9685,0.9659,est,0.9663
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,1.5,False,0.87,0.8602,est,0.862
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,2.5,False,0.7043,0.6764,book,0.6815
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,3.5,True,0.5136,0.4927,book,0.4965
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,4.5,False,0.3385,0.3279,book,0.3298
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,5.5,False,0.1985,0.1968,book,0.1971
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,6.5,False,0.1096,0.1154,book,0.1144
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,0.5,False,0.9685,0.9657,est,0.9662
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,1.5,False,0.87,0.8597,est,0.8616
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,2.5,False,0.7043,0.6799,book,0.6843
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,3.5,True,0.5136,0.4917,book,0.4957
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,4.5,False,0.3385,0.3245,book,0.327
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,5.5,False,0.1985,0.1947,book,0.1954
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,reb,6.5,False,0.1096,0.1113,book,0.111
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,ast,0.5,False,0.8478,0.8165,est,0.8222
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,ast,1.5,True,0.5747,0.5192,book,0.5292
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,ast,2.5,False,0.3215,0.2747,est,0.2832
@@ -4416,26 +4416,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,stl,2.5,False,0.0788,,model only,0.0788
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,blk,0.5,False,0.2152,,model only,0.2152
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,blk,1.5,False,0.0273,,model only,0.0273
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,15.5,False,0.7777,0.7728,est,0.7737
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,16.5,False,0.7281,0.7225,est,0.7235
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,17.5,False,0.678,0.6719,est,0.673
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,18.5,False,0.6272,0.6206,est,0.6218
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,19.5,False,0.5735,0.5667,est,0.5679
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,20.5,True,0.5215,0.5145,book,0.5158
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,21.5,False,0.4713,0.4643,est,0.4656
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,22.5,False,0.4214,0.4146,est,0.4158
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,23.5,False,0.3726,0.3661,est,0.3673
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,24.5,False,0.3313,0.3252,est,0.3263
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,25.5,False,0.2905,0.2848,est,0.2858
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,15.5,False,0.6897,0.6933,est,0.6927
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,16.5,False,0.6348,0.6387,est,0.638
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,17.5,False,0.5797,0.5839,est,0.5831
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,18.5,False,0.5268,0.5311,est,0.5303
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,19.5,True,0.471,0.4753,book,0.4745
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,20.5,False,0.4171,0.4212,est,0.4205
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,21.5,False,0.3687,0.3726,est,0.3719
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,22.5,False,0.3228,0.3265,est,0.3259
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,23.5,False,0.2799,0.2834,est,0.2828
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,15.5,False,0.7777,0.7748,est,0.7753
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,16.5,False,0.7281,0.7247,est,0.7253
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,17.5,False,0.678,0.6744,est,0.675
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,18.5,False,0.6272,0.6233,est,0.624
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,19.5,False,0.5735,0.5694,est,0.5701
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,20.5,True,0.5215,0.5173,book,0.5181
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,21.5,False,0.4713,0.4671,est,0.4679
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,22.5,False,0.4214,0.4173,est,0.4181
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,23.5,False,0.3726,0.3687,est,0.3694
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,24.5,False,0.3313,0.3276,est,0.3283
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pra,25.5,False,0.2905,0.2871,est,0.2877
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,15.5,False,0.6897,0.6952,est,0.6942
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,16.5,False,0.6348,0.6408,est,0.6397
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,17.5,False,0.5797,0.586,est,0.5849
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,18.5,False,0.5268,0.5333,est,0.5321
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,19.5,True,0.471,0.4775,book,0.4763
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,20.5,False,0.4171,0.4234,est,0.4223
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,21.5,False,0.3687,0.3747,est,0.3736
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,22.5,False,0.3228,0.3285,est,0.3275
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,pr,23.5,False,0.2799,0.2852,est,0.2842
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pa,13.5,False,0.7074,0.7149,est,0.7135
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pa,14.5,False,0.6493,0.6575,est,0.656
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pa,15.5,False,0.59,0.5988,est,0.5972
@@ -4445,33 +4445,33 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pa,19.5,False,0.3753,0.3838,est,0.3823
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pa,20.5,False,0.3276,0.3356,est,0.3342
 401909320,MIN @ OKC,OKC,1642272,Jared McCain,pa,21.5,False,0.2839,0.2914,est,0.29
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,2.5,False,0.9028,0.8832,est,0.8867
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,3.5,False,0.7937,0.7578,est,0.7643
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,4.5,False,0.655,0.607,est,0.6157
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,5.5,True,0.5037,0.4523,book,0.4616
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,6.5,False,0.367,0.3205,est,0.3289
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,7.5,False,0.2451,0.2089,est,0.2155
-401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,8.5,False,0.1574,0.1319,est,0.1365
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,13.5,False,0.6721,0.7151,est,0.7073
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,14.5,False,0.614,0.6605,book,0.6521
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,15.5,False,0.5604,0.6096,est,0.6007
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,16.5,False,0.503,0.5536,est,0.5444
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,17.5,True,0.4513,0.5019,book,0.4927
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,18.5,False,0.399,0.4485,est,0.4395
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,19.5,False,0.3515,0.396,book,0.388
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,20.5,False,0.3082,0.353,est,0.3449
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,21.5,False,0.2687,0.3104,est,0.3028
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,0.5,False,0.9765,0.9781,est,0.9778
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,1.5,False,0.8931,0.8999,est,0.8987
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,2.5,False,0.7403,0.7403,book,0.7403
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,3.5,True,0.5529,0.5709,book,0.5676
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,4.5,False,0.3783,0.4063,book,0.4012
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,5.5,False,0.2369,0.2596,book,0.2555
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,6.5,False,0.1343,0.1579,book,0.1536
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,0.5,False,0.9736,0.9646,est,0.9662
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,1.5,False,0.8827,0.8475,est,0.8538
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,2.5,False,0.9028,0.8878,est,0.8905
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,3.5,False,0.7937,0.7661,est,0.7711
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,4.5,False,0.655,0.6179,est,0.6246
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,5.5,True,0.5037,0.4637,book,0.4709
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,6.5,False,0.367,0.3306,est,0.3372
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,7.5,False,0.2451,0.2166,est,0.2218
+401909320,MIN @ OKC,OKC,1642272,Jared McCain,ra,8.5,False,0.1574,0.1373,est,0.1409
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,13.5,False,0.6721,0.7167,est,0.7087
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,14.5,False,0.614,0.6645,book,0.6554
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,15.5,False,0.5604,0.6115,est,0.6023
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,16.5,False,0.503,0.5555,est,0.546
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,17.5,True,0.4513,0.5039,book,0.4944
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,18.5,False,0.399,0.4504,est,0.4411
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,19.5,False,0.3515,0.4028,book,0.3935
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,20.5,False,0.3082,0.3549,est,0.3464
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pts,21.5,False,0.2687,0.3121,est,0.3042
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,0.5,False,0.9765,0.9779,est,0.9776
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,1.5,False,0.8931,0.8989,est,0.8978
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,2.5,False,0.7403,0.7362,book,0.7369
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,3.5,True,0.5529,0.5681,book,0.5653
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,4.5,False,0.3783,0.4028,book,0.3984
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,5.5,False,0.2369,0.254,book,0.2509
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,reb,6.5,False,0.1343,0.1532,book,0.1498
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,0.5,False,0.9736,0.9639,est,0.9657
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,1.5,False,0.8827,0.845,est,0.8519
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,2.5,False,0.7271,0.6589,book,0.6712
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,3.5,True,0.5454,0.4696,book,0.4833
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,3.5,True,0.5454,0.465,book,0.4796
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,4.5,False,0.3767,0.2939,book,0.3089
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,5.5,False,0.2365,0.1681,book,0.1805
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,ast,6.5,False,0.1352,0.0907,book,0.0988
@@ -4483,17 +4483,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,stl,2.5,False,0.1611,,model only,0.1611
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,blk,0.5,False,0.3191,,model only,0.3191
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,blk,1.5,False,0.0584,,model only,0.0584
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,20.5,False,0.6931,0.7179,est,0.7134
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,21.5,False,0.6501,0.6768,est,0.6719
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,22.5,False,0.5997,0.628,est,0.6229
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,23.5,False,0.5548,0.5841,est,0.5788
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,24.5,False,0.5079,0.5377,est,0.5323
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,25.5,True,0.4608,0.4906,book,0.4852
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,26.5,False,0.4149,0.4441,est,0.4388
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,27.5,False,0.3715,0.3998,est,0.3947
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,28.5,False,0.3336,0.3606,est,0.3557
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,29.5,False,0.2948,0.3203,est,0.3157
-401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,30.5,False,0.2634,0.2872,est,0.2829
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,20.5,False,0.6931,0.7204,est,0.7155
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,21.5,False,0.6501,0.6795,est,0.6741
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,22.5,False,0.5997,0.6309,est,0.6253
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,23.5,False,0.5548,0.5871,est,0.5813
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,24.5,False,0.5079,0.5407,est,0.5348
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,25.5,True,0.4608,0.4937,book,0.4877
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,26.5,False,0.4149,0.4472,est,0.4413
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,27.5,False,0.3715,0.4028,est,0.3971
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,28.5,False,0.3336,0.3635,est,0.3581
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,29.5,False,0.2948,0.323,est,0.3179
+401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pra,30.5,False,0.2634,0.2898,est,0.285
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pr,17.5,False,0.6603,0.7075,est,0.699
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pr,18.5,False,0.6088,0.6595,est,0.6504
 401909320,MIN @ OKC,OKC,1642349,Ajay Mitchell,pr,19.5,False,0.5601,0.6132,est,0.6036
@@ -4670,35 +4670,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,ast,2.5,False,0.3029,0.2745,est,0.2797
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,ast,3.5,False,0.1404,0.1246,est,0.1274
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,ast,4.5,False,0.0582,0.0599,book,0.0596
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,0.5,False,0.744,0.7403,book,0.741
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,1.5,True,0.3722,0.4287,book,0.4185
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,2.5,False,0.1289,0.2027,book,0.1894
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,3.5,False,0.0348,0.089,book,0.0792
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,0.5,False,0.744,0.7345,book,0.7362
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,1.5,True,0.3722,0.4297,book,0.4193
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,2.5,False,0.1289,0.2045,book,0.1908
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,fg3m,3.5,False,0.0348,0.0899,book,0.0799
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,stl,0.5,False,0.5742,,model only,0.5742
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,stl,1.5,False,0.2317,,model only,0.2317
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,stl,2.5,False,0.0717,,model only,0.0717
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,blk,0.5,False,0.2301,,model only,0.2301
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,blk,1.5,False,0.0321,,model only,0.0321
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,11.5,False,0.7731,0.7795,est,0.7784
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,12.5,False,0.7154,0.7228,est,0.7215
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,13.5,False,0.6546,0.6629,est,0.6614
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,14.5,False,0.5924,0.6013,est,0.5997
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,15.5,False,0.5297,0.5389,est,0.5372
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,16.5,True,0.4717,0.4809,book,0.4792
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,17.5,False,0.4115,0.4205,est,0.4188
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,18.5,False,0.355,0.3634,est,0.3619
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,19.5,False,0.3039,0.3117,est,0.3103
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,20.5,False,0.2601,0.2672,est,0.2659
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,21.5,False,0.2179,0.2242,est,0.2231
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,10.5,False,0.7376,0.7509,est,0.7485
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,11.5,False,0.6747,0.6899,est,0.6871
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,12.5,False,0.6065,0.6231,est,0.6201
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,13.5,False,0.537,0.5543,est,0.5512
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,14.5,True,0.4731,0.4906,book,0.4874
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,15.5,False,0.4111,0.4282,est,0.4251
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,16.5,False,0.3499,0.366,est,0.363
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,17.5,False,0.2967,0.3115,est,0.3088
-401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,18.5,False,0.2502,0.2635,est,0.2611
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,11.5,False,0.7731,0.7818,est,0.7802
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,12.5,False,0.7154,0.7254,est,0.7236
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,13.5,False,0.6546,0.6659,est,0.6639
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,14.5,False,0.5924,0.6044,est,0.6023
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,15.5,False,0.5297,0.5422,est,0.5399
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,16.5,True,0.4717,0.4842,book,0.4819
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,17.5,False,0.4115,0.4237,est,0.4215
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,18.5,False,0.355,0.3665,est,0.3644
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,19.5,False,0.3039,0.3146,est,0.3126
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,20.5,False,0.2601,0.2698,est,0.2681
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pra,21.5,False,0.2179,0.2265,est,0.225
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,10.5,False,0.7376,0.7525,est,0.7498
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,11.5,False,0.6747,0.6916,est,0.6886
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,12.5,False,0.6065,0.6251,est,0.6217
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,13.5,False,0.537,0.5564,est,0.5529
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,14.5,True,0.4731,0.4927,book,0.4892
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,15.5,False,0.4111,0.4302,est,0.4268
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,16.5,False,0.3499,0.3679,est,0.3646
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,17.5,False,0.2967,0.3133,est,0.3103
+401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pr,18.5,False,0.2502,0.2652,est,0.2624
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pa,6.5,False,0.8273,0.8137,est,0.8162
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pa,7.5,False,0.7601,0.7429,est,0.746
 401909320,MIN @ OKC,OKC,1629026,Kenrich Williams,pa,8.5,False,0.6832,0.663,est,0.6667
@@ -4731,13 +4731,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,reb,5.5,False,0.3391,0.3846,book,0.3764
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,reb,6.5,False,0.2204,0.254,book,0.2479
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,reb,7.5,False,0.1302,0.1603,book,0.1548
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,2.5,False,0.8793,0.8739,book,0.8749
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,3.5,False,0.7611,0.7888,book,0.7838
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,4.5,False,0.6094,0.682,book,0.6689
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,5.5,True,0.4601,0.5577,book,0.54
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,6.5,False,0.3258,0.4267,book,0.4084
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,7.5,False,0.2213,0.3074,book,0.2918
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,8.5,False,0.1411,0.2134,book,0.2003
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,2.5,False,0.8793,0.8762,book,0.8768
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,3.5,False,0.7611,0.7938,book,0.7879
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,4.5,False,0.6094,0.6899,book,0.6753
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,5.5,True,0.4601,0.5607,book,0.5425
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,6.5,False,0.3258,0.4347,book,0.415
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,7.5,False,0.2213,0.3136,book,0.2969
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,ast,8.5,False,0.1411,0.2204,book,0.206
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,fg3m,1.5,False,0.8059,0.8272,book,0.8233
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,fg3m,2.5,False,0.5866,0.6813,book,0.6642
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,fg3m,3.5,True,0.3629,0.5088,book,0.4824
@@ -4748,17 +4748,17 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,stl,2.5,False,0.1405,,model only,0.1405
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,blk,0.5,False,0.2453,,model only,0.2453
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,blk,1.5,False,0.0348,,model only,0.0348
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,24.5,False,0.6269,0.6867,book,0.6759
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,25.5,False,0.5817,0.67,est,0.654
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,26.5,False,0.5392,0.6307,est,0.6142
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,27.5,False,0.4936,0.5872,est,0.5703
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,28.5,False,0.4501,0.5444,est,0.5273
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,29.5,True,0.4084,0.5019,book,0.485
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,30.5,False,0.368,0.4595,est,0.4429
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,31.5,False,0.3314,0.4198,est,0.4038
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,32.5,False,0.2989,0.3835,est,0.3682
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,33.5,False,0.2683,0.3486,est,0.3341
-401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,34.5,False,0.2385,0.3126,book,0.2992
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,24.5,False,0.6269,0.6906,book,0.6791
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,25.5,False,0.5817,0.6718,est,0.6555
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,26.5,False,0.5392,0.6326,est,0.6157
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,27.5,False,0.4936,0.5891,est,0.5718
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,28.5,False,0.4501,0.5464,est,0.5289
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,29.5,True,0.4084,0.5039,book,0.4866
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,30.5,False,0.368,0.4615,est,0.4446
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,31.5,False,0.3314,0.4218,est,0.4054
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,32.5,False,0.2989,0.3854,est,0.3698
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,33.5,False,0.2683,0.3504,est,0.3355
+401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pra,34.5,False,0.2385,0.3136,book,0.3
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pr,19.5,False,0.613,0.6766,est,0.6651
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pr,20.5,False,0.5626,0.6294,est,0.6173
 401909320,MIN @ OKC,MIN,1630163,LaMelo Ball,pr,21.5,False,0.5101,0.579,est,0.5665
@@ -4928,7 +4928,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,7.5,False,0.7383,0.764,book,0.7593
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,8.5,False,0.6454,0.6778,book,0.6719
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,9.5,False,0.5495,0.5806,book,0.575
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,10.5,True,0.4474,0.4831,book,0.4766
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,10.5,True,0.4474,0.4787,book,0.473
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,11.5,False,0.3537,0.3862,book,0.3803
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,12.5,False,0.2729,0.2976,book,0.2931
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,reb,13.5,False,0.2047,0.2252,book,0.2215
@@ -4957,15 +4957,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pra,23.5,False,0.3128,0.3597,est,0.3512
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pra,24.5,False,0.2674,0.3106,est,0.3028
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pra,25.5,False,0.2283,0.2675,est,0.2604
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,15.5,False,0.6787,0.7373,est,0.7267
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,16.5,False,0.6143,0.6791,est,0.6674
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,17.5,False,0.5483,0.6173,est,0.6048
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,18.5,False,0.4853,0.5561,est,0.5433
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,19.5,True,0.4253,0.4958,book,0.483
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,20.5,False,0.3673,0.4355,est,0.4231
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,21.5,False,0.3156,0.3799,est,0.3683
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,22.5,False,0.2662,0.3252,est,0.3145
-401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,23.5,False,0.2251,0.2785,est,0.2689
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,15.5,False,0.6787,0.7365,est,0.7261
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,16.5,False,0.6143,0.6782,est,0.6666
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,17.5,False,0.5483,0.6163,est,0.604
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,18.5,False,0.4853,0.5552,est,0.5425
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,19.5,True,0.4253,0.4948,book,0.4822
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,20.5,False,0.3673,0.4345,est,0.4223
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,21.5,False,0.3156,0.379,est,0.3675
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,22.5,False,0.2662,0.3243,est,0.3138
+401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pr,23.5,False,0.2251,0.2777,est,0.2682
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pa,6.5,False,0.7924,0.8234,est,0.8178
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pa,7.5,False,0.7087,0.7483,est,0.7411
 401909320,MIN @ OKC,MIN,203497,Rudy Gobert,pa,8.5,False,0.6192,0.6651,est,0.6568
@@ -5058,7 +5058,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,2.5,False,0.8952,0.8627,book,0.8686
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,3.5,False,0.7838,0.7677,book,0.7706
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,4.5,False,0.6405,0.647,book,0.6458
-401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,5.5,True,0.4899,0.5136,book,0.5093
+401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,5.5,True,0.4899,0.5098,book,0.5062
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,6.5,False,0.3545,0.3784,book,0.3741
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,7.5,False,0.2422,0.2678,book,0.2632
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,reb,8.5,False,0.1562,0.184,book,0.179
@@ -5113,20 +5113,20 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,ra,9.5,False,0.3253,0.3556,est,0.3501
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,ra,10.5,False,0.2329,0.2579,est,0.2534
 401909320,MIN @ OKC,MIN,1630228,Jonathan Kuminga,ra,11.5,False,0.1638,0.1831,est,0.1796
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,1.5,False,0.9333,0.9266,est,0.9278
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,2.5,False,0.8579,0.845,est,0.8473
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,3.5,False,0.7615,0.7424,est,0.7459
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,4.5,False,0.6481,0.6244,est,0.6287
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,5.5,True,0.5353,0.5098,book,0.5144
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,6.5,False,0.4282,0.4033,est,0.4078
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,7.5,False,0.334,0.3554,book,0.3515
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,8.5,False,0.255,0.236,est,0.2395
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,9.5,False,0.1916,0.2225,book,0.2169
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,0.5,False,0.9621,0.9484,est,0.9509
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,1.5,False,0.8688,0.8277,est,0.8351
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,2.5,False,0.7225,0.6548,book,0.6671
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,3.5,True,0.5608,0.4809,book,0.4954
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,4.5,False,0.3997,0.3179,book,0.3327
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,1.5,False,0.9333,0.9271,est,0.9282
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,2.5,False,0.8579,0.846,est,0.8481
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,3.5,False,0.7615,0.7439,est,0.7471
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,4.5,False,0.6481,0.6262,est,0.6302
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,5.5,True,0.5353,0.5117,book,0.516
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,6.5,False,0.4282,0.4052,est,0.4093
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,7.5,False,0.334,0.3581,book,0.3537
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,8.5,False,0.255,0.2374,est,0.2406
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,pts,9.5,False,0.1916,0.2274,book,0.2209
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,0.5,False,0.9621,0.9476,est,0.9502
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,1.5,False,0.8688,0.8252,est,0.8331
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,2.5,False,0.7225,0.6522,book,0.6649
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,3.5,True,0.5608,0.4765,book,0.4918
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,4.5,False,0.3997,0.3126,book,0.3284
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,5.5,False,0.2711,0.1963,book,0.2098
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,reb,6.5,False,0.1711,0.1168,book,0.1266
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,ast,0.5,False,0.6337,,model only,0.6337
@@ -5134,10 +5134,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,ast,2.5,False,0.1069,,model only,0.1069
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,ast,3.5,False,0.0344,,model only,0.0344
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,ast,4.5,False,0.0079,,model only,0.0079
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,0.5,False,0.5983,0.6799,book,0.6651
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,1.5,False,0.215,0.3567,book,0.3311
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,2.5,False,0.0515,0.1617,book,0.1418
-401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,3.5,False,0.0106,0.0677,book,0.0574
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,0.5,False,0.5983,0.6806,book,0.6657
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,1.5,False,0.215,0.3622,book,0.3356
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,2.5,False,0.0515,0.1625,book,0.1424
+401909320,MIN @ OKC,MIN,1626168,Trey Lyles,fg3m,3.5,False,0.0106,0.0687,book,0.0582
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,stl,0.5,False,0.3657,,model only,0.3657
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,stl,1.5,False,0.0872,,model only,0.0872
 401909320,MIN @ OKC,MIN,1626168,Trey Lyles,blk,0.5,False,0.2682,,model only,0.2682
@@ -5187,13 +5187,13 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pts,19.5,False,0.4152,0.3738,book,0.3813
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pts,20.5,False,0.3671,0.328,est,0.3351
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pts,21.5,False,0.3224,0.2858,est,0.2925
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,2.5,False,0.9146,0.8438,book,0.8566
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,3.5,False,0.8129,0.7399,book,0.7531
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,2.5,False,0.9146,0.8464,book,0.8587
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,3.5,False,0.8129,0.7465,book,0.7585
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,4.5,False,0.6808,0.6167,book,0.6283
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,5.5,True,0.5313,0.4874,book,0.4953
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,6.5,False,0.3846,0.3622,book,0.3662
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,7.5,False,0.2608,0.2547,book,0.2558
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,8.5,False,0.167,0.174,book,0.1727
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,5.5,True,0.5313,0.4863,book,0.4944
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,6.5,False,0.3846,0.3595,book,0.364
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,7.5,False,0.2608,0.254,book,0.2552
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,reb,8.5,False,0.167,0.1734,book,0.1722
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,ast,0.5,False,0.9554,0.9586,est,0.958
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,ast,1.5,False,0.8202,0.8315,est,0.8294
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,ast,2.5,False,0.62,0.6067,book,0.6091
@@ -5231,15 +5231,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pr,24.5,False,0.4695,0.4214,est,0.4301
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pr,25.5,False,0.4216,0.3749,est,0.3834
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pr,26.5,False,0.3777,0.333,est,0.3411
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,16.5,False,0.7418,0.7146,est,0.7195
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,17.5,False,0.6914,0.6614,est,0.6668
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,18.5,False,0.6415,0.6094,est,0.6152
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,19.5,False,0.5906,0.557,est,0.5631
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,20.5,True,0.5381,0.5039,book,0.5101
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,21.5,False,0.4854,0.4513,est,0.4575
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,22.5,False,0.4346,0.4013,est,0.4073
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,23.5,False,0.3879,0.3559,est,0.3617
-401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,24.5,False,0.3456,0.3152,est,0.3207
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,16.5,False,0.7418,0.7154,est,0.7202
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,17.5,False,0.6914,0.6623,est,0.6675
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,18.5,False,0.6415,0.6103,est,0.616
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,19.5,False,0.5906,0.558,est,0.5639
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,20.5,True,0.5381,0.5049,book,0.5109
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,21.5,False,0.4854,0.4523,est,0.4583
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,22.5,False,0.4346,0.4022,est,0.4081
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,23.5,False,0.3879,0.3568,est,0.3625
+401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,pa,24.5,False,0.3456,0.3161,est,0.3214
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,ra,5.5,False,0.863,0.8498,est,0.8522
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,ra,6.5,False,0.7773,0.7582,est,0.7616
 401909320,MIN @ OKC,MIN,1630183,Jaden McDaniels,ra,7.5,False,0.669,0.6449,est,0.6492
@@ -5256,21 +5256,20 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,pts,14.5,False,0.3366,0.3625,est,0.3578
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,pts,15.5,False,0.2865,0.3103,est,0.306
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,pts,16.5,False,0.2439,0.2655,est,0.2616
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,0.5,False,0.926,0.9433,est,0.9402
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,1.5,False,0.7524,0.8016,est,0.7927
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,2.5,False,0.5315,0.5984,book,0.5863
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,3.5,True,0.3374,0.4037,book,0.3917
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,4.5,False,0.1898,0.244,book,0.2342
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,5.5,False,0.0958,0.1391,book,0.1313
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,6.5,False,0.0456,0.0779,book,0.0721
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,0.5,False,0.8765,0.8897,est,0.8873
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,1.5,False,0.6417,0.6705,est,0.6653
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,2.5,True,0.4007,0.4317,book,0.4261
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,3.5,False,0.2181,0.2434,book,0.2388
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,4.5,False,0.1063,0.1263,book,0.1227
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,5.5,False,0.0478,0.0658,book,0.0625
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,0.5,False,0.926,0.9421,est,0.9392
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,1.5,False,0.7524,0.7981,est,0.7898
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,2.5,True,0.5315,0.596,book,0.5843
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,3.5,False,0.3374,0.3977,book,0.3868
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,4.5,False,0.1898,0.2421,book,0.2326
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,reb,5.5,False,0.0958,0.141,book,0.1328
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,0.5,False,0.8765,0.8905,est,0.8879
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,1.5,False,0.6417,0.6723,est,0.6667
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,2.5,True,0.4007,0.4337,book,0.4277
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,3.5,False,0.2181,0.2466,book,0.2414
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,4.5,False,0.1063,0.1316,book,0.127
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ast,5.5,False,0.0478,0.0677,book,0.0641
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,fg3m,0.5,False,0.7351,0.7378,book,0.7373
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,fg3m,1.5,True,0.3958,0.4337,book,0.4268
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,fg3m,1.5,True,0.3958,0.4378,book,0.4302
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,fg3m,2.5,False,0.1565,0.2134,book,0.2031
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,fg3m,3.5,False,0.0492,0.0944,book,0.0862
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,stl,0.5,False,0.3887,,model only,0.3887
@@ -5306,22 +5305,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,pa,16.5,False,0.3651,0.4006,est,0.3942
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,pa,17.5,False,0.3161,0.3495,est,0.3435
 401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,pa,18.5,False,0.2724,0.3032,est,0.2976
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,2.5,False,0.8477,0.8803,est,0.8744
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,3.5,False,0.7172,0.7702,est,0.7606
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,4.5,False,0.5672,0.6339,est,0.6218
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,5.5,True,0.4189,0.4878,book,0.4753
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,6.5,False,0.2904,0.3509,est,0.34
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,7.5,False,0.1877,0.2339,est,0.2255
-401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,8.5,False,0.1171,0.1492,est,0.1434
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,12.5,False,0.7063,0.7314,est,0.7269
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,13.5,False,0.6517,0.6794,est,0.6744
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,14.5,False,0.5923,0.622,est,0.6166
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,15.5,False,0.5306,0.5614,est,0.5558
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,16.5,True,0.4772,0.5083,book,0.5027
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,17.5,False,0.424,0.4546,est,0.4491
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,18.5,False,0.3695,0.399,est,0.3936
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,19.5,False,0.3215,0.3492,est,0.3442
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,20.5,False,0.2802,0.3059,est,0.3013
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,2.5,False,0.8477,0.8769,est,0.8716
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,3.5,False,0.7172,0.7644,est,0.7559
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,4.5,False,0.5672,0.6263,est,0.6156
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,5.5,True,0.4189,0.4797,book,0.4687
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,6.5,False,0.2904,0.3436,est,0.3339
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,7.5,False,0.1877,0.2281,est,0.2208
+401909320,MIN @ OKC,MIN,1630545,Terrence Shannon Jr.,ra,8.5,False,0.1171,0.1451,est,0.14
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,13.5,False,0.6517,0.6961,est,0.6881
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,14.5,False,0.5923,0.6401,est,0.6315
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,15.5,False,0.5306,0.5805,est,0.5714
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,16.5,False,0.4772,0.5277,est,0.5186
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,17.5,True,0.424,0.474,book,0.465
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,18.5,False,0.3695,0.4178,est,0.409
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,19.5,False,0.3215,0.3671,est,0.3588
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,20.5,False,0.2802,0.3227,est,0.315
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,pts,21.5,False,0.2435,0.2826,est,0.2755
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,reb,5.5,False,0.7477,,model only,0.7477
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,reb,6.5,False,0.6295,,model only,0.6295
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,reb,7.5,False,0.5063,,model only,0.5063
@@ -5336,11 +5335,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,ast,5.5,False,0.1999,,model only,0.1999
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,ast,6.5,False,0.1111,,model only,0.1111
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,ast,7.5,False,0.054,,model only,0.054
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,0.5,False,0.8793,0.8688,book,0.8707
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,1.5,False,0.6298,0.6621,book,0.6563
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,2.5,True,0.3669,0.4154,book,0.4066
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,3.5,False,0.1746,0.2274,book,0.2178
-401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,4.5,False,0.0669,0.1113,book,0.1033
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,0.5,False,0.8793,0.8648,book,0.8674
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,1.5,False,0.6298,0.6629,book,0.6569
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,2.5,True,0.3669,0.4219,book,0.4119
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,3.5,False,0.1746,0.2308,book,0.2206
+401909321,LAC @ MEM,MEM,1642907,Cedric Coward,fg3m,4.5,False,0.0669,0.1126,book,0.1043
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,stl,0.5,False,0.6662,,model only,0.6662
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,stl,1.5,False,0.3219,,model only,0.3219
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,stl,2.5,False,0.1212,,model only,0.1212
@@ -5382,15 +5381,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,ra,12.5,False,0.3851,,model only,0.3851
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,ra,13.5,False,0.3044,,model only,0.3044
 401909321,LAC @ MEM,MEM,1642907,Cedric Coward,ra,14.5,False,0.2357,,model only,0.2357
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,5.5,False,0.8322,0.8099,est,0.8139
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,6.5,False,0.7631,0.7346,est,0.7397
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,7.5,False,0.6851,0.6514,est,0.6575
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,8.5,False,0.6078,0.571,est,0.5777
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,9.5,True,0.5317,0.4938,book,0.5007
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,10.5,False,0.4568,0.4195,est,0.4262
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,11.5,False,0.3855,0.3502,est,0.3566
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,12.5,False,0.3204,0.2883,est,0.2941
-401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,13.5,False,0.2683,0.2396,est,0.2448
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,5.5,False,0.8322,0.7955,est,0.8022
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,6.5,False,0.7631,0.7165,est,0.7249
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,7.5,False,0.6851,0.6305,est,0.6404
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,8.5,False,0.6078,0.5486,est,0.5593
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,9.5,True,0.5317,0.4711,book,0.4821
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,10.5,False,0.4568,0.3975,est,0.4082
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,11.5,False,0.3855,0.3298,est,0.3399
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,12.5,False,0.3204,0.27,est,0.2791
+401909321,LAC @ MEM,MEM,1641744,Zach Edey,pts,13.5,False,0.2683,0.2234,est,0.2315
 401909321,LAC @ MEM,MEM,1641744,Zach Edey,reb,5.5,False,0.7985,,model only,0.7985
 401909321,LAC @ MEM,MEM,1641744,Zach Edey,reb,6.5,False,0.7013,,model only,0.7013
 401909321,LAC @ MEM,MEM,1641744,Zach Edey,reb,7.5,False,0.6034,,model only,0.6034
@@ -5447,15 +5446,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1641744,Zach Edey,ra,11.5,False,0.3355,,model only,0.3355
 401909321,LAC @ MEM,MEM,1641744,Zach Edey,ra,12.5,False,0.2638,,model only,0.2638
 401909321,LAC @ MEM,MEM,1641744,Zach Edey,ra,13.5,False,0.1994,,model only,0.1994
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,4.5,False,0.8747,0.858,est,0.861
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,5.5,False,0.8117,0.7885,est,0.7927
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,6.5,False,0.7346,0.7054,est,0.7107
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,7.5,False,0.655,0.6215,est,0.6276
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,8.5,True,0.569,0.5331,book,0.5396
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,9.5,False,0.4855,0.4494,est,0.4559
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,10.5,False,0.4079,0.3734,est,0.3796
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,11.5,False,0.3369,0.3053,est,0.3111
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,12.5,False,0.2759,0.2479,est,0.253
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,4.5,False,0.8747,0.8465,est,0.8516
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,5.5,False,0.8117,0.7729,est,0.7799
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,6.5,False,0.7346,0.6861,est,0.6949
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,7.5,False,0.655,0.5999,est,0.6099
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,8.5,True,0.569,0.5104,book,0.521
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,9.5,False,0.4855,0.427,est,0.4376
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,10.5,False,0.4079,0.3523,est,0.3624
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,11.5,False,0.3369,0.2864,est,0.2955
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,pts,12.5,False,0.2759,0.2314,est,0.2394
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,reb,2.5,False,0.8106,,model only,0.8106
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,reb,3.5,False,0.6663,,model only,0.6663
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,reb,4.5,False,0.5128,,model only,0.5128
@@ -5468,10 +5467,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,ast,2.5,False,0.1573,,model only,0.1573
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,ast,3.5,False,0.056,,model only,0.056
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,ast,4.5,False,0.0173,,model only,0.0173
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,0.5,False,0.6928,0.6078,book,0.6232
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,1.5,False,0.3221,0.2701,book,0.2795
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,2.5,False,0.1074,0.1027,book,0.1036
-401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,3.5,False,0.0276,0.0445,book,0.0414
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,0.5,False,0.6928,0.6055,book,0.6213
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,1.5,False,0.3221,0.2725,book,0.2815
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,2.5,False,0.1074,0.105,book,0.1054
+401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,fg3m,3.5,False,0.0276,0.0425,book,0.0398
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,stl,0.5,False,0.5864,,model only,0.5864
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,stl,1.5,False,0.2438,,model only,0.2438
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,stl,2.5,False,0.0813,,model only,0.0813
@@ -5513,15 +5512,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,ra,7.5,False,0.3071,,model only,0.3071
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,ra,8.5,False,0.2151,,model only,0.2151
 401909321,LAC @ MEM,MEM,1641707,Taylor Hendricks,ra,9.5,False,0.1428,,model only,0.1428
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,19.5,False,0.6068,0.6773,est,0.6645
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,20.5,False,0.5596,0.6334,est,0.6201
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,21.5,False,0.5162,0.592,est,0.5782
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,22.5,False,0.4751,0.5517,est,0.5378
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,23.5,True,0.4381,0.5146,book,0.5007
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,24.5,False,0.4008,0.4763,est,0.4626
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,25.5,False,0.3641,0.4378,est,0.4245
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,26.5,False,0.3297,0.4009,est,0.388
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,27.5,False,0.2947,0.3623,est,0.3501
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,19.5,False,0.6068,0.6736,est,0.6615
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,20.5,False,0.5596,0.6295,est,0.6169
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,21.5,False,0.5162,0.5879,est,0.5749
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,22.5,False,0.4751,0.5475,est,0.5344
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,23.5,True,0.4381,0.5104,book,0.4973
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,24.5,False,0.4008,0.4721,est,0.4592
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,25.5,False,0.3641,0.4337,est,0.4211
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,26.5,False,0.3297,0.3968,est,0.3847
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,pts,27.5,False,0.2947,0.3584,est,0.3469
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,reb,0.5,False,0.9602,,model only,0.9602
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,reb,1.5,False,0.8433,,model only,0.8433
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,reb,2.5,False,0.6582,,model only,0.6582
@@ -5536,11 +5535,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,ast,7.5,False,0.2592,,model only,0.2592
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,ast,8.5,False,0.169,,model only,0.169
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,ast,9.5,False,0.1044,,model only,0.1044
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,0.5,False,0.9291,0.8972,book,0.903
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,1.5,False,0.7606,0.7427,book,0.7459
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,2.5,True,0.5352,0.53,book,0.5309
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,3.5,False,0.3227,0.3302,book,0.3288
-401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,4.5,False,0.1676,0.1836,book,0.1807
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,0.5,False,0.9291,0.8986,book,0.9041
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,1.5,False,0.7606,0.7395,book,0.7433
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,2.5,True,0.5352,0.5309,book,0.5317
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,3.5,False,0.3227,0.3326,book,0.3308
+401909321,LAC @ MEM,MEM,1629660,Ty Jerome,fg3m,4.5,False,0.1676,0.1919,book,0.1875
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,stl,0.5,False,0.6749,,model only,0.6749
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,stl,1.5,False,0.3309,,model only,0.3309
 401909321,LAC @ MEM,MEM,1629660,Ty Jerome,stl,2.5,False,0.1249,,model only,0.1249
@@ -5664,8 +5663,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1631200,Kris Murray,ast,3.5,False,0.0344,,model only,0.0344
 401909321,LAC @ MEM,MEM,1631200,Kris Murray,ast,4.5,False,0.01,,model only,0.01
 401909321,LAC @ MEM,MEM,1631200,Kris Murray,fg3m,0.5,False,0.34,0.636,book,0.5824
-401909321,LAC @ MEM,MEM,1631200,Kris Murray,fg3m,1.5,False,0.0552,0.3095,book,0.2635
-401909321,LAC @ MEM,MEM,1631200,Kris Murray,fg3m,2.5,False,0.0056,0.1246,book,0.1031
+401909321,LAC @ MEM,MEM,1631200,Kris Murray,fg3m,1.5,False,0.0552,0.3064,book,0.2609
+401909321,LAC @ MEM,MEM,1631200,Kris Murray,fg3m,2.5,False,0.0056,0.1214,book,0.1004
 401909321,LAC @ MEM,MEM,1631200,Kris Murray,stl,0.5,False,0.5193,,model only,0.5193
 401909321,LAC @ MEM,MEM,1631200,Kris Murray,stl,1.5,False,0.1963,,model only,0.1963
 401909321,LAC @ MEM,MEM,1631200,Kris Murray,stl,2.5,False,0.0588,,model only,0.0588
@@ -5840,15 +5839,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1642914,Javon Small,ra,9.5,False,0.3157,,model only,0.3157
 401909321,LAC @ MEM,MEM,1642914,Javon Small,ra,10.5,False,0.2363,,model only,0.2363
 401909321,LAC @ MEM,MEM,1642914,Javon Small,ra,11.5,False,0.17,,model only,0.17
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,5.5,False,0.8755,0.8333,est,0.841
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,6.5,False,0.8187,0.7625,est,0.7727
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,7.5,False,0.7497,0.6804,est,0.693
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,8.5,False,0.6763,0.5977,est,0.6119
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,9.5,True,0.6026,0.5188,book,0.534
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,10.5,False,0.5282,0.4431,est,0.4585
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,11.5,False,0.4538,0.3714,est,0.3863
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,12.5,False,0.3879,0.3106,est,0.3245
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,13.5,False,0.3292,0.2586,est,0.2714
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,6.5,False,0.8187,0.7794,est,0.7865
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,7.5,False,0.7497,0.7009,est,0.7097
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,8.5,False,0.6763,0.6205,est,0.6306
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,9.5,False,0.6026,0.5427,est,0.5535
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,10.5,True,0.5282,0.4669,book,0.478
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,11.5,False,0.4538,0.394,est,0.4048
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,12.5,False,0.3879,0.3314,est,0.3417
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,13.5,False,0.3292,0.2774,est,0.2868
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,pts,14.5,False,0.2742,0.2282,est,0.2365
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,reb,0.5,False,0.9244,,model only,0.9244
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,reb,1.5,False,0.7566,,model only,0.7566
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,reb,2.5,False,0.5343,,model only,0.5343
@@ -5863,10 +5862,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,ast,7.5,False,0.3145,,model only,0.3145
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,ast,8.5,False,0.2232,,model only,0.2232
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,ast,9.5,False,0.1476,,model only,0.1476
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,0.5,False,0.8015,0.731,book,0.7438
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,1.5,True,0.4744,0.4229,book,0.4322
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,2.5,False,0.2123,0.1988,book,0.2012
-401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,3.5,False,0.0748,0.0882,book,0.0858
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,0.5,False,0.8015,0.7314,book,0.7441
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,1.5,True,0.4744,0.4238,book,0.433
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,2.5,False,0.2123,0.2086,book,0.2093
+401909321,LAC @ MEM,MEM,1642285,Cam Spencer,fg3m,3.5,False,0.0748,0.0935,book,0.0901
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,stl,0.5,False,0.5449,,model only,0.5449
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,stl,1.5,False,0.1988,,model only,0.1988
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,stl,2.5,False,0.0575,,model only,0.0575
@@ -5908,15 +5907,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,ra,10.5,False,0.3429,,model only,0.3429
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,ra,11.5,False,0.2607,,model only,0.2607
 401909321,LAC @ MEM,MEM,1642285,Cam Spencer,ra,12.5,False,0.1915,,model only,0.1915
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,5.5,False,0.7367,0.7846,est,0.7759
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,6.5,False,0.6497,0.7072,est,0.6968
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,7.5,False,0.5633,0.6268,est,0.6153
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,8.5,False,0.4796,0.5454,est,0.5335
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,9.5,True,0.4022,0.4669,book,0.4552
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,10.5,False,0.3341,0.3951,est,0.384
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,11.5,False,0.2718,0.327,est,0.317
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,12.5,False,0.2202,0.2688,est,0.26
-401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,13.5,False,0.1768,0.2185,est,0.2109
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,5.5,False,0.7367,0.7833,est,0.7748
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,6.5,False,0.6497,0.7055,est,0.6954
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,7.5,False,0.5633,0.6249,est,0.6138
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,8.5,False,0.4796,0.5434,est,0.5318
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,9.5,True,0.4022,0.4649,book,0.4535
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,10.5,False,0.3341,0.3932,est,0.3825
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,11.5,False,0.2718,0.3252,est,0.3155
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,12.5,False,0.2202,0.2672,est,0.2587
+401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,pts,13.5,False,0.1768,0.2171,est,0.2098
 401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,reb,0.5,False,0.9494,,model only,0.9494
 401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,reb,1.5,False,0.8331,,model only,0.8331
 401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,reb,2.5,False,0.6664,,model only,0.6664
@@ -5973,15 +5972,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,ra,5.5,False,0.3485,,model only,0.3485
 401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,ra,6.5,False,0.2364,,model only,0.2364
 401909321,LAC @ MEM,MEM,1630191,Isaiah Stewart,ra,7.5,False,0.152,,model only,0.152
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,6.5,False,0.841,0.785,est,0.7951
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,7.5,False,0.7795,0.7094,est,0.7221
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,8.5,False,0.7112,0.6297,est,0.6444
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,9.5,False,0.6363,0.5471,est,0.5632
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,10.5,True,0.5613,0.469,book,0.4857
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,11.5,False,0.4861,0.395,est,0.4115
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,12.5,False,0.4188,0.3322,est,0.3479
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,13.5,False,0.3533,0.2738,est,0.2882
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,14.5,False,0.2975,0.2262,est,0.2391
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,6.5,False,0.841,0.7898,est,0.799
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,7.5,False,0.7795,0.7152,est,0.7269
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,8.5,False,0.7112,0.6363,est,0.6499
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,9.5,False,0.6363,0.5541,est,0.569
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,10.5,True,0.5613,0.4761,book,0.4915
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,11.5,False,0.4861,0.4018,est,0.4171
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,12.5,False,0.4188,0.3385,est,0.3531
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,13.5,False,0.3533,0.2795,est,0.2929
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,pts,14.5,False,0.2975,0.2312,est,0.2432
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,reb,0.5,False,0.9427,,model only,0.9427
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,reb,1.5,False,0.7984,,model only,0.7984
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,reb,2.5,False,0.5935,,model only,0.5935
@@ -5994,10 +5993,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,ast,2.5,False,0.1999,,model only,0.1999
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,ast,3.5,False,0.0765,,model only,0.0765
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,ast,4.5,False,0.025,,model only,0.025
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,0.5,False,0.8441,0.7872,book,0.7975
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,1.5,True,0.5415,0.5019,book,0.5091
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,2.5,False,0.265,0.2568,book,0.2583
-401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,3.5,False,0.1005,0.1154,book,0.1127
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,0.5,False,0.8441,0.7821,book,0.7933
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,1.5,True,0.5415,0.5009,book,0.5083
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,2.5,False,0.265,0.2547,book,0.2566
+401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,fg3m,3.5,False,0.1005,0.1113,book,0.1093
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,stl,0.5,False,0.5451,,model only,0.5451
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,stl,1.5,False,0.199,,model only,0.199
 401909321,LAC @ MEM,MEM,1642377,Jaylen Wells,stl,2.5,False,0.0575,,model only,0.0575
@@ -6042,12 +6041,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,1.5,False,0.9312,,model only,0.9312
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,2.5,False,0.8516,,model only,0.8516
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,3.5,False,0.7411,,model only,0.7411
-401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,4.5,False,0.6192,,model only,0.6192
-401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,5.5,False,0.4957,,model only,0.4957
+401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,4.5,False,0.6192,0.5386,book,0.5532
+401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,5.5,False,0.4957,0.4367,book,0.4474
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,6.5,False,0.3859,,model only,0.3859
-401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,7.5,False,0.2901,,model only,0.2901
+401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,7.5,False,0.2901,0.279,book,0.281
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,8.5,False,0.2151,,model only,0.2151
-401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,9.5,False,0.1542,,model only,0.1542
+401909321,LAC @ MEM,LAC,1627739,Kris Dunn,pts,9.5,False,0.1542,0.1663,book,0.1641
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,reb,0.5,False,0.9311,,model only,0.9311
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,reb,1.5,False,0.776,,model only,0.776
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,reb,2.5,False,0.5762,,model only,0.5762
@@ -6106,15 +6105,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,ra,7.5,False,0.3459,,model only,0.3459
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,ra,8.5,False,0.2495,,model only,0.2495
 401909321,LAC @ MEM,LAC,1627739,Kris Dunn,ra,9.5,False,0.1713,,model only,0.1713
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,14.5,False,0.6932,,model only,0.6932
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,15.5,False,0.6434,,model only,0.6434
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,16.5,False,0.5912,,model only,0.5912
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,17.5,False,0.5411,,model only,0.5411
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,18.5,False,0.4894,,model only,0.4894
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,19.5,False,0.4398,,model only,0.4398
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,20.5,False,0.3933,,model only,0.3933
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,21.5,False,0.3521,,model only,0.3521
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,22.5,False,0.3116,,model only,0.3116
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,14.5,False,0.6932,0.7073,est,0.7048
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,15.5,False,0.6434,0.6587,est,0.6559
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,16.5,False,0.5912,0.6074,est,0.6044
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,17.5,False,0.5411,0.5484,book,0.5471
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,18.5,True,0.4894,0.5062,book,0.5032
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,19.5,False,0.4398,0.4515,book,0.4494
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,20.5,False,0.3933,0.4095,est,0.4066
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,21.5,False,0.3521,0.3676,est,0.3648
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,pts,22.5,False,0.3116,0.3262,est,0.3235
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,reb,0.5,False,0.8938,,model only,0.8938
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,reb,1.5,False,0.6668,,model only,0.6668
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,reb,2.5,False,0.4202,,model only,0.4202
@@ -6128,11 +6127,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,ast,7.5,False,0.3244,,model only,0.3244
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,ast,8.5,False,0.2223,,model only,0.2223
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,ast,9.5,False,0.1464,,model only,0.1464
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,0.5,False,0.9096,,model only,0.9096
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,1.5,False,0.694,,model only,0.694
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,2.5,False,0.4361,,model only,0.4361
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,3.5,False,0.2331,,model only,0.2331
-401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,4.5,False,0.1083,,model only,0.1083
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,0.5,False,0.9096,0.9095,est,0.9095
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,1.5,False,0.694,0.6936,est,0.6937
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,2.5,True,0.4361,0.4357,book,0.4358
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,3.5,False,0.2331,0.2328,est,0.2328
+401909321,LAC @ MEM,LAC,1629636,Darius Garland,fg3m,4.5,False,0.1083,0.1246,book,0.1216
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,stl,0.5,False,0.6227,,model only,0.6227
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,stl,1.5,False,0.2707,,model only,0.2707
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,stl,2.5,False,0.0956,,model only,0.0956
@@ -6174,15 +6173,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,ra,9.5,False,0.3898,,model only,0.3898
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,ra,10.5,False,0.2925,,model only,0.2925
 401909321,LAC @ MEM,LAC,1629636,Darius Garland,ra,11.5,False,0.2126,,model only,0.2126
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,8.5,False,0.7657,,model only,0.7657
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,9.5,False,0.7007,,model only,0.7007
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,10.5,False,0.632,,model only,0.632
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,11.5,False,0.5626,,model only,0.5626
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,12.5,False,0.4951,,model only,0.4951
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,13.5,False,0.4302,,model only,0.4302
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,14.5,False,0.3717,,model only,0.3717
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,15.5,False,0.3157,,model only,0.3157
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,16.5,False,0.2647,,model only,0.2647
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,8.5,False,0.7657,0.7819,est,0.779
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,9.5,False,0.7007,0.7197,est,0.7163
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,10.5,False,0.632,0.6533,est,0.6494
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,11.5,False,0.5626,0.5853,est,0.5812
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,12.5,True,0.4951,0.5183,book,0.5141
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,13.5,False,0.4302,0.4531,est,0.4489
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,14.5,False,0.3717,0.3936,est,0.3897
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,15.5,False,0.3157,0.3361,est,0.3324
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,pts,16.5,False,0.2647,0.2831,est,0.2798
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,reb,1.5,False,0.9101,,model only,0.9101
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,reb,2.5,False,0.7831,,model only,0.7831
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,reb,3.5,False,0.6176,,model only,0.6176
@@ -6195,10 +6194,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,ast,2.5,False,0.1751,,model only,0.1751
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,ast,3.5,False,0.0633,,model only,0.0633
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,ast,4.5,False,0.0191,,model only,0.0191
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,0.5,False,0.7976,,model only,0.7976
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,1.5,False,0.4714,,model only,0.4714
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,2.5,False,0.2081,,model only,0.2081
-401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,3.5,False,0.0711,,model only,0.0711
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,0.5,False,0.7976,0.8458,est,0.8371
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,1.5,True,0.4714,0.5539,book,0.539
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,2.5,False,0.2081,0.2678,est,0.257
+401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,fg3m,3.5,False,0.0711,0.1525,book,0.1378
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,stl,0.5,False,0.5125,,model only,0.5125
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,stl,1.5,False,0.1726,,model only,0.1726
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,stl,2.5,False,0.0449,,model only,0.0449
@@ -6240,15 +6239,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,ra,7.5,False,0.258,,model only,0.258
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,ra,8.5,False,0.1682,,model only,0.1682
 401909321,LAC @ MEM,LAC,1629060,Rui Hachimura,ra,9.5,False,0.1041,,model only,0.1041
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,11.5,False,0.6877,,model only,0.6877
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,12.5,False,0.6258,,model only,0.6258
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,13.5,False,0.5652,,model only,0.5652
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,14.5,False,0.5044,,model only,0.5044
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,15.5,False,0.4466,,model only,0.4466
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,16.5,False,0.3912,,model only,0.3912
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,17.5,False,0.3412,,model only,0.3412
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,18.5,False,0.2939,,model only,0.2939
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,19.5,False,0.2517,,model only,0.2517
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,12.5,False,0.6258,0.7078,est,0.6929
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,13.5,False,0.5652,0.653,est,0.6371
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,14.5,False,0.5044,0.5957,est,0.5792
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,15.5,False,0.4466,0.5389,est,0.5222
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,16.5,True,0.3912,0.482,book,0.4656
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,17.5,False,0.3412,0.4286,est,0.4128
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,18.5,False,0.2939,0.3761,est,0.3612
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,19.5,False,0.2517,0.3276,est,0.3139
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,pts,20.5,False,0.2151,0.2842,est,0.2717
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,reb,1.5,False,0.9197,,model only,0.9197
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,reb,2.5,False,0.8025,,model only,0.8025
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,reb,3.5,False,0.6421,,model only,0.6421
@@ -6263,10 +6262,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,ast,4.5,False,0.196,,model only,0.196
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,ast,5.5,False,0.0991,,model only,0.0991
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,ast,6.5,False,0.0474,,model only,0.0474
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,0.5,False,0.6658,,model only,0.6658
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,1.5,False,0.3059,,model only,0.3059
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,2.5,False,0.1061,,model only,0.1061
-401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,3.5,False,0.029,,model only,0.029
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,0.5,False,0.6658,0.785,book,0.7634
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,1.5,True,0.3059,0.5068,book,0.4704
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,2.5,False,0.1061,0.2167,est,0.1966
+401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,fg3m,3.5,False,0.029,0.128,book,0.1101
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,stl,0.5,False,0.5602,,model only,0.5602
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,stl,1.5,False,0.2155,,model only,0.2155
 401909321,LAC @ MEM,LAC,1627742,Brandon Ingram,stl,2.5,False,0.0614,,model only,0.0614
@@ -6373,15 +6372,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1630543,Isaiah Jackson,ra,6.5,False,0.3347,,model only,0.3347
 401909321,LAC @ MEM,LAC,1630543,Isaiah Jackson,ra,7.5,False,0.2479,,model only,0.2479
 401909321,LAC @ MEM,LAC,1630543,Isaiah Jackson,ra,8.5,False,0.1779,,model only,0.1779
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,4.5,False,0.831,,model only,0.831
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,5.5,False,0.7483,,model only,0.7483
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.6551,,model only,0.6551
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,7.5,False,0.5606,,model only,0.5606
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.4715,,model only,0.4715
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,9.5,False,0.3905,,model only,0.3905
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,10.5,False,0.3156,,model only,0.3156
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.2512,,model only,0.2512
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,12.5,False,0.1985,,model only,0.1985
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,3.5,False,0.8986,0.8695,est,0.8748
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,4.5,False,0.831,0.787,est,0.795
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,5.5,False,0.7483,0.6416,book,0.6609
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,6.5,False,0.6551,0.5881,est,0.6003
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,7.5,True,0.5606,0.4895,book,0.5024
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,8.5,False,0.4715,0.4014,est,0.4141
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,9.5,False,0.3905,0.3423,book,0.351
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,10.5,False,0.3156,0.2574,est,0.268
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,pts,11.5,False,0.2512,0.2285,book,0.2326
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,reb,1.5,False,0.8511,,model only,0.8511
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,reb,2.5,False,0.6851,,model only,0.6851
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,reb,3.5,False,0.5007,,model only,0.5007
@@ -6395,8 +6394,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,ast,3.5,False,0.0501,,model only,0.0501
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,ast,4.5,False,0.0151,,model only,0.0151
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,fg3m,0.5,False,0.6375,,model only,0.6375
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,fg3m,1.5,False,0.2579,,model only,0.2579
-401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,fg3m,2.5,False,0.0699,,model only,0.0699
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,fg3m,1.5,False,0.2579,0.3374,book,0.323
+401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,fg3m,2.5,False,0.0699,0.1418,book,0.1288
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,fg3m,3.5,False,0.0132,,model only,0.0132
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,stl,0.5,False,0.5736,,model only,0.5736
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,stl,1.5,False,0.229,,model only,0.229
@@ -6440,15 +6439,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,ra,6.5,False,0.2643,,model only,0.2643
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,ra,7.5,False,0.1662,,model only,0.1662
 401909321,LAC @ MEM,LAC,1627884,Derrick Jones Jr.,ra,8.5,False,0.1003,,model only,0.1003
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,7.5,False,0.7558,,model only,0.7558
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,8.5,False,0.6886,,model only,0.6886
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,9.5,False,0.6173,,model only,0.6173
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,10.5,False,0.5465,,model only,0.5465
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,11.5,False,0.4797,,model only,0.4797
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,12.5,False,0.4163,,model only,0.4163
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,13.5,False,0.3575,,model only,0.3575
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,14.5,False,0.306,,model only,0.306
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,15.5,False,0.2591,,model only,0.2591
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,8.5,False,0.6886,0.7499,est,0.7388
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,9.5,False,0.6173,0.6862,est,0.6737
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,10.5,False,0.5465,0.6204,est,0.607
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,11.5,False,0.4797,0.5556,est,0.5419
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,12.5,True,0.4163,0.4916,book,0.478
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,13.5,False,0.3575,0.43,est,0.4169
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,14.5,False,0.306,0.3784,book,0.3653
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,15.5,False,0.2591,0.3216,est,0.3103
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,pts,16.5,False,0.2154,0.2713,est,0.2612
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,reb,1.5,False,0.9066,,model only,0.9066
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,reb,2.5,False,0.7872,,model only,0.7872
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,reb,3.5,False,0.6345,,model only,0.6345
@@ -6461,10 +6460,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,ast,2.5,False,0.2456,,model only,0.2456
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,ast,3.5,False,0.1068,,model only,0.1068
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,ast,4.5,False,0.041,,model only,0.041
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,0.5,False,0.7333,,model only,0.7333
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,1.5,False,0.3814,,model only,0.3814
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,2.5,False,0.1503,,model only,0.1503
-401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,3.5,False,0.0467,,model only,0.0467
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,0.5,False,0.7333,0.8016,est,0.7892
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,1.5,True,0.3814,0.4753,book,0.4583
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,2.5,False,0.1503,0.2415,book,0.225
+401909321,LAC @ MEM,LAC,201572,Brook Lopez,fg3m,3.5,False,0.0467,0.1113,book,0.0996
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,stl,0.5,False,0.4746,,model only,0.4746
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,stl,1.5,False,0.1556,,model only,0.1556
 401909321,LAC @ MEM,LAC,201572,Brook Lopez,blk,0.5,False,0.6514,,model only,0.6514
@@ -6570,15 +6569,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1642920,Kobe Sanders,ra,4.5,False,0.2603,,model only,0.2603
 401909321,LAC @ MEM,LAC,1642920,Kobe Sanders,ra,5.5,False,0.1547,,model only,0.1547
 401909321,LAC @ MEM,LAC,1642920,Kobe Sanders,ra,6.5,False,0.0905,,model only,0.0905
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,4.5,False,0.8207,,model only,0.8207
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,5.5,False,0.7358,,model only,0.7358
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,6.5,False,0.6455,,model only,0.6455
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,7.5,False,0.5525,,model only,0.5525
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,8.5,False,0.4669,,model only,0.4669
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,9.5,False,0.3839,,model only,0.3839
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,10.5,False,0.3127,,model only,0.3127
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,11.5,False,0.2505,,model only,0.2505
-401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,12.5,False,0.1966,,model only,0.1966
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,3.5,False,0.8924,0.8792,est,0.8816
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,4.5,False,0.8207,0.8007,est,0.8043
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,5.5,False,0.7358,0.7097,est,0.7144
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,6.5,False,0.6455,0.6151,est,0.6206
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,7.5,True,0.5525,0.5201,book,0.526
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,8.5,False,0.4669,0.4346,est,0.4404
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,9.5,False,0.3839,0.3608,book,0.365
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,10.5,False,0.3127,0.2853,est,0.2903
+401909321,LAC @ MEM,LAC,1629622,Max Strus,pts,11.5,False,0.2505,0.2268,est,0.2311
 401909321,LAC @ MEM,LAC,1629622,Max Strus,reb,0.5,False,0.9569,,model only,0.9569
 401909321,LAC @ MEM,LAC,1629622,Max Strus,reb,1.5,False,0.8445,,model only,0.8445
 401909321,LAC @ MEM,LAC,1629622,Max Strus,reb,2.5,False,0.6745,,model only,0.6745
@@ -6592,10 +6591,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909321,LAC @ MEM,LAC,1629622,Max Strus,ast,3.5,False,0.2725,,model only,0.2725
 401909321,LAC @ MEM,LAC,1629622,Max Strus,ast,4.5,False,0.1425,,model only,0.1425
 401909321,LAC @ MEM,LAC,1629622,Max Strus,ast,5.5,False,0.0664,,model only,0.0664
-401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,0.5,False,0.7807,,model only,0.7807
-401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,1.5,False,0.4244,,model only,0.4244
-401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,2.5,False,0.1664,,model only,0.1664
-401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,3.5,False,0.0512,,model only,0.0512
+401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,0.5,False,0.7807,0.8735,est,0.8567
+401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,1.5,True,0.4244,0.5884,book,0.5587
+401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,2.5,False,0.1664,0.3567,book,0.3223
+401909321,LAC @ MEM,LAC,1629622,Max Strus,fg3m,3.5,False,0.0512,0.0947,est,0.0868
 401909321,LAC @ MEM,LAC,1629622,Max Strus,stl,0.5,False,0.4803,,model only,0.4803
 401909321,LAC @ MEM,LAC,1629622,Max Strus,stl,1.5,False,0.1513,,model only,0.1513
 401909321,LAC @ MEM,LAC,1629622,Max Strus,blk,0.5,False,0.1554,,model only,0.1554
@@ -8042,11 +8041,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909323,PHX @ HOU,HOU,201142,Kevin Durant,ast,6.5,False,0.2204,,model only,0.2204
 401909323,PHX @ HOU,HOU,201142,Kevin Durant,ast,7.5,False,0.1309,,model only,0.1309
 401909323,PHX @ HOU,HOU,201142,Kevin Durant,ast,8.5,False,0.0718,,model only,0.0718
-401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,0.5,False,0.8574,,model only,0.8574
-401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,1.5,False,0.5883,,model only,0.5883
-401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,2.5,False,0.3273,,model only,0.3273
-401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,3.5,False,0.1464,,model only,0.1464
-401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,4.5,False,0.0559,,model only,0.0559
+401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,0.5,False,0.8574,0.7871,est,0.7999
+401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,1.5,True,0.5883,0.4677,book,0.4895
+401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,2.5,False,0.3273,0.2303,est,0.2479
+401909323,PHX @ HOU,HOU,201142,Kevin Durant,fg3m,3.5,False,0.1464,0.0954,est,0.1046
 401909323,PHX @ HOU,HOU,201142,Kevin Durant,stl,0.5,False,0.5277,,model only,0.5277
 401909323,PHX @ HOU,HOU,201142,Kevin Durant,stl,1.5,False,0.1809,,model only,0.1809
 401909323,PHX @ HOU,HOU,201142,Kevin Durant,stl,2.5,False,0.0454,,model only,0.0454
@@ -8178,9 +8176,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,ast,7.5,False,0.3529,,model only,0.3529
 401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,ast,8.5,False,0.2445,,model only,0.2445
 401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,ast,9.5,False,0.1613,,model only,0.1613
-401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,fg3m,0.5,False,0.5071,,model only,0.5071
-401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,fg3m,1.5,False,0.1628,,model only,0.1628
-401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,fg3m,2.5,False,0.0379,,model only,0.0379
+401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,fg3m,0.5,False,0.5071,0.5155,book,0.514
+401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,fg3m,1.5,False,0.1628,0.1818,book,0.1784
+401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,fg3m,2.5,False,0.0379,0.0599,book,0.0559
 401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,fg3m,3.5,False,0.0066,,model only,0.0066
 401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,stl,0.5,False,0.6713,,model only,0.6713
 401909323,PHX @ HOU,HOU,1630578,Alperen Sengun,stl,1.5,False,0.319,,model only,0.319
@@ -8246,7 +8244,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,ast,4.5,False,0.1289,,model only,0.1289
 401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,ast,5.5,False,0.0648,,model only,0.0648
 401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,fg3m,0.5,False,0.7594,,model only,0.7594
-401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,fg3m,1.5,False,0.4104,,model only,0.4104
+401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,fg3m,1.5,False,0.4104,0.5369,book,0.514
 401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,fg3m,2.5,False,0.1647,,model only,0.1647
 401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,fg3m,3.5,False,0.0514,,model only,0.0514
 401909323,PHX @ HOU,HOU,1642263,Reed Sheppard,stl,0.5,False,0.5781,,model only,0.5781
@@ -8378,11 +8376,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,ast,3.5,False,0.158,,model only,0.158
 401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,ast,4.5,False,0.0641,,model only,0.0641
 401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,ast,5.5,False,0.024,,model only,0.024
-401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,0.5,False,0.8835,,model only,0.8835
-401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,1.5,False,0.6292,,model only,0.6292
-401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,2.5,False,0.3493,,model only,0.3493
-401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,3.5,False,0.1532,,model only,0.1532
-401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,4.5,False,0.0537,,model only,0.0537
+401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,0.5,False,0.8835,0.8516,est,0.8574
+401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,1.5,True,0.6292,0.5622,book,0.5743
+401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,2.5,False,0.3493,0.2889,est,0.2998
+401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,fg3m,3.5,False,0.1532,0.1205,est,0.1264
 401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,stl,0.5,False,0.4864,,model only,0.4864
 401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,stl,1.5,False,0.1488,,model only,0.1488
 401909323,PHX @ HOU,HOU,1631095,Jabari Smith Jr.,blk,0.5,False,0.5513,,model only,0.5513
@@ -8515,11 +8512,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,ast,6.5,False,0.2945,,model only,0.2945
 401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,ast,7.5,False,0.1922,,model only,0.1922
 401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,ast,8.5,False,0.1164,,model only,0.1164
-401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,0.5,False,0.9258,,model only,0.9258
-401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,1.5,False,0.7277,,model only,0.7277
-401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,2.5,False,0.4632,,model only,0.4632
-401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,3.5,False,0.2345,,model only,0.2345
-401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,4.5,False,0.0962,,model only,0.0962
+401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,0.5,False,0.9258,0.9265,est,0.9264
+401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,1.5,False,0.7277,0.7297,est,0.7293
+401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,2.5,True,0.4632,0.4657,book,0.4652
+401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,3.5,False,0.2345,0.2363,est,0.236
+401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,fg3m,4.5,False,0.0962,0.0971,est,0.0969
 401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,stl,0.5,False,0.7047,,model only,0.7047
 401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,stl,1.5,False,0.3528,,model only,0.3528
 401909323,PHX @ HOU,HOU,1627832,Fred VanVleet,stl,2.5,False,0.1417,,model only,0.1417
@@ -9227,15 +9224,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,ra,6.5,False,0.3217,,model only,0.3217
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,ra,7.5,False,0.2282,,model only,0.2282
 401909323,PHX @ HOU,PHX,1642863,Khaman Maluach,ra,8.5,False,0.1543,,model only,0.1543
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,6.5,False,0.7526,,model only,0.7526
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,7.5,False,0.68,,model only,0.68
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,8.5,False,0.6074,,model only,0.6074
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,9.5,False,0.5293,,model only,0.5293
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,10.5,False,0.4589,,model only,0.4589
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,11.5,False,0.3938,,model only,0.3938
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,12.5,False,0.3368,,model only,0.3368
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,13.5,False,0.2823,,model only,0.2823
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,14.5,False,0.2352,,model only,0.2352
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,6.5,False,0.7526,0.7898,est,0.7831
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,7.5,False,0.68,0.7241,est,0.7161
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,8.5,False,0.6074,0.6565,est,0.6476
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,9.5,False,0.5293,0.5814,est,0.572
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,10.5,True,0.4589,0.5117,book,0.5022
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,11.5,False,0.3938,0.4453,est,0.4359
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,12.5,False,0.3368,0.3855,est,0.3767
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,13.5,False,0.2823,0.327,est,0.3189
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,14.5,False,0.2352,0.2753,est,0.2681
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,5.5,False,0.7342,,model only,0.7342
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,6.5,False,0.6341,,model only,0.6341
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,7.5,False,0.5299,,model only,0.5299
@@ -9355,15 +9352,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1643018,LJ Cryer,ra,4.5,False,0.22,,model only,0.22
 401909324,SAC @ GSW,GSW,1643018,LJ Cryer,ra,5.5,False,0.1282,,model only,0.1282
 401909324,SAC @ GSW,GSW,1643018,LJ Cryer,ra,6.5,False,0.0698,,model only,0.0698
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,2.5,False,0.8862,,model only,0.8862
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,3.5,False,0.7913,,model only,0.7913
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,4.5,False,0.6717,,model only,0.6717
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,5.5,False,0.5537,,model only,0.5537
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,6.5,False,0.4378,,model only,0.4378
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,7.5,False,0.3323,,model only,0.3323
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,8.5,False,0.2472,,model only,0.2472
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,9.5,False,0.1783,,model only,0.1783
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,10.5,False,0.1271,,model only,0.1271
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,2.5,False,0.8862,0.8968,est,0.8949
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,3.5,False,0.7913,0.8088,est,0.8057
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,4.5,False,0.6717,0.6955,est,0.6912
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,5.5,False,0.5537,0.5807,est,0.5758
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,6.5,True,0.4378,0.465,book,0.4601
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,7.5,False,0.3323,0.3572,est,0.3527
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,8.5,False,0.2472,0.2683,est,0.2645
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,9.5,False,0.1783,0.195,est,0.192
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,10.5,False,0.1271,0.1398,est,0.1375
 401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,2.5,False,0.8398,,model only,0.8398
 401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,3.5,False,0.7032,,model only,0.7032
 401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,4.5,False,0.5433,,model only,0.5433
@@ -9378,9 +9375,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,7.5,False,0.2999,,model only,0.2999
 401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,8.5,False,0.2047,,model only,0.2047
 401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,9.5,False,0.1323,,model only,0.1323
-401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,0.5,True,0.5587,0.5253,book,0.5313
-401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,1.5,False,0.1607,0.1434,est,0.1465
-401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,2.5,False,0.0276,0.0242,est,0.0248
+401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,0.5,True,0.5587,0.5247,book,0.5309
+401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,1.5,False,0.1607,0.1431,est,0.1463
+401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,2.5,False,0.0276,0.0708,book,0.063
 401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,0.5,False,0.6363,,model only,0.6363
 401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,1.5,False,0.2888,,model only,0.2888
 401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,2.5,False,0.1026,,model only,0.1026
@@ -9552,15 +9549,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,904703396,Graham Ike,ra,4.5,False,0.3157,,model only,0.3157
 401909324,SAC @ GSW,GSW,904703396,Graham Ike,ra,5.5,False,0.2181,,model only,0.2181
 401909324,SAC @ GSW,GSW,904703396,Graham Ike,ra,6.5,False,0.143,,model only,0.143
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,7.5,False,0.7545,,model only,0.7545
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,8.5,False,0.6839,,model only,0.6839
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,9.5,False,0.6128,,model only,0.6128
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.5442,,model only,0.5442
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,11.5,False,0.4751,,model only,0.4751
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,12.5,False,0.4079,,model only,0.4079
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,13.5,False,0.3474,,model only,0.3474
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,14.5,False,0.2949,,model only,0.2949
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,15.5,False,0.2483,,model only,0.2483
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,8.5,False,0.6839,0.7475,est,0.7359
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,9.5,False,0.6128,0.6841,est,0.6712
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.5442,0.6203,est,0.6066
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,11.5,False,0.4751,0.5533,est,0.5391
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,12.5,True,0.4079,0.4852,book,0.4712
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,13.5,False,0.3474,0.4215,est,0.4081
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,14.5,False,0.2949,0.364,est,0.3515
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,15.5,False,0.2483,0.3113,est,0.2999
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,16.5,False,0.2043,0.26,est,0.2499
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,0.5,False,0.9584,,model only,0.9584
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,1.5,False,0.844,,model only,0.844
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,2.5,False,0.6739,,model only,0.6739
@@ -9575,10 +9572,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,4.5,False,0.2787,,model only,0.2787
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,5.5,False,0.1653,,model only,0.1653
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,6.5,False,0.0904,,model only,0.0904
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,0.5,False,0.8536,0.8726,est,0.8692
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,1.5,True,0.572,0.6109,book,0.6039
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,2.5,False,0.2916,0.326,est,0.3198
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,3.5,False,0.1249,0.1436,est,0.1402
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,0.5,False,0.8536,0.8392,book,0.8418
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,1.5,True,0.572,0.6066,book,0.6003
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,2.5,False,0.2916,0.3636,book,0.3506
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,3.5,False,0.1249,0.1892,book,0.1776
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,stl,0.5,False,0.7462,,model only,0.7462
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,stl,1.5,False,0.4205,,model only,0.4205
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,stl,2.5,False,0.1933,,model only,0.1933
@@ -9749,15 +9746,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1627780,Gary Payton II,ra,5.5,False,0.2935,,model only,0.2935
 401909324,SAC @ GSW,GSW,1627780,Gary Payton II,ra,6.5,False,0.1943,,model only,0.1943
 401909324,SAC @ GSW,GSW,1627780,Gary Payton II,ra,7.5,False,0.1234,,model only,0.1234
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,14.5,False,0.6858,,model only,0.6858
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.6332,,model only,0.6332
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,16.5,False,0.579,,model only,0.579
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.5249,,model only,0.5249
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,18.5,False,0.4748,,model only,0.4748
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,19.5,False,0.4249,,model only,0.4249
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,20.5,False,0.3751,,model only,0.3751
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,21.5,False,0.3324,,model only,0.3324
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,22.5,False,0.2913,,model only,0.2913
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,14.5,False,0.6858,0.6975,est,0.6953
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,15.5,False,0.6332,0.6458,est,0.6435
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,16.5,False,0.579,0.5923,est,0.5899
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,17.5,False,0.5249,0.5419,book,0.5388
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,18.5,True,0.4748,0.4885,book,0.486
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,19.5,False,0.4249,0.4367,book,0.4346
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,20.5,False,0.3751,0.388,est,0.3857
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,21.5,False,0.3324,0.3447,est,0.3425
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,22.5,False,0.2913,0.3028,est,0.3007
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,2.5,False,0.8633,,model only,0.8633
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,3.5,False,0.7283,,model only,0.7283
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,4.5,False,0.5686,,model only,0.5686
@@ -9772,11 +9769,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,5.5,False,0.2942,,model only,0.2942
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,6.5,False,0.1785,,model only,0.1785
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,7.5,False,0.102,,model only,0.102
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,0.5,False,0.9165,0.9348,est,0.9315
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,1.5,False,0.7268,0.7767,est,0.7676
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,2.5,True,0.4743,0.5411,book,0.529
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,3.5,False,0.2586,0.3131,est,0.3033
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,4.5,False,0.1192,0.1504,est,0.1447
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,0.5,False,0.9165,0.9034,book,0.9058
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,1.5,False,0.7268,0.7749,est,0.7662
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,2.5,True,0.4743,0.5386,book,0.527
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,3.5,False,0.2586,0.3326,book,0.3192
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,4.5,False,0.1192,0.1491,est,0.1437
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,0.5,False,0.6762,,model only,0.6762
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,1.5,False,0.3294,,model only,0.3294
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,2.5,False,0.1234,,model only,0.1234
@@ -10014,15 +10011,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,ra,6.5,False,0.3434,,model only,0.3434
 401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,ra,7.5,False,0.2454,,model only,0.2454
 401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,ra,8.5,False,0.1702,,model only,0.1702
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,18.5,False,0.6496,,model only,0.6496
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,19.5,False,0.6047,,model only,0.6047
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,20.5,False,0.558,,model only,0.558
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,21.5,False,0.5127,,model only,0.5127
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,22.5,False,0.4694,,model only,0.4694
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,23.5,False,0.4285,,model only,0.4285
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,24.5,False,0.3879,,model only,0.3879
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,25.5,False,0.3489,,model only,0.3489
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,26.5,False,0.3123,,model only,0.3123
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,19.5,False,0.6047,0.6692,est,0.6576
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,20.5,False,0.558,0.6254,est,0.6132
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,21.5,False,0.5127,0.5819,est,0.5694
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,22.5,False,0.4694,0.5392,est,0.5266
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,23.5,True,0.4285,0.4979,book,0.4853
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,24.5,False,0.3879,0.445,book,0.4347
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,25.5,False,0.3489,0.4147,est,0.4028
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,26.5,False,0.3123,0.3752,est,0.3638
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,27.5,False,0.2811,0.3408,est,0.33
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,0.5,False,0.9595,,model only,0.9595
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,1.5,False,0.8354,,model only,0.8354
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,2.5,False,0.6397,,model only,0.6397
@@ -10037,11 +10034,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,8.5,False,0.3459,,model only,0.3459
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,9.5,False,0.2453,,model only,0.2453
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,10.5,False,0.1669,,model only,0.1669
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,0.5,False,0.9182,,model only,0.9182
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,1.5,False,0.7203,,model only,0.7203
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,2.5,False,0.4782,,model only,0.4782
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,3.5,False,0.2636,,model only,0.2636
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,4.5,False,0.1237,,model only,0.1237
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,0.5,False,0.9182,0.8815,book,0.8881
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,1.5,False,0.7203,0.7167,book,0.7173
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,2.5,True,0.4782,0.5009,book,0.4968
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,3.5,False,0.2636,0.3095,book,0.3012
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,4.5,False,0.1237,0.1681,book,0.1601
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,0.5,False,0.6239,,model only,0.6239
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,1.5,False,0.2677,,model only,0.2677
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,2.5,False,0.0887,,model only,0.0887
@@ -10210,15 +10207,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1642928,Dylan Cardwell,ra,6.5,False,0.3765,,model only,0.3765
 401909324,SAC @ GSW,SAC,1642928,Dylan Cardwell,ra,7.5,False,0.2863,,model only,0.2863
 401909324,SAC @ GSW,SAC,1642928,Dylan Cardwell,ra,8.5,False,0.2105,,model only,0.2105
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,10.5,False,0.7375,,model only,0.7375
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,11.5,False,0.6761,,model only,0.6761
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,12.5,False,0.6091,,model only,0.6091
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,13.5,False,0.5445,,model only,0.5445
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,14.5,False,0.4789,,model only,0.4789
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,15.5,False,0.4201,,model only,0.4201
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,16.5,False,0.3631,,model only,0.3631
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,17.5,False,0.3142,,model only,0.3142
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,18.5,False,0.2683,,model only,0.2683
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,10.5,False,0.7375,0.7488,est,0.7468
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,11.5,False,0.6761,0.6637,book,0.666
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,12.5,False,0.6091,0.6231,est,0.6206
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,13.5,False,0.5445,0.5592,est,0.5565
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,14.5,True,0.4789,0.4937,book,0.491
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,15.5,False,0.4201,0.4346,est,0.432
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,16.5,False,0.3631,0.3769,est,0.3744
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,17.5,False,0.3142,0.3338,book,0.3303
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,18.5,False,0.2683,0.2801,est,0.278
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,1.5,False,0.9298,,model only,0.9298
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,2.5,False,0.8128,,model only,0.8128
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,3.5,False,0.6542,,model only,0.6542
@@ -10232,11 +10229,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,3.5,False,0.2193,,model only,0.2193
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,4.5,False,0.1031,,model only,0.1031
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,5.5,False,0.0415,,model only,0.0415
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,0.5,False,0.8633,,model only,0.8633
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,1.5,False,0.5894,,model only,0.5894
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,2.5,False,0.3166,,model only,0.3166
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,3.5,False,0.1316,,model only,0.1316
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,4.5,False,0.0435,,model only,0.0435
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,0.5,False,0.8633,0.8573,est,0.8584
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,1.5,True,0.5894,0.5772,book,0.5794
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,2.5,False,0.3166,0.3058,est,0.3078
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,3.5,False,0.1316,0.126,est,0.127
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,0.5,False,0.5805,,model only,0.5805
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,1.5,False,0.227,,model only,0.227
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,2.5,False,0.0653,,model only,0.0653
@@ -10278,15 +10274,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,8.5,False,0.2846,,model only,0.2846
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,9.5,False,0.19,,model only,0.19
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,10.5,False,0.1217,,model only,0.1217
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,12.5,False,0.7142,,model only,0.7142
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,13.5,False,0.6585,,model only,0.6585
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,14.5,False,0.6015,,model only,0.6015
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,15.5,False,0.5423,,model only,0.5423
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,16.5,False,0.4858,,model only,0.4858
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,17.5,False,0.4357,,model only,0.4357
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,18.5,False,0.3872,,model only,0.3872
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,19.5,False,0.3405,,model only,0.3405
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,20.5,False,0.2961,,model only,0.2961
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,13.5,False,0.6585,0.7204,est,0.7092
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,14.5,False,0.6015,0.6539,book,0.6444
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,15.5,False,0.5423,0.6128,est,0.6001
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,16.5,False,0.4858,0.558,est,0.5449
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,17.5,True,0.4357,0.5078,book,0.4948
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,18.5,False,0.3872,0.4578,est,0.445
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,19.5,False,0.3405,0.4028,book,0.3915
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,20.5,False,0.2961,0.3598,est,0.3483
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,pts,21.5,False,0.2538,0.3125,est,0.3019
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,reb,0.5,False,0.954,,model only,0.954
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,reb,1.5,False,0.819,,model only,0.819
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,reb,2.5,False,0.6248,,model only,0.6248
@@ -10301,11 +10297,11 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,ast,4.5,False,0.1752,,model only,0.1752
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,ast,5.5,False,0.0849,,model only,0.0849
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,ast,6.5,False,0.0379,,model only,0.0379
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,0.5,False,0.902,,model only,0.902
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,1.5,False,0.6772,,model only,0.6772
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,2.5,False,0.4154,,model only,0.4154
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,3.5,False,0.2071,,model only,0.2071
-401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,4.5,False,0.0871,,model only,0.0871
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,0.5,False,0.902,0.894,est,0.8954
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,1.5,False,0.6772,0.6578,est,0.6613
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,2.5,True,0.4154,0.3943,book,0.3981
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,3.5,False,0.2071,0.1931,est,0.1956
+401909324,SAC @ GSW,SAC,203897,Zach LaVine,fg3m,4.5,False,0.0871,0.0804,est,0.0816
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,stl,0.5,False,0.5745,,model only,0.5745
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,stl,1.5,False,0.226,,model only,0.226
 401909324,SAC @ GSW,SAC,203897,Zach LaVine,stl,2.5,False,0.0721,,model only,0.0721
@@ -10412,15 +10408,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,5.5,False,0.3197,,model only,0.3197
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,6.5,False,0.219,,model only,0.219
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,7.5,False,0.1427,,model only,0.1427
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,8.5,False,0.7405,,model only,0.7405
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,9.5,False,0.6682,,model only,0.6682
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,10.5,False,0.5904,,model only,0.5904
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,11.5,False,0.5162,,model only,0.5162
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,12.5,False,0.4474,,model only,0.4474
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,13.5,False,0.3777,,model only,0.3777
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,14.5,False,0.3163,,model only,0.3163
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,15.5,False,0.2634,,model only,0.2634
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,16.5,False,0.2164,,model only,0.2164
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,8.5,False,0.7405,0.7679,est,0.7629
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,9.5,False,0.6682,0.7001,est,0.6944
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,10.5,False,0.5904,0.6256,est,0.6192
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,11.5,False,0.5162,0.553,est,0.5463
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,12.5,True,0.4474,0.4842,book,0.4775
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,13.5,False,0.3777,0.413,est,0.4066
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,14.5,False,0.3163,0.3491,est,0.3431
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,15.5,False,0.2634,0.2931,est,0.2877
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,16.5,False,0.2164,0.2425,est,0.2378
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,2.5,False,0.885,,model only,0.885
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,3.5,False,0.7654,,model only,0.7654
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,4.5,False,0.614,,model only,0.614
@@ -10434,10 +10430,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,3.5,False,0.1218,,model only,0.1218
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,4.5,False,0.045,,model only,0.045
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,5.5,False,0.0136,,model only,0.0136
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,0.5,False,0.7987,,model only,0.7987
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,1.5,False,0.4671,,model only,0.4671
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,2.5,False,0.1969,,model only,0.1969
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,3.5,False,0.0611,,model only,0.0611
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,0.5,False,0.7987,0.745,book,0.7547
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,1.5,True,0.4671,0.445,book,0.449
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,2.5,False,0.1969,0.1832,est,0.1857
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,3.5,False,0.0611,0.0562,est,0.0571
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,0.5,False,0.5914,,model only,0.5914
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,1.5,False,0.2398,,model only,0.2398
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,2.5,False,0.0723,,model only,0.0723
@@ -10480,15 +10476,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,8.5,False,0.3198,,model only,0.3198
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,9.5,False,0.2202,,model only,0.2202
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,10.5,False,0.143,,model only,0.143
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,10.5,False,0.7104,,model only,0.7104
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,11.5,False,0.6452,,model only,0.6452
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,12.5,False,0.5799,,model only,0.5799
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,13.5,False,0.5133,,model only,0.5133
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,14.5,False,0.4501,,model only,0.4501
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,15.5,False,0.3923,,model only,0.3923
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,16.5,False,0.3392,,model only,0.3392
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,17.5,False,0.2927,,model only,0.2927
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,18.5,False,0.2478,,model only,0.2478
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,10.5,False,0.7104,0.7577,est,0.7491
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,11.5,False,0.6452,0.6918,book,0.6834
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,12.5,False,0.5799,0.6377,est,0.6272
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,13.5,False,0.5133,0.5735,est,0.5626
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,14.5,True,0.4501,0.5107,book,0.4997
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,15.5,False,0.3923,0.4515,est,0.4408
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,16.5,False,0.3392,0.3956,est,0.3854
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,17.5,False,0.2927,0.3386,book,0.3303
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,18.5,False,0.2478,0.2958,est,0.2871
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,8.5,False,0.7631,,model only,0.7631
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,9.5,False,0.6706,,model only,0.6706
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,10.5,False,0.5803,,model only,0.5803
