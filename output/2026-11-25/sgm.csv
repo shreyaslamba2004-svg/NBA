@@ -1,26 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIA @ PHI,MIA win + Davion Mitchell 15+ pa,2,0.4471,0.4279,2.34,2.45,2.22,-0.0498,1.023,2.10-2.50
-MIA @ PHI,MIA win + Bam Adebayo 10+ pts,2,0.4631,0.4343,2.3,2.42,2.18,-0.0548,1.013,2.10-2.50
-MIA @ PHI,PHI win + VJ Edgecombe 15+ pr,2,0.4296,0.4087,2.45,2.57,2.31,-0.0574,1.026,2.10-2.50
-MIA @ PHI,Bam Adebayo 13+ ra + VJ Edgecombe 15+ pra,2,0.5761,0.4455,2.24,2.36,2.09,-0.0687,0.999,1.85-2.10
-MIA @ PHI,PHI win + VJ Edgecombe 15+ pra,2,0.4834,0.4621,2.16,2.27,2.01,-0.0706,1.012,1.85-2.10
-MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 6+ reb,2,0.5873,0.4497,2.22,2.33,2.06,-0.0725,0.995,1.85-2.10
-MIA @ PHI,LeBron James ast under 7.5 + VJ Edgecombe 10+ pr,2,0.6386,0.5019,1.99,2.09,1.85,-0.0739,1.0,1.65-1.85
+MIA @ PHI,MIA win + Bam Adebayo 10+ pts,2,0.4631,0.4329,2.31,2.43,2.18,-0.0541,1.013,2.10-2.50
+MIA @ PHI,PHI win + VJ Edgecombe 15+ pr,2,0.4296,0.408,2.45,2.57,2.31,-0.057,1.026,2.10-2.50
+MIA @ PHI,Bam Adebayo 13+ ra + VJ Edgecombe 1+ 3pm,2,0.5291,0.3975,2.52,2.64,2.36,-0.06,1.001,2.10-2.50
+MIA @ PHI,Bam Adebayo 13+ ra + Davion Mitchell 4+ ast,2,0.5807,0.4574,2.19,2.3,2.04,-0.0691,1.002,1.85-2.10
+MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 10+ pts,2,0.6185,0.4866,2.05,2.16,1.9,-0.0729,1.001,1.85-2.10
+MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 6+ reb,2,0.5873,0.4519,2.21,2.32,2.05,-0.0736,0.995,1.85-2.10
+MIA @ PHI,LeBron James ast under 7.5 + VJ Edgecombe 10+ pr,2,0.6386,0.5015,1.99,2.09,1.85,-0.0738,1.0,1.65-1.85
 MIA @ PHI,LeBron James ast under 7.5 + Davion Mitchell 4+ ast,2,0.6218,0.5021,1.99,2.09,1.84,-0.0776,1.002,1.65-1.85
-MIA @ PHI,Jaylen Brown 2+ 3pm + Davion Mitchell 4+ ast,2,0.5483,0.492,2.03,2.13,1.83,-0.0993,0.999,1.65-1.85
-MIA @ PHI,VJ Edgecombe 15+ pr + Jaylen Brown 1+ 3pm + Bam Adebayo 10+ pts,3,0.6566,0.5569,1.8,1.89,1.53,-0.149,1.004,1.50-1.65
-MIA @ PHI,VJ Edgecombe 15+ pr + LeBron James 4+ reb + Bam Adebayo 10+ pts,3,0.6676,0.5659,1.77,1.86,1.5,-0.1497,1.003,1.50-1.65
-CHI @ CHA,game over 221.5 + Moussa Diabate 15+ pr,2,0.5408,0.4114,2.43,2.55,2.3,-0.0544,1.031,2.10-2.50
-CHI @ CHA,game over 221.5 + Naz Reid 6+ reb,2,0.5282,0.4006,2.5,2.62,2.35,-0.06,1.024,2.10-2.50
-CHI @ CHA,game over 221.5 + Josh Giddey 4+ reb,2,0.5725,0.4266,2.34,2.46,2.18,-0.0689,1.01,2.10-2.50
-CHI @ CHA,CHI +3.5 + Isaac Okoro 5+ pa,2,0.48,0.4697,2.13,2.24,1.98,-0.0714,1.011,1.85-2.10
-CHI @ CHA,Josh Giddey 13+ pts + Isaac Okoro 5+ pa,2,0.5754,0.4636,2.16,2.27,2.0,-0.0715,1.005,1.85-2.10
-CHI @ CHA,game over 221.5 + Isaac Okoro 5+ pa,2,0.624,0.4635,2.16,2.27,2.0,-0.0717,1.007,1.85-2.10
-CHI @ CHA,Moussa Diabate 2+ ast + Josh Giddey 4+ reb,2,0.6186,0.5201,1.92,2.02,1.76,-0.0867,1.003,1.65-1.85
-CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.676,0.5666,1.76,1.85,1.61,-0.0869,1.002,1.50-1.65
-CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pr,2,0.6872,0.5767,1.73,1.82,1.58,-0.0874,1.002,1.50-1.65
-CHI @ CHA,CHA win + Isaac Okoro 5+ pr,2,0.5873,0.5328,1.88,1.97,1.71,-0.0906,0.997,1.65-1.85
-CHI @ CHA,CHA win + Naz Reid 4+ reb,2,0.5685,0.5241,1.91,2.0,1.73,-0.0928,0.998,1.65-1.85
+MIA @ PHI,VJ Edgecombe 15+ pr + Jaylen Brown 1+ 3pm + Bam Adebayo 10+ pts,3,0.6566,0.553,1.81,1.9,1.54,-0.1476,1.004,1.50-1.65
+MIA @ PHI,VJ Edgecombe 15+ pr + Jaylen Brown 1+ 3pm + LeBron James 4+ reb,3,0.6113,0.5198,1.92,2.02,1.64,-0.1479,1.006,1.50-1.65
+CHI @ CHA,CHI +3.5 + Isaac Okoro 10+ pra,2,0.4292,0.4257,2.35,2.47,2.21,-0.0602,1.026,2.10-2.50
+CHI @ CHA,game over 221.5 + Moussa Diabate 15+ pr,2,0.5408,0.409,2.44,2.57,2.29,-0.0625,1.031,2.10-2.50
+CHI @ CHA,game over 221.5 + Isaac Okoro 10+ pra,2,0.56,0.4227,2.37,2.48,2.21,-0.067,1.026,2.10-2.50
+CHI @ CHA,CHI +3.5 + Isaac Okoro 5+ pa,2,0.48,0.4703,2.13,2.23,1.97,-0.0716,1.011,1.85-2.10
+CHI @ CHA,Coby White pts under 19.5 + Isaac Okoro 5+ pr,2,0.6215,0.4894,2.04,2.15,1.89,-0.0748,0.999,1.85-2.10
+CHI @ CHA,Coby White pts under 19.5 + Isaac Okoro 5+ pa,2,0.6109,0.4818,2.08,2.18,1.92,-0.0756,0.999,1.85-2.10
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pr,2,0.6872,0.5722,1.75,1.84,1.61,-0.08,1.002,1.50-1.65
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.676,0.5637,1.77,1.86,1.63,-0.0801,1.002,1.50-1.65
+CHI @ CHA,Moussa Diabate 2+ ast + Josh Giddey 4+ reb,2,0.6186,0.5181,1.93,2.03,1.78,-0.0801,1.003,1.65-1.85
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 10+ pra,2,0.5955,0.5026,1.99,2.09,1.82,-0.0827,1.002,1.65-1.85
+CHI @ CHA,Moussa Diabate 2+ ast + Matas Buzelis 1+ 3pm,2,0.6344,0.5425,1.84,1.94,1.69,-0.0858,1.001,1.65-1.85
 CLE @ NYK,Landry Shamet 15+ pa + Mikal Bridges 10+ pa,2,0.5293,0.3929,2.55,2.67,2.46,-0.0328,1.022,2.10-2.50
 CLE @ NYK,Mikal Bridges 18+ pra + Landry Shamet 10+ pa,2,0.5531,0.3989,2.51,2.63,2.42,-0.0348,1.019,2.10-2.50
 CLE @ NYK,Mikal Bridges 18+ pra + Landry Shamet 10+ pr,2,0.5539,0.4009,2.49,2.62,2.4,-0.0373,1.017,2.10-2.50
@@ -78,18 +77,18 @@ PHX @ HOU,HOU win + Dillon Brooks 1+ 3pm,2,0.5747,0.6098,1.64,1.72,1.51,-0.0772,
 PHX @ HOU,Devin Booker 5+ ast + Collin Gillespie 5+ pr,2,0.6383,0.5169,1.93,2.03,1.78,-0.079,1.001,1.65-1.85
 PHX @ HOU,Alperen Sengun 9+ reb + Collin Gillespie 5+ pr,2,0.6047,0.5013,1.99,2.09,1.84,-0.0802,1.001,1.65-1.85
 PHX @ HOU,Devin Booker 8+ ra + Collin Gillespie 5+ pr,2,0.6312,0.5119,1.95,2.05,1.8,-0.0802,1.001,1.65-1.85
-SAC @ GSW,GSW win + Draymond Green 4+ ast,2,0.6022,0.5142,1.94,2.04,1.83,-0.0592,1.017,1.65-1.85
-SAC @ GSW,SAC +6.5 + Keegan Murray 1+ 3pm,2,0.3608,0.3907,2.56,2.69,2.41,-0.0594,1.023,2.10-2.50
-SAC @ GSW,GSW -6.5 + Draymond Green 4+ ast,2,0.4634,0.3843,2.6,2.73,2.45,-0.0602,1.024,2.10-2.50
-SAC @ GSW,SAC +5.5 + Darius Acuff Jr. 20+ pra,2,0.3939,0.4624,2.16,2.27,2.02,-0.0649,1.023,1.85-2.10
-SAC @ GSW,game over 218.5 + Draymond Green 4+ ast,2,0.4804,0.3893,2.57,2.7,2.4,-0.0649,1.027,2.10-2.50
-SAC @ GSW,Domantas Sabonis reb under 12.5 + Keegan Murray 10+ pra,2,0.5804,0.4469,2.24,2.35,2.09,-0.0682,1.0,1.85-2.10
-SAC @ GSW,SAC +5.5 + Domantas Sabonis 10+ pa,2,0.3983,0.4664,2.14,2.25,2.0,-0.0683,1.019,1.85-2.10
+SAC @ GSW,SAC +6.5 + Keegan Murray 1+ 3pm,2,0.3608,0.3896,2.57,2.7,2.42,-0.0588,1.023,2.10-2.50
+SAC @ GSW,GSW win + Draymond Green 4+ ast,2,0.6022,0.5158,1.94,2.04,1.82,-0.06,1.017,1.65-1.85
+SAC @ GSW,GSW -6.5 + Draymond Green 4+ ast,2,0.4634,0.3855,2.59,2.72,2.44,-0.061,1.024,2.10-2.50
+SAC @ GSW,game over 216.5 + Draymond Green 4+ ast,2,0.5131,0.3935,2.54,2.67,2.38,-0.0629,1.025,2.10-2.50
+SAC @ GSW,SAC +5.5 + Domantas Sabonis 10+ pa,2,0.3983,0.4661,2.15,2.25,2.0,-0.0682,1.019,1.85-2.10
+SAC @ GSW,SAC +5.5 + Darius Acuff Jr. 4+ ast,2,0.3837,0.4454,2.25,2.36,2.09,-0.0683,1.017,1.85-2.10
+SAC @ GSW,Domantas Sabonis reb under 12.5 + Keegan Murray 10+ pra,2,0.5804,0.4472,2.24,2.35,2.08,-0.0683,1.0,1.85-2.10
 SAC @ GSW,GSW win + Brandin Podziemski 10+ pts,2,0.6696,0.5941,1.68,1.77,1.56,-0.0726,1.011,1.50-1.65
-SAC @ GSW,GSW win + Draymond Green 10+ pra,2,0.6745,0.5945,1.68,1.77,1.56,-0.0751,1.007,1.50-1.65
-SAC @ GSW,GSW win + Keegan Murray 10+ pra,2,0.6964,0.6071,1.65,1.73,1.51,-0.0846,0.994,1.50-1.65
-SAC @ GSW,GSW win + Keegan Murray 1+ 3pm,2,0.5772,0.4995,2.0,2.1,1.83,-0.0878,0.989,1.65-1.85
-SAC @ GSW,Domantas Sabonis ra under 18.5 + Keegan Murray 10+ pra,2,0.5906,0.4934,2.03,2.13,1.85,-0.0896,0.998,1.65-1.85
+SAC @ GSW,GSW win + Draymond Green 10+ pra,2,0.6745,0.5963,1.68,1.76,1.55,-0.0757,1.007,1.50-1.65
+SAC @ GSW,GSW win + Keegan Murray 10+ pra,2,0.6964,0.6076,1.65,1.73,1.51,-0.0847,0.994,1.50-1.65
+SAC @ GSW,GSW win + Keegan Murray 1+ 3pm,2,0.5772,0.4981,2.01,2.11,1.83,-0.0872,0.989,1.65-1.85
+SAC @ GSW,Domantas Sabonis ra under 18.5 + Keegan Murray 10+ pra,2,0.5906,0.4938,2.03,2.13,1.84,-0.0898,0.998,1.65-1.85
 SAS @ POR,Julian Champagnie 2+ reb + Toumani Camara 10+ pr,2,0.8317,0.4505,2.22,2.33,2.34,0.0528,1.001,2.10-2.50
 SAS @ POR,Julian Champagnie 2+ reb + Jrue Holiday 10+ pr,2,0.8609,0.4695,2.13,2.24,2.24,0.0498,1.0,2.10-2.50
 SAS @ POR,Julian Champagnie 2+ reb + Sidy Cissoko 5+ pr,2,0.8656,0.4748,2.11,2.21,2.21,0.0488,1.0,2.10-2.50
