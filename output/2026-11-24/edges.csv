@@ -1,15 +1,16 @@
 game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
-401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,16.5,draftkings,2000.0,21.0,0.0968,10.33,0.0445,0.0445,0.0523,,1.0337,0.054,0.1335,0.0017,False,False,False,,,
-401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,15.5,draftkings,1340.0,14.4,0.1361,7.35,0.0649,0.0649,0.0712,,0.9596,0.0778,0.1201,0.0022,False,True,False,,,
-401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,17.5,draftkings,2800.0,29.0,0.0652,15.35,0.0322,0.0322,0.0329,,0.8894,0.0382,0.1074,0.001,False,True,False,,,
-401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,14.5,draftkings,850.0,9.5,0.1871,5.34,0.0984,0.0984,0.0888,,0.7778,0.1144,0.0872,0.0026,False,False,False,,,
+401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,16.5,draftkings,1940.0,20.4,0.0968,10.33,0.0458,0.0458,0.051,,0.9756,0.055,0.123,0.0016,False,False,False,,,
+401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,15.5,draftkings,1300.0,14.0,0.1361,7.35,0.0668,0.0668,0.0693,,0.9052,0.0793,0.1103,0.0021,False,True,False,,,
+401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,17.5,draftkings,2600.0,27.0,0.0652,15.35,0.0346,0.0346,0.0305,,0.7591,0.0401,0.0838,0.0008,False,True,False,,,
 401909316,DAL @ DEN,prop_pa,over,Jamal Murray,1627750.0,44.5,draftkings,1300.0,14.0,0.1223,8.18,0.0668,0.0668,0.0555,,0.7116,0.0768,0.0752,0.0014,False,True,False,,,
-401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,13.5,draftkings,530.0,6.3,0.2492,4.01,0.1483,0.1483,0.1009,,0.57,0.1666,0.0496,0.0023,False,True,False,,,
-401909316,DAL @ DEN,prop_pra,over,Jamal Murray,1627750.0,49.5,draftkings,1140.0,12.4,0.1263,7.92,0.0754,0.0754,0.0509,,0.5656,0.0846,0.0488,0.0011,False,True,False,,,
+401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,14.5,draftkings,810.0,9.1,0.1871,5.34,0.1027,0.1027,0.0844,,0.703,0.118,0.0737,0.0023,False,False,False,,,
+401909316,DAL @ DEN,prop_pra,over,Jamal Murray,1627750.0,49.5,draftkings,1160.0,12.6,0.1263,7.92,0.0742,0.0742,0.0521,,0.5909,0.0836,0.0534,0.0012,False,True,False,,,
 401909316,DAL @ DEN,prop_pa,over,Jamal Murray,1627750.0,49.5,draftkings,2400.0,25.0,0.0617,16.2,0.0374,0.0374,0.0244,,0.5434,0.0418,0.0448,0.0005,False,True,False,,,
+401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,13.5,draftkings,515.0,6.15,0.2492,4.01,0.152,0.152,0.0972,,0.5326,0.1696,0.0428,0.0021,False,True,False,,,
 401909316,DAL @ DEN,prop_pra,over,Jamal Murray,1627750.0,54.5,draftkings,2200.0,23.0,0.0661,15.13,0.0406,0.0406,0.0255,,0.5203,0.0452,0.0406,0.0005,False,True,False,,,
 401909316,DAL @ DEN,prop_pa,over,Jamal Murray,1627750.0,39.5,draftkings,558.0,6.58,0.2183,4.58,0.142,0.142,0.0762,,0.4363,0.1558,0.0254,0.0011,False,True,False,,,
-401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,12.5,draftkings,336.0,4.36,0.3246,3.08,0.2144,0.2144,0.1102,,0.4152,0.2343,0.0216,0.0016,False,False,False,,,
-401909316,DAL @ DEN,prop_pra,over,Jamal Murray,1627750.0,44.5,draftkings,525.0,6.25,0.2239,4.47,0.1495,0.1495,0.0743,,0.3991,0.163,0.0187,0.0009,False,True,False,,,
-401909316,DAL @ DEN,prop_reb,over,Zaccharie Risacher,905211175.0,7.5,draftkings,920.0,10.2,0.1337,7.48,0.0916,0.0916,0.0421,,0.3641,0.0992,0.0123,0.0003,False,True,False,P.J. Washington,0.1588,0.1117
-401909316,DAL @ DEN,prop_reb,over,Zaccharie Risacher,905211175.0,6.5,draftkings,526.0,6.26,0.2176,4.6,0.1493,0.1493,0.0683,,0.362,0.1617,0.0119,0.0006,False,False,False,P.J. Washington,0.2533,0.1841
+401909316,DAL @ DEN,prop_pra,over,Jamal Murray,1627750.0,44.5,draftkings,522.0,6.22,0.2239,4.47,0.1503,0.1503,0.0736,,0.3924,0.1636,0.0174,0.0008,False,True,False,,,
+401909316,DAL @ DEN,prop_reb,over,Zaccharie Risacher,905211175.0,7.5,draftkings,930.0,10.3,0.1337,7.48,0.0907,0.0907,0.043,,0.3775,0.0985,0.0147,0.0004,False,True,False,P.J. Washington,0.1588,0.1117
+401909316,DAL @ DEN,prop_reb,over,Zaccharie Risacher,905211175.0,6.5,draftkings,530.0,6.3,0.2176,4.6,0.1483,0.1483,0.0692,,0.3707,0.1609,0.0135,0.0006,False,False,False,P.J. Washington,0.2533,0.1841
+401909316,DAL @ DEN,prop_ast,over,Nikola Jokic,203999.0,12.5,draftkings,321.0,4.21,0.3246,3.08,0.222,0.222,0.1026,,0.3665,0.2406,0.0128,0.001,False,False,False,,,
+401909316,DAL @ DEN,prop_reb,over,Zaccharie Risacher,905211175.0,8.5,draftkings,1560.0,16.6,0.0785,12.73,0.0563,0.0563,0.0222,,0.3036,0.0603,0.0014,0.0,False,False,False,,,

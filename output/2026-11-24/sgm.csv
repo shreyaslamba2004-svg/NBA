@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 DAL @ DEN,Kyrie Irving pa under 28.5 + DEN win,2,0.5308,0.4137,2.42,2.54,2.46,0.0173,1.038,2.10-2.50
-DAL @ DEN,Cooper Flagg pra under 38.5 + DEN win,2,0.5014,0.4066,2.46,2.58,2.49,0.0109,1.043,2.10-2.50
-DAL @ DEN,DEN win + Nikola Jokic 10+ ast,2,0.455,0.4064,2.46,2.58,2.44,-0.0077,1.045,2.10-2.50
-DAL @ DEN,Kyrie Irving pts under 22.5 + Nikola Jokic 6+ ast,2,0.624,0.463,2.16,2.27,2.04,-0.0568,1.001,1.85-2.10
-DAL @ DEN,Kyrie Irving pa under 28.5 + Nikola Jokic 8+ reb,2,0.641,0.4716,2.12,2.23,2.0,-0.0574,0.998,1.85-2.10
+DAL @ DEN,Cooper Flagg pts under 25.5 + DEN win,2,0.4974,0.4083,2.45,2.57,2.47,0.0076,1.044,2.10-2.50
+DAL @ DEN,DEN win + Kyrie Irving 3pm under 3.5,2,0.5327,0.4466,2.24,2.35,2.19,-0.0213,1.02,2.10-2.50
+DAL @ DEN,DEN win + Nikola Jokic 8+ ast,2,0.582,0.5544,1.8,1.89,1.71,-0.0504,1.022,1.65-1.85
+DAL @ DEN,Kyrie Irving pts under 22.5 + Nikola Jokic 6+ ast,2,0.624,0.4632,2.16,2.27,2.04,-0.057,1.001,1.85-2.10
 DAL @ DEN,Kyrie Irving pa under 28.5 + Jamal Murray 1+ 3pm,2,0.6736,0.4969,2.01,2.11,1.9,-0.0575,0.998,1.85-2.10
-DAL @ DEN,DEN win + Cameron Johnson 10+ pa,2,0.605,0.5935,1.68,1.77,1.58,-0.0618,1.017,1.50-1.65
-DAL @ DEN,DEN win + Nikola Jokic 8+ reb,2,0.6409,0.6167,1.62,1.7,1.51,-0.0712,1.003,1.50-1.65
+DAL @ DEN,Kyrie Irving pa under 28.5 + Nikola Jokic 8+ reb,2,0.641,0.4731,2.11,2.22,1.99,-0.0581,0.998,1.85-2.10
+DAL @ DEN,DEN win + Cameron Johnson 10+ pa,2,0.605,0.5946,1.68,1.77,1.58,-0.0621,1.017,1.50-1.65
+DAL @ DEN,DEN win + Nikola Jokic 8+ reb,2,0.6409,0.6187,1.62,1.7,1.5,-0.0719,1.003,1.50-1.65
 DAL @ DEN,Kyrie Irving 3pm under 3.5 + Jamal Murray 1+ 3pm,2,0.6891,0.5468,1.83,1.92,1.69,-0.0757,1.0,1.65-1.85
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5186,1.93,2.02,1.78,-0.0764,0.999,1.65-1.85
-DAL @ DEN,Kyrie Irving 3pm under 3.5 + Cameron Johnson 10+ pra,2,0.6855,0.5505,1.82,1.91,1.67,-0.0798,0.998,1.65-1.85
-DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5752,1.74,1.83,1.6,-0.08,0.987,1.50-1.65
+DAL @ DEN,Kyrie Irving 3pm under 3.5 + Nikola Jokic 8+ reb,2,0.6553,0.5202,1.92,2.02,1.77,-0.0771,0.999,1.65-1.85
+DAL @ DEN,DEN win + Zaccharie Risacher 5+ pa,2,0.6135,0.5742,1.74,1.83,1.6,-0.0796,0.987,1.50-1.65
