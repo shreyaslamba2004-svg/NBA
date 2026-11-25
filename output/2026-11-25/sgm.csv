@@ -1,25 +1,26 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
+MIA @ PHI,MIA win + Davion Mitchell 15+ pa,2,0.4471,0.4279,2.34,2.45,2.22,-0.0498,1.023,2.10-2.50
+MIA @ PHI,MIA win + Bam Adebayo 10+ pts,2,0.4631,0.4343,2.3,2.42,2.18,-0.0548,1.013,2.10-2.50
 MIA @ PHI,PHI win + VJ Edgecombe 15+ pr,2,0.4296,0.4087,2.45,2.57,2.31,-0.0574,1.026,2.10-2.50
-MIA @ PHI,MIA win + Davion Mitchell 4+ ast,2,0.4648,0.4459,2.24,2.35,2.11,-0.0605,1.012,2.10-2.50
-MIA @ PHI,Bam Adebayo 13+ ra + VJ Edgecombe 15+ pr,2,0.507,0.3901,2.56,2.69,2.4,-0.0647,1.002,2.10-2.50
+MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 6+ reb,2,0.5873,0.4497,2.22,2.33,2.06,-0.0725,0.995,1.85-2.10
 MIA @ PHI,Bam Adebayo 13+ ra + Davion Mitchell 4+ ast,2,0.5807,0.4641,2.15,2.26,2.0,-0.073,1.002,1.85-2.10
-MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 6+ reb,2,0.5873,0.4525,2.21,2.32,2.05,-0.0739,0.995,1.85-2.10
+MIA @ PHI,LeBron James ast under 7.5 + Bam Adebayo 10+ pts,2,0.6185,0.4881,2.05,2.15,1.9,-0.0737,1.001,1.85-2.10
 MIA @ PHI,LeBron James ast under 7.5 + VJ Edgecombe 10+ pr,2,0.6386,0.5019,1.99,2.09,1.85,-0.0739,1.0,1.65-1.85
-MIA @ PHI,Bam Adebayo 4+ ast + Davion Mitchell 4+ ast,2,0.5607,0.4517,2.21,2.32,2.05,-0.0762,1.003,1.85-2.10
 MIA @ PHI,LeBron James ast under 7.5 + Davion Mitchell 4+ ast,2,0.6218,0.5021,1.99,2.09,1.84,-0.0776,1.002,1.65-1.85
-MIA @ PHI,Jaylen Brown 2+ 3pm + Davion Mitchell 4+ ast,2,0.5483,0.492,2.03,2.13,1.83,-0.0993,0.999,1.65-1.85
-MIA @ PHI,VJ Edgecombe 15+ pr + Jaylen Brown 1+ 3pm + LeBron James 4+ reb,3,0.6113,0.5199,1.92,2.02,1.64,-0.1478,1.006,1.50-1.65
-CHI @ CHA,game over 221.5 + Moussa Diabate 15+ pr,2,0.541,0.4093,2.44,2.57,2.34,-0.0432,1.036,2.10-2.50
-CHI @ CHA,game over 221.5 + Naz Reid 6+ reb,2,0.5231,0.3986,2.51,2.63,2.36,-0.0584,1.021,2.10-2.50
-CHI @ CHA,game over 221.5 + Josh Giddey 4+ reb,2,0.5741,0.4301,2.32,2.44,2.19,-0.0584,1.017,2.10-2.50
-CHI @ CHA,CHI +3.5 + Matas Buzelis 15+ pra,2,0.4212,0.4519,2.21,2.32,2.07,-0.0657,1.022,1.85-2.10
-CHI @ CHA,game over 221.5 + Isaac Okoro 5+ pa,2,0.6191,0.466,2.15,2.25,2.0,-0.0663,1.009,1.85-2.10
-CHI @ CHA,game over 221.5 + Matas Buzelis 1+ 3pm,2,0.5858,0.4492,2.23,2.34,2.07,-0.0699,1.01,1.85-2.10
-CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.6676,0.5616,1.78,1.87,1.63,-0.0859,1.001,1.50-1.65
-CHI @ CHA,Moussa Diabate 2+ ast + Josh Giddey 4+ reb,2,0.6133,0.5137,1.95,2.04,1.78,-0.0866,0.999,1.65-1.85
-CHI @ CHA,Moussa Diabate 2+ ast + Naz Reid 1+ 3pm,2,0.6366,0.546,1.83,1.92,1.67,-0.0869,1.004,1.65-1.85
-CHI @ CHA,Moussa Diabate 2+ ast + Naz Reid 4+ reb,2,0.6574,0.5606,1.78,1.87,1.63,-0.0877,1.002,1.50-1.65
-CHI @ CHA,Moussa Diabate 2+ ast + Matas Buzelis 1+ 3pm,2,0.6326,0.5422,1.84,1.94,1.68,-0.0879,1.003,1.65-1.85
+MIA @ PHI,VJ Edgecombe 15+ pr + LeBron James 4+ reb + Jaylen Brown 1+ 3pm,3,0.6113,0.5169,1.93,2.03,1.65,-0.1467,1.006,1.65-1.85
+MIA @ PHI,VJ Edgecombe 15+ pr + Jaylen Brown 1+ 3pm + Bam Adebayo 10+ pts,3,0.6566,0.5569,1.8,1.89,1.53,-0.149,1.004,1.50-1.65
+MIA @ PHI,VJ Edgecombe 15+ pr + LeBron James 4+ reb + Bam Adebayo 10+ pts,3,0.6676,0.5659,1.77,1.86,1.5,-0.1497,1.003,1.50-1.65
+CHI @ CHA,game over 221.5 + Moussa Diabate 15+ pr,2,0.541,0.4127,2.42,2.54,2.28,-0.0586,1.036,2.10-2.50
+CHI @ CHA,CHI +3.5 + Matas Buzelis 15+ pra,2,0.4212,0.4534,2.21,2.32,2.06,-0.0663,1.022,1.85-2.10
+CHI @ CHA,CHA -3.5 + Moussa Diabate 15+ pr,2,0.4477,0.3914,2.56,2.68,2.38,-0.0699,1.019,2.10-2.50
+CHI @ CHA,CHI +3.5 + Naz Reid 6+ reb,2,0.3741,0.4044,2.47,2.6,2.3,-0.0712,1.018,2.10-2.50
+CHI @ CHA,CHI +3.5 + Isaac Okoro 5+ pa,2,0.4448,0.4713,2.12,2.23,1.97,-0.0732,1.011,1.85-2.10
+CHI @ CHA,game over 221.5 + Matas Buzelis 15+ pra,2,0.5864,0.4499,2.22,2.33,2.06,-0.0735,1.021,1.85-2.10
+CHI @ CHA,Moussa Diabate 2+ ast + Isaac Okoro 5+ pa,2,0.6676,0.5621,1.78,1.87,1.63,-0.0862,1.001,1.50-1.65
+CHI @ CHA,Moussa Diabate 2+ ast + Naz Reid 1+ 3pm,2,0.6366,0.545,1.83,1.93,1.68,-0.0865,1.004,1.65-1.85
+CHI @ CHA,Moussa Diabate 2+ ast + Josh Giddey 4+ reb,2,0.6133,0.5149,1.94,2.04,1.77,-0.0871,0.999,1.65-1.85
+CHI @ CHA,Moussa Diabate 2+ ast + Naz Reid 4+ reb,2,0.6574,0.5611,1.78,1.87,1.63,-0.0879,1.002,1.50-1.65
+CHI @ CHA,Moussa Diabate 2+ ast + Matas Buzelis 1+ 3pm,2,0.6326,0.543,1.84,1.93,1.68,-0.0882,1.003,1.65-1.85
 CLE @ NYK,Landry Shamet 15+ pa + Mikal Bridges 10+ pa,2,0.5293,0.3929,2.55,2.67,2.46,-0.0328,1.022,2.10-2.50
 CLE @ NYK,Mikal Bridges 18+ pra + Landry Shamet 10+ pa,2,0.5531,0.3989,2.51,2.63,2.42,-0.0348,1.019,2.10-2.50
 CLE @ NYK,Mikal Bridges 18+ pra + Landry Shamet 10+ pr,2,0.5539,0.4009,2.49,2.62,2.4,-0.0373,1.017,2.10-2.50
@@ -55,12 +56,12 @@ LAC @ MEM,Cam Spencer 5+ ast + Ty Jerome 1+ 3pm,2,0.6455,0.5072,1.97,2.07,1.84,-
 LAC @ MEM,MEM win + Max Strus 5+ pa,2,0.5175,0.5711,1.75,1.84,1.6,-0.0863,0.99,1.50-1.65
 LAC @ MEM,MEM win + Cedric Coward 4+ reb,2,0.5193,0.5931,1.69,1.77,1.54,-0.0887,0.996,1.50-1.65
 LAC @ MEM,MEM win + Darius Garland 1+ 3pm,2,0.5097,0.5943,1.68,1.77,1.52,-0.0974,0.991,1.50-1.65
-BKN @ MIL,Tyler Herro pa under 28.5 + Noah Clowney 5+ pa,2,0.6157,0.4243,2.36,2.47,2.26,-0.0418,0.998,2.10-2.50
+BKN @ MIL,Tyler Herro pts under 22.5 + Noah Clowney 5+ pa,2,0.5886,0.4115,2.43,2.55,2.32,-0.0449,0.999,2.10-2.50
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pa,2,0.6113,0.4228,2.37,2.48,2.26,-0.0453,0.995,2.10-2.50
-BKN @ MIL,Tyler Herro pa under 28.5 + Noah Clowney 5+ pr,2,0.6554,0.4583,2.18,2.29,2.08,-0.0454,0.997,1.85-2.10
 BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pr,2,0.6529,0.4581,2.18,2.29,2.08,-0.0458,0.998,1.85-2.10
-BKN @ MIL,Mikel Brown Jr. pr under 18.5 + Noah Clowney 5+ pa,2,0.6256,0.4377,2.28,2.4,2.18,-0.0477,0.996,2.10-2.50
+BKN @ MIL,Tyler Herro pa under 28.5 + Noah Clowney 5+ pa,2,0.6157,0.4313,2.32,2.43,2.21,-0.0465,0.998,2.10-2.50
 BKN @ MIL,Mikel Brown Jr. pr under 18.5 + Noah Clowney 5+ pr,2,0.6678,0.474,2.11,2.22,2.01,-0.0488,0.998,1.85-2.10
+BKN @ MIL,Mikel Brown Jr. pts under 15.5 + Noah Clowney 5+ pra,2,0.6645,0.475,2.11,2.21,2.0,-0.0496,0.999,1.85-2.10
 BKN @ MIL,Kel'el Ware reb under 6.5 + Noah Clowney 5+ pra,2,0.6986,0.5215,1.92,2.01,1.8,-0.0616,0.999,1.65-1.85
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Myles Turner 1+ blk,3,0.669,0.5515,1.81,1.9,1.55,-0.1447,1.002,1.50-1.65
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Day'Ron Sharpe 10+ pa,3,0.6382,0.5346,1.87,1.96,1.59,-0.1482,1.002,1.50-1.65
