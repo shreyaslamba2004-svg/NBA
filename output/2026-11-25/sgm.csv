@@ -1,19 +1,25 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAC @ GSW,Malik Monk pts under 11.5 + Will Richard 5+ pr,2,0.5761,0.4223,2.37,2.49,2.32,-0.022,0.999,2.10-2.50
-SAC @ GSW,Malik Monk pts under 11.5 + Charles Bassey 15+ pra,2,0.539,0.3993,2.5,2.63,2.44,-0.0247,0.999,2.10-2.50
-SAC @ GSW,Malik Monk pts under 11.5 + Charles Bassey 4+ reb,2,0.6319,0.472,2.12,2.22,2.07,-0.0249,1.0,1.85-2.10
-SAC @ GSW,Malik Monk pts under 11.5 + Draymond Green 5+ pr,2,0.6357,0.4724,2.12,2.22,2.06,-0.0264,0.998,1.85-2.10
-SAC @ GSW,Malik Monk pts under 11.5 + Charles Bassey 5+ pa,2,0.6385,0.4801,2.08,2.19,2.03,-0.0267,1.0,1.85-2.10
-SAC @ GSW,Malik Monk pts under 11.5 + De'Andre Hunter 1+ 3pm,2,0.6085,0.4505,2.22,2.33,2.16,-0.027,0.996,2.10-2.50
-SAS @ POR,Donovan Clingan 11+ pts + Toumani Camara 10+ pr,2,0.5103,0.4225,2.37,2.49,2.33,-0.0139,1.009,2.10-2.50
-SAS @ POR,Donovan Clingan 11+ pts + Sidy Cissoko 5+ pa,2,0.5078,0.421,2.38,2.49,2.34,-0.0154,1.008,2.10-2.50
-SAS @ POR,Donovan Clingan 11+ pts + Toumani Camara 10+ pra,2,0.5414,0.4489,2.23,2.34,2.19,-0.0159,1.007,2.10-2.50
-SAS @ POR,Donovan Clingan 11+ pts + Toumani Camara 5+ pa,2,0.5706,0.4733,2.11,2.22,2.07,-0.0195,1.004,1.85-2.10
-SAS @ POR,Damian Lillard pts under 20.5 + Toumani Camara 5+ pa,2,0.5932,0.4773,2.1,2.2,2.02,-0.0349,0.997,1.85-2.10
-SAS @ POR,Julian Champagnie pts under 11.5 + Toumani Camara 5+ pa,2,0.5222,0.4708,2.12,2.23,2.03,-0.0436,1.001,1.85-2.10
-SAS @ POR,Damian Lillard 3pm under 3.5 + Jrue Holiday 10+ pr,2,0.6628,0.5127,1.95,2.05,1.81,-0.0697,1.0,1.65-1.85
-SAS @ POR,Damian Lillard 3pm under 3.5 + Sidy Cissoko 5+ pr,2,0.6837,0.5255,1.9,2.0,1.77,-0.0708,0.998,1.65-1.85
-SAS @ POR,Damian Lillard 3pm under 3.5 + Donovan Clingan 15+ pra,2,0.6896,0.5339,1.87,1.97,1.74,-0.071,0.999,1.65-1.85
-SAS @ POR,Jrue Holiday 10+ pr + Deni Avdija 4+ reb + Toumani Camara 10+ pr,3,0.6769,0.5634,1.77,1.86,1.52,-0.1446,1.005,1.50-1.65
-SAS @ POR,Jrue Holiday 10+ pr + Victor Wembanyama 2+ blk + Toumani Camara 10+ pr,3,0.6662,0.553,1.81,1.9,1.55,-0.1447,1.004,1.50-1.65
-SAS @ POR,Sidy Cissoko 5+ pr + Victor Wembanyama 2+ blk + Toumani Camara 10+ pr,3,0.6876,0.5671,1.76,1.85,1.51,-0.1453,1.002,1.50-1.65
+SAC @ GSW,Charles Bassey pts under 10.5 + Will Richard 5+ pr,2,0.5259,0.4275,2.34,2.46,2.32,-0.0099,0.998,2.10-2.50
+SAC @ GSW,Charles Bassey pts under 10.5 + Domantas Sabonis 10+ pts,2,0.5125,0.4252,2.35,2.47,2.32,-0.0117,1.001,2.10-2.50
+SAC @ GSW,Charles Bassey pts under 10.5 + Draymond Green 5+ pr,2,0.5772,0.4791,2.09,2.19,2.06,-0.0126,1.001,1.85-2.10
+SAC @ GSW,Charles Bassey pts under 10.5 + Darius Acuff Jr. 4+ ast,2,0.5715,0.4782,2.09,2.2,2.06,-0.0138,1.001,1.85-2.10
+SAC @ GSW,Charles Bassey pts under 10.5 + Keegan Murray 1+ 3pm,2,0.5101,0.4322,2.31,2.43,2.28,-0.0153,1.003,2.10-2.50
+SAC @ GSW,Charles Bassey pts under 10.5 + Darius Acuff Jr. 1+ 3pm,2,0.5726,0.4846,2.06,2.17,2.02,-0.0212,0.996,1.85-2.10
+SAC @ GSW,Emanuel Sharp 3pm under 1.5 + Will Richard 5+ pr,2,0.6921,0.522,1.92,2.01,1.79,-0.0649,0.998,1.65-1.85
+SAC @ GSW,Emanuel Sharp 3pm under 1.5 + Draymond Green 5+ pr,2,0.7599,0.5852,1.71,1.79,1.59,-0.0671,1.001,1.50-1.65
+SAC @ GSW,Emanuel Sharp 3pm under 1.5 + Darius Acuff Jr. 4+ ast,2,0.7504,0.5826,1.72,1.8,1.6,-0.0707,0.999,1.50-1.65
+SAC @ GSW,Emanuel Sharp 3pm under 1.5 + Domantas Sabonis 15+ pa,2,0.6608,0.506,1.98,2.07,1.83,-0.0725,0.994,1.65-1.85
+SAC @ GSW,Emanuel Sharp 3pm under 1.5 + Domantas Sabonis 10+ pts,2,0.6699,0.5157,1.94,2.04,1.8,-0.0729,0.995,1.65-1.85
+SAC @ GSW,Emanuel Sharp 3pm under 1.5 + Darius Acuff Jr. 1+ 3pm,2,0.7555,0.5932,1.69,1.77,1.56,-0.0732,0.999,1.50-1.65
+SAS @ POR,Donovan Clingan 11+ pts + Toumani Camara 10+ pr,2,0.5329,0.4235,2.36,2.48,2.34,-0.0081,1.005,2.10-2.50
+SAS @ POR,Donovan Clingan 11+ pts + Jrue Holiday 10+ pr,2,0.5487,0.4388,2.28,2.39,2.26,-0.0083,1.006,2.10-2.50
+SAS @ POR,Donovan Clingan 11+ pts + Devin Vassell 15+ pra,2,0.5013,0.4123,2.43,2.55,2.4,-0.0091,1.012,2.10-2.50
+SAS @ POR,Donovan Clingan 11+ pts + Toumani Camara 5+ pa,2,0.581,0.4714,2.12,2.23,2.09,-0.0163,1.002,1.85-2.10
+SAS @ POR,Donovan Clingan 11+ pts + Keldon Johnson 5+ pa,2,0.5744,0.4714,2.12,2.23,2.08,-0.0196,1.001,1.85-2.10
+SAS @ POR,Julian Champagnie pts under 11.5 + Toumani Camara 5+ pa,2,0.5466,0.472,2.12,2.22,2.05,-0.034,1.001,1.85-2.10
+SAS @ POR,Harrison Barnes 3pm under 1.5 + Toumani Camara 10+ pra,2,0.7073,0.5141,1.95,2.04,1.84,-0.0549,0.999,1.65-1.85
+SAS @ POR,Harrison Barnes 3pm under 1.5 + Sidy Cissoko 5+ pr,2,0.6956,0.5108,1.96,2.06,1.84,-0.058,0.998,1.65-1.85
+SAS @ POR,Harrison Barnes 3pm under 1.5 + Toumani Camara 5+ pa,2,0.735,0.5414,1.85,1.94,1.74,-0.0584,0.998,1.65-1.85
+SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 10+ pr + Scoot Henderson 10+ pra,3,0.7063,0.5554,1.8,1.89,1.56,-0.1311,1.007,1.50-1.65
+SAS @ POR,Toumani Camara 10+ pr + Jrue Holiday 10+ pr + Donovan Clingan 8+ reb,3,0.6917,0.5464,1.83,1.92,1.59,-0.1331,1.005,1.50-1.65
+SAS @ POR,Toumani Camara 10+ pr + Sidy Cissoko 5+ pr + Scoot Henderson 10+ pra,3,0.7106,0.5651,1.77,1.86,1.53,-0.1343,1.006,1.50-1.65
