@@ -103,8 +103,8 @@ TODAY.md's long-shot table, graded the same way: the final pre-tip list at the p
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
-| Last 7 days  |    157 |    17 |            89.79 |           57.2 |                  34   |                                  9.07 |                   26.7 |
-| Last 30 days |    479 |    32 |           -33.21 |           -6.9 |                 120.7 |                                -11.41 |                   -9.5 |
+| Last 7 days  |    157 |    17 |            89.79 |           57.2 |                  33.9 |                                  9.14 |                   26.9 |
+| Last 30 days |    479 |    32 |           -33.21 |           -6.9 |                 120.7 |                                -11.34 |                   -9.4 |
 
 <details><summary>Every long shot (479)</summary>
 
@@ -175,7 +175,7 @@ TODAY.md's long-shot table, graded the same way: the final pre-tip list at the p
 | 2026-11-23  | Jakob Poeltl AST over 3.5 (4+)              | MIL @ TOR | draftkings |   7.1  | +10.5% | 0.4%          | lost     |             -1   |                          -0.43 |
 | 2026-11-23  | Scottie Barnes PR over 49.5 (50+)           | MIL @ TOR | draftkings |  21    | +10.4% | 0.1%          | lost     |             -1   |                          -0.13 |
 | 2026-11-23  | Kevin Durant PA over 39.5 (40+)             | LAC @ HOU | draftkings |  17    | +10.1% | 0.2%          | lost     |             -1   |                          -0.16 |
-| 2026-11-23  | Jaylen Brown PRA over 44.5 (45+)            | POR @ PHI | draftkings |  10.4  | +10.0% | 0.3%          | lost     |             -1   |                          -0.27 |
+| 2026-11-23  | Jaylen Brown PA over 39.5 (40+)             | POR @ PHI | draftkings |  13.6  | +10.0% | 0.2%          | lost     |             -1   |                          -0.2  |
 | 2026-11-23  | Jaylen Brown PRA over 49.5 (50+)            | POR @ PHI | draftkings |  19.2  | +10.0% | 0.1%          | lost     |             -1   |                          -0.14 |
 | 2026-11-22  | Jalen Brunson PA over 54.5 (55+)            | IND @ NYK | draftkings |  23    | +19.1% | 0.2%          | lost     |             -1   |                          -0.22 |
 | 2026-11-22  | Jalen Brunson PRA over 54.5 (55+)           | IND @ NYK | draftkings |  16    | +17.5% | 0.3%          | lost     |             -1   |                          -0.29 |
@@ -488,9 +488,9 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
 | Last 7 days  |    149 |    72 |            -5.7  |           -3.8 |                  59   |                                 -5.93 |                  -10.1 |
-| Last 30 days |    628 |   301 |           -29.53 |           -4.7 |                 249.5 |                                 -6.63 |                   -2.7 |
+| Last 30 days |    626 |   301 |           -27.53 |           -4.4 |                 249.2 |                                 -6.27 |                   -2.5 |
 
-<details><summary>Every graded game prop (628)</summary>
+<details><summary>Every graded game prop (626)</summary>
 
 | date (US)   | bet                                       | game      | book         |   odds | EV     | sheet stake   | result   |   units (1 flat) |   profit at stake (% bankroll) |
 |:------------|:------------------------------------------|:----------|:-------------|-------:|:-------|:--------------|:---------|-----------------:|-------------------------------:|
@@ -531,7 +531,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-11-23  | Cam Spencer PTS over 9.5 (10+)            | MEM @ CHA | pointsbetau  |   1.9  | +3.0%  | 0.8%          | won      |             0.9  |                           0.74 |
 | 2026-11-23  | Brook Lopez PTS over 11.5 (12+)           | LAC @ HOU | draftkings   |   2.03 | +2.9%  | 0.7%          | lost     |            -1    |                          -0.7  |
 | 2026-11-23  | Brice Sensabaugh PTS over 11.5 (12+)      | UTA @ LAL | pointsbetau  |   2.05 | +2.7%  | 0.6%          | lost     |            -1    |                          -0.64 |
-| 2026-11-23  | Andrew Nembhard PTS over 14.5 (15+)       | OKC @ IND | sportsbet    |   1.96 | +2.7%  | 0.7%          | won      |             0.96 |                           0.67 |
+| 2026-11-23  | Andrew Nembhard PTS over 14.5 (15+)       | OKC @ IND | betright     |   1.96 | +2.7%  | 0.7%          | won      |             0.96 |                           0.67 |
 | 2026-11-23  | Walker Kessler PTS under 13.5             | UTA @ LAL | betright     |   1.98 | +2.4%  | 0.6%          | won      |             0.98 |                           0.6  |
 | 2026-11-23  | Scoot Henderson PTS over 9.5 (10+)        | POR @ PHI | pointsbetau  |   1.95 | +2.4%  | 0.6%          | won      |             0.95 |                           0.59 |
 | 2026-11-23  | Zion Williamson PTS under 21.5            | PHX @ NOP | draftkings   |   1.95 | +2.3%  | 0.6%          | lost     |            -1    |                          -0.61 |
@@ -574,7 +574,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-11-22  | Neemias Queta PTS over 10.5 (11+)         | BOS @ GSW | sportsbet    |   2.02 | +1.7%  | 0.4%          | lost     |            -1    |                          -0.41 |
 | 2026-11-22  | Bam Adebayo PTS under 21.5                | OKC @ MIA | ladbrokes_au |   1.95 | +1.5%  | 0.4%          | lost     |            -1    |                          -0.39 |
 | 2026-11-22  | Andrew Nembhard PTS over 13.5 (14+)       | IND @ NYK | draftkings   |   1.94 | +1.3%  | 0.3%          | won      |             0.94 |                           0.32 |
-| 2026-11-22  | Jamal Murray PTS over 23.5 (24+)          | DEN @ CHI | pointsbetau  |   2    | +1.1%  | 0.3%          | won      |             1    |                           0.28 |
+| 2026-11-22  | Jamal Murray PTS over 23.5 (24+)          | DEN @ CHI | sportsbet    |   2    | +1.1%  | 0.3%          | won      |             1    |                           0.28 |
 | 2026-11-22  | Klay Thompson PTS under 14.5              | OKC @ MIA | tab          |   2    | +1.1%  | 0.3%          | won      |             1    |                           0.27 |
 | 2026-11-22  | Davion Mitchell PTS under 15.5            | OKC @ MIA | pointsbetau  |   2    | +0.7%  | 0.2%          | won      |             1    |                           0.16 |
 | 2026-11-22  | Charles Bassey PTS under 7.5              | BOS @ GSW | draftkings   |   2.07 | +0.5%  | 0.1%          | lost     |            -1    |                          -0.13 |
@@ -593,7 +593,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-11-21  | Jeremiah Fears PTS over 16.5 (17+)        | NOP @ SAS | betright     |   2    | +1.8%  | 0.5%          | won      |             1    |                           0.46 |
 | 2026-11-21  | Kyle Kuzma PTS under 11.5                 | MIL @ PHI | sportsbet    |   2.02 | +1.1%  | 0.3%          | lost     |            -1    |                          -0.27 |
 | 2026-11-21  | Rudy Gobert PTS over 9.5 (10+)            | MEM @ MIN | pointsbetau  |   2.1  | +0.9%  | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-11-21  | Stephon Castle PTS over 17.5 (18+)        | NOP @ SAS | pointsbetau  |   2    | +0.8%  | 0.2%          | won      |             1    |                           0.2  |
+| 2026-11-21  | VJ Edgecombe PTS under 14.5               | MIL @ PHI | tab          |   2    | +0.8%  | 0.2%          | lost     |            -1    |                          -0.2  |
 
 </details>
 
