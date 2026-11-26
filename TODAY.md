@@ -1,6 +1,6 @@
 # NBA model · Wed 25 Nov 2026 (US date)
 
-Updated **Thu 26 Nov, 11:26 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-25/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Thu 26 Nov, 11:31 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-25/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -127,7 +127,7 @@ Out: Chet Holmgren (OKC), Aday Mara (OKC), Nikola Topic (OKC), Cason Wallace (OK
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| LaMelo Ball PTS under 18.5 | MIN @ OKC | pointsbetau | 1.95 | 1.93 | 1.73 | 57.9% | 50.5% | 51.8% | +1.2% | +13.0% | 0.3% |
+| LaMelo Ball PTS under 18.5 | MIN @ OKC | betright | 1.95 | 1.93 | 1.73 | 57.9% | 50.5% | 51.8% | +1.2% | +13.0% | 0.3% |
 
 <details><summary>MIN players (confirmed only)</summary>
 
@@ -176,7 +176,7 @@ Out: Cameron Boozer (MEM), Jerami Grant (MEM), GG Jackson (MEM), Scotty Pippen J
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Keaton Wagler PTS under 8.5 | LAC @ MEM | tab | 2.00 | 1.95 | 1.98 | 50.6% | 51.3% | 51.2% | +2.4% | +1.3% | 0.6% |
-| Jaylen Wells PTS over 9.5 (10+) | LAC @ MEM | unibet | 1.87 | 1.86 | 1.61 | 62.3% | 51.9% | 53.8% | +0.5% | +16.5% | 0.1% |
+| Jaylen Wells PTS over 9.5 (10+) | LAC @ MEM | pointsbetau | 1.87 | 1.86 | 1.61 | 62.3% | 51.9% | 53.8% | +0.5% | +16.5% | 0.1% |
 
 <details><summary>LAC players (confirmed only)</summary>
 

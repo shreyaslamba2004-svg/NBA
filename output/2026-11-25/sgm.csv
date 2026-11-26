@@ -48,14 +48,14 @@ PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4769,0.4177,2.39,2.51,2.37,-0.0081,1
 PHX @ HOU,HOU win + Kevin Durant 31+ pra,2,0.4089,0.4093,2.44,2.57,2.39,-0.0199,1.056,2.10-2.50
 PHX @ HOU,HOU win + Jabari Smith Jr. 22+ pra,2,0.4005,0.4042,2.47,2.6,2.4,-0.0282,1.047,2.10-2.50
 PHX @ HOU,Kevin Durant 4+ ast + Alperen Sengun 20+ pr,2,0.6177,0.4566,2.19,2.3,2.09,-0.0459,1.008,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Collin Gillespie 5+ pr,2,0.6564,0.4838,2.07,2.17,1.96,-0.0524,1.001,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6347,0.4676,2.14,2.25,2.03,-0.0529,1.0,1.85-2.10
-PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.5723,0.5951,1.68,1.76,1.57,-0.0674,1.016,1.50-1.65
-PHX @ HOU,Kevin Durant 9+ ra + Collin Gillespie 5+ pr,2,0.6607,0.5155,1.94,2.04,1.81,-0.0687,1.001,1.65-1.85
+PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6347,0.4661,2.15,2.25,2.03,-0.0522,1.0,1.85-2.10
+PHX @ HOU,Kevin Durant 9+ ra + Alperen Sengun 20+ pr,2,0.6212,0.4861,2.06,2.16,1.93,-0.0631,1.008,1.85-2.10
+PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.5723,0.5984,1.67,1.75,1.56,-0.0686,1.016,1.50-1.65
 PHX @ HOU,HOU win + Jalen Green 1+ 3pm,2,0.5618,0.5676,1.76,1.85,1.62,-0.0821,0.993,1.50-1.65
-PHX @ HOU,Dillon Brooks 5+ ra + Jalen Green 10+ pr,2,0.6056,0.5075,1.97,2.07,1.8,-0.0861,1.003,1.65-1.85
+PHX @ HOU,Dillon Brooks 5+ ra + Jalen Green 10+ pr,2,0.6056,0.5059,1.98,2.08,1.81,-0.0854,1.003,1.65-1.85
 PHX @ HOU,Jalen Green 1+ 3pm + Dillon Brooks 15+ pra,2,0.6733,0.5657,1.77,1.86,1.61,-0.0877,1.003,1.50-1.65
-PHX @ HOU,Dillon Brooks 5+ ra + Collin Gillespie 5+ pr,2,0.6239,0.5231,1.91,2.01,1.74,-0.0891,1.0,1.65-1.85
+PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Alperen Sengun 20+ pr,3,0.5237,0.5161,1.94,2.03,1.74,-0.1023,1.034,1.65-1.85
+PHX @ HOU,HOU win + Alperen Sengun 6+ reb + Jabari Smith Jr. 15+ pr,3,0.5108,0.4987,2.01,2.11,1.77,-0.116,1.016,1.65-1.85
 SAC @ GSW,SAC +7.5 + Domantas Sabonis 15+ pa,2,0.3663,0.413,2.42,2.54,2.35,-0.0292,1.047,2.10-2.50
 SAC @ GSW,SAC +7.5 + Domantas Sabonis 10+ pts,2,0.3663,0.4177,2.39,2.51,2.3,-0.0383,1.04,2.10-2.50
 SAC @ GSW,Draymond Green 11+ pa + GSW win,2,0.4935,0.4034,2.48,2.6,2.38,-0.0384,1.027,2.10-2.50
