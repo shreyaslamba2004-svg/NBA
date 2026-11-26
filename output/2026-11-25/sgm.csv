@@ -1,40 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Karl-Anthony Towns 10+ reb,2,0.5349,0.3926,2.55,2.67,2.48,-0.027,0.996,2.10-2.50
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Landry Shamet 10+ pa,2,0.5484,0.4083,2.45,2.57,2.38,-0.0278,0.999,2.10-2.50
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Andre Drummond 4+ reb,2,0.5679,0.425,2.35,2.47,2.29,-0.0287,0.999,2.10-2.50
-CLE @ NYK,Meleek Thomas 8+ pts + Josh Hart 15+ pra,2,0.5396,0.4745,2.11,2.21,2.0,-0.05,1.005,1.85-2.10
-CLE @ NYK,Meleek Thomas 8+ pts + Andre Drummond 4+ reb,2,0.5278,0.4615,2.17,2.28,2.06,-0.0506,1.003,1.85-2.10
-CLE @ NYK,Mikal Bridges pts under 12.5 + Andre Drummond 5+ pr,2,0.4967,0.4704,2.13,2.23,2.02,-0.0507,0.995,1.85-2.10
-CLE @ NYK,Karl-Anthony Towns 10+ reb + Landry Shamet 10+ pr + Andre Drummond 4+ reb,3,0.6319,0.5133,1.95,2.05,1.68,-0.1354,1.009,1.65-1.85
-CLE @ NYK,Karl-Anthony Towns 10+ reb + Landry Shamet 10+ pr + Josh Hart 10+ pa,3,0.6063,0.4951,2.02,2.12,1.74,-0.1361,1.01,1.65-1.85
-CLE @ NYK,Landry Shamet 10+ pr + Josh Hart 10+ pa + Karl-Anthony Towns 30+ pra,3,0.6224,0.5255,1.9,2.0,1.64,-0.1368,1.017,1.50-1.65
-CLE @ NYK,Karl-Anthony Towns 10+ reb + Landry Shamet 10+ pa + Andre Drummond 4+ reb,3,0.6263,0.5115,1.95,2.05,1.69,-0.1376,1.008,1.65-1.85
-CLE @ NYK,Karl-Anthony Towns 10+ reb + Andre Drummond 4+ reb + Josh Hart 15+ pra,3,0.6623,0.5466,1.83,1.92,1.58,-0.1388,1.009,1.50-1.65
-CLE @ NYK,Landry Shamet 10+ pa + Josh Hart 10+ pa + Karl-Anthony Towns 30+ pra,3,0.6168,0.5237,1.91,2.0,1.64,-0.1389,1.016,1.50-1.65
-MIN @ OKC,LaMelo Ball pts under 18.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4838,0.3908,2.56,2.69,2.48,-0.0317,0.999,2.10-2.50
-MIN @ OKC,LaMelo Ball pts under 18.5 + Kenrich Williams 5+ pa,2,0.5373,0.438,2.28,2.4,2.21,-0.0335,1.0,2.10-2.50
-MIN @ OKC,LaMelo Ball pts under 18.5 + Kenrich Williams 10+ pra,2,0.5014,0.408,2.45,2.57,2.36,-0.0356,0.997,2.10-2.50
-MIN @ OKC,LaMelo Ball pts under 18.5 + Jared McCain 10+ pra,2,0.5548,0.4671,2.14,2.25,2.05,-0.0422,0.998,1.85-2.10
-MIN @ OKC,LaMelo Ball pts under 18.5 + Isaiah Hartenstein 10+ pr,2,0.556,0.4756,2.1,2.21,2.01,-0.0454,0.999,1.85-2.10
-MIN @ OKC,Kenrich Williams 8+ pts + Jared McCain 10+ pa,2,0.5624,0.4611,2.17,2.28,2.05,-0.0561,1.01,1.85-2.10
-MIN @ OKC,Kenrich Williams 8+ pts + Isaiah Hartenstein 10+ pr,2,0.5996,0.5085,1.97,2.06,1.82,-0.0732,1.0,1.65-1.85
-MIN @ OKC,Jared McCain 5+ ra + Isaiah Hartenstein 10+ pr,2,0.6337,0.512,1.95,2.05,1.8,-0.0762,1.002,1.65-1.85
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra + Jared McCain 10+ pa,3,0.6605,0.5006,2.0,2.1,1.75,-0.1243,1.005,1.65-1.85
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 5+ pa + Jared McCain 10+ pa,3,0.7058,0.5358,1.87,1.96,1.63,-0.1249,1.005,1.50-1.65
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Kenrich Williams 10+ pra + Jared McCain 10+ pra,3,0.7078,0.5463,1.83,1.92,1.59,-0.1308,1.002,1.50-1.65
-MIN @ OKC,Shai Gilgeous-Alexander 4+ ast + Jared McCain 10+ pa + Jaden McDaniels 10+ pts,3,0.6874,0.5455,1.83,1.92,1.59,-0.1334,1.006,1.50-1.65
-LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pr,2,0.4478,0.4104,2.44,2.56,2.38,-0.0222,0.999,2.10-2.50
-LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pra,2,0.4764,0.4423,2.26,2.37,2.21,-0.0242,1.0,2.10-2.50
-LAC @ MEM,Keaton Wagler pts under 8.5 + Zach Edey 4+ reb,2,0.484,0.4601,2.17,2.28,2.11,-0.0276,1.002,2.10-2.50
-LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Dunn 5+ pra,2,0.4891,0.4629,2.16,2.27,2.1,-0.0301,0.999,1.85-2.10
+LAC @ MEM,Keaton Wagler pts under 8.5 + Jaylen Wells 10+ pra,2,0.4457,0.4034,2.48,2.6,2.42,-0.0218,0.999,2.10-2.50
+LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pr,2,0.4478,0.4097,2.44,2.56,2.38,-0.0239,0.999,2.10-2.50
+LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pra,2,0.4764,0.4432,2.26,2.37,2.2,-0.0267,1.0,2.10-2.50
+LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Dunn 5+ pra,2,0.4891,0.4621,2.16,2.27,2.1,-0.0318,0.999,1.85-2.10
 LAC @ MEM,Brook Lopez 12+ pts + Kris Dunn 5+ pra,2,0.5041,0.4559,2.19,2.3,2.1,-0.0449,1.001,1.85-2.10
-LAC @ MEM,Jaylen Wells 10+ pts + Kris Murray 5+ pra,2,0.5656,0.4621,2.16,2.27,2.06,-0.047,1.002,1.85-2.10
-LAC @ MEM,Cam Spencer 5+ ast + Zach Edey 4+ reb,2,0.658,0.5161,1.94,2.03,1.8,-0.0705,1.003,1.65-1.85
-LAC @ MEM,Cam Spencer 5+ ast + Kris Dunn 5+ pra,2,0.6665,0.5206,1.92,2.02,1.79,-0.0705,1.002,1.65-1.85
-LAC @ MEM,Cam Spencer 5+ ast + Cedric Coward 4+ reb,2,0.6426,0.5123,1.95,2.05,1.81,-0.075,1.001,1.65-1.85
-LAC @ MEM,Jaylen Wells 1+ 3pm + Cam Spencer 1+ 3pm,2,0.676,0.6,1.67,1.75,1.5,-0.0978,1.005,1.50-1.65
-LAC @ MEM,Max Strus 10+ pra + Cam Spencer 1+ 3pm,2,0.6459,0.5698,1.75,1.84,1.58,-0.0991,1.002,1.50-1.65
-LAC @ MEM,Max Strus 10+ pra + Jaylen Wells 1+ 3pm,2,0.6782,0.5972,1.67,1.76,1.51,-0.1005,1.0,1.50-1.65
+LAC @ MEM,Brook Lopez 12+ pts + Keaton Wagler 5+ pra,2,0.5045,0.4647,2.15,2.26,2.05,-0.0473,1.003,1.85-2.10
+LAC @ MEM,Cam Spencer 5+ ast + Kris Dunn 5+ pra,2,0.6665,0.5241,1.91,2.0,1.77,-0.0723,1.002,1.65-1.85
+LAC @ MEM,Cam Spencer 5+ ast + Zach Edey 4+ reb,2,0.658,0.5214,1.92,2.01,1.78,-0.0731,1.003,1.65-1.85
+LAC @ MEM,Isaiah Stewart reb under 4.5 + Kris Dunn 5+ pra,2,0.6456,0.5089,1.97,2.06,1.82,-0.0749,0.999,1.65-1.85
+LAC @ MEM,Jaylen Wells 10+ pra + Cam Spencer 1+ 3pm,2,0.6956,0.5951,1.68,1.76,1.53,-0.0907,1.004,1.50-1.65
+LAC @ MEM,Jaylen Wells 10+ pra + Max Strus 10+ pra,2,0.6988,0.5967,1.68,1.76,1.52,-0.0935,1.0,1.50-1.65
+LAC @ MEM,Kris Murray 5+ pr + Cam Spencer 1+ 3pm,2,0.6974,0.603,1.66,1.74,1.5,-0.0946,1.002,1.50-1.65
 BKN @ MIL,Brayden Burries pts under 12.5 + Noah Clowney 5+ pa,2,0.5918,0.4302,2.32,2.44,2.31,-0.0083,0.997,2.10-2.50
 BKN @ MIL,Brayden Burries pts under 12.5 + Egor Demin 1+ 3pm,2,0.5938,0.4458,2.24,2.36,2.22,-0.0121,1.0,2.10-2.50
 BKN @ MIL,Brayden Burries pts under 12.5 + Jaime Jaquez Jr. 10+ pra,2,0.6358,0.4743,2.11,2.21,2.08,-0.0124,0.999,1.85-2.10
