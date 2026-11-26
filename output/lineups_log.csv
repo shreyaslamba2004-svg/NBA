@@ -2624,3 +2624,7 @@ checked_utc,game,mins_to_tip,nba_id_found,source
 2026-11-26T00:00Z,MIN@OKC,30,False,none
 2026-11-26T00:00Z,LAC@MEM,60,False,none
 2026-11-26T00:00Z,BKN@MIL,60,False,none
+2026-11-26T00:05Z,CLE@NYK,25,False,espn
+2026-11-26T00:05Z,MIN@OKC,25,False,espn
+2026-11-26T00:05Z,LAC@MEM,55,False,none
+2026-11-26T00:05Z,BKN@MIL,55,False,none

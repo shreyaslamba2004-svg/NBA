@@ -3,31 +3,31 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909318,CHA,1628960,Grayson Allen,Out,ConcussionProtocol,0.0,Allen (concussion) has been ruled out for Wednesday's game against Chicago.,,
 401909318,CHA,905060701,Christian Anderson,,,1.0,,,
 401909318,CHA,904684269,Kylan Boswell,Out,GLeague-Two-Way,0.0,,,
-401909318,CHA,1631217,Moussa Diabate,Starting,,1.0,,,1.0
+401909318,CHA,1631217,Moussa Diabate,,,1.0,,,
 401909318,CHA,1641790,PJ Hall,,,1.0,,,
-401909318,CHA,1642883,Sion James,Starting,Injury/Illness-LeftThighSoreness,1.0,,,1.0
+401909318,CHA,1642883,Sion James,Available,Injury/Illness-LeftThighSoreness,1.0,,,
 401909318,CHA,1641750,Ryan Kalkbrenner,Out,,0.0,Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.,,
 401909318,CHA,1642851,Kon Knueppel,Out,Injury/Illness-LeftHamstringStrain,0.0,Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks.,,
 401909318,CHA,1642862,Liam McNeeley,,,1.0,,,
-401909318,CHA,1641706,Brandon Miller,Starting,,1.0,,,1.0
+401909318,CHA,1641706,Brandon Miller,,,1.0,,,
 401909318,CHA,1626220,Royce O'Neale,,,1.0,,,
-401909318,CHA,1629675,Naz Reid,Starting,,1.0,,,1.0
+401909318,CHA,1629675,Naz Reid,,,1.0,,,
 401909318,CHA,1642275,Tidjane Salaun,,,1.0,,,
 401909318,CHA,203471,Dennis Schroder,Out,Injury/Illness-LeftHamstringStrain,0.0,Schroder (hamstring) is out for Wednesday's game the Bulls.,,
 401909318,CHA,905281370,Hannes Steinbach,,,1.0,,,
-401909318,CHA,1629632,Coby White,Starting,,1.0,,,1.0
+401909318,CHA,1629632,Coby White,,,1.0,,,
 401909318,CHA,1629684,Grant Williams,,,1.0,,,
 401909318,CHI,905105555,Tobe Awaka,Out,GLeague-Two-Way,0.0,,,
-401909318,CHI,1641824,Matas Buzelis,Starting,,1.0,,,1.0
-401909318,CHI,1629651,Nic Claxton,Starting,,1.0,,,1.0
+401909318,CHI,1641824,Matas Buzelis,,,1.0,,,
+401909318,CHI,1629651,Nic Claxton,,,1.0,,,
 401909318,CHI,1628380,Zach Collins,,,1.0,,,
 401909318,CHI,1642855,Noa Essengue,,,1.0,,,
-401909318,CHI,1630581,Josh Giddey,Starting,,1.0,,,1.0
+401909318,CHI,1630581,Josh Giddey,,,1.0,,,
 401909318,CHI,1641722,Jordan Hawkins,,,1.0,,,
-401909318,CHI,1627741,Buddy Hield,Starting,,1.0,,,1.0
+401909318,CHI,1627741,Buddy Hield,,,1.0,,,
 401909318,CHI,1630200,Tre Jones,,,1.0,,,
 401909318,CHI,1631159,Leonard Miller,,,1.0,,,
-401909318,CHI,1630171,Isaac Okoro,Starting,,1.0,,,1.0
+401909318,CHI,1630171,Isaac Okoro,,,1.0,,,
 401909318,CHI,1626181,Norman Powell,Out,Injury/Illness-RightHamstringStrain,0.0,Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week.,,
 401909318,CHI,1631115,Orlando Robinson,,,1.0,,,
 401909318,CHI,904898010,Jaylin Sellers,Out,GLeague-Two-Way,0.0,,,
@@ -38,29 +38,29 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909319,NYK,904683730,Jaden Akins,,,1.0,,,
 401909319,NYK,1630631,Jose Alvarado,,,1.0,,,
 401909319,NYK,1628384,OG Anunoby,Out,Injury/Illness-LeftCalfStrain,0.0,"Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",,
-401909319,NYK,1628969,Mikal Bridges,,,1.0,,,
-401909319,NYK,1628973,Jalen Brunson,Available,Injury/Illness-Illness,1.0,,,
+401909319,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
+401909319,NYK,1628973,Jalen Brunson,Starting,Injury/Illness-Illness,1.0,,,1.0
 401909319,NYK,203903,Jordan Clarkson,Out,Injury/Illness-RightPlantarFasciitis,0.0,Clarkson (foot) is out for Wednesday's game against Cleveland.,,
 401909319,NYK,1642359,Pacome Dadiet,,,1.0,,,
 401909319,NYK,1642885,Mohamed Diawara,,,1.0,,,
 401909319,NYK,203083,Andre Drummond,,,1.0,,,
-401909319,NYK,1628404,Josh Hart,Available,Injury/Illness-RightShoulderSprain,1.0,,,
+401909319,NYK,1628404,Josh Hart,Starting,Injury/Illness-RightShoulderSprain,1.0,,,1.0
 401909319,NYK,1642261,Dalton Knecht,,,1.0,,,
 401909319,NYK,1642278,Tyler Kolek,,,1.0,,,
 401909319,NYK,1630540,Miles McBride,Out,,0.0,McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.,,
 401909319,NYK,904838721,Tyler Nickel,,,1.0,,,
-401909319,NYK,1629013,Landry Shamet,,,1.0,,,
-401909319,NYK,1626157,Karl-Anthony Towns,Available,,1.0,,,
+401909319,NYK,1629013,Landry Shamet,Starting,,1.0,,,1.0
+401909319,NYK,1626157,Karl-Anthony Towns,Starting,,1.0,,,1.0
 401909319,NYK,1630164,James Wiseman,,,1.0,,,
-401909319,CLE,1628386,Jarrett Allen,,,1.0,,,
+401909319,CLE,1628386,Jarrett Allen,Starting,,1.0,,,1.0
 401909319,CLE,904702099,Zack Austin,Out,GLeague-Two-Way,0.0,,,
 401909319,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909319,CLE,904997530,Khalifa Diop,Out,GLeague-OnAssignment,0.0,,,
-401909319,CLE,201935,James Harden,,,1.0,,,
+401909319,CLE,201935,James Harden,Starting,,1.0,,,1.0
 401909319,CLE,1626209,Mario Hezonja,,,1.0,,,
-401909319,CLE,1630241,Sam Merrill,,,1.0,,,
+401909319,CLE,1630241,Sam Merrill,Starting,,1.0,,,1.0
 401909319,CLE,1642434,Riley Minix,,,1.0,,,
-401909319,CLE,1628378,Donovan Mitchell,,,1.0,,,
+401909319,CLE,1628378,Donovan Mitchell,Starting,,1.0,,,1.0
 401909319,CLE,1630596,Evan Mobley,Out,Injury/Illness-LeftGreatToeSprain,0.0,"Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",,
 401909319,CLE,1641807,Norchad Omier,,,1.0,,,
 401909319,CLE,1641854,Craig Porter Jr.,,,1.0,,,
@@ -69,38 +69,38 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909319,CLE,1641772,Nae'Qwan Tomlin,Out,,0.0,Tomlin (back) will remain on the inactive list for Wednesday's game against the Grizzlies.,,
 401909319,CLE,1642281,Jaylon Tyson,,,1.0,,,
 401909319,CLE,905106261,Ernest Udeh Jr.,Out,GLeague-Two-Way,0.0,,,
-401909319,CLE,1631212,Peyton Watson,,,1.0,,,
+401909319,CLE,1631212,Peyton Watson,Starting,,1.0,,,1.0
 401909320,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401909320,OKC,1627936,Alex Caruso,,,1.0,,,
 401909320,OKC,1642363,Nique Clifford,,,1.0,,,
 401909320,OKC,905105800,Josh Dix,,,1.0,,,
-401909320,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
-401909320,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
+401909320,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
+401909320,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
 401909320,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
-401909320,OKC,905174983,Aday Mara,Out,Injury/Illness-RightShinContusion,0.0,Mara (leg) is out for Wednesday's game versus the Timberwolves.,,
+401909320,OKC,905174983,Aday Mara,Out,Injury/Illness-RightShinContusion,0.0,Mara (leg) is out for Wednesday's game versus the Timberwolves.,,0.0
 401909320,OKC,1642272,Jared McCain,,,1.0,,,
-401909320,OKC,1642349,Ajay Mitchell,,,1.0,,,
-401909320,OKC,904432185,Micah Peavy,,,1.0,,,
+401909320,OKC,1642349,Ajay Mitchell,Starting,,1.0,,,1.0
+401909320,OKC,904432185,Micah Peavy,Starting,,1.0,,,1.0
 401909320,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,"Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports.",,
-401909320,OKC,905241364,Bennett Stirtz,,,1.0,,,
+401909320,OKC,905241364,Bennett Stirtz,Starting,,1.0,,,1.0
 401909320,OKC,1642260,Nikola Topic,Out,Injury/Illness-LeftHipStrain,0.0,Topic (hip) is listed as out for Wednesday's game versus Minnesota.,,
 401909320,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401909320,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",,
 401909320,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowBackSpasms,0.0,Williams (back) is listed as out for Wednesday's game against Minnesota.,,
 401909320,OKC,1629026,Kenrich Williams,,,1.0,,,
-401909320,MIN,1630163,LaMelo Ball,,,1.0,,,
+401909320,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
 401909320,MIN,1642866,Joan Beringer,Available,Injury/Illness-RightFaceMask,1.0,,,
 401909320,MIN,1641780,Johni Broome,,,1.0,,,
 401909320,MIN,1641740,Jaylen Clark,Out,Injury/Illness-RightHamstringStrain,0.0,Clark (hamstring) has been ruled out for the next two weeks.,,
 401909320,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a return to game action in January, Jon Krawczynski of The Athletic reports.",,
-401909320,MIN,1630245,Ayo Dosunmu,,,1.0,,,
+401909320,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
 401909320,MIN,1630162,Anthony Edwards,Out,Injury/Illness-RightKnee,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909320,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909320,MIN,203497,Rudy Gobert,,,1.0,,,
+401909320,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
 401909320,MIN,1630538,Bones Hyland,,,1.0,,,
-401909320,MIN,1630228,Jonathan Kuminga,,,1.0,,,
+401909320,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
 401909320,MIN,1626168,Trey Lyles,,,1.0,,,
-401909320,MIN,1630183,Jaden McDaniels,,,1.0,,,
+401909320,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
 401909320,MIN,1642389,Zyon Pullin,,,1.0,,,
 401909320,MIN,1630545,Terrence Shannon Jr.,,,1.0,,,
 401909320,MIN,904895758,Cody Williams,,,1.0,,,
