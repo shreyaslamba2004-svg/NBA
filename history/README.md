@@ -1,6 +1,7 @@
 # Past days
 Each day's final projections next to the actual box scores, newest first. Back to [TODAY.md](../TODAY.md) · [Model health](../HEALTH.md)
 
+- [2026-11-25](2026-11-25.md) · [sheet as it stood](../output/2026-11-25/today.md)
 - [2026-11-24](2026-11-24.md) · [sheet as it stood](../output/2026-11-24/today.md)
 - [2026-11-23](2026-11-23.md) · [sheet as it stood](../output/2026-11-23/today.md)
 - [2026-11-22](2026-11-22.md) · [sheet as it stood](../output/2026-11-22/today.md)
