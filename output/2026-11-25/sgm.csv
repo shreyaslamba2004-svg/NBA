@@ -36,11 +36,11 @@ SAC @ GSW,SAC +7.5 + Domantas Sabonis 15+ pa,2,0.3663,0.4088,2.45,2.57,2.37,-0.0
 SAC @ GSW,Draymond Green 5+ ast + GSW win,2,0.5304,0.4193,2.38,2.5,2.3,-0.0367,1.019,2.10-2.50
 SAC @ GSW,Draymond Green 11+ pa + GSW win,2,0.4935,0.4034,2.48,2.6,2.38,-0.0384,1.027,2.10-2.50
 SAC @ GSW,Malik Monk pts under 11.5 + Draymond Green 5+ pr,2,0.626,0.4729,2.11,2.22,1.99,-0.061,1.002,1.85-2.10
-SAC @ GSW,GSW win + Draymond Green 4+ ast,2,0.6229,0.525,1.9,2.0,1.78,-0.0635,1.013,1.65-1.85
-SAC @ GSW,SAC +7.5 + Darius Acuff Jr. 4+ ast,2,0.4003,0.4523,2.21,2.32,2.07,-0.0638,1.016,1.85-2.10
-SAC @ GSW,Malik Monk pts under 11.5 + Brandin Podziemski 15+ pra,2,0.63,0.4796,2.09,2.19,1.95,-0.0641,1.0,1.85-2.10
+SAC @ GSW,Malik Monk pa under 15.5 + Draymond Green 5+ pr,2,0.617,0.4662,2.14,2.25,2.01,-0.062,1.001,1.85-2.10
+SAC @ GSW,SAC +7.5 + Darius Acuff Jr. 4+ ast,2,0.4003,0.4517,2.21,2.32,2.07,-0.0636,1.016,1.85-2.10
 SAC @ GSW,Draymond Green 5+ ast + Brandin Podziemski 10+ pts,2,0.6204,0.5049,1.98,2.08,1.84,-0.0718,1.005,1.65-1.85
-SAC @ GSW,Draymond Green 5+ ast + Darius Acuff Jr. 4+ ast,2,0.6301,0.5127,1.95,2.05,1.8,-0.0763,1.0,1.65-1.85
+SAC @ GSW,Draymond Green 5+ ast + Darius Acuff Jr. 4+ ast,2,0.6301,0.5121,1.95,2.05,1.8,-0.0761,1.0,1.65-1.85
+SAC @ GSW,Draymond Green 5+ ast + Darius Acuff Jr. 1+ 3pm,2,0.6317,0.5178,1.93,2.03,1.78,-0.0801,0.998,1.65-1.85
 SAC @ GSW,GSW win + Brandin Podziemski 20+ pra,2,0.6511,0.587,1.7,1.79,1.57,-0.0804,1.011,1.50-1.65
 SAC @ GSW,GSW win + Keegan Murray 1+ 3pm,2,0.6358,0.5676,1.76,1.85,1.6,-0.093,0.995,1.50-1.65
 SAC @ GSW,GSW win + Domantas Sabonis 15+ pa,2,0.6219,0.5481,1.82,1.92,1.64,-0.1025,0.981,1.50-1.65
