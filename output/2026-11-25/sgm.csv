@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAC @ MEM,Keaton Wagler pts under 8.5 + Jaylen Wells 10+ pra,2,0.4457,0.4034,2.48,2.6,2.42,-0.0218,0.999,2.10-2.50
-LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pr,2,0.4478,0.4101,2.44,2.56,2.38,-0.0242,0.999,2.10-2.50
-LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pra,2,0.4764,0.4432,2.26,2.37,2.2,-0.0267,1.0,2.10-2.50
-LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Dunn 5+ pra,2,0.4891,0.4621,2.16,2.27,2.1,-0.0318,0.999,1.85-2.10
-LAC @ MEM,Jaylen Wells 10+ pts + Zach Edey 5+ pa,2,0.5711,0.4697,2.13,2.24,2.03,-0.0449,1.005,1.85-2.10
-LAC @ MEM,Brook Lopez 12+ pts + Kris Dunn 5+ pra,2,0.5041,0.4559,2.19,2.3,2.1,-0.0449,1.001,1.85-2.10
+LAC @ MEM,Keaton Wagler pts under 8.5 + Jaylen Wells 10+ pra,2,0.4457,0.4036,2.48,2.6,2.43,-0.0197,0.999,2.10-2.50
+LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pr,2,0.4478,0.4108,2.43,2.56,2.38,-0.0225,0.999,2.10-2.50
+LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Murray 5+ pra,2,0.4764,0.443,2.26,2.37,2.2,-0.0245,1.0,2.10-2.50
+LAC @ MEM,Keaton Wagler pts under 8.5 + Max Strus 5+ pra,2,0.5032,0.4756,2.1,2.21,2.04,-0.0285,1.0,1.85-2.10
+LAC @ MEM,Keaton Wagler pts under 8.5 + Kris Dunn 5+ pra,2,0.4891,0.4629,2.16,2.27,2.1,-0.0301,0.999,1.85-2.10
+LAC @ MEM,Brook Lopez 12+ pts + Max Strus 5+ pra,2,0.5179,0.4677,2.14,2.25,2.04,-0.0448,1.001,1.85-2.10
 LAC @ MEM,Cam Spencer 5+ ast + Zach Edey 5+ pa,2,0.6528,0.5065,1.97,2.07,1.84,-0.0691,1.002,1.65-1.85
 LAC @ MEM,Cam Spencer 5+ ast + Kris Dunn 5+ pra,2,0.6665,0.5241,1.91,2.0,1.77,-0.0723,1.002,1.65-1.85
-LAC @ MEM,Cam Spencer 5+ ast + Zach Edey 4+ reb,2,0.658,0.5214,1.92,2.01,1.78,-0.0731,1.003,1.65-1.85
-LAC @ MEM,Jaylen Wells 10+ pra + Cam Spencer 1+ 3pm,2,0.6956,0.5951,1.68,1.76,1.53,-0.0907,1.004,1.50-1.65
-LAC @ MEM,Jaylen Wells 10+ pra + Max Strus 10+ pra,2,0.6988,0.5967,1.68,1.76,1.52,-0.0935,1.0,1.50-1.65
-LAC @ MEM,Cam Spencer 1+ 3pm + Jaylen Wells 1+ 3pm,2,0.676,0.5995,1.67,1.75,1.51,-0.0977,1.005,1.50-1.65
+LAC @ MEM,Isaiah Stewart reb under 4.5 + Kris Dunn 5+ pra,2,0.6456,0.5089,1.97,2.06,1.82,-0.0749,0.999,1.65-1.85
+LAC @ MEM,Jaylen Wells 10+ pra + Cam Spencer 1+ 3pm,2,0.6956,0.5974,1.67,1.76,1.52,-0.0916,1.004,1.50-1.65
+LAC @ MEM,Jaylen Wells 10+ pra + Max Strus 10+ pra,2,0.6988,0.5923,1.69,1.77,1.53,-0.0919,1.0,1.50-1.65
+LAC @ MEM,Kris Murray 5+ pr + Max Strus 10+ pra,2,0.7025,0.6032,1.66,1.74,1.5,-0.094,1.001,1.50-1.65
 BKN @ MIL,Brayden Burries pts under 12.5 + Noah Clowney 5+ pa,2,0.5918,0.4302,2.32,2.44,2.31,-0.0083,0.997,2.10-2.50
 BKN @ MIL,Brayden Burries pts under 12.5 + Egor Demin 1+ 3pm,2,0.5938,0.4458,2.24,2.36,2.22,-0.0121,1.0,2.10-2.50
 BKN @ MIL,Brayden Burries pts under 12.5 + Jaime Jaquez Jr. 10+ pra,2,0.6358,0.4743,2.11,2.21,2.08,-0.0124,0.999,1.85-2.10
@@ -25,7 +25,7 @@ PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4769,0.417,2.4,2.52,2.38,-0.0056,1.0
 PHX @ HOU,HOU win + Kevin Durant 22+ pts,2,0.3664,0.3983,2.51,2.64,2.49,-0.0075,1.064,2.10-2.50
 PHX @ HOU,Kevin Durant 4+ ast + Alperen Sengun 20+ pr,2,0.6177,0.4559,2.19,2.3,2.1,-0.0435,1.008,1.85-2.10
 PHX @ HOU,Miles Bridges pts under 13.5 + Alperen Sengun 15+ pr,2,0.5355,0.4785,2.09,2.19,1.99,-0.0455,1.002,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6347,0.4654,2.15,2.26,2.04,-0.0498,1.0,1.85-2.10
+PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6347,0.4669,2.14,2.25,2.03,-0.0505,1.0,1.85-2.10
 PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.5723,0.5984,1.67,1.75,1.56,-0.0686,1.016,1.50-1.65
 PHX @ HOU,HOU win + Jalen Green 1+ 3pm,2,0.5618,0.571,1.75,1.84,1.61,-0.0834,0.993,1.50-1.65
 PHX @ HOU,Jalen Green 1+ 3pm + Dillon Brooks 15+ pra,2,0.6733,0.5735,1.74,1.83,1.59,-0.0907,1.003,1.50-1.65
