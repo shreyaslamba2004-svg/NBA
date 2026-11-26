@@ -8,18 +8,18 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,12.5,False,0.3769,0.347,est,0.3524
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,13.5,False,0.3175,0.2902,est,0.2951
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pts,14.5,False,0.2626,0.2383,est,0.2427
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,4.5,False,0.87,0.8233,book,0.8317
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,4.5,False,0.87,0.822,book,0.8307
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,5.5,False,0.7965,0.737,book,0.7478
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,6.5,False,0.7056,0.635,book,0.6478
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,6.5,False,0.7056,0.636,book,0.6486
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,7.5,True,0.6041,0.5274,book,0.5413
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,8.5,False,0.5014,0.421,book,0.4356
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,9.5,False,0.4049,0.3223,book,0.3373
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,10.5,False,0.3159,0.2384,book,0.2524
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,9.5,False,0.4049,0.3245,book,0.3391
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,reb,10.5,False,0.3159,0.2409,book,0.2545
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ast,0.5,False,0.6668,,model only,0.6668
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ast,1.5,False,0.3203,0.3994,book,0.3851
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ast,1.5,False,0.3203,0.4028,book,0.3879
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ast,2.5,False,0.1245,,model only,0.1245
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ast,3.5,False,0.0415,,model only,0.0415
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ast,4.5,False,0.0121,0.0374,book,0.0328
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ast,4.5,False,0.0121,0.0389,book,0.034
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,fg3m,0.5,False,0.0,,model only,0.0
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,fg3m,1.5,False,0.0,,model only,0.0
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,fg3m,2.5,False,0.0,,model only,0.0
@@ -31,12 +31,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,16.5,False,0.7008,,model only,0.7008
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,17.5,False,0.6533,,model only,0.6533
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,18.5,False,0.6079,,model only,0.6079
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,19.5,False,0.5602,0.5098,book,0.5189
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,19.5,False,0.5602,0.5117,book,0.5205
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,20.5,False,0.5132,,model only,0.5132
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,21.5,False,0.4651,,model only,0.4651
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,22.5,False,0.4183,,model only,0.4183
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,23.5,False,0.3748,,model only,0.3748
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,24.5,False,0.3341,0.2893,book,0.2974
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,24.5,False,0.3341,0.2841,book,0.2931
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,25.5,False,0.2946,,model only,0.2946
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pra,26.5,False,0.2575,,model only,0.2575
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pr,14.5,False,0.7496,0.6997,est,0.7087
@@ -49,12 +49,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pr,21.5,False,0.4087,0.3498,est,0.3604
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pr,22.5,False,0.3638,0.308,est,0.3181
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,8.5,False,0.7281,,model only,0.7281
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,9.5,False,0.6606,0.6488,book,0.6509
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,9.5,False,0.6606,0.6461,book,0.6487
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,10.5,False,0.5909,,model only,0.5909
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,11.5,False,0.5232,,model only,0.5232
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,12.5,False,0.4572,,model only,0.4572
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,13.5,False,0.3904,,model only,0.3904
-401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,14.5,False,0.3329,0.3268,book,0.3279
+401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,14.5,False,0.3329,0.319,book,0.3215
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,15.5,False,0.2809,,model only,0.2809
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,pa,16.5,False,0.2359,,model only,0.2359
 401909324,SAC @ GSW,GSW,1629646,Charles Bassey,ra,7.5,False,0.7013,,model only,0.7013
@@ -126,66 +126,66 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1643018,LJ Cryer,ra,3.5,False,0.2837,,model only,0.2837
 401909324,SAC @ GSW,GSW,1643018,LJ Cryer,ra,4.5,False,0.1629,,model only,0.1629
 401909324,SAC @ GSW,GSW,1643018,LJ Cryer,ra,5.5,False,0.0881,,model only,0.0881
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,1.5,False,0.9422,0.9429,est,0.9428
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,2.5,False,0.8574,0.8589,est,0.8587
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,3.5,False,0.7469,0.7493,est,0.7488
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,4.5,False,0.619,0.622,est,0.6214
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,5.5,True,0.4926,0.4958,book,0.4952
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,6.5,False,0.3765,0.3795,est,0.379
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,7.5,False,0.2817,0.3256,book,0.3176
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,8.5,False,0.2023,0.2043,est,0.2039
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,9.5,False,0.1406,0.1919,book,0.1826
-401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,1.5,False,0.9253,0.9298,est,0.9289
-401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,2.5,False,0.8171,0.8178,book,0.8177
-401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,3.5,False,0.6672,0.6854,book,0.6821
-401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,4.5,True,0.5132,0.53,book,0.527
-401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,5.5,False,0.3657,0.3799,book,0.3773
-401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,6.5,False,0.2423,0.2575,book,0.2547
-401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,7.5,False,0.1524,0.1666,book,0.164
-401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,1.5,False,0.9589,0.9369,est,0.9409
-401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,2.5,False,0.8909,0.8296,book,0.8407
-401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,3.5,False,0.7887,0.7094,book,0.7238
-401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,4.5,True,0.6579,0.55,book,0.5695
-401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,5.5,False,0.5178,0.3894,book,0.4126
-401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,6.5,False,0.3888,0.2526,book,0.2773
-401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,7.5,False,0.277,0.1545,book,0.1767
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,1.5,False,0.9422,0.9427,est,0.9426
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,2.5,False,0.8574,0.8584,est,0.8583
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,3.5,False,0.7469,0.7485,est,0.7482
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,4.5,False,0.619,0.621,est,0.6207
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,5.5,True,0.4926,0.4948,book,0.4944
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,6.5,False,0.3765,0.3786,est,0.3782
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,7.5,False,0.2817,0.319,book,0.3122
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,8.5,False,0.2023,0.2036,est,0.2034
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pts,9.5,False,0.1406,0.1911,book,0.182
+401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,1.5,False,0.9253,0.9288,est,0.9282
+401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,2.5,False,0.8171,0.8132,book,0.8139
+401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,3.5,False,0.6672,0.682,book,0.6793
+401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,4.5,True,0.5132,0.5265,book,0.5241
+401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,5.5,False,0.3657,0.3738,book,0.3723
+401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,6.5,False,0.2423,0.2492,book,0.248
+401909324,SAC @ GSW,GSW,203110,Draymond Green,reb,7.5,False,0.1524,0.1598,book,0.1585
+401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,1.5,False,0.9589,0.9343,est,0.9388
+401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,2.5,False,0.8909,0.833,book,0.8435
+401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,3.5,False,0.7887,0.7021,book,0.7178
+401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,4.5,True,0.6579,0.5394,book,0.5608
+401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,5.5,False,0.5178,0.3799,book,0.4049
+401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,6.5,False,0.3888,0.2506,book,0.2756
+401909324,SAC @ GSW,GSW,203110,Draymond Green,ast,7.5,False,0.277,0.1552,book,0.1772
 401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,0.5,True,0.525,0.5419,book,0.5388
-401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,1.5,False,0.1404,0.2114,book,0.1986
-401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,2.5,False,0.0228,0.0754,book,0.0659
-401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,0.5,False,0.6181,0.6505,book,0.6446
-401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,1.5,False,0.2742,0.3064,book,0.3006
-401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,2.5,False,0.0962,0.1198,book,0.1155
+401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,1.5,False,0.1404,0.211,book,0.1982
+401909324,SAC @ GSW,GSW,203110,Draymond Green,fg3m,2.5,False,0.0228,0.073,book,0.0639
+401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,0.5,False,0.6181,0.6434,book,0.6388
+401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,1.5,False,0.2742,0.3034,book,0.2981
+401909324,SAC @ GSW,GSW,203110,Draymond Green,stl,2.5,False,0.0962,0.1214,book,0.1168
 401909324,SAC @ GSW,GSW,203110,Draymond Green,blk,0.5,False,0.4662,,model only,0.4662
 401909324,SAC @ GSW,GSW,203110,Draymond Green,blk,1.5,False,0.1406,,model only,0.1406
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,10.5,False,0.8462,0.8185,est,0.8236
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,11.5,False,0.7962,0.7621,est,0.7683
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,12.5,False,0.7388,0.6987,est,0.7059
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,13.5,False,0.6775,0.6327,est,0.6408
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,14.5,False,0.6121,0.5641,est,0.5728
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,15.5,True,0.5474,0.4979,book,0.5069
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,16.5,False,0.4831,0.4338,est,0.4428
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,17.5,False,0.4198,0.3723,est,0.3809
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,18.5,False,0.3617,0.3172,est,0.3253
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,19.5,False,0.305,0.2647,est,0.272
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,20.5,False,0.2577,0.2216,est,0.2281
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,6.5,False,0.8243,0.831,est,0.8298
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,7.5,False,0.7459,0.7548,est,0.7532
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,8.5,False,0.6587,0.6694,est,0.6674
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,9.5,False,0.573,0.5737,book,0.5736
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,10.5,True,0.4849,0.4968,book,0.4946
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,11.5,False,0.3979,0.4094,est,0.4073
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,12.5,False,0.3227,0.3332,est,0.3313
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,13.5,False,0.2544,0.2635,est,0.2619
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,14.5,False,0.1993,0.2348,book,0.2284
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,6.5,False,0.8688,0.8314,est,0.8381
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,7.5,False,0.8091,0.7594,est,0.7684
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,8.5,False,0.7343,0.673,est,0.6841
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,9.5,False,0.6548,0.5855,est,0.598
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,10.5,True,0.5779,0.5049,book,0.5181
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,11.5,False,0.4896,0.4167,est,0.4299
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,12.5,False,0.4117,0.3426,est,0.3551
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,13.5,False,0.3392,0.2766,est,0.2879
-401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,14.5,False,0.2747,0.2201,est,0.23
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,10.5,False,0.8462,0.8179,est,0.823
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,11.5,False,0.7962,0.7613,est,0.7676
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,12.5,False,0.7388,0.6977,est,0.7052
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,13.5,False,0.6775,0.6317,est,0.64
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,14.5,False,0.6121,0.563,est,0.5719
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,15.5,True,0.5474,0.4968,book,0.506
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,16.5,False,0.4831,0.4328,est,0.4419
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,17.5,False,0.4198,0.3713,est,0.38
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,18.5,False,0.3617,0.3163,est,0.3245
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,19.5,False,0.305,0.2638,est,0.2713
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pra,20.5,False,0.2577,0.2208,est,0.2275
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,6.5,False,0.8243,0.8299,est,0.8289
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,7.5,False,0.7459,0.7533,est,0.752
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,8.5,False,0.6587,0.6676,est,0.666
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,9.5,False,0.573,0.5681,book,0.569
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,10.5,True,0.4849,0.4948,book,0.493
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,11.5,False,0.3979,0.4074,est,0.4057
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,12.5,False,0.3227,0.3315,est,0.3299
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,13.5,False,0.2544,0.262,est,0.2606
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pr,14.5,False,0.1993,0.2302,book,0.2246
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,6.5,False,0.8688,0.8319,est,0.8386
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,7.5,False,0.8091,0.7602,est,0.769
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,8.5,False,0.7343,0.6739,est,0.6849
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,9.5,False,0.6548,0.5865,est,0.5988
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,10.5,True,0.5779,0.5059,book,0.5189
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,11.5,False,0.4896,0.4177,est,0.4307
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,12.5,False,0.4117,0.3435,est,0.3558
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,13.5,False,0.3392,0.2774,est,0.2886
+401909324,SAC @ GSW,GSW,203110,Draymond Green,pa,14.5,False,0.2747,0.2208,est,0.2305
 401909324,SAC @ GSW,GSW,203110,Draymond Green,ra,6.5,False,0.8375,0.7932,est,0.8012
 401909324,SAC @ GSW,GSW,203110,Draymond Green,ra,7.5,False,0.7641,0.7067,est,0.7171
 401909324,SAC @ GSW,GSW,203110,Draymond Green,ra,8.5,False,0.6794,0.6119,est,0.6241
@@ -260,33 +260,33 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,201143,Al Horford,ra,6.5,False,0.3401,,model only,0.3401
 401909324,SAC @ GSW,GSW,201143,Al Horford,ra,7.5,False,0.2462,,model only,0.2462
 401909324,SAC @ GSW,GSW,201143,Al Horford,ra,8.5,False,0.1703,,model only,0.1703
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,17.5,False,0.5676,0.6721,book,0.6532
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,17.5,False,0.5676,0.6743,book,0.655
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,18.5,False,0.5171,0.6301,est,0.6096
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.471,0.5723,book,0.554
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,19.5,False,0.471,0.5709,book,0.5528
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,20.5,False,0.427,0.521,book,0.504
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,21.5,True,0.3822,0.496,book,0.4754
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,22.5,False,0.3393,0.4496,est,0.4297
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,23.5,False,0.301,0.4065,est,0.3874
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,24.5,False,0.2654,0.3223,book,0.312
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,24.5,False,0.2654,0.3245,book,0.3138
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pts,25.5,False,0.2303,0.3224,est,0.3058
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,4.5,False,0.7947,0.8011,book,0.7999
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,5.5,False,0.6753,0.6968,book,0.6929
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,6.5,False,0.5457,0.5695,book,0.5652
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,7.5,True,0.4178,0.4461,book,0.441
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,8.5,False,0.3042,0.3279,book,0.3236
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,9.5,False,0.2114,0.2241,book,0.2218
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,10.5,False,0.1372,0.151,book,0.1485
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,0.5,False,0.9711,0.9755,est,0.9747
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,1.5,False,0.8813,0.8979,est,0.8949
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,2.5,False,0.7248,0.7552,book,0.7497
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,3.5,True,0.5409,0.5826,book,0.575
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,4.5,False,0.7947,0.8029,book,0.8014
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,5.5,False,0.6753,0.6986,book,0.6944
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,6.5,False,0.5457,0.5723,book,0.5675
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,7.5,True,0.4178,0.445,book,0.4401
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,8.5,False,0.3042,0.3291,book,0.3246
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,9.5,False,0.2114,0.2308,book,0.2273
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,reb,10.5,False,0.1372,0.1552,book,0.1519
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,0.5,False,0.9711,0.9757,est,0.9749
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,1.5,False,0.8813,0.8984,est,0.8953
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,2.5,False,0.7248,0.7566,book,0.7509
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,3.5,True,0.5409,0.5839,book,0.5761
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,4.5,False,0.3646,0.4028,book,0.3959
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,5.5,False,0.2226,0.2519,book,0.2466
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,6.5,False,0.1258,0.1429,book,0.1398
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,0.5,False,0.8256,0.8272,book,0.8269
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,1.5,True,0.5353,0.5737,book,0.5668
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,2.5,False,0.2773,0.3201,book,0.3124
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,3.5,False,0.1137,0.1558,book,0.1482
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,5.5,False,0.2226,0.2512,book,0.246
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ast,6.5,False,0.1258,0.1436,book,0.1404
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,0.5,False,0.8256,0.8284,book,0.8279
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,1.5,True,0.5353,0.5723,book,0.5656
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,2.5,False,0.2773,0.3223,book,0.3142
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,fg3m,3.5,False,0.1137,0.1545,book,0.1471
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,stl,0.5,False,0.5966,0.6539,book,0.6435
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,stl,1.5,False,0.2479,0.3115,book,0.3
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,stl,2.5,False,0.0785,0.1214,book,0.1136
@@ -313,15 +313,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pr,30.5,False,0.3264,0.4135,est,0.3977
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pr,31.5,False,0.2908,0.3736,est,0.3586
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pr,32.5,False,0.2595,0.3376,est,0.3235
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,21.5,False,0.5608,0.6518,est,0.6353
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,22.5,False,0.5144,0.6083,est,0.5913
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,23.5,False,0.4708,0.566,est,0.5488
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,24.5,False,0.4294,0.5246,est,0.5074
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,25.5,True,0.3882,0.482,book,0.465
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,26.5,False,0.3486,0.4397,est,0.4232
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,27.5,False,0.3109,0.3981,est,0.3823
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,28.5,False,0.2776,0.3603,est,0.3453
-401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,29.5,False,0.2432,0.3203,est,0.3064
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,21.5,False,0.5608,0.6528,est,0.6362
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,22.5,False,0.5144,0.6094,est,0.5922
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,23.5,False,0.4708,0.5671,est,0.5497
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,24.5,False,0.4294,0.5257,est,0.5083
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,25.5,True,0.3882,0.4831,book,0.4659
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,26.5,False,0.3486,0.4407,est,0.4241
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,27.5,False,0.3109,0.3991,est,0.3831
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,28.5,False,0.2776,0.3613,est,0.3462
+401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,pa,29.5,False,0.2432,0.3213,est,0.3072
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ra,8.5,False,0.7237,0.7566,est,0.7507
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ra,9.5,False,0.6293,0.6684,est,0.6613
 401909324,SAC @ GSW,GSW,905175737,Yaxel Lendeborg,ra,10.5,False,0.5263,0.5688,est,0.5611
@@ -332,24 +332,24 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,7.5,False,0.7368,0.7847,est,0.7761
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,8.5,False,0.6611,0.7175,est,0.7073
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,9.5,False,0.587,0.6493,est,0.638
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.5094,0.5247,book,0.5219
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,10.5,False,0.5094,0.5282,book,0.5248
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,11.5,True,0.4395,0.5052,book,0.4933
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,12.5,False,0.3745,0.4381,est,0.4266
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,13.5,False,0.3133,0.3727,est,0.362
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,14.5,False,0.2605,0.3145,est,0.3047
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pts,15.5,False,0.213,0.2606,est,0.252
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,0.5,False,0.9617,0.9626,est,0.9624
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,1.5,False,0.8549,0.8578,est,0.8573
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,2.5,False,0.6815,0.6833,book,0.683
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,3.5,True,0.4959,0.5019,book,0.5008
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,4.5,False,0.324,0.3302,book,0.3291
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,5.5,False,0.1959,0.2032,book,0.2019
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,6.5,False,0.1086,0.1183,book,0.1165
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,0.5,False,0.9423,0.939,est,0.9396
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,1.5,False,0.8036,0.7942,est,0.7959
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,2.5,True,0.6082,0.5941,book,0.5966
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,3.5,False,0.4101,0.3862,book,0.3905
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,4.5,False,0.2478,0.2285,book,0.232
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,0.5,False,0.9617,0.9624,est,0.9623
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,1.5,False,0.8549,0.8573,est,0.8569
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,2.5,False,0.6815,0.6792,book,0.6796
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,3.5,True,0.4959,0.5009,book,0.5
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,4.5,False,0.324,0.3338,book,0.332
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,5.5,False,0.1959,0.2068,book,0.2048
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,reb,6.5,False,0.1086,0.1214,book,0.1191
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,0.5,False,0.9423,0.937,est,0.938
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,1.5,False,0.8036,0.7886,est,0.7913
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,2.5,True,0.6082,0.5859,book,0.5899
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,3.5,False,0.4101,0.3927,book,0.3958
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,4.5,False,0.2478,0.2279,book,0.2315
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ast,5.5,False,0.1365,0.123,book,0.1254
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,0.5,False,0.8559,0.8307,book,0.8353
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,fg3m,1.5,True,0.5658,0.5858,book,0.5822
@@ -360,35 +360,35 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,stl,2.5,False,0.2052,0.2492,book,0.2412
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,blk,0.5,False,0.3446,,model only,0.3446
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,blk,1.5,False,0.073,,model only,0.073
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,12.5,False,0.7865,0.7905,est,0.7898
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,13.5,False,0.7335,0.7381,est,0.7373
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,14.5,False,0.6823,0.6874,est,0.6864
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,15.5,False,0.6249,0.6304,est,0.6294
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,16.5,False,0.5688,0.5745,est,0.5735
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,17.5,True,0.5124,0.5183,book,0.5172
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,18.5,False,0.4565,0.4624,est,0.4613
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,19.5,False,0.4043,0.41,est,0.409
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,20.5,False,0.3513,0.3567,est,0.3557
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,21.5,False,0.3049,0.3099,est,0.309
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,22.5,False,0.2625,0.267,est,0.2662
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,10.5,False,0.7476,0.76,est,0.7578
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,11.5,False,0.6856,0.6998,est,0.6973
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,12.5,False,0.6204,0.636,est,0.6331
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,13.5,False,0.5568,0.5732,est,0.5703
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,14.5,True,0.495,0.5117,book,0.5087
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,15.5,False,0.4342,0.4506,est,0.4476
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,16.5,False,0.3759,0.3917,est,0.3888
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,17.5,False,0.321,0.3357,est,0.333
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,18.5,False,0.2725,0.2859,est,0.2835
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,10.5,False,0.7241,0.7398,est,0.7369
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,11.5,False,0.6585,0.6762,est,0.673
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,12.5,False,0.5933,0.6124,est,0.609
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,13.5,False,0.5287,0.5485,est,0.545
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,14.5,True,0.4632,0.4831,book,0.4795
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,15.5,False,0.4038,0.4232,est,0.4197
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,16.5,False,0.3497,0.368,est,0.3647
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,17.5,False,0.3002,0.3172,est,0.3141
-401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,18.5,False,0.2542,0.2696,est,0.2668
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,12.5,False,0.7865,0.7917,est,0.7907
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,13.5,False,0.7335,0.7395,est,0.7384
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,14.5,False,0.6823,0.6889,est,0.6877
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,15.5,False,0.6249,0.6321,est,0.6308
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,16.5,False,0.5688,0.5763,est,0.5749
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,17.5,True,0.5124,0.5201,book,0.5187
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,18.5,False,0.4565,0.4642,est,0.4628
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,19.5,False,0.4043,0.4117,est,0.4104
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,20.5,False,0.3513,0.3584,est,0.3571
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,21.5,False,0.3049,0.3114,est,0.3102
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pra,22.5,False,0.2625,0.2685,est,0.2674
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,10.5,False,0.7476,0.7607,est,0.7583
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,11.5,False,0.6856,0.7006,est,0.6979
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,12.5,False,0.6204,0.6368,est,0.6338
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,13.5,False,0.5568,0.5741,est,0.571
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,14.5,True,0.495,0.5126,book,0.5094
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,15.5,False,0.4342,0.4515,est,0.4484
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,16.5,False,0.3759,0.3926,est,0.3895
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,17.5,False,0.321,0.3365,est,0.3337
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pr,18.5,False,0.2725,0.2867,est,0.2841
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,10.5,False,0.7241,0.7347,est,0.7328
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,11.5,False,0.6585,0.6704,est,0.6682
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,12.5,False,0.5933,0.6061,est,0.6038
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,13.5,False,0.5287,0.542,est,0.5396
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,14.5,True,0.4632,0.4765,book,0.4741
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,15.5,False,0.4038,0.4167,est,0.4144
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,16.5,False,0.3497,0.3619,est,0.3597
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,17.5,False,0.3002,0.3115,est,0.3094
+401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,pa,18.5,False,0.2542,0.2644,est,0.2625
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ra,3.5,False,0.8703,0.8682,est,0.8686
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ra,4.5,False,0.7721,0.7689,est,0.7695
 401909324,SAC @ GSW,GSW,1629001,De'Anthony Melton,ra,5.5,False,0.6523,0.6481,est,0.6489
@@ -534,58 +534,58 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,20.5,False,0.3164,0.3465,est,0.341
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pts,21.5,False,0.2741,0.3019,est,0.2969
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,1.5,False,0.9452,0.9412,est,0.9419
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,2.5,False,0.8484,0.8132,book,0.8196
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,3.5,False,0.7006,0.6743,book,0.6791
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,2.5,False,0.8484,0.8116,book,0.8183
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,3.5,False,0.7006,0.675,book,0.6796
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,4.5,True,0.5362,0.5174,book,0.5208
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,5.5,False,0.3805,0.3665,book,0.369
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,6.5,False,0.2454,0.239,book,0.2401
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,7.5,False,0.1479,0.1522,book,0.1514
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,1.5,False,0.8863,0.906,est,0.9024
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,2.5,False,0.729,0.7637,book,0.7574
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,3.5,False,0.5394,0.5884,book,0.5795
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,4.5,True,0.3634,0.4135,book,0.4044
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,5.5,False,0.221,0.2611,book,0.2538
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,6.5,False,0.1238,0.1545,book,0.1489
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,5.5,False,0.3805,0.3679,book,0.3702
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,6.5,False,0.2454,0.2421,book,0.2427
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,reb,7.5,False,0.1479,0.1512,book,0.1506
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,1.5,False,0.8863,0.905,est,0.9016
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,2.5,False,0.729,0.7586,book,0.7533
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,3.5,False,0.5394,0.5845,book,0.5763
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,4.5,True,0.3634,0.4108,book,0.4022
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,5.5,False,0.221,0.2589,book,0.252
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,6.5,False,0.1238,0.1525,book,0.1473
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ast,7.5,False,0.063,0.085,book,0.081
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,0.5,False,0.9115,0.8869,book,0.8914
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,1.5,False,0.6965,0.7136,book,0.7105
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,2.5,True,0.4387,0.4863,book,0.4777
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,3.5,False,0.2264,0.2841,book,0.2737
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,4.5,False,0.0926,0.1498,book,0.1395
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,0.5,False,0.6596,0.6581,book,0.6584
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,1.5,False,0.3067,0.3136,book,0.3124
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,0.5,False,0.9115,0.8888,book,0.8929
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,1.5,False,0.6965,0.7115,book,0.7088
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,2.5,True,0.4387,0.4787,book,0.4715
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,3.5,False,0.2264,0.2773,book,0.2681
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,fg3m,4.5,False,0.0926,0.1465,book,0.1368
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,0.5,False,0.6596,0.6505,book,0.6522
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,1.5,False,0.3067,0.3126,book,0.3115
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,stl,2.5,False,0.1131,0.1246,book,0.1225
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,blk,0.5,False,0.2347,,model only,0.2347
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,blk,1.5,False,0.0323,,model only,0.0323
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,20.5,False,0.75,0.755,est,0.7541
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,21.5,False,0.7063,0.7118,est,0.7108
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,22.5,False,0.6582,0.6643,est,0.6632
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,23.5,False,0.6106,0.617,est,0.6158
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,24.5,False,0.5648,0.5714,est,0.5702
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,25.5,True,0.5161,0.5229,book,0.5217
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,26.5,False,0.466,0.4727,est,0.4715
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,27.5,False,0.4179,0.4245,est,0.4233
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,28.5,False,0.3759,0.3822,est,0.3811
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,29.5,False,0.3356,0.3416,est,0.3405
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,30.5,False,0.3004,0.3061,est,0.3051
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,17.5,False,0.7236,0.7217,est,0.7221
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,18.5,False,0.6726,0.6707,est,0.671
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,19.5,False,0.6192,0.6171,est,0.6175
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,20.5,False,0.5668,0.5646,est,0.565
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,21.5,True,0.5168,0.5145,book,0.5149
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,22.5,False,0.4662,0.4639,est,0.4643
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,23.5,False,0.4179,0.4158,est,0.4162
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,24.5,False,0.3707,0.3686,est,0.369
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,25.5,False,0.3272,0.3253,est,0.3256
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,17.5,False,0.6716,0.6824,est,0.6804
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,18.5,False,0.6207,0.6321,est,0.63
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,19.5,False,0.5697,0.5817,est,0.5795
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,20.5,False,0.5187,0.5309,est,0.5287
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,21.5,True,0.4676,0.4798,book,0.4776
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,22.5,False,0.4173,0.4293,est,0.4271
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,23.5,False,0.3695,0.3809,est,0.3788
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,24.5,False,0.3253,0.3362,est,0.3342
-401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,25.5,False,0.2844,0.2945,est,0.2926
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,20.5,False,0.75,0.7557,est,0.7546
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,21.5,False,0.7063,0.7126,est,0.7114
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,22.5,False,0.6582,0.6651,est,0.6638
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,23.5,False,0.6106,0.6179,est,0.6165
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,24.5,False,0.5648,0.5723,est,0.571
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,25.5,True,0.5161,0.5238,book,0.5224
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,26.5,False,0.466,0.4736,est,0.4723
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,27.5,False,0.4179,0.4254,est,0.4241
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,28.5,False,0.3759,0.3831,est,0.3818
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,29.5,False,0.3356,0.3424,est,0.3412
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pra,30.5,False,0.3004,0.3069,est,0.3057
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,17.5,False,0.7236,0.7195,est,0.7202
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,18.5,False,0.6726,0.6682,est,0.669
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,19.5,False,0.6192,0.6144,est,0.6153
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,20.5,False,0.5668,0.5619,est,0.5628
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,21.5,True,0.5168,0.5117,book,0.5126
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,22.5,False,0.4662,0.4611,est,0.462
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,23.5,False,0.4179,0.413,est,0.4139
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,24.5,False,0.3707,0.366,est,0.3668
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pr,25.5,False,0.3272,0.3228,est,0.3236
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,17.5,False,0.6716,0.6833,est,0.6812
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,18.5,False,0.6207,0.6331,est,0.6309
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,19.5,False,0.5697,0.5827,est,0.5804
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,20.5,False,0.5187,0.532,est,0.5296
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,21.5,True,0.4676,0.4809,book,0.4785
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,22.5,False,0.4173,0.4304,est,0.428
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,23.5,False,0.3695,0.382,est,0.3797
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,24.5,False,0.3253,0.3372,est,0.335
+401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,pa,25.5,False,0.2844,0.2954,est,0.2934
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ra,5.5,False,0.8423,0.8501,est,0.8486
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ra,6.5,False,0.7502,0.7613,est,0.7593
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ra,7.5,False,0.6345,0.6483,est,0.6458
@@ -593,30 +593,29 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ra,9.5,False,0.4031,0.4176,est,0.4149
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ra,10.5,False,0.3014,0.3141,est,0.3118
 401909324,SAC @ GSW,GSW,1641764,Brandin Podziemski,ra,11.5,False,0.2128,0.223,est,0.2212
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,2.5,False,0.8874,0.879,est,0.8805
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,3.5,False,0.8037,0.7905,est,0.7929
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,4.5,False,0.7061,0.6889,est,0.692
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,2.5,False,0.8874,0.8799,est,0.8812
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,3.5,False,0.8037,0.7919,est,0.794
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,4.5,False,0.7061,0.6907,est,0.6935
 401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,5.5,False,0.6044,0.5402,book,0.5518
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,6.5,True,0.5028,0.4825,book,0.4862
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,7.5,False,0.4055,0.4081,book,0.4076
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,8.5,False,0.3221,0.3046,est,0.3078
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,9.5,False,0.2516,0.2773,book,0.2727
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,10.5,False,0.1934,0.181,est,0.1832
-401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,0.5,False,0.8563,,model only,0.8563
-401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,1.5,False,0.6143,,model only,0.6143
-401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,2.5,False,0.3788,0.3878,book,0.3862
-401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,3.5,False,0.2025,0.2184,book,0.2155
-401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,4.5,False,0.095,0.1168,book,0.1129
-401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,5.5,False,0.0422,0.0623,book,0.0587
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,6.5,True,0.5028,0.4846,book,0.4879
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,7.5,False,0.4055,0.4135,book,0.412
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,8.5,False,0.3221,0.3064,est,0.3092
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,9.5,False,0.2516,0.2798,book,0.2747
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pts,10.5,False,0.1934,0.1822,est,0.1843
+401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,0.5,False,0.8563,0.8691,est,0.8668
+401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,1.5,False,0.6143,0.6396,est,0.635
+401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,2.5,True,0.3788,0.4046,book,0.3999
+401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,3.5,False,0.2025,0.2348,book,0.2289
+401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,4.5,False,0.095,0.1263,book,0.1206
+401909324,SAC @ GSW,GSW,1642954,Will Richard,reb,5.5,False,0.0422,0.0668,book,0.0623
 401909324,SAC @ GSW,GSW,1642954,Will Richard,ast,0.5,False,0.6946,,model only,0.6946
 401909324,SAC @ GSW,GSW,1642954,Will Richard,ast,1.5,False,0.36,,model only,0.36
 401909324,SAC @ GSW,GSW,1642954,Will Richard,ast,2.5,False,0.1495,,model only,0.1495
 401909324,SAC @ GSW,GSW,1642954,Will Richard,ast,3.5,False,0.0561,,model only,0.0561
 401909324,SAC @ GSW,GSW,1642954,Will Richard,ast,4.5,False,0.018,,model only,0.018
-401909324,SAC @ GSW,GSW,1642954,Will Richard,fg3m,0.5,False,0.5849,,model only,0.5849
-401909324,SAC @ GSW,GSW,1642954,Will Richard,fg3m,1.5,False,0.2048,,model only,0.2048
-401909324,SAC @ GSW,GSW,1642954,Will Richard,fg3m,2.5,False,0.0511,,model only,0.0511
-401909324,SAC @ GSW,GSW,1642954,Will Richard,fg3m,3.5,False,0.009,,model only,0.009
+401909324,SAC @ GSW,GSW,1642954,Will Richard,fg3m,0.5,True,0.5849,0.6256,book,0.6182
+401909324,SAC @ GSW,GSW,1642954,Will Richard,fg3m,1.5,False,0.2048,0.2986,book,0.2816
+401909324,SAC @ GSW,GSW,1642954,Will Richard,fg3m,2.5,False,0.0511,0.1168,book,0.1049
 401909324,SAC @ GSW,GSW,1642954,Will Richard,stl,0.5,False,0.6046,,model only,0.6046
 401909324,SAC @ GSW,GSW,1642954,Will Richard,stl,1.5,False,0.2661,,model only,0.2661
 401909324,SAC @ GSW,GSW,1642954,Will Richard,stl,2.5,False,0.0955,,model only,0.0955
@@ -633,15 +632,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1642954,Will Richard,pra,13.5,False,0.2625,,model only,0.2625
 401909324,SAC @ GSW,GSW,1642954,Will Richard,pra,14.5,False,0.2142,,model only,0.2142
 401909324,SAC @ GSW,GSW,1642954,Will Richard,pra,15.5,False,0.171,,model only,0.171
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,5.5,False,0.7759,,model only,0.7759
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,6.5,False,0.6943,,model only,0.6943
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,7.5,False,0.6065,,model only,0.6065
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,8.5,False,0.5177,0.5059,book,0.508
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,9.5,False,0.4364,0.4388,book,0.4384
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,10.5,False,0.3614,,model only,0.3614
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,11.5,False,0.2933,,model only,0.2933
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,12.5,False,0.233,,model only,0.233
-401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,13.5,False,0.1853,,model only,0.1853
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,4.5,False,0.8459,0.7879,book,0.7984
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,5.5,False,0.7759,0.7744,est,0.7747
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,6.5,False,0.6943,0.6924,est,0.6928
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,7.5,False,0.6065,0.6043,est,0.6047
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,8.5,True,0.5177,0.5155,book,0.5159
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,9.5,False,0.4364,0.4472,book,0.4452
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,10.5,False,0.3614,0.3594,est,0.3597
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,11.5,False,0.2933,0.2915,est,0.2918
+401909324,SAC @ GSW,GSW,1642954,Will Richard,pr,12.5,False,0.233,0.2315,est,0.2317
 401909324,SAC @ GSW,GSW,1642954,Will Richard,pa,4.5,False,0.7997,,model only,0.7997
 401909324,SAC @ GSW,GSW,1642954,Will Richard,pa,5.5,False,0.7136,,model only,0.7136
 401909324,SAC @ GSW,GSW,1642954,Will Richard,pa,6.5,False,0.6205,,model only,0.6205
@@ -661,24 +660,24 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,4.5,False,0.7969,0.8206,est,0.8163
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,5.5,False,0.7126,0.688,book,0.6924
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,6.5,False,0.623,0.6583,est,0.6519
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,7.5,False,0.5335,0.5317,book,0.532
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,7.5,False,0.5335,0.5326,book,0.5328
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,8.5,True,0.4492,0.4874,book,0.4805
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,9.5,False,0.3664,0.3846,book,0.3813
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,10.5,False,0.298,0.331,est,0.3251
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,11.5,False,0.2389,0.2603,book,0.2564
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,11.5,False,0.2389,0.2611,book,0.2571
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,pts,12.5,False,0.1911,0.2159,est,0.2114
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,1.5,False,0.8316,0.8854,est,0.8757
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,2.5,False,0.6643,0.7469,book,0.7319
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,1.5,False,0.8316,0.8862,est,0.8763
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,2.5,False,0.6643,0.7446,book,0.7301
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,3.5,False,0.4869,0.5935,book,0.5742
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,4.5,True,0.3295,0.4347,book,0.4157
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,5.5,False,0.2088,0.2986,book,0.2824
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,6.5,False,0.1224,0.1968,book,0.1833
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,7.5,False,0.0657,0.1246,book,0.1139
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,4.5,True,0.3295,0.4367,book,0.4173
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,5.5,False,0.2088,0.2939,book,0.2785
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,6.5,False,0.1224,0.1915,book,0.179
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,reb,7.5,False,0.0657,0.1198,book,0.11
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,0.5,False,0.8514,0.8542,est,0.8537
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,1.5,True,0.6103,0.6156,book,0.6146
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,2.5,False,0.3719,0.3799,book,0.3784
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,3.5,False,0.1986,0.2068,book,0.2053
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,4.5,False,0.0959,0.1038,book,0.1024
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,2.5,False,0.3719,0.3815,book,0.3798
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,3.5,False,0.1986,0.2077,book,0.206
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ast,4.5,False,0.0959,0.1027,book,0.1015
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,fg3m,0.5,False,0.5481,,model only,0.5481
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,fg3m,1.5,False,0.1869,,model only,0.1869
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,fg3m,2.5,False,0.045,,model only,0.045
@@ -687,42 +686,42 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,stl,1.5,False,0.1671,,model only,0.1671
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,blk,0.5,False,0.2319,,model only,0.2319
 401909324,SAC @ GSW,GSW,1630611,Gui Santos,blk,1.5,False,0.0326,,model only,0.0326
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,9.5,False,0.7633,0.7754,book,0.7732
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,10.5,False,0.7056,0.7451,est,0.7379
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,11.5,False,0.6431,0.6872,est,0.6792
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,12.5,False,0.5797,0.6271,est,0.6185
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,13.5,False,0.5179,0.567,est,0.5581
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,14.5,True,0.4574,0.5069,book,0.4979
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,15.5,False,0.3999,0.4483,est,0.4396
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,16.5,False,0.3451,0.3912,est,0.3829
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,17.5,False,0.294,0.3368,est,0.3291
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,18.5,False,0.2501,0.2891,est,0.282
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,19.5,False,0.212,0.2506,book,0.2436
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,8.5,False,0.7172,0.7573,est,0.75
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,9.5,False,0.6506,0.6961,est,0.6878
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,10.5,False,0.5788,0.6283,est,0.6194
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,11.5,False,0.5053,0.5568,est,0.5475
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,12.5,True,0.4402,0.4917,book,0.4824
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,13.5,False,0.3739,0.4235,est,0.4145
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,14.5,False,0.3146,0.3608,est,0.3525
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,15.5,False,0.265,0.3072,est,0.2996
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,16.5,False,0.2204,0.2581,est,0.2512
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,6.5,False,0.7705,0.7785,est,0.7771
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,7.5,False,0.6959,0.7055,est,0.7038
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,8.5,False,0.6197,0.6304,est,0.6285
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,9.5,False,0.5428,0.5541,est,0.552
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,10.5,True,0.4673,0.4787,book,0.4766
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,11.5,False,0.3972,0.4082,est,0.4062
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,12.5,False,0.335,0.3453,est,0.3434
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,13.5,False,0.2763,0.2855,est,0.2838
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,14.5,False,0.2257,0.2338,est,0.2323
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,3.5,False,0.7671,0.8226,est,0.8125
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,4.5,False,0.6413,0.7156,est,0.7022
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,5.5,False,0.51,0.5944,est,0.5791
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,6.5,True,0.389,0.4727,book,0.4576
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,7.5,False,0.2829,0.357,est,0.3436
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,8.5,False,0.1938,0.2529,est,0.2422
-401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,9.5,False,0.1315,0.1757,est,0.1677
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,9.5,False,0.7633,0.7796,book,0.7767
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,10.5,False,0.7056,0.7443,est,0.7373
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,11.5,False,0.6431,0.6864,est,0.6785
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,12.5,False,0.5797,0.6262,est,0.6178
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,13.5,False,0.5179,0.5661,est,0.5573
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,14.5,True,0.4574,0.5059,book,0.4971
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,15.5,False,0.3999,0.4473,est,0.4388
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,16.5,False,0.3451,0.3902,est,0.3821
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,17.5,False,0.294,0.3359,est,0.3283
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,18.5,False,0.2501,0.2883,est,0.2813
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pra,19.5,False,0.212,0.2472,book,0.2408
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,8.5,False,0.7172,0.7588,est,0.7513
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,9.5,False,0.6506,0.6977,est,0.6892
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,10.5,False,0.5788,0.6302,est,0.6209
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,11.5,False,0.5053,0.5588,est,0.5491
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,12.5,True,0.4402,0.4937,book,0.484
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,13.5,False,0.3739,0.4255,est,0.4161
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,14.5,False,0.3146,0.3627,est,0.354
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,15.5,False,0.265,0.3089,est,0.301
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pr,16.5,False,0.2204,0.2596,est,0.2525
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,6.5,False,0.7705,0.78,est,0.7783
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,7.5,False,0.6959,0.7073,est,0.7053
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,8.5,False,0.6197,0.6325,est,0.6302
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,9.5,False,0.5428,0.5563,est,0.5538
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,10.5,True,0.4673,0.4809,book,0.4784
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,11.5,False,0.3972,0.4103,est,0.408
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,12.5,False,0.335,0.3473,est,0.3451
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,13.5,False,0.2763,0.2873,est,0.2853
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,pa,14.5,False,0.2257,0.2354,est,0.2336
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,3.5,False,0.7671,0.8202,est,0.8106
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,4.5,False,0.6413,0.7123,est,0.6994
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,5.5,False,0.51,0.5904,est,0.5759
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,6.5,True,0.389,0.4686,book,0.4542
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,7.5,False,0.2829,0.3533,est,0.3405
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,8.5,False,0.1938,0.2498,est,0.2396
+401909324,SAC @ GSW,GSW,1630611,Gui Santos,ra,9.5,False,0.1315,0.1733,est,0.1657
 401909324,SAC @ GSW,GSW,1630314,Brandon Williams,pts,3.5,False,0.7922,,model only,0.7922
 401909324,SAC @ GSW,GSW,1630314,Brandon Williams,pts,4.5,False,0.7158,,model only,0.7158
 401909324,SAC @ GSW,GSW,1630314,Brandon Williams,pts,5.5,False,0.6375,,model only,0.6375
@@ -786,22 +785,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,GSW,1630314,Brandon Williams,ra,4.5,False,0.3535,,model only,0.3535
 401909324,SAC @ GSW,GSW,1630314,Brandon Williams,ra,5.5,False,0.2422,,model only,0.2422
 401909324,SAC @ GSW,GSW,1630314,Brandon Williams,ra,6.5,False,0.1574,,model only,0.1574
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,2.5,False,0.922,0.8927,est,0.898
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,3.5,False,0.854,0.8047,est,0.8136
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,4.5,False,0.7748,0.7078,est,0.7199
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,5.5,False,0.6839,0.5131,book,0.544
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,6.5,True,0.5905,0.5039,book,0.5196
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,7.5,False,0.499,0.4123,est,0.428
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,8.5,False,0.4099,0.3285,est,0.3432
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,9.5,False,0.3337,0.2607,est,0.2739
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,10.5,False,0.2665,0.2037,est,0.2151
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,2.5,False,0.8093,0.764,book,0.7722
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,3.5,False,0.6746,,model only,0.6746
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,4.5,False,0.5303,0.4874,book,0.4952
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,5.5,False,0.3899,0.3608,book,0.3661
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,6.5,False,0.2705,0.2479,book,0.252
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,7.5,False,0.1835,,model only,0.1835
-401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,8.5,False,0.1198,0.1087,book,0.1107
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,1.5,False,0.9667,0.934,est,0.9399
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,2.5,False,0.922,0.852,est,0.8646
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,3.5,False,0.854,0.7402,est,0.7608
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,4.5,False,0.7748,0.6262,est,0.6531
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,5.5,True,0.6839,0.5131,book,0.544
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,6.5,False,0.5905,0.4696,book,0.4915
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,7.5,False,0.499,0.3267,est,0.3579
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,8.5,False,0.4099,0.2528,est,0.2812
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,pts,9.5,False,0.3337,0.1961,est,0.221
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,2.5,False,0.8093,0.7582,book,0.7675
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,3.5,False,0.6746,0.6167,book,0.6272
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,4.5,False,0.5303,0.4742,book,0.4844
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,5.5,False,0.3899,0.3461,book,0.354
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,6.5,False,0.2705,0.2378,book,0.2437
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,7.5,False,0.1835,0.1609,book,0.165
+401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,reb,8.5,False,0.1198,0.105,book,0.1077
 401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,ast,0.5,False,0.6464,,model only,0.6464
 401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,ast,1.5,False,0.2964,,model only,0.2964
 401909324,SAC @ GSW,SAC,1630173,Precious Achiuwa,ast,2.5,False,0.1093,,model only,0.1093
@@ -860,66 +859,66 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,26.5,False,0.3307,0.4228,est,0.4062
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,27.5,False,0.2941,0.3818,est,0.3659
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pts,28.5,False,0.2629,0.3459,est,0.3308
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,0.5,False,0.9618,0.9553,est,0.9565
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,1.5,False,0.8438,0.821,est,0.8251
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,2.5,False,0.6512,0.6043,book,0.6128
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,3.5,True,0.4501,0.4099,book,0.4172
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,4.5,False,0.2751,0.2453,book,0.2507
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,5.5,False,0.1502,0.1351,book,0.1378
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,6.5,False,0.0764,0.0742,book,0.0746
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,4.5,False,0.8579,0.8132,book,0.8213
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,5.5,False,0.7549,0.7099,book,0.718
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,6.5,False,0.6348,0.5845,book,0.5936
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,7.5,True,0.5096,0.4537,book,0.4638
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,8.5,False,0.3927,0.3302,book,0.3415
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,9.5,False,0.2868,0.2285,book,0.2391
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,10.5,False,0.1986,0.1479,book,0.1571
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,0.5,False,0.9275,0.8972,book,0.9027
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,1.5,False,0.752,0.7491,book,0.7496
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,2.5,True,0.522,0.55,book,0.5449
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,3.5,False,0.3071,0.3581,book,0.3489
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,4.5,False,0.1547,0.211,book,0.2008
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,0.5,False,0.6345,0.6833,book,0.6745
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,1.5,False,0.281,0.3449,book,0.3333
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,2.5,False,0.098,0.1444,book,0.136
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,0.5,False,0.9618,0.9532,est,0.9548
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,1.5,False,0.8438,0.8139,est,0.8193
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,2.5,False,0.6512,0.5996,book,0.6089
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,3.5,True,0.4501,0.3985,book,0.4078
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,4.5,False,0.2751,0.2384,book,0.245
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,5.5,False,0.1502,0.1316,book,0.135
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,reb,6.5,False,0.0764,0.0697,book,0.0709
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,4.5,False,0.8579,0.8148,book,0.8226
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,5.5,False,0.7549,0.7009,book,0.7107
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,6.5,False,0.6348,0.5723,book,0.5836
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,7.5,True,0.5096,0.4419,book,0.4542
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,8.5,False,0.3927,0.319,book,0.3323
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,9.5,False,0.2868,0.2139,book,0.2271
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ast,10.5,False,0.1986,0.1433,book,0.1533
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,0.5,False,0.9275,0.9034,book,0.9078
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,1.5,False,0.752,0.7628,book,0.7609
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,2.5,True,0.522,0.5592,book,0.5525
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,3.5,False,0.3071,0.3709,book,0.3594
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,fg3m,4.5,False,0.1547,0.2194,book,0.2077
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,0.5,False,0.6345,0.686,book,0.6767
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,1.5,False,0.281,0.3527,book,0.3397
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,stl,2.5,False,0.098,0.1481,book,0.139
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,blk,0.5,False,0.2517,,model only,0.2517
 401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,blk,1.5,False,0.0367,,model only,0.0367
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,30.5,False,0.6199,0.6807,est,0.6697
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,31.5,False,0.5821,0.6455,est,0.634
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,32.5,False,0.5456,0.6108,est,0.599
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,33.5,False,0.5068,0.5732,est,0.5612
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,34.5,False,0.4694,0.5362,est,0.5241
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,35.5,True,0.4324,0.4989,book,0.4869
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,36.5,False,0.3947,0.4601,est,0.4483
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,37.5,False,0.3621,0.4259,est,0.4144
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,38.5,False,0.3286,0.3901,est,0.3789
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,39.5,False,0.2992,0.3581,est,0.3474
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,40.5,False,0.27,0.3259,est,0.3158
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,23.5,False,0.5985,0.6787,est,0.6642
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,24.5,False,0.5555,0.6392,est,0.624
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,25.5,False,0.511,0.5969,est,0.5813
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,26.5,False,0.4703,0.5572,est,0.5415
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,27.5,True,0.4297,0.5164,book,0.5007
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,28.5,False,0.3909,0.4763,est,0.4609
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,29.5,False,0.3513,0.4342,est,0.4192
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,30.5,False,0.3178,0.3977,est,0.3832
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,31.5,False,0.2843,0.3602,est,0.3465
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,28.5,False,0.5662,0.6371,est,0.6243
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,29.5,False,0.5274,0.6002,est,0.587
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,30.5,False,0.4864,0.5602,est,0.5468
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,31.5,False,0.4504,0.5243,est,0.511
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,32.5,True,0.4121,0.4853,book,0.4721
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,33.5,False,0.3744,0.4459,est,0.433
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,34.5,False,0.3412,0.4106,est,0.398
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,35.5,False,0.309,0.3756,est,0.3636
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,36.5,False,0.2791,0.3424,est,0.3309
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,7.5,False,0.8374,0.7961,est,0.8035
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,8.5,False,0.7539,0.6989,est,0.7088
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,9.5,False,0.6565,0.5916,est,0.6034
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,10.5,True,0.5529,0.4838,book,0.4963
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,11.5,False,0.453,0.3856,est,0.3978
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,12.5,False,0.36,0.2989,est,0.31
-401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,13.5,False,0.2714,0.2202,est,0.2294
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,30.5,False,0.6199,0.6833,est,0.6718
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,31.5,False,0.5821,0.6482,est,0.6363
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,32.5,False,0.5456,0.6137,est,0.6014
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,33.5,False,0.5068,0.5761,est,0.5636
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,34.5,False,0.4694,0.5392,est,0.5266
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,35.5,True,0.4324,0.5019,book,0.4893
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,36.5,False,0.3947,0.4631,est,0.4507
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,37.5,False,0.3621,0.4288,est,0.4168
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,38.5,False,0.3286,0.3929,est,0.3813
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,39.5,False,0.2992,0.3608,est,0.3497
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pra,40.5,False,0.27,0.3285,est,0.3179
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,24.5,False,0.5555,0.6464,est,0.63
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,25.5,False,0.511,0.6045,est,0.5875
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,26.5,False,0.4703,0.565,est,0.5478
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,27.5,False,0.4297,0.5243,est,0.5072
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,28.5,True,0.3909,0.4842,book,0.4673
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,29.5,False,0.3513,0.442,est,0.4255
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,30.5,False,0.3178,0.4053,est,0.3894
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,31.5,False,0.2843,0.3675,est,0.3524
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pr,32.5,False,0.254,0.3324,est,0.3182
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,28.5,False,0.5662,0.6459,est,0.6314
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,29.5,False,0.5274,0.6093,est,0.5944
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,30.5,False,0.4864,0.5695,est,0.5545
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,31.5,False,0.4504,0.5338,est,0.5187
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,32.5,True,0.4121,0.4948,book,0.4798
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,33.5,False,0.3744,0.4553,est,0.4407
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,34.5,False,0.3412,0.4198,est,0.4056
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,35.5,False,0.309,0.3846,est,0.3709
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,pa,36.5,False,0.2791,0.351,est,0.338
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,7.5,False,0.8374,0.7873,est,0.7964
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,8.5,False,0.7539,0.6876,est,0.6996
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,9.5,False,0.6565,0.5788,est,0.5929
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,10.5,True,0.5529,0.4706,book,0.4855
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,11.5,False,0.453,0.3732,est,0.3876
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,12.5,False,0.36,0.288,est,0.301
+401909324,SAC @ GSW,SAC,905142620,Darius Acuff Jr.,ra,13.5,False,0.2714,0.2112,est,0.2221
 401909324,SAC @ GSW,SAC,1641778,Leaky Black,pts,0.5,False,0.9234,0.943,est,0.9394
 401909324,SAC @ GSW,SAC,1641778,Leaky Black,pts,1.5,False,0.7879,0.836,est,0.8273
 401909324,SAC @ GSW,SAC,1641778,Leaky Black,pts,2.5,False,0.628,0.6984,est,0.6857
@@ -1048,98 +1047,98 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1642928,Dylan Cardwell,ra,7.5,False,0.3526,,model only,0.3526
 401909324,SAC @ GSW,SAC,1642928,Dylan Cardwell,ra,8.5,False,0.2644,,model only,0.2644
 401909324,SAC @ GSW,SAC,1642928,Dylan Cardwell,ra,9.5,False,0.1954,,model only,0.1954
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,11.5,False,0.7554,0.7496,est,0.7507
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,12.5,False,0.6966,0.6899,est,0.6911
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,13.5,False,0.6354,0.6281,est,0.6295
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,14.5,False,0.575,0.5674,est,0.5688
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,15.5,True,0.514,0.5062,book,0.5076
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,16.5,False,0.4561,0.4484,est,0.4498
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,17.5,False,0.4028,0.3954,est,0.3967
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,18.5,False,0.3495,0.3424,est,0.3437
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,19.5,False,0.3045,0.298,est,0.2992
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,1.5,False,0.9431,0.9357,est,0.9371
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,2.5,False,0.8492,0.8066,book,0.8143
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,3.5,False,0.7058,0.6721,book,0.6782
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,4.5,True,0.5401,0.5078,book,0.5136
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,5.5,False,0.3771,0.3554,book,0.3593
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,6.5,False,0.2458,0.2302,book,0.233
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,7.5,False,0.1482,0.1431,book,0.144
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,0.5,False,0.913,0.8562,est,0.8665
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,1.5,True,0.7154,0.5878,book,0.6109
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,2.5,False,0.4705,0.3449,book,0.3676
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,3.5,False,0.2682,0.1744,book,0.1914
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,4.5,False,0.1324,0.0806,book,0.09
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,0.5,False,0.896,0.8456,book,0.8547
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,1.5,True,0.6624,0.614,book,0.6228
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,2.5,False,0.3892,0.3738,book,0.3766
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,3.5,False,0.182,0.1951,book,0.1927
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,11.5,False,0.7554,0.748,est,0.7493
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,12.5,False,0.6966,0.688,est,0.6896
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,13.5,False,0.6354,0.6261,est,0.6278
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,14.5,False,0.575,0.5652,est,0.567
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,15.5,True,0.514,0.504,book,0.5058
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,16.5,False,0.4561,0.4731,book,0.47
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,17.5,False,0.4028,0.3933,est,0.395
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,18.5,False,0.3495,0.3405,est,0.3421
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pts,19.5,False,0.3045,0.2961,est,0.2977
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,1.5,False,0.9431,0.9328,est,0.9347
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,2.5,False,0.8492,0.8003,book,0.8092
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,3.5,False,0.7058,0.6589,book,0.6674
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,4.5,True,0.5401,0.4958,book,0.5038
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,5.5,False,0.3771,0.3461,book,0.3517
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,6.5,False,0.2458,0.2247,book,0.2285
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,reb,7.5,False,0.1482,0.1364,book,0.1385
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,0.5,False,0.913,0.8615,est,0.8709
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,1.5,True,0.7154,0.5984,book,0.6196
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,2.5,False,0.4705,0.3554,book,0.3762
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,3.5,False,0.2682,0.1811,book,0.1969
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ast,4.5,False,0.1324,0.0865,book,0.0948
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,0.5,False,0.896,0.8447,book,0.854
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,1.5,True,0.6624,0.6172,book,0.6254
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,2.5,False,0.3892,0.3709,book,0.3742
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,fg3m,3.5,False,0.182,0.1955,book,0.1931
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,0.5,False,0.6152,0.5935,book,0.5974
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,1.5,False,0.2561,0.2533,book,0.2538
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,2.5,False,0.082,0.0925,book,0.0906
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,1.5,False,0.2561,0.2547,book,0.255
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,stl,2.5,False,0.082,0.0954,book,0.093
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,blk,0.5,False,0.225,,model only,0.225
 401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,blk,1.5,False,0.0277,,model only,0.0277
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,17.5,False,0.7913,0.7718,est,0.7753
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,18.5,False,0.7468,0.7246,est,0.7286
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,19.5,False,0.7005,0.676,est,0.6804
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,20.5,False,0.6503,0.624,est,0.6287
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,21.5,False,0.5956,0.5678,est,0.5729
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,22.5,True,0.5411,0.5126,book,0.5177
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,23.5,False,0.491,0.4625,est,0.4677
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,24.5,False,0.4432,0.4153,est,0.4204
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,25.5,False,0.3972,0.3702,est,0.3751
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,26.5,False,0.3535,0.3279,est,0.3325
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,27.5,False,0.3104,0.2865,est,0.2908
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,16.5,False,0.7307,0.7259,est,0.7268
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,17.5,False,0.6795,0.6742,est,0.6752
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,18.5,False,0.6222,0.6166,est,0.6176
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,19.5,False,0.569,0.5631,est,0.5642
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,20.5,True,0.5129,0.5069,book,0.508
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,21.5,False,0.4612,0.4552,est,0.4563
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,22.5,False,0.4098,0.404,est,0.405
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,23.5,False,0.361,0.3555,est,0.3565
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,24.5,False,0.3189,0.3137,est,0.3146
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,13.5,False,0.7701,0.75,est,0.7536
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,14.5,False,0.7174,0.6945,est,0.6987
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,15.5,False,0.663,0.638,est,0.6425
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,16.5,False,0.6063,0.5798,est,0.5846
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,17.5,True,0.5474,0.5201,book,0.5251
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,18.5,False,0.4898,0.4624,est,0.4673
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,19.5,False,0.4365,0.4096,est,0.4145
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,20.5,False,0.3848,0.3591,est,0.3638
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,21.5,False,0.3401,0.3159,est,0.3203
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,3.5,False,0.9224,0.8906,est,0.8964
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,4.5,False,0.842,0.7849,est,0.7952
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,5.5,False,0.7348,0.6547,est,0.6692
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,6.5,True,0.6073,0.5142,book,0.5311
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,7.5,False,0.4742,0.3816,est,0.3984
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,8.5,False,0.3515,0.2706,est,0.2853
-401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,9.5,False,0.2477,0.1839,est,0.1954
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,7.5,False,0.6079,0.7296,book,0.7076
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,8.5,False,0.5276,0.6948,est,0.6645
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,9.5,False,0.4508,0.6112,book,0.5822
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,10.5,False,0.381,0.5565,est,0.5247
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,11.5,True,0.3183,0.4877,book,0.457
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,17.5,False,0.7913,0.7777,est,0.7802
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,18.5,False,0.7468,0.7312,est,0.734
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,19.5,False,0.7005,0.6833,est,0.6864
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,20.5,False,0.6503,0.6318,est,0.6352
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,21.5,False,0.5956,0.5761,est,0.5796
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,22.5,True,0.5411,0.521,book,0.5246
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,23.5,False,0.491,0.4709,est,0.4745
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,24.5,False,0.4432,0.4235,est,0.4271
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,25.5,False,0.3972,0.3781,est,0.3815
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,26.5,False,0.3535,0.3353,est,0.3386
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pra,27.5,False,0.3104,0.2934,est,0.2965
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,16.5,False,0.7307,0.732,est,0.7317
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,17.5,False,0.6795,0.6809,est,0.6806
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,18.5,False,0.6222,0.6238,est,0.6235
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,19.5,False,0.569,0.5706,est,0.5703
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,20.5,True,0.5129,0.5145,book,0.5142
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,21.5,False,0.4612,0.4627,est,0.4625
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,22.5,False,0.4098,0.4113,est,0.411
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,23.5,False,0.361,0.3625,est,0.3623
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pr,24.5,False,0.3189,0.3203,est,0.32
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,14.5,False,0.7174,0.7128,est,0.7136
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,15.5,False,0.663,0.6579,est,0.6588
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,16.5,False,0.6063,0.6009,est,0.6019
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,17.5,False,0.5474,0.5419,est,0.5429
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,18.5,True,0.4898,0.4842,book,0.4852
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,19.5,False,0.4365,0.4309,est,0.4319
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,20.5,False,0.3848,0.3795,est,0.3805
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,21.5,False,0.3401,0.3351,est,0.336
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,pa,22.5,False,0.2976,0.2929,est,0.2938
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,3.5,False,0.9224,0.8874,est,0.8938
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,4.5,False,0.842,0.7794,est,0.7907
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,5.5,False,0.7348,0.6474,est,0.6632
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,6.5,True,0.6073,0.5061,book,0.5244
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,7.5,False,0.4742,0.374,est,0.3921
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,8.5,False,0.3515,0.2643,est,0.2801
+401909324,SAC @ GSW,SAC,1629631,De'Andre Hunter,ra,9.5,False,0.2477,0.1791,est,0.1915
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,6.5,False,0.6889,0.7831,est,0.7661
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,7.5,False,0.6079,0.7165,est,0.6969
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,8.5,False,0.5276,0.6455,est,0.6242
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,9.5,False,0.4508,0.5724,est,0.5504
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,10.5,True,0.381,0.5009,book,0.4792
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,11.5,False,0.3183,0.5042,book,0.4706
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,12.5,False,0.2633,0.4783,book,0.4394
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,13.5,False,0.2155,0.359,est,0.333
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,14.5,False,0.1756,0.3223,book,0.2957
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,15.5,False,0.1404,0.2497,est,0.23
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,13.5,False,0.2155,0.3093,est,0.2924
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pts,14.5,False,0.1756,0.2577,est,0.2429
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,reb,0.5,False,0.8002,,model only,0.8002
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,reb,1.5,False,0.5179,,model only,0.5179
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,reb,2.5,False,0.2821,,model only,0.2821
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,reb,3.5,False,0.1307,,model only,0.1307
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,reb,4.5,False,0.0521,,model only,0.0521
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,reb,5.5,False,0.0207,,model only,0.0207
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,0.5,False,0.9422,0.96,est,0.9568
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,1.5,False,0.8106,0.8629,est,0.8534
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,2.5,False,0.641,0.725,book,0.7098
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,3.5,True,0.4624,0.5585,book,0.5411
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,4.5,False,0.3077,0.3878,book,0.3733
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,5.5,False,0.1933,0.2499,book,0.2397
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,6.5,False,0.1129,0.151,book,0.1441
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,0.5,False,0.7307,0.8048,book,0.7914
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,1.5,True,0.3776,0.55,book,0.5188
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,2.5,False,0.148,0.319,book,0.288
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,3.5,False,0.0468,0.1631,book,0.142
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,0.5,False,0.9422,0.9531,est,0.9511
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,1.5,False,0.8106,0.8421,est,0.8364
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,2.5,False,0.641,0.6886,book,0.68
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,3.5,True,0.4624,0.5174,book,0.5074
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,4.5,False,0.3077,0.35,book,0.3423
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,5.5,False,0.1933,0.2204,book,0.2155
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,ast,6.5,False,0.1129,0.1298,book,0.1267
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,0.5,False,0.7307,0.7793,book,0.7705
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,1.5,True,0.3776,0.5136,book,0.489
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,2.5,False,0.148,0.2902,book,0.2645
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,fg3m,3.5,False,0.0468,0.1495,book,0.1309
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,stl,0.5,False,0.4301,,model only,0.4301
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,stl,1.5,False,0.1274,,model only,0.1274
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,blk,0.5,False,0.2642,,model only,0.2642
@@ -1164,15 +1163,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,pr,13.5,False,0.3247,,model only,0.3247
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,pr,14.5,False,0.2748,,model only,0.2748
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,pr,15.5,False,0.2277,,model only,0.2277
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,11.5,False,0.5607,0.7238,est,0.6943
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,12.5,False,0.4977,0.6704,est,0.6391
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,13.5,False,0.4357,0.6132,est,0.5811
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,14.5,False,0.3777,0.5548,est,0.5227
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,15.5,True,0.3257,0.4979,book,0.4667
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,16.5,False,0.2753,0.4381,est,0.4086
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,17.5,False,0.2342,0.3857,est,0.3583
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,18.5,False,0.1954,0.3327,est,0.3078
-401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,19.5,False,0.1663,0.2905,est,0.2681
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,10.5,False,0.6271,0.7316,est,0.7127
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,11.5,False,0.5607,0.6741,est,0.6536
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,12.5,False,0.4977,0.6161,est,0.5947
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,13.5,False,0.4357,0.5558,est,0.534
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,14.5,True,0.3777,0.4958,book,0.4744
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,15.5,False,0.3257,0.439,est,0.4185
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,16.5,False,0.2753,0.3809,est,0.3618
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,17.5,False,0.2342,0.3313,est,0.3138
+401909324,SAC @ GSW,SAC,1628370,Malik Monk,pa,18.5,False,0.1954,0.2824,est,0.2666
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,2.5,False,0.8331,,model only,0.8331
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,3.5,False,0.7123,,model only,0.7123
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,4.5,False,0.5767,,model only,0.5767
@@ -1180,66 +1179,66 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,6.5,False,0.3252,,model only,0.3252
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,7.5,False,0.2236,,model only,0.2236
 401909324,SAC @ GSW,SAC,1628370,Malik Monk,ra,8.5,False,0.1502,,model only,0.1502
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,9.5,False,0.7396,0.764,est,0.7596
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,10.5,False,0.671,0.6992,est,0.6941
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,11.5,False,0.5986,0.6296,est,0.624
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,9.5,False,0.7396,0.7676,est,0.7626
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,10.5,False,0.671,0.7035,est,0.6976
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,11.5,False,0.5986,0.6344,est,0.6279
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,12.5,False,0.526,0.5325,book,0.5313
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,13.5,True,0.4577,0.4903,book,0.4844
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,14.5,False,0.3914,0.423,est,0.4173
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,15.5,False,0.3316,0.3612,est,0.3559
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,16.5,False,0.2794,0.3066,est,0.3017
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,17.5,False,0.2303,0.2543,est,0.25
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,2.5,False,0.8952,0.8402,book,0.8502
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,3.5,False,0.7835,0.7241,book,0.7349
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,4.5,False,0.6354,0.5792,book,0.5894
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,5.5,True,0.478,0.4327,book,0.4409
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,6.5,False,0.3354,0.2976,book,0.3044
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,7.5,False,0.2179,0.1955,book,0.1996
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,8.5,False,0.1325,0.123,book,0.1247
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,0.5,False,0.8319,0.8055,est,0.8103
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,1.5,True,0.5464,0.5019,book,0.51
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,2.5,False,0.2872,0.2568,book,0.2623
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,3.5,False,0.1247,0.1154,book,0.1171
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,4.5,False,0.0471,0.0537,book,0.0525
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,13.5,True,0.4577,0.4954,book,0.4886
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,14.5,False,0.3914,0.428,est,0.4214
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,15.5,False,0.3316,0.366,est,0.3597
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,16.5,False,0.2794,0.3109,est,0.3052
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pts,17.5,False,0.2303,0.2582,est,0.2532
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,1.5,False,0.9647,0.9539,est,0.9559
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,2.5,False,0.8952,0.8372,book,0.8477
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,3.5,False,0.7835,0.7126,book,0.7254
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,4.5,True,0.6354,0.5688,book,0.5809
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,5.5,False,0.478,0.421,book,0.4313
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,6.5,False,0.3354,0.2893,book,0.2976
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,reb,7.5,False,0.2179,0.1858,book,0.1916
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,0.5,False,0.8319,0.8079,est,0.8123
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,1.5,True,0.5464,0.5058,book,0.5131
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,2.5,False,0.2872,0.2625,book,0.267
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,3.5,False,0.1247,0.1214,book,0.122
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ast,4.5,False,0.0471,0.0556,book,0.0541
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,0.5,False,0.8317,0.8009,book,0.8065
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,1.5,True,0.5179,0.53,book,0.5278
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,2.5,False,0.2447,0.2902,book,0.282
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,fg3m,3.5,False,0.0852,0.1383,book,0.1287
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,0.5,False,0.6213,0.6597,book,0.6528
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,1.5,False,0.2656,0.3268,book,0.3157
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,2.5,False,0.0895,0.1353,book,0.127
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,blk,0.5,False,0.61,0.6899,book,0.6754
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,blk,1.5,False,0.2564,0.3581,book,0.3397
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,blk,2.5,False,0.0802,0.152,book,0.139
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,15.5,False,0.779,0.7815,est,0.7811
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,16.5,False,0.7263,0.7292,est,0.7287
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,17.5,False,0.6702,0.6735,est,0.6729
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,18.5,False,0.6146,0.6181,est,0.6175
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,19.5,False,0.5524,0.5561,est,0.5554
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,20.5,True,0.4921,0.4958,book,0.4951
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,21.5,False,0.4324,0.436,est,0.4354
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,22.5,False,0.3801,0.3836,est,0.383
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,23.5,False,0.3311,0.3344,est,0.3338
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,24.5,False,0.2831,0.2861,est,0.2856
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,25.5,False,0.2412,0.2439,est,0.2434
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,14.5,False,0.7432,0.7541,est,0.7521
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,15.5,False,0.6856,0.698,est,0.6957
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,16.5,False,0.6261,0.6396,est,0.6371
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,17.5,False,0.5615,0.5758,est,0.5732
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,18.5,True,0.4991,0.5136,book,0.511
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,19.5,False,0.4407,0.455,est,0.4524
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,20.5,False,0.3833,0.3971,est,0.3946
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,21.5,False,0.3276,0.3405,est,0.3381
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,22.5,False,0.2828,0.2947,est,0.2926
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,11.5,False,0.7188,0.7421,est,0.7379
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,12.5,False,0.6543,0.6805,est,0.6758
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,13.5,False,0.5872,0.6155,est,0.6104
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,14.5,False,0.5192,0.5486,est,0.5432
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,15.5,True,0.4504,0.4798,book,0.4745
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,16.5,False,0.3891,0.4176,est,0.4124
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,17.5,False,0.331,0.3577,est,0.3528
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,18.5,False,0.2794,0.3039,est,0.2994
-401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,19.5,False,0.2311,0.2528,est,0.2489
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,1.5,False,0.2656,0.319,book,0.3093
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,stl,2.5,False,0.0895,0.1335,book,0.1255
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,blk,0.5,False,0.61,0.6847,book,0.6712
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,blk,1.5,False,0.2564,0.3513,book,0.3341
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,blk,2.5,False,0.0802,0.1481,book,0.1358
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,15.5,False,0.779,0.7822,est,0.7816
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,16.5,False,0.7263,0.73,est,0.7293
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,17.5,False,0.6702,0.6743,est,0.6736
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,18.5,False,0.6146,0.619,est,0.6182
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,19.5,False,0.5524,0.557,est,0.5562
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,20.5,True,0.4921,0.4968,book,0.4959
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,21.5,False,0.4324,0.437,est,0.4362
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,22.5,False,0.3801,0.3845,est,0.3837
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,23.5,False,0.3311,0.3353,est,0.3345
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,24.5,False,0.2831,0.2869,est,0.2862
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pra,25.5,False,0.2412,0.2447,est,0.244
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,14.5,False,0.7432,0.7505,est,0.7492
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,15.5,False,0.6856,0.6939,est,0.6924
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,16.5,False,0.6261,0.6351,est,0.6335
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,17.5,False,0.5615,0.5711,est,0.5694
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,18.5,True,0.4991,0.5088,book,0.507
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,19.5,False,0.4407,0.4503,est,0.4486
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,20.5,False,0.3833,0.3925,est,0.3908
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,21.5,False,0.3276,0.3362,est,0.3346
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pr,22.5,False,0.2828,0.2907,est,0.2893
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,11.5,False,0.7188,0.7479,est,0.7426
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,12.5,False,0.6543,0.6871,est,0.6812
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,13.5,False,0.5872,0.6227,est,0.6163
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,14.5,False,0.5192,0.5561,est,0.5494
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,15.5,True,0.4504,0.4874,book,0.4807
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,16.5,False,0.3891,0.425,est,0.4185
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,17.5,False,0.331,0.3647,est,0.3586
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,18.5,False,0.2794,0.3103,est,0.3047
+401909324,SAC @ GSW,SAC,1631099,Keegan Murray,pa,19.5,False,0.2311,0.2586,est,0.2536
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,3.5,False,0.9167,0.8932,est,0.8975
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,4.5,False,0.8366,0.7955,est,0.8029
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,5.5,False,0.727,0.6694,est,0.6798
@@ -1248,28 +1247,28 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,8.5,False,0.3392,0.2807,est,0.2913
 401909324,SAC @ GSW,SAC,1631099,Keegan Murray,ra,9.5,False,0.2376,0.1915,est,0.1998
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,10.5,False,0.7428,0.7528,est,0.751
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,11.5,False,0.681,0.6792,book,0.6795
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,11.5,False,0.681,0.6806,book,0.6807
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,12.5,False,0.6129,0.6255,est,0.6232
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,13.5,False,0.5488,0.562,est,0.5596
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,14.5,True,0.4867,0.5,book,0.4976
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,15.5,False,0.4274,0.5203,book,0.5035
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,16.5,False,0.3712,0.3837,est,0.3814
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,17.5,False,0.3168,0.3268,book,0.325
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,17.5,False,0.3168,0.3314,book,0.3288
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pts,18.5,False,0.2683,0.2789,est,0.277
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,10.5,False,0.6371,0.7182,book,0.7035
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,11.5,False,0.5429,0.6416,book,0.6237
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,12.5,False,0.4498,0.5592,book,0.5394
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,13.5,True,0.364,0.4742,book,0.4543
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,14.5,False,0.2873,0.3927,book,0.3736
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,15.5,False,0.2237,0.3168,book,0.2999
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,16.5,False,0.1673,0.2479,book,0.2333
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,1.5,False,0.962,0.9513,est,0.9533
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,2.5,False,0.8941,0.8472,book,0.8557
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,3.5,False,0.7751,0.7241,book,0.7333
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,4.5,True,0.633,0.5709,book,0.5821
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,5.5,False,0.4832,0.4099,book,0.4232
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,6.5,False,0.3448,0.2781,book,0.2902
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,10.5,False,0.6371,0.7115,book,0.698
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,11.5,False,0.5429,0.636,book,0.6191
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,12.5,False,0.4498,0.5531,book,0.5344
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,13.5,True,0.364,0.4661,book,0.4476
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,14.5,False,0.2873,0.3846,book,0.367
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,15.5,False,0.2237,0.3084,book,0.2931
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,reb,16.5,False,0.1673,0.2403,book,0.2271
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,2.5,False,0.8941,0.8526,book,0.8601
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,3.5,False,0.7751,0.731,book,0.739
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,4.5,False,0.633,0.5765,book,0.5867
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,5.5,True,0.4832,0.4201,book,0.4315
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,6.5,False,0.3448,0.2815,book,0.2929
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,7.5,False,0.2313,0.1757,book,0.1858
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ast,8.5,False,0.1479,0.1038,book,0.1118
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,fg3m,0.5,False,0.28,,model only,0.28
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,fg3m,1.5,False,0.0482,,model only,0.0482
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,fg3m,2.5,False,0.0055,,model only,0.0055
@@ -1278,51 +1277,51 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,stl,2.5,False,0.0537,0.0792,book,0.0746
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,blk,0.5,False,0.2686,,model only,0.2686
 401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,blk,1.5,False,0.043,,model only,0.043
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,28.5,False,0.6632,0.6982,est,0.6919
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,29.5,False,0.6219,0.659,est,0.6523
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,30.5,False,0.5796,0.6183,est,0.6113
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,31.5,False,0.5342,0.574,est,0.5668
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,32.5,False,0.4925,0.5329,est,0.5256
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,33.5,True,0.4515,0.4917,book,0.4844
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,34.5,False,0.4106,0.4501,est,0.443
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,35.5,False,0.3699,0.4082,est,0.4013
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,36.5,False,0.3306,0.3673,est,0.3607
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,37.5,False,0.2963,0.331,est,0.3247
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,38.5,False,0.2633,0.2958,est,0.29
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,24.5,False,0.6038,0.6664,est,0.6551
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,25.5,False,0.5551,0.6205,est,0.6086
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,26.5,False,0.5059,0.573,est,0.5608
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,27.5,False,0.4611,0.5286,est,0.5164
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,28.5,True,0.413,0.4798,book,0.4677
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,29.5,False,0.3687,0.4336,est,0.4218
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,30.5,False,0.3284,0.3906,est,0.3793
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,31.5,False,0.2922,0.351,est,0.3404
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,32.5,False,0.2564,0.3113,est,0.3013
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,15.5,False,0.7449,0.7344,est,0.7363
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,16.5,False,0.6912,0.6794,est,0.6815
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,17.5,False,0.6389,0.6262,est,0.6285
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,18.5,False,0.5812,0.5678,est,0.5702
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,19.5,True,0.5272,0.5136,book,0.5161
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,20.5,False,0.4713,0.4577,est,0.4601
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,21.5,False,0.419,0.4058,est,0.4082
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,22.5,False,0.3696,0.357,est,0.3593
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,23.5,False,0.3245,0.3126,est,0.3148
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,15.5,False,0.6553,0.7092,est,0.6995
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,16.5,False,0.582,0.6411,est,0.6304
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,17.5,False,0.5107,0.5724,est,0.5612
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,18.5,True,0.4371,0.499,book,0.4878
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,19.5,False,0.3669,0.4263,est,0.4156
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,20.5,False,0.3031,0.3581,est,0.3481
-401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,21.5,False,0.247,0.2962,est,0.2873
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,0.5,False,0.9944,0.9813,est,0.9837
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,1.5,False,0.972,0.9104,est,0.9216
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,2.5,False,0.9316,0.7996,est,0.8235
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,3.5,False,0.8673,0.6569,est,0.695
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,4.5,True,0.7874,0.5203,book,0.5687
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,5.5,False,0.6926,0.3975,est,0.4509
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,6.5,False,0.5887,0.2953,est,0.3484
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,7.5,False,0.4852,0.2163,est,0.2649
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,8.5,False,0.3952,0.1606,est,0.2031
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,28.5,False,0.6632,0.6973,est,0.6911
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,29.5,False,0.6219,0.6581,est,0.6515
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,30.5,False,0.5796,0.6173,est,0.6105
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,31.5,False,0.5342,0.5729,est,0.5659
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,32.5,False,0.4925,0.5318,est,0.5247
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,33.5,True,0.4515,0.4906,book,0.4835
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,34.5,False,0.4106,0.4491,est,0.4421
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,35.5,False,0.3699,0.4072,est,0.4004
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,36.5,False,0.3306,0.3663,est,0.3598
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,37.5,False,0.2963,0.33,est,0.3239
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pra,38.5,False,0.2633,0.2949,est,0.2892
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,23.5,False,0.6529,,model only,0.6529
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,24.5,False,0.6038,0.6531,book,0.6442
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,25.5,False,0.5551,,model only,0.5551
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,26.5,False,0.5059,,model only,0.5059
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,27.5,False,0.4611,,model only,0.4611
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,28.5,False,0.413,,model only,0.413
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,29.5,False,0.3687,0.4327,book,0.4211
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,30.5,False,0.3284,,model only,0.3284
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pr,31.5,False,0.2922,,model only,0.2922
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,15.5,False,0.7449,0.7351,est,0.7369
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,16.5,False,0.6912,0.6802,est,0.6822
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,17.5,False,0.6389,0.627,est,0.6292
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,18.5,False,0.5812,0.5687,est,0.571
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,19.5,True,0.5272,0.5145,book,0.5168
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,20.5,False,0.4713,0.4586,est,0.4609
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,21.5,False,0.419,0.4067,est,0.4089
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,22.5,False,0.3696,0.3579,est,0.36
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,pa,23.5,False,0.3245,0.3134,est,0.3154
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,15.5,False,0.6553,0.7017,est,0.6933
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,16.5,False,0.582,0.6326,est,0.6235
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,17.5,False,0.5107,0.5634,est,0.5539
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,18.5,True,0.4371,0.4899,book,0.4803
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,19.5,False,0.3669,0.4175,est,0.4083
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,20.5,False,0.3031,0.3498,est,0.3413
+401909324,SAC @ GSW,SAC,1627734,Domantas Sabonis,ra,21.5,False,0.247,0.2887,est,0.2811
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,1.5,False,0.972,0.9404,est,0.9461
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,2.5,False,0.9316,0.861,est,0.8738
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,3.5,False,0.8673,0.7482,est,0.7697
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,4.5,False,0.7874,0.5203,book,0.5687
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,5.5,True,0.6926,0.5059,book,0.5397
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,6.5,False,0.5887,0.394,est,0.4293
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,7.5,False,0.4852,0.3527,book,0.3767
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,8.5,False,0.3952,0.2289,est,0.259
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,pts,9.5,False,0.3148,0.2204,book,0.2375
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,reb,0.5,False,0.819,,model only,0.819
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,reb,1.5,False,0.536,,model only,0.536
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,reb,2.5,False,0.2862,,model only,0.2862
@@ -1334,10 +1333,10 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,ast,2.5,False,0.1537,,model only,0.1537
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,ast,3.5,False,0.0509,,model only,0.0509
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,ast,4.5,False,0.0144,,model only,0.0144
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,0.5,False,0.7752,,model only,0.7752
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,1.5,False,0.4065,,model only,0.4065
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,2.5,False,0.1427,,model only,0.1427
-401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,3.5,False,0.0375,,model only,0.0375
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,0.5,False,0.7752,0.6962,book,0.7105
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,1.5,True,0.4065,0.3776,book,0.3828
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,2.5,False,0.1427,0.1684,book,0.1637
+401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,fg3m,3.5,False,0.0375,0.0708,book,0.0648
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,stl,0.5,False,0.5985,,model only,0.5985
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,stl,1.5,False,0.2481,,model only,0.2481
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,stl,2.5,False,0.0838,,model only,0.0838
