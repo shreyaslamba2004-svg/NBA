@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-SAC @ GSW,SAC +7.5 + Domantas Sabonis 15+ pa,2,0.3327,0.4117,2.43,2.55,2.37,-0.0231,1.057,2.10-2.50
-SAC @ GSW,Draymond Green 5+ ast + GSW win,2,0.55,0.401,2.49,2.62,2.42,-0.031,1.02,2.10-2.50
+SAC @ GSW,SAC +7.5 + Domantas Sabonis 15+ pa,2,0.3327,0.4139,2.42,2.54,2.36,-0.0243,1.057,2.10-2.50
 SAC @ GSW,SAC +7.5 + Domantas Sabonis 10+ pts,2,0.332,0.4166,2.4,2.52,2.31,-0.037,1.046,2.10-2.50
-SAC @ GSW,GSW win + Draymond Green 4+ ast,2,0.6486,0.5117,1.95,2.05,1.85,-0.0549,1.015,1.65-1.85
+SAC @ GSW,Draymond Green 5+ ast + GSW win,2,0.55,0.4163,2.4,2.52,2.31,-0.0381,1.02,2.10-2.50
 SAC @ GSW,SAC +7.5 + Darius Acuff Jr. 4+ ast,2,0.3622,0.4513,2.22,2.33,2.08,-0.0625,1.016,1.85-2.10
 SAC @ GSW,Malik Monk pa under 15.5 + Draymond Green 5+ pr,2,0.6097,0.4636,2.16,2.26,2.02,-0.0633,1.001,1.85-2.10
 SAC @ GSW,Malik Monk pts under 11.5 + Draymond Green 5+ pr,2,0.6147,0.4671,2.14,2.25,2.0,-0.0644,1.0,1.85-2.10
-SAC @ GSW,Domantas Sabonis 5+ ast + Draymond Green 5+ pr,2,0.6047,0.5193,1.93,2.02,1.76,-0.088,1.002,1.65-1.85
-SAC @ GSW,Domantas Sabonis 5+ ast + Darius Acuff Jr. 4+ ast,2,0.5976,0.5137,1.95,2.04,1.77,-0.0889,1.002,1.65-1.85
+SAC @ GSW,Draymond Green 5+ ast + Darius Acuff Jr. 4+ ast,2,0.6299,0.5074,1.97,2.07,1.82,-0.0772,1.001,1.65-1.85
+SAC @ GSW,Draymond Green 5+ ast + Darius Acuff Jr. 1+ 3pm,2,0.6342,0.5171,1.93,2.03,1.78,-0.0778,1.003,1.65-1.85
+SAC @ GSW,Gui Santos reb under 4.5 + Draymond Green 5+ pr,2,0.6121,0.5113,1.96,2.05,1.78,-0.0896,0.999,1.65-1.85
 SAC @ GSW,GSW win + Keegan Murray 1+ 3pm,2,0.6569,0.5657,1.77,1.86,1.6,-0.096,0.992,1.50-1.65
 SAC @ GSW,GSW win + Domantas Sabonis 10+ pts,2,0.6528,0.5614,1.78,1.87,1.6,-0.1015,0.985,1.50-1.65
-SAC @ GSW,GSW win + Domantas Sabonis 15+ pa,2,0.6447,0.5467,1.83,1.92,1.64,-0.1017,0.982,1.50-1.65
+SAC @ GSW,GSW win + Domantas Sabonis 15+ pa,2,0.6447,0.5496,1.82,1.91,1.63,-0.1029,0.982,1.50-1.65
 SAS @ POR,Julian Champagnie 3pm under 2.5 + Jrue Holiday 10+ pr,2,0.6042,0.4321,2.31,2.43,2.2,-0.0497,1.0,2.10-2.50
 SAS @ POR,Julian Champagnie 3pm under 2.5 + Donovan Clingan 15+ pra,2,0.617,0.4513,2.22,2.33,2.1,-0.0531,1.001,1.85-2.10
 SAS @ POR,Julian Champagnie 3pm under 2.5 + Sidy Cissoko 5+ pr,2,0.606,0.4387,2.28,2.39,2.16,-0.0543,0.998,2.10-2.50
