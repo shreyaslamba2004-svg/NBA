@@ -1314,67 +1314,67 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,ra,3.5,False,0.1832,,model only,0.1832
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,ra,4.5,False,0.0885,,model only,0.0885
 401909324,SAC @ GSW,SAC,905106058,Emanuel Sharp,ra,5.5,False,0.0388,,model only,0.0388
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,18.5,False,0.6756,0.6798,est,0.679
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,19.5,False,0.6358,0.6403,est,0.6394
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,20.5,False,0.5935,0.5981,est,0.5973
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,21.5,False,0.5461,0.5509,est,0.55
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,22.5,True,0.501,0.5059,book,0.505
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,23.5,False,0.4564,0.4613,est,0.4604
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,24.5,False,0.4132,0.4179,est,0.417
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,25.5,False,0.3766,0.3812,est,0.3804
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,26.5,False,0.3398,0.3441,est,0.3433
-401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,2.5,False,0.9447,0.8879,book,0.8982
-401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,3.5,False,0.8711,0.81,book,0.8211
-401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,4.5,False,0.7616,0.6956,book,0.7075
-401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,5.5,True,0.6315,0.5607,book,0.5735
-401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,6.5,False,0.4888,0.4287,book,0.4396
-401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,7.5,False,0.3587,0.3074,book,0.3167
-401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,8.5,False,0.245,0.2114,book,0.2175
-401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,2.5,False,0.9296,0.8939,book,0.9004
-401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,3.5,False,0.8387,0.8178,book,0.8216
-401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,4.5,False,0.7102,0.7015,book,0.7031
-401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,5.5,True,0.5668,0.5607,book,0.5618
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,18.5,False,0.6756,0.6806,est,0.6797
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,19.5,False,0.6358,0.6411,est,0.6401
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,20.5,False,0.5935,0.599,est,0.598
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,21.5,False,0.5461,0.5518,est,0.5507
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,22.5,True,0.501,0.5068,book,0.5058
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,23.5,False,0.4564,0.4622,est,0.4611
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,24.5,False,0.4132,0.4188,est,0.4177
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,25.5,False,0.3766,0.3821,est,0.3811
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pts,26.5,False,0.3398,0.345,est,0.344
+401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,2.5,False,0.9447,0.8864,book,0.897
+401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,3.5,False,0.8711,0.8066,book,0.8183
+401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,4.5,False,0.7616,0.6931,book,0.7055
+401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,5.5,True,0.6315,0.5577,book,0.5711
+401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,6.5,False,0.4888,0.4267,book,0.4379
+401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,7.5,False,0.3587,0.3084,book,0.3175
+401909325,SAS @ POR,POR,1630166,Deni Avdija,reb,8.5,False,0.245,0.2124,book,0.2183
+401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,2.5,False,0.9296,0.8921,book,0.8989
+401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,3.5,False,0.8387,0.8163,book,0.8203
+401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,4.5,False,0.7102,0.7003,book,0.7021
+401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,5.5,True,0.5668,0.5585,book,0.56
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,6.5,False,0.4295,0.4191,book,0.421
-401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,7.5,False,0.2982,0.2893,book,0.2909
+401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,7.5,False,0.2982,0.293,book,0.2939
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ast,8.5,False,0.2007,0.1903,book,0.1922
-401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,0.5,False,0.8563,0.81,book,0.8184
-401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,1.5,True,0.5954,0.5377,book,0.5481
-401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,2.5,False,0.335,0.2885,book,0.2969
-401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,3.5,False,0.1556,0.1378,book,0.141
+401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,0.5,False,0.8563,0.8066,book,0.8156
+401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,1.5,True,0.5954,0.5427,book,0.5522
+401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,2.5,False,0.335,0.2958,book,0.3029
+401909325,SAS @ POR,POR,1630166,Deni Avdija,fg3m,3.5,False,0.1556,0.1418,book,0.1443
 401909325,SAS @ POR,POR,1630166,Deni Avdija,stl,0.5,False,0.5652,0.6078,book,0.6001
 401909325,SAS @ POR,POR,1630166,Deni Avdija,stl,1.5,False,0.2147,0.2678,book,0.2582
 401909325,SAS @ POR,POR,1630166,Deni Avdija,stl,2.5,False,0.0627,0.0994,book,0.0927
 401909325,SAS @ POR,POR,1630166,Deni Avdija,blk,0.5,False,0.398,,model only,0.398
 401909325,SAS @ POR,POR,1630166,Deni Avdija,blk,1.5,False,0.0983,,model only,0.0983
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,30.5,False,0.6838,0.6754,est,0.6769
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,31.5,False,0.6487,0.6398,est,0.6414
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,32.5,False,0.6122,0.603,est,0.6047
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,33.5,False,0.5755,0.566,est,0.5677
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,34.5,False,0.5381,0.5285,est,0.5303
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,35.5,True,0.5013,0.4916,book,0.4933
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,36.5,False,0.4633,0.4538,est,0.4555
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,37.5,False,0.4287,0.4193,est,0.421
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,38.5,False,0.394,0.3848,est,0.3865
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,39.5,False,0.3621,0.3532,est,0.3548
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,40.5,False,0.3315,0.323,est,0.3246
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,24.5,False,0.69,0.6802,est,0.682
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,25.5,False,0.6511,0.6407,est,0.6426
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,26.5,False,0.6105,0.5996,est,0.6016
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,27.5,False,0.5735,0.5623,est,0.5643
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,28.5,True,0.5314,0.5201,book,0.5222
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,29.5,False,0.4921,0.4808,est,0.4828
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,30.5,False,0.4522,0.441,est,0.443
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,31.5,False,0.4128,0.4018,est,0.4038
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,32.5,False,0.3771,0.3664,est,0.3684
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,24.5,False,0.6739,0.6792,est,0.6782
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,25.5,False,0.6319,0.6375,est,0.6364
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,26.5,False,0.5926,0.5984,est,0.5973
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,27.5,False,0.5528,0.5588,est,0.5577
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,28.5,True,0.5141,0.5201,book,0.519
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,29.5,False,0.4716,0.4776,est,0.4765
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,30.5,False,0.4327,0.4386,est,0.4375
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,31.5,False,0.3968,0.4026,est,0.4016
-401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,32.5,False,0.3614,0.367,est,0.366
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,30.5,False,0.6838,0.6782,est,0.6792
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,31.5,False,0.6487,0.6428,est,0.6438
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,32.5,False,0.6122,0.6061,est,0.6072
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,33.5,False,0.5755,0.5692,est,0.5703
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,34.5,False,0.5381,0.5317,est,0.5329
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,35.5,True,0.5013,0.4948,book,0.496
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,36.5,False,0.4633,0.4569,est,0.4581
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,37.5,False,0.4287,0.4224,est,0.4235
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,38.5,False,0.394,0.3878,est,0.389
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,39.5,False,0.3621,0.3561,est,0.3572
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pra,40.5,False,0.3315,0.3258,est,0.3269
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,25.5,False,0.6511,0.658,est,0.6567
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,26.5,False,0.6105,0.6177,est,0.6164
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,27.5,False,0.5735,0.5809,est,0.5795
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,28.5,False,0.5314,0.539,est,0.5376
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,29.5,True,0.4921,0.4997,book,0.4983
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,30.5,False,0.4522,0.4597,est,0.4583
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,31.5,False,0.4128,0.4202,est,0.4188
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,32.5,False,0.3771,0.3842,est,0.3829
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pr,33.5,False,0.3419,0.3487,est,0.3475
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,25.5,False,0.6319,,model only,0.6319
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,26.5,False,0.5926,,model only,0.5926
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,27.5,False,0.5528,,model only,0.5528
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,28.5,False,0.5141,,model only,0.5141
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,29.5,False,0.4716,0.4831,book,0.481
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,30.5,False,0.4327,,model only,0.4327
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,31.5,False,0.3968,,model only,0.3968
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,32.5,False,0.3614,,model only,0.3614
+401909325,SAS @ POR,POR,1630166,Deni Avdija,pa,33.5,False,0.3275,,model only,0.3275
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ra,9.5,False,0.7851,0.7481,est,0.7548
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ra,10.5,False,0.7034,0.6584,est,0.6665
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ra,11.5,False,0.6089,0.5586,est,0.5677
@@ -1382,64 +1382,64 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ra,13.5,False,0.4169,0.3675,est,0.3764
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ra,14.5,False,0.3281,0.2841,est,0.292
 401909325,SAS @ POR,POR,1630166,Deni Avdija,ra,15.5,False,0.2517,0.2146,est,0.2213
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,6.5,False,0.8498,0.8341,est,0.8369
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,7.5,False,0.7803,0.7594,est,0.7632
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,8.5,False,0.706,0.6808,est,0.6854
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,9.5,False,0.6269,0.5988,est,0.6038
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,10.5,True,0.5469,0.5174,book,0.5227
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,11.5,False,0.4702,0.4408,est,0.4461
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,12.5,False,0.3939,0.366,est,0.371
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,13.5,False,0.3257,0.3002,est,0.3048
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,14.5,False,0.267,0.2445,est,0.2486
-401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,1.5,False,0.9331,0.9197,est,0.9222
-401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,2.5,False,0.8233,0.7674,book,0.7775
-401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,3.5,False,0.668,0.6134,book,0.6233
-401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,4.5,True,0.4973,0.4482,book,0.4571
-401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,5.5,False,0.3443,0.3064,book,0.3133
-401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,6.5,False,0.2195,0.1947,book,0.1992
-401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,7.5,False,0.131,0.1154,book,0.1182
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,6.5,False,0.8498,0.8346,est,0.8373
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,7.5,False,0.7803,0.76,est,0.7637
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,8.5,False,0.706,0.6816,est,0.686
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,9.5,False,0.6269,0.5996,est,0.6046
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,10.5,True,0.5469,0.5183,book,0.5235
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,11.5,False,0.4702,0.4417,est,0.4469
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,12.5,False,0.3939,0.3668,est,0.3717
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,13.5,False,0.3257,0.301,est,0.3055
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pts,14.5,False,0.267,0.2452,est,0.2491
+401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,1.5,False,0.9331,0.9201,est,0.9224
+401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,2.5,False,0.8233,0.7698,book,0.7795
+401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,3.5,False,0.668,0.6089,book,0.6196
+401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,4.5,True,0.4973,0.4493,book,0.458
+401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,5.5,False,0.3443,0.3074,book,0.3141
+401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,6.5,False,0.2195,0.1927,book,0.1975
+401909325,SAS @ POR,POR,1641739,Toumani Camara,reb,7.5,False,0.131,0.1198,book,0.1218
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ast,0.5,False,0.8184,,model only,0.8184
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ast,1.5,False,0.5169,,model only,0.5169
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ast,2.5,False,0.2557,,model only,0.2557
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ast,3.5,False,0.1121,,model only,0.1121
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ast,4.5,False,0.0384,,model only,0.0384
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ast,5.5,False,0.0126,,model only,0.0126
-401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,0.5,False,0.8884,0.8648,book,0.8691
-401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,1.5,False,0.6231,0.6522,book,0.6469
-401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,2.5,True,0.3223,0.4154,book,0.3986
-401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,3.5,False,0.1265,0.2268,book,0.2087
+401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,0.5,False,0.8884,0.8604,book,0.8655
+401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,1.5,False,0.6231,0.6531,book,0.6477
+401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,2.5,True,0.3223,0.4144,book,0.3977
+401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,3.5,False,0.1265,0.2247,book,0.2069
 401909325,SAS @ POR,POR,1641739,Toumani Camara,fg3m,4.5,False,0.0389,0.114,book,0.1004
-401909325,SAS @ POR,POR,1641739,Toumani Camara,stl,0.5,False,0.6273,0.6302,book,0.6297
-401909325,SAS @ POR,POR,1641739,Toumani Camara,stl,1.5,False,0.2729,0.2939,book,0.2901
-401909325,SAS @ POR,POR,1641739,Toumani Camara,stl,2.5,False,0.0931,0.1113,book,0.108
+401909325,SAS @ POR,POR,1641739,Toumani Camara,stl,0.5,False,0.6273,0.635,book,0.6336
+401909325,SAS @ POR,POR,1641739,Toumani Camara,stl,1.5,False,0.2729,0.2911,book,0.2878
+401909325,SAS @ POR,POR,1641739,Toumani Camara,stl,2.5,False,0.0931,0.1168,book,0.1125
 401909325,SAS @ POR,POR,1641739,Toumani Camara,blk,0.5,False,0.3786,,model only,0.3786
 401909325,SAS @ POR,POR,1641739,Toumani Camara,blk,1.5,False,0.0854,,model only,0.0854
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,13.5,False,0.7638,,model only,0.7638
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,14.5,False,0.7035,0.636,book,0.6482
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,14.5,False,0.7035,0.6311,book,0.6442
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,15.5,False,0.6431,,model only,0.6431
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,16.5,False,0.5753,,model only,0.5753
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,16.5,False,0.5753,0.5229,book,0.5324
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,17.5,False,0.5078,,model only,0.5078
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,18.5,False,0.4439,,model only,0.4439
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,19.5,False,0.3827,0.3679,book,0.3706
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,19.5,False,0.3827,0.3651,book,0.3683
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,20.5,False,0.3284,,model only,0.3284
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,21.5,False,0.2783,,model only,0.2783
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,22.5,False,0.2334,,model only,0.2334
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pra,23.5,False,0.1948,,model only,0.1948
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,11.5,False,0.7903,0.7646,est,0.7692
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,12.5,False,0.7292,0.6989,est,0.7044
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,13.5,False,0.6653,0.6315,est,0.6376
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,14.5,False,0.5964,0.5484,book,0.5571
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,15.5,True,0.5256,0.4885,book,0.4952
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,16.5,False,0.4561,0.4196,est,0.4262
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,17.5,False,0.3908,0.3561,est,0.3624
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,18.5,False,0.3348,0.3025,est,0.3084
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,19.5,False,0.2804,0.2832,book,0.2827
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,9.5,False,0.7515,0.6827,book,0.6951
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,11.5,False,0.7903,0.763,est,0.7679
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,12.5,False,0.7292,0.6971,est,0.7029
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,13.5,False,0.6653,0.6295,est,0.636
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,14.5,False,0.5964,0.5435,book,0.5531
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,15.5,True,0.5256,0.4863,book,0.4934
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,16.5,False,0.4561,0.4174,est,0.4244
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,17.5,False,0.3908,0.3541,est,0.3607
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,18.5,False,0.3348,0.3007,est,0.3068
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pr,19.5,False,0.2804,0.2849,book,0.2841
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,9.5,False,0.7515,0.684,book,0.6962
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,10.5,False,0.6771,,model only,0.6771
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,11.5,False,0.6016,,model only,0.6016
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,12.5,False,0.5279,,model only,0.5279
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,13.5,False,0.4529,,model only,0.4529
-401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,14.5,False,0.3847,0.383,book,0.3833
+401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,14.5,False,0.3847,0.3753,book,0.377
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,15.5,False,0.3223,,model only,0.3223
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,16.5,False,0.2677,,model only,0.2677
 401909325,SAS @ POR,POR,1641739,Toumani Camara,pa,17.5,False,0.2176,,model only,0.2176
@@ -1450,29 +1450,29 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ra,7.5,False,0.3345,,model only,0.3345
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ra,8.5,False,0.2295,,model only,0.2295
 401909325,SAS @ POR,POR,1641739,Toumani Camara,ra,9.5,False,0.1453,,model only,0.1453
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,2.5,False,0.9202,0.9112,est,0.9128
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,3.5,False,0.8393,0.823,est,0.8259
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,4.5,False,0.7432,0.7204,est,0.7245
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,5.5,False,0.6371,0.6098,est,0.6147
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,6.5,True,0.529,0.4999,book,0.5052
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,7.5,False,0.4305,0.4022,est,0.4073
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,8.5,False,0.3397,0.3141,est,0.3187
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,9.5,False,0.2621,0.2403,est,0.2442
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,10.5,False,0.1982,0.1804,est,0.1836
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,0.5,False,0.9505,0.9407,est,0.9425
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,1.5,False,0.8204,0.7907,est,0.7961
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,2.5,True,0.6384,0.5935,book,0.6016
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,2.5,False,0.9202,0.9125,est,0.9139
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,3.5,False,0.8393,0.8253,est,0.8278
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,4.5,False,0.7432,0.7236,est,0.7271
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,5.5,False,0.6371,0.6136,est,0.6178
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,6.5,True,0.529,0.5039,book,0.5084
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,7.5,False,0.4305,0.4061,est,0.4105
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,8.5,False,0.3397,0.3176,est,0.3216
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,9.5,False,0.2621,0.2432,est,0.2466
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pts,10.5,False,0.1982,0.1827,est,0.1855
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,0.5,False,0.9505,0.9404,est,0.9422
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,1.5,False,0.8204,0.7898,est,0.7954
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,2.5,True,0.6384,0.5922,book,0.6006
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,3.5,False,0.4457,0.4028,book,0.4106
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,4.5,False,0.2824,0.2492,book,0.2552
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,5.5,False,0.1665,0.1451,book,0.149
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,reb,5.5,False,0.1665,0.1456,book,0.1494
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ast,0.5,False,0.7837,,model only,0.7837
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ast,1.5,False,0.4761,,model only,0.4761
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ast,2.5,False,0.2373,,model only,0.2373
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ast,3.5,False,0.1023,,model only,0.1023
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ast,4.5,False,0.0368,,model only,0.0368
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,fg3m,0.5,False,0.6568,0.6706,book,0.6681
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,fg3m,0.5,False,0.6568,0.6743,book,0.6711
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,fg3m,1.5,False,0.2577,0.3411,book,0.326
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,fg3m,2.5,False,0.0653,0.1418,book,0.1279
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,fg3m,2.5,False,0.0653,0.1422,book,0.1283
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,fg3m,3.5,False,0.012,0.0577,book,0.0494
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,stl,0.5,False,0.5249,,model only,0.5249
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,stl,1.5,False,0.191,,model only,0.191
@@ -1481,12 +1481,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,blk,1.5,False,0.0497,,model only,0.0497
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,7.5,False,0.8303,,model only,0.8303
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,8.5,False,0.7621,,model only,0.7621
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,9.5,False,0.689,0.6514,book,0.6582
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,9.5,False,0.689,0.6605,book,0.6657
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,10.5,False,0.6116,,model only,0.6116
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,11.5,False,0.5323,,model only,0.5323
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,12.5,False,0.456,,model only,0.456
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,13.5,False,0.3863,,model only,0.3863
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,14.5,False,0.3193,0.3291,book,0.3273
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,14.5,False,0.3193,0.3326,book,0.3302
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,15.5,False,0.2628,,model only,0.2628
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,16.5,False,0.211,,model only,0.211
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pra,17.5,False,0.168,,model only,0.168
@@ -1499,12 +1499,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pr,11.5,False,0.403,0.3575,est,0.3657
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pr,12.5,False,0.331,0.2896,est,0.2971
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pr,13.5,False,0.2652,0.2293,est,0.2358
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,4.5,False,0.8553,0.7993,book,0.8094
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,4.5,False,0.8553,0.8048,book,0.8139
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,5.5,False,0.7747,,model only,0.7747
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,6.5,False,0.6879,,model only,0.6879
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,7.5,False,0.5895,,model only,0.5895
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,8.5,False,0.4949,,model only,0.4949
-401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,9.5,False,0.4063,0.4267,book,0.423
+401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,9.5,False,0.4063,0.4307,book,0.4263
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,10.5,False,0.3271,,model only,0.3271
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,11.5,False,0.2589,,model only,0.2589
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,pa,12.5,False,0.2002,,model only,0.2002
@@ -1515,22 +1515,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ra,6.5,False,0.2809,,model only,0.2809
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ra,7.5,False,0.1786,,model only,0.1786
 401909325,SAS @ POR,POR,1631321,Sidy Cissoko,ra,8.5,False,0.1091,,model only,0.1091
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,6.5,False,0.8607,0.8195,est,0.8269
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,7.5,False,0.8012,0.7475,est,0.7572
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,8.5,False,0.7352,0.6711,est,0.6827
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,9.5,False,0.6623,0.5903,est,0.6033
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,10.5,True,0.5887,0.5126,book,0.5264
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,11.5,False,0.5181,0.4413,est,0.4552
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,12.5,False,0.4501,0.3756,est,0.3891
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,13.5,False,0.3834,0.3136,est,0.3262
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,14.5,False,0.3253,0.2616,est,0.2731
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,7.5,False,0.8409,0.7846,book,0.7948
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,6.5,False,0.8607,0.8189,est,0.8265
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,7.5,False,0.8012,0.7468,est,0.7566
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,8.5,False,0.7352,0.6703,est,0.682
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,9.5,False,0.6623,0.5894,est,0.6026
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,10.5,True,0.5887,0.5117,book,0.5256
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,11.5,False,0.5181,0.4404,est,0.4545
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,12.5,False,0.4501,0.3747,est,0.3884
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,13.5,False,0.3834,0.3128,est,0.3256
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pts,14.5,False,0.3253,0.2609,est,0.2726
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,7.5,False,0.8409,0.7843,book,0.7945
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,8.5,False,0.77,0.7094,book,0.7204
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,9.5,False,0.6872,0.621,book,0.633
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,10.5,True,0.5993,0.5326,book,0.5447
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,11.5,False,0.5102,0.4408,book,0.4534
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,9.5,False,0.6872,0.6231,book,0.6347
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,10.5,True,0.5993,0.5335,book,0.5454
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,11.5,False,0.5102,0.4388,book,0.4517
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,12.5,False,0.4218,0.354,book,0.3663
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,13.5,False,0.3376,0.2749,book,0.2863
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,reb,13.5,False,0.3376,0.2765,book,0.2876
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,ast,0.5,False,0.8898,,model only,0.8898
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,ast,1.5,False,0.6596,,model only,0.6596
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,ast,2.5,False,0.4127,,model only,0.4127
@@ -1543,34 +1543,34 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,fg3m,3.5,False,0.0274,0.0487,book,0.0448
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,stl,0.5,False,0.4685,,model only,0.4685
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,stl,1.5,False,0.1435,,model only,0.1435
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,blk,0.5,False,0.7964,0.8066,book,0.8048
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,blk,1.5,False,0.4885,0.5402,book,0.5308
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,blk,2.5,False,0.2414,0.2948,book,0.2851
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,blk,0.5,False,0.7964,0.8048,book,0.8033
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,blk,1.5,False,0.4885,0.5317,book,0.5239
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,blk,2.5,False,0.2414,0.2958,book,0.286
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,21.5,False,0.714,,model only,0.714
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,22.5,False,0.6695,,model only,0.6695
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,23.5,False,0.6235,,model only,0.6235
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,24.5,False,0.5772,0.4874,book,0.5037
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,24.5,False,0.5772,0.4853,book,0.5019
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,25.5,False,0.5329,,model only,0.5329
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,26.5,False,0.4848,,model only,0.4848
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,27.5,False,0.4368,,model only,0.4368
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,28.5,False,0.3934,,model only,0.3934
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,29.5,False,0.3504,0.2709,book,0.2853
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,29.5,False,0.3504,0.2717,book,0.2859
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,30.5,False,0.3107,,model only,0.3107
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pra,31.5,False,0.2759,,model only,0.2759
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,18.5,False,0.7526,0.6921,est,0.7031
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,19.5,False,0.7081,0.6419,est,0.6539
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,20.5,False,0.6613,0.5906,est,0.6034
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,21.5,False,0.6148,0.5411,est,0.5544
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,22.5,True,0.5635,0.4882,book,0.5018
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,23.5,False,0.516,0.4406,est,0.4543
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,24.5,False,0.464,0.3901,est,0.4034
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,25.5,False,0.4162,0.345,est,0.3579
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,26.5,False,0.3717,0.3042,est,0.3164
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,17.5,False,0.7957,0.7278,est,0.7401
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,18.5,False,0.7526,0.6763,est,0.6901
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,19.5,False,0.7081,0.6249,est,0.6399
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,20.5,False,0.6613,0.5728,est,0.5888
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,21.5,True,0.6148,0.5229,book,0.5395
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,22.5,False,0.5635,0.4699,est,0.4869
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,23.5,False,0.516,0.4227,est,0.4396
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,24.5,False,0.464,0.3728,est,0.3893
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pr,25.5,False,0.4162,0.3287,est,0.3445
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,10.5,False,0.7404,,model only,0.7404
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,11.5,False,0.6741,,model only,0.6741
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,12.5,False,0.6092,,model only,0.6092
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,13.5,False,0.5404,,model only,0.5404
-401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,14.5,False,0.4763,0.4081,book,0.4205
+401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,14.5,False,0.4763,0.4063,book,0.419
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,15.5,False,0.4142,,model only,0.4142
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,16.5,False,0.3565,,model only,0.3565
 401909325,SAS @ POR,POR,1642270,Donovan Clingan,pa,17.5,False,0.3053,,model only,0.3053
@@ -1591,22 +1591,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pts,12.5,False,0.4089,0.343,est,0.355
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pts,13.5,False,0.346,0.2853,est,0.2963
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pts,14.5,False,0.2919,0.2373,est,0.2471
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,0.5,False,0.8981,0.8816,est,0.8846
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,1.5,False,0.6854,0.648,est,0.6548
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,2.5,True,0.4412,0.4002,book,0.4076
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,3.5,False,0.2457,0.2204,book,0.225
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,4.5,False,0.1239,0.114,book,0.1158
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,5.5,False,0.0549,0.0584,book,0.0578
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,0.5,False,0.8981,0.8827,est,0.8855
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,1.5,False,0.6854,0.6505,est,0.6568
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,2.5,True,0.4412,0.4028,book,0.4097
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,3.5,False,0.2457,0.2285,book,0.2316
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,4.5,False,0.1239,0.1183,book,0.1193
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,reb,5.5,False,0.0549,0.0599,book,0.059
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ast,0.5,False,0.8862,,model only,0.8862
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ast,1.5,False,0.66,,model only,0.66
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ast,2.5,False,0.4174,,model only,0.4174
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ast,3.5,False,0.229,,model only,0.229
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ast,4.5,False,0.1117,,model only,0.1117
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ast,5.5,False,0.0509,,model only,0.0509
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,0.5,False,0.7536,0.7314,book,0.7354
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,1.5,True,0.4091,0.421,book,0.4189
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,2.5,False,0.1677,0.1896,book,0.1856
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,3.5,False,0.0538,0.0792,book,0.0746
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,0.5,False,0.7536,0.7269,book,0.7317
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,1.5,True,0.4091,0.4173,book,0.4158
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,2.5,False,0.1677,0.1873,book,0.1838
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,fg3m,3.5,False,0.0538,0.0806,book,0.0758
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,stl,0.5,False,0.4918,,model only,0.4918
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,stl,1.5,False,0.1611,,model only,0.1611
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,blk,0.5,False,0.19,,model only,0.19
@@ -1614,7 +1614,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,11.5,False,0.7708,,model only,0.7708
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,12.5,False,0.7169,,model only,0.7169
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,13.5,False,0.6569,,model only,0.6569
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,14.5,False,0.5938,0.5282,book,0.5401
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,14.5,False,0.5938,0.5352,book,0.5458
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,15.5,False,0.5316,,model only,0.5316
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,16.5,False,0.4745,,model only,0.4745
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,17.5,False,0.4167,,model only,0.4167
@@ -1622,15 +1622,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,19.5,False,0.3124,0.2625,book,0.2715
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,20.5,False,0.2673,,model only,0.2673
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pra,21.5,False,0.2268,,model only,0.2268
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,8.5,False,0.8272,0.7797,est,0.7883
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,9.5,False,0.7712,0.7135,est,0.724
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,10.5,False,0.7111,0.6452,est,0.6571
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,11.5,False,0.6438,0.5718,est,0.5848
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,12.5,True,0.5759,0.5009,book,0.5145
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,13.5,False,0.5113,0.4361,est,0.4497
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,14.5,False,0.4482,0.3751,est,0.3884
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,15.5,False,0.3884,0.3194,est,0.3319
-401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,16.5,False,0.3305,0.2673,est,0.2787
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,8.5,False,0.8272,0.7817,est,0.79
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,9.5,False,0.7712,0.716,est,0.726
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,10.5,False,0.7111,0.648,est,0.6594
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,11.5,False,0.6438,0.5748,est,0.5872
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,12.5,True,0.5759,0.5039,book,0.5169
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,13.5,False,0.5113,0.439,est,0.4521
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,14.5,False,0.4482,0.3779,est,0.3907
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,15.5,False,0.3884,0.322,est,0.334
+401909325,SAS @ POR,POR,1630703,Scoot Henderson,pr,16.5,False,0.3305,0.2696,est,0.2806
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pa,10.5,False,0.7005,,model only,0.7005
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pa,11.5,False,0.6377,,model only,0.6377
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,pa,12.5,False,0.5711,,model only,0.5711
@@ -1647,137 +1647,137 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ra,6.5,False,0.2427,,model only,0.2427
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ra,7.5,False,0.1508,,model only,0.1508
 401909325,SAS @ POR,POR,1630703,Scoot Henderson,ra,8.5,False,0.091,,model only,0.091
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,8.5,False,0.8271,0.7894,est,0.7962
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,9.5,False,0.7685,0.7223,est,0.7307
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,10.5,False,0.707,0.6541,est,0.6637
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,11.5,False,0.6423,0.5845,est,0.595
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,12.5,True,0.5759,0.5155,book,0.5264
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,13.5,False,0.5079,0.447,est,0.458
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,14.5,False,0.4461,0.3869,est,0.3976
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,15.5,False,0.389,0.3327,est,0.3429
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,16.5,False,0.3342,0.2823,est,0.2917
-401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,0.5,False,0.9767,0.9658,est,0.9677
-401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,1.5,False,0.9061,0.8662,est,0.8735
-401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,2.5,False,0.7659,0.6605,book,0.6796
-401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,3.5,True,0.5903,0.4917,book,0.5096
-401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,4.5,False,0.412,0.3398,book,0.3529
-401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,5.5,False,0.2628,0.2215,book,0.229
-401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,6.5,False,0.1556,0.1368,book,0.1402
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,1.5,False,0.9255,0.9282,est,0.9277
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,2.5,False,0.8148,0.7934,book,0.7973
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,3.5,False,0.6634,0.6597,book,0.6604
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,4.5,True,0.494,0.5039,book,0.5021
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,5.5,False,0.3462,0.3665,book,0.3628
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,6.5,False,0.2246,0.2486,book,0.2443
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,7.5,False,0.1333,0.1625,book,0.1572
-401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,0.5,False,0.889,0.8511,book,0.858
-401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,1.5,False,0.6513,0.6311,book,0.6348
-401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,2.5,True,0.3747,0.396,book,0.3921
-401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,3.5,False,0.1727,0.2173,book,0.2092
-401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,4.5,False,0.0667,0.1113,book,0.1032
-401909325,SAS @ POR,POR,201950,Jrue Holiday,stl,0.5,False,0.6114,0.6241,book,0.6218
-401909325,SAS @ POR,POR,201950,Jrue Holiday,stl,1.5,False,0.2596,0.2893,book,0.2839
-401909325,SAS @ POR,POR,201950,Jrue Holiday,stl,2.5,False,0.0874,0.114,book,0.1092
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,8.5,False,0.8271,0.7881,est,0.7952
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,9.5,False,0.7685,0.7208,est,0.7294
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,10.5,False,0.707,0.6523,est,0.6622
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,11.5,False,0.6423,0.5826,est,0.5934
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,12.5,True,0.5759,0.5136,book,0.5249
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,13.5,False,0.5079,0.4451,est,0.4565
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,14.5,False,0.4461,0.3851,est,0.3961
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,15.5,False,0.389,0.3311,est,0.3415
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pts,16.5,False,0.3342,0.2807,est,0.2904
+401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,0.5,False,0.9767,0.9666,est,0.9684
+401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,1.5,False,0.9061,0.8691,est,0.8758
+401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,2.5,False,0.7659,0.6691,book,0.6866
+401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,3.5,True,0.5903,0.4979,book,0.5146
+401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,4.5,False,0.412,0.3436,book,0.356
+401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,5.5,False,0.2628,0.2199,book,0.2277
+401909325,SAS @ POR,POR,201950,Jrue Holiday,reb,6.5,False,0.1556,0.138,book,0.1412
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,1.5,False,0.9255,0.9292,est,0.9286
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,2.5,False,0.8148,0.7925,book,0.7965
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,3.5,False,0.6634,0.6589,book,0.6597
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,4.5,True,0.494,0.5078,book,0.5053
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,5.5,False,0.3462,0.3679,book,0.364
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,6.5,False,0.2246,0.2479,book,0.2437
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ast,7.5,False,0.1333,0.1609,book,0.1559
+401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,0.5,False,0.889,0.8472,book,0.8548
+401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,1.5,False,0.6513,0.6292,book,0.6332
+401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,2.5,True,0.3747,0.3935,book,0.3901
+401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,3.5,False,0.1727,0.2153,book,0.2076
+401909325,SAS @ POR,POR,201950,Jrue Holiday,fg3m,4.5,False,0.0667,0.1087,book,0.1011
+401909325,SAS @ POR,POR,201950,Jrue Holiday,stl,0.5,False,0.6114,0.6251,book,0.6226
+401909325,SAS @ POR,POR,201950,Jrue Holiday,stl,1.5,False,0.2596,0.2849,book,0.2803
+401909325,SAS @ POR,POR,201950,Jrue Holiday,stl,2.5,False,0.0874,0.1154,book,0.1103
 401909325,SAS @ POR,POR,201950,Jrue Holiday,blk,0.5,False,0.1592,,model only,0.1592
 401909325,SAS @ POR,POR,201950,Jrue Holiday,blk,1.5,False,0.0126,,model only,0.0126
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,16.5,False,0.8033,0.7637,est,0.7708
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,17.5,False,0.7604,0.7152,est,0.7234
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,18.5,False,0.7107,0.6603,est,0.6694
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,19.5,False,0.66,0.6057,est,0.6155
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,20.5,False,0.6113,0.5545,est,0.5648
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,21.5,True,0.5582,0.4999,book,0.5104
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,22.5,False,0.5068,0.4485,est,0.4591
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,23.5,False,0.4583,0.401,est,0.4113
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,24.5,False,0.4107,0.3554,est,0.3654
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,25.5,False,0.3673,0.3148,est,0.3243
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,26.5,False,0.3239,0.2749,est,0.2838
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,12.5,False,0.8046,0.7521,est,0.7616
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,13.5,False,0.7539,0.693,est,0.704
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,16.5,False,0.8033,0.7607,est,0.7684
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,17.5,False,0.7604,0.7119,est,0.7207
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,18.5,False,0.7107,0.6566,est,0.6664
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,19.5,False,0.66,0.6017,est,0.6123
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,20.5,False,0.6113,0.5505,est,0.5615
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,21.5,True,0.5582,0.4958,book,0.5071
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,22.5,False,0.5068,0.4444,est,0.4557
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,23.5,False,0.4583,0.397,est,0.4081
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,24.5,False,0.4107,0.3517,est,0.3624
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,25.5,False,0.3673,0.3113,est,0.3214
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pra,26.5,False,0.3239,0.2716,est,0.2811
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,12.5,False,0.8046,0.7492,est,0.7592
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,13.5,False,0.7539,0.6897,est,0.7013
 401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,14.5,False,0.6987,0.6067,book,0.6233
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,15.5,False,0.6415,0.5688,est,0.5819
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,16.5,True,0.5833,0.5078,book,0.5215
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,17.5,False,0.5247,0.4486,est,0.4624
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,18.5,False,0.4668,0.3921,est,0.4056
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,19.5,False,0.4129,0.3581,book,0.368
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,20.5,False,0.3623,0.2951,est,0.3073
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,13.5,False,0.7738,0.7451,est,0.7503
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,14.5,False,0.7222,0.6896,est,0.6955
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,15.5,False,0.6641,0.6282,est,0.6347
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,16.5,False,0.6073,0.5693,est,0.5762
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,17.5,True,0.5489,0.5098,book,0.5169
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,18.5,False,0.4917,0.4526,est,0.4597
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,19.5,False,0.4404,0.4021,est,0.409
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,20.5,False,0.3895,0.3529,est,0.3595
-401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,21.5,False,0.3426,0.3081,est,0.3144
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,5.5,False,0.8315,0.8039,est,0.8089
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,6.5,False,0.7403,0.7031,est,0.7098
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,7.5,False,0.6344,0.5905,est,0.5985
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,8.5,True,0.521,0.4747,book,0.4831
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,9.5,False,0.4113,0.3673,est,0.3753
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,10.5,False,0.3106,0.2724,est,0.2793
-401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,11.5,False,0.2281,0.1971,est,0.2027
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,16.5,False,0.6288,0.699,est,0.6863
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,17.5,False,0.5794,0.6488,book,0.6362
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,18.5,False,0.5279,0.6051,est,0.5912
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,19.5,False,0.4786,0.5531,book,0.5396
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,20.5,True,0.4295,0.5078,book,0.4936
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,21.5,False,0.3834,0.4601,est,0.4462
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,22.5,False,0.3404,0.4143,est,0.4009
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,23.5,False,0.3018,0.372,est,0.3593
-401909325,SAS @ POR,POR,203081,Damian Lillard,pts,24.5,False,0.266,0.3302,book,0.3186
-401909325,SAS @ POR,POR,203081,Damian Lillard,reb,0.5,False,0.973,0.9551,est,0.9584
-401909325,SAS @ POR,POR,203081,Damian Lillard,reb,1.5,False,0.8866,0.822,est,0.8337
-401909325,SAS @ POR,POR,203081,Damian Lillard,reb,2.5,False,0.7334,0.6145,book,0.636
-401909325,SAS @ POR,POR,203081,Damian Lillard,reb,3.5,True,0.546,0.4154,book,0.439
-401909325,SAS @ POR,POR,203081,Damian Lillard,reb,4.5,False,0.3651,0.2547,book,0.2747
-401909325,SAS @ POR,POR,203081,Damian Lillard,reb,5.5,False,0.2209,0.1453,book,0.159
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,15.5,False,0.6415,0.5649,est,0.5788
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,16.5,True,0.5833,0.5039,book,0.5183
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,17.5,False,0.5247,0.4448,est,0.4592
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,18.5,False,0.4668,0.3884,est,0.4026
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,19.5,False,0.4129,0.3595,book,0.3692
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pr,20.5,False,0.3623,0.2919,est,0.3046
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,13.5,False,0.7738,0.7436,est,0.7491
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,14.5,False,0.7222,0.6879,est,0.6941
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,15.5,False,0.6641,0.6264,est,0.6332
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,16.5,False,0.6073,0.5673,est,0.5746
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,17.5,True,0.5489,0.5078,book,0.5152
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,18.5,False,0.4917,0.4506,est,0.4581
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,19.5,False,0.4404,0.4002,est,0.4074
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,20.5,False,0.3895,0.351,est,0.358
+401909325,SAS @ POR,POR,201950,Jrue Holiday,pa,21.5,False,0.3426,0.3064,est,0.313
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,5.5,False,0.8315,0.807,est,0.8115
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,6.5,False,0.7403,0.7073,est,0.7133
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,7.5,False,0.6344,0.5954,est,0.6024
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,8.5,True,0.521,0.4797,book,0.4872
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,9.5,False,0.4113,0.372,est,0.3791
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,10.5,False,0.3106,0.2764,est,0.2826
+401909325,SAS @ POR,POR,201950,Jrue Holiday,ra,11.5,False,0.2281,0.2003,est,0.2053
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,16.5,False,0.6288,0.6974,est,0.685
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,17.5,False,0.5794,0.6443,book,0.6325
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,18.5,False,0.5279,0.6033,est,0.5897
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,19.5,False,0.4786,0.5516,book,0.5384
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,20.5,True,0.4295,0.5059,book,0.4921
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,21.5,False,0.3834,0.4582,est,0.4447
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,22.5,False,0.3404,0.4125,est,0.3994
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,23.5,False,0.3018,0.3703,est,0.3579
+401909325,SAS @ POR,POR,203081,Damian Lillard,pts,24.5,False,0.266,0.3279,book,0.3167
+401909325,SAS @ POR,POR,203081,Damian Lillard,reb,0.5,False,0.973,0.955,est,0.9582
+401909325,SAS @ POR,POR,203081,Damian Lillard,reb,1.5,False,0.8866,0.8214,est,0.8332
+401909325,SAS @ POR,POR,203081,Damian Lillard,reb,2.5,False,0.7334,0.6112,book,0.6333
+401909325,SAS @ POR,POR,203081,Damian Lillard,reb,3.5,True,0.546,0.4144,book,0.4382
+401909325,SAS @ POR,POR,203081,Damian Lillard,reb,4.5,False,0.3651,0.2596,book,0.2787
+401909325,SAS @ POR,POR,203081,Damian Lillard,reb,5.5,False,0.2209,0.1472,book,0.1605
 401909325,SAS @ POR,POR,203081,Damian Lillard,reb,6.5,False,0.1222,0.0834,book,0.0904
 401909325,SAS @ POR,POR,203081,Damian Lillard,ast,0.5,False,0.9822,0.9776,est,0.9784
-401909325,SAS @ POR,POR,203081,Damian Lillard,ast,1.5,False,0.9187,0.8997,est,0.9031
-401909325,SAS @ POR,POR,203081,Damian Lillard,ast,2.5,False,0.7921,0.7446,book,0.7532
-401909325,SAS @ POR,POR,203081,Damian Lillard,ast,3.5,True,0.6238,0.5681,book,0.5782
-401909325,SAS @ POR,POR,203081,Damian Lillard,ast,4.5,False,0.4545,0.396,book,0.4066
-401909325,SAS @ POR,POR,203081,Damian Lillard,ast,5.5,False,0.3057,0.2506,book,0.2606
-401909325,SAS @ POR,POR,203081,Damian Lillard,ast,6.5,False,0.1884,0.1458,book,0.1535
-401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,1.5,False,0.7468,0.7965,book,0.7875
-401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,2.5,False,0.499,0.6134,book,0.5927
-401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,3.5,True,0.2809,0.4154,book,0.3911
-401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,4.5,False,0.1355,0.2526,book,0.2314
-401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,5.5,False,0.0569,0.1427,book,0.1272
-401909325,SAS @ POR,POR,203081,Damian Lillard,stl,0.5,False,0.5344,0.5884,book,0.5786
-401909325,SAS @ POR,POR,203081,Damian Lillard,stl,1.5,False,0.1859,0.2459,book,0.235
-401909325,SAS @ POR,POR,203081,Damian Lillard,stl,2.5,False,0.0508,0.0935,book,0.0858
+401909325,SAS @ POR,POR,203081,Damian Lillard,ast,1.5,False,0.9187,0.8994,est,0.9029
+401909325,SAS @ POR,POR,203081,Damian Lillard,ast,2.5,False,0.7921,0.7458,book,0.7542
+401909325,SAS @ POR,POR,203081,Damian Lillard,ast,3.5,True,0.6238,0.5674,book,0.5776
+401909325,SAS @ POR,POR,203081,Damian Lillard,ast,4.5,False,0.4545,0.3894,book,0.4012
+401909325,SAS @ POR,POR,203081,Damian Lillard,ast,5.5,False,0.3057,0.2453,book,0.2562
+401909325,SAS @ POR,POR,203081,Damian Lillard,ast,6.5,False,0.1884,0.1444,book,0.1524
+401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,1.5,False,0.7468,0.7977,book,0.7885
+401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,2.5,False,0.499,0.6145,book,0.5936
+401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,3.5,True,0.2809,0.4135,book,0.3895
+401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,4.5,False,0.1355,0.2519,book,0.2308
+401909325,SAS @ POR,POR,203081,Damian Lillard,fg3m,5.5,False,0.0569,0.1414,book,0.1261
+401909325,SAS @ POR,POR,203081,Damian Lillard,stl,0.5,False,0.5344,0.591,book,0.5807
+401909325,SAS @ POR,POR,203081,Damian Lillard,stl,1.5,False,0.1859,0.2506,book,0.2389
+401909325,SAS @ POR,POR,203081,Damian Lillard,stl,2.5,False,0.0508,0.0916,book,0.0842
 401909325,SAS @ POR,POR,203081,Damian Lillard,blk,0.5,False,0.2122,,model only,0.2122
 401909325,SAS @ POR,POR,203081,Damian Lillard,blk,1.5,False,0.0264,,model only,0.0264
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,23.5,False,0.6781,0.7025,est,0.6981
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,24.5,False,0.6353,0.6613,est,0.6566
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,25.5,False,0.59,0.6173,est,0.6124
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,26.5,False,0.5465,0.5747,est,0.5696
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,27.5,False,0.5014,0.5299,est,0.5248
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,28.5,True,0.4578,0.4863,book,0.4811
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,29.5,False,0.4171,0.4451,est,0.44
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,30.5,False,0.3776,0.4048,est,0.3999
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,31.5,False,0.3409,0.367,est,0.3623
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,32.5,False,0.3062,0.331,est,0.3265
-401909325,SAS @ POR,POR,203081,Damian Lillard,pra,33.5,False,0.2736,0.2969,est,0.2927
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,20.5,False,0.6231,0.6694,est,0.661
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,21.5,False,0.5759,0.6246,est,0.6157
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,22.5,False,0.5279,0.578,est,0.5689
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,23.5,False,0.4783,0.529,est,0.5198
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,24.5,True,0.4317,0.482,book,0.4729
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,25.5,False,0.3884,0.4375,est,0.4286
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,26.5,False,0.3492,0.3966,est,0.388
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,27.5,False,0.3123,0.3575,est,0.3493
-401909325,SAS @ POR,POR,203081,Damian Lillard,pr,28.5,False,0.2772,0.3197,est,0.312
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,20.5,False,0.6439,0.6987,est,0.6888
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,21.5,False,0.5943,0.6526,est,0.642
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,22.5,False,0.5468,0.6074,est,0.5964
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,23.5,False,0.5008,0.5627,est,0.5515
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,24.5,True,0.4553,0.5174,book,0.5062
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,25.5,False,0.4114,0.4727,est,0.4616
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,26.5,False,0.3716,0.4313,est,0.4205
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,27.5,False,0.3324,0.3897,est,0.3793
-401909325,SAS @ POR,POR,203081,Damian Lillard,pa,28.5,False,0.2971,0.3516,est,0.3417
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,23.5,False,0.6781,0.7017,est,0.6974
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,24.5,False,0.6353,0.6604,est,0.6559
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,25.5,False,0.59,0.6164,est,0.6116
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,26.5,False,0.5465,0.5737,est,0.5688
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,27.5,False,0.5014,0.5289,est,0.5239
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,28.5,True,0.4578,0.4853,book,0.4803
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,29.5,False,0.4171,0.4441,est,0.4392
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,30.5,False,0.3776,0.4038,est,0.3991
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,31.5,False,0.3409,0.3661,est,0.3615
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,32.5,False,0.3062,0.3301,est,0.3258
+401909325,SAS @ POR,POR,203081,Damian Lillard,pra,33.5,False,0.2736,0.2961,est,0.292
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,19.5,False,0.6691,0.7036,est,0.6973
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,20.5,False,0.6231,0.6599,est,0.6532
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,21.5,False,0.5759,0.6145,est,0.6075
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,22.5,False,0.5279,0.5675,est,0.5604
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,23.5,True,0.4783,0.5183,book,0.5111
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,24.5,False,0.4317,0.4713,est,0.4641
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,25.5,False,0.3884,0.427,est,0.42
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,26.5,False,0.3492,0.3864,est,0.3796
+401909325,SAS @ POR,POR,203081,Damian Lillard,pr,27.5,False,0.3123,0.3477,est,0.3413
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,20.5,False,0.6439,0.6978,est,0.6881
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,21.5,False,0.5943,0.6517,est,0.6413
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,22.5,False,0.5468,0.6064,est,0.5956
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,23.5,False,0.5008,0.5617,est,0.5507
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,24.5,True,0.4553,0.5164,book,0.5053
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,25.5,False,0.4114,0.4717,est,0.4608
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,26.5,False,0.3716,0.4303,est,0.4197
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,27.5,False,0.3324,0.3887,est,0.3785
+401909325,SAS @ POR,POR,203081,Damian Lillard,pa,28.5,False,0.2971,0.3506,est,0.341
 401909325,SAS @ POR,POR,203081,Damian Lillard,ra,4.5,False,0.8888,0.8284,est,0.8393
 401909325,SAS @ POR,POR,203081,Damian Lillard,ra,5.5,False,0.8055,0.7144,est,0.7309
 401909325,SAS @ POR,POR,203081,Damian Lillard,ra,6.5,False,0.7009,0.5859,est,0.6067
@@ -1977,135 +1977,135 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,SAS,1642868,Carter Bryant,ra,4.5,False,0.2738,,model only,0.2738
 401909325,SAS @ POR,SAS,1642868,Carter Bryant,ra,5.5,False,0.1698,,model only,0.1698
 401909325,SAS @ POR,SAS,1642868,Carter Bryant,ra,6.5,False,0.1007,,model only,0.1007
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,15.5,False,0.6587,0.6822,est,0.678
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,16.5,False,0.6058,0.6309,est,0.6263
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,17.5,False,0.5552,0.5792,book,0.5748
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,18.5,False,0.5041,0.5307,est,0.5259
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,19.5,True,0.4577,0.4842,book,0.4794
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,20.5,False,0.4092,0.4351,est,0.4304
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,21.5,False,0.3651,0.3901,est,0.3855
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,22.5,False,0.3221,0.3458,est,0.3415
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,23.5,False,0.2857,0.3079,est,0.3039
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,2.5,False,0.8692,0.8272,book,0.8348
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,3.5,False,0.7458,0.7131,book,0.719
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,4.5,False,0.5956,0.5765,book,0.5799
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,5.5,True,0.4376,0.4388,book,0.4386
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,6.5,False,0.2969,0.3179,book,0.3141
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,7.5,False,0.1907,0.2199,book,0.2146
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,8.5,False,0.1156,0.1491,book,0.143
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,4.5,False,0.7471,0.7806,book,0.7745
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,5.5,False,0.6084,0.6757,book,0.6635
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,6.5,False,0.4759,0.5592,book,0.5441
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,7.5,True,0.3521,0.4419,book,0.4257
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,8.5,False,0.2486,0.3326,book,0.3174
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,9.5,False,0.1628,0.2415,book,0.2273
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,10.5,False,0.1035,0.1696,book,0.1576
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,0.5,False,0.849,0.8307,book,0.834
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,1.5,True,0.5744,0.5878,book,0.5854
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,2.5,False,0.3076,0.3513,book,0.3434
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,3.5,False,0.1327,0.1808,book,0.1721
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,stl,0.5,False,0.6685,0.6992,book,0.6936
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,stl,1.5,False,0.322,0.3784,book,0.3682
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,15.5,False,0.6587,0.694,est,0.6876
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,16.5,False,0.6058,0.6436,est,0.6367
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,17.5,False,0.5552,0.5884,book,0.5824
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,18.5,False,0.5041,0.5443,est,0.537
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,19.5,True,0.4577,0.4979,book,0.4906
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,20.5,False,0.4092,0.4486,est,0.4415
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,21.5,False,0.3651,0.4032,est,0.3963
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,22.5,False,0.3221,0.3583,est,0.3518
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pts,23.5,False,0.2857,0.3197,est,0.3135
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,2.5,False,0.8692,0.822,book,0.8305
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,3.5,False,0.7458,0.7083,book,0.7151
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,4.5,False,0.5956,0.5751,book,0.5788
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,5.5,True,0.4376,0.4461,book,0.4446
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,6.5,False,0.2969,0.3223,book,0.3177
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,7.5,False,0.1907,0.2252,book,0.219
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,reb,8.5,False,0.1156,0.1507,book,0.1444
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,4.5,False,0.7471,0.8066,book,0.7958
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,5.5,False,0.6084,0.7142,book,0.695
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,6.5,False,0.4759,0.6043,book,0.5811
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,7.5,True,0.3521,0.4853,book,0.4612
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,8.5,False,0.2486,0.3768,book,0.3536
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,9.5,False,0.1628,0.2781,book,0.2572
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ast,10.5,False,0.1035,0.1993,book,0.182
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,0.5,False,0.849,0.8284,book,0.8321
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,1.5,True,0.5744,0.591,book,0.588
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,2.5,False,0.3076,0.3567,book,0.3478
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,fg3m,3.5,False,0.1327,0.1869,book,0.1771
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,stl,0.5,False,0.6685,0.6998,book,0.6941
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,stl,1.5,False,0.322,0.3815,book,0.3707
 401909325,SAS @ POR,SAS,1642264,Stephon Castle,stl,2.5,False,0.1219,0.1663,book,0.1583
 401909325,SAS @ POR,SAS,1642264,Stephon Castle,blk,0.5,False,0.2442,,model only,0.2442
 401909325,SAS @ POR,SAS,1642264,Stephon Castle,blk,1.5,False,0.036,,model only,0.036
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,27.5,False,0.6281,0.6814,est,0.6717
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,28.5,False,0.5856,0.6416,est,0.6314
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,29.5,False,0.544,0.6018,est,0.5913
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,30.5,False,0.5038,0.5626,est,0.5519
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,31.5,False,0.4632,0.5222,est,0.5115
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,32.5,True,0.4246,0.4831,book,0.4725
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,33.5,False,0.3872,0.4445,est,0.4341
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,34.5,False,0.3513,0.4068,est,0.3968
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,35.5,False,0.3172,0.3704,est,0.3608
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,36.5,False,0.2856,0.3361,est,0.327
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,37.5,False,0.2558,0.3032,est,0.2946
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,20.5,False,0.6595,0.6855,est,0.6808
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,21.5,False,0.6133,0.641,est,0.636
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,22.5,False,0.566,0.5947,est,0.5895
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,23.5,False,0.521,0.5504,est,0.5451
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,24.5,True,0.4764,0.5059,book,0.5006
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,25.5,False,0.4315,0.4607,est,0.4554
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,26.5,False,0.3881,0.4165,est,0.4113
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,27.5,False,0.35,0.3773,est,0.3724
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,28.5,False,0.3124,0.3383,est,0.3336
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,22.5,False,0.6244,0.6775,est,0.6679
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,23.5,False,0.5774,0.6332,est,0.6231
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,24.5,False,0.532,0.5896,est,0.5791
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,25.5,False,0.4879,0.5463,est,0.5357
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,26.5,True,0.4446,0.5029,book,0.4923
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,27.5,False,0.4038,0.4612,est,0.4509
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,28.5,False,0.3655,0.4213,est,0.4112
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,29.5,False,0.3288,0.3823,est,0.3726
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,30.5,False,0.2927,0.3434,est,0.3342
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,9.5,False,0.7032,0.7599,est,0.7496
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,10.5,False,0.6105,0.6767,est,0.6647
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,11.5,False,0.5139,0.5853,est,0.5724
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,12.5,True,0.4184,0.4899,book,0.4769
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,13.5,False,0.3329,0.3998,est,0.3877
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,14.5,False,0.2585,0.3176,est,0.3069
-401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,15.5,False,0.1932,0.2423,est,0.2334
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,7.5,False,0.7594,0.7531,book,0.7542
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,8.5,False,0.6872,0.7224,est,0.716
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,9.5,False,0.6093,0.6292,book,0.6256
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,10.5,False,0.5356,0.5773,est,0.5698
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,11.5,True,0.4647,0.5069,book,0.4993
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,12.5,False,0.3941,0.4351,est,0.4277
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,13.5,False,0.3367,0.3754,est,0.3684
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,14.5,False,0.282,0.3338,book,0.3244
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,15.5,False,0.2322,0.2637,est,0.258
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,2.5,False,0.8307,0.8233,book,0.8246
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,3.5,False,0.6864,0.7061,book,0.7025
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,4.5,False,0.5207,0.5737,book,0.5641
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,27.5,False,0.6281,0.6975,est,0.6849
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,28.5,False,0.5856,0.6587,est,0.6455
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,29.5,False,0.544,0.6196,est,0.606
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,30.5,False,0.5038,0.581,est,0.567
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,31.5,False,0.4632,0.5409,est,0.5268
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,32.5,True,0.4246,0.5019,book,0.4879
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,33.5,False,0.3872,0.4631,est,0.4494
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,34.5,False,0.3513,0.4251,est,0.4118
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,35.5,False,0.3172,0.3881,est,0.3753
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,36.5,False,0.2856,0.3531,est,0.3409
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pra,37.5,False,0.2558,0.3194,est,0.3079
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,20.5,False,0.6595,0.6896,est,0.6841
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,21.5,False,0.6133,0.6454,est,0.6396
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,22.5,False,0.566,0.5994,est,0.5933
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,23.5,False,0.521,0.5551,est,0.549
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,24.5,True,0.4764,0.5107,book,0.5045
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,25.5,False,0.4315,0.4654,est,0.4593
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,26.5,False,0.3881,0.4211,est,0.4151
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,27.5,False,0.35,0.3818,est,0.3761
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pr,28.5,False,0.3124,0.3426,est,0.3371
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,23.5,False,0.5774,0.6601,est,0.6451
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,24.5,False,0.532,0.6177,est,0.6022
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,25.5,False,0.4879,0.5753,est,0.5594
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,26.5,False,0.4446,0.5323,est,0.5164
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,27.5,True,0.4038,0.4906,book,0.4749
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,28.5,False,0.3655,0.4502,est,0.4349
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,29.5,False,0.3288,0.4105,est,0.3957
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,30.5,False,0.2927,0.3704,est,0.3563
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,pa,31.5,False,0.2605,0.3337,est,0.3205
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,9.5,False,0.7032,0.7813,est,0.7672
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,10.5,False,0.6105,0.7027,est,0.686
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,11.5,False,0.5139,0.6145,est,0.5963
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,12.5,True,0.4184,0.5203,book,0.5018
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,13.5,False,0.3329,0.4294,est,0.4119
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,14.5,False,0.2585,0.3446,est,0.329
+401909325,SAS @ POR,SAS,1642264,Stephon Castle,ra,15.5,False,0.1932,0.2653,est,0.2523
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,7.5,False,0.7594,0.7555,book,0.7562
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,8.5,False,0.6872,0.7247,est,0.7179
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,9.5,False,0.6093,0.6331,book,0.6288
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,10.5,False,0.5356,0.5802,est,0.5721
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,11.5,True,0.4647,0.5098,book,0.5016
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,12.5,False,0.3941,0.438,est,0.43
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,13.5,False,0.3367,0.3781,est,0.3706
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,14.5,False,0.282,0.3411,book,0.3304
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pts,15.5,False,0.2322,0.2659,est,0.2598
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,2.5,False,0.8307,0.8296,book,0.8298
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,3.5,False,0.6864,0.7157,book,0.7104
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,4.5,False,0.5207,0.5819,book,0.5708
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,5.5,True,0.3674,0.4461,book,0.4318
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,6.5,False,0.2446,0.3256,book,0.3109
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,7.5,False,0.1508,0.2279,book,0.2139
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,8.5,False,0.0884,0.1552,book,0.1431
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,6.5,False,0.2446,0.3234,book,0.3091
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,7.5,False,0.1508,0.2274,book,0.2135
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,reb,8.5,False,0.0884,0.1563,book,0.144
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,0.5,False,0.8039,,model only,0.8039
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,1.5,False,0.5047,0.5751,book,0.5624
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,1.5,False,0.5047,0.5832,book,0.569
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,2.5,False,0.2575,,model only,0.2575
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,3.5,False,0.1154,,model only,0.1154
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,4.5,False,0.0448,0.0779,book,0.0719
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,4.5,False,0.0448,0.082,book,0.0753
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ast,5.5,False,0.0149,0.0425,book,0.0375
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,0.5,False,0.8951,0.8956,book,0.8955
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,1.5,False,0.6357,0.7345,book,0.7166
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,2.5,True,0.3442,0.5173,book,0.486
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,3.5,False,0.1488,0.3147,book,0.2847
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,4.5,False,0.053,0.1721,book,0.1505
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,stl,0.5,False,0.6088,0.6735,book,0.6618
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,stl,1.5,False,0.2614,0.3386,book,0.3246
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,stl,2.5,False,0.0875,0.1362,book,0.1274
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,0.5,False,0.8951,0.8972,book,0.8968
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,1.5,False,0.6357,0.7374,book,0.719
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,2.5,True,0.3442,0.522,book,0.4898
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,3.5,False,0.1488,0.3223,book,0.2909
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,fg3m,4.5,False,0.053,0.177,book,0.1546
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,stl,0.5,False,0.6088,0.6771,book,0.6647
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,stl,1.5,False,0.2614,0.3449,book,0.3298
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,stl,2.5,False,0.0875,0.1412,book,0.1315
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,blk,0.5,False,0.4177,,model only,0.4177
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,blk,1.5,False,0.1096,,model only,0.1096
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,14.5,False,0.6853,0.7255,book,0.7182
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,15.5,False,0.6286,0.7032,est,0.6897
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,16.5,False,0.5682,0.6481,est,0.6336
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,17.5,False,0.5065,0.5895,est,0.5745
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,18.5,False,0.4491,0.5329,est,0.5178
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,19.5,True,0.3962,0.4787,book,0.4638
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,20.5,False,0.3469,0.4264,est,0.412
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,21.5,False,0.3016,0.3768,est,0.3632
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,22.5,False,0.2603,0.3299,est,0.3173
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,23.5,False,0.2233,0.287,est,0.2754
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,24.5,False,0.1914,0.2568,book,0.245
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,13.5,False,0.653,0.7111,est,0.7006
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,14.5,False,0.5899,0.653,est,0.6416
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,15.5,False,0.5255,0.5915,est,0.5796
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,16.5,False,0.4639,0.5309,est,0.5188
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,17.5,True,0.4092,0.4753,book,0.4633
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,18.5,False,0.3532,0.4166,est,0.4051
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,19.5,False,0.3032,0.3627,est,0.3519
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,20.5,False,0.2588,0.3135,est,0.3036
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,21.5,False,0.2202,0.2697,est,0.2607
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,9.5,False,0.7247,0.7723,est,0.7637
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,10.5,False,0.6562,0.7108,est,0.7009
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,11.5,False,0.5866,0.6464,est,0.6355
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,12.5,False,0.5134,0.5761,est,0.5648
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,13.5,True,0.4476,0.5107,book,0.4993
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,14.5,False,0.3853,0.4467,est,0.4356
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,15.5,False,0.3302,0.3884,est,0.3779
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,16.5,False,0.2784,0.332,est,0.3223
-401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,17.5,False,0.2324,0.2805,est,0.2718
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,14.5,False,0.6853,0.7345,book,0.7256
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,15.5,False,0.6286,0.706,est,0.692
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,16.5,False,0.5682,0.6511,est,0.6361
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,17.5,False,0.5065,0.5927,est,0.5771
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,18.5,False,0.4491,0.5362,est,0.5205
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,19.5,True,0.3962,0.482,book,0.4665
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,20.5,False,0.3469,0.4297,est,0.4147
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,21.5,False,0.3016,0.3799,est,0.3657
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,22.5,False,0.2603,0.3329,est,0.3197
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,23.5,False,0.2233,0.2897,est,0.2777
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pra,24.5,False,0.1914,0.2625,book,0.2496
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,13.5,False,0.653,0.7192,est,0.7072
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,14.5,False,0.5899,0.662,est,0.6489
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,15.5,False,0.5255,0.6012,est,0.5875
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,16.5,False,0.4639,0.5409,est,0.527
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,17.5,True,0.4092,0.4853,book,0.4715
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,18.5,False,0.3532,0.4264,est,0.4131
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,19.5,False,0.3032,0.372,est,0.3595
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,20.5,False,0.2588,0.3222,est,0.3107
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pr,21.5,False,0.2202,0.2777,est,0.2673
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,9.5,False,0.7247,0.7795,est,0.7695
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,10.5,False,0.6562,0.7192,est,0.7078
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,11.5,False,0.5866,0.6557,est,0.6432
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,12.5,False,0.5134,0.5862,est,0.573
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,13.5,True,0.4476,0.521,book,0.5077
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,14.5,False,0.3853,0.4569,est,0.444
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,15.5,False,0.3302,0.3983,est,0.3859
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,16.5,False,0.2784,0.3412,est,0.3298
+401909325,SAS @ POR,SAS,1630577,Julian Champagnie,pa,17.5,False,0.2324,0.2889,est,0.2787
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ra,4.5,False,0.7419,0.8123,est,0.7995
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ra,5.5,False,0.6134,0.7049,est,0.6883
 401909325,SAS @ POR,SAS,1630577,Julian Champagnie,ra,6.5,False,0.4816,0.5831,est,0.5647
@@ -2175,22 +2175,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,SAS,905107968,Ja'Kobi Gillespie,ra,4.5,False,0.2542,,model only,0.2542
 401909325,SAS @ POR,SAS,905107968,Ja'Kobi Gillespie,ra,5.5,False,0.1552,,model only,0.1552
 401909325,SAS @ POR,SAS,905107968,Ja'Kobi Gillespie,ra,6.5,False,0.0904,,model only,0.0904
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,6.5,False,0.8144,0.79,est,0.7944
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,7.5,False,0.7526,0.7228,est,0.7282
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,8.5,False,0.6814,0.6471,est,0.6533
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,9.5,False,0.6116,0.5745,est,0.5812
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,10.5,True,0.5442,0.5059,book,0.5128
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,11.5,False,0.4782,0.44,est,0.4469
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,12.5,False,0.4146,0.3778,est,0.3845
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,13.5,False,0.3565,0.322,est,0.3282
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,14.5,False,0.3006,0.2693,est,0.275
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,2.5,False,0.8635,0.8163,book,0.8248
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,3.5,False,0.7414,0.7099,book,0.7156
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,4.5,False,0.5948,0.5884,book,0.5895
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,5.5,True,0.4534,0.4696,book,0.4667
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,6.5,False,0.3184,0.3608,book,0.3531
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,7.5,False,0.2148,0.2678,book,0.2582
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,8.5,False,0.1376,0.1931,book,0.1831
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,6.5,False,0.8144,0.7963,est,0.7996
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,7.5,False,0.7526,0.7304,est,0.7344
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,8.5,False,0.6814,0.6558,est,0.6604
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,9.5,False,0.6116,0.5838,est,0.5889
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,10.5,True,0.5442,0.5155,book,0.5207
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,11.5,False,0.4782,0.4495,est,0.4547
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,12.5,False,0.4146,0.3869,est,0.3919
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,13.5,False,0.3565,0.3304,est,0.3352
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pts,14.5,False,0.3006,0.2769,est,0.2812
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,2.5,False,0.8635,0.822,book,0.8295
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,3.5,False,0.7414,0.7172,book,0.7216
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,4.5,False,0.5948,0.596,book,0.5958
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,5.5,True,0.4534,0.4765,book,0.4723
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,6.5,False,0.3184,0.3665,book,0.3578
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,7.5,False,0.2148,0.2693,book,0.2594
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,reb,8.5,False,0.1376,0.1923,book,0.1824
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,ast,0.5,False,0.8891,,model only,0.8891
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,ast,1.5,False,0.6763,,model only,0.6763
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,ast,2.5,False,0.4394,,model only,0.4394
@@ -2206,31 +2206,31 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,stl,2.5,False,0.0671,,model only,0.0671
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,blk,0.5,False,0.1645,,model only,0.1645
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,blk,1.5,False,0.0157,,model only,0.0157
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,14.5,False,0.7352,0.6652,book,0.6779
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,14.5,False,0.7352,0.6757,book,0.6865
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,15.5,False,0.6858,,model only,0.6858
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,16.5,False,0.634,,model only,0.634
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,17.5,False,0.5803,,model only,0.5803
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,18.5,False,0.5299,,model only,0.5299
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,19.5,False,0.4805,0.4493,book,0.455
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,19.5,False,0.4805,0.465,book,0.4678
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,20.5,False,0.4315,,model only,0.4315
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,21.5,False,0.3866,,model only,0.3866
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,22.5,False,0.3409,,model only,0.3409
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,23.5,False,0.2984,,model only,0.2984
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,24.5,False,0.261,0.2701,book,0.2685
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pra,24.5,False,0.261,0.2815,book,0.2778
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,13.5,False,0.6785,,model only,0.6785
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,14.5,False,0.6184,0.5792,book,0.5863
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,14.5,False,0.6184,0.5872,book,0.5928
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,15.5,False,0.562,,model only,0.562
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,16.5,False,0.5064,,model only,0.5064
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,17.5,False,0.4545,,model only,0.4545
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,18.5,False,0.402,,model only,0.402
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,19.5,False,0.3516,0.3581,book,0.3569
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,19.5,False,0.3516,0.3709,book,0.3674
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,20.5,False,0.3047,,model only,0.3047
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pr,21.5,False,0.2664,,model only,0.2664
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,10.5,False,0.6933,,model only,0.6933
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,11.5,False,0.6306,,model only,0.6306
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,12.5,False,0.5656,,model only,0.5656
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,13.5,False,0.5048,,model only,0.5048
-401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,14.5,False,0.449,0.4099,book,0.417
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,13.5,False,0.5048,0.4765,book,0.4816
+401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,14.5,False,0.449,,model only,0.449
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,15.5,False,0.3944,,model only,0.3944
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,16.5,False,0.342,,model only,0.342
 401909325,SAS @ POR,SAS,1629640,Keldon Johnson,pa,17.5,False,0.2936,,model only,0.2936
@@ -2434,70 +2434,70 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909325,SAS @ POR,SAS,905105809,Tarris Reed Jr.,ra,6.5,False,0.332,,model only,0.332
 401909325,SAS @ POR,SAS,905105809,Tarris Reed Jr.,ra,7.5,False,0.2464,,model only,0.2464
 401909325,SAS @ POR,SAS,905105809,Tarris Reed Jr.,ra,8.5,False,0.1802,,model only,0.1802
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,9.5,False,0.7511,0.7341,est,0.7372
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,10.5,False,0.6901,0.6708,est,0.6743
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,11.5,False,0.6253,0.6043,est,0.6081
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,12.5,False,0.5596,0.5377,est,0.5416
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,13.5,True,0.4951,0.473,book,0.477
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,14.5,False,0.4357,0.4141,est,0.418
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,15.5,False,0.3754,0.3549,est,0.3586
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,16.5,False,0.3235,0.3044,est,0.3078
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,17.5,False,0.275,0.2577,est,0.2608
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,0.5,False,0.9801,0.9763,est,0.977
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,1.5,False,0.9143,0.899,est,0.9017
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,2.5,False,0.7842,0.7236,book,0.7346
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,3.5,True,0.6083,0.5644,book,0.5724
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,9.5,False,0.7511,0.7369,est,0.7395
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,10.5,False,0.6901,0.6739,est,0.6769
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,11.5,False,0.6253,0.6077,est,0.6109
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,12.5,False,0.5596,0.5412,est,0.5445
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,13.5,True,0.4951,0.4765,book,0.4799
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,14.5,False,0.4357,0.4175,est,0.4208
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,15.5,False,0.3754,0.3581,est,0.3613
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,16.5,False,0.3235,0.3074,est,0.3103
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pts,17.5,False,0.275,0.2604,est,0.263
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,0.5,False,0.9801,0.9764,est,0.977
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,1.5,False,0.9143,0.8993,est,0.902
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,2.5,False,0.7842,0.7269,book,0.7373
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,3.5,True,0.6083,0.5652,book,0.573
 401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,4.5,False,0.429,0.4099,book,0.4134
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,5.5,False,0.2824,0.2781,book,0.2789
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,6.5,False,0.1658,0.1797,book,0.1772
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,0.5,False,0.928,0.9388,est,0.9368
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,1.5,False,0.7532,0.7841,est,0.7785
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,2.5,True,0.5258,0.5688,book,0.561
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,3.5,False,0.3216,0.3665,book,0.3584
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,4.5,False,0.175,0.2072,book,0.2014
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,5.5,False,0.085,0.1126,book,0.1076
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,fg3m,0.5,False,0.8609,0.8284,book,0.8343
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,fg3m,1.5,True,0.5753,0.5688,book,0.57
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,5.5,False,0.2824,0.2749,book,0.2763
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,reb,6.5,False,0.1658,0.176,book,0.1742
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,0.5,False,0.928,0.9391,est,0.9371
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,1.5,False,0.7532,0.785,est,0.7793
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,2.5,True,0.5258,0.5702,book,0.5622
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,3.5,False,0.3216,0.3694,book,0.3607
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,4.5,False,0.175,0.2114,book,0.2048
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ast,5.5,False,0.085,0.114,book,0.1088
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,fg3m,0.5,False,0.8609,0.8246,book,0.8312
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,fg3m,1.5,True,0.5753,0.5702,book,0.5711
 401909325,SAS @ POR,SAS,1630170,Devin Vassell,fg3m,2.5,False,0.2922,0.3234,book,0.3177
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,fg3m,3.5,False,0.1167,0.1568,book,0.1495
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,stl,0.5,False,0.7148,0.7869,book,0.7739
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,stl,1.5,False,0.3756,0.4979,book,0.4758
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,stl,2.5,False,0.1569,0.2553,book,0.2375
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,fg3m,3.5,False,0.1167,0.1573,book,0.15
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,stl,0.5,False,0.7148,0.7879,book,0.7747
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,stl,1.5,False,0.3756,0.4999,book,0.4774
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,stl,2.5,False,0.1569,0.2519,book,0.2347
 401909325,SAS @ POR,SAS,1630170,Devin Vassell,blk,0.5,False,0.3832,,model only,0.3832
 401909325,SAS @ POR,SAS,1630170,Devin Vassell,blk,1.5,False,0.0873,,model only,0.0873
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,15.5,False,0.771,0.7598,est,0.7618
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,16.5,False,0.7235,0.7108,est,0.7131
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,17.5,False,0.6719,0.658,est,0.6605
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,18.5,False,0.62,0.6052,est,0.6079
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,19.5,False,0.5643,0.5489,est,0.5517
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,20.5,True,0.5093,0.4937,book,0.4965
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,21.5,False,0.4573,0.4418,est,0.4446
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,22.5,False,0.4066,0.3917,est,0.3944
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,23.5,False,0.3601,0.3458,est,0.3484
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,24.5,False,0.3155,0.3021,est,0.3045
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,25.5,False,0.2747,0.2624,est,0.2646
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,13.5,False,0.7478,0.7268,est,0.7306
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,14.5,False,0.6919,0.6684,est,0.6726
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,15.5,False,0.6341,0.6086,est,0.6132
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,16.5,False,0.5769,0.5503,est,0.5551
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,17.5,True,0.5166,0.4895,book,0.4944
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,18.5,False,0.4603,0.4335,est,0.4384
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,19.5,False,0.4087,0.3828,est,0.3875
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,20.5,False,0.3588,0.3343,est,0.3387
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,21.5,False,0.3117,0.289,est,0.2931
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,12.5,False,0.7234,0.7205,est,0.7211
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,13.5,False,0.6672,0.6639,est,0.6645
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,14.5,False,0.6079,0.6044,est,0.6051
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,15.5,False,0.5478,0.5442,est,0.5449
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,16.5,True,0.4889,0.4853,book,0.486
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,17.5,False,0.4314,0.4279,est,0.4285
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,18.5,False,0.3779,0.3745,est,0.3752
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,19.5,False,0.3288,0.3257,est,0.3262
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,20.5,False,0.282,0.2791,est,0.2796
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,3.5,False,0.8983,0.8991,est,0.899
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,4.5,False,0.8075,0.809,est,0.8087
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,5.5,False,0.6894,0.6914,est,0.6911
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,6.5,True,0.5581,0.5604,book,0.56
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,7.5,False,0.4294,0.4317,est,0.4313
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,8.5,False,0.3136,0.3157,est,0.3153
-401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,9.5,False,0.2123,0.2139,est,0.2136
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,15.5,False,0.771,0.762,est,0.7637
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,16.5,False,0.7235,0.7134,est,0.7152
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,17.5,False,0.6719,0.6608,est,0.6628
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,18.5,False,0.62,0.6082,est,0.6103
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,19.5,False,0.5643,0.552,est,0.5542
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,20.5,True,0.5093,0.4968,book,0.4991
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,21.5,False,0.4573,0.4449,est,0.4471
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,22.5,False,0.4066,0.3946,est,0.3968
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,23.5,False,0.3601,0.3486,est,0.3507
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,24.5,False,0.3155,0.3048,est,0.3067
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pra,25.5,False,0.2747,0.2648,est,0.2666
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,13.5,False,0.7478,0.7277,est,0.7313
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,14.5,False,0.6919,0.6694,est,0.6734
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,15.5,False,0.6341,0.6097,est,0.6141
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,16.5,False,0.5769,0.5514,est,0.556
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,17.5,True,0.5166,0.4906,book,0.4953
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,18.5,False,0.4603,0.4346,est,0.4393
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,19.5,False,0.4087,0.3839,est,0.3884
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,20.5,False,0.3588,0.3352,est,0.3395
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pr,21.5,False,0.3117,0.2899,est,0.2938
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,12.5,False,0.7234,0.7213,est,0.7217
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,13.5,False,0.6672,0.6648,est,0.6653
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,14.5,False,0.6079,0.6054,est,0.6059
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,15.5,False,0.5478,0.5452,est,0.5457
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,16.5,True,0.4889,0.4863,book,0.4868
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,17.5,False,0.4314,0.4289,est,0.4293
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,18.5,False,0.3779,0.3755,est,0.3759
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,19.5,False,0.3288,0.3265,est,0.327
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,pa,20.5,False,0.282,0.2799,est,0.2803
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,3.5,False,0.8983,0.8982,est,0.8982
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,4.5,False,0.8075,0.8074,est,0.8074
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,5.5,False,0.6894,0.6893,est,0.6893
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,6.5,True,0.5581,0.5579,book,0.5579
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,7.5,False,0.4294,0.4292,est,0.4293
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,8.5,False,0.3136,0.3135,est,0.3135
+401909325,SAS @ POR,SAS,1630170,Devin Vassell,ra,9.5,False,0.2123,0.2122,est,0.2122
