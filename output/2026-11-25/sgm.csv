@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 PHX @ HOU,Miles Bridges pts under 13.5 + HOU win,2,0.3926,0.4138,2.42,2.54,2.48,0.0264,1.055,2.10-2.50
 PHX @ HOU,Kevin Durant 4+ ast + HOU win,2,0.462,0.414,2.42,2.54,2.38,-0.0127,1.028,2.10-2.50
-PHX @ HOU,Amen Thompson 25+ pra + HOU win,2,0.4472,0.4264,2.35,2.46,2.29,-0.0216,1.035,2.10-2.50
+PHX @ HOU,Fred VanVleet 15+ pr + HOU win,2,0.4396,0.4241,2.36,2.48,2.29,-0.0269,1.037,2.10-2.50
 PHX @ HOU,HOU win + Fred VanVleet 15+ pra,2,0.6005,0.6015,1.66,1.75,1.57,-0.0579,1.017,1.50-1.65
 PHX @ HOU,HOU win + Fred VanVleet 10+ pr,2,0.6156,0.6159,1.62,1.7,1.52,-0.0633,1.011,1.50-1.65
-PHX @ HOU,HOU win + Amen Thompson 20+ pra,2,0.5833,0.5961,1.68,1.76,1.57,-0.0633,1.016,1.50-1.65
 PHX @ HOU,Kevin Durant 9+ ra + Fred VanVleet 10+ pr,2,0.5906,0.4478,2.23,2.34,2.09,-0.0637,1.003,1.85-2.10
 PHX @ HOU,Amen Thompson 10+ ra + Oso Ighodaro 5+ pa,2,0.5938,0.4596,2.18,2.28,2.03,-0.066,1.003,1.85-2.10
-PHX @ HOU,Amen Thompson 25+ pra + Alperen Sengun 6+ reb,2,0.5669,0.454,2.2,2.31,2.05,-0.0675,1.005,1.85-2.10
+PHX @ HOU,Amen Thompson 10+ ra + Alperen Sengun 6+ reb,2,0.5934,0.4601,2.17,2.28,2.03,-0.0681,1.001,1.85-2.10
+PHX @ HOU,Fred VanVleet 15+ pra + Jalen Green 1+ 3pm,2,0.7202,0.5888,1.7,1.78,1.56,-0.0824,1.002,1.50-1.65
 PHX @ HOU,HOU win + Fred VanVleet 15+ pra + Alperen Sengun 6+ reb,3,0.533,0.5008,2.0,2.1,1.78,-0.1082,1.015,1.65-1.85
 PHX @ HOU,HOU win + Fred VanVleet 10+ pr + Alperen Sengun 6+ reb,3,0.5464,0.5128,1.95,2.05,1.73,-0.1134,1.009,1.65-1.85
-PHX @ HOU,HOU win + Amen Thompson 20+ pra + Alperen Sengun 6+ reb,3,0.5175,0.4961,2.02,2.12,1.79,-0.1137,1.014,1.65-1.85
+PHX @ HOU,HOU win + Fred VanVleet 15+ pra + Oso Ighodaro 5+ pa,3,0.5275,0.4947,2.02,2.12,1.79,-0.1159,1.006,1.65-1.85
 SAC @ GSW,SAC +7.5 + Domantas Sabonis 15+ pa,2,0.3663,0.4094,2.44,2.56,2.36,-0.0334,1.047,2.10-2.50
 SAC @ GSW,Draymond Green 11+ pa + GSW win,2,0.4935,0.3897,2.57,2.69,2.48,-0.0342,1.027,2.10-2.50
 SAC @ GSW,Draymond Green 5+ ast + GSW win,2,0.5304,0.4087,2.45,2.57,2.36,-0.0353,1.019,2.10-2.50
