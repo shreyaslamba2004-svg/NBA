@@ -2,29 +2,29 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909319,NYK,904683730,Jaden Akins,,,1.0,,,
 401909319,NYK,1630631,Jose Alvarado,,,1.0,,,
 401909319,NYK,1628384,OG Anunoby,Out,Injury/Illness-LeftCalfStrain,0.0,"Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",,
-401909319,NYK,1628969,Mikal Bridges,Starting,,1.0,,,1.0
-401909319,NYK,1628973,Jalen Brunson,Starting,Injury/Illness-Illness,1.0,,,1.0
+401909319,NYK,1628969,Mikal Bridges,,,1.0,,,
+401909319,NYK,1628973,Jalen Brunson,Available,Injury/Illness-Illness,1.0,,,
 401909319,NYK,203903,Jordan Clarkson,Out,Injury/Illness-RightPlantarFasciitis,0.0,Clarkson (foot) is out for Wednesday's game against Cleveland.,,
 401909319,NYK,1642359,Pacome Dadiet,,,1.0,,,
 401909319,NYK,1642885,Mohamed Diawara,,,1.0,,,
 401909319,NYK,203083,Andre Drummond,,,1.0,,,
-401909319,NYK,1628404,Josh Hart,Starting,Injury/Illness-RightShoulderSprain,1.0,,,1.0
+401909319,NYK,1628404,Josh Hart,Available,Injury/Illness-RightShoulderSprain,1.0,,,
 401909319,NYK,1642261,Dalton Knecht,,,1.0,,,
 401909319,NYK,1642278,Tyler Kolek,,,1.0,,,
 401909319,NYK,1630540,Miles McBride,Out,,0.0,McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.,,
 401909319,NYK,904838721,Tyler Nickel,,,1.0,,,
-401909319,NYK,1629013,Landry Shamet,Starting,,1.0,,,1.0
-401909319,NYK,1626157,Karl-Anthony Towns,Starting,,1.0,,,1.0
+401909319,NYK,1629013,Landry Shamet,,,1.0,,,
+401909319,NYK,1626157,Karl-Anthony Towns,Available,,1.0,,,
 401909319,NYK,1630164,James Wiseman,,,1.0,,,
-401909319,CLE,1628386,Jarrett Allen,Starting,,1.0,,,1.0
+401909319,CLE,1628386,Jarrett Allen,,,1.0,,,
 401909319,CLE,904702099,Zack Austin,Out,GLeague-Two-Way,0.0,,,
 401909319,CLE,1628418,Thomas Bryant,,,1.0,,,
 401909319,CLE,904997530,Khalifa Diop,Out,GLeague-OnAssignment,0.0,,,
-401909319,CLE,201935,James Harden,Starting,,1.0,,,1.0
+401909319,CLE,201935,James Harden,,,1.0,,,
 401909319,CLE,1626209,Mario Hezonja,,,1.0,,,
-401909319,CLE,1630241,Sam Merrill,Starting,,1.0,,,1.0
+401909319,CLE,1630241,Sam Merrill,,,1.0,,,
 401909319,CLE,1642434,Riley Minix,,,1.0,,,
-401909319,CLE,1628378,Donovan Mitchell,Starting,,1.0,,,1.0
+401909319,CLE,1628378,Donovan Mitchell,,,1.0,,,
 401909319,CLE,1630596,Evan Mobley,Out,Injury/Illness-LeftGreatToeSprain,0.0,"Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days.",,
 401909319,CLE,1641807,Norchad Omier,,,1.0,,,
 401909319,CLE,1641854,Craig Porter Jr.,,,1.0,,,
@@ -33,52 +33,52 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909319,CLE,1641772,Nae'Qwan Tomlin,Out,,0.0,Tomlin (back) will remain on the inactive list for Wednesday's game against the Grizzlies.,,
 401909319,CLE,1642281,Jaylon Tyson,,,1.0,,,
 401909319,CLE,905106261,Ernest Udeh Jr.,Out,GLeague-Two-Way,0.0,,,
-401909319,CLE,1631212,Peyton Watson,Starting,,1.0,,,1.0
+401909319,CLE,1631212,Peyton Watson,,,1.0,,,
 401909320,OKC,1642964,Brooks Barnhizer,,,1.0,,,
 401909320,OKC,1627936,Alex Caruso,,,1.0,,,
 401909320,OKC,1642363,Nique Clifford,,,1.0,,,
 401909320,OKC,905105800,Josh Dix,,,1.0,,,
-401909320,OKC,1628983,Shai Gilgeous-Alexander,Starting,,1.0,,,1.0
-401909320,OKC,1628392,Isaiah Hartenstein,Starting,,1.0,,,1.0
+401909320,OKC,1628983,Shai Gilgeous-Alexander,,,1.0,,,
+401909320,OKC,1628392,Isaiah Hartenstein,,,1.0,,,
 401909320,OKC,1631096,Chet Holmgren,Out,,0.0,"Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports.",,
-401909320,OKC,905174983,Aday Mara,Out,Injury/Illness-RightShinContusion,0.0,Mara (leg) is out for Wednesday's game versus the Timberwolves.,,0.0
+401909320,OKC,905174983,Aday Mara,Out,Injury/Illness-RightShinContusion,0.0,Mara (leg) is out for Wednesday's game versus the Timberwolves.,,
 401909320,OKC,1642272,Jared McCain,,,1.0,,,
-401909320,OKC,1642349,Ajay Mitchell,Starting,,1.0,,,1.0
-401909320,OKC,904432185,Micah Peavy,Starting,,1.0,,,1.0
+401909320,OKC,1642349,Ajay Mitchell,,,1.0,,,
+401909320,OKC,904432185,Micah Peavy,,,1.0,,,
 401909320,OKC,905061603,Thomas Sorber,Out,Injury/Illness-RightKneeSurgery,0.0,"Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports.",,
-401909320,OKC,905241364,Bennett Stirtz,Starting,,1.0,,,1.0
+401909320,OKC,905241364,Bennett Stirtz,,,1.0,,,
 401909320,OKC,1642260,Nikola Topic,Out,Injury/Illness-LeftHipStrain,0.0,Topic (hip) is listed as out for Wednesday's game versus Minnesota.,,
 401909320,OKC,1641717,Cason Wallace,Out,Injury/Illness-LeftShoulderSurgery,0.0,"Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports.",,
 401909320,OKC,1631114,Jalen Williams,Out,Injury/Illness-LeftAnkleSurgery,0.0,"Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report.",,
 401909320,OKC,1631119,Jaylin Williams,Out,Injury/Illness-LowBackSpasms,0.0,Williams (back) is listed as out for Wednesday's game against Minnesota.,,
 401909320,OKC,1629026,Kenrich Williams,,,1.0,,,
-401909320,MIN,1630163,LaMelo Ball,Starting,,1.0,,,1.0
+401909320,MIN,1630163,LaMelo Ball,,,1.0,,,
 401909320,MIN,1642866,Joan Beringer,Available,Injury/Illness-RightFaceMask,1.0,,,
 401909320,MIN,1641780,Johni Broome,,,1.0,,,
 401909320,MIN,1641740,Jaylen Clark,Out,Injury/Illness-RightHamstringStrain,0.0,Clark (hamstring) has been ruled out for the next two weeks.,,
 401909320,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a return to game action in January, Jon Krawczynski of The Athletic reports.",,
-401909320,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
+401909320,MIN,1630245,Ayo Dosunmu,,,1.0,,,
 401909320,MIN,1630162,Anthony Edwards,Out,Injury/Illness-RightKnee,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909320,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909320,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
+401909320,MIN,203497,Rudy Gobert,,,1.0,,,
 401909320,MIN,1630538,Bones Hyland,,,1.0,,,
-401909320,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
+401909320,MIN,1630228,Jonathan Kuminga,,,1.0,,,
 401909320,MIN,1626168,Trey Lyles,,,1.0,,,
-401909320,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
+401909320,MIN,1630183,Jaden McDaniels,,,1.0,,,
 401909320,MIN,1642389,Zyon Pullin,,,1.0,,,
 401909320,MIN,1630545,Terrence Shannon Jr.,,,1.0,,,
 401909320,MIN,904895758,Cody Williams,,,1.0,,,
 401909320,MIN,1642911,Rocco Zikarsky,Out,GLeague-Two-Way,0.0,,,
 401909321,MEM,905041935,Cameron Boozer,Out,,0.0,"Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports.",,
-401909321,MEM,1642907,Cedric Coward,,,1.0,,,
-401909321,MEM,1641744,Zach Edey,,,1.0,,,
+401909321,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
+401909321,MEM,1641744,Zach Edey,Starting,,1.0,,,1.0
 401909321,MEM,203924,Jerami Grant,Out,Injury/Illness-LeftCalfStrain,0.0,Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.,,
 401909321,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401909321,MEM,1641713,GG Jackson,Out,,0.0,Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.,,
-401909321,MEM,1629660,Ty Jerome,,,1.0,,,
+401909321,MEM,1629660,Ty Jerome,Starting,,1.0,,,1.0
 401909321,MEM,905231919,Karim Lopez,,,1.0,,,
 401909321,MEM,1642942,Jahmai Mashack,,,1.0,,,
-401909321,MEM,1631200,Kris Murray,,,1.0,,,
+401909321,MEM,1631200,Kris Murray,Starting,,1.0,,,1.0
 401909321,MEM,1630590,Scotty Pippen Jr.,Out,,0.0,Pippen (back) is out for Wednesday's game against the Clippers.,,
 401909321,MEM,904593016,Quinten Post,,,1.0,,,
 401909321,MEM,1641765,Olivier-Maxence Prosper,,,1.0,,,
@@ -86,17 +86,17 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909321,MEM,1642914,Javon Small,,,1.0,,,
 401909321,MEM,1642285,Cam Spencer,,,1.0,,,
 401909321,MEM,1630191,Isaiah Stewart,,,1.0,,,
-401909321,MEM,1642377,Jaylen Wells,,,1.0,,,
+401909321,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
 401909321,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909321,LAC,1642353,Cam Christie,,,1.0,,,
 401909321,LAC,1641711,Gradey Dick,,,1.0,,,
 401909321,LAC,1627739,Kris Dunn,,,1.0,,,
-401909321,LAC,1629636,Darius Garland,,,1.0,,,
-401909321,LAC,1629060,Rui Hachimura,,,1.0,,,
-401909321,LAC,1627742,Brandon Ingram,,,1.0,,,
+401909321,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
+401909321,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
+401909321,LAC,1627742,Brandon Ingram,Starting,,1.0,,,1.0
 401909321,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401909321,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
-401909321,LAC,201572,Brook Lopez,,,1.0,,,
+401909321,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401909321,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
 401909321,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401909321,LAC,1641757,Baba Miller,,,1.0,,,
 401909321,LAC,905108024,Yanic Konan Niederhauser,,,1.0,,,
@@ -109,22 +109,22 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909322,MIL,905082206,Brayden Burries,Active,,1.0,,,
 401909322,MIL,1631172,Ousmane Dieng,Active,,1.0,,,
 401909322,MIL,1631260,AJ Green,Active,,1.0,,,
-401909322,MIL,1629639,Tyler Herro,Active,,1.0,,,
+401909322,MIL,1629639,Tyler Herro,Starting,,1.0,,,1.0
 401909322,MIL,905214640,Kasparas Jakucionis,Active,,1.0,,,
-401909322,MIL,1631170,Jaime Jaquez Jr.,Active,,1.0,,,
+401909322,MIL,1631170,Jaime Jaquez Jr.,Starting,,1.0,,,1.0
 401909322,MIL,1642880,Kam Jones,Active,,1.0,,,
-401909322,MIL,1628398,Kyle Kuzma,Active,,1.0,,,
+401909322,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
 401909322,MIL,1627747,Caris LeVert,Active,,1.0,,,
 401909322,MIL,905214989,Bogoljub Markovic,Active,,1.0,,,
 401909322,MIL,1631250,Pete Nance,Active,,1.0,,,
-401909322,MIL,1631157,Ryan Rollins,Active,,1.0,,,
+401909322,MIL,1631157,Ryan Rollins,Starting,,1.0,,,1.0
 401909322,MIL,1642504,Cormac Ryan,Active,,1.0,,,
 401909322,MIL,1630579,Jericho Sims,Active,,1.0,,,
 401909322,MIL,1629018,Gary Trent Jr.,Active,,1.0,,,
-401909322,MIL,1626167,Myles Turner,Active,,1.0,,,
+401909322,MIL,1626167,Myles Turner,Starting,,1.0,,,1.0
 401909322,MIL,905105623,Kel'el Ware,Active,,1.0,,,
 401909322,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,,,
-401909322,BKN,905101761,Mikel Brown Jr.,,,1.0,,,
+401909322,BKN,905101761,Mikel Brown Jr.,Starting,,1.0,,,1.0
 401909322,BKN,1641730,Noah Clowney,,,1.0,,,
 401909322,BKN,1642856,Egor Demin,,,1.0,,,
 401909322,BKN,1631165,Keon Ellis,,,1.0,,,
@@ -133,14 +133,14 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909322,BKN,1629611,Terance Mann,,,1.0,,,
 401909322,BKN,1631169,Josh Minott,,,1.0,,,
 401909322,BKN,1641761,Grant Nelson,,,1.0,,,
-401909322,BKN,1629008,Michael Porter Jr.,,,1.0,,,
+401909322,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
 401909322,BKN,1642962,Drake Powell,Out,GLeague-OnAssignment,0.0,,,
-401909322,BKN,203944,Julius Randle,,,1.0,,,
+401909322,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
 401909322,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909322,BKN,1630549,Day'Ron Sharpe,,,1.0,,,
+401909322,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
 401909322,BKN,1642849,Nolan Traore,Out,Injury/Illness-RightHamstringStrain,0.0,"Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports.",,
 401909322,BKN,1629021,Moritz Wagner,,,1.0,,,
-401909322,BKN,1642874,Danny Wolf,,,1.0,,,
+401909322,BKN,1642874,Danny Wolf,Starting,,1.0,,,1.0
 401909323,HOU,203500,Steven Adams,Active,,1.0,,,
 401909323,HOU,203992,Bogdan Bogdanovic,Active,,1.0,,,
 401909323,HOU,203991,Clint Capela,Active,,1.0,,,
