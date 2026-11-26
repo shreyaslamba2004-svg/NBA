@@ -1,14 +1,14 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909321,MEM,905041935,Cameron Boozer,Out,,0.0,"Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports.",,
-401909321,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
-401909321,MEM,1641744,Zach Edey,Starting,,1.0,,,1.0
+401909321,MEM,1642907,Cedric Coward,,,1.0,,,
+401909321,MEM,1641744,Zach Edey,,,1.0,,,
 401909321,MEM,203924,Jerami Grant,Out,Injury/Illness-LeftCalfStrain,0.0,Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.,,
 401909321,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401909321,MEM,1641713,GG Jackson,Out,,0.0,Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.,,
-401909321,MEM,1629660,Ty Jerome,Starting,,1.0,,,1.0
+401909321,MEM,1629660,Ty Jerome,,,1.0,,,
 401909321,MEM,905231919,Karim Lopez,,,1.0,,,
 401909321,MEM,1642942,Jahmai Mashack,,,1.0,,,
-401909321,MEM,1631200,Kris Murray,Starting,,1.0,,,1.0
+401909321,MEM,1631200,Kris Murray,,,1.0,,,
 401909321,MEM,1630590,Scotty Pippen Jr.,Out,,0.0,Pippen (back) is out for Wednesday's game against the Clippers.,,
 401909321,MEM,904593016,Quinten Post,,,1.0,,,
 401909321,MEM,1641765,Olivier-Maxence Prosper,,,1.0,,,
@@ -16,17 +16,17 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909321,MEM,1642914,Javon Small,,,1.0,,,
 401909321,MEM,1642285,Cam Spencer,,,1.0,,,
 401909321,MEM,1630191,Isaiah Stewart,,,1.0,,,
-401909321,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
+401909321,MEM,1642377,Jaylen Wells,,,1.0,,,
 401909321,LAC,203078,Bradley Beal,Out,,0.0,"Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports.",,
 401909321,LAC,1642353,Cam Christie,,,1.0,,,
 401909321,LAC,1641711,Gradey Dick,,,1.0,,,
 401909321,LAC,1627739,Kris Dunn,,,1.0,,,
-401909321,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
-401909321,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
-401909321,LAC,1627742,Brandon Ingram,Starting,,1.0,,,1.0
+401909321,LAC,1629636,Darius Garland,,,1.0,,,
+401909321,LAC,1629060,Rui Hachimura,,,1.0,,,
+401909321,LAC,1627742,Brandon Ingram,,,1.0,,,
 401909321,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401909321,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
-401909321,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
+401909321,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
+401909321,LAC,201572,Brook Lopez,,,1.0,,,
 401909321,LAC,905105832,Nick Martinelli,Out,GLeague-Two-Way,0.0,,,
 401909321,LAC,1641757,Baba Miller,,,1.0,,,
 401909321,LAC,905108024,Yanic Konan Niederhauser,,,1.0,,,
@@ -39,22 +39,22 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909322,MIL,905082206,Brayden Burries,Active,,1.0,,,
 401909322,MIL,1631172,Ousmane Dieng,Active,,1.0,,,
 401909322,MIL,1631260,AJ Green,Active,,1.0,,,
-401909322,MIL,1629639,Tyler Herro,Starting,,1.0,,,1.0
+401909322,MIL,1629639,Tyler Herro,Active,,1.0,,,
 401909322,MIL,905214640,Kasparas Jakucionis,Active,,1.0,,,
-401909322,MIL,1631170,Jaime Jaquez Jr.,Starting,,1.0,,,1.0
+401909322,MIL,1631170,Jaime Jaquez Jr.,Active,,1.0,,,
 401909322,MIL,1642880,Kam Jones,Active,,1.0,,,
-401909322,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
+401909322,MIL,1628398,Kyle Kuzma,Active,,1.0,,,
 401909322,MIL,1627747,Caris LeVert,Active,,1.0,,,
 401909322,MIL,905214989,Bogoljub Markovic,Active,,1.0,,,
 401909322,MIL,1631250,Pete Nance,Active,,1.0,,,
-401909322,MIL,1631157,Ryan Rollins,Starting,,1.0,,,1.0
+401909322,MIL,1631157,Ryan Rollins,Active,,1.0,,,
 401909322,MIL,1642504,Cormac Ryan,Active,,1.0,,,
 401909322,MIL,1630579,Jericho Sims,Active,,1.0,,,
 401909322,MIL,1629018,Gary Trent Jr.,Active,,1.0,,,
-401909322,MIL,1626167,Myles Turner,Starting,,1.0,,,1.0
+401909322,MIL,1626167,Myles Turner,Active,,1.0,,,
 401909322,MIL,905105623,Kel'el Ware,Active,,1.0,,,
 401909322,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,,,
-401909322,BKN,905101761,Mikel Brown Jr.,Starting,,1.0,,,1.0
+401909322,BKN,905101761,Mikel Brown Jr.,,,1.0,,,
 401909322,BKN,1641730,Noah Clowney,,,1.0,,,
 401909322,BKN,1642856,Egor Demin,,,1.0,,,
 401909322,BKN,1631165,Keon Ellis,,,1.0,,,
@@ -63,41 +63,41 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909322,BKN,1629611,Terance Mann,,,1.0,,,
 401909322,BKN,1631169,Josh Minott,,,1.0,,,
 401909322,BKN,1641761,Grant Nelson,,,1.0,,,
-401909322,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
+401909322,BKN,1629008,Michael Porter Jr.,,,1.0,,,
 401909322,BKN,1642962,Drake Powell,Out,GLeague-OnAssignment,0.0,,,
-401909322,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
+401909322,BKN,203944,Julius Randle,,,1.0,,,
 401909322,BKN,1642879,Ben Saraf,Out,GLeague-OnAssignment,0.0,,,
-401909322,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
+401909322,BKN,1630549,Day'Ron Sharpe,,,1.0,,,
 401909322,BKN,1642849,Nolan Traore,Out,Injury/Illness-RightHamstringStrain,0.0,"Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports.",,
 401909322,BKN,1629021,Moritz Wagner,,,1.0,,,
-401909322,BKN,1642874,Danny Wolf,Starting,,1.0,,,1.0
+401909322,BKN,1642874,Danny Wolf,,,1.0,,,
 401909323,HOU,203500,Steven Adams,Active,,1.0,,,
 401909323,HOU,203992,Bogdan Bogdanovic,Active,,1.0,,,
 401909323,HOU,203991,Clint Capela,Active,,1.0,,,
 401909323,HOU,904683860,Quadir Copeland,Out,GLeague-Two-Way,0.0,,,
 401909323,HOU,1642384,Isaiah Crawford,Active,,1.0,,,
-401909323,HOU,201142,Kevin Durant,Active,,1.0,,,
+401909323,HOU,201142,Kevin Durant,Starting,,1.0,,,1.0
 401909323,HOU,1631106,Tari Eason,Active,,1.0,,,
 401909323,HOU,1641763,Julian Phillips,Out,GLeague-Two-Way,0.0,,,
-401909323,HOU,1630578,Alperen Sengun,Active,,1.0,,,
+401909323,HOU,1630578,Alperen Sengun,Starting,,1.0,,,1.0
 401909323,HOU,1642263,Reed Sheppard,Active,,1.0,,,
 401909323,HOU,203935,Marcus Smart,Active,,1.0,,,
-401909323,HOU,1631095,Jabari Smith Jr.,Active,,1.0,,,
+401909323,HOU,1631095,Jabari Smith Jr.,Starting,,1.0,,,1.0
 401909323,HOU,1630256,Jae'Sean Tate,Active,,1.0,,,
-401909323,HOU,1641708,Amen Thompson,Active,,1.0,,,
+401909323,HOU,1641708,Amen Thompson,Starting,,1.0,,,1.0
 401909323,HOU,905105837,Bruce Thornton,Active,,1.0,,,
 401909323,HOU,1631131,Oscar Tshiebwe,Active,,1.0,,,
-401909323,HOU,1627832,Fred VanVleet,Active,,1.0,,,
-401909323,PHX,1626164,Devin Booker,,,1.0,,,
+401909323,HOU,1627832,Fred VanVleet,Starting,,1.0,,,1.0
+401909323,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
 401909323,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909323,PHX,1628970,Miles Bridges,,,1.0,,,
-401909323,PHX,1628415,Dillon Brooks,,,1.0,,,
+401909323,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
+401909323,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
 401909323,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909323,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909323,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909323,PHX,1630692,Jordan Goodwin,,,1.0,,,
-401909323,PHX,1630224,Jalen Green,,,1.0,,,
-401909323,PHX,1642345,Oso Ighodaro,,,1.0,,,
+401909323,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
+401909323,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
 401909323,PHX,1628379,Luke Kennard,,,1.0,,,
 401909323,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909323,PHX,905041953,Koa Peat,,,1.0,,,
