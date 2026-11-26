@@ -1,16 +1,4 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-CHI @ CHA,Tre Jones 12+ pts + Isaac Okoro 10+ pra,2,0.5635,0.4378,2.28,2.4,2.33,0.0192,1.006,2.10-2.50
-CHI @ CHA,Tre Jones 12+ pts + Sion James 10+ pra,2,0.5626,0.4355,2.3,2.41,2.34,0.0174,1.003,2.10-2.50
-CHI @ CHA,Tre Jones 12+ pts + Matas Buzelis 15+ pra,2,0.5869,0.4651,2.15,2.26,2.19,0.0163,1.008,2.10-2.50
-CHI @ CHA,Tre Jones 12+ pts + Josh Giddey 10+ pr,2,0.6266,0.4875,2.05,2.15,2.08,0.0155,1.002,1.85-2.10
-CHI @ CHA,Tre Jones 12+ pts + Isaac Okoro 5+ pa,2,0.6222,0.4856,2.06,2.16,2.09,0.0134,1.001,1.85-2.10
-CHI @ CHA,Josh Giddey 13+ pts + Matas Buzelis 15+ pra,2,0.5782,0.463,2.16,2.27,2.09,-0.0342,1.008,1.85-2.10
-CHI @ CHA,Royce O'Neale 3pm under 1.5 + Isaac Okoro 5+ pa,2,0.6601,0.5049,1.98,2.08,1.85,-0.0679,0.999,1.65-1.85
-CHI @ CHA,Josh Giddey 1+ 3pm + Naz Reid 6+ reb,2,0.6838,0.5972,1.67,1.76,1.51,-0.0975,1.002,1.50-1.65
-CHI @ CHA,Josh Giddey 15+ pr + Tre Jones 10+ pr + Isaac Okoro 10+ pra,3,0.6529,0.4815,2.08,2.18,1.84,-0.1123,1.012,1.65-1.85
-CHI @ CHA,Josh Giddey 15+ pr + Tre Jones 10+ pr + Isaac Okoro 5+ pa,3,0.7209,0.5339,1.87,1.97,1.65,-0.1175,1.007,1.65-1.85
-CHI @ CHA,Tre Jones 10+ pr + Isaac Okoro 10+ pra + Matas Buzelis 15+ pra,3,0.6971,0.5543,1.8,1.89,1.57,-0.1288,1.012,1.50-1.65
-CHI @ CHA,Josh Giddey 15+ pr + Isaac Okoro 10+ pra + Matas Buzelis 15+ pra,3,0.6742,0.5337,1.87,1.97,1.63,-0.1301,1.009,1.50-1.65
 CLE @ NYK,Donovan Mitchell pts under 24.5 + Karl-Anthony Towns 10+ reb,2,0.5667,0.3942,2.54,2.66,2.48,-0.0229,0.994,2.10-2.50
 CLE @ NYK,Peyton Watson pts under 11.5 + Karl-Anthony Towns 30+ pra,2,0.5132,0.4147,2.41,2.53,2.36,-0.0229,1.001,2.10-2.50
 CLE @ NYK,Peyton Watson pts under 11.5 + Karl-Anthony Towns 10+ reb,2,0.5012,0.3942,2.54,2.66,2.48,-0.0231,0.995,2.10-2.50
@@ -54,18 +42,18 @@ BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Julius Randle 4+ reb,3,0.6875
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Myles Turner 1+ blk,3,0.669,0.5461,1.83,1.92,1.57,-0.1428,1.002,1.50-1.65
 BKN @ MIL,Noah Clowney 5+ pa + Egor Demin 1+ 3pm + Day'Ron Sharpe 10+ pa,3,0.6382,0.5238,1.91,2.0,1.63,-0.1442,1.002,1.50-1.65
 BKN @ MIL,Noah Clowney 5+ pa + Myles Turner 1+ blk + Day'Ron Sharpe 10+ pa,3,0.599,0.497,2.01,2.11,1.71,-0.1479,1.0,1.65-1.85
-PHX @ HOU,Alperen Sengun 9+ reb + Dillon Brooks 1+ 3pm,2,0.5369,0.4165,2.4,2.52,2.49,0.0352,1.003,2.10-2.50
-PHX @ HOU,Alperen Sengun 9+ reb + Collin Gillespie 5+ pr,2,0.6047,0.4735,2.11,2.22,2.18,0.0318,1.001,2.10-2.50
-PHX @ HOU,Alperen Sengun 9+ reb + Jalen Green 10+ pr,2,0.5828,0.4577,2.18,2.29,2.25,0.0313,1.002,2.10-2.50
-PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6217,0.4658,2.15,2.25,2.03,-0.0565,1.001,1.85-2.10
-PHX @ HOU,Kevin Durant 4+ ast + Collin Gillespie 5+ pr,2,0.6438,0.481,2.08,2.18,1.96,-0.0579,0.999,1.85-2.10
-PHX @ HOU,Kevin Durant 9+ ra + Dillon Brooks 10+ pa,2,0.6172,0.4744,2.11,2.21,1.98,-0.0623,1.005,1.85-2.10
-PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.5726,0.6023,1.66,1.74,1.56,-0.063,1.023,1.50-1.65
-PHX @ HOU,Kevin Durant 9+ ra + Collin Gillespie 5+ pr,2,0.6604,0.5084,1.97,2.07,1.84,-0.067,1.0,1.65-1.85
-PHX @ HOU,Khaman Maluach reb under 5.5 + Collin Gillespie 5+ pr,2,0.6247,0.5159,1.94,2.04,1.77,-0.0868,0.999,1.65-1.85
-PHX @ HOU,Dillon Brooks 5+ ra + Collin Gillespie 5+ pr,2,0.6258,0.5243,1.91,2.0,1.74,-0.087,1.002,1.65-1.85
-PHX @ HOU,Dillon Brooks 15+ pra + Jalen Green 15+ pra,2,0.6789,0.5914,1.69,1.78,1.54,-0.0911,1.008,1.50-1.65
-PHX @ HOU,Dillon Brooks 15+ pra + Jabari Smith Jr. 15+ pr,2,0.6693,0.5853,1.71,1.79,1.54,-0.098,1.001,1.50-1.65
+PHX @ HOU,Alperen Sengun 9+ reb + Dillon Brooks 10+ pa,2,0.5585,0.441,2.27,2.38,2.35,0.035,1.007,2.10-2.50
+PHX @ HOU,Alperen Sengun 9+ reb + Dillon Brooks 1+ 3pm,2,0.5335,0.4157,2.41,2.53,2.49,0.0332,1.002,2.10-2.50
+PHX @ HOU,Alperen Sengun 9+ reb + Jalen Green 10+ pr,2,0.5809,0.4568,2.19,2.3,2.25,0.0293,1.0,2.10-2.50
+PHX @ HOU,Kevin Durant 4+ ast + Alperen Sengun 20+ pr,2,0.6177,0.4566,2.19,2.3,2.09,-0.0459,1.008,1.85-2.10
+PHX @ HOU,Kevin Durant 4+ ast + Collin Gillespie 5+ pr,2,0.6564,0.4838,2.07,2.17,1.96,-0.0524,1.001,1.85-2.10
+PHX @ HOU,Kevin Durant 4+ ast + Jalen Green 10+ pr,2,0.6347,0.4676,2.14,2.25,2.03,-0.0529,1.0,1.85-2.10
+PHX @ HOU,Kevin Durant 9+ ra + Collin Gillespie 5+ pr,2,0.6607,0.5089,1.96,2.06,1.84,-0.066,1.001,1.65-1.85
+PHX @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.5723,0.5951,1.68,1.76,1.57,-0.0674,1.016,1.50-1.65
+PHX @ HOU,HOU win + Jalen Green 1+ 3pm,2,0.5618,0.5676,1.76,1.85,1.62,-0.0821,0.993,1.50-1.65
+PHX @ HOU,Dillon Brooks 5+ ra + Jalen Green 10+ pr,2,0.6056,0.5075,1.97,2.07,1.8,-0.0861,1.003,1.65-1.85
+PHX @ HOU,Jalen Green 1+ 3pm + Dillon Brooks 15+ pra,2,0.6733,0.5687,1.76,1.85,1.6,-0.0888,1.003,1.50-1.65
+PHX @ HOU,Dillon Brooks 5+ ra + Collin Gillespie 5+ pr,2,0.6239,0.5231,1.91,2.01,1.74,-0.0891,1.0,1.65-1.85
 SAC @ GSW,SAC +7.5 + Domantas Sabonis 15+ pa,2,0.3663,0.4114,2.43,2.55,2.36,-0.0284,1.047,2.10-2.50
 SAC @ GSW,GSW win + Darius Acuff Jr. pr under 28.5,2,0.4631,0.3877,2.58,2.71,2.5,-0.0318,1.045,2.10-2.50
 SAC @ GSW,game over 215.5 + Domantas Sabonis 15+ pa,2,0.5467,0.4084,2.45,2.57,2.36,-0.0354,1.045,2.10-2.50
