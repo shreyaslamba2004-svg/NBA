@@ -11,25 +11,30 @@ CHI @ CHA,Royce O'Neale 3pm under 1.5 + Isaac Okoro 5+ pr,2,0.6784,0.5171,1.93,2
 CHI @ CHA,Buddy Hield 15+ pra + Josh Giddey 1+ 3pm,2,0.6746,0.5733,1.74,1.83,1.58,-0.0921,1.001,1.50-1.65
 CHI @ CHA,Buddy Hield 15+ pra + Naz Reid 6+ reb,2,0.6992,0.6018,1.66,1.74,1.5,-0.0944,1.002,1.50-1.65
 CHI @ CHA,Josh Giddey 1+ 3pm + Naz Reid 6+ reb,2,0.685,0.5977,1.67,1.76,1.51,-0.0966,1.002,1.50-1.65
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Mikal Bridges 10+ pa,2,0.5564,0.4082,2.45,2.57,2.37,-0.0343,0.998,2.10-2.50
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Andre Drummond 5+ pr,2,0.6067,0.4538,2.2,2.31,2.12,-0.0371,0.999,2.10-2.50
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Andre Drummond 4+ reb,2,0.5654,0.4212,2.37,2.49,2.29,-0.0372,0.998,2.10-2.50
-CLE @ NYK,Donovan Mitchell pts under 24.5 + Landry Shamet 1+ 3pm,2,0.6072,0.4629,2.16,2.27,2.07,-0.0411,1.0,1.85-2.10
-CLE @ NYK,Meleek Thomas 8+ pts + Andre Drummond 4+ reb,2,0.5296,0.4621,2.16,2.27,2.06,-0.0494,1.004,1.85-2.10
-CLE @ NYK,Mikal Bridges pts under 12.5 + Andre Drummond 5+ pr,2,0.4824,0.4707,2.12,2.23,2.02,-0.0506,1.0,1.85-2.10
-CLE @ NYK,James Harden ast under 6.5 + Landry Shamet 1+ 3pm,2,0.6177,0.5039,1.98,2.08,1.82,-0.0827,1.0,1.65-1.85
-MIN @ OKC,LaMelo Ball pts under 18.5 + Bennett Stirtz 5+ pr,2,0.516,0.4133,2.42,2.54,2.34,-0.0324,0.996,2.10-2.50
+CLE @ NYK,Donovan Mitchell pts under 24.5 + Karl-Anthony Towns 10+ reb,2,0.5349,0.3898,2.57,2.69,2.48,-0.034,0.996,2.10-2.50
+CLE @ NYK,Donovan Mitchell pts under 24.5 + Josh Hart 10+ pr,2,0.6049,0.4463,2.24,2.35,2.16,-0.0354,0.998,2.10-2.50
+CLE @ NYK,Donovan Mitchell pts under 24.5 + Andre Drummond 4+ reb,2,0.5679,0.4219,2.37,2.49,2.29,-0.0357,0.999,2.10-2.50
+CLE @ NYK,Mikal Bridges pts under 12.5 + Josh Hart 10+ pr,2,0.4966,0.4648,2.15,2.26,2.05,-0.0451,0.996,1.85-2.10
+CLE @ NYK,Meleek Thomas 8+ pts + Josh Hart 10+ pr,2,0.563,0.4889,2.05,2.15,1.95,-0.0489,1.004,1.85-2.10
+CLE @ NYK,Mikal Bridges pts under 12.5 + Andre Drummond 5+ pr,2,0.4967,0.4715,2.12,2.23,2.02,-0.0492,0.995,1.85-2.10
+CLE @ NYK,Mikal Bridges 10+ pa + Josh Hart 10+ pa + Karl-Anthony Towns 30+ pra,3,0.626,0.5208,1.92,2.02,1.67,-0.1324,1.019,1.65-1.85
+CLE @ NYK,Karl-Anthony Towns 10+ reb + Mikal Bridges 10+ pa + Josh Hart 10+ pa,3,0.6103,0.4949,2.02,2.12,1.75,-0.1327,1.012,1.65-1.85
+CLE @ NYK,Karl-Anthony Towns 10+ reb + Mikal Bridges 10+ pa + Andre Drummond 4+ reb,3,0.6344,0.5159,1.94,2.04,1.68,-0.1358,1.009,1.65-1.85
+CLE @ NYK,Karl-Anthony Towns 10+ reb + Mikal Bridges 10+ pa + Josh Hart 15+ pra,3,0.6472,0.5282,1.89,1.99,1.63,-0.1368,1.009,1.50-1.65
+CLE @ NYK,Mikal Bridges 10+ pa + Josh Hart 15+ pra + Karl-Anthony Towns 30+ pra,3,0.6635,0.5556,1.8,1.89,1.55,-0.137,1.015,1.50-1.65
+CLE @ NYK,Karl-Anthony Towns 10+ reb + Mikal Bridges 10+ pa + Josh Hart 10+ pr,3,0.6735,0.5439,1.84,1.93,1.58,-0.1384,1.005,1.50-1.65
+MIN @ OKC,LaMelo Ball pts under 18.5 + Bennett Stirtz 5+ pr,2,0.516,0.413,2.42,2.54,2.34,-0.0321,0.996,2.10-2.50
 MIN @ OKC,LaMelo Ball pts under 18.5 + Bennett Stirtz 5+ pra,2,0.5425,0.4419,2.26,2.38,2.19,-0.0332,0.999,2.10-2.50
 MIN @ OKC,LaMelo Ball pts under 18.5 + Shai Gilgeous-Alexander 4+ ast,2,0.4838,0.3979,2.51,2.64,2.42,-0.0356,0.999,2.10-2.50
-MIN @ OKC,LaMelo Ball pts under 18.5 + Isaiah Hartenstein 10+ pr,2,0.556,0.4767,2.1,2.2,2.0,-0.0455,0.999,1.85-2.10
+MIN @ OKC,LaMelo Ball pts under 18.5 + Kenrich Williams 5+ pr,2,0.5658,0.4799,2.08,2.19,2.0,-0.0407,1.001,1.85-2.10
+MIN @ OKC,LaMelo Ball pts under 18.5 + Isaiah Hartenstein 10+ pr,2,0.556,0.4762,2.1,2.21,2.01,-0.0452,0.999,1.85-2.10
 MIN @ OKC,LaMelo Ball pts under 18.5 + Isaiah Hartenstein 15+ pra,2,0.532,0.4555,2.2,2.31,2.09,-0.0472,0.997,1.85-2.10
-MIN @ OKC,Kenrich Williams 8+ pts + Bennett Stirtz 5+ pra,2,0.5857,0.4711,2.12,2.23,2.0,-0.0597,1.001,1.85-2.10
-MIN @ OKC,Kenrich Williams 8+ pts + Isaiah Hartenstein 10+ pr,2,0.5996,0.5076,1.97,2.07,1.83,-0.0727,1.0,1.65-1.85
-MIN @ OKC,Bennett Stirtz 2+ reb + Isaiah Hartenstein 10+ pr,2,0.6178,0.501,2.0,2.1,1.83,-0.0816,1.0,1.65-1.85
+MIN @ OKC,Kenrich Williams 8+ pts + Isaiah Hartenstein 10+ pr,2,0.5996,0.507,1.97,2.07,1.83,-0.0725,1.0,1.65-1.85
+MIN @ OKC,Bennett Stirtz 2+ reb + Kenrich Williams 5+ pr,2,0.6273,0.5032,1.99,2.09,1.83,-0.0791,1.0,1.65-1.85
+MIN @ OKC,Bennett Stirtz 2+ reb + Isaiah Hartenstein 10+ pr,2,0.6178,0.5004,2.0,2.1,1.84,-0.0814,1.0,1.65-1.85
 MIN @ OKC,Bennett Stirtz 5+ pa + Shai Gilgeous-Alexander 4+ ast,2,0.7365,0.6039,1.66,1.74,1.52,-0.0825,1.002,1.50-1.65
 MIN @ OKC,Bennett Stirtz 5+ pa + Jaden McDaniels 4+ reb,2,0.7112,0.5966,1.68,1.76,1.53,-0.0897,1.0,1.50-1.65
-MIN @ OKC,Bennett Stirtz 5+ pa + Shai Gilgeous-Alexander 4+ ast + Trey Lyles 5+ pr,3,0.6603,0.5024,1.99,2.09,1.74,-0.1261,1.004,1.65-1.85
-MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 10+ pts,3,0.6871,0.5319,1.88,1.97,1.63,-0.1304,1.003,1.50-1.65
+MIN @ OKC,Bennett Stirtz 5+ pr + Shai Gilgeous-Alexander 4+ ast + Jaden McDaniels 10+ pts,3,0.6871,0.5315,1.88,1.98,1.64,-0.1301,1.003,1.50-1.65
 LAC @ MEM,Jaylen Wells 14+ pra + MEM win,2,0.3806,0.3989,2.51,2.63,2.47,-0.0154,1.042,2.10-2.50
 LAC @ MEM,Cam Spencer 5+ ast + MEM win,2,0.4019,0.4124,2.43,2.55,2.38,-0.017,1.031,2.10-2.50
 LAC @ MEM,LAC +7.5 + Max Strus 10+ pra,2,0.5311,0.3973,2.52,2.64,2.39,-0.0511,1.018,2.10-2.50
