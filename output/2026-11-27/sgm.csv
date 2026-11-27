@@ -12,7 +12,7 @@ MIA @ NYK,Mikal Bridges 15+ pra + Jalen Brunson 2+ 3pm + Bam Adebayo 10+ pts,3,0
 MIL @ DET,Kel'el Ware pr under 16.5 + DET win,2,0.5029,0.4051,2.47,2.59,2.42,-0.0185,1.023,2.10-2.50
 MIL @ DET,DET win + Paul Reed 10+ ra,2,0.4723,0.4058,2.46,2.59,2.34,-0.0508,1.006,2.10-2.50
 MIL @ DET,DET win + Kel'el Ware ra under 8.5,2,0.4881,0.4108,2.43,2.56,2.31,-0.0529,0.999,2.10-2.50
-MIL @ DET,game over 219.5 + Kevin Huerter 10+ pa,2,0.4182,0.4551,2.2,2.31,2.05,-0.0652,1.024,1.85-2.10
+MIL @ DET,game over 219.5 + Daniss Jenkins 10+ pts,2,0.4102,0.4488,2.23,2.34,2.1,-0.0594,1.032,1.85-2.10
 MIL @ DET,Kel'el Ware pr under 16.5 + Paul Reed 4+ reb,2,0.5966,0.4639,2.16,2.26,2.01,-0.0695,1.001,1.85-2.10
 MIL @ DET,Kel'el Ware pr under 16.5 + John Collins 10+ pra,2,0.6116,0.4734,2.11,2.22,1.96,-0.0704,0.999,1.85-2.10
 MIL @ DET,DET win + Ausar Thompson 4+ ast,2,0.6328,0.6027,1.66,1.74,1.54,-0.0707,1.011,1.50-1.65
@@ -20,7 +20,7 @@ MIL @ DET,DET win + Javonte Green 1+ 3pm,2,0.6341,0.5968,1.68,1.76,1.56,-0.0718,
 MIL @ DET,DET win + John Collins 4+ reb,2,0.6292,0.599,1.67,1.75,1.54,-0.0792,1.002,1.50-1.65
 MIL @ DET,Tyler Herro 4+ ast + John Collins 10+ pra,2,0.6174,0.5021,1.99,2.09,1.83,-0.0808,1.002,1.65-1.85
 MIL @ DET,Isaiah Joe 3pm under 3.5 + John Collins 10+ pra,2,0.6557,0.5308,1.88,1.98,1.73,-0.0833,0.998,1.65-1.85
-MIL @ DET,Tyler Herro 4+ ast + Kevin Huerter 10+ pa,2,0.5964,0.4956,2.02,2.12,1.85,-0.0835,1.004,1.65-1.85
+MIL @ DET,Isaiah Joe 3pm under 3.5 + Paul Reed 4+ reb,2,0.638,0.5189,1.93,2.02,1.76,-0.0846,0.997,1.65-1.85
 PHI @ IND,game over 229.5 + LeBron James 20+ pr,2,0.5161,0.3896,2.57,2.69,2.49,-0.0309,1.039,2.10-2.50
 PHI @ IND,game over 229.5 + Pascal Siakam 20+ pa,2,0.5188,0.4139,2.42,2.54,2.32,-0.0383,1.045,2.10-2.50
 PHI @ IND,game over 229.5 + VJ Edgecombe 10+ pts,2,0.5188,0.4052,2.47,2.59,2.36,-0.0452,1.033,2.10-2.50
@@ -74,7 +74,7 @@ DAL @ PHX,game over 227.5 + P.J. Washington 15+ pra,2,0.4556,0.3953,2.53,2.66,2.
 DAL @ PHX,game over 227.5 + Dillon Brooks 10+ pts,2,0.4763,0.4146,2.41,2.53,2.32,-0.038,1.038,2.10-2.50
 DAL @ PHX,Caleb Martin 3pm under 1.5 + Jalen Green 1+ 3pm,2,0.7265,0.5256,1.9,2.0,1.8,-0.052,1.001,1.65-1.85
 DAL @ PHX,Caleb Martin 3pm under 1.5 + Devin Booker 4+ ast,2,0.7196,0.5166,1.94,2.03,1.83,-0.0532,0.998,1.65-1.85
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Dillon Brooks 15+ pra,2,0.7203,0.5341,1.87,1.97,1.76,-0.0588,1.0,1.65-1.85
+DAL @ PHX,Caleb Martin 3pm under 1.5 + Dillon Brooks 10+ pts,2,0.7099,0.5262,1.9,2.0,1.79,-0.0589,0.999,1.65-1.85
 DAL @ PHX,game over 227.5 + P.J. Washington 10+ pr,2,0.5139,0.4533,2.21,2.32,2.07,-0.0598,1.018,1.85-2.10
 DAL @ PHX,Caleb Martin 3pm under 1.5 + Jalen Green 15+ pr,2,0.6613,0.4947,2.02,2.12,1.9,-0.0599,1.001,1.85-2.10
 DAL @ PHX,Devin Booker 9+ ra + Dillon Brooks 10+ pa,2,0.6121,0.4693,2.13,2.24,2.0,-0.0608,1.004,1.85-2.10
