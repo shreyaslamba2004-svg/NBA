@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIA @ NYK,NYK win + Jalen Brunson 30+ pra,2,0.5081,0.5056,1.98,2.08,1.92,-0.0275,1.026,1.85-2.10
-MIA @ NYK,game over 222.5 + Jalen Brunson 30+ pra,2,0.5112,0.4227,2.37,2.48,2.28,-0.035,1.048,2.10-2.50
-MIA @ NYK,NYK win + Josh Hart 1+ 3pm,2,0.4747,0.4722,2.12,2.22,2.04,-0.0377,1.015,1.85-2.10
-MIA @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.4948,0.4917,2.03,2.14,1.95,-0.0413,1.011,1.85-2.10
-MIA @ NYK,NYK win + Josh Hart 10+ pr,2,0.5721,0.5645,1.77,1.86,1.69,-0.0462,1.004,1.65-1.85
-MIA @ NYK,game over 222.5 + Bam Adebayo 6+ reb,2,0.4934,0.3958,2.53,2.65,2.4,-0.0505,1.024,2.10-2.50
-MIA @ NYK,NYK win + Andrew Wiggins 5+ pra,2,0.57,0.5604,1.78,1.87,1.69,-0.0524,0.997,1.65-1.85
-MIA @ NYK,game over 222.5 + Andrew Wiggins 5+ pa,2,0.5381,0.4323,2.31,2.43,2.19,-0.053,1.021,2.10-2.50
-MIA @ NYK,NYK win + Andrew Wiggins 5+ pa,2,0.5273,0.5098,1.96,2.06,1.85,-0.0591,0.986,1.65-1.85
-MIA @ NYK,Bam Adebayo 6+ reb + Josh Hart 1+ 3pm,2,0.6585,0.5891,1.7,1.78,1.52,-0.1033,1.001,1.50-1.65
-MIA @ NYK,Bam Adebayo 6+ reb + Andrew Wiggins 5+ pa + Jalen Brunson 30+ pra,3,0.636,0.531,1.88,1.98,1.61,-0.144,1.006,1.50-1.65
-MIA @ NYK,Bam Adebayo 6+ reb + Andrew Wiggins 5+ pa + Jalen Brunson 2+ 3pm,3,0.6274,0.5231,1.91,2.01,1.63,-0.1452,1.004,1.50-1.65
+MIA @ NYK,NYK win + Jalen Brunson 30+ pra,2,0.5081,0.5059,1.98,2.08,1.96,-0.0095,1.026,1.85-2.10
+MIA @ NYK,NYK win + Josh Hart 15+ pr,2,0.4761,0.4716,2.12,2.23,2.09,-0.0133,1.021,1.85-2.10
+MIA @ NYK,NYK win + Josh Hart 1+ 3pm,2,0.4747,0.4702,2.13,2.23,2.09,-0.0189,1.015,1.85-2.10
+MIA @ NYK,NYK win + Andrew Wiggins 5+ pra,2,0.57,0.5617,1.78,1.87,1.72,-0.0353,0.997,1.65-1.85
+MIA @ NYK,NYK win + Josh Hart 15+ pr + Jalen Brunson 30+ pra,3,0.4134,0.3935,2.54,2.67,2.44,-0.0379,1.055,2.10-2.50
+MIA @ NYK,NYK win + Josh Hart 1+ 3pm + Jalen Brunson 30+ pra,3,0.4105,0.3908,2.56,2.69,2.44,-0.0473,1.045,2.10-2.50
+MIA @ NYK,NYK win + Davion Mitchell 15+ pra,2,0.5381,0.5362,1.86,1.96,1.77,-0.0504,0.984,1.65-1.85
+MIA @ NYK,Mikal Bridges 19+ pra + Josh Hart 15+ pr,2,0.5431,0.4248,2.35,2.47,2.23,-0.0519,1.02,2.10-2.50
+MIA @ NYK,Mikal Bridges 19+ pra + Andrew Wiggins 5+ pra,2,0.6527,0.5078,1.97,2.07,1.83,-0.0697,0.999,1.65-1.85
+MIA @ NYK,Bam Adebayo 6+ reb + Josh Hart 15+ pr,2,0.6584,0.5888,1.7,1.78,1.53,-0.101,1.003,1.50-1.65
+MIA @ NYK,Bam Adebayo 6+ reb + Josh Hart 1+ 3pm,2,0.6585,0.589,1.7,1.78,1.52,-0.1033,1.001,1.50-1.65
+MIA @ NYK,Andrew Wiggins 5+ pa + Josh Hart 15+ pr + Jalen Brunson 30+ pra,3,0.6094,0.5251,1.9,2.0,1.63,-0.1458,1.011,1.50-1.65
 MIL @ DET,Kel'el Ware pr under 16.5 + DET win,2,0.5029,0.4051,2.47,2.59,2.42,-0.0185,1.023,2.10-2.50
 MIL @ DET,DET win + Paul Reed 10+ ra,2,0.4723,0.4058,2.46,2.59,2.34,-0.0508,1.006,2.10-2.50
 MIL @ DET,DET win + Ausar Thompson 2+ stl,2,0.48,0.405,2.47,2.59,2.34,-0.0527,0.997,2.10-2.50
@@ -98,15 +98,15 @@ LAL @ SAS,SAS win + Austin Reaves 10+ pr + Devin Vassell 10+ pra,3,0.5478,0.5491
 DEN @ UTA,DEN win + Christian Braun 15+ pa,2,0.443,0.4341,2.3,2.42,2.25,-0.0225,1.045,2.10-2.50
 DEN @ UTA,DEN win + Christian Braun 20+ pra,2,0.4277,0.4055,2.47,2.59,2.4,-0.0249,1.039,2.10-2.50
 DEN @ UTA,DEN win + DeMar DeRozan 11+ pa,2,0.4474,0.4316,2.32,2.43,2.24,-0.0351,1.033,2.10-2.50
-DEN @ UTA,DEN win + Cameron Johnson 15+ pra,2,0.585,0.6066,1.65,1.73,1.54,-0.0676,1.016,1.50-1.65
+DEN @ UTA,DEN win + Cameron Johnson 15+ pra,2,0.585,0.6026,1.66,1.74,1.55,-0.066,1.016,1.50-1.65
 DEN @ UTA,Brice Sensabaugh 15+ pra + Christian Braun 15+ pra,2,0.5762,0.4489,2.23,2.34,2.07,-0.0686,1.004,1.85-2.10
 DEN @ UTA,Brice Sensabaugh 15+ pra + Christian Braun 10+ pa,2,0.6059,0.4764,2.1,2.2,1.95,-0.0726,1.002,1.85-2.10
 DEN @ UTA,Brice Sensabaugh 15+ pra + Christian Braun 10+ pr,2,0.6458,0.5123,1.95,2.05,1.81,-0.0738,1.003,1.65-1.85
 DEN @ UTA,Ace Bailey 2+ ast + Brice Sensabaugh 10+ pra,2,0.5918,0.4771,2.1,2.2,1.94,-0.0746,1.005,1.85-2.10
 DEN @ UTA,DEN win + Brice Sensabaugh 10+ pr,2,0.6013,0.577,1.73,1.82,1.6,-0.0779,0.986,1.50-1.65
 DEN @ UTA,Brice Sensabaugh 10+ pts + Christian Braun 10+ pr,2,0.6493,0.5312,1.88,1.98,1.73,-0.0824,1.002,1.65-1.85
-DEN @ UTA,Ace Bailey 2+ ast + Christian Braun 10+ pr,2,0.6189,0.5163,1.94,2.03,1.77,-0.0852,1.001,1.65-1.85
-DEN @ UTA,DEN win + Christian Braun 15+ pra + Brice Sensabaugh 5+ pr,3,0.5953,0.5549,1.8,1.89,1.61,-0.1086,1.014,1.50-1.65
+DEN @ UTA,Brice Sensabaugh 10+ pa + Christian Braun 15+ pra,2,0.6549,0.5363,1.86,1.96,1.71,-0.0826,1.002,1.65-1.85
+DEN @ UTA,Brice Sensabaugh 10+ pa + Christian Braun 10+ pa,2,0.6895,0.5699,1.75,1.84,1.6,-0.0855,1.001,1.50-1.65
 NOP @ LAC,Yves Missi ra under 9.5 + Kris Dunn 5+ pr,2,0.6481,0.4255,2.35,2.47,2.29,-0.0246,1.0,2.10-2.50
 NOP @ LAC,LAC win + Kris Dunn 5+ pr,2,0.5797,0.4583,2.18,2.29,2.13,-0.0257,1.01,2.10-2.50
 NOP @ LAC,Yves Missi reb under 8.5 + Kris Dunn 5+ pr,2,0.6844,0.456,2.19,2.3,2.13,-0.0306,0.999,2.10-2.50
@@ -115,19 +115,19 @@ NOP @ LAC,LAC win + Brook Lopez 10+ pr,2,0.5498,0.4598,2.17,2.28,2.1,-0.0362,1.0
 NOP @ LAC,Yves Missi ra under 9.5 + Saddiq Bey 1+ 3pm,2,0.6581,0.4608,2.17,2.28,2.08,-0.041,0.999,1.85-2.10
 NOP @ LAC,LAC win + Darius Garland 1+ 3pm,2,0.6081,0.5172,1.93,2.03,1.84,-0.0461,1.006,1.65-1.85
 NOP @ LAC,Yves Missi reb under 8.5 + Darius Garland 1+ 3pm,2,0.7211,0.5169,1.93,2.03,1.84,-0.0466,1.0,1.65-1.85
-NOP @ LAC,Herbert Jones 3pm under 1.5 + Derrick Jones Jr. 5+ pa,2,0.6964,0.5341,1.87,1.97,1.74,-0.0686,0.999,1.65-1.85
-NOP @ LAC,Herbert Jones 3pm under 1.5 + Darius Garland 1+ 3pm,2,0.7139,0.5653,1.77,1.86,1.64,-0.0756,0.999,1.50-1.65
-NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6925,0.594,1.68,1.77,1.53,-0.0915,1.003,1.50-1.65
-NOP @ LAC,Brook Lopez 10+ pr + Jeremiah Fears 1+ 3pm,2,0.6518,0.5914,1.69,1.78,1.51,-0.108,0.999,1.50-1.65
+NOP @ LAC,Yves Missi reb under 8.5 + Trey Murphy III 10+ pa,2,0.7292,0.5252,1.9,2.0,1.81,-0.0506,0.997,1.65-1.85
+NOP @ LAC,Herbert Jones 3pm under 1.5 + Trey Murphy III 10+ pa,2,0.7218,0.5681,1.76,1.85,1.63,-0.0767,0.996,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6925,0.5991,1.67,1.75,1.51,-0.0933,1.003,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 10+ pr,3,0.6889,0.5472,1.83,1.92,1.58,-0.1355,1.004,1.50-1.65
 GSW @ POR,POR win + De'Anthony Melton pa under 14.5,2,0.389,0.4264,2.35,2.46,2.46,0.049,1.058,2.10-2.50
 GSW @ POR,POR win + Sidy Cissoko 11+ pa,2,0.415,0.4466,2.24,2.35,2.34,0.0458,1.048,2.10-2.50
 GSW @ POR,POR win + Charles Bassey pa under 11.5,2,0.3875,0.4214,2.37,2.49,2.48,0.0447,1.051,2.10-2.50
 GSW @ POR,POR win + De'Anthony Melton 3pm under 2.5,2,0.4827,0.5061,1.98,2.07,2.03,0.027,1.023,1.85-2.10
 GSW @ POR,POR win + Sidy Cissoko 10+ pra,2,0.5381,0.6377,1.57,1.65,1.55,-0.0145,1.014,1.50-1.65
 GSW @ POR,POR win + Sidy Cissoko 1+ 3pm,2,0.4824,0.5844,1.71,1.8,1.68,-0.0175,1.017,1.65-1.85
-GSW @ POR,POR win + Donovan Clingan 8+ reb,2,0.4852,0.6096,1.64,1.72,1.57,-0.042,1.0,1.50-1.65
-GSW @ POR,POR win + Sidy Cissoko 10+ pra + Jrue Holiday 4+ ast,3,0.4868,0.5261,1.9,2.0,1.82,-0.0424,1.032,1.65-1.85
-GSW @ POR,POR win + Jrue Holiday 4+ ast + Sidy Cissoko 1+ 3pm,3,0.4364,0.4821,2.07,2.18,1.98,-0.0455,1.034,1.85-2.10
-GSW @ POR,Sidy Cissoko 11+ pa + Jrue Holiday 4+ ast,2,0.6065,0.458,2.18,2.29,2.06,-0.0552,1.009,1.85-2.10
-GSW @ POR,POR win + Jrue Holiday 4+ ast + Donovan Clingan 15+ pra,3,0.5031,0.5595,1.79,1.88,1.68,-0.0572,1.023,1.65-1.85
-GSW @ POR,De'Anthony Melton 3pm under 2.5 + Donovan Clingan 15+ pra,2,0.7618,0.5768,1.73,1.82,1.63,-0.0627,1.002,1.50-1.65
+GSW @ POR,POR win + Sidy Cissoko 10+ pra + Jrue Holiday 4+ ast,3,0.4868,0.5281,1.89,1.99,1.81,-0.0434,1.032,1.65-1.85
+GSW @ POR,POR win + Jrue Holiday 4+ ast + Sidy Cissoko 1+ 3pm,3,0.4364,0.4839,2.07,2.17,1.97,-0.0464,1.034,1.85-2.10
+GSW @ POR,Toumani Camara 2+ ast + Jrue Holiday 4+ ast,2,0.6073,0.4568,2.19,2.3,2.07,-0.0558,1.005,1.85-2.10
+GSW @ POR,De'Anthony Melton 3pm under 2.5 + Sidy Cissoko 10+ pra,2,0.7293,0.5367,1.86,1.96,1.76,-0.058,1.0,1.65-1.85
+GSW @ POR,POR win + Sidy Cissoko 10+ pra + Donovan Clingan 15+ pra,3,0.5117,0.5706,1.75,1.84,1.65,-0.0593,1.022,1.50-1.65
+GSW @ POR,De'Anthony Melton 3pm under 2.5 + Donovan Clingan 15+ pra,2,0.7618,0.5784,1.73,1.82,1.62,-0.0633,1.002,1.50-1.65
