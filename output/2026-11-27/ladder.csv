@@ -7319,9 +7319,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,fg3m,1.5,True,0.6479,0.5554,book,0.5721
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,fg3m,2.5,False,0.3894,0.3074,book,0.3222
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,fg3m,3.5,False,0.1934,0.146,book,0.1546
-401909332,DAL @ PHX,PHX,1626164,Devin Booker,stl,0.5,False,0.6053,0.6341,book,0.6289
-401909332,DAL @ PHX,PHX,1626164,Devin Booker,stl,1.5,False,0.2496,0.2921,book,0.2844
-401909332,DAL @ PHX,PHX,1626164,Devin Booker,stl,2.5,False,0.0809,0.1113,book,0.1058
+401909332,DAL @ PHX,PHX,1626164,Devin Booker,stl,0.5,True,0.6053,0.6101,book,0.6092
+401909332,DAL @ PHX,PHX,1626164,Devin Booker,stl,1.5,False,0.2496,0.2693,book,0.2657
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,blk,0.5,False,0.243,,model only,0.243
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,blk,1.5,False,0.0343,,model only,0.0343
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,pra,29.5,False,0.7107,0.684,book,0.6888
@@ -7360,22 +7359,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,ra,9.5,False,0.557,0.3988,est,0.4275
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,ra,10.5,False,0.4447,0.297,est,0.3238
 401909332,DAL @ PHX,PHX,1626164,Devin Booker,ra,11.5,False,0.3449,0.2174,est,0.2404
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,10.5,False,0.6596,0.7377,est,0.7236
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,11.5,False,0.5899,0.6668,book,0.6529
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,12.5,False,0.5266,0.6175,est,0.6011
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,13.5,False,0.4603,0.5532,est,0.5364
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,14.5,True,0.3978,0.4895,book,0.4729
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,15.5,False,0.339,0.4268,est,0.4109
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,16.5,False,0.2853,0.3668,est,0.352
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,17.5,False,0.2414,0.3245,book,0.3095
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,18.5,False,0.2009,0.2674,est,0.2553
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,3.5,False,0.8513,0.8382,book,0.8406
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,4.5,False,0.7394,0.7415,book,0.7411
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,5.5,False,0.6115,0.6188,book,0.6175
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,6.5,True,0.4795,0.4895,book,0.4877
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,7.5,False,0.3513,0.3636,book,0.3614
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,8.5,False,0.2468,0.2575,book,0.2556
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,9.5,False,0.1664,0.1724,book,0.1713
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,10.5,False,0.6596,0.7386,est,0.7243
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,11.5,False,0.5899,0.666,book,0.6522
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,12.5,False,0.5266,0.6186,est,0.6019
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,13.5,False,0.4603,0.5543,est,0.5373
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,14.5,True,0.3978,0.4906,book,0.4738
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,15.5,False,0.339,0.4278,est,0.4118
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,16.5,False,0.2853,0.3678,est,0.3529
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,17.5,False,0.2414,0.3256,book,0.3104
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pts,18.5,False,0.2009,0.2682,est,0.256
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,3.5,False,0.8513,0.8411,book,0.843
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,4.5,False,0.7394,0.7442,book,0.7433
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,5.5,False,0.6115,0.622,book,0.6201
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,6.5,True,0.4795,0.4906,book,0.4886
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,7.5,False,0.3513,0.3709,book,0.3674
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,8.5,False,0.2468,0.2648,book,0.2615
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,reb,9.5,False,0.1664,0.176,book,0.1743
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,ast,0.5,False,0.9451,0.9358,est,0.9375
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,ast,1.5,False,0.7986,0.7706,est,0.7757
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,ast,2.5,True,0.5921,0.5515,book,0.5589
@@ -7383,25 +7382,25 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,ast,4.5,False,0.2294,0.1939,book,0.2003
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,ast,5.5,False,0.1204,0.1027,book,0.1059
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,fg3m,0.5,False,0.7885,0.7951,book,0.7939
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,fg3m,1.5,True,0.4628,0.5164,book,0.5067
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,fg3m,1.5,True,0.4628,0.5201,book,0.5097
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,fg3m,2.5,False,0.2009,0.2741,book,0.2609
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,fg3m,3.5,False,0.0664,0.1263,book,0.1155
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,stl,0.5,False,0.5261,0.5547,book,0.5495
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,stl,1.5,False,0.1835,0.2179,book,0.2117
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,stl,2.5,False,0.0499,0.0754,book,0.0708
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,stl,0.5,False,0.5261,0.5335,book,0.5322
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,stl,1.5,False,0.1835,0.1997,book,0.1968
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,stl,2.5,False,0.0499,0.0677,book,0.0645
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,blk,0.5,False,0.3933,,model only,0.3933
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,blk,1.5,False,0.0961,,model only,0.0961
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,19.5,False,0.6631,0.7115,book,0.7027
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,20.5,False,0.6149,0.6776,est,0.6663
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,21.5,False,0.5622,0.6284,est,0.6164
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,22.5,False,0.51,0.5782,est,0.5659
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,23.5,False,0.4585,0.5272,est,0.5148
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,24.5,True,0.4098,0.4776,book,0.4653
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,25.5,False,0.3635,0.4292,est,0.4173
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,26.5,False,0.3214,0.3842,est,0.3728
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,27.5,False,0.2823,0.3412,est,0.3306
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,28.5,False,0.245,0.2994,est,0.2895
-401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,29.5,False,0.2111,0.2633,book,0.2539
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,19.5,False,0.6631,0.7105,book,0.7019
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,20.5,False,0.6149,0.6796,est,0.6679
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,21.5,False,0.5622,0.6305,est,0.6181
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,22.5,False,0.51,0.5803,est,0.5676
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,23.5,False,0.4585,0.5294,est,0.5166
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,24.5,True,0.4098,0.4798,book,0.4671
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,25.5,False,0.3635,0.4313,est,0.4191
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,26.5,False,0.3214,0.3862,est,0.3745
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,27.5,False,0.2823,0.3432,est,0.3322
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,28.5,False,0.245,0.3012,est,0.2911
+401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pra,29.5,False,0.2111,0.267,book,0.2569
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pr,17.5,False,0.6126,0.6947,est,0.6798
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pr,18.5,False,0.556,0.6431,est,0.6273
 401909332,DAL @ PHX,PHX,1628970,Miles Bridges,pr,19.5,False,0.5011,0.5911,est,0.5748
@@ -7436,25 +7435,25 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,pts,17.5,False,0.4225,0.3608,book,0.372
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,pts,18.5,False,0.3728,0.3165,est,0.3267
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,pts,19.5,False,0.3271,0.2655,book,0.2767
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,0.5,False,0.9748,0.9705,est,0.9713
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,1.5,False,0.8885,0.8714,est,0.8745
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,2.5,False,0.7387,0.6962,book,0.7039
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,3.5,True,0.5548,0.5145,book,0.5218
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,4.5,False,0.3815,0.3449,book,0.3515
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,5.5,False,0.2393,0.21,book,0.2153
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,6.5,False,0.1387,0.1214,book,0.1245
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,0.5,False,0.8985,0.8698,est,0.875
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,1.5,True,0.6826,0.6188,book,0.6304
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,2.5,False,0.4369,0.3753,book,0.3865
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,0.5,False,0.9748,0.9708,est,0.9715
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,1.5,False,0.8885,0.8727,est,0.8756
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,2.5,False,0.7387,0.6998,book,0.7068
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,3.5,True,0.5548,0.5173,book,0.5241
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,4.5,False,0.3815,0.35,book,0.3557
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,5.5,False,0.2393,0.2129,book,0.2177
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,reb,6.5,False,0.1387,0.1246,book,0.1272
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,0.5,False,0.8985,0.8737,est,0.8782
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,1.5,False,0.6826,0.6271,est,0.6371
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,2.5,True,0.4369,0.3776,book,0.3883
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,3.5,False,0.2433,0.1931,book,0.2022
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,4.5,False,0.1215,0.0907,book,0.0963
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,ast,5.5,False,0.0521,0.0449,book,0.0462
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,fg3m,0.5,False,0.8724,0.8259,book,0.8343
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,fg3m,1.5,True,0.6199,0.573,book,0.5815
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,fg3m,2.5,False,0.3551,0.3245,book,0.33
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,fg3m,3.5,False,0.1619,0.1611,book,0.1612
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,stl,0.5,False,0.5412,,model only,0.5412
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,stl,1.5,False,0.1988,,model only,0.1988
-401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,stl,2.5,False,0.0555,,model only,0.0555
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,stl,0.5,True,0.5412,0.5841,book,0.5763
+401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,stl,1.5,False,0.1988,0.2281,est,0.2228
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,blk,0.5,False,0.1613,,model only,0.1613
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,blk,1.5,False,0.0153,,model only,0.0153
 401909332,DAL @ PHX,PHX,1628415,Dillon Brooks,pra,18.5,False,0.7001,,model only,0.7001
@@ -7565,12 +7564,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pts,11.5,False,0.3393,0.3894,book,0.3803
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pts,12.5,False,0.2809,0.309,est,0.3039
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pts,13.5,False,0.2278,0.2525,est,0.248
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,0.5,False,0.942,0.9385,est,0.9391
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,1.5,False,0.796,0.7855,est,0.7874
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,2.5,True,0.6018,0.5865,book,0.5893
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,3.5,False,0.4067,0.3943,book,0.3965
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,4.5,False,0.2466,0.239,book,0.2404
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,5.5,False,0.1346,0.1349,book,0.1348
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,0.5,False,0.942,0.9386,est,0.9392
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,1.5,False,0.796,0.7859,est,0.7877
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,2.5,True,0.6018,0.5871,book,0.5898
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,3.5,False,0.4067,0.396,book,0.3979
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,4.5,False,0.2466,0.2415,book,0.2424
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,reb,5.5,False,0.1346,0.1364,book,0.1361
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,ast,0.5,False,0.9596,0.9615,est,0.9611
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,ast,1.5,False,0.8405,0.8471,est,0.8459
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,ast,2.5,False,0.6747,0.682,book,0.6807
@@ -7582,22 +7581,22 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,fg3m,1.5,True,0.5308,0.6129,book,0.598
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,fg3m,2.5,False,0.252,0.3709,book,0.3494
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,fg3m,3.5,False,0.09,0.1984,book,0.1788
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,stl,0.5,False,0.6308,0.6974,book,0.6853
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,stl,1.5,False,0.2823,0.3738,book,0.3572
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,stl,2.5,False,0.0971,0.1648,book,0.1525
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,stl,0.5,False,0.6308,0.6743,book,0.6664
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,stl,1.5,True,0.2823,0.3474,book,0.3356
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,stl,2.5,False,0.0971,0.1474,book,0.1383
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,blk,0.5,False,0.1418,,model only,0.1418
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,blk,1.5,False,0.013,,model only,0.013
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,11.5,False,0.7807,0.7996,est,0.7962
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,12.5,False,0.7251,0.7472,est,0.7432
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,13.5,False,0.67,0.6946,est,0.6902
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,14.5,False,0.6087,0.6292,book,0.6255
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,15.5,False,0.5488,0.5767,est,0.5717
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,16.5,True,0.4908,0.5192,book,0.5141
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,17.5,False,0.4308,0.4588,est,0.4537
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,18.5,False,0.3755,0.4025,est,0.3976
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,19.5,False,0.3256,0.3595,book,0.3534
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,20.5,False,0.2773,0.3006,est,0.2964
-401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,21.5,False,0.2347,0.2557,est,0.2519
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,11.5,False,0.7807,0.7978,est,0.7947
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,12.5,False,0.7251,0.7451,est,0.7415
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,13.5,False,0.67,0.6922,est,0.6882
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,14.5,False,0.6087,0.6282,book,0.6247
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,15.5,False,0.5488,0.574,est,0.5694
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,16.5,True,0.4908,0.5164,book,0.5118
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,17.5,False,0.4308,0.456,est,0.4514
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,18.5,False,0.3755,0.3998,est,0.3954
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,19.5,False,0.3256,0.3567,book,0.3511
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,20.5,False,0.2773,0.2983,est,0.2945
+401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pra,21.5,False,0.2347,0.2536,est,0.2501
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pr,9.5,False,0.7188,0.7472,est,0.7421
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pr,10.5,False,0.6485,0.6809,est,0.675
 401909332,DAL @ PHX,PHX,1631221,Collin Gillespie,pr,11.5,False,0.5754,0.6105,est,0.6041
@@ -7645,26 +7644,26 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,ast,3.5,False,0.1636,0.2403,book,0.2264
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,ast,4.5,False,0.0732,0.1263,book,0.1167
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,ast,5.5,False,0.0302,0.0668,book,0.0602
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,0.5,False,0.7007,0.7442,book,0.7363
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,1.5,True,0.3247,0.4559,book,0.4322
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,2.5,False,0.1081,0.2302,book,0.2081
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,3.5,False,0.0295,0.1062,book,0.0923
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,stl,0.5,False,0.6527,0.6728,book,0.6692
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,stl,1.5,False,0.3195,0.3513,book,0.3455
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,stl,2.5,False,0.1263,0.1552,book,0.15
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,0.5,False,0.7007,0.7438,book,0.736
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,1.5,True,0.3247,0.4548,book,0.4313
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,2.5,False,0.1081,0.2285,book,0.2067
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,fg3m,3.5,False,0.0295,0.105,book,0.0913
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,stl,0.5,False,0.6527,0.6531,book,0.653
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,stl,1.5,False,0.3195,0.3291,book,0.3274
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,stl,2.5,False,0.1263,0.1403,book,0.1378
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,blk,0.5,False,0.1706,,model only,0.1706
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,blk,1.5,False,0.0191,,model only,0.0191
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,8.5,False,0.7926,0.8122,est,0.8087
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,9.5,False,0.7361,0.7595,est,0.7553
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,10.5,False,0.6737,0.7004,est,0.6955
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,11.5,False,0.6059,0.6351,est,0.6298
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,12.5,False,0.5413,0.5719,est,0.5664
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,13.5,True,0.4749,0.5059,book,0.5003
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,14.5,False,0.4133,0.4437,est,0.4382
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,15.5,False,0.3545,0.3834,est,0.3781
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,16.5,False,0.303,0.3298,est,0.325
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,17.5,False,0.2559,0.2803,est,0.2759
-401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,18.5,False,0.2133,0.2349,est,0.231
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,8.5,False,0.7926,0.8098,est,0.8067
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,9.5,False,0.7361,0.7566,est,0.7529
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,10.5,False,0.6737,0.697,est,0.6928
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,11.5,False,0.6059,0.6314,est,0.6267
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,12.5,False,0.5413,0.568,est,0.5632
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,13.5,True,0.4749,0.5019,book,0.497
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,14.5,False,0.4133,0.4397,est,0.4349
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,15.5,False,0.3545,0.3796,est,0.3751
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,16.5,False,0.303,0.3263,est,0.3221
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,17.5,False,0.2559,0.2771,est,0.2733
+401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pra,18.5,False,0.2133,0.2321,est,0.2287
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pr,7.5,False,0.7611,0.7683,est,0.767
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pr,8.5,False,0.6937,0.7021,est,0.7006
 401909332,DAL @ PHX,PHX,1630692,Jordan Goodwin,pr,9.5,False,0.6214,0.6307,est,0.6291
@@ -7717,9 +7716,8 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,fg3m,1.5,True,0.6151,0.4906,book,0.5131
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,fg3m,2.5,False,0.3485,0.2519,book,0.2694
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,fg3m,3.5,False,0.1604,0.114,book,0.1224
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,stl,0.5,False,0.6337,0.6479,book,0.6453
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,stl,1.5,False,0.2776,0.3095,book,0.3037
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,stl,2.5,False,0.0953,0.1214,book,0.1167
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,stl,0.5,True,0.6337,0.6215,book,0.6237
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,stl,1.5,False,0.2776,0.2885,book,0.2865
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,blk,0.5,False,0.2887,,model only,0.2887
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,blk,1.5,False,0.0488,,model only,0.0488
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,pra,17.5,False,0.7898,0.7515,est,0.7584
@@ -7733,24 +7731,24 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,pra,25.5,False,0.4206,0.3688,est,0.3782
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,pra,26.5,False,0.3792,0.3297,est,0.3386
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,pra,27.5,False,0.3374,0.2907,est,0.2991
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,15.5,False,0.7484,0.7001,est,0.7089
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,16.5,False,0.6972,0.6438,est,0.6535
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,17.5,False,0.6461,0.5889,est,0.5993
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,18.5,False,0.5931,0.5336,est,0.5444
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,19.5,True,0.5425,0.482,book,0.4929
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,20.5,False,0.4907,0.4306,est,0.4415
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,21.5,False,0.4407,0.3821,est,0.3927
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,22.5,False,0.3955,0.3393,est,0.3495
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,23.5,False,0.3491,0.2962,est,0.3058
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,14.5,False,0.7588,0.7233,est,0.7297
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,15.5,False,0.7079,0.6682,est,0.6754
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,16.5,False,0.657,0.6142,est,0.6219
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,17.5,False,0.6054,0.5604,est,0.5685
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,18.5,True,0.551,0.5049,book,0.5132
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,19.5,False,0.4977,0.4516,est,0.4599
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,20.5,False,0.4478,0.4026,est,0.4108
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,21.5,False,0.3998,0.3563,est,0.3642
-401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,22.5,False,0.3592,0.3178,est,0.3253
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,15.5,False,0.7484,0.7037,est,0.7118
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,16.5,False,0.6972,0.6477,est,0.6567
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,17.5,False,0.6461,0.5931,est,0.6027
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,18.5,False,0.5931,0.5379,est,0.5479
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,19.5,True,0.5425,0.4863,book,0.4965
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,20.5,False,0.4907,0.4348,est,0.445
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,21.5,False,0.4407,0.3862,est,0.396
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,22.5,False,0.3955,0.3432,est,0.3527
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pr,23.5,False,0.3491,0.2998,est,0.3088
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,14.5,False,0.7588,0.7248,est,0.731
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,15.5,False,0.7079,0.6699,est,0.6768
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,16.5,False,0.657,0.616,est,0.6234
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,17.5,False,0.6054,0.5623,est,0.5701
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,18.5,True,0.551,0.5068,book,0.5148
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,19.5,False,0.4977,0.4535,est,0.4615
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,20.5,False,0.4478,0.4044,est,0.4123
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,21.5,False,0.3998,0.3581,est,0.3656
+401909332,DAL @ PHX,PHX,1630224,Jalen Green,pa,22.5,False,0.3592,0.3194,est,0.3266
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,ra,3.5,False,0.9164,0.8975,est,0.9009
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,ra,4.5,False,0.8379,0.8051,est,0.811
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,ra,5.5,False,0.73,0.6835,est,0.6919
@@ -7758,15 +7756,15 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,ra,7.5,False,0.4805,0.4249,est,0.4349
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,ra,8.5,False,0.3595,0.3095,est,0.3186
 401909332,DAL @ PHX,PHX,1630224,Jalen Green,ra,9.5,False,0.2584,0.2177,est,0.2251
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8844,0.9033,est,0.8999
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7894,0.8207,est,0.815
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.6815,0.7232,est,0.7157
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,5.5,False,0.5662,0.6144,est,0.6057
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,True,0.4541,0.5039,book,0.4949
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,7.5,False,0.3552,0.4021,est,0.3936
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.2698,0.3109,est,0.3035
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,9.5,False,0.1984,0.2321,est,0.226
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,10.5,False,0.1454,0.1719,est,0.1671
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,2.5,False,0.8844,0.9026,est,0.8993
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,3.5,False,0.7894,0.8195,est,0.8141
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,4.5,False,0.6815,0.7216,est,0.7143
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,5.5,False,0.5662,0.6125,est,0.6041
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,6.5,True,0.4541,0.5019,book,0.4933
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,7.5,False,0.3552,0.4002,est,0.3921
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,8.5,False,0.2698,0.3092,est,0.3021
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,9.5,False,0.1984,0.2307,est,0.2248
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,pts,10.5,False,0.1454,0.1708,est,0.1662
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,reb,2.5,False,0.8702,0.8832,book,0.8808
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,reb,3.5,False,0.7553,0.7975,book,0.7899
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,reb,4.5,False,0.6169,0.6813,book,0.6697
@@ -7783,9 +7781,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,fg3m,0.5,False,0.0029,,model only,0.0029
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,fg3m,1.5,False,0.0,,model only,0.0
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,fg3m,2.5,False,0.0,,model only,0.0
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,stl,0.5,False,0.5025,0.6145,book,0.5942
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,stl,1.5,False,0.1718,0.2757,book,0.2569
-401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,stl,2.5,False,0.0449,0.105,book,0.0941
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,stl,0.5,False,0.5025,0.5935,book,0.577
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,stl,1.5,False,0.1718,0.2547,book,0.2397
+401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,stl,2.5,False,0.0449,0.0925,book,0.0839
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,blk,0.5,False,0.5847,0.636,book,0.6267
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,blk,1.5,False,0.2388,0.2986,book,0.2878
 401909332,DAL @ PHX,PHX,1642345,Oso Ighodaro,blk,2.5,False,0.0742,0.1183,book,0.1103
@@ -8239,9 +8237,9 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,stl,0.5,False,0.5016,,model only,0.5016
 401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,stl,1.5,False,0.1679,,model only,0.1679
 401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,stl,2.5,False,0.0431,,model only,0.0431
-401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,blk,0.5,False,0.7288,0.7562,book,0.7512
-401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,blk,1.5,False,0.3993,0.4604,book,0.4493
-401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,blk,2.5,False,0.1766,0.2257,book,0.2168
+401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,blk,0.5,False,0.7288,0.7579,book,0.7526
+401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,blk,1.5,False,0.3993,0.4559,book,0.4457
+401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,blk,2.5,False,0.1766,0.2285,book,0.2191
 401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,pra,14.5,False,0.7209,0.7378,book,0.7347
 401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,pra,15.5,False,0.6646,0.6944,est,0.689
 401909332,DAL @ PHX,DAL,1629655,Daniel Gafford,pra,16.5,False,0.6108,0.6428,est,0.637
@@ -8351,12 +8349,12 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,DAL,1630230,Naji Marshall,pts,13.5,False,0.3143,0.3818,est,0.3696
 401909332,DAL @ PHX,DAL,1630230,Naji Marshall,pts,14.5,False,0.2631,0.3461,book,0.3311
 401909332,DAL @ PHX,DAL,1630230,Naji Marshall,pts,15.5,False,0.2183,0.2734,est,0.2634
-401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,0.5,False,0.9388,0.9483,est,0.9466
-401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,1.5,False,0.7863,0.8147,est,0.8096
+401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,0.5,False,0.9388,0.9485,est,0.9467
+401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,1.5,False,0.7863,0.8154,est,0.8101
 401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,2.5,False,0.5855,0.6178,book,0.612
-401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,3.5,True,0.3876,0.4307,book,0.4229
-401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,4.5,False,0.2342,0.2717,book,0.2649
-401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,5.5,False,0.1246,0.1609,book,0.1543
+401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,3.5,True,0.3876,0.4317,book,0.4237
+401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,4.5,False,0.2342,0.2757,book,0.2682
+401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,5.5,False,0.1246,0.1651,book,0.1578
 401909332,DAL @ PHX,DAL,1630230,Naji Marshall,reb,6.5,False,0.0639,0.0916,book,0.0866
 401909332,DAL @ PHX,DAL,1630230,Naji Marshall,ast,0.5,False,0.9188,0.9438,est,0.9393
 401909332,DAL @ PHX,DAL,1630230,Naji Marshall,ast,1.5,False,0.7388,0.8077,est,0.7952
@@ -8607,7 +8605,7 @@ game_id,matchup,team,player_id,player,stat,line,main,p_over_model,p_over_market,
 401909332,DAL @ PHX,DAL,1629023,P.J. Washington,pts,11.5,False,0.5616,0.55,book,0.5521
 401909332,DAL @ PHX,DAL,1629023,P.J. Washington,pts,12.5,True,0.4927,0.4927,book,0.4927
 401909332,DAL @ PHX,DAL,1629023,P.J. Washington,pts,13.5,False,0.4291,0.4292,est,0.4292
-401909332,DAL @ PHX,DAL,1629023,P.J. Washington,pts,14.5,False,0.3697,0.3768,book,0.3755
+401909332,DAL @ PHX,DAL,1629023,P.J. Washington,pts,14.5,False,0.3697,0.3784,book,0.3768
 401909332,DAL @ PHX,DAL,1629023,P.J. Washington,pts,15.5,False,0.3145,0.3145,est,0.3145
 401909332,DAL @ PHX,DAL,1629023,P.J. Washington,pts,16.5,False,0.2641,0.2641,est,0.2641
 401909332,DAL @ PHX,DAL,1629023,P.J. Washington,reb,2.5,False,0.9248,0.8747,book,0.8838

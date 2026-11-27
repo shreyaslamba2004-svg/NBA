@@ -1,13 +1,13 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIA @ NYK,NYK win + Mikal Bridges 15+ pra,2,0.5174,0.4745,2.11,2.21,2.11,0.0027,1.018,2.10-2.50
-MIA @ NYK,NYK win + Josh Hart 15+ pr,2,0.4761,0.4727,2.12,2.22,2.09,-0.0138,1.021,1.85-2.10
-MIA @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.4948,0.4903,2.04,2.14,1.99,-0.0229,1.011,1.85-2.10
+MIA @ NYK,NYK win + Mikal Bridges 15+ pra,2,0.5174,0.4745,2.11,2.21,2.07,-0.0155,1.018,1.85-2.10
 MIA @ NYK,game over 222.5 + Mikal Bridges 15+ pra,2,0.5189,0.3955,2.53,2.66,2.46,-0.0263,1.037,2.10-2.50
-MIA @ NYK,NYK win + Bam Adebayo 6+ reb,2,0.4874,0.4675,2.14,2.25,2.08,-0.0298,0.996,1.85-2.10
-MIA @ NYK,NYK win + Andrew Wiggins 5+ pra,2,0.57,0.5619,1.78,1.87,1.72,-0.0354,0.997,1.65-1.85
+MIA @ NYK,NYK win + Josh Hart 15+ pr,2,0.4761,0.4727,2.12,2.22,2.05,-0.0318,1.021,1.85-2.10
 MIA @ NYK,game over 222.5 + Josh Hart 15+ pr,2,0.4807,0.3966,2.52,2.65,2.43,-0.0358,1.047,2.10-2.50
-MIA @ NYK,NYK win + Davion Mitchell 15+ pra,2,0.5381,0.5339,1.87,1.97,1.78,-0.0494,0.984,1.65-1.85
-MIA @ NYK,NYK win + Bam Adebayo 10+ pts,2,0.5225,0.5199,1.92,2.02,1.83,-0.051,0.983,1.65-1.85
+MIA @ NYK,NYK win + Jalen Brunson 2+ 3pm,2,0.4948,0.4903,2.04,2.14,1.96,-0.0407,1.011,1.85-2.10
+MIA @ NYK,Mikal Bridges 20+ pra + Josh Hart 15+ pr,2,0.4998,0.392,2.55,2.68,2.43,-0.0472,1.023,2.10-2.50
+MIA @ NYK,NYK win + Andrew Wiggins 5+ pra,2,0.57,0.5619,1.78,1.87,1.69,-0.053,0.997,1.65-1.85
+MIA @ NYK,NYK win + Andrew Wiggins 5+ pa,2,0.5273,0.5123,1.95,2.05,1.83,-0.0602,0.986,1.65-1.85
+MIA @ NYK,NYK win + Davion Mitchell 15+ pra,2,0.5381,0.5339,1.87,1.97,1.75,-0.0667,0.984,1.65-1.85
 MIA @ NYK,Mikal Bridges 15+ pra + Jalen Brunson 2+ 3pm + Bam Adebayo 10+ pts,3,0.6469,0.526,1.9,2.0,1.63,-0.1406,1.003,1.50-1.65
 MIL @ DET,Kel'el Ware pr under 16.5 + DET win,2,0.5029,0.4051,2.47,2.59,2.42,-0.0185,1.023,2.10-2.50
 MIL @ DET,DET win + Paul Reed 10+ ra,2,0.4723,0.4058,2.46,2.59,2.34,-0.0508,1.006,2.10-2.50
@@ -83,12 +83,12 @@ DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 10+ pr,2,0.7808,0.5864,1.
 DAL @ PHX,Devin Booker 4+ ast + Jalen Green 15+ pr,2,0.6914,0.5919,1.69,1.77,1.54,-0.09,1.005,1.50-1.65
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + SAS win,2,0.4965,0.407,2.46,2.58,2.48,0.0087,1.02,2.10-2.50
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.7139,0.498,2.01,2.11,1.93,-0.0413,1.0,1.85-2.10
-LAL @ SAS,LAL +6.5 + Austin Reaves 15+ pr,2,0.4776,0.4006,2.5,2.62,2.38,-0.0447,1.027,2.10-2.50
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Austin Reaves 10+ pr,2,0.7815,0.555,1.8,1.89,1.72,-0.0459,0.999,1.65-1.85
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 10+ pra,2,0.7764,0.5585,1.79,1.88,1.7,-0.0483,1.0,1.65-1.85
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.721,0.5173,1.93,2.03,1.84,-0.0491,0.998,1.65-1.85
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Austin Reaves 1+ 3pm,2,0.6658,0.4748,2.11,2.21,2.0,-0.0502,0.996,1.85-2.10
 LAL @ SAS,Luka Doncic pa under 41.5 + Devin Vassell 1+ 3pm,2,0.6062,0.4465,2.24,2.35,2.12,-0.053,1.004,2.10-2.50
+LAL @ SAS,Luka Doncic pra under 47.5 + Devin Vassell 1+ 3pm,2,0.5795,0.4233,2.36,2.48,2.24,-0.0532,1.001,2.10-2.50
 LAL @ SAS,Luka Doncic pra under 47.5 + Austin Reaves 10+ pr,2,0.6318,0.4699,2.13,2.23,2.0,-0.0615,0.997,1.85-2.10
 LAL @ SAS,SAS win + Devin Vassell 10+ pra,2,0.5741,0.6061,1.65,1.73,1.54,-0.0688,1.009,1.50-1.65
 LAL @ SAS,SAS win + Austin Reaves 10+ pr,2,0.5696,0.5937,1.68,1.77,1.55,-0.0797,0.994,1.50-1.65

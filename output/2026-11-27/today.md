@@ -1,6 +1,6 @@
 # NBA model · Fri 27 Nov 2026 (US date)
 
-Updated **Sat 28 Nov, 09:09 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 28 Nov, 09:14 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -61,7 +61,7 @@ Game lines below assume every questionable player sits; each game's section show
 | ATL @ BOS | Sat 28 Nov 12:00 | 108.2–116.6 | ATL 28% | 3.58 / 1.39 | BOS -8.5 | 224.5 | BOS -8.5 covers 50%; o223.5 53% |
 | MEM @ MIN | Sat 28 Nov 12:30 | 110.3–115.7 | MEM 35% | 2.85 / 1.54 | MIN -5.5 | 225.5 | MIN -2.5 covers 59%; o220.5 62% |
 | DAL @ PHX | Sat 28 Nov 13:00 | 112.1–117.3 | DAL 36% | 2.81 / 1.55 | PHX -5.5 | 229.5 | PHX -3.5 covers 55%; o225.5 58% |
-| LAL @ SAS | Sat 28 Nov 13:30 | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -6.5 covers 38%; o225.5 44% |
+| LAL @ SAS | Sat 28 Nov 13:30 | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -5.5 covers 41%; o226.5 42% |
 | DEN @ UTA | Sat 28 Nov 13:30 | 124.7–115.2 | DEN 75% | 1.33 / 3.99 | UTA +9.5 | 239.5 | UTA +9.5 covers 50%; o232.5 65% |
 | NOP @ LAC | Sat 28 Nov 13:30 | 110.9–116.6 | NOP 34% | 2.92 / 1.52 | LAC -5.5 | 227.5 | LAC -2.5 covers 60%; o230.5 44% |
 | GSW @ POR | Sat 28 Nov 13:30 | 110.2–113.4 | GSW 41% | 2.41 / 1.71 | POR -3.5 | 223.5 | POR -7.5 covers 38%; o217.5 62% |
@@ -591,7 +591,7 @@ Out: Mark Williams (PHX), Sergio de Larrea (DAL), Dereck Lively II (DAL)
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Devin Booker | 99% | 36.1<br><sub>37,33,38,42,36</sub> | 26.5<br><sub>20,29,23,22,25</sub> | 25.5 · –<br><sub>o 48% · u 52%</sub> | 3.6<br><sub>4,2,2,5,0</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 6.6<br><sub>8,6,3,8,5</sub> | 5.5<br><sub>o 50% · u 50%</sub> | 2.2<br><sub>1,2,1,2,2</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 0.3 | 3.0 | 36.8 |
-| Dillon Brooks | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 17.1<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.7 |
+| Dillon Brooks | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 17.1<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.7 |
 | Jalen Green | 98% | 30.1<br><sub>27,30,25,37,35</sub> | 17.0<br><sub>16,18,14,25,16</sub> | 15.5 · –<br><sub>o 49% · u 51%</sub> | 4.3<br><sub>5,7,4,3,4</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>3,7,3,0,5</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 2.1<br><sub>2,4,1,3,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.1 | 0.3 | 2.4 | 24.7 |
 | Miles Bridges | 99% | 28.6<br><sub>29,29,25,35,25</sub> | 13.7<br><sub>16,13,18,14,2</sub> | 14.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>8,6,9,11,8</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 3.2<br><sub>2,5,4,5,4</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.6<br><sub>2,1,1,2,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.8 | 0.5 | 1.1 | 23.5 |
 | Collin Gillespie | 99% | 24.0<br><sub>26,17,27,30,22</sub> | 10.1<br><sub>10,9,16,18,5</sub> | 9.5 · –<br><sub>o 51% · u 49%</sub> | 3.2<br><sub>3,3,4,3,4</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 3.6<br><sub>3,1,5,3,2</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 1.8<br><sub>2,2,3,3,0</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.1 | 0.1 | 1.2 | 17.0 |
@@ -628,7 +628,7 @@ Out: Mark Williams (PHX), Sergio de Larrea (DAL), Dereck Lively II (DAL)
 | Moussa Cisse (DAL) | 58% | 6.3<br><sub>4,4,-,-,2</sub> | 2.3<br><sub>1,0,-,-,0</sub> |  | 2.4<br><sub>1,1,-,-,0</sub> |  | 0.1<br><sub>0,0,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.2 | 0.4 | 0.4 | 4.8 |
 | Jett Howard (DAL) | 52% | 6.0<br><sub>7,-,-,-,-</sub> | 2.5<br><sub>0,-,-,-,-</sub> |  | 0.7<br><sub>0,-,-,-,-</sub> |  | 0.5<br><sub>1,-,-,-,-</sub> |  | 0.2<br><sub>0,-,-,-,-</sub> |  | 0.2 | 0.1 | 0.3 | 3.7 |
 | Devin Booker (PHX) | 99% | 36.1<br><sub>37,33,38,42,36</sub> | 26.3<br><sub>20,29,23,22,25</sub> | 25.5 · –<br><sub>o 48% · u 52%</sub> | 3.6<br><sub>4,2,2,5,0</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 6.6<br><sub>8,6,3,8,5</sub> | 5.5<br><sub>o 50% · u 50%</sub> | 2.2<br><sub>1,2,1,2,2</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 0.3 | 3.0 | 36.5 |
-| Dillon Brooks (PHX) | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 16.9<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.5 |
+| Dillon Brooks (PHX) | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 16.9<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 2.5<br><sub>o 39% · u 61%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.5 |
 | Jalen Green (PHX) | 98% | 30.0<br><sub>27,30,25,37,35</sub> | 17.1<br><sub>16,18,14,25,16</sub> | 15.5 · –<br><sub>o 49% · u 51%</sub> | 4.2<br><sub>5,7,4,3,4</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>3,7,3,0,5</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 2.1<br><sub>2,4,1,3,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.0 | 0.3 | 2.4 | 24.7 |
 | Miles Bridges (PHX) | 99% | 28.5<br><sub>29,29,25,35,25</sub> | 13.7<br><sub>16,13,18,14,2</sub> | 14.5 · –<br><sub>o 47% · u 53%</sub> | 6.6<br><sub>8,6,9,11,8</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 3.2<br><sub>2,5,4,5,4</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.5<br><sub>2,1,1,2,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.8 | 0.5 | 1.1 | 23.5 |
 | Collin Gillespie (PHX) | 99% | 24.1<br><sub>26,17,27,30,22</sub> | 10.0<br><sub>10,9,16,18,5</sub> | 9.5 · –<br><sub>o 51% · u 49%</sub> | 3.2<br><sub>3,3,4,3,4</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 3.7<br><sub>3,1,5,3,2</sub> | 3.5<br><sub>o 50% · u 50%</sub> | 1.8<br><sub>2,2,3,3,0</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.1 | 0.2 | 1.2 | 17.0 |
@@ -652,10 +652,10 @@ Out: Tobias Harris (SAS)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -6.5 covers 38%; o225.5 44% |
-| Expected (weighted by chance each plays) | 110.2–113.5 | LAL 40% | 2.48 / 1.67 | SAS -3.5 | 223.5 | SAS -6.5 covers 42%; o225.5 46% |
-| if De'Aaron Fox plays | 110.4–113.4 | LAL 41% | 2.42 / 1.70 | SAS -3.5 | 223.5 | SAS -6.5 covers 40%; o225.5 46% |
-| if Dylan Harper plays | 110.5–113.5 | LAL 41% | 2.43 / 1.70 | SAS -3.5 | 223.5 | SAS -6.5 covers 41%; o225.5 46% |
+| Confirmed players only | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -5.5 covers 41%; o226.5 42% |
+| Expected (weighted by chance each plays) | 110.2–113.5 | LAL 40% | 2.48 / 1.67 | SAS -3.5 | 223.5 | SAS -5.5 covers 45%; o226.5 43% |
+| if De'Aaron Fox plays | 110.4–113.4 | LAL 41% | 2.42 / 1.70 | SAS -3.5 | 223.5 | SAS -5.5 covers 43%; o226.5 44% |
+| if Dylan Harper plays | 110.5–113.5 | LAL 41% | 2.43 / 1.70 | SAS -3.5 | 223.5 | SAS -5.5 covers 43%; o226.5 44% |
 
 **Questionable players: chance to play, and their projection if they do**
 
