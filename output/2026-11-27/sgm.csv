@@ -104,18 +104,18 @@ DEN @ UTA,DEN win + Brice Sensabaugh 10+ pr,2,0.6013,0.5785,1.73,1.82,1.59,-0.07
 DEN @ UTA,Aaron Gordon 3pm under 1.5 + Brice Sensabaugh 10+ pra,2,0.6299,0.502,1.99,2.09,1.83,-0.0802,0.998,1.65-1.85
 DEN @ UTA,Brice Sensabaugh 10+ pa + Christian Braun 15+ pra,2,0.6549,0.5332,1.88,1.97,1.72,-0.0814,1.002,1.65-1.85
 DEN @ UTA,Brice Sensabaugh 10+ pa + Christian Braun 10+ pa,2,0.6895,0.5683,1.76,1.85,1.61,-0.0849,1.001,1.50-1.65
-NOP @ LAC,Yves Missi ra under 9.5 + Kris Dunn 5+ pr,2,0.6481,0.4245,2.36,2.47,2.3,-0.0241,1.0,2.10-2.50
-NOP @ LAC,LAC win + Kris Dunn 5+ pr,2,0.5797,0.4573,2.19,2.3,2.13,-0.0252,1.01,2.10-2.50
-NOP @ LAC,Yves Missi reb under 8.5 + Kris Dunn 5+ pr,2,0.6844,0.455,2.2,2.31,2.13,-0.0301,0.999,2.10-2.50
+NOP @ LAC,Yves Missi ra under 9.5 + Kris Dunn 5+ pr,2,0.6481,0.4239,2.36,2.48,2.3,-0.0238,1.0,2.10-2.50
+NOP @ LAC,LAC win + Kris Dunn 5+ pr,2,0.5797,0.4566,2.19,2.3,2.14,-0.0249,1.01,2.10-2.50
+NOP @ LAC,Yves Missi reb under 8.5 + Kris Dunn 5+ pr,2,0.6844,0.4543,2.2,2.31,2.14,-0.0298,0.999,2.10-2.50
 NOP @ LAC,LAC win + Derrick Jones Jr. 5+ pa,2,0.5971,0.4919,2.03,2.13,1.97,-0.0325,1.013,1.85-2.10
 NOP @ LAC,LAC win + Brook Lopez 10+ pr,2,0.5498,0.4598,2.17,2.28,2.1,-0.0362,1.013,1.85-2.10
 NOP @ LAC,Yves Missi ra under 9.5 + Saddiq Bey 1+ 3pm,2,0.6581,0.4608,2.17,2.28,2.08,-0.041,0.999,1.85-2.10
 NOP @ LAC,LAC win + Darius Garland 1+ 3pm,2,0.6081,0.516,1.94,2.03,1.85,-0.0456,1.006,1.65-1.85
 NOP @ LAC,Yves Missi reb under 8.5 + Darius Garland 1+ 3pm,2,0.7211,0.5157,1.94,2.04,1.85,-0.0461,1.0,1.65-1.85
 NOP @ LAC,Herbert Jones 3pm under 1.5 + Derrick Jones Jr. 5+ pa,2,0.6964,0.5284,1.89,1.99,1.77,-0.0657,0.999,1.65-1.85
-NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6925,0.5977,1.67,1.76,1.52,-0.0928,1.003,1.50-1.65
-NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 10+ pr,3,0.6889,0.546,1.83,1.92,1.58,-0.135,1.004,1.50-1.65
-NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 4+ reb,3,0.6538,0.525,1.9,2.0,1.65,-0.1357,1.006,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6925,0.5969,1.68,1.76,1.52,-0.0925,1.003,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 10+ pr,3,0.6889,0.5452,1.83,1.93,1.59,-0.1348,1.004,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 4+ reb,3,0.6538,0.5243,1.91,2.0,1.65,-0.1354,1.006,1.50-1.65
 GSW @ POR,POR win + De'Anthony Melton pa under 14.5,2,0.389,0.4264,2.35,2.46,2.46,0.049,1.058,2.10-2.50
 GSW @ POR,POR win + Jrue Holiday 6+ ast,2,0.4061,0.4315,2.32,2.43,2.42,0.0457,1.042,2.10-2.50
 GSW @ POR,POR win + Charles Bassey pa under 11.5,2,0.3875,0.4214,2.37,2.49,2.48,0.0447,1.051,2.10-2.50
