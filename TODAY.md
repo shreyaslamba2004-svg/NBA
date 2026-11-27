@@ -1,6 +1,6 @@
 # NBA model · Fri 27 Nov 2026 (US date)
 
-Updated **Sat 28 Nov, 09:39 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 28 Nov, 09:44 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -73,7 +73,7 @@ Game lines below assume every questionable player sits; each game's section show
 | ATL @ BOS | Sat 28 Nov 12:00 | 108.2–116.6 | ATL 28% | 3.58 / 1.39 | BOS -8.5 | 224.5 | BOS -8.5 covers 50%; o223.5 53% |
 | MEM @ MIN | Sat 28 Nov 12:30 | 110.3–115.7 | MEM 35% | 2.85 / 1.54 | MIN -5.5 | 225.5 | MIN -2.5 covers 59%; o220.5 62% |
 | DAL @ PHX | Sat 28 Nov 13:00 | 112.1–117.3 | DAL 36% | 2.81 / 1.55 | PHX -5.5 | 229.5 | PHX -3.5 covers 55%; o225.5 58% |
-| LAL @ SAS | Sat 28 Nov 13:30 | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -5.5 covers 41%; o226.5 42% |
+| LAL @ SAS | Sat 28 Nov 13:30 | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -6.5 covers 38%; o226.5 42% |
 | DEN @ UTA | Sat 28 Nov 13:30 | 124.7–115.2 | DEN 75% | 1.33 / 3.99 | UTA +9.5 | 239.5 | UTA +9.5 covers 50%; o232.5 65% |
 | NOP @ LAC | Sat 28 Nov 13:30 | 110.9–116.6 | NOP 34% | 2.92 / 1.52 | LAC -5.5 | 227.5 | LAC -2.5 covers 60%; o229.5 46% |
 | GSW @ POR | Sat 28 Nov 13:30 | 110.2–113.4 | GSW 41% | 2.41 / 1.71 | POR -3.5 | 223.5 | POR -7.5 covers 38%; o217.5 62% |
@@ -664,10 +664,10 @@ Out: Tobias Harris (SAS)
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -5.5 covers 41%; o226.5 42% |
-| Expected (weighted by chance each plays) | 110.2–113.5 | LAL 40% | 2.48 / 1.67 | SAS -3.5 | 223.5 | SAS -5.5 covers 45%; o226.5 43% |
-| if De'Aaron Fox plays | 110.4–113.4 | LAL 41% | 2.42 / 1.70 | SAS -3.5 | 223.5 | SAS -5.5 covers 43%; o226.5 44% |
-| if Dylan Harper plays | 110.5–113.5 | LAL 41% | 2.43 / 1.70 | SAS -3.5 | 223.5 | SAS -5.5 covers 43%; o226.5 44% |
+| Confirmed players only | 110.5–112.5 | LAL 44% | 2.26 / 1.79 | SAS -2.5 | 222.5 | SAS -6.5 covers 38%; o226.5 42% |
+| Expected (weighted by chance each plays) | 110.2–113.5 | LAL 40% | 2.48 / 1.67 | SAS -3.5 | 223.5 | SAS -6.5 covers 42%; o226.5 43% |
+| if De'Aaron Fox plays | 110.4–113.4 | LAL 41% | 2.42 / 1.70 | SAS -3.5 | 223.5 | SAS -6.5 covers 40%; o226.5 44% |
+| if Dylan Harper plays | 110.5–113.5 | LAL 41% | 2.43 / 1.70 | SAS -3.5 | 223.5 | SAS -6.5 covers 41%; o226.5 44% |
 
 **Questionable players: chance to play, and their projection if they do**
 
