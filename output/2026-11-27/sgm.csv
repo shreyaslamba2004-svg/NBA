@@ -21,9 +21,9 @@ MIL @ DET,DET win + John Collins 4+ reb,2,0.6292,0.599,1.67,1.75,1.54,-0.0792,1.
 MIL @ DET,Tyler Herro 4+ ast + John Collins 10+ pra,2,0.6174,0.5021,1.99,2.09,1.83,-0.0808,1.002,1.65-1.85
 MIL @ DET,Isaiah Joe 3pm under 3.5 + John Collins 10+ pra,2,0.6557,0.5308,1.88,1.98,1.73,-0.0833,0.998,1.65-1.85
 MIL @ DET,Isaiah Joe 3pm under 3.5 + Paul Reed 4+ reb,2,0.638,0.5189,1.93,2.02,1.76,-0.0846,0.997,1.65-1.85
-PHI @ IND,game over 229.5 + LeBron James 20+ pr,2,0.5161,0.3896,2.57,2.69,2.49,-0.0309,1.039,2.10-2.50
-PHI @ IND,game over 229.5 + Pascal Siakam 20+ pa,2,0.5188,0.4139,2.42,2.54,2.32,-0.0383,1.045,2.10-2.50
-PHI @ IND,game over 229.5 + VJ Edgecombe 10+ pts,2,0.5188,0.4052,2.47,2.59,2.36,-0.0452,1.033,2.10-2.50
+PHI @ IND,game over 230.5 + LeBron James 20+ pr,2,0.501,0.3947,2.53,2.66,2.42,-0.044,1.041,2.10-2.50
+PHI @ IND,Anfernee Simons 9+ pts + LeBron James 20+ pr,2,0.5276,0.3957,2.53,2.65,2.41,-0.0458,1.018,2.10-2.50
+PHI @ IND,LeBron James 25+ pr + VJ Edgecombe 10+ pts,2,0.5369,0.4242,2.36,2.47,2.24,-0.0502,1.019,2.10-2.50
 PHI @ IND,PHI win + VJ Edgecombe 10+ pts,2,0.465,0.4715,2.12,2.23,1.99,-0.0614,1.02,1.85-2.10
 PHI @ IND,LeBron James 25+ pr + VJ Edgecombe 10+ pa,2,0.6064,0.4832,2.07,2.17,1.93,-0.0665,1.004,1.85-2.10
 PHI @ IND,Anfernee Simons 9+ pts + VJ Edgecombe 10+ pa,2,0.6042,0.4727,2.12,2.22,1.97,-0.0679,1.005,1.85-2.10
@@ -33,18 +33,18 @@ PHI @ IND,Kentavious Caldwell-Pope 3pm under 1.5 + VJ Edgecombe 10+ pa,2,0.6977,
 PHI @ IND,Kentavious Caldwell-Pope 3pm under 1.5 + VJ Edgecombe 1+ 3pm,2,0.6244,0.5,2.0,2.1,1.84,-0.0824,0.996,1.65-1.85
 PHI @ IND,Kentavious Caldwell-Pope 3pm under 1.5 + Pascal Siakam 15+ pa,2,0.6927,0.5657,1.77,1.86,1.62,-0.0833,0.999,1.50-1.65
 PHI @ IND,LeBron James 1+ 3pm + VJ Edgecombe 10+ pts,2,0.6509,0.5531,1.81,1.9,1.64,-0.0923,1.001,1.50-1.65
-BKN @ TOR,Mikel Brown Jr. pa under 17.5 + Jakob Poeltl 15+ pra,2,0.6001,0.4133,2.42,2.54,2.32,-0.0392,1.0,2.10-2.50
-BKN @ TOR,Mikel Brown Jr. pa under 17.5 + Jamal Shead 5+ pr,2,0.6457,0.4501,2.22,2.33,2.13,-0.0411,1.001,2.10-2.50
-BKN @ TOR,Mikel Brown Jr. pra under 20.5 + Jakob Poeltl 15+ pra,2,0.6192,0.4323,2.31,2.43,2.21,-0.0428,1.0,2.10-2.50
-BKN @ TOR,Mikel Brown Jr. pr under 16.5 + Jamal Shead 5+ pr,2,0.6641,0.4676,2.14,2.25,2.04,-0.0438,1.001,1.85-2.10
+BKN @ TOR,Mikel Brown Jr. pra under 20.5 + Jakob Poeltl 15+ pra,2,0.6192,0.4296,2.33,2.44,2.23,-0.0413,1.0,2.10-2.50
+BKN @ TOR,Mikel Brown Jr. pa under 17.5 + Jakob Poeltl 15+ pra,2,0.6001,0.4162,2.4,2.52,2.3,-0.0416,1.0,2.10-2.50
+BKN @ TOR,Mikel Brown Jr. pa under 17.5 + Jamal Shead 5+ pr,2,0.6457,0.456,2.19,2.3,2.09,-0.045,1.001,1.85-2.10
 BKN @ TOR,Mikel Brown Jr. pra under 20.5 + Jamal Shead 5+ pr,2,0.666,0.4705,2.13,2.23,2.03,-0.0451,1.0,1.85-2.10
+BKN @ TOR,Scottie Barnes 6+ ast + Jakob Poeltl 15+ pra,2,0.591,0.4342,2.3,2.42,2.2,-0.0452,1.004,2.10-2.50
 BKN @ TOR,Mikel Brown Jr. pts under 13.5 + Jamal Shead 5+ pr,2,0.64,0.4557,2.19,2.3,2.09,-0.0455,1.003,1.85-2.10
 BKN @ TOR,Mikel Brown Jr. 3pm under 2.5 + Scottie Barnes 4+ ast,2,0.7028,0.5117,1.95,2.05,1.85,-0.0542,1.0,1.65-1.85
 BKN @ TOR,Mikel Brown Jr. 3pm under 2.5 + Jamal Shead 5+ pr,2,0.7297,0.5325,1.88,1.97,1.77,-0.0562,0.999,1.65-1.85
 BKN @ TOR,Mikel Brown Jr. 3pm under 2.5 + Jamal Shead 10+ pra,2,0.7125,0.5297,1.89,1.98,1.77,-0.0611,0.998,1.65-1.85
-BKN @ TOR,Ja'Kobe Walter 15+ pra + Scottie Barnes 1+ stl,2,0.649,0.5783,1.73,1.82,1.55,-0.1013,1.002,1.50-1.65
-BKN @ TOR,Jamal Shead 5+ pr + Ja'Kobe Walter 15+ pra + Noah Clowney 5+ pa,3,0.6628,0.5427,1.84,1.93,1.58,-0.1404,1.006,1.50-1.65
-BKN @ TOR,Jamal Shead 5+ pr + Ja'Kobe Walter 10+ pa + Scottie Barnes 1+ stl,3,0.6567,0.5341,1.87,1.97,1.61,-0.1415,1.003,1.50-1.65
+BKN @ TOR,Ja'Kobe Walter 15+ pra + Scottie Barnes 1+ stl,2,0.649,0.5781,1.73,1.82,1.55,-0.1012,1.002,1.50-1.65
+BKN @ TOR,Scottie Barnes 4+ ast + Ja'Kobe Walter 15+ pra + Noah Clowney 5+ pa,3,0.6396,0.5231,1.91,2.01,1.65,-0.1373,1.009,1.50-1.65
+BKN @ TOR,Jamal Shead 5+ pr + Ja'Kobe Walter 15+ pra + Noah Clowney 5+ pa,3,0.6628,0.5434,1.84,1.93,1.58,-0.1407,1.006,1.50-1.65
 ATL @ BOS,BOS win + Nickeil Alexander-Walker 3pm under 3.5,2,0.4732,0.434,2.3,2.42,2.24,-0.0291,1.032,2.10-2.50
 ATL @ BOS,BOS -9.5 + Payton Pritchard 15+ pra,2,0.3849,0.3921,2.55,2.68,2.47,-0.0334,1.032,2.10-2.50
 ATL @ BOS,Aaron Wiggins 3pm under 2.5 + BOS win,2,0.5307,0.4683,2.14,2.24,2.06,-0.0334,1.017,1.85-2.10
