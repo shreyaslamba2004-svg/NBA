@@ -7,7 +7,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909326,NYK,203903,Jordan Clarkson,Questionable,Injury/Illness-RightPlantarFasciitis,0.55,Clarkson (foot) is questionable for Friday's game against the Heat.,,
 401909326,NYK,1642359,Pacome Dadiet,,,1.0,,,
 401909326,NYK,1642885,Mohamed Diawara,,,1.0,,,
-401909326,NYK,203083,Andre Drummond,Questionable,Injury/Illness-Head,0.55,Drummond (head) is questionable for Friday's game against the Heat.,,
+401909326,NYK,203083,Andre Drummond,Out,Injury/Illness-ConcussionProtocol,0.0,Drummond (concussion) has been ruled out for Friday's game against the Heat.,,
 401909326,NYK,1628404,Josh Hart,,,1.0,,,
 401909326,NYK,1642261,Dalton Knecht,,,1.0,,,
 401909326,NYK,1642278,Tyler Kolek,,,1.0,,,
