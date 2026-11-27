@@ -14,7 +14,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909326,NYK,1630540,Miles McBride,Out,Injury/Illness-LeftAthleticPubalgia,0.0,McBride (groin) is out for Friday's game against the Heat.,,
 401909326,NYK,904838721,Tyler Nickel,,,1.0,,,
 401909326,NYK,1629013,Landry Shamet,,,1.0,,,
-401909326,NYK,1626157,Karl-Anthony Towns,Questionable,,0.55,Towns is questionable for Friday's game against the Heat due to a right abdominal contusion.,,
+401909326,NYK,1626157,Karl-Anthony Towns,Questionable,,0.55,,,
 401909326,NYK,1630164,James Wiseman,,,1.0,,,
 401909326,MIA,1628389,Bam Adebayo,Active,,1.0,,,
 401909326,MIA,203507,Giannis Antetokounmpo,Available,Injury/Illness-RightGroinTendinitis,1.0,,,

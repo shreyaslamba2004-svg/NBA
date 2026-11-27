@@ -1,6 +1,6 @@
 # NBA model · Fri 27 Nov 2026 (US date)
 
-Updated **Sat 28 Nov, 10:24 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 28 Nov, 10:29 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -32,8 +32,8 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Rudy Gobert PR over 29.5 (30+) | MEM @ MIN | draftkings | 11.00 | 10.12 | 6.20 | 16.1% | 8.5% | 9.9% | +8.7% | +77.4% | 0.2% |
 | Devin Booker PRA over 54.5 (55+) | DAL @ PHX | draftkings | 24.00 | 22.17 | 13.67 | 7.3% | 3.9% | 4.5% | +8.3% | +75.5% | 0.1% |
 | Pascal Siakam PA over 39.5 (40+) | PHI @ IND | draftkings | 9.80 | 9.07 | 5.64 | 17.7% | 9.5% | 11.0% | +8.0% | +73.7% | 0.2% |
-| Deni Avdija PTS over 44.5 (45+) | GSW @ POR | draftkings | 24.00 | 22.27 | 13.87 | 7.2% | 3.9% | 4.5% | +7.9% | +73.0% | 0.1% |
 | Ayo Dosunmu PTS over 34.5 (35+) | MEM @ MIN | draftkings | 18.40 | 17.06 | 10.63 | 9.4% | 5.1% | 5.9% | +7.9% | +73.0% | 0.1% |
+| Deni Avdija PTS over 44.5 (45+) | GSW @ POR | draftkings | 24.00 | 22.27 | 13.87 | 7.2% | 3.9% | 4.5% | +7.9% | +73.0% | 0.1% |
 | Jamal Shead AST over 9.5 (10+) | BKN @ TOR | draftkings | 8.60 | 7.97 | 4.98 | 20.1% | 10.9% | 12.5% | +7.8% | +72.8% | 0.3% |
 | Devin Booker PRA over 49.5 (50+) | DAL @ PHX | draftkings | 13.00 | 12.08 | 7.56 | 13.2% | 7.2% | 8.3% | +7.7% | +72.0% | 0.2% |
 | Devin Booker AST over 11.5 (12+) | DAL @ PHX | draftkings | 29.00 | 26.95 | 16.95 | 5.9% | 3.2% | 3.7% | +7.5% | +71.1% | 0.1% |
@@ -58,7 +58,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| MIA @ NYK | Sat 28 Nov 11:00 | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -2.5 covers 50%; o222.5 58% |
+| MIA @ NYK | Sat 28 Nov 11:00 | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -3.5 covers 47%; o222.5 58% |
 | MIL @ DET | Sat 28 Nov 11:30 | 103.3–113.7 | MIL 23% | 4.33 / 1.30 | DET -10.5 | 216.5 | DET -9.5 covers 53%; o219.5 44% |
 | PHI @ IND | Sat 28 Nov 11:30 | 117.0–117.0 | PHI 50% | 1.99 / 2.01 | IND +0.5 | 233.5 | IND +3.5 covers 59%; o228.5 61% |
 | BKN @ TOR | Sat 28 Nov 11:30 | 105.8–114.7 | BKN 27% | 3.76 / 1.36 | TOR -8.5 | 220.5 | TOR -9.5 covers 48%; o218.5 54% |
@@ -75,9 +75,9 @@ Out: OG Anunoby (NYK), Jordan Clarkson (NYK), Andre Drummond (NYK), Miles McBrid
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -2.5 covers 50%; o222.5 58% |
-| Expected (weighted by chance each plays) | 111.6–114.8 | MIA 41% | 2.44 / 1.70 | NYK -3.5 | 226.5 | NYK -2.5 covers 53%; o222.5 58% |
-| if Karl-Anthony Towns plays | 111.1–115.5 | MIA 38% | 2.62 / 1.62 | NYK -4.5 | 226.5 | NYK -2.5 covers 56%; o222.5 59% |
+| Confirmed players only | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -3.5 covers 47%; o222.5 58% |
+| Expected (weighted by chance each plays) | 111.6–114.8 | MIA 41% | 2.44 / 1.70 | NYK -3.5 | 226.5 | NYK -3.5 covers 49%; o222.5 58% |
+| if Karl-Anthony Towns plays | 111.1–115.5 | MIA 38% | 2.62 / 1.62 | NYK -4.5 | 226.5 | NYK -3.5 covers 53%; o222.5 59% |
 
 **Questionable players: chance to play, and their projection if they do**
 
