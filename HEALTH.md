@@ -1,10 +1,10 @@
 # Model health
 
-Rebuilt 2026-11-26 by the nightly grading run. Back to [TODAY.md](TODAY.md).
+Rebuilt 2026-11-27 by the nightly grading run. Back to [TODAY.md](TODAY.md).
 
 ## Verdict: **SAME**
 
-Last 7 days 2.2% better than baseline, 30 days 2.9%: steady.
+Last 7 days 2.4% better than baseline, 30 days 2.8%: steady.
 
 How to read this: the model is judged against a simple rule anyone could use, each player's average over his last 10 games. "% better" is how much smaller the model's average miss is. Watch the trend, not single days: one game day is mostly noise.
 
@@ -12,8 +12,8 @@ How to read this: the model is judged against a simple rule anyone could use, ea
 
 | window                      |   game days |   players |   minutes miss |   minutes % better than last-10 |   minutes lean (+ = too high) |   points miss |   points % better than last-10 |   points lean (+ = too high) |
 |:----------------------------|------------:|----------:|---------------:|--------------------------------:|------------------------------:|--------------:|-------------------------------:|-----------------------------:|
-| Last 7 days                 |           6 |       778 |           4.34 |                            15.7 |                          0.76 |          4.94 |                            2.2 |                         0.59 |
-| Last 30 days                |          26 |      3408 |           4.96 |                            12.9 |                          1.56 |          5.06 |                            2.9 |                         0.78 |
+| Last 7 days                 |           5 |       625 |           4.47 |                            15.4 |                          0.91 |          4.88 |                            2.4 |                         0.66 |
+| Last 30 days                |          25 |      3244 |           4.95 |                            13   |                          1.55 |          5.06 |                            2.8 |                         0.76 |
 | Season                      |          26 |      3408 |           4.96 |                            12.9 |                          1.56 |          5.06 |                            2.9 |                         0.78 |
 | Backtest (held-out 2025-26) |             |           |                |                            15.4 |                               |               |                            5.4 |                              |
 
@@ -28,7 +28,8 @@ Each table shows two ways of counting: units at a flat 1-unit stake on every bet
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
 | Last 7 days  |     13 |     6 |            -0.75 |           -5.8 |                  21.4 |                                 -1    |                   -4.6 |
-| Last 30 days |     60 |    26 |            -0.57 |           -0.9 |                  86.4 |                                  1.85 |                    2.1 |
+| Last 30 days |     56 |    23 |            -5.52 |           -9.9 |                  83.4 |                                 -1.65 |                   -2   |
+| Whole season |     60 |    26 |            -0.57 |           -0.9 |                  86.4 |                                  1.85 |                    2.1 |
 
 <details><summary>Every final-list bet (60)</summary>
 
@@ -103,8 +104,9 @@ TODAY.md's long-shot table, graded the same way: the final pre-tip list at the p
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
-| Last 7 days  |    157 |    17 |            89.79 |           57.2 |                  33.9 |                                  9.14 |                   26.9 |
-| Last 30 days |    479 |    32 |           -33.21 |           -6.9 |                 120.7 |                                -11.34 |                   -9.4 |
+| Last 7 days  |    138 |    12 |            39.49 |           28.6 |                  29.1 |                                 -0.61 |                   -2.1 |
+| Last 30 days |    454 |    32 |            -8.21 |           -1.8 |                 111.1 |                                 -1.77 |                   -1.6 |
+| Whole season |    479 |    32 |           -33.21 |           -6.9 |                 120.7 |                                -11.34 |                   -9.4 |
 
 <details><summary>Every long shot (479)</summary>
 
@@ -219,8 +221,9 @@ TODAY.md's "check news first" table: bets that clear the bar but where the model
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
-| Last 7 days  |     20 |    13 |            11.3  |           56.5 |                  29.2 |                                 18.75 |                   64.3 |
-| Last 30 days |    112 |    56 |            11.76 |           10.5 |                 165.7 |                                 22.69 |                   13.7 |
+| Last 7 days  |     17 |    12 |            10.43 |           61.4 |                  27.4 |                                 17.78 |                   64.8 |
+| Last 30 days |     92 |    47 |            14.56 |           15.8 |                 134.5 |                                 25.4  |                   18.9 |
+| Whole season |    112 |    56 |            11.76 |           10.5 |                 165.7 |                                 22.69 |                   13.7 |
 
 <details><summary>Every check-news bet (112)</summary>
 
@@ -335,7 +338,7 @@ TODAY.md's "not on Sportsbet" table: bets that meet the best-bets rules (EV ≥ 
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
-| Last 7 days  |      5 |     4 |             2.79 |           55.8 |                   7.6 |                                  4.45 |                   58.5 |
+| Last 7 days  |      3 |     2 |             0.8  |           26.7 |                   4.7 |                                  1.56 |                   33.2 |
 | Last 30 days |     16 |     7 |            -1.91 |          -11.9 |                  22.6 |                                 -1.42 |                   -6.3 |
 
 <details><summary>Every not-on-Sportsbet bet (16)</summary>
@@ -367,8 +370,9 @@ TODAY.md's "not on Sportsbet" table: bets that meet the best-bets rules (EV ≥ 
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |   avg CLV % |   beat closing % |   bets with an Aussie close |   avg CLV vs Aussie close % |   beat Aussie close % |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|------------:|-----------------:|----------------------------:|----------------------------:|----------------------:|
-| Last 7 days  |     24 |    11 |            -1.73 |           -7.2 |                  22.8 |                                 -1.51 |                   -6.6 |         6.7 |               75 |                          13 |                         9.6 |                  53.8 |
-| Last 30 days |    139 |    55 |            -3.81 |           -2.7 |                 109.4 |                                 -2.22 |                   -2   |         4   |               59 |                          59 |                         6.5 |                  54.2 |
+| Last 7 days  |     24 |    11 |            -1.73 |           -7.2 |                  22.8 |                                 -1.51 |                   -6.6 |         6.7 |             75   |                          13 |                         9.6 |                  53.8 |
+| Last 30 days |    125 |    49 |            -8.43 |           -6.7 |                 106.1 |                                 -5.63 |                   -5.3 |         4.6 |             63.2 |                          55 |                         7.2 |                  58.2 |
+| Whole season |    139 |    55 |            -3.81 |           -2.7 |                 109.4 |                                 -2.22 |                   -2   |         4   |             59   |                          59 |                         6.5 |                  54.2 |
 
 <details><summary>Every bet that showed at any time (odds = first price shown) (139)</summary>
 
@@ -487,10 +491,11 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 
 | period       |   bets |   won |   profit (units) |   ROI % (flat) |   staked (% bankroll) |   profit at sheet stakes (% bankroll) |   ROI % (sheet stakes) |
 |:-------------|-------:|------:|-----------------:|---------------:|----------------------:|--------------------------------------:|-----------------------:|
-| Last 7 days  |    149 |    72 |            -5.7  |           -3.8 |                  59   |                                 -5.93 |                  -10.1 |
-| Last 30 days |    626 |   301 |           -27.53 |           -4.4 |                 249.2 |                                 -6.27 |                   -2.5 |
+| Last 7 days  |    139 |    65 |           -10.13 |           -7.3 |                  56.4 |                                 -8.54 |                  -15.1 |
+| Last 30 days |    622 |   299 |           -27.25 |           -4.4 |                 248.9 |                                 -6.37 |                   -2.6 |
+| Whole season |    628 |   301 |           -29.53 |           -4.7 |                 249.5 |                                 -6.63 |                   -2.7 |
 
-<details><summary>Every graded game prop (626)</summary>
+<details><summary>Every graded game prop (628)</summary>
 
 | date (US)   | bet                                       | game      | book         |   odds | EV     | sheet stake   | result   |   units (1 flat) |   profit at stake (% bankroll) |
 |:------------|:------------------------------------------|:----------|:-------------|-------:|:-------|:--------------|:---------|-----------------:|-------------------------------:|
@@ -519,7 +524,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-11-25  | Giannis Antetokounmpo PTS over 28.5 (29+) | MIA @ PHI | pointsbetau  |   2    | +0.2%  | 0.1%          | won      |             1    |                           0.05 |
 | 2026-11-24  | John Collins PTS over 10.5 (11+)          | DET @ ORL | sportsbet    |   2.05 | +6.3%  | 1.5%          | won      |             1.05 |                           1.56 |
 | 2026-11-24  | Zaccharie Risacher PTS over 7.5 (8+)      | DAL @ DEN | pointsbetau  |   2    | +2.6%  | 0.7%          | won      |             1    |                           0.65 |
-| 2026-11-24  | Bilal Coulibaly PTS over 6.5 (7+)         | BOS @ WAS | pointsbetau  |   2    | +1.5%  | 0.4%          | won      |             1    |                           0.36 |
+| 2026-11-24  | Bilal Coulibaly PTS over 6.5 (7+)         | BOS @ WAS | draftkings   |   2    | +1.5%  | 0.4%          | won      |             1    |                           0.36 |
 | 2026-11-24  | Daniss Jenkins PTS over 15.5 (16+)        | DET @ ORL | sportsbet    |   2    | +0.8%  | 0.2%          | lost     |            -1    |                          -0.2  |
 | 2026-11-24  | Tristan da Silva PTS under 10.5           | DET @ ORL | tab          |   1.95 | +0.3%  | 0.1%          | lost     |            -1    |                          -0.08 |
 | 2026-11-24  | AJ Dybantsa PTS under 15.5                | BOS @ WAS | draftkings   |   1.94 | +0.1%  | 0.0%          | lost     |            -1    |                          -0.04 |
@@ -574,7 +579,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-11-22  | Neemias Queta PTS over 10.5 (11+)         | BOS @ GSW | sportsbet    |   2.02 | +1.7%  | 0.4%          | lost     |            -1    |                          -0.41 |
 | 2026-11-22  | Bam Adebayo PTS under 21.5                | OKC @ MIA | ladbrokes_au |   1.95 | +1.5%  | 0.4%          | lost     |            -1    |                          -0.39 |
 | 2026-11-22  | Andrew Nembhard PTS over 13.5 (14+)       | IND @ NYK | draftkings   |   1.94 | +1.3%  | 0.3%          | won      |             0.94 |                           0.32 |
-| 2026-11-22  | Jamal Murray PTS over 23.5 (24+)          | DEN @ CHI | sportsbet    |   2    | +1.1%  | 0.3%          | won      |             1    |                           0.28 |
+| 2026-11-22  | Jamal Murray PTS over 23.5 (24+)          | DEN @ CHI | pointsbetau  |   2    | +1.1%  | 0.3%          | won      |             1    |                           0.28 |
 | 2026-11-22  | Klay Thompson PTS under 14.5              | OKC @ MIA | tab          |   2    | +1.1%  | 0.3%          | won      |             1    |                           0.27 |
 | 2026-11-22  | Davion Mitchell PTS under 15.5            | OKC @ MIA | pointsbetau  |   2    | +0.7%  | 0.2%          | won      |             1    |                           0.16 |
 | 2026-11-22  | Charles Bassey PTS under 7.5              | BOS @ GSW | draftkings   |   2.07 | +0.5%  | 0.1%          | lost     |            -1    |                          -0.13 |
@@ -593,7 +598,7 @@ The "Best player props" box in each game's section of TODAY.md: every main-line 
 | 2026-11-21  | Jeremiah Fears PTS over 16.5 (17+)        | NOP @ SAS | betright     |   2    | +1.8%  | 0.5%          | won      |             1    |                           0.46 |
 | 2026-11-21  | Kyle Kuzma PTS under 11.5                 | MIL @ PHI | sportsbet    |   2.02 | +1.1%  | 0.3%          | lost     |            -1    |                          -0.27 |
 | 2026-11-21  | Rudy Gobert PTS over 9.5 (10+)            | MEM @ MIN | pointsbetau  |   2.1  | +0.9%  | 0.2%          | lost     |            -1    |                          -0.21 |
-| 2026-11-21  | VJ Edgecombe PTS under 14.5               | MIL @ PHI | tab          |   2    | +0.8%  | 0.2%          | lost     |            -1    |                          -0.2  |
+| 2026-11-21  | Stephon Castle PTS over 17.5 (18+)        | NOP @ SAS | pointsbetau  |   2    | +0.8%  | 0.2%          | won      |             1    |                           0.2  |
 
 </details>
 
