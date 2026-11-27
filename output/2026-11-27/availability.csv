@@ -17,7 +17,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909326,NYK,1626157,Karl-Anthony Towns,Questionable,,0.55,Towns is questionable for Friday's game against the Heat due to a right abdominal contusion.,,
 401909326,NYK,1630164,James Wiseman,,,1.0,,,
 401909326,MIA,1628389,Bam Adebayo,,,1.0,,,
-401909326,MIA,203507,Giannis Antetokounmpo,Probable,Injury/Illness-RightGroinTendinitis,0.93,Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.,,
+401909326,MIA,203507,Giannis Antetokounmpo,Available,Injury/Illness-RightGroinTendinitis,1.0,Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.,,
 401909326,MIA,905107157,Ryan Conwell,,,1.0,,,
 401909326,MIA,904837356,Tre Donaldson,Out,GLeague-Two-Way,0.0,,,
 401909326,MIA,1631323,Simone Fontecchio,,,1.0,,,
