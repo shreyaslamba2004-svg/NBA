@@ -1,6 +1,6 @@
 # NBA model · Fri 27 Nov 2026 (US date)
 
-Updated **Sat 28 Nov, 09:54 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 28 Nov, 09:59 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -66,7 +66,7 @@ Game lines below assume every questionable player sits; each game's section show
 
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
-| MIA @ NYK | Sat 28 Nov 11:00 | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -2.5 covers 50%; o221.5 60% |
+| MIA @ NYK | Sat 28 Nov 11:00 | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -2.5 covers 50%; o222.5 58% |
 | MIL @ DET | Sat 28 Nov 11:30 | 103.3–113.7 | MIL 23% | 4.33 / 1.30 | DET -10.5 | 216.5 | DET -9.5 covers 53%; o219.5 44% |
 | PHI @ IND | Sat 28 Nov 11:30 | 116.8–116.4 | PHI 51% | 1.95 / 2.06 | IND +0.5 | 233.5 | IND +3.5 covers 58%; o228.5 60% |
 | BKN @ TOR | Sat 28 Nov 11:30 | 105.4–113.4 | BKN 29% | 3.45 / 1.41 | TOR -7.5 | 218.5 | TOR -9.5 covers 46%; o218.5 51% |
@@ -83,9 +83,9 @@ Out: OG Anunoby (NYK), Jordan Clarkson (NYK), Andre Drummond (NYK), Miles McBrid
 
 | Scenario | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|
-| Confirmed players only | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -2.5 covers 50%; o221.5 60% |
-| Expected (weighted by chance each plays) | 111.6–114.8 | MIA 41% | 2.44 / 1.70 | NYK -3.5 | 226.5 | NYK -2.5 covers 53%; o221.5 60% |
-| if Karl-Anthony Towns plays | 111.1–115.5 | MIA 38% | 2.62 / 1.62 | NYK -4.5 | 226.5 | NYK -2.5 covers 56%; o221.5 61% |
+| Confirmed players only | 112.1–114.2 | MIA 44% | 2.27 / 1.79 | NYK -2.5 | 226.5 | NYK -2.5 covers 50%; o222.5 58% |
+| Expected (weighted by chance each plays) | 111.6–114.8 | MIA 41% | 2.44 / 1.70 | NYK -3.5 | 226.5 | NYK -2.5 covers 53%; o222.5 58% |
+| if Karl-Anthony Towns plays | 111.1–115.5 | MIA 38% | 2.62 / 1.62 | NYK -4.5 | 226.5 | NYK -2.5 covers 56%; o222.5 59% |
 
 **Questionable players: chance to play, and their projection if they do**
 
