@@ -33,18 +33,17 @@ PHI @ IND,Kentavious Caldwell-Pope 3pm under 1.5 + VJ Edgecombe 10+ pa,2,0.6977,
 PHI @ IND,Kentavious Caldwell-Pope 3pm under 1.5 + VJ Edgecombe 4+ reb,2,0.621,0.5047,1.98,2.08,1.82,-0.0829,0.999,1.65-1.85
 PHI @ IND,VJ Edgecombe 1+ 3pm + LeBron James 4+ reb + Pascal Siakam 1+ 3pm,3,0.6393,0.5262,1.9,2.0,1.62,-0.1469,0.999,1.50-1.65
 PHI @ IND,LeBron James 4+ reb + VJ Edgecombe 10+ pts + Pascal Siakam 20+ pa,3,0.6238,0.5271,1.9,1.99,1.62,-0.147,1.005,1.50-1.65
-BKN @ TOR,Mikel Brown Jr. pa under 17.5 + TOR win,2,0.5177,0.4061,2.46,2.59,2.49,0.0126,1.035,2.10-2.50
-BKN @ TOR,Mikel Brown Jr. pra under 20.5 + TOR win,2,0.5321,0.4169,2.4,2.52,2.42,0.0093,1.032,2.10-2.50
-BKN @ TOR,Mikel Brown Jr. pts under 13.5 + TOR win,2,0.5108,0.4094,2.44,2.56,2.45,0.0034,1.033,2.10-2.50
-BKN @ TOR,Mikel Brown Jr. 3pm under 2.5 + TOR win,2,0.5775,0.4743,2.11,2.21,2.07,-0.0162,1.02,1.85-2.10
-BKN @ TOR,Ja'Kobe Walter 2+ ast + TOR win,2,0.5194,0.4586,2.18,2.29,2.09,-0.0401,1.015,1.85-2.10
-BKN @ TOR,Mikel Brown Jr. pra under 20.5 + Jamal Shead 5+ pr,2,0.666,0.4637,2.16,2.26,2.07,-0.0407,1.0,1.85-2.10
+BKN @ TOR,Mikel Brown Jr. pa under 17.5 + Jakob Poeltl 15+ pra,2,0.6001,0.4133,2.42,2.54,2.32,-0.0392,1.0,2.10-2.50
+BKN @ TOR,Mikel Brown Jr. pa under 17.5 + Jamal Shead 5+ pr,2,0.6457,0.4501,2.22,2.33,2.13,-0.0411,1.001,2.10-2.50
+BKN @ TOR,Mikel Brown Jr. pra under 20.5 + Jakob Poeltl 15+ pra,2,0.6192,0.4323,2.31,2.43,2.21,-0.0428,1.0,2.10-2.50
+BKN @ TOR,Mikel Brown Jr. pra under 20.5 + Jamal Shead 5+ pr,2,0.666,0.4705,2.13,2.23,2.03,-0.0451,1.0,1.85-2.10
+BKN @ TOR,Mikel Brown Jr. pts under 13.5 + Jamal Shead 5+ pr,2,0.64,0.4557,2.19,2.3,2.09,-0.0455,1.003,1.85-2.10
+BKN @ TOR,Mikel Brown Jr. pa under 17.5 + Ja'Kobe Walter 10+ pra,2,0.6707,0.479,2.09,2.19,1.99,-0.0487,0.998,1.85-2.10
 BKN @ TOR,Mikel Brown Jr. 3pm under 2.5 + Jamal Shead 5+ pr,2,0.7297,0.5325,1.88,1.97,1.77,-0.0562,0.999,1.65-1.85
-BKN @ TOR,TOR win + Ja'Kobe Walter 15+ pra,2,0.595,0.5812,1.72,1.81,1.62,-0.0595,1.021,1.50-1.65
-BKN @ TOR,TOR win + Ja'Kobe Walter 10+ pa,2,0.6448,0.6209,1.61,1.69,1.51,-0.0602,1.017,1.50-1.65
-BKN @ TOR,TOR win + Jakob Poeltl 15+ pra,2,0.6285,0.5905,1.69,1.78,1.59,-0.0611,1.01,1.50-1.65
 BKN @ TOR,Mikel Brown Jr. 3pm under 2.5 + Jamal Shead 10+ pra,2,0.7125,0.5297,1.89,1.98,1.77,-0.0611,0.998,1.65-1.85
 BKN @ TOR,Mikel Brown Jr. 3pm under 2.5 + Ja'Kobe Walter 10+ pr,2,0.7265,0.5432,1.84,1.93,1.73,-0.0613,0.999,1.65-1.85
+BKN @ TOR,Jamal Shead 5+ pr + Ja'Kobe Walter 15+ pra + Noah Clowney 5+ pa,3,0.6628,0.5421,1.84,1.94,1.59,-0.1401,1.006,1.50-1.65
+BKN @ TOR,Jamal Shead 10+ pra + Ja'Kobe Walter 15+ pra + Noah Clowney 5+ pa,3,0.6483,0.5402,1.85,1.94,1.59,-0.1431,1.007,1.50-1.65
 ATL @ BOS,BOS win + Nickeil Alexander-Walker 3pm under 3.5,2,0.4732,0.434,2.3,2.42,2.24,-0.0291,1.032,2.10-2.50
 ATL @ BOS,BOS -9.5 + Payton Pritchard 15+ pra,2,0.3849,0.3921,2.55,2.68,2.47,-0.0334,1.032,2.10-2.50
 ATL @ BOS,Aaron Wiggins 3pm under 2.5 + BOS win,2,0.5307,0.4683,2.14,2.24,2.06,-0.0334,1.017,1.85-2.10
@@ -120,12 +119,12 @@ NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 4+ reb,3,0.653
 GSW @ POR,POR win + De'Anthony Melton pa under 14.5,2,0.389,0.4264,2.35,2.46,2.46,0.049,1.058,2.10-2.50
 GSW @ POR,POR win + Sidy Cissoko 11+ pa,2,0.415,0.4466,2.24,2.35,2.34,0.0458,1.048,2.10-2.50
 GSW @ POR,POR win + Charles Bassey pa under 11.5,2,0.3875,0.4214,2.37,2.49,2.48,0.0447,1.051,2.10-2.50
-GSW @ POR,POR win + De'Anthony Melton 3pm under 2.5,2,0.4827,0.5061,1.98,2.07,2.03,0.027,1.023,1.85-2.10
 GSW @ POR,POR win + Sidy Cissoko 10+ pra,2,0.5381,0.6377,1.57,1.65,1.55,-0.0145,1.014,1.50-1.65
 GSW @ POR,POR win + Sidy Cissoko 1+ 3pm,2,0.4824,0.5844,1.71,1.8,1.68,-0.0175,1.017,1.65-1.85
-GSW @ POR,POR win + Sidy Cissoko 10+ pra + Jrue Holiday 4+ ast,3,0.4868,0.5281,1.89,1.99,1.81,-0.0434,1.032,1.65-1.85
-GSW @ POR,POR win + Jrue Holiday 4+ ast + Sidy Cissoko 1+ 3pm,3,0.4364,0.4839,2.07,2.17,1.97,-0.0464,1.034,1.85-2.10
-GSW @ POR,Toumani Camara 2+ ast + Jrue Holiday 4+ ast,2,0.6073,0.4568,2.19,2.3,2.07,-0.0558,1.005,1.85-2.10
-GSW @ POR,De'Anthony Melton 3pm under 2.5 + Sidy Cissoko 10+ pra,2,0.7293,0.5367,1.86,1.96,1.76,-0.058,1.0,1.65-1.85
-GSW @ POR,POR win + Sidy Cissoko 10+ pra + Donovan Clingan 15+ pra,3,0.5117,0.5706,1.75,1.84,1.65,-0.0593,1.022,1.50-1.65
-GSW @ POR,De'Anthony Melton 3pm under 2.5 + Donovan Clingan 15+ pra,2,0.7618,0.5784,1.73,1.82,1.62,-0.0633,1.002,1.50-1.65
+GSW @ POR,POR win + Sidy Cissoko 10+ pra + Jrue Holiday 4+ ast,3,0.4868,0.5274,1.9,1.99,1.81,-0.0431,1.032,1.65-1.85
+GSW @ POR,POR win + Jrue Holiday 4+ ast + Sidy Cissoko 1+ 3pm,3,0.4364,0.4833,2.07,2.17,1.97,-0.0461,1.034,1.85-2.10
+GSW @ POR,Toumani Camara 2+ ast + Jrue Holiday 4+ ast,2,0.6073,0.4563,2.19,2.3,2.07,-0.0555,1.005,1.85-2.10
+GSW @ POR,Sidy Cissoko 11+ pa + Jrue Holiday 4+ ast,2,0.6065,0.4591,2.18,2.29,2.06,-0.0558,1.009,1.85-2.10
+GSW @ POR,POR win + Sidy Cissoko 10+ pra + Toumani Camara 1+ 3pm,3,0.4972,0.5656,1.77,1.86,1.66,-0.0586,1.027,1.65-1.85
+GSW @ POR,POR win + Sidy Cissoko 10+ pra + Donovan Clingan 15+ pra,3,0.5117,0.571,1.75,1.84,1.65,-0.0594,1.022,1.50-1.65
+GSW @ POR,POR win + Sidy Cissoko 10+ pra + Jrue Holiday 1+ 3pm,3,0.5062,0.5703,1.75,1.84,1.64,-0.0641,1.019,1.50-1.65
