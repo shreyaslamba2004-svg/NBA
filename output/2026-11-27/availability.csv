@@ -1,12 +1,12 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909327,DET,1628381,John Collins,Starting,,1.0,,,1.0
+401909327,DET,1628381,John Collins,,,1.0,,,
 401909327,DET,1630595,Cade Cunningham,Out,,0.0,Cunningham (knee) is out for Friday's game against the Bucks.,,
 401909327,DET,1631105,Jalen Duren,Out,Injury/Illness-RightHamstringStrain,0.0,Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday.,,
-401909327,DET,1629750,Javonte Green,Starting,,1.0,,,1.0
+401909327,DET,1629750,Javonte Green,,,1.0,,,
 401909327,DET,904397449,Elijah Harkless,,,1.0,,,
 401909327,DET,1641842,Ronald Holland II,,,1.0,,,
-401909327,DET,1628989,Kevin Huerter,Starting,,1.0,,,1.0
-401909327,DET,1642450,Daniss Jenkins,Starting,,1.0,,,1.0
+401909327,DET,1628989,Kevin Huerter,,,1.0,,,
+401909327,DET,1642450,Daniss Jenkins,,,1.0,,,
 401909327,DET,1630198,Isaiah Joe,,,1.0,,,
 401909327,DET,905107818,Isaac Jones,,,1.0,,,
 401909327,DET,1642404,Chaz Lanier,,,1.0,,,
@@ -16,24 +16,24 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909327,DET,1630194,Paul Reed,,,1.0,,,
 401909327,DET,1629130,Duncan Robinson,Out,Injury/Illness-LeftQuadricepsStrain,0.0,Robinson (quadriceps) is out for Friday's game against the Bucks.,,
 401909327,DET,1642449,Tolu Smith,,,1.0,,,
-401909327,DET,1641709,Ausar Thompson,Starting,,1.0,,,1.0
+401909327,DET,1641709,Ausar Thompson,,,1.0,,,
 401909327,MIL,905164559,Nate Ament,,,1.0,,,
 401909327,MIL,905082206,Brayden Burries,,,1.0,,,
 401909327,MIL,1631172,Ousmane Dieng,,,1.0,,,
 401909327,MIL,1631260,AJ Green,,,1.0,,,
-401909327,MIL,1629639,Tyler Herro,Starting,,1.0,,,1.0
+401909327,MIL,1629639,Tyler Herro,,,1.0,,,
 401909327,MIL,905214640,Kasparas Jakucionis,Out,,0.0,Jakucionis (ankle) won't play Friday's game against the Pistons.,,
-401909327,MIL,1631170,Jaime Jaquez Jr.,Starting,,1.0,,,1.0
+401909327,MIL,1631170,Jaime Jaquez Jr.,,,1.0,,,
 401909327,MIL,1642880,Kam Jones,Out,GLeague-Two-Way,0.0,,,
-401909327,MIL,1628398,Kyle Kuzma,Starting,,1.0,,,1.0
+401909327,MIL,1628398,Kyle Kuzma,,,1.0,,,
 401909327,MIL,1627747,Caris LeVert,,,1.0,,,
 401909327,MIL,905214989,Bogoljub Markovic,Out,GLeague-OnAssignment,0.0,,,
 401909327,MIL,1631250,Pete Nance,,,1.0,,,
-401909327,MIL,1631157,Ryan Rollins,Starting,,1.0,,,1.0
+401909327,MIL,1631157,Ryan Rollins,,,1.0,,,
 401909327,MIL,1642504,Cormac Ryan,Out,GLeague-Two-Way,0.0,,,
 401909327,MIL,1630579,Jericho Sims,,,1.0,,,
 401909327,MIL,1629018,Gary Trent Jr.,,,1.0,,,
-401909327,MIL,1626167,Myles Turner,Starting,,1.0,,,1.0
+401909327,MIL,1626167,Myles Turner,,,1.0,,,
 401909327,MIL,905105623,Kel'el Ware,,,1.0,,,
 401909328,IND,1641738,Kobe Brown,,,1.0,,,
 401909328,IND,1642277,Johnny Furphy,Out,,0.0,,,
@@ -42,52 +42,52 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909328,IND,1631245,Quenton Jackson,,,1.0,,,
 401909328,IND,204456,T.J. McConnell,Out,,0.0,"McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports.",,
 401909328,IND,1626204,Larry Nance Jr.,Available,Injury/Illness-RightAnkleBruise,1.0,,,
-401909328,IND,1629614,Andrew Nembhard,Starting,,1.0,,,1.0
-401909328,IND,1630174,Aaron Nesmith,Starting,,1.0,,,1.0
-401909328,IND,1626162,Kelly Oubre Jr.,Starting,Injury/Illness-RightHandLaceration,1.0,,,1.0
+401909328,IND,1629614,Andrew Nembhard,,,1.0,,,
+401909328,IND,1630174,Aaron Nesmith,,,1.0,,,
+401909328,IND,1626162,Kelly Oubre Jr.,Available,Injury/Illness-RightHandLaceration,1.0,,,
 401909328,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
-401909328,IND,1627783,Pascal Siakam,Starting,,1.0,,,1.0
+401909328,IND,1627783,Pascal Siakam,,,1.0,,,
 401909328,IND,1641771,Jalen Slawson,,,1.0,,,
 401909328,IND,905105854,Braden Smith,,,1.0,,,
 401909328,IND,1630167,Obi Toppin,,,1.0,,,
 401909328,IND,1641716,Jarace Walker,,,1.0,,,
-401909328,IND,1627826,Ivica Zubac,Starting,,1.0,,,1.0
-401909328,PHI,1631230,Dominick Barlow,Starting,,1.0,,,1.0
+401909328,IND,1627826,Ivica Zubac,,,1.0,,,
+401909328,PHI,1631230,Dominick Barlow,,,1.0,,,
 401909328,PHI,1641737,Adem Bona,,,1.0,,,
 401909328,PHI,1627759,Jaylen Brown,Out,,0.0,"Brown (hamstring) underwent an MRI that showed no signs of a new injury or re-aggravation, but he didn't travel with the team for the road trip, so he will miss the team's next two games, Kris Rhim of ESPN reports.",,
 401909328,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909328,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
+401909328,PHI,1642845,VJ Edgecombe,,,1.0,,,
 401909328,PHI,1642348,Justin Edwards,,,1.0,,,
-401909328,PHI,203954,Joel Embiid,Starting,Injury/Illness-Illness,1.0,,,1.0
+401909328,PHI,203954,Joel Embiid,Available,Injury/Illness-Illness,1.0,,,
 401909328,PHI,1629605,Tacko Fall,,,1.0,,,
 401909328,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401909328,PHI,2544,LeBron James,Starting,,1.0,,,1.0
+401909328,PHI,2544,LeBron James,,,1.0,,,
 401909328,PHI,904433144,Caleb Love,,,1.0,,,
-401909328,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
+401909328,PHI,1630178,Tyrese Maxey,,,1.0,,,
 401909328,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909328,PHI,1641712,Rayan Rupert,,,1.0,,,
 401909328,PHI,1629014,Anfernee Simons,,,1.0,,,
 401909328,PHI,1629731,Dean Wade,Out,,0.0,"Wade (hamstring) is out for Friday's game against the Pacers, Austin Krell of Vertical 76 reports.",,
 401909328,PHI,1631133,Jabari Walker,,,1.0,,,
 401909329,TOR,203937,Kyle Anderson,,,1.0,,,
-401909329,TOR,1630567,Scottie Barnes,Starting,,1.0,,,1.0
+401909329,TOR,1630567,Scottie Barnes,,,1.0,,,
 401909329,TOR,1629628,RJ Barrett,Out,Injury/Illness-RightHamstringStrain,0.0,"Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports.",,
 401909329,TOR,1642419,Jamison Battle,,,1.0,,,
 401909329,TOR,904432586,Nate Bittle,Out,GLeague-Two-Way,0.0,"Bittle (foot) has been ruled out for Monday's game against the Bucks, Blake Murphy of Sportsnet.ca reports.",,
 401909329,TOR,904432737,Jaden Bradley,,,1.0,,,
-401909329,TOR,905149115,Allen Graves,Starting,,1.0,,,1.0
+401909329,TOR,905149115,Allen Graves,,,1.0,,,
 401909329,TOR,1631218,Trayce Jackson-Davis,,,1.0,,,
 401909329,TOR,202695,Kawhi Leonard,Out,,0.0,"Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J. Spears of ESPN.com reports.",,
 401909329,TOR,1642918,Alijah Martin,Available,Injury/Illness-LeftKneeSoreness,1.0,,,
 401909329,TOR,1641755,Kevin McCullar Jr.,Out,GLeague-Two-Way,0.0,,,
 401909329,TOR,1642867,Collin Murray-Boyles,,,1.0,,,
-401909329,TOR,1627751,Jakob Poeltl,Starting,,1.0,,,1.0
-401909329,TOR,1630193,Immanuel Quickley,Starting,,1.0,,,1.0
+401909329,TOR,1627751,Jakob Poeltl,,,1.0,,,
+401909329,TOR,1630193,Immanuel Quickley,,,1.0,,,
 401909329,TOR,1642347,Jamal Shead,,,1.0,,,
 401909329,TOR,1641869,Malachi Smith,Out,GLeague-Two-Way,0.0,,,
-401909329,TOR,1642266,Ja'Kobe Walter,Starting,,1.0,,,1.0
+401909329,TOR,1642266,Ja'Kobe Walter,,,1.0,,,
 401909329,BKN,905105626,Tyler Bilodeau,Out,GLeague-Two-Way,0.0,,,
-401909329,BKN,905101761,Mikel Brown Jr.,Starting,,1.0,,,1.0
+401909329,BKN,905101761,Mikel Brown Jr.,,,1.0,,,
 401909329,BKN,1641730,Noah Clowney,,,1.0,,,
 401909329,BKN,1642856,Egor Demin,,,1.0,,,
 401909329,BKN,1631165,Keon Ellis,,,1.0,,,
@@ -96,46 +96,46 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909329,BKN,1629611,Terance Mann,,,1.0,,,
 401909329,BKN,1631169,Josh Minott,,,1.0,,,
 401909329,BKN,1641761,Grant Nelson,,,1.0,,,
-401909329,BKN,1629008,Michael Porter Jr.,Starting,,1.0,,,1.0
+401909329,BKN,1629008,Michael Porter Jr.,,,1.0,,,
 401909329,BKN,1642962,Drake Powell,Out,GLeague-OnAssignment,0.0,,,
-401909329,BKN,203944,Julius Randle,Starting,,1.0,,,1.0
+401909329,BKN,203944,Julius Randle,,,1.0,,,
 401909329,BKN,1642879,Ben Saraf,,,1.0,,,
-401909329,BKN,1630549,Day'Ron Sharpe,Starting,,1.0,,,1.0
+401909329,BKN,1630549,Day'Ron Sharpe,,,1.0,,,
 401909329,BKN,1642849,Nolan Traore,Out,Injury/Illness-RightHamstringStrain,0.0,"Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports.",,
 401909329,BKN,1629021,Moritz Wagner,Out,,0.0,Wagner (knee) won't be available for Friday's game against Toronto.,,
-401909329,BKN,1642874,Danny Wolf,Starting,,1.0,,,1.0
+401909329,BKN,1642874,Danny Wolf,,,1.0,,,
 401909330,BOS,1642269,Devin Carter,Out,GLeague-Two-Way,0.0,,,
 401909330,BOS,905142621,Chris Cenac Jr.,,,1.0,,,
 401909330,BOS,201144,Mike Conley,,,1.0,,,
 401909330,BOS,1630568,Luka Garza,,,1.0,,,
-401909330,BOS,202331,Paul George,,,1.0,,,
-401909330,BOS,1642864,Hugo Gonzalez,,,1.0,,,
+401909330,BOS,202331,Paul George,Starting,,1.0,,,1.0
+401909330,BOS,1642864,Hugo Gonzalez,Starting,,1.0,,,1.0
 401909330,BOS,1631199,Ron Harper Jr.,,,1.0,,,
 401909330,BOS,1630573,Sam Hauser,,,1.0,,,
 401909330,BOS,905106283,Dillon Mitchell,Out,GLeague-Two-Way,0.0,,,
 401909330,BOS,1630202,Payton Pritchard,,,1.0,,,
-401909330,BOS,1629674,Neemias Queta,,,1.0,,,
+401909330,BOS,1629674,Neemias Queta,Starting,,1.0,,,1.0
 401909330,BOS,1629011,Mitchell Robinson,Out,Injury/Illness-Illness,0.0,Robinson has been ruled out Marc D'Amico of the Celtics' official sitefor Friday's game.,,
 401909330,BOS,1631248,Baylor Scheierman,,,1.0,,,
-401909330,BOS,1628369,Jayson Tatum,,,1.0,,,
+401909330,BOS,1628369,Jayson Tatum,Starting,,1.0,,,1.0
 401909330,BOS,1641775,Jordan Walsh,,,1.0,,,
-401909330,BOS,1628401,Derrick White,,,1.0,,,
+401909330,BOS,1628401,Derrick White,Starting,,1.0,,,1.0
 401909330,BOS,1642873,Amari Williams,Out,GLeague-Two-Way,0.0,,,
-401909330,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
+401909330,ATL,1629638,Nickeil Alexander-Walker,Starting,,1.0,,,1.0
 401909330,ATL,904684443,Rafael Castro,Out,GLeague-Two-Way,0.0,,,
-401909330,ATL,1630700,Dyson Daniels,,,1.0,,,
+401909330,ATL,1630700,Dyson Daniels,Starting,,1.0,,,1.0
 401909330,ATL,1642484,RayJ Dennis,,,1.0,,,
 401909330,ATL,1629652,Luguentz Dort,,,1.0,,,
 401909330,ATL,905106262,Zuby Ejiofor,,,1.0,,,
 401909330,ATL,1627827,Dorian Finney-Smith,,,1.0,,,
-401909330,ATL,905149077,Kingston Flemings,,,1.0,,,
+401909330,ATL,905149077,Kingston Flemings,Starting,,1.0,,,1.0
 401909330,ATL,1631243,Mouhamed Gueye,Out,Injury/Illness-LeftFootFracture,0.0,"Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",,
-401909330,ATL,1630552,Jalen Johnson,,,1.0,,,
+401909330,ATL,1630552,Jalen Johnson,Starting,,1.0,,,1.0
 401909330,ATL,1630557,Corey Kispert,,,1.0,,,
 401909330,ATL,1629111,Jock Landale,Out,Injury/Illness-RightGreatToeSprain,0.0,Landale (hip) is out for Friday's game against the Celtics.,,
 401909330,ATL,203468,CJ McCollum,Out,Injury/Illness-LeftCalfStrain,0.0,"McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network.",,
 401909330,ATL,1642854,Asa Newell,Out,Injury/Illness-LeftGreatToeSurgery,0.0,"Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he will be re-evaluated in approximately four months, Brad Rowland of the Locked On Podcast Network reports.",,
-401909330,ATL,1630168,Onyeka Okongwu,,,1.0,,,
+401909330,ATL,1630168,Onyeka Okongwu,Starting,,1.0,,,1.0
 401909330,ATL,905105571,Henri Veesaar,Out,,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
 401909330,ATL,1630598,Aaron Wiggins,,,1.0,,,
 401909330,ATL,1630592,Jalen Wilson,Out,GLeague-Two-Way,0.0,,,
