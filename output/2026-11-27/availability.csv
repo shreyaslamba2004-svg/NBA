@@ -1,14 +1,14 @@
 game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
-401909332,PHX,1626164,Devin Booker,Starting,,1.0,,,1.0
+401909332,PHX,1626164,Devin Booker,,,1.0,,,
 401909332,PHX,1631123,Jamaree Bouyea,,,1.0,,,
-401909332,PHX,1628970,Miles Bridges,Starting,,1.0,,,1.0
-401909332,PHX,1628415,Dillon Brooks,Starting,,1.0,,,1.0
+401909332,PHX,1628970,Miles Bridges,,,1.0,,,
+401909332,PHX,1628415,Dillon Brooks,,,1.0,,,
 401909332,PHX,1642346,Ryan Dunn,,,1.0,,,
 401909332,PHX,1642853,Rasheer Fleming,,,1.0,,,
 401909332,PHX,1631221,Collin Gillespie,,,1.0,,,
 401909332,PHX,1630692,Jordan Goodwin,,,1.0,,,
-401909332,PHX,1630224,Jalen Green,Starting,,1.0,,,1.0
-401909332,PHX,1642345,Oso Ighodaro,Starting,,1.0,,,1.0
+401909332,PHX,1630224,Jalen Green,,,1.0,,,
+401909332,PHX,1642345,Oso Ighodaro,,,1.0,,,
 401909332,PHX,1628379,Luke Kennard,,,1.0,,,
 401909332,PHX,1642863,Khaman Maluach,,,1.0,,,
 401909332,PHX,905041953,Koa Peat,,,1.0,,,
@@ -22,26 +22,26 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909332,DAL,1630619,Moussa Cisse,,,1.0,,,
 401909332,DAL,904896372,Walter Clayton Jr.,,,1.0,,,
 401909332,DAL,905279129,Sergio de Larrea,Out,De Larrea (knee) is out for Friday's game against the Suns.,0.0,De Larrea (knee) is out for Friday's game against the Suns.,,
-401909332,DAL,1642843,Cooper Flagg,Starting,,1.0,,,1.0
-401909332,DAL,1629655,Daniel Gafford,Starting,,1.0,,,1.0
+401909332,DAL,1642843,Cooper Flagg,,,1.0,,,
+401909332,DAL,1629655,Daniel Gafford,,,1.0,,,
 401909332,DAL,1641724,Jett Howard,,,1.0,,,
 401909332,DAL,202681,Kyrie Irving,Out,,0.0,"Irving (knee) has been ruled out for Friday's game against the Suns, Noah Weber of TheSmokingCuban.com reports.",,
 401909332,DAL,1642358,Morez Johnson Jr.,,,1.0,,,
 401909332,DAL,905106040,Tobi Lawal,Out,Injury/Illness-RightGroinStrain,0.0,Lawal (groin) is out for Friday's game against the Suns.,,
 401909332,DAL,1641726,Dereck Lively II,Out,Injury/Illness-RightFootSurgery,0.0,Lively (foot) is out for Friday's game against the Suns.,,
 401909332,DAL,1630230,Naji Marshall,,,1.0,,,
-401909332,DAL,1628997,Caleb Martin,Starting,Injury/Illness-RightThumbSplint,1.0,,,1.0
-401909332,DAL,905211175,Zaccharie Risacher,Starting,,1.0,,,1.0
+401909332,DAL,1628997,Caleb Martin,Available,Injury/Illness-RightThumbSplint,1.0,,,
+401909332,DAL,905211175,Zaccharie Risacher,,,1.0,,,
 401909332,DAL,1631204,Marcus Sasser,,,1.0,,,
-401909332,DAL,1629023,P.J. Washington,Starting,,1.0,,,1.0
+401909332,DAL,1629023,P.J. Washington,,,1.0,,,
 401909333,SAS,203084,Harrison Barnes,,,1.0,,,
 401909333,SAS,905105337,Maliq Brown,Out,GLeague-Two-Way,0.0,,,
 401909333,SAS,1642868,Carter Bryant,,,1.0,,,
 401909333,SAS,1642264,Stephon Castle,,,1.0,,,
 401909333,SAS,1630577,Julian Champagnie,,,1.0,,,
-401909333,SAS,1628368,De'Aaron Fox,Available,-,1.0,Fox (shin) is questionable for Friday's game against the Lakers.,,
+401909333,SAS,1628368,De'Aaron Fox,Available,-,1.0,,,
 401909333,SAS,905107968,Ja'Kobi Gillespie,,,1.0,,,
-401909333,SAS,1642844,Dylan Harper,Available,-,1.0,"Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com.",,
+401909333,SAS,1642844,Dylan Harper,Available,-,1.0,,,
 401909333,SAS,202699,Tobias Harris,Out,Injury/Illness-LeftCalfStrain,0.0,"Harris (calf) is likely to be sidelined until early December, per Jeff Garcia of KENS 5 San Antonio.",,
 401909333,SAS,1629640,Keldon Johnson,,,1.0,,,
 401909333,SAS,1642357,David Jones Garcia,Out,GLeague-Two-Way,0.0,,,
@@ -71,36 +71,36 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909333,LAL,1629020,Jarred Vanderbilt,Active,,1.0,,,
 401909333,LAL,1630533,Ziaire Williams,Active,,1.0,,,
 401909334,UTA,904684682,Jonas Aidoo,Out,GLeague-Two-Way,0.0,,,
-401909334,UTA,1642846,Ace Bailey,,,1.0,,,
+401909334,UTA,1642846,Ace Bailey,Starting,,1.0,,,1.0
 401909334,UTA,1628964,Mo Bamba,Out,Injury/Illness-Illness,0.0,Bamba (illness) has been ruled out for Friday's game against the Nuggets.,,
 401909334,UTA,1628396,Tony Bradley,,,1.0,,,
 401909334,UTA,1641723,Kobe Bufkin,Out,GLeague-Two-Way,0.0,,,
 401909334,UTA,1642268,Isaiah Collier,,,1.0,,,
 401909334,UTA,1642271,Kyle Filipowski,,,1.0,,,
-401909334,UTA,1641718,Keyonte George,,,1.0,,,
-401909334,UTA,1630182,Josh Green,,,1.0,,,
+401909334,UTA,1641718,Keyonte George,Starting,,1.0,,,1.0
+401909334,UTA,1630182,Josh Green,Starting,,1.0,,,1.0
 401909334,UTA,1629637,Jaxson Hayes,Available,Injury/Illness-LeftKneeStrain,1.0,,,
 401909334,UTA,904433618,Harrison Ingram,Out,GLeague-Two-Way,0.0,,,
 401909334,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
 401909334,UTA,1628374,Lauri Markkanen,Out,Injury/Illness-RightHandFracture,0.0,"Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",,
 401909334,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
-401909334,UTA,203994,Jusuf Nurkic,Available,,1.0,,,
+401909334,UTA,203994,Jusuf Nurkic,Starting,,1.0,,,1.0
 401909334,UTA,1629006,Josh Okogie,,,1.0,,,
-401909334,UTA,905041955,Darryn Peterson,,,1.0,,,
+401909334,UTA,905041955,Darryn Peterson,Starting,,1.0,,,1.0
 401909334,UTA,1641729,Brice Sensabaugh,,,1.0,,,
 401909334,DEN,1628963,Marvin Bagley III,Active,,1.0,,,
-401909334,DEN,1631128,Christian Braun,Active,,1.0,,,
+401909334,DEN,1631128,Christian Braun,Starting,,1.0,,,1.0
 401909334,DEN,904698719,Trevon Brazile,Active,,1.0,,,
 401909334,DEN,201942,DeMar DeRozan,Active,,1.0,,,
 401909334,DEN,904065813,Alpha Diallo,Active,,1.0,,,
-401909334,DEN,203932,Aaron Gordon,Active,,1.0,,,
+401909334,DEN,203932,Aaron Gordon,Starting,,1.0,,,1.0
 401909334,DEN,1641747,DaRon Holmes II,Out,GLeague-OnAssignment,0.0,,,
 401909334,DEN,904565698,Bryce Hopkins,Out,GLeague-Two-Way,0.0,,,
-401909334,DEN,1629661,Cameron Johnson,Active,,1.0,,,
-401909334,DEN,203999,Nikola Jokic,Active,,1.0,,,
+401909334,DEN,1629661,Cameron Johnson,Starting,,1.0,,,1.0
+401909334,DEN,203999,Nikola Jokic,Starting,,1.0,,,1.0
 401909334,DEN,904592427,Spencer Jones,Active,,1.0,,,
 401909334,DEN,1626145,Tyus Jones,Active,,1.0,,,
-401909334,DEN,1627750,Jamal Murray,Active,,1.0,,,
+401909334,DEN,1627750,Jamal Murray,Starting,,1.0,,,1.0
 401909334,DEN,904433629,Ryan Nembhard,Active,,1.0,,,
 401909334,DEN,1630192,Zeke Nnaji,Active,,1.0,,,
 401909334,DEN,1631124,Julian Strawther,Active,,1.0,,,
@@ -109,12 +109,12 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909335,LAC,1642353,Cam Christie,Out,GLeague-Two-Way,0.0,,,
 401909335,LAC,1641711,Gradey Dick,,,1.0,,,
 401909335,LAC,1627739,Kris Dunn,,,1.0,,,
-401909335,LAC,1629636,Darius Garland,,,1.0,,,
-401909335,LAC,1629060,Rui Hachimura,,,1.0,,,
-401909335,LAC,1627742,Brandon Ingram,,,1.0,,,
+401909335,LAC,1629636,Darius Garland,Starting,,1.0,,,1.0
+401909335,LAC,1629060,Rui Hachimura,Starting,,1.0,,,1.0
+401909335,LAC,1627742,Brandon Ingram,Starting,,1.0,,,1.0
 401909335,LAC,1630543,Isaiah Jackson,,,1.0,,,
-401909335,LAC,1627884,Derrick Jones Jr.,,,1.0,,,
-401909335,LAC,201572,Brook Lopez,,,1.0,,,
+401909335,LAC,1627884,Derrick Jones Jr.,Starting,,1.0,,,1.0
+401909335,LAC,201572,Brook Lopez,Starting,,1.0,,,1.0
 401909335,LAC,905105832,Nick Martinelli,Available,GLeague-Two-Way,1.0,,,
 401909335,LAC,1641757,Baba Miller,,,1.0,,,
 401909335,LAC,905108024,Yanic Konan Niederhauser,,,1.0,,,
@@ -125,22 +125,22 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909335,LAC,1631104,Blake Wesley,,,1.0,,,
 401909335,NOP,1630180,Saddiq Bey,,,1.0,,,
 401909335,NOP,904712862,Malik Dia,Out,GLeague-Two-Way,0.0,,,
-401909335,NOP,1642847,Jeremiah Fears,,,1.0,,,
+401909335,NOP,1642847,Jeremiah Fears,Starting,,1.0,,,1.0
 401909335,NOP,905170947,AJ Johnson,,,1.0,,,
-401909335,NOP,1630529,Herbert Jones,,,1.0,,,
+401909335,NOP,1630529,Herbert Jones,Starting,,1.0,,,1.0
 401909335,NOP,201599,DeAndre Jordan,,,1.0,,,
 401909335,NOP,1631097,Bennedict Mathurin,Out,Injury/Illness-LeftPlantarFasciitis,0.0,Mathurin (foot) is out for Friday's game against the Clippers.,,
 401909335,NOP,1631255,Karlo Matkovic,,,1.0,,,
 401909335,NOP,1631121,Bryce McGowens,,,1.0,,,
-401909335,NOP,1642274,Yves Missi,,,1.0,,,
-401909335,NOP,1630530,Trey Murphy III,,,1.0,,,
+401909335,NOP,1642274,Yves Missi,Starting,,1.0,,,1.0
+401909335,NOP,1630530,Trey Murphy III,Starting,,1.0,,,1.0
 401909335,NOP,1627749,Dejounte Murray,Out,Injury/Illness-LeftAnkleSprain,0.0,Murray (ankle) is out for Friday's game against Memphis.,,
 401909335,NOP,904703115,Jaron Pierre Jr.,Out,GLeague-Two-Way,0.0,,,
 401909335,NOP,1629673,Jordan Poole,,,1.0,,,
 401909335,NOP,1642852,Derik Queen,,,1.0,,,
 401909335,NOP,904683742,Julian Reese,Out,GLeague-Two-Way,0.0,"The Pelicans transferred Reese from the G League's Laketown Squadron, and he will be available for New Orleans' game against the Warriors on Monday.",,
 401909335,NOP,1630570,Trendon Watford,Available,Injury/Illness-RightAnkleSprain,1.0,,,
-401909335,NOP,1629627,Zion Williamson,,,1.0,,,
+401909335,NOP,1629627,Zion Williamson,Starting,,1.0,,,1.0
 401909336,POR,1630166,Deni Avdija,Starting,,1.0,,,1.0
 401909336,POR,1641739,Toumani Camara,Starting,,1.0,,,1.0
 401909336,POR,904592435,Branden Carlson,,,1.0,,,
