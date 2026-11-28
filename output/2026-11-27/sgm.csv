@@ -23,18 +23,18 @@ MEM @ MIN,Jaden McDaniels 4+ reb + Cam Spencer 1+ 3pm,2,0.6919,0.5912,1.69,1.78,
 MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 5+ pa + Jaylen Wells 10+ pr,3,0.6722,0.5223,1.91,2.01,1.67,-0.1273,1.008,1.65-1.85
 MEM @ MIN,Rudy Gobert 8+ reb + Jaden McDaniels 4+ reb + Ayo Dosunmu 15+ pr,3,0.6883,0.5273,1.9,1.99,1.65,-0.1288,1.003,1.65-1.85
 MEM @ MIN,Rudy Gobert 8+ reb + Jaden McDaniels 4+ reb + Ayo Dosunmu 20+ pra,3,0.6707,0.514,1.95,2.04,1.69,-0.1292,1.002,1.65-1.85
-DAL @ PHX,Caleb Martin ra under 7.5 + Devin Booker 4+ ast,2,0.6382,0.441,2.27,2.38,2.18,-0.037,1.001,2.10-2.50
 DAL @ PHX,Caleb Martin 3pm under 1.5 + Jalen Green 1+ 3pm,2,0.7265,0.4996,2.0,2.1,1.93,-0.037,1.001,1.85-2.10
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Devin Booker 4+ ast,2,0.7196,0.4912,2.04,2.14,1.96,-0.0384,0.998,1.85-2.10
+DAL @ PHX,Caleb Martin ra under 7.5 + Devin Booker 4+ ast,2,0.6382,0.4414,2.27,2.38,2.18,-0.0372,1.001,2.10-2.50
+DAL @ PHX,Caleb Martin 3pm under 1.5 + Devin Booker 4+ ast,2,0.7196,0.4917,2.03,2.14,1.96,-0.0386,0.998,1.85-2.10
 DAL @ PHX,Caleb Martin ra under 7.5 + Jalen Green 1+ 3pm,2,0.6414,0.4465,2.24,2.35,2.15,-0.0399,1.0,2.10-2.50
-DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 4+ reb,2,0.6976,0.4842,2.07,2.17,1.98,-0.042,0.998,1.85-2.10
+DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 4+ reb,2,0.6976,0.4855,2.06,2.16,1.97,-0.0425,0.998,1.85-2.10
 DAL @ PHX,Caleb Martin 3pm under 1.5 + Devin Booker 1+ 3pm,2,0.7361,0.5178,1.93,2.03,1.85,-0.0435,1.0,1.65-1.85
-DAL @ PHX,Caleb Martin ra under 7.5 + P.J. Washington 4+ reb,2,0.6156,0.4325,2.31,2.43,2.21,-0.0453,0.996,2.10-2.50
-DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 10+ pr,2,0.7808,0.5542,1.8,1.89,1.72,-0.0461,0.999,1.65-1.85
-DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 10+ pra,2,0.7986,0.5675,1.76,1.85,1.68,-0.0462,0.999,1.65-1.85
-DAL @ PHX,Dillon Brooks 10+ pts + Jalen Green 15+ pr,2,0.682,0.6019,1.66,1.74,1.5,-0.0954,1.006,1.50-1.65
-DAL @ PHX,P.J. Washington 4+ reb + Jalen Green 15+ pr,2,0.6679,0.5831,1.72,1.8,1.55,-0.0973,1.002,1.50-1.65
-DAL @ PHX,Jalen Green 1+ 3pm + Dillon Brooks 10+ pts + Devin Booker 1+ 3pm,3,0.6606,0.5295,1.89,1.98,1.63,-0.1379,1.003,1.50-1.65
+DAL @ PHX,Caleb Martin 3pm under 1.5 + Dillon Brooks 10+ pr,2,0.7931,0.562,1.78,1.87,1.7,-0.045,1.0,1.65-1.85
+DAL @ PHX,Caleb Martin 3pm under 1.5 + Dillon Brooks 10+ pa,2,0.7665,0.5423,1.84,1.94,1.76,-0.0455,0.999,1.65-1.85
+DAL @ PHX,Caleb Martin ra under 7.5 + P.J. Washington 4+ reb,2,0.6156,0.4337,2.31,2.42,2.2,-0.0458,0.996,2.10-2.50
+DAL @ PHX,Devin Booker 4+ ast + Jalen Green 15+ pr,2,0.6914,0.5945,1.68,1.77,1.53,-0.091,1.005,1.50-1.65
+DAL @ PHX,P.J. Washington 4+ reb + Jalen Green 15+ pr,2,0.6679,0.5849,1.71,1.8,1.54,-0.0979,1.002,1.50-1.65
+DAL @ PHX,Devin Booker 4+ ast + Jalen Green 1+ 3pm + Dillon Brooks 10+ pa,3,0.699,0.5488,1.82,1.91,1.58,-0.1334,1.003,1.50-1.65
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + SAS win,2,0.5072,0.412,2.43,2.55,2.44,0.0061,1.021,2.10-2.50
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + SAS win + Devin Vassell 10+ pra,3,0.4856,0.3817,2.62,2.75,2.5,-0.0469,1.028,2.10-2.50
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.7149,0.5088,1.97,2.06,1.87,-0.0479,0.999,1.85-2.10
@@ -65,12 +65,12 @@ NOP @ LAC,Yves Missi reb under 7.5 + Derrick Jones Jr. 5+ pa,2,0.6211,0.4261,2.3
 NOP @ LAC,Yves Missi ra under 9.5 + Derrick Jones Jr. 5+ pa,2,0.663,0.4818,2.08,2.18,1.96,-0.0539,0.996,1.85-2.10
 NOP @ LAC,Yves Missi ra under 9.5 + Derik Queen 10+ pr,2,0.6469,0.4755,2.1,2.21,1.99,-0.054,0.999,1.85-2.10
 NOP @ LAC,Yves Missi ra under 9.5 + Derik Queen 10+ pra,2,0.6841,0.5076,1.97,2.07,1.86,-0.0542,1.001,1.85-2.10
+NOP @ LAC,Yves Missi ra under 9.5 + Darius Garland 1+ 3pm,2,0.6817,0.5122,1.95,2.05,1.84,-0.0582,0.999,1.65-1.85
 NOP @ LAC,Herbert Jones 3pm under 1.5 + Derrick Jones Jr. 5+ pa,2,0.6964,0.529,1.89,1.98,1.77,-0.066,0.999,1.65-1.85
-NOP @ LAC,Herbert Jones 3pm under 1.5 + Max Strus 5+ pa,2,0.7028,0.5423,1.84,1.94,1.72,-0.0697,0.999,1.65-1.85
 NOP @ LAC,Herbert Jones 3pm under 1.5 + Saddiq Bey 1+ 3pm,2,0.6896,0.5341,1.87,1.97,1.74,-0.0702,0.999,1.65-1.85
 NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6925,0.598,1.67,1.76,1.52,-0.093,1.003,1.50-1.65
 NOP @ LAC,Brook Lopez 10+ pr + Jeremiah Fears 1+ 3pm,2,0.6518,0.5926,1.69,1.77,1.5,-0.1085,0.999,1.50-1.65
-NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Max Strus 5+ pa,3,0.7157,0.572,1.75,1.84,1.51,-0.1354,1.005,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 10+ pr,3,0.6889,0.5483,1.82,1.91,1.58,-0.1359,1.004,1.50-1.65
 GSW @ POR,GSW +7.5 + Draymond Green 5+ pa,2,0.59,0.456,2.19,2.3,2.09,-0.0484,1.011,1.85-2.10
 GSW @ POR,GSW +7.5 + Yaxel Lendeborg 15+ pr,2,0.5825,0.4518,2.21,2.32,2.1,-0.0499,1.01,2.10-2.50
 GSW @ POR,Jrue Holiday 6+ ast + Sidy Cissoko 10+ pra,2,0.6037,0.4462,2.24,2.35,2.12,-0.0521,1.002,2.10-2.50
