@@ -1,6 +1,6 @@
 # NBA model · Fri 27 Nov 2026 (US date)
 
-Updated **Sat 28 Nov, 11:08 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sat 28 Nov, 11:13 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-27/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -25,7 +25,6 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Deni Avdija PRA over 59.5 (60+) | GSW @ POR | draftkings | 21.00 | 18.73 | 10.66 | 9.4% | 4.5% | 5.3% | +12.2% | +97.0% | 0.1% |
 | Scottie Barnes AST over 11.5 (12+) | BKN @ TOR | draftkings | 24.00 | 21.41 | 12.21 | 8.2% | 3.9% | 4.7% | +12.1% | +96.6% | 0.1% |
 | Jrue Holiday AST over 11.5 (12+) | GSW @ POR | draftkings | 24.00 | 21.41 | 12.23 | 8.2% | 3.9% | 4.7% | +12.1% | +96.2% | 0.1% |
-| Devin Booker AST over 9.5 (10+) | DAL @ PHX | draftkings | 12.00 | 10.78 | 6.24 | 16.0% | 7.8% | 9.3% | +11.4% | +92.4% | 0.3% |
 | Deni Avdija AST over 9.5 (10+) | GSW @ POR | draftkings | 6.67 | 5.99 | 3.47 | 28.8% | 14.0% | 16.7% | +11.3% | +92.0% | 0.5% |
 | Scottie Barnes AST over 9.5 (10+) | BKN @ TOR | draftkings | 9.50 | 8.59 | 5.05 | 19.8% | 9.8% | 11.6% | +10.6% | +88.1% | 0.3% |
 | Rudy Gobert PA over 19.5 (20+) | MEM @ MIN | draftkings | 16.40 | 14.95 | 8.95 | 11.2% | 5.7% | 6.7% | +9.7% | +83.2% | 0.2% |
@@ -34,7 +33,6 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Rudy Gobert AST over 3.5 (4+) | MEM @ MIN | draftkings | 9.40 | 8.70 | 5.40 | 18.5% | 9.9% | 11.5% | +8.1% | +74.2% | 0.2% |
 | Devin Booker PRA over 49.5 (50+) | DAL @ PHX | draftkings | 13.00 | 12.08 | 7.56 | 13.2% | 7.2% | 8.3% | +7.7% | +72.0% | 0.2% |
 | Ayo Dosunmu PTS over 34.5 (35+) | MEM @ MIN | draftkings | 18.20 | 16.92 | 10.63 | 9.4% | 5.1% | 5.9% | +7.5% | +71.2% | 0.1% |
-| Devin Booker AST over 11.5 (12+) | DAL @ PHX | draftkings | 29.00 | 26.95 | 16.95 | 5.9% | 3.2% | 3.7% | +7.5% | +71.1% | 0.1% |
 | Tyrese Maxey PTS over 39.5 (40+) | PHI @ IND | draftkings | 16.20 | 15.13 | 9.58 | 10.4% | 5.8% | 6.6% | +7.1% | +69.0% | 0.1% |
 | Sidy Cissoko AST over 5.5 (6+) | GSW @ POR | draftkings | 18.80 | 17.61 | 11.25 | 8.9% | 5.0% | 5.7% | +6.8% | +67.1% | 0.1% |
 | Karl-Anthony Towns AST over 7.5 (8+) | MIA @ NYK | draftkings | 13.20 | 12.39 | 7.96 | 12.6% | 7.1% | 8.1% | +6.6% | +65.8% | 0.1% |
@@ -43,6 +41,8 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Rudy Gobert PA over 14.5 (15+) | MEM @ MIN | draftkings | 4.77 | 4.50 | 2.93 | 34.1% | 19.6% | 22.2% | +6.0% | +62.8% | 0.4% |
 | Rudy Gobert REB over 17.5 (18+) | MEM @ MIN | draftkings | 15.80 | 14.93 | 9.73 | 10.3% | 5.9% | 6.7% | +5.9% | +62.4% | 0.1% |
 | Rudy Gobert REB over 15.5 (16+) | MEM @ MIN | draftkings | 8.20 | 7.76 | 5.10 | 19.6% | 11.4% | 12.9% | +5.7% | +60.9% | 0.2% |
+| Jalen Brunson PR over 39.5 (40+) | MIA @ NYK | draftkings | 5.54 | 5.26 | 3.48 | 28.8% | 16.9% | 19.0% | +5.4% | +59.3% | 0.3% |
+| Tyrese Maxey PR over 44.5 (45+) | PHI @ IND | draftkings | 16.60 | 15.77 | 10.48 | 9.5% | 5.6% | 6.3% | +5.2% | +58.4% | 0.1% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
@@ -59,7 +59,7 @@ Game lines below assume every questionable player sits; each game's section show
 | Game | Tip (Syd) | Score | Away win | Fair H2H a/h | Fair line | Fair total | vs market |
 |---|--:|--:|--:|--:|--:|--:|--:|
 | MIA @ NYK | Sat 28 Nov 11:00 | 111.2–115.5 | MIA 38% | 2.60 / 1.62 | NYK -4.5 | 226.5 | NYK -2.5 covers 56%; o221.5 61% |
-| MIL @ DET | Sat 28 Nov 11:30 | 103.3–113.7 | MIL 23% | 4.33 / 1.30 | DET -10.5 | 216.5 | DET -9.5 covers 53%; o219.5 44% |
+| MIL @ DET | Sat 28 Nov 11:30 | 103.3–113.7 | MIL 23% | 4.33 / 1.30 | DET -10.5 | 216.5 | DET -9.5 covers 53%; o218.5 46% |
 | PHI @ IND | Sat 28 Nov 11:30 | 120.1–117.3 | PHI 58% | 1.72 / 2.38 | IND +3.5 | 237.5 | IND +4.5 covers 54%; o228.5 68% |
 | BKN @ TOR | Sat 28 Nov 11:30 | 105.8–114.7 | BKN 27% | 3.76 / 1.36 | TOR -8.5 | 220.5 | TOR -9.5 covers 48%; o218.5 54% |
 | ATL @ BOS | Sat 28 Nov 12:00 | 108.2–116.6 | ATL 28% | 3.58 / 1.39 | BOS -8.5 | 224.5 | BOS -9.5 covers 47%; o224.5 51% |
@@ -447,9 +447,9 @@ Out: Mark Williams (PHX), Sergio de Larrea (DAL), Dereck Lively II (DAL)
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Devin Booker | 99% | 36.1<br><sub>37,33,38,42,36</sub> | 26.5<br><sub>20,29,23,22,25</sub> | 25.5 · –<br><sub>o 48% · u 52%</sub> | 3.6<br><sub>4,2,2,5,0</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 6.6<br><sub>8,6,3,8,5</sub> | 5.5<br><sub>o 51% · u 49%</sub> | 2.2<br><sub>1,2,1,2,2</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 0.3 | 3.0 | 36.8 |
-| Dillon Brooks | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 17.1<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.7 |
-| Jalen Green | 98% | 30.1<br><sub>27,30,25,37,35</sub> | 17.0<br><sub>16,18,14,25,16</sub> | 15.5 · –<br><sub>o 49% · u 51%</sub> | 4.3<br><sub>5,7,4,3,4</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>3,7,3,0,5</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 2.1<br><sub>2,4,1,3,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.1 | 0.3 | 2.4 | 24.7 |
+| Devin Booker | 99% | 36.1<br><sub>37,33,38,42,36</sub> | 26.5<br><sub>20,29,23,22,25</sub> | 25.5 · –<br><sub>o 48% · u 52%</sub> | 3.6<br><sub>4,2,2,5,0</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 6.6<br><sub>8,6,3,8,5</sub> | 5.5<br><sub>o 52% · u 48%</sub> | 2.2<br><sub>1,2,1,2,2</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 0.3 | 3.0 | 36.8 |
+| Dillon Brooks | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 17.1<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 1.5<br><sub>o 62% · u 38%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.7 |
+| Jalen Green | 98% | 30.1<br><sub>27,30,25,37,35</sub> | 17.0<br><sub>16,18,14,25,16</sub> | 15.5 · –<br><sub>o 50% · u 50%</sub> | 4.3<br><sub>5,7,4,3,4</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>3,7,3,0,5</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 2.1<br><sub>2,4,1,3,0</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 1.1 | 0.3 | 2.4 | 24.7 |
 | Miles Bridges | 99% | 28.6<br><sub>29,29,25,35,25</sub> | 13.7<br><sub>16,13,18,14,2</sub> | 14.5 · –<br><sub>o 48% · u 52%</sub> | 6.6<br><sub>8,6,9,11,8</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 3.2<br><sub>2,5,4,5,4</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.6<br><sub>2,1,1,2,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.8 | 0.5 | 1.1 | 23.5 |
 | Collin Gillespie | 99% | 24.0<br><sub>26,17,27,30,22</sub> | 10.1<br><sub>10,9,16,18,5</sub> | 9.5 · –<br><sub>o 51% · u 49%</sub> | 3.2<br><sub>3,3,4,3,4</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 3.6<br><sub>3,1,5,3,2</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.8<br><sub>2,2,3,3,0</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.1 | 0.1 | 1.2 | 17.0 |
 | Oso Ighodaro | 99% | 23.2<br><sub>33,21,27,30,20</sub> | 6.6<br><sub>8,7,3,7,13</sub> | 6.5 · –<br><sub>o 49% · u 51%</sub> | 5.7<br><sub>11,4,7,4,2</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 2.8<br><sub>3,2,3,1,2</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.7 | 0.9 | 1.2 | 15.1 |
@@ -484,9 +484,9 @@ Out: Mark Williams (PHX), Sergio de Larrea (DAL), Dereck Lively II (DAL)
 | Marcus Sasser (DAL) | 48% | 8.1<br><sub>18,4,-,-,-</sub> | 2.8<br><sub>5,0,-,-,-</sub> |  | 0.8<br><sub>1,2,-,-,-</sub> |  | 1.0<br><sub>2,1,-,-,-</sub> |  | 0.3<br><sub>1,0,-,-,-</sub> |  | 0.3 | 0.1 | 0.4 | 4.5 |
 | Moussa Cisse (DAL) | 58% | 6.3<br><sub>4,4,-,-,2</sub> | 2.3<br><sub>1,0,-,-,0</sub> |  | 2.4<br><sub>1,1,-,-,0</sub> |  | 0.1<br><sub>0,0,-,-,0</sub> |  | 0.0<br><sub>0,0,-,-,0</sub> |  | 0.2 | 0.4 | 0.4 | 4.8 |
 | Jett Howard (DAL) | 52% | 6.0<br><sub>7,-,-,-,-</sub> | 2.5<br><sub>0,-,-,-,-</sub> |  | 0.7<br><sub>0,-,-,-,-</sub> |  | 0.5<br><sub>1,-,-,-,-</sub> |  | 0.2<br><sub>0,-,-,-,-</sub> |  | 0.2 | 0.1 | 0.3 | 3.7 |
-| Devin Booker (PHX) | 99% | 36.1<br><sub>37,33,38,42,36</sub> | 26.3<br><sub>20,29,23,22,25</sub> | 25.5 · –<br><sub>o 48% · u 52%</sub> | 3.6<br><sub>4,2,2,5,0</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 6.6<br><sub>8,6,3,8,5</sub> | 5.5<br><sub>o 51% · u 49%</sub> | 2.2<br><sub>1,2,1,2,2</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 0.3 | 3.0 | 36.5 |
-| Dillon Brooks (PHX) | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 16.9<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 1.5<br><sub>o 63% · u 37%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.5 |
-| Jalen Green (PHX) | 98% | 30.0<br><sub>27,30,25,37,35</sub> | 17.1<br><sub>16,18,14,25,16</sub> | 15.5 · –<br><sub>o 49% · u 51%</sub> | 4.2<br><sub>5,7,4,3,4</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>3,7,3,0,5</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 2.1<br><sub>2,4,1,3,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 1.0 | 0.3 | 2.4 | 24.7 |
+| Devin Booker (PHX) | 99% | 36.1<br><sub>37,33,38,42,36</sub> | 26.3<br><sub>20,29,23,22,25</sub> | 25.5 · –<br><sub>o 48% · u 52%</sub> | 3.6<br><sub>4,2,2,5,0</sub> | 3.5<br><sub>o 43% · u 57%</sub> | 6.6<br><sub>8,6,3,8,5</sub> | 5.5<br><sub>o 52% · u 48%</sub> | 2.2<br><sub>1,2,1,2,2</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 1.0 | 0.3 | 3.0 | 36.5 |
+| Dillon Brooks (PHX) | 99% | 30.3<br><sub>27,31,25,34,31</sub> | 16.9<br><sub>15,29,18,16,12</sub> | 15.5 · –<br><sub>o 48% · u 52%</sub> | 4.1<br><sub>4,3,3,5,6</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 2.5<br><sub>4,5,3,7,4</sub> | 1.5<br><sub>o 62% · u 38%</sub> | 2.1<br><sub>3,5,2,2,0</sub> | 1.5<br><sub>o 58% · u 42%</sub> | 0.8 | 0.2 | 1.5 | 23.5 |
+| Jalen Green (PHX) | 98% | 30.0<br><sub>27,30,25,37,35</sub> | 17.1<br><sub>16,18,14,25,16</sub> | 15.5 · –<br><sub>o 50% · u 50%</sub> | 4.2<br><sub>5,7,4,3,4</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 3.4<br><sub>3,7,3,0,5</sub> | 3.5<br><sub>o 42% · u 58%</sub> | 2.1<br><sub>2,4,1,3,0</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 1.0 | 0.3 | 2.4 | 24.7 |
 | Miles Bridges (PHX) | 99% | 28.5<br><sub>29,29,25,35,25</sub> | 13.7<br><sub>16,13,18,14,2</sub> | 14.5 · –<br><sub>o 48% · u 52%</sub> | 6.6<br><sub>8,6,9,11,8</sub> | 6.5<br><sub>o 49% · u 51%</sub> | 3.2<br><sub>2,5,4,5,4</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 1.5<br><sub>2,1,1,2,0</sub> | 1.5<br><sub>o 51% · u 49%</sub> | 0.8 | 0.5 | 1.1 | 23.5 |
 | Collin Gillespie (PHX) | 99% | 24.1<br><sub>26,17,27,30,22</sub> | 10.0<br><sub>10,9,16,18,5</sub> | 9.5 · –<br><sub>o 51% · u 49%</sub> | 3.2<br><sub>3,3,4,3,4</sub> | 2.5<br><sub>o 59% · u 41%</sub> | 3.7<br><sub>3,1,5,3,2</sub> | 3.5<br><sub>o 49% · u 51%</sub> | 1.8<br><sub>2,2,3,3,0</sub> | 1.5<br><sub>o 60% · u 40%</sub> | 1.1 | 0.2 | 1.2 | 17.0 |
 | Oso Ighodaro (PHX) | 99% | 23.2<br><sub>33,21,27,30,20</sub> | 6.6<br><sub>8,7,3,7,13</sub> | 6.5 · –<br><sub>o 49% · u 51%</sub> | 5.7<br><sub>11,4,7,4,2</sub> | 5.5<br><sub>o 54% · u 46%</sub> | 2.8<br><sub>3,2,3,1,2</sub> | 2.5<br><sub>o 56% · u 44%</sub> | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.7 | 0.9 | 1.2 | 15.0 |
