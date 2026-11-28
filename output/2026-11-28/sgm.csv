@@ -13,11 +13,10 @@ BKN @ CHA,Naz Reid pr under 27.5 + Sion James 5+ pr,2,0.5779,0.4333,2.31,2.42,2.
 BKN @ CHA,Naz Reid pra under 30.5 + Sion James 5+ pr,2,0.5786,0.4362,2.29,2.41,2.13,-0.0692,0.994,2.10-2.50
 BKN @ CHA,Naz Reid pr under 27.5 + Julius Randle 15+ pa,2,0.5745,0.4472,2.24,2.35,2.08,-0.0701,1.0,1.85-2.10
 BKN @ CHA,Day'Ron Sharpe 9+ pts + Julius Randle 15+ pts,2,0.4562,0.3841,2.6,2.73,2.42,-0.0702,1.017,2.10-2.50
-BKN @ CHA,Naz Reid pr under 27.5 + Day'Ron Sharpe 10+ pra,2,0.6031,0.4659,2.15,2.25,1.99,-0.071,0.997,1.85-2.10
-BKN @ CHA,Naz Reid pra under 30.5 + Day'Ron Sharpe 10+ pra,2,0.6049,0.4699,2.13,2.23,1.98,-0.0717,0.998,1.85-2.10
-BKN @ CHA,Moussa Diabate reb under 11.5 + Day'Ron Sharpe 10+ pra,2,0.6295,0.5182,1.93,2.03,1.77,-0.0844,1.0,1.65-1.85
-BKN @ CHA,Moussa Diabate pra under 24.5 + Day'Ron Sharpe 10+ pra,2,0.5981,0.4996,2.0,2.1,1.83,-0.088,1.0,1.65-1.85
-BKN @ CHA,Naz Reid reb under 8.5 + Day'Ron Sharpe 10+ pra,2,0.6113,0.5096,1.96,2.06,1.79,-0.0883,0.999,1.65-1.85
+BKN @ CHA,Naz Reid pra under 30.5 + Julius Randle 15+ pa,2,0.5752,0.4501,2.22,2.33,2.06,-0.0726,0.999,1.85-2.10
+BKN @ CHA,Coby White pr under 20.5 + Day'Ron Sharpe 10+ pr,2,0.5597,0.4428,2.26,2.37,2.09,-0.0734,1.002,1.85-2.10
+BKN @ CHA,Moussa Diabate reb under 11.5 + Julius Randle 15+ pa,2,0.5958,0.4942,2.02,2.12,1.84,-0.0895,0.997,1.65-1.85
+BKN @ CHA,Brandon Miller ra under 8.5 + Julius Randle 15+ pa,2,0.5751,0.4934,2.03,2.13,1.84,-0.0938,0.998,1.65-1.85
 IND @ CHI,Josh Giddey 23+ pa + Nic Claxton 10+ pr,2,0.5265,0.4143,2.41,2.53,2.26,-0.062,1.007,2.10-2.50
 IND @ CHI,Josh Giddey 23+ pa + Matas Buzelis 15+ pr,2,0.5482,0.4504,2.22,2.33,2.07,-0.0673,1.012,1.85-2.10
 IND @ CHI,Josh Giddey 23+ pa + Matas Buzelis 4+ reb,2,0.5049,0.4023,2.49,2.61,2.32,-0.0674,1.004,2.10-2.50
@@ -33,15 +32,15 @@ IND @ CHI,Josh Giddey 1+ 3pm + Tre Jones 10+ pr,2,0.6618,0.595,1.68,1.76,1.51,-0
 OKC @ MIL,Tyler Herro pa under 25.5 + OKC win,2,0.4748,0.445,2.25,2.36,2.22,-0.0117,1.05,2.10-2.50
 OKC @ MIL,Tyler Herro pts under 21.5 + OKC win,2,0.4903,0.4557,2.19,2.3,2.16,-0.0157,1.043,2.10-2.50
 OKC @ MIL,Tyler Herro pra under 29.5 + OKC win,2,0.4597,0.4399,2.27,2.39,2.23,-0.0189,1.048,2.10-2.50
+OKC @ MIL,Ryan Rollins pr under 15.5 + OKC win,2,0.4782,0.4593,2.18,2.29,2.09,-0.0393,1.027,1.85-2.10
 OKC @ MIL,Ryan Rollins ra under 8.5 + OKC win,2,0.5129,0.4663,2.14,2.25,2.05,-0.0436,1.007,1.85-2.10
 OKC @ MIL,Ryan Rollins ra under 8.5 + Kenrich Williams 5+ pa,2,0.6763,0.5085,1.97,2.06,1.85,-0.0602,1.002,1.65-1.85
-OKC @ MIL,Ryan Rollins ra under 8.5 + Isaiah Hartenstein 15+ pr,2,0.6254,0.4694,2.13,2.24,2.0,-0.0628,0.999,1.85-2.10
 OKC @ MIL,Ryan Rollins ra under 8.5 + Jared McCain 10+ pr,2,0.6634,0.4989,2.0,2.1,1.88,-0.0638,0.998,1.85-2.10
-OKC @ MIL,Jared McCain 15+ pra + Isaiah Hartenstein 10+ pa,2,0.6998,0.5944,1.68,1.77,1.53,-0.0879,1.005,1.50-1.65
-OKC @ MIL,Jared McCain 15+ pra + Isaiah Hartenstein 20+ pra,2,0.696,0.5911,1.69,1.78,1.54,-0.0905,1.002,1.50-1.65
-OKC @ MIL,Jared McCain 15+ pra + Kenrich Williams 10+ pr,2,0.6951,0.5967,1.68,1.76,1.52,-0.091,1.005,1.50-1.65
-OKC @ MIL,OKC win + Jared McCain 15+ pra + Isaiah Hartenstein 10+ pa,3,0.5182,0.499,2.0,2.1,1.81,-0.0977,1.035,1.65-1.85
-OKC @ MIL,OKC win + Jared McCain 15+ pra + Kenrich Williams 10+ pr,3,0.5131,0.4995,2.0,2.1,1.79,-0.1035,1.031,1.65-1.85
+OKC @ MIL,Jared McCain 15+ pra + Isaiah Hartenstein 10+ pa,2,0.6998,0.6023,1.66,1.74,1.51,-0.0908,1.005,1.50-1.65
+OKC @ MIL,Jared McCain 15+ pra + Kenrich Williams 10+ pr,2,0.6951,0.5975,1.67,1.76,1.52,-0.0913,1.005,1.50-1.65
+OKC @ MIL,Jared McCain 15+ pra + Kenrich Williams 1+ 3pm,2,0.6726,0.5784,1.73,1.82,1.57,-0.0927,1.003,1.50-1.65
+OKC @ MIL,OKC win + Jared McCain 15+ pra + Isaiah Hartenstein 10+ pa,3,0.5182,0.5057,1.98,2.08,1.78,-0.1006,1.035,1.65-1.85
+OKC @ MIL,OKC win + Jared McCain 15+ pra + Kenrich Williams 10+ pr,3,0.5131,0.5001,2.0,2.1,1.79,-0.1038,1.031,1.65-1.85
 PHI @ HOU,Kevin Durant 26+ pa + HOU win,2,0.4529,0.431,2.32,2.44,2.28,-0.0184,1.045,2.10-2.50
 PHI @ HOU,Kentavious Caldwell-Pope 3pm under 1.5 + HOU win,2,0.4866,0.4214,2.37,2.49,2.32,-0.023,1.024,2.10-2.50
 PHI @ HOU,Kevin Durant 22+ pts + HOU win,2,0.4354,0.4242,2.36,2.48,2.27,-0.038,1.042,2.10-2.50
