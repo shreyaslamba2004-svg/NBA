@@ -1,22 +1,23 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-LAL @ SAS,Walker Kessler pts under 11.5 + Collin Sexton 5+ pr,2,0.5341,0.4211,2.37,2.49,2.33,-0.0184,0.995,2.10-2.50
-LAL @ SAS,Walker Kessler pts under 11.5 + Devin Vassell 1+ 3pm,2,0.5145,0.4176,2.39,2.51,2.35,-0.0198,1.001,2.10-2.50
-LAL @ SAS,Walker Kessler pts under 11.5 + Stephon Castle 4+ ast,2,0.5204,0.4231,2.36,2.48,2.31,-0.0214,0.999,2.10-2.50
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Collin Sexton 5+ pr,2,0.7283,0.5006,2.0,2.1,1.92,-0.0382,0.998,1.85-2.10
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Dylan Harper 15+ pra,2,0.6959,0.4864,2.06,2.16,1.97,-0.0434,0.997,1.85-2.10
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.6983,0.4942,2.02,2.12,1.93,-0.0439,0.999,1.85-2.10
-DEN @ UTA,Jusuf Nurkic 8+ pts + Christian Braun 10+ pa,2,0.6346,0.4365,2.29,2.41,2.36,0.0321,1.004,2.10-2.50
-DEN @ UTA,Jusuf Nurkic 8+ pts + Christian Braun 10+ pr,2,0.6745,0.471,2.12,2.23,2.18,0.0261,1.002,2.10-2.50
-DEN @ UTA,Jusuf Nurkic 8+ pts + Christian Braun 10+ pra,2,0.7018,0.4951,2.02,2.12,2.06,0.0221,1.001,1.85-2.10
-DEN @ UTA,Jusuf Nurkic 8+ pts + Cameron Johnson 10+ pa,2,0.6251,0.4454,2.25,2.36,2.29,0.0218,1.003,2.10-2.50
-DEN @ UTA,Jusuf Nurkic 8+ pts + Cameron Johnson 10+ pra,2,0.6884,0.4917,2.03,2.14,2.07,0.0186,1.0,1.85-2.10
-DEN @ UTA,Jusuf Nurkic 8+ pts + Jamal Murray 1+ 3pm,2,0.6828,0.4923,2.03,2.13,2.06,0.0155,0.999,1.85-2.10
+LAL @ SAS,Walker Kessler pts under 11.5 + Jake LaRavia 5+ pr,2,0.5524,0.4314,2.32,2.43,2.29,-0.0128,0.998,2.10-2.50
+LAL @ SAS,Walker Kessler pts under 11.5 + Collin Sexton 5+ pr,2,0.5368,0.4246,2.36,2.47,2.32,-0.0166,0.997,2.10-2.50
+LAL @ SAS,Walker Kessler pts under 11.5 + Devin Vassell 1+ 3pm,2,0.5158,0.4172,2.4,2.52,2.35,-0.0207,0.998,2.10-2.50
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.7228,0.5119,1.95,2.05,1.86,-0.0476,0.998,1.85-2.10
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Collin Sexton 5+ pr,2,0.7036,0.5047,1.98,2.08,1.88,-0.0496,0.999,1.85-2.10
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Dylan Harper 15+ pra,2,0.6685,0.4833,2.07,2.17,1.96,-0.0539,0.996,1.85-2.10
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Luka Doncic 4+ reb,2,0.6922,0.511,1.96,2.05,1.84,-0.0577,0.997,1.65-1.85
+DEN @ UTA,Jusuf Nurkic 8+ pts + Christian Braun 10+ pa,2,0.6346,0.4356,2.3,2.41,2.36,0.0263,1.004,2.10-2.50
+DEN @ UTA,Jusuf Nurkic 11+ pa + Brice Sensabaugh 10+ pra,2,0.6479,0.4147,2.41,2.53,2.47,0.025,1.003,2.10-2.50
+DEN @ UTA,Jusuf Nurkic 8+ pts + Christian Braun 10+ pr,2,0.6745,0.4663,2.14,2.25,2.19,0.0224,1.002,2.10-2.50
+DEN @ UTA,Jusuf Nurkic 8+ pts + Brice Sensabaugh 5+ pra,2,0.7014,0.4926,2.03,2.13,2.07,0.0181,1.002,1.85-2.10
+DEN @ UTA,Jusuf Nurkic 8+ pts + Christian Braun 10+ pra,2,0.7018,0.4927,2.03,2.13,2.06,0.0171,1.001,1.85-2.10
+DEN @ UTA,Jusuf Nurkic 18+ pra + Christian Braun 10+ pr,2,0.7394,0.484,2.07,2.17,2.03,-0.0198,1.001,1.85-2.10
 DEN @ UTA,DEN win + Christian Braun 15+ pra,2,0.5674,0.5955,1.68,1.76,1.58,-0.0575,1.026,1.50-1.65
-DEN @ UTA,Jusuf Nurkic 7+ reb + Cameron Johnson 10+ pra,2,0.6931,0.5303,1.89,1.98,1.77,-0.064,1.002,1.65-1.85
-DEN @ UTA,Jusuf Nurkic 7+ reb + Jamal Murray 1+ 3pm,2,0.6877,0.5311,1.88,1.98,1.76,-0.0665,1.002,1.65-1.85
-DEN @ UTA,DEN win + Christian Braun 15+ pra + Cameron Johnson 10+ pa,3,0.5004,0.5007,2.0,2.1,1.82,-0.0909,1.047,1.65-1.85
-DEN @ UTA,DEN win + Christian Braun 15+ pra + Cameron Johnson 10+ pra,3,0.5448,0.5466,1.83,1.92,1.64,-0.1039,1.033,1.50-1.65
-DEN @ UTA,DEN win + Jusuf Nurkic 4+ reb + Christian Braun 10+ pa,3,0.5594,0.5437,1.84,1.93,1.65,-0.1051,1.023,1.50-1.65
+DEN @ UTA,Brice Sensabaugh 10+ pra + Christian Braun 15+ pra,2,0.6933,0.5726,1.75,1.83,1.6,-0.0852,1.001,1.50-1.65
+DEN @ UTA,Jusuf Nurkic 10+ pr + DEN win + Christian Braun 10+ pa,3,0.5556,0.5025,1.99,2.09,1.81,-0.0915,1.02,1.65-1.85
+DEN @ UTA,DEN win + Brice Sensabaugh 10+ pra,2,0.5448,0.5666,1.76,1.85,1.6,-0.0923,0.985,1.50-1.65
+DEN @ UTA,DEN win + Jusuf Nurkic 4+ reb + Christian Braun 15+ pra,3,0.5343,0.5076,1.97,2.07,1.78,-0.0963,1.028,1.65-1.85
+DEN @ UTA,DEN win + Jusuf Nurkic 5+ pa + Christian Braun 15+ pra,3,0.5546,0.5307,1.88,1.98,1.69,-0.1017,1.024,1.65-1.85
 NOP @ LAC,Zion Williamson pts under 22.5 + Kris Dunn 5+ pr,2,0.573,0.4145,2.41,2.53,2.39,-0.0114,0.998,2.10-2.50
 NOP @ LAC,Zion Williamson pts under 22.5 + Brook Lopez 10+ pr,2,0.5732,0.4165,2.4,2.52,2.37,-0.0142,0.996,2.10-2.50
 NOP @ LAC,Brandon Ingram pts under 18.5 + Kris Dunn 5+ pr,2,0.5804,0.4134,2.42,2.54,2.37,-0.0184,0.995,2.10-2.50
