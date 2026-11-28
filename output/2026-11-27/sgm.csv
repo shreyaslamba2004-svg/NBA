@@ -12,23 +12,23 @@ DAL @ PHX,P.J. Washington 10+ pa + Daniel Gafford 15+ pra,2,0.6682,0.5718,1.75,1
 DAL @ PHX,P.J. Washington 15+ pra + Jalen Green 1+ 3pm + Devin Booker 4+ ast,3,0.6395,0.4791,2.09,2.19,1.83,-0.1219,1.005,1.65-1.85
 DAL @ PHX,P.J. Washington 4+ reb + Jalen Green 1+ 3pm + Devin Booker 4+ ast,3,0.6454,0.4867,2.05,2.16,1.8,-0.1252,1.003,1.65-1.85
 LAL @ SAS,Walker Kessler pts under 11.5 + Collin Sexton 5+ pr,2,0.5341,0.4211,2.37,2.49,2.33,-0.0184,0.995,2.10-2.50
-LAL @ SAS,Walker Kessler pts under 11.5 + Devin Vassell 1+ 3pm,2,0.5145,0.415,2.41,2.53,2.37,-0.0184,1.001,2.10-2.50
-LAL @ SAS,Walker Kessler pts under 11.5 + Dylan Harper 15+ pra,2,0.5108,0.4069,2.46,2.58,2.4,-0.0215,0.995,2.10-2.50
+LAL @ SAS,Walker Kessler pts under 11.5 + Devin Vassell 1+ 3pm,2,0.5145,0.4176,2.39,2.51,2.35,-0.0198,1.001,2.10-2.50
+LAL @ SAS,Walker Kessler pts under 11.5 + Stephon Castle 4+ ast,2,0.5204,0.4231,2.36,2.48,2.31,-0.0214,0.999,2.10-2.50
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Collin Sexton 5+ pr,2,0.7283,0.5006,2.0,2.1,1.92,-0.0382,0.998,1.85-2.10
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Dylan Harper 15+ pra,2,0.6959,0.4834,2.07,2.17,1.98,-0.0419,0.997,1.85-2.10
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.6983,0.4911,2.04,2.14,1.95,-0.0425,0.999,1.85-2.10
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Dylan Harper 15+ pra,2,0.6959,0.4864,2.06,2.16,1.97,-0.0434,0.997,1.85-2.10
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.6983,0.4942,2.02,2.12,1.93,-0.0439,0.999,1.85-2.10
 DEN @ UTA,Nikola Jokic 27+ pts + DEN win,2,0.3534,0.4053,2.47,2.59,2.47,0.0015,1.06,2.10-2.50
 DEN @ UTA,Darryn Peterson pts under 17.5 + DEN win,2,0.4245,0.4046,2.47,2.6,2.46,-0.0049,1.054,2.10-2.50
-DEN @ UTA,Cameron Johnson 13+ pts + DEN win,2,0.3871,0.4242,2.36,2.48,2.31,-0.0204,1.052,2.10-2.50
-DEN @ UTA,Brice Sensabaugh 11+ pts + Cameron Johnson 10+ pra,2,0.5792,0.47,2.13,2.23,2.03,-0.0474,1.001,1.85-2.10
-DEN @ UTA,Christian Braun 13+ pts + Cameron Johnson 10+ pra,2,0.5158,0.4528,2.21,2.32,2.07,-0.0642,1.006,1.85-2.10
-DEN @ UTA,DEN win + Christian Braun 15+ pra,2,0.5636,0.5936,1.68,1.77,1.58,-0.0644,1.019,1.50-1.65
-DEN @ UTA,Svi Mykhailiuk 9+ pts + Cameron Johnson 10+ pra,2,0.5905,0.4613,2.17,2.28,2.02,-0.0693,1.001,1.85-2.10
-DEN @ UTA,DEN win + Jamal Murray 2+ 3pm,2,0.5456,0.5998,1.67,1.75,1.54,-0.079,1.013,1.50-1.65
-DEN @ UTA,DEN win + Christian Braun 15+ pra + Cameron Johnson 10+ pa,3,0.5036,0.5015,1.99,2.09,1.81,-0.0915,1.045,1.65-1.85
-DEN @ UTA,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pa,3,0.5281,0.5325,1.88,1.97,1.7,-0.0964,1.043,1.65-1.85
-DEN @ UTA,Christian Braun 15+ pra + Jamal Murray 2+ 3pm,2,0.6757,0.592,1.69,1.77,1.53,-0.0971,1.003,1.50-1.65
-DEN @ UTA,DEN win + Christian Braun 10+ pa + Jamal Murray 2+ 3pm,3,0.4876,0.4972,2.01,2.11,1.8,-0.1051,1.035,1.65-1.85
+DEN @ UTA,Ace Bailey 16+ pts + Christian Braun 10+ pa,2,0.4297,0.3983,2.51,2.64,2.42,-0.0347,1.004,2.10-2.50
+DEN @ UTA,DEN win + Christian Braun 15+ pra,2,0.5636,0.5916,1.69,1.77,1.58,-0.0636,1.019,1.50-1.65
+DEN @ UTA,Christian Braun 13+ pts + Cameron Johnson 10+ pra,2,0.5158,0.4503,2.22,2.33,2.07,-0.0672,1.006,1.85-2.10
+DEN @ UTA,DEN win + Cameron Johnson 15+ pra,2,0.5395,0.5859,1.71,1.79,1.59,-0.0687,1.022,1.50-1.65
+DEN @ UTA,Svi Mykhailiuk 9+ pts + Cameron Johnson 10+ pra,2,0.5905,0.4605,2.17,2.28,2.02,-0.0688,1.001,1.85-2.10
+DEN @ UTA,Jamal Murray pts under 25.5 + Christian Braun 10+ pra,2,0.5212,0.4795,2.09,2.19,1.94,-0.0708,0.999,1.85-2.10
+DEN @ UTA,DEN win + Jamal Murray 2+ 3pm,2,0.5456,0.6019,1.66,1.74,1.53,-0.0798,1.013,1.50-1.65
+DEN @ UTA,DEN win + Christian Braun 15+ pra + Cameron Johnson 10+ pa,3,0.5036,0.5006,2.0,2.1,1.82,-0.0911,1.045,1.65-1.85
+DEN @ UTA,DEN win + Christian Braun 10+ pa + Cameron Johnson 10+ pa,3,0.5281,0.5297,1.89,1.98,1.71,-0.0951,1.043,1.65-1.85
+DEN @ UTA,DEN win + Christian Braun 10+ pr + Cameron Johnson 15+ pra,3,0.5096,0.5173,1.93,2.03,1.73,-0.1043,1.035,1.65-1.85
 NOP @ LAC,Brandon Ingram pts under 18.5 + Kris Dunn 5+ pr,2,0.5889,0.4156,2.41,2.53,2.37,-0.0133,0.998,2.10-2.50
 NOP @ LAC,Brandon Ingram pts under 18.5 + Derik Queen 10+ pr,2,0.5922,0.4415,2.27,2.38,2.21,-0.0229,1.001,2.10-2.50
 NOP @ LAC,Yves Missi reb under 7.5 + Kris Dunn 5+ pr,2,0.6121,0.3995,2.5,2.63,2.44,-0.0238,0.999,2.10-2.50
@@ -41,15 +41,13 @@ NOP @ LAC,Herbert Jones 3pm under 1.5 + Trey Murphy III 1+ 3pm,2,0.7014,0.5418,1
 NOP @ LAC,Herbert Jones 3pm under 1.5 + Derik Queen 5+ pa,2,0.7351,0.5684,1.76,1.85,1.64,-0.0681,1.001,1.50-1.65
 NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6973,0.5958,1.68,1.76,1.52,-0.0919,1.002,1.50-1.65
 NOP @ LAC,Brook Lopez 10+ pr + Jeremiah Fears 1+ 3pm,2,0.6554,0.5913,1.69,1.78,1.51,-0.1057,1.0,1.50-1.65
-GSW @ POR,Gui Santos pts under 9.5 + Sidy Cissoko 10+ pra,2,0.5739,0.4462,2.24,2.35,2.2,-0.0172,0.998,2.10-2.50
-GSW @ POR,Gui Santos pts under 9.5 + Jrue Holiday 4+ ast,2,0.5637,0.4398,2.27,2.39,2.23,-0.0174,0.999,2.10-2.50
-GSW @ POR,Sidy Cissoko 9+ pts + Jrue Holiday 4+ ast,2,0.5566,0.4273,2.34,2.46,2.29,-0.0194,1.008,2.10-2.50
-GSW @ POR,Gui Santos pts under 9.5 + Donovan Clingan 15+ pra,2,0.5997,0.4816,2.08,2.18,2.03,-0.0226,1.001,1.85-2.10
-GSW @ POR,Gui Santos pts under 9.5 + Jrue Holiday 1+ 3pm,2,0.594,0.4829,2.07,2.17,2.02,-0.0268,0.999,1.85-2.10
-GSW @ POR,Gui Santos pts under 9.5 + Toumani Camara 1+ 3pm,2,0.5792,0.4748,2.11,2.21,2.05,-0.028,1.0,1.85-2.10
-GSW @ POR,Toumani Camara 2+ ast + Draymond Green 5+ pa,2,0.6415,0.5067,1.97,2.07,1.83,-0.0737,1.001,1.65-1.85
-GSW @ POR,Toumani Camara 2+ ast + Yaxel Lendeborg 15+ pr,2,0.6343,0.5043,1.98,2.08,1.84,-0.0745,1.001,1.65-1.85
-GSW @ POR,Sidy Cissoko 10+ pra + Jrue Holiday 4+ ast + Scoot Henderson 1+ 3pm,3,0.6867,0.5542,1.8,1.89,1.55,-0.1389,1.004,1.50-1.65
-GSW @ POR,Jrue Holiday 4+ ast + Sidy Cissoko 1+ 3pm + Scoot Henderson 1+ 3pm,3,0.6164,0.5094,1.96,2.06,1.69,-0.1408,1.007,1.65-1.85
-GSW @ POR,Jrue Holiday 4+ ast + Sidy Cissoko 1+ 3pm + Yaxel Lendeborg 4+ reb,3,0.6445,0.5316,1.88,1.98,1.61,-0.144,1.003,1.50-1.65
-GSW @ POR,Sidy Cissoko 1+ 3pm + Donovan Clingan 15+ pra + Scoot Henderson 1+ 3pm,3,0.6529,0.5555,1.8,1.89,1.53,-0.1491,1.004,1.50-1.65
+GSW @ POR,Gui Santos pts under 9.5 + Jrue Holiday 4+ ast,2,0.5823,0.4432,2.26,2.37,2.23,-0.0096,1.0,2.10-2.50
+GSW @ POR,Gui Santos pts under 9.5 + Sidy Cissoko 10+ pra,2,0.5802,0.448,2.23,2.34,2.2,-0.0132,1.0,2.10-2.50
+GSW @ POR,Gui Santos pts under 9.5 + Sidy Cissoko 1+ 3pm,2,0.527,0.4125,2.42,2.55,2.39,-0.0139,1.002,2.10-2.50
+GSW @ POR,Gui Santos pts under 9.5 + Donovan Clingan 15+ pra,2,0.6171,0.4841,2.07,2.17,2.03,-0.0177,0.999,1.85-2.10
+GSW @ POR,Gui Santos pts under 9.5 + Deni Avdija 4+ ast,2,0.6016,0.4706,2.13,2.23,2.09,-0.0178,0.998,1.85-2.10
+GSW @ POR,Gui Santos pts under 9.5 + Jrue Holiday 1+ 3pm,2,0.6119,0.4864,2.06,2.16,2.02,-0.0197,1.0,1.85-2.10
+GSW @ POR,Brandin Podziemski 3pm under 2.5 + Donovan Clingan 15+ pra,2,0.646,0.5049,1.98,2.08,1.84,-0.0733,0.999,1.65-1.85
+GSW @ POR,Brandin Podziemski 3pm under 2.5 + Draymond Green 5+ pa,2,0.6457,0.5146,1.94,2.04,1.79,-0.0766,1.0,1.65-1.85
+GSW @ POR,Brandin Podziemski 3pm under 2.5 + Jrue Holiday 1+ 3pm,2,0.6393,0.5063,1.98,2.07,1.82,-0.077,0.998,1.65-1.85
+GSW @ POR,Jrue Holiday 4+ ast + Deni Avdija 4+ ast + Sidy Cissoko 1+ 3pm,3,0.6646,0.5318,1.88,1.97,1.62,-0.1366,1.004,1.50-1.65
