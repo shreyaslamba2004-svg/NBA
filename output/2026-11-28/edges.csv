@@ -1,0 +1,41 @@
+game_id,matchup,market,selection,player,player_id,line,book,price,price_decimal,model_prob,fair_decimal,book_novig_prob,market_novig_prob,model_minus_market,book_margin_pct,ev,blend_prob,ev_blend,kelly_25,check_news,offered,main_line,depends_on,p_if_out,p_if_in
+401910046,ORL @ WAS,prop_pts,over,Franz Wagner,1630532.0,44.5,draftkings,2700.0,28.0,0.0803,12.45,0.0334,0.0334,0.0469,,1.2487,0.0419,0.1724,0.0016,False,True,False,,,
+401910046,ORL @ WAS,prop_pts,over,Franz Wagner,1630532.0,39.5,draftkings,1380.0,14.8,0.1398,7.15,0.0631,0.0631,0.0767,,1.0693,0.077,0.14,0.0025,False,True,False,Anthony Black,0.1695,0.1167
+401910048,IND @ CHI,prop_ast,over,Josh Giddey,1630581.0,15.5,draftkings,1920.0,20.2,0.0927,10.79,0.0463,0.0463,0.0464,,0.8727,0.0547,0.1044,0.0014,False,True,False,,,
+401910048,IND @ CHI,prop_ast,over,Josh Giddey,1630581.0,14.5,draftkings,1300.0,14.0,0.1308,7.64,0.0668,0.0668,0.0641,,0.8314,0.0784,0.0969,0.0019,False,False,False,,,
+401910048,IND @ CHI,prop_ast,over,Josh Giddey,1630581.0,16.5,draftkings,2700.0,28.0,0.0647,15.46,0.0334,0.0334,0.0313,,0.8108,0.039,0.0932,0.0009,False,False,False,,,
+401910046,ORL @ WAS,prop_ast,over,Alex Sarr,1642259.0,3.5,draftkings,920.0,10.2,0.165,6.06,0.0916,0.0916,0.0734,,0.6829,0.1049,0.07,0.0019,False,True,False,,,
+401910048,IND @ CHI,prop_ast,over,Josh Giddey,1630581.0,13.5,draftkings,830.0,9.3,0.18,5.56,0.1005,0.1005,0.0795,,0.674,0.1149,0.0684,0.0021,False,True,False,,,
+401910046,ORL @ WAS,prop_pts,over,Franz Wagner,1630532.0,34.5,draftkings,571.0,6.71,0.2428,4.12,0.1393,0.1393,0.1035,,0.6292,0.158,0.0603,0.0026,False,True,False,Anthony Black,0.2812,0.2126
+401910046,ORL @ WAS,prop_ast,over,Alex Sarr,1642259.0,4.5,draftkings,2200.0,23.0,0.0706,14.16,0.0406,0.0406,0.03,,0.624,0.0461,0.0594,0.0007,False,False,False,,,
+401910046,ORL @ WAS,prop_pra,over,Trae Young,1629027.0,39.5,draftkings,1120.0,12.2,0.1327,7.54,0.0766,0.0766,0.0561,,0.6184,0.0868,0.0584,0.0013,False,True,False,,,
+401910046,ORL @ WAS,prop_ast,over,Trae Young,1629027.0,13.5,draftkings,1220.0,13.2,0.1192,8.39,0.0708,0.0708,0.0484,,0.5729,0.0796,0.0501,0.001,False,True,False,,,
+401910046,ORL @ WAS,prop_pr,over,Franz Wagner,1630532.0,54.5,draftkings,2500.0,26.0,0.0604,16.55,0.0359,0.0359,0.0245,,0.571,0.0404,0.0498,0.0005,False,True,False,,,
+401910046,ORL @ WAS,prop_pr,over,Wendell Carter Jr.,1628976.0,29.5,draftkings,760.0,8.6,0.1815,5.51,0.1087,0.1087,0.0728,,0.561,0.1219,0.048,0.0016,False,True,False,Anthony Black,0.2144,0.1497
+401910046,ORL @ WAS,prop_ast,over,Anthony Davis,203076.0,4.5,draftkings,830.0,9.3,0.1662,6.02,0.1005,0.1005,0.0657,,0.5458,0.1124,0.0452,0.0014,False,False,False,,,
+401910046,ORL @ WAS,prop_pa,over,Desmond Bane,1630217.0,39.5,draftkings,1960.0,20.6,0.0738,13.55,0.0454,0.0454,0.0284,,0.5204,0.0505,0.0406,0.0005,False,True,False,Anthony Black,0.1006,0.0486
+401910048,IND @ CHI,prop_ast,over,Josh Giddey,1630581.0,12.5,draftkings,517.0,6.17,0.246,4.07,0.1515,0.1515,0.0945,,0.5178,0.1686,0.0401,0.0019,False,False,False,,,
+401910046,ORL @ WAS,prop_pts,over,Desmond Bane,1630217.0,34.5,draftkings,1820.0,19.2,0.0787,12.7,0.0487,0.0487,0.03,,0.5114,0.0541,0.039,0.0005,False,True,False,Anthony Black,0.1057,0.0548
+401910046,ORL @ WAS,prop_ast,over,Trae Young,1629027.0,14.5,draftkings,1820.0,19.2,0.0783,12.77,0.0487,0.0487,0.0296,,0.5036,0.054,0.0376,0.0005,False,False,False,,,
+401910046,ORL @ WAS,prop_ast,over,Anthony Davis,203076.0,5.5,draftkings,1780.0,18.8,0.0799,12.51,0.0497,0.0497,0.0302,,0.5024,0.0552,0.0374,0.0005,False,True,False,,,
+401910046,ORL @ WAS,prop_ast,over,Trae Young,1629027.0,12.5,draftkings,760.0,8.6,0.1746,5.73,0.1087,0.1087,0.0659,,0.5013,0.1206,0.0372,0.0012,False,False,False,,,
+401910046,ORL @ WAS,prop_ast,over,Alex Sarr,1642259.0,2.5,draftkings,343.0,4.43,0.3368,2.97,0.211,0.211,0.1258,,0.492,0.2337,0.0355,0.0026,False,False,False,,,
+401910046,ORL @ WAS,prop_ast,over,Anthony Davis,203076.0,3.5,draftkings,362.0,4.62,0.3201,3.12,0.2023,0.2023,0.1178,,0.4787,0.2236,0.0331,0.0023,False,True,False,,,
+401910046,ORL @ WAS,prop_pr,over,Wendell Carter Jr.,1628976.0,34.5,draftkings,1860.0,19.6,0.0747,13.38,0.0477,0.0477,0.027,,0.4646,0.0526,0.0305,0.0004,False,True,False,,,
+401910046,ORL @ WAS,prop_pra,over,Trae Young,1629027.0,44.5,draftkings,2300.0,24.0,0.06,16.66,0.0389,0.0389,0.0211,,0.4402,0.0428,0.0261,0.0003,False,True,False,,,
+401910046,ORL @ WAS,prop_pa,over,Anthony Davis,203076.0,39.5,draftkings,1260.0,13.6,0.1058,9.45,0.0687,0.0687,0.0371,,0.4385,0.0754,0.0258,0.0005,False,True,False,,,
+401910046,ORL @ WAS,prop_pa,over,Desmond Bane,1630217.0,34.5,draftkings,860.0,9.6,0.1487,6.72,0.0974,0.0974,0.0514,,0.4278,0.1067,0.0238,0.0007,False,True,False,Anthony Black,0.1903,0.1097
+401910046,ORL @ WAS,prop_pr,over,Desmond Bane,1630217.0,39.5,draftkings,1640.0,17.4,0.0804,12.44,0.0537,0.0537,0.0267,,0.3988,0.0585,0.0186,0.0003,False,True,False,Anthony Black,0.1081,0.0563
+401910046,ORL @ WAS,prop_ast,over,Trae Young,1629027.0,11.5,draftkings,466.0,5.66,0.2448,4.09,0.1651,0.1651,0.0797,,0.3855,0.1795,0.0162,0.0009,False,True,False,,,
+401910046,ORL @ WAS,prop_pts,over,Trae Young,1629027.0,29.5,draftkings,2000.0,21.0,0.0659,15.18,0.0445,0.0445,0.0214,,0.3834,0.0484,0.0158,0.0002,False,True,False,,,
+401910046,ORL @ WAS,prop_pra,over,Trae Young,1629027.0,34.5,draftkings,429.0,5.29,0.259,3.86,0.1767,0.1767,0.0823,,0.3701,0.1916,0.0134,0.0008,False,True,False,,,
+401910046,ORL @ WAS,prop_pts,over,Desmond Bane,1630217.0,29.5,draftkings,740.0,8.4,0.163,6.13,0.1113,0.1113,0.0518,,0.3693,0.1206,0.0133,0.0004,False,True,False,Anthony Black,0.2038,0.1245
+401910046,ORL @ WAS,prop_pr,over,Wendell Carter Jr.,1628976.0,24.5,draftkings,264.0,3.64,0.3743,2.67,0.2568,0.2568,0.1175,,0.3624,0.278,0.012,0.0011,False,True,False,Anthony Black,0.4272,0.3279
+401910046,ORL @ WAS,prop_pts,over,Anthony Davis,203076.0,39.5,draftkings,2000.0,21.0,0.0648,15.43,0.0445,0.0445,0.0203,,0.3609,0.0482,0.0117,0.0001,False,True,False,,,
+401910046,ORL @ WAS,prop_pts,over,Trae Young,1629027.0,24.5,draftkings,750.0,8.5,0.1591,6.29,0.11,0.11,0.0491,,0.3524,0.1188,0.0102,0.0003,False,True,False,,,
+401910048,IND @ CHI,prop_ast,over,Josh Giddey,1630581.0,11.5,draftkings,315.0,4.15,0.3256,3.07,0.2252,0.2252,0.1004,,0.3514,0.2434,0.01,0.0008,False,True,False,,,
+401910046,ORL @ WAS,prop_ast,over,Trae Young,1629027.0,15.5,draftkings,2500.0,26.0,0.0517,19.35,0.0359,0.0359,0.0157,,0.3434,0.0388,0.0086,0.0001,False,True,False,,,
+401910046,ORL @ WAS,prop_pr,over,Desmond Bane,1630217.0,34.5,draftkings,710.0,8.1,0.1649,6.06,0.1154,0.1154,0.0496,,0.336,0.1243,0.0072,0.0003,False,True,False,Anthony Black,0.2066,0.1235
+401910046,ORL @ WAS,prop_pa,over,Kyshawn George,1642273.0,29.5,draftkings,710.0,8.1,0.1625,6.15,0.1154,0.1154,0.0471,,0.3161,0.1239,0.0036,0.0001,False,True,False,,,
+401910046,ORL @ WAS,prop_pts,over,Anthony Davis,203076.0,34.5,draftkings,860.0,9.6,0.1361,7.35,0.0974,0.0974,0.0387,,0.3065,0.1044,0.0019,0.0001,False,True,False,,,
+401910046,ORL @ WAS,prop_pts,over,Kyshawn George,1642273.0,29.5,draftkings,1780.0,18.8,0.0694,14.4,0.0497,0.0497,0.0197,,0.3051,0.0533,0.0017,0.0,False,True,False,,,
