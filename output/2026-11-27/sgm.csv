@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MEM @ MIN,Rudy Gobert 9+ pts + Cam Spencer 10+ pa,2,0.5469,0.4122,2.43,2.55,2.43,0.0018,1.002,2.10-2.50
-MEM @ MIN,Rudy Gobert 9+ pts + Jaden McDaniels 20+ pra,2,0.5633,0.4369,2.29,2.4,2.29,-0.0002,1.007,2.10-2.50
-MEM @ MIN,Rudy Gobert 9+ pts + Terrence Shannon Jr. 15+ pra,2,0.5698,0.4434,2.26,2.37,2.25,-0.0036,1.005,2.10-2.50
-MEM @ MIN,Bones Hyland pts under 12.5 + Jaylen Wells 5+ pa,2,0.5333,0.4631,2.16,2.27,2.07,-0.0407,0.998,1.85-2.10
-MEM @ MIN,Cedric Coward pts under 16.5 + Rudy Gobert 5+ pa,2,0.5782,0.4705,2.13,2.23,2.04,-0.0409,0.999,1.85-2.10
-MEM @ MIN,Rudy Gobert 21+ pra + Terrence Shannon Jr. 15+ pra,2,0.6344,0.4601,2.17,2.28,2.08,-0.0413,1.005,1.85-2.10
-MEM @ MIN,Rudy Gobert 10+ pa + Jaylen Wells 5+ pa,2,0.6748,0.5123,1.95,2.05,1.84,-0.0581,1.0,1.65-1.85
-MEM @ MIN,Rudy Gobert 12+ ra + Jaylen Wells 5+ pa,2,0.6619,0.507,1.97,2.07,1.84,-0.0647,1.001,1.65-1.85
-MEM @ MIN,Bones Hyland 3pm under 2.5 + Jaylen Wells 5+ pa,2,0.6774,0.5166,1.94,2.03,1.81,-0.0656,1.0,1.65-1.85
-MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb,2,0.7326,0.6015,1.66,1.75,1.52,-0.0828,1.003,1.50-1.65
-MEM @ MIN,Jaden McDaniels 4+ reb + Cam Spencer 1+ 3pm,2,0.6846,0.5803,1.72,1.81,1.56,-0.0918,1.0,1.50-1.65
-MEM @ MIN,Rudy Gobert 8+ reb + Cam Spencer 1+ 3pm,2,0.6834,0.5853,1.71,1.79,1.55,-0.0929,1.002,1.50-1.65
+MEM @ MIN,Rudy Gobert 9+ pts + Cam Spencer 10+ pa,2,0.5686,0.4162,2.4,2.52,2.43,0.0115,1.004,2.10-2.50
+MEM @ MIN,Rudy Gobert 9+ pts + Jaden McDaniels 20+ pra,2,0.5801,0.439,2.28,2.39,2.29,0.0045,1.005,2.10-2.50
+MEM @ MIN,Rudy Gobert 9+ pts + Trey Lyles 5+ pa,2,0.5384,0.4142,2.41,2.53,2.42,0.0027,1.007,2.10-2.50
+MEM @ MIN,Rudy Gobert 21+ pra + Ayo Dosunmu 15+ pa,2,0.6549,0.4721,2.12,2.22,2.03,-0.0395,1.004,1.85-2.10
+MEM @ MIN,Rudy Gobert 21+ pra + Jaden McDaniels 10+ pts,2,0.6663,0.4787,2.09,2.19,2.01,-0.0395,1.003,1.85-2.10
+MEM @ MIN,Rudy Gobert 10+ pa + Jaden McDaniels 20+ pra,2,0.656,0.4817,2.08,2.18,1.98,-0.0454,1.005,1.85-2.10
+MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb,2,0.737,0.6011,1.66,1.75,1.52,-0.0834,1.0,1.50-1.65
+MEM @ MIN,Rudy Gobert 8+ reb + Cam Spencer 1+ 3pm,2,0.6964,0.5888,1.7,1.78,1.55,-0.0875,1.005,1.50-1.65
+MEM @ MIN,Jaden McDaniels 4+ reb + Cam Spencer 1+ 3pm,2,0.6895,0.5808,1.72,1.81,1.56,-0.091,1.0,1.50-1.65
+MEM @ MIN,Cam Spencer 10+ pa + Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb,3,0.6654,0.4878,2.05,2.15,1.81,-0.1181,1.004,1.65-1.85
+MEM @ MIN,Cam Spencer 10+ pa + Rudy Gobert 8+ reb + Trey Lyles 5+ pa,3,0.6606,0.5076,1.97,2.07,1.72,-0.1268,1.006,1.65-1.85
+MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb + Trey Lyles 5+ pa,3,0.626,0.4823,2.07,2.18,1.8,-0.1315,1.001,1.65-1.85
 DAL @ PHX,Dillon Brooks 16+ pts + Zaccharie Risacher 10+ pra,2,0.4786,0.3916,2.55,2.68,2.46,-0.0375,1.005,2.10-2.50
 DAL @ PHX,Daniel Gafford 11+ pts + Devin Booker 4+ ast,2,0.466,0.3865,2.59,2.72,2.49,-0.0381,1.004,2.10-2.50
 DAL @ PHX,Naji Marshall pts under 12.5 + Zaccharie Risacher 10+ pra,2,0.4995,0.3985,2.51,2.63,2.41,-0.0394,0.993,2.10-2.50
