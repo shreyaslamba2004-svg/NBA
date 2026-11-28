@@ -46,7 +46,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909327,DET,1642404,Chaz Lanier,,,1.0,,,
 401909327,DET,905258459,Ebuka Okorie,Out,Injury/Illness-LeftObliqueStrain,0.0,"The Pistons announced Tuesday that Okorie (oblique) will miss at least two weeks, per Eric Vincent of ClutchPoints.com.",,
 401909327,DET,905037878,Ugonna Onyenso,Out,GLeague-Two-Way,0.0,,,
-401909327,DET,1627752,Taurean Prince,Out,Injury/Illness-RightArthroscopy,0.0,"Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports.",,
+401909327,DET,1627752,Taurean Prince,Out,,0.0,"Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports.",,
 401909327,DET,1630194,Paul Reed,,,1.0,,,
 401909327,DET,1629130,Duncan Robinson,Out,Injury/Illness-LeftQuadricepsStrain,0.0,Robinson (quadriceps) is out for Friday's game against the Bucks.,,
 401909327,DET,1642449,Tolu Smith,,,1.0,,,
@@ -75,29 +75,29 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909328,IND,1630643,Jay Huff,,,1.0,,,
 401909328,IND,1631245,Quenton Jackson,,,1.0,,,
 401909328,IND,204456,T.J. McConnell,Out,,0.0,"McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports.",,
-401909328,IND,1626204,Larry Nance Jr.,Available,Injury/Illness-RightAnkleBruise,1.0,Nance (ankle) is probable for Friday's game against the 76ers.,,
-401909328,IND,1629614,Andrew Nembhard,,,1.0,,,
-401909328,IND,1630174,Aaron Nesmith,,,1.0,,,
-401909328,IND,1626162,Kelly Oubre Jr.,Available,Injury/Illness-RightHandLaceration,1.0,,,
+401909328,IND,1626204,Larry Nance Jr.,Available,Injury/Illness-RightAnkleBruise,1.0,,,
+401909328,IND,1629614,Andrew Nembhard,Starting,,1.0,,,1.0
+401909328,IND,1630174,Aaron Nesmith,Starting,,1.0,,,1.0
+401909328,IND,1626162,Kelly Oubre Jr.,Starting,Injury/Illness-RightHandLaceration,1.0,,,1.0
 401909328,IND,1641767,Ben Sheppard,Out,Injury/Illness-LeftMeniscusSurgery,0.0,"Head coach Rick Carlise confirmed Sheppard will miss ""months"" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.",,
-401909328,IND,1627783,Pascal Siakam,,,1.0,,,
+401909328,IND,1627783,Pascal Siakam,Starting,,1.0,,,1.0
 401909328,IND,1641771,Jalen Slawson,,,1.0,,,
 401909328,IND,905105854,Braden Smith,,,1.0,,,
 401909328,IND,1630167,Obi Toppin,,,1.0,,,
 401909328,IND,1641716,Jarace Walker,,,1.0,,,
-401909328,IND,1627826,Ivica Zubac,,,1.0,,,
-401909328,PHI,1631230,Dominick Barlow,,,1.0,,,
+401909328,IND,1627826,Ivica Zubac,Starting,,1.0,,,1.0
+401909328,PHI,1631230,Dominick Barlow,Starting,,1.0,,,1.0
 401909328,PHI,1641737,Adem Bona,,,1.0,,,
 401909328,PHI,1627759,Jaylen Brown,Out,,0.0,"Brown (hamstring) underwent an MRI that showed no signs of a new injury or re-aggravation, but he didn't travel with the team for the road trip, so he will miss the team's next two games, Kris Rhim of ESPN reports.",,
 401909328,PHI,203484,Kentavious Caldwell-Pope,,,1.0,,,
-401909328,PHI,1642845,VJ Edgecombe,,,1.0,,,
+401909328,PHI,1642845,VJ Edgecombe,Starting,,1.0,,,1.0
 401909328,PHI,1642348,Justin Edwards,,,1.0,,,
-401909328,PHI,203954,Joel Embiid,Questionable,Injury/Illness-Illness,0.55,"Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports.",,
+401909328,PHI,203954,Joel Embiid,Starting,Injury/Illness-Illness,1.0,"Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports.",,1.0
 401909328,PHI,1629605,Tacko Fall,,,1.0,,,
-401909328,PHI,1630574,Ariel Hukporti,Out,Injury/Illness-RightAchillesTendon,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
-401909328,PHI,2544,LeBron James,,,1.0,,,
+401909328,PHI,1630574,Ariel Hukporti,Out,,0.0,"Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN.",,
+401909328,PHI,2544,LeBron James,Starting,,1.0,,,1.0
 401909328,PHI,904433144,Caleb Love,,,1.0,,,
-401909328,PHI,1630178,Tyrese Maxey,,,1.0,,,
+401909328,PHI,1630178,Tyrese Maxey,Starting,,1.0,,,1.0
 401909328,PHI,904873090,Labaron Philon Jr.,,,1.0,,,
 401909328,PHI,1641712,Rayan Rupert,,,1.0,,,
 401909328,PHI,1629014,Anfernee Simons,,,1.0,,,
@@ -250,7 +250,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909333,SAS,1630577,Julian Champagnie,,,1.0,,,
 401909333,SAS,1628368,De'Aaron Fox,Questionable,Injury/Illness-RightShinContusion,0.55,Fox (shin) is questionable for Friday's game against the Lakers.,,
 401909333,SAS,905107968,Ja'Kobi Gillespie,,,1.0,,,
-401909333,SAS,1642844,Dylan Harper,Questionable,,0.55,"Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com.",,
+401909333,SAS,1642844,Dylan Harper,Questionable,Injury/Illness-LeftHipExternal,0.55,"Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com.",,
 401909333,SAS,202699,Tobias Harris,Out,Injury/Illness-LeftCalfStrain,0.0,"Harris (calf) is likely to be sidelined until early December, per Jeff Garcia of KENS 5 San Antonio.",,
 401909333,SAS,1629640,Keldon Johnson,,,1.0,,,
 401909333,SAS,1642357,David Jones Garcia,,,1.0,,,
@@ -293,7 +293,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909334,UTA,1628991,Jaren Jackson Jr.,Out,Injury/Illness-RightMCLTear,0.0,"Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN.",,
 401909334,UTA,1628374,Lauri Markkanen,Out,Injury/Illness-RightHandFracture,0.0,"Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports.",,
 401909334,UTA,1629004,Svi Mykhailiuk,,,1.0,,,
-401909334,UTA,203994,Jusuf Nurkic,Questionable,,0.55,Nurkic (foot) is questionable for Friday's game against the Nuggets.,,
+401909334,UTA,203994,Jusuf Nurkic,Questionable,Injury/Illness-Right2ndPlantar,0.55,Nurkic (foot) is questionable for Friday's game against the Nuggets.,,
 401909334,UTA,1629006,Josh Okogie,,,1.0,,,
 401909334,UTA,905041955,Darryn Peterson,,,1.0,,,
 401909334,UTA,1641729,Brice Sensabaugh,,,1.0,,,
