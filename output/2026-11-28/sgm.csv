@@ -1,22 +1,22 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
 ORL @ WAS,Anthony Davis 2+ ast + Wendell Carter Jr. 10+ pts,2,0.5602,0.397,2.52,2.64,2.41,-0.0413,1.003,2.10-2.50
-ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 15+ pr,2,0.5465,0.4043,2.47,2.6,2.34,-0.052,1.004,2.10-2.50
+ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 15+ pr,2,0.5465,0.4017,2.49,2.61,2.36,-0.0502,1.004,2.10-2.50
 ORL @ WAS,Wendell Carter Jr. 22+ pra + Anthony Davis 1+ blk,2,0.5223,0.3819,2.62,2.75,2.48,-0.0534,1.002,2.10-2.50
+ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 15+ pra,2,0.6085,0.4583,2.18,2.29,2.06,-0.0566,1.003,1.85-2.10
 ORL @ WAS,ORL win + Wendell Carter Jr. 15+ pr,2,0.515,0.469,2.13,2.24,2.01,-0.0569,1.009,1.85-2.10
 ORL @ WAS,Anthony Davis 2+ ast + Wendell Carter Jr. 15+ pr,2,0.6563,0.4887,2.05,2.15,1.93,-0.057,0.999,1.85-2.10
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pr,2,0.6454,0.4889,2.05,2.15,1.93,-0.0579,1.002,1.85-2.10
 ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 10+ pts,2,0.6711,0.516,1.94,2.03,1.82,-0.0606,1.003,1.65-1.85
-ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7187,0.5569,1.8,1.89,1.68,-0.0638,1.002,1.65-1.85
+ORL @ WAS,Anthony Davis 2+ ast + Kyshawn George 15+ pra,2,0.7187,0.558,1.79,1.88,1.68,-0.0642,1.002,1.65-1.85
 ORL @ WAS,Anthony Davis 2+ ast + Trae Young 10+ pts,2,0.6655,0.5192,1.93,2.02,1.8,-0.0642,1.003,1.65-1.85
 ORL @ WAS,Anthony Davis 1+ blk + Kyshawn George 10+ pts,2,0.7234,0.5811,1.72,1.81,1.58,-0.0804,1.0,1.50-1.65
 ORL @ WAS,Anthony Davis 1+ blk + Trae Young 10+ pts,2,0.7188,0.5858,1.71,1.79,1.57,-0.0823,1.001,1.50-1.65
 ORL @ WAS,Anthony Davis 1+ blk + Trae Young 1+ 3pm,2,0.7329,0.601,1.66,1.75,1.52,-0.0845,1.0,1.50-1.65
-BKN @ CHA,Day'Ron Sharpe ra under 11.5 + Sion James 5+ pr,2,0.6373,0.4566,2.19,2.3,2.08,-0.0486,0.999,1.85-2.10
-BKN @ CHA,Day'Ron Sharpe reb under 7.5 + Sion James 5+ pr,2,0.6025,0.4376,2.29,2.4,2.16,-0.0546,0.998,2.10-2.50
-BKN @ CHA,Day'Ron Sharpe ast under 3.5 + Sion James 5+ pr,2,0.5579,0.4227,2.37,2.48,2.21,-0.064,1.0,2.10-2.50
-BKN @ CHA,Day'Ron Sharpe pra under 20.5 + Sion James 5+ pr,2,0.5933,0.4626,2.16,2.27,2.01,-0.0704,1.002,1.85-2.10
-BKN @ CHA,Coby White pr under 20.5 + Sion James 5+ pr,2,0.5694,0.4427,2.26,2.37,2.09,-0.0736,0.997,1.85-2.10
-BKN @ CHA,Brandon Miller reb under 4.5 + Sion James 5+ pr,2,0.5265,0.4115,2.43,2.55,2.25,-0.0753,0.997,2.10-2.50
+BKN @ CHA,Day'Ron Sharpe ra under 11.5 + Sion James 5+ pr,2,0.6373,0.4536,2.2,2.31,2.1,-0.0471,0.999,2.10-2.50
+BKN @ CHA,Day'Ron Sharpe reb under 7.5 + Sion James 5+ pr,2,0.6025,0.4347,2.3,2.42,2.18,-0.053,0.998,2.10-2.50
+BKN @ CHA,Day'Ron Sharpe ast under 3.5 + Sion James 5+ pr,2,0.5579,0.4199,2.38,2.5,2.23,-0.0625,1.0,2.10-2.50
+BKN @ CHA,Day'Ron Sharpe pra under 20.5 + Sion James 5+ pr,2,0.5933,0.4595,2.18,2.29,2.03,-0.0689,1.002,1.85-2.10
+BKN @ CHA,Coby White pts under 17.5 + Sion James 5+ pr,2,0.5769,0.4498,2.22,2.33,2.06,-0.0743,0.998,1.85-2.10
+BKN @ CHA,Brandon Miller ra under 8.5 + Sion James 5+ pr,2,0.5882,0.4641,2.15,2.26,1.99,-0.0766,0.996,1.85-2.10
 IND @ CHI,game over 234.5 + Nic Claxton 10+ pr,2,0.4722,0.4046,2.47,2.6,2.36,-0.0435,1.025,2.10-2.50
 IND @ CHI,game over 234.5 + Tre Jones 10+ pr,2,0.4521,0.4054,2.47,2.59,2.36,-0.0437,1.037,2.10-2.50
 IND @ CHI,game over 234.5 + Matas Buzelis 4+ reb,2,0.4459,0.3965,2.52,2.65,2.39,-0.0527,1.025,2.10-2.50
