@@ -3,34 +3,34 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909330,BOS,905142621,Chris Cenac Jr.,,,1.0,,,
 401909330,BOS,201144,Mike Conley,,,1.0,,,
 401909330,BOS,1630568,Luka Garza,,,1.0,,,
-401909330,BOS,202331,Paul George,Starting,,1.0,,,1.0
-401909330,BOS,1642864,Hugo Gonzalez,Starting,,1.0,,,1.0
+401909330,BOS,202331,Paul George,,,1.0,,,
+401909330,BOS,1642864,Hugo Gonzalez,,,1.0,,,
 401909330,BOS,1631199,Ron Harper Jr.,,,1.0,,,
 401909330,BOS,1630573,Sam Hauser,,,1.0,,,
 401909330,BOS,905106283,Dillon Mitchell,Out,GLeague-Two-Way,0.0,,,
 401909330,BOS,1630202,Payton Pritchard,,,1.0,,,
-401909330,BOS,1629674,Neemias Queta,Starting,,1.0,,,1.0
+401909330,BOS,1629674,Neemias Queta,,,1.0,,,
 401909330,BOS,1629011,Mitchell Robinson,Out,Injury/Illness-Illness,0.0,Robinson has been ruled out Marc D'Amico of the Celtics' official sitefor Friday's game.,,
 401909330,BOS,1631248,Baylor Scheierman,,,1.0,,,
-401909330,BOS,1628369,Jayson Tatum,Starting,,1.0,,,1.0
+401909330,BOS,1628369,Jayson Tatum,,,1.0,,,
 401909330,BOS,1641775,Jordan Walsh,,,1.0,,,
-401909330,BOS,1628401,Derrick White,Starting,,1.0,,,1.0
+401909330,BOS,1628401,Derrick White,,,1.0,,,
 401909330,BOS,1642873,Amari Williams,Out,GLeague-Two-Way,0.0,,,
-401909330,ATL,1629638,Nickeil Alexander-Walker,Starting,,1.0,,,1.0
+401909330,ATL,1629638,Nickeil Alexander-Walker,,,1.0,,,
 401909330,ATL,904684443,Rafael Castro,Out,GLeague-Two-Way,0.0,,,
-401909330,ATL,1630700,Dyson Daniels,Starting,,1.0,,,1.0
+401909330,ATL,1630700,Dyson Daniels,,,1.0,,,
 401909330,ATL,1642484,RayJ Dennis,,,1.0,,,
 401909330,ATL,1629652,Luguentz Dort,,,1.0,,,
 401909330,ATL,905106262,Zuby Ejiofor,,,1.0,,,
 401909330,ATL,1627827,Dorian Finney-Smith,,,1.0,,,
-401909330,ATL,905149077,Kingston Flemings,Starting,,1.0,,,1.0
+401909330,ATL,905149077,Kingston Flemings,,,1.0,,,
 401909330,ATL,1631243,Mouhamed Gueye,Out,Injury/Illness-LeftFootFracture,0.0,"Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",,
-401909330,ATL,1630552,Jalen Johnson,Starting,,1.0,,,1.0
+401909330,ATL,1630552,Jalen Johnson,,,1.0,,,
 401909330,ATL,1630557,Corey Kispert,,,1.0,,,
 401909330,ATL,1629111,Jock Landale,Out,Injury/Illness-RightGreatToeSprain,0.0,Landale (hip) is out for Friday's game against the Celtics.,,
 401909330,ATL,203468,CJ McCollum,Out,Injury/Illness-LeftCalfStrain,0.0,"McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network.",,
 401909330,ATL,1642854,Asa Newell,Out,Injury/Illness-LeftGreatToeSurgery,0.0,"Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he will be re-evaluated in approximately four months, Brad Rowland of the Locked On Podcast Network reports.",,
-401909330,ATL,1630168,Onyeka Okongwu,Starting,,1.0,,,1.0
+401909330,ATL,1630168,Onyeka Okongwu,,,1.0,,,
 401909330,ATL,905105571,Henri Veesaar,Out,,0.0,"Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",,
 401909330,ATL,1630598,Aaron Wiggins,,,1.0,,,
 401909330,ATL,1630592,Jalen Wilson,Out,GLeague-Two-Way,0.0,,,
@@ -39,29 +39,29 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909331,MIN,1641780,Johni Broome,,,1.0,,,
 401909331,MIN,1641740,Jaylen Clark,Out,Injury/Illness-RightHamstringStrain,0.0,Clark (hamstring) has been ruled out for the next two weeks.,,
 401909331,MIN,1628978,Donte DiVincenzo,Out,,0.0,"DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a return to game action in January, Jon Krawczynski of The Athletic reports.",,
-401909331,MIN,1630245,Ayo Dosunmu,,,1.0,,,
+401909331,MIN,1630245,Ayo Dosunmu,Starting,,1.0,,,1.0
 401909331,MIN,1630162,Anthony Edwards,Out,,0.0,"Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced.",,
 401909331,MIN,905061585,Isaiah Evans,,,1.0,,,
-401909331,MIN,203497,Rudy Gobert,,,1.0,,,
+401909331,MIN,203497,Rudy Gobert,Starting,,1.0,,,1.0
 401909331,MIN,1630538,Bones Hyland,,,1.0,,,
-401909331,MIN,1630228,Jonathan Kuminga,,,1.0,,,
+401909331,MIN,1630228,Jonathan Kuminga,Starting,,1.0,,,1.0
 401909331,MIN,1626168,Trey Lyles,,,1.0,,,
-401909331,MIN,1630183,Jaden McDaniels,,,1.0,,,
+401909331,MIN,1630183,Jaden McDaniels,Starting,,1.0,,,1.0
 401909331,MIN,1642389,Zyon Pullin,,,1.0,,,
-401909331,MIN,1630545,Terrence Shannon Jr.,,,1.0,,,
+401909331,MIN,1630545,Terrence Shannon Jr.,Starting,,1.0,,,1.0
 401909331,MIN,904895758,Cody Williams,,,1.0,,,
 401909331,MIN,1642911,Rocco Zikarsky,Out,GLeague-Two-Way,0.0,,,
 401909331,MEM,905041935,Cameron Boozer,Out,,0.0,"Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports.",,
-401909331,MEM,1642907,Cedric Coward,,,1.0,,,
-401909331,MEM,1641744,Zach Edey,Available,Injury/Illness-LeftAnkleSoreness,1.0,"Edey (ankle) is a game-time decision for Friday's game versus Minnesota, Jon Krawczynski of The Athletic reports.",,
+401909331,MEM,1642907,Cedric Coward,Starting,,1.0,,,1.0
+401909331,MEM,1641744,Zach Edey,Starting,Injury/Illness-LeftAnkleSoreness,1.0,"Edey (ankle) is a game-time decision for Friday's game versus Minnesota, Jon Krawczynski of The Athletic reports.",,1.0
 401909331,MEM,203924,Jerami Grant,Out,Injury/Illness-LeftCalfStrain,0.0,Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.,,
 401909331,MEM,1641707,Taylor Hendricks,,,1.0,,,
 401909331,MEM,1641713,GG Jackson,Out,,0.0,Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.,,
-401909331,MEM,1629660,Ty Jerome,,,1.0,,,
+401909331,MEM,1629660,Ty Jerome,Starting,,1.0,,,1.0
 401909331,MEM,905231919,Karim Lopez,Out,GLeague-OnAssignment,0.0,,,
 401909331,MEM,1643133,Lawson Lovering,,,1.0,,,
 401909331,MEM,1642942,Jahmai Mashack,,,1.0,,,
-401909331,MEM,1631200,Kris Murray,,,1.0,,,
+401909331,MEM,1631200,Kris Murray,Starting,,1.0,,,1.0
 401909331,MEM,1630590,Scotty Pippen Jr.,Out,,0.0,Pippen (back) is out for Wednesday's game against the Clippers.,,
 401909331,MEM,904593016,Quinten Post,,,1.0,,,
 401909331,MEM,1641765,Olivier-Maxence Prosper,,,1.0,,,
@@ -69,7 +69,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909331,MEM,1642914,Javon Small,,,1.0,,,
 401909331,MEM,1642285,Cam Spencer,,,1.0,,,
 401909331,MEM,1630191,Isaiah Stewart,Out,Injury/Illness-RightHipSoreness,0.0,"Stewart (hip) is out for Friday's game against the Timberwolves, Jon Krawczynski of The Athletic reports.",,
-401909331,MEM,1642377,Jaylen Wells,,,1.0,,,
+401909331,MEM,1642377,Jaylen Wells,Starting,,1.0,,,1.0
 401909332,PHX,1626164,Devin Booker,,,1.0,,,
 401909332,PHX,1631123,Jamaree Bouyea,,,1.0,,,
 401909332,PHX,1628970,Miles Bridges,,,1.0,,,
@@ -232,7 +232,7 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909336,GSW,1629646,Charles Bassey,,,1.0,,,
 401909336,GSW,202710,Jimmy Butler III,Out,,0.0,"Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.",,
 401909336,GSW,1643018,LJ Cryer,,,1.0,,,
-401909336,GSW,201939,Stephen Curry,Out,Injury/Illness-RightObliqueTear,0.0,"Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports.",,
+401909336,GSW,201939,Stephen Curry,Out,Injury/Illness-RightObliqueTear,0.0,"Curry (abdomen/oblique) has been ruled out for each of the Warriors' next three games, Anthony Slater of ESPN.com reports",,
 401909336,GSW,203110,Draymond Green,,,1.0,,,
 401909336,GSW,201143,Al Horford,,,1.0,,,
 401909336,GSW,904703396,Graham Ike,,,1.0,,,
