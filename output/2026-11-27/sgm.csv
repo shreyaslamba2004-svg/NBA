@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MIL @ DET,Tyler Herro pts under 20.5 + DET win,2,0.4509,0.4164,2.4,2.52,2.49,0.0364,1.046,2.10-2.50
-MIL @ DET,Kyle Kuzma pts under 12.5 + DET win,2,0.4376,0.4195,2.38,2.5,2.45,0.0293,1.049,2.10-2.50
-MIL @ DET,Brayden Burries pts under 10.5 + DET win,2,0.47,0.4248,2.35,2.47,2.39,0.0148,1.041,2.10-2.50
-MIL @ DET,Paul Reed 13+ pts + John Collins 10+ pra,2,0.5421,0.4654,2.15,2.26,2.08,-0.0321,1.002,1.85-2.10
-MIL @ DET,Ryan Rollins 10+ pts + John Collins 10+ pra,2,0.5435,0.4942,2.02,2.12,1.94,-0.0391,1.0,1.85-2.10
-MIL @ DET,Ryan Rollins 10+ pts + Javonte Green 5+ pa,2,0.5091,0.4685,2.13,2.24,2.05,-0.0399,1.002,1.85-2.10
-MIL @ DET,DET win + Javonte Green 1+ 3pm,2,0.6295,0.6122,1.63,1.71,1.52,-0.0686,1.009,1.50-1.65
-MIL @ DET,DET win + John Collins 4+ reb,2,0.6312,0.6133,1.63,1.71,1.51,-0.0756,1.001,1.50-1.65
-MIL @ DET,DET win + Ryan Rollins 10+ pr,2,0.6078,0.5966,1.68,1.76,1.52,-0.092,0.985,1.50-1.65
-MIL @ DET,DET win + Javonte Green 1+ 3pm + Kevin Huerter 1+ 3pm,3,0.5485,0.5152,1.94,2.04,1.71,-0.1183,1.014,1.65-1.85
-MIL @ DET,DET win + Javonte Green 1+ 3pm + Daniss Jenkins 1+ 3pm,3,0.5662,0.5335,1.87,1.97,1.65,-0.1185,1.014,1.65-1.85
-MIL @ DET,DET win + Javonte Green 5+ pa + John Collins 4+ reb,3,0.5717,0.5332,1.88,1.97,1.65,-0.1192,1.011,1.65-1.85
+MIL @ DET,Tyler Herro pts under 20.5 + DET win,2,0.4538,0.4164,2.4,2.52,2.49,0.0363,1.045,2.10-2.50
+MIL @ DET,Kyle Kuzma pts under 12.5 + DET win,2,0.4384,0.4183,2.39,2.51,2.45,0.0263,1.045,2.10-2.50
+MIL @ DET,Brayden Burries pts under 10.5 + DET win,2,0.471,0.4245,2.36,2.47,2.39,0.0141,1.039,2.10-2.50
+MIL @ DET,Paul Reed 13+ pts + John Collins 10+ pra,2,0.549,0.4671,2.14,2.25,2.08,-0.0285,1.003,1.85-2.10
+MIL @ DET,Ryan Rollins 10+ pts + Javonte Green 5+ pa,2,0.5362,0.4729,2.11,2.22,2.05,-0.031,1.001,1.85-2.10
+MIL @ DET,Ryan Rollins 10+ pts + John Collins 10+ pra,2,0.5443,0.4949,2.02,2.12,1.94,-0.0377,1.002,1.85-2.10
+MIL @ DET,DET win + Javonte Green 10+ pra,2,0.6734,0.6053,1.65,1.73,1.57,-0.0505,1.009,1.50-1.65
+MIL @ DET,DET win + Javonte Green 1+ 3pm,2,0.6666,0.6176,1.62,1.7,1.52,-0.0605,1.006,1.50-1.65
+MIL @ DET,DET win + John Collins 4+ reb,2,0.6298,0.6124,1.63,1.71,1.51,-0.0771,1.0,1.50-1.65
+MIL @ DET,DET win + Javonte Green 10+ pra + Kevin Huerter 1+ 3pm,3,0.5914,0.5125,1.95,2.05,1.76,-0.0957,1.02,1.65-1.85
+MIL @ DET,DET win + Javonte Green 10+ pra + Daniss Jenkins 1+ 3pm,3,0.6037,0.5272,1.9,1.99,1.7,-0.1017,1.015,1.65-1.85
+MIL @ DET,DET win + Javonte Green 10+ pra + Paul Reed 4+ reb,3,0.6257,0.5349,1.87,1.96,1.68,-0.1026,1.009,1.65-1.85
 PHI @ IND,Anfernee Simons 8+ pts + LeBron James 20+ pr,2,0.4954,0.4601,2.17,2.28,2.12,-0.0237,1.011,2.10-2.50
 PHI @ IND,Kentavious Caldwell-Pope 3pm under 1.5 + Anfernee Simons 3pm under 2.5,2,0.6078,0.4008,2.5,2.62,2.43,-0.0252,1.005,2.10-2.50
 PHI @ IND,Anfernee Simons 8+ pts + Joel Embiid 6+ reb,2,0.5272,0.4832,2.07,2.17,2.01,-0.0285,1.003,1.85-2.10
@@ -59,18 +59,18 @@ MEM @ MIN,Jaden McDaniels 4+ reb + Jaylen Wells 10+ pr + Trey Lyles 5+ pa,3,0.57
 MEM @ MIN,Rudy Gobert 5+ pa + Jaylen Wells 10+ pr + Trey Lyles 5+ pa,3,0.6576,0.5351,1.87,1.96,1.6,-0.1416,1.003,1.50-1.65
 MEM @ MIN,Jaden McDaniels 20+ pra + Jaylen Wells 10+ pr + Ayo Dosunmu 15+ pr,3,0.6841,0.5647,1.77,1.86,1.51,-0.1448,1.002,1.50-1.65
 MEM @ MIN,Jaylen Wells 10+ pr + Trey Lyles 5+ pa + Ayo Dosunmu 15+ pr,3,0.6342,0.532,1.88,1.97,1.61,-0.1458,1.005,1.50-1.65
-DAL @ PHX,Caleb Martin ast under 2.5 + Devin Booker 4+ ast,2,0.5588,0.3959,2.53,2.65,2.4,-0.049,0.998,2.10-2.50
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Jalen Green 1+ 3pm,2,0.7265,0.5275,1.9,1.99,1.8,-0.0528,1.001,1.65-1.85
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Devin Booker 4+ ast,2,0.7196,0.5162,1.94,2.03,1.83,-0.053,0.998,1.65-1.85
-DAL @ PHX,Caleb Martin ast under 2.5 + Devin Booker 1+ 3pm,2,0.5709,0.4183,2.39,2.51,2.26,-0.0561,0.999,2.10-2.50
-DAL @ PHX,Caleb Martin ast under 2.5 + Jalen Green 1+ 3pm,2,0.5593,0.4011,2.49,2.62,2.35,-0.0569,0.993,2.10-2.50
-DAL @ PHX,PHX win + Devin Booker 4+ ast,2,0.5352,0.4573,2.19,2.3,2.06,-0.0583,1.015,1.85-2.10
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Dillon Brooks 10+ pts,2,0.7099,0.5262,1.9,2.0,1.79,-0.0589,0.999,1.65-1.85
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Jalen Green 15+ pr,2,0.6613,0.4947,2.02,2.12,1.9,-0.0599,1.001,1.85-2.10
-DAL @ PHX,Caleb Martin ast under 2.5 + P.J. Washington 10+ pr,2,0.6044,0.4483,2.23,2.34,2.09,-0.0613,0.996,1.85-2.10
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Dillon Brooks 10+ pa,2,0.7665,0.5733,1.74,1.83,1.64,-0.0615,0.999,1.50-1.65
-DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 10+ pr,2,0.7808,0.5864,1.71,1.79,1.6,-0.0622,0.999,1.50-1.65
-DAL @ PHX,Dillon Brooks 10+ pts + Jalen Green 15+ pr,2,0.682,0.6028,1.66,1.74,1.5,-0.0956,1.006,1.50-1.65
+DAL @ PHX,game over 226.5 + Jalen Green 15+ pr,2,0.4687,0.3971,2.52,2.64,2.42,-0.0386,1.055,2.10-2.50
+DAL @ PHX,game over 226.5 + Dillon Brooks 10+ pts,2,0.4948,0.416,2.4,2.52,2.27,-0.0538,1.037,2.10-2.50
+DAL @ PHX,game over 226.5 + Dillon Brooks 15+ pra,2,0.5014,0.4208,2.38,2.5,2.25,-0.0542,1.036,2.10-2.50
+DAL @ PHX,PHX win + Devin Booker 4+ ast,2,0.5352,0.4606,2.17,2.28,2.04,-0.06,1.015,1.85-2.10
+DAL @ PHX,PHX win + Dillon Brooks 15+ pra,2,0.5366,0.4752,2.1,2.21,1.97,-0.063,1.019,1.85-2.10
+DAL @ PHX,PHX win + Dillon Brooks 10+ pts,2,0.5292,0.4694,2.13,2.24,2.0,-0.0631,1.02,1.85-2.10
+DAL @ PHX,PHX win + Dillon Brooks 10+ pa,2,0.5669,0.5061,1.98,2.07,1.83,-0.0724,1.011,1.65-1.85
+DAL @ PHX,PHX win + Devin Booker 20+ pra,2,0.5882,0.5333,1.87,1.97,1.73,-0.0784,1.008,1.65-1.85
+DAL @ PHX,Jordan Goodwin 3pm under 1.5 + Jalen Green 10+ pr,2,0.6424,0.5157,1.94,2.04,1.78,-0.0801,0.998,1.65-1.85
+DAL @ PHX,Devin Booker 4+ ast + Jalen Green 1+ 3pm + Dillon Brooks 1+ 3pm,3,0.663,0.5307,1.88,1.98,1.63,-0.1356,1.006,1.50-1.65
+DAL @ PHX,Jalen Green 1+ 3pm + Devin Booker 1+ 3pm + Dillon Brooks 10+ pts,3,0.6606,0.5331,1.88,1.97,1.61,-0.1394,1.003,1.50-1.65
+DAL @ PHX,Jalen Green 1+ 3pm + Devin Booker 1+ 3pm + Dillon Brooks 15+ pra,3,0.6689,0.5389,1.86,1.95,1.59,-0.1404,1.002,1.50-1.65
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + SAS win,2,0.4965,0.4115,2.43,2.55,2.44,0.0048,1.02,2.10-2.50
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.7139,0.5082,1.97,2.07,1.87,-0.0471,1.0,1.85-2.10
 LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Austin Reaves 10+ pr,2,0.7815,0.5614,1.78,1.87,1.69,-0.0496,0.999,1.65-1.85
@@ -106,7 +106,7 @@ NOP @ LAC,Herbert Jones 3pm under 1.5 + Derrick Jones Jr. 5+ pa,2,0.6964,0.5277,
 NOP @ LAC,Herbert Jones 3pm under 1.5 + Saddiq Bey 1+ 3pm,2,0.6896,0.5373,1.86,1.95,1.73,-0.0715,0.999,1.65-1.85
 NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6925,0.5927,1.69,1.77,1.53,-0.091,1.003,1.50-1.65
 NOP @ LAC,Brook Lopez 10+ pr + Jeremiah Fears 1+ 3pm,2,0.6518,0.5931,1.69,1.77,1.5,-0.1087,0.999,1.50-1.65
-NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 10+ pr,3,0.6889,0.545,1.83,1.93,1.59,-0.1347,1.004,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 10+ pr,3,0.6889,0.5465,1.83,1.92,1.58,-0.1352,1.004,1.50-1.65
 GSW @ POR,GSW +7.5 + Draymond Green 5+ pa,2,0.59,0.456,2.19,2.3,2.09,-0.0484,1.011,1.85-2.10
 GSW @ POR,GSW +7.5 + Yaxel Lendeborg 15+ pr,2,0.5825,0.4518,2.21,2.32,2.1,-0.0499,1.01,2.10-2.50
 GSW @ POR,Jrue Holiday 6+ ast + Sidy Cissoko 10+ pra,2,0.6037,0.4462,2.24,2.35,2.12,-0.0521,1.002,2.10-2.50

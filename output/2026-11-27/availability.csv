@@ -2,12 +2,12 @@ game_id,team,player_id,player_name,status,reason,play_prob,note,min_cap,starting
 401909327,DET,1628381,John Collins,Starting,,1.0,,,1.0
 401909327,DET,1630595,Cade Cunningham,Out,,0.0,Cunningham (knee) is out for Friday's game against the Bucks.,,
 401909327,DET,1631105,Jalen Duren,Out,Injury/Illness-RightHamstringStrain,0.0,Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday.,,
-401909327,DET,1629750,Javonte Green,,,1.0,,,
+401909327,DET,1629750,Javonte Green,Starting,,1.0,,,1.0
 401909327,DET,904397449,Elijah Harkless,,,1.0,,,
 401909327,DET,1641842,Ronald Holland II,,,1.0,,,
 401909327,DET,1628989,Kevin Huerter,Starting,,1.0,,,1.0
 401909327,DET,1642450,Daniss Jenkins,Starting,,1.0,,,1.0
-401909327,DET,1630198,Isaiah Joe,Starting,,1.0,,,1.0
+401909327,DET,1630198,Isaiah Joe,,,1.0,,,
 401909327,DET,905107818,Isaac Jones,,,1.0,,,
 401909327,DET,1642404,Chaz Lanier,,,1.0,,,
 401909327,DET,905258459,Ebuka Okorie,Out,Injury/Illness-LeftObliqueStrain,0.0,"The Pistons announced Tuesday that Okorie (oblique) will miss at least two weeks, per Eric Vincent of ClutchPoints.com.",,
