@@ -1,48 +1,54 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 15+ pr,2,0.5447,0.3991,2.51,2.63,2.4,-0.0428,1.009,2.10-2.50
-ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 15+ pa,2,0.5323,0.3956,2.53,2.65,2.42,-0.0438,1.011,2.10-2.50
-ORL @ WAS,Wendell Carter Jr. 13+ pa + Kyshawn George 15+ pr,2,0.5664,0.4144,2.41,2.53,2.3,-0.0451,1.005,2.10-2.50
-ORL @ WAS,Wendell Carter Jr. 13+ pa + Kyshawn George 1+ 3pm,2,0.6239,0.4741,2.11,2.21,1.99,-0.0568,1.002,1.85-2.10
-ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 1+ 3pm,2,0.5974,0.4547,2.2,2.31,2.07,-0.0586,1.001,1.85-2.10
-ORL @ WAS,Wendell Carter Jr. 13+ pa + Trae Young 1+ 3pm,2,0.5961,0.4563,2.19,2.3,2.06,-0.0597,1.0,1.85-2.10
-ORL @ WAS,Wendell Carter Jr. 15+ pr + Kyshawn George 15+ pr + Trae Young 10+ pts,3,0.6513,0.4821,2.07,2.18,1.84,-0.1134,1.012,1.65-1.85
-ORL @ WAS,Wendell Carter Jr. 15+ pr + Kyshawn George 10+ pts + Trae Young 20+ pra,3,0.6692,0.5081,1.97,2.07,1.73,-0.12,1.011,1.65-1.85
-ORL @ WAS,Wendell Carter Jr. 15+ pr + Kyshawn George 10+ pts + Trae Young 10+ pts,3,0.6722,0.5041,1.98,2.08,1.75,-0.1204,1.007,1.65-1.85
-BKN @ CHA,Naz Reid pr under 27.5 + Sion James 5+ pr,2,0.5779,0.4391,2.28,2.39,2.12,-0.0703,0.995,2.10-2.50
-BKN @ CHA,Naz Reid pr under 27.5 + Julius Randle 15+ pa,2,0.5745,0.4509,2.22,2.33,2.06,-0.0727,1.0,1.85-2.10
-BKN @ CHA,Day'Ron Sharpe 9+ pts + Julius Randle 15+ pa,2,0.5222,0.4315,2.32,2.43,2.14,-0.0744,1.007,2.10-2.50
-BKN @ CHA,Naz Reid pr under 27.5 + Day'Ron Sharpe 10+ pra,2,0.6031,0.4719,2.12,2.22,1.96,-0.0745,0.997,1.85-2.10
-BKN @ CHA,Naz Reid pr under 27.5 + Day'Ron Sharpe 10+ pr,2,0.5622,0.4362,2.29,2.41,2.12,-0.0746,0.995,2.10-2.50
-BKN @ CHA,Coby White pr under 20.5 + Day'Ron Sharpe 10+ pr,2,0.5597,0.4468,2.24,2.35,2.07,-0.0759,1.002,1.85-2.10
-BKN @ CHA,Moussa Diabate 2+ ast + Sion James 5+ pr,2,0.6306,0.5151,1.94,2.04,1.79,-0.0801,1.0,1.65-1.85
-BKN @ CHA,Moussa Diabate 2+ ast + Day'Ron Sharpe 10+ pr,2,0.6132,0.5116,1.95,2.05,1.79,-0.0846,1.0,1.65-1.85
-BKN @ CHA,Moussa Diabate 2+ ast + Julius Randle 15+ pa,2,0.6241,0.5266,1.9,1.99,1.73,-0.0866,1.001,1.65-1.85
-IND @ CHI,Josh Giddey 23+ pa + Nic Claxton 10+ pr,2,0.5265,0.4089,2.45,2.57,2.29,-0.0647,1.007,2.10-2.50
-IND @ CHI,Josh Giddey 14+ pts + Nic Claxton 10+ pr,2,0.4928,0.391,2.56,2.69,2.39,-0.0666,1.006,2.10-2.50
-IND @ CHI,game over 235.5 + Nic Claxton 10+ pr,2,0.4694,0.4023,2.49,2.61,2.32,-0.0673,1.026,2.10-2.50
-IND @ CHI,CHI win + Nic Claxton 10+ pr,2,0.4489,0.4595,2.18,2.28,2.02,-0.0699,1.017,1.85-2.10
-IND @ CHI,Josh Giddey 23+ pa + Matas Buzelis 15+ pr,2,0.5482,0.4469,2.24,2.35,2.08,-0.0711,1.012,1.85-2.10
-IND @ CHI,Josh Giddey 30+ pra + Matas Buzelis 15+ pr,2,0.564,0.4612,2.17,2.28,2.01,-0.0732,1.01,1.85-2.10
-IND @ CHI,CHI win + Josh Giddey 20+ pra,2,0.4793,0.5045,1.98,2.08,1.83,-0.077,1.016,1.65-1.85
-IND @ CHI,CHI win + Matas Buzelis 15+ pr,2,0.4658,0.5004,2.0,2.1,1.84,-0.0795,1.019,1.65-1.85
-IND @ CHI,CHI win + Tre Jones 10+ pra,2,0.4783,0.5121,1.95,2.05,1.79,-0.0857,1.011,1.65-1.85
+ORL @ WAS,Wendell Carter Jr. 22+ pra + Kyshawn George 15+ pr,2,0.5424,0.3885,2.57,2.7,2.47,-0.0416,1.007,2.10-2.50
+ORL @ WAS,Wendell Carter Jr. 22+ pra + Kyshawn George 15+ pa,2,0.5296,0.3832,2.61,2.74,2.5,-0.0424,1.009,2.10-2.50
+ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 15+ pr,2,0.5447,0.4001,2.5,2.62,2.39,-0.0434,1.009,2.10-2.50
+ORL @ WAS,Wendell Carter Jr. 20+ pr + Kyshawn George 1+ 3pm,2,0.5974,0.4562,2.19,2.3,2.06,-0.0593,1.001,1.85-2.10
+ORL @ WAS,Wendell Carter Jr. 13+ pa + Kyshawn George 1+ 3pm,2,0.6239,0.473,2.11,2.22,1.98,-0.063,1.002,1.85-2.10
+ORL @ WAS,Wendell Carter Jr. 11+ pts + Trae Young 10+ pts,2,0.5901,0.4493,2.23,2.34,2.09,-0.0632,1.003,1.85-2.10
+ORL @ WAS,Wendell Carter Jr. 15+ pr + Kyshawn George 15+ pr + Trae Young 10+ pts,3,0.6513,0.4845,2.06,2.17,1.83,-0.1144,1.012,1.65-1.85
+ORL @ WAS,Wendell Carter Jr. 15+ pr + Kyshawn George 10+ pts + Trae Young 10+ pts,3,0.6722,0.5053,1.98,2.08,1.74,-0.1208,1.007,1.65-1.85
+ORL @ WAS,Wendell Carter Jr. 15+ pr + Kyshawn George 10+ pts + Anthony Davis 8+ reb,3,0.6244,0.4748,2.11,2.21,1.85,-0.1216,1.009,1.65-1.85
+ORL @ WAS,Trae Young 10+ pts + Kyshawn George 1+ 3pm + Anthony Davis 8+ reb,3,0.6669,0.5463,1.83,1.92,1.57,-0.1424,1.003,1.50-1.65
+ORL @ WAS,Trae Young 10+ pts + Kyshawn George 10+ pr + Anthony Davis 8+ reb,3,0.694,0.5677,1.76,1.85,1.51,-0.1428,1.003,1.50-1.65
+ORL @ WAS,Trae Young 10+ pts + Anthony Davis 8+ reb + Kyshawn George 10+ pa,3,0.688,0.567,1.76,1.85,1.51,-0.1438,1.003,1.50-1.65
+BKN @ CHA,Naz Reid pr under 27.5 + Sion James 5+ pr,2,0.5779,0.4333,2.31,2.42,2.15,-0.0667,0.995,2.10-2.50
+BKN @ CHA,Naz Reid pra under 30.5 + Sion James 5+ pr,2,0.5786,0.4362,2.29,2.41,2.13,-0.0692,0.994,2.10-2.50
+BKN @ CHA,Naz Reid pr under 27.5 + Julius Randle 15+ pa,2,0.5745,0.4472,2.24,2.35,2.08,-0.0701,1.0,1.85-2.10
+BKN @ CHA,Day'Ron Sharpe 9+ pts + Julius Randle 15+ pts,2,0.4562,0.3841,2.6,2.73,2.42,-0.0702,1.017,2.10-2.50
+BKN @ CHA,Naz Reid pr under 27.5 + Day'Ron Sharpe 10+ pra,2,0.6031,0.4659,2.15,2.25,1.99,-0.071,0.997,1.85-2.10
+BKN @ CHA,Naz Reid pra under 30.5 + Day'Ron Sharpe 10+ pra,2,0.6049,0.4699,2.13,2.23,1.98,-0.0717,0.998,1.85-2.10
+BKN @ CHA,Moussa Diabate reb under 11.5 + Day'Ron Sharpe 10+ pra,2,0.6295,0.5182,1.93,2.03,1.77,-0.0844,1.0,1.65-1.85
+BKN @ CHA,Moussa Diabate pra under 24.5 + Day'Ron Sharpe 10+ pra,2,0.5981,0.4996,2.0,2.1,1.83,-0.088,1.0,1.65-1.85
+BKN @ CHA,Naz Reid reb under 8.5 + Day'Ron Sharpe 10+ pra,2,0.6113,0.5096,1.96,2.06,1.79,-0.0883,0.999,1.65-1.85
+IND @ CHI,Josh Giddey 23+ pa + Nic Claxton 10+ pr,2,0.5265,0.416,2.4,2.52,2.25,-0.065,1.007,2.10-2.50
+IND @ CHI,Josh Giddey 14+ pts + Nic Claxton 10+ pr,2,0.4928,0.3977,2.51,2.64,2.34,-0.0686,1.006,2.10-2.50
+IND @ CHI,Josh Giddey 23+ pa + Tre Jones 10+ pr,2,0.4995,0.4048,2.47,2.59,2.3,-0.0692,1.009,2.10-2.50
+IND @ CHI,Josh Giddey 23+ pa + Matas Buzelis 15+ pr,2,0.5482,0.452,2.21,2.32,2.06,-0.0703,1.012,1.85-2.10
+IND @ CHI,CHI win + Nic Claxton 10+ pr,2,0.4489,0.4612,2.17,2.28,2.02,-0.0706,1.017,1.85-2.10
+IND @ CHI,Josh Giddey 30+ pra + Matas Buzelis 15+ pr,2,0.564,0.4673,2.14,2.25,1.98,-0.0731,1.01,1.85-2.10
+IND @ CHI,CHI win + Josh Giddey 20+ pra,2,0.4793,0.5071,1.97,2.07,1.82,-0.0781,1.016,1.65-1.85
+IND @ CHI,CHI win + Matas Buzelis 15+ pr,2,0.4658,0.4995,2.0,2.1,1.84,-0.0791,1.019,1.65-1.85
+IND @ CHI,CHI win + Tre Jones 10+ pra,2,0.4783,0.513,1.95,2.05,1.78,-0.0861,1.011,1.65-1.85
+IND @ CHI,Josh Giddey 1+ 3pm + Tre Jones 10+ pr,2,0.6618,0.59,1.69,1.78,1.52,-0.1023,1.001,1.50-1.65
+IND @ CHI,Josh Giddey 1+ 3pm + Matas Buzelis 4+ reb,2,0.6694,0.5917,1.69,1.77,1.51,-0.1042,0.997,1.50-1.65
+IND @ CHI,Josh Giddey 1+ 3pm + Nic Claxton 4+ reb,2,0.6623,0.5863,1.71,1.79,1.53,-0.1043,0.997,1.50-1.65
 OKC @ MIL,Tyler Herro pts under 21.5 + OKC win,2,0.4903,0.457,2.19,2.3,2.15,-0.0165,1.043,2.10-2.50
 OKC @ MIL,Myles Turner 3pm under 1.5 + OKC win,2,0.479,0.4405,2.27,2.38,2.2,-0.0296,1.025,2.10-2.50
 OKC @ MIL,Ryan Rollins pts under 10.5 + OKC win,2,0.4255,0.4148,2.41,2.53,2.33,-0.0321,1.039,2.10-2.50
-OKC @ MIL,Ryan Rollins 3pm under 1.5 + OKC win,2,0.4661,0.4624,2.16,2.27,2.05,-0.0515,1.023,1.85-2.10
-OKC @ MIL,Myles Turner 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.6111,0.4721,2.12,2.22,1.97,-0.0694,1.0,1.85-2.10
-OKC @ MIL,Tyler Herro pts under 21.5 + Jared McCain 1+ 3pm,2,0.6136,0.4805,2.08,2.19,1.93,-0.0747,0.998,1.85-2.10
-OKC @ MIL,Ryan Rollins 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.5973,0.4979,2.01,2.11,1.84,-0.0863,1.002,1.65-1.85
-OKC @ MIL,OKC win + Kenrich Williams 1+ 3pm + Jared McCain 1+ 3pm,3,0.5562,0.5642,1.77,1.86,1.55,-0.1273,1.014,1.50-1.65
-PHI @ HOU,Kevin Durant 25+ pa + HOU win,2,0.4838,0.4328,2.31,2.43,2.28,-0.0151,1.042,2.10-2.50
-PHI @ HOU,Kevin Durant 30+ pra + HOU win,2,0.5027,0.4569,2.19,2.3,2.14,-0.0231,1.036,2.10-2.50
-PHI @ HOU,Kevin Durant 4+ ast + HOU win,2,0.4879,0.4419,2.26,2.38,2.19,-0.0307,1.027,2.10-2.50
-PHI @ HOU,Kevin Durant 30+ pra + Jabari Smith Jr. 10+ pa,2,0.5838,0.4509,2.22,2.33,2.09,-0.0587,1.01,1.85-2.10
-PHI @ HOU,Kevin Durant 30+ pra + Alperen Sengun 4+ ast,2,0.5967,0.469,2.13,2.24,2.0,-0.0632,1.009,1.85-2.10
-PHI @ HOU,Kevin Durant 4+ ast + Alperen Sengun 4+ ast,2,0.5832,0.4568,2.19,2.3,2.05,-0.0638,1.008,1.85-2.10
-PHI @ HOU,HOU win + Kevin Durant 20+ pr + Jabari Smith Jr. 15+ pr,3,0.5427,0.5134,1.95,2.05,1.75,-0.102,1.034,1.65-1.85
-PHI @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Kevin Durant 15+ pts,3,0.5386,0.5121,1.95,2.05,1.75,-0.1023,1.035,1.65-1.85
-PHI @ HOU,HOU win + Jabari Smith Jr. 10+ pa + Kevin Durant 15+ pts,3,0.5689,0.5413,1.85,1.94,1.65,-0.1043,1.033,1.65-1.85
-PHI @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Alperen Sengun 4+ ast,3,0.5616,0.5429,1.84,1.93,1.64,-0.1114,1.029,1.50-1.65
-PHI @ HOU,HOU win + Kevin Durant 15+ pts + Alperen Sengun 4+ ast,3,0.5794,0.5611,1.78,1.87,1.58,-0.1117,1.029,1.50-1.65
-PHI @ HOU,HOU win + Jabari Smith Jr. 10+ pa + Alperen Sengun 4+ ast,3,0.5939,0.5745,1.74,1.83,1.54,-0.1123,1.028,1.50-1.65
+OKC @ MIL,Ryan Rollins 3pm under 1.5 + OKC win,2,0.4661,0.4681,2.14,2.24,2.02,-0.0545,1.023,1.85-2.10
+OKC @ MIL,Myles Turner 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.6111,0.4707,2.12,2.23,1.98,-0.0687,1.0,1.85-2.10
+OKC @ MIL,Tyler Herro pts under 21.5 + Jared McCain 1+ 3pm,2,0.6136,0.4791,2.09,2.19,1.93,-0.0741,0.998,1.85-2.10
+OKC @ MIL,Ryan Rollins 3pm under 1.5 + Jared McCain 1+ 3pm,2,0.5973,0.5025,1.99,2.09,1.81,-0.0885,1.002,1.65-1.85
+OKC @ MIL,OKC win + Kenrich Williams 1+ 3pm + Jared McCain 1+ 3pm,3,0.5562,0.5625,1.78,1.87,1.55,-0.1268,1.014,1.50-1.65
+PHI @ HOU,Jabari Smith Jr. 15+ pa + HOU win,2,0.4562,0.4293,2.33,2.45,2.38,0.0222,1.039,2.10-2.50
+PHI @ HOU,Jabari Smith Jr. 15+ pa + Kevin Durant 25+ pra,2,0.5033,0.3991,2.51,2.63,2.49,-0.0064,1.017,2.10-2.50
+PHI @ HOU,Jabari Smith Jr. 15+ pa + Kevin Durant 15+ pts,2,0.5166,0.4218,2.37,2.49,2.33,-0.0172,1.013,2.10-2.50
+PHI @ HOU,HOU win + Kevin Durant 25+ pra,2,0.6224,0.619,1.62,1.7,1.51,-0.0644,1.021,1.50-1.65
+PHI @ HOU,Kevin Durant 4+ ast + Alperen Sengun 6+ reb,2,0.5816,0.4525,2.21,2.32,2.06,-0.0657,1.004,1.85-2.10
+PHI @ HOU,Kevin Durant 4+ ast + Jabari Smith Jr. 1+ 3pm,2,0.5813,0.4542,2.2,2.31,2.06,-0.0658,1.005,1.85-2.10
+PHI @ HOU,Kevin Durant 25+ pa + Jabari Smith Jr. 1+ 3pm,2,0.5683,0.4451,2.25,2.36,2.1,-0.0662,1.005,1.85-2.10
+PHI @ HOU,HOU win + Kevin Durant 25+ pra + Jabari Smith Jr. 10+ pa,3,0.5553,0.5143,1.94,2.04,1.76,-0.0951,1.039,1.65-1.85
+PHI @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Kevin Durant 15+ pts,3,0.5386,0.5138,1.95,2.04,1.74,-0.1052,1.035,1.65-1.85
+PHI @ HOU,HOU win + Kevin Durant 25+ pra + Jabari Smith Jr. 1+ 3pm,3,0.5633,0.5297,1.89,1.98,1.69,-0.1052,1.031,1.65-1.85
+PHI @ HOU,HOU win + Jabari Smith Jr. 10+ pa + Kevin Durant 15+ pts,3,0.5689,0.5424,1.84,1.94,1.65,-0.1067,1.033,1.50-1.65
+PHI @ HOU,HOU win + Jabari Smith Jr. 10+ pa + Kevin Durant 20+ pr,3,0.5726,0.5469,1.83,1.92,1.63,-0.1091,1.031,1.50-1.65
