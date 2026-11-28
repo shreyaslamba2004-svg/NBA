@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-DAL @ PHX,Zaccharie Risacher pts under 9.5 + Jalen Green 1+ 3pm,2,0.4268,0.4045,2.47,2.6,2.43,-0.0176,0.999,2.10-2.50
-DAL @ PHX,Zaccharie Risacher pts under 9.5 + Devin Booker 4+ ast,2,0.421,0.4015,2.49,2.62,2.43,-0.0225,0.996,2.10-2.50
-DAL @ PHX,Zaccharie Risacher pts under 9.5 + P.J. Washington 10+ pr,2,0.4698,0.4512,2.22,2.33,2.17,-0.0229,0.997,2.10-2.50
-DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 4+ reb,2,0.6731,0.4749,2.11,2.21,2.01,-0.0478,0.999,1.85-2.10
-DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 15+ pra,2,0.6646,0.4662,2.15,2.25,2.04,-0.0478,0.997,1.85-2.10
-DAL @ PHX,Caleb Martin 3pm under 1.5 + Jalen Green 1+ 3pm,2,0.6812,0.491,2.04,2.14,1.93,-0.0522,1.0,1.85-2.10
-DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 10+ pr,2,0.7517,0.5491,1.82,1.91,1.72,-0.055,1.0,1.65-1.85
-DAL @ PHX,P.J. Washington 15+ pra + Jalen Green 1+ 3pm,2,0.7403,0.6053,1.65,1.73,1.51,-0.0831,1.001,1.50-1.65
-DAL @ PHX,P.J. Washington 15+ pra + Devin Booker 4+ ast,2,0.7325,0.6029,1.66,1.74,1.52,-0.0847,1.001,1.50-1.65
-DAL @ PHX,P.J. Washington 15+ pra + Jalen Green 1+ 3pm + Devin Booker 4+ ast,3,0.6395,0.4825,2.07,2.18,1.82,-0.1236,1.005,1.65-1.85
-DAL @ PHX,P.J. Washington 4+ reb + Jalen Green 1+ 3pm + Devin Booker 4+ ast,3,0.6454,0.4898,2.04,2.14,1.78,-0.1267,1.003,1.65-1.85
-DAL @ PHX,P.J. Washington 4+ reb + Devin Booker 1+ 3pm + Dillon Brooks 15+ pra,3,0.6613,0.5245,1.91,2.0,1.65,-0.1355,1.003,1.50-1.65
+DAL @ PHX,Zaccharie Risacher pts under 9.5 + Jalen Green 1+ 3pm,2,0.4268,0.4044,2.47,2.6,2.41,-0.0272,0.999,2.10-2.50
+DAL @ PHX,Zaccharie Risacher 10+ pts + Devin Booker 4+ ast,2,0.4396,0.3946,2.53,2.66,2.46,-0.0277,1.004,2.10-2.50
+DAL @ PHX,Zaccharie Risacher 10+ pts + Jalen Green 1+ 3pm,2,0.4428,0.3955,2.53,2.65,2.45,-0.0296,1.001,2.10-2.50
+DAL @ PHX,Zaccharie Risacher pts under 9.5 + P.J. Washington 10+ pra,2,0.4778,0.4619,2.16,2.27,2.09,-0.0328,0.998,1.85-2.10
+DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 15+ pra,2,0.6646,0.4639,2.16,2.26,2.06,-0.0465,0.997,1.85-2.10
+DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 4+ reb,2,0.6731,0.4729,2.11,2.22,2.02,-0.0467,0.999,1.85-2.10
+DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 10+ pr,2,0.7517,0.5479,1.83,1.92,1.73,-0.0545,1.0,1.65-1.85
+DAL @ PHX,P.J. Washington 10+ pa + Jalen Green 1+ 3pm,2,0.7238,0.6065,1.65,1.73,1.5,-0.089,1.001,1.50-1.65
+DAL @ PHX,P.J. Washington 10+ pa + Devin Booker 4+ ast,2,0.7159,0.6029,1.66,1.74,1.51,-0.0904,1.001,1.50-1.65
+DAL @ PHX,P.J. Washington 10+ pa + Daniel Gafford 15+ pra,2,0.6682,0.5718,1.75,1.84,1.59,-0.092,1.003,1.50-1.65
+DAL @ PHX,P.J. Washington 15+ pra + Jalen Green 1+ 3pm + Devin Booker 4+ ast,3,0.6395,0.4791,2.09,2.19,1.83,-0.1219,1.005,1.65-1.85
+DAL @ PHX,P.J. Washington 4+ reb + Jalen Green 1+ 3pm + Devin Booker 4+ ast,3,0.6454,0.4867,2.05,2.16,1.8,-0.1252,1.003,1.65-1.85
 LAL @ SAS,Walker Kessler pts under 11.5 + Collin Sexton 5+ pr,2,0.5341,0.4211,2.37,2.49,2.33,-0.0184,0.995,2.10-2.50
 LAL @ SAS,Walker Kessler pts under 11.5 + Devin Vassell 1+ 3pm,2,0.5145,0.415,2.41,2.53,2.37,-0.0184,1.001,2.10-2.50
 LAL @ SAS,Walker Kessler pts under 11.5 + Dylan Harper 15+ pra,2,0.5108,0.4069,2.46,2.58,2.4,-0.0215,0.995,2.10-2.50
