@@ -1,6 +1,6 @@
 # NBA model · Sat 28 Nov 2026 (US date)
 
-Updated **Sun 29 Nov, 12:23 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-28/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
+Updated **Sun 29 Nov, 12:24 AM** Sydney time. Decimal odds. Stakes are quarter-Kelly as % of bankroll, capped at 2%. **EV and stake use the Blend** of model and no-vig market (the model alone hasn't beaten closing lines in backtests); the model-only view is shown alongside. Lines a point or two off DraftKings': [ladders](output/2026-11-28/ladders.md). Is the model getting better or worse? See [HEALTH.md](HEALTH.md). Past days, projected vs actual: [history](history/README.md).
 
 ## Sanity checks
 
@@ -18,7 +18,7 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 
 | Bet | Game | Book | Odds | Min odds | Fair (model) | Model | No-vig mkt | Blend | EV | EV model only | Stake |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Franz Wagner PTS over 44.5 (45+) | ORL @ WAS | draftkings | 28.00 | 24.10 | 12.75 | 7.8% | 3.3% | 4.2% | +16.3% | +119.5% | 0.1% |
+| Franz Wagner PTS over 44.5 (45+) | ORL @ WAS | draftkings | 30.00 | 25.19 | 12.75 | 7.8% | 3.1% | 4.0% | +19.1% | +135.2% | 0.2% |
 | Kevin Durant PRA over 49.5 (50+) | PHI @ HOU | draftkings | 22.00 | 19.19 | 10.45 | 9.6% | 4.2% | 5.2% | +14.6% | +110.4% | 0.2% |
 | Josh Giddey PRA over 44.5 (45+) | IND @ CHI | draftkings | 15.60 | 13.66 | 7.50 | 13.3% | 6.0% | 7.3% | +14.2% | +107.9% | 0.2% |
 | Dominick Barlow REB over 9.5 (10+) | PHI @ HOU | draftkings | 17.40 | 15.53 | 8.88 | 11.3% | 5.4% | 6.4% | +12.0% | +96.0% | 0.2% |
@@ -30,10 +30,9 @@ Same rules as best bets, kept apart because the model's tails (big nights, rare 
 | Josh Giddey PRA over 39.5 (40+) | IND @ CHI | draftkings | 7.10 | 6.54 | 4.00 | 25.0% | 13.2% | 15.3% | +8.7% | +77.5% | 0.4% |
 | Josh Giddey AST over 13.5 (14+) | IND @ CHI | draftkings | 9.10 | 8.55 | 5.50 | 18.2% | 10.3% | 11.7% | +6.5% | +65.3% | 0.2% |
 | Wendell Carter Jr. PR over 34.5 (35+) | ORL @ WAS | draftkings | 20.80 | 19.65 | 12.83 | 7.8% | 4.5% | 5.1% | +5.9% | +62.1% | 0.1% |
-| Anthony Davis BLK over 3.5 (4+) | ORL @ WAS | draftkings | 14.80 | 13.99 | 9.15 | 10.9% | 6.3% | 7.1% | +5.8% | +61.8% | 0.1% |
 | Tyrese Maxey PR over 44.5 (45+) | PHI @ HOU | draftkings | 10.30 | 9.74 | 6.37 | 15.7% | 9.1% | 10.3% | +5.8% | +61.7% | 0.2% |
-| Anthony Davis BLK over 2.5 (3+) | ORL @ WAS | draftkings | 6.23 | 5.89 | 3.86 | 25.9% | 15.0% | 17.0% | +5.8% | +61.4% | 0.3% |
 | Kevin Durant AST over 7.5 (8+) | PHI @ HOU | draftkings | 15.00 | 14.18 | 9.31 | 10.7% | 6.2% | 7.0% | +5.7% | +61.1% | 0.1% |
+| Anthony Davis BLK over 2.5 (3+) | ORL @ WAS | draftkings | 6.17 | 5.85 | 3.86 | 25.9% | 15.2% | 17.1% | +5.5% | +59.9% | 0.3% |
 
 ## Not on Sportsbet: check other books (EV ≥ 5%, odds ≤ 4)
 
@@ -74,10 +73,10 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Paolo
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Franz Wagner | 99% | 36.9<br><sub>38,36,36,32,38</sub> | 29.1<br><sub>21,27,35,16,20</sub> | 24.5 · –<br><sub>o 53% · u 47%</sub> | 7.1<br><sub>8,8,5,8,9</sub> | 6.5<br><sub>o 53% · u 47%</sub> | 7.7<br><sub>9,11,7,6,6</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.5<br><sub>0,1,2,0,0</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.4 | 0.4 | 2.8 | 43.8 |
+| Franz Wagner | 99% | 36.9<br><sub>38,36,36,32,38</sub> | 29.1<br><sub>21,27,35,16,20</sub> | 24.5 · –<br><sub>o 52% · u 48%</sub> | 7.1<br><sub>8,8,5,8,9</sub> | 6.5<br><sub>o 53% · u 47%</sub> | 7.7<br><sub>9,11,7,6,6</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.5<br><sub>0,1,2,0,0</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.4 | 0.4 | 2.8 | 43.8 |
 | Desmond Bane | 99% | 36.6<br><sub>39,38,31,33,34</sub> | 22.6<br><sub>24,15,21,17,21</sub> | 19.5 · –<br><sub>o 49% · u 51%</sub> | 4.7<br><sub>8,3,2,1,1</sub> | 3.5<br><sub>o 56% · u 44%</sub> | 4.1<br><sub>5,3,3,5,5</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 3.5<br><sub>3,5,7,3,4</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 1.5 | 0.4 | 2.0 | 31.4 |
-| Wendell Carter Jr. | 99% | 34.3<br><sub>28,32,35,26,38</sub> | 14.4<br><sub>10,15,8,9,9</sub> | 10.5 · –<br><sub>o 55% · u 45%</sub> | 9.4<br><sub>3,8,8,6,13</sub> | 8.5<br><sub>o 47% · u 53%</sub> | 2.2<br><sub>1,3,2,3,2</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 1.0<br><sub>1,2,0,1,1</sub> |  | 1.0 | 0.9 | 1.6 | 26.1 |
-| Jalen Suggs | 98% | 32.4<br><sub>25,31,30,22,33</sub> | 13.7<br><sub>12,18,8,9,4</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 4.7<br><sub>6,8,6,4,3</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 5.2<br><sub>4,4,2,2,5</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 2.0<br><sub>2,5,2,0,0</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.9 | 0.6 | 2.6 | 23.6 |
+| Wendell Carter Jr. | 99% | 34.3<br><sub>28,32,35,26,38</sub> | 14.4<br><sub>10,15,8,9,9</sub> | 10.5 · –<br><sub>o 55% · u 45%</sub> | 9.4<br><sub>3,8,8,6,13</sub> | 8.5<br><sub>o 47% · u 53%</sub> | 2.2<br><sub>1,3,2,3,2</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 1.0<br><sub>1,2,0,1,1</sub> |  | 1.0 | 0.9 | 1.6 | 26.1 |
+| Jalen Suggs | 98% | 32.4<br><sub>25,31,30,22,33</sub> | 13.7<br><sub>12,18,8,9,4</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 4.7<br><sub>6,8,6,4,3</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 5.2<br><sub>4,4,2,2,5</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 2.0<br><sub>2,5,2,0,0</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.9 | 0.6 | 2.6 | 23.6 |
 | Tristan da Silva | 91% | 30.8<br><sub>31,27,24,27,33</sub> | 14.2<br><sub>13,12,6,18,16</sub> | 11.5 · –<br><sub>o 52% · u 48%</sub> | 4.3<br><sub>6,2,1,3,3</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 2.0<br><sub>3,0,2,0,1</sub> |  | 2.4<br><sub>3,2,2,4,4</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 0.8 | 0.2 | 1.1 | 20.5 |
 | Jevon Carter | 91% | 18.9<br><sub>12,16,10,14,19</sub> | 6.8<br><sub>3,6,3,3,9</sub> |  | 1.8<br><sub>2,2,0,2,0</sub> |  | 2.0<br><sub>1,3,0,2,0</sub> |  | 1.1<br><sub>1,2,1,1,3</sub> |  | 0.9 | 0.2 | 0.6 | 10.6 |
 | Goga Bitadze | 96% | 17.1<br><sub>20,20,15,15,13</sub> | 6.2<br><sub>10,8,4,1,2</sub> |  | 6.0<br><sub>6,3,4,4,8</sub> |  | 1.3<br><sub>1,1,1,1,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.6 | 1.1 | 0.8 | 13.5 |
@@ -112,11 +111,11 @@ Out: Justin Champagnie (WAS), Tristan Vukcevic (WAS), Jamir Watkins (WAS), Paolo
 
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
-| Franz Wagner (ORL) | 99% | 35.0<br><sub>38,36,36,32,38</sub> | 26.8<br><sub>21,27,35,16,20</sub> | 24.5 · –<br><sub>o 53% · u 47%</sub> | 6.5<br><sub>8,8,5,8,9</sub> | 6.5<br><sub>o 53% · u 47%</sub> | 7.0<br><sub>9,11,7,6,6</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.4<br><sub>0,1,2,0,0</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.3 | 0.4 | 2.6 | 40.3 |
+| Franz Wagner (ORL) | 99% | 35.0<br><sub>38,36,36,32,38</sub> | 26.8<br><sub>21,27,35,16,20</sub> | 24.5 · –<br><sub>o 52% · u 48%</sub> | 6.5<br><sub>8,8,5,8,9</sub> | 6.5<br><sub>o 53% · u 47%</sub> | 7.0<br><sub>9,11,7,6,6</sub> | 7.5<br><sub>o 46% · u 54%</sub> | 1.4<br><sub>0,1,2,0,0</sub> | 1.5<br><sub>o 41% · u 59%</sub> | 1.3 | 0.4 | 2.6 | 40.3 |
 | Desmond Bane (ORL) | 99% | 33.6<br><sub>39,38,31,33,34</sub> | 20.0<br><sub>24,15,21,17,21</sub> | 19.5 · –<br><sub>o 49% · u 51%</sub> | 4.3<br><sub>8,3,2,1,1</sub> | 3.5<br><sub>o 56% · u 44%</sub> | 3.5<br><sub>5,3,3,5,5</sub> | 3.5<br><sub>o 46% · u 54%</sub> | 3.2<br><sub>3,5,7,3,4</sub> | 3.5<br><sub>o 45% · u 55%</sub> | 1.4 | 0.4 | 1.7 | 27.8 |
 | Anthony Black (ORL) | 100% | 32.4<br><sub>33,37,37,35,28</sub> | 15.1<br><sub>20,15,13,14,5</sub> | 14.5 · – | 4.4<br><sub>2,2,7,5,4</sub> | 4.5 | 4.5<br><sub>7,6,6,2,2</sub> | 4.5 | 1.6<br><sub>3,2,2,2,0</sub> | 1.5 | 1.8 | 0.7 | 2.3 | 23.9 |
-| Wendell Carter Jr. (ORL) | 99% | 31.5<br><sub>28,32,35,26,38</sub> | 13.1<br><sub>10,15,8,9,9</sub> | 10.5 · –<br><sub>o 55% · u 45%</sub> | 8.8<br><sub>3,8,8,6,13</sub> | 8.5<br><sub>o 47% · u 53%</sub> | 1.9<br><sub>1,3,2,3,2</sub> | 1.5<br><sub>o 52% · u 48%</sub> | 0.9<br><sub>1,2,0,1,1</sub> |  | 0.9 | 0.9 | 1.5 | 23.8 |
-| Jalen Suggs (ORL) | 98% | 28.7<br><sub>25,31,30,22,33</sub> | 11.6<br><sub>12,18,8,9,4</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 4.2<br><sub>6,8,6,4,3</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 4.6<br><sub>4,4,2,2,5</sub> | 4.5<br><sub>o 53% · u 47%</sub> | 1.7<br><sub>2,5,2,0,0</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.7 | 0.6 | 2.2 | 20.3 |
+| Wendell Carter Jr. (ORL) | 99% | 31.5<br><sub>28,32,35,26,38</sub> | 13.1<br><sub>10,15,8,9,9</sub> | 10.5 · –<br><sub>o 55% · u 45%</sub> | 8.8<br><sub>3,8,8,6,13</sub> | 8.5<br><sub>o 47% · u 53%</sub> | 1.9<br><sub>1,3,2,3,2</sub> | 1.5<br><sub>o 53% · u 47%</sub> | 0.9<br><sub>1,2,0,1,1</sub> |  | 0.9 | 0.9 | 1.5 | 23.8 |
+| Jalen Suggs (ORL) | 98% | 28.7<br><sub>25,31,30,22,33</sub> | 11.6<br><sub>12,18,8,9,4</sub> | 11.5 · –<br><sub>o 51% · u 49%</sub> | 4.2<br><sub>6,8,6,4,3</sub> | 4.5<br><sub>o 48% · u 52%</sub> | 4.6<br><sub>4,4,2,2,5</sub> | 4.5<br><sub>o 52% · u 48%</sub> | 1.7<br><sub>2,5,2,0,0</sub> | 1.5<br><sub>o 54% · u 46%</sub> | 1.7 | 0.6 | 2.2 | 20.3 |
 | Tristan da Silva (ORL) | 91% | 27.4<br><sub>31,27,24,27,33</sub> | 12.5<br><sub>13,12,6,18,16</sub> | 11.5 · –<br><sub>o 52% · u 48%</sub> | 3.8<br><sub>6,2,1,3,3</sub> | 3.5<br><sub>o 54% · u 46%</sub> | 1.8<br><sub>3,0,2,0,1</sub> |  | 2.1<br><sub>3,2,2,4,4</sub> | 2.5<br><sub>o 45% · u 55%</sub> | 0.8 | 0.2 | 1.0 | 18.1 |
 | Goga Bitadze (ORL) | 96% | 14.5<br><sub>20,20,15,15,13</sub> | 5.5<br><sub>10,8,4,1,2</sub> |  | 5.1<br><sub>6,3,4,4,8</sub> |  | 1.1<br><sub>1,1,1,1,1</sub> |  | 0.0<br><sub>0,0,0,0,0</sub> |  | 0.5 | 1.0 | 0.7 | 11.7 |
 | Jevon Carter (ORL) | 91% | 14.5<br><sub>12,16,10,14,19</sub> | 5.3<br><sub>3,6,3,3,9</sub> |  | 1.4<br><sub>2,2,0,2,0</sub> |  | 1.5<br><sub>1,3,0,2,0</sub> |  | 0.8<br><sub>1,2,1,1,3</sub> |  | 0.7 | 0.2 | 0.4 | 8.3 |
@@ -161,7 +160,7 @@ Out: PJ Hall (CHA), Kon Knueppel (CHA), Dennis Schroder (CHA), Nolan Traore (BKN
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Julius Randle | 99% | 33.8<br><sub>27,39,35,39,31</sub> | 20.8<br><sub>17,27,29,28,21</sub> | 19.5 · –<br><sub>o 52% · u 48%</sub> | 5.8<br><sub>0,9,4,9,5</sub> | 6.5<br><sub>o 43% · u 57%</sub> | 4.3<br><sub>4,6,4,3,5</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 1.4<br><sub>3,1,2,2,0</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 1.1 | 0.2 | 3.1 | 30.9 |
-| Michael Porter Jr. | 91% | 32.7<br><sub>27,34,31,34,31</sub> | 18.5<br><sub>5,16,11,12,17</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 6.0<br><sub>3,4,6,11,2</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.0<br><sub>1,5,2,4,0</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 2.5<br><sub>1,3,0,2,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.0 | 0.3 | 1.9 | 26.5 |
+| Michael Porter Jr. | 91% | 32.7<br><sub>27,34,31,34,31</sub> | 18.5<br><sub>5,16,11,12,17</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 6.0<br><sub>3,4,6,11,2</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.0<br><sub>1,5,2,4,0</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 2.5<br><sub>1,3,0,2,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.0 | 0.3 | 1.9 | 26.5 |
 | Day'Ron Sharpe | 99% | 24.2<br><sub>22,26,26,31,20</sub> | 9.1<br><sub>6,17,6,11,7</sub> | 8.5 · –<br><sub>o 48% · u 52%</sub> | 6.8<br><sub>5,11,5,14,4</sub> | 7.5<br><sub>o 50% · u 50%</sub> | 3.4<br><sub>1,2,7,5,2</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 0.3<br><sub>0,0,0,1,0</sub> |  | 1.1 | 0.8 | 1.5 | 19.3 |
 | Mikel Brown Jr. | 98% | 24.1<br><sub>27,24,29,23,25</sub> | 11.8<br><sub>15,18,17,6,21</sub> |  | 2.3<br><sub>1,1,5,2,2</sub> |  | 3.2<br><sub>4,0,7,2,2</sub> |  | 1.7<br><sub>2,3,4,0,4</sub> |  | 0.7 | 0.2 | 1.9 | 17.3 |
 | Egor Demin | 98% | 23.3<br><sub>31,21,25,25,17</sub> | 10.1<br><sub>22,6,10,15,7</sub> |  | 2.5<br><sub>4,3,3,3,1</sub> |  | 2.7<br><sub>4,2,4,4,1</sub> |  | 1.6<br><sub>3,0,2,0,1</sub> |  | 0.8 | 0.2 | 1.5 | 15.4 |
@@ -203,7 +202,7 @@ Out: PJ Hall (CHA), Kon Knueppel (CHA), Dennis Schroder (CHA), Nolan Traore (BKN
 | Player | Plays | Min | PTS | PTS line DK · SB | REB | REB line DK | AST | AST line DK | 3PM | 3PM line DK | STL | BLK | TOV | PRA |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Julius Randle (BKN) | 99% | 33.7<br><sub>27,39,35,39,31</sub> | 21.0<br><sub>17,27,29,28,21</sub> | 19.5 · –<br><sub>o 52% · u 48%</sub> | 5.8<br><sub>0,9,4,9,5</sub> | 6.5<br><sub>o 43% · u 57%</sub> | 4.3<br><sub>4,6,4,3,5</sub> | 4.5<br><sub>o 47% · u 53%</sub> | 1.4<br><sub>3,1,2,2,0</sub> | 1.5<br><sub>o 40% · u 60%</sub> | 1.1 | 0.2 | 3.1 | 31.1 |
-| Michael Porter Jr. (BKN) | 91% | 32.6<br><sub>27,34,31,34,31</sub> | 18.5<br><sub>5,16,11,12,17</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 6.0<br><sub>3,4,6,11,2</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.0<br><sub>1,5,2,4,0</sub> | 1.5<br><sub>o 57% · u 43%</sub> | 2.5<br><sub>1,3,0,2,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.0 | 0.3 | 1.9 | 26.4 |
+| Michael Porter Jr. (BKN) | 91% | 32.6<br><sub>27,34,31,34,31</sub> | 18.5<br><sub>5,16,11,12,17</sub> | 18.5 · –<br><sub>o 50% · u 50%</sub> | 6.0<br><sub>3,4,6,11,2</sub> | 6.5<br><sub>o 47% · u 53%</sub> | 2.0<br><sub>1,5,2,4,0</sub> | 1.5<br><sub>o 56% · u 44%</sub> | 2.5<br><sub>1,3,0,2,3</sub> | 2.5<br><sub>o 50% · u 50%</sub> | 1.0 | 0.3 | 1.9 | 26.4 |
 | Day'Ron Sharpe (BKN) | 99% | 24.3<br><sub>22,26,26,31,20</sub> | 9.2<br><sub>6,17,6,11,7</sub> | 8.5 · –<br><sub>o 48% · u 52%</sub> | 6.9<br><sub>5,11,5,14,4</sub> | 7.5<br><sub>o 50% · u 50%</sub> | 3.4<br><sub>1,2,7,5,2</sub> | 3.5<br><sub>o 52% · u 48%</sub> | 0.3<br><sub>0,0,0,1,0</sub> |  | 1.1 | 0.8 | 1.5 | 19.4 |
 | Mikel Brown Jr. (BKN) | 98% | 24.0<br><sub>27,24,29,23,25</sub> | 11.9<br><sub>15,18,17,6,21</sub> |  | 2.3<br><sub>1,1,5,2,2</sub> |  | 3.2<br><sub>4,0,7,2,2</sub> |  | 1.7<br><sub>2,3,4,0,4</sub> |  | 0.7 | 0.2 | 1.9 | 17.4 |
 | Egor Demin (BKN) | 98% | 23.2<br><sub>31,21,25,25,17</sub> | 10.2<br><sub>22,6,10,15,7</sub> |  | 2.5<br><sub>4,3,3,3,1</sub> |  | 2.7<br><sub>4,2,4,4,1</sub> |  | 1.6<br><sub>3,0,2,0,1</sub> |  | 0.8 | 0.2 | 1.4 | 15.4 |
