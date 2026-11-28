@@ -11,12 +11,12 @@ ORL @ WAS,Anthony Davis 2+ ast + Trae Young 10+ pts,2,0.6655,0.5192,1.93,2.02,1.
 ORL @ WAS,Anthony Davis 1+ blk + Kyshawn George 10+ pts,2,0.7234,0.5811,1.72,1.81,1.58,-0.0804,1.0,1.50-1.65
 ORL @ WAS,Anthony Davis 1+ blk + Trae Young 10+ pts,2,0.7188,0.5858,1.71,1.79,1.57,-0.0823,1.001,1.50-1.65
 ORL @ WAS,Anthony Davis 1+ blk + Trae Young 1+ 3pm,2,0.7329,0.601,1.66,1.75,1.52,-0.0845,1.0,1.50-1.65
-BKN @ CHA,Day'Ron Sharpe ra under 11.5 + Sion James 5+ pr,2,0.6373,0.4536,2.2,2.31,2.1,-0.0471,0.999,2.10-2.50
-BKN @ CHA,Day'Ron Sharpe reb under 7.5 + Sion James 5+ pr,2,0.6025,0.4347,2.3,2.42,2.18,-0.053,0.998,2.10-2.50
-BKN @ CHA,Day'Ron Sharpe ast under 3.5 + Sion James 5+ pr,2,0.5579,0.4199,2.38,2.5,2.23,-0.0625,1.0,2.10-2.50
-BKN @ CHA,Day'Ron Sharpe pra under 20.5 + Sion James 5+ pr,2,0.5933,0.4595,2.18,2.29,2.03,-0.0689,1.002,1.85-2.10
-BKN @ CHA,Coby White pts under 17.5 + Sion James 5+ pr,2,0.5769,0.4498,2.22,2.33,2.06,-0.0743,0.998,1.85-2.10
-BKN @ CHA,Brandon Miller ra under 8.5 + Sion James 5+ pr,2,0.5882,0.4641,2.15,2.26,1.99,-0.0766,0.996,1.85-2.10
+BKN @ CHA,Day'Ron Sharpe ra under 11.5 + Sion James 5+ pr,2,0.6373,0.4682,2.14,2.24,2.02,-0.0539,0.999,1.85-2.10
+BKN @ CHA,Day'Ron Sharpe ast under 3.5 + Sion James 5+ pr,2,0.5579,0.4221,2.37,2.49,2.22,-0.0637,1.0,2.10-2.50
+BKN @ CHA,game over 213.5 + Sion James 5+ pr,2,0.4964,0.4374,2.29,2.4,2.13,-0.0666,1.013,2.10-2.50
+BKN @ CHA,Coby White pr under 20.5 + Sion James 5+ pr,2,0.5694,0.4329,2.31,2.43,2.15,-0.0676,0.997,2.10-2.50
+BKN @ CHA,Day'Ron Sharpe reb under 7.5 + Sion James 5+ pr,2,0.6025,0.4594,2.18,2.29,2.03,-0.0681,0.998,1.85-2.10
+BKN @ CHA,Naz Reid reb under 8.5 + Sion James 5+ pr,2,0.5812,0.4546,2.2,2.31,2.04,-0.0743,0.998,1.85-2.10
 IND @ CHI,game over 234.5 + Nic Claxton 10+ pr,2,0.4722,0.4046,2.47,2.6,2.36,-0.0435,1.025,2.10-2.50
 IND @ CHI,game over 234.5 + Tre Jones 10+ pr,2,0.4521,0.4054,2.47,2.59,2.36,-0.0437,1.037,2.10-2.50
 IND @ CHI,game over 234.5 + Matas Buzelis 4+ reb,2,0.4459,0.3965,2.52,2.65,2.39,-0.0527,1.025,2.10-2.50
@@ -29,9 +29,9 @@ IND @ CHI,CHI win + Tre Jones 10+ pra,2,0.5646,0.5124,1.95,2.05,1.8,-0.0769,1.00
 IND @ CHI,Josh Giddey 1+ 3pm + Tre Jones 10+ pr,2,0.6659,0.5963,1.68,1.76,1.51,-0.0995,1.005,1.50-1.65
 IND @ CHI,Josh Giddey 1+ 3pm + Matas Buzelis 4+ reb,2,0.6608,0.5867,1.7,1.79,1.53,-0.1026,1.0,1.50-1.65
 IND @ CHI,Nic Claxton 10+ pr + Matas Buzelis 4+ reb + Isaac Okoro 10+ pra,3,0.6296,0.5266,1.9,1.99,1.62,-0.1451,1.005,1.50-1.65
-OKC @ MIL,Jaime Jaquez Jr. pts under 13.5 + OKC win,2,0.4646,0.4183,2.39,2.51,2.38,-0.0043,1.041,2.10-2.50
 OKC @ MIL,Kyle Kuzma pa under 15.5 + OKC win,2,0.4754,0.4357,2.29,2.41,2.28,-0.0057,1.045,2.10-2.50
 OKC @ MIL,Kyle Kuzma pra under 20.5 + OKC win,2,0.485,0.4315,2.32,2.43,2.3,-0.0066,1.035,2.10-2.50
+OKC @ MIL,Tyler Herro pa under 24.5 + OKC win,2,0.4726,0.4405,2.27,2.38,2.25,-0.0079,1.047,2.10-2.50
 OKC @ MIL,Ryan Rollins ra under 8.5 + OKC win,2,0.5073,0.4651,2.15,2.26,2.07,-0.0366,1.012,1.85-2.10
 OKC @ MIL,Kyle Kuzma pra under 20.5 + Kenrich Williams 5+ pa,2,0.6208,0.4595,2.18,2.29,2.05,-0.0575,1.0,1.85-2.10
 OKC @ MIL,Kyle Kuzma pra under 20.5 + Jared McCain 10+ pr,2,0.6113,0.4526,2.21,2.32,2.08,-0.0591,0.999,1.85-2.10
@@ -42,14 +42,14 @@ OKC @ MIL,Jared McCain 15+ pra + Kenrich Williams 1+ 3pm,2,0.6691,0.577,1.73,1.8
 OKC @ MIL,OKC win + Jared McCain 15+ pra + Kenrich Williams 10+ pr,3,0.5133,0.4975,2.01,2.11,1.82,-0.0955,1.034,1.65-1.85
 OKC @ MIL,OKC win + Jared McCain 15+ pra + Isaiah Hartenstein 10+ pa,3,0.517,0.5059,1.98,2.08,1.79,-0.0957,1.036,1.65-1.85
 PHI @ HOU,Kentavious Caldwell-Pope 3pm under 1.5 + HOU win,2,0.5624,0.4288,2.33,2.45,2.35,0.0072,1.015,2.10-2.50
-PHI @ HOU,HOU win + Kevin Durant 26+ pa,2,0.4829,0.4304,2.32,2.44,2.31,-0.0067,1.043,2.10-2.50
-PHI @ HOU,HOU win + Anfernee Simons 3pm under 2.5,2,0.4529,0.3936,2.54,2.67,2.49,-0.0199,1.027,2.10-2.50
-PHI @ HOU,Kentavious Caldwell-Pope 3pm under 1.5 + Dominick Barlow 5+ pr,2,0.6707,0.4753,2.1,2.21,2.01,-0.0454,0.998,1.85-2.10
+PHI @ HOU,Kevin Durant 25+ pa + HOU win,2,0.5147,0.4374,2.29,2.4,2.28,-0.0033,1.038,2.10-2.50
+PHI @ HOU,Kevin Durant 31+ pra + HOU win,2,0.5081,0.4316,2.32,2.43,2.31,-0.004,1.037,2.10-2.50
+PHI @ HOU,Kentavious Caldwell-Pope 3pm under 1.5 + Kevin Durant 15+ pa,2,0.668,0.4704,2.13,2.23,2.03,-0.0442,0.998,1.85-2.10
 PHI @ HOU,HOU win + Kentavious Caldwell-Pope reb under 3.5,2,0.5505,0.4788,2.09,2.19,1.99,-0.0479,0.997,1.85-2.10
-PHI @ HOU,Reed Sheppard 3pm under 1.5 + Dominick Barlow 5+ pr,2,0.5958,0.4497,2.22,2.33,2.09,-0.0613,1.001,1.85-2.10
-PHI @ HOU,Kentavious Caldwell-Pope reb under 3.5 + Alperen Sengun 6+ reb,2,0.633,0.5047,1.98,2.08,1.83,-0.0764,1.001,1.65-1.85
-PHI @ HOU,Kentavious Caldwell-Pope reb under 3.5 + Alperen Sengun 20+ pr,2,0.6362,0.5088,1.97,2.06,1.81,-0.0775,1.001,1.65-1.85
-PHI @ HOU,Kentavious Caldwell-Pope reb under 3.5 + Jabari Smith Jr. 1+ 3pm,2,0.6217,0.5001,2.0,2.1,1.84,-0.0793,1.0,1.65-1.85
-PHI @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Alperen Sengun 20+ pr,3,0.5976,0.5463,1.83,1.92,1.65,-0.1002,1.023,1.50-1.65
-PHI @ HOU,HOU win + Jabari Smith Jr. 10+ pa + Alperen Sengun 20+ pr,3,0.6314,0.578,1.73,1.82,1.55,-0.1013,1.022,1.50-1.65
-PHI @ HOU,HOU win + Jabari Smith Jr. 10+ pa + Alperen Sengun 4+ ast,3,0.6239,0.5756,1.74,1.82,1.56,-0.1015,1.024,1.50-1.65
+PHI @ HOU,HOU win + Jabari Smith Jr. 15+ pr,2,0.6543,0.6286,1.59,1.67,1.5,-0.0561,1.014,1.50-1.65
+PHI @ HOU,Reed Sheppard 3pm under 1.5 + Jabari Smith Jr. 10+ pr,2,0.6035,0.4513,2.22,2.33,2.08,-0.0624,0.998,1.85-2.10
+PHI @ HOU,Kentavious Caldwell-Pope reb under 3.5 + Alperen Sengun 6+ reb,2,0.633,0.5056,1.98,2.08,1.83,-0.0769,1.001,1.65-1.85
+PHI @ HOU,Kentavious Caldwell-Pope reb under 3.5 + Kevin Durant 15+ pa,2,0.6656,0.5347,1.87,1.96,1.72,-0.0803,0.999,1.65-1.85
+PHI @ HOU,HOU win + Kevin Durant 15+ pts + Jabari Smith Jr. 10+ pa,3,0.6022,0.5466,1.83,1.92,1.66,-0.0901,1.033,1.65-1.85
+PHI @ HOU,HOU win + Kevin Durant 20+ pr + Jabari Smith Jr. 10+ pa,3,0.6063,0.5538,1.81,1.9,1.64,-0.0935,1.03,1.50-1.65
+PHI @ HOU,HOU win + Jabari Smith Jr. 15+ pr + Kevin Durant 20+ pra,3,0.6228,0.5687,1.76,1.85,1.58,-0.1001,1.023,1.50-1.65
