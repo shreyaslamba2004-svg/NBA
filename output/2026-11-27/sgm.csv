@@ -1,16 +1,16 @@
 matchup,legs,n_legs,model_only_prob,model_prob,fair_odds,min_price_worth_taking,multiplied_leg_prices,ev_at_multiplied_prices,correlation_lift,band
-MEM @ MIN,Rudy Gobert 9+ pts + Cam Spencer 10+ pa,2,0.5469,0.4117,2.43,2.55,2.43,0.0021,1.002,2.10-2.50
+MEM @ MIN,Rudy Gobert 9+ pts + Cam Spencer 10+ pa,2,0.5469,0.4105,2.44,2.56,2.44,0.0028,1.002,2.10-2.50
+MEM @ MIN,Rudy Gobert 9+ pts + Jaden McDaniels 20+ pra,2,0.5633,0.4369,2.29,2.4,2.29,-0.0002,1.007,2.10-2.50
 MEM @ MIN,Rudy Gobert 9+ pts + Terrence Shannon Jr. 15+ pra,2,0.5698,0.444,2.25,2.36,2.24,-0.004,1.005,2.10-2.50
-MEM @ MIN,Rudy Gobert 9+ pts + Kris Murray 5+ pr,2,0.5728,0.4416,2.26,2.38,2.26,-0.0042,1.002,2.10-2.50
-MEM @ MIN,Cam Spencer 11+ pts + Jaylen Wells 5+ pa,2,0.5485,0.4611,2.17,2.28,2.08,-0.0408,1.003,1.85-2.10
-MEM @ MIN,Bones Hyland pts under 12.5 + Jaylen Wells 5+ pa,2,0.5333,0.4608,2.17,2.28,2.08,-0.0415,0.998,1.85-2.10
 MEM @ MIN,Rudy Gobert 21+ pra + Terrence Shannon Jr. 15+ pra,2,0.6344,0.4599,2.17,2.28,2.08,-0.0433,1.005,1.85-2.10
-MEM @ MIN,Rudy Gobert 10+ pa + Jaylen Wells 5+ pa,2,0.6748,0.5132,1.95,2.05,1.83,-0.062,1.0,1.65-1.85
-MEM @ MIN,Bones Hyland 3pm under 2.5 + Jaylen Wells 5+ pa,2,0.6774,0.5161,1.94,2.03,1.81,-0.0656,1.0,1.65-1.85
-MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb,2,0.7326,0.5961,1.68,1.76,1.54,-0.0807,1.003,1.50-1.65
-MEM @ MIN,Rudy Gobert 8+ reb + Cam Spencer 1+ 3pm,2,0.6834,0.5825,1.72,1.8,1.56,-0.0918,1.002,1.50-1.65
-MEM @ MIN,Jaden McDaniels 4+ reb + Cam Spencer 1+ 3pm,2,0.6846,0.5813,1.72,1.81,1.56,-0.0923,1.0,1.50-1.65
-MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb + Cam Spencer 10+ pa,3,0.6485,0.481,2.08,2.18,1.83,-0.1193,1.006,1.65-1.85
+MEM @ MIN,Rudy Gobert 21+ pra + Kris Murray 5+ pr,2,0.6374,0.4572,2.19,2.3,2.09,-0.0439,1.001,1.85-2.10
+MEM @ MIN,Jaylen Wells 10+ pts + Rudy Gobert 5+ pa,2,0.5828,0.4741,2.11,2.21,2.01,-0.0464,1.001,1.85-2.10
+MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb,2,0.7326,0.6056,1.65,1.73,1.51,-0.0843,1.003,1.50-1.65
+MEM @ MIN,Cam Spencer 10+ pa + Jaylen Wells 10+ pr,2,0.7148,0.6046,1.65,1.74,1.51,-0.0884,1.004,1.50-1.65
+MEM @ MIN,Jaden McDaniels 4+ reb + Jaylen Wells 10+ pr,2,0.693,0.5854,1.71,1.79,1.56,-0.0887,1.003,1.50-1.65
+MEM @ MIN,Jaden McDaniels 4+ reb + Cam Spencer 10+ pa + Rudy Gobert 8+ reb,3,0.6485,0.4872,2.05,2.16,1.8,-0.1222,1.006,1.65-1.85
+MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb + Terrence Shannon Jr. 15+ pra,3,0.6738,0.5255,1.9,2.0,1.65,-0.1305,1.005,1.65-1.85
+MEM @ MIN,Jaden McDaniels 4+ reb + Rudy Gobert 8+ reb + Kris Murray 5+ pr,3,0.6772,0.5226,1.91,2.01,1.66,-0.1308,1.002,1.65-1.85
 DAL @ PHX,Caleb Martin 3pm under 1.5 + Collin Gillespie 3pm under 2.5,2,0.5808,0.3898,2.57,2.69,2.48,-0.0329,1.001,2.10-2.50
 DAL @ PHX,Caleb Martin 3pm under 1.5 + P.J. Washington 15+ pra,2,0.6765,0.4655,2.15,2.26,2.05,-0.0436,0.997,1.85-2.10
 DAL @ PHX,Jalen Green 2+ 3pm + P.J. Washington 15+ pra,2,0.5337,0.3926,2.55,2.67,2.43,-0.0458,1.009,2.10-2.50
@@ -23,40 +23,40 @@ DAL @ PHX,Collin Gillespie 3pm under 2.5 + P.J. Washington 10+ pr,2,0.703,0.5621
 DAL @ PHX,Jordan Goodwin 3pm under 1.5 + P.J. Washington 10+ pr,2,0.6369,0.5095,1.96,2.06,1.8,-0.0806,0.998,1.65-1.85
 DAL @ PHX,P.J. Washington 10+ pa + Devin Booker 4+ ast,2,0.7199,0.5979,1.67,1.76,1.53,-0.086,1.002,1.50-1.65
 DAL @ PHX,P.J. Washington 10+ pa + Zaccharie Risacher 10+ pra,2,0.6917,0.5878,1.7,1.79,1.55,-0.0905,1.003,1.50-1.65
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + SAS win,2,0.5072,0.4074,2.45,2.58,2.48,0.0096,1.021,2.10-2.50
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.7149,0.5031,1.99,2.09,1.9,-0.0445,0.999,1.85-2.10
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Austin Reaves 10+ pr,2,0.7768,0.5563,1.8,1.89,1.71,-0.0471,1.0,1.65-1.85
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Austin Reaves 1+ 3pm,2,0.6696,0.4791,2.09,2.19,1.99,-0.0476,0.999,1.85-2.10
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.7187,0.5169,1.93,2.03,1.83,-0.0517,0.996,1.65-1.85
-LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Luka Doncic 4+ reb,2,0.7116,0.5183,1.93,2.03,1.83,-0.0522,0.999,1.65-1.85
-LAL @ SAS,Luka Doncic pa under 40.5 + Devin Vassell 1+ 3pm,2,0.5819,0.4268,2.34,2.46,2.21,-0.0577,0.998,2.10-2.50
-LAL @ SAS,Julian Champagnie 3pm under 2.5 + Austin Reaves 15+ pr,2,0.5265,0.3965,2.52,2.65,2.37,-0.061,1.001,2.10-2.50
-LAL @ SAS,Luka Doncic pa under 40.5 + Austin Reaves 10+ pr,2,0.6302,0.4704,2.13,2.23,1.99,-0.0633,0.996,1.85-2.10
-LAL @ SAS,SAS win + Austin Reaves 10+ pr,2,0.5791,0.59,1.69,1.78,1.56,-0.0793,0.994,1.50-1.65
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 1+ 3pm,2,0.7149,0.5019,1.99,2.09,1.91,-0.0432,0.999,1.85-2.10
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Keldon Johnson 10+ pr,2,0.6605,0.4689,2.13,2.24,2.03,-0.046,0.999,1.85-2.10
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Devin Vassell 10+ pra,2,0.7741,0.5579,1.79,1.88,1.71,-0.0479,1.0,1.65-1.85
+LAL @ SAS,Matisse Thybulle 3pm under 1.5 + Jake LaRavia 5+ pr,2,0.7187,0.5122,1.95,2.05,1.86,-0.0489,0.996,1.85-2.10
+LAL @ SAS,Julian Champagnie 3pm under 2.5 + Jake LaRavia 5+ pr,2,0.5815,0.4295,2.33,2.44,2.2,-0.055,1.001,2.10-2.50
+LAL @ SAS,Julian Champagnie 3pm under 2.5 + Devin Vassell 1+ 3pm,2,0.5741,0.4176,2.39,2.51,2.26,-0.0565,0.996,2.10-2.50
+LAL @ SAS,SAS win + Keldon Johnson 10+ pr,2,0.5055,0.5157,1.94,2.04,1.83,-0.0566,1.019,1.65-1.85
+LAL @ SAS,Julian Champagnie 3pm under 2.5 + Keldon Johnson 10+ pr,2,0.5274,0.388,2.58,2.71,2.41,-0.0646,0.99,2.10-2.50
+LAL @ SAS,SAS win + Devin Vassell 1+ 3pm,2,0.5395,0.5442,1.84,1.93,1.71,-0.0671,1.005,1.65-1.85
+LAL @ SAS,SAS win + Devin Vassell 10+ pra,2,0.5849,0.6057,1.65,1.73,1.53,-0.0704,1.007,1.50-1.65
 DEN @ UTA,Christian Braun 20+ pra + DEN win,2,0.4277,0.3969,2.52,2.65,2.45,-0.0283,1.039,2.10-2.50
 DEN @ UTA,Darryn Peterson pts under 17.5 + DEN win,2,0.4561,0.4231,2.36,2.48,2.29,-0.0301,1.044,2.10-2.50
 DEN @ UTA,game under 231.5 + DEN win,2,0.2644,0.3871,2.58,2.71,2.47,-0.0435,1.013,2.10-2.50
+DEN @ UTA,Brice Sensabaugh 16+ pra + Christian Braun 10+ pr,2,0.5971,0.4623,2.16,2.27,2.03,-0.0637,1.003,1.85-2.10
 DEN @ UTA,DEN win + Christian Braun 15+ pra,2,0.6117,0.593,1.69,1.77,1.57,-0.0662,1.017,1.50-1.65
-DEN @ UTA,Brice Sensabaugh 16+ pra + Christian Braun 10+ pr,2,0.5971,0.4608,2.17,2.28,2.03,-0.0666,1.003,1.85-2.10
 DEN @ UTA,Brice Sensabaugh 14+ pr + Christian Braun 10+ pr,2,0.6099,0.4727,2.12,2.22,1.97,-0.0678,1.003,1.85-2.10
-DEN @ UTA,Brice Sensabaugh 11+ pts + Christian Braun 10+ pr,2,0.5919,0.4642,2.15,2.26,2.0,-0.0707,1.003,1.85-2.10
+DEN @ UTA,Brice Sensabaugh 16+ pra + Keyonte George 1+ 3pm,2,0.5753,0.4582,2.18,2.29,2.03,-0.0692,1.004,1.85-2.10
 DEN @ UTA,Brice Sensabaugh 3+ reb + Christian Braun 10+ pr,2,0.6241,0.5048,1.98,2.08,1.83,-0.0774,1.004,1.65-1.85
-DEN @ UTA,Darryn Peterson 4+ ast + Christian Braun 10+ pr,2,0.6108,0.5156,1.94,2.04,1.78,-0.0843,1.002,1.65-1.85
 DEN @ UTA,Brice Sensabaugh 3+ reb + Cameron Johnson 10+ pra,2,0.6362,0.5246,1.91,2.0,1.74,-0.0847,1.001,1.65-1.85
+DEN @ UTA,Aaron Gordon 3pm under 1.5 + Christian Braun 10+ pa,2,0.6205,0.5073,1.97,2.07,1.8,-0.086,0.998,1.65-1.85
 DEN @ UTA,DEN win + Ace Bailey 4+ reb,2,0.5736,0.5741,1.74,1.83,1.58,-0.0904,0.998,1.50-1.65
-DEN @ UTA,DEN win + Brice Sensabaugh 1+ 3pm,2,0.6047,0.6037,1.66,1.74,1.5,-0.0943,0.993,1.50-1.65
-NOP @ LAC,Yves Missi reb under 7.5 + Kris Dunn 5+ pr,2,0.6059,0.3982,2.51,2.64,2.44,-0.0265,0.999,2.10-2.50
-NOP @ LAC,game over 230.5 + Kris Dunn 5+ pr,2,0.4074,0.403,2.48,2.61,2.39,-0.0384,1.027,2.10-2.50
-NOP @ LAC,Yves Missi reb under 7.5 + Derrick Jones Jr. 5+ pa,2,0.6211,0.4261,2.35,2.46,2.26,-0.0385,0.997,2.10-2.50
-NOP @ LAC,Yves Missi ra under 9.5 + Derrick Jones Jr. 5+ pa,2,0.663,0.4818,2.08,2.18,1.96,-0.0539,0.996,1.85-2.10
-NOP @ LAC,Yves Missi ra under 9.5 + Derik Queen 10+ pr,2,0.6469,0.4755,2.1,2.21,1.99,-0.054,0.999,1.85-2.10
-NOP @ LAC,Yves Missi ra under 9.5 + Derik Queen 10+ pra,2,0.6841,0.5076,1.97,2.07,1.86,-0.0542,1.001,1.85-2.10
-NOP @ LAC,Yves Missi ra under 9.5 + Darius Garland 1+ 3pm,2,0.6817,0.5122,1.95,2.05,1.84,-0.0582,0.999,1.65-1.85
-NOP @ LAC,Herbert Jones 3pm under 1.5 + Derrick Jones Jr. 5+ pa,2,0.6964,0.529,1.89,1.98,1.77,-0.066,0.999,1.65-1.85
-NOP @ LAC,Herbert Jones 3pm under 1.5 + Saddiq Bey 1+ 3pm,2,0.6896,0.5341,1.87,1.97,1.74,-0.0702,0.999,1.65-1.85
-NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6925,0.598,1.67,1.76,1.52,-0.093,1.003,1.50-1.65
-NOP @ LAC,Brook Lopez 10+ pr + Jeremiah Fears 1+ 3pm,2,0.6518,0.5926,1.69,1.77,1.5,-0.1085,0.999,1.50-1.65
-NOP @ LAC,Kris Dunn 5+ pr + Derrick Jones Jr. 5+ pa + Derik Queen 10+ pr,3,0.6889,0.5483,1.82,1.91,1.58,-0.1359,1.004,1.50-1.65
+DEN @ UTA,Aaron Gordon 3pm under 1.5 + Cameron Johnson 10+ pra,2,0.6766,0.5692,1.76,1.84,1.6,-0.0912,0.999,1.50-1.65
+NOP @ LAC,Yves Missi reb under 7.5 + Kris Dunn 5+ pr,2,0.6121,0.3994,2.5,2.63,2.44,-0.0237,0.999,2.10-2.50
+NOP @ LAC,Yves Missi reb under 7.5 + Jeremiah Fears 1+ 3pm,2,0.5535,0.3888,2.57,2.7,2.48,-0.0351,1.006,2.10-2.50
+NOP @ LAC,game over 230.5 + Kris Dunn 5+ pr,2,0.3935,0.404,2.48,2.6,2.39,-0.0359,1.029,2.10-2.50
+NOP @ LAC,Yves Missi ra under 9.5 + Derik Queen 10+ pr,2,0.6567,0.4774,2.09,2.2,1.99,-0.0502,1.0,1.85-2.10
+NOP @ LAC,Yves Missi ra under 9.5 + Derik Queen 4+ reb,2,0.6259,0.4577,2.18,2.29,2.07,-0.0515,1.0,1.85-2.10
+NOP @ LAC,Yves Missi ra under 9.5 + Derrick Jones Jr. 5+ pa,2,0.6632,0.4824,2.07,2.18,1.96,-0.0525,0.997,1.85-2.10
+NOP @ LAC,Herbert Jones 3pm under 1.5 + Derrick Jones Jr. 5+ pa,2,0.6886,0.5287,1.89,1.99,1.77,-0.0665,1.001,1.65-1.85
+NOP @ LAC,Herbert Jones 3pm under 1.5 + Derik Queen 10+ pr,2,0.6788,0.521,1.92,2.02,1.79,-0.0681,1.0,1.65-1.85
+NOP @ LAC,Herbert Jones 3pm under 1.5 + Derik Queen 10+ pra,2,0.7155,0.5556,1.8,1.89,1.68,-0.0693,1.001,1.65-1.85
+NOP @ LAC,Kris Dunn 5+ pr + Jeremiah Fears 1+ 3pm,2,0.6973,0.5982,1.67,1.76,1.52,-0.0927,1.002,1.50-1.65
+NOP @ LAC,Brook Lopez 10+ pr + Jeremiah Fears 1+ 3pm,2,0.6554,0.5939,1.68,1.77,1.5,-0.1065,1.0,1.50-1.65
+NOP @ LAC,Kris Dunn 5+ pr + Derik Queen 10+ pr + Derrick Jones Jr. 5+ pa,3,0.6943,0.5488,1.82,1.91,1.58,-0.1352,1.003,1.50-1.65
 GSW @ POR,GSW +7.5 + Draymond Green 5+ pa,2,0.59,0.456,2.19,2.3,2.09,-0.0484,1.011,1.85-2.10
 GSW @ POR,GSW +7.5 + Yaxel Lendeborg 15+ pr,2,0.5825,0.4518,2.21,2.32,2.1,-0.0499,1.01,2.10-2.50
 GSW @ POR,Jrue Holiday 6+ ast + Sidy Cissoko 10+ pra,2,0.6037,0.4462,2.24,2.35,2.12,-0.0521,1.002,2.10-2.50
